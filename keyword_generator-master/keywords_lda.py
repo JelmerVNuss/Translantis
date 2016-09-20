@@ -36,11 +36,11 @@ import time
 def exclude_topics(topics):
     print("Topics generated:")
     print_topics(topics)
-    input = raw_input("Enter topics to exclude, separated by commas: ")
-    input = input.replace(" ", "")
-    if input == "":
+    response = input("Enter topics to exclude, separated by commas: ")
+    response = response.replace(" ", "")
+    if response == "":
         return topics
-    excl_topics = input.split(",")
+    excl_topics = response.split(",")
     for i in range(len(excl_topics)):
         excl_topics[i] = int(excl_topics[i])
     excl_topics.sort(reverse=True)
@@ -77,8 +77,8 @@ def generate_keywords(corpus, dictionary, topics, num_keywords):
 
     # Probability for each token multiplied by token frequency
     matrix = gensim.matutils.corpus2csc(corpus)
-    for token, pr in keywords.iteritems():
-        for dict_tuple in dictionary.iteritems():
+    for token, pr in keywords.items():
+        for dict_tuple in dictionary.items():
             if dict_tuple[1] == token:
                 token_index = dict_tuple[0]
                 break
@@ -97,7 +97,7 @@ def generate_keywords(corpus, dictionary, topics, num_keywords):
 def print_keywords(keywords):
     i = 1
     for k in keywords:
-        print "(%i) %s [%s]" % (i, k[0], k[1])
+        print("(%i) %s [%s]" % (i, k[0], k[1]))
         i += 1
 
 
@@ -127,9 +127,6 @@ def export_distributions(distributions):
 
 
 def main():
-    if sys.stdout.encoding != 'UTF-8':
-        sys.stdout = codecs.getwriter('utf-8')(sys.stdout, 'strict')
-
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", required=False, help="the number of topics")
     parser.add_argument("-w", required=False, help="the number of words per topic")

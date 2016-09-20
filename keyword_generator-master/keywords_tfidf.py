@@ -76,6 +76,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-k", required=False, help="the number of keywords")
     parser.add_argument("-d", required=False, help="document length")
+    parser.add_argument("-a", required=False, help="remove non-alphabetic characters")
     args = parser.parse_args()
 
     num_keywords = vars(args)["k"]
@@ -90,10 +91,16 @@ def main():
     else:
         doc_length = int(doc_length)
 
+    removeNonAlphabetic = vars(args)["a"]
+    if not removeNonAlphabetic:
+        removeNonAlphabetic = False
+    else:
+        removeNonAlphabetic = True
+
     doc_folder = "data" + os.sep + "documents"
     stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length)
+    c = cp.MyCorpus(doc_folder, stop_folder, doc_length, removeNonAlphabetic=removeNonAlphabetic)
     corpus, dictionary = c.load()
 
     tfidf = gensim.models.TfidfModel(corpus)

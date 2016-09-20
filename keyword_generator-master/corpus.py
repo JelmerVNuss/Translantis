@@ -26,7 +26,7 @@ import warnings
 
 
 # Pre-process input documents
-def get_documents(path, doc_length):
+def get_documents(path, doc_length, removeNonAlphabetic=False):
     print("Processing documents ...")
     docs = []
     for filename in os.listdir(path):
@@ -36,8 +36,12 @@ def get_documents(path, doc_length):
             file.close()
             if doc_length > 0:
                 for piece in splitter(doc_length, string):
+                    if removeNonAlphabeticWords:
+                        piece = removeNonAlphabeticWords(piece)
                     docs.append(piece)
             else:
+                if removeNonAlphabeticWords:
+                    string = removeNonAlphabeticWords(string)
                 docs.append(string)
     num_docs = len(docs)
     print("Number of documents: %i" % num_docs)
@@ -49,6 +53,12 @@ def splitter(n, s):
     pieces = s.split()
     return (" ".join(pieces[i:i+n]) for i in xrange(0, len(pieces), n))
 
+def removeNonAlphabeticWords(text):
+    """
+    """
+    text = text.split()
+    cleaned = [word for word in text if word.isalpha()]
+    return " ".join(cleaned)
 
 # Set stop word list
 def get_stop_words(path):
@@ -79,8 +89,8 @@ class MyCorpus(object):
     warnings.filterwarnings('ignore')
     model_folder = "data/models"
 
-    def __init__(self, topdir, stopdir, doc_length):
-        self.doclist = get_documents(topdir, doc_length)
+    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic):
+        self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic)
         self.stoplist = get_stop_words(stopdir)
 
         print("Generating dictionary ...")
