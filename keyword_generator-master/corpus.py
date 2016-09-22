@@ -26,7 +26,7 @@ import warnings
 
 
 # Pre-process input documents
-def get_documents(path, doc_length, removeNonAlphabetic=False):
+def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=False):
     print("Processing documents ...")
     docs = []
     for filename in os.listdir(path):
@@ -36,12 +36,16 @@ def get_documents(path, doc_length, removeNonAlphabetic=False):
             file.close()
             if doc_length > 0:
                 for piece in splitter(doc_length, string):
-                    if removeNonAlphabeticWords:
+                    if removeNonAlphabetic:
                         piece = removeNonAlphabeticWords(piece)
+                    if removeUnique:
+                        piece = removeUniqueWords(piece)
                     docs.append(piece)
             else:
-                if removeNonAlphabeticWords:
+                if removeNonAlphabetic:
                     string = removeNonAlphabeticWords(string)
+                if removeUnique:
+                    string = removeUniqueWords(string)
                 docs.append(string)
     num_docs = len(docs)
     print("Number of documents: %i" % num_docs)
@@ -59,6 +63,16 @@ def removeNonAlphabeticWords(text):
     text = text.split()
     cleaned = [word for word in text if word.isalpha()]
     return " ".join(cleaned)
+
+def removeUniqueWords(text):
+    """
+    """
+    text = text.split()
+    seen = set()
+    seen_add = seen.add
+    unique = [word for word in text if not (word in seen or seen_add(word))]
+    return " ".join(unique)
+
 
 # Set stop word list
 def get_stop_words(path):
@@ -89,8 +103,8 @@ class MyCorpus(object):
     warnings.filterwarnings('ignore')
     model_folder = "data/models"
 
-    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic):
-        self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic)
+    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic, removeUnique):
+        self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic, removeUnique)
         self.stoplist = get_stop_words(stopdir)
 
         print("Generating dictionary ...")
