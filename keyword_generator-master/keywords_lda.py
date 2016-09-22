@@ -133,6 +133,8 @@ def main():
     parser.add_argument("-k", required=False, help="the number of keywords")
     parser.add_argument("-d", required=False, help="document length")
     parser.add_argument("-m", required=False, help="Mallet path")
+    parser.add_argument("-a", required=False, help="remove non-alphabetic words")
+    parser.add_argument("-u", required=False, help="remove unique words")
     args = parser.parse_args()
 
     num_topics = vars(args)["t"]
@@ -161,29 +163,60 @@ def main():
 
     mallet_path = vars(args)["m"]
 
+    removeNonAlphabetic = vars(args)["a"]
+    if not removeNonAlphabetic:
+        removeNonAlphabetic = False
+    else:
+        removeNonAlphabetic = True
+
+    removeUnique = vars(args)["u"]
+    if not removeUnique:
+        removeUnique = False
+    else:
+        removeUnique = True
+
     doc_folder = "data" + os.sep + "documents"
     stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length)
+    c = cp.MyCorpus(doc_folder, stop_folder, doc_length, removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique)
     corpus, dictionary = c.load()
 
-    if mallet_path:
-        print("Generating model with Mallet LDA ...")
-        lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
-        topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-        distributions = [dist for dist in lda.load_document_topics()]
-    else:
-        print("Generating model with Gensim LDA ...")
-        lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
-        gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-        topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
-        distributions = []
-        matrix = gensim.matutils.corpus2csc(corpus)
-        for i in range(matrix.get_shape()[1]):
-            bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
-            distributions.append(lda.get_document_topics(bow, 0))
+    excludedTopics = []
+    isFinishedInput = None
+    while isFinishedInput not in ("yes", "y"):
+        if mallet_path:
+            print("Generating model with Mallet LDA ...")
+            lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
+            topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+            #while not set(topics).isdisjoint(excludedTopics):
+            while any(i in topics for i in excludedTopics):
+                num_topics += 1
+                topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+                topics = [x for x in topics if x not in excludedTopics]
+            distributions = [dist for dist in lda.load_document_topics()]
+        else:
+            print("Generating model with Gensim LDA ...")
+            lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
+            gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
+            topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+            #while not set(topics).isdisjoint(excludedTopics):
+            while any(i in topics for i in excludedTopics):
+                num_topics += 1
+                lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
+                gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
+                topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+                topics = [x for x in topics if x not in excludedTopics]
+            distributions = []
+            matrix = gensim.matutils.corpus2csc(corpus)
+            for i in range(matrix.get_shape()[1]):
+                bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
+                distributions.append(lda.get_document_topics(bow, 0))
 
-    topics = exclude_topics(topics)
+        allTopics = topics
+        topics = exclude_topics(topics)
+        excludedTopics.append([topic for topic in allTopics if topic not in topics])
+
+        isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
 
     keywords = generate_keywords(corpus, dictionary, topics, num_keywords)
     print("Keywords generated:")
