@@ -1,3 +1,15 @@
+"""filemerger.py: Find all files in nested folders starting from a root and
+merge them.
+
+Usage:
+    filemerger.py -r <root>
+where <root> is the specified path to the starting folder, either
+             a relative or absolute path.
+
+A valid example is:
+    filemerger.py -r ./test"
+"""
+
 import sys
 import os
 import getopt
@@ -22,15 +34,6 @@ def merge(root, extension="txt"):
 
 
 def main(argv):
-    """Find all files in nested folders starting from a root and merge them.
-
-    Usage:
-        filemerger.py -r <root>
-    where <root> is the specified path to the starting folder, either
-    a relative or absolute path.
-    A valid example is:
-        filemerger.py -r ./test"
-    """
     try:
         opts, args = getopt.getopt(argv,"hr:",["root="])
     except getopt.GetoptError:

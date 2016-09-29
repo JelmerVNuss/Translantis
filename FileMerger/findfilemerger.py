@@ -1,3 +1,18 @@
+"""findfilemerger: Find all files in nested folders starting from a root that
+contain the same search term and combine them into a single file.
+
+Usage:
+    filemerger.py -r <root> -o <option> -v <values>
+where <root> is the specified path to the starting folder,
+      <option> is a search option, either TOPIC or YEAR, and
+      <values> is a comma-separated string of values.
+
+A valid example is:
+    filemerger.py -r ./test -o topic -v="test1,test2"
+Or by year (only two values are allowed: the start and end year):
+    filemerger.py -r ./test -o year -v="1990,2000"
+"""
+
 import sys
 import os
 import getopt
@@ -46,19 +61,6 @@ def mergeSimilarDocuments(root, searchTerm):
 
 
 def main(argv):
-    """Find all files in nested folders starting from a root that contain the
-    same search term and combine them into a single file.
-
-    Usage:
-        filemerger.py -r <root> -o <option> -v <values>
-    where <root> is the specified path to the starting folder,
-    <option> is a search option, either TOPIC or YEAR, and
-    <values> is a comma-separated string of values.
-    A valid example is:
-        filemerger.py -r ./test -o topic -v="test1,test2"
-    Or by year (only two values are allowed: the start and end year):
-        filemerger.py -r ./test -o year -v="1990,2000"
-    """
     try:
         opts, args = getopt.getopt(argv,"hr:o:v:",["root=","option=","values="])
     except getopt.GetoptError:
