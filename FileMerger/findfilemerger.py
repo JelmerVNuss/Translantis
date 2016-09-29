@@ -34,15 +34,14 @@ def mergeSimilarDocuments(root, searchTerm):
     searchTerm = str(searchTerm).lower()
 
     document = []
+
     for root, directories, files in os.walk(root):
         for name in files:
             filepath = os.path.join(root, name)
-            print(filepath)
             if searchTerm in filepath.lower():
                 with open(filepath, 'r') as f:
                     document.append(f.read())
 
-    print(''.join(document))
     return ''.join(document)
 
 
@@ -52,7 +51,7 @@ def main(argv):
 
     Usage:
         filemerger.py -r <root> -o <option> -v <values>
-    where <root> is specified path to the starting folder,
+    where <root> is the specified path to the starting folder,
     <option> is a search option, either TOPIC or YEAR, and
     <values> is a comma-separated string of values.
     A valid example is:
