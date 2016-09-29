@@ -2,6 +2,12 @@
 contain the same search term and combine them into a single file.
 The merged files are stored in the running directory.
 
+Only considers files that contain the search term, all other files are disregarded.
+Aim to be on the overextending side when the exact terms are unknown, take the
+years (1950, 1980) for example over a possible exact amount of years (1956, 1967),
+as all years not in (1956, 1967) just create empty files that either have no
+influence in analysis, or can be removed manually.
+
 Usage:
     filemerger.py -r <root> -o <option> -v <values>
 where <root> is the specified path to the starting folder,
