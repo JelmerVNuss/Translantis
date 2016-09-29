@@ -1,5 +1,6 @@
 """findfilemerger: Find all files in nested folders starting from a root that
 contain the same search term and combine them into a single file.
+The merged files are stored in the running directory.
 
 Usage:
     filemerger.py -r <root> -o <option> -v <values>

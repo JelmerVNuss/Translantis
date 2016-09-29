@@ -1,5 +1,6 @@
 """filemerger.py: Find all files in nested folders starting from a root and
 merge them.
+The merged files are stored in the running directory.
 
 Usage:
     filemerger.py -r <root>
