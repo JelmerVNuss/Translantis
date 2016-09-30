@@ -31,6 +31,8 @@ import pprint
 import sys
 import time
 
+from plot_topics import plot_stacked_bar
+
 
 # Exclude topics
 def exclude_topics(topics):
@@ -111,12 +113,13 @@ def export_keywords(keywords):
     f.close()
 
 
-def export_distributions(distributions):
+def export_distributions(topics, distributions):
     filename = int(time.time())
     f = open("data" + os.sep + "topic_distributions" + os.sep + str(filename) + ".csv", "w+")
     f.write("Document")
     for i in range(len(distributions[0])):
-        f.write(",Topic " + str(i + 1))
+        topic = ' '.join([topic[1] for topic in topics[i]])
+        f.write(",Topic {0}: {1}".format(str(i + 1), topic))
     f.write("\n")
     for dist in distributions:
         f.write(str(distributions.index(dist)))
@@ -237,8 +240,26 @@ def main():
     print("Keywords generated:")
     print_keywords(keywords)
 
-    export_keywords(keywords)
-    export_distributions(distributions)
+    saveKeywords = None
+    while saveKeywords not in ("yes", "y", "no", "n"):
+        saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").lower()
+    if saveKeywords:
+        export_keywords(keywords)
+        print("Keywords saved.")
+
+    saveDistributions = None
+    while saveDistributions not in ("yes", "y", "no", "n"):
+        saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").lower()
+    if saveDistributions:
+        export_distributions(topics, distributions)
+        print("Topic distributions saved.")
+
+    plotDistributions = None
+    while plotDistributions not in ("yes", "y", "no", "n"):
+        plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").lower()
+    if plotDistributions:
+        print("Plotting distributions...")
+        plot_stacked_bar(topics, distributions)
 
 
 if __name__ == "__main__":
