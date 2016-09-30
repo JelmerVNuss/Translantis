@@ -31,7 +31,7 @@ def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=Fals
     docs = []
     for filename in os.listdir(path):
         if not filename.startswith("."):
-            file = open(path + "/" + filename)
+            file = open(path + "/" + filename, encoding="utf8")
             string = file.read()
             file.close()
             if doc_length > 0:
@@ -103,16 +103,16 @@ class MyCorpus(object):
     warnings.filterwarnings('ignore')
     model_folder = "data/models"
 
-    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic, removeUnique):
+    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic, removeUnique, no_below=2, no_above=0.95):
         self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic, removeUnique)
         self.stoplist = get_stop_words(stopdir)
+        if len(self.doclist) < 5:
+            no_above = 1
 
         print("Generating dictionary ...")
         self.dictionary = gensim.corpora.Dictionary(iter_docs(self.doclist, self.stoplist))
-        no_above = 0.95
-        if len(self.doclist) < 5:
-            no_above = 1
-        self.dictionary.filter_extremes(no_below=2, no_above=no_above, keep_n=100000)
+
+        self.dictionary.filter_extremes(no_below=no_below, no_above=no_above, keep_n=100000)
         num_tokens = len(self.dictionary.items())
         print("Number of unique tokens in dictionary: %s" % num_tokens)
         self.dictionary.save(os.path.join(self.model_folder, "kwg.dict"))

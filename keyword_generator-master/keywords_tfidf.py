@@ -78,6 +78,8 @@ def main():
     parser.add_argument("-d", required=False, help="document length")
     parser.add_argument("-a", required=False, help="remove non-alphabetic words")
     parser.add_argument("-u", required=False, help="remove unique words")
+    parser.add_argument("-b", required=False, help="minimum amount of occurrences")
+    parser.add_argument("-n", required=False, help="maximum amount of occurrences")
     args = parser.parse_args()
 
     num_keywords = vars(args)["k"]
@@ -104,10 +106,23 @@ def main():
     else:
         removeUnique = True
 
+    no_below = vars(args)["b"]
+    if not no_below:
+        no_below = 2
+    else:
+        no_below = int(no_below)
+    no_above = vars(args)["n"]
+    if not no_above:
+        no_above = 0.95
+    else:
+        no_above = float(no_above)
+
     doc_folder = "data" + os.sep + "documents"
     stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length, removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique)
+    c = cp.MyCorpus(doc_folder, stop_folder, doc_length,
+                    removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
+                    no_below=no_below, no_above=no_above)
     corpus, dictionary = c.load()
 
     tfidf = gensim.models.TfidfModel(corpus)
