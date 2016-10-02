@@ -34,6 +34,10 @@ import time
 from plot_topics import plot_stacked_bar
 
 
+YESNO = ("yes", "y", "no", "n")
+AFFIRMATION = ("yes", "y")
+
+
 # Exclude topics
 def exclude_topics(topics):
     print("Topics generated:")
@@ -201,7 +205,7 @@ def main():
 
     excludedTopics = []
     isFinishedInput = None
-    while isFinishedInput not in ("yes", "y"):
+    while isFinishedInput not in AFFIRMATION:
         if mallet_path:
             print("Generating model with Mallet LDA ...")
             lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
@@ -236,28 +240,48 @@ def main():
 
         isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
 
+        # TODO Remove all documents with these excluded topics above certain percentage
+        # TODO add document file names to docs in corpus
+        removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").lower()
+        if removeDocuments in AFFIRMATION:
+            removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").lower())
+        else:
+            # None of the documents get removed unless the document contains only the topic.
+            removeDocumentsPercentage = 1.0
+
+    # Create a new list of documents that contain only non-excluded topics, or
+    # excluded topics below the acceptable percentage.
+    documents = []
+    for distribution in distributions:
+        document = []
+        for percentage, topic in distribution:
+            if not topic in excludedTopics or percentage < removeDocumentsPercentage:
+                document.append((percentage, topic))
+        documents.append(document)
+
+    print(distributions)
     keywords = generate_keywords(corpus, dictionary, topics, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords)
 
     saveKeywords = None
-    while saveKeywords not in ("yes", "y", "no", "n"):
+    while saveKeywords not in YESNO:
         saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").lower()
-    if saveKeywords:
+    if saveKeywords in AFFIRMATION:
         export_keywords(keywords)
         print("Keywords saved.")
 
     saveDistributions = None
-    while saveDistributions not in ("yes", "y", "no", "n"):
+    while saveDistributions not in YESNO:
         saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").lower()
-    if saveDistributions:
+    if saveDistributions in AFFIRMATION:
         export_distributions(topics, distributions)
         print("Topic distributions saved.")
 
     plotDistributions = None
-    while plotDistributions not in ("yes", "y", "no", "n"):
+    while plotDistributions not in YESNO:
         plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").lower()
-    if plotDistributions:
+    if plotDistributions in AFFIRMATION:
         print("Plotting distributions...")
         plot_stacked_bar(topics, distributions)
 
