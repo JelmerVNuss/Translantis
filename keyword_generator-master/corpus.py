@@ -24,6 +24,8 @@ import gensim
 import os
 import warnings
 
+from Document import Document
+
 
 # Pre-process input documents
 def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=False, exceptFiles=[]):
@@ -40,13 +42,13 @@ def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=Fals
                         piece = removeNonAlphabeticWords(piece)
                     if removeUnique:
                         piece = removeUniqueWords(piece)
-                    docs.append((filename, piece))
+                    docs.append(Document(filename, piece))
             else:
                 if removeNonAlphabetic:
                     string = removeNonAlphabeticWords(string)
                 if removeUnique:
                     string = removeUniqueWords(string)
-                docs.append((filename, string))
+                docs.append(Document(filename, string))
     num_docs = len(docs)
     print("Number of documents: %i" % num_docs)
     return docs
@@ -94,12 +96,12 @@ def get_stop_words(path):
 
 # Read documents, tokenize
 def iter_docs(doclist, stoplist):
-    for (filename, doc) in doclist:
-        yield (x for x in gensim.utils.tokenize(doc, lowercase=True, deacc=True, errors="replace") if x not in stoplist)
+    for document in doclist:
+        yield (x for x in gensim.utils.tokenize(document.content, lowercase=True, deacc=True, errors="replace") if x not in stoplist)
 
 
 # Corpus class
-class MyCorpus(object):
+class Corpus(object):
     warnings.filterwarnings('ignore')
     model_folder = "data/models"
 

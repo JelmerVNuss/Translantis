@@ -51,7 +51,10 @@ def exclude_topics(topics):
         excl_topics[i] = int(excl_topics[i])
     excl_topics.sort(reverse=True)
     for i in excl_topics:
-        del topics[i-1]
+        try:
+            del topics[i-1]
+        except IndexError:
+            print("IndexError: Topic {} is out of range and is not deleted.".format(i))
     return topics
 
 
@@ -133,17 +136,66 @@ def export_distributions(topics, distributions):
     f.close()
 
 
-def createExceptionFilesList(distributions, removeDocumentsPercentage):
+def findDocumentName(corpus, documentID):
+    """Retrieve the document name from the corpus document list.
+    """
+    return corpus.doclist[documentID].filename
+
+def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, excludedTopics=[]):
+    isFinishedInput = None
+    while isFinishedInput not in AFFIRMATION:
+        if mallet_path:
+            print("Generating model with Mallet LDA ...")
+            lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
+            topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+            while any(i in topics for i in excludedTopics):
+                num_topics += 1
+                topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+                topics = [x for x in topics if x not in excludedTopics]
+            distributions = [dist for dist in lda.load_document_topics()]
+            distributions = [(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
+        else:
+            print("Generating model with Gensim LDA ...")
+            lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
+            gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
+            topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+            while any(i in topics for i in excludedTopics):
+                num_topics += 1
+                lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
+                gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
+                topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+                topics = [x for x in topics if x not in excludedTopics]
+            distributions = []
+            matrix = gensim.matutils.corpus2csc(corpus)
+            for i in range(matrix.get_shape()[1]):
+                bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
+                distributions.append(lda.get_document_topics(bow, 0))
+            distributions = [(findDocumentName(c, i), distributions[i]) for i in range(len(distributions))]
+
+        print(distributions)
+        allTopics = topics
+        topics = exclude_topics(topics)
+        excludedTopics.append([topic for topic in allTopics if topic not in topics])
+
+        isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
+
+    return distributions, excludedTopics
+
+
+def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage):
     """Create a new list of documents that contain only excluded topics, or
     excluded topics above the acceptable percentage.
     """
-    exceptFiles = []
+    print(distributions)
+    print(excludedTopics)
+    exceptFiles = set()
     for distribution in distributions:
-        document = []
-        for percentage, topic in distribution:
-            if topic in excludedTopics or percentage >= removeDocumentsPercentage:
-                document.append((percentage, topic))
-        exceptFiles.append(document)
+        if not distribution[0] in exceptFiles:
+            for topic, percentage in distribution[1]:
+                if topic in excludedTopics and percentage >= removeDocumentsPercentage:
+                    exceptFiles.add(distribution[0])
+    exceptFiles = list(exceptFiles)
+    print("exceptFiles: " + repr(exceptFiles))
     return exceptFiles
 
 
@@ -212,45 +264,27 @@ def main():
     doc_folder = "data" + os.sep + "documents"
     stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length,
-                    removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
-                    no_below=no_below, no_above=no_above)
-    corpus, dictionary = c.load()
+    global c
+    global corpus, dictionary
 
+    distributions = []
     excludedTopics = []
+
+    # None of the documents get removed unless the document contains only the topic.
+    removeDocumentsPercentage = 1.0
+
     isFinishedInput = None
-    while isFinishedInput not in AFFIRMATION:
-        if mallet_path:
-            print("Generating model with Mallet LDA ...")
-            lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
-            topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-            while any(i in topics for i in excludedTopics):
-                num_topics += 1
-                topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-                topics = [x for x in topics if x not in excludedTopics]
-            distributions = [dist for dist in lda.load_document_topics()]
-        else:
-            print("Generating model with Gensim LDA ...")
-            lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
-            gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-            topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
-            while any(i in topics for i in excludedTopics):
-                num_topics += 1
-                lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
-                gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-                topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
-                topics = [x for x in topics if x not in excludedTopics]
-            distributions = []
-            matrix = gensim.matutils.corpus2csc(corpus)
-            for i in range(matrix.get_shape()[1]):
-                bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
-                distributions.append(lda.get_document_topics(bow, 0))
+    while not isFinishedInput in AFFIRMATION:
+        exceptFiles = createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage)
+        c = cp.Corpus(doc_folder, stop_folder, doc_length,
+                      removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
+                      exceptFiles=exceptFiles,
+                      no_below=no_below, no_above=no_above)
+        corpus, dictionary = c.load()
 
-        allTopics = topics
-        topics = exclude_topics(topics)
-        excludedTopics.append([topic for topic in allTopics if topic not in topics])
-
-        isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
+        distributions, excludedTopics = findTopics(mallet_path, c, corpus, dictionary,
+                                                   num_topics, num_words,
+                                                   excludedTopics=[])
 
         # TODO Remove all documents with these excluded topics above certain percentage
         # TODO add document file names to docs in corpus
@@ -258,15 +292,8 @@ def main():
         if removeDocuments in AFFIRMATION:
             removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").lower())
         else:
-            # None of the documents get removed unless the document contains only the topic.
-            removeDocumentsPercentage = 1.0
+            isFinishedInput = AFFIRMATION[0]
 
-        exceptFiles = createExceptionFilesList(distributions, removeDocumentsPercentage)
-        c = cp.MyCorpus(doc_folder, stop_folder, doc_length,
-                        removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
-                        exceptFiles=exceptFiles,
-                        no_below=no_below, no_above=no_above)
-        corpus, dictionary = c.load()
 
     print(distributions)
     keywords = generate_keywords(corpus, dictionary, topics, num_keywords)
