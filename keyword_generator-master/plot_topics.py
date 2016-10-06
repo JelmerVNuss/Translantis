@@ -9,11 +9,13 @@ def plot_stacked_bar(topics, distributions):
     Source: https://de.dariah.eu/tatom/topic_model_visualization.html
     See: http://matplotlib.org/examples/pylab_examples/bar_stacked.html
     """
+    print(distributions)
     N, K = len(distributions), len(topics)  # N documents, K topics
-    docnames = [topic[0] for topic in distributions[0]]
+    docnames = [distribution[0] for distribution in distributions[0]]
+    print(docnames)
     doctopic = []
     for distribution in distributions:
-        dist_topics = [topic[1] for topic in distribution]
+        dist_topics = [distribution[1] for distribution in distribution]
         doctopic.append(dist_topics)
     doctopic = np.array(doctopic)
     ind = np.arange(N)  # the x-axis locations for the documents

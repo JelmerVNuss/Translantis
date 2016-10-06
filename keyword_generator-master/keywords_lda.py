@@ -179,7 +179,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
 
         isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
 
-    return distributions, excludedTopics
+    return topics, distributions, excludedTopics
 
 
 def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage):
@@ -282,9 +282,9 @@ def main():
                       no_below=no_below, no_above=no_above)
         corpus, dictionary = c.load()
 
-        distributions, excludedTopics = findTopics(mallet_path, c, corpus, dictionary,
-                                                   num_topics, num_words,
-                                                   excludedTopics=[])
+        topics, distributions, excludedTopics = findTopics(mallet_path, c, corpus, dictionary,
+                                                           num_topics, num_words,
+                                                           excludedTopics=[])
 
         # TODO Remove all documents with these excluded topics above certain percentage
         # TODO add document file names to docs in corpus
