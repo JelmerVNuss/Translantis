@@ -32,6 +32,7 @@ import sys
 import time
 
 from plot_topics import plot_stacked_bar
+from Topic import Topic
 
 
 YESNO = ("yes", "y", "no", "n")
@@ -172,8 +173,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
                 distributions.append(lda.get_document_topics(bow, 0))
             distributions = [(findDocumentName(c, i), distributions[i]) for i in range(len(distributions))]
 
-        print(distributions)
-        allTopics = topics
+        allTopics = list(topics)
         topics = exclude_topics(topics)
         excludedTopics.append([topic for topic in allTopics if topic not in topics])
 
@@ -192,7 +192,8 @@ def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPerce
     for distribution in distributions:
         if not distribution[0] in exceptFiles:
             for topic, percentage in distribution[1]:
-                if topic in excludedTopics and percentage >= removeDocumentsPercentage:
+                print(topic)
+                if topics[topic] in excludedTopics and percentage >= removeDocumentsPercentage:
                     exceptFiles.add(distribution[0])
     exceptFiles = list(exceptFiles)
     print("exceptFiles: " + repr(exceptFiles))
@@ -267,6 +268,7 @@ def main():
     global c
     global corpus, dictionary
 
+    topics = []
     distributions = []
     excludedTopics = []
 
@@ -275,7 +277,7 @@ def main():
 
     isFinishedInput = None
     while not isFinishedInput in AFFIRMATION:
-        exceptFiles = createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage)
+        exceptFiles = createExceptionFilesList(topics, distributions, excludedTopics, removeDocumentsPercentage)
         c = cp.Corpus(doc_folder, stop_folder, doc_length,
                       removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
                       exceptFiles=exceptFiles,
@@ -294,8 +296,6 @@ def main():
         else:
             isFinishedInput = AFFIRMATION[0]
 
-
-    print(distributions)
     keywords = generate_keywords(corpus, dictionary, topics, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords)
