@@ -22,6 +22,7 @@
 
 import argparse
 import codecs
+import copy
 import corpus as cp
 import gensim
 import math
@@ -33,6 +34,7 @@ import time
 
 from plot_topics import plot_stacked_bar
 from Topic import Topic
+from Distribution import Distribution
 
 
 YESNO = ("yes", "y", "no", "n")
@@ -40,9 +42,9 @@ AFFIRMATION = ("yes", "y")
 
 
 # Exclude topics
-def exclude_topics(topics):
+def excludeTopics(topics):
     print("Topics generated:")
-    print_topics(topics)
+    printTopics(topics)
     response = input("Enter topics to exclude, separated by commas: ")
     response = response.replace(" ", "")
     if response == "":
@@ -53,48 +55,43 @@ def exclude_topics(topics):
     excl_topics.sort(reverse=True)
     for i in excl_topics:
         try:
-            del topics[i-1]
+            excluded = [topic for topic in topics if topic.id == i]
+            index = topics.index(excluded[0])
+            del topics[index]
         except IndexError:
             print("IndexError: Topic {} is out of range and is not deleted.".format(i))
     return topics
 
 
 # Print topics
-def print_topics(topics):
-    i = 1
+def printTopics(topics):
     for topic in topics:
-        sys.stdout.write("(" + str(i) + ")")
-        for token_tuple in topic:
-            sys.stdout.write(" " + token_tuple[1])
-        sys.stdout.write("\n")
-        i += 1
+        print("({}): {}".format(topic.id, ' '.join(topic.words)))
 
 
 # Generate keywords
-def generate_keywords(corpus, dictionary, topics, num_keywords):
+def generateKeywords(corpus, dictionary, topics, num_keywords):
     print("Generating keywords...")
     keywords = {}
 
     # Sum of probabilities for token in all topics
     for topic in topics:
-        for token_tuple in topic:
-            token = token_tuple[1]
-            pr = token_tuple[0]
+        for token, percentage in topic.content:
             if token in keywords:
-                keywords[token] += pr
+                keywords[token] += percentage
             else:
-                keywords[token] = pr
+                keywords[token] = percentage
 
     # Probability for each token multiplied by token frequency
     matrix = gensim.matutils.corpus2csc(corpus)
-    for token, pr in keywords.items():
+    for token, percentage in keywords.items():
         for dict_tuple in dictionary.items():
             if dict_tuple[1] == token:
                 token_index = dict_tuple[0]
                 break
         token_row = matrix.getrow(token_index)
         token_freq = token_row.sum(1).item()
-        keywords[token] = pr * math.log(token_freq)
+        keywords[token] = percentage * math.log(token_freq)
 
     # Sort keywords by highest score
     sorted_keywords = sorted(keywords.items(), key=operator.itemgetter(1), reverse=True)
@@ -121,18 +118,17 @@ def export_keywords(keywords):
     f.close()
 
 
-def export_distributions(topics, distributions):
+def exportDistributions(topics, distributions):
     filename = int(time.time())
     f = open("data" + os.sep + "topic_distributions" + os.sep + str(filename) + ".csv", "w+")
     f.write("Document")
-    for i in range(len(distributions[0])):
-        topic = ' '.join([topic[1] for topic in topics[i]])
-        f.write(",Topic {0}: {1}".format(str(i + 1), topic))
+    for topic in distributions[0].topics:
+        f.write(",{}".format(topic))
     f.write("\n")
-    for dist in distributions:
-        f.write(str(distributions.index(dist)))
-        for topic in dist:
-            f.write("," + "{0:.5f}".format(topic[1]))
+    for distribution in distributions:
+        f.write(str(distributions.index(distribution)))
+        for topic in distribution.topics:
+            f.write("," + "{0:.5f}".format(' '.join(topic.percentages)))
         f.write("\n")
     f.close()
 
@@ -154,27 +150,32 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
                 topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
                 topics = [x for x in topics if x not in excludedTopics]
             distributions = [dist for dist in lda.load_document_topics()]
-            distributions = [(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
+            distributions = [Distribution(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
         else:
             print("Generating model with Gensim LDA ...")
             lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
             gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-            topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+            topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
             while any(i in topics for i in excludedTopics):
                 num_topics += 1
                 lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
                 gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-                topics = [[(i[1], i[0]) for i in t] for t in gensim_topics]
+                topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
                 topics = [x for x in topics if x not in excludedTopics]
             distributions = []
             matrix = gensim.matutils.corpus2csc(corpus)
             for i in range(matrix.get_shape()[1]):
                 bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
                 distributions.append(lda.get_document_topics(bow, 0))
-            distributions = [(findDocumentName(c, i), distributions[i]) for i in range(len(distributions))]
+            newDistributions = []
+            for distribution in distributions:
+                content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
+                newDistribution = Distribution(filename=findDocumentName(c, distributions.index(distribution)), content=content)
+                newDistributions.append(newDistribution)
+            distributions = newDistributions
 
         allTopics = list(topics)
-        topics = exclude_topics(topics)
+        topics = excludeTopics(topics)
         excludedTopics.append([topic for topic in allTopics if topic not in topics])
 
         isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
@@ -190,11 +191,11 @@ def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPerce
     print(excludedTopics)
     exceptFiles = set()
     for distribution in distributions:
-        if not distribution[0] in exceptFiles:
-            for topic, percentage in distribution[1]:
+        if not distribution.filename in exceptFiles:
+            for topic in distribution.topics:
                 print(topic)
-                if topics[topic] in excludedTopics and percentage >= removeDocumentsPercentage:
-                    exceptFiles.add(distribution[0])
+                if topic.words in excludedTopics and topic.percentage >= removeDocumentsPercentage:
+                    exceptFiles.add(distribution.filename)
     exceptFiles = list(exceptFiles)
     print("exceptFiles: " + repr(exceptFiles))
     return exceptFiles
@@ -277,7 +278,7 @@ def main():
 
     isFinishedInput = None
     while not isFinishedInput in AFFIRMATION:
-        exceptFiles = createExceptionFilesList(topics, distributions, excludedTopics, removeDocumentsPercentage)
+        exceptFiles = createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage)
         c = cp.Corpus(doc_folder, stop_folder, doc_length,
                       removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
                       exceptFiles=exceptFiles,
@@ -296,7 +297,7 @@ def main():
         else:
             isFinishedInput = AFFIRMATION[0]
 
-    keywords = generate_keywords(corpus, dictionary, topics, num_keywords)
+    keywords = generateKeywords(corpus, dictionary, topics, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords)
 
@@ -311,7 +312,7 @@ def main():
     while saveDistributions not in YESNO:
         saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").lower()
     if saveDistributions in AFFIRMATION:
-        export_distributions(topics, distributions)
+        exportDistributions(topics, distributions)
         print("Topic distributions saved.")
 
     plotDistributions = None
