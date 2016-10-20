@@ -6,6 +6,10 @@ class Topic:
     def __repr__(self):
         return "Topic {0}: {1}".format(self.id, self.content)
 
+    def __str__(self):
+        return "Topic {0}: {1}".format(self.id, ' '.join(self.words))
+
+
     @property
     def words(self):
         return [topic[0] for topic in self.content]

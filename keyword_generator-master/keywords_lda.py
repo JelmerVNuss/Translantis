@@ -127,8 +127,8 @@ def exportDistributions(topics, distributions):
     f.write("\n")
     for distribution in distributions:
         f.write(str(distributions.index(distribution)))
-        for topic in distribution.topics:
-            f.write("," + "{0:.5f}".format(' '.join(topic.percentages)))
+        for percentage in distribution.percentages:
+            f.write(",{0:.5f}".format(percentage))
         f.write("\n")
     f.close()
 
@@ -291,9 +291,12 @@ def main():
 
         # TODO Remove all documents with these excluded topics above certain percentage
         # TODO add document file names to docs in corpus
-        removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").lower()
-        if removeDocuments in AFFIRMATION:
-            removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").lower())
+        if len(excludedTopics) > 0:
+            removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").lower()
+            if removeDocuments in AFFIRMATION:
+                removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").lower())
+            else:
+                isFinishedInput = AFFIRMATION[0]
         else:
             isFinishedInput = AFFIRMATION[0]
 
@@ -320,7 +323,7 @@ def main():
         plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").lower()
     if plotDistributions in AFFIRMATION:
         print("Plotting distributions...")
-        plot_stacked_bar(topics, distributions)
+        plot_stacked_bar(distributions)
 
 
 if __name__ == "__main__":
