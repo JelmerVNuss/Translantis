@@ -208,8 +208,8 @@ def main():
     parser.add_argument("-k", required=False, help="the number of keywords")
     parser.add_argument("-d", required=False, help="document length")
     parser.add_argument("-m", required=False, help="Mallet path")
-    parser.add_argument("-a", required=False, help="remove non-alphabetic words")
-    parser.add_argument("-u", required=False, help="remove unique words")
+    parser.add_argument("-a", required=False, action='store_true', help="remove non-alphabetic words")
+    parser.add_argument("-u", required=False, action='store_true', help="remove unique words")
     parser.add_argument("-b", required=False, help="minimum amount of occurrences")
     parser.add_argument("-n", required=False, help="maximum amount of occurrences")
     args = parser.parse_args()
@@ -289,8 +289,6 @@ def main():
                                                            num_topics, num_words,
                                                            excludedTopics=[])
 
-        # TODO Remove all documents with these excluded topics above certain percentage
-        # TODO add document file names to docs in corpus
         if len(excludedTopics) > 0:
             removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").lower()
             if removeDocuments in AFFIRMATION:
