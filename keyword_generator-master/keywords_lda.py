@@ -132,6 +132,20 @@ def exportDistributions(topics, distributions):
         f.write("\n")
     f.close()
 
+def exportDocuments(topics, distributions):
+    filename = int(time.time())
+    f = open("data" + os.sep + "document_distributions" + os.sep + str(filename) + ".csv", "w+")
+    f.write("Topic")
+    for distribution in distributions:
+        f.write(",{}".format(distribution.filename))
+    f.write("\n")
+    for topic in distributions[0].topics:
+        f.write(str(topic.id))
+        for percentage in topic.percentages:
+            f.write(",{0:.5f}".format(percentage))
+        f.write("\n")
+    f.close()
+
 
 def findDocumentName(corpus, documentID):
     """Retrieve the document name from the corpus document list.
@@ -314,6 +328,7 @@ def main():
         saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").lower()
     if saveDistributions in AFFIRMATION:
         exportDistributions(topics, distributions)
+        exportDocuments(topics, distributions)
         print("Topic distributions saved.")
 
     plotDistributions = None
