@@ -120,9 +120,11 @@ def main():
     doc_folder = "data" + os.sep + "documents"
     stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length,
-                    removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
-                    no_below=no_below, no_above=no_above)
+
+    c = cp.Corpus(doc_folder, stop_folder, doc_length,
+                  removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
+                  exceptFiles=[],
+                  no_below=no_below, no_above=no_above)
     corpus, dictionary = c.load()
 
     tfidf = gensim.models.TfidfModel(corpus)
