@@ -153,46 +153,42 @@ def findDocumentName(corpus, documentID):
     return corpus.doclist[documentID].filename
 
 def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, excludedTopics=[]):
-    isFinishedInput = None
-    while isFinishedInput not in AFFIRMATION:
-        if mallet_path:
-            print("Generating model with Mallet LDA ...")
-            lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
+    if mallet_path:
+        print("Generating model with Mallet LDA ...")
+        lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
+        topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+        while any(i in topics for i in excludedTopics):
+            num_topics += 1
             topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-            while any(i in topics for i in excludedTopics):
-                num_topics += 1
-                topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-                topics = [x for x in topics if x not in excludedTopics]
-            distributions = [dist for dist in lda.load_document_topics()]
-            distributions = [Distribution(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
-        else:
-            print("Generating model with Gensim LDA ...")
+            topics = [x for x in topics if x not in excludedTopics]
+        distributions = [dist for dist in lda.load_document_topics()]
+        distributions = [Distribution(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
+    else:
+        print("Generating model with Gensim LDA ...")
+        lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
+        gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
+        topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
+        while any(i in topics for i in excludedTopics):
+            num_topics += 1
             lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
             gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
             topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
-            while any(i in topics for i in excludedTopics):
-                num_topics += 1
-                lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
-                gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
-                topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
-                topics = [x for x in topics if x not in excludedTopics]
-            distributions = []
-            matrix = gensim.matutils.corpus2csc(corpus)
-            for i in range(matrix.get_shape()[1]):
-                bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
-                distributions.append(lda.get_document_topics(bow, 0))
-            newDistributions = []
-            for distribution in distributions:
-                content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
-                newDistribution = Distribution(filename=findDocumentName(c, distributions.index(distribution)), content=content)
-                newDistributions.append(newDistribution)
-            distributions = newDistributions
+            topics = [x for x in topics if x not in excludedTopics]
+        distributions = []
+        matrix = gensim.matutils.corpus2csc(corpus)
+        for i in range(matrix.get_shape()[1]):
+            bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
+            distributions.append(lda.get_document_topics(bow, 0))
+        newDistributions = []
+        for distribution in distributions:
+            content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
+            newDistribution = Distribution(filename=findDocumentName(c, distributions.index(distribution)), content=content)
+            newDistributions.append(newDistribution)
+        distributions = newDistributions
 
-        allTopics = list(topics)
-        topics = excludeTopics(topics)
-        excludedTopics.append([topic for topic in allTopics if topic not in topics])
-
-        isFinishedInput = input("Are you finished excluding topics? (Type [Y]es to stop)\n").lower()
+    allTopics = list(topics)
+    topics = excludeTopics(topics)
+    excludedTopics.append([topic for topic in allTopics if topic not in topics])
 
     return topics, distributions, excludedTopics
 
@@ -301,9 +297,9 @@ def main():
                                                            excludedTopics=[])
 
         if len(excludedTopics) > 0:
-            removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").lower()
+            removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").strip().lower()
             if removeDocuments in AFFIRMATION:
-                removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").lower())
+                removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").strip().lower())
             else:
                 isFinishedInput = AFFIRMATION[0]
         else:
@@ -315,14 +311,14 @@ def main():
 
     saveKeywords = None
     while saveKeywords not in YESNO:
-        saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").lower()
+        saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").strip().lower()
     if saveKeywords in AFFIRMATION:
         export_keywords(keywords)
         print("Keywords saved.")
 
     saveDistributions = None
     while saveDistributions not in YESNO:
-        saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").lower()
+        saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").strip().lower()
     if saveDistributions in AFFIRMATION:
         exportDistributions(topics, distributions)
         exportDocuments(topics, distributions)
@@ -330,7 +326,7 @@ def main():
 
     plotDistributions = None
     while plotDistributions not in YESNO:
-        plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").lower()
+        plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").strip().lower()
     if plotDistributions in AFFIRMATION:
         print("Plotting distributions...")
         plot_stacked_bar(distributions)
