@@ -34,6 +34,6 @@ def plot_stacked_bar(distributions):
 
     # see http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.legend for details
     # on making a legend in matplotlib
-    plt.legend([p[0] for p in plots], topic_labels)
+    plt.legend([p[0] for p in plots], topic_labels, loc='right', bbox_to_anchor=(0, 1))
     plt.tight_layout()
     plt.show()
