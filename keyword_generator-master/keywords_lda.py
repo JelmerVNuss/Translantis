@@ -201,8 +201,6 @@ def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPerce
     """Create a new list of documents that contain only excluded topics, or
     excluded topics above the acceptable percentage.
     """
-    print(distributions)
-    print(excludedTopics)
     exceptFiles = set()
     for distribution in distributions:
         if not distribution.filename in exceptFiles:
@@ -211,7 +209,6 @@ def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPerce
                 if topic.words in excludedTopics and topic.percentage >= removeDocumentsPercentage:
                     exceptFiles.add(distribution.filename)
     exceptFiles = list(exceptFiles)
-    print("exceptFiles: " + repr(exceptFiles))
     return exceptFiles
 
 
