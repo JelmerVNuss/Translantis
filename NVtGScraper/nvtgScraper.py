@@ -93,7 +93,6 @@ def getArticleInfo(articleName, verbose=False):
     except IndexError:
         if verbose:
             print("Skipping this article [{}]: no information available.".format(articleName))
-    print(articleName)
     return articleId, year
 
 
