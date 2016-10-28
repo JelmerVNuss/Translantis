@@ -84,16 +84,16 @@ def getArticleInfo(articleName, verbose=False):
 
     try:
         articleInfo = soup.select(ARTICLE_INFO_SELECTOR)[0]
-        splitText = articleInfo.text.replace(';', ' ').split()
-        articleId = removeDisallowedFilenameChars(splitText[-1].replace(':', '-'))
-        year = splitText[-2]
+        splitText = articleInfo.text.split(';')
+        articleId = removeDisallowedFilenameChars(splitText[-1].replace(' ', '').replace(':', '-'))
+        year = splitText[0].split()[-1]
 
         if verbose:
             print("Found article ID [{}] in year [{}].".format(articleId, year))
     except IndexError:
         if verbose:
             print("Skipping this article [{}]: no information available.".format(articleName))
-
+    print(articleName)
     return articleId, year
 
 
