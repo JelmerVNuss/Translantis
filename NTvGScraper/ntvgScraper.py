@@ -144,6 +144,8 @@ def downloadFromUrl(url, file_name, verbose=False):
 def downloadFile(articleName, path=".", verbose=False):
     """Download the file to the downloads folder."""
     articleId, year = getArticleInfo(articleName, verbose)
+    if not articleId:
+        return
     file_path = path + BASE_FOLDER + str(year)
     file_name =  "/" + articleId + ".pdf"
 
