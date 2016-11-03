@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""nvtgScraper.py:
+"""ntvgScraper.py:
 Scrape all the pdf files from www.ntvg.nl
 """
 
@@ -15,7 +15,7 @@ import bs4
 
 validFilenameChars = "-_.() {}{}".format(string.ascii_letters, string.digits)
 
-BASE_FOLDER = "/NVtG/"
+BASE_FOLDER = "/NTvG/"
 # Where to find the article files.
 SEARCH_BOX_URL = ("https://www.ntvg.nl/search/advanced?search=&page=", "&in=full&author_options=0")
 ARTICLE_INFO_URL = ("https://www.ntvg.nl/artikelen/", "/artikelinfo")
