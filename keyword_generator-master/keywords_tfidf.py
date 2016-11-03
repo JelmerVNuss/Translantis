@@ -22,7 +22,6 @@
 
 import argparse
 import codecs
-import corpus as cp
 import gensim
 import math
 import operator
@@ -30,6 +29,17 @@ import os
 import pprint
 import sys
 import time
+
+import classes.Corpus as cp
+
+
+YESNO = ("yes", "y", "no", "n")
+AFFIRMATION = ("yes", "y")
+
+# Set the default data storage locations.
+DOC_FOLDER = "data" + os.sep + "documents"
+STOP_FOLDER = "data" + os.sep + "stop_words"
+KEYWORDS_FOLDER = "data" + os.sep + "keywords"
 
 
 # Generate keywords
@@ -64,7 +74,7 @@ def print_keywords(keywords, dictionary):
 
 def export_keywords(keywords, dictionary):
     filename = int(time.time())
-    f = open("data" + os.sep + "keywords" + os.sep + str(filename) + ".txt", "w+")
+    f = open(KEYWORDS_FOLDER + os.sep + str(filename) + ".txt", "w+")
     keywords = [dictionary.get(k[0]) for k in keywords]
     f.write("\n".join(keywords) + "\n\n")
     f.write(" ".join(keywords) + "\n\n")
@@ -117,12 +127,11 @@ def main():
     else:
         no_above = float(no_above)
 
-    doc_folder = "data" + os.sep + "documents"
-    stop_folder = "data" + os.sep + "stop_words"
 
-    c = cp.MyCorpus(doc_folder, stop_folder, doc_length,
-                    removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
-                    no_below=no_below, no_above=no_above)
+    c = cp.Corpus(DOC_FOLDER, STOP_FOLDER, doc_length,
+                  removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
+                  exceptFiles=[],
+                  no_below=no_below, no_above=no_above)
     corpus, dictionary = c.load()
 
     tfidf = gensim.models.TfidfModel(corpus)
@@ -131,7 +140,13 @@ def main():
     keywords = generate_keywords(tfidf_scores, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords, dictionary)
-    export_keywords(keywords, dictionary)
+
+    saveKeywords = None
+    while saveKeywords not in YESNO:
+        saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").strip().lower()
+    if saveKeywords in AFFIRMATION:
+        export_keywords(keywords, dictionary)
+        print("Keywords saved.")
 
 
 if __name__ == "__main__":

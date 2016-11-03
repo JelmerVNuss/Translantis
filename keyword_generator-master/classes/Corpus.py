@@ -24,13 +24,15 @@ import gensim
 import os
 import warnings
 
+from .Document import Document
+
 
 # Pre-process input documents
-def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=False):
+def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=False, exceptFiles=[]):
     print("Processing documents ...")
     docs = []
     for filename in os.listdir(path):
-        if not filename.startswith("."):
+        if not filename.startswith(".") and not filename in exceptFiles:
             file = open(path + "/" + filename, encoding="utf8")
             string = file.read()
             file.close()
@@ -40,13 +42,13 @@ def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=Fals
                         piece = removeNonAlphabeticWords(piece)
                     if removeUnique:
                         piece = removeUniqueWords(piece)
-                    docs.append(piece)
+                    docs.append(Document(filename, piece))
             else:
                 if removeNonAlphabetic:
                     string = removeNonAlphabeticWords(string)
                 if removeUnique:
                     string = removeUniqueWords(string)
-                docs.append(string)
+                docs.append(Document(filename, string))
     num_docs = len(docs)
     print("Number of documents: %i" % num_docs)
     return docs
@@ -94,17 +96,17 @@ def get_stop_words(path):
 
 # Read documents, tokenize
 def iter_docs(doclist, stoplist):
-    for doc in doclist:
-        yield (x for x in gensim.utils.tokenize(doc, lowercase=True, deacc=True, errors="replace") if x not in stoplist)
+    for document in doclist:
+        yield (x for x in gensim.utils.tokenize(document.content, lowercase=True, deacc=True, errors="replace") if x not in stoplist)
 
 
 # Corpus class
-class MyCorpus(object):
+class Corpus(object):
     warnings.filterwarnings('ignore')
     model_folder = "data/models"
 
-    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic, removeUnique, no_below=2, no_above=0.95):
-        self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic, removeUnique)
+    def __init__(self, topdir, stopdir, doc_length, removeNonAlphabetic, removeUnique, exceptFiles=[], no_below=2, no_above=0.95):
+        self.doclist = get_documents(topdir, doc_length, removeNonAlphabetic, removeUnique, exceptFiles=exceptFiles)
         self.stoplist = get_stop_words(stopdir)
         if len(self.doclist) < 5:
             no_above = 1
