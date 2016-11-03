@@ -24,7 +24,7 @@ import gensim
 import os
 import warnings
 
-from Document import Document
+from .Document import Document
 
 
 # Pre-process input documents

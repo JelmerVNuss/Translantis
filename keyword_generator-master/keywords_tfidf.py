@@ -22,7 +22,6 @@
 
 import argparse
 import codecs
-import Corpus as cp
 import gensim
 import math
 import operator
@@ -31,8 +30,16 @@ import pprint
 import sys
 import time
 
+import classes.Corpus as cp
+
+
 YESNO = ("yes", "y", "no", "n")
 AFFIRMATION = ("yes", "y")
+
+# Set the default data storage locations.
+DOC_FOLDER = "data" + os.sep + "documents"
+STOP_FOLDER = "data" + os.sep + "stop_words"
+KEYWORDS_FOLDER = "data" + os.sep + "keywords"
 
 
 # Generate keywords
@@ -67,7 +74,7 @@ def print_keywords(keywords, dictionary):
 
 def export_keywords(keywords, dictionary):
     filename = int(time.time())
-    f = open("data" + os.sep + "keywords" + os.sep + str(filename) + ".txt", "w+")
+    f = open(KEYWORDS_FOLDER + os.sep + str(filename) + ".txt", "w+")
     keywords = [dictionary.get(k[0]) for k in keywords]
     f.write("\n".join(keywords) + "\n\n")
     f.write(" ".join(keywords) + "\n\n")
@@ -120,11 +127,8 @@ def main():
     else:
         no_above = float(no_above)
 
-    doc_folder = "data" + os.sep + "documents"
-    stop_folder = "data" + os.sep + "stop_words"
 
-
-    c = cp.Corpus(doc_folder, stop_folder, doc_length,
+    c = cp.Corpus(DOC_FOLDER, STOP_FOLDER, doc_length,
                   removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
                   exceptFiles=[],
                   no_below=no_below, no_above=no_above)

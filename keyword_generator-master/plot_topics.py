@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Source: https://de.dariah.eu/tatom/visualizing_trends.html
-# Source: http://chrisstrelioff.ws/sandbox/2014/11/13/getting_started_with_latent_dirichlet_allocation_in_python.html
 
 def plot_stacked_bar(distributions):
     """
@@ -32,8 +30,6 @@ def plot_stacked_bar(distributions):
     plt.yticks(np.arange(0, 1, 10))
     topic_labels = ['Topic #{}'.format(k) for k in range(K)]
 
-    # see http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.legend for details
-    # on making a legend in matplotlib
     plt.legend([p[0] for p in plots], topic_labels, loc='upper left', prop={'size':9}, bbox_to_anchor=(1,1))
     plt.tight_layout()
     plt.subplots_adjust(right=0.85)

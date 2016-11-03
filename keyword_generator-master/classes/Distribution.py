@@ -1,4 +1,4 @@
-from Topic import Topic
+from .Topic import Topic
 
 class Distribution:
     def __init__(self, filename, content=[]):

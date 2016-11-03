@@ -23,7 +23,6 @@
 import argparse
 import codecs
 import copy
-import Corpus as cp
 import gensim
 import math
 import operator
@@ -33,16 +32,26 @@ import sys
 import time
 
 from plot_topics import plot_stacked_bar
-from Topic import Topic
-from Distribution import Distribution
+import classes.Corpus as cp
+from classes.Topic import Topic
+from classes.Distribution import Distribution
 
 
 YESNO = ("yes", "y", "no", "n")
 AFFIRMATION = ("yes", "y")
 
+# Set the default data storage locations.
+DOC_FOLDER = "data" + os.sep + "documents"
+STOP_FOLDER = "data" + os.sep + "stop_words"
+KEYWORDS_FOLDER = "data" + os.sep + "keywords"
+TOPIC_DISTRIBUTIONS_FOLDER = "data" + os.sep + "topic_distributions"
+DOCUMENT_DISTRIBUTIONS_FOLDER = "data" + os.sep + "document_distributions"
 
-# Exclude topics
+
 def excludeTopics(topics):
+    """Exclude certain topics from a list of topics and return this list.
+    Topics are excluded interactively via the console during runtime.
+    """
     print("Topics generated:")
     printTopics(topics)
     response = input("Enter topics to exclude, separated by commas: ")
@@ -63,14 +72,16 @@ def excludeTopics(topics):
     return topics
 
 
-# Print topics
 def printTopics(topics):
+    """Show the list of topics and their content.
+    """
     for topic in topics:
         print("({}): {}".format(topic.id, ' '.join(topic.words)))
 
 
-# Generate keywords
 def generateKeywords(corpus, dictionary, topics, num_keywords):
+    """Generate the keywords given some topics.
+    """
     print("Generating keywords...")
     keywords = {}
 
@@ -110,7 +121,7 @@ def print_keywords(keywords):
 
 def export_keywords(keywords):
     filename = int(time.time())
-    f = open("data" + os.sep + "keywords" + os.sep + str(filename) + ".txt", "w+")
+    f = open(KEYWORDS_FOLDER + os.sep + str(filename) + ".txt", "w+")
     keywords = [k[0] for k in keywords]
     f.write("\n".join(keywords) + "\n\n")
     f.write(" ".join(keywords) + "\n\n")
@@ -119,8 +130,11 @@ def export_keywords(keywords):
 
 
 def exportDistributions(topics, distributions):
+    """Create a file in data/topic_distributions containing the percentage
+    of topic occurrence per document.
+    """
     filename = int(time.time())
-    f = open("data" + os.sep + "topic_distributions" + os.sep + str(filename) + ".csv", "w+")
+    f = open(TOPIC_DISTRIBUTIONS_FOLDER + os.sep + str(filename) + ".csv", "w+")
     f.write("Document")
     for topic in distributions[0].topics:
         f.write(",{}".format(topic))
@@ -134,7 +148,7 @@ def exportDistributions(topics, distributions):
 
 def exportDocuments(topics, distributions):
     filename = int(time.time())
-    f = open("data" + os.sep + "document_distributions" + os.sep + str(filename) + ".csv", "w+")
+    f = open(DOCUMENT_DISTRIBUTIONS_FOLDER + os.sep + str(filename) + ".csv", "w+")
     f.write("Topic")
     for distribution in distributions:
         f.write(",{}".format(distribution.filename))
@@ -153,6 +167,10 @@ def findDocumentName(corpus, documentID):
     return corpus.doclist[documentID].filename
 
 def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, excludedTopics=[]):
+    """Return the topics found in the non-excluded documents.
+    Default to using the Gensim LDA, unless a Mallet LDA application is installed
+    and the execution path is given.
+    """
     if mallet_path:
         print("Generating model with Mallet LDA ...")
         lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
@@ -270,9 +288,6 @@ def main():
     else:
         no_above = float(no_above)
 
-    doc_folder = "data" + os.sep + "documents"
-    stop_folder = "data" + os.sep + "stop_words"
-
     global c
     global corpus, dictionary
 
@@ -283,10 +298,11 @@ def main():
     # None of the documents get removed unless the document contains only the topic.
     removeDocumentsPercentage = 1.0
 
+    # Find topics and distributions until no more topics/documents are excluded.
     isFinishedInput = None
     while not isFinishedInput in AFFIRMATION:
         exceptFiles = createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage)
-        c = cp.Corpus(doc_folder, stop_folder, doc_length,
+        c = cp.Corpus(DOC_FOLDER, STOP_FOLDER, doc_length,
                       removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
                       exceptFiles=exceptFiles,
                       no_below=no_below, no_above=no_above)
@@ -305,10 +321,12 @@ def main():
         else:
             isFinishedInput = AFFIRMATION[0]
 
+    # Generate and output the keywords found.
     keywords = generateKeywords(corpus, dictionary, topics, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords)
 
+    # Interactively save the keywords found.
     saveKeywords = None
     while saveKeywords not in YESNO:
         saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").strip().lower()
@@ -316,6 +334,7 @@ def main():
         export_keywords(keywords)
         print("Keywords saved.")
 
+    # Interactively save the topic distributions.
     saveDistributions = None
     while saveDistributions not in YESNO:
         saveDistributions = input("Do you want to save the topic distributions? (Type [Y]es or [N]o)\n").strip().lower()
@@ -324,6 +343,7 @@ def main():
         exportDocuments(topics, distributions)
         print("Topic distributions saved.")
 
+    # Interactively plot the topic distributions.
     plotDistributions = None
     while plotDistributions not in YESNO:
         plotDistributions = input("Do you want to plot the topic distributions? (Type [Y]es or [N]o)\n").strip().lower()

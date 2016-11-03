@@ -3,6 +3,7 @@ Keyword Generator
 
 The keyword generator offers two methods to extract relevant keywords from a collection of sample texts provided by the user:
 
+
 1) keywords_tfidf.py, extracting keywords based on tf-idf scores. Options:
 
 - k : number of keywords to be generated (default 10)
@@ -11,6 +12,13 @@ The keyword generator offers two methods to extract relevant keywords from a col
 - u : enable unique words removal
 - b : set minimum amount of occurrences (number)
 - n : set maximum amount of occurrences (floating point percentage: 0.95)
+
+Some examples of commands:
+
+- python keywords_tfidf.py
+- python keywords_tfidf.py -k 20 -d 100
+- python keywords_tfidf.py -k 20 -d 100 -a -u -b 2 -n 0.95
+
 
 2) keywords_lda.py, extracting keywords based on either [Gensim](https://radimrehurek.com/gensim/)'s or [Mallet](http://mallet.cs.umass.edu)'s implementation of lda topic modeling. Options:
 
@@ -30,7 +38,6 @@ Documents have to be placed in the data/documents folder, stop word lists in the
 
 Some examples of commands:
 
-- python keywords_tfidf.py
-- python keywords_tfidf.py -k 20 -d 100
 - python keywords_lda.py -k 10 -d 100 -t 5 -w 20
 - python keywords_lda.py -k 10 -d 100 -t 5 -w 20 -m /usr/local/bin/mallet-2.0.7/bin/mallet
+- python keywords_lda.py -k 10 -d 100 -t 5 -w 20 -a -u -b 2 -n 0.95
