@@ -1,7 +1,23 @@
 #!/usr/bin/env python
 
 """ntvgScraper.py:
-Scrape all the pdf files from www.ntvg.nl
+Scrape all the PDF files from www.ntvg.nl
+
+Scans all pages and articles until an available PDF is found including article
+information containing the year and volume and issue.
+If either no PDF is available, or the article information does not contain the
+filename specification, no file will be downloaded.
+
+Example of article info:
+"Citeer dit artikel als: Ned Tijdschr Geneeskd. 1968;112:630"
+where 112:630.pdf will become the filename in folder 1968.
+
+Example of a downloadable PDF:
+https://www.ntvg.nl/artikelen/nieuws/bezoek-aan-steden-die-dingen-naar-achtste-medische-faculteit/artikelinfo
+Example of no article info:
+https://www.ntvg.nl/artikelen/de-term-%E2%80%98whiplash%E2%80%99-liever-vermijden/artikelinfo
+Example of no PDF:
+https://www.ntvg.nl/artikelen/vrije-wil-en-eeuwig-leven/artikelinfo
 """
 
 
@@ -85,8 +101,11 @@ def getArticleInfo(articleName, verbose=False):
     try:
         articleInfo = soup.select(ARTICLE_INFO_SELECTOR)[0]
         splitText = articleInfo.text.split(';')
-        articleId = removeDisallowedFilenameChars(splitText[-1].replace(' ', '').replace(':', '-'))
-        year = splitText[0].split()[-1]
+        # Only grab the info if at least 2 sections appear, which then probably
+        # includes the article info.
+        if len(splitText) >= 2:
+            articleId = removeDisallowedFilenameChars(splitText[-1].replace(' ', '').replace(':', '-'))
+            year = splitText[-2].split()[-1]
 
         if verbose:
             print("Found article ID [{}] in year [{}].".format(articleId, year))
@@ -154,4 +173,4 @@ if __name__ == "__main__":
         for articleName in articleNames:
             downloadFile(articleName, verbose=verbose)
 
-    print("All articles from Nederlands Tijdschrift voor Geneeskunde are scraped.")
+    print("All articles from Nederlands Tijdschrift voor Geneeskunde are scraped for page range {}-{}.".format(BEGIN_PAGE, END_PAGE))
