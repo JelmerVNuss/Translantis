@@ -28,12 +28,13 @@ def plot_stacked_bar(distributions):
     plt.ylim((0, 1))  # proportions sum to 1, so the height of the stacked bars is 1
     plt.ylabel('Topics')
     plt.title('Topics in documents')
-    plt.xticks(ind+width/2, [docname[:5] + "..." + docname[-5:] for docname in docnames], rotation='vertical')
+    plt.xticks(ind+width/2, [docname[:8] + "..." + docname[-5:] if len(docname) > 13 else docname for docname in docnames], rotation='vertical')
     plt.yticks(np.arange(0, 1, 10))
     topic_labels = ['Topic #{}'.format(k) for k in range(K)]
 
     # see http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.legend for details
     # on making a legend in matplotlib
-    plt.legend([p[0] for p in plots], topic_labels, loc='right', bbox_to_anchor=(0, 1))
+    plt.legend([p[0] for p in plots], topic_labels, loc='upper left', prop={'size':9}, bbox_to_anchor=(1,1))
     plt.tight_layout()
+    plt.subplots_adjust(right=0.85)
     plt.show()

@@ -23,7 +23,7 @@
 import argparse
 import codecs
 import copy
-import corpus as cp
+import Corpus as cp
 import gensim
 import math
 import operator

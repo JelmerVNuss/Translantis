@@ -22,7 +22,7 @@
 
 import argparse
 import codecs
-import corpus as cp
+import Corpus as cp
 import gensim
 import math
 import operator
@@ -30,6 +30,9 @@ import os
 import pprint
 import sys
 import time
+
+YESNO = ("yes", "y", "no", "n")
+AFFIRMATION = ("yes", "y")
 
 
 # Generate keywords
@@ -133,7 +136,13 @@ def main():
     keywords = generate_keywords(tfidf_scores, num_keywords)
     print("Keywords generated:")
     print_keywords(keywords, dictionary)
-    export_keywords(keywords, dictionary)
+
+    saveKeywords = None
+    while saveKeywords not in YESNO:
+        saveKeywords = input("Do you want to save the keywords? (Type [Y]es or [N]o)\n").strip().lower()
+    if saveKeywords in AFFIRMATION:
+        export_keywords(keywords, dictionary)
+        print("Keywords saved.")
 
 
 if __name__ == "__main__":
