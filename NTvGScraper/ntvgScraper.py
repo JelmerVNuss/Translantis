@@ -24,7 +24,7 @@ https://www.ntvg.nl/artikelen/vrije-wil-en-eeuwig-leven/artikelinfo
 import os
 import string
 import unicodedata
-
+import time
 import requests
 import bs4
 
@@ -44,12 +44,14 @@ BEGIN_PAGE = 0
 # This is the first page with a downloadable PDF. This will change as articles
 # are being added.
 BEGIN_PAGE = 593
+BEGIN_PAGE = 31040
 # Update the end page to the current end page.
-END_PAGE = 31046
+END_PAGE = 31049
 ARTICLES_PER_PAGE = 10
 
 #https://www.ntvg.nl/search/advanced?search=&page=593&in=full&author_options=0
 #https://www.ntvg.nl/artikelen/een-meisje-met-rugklachten/artikelinfo
+
 
 def removeDisallowedFilenameChars(filename):
     cleanedFilename = str(unicodedata.normalize('NFKD', filename).encode('ASCII', 'ignore'))
@@ -60,7 +62,12 @@ def checkWebsiteAvailability(url):
     """Check whether the given website is online.
     Return the request if it succeeds.
     """
-    res = requests.get(url)
+    try:
+        res = requests.get(url)
+    except:
+        # Wait for 5 seconds and try again.
+        time.sleep(5.0)
+        res = checkWebsiteAvailability(url)
     res.raise_for_status()
 
     return res
