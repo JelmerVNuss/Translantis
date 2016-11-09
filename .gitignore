@@ -1,6 +1,9 @@
 EncyclopediaScraper/E1
 EncyclopediaScraper/E1_processed
 
+# Python compilations
+*.pyc
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

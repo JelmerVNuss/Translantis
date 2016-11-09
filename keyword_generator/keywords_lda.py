@@ -219,7 +219,6 @@ def createExceptionFilesList(distributions, excludedTopics, removeDocumentsPerce
     for distribution in distributions:
         if not distribution.filename in exceptFiles:
             for topic in distribution.topics:
-                print(topic)
                 if topic.words in excludedTopics and topic.percentage >= removeDocumentsPercentage:
                     exceptFiles.add(distribution.filename)
     exceptFiles = list(exceptFiles)
