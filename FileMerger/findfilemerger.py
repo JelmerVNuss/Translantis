@@ -1,6 +1,6 @@
-"""findfilemerger: Find all files in nested folders starting from a root that
+"""findFilemerger: Find all files in nested folders starting from a root that
 contain the same search term and combine them into a single file.
-The merged files are stored in the running directory.
+The merged files are stored in a newly created folder: [root]_merged
 
 Only considers files that contain the search term, all other files are disregarded.
 Aim to be on the overextending side when the exact terms are unknown, take the
@@ -9,15 +9,15 @@ as all years not in (1956, 1967) just create empty files that either have no
 influence in analysis, or can be removed manually.
 
 Usage:
-    filemerger.py -r <root> -o <option> -v <values>
+    findFilemerger.py -r <root> -o <option> -v <values>
 where <root> is the specified path to the starting folder,
       <option> is a search option, either TOPIC or YEAR, and
       <values> is a comma-separated string of values.
 
 A valid example is:
-    filemerger.py -r ./test -o topic -v="test1,test2"
+    filemerger.py -r ./test -o topic -v "test1,test2"
 Or by year (only two values are allowed: the start and end year):
-    filemerger.py -r ./test -o year -v="1990,2000"
+    filemerger.py -r ./test -o year -v "1990,2000"
 """
 
 import sys
@@ -45,7 +45,7 @@ def merge(root, option, values, extension="txt"):
     for searchTerm in searchTerms:
         document = mergeSimilarDocuments(root, searchTerm)
 
-        filename = '{}.{}'.format(str(searchTerm), str(extension))
+        filename = '{}/{}.{}'.format(root + '_merged', str(searchTerm), str(extension))
         with open(filename, 'w+') as f:
             f.write(document)
 
@@ -87,9 +87,13 @@ def main(argv):
     if option.upper() == "YEAR":
         values = [int(x) for x in values]
 
+    newRoot = root + '_merged'
+    if not os.path.exists(newRoot):
+        os.makedirs(newRoot)
+
     merge(root, option, values)
 
-    print("Done: Files merged by {} in root {}.".format(option, root))
+    print("Done: Files merged by {} in root: {}\nStored in: {}".format(option, root, newRoot))
 
 
 if __name__ == "__main__":

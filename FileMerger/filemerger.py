@@ -1,6 +1,6 @@
 """filemerger.py: Find all files in nested folders starting from a root and
 merge them.
-The merged files are stored in the running directory.
+The merged files are stored in a newly created folder: [root]_merged
 
 Usage:
     filemerger.py -r <root>
@@ -24,12 +24,14 @@ def merge(root, extension="txt"):
         if not path == root:
             document = []
             for name in files:
+                if not name[-len(extension):] == extension:
+                    continue
                 filepath = os.path.join(path, name)
                 with open(filepath, 'r') as f:
                     document.append(f.read())
 
             directory = path.split(os.path.sep)[-1]
-            filename = '{}.{}'.format(str(directory), str(extension))
+            filename = '{}/{}.{}'.format(root + '_merged', str(directory), str(extension))
             with open(filename, 'w+') as f:
                 f.write(''.join(document))
 
@@ -47,9 +49,13 @@ def main(argv):
         elif opt in ("-r", "--root"):
             root = arg
 
+    newRoot = root + '_merged'
+    if not os.path.exists(newRoot):
+        os.makedirs(newRoot)
+
     merge(root)
 
-    print("Done: Files merged in root {}.".format(root))
+    print("Done: Files merged in root: {}\nStored in: {}".format(root, newRoot))
 
 
 if __name__ == "__main__":
