@@ -178,7 +178,8 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
         while any(i in topics for i in excludedTopics):
             num_topics += 1
             topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-            topics = [x for x in topics if x not in excludedTopics]
+            topics = [Topic(id=topics.index(topic), content=[(word, percentage) for word, percentage in topic]) for topic in topics]
+            topics = [x for x in topics if x.words not in excludedTopics]
         distributions = [dist for dist in lda.load_document_topics()]
         distributions = [Distribution(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
     else:
@@ -191,7 +192,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
             lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
             gensim_topics = [t[1] for t in lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)]
             topics = [Topic(id=gensim_topics.index(gTopic), content=[(word, percentage) for word, percentage in gTopic]) for gTopic in gensim_topics]
-            topics = [x for x in topics if x not in excludedTopics]
+            topics = [x for x in topics if x.words not in excludedTopics]
         distributions = []
         matrix = gensim.matutils.corpus2csc(corpus)
         for i in range(matrix.get_shape()[1]):
