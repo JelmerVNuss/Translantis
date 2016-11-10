@@ -43,13 +43,13 @@ def merge(root, option, values, extension="txt"):
         raise ValueError("Update merge OPTIONS, option is not included: {}".format(option))
 
     for searchTerm in searchTerms:
-        document = mergeSimilarDocuments(root, searchTerm)
+        document = mergeSimilarDocuments(root, searchTerm, extension)
 
         filename = '{}/{}.{}'.format(root + '_merged', str(searchTerm), str(extension))
         with open(filename, 'w+') as f:
             f.write(document)
 
-def mergeSimilarDocuments(root, searchTerm):
+def mergeSimilarDocuments(root, searchTerm, extension="txt"):
     """Retrieve and merge all documents in nested subfolders that contain the
     search term in the filename.
     """
