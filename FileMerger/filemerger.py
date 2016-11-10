@@ -24,6 +24,7 @@ def merge(root, extension="txt"):
         if not path == root:
             document = []
             for name in files:
+                # Skip non-extension matching files.
                 if not name[-len(extension):] == extension:
                     continue
                 filepath = os.path.join(path, name)

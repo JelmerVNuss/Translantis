@@ -59,6 +59,9 @@ def mergeSimilarDocuments(root, searchTerm):
 
     for root, directories, files in os.walk(root):
         for name in files:
+            # Skip non-extension matching files.
+            if not name[-len(extension):] == extension:
+                continue
             filepath = os.path.join(root, name)
             if searchTerm in filepath.lower():
                 with open(filepath, 'r') as f:
