@@ -15,9 +15,9 @@ where <root> is the specified path to the starting folder,
       <values> is a comma-separated string of values.
 
 A valid example is:
-    filemerger.py -r ./test -o topic -v "test1,test2"
+    findFilemerger.py.py -r ./test -o topic -v "test1,test2"
 Or by year (only two values are allowed: the start and end year):
-    filemerger.py -r ./test -o year -v "1990,2000"
+    findFilemerger.py.py -r ./test -o year -v "1990,2000"
 """
 
 import sys
