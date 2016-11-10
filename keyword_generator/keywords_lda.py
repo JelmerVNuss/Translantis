@@ -207,7 +207,9 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
 
     allTopics = list(topics)
     topics = excludeTopics(topics)
-    excludedTopics.append([topic for topic in allTopics if topic not in topics])
+    removedTopics = [topic.words for topic in allTopics if topic not in topics]
+    if removedTopics != []:
+        excludedTopics.append(removedTopics)
 
     return topics, distributions, excludedTopics
 
@@ -315,7 +317,7 @@ def main():
         if len(excludedTopics) > 0:
             removeDocuments = input("Do you want to exclude the documents containing these topics? (Type [Y]es or [N]o)\n").strip().lower()
             if removeDocuments in AFFIRMATION:
-                removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage in decimals)\n").strip().lower())
+                removeDocumentsPercentage = float(input("Above which percentage of topic should the document be removed? (Enter the percentage as a decimal value between 0 and 1)\n").strip().lower())
             else:
                 isFinishedInput = AFFIRMATION[0]
         else:
