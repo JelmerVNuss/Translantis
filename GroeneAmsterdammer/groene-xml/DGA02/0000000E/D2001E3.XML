@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020608</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1302
+DE AMSTERDAMMER \VEE^BLA,D V O (XR, NED,
+Na de aanneming van het amendement de Waal Malefijt.
+
+j o li£Jt&lt;m, k 4
+MIN. BERGANSIUS.
+DUYMAER v. TWIST.
+DB WAAL MALEFIJT, SCHAPER.
+DBUCKEH.
+DE
+DE
+HEER DE WAAL MALEFIJT : »Ik heb het hausoh zoo kwaad niet bedoeld 't was eigenlijk by ongeluk."
+MINISTER VAN OORLOG: »Ja, jou kan ik niet aan de kleeren komen maar deze rakkert, die meepraat en meestemt over krygstucht en hier alle discipline verleerd schijnt..."
+WALDECK—ROÜSSKAU,
+
+de aftredende Fransche Minister-President.
+Om unisono te zingen, p/ onshine).
+Een kijkje op de tentoonstelling van St. Lucas te Amsterdam.
+
+(i^iii^'r^ll '";i|!'il
+
+
+«;*%&amp;*/&lt;\T?&amp; rt ^J
+^r^JvCVl/
+0„rjj
+•Vogeltje koBQ, en^blyf bg m\j l"
+."'.CHwAsrïE.
+i~f~rm
+*-	y	;--""• "—;
+M ft L A fel A - l VF£CTtE- •
+/M/^. LE'fi-.R'^S. Ij
+ƒ) v £f'/riL ME-T
+&amp;S.'rl.«&gt;cc'«ij
+da
+^_jg. - r
+CtfM v •*" iwo'o^ (-o^ie CpTv^rm;
+
+K5^&gt;')
+* -•-•--- &lt;^-ÏT&gt;3 ^
+
+</text>
+<image timestamp="2002:08:17:22:12:58.00" size="328334">D2001E3.TIF</image>
+</page>
+</document>

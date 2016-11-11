@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130504</Datum>
+<Pagina>14A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+EENDRACHT EN TWEEDRACHT
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 4 Mei 1913
+BIZONDERE SCHOOL
+Dr. A. KUYPER
+K u y p e r : Zie eens, ginds ligt ons Adrianopel!
+De Vrienden (ter zijde): En waar ons Saloniki?
+Dr. W. H. NOLENS Dr. J. TH. DE VISSER
+Arnst. Boek- en Steendrukkerij, v;h. Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:18:13:06:58.00" size="129736">D40000PO.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250321</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE EERSTE KAMER EN DE ZOMERTIJD
+BIJVOEGSEL van De Amsterdammer" Weekblad voor Nederland van 21 Maart 1925
+Nadruk vet boden
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+BR A A T: HEB NIET 'T HART OM OPEN TE DOEN!"
+
+</text>
+<image timestamp="2002:09:03:05:50:58.00" size="184458">000005G5.TIF</image>
+</page>
+</document>

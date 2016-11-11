@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991231</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+so.
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+In de Schatkamers van Kimberley.
+ALI BABA—KUODES : »Nu zit ik midden in de Diamanten en 't Goud en daar weet ik 't woord niet meer dut de deur ontsluit, o wee !''
+De Natalsche Sprinkhaan.
+(Punch.)
+Merkwaardig exemplaar van een trek-sprinkhaan
+(Locustra Joubertoria) thans zwervende ea veel
+schade doende in H. M 's kolonie Natal.
+De Zuid-Afril aarfSche orrlop.
+(Wahre Jacob, München).
+Engelschman: »Wacht maar, als de wind draait zal ik je wel helpen, ouwe heer!" (Fisehietto).
+De chocolaad der Koningin.
+tu Kapitalisme, ot hoe men van uienseheubió'ed goud kan maken.
+Engeland en Le Rire".
+Goddam! Die topografische kaarten deugen in 't geheel
+niet; de hinderlagen van de Boeren staan er niet eens op.
+Hoe kan een Generaal die dan vermijden .., (Uit Ftschietto).
+&gt;Maar jongens! wat is dat voor een spektakel ?"
+»0ch Pa! nou spelen we zoo mooi Transvaal en nou wil
+Kareltie niet Cecil Rhodes wezen." (Lustige Blütter).
+Ais wij nu eei:s de gelegenheid
+!-.rt af te knijpen." (Uit Puck).
+
+»l&gt;e Kngelschen zijn boos dat Le Eire eenige
+| caricaturen gaf van II M. Victoria zij
+vergeten zeker nu, dat zij zich eeriijds zelf
+aan dergelijke aardigheden versnaperden
+getui^'i deze reproductie van een caricatunr
+van Koningin Victoria, O'adstone en Disraëli.
+Mmi kan riiot zeggen dat de Engelschen hun
+Koningin geflatteerd hebben !"
+Gevaarlijk voor de
+• te verteren ! (Uit Fischietto),
+
+</text>
+<image timestamp="2002:08:14:02:19:19.00" size="590535">D2000BN.TIF</image>
+</page>
+</document>

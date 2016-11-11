@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19201127</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NA DE VERKIEZINGEN IN GRIEKENLAND
+Nadruk verboden
+BijVOEOSEL van ,Üe Amsterdammer". Weekblad voor Nederland van 27 November !&lt;J20
+Ansst. BOÜ'K- en StKendrukkerij, v h. Elierman. Harms &lt;S Co.
+Onrust in de Koningsgalerij
+
+</text>
+<image timestamp="2002:08:25:09:17:28.00" size="340770">D10003H8.TIF</image>
+</page>
+</document>

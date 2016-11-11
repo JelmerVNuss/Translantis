@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300712</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V.&gt;oorh.IBR.MERENS-pLEM
+Filiaal: Krommewaal 22, Amsterdam
+Lutkenieuwstraat 29, Groningen
+NEERLANDIA SLANG '
+DE SLANG VOOR TUIN EN GARAGE.
+ONZE WOORDEN BOEKEN NIEUWE TALEN
+ZIJN THANS ALLE UIT VOORRAAD LEVERBAAR
+
+
+Zoo juist verschenen:
+
+K. TEN BRUGGENCATE
+
+
+ENGELSCH WOORDENBOEK
+
+TWEEDE DEEL
+
+NEDERl.ANDSCH-ENGELSCH
+ELFDEVERBETERDE EN VERMEERDERDE UITGAVE
+door A. B ROE RS
+Leemar H.B.S. met 5-jartge cursus te 's-Cravenhaje
+
+Prijs, gebonden	f 3,75
+
+UITGAVE VAN """"""""~"~"""~"
+
+l B. WOLTERS - GRONINGEN, DEN HAAG
+MOBACO
+Bouw Speeldoos»
+Zeer leerrijk en onderhowdemd Speelgoed
+
+N. V. BOSCH, HONIG 6 Co,
+
+DOMSTRAAT 6 - UTRECHT
+
+In IKDie TCtktiJckaw MJ;
+Toko Onderling Belaag, Soaratayi.
+T* LEEUWARDEN verkrijgbaar bij:
+'t Kinderparadijs
+Kelders.
+WeiRRAHDERöZn.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+•««s» 's-Gravenhage «»•
+
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC. TELEFCXDN 40389
+Pt^oouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Handelsdrukwerk - Periodieken - Catalogi
+
+
+JDrukkerij Jtiantijn
+
+
+Amsterdam
+
+
+Reclameoruk\v'erk - (jelos-waaroig Jr apier
+!
+We gaan
+
+Kampeeren
+Maar eerst kijken bij
+
+Z E l L l N G A
+Amsterdam C., Pr. Hendrikkade 120
+"* -i/ $&gt;»M,Teleioon 41709—40717.
+Tenten - Lampen - Vlaggen - Kookgerei
+Opvouwbare stoelen - Stokken - Bedden
+Alles op kampeergebied.
+Vacantiegangers!
+
+
+Verzoeke bij opgave
+
+van verhuizingen dui
+
+
+delijk te vermelden
+l
+! of deze tijdelijk of
+
+blijvend /ijn.
+Wie zich op ,,De Groene" abonneert, neemt
+
+een besluit, waarvan hij in de toekomst geen
+
+spijt zal hebben !
+
+Bedien U ^ daartoe van onderstaande bon-,
+
+
+
+j ;
+Uitknippen «n versturen In briefomslag als drukwerk m«: l* , cont.
+l ........ ' " " ;
+
+| Aan de Administratie lan .,Dc Croem Amsfe-cid.r.ner" ;
+Keizersgracht 355 ,4 ;.-;,&gt; fert/öfn C.
+Ondergetekende \\-enscht zich /e b
+op De Groene Amsterdammer van l Juli a/.
+Abonnementsprijs l Juli 31 Dec. : ƒ s. .
+
+.Vaam.
+
+Adrt3: .
+DIT PAP.IER WORDT
+«GELEVERD DOOR DE Fa
+A, CORVEY, A M S T E R
+
+</text>
+<image timestamp="2002:09:25:21:18:38.00" size="164826">000009DH.TIF</image>
+</page>
+</document>

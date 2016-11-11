@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150627</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+27 Juni '15. No. 1983
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+Bij de Dinsdag gehouden inschrijving van
+f 20.0000op schatkistpromessen en schatkist
+
+biljetten is voor een bedrag van ruim f 65
+millioen ingeschreven. Toegewezen wer
+
+den f 11.313.000 biljetten tot den koers van
+100.76 pCt., hetgeen neerkomt op een
+nettorendement van iets minder dan 3 pCt. en
+f 8.560.000 promessen tot den prijs van
+f 982 90 per f 1000, hetgeen neerkomt op eene
+rente van ongeveer 3.36 pCt. per jaar.
+Door deze uitgifte is het bedrag der vlot
+
+tende schuld van het Rijk, met inbegrip van
+het renteloos voorschot bij de Bank en de
+in omloop zijnde zilverbons, tot ruim f70
+millioen gestegen of ca. f 10 millioen meer
+dan zij einde Juli 1914, vór het begin van
+den oorlogstoestand bedroeg. De opbrengst
+van de leening van f 275 millionn is dus in
+de verloopen elf maanden meer dan ver
+
+bruikt en bij de steeds aanhoudende groote
+behoeften van de schatkist is het te ver
+
+wachten, dat met de uitgifte van
+schatkistpapier op ruimen schaal zal moeten worden
+voortgegaan, totdat dit bij tijd en wijle in
+eene nieuwe leening geconsolideerd wordt.
+Het feit, dat de thans uitgegeven promessen
+en biljetten een looptijd van zes maanden
+hebben doet daarbij vermoeden, dat het de
+bedoeling der regeering is, tot zoodanige
+consolidatie eerst tegen het einde van het
+jaar over te gaan.
+Dit geeft aanleiding, enkele opmerkingen
+in het midden te brengen over de wijze,
+waarop opvolgende regeeringen te werk
+gaan bij de uitgifte van schatkistpapier.
+Reeds herhaaldelijk is van verschillende
+zijden en nog zeer onlangs door den heer
+Q. M, Boissevain in het Handelsblad de
+wenschelijkheid betoogd om dat papier in
+de markt te plaatsen en niet, zooals tot nu
+toe bijna uitsluitend geschiedde, bij de
+Nederlandsche Bank onder te brengen.
+Het hoofdargument van de voorstanders
+van eene plaatsing in de open markt is, dat
+de hulpmiddelen van de Bank beschikbaar
+behooren te blijven voor handel en nijver
+
+heid en niet mogen afgeroomd worden om
+in de eischen der schatkist te voorzien. Tegen
+deze redeneering valt weinig in te
+brenfen en het schijnt, dat het departement van
+nanciën tot het volgen van de tot nu toe
+meest gebruikelijke methode hoofdzakelijk
+geleid is door de overweging dat het Rijk
+voor 2/3 in de winsten van de Bank deelt
+en daardoor een groot deel van de te be
+
+talen rente langs anderen weg terug ontvangt.
+Zelfs aannemende, dat eene zoodanige
+overweging toelaatbaar is, wanneer daar
+
+door andere grootere belangen geschaad
+worden, dan nog schijnt zij mij weinig steek
+
+houdend toe.
+Immers zal onder normale omstandigheden,
+wanneer groote bedragen regeeringspapier
+in de markt gedisconteerd worden, ander
+papier, dat anders door de markt opgenomen
+wordt, zijn weg naar de Bank vinden. En
+ofschoon het niet met een goudschaaltje af
+te wegen is, mag vrijwel aangenomen wor
+
+den, dat wat de Bank en dientengevolge
+haar participante, het Rijk eenerzijds aan
+rentewinst zoude derven door het plaatsen
+vaivRegeeringspapier in de markt, zij ander
+
+zijds zal winnen door toevloeiing van ander
+papier.
+Intusschen de kwestie of de plaatsing van
+schatkistpapier per saldo iets meer of minder
+aan de Regeering kost, is slechts van onder
+
+geschikt belang. Er is echter eene meer
+principieele bedenking tegen de wijze, waarop
+de dtsconteering van dat papier in den regel
+geschiedt,
+Een der meest gevaarlijke voetangels en
+klemmen, die het beheer van een
+circulatiebank moet vermijden, is te groote dienst
+
+vaardigheid jegens de regeering. De Neder
+
+landsche Bank heeft dit bezwaar weten te
+ontgaan en in zijn bekend leerboek zegt N.
+G. Pierson dan ook, dat het daaraan te
+danken is, dat het financieel wanbeheer dier
+dagen niet geleid heeft tot oninwisselbaarheid
+der biljetten. Verder is het der Nederlandsche
+Bank verboden wisselbrieven te disconteeren,
+tenzij voorzien van twee of meer
+handteekeningen.
+Wat geschiedt echter in de practijk?
+Zoodra de schuld van de schatkist aan de
+Bank het bedrag van het f 15 millioen rente
+
+loos voorschot dreigt te overschrijden wordt
+regeeringspapier uitgeschreven, tegen eene
+nominale provisie aan diverse financieele
+huizen ter medeteekening aangeboden en op
+die wijze van twee handteekeningen voor
+
+zien door de Bank gedisconteerd.
+Formeel is dit natuurlijk volkomen in den
+haak, maar in werkelijkheid is het niet zonder
+bedenking. Voor tonnen en millioenen wordt
+aldus geteekend door respectabele firma's,
+die onder normale omstandigheden waar
+
+schijnlijk volkomen goed zijn voor hare
+handteekening, maar waarop juist onder
+omstandigheden, waarin de Staat aan zijne
+verplichtingen niet direct zoude kunnen
+voldoen, en de Bank zoude moeten terug
+
+vallen op de endossanten, dat verhaal niet
+of althans zeer bezwaarlijk te vinden zoude
+zijn.
+En nu zegge men niet, dat dit geval zich
+in de praktijk wel nimmer zal voordoen.
+Ik erken, dat het uiterst onwaarschijnlijk is,
+maar onmogelijk is het niet en wat
+beteekent dan de waarborg, die in het endossement
+moet gelegen zijn, wanneer hij juist in die
+gevallen, wanneer men er op terug moet
+vallen, niet tot zijn recht kan komen.
+Men denke slechts aan wat in Juli 1914
+met de prolongatiën geschied is. Voor mil
+
+lioenen liepen toen posten over den naam
+van de zoogenaamd commissionairs-geld
+
+gevers." Onder normale omstandigheden
+verliep alles glad, maar onder de buiten
+
+gewone, die toen bestonden, zouden zelfs
+de sterkeren onder hen hunne verplichtingen
+niet hebben kunnen nakomen, wanneer niet
+tot den krachtsmaatregel van beurssluiting
+ware overgegaan. En dat dientengevolge
+alles goed afgeloopen is, moet voor een
+groot deel meer aan geluk dan wijsheid
+toegeschreven worden. Waar rnen thans
+zoude gestaan hekben, indien Amerika niet
+zulk een ongekend recuperatievermogen
+aan den dag gelegd had, of wanneer Ne
+
+derland zelf direct in den oorlog zoude
+zijn betrokken geworden, daaraan kan niet
+zonder huivering gedacht worden.
+Analoog aan de positie, waarin de commis
+
+sionairs-geldgevers" toen stonden, is m. i. die
+van de endossanten van regeerings papier.
+En nu wil het mij voorkomen, dat dit be
+
+zwaar juist thans, nu het gevaar niet
+onmiddelijk dringt, ernstig onder de oogen dient
+gezien te worden en gebroken met een
+stelsel, dat formeel waarborgen aan de Bank
+geeft, die echter in werkelijkheid zeer zwak
+zijn. En bijaldien dit mocht leiden tot het
+onmogelijk maken van het onderbrengen
+van groote bedragen schatkistpapier bij de
+Bank in normale tijden, des te beter. In
+abnormale tijden, wanneer het geldverkeer
+geheel ontwricht is, zal het niet altijd te
+vermijden zijn, dat de Bank moet bijspringeu,
+maar dan is het in normale tijden noodig,
+dat zij, hare middelen niet te ruim ter be
+
+schikking van den Staat gesteld heeft en
+deze laatste in zijn behoeften buiten de Bank
+om tracht te voorzien, liefst zooveel mogelijk
+door uitgifte van leening en slechts in be
+
+perkte mate door op korten termijn
+opeischbaar papier.
+Ten slotte nog eene opmerking naar aan
+
+leiding van de thans plaats gehad hebbende
+uitgifte van schatkistbiljetten.
+Daarbij wordt aan in Nederland gevestigde
+bankiers, makelaars in effecten en
+commissionnairs in effecten een courtage van % pet.
+van het bedrag der hun toegewezen
+schatkistbiljetten toegekend. Blijkbaar is men aan
+het departement van financiën daarbij te
+rade gegaan met de gebruikelijke courtage,
+die bij de uitgifte van leeningen toegekend
+wordt. Men schijnt er echter geene rekening
+mede gehouden te hebben, dat schatkist
+
+biljetten in den vorm wel is waar een effect
+zijn, maar in het wezen der zaak niet anders
+dan een zesmaands wissel, waarop een
+courtage van !/i pet. feitelijk eene verhooging
+van de te betalen rente met Vs pet. per jaar
+uitmaakt en dat is te veel. Bovendien kan
+deze bepaling aanleiding geven tot het
+plaatsen van bankiers enz. in eene bevoor
+
+rechte positie bij de inschrijving.
+In het prospectus is de, op zich zelve zeer
+juiste, bepaling opgenomen, dat bij de toe
+
+wijzing geen rekening gehouden wordt met
+de vraag of de Staat al of niet de bedoelde
+courtage heeft te betalen. Maar het 'gevolg
+daarvan is, dat bankiers enz. zich met een
+kleiner rendement kunnen tevreden stellen,
+omdat zij compensatie in de courtage vinden
+en dus tot een hoogeren prijs kunnen
+inschrijven en meerdere kans op toewijzing
+hebben dan particulieren.
+Het feit, dat uit het in den aanhef dezes
+vermelde resultaat der inschrijving blijkt,
+dat voor biljetten ca. ^ pet. gunstigeren
+koers voor den Staat bedongen is, schijnt
+er inderdaad op te wijzen, dat er van die
+bevoorrechting door bankiers enz. een ruim
+gebruik is gemaakt.
+Het is daarom raadzaam om bij volgende
+uitgiften van schatkistbiljetten de courtage
+lager te stellen en meer in overeenstemming
+te brengen met het werkelijk karakter dan
+met den vorm van het papier. Ook daarom
+zoude zulks gewenscht zijn, omdat het voor
+den Staat van meer belang is, dat de bil
+
+jetten zosveel mogelijk bij particulieren
+geplaatst worden en zoo er al van be
+
+voorrechting sprake mag zijn die veeleer
+ten bate van de particulieren behoorde te zijn.
+J. D. SANTILHANO
+
+*»*
+Britsche financiën onder den oorlogsdruk
+Uit de millioenen-speech, in het laatst van
+April uitgesproken door den Kanselier der
+Britsche schatkist, kan men zich een denk
+
+beeld vormen, hoe reusachtig zwaar de
+finantiëele lasten zijn, die de tegenwoordige
+oorlog op de daarbij betrokken landen en
+volken legt.
+In het jaar, geëindigd 31 Maart 1915,
+hebben de uitgaven van Engeland bijna
+560% millioen pd.st. bedragen, waartegen
+
+over de volgende inkomsten staan :
+budget-ontvangsten. . 226.690.000
+oorlogsleening	296.000.000
+schatkistbiljetten . . . 47.700.000
+nieuwe biljetten. . . . 64.150.000
+
+Totaal . . 7 634.540.000
+zoodat de inkomsten van dat jaar de uit
+
+gaven met 74 millioen pd. st. zouden hebben
+overtroffen.
+Vergelijkt men echter de werkelijke ont
+
+vangsten van het dienstjaar 1914/15 met die
+van het daaraan voorafgaande jaar en met
+de ontwerp-begrooting, zooals deze in het
+najaar van 1914 is gewijzigd, dan verkrijgt
+men de volgende verhouding (in millioenen
+pd.st.):
+1914/15
+feitel.
+inkomst.
+226.29
+560.47
+Ontvangsten
+Uitgaven
+1914/15 1913/4
+begrooting feitel.
+raming.
+209.21
+569.84
+ink.
+198.24
+197.47
+te kort
+333.78
+te kort
+360.63
+over
+0.75
+Het budget-jaar 1913/14 liet dus een
+voordeelig saldo van % millioen pd. st. Het
+uitbreken van den oorlog einde Juli 1914
+maakte een wijziging der ontwerp-begrooting
+noodig, volgens welke de ontvangsten van
+1914/15 op 209.21 millioen werden geraamd,
+waarbij rekening werd gehouden met de
+nieuwe oorlogsbelasting op thee, bier en
+vooral met de inmiddels voorgeschreven
+verhooging van den income tax. De
+feitetijke ontvangsten] overtroffen inmiddels de
+geraamde nog met ruim 17 millioen pd.st.,
+De Twentsehe Bankvereeniging
+
+B. W. Blijdenstein&amp;Co.
+KAPITAAL : f 15.370.942.5O RESERVEN: f6.943.336,86
+HOOF IJK AWTOOH;
+AMSTERDAM, Spuistraat 138 144.
+(voor wier verbintenissen De Twentsche Bankvereeniging
+B. W. Bltjdenstein &amp; Co., ten volle aansprakelijk is)
+AMSTERDAM, Prins Hendrikkade 139;
+LONDEN, B. W. Blgdenstein &amp; Co.. 55-56 Tnreadneedlestr.:
+ENSCHEDE. B. W. Blpenstein Junior;
+ALMELO, Ledeboer &amp; Co.
+RENTE VOOR DEPOSITO'S;
+Direct epverderbaar	l pCt.
+TIen dagen opzegging	l U
+Een Maand vast Qemiddelde prolongatie-koers met een maximum van 2
+Drie Maanden epzegglng .... 3 pCt.
+Zes Maanden . . . . 3H &gt;
+Een Jaar 4 ,
+Van den dag der opzegging
+af wordt Vf pCt. minder
+rente vergoed.
+JAPE DEPOSIT
+
+Heerengracht 531—537,
+Weesperplein 2,
+Overtoom h/Ie Const. Huygensstr.,
+Willemsparkweg 80,
+
+verhuurt aan W] haar geïntroduceerde personen SAFE
+
+LOKETTEN in hare Brand- en Inbraakvrije Kelders.
+
+Reglementen zijn aan bovenstaande kantoren verkrijgbaar.
+ft/ 's-Gravenhage.
+
+O Pandbrieven
+Ha 10 jaar opeischbaar a pari.
+Verkrijgbaar a iOO8/4 /0.
+;• en
+Wijziging der Depositorente.
+Met ingang van heden wordt de
+rente-vergoeding vastgesteld als volgt:
+Met n dag opzegging ... % pCt
+(Bedragen tot ƒ20.000 zijn terstond
+betaalbaar)
+Met 10 dagen opzegging . . % pCt
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving vol
+
+gens reglement.
+SAFE DEPOSIT-INRICHTING,
+geopend:
+op werkdagen van 8M tot 5 uur.
+, beursvacantiedagen , 85i n 4
+Loketten van ƒ2.50 per maand (ƒ10.
+per jaar) en hooger te huur voor bij
+de Directie bekende of geïntroduceerde
+personen.
+Amsterdam, 21 Mei 1915.
+Nieuwe Nederlandsche
+
+Hypotheekbank.
+De op l Juli 1915 verschijnende
+Coupons i pCts, 4 K pCts, en 5^
+pCts l'ANUBRIEVEN, zijn van dien
+datum af betaalbaar te Amsterdam bij
+de ASSOCIAT1E-CASSA en in de
+Provinciën bij H.H. Correspondenten.
+De Directie:
+A. C. VAN DUSSELDORP.
+Mr. L. VAN CRANENBURGH.
+Koers van uitgifte«
+/f\ i AKoersvan uiHorinq//W
+VI. l/. JIVI/0
+4-4-:
+Standaard Hrpothiikhank, li Rottirdam
+Directie: Mr. H. H. 0. 0»stendflk enJhr.
+E. F. Schnurbeque Boeye.
+De Bank verstrekt gelden onder
+eerste hypothecair verband en
+geeft 5 % PANDBRIEVEN
+uit onder controle van het
+Algemeen Administratie en
+Trustkantoor te Rotterdam.
+De Hollandsche Voorschotbank
+HAARLEM, JANSWEG 42.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnhaven 129o.
+'s-Gravenhage,Ged.Burgw.38
+Maastricht, Breedestraat 24.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van ƒ 5OO
+en verkoopt 4Vi pCt. schuldbrieven in
+stukken van ƒ1000, ƒ500, ƒ 100 en ƒ 50.
+Rott. Hypotheekbank T. Neder).
+Volteekend Maatsch. Kapitaal ƒ 5.000.000
+Reserve ƒ645.279.84
+Geeft geld op eerste hypotheek zon
+
+der vooruitbetaling van rente. Inlich
+
+tingen te bekomen ten kantore der
+Bank,- Gedempte Bierhaven 25, of bij
+hare Agenten.
+De Directie: Mr. W. v. ROSSEM,
+Mr. TH. REEPMAKER, Mr. N. P. C.v.WIJK
+StanüJaBl915:
+KAPITAAL:
+/ 3.000.000.
+RESERVES:
+
+ƒ250.000.HYPOTHEKEN:
+ƒ17.123.10326
+PANDBRIEVEN
+ƒ
+16.954.100.5 w/ UITLOOTBARE
+/ PANDBRIEVEN
+/~ in stukken van
+'w f5000.—, f 1000.
+en f500.—(halfjaarcoupon
+Januari—Juli) en f 100
+(jaarcoupon Januari). Ver
+
+krijgbaar ten kantore der
+Bank (Ged. Oude Gracht 65)
+en door alle Commissionnairs
+in Effecten.
+aal f 50,000,000.-Reservefonds f 9.237.150
+Hoofdkantoor AMSTERDAM.
+Agentschappen te 's-GRAVENHAGE en ROTTERDAM.
+
+Vestigingen in het Oosten: Batavia, Soerabaia, Samarang, Bandoeng,
+Weltevreden, Cheribon. Tegal, Pekalongan, Djember, Solo, Djokjakarta,
+Tjiiatjap, Padang, Medan,, Tebing Tinggi (Deli), Tandjong Belei,
+KotaRadja, Palembang, Telok-Betong, Pontianak. Bandjermasin, Makassar,
+Singapore, Penang, Rangoon, Hongkong en Shanghai.
+
+In- en Verkoop van "Wissels en Telegrafische
+Transfertea. Incasseeringen en Financieeringsn.
+Schriftelijke of Telegrafische Credieten.
+fieiscredietbrieven. Deposito's.
+RekeningenCourant. Administratie van Effecten en alle
+andere Bankzaken.
+gevestigd te Utrecht,
+verstrekt credieten op billijke voor
+
+waarden. Geeft Schuldbrieven uit ren
+
+tende 4VüpCt. in stukken van ƒ1000,
+ƒ 5OO en ƒ 1OO. Koers van uitgifte
+98 pCt. De Directie
+CORNS. LOEFF.
+KKIIIKTV KKKKMIOIWO
+OPGERICHT IN 1853 AMSTERDAM OPGERICHT IN 1853
+Hoofdkantoor: Keizersgracht 277, Bijkantoor: Stadhouderskade 118
+Maatschappelijk Kapitaal f 5.000.000, waarvan uitgegeven f 4.000.000
+Keservefouds f803.000 Extra-Reserve f130000
+Agentschappen te Alkmaar, Arnhem, Deventer, Dordrecht,
+'s-Gravenhage, Groningen, Leeuwarden, Maastricht, Middelburg, Rotterdam,
+Tilburg, Utrecht en Zwolle.
+l met l dag opzegging pCt.
+'s, rente thans: [ voor l maand vast 3Va
+) voor 3 maanden vast 4
+Cheques van deposanten kunnen kosteloos worden betaalbaar gesteld
+bij alle bovengenoemde Kantoren, alwaar uitvoerig Prospectus ver
+
+krijgbaar is.
+O/ Pand
+Gebouw der Bank.
+aflosbaar a pari bij jaarlijksche
+uitloting in 25 jaar, in stukken
+van ƒ 100.-, ƒ 500.- en ƒ1000.—,
+worden tegen den koers van
+99 pCt. uitgegeven door de
+
+Utrechtsche
+
+Hypotheekbank,
+
+UTRECHT Tel. 241. Drift 17.
+HYPOTHEEKBANK HOLLAND-AMERIKA. Utrecht.
+PAMPBBIEVEUf in stukken van f IOO.—, f 25O.—, f 5OO.—en f 1OOO.—tegen den koers van 1OI pCt.
+f A LEVENSVERZEKERING 'BANK
+^„AMSTERDAM"
+Directeuren. M"
+w QUEM. • J.UBONNIr\t, Adj-Oic O A.AEJJELT3.'
+IDE .A»IMI S T E IR ID .A. 3VH 3VC E IR
+
+;_* IllWeekblad^voor Nederland
+kost slechts f 1.65 per kwartaal
+5 /o Verzeker d e pandbrieven
+der ST.V. DE CftEDIET-HYPOTHEEKBANK te 's-Gravenhage,
+Noordeinde 43, waarbij elk bedrijfsrisico der Bank voor de houders is gedekt,
+zijn verkrijgbaar a 99 p€t, in stukken van
+ƒ1000—, /SOO.—en ƒ100.—.
+De Directie :
+G. J. VAN INQEN. Mr. H. VAILLAHT.
+
+</text>
+<image timestamp="2002:08:21:15:10:53.00" size="440830">D40001TS.TIF</image>
+</page>
+</document>

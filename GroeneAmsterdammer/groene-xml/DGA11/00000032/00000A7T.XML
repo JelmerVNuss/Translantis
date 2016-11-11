@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320430</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 30 April 1932
+No. 2865
+
+IrJ. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+BEGRAFENISVEREENIGING
+SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftetraat 38
+Tal. 20341 2425O
+BUSSUM (Bijkantoor v/h Qooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+De Groene Amsterdammer
+f 1O.—per jaar.
+
+8ens-/
+"ns .
+
+scac
+
+tacao- Caf
+DROSTE
+BON B ONS
+ALT IJ D WELKOM!
+WAXINE
+PAKKET
+Een theecomfoortje
+van perskristal met
+een doos Waxine
+theelichten
+fl. 1.25
+
+VERKADE
+Boeken voor kleine kinderen. t
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd door
+
+R O K O P U l T
+Ro Kopuit heefteen snoepgoed je
+samengebracht, met suiker en
+honing,met koek en melk. Het wordt
+een f eestgebak je voor de kleinen,
+heerlijk geurend en lekkersmakend.
+Niet een zal den neus van over de
+bladen willen doen als hij niet alles
+weet wat er op verteld staat, van
+naaldeken tot draadje.
+Dagblad Vooruit, Gent
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+Vereenvoudiging en directheid
+spreken ook uit de banareekening,
+eveneens door de schrijfster zelve
+geteekend. De roode vos achter
+zijn bontgekleurde kippen aan
+
+jagend geeft een synthese van den
+inhoud van het wijdberoemde ver
+
+haal, dat door Ro Kopuit op rijm
+werd naverteld.
+Groene Amsterdammer
+Prijs gebonden F. 1.50 •»
+In eiken boekhandel verkrijgbaar
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:22:42:30.00" size="247784">00000A7T.TIF</image>
+</page>
+</document>

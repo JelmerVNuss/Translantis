@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300823</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+25 et
+rpene
+eefcblad voor Nederland
+KEIZERSGRACHT 3SS -AMSTERDAM - CENTRUM
+AMSTERDAM
+DAMRAK 80-81
+LEEUWARDEN
+STATIONSWEG 28
+BRAND-, BEDRIJFS-,
+ZEE- en TRANSPORT
+
+VERZEKERING
+HOTLEVERANCIERSVAN Z. K. H. PRISS HENDRIK DER NEDERLANDEN.
+VANSTRAALEN
+MONSIEUR
+6 ERKELENS
+
+WIJNHANDELAREN.
+
+Hoofdkantoor Rotterdam
+Leuvehaven 34
+tel 52456
+
+Filialen Den Haag
+Anna Paulownastraat 36
+tel. 32539
+
+Den Helder
+Hoofdgracht 37
+tel. 83.
+
+VRAAGT PRIJSCOURANT 1030.
+BU1TENLANTAARNS
+HAftloosterliuis
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTKAAT 7.x hOZENGRACHT 60
+R O T T E R D A M HOOGSTRAAT w,
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+•v
+H
+eupqor
+-del E
+xtens
+itl,
+\
+
+t'rai
+, m
+• \' Jl
+•i'V
+m 12
+van prima TranscJi Klasuek,
+insluitend, maar recht van boven,
+kleur rosc, 55 ccnlimed-r lang, leveren wij
+onder GARANTIE
+tot lïcupwijdte 100 c.M. :m'!&lt;\yen prijs f 1*4,
+verder tot lló c.M. ,, ,, ,, lo.
+
+I^ii scl~inl elijke lM-s't'Hiüi', &lt;;;( iit' \ c rnrn ,il^ maai
+op ie ;r cv en &lt;! t- w !; (i 11 • o v r f ! &gt; i 'f t -ij s i i- l f e i v a n (i «
+h i'v; i H n, over oiidor!-* '^c-l &gt; r&gt; '.* ,*1 JLÏr l en.
+lastiefcen Oei? p^orclels
+i O
+in Enfrclscno U\va!iU-il rn vanaf • -1.90
+A!'-1 fU'ir
+f, -.r. i, i'.'fn i.
+
+
+</text>
+<image timestamp="2002:09:26:01:05:53.00" size="239689">000009HK.TIF</image>
+</page>
+</document>

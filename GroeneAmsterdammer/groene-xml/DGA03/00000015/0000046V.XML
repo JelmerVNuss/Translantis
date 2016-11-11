@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100130</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Drake en Halley—Nieuwe Cook en Peary.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 30 Januari 1910.
+•v *
+^^
+vC'F*prf t'-:&gt;a
+m
+• T, f.
+'
+#
+'. \
+-,*. " , "-, ^l_.„&gt;*~ .
+1 » '-"'* 'r *•.&gt;*' '„..; - "*Vt~2£i£**,.4£
+^ ft, . &lt;*Y-* -vïu &lt;- ^ f' • -*^i.sw5 ^ »:,.
+-,^- r;:r^*^^^,-;,^tó&gt;ï- . , . .^,
+
+, ''ï-^^^yc*-^®^?^^^^^^*^ r^ ^^r!,
+, '-*-", -.
+
+- "r; ", T^^K?ft
+^?vi^^'; 5 *-' ."^- .* _ - S*vf^&gt;;{V&gt;&gt;f--- - ,«\^- ,"&gt; - ' -v,
+"* 's ^"t . »
+*-K ,-«^',
+
+- "--s* ««i^:"r ' - _,. ^
+Jè.3^-é**-ih'-:
+% c»i~«(SEfc!«
+'j ''"ft1 V- t *
+
+-* " St- -fo^^t ~ . "*
+£&gt;t*
+! -f
+;«*KÏ,
+-? *i."?
+
+
+"*\ SJ^"ÏK'' J«e
+^V :
+«*»*
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+Wedrennen in het hemelruim.
+
+</text>
+<image timestamp="2002:08:22:18:47:53.00" size="1084617">0000046V.TIF</image>
+</page>
+</document>

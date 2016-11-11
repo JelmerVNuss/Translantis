@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180413</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+13 April '18. No. 2129
+Gelder
+Tel.
+'H. 2997
+Amsterdam
+Tel.
+'M. 2997
+Eetserviezen
+Weest even zuinig: op GELD als BROOD en rookt sigaren van JOIIAN J. BOOT
+== Sarphatistraat !82, Amsterdam - Tel. Z. 5429 en Z. G976 ==
+De FotografisclieA tellers
+
+C. J. (. VERMEULEN
+zijn gevestigd:
+KI RUG: • UTRECHT: • ROTTERDAM:
+Tmtiiik. H liiuwc Gracht 50 Coolsingel 22b
+TEUFUIUT3 TELEFOOH150 TELEFOOI9293
+InftttidiS
+TUEFMI4144
+En zijn bekend om hun
+artistiek werk en zeer
+lage prijzen
+Zijden Lampekappen
+Speciaal adres, altes eigen fabri
+
+kaat, ook alle artikelen om zelf te
+maken, op aanvr. prijscour. No. 10.
+•V** Voor den handel speciale prijzen
+m DAM, Katostraal 157, Amsterdam
+TELEFOON 5900
+II
+Pension MINERVA
+Parklaan 86-94 :•: Haarlem
+Telefoon Interc. 433
+OPGERICHT 1892
+HUIS VAN DEN EERSTEN RAN6
+y&amp;ijttrn^ i/n
+AMSTERDAM. KALVERSTRAAT. 119 "" ROTTERDAM. HOOFDSTEEG, as
+OEN hlA«j.SPUISTRAAT. •*)! ARNHEM. oyNSTRAAT. 34
+UTRECHT CHOOCSTRAAT. i NaMEOEN. BROERSTOAAT. 9
+HAABLEM GR.HOUTSTRAAT. 20
+TENNISSCHOENEN
+Leest in het zoo juist verschenen derde
+nummer van
+
+DE, LOODS
+Politiek-E-conomisch-Literair Weekblad
+H.D.Tj«nk Willink* 7n
+ORGAAN VAN DEN ECONOM1SCHEN BOND
+
+VERSCHIJNT IEDEREN DONDERDAG
+Mr. Aut. MCI
+
+HooJdrtdttlt
+het artikel over den NEOERLANDSGHEN LANDBOUW
+van G. KRUSEMAN.
+Abonnementsprijs fl.SO per kwartaal.
+Abonneert u bijden boekhandel of bij de uitgevers
+H. D. TJEENK WILLINK &amp; ZOOM te Haarlem
+-1 *°Dulden per MILLE JOHAM J. BOOT
+«^«„m„«,»t^ ^i-r,.,^ Sarphatistraat SS, Amsterdam
+prima r
+r«
+TELEFOON zuid 5429 en zuid
+ZU1D-HGLL. VERG.
+101
+BEVORDERING VAN
+KUNSTNIJVERHEID
+EN
+VOLKSKUNST
+TENTOONSTELLING
+27 APRIL 27 MEI 1918
+ACADEMIE, Coolvest 84, Rotterdam.
+TENTOONSTELLINGSCOMMISSIE:
+Mr. A. R. ZIMMERMAN, Burgemeestei van Rotterdam,
+Eere-Voorzitter.
+G. L. M. VAN ES, Voorzitter, Mr. M. I. DUPARC.
+A.VANSTOLK.Vlce-Voorzitter. W. PENAAT.
+K. P. C. DE BAZEL. A. PLATE, c. i.
+Dr. H. P. BERLAGE. J. M. SWEEP, c. i.
+T. BODENHAUSEN. J.J.HOOGEWERFF.Secretaris
+PlANO-s
+REPAREEREN
+STEMMEN
+VERHUREN
+RUILEN
+(Hollandsch
+RUBBERVLOEREN
+uitsluitend verkrijgbaar
+JACs. S
+Wagenstraat
+Kantoor te Amsterdam Singel
+WAISVISZ
+PI PI
+FAXMESSENSUJPMACHINES
+'t Is maar een handomdraaien
+Overal verkrijgbaar en bQ
+l, H. BIRISTRQINI &amp; Co. - ZWOLLE
+GIDDINGSZONEf
+f?OTTERDArjl
+DE HAAS &amp; Co's WONINGGIDS
+FRED. HENDRIKPLEIN 34 's GRAVENHAGE
+TEL. SCHEV. 2056 ,r*üM
+Alle inlichtingen en toezending Gids kosteloos ::
+!.WJANIIIUIGEN'S
+MOSTERD
+x UTRECHT x
+MERK:UOND'OR
+I
+Agentschappen in Indië:
+Baiavia, Soerabaya
+en Bandoeng.
+Agentschap in Nederland:
+Tilburg.
+BOAS&amp;GLASER
+GROENBURGWAL 65, AMSTERD1M
+Telefoon Noord 8386
+Fabrikanten van
+[LECTB1SCHE WMM
+en ZIIDEN UMPEUPPfN
+Levering ook naar elk gewenscht ontwerp.
+Grossiers in
+Electrisch Materiaal,Glaswerk
+en mdere Verlichtingsartikelen.
+Catalogus wordt op aanvrage gratis
+en franco toegezonden aan den
+Handel en H. H. Architecten enz.
+inOUTIIANDEL EN TIMMERfABPIEK PADOX"
+PADt\STDAAT 5/ TEL MAAG 26S6.
+VEDPLAAT5&amp;APE MOUTEN GEBOUWEN
+PPU5 VAN Ar TL.H5O TQANCO OP WAGON PLAATb VAN
+LE.VCDINQ UIT VOOUDAAD
+
+</text>
+<image timestamp="2002:08:23:02:52:54.00" size="323975">D10002ST.TIF</image>
+</page>
+</document>

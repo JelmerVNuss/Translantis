@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140301</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+1914
+Zondag l Maart
+A°. 1914
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND)
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	/ 1.65
+Voor het Buitenl. en de Koloniën p. ]., bij vooruitbetaling fr. p. mail . 10.
+Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar , 0.125
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van 1—5 regels /1.25, elke regel meer . .
+Advertentiën op de finantieele- en kunstpagina, per regel
+Reclames, per regel
+ƒ0.25
+.0.30
+.0.40
+INHOUD
+Blz. 1: Behoudzuchtig radicalisme in
+het ontwerp-Treub. Kroniek: Bios
+
+coopgevaar. J. H. Schutte: De Diamant
+
+bewerkers, I. 2: Feuilleton naar
+Strindberg. Frans Erens overClaudel.
+W. J. G. van Meurs contra dr. J. Veth over
+Matthijs Maris. Ingez.: Z. Stokvis en
+A. van Gogh Kaulbach over Gebr.
+Karamazow. Handelsbedienden.—5: Tutti
+Frutti. F. C. contra mej. Coops.
+Anneke door A. G. v. d. H.-J. E. Hei
+
+mans : Kalken Huizen. 6: Sarah Bande
+tot Echten : Dansen, I, Anna Pavlova.
+Prof. dr. L. Knappert over Giran. 7:
+Jubileum mevr. Sablairplles. W.
+Steenhoff over Matthijs Maris en dr. J. Veth.
+J. G. Veldheer over de Graphische Tent.
+te Rotterdam. Matthijs Vermeulen over
+de Italiaansche Opera. Charivarius:
+De politieke toosters. Portret J. K.
+Rensburg. 8: Charivari. 9: Fin.
+Kroniek door v. d. M. 10:
+Duitschlands graanexporten door v. d. S.
+11: Schaakspel door R. Loman.
+Damspel door J. de Haas. Teekening Joh.
+Braakensiek: de Ned. type-juffrouw.
+Bijvoegsel door Johan Braakensiek:
+Regout contra Treub en Talma.
+lltlllllllllltlimillllllllltllllllltlllllllllltllMHIIIIMMIHimiHIIIIIIIIIIIIIIIII
+BEHOUDEND RADICALISME
+In ons nummer van verleden 14 Dec.
+betoogden wij, nog onder den weldadigen
+indruk verkeerend van de eerste inning
+van 't staatspensioen aan de postkantoren,
+hoe groote winst hier in een oogenschijn
+
+lijk kleine zaak het maatschappelijk leven
+behaald had. Ziedaar een eerste begin,
+zeiden wij, van de noodzakelijke, want
+dubtyel wenschelijke opheffing der armen
+
+zorg. En wij knoopten er een beklag aan
+vast over Treubs plannen, die dit prin
+
+cipe van staatspensioen, waar in 't licht
+van de Engelsche wetgeving ons volk
+tijdens de verkiezingen zich voor had
+ingespannen, weer bederven ging tot een
+geven van vernederende aalmoezen: nu
+hij het immers van de postkantoren
+aftrekken wil en aan den willekeur van
+zuinige en hoogmoedige
+plattelandsburgemeesters overlevert.
+Het krachtig lan van onzen tegen
+
+woordigen minister van Handel en Nijver
+
+heid betalen wij duur met zijn eigen
+
+schappen van radicale beperktheid en
+hqofdigheid. Er zijn zaken, welke som
+
+mige geesten nimmer bevatten zullen.
+Een Wethouder van Kopenhagen werd
+door den heer Treub, in zijn v
+rministerieele philippica tegen de verzekerings
+
+wetten, voor al wat leelijk was uitgemaakt,
+omdat die man toeliet dat zijn vader het
+ouderdomspensioen inde, inplaats dat
+de spreker in deze en dergelijke feiten
+het verheugende inzicht huldigde, dat
+een pensioen, hetwelk voor onzen, aan
+'t verleden gebonden geest op armen
+
+zorg lijken kon, blijkbaar in de praktijk
+van het Deensche stelsel reeds het ge
+
+vloekte karakter der bedeeling verloor.
+Een onheilige furor doorgloeit thans onzen
+minister om, hoe gevaarlijk het voor de
+zaak van het Algemeen Kiesrecht ook
+worden kan, het Nederlandsche Volk,
+dat in deze anders gevoelt dan hij, met
+zijn bedeelings-pensioen te prikkelen.
+Geen dan de onverbeterlijkste conserva
+
+tieven zijn voor het stelsel van dezen
+laatsten radicaal." Dezer dagen viel zelfs
+het blad, dat hij, om het regenten-karakter
+ervan, twintig jaar geleden met succes
+bestreden heeft, hem af ten opzichte zijner
+ministerieele regenten-plannen, die plan
+
+nen die niet eens meer staats- doch gemeen
+
+telijke bemoeiing geven met staatsgeld, in
+de praktijk een bevestiging der armenzorg,
+en die dit geven om te voldoen aan den
+volkswil welke een staatspensioén eischte!
+Het is waarlijk innig te betreuren, dat
+om der wille van Corts Algemeen Kies
+
+recht men Treubs pseudo-staatspensioen
+wellicht zal gedwongen worden te aan
+
+vaarden.
+Het Handelsblad, dat aan zijn
+Kameroverzichtschrijver toestond een geregelde,
+harde campagne te voeren om 't staats
+
+pensioen vooral als een bedeeling
+op te vatten en dat hem vrijheid
+gaf te juichen zoo dikwijls een uiting
+in de Kamer hieraan beantwoordde,
+zelfs het oude regentenlievende Handels
+
+blad gevoelt zich aan de publieke opinie
+schrijft het blad,
+van onze
+opmerverplich.t een schoonen draai te nemen
+en heeft nr. van 19 Febr. thans
+bezwaren" tegen het bedeelingskarakter
+van Treubs wetsvoorstel. Zelfs het Han
+
+delsblad ! Hoe spreekt de radicaal van 1893
+thans tot den minister van 1913? Het
+Handelsblad schetst het als een onpopulair
+voorstel: diegenen van een pensioen uit
+te sluiten, die na het 65ste levensjaar, zij
+het slechts nmaal, bedeeling ontvingen.
+De meesten", zegt dat blad wij
+citeeren met voldoening, al verwonderen
+wij ons! , de meesten worden niet
+door boos opzet of grove schuld be
+
+deelden l" En dan
+feheel in den geest
+ingen van 14 Dec.:
+Ons tweede bezwaar geldt het als
+wettelijken grondslag vaststellen van den
+term behoeftigen"'. Ook in dit opzicht
+is 't misschien mr. Treub's vroegere
+stemming tégen de heele kostelooze
+ouderdomsrente, die hem er nu nog
+allén als 'n iets beter soort bedeeling
+op doet neerkijken.
+Het beginsel, dat alleen voor lieden,
+die er behoefte aan hebben, ja, behoef
+
+tigen, de rente bestemd is, is volkomen
+juist en mag niet uit het oog worden
+verloren.
+Doch dit als uitgangspunt te aanvaar
+
+den, is nog geheel iets anders, dan het
+nu ook als wettelijk criterium neer te
+leggen. Daardoor wordt de vraag Zijt
+gij, is iemand een behoeftige", tevens
+het middenpunt der procedure, de titel,
+waarop «de candidaat-rentetrekker zich
+dient te beroepen en waarover wordt
+recht gesproken, en de maatschappelijke
+groep, waarbij hij wordt ingedeeld.
+Indien evenwel de doorvoering van
+het ouderdomspensioen eenige ernstigere
+beteekenis wil hebben, dan het wat
+toestoppen aan wat kleine luiden, dan
+moet het deze zijn, dat men de ouden
+van dagen eenigermate vrijwaart voor
+den weerzin, die menigeen nu eenmaal
+tegen een onderzoek naar de behoef
+
+tigheid", en den titel van behoeftige"
+heeft; en die het gevoel van volslagen
+afhankelijkheid meebrengt. Het moge
+staatsarmenzorg' zijn en blijven,—wat niet
+te betwisten valt, indien men er niet
+een veredelde armenzorg van weet te
+maken, kan men het evengoed laten, en
+niet anders doen, dan de armbesturen
+uit de schatkist maar wat subsidieeren.
+Hoofdkenmerk is nu eenmaal dat de oude
+van dagen, die er behoefte aan heeft,
+alleen met enkele vaststaande feiten be
+
+hoeft aan te komen, om zijn rente toege
+
+wezen te zien. Hij hangt dan daarin ten
+minste niet van de heeren" af. Vermijdt
+de wet dit niet, dan zal zij massa's
+lieden, en die met het meeste
+waardegevoel, niet helpen, omdat die er niet
+of noode op in zullen gaan.
+
+Zie dit de heeren" in "t Handelsblad (\)
+ten antwoord op een wet van TREUB,
+had de Treub van twintig jaar geleden
+dit mogelijk geacht?
+Met instemming hebben wij het Hbl.
+aangehaald. De eenige passage in 't lange
+artikel, waarin gepoogd wordt den (uit
+
+stekenden) draai, dien het blad neemt,
+ietwat te maskeeren, en den meestal de
+Hbl.-politiek voerenden
+Kameroverzichtschrijver iets toe te geven (de passage
+van de armenzorg"), hebben wij hier
+meteen afgedrukt. Men ziet echter, dat
+de geest van het geheele opstel een
+nieuwe is. Men kent dien geest 't best
+uit de slotzinnen, welke wij hier k
+afdrukken:
+Een volk, dat bereid is voor
+ouderdomsverzekering ettelijke millioenen
+'sjaars te geven, en het Nederland
+
+sche is dit, doet dat niet in de laatste
+plaats om, ten minste tegenover zijne
+oudsten van dagen, de terneerdrukkende
+begrippen ..bedeeling" en ..behoeftigheid"
+wat op zijde te zien gezet.
+Maar dan gaat het ook niet aan, dat
+diezelfde Ouderdomswet juist aan deze
+begrippen weer nieuwe practische be
+
+teekenis zou komen inblazen.
+Ons lijken dit uitstekende woorden,
+die niet te vaak kunnen worden her
+
+haald, deze woorden van het Handelsblad.'
+Ons dunkt, als het oude radicale bloed
+nog een beetje snel vloeit, zal minister
+Treub zich toch moeten bezinnen. Als
+zijn jeugd en zijn lan niet enkel meer
+uiting vinden in (aardige!) complotjes
+met voor geest bevattelijke ambtgenooten,
+gelijk die van den invoer van overdrukjes
+zijner anti-Marxistische werken op de
+oorlogsbodems, maar ook in het onder
+
+scheiden van 't geen een maatschappij
+moreel kan opheffen, of wat haar kanker
+slechts verplaatst,—indien minister Treub
+voor dit laatste geen oog heeft en niet alle
+kracht er op concentreert, die hij in zoo
+groote mate heeft, zal hij slechts besten
+
+digen wat wij al in ons volksleven ver
+
+keerds hebben, en per slot een minister
+zijn als tientallen anderen: geen diepere
+hervormer van zijn natie.
+KRONIEK
+HET BIOSCOOP-GEVAAR
+Van meer of min kerkelijke zijde kon
+men dezer dagen vele ontstellende mani
+
+festen en dringende waarschuwingen lezen
+tegen het Bioscoop-gevaar" (natuurlijk met
+bijbehoorende voorstellen ter onderdrukking)
+en menigeen heeft zich afgevraagd, of hier
+dan waarlijk een nieuw sociaal euvel gebo
+
+ren en de wereld zooveel slechter geworden
+was. Van te voren leek dit reeds niet zeer
+waarschijnlijk en in elk geval kan men
+zeggen, dat, als iets de zeden heet te be
+
+derven, dit maar de eenzijdige uitdrukking
+is voor een reeds algemeen bedorven
+zedetoestand. Maar voor zoodanige rede
+
+neering schijnen kerkelijke hoofden
+nauwlijks vatbaar.
+Nu zijn bioscoopvertooningen zelden een
+schouwspel om aesthetisch te bewonderen.
+Wat opgang maakt, schijnt het, is f een
+flauwe grap f een soort misgeboorte, uit
+werkelijkheid en verbeelding, Drama" ge
+
+noemd en gevende de grove volksromantiek,
+die vroeger immers op het tooneel in het
+melodrama tot uiting kwam. Wat is hier
+dan veranderd en verergerd? De omstandig
+
+heid, dat er zwijgende werkelijkheid schijnt
+gephotografeerd ? Maar het melo heeft
+daartegen het gesproken woord, als mach
+
+tig middel tot werking, en per slot schijnt
+toch in beide vertooningen de geestessfeer
+vrijwel dezelfde: een van Goed en Kwaad,
+scherp gescheiden, zoodat de toeschouwer
+gemakkelijk partij kan kiezen en van zijn
+eigen deugd doen blijken. Vór de pauze
+is dan de Ondeugd schijnbaar oppermachtig,
+maar aan het slot wordt dat, met behulp
+der Voorzienigheid, pardoes omgekeerd en
+kunnen wij moreel verkwikt weer naar huis
+en in het gewone leven gaan, waar de ver
+
+houdingen minder duidelijk liggen en onze
+zelfkennis soms te wenschen overlaat.
+Zou dat alles nu in" de bioscoop zoo
+anders zijn geworden? Leert men daar
+thans zonde, boosheid en misdaad minder
+elementair en zelfbehagelijk aanschouwen,
+en krijgt tegenwoordig de Verdrukte On
+
+schuld op 't einde geen gelijk? Wie dat
+lange stuk van die welmeenende heeren
+leest, zou 't haast gaan vreezen. Zij spre
+
+ken van sensatie. Maar was het melo niet
+sensationeel? En leven ook de detective
+
+feuilletons in de groote couranten, de span
+
+nende verhalen in week- en maandbladen
+en de goedkoope spoorweglectuur niet van
+het sensationeele ? En waren en zijn de
+Fransche en Duitsche kluchten niet steeds
+vol echtbreuk en lichtvaardige zinlijkheid?
+Ook hier zoekt men tevergeefs naar iets
+nieuws en ergers, dat de bioscoop zou
+brengen en vindt alleen, dat mér kinderen
+en vaker tegenwoordig naar de bios
+
+coopvoorstellingen gaan, dan er vroeger naar
+den schouwburg gingen. Dat is zeker niet
+goed, omdat kinderen zich niet te vroeg
+deugdzaam moeten gevoelen. Maar kinderen
+lezen ook meer dan vroeger en staan meer
+dan vroeger bloot aan verleiding uit
+kappersen vrouwe-ondergoedétalages. Moet daar geen
+vereeniging tegen worden opgericht?
+Antiwulpsche-wassen-poppenbond", zou men
+haar kunnen heeten en zij zal ook onge
+
+twijfeld komen, omdat, waar ook in 't groote
+ons klein volk klein moge zijn, gewis niet
+in een klein getal vereenigingen voor kleine
+doeleinden met groote namen...
+Maar dat geflikker van die films is slecht
+voor de oogen en dat most niet magge!
+F. C.
+* * *
+De Diamantbewerkers en hun Bond
+
+Er zijn zeker geen arbeiders in Neder
+
+land, die, n door de bijzondere verhoudingen
+in de industrie waarin zij hun brood ver
+
+dienen, n door den vakbond waarin zij ge
+
+organiseerd zijn, meer de aandacht van het
+lezend publiek verdienen, dan de diamant
+
+bewerkers. Zooals hun bedrijf, hoewel
+evenzeer onderworpen aan de economische
+wetten als alle andere bedrijven, een unicum
+is in de geschiedenis der sociaal-economie,
+zoo is ook de actie en de tactiek van den
+Algemeenen Nederlandsche
+Diamantbewerkersbond een bijzonderheid in de geschie
+
+denis der internationale vakbeweging. Er is
+zeer zeker geen industrie aan te wijzen, waar
+de golven van bloei en voorspoed gewel
+
+diger en hooger opstuwden de dalen van
+verval en kommerlijk bestaan lager peil
+bereikten, dan de diamantindustrie; geene
+die gevoeliger bleek voor allerlei invloeden
+van economischen, financieelen en politieken
+aard; en geen nijverheid leverde ons een
+vollediger afspiegeling van de
+gedaantei verwisselingen der waren-productie; dwerg-,
+| klein-, midden-, grootbedrijf en monopolie
+j geeft zij ons nog heden te aanschouwen. Een
+i groot boekwerk zou geschreven kunnen
+i
+worden over al de technische, commercieele,
+geographische, ja zelfs ethnographische
+wisselingen, die de diamantnijverheid
+doorloopen heeft. Aan deze wisselende invloeden
+zijn de diamantbewerkers als vanzelfsprekend
+onderworpen geweest; ook in de laatste 20
+jaren. Hoe zij op deze wisselende invloeden
+gereageerd hebben, hing natuurlijk ook voor
+een groot deel af van het ontwikkelingspeil
+waarop de geheele maatschappij, van geval
+tot geval bezien, gekomen was.
+Hoe de diamantbewerkers zich echter
+onder alle omstandigheden gedragen hebben,
+is bij gebrek aan historische gegevens niet
+na te gaan: van de laatste 20 jaren weten
+wij zeer zeker wel het meeste te vertellen.
+* * *
+In de 16de eeuw werd het diamantvak in
+de Zuidelijke Nederlanden uitgeoefend
+aan hoevelen het toen brood verschafte, is
+niet bekend. Omstreeks 1580 verplaatste
+echter deze industrie zich van Antwerpen
+naar Amsterdam. Antwerpen, dat, na een
+dappere verdediging onder Marnix van
+St. Aldegonde, zich moest overgeven aan
+Alexander van Parma, zag door deze over
+
+winning der Spanjaarden o.a. haar diamant
+
+nijverheid verdwijnen. Het is zoo goed als
+zeker, dat de beoefenaren, voor een deel in
+elk geval, naar het noorden trokken. In de
+jaren omstreeks 1588 woonde te Amster
+
+dam Peeter Goos, van beroep diamantsnijder,
+die volgens het Kerkelijk Huwelijks
+Inteekenregister te Amsterdam op 27 Dec. 1589 met
+Catelijne van Somergem in het huwelijk
+trad. In 1620 werd in Hasselt in Overijsel
+diamant geslepen. 1) In de 18de eeuw moet
+de diamantnijverheid te Amsterdam reeds
+een industrie van beteekenis zijn geweest,
+zooals reeds blijkt uit het feit, dat in 1748
+de christen diamantbewerkers aan de stede
+
+lijke overheid te Amsterdam het verzoek
+richtten om een gilde te mogen vormen. 2)
+Dit geschiedde niet met het doel om het
+vak te veredelen, maar om zich te ontdoen
+van de Joodsche concurrenten. Doordat de
+stedelijke overheid alles afwees, kwam er
+van deze plannen niets terecht; en het spreekt
+van zelf, dat de onbemiddelde Duitsche en
+Poolsche Joden, die niet mochten behooren
+tot eenig gilde, zich op het vrije diamantvak
+wierpen, om in hun onderhoud te voorzien.
+Zij dringen binnen eenige jaren het grootste
+deel hunner christen vakgenooten er uit en
+maakten zoo-doende het bewerken van
+diamanten tot een Joodsch monopolie.
+Eenigen tijd later brak de Fransche revolutie
+uit, die, naast veel goeds, ook dit kwade
+bracht, dat het diamantvak, hetwelk ongeveer
+aan 3000 menschen brood verschafte, zoo
+goed als geheel verdween. In 1815 was het
+aantal diamantbewerkers te Amsterdam dan
+ook zoo gering, dat eenige voorname juwe
+
+liers ter plaatse zich genoodzaakt zagen,
+wilde zij zaken kunnen doen, op hunne
+kosten twintig jongelui het diamantbewerken
+te laten leeren. Tien christenen en tien joden
+kwamen hiervoor in aanmerking.
+In 1820 werd door eenige Amsterdamsche
+handelaren besloten tot de oprichting van
+een fabriek, die in 1822 geopend werd. In
+1824 volgde een tweede, in 1828 en 1830
+een derde en een vierde en werd het
+diamantbewerken van enkel huisindustrie
+ook fabrieks-industrie hoewel het aantal
+thuiswerkers toch nog vrij aanzienlijk bleef.
+In de jaren 1852—1853 verschafte het
+vak" aan circa 1300 werklieden een bestaan;
+van 1853 tot 1870 scheen het vak" weer
+stervende. De Krimoorlog, de oorlogen in
+Engelsch-Indië, in Italië, de slavenoorlog in
+N. en Z. Amerika, de oorlog in Mexico, de
+oorlogen tusschen Pruisen, Denemarken en
+Oostenrijk en ten slotte de Fransch-Duitsche
+oorlog richtten het vak" weer zoo goed
+als geheel ten gronde. Bovendien werd de
+toevoer van ruw diamant zoo gering, dat,
+al ware er voldoende vraag naar geslepen
+diamant geweest, er voor nog geen derde
+der werklieden werk was. 3)
+Tusschen 1867 en 1870 echter werden de
+z.g.n. Kaapsche mijnen ontdekt. Het tekort
+aan Braziliaansche diamanten kon worden
+aangevuld niet alleen, maar ook was de
+grondstof die in Zuid-Afrika werd gevonden
+gemakkelijker te bewerken. Bovendien rees
+er een ongekende vraag naar geslepen
+diamant een vraag die haar oorzaak vond
+in den algemeenen opbloei van het industrieele
+en commercieele leven in Europa en Amerika.
+De z.g.n. Kaapsche Tijd was aangebroken.
+In de jaren 1871—1876 waren verdiensten
+van ƒ400 per week regel; naar fabrikaat
+werd minder gekeken; als het maar glom,"
+zoo zeide men. Het geld werd snel en ge
+
+makkelijk verdiend en zooals het menigeen
+vergaat die een gelukje heeft, uit de loterij
+trekt, een erfenis krijgt, of zoo iets, en wiens
+beenen dan de weelde niet kunnen dragen,
+wijl hij nooit de waarde en de beteekenis
+van een klein beetje welvaart heeft leeren
+kennen, juist omdat het niet door eigen
+krachtsinspanning en ijver verkregen werd,
+zoo ging het ook den diamantbewerkers uit
+den Kaapschen Tijd."
+Enkele zeer standvastige en buitengewoon
+bedachtzame menschen niet te na gesproken,
+vervielen zij in een zwijmel van zorgeloos
+
+heid, in een kinderachtige pronk en praal
+
+zucht, bezondigden zij zich aan een
+parvenuachtige verkwisting, zoowel vrouwen als
+mannen. De jonge lieden, die bij het vak"
+kwamen, werden besmet en aangevreten door
+allerlei weelde-vuil. Lichamelijk, zedelijk en
+verstandelijk werd menige jonge man voor
+goed bedorven.
+Het ligt voor de hand, dat de Kaapsche"
+diamantbewerker niet in een opzicht alleen
+zorgeloos was zijn vak ging mede, en
+door zijn toedoen, ten gronde.
+De vaders namen hunne zonen er bij om
+geld te verdienen; anderen weer namen leer
+
+lingen, om er uit te slaan wat kon. Die
+leerlingen echter werden na 1876, toen de
+slechte tijd kwam, concurrenten en om de
+concurrentie te neutraliseeren, werden weer
+nieuwe leerlingen geëxploiteerd. Zoo ont
+
+stond een surplus van werkkrachten; de
+diamantbewerkers verrichtten het beulswerk
+aan zich zelf, zooals enkele exemplaren dit
+een dertigtal jaren later, maar dan in België,
+wér anders doen. Snel en gestadig daalden
+de loonen. Om werk te houden of te krijgen,
+werden de schandelijkste daden verricht.
+Flikflooierij jegens de bazen werd een
+alledaagsch verschijnsel. Het elkander bebabbelen
+en belasteren en het elkaar er uitdraaien op
+de kantoren was iets heel gewoons, en wie
+daaraan niet verkoos mee te doen, kon ge
+
+woonlijk zijn biezen wel pakken".
+Zoo kwam de ondergang, die, hadden de
+diamantbewerkers een goede, hechte orga
+
+nisatie gehad en een school doorgemaakt
+zooals de leden van den tegenwoordigen
+A. N. D. B., zeer zeker te voorkomen ware
+geweest. Toen in 1889—90 ten gevolge van
+de financieele politiek der de Beers Maat
+
+schappij een groote malaise intrad, stonden
+de diamantbewerkers daar volkomen mach
+
+teloos tegenover. Het bleek toen, dat de 500
+diamantbewerkers van 1870 waren aange
+
+groeid tot ruim 5000, die in de diepste
+ellende verkeerden, in den letterlijken zin des
+woords honger en gebrek leden zoo erg
+was het met hen gesteld, dat de openbare
+liefdadigheid moest worden ingeroepen. In
+het laatst van 1890 herstelde de handel zich
+wel is waar weer wat, maar het loon bleef
+verschrikkelijk laag en even als hunne
+Kaapsche voorgangers in excessieven voor
+
+spoed, bleven de diamantbewerkers nu in
+excessieven tegenspoed onvatbaar voor het
+organisatieleven. Het aanmanend en waar
+
+schuwend woord van eenige ernstige en
+nadenkende vakgenooten bleef zonder uit
+
+werking, naar het scheen. Naijver, wantrou
+
+wen en trouweloosheid schenen de deugden
+der diamantbewerkers te zijn; domheid,
+dwarsheid en onverschilligheid golden ender
+hen als bezonken wijsheid.
+Het bederf van de voorafgegane 15a 16jaren
+had hen zoo aangevreten, de ellende had
+hen zoo gedemoraliseerd, dat de groote
+massa van hen niets anders wenschte en
+wilde, niet anders meer kon willen, dan
+voortzeulen in eigen ellende.
+In 1888 werd een poging gedaan om de dia
+
+mantbewerkers te organiseeren.De Nederland
+
+sche Diamantbewerkersvereeniging kwam als
+zelfstandige organisatie op het tooneel. Deze
+vereeniging bereikte, ondanks de slechte
+omstandigheden waaronder gewerkt moest
+worden, eenig resultaat. Het gelukte haar
+de stakende vakgenooten te Hanau te steunen
+en wel met gelden die door diamantbewer
+
+kers waren bijeen gebracht. Toen in 1889—90
+het vak stil lag, belegde zij vergaderingen
+voor de werkeloozen en den toenmaligen lei
+
+ders komt de eer toe, dat zij er in slaagden het
+ledental der vereeniging tot 700 op te voeren
+en een weekblad: De Diamantbewerker"
+te stichten. In 1892 echter was het ledental
+weer geslonken tot 30 en kon De Diamant
+
+bewerker" niet meer verschijnen. En toch
+was, wat niemand hopen durfde, het grootste
+leed spoedig geleden...
+J. H. SCHUTTE
+(Slot volgt)
+
+1) Zie Dr. Leviticus, Encyclopasdie der
+Diamantnijverheid.
+2) Uit ongeveer denzelfden tijd zijn er leer
+
+lingcontracten bekend, vonnissen, koopcon
+
+tracten enz.
+3) Men leze de zeer interessante brochure
+van Henri Polak: De Strijd der Diamant
+
+bewerkers.
+llllllllllllllllllliHIMIMIIIIIIIMIMMIIIIIIHIIIIIIMIIIMHIIIIIIIIIIIIIIIIlmlIllt
+PAULCLAUDEL, L'Annonce faite a Marie,
+mystère en quatre actes et un prologue.
+Paris. Nouvelle Revue Franchise.
+Dit stuk voor het eerst in Frankrijk bijna
+een jaar geleden opgevoerd heeft daar een
+buitengewoon succes gehad. Daarna is het
+in Frankfurt a/M. vertoond en ook daar
+stroomde de bewondering den dichter toe.
+Hij was toen nog consul in die stad en hij
+werd sedert dien tijd en nog niet lang ge
+
+leden, naar ik meen, naar Hamburg overge
+
+plaatst. Omdat hij den in Duitschland hem
+rijkelijk gegeven lof niet versmaadt en zich
+slechte, of liever gebrekkige duitsche ver
+
+talingen zijner stukken laat welgevallen,
+heeft hij in zijn eigen vaderland, dat zeer
+zeker meer exclusief is dan eenig ander
+land, eenigszins de onverdeelde goedkeuring
+ingeboet. Toch is het aantal zijner bewon
+
+deraars nog groot vooral in Frankrijk, waar
+
+van toch het meest competente oordeel moet
+uitgaan, tenzij de een of andere duitsche
+criticus genoegzaam zijne bevoegdheid in
+zake fransche litteratuur zou hebben be
+
+wezen.
+
+</text>
+<image timestamp="2002:08:20:14:34:25.00" size="487065">D400015I.TIF</image>
+</page>
+</document>

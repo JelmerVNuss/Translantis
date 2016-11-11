@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19171006</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NEDERLAND EN ZIJN GASTEN
+Nadruk verboden
+BIJVOEGSEL van .De Amsterdammer", Weekblad voor Nederland, van 6 October 1917
+NGtLSCHt
+KRUCSGE.VA
+rxrr-3
+Amst. Boek- en Steendrukkerii, v/h. Ellerman, Harms &amp; Co
+Nederland: Schiet er nog iets voor mij over T
+
+</text>
+<image timestamp="2002:08:24:03:39:48.00" size="173312">D20033S.TIF</image>
+</page>
+</document>

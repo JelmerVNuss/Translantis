@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330902</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+«•*
+
+\
+l P l C A S &amp; O
+K u n
+
+niet een groote K
+
+En dit is het pronkstuk van m'n
+collectie.... 'n Picasso! Persoonlijk
+geschenk van den grooten kun
+
+stenaar. Een juweeltje van mo
+
+derne schilderkunst. Tja, ik ben
+werkelijk trotsch op mijn verza
+
+meling. Góéde dingen, daar houd
+ik van..,, in lk opzicht. Goede
+kunst.... goede lectuur.... 'n goed
+wijntje en.... last not least	m'n
+ARABESQUE!
+Arabesque is een heerlijke
+import-cigarette, gemaakt van de uitgezochtste Egypti
+
+sche tabakken. Een cigarette van klasse.
+Het importzegel van de Egyptian Customs
+Administration" garandeert echtheid.
+
+ARABESQUE Round"	73/4 cfs.
+ARABESQUE de Luxe"	2'/4 cfs.
+m
+EGVPT
+. jm^-\^*''::
+
+ARABES
+
+</text>
+<image timestamp="2002:09:26:17:51:57.00" size="236258">D2006SJ.TIF</image>
+</page>
+</document>

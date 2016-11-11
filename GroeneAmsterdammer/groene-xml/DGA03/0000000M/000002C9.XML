@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840427</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 357
+DE AMSTERDAMMER, WEEKBLAD V00R NEDERLAND.
+113. Een groot Winkelhuis en Bovenhuis, b { 1050 p. j.
+197. Gestoff. voor- en achterkamer. Ie Etage. Terstond.
+224. Een trestof. Kamer 1&gt;- etage f12 p. m.
+254. Een deftig gern. voorkam. Ie et. f 25 en ces dito
+voorkarfl. 2e et.it 18 p. m.
+703. Een hnis 9 gr. en Ski. kamers enz. f ISOOp. j. l Val.
+782. Eene gein. voorkam. mot alkoof, Ie etage, f 22 p. si.
+i Prinsen SHfand.
+89. l Koopmansh. met groot aehtm-gel. open terrein
+terst. te aanv. to bovr. bij den Makel. J. O Tersteeg.
+Print ffeadrikkatle.
+97. Een onderste i.ovenhnis, f 400 p. j. Hel of eerder
+JP. C. nooftttraat.
+87. Twee fraai gem. kamers, aalon en slaapkam. Ie
+etage, f 70 p. m. direct.
+" 76. Een gem. kamer met alkoof, f 20 p. m.
+120. 2 of 3 kam. rs f SO. of f 85. mot Mei.
+Plant ng a
+Een hnis, f 22 50 p. m. torst.
+Een bovenhuis, f 20.50 p. m. terat.
+T«eede bovenhnis, f'18.25 p. m. torst.
+10. Huis en tuin. f' 100 p. j. l Mei te aanvaarden,
+Xtet'btibaotnfloof*
+15. Een vrij bovenhuia, 3 kamers enz. f 275 p. j. terst.
+16. Twee gem. kamers f 60 p. m.
+Regulier .r g fitcn t.
+45. Een voorkamor mat alkoof, f 20 p. m. terstonA
+Renikraitfltplein.
+20. Een benedeiihxiis bevatt. 5 kamers, keuken, kelder
+en zolder f 750 p. j. direct.
+Een huis bevat*. 5 kamors met ttiin, f400 p. ƒ»
+Een gestoffeei'de kamer, t' 22 p. m. terstond.
+15. Een liovenhuis, van alle gemakken voorzien en eene
+ruime gest. voorkam. met alk. direkt te aanv.
+SI. Een net hnia met plaats, i 850, te aanvaarden l
+Mei a.B. te zien Dinsdag en Vrijdag.
+Kofcin.
+Een net gest. Ie Etage kamer en snite f 60 p. m.
+0. Eea net gest. Ie Etage kamer en suite f 60 p. m.
+Een hui» met tuintje, f SCO p. j. terstond.
+Een tweede borenliuis, f 210 p. j. terstond.
+23. Vrij bovenhuis, 7 kamer», keuken enz. (vlak o'h
+museum) f 80 p. j. 1 0 M*i.
+Singel.
+83. Gem. voor- en- slaapi.am. Ie etage f38 p. m. l Juni.
+83. Gem. voor- enachte:ï;am..,le e|age, f30 p. m. l Juni.
+57. l Vrij bovenb., C kamers, keuk. enz. f 530 p. j. Terst.
+119. Een huls, 8 kamers, keuken, aolder enz. f 1200 met
+l Mei. .....
+164, Een gest, slaapliam. 2o etage, f 10 p m.
+293. Een Zijkamer en Slaapkamertje. f 20 p. m. Terst.
+802. Gem. kamers en pension van t' 15 p. m. terstond
+802. Gem. slaapkamers, f 10 p. in. terstond.
+t ff e Spaarnfiammerstrautt
+250. Drie Bovenhuizen, f 300, f250 en f 200 p. j. Terst.
+'
+14. Een gestofieMvl « V "rkaraer, terstond.
+9. Een hnis, 6 kamer?, keuken en tuin met gas- en
+waterleiding, l Kei a. e.
+Spuistraat,
+80. Twee Rem. Kanie s to l evr. bij F. Palilm.
+44. Groot magazijn met bovenw. en achterk. voor ver
+
+schillende doeleinden geschikt.
+197. Bovenhuis, 2 gest. k« uiers l' 25 p. m.
+Staalstt'ttaf,
+7. Een gem. kamer met slaapplaats f 20 p. m, terst.
+Stadhouder t Rade*
+34. Bovonhuis met kelder t 1200.
+54a. Huis, 7 kamera f 1150.
+Stvtunmerdamstraat.
+25, Een huis en tuin t 050 p. j. en een bovenhuis
+f 400 j». j. Te bevragen bij Heiningen, timmerman.
+Tetteltchadettraat.
+8. Een beneden», f 1000 p. j. teg. l Mei te bevr. bij
+P. H. Koekkoek Vondelstr. 101 B.
+fjtrech t telt ettfaa t*
+89. Een gem. voorkam. met aik. en kleins timer, 23
+p. m. terstond.
+Valkeniertstraat.
+6. Een bovenhuis, f 22 p. m. terstond.
+Vertver st raa t .
+6. Eerste zolder, f 300 p. j. terstond.
+6. Twe*de zolder, f 275 p. j. terstond,
+6. Derde zolder, f 250 p. j. terstond.
+Vinkenttraat.
+114. Tweede bovenhuis, f 20 p. m.
+fan IHilesitmrnrt cltltstraaf.
+C5 en 57. Twee huizen met Bouaterreiu en tuin. f SCO
+p. j. direct.
+Vijxelttraat.
+81. Een voor- en achterkamer met slaapkam. en suite
+f 45 p. m. te aanv. terstond.
+73. Een ongem. kamer.
+90. Een gemeub. Voork. met alkoof f25 p. m. l Mei.
+90. Een gemenb. Voork. met alkoof f20 p. m. l Mei.
+90. Een Ktntoorlokaal f25 p. m. l Mei.
+Wa.genaarf tramt.
+63. Gem. voorkam. Ie etage, f 17 p. m . met Mei te aanv.
+' tVarntnergrncht.
+10. Twee gegt. kamers Ie etage, galon en slaapkamer
+f 55 p. m. terstond.
+t¥armoe* f trant.
+46. Een Ie Bovenhuis, f 500 p j. l Mei
+692. Eene net gest. kamer met alk., f 20 p. Bïi
+2. Eene dito, f 12.
+195. 2 Gem. kamers 2e etage f 25 p. ra,
+Watei-tteeg.
+2. Een tweede pakzolder dadelijk.
+2. Een vierde pakzolder, l Mei eerstkomendOi
+Weesperzij&amp;e.
+8. Trjj bovenhuis, f lOuümet Mei.
+9. Eén huis, t 1200 l Mei.
+15. Een vry bovenhuis. 4 kam., keuken, zolder,
+dienstbodenkamer, enz. f 425 p. j.
+16. Hui» met grooten tuin, C kamers, keuken, kelder
+enz f750 terst
+1tre,fterstraat.
+112. Een groot Winke huis f 42(i p. j. to aanv. l Mei,
+'
+12. Bovenhuis f 800 p. j., terstond.
+Xaneltlivartttraatt
+!• Sm kwaei £ &amp;2£ f w weekt
+Ztetenisttade.
+7. Fen vrijboveuhuis, kamers, keuken, zolder,
+dienstbodenkamer, f 550 p. j. te bevragen in het huis.
+12' Een bovenhuia bev. 5 kam,, aold. enz. f 550 tsrst.
+of later.
+
+HILVERSUM.
+Een vffla, 9 kamers, tuin enz. "f. 1000, l Me!, te be
+
+vragen Gebr. de Groot, Hilversum.
+Vr«e huizon roet tuin, gas- en waterleiding, primo Mei.
+e bevr. bij G. A. v. d. Wilde, aldaar.
+ADVERTENTIES,
+enz.
+-scaa v wtïr/K«.
+Koninklijke Voroeniging: Ifet Nedfi-landsch Tooneel."
+
+Afdeeling: AMSTERDAM.
+'Zaterdag 26, Zondag 27 en Maandag 23 April:
+
+DE S &gt;T l» V; W T BI l K E Ij
+VAM POXT-ATEgXKS»
+(Le Maitre de Forgei)
+
+Tooneelspel in 5 bedrijven,
+Tan GEOHGES OHNET.
+Aanvang ten 71/2, Zondag ten 8 -ure.
+
+Zaterdag en Zoudng Diploma's XIET GELDIG.
+
+
+Grand Théatre A. van JLier.
+Amstflstraat.
+HOLLANDSCH TOONEELGEZELSCHAP.
+Directie: A. TAlf LIER.
+TELEPHOON No. S30. TELEPHOON No. 230.
+Zaterdag 2G en Zondag 27 April:
+J» E AARWBEVIIVO
+
+OP MET ESLAXB» aiAnTLM^Vfi»
+
+Drama a grand spectacle
+in 4 bedrgven en eeu Voorspel,
+naar het Franaeh van DONNEBT, door J. ZTTSE8IA,
+Tooneelschikking van den Heer JOS£PH VAN LIEB.
+Nie\iwe decoraliën van den Heer A. HEIDE.
+Nieuwe Costumes van de firma W. MÜLDEB, te UtrecM
+Tooneelmatige toestellen van O. DE BBUIJN.
+Aanvang ten 8 ure.
+
+Prijzen der plaatsen: Staües en Baleon f 1.50 Loge
+f 1,25, Parterre 11,—, Gaanderij-Loge 60 Ces., Gaandorij
+40 Cts.
+Plaatsen zijn van 10 tot 4 nnr aan het Théatre U
+bespreken, a 10 cents extra per plaats.
+Maandag 28 April:
+DB: \ K K K n EU SIK G
+of de ISroedertwist»
+Tooneelspel in O tafereelen,
+ran A. KOTZEBÜE.
+Vrouw Griesgram	Mevr. ALBEEQT.
+
+
+»E HAAGSCHE
+
+
+MARGARINE-BOTERFABRIEK
+VAN
+
+Dr. J. Th M O U T O N,
+«e '» Gravealiage,
+bekroond te Amsterdam en te CalciMa.
+De Boter werd door Prof. AD. MAIJER bijna ev«n
+verteerbaar bevonden als natnuurboter.
+Zij is ook voor bakken zeer geschikt.
+SÏOKKINK &amp; VAN LITH,
+AMSTERDAM.
+(Boekbindërij en (Brocheerinrichting.
+WARMOESSTRAAT Wo.
+
+Op groote schaal ingericht naar de eischen des tijds,
+Bevelen zich minzaam aan tot het inbinden van MUZIEK-, KANTOOR-, KERK-, BIBLIOTHEEK «a
+SCHOOLBOEKEN tot billijke prijzen. Leveren PRACHTBANDEU voor alle werken. POBTEEELTLLES
+in allo formaten.
+anti-aamatliielce Papier van Iticou
+J. COOL
+FABBIKANTEN VAN .
+MARMEREN SCHOORSTEENMANTELS.
+Amsterdam, Parij's,
+1866 en 1877 Brons. 1S67.
+1SS3 Zilver.
+Philacldphia,
+1S76.
+M A G A ZIJ M UW:
+AMSTERDAM, ROTTERDAM, NIJMEGEN,
+Bloemgracht 71 en 77, Nieuwland l, Van Berchemsstraat,
+Steeds croste keuze, dadelijk afleverliaar.
+Arnhem,
+1S6S Brons*
+1879 Zilver.
+ONTVANGEN:
+versch, gerookte
+Hamburger OSSENRIBBEN.
+Ne*
+«i. nor
+
+</text>
+<image timestamp="2002:08:17:13:31:05.00" size="197732">000002C9.TIF</image>
+</page>
+</document>

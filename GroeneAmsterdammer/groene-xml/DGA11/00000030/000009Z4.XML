@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320206</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+De Groene Amsterdammer van 6 Februari 1932
+No. 2853
+MEDISCHE PASMUNT.
+Verzameld, door MEDICUS.
+207 blz.; 20 x 14 cm.; f 2.50 ing. In linnen stempelband f 3.25
+In 30 hoofdstukken behandelt de schrijver achtereenvolgens : Vivisectie - Immunisatie - Van ouderwetsche
+en nieuwerwetsche geneesmiddelen - Lourdes - Muziek als geneesmiddel - Verhoogde bloeddruk. - Hormonen
+en verjongingsmethoden - Bloed te koop - Hoe de chaos in een kosmos herschapen wordt - Vergiftiging en
+eerste hulp bij ongelukken - Cocaïne - Opium - Slapeloosheid en slaapmiddelen - Levenskrachten levensvreugde
+Het domme hart - Van kuiltjes in de wangen en kringen onder de oogen - Degeneratie en genialiteit
+Schedelleer - Geschikt voor de tropen - Sexueele voorlichting - Koorts en tuberculose - Stralentherapie.
+Verkrijgbaar bij den erkenden boekhandel en bij de Uitgeverij C. A. MEES, Santpoort
+t
+WAAROM
+
+PHILIPS
+
+LAMPEN ?
+Een Philipslamp
+mag iets duurder
+zijn dan een zoo
+
+genaamd
+goedkoope lamp, • in het
+gebruik is een
+Philipslamp het
+voordeeligst. Door
+Uw lage
+stroomrekening heeft U
+het kleine prijsver
+
+schil reeds binnen
+een maand ruim
+
+schoots ingehaald.
+Gebruikt Philips
+Argenta'Mampen
+denkt
+en
+er aan
+11
+die niet tegenvalt
+
+• LEDEREN
+RUHANDSCHOENEM
+/. 3.25
+•TWEED TIES
+ZUIVER wou jf
+ONKREUKBAAR ƒ•
+HEILIGEWEC 11-17
+TELEF. 37273
+EUASPIBOM^B:
+BOB^BHSDER
+KERKSTRAAT»
+AM5TBRDAM
+
+</text>
+<image timestamp="2002:09:26:15:54:25.00" size="171946">000009Z4.TIF</image>
+</page>
+</document>

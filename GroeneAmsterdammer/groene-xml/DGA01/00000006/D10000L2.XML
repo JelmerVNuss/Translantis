@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19041106</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+31JVOEGSKL van de Amsterdammer. Weekblad voor Nederland van 6 Novemb**)* 1004,
+Het aanstaande overlijden van het Noodwetje voor de Overijselsche
+Staten-verkiezing.
+Arost, Boek- en riteemirukkerij. v h. Ellerman. liarms &amp; &lt;',&lt;,.
+NED. MAAGD //&lt;?/ moeder Kuyper): De toestand is hopeloos, hér - nu, ik heb er dadelijk een zwaar hoofd in gehad..,
+MOEDER KUYPER: Ja Mevrouw, maar 't is zoo hard; hier is menschelijke schuld . . . ! De baker heeft gore melk in het fk-schje gedaan .
+KAKER LOBMAN : Och neen, Mevrouw dat is het niet; al vóór dien tijd verging het wurm van het zuur...
+BROEDER NOLENS: Ik begrijp, moedertje, dat je je zoo eenzaam zult gevoelen, maar geen verwijten, lieve zuster; hier voegt berusting
+het is altijd een zegen ais zulke stumpertjes vroeg worde thuisgehaald . . .
+
+</text>
+<image timestamp="2002:08:16:03:07:08.00" size="574196">D10000L2.TIF</image>
+</page>
+</document>

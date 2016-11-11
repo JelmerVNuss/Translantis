@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300913</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+E-REVUE
+VRIJDAG
+
+19 SEPTEMBER A.S.
+WEILL &amp; ZOON
+BONTWERKERS
+DAMESKLEEDERMAKERS
+HAARLE
+
+BARTELJORISSTR. 26-28. TELEF. 10604
+PLAATSEN VERKRIJGBAAR: BARTEUORISSTRAAT 26-28 - HAARLEM,
+PROBLEMEN
+SCHAAKPBOBLEEM No. 251
+van W. A. SHJNKMAN
+a b c d e f g h
+
+Wit: Kf7, Dh5, Lhl, Pb6 en g2,
+pion: d2.
+Zwart: Ke4, pionnen: d4 en fö.
+Wit geeft mat in twee zetten.
+Oplossing in het eerstvolgend
+nummer.
+Oplossing probleem No. 250 van
+Philipp Klett.
+1. f4—f5, Ld5xg8, 2. Tb7—f7,
+KhöxgS, 3. Ld4—e3T. (2..Lh4Xg5,
+3.Ld4—g7f;2. .Lg8xf7,3.Pg5xf7f.)
+l..Ld5xb7tKa8xb7, 2. Lh4xg5,
+3. Ld4—g7f.
+
+DAMPROBLEEM 254
+van A. DE GRAAG.
+Zwart 9 schijven.
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+'m* 'v///, ''vae,''/////,'V/M^'
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Stand Zwart: 7, 14, 17/10, 23, 24,
+28, 36.
+Wit: 25,30,32,34,35,38,47,
+48, 50.
+
+Oplossing probleem No. 253.
+
+Wit: 22-17, 28-22, 39-33, 44-39,
+
+Zwart: 29:18, 12:21, 30:17, 35:33,
+
+47-41, 48-42, 37-31, 43:3! 3:1!
+
+36:47, 47:38, 20:28,21:32.
+
+Correspondentie-adres: K. C. de
+Jonge, Van Woustraat J12n, Amster
+
+dam (Zuid).
+V:
+BR1DGEPROBLEEM 224
+
+B
+Wit 9 schijven.
+Kl.:
+R.:
+b.
+4.
+H.:
+Sch.i
+h.
+v.
+b.
+7.
+2.
+L moet alle resteerende slagen maken. Sch.
+is troef.
+V en A hebben te samen nog:
+KL: a. v. 8. 5.
+R.: v. 10.
+H.: h. 8. 5.
+Sch.: 10. 9. 8. 6. 5.
+L is aan slag. Hoe moet L spelen?
+N. B. Hij weet, dat V geen KL meer heeft,
+en dat A geen H. meer heeft.
+
+OPLOSSING BRIDGEPROBLEEM 223
+Uit regel 31 volgt, dat, zoolang de score nog
+niet opgemaakt en goedgekeurd is, de in de
+laatste manche gemaakte fout hersteld mag
+worden. Uit art. 21 (3) volgt, dat ook al heeft
+een partij een aantal slagen van de tegenpartij
+toegestaan, dit toch niet van kracht is als blijkt,
+dat een of meerdere slagen zeker niet gemaakt
+zouden worden. Derhalve geldt ook hier alsof Z en
+N 5 aan slag hadden gemaakt en wordt er
+dienovereenkomstig opgeteekend (Z: n down).
+
+B. M.
+
+Correspondentie-adres: Secretariaat
+
+v/d Amsterdammer, motto Bridge"»
+
+Keizersgracht 355, Amsterdam.
+
+</text>
+<image timestamp="2002:09:22:02:55:37.00" size="233551">000008HY.TIF</image>
+</page>
+</document>

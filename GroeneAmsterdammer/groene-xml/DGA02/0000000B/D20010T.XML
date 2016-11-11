@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010818</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1260
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Optocht van afgedankte Kamerleden.
+
+Uit Transvaal. (Fischietta).
+De Chineesche automaat.
+
+(Simplicissimus).
+
+De Zwitschersche kruis en de Halve Maan.
+
+(Nebehpalter, Zürich).
+Goddam ! in vierentwintig uur geen eten of drinken gehad!
+Zouden de Boeren ona ook door dorst en honger willen dwingen ?
+
+Dikke vrinden. (Noterette).
+Nu heb ik al zooveel geld in dat vervloekte ding gegooid en er komt
+toch niemendal uit!
+Dr. ZWITSERSCHE REPUBLIEK: »En waarmee kan ik Uwe Majesteit
+nu nog dienen ?"
+
+jV..B. Op verzoek van den Sultan is ALIFAHRY van de Jong-Turksche
+}&gt;arty uit Zwitserland verbannen.
+Altyd goede vrienien
+in ons eigen huis!
+in leven en sterven maar ieder
+
+</text>
+<image timestamp="2002:08:16:11:17:16.00" size="235839">D20010T.TIF</image>
+</page>
+</document>

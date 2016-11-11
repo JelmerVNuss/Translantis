@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000422</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i U91
+D-E AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+ROBERTS : »Een paard ! een paard ! al mijn. generaals voor een paard '."
+
+De terugkomst van den Vredes-Engel uit Zuid-Afrika.
+De interventie van Portugal.
+
+,^rWaar is Pretoria ?
+(Puck, New-York).
+^
+i ' :INICOLA5
+Xa zich met zooveel behendigheid en moed tegen een
+verschrikkelijken vijand te hebhen verdedigd, zal de arme Boer ten slotte
+nog over een orarje-schil vallen.
+Papa, papa, daar ben ik weer ! (LuaL Jilülkr.)
+
+Boeren-Kalender voor 't jaar 1900.
+CQenn sïch Buren und Bfiten begegncn, Siegen die Buren am jvïedardustag,
+UJird es immer Ruqeln reqnen. 50 sicaen aie sccha OTochen lang ttlenn Chamberlain kraht auf dem )VIistf
+dsmach. Hindert sich die Lage, oder sie bteibt, ,7e9"cl s undJ*er ftus9 8c!'
+wie Biz ist hsrimcn dis engCandcr nicht herüber.
+C^H
+,5&gt;»^
+c* ("tf-'V^
+De moed zit in de borst, de victorie in 't hoofd ! tesiK d«r Krieg dausrt bto f^Iaï, Bleiben die plachte neutral und büht, Langer Kricg und langer hass Glsnn in Cranovaal die Gnglandcr zittcrn,
+(Lustige Blatter, Berlin). st er im Hpril noch nicht -corbei. Oewinnt der Uur allein sein Spiel. Leert dcm Buren Scheun' und f ass. CtUrd'üin Londen bald gewittcrii.
+
+</text>
+<image timestamp="2002:08:14:12:08:02.00" size="268645">D2000GG.TIF</image>
+</page>
+</document>

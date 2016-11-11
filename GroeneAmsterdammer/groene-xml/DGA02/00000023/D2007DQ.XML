@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900928</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Eén Stedelijk Subsidie voor de Kindervoeding gevraagd.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederl»nd, v»n li September 1890.
+n Z»*« * f h \»t
+Stoomdrukkerii Ellerman. Uarm^ \ ( &gt;.
+Mr. J. N. VAN HALL tot de Amsterdnmsche Stedemaagd: Hebt Gij gezien, hoe good een hartig maal
+dien stumpers doet? Och, hulp ons óók een handje; er zijn nog zooveel hongerige kindertjes, die wij
+uiet kunnen helpen!
+
+</text>
+<image timestamp="2002:10:02:21:25:55.00" size="319836">D2007DQ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300215</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 15 FEBRUARI 1930
+No. 2750
+J. D. STRUIJS &amp; Zn.
+PHtiscngracht 837 Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZIKG met RIJTUIGEN of AUTO'S]
+CREMATIE. - TRANSPORTEN.
+Jo:.g geleerd is oud. gedaan!
+Ziet dit vroolijk drietal aan,
+Pientere jeugd met helder oordeel
+Weet reeds vroeg haar eigen voordeel!
+AGGI
+OUILLON . SOEP - AROMA
+van nut in elke keuken!
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatlën aan
+Uurwerken, Goud en Zilver
+G. J.DE KONINGS ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+COMPLETE BADKAMERS.
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 2.70 per kwartaal o/ fio
+per jaar bij vooruitbetaling
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 AMSTERDAM Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+BOEKVERKOOPING.
+Van 24 Februari—5 Maart veiling van de bekende historische
+bibliotheek van
+Prof. Dr. P. J. BLOK
+BURGERSDIJK G NIERMANS
+Leiden.
+Templum Salomonis
+Catalogus 25 cent.
+Ce p i
+au Kirsch
+**&amp;*&amp;»
+/iet toe,
+dat ge Drostes
+krygtr
+W////////////////////////////////////////////M
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:02:04:37.00" size="159078">000007WU.TIF</image>
+</page>
+</document>

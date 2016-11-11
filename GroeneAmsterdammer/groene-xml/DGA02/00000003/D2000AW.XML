@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991210</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na. 1172
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De Kaapkolonie en de oorlog in Zuid-Afrika.
+KAAPSCIIE BOER (tot de politie): »Niets ter wereld dat me zal tegenhouden, ik moet bij hen zijn !"
+In 't Engelsche kamp.
+(Der Floh).
+Transvaal en Engeland.
+(Pttit Journal Illustré).
+Uit Ie Cri de Paris".
+David—Krüger en Goliath—John Buil.
+(Der Floh.)
+Ie Gevangen Boer : »Hoe komen we 't best weer bij vader
+Krüger terug ?"
+2e Gevangen Soer : «Laten we op dit muildier gaan zitten,
+dat loopt er vanzelf heen."
+De Transvaalsche stier en de Britsohe leeuw.
+Na u, heeren Engelschen, wy schieten
+nooit het eerst.
+Uit de Humoristische Biatter".
+(Weenen).
+KRÜGER : »De Engelschen vermaken zich met
+Lawntennis ... ik ook !"
+^'
+7 «•.
+r' ', ,.
+Entrevue van exotische Monarchen.
+(Der Floh.)
+,
+Y, , , ft r*.; ',»
+(•
+'
+\\
+\ • , '
+' &lt;;:;
+• ' ..._T.' -^T^EV.,
+De koning van Samoa bezoekt de keizerin van Indië.
+Prachtige Isolatie.
+(Juyend).
+• -: ;*'"&gt;;
+John Buil in nood.
+(Jiigein!).
+;, fc
+(onriintailxricJit fin l-'l Xoi'cikli:r: .... Zoo heeft Engalar.d bij zijn vele
+moeielijkheden er groot beiaiig bij, dat Kusland met Japan over Korea in cotflict komt.
+
+</text>
+<image timestamp="2002:08:14:00:43:28.00" size="319455">D2000AW.TIF</image>
+</page>
+</document>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260724</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'i
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 256*
+ONTVANG- EN
+BETAALKAS
+. | Nieuwe Doelenstraat 20-22
+AMSTERDAM
+Kapitaal . . f 5.000.000.
+Reserves. . f 1.068.623.89
+Rentever g. voor gelden a deposito
+
+Direct opvorderbaar.... l pCt.
+Met 10 dagen opzegging l{
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit Inrichting
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+De Bank geef t onder confröfe van het
+Algem. Administratie- en Trustkantoor
+5% Pandbrieven tegen beurskoers uit.
+N*V» De CredieO
+Hypotheekbank
+te 's-GRAVENHAGE
+Laan van Meerdervoort 62
+5Vs pCt* Pandbrieven
+a 98 V, %
+DE DIRECTIE
+Mr. H. Vaillant A. van Dam Jr.
+ROTTERDAMSGHE
+SCHEEPSHYPOTHEEKBANK
+WIJNHAVEN 94a
+UITGIFTE van
+5% Pandbrieven tegen 100%
+De Directeur: Mr. W. C. MEES
+Utrechtsche Hypotheekbank
+UTRECHT
+Pandbrieven f 41.000.000.
+De Bank stelt beschikbaar:
+
+4% pCt Pandbrieven a 99 pCt
+in stukken van f 1000.—, f 500.—en f 100.
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+Nederlandsche
+
+Handel ~ Maatschappij
+
+Gestort Kapitaal	f 80,000,000.—.
+Statutaire Reserve	£21,117,340,—.
+Buitengewone Reserve	f 22,660,000—.
+HOOFDKANTOOR: AMSTERDAM
+AGENTSCHAPPEN: te ROTTERDAM en VGRAVENHAGE
+
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China en Japan
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Administratie van Effecten en alle andere Bankzaken
+Amsterdamsch Accountantskantoor
+Steenveld, Maasdam 6 van Bijden.
+(Opgericht door Mr. E. J. KORTHALS ALTES).
+Leden v/h Nederlandsch Instituut v. Accountants.
+Roemer Visscherstraat l, AMSTERDAM, Telefoon 21660.
+DE AMSTERDAMSCHE
+"7
+,\
+De Amsterdamsche met haar sterke reserves en
+
+gunstige verzekeringsvoorwaarden biedt aan polis
+
+
+houders groote zekerheid. Behalve dat de levensverze
+
+
+kering niet kan worden geroieerd zoolang de afkoop
+
+
+waarde grooter is dan de achterstallige premiën, moet
+
+de Amsterdamsche, N. Spiegelstraat 17, Amsterdam,
+
+alvorens tot roiement te kunnen overgaan den polis
+
+
+houder schriftelijk waarschuwen en hem gelegenheid
+
+geven de achterstallige premiën alsnog te voldoen.
+
+
+
+i
+i
+i
+\
+HOOFDKANTOOR)
+KEIZERSGRACHT 570.
+
+AMSTERDAM.
+OPGERICHT Aa. IB94.
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert, behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE- en TRANS
+
+PORT-, ONGEVALLEN- en WATERLEIDINGSCHADE.
+Rott. Hypotheekbank v. Nederland
+Opgericht in 1864
+Volteekend Maatschappelijk Kapitaal
+f 5.000.000.
+Verstrekt geld op eerste hypotheek.
+Voor inl. wende men zich tot het kan
+
+toor der Bank, Ged. Bierhaven 25 te
+R'dam of tot hare Agenten in de Hoofd
+
+plaatsen des Rijks.
+De Directie: Mr. W, v. Rossern,
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wijk.
+De HolL Voorschotbank
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+6% schuldbrieven in stukken van f 1000.—.
+f 500,—en f 100.- tegen beurskoers.
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+kost slechts f3.—per kwartaal of
+f 10.—per jaar bij vooruitbetaling
+
+</text>
+<image timestamp="2002:09:25:22:27:45.00" size="170156">D10007S2.TIF</image>
+</page>
+</document>

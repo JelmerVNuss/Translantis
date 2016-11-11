@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261211</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+roene
+"' "• '-W m • m
+zekbl
+U Dec. JL9SK
+imer
+voor Ncderidnd
+t*f «l
+KEIZERSGRACHT 333
+AMSTERDAM
+TELEFOON:
+Bcdactlc
+37MM
+379O
+CSAURHza.
+HOFLEVERANCIER
+ROJON 134 over de Ned. Buk
+Telefoon 402-W, -49971
+Vischrestaurant
+en Vischhandel
+RCHER
+'A&amp;EFABIVÈKenDRUKKERIJ
+LBINGIA
+., Ao 1901.
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+lï.V. Alcubclmagazijn
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+f/? meenschujmklear?
+BB^^^^^^
+^^^^^^^^^^^PP^^
+MMMMpMV
+-GOUDA
+rtightcapen
+line likeuren
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+Speciale inrichting!
+
+CA P I
+05 KAtVERCTRAAt
+t/o LIBERTY
+ITIMTURJ
+GLORIA"
+Vulhaarden
+(met bodemverwarming)
+NIEUWE SERIE
+behoeven niet gepoetst om
+
+dat het prachtige porselein
+emaille artijd mooi ^blijft.
+f 125
+Let op naam en f abrieksmerk
+Overal verkrijgbaar.
+
+Gij kent toch onze
+
+..Ilirii"
+NVVH.
+H-AKLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+ttHOLLANDIAw
+ONS TOESTEL No. 10, GEPERST OP 2S ATM.,
+VOLDOET AAN .DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TE»
+VERKRIJGING VAN KORTING OP DÉPREMIS.
+SPANJAARD 6 Ca
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar eode
+
+ARNOLÏD HOUTSCHILT
+Singel 285 Amsterdam
+Mixed de Luxe
+'.GOLD CAB1NET
+f
+THE
+PRESENT FOR
+SANTA CLAUS AND CHRISTMAS
+
+Abdulla^CoLtd
+l?3 New Bond 5lreet Londen VU
+Mdken of Sup«rt&gt;
+
+</text>
+<image timestamp="2002:09:26:11:41:34.00" size="228518">D100086T.TIF</image>
+</page>
+</document>

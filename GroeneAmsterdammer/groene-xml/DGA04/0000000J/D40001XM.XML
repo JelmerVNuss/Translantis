@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150912</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk verboden
+Dr. SAUL-KUYPER'S 53-DRIESTARREN-CAMPAGNE, EN Mr. DAVID-HEEMSKERK'S VERWEER-BROCHURE
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 12 September 1915 Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+DAVID-HEEMSKERK
+Twist onder de Anti-revolutionnaire Voormannen
+SAUL-KUYPER
+Saul nu ontstak in toorn, en hij zeide: zij hebben David tienduizend gegeven, doch mij hebben zij maar duizend gegeven; en
+voorzeker zal het Koninkrijk nog voor hem zijn."
+En Saul had het oog op David, van dien dag aan en voortaan. De booze geest Gods werd over Saul vaardig. Hij profeteerde
+midden in het huis; en schoot een spies op David, zeggende: ik zal David aan den wand spitten."
+Maar David wendde zich tweemaal af. Hij speelde op snarenspel met zijn hand, als van dag tot dag. En hij ontweek van het
+aangezicht Sauls, die met de spies in den wand sloeg."
+/ Satnuel 18.
+
+</text>
+<image timestamp="2002:08:21:19:09:12.00" size="206882">D40001XM.TIF</image>
+</page>
+</document>

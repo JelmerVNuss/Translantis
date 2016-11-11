@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281215</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 15 DECEMBER 1928
+No. 2689
+D. STRUIJS 6 Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+IN DEN BONGERD 'T OLDERSHEEM
+
+
+LANDELIJK INTERNAAT voor JONGE MEISJES
+
+ONDER PATRONAAT VAN MEVROUW BOISSEVAIN-FELTKAMP
+
+TE DIJKERHOEK (Spoorstation Deventer—Almelo).
+Doel : Na voltooide schoolopleiding zorg voor gezondheid in beschaafde omgeving.
+
+Arbeid in boomgaard, moes- en bloementuin, afgewisseld met huishoudelijk werk
+
+en keuken. Aanvang£nieuwe Cursus Februari 1929.
+BEGRAFENISVEREENIGING
+
+N. SAX Ir.
+P.G. Hooftstraat 38 AMSTERDAM Telcf.: 30341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+SJASPIBOMMEL!
+BOEKBINDER
+KERKSTRAAT 58
+AM5T53DAM
+qedutende korten tijd
+op alle STOOM'en,
+VERFPRIJZEtf
+PALTH E
+zoowel eenvoudige als betere uitvoering
+
+G, J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739
+JAEGER
+
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+
+Half
+
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+Voornaamste Kleedinginrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:21:19:23.00" size="114966">0000076E.TIF</image>
+</page>
+</document>

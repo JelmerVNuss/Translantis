@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340609</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 9 Juni 1934
+N o. 2975
+Uit het kladschrift van Jantje
+Croquante croquetjes
+Alida Zevenboom
+Dat is eens maar nooit weer. TT zal
+zeggen: wat? Ik bedoel dat ik de
+Kunst in nood steun. Ik ben er ziek
+van. Ik heb altijd een beetje last van
+mijn rechteroor als ik op de tocht sta
+of als het hard waait en nu ben ik van
+het Stadion Zaterdag teruggekomen
+met een zinking op mijn oor waar ik
+niet van kan slapen. Is het niet genoeg,
+heb ik me al afgevraagd, dat ik 's win
+
+ters de kunst steun door van al de
+vrijbiljetten voor den schouwburg gebruik
+te maken die ik krijgen kan en moet
+dan een mensch nog op een kouden
+voorjaarsavond zijn hui: uit om nog
+meer te steunen en ze laten de eene
+Duitsche troep na de andere hier op
+
+treden en is er een die ze belet om hier
+het geld weg te halen? En wat ben ik
+bang geweest dat meneer Mengelberg,
+net als ik, met een zinking naar huis
+zou gaan want die stond in zijn bloote
+hoofd en net nu hij professor is gewor
+
+den had hem best wat kunnen over
+
+komen want dat zie je meer en hoesten
+doe ik ook al want ik kan niet goed
+meer tegen de avondlucht en meneer
+Stiefstra, die naast me zat, zei maar
+niets anders dan: het is geen voetbal,
+het is geen voetbal" en toen liep het
+me er óver heen en ik hoop niet dat ze
+het door de radio gehoord hebben
+want ik zei nog al hard, en net toen
+het stil was: schreeuw dan Hup
+Mengelberg" en hij had het bijna ge
+
+daan ook toen ineens de muziek erg
+zacht werd en er zat een meneer aan
+den anderen kant naast me die maar
+mopperde: dat is geen muziek voor
+de buitenlucht en als Beethoven dat
+wist...." en eigenlijk gezegd had hij
+gelijk want in het Tolhuis speelden ze
+vroeger ook altijd in de buitenlucht
+behalve als het onweerde en regende
+en dan waren het stukken waar je wat
+aan had en waar je bij kon trappelen
+als je koude voeten kreeg en die je mee
+kon neuriën maar ik durfde Zaterdag
+
+avond geen voet te verzetten al kreeg
+ik koude voeten tot halfweg mijn kui
+
+ten en waarom na afloop op het gras
+niet een vroolijk walsje gedanst en
+lieten ze de menschen naar huis gaan
+net of het een sterfhuis was met het
+dierbare lijk nog boven aarde? Neen,
+daar had een soort kermis aan ver
+
+bonden moeten zijn met een tombola
+zonder nieten, dan had je met veel
+meer plezier de Kunst gesteund want
+het was nu wel erg mooi maar ook
+soms erg vervelend en het is, geloof ik,
+met meneer Mengelberg net als met
+sommige vrouwen die moet je zien
+in een zaal onder electrisch licht en
+niet in de zon al was hier meer de
+maan hoewel die er ook niet was en ik
+hoop nu maar dat doctor de Hartogh
+ons dezen zomer een echt volksfeest
+voorzet waar wij, burgermenschen,
+ook wat aan hebben. Wij missen onze
+voorjaarskermia al meer dan genoeg
+en wie, zooals ik, de echte kermis zich
+nog herinnert, voor die is het tegen
+
+woordig heelemaal een dooie boel en
+het wordt allemaal zoo gauw hooge
+Kunst en wat blijft er dan voor
+plezier voor den gewonen man over?
+Neen, wij moeten een echt volksfeest
+hebben met koekhakken en den kop
+van Jut en de achtbaan en dan zou u
+eens zien hoe de Kunst gesteund werd
+en nu is ons acteurtje er vol van dat
+wij minstens drie tooneelscholen krij
+
+gen want behalve die van meneer
+Verhagen komt er nu ook een van
+meneer van Hoven met meneer Ver
+
+kade en een van meneer van Dalsum
+en als ik jong meisje was dan ging
+ik beslist naar die van meneer van
+Hoven want dat vind ik een
+reuzeacteur en ik geloof dat die wel wat van
+me had kunnen maken want ons ac
+
+teurtje zei van de week nog dat ik nog
+zoo'n mooi geluid heb net de gouden
+stem van Sara Bernhard zei hij
+maar ik geloof dat hij me een beetje;
+nam want een half uurtje later vroeg
+hij vijf gulden te leen maar hij zei er
+bij dat hij kans had om leeraar aan een
+van die drie tooneelscholen te worden
+wat voor een heele boel acteurs een
+uitkomst zal zijn, want als zij geen
+droog brood meer verdienen met spe
+
+len; kunnen zij altijd nog wat verdie
+
+nen met les geven en nu krijgen wij
+vrienden van het Concertgebouw"
+zooals wij ook al vrienden van meneer'
+van Dalsum en meneer Defresne
+hebben, en als al de andere
+muziekheeren en tooneel-directeureii ook
+vrienden krijgen, kon het wel eens uit
+
+komen dat alk; menscheu broeders
+worden, zooals zo Zaterdagavond zoo
+mooi zongen en als u het maar
+gelooven wil en broer van een broer te
+zijn is ook soms niet alles want sloeg
+Cairi niet Abel dood en waarom?
+Ik heb dokter Vos voor mijn zinking
+laten komen want je moet op mijn
+leeftijd oppassen en ik zou niet gra.ag
+doof aan n oor worden want een
+mensch moet goed kunnen hooren
+anders ben je maar een half mensch
+en ik heb droppeltjes gekregen om
+gloeiend heet in te druppelen en hij
+zei me ook dat na de vacantie er heel
+wat in onze hooge politiek te verhap
+
+stukken zou vallen want dan zou het
+ministerie van meneer Drikus er aan
+gaan en kreeg hij een kans want je
+kunt de liberalen hooren groeien, zei
+hij, nu als hij mee groeit, groeit hij
+meneer Walrave nog boven zijn hoofd
+en dat zou een gezicht wezen en hij
+had het er als maar over dat de
+Tweede Kamer dan ontbonden zal
+worden en dan komen wij terug u
+zal eens wat zien ! en dan zegt hij dat
+zoo dat je je heele zinking vergeet en
+beter ben je, tenminste zoolang hij bij
+je is en dat is al de halve beterschap en
+hij vertelde me dat ze nu bezig zijn
+met een feest in elkaar te zetten voor
+de Politiek in Nood" maar dat moet
+een echt feest voor den belastingbe
+
+taler worden zei hij, want ze doen nu
+voor iedereen zoo veel. alleen de boe
+
+ren krijgen nu al honderd zestig
+millioen, zei hij, en de fabrikanten twintig
+mi]lioen en de middenstand twee
+kwartjes, waarom dan ook niet wat
+gedaan voor den belastingbetaler die
+toch maar te zorgen heeft dat die
+millioenen in het laadje zijn? Als er
+iemand verwaarloosd wordt, dan is
+het de belastingbetaler en waar blijven
+wij als die ook het loodje legt', net als
+de muziek en het tooneel? En daarom
+wil hij ook een vereeniging oprichten
+va,n Vrienden vait den Belastingbe
+
+taler" en hij hoopt dat hij minister
+Oud zoo ver krijgt dat die eore-voor
+
+zitter wordt. En dat bedenkt hij alle
+
+maal zoo tusschen een zinking en een
+opgezette lever door want daar heeft
+meneer Stiefstra last van. Allemaal
+nog een gevolg van dat uitstapje naar
+Milaan en hij mag van geluk spreken
+dat ze hem als bezoeker niet hebben
+uitgefloten toen hij terugkwam en mi
+mag hij niets dan melkkost hebben en,
+crn citroentje maar zonder alcohol.
+Ja. dat komt er van als je op je tuiden
+(lag aan sport doet. Neen. voor ons
+meii.sclien is een warme stoofde beste
+sport, daar blijf ik bij !
+Radio-overzicht
+C p het oogenblik kan men de besta
+programma's van heel Europa op
+de Nederlandsche zenders beluisteren.
+Niet alleen, dat het gebodene zelf
+op een zeer hoog peil staat, maar het
+is vooral de samenstelling, die den
+kenner «oo aangenaam aandoet.
+De meeste buitenlandsche zenders,
+voor zoover zij nog eenige artistieke
+eerzucht bezitten, volgen de opvat
+
+ting, hun radioprogramma voor een
+bepaalden avond in n stijl te
+houden. Of een heele avond
+symphonieën, of opera's, of dans- of populaire
+muziek. Wie daar geen zin in heeft,
+die zet zijn radio maar af, want de
+eenheid van stijl moet voor alles
+bewaard blijven. Waarom eigenlijk?
+Radioluisteraars vormen geen gesloten
+gemeenschap, geen eenheid, zooals
+de bezoekers van schouwburgen en
+concerten; ze zijn geen heterogene
+massa, die er aanspraak op maken
+mag, dat met alle verlangens reke
+
+ning wordt gehouden. En dat gebeurt
+bij ons volkomen ! Een uur lang
+wordt een Beethovensymphonie onder
+leiding van dr. Willem Mengelberg
+uitgezonden; is u dat te zwaar"?
+U houdt meer van lichte rmiziek?
+Wacht u dan nog even, dadelijk zingt
+Vera Sehwartz walsen van Strauss.
+Men denkt er eenvoudig niet aan,
+den stijl vol te houden en den heelen
+verderen avond symphonieëri uit te
+zenden. Men zorgt voor afwisseling.
+De eenig mogelijke methode voor de
+radio ! IC. ENGEL
+Vrienden in den nood
+duizend in een lood.
+Maar een levensverzekerings
+
+polis van de HAV BANK te
+Schiedam blijft U trouw tot
+in den dood.
+
+</text>
+<image timestamp="2002:10:28:14:39:43.00" size="269016">D200AY7.TIF</image>
+</page>
+</document>

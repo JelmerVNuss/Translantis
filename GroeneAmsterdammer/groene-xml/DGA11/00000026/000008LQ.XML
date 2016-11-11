@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301025</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+E
+
+9 V
+l
+Wandfriezen in het Venezol
+f
+
+BAJOS
+Venezolaansehe Wandfriezen
+De Begeering van Venezuela heeft eenige jaren
+gelsden den Franschen schilder Guillonet opge
+
+dragen een aantal schilderijen te vervaardigen,
+welke tot versiering zullen dienen van het Mini
+
+sterie van Buitenlandsche Zaken te Caracas.
+Deze schüdereijn zijn onlangs ten toon gesteld
+in het Paviljoen van
+de Oranjerie der
+Tuileriëen te Parijs. Op
+deze doeken zijn voor
+
+stellingen gegeven van
+de natuur, het leven,
+de zeden en den voor
+
+uitgang der werkzaam
+
+heden van alle
+mogendhoden ter wereld.
+Ze zullen worden
+aangebracht als
+wandfriezen in het Venezo
+
+laansehe departe
+
+mentsgebouw, en wel
+zoodanig dat zich
+tusschen elke twee deuren
+een landschapschilderij zal bevinden en boven elke
+deur een symbolische voorstelling, waarin telkens
+twee landen vereenigd zijn.
+H et j[ denkbeeld van deze versiering is uitge
+
+gaan van den oud-president van Venezuela
+Generaal Juan Vicente Gomez, die het land
+krachtig heeft vooruitgeholpen en die een blijvende
+hoïinnering wilde scheppen aan den bevrijder
+Simon Bolivar ter gelegenheid van den honderd
+
+sten verjaardag van diens dood op 17 December
+1930.
+Wij reproduceeren hierbij enkele merkwaar
+
+dige doeken uit deze collectie.
+H. S.
+
+Imcie van Dam van Isselt, Pictnra,
+den Haag.
+
+Wat wij bij den schilder de ontroering noemen
+om iets, is zeker voor een deel het zien van een
+bekend iets als nieuw. De schilder kan plotseling
+een landschap zien, als ervoer hij nooit tevoren
+daarvan de groote schoonheid; het landschap is
+dan de gelegenheid voor de ontroering om te
+kristalliseeren tot vormen, die, rhythmisch ver
+
+bonden, worden tot een niet meer in deelen te
+scheiden geheel. De schilder zal deze eenheid
+formeeren overeenkomstig de eigen persoonlijk
+
+heid ; wie zag nooit eenzelfde landschap geschilderd
+door verschillende schilders; en leek het hem niet,
+hoewel hij in alle uitingen hetzelfde gegeven"
+herkende, toch dat iedere uiting als een vrucht
+was van verschillenden smaak, immers gegroeid
+op anderen grond aan anderen tak?, dat iedere
+uiting was van andere muziek
+Illustraties: Onderste rij van links na
+Duitschland, Japan. Tweede rij: Zzoedt
+Turkije. Daarboven: België. De ,
+stukken, die de verschillende landen v*
+Nederland, Rusland
+der kleuren gansch vol, op gebouwd op een andere
+figuur, opnieuw statig en steil ? En zóó gaat het den
+schilder van het landschap als van de figuur; zoo
+gaat het den schilder der doode" voorwerpen, van
+aardewerk en ander gerief, van zilvren en ander
+sieraad! Van de dingen, die stilliggen zonder
+verdren groei, openbaar of geheim! Maar...
+
+</text>
+<image timestamp="2002:09:22:06:21:12.00" size="384821">000008LQ.TIF</image>
+</page>
+</document>

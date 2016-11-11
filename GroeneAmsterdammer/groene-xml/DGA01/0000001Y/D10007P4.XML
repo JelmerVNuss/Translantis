@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260626</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2560
+Amsterdamsen Accountantskantoor
+
+Steénveldt Maasdam &amp; van Bijden»
+(Opgericht door Mr. E. J. KORTHALS ALTES).
+Leden v/h Nederlandsch Instituut v. Accountants.
+Roemer Visscherstraat l, AMSTERDAM, Telefoon 21660.
+MAATSCHAPPIJ VOOR
+HYPOTHECAIR CREDIET
+IN NEDERLAND
+gevestigd te 's-GRAVENHAGE.
+Gelden beschikbaar
+tegen concurreerende voorwaarden.
+DE DIRECTIE.
+ROTTERDAMSCHE
+SCHEEPSHYPOTHEEKBANK
+WIJNHAVEN 94a
+UITGIFTE van
+
+5% Pandbrieven tegen 100%
+De Directeur: Mr. W. C. MEES
+Utrechtsche Hypotheekbank
+
+• • UTRECHT
+Pandbrieven f 41.000,000.
+De Bank stelt beschikbaar:
+4^2 pCt Pandbrieven a 99 pCt
+in stukken van f 1000.—, f 500.—en f 100.
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+Nederlandsche
+
+Handel - Maatschappij
+
+Gestort Kapitaal	f 80,000,000.—.
+Statutaire Reserve	£21,117,340.—.
+Buitengewone Reserve	f 22,660,000.—•.
+
+HOOFDKANTOOR: AMSTERDAM
+AGENTSCHAPPEN: te ROTTERDAM en 's-GRAVENHAGE
+
+Vestigingen in Nederlandsch-Indië, Straits-Settlcments,
+Britsch-Indië, China en Japan
+
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Administratie van Effecten en alle andere Bankzaken
+
+LEVENSVERZEKERINGMAATSCHAPPIJ
+
+Zeer veilige grondslagen
+Stijgende extra-reserves
+Vraagt het jaarverslag
+iiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiii
+RRNHEM
+/ \
+\
+
+\ /
+\ /
+AMSTERDAMSCHE MAATSCHAPPIJ
+VAN LEVENSVERZEKERING
+N. Spiegclstraat 17, AMSTERDAM
+Willemskade 3.SOERABAYA
+Commissarissen:
+Mr. Th. Heemskerk, H. Colijn, Mr. Dr. D. A. P. N.
+Kooien, Jhr. Mr. F. K. van Lennep, H. W. van
+Marie }r., Mr. F. E. Posthumus Meyjes, Mr. J. W. Ramaer.
+Directie :
+Jhr. Mr. A. F. de Savornin Lohman, fhr. }. de
+Savornin Lohman.
+Verzekerd bedrag f 108.000.000.
+Premiereserve f 26.000 .C 00.—Extra reserve f 550.000.
+_r
+X \ \
+HOOFD KANTOOR l
+
+KEIZERSGRACHT 570,
+
+AMSTERDAM.
+OPGERICHT Aa. 1894.
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE en TRANS
+
+PORT-, ONGEVALLEN- en WATËRLEIDINGSCHADE.
+INSULAIRE
+Hypotheekbank te Zierikzee
+
+Aan PANDBRIEVEN
+in omloop voor
+ruim 16 millioen gulden.
+Verkrijgbaar:
+
+5 % Pandbrieven a 101 %
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f3. per kwartaal of f 10.
+
+per jaar bij vooruitbetaling
+N*V* De
+CredietHypotheekbank
+te 's-GRAVENHAGE
+Laan van Meerdervoort 62
+5VüpCt» Pandbrieven
+a 98 V2 /o
+DE DIRECTIE
+Mr. H. Vaillant A. van Dam Jr.
+
+</text>
+<image timestamp="2002:09:25:19:29:27.00" size="136640">D10007P4.TIF</image>
+</page>
+</document>

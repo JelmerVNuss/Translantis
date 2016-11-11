@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19061209</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Engeland en de Congo.
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 9 December 1906.
+kfr"-»t ; ; (
+
+, 1$ ?^ ftKijf H i 't
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Harms it Co.
+JOHN BULL (Yö/ Koning Leopold): Luister naar mij, van mij kun je Icercn ; van kolonisatie komt alleen iets terecht door
+moraliteit, zie je;. . . . door moraliteit, zeg ik je!. ...
+
+</text>
+<image timestamp="2002:08:11:15:02:53.00" size="256201">000000MK.TIF</image>
+</page>
+</document>

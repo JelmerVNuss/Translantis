@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020615</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1303
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLANB,
+Vrede. (UI®,
+Een benauwde droom van den
+Van-Dag-tot-DagSchrijver in het Handelsblad.
+7J&gt;
+rv ^
+ViT
+^
+..'" 'V'\
+* { y^- X \
+* * * • 'v- /
+? / /••••
+/ ' s ...•'
+,1 ,,•••"«.,..»
+
+\
+\ *•-• v,.'
+
+\ .. ' ."
+//'
+Ho
+^
+l
+; ƒ / l
+:K,' l
+--,i
+•«i
+/^LONDEN
+
+""O""T(
+CHAMBESLAIN : »En nu maar jjverig aan 't goudgraven !''
+
+Italiaansche veroveringspolitiek. (Jagend).
+//
+,/ i
+i &gt;
+«..	••»•
+i V-/
+•'.&gt;/
+
+A5
+CH. BOJSSEVAIN
+Oem Sam, de rechtvaardige. (Fvchietto).
+DE. KUYPEB
+Vlinders vangen in zyn net
+Is zyn allergrootste pret
+Voor zijn eigan voelen ziet
+'t Opwaarts kakend knaapje niet.
+
+Het wo^rd van den grijsaard. (Ftschietlo).
+Hervorming der Rjjksfinantiën. (Lustige BUitltr).
+STAAIEBELASTINO. RIJKSBELASTING.
+7; Zóó krygen we uit de belastingschuldigen Maar als we zoo met z'n drieën aandraaien,
+komt zelfs uit de meest uitgeperste citroen
+nog wat."
+De «Engel der Vrüheid'' heeft zich in Oom Sam geïr.carnewd,
+naar hy beweert.
+Abdoel HaTiid \ra gt iaad. (l'is:i
+[Eene herinrering aan drn Zuid-A'rikaansche
+TOLSIOÏ: »Mün goede «broedertje" je bent ziek, zieker dan
+j 9 zelf denkt."
+C/AAR: »Kom l dokterspraatjas . .."
+Zon ik die vriendschipsbatuig'n^en van Italiëkannen gelooven, John ?
+Hum ! D-it maet j9 zelf 't hcste weten.
+En wat der k jy er ?«n, John ?
+Baste Abdoel, ik heb wil wat andars te doan, dan me met politiek
+te bemoeien.
+KRONINGSKOOR : »Kijk eens in myn epiegel l"
+(Life).
+
+</text>
+<image timestamp="2002:08:17:23:34:19.00" size="477017">D2001EO.TIF</image>
+</page>
+</document>

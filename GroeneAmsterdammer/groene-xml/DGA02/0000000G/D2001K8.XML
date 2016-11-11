@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021019</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1321
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND,
+11
+Opleiding van Weesmeisjes tot Dienstboden.
+MioJeter KÏYPEB: »Li«v« meipjes, luistert toch niet naar dia Vrjjs Vrouwan. Hier kei) je nu die Ksetjs
+
+
+Verkeerde uitwerking. (Der Floh).
+. . . en w.»t il r ai j t z3 op haar borst, een zilveren medaille Oranje Nassau."
+tl
+»Ganw, gaaw! Sturdza, anders is het uit met onze
+autoriteit". Zóó stalt men zich de uitwerking voor der
+Amuikaansche nota over de Rumeensche joden.
+en zóó is zy uitgevallen:
+TEGENWOORDIG ov£E ONS."
+Wanceer de Polen nu aiet zeggen, dat ik de zachtmoedigste van alle
+souvereinen ben, laat ja ze bloedig geeselen, begrepen?" (Ls Ure).
+Uncle Sam predikt... philanthropie. (De Rumeetsohe Joden). (Fischietto).
+»DE'IIEBLE WERELD SPREEKT
+Duitsche Consuls in 't buitenland. (Lustige Blatür).
+
+•Und der Lea mit Gel ruil
+Kichtet sich auf, da wird's still.
+Is de duivel hier nu biechtvader geworden of.
+Strand-humor. (Li/c).
+D« speit das jenseits gcöffnete Haus Da wird es (las steht zwar nicht im Schiller,
+Einen riesigen rnssischen Eist aren aus. Ist aber wahr) noch bedeutend stiller!
+VREEMDELING : &gt;Zeker erg rustig en veilig baden hier ?"
+VISSCHERMAN : -&gt;Dat zou ik meenen als je maar op de haaien en draaikolken past l"
+
+</text>
+<image timestamp="2002:08:18:14:42:33.00" size="273733">D2001K8.TIF</image>
+</page>
+</document>

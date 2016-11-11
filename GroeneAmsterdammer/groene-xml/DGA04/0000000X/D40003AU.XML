@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19191227</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+27 Dec. '19. No. 2218
+-.*(
+9
+li
+I LEON LEIBOVICI &amp; C°.
+|1?r ROTTERDAM ,
+| Spoolalltolt In
+.j.Kloorhangors,
+- Panlalonporson,
+Pantalonstrokkors,
+sj Dassenporson*
+Eigen Fabrikaat ELCO" gedeponeerd jf
+IMPORT EXPORT
+MODELLEN
+MOO6E.
+LAARZEN
+THEESERVIEZEN
+PRESENTEERBLADEN
+HOLLAHDSOH FABRIKAAT
+Kunsthandel L van Zanten
+Zeevischmarkt 8 Rotterdam
+
+Moderne Schilderijen
+der
+HAAG8CHE SCHOOL
+Dagelijks (behalve Zondags) geopend van 10-5 uur
+TELEPHOON 11344
+•
+' MAetllNEffRJOKHOOGEHlANDE
+
+IJZER-EN-METAALGIETERIJS TYPE1OO-1OOO PK
+l GELUKSTROOM-^TOOMMACHINES
+, TAMDEM COMPÖUND MACHINES
+\ STOOM DYNAMO MACHINES
+STOOM CENTRIFUGAAL POMPEN
+VOOB AU f DBlltlHDtn
+L COMPRE5SOREM VACUUMPOMPEN.
+S GIETWERKEN-in'UZER EM,METAAL
+HAAR TllHtHING Of MODIL
+CLICHÉ• vervsordigddoor
+RAADHUISSTRAAT 48.50
+DIR:JAC.VAM DEM BOSCH
+AMSTERDAM
+N uj dat de^W^e r e l d b e r o e m d e
+
+JisMaster'sVoice"
+CARUSO en andere
+LUXE RECORDS
+zoo aanmerkelijk in prijs verminderd
+zijn, komen die in de allereerste
+plaats in aanmerking voor
+
+KERSTGESCHENK
+Volledige catalogi en lijst van geaccrediteerde
+agenten zenden op aanvrage gratis en franco
+Importeurs voor Holland en Koloniën
+The American Import Company
+AmsterrJamsctie Veerkade 22a
+DEN HAAG
+* His Master's Voice
+GRAMSIEBONE
+Apparaten en Platen
+verkrijgbaar bij :
+THE GRAMOPHONE CY. AGEHOY
+
+AMSTERDA
+12 Regulierbreestraat bij do Munt.
+W.»*
+5CN0EN
+.EMoLL
+voorradig in
+Zwart Glac
+Zwart Lak
+Zwart Satin
+Zwart en Grijs
+Suéde
+Eerste Ned. Schrijfmachine Reparatie-Inrichting
+
+FRANS LEM
+Paleisstraat 39, AMSTERDAM
+TEL. 44 Centrum
+Eerste klas Reparatie-Inrichting voor alle Systemen
+ELECTRISCHE
+VERWARMING
+OEEN KOLEN
+ABSOOJÜT BET^HJWMM SifSTEEM
+LAGE STROOMPRYS
+GEBV ^a^VrSOEIXEEBING
+ODOKF, AAMJECKOSTEN.
+GSWn&amp; PRYSOPGAVE
+N.V T3CKN1SCH BUREAU \/H i
+
+
+SCHADD 6
+AMSTERDAM
+KEl/EBSQWCHT 323
+T£I. N. 0197
+CTOECHT
+N. GBACHT4
+TEL. N. 3333
+CONTROLE KLOKKEN.
+Prima Ankerwerk, compleet, bandelier, 6 Sleutels
+en jaargang f 62.
+Gebroeders B R E E N,
+Nieuwendijk 172. Tel. N. 9861. Rozengracht 53. Tel. C. 345.
+Haarlemmerstraat 58. Tel. C. 346.
+JOSEF VEDRAL
+Mfllenxtp.19 den Haag. Tel.7798
+Gedipl. Boheemsch Vioolmakir.
+Groote collectie zeer
+mooie oude meester-in
+
+strumenten voorhanden.
+Agentschap der firma
+HUI and Sons Londen.
+Eenigste, oudste adres voor dt
+echte Italiaansche Viool- en
+Cello snaren.
+Franco verzending door geheel
+Nederland en Indlë.
+WERKEN STEEDS
+ZEISS MICROSCOPEN
+
+WAAROM
+zoudt t dit
+fabrikaat
+dan nier
+gebruiken
+
+</text>
+<image timestamp="2002:08:24:03:44:44.00" size="423428">D40003AU.TIF</image>
+</page>
+</document>

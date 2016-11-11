@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300104</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+*4
+DE GROENE AMSTERDAMMER VAN 4 JANUARI 1930
+No. 2744
+Nederlandsche
+
+Handel-Maatschappij, H. v.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGB
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-Indic, China, Japan en Arabic
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS.
+Ni DE HURLEMSCHE
+HYPOTHEEKBANK
+Leden der Directie: 'XJgTgS'*'' Mr. A. S. MIEDEMA,
+
+P. H. CRAA.NDIJK en A. E. TH1ERRY DE BYE DOLLEMAN
+
+Hjrotheken f 36.001.642.- Paodbrieyen f
+35.890.300.JV Reserves . . f 1.005.087
+
+4\ en 5 pCt.PANDBRIEVEN tegen LAATSTEN AMSTERD. BEURSKOERS
+De HolL Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+meteen minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5% schuldbrieven in stukken van f 1000.—.
+500,- en f 100.- tegen Beurskoers.
+Bataafsohe
+Hypotheekbank
+AMSTERDAM
+Geeft uit:
+4,4l/2ün5°/opanÉiBven
+tegen beurskoers.
+ARNHE
+/e
+v e*
+
+MIJ ^
+LEVENSVERZEKERING
+DEAN5TOa)AM5CïlE
+Als Gij een^levensver'z'ekering sluit moet gij een
+maatschappij kiezen
+
+VAN HOOGE SOLIDITEIT
+EN BETROUWBAARHEID,
+NAUWGEZET EN COULANT
+met gunstige tarieven en vrijgevige voorwaarden,
+zonder belemmerende bepalingen.
+
+Kiest dus de
+
+AMSTERDAMSCH E.
+
+Amsterdam, N. Spiegelstraat 17.
+Soerabaja, Willemskade 3.
+N,V. Amsterdamsche Hypotheekbank
+HEERENGRACHT 581, AMSTERDAM (C.).
+OPGERICHT 1882
+
+Geeft uit: 5 pCts. PANDBRIEVEN
+
+^^^ in stukken van ^^^
+
+f 1000*-, f 500*- en f
+100*en sluit Leeningen onder Ie Hypothecair verband op
+zeer bi llijke conditiën. DE DIRECTIE.
+STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTBNDIJK «n
+1. MOSSELMAN
+
+De Bank geeft onder controle pan het
+Algem. Administratie- en Trastkantoor
+5 en 4 J % Pandbr. tegen beurskoers nit.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+
+Opgericht in 1864
+
+Maatschappelijk Kapitaal f 10.000.000,
+waarvan geplaatst f 6.000.000
+Verstrekt geld op eerste hypotheek^
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 41 te R'dam of tot hare Agenten.
+
+De Directie t
+
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wijk,
+Mr. B. vnn Rossetn.
+Aan de abonné's van De Groene Amsterdammer"
+
+ZIJ, DIE ER DE VOORKEUR AAN GEVEN HET ABONNEMENTSGELD VOOR 1930 PER
+
+GIRO OF PER POSTWISSEL OVER TE MAKEN, WORDEN VERZOCHT DIT VÓÓR
+
+
+7 JANUARI a.s.
+
+TE DOEN. HET ABONNEMENTSGELD BEDRAAGT TIEN GULDEN.
+
+
+POSTCHEQUE- EN GIROREKENING 72880
+
+GEMEENTE GIRO: AMSTERDAM G 1000
+
+
+DE ADMINISTRATIE VAN ,,DE GROENE AMSTERDAMMER"
+
+
+
+Keizersgracht 333, Amsterdam (C.)
+
+</text>
+<image timestamp="2002:09:20:19:24:18.00" size="101146">000007S7.TIF</image>
+</page>
+</document>

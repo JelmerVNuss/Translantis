@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070217</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+W
+
+Q
+O
+
+O
+n
+w
+w
+W
+
+fi
+«S
+CO
+
+'5
+a
+u
+v
+s
+ca
+OT
+»-i
+V
+
+W
+
+u
+
+Q
+&lt;u
+o
+o
+o
+T3 &amp;
+&gt; .a
+&lt;u ""
+•Ö&lt;U
+6D 13
+(D
+
+P
+c
+o
+n j=
+« o
+~ O)
+
+S-3
+P ~
+£ s
+"~1 ai
+- a
+ni
+
+d
+ww.*
+n
+o&gt;
+_Q
+
+a
+j*
+
+
+5
+'(t
+&lt;D ~
+fcfl S
+
+.b ^
+"N -5
+^
+_cS
+e
+O)
+o
+Q
+TrvWv1**:; _r~K*J
+
+V^\\i
+•&gt;C\\?'ïMT'V-.rO
+k :\\\^-Y&gt;^-^
+;
+^Jfj
+i-^V A^_.
+/!••&lt;»	-..
+/lïb.T^
+
+.,&lt;(rtr^i ' --^c.
+
+
+'-OtM""
+o
+.n
+•o
+B
+rt
+
+
+B
+rt
+B
+
+I
+
+C
+u
+•u
+
+e
+rt
+&gt;
+
+O.
+o
+
+E
+3
+rt
+&lt;B
+
+c .
+01
+
+M
+
+
+
+
+
+
+"= c
+si
+
+11
+"a&gt; p3
+
+'il
+"S *
+o
+ti ^
+
+DS Js
+
+2'"E
+-W -T3
+1&gt; ;S
+
+^
+1fci c
+Si 11 IS
+•M
+iC ""
+
+!!
+
+'*"
+t)
+.*
+
+
+* 2
+^
+
+i~
+tó '=.
+D
+x
+^- 2 '? "f
+U
+•n ^
+
+
+
+o a
+&gt;—l ,-,
+•o" ? -3
+
+</text>
+<image timestamp="2002:08:12:02:01:22.00" size="876886">000000Q4.TIF</image>
+</page>
+</document>

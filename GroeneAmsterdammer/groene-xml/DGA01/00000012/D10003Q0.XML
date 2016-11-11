@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230609</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N°. S398
+Zaterdag d Juni
+A6.
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van G. W. K E R N K A M P
+Redacteuren: H. B R U G M A N S, TOP NAEFF, G. NOLST TRENITÉen H. SALOMONSON
+Secretaris der Redactie: C. F. VAN DAM
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per jaargang f 10.—bij vooruitbetaling. Per No. f 0.25.
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Adverlentiën f 0.75 per regel plus 20 cent dispositiekosten
+INHOUD: De Haagsche Academie voor
+Internationaal recht, door Prof. Dr. O. W.
+Kernkamp Tijdgenooten, door Dr. W. Q.
+C. Byvanck De internationale puzzle, door
+Brandaris 2. De schoolmeester, teekening
+door Oeorge van Raemdonck Astronomi
+
+sche fragmenten, door Arëobates 3.
+Spreekzaal Vol au Vent, door Hans Ludificor
+5. Voor Vrouwen: Een jubileumtapijtje,
+door Elis M. Rogge Bijkomstigheden, door
+Annie Salomons De geschiedenis van den
+zakdoek Uit de natuur, door Dr. Jac. P.
+Thijsse 6. G. H. Breitner, door A.
+Plasschaert, met teekening door B. van Vlijmen
+Op den Econ. Uitkijk, door Jhr. Mr. H.
+Smissaert Medische Kroniek, door M. Redel
+8. Louis Couperus, door Prof. Dr. J. Prinsen
+JLzn. De Belgische tentoonstelling, door
+Mr. M. F. Hennus Boekbespreking, door
+Dr. A. W. Bijvanck 9. Het conflict over
+de invoering van de 48 urige arbeidsweek,
+teekening van Joh. Braakensiek Charivaria,
+door Charivarius Taaiverwoesting, door
+Dr. C. F. Haje Onze Puzzle Limb.
+typen, door Dr. AndréSchillings 10.
+Krekelzang, door J. H. Speenhoff
+Rijmkronyck en 't Schietgat, door Melis Stoke
+Uit het Kladschrift van Jantje Feuilleton:
+Sim Tsjen, door N. Qarien, vèrt. Drs. A.
+Saalborn Omslag: Schaakrubriek, red. Dr. A. G.
+Olland.
+Bijvoegsel: Het Herstel-Europa-Comite,
+teekening door Joh. Braakensiek.
+DE HAAGSCHE ACADEMIE
+VOOR INTERNATIONAAL
+RECHT
+Vacantie-cursussen zijn in de
+Nederlandsche universitaire kringen geen
+onbekenden meer.
+j* Afgezien nog van de uitlokkende
+prospectussen, die buitenlandsche uni
+
+versiteiten kwistig bij de onze versprei
+
+den om onze studenten tot een
+vacantieteis over te halen, waarbij zij het nuttige
+met het aangename kunnen verbinden,
+.ook in ons eigen land hebben zij
+reeds burgerrecht verkregen.
+Aan verschillende Nederlandsche Uni
+
+versiteiten zijn reeds
+vacantiecursussen gegeven voor Vlaamsche Stu
+
+denten, of voor medici, die hunne
+praktijk even konden onderbreken om
+weer op de collegebanken te gaan
+zitten en kennis te nemen van nieuwe
+theoiiën of vondsten, of voor leeraren
+en leeraressen, die niet onder wilden
+gaan in de sleur van het dagelijksch
+lesgeven en hetzij verlangden naar een
+impuls tot eigen studie, hetzij alleen
+hunne kennis van hun vak wat wilden
+verfrisschen.
+Deze cursussen komen ten goede zoo
+
+wel van hen, die ze volgen, als van de
+instellingen van hooger onderwijs, die
+ze in het leven hebben geroepen, want
+zij bieden aan de laatste de gelegen
+
+heid, de betrekkingen met oud-studen
+
+ten te onderhouden en hare werkzaam
+
+heid te verbreeden door ze uit te strek
+
+ken ook tot de kringen van rijpere
+mannen en vrouwen, die alleen uit
+zuivere belangstelling in het vak hun
+
+ner studie, en niet door den dwang
+van een naderend examen, de weten
+
+schap willen beoefenen.
+Het ware dan ook te wenschen, dat
+ze niet te hooi en te gras werden ge
+
+geven, maar op gezette tijden, met
+wisselbeurten voor de verschillende
+vakken, nu eens aan deze, dan weer
+aan gene universiteit of hoogeschool,
+zoodat ze tot een blijvend, geordend
+en geregeld instituut werden. Misschien
+wil de afdeeling voor het
+Hooger-Onderwijs van den Onderwijsraad hare ge
+
+dachten eens over dit onderwerp laten
+gaan.
+
+Maar wat heeft dit te maken met de
+Academie voor internationaal recht te
+'s-Gravenhage?
+Ja de naam vacantiecursus is
+misschien wat schoolsch en verplaatst
+ons in eenvoudiger sferen dan die,
+waarin de beoefenaars van het inter
+
+nationaal recht zich gewoonlijk be
+
+wegen.
+Maar weet iemand een beteren
+naam voor het werk, dat de Haagsche
+Academie gaat ondernemen?
+Wij hadden geruitnen tijd niet van
+die academie gehoord. En niet zoo
+lang geleden nog mocht men betwijfelen
+of zij ooit nog van zicli zou laten spre
+
+ken.
+Hare geboorte viel in een tijd, toen
+het internationaal recht in blakende
+gunst stond.
+Bij staatslieden en geleerden die el
+
+kaar aantroffen op de Tweede
+Vredesconferentie, in 1907, rees de gedacht een
+Academie voor internatioaal recht te
+stichten.
+Zij zou een schakel vormen tusschen
+de Haagsche conferenties men dacht
+toen, dat op de twee reeds gehoudene
+nog een heele reeks zou volgen en
+het Permanente Hof van Arbitrage.
+Op de genoemde conferenties zouden
+de regelen van het internationaal recht
+worden vastgesteld; het Hof van Ar
+
+bitrage zou, voor zooverre zijne be
+
+perkte opdracht dit toeliet, met de
+toepassing van dat recht belast zijn.
+Aan de academie nu zou de taak ten
+deel vallen, die in art. 2 van hare sta
+
+tuten aldus is geformuleerd: een
+centrum te zijn van hoogere studie in
+het internationaal publiek- en privaat
+
+recht en in verwante wetenschappen,
+teneinde een grondig en onpartijdig
+onderzoek te bevorderen van vraag
+
+stukken, die samenhangen aan de
+internationale rechtsbetrekkingen."
+Hare werkzaamheid zou dan zoowel aan
+de codificatie van dat recht ten goede
+komen als aan de toepassing ervan.
+Het duurde tot 1910 voordat eenige
+Nederlandsche juristen, onder de be
+
+zielende leiding van wijlen Mr. Asser,
+het plan tot verwezenlijking brachten.
+Zij wisten den financieelen steun te
+verkrijgen van de Carnegie-schenking
+voor den internationalen vrede. In het
+begin van 1914 werd de Haagsche
+Academie voor internationaal recht
+in den vorm van een Nederlandsche
+stichting in het leven geroepen; in
+den zomer van dat jaar zou zij op
+plechtige wijze worden ingewijd.
+Toen brak de oorlog uit en maakte
+het internationaal recht tot een
+aanfluiting.
+
+Maar dezelfde oorlog, die geweld
+deed heerschcn in plaats van recht,
+heeft, juist daardoor, juist door zijn
+ruw blootleggen van de werkelijkheid,
+den ijver voor het naderen van het
+ideaal versterkt. Hij heeft bij
+millioenen menschen, wier gedachten vroe
+
+ger niet daarheen reikten, het besef
+gewekt, dat het ons aller plicht is
+ertoe mede te werken, den internati
+
+onalen wedijver te doen vervangen
+door internationale samenwerking en
+de onderlinge betrekkingen der volken
+naar recht en rede te doen regelen.
+Hij heeft ook beter inzicht doen ge
+
+boren worden in de middelen, waardoor
+men naar dat doel zou moeten streven.
+De stichting van den Volkenbond
+met al het onvolkomene, dat hem
+aankleeft, en al was hij dan in den
+aanvang alleen een Bond der over
+
+winnaars • was óók een bewijs van
+het veldwinnen der vredesidee. En
+het uit dien Volkenbond voortgekomen
+Permanente Hof van Internationale
+Justitie al ontbreekt dan ook de
+bepaling, die alle mogendheden ver
+
+plicht hare geschillen aan zijne be
+
+slissing te onderwerpen beteekent
+toch een stap vooruit, vergeleken bij
+wat vroeger was bereikt.
+Tusschen Volkenbond en Permanent
+Hof van Internationale Justitie kon de
+Academie nu het verbindend lid uit
+
+maken, dat zij aanvankelijk bedoeld
+had te vormen tusschen de
+Vredesconferenties en het Permanente Hof
+van Arbitrage.
+Maar de politieke omstandigheden
+geboden aan hare bestuurders nog om
+
+zichtigheid. Ook door de keuze van
+de personen, aan wie zij de taak op
+
+droeg onderwijs in internationaal recht te
+geven, behoorde de Academie te toonen,
+dat zij boven de partijen stond. Eerst
+toen dit mogelijk was geworden, kon
+zij haar werk aanvangen.
+Zoo zal dan, op 14 Juli a.s., de
+officieele opening van de Academie ge
+
+schieden in het gebouw, waar zij haar
+zetel heeft: het Vredespaleis. Twee
+dagen later begint het onderwijs.
+De vacantie-cursussen: want het
+onderwijs aan de Academie wordt
+slechts in de zomermaanden gege
+
+ven, gedurende de groote vacantie der
+universiteiten; alleen reeds de omstan
+
+digheid dat de groote meerderheid
+van de docenten uit hoogleeraren be
+
+staat, heeft het noodzakelijk gemaakt,
+deze maanden te .kiezen.
+Blijkens het dezer dagen verschenen
+programma zullen er cursussen wor
+
+den gegeven of'voordrachten gehouden
+door niet minder dan dertig personen,
+die zich allen grooten naam hebben
+verworven in de beoefening van de
+theorie of de practijk van het inter
+
+nationaal recht.
+Uit alle landen: Franschen,
+Engelschen, Italianen en Belgen zijn er bij,
+maar ook Duitschers; en Oostenrijkers;
+er komen er uit Japan, uit de Vereen.
+Staten, uit Midden- en Zuid-Amerika,
+uit Zweden en Zwitserland. Ook twee
+Nederlanders vermeldt het programma:
+Mr. Loder, den voorzitter van het
+Permanente Hof van Intern. Justitie,
+en den Leidschen hoogleeraar van
+Eysinga.
+Het oorlogsrecht blijft voorloopig
+buiten behandeling, als thans nog
+minder geschikt voor een objectieve en
+onpartijdige behandeling, zooals de
+Academie zich ten doel stelt." De in
+den a.s. zomer te behandelen onder
+
+werpen behooren alle tot het gebied
+van het recht in vredestijd; prof.
+van Eysinga zal een cursus houden
+over Internationale rivieren en ka
+
+nalen", Mr. Loder een voordracht
+over Arbitrage en internationale jus
+
+titie."
+Alle voordrachten of cursussen wor
+
+den in het Fransch gegeven. Zij zijn
+gratis toegankelijk voor elk, die een
+verzoek om toelating heeft ingediend
+bij den Raad van Beheer der Academie
+(adres: Vredespaleis, 's-Gravenhage) en
+daarop een toestemmend antwoord
+heeft gekregen. Volgens art. 9 der
+Statuten kan deze toelating niet ge
+
+weigerd worden aan hen, die aan
+eenige universiteit den doctorsgraad
+hebben verworven, aan ambtenaren of
+oud-ambtenaren van den
+diplomatieken of consulairen dienst en aan offi
+
+cieren of oud-officieren der land- en
+zeemacht."
+Aan het genoemde adres kan men
+het programma der cursussen en voor
+
+drachten bekomen; zij worden gegeven
+in twee serieën, van 16 Juli—3 Au
+
+gustus en van 13 Augustus—l Septem
+
+ber. Bij wijze van uitzondering is dit
+jaar de duur van het onderwijs tot zes
+weken beperkt; men is voornemens
+dien in de volgende jaren te verlengen.
+
+De Academie stelt hare gehoorzalen
+natuurlijk open voor menschen van
+elke nationaliteit. Maar het is te ver
+
+wachten, dat vooral Nederlanders ge
+
+bruik zullen maken van de voor hen
+zoo gemakkelijk gemaakte gelegenheid
+om onderwerpen uit het internationaal
+recht te hooren behandelen door de
+daartoe het meest bevoegden.
+Wij sporen ook onze lezers gaarne
+daartoe aan. Wie nadere inlichtingen
+omtrent de cursussen en voordrachten
+wenscht te verkrijgen, wende zich tot
+den Raad van Beheer der Academie
+voor internationaal recht, 's-Graven
+
+hage.
+KERNRAMP
+DE
+INTERNATIONALE
+PUZZLE
+Begin Juni 1023.
+
+Het is een bijzonder gewichtige week, dit
+
+maal, misschien zelfs, dat eer deze regelen in
+druk verschijnen, reeds weder een verdere
+beslissende stap is gezet op het tournooiveld
+van de groote internationale kwestie. Mogelijk
+echter ook, dat de tweede Duitsche nota nog
+ettelijke dagen op zich zal laten wachten.
+Men komt er te Berlijn niet zoo spoedig mede
+klaar, en telkens doen zich nieuwe redenen tot
+uitstel voor. De voornaamste reden hiertoe
+ligt wel in de zwakheid van 't politieke gestel,
+waaronder het tegenwoordige Duitsche Rijk
+lijdt.
+De formatie van den staat is daar nu in
+wezen een andere, dan die welke wij in de
+gevestigde Westersche landen gewoon zijn.
+De ervaring leert wel hoe eene constitutie, op
+papier uitgewerkt, nog niet per se een staats
+
+orde vormt. De machtsverhoudingen moeten
+zich soms nog gedurende jaren vestigen. Het
+treffende, maar ook het minst geruststellende
+feit is de krachteloosheid van de
+regeeringsmacht daar te lande. Hoe weinig is er overge
+
+bleven van de natuurlijke autoriteit, welke het
+oude Rijk en Pruisen gekenmerkt hebben. Zij
+is schier in haar tegendeel verkeerd. In Enge
+
+land, in Frankrijk, in Belgiëkunnen onder
+
+handelingen door de regeering op hare eigen
+verantwoordelijkheid worden gevoerd. Zelfs
+in Frankrijk, het land waar nog het meest met
+een keurig parlement te rekenen valt, wordt
+op dit stuk de man aan het roer met rust ge
+
+laten. De Duitsche Rijkskanselier daarente
+
+gen schijnt niet te weten welk woord hij spre
+
+ken moet. Een eigen voorstel op eigen gezag
+te bepalen, en vervolgens daarvoor binnen
+
+lands respect te verlangen, schijnt niet te
+gaan. Toen de eerste nota een wansucces
+bleek, wist men te Berlijn ook wel de fouten
+der methode in eigen boezem aan te wijzen.
+Jan en Alleman hadden aan de redactie mee
+mogen werken. Het geheele kabinet, waarin
+ook al geen eenheid schuilt, de partijleiders,
+de partijclubs, de belangrijke sociaal-poli
+
+tieke organisatie's, de bankiers en zelfs enkele
+hoofdredactie's van dagbladen, hadden er aan
+gewerkt. Bovendien had men in verschillende
+plaatsen van Europa getracht, nog licht te
+krijgen. Wat was het resultaat? Een onhandig
+pitloos document, waarmede de regeering
+zelve ook al spoedig in de war zat.
+Men heeft dat toen niet ingezien, en het
+ware te wenschen geweest, dat voor den twee
+
+den stap een andere, krachtiger wijze van
+werken had kunnen worden toegepast. De
+waarheid is toch maar, dat alleen die démar
+
+ches waar een flinke persoonlijkheid, een vaste
+gedachte achter zitten, prestige afdwingen.
+Is het nu, dat de heer Cuno zelf de eigen
+
+schappen mist om op zoodanige wijze te werk
+te gaan? Of is de oogenblikkelijke verdecling
+van krachten in Duitschland zoo amorphe,
+zoo week, dat van arbeid ,,aus einem Gurz"
+geen sprake kan zijn? Beide oorzaken werken
+waarschijnlijk samen en de persoonlijkheid
+lUIIIIIIIIUIIIIIIIIIII
+lltllllllltttlllllllllllllltltlllllUUIIIIIUIIlllllUllllllllllllllllllltlllllllllllllllt •!
+MYSTERIES VAN AZI
+II
+
+AVONTUREN
+
+Wij hebben onze vluchtelingen gevolgd,
+totdat zij na een scherpe ontmoeting met hun
+vijanden Mongoliëhadden bereikt, verder kon
+
+den zij meenen het gevaar van afdeelingen
+van hét roode leger te boven te. zijn. Meer
+
+deren hadden zich bij hen gevoegd, meestal
+Russische officieren, toen zij het grens
+
+gebied naderden en zij vormden een kleine
+karavaan van ruiters en voetgangers met
+hun pakdieren en hun Tataarsche of
+Kalmiiksche gidsen. Nu werd hun de toegang en voort
+
+gang plotseling verboden.
+Zij waren op het gebied van een stam,
+die zeer streng het gebod van den Boeddha
+onderhield om geen bloed te vergieten; waar
+invallen werden gevreesd van strijdlustige
+benden daar trok men eerder weg met have
+en vee dan men tegenstand bood. Ossendowski
+die all&amp;n als leider hadden gekozen, wist
+echter wel een weg, zooals gewoonlijk, uit
+de moeilijkheden. Hij maakte zich door
+een kleine gift vrienden onder de groep die
+hun in den weg trad en liet hun zijn overwicht
+gevoelen door de manier waarop hij bij een
+hunner het bloeden wist te stuiten van de neus.
+Ta Lama !" riepen de eenvoudige menschen
+uit, groote priester", of dokter, want.
+een genezing was een bezwering.
+Hij hoorde dat de vrouw van den landsvorst
+leed aan een oogontsteking, kon hij die gene
+
+zen? ja, wel mogelijk, maar hij wilde ook
+we! met zijn troep omkeeren Neen, neen.
+hij zou bij den vorst worden gebracht.
+
+Die avond werd gezellig en
+kameraadschappelijk doorgebracht, menschen en honden
+stroomden samen in de groote tent en ook
+een priester voegde zich bij het gezelschap.
+Men was dadelijk ingeburgerd bij de
+goedgeaarde menschen.
+'s-Morgens werd de tocht ondernomen naar
+de woonplaats van den vorst. Zij lag aan
+de rivier in het dal tusschen een groep van
+tenten met gele en blauwe vlaggen, ieder
+omgeven door hun vee en hun paarden, want
+het is een eeuwig trekkend volk. Maar daar
+
+om niet minder op ceremonies gesteld.
+De vorst was een oud ingeschrompeld
+man met een klein zwak gezichtje; hij zat
+in zijn Chineesch, of liever Mongoolsch
+costuum met den spitser, hoed en de groote
+Chineesche bril voor een kolenvuur op den
+divan van zijn tent, die met ongelooflijk
+kostbaar zijden behang was bekleed. De
+ontvangst was zoo vriendelijk mogelijk,
+thee en gebak werd bediend door de prinses
+zelf, een schoonheid van den eersten rang.
+Het onderhoud was in stijl.
+
+Hoewel de vorst als Hoogepriester niet
+rookte, werden toch eerst alle plichtple
+
+gingen van het aanbieden van tabak en snuif
+vervuld; nadat die waren afgcloopen en de
+vorst zijn gast had ondervraagd over zijn
+plannen, en voor hem en zijn reisgezelschap
+vier tenten had verordend, zeide hij:
+Ik hoor dat de vreemde heer, een goed
+dokter is. Mijn vrouw heeft al twee maanden
+lang met haar oogen gesukkeld. Help haar."
+De prinses toonde hem wat haar scheelde.
+Het was een gevolg van den rook. De dokter
+liet zich zijn medicijnkist brengen en begon
+met een wasscbing.
+De Prinses drong aan, gij moet niet weg
+gaan eer gij mij hebt genezen. Wij zullen u
+schapen, melk en meel geven voor uw heele
+gezelschap. Ik moet nu zoo dikwijls tranen
+vergieten, omdat ik zulke mooie óogen had
+en mijn man me vertelde dat ze schitterden
+als sterren, en nu zien ze rood. Ik kan het
+niet uitstaan, ik kan niet." Zij stampte op
+den grond. Zult ge me beter maken, ja?"
+Ik zal mijn best doen," antwoordde de
+oogendokter.
+Om het verhaal niet lang te maken,de kara
+
+vaan bleef daar tien dagen, verzorgd door de
+vriendelijkheid van de vorstelijke familie.
+Na de tien dagen had de prinses haar
+vroolijkheid en al de bekoorlijkheid van haar
+schoonheid terug; zij kon den spiegel niet
+meer uit handen laten. De vrouwen,
+dacht Ossendowski, zijn overal dezelfden, aan
+de oevers van de Seine even goed als van
+de Buret Lei.
+
+Het was een liefelijke verpoozing daar in
+de vallei van den eeuwigen vrede. Vermoeide
+menschen en dieren kwamen tot rust, geschen
+
+ken vulden den slinkcnden voorraad aan;
+maar er was geen sprake van lang verblijven,
+op de grens was de toestand vlottend, c'ischen
+konden worden gesteld, hetzij door de
+bolsjewiki, het/ij door China. Veilig kon men zich
+alleen rekenen onder bescherming der
+Engelschen in het land van de Bramapoetra.
+Welk een afstand van maanden !
+De meegegeven gids had de grootste be
+
+zwaren, na een paar dagen verklaarde hij
+den tocht over het gebergte onmogelijk;
+het was de denionen verzoeken die het land
+bewaakten. Op een avond bij het rusthouden
+vroeg hij Ossendowski met hem te gaan, en
+hij bracht hem aan den voet van een steilen
+berg en wees op de steenen die regelmatig
+waren opgestapeld en een soort van altaars
+met lange zijde lappen versierd. ,,Zie eens,
+heer, de lappen zijn in flarden. De demonen
+willen ons niet inlaten. Ze zijn boos. De twin
+
+tig laatste jaren heeft niemand hier durven
+doordringen; die het toch hebben geprobeerd
+zijn omgekomen. De geesten hebben hen
+bestookt niet sneeuwstormen en ijs." Hij
+smeekte: ,,Keer terug naar onzen prins."
+Alsof Ossendowski daarnaar zou luisteren !
+hij kon toch niet in die grensstrook halt
+houden. Den volgenden morgen vroeg wekte
+hij de anderen om zoo spoedig mogelijk den
+weg over de bergen voort te zetten. Daar
+stelde zich de gids in den weg: Ik ben niet
+van plan met u den dood in de gaan." Toornig
+wilde de leider hem met zijn zweep dwingen,
+maar hij bedacht zich. Luister", zei hij, als
+ge de paarden doet omkeeren, krijgt ge een
+kogel in den rug, en in plaats van op den top
+van den berg om te komen, sterft ge hier
+aan zijn voet. En let nu goed op, want ik
+zal u zeggen wat gaat gebeuren; wanneer
+wij boven zijn zal de storm ophouden en onder
+zonneschijn zullen wij in de vallei afdalen en
+bij een stroom en een pijnbosch zullen wij
+knmpeeren."
+,., Is de heer dan daar al geweest?" vroeg
+de gids die nog niet op zijn gemak was.
+Neen, maar van nacht heb ik het visioen
+van onzen gelukkigen overtocht gehad."
+
+De gids was gerustgesteld; nadat men de
+linie van de eeuwige sneeuw was gepasseerd,
+begon de lucht op te klaren, de profetie ver
+
+vulde zich ook bij het afdalen, maar tegelijker
+
+tijd bleek ook hoever de roode garde reeds
+in het land was genesteld. De lange, lange
+weg door de woestijn van Gobi moest worden
+aanvaard, het scheen de eenige toevlucht,
+al werden ook de perikelen en bezwaren hoe
+langer hoe meer gecompliceerd. Want om
+met de geheele bende geen opzien te maken
+moest dikwijls 's nachts worden getrokken.
+Ossendowski noemt het een marsen van
+geesten, met sneeuw bestoven als zij meestal
+waren.
+Dan kwam de tijd dat de paarden geen
+dienst meer konden doen en de beesten voor
+kameclen moesten worden geruild. Zoo was
+men wel gedwongen de karavanenwegen te
+kruisen en van de markten gebruik te maken.
+Een rustpunt maar nooit voor lang boden
+de groote lamakloosters. Vergeet niet," zeide
+de rijke Mongoolsche koopman die de kameelen
+had geleverd, het gewijde klooster van
+Narabanchi te bezoeken; het heilige hoofd, de
+Huntuktu, de vleeschgeworden Boeddha, zou
+het u euvel duiden, wanneer ge zijn heiligdom
+verwaarloosde."
+Die kloosters waren de middelpunten van
+het intellectueele of mystieke leven in het
+Aziatische binnenlnad. Ossendowski wist
+hoe hij zich daar moest presenteeren. Hij hoor
+
+de eerst zooveel mogelijk af van het gebrui
+
+kelijke ceremonieel en won daardoor een goede
+ontvangst; ook zal zijn naam als een man
+van buitengewone vermogens hem wel vooraf
+zijn gegaan. Er gaat in dien tijd een beweging
+door de Boeddhistische wereld: een redder
+wordt verwacht, Aziëzal herleven, en allerlei
+boden vertoonen zich van de aanstaande her
+
+leving.
+De Huntuktu van Narabanchi vereerde on
+
+zen zwerver een ring die hem voortaan den
+toegang opende tot alle Lama-kloosters.
+
+Maar daarom niet vrijwaarde tegen allerlei
+rampspoed.
+Want met de entree in Thibet barstten alle
+ongelukken los over het hoofd der redding
+
+zoekenden. Osssendowski uitgeput van ver
+
+moeienis en zorgen viel van zijn kameel eu
+had groote moeite zich uit een staat van
+verdooving op te werken; en toen hij begon te
+herstellen overviel zijn trocpje de groote
+teleurstelling dat zij op eenmaal niet verder
+konden.
+Reeds had men vermoedens dat afdeelingen
+gewapende bandieten, zooals er velen toen
+rondzwierven, hen volgden, als zij zich plot
+
+seling op de hoogvlakte van Tibet omringd
+en in de val zagen. Er was geen ontkomen
+mogelijk, het bevel klonk: Ieder voor zich.
+Dat was de dood voor allen.
+Maar een toeval bracht uitkomst. De aan
+
+voerder der bandieten was zwaar gewond
+en liet om hulp vragen. Geef dien duivel
+vergift, zeiden de kameraden; maar Ossen
+
+dowski was wijzer, hij hielp zoo goed hij kon
+en sprak toen tot de bandieten; , ik heb den
+aanvoerder mijn sterkste middel gegeven dat
+elf dagen en nachten noodig heeft om geheel
+te werken; maar de geesten willen niet dat
+in dien tusschentijd een schot wordt gelost."
+Zelf nam hij daarop alle patronen van zijn
+Mauser af en gebood de anderen zijn voorbeeld
+te volgen. Hij hypnotiseerde hen. Daarop
+na verdere instructies te hebben gegeven,
+beduidde hij zijn volgelingen dat hij hen elf
+dagen vrijen aftocht had verschaft.
+Hun tocht naar Tibet moesten zij opgeven.
+Zij zouden naar Mongoliëteruggaan.
+Daar vinden wij hen weer.
+
+W. G. C. BYVANCK
+
+</text>
+<image timestamp="2002:08:26:02:59:42.00" size="473123">D10003Q0.TIF</image>
+</page>
+</document>

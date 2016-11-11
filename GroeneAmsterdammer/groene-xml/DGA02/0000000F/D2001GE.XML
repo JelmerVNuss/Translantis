@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020727</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.Hoogere" politiek.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 27 Juli 1902.
+\
+•T ^ i~ . '?
+r» 4.,
+Amst. Jioek- en Steer.drukkerij, v/h. Ellerman, Harms *S: (_'o.
+WILHELM II EN FRANZ JOSEPH: We laten je niet glippen I"
+CZAR NIKOLAAS EN PRESIDENT LoUüET: .,Hier is net nog een gezellig plaatsje!"
+JOHN BULL : Kom liever veilig in mijn armen!"
+VITTORIO EMANUELK II: Kijk, kijk, wat houden ze allemaal veel van mij!"
+
+</text>
+<image timestamp="2002:08:18:03:54:42.00" size="249377">D2001GE.TIF</image>
+</page>
+</document>

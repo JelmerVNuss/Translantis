@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19181109</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE MISLUKTE S T A A L K U U R
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 9 November 1918
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+naar het schilderij van Jan Steen)
+G e r m a n i a: Neen dokter, gij kunt mij niet meer helpen!'
+
+</text>
+<image timestamp="2002:08:24:01:20:08.00" size="611061">D100033C.TIF</image>
+</page>
+</document>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250103</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WËlKBLAD^VOÖR"NËDlRLAND
+DIERSTUDIE: NEUSHOORN
+
+Teekening voor de Amsterdammer" door H. Verslijnen
+Op den Economischer! Uitkijk
+Het spel van A, B en C. (I).
+
+Over onze openbare armenzorg, over onze
+armenwet en hare werking hoort en leest men
+weinig; belangwekkend is het onderwerp zeker
+in hooge mate, maar zij, die zich daarmede bezig
+
+houden, schijnen bij het groote publiek weinig
+belangstelling daarin te onderstellen. Men vindt
+in de pers nu en dan berichten en mededeelingen,
+die daarop betrekking hebben, maar samenvat
+
+tende beschouwingen treft men in organen, die
+zich tot een ruimen lezerskring richten, zelden aan.
+Dat is jammer, want de op dit gebied rijzende
+vraagstukken zijn gewichtig genoeg. Het komt mij
+daarom wel nuttig voor, een daarvan hier ter
+sprake te brengen, de vraag n.l. hoe in den loop
+der tijden de wisselende verhouding is geweest
+tusschen het aandeel in de algemeene
+armenzorgslasten van de drie op dit terrein werkende organisa
+
+ties, die wij kunnen aanduiden als A de gemeenten
+rechtstreeks en de burgerlijke instellingen (waaraan
+wij toevoegen de weinig beteekenende zooge
+
+naamde gemengde" instellingen), B de kerkelijke
+en C de bijzondere.
+Laat mij beginnen met eraan te herinneren, dat
+aan de thans geldende armenwet (van 1912) is
+voorafgegaan die van 1854. Deze laatste beoogde
+een einde te maken aan den tot op dat jaar
+heerschenden toestand, waarin eigenlijk weinig door
+gemeentebesturen of van gemeentewege aan armen
+
+zorg feitelijk werd gedaan, doch de voor rekening
+van de burgerlijke overheid te verstrekken onder
+
+stand namens haar veelvuldig werd gegeven door
+bemiddeling van kerkelijke instellingen, die daar
+
+toe door de overheid werden gesubsidieerd. Het
+is wel duidelijk, dat een stelsel als dit moest leiden
+tot een belangrijk aandeel van burgerlijke gemeen
+
+ten in de totale armenzorg-lasten, want wie geld
+uitgeeft, dat hem door een ander wordt terugbe
+
+taald, is allicht minder zuinig dan wanneer hij uit
+eigen middelen de kosten moet bestrijden. Om
+
+streeks 1850 beschouwde men dezen staatTvan
+zaken dan ook als een misstand, welken de wet
+
+gever moest verhelpen. De wet van 1854 streefde
+daarom naar beperking van door de overheid aan
+kerkelijke instellingen te verleencn subsidies en
+bepaalde voorts, dat de gemeentelijke organisaties
+armen slechts dan zouden ondersteunen, indien
+zij niet door kerkelijke of particuliere instellingen
+werden geholpen en zelfs dan slechts bij vol
+
+strekte onvermijdelijkheid."
+Langs twee wegen zou men dus, meende men,
+het doel bereiken: de kerkelijke instellingen
+zouden in steeds geringer mate gelden van de
+overheid ontvangen en de overheid zelf, meer
+rechtstreeks ondersteunende, zou dat niet met
+ruime hand doen, zou eerst afwachten of niet
+kerkelijke en particuliere instellingen voorgingen.
+Vraagt men nu of dit doel onder de werking
+der armenwet van 1854 inderdaad is bereikt, dan
+kan het antwoord op die vraag in enkele, sprekende
+cijfers worden gegeven. Men behoeft daartoe over
+verschillende jaren slechts te vergelijken de per
+
+centages, waarvoor de drie groepen A, B en C
+deelden in het totaal der armenzorgs-lasten.
+Welnu, voor 1854 waren deze percentcijfers onder
+
+scheidenlijk:
+A....40,l
+B.... 50,4
+C.... 9,5
+Men ziet, dat, toen de wet begon te werken, de
+burgerlijke overheid 2/5 van het geheel voor hare
+rekening had, de Kerk 1/2 en de particuliere
+instellingen iets minder dan 1,10. Hoe was nu,
+nadat de wet 15 jaar had gewerkt (dus in 1860)
+deze verhouding geworden? Ziehier voor dat jaar
+de percentages:
+A....48,4
+B	42,2
+C.... 9,4
+Terwijl het aandeel der particuliere instellingen
+vrijwel ongewijzigd was gebleven, neemt men bij
+de twee andere, de meest belangrijke groepen,
+eene verschuiving waar juist in de omgekeerde
+dan de door den wetgever beoogde richting. Had
+deze toch gehoopt, dat het aandeel van A zou
+slinken, het steeg van 40,1 op 48,4 en dacht hij
+dat de Kerk een ruimer deel van het totaal voor
+hare rekening zou nemen, de cijfers 50,4 en 42,2
+wezen het tegendeel uit.
+Waaraan was deze averechtsche uitkomst toe te
+schrijven? Aan verschillende oorzaken, waarvan
+zekerwelde belangrijkste deze was: dat de regeling
+Dr;
+j K GAST
+van het onderstands-domicilie" de gemeentelijke
+overheid niet tot zuinigheid, maar veeleer tot
+ruime bedeeling verlokte. Die regeling kwam
+hierop neer, dat, indien een arme zich bevond in d
+gemeente A doch geboortig was uit gemeente B,
+deze laatste voor den onderstand aansprakelijk
+was. Maar te A verblijvende ontving hij daar de
+hem door het gemeentebestuur van A toegekende
+gelden, welke dat gemeentebestuur op B verhaalde,
+daar immers B als geboorteplaats aansprakelijk
+was. En welke reden had men te A om zuinig te zijn
+met gelden, die een andere gemeente terugbe
+
+taalde? Een tweede oorzaak der verschuiving in de
+door den wetgever niet gewenschte richting was:
+dat toch nog meer dan men verwacht had de
+ondersteuning van armen door kerkelijke instel
+
+lingen maar mor rekening van de burgerlijke over
+
+heid gehandhaafd bleef.
+Opzettelijk gaf ik de cijfers juist voor het jaar
+1869, omdat dit jaar als een mijlpaal is te beschou
+
+wen. In 1870 toch kwam eene wijziging van de
+armenwet tot stand, waardoor het domicilie van
+onderstand werd afgeschaft, d.w.z. er zou voortaan
+geen sprake meer zijn van verhaal door de eene
+gemeente op de andere: de gemeente, waar de
+arme zich bevindt" beslist over onderstand en
+verstrekt dien dan voor eigen rekening. Uit eigen
+beurs het geld uitgevende, zouden de gemeente
+
+besturen wel zuiniger leeren zijn, zoo meende men.
+Inderdaad heeft aanvankelijk deze maatregel
+wel goed gewerkt. Gaat men de percentcijfers voor
+A, B en C na 1869 na, dan ziet men de 48,4 voor
+A in 1869 dalen tot 41,1 in 1880, in welk jaar B
+47,6 voor zijne rekening neemt. Dit wil zeggen:
+men was in 1880 bijna zoo ver als men was in 1854 !
+Maar na 1880 ziet men de schaal weer omslaan,
+het aandeel van A weer geleidelijk stijgen, dat
+van B geleidelijk dalen, terwijl C in de eerste
+tientallen jaren na 1870 haar'9,5 % van 1869
+tot 14% weet op te voeren. Wij krijgen dan b.v.
+voor 1898 deze verhouding:
+A	44,1
+B....41,7
+C.... 14,2
+Het gaat, zooals blijkt, weer den (in des wet
+
+gevers gedachtengang) verkeerden kant uit. En
+nemen wij nu het jaar 1911 hetwelk vooraf
+
+ging aan de inwerkingtreding der armenwet-1912
+OOKTFRED:.IUOESKE
+ZANDBLAD - SIGAREN 8 enIO ets
+mr. Heemskerk's werk) dan vinden wij deze
+verdeeling (grosso modo):
+A	56
+B....32
+C....12
+Hier /ijn wij dus wel ver af van de 40—50£
+en '.'.V, die wij uit 1854 kennen en die toen be
+
+schouwd werden als aan te duiden een /.eer
+ongewenschte verhouding, welke door de wet moest
+worden verbeterd. Het is wel volkomen duidelijk:
+van die verbetering is niets terecht gekomen.
+Wat ons niet zoozeer behoeft te verbazen. Want
+ook (misschien : vooral) in zaken als deze kan de
+wetgever wel voornemens koesteren en die door
+allerlei artikelen trachten te verwezenlijken, maar
+als zijn stelsel ingaat tegen den geest des tijds,
+dan leeft de praktijk over al zijn artikelen heen.
+Zoo ging het hier. De wet schreef voor, dat de
+overheid zich van eiken onderstand moest ont
+
+houden, wanneer kerk of particuliere armenzorg
+zich aan den behoeftige iets (in welke geringe
+mate ook) liet gelegen liggen. Dus: geen dubbele
+bedeeling." Maar metterdaad werd deze regel.
+Het stelsel der wet wilde de openbare armenzorg
+beperken tot politiezorg: slechts bij "volstrekte
+onvermijdelijkheid mocht van overheidswege iets
+worden uitgereikt. Maar ook dat werd in de prak
+
+tijk heel anders.
+Het is dus wel verklaarbaar, wat wij zien : dat
+de bedoeling der wet van '54 niet door hare
+prrfktijk werd bevestigd, maar gelogenstraft.
+Een volgenden keer zullen wij zien hoe het spel
+van A, B en C" zich onder de nieuwe armenwet
+heeft voortgezet.
+S M i s s A E R T
+J. S. MEUWSEN, Hotl. A'DAB-R'DAM-DEN HAAO
+DE BESTE HOEDEN IN HOLLAND
+
+</text>
+<image timestamp="2002:09:02:23:22:13.00" size="308476">0000058H.TIF</image>
+</page>
+</document>

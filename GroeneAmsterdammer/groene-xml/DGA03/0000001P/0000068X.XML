@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280128</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amerika's vlootbouw
+Nadruk verboden
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 28 Januari 1928
+Amst. Boek- en Steendr, vlh. Ellerman, Harms B Co
+(Uit de Rede van Willem Mengelberg bij zijn promotie
+tot eere-doctor)
+.Gelukkig Amerika, dat een nieuwe, schoone en bloeiende toekomst opbouwt!"
+
+</text>
+<image timestamp="2002:09:04:03:23:46.00" size="146080">0000068X.TIF</image>
+</page>
+</document>

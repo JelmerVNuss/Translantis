@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300315</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ajax en Blauw-Wit beide kampioen
+BIJVOEGSEL van De Groene Amsterdammer" Weekblad voor Nederland van 15 Maart 1930
+Amst. Boek- tn Ste€ndr. v/b. Kllerman. Harms 6 Co. N.V.
+Wat is het, vader?"
+O, moeder! Van 't f aar een tweeling!"
+
+</text>
+<image timestamp="2002:09:21:05:54:08.00" size="202018">000007ZG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400928</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ARNHTM Hotel-Restaurant BORDELAISE
+MH11 II .LIYI Velperweg. Tel. 24325. Bekend Rest. Mod. comf.
+EINDHOVEN "" HOTBL
+STATIONSPLEIN2-TEua266 HOTEL SCHIMMELPENNINCK
+GERESERVEERD VOOR
+SPORTPARK F. C. DEN HARTIGH
+PUTTEN OP DE VELUWE
+HOTEL DE MALLEJAN" VIERHOUTEN
+TELEFOON NR. 2 (doorv.)
+Hét Hotel van de Veluwe
+KINDERTEHUIZEN
+EN INTERNATEN
+ARNHEM
+H«ilpaedagoclsch Instituut KIiEIN WABN8BOHBÏ"
+Amit.Wtg 122. Tel. 22012. liutltuut v. moellllke niet achterlijke klnde
+KI. klataen. Individueel onderw. Getonde omg. Leeft. 4-18 |. Proip. op
+RN" l
+deren, l
+aanvr. l
+Befde bij Entphen. Het «dvle»- en plaataincabnreau Qnatre-Braa".
+Wil vraagbaak zl|n voer ouden en voogden met moeilijke en niet gewoon gaande longens In den leeftijd
+van 14-18 en hooger. Het beschikt over eigen Internaat ten behoeve van observatie en permanent verblijf,
+m geeft richting van opvoeding tan op studlebasli «f daarbuiten. Een eigen modern
+tulnbouw-handels-bedrijf veroorlooft bezlgheldsitelllng In de open lucht, terwijl prlvaatonderwljt aan huls wordt gegeven. Het
+plaatst jongelui onder patronage In binnen- en buitenland. Prospectus op aanvraag. Telefoon Gorssel 27.
+KATWIJK AAN ZEE
+KINDERHUIS ,,OERTBUI&gt;E" Winter
+geop. Uitstek, ref. Desk. verz. Hulsel, omg. Ruim hi
+kind. Mat. prijs. Zn. PUTMAN en v, LEEUWEN.T.I
+ter en zomer l
+uls, Bep. aant, l
+l,« Boulevard, l
+NOORDWIJK AAN ZEE Kinderhuis JONG HOLLAND"
+nuununun AAR CCL ^.
+momer en
+tehnlaj v«or Uw tind. Tel. 80, Oranjeweg 2, Mevr.J. M. Hoogstraten—Romljn
+ICf U ft Q D L Kindertth. 't B08CHHUI8JR". Bij Mevr. v. HAGEN kunnen eenlge kinderen een
+JV«n W w/IVe. fo,d en prett. teh. vinden. Gez. omg., bosch- en zeel. Voor alle scholen In Alkmaar een
+l goede busverb. Desgew. toez. op hulsw. Pr. n. overeenk. Ultst. ref. Burgemeester Peeekl. C 287. Tel. 297.
+ZANDVOORT
+Kinder-tehuis FLOPKE" pr'en
+Veget. Vr!] duinen. Pr. ref. Vr. Inl. en lijst v. adr.
+voor Inf. Inf. voor Zandvoort Dr. C. J. Tichelaar. Leiding j. W. Daems-Heck Boulev.
+Barnaart I2a, tel. 2970. Gezondh.-verkl. v. d. huisd. vereischt. Zomer en winter geop.
+RUSTHUIZEN
+ONDER DESKUNDIGE LEIDING
+ARNHEM Rusthuis Zr. v. Klaveren
+"~" Gelegenheid v. opname v. licht» patiënten. Medisch» referenties aanwezig
+BILTHOVEN «"«thuis Case Riante. j^tTt 2
+»*»fc"«»*^fc" **« boteh en heid«- Volledige Inlichtingen o» aanvrage. Telefoon 2280.
+
+
+DOORN RUSTHUIS MARIJKE" ^
+^^^^^T""_ R«"tl* gelegen In directe nibl|held der bosschen. R«f. Ytn H.H. Doktoren
+
+UCCI CIIU KUST- KIK HERSTELLINGSOORD BB HUT". Telefoon 2W
+HttLeJlJIwl Renkum (d.*, n.). Klein aantal patiënten, huiselijke tfeer, centrail verwirmd.
+1 1 •••.•. vr w III stroom.,,,! ,,„, ,n koud wtter. D. W. M. VAN MALSEN, ged. Verpleegster
+HEEMSTEDE RUSTHUIS CONSTANTIA- JS
+"~'^""*^^""' trtm en trein. In dlr. nabljh. v. boisch. Prlm» referentiên v. Med. en fam.
+
+Illl IfrnOIIKfl RMCTMIIK Zr. B. J. V A IV MAARSEVEEN
+nlLVtKeSUIVI «^'-'3 l n «J l •&gt; Oud-uireetriee Zieken-verpl. Medan-Soerabaja.
+"'*•• fcl»wmtl Opname herst . en diêetpatiênten. Hulsel, omg. Centr. verw. Tel. 5440
+KATWIJK AAN ZEE
+•«"••••••» •"»«• «-«.l.
+Direct a. zee en duin. Voor
+rstellenden en
+rustbehoevenden. Med. ref. aanw. Zrs. VARKEVISSER en DEN HERTOG
+If l II IPrtrtDn IA Af% COFDPM |nrlcntin« Y0°r Phyil§eh-dl»et«tliehe therapie.
+tVUUKUVJKU L A M V? dUCKClN Beh. van Rheuma. itofwluellniulekten,
+h.rtTutli|din, nerveuze itoornlnen. Medische baden, stralentheraple. Ultra kortegolf. Eigen röntien-lntt.
+enz. Unieke lliclnc In elfen botKhen van 100 H.A. DE GENEESHEER-DIRECTEUR
+TWELLO Rusthuis Welgelegen
+Tehuis voor rustbehoevenden en herstelleuden
+ir l
+' l
+n l
+IITnCOUT RuthoJs Zr. H. TIDEMAN-CORBACH - Serva»ib«lwerk 12 - Tel. 14844
+II l HF tm tl l Opname van heratellenden en dlëetpatlinten. Zeer rustig gelegen In de directe
+w * •«'•wil' a M0|jn,|j nn Centrum. Centr. verw. Stroomend water. Bad. Beschutte tuin.
+
+
+\AIACCCNIAAD Rusthuis AHOBOBA Backershagenlaan 30-32. Tel. 4205. Voor
+Vw f^&amp;3Ki^tf^f^t\ herstellenden, bejaarden (desgew. m. eigen meubelen), lichte zent/wpatiëneen.
+Rustig, prettig tehuis. Pr. referentiên van H.H. Doctoren. Vr. prospectus. Zr. G. LA ROSE-PETERSEN
+Edelmetaalbewerking
+J. C. W^iencckc Ver meer laan 33 Bilthoven
+Ontwerpt gedenkplaten, medailles en jtetnpeb
+
+Ceramiek
+
+LUIGI EN SOFIA DE LERMA-VAN DER DOES DE WILLEBOIS
+KASTANJELAAN .(, GROENEKAN BIJ UTRECHT
+ITALIAANSCH-HOLLANDSCHE CERAMIEK. PERMANENTE EXPOSITIE
+l
+De herfst is begonnen
+
+De avonden worden langer
+
+De herfst is de tijd om te lezen
+
+
+Daarom:
+
+Neem niet alleen De Groene
+
+maar neem een abonnement op De Groene
+PACi. 2 DE GROENE No. 3301
+
+</text>
+<image timestamp="2002:09:13:09:59:12.00" size="171220">000007QM.TIF</image>
+</page>
+</document>

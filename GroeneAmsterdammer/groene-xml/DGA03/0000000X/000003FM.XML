@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950818</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+lüJVOKGSEL van de Amsterdammer, Weekblad voor Nederland, van 18 Augustus 1895.
+Zalig zijn cfe bezitters.
+l
+•-.
+4|P,«-yA &gt;t *'&gt;'«, ' 'l-V' { " *\^;i:SV U*""
+,"- AÏ: i -'4-,-- - ' 'rAy^*
+1
+»»&lt;***-ö**fc ~f.
+
+Arast. Boek- en S teendrukkerij, v/h. EUerman, Harms &amp; Co,
+Madame la Kèpubliquc (tot haten Russischen vriend): Mon cher, zoudt ge mij niet eens aan een
+
+beurt kunnen helpen ? De oude dame zit er nu al twaalf jaar op l"
+
+</text>
+<image timestamp="2002:08:20:21:33:18.00" size="350964">000003FM.TIF</image>
+</page>
+</document>

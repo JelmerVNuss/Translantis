@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>30</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+30
+Kerstnummer
+BOB^BINDER
+AM5TSRDAM
+s
+£
+w
+Engelsch Plated (verzilverd) jjj
+Groenteschalen
+Saucekommen ffi
+• l
+Groentelepels
+W
+ui
+M
+S
+tfi
+W
+ui
+j j Soeplepels Tafellepels en Vorken enz.
+
+ffi
+S
+S
+W
+W
+
+Saucelepels [ i
+W
+W
+Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA &amp; RUPP l
+Meubelfabriek - G. J. v. BENNEKOM
+HUIDENSTRAAT 28- AMSTERDAM (C.)-TEL. 3O913
+
+Kantoor-, Salon-, Eet-, en
+Slaapkamermeubelen.
+Betimmeringen, Clubfauteuils, Divans, Gordijnen, Kar
+
+petten, Linoleums, Kapstokken, Loopers, Matrassen,
+Wollen Dekens enz. enz.
+REPARATIE INRICHTING
+Vakkundige bediening
+Levert op gemakkelijke Betalingsvoorwaarden aanjsolide personen
+COELINGH'S
+Vierels Deventer Koek
+in Cellopbe verpakt
+20 CENT.
+A. VAN KEMPEN
+WIJNHANDEL
+Amsterdam
+Gevestigd sedert 1810
+Prinsengracht 975
+White Port COCKBURN
+Pale Sherry Garvey
+BUDKHMHIHRICHTINGEH
+zoovel eenvoudige al* betere uitvoering.
+G. J, DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+WIJNHANDEL
+
+A. DELUZE &amp; FILS
+AMSTERDAM
+Prinsengracht 676
+Tel. 30424
+ZUIVERE
+Wijnen en Cognac's
+Carnegie's Scotch Whisky
+Vraagt prijscourant.
+Pond's Creams zijn verkrijgbaar in
+alle goede zaken in potten van ƒ l en
+f 2 en in tuben van f 0.50 en j 0.80
+
+
+.• Monsters
+Pond's Extract Co. A'dam zendt
+U 2 monsters en Pond's brochure
+. na inzending van 10 cent
+,,Ponj's Creants KOOT altijd" luidde de uit
+
+spraak van een bekende vrouw uit Londen's
+..Society". toen haar naar haar voorkeur
+voor huid-creams gevraagd werd. Zij staat
+hierin niet alleen: duizenden vrouwen ovei
+de geheele wereld vallen haar bij in haar
+enthousiasme voor Pond's. Pond's Co/JCrcam
+dient om de huid te reinigen. Haar fijne
+oliën dringen in de poriën der huid door
+en brengen zoodoende alle onreinheden
+aan de oppervlakte. Gebruikt daarna voor
+Bescherming der huid Pond's ^anislting Crcam.
+Deze maakt de huid soepel en zacht,
+beschermt haar tegen den invloed van ons
+grillig klimaat en vormt een ideale basis
+voor poeder.
+
+
+
+Creatns
+
+</text>
+<image timestamp="2002:09:05:21:49:03.00" size="125151">00000775.TIF</image>
+</page>
+</document>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>28</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ZESTIEN tot vijfen
+
+twintig jaar in het Hollandse
+heet dat: vlegeljaren, de pers spreekt A
+opgeschoten jongens; vaders, vakbonzen en paedagogen
+vonden de afdoende term: snotneus.
+Hier in de Sowjet Unie spreekt men over: de komsomolzen, en de kommunist voegt er,
+met een lachje van trotsch aan toe: onze aflossing: nascha smjèna !
+Rijpere jeugd", met het begrip jeugdzorg" onverbrekelijk verbonden, of kommunistische jeugd
+
+beweging", waar het woord beweging" nog altijd aan huppeldans en mandoline herinnert zijn
+beide voor komsomols" een ontoereikende vertaling. De sowjet-jeugd baart evenmin zorg"
+als dat zij alleenzaligmakend de nieuwe kuituur" in pacht heeft. Van eigen levensstijl, eigen;
+levensgemeenschap tegenover die der ouderen, valt weinig te bespeuren; in de vakantiehuizen,
+op uitstapjes'en exkursies, bij sport, spel en arbeid zijn alle leeftijdsgroepen te samen.
+Hier in Rusland houdt men er van in termen uit het militaire of oekonomische leven te
+spreken. In die taal heet de jeugd: de voorhoede of: de traktor.
+Geven wij een konkreet voorbeeld. Onze internationale brigade van schrijvers zal op een
+arbeidersvergadering in Luusjwa spreken. Wanneer zoo'n vergadering om zeven uur is aangekon
+
+digd beteekent dat, dat ze ongeveer om negen uur zal beginnen. Intusschen zit, zoo omstreeks j
+achten, het zaaltje van de klub al aardig vol met mannen en vrouwen van lederen leeftijd. Een
+jonge snuiter van een jaar of 20 springt op het tooneel en begint de menschen bezig te houden.
+Spelletjes van het soort: alle vogels vliegen, raadsels, spreekkoren die de leuzen van den dag
+inhouden of een lied waarvan andere komsomolzen in de zaal den text ronddeelen. Niemand denkt
+er aan om dat gek te vinden of kinderachtig, iedereen doet mee, iedereen heeft pleizier en de
+stemming zit er in als de vergadering aanvangt.
+Of elders lederen zomerdag stroomen duizende en tienduizende arbeiders in Moskau naar de parken
+voor kuituur en ontspanning. Waar vele groepen zich vereenigen op een open speelvvei werpen een
+paar komsomolzen zich op als leiders, vormen een kring, geven den pas aan en weldra danst oud en
+jong op de tonen der harmonika in den ronde. Op de turnplaatsen zijn het de komsomolzen die
+den liefhebbers de grepen aan brug, rek en ringen bijbrengen. In de eetzaal roept een komsomols de
+belangstellenden voor een exkursie naar de kweekerij op. En 's winters treden in datzelfde park de
+f M komsomolzen als instrukteurs op bij
+skiloopen, sleden en de wedstrij
+
+den op schaatsen over de Moskwa.
+B^ Dat komsomolzen
+_
+ir
+
+</text>
+<image timestamp="2002:09:27:16:41:40.00" size="470076">00000AUH.TIF</image>
+</page>
+</document>

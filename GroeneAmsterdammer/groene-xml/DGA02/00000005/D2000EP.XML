@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000318</Datum>
+<Pagina>10B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Rhodes aan 't woord.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 18 Maart 1900.
+Amst. Boek- en S teendrukkerij, v/h. EUerman, Harms &amp; Co.
+CECIL RHODES: &gt;Hare Majesteits vlag is in onze Handelszaken de grootste activa-post!"
+«Her Majesty's flag is the greatest commercial asset in the world."
+CECIL RHODES.
+
+</text>
+<image timestamp="2002:08:14:08:28:18.00" size="466558">D2000EP.TIF</image>
+</page>
+</document>

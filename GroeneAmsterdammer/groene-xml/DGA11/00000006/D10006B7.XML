@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270319</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+J* D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen ~. Crematie - Transporten
+Houdt in het oog . .
+
+dat slechts een kleine toevoeging van Maggi's
+Aroma noodig is, om flauwe soepen of jus een
+krachtigen, aangenamen smaak te geven, zoodat
+dus Maggi's Aroma in het gebruik buitenge
+
+woon billijk komt.
+MAGGI i AROMA
+Complete Badkamer
+van af f 285,—.
+Prima drukautomaat, Bad, Kranen, Bidet,
+Waschtafel met marmer en spiegel.
+
+G. J. DE KONINGSZOON
+Keizersgracht 447, A'dam
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+TEL. 43186.
+Speciale aanbieding.
+Graslinnen lakens
+zeer solide kwaliteit
+150 cl breed Gewone Zoom .. 12.95
+Getesteerd.. 3.35
+II. a jour ... 3.35
+180 c.M. Gewone lm.. 3.70
+Gefestonneerd-., 4.20
+II. a jour ... 4.20
+
+Staal franco op aanvrage.
+Uat Uw wascn
++ behandelen door de
+STOOMWASSCHERIJ
+HET ZUIDEN"
+PIETER AERTSZSTRAAT 68
+Droog toe 25 cent per K.G. of per
+stuk en opgemaakt. Billijk tarief.
+Aanbevelend, NEIDIG &amp;ZOON.
+BEGRAFENISVEREENIG1NG
+
+N. SAX Jr.
+F.C. HooftstTMt 38 AMSTERDAM Telef.: 20341, 34350
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+im
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BIJ ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+mhiiiiiiJUHirouNjiniiiiiiiJiuiiiiiiiiiiiimuniiijiiMiMMiCTiiiiiMimiiiim
+Wed JOHN GAY'S PICCALILLI
+N.V. DE HOUTTUINEN". AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H AMSTERDAM Tel. 42662
+MARMERWERKEN
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten"—Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+SCHOONMAAK-TUD
+is PALTH E-T'J D
+Het papier ten behoeve van dit biad f*
+wordt geleverd door de firma **•
+ROTTERDAM—GRONINGEN
+UTRE C HT AL M E L O.
+
+</text>
+<image timestamp="2002:09:21:02:31:24.00" size="115586">D10006B7.TIF</image>
+</page>
+</document>

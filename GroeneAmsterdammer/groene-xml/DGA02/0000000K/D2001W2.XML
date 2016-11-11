@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030607</Datum>
+<Pagina>11A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het finantiëel succes van den Amsterdamschen beursbouw.
+BIJVOEGSEL van fie Amsterdammer, Weekblad voor Nederland van 7 Juni 1903.
+-*?fl II II» "$•!
+;':/» « tri filjIpf
+Anist. Hoek- en Steenilrukkcrii. v h, KlJerman, Harms tV ('o.
+DE STEDEMAAGD: ,,Ze mogen de nieuwe beurs nu leelijk of mooi vinden, ik ben maar blij dat 't zoo'n goeie spaarpot is."
+
+
+MR. HEEMSKERK (Wethouder van Finantïcn): Heerlijk, Mevrouw!.... Och! 't valt op zoo'n gloeienden steen...,"
+
+</text>
+<image timestamp="2002:08:19:17:45:02.00" size="296314">D2001W2.TIF</image>
+</page>
+</document>

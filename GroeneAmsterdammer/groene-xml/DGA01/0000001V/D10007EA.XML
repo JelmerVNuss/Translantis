@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260313</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2545
+J. D. STRUIJS 6 Zn.
+P» C, Hooftstraat 140
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+Prinsengracht 837
+TEL. 37906
+FIRMA T. G. MEIJER
+&lt;?&gt;&lt;&gt;&lt;&gt; 2 Markten - GRONINGEN - Opgericht 1706
+SPECIALITEIT IN
+
+
+ECHTE GRONINGER KOEK
+van f l—, f 1.50, f2—£2.50, f3	enz.
+
+Franco per post 50 Cents verhooging
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+WIJ HANDHAVEN
+ONZE REPUTATSE:
+STEEDS HET BESTE"
+VOEREN W'J VAN HEDEN AF
+
+UITSLUITEND
+KNIPPATRONEN
+DE ELEGANTSTE SNIT
+GOEDKOOPSTE
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ainiimillllllinillllllllllllinillinillllllllimilll
+I ADRIAAN SCHAKEL I
+| HEILIGEWEG 11-17 - AMSTERDAM |
+
+l Overhemden naar Maat I
+| VERVAARDIGD OP EIGEN ATELIER |
+l Bij ons verkrijgbaar l
+I N. R. V. MONTA SCHOENEN I
+Wed. JOHN GAY'S Piccalilli
+
+blijft het mosterdzuur met de fijne pikante smaak!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. DE HOUTTUINEN" - AMSTERDAM
+AUG. KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+
+Speciale Aanbieding
+
+ZUIVER LINNEN TAFELGOED
+Servet 98 cent, Tafellakcn 130 165 c.M. f 5.50
+= Zuiver linnen handdoek 75 cent
+AMERICAN-HOTEL
+AMSTERDAM
+HOTEL 6 CAFÉ-RESTAURANT VAN DEN len RANG
+Groote en Kleine Zalen voor Vergaderingen, Diners enz.
+0
+0
+0
+0
+0
+0
+0
+&lt;3
+0
+0
+FIRMA KRONER
+
+Nieuwendijk 167, Amsterdam
+OPGERICHT 1847 - Telefoon 43186
+
+WITTE EN JAEGER FLANELLEN
+SPORT FLANELLEN IN DIVERSE KWALITEITEN
+BLAUW CHEVIOT VOOR JONGENSBROEKEN
+LEIDSCHE WOLLEN DEKENS
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+MULDERS
+
+TUINARCHITECT
+Gevers Deynootweg 117 Scheveningen
+TELEFOON 50810
+
+</text>
+<image timestamp="2002:09:25:03:52:33.00" size="152250">D10007EA.TIF</image>
+</page>
+</document>

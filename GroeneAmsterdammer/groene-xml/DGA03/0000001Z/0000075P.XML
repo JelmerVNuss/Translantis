@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281208</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 8 DECEMBER 1928
+No. 2688
+J. D. STRUIJS &amp; Ziu
+Prinsengracht 837 ~- Telefoon 37906
+Begrafenissen - Crematie - Transporten
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V, v/h. Gebr. B RE E N
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+BADKAMEBINRICIITn
+toowel eenvoudige als betere uitvoering,
+G. J. DE KONINGSZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+Half
+
+Gemengde
+Firma KRÖNER
+Nieowcndijk 167, Amsterdam
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+D.OBERINK
+
+Amsterdam, Prinsengracht 456. Tel. 37452
+
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+Een mooi boek van ANNIE SALOMONS
+DOOR
+Annie Salomons
+BALLINGEN
+Ingenaaid f 2,50 Gebonden f 3.25
+VAN HOLKEMA &amp; WARENDORF'S Uitg.-Mij. Amsterdam
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+j|iiiiiniiiii!iii.iini]i!iiiii!iiiiiiiiiiiniii!iniiiiiiiiiiiiiiiiiiiiiiii!iii^
+
+ADRIAAN SCHAKEL |
+HEILIGEWEG 15-17 |
+AMSTERDAM f
+
+Overhemden naar maat (
+Vervaardigd op eigen Ateliers
+BQ ons verkrijgbaar I
+
+N. R. V. MONTA SCHOENEN l
+E 3
+J~
+______	_	_	_
+W. R POLMAN TUIN!
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten * Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M AMSTERDAM - Tel. 42662
+MARMERWERKEN
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+
+Plaids
+Voetenzakken
+Auto-overschoenen f 30»'
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:20:06:45.00" size="144854">0000075P.TIF</image>
+</page>
+</document>

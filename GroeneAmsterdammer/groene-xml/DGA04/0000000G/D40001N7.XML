@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150228</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE DIERENTEMMER IN VERLEGENHEID
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 28 Februari 1915
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Ci
+John Buil: Daar had ik mijn Japanschen jockey nog wel zoo mooi Engelsch rijden geleerd, en nu
+gaat hij er op mijn Chineeschen draak van door, terwijl ik zelf hier mijn handen vol heb.
+
+</text>
+<image timestamp="2002:08:21:08:41:48.00" size="383095">D40001N7.TIF</image>
+</page>
+</document>

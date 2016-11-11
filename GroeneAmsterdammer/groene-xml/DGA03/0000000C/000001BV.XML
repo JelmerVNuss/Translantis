@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19080412</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+1UJYOEGSEL van [Je Amsterdammer, Weekblad voor Nederland van 12 April 1908.
+De eigen werkmaker en zijn schaduw.
+(De stopgezette Diamant-industrie).
+Amst. Koek- en Steendrukkerij, v/h. Ellermuu. Harms &amp; Co.
+HKNRI POLAK (tot Hartzi: Wat zullen wij' nu eigenlijk gaan vechten? Die daar die schaduw werpt, dien moeten wij te lijf!
+Di: KKa-:\\VERKMAKEK: Hola! dan ga ik liever met jullie mee!
+HART/,: Nou! als hij dat doet, vliegt meteen die leelijkc schaduw weg'
+
+</text>
+<image timestamp="2002:08:14:05:40:04.00" size="459880">000001BV.TIF</image>
+</page>
+</document>

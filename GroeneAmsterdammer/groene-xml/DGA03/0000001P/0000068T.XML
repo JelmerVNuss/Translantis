@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280121</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+j. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen " Crematie - Transporten
+M VEILINGGEBOUW DE ZO
+l L.- GIJSELMAN &amp; ZOON GEVESTIGD 1823
+| Singel 118—120 en Blauwburgwal 15 Amsterdam
+N" J
+Heden, Zondag en Maandag KIJKDAGEN van
+r
+KOSTBARE INBOEDELS ENZ.
+en vele
+gende dagen
+Veiling: Dinsdag 24 Januari en vele vo1
+Catalogus a 25 cent verkrijgbaar.
+Wed JOHN GAY'S PICCALILL1
+MJ1FT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. DE HOUTTUINEN". AMSTERDAM
+BEGRAFENISVEREENIGING
+N. SAX }r.
+P.G. Hooftstra*t 38 AMSTERDAM Tel«f.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+igilllHlllllllinilUlllllllllllllllllinNIIIIIIIIIIIIIIIIIIIIIIIIIIIIM
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers |
+L	jj=
+s
+Bty ooi verkrijgbaar i
+N. R, V, MONTA SCHOENEN |
+i i
+luiiiimKinniinnmininniiniüiiuiuuiiiniiiinuiHiiuiiiiuuiiiiiiiinuiiiuiuiuiiuiuiiiuuiniiiiuuuinuuuiiiiiiuiunuuiiuiiiuuuuiiiiiuiiiiiiiiiiiiilS
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+N.V, v/h. Gebr. BREEN
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT «4
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma RRÖNËR
+Nieowcndijk 167, Amsterdam
+Drostes
+\ferpleegsfc
+Cacao
+:ep
+DROSTES
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:03:16:08.00" size="101533">0000068T.TIF</image>
+</page>
+</document>

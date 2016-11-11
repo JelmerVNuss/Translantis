@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391007</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+&gt;*
+APELDOORN Hotel BLOEMINK
+r" *•*•»****•"» e ttrr„. G»r«ie en purdentullen. Matige tarieven. Telefoon 4141
+HOTEL GELINK
+M. •.r. T;. i R':sm
+DE KANOVIJVER
+Waterattractle*. Speeltuin, Kampeerterrein. Zeer lage prijzen
+l
+, l
+ELSPEET
+v^Li.
+.v.
+H«teI-Penal«n-K«st. IiAmDCWBD B K F U « I U M"
+Hotol-Peaston-Best. LANDQOKD STAKENBEBG"
+Nieuw» dlr. Ged. nieuw l.fer. Str. water op alle kamen. Centr. verwarming.
+(el. tsmlddsa M KA. el(M terr. Gar. vrij. Tennisbaan. Gelegenh. v. rvttenport.
+Mis fl. 8.5» tot n. 5.W». Prosp. op aenvr. Tel. EbpeM 3 (d. en n.)
+MIBDELBÜRüHOTEL DU COM|V!ERCE -Te|-94
+Modern comfort • ParKeerterrem vrij
+GERESERVEERD VOOR
+SPORTPARK F. C. DEN HARTIGH
+PUTTEN OP DE VELUWE
+DE JACHT IS OPEN
+DE MALLEJAN" (VIERHOUTEN)
+Weekend van Zaterdag v. d. tot Maandag n. Ontb. f. 9.
+Voor Hondenliefhebbers
+THE KOK'S KENNELS
+
+Scbolscha Terriërs • lersche Terriërs • Dilmatiërs
+Momenteel Schoteche «n larsche terriër pups disponlbel
+
+
+UorHorC Wederom eerste klas zwart-gele jongen af te geven
+nClUOl O uit de met vele prijzen bekroonde Qulda van Westergoo.
+Billijke prijzen. Verder prachtige Roode Angorakater ter dekking. Conditie fl. 7.50
+KENNEL WESTERGOO" Ibisstraat 24, Leeuwarden. Telefoon 5096
+Mevrouw C. P. BUNCKEL-DEKKINa Eig. Kennel of Joy
+
+ontvangt tijdens de vacantle gezonde honden en pension.
+Momenteel neexlfe rulfharlfe en (ladharlfe foxt.rrler-pupi te koop. Kamp. afat.
+Soendaplain 28 Haarlem Telefoon 17810
+•I11ITEHSI»OIIT
+1WI A M l? .P 17 AMSTERDAM : Vondelstraat 140,
+1V1 A IN £i V» Kt HAARLEM: Unnaeuslaan 21,
+. _.
+AU.
+tel. 80942
+tel. 10062
+HILVERSUM: Sparrelaan 16, tel 7224
+ROTTERDAM: KraJingsclte weg 120, tel. 50207
+N.V. VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+OPGERICHT A? 1894
+VERZEKERINGEN
+P&gt; ALLERLEI
+HOOFDKANTOOR :
+AMSTERDAM^., KEIZERSGRACHT 570
+KINDERTEHUIZEN^
+EN INTERNATEN
+• n fc. l •_• sT* txafl Hellp»ea«*o«f»ch Inatltnnt KTiEIW WABNSBOBN" l
+f\ K IM rl C PI Amst.W»g 222. Tel. 22012. Instituut v. moeilijke niet achterlijke kinderen, l
+~ •" m ™ • • ^^ • • •?! i.t_u__ i_.ii..i.i..»i __j-__. ^-____j_ ___ i __£* £ ia i B__	___.,_ •
+KI. klassen. Individueel onderw. Gezonde omg. Leeft. 6-18 |. Prop. op aanv
+'tH]ET KtilGE BOSCH". 5 H.A. eigen bosch, moestuin, klppenpark. l
+boomgaard. Elfen rijpurden. Desgewanscht rijlessen. Voor permanent «er- l
+b|„vtn&lt;|.n &lt;0.d. holen unwezlf. Referentie! v.n H.H. medici. Telef. 414. l
+BERGEN (N.H.)
+Kinderhuis ,,Elisabeth" Stroomerlaan 2. Ook voor oudere
+meisjes. Voor lanf er verbl. uitstek. schelen.Winter en Zomer (ei. bosch
+en zeelucht. Desgew. les In nuttige en fraaie handw.,handenarb.,piano.
+
+H ATTE M KINDERPENSION Oe Vofelsang"
+" •••••• ^fcfcrtl^.sfi.j,. jt «.DemeevanHeeieh.Tel.IS2. Pre
+Kindertehuis v. (en
+hoogste S kinderen
+Proep. en ref. op eanvr.
+HILVERSUM
+J U 8 T U 8 A. G K11 KON. Paedaffogiach adviseur,
+speciaal T. moellljk-opvoedbare jongens. Tel. 6M4.
+Consult na afspraak. Diependaalsche laan 188
+|/ATlJUIIt/ .... f FF KINDERHUIS GERTRUDE" Winter en zomer l
+HA l WIJK AAN Z.tt f eop. Uitstek, ref. Deak.verx.HiHsel.emg. Ruim huls. Bep. aant. l
+^^2____-—J-__^-I-I Mnd' ""•prl1*'Zn'PUTr1AN «" *• LEEUWEN.Tel. 42 Boulevard. |
+
+
+l Iflll |Pf%nPn l A AA Cf"M?DFKl Inrichting voor phvslsch-diaetetlsche therapie, l
+l aVWUKWHI/ l*f\t**y 3WCRCPI Beh. van Rhauma, stofwisselingsziekten, hart. l
+l vaatlijden, nerveuse stoornissen. Medische baden, stralentheraple, Ultra kortegolf. Eigen röntgen-lnst. l
+l enz. Unieke ligging In eigen bosschen van 200 H.A. DE GENEESHEER-DIRECTEUR l
+• llAlTiTDFtsJ (JJederwond) Uw kinderen op onze boerderij. Gezond en vol afwisseling.
+l IIN l rKtN i* 8.—tot f3.50 per dag. Bij langer verblijf prijs overeen te komen.
+faWH l 1-lli.H Inlichtingen bij J. H. Tennissen, Nederwoud bij Lunteren.
+NOORDWIJK AAN ZEE Kinderhuis »J°NG
+HOLLANDI1WUI%UIIUI% MMn C.LI. ,m zomer en wlntel. een opsjewekt,
+zonnig tehuis voor TJw kind. Tel. 80. Oranjewe( 2, Mevr.J.M.Hoogstraten—Romljn
+n t l r~ Bxl P aVI
+K M t N t IM
+" * * * ^ " ^ "^ * V
+o.l.v. Zr.
+kinderen.
+KINDERHUIS KIÏDEHVREUGD" l
+" C. KUILART. Gedlpl. verpl. en onderw. Opn. v. bep. aantal l
+1, voll. lag. onderw., llch. opv., handenarb. Doktersref. aanw l
+llflll/ . "7rr M A PP C AM AT KINDERVAOANTIE-EN i
+WIJK AAN ZEE MAKC 9AIMAI HERSTEI.I.ING800RD l
+wwuim nrtn •-•.•. Hu|MMlk.t(eerBesChutt.Humt.JOH*M.KRAAIJENHOF(Gedlpl.verpl.) l
+ZANDVOORT
+Kinder-tehuis FLOPKE'
+Pr. en hyg.
+verz. Ook
+Veget. Vrij duinen. Pr. ref. Vr. inl. en lijst v. ad r.
+voor Inf. Inf. voor Zandvoort Dr. C. j. Tichelaar. Leiding j. W. Daems-Heck Boulev.
+Barnaart I2a, tel.2970. Gezondh.-verkl. v. d. huisd. vereischt. Zomer en winter geop.
+RUSTHUIZEN
+ONDER DESKUNDIGE LEIDING
+DOETINCHEM
+RUSTHUIS Zr. H. E. KOUSMAN
+G r oo te tuin met ligstoelen. Varsseveldacbeweg 21. Tel. 668
+In dlr. nablfheld
+van bosschen.
+DOORN RUSTHUIS MARIJKE"
+~'^^%"*i^ Rustig gelegen In directe nabijheid der bosschen. Ref. van H.H. Doktoren |
+
+nmriJIIIO Bn"*nnl* KONNEWBEIJDE". midden In mooi Kennemerland; om haar
+II Hl t H IJ l o gemengde bosch- en zeelucht zeer aanbevolen d. H.H. Doctoren v. herstellenden.
+•*••• •-••»*•** Bejaarden uit den gegoeden stand vinden hier een gezellig en goed thuis.
+Zonneweetde" (landhuis), centr. verw. en voorz. v. str. w., is omgeven d. gr. tuin m. heerlijke zitjes en
+ligof zlttenten. Staat onder leiding v. gedlpl. verpleegster en verpleger. Vrije artskeuze. Is vanuit
+Amaterdam en Rotterdam elk half uur per trein te bereiken. Post en trein Driehuls. Tel. Santpoort Sil.
+
+
+HAARLEM R«»*üi« IDA S^s^-^iSi^^K1
+lemmerhout. Prosp. op aanvragel
+Zr. C. P. KORTEBOS
+HEEMSTEDE RUSTHUIS
+CONSTANTIA"~"**~*~'*"" tram en trein. In dlr. nabijh. v. bouch. Prima referentlën v. Med. en fam.
+KATWIJK AAN ZEE '
+• »niwil*l« ""'• ~'
+LOCHEM
+hoevenden. Med. ref. aanw. Zrs. VARKEVISSER en DEN HERTOG
+BELLA VISTA
+van bosschen. Gelegen dicht b IJ bus en trein. Klein aantal patiënten.
+
+
+(Enschede) Eerste Twentsche Rustoord. Oldenzaalschestraat 730.
+Centr. verw. W. en k. water, lift. Mooie omg. In dlr. nabijh. v. bosschen. Gr. tuin
+met lighallen. Gel. aan bushalte. Tel. Enschede 5919 (d. en n.) Zr. S. MULDER
+D 1 1 1 1 Dl n KUSTOORD QUISISANA.". Herstelllnesoord voor hentellenden,
+hulpKI|1JK|_1J behoevenden en ouden v. dagen. Gez. omgev. Dir. nabijheid van bosschen. Dieet
+nw^iaa-^ ,,. Medische referent. Zuster A. LEMS, Gedipl. Ziekenverpleegster. Telef. 101
+TWELLO Rusthuis Welgelegen tfaiSftlï'ïtVïSS:
+^^^^^^^^^^^^^^^ T«Iinfs voor rnstbeboevenden en berstenenden
+
+IajI/ACCEMA AD Rusthuis AMOKONA Backershagenlaan 30-32. Tel. 716303. Voor
+•• **«*«Cni*»**l\ herstellenden, bejaarden fdesgew. m. eigen meubelen), lichte zenuwpatiënten.
+Rustig, prettig tehuis. Pr. referentiën van H.H. Doctoren. Vr. prospectus. Zr. G. LA ROSE-PETERSEN
+l
+Handschrift-Analyse ± 20ongelinieerde
+regels in snel schrift m. handteekening.
+Opgave leeft. Nationaliteit, geslacht
+ber. te st. a. C. Adams, Aerdenhout.
+Strengste geheimh. Erv. uitgebr. on
+
+derzoek 0.2.50. Giro 351908.
+MARINA VAN GOUDZWAARD
+Eenig voor kinderen. Salon-Poppen
+
+kast, Buikspreken, Goochelen.
+Hyacintw»g 26, Tal. 339457, Dan Haag.
+PAG. 2 DE GROENE No. 3253
+
+</text>
+<image timestamp="2002:09:13:04:27:06.00" size="230622">D2004DE.TIF</image>
+</page>
+</document>

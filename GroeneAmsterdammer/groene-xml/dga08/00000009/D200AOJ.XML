@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340210</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Buick viert zijn T30 -jarig jubileum met
+het lanceeren van den 1934-Buick, een
+wonder van rij- en bestuurderscomfort.
+ASLOOZE VOORWIELOPHANGING
+Voorname distinctie in modernen stijl. 1934-Buick Club Sedan,
+model 61, met aangebouwden koffer en verbeterd Fisher
+tochtvrij ventilatiesysteem.
+Geen wagenmoeheid
+
+meer, want :
+
+A Het doorkippen in rijrichting van den
+' wagen wordt nu voorkomen door :
+1. Aslooze voorwielophanging.
+2. Een veering, die aan de
+gewichtsverdeeling is aangepast.
+3. Correct afremmen van den
+veeruitslag door de schokbrekers.
+D Het zijwaarts overzwaaien in
+bochten wordt verminderd door :
+Een stabilisator van de achterveering.
+P Trillingen, door oneffenheden van
+den weg veroorzaakt, worden vol
+
+komen opgenomen door :
+Het schroefveersysteem der voorwielen .
+Andere belangrijke
+mechanische verbeteringen :
+
+1. Vacuum-servorernmen 2. Automatische
+starter 3. Verbeterde stuurinrichting
+4. Vacuum-regeling der voorontsteking en
+octaan-regelaar 5. Alle versnellingen
+geruischloos 6. Verzwaard kruisbalk-chassis
+7. Aanmerkelijk krachtiger koplampen.
+• lT TTr^K " onc^er de voorname merken den
+naam met den besten klank - viert
+zijn 3o-jarig jubileum met het lanceeren van zijn prachtig
+1934-model, waarvan het schitterend uiterlijk slechts wordt
+overtroffen door een tot hiertoe nog niet bereikt rij comfort.
+Dit meesterstuk van vooruitstrevende techniek werd belichaamd
+in een massalen imposanten wagen die tegelijk, door zijn mo
+
+dern stroomlijneffect, een gedistingeerd eleganten indruk maakt.
+"Verreweg de beste Buick welke ooit werd gebouwd", is
+het oordeel van verschillende deskundigen, die reeds in de
+gelegenheid waren kennis te maken met den nieuwen Buick
+en hem aan den tand te voelen.
+
+Een boekje met volledige en gedetailleerde inlichtingen zal U gaarne en gratis worden toege
+
+zonden, indien U schrijft aan General Motors ContéS.A., 192-198, Kanaaldok, Antwerpen.
+Geheel nieuw ontworpen chassis
+Wel wetende dat een zoodanig rijcomfort met het
+gebruikelijke type vooras nooit te bereiken zou zijn
+geweest, hebben de Buick-ingenieurs er niet tegen
+op gezien de constructie van het geheele chassis
+totaal te wijzigen.
+
+Zij besloten tot ASLOOZE
+VOORWIELOPHAN• GING over te gaan, omdat daarbij de taak
+der voorveeren zich tot haar eigenlijke functie, de
+veering van het voorste gedeelte van den wagen,
+beperkt. Met de vroegere vooras daarentegen moesten
+de veeren te stijf gemaakt worden, omdat zij i. de
+eenige verbinding vormden tusschen vooras en
+chassisraam en 2. bovendien alle remkrachtreacties
+Nieuw systeem voorirein met onafhankelijk geveerde wielen
+
+</text>
+<image timestamp="2002:10:28:06:10:38.00" size="220281">D200AOJ.TIF</image>
+</page>
+</document>

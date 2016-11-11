@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320924</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wanneer deze annonce U tot ons brengt.
+dan wandelt U dezen winter in 'n prachtjas!
+ERVAREN
+
+COUPEURS*
+•" "'""IJSB8
+hebben voor U een buitengewoon^
+aantrekkelijke collectie winterjassen
+gereed gemaakt.
+Vlotte, royale, warme jassen!
+Ziet ze, voelt die stoffen eens aan!
+Wat 'n coupe, wat een afwerking!
+Echt van den Brul: U weet wel dat
+oer-degelijke werk en	niet te duur,
+zoowel voor maatwerk als confectie.
+Onze confectie-afdeeling
+staat bekend om haar
+uitgebreide sorteering
+en smaakvolle coupe.
+AMSTERDAM
+NIEUWENDUK 184 tegenover de Beurspassage
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+TELEFOON 35533
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+de uitki
+Dagelijks2.30,7.30,9.30
+FILM EN MODERNE
+MUZIEK
+k
+prinsengracht bij
+de leidschestraat
+telefoon 3746
+BATIKKEN.
+
+Bekend atelier werkzaam voor
+
+
+eerste klasse firma's
+
+is nog in de gelegenheid werk
+aan te nemen.
+
+ZrCHTZENDING op aanvrage.
+Tevens gelegenheid tot het g even
+van Batiklessen.
+Brieven Letter G, De Groene.
+Boeken voor kleine kinderen.
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd door
+
+R O K O P U l T
+Ro Kopuit heefteen snoepgoed je
+samengebracht, met suiker en
+honing, met koek en melk. Het wordt
+een feestgebakje voor de kleinen,
+heerlijk geurend en lekkersmakend.
+Niet een zal den neus van over de
+bladen willen doen als hij niet alles
+weet wat er op verteld staat, van
+naaldeken tot draadje.
+Dagblad Vooruit, Genl
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+TAYLORIX
+[BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+VRAAGT BROCHURE AAN
+BUREAU WITTEVEEN
+Paramariboplein 58
+A'D AM Tel. 84751
+Prij* gebonden F. 1.50
+In eiken boekhandel verkrijgbaar
+Zij t Gij nog niet geabonneerd?
+Vul dan den bon in op pagina 3 van het omslag
+
+</text>
+<image timestamp="2002:09:27:09:06:10.00" size="137743">00000ALK.TIF</image>
+</page>
+</document>

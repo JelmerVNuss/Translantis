@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261225</Datum>
+<Pagina>36</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2586
+X
+LIJ
+STOOMWASSCHERIJ
+,H E T ZUIDEN"
+PIETER AERTSZSTRAAT 68—74
+Telefoon 22365
+is uw adres voor het behandelen uwer
+wasch, zoowel droog toegeslagen als
+opgemaakt. Concurreerende prijzen en
+spoedige aflevering. Vraagt prijsopgave.
+NEIDIG &amp; VAN ELVEN.
+Doos30-60-90ct.Tube80ct
+Bij Apoth.en Drogisten,
+Schitterend van klank - Schitterend van model - Schitterend van uitvoering
+In Uw interieur hoort alleen een
+
+"His Master s Voice
+ANDERE gramophones kosten misschien
+minder .—omdat ze minder goed zijn.
+De "His Master's Voice" staat nog steeds
+aan de spits en geen ander merk heeft ooit
+haar kwaliteit kunnen evenaarden. Indien U
+het eenige instrument wilt hebben dat muziek
+en declamatie met absolute getrouwheid
+weergeeft; indien U het eenige instrument
+wilt hebben dat Uw home gezelliger en
+mooier maakt; indien U de eenige
+gramophone wilt hebben die zoowel de hoogste
+noten als de laagste bastonen even duidelijk
+weergeeft, dan KUNT U niet anders kiezen
+dan de "HIS MASTER'S VOICE".
+De NEW "His Master's Voice" speelt
+muziek zooals geen ander instrument dat kan.
+Het klankvolume is 50 % grooter, het geeft
+24- octaaf meer weer en men krijgt nu voor het
+eerst zoo'n realistische weergave dat men zich
+verbeeldt werkelijk een concert te hooren.
+Sir EDWARD ELGAR zegt:
+,,Het is zonder eenige twijfel de belangrijkste
+uitvinding in de geschiedenis van de Gramophone"
+De NEW
+
+"His Master s Voice
+DE GRAMOPHONE WAARBIJ ALLE HINDERLIJK GEDRUISCH VERDWENEN IS
+MODELLEN VARIEEREN IN PRIJS VAN Fl. 105.—TOT Fl. 1400.
+Vraagt volledige inlichtingen bij onze geaccrediteerde agenten;
+lijst van deze agenten en catalogi gratis en franco op aanvrage.
+N.V. DUTCH GRAMOPHONE COMPANY
+22a, AMSTERDAMSCHE VEERKADE
+EENIG IMPORTEUR: N.V. ,,R. A. M. I."
+LEEUWARDEN V/H FIRMA NAUTA
+AMSTERDAM, N.Z. VOORBURGWAL 75A-77
+50 MODELLEN IN NOTEN- EN EIKENHOUT
+DETAILVERKOOP VOOR AMSTERDAM:
+P. BOBELDIJK, ROZENGRACHT 63 TEL. 34212
+DEN HAAG
+AGENTSCHAPPEN DOOR
+HET OEHEELE LAND
+
+</text>
+<image timestamp="2002:09:26:13:19:29.00" size="184803">D100088S.TIF</image>
+</page>
+</document>

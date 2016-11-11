@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040403</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ne. 1397
+DEAMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Me^asseh Ben Israël.
+van humaniteit en veelzijdige talenten.
+Onder de godgeleerden % worden ook
+de groote andersdenkenden en wijsgeeren
+vermeld en in beeld opgenomen. Hun
+ver reikenden invloed op de beschaving
+en humaniteit wordt hulde gebracht.
+Spinoza, Descartes, Balthazar Bekker,
+pastoor Marius, Menno Simons, De
+Labadie, Antoinette Bourignon, Jansenius,
+Codde, Menasseh ben Israël worden be
+
+schouwd en afgebeeld.
+Voor Nederlanders, die belangstellen
+in het ontstaan en de lotgevallen van
+de kerkgebouwen van velerlei .richting
+te Amsterdam, soms van verdwenen
+sekten, is in de essay van prof. Rogge
+allerlei wetenschap op te doen.
+Er zijn ook een aantal reproducties
+van oude spotprenten en afbeeldingen
+van godsdienstoefeningen in den tekst
+of afzonderlijk opgenomen.
+Het laatste hoofdstuk dezer afdeeling
+van Amsterdam in de Zeventiende Eeuw"
+behandelt de Instellingen van Liefdadig
+
+heid", o. a. geïllustreerd door reproducties
+naar de schilderijen door Werner van
+Valckert,op het Rijksmuseum.
+
+A. C. LOFFELT.
+Brand van de Menwe Kerk.
+AmSTERDAm
+AARDËUERK
+EM TEGELS
+,(-•
+*•
+' '
+J. J. BIESING,
+Htinsthtntttel.
+'s-GRAVENHAGE,
+Molenstraat 65,6óA en 61
+Moderne Schilderijen,
+Aquarelten en Gravures.
+zijn s maakvol, modern
+zeer concurreerend. Afbeeldingen
+beschrijvingen me
+^,-•-..'.„. "•- . •* A
+Filiaal O % «l RAK 7«.
+Cornelius Jansenius.
+
+</text>
+<image timestamp="2002:08:15:03:01:48.00" size="691910">D10000C0.TIF</image>
+</page>
+</document>

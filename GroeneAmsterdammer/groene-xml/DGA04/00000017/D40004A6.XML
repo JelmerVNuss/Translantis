@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19221125</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+25 Nov. '22. No. 2370
+EEN FRA.NSCHE DICHTER. ^0161 DWI1 BR 0331
+DAAL
+CHARLES VILDRAC. Livre d'Amour, *
+Découvertes. Chants du Désespéré.
+
+Charles Vildrac, de nu veertigjarige
+Fransche dichter, stamt uit het volk. Zijn eerste
+onderricht heeft hij gehad in een van de volste
+wijken van Parijs op een school waar zijn
+moeder onderwijzeres was.
+Dan gaat hij tot zijn zeventiende jaar naar
+het Gymnasium en daarna is hij een tijdlang
+secretaris van een advocaat. Als hij achttien
+jaar is begint hij in jonge tijdschriften zijn
+verzen te pubiiceeren en hij droomt in zijn
+eersten bundel (Poèmes, 1905) van een abdij,
+die een soort gemeenschap zou zijn van dich
+
+ters en andere kunstenaars. In 1907 wordt te
+Créteil aan de Marne door Duhamel, Vildrac,
+Arcos en eenige anderen inderdaad een abdij
+gesticht. Een drukkerij wordt er in opgericht,
+die den kunstenaars een bestaan moet ver
+
+schaffen en l' Abbaye, groupe fraternel
+d'artistes" drukt een twintigtal boeken. Maar
+reeds in het tweede jaar van haar bestaan moet
+'de gemeenschap door gebrek aan geld opge
+
+heven worden.
+In 1910 publiceert Vildrac de eerste
+gedeeltelijke uitgave van zijn Livre
+d'Amour waarin amour de wijde beteekenis heeft
+van liefde voor de menschheid. In hetzelfde
+jaar schrijft hij met Duhamel: Notes sur la
+Technique poétique. In 1912 verschijnt zijn
+bundel Découvertes, een verzameling in
+rhythmisch proza geschreven impressies, die
+even doen denken aan de Petits Poèmes en
+Prose van Baudelaire en aan de Mémoires
+d'un Veuf van Verlaine. In 1914 komt een
+vermeerderde druk uit van zijn Livre
+d'Amour. Na den oorlog, dien hij geheel mee
+
+maakt, eerst als infanterist, lattr als
+brancardier" publiceert hij een tooneelstuk:
+La Paquebot Tenacity, dat reeds meer dan
+honderd opvoeringen beleefde in ,,le Théatre
+du Vieux Colombier" te Parijs, dat in vele
+talen vertaald is en waarvan het
+opvoeringsrecht ook voor Nederland is aangekocht.
+In 1920 verschijnen Chants du Désespéré,
+verzen, die zijn oorlogsindrukken weergeven ;
+in 1921 schrijft hij nog een tooneelstuk:
+Michel Adair.
+
+Vildrac heeft meegebracht uit zijn jeugd:
+liefde voor het vjlk en bewondering voor hun
+kleine leven en die liefde is uitgedijd tot een
+algemeene menschenliefde en tot een groote
+deernis met alles wat lijdt. Wij vinden in
+Vildrac die genegenheid voor de menschen en
+die behoefte hun geluk of troost te brengen,
+die sedert meer dan twintig jaar zulke sterke
+gevoelens geworden zijn in de Fransche
+litteratuur. Anatole France heeft het dikwijls
+gezegd, dat we ons boven alle kleinheid moeten
+heffen door de liefde voor onze medemenschen
+en door ons medelijden met hen. En bij den
+jonggestorven schrijver CharlesLouis Philippe,
+wiens invloed Vildrac en veel van zijn
+tijdgenooten hebben ondergaan, zien wij het mede
+
+lijden als tot een hartstocht worden.
+J'aime toutes les choses", zegt Philippe
+in een van zijn brieven, ,,mais j'aime surtout
+ce qui souffre. D'une belle jeune fille et de sa
+grand' mère, je préféréla grand' mère parce
+qu'elle est vieille, qu'elle souffre et qu'elle
+va bientöt mourir. Je préféréla grand' mère,
+parce que comme je te Ie disais, mon coeur
+s'est habituéa vivre dans une haute
+atmosphère ou il y a surtout de la bonté".
+J'aime toutes les choses", ook Vildrac
+zou dit kunnen zeggen. Het uiterlijke en het
+innerlijke leven tot in hun kleinste schakee
+
+ringen vindt hij belangrijk en hij wil die scha
+
+keeringen zoo onmiddellijk mogelijk uit
+
+drukken in zijn verzen. Niet redeneeren wil
+hij; de vluchtige maar toch groote gebeurtenis,
+de vluchtige maar toch diepe indruk moeten
+hun vluchtigheid behouden, niet verstard en
+verkild moeten zij worden door diepzinnig
+gepraat.
+Daarom rekende Jules Romains die een
+tiental jaren geleden een nieuwe litteraire
+Het geheele jaar geopend. Centr. verwarmd.
+school stichtte: l'Unanisme, Vildrac tot de
+zijnen. Immers een van de theorieën der
+Unanisten was, dat zij onmiddellijk de werkelijk
+
+heid wilden uitdrukken, zóals zij die
+intuïtief voelden. Zij wilden niet tusschen het
+leven en zichzelf het scherm van de abstracte
+rede stellen.
+Nu zijn het echter niet de Unanisten, aie de
+waardeering van de vluchtige indrukken' en
+vluchtige gevoelsnuances hebben gebracht
+in de Fransche litteratuur. In de poëzie is
+hst Verlaine en in het proza zijn het de
+Goncourts, die het snel bewegende, het steeds wis
+
+selende van onze aandoeningen als het ware ont
+
+dekten endiegetrachthebben iets vandat vlie
+
+dende, dat toch het eigenlijke van ons wezen
+uitmaakt,evenaanteduiden. En inde
+philosofie is het Henri Bergson, die al sedert meer dan
+dertig jaar veel van zijn psychologische ana
+
+lysen grondt op het bewustzijn van de voort
+
+durende beweging, van het eindeloos schep
+
+pend veranderen der persoonlijkheid. Vildrac
+heeft evenwel dit bijzondere dat zijn innigste
+gevoelsnuances dikwijls teweeg worden ge
+
+bracht doorzeereenvoudige, zeer alledaagsche,
+kleine gebeurtenissen en hij is er te
+menschelijker om.,,11 est si naturellement lui-même,"
+zei Duhamel van hem.
+Hoe is nu Vildrac, zoo, als we hem leeren
+kennen uit de emoties, die hij noteert in zijn
+verzen en in zijn rhythmisch proza?
+Hij wil vór alles zijn: mensen en niet
+kunstenaar. Wat wii dat eigenlijk zeggen,
+vraagt hij zich af, dat zijn van pur poète"?
+De dichters doen toch immers als de anderen:
+wanneer het weer niet heel zeker is nemen ze
+hun paraplu mee en als ze hun vervoeringen
+verzameld en uitgegeven hebben, loopen ze
+hard om te hooren wat men van hen zegt.
+En dat praten over het innerlijke leven en
+over de schoonheid, waartoe dient het?
+Men heeft het te lang en te veel gedaan en de
+dichters hebben getracht zich mooier voor te
+doen in hun werk dan zij in hun leven waren.
+
+Je suis las des gestes intérieurs!
+Je suis las des départs intérieurs !
+Et de l' heroïsme a coups de plume
+Et d'ime beautétoute en formules.
+je suis hontetix de mentir a mon oeuvre
+Et que mon oeuvre meute a ma vie....
+Hii wil niet hoogmoedig zicli afzonderen,
+hij wil meedoen met de anderen, handelen en
+strijden in liet leven:
+Une vie dans Ie vent toutes voiles dehors,
+Chair, esprit et coeur et les yeux, -—extase ou
+larmes
+Oh oui, furieusement, toutes voiles dehors:
+Une vie sans rien de commun avec la mort. .
+Als hij gestorven zal zijn, zegt hij in een
+van zijn prozastukken, dan nóg wil hij mee
+
+doen met het leven. Zijn schedel zal staan in
+de kamer van een vriend en wanneer een
+kind dien schedel in zijn handen neemt als een
+groot ei en er zich mee amuseert, moet men het
+laten begaan en wanneer een kind vraagt om
+luisterend zijn oor te mogen leggen tegen deze
+wanstaltige, groote schelp moet men het die
+geven.
+Vildrac, die zelf zoo volledig mogelijk mensch
+wilzijn, vraagtookdeanderendaarnaar te stre
+
+ven. Laten wij trachtenallesenallen lief te
+hehbjnentebegrijpen. Schaam je niet -zegt hij'
+te laten zien in jezelf het jonge meisje en de
+moeder, die je moeder eens is geweest en het
+kind, dal je geweest bent en dat je toch altijd
+blijft en schaam je niet al die anderen te zijn
+op wie je je oogen in het voorbijgaan hebt
+late-n rusten. Doe toch geen afstand van welk
+aanschijn ook van je: je moet nog veel ge
+
+zichten leeren" - 'je moet nog veel soorten
+van menschen kunnen zijn om beter en meer
+volledig mensch te kunnen worden, om een
+mensch te kunnen worden, wiens leven breed
+en ver uitstraalt, die niemand en niets zoekt
+te ontwijken, die rustig ademt in alle huizen.
+Laten wij eerst trachten te begrijpen al het
+leed, dat er geleden wordt. Het bewustzijn
+van dat vele leed gaat met Vildrac overal mee :
+zoo denkt hij 's nachts aan al die ongelukkigen,
+al die duizenden ongelukkigen, die in dien
+nacht zullen sterven over de geheele wereld
+heen. Hij ziet het onrustige bewegen van hun
+bloedelooze handen, angstig hoort hij hun
+doodsstrijd aan en de andere menschen, vraagt
+hij zich af, hoe kunnen zij slapen?
+Hij weet het goed hoeveel leed de dood
+overal brengt.
+Hij ziet een armen voerman naast zijn kar,
+een winkelier in zijn donkeren winkel, een rijke
+in zijn park en die drie mannen, die niet de
+
+zelfde kleercn dragen, die niet eten hetzelfde
+eten, die niet spreken op dezelfde manier, die
+niet dezelfde huizen, noch dezelfde vrouwen
+kennen, zij kennen hetzelfde verdriet: aan al
+deze drie heeft de dood een kind ontnomen.
+Vildrac wendt zich dan tot een vrouw en hij
+zegt haar: als die drie mannen in het donker
+zaten op een bank, achter je en als je dan voor
+hen het liedje zong:
+Cette chanson, t u sais, de l'homme aux pas
+menus
+Qui va les pieds dans l'eau et les paules nues,
+Qui va dans la nuit apre et criarde,
+Mais qui est bien heureux de couver des yeux
+Et de bercer en Ie portant
+Son petit enfant
+Roulébien au chaud
+Dans son gros paletot....
+als je dat zong voor die drie mannen, zou je
+misschien niets hooren in de duisternis dan
+het gesmoorde geluid van een enkelen snik.
+Maar niet alleen de dood brengt leed. Ook
+zonder hem is dikwijls het leven zwaar
+zwaar vooral is het leven van het volk.
+Le Peuple est vaste, obscur et inclin
+Inclinétoujours,
+Sur Ie labeur et sur la pitance et sur les
+berceaux.
+Hard moet het zwoegen en weinig vreugde
+kent het. Vildrac ziet de arbeiders, die hun
+mooie dagen doorbrengen in vuile fabrieken;
+n spreekt er, hij haat zijn patroon. Waarom?
+Niet omdat deze hem zijn vrijheid en zijn on
+
+afhankelijkheid heeft ontnomen, maar omdat
+hij hem niet heeft kunnen leeren het werk, dat
+hij moet doen, lief te hebben. De patroon
+heeft dat werk inniers zelf niet lief... .Dan is
+de dichter blij, als hij het volk een oogenblik
+vroolijk ziet,als hij ziet hoe twee arbeiders
+samen drinken en blij praten en hoe zij dat
+helleveeg-achtige leven even vergeten. Hij
+wil er dan niet aan denken, dat zij misschien
+op een ander oogenblik elkaar boos zullen
+aankijken als zij samen staan voor een deur
+waar zij beide tegelijk niet door kunnen,
+hij wil alleen maar dankbaar zijn voor hun
+vroolijkheid.
+Er moge dan veel leed zijn, toch is er diep
+in Vildrac een teedere blijdschap om de
+schoonheid van het leven. Schoonheid is er
+bijvoorbeeld in de gevoelens der menschen.
+Hoeveel geluk kunnen wij, onvolmaakten
+allen, elkaar geven! En dan vertelt Vildrac
+van een vriendschap, die hem vreugde brengt:
+
+II y a aussi chez tui et chez moi,
+Comme chez tous, des choses qui manquent:
+C'est telle variétéde plan te,
+Que je n'ai pas dans mon jardin,
+Ou c'est telle arme po u r Ja hitte
+Que tu ne sens pas sous ta main ;
+Or il advient toujours, pour notre bonheur,
+Que moi je dispose de cettc arme,
+Que tu es tout fleuri, toi, de ces fleurs..
+Geluk is er echter vooral in de bijna on
+
+merkbare, kleine gebeurtenissen van het leven.
+Het leven bestaat uit tallooze kleine momenten,
+die zich aaneenschakelen en die ons nu eens
+even treurig, dan weer even gelukkig maken
+en de indruk, dien wij krijgen, soms dooreen
+enkel woord, door een enkel gebaar, is voor
+ons dikwijls van een onmetelijke belangrijk
+
+heid. In zijn proza gaat Vildrac, uitgebreider
+dan in zijn verzen, die nuances noteere.i. Hij
+heeft een triesten dag gehad. Waarom?
+'s Morgens kreeg hij een boozen brief van een
+vriend waarop hij dadelijk, boos, heeft geant
+
+woord; hij heeft gewacht op een anderen
+vriend, die niet is gekomen Toen is hij uit
+
+gegaan in een regen, die niet ophield, hij is
+dwaas gevallen in de modderen twee aardige
+jonge meisjes hebben om Jiem gelachen.
+In de volte is hij ruw geduwd; iemand dien
+hij wilde bezoeken heeft hem niet ontvangen ;
+hij heeft iets gekocht en thuisgekomen ziet hij,
+dat de winkelier hem bedrogen heeft. Hij waclit
+dan, wanhopig, op het einde van dezen
+vijandigen en killen dag. Als nu die jonge meisjes
+maar niet gelachen hadden, als er maar iemand
+geweest was, die zijn hoed had opgeraapt,
+en gevraagd had Hebt u u geen pijn gedaan"?
+Plotseling wordt er geklopt aan zijn deur, het
+is zijn buurman, dien hij nauwelijks kent en die
+vriendelijk en zorgzaam hem een mandje met
+appels komt brengen. Opeens is het aanschijn
+van de wereld veranderd. Terwijl de dichter
+voorzichtig de vruchten een voor een op de
+tafel legt, ziet hij nog wat modder op zijn jas
+en glimlachend denkt hij aan zijn val en hij
+ziet de jonge meisjes weer voor zich. Neen,
+hun lachen was niet onaardig. Als hij niet had
+kunnen opstaan zouden zij hem immers ont
+
+steld en medelijdend geholpen hebben. En die
+brief van zijn vriend? Och, die was in boos
+
+heid geschreven en booze woorden zijn niet
+ernstig gemeend en niet blijvend.
+Eigenlijk zijn de menschen en vooral de
+eenvoudige menschen goed. Vildrac merkt het
+telkens wanneer hij loopt door Parijs. Vrien
+
+delijk helpen arbeiders elkaar voort, behulp
+
+zaam zoeken een paar mannen uit het volk
+een straat voor hem op, die hij niet kan vinden
+en zelfs een knorrig uitziende burger zal hem
+vuur geven als hij er beleefd om vraagt en
+samen zullen zij een glimlach wisselen.
+Ah ! je touche une fois de plus l' humble
+tresor sur Ie que l nous devons fonder. 11
+n'est pas secret, il ne se dissimule pas: comme
+l'ai r et la lumiëre, ilest ostensible et partout".
+Diep ontroeren kunnen hemde menschen,
+die hij zoo maar even langs zich heen ziet
+gaan. Vildrac bezoekt een vriend bij wien hij
+een onbekende ontmoet. Hij vertelt hoe zij
+elkaar groeten, elkaar in de oogen zien, elkaar
+hun stemmen openbaren:
+C'est gauche, empressé, passionnécomme
+les premiers pas". Veel praten zij, zij hebben
+elkaar alles te zeggen, in haast. Zij zijn twee
+schepen, die elkaar kruisen voor de eerste maal
+en die niet weten of ze ooit nog in een haven
+naast elkaar zullen liggen of ze ooit samen
+zullen varen. Uu homme de plus," zegt Vil
+
+drac en hij vertrekt stralend na deze schoone
+gebeurtenis.
+Veel menschen kent hij en alle zijn zij waard
+gekend te worden. Geen twee eendere stem
+
+men, geen beeld dat tweemaal komt. Hij wil
+niemand vergeten vaa hen, die hij eens heeft
+gekend. Hij zou willen terugvinden en be
+
+waren hen, die hij verloren heeft en hij zou
+willen, dat de nieuwgekornenen geen plaats
+
+vervangers waren. Als hij alleen is noemt hij
+soms bij zichzelf op, alle menschen, die hij
+kent. Ainsi j'évoque dix,vingt, cent visages et
+beaucoup plus. Je suis riche et avare et
+insatiable et ris a la certitude de m'enrichir
+encore". . . .
+Maar dan bedenkt hij, met iets van wee
+
+moed, dat de mensclKn over de geheele we
+
+reld heen, talrijk zijn als de hoornen en hij be
+
+denkt, dat er onmetelijke wouden zijn, waar
+hij nooit doorheen zal trekken en die hij zelfs
+nooit met zijn blik zal omvatten.
+Htftig heeft deze dichter, die zoo sterk
+eiken indruk ondergaat, toen hij soldaat
+was, het leed van den oorlog gevoeld.
+In zijn ,,Chants d'un Désespéré" ver
+
+telt hij hoe hij elk ander leven liever zou
+hebben geleefd dan het soldatenleven. Hij
+zou de grijsaard willen zijn, dien hij aan den
+weg heeft zien zitten in de zon en die steenen
+bikte: men vraagt hem niets dan zijn eenzaam
+werk. Hij zou willen leven in een vergeten
+steengroeve, waar maar even licht is en wat
+zachte i\a.n en waar men soms een enkelen
+vogel hoort. Hij zou de blinde willen zijn in
+het kerkportaal, want die is het gelukkige
+wrak, getrokken uit den somberen stroom
+die hem niet meer mee kan sleuren in zijn
+haat en in zijn modder.
+En eindelijk
+Je voudrais avoir t
+Le premier soldat tombe
+Le premier jour de la guerre.
+De oorlog blijft levend en zwaar in hem als
+een ziekte, die niet is te genezen en er is bitter
+
+heid in zijn toon gekomen. Maar zijn geloof
+in de menschheid heeft hij toch niet verloren.
+Plein de mort et plein d'amour
+Je chante, je chante !
+•
+C'est ma chance et ma richesse
+D'avoir dans mon coeur
+Toujours brülant et fidele
+Et pret a jaillir
+Ce blanc rayon qui poudroie
+Sur toute souffrance,
+Ce cri de miséricorde
+Sur chaque bonheur.
+Hij droomt van een overwinning, die er
+niet een van de wapenen zal zijn. Immers de
+ware overwinning van een volk is in de
+schoonheid, die het de wereld toereikt, in
+zijn manier van willen, in de wijze waarop het
+liefheeft en waarop het zijn stem verheft, in
+het genie van zijn arbeiders, in het geduld
+van zijn 'boeren, in de lessen van zijn wijzen
+en in zijn kunst, die als de wijn plaatselijk
+is, maar die den dorst van de menschen
+van overal kan lesschen. En Vildrac wil
+helpen om een dergelijke overwinning moge
+
+lijk te maken door te strijden tegen het
+militairisme en vór de rechten van de
+onderdrukten.
+
+Zoo vinden wij in Vildrac een dichter
+en er zijn er zóvele nu in Frankrijk die
+niet zichzelf wil analyseeren en vertellen
+terwille van zichzelf. Hij keert zich vooral naai
+
+de anderen en hij beziet ze met een teedere
+welwillendheid, die tracht mee te voelen en
+te helpen. Niet kwaad zijn vooral de een
+
+voudige menschen en mooi is het leven on
+
+danks het vele leed, dat het omnevelt. Mooi
+is het leven vooral in zijn kleine nuances
+waarin de diepe ziel der menschheid wordt
+geopenbaard. Weinig verschil is er tusschen
+de menschen onderling. Ook tusschen den
+dichter en de anderen is er weinig verschil;
+deze dichter wil zich niet boven hen stellen,
+niet op zij van de gemeenschap wil hij leven,
+niets anders dan een mensch onder de men
+
+schen wil hij zijn.
+W. MARKU s—P o E L s
+HETBOEK
+VAN DE WEEK
+Het Eeuwige Licht
+DOOR
+PETER ROSEOGER.
+5de druk.
+Oocdkoope uitgave.
+
+Prijs in linnen band f 1.50.
+Geïllustreerd omslag van
+OEOKGE VAN RAEMDONCK.
+I-ïisch als de bergwind, gezond als de
+bergbewoners, eenvoudig als de
+bergweiden en bekoorlijk als het berglandschap, is
+dit boek. Een onopgesmukt verhaal uit het
+volksleven, dat volgroeid is tot een aan
+
+grijpend kunstwerk. Zutf. Courant
+Uitgave van VAN HOLKEMA i WARENDORF, A'dam
+
+ituiiiiiiiiiiuiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiiiiiiiiiHiiii	iiinii	IIIIMIIIIIIIIIIIHIIMIH
+DE BONT &amp; LEYTEN's
+
+AMAROMA
+SURFIJNE CHOCOLADE CROQUET
+Alleen verkrijgbaar bij Banketbakkers
+HJASPIBOMMB:
+BOEKBINDER
+KERKSTRAAT 55
+AMSTBRDAM
+VANRurrs
+MOSTERD
+MOSTERDPOEDER
+l	mi	l	"i"	"u	•	""	l	Il	"' miimi	iiiiiiiiuiiiiiiiuiiiiiiiiiuitiiiiiiiiiiiiiiiiiiiiiiiiiiiiuiuiiiiiiiiiiiniiiiuiliuillimilu
+DE PLATEN UIT HET
+KERSTNUMMER DER
+HAAGSCHE POST
+Extra Voedzaam Brood
+voor Suikerzieken.
+L. GANTVOORT. - DEVENTER.
+Meel voor zelfbereïding van h®t brood en voor
+ksuiiengebralk verkrijgbaar,
+YEAAÖT MONSTEKS EN PBIJSCOUBAflT.
+worden smaakvol o m l ij s t bij
+
+G. J. STEGEMAN,
+
+Overtoom 163 Tel. Z. 8292
+Zeer geschikt voor
+ST. NICOLAAS en
+KERSTGESCHENK
+A. KOGELS en ZOON
+DEN HAAG AMSTERDAM
+Prinsestraat 52-56-60 Leidschestraat 13
+UTRECHT
+Oudkerkhof 38
+ROTTERDAM ARNHEM
+Schiedamsche Singel 3-4 Ketelstraat 19
+f 16.50
+Stoomwasscherij Het Zuiden
+PIETER AEBTSZSTRAAT 68-7 i
+TELEFOON 2385 Zuil)
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen Is opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbevelend MEIDI8&amp; VAN ELVEN.
+GOOSEPU
+SWA6ERMAN
+Verricht al Uw schrijfwerk
+met een
+Swaii" Vul-Penhouder
+en
+
+Swan"Inkt
+
+Geen andere combinatie is
+zoo betrouwbaar, zoo zin
+
+delijk, zoo spaarzaam, zoo
+zeker, om in alle opzichten
+te voldoen
+
+PRIJZEN:
+SWAN" Vulpennen vanaf f 8,50 en hooger
+SWAN" Inkt	f 0,75
+ALOM VERKRIJGBAAR
+
+Hoofd-Agentschap:
+
+VULPEN Import Mij, v/h. Gebr. Polak
+Groote Markt 10 - Rotterdam
+niustratlednik-papier van de Firma C O. A. CORVEY, Keizersgracht 255, Amsterdam, Tel. N. 1202 en 585
+
+</text>
+<image timestamp="2002:08:26:01:07:26.00" size="439261">D40004A6.TIF</image>
+</page>
+</document>

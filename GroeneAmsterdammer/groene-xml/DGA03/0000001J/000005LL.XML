@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>40</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+40
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2500
+MY VALET FROM LONDON"
+WETTIG GEDEPONEERD
+COSTUUM CHEM. REINIGEN en PERSEN	f 2.50
+COSTÜUM MODEL PERSEN	1.25
+COSTUUM 1ste KLAS KEEREN	22.50
+, 16.50
+DEMI-SAISOM 1ste KLAS KEEREN . . .
+WINTERJAS 1ste KLAS KEEREN ....
+SPECIALE STOPPAGE
+18.00
+INRICHTING
+M
+VAN
+HOOFDKANTOOR BEURSPASSAGE 14. . AMSTERDAM. TEL. 44915
+FILIAAL WILLEMSPARKWEG 175 . . . 20333
+FILIAAL HAVENSTRAAT 57	HILVERSUM 1506
+DEPOT BERGERWEG 5	ALKMAAR
+DEPOT KERKSTRAAT 37	LEERDAM
+
+ALLE DAMES- EN H EERE N KLEEDI NG
+NELLES
+WIN
+GEBROKEN
+Schenkt
+KOPJES
+MEER
+wone
+Uwen
+Winkelier
+Vraagt
+W. A. L. E. P.
+IJII ID
+Voor engros:
+Firma JeanHeijbroek
+BILTHOVEN-TEL 6556
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f3.—per kwartal of
+f 10.—p. j. bij vooruitbetaling
+
+»»«
+^t
+xt
+.»
+•••
+Abonneert U op
+DE VROUW EN HAAR HUIS
+Geïllustreerd maandschrift onder redactie van
+»»*»
+*&gt;$v«
+*V'»
+*»»»
+:0:
+*»»»
+:&lt;»:
+»##»
+•*&gt;{&lt;»
+»&gt;?»
+**»»
+***
+|!
+hl
+•A»
+txt
+têt
+tot
+&gt;t
+l Mei 1925 begon de twintigste jaargang.
+
+Naast artikelen over maatschappelijk werk, paedagogie, politiek, kunst, hygiëne en sport, wijst
+het tijdschrift op vrouwen wier leven en werken op velerlei gebied belangrijk is. Ook geeft elk
+nummer besprekingen en wenken over woninginrichting, kleeding, hèc sieren van den feestdisch en
+over al die praktische huishoudelijke uitvindingen, waarvan de huisvrouw zooveel nut heeft. Ook
+kinderkleeding ontbreekt in geen enkel nummer. Driemaandelijks ontvangt ieder abonuétevens
+Naai d werk en Kant" een plaatwerk dat den weg wijst om meer schoonheid te brengen in het
+vrouwenhand werk. Bij elk nummer is een strijk- of handwerkpatroon ingelegd.
+
+Een gratis proefnummer wordt aan belangstellenden gaarne franco toegezonden
+Prijs per jaargang f 10.—; franco per post f 10.75
+Per Zeepost i 12.—, mail en buitenland f15.
+*»*»
+:o:
+«*»•
+*»»•
+:o:
+«*»»
+*yN»
+*&gt;y»
+***»
+:o:
+**««
+**»»
+5^t
+••••
+»&gt;{y»
+*\r»
+m
+**»»
+Men abonneert zich bij den boekhandel of bij de uitgevers
+;ö; VAN HOLKEMA EN WARENDORF, AMSTERDAM
+
+</text>
+<image timestamp="2002:09:03:10:18:11.00" size="166424">000005LL.TIF</image>
+</page>
+</document>

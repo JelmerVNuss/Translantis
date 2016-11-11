@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240809</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2460
+POLLEN 5 Dude Ceoever
+Fijne Likeuren en Punch
+Ut. P. POLLEN « ZOOM- Rotterdam
+J. D. STRUIJS * Zm.
+Prinsengracht 887 - F. O. Hooftotraat 140
+fEL. 37908 TEL. 29950
+Begrafenissen - Crematie - Transporten
+In den Silveren Molenbeecker",
+l
+
+fL
+Kalverstraat 32
+G
+Hoofstraai 31
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit in;
+lm. Oud Holl.
+Zilverwerk.
+TAFEL- en
+SERVIESZILVER.
+N.v. HAARLEIY1SCHE SODAFABRIEK
+HAARLEM - TELEFOON 30 - H.
+ZUIVERE KRISTALSODA IN KRISTALLEN EN IN
+POEDERVORM DUBBEL KOOLZURE SODA
+NATRIUMSULFAAT (WATERVRIJ)
+GLAUBERZOUT VOOR TECHNISCHE DOELEINDEN
+AKTEN
+TAS
+PRIMA RUNDLEDER
+MIT HANDVAT
+DUB AKTENTAS IS VERVAARDIGD
+V AH PRIMA VOL RUNDLEDER.
+HET HANDVAT IS EXTRA VERSTERKT
+DOOR EEN MET LEER OVERTROKKEN
+STALEN BAND
+GERZON
+REKLAME PRIJS:
+KALVERSTRAAT
+DAMSTRAAT
+AMERSFOORT
+Snouckaertlaan 22-24
+TELEFOON 218
+STOPPAGE
+VAN ALLE
+Dames- en Heerenkleeding
+Costuum Model Persan f 1.25
+My VALET from Londen
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 - Tel. 20333
+AMSTERDAM
+DepOt ALKMAAR, Bergerweg 5
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+Hotel Birkhoren
+bij AMERSFOORT
+100 H.A. Bosch
+PENSION met kamer
+per dag f 5.—bij 3 daags
+verblijf
+,, ,, f 4.50 bij week
+,, ,, £ 4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+pKUUILJEZir
+Singel 118-120 en Blauwbuigwal IS
+AMSTERDAM
+belast zich met het verkoopen van
+DEFTIGE INBOEDELS.
+Fa.LGijselman&amp;Zoon
+TELEFOON 40432
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+j P. C. Hooftttraat 38, Amstirda». !•!•!.: 20341, 24260
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN j
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCBAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEGOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAG! UW LEVERANCIER l l
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+MARMERWERKEN
+House for Gentlemen
+Ie Klasse Engelscbe gemaakte Heerenkleeding
+ENGELSCHE KLEEDEEMAKEEIJ NAAR HAAT
+Weteringschans 45 :-: Telefoon 36845
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafeniseen. Transporten. Crematies.
+ALS GIJ
+BUITENLANDSCHE ARTI
+
+KELEN KOOPT,
+VERHOOGT GIJ
+AUTOMATISCH
+UWE BELASTING.
+BEZOEKT de 25 MODELKAMERS DER
+L. O. V. EN BESTELT DAAR UW INTÉRIEUR.
+B. J. MULDERS
+T DIN ARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon 5O81O
+
+</text>
+<image timestamp="2002:09:03:14:26:56.00" size="182711">D2003SP.TIF</image>
+</page>
+</document>

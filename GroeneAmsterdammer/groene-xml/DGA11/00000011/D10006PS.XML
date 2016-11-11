@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270730</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 30 JULI 1927
+No. 2617
+
+S
+f:
+r
+*».
+(r
+•w
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+CASINO
+Restaurant Saur
+NOORDWIJK a/ZEE
+Telefoon No. 307.
+AGENDA
+Zaterdag 30 Juli
+Groot Bal Masqué.
+Zondag 31 Juli
+Théen Soiree Dansant.
+Maandag l Aug.
+Emiel Hullebroek. Vlaamsche
+Zanger. Toegang f 1.50
+Dinsdag 2 Aug.
+Théen Soiree Dansant.
+Woensdag 3 Aug.
+Théen Soiree Dansant.
+Donderdag 4 Aug.
+ThéDansant.
+Groote Gala Dansavond.
+Avondtoilet verplicht.
+Vrijdag 5 Aug.
+Théen Soiree Dansant
+Zaterdag- 6 Aug.
+Groot Kinder Matinee,
+'s middags 2.30 uur.
+Onder leiding van den heer
+HENRI NOLLENS
+1. In Henri Nollens Poppen Theater
+.2. Vroolijk Balspel
+,jj. Poppen Gymnastiek
+Jt. Humoristische Goochelkünst.
+'s Avonds:
+GROOT NACHTFEEST
+Surprises-Attracties- Coti llon.
+AMANDELTJES
+METCBAJIS GRENAD1NESAUS
+Piano's, Vleugels, Orgels.
+Huur-Huurkoop, Lage prijzen,
+Gemakkelijke conditiën
+Franco levering door geheel Nederland. - Tel. 12475
+
+Roeleveld's Pianohandel
+Den Haag Malakkastraat 119
+Abonneert U op
+
+De Groene Amster
+
+
+dammer, Weekblad
+
+voor Nederland
+/ raagt pl
+annen en teekeiuiiaen.
+BEGRAFENISVEREENIGING
+
+N. SAX Ir.
+P.G. Hooftstraat 38 AMSTERDAM Teler.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LÏJKKOETSAUTOMOBIELEN
+niiiiiiniiiiiiiiiiiiiuiiiiiiuiiuiiiiiuiiiiiiiiiiiuuiiiiiiiiiiiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiiiiiiiiiiiiiiiniiiiiiiiMiiilniiiiiiiniiiiuuiiu
+"f
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers |
+
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN f
+I
+^iHiimniMiiiniimiiiinuiniiiMiniNiiiiiniiiiiiiiiiMniiiiiiiiiiiiiiiiiiiMiniuiHiiiiiMiiiiMiiiiiiHiMiHiiiiiiiiiiiiiiiiiHiHiiiiiiiiiiiHiiiiiiiiinmMmiiHinuni?
+
+Wed JOHN GAY'S PI CC AL IL L l
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ,,DE HOUTTUINEN". AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+i
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+FIAT AUTOMOBIELEN
+Agent voor het geheele Gooi: Auto Garage Kroijmans
+Soestdijkerstraatweg 66 HILVERSUM Tel. 306
+Bezoekt s.v.p. onze SHOWROOM en vraagt demonstratie
+PRIJZEN VANAF F 2200.—.
+BpMEIIlCIITINGEII
+zoowel eenvoudige als betere uitvoering.
+
+64 DE KONINGS ZOON
+Keizersgracht 447, A'dam
+««'; •
+,Tel. 43688. Opgericht Ao. 1739.
+DEN HAAG
+FERD.vVL.IET ARNHEM
+!
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:15:05:41.00" size="147987">D10006PS.TIF</image>
+</page>
+</document>

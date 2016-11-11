@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331028</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 28 October 1933
+Np, 2943
+LEVENSVERZEKERING
+My. ARNHEM"
+beschermt Uw gezin ia moeilijke laren.
+k'
+IV
+OnderL Glas-Verzekering-Mij*
+GEVESTIGD TE AMSTERDAM OPGERICHT 1876
+Kantoor: KERKSTRAAT No. 69 Telefoon 42163
+Directie: Mr. K. F. A. VAN DER BREGGEN
+Verzekeringen tegen vaste jaarlijksche premie, voor schade door breuk au
+M M SPIEGELRLDTEN, SPIEGELS of andere RUITEN M M
+IJVERIGE VERTEGENWOORDIGERS GEVRAAGD
+N.V. Maatschappij voor Hypothecair Wet in Nederland
+gevestigd te 's-Gravenhage, Nassau laan No. 23
+waarin opgenomen de Maastrichtsche Hypotheekbank voor
+Nederland te Maastricht, St. Servaasklooster 8
+Geplaatst Kapitaal met reserves ... f 5.347.4OO.
+Uitstaande Pandbrieven met gewaarborgd
+Kapitaal per 1 Januari 1933 .... f 5O.162.7OO.
+De Directie:
+Mr. J. D. TEN BRUGGEN CATE Mr. 8. VAN HOUTEN
+B. M. J. W. SCHOON
+SPERRMARKEN
+- STUDIE
+
+VERBLIJF
+
+
+CREDIETVERLEENING
+
+ONDERSTEUNING
+AAN VERWANTEN
+
+AANKOOP EFFECTEN
+EN ONROEREND GOED
+
+IN DUITSCHLAND.
+TEGEN VOORDEELIGE KOERSEN.
+
+WIJ VERZORGEN ALLE FORMALITEITEN.
+
+INLICHTINGEN EN BROCHURE BIJ AL ONZE KANTOREN
+
+BANK-ASSOCIATIE
+
+STROOMLIJNKOETSWERK
+
+
+ZONDER
+
+MIDDENSTIJL,
+
+waardoor groot ge
+
+mak bij in- en uit
+
+stappen en absolute
+geruischloosheid
+
+
+Conduite Intérieure
+
+4/5 zitplaatsen
+ƒ
+2500.
+6/7 zitplaatsen
+%•
+2700.
+Levering uit voorraad
+
+DE IMPORTEUR:
+J. LEONARD LANG - STADHOUDERSKADE!!?- AMSTERDAM
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+4Y»% Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in pand'
+geving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stokken van 11000.—,1600.
+en f 100.—tegen Beurskoers.
+de uitki
+F
+l
+L
+M
+T
+H
+E
+A
+T
+E
+R
+DageliJks2.3O,7.3O,9.30
+FILM EN MODERNE
+MUZIEK
+k
+prinsengracht bi
+de leidschestraat
+telefoon 3746
+Br
+
+</text>
+<image timestamp="2002:09:26:23:34:26.00" size="192250">D2006WX.TIF</image>
+</page>
+</document>

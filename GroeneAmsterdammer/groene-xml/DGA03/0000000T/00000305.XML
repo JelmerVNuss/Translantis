@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910816</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+V.[|VOK(.;SKI. v;.n do Amsiiiiiiamitier, Weekblad voor Nederland, van 16 Augustus l»9l.
+Eerste oefening in de politieke quadrille.
+7-wai. drai, au de Bank voorbij
+De dansmeester tot Mr. N. G. Pierson:
+Amst. Boek- en Steendrukkerij, v/h. EHerman, Harms &amp; Co.
+Op de plaats, zwai! drai! Aans, zwai, drai!
+Hmscii in der Tmrtótube.)
+
+
+</text>
+<image timestamp="2002:08:19:14:28:23.00" size="299312">00000305.TIF</image>
+</page>
+</document>

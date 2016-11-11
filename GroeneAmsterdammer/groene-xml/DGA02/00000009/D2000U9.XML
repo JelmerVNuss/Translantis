@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010317</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1233
+1) V. A M S T K H D A M M K H W K K K 15 L A I) V O &lt; &gt; !! N E 1) K U ]. A X D.
+Rusland en de Vereenigde Staten.
+DE C/AR: »Je moet niet denken, dat ik om ja verlegen ben, Jonathan. M\jn Bruin lust ze zelf óók wel."
+
+Uit het zieleleven der vogels. (Lustige lï'iittcr).
+Vox populi. (Ciran d'Ache in den Figuro).
+John Bull's Vriendschap,
+KEI/EK WILHELM: »Myn Duitschers tchijnen toch niet veel met John Buil
+op te hebben."
+Hij leeft, hij leeft (Lustig ll'atler).
+Onze vriendschap zul mij heilig zijn, Michel, al
+gaat 't me ook nog 200 slecht, ik zal altijd weer bij je
+komen, hoor !"
+Oi'i'\-oi-.i; : »lk begrijj) er niets, van, vroeger was do zwarte adelaar even monter
+als de roode en nu, sedert een week of wat zit hij zoo treurig in mekair. '
+De doodgewaande Li-IL xc,-7VniA.\u : »Kiekiek !"
+
+
+Een partij Chineesch Bataille.
+JOHN BULL (tot den keiler): «Zoo komt de partij nooit uit Wilhelm, iedereen speelt
+op goed af als wy beiden nu eens samen op maken speelden ?"
+De nieuwe koning van Engeland heersoht
+over vele koloniën en ieder kolonie heeft haar
+eigen postzegels. En op al die zegels zal bin
+
+nenkort het portret van Edward VII te zien zijn.
+Toen Z. M. rog prins v. Wales was, heeft
+hij veel kltórmskers werk gegeven. Ku is het
+een merkwaardige i-n minder fraaie eigenschap
+van kleermakers, dat zij nu en dan hun reke
+
+ningen aanbieden. Kn het is een merkwaardige
+en toch van karakter getuigende eigenschap
+van prinsen dat zij dergelijke documenten in
+hun prinselijker. sinppermand doen verdwijnen.
+Als echter een prn.s van Wales, koning
+geworden is en in plaats van den modernen
+hoogen hoed de oinHndernc kroon moet op
+
+zetten, bieden gewoonlijk de heeren kleeder
+
+makers opnieuw hun rekeningen, met een weinig
+meer aplomb aan. De nieuwe koning echter
+die over zoovele koloniën met eigen postzegels
+hfierschr, beeft naar wij uit betrouwbare
+bron vernemen niet al zijn kleermakers een
+zeer vii.iiingrijk arrangement gemaakt. Meer
+dan zestig staten zullen eerlang op hun zegels
+des konines beeld doen zien. Als men nu voor
+iederer. 8ts\!\t slechts tien verschillende
+postzPL'fls rekent, zullen weldra zes honderd en
+vijftig afbeeldingen van den koning de wereld
+ingaan. Op ieder dezer afbeeldingen nu zal
+7., M. in een nieuw costuum te zien zijn en
+op ieder portret zal met gekleurde letters, als
+randschrift of op het beeld zelf, het duidelijke
+adres te lezen zijn van den kkrrrryaker. die voor
+tien koning het bekleedingskunststuk heeft ge
+
+wrocht, '/.oo zullen de post en de koning voor
+hen reclame maken. Als proeve hoe de be
+
+waking zal zijn geven wij hierboven de toe
+
+komstige postzegels van Oylon. van Canada
+en Indi
+
+</text>
+<image timestamp="2002:08:15:19:21:51.00" size="326025">D2000U9.TIF</image>
+</page>
+</document>

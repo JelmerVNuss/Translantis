@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300301</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTER0AM
+j 36 LElD$CHESTnAAT 78 ROZENGÏUCHT 60
+" ROTTERDAM HGOGS-KRAAT
+SMAKEN,
+Heupgcwel
+
+van prima Franach Elastiek,
+
+maag uisluitend, maar reent, van boven,
+kleiir rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+
+tot Leupwijdte lOOc.M. nieuwen prij;s f 14.
+verder tot H5 c.M. ", , 15.
+
+Bij schriftelijke Lestclliag gefieve men «b- maai
+op te geven de wijdte over breedste deel van d*
+heupen, over onderkleedihg gemeten.
+VoorfiAoden een enorme ketue
+
+
+Elastieken Heupgoraels
+
+in Eiagelsche kwaEteiten vanaf f 4.90
+idem in Transche' kwaliteiten vanaf f8.
+
+Alle door ons geleverde elastieken Heupgordol»
+gzu-andeeren w^. '. , •:'"':
+
+</text>
+<image timestamp="2002:09:21:03:51:07.00" size="692112">000007XW.TIF</image>
+</page>
+</document>

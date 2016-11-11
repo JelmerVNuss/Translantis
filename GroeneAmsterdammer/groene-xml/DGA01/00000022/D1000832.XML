@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261106</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2579
+PORTRETSTUDIES VAN VOORHEEN EN THANS
+. (Slot) Teekeningen van'L, Jorissen
+PIET RIJSENBERG JR.
+**k
+' DE JONKER DE HOOGHAF
+DOLLY, HET KAMERMEISJE
+VAN MEVR. RIJSENBERG
+CELESTINE, HET KAMERMEISJE
+VAN HUIZE DE HOOGHAF
+HARRY, DE HUISKNECHT
+VAN DE RIJSENBERGS
+JOZEF, DE OUDE KNECHT
+VAN HUIZE DE HOOGHAF
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+~In den Winter »»,,,, De Zomer in Uw huis
+I MET HET NIEUWE SYSTEEM
+
+CENTRALE VERWARMING
+SIERLIJKE RADIATOREN - DE KACHEL EEN VULKACHEL
+I Vele honderden referenties Vraagt onze brochure
+
+HERINGA &amp; WUTHRICH
+HAARLEM- TELEF. 11966
+Voor den Haag: C. OLDENBURG Jr., RIJSWIJK - Tel. den Haag R. 410
+• 11 ^—.II
+STANDAARD
+HYPO THEEK&amp;ANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. CASTENDIJK en
+ƒ. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbrieven tegen beurskoers uit.
+zijn verkrijgbaar met verschillende
+installaties van (176.- tot f419,
+De verkoop van dergelijke
+standaardcollecties geeft belangrijke kostenbe
+
+sparing, die den kooper ten goede komt.
+doordat
+gratis wordt bijgeleverd
+de waardevolle Cassette.
+Vraagt inlichtingen bij Uwen leverancier.
+
+Elk artikel draagt het Garantiemetk:
+(GERO&gt;
+STOUT
+Voedzaam
+Versterkend
+LEEUWARDEN v,H FIRMA NAUTA
+AMSTERDAM, N.Z. VOORBURGWAL 75A-77
+IN NOTEN- EN EIKENHOUT
+DETAILVERKOOP VOOR AMSTERDAM:
+P. BOBELDIJK, ROZENGRACHT 63 - TEL. 34212
+AGENTSCHAPPEN DOOR
+HET OEHEELE LAND
+TYP.: AMST. BOEK- EN STEENDRUKKERIJ V/H ELLERMAN, HARMS &amp; CO.
+
+</text>
+<image timestamp="2002:09:26:08:21:15.00" size="254684">D1000832.TIF</image>
+</page>
+</document>

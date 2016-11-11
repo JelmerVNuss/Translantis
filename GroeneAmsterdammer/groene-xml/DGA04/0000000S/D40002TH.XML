@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190215</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+15 Febr. '19. , No. 2173
+Pisuisse Jan Hemsing I'aul Collin Combes
+Indruk van onzen teekenaar Felix Hess bij de repetitie van de Straatzangers in het Centraal Theater
+(Onderstaand vers: Le Chant du Retour" wordt door de Straatzangers in het Centraal Theater vanaf 15 Februari gezongen)
+•I'Stroptie	Par eeclairina-tin.Queiesidone eeehantqui s&gt;'. lè'. ve? Son 'e'.ch') '•.
+nfStroj&gt;fi?—Pour la Ji.ber. te' Nobles enfants de ' la Pa . (n . e, Vous a.vez l
+sou .
+luL
+
+* .d.TjnVientrpruplir les.paee d'entraiD;	Ce joyeux refra.rnQuinouscharnierirtniiiPUJiÉea.ii rê.ve,
+-te. Kt lo va . leniPutTri m-f&gt;he';	^Ayaut r.cpa.sft toutes les nations enne flii PS,
+' * C* r'. II . ' l ^""""^
+E.cou-tezc'est JpchanUrLorn.phant __. Ah:	Ve.neztous&lt;-h&lt;&gt;rsparenls
+'our	(out ja.maïs	Vous a - vez s»nous gagiier la paix.	GJoi . re a vousjeu.ncs grognard'
+Accoorez lous pe.tits enfants, _ RODOPS douees vieil.les marhans.	4h'	ve DPZ
+Farjtassins,dra2;ons et hussards_i Oui suivez Ie oher e'.tendard,—En . chantantnos
+pett'antr.
+l	V~i	'k -V—•*—*	"	r—"-h—V f r
+em brasser	Ceuxqtiivousont qtiit .te'—Ilssont
+troiseouleurs,. Par Ie ehemin d'honneur__Voiisre . ve . nezvainqueurs—Lesvoi.la! Nossoidats,
+ë%*fjUM^^
+lal	Re.car.dez	f Lesvoi.la! Nossc
+"• i i-. i,
+ossoldats,
+
+Lesfilsdp notregrande Fran . ce, Cesonl eux, Glo.ri. eux, lis	ont vengénos ai.eux
+Lesfilsde uotregrande Fran . ee, Cesonl «ux, Glo.ri . eux, [Is—ont vengénos ai.eux
+
+Lesvoi. Ja! Nossol.dats, Ou b!ions(nii(ps noss'iuffran - 'v-S; Plusde son 'dp ra.non,
+Lesvoi.la! Nossol.dats, Du payscfstla dp li .vnsn . PP; P6*urcesffancs,fiersen/ants,
+K " • J
+*^ Voi. ei Ie joar«- de ?ci ."vi ^li-s'a.tion. =^r
+
+Bat teztaiiibotiïs.clairons son - nez au« cliauips
+a \oussol.dats._
+x bas...
+Noblesen.fants—de Te.ter.nel - Ie ra . cê, Pour_J'honneurvo.trecosur batTlDaasvosveirj'sfiourV
+.—Poursa.lu . er	de notreFraaeeai _me' e 'L'iui.iaor. teivainqueurd Ip'-ua,_ Les iiobles ge . n«'.
+l P
+droit—fou Ie dusangGau . lois; Glyi .re anx a via . lpurs_ Atid.ir-i .eux	ron.qiie'r.intsde les.
+.raiiX:^. Kle'„ber,Horl*eeLMar-ceau, Pour_	vaincreanjourd'hj*i_ Nousavoiiseu	ert têt'de nosar
+J\
+.pa . c?, Kl	sa . luons de tout eoeur—oos bra.ws ar . til . leurs;_ No . (re soi.iufll (fnni;
+.me', e? Foch—Pé-t»in«t Gallie . ai chefs qni noasont eon . qa is	La Nouvelle e' "po
+!ÜL «-"-^^--ri-^p- - J gr.—^r:	y-.-^-- -A-^^^—_, t',	.k ,_J	K ,	_js__
+Coda
+Ei^^^^N^^^^^^^^^^^^j^-fepas
+'
+se!
+Soldcitssortezdesn
+angs
+(k sont morts les ty
+
+ra n s
+Tous les hornnaessont (réres De'.sor.rnaisplus de guer. re
+
+^\'lv
+m
+U ZATERDAG 15 FEBRUARI ^^
+IÜDES NAMIDDAGS OM 2}4 UUR
+
+
+OP E N I N G|
+
+TENTOONSTELLING J
+
+
+GERMlDE JONG |
+
+EN - ' ^
+
+| VAN UYTVANCK |
+
+S IN ONZE KUNSTZAAL J=
+
+TOEGANG U.ITSLUITEND
+VOOR GENOOD1GDEN
+
+VANAF MAANDAG IS DE
+TENTOONSTEiLLlNG VOOR BELANGSTELLENDEN
+KOSTELOOS TOEGANKELIJK; v. 10-5 UUR
+
+TT' DE B][ENKORF^_
+* AMSTER'D'A'M
+DE VRIJWILLIGE BURGERWACHT
+TE AMSTERDAM
+
+De Burgerwachten in de revolutiedagen
+van November als 't ware bij tooverslag
+uit den grond gestampt, zijn een bewijs,
+dat ons volk, wanneer 't er op aankomt
+tot een daad, en zelfs een snelle daad in
+staat is. Wij mogen zegeen, dat door deze
+acute actie, de zoo fraai opgezette revo
+
+lutie van den heer Troelstra een comische
+operette is geworden of een soort water
+
+ballet, waarin de leider druipstaartend als
+een natte kat is afgetrokken.
+'t Was ook al te onzinnig om in een vrij
+land als 't onze, waar iedereen onomwonden
+kan zeggen, wat h p wenscht en zonder veel
+protest de mfest verderf-brengende
+theolieën mag lanceeren een dictatuur van
+enkele volkstribunen te vestigen, die hun
+theorie tot practijk willen maken. Zij zouden
+belachelfik zijn, als ze niet zoo verdwaasd
+waten. Toch heeft het er alles van of de gis
+
+ting bij zekere beethoofden nog aanhoudt en
+sommige klassen in onze samenleving door
+die drijvers nog worden gevoed met de
+hoop op een fiksche kloppartlj, want voor
+degenen, die bij een revolutionaire gebeuren
+de kastanjes uit 't vuur moeten halen, komt
+de zaak ten slotte neer op knokken en
+jatten. Daarom is 't goed, dat wij ons nog
+steeds op onveikwikkelijkheden voorbereid
+houden al was 't maar om der preventie
+wille en in zoover is de gedachte de bur
+
+gerwachten te bestendigen een goede en
+juiste. Het mooie van deze instellingis.dat
+ze voortkomt uit de burgerij, uit de groote
+groep van Nederlanders, die inzien, dat de
+ontwikkeling langs legaten weg beter is
+dan moord, roof en doodslag en wel in de
+eerste plaats in het belang van degenen,
+die zich van een proletarische dictatuur
+gouden bergen beloven om ten slotte te
+ondervinden, dat zQ de eerste dupen van
+hun rmchtswaanzin worden.
+De burgerwachten zijn voortgekomen uit
+de burgerij: uit eigen initiatief hebben
+enkelen de koppen bij elkaar gestoken en
+de idee geconcipieerd, vrijwilligers hebben
+de leiding, vrijwilligers otf-nen zich en zijn
+bereid in de ure des gevaars tusschen beide
+te komen.
+Natuuiigk is de vrijwillige burgerwacht
+slechts dan in 't geweer te roepen, wanneer
+een werkelijk revolutionair gevaar dreigten
+onze vrije instellingen slechts door middel
+van een gewapend verzet tegen een
+gewelddadlgen overval zijn te handhaven. Wie
+er meer van verwacht of wenscht kent de
+psyche van ons volk niet: met name mogen
+zij de vrije actie van de geordende vakbe
+
+weging niet schaden en als een soort stri
+
+kebrekers worden opgeroepen.
+Doorgaans zal zich de actie wel tot
+bewakingsdiensten bepalen, want de
+revolutiebaccil is meestal sluimerend en treedt
+zelden bruut op.
+Vandaar dat aan de jongelui, die zich
+vrijwillig aansluiten iets meer moet worden
+gegeven dan de verafliggende plicht van nu
+en dan op te kommen de Commandant van
+de Amsterdamsche Burgerwacht er op be
+
+dacht is geweest die ir stelling aan de
+algemee n e fysieke en psychische ontwikkeling
+van ons volk dienstbaar te maken. Daar
+
+mede wordt in een langgevoelde behoefte
+voorzien. Een bezoek aan het Huis van
+onze Burgerwacht brengt wel wat anders
+oan velen verwachten. Het is niet een soort
+kazerne, waarin veel munitie ligt en veel
+tucht wordt beoefend. Natuurlijk ook dat,
+want een handhaver van de orde zonder
+tucht is een onding, maar daarnaast vinden
+wij op de acht verdiepingen veel wat aan
+onze jongelui ten goede komt: er wordt een
+scherm zaal ingericht, waar geregeld kan
+geoefend worden in een sport, die wel bij
+uitnemendheid geschfkt is om lichaam en
+geest kwiek en lenig te maken, een
+turnzaal, een revolver schietbaan, een billard
+een conversatiezaal en op net dak een
+soort Babylonische tuin van Semlramls
+als restaurant. Een van de euvels van onze
+jeugd is, dat ze al te veel boemelen in de
+Kalverstraat of in de dampiere met alcohol
+gedrenkte atmosfeer van caféi zitten en de
+bioscopen afloopen, waar ze, de goede niet
+te na gesproken, ook al weinig verheffends
+ondervinden, 't Is een hoop beter, dat ze
+in hunne vrije ureneen gezonde uitspanning
+zoeken in sport en gymnastiek. Zooals ge
+
+zegd een Centraal sporthuis missen wij in
+Amsterdam en thans wordt daarvoor in het
+gebouw van de Burgerwacht de kern gelegd,
+die voor verdere ontwikkeling vatbaar is.
+Zoo wordt deze in een operette-revolutie
+geboren Instelling een opvoedend instituut,
+waarvan onze jongelui en ons volk profijt
+kunnen trekken, wellicht zelfs zal dit bur
+
+gerlijke leger een voorbeeld voor de mili
+
+taire armee kunnen worden. F R i s o
+
+</text>
+<image timestamp="2002:08:23:07:08:37.00" size="637530">D40002TH.TIF</image>
+</page>
+</document>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260403</Datum>
+<Pagina>29</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TOKO BOGOR
+SUEZKADE122a/b DEN HAAG
+= TELEFOON 33472 =
+Ontvangen eene groote zending,
+
+Mie, Goela Djawa, Ketjap Benteng,
+
+Gandaria en Peteh-Assin.
+
+Manissans, Zuren, enz. enz.
+Prima kwaliteiten.
+
+Voordeelige prijzen.
+I.W.de Jong, MuiderstrJO, Amsterdam
+Bevestigd sedert 1&amp;S1 - Telegram-Adres: UNIFORM
+Bekroond met (Amsterdam 1905)
+8 Gouden, l Zilveren en l Bronzen Medaille
+
+' Leverancier van alle
+Burger" en Militaire Kleeding en Uitrustingen
+Handelsdrukwerk ~ Periodieken -C^atalogi
+
+
+
+Drukkerij xlantijn
+
+
+Amsterdam
+
+
+Reclamedrukwerk - Geldswaaroig Papier
+PETER DAWSON'S
+
+WHISKEY
+
+BEST OF ALL
+
+Van Otraalen JMionsieur Cx r/rkelens
+WIJNHANDELAREN
+Oen Haag - ROTTERDAM ~ Den Helder
+Leuvehaven 34
+KIPS 6 C2.|
+l SCHIEDAM *
+• Plaatijzeren Reservoirs, Buisleidingei, £
+Scheeps-Taoks 4
+AUTOGENE LASSCHING f
+&gt;tAlgemeenc Friesche"
+
+Levensverzekering-Maatschappij
+
+De grootste zuiver ONDERLINGE
+Maatschappij in Nederland
+
+OPGERICHT 1844
+
+LEEUWARDEN, AMSTERDAM—ROTTERDAM
+Bunnaniahuis.
+Verzekeringen van kapitalen bij overlijden en
+bij leven, Gemengde-, Studie- en
+Uitzetverzekeringen. Lijfrente en Pensioenverzekeringen.
+Collectieve Verzekeringen.
+HET ALLERBESTE
+BRITSCHE FABRI
+
+KAAT - ELKE
+SCHOEN IS IN
+IEDERE HALVE
+EN HEELE MAAT
+VOORRADIG IN
+VIHR PASVORMEN
+
+
+17.50
+
+19.- 21.= 23.- etc.
+! GEÏLLUSTREERDE CATALOGUS
+4	OP AANVRAAG
+A'DAM
+KONINGSPLEIN
+Franco inhuis metlOjaar
+garantie leveren wij
+jaarlijks duizenden
+
+ORGELS en PIANO'S
+en ontvingen tienduizen
+
+den
+tevredenheidsbetuigingen waarvan wij
+gaarne afschriften zenden
+
+Vraagt nog heden onzen
+nieuwen catalogusNo.83
+BETALING!
+NAAR KEUZE
+Electr* Bockbinderij
+
+OUDWIJK"
+
+FIRMA VAN WIJK 8
+
+VAN DEN WIJNGAARD
+Oudwijkerdwarsstraat 104-110
+
+UTRECHT
+(voorheen Jansveld 19)
+TELEPHOON 2957
+PARTIC. EINDWERK ENZ.
+SPECIAAL INGERICHT
+VOOR GROOTE OPLAGEN.
+LINNEN STEMPELBANDEN
+VOOR H. H. UITGEVERS
+Ziende op
+
+
+- Jezus
+
+Zes Voordrachten over
+het Christendom
+
+Prijs, gebonden f 1,50
+Deze bundel bevat de volgende
+onderwerpen: Dr. J. C. ROOSE,
+Heeft Jezus geleefd? Prof. Dr.
+TH. L. HAITJEMA, Wie was
+Jezus? Prof. Dr. A. VAN VELD
+
+HUIZEN, Wat deed Jezus? Prof.
+Dr. W. J. AALDERS, Geloof in
+Jezus. Ds. C. W. COOLSMA, Het
+volgen van Jezus. Drs.
+J.WILLEMZE, De toekomst van Jezus.
+Uitgave van J. B. WOLTERS
+
+Groningen Den Haag
+H. BERGSMA
+
+PRINSENGRACHT 827 ~ AMSTERDAM
+
+HANDEL IN: Spiegel- en
+
+Vensterglas, Geslepen- en
+
+Geëtstglas, Etalage-,
+
+Spiegel - en Glasplaten
+
+
+Opnieuw verzilveren van Spiegelglazen
+
+GLASVERZEKERING, ETC.
+Telefoon 37339
+DRIEWIELERS
+met hand- ofjf
+voetbeweging j
+
+voor invaliden, |
+vervaardigt in I
+ieder modelf
+Fa. J. BAAKMAN, Assen
+BQE„«5fER5.
+MEEST GESCHIKTE BlflDERIJ VOOR H H-UITGEVERS
+5TVILLIBRORDUS5TRAAT 53-55ADAM TEL 2 Vr66
+|inmiiiHiuiuiiiiuuiuiiuijiuiiiiiU!Uiiiuimiitii4wmiuiuiiiwiininititiiiimiuwttHimiiiui«wiiwitu
+MOBACO
+Bouw Speeldoozen
+Zeer leerrijk en onderhoudend Speelgoed
+
+N.V. BOSCE HONIG Co.
+DOMSTRAAT 6 - UTRECHT
+
+
+</text>
+<image timestamp="2002:09:25:07:43:31.00" size="173706">D10007GZ.TIF</image>
+</page>
+</document>

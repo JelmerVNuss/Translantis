@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130420</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE UITTOCHT VAN DE ROODE KINDEREN BELGIËNS
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 20 April 1913
+De eerste groep stakerskinderen is uit Antwerpen naar Dordrecht vertrokken
+om bij partijgenooten en geestverwanten hunner ouders te worden ondergebracht,
+zoolang de Algemeene Werkstaking in België duurt. Dagbladbericht.
+Amst. Boek- en Steendrukkerij, v h. Ellerman, Harms &amp; Co
+En de kinderen Belgiëns zijn ingegaan in het midden van het Hollandsche diep, op het droge	"
+
+(Exodus 14 : 22. Roode Zee)
+
+</text>
+<image timestamp="2002:08:18:12:16:32.00" size="94403">D40000OW.TIF</image>
+</page>
+</document>

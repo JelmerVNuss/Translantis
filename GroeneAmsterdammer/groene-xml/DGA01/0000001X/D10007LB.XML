@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260515</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Utrechtsche Assurantie-Mij,
+
+UTRECHT x Westerstraat 5
+Ziekte* en
+Ongevallen
+Verzekering en
+IS MEN MET DE MERKEN
+VAN «mini
+vraagt
+AGENTESSEN GEVRAAGD
+King William IV
+
+SCOTS WHISKY
+VERTEGENWOORDIGD DOOR;
+N. V. Hoogewerff, Chabot &amp; Visser's Wijnhandcl
+DEN HAAG. ROTTERDAM. ARNHEM.
+heeft Van Rijn's Mosterd weer zoo'n overweldigend
+
+
+SUCCES?
+OMDAT voor ieder gastronoom QUALITEIT den doorslag geeft
+DE GROENE AMSTERDAMMER
+
+
+Weekblad voor Nederland
+
+
+kost slechts f 3.- per kwartaal of f
+10.
+
+per jaar bi) vooruitbetaling
+efflraimiMniMimiimiiiimiiiiiiiitiniMMiiiiiiiiiiiiiiiiiiHiJiiiiiwniiiiiiiiiiuffliiiiiiiiiiiiiiiuiuiiiimuiiwwnniimniiDunBii
+
+CENTRALE VERWARMING
+volgens elk systeem
+
+I WARMWATERVOORZIENING
+i door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+
+
+HUNCK &amp; ZOON S^
+inilmMMminiMinniiiiiiiiiliiiiii	ruim	MmmmiuiMiiiipinfliiiiiirnmniiiiiiiiniimiMTmrinmiiiiiiiilfflniiiBllBl
+
+MEEST GESCHIKTE BlttDERIJ VOOR:H-H-UITGEVERS
+5TWILUBRORDUSSTRAAT 53-55ADAM TEL .2&lt;f&lt;t6e
+C
+
+SCHIEDAM
+
+Plaatijzeren Reservoirs, Buisleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+surfer
+Abonneert U op
+
+
+
+DE VROUW EN HAAR HUIS
+
+Geïllustreerd maandschrift onder redactie van
+
+
+E LI S M. ROGG E
+
+l Mei verscheen No. l van den 21en jaargang.
+
+Naast artikelen over maatschappelijk werk, paedagogie, politiek, kunst, hygiène en sport, wijst het tndschrift op vrouwen
+wier 'lev.en en werken op velerlei gebied belangrijk is. Ook geeft elk nummer besprekingen en wenken over woninginrichting
+kleeding, het sieren van den feestdisch en over al die praktische huishoudelijke uitvindingen, waarvan de huisvrouw zooveel nut
+heeft. Ook kinderkleeding ontbreekt in geen enkel nummer. Driemaandelijks ontvangt ieder abonnétevens Naaldwerk en Kant
+een plaatwerk dat den weg wijst om meer schoonheid te brengen in het vrouwenhandwerk. Bij elk nummer is een strijk- oi
+handwerkpatroon ingelegd.
+
+Een gratis proefnummer wordt aan belangstellenden gaarne franco toegezonden
+
+Prijs per jaargang f 10.—; franco per post f 10.75
+
+Per Zeepost f 12 •; mail en buitenland f 13.50.
+m
+m
+pje
+rus
+ar:
+iF,
+m
+m
+m
+m
+Men abonneert zich bij den boekhandel of bij de
+
+Van Holkema en Warendorf s Uitgevers-Mij., Amsterdam
+=(U5.|l
+=iyë;(y?iys[i
+..
+] 'srt^ni^nib] j=ö,]ri] srOsröar
+[Uc
+an.
+QJc
+tU5
+ar.
+OJ2
+
+i
+^
+
+</text>
+<image timestamp="2002:09:25:14:47:15.00" size="172932">D10007LB.TIF</image>
+</page>
+</document>

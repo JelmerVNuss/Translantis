@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270108</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2588
+V ,
+l l
+ir. ,
+
+f
+K
+\ t
+
+
+'&lt;f
+\.
+I' fi C? 'T* Tl 1 f T O f 'TT
+t D* STRUiJS &amp; Zn.
+PHttsengr^cht 837 Telefoon 37906
+4 Begrafenissen - Crematie - Transporten
+^0$ FIRMA J, G. M E IJ E R 444
++++ 2 Markten -GRONINGEN - Opgericht 1706 ^^
+SPECIALITEIT IN
+
+ECHTE GRONINGER KOEK
+van f L—, f 1.50, f2.—£2.50, f3.—enz.
+Franco per post 50 Cents v.erhooging
+VERWEEGEN &amp; KOK
+AMSTERDAM	DEN HAAG
+AUG. KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+Januari Opruiming RESTANTEN
+TA.FELLAKENS 140 x 180 cM	f3.25
+Zuiver linnen damast-tafellakens 140 x 190 cM	f5.95
+• •'-„• Handdoeken	f 0.65
+,, ,, droogdoeken	fO.65
+RESTANTEN BEDGOEDEREN
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.O. HeoftstrMt 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+gpiuuuuiiiiiiuiininiiiiiiiiiiiiiiiuiiiiiiiiiiiiiiuiiiiiiiiiimin
+
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+
+iii!iiiiiinimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiN
+Wed JOHN GAY'S PICCALILLI
+BUJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 •:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D, WEEGEWIJS
+Rapenburg H - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+GJBEEPKENS
+ESSCHEM
+LIMOEN
+TEAKHOUT"EMZ
+NAAMLOOZE VENNOOTSCHAP
+
+Uurwerk» Goud- en Zilverhandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verlovingsen Zegelringen. Zilveren Couverts en
+diverse Schepwerk tegen scherp
+concureerende prijzen s*s &lt;*s cv &lt;r&amp;
+Uurwerken met Weaiminster en diverse gongslagen
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor Goud,
+Zilver en Uurwerken a&gt;n c^&gt; a*s
+Het papier ten behoeve van dit blad
+Wordtj geleverd door de firma
+A
+m Ma
+A MMCTCTDn A MM ROTTERDAM—GRONINGEN
+j Mlwl9 l ELffL/MIYI UTRECHT ALMELO.
+
+</text>
+<image timestamp="2002:09:20:20:53:07.00" size="178065">D1000649.TIF</image>
+</page>
+</document>

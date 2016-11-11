@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300816</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+* Jfifc
+DE GROENE AMSTERDAMMER VAN 16 AUGUSTUS 1930
+Prentbriefkaarten uit het familie-pension
+voor de Groene Amsterdammer" geteekend door Jo Spier
+SLOT
+VAM
+HETl
+KAMER
+M £.'/)E
+MENIE-E.R. G&amp;UR.T.SEM
+OP- PROpf=UE-TWr-?E
+T'
+*De wespen of hoe wij ons vermaken
+De staf
+t
+L
+TELEFOON
+door Cel 2
+Is dat geen kleinigheidje? Hoe
+bedoelt u ?....
+
+• Een opzienbarende hervorming
+in de oorlogsbewapening?
+tevens een belangrijke aanwinst voor
+onze vloot en als er een plank mocht
+los schieten, kun je in ons land overal
+hout vinden om het gat te stoppen,
+terwijl met een gat in een stalen tank. .
+Met het Plein, juffrouw !
+
+Met de Witte" of Defensie ? Is
+er dan eenig onderscheid ?
+
+Nog een beetje vroeg in den
+middag, dus zijn de heeren nog niet in
+de Witte?"
+
+Precies, juffrouw, dan maar
+het Departement.
+Een gansch onafzienbare omme
+
+keer ?
+Verklaar u nader, meneer, want
+hier staat een journalist brandend van
+verlangen. . . .
+
+Dus is het slechts een eerste stap
+die door vele andere gevolgd zal
+worden op den weg naar het houten
+oorlogstuig ?
+Dat is ook niet voor de poes, dat
+voordeel. Een houten tank kost dus
+van aanmaak twee kwartjes, terwijl
+een stalen. . . .
+
+Het is om te rillen, dat verschil.
+Wij kunnen dus een heel leger houten
+tanks hebben tegen n stalen !
+
+Maar dat is de dageraad van de
+Houten Eeuw !
+Portjeé, is een van de heeren
+aanwezig?
+
+Prachtig, prachtig, dan maar
+meneer de Bode.
+
+Ha, is u daar ? Prettige vacantie
+gehad ?
+
+Schitterend, schitterend. Maar
+een kleinigheidje, over die nagemaakte
+tank van hout. . . .
+Goed, dat begrijp ik. Een stalen
+tank zakt weg in de modder, raakt
+vast in onze slooten, duikt onder in
+onze ringvaarten. . . .
+
+Precies. Het voordeel van de
+houten tank springt dadelijk in het
+oog, dat is waar. Eigenaardig dat
+niemand eerder op het denkbeeld
+is gekomen.
+
+Natuurlijk, natuurlijk. Een hou
+
+ten tank drijft op het water en is dus
+Kanonnen ook van hout! Met
+houten kogels?
+Heerlijk ! En dan natuurlijk
+hobbelpaarden voor onze cavalerie?
+
+Een besparing van millioenen,
+wat? En een houten oorlog zonder
+bloed vergieten ! Heerlijk dat wij,
+Hollanders, de pioniers zullen zijn
+van deze, de wereld omwentelende,
+oorlogsvoering !
+
+
+En dan aan het hoofd onzer
+Defensie nog een Houten Napoleon !
+
+
+Wat zei u ? Is die er al ?.... Ik
+geloof dat ik thans maar beter doe
+het gesprek af te breken. . . . Bedankt
+voor de primeur en de groeten aan....
+als ik dat geklungel zoo anzie
+van het menschdom in de vacantie ;
+denk ik verbaasd: arme jij"!
+en ik haast me ter uitkijk"
+als ik de kans zie.
+
+</text>
+<image timestamp="2002:09:26:00:25:35.00" size="120048">000009GS.TIF</image>
+</page>
+</document>

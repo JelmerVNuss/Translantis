@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Opvoeding in kostschool of in gezin
+M. Vrij
+Directeur der Nieuwe Schoolvereeniging te Amsterdam
+K»
+IK ben voor opvoeding in het gezin, maar goede internaten
+kunnen nog steeds niet gemist worden.
+Het gezonde en goed geleide gezin gaat in normale gevallen uit
+boven elk ander opvoedingsmilieu. Wie zal meer belangstelling heb
+
+ben voor het gelukkige kinderleven dan de ouders-zelf? Tegenover
+wie zal het kind zijn vreugden liever uiten, aan wie zijn kinder
+
+ver drietelijkheden liever toevertrouwen dan aan zijn eigen Ouders?
+Wie zal zijn jongen in moeilijke tijden beter tot steun kunnen zijn
+dan de verstandige Vader? Wie zal het meisje beter tot leidsvrouw
+kunnen zijn dan de liefhebbende Moeder, die alles weet en ook alles
+kan vergeven?
+Gelukkig zijn de Ouders, die iederen dag kunnen genieten van
+de opgewekte verhalen hunner kinderen, die deelen in hun lief en
+leed, die tactvol en begrijpend tegenover hun kinderen staan en hen
+veilig leiden langs de soms doornige paden van het kinderleven. Vele
+Ouders stellen zich gelukkig nog als het hoogste ideaal voor hun
+levens-geluk zelf hun kinderen op te voeden tot degelijke en tot geluk
+
+kige menschen, die hun plaats in de maatschappij hebben verworven.
+Voor hen is het onnatuurlijk, ja dikwijls vreeselij k, te denken, dat
+hun kinderen ver van huis, onder leiding vaak van betaalde
+paedagogen in de plaats van de natuurlijke opvoeders zouden opgroeien.
+Neen, zeggen terecht die Ouders, welke het hoofd vormen van
+een gelukkig gezin: het beste internaat kan niets anders zijn dan een
+surrogaat van de gezinsopvoeding.
+Men behoeft nog niet eens onder den indruk te verkeeren van de
+film, die men zag: Madchen in Uniform" of van het tooneelspel met
+een inhoud van dezelfde strekking; het is niet noodig om de vele
+boeken over het kostschoolleven" tot getuigen op te roepen om
+een uitspraak als hierboven ten volle te kunnen onderschrijven.
+En toch.... hoe vaak komt het ook niet voor, dat het kind niet
+verkeert in een gezond en normaal gezin, hoevelen ook missen niet
+Vader of Moeder of misschien beiden, hoe dikwijls ook moet een
+eenig kind niet het belangrijkste deel van zijn kinder-geluk zoeken
+bij schoolvriendjes?
+Hoe is vaak het belang der Ouders of liever dat der kinderen te
+dienen, wanneer de Ouders niet meer in staat zijn te zamen hun kind
+te leiden, omdat hun beider leven niet voortgezet wordt in hetzelfde
+huis? Wat moet er van de opvoeding en studie der kinderen terecht
+komen, wier Ouders in overzeesche gewesten op afgelegen plaatsen
+moeten verblijven? Hoe moeten Ouders voor hun kinderen zorgen,
+wanneer zij zelf als rij k-bemiddelde menschen nu eenmaal moeten
+leven in een milieu, dat voor hun kinderen van slechten invloed dreigt
+te worden? Zijn de kinderen niet te beklagen, die door de al te veel
+liefhebbende Moeder zoo worden verwend en vertroeteld, dat er
+van over-opvoeding" sprake is? Kunnen de kinderen de zegeningen
+van een gelukkige gezinsopvoeding deelachtig worden in een milieu,
+waar men elkaar eigenlijk alleen maar ziet bij de maaltijden en dan
+nog niet eens geregeld ?
+Zoo lang deze gevallen zich blijven voordoen, kunnen goede inter
+
+naten niet worden gemist. In deze gevallen moet het advies gegeven
+worden om het kind voor korter of langer tijd in een ander milieu
+over te brengen. Vooral in den puberteitsleeftijd van den jongen
+of van het meisje komt het meermalen voor, dat de huiselijke op
+
+voeding op een dood punt schijnt gekomen te zijn. Wanneer in een
+bepaalde omgeving zekere hebbelijkheden van gedrag tot een gewoonte
+zijn geworden, dan zijn in die omgeving deze soms niet meer uit te
+roeien. Verplaatsing in een ander milieu kan dan vaak wonderen
+verrichten. Voor moeilijk op te voeden kinderen zal ook dikwijls
+een tijdelijke verwijdering uit het ouderlijk huis een uitstekend middel
+blijken om de liefde van zoo'n kind tot de Ouders op te wekken of
+aan te wakkeren.
+Zooals van zelf spreekt zijn er goede en slechte kostscholen,
+en wanneer wij soms de voorkeur moeten geven aan internaatsopvoe
+
+ding boven gezinsopvoeding, dan denken wij daarbij niet aan de
+draken van ouderwetsche kostscholen, zooals wij die uit de boeken
+kennen, aan de drilscholen", waar de leerlingen de gelegenheid bij
+uitnemendheid vonden om als het ware alle ondeugden van het op
+
+groeiend menschengeslacht te leeren kennen, maar onze gedachten
+gaan dan uit naar de New-Schools" in Engeland, de
+Landerziehungsheime" in Duitschland, de Ecoles Nouvelles" in Frankrijk en Zwit
+
+serland, en naar de moderne, goed geleide internaatscholen in ons land.
+Daar kan de intellectueele opvoeding uitstekend tot haar recht
+komen, daar zal voor de leerlingen dikwijls meer ernst en concentratie
+voor het leeren zijn dan thuis. Vreemde oogen dwingen," zegt men
+vaak, en wanneer die oogen behooren aan tactvolle, liefderijke op
+
+voeders, die zich steeds bewust zijn, dat zij de plaats van een Vader
+of Moeder moeten innemen, dan is het mogelijk, dat met dien zachten
+dwang resultaten worden bereikt, waartoe de Ouders niet bij machte
+waren. Wanneer de kinderen daarbij dan nog het voorrecht hebben
+te kunnen genieten van het frissche buitenleven, van lichamelijke
+verzorging, van sport, spel en gymnastiek in de open lucht, wanneer
+ze er leeren hun handen te gebruiken, wanneer zij door het samen
+
+zijn met andere kinderen leeren hun eigen wenschen en begeerten
+op zij te zetten voor de belangen van anderen, dan zullen de
+voordeelen van die omgeving voor die kinderen het winnen van de
+nadeelen, die aan een ,,surrogaat"-opvoeding nu eenmaal zijn verbonden.
+Hun, die vragen: maar bestaan er dan zulke moderne, zonnige
+opvoedings-instituten", mogen wij de lezing aanbevelen van de disser
+
+tatie over Die Landerziehungsheime" (Uitgave Paris, Amsterdam)
+van Dr. W. M. van Popta, die na zijn promotie de medewerker is
+geworden van Dr. J. W. L. Gunning, den directeur van het Instituut
+Monnier te Versoix bij Genève, mij persoonlijk bekend. In internaten
+als het Institut Monnier kan elk kind de grootst mogelijke kans
+krijgen op eigen ontwikkeling, maar ook daar zal het zich hebben
+te leeren schikken en zich te voegen in deze gemeenschap, zooals
+een samenbrenging van een 40-tal jongens en meisjes nu eenmaal
+eischt. Niet te groot moeten deze internaten zijn, immers, slechts
+bij een kleine gemeenschap onder een liefdevolle leiding kan een
+geest van gezellige huiselijkheid heersenen, door ons-Hollander s
+zoo gewaardeerd, die het normale gezinsleven het meest benadert,
+terwijl aan het onderwijs door zijn individueel karakter (Dalton
+
+onderwijs) dan rneer aandacht kan worden besteed, waardoor de
+bereikte resultaten gewoonlijk uitgaan boven die verkregen op een
+dagschool. Het werken en spelen wisselen elkaar af in n harmonische
+sfeer en de verhouding van jongens en meisjes kan in die moderne
+kostscholen, die feitelijk groote gezinnen zijn, veel gezonder zijn dan
+heel dikwijls op gewone scholen het geval is. De opvoeding in gemeen
+
+schap voor de groote gemeenschap, die de maatschappij is, is voor
+vele zelfzuchtige kindertypen vaak bijzonder heilzaam. Wij denken
+hierbij gaarne aan de gezamenlijke tochten in de Zwitsersche bergen
+door het genoemde internaat te Versoix dikwijls ondernomen en waar
+
+van door gezamenlijk overwinnen van moeilijkheden een groote op
+
+voedende kracht uitgaat. Zoo kunnen jongens en meisjes gevormd
+worden, die later in staat zullen zijn zich zelf te redden, die weten
+aan te pakken en die de waarde van den arbeid ook voor een ge
+
+meenschappelijk doel hebben leeren kennen en waardeeren.
+Onloochenbaar is het, dat clc zedelijke opvoeding in het internaat
+vaak aan ernstige gevaren is blootgesteld, maar in een moderne
+internaatschool onder leiding van moderne paedagogen kan en zal
+het zedelijk leven minstens even gezond zijn als thuis en vermoe
+
+delijk wel gezonder zijn dan van menig modern" meisje of jongen
+in een groote stad.
+
+(Slot op pag. 52)
+
+</text>
+<image timestamp="2002:09:27:16:37:52.00" size="201592">00000AUD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261204</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l• •' &gt;M
+4 Dec.
+e Amsterdammer
+eekblad voor NedcHand
+A-*fj»é*-«»MI» ftJtptt • ••*!
+KEIZERSGRACHT 333
+
+AMSTERDAM
+TELEFOON :
+Redactte	379M
+Admlnbtntle	37963
+R A A O T
+'VAN
+.*
+tlMNEin
+
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+E X(rÖR T
+Voor .
+handco ka -WUB. In dooien »«! en 45 t.
+N T. ^VTOLT T/h I^POOL A Zn A'dam
+A K ZURCHER
+s:
+LOQlBRSGRACHT64-66-48-70-72AMSTEkDAM
+
+STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER U EER HET
+TE LAAT IS!
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM LEEUWARDEN.
+.V. jMeubelmagazijn
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+IBehan^er|j - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+|;"' Oud-Hollandsche Meubelen
+| WJZELGRACHT13, Telefoon 37354
+STANDATRD MOTORKRUISER
+
+lang 8.50 M., kajuit.keuken.W.C., cockpit,
+2—5 slaapplaatsen. Vraagt prospectus,
+
+Werf NlcoIaasWitsen'
+STOEL ALKMAAR.
+_
+Een Foto-toestel dat is
+
+na net leuk voor
+
+Sinterklaas!
+
+
+C A P I
+
+AMSTERDAM
+
+115 Kalverstraat ^
+MAAR
+
+KARELI
+Anthroposoflsche Ver. afd. A'dam.
+
+Openbare Voordracht
+
+Muziek in het Licht der
+
+Anthroposofie
+door HENRI ZAGWIJN
+10 December 's avonds 8 uur,
+Hobbemastraat 6. Toegang f 0.75.
+Tl MTU R
+KINDER
+iCHOCNENI
+N.V.
+HA.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE
+
+SPANJAARD 6 Co, 'ABS&amp;SÏAIIA
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOÜTSCHILT
+
+Singel 283 Amsterdam
+
+SK
+sus
+l
+SIK
+«SS
+EUROPEESCHE
+Goederen' en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+
+tijdens REIS- en VERBLIJF in .
+GEHEEL EUROPA, direct aan de
+
+stations der NEDERLANDSCHB
+
+SPOORWEGEN verkrijgbaar
+i*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, München, Oslo, Parijs. Praag, Rome, Stockholm,
+Warschau en Weenen.
+
+
+
+
+</text>
+<image timestamp="2002:09:26:10:56:53.00" size="215406">D1000860.TIF</image>
+</page>
+</document>

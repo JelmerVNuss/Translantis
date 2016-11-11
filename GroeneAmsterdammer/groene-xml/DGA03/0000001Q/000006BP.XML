@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280225</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De vrede verstrikt in de internationale tractaten
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 25 Februari 1928 Nadruk verboden
+Amst. BOCK- en Steendr. vih. Ellerman. Harms Co
+Ia zijn rapport voor het Comitévoor arbitrage en veiligheid schrijft
+Politis, dat de vrede belemmerd dreigt te worden door al de tractaten:
+85 tractaten van arbitrage, 15 trnctaten voer politieke samenwerking,
+3 tractaten voor een onzijdige zone en 15 uarantie-tractaten.
+
+</text>
+<image timestamp="2002:09:04:06:05:06.00" size="188684">000006BP.TIF</image>
+</page>
+</document>

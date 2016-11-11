@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020824</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. J 313
+D.E AMSTERDAM M E-R WEEKBLAD VOOfi
+Keizer Wilhelm en zijn telegrafisch aanbod aan den prins-regent van Beieren.
+(Vrij naar Befregger'S Salontyr«kr).
+' / ^/N
+rt*ö$l
+Kaizer WILHELM: »Ik, ah eerste .Blier, koa hier met 100000 Mirk voor om: kunsi"
+Uit het uiterste Oosten. (Fiscftietto).
+De afschaffing der Li-Kin accijnzen. (Punch).
+Uit Ho-ha". (Nizza).
+We], vrienden van den Vrede... in EjropiS A's J3;ui zoo'n trek hebt om te kibbelen,
+is mijn buis altijd tot je dupoiitie, en ik zal myn best doen om het er jelui zoo onaan
+
+genaam mogeiyk te maken.
+De vrijzinnige hervormingen in Rusland. (Notcrelle).
+MANDAMJN : »W.-»t l i.iks iut t,i tr iiku. ? O ho !
+Chinaman weet plenty ander manier dollar te krig,
+" !''
+Op zee.
+
+Hou je kalp, vadertje wao, de adeJapr zit te broeden.
+Ik geloof niet aan woederen. Ben adelaar heeft nog nooit een duif uitgebroed.
+JCan (die zicli ze// een dichter geloof l) : »0, viiul u die
+golven niet goddelijk ! Voelt u de betoovnring ook, alsof
+allfiH, 't beste wat in je is, naar boven wi! met geweld."
+Schoone Amer'/M-anxche: »0, Heere ja ! ik weet best
+wat u voelt; 'k geloof dat u verstandig znlt doen, om
+vlak op uw rug op uw couchette te gaan liggen."
+Al'cert van Monaco de doodspauw.
+Kruipend gedierte in Europa. (Uijen?piegel).
+M E."-.' v.' C ' O T ••ƒ F RXZ o C - T
+
+
+REPTIELEN"
+CJ l E T
+TE F'.l^WEM OF TE
+E R SC K R l K K £ M .
+O; gevaarlyk, als ze maar achter de tralies bl\jven :
+
+</text>
+<image timestamp="2002:08:18:08:28:22.00" size="528708">D2001HU.TIF</image>
+</page>
+</document>

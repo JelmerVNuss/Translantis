@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240607</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 245!
+ASPERGES
+fijnste, dik, blank, frisch, franco huis postwissel.
+Kistje stevig verpakt 4 pd. f3.—,6 pd.f4.—,8pd.f5.
+Stopasperges 25% meer, lengte Sterllis 75% juiste glasmaat.
+Firma ISIDORUS, Bergen op-Zoom - Tel. Interc. 119
+BLANKENBERGHE Cieil Hotel Lion D'or
+a/Zee.
+Centr.Zeeboulev.n/h Casino. Bill.cond.
+DINANT Hotel des Familes - HotelSplondid Palace
+t* 111111 * i Eerste Klasse _ Mod Comf _ Park van 6 H A
+LAROCHE Grand Hotel des Ardennes
+(Luxemburg)
+Modern Comfort Prima Keuken
+ROCHEFORT HOTEL BIRON
+iivrvriit-ivni Mod&gt; ^ Qarae P
+Prima Keuken_
+Inl. en Prosp. van deze -Hotels gr. Intern. Verkeers-Bureau,
+Kalverstraat 168—170, Amsterdam.—Noordeinde 31,Den Haag
+Wekelijksche Autotochten naar de Bel. Ardennen
+Vraagt Prospectus
+KLEIN KOPERWEBK, gedraaid of gestamt, blank
+'•f vernikkeld levert tegen zeer lage prezen
+IffeESIEUBSBOBElU VIN NISPEN, ZWOLLE.
+&amp;
+AMSTERDAM,
+DEN HAAG.
+Dit taschje, in bruin
+Antiekieder met imit.
+Ivoor gemonteerd kost
+
+f 12.50.
+Groote collectie
+Damestaschjes, zoowel in
+Weensch, Italiaansch en
+geperst leder als in effen
+kleuren.
+
+PRIJZEN VAN
+
+f 4.- tot f 60.-.
+AKTEN
+TAS
+PRIMA RUNDLEDER
+, MET HANDVAT
+REKLAME PRIJS:
+DEZE AKTENTAS IS VERVAARDIGD
+VAN PRIMA VOL RUNDLEDER.
+HET HANDVAT IS EXTRA VERSTERKT
+DOOR EEN MET LEER OVERTROKKEN
+STALEN BAND
+GERZON
+KALVERSTRAAT
+DAMSTRAAT
+iOUDB^rNTB^O»
+OGEVESTIGDTNOODTl
+flUTOTEENBBZOEK»
+
+'TÏimïL'
+E. 1. DE KONING l h • Keizersgracht 44T
+(voorheen L El DSC H EST RA AT 69)
+GASFORHUIZEM
+lYï^fflEmgrt
+bij AMERSFOORT
+100 H.A. Bosch
+PENSION met kamer
+per dag f5.—bij 3 daags
+verblijf
+,, f 4.50. bij week
+,, f4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+De N. V. Koek-en
+Banketfabriek
+HARTOC"
+Telefoon 23425
+Gerard Douplein 24
+AMSTERDAM
+fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concur r eerend.
+OOK VOOR EXPORT
+MMIËIlHllHlIËl l lËIlÊLlIËIIËIIËIIËI
+AMERSFOORT
+Snouckaertlaan 22-24
+TELEFOON 218
+iJOSEF VEDRAL
+
+l
+Meiier «oor vekkundige repentlie.
+Groote collectie Oude
+Meesterinstrumenten hier
+te lande.
+Agentschap:
+Hill &amp; Sona Londen.
+Oudste en bekendste
+adres- voor echte Itallaansch»
+Viool en Cello-snaren.
+Filiaal voor instrumenten en
+toebehooren:
+Amsterdam, Dicoitaplelo lo. 12.
+i.
+DIR. JAC. V. D. BOSCH
+AMSTERDAM
+STADHOUDERSKADE 80
+
+BLOEMENDAAL
+VILLA SORGH-VLIET"
+
+TUINPLASTIEK
+NED : KRING : VAN
+BEELDHOUWERS
+VAN 18 MEI TOT 15 JUNI
+VAN 10 TOT 4 UUR
+BLOEMENDAALSCHE WEG
+148 : VILLA : SORGH-VLIET
+
+BLOEMENDAAL
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDEBMAKERIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+BOEKBINDER
+KOESTRAAT 53
+AMSTBRDAM
+Illustratiedruk-papier van de Firma C. G. A. CORVEY Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:09:37:29.00" size="195831">D2003MK.TIF</image>
+</page>
+</document>

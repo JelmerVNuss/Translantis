@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>32</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+P
+'n.
+LEEFT GE WEL
+geheel mede met
+Uw kinderen in
+de Tropen?
+Kino opnamen geven U het leven
+weer in hunne volle beweging.
+Ze zijn de moderne wijze, en de
+eenige manier, om U te verplaatsen
+in de omgeving van hen die U
+dierbaar zijn, doch ver van U
+verwijderd.
+Schenkt ze een 4
+en gij kunt hen, die zoo ver van U
+verwijderd zijn, bij U halen in Uw
+huiskamer, wanneer U maar wilt.
+Denkt U zich dit genot eens in....
+Laat U omgaand inlichten omtrent
+het wonder van deze eeuw .
+PROSPECTI - GRATIS - OP - AANVRAAG
+AGENTEN VOOR
+BELL &amp;. HOWELL
+Atttomatic
+FOTO SCHAAP &amp; Co.
+(W. H. BRANDSMA)
+AMSTERDAM
+HOOFDMAGAZIJN: SPUI-8 - TELEFOON: 41919
+JANUARI-1931 Opening van ons filiaal: Amstelveenscheweg 214
+(TEGENOVER KONINGINNEWEG)
+CAMERA'S - KINO'S - EN - FOTO-ARTIKELEN - VAN EERSTE FABRIEKEN
+
+</text>
+<image timestamp="2002:09:22:11:59:55.00" size="198121">000008S8.TIF</image>
+</page>
+</document>

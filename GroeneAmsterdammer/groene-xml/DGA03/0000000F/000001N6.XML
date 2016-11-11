@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081115</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Antonius en Cleopatra.
+De intree van Dr. Kuyper ir Ue Tweede Kamer.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 15 November 1908.
+Arnst. Hoek - en SteendrukKerij, v'h. E'ierman, H arm s &amp; Co.
+AN':'ONIUS-HKEMSKERK: Ze is wel knap, maar haar arm drukt zwaar l"
+
+</text>
+<image timestamp="2002:08:15:06:37:56.00" size="291284">000001N6.TIF</image>
+</page>
+</document>

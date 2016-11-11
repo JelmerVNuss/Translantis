@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18901123</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+A. W. GROOTE &amp; ZOON,
+43 XJCa.1 verstraat 43.
+t PRIMA *
+Ruime collectie Pkotographiën,
+Photographeeren en Kooldrukken naar Schilderijen
+
+van oude en moderne meesters.
+
+STEREOSCOPEN, GRAYASCOPEN, PHOTOGPAPHIELIJSTJES
+in alle Genres.
+
+MT Tot een bezoek aan onze Magazijnen en
+speciaal ingerichte Kunstzaal wordt aanbevolen.
+
+PIIOTOGRAPHIETOESTELLEN en verdere benoodigdheden
+
+voor H.H. Amateurs-Pholographei).
+l Patent
+en Kachels
+Verschillende modellen in diverse pryzen voorhanden en in werking te zien.
+Vraag geïllustreerde Prijscourant.
+
+WiLLIAM 8UGG &amp; C°LTD.
+MelxersgracM 400, Amsterdam.
+C. COSSA,
+183 Kalverstraat 183,
+VOORRADIB voor de aanstaande SINT NICOLAAS, een prach
+
+tig assortiment
+
+NOUVEAUTES,
+in alle genre van artikelen, in zoo groote keuze, als nog nooit hier
+in Amsterdam is te zien geweest, en in alle verscheidenheid van prijs,
+welke op de Boven- en Beneden-Magazijnen geëtaleerd zijn.
+25 pit. KORTINO OP ALLE ARTIKGLKM.
+Tevens uit de hand te koop de Winkelopstand.
+. H. jÖWINNEÏ^TON
+Formerly Robert Love.
+
+English Silversmith etc.
+
+G A L E R IJ 19, Amsterdam.
+Geïllustreerde Prijscouranten franco op aanvrage.
+Een even nuttig als voordeelig CADEAU voor dit feest is eene
+
+
+Naaimachine
+en worden alle soorten, ook lipt nieuwste, tot buitengewoon goedkoope pryzen geleverd. Een
+aardig Souvenir wordt bijgevoegd.
+TWEEDRAADS EANDMACHINES van af ƒ10,
+A. LE WENSTE IN,
+Warmoesstraat 189 b/d Dam. Kalverstraat 146/148 b/h Spui.
+THE IMPROYED CRANDALL-TYPEWRITER,
+met de nieuwste en laatste ver
+
+beteringen, is ontegenzeggelijk de
+beste en duurzaamste
+SCHRIJFMACHINE.
+Door de verstelbare letterol is zy in
+werkelijkheid onversiytbaar.
+Onderricht gratis.
+Uitsluitend bij de Hoofd-Agenten
+
+JOHAN KOOPMANS &amp; Co.,
+Keizersgracht 302. Amsterdam.
+l Agent te Rotterdam: 3. A. M. BEKKING.
+IJsélstein: H. J. SCHILTE.
+Antwerpen-.KOCKX &amp; Co.
+ASPHALTE
+VOOR
+Rijwegen, Trottoirs, Kelders, Gangen, enz.
+Adres: NEUCHATEL ASPHALTE Co.,
+Amsterdam.
+\V. I»ATO\ WALSII, Dir,
+J. J. HARTE.
+van
+den
+en
+AMSTERDAM, UTRECHT,
+
+Kalverstraat 168-70. Oude Gracht.
+bij den Heiligenweg G 19.
+en Voetboogstraat 11.
+$. &lt;$f. de tKoningta.
+
+ROTTE KD A M,
+
+Hoogstraat 252-4
+over 't Stadhuis
+en Steiger 9 en 9 bis.
+SPECIALITÉDE
+
+Corsets Francais
+'glas, (Aardewerk, (Kristal en Porselein,
+Afzonderlijke Lokalen voor
+
+Tafelserviezen, Waschstellen.
+PORSELEI&gt;TE\ AFELSERVIEZEÏf, f in nieuwe modellen
+ENGELSCHE TAPELSERVIEZEN, l en decors.
+Witte porseleinen en gekleurde Tafelserviezen van af fl. 86.
+Compleete Stellen Romer» en aralïeii enz.
+Koffie-. Thee- en Déjennerserviezen.
+Groote sorteering BLAUW PORSELEIN.
+By verzendingen, zoowel binnenslands als voor Oost- of West-Indië, wordt
+voor uiterst zorgvuldige verpakking ingestaan.
+W 4,
+DE JOBSIADE,
+
+Het 105 illustr, van Wilhelm Buscli.
+e goedkoope Uitgave.
+Prjjs f 0.90, gebonden f 1.25.
+ALOM VOOEHANDEN.
+G. L. MATTEER,
+REGULIERSBREESTRAAT 16, AMSTERDAM.
+
+St, Nicolaas-Cadeaux,
+Piano's, Mechanische Piano's, Orgels, echte
+Zwitsersehe Speeldoozen, Aristons, Symphoniums,
+Violen Cellos, Metronomes, enz.
+Eenig agent van de beroemde Piano's C. RÖNISCH, Dresden.
+Van Veeii's THEE, 'tfljnst en 't^oedkoopst ? aanbevolen iUélange , a 195 et. Damrak 9O, Amsterdam.
+
+</text>
+<image timestamp="2002:10:03:06:20:58.00" size="410759">D2007GK.TIF</image>
+</page>
+</document>

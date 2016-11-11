@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210115</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE EERSTE VERJAARDAG VAN DEN VOLKENBOND
+Nadruk verboden
+BljVOHüSEL van De Amsterdammer", Weekblad voor Nederland van 15 Januari 1921
+Ainst. tfoek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co.
+
+
+
+John Buil: Van harte, moeder! 't Wordt al 'n aardige jongen, net de oogies van z'n pa!"
+Moeder Europa:,, Alleen maar jammer, dat z'n pa zoo weinig om hem geeft!"
+
+</text>
+<image timestamp="2002:08:24:05:10:08.00" size="317219">D40003BU.TIF</image>
+</page>
+</document>

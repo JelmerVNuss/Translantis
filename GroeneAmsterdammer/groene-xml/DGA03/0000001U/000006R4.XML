@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280714</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE GROENE AMSTERDAMMER VAN 14 JULI 1928
+No. 2667
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+HIIIIIIIIIIIIIII1HII
+l*	Kllll	«"Il IIHJIimilMMIIimillllllHMMIIII*
+LIPS &amp; PETERS
+DORDT
+SlIlllllllllllllllllilllllllllllllllllllllllllllllHIIIIIHMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIIIIIIlllllimillllllHIIIIIIIIIIIIIIIMIIIIIIr
+Volgens nevenstaande foto leveren wij prima Ledikanten met
+Spiraalmatras en verstelbaar peluw, zwart gelakt f 11.50, wit
+gelakt f 13.50, goed verpakt onder rembours door geheel Nederland
+
+N.V. Beddenfabriek DE ZWAAN
+Goudschcweg 140-142 ROTTERDAM
+Telefoon 10345 Giro 13286
+Vraagt prijs bij grootere afname voor Hotels en Pension»
+Q.
+U
+U
+N
+
+U
+K
+&lt;
+n
+
+u
+o
+voorkomt
+dit door
+het gebruik
+on
+- Lijmt ALLES
+DE BESTE £N GOEDKOOPST f
+OVERAL VE.OKRYG6AAQ
+AOBCS VonANOCL
+JOHM.VAN OER MEIOEN
+AMERSFOORT
+BADKtMEBINRICHTIIIGtll
+zoowel eenvoudige als betere uitvoering.
+G. J. DE KONINGS ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+f Voor alle doeleinden
+l N.V
+P Chein.KijnstinrichtJng
+IDirkSchnabei
+Amsterdam. ~*
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+miinuiiniuniuniiiiiiuunwiiniinnniiiffliniiniinimTiniiiinimiiiiiffliiiiiiwi
+
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Atelier»
+Bfl «• verkrijgbaar
+N. R. V. MONTA SCHOENEN
+imiuiaBniniaunuiiiffliimiiiiinnHiiiiiiiiniiMiiiiMiiiiiiiiiiiiiiniiiiiifflmiiiniiiiiiinnBi
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+QROOTE tlOUTSTR.101103
+TEL.1O575
+HAARLEM
+PERZISCHE TAPIJTEN
+DIRECTE IMPORT ENGROStlANDEL
+VERWEEGEN &amp; KOK
+AMSTERDAM
+DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+£ 65*- af
+
+</text>
+<image timestamp="2002:09:04:22:18:53.00" size="125015">000006R4.TIF</image>
+</page>
+</document>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280428</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 28'APRIL 1828
+|.No. 2656
+l
+t'
+at
+
+Sl
+J. D. STRUIJS &amp; Zn*
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 14 - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+Ookvoorde.
+HEERENWASCH
+kunt U tegenwoordig vee/
+heter en gemakkelijker
+een
+vertrouwde wowcAer/y
+A/ezen
+KON STOOMWASSCHERU
+EN BLEEKERU
+DAALMANS
+OOUDA TEL 95
+AMSTERDAM TEL3334O
+DEN HAAG TEL7253O
+PROF.
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOH.H.v.D.MEIDBN - Amersfoort
+BAOKtMERINRICIITIKIiEII
+zoowel eenvoudige als betere uitvoering.
+G. J. DE KONING &amp; ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+«iiimniiiiiiiiaiuuiiinniiiiiiiiiniiimiHnrarauiiiiirauraiiiiiiiiiiiiiiiiiiMiiMfiiiiiiiiiiiiiimniniiiiiïiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiimiint
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ «n verkrijgbaar
+N. R. V. MONTA SCHOENEN
+mmraiinimiiniiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiiimnmmmni
+te indruk
+re eerste maru
+is meestal een blijvende, zegt men
+wel eens, en daar is veel waars in.
+Dit is van toepassing op personen,
+zoowel als op zaken.
+Maakt iemand door uiterlijk en ma
+
+nieren een goeden indruk bij de
+eerste kennismaking, dan zal ook
+zijn innerlijk in de meeste gevallen
+daaraan beantwoorden.
+Het uiterlijk van een doos Droste's
+bonbons of pastilles neemt al dade
+
+lijk iedereen voor zich in en heeft
+men eenmaal met het innerlijk ken
+
+nis gemaakt, dan blijkt vanzelf, dat
+de eerste goede indruk een blijvende
+is. Neem vandaag eens een doos
+Droste's mee naar huis.
+T&gt;roste Qttydwettom"
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+f* A
+VI. A.
+A CTTFOO A BH
+, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRE.CHT ALMELO
+
+</text>
+<image timestamp="2002:09:04:13:41:54.00" size="152882">000006IV.TIF</image>
+</page>
+</document>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300524</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2764 van 24 Mei 1930
+25 et
+roene_ _
+reekblad voor Nederland
+KEIZERSGRACHT 355 AMSTERDAM CENTRUM
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H
+del xtensioL
+eupgor
+
+van prima Fransch Elastiek,
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+tot heupwijdte 100 c.M. nieuwen prijs f H.
+verder tot 115 c.M. 15. ~
+
+Bij schriftelijke bestelling gelieve men als maat
+op te geven de wijdte over breedste deel van d«
+heupen, over onderkleeding gemeten.
+Voorhanden een enorme keuze
+.fcj.astieken
+:oeL
+EXTENSIBLE"
+-eupgor
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heupgordels
+garandeeren wij.
+dmsfercfa/n
+is de naam der amateur filmopname en weergaaf apparaten der Bell &amp; Howell Omp. te Chicago; een firma,
+die reeds gedurende een twintigtal jaren beroepscameras tot prijzen van $ 500,000, TOOI- de Paramount,
+Metro-Goldwin e.a. eerste filmfabrieken fabriceert.
+
+het ideaal filmopname apparaat voor den ajnateur, ideaal, omdat men er in vereenigd heeft alle mogelijkheden
+die we alleen bij zeer ingewikkelde beroepsajparaten aantreffen, b.v. Slow-Motion. Fading in and out, gebruik
+van Tele- en zeer lichtsterke objectiven F. 0,99.
+Hiermede is het voor den amateur mogelijk, om ook in de oogen van professionals beroepswerk te leveren.
+Het voortbewegen der film geschiedt AUTOMATISCH, het ouderwetschc, lastige mot den hand draaien
+en werken op driepoot is hiermede natuurlijk uitgeschakeld.
+Het gezegde: WHAT YOU SEE YOU GET! typeert volkomen deze apparaten; U kijkt door den zoeker,
+druk op den knop.... en filmt Uw spelende kinderen in tuin of aan het strand.
+Elk grappig tooneeltje van Uw reis of boottocht kunt U op deze wijze vastleggen en. . . . LATEN LEVEN
+wanneer U dat wilt! Zullen de films, die U op deze wijze ZELF heeft gemaakt na tientallen jaren hun gewicht
+in goud niet waard zijn?
+
+Vraagt ons eens de mogelijkheden voor het aanleggen van een LEVENDE FAMILIE ALBUM; wij zullen U gaarne ten dienste staan
+met demonstraties en prospect i.
+FOTO SCHAAP &amp; Co
+generaalapten Jer 8ELL &amp; HOWELL Pomp.
+Showroom en demonstratiezaal - Spui 8 • Mam.
+
+</text>
+<image timestamp="2002:09:21:16:43:17.00" size="145154">0000086Q.TIF</image>
+</page>
+</document>

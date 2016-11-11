@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321022</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2890 van 22 October 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+'	Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72880 - gern. giro G. 1000
+Vraagt steeds onzen weibekenden
+
+GRAVES SUPERIEUR
+Een prachtigen 'Witten
+BORDEAUX W IJ N
+i
+Prijs slechts ƒ 1.60 per flesch
+Levering franco door geheel Nederland
+H.V.HOOGEWE^CHABOT&amp;VISSER'SllANDEl
+DEN HAAG
+
+Stille Veerkade 25/27
+T«L N». 110989
+ROTTERDAM ARNHEM
+
+Jufferstraat 27 Eusebiusbinn.s. l
+Tel. No. 51155 T»l. No. 24084
+N.V.VH
+HA.KLOÖSTERHUIS
+KALVER5TR.I78
+AMSTERDAM
+WEILL&amp;ZOON
+BONTWERKERIJ
+DAMESKLEEDERMAKERIJ
+BARTELJORISSTRAAT 26-28
+HAARLEM
+N.
+BISAMBUIK- EN
+BISAMRUG MANTELS
+NAAR MAAT, 1E KWALITEIT
+ƒ250.
+Juist verschenen:
+
+Gita-Gowinda, pastorale van Djajadêwa,
+uit het Sanskrit in Nederlandsche verzen overge
+
+bracht door Prof. Dr. B. Faddegon.
+
+
+Formaat Oosterse Bibliotheek, 192 blz. voorzien
+van Inleiding (37 blz.), commentaar en afbeel
+
+dingen naar Hindoeminiaturen en- tekeningen.
+Het Gita-Gowinda-Kawya, Het Lied dat den herder bezingt", het
+Indiese Hooglied, is een der grootste lyries-dramatiese kunstwerken der
+wereldlitteratuur.
+In de Inleiding behandelt de vertaler: De rolverdeeling; de mytho
+
+logie ; de erotische symboliek ; de interpretatie als allegorie door Sir. W.
+Jones en Christian Lassen; Dramatiek en Lyriek; Legende en historie
+rondom de figuur van Djajadêwa.
+
+Ing. f 2.90 geb. f 3.90
+Bij den Boekhandel en
+bij Uitgeverij C* A. MEES, Santpoort
+
+</text>
+<image timestamp="2002:09:21:19:20:11.00" size="97157">D2005E6.TIF</image>
+</page>
+</document>

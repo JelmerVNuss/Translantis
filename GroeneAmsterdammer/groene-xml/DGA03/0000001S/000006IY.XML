@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280505</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER VAN 5 MEI 1928
+No. 2657
+SLEIPNER
+JJe beste sigaret uoor3c
+Clichés
+Voor alle doeleinden
+l NV
+P Cnein.Kunstinrichting
+JDirkSchnabei
+Amsterdam. '
+TE HUUR^AMSTERDAM-ZUID
+
+Z([R CONFOmiELE GROOTE«NE FUT
+Bevattende vier groote kamers, drie kleine, keuken en badkamer
+Huurprijs f1800.—inclusief centrale verwarming
+ZEER GUNSTIGE LIGGING VOOR DE
+AANSTAANDE OLYMPISCHE SPELEN
+Niet voor Bcroepspcnsiona. Brieven no. 6556 a/h bur. v. d. blad.
+VOOR
+TAFELZILVER
+(HANDWERK)
+EN
+IMITATIE ANTIEK
+ZILVERWERK
+
+IN DEN SILVEREN
+MOLENBEECKER"
+AMSTERDAM DEN HAAG
+Kalvers traat 32 Hoogstraat 31
+W. l VOGEL Jr.
+2e Jan van der Hcijdenstr. 3
+b. h. Sarphatipark
+Telefoon 24747
+BEGRAFENISSEN
+CREMATIE
+TRANSPORTEN
+NADRUK VERBODEN
+(L
+UI
+UI
+N
+
+UI
+K
+&lt;
+DO
+
+U
+O
+J
+voorkomt
+dit door
+het qebruik
+cm
+UI
+O
+J
+CL
+K
+U
+UP
+UI
+U
+3
+
+i
+«r
+O
+O
+K
+ui
+Q
+Z
+O
+N
+SiDKtMMHIllCHIlHGtU
+zoowel eenvoudige als betere uitvoering.
+G. J. DE KONINGS ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 173».
+Een idiaal zomerverblijf tegên uiterstbillijken prijs is:
+GRUNDLSEE
+(SALZKAMMERGUT)
+PENSION
+KORANYI
+Dit heerlijke Alpenoord, met alle aantrekkelijkheid van
+meeren en bergen, biedt door zijn gezonde ligging een ideaal
+verblijf aan den;vacantie-zoeker&lt;die werkelijk_genieten wil.j
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen
+DORDT
+7iiiiiiiiiiiiiniiiiiiitiiiMiiiinniiiiiiiiuiiiiiiiiiniiiiiiiinniiiinitn iniiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiiiiiniitnuiiMiiiiiiiiinii
+AMSTERDAM
+DEN HAAG
+NDISCHE CATALOGUS
+FRANCO OP MNVRAGE
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+f 65*~ af
+
+</text>
+<image timestamp="2002:09:04:13:46:07.00" size="165204">000006IY.TIF</image>
+</page>
+</document>

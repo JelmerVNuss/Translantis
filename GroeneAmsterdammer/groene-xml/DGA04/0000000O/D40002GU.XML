@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160729</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET OPBRENGEN VAN NEDERLANDSe HE VISSCHERS VAARTUIGEN
+Nadruk verbodea
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 29 Juli 1916
+Aifcst. Boek- en Ste*ndrukkerij, vfli. EUerman, riarms A Co
+De Nederlandsche Haringvisschers tot John-Bull—Gulliver: Is dit nu de eerbied voor het recht
+der kleine Staten?"
+
+</text>
+<image timestamp="2002:08:22:16:28:51.00" size="354027">D40002GU.TIF</image>
+</page>
+</document>

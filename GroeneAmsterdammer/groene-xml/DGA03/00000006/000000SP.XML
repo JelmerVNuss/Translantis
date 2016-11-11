@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070407</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De boeren-opstand in Rumenie.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 7 April 1907
+t ^%.~ ^ ^ «^-&gt;'t "* w v ;&gt; •», .'^^«i^vv*^
+&gt;;i'^x ;-'?ïfei%&gt;^*w
+. -,v * v&gt;/v v^vaSSï'A. ^Vkif\All&gt;
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms Sr Co.
+KONINGIN ELISABETH (Carnten Sylva): Maar Karel, wie had aan zoo iets nu kunnen denken.. . Waarom heb je me daarop niet
+voorbereid . . . ?
+KONING KAREL: Ach lieve, ik heb te veel naar je gedichten geluisterd. . .
+
+</text>
+<image timestamp="2002:08:12:08:40:11.00" size="519817">000000SP.TIF</image>
+</page>
+</document>

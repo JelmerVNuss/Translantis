@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240322</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2440
+J. D. STRUIJS * Zn.
+Prinsengracht 887
+VEL. 37906
+P. O. Hooftstraat 140
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+MET N UITRUSTING
+UIT DE BIJENKORF
+DB NIEUWE CATALOGUS
+± 200 BLADZ- MET 2OOO
+ILLUSTRATIES, FRANCO
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies
+BONBONS
+CHOCOLADE
+PASTILLES
+iaiLLETTE
+APPARAAT
+.Cl
+= BI) IEDERE AANKOOP ==
+H VAN EEN HALF DOZIJN JJJJ
+= GILLETTEMESJESa I
+BEGRAFtNISVEREENIGING
+N. SAX Jr.
+P.C. Hooftitraat 38, Amitirdaa. Tilif.: 20341, 242601
+REGELING VAN BEGRAFENISSEN EN
+l CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ZONDER ENIG VOOR- =
+BEHOUD WORDT ELKE |
+HOEVEELHEID AFGEGEVEN =
+ADRIAAN SCF)AKEL
+11 17 A*STERDJtn
+Overhemden naar Blaat
+Vervaardigd op eigen atelier
+fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiNi |B|LILUULU U
+Visch- en
+Tafelmosterd
+BA A RN
+Bouw- en Woningbureau van de
+N.V.Woningbureauv/hJ.D.F.VAN
+DER VEEN, Kantoor van Vaste
+Goederen, Teding v. Berkhoutsti.3.
+
+BIKKER i nn\n
+BOEKBINDERS imstiidam Telel. 46828
+Utrechtschedwarsstraat 17 -19
+- bij de Regulimgiacht
+BINDEN SCHOOL- EN
+STUDIEBOEKEN
+GELEGENHE1DSALBUMS PORTEFEUILLES
+ENZ.
+STEENHOUWERU D. WEEGEWIJS,
+«APÉNBURG 14. AMSTERDAM. Tel. 42662
+MARMERWERKEN.
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAXERIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+DAtttS!
+Laat uw wasch behandelen
+door de wasscherij
+£irib",Tildnrutr. 22-24. Tel. 23725
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEIDIG &amp; Co.
+Gebr. BREEN
+NIEUWENDIIK172. - Tel. '9861
+ROMCWHÏ53. - Tel. 30345
+HAARLEMmil. 64 - Tel. 30346
+Grootste sorteering Westm. Klok
+
+ken, Pendules, Horloges, Wekkers,
+Gouden en Zilveren Werken.
+Ie Qualiteiten. Lage prijzen.
+Gouden Ancre Horloges f
+65.Zilveren
+20.Nikkelen
+5.Wekkers van af f 2.—.
+f Spuistraat 36
+Pint Heinstr. 107
+ARNHEM GRONINGEN
+Ketelstr. 24 Heerestraat 11
+DORDRECHT DELFT
+Voorstr. 289 Hyppolitusbuurt 35
+ROTTERDAM
+Hoogstr. 344
+LEIDEN
+Maarsmanssteeg 23
+NIEUWE MODELLEN
+C. P. a la Sirene Paris
+Elastiek Corsetten
+Gelegenheid Corsetten
+Corsetten met elastiek
+binnenband
+Bustenhouders in alle
+prijzen
+Co^setten naar maat
+of model
+lustratiedruk-papier van de Firma C. G. A CORVEY Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:03:58:40.00" size="145637">D2003EY.TIF</image>
+</page>
+</document>

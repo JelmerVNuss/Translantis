@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180126</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+26 Jan. '18. No. 2118
+W. J. THIEME &amp; C!I TE ZUTPHEN geven uit:
+DE MYTHEN EN LEBENDEN-SERIE
+H.A.GUERBER. Mythen en legenden uit de Middel
+
+
+eeuwen.
+Haar oorsprong en invloed op letterkunde en
+kunst. Bewerkt door Dr. H. W. PH. E. VAN
+DEN BERGH VAN EYSINGA. 3e druk, met
+64 fraaie platen. Ing. f 4.25, geb. f 5.
+
+H A, MM Mythen van Griekenland en Rome.
+Bewerkt door Dr. B. C. GOUDSMIT. 3e druk,
+met 64 fraaie platen. Ing. / 4.25, geb. /' 5.
+
+H. A. SliERBER. Noorsche Mythen
+uit de Edda's en de Sagen. Bewerkt door Dr. H.
+W. PH. VAN DEN BERGH VAN EYSINGA,
+2e druk, met 64 fraaie platen.
+Ing. / 4.25, geb. /' 5.—.
+
+T. HADLAND DAYIS. Mythen en Legenden van Japan.
+Bewerkt door Dr. B. C. GOUDSMIT, met 32
+prachtige gekleurde platen. 2e druk.
+Ing. f4.25, geb.
+f5.
+W. M. PETROVITCH. Heldensagen en Legenden van
+
+de Serviërs
+Bewerkt door J. P. WESSELINK—VAN ROSSUM,
+met 32 prachtige platen in kleur.
+Ing. ƒ4.25, geb.
+ƒ5.
+T. W. ROLLESTON. Keltische Mythen en Legenden.
+Bewerkt door Dr. B. C. GOUDSMIT, met 65
+prachtige platen. Ing. ƒ4.25, geb. ƒ5.—.
+
+Dr. H. i. W. SALOMONS. Gewijde Verhalen en Legenden
+
+van Hindoes en Boeddhisten
+met een voorwoord van Prof. Dr. W. CALAND,
+met 32 prachtige platen in kleur.
+Ing. ƒ4.25, geb. ƒ5.
+
+JOSEF COHEN. Nederlandsche Sagen en Legenden
+met 32 platen in kleurendruk en zwart van
+- POL DOM. Ing. ƒ4.25, geb. ƒ5.—.
+E. M. TAPPAN. De Geschiedenis van het Romeinsche
+Volk.
+Bewerkt door Dr. B. C. GOUDSMIT, met vele
+illustratiën. Ing. ƒ2.25, geb. / 2.90.
+
+E. M. TAPPAN. De Geschiedenis van het Grieksche
+Bewerkt door Dr. B. C. GOUDSMIT, met vele
+illustratiën. Ing. / 2.25, geb. / 2.90.
+
+Dr. C. TE LINTÜM. De Geschiedenis van het
+Ameri
+kaansche Volk.
+Geografisch Historisch, met vele illustraties en
+kaarten. Ing. / 2.25, geb. ƒ2.90.
+
+H. B. COTTERILL. M. A. Oud Hellas.
+Zijn kunst, letterkunde en wijsbegeerte in ver
+
+band met zijne staatkundige geschiedenis, van
+de oudste tijden tot aan ALEXANDER DEN GROOTE.
+Bewerkt door Dr. B. C. GOUDSMIT en met een
+inleiding van Prof. Dr. A. E. J. HOtWERDA te
+Leiden, met ca. 150 illustraties in halftoon en
+tusschen den tekst en 5 prachtige platen in kleuren
+
+druk. Ing. / 4.50, geb. / 5.10.
+
+H. B. COTTERILL. M. A. Italiëin de Middeleeuwen
+fedurende duizend jaar (303-1313).
+en kort historisch overzicht met hoofdstukken
+over belangrijke gebeurtenissen en personen in
+verband met godsdienst, kunst en litteratuur.
+bewerkt door Dr. P. A. v. D. LAAN en met een
+voorrede van Prof. Jhr. Dr. J. SIX, met 65 fraaie
+platen. Ing. ƒ4.50, geb. ƒ5.10.
+L. M. en Mr. Dr. C. H. BAALE. Handboek van Vreemde
+
+Woorden en uitdrukkingen,-Citaten, Technische
+
+Termen enz.
+Nieuwe goedkoope uitgave.
+Ing. / 3.75, geb. /'450.
+
+Dr. F. A. SÏOEII, Nederiandsche Spreekwoorden,
+
+Spreekwijzen, Uitdrukkingen en Gezegden.
+naar hun oorsprong en beleekenis verklaard en
+in het Fransch, Duitsch en Engelsch vertaald.
+DERDE DRUK. Compleet in 2 deelen.
+Ing. ƒ 11.50, geb. / 13.70, in leer ƒ 15 20.
+BEKNOPTE UITGAVE. Derde druk.
+Ing. ƒ250, geb. / 3.10.
+
+G. KNOP. Handelstechniek.
+Leiddraad bij de studie der algemeene handels
+
+kennis. Ing. 2 deelen / 11.40.
+geb. 2 13 45.
+
+H. A. ROMEIJN. Gronden der Gelijkstroomtechniek.
+Leerboek ten dienste van het onderwijs in de
+electrotechniek.
+Eerste deel. 2e druk. Ing. / 240, geb. / 2.95.
+Tweede deel. 2e druk. Ing. / 1.90, geb. / 2.35.
+
+H. A. ROMEIJN. Gronden der Wisselsiroomtechniek.
+Leerboek ten dienste van het onderwijs in de
+electrotechniek. Ing. / 3.90, geb. / 4.70.
+
+
+H. N. BRAILSFORD. De Oorlog van Staal en Goud.
+Een studie omtrent den gewapenden vrede.
+Vertaling van Dr. W. VAN RAVESTEYN Jr.
+Ing. f240, geb. ƒ3.10.
+Dr. 10S. SCHRIJNEN. Nederlandsche Volkskunde. W. G. C. BYVANCK. Bewogen Tijden.
+Compleet in 2 deelen.
+Per deel ing. ƒ3.75, geb. ƒ4.45.
+
+Dr. A. A. BEEKMAN. Nederland als Polderland.
+Beschrijving van den eigenaardigen toestand
+der belangrijkste helft van ons land, tevens be
+
+vattende de topografie van dat gedeelte met de
+voornaamste détails, toegelicht door kaarten en
+teekeningen.
+TWEEDE DRUK. Ing. ƒ6.—, geb. / 7.10.
+
+C. HUYGENS' Trijntje Cornelis Dr. KLUCHT.
+Uitgegeven en van een inleiding ei.
+aanteekeningen voorzien door Dr. H. J. EYMAEL.
+Ing. / 1.50, geb. ƒ2.—.
+Eerste bundel.
+KRONIEKEN EN BEELDEN 1915-1916.
+Tweede bundel. Ing. / 390, geb. / 4.85.
+KRONIEKEN EN BEELDEN 1916-1917.
+Ing. /'390, geb. ƒ4.85.
+en van een
+Dr. THOMAS CARTER. Verhalen uit Shakespeare.
+Nederlandsch van Dr. EDWARD B. KOSTER,
+met 16 fraaie gekleurde platen.
+Ing. /'2.50, geb. /3.10.
+
+Dr. B. E. SCHELTEMA.
+
+Geneesheer.
+Ing. ƒ1.95, geb. ƒ250.
+
+TH. M. KETELAAR. Wet tot Regeling van het Lager
+Onderwijs,
+zooals die bekend gemaakt is volgens K. B. van
+26 Juni 1905 (Staatsblad No. 219), voor de
+praktijk bewerkt en van aanteekeningen voorzien.
+Volledige uitgave. Deel I ing. ƒ 6.90, geb. ƒ7.60.
+II ƒ8.80, ƒ9.50.
+
+Dr. A. RIEHL. Inleiding tot de Hedendaagsche
+WijsAcht voordrachten, naar den vierden druk, ver
+
+taald door Dr. M. KREUNEN.
+Ing. ƒ 2.25, geb. ƒ 2.75.
+
+E. P. W. VAN SCHAIK. Leerboek van het
+Landhouw
+boekhouden.
+Boekhouden naar de Enkele- en Dubbele methode
+in Land-, Tuin-en Boschbouwbedrijven; Taxatie
+van Landerijen, Ontginningen en Bosschen;
+Bosch-aanwas; Bedrijfsstatistiek; Bijdrage Ge
+
+schiedenis; met een voorrede van Dr. A. H.
+BERKHOUT. Ing. ƒ 4.25, geb. ƒ 4.75.
+
+Dr. P. G. BUEKERS. Plantenboek.
+Bewerkt naar CHRISTIANSEN Taschenbuch
+einheimischer Pflanzen. Met 48 fraaie gekleurde
+platen. Geb. ƒ2.15
+
+KERST ZWART. Het VogeW.
+Zangers en krassers bij huis en schuur, in tuin
+en park, langs weg en gracht, in veld en bosch,
+aan plas en strand, met 103 fraaie gekleurde af
+
+beeldingen van vogels. Ing. ƒ2.40, geb. /3.10.
+W. G. C. BYVANCK. Bataafsch Verleden (OofUS i Bovenstaande werken zijn in iederen Boekhandel verkrijgbaar.
+
+UlOülllclUj. UITGAVEN VAN
+Ing. / 1.95, geb. f2.50. uuwwvcn VMPI
+
+
+Dr, W. VAN AVESIEYN. Wereldoorlog.
+Met een voorwoord van HENRIETTE ROLAND
+HOLST. Ing. / 1.95, geb. /' 2 60.
+W. J. THIEME &amp; CIE.,
+ZUTPHEN.
+ie Hartslag uwer Zaak
+is m BoekDODÉg.
+De meest overzichtelijke
+De minst tijdroovende
+De meest accurate
+verkrijgt men door
+
+BOUCHER's Kaartsysteem.
+Vraagt gratis Inlichtingen en Catalogus bij:
+
+Hl, CH, L
+DEN HAAG AMSTERDAM GRONINGEN
+Kneuterdijk 5 &amp; 7 Weteringschans 76 Spilsluizen 13
+^X?
+m/uum^
+830
+mul L VIN ZANTEN.
+ZEEVISCHMARKT 8, ROTTERDAM.
+TELEFOON 11344
+Permanente tentoonstelling
+van moderne Hollandsche
+:-: :-: Meesters :-: :•:
+Geopend dagelijks van 10—5. Zondags 11—4.
+TOEGANG VRIJ.
+M.V. ComTBUREAll BOSSWD
+
+LILI GREEN
+MARG. WALKER
+EN ENSEMBLE
+Rotterdam, G. S. ...
+Breda, Concordia . . .
+'s Hertogenbosch . . .
+'s Gravenhage, K. S. .
+'s Gravenhgge, K. S. .
+Leeuwarden, Harmonie
+Groningen. N. S. ...
+28 Januari j
+30 Januari
+31 Januari
+4 Februari
+11 Februari
+20 Februari
+21 Februari
+PI PI
+FAXMESSENSLUPMACHlNES
+'t Is maar een handomdraaien
+Overal verkrijgbaar en bij
+
+l. M. DIRK STROIHI &amp; Co. - ZWOLLE
+&lt;HgTWAPPNVAN51NTLllCA.
+SlDDINöSZDNr3
+ROTTERDAM
+i JOSEF VEDRAL
+
+
+
+
+
+
+
+
+Agentschap der firma
+HUI and Sons Londen.
+Eenigste, oudste, adres voor de
+echte Italiaansche Viool- en
+Cello snaren.
+Franco verzending door geheel
+Nederland en Indië.
+Ctdip!. Bohiinicb Yioilmiker.
+Oroote collectie zeer
+mooie oude
+meester-lnstrumenten voorhanden.
+DE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 2.25 D. kwartaal
+Opger.
+
+SQ
+f868
+COMPLETE
+MEUBILEERING
+BEHANG ERIJ tt
+DEVRJES&amp;DEENIKl
+Reguliersgrachf 20
+AMSTERDAM
+Telefoon 95»
+Vraagt Gëill.
+Catalogus
+Kennisgevingen van:
+
+VERLOVING en
+ONDERTROUW.
+LUXEPAPIER.
+Atelier 8. VAN MANTQEM
+8lnf*l 802, Amsterdam.
+DB Fotografische Ateliers
+
+
+C. J. L VERMEULEN
+
+zijn gevestigd:
+
+DEHHMG: • UTRECHT: - ROTTERDAM:
+Toussaink. II Nieuwe Gracht 50 Coolsinjel 22b
+TELEFOON I813 TELEFOON 150 TELEFOON 9293
+Hoofstkada 3
+EIEFOOH 4144
+
+En zijn bekend om hun
+artistiek werk en zeer
+lage prijzen
+J. B. MOLLER
+AMSTERDAM, Kalverstraat 119
+DEN HAAG, Spulstraat 41
+ROTTERDAM, Hoofdsteeg 33
+UTRECHT, Choorstraat 1
+HAARLEM. G. Houtstrut 20
+NIJMEGEN, Broerstraat 9
+ARNHEM, Rljnstraat 34
+DAMES
+
+BROQUE
+
+LAARZEN
+Voorradig in BOXCALFS en LAK
+Levensverzekering Maatschappij
+
+99
+DE VOORDEELIGSTE TARIEVEN
+GO OS EN &amp; SWAGERMAN
+PIANO'S,
+VERHUREN
+RUILEN
+ORGELS
+IREPAREEREN!
+STEMMEN
+DEN HAAG.BOEKHORSTSTR149.TEL--2051
+Ateliers voor Moderne Glasbewerking van
+H. PAUW Jr., PRINSENGRACHT 592 594
+AMSTERDAM Tel. C. 398
+GLASRECLAME (Naamborden, Gevelborden, enz.), GLAS IN LOOD, GEETST
+GLAS, GLAS IN KOPER. ATELIER VOOR GLASSCHILDERKUNST.
+Concurreerende prijzen.
+
+</text>
+<image timestamp="2002:08:22:18:25:51.00" size="307939">D10002OL.TIF</image>
+</page>
+</document>

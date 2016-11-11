@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391216</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ALS PAN-EUROPA WAARHEID WERD..
+De grenzen uwrétn,
+%e opte roÊ&amp;i duurt
+Bedryuw
+c/af woi k meer: klaar foru
+De rnLnJfbèrrcuid ff at
+doek wie UMrdk tui
+Rf.
+Va
+Oen. uittel, met
+£n een com/w
+de Europa-ïtad,
+u/te voost i/w over d'Oceaa/i, .
+Komb bij de.Sïatue, of £urope!'cttut,.
+ans f f Zatvpo. nog ten,»•
+Dit boékawkbésêL whenfo
+Ik ki/LdéiWi fór&amp;i allemaal
+dénieuwe Paiï-fuwfri
+PAG. 21 DE GROENE No,3263
+
+</text>
+<image timestamp="2002:09:13:09:22:17.00" size="187376">D2004J4.TIF</image>
+</page>
+</document>

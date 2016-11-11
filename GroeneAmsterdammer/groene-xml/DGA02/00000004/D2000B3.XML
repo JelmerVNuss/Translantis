@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991217</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOO.R NEDERLAND.
+r"
+i.
+Na een gevecht in Transvaal.
+(Patquino.)
+Kinderkens, hebt elkander lief!
+KLEINE MICHEL: «Vriendjes met dien leeljjken John Buil V, Nu minder dan ooit!'1
+De Engelsche Kabel-bron.
+(ülk).
+Ie Gast: »Drommels, dat biertje smaakt erg duf, ik zal toch eens uit een andere kraan r.emen."
+2e Oost: «Helpt je niets die vent tapt toch uit n en 't zelfde vat."
+Altijd praktisch.
+(Der Floh).
+John Buil, Handel in menschenvleesch, ie qualiteit.
+In den Dum-dumkogel.
+(Uit Ulk, naar een clichéovergenomen door »Le Matin".)
+Wie van ons beiden is nu eigenlijk dood, hè?
+
+De keerzijde der medalje.
+(Wahre Jacob, Stuttgart).
+JOHN BULL : »'n Mooie vangst zal dat zyn".
+
+
+De angst der Britten.
+(PrenibriefTMart).
+»Au l Goddam !"
+Paul Krüger voor de poorten
+van Londen.
+Votieftafel naar Spartaansch model.
+Wilhelm als Windwijzer.
+(El. Fischietto).
+Dear me ! als mjjn hond maar niet blinder is dan ik. (Le Bire).
+
+Boerentaktiek.
+(Nederlandsehe Spectator).
+Boer: &gt;Ge zijt m\jn gevangene, leg de wapens neer."
+laigelschman: All right! hier is m\jn sabel en meteen
+het adres van den wapenfabrikant in London: Hu levert
+n occasie-wapens. Spotgoedkoop!
+JOHK BÜLL: »Hm ! myn zaakje marcheert goed !"
+De zesde Divisie ter overwinning optrekkend.
+Per saldo is oom Paul myn
+grootmoeder niet.
+
+</text>
+<image timestamp="2002:08:14:01:08:02.00" size="485899">D2000B3.TIF</image>
+</page>
+</document>

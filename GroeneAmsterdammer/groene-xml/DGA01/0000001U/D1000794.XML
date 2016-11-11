@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260116</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2537
+fi
+jjj De Opheffings l Uitverkoop
+i JACOBSON &amp; MANUS i
+* KALVERSTRAAT [128-130 |jj
+; Ff j Lingeries-t Tafel- 6 Bedlinnent5enz. l ifi
+| SLUIT A. S. WEEK jfj
+VERWEEGEN
+H 6 KOK a
+Amsterdam
+Den Haag
+Lederen Auto
+
+overschoenen
+EN
+Voetenzakken
+KERKSTRAAT»
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamcrmcubclcn •—Matrassen Dekens
+G. J. DE KONING 6 Zn., Keizersgracht 447
+(voorheen Leidschestraat 69)
+
+SANITAIRE INRICHTINGEN
+ZOO juist
+Een eeuw
+
+kinderpoëzie
+1778—1878
+door
+Dr. L. J. TH. WIRTH
+Prijs, gebonden. . . f4,50
+Uitgaande van de navolgers van
+Van Alphen behandelt dit boek
+de ontwikkeling van de eeuw
+kinderpoëzie waarin ook het werk
+van Heye en Goeverneur valt.
+., . ., ... . Groningen
+Uitgave van]. B.Wolters^
+In ieder huis
+His Master's Voice
+Importeurs:
+
+The N.V» Dutch
+
+Gramophone Company
+(v/h. American Import Company),
+Amsterdamsche Veerkade 22a
+DEN HAAG
+Geaccrediteerde agentschappen
+voor Amsterdam:
+GRAMOPHONE COMPANY
+AGENCY
+Reguliersbreestraat 42
+P. J. RICHTER
+P. C. Hooftstraat 125
+A. M. TUREL
+Willemsparkweg 67
+PlAHOs.ORGELS
+oeKherbb:- MS. Telef: 13031
+r_f
+
+Alphen a/d Rijn
+BOOIttOTOREN
+i/n Yoorrcwul
+GEBRf. WILLINK .
+A MSTERDAM
+STOOMWASSCHERIJ
+HET ZUIDEN"
+PIETFR AERTSZSTRAAT 68-74
+Telefoon 22365
+is uw adres voor het behandelen uwer
+wasch, zoowel droog toegeslagen als
+opgemaakt. Concurreerende prijzen en
+spoedige aflevering. Vraagt prijsopgave.
+NEIDIG 6 VAN ELVEN.
+Een Speculaasjc
+VAN
+
+HARTO G
+
+smaakt altijd
+N.V. Koek- en Banketfabriek
+HARTOG
+Gerard Douplein - Amsterdam
+Anno 1887
+
+</text>
+<image timestamp="2002:09:24:21:09:14.00" size="129560">D1000794.TIF</image>
+</page>
+</document>

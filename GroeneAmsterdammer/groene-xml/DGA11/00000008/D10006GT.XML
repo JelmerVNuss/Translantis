@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270514</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+20
+DE GROENE AMSTERDAMMER VAN 14 MEI 1927
+No. 2606
+Radiotelefonie met Indi
+
+door A. F. PHILIPS
+Dir. der N. V. Philips' Radio en N. V. Philips Gloeilampen} abriek, Eindhoven
+Aviatiek en
+1_I OEWEL in de laatste jaren meer
+en meer aandacht geschonken is
+aan het gebruik van zeer korte golven
+Voor radio-telegrafische doeleinden, is
+de toepassing van golflengten be
+
+neden 100 m. voor radiotelefonie nog
+niet zeer verbreid.
+De uitzending van enkele
+omroepstations in Amerika op een golflengte
+van omstreeks 30 M. bracht de pro
+
+gramma's van deze stations wel bin
+
+nen het gehoor van andere
+werelddeelen, doch de ontvangst bleek niefc
+alleen onregelmatig, doch ook mees
+
+tentijds zeer zwak.
+Welke mogelijkheden echter toch
+besloten liggen in het gebruik van
+«en kleine golflengte voor de radio
+
+telefonie, is gebleken uit de uitzendin
+
+gen van den kortegolfzender uit het
+Philips Kadio Laboratorium, welke
+met een golflengte van 30.2 m.
+plaats hebben.
+Van den eersten avond af, dat deze
+zender in werking gesteld werd
+dat was op den Uden Maart 1927
+stroomden van alle zijden van de
+wereld de berichten binnen, waarin
+bewondering en verbazing tot uiting
+kwamen, omtrent de sterkte en
+geluidzuiverheid waarmede deze zender werd
+gehoord.
+Reeds de morgen, volgende op den
+avond van de eerste uitzending, bracht
+ons telegrammen uit Ned. Oost-Indië,
+met de bevestiging, dat men aldaar
+niet alleen de uitgezonden muziek
+tot in details kon volgen, doch ook
+het gesprokene woord voor woord kon
+verstaan.
+Hoewel het telefonisch overbruggen
+van den afstand Nederland-Insulinde
+reeds een fraaie bekroning was van
+den arbeid, bij het ontwerp en den
+bouw van dezen kortegolfzender ver
+
+richt, bleek het onmiddellijk, dat
+hiermede nog geenszins het uiterste
+was bereikt en dat deze zender den
+naam van wereldzender ten volle ver
+
+dient.
+Op de berichten uit Ned. Oost Indi
+toch volgden rapporten uit Ned.
+WestIndië, waar de ontvangst van onzen
+zender zoo mogelijk nog beter blijkt
+te zijn dan in Insulinde. In aan
+
+sluiting hierop volgden telegrammen
+en brieven uit Australië,
+Zuid-Amerika, Japan, Zuid-Afrika, de
+Vereenigde Staten van Noord-Amerika,
+Azië, kortom uit alle deelen van de
+wereld. Deze berichtenstroom ver
+
+dient des te meer belangstelling, omdat
+men zonder uitzondering zeer sterke
+ontvangst meldt, waardoor weergave
+met den luidspreker vrijwel steeds
+mogelijk blijkt.
+In vele gevallen wordt als maatstaf
+van de ontvangst vermold, dat onze
+zender sterker doorkomt dan het locale
+omroepstation; de Japansche
+Radiodienst bericht, dat hun ontvangst van
+onzen zender de sterkste is, welke zij
+tot dusverre van een buitenlandsch
+station hebben waargenomen.
+Te Sydney werden onze program
+
+ma's zoo goed ontvangen, dat men
+ze met behulp van een der plaatse
+
+lijke omroepstations bovendien op
+eene grootere golflengte heeft uitge
+
+zonden om ze in nog grooteren kring
+bekend te maken. Verzoeken om via
+onzen zender de Engelsche program
+
+ma's der British Broadcasting Cor
+
+poration uit te zenden werden ons
+reeds herhaaldelijk gedaan.
+Ik meen dan ook dat met dezen
+zender, die den naam van Nederland
+en van de Nederlandsche industrie
+brengt tot in de verst verwijderde
+plaatsen van de wereld, een stuk werk
+geleverd is, waarop men als Neder
+
+lander trotsch kan zijn.
+Slechts al te vaak bestaat bij ons
+volk de neiging om het buitenlandsche
+product te stellen boven het in
+Nederland vervaardigde, om de bui
+
+tenlandsche praestaties hooger aan
+te slaan dan die van onze eigen
+landgenooten.
+De inhoud van de door onze
+Vennootschap ontvangen brieven,
+waarvan wij binnenkort de meest
+interessante hopen te publiceeren en
+de artikelen over onze uitzendingen
+in de buitenlandsche pers leggen
+echter een getuigenis af hoe men in
+het buitenland dit Nederlandsche
+werk waardeert.
+De mogelijkheid van het
+tolefoneeren op korte golf hangt ten nauwste
+samen met de ontwikkeling der zend
+
+lampen. Een golflengte van 30.2 M.
+beteekent een periodental van tien
+millioen per seconde, en slechts door
+gebruikmaking van zendlampen met
+waterkoeling is het mogelijk deze
+hoogfrequente trillingen met voldoend
+vermogen op te wekken. Een
+telefoniebedrijf stelt echter aan de zend
+
+lampen en de geheele installatie nog
+belangrijk zwaarder eischen dan dit
+bij telegraphie het geval is, omdat in
+het eerste geval de lamp
+ononderbrobroken het volle vermogen moet
+geven: de z.g. draaggolf wordt voort
+
+durend uitgestraald. De twijfel of het
+mogelijk zou zijn op kleine golflengte
+een voldoend vermogen aan hoogfre
+
+quente trillingen ononderbroken to
+leveren is met dezen zender wel defi
+
+nitief weggenomen.
+Maar niet alleen deze technische
+mogelijkheid is hiermede gedemon
+
+streerd, er openen zich thans perspec
+
+tieven, waaraan men eenigo jaren
+geleden nog niet had durven denken.
+De rechtstreeksche telegrafische ge
+
+meenschap met onze koloniën kan
+thans aangevuld worden met een
+rechtstreeksche telefonische verbin
+
+ding. De regeering hier te lande zal
+zonder vertraging overleg kunnen
+plegen met het bestuur in Oost en
+West Indië; handel en industrie in
+deze koloniën zullen in dit verkeers
+
+middel met het Moederland een nieu
+
+wen steun vinden.
+Het meer ideële probleem: een
+radio-omroep voor onze koloniën zal
+met een soortgelijken zender
+verweEen Modern Duo
+
+door A. DUBO1S
+Directeur v. d. Ned. Seinloeslellenfabriek
+Londen bericht deze dan draadloos
+aan den vlieger bij voorbeeld Hallo,
+H-NACC, your position is ten miles
+East of Dover". In Rotterdam bestaat
+op het vliegveld Waalhaven een der
+
+gelijke inrichting.
+De marconisten zijn op dit werk
+dermate afgericht, dat het antwoord
+in den regel ongeveer anderhalve
+minuut na de vraag komt. Vooral
+wanneer in de toekomst de toenemende
+betrouwbaarheid van de motoren en
+vliegtuigen het vliegen bij nacht, bij
+zeer slecht weer en over lange zee
+
+trajecten mogelijk zal maken, belooft
+deze draadlooze navigatie meer en
+meer van belang te worden.
+Hoezeer uit het bovenstaande moge
+blijken welk nut de draadlooze voor
+het luchtverkeer heeft, dit nut kan
+alleen tot zijn recht komen, wanneer
+de installatie aan boord van het vlieg
+
+tuig kan samenwerken met een vol
+
+doend aantal stations op den grond,
+en aangezien deze op den luchtweg
+naar Indiëten deele ontbreken, ten
+deele op zoo groote onderlinge af
+
+standen liggen, dat de betrekkelijk
+zwakke vliegtxüg-installatie die niet
+kan overbruggen, besloten wij de
+draadlooze thuis te laten. Wij be
+
+spaarden hiermede een vrij aanzienlijk
+gewicht; want een volledige uitrusting
+weegt ruim 50 Kilogram, waar nog
+ongeveer 20 Kilogram bij komt,
+wanneer men de zaak zóó wil inrichten,
+dat ook berichten kunnen worden
+uitgezonden, wanneer het vliegtuig na
+een noodlanding reeds op den grond
+staat. Dit alles neemt niet weg, dat
+draadlooze een essentieele factor voor
+de veiligheid zal zijn".
+Aldus de vlieger van der Hoop.
+Een moderne radio-installatie aan
+boord van verkeersvliegtuigen moet
+tr speciaal op gericht zijn, de aan haar
+gestelde commercieele doeleinden zoo
+goed mogelijk te dienen. Zij moet aan
+bepaalde wettelijke voorschriften vol
+
+doen en voorts moet zulk een instal
+
+latie in de kleinst mogelijke ruimte, bij
+het geringst mogelijke schadelijke
+want niet direct productieve ge
+
+wicht een zoo groot mogelijke doel
+
+matigheid in zich vereenigen.
+De radio-ingenieur zag zich voor
+
+waar niet voor een gemakkelijke taak
+geplaatst toen van hem werd gevergd
+al de aan deze eischen verbonden
+technische moeilijkheden uit den weg
+te ruimen. Uit wat volgt moge blijken,
+dat al deze problemen op ingenieuse
+wijze werden opgelost.
+Waar de ruimte zulks toelaat,
+worden de toestellen zoodanig opge
+
+steld, dat degene die ze bedient alle
+noodige manipulaties met schakelaars,
+stopcontacten, regel weerstanden, enz.
+alsmede het aflezen van de diverse
+controle-meters kan uitoefenen zonder
+genoodzaakt te zijn, daarvoor zijn
+plaats te verlaten. Zoodoende kan hij
+op eenvoudige wijze ten volle profijt
+trekken van de talrijke mogelijkheden
+die zijn radio-installatie hem biedt.
+Hij kan overgaan van radiotelegrafie
+op radiotelefonie, op een andere golf
+
+lengte, zijn energie "naar gelang der
+omstandigheden verminderen of ver
+
+meerderen, de afstemming van zijn
+ontvangtoestel bijregelen, de
+luchtdraad in- of uitvieren en algeheele
+controle op de installatie uitoefenen.
+Onder normale atmospherische om
+
+standigheden kan met een up-to-date
+inrichting goede verbinding onder
+
+houden worden tusschen de
+grondstations en het vliegtuig over afstanden,
+die praktisch variëeren tusschen 150
+en 300 K.M. de reikwijdte is, bij een
+
+zelfde energie, het kleinst bij radio
+
+telefonie, het grootst bij gebruik van
+ongedempte golf-telegrafie.
+
+(Wordt voortgezet)
+zenlijkt kunnen worden en al mogen
+de uitzendingen, welke thans in het
+Radio Laboratorium te Eindhoven
+bewerkstelligd worden, nog een ex
+
+perimenteel karakter dragen, de
+ontvangstbeiïchten wijzen uit, dat zoo
+wel de kwaliteit als de geluid-sterkte
+voor luidsprekers-weergave geschikt
+zijn.
+Dat de gebezigde golflengte moeilijk
+
+heden bij de ontvangst zou opleveren,
+behoeft niet gevreesd te worden. Wel
+
+iswaar zal men de toestellen op het
+ontvangen van dergelijke korte golven
+dienon in te richten, doch ook met
+zeer eenvoudige middelen is een goede
+ontvangst mogelijk.
+Moge de zender te Eindhoven er
+toe bijdragen, dat binnenkort een
+nieuwe en nauwere band tusschen
+Nederland en zijne koloniën bestaat,
+welke actueele Nederlandsche muziek
+
+programma's binnen het bereik der
+Ned. Indische luisteraars brengt.
+AAN DE INZENDERS
+
+
+Alle voor het redactioneele gedeelte
+bestemde inzendingen moeten
+worden geadresseerd
+
+AAN HET SECRETARIAAT DER
+REDACTIE VAN
+
+DE GROENK AMSTERDAMMER"
+
+KEIZERSGRACHT 333
+AMSTERDAM,
+
+zonder vermelding van persoonsnamen.
+De geschiktste omvang van artikelen
+bedraagt ten hoogste 1800 woorden.
+Indien de bijdrage voor il lustreen n g
+met foto's in aanmerking komt, gelieve
+de inzender, zoo mogelijk, de foto's
+die niet reeds in andere week- of dag
+
+bladen mogen zijn gereproduceerd
+tegelijk met het artikel in te zenden.
+
+</text>
+<image timestamp="2002:09:21:06:49:57.00" size="230562">D10006GT.TIF</image>
+</page>
+</document>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300906</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+MAANDAGMIDDAG //2UUR
+
+Maandag 8 September openen wij ons nieuw gebouw.
+
+Wij verwachten druk bezoek; immers: Nieuw gebouw,
+Nieuw seizoen - Nieuwe stoffen en modellen.
+
+£ Nieuw en aantrekkelijk ook: de uitbreiding van onze afdeeling
+JONGENSKLEEDING, een afdeeling waar wij veel werk van
+hebben gemaakt.
+Verder een HEEREN-MODE-AFDEELING: dus bij aanschaf
+
+fing van een nieuw costume of overjas een passende das,
+overhemd of hoed.
+f En dan ten laatste nog ten behoeve van onze clientèle een
+lift. welke U het onaangename trappenloopen bespaard.
+
+Wat ging dat was de oude gevel wat kwam dat was een
+modern gebouw met zeer aantrekkelijke etalages wat bleef
+dat is de oude bekende soliditeit en de prettige bediening.
+
+Komt U, eens kijken, onze nieuwe etalages noodigen U uit.
+
+
+EEN
+
+GOED
+
+ZAKENMAN
+
+behartigt zijn
+belangen het
+best door in een
+
+goed blad te
+
+adverteeren!
+illIIJllllllllllllllIIIIIIIIIIIIIIIIill!
+
+Door het gehalte
+en het peil zijner
+lezerskring staat
+
+De Groene
+
+Amsterdammer
+op het eerste plan.
+Vraagt ons
+advertentie
+
+tarief.
+Plaatst eens
+een
+proefannonce.
+ROTOR LICHT KRANT
+Het dak van de Openbare Leeszaal, juist tegenover de | poozen op. Daar meer dan de helft van de letters wordt
+Glênde Riepe" hebben wij uitgezocht vcor de opstelling j besteed voor de laatste berichten (waarvoor wij ons bij
+in Dec. 1928 van onze Rotor-Licht-Krant, de eerste in ff het Persbureau Vaz Diaz op eenige speciale diensten
+Nederland, tevens Zondagavondcourant. | hebben geabonneerd) en de andere helft voor
+adverOp de Rotor-Licht-Krant volgen de berichten en de | tentieteksten, moet ook bij de reclame de aandacht van
+reclameteksten elkander onmiddellijk, zonder tusschen- | het publiek steeds levendig zijn.
+
+Een doeltreffender reclamemiddel is niet denkbaar.
+Wij noodigen U hierdoor uit, gebruik te maken van de reclameruimte welke wij op onze lichtkrant beschikbaar stellen.
+Vraagt inlichtingen bij de Provinciale Groninger Courant", Groningen.
+
+</text>
+<image timestamp="2002:09:26:02:24:54.00" size="172275">000009J2.TIF</image>
+</page>
+</document>

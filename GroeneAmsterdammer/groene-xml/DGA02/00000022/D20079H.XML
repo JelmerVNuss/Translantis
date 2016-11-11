@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900706</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van c!e Amsterdammer, Weekblad voor Nederland, van 6 Juli 1890.
+' v • ' v /
+1\ l / '
+Stoomdrukkerij Ellerman, Harms &amp; Co.
+De cadettenschool der toekomst.
+
+</text>
+<image timestamp="2002:10:02:09:06:47.00" size="437550">D20079H.TIF</image>
+</page>
+</document>

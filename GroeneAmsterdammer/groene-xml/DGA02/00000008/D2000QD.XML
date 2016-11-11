@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001216</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\
+DE
+&gt;W EFEiK-BILiAT) ^V O&lt;0!R N EID:BVRL
+'Met -offtciede ontvangst.
+MADAME ETIQUETTE (tot Minister Pierson en de Beaufort): «Past op, heeren, vergeet het niet, in Nederland ben ik de allerhoogste au'.oriteit" ...
+PIERSON en DE BEAUFORT : «Mevrouw, het is ons een eer u te huldigen"...
+MARIANNB: »Doux Pays !"
+Lachende toekomst. (Caran d'Ach« in den Figaro).
+Die goede Vredesapostel! (Der Floh),
+Li HUXG CHAKG: «Koppen, zooveel jelui wilt, we hebben er plenty,
+maar alsjeblieft geen prinsenkoppen."
+LORD SALISBURY : «Deze toestand, mijne heeren, zal misschien jaren,
+wellicht generatiën duren."
+
+Niet thuis. (Morning Leader).
+GRETCHEN: *Mynheer! de patroon zegt dat ie niet thuis is!"
+
+In den roes der victorie! (Ulk).
+Ze beschuldigen mij, dat ik het land van de Boeren heb
+beroofd en verwoest... en toch groeien en botten overal ge
+
+weren uit! (Noterelle).
+
+De Kozakkenwreedheden. (Fischielto).
+In naam der Beschaving, matig u, het zijn immers uw broeders.
+Mijn broeders V 't Zyn beesten, zie je dan niet, dat ze
+staarten hebben ?
+En toch ben jij ter dood veroordeeld !"
+Zeker, maar door zelfmoord en ik heb nog geen boom
+gevonden, die me bevalt om me aan op te hangen.
+(Xoterelle).
+
+De reis van Chamberlain. (Silhouette).
+Zoo dïkwps ik in 't veld kwam, ging de Wet loopen!
+En heeft hy je gekregen?
+De nieuwe triple-aürantieJïdie de Britache Machiavelli ten koste vair
+Fraafirijfc in Tripol'i eflr Marocca- wfl; vestigen; EBgefand bl^'ft uït
+voorzichtigheid achter de schermen.
+GHRMANIA : Mijn tranen voor de overwonnenen.
+Mijn haat voor de overwinnaars.
+(Jugend).
+
+</text>
+<image timestamp="2002:08:15:09:52:26.00" size="379846">D2000QD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381203</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De spannende strijd om vitamine-D
+Hoe de Engelsche ziekte te Weenen werd overwonnen
+EEN van de treurigste gevolgen van den
+wereldoorlog was de hongerblokkade. Verzwakt
+door de reeds onvoldoende voeding in de oorlogs
+
+jaren, konden velen, vooral in de groote steden,
+de nieuwe, nog grootere ontberingen niet doorstaan.
+De tuberculose floreerde. Scheurbuik, een ziekte
+veroorzaakt door een tekort aan versche groenten
+en vruchten, kwam in hevige mate voor.
+De aandacht van de Medical Research Council,
+een Engelsch overheidsorgaan, dat tijdens den
+wereldoorlog gevormd was, om het wetenschappelijk
+werk te coördineeren, werd meer in het bijzonder
+getrokken door het massaal voorkomen van rhachitis
+of Engelsche ziekte onder de zuigelingen, een ziekte
+waar in het verleden veel over gewerkt en nog meer
+over getwist was. Reeds waren hier en daar stemmen
+opgegaan, dat de samenstelling van het dieet een
+grooten invloed op het ontstaan moest hebben en
+er was jaren geleden een publicatie verschenen over
+de geographische verbreiding van rhachitis, waaruit
+duidelijk bleek, dat tekort aan zonlicht eveneens
+een belangrijke factor was, maar de wetenschappe
+
+lijke wereld, die niet over n nacht ijs gaat en nog
+minder in een gering aantal tijdschriftartikelen aan
+
+leiding vindt een ingenomen standpunt te verlaten,
+was er vast van overtuigd, dat de Engelsche ziekte
+door besmetting met een helaas nog onbekende
+bacil werd veroorzaakt.
+Professor Clemens Pirquet, de beroemde directeur
+van de Universiteits-Kinderkliniek te Weenen,
+vergeleek rhachitis met tuberculose: alleen zij, die
+vroeg geïnfecteerd waren, of door erfelijke eigen
+
+schappen, onvoldoende voeding of slechte algemeene
+hygiëne een speciale gevoeligheid bezaten, liepen
+kans een van beide ziekten te krijgen. Dat speciaal
+de proletariërskinderen er aan leden, lag aan de
+overbevolking, het op elkaar wonen, waardoor in
+de eerste levensmaanden gemakkelijk besmetting
+voorkwam. Natuurlijk had hij kennis genomen van
+de proeven van professor Mellanby, die in 1918 bij
+jonge honden rhachitis had verwekt en vervolgens
+genezen, door den proefdieren een kleine dosis lever
+
+traan te geven, maar de geschiedenis der genees
+
+kunde had wel meer bewezen, dat de zieke mensch
+anders reageerde dan het zieke dier. Niettemin nam
+hij met beide handen het Engelsche voorstel aan,
+pm het probleem nader te bestudeeren en hij stelde
+een deel van zijn voortreffelijk ingerichte kliniek
+ter beschikking van de commissie van vijf leden:
+physiologen en medici. De commissie kon be
+
+ginnen !
+
+HET is met de ontwikkeling van onze kennis
+der vitaminen niet anders gegaan dan met die
+van andere deelen der wetenschap: in het begin
+ging men slechts tastenderwijze en voetje voor
+voetje verder en ieder jaar bracht nieuwe obstakels.
+Ten tijde, dat het Weensche onderzoek aanving,
+wist men, dat in levertraan en boter een stof voor
+
+kwam, die naast suiker, vetten, eiwitten en zouten
+in het dieet van jonge proefdieren moest voorkomen,
+om den groei te verzekeren. Men had deze stof
+vitamine A genoemd, en toen nu Mellanby bij
+honden rhachitis kon genezen met levertraan,
+schreef men de werking aan het aanwezige vita
+
+mine A toe. Geen wonder dus, dat in de opdracht
+aan de commissie van vitamine D geen sprake was !
+Tijdens het onderzoek kwam echter een
+mededeeling uit het laboratorium van Mc. Collum in
+Amerika: door verhitting verloor levertraan het
+vermogen om de ook vóór 1918 bekende gevolgen
+van vitamine A-tekort te niet te doen, maar de
+werking op rhachitis bleef onverzwakt gehandhaafd.
+Mc. Collum had dus aangetoond, dat in levertraan
+twee stoffen met vitamine-werking voorkwamen,
+waarvan de eene, vitamine A, vernietigd werd door
+verhitten, en de andere, welke hij vitamine D
+noemde, niet. Natuurlijk namen de Engelsche
+onderzoekers de nieuwe feiten over: wat voor
+meerdere glorie van vitamine A had moeten dienen,
+kwam tenslotte het jonge vitamine D ten goede.
+
+TERUG naar Weenen.
+In November 1920 werden 75 kinderen, voor
+het meerendeel babies onder drie maanden, opge
+
+nomen. Hiervan waren 68 vrij van clinische of
+röntgenologische symptomen van rhachitis en zij
+werden verdeeld in twee groepen, om na te gaan,
+of levertraan de Engelsche ziekte kon voorkomen.
+De eerste groep kreeg volle melk met suiker, de
+tweede melk en levertraan en beide eenige lepeltjes
+sinaasappel- of tomatensap. Natuurlijk werden de
+maaltijden bij oudere kinderen meer gevarieerd,
+maar door middel van proeven op ratten werd het
+vitamine-gehalte van elk dieet nauwkeurig nagegaan.
+Lente 1921, zomer 1921 de maanden gingen
+voorbij en prof. Pirquet meende reeds den strijd
+gewonnen te hebben, toen in Januari 1922, meer
+dan een jaar na het begin van het onderzoek, drie
+kinderen uit de eerste groep rhachitisverschijnselen
+vertoonden. Eén zwaluw maakt nog geen zomer,
+en enkele gevallen van rhachitis bewijzen niets
+maar in Juni hadden zeventien kinderen duidelijke
+symptomen vertoond en allen op het dieet zonder
+levertraan !
+Natuurlijk kon prof. Pirquet hierna niet ont
+
+kennen, dat de beschermende werking van een
+kleine dagelijksche hoeveelheid levertraan aan
+
+getoond was maar genezen was nog wat anders
+dan voorkómen !
+Zoo begon dus in de lente van 1922 het tweede
+deel van het onderzoek met 31 rhachitispatientjes,
+die eveneens ons eerste dieet kregen, maar verder
+verschillend werden behandeld. Een deel kreeg
+levertraan en genas snel. Van de rest werden zeven
+buiten in de zon verpleegd: allen waren spoedig
+weer beter. De commissie had ook gelezen, dat de
+kinderarts Huldschinsky in Berlijn fraaie resultaten
+had bereikt, door de kinderen met ultraviolet licht te
+behandelen, en het was de moeite waard zijn waar
+
+nemingen te controleeren. De overblijvende groep
+werd dus dagelijks korten tijd onder de
+kwikbooglamp gelegd en allen genazen, ook als maar de
+helft van het lichaam of n arm bestraald werd !
+
+DE volgende stap werd gedaan in 1925.
+De Amerikaansche onderzoeker Steenbock kwam
+nl. als eerste met de opzienbarende mededeeling,
+dat voedsel, dat een tijdlang met ultraviolet licht
+bestraald was, eveneens rhachitis kon genezen.
+Aangezien hij vreesde, dat de levensmiddelen
+
+industrie zijn vondst zou uitbuiten, nam hij
+patent in zulke ruime termen, dat ieder, die nu
+nog op eenigszins groote schaal door bestraling,
+vitamine D wil maken, een niet onbelangrijk bedrag
+moet betalen aan de Universiteit van Wisconsin,
+aan welke Steenbock de rechten had overgedragen.
+Er is en niet ten onrechte veel critiek
+geweest op deze handelwijze van Steenbock, die in
+feite een natuurproces patenteerde en zelf vrijelijk
+gebruik had gemaakt van talrijke, eveneens belang
+
+rijke vondsten van voorgangers en tijdgenooten,
+die ruimere en juistere ideeën bezaten.
+Het stadium was nu bereikt zooals het in de
+geschiedenis van elk vitamine ns bereikt wordt
+dat de chemici de taak te vervullen kregen, vitamine
+D te isoleeren en opheldering te geven over zijn bouw
+en eigenschappen. De ontdekking van Steenbock
+kon hierbij als leidraad dienen: immers, als een
+mengsel van verschillende stoffen na bestraling
+anti-rhachitische eigenschappen kreeg, dan moest
+er een stof in voorkomen, provitamine D, die de
+opgenomen stralingsenergie gebruikte voor de om
+
+zetting in vitamine D zélf. Men bestraalde dus de
+verschillende voedselbestanddeelen, en acht jaren
+intensief werk in verschillende laboratoria heeft aan
+het licht gebracht, dat een sterol,
+7-dehydrocholesterol, in alle opzichten met de gezochte verbinding
+overeenkwam. Eén vijftigduizendste milligram,
+Bestrijding der Engelsche ziekte door bestraling met
+ultra-violette stralen
+0.00000002 gr. per dag is hiervan voldoende, om
+rhachitis bij een rat te voorkomen. Inderdaad een
+minimaal kleine hoeveelheid, welke, volgens een
+eenigszins moeilijke berekening toch nog altijd uit
+dertig trillioen vitamine D moleculen bestaat. Ook
+bij den mensch zijn onderdeden van een milligram
+ruim voldoende, en de macht van het kleine wordt
+misschien het beste hieraan gedemonstreerd, dat
+enkele grammen zuiver vitamine D per dag de
+geheele Nederlandsche jeugd tegen rhachitis kunnen
+beschermen !
+
+TWEE vragen moeten nog beantwoord worden.
+In de eerste plaats: hoe komt de mensch aan
+zijn vitamine D ?
+Uit het voorafgaande is duidelijk, dat de ultra
+
+violette zonnestralen, die in onze huid doordringen,
+uit de aanwezige tegelijkertijd sterkere vitamine D
+kunnen vormen en tevens, dat levertraan een voor
+
+treffelijke bron is; helaas is de heilzame herinnering
+aan het laatste bij velen door den oliesmaak vertroe
+
+beld. Gelukkig hebben onze kippen de gewoonte,
+wormen op te pikken, en aangezien sommige wor
+
+men voor 20 % uit sterolen bestaan, kan de kip in
+den eidooier veel (pro) vitamine opstapelen wat
+het kind evengoed kan gebruiken als het kuiken!
+Want, waarvoor dient vitamine D ?
+Het opvallendst en meest kenmerkend symptoom
+van rhachitis is de weekheid van het beenderstelsel.
+De normale verbeening, het afzetten van kalk- en
+phosphorverbindingen, is gestoord, aangezien door
+het vitamine D-tekort zeer waarschijnlijk de opne
+
+ming van deze zouten belemmerd en tegelijkertijd
+de uitscheiding bevorderd wordt: er komen dus
+onvoldoende bouwstoffen in het bloed.
+Hoe nu precies de samenwerking tusschen de
+vitamine D- en de kalk en phosphorstofwisseling is,
+moet heden ten dage nog met een vraagteeken
+beantwoord worden: de zuiver-chemische vraag
+
+stukken hebben het afgeloopen decennium alle
+aandacht in beslag genomen en het is nu weer de
+taak der physiologen, om onze kennis een stap
+verder te brengen. Dr. J. OUDENBOSCH
+PARLEMENTARIA
+MENEER Albarda is een serieus en actief
+man want de dames en heeren waren nauwe
+
+lijks gezeten op hunne schoolbanken en ik
+had nog niet eens kans gezien het eerste glaasje
+spraakwater te brengen of hij stond al recht overeind
+gelijk het knappe jongetje uit de klas en vroeg
+verlof meneer Colijn te interpelleeren over het vluch
+
+telingen-vraagstuk en wat meneer Colijn nou dacht te
+doen.
+Ook een bode heeft een hart, om thans maar te
+zwijgen van eene hartvergrooting door het
+trappenloopen en missives brengen, en ik hoop dat meneer
+Colijn zijn hand over het zijne zal strijken, want met
+al die oekases van meneer Goseling wordt het er voor
+die gedwongen zwervers langs onze grenzen niet
+vroolijker op. Maar de discussies inzake
+deze"aangelegenheid volgen nog. Ik hoop dat de heeren en
+dames wier stemmen van zooveel belang kunnen zijn,
+al zou je dat als bode zijnde lang niet van allen willen
+zeggen, zullen bedenken dat de stem van dit, ons volk
+reeds lang heeft gesproken.
+'s Middags zei meneer van Dijk een krachtig zegje
+over Defensie en hij haalde er zijn begrooting met vlag
+en wimpel door, hetwelk voor eene defensiebegrooting
+in deze tijden ook wel mag. Ik moet zeggen dat meneer
+van Dijk, zooals hij daar stond met zijne grijze haren
+en krachtige trekken heelemaal niet zoo kwaad aan
+
+deed als minister van Defensie, al zou de Generaal
+natuurlijk nog krijgshaftiger zijn opgetreden. Maar
+die houden we dan maar in petto voor het geval dat de
+nood nog dreigender wordt.
+Zou meneer Slotemaker 's middags met evenveel
+smaak hebben gegeten als ondergeteekende ?
+Heeft hij onder de boerenkool misschien gemijmerd
+over de listen en lagen, die meneer Deckers en de
+zijnen hem misschien zouden leggen ? Maar 's avonds
+zat hij er in al zijne waardigheid en zelfs de conducteur
+van de Kleine Krant zou hem vol eerbied hebben
+aangestaard, hetwelk heel wat. zegt, omdat deze
+persoon wel een vermetel wezen moet zijn. En meneer
+Colijn was er ook. Die hield om zoo te zeggen twee
+oogjes in het zeil want heeft hij al niet eens eerder
+betoogd: wie komt aan den baard van ons ministerie
+komt aan mij. Meneer Maller wilde iets erdoor
+krijgen in verband met de Katholieke Economische
+School te Tilburg maar hij had buiten meneer de Geer
+gerekend wien men op dit gebied niets hoeft te ver
+
+tellen. Meneer Deckers trok zijn liefste lachje aan en
+lonkte naar de heeren van de C.D. U. want die zitten
+mogelijk op de wip. Maar zij deden of hunne neuzen
+bloedden en misschien bloeden zij straks ook wel.
+Er werd nog wat geredekaveld over kleinighedens
+mevrouw de Vries—Bruins is nog altijd even
+militant (hoe houdt ze het uit als eene vertegenwoor
+
+digster van het zwakke-geslacht ?) en om twee uur
+des nachts verliet ik het gebouw. Het regende en het
+was koud, maar wij hebben het vaderland wederom
+gediend. BODE BAREND
+PAG. 7 DE GROENE No. 3209
+
+</text>
+<image timestamp="2002:10:03:00:26:24.00" size="314267">D1000976.TIF</image>
+</page>
+</document>

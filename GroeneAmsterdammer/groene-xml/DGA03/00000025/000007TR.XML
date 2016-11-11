@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300118</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+» »',*3^N$*r7	" ^""v
+_ii^K -(I-i f "•«•' «u.	\
+353* * AMSTERDAM
+HA KLOOSTERHU1S
+KALVERSTRAAT.78
+AMSTERDAM
+AMSTERDAM
+K AL VERSTRAAT 136 LEIDSCHÉSTRAAT 78 HOZEttGRACHT 60
+ROTTERDAM HOOGSTRAAT 2&lt;s
+HAARLEM UTRECHT NIJMEGEN
+BREDA
+ZON
+B&amp;rteljoriB8trMt26—28
+Bontmantels
+Mantels met bont gevoerd
+Costames
+Sportcostumës
+Amazones
+van prima Fransch Elastiek,
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren irtij
+onder GARANTIE
+tot heup wijdt e 100'c.M. nieuwen pr^s f:!4.
+verder tot ll&amp;c.M. •-.', '•-•*.;
+.Vt-rBij schriftelijke bestelling gelieve men aJa
+op te geven de wijdte over breedste deel van d«
+heupen, over onderkleeding gemeten. . ; ..,,
+EXTENSIBLE"
+Voorhanden een enorme keuze
+
+
+Elastieken eupgoroeis
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f8.
+
+Alle door ons geleverde elastieken Heupgordels
+garandeeren -wij.
+
+</text>
+<image timestamp="2002:09:20:21:40:37.00" size="376040">000007TR.TIF</image>
+</page>
+</document>

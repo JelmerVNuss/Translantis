@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210326</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+BIJ DE OPRICHTING VAN DE VEREENIGING N E D E RL A N D—D U I T S C H L A N D"
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 26 Maart 1921
+NEDERLAND
+ENGELAND
+Amst. Boek- en Steendrukkerij, v'h. Ellerman. Harms &amp; Co.
+P I e u n t j e: Komt Micheltje nu ook ?"
+Micheltje: Ik ben er a!. Ik ben nooit weg geweest!"
+
+</text>
+<image timestamp="2002:08:24:09:35:42.00" size="194650">D40003FK.TIF</image>
+</page>
+</document>

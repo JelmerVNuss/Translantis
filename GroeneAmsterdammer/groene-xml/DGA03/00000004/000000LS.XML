@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19061125</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Doema-verkiezing.
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 25 November 1906.
+i'T
+&amp;-7,,. -?
+(fe#:
+i5™«V
+vv
+f%^ *
+
+-^"•"
+\ :,';&gt;
+A -' i.
+v *-*r'3*'J ,
+'\'t"
+lÏD^k- en Steendrukkeri]. \'li. 1-vlK'rnian, Harins ^ Cc
+DE CZAR /V^/1 ^ryw Alinisler): i\'nar mijn beste Sto'ypiü, zoo krijgen \vij ten slotfe geen enkelen kieper....
+
+MINISTER STOl.Vi'lN'. Majesteit, dan zijn :;•// er toch no;.';.... En ?.ou it alleen geen oema kunnen kiezen?
+
+</text>
+<image timestamp="2002:08:11:13:17:24.00" size="405296">000000LS.TIF</image>
+</page>
+</document>

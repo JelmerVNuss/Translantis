@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18911018</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Russische patiënt.
+(Vrij naar de schilderij van GEKARD Dou).
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 18 Octobcr 1891.
+-i - - i l
+' r " "^ •'' v&lt;* V4"
+i'.i/tk- en Sleendrukkerij, v,h. Ellcrman, Harms &amp; Co.
+PoBF.DOxoszEFF, procurator der H. Synode: Uwe Majesteit is zoo gezond als een visch.
+DE CZAR: Wat zegt gij er van, Leo Nikolajivitch ?
+GRAAF TOLSTOI, op euderwetsc/te wijze de diagnose stellend: Hongersnood, geldgebrek, nihilisme.
+DK FRANSCHE REPUBLIEK: Houd op, man! Vive Ie czar.'
+
+</text>
+<image timestamp="2002:08:19:20:21:55.00" size="476354">0000032G.TIF</image>
+</page>
+</document>

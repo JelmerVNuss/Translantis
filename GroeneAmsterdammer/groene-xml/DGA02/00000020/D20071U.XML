@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>40</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+38
+Mensen en machine
+'?
+Als 't eeuwenoude Kerstverhaal de ronde
+doet en de klokken hun lied beieren van
+Vrede op Aarde"
+
+Als kinderoogen dan verdroomen bij 't
+zachte gouden kaarsenlicht... dan heerscht
+er een sfeer van stil geluk zooals alleen
+het Kerstfeest die kan brengen: een
+sfeer van gezelligheid en intimiteit
+
+Verhoog die sfeer door een bijzondere
+verrassing: zorgt voor een doosje
+Carro's of Pavola's! Terwijl voor 't
+avondpartijtje de nieuwe soorten bon
+
+bons van Driessen de uitgelezen
+tractatie vormen!
+CARRO'S (io» «, in dowjei) PAVOLA'S
+BONBONS
+'PI ESSEN
+DE NAAM ZEGT ALLES
+k'
+r
+Zonder twijfel is de auto de volmaaktste uiting van het
+menschelijk kunnen. Een ingewikkelde machine, die jaren
+
+lang bewonderenswaardig
+functionneert, in handen van den leek.
+Dit ,,bewonderenswaardige" komt
+het beste tot uit ing" i n de
+MODEL 1934
+4/5 zitplaatsen
+f
+2500.6/7 zitplaatsen
+f
+2700.J. LEONARD LANG
+STADHOUDERSKADE 114 - AMSTERDAM
+
+</text>
+<image timestamp="2002:09:27:06:16:16.00" size="186348">D20071U.TIF</image>
+</page>
+</document>

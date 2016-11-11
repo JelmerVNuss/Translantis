@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>60</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+60
+Kerstnummer
+Amsterdammer
+
+verschijnt van l Januari a.s. af
+onder hoofdredactie van
+Mr. A. C.
+Redacteuren: Prof. Dr. H. BR15GMANS,
+L. J. JORDAAN, Mr. M. KANN en TOP NAEFF
+DE ABONNEMENTSPRIJS VAN DE GROENE
+AMSTERDAMMER" IS TIEN GULDEN PER
+JAAR. ADVERTENTIEN f 0.75 PER REGEL.
+BIJ CONTRACT AANMERKELIJK MINDER.
+ABONNEERT U! SCHRIJFT EEN BRIEF
+
+KAART AAN DE ADMINISTRATIE: KEI
+ZERSGRACHT 333, AMSTERDAM C. OF
+STORT HET ABONNEMENTSGELD OP
+GIROREKENING 72880 GEMEENTEGIRO
+AMSTERDAM G. 1000. OF NOG
+EEN VOUDIGER
+3-7-9-6-4
+
+D
+IE IDEALE VEREENIGING VAN
+RADIO-APPARAAT
+GRAMOFOON EN LUIDSPREKER
+Overtreft alles op dit gebied!
+
+T Jet electrische muziekinstrument voor Café's,
+*•*• Hotels, Cabarets, Theaters, Bioscopen,
+Lunchrooms, Dancings, enz. Onze modellen I,
+II en III zijn geschikt zoowel voor Heerenhuizen
+of Villa's, Salon of Huiskamer.
+
+Model I ƒ 1500.—II ƒ 2500.—III ƒ 2750.
+
+PERSBEOORDEELINGEN:
+HET HANDELSBLAD.
+,J)e Makrophon is een combinatie van gramofoon
+en radio. De gramofoon kan knarsen en suizen;
+de radio kraken en huilen. De Makrophon schijnt
+met die bezwaren evenwel te spotten. De stemmen
+klinken duidelijk en gaaf. De kleur van elk
+instrument komt uitnemend tot haar recht."
+DE MAASBODE.
+Dezer dagen
+hoorden wij eer
+instrument dat
+het volmaakte al
+zeer dicht bena
+dert, nl. de
+Makrophon. Ook
+bij de grootste
+versterking blij
+
+ven zang en mu
+ziek beschaafd
+zuiver en zonder
+hinderlijke bijge
+luiden."
+Een orkest
+klinkt dan
+inderdaad
+orchestraal.
+IMPORTEUR:
+DE TELEGRAAF.
+Het artistieke resultaat is
+inderdaad verrassend. Men
+zou haast zeggen, dat wij
+in sommige opzichten reeds
+voor een non plus ultra
+staan, in het bijzonder wat
+de reproductie van de
+menschelijke stem betreft
+Zonder eenig bijgeluid,
+bijna schooner dan de
+werkelijkheid zelve	uit
+
+stekend voor onderwijsdoel
+
+einden."
+HET VOLK.
+De Makrophor.
+is een vinding,
+die nieuwe mo
+
+gelijkheden en
+froote perspectie
+
+ven opent. Bij
+een
+gramofoonweergave van hel
+Concertgebouw
+
+orkest onder
+Mcngelberg was
+het een verras
+
+sing, alsof men in
+de zaal zat."
+MAKROPHON
+Een koor
+T ^P
+J_.van l ma
+honderdstemraij;.
+Telef. 50284
+NIEUWE KERKSTRAAT 141 AMSTERDAM.
+Ten allen tijde bereid de Makrophon in zijn gehoorzaal te demonstreercn.
+Vertegenwoordigers in Nederland voor Amsterdam,
+Rotterdam, Breda, Arnhem en Leiden :
+C. C. Bender's Piano- en Orgelhandel
+HOOFDKANTOOR te AMSTERDAM :
+BEURSPASSAGE 1—5 _ Tel. 420a3 en 40853
+
+Het Muziekhuis H. DE MAAR
+HOOFDSTRAAT 202.
+Piano- en Orgelhandel L. C. JACOBI
+REGENTESSELAAN 121-123 Tel. 31403.
+
+MOSSEL EN VERSTEEGE
+APELDOORN,
+DEN HAAG,
+DEN HAAG,
+ZOUTMANSTRAAT 53d
+Tel. 33530.
+
+</text>
+<image timestamp="2002:09:05:22:24:27.00" size="138262">00000786.TIF</image>
+</page>
+</document>

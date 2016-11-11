@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400921</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De meteoorkroter in Arizono, nabij Canon Diablo: een
+gat van 175 meter diepte, bij een
+omtrek van 4000 meter
+EEN ONTMOETING MET HERMES
+EEN vreemdsoortig noodlot schijnt zich de
+laatste jaren over onze planeet aan het vol
+
+trekken. Het noodlot eener onvermijdelijke botsing
+met een ander hemellichaam. Want ofschoon het
+zoover gelukkig nog niet kwam, is het toch aan
+geen twijfel meer onderhevig, dat de aardbol onlangs
+nog maar nét op het kantje is ontsnapt aan de
+lijfelijke ontmoeting met een miniatuurplaneetje.
+De gelukkige dagen der Zeven Planeten zijn
+voorbij. Zeven in getal immers waren vroeger de
+donkere wereldballen, die in eindelooze cirkel
+
+gangen rondliepen rondom onze licht en warmte
+stralende dagvorstin.
+Van de tijden der Babyloniërs af, lang vóór
+Copernicus, had men ook zeven planeten gekend,
+en hun aantal was wel de oorsprong van dit heilige
+getal. Alleen, al waren het er dan al zeven, het waren
+geen echte planeten. Want zon en maan fungeerden
+onder hen, en hun rang is niet die van de dwaalster.
+Terwijl de maan niet meer is dan een satelliet der
+aarde, een tweederangsplaneet zou men kunnen
+zeggen is de zon de centraalster-zelf van ons
+gansene planetenstelsel.
+Het was Copernicus, die in 1543 in zekere zin de
+planeet Aarde ontdekte, d.w.z. ontdekte dat
+onze aarde een doodgewone planeet is, en niet
+het centrum van het heelal, zooals men voordien
+geloofde. Bij welke gelegenheid de zon zich toen de
+vrijgekomen eereplaats van het middelpunt van
+het planetenstelsel zag toebedeeld.
+Toen dan eindelijk bijna 2 Va eeuw later de ver
+
+maarde sterrekundige amateur William Herschei
+nog een nieuwe planeet ontdekte, Uranus genaamd,
+de eerste dwaalster die niet zoomaar sinds het
+begin der historie door menschenoogen was aan
+
+schouwd, was het zevental opnieuw compleet, en
+al was in die dagen het getal 7 niet meer van een
+zóó groote overtuigingskracht, dat men het nog
+als argument had durven aanvoeren, iedereen
+verheugde zich toch in het mooie overzichtelijke en
+vooral goed afgeronde geheel.
+Doch de vreugde was van korte duur.
+De eerste voorbode van een kentering in de
+overzichtelijkheid van dat aloude zonnestelsel
+was de ontdekking op de eerste dag der negen
+
+tiende eeuw van een splinternieuwe planeet,
+die bleek rond te loopen in een route tusschen de
+loopbanen van Mars en Jupiter.
+Te beweren, dat men zich over deze nieuwe aan
+
+winst verwonderde, zou niet juist zijn, want feit is,
+dat men juist naar dat planeetje op zoek was gegaan.
+De .afstand tusschen de betrekkelijk kleine baan
+van Mars, en de zeer wijde kring waarin Jupiter
+rondloopt, had op diverse sterrekundigen, in zeer
+verschillende tijden, reeds de indruk van een
+duidelijke gaping gemaakt, welke baan van een
+tot daartoe onbekende planeet moest herbergen, en
+toen men dan ook inderdaad vond wat men daar
+had gezocht, was «r slechts reden tot voldoening.
+Verwonderen kon men zich slechts over het feit,
+dat het nieuw-ontdekte planeetje zoo klein van stuk
+was. Het zonnestelsel telde al wel reeds grootere en
+kleinere planeten, maar dit dwergje (dat de naam
+Ceres kreeg) viel met een middellijn van een kleine
+800 km., of tewel 1/16 van de aard-middellijn toch
+wel heel erg uit de toon.
+Het begon echter pas ongezellig te worden, toen
+Ceres een dubbelgangster bleek te bezitten !
+Ruim een jaar na de opsporing van de eerste
+der Kleine Planeten (of Planetoïden, zooals men ze
+doorgaans noemt) kwam er een nummer 2 aan het
+licht (Pallas), die in een ongeveer evengroote baan
+als Ceres rondliep, vrijwel even groot van stuk was,
+en zich bovendien nog in haar onmiddellijke nabij
+
+heid ophield!. .. . En van toen af is er geen eind
+gekomen aan de nieuwe vondsten in dit territoir.
+Er zijn er thans een kleine 1500 bekend.
+Het was gedaan met de afgerondheid van het
+zonnestelsel, want er is natuurlijk niemand, die
+gelooft, dat het bij deze 1500 stuks zal blijven.
+Integendeel, het jaarlijks gestaag aangroeiend cijfer
+der ontdekkingen (362 in 1937 !) is daar om alle
+verwachtingen op dat punt de bodem in te slaan.
+Wanneer nu echter al die planeetjes, wat hun
+banen betreft, maar mooi binnen de grenzen geble
+
+ven waren, zou althans de overzichtelijkheid nog
+zijn gered. Maar ook op dit punt kwam er een
+spaak in het wiel.
+De eerste complicatie deed zich voor in 1898, toen
+Eros werd ontdekt. Totdan toe hadden alle banen
+dezer kleine planeten zich, wat hun ligging aangaat,
+angstvallig beperkt tot de vacante ruimte tusschen
+de Mars- en Jupiterbaan. Eros bleek zich aan deze
+traditie echter niet in 't minst te storen. Hij kruiste
+niet slechts de baan van Mars, doch naderde de
+aardbaan zelfs tot op een 22 millioen kilometer.En
+al is nu 22 millioen km. naar aardsche opvattingen
+nog heel wat, kosmisch gesproken is het toch maar
+een zeer geringe afstand: nl. slechts 1/7 deel van
+het traject Aarde—Zon, ofwel ongeveer 60
+maansaf standen.
+Tot in den jare 1932 bleef Eros een unicum.
+Niet wat de zonderlinge ligging van zijn baan betrof,
+want al spoedig werden er steeds meer Planetoïden
+gevonden, die de banen der groote planeten bleken
+te kruisen. Geen van alle naderden deze planeto
+dische vrijbuiters echter zoo dicht de aarde als
+Eros, en eerlijk gezegd was men in astronomische
+kringen niet oningenomen met het bestaan van
+Eros, omdat hij ons behulpzaam was bij het meten
+van de afstand Aarde—Zon met grootere nauw
+
+keurigheid dan tot nog toe het geval geweest was.
+Totdat dan in Maart 1932 het record van dichtste
+nadering werd overgenomen door een planetoïde,
+die in Ukkel (bij Brussel) ontdekt werd, en die niet
+op 60, maar op 44 maansafstanden langs ons heen
+schoot. Tengevolge van dit Eros-achtige gedrag
+werd hem de naam Amor verleend. Die maand
+dient hier extra te worden vermeld, want in dat
+
+zelfde jaar, nog geen twee maanden na de verschij
+
+ning van Amor, dook uit het donkere wereldruim
+plotseling het planeetje Apollo op, en passeerde ons
+op een goede 20 maansafstanden.
+Na deze gebeurtenissen viel er een stilte van vier
+jaar, maar het blijkt achteraf een soort van stilte
+voor de storm geweest te zijn. Want op 12 Februari
+van het jaar 1936 schoot Adonis ons op nog geen
+6 maansafstanden voorbij !
+Van toen af kreeg het enthousiasme waarmee
+de kleine planeetjes zich schenen te wijden aan
+hun nieuwe sport: nl. om Moeder Aarde zoo rake
+
+lings mogelijk langs te vliegen, het karakter van
+een acuut gevaar; en had men dan ook geweten,
+dat Hermes in aantocht was, die op 30 October
+1937 ons op nog geen i1/., maansafstand (oftewel
+600.000 km.) zou passeeren, dan ware er alle reden
+geweest tot bezorgdheid.
+In werkelijkheid was ons de gelegenheid niet
+gegeven om in angst en vreeze te beven, want het
+hemellichtje werd pas volkomen toevallig
+ontdekt, langs fotografische weg, juist op het
+moment waarop het zich op z'n kortste afstand tot
+de aardplaneet bevond. Men kwam daar eerst
+achter, nadat het aan de hand van eenige verdere
+opnamen gelukt was de baan van het hemellichaam
+vast te leggen, en eerst toen bleek aan welk gevaar
+de aarde ditmaal ontsnapt was. Immers het kwam
+vast te staan, dat deze Hermes de aardbaan precies
+moet hebben gekruist. Gelukkig was er een tijds
+
+verschil van enkele uren tusschen de oogenblikken
+waarop Hermes en waarop wij zelf het fatale kruis
+
+punt van Hermesbaan en aardbaan in het wereldruim
+voorbijstoven, maar men voelt z'n haren te berge
+rijzen bij de gedachte aan de catastrophe die ons
+gewacht zou nebben, indien beide eens gelijktijdig
+op die plaats des onheus zouden zijn gearriveerd.
+Want al kunnen die piraten van het hemelruim
+wat hun afmetingen betreft (die n kilometer
+wel niet te boven gaat) dan ook niet in de schaduw
+staan van achtenswaardige hemellichamen als
+de groote planeten en zelfs niet in die van de
+grootste Planetoïden, als Ceres c.s., die het zooals
+we zagen toch altijd nog tot eenige honderden
+kilometers halen in middellijn, een botsing met
+een dergelijk hemelprojectiel zou toch hoogst
+onaangename gevolgen kunnen hebben. Wegens
+zijn ontzettende snelheid immers zou het kosmische
+gevaarte met een dusdanige kracht op de aarde
+neerkomen, dat er op het moment van de botsing
+een explosie van onvoorstelbare hevigheid plaats
+moest grijpen. Door het plotselinge remmen van
+de kosmische snelheid waarmede het steenblok
+de aarde treft, wordt dit namelijk zoo sterk verhit,
+dat het op hetzelfde oogenblik in z'n geheel ver
+
+vluchtigt.' Het ontploft dus, evengoed alsof het
+een evengroote lading springstof geweest ware,
+en dat bij de uitwerking van een dergelijke explosie
+het effect van het geweldigste moderne
+artilleriegeschut maar kinderwerk is, zal wel iedereen
+begrijpen.
+Deze nachtmerrie-achtige verschrikkingen ont
+
+spruiten niet zoomaar aan het brein van den een
+of anderen zwartgalligen sterrenkundige. Dit zou
+een klein uitstapje naar Amerika U kunnen leeren.
+Daar bevindt zich namelijk in de staat Arizona
+een diep gat in de grond, een komvormige holte
+met een middellijn van 1200 meter een diepte van
+175 meter. Het materiaal dat men in de wijde
+omtrek gestrooid vond liggen kan onmogelijk van
+aardsche oorsprong zijn geweest. Het is dan ook
+niet aan de minste twijfel onderhevig, of op deze
+plek moet eens een hemellichaam met kracht op
+aarde zijn terechtgekomen, terwijl schattingen
+leeren, dat de diameter van het meteoorblok onge
+
+veer 45 meter moet zijn geweest.
+Deze meteoorkrater in Arizona is waarschijnlijk
+een paar duizend jaar oud. Recenter is een soort
+
+gelijk voorval in Siberië, alwaar in het begin dezer
+eeuw een meteoriet" neerkwam in het stroom
+
+gebied van de Midden-Toengoeska een zijrivier
+van de Jenissei. Het voorval vond plaats in een
+woudrijke omgeving. Binnen een kring van 20 km.
+middellijn bleek al het geboomte totaal verbrand.
+Daaromheen stonden over weer een tiental kilo
+
+meters afstand nog slechts een soort van zonderlinge
+telegraafpalen overeind, die niets anders bleken
+te zijn dan de stammen der eertijds zoo statige
+woudreuzen; alle kronen waren bij de ontploffing
+eenvoudigweg afgesneden. In een buitenste zone
+rondom deze plaats des onheus wederom over
+een strook van een kilometer of tien breedte
+lagen de boomen in hun geheel geveld ter aarde ....
+Inderdaad slaat de schrik ons om het hart,
+wanneer we ons een oogenblik verbeelden dat zich
+die plaats van inslag eens niet op 103^ O.L. en 61'
+N.B., maar bij voorbeeld op 5 O.L. en 52 N.B. had
+bevonden, d.w.z. daar waar ons land op de aardbol
+gelegen is. Want een oppervlakte van 8000 vier
+
+kante kilometer (d.i. '/t van Nederland !) werd bij
+die gelegenheid in een woestenij herschapen. En
+dat alles nog maar tengevolge van een botsing
+met een meteoriet van i/ioo km. middellijn !
+Een knikkertje m.a.w. vergeleken bij een miniatuur
+
+planeet als Hermes.
+Laat ons dus maar hopen dat het nu mooi genoeg
+is geweest, en dat de groote planeten op hun
+voorrangswegen van dergelijke ontmoetingen in de
+toekomst verschoond blijven. Want al zal dan ook,
+zelfs bij een botsing met Hermes, de aarde nog
+wel niet vergaan, die plotseling opduikende
+wild-west interplanetaire vrijbuiters met hun
+allures zijn toch wel in staat om vreedzame en
+vredelievende aardbewoners het angstzweet te
+doen uitbreken.
+En zooiets komt toch niet te pas.
+A. J. M. WANDERS
+PAG. u DE GROENE No. 3300
+
+</text>
+<image timestamp="2002:09:13:09:32:27.00" size="329694">000007PT.TIF</image>
+</page>
+</document>

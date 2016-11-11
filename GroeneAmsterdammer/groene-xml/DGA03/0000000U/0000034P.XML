@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18911220</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad "oor Nederland, »an 20 December 1891.
+K3M'^""^M8M»aaBm!l»^l*B»gJ»MM
+Europeesche handelstraktaten.
+irrntmm TUI in ti;\mm v juri wmiiii IMMIII i¥iiriiif»'^it&gt;»»* IIM- *«i i» &gt;i i»i*«*»»iTmiMiUiii^
+Gallia. Wat zitten ze daar gezellig uit n schotel te pikken!
+De czar. Je woudt toch niet mee doen ? Encanailleer je niet, kind l Denk, dat je mij nog hebt.
+Gallia. Dat is waar. Maar bij u is tegenwoordig schraalhans kcukenmeester. En men kan van hoop
+alleen niet leven.
+Arost. Boek- en Steendrukkerij, v/b. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:20:02:16:22.00" size="850971">0000034P.TIF</image>
+</page>
+</document>

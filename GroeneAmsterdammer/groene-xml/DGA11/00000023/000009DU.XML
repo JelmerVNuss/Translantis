@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300719</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ODERNEN AUTOMOBIEL
+whniek en Kunst
+/TUSSENBROEK
+f
+Dit is oorzaak dat ook een andere Citroen door
+pene veelkleurige beschildering (zie afb. 4) volkomen
+bedorven werd.
+Hier heeft het atelier P. A. P. naar het mij
+roorkomt den indruk willen oproepen van los
+
+gelaten kinderballonnetjes ! Mogelijk was deze
+Mito (evenals de andere bij dit artikel afgebeelde
+yagens mededingend in het Concours d'Elegance
+lat kort geleden in het Pare des Princes te Parijs
+leerd gehouden) dan ook.... voor een
+ballonnenl
+icht bestemd. Men kan nooit weten.,.. Neen,
+90 moet de medewerking van kunstenaren bij
+b tot stand koming van het technisch wonder
+.zer dagen: den auto, niet zijn. Hoe deze \vèl
+wezen bewijst het koetswerk van den bekenden
+jen der Plas op chassis Delage (afb. l) op dat van
+larman op chassis van denzelfden naam (afb. 2)
+j&gt;k al zou men enkele aanmerkingen kunnen
+laken zooals b.v. de wat al te zwaar genomen
+ijlen welke de voorruit omsluiten van
+eerst^noemden wagen. Zoo blijft er altijd wat te
+wenjhen maar welhaast volmaakt is dunkt mij de
+-jhepping van den begaafdsten ontwerper van onzen
+jd: Gaston Grummer, wiens koetswerk op
+Bugattifassis in den groep der twee-deurs
+conduitestterieures niet alleen den eersten prijs in het
+ierboven genoemd Concours verwierf maar ook
+'fD. Grand Prix d'Honneur de l'Anto 1930. Hij
+ihaalde tevens de Coupe de la Carosserie met zijne
+idere inzendingen!.... Alles aan dezen wagen
+ireekt van voorname kracht, snelheid, veiligheid
+i comfort. Men zou kunnen zeggen: dit is een
+eind-. N'%Vt
+-&gt; -,,,:•-.&gt; l ^'fc'ï&amp;JSfc 'J, • V "^«P,. -C' *7 =• -« ;
+• •.. f • f. -*••-*&lt;
+Koetswerk Farman
+product waarbij men zich glansrijk heeft weten te
+ontworstelen aan liet eertijds verkeerd gekozen
+uitgangspunt: hot paard-looze rijtuig, door mecha
+
+nische kracht voortbewogen. Laat ons niet uit
+het oog verliezen dat wat hier bereikt werd een
+langen lijdensweg achter zich heeft. De oorspronke
+
+lijke misvattingen prijsgevend kon men aan de
+schoonheid van den modernen automobiel hare volle
+uiteindelijke waarde geven niet het direct gevolg
+dat verkregen werd een voortbrengsel van wel
+
+haast volmaakt technisch en aesthotisch kunnen
+waarbij inwendig organisme en uiterlijke ver
+
+schijning tot een volkomen, tot in de kleinste
+onderdeelen verbijsterend knap en gevoelig opge
+
+loste, nheid worden opgebouwd.
+Ook auto-bouw is. ... toegepaste kunst en wat
+de bekende Peter Behrens eens neerschreef over
+de moderne architectuur kan m. i. volkomen
+gelden voor hetgeen men in den ultra-modernen
+automobielbomv kan zien: ....typischer
+Ausdruck unserer materialistische!! /ivilalioii. Ihre
+(ïesinnung ist Monumentaliteit, matericlle Cirösse,
+Proporüon der Quatititilteii, nicht Yerdichtung
+der Qualitat, Monumentalkunst, asthetischer
+Imperialismus. . . . '."
+Zóó willen wij dan gaarne de schoonste tech
+
+nische scheppingen van onzen zoozeer
+mei'kwaardigon tijd beschouwen in erkenning van de zeld
+
+zame vermogens welke daarin, weerklank en uit
+
+drukking vinden.
+Ontwerp Pierre Delcour t
+
+</text>
+<image timestamp="2002:09:25:21:38:31.00" size="644569">000009DU.TIF</image>
+</page>
+</document>

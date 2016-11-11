@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300426</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 26 APRIL 1930
+No. 2760
+N.V. STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Dircctiet
+Ur. H. H. C. CASTBNDIJÈ. «n
+L MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trtutkantoor
+4 J % Pandbr. tegen beurskoers alt.
+Bataafsohe
+Hypotheekbank
+AMSTERDAM
+Geeft uit:
+'zenSS panÉieven
+tegen beurskoers.
+Abonneert U op:
+De Groene Amsterdammer
+
+re/ARNHEM
+WIIJ v£
+LEVENSVERZEKERING
+Nederlandsche
+Handel-Maatschappij, H.Y.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM e
+VGRAVENHAGE
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch'Indië, China, Japan en Arabi
+
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS. ^
+N.V. DE HURLEMSCHE
+=3»
+HYPOTHEEKBANK
+Leden der Directie: "^iS/TtS^ Mr. A. S. M I E D E M A,
+P. H. CRAANDIJK en A. E. TH1ERRY DE BYE DOLLEMAN
+TI . . - -,„, ,, 00r Pandbrieven f 37.123.000
+Hypotheken f 37.343.825.- Reserve, . . f
+1.026.238.
+en 5 pCt. PANDBRIEVEN tegen LAATSTEN AMSTERD. BEURSKOERS
+KASVEREENIGING N.V. A M ST E R D A M
+ACTIEF BALANS op 31 DECEMBER 1929 PASSIEF
+Aandeelen in Portefeuille (nog niet
+omgewisseld)
+Kassa-Rekening
+Disconto-Rekening
+Effecten-Rekening
+Prolongatiën en Daggeldleeningen . .
+Debiteuren in Rekening-Courant tegen
+onderpand
+Gebouwen en Inventaris
+Aandeelen Ontvang- en Betaalkas N.V.
+f 248.000.
+.', 2.312.483.97
+4u.117.541.8S
+8.925.019.38
+,, 12.231.000.
+43.849.723.74
+1.110.000.
+/ 113.483.708.97
+Kapitaal
+Reservefonds
+Reserve voor Koersverlies op Kffecten
+Reserve voor diverse belangen . . .
+Deposito-Rekening .... . .
+
+Crediteuren in Rekening-Courant . .
+Pensioen- en ndu'stciiniim^fonds .
+Rente-Rekening
+Onafgehaalde dividenden
+Dividend 1929
+Bestuurders en IJeain'nen
+Dividend- en Tantiènie Belasting .
+Onverdeeld \\instsaldo
+55.031.986.48
+l.liOi 1.331.54
+4(i.3'J9.21
+7.415.-
+
+977.50;).-374.101.42
+l 18.338.17
+(i.783.07
+Amsterdam, 25 Maart 1930
+
+Gezien : de Raad van Commissarissen
+
+ABRAM MULLER, Vuur;ittcr,
+HAHRSOLTL, Stmturi-.
+Amsterdr:m, 21 Maart Iv3!i
+KA S -\' l'. R K !•: N l (i I N (i NA'
+K'. I. (i. BOISS1CVA IN.
+i-;, i;. Kll'l&gt;'rRA.
+R. \\-\N STI-:I-:DI-:N.
+De HoiL Voorschotbank
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+In pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5% schuldbrieven in stukken van f 1000.—.
+500,- en f 100.- tegen Beurskoer».
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+Opgericht in 1864
+
+Maatschappelijk Kapitaal f 10.000.000,
+waarvan geplaatst f 7.000.000,
+waarop 10 pCt. gestort.
+Verstrekt geld op eerste hypotheek,
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 41 te R'dam of tot hare Agenten,
+De Directie :
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wjjk,
+Mr. B. van Rossem.
+De kantoren van de
+
+N.V. De Groene Amsterdammer"
+Administratie en Redactie
+zijn verplaatst naar
+
+KEIZERSGRACHT 355
+Telefoon blijft 37964
+
+</text>
+<image timestamp="2002:09:25:12:23:21.00" size="99357">0000095L.TIF</image>
+</page>
+</document>

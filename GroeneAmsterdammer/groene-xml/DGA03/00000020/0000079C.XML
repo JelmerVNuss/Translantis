@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400113</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een verhaal van De Groene
+De eeuwige driehoek
+Een oud probleem, behandeld naar den trant van vijf
+bekende tooneelschrijvers
+3. Héijermans
+1. Vondel
+KORT BEGRIJP.
+De krijgsoverste Levi, in liefde onbrand zijnde
+voor jonkvrouw Mirjam zendt zijnen bode met het
+verzoek een woord van wedermin te mogen ontvangen;
+denwelken opdracht op zich nemende de bode weerkeert
+met de tijding dat de jonkvrouw, haer zinnen opt
+vierigst geset hebbende op eenen lansknecht vant
+Saraceensche heir, uyt kommer en ellende ter doot toe
+bezwijmd is- Het tooneel is voor opt slot des
+krijgscversten Levi; Het treurspel begint te acht ure des
+naemiddags en eindigt drie minuten later.-_^KMI
+fc—. JKS^
+LEVI:
+Reeds tweemael socht de zon na het dagelijksch felle
+branden
+Den westelijken zoom van deze barre landen,
+Zonk sissend in de zee, omzoomd met wolkenpracht,
+Verscheen int Oosten weer in nieuwherboren kracht,
+Sints ickmyn bode zond naer de hooggebouwde tinnen
+Van Mirjams ver paleis om daer te overwinnen
+Het talmen van haer mond, die my te seer bekoort
+En aan myn Heide weigert het langverwachte woord.
+Och, mochten van mijn min de vierig felle schichten,
+Die ick niet nalaet op haer hard gemoed te richten
+Een sprank van wedermin ontsteeken in haer borst
+En smelten doen terstond die yzigh harde korst,
+Die haer onwrikbaer maakt voor mijn bedroefde
+klachten
+En naer een teeder woord my jaren lang doet
+smachten.
+, Maar 'ck zie myn bode daer genaken van terzy;
+Niet vroolyck is zyn gang, niet opgewekt en bly
+Het aengezicht; ick vrees dat wat hy gaet vertellen
+Myn al te bang gemoed terdege zal ontstellen.
+
+BODE:
+Zoo snel het mogelyck was heb ick, grootmachtig
+vorst,
+Vrouw Mirjam kond gedaen van Uwe liefdesdorst.
+
+LEVI:
+Verhael my, droef of bly, hoe heeft zy U ontvangen ?
+
+BODE:
+Toen zy my naadren sagh verliet de blos haer wangen,
+Haer hand begost te beven, zy zwymde vast van
+schrik,
+Heur haer dat rees te berg, zy wankelde, haer bliek
+Wendde zich van my af en richtte sich naer boven:
+Och moge seffens nu de zon zyn straelen dooven!
+Zoo klonk haer droeve klacht.
+
+LEVI:
+Heel»as, wat gaet my aan;
+Myn Hef, myn licht, myn leven, hoe moet ick dit
+verstaanl
+BODE:
+Zy zeeg ineen onder een bloeiende oleander
+En gaf den lesten zucht; ick min, ick mm een ander..
+Mits brak het straelend oog, het leven nam de wijk,
+Haer geest ontsteeg het lichaam en vloog naert
+hemelryck.
+
+LEVI:
+Oock ick onttrek my nu aen dit rampsaligh leven,
+Myn lichaam zy aen de aarde, myn ziel aen God
+gegeven;
+Ghy, dienaers brengt my flus het alderscherrepst
+zwaerd;
+Wie 't leven schenkt aan God, die sterft naer
+krygsmansaard.
+UYT
+2. Shakespeare
+
+(vertaling van Bargersdijh)
+
+f LUDOVICO, een dikke vrouweneek.
+Personen•'{ EEN NAR
+
+Het tooneel stelt voor een park te Mantua. De nar
+komt zingende op.
+
+NAR:
+Duizendschoon en mosterdzaad,
+Slangenbeet en visschegraat,
+Wie reist heel de wereld rond
+Voor een roode vrouwenmond?
+
+Welaan, ik neem nu, de stem van mijn meesteres
+aan en zal dien sinjeur Ludovico, dien berooiden
+schaapskop eens laten merken, dat Donna Maria
+allerminst gediend is van zijn brallende aanzoeken.
+En onderwijl loopt zij met haar minnaar in de
+boschaadjes langs paden waar een achtbaar man
+menig kronkeltje in zou kunnen ontdekken. Maar
+daar hoor ik zijn plompe stappen; als ik een liedje
+bij zijn loopen zou moeten zingen, God sta mij bij
+als het geen kreupelrijm zou worden.
+
+LUDOVICO: Zijt gij daar, mijn zoet kirrend duif je,
+gij klaterend bronnetje van mijn levenssappen?
+Vertoon U toch aan mijn verlangende oogen, gij
+geurend roosje in een ruiker van distels.
+NAR: (met een vrouwenstem) Ik zou, mijn goede
+heer, de naam van achtbaar jonkvrouw niet meer
+met eere mogen dragen, zoo de hemel mij de gunst
+zou schenken Uw welgevormde ledematen te
+mogen aanschouwen; maar al te zeer zou ik ver
+
+geten dat ik. ... dat geen priesterzegen ons nog
+tot den huwelijkschen staat gewijd heeft.
+
+LUDOVICO: Verschijn toch, gij stralend zonnetje
+aan het uitspansel van mijn droefenissen, gij geurig
+briesje in de orkaan van mijn somberheden.
+
+NAR: Welnu heer, zoo gij er op staat wil ik wel
+opstaan, maar denk er om, dat gij Uw deugd in eere
+en mijn eer in deugd houdt. Gij moogt mijn leest
+omvatten, mijn hoofd zachtkens streelen, mijn
+hart het uwe noemen, maar denk er om dat ge U
+als een goed schoenlapper bij uw leest houdt en
+mijn hoofd niet al te hard aanvat anders heb ik
+er een hard hoofd in, dat gij naast Uw hart ook nog
+Uw hoofd verliest. .. .
+
+LUDOVICO: (met een verschrikte kre.t) O. ... wat?
+.... hè.... wat voel ik daar ? Een narrenhoofd,
+een zotskap! Alweder heb ik mijne liefde verspild
+ean een onwaardige,. ... alweder ben ik te
+goedgeloovig geweekt! Ou! Oül OU (exit)
+
+NAR: (hem nalachend, weer met zijn eigen stem)
+Tot een volgend maal. ... Signeur Ludovico....
+zonnetje. .. . ruikertje. ... zoet kirrend duifje. .. .
+(tot zichzelf) Ik zal Donna Maria maar niet gaan
+vertellen hoe het is afgeloopen want ik vrees, dat zij
+een onderhoud met mij minder onderhoudend zal
+vinden dan met hem, die haar op het oogenblik
+onderhoudt. Liever ontmoet ik de heihond te midder
+
+nacht dan een minnend paar te storen. .. .
+Zoo heeft een nar een neg grootere nar
+afgepoeierd; maar de grootste nar ligt nu in Donna
+Maria's armen. Och arme. ...
+
+DOEK
+Personen •' LoE' een ouwe binnenschipper,
+' \ MARIE, weduwe van Jaap.
+
+Tooneel: Kamer van Marie. Door het raam fond
+doorkijk op de Binnen-Amstel. Tafel, pluche stoelen,
+thee op lichtje, links kanarie, rechts parkietjes. De
+Munttoren slaat....
+
+LOE: (binnenkomend, de deur met een klap dicht
+
+slaand) Goeien avond, (gaat tegenover Marie zitten).
+MARIE: Dag Loe.
+LOE: Marie.... (pauze) Marie.... ik.... de
+honde.... de honde.... net vanavond....
+MARIE: Loe, jonge.. .. wat is er?
+LOB: Sinds ik je ken heb ik gespaard, Marie,
+elke cent die ik kon weglegge. Zoo lang ik op de
+wal sta heb ik niet meer gerookt en ik mocht 't
+graag.... ik dronk geen borrel meer, en ik lustte
+'m vroeger.... alleen maar om.... De honde....
+MARIE: Loe toch....
+LOE : We hadde der van kenne leve, kalmpies an,
+de j are die we nog hebbe. Nooit heb ik je durreve
+vrage, ik wist dat je nog altoos om Jaap treurde....
+Soms dacht ik: ze wil me wel, maar als ik je dan weer
+naar dat portret van die dooie Jaap zag kijke dan
+wist ik: die trouwt nooit geen ander meer.... Nooit
+geen ander meer.... Maar de laatste tijd mocht je
+wel eris een grappie make in het nette, en ik stelde
+me van allerlei voor, Marie, hoe ik hier iedere dag
+met je samen zou zitten aan deze tafel.. .. jij tegen
+
+over mij, ik tegenover jou.... op z'n tijd een wan
+
+delingetje .. een bioscopie.... en nou, de honde..
+Weg, alles weg.... verdwene.... Toen ben ik
+n lar 't polisiebureau gegaan, most ik wachte.... ben
+ik gaan schreeuwe: M'n cente.... m'n cente....
+Toen zei zoo'n vent met een pakkie an, dat ik stil
+most weze.... Een zilver lorgnetje had ie voor z'n
+ooge, dat blonk.... als de guldens.... de rijks
+
+daalders. En hij poetste 't op met een fijn doekie.
+Toen dacht ik: daar zit een man, die een vrouw
+heeft die doekies voor 'm maakt, waarmee ie z'n
+lorgnetje kan oppoetse.... en ik.. en ik....
+niks.... m'n cente weg.... voor jou....
+Nou weet je wat ik je had wille zegge als ik de
+cente gehad had, Marie.... en nou.... de honde..
+de krenge.. .. (pauze: pendule tiktakt, knus-warm
+flikkert het theelichtje)
+MARIE: Ik wist waar je mee rondliep Loe, al
+heel lang.... Maar ook al had je de cente gehad,
+dan had ik nog niet kennen verdrage, Loe, dat die
+goeie dooie Jaap gezien had, hier vanaf z'n plaats
+an de muur, dat er een ander op z'n stoel was gaan
+zitte.... en dan had ik 'm niet meer eerlijk in
+z'n ooge durreve kijke.... Loe....
+LOE: Marie.... meid.... (stilte; parkietjes
+hip-springen, kanarie zingt pie.... iet; dan:
+DOEK
+
+4. Maeterlinck
+Personen
+LODE
+MARIANDE
+Tooneel: Bretagne, rotskust. Golfgeklots,
+windgeloei. .. .
+PAG, l* SE,GROENE No. 3267
+
+</text>
+<image timestamp="2002:09:12:22:40:46.00" size="199095">0000079C.TIF</image>
+</page>
+</document>

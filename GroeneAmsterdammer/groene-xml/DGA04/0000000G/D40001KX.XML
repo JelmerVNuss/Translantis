@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150117</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+17 Jan. '15. No. 1960
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+Wie de Post al niet in verdenking brengen kan!
+Nadruk verboden
+X
+^^ j o h Kj a o»K.4 * s '• e
+ALS OOK ONZE INBREKERS EENS MISBRUIK VAN HET STROOKJE Ol'ENED BY CENSOR" GINGEN MAKEN . . .
+Wilden" (l'Ittastration)
+Amerika's protest (Ulk)
+Engelsche sprookjes (Lustige Blaffer)
+SENEGALEES SOLDAAT (tot een paar Fransche burgers, die bij
+de omheining van een kamp met krijgsgevangen Duitschers staat):
+Komen jullie eens naar wilden kijken ?
+DE BUURKINDEREN : Maar, tante Times", datzelfde sprookje
+heeft u ons een paar dagen geleden heel anders verteld!
+Zeg, John Buil, doe liever niet alsof je thuis waart!
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiliiMiiiiiiiiiniiiiiliiiiiiiiiiiiiiiiiittiiiiiiitiiiiiiiiiiiHitiiiiiiiiiiiiiitiiiii
+iimiiiiiinimiiiiiimiiiiiiiiniimmiMitiiimiiitimiiiMmi
+Redacteur: Dr. A. G. OLLAND
+Predikheerenkerkhof l, Utrecht
+Alle berichten.deze rubriekbetreffende.gelieve
+men te adresseeren aan bovenstaand adres.
+OPLOSSING EINDSPELSTUD1E No. 2
+VAN C. C. W. MANN
+Wit: Ke2, Db3, Pd5, pion a2.
+Zwart: Kg8, Dh4, Ta7, pionnen a4, a6,
+b? en c7.
+1. Pd5-f6f, Kg8-f8. (Op l... Kg8-g7
+volgt eveneens 2. Db3—g8f en verder als
+in den hoofdvariant na den 7den zet van
+zwart.) 2. Db3-g8f, Kf8-e7, 3. Df8-e8,
+Ke7—d6 (zwart mag natuurlijk het paard
+niet nemen) 4. De8—d8, Kd6—e6. (Op 4...
+Kd6—e5 of c5 gaat door 5. Pd7f de witte
+koningin verloren, terwijl op 4... Kd6—c6
+mat in twee zetten volgt, n.l. 5. Dd5f en
+6. Pd7 mat.) 5. Dd8-d5f, Ke6-e7, 6.
+Dd5—d7f, Ke7—f8, 7. Dd7—e8f, Kf8-g7,
+8. De8—g8f, Kg7—h6,9. Dg8—h7f, Kh6—g5,
+10. Pf6-e4f, Kg5—g4, 11. Pe4—f2, Kg4—g3.
+(Tot nu toe deed zwart steeds gedwongen
+zetten. Speelt hij thans 11... Kg4—g5 dan
+volgt 12. Pf2-h3t, Kg5-g4, 13. Dh7-g6f,
+Kg4xh3, 14... Ke2—f3!! met onaf wendbaar
+mat.) 12. Dh7Xc7f, Kg3—g2. (Op 12...
+Dh4—f4 volgt 13. Dc7—g7f, Kg3-h2, 14.
+Dg7—h7f, enz.) 13. Dc7—c5 (dreigt Dd5f)
+Dh4—d8! 14. Dc5—e5 (dreigt De4f) Dd8—h4.
+(Belet het schaak op e4, maar geeft d5 vrij.
+Zwart kan echter niet beletten, dat wit op
+n der beide velden schaak geeft.) 15.
+De5-d5f, Kg2—gl, 16. Dd5—g8f, Kgl-h2,
+17. Ke2—f l! en mat is niet meer te vermijden.
+Het napluizen van deze prachtige studie
+zal zeker velen liefhebbers van eindspelen
+een onvermengd genot doen smaken. We
+hopen nog menigmaal onzen lezers een der
+kunstwerken van den heer Mann te kunnen
+voorleggen.
+
+De volgende studie (die niet moeilijk is)
+troffen wij aan in de laatst verschenen
+aflevering van Deutsches Wochenschach.
+EINDSPELSTUDIE No. 4
+VAN MAX KARSTEDT, TE COTTBUS
+ZWART
+a bede fg h
+WIT
+Wit: Kf2, LdG en e2, pionnen b2, d2, f4 en h4.
+Zwart: Kd4, pionnen a2, a7, b7, e5, d5,
+6f en g6.
+Wit speelt en wint.
+Oplossing over 4 weken.
+EINDSPELSTUDIE No. 5
+VAN DR. H. NEUSTADTL
+(Internation. Chess Magazine, 1890)
+ZWART
+a b c d e f g h
+WIT
+Wit: Kg2, pion f3.
+Zwart: Kdl, pionnen e5 en g5.
+Wit speelt en maakt remise.
+Oplossing over vier weken.
+WEDSTRIJDEN
+
+De uitslag van het Trebitsch tournooi te
+Weenen is: 1ste prijs Schlechter I\y9 (uit
+14); 2de prijs dr. Kaufmann 11; 3de en 4de
+prijs Reti en Spielmann elk 8% punt; 5de
+prijs Albin 7 punten.
+Verder behaalden Krejcik 5K, Schenklin
+en StrobI elk 2 punten.
+Opmerkelijk is het resultaat van dr. Kauf
+
+mann, die slechts Vp punt onder Schlechter
+uitkwam en bovendien tegen dezen l Va uit
+2 maakte. Schlechter verloor alleen tegen
+Kaufmann, en deze alleen tegen Albin.
+Spielmann bleef aanmerkelijk achter.
+Hrdina, die evenals dr. Tastakower het
+vorige jaar tot de deelnemers aan het Trebitsch
+tournooi behoorde, is onlangs gesneuveld
+in den oorlog tegen de Russen. Aan den
+wedstrijd te Mannheim heeft hij slechts
+enkele dagen deelgenomen, totdat hij door
+de oorlogsverklaring van Oostenrijk aan
+Servië, onverwijld als dienstplichtige moest
+afreizen.
+
+De volgende fraaie partij speelde hij
+23 December 1913 in het Trebitsch tournooi:
+
+</text>
+<image timestamp="2002:08:21:06:33:14.00" size="442702">D40001KX.TIF</image>
+</page>
+</document>

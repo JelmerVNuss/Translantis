@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270604</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VAN NELLE'S
+KOFFIE
+HIER IS HAASTIGE
+SPOED ALTIJD GOED!
+
+VAN NELLE'S
+
+KOFFIE
+KOMT ZOO VERPAKT VERSCH UIT DE
+BRANDERIJ NAAR DEN VERBRUIKER
+GEUR EN SMAAK
+BLIJVEN BEHOUDEN
+KOOPT f " IJ * * " "
+•» w w r* l HALrroNos PAKJE
+ROODMERK	70 CENT
+PAARS ME R K	65 CENT
+ZWARTMERK 6O CENT
+GEELMERK
+55 CENT
+GROEN MERK
+5O CENT
+BLAUWMERK
+45 CENT
+GRIJSMERK 40 CENT
+' KWALITEIT IS GEGARANDEERD
+PRIJS IS AANGEGEVEN
+SCOTS WHISKY
+VERTEGENWOORDIGERS i
+
+M,V.HOOGEWERFF,GHIlBOT&amp;ÏISSEIi's
+WIJIMHANDEL
+DEN HAAG - ROTTERDAM - ARNHEM
+N.V. Ciilih n Militaire Kleermakerij
+
+DEKKER &amp; DIJKSTRA
+VOORHEEN
+
+DE ERVEN H. VAN DIJK
+
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6
+TELEFOON 3416
+Door het gcheele LAND te ontbieden
+1781
+
+Hendrik Kruimel
+Amiterd»»
+&amp;• Kruimei
+
+AlMCTaÜM
+Kantoor: Keizersgracht 325
+Telefoon 40647
+•4
+Aug. Uilkema
+ANKER HORLOGES.
+Zilver fl.10,15,20,25
+Gottd 28,35,50,75
+Rcgulicrsbrccstr39
+Goddards
+PlatePowder
+voor zilveren tn vtrnikkelde voorwerpen
+lornuimtc drogen &amp; Galanterie
+
+J. H. Jan» &amp; Co.
+Haringvliet N.Z.6q Rororaua
+Firma OBUS 8 Fritz
+(Gebrj. VAN M A AR E)
+
+Heeréfrachit 341
+TEL. 46885
+FABRIKANTEN VAN
+Olie- en Waterverf
+Schilderpapier, linnen
+enz» G*°^ ^ ^ GNa
+VRAAGT O N Z E|
+STUDIEVERF]
+iiuuHNKniiimimimimiitiwntHiMmimmiNiiJ
+Electr, Boekbindcrij
+
+OUDWIJK"
+FIRMA VAN WIJK 6
+VAN DEN WIJNGAARD
+Oudwijkerdwarsstraat 104-110
+UTRECHT
+(voorheen Jansveld 19)
+TELEPHOON 2957'
+PARTIC. EINDWERK ENZ.
+SPECIAAL INGERICHT
+VOOR GROOTE OPLAGEN.
+LINNEN STEMPELBANDEN
+VOOR H. H. UITGEVERS
+Alg» Assurantiekantoor
+
+P. ROT Jzn.
+Prins Hendpkkade 159—160
+AMSTERDAM
+
+Bezorgt Verzekeringen
+op eHt gebied.
+Inlichtingen,
+premieopgave worden gaarne
+verstrekt*
+l
+Zenuwen!
+
+Gejaagdheid!
+
+Slecht humeur!
+Steek een SOPLA op.
+Zoo'n geurig, licht sigaartje werkt o zoo kalmeerend.
+En de lage prijs schijnt zelfs bij vermogende lieden geen
+bezwaar te zijn, want in alle rangen en standen worden
+SOPLA's dagelijks bij duizenden en duizenden gerookt.
+Verkrijgbaar in alle sigarenwinkels, doch past op de
+talrijke imitaties. Op de doos moet ook staan
+HOUBAER &amp; Co. AMERSFOORT".
+WIJETALEEREN
+DE MET GOUD BEKROONDE
+
+STALEN KANTOORMEUBELEN
+FABRIKAAT AUGUST BLöTNER
+BRANDVRIJE
+STALEN
+BRIEVENKASTEN
+^CN
+Sjr EN
+
+BUREATJX_MIN_ISTRE
+
+K A AR T E NL A AT JE S
+
+M A P P E N R E K K E N
+ONVERWOESTBAAR TEGEN VOCHT,
+
+INWENDIG TEGEN STOF GEVRIJWAARD,);
+
+DE^MEEST BENUTBARE2RUIMTE,
+
+ELEGANT IN UITVOERING,
+
+EEN VOORUITGANG IN UW^BEDRIJF,
+
+EEN SIERAAD OP UW KANTOOR
+MOZES KNA'
+OUDE HOOGSTRAAT l - AMSTERDA
+D E GROENE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+kost slechts f2.70 per kwartaal of f 10.—per jaar bij vooruitbeta"
+
+</text>
+<image timestamp="2002:09:21:09:22:55.00" size="150167">D10006JF.TIF</image>
+</page>
+</document>

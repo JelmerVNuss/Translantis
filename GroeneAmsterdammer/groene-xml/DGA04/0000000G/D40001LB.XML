@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150124</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+24 Jan. '.15. . No. 1961
+12e Jaargang 24 Januari 1915
+Redacteur: K. C. DE JONGE
+Van Woustraat 11211, .Amsterdam
+
+Verzoeke alle mededee]ingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+
+PROBLEEM No. 15 VAN DEN AUTEUR
+P. VAN ROSSUM JR., A'DAM
+Zwart (12 schijven)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25!
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (12 schijven)
+Stand. Zwart: l, 4, 7,9, 11/13, 15, 16, 19, 24.
+Stand. Wit: 21, 22, 27, 28,30, 32/35, 38, 45, 47.
+
+
+PROBLEEM No. 16
+VAN DEN AUTEUR J. SWART, A'DAM
+. Zwart (11 schijven en l dam)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (15 schijven)
+Stand. Zwart: 6/9, 11, 13, 17/19, 23, 24,
+dam op 29.
+Stand. Wit: 22, 27, 28, 30/32, 36, 37, 43,
+45, 47/50.
+
+Oplossingen worden binnen 14 dagen
+ingewacht aan bovenstaand adres.
+OPLOSSING PROBLEEM No. 11
+VAN DEN AUTEUR BOMBEKE
+_Wit j_ 11-7,_16-11, 27- 21, _33-28, _32-28,
+Zwart: 12: l, 6:17," 17: 26, 22:33, 23:41~
+40-34, 25:3, 3:15!
+26:30, 33:42
+
+
+OPLOSSING PROBLEEM No. 12
+VAN DEN AUTEUR DOUILLET
+Wit: 42-38, 39-33. 30-24, 35:33, 37-32,
+Zwart: 33:42, 28: 50, 19:30, 50:28, 28:46,
+48:37, 26:6!
+46:2l
+PARTIJ No. l
+Als 31e zet werd gespeeld 31-27, terwijl
+de navolgende eenvoudige damzet over het
+hoofd werd gezien.
+Wit Zwart
+34-29 31. 23:34
+32. 19:39
+33. 39:28
+34.
+34. 34-39
+35. 13-18
+28-23
+38-33
+32:1!
+nu speelt zwart
+43:34
+indien wit nu slaat
+1:23
+36.
+dan laat zwart volgen 36.
+35:24 37.
+24-30
+20:18
+waarna een gelijk aantal schijven overblijft.
+Slaat wit bij de 36e zet l: 29 dan volgt
+24:33 en zwart staat iets gunstiger.
+OPLOSSING BLADPROBLEEM
+VAN DEN AUTEUR J, SWART
+Stand. Zwart: 8 10, 12, 13, 16/19. 29.
+Stand. Wit: 21, 25, 27, 31, 36, 39, 43,45,48.
+Wit: 27-22, 22-17, 48-42, 39-34, 25:5!
+Goede oplossingen ontvangen van G.
+Kerlen, A'dam, van No. 9; J. Luteijn, Groede,
+van NOS. 9 en 10; A. D. G. Boerdam, Fort
+Krommeniedijk, van NOS. 9 en 10; A. J.
+Oskam, Utrecht, van No. 9 en 10; P. van
+Rossum Jr., A'dam, van No. 9.
+Vraagstuk Partij No. l is goed opgelost
+door A. J. Oskam, Utrecht.
+CAUSERIE OVER HET PROBLEEMWEZEN
+(Vervolg)
+Heeft nu de problemist een vraagstuk
+gereed, dan komt er nog een lastig en
+moeielijk werkje, want het vraagstuk mag
+maar op n manier oplosbaar zijn. Hij moet
+dus alles onderzoeken of er ook langs een
+anderen weg gewonnen kan worden, daar
+het nog al eens voorkomt dat een probleem
+wordt aangeboden, waarin meerdere oplos
+
+singen verborgen zijn.
+De maker toch ziet veelal alleen zijne
+oplossing en moet dus alles zorgvuldig
+nagaan, alvorens zijn product wereldkundig
+te maken.
+Wordt nu een bij-oplossing" ontdekt, dan
+kan getracht worden, zonder de oorspronke
+
+lijke grondstelling te wijzigen, of het mogelijk
+is die 2e oplossing te verwijderen. Blijkt
+dit een onmogelijkheid te zijn, dan rest den
+problemist feitelijk niets anders dan van
+voor af aan te beginnen.
+Schijn-oplossingen, dat zijn oplossingen
+die niet tot winst voeren, mogen er natuurlijk
+wel in voorkomen, want deze brengen de
+oplossers op een dwaalspoor, verhoogen het
+schoone van het probleem en het zal blijken
+dat DE oplossing niet voor de hand ligt.
+Wij herhalen nog eens uitdrukkelijk dat
+bij-oplossingen die tot winst voeren, nimmer
+mogen voorkomen en wij zullen niet aarzelen,
+elk probleem waardeloos te verklaren, indien
+het mocht blijken dat er meerdere oplos
+
+singen aanwezig zijn.
+Men zal ons steeds bereid vinden, zooveel
+in ons vermogen is, wenken en
+aanwijzigingen te geven aan beginnenden
+problemisten.
+Wij stellen ons voor zoo nu en dan een
+geplaatst probleem te bespreken.
+Blijkt een ons toegezonden probleem voor
+plaatsing geschikt, dan wordt dit opgenomen,
+terwijl in het tegenovergestelde geval, wij
+de fouten zooveel mogelijk zullen aanwijzen.
+(Wordt vervolgd)
+CORRESPONDENTIE
+Wij zullen, te beginnen met de volgende
+week, bij de oplossingen den stand ver
+
+melden.
+BLECTRISCttE LUXE flljinTlflljl ÏJ T 4 f! l Q AMSTEÜDAM,
+HnnnfiR ATTtfPRU iTnlimTFi il IjAftAn AnteBonnslraaUO.
+DilUUj]0/l&amp;llftHld U UU il U JU il« U 1U H U ƒ TELEFOON 46n z.
+SPECIALITEIT IN AI.LE BROOD SOORTEN.
+Onderl.Levensverzekeringv.„EigenHulp
+
+;' Telegramadres: OL.VEH, Haag. Telepboonnmmmer 2293.
+HOOFDKANTOOR:
+'s-Gravenhage, Kortenaerkade 3.
+BIJKANTOREN:
+Amsterdam, Rokin 99; Rotterdam, Wijnhayen 33; Groningen, Groote
+Markt 27; Arnhem, Jans Buitensingel 23.
+Directeu'en:}. C. VAN GOENSenMr. E. A. SMIDT. Adj.-Direct.: Mr. C. J. SNIJDERS. Wisk. Adviseur:
+Dr. P. MOLENBROEK te 's-Gravenhage. Geneesk. Adviseur: Dr. D. L. VAN WELY te 's-Gravenhage.
+Verzekeid Kapitaal. . . . / 32.&lt;VOO.O«O.—Reserve ruim	ƒ
+14.OOO.OOO.Verzekeide Rente	95O.OOO.—Zekerheidsfonds.....
+OSO.OOO.Aan de verzekerden is f 2 3SS3.OO2.Ji4 als winst teruggegeven.
+De O. L. v. E. H. sluit tegen vaste premiën alle soorten van levensverzekeringen en lijfrenten.
+Iedereen, hetzij hij al of niet lid is der Vereeniging E. H. kan zich bij haar verzekeren.
+Vrat* ff t Tarieven en "\Afinst\roorbeelden.
+Singel 276^ Amsterdam - Tel. N. 10789,10148.
+A f deeling schriftelijke Cursussen.
+
+CTJRA/TCXRIUM: :
+Mr. Dr. C. P. SCHOOH, Hoofd-Directeur der Surinaamsche Bank.
+Dr. H. C. PRINSEN GEERLIGS, Directeur der Filiale Nederland van
+het Proefstation voor de Java Suiker Industr e.
+Prof. Dr. H. D. J BODENSTEIN, Hoogleeraar aan de Gem. Universiteit.
+Jhr. Mr. L. H. VAN LENJSEP, Lid van de Firma PATTN,
+VAN NOTTEN &amp; Co.
+Onder leiding van bevoegde docenten organiseeren wij in meer
+
+dan 100 vakken schriftelijke Cursussen:
+
+
+A. Handelswetenscliappen:
+Handelscorrespondentie, Boekhouden, Handelsrekenen, Warenkennis, Handelskennis,
+Handelsrechr, Handelsaardrijkskunde, de Techniek der Administratie, de Techniek der
+Bedrijfsreclame, Schoonschrijven, Machineschrijven, Stenografie.
+N.B. Speciale Cursussen voor de Practijk-Diploma's.
+
+B. Talen:
+Fransch, Duitsch, Engelsch, Italiaansch, Spaansch, Deensch-Noordsch, Zweedsch,
+Russisch, Maleisch, Latijn, Grieksch, Esperanto, Literatuurgeschiedenis.
+N.B. Bijzondere leergangen voor het Staatsexamen A en B.
+
+C. Exacte Wetenschappen en Techniek:
+Wis- en Natuurkunde. Scheikunde, Dierkunde, Physiologie, Weer- en Sterrekunde,
+Werktuigkunde, Electro-Techniek, Lijnteekenen, Meten en Teekenen, Vak-Duitsch,
+Vak-Engelsch.
+
+D. Algemeene Ontwikkeling:
+Algemeene Ontwikkeling, Algemeene Beschaving, Psychologie, Sociologie, Logica (de
+kunst van het denken), Rhetorica (de kunst om zich uit te drukken), Aesthetica,
+Muziekgeschiedenis, Harmonieleer, Bijbelkennis, Gezondheidsleer en Sexueele Hygiëne,
+Schrijven zonder Fouten, Een goede Stijl, Een goed Handschrift, Vlug en goed
+Rekenen, Fröbelen, Slöjd, Spelleiden, de Techniek van het Dammen en Schaken,
+Fotografeeren, Bibliotheekwezen.
+
+/;. Opleiding voor een acte L. O.:
+Fransch, Duitsch, Engelsch, Wiskunde.
+
+F. Opleiding voor een acte M. O.:
+
+Geschiedenis, Staatsinrichting, Staathuishoudkunde, Boekhouden, Schoonschrijven.
+G. Cursussen voor de Huisvrouw:
+De Techniek van het Huishouden, Kookkunst en Voedingsleer, Linnennaaien,
+Kinderkleeding, Costuumknippen en Costuumnaaien.
+
+Ieder, die nadere inlichtingen wenscht, vrage ons Prospectus.
+
+JOH. GÓBEL Jr.,
+Directeur*
+ALLEN DRAGEN
+Kousen en Sokken van
+
+WICHER JANSEN
+
+UTRECHTSCNE TRICOTA6E FABRIEK
+UTRECHT.
+AVIATA" Garantie Kousen en Sokken
+Gegarandeerd voor 6 maanden.
+Wff verstrekken gaarne adressen van wederverkoopers.
+Levensverzekering- n._ L "
+Maatschappij il T H D C FT)
+HaatachappeUjk Kapitaal:
+EEN HILLIOEN «IJLDEN (volteekend).
+Bütantoor: L K.ff, BEUKMAN, O.Z. AcUipral 95, Alt.
+fctiüJNJLUS
+(erkend door de Oogartsen hier ter stede)
+Kantoorpince-nez
+(met pantoscoopglazen) ƒ SJ.
+Glazen voor veraf en nabij
+per paar /3.5O
+Goud-doublésportpince-nez /2.9O
+
+Amstel 21O
+11: iii lis
+
+of TE HOOP:
+Heereiihüis-Winkelhuizen
+op goeden stand te Amsterdam
+TM HU R nieuw gebouwde
+Etage-woningen van f 200.
+en f 300.—per jaar.
+TE HUUR een Garage voor
+twee Automobielen.
+Dagelijks gratis inlichtingen bij
+
+C. BOEMDERMAKEB
+Overtoom 4ft9.
+Woonplaats: Singel 270 Tel. H'twfl.
+Kantoor: Overtoom 459. Iel./ 3015
+EERSTE NED. MACH.-GLASHANDEL
+der Firma
+
+GONST. J. F. PONT,
+Lijnbaansgracht 210, Amsterdam.
+MOTOR- en ZEILJACHTEN'"""" "
+HOUT
+ROEIÏAARTUI8EN, SCHEEPSMOTOREN.
+N.V. W«rf De Amstel", Dir. THIEBOUT,
+Ouder- Amstel.
+BAKKER &amp; TEEBINK
+AMSTERDAM
+TELEFOON 689
+J. C. KOFFIEBERO c.s..
+Makears, zullen op Maandag 15
+'ebruari Ittlft, des avonds
+a zes nnr, in het
+Verkoopokaal Frascati" in Veilli'C
+&gt;r«-ngeu de navolgende
+pereelen te A,msterd»m, ten
+verstaan van de Notarissen A.
+CHELTEMA BEDU1N en K. W.
+K. VAN BEVERWIJK:
+
+Zes naast elkander gelegen
+luizen en Erven met
+Bovenuizeu, aan het
+
+
+P
+UTRECHTSCHFDWARSSTRAAT 17-19
+- - BIJ DE REGULIERSGRACHT
+BINDEN SCHOOL- EN STUDIEBOEKEN
+GELEGENHEIDSALBUMS PORTEFEUILLES ENZ.
+Glas voor
+Voedingsen Genotmiddelen.
+
+KR,STAL en HALFKRISTAL.
+H
+KALVERSTBAAT 216, - WILLEMSPARKWEG 9,
+Telef. No. 2040. Telef. No. 1793 Zuid.
+AMSTERDAM.
+Fijne leeschwaren,
+Delikatessen,
+Biunen- en liuilenlanfene
+laas,;
+Cumfstililes, en].
+Feine Fleiiehivarun,
+
+Uelikatessea,
+
+k- uad auslaadiscae
+
+Küse,
+All ind of meat,
+
+Fitwst delecaeiei,
+
+Inlaad aad foteip
+
+ckeeses.
+Viandeg de lère qualité,
+Dekatcsses,
+Fromage iuduène et
+innpï,
+Comestibles.
+Typ. Amst. Boek- en Steendrukkerij, voorheen Ellerman, Harms &amp; C®.
+\o. 9, Kad. Sectie Q, No. 3360,
+groot l 4r« 5 (VnHaren.
+\o. tl, Kad. Sectie Q, No. 3359,
+groot l Are 2 Centiaren
+No. 13. Kad. Sectie Q, No. 3358,
+groot l Are S Centiaren.
+No. 15, Kad. Sectie Q. No. 3357,
+groot l Are 2
+CentiarenVo 17, Kad. Sectie Q, No. 3356,
+groot 87 Cemiarcn.
+No 19, Kad. Sectie Q, No. 3355,
+groot 80 Centiaren.
+
+Het Winkelhni»met
+BOTCDhuizen en Erve, aan het
+No. 21 en aan de FREDERIK
+HEM)KIRSTRAAT, Kad. Sectie
+Q, No. 3354, groot
+64 Oentiaren.
+
+Het Huis, met Bovenhnizen en
+Erve, aan de
+.1,
+Kad. Sectie Q, No. 3361, groot
+77 Centiaren.
+
+Het Woonhuis, met afzon
+
+derlijk verhuurd wordend
+Hovenhiiis, Voortuin, Opeu Plaats en
+Erre, aan de
+hoek BELLAMYDWARSSTRAAT,
+Kad. Sectie T, No. 1393, groot
+l Are 79 Centiuren.
+
+Vier Woonhuizen, met
+afzonderlijk verhuurd wordende
+Bovenhoizf n. Open Plaatsen, Tuin
+en Erven, aan de
+Vo 42 (met Erf), Kad. Sectie T,
+Nrs. 251 en 252, groot
+2 Aren 59 Centiaren.
+No. 44, Kad. Sectie T, No. 253,
+groot 96 Centiaren.
+Sfo. 46, Kad. Sectie T. No. 254,
+groot 85 Centiaren.
+No. 48, Kad Sectie T, No. 255,
+groot 80 Cei,tlaren.
+
+Vier Woonhuizen, met
+afzonderlijk verhuurd wordende
+Bo&gt;enhnizen, Yoortninen, Open
+l'iiiutscii, Tuinen en Erven, aan de
+Xo. 14, Kad. Sectie T, No. 248,
+groot l Are 9 Centiaren.
+No. 16 Kad. Sectie T, No. 3017,
+groot l Are 21 Ceniiaren.
+No. 18, Kad. Sectie T, No. 3016,
+groot l Are SS Ce-tiaran
+No. 20 Kad. Sectie T, No. 3015,
+groot l Are 39 Cen1i»ren,
+ten overstaan van den Notaris Mr.
+D. J. VAN STOCKUM.
+
+Drie Winkeltmizen, met
+afzonderlijk verhuurde
+Bovenhuizen, Oyen Plaatsen en Erven,
+aan de
+No. 109, Kad. Sectie Q, No. 2672,
+groot «7 (Viltlaren.
+Xo. 111, Kad. Sectie Q, No. 2673,
+groot 64 Cfiitian-n
+No. 113, Kad. Sectie Q, No. 2674,
+groot 66 Ceutiaren
+
+Het Winkelhuis, met afzon
+
+derlijk verhuurde Bovenhuixeu en
+Erve, aan de
+
+
+oltalral 115
+en aan de
+Kad. Sectie Q, No. 2675, groo,
+70 Centiaren.
+
+Twee Woonhuizen, met
+afzonderlijk verhuurde
+Boveuhuizen, Open Plaatsen en Erven,
+aan de
+No. 96 Kad. Sectie Q, No. 2676,
+groot 50 Centiaren.
+No. 94, Kad. Sectie Q, No. 2677,
+groot 49 Cfutiaren.
+
+De Veiling dezer perceelen zal
+geschieden afzonderlijk en in com
+
+binaties, zooals t.z.t. in het Veiling
+
+boekje zal worden bekend gemaakt.
+Al deze perceelen zijn te be
+
+zichtigen des Dinsdags,
+Donderdags en op den Verkoopdag, des
+namiddags van 2 tot 4 uur.
+
+</text>
+<image timestamp="2002:08:21:06:55:48.00" size="351924">D40001LB.TIF</image>
+</page>
+</document>

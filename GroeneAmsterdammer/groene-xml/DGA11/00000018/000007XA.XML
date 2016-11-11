@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300222</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Lichtpunten J
+.i
+O ^ i
+t*, ' *
+t
+* » t,
+A
+i -v
+&gt; -•
+f
+* &lt;V
+i i "
+&gt; \
+i
+&lt;%., . &gt; •
+,1 * '
+•n" ' /
+
+'J-'i/f
+** X * "^ '
+* "ïrft ' *
+V-rt S" *
+* (* *
+r -! i/
+;^u: ;
+(,-" ' '
+f* &gt; i
+t^ ,
+'V*
+** s »
+^,,fv • ,
+•. ^ ^ i \
+TI ; '
+
+./ v
+!
+
+
+
+il
+t- .
+i
+1
+1 .. " •
+j
+i
+-( ' \ .
+*
+
+&gt; .
+.t '•
+
+-'
+
+
+
+,
+' \ .
+
+! f •&lt;- ~'. '
+'!
+f j
+
+•
+.
+•h
+V
+U zult «ens zien, hoe Uw
+kanjers Vavonds winnen zullen
+met meer lampen.
+U kunt zelf met een
+verdeelstop lichtpunten aanbrengen
+daar waar U dat wenscht.
+En is de lichtsterkte van Uw
+gróote lamp wel voldoende?
+t Is het wel waard daar aan
+
+dacht aan te besteden, want
+de stemming in huis hangt
+Vavonds voor een groot deel
+af van de verlichting.
+Gebruikt overal Philips
+Argenta - ook verkrijgbaar in
+assortimenten van 6 stuks
+de bekende huisjes vol licht".
+ARGENTA
+•\,
+Het beste licht bij 't laagst verbryik
+Vraagt bij Uw installateur onze
+gratis brochure.over goede huisüerlicjiting
+
+</text>
+<image timestamp="2002:09:21:02:53:31.00" size="373441">000007XA.TIF</image>
+</page>
+</document>

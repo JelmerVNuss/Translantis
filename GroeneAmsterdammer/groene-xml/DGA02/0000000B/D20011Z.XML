@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010915</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1264
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Wielerbaan aan den -Zeeburgerdijk.
+WIELERBAAN
+Da CONTROLEUR: »'t !•» volstrekt zoo erg n'et; voir wie mij aan d&gt; n irgang heeft zien staan, valt het bepaald nog mee,,."
+
+Een vriendschappelijke ontmoeting. (Noonsldne]. • c Russische logica. (Fi-cMetto).
+is,
+A
+/
+\
+N
+A Z
+DE FRANPCII.MAN (Mr. Loul,et en de Czar ;.ien-'() : »Mon D:eu ! is 't riet h'/erüjk ze
+ZOO vriendsoli ippel^k te zien V"
+_' DE SULTAN : »Z'jiilen ze hè: oo1.: over mij hebb jn '? Ik ma:; in ieder geval w l oppas en . .."
+Kt'H.vxn (tot A/&lt;/iiiii*tii,n) : Waarorn k ij c j-,! me zoo aan Y'
+An.ANis'i \.\ : &gt;... Maar ik kijk in 't geh.-el niet naar j"..."
+Iii&gt;[.A&gt;.i.- iNV.u! lijk je i,iet eens naar me 'i dan zal ik je c'^irom wel
+vinden . . .''
+De pen is machtige" dan het zv.'a'ird. (Mormng l.cmlcr).
+Chamberlain's schuldboek.
+
+DE VORST PER HEL: &gt;.\ls die historie niet gauw uit
+is, moet ik voor mijn vriend Joe een nieuw conto beginnen."
+John Buil in Zuid-Afrika.
+
+(Life).
+: Juiix L'Li,: Ik heb u laten roepen, U moraal ^V-jijler, om me
+raad te geven, hoe te doen met die opstandelingen."
+GKXEU.VAI, Wi:ui.r.i;: «Wel John ! tegenover u ben )'/.• maar een
+beginneling.''
+Een gelukkige terugkee:. &lt;/'&lt;
+~~~~l~7r&gt;'**'"*'( 'f^~^~^~~~l"-:: { '•(
+f*'
+•—Hocge en machtige Ksizer! Ik br-n gekomen [Mtirnrc, als tcckai van
+edeloffl u te zegger, dat w\j eigenlijk niets g'Ja'in hebben, mo-&lt;duth'-\-\ en v&gt;(&gt;'Blievende ge
+
+en, u ons leedwezen te betuigen. ?ir,i\tv,')^ j :;:.:in C!i &gt; t\. &gt;ie,-t't de
+Zorg maar dat je het nooit weer doet, wa?rde Keizer e&gt;-n voor ;.'i«'ln
+'nnheidpa:Tsjoen. • (Kuterelle). sende uniform aangetrokken.
+
+
+JA:S: »Kvjk l''idel. hier hebben de Engelschen geloopen."
+MADAME LA. T.riTiii.iiirE : »Ah Xicobuj, mori !&gt;ien aimé! Ik
+wnt wel dat je weer bij me kooien zoudt, ais ;k maar bleef
+vragen."
+
+</text>
+<image timestamp="2002:08:16:14:26:43.00" size="413063">D20011Z.TIF</image>
+</page>
+</document>

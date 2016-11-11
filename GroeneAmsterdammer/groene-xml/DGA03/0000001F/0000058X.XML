@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250110</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2483
+J. ». STRCIJ$ &lt;&amp; Zn,
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+POLLEN's Oude Geaever
+Fijne Likeuren n Punch
+tH. P. POLLEN A ZOOH - Rotterdam
+In den Silveren Molenbeecker"
+Kflïerstraat 32
+
+DEN HAAG
+Hooptraat 31
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit in:
+lm. Oud Holl.
+Zilverwerk.
+fAFEL- en
+SERVIESZILVER.
+D. OBERINK &amp; Co.
+Prinsengr. 456 b/d. Leidschestr.
+Tal. 37452.
+Aanleg van licht- en krachtinstallatiën.
+Met 10 jaar Garantie
+worden geleverd, uitsluitend door THE DUTCH ANGLO
+TILING COMP., dir. JACS. S. WAISVISZ &amp; Co.,
+Wagenstraat 167, DEN HAAG, Tel. 11119, de alom bekende
+BÜBBIN RUBBERVLOEREN
+en zijn deze vloeren zoowel geschikt voor eet-, badkamers,
+serres, halls, trappen, als voor schoollokalen enz. enz.
+Specialiteit in levering van RUBBERVLOEREN,
+RUBBERMATTEN en alle soorten gummi-artikelen.
+N.V. HAARLEMSCHE SODAFABRIEK
+HAARLEM - TELEFOON 30
+H. S. F.
+ZUIVERE KRISTALSODA IN KRISTALLEN EN IN
+POEDERVORM DUBBEL KOOLZURE SODA
+NATRIUMSULFAAT (WATERVRIJ)
+GLAUBERZOUT VOOR TECHNISCHE DOELEINDEN
+OUDS
+KINAWIJN
+is aromatisch
+Daardoor eetlust opwekkend
+en rc-bureerend. Een heerlijk
+apéritif; ook voor dames.
+Overal Verkrijgbaar.
+
+F* OUD,
+PURMEREN0
+Het stiqur.t met
+den Volendammer
+het gemakkelijkste
+en betrouwbaarste
+kruidende middel!
+Naamlooze Vennootschap
+Uurwerk, Goud- en Zilverhandel
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwerken metWestminster endiveree gongslagin
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+Stoomwasscherii Het Zuiden
+PIETER AEBTSZSTKAAT 68-74
+TELEFOON 22365
+is Uw ADR ES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbe v. MEIDIG &amp; VAN ELVE N.
+zijn het meest gewild, om
+prijs en kwaliteit
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+l P.C. Hooftstraat 38 AMSTERDAM Telel.: 20341, 24250 l
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELENl
+ADR1AAN SCBAKEL
+HEILIGEWEG 11-17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bestelt een flesch
+WED. JOHN GAY'S PICCALILL1
+het mosterd zuur met de fijne pikante smaak. Bovendien is op elke flesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N.V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER l l
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+MARMERWERKEN
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Heeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd,
+
+Gez. VAN HUIDEN - Zwolle
+Vraagt onze prijzen van
+luxevracht- en aanhangwagens.
+
+OFFICIAL DEALER:
+
+JAN LIMBACH &amp; Co., HAARLEM
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+B. J. MULDERS
+TUIN ARCHITECT
+Badhuisweg 201 Den Haag—Schevenlngen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:02:23:41:24.00" size="202028">0000058X.TIF</image>
+</page>
+</document>

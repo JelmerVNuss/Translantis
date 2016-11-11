@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>26</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+MODERNE JEUGD
+Teekening J. F. Doeve
+De groeten van den jongeheer, maar hij heeft werkelijk geen aardigheid meer in kerstmannetjes.'
+
+</text>
+<image timestamp="2002:09:27:16:39:56.00" size="86530">00000AUF.TIF</image>
+</page>
+</document>

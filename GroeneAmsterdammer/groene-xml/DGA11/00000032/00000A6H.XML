@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320416</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 16 April 1932
+No. 2863
+l
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+! Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+l Crematie en Transporten
+van uit alle plaatsen
+HOTEL - CAFÉ- RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+Modern Comfort-Lift-Stroomend water ^ enz. ^
+Logies met ontbijt f 3.50 per persoon ^
+BEGRAFEIMISVEREEIMIGING
+. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v/h Gooi)
+P. C. Hooftstraat 38 Brinklaan 138
+Tel. 2O341 2425O MMHM Telefoon 2275
+
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N,V. Meubelmagazijn Eden"
+MOLSTEEG AMSTERDAM
+BOEKE NKASTE N
+Centrale Verwarming - Warmwatervoorziening
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+Als U een
+ziek gebit hebt
+kan tandpasta U niet genezen !
+Geen tandpasta kan U verlossen van gezwollen
+tandvleesch of ontstoken tanden, noch kan zij
+gele tanden weer blank maken! Tandpasta kan
+gezonde tanden slechts rein en wit houden.
+In dit opzicht is Colgate's nimmer overtroffen!
+Haar diep doordringend schuim verwijdert alle
+voedselresten, en neemt daarmede vele oorzaken
+van tandbederf volkomen weg.
+De American Dental Association", de grootste
+officieele instelling op tandheelkundig gebied in
+de Vereenigde Staten, heeft haar goedkeurings
+
+zegel aan onze tandpasta gehecht. Wij drukken
+het hiernaast af: Iet er op bij den aankoop van
+Uw tandpasta!
+Groote tube
+7 U cent
+TANDPASTA
+H-32-59 AB
+DirkScliiKitMM
+Amsterdam. •»
+Abonnementsprijs van
+DE GROENE"
+per jaar:
+Nederland
+Indië(Zeepost)
+(mail). .
+Argentini
+Belgi
+Duitschland
+Egypte
+Frankrijk
+Griekenland
+Oostenrijk ;
+Spanje
+Tsjecho Slowakije •
+Zuid-Afrika
+Denemarken
+Itali
+Noorwegen
+Zweden
+Engeland
+Zwitserland
+Amerika
+Australi
+Azi
+f io.
+I3-50
+f 11.50
+f 13.50
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:21:40:44.00" size="131273">00000A6H.TIF</image>
+</page>
+</document>

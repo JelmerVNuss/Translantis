@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300426</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+IÉ3
+
+wsgsg
+
+
+&gt;:.*'•,«.
+»!.
+?&amp;!!&amp;»#••*•:' '
+r "l'f ,f ,l?l-3'«i'*iW&lt; , ,
+r£&lt;i. &lt;t » T K T f'j »,,. i
+EID NAGAAN
+DOOR OP DEN
+&lt;!l
+an kutit U bij
+aan" koop van Blue Band er
+Xeker van zijn dat deze
+.yersch is, De Garantie
+
+datum staat op elk pakje.
+Bij aankoop behoeft U dus
+alleen hierop te letten:
+
+Blue Band wordt even
+'t versch verkocht als versche
+eieren of versche melk.
+De bedoeling van dezen
+nieuwen waarborg is, dat
+U bij aankoop er zeker van
+kunt zijn, dat Blue Band:
+GEGARANDEERD VERSCH is.
+
+Let op den Garantie-datum
+op elk pakje
+,-&gt;&gt;"». "
+, ft;;j.
+BLUE BAND
+VERSCH GEKARND
+,!: v , •••••'••-' .. •••••:•••,,: •!«,; :• - ,-•..•••• ~,
+*;H
+•«;i? J^^r^,
+•'v».
+
+</text>
+<image timestamp="2002:09:25:12:51:31.00" size="679484">0000095U.TIF</image>
+</page>
+</document>

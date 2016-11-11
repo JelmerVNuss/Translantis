@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270409</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAM
+NHsllWENDIJK 184 TEGENOVER DE BEURSPASSAGE
+
+DEMISAISONS
+COVERCOAT
+MARENGO
+EN
+MODERNE
+FANTASIE
+STOFFEN
+
+
+f25 - f75
+
+NIEUWSTE
+MODELLEN
+
+VOOR KLEEDING
+NAAR MAAT
+STALEN EN
+MODELBOEKEN
+FRANCO
+OP AANVRAGE
+(verzilverd)
+
+Groenteschalen
+
+Saucekonunen
+
+Groentelepels
+
+Saucelepels
+
+Soeplepeb Tafellepels en Vorken enz.
+
+Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA &amp; RUPP
+CMAMPAGNE BOUVIER FRÈRES
+
+Vin Suisse
+
+QualitéE/xcellènte
+© @
+
+hViN STRAALEN M.ONSIEÜR &amp; ERKELENS
+WIJNHANDELAREN
+0EN HAAG ROTTERDAM HELDER
+Leuvehaven 34
+J.RKARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+** RIJKE *a
+SORTEERING
+MARIUS - Utrecht
+Iedereen zijn eigen
+
+WEERPROFEET!
+Geregeld gebruik van
+eenWEERTELEGRAAF
+behoedt U voor teleur
+
+stelling op komende
+uitstapjes.
+
+Offerte op aanvraag.
+Waterschaps
+
+We tg e ving
+
+door
+
+Dr. C. J.H.SCHEPEL
+
+Tweede druk
+
+Prijs gebonden f 17,50
+
+Deze druk is herzien en tot
+op dezen tijd volledig gemaakt
+met gebruikmaking ook van
+de talrijke administratieve en
+rechterlijke beslissingen sinds
+het verschijnen van den eer
+
+sten druk in 1906 genomen
+op het gebied van het water
+
+schapsrecht.
+Uitgave van J. B. WOLTERS
+
+GRONINGEN - DEN HAAG
+Abonneert UU o p
+De Groene Amster
+
+dammer, Weekblad
+voor Nederland
+
+GEEN UITSTEL.
+..
+Als Gij inziet, dat Gij een verzekering moet sluiten,
+stel dan niet uit: eiken dag uitstel loopt Uw gezin
+kans onverzorgd achter te" blijven.
+
+
+O L V E H
+(Onderlinge Levensverzekering van Eigen Hulp)
+'s-Gravenhage: Kortenaerkade 3
+MODEL 1927
+De beste 6 cyl. Auto op de
+wereldmarkt. De schitterende
+afwerking der carrosserie over
+
+treft alles.
+Product General Motors
+GEBRS WILLINK
+Vraagt Catalogus.
+Bergen. Pension Het Huis De Haemstede"
+-• TELEFOON 10.
+Ruim geriefelijk huis. Groote slaapkamers met balcon en
+stroomend koud en warm water. Heerlijk voorjaarsverblijf.
+WINTERSWIJK
+Hotel Pension DE KLOK
+Telefoon 18
+Auto-Garage gratis voor gasten
+B. Th. J. GRIMMELT, Eigenaar
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café'Restaurant
+Telefoon 200
+GBBR. RADBMAKBR
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meerdervoort 12 - DEN HAAG - Tel. 12869
+HOTEL DE CONSTABEL
+RESTAURANT ARNHEM PAUWSTRAAT 9
+Koude en Warme Baden
+Auto-Garage J. H. BOEKHOLT
+UF^Ar^^F^^r ^^r*&lt;Sr ^Br ^Sr ^^r ^Sr^Sr^or ^2r ^^r ^fir ^^r ^Sr *Jr *£r ^Br ^Sr^^r ^Br^SF^^r
+
+JKIPS 6 C2J
+J SCHIEDAM l
+J Plaatiizeren Reservoirs, Buisleidingen, £
+^ c L T i ^
+^ ocheepS' l anks &amp;
+t AUTOGENE LASSCHING
+Wed.H.RAHDER6Zo.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+*«* 's-Gravenhage •«•
+^*&gt;
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Pd)Koaranten worden op aanvrage gaarne
+VOOR EXPORT SPECIALE CONPmËN
+NV.DËETNA
+AM/TERDAM
+MACHINES VOORDE
+PALMOLIE-INDUSTRIE
+
+</text>
+<image timestamp="2002:09:21:04:00:38.00" size="161284">D10006D2.TIF</image>
+</page>
+</document>

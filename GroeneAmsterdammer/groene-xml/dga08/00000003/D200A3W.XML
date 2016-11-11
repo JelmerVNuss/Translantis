@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19291221</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+a tempo
+poco
+God groet v key
+O weer - de bruyt
+ser- in
+der weel
+ne
+den
+&lt;*
+Peer - Ie der ionc-frou
+Dijn lof , is ee
+wen
+wich
+la seconda voltapiüp
+blinct
+teyn van
+schoon
+lanck
+piu dolce
+hè- mei s
+min - nen
+Al
+Schenct
+" (tranquillo)
+Ognissanli t929—Amsttrdam
+
+
+KERSTMIS IN MANTSJOERIJE
+t
+t
+H
+L. J. Jordaan
+lm Osten nichts Neues
+
+</text>
+<image timestamp="2002:10:26:05:37:40.00" size="459806">D200A3W.TIF</image>
+</page>
+</document>

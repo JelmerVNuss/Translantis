@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>39</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+39
+EEN KIND
+VAN ACHT
+JAAR KAN
+FILMEN!
+MET DEZE KIND.
+De BELL &amp; HOWELL Kino Camera FILMO" is zóó eenvoudig
+in behandeling, dat zelfs een kind er mede kan werken.
+Veel eenvoudiger zelfs, dan het fotografeeren met een gewoon
+foto-toestel.
+Slechts twee behandelingen noodig, en wel:
+1°. Het op te nemen onderwerp richten in den zoeker.
+2°. Drukken op den knop.
+Dit is alles, wat er te doen valt.
+Uwe FILMO" FILMS WORDEN GRATIS ONTWIKKELD!
+Wij vertoonen ze ten onzent voor U bij aflevering.
+
+Om ze zelf bij U thuis te vertoonen, gebruikt men de BELL
+&amp; HOWELL,
+
+FILMO" AUTOMATISCHE PROJECTOR
+even zoo eenvoudig in behanding als FILMO". Slechts op den
+knop drukken om Uwe film hetzij vooruit of achteruit te
+laten loopen of een willekeurig beeld stil te laten staan.
+
+Voor het vervaardigen van die films welke men dagelijks in
+de betere theaters ziet, worden bijna uitsluitend BELL &amp; HOWELL
+apparaten gebruikt, en al deze bijzondere hoedanigheden, welke de
+beroeps-apparaten van BELL &amp; HOWELL kenmerken zyu in FILMO''
+
+DE BETERE AMATEUR-UITRUSTING1'
+weergegeven.
+BELL &amp; HOWELL
+Automatic
+Motion Picture Camera
+PROJECTOR
+Het zal ons aangenaam zijn U nader in te lichten, omtrent deze zeer bijzondere, interessante geschiedenis.
+
+Geïllustreerde Catalogi op aanvraag!
+
+= Prijzen: =
+FILMO" OPNAME KINO'S, compleet
+in lederen etui . ff 345.- en f
+524.FILMO" PROJECTORS, compleet
+in Koffertje	ff
+560.GENERAAL AGENTSCHAP VOOR NEDERLAND EN KOLONIËN
+FOTO SCHAAP &amp; Co.
+SPUI 8 == AMSTERDAM
+
+</text>
+<image timestamp="2002:09:05:21:59:42.00" size="152165">0000077I.TIF</image>
+</page>
+</document>

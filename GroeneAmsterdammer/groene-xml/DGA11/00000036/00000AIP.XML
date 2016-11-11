@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320827</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Radio en televisie
+door L. J. van Looi
+Bijna volmaakte toestellen:
+tel o visie met hulp van de film:
+- electrisehe muziek
+
+In mijn voorbespreking van de radio
+tentoonstelling in Berlijn heb ik reeds
+een en ander verteld omtrent het
+toesteltype 1932 de superheterodyne
+met bandfilter. Op de tentoonstelling
+zelf is gebleken, dat er nog iets anders
+"ook aan het nieuwe type zit, hetgeen
+voor den luisteraar van niet weinig
+belang is. De superheterodyne van
+Telefunken heeft een automatische
+sterkteregelaar, behalve de regelaar,
+die de fading compenseert. In het
+laagfrequente gedeelte van het toe
+
+stel, dat wij het versterkergedeelte
+plegen te noemen, is een soortgelijk
+werkende regeling aangebracht als
+in het hoogfrequente gedeelte. Wordt
+aan den versterker weinig geluid
+toegevoerd,dan werkt de versterker krach
+
+tig heeft men het toestel op den
+lokalen zender afgestemd, zoodat de
+ontvangst krachtig is, dan wordt de
+versterking gereduceerd tot een maat,
+die juist voldoende is voor kamermu
+
+ziek. Dat wil zeggen: men kan het toe
+
+stel bij het in bedrijf stellen regelen
+op het geluidsvolume, dat men voor
+zijn doel het geschiktste acht en dan
+behoeft men verder niets meer te
+doen, want dan komen alle stations,
+dichtbije en ver verwijderde, alle even
+hard uit den luidspreker. Wil men
+b.v. des avonds laat! minder ge
+
+luid, dan kan men dat natuurlijk
+bijregelen en dan komen de stations alle
+met dat zachtere geluid.
+Overigens heb ik aan mijn voor
+
+bespreking, voor wat de toestellen
+betreft, niet veel toe te voegen. De
+uitvoering is volslagen veranderd:
+de toestellen worden allemaal op
+chassis gebouwd en de omhull ing is bijna
+steeds uit bakeliet geperst.
+Deouderwetsche ronde afstemknop is verdwe
+
+nen en er zijn prachtige en practische
+schalen voor gekomen, waarmee men
+geen golflengten, maar stations af
+
+stemt. Eén knopsafstemming, zelfs bij
+de eenvoudigste typen, is vanzelfspre
+
+kend. Alles gericht op de behoeften
+van den luisteraar, die van radio
+niets weet en die zijn toestel wil ge
+
+bruiken mét hetzelfde gemak als zijn
+telefoontoestel. En ik moet zeggen,
+dat dit ideaal bijna is bereikt. Het
+eenige, wat ik op de superheterodynes
+tegen heb is, dat het geluid toch niet
+is, wat het wezen moet. Die zes afge
+
+stemde kringen knoeien toch nog te
+veel aan het geluid en hoewel het
+béter is dan b.v. bij de toestellen met
+vier afgestemde kringen van twee jaar
+geleden, kan ik me voorstellen, dat
+een gevoelig musicus er niet tevreden
+mee is. De meeste radioluisteraars zijn
+echter geen gevoelige musici luister
+in dezen tijd van het jaar maar eens
+naar de geluiden, die uit de open ven
+
+sters dringen!
+Een groot gedeelte van de tentoon
+
+stelling was gewijd aan de televisie.
+Er is namelijk ter gelegenheid van de
+tentoonstelling een nieuwe zender ge
+
+komen, die op een golflengte werkt,
+waarmee het zenden van televisie pas
+goed mogelijk geworden is: zeven
+meter. Op deze korte golflengten be
+
+staat voldoende ruimte. Voor het zen
+
+den van een goed gedetailleerd beeld
+zijn ongeveer 50 tot 100 kilocycles
+bandbreedte noodig en de gewone
+omroepstations hebben slechts een
+bandbreedte van negen kilocycles.
+Voor wie niet weet, wat dat alles
+beteekent: als u uw toestel laat
+genereeren en u draait aan de afstemming
+hoort u de draaggolf van een station
+als een giltoon. Die giltoon is over een
+bepaald bereik van de afstemming te
+hooren. Dat is de bandbreedte van
+een zender, die bij telefoniestations
+negen kilocycles bedraagt. Voor tele
+
+visie moet die bandbreedte ongeveer
+5 tot tien keer zoo groot zijn en men
+kan zich dus ongeveer voorstellen,
+hoe weinig of er van terecht zou ko
+
+men als men in het gewone
+omroepgebied televisie ging zenden. Dan
+waren er op de lange golf geen
+telefoniezenders meer mogelijk, want daar
+zou een goede televisiezender ternau
+
+wernood plaats vinden.
+Hoe korter de golflengte in meters,
+des te grooter het aantal beschikbare
+kilocycles is. Eén meter golflengte
+onder de tien meter heeft een vél
+grooter aantal kilocycles dan n meter
+in de 1000 nieter-band. Bovendien
+worden de stations onder tien meter
+niet verder ontvangen dan de optische
+zichtwijdte bedraagt. De golven van
+die lengte schijnen niet met de aard
+kromming mee te buigen. Er is dus
+onder de tien meter voor een
+onnoemlijk aantal stations plaats. Het eerste
+station van beteekenis van dien aard
+is dezer dagen op de Funkturm in Ber
+
+lijn in gebruik genomen. Met een ener
+
+gie van 15 kilowatt is het in geheel
+Berlijn zonder terugkoppeling te ont
+
+vangen. Het ontvangen zonder terug
+
+koppeling is namelijk voor televisie
+
+ontvangst noodzakelijk, omdat men
+anders de ontvanger weer te selectief
+maakt en een stuk van de bandbreedte
+bij de ontvangst afsnijdt.
+De televisie, die op de tentoonstel
+
+ling werd vertoond, was uitnemend.
+De rijkspost liet b.v. een film van een
+motorbootwedstrijd zien, die tot in
+details scherp was. Er was ook een
+nieuwe uitvinding, die stellig een groote
+toekomst heeft. Dat was een
+kombinatie van film en televisiezender.
+Niet zooals tot dusverre, dat men een
+of andere speelfilm uitzond, maar op
+een geheel andere manier. De groote
+moeilijkheid bij het televiseeren van
+gebeurtenissen in de open lucht was
+het gebrek aan licht. De fotocel, het
+z.g. electrisch oog, is betrekkelijk on
+
+gevoelig. Wat op b.v. 20 meter afstand
+van de fotocel gebeurt, wordt niet
+meer scherp waargenomen. En in de
+schaduw halftonen is het met
+de fotocel heelemaal mis. Het fotogra
+
+fisch objectief en-de film is veel ge
+
+voeliger. Die werken nog op afstanden,
+waarop de fotocel heelemaal niets
+meer ziet. Nu werkt men aldusj van
+de uit te zenden voetbalmatch wordt
+met een normaal filmapparaat een
+film opgenomen, beeld en geluid. De
+belichte film wordt niet op een rol ge
+
+wonden, doch gaat van het filmappa
+
+raat door een lichtdichten transport
+
+koker naar een installatie die er achter
+staat. Daarin wordt de film in den tijd
+van tien seconden ontwikkeld, gefix
+
+eerd en gedroogd ! De elfde seconde
+is noodig om de film op de gewone
+,,ouderwetsche" wijze door den televi
+
+siezender te draaien. Zoo kon men op de
+tentoonstelling voor het filmapparaat
+pla,ats nemen, zich eenige seconden
+laten filmen en dan vlug eenige meters
+verder voor den ontvanger gaan staan
+en dan zag men daar zichzelf na elf
+seconden weer terug. Het beeld was
+dan intusschen door den zender, dooi
+
+den aether in elen ontvanger geko
+
+men. Hekserij !
+Er waren op de tentoonstelling twee
+verschillende svstemeii van
+televisieBij de opening van de tentoonstelling
+ontvangstapparaten. De Xipkowschijf
+heeft bij de ontvangst afgedaan. Daar
+
+voor in de plaats is gekomen de
+spiegelschroef en de Braunsehe buis.
+Over beide systemen stel ik me
+voor later nog een en ander te schrij
+
+ven, omdat dit in het raam van een
+tentooristellingsbericht niet goed gaat.
+De /.aak is werkelijk interessant.
+
+Interessant was ook de afdeeling
+..electrisehe muziek":
+Theremin-apparaten, Trautonium, electrisehe
+Bechsteinvleugel. Hellertion, strijkinstru
+
+menten zonder klankbodem, doch met
+electrisehe weergave. Deze afdeeling
+stond onder het beheer van het
+Heinrich Hertz-instituut. De instrumenten
+berusten op twee principen. Het eene
+gedeelte de snaarinstrumenten
+veroorzaken het geluid door de snaren
+te doen trillen in het veld van een
+magneetje. waardoor in de wikkeling
+rond het magneetje stroompjes wor
+
+den opgewekt, die versterkt muziek
+in den luidspreker leveren en het
+andere gedeelte : Trautonium. Heller
+
+tion en Theremin-apparaat ..bespe
+
+len" den Mexicaanschen hond. werken
+met geriereei ende radiolampen. Ik
+kan me voorstellen, dat te eeniger tijd
+voor deze instrumenten bijzondere
+muziek geschreven zal worden en dat
+er kunstenaars op zullen gaan spelen.
+Op het oogeriblik is het meer in
+
+teressant dan schoon, behalve d'.i
+Bechsteinvltugel, die een volwaardig
+instrument is.
+
+</text>
+<image timestamp="2002:09:27:06:45:38.00" size="350102">00000AIP.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910125</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+|.i| \ i il.i .SL(,I van de AuihicnUiMiicr, Weekblad vour Nederlai.d, van 25 januari i&amp;y.
+De Beursquaestie
+. opgelost?
+De Effectenmannen tot den Burgemeester: De Beurs of
+Stoomdrukken] Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:18:18:29:39.00" size="259858">000002SV.TIF</image>
+</page>
+</document>

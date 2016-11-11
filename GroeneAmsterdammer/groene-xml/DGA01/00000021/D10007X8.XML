@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260911</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Brothers
+134 Utrechtschestraat
+b/h Paleis v. Volksvlijt
+
+Stroohoeden-Regenjassen
+
+Nieuwe dessiris
+Overhemden en Dassen
+
+$dhiesser's Netgocdercn
+N.V. Civiele en Militaire Kleermakerij
+' DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6,
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+HV.DËETNA
+AM/TERDAM
+MACHINES VOOR DE
+PALMOLIE-INDUSTRIE
+MEETINSTRUMENTEN
+VOOR DE GEHEELE ELECTROTECHNIEK
+INGENIEURSBUREAU VAN NISPEN
+== ZWOLLE. =====
+N.V. D. HogenbirköZoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN). Tel. 1*42 *
+Constructiewerkplaatsen, Machinefabriek, ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+HfiLhll afdccllag Hekwerken e» DraadafecheUingen, Dlvene Vlechtwerken j )
+Wed.H.RAHDER6Zo,
+WIJ.N HANDELAREN
+Amsterdam, Arnhem,
+««M 's-Gravenhaae &lt;*»*&gt;
+• Hofleveranciers o
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+'Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+£&amp; K
+T
+4000-000
+VERZEKERING
+HOOFD-DIRECTEUR
+J^ÈR HEULEN
+HEERENGR.260-266
+AMSTERDAM
+J. R KARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+*• RIJKE w
+SORTEERING
+Abonneert U op
+De Groene Amsterdammer
+'BOOTMOTOREN
+t ! C*A _. «•	f\
+5
+GEBRf. WILLINK .»
+AMSTERDAM
+CENTRALE VERWARMING
+volgens elk systeem
+WARMWATER VOORZIENING
+door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+
+HUNCK &amp; ZOON
+WAAROM heeft
+VAN RIJN'S
+MOSTERD
+zoo'n overweldigend succes?!
+OMDAT qualiteit altijd den doorslag geeft
+Tijdelijke aanbieding Afghanistan karpetten fl. 34,
+per M2-en Perzische kleeden ± 1.00 X 2.00 M.
+a fl. 48,—per stuk.
+
+GEBR. FORMA, Utrechtschcstr. 85. - Tel. 42940.
+JUIST ONTVANGEN DE
+NIEUWE MODELLEN
+VOOR
+HERFST EN WINTER
+VAN DE BEKENDE
+KNIPPATRONEN
+IN AMSTERDAM
+EN DEN HAAG
+UITSLUITEND
+BU ONS VERKRIJGBAAR
+PRIJZEN
+15 40 60
+HET MODEBLAD LA MODE DE PARIS"
+IS BIJ ONS VERKRIJGBAAR . . f 1.00
+^BIJENKORF
+a
+a
+a
+a
+ia
+[5]
+B
+[g]
+[H]
+G3
+a
+a
+a
+Onderlinge Levensverzekering
+
+Van Eigen Hulp
+
+'s~Gravenhage - Kortenaerkade 3
+BIJKANTOREN: Amsterdam, Keizersgracht 628; Rotterdam, Mauritsweg 18;
+Arnhem, Jansbuitensingel 23; Utrecht, Maliebaan 104;
+Groningen, Groote Markt 26, Batavia, Voorrij Zuid.
+Volkomen soliditeit door het onderling stelsel,
+de reserves en het zekerheidsfonds.
+Vraagt prospectus aan het Hoofdkantoor, de Bijkantoren of de Heercn Inspecteurs en Agenten
+m
+a
+a
+a
+0
+fnl
+[m
+E
+E
+E
+E
+E
+E
+ID
+
+</text>
+<image timestamp="2002:09:26:03:15:54.00" size="186624">D10007X8.TIF</image>
+</page>
+</document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011201</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1275
+DE AMSTERDAMMER WEEKBLAD VOOR N E D K SU, A NB
+De discussiën over de Indische begrooting in de Tweede Kamer.
+De Duitsche duizendkunstenaar. (Moomhine).
+i
+IXSULIÜDE : »Ik hoor het klapp'ren van den molen,
+Maar ach, waar blyft het meel ?''
+De vernedering van den Grooten Sultan. (Fisckietto).
+Reiger rei laafde lijn toehoorders door zijn grondiye kennis vin den feliet p
+(Dailij l'iper).
+WILHELM, TI R voxni-.Toi.vs (vrieY,-delijk) : «Wacht even tot ik dit oorlogschip klaar heb, dan
+zal ik je dadelijk helpen i''
+De nieuwe"gast. (ÜIK).
+Te Brandstichter. (Lnntige Bliittcr).
+i,!- Hi-M.-('ii.\M. : .(!)»-;« (i.i.l ! v. aai sim aiot.t ik n n i tv do hul Y"
+I-.'K.V i,n\i:i,: SJ8 moet 01 s Leipen. Wij kunnen alleen de diplomaten r,iet aan."
+• • -- .••.•!", i.iil.U- Ut: L. i;'rl-.''.l.t[;üll, di
+lci/n in i&gt;r&lt;T.i! 'üid gestoken en met zijn
+.ie in 1/iana r:;akte.
+pr, ann PPII vrouw! O! wsarom i» het gppn tntkin, dan zou ik
+ten minste de satitfjctie hebhen buar later aan de j aaJ ie zien!...
+_1 *Sv
+irt-s ^
+' «\V f ,
+/D'k
+»üoi:y soit qui mal y per.se" (nntir CCH tei-kciiitiy ivn 7.?(i/. /•. lintudtnndcr').
+
+</text>
+<image timestamp="2002:08:16:23:06:56.00" size="433598">D20015G.TIF</image>
+</page>
+</document>

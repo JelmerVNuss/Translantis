@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400330</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DER WERELD
+de Middellandsche Zee-kust te bezetten
+met de belangrijke haven Marseille. Op
+dat oogenblik zal Mussolini partij kiezen,
+maar niet voor de geallieerden, zooals
+zoovelen denken.
+(Pierre van Paassen in
+,,Liberty", New York)
+
+Een klein perikel
+De gouverneur van een afgelegen
+Britsche kolonie ontving in September
+j.l. een telegram van het Ministerie van
+Koloniën: De oorlog is verklaard,
+interneer onderdanen van den vijand."
+Zijn antwoord hierop was: We hebben
+vier Hollanders, zes Amerikanen, drie
+Brazilianen, vier Japanners, twaalf
+Chineezen, twee Guatamalanen, zes
+Duitschers, twee Belgen, zes Italianen, drie
+Russen, twee Yougoslaven, een Griek,
+twee Turken en drie Egyptenaren ge
+
+nterneerd. Wilt u ons laten weten, wie
+onderdanen van den vijand zijn ?"
+(Petit Parisien)
+
+Onze chaotische
+gemeenteindeeling
+De gemeenten van Nederland
+vertoonen een groote verscheidenheid naar
+oppervlakte en aantal inwoners. Tusschen
+Vollenhove (stad) met een oppervlakte
+van 1/1 km2 en Apeldoorn met een
+oppervlakte van 340 km2, tusschen
+Hemmen (Gld.) met 207 inwoners en
+Amsterdam met 793.526 inwoners, rang
+
+schikken zich de 1054 gemeenten in
+bonte volgorde. Opvallend is het groote
+aantal kleine gemeenten. 719 Gemeenten
+tellen minder dan 5000 inwoners; hier
+
+van hebben 350 nog geen 2000 inwoners,
+waaronder zich 28 lilliputgemeenten be
+
+vinden, welke de 500 inwoners niet halen.
+In de 719 gemeenten met minder dan
+5000 inwoners woont 18% der
+Nederlandsche bevolking tegen 28% in de 7
+steden met meer dan 100.000 inwoners.
+Door samenvoeging van gemeenten neemt
+het aantal gemeenten gestadig af. Het
+is gedaald van 1216 in 1840 tot 1054 in
+1939.
+(Statistische Sprokkelingen,
+Den Haag)
+
+Gevraagd: een rattenvanger van
+Hameln
+Dat er in Parijs, Lyon en Marseille
+altijd een rattenplaag geheerscht heeft,
+weet een ieder die in deze steden ge
+
+woond heeft. Maar . de Elzassers zijn
+zindelijke menschen. Nu zij weg zijn, is
+het- anders geworden. In de volledig ge
+
+vacueerde stad Straatsburg is de ratten
+
+plaag begonnen. In de gesloten bakke
+
+rijen en levensmiddelenzaken vindt men
+heden, en eveneens ook in andere huizen,
+honderden ratten, zoo groot als katten,
+die zich door niemand laten verdrijven.
+Maar volgens het reeds genoemde be
+
+richt zijn de ratten niet in Straatsburg
+gebleven, van honderden zijn het dui
+
+zenden, tienduizenden geworden. De
+85 steden in den Elzas, die geëvacueerd
+zijn, zijn door de ratten bezet. Alle schuil
+
+plaatsen en kazematten, alle kwartieren
+van de soldaten, maar ook de groote
+opslagplaatsen van de intendance, welke
+gevuld zijn met kleedingstukken, levens
+
+middelen en uitrustingen voor het leger,
+worden door de ratten op de vreeselijkste
+manier verwoest, 's Nachts verhinderen
+ze de soldaten te slapen. Ze knagen aan
+de schoenen, ransels, en dekens en
+loopen de soldaten gewoon over het ge
+
+zicht. Van een zak aardappelen die
+'s avonds in een kazemat werd gebracht,
+was den volgenden morgen niets meer
+over.
+(Matin, Parijs)
+
+Moderne kunst
+Een bezoekster van de
+Picasso-tentoonstelling in een museum, begon, toen
+ze voor een werk stond, getiteld: Zit
+
+tende Vrouwen", te lachen. Eindelijk
+vond ze haar houding terug en haar
+oogen afvegend vroeg zij den suppoost:
+Kunt u me misschien vertellen, waar
+de vrouw in dit schilderij is ? Waar is
+haar hoofd?" Het spijt me, mevrouw",
+antwoordde de man beleefd, maar we
+mogen geen enkele inlichting geven."
+(New Yorker)
+
+Zwijgen is goud
+Ieder bericht omtrent troepenver
+
+schuivingen, inkwartiering, veranderingen
+in de verloven, uitrusting van de
+industrie, verkeersverhoudingen, levens
+
+middelendistributie is van groot belang.
+Door deze van vele zijden komende
+mededeelingen samen te voegen en door
+een geschoolde combinatie kan de vijand
+gemakkelijk een bijna volledig beeld ver
+
+krijgen, dat hem mogelijk maakt militaire,
+economische en politieke beslissingen te
+weten te komen. De enkeling, die slechts
+n steentje tot dit voor ons gevaar
+
+lijke mozaïk bijgedragen heeft, is,
+wanneer hij, wat onwaarschijnlijk is,
+over zijn babbelachtigheid nadenkt, de
+lichtzinnige meening toegedaan, dat zijn
+bijdrage van geen belang is. Maar
+misschien heeft juist zijn verklaring het
+den vijand mogelijk gemaakt, den
+werkelijken samenhang te begrijpen. Wanneer
+ooit zwijgen goud beteekend heeft, dan
+is het nu tijdens den oorlog, waarbij het
+zijn of niet zijn van ons volk op het
+spel staat.
+(Münchener Neueste Nachtrichten)
+
+
+De Spree bevriest niet
+Het is dezen winter sterk opgevallen,
+dat de Spree binnen Berlijn niet be
+
+vroren is geweest. Men verklaart dit
+merkwaardige verschijnsel met het be
+
+grip Berlijnsche golfstroom", waaronder
+men het warme afvoerwater van de tal
+
+rijke industrieën, dat in de bedding van
+de Spree geleid wordt, verstaat. De
+hierdoor ontstane verwarming van het
+water heeft er ook ditmaal voor ge
+
+zorgd, dat de Spree, niettegenstaande
+den strengen vorst, niet bevroor. Nog
+raadselachtiger is, dat ook de Löckniss,
+een uit bronnen ontsprongen smalle
+rivier beoosten Berlijn, welks liefelijke
+boorden natuurreservaat zijn, niet
+bevroor. Ook in 1928/1929 bleef deze
+rivier ijsvrij, zoodat de opvatting ingang
+gevonden heeft, dat er ergens op den
+bodem van de Löckniss warme bronnen
+voorkomen. (Lokalanzeiger, Berlijn)
+HET HAASJE: ..Eindelijk een rustig plekje!'
+(Guerin Meschino, Milaan)
+CHURCHILL : Neville, wat doe je daar?"
+CHAMBERLAIN : Ik leer vast zwemmen
+voor mijn volgende reis naar Frankrijk."
+(Kladderadatsch, Berlijn)
+Ik heb de eer, U te benoemen tot
+EereBallon van de Rijks-Ballon-Versperring .'"
+(News Chronicle, Londen)
+Het is Göring n/ei.'.'
+(Sydney Bulletin)
+
+PAG. 9 DE GROENE No. 3278
+OP WOELIGE WATEREN
+(New York Journal)
+v,&lt;.°"
+««
+«
+15
+..u»-1"
+.rti"1"
+ALTIJD
+WELKOM!
+DROSTE
+BONBONS
+KUNT U DE DAGBLADEN
+NIET MEER BIJHOUDEN?
+LEES DAN
+/
+
+</text>
+<image timestamp="2002:09:13:03:27:11.00" size="214877">000007FS.TIF</image>
+</page>
+</document>

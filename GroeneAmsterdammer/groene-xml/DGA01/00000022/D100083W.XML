@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261113</Datum>
+<Pagina>25</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+6SJ. itTjjiïjg X,
+Een keur van vier werken op verschillend gebied
+uit de nieuwe uitgaven van
+VAN HOLKEMA &amp; WARENDORF'S UITG.-MIJ
+Amsterdam
+Oorspronkelijke Romans
+Vertaalde Romans
+TOP NAEFF
+
+LET JE OF DE WE O- NA&amp;R HET GELUK
+met omslag en bandteekening van Lizzy Ansingh
+In prachtband f4.50
+MARIE VAN BERGEN
+DE ZEE
+In prachtband f3.50
+J. P. ZOOMERS-VERMEER ^
+ALS HET LEVEN ONTLUIKT
+In prachtband f4.90
+G. VAN NES-UILKENS
+
+DUIKELAARTJE
+In prachtband f3.90
+DE
+ANNE PARRISH
+EEUWIGE VRIJGEZEL
+Vertaling van Jo van Ammers-Küller
+In prachtband f 3.75
+SINCLAIR LEWIS
+ARROWSMITH
+Vertaling van Arie Querido
+In prachtband f-5.90
+MARTIN ANDERSEN NEX0
+FELLE, DE VEROVERAAR
+Vertaling van Claudine Bienfait
+In prachtband (2 deelen) f 9.80
+PAMELA WYNNE
+BLANK EN BRUIN
+Vertaling van Chr. Moresco-Brants
+In prachtband f 2.50
+Jongens- en Meisjesboeken
+Kinderboeken
+TINE BRINKGREVE-WICHERINK
+DE MEIGLUB ONTBONDEN
+met platen van Netty Heyligefs
+In prachtband f2.90
+WILLY PETILLON
+B E D T IJ D
+met platen van Netty Heyligers
+In prachtband f 4.50
+J. P. ZOOMERS-VERMEER
+EEN KLEIN MEISJE ALLEEN
+met platen van Freddy Langeler
+In prachtband f 1.75
+ELSA BESKOW EN ANNA WARBURG
+VOOR ALTIJD BEZIGE KINDERHANDEN
+Voor Nederland bewerkt door S. E. Verrijn Stuart
+Gecartonneerd f 1.90
+TINE BRINKGREVE-WICHERINK
+ROEL UIT DEN WOONWAGEN
+met platen van W. Heskes
+In prachtband f2.50
+AGATHA
+VERTELLINGEN UIT DEN BIJBEL
+Herziene en nieuw geïllustreerde uitgave
+In prachtband f 2.50
+EMMY BENARD
+BAKVISGHJES LIEF EN LEED
+met platen van Freddy Langeler
+In prachtband f 1.75
+TANTE LIZE
+DE POPPEN-PRENTENBOEKEN
+MIEKE, LIESJE, TINEKE en ANNEKE
+Per stuk f 2.40
+Diversen
+Herdrukken
+HANNS GÜNTHER
+IN HET LAND DER DUIZEND WONDEREN
+Een boek over het menschelijk lichaam voor iedereen
+In prachtband f7.50
+H. VERSTIJNEN
+ONZE EVENDIEREN
+met bijschriften van Charivarius
+Gecartonneerd f2.50
+L. P. J. DE JAGER MEEZENBROEK VAN BEVERWIJK
+LEERBOEK VOOR HET KANTKLOSSEN
+met talrijke illustraties Gecartonneerd f2.50
+B. M. VAN DE GROENE
+BRIDGE
+Een handboek voor Royal-Auction en Contract-Bridge
+voor eerstbeginnenden en geoefenden
+In prachtband f2.90
+TOP NAEFF
+VOORBIJGANGERS
+Vierde druk In prachtband f 3.25
+HERMAN HEIJERMANS
+DROOMKONINKJE
+Negende druk In prachtband f 4.50
+M. M. STIEMENS-HOPMAN
+
+MEISJE
+Derde druk In prachtband f 2.90
+MARTIN ANDERSEN NEX0
+DITTE, EEN MENSCHENLEVEN
+Derde druk In prachtband f 3.90
+Deze boeken zijn in iederen boekhandel verkrijgbaar
+
+</text>
+<image timestamp="2002:09:26:09:06:39.00" size="103071">D100083W.TIF</image>
+</page>
+</document>

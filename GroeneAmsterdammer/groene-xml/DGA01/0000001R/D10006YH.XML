@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271029</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+29 October 192?
+rocnc Amsterdammer
+•lod •voor- Nederiond
+.
+-• A«*«»t«Hlf* ?«• M* f•••&gt;
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+TELEFOON 17»«4
+
+Kon* »»»m*r( 25 &lt;••!•
+ILINGH'S
+[dslnfiltrhek
+CENT.
+CSAURHzn.
+
+HOFLEVERANCIER
+
+ROKIN 134 overdeNed.B«nk
+
+Telefoon 40210, 49971
+Vischrestaurant
+
+en Vischhandel
+R ZURCHER
+"ONNAGEFABRIEKenDRUKKERIJ
+SGRACHT64~66-68~70~72,AMSTERDAM
+'ORMRAMPEN 1925-27
+
+Verzeker-Uwe eigendommen t
+Fabrieken» Woon- en Winkelhuizen,
+Inboedels en Goederen»
+!&amp;n Vraagt onze concurreerende tarieven*
+r/\\Tt* \*1\ A Gen- **%• **&amp;• »S^orm"
+
+MJN II n A. D. BEERENDS 8 VEEREN
+'. 29| nillloen Gulden.
+AMSTERDAM
+
+LBETJWABDEN.
+V.K055EM
+extra, tichte kwaliteit.
+L V. Meubelmagazijn EdenM
+MOLSTEEG - AMSTERDAM
+
+.OEKENKASTEN
+,SIE, CASPERS &amp; Co.
+erij Ameublementen Stoffeerderij
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+:ELGRACHT 13, Telefoon 37354
+HROONPUPEN
+VAN 6 STUKS
+T-1 (S
+A.HÏLLEN5
+DELFTSCHE POST
+3 KWALITKITEN:
+VORSTENLANOEN S CT
+OELI ZANDBUAO IO CT
+, HAVAr-JA	12 CT
+ONOVERTREFBAAR
+|TJMTUR|
+Nn.A.KLOÖSTERHUIS
+AMSTERDAM
+LES TEMPS NOUVEAUX"
+
+BRONZES
+BRANDBLUSSCHER
+
+.HOLLANDIA'
+SPANJAARD&amp;C2
+FABRIEK ESPAKIA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar 9 u de it
+ARNOLD HOUTSCHILT
+Singel 283
+Amsterdam
+PRUZEH VAMAF
+
+LET OP HAAM EH
+
+rABRIEKSME
+C U KENT TOCH ONZE O
+
+6LORIA KACHELS?
+Stocl's Woningbureau
+Bloemendaalscheweg No. 161
+
+BLOEMENDAAL
+Urn ».d. Handil: Joli.H.ï.d. Miidin, Amirthort
+DEGROENE AMSTERDAMMER
+
+Weekblad vojf Nederland
+
+kost slechts f 2.70 per kwartaal of
+
+0." per (aar bij vooruitbetaling
+MOBACO
+Bouw Speeldoozen
+Zeer leerrijk en onderhoudend Speelgoed
+
+" N. v. BOSCH, HONIG 0 CQ»
+DOMSTRAAT 6 - UTRECHT
+Te GRONINGEN verkrijgbaar bij:
+R. Eekhotf, O. Boterlngestraat 21
+Joh. Emmelot, Stoeldraalerstraat 3
+In INDIËverkrijgbaar bij:1
+Toko Onderling Belang, Soerabaya ,
+
+</text>
+<image timestamp="2002:09:21:23:58:26.00" size="254299">D10006YH.TIF</image>
+</page>
+</document>

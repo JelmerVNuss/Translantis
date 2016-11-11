@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18891117</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De aanstaande Zondagsrust van de Barbiers te Amsterdam.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 17 November 1889,
+Mèrr Bèrrrbicrr! ik ken loc'i y.on niet nèrr m'n
+nstènde!
+. . . . afwasschen?
+&gt;ja meneer 't spijt me, maar 't slaat daar juist
+12 uur en ons reglement. . . . !
+Na i" Januari 1890 /.ulier, de Amsterdamse.he Barhicrs na 12 uur niet meer scheren.
+
+</text>
+<image timestamp="2002:10:03:18:28:19.00" size="429255">00000BKE.TIF</image>
+</page>
+</document>

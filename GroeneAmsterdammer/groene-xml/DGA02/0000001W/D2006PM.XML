@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271231</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+31 December 4927
+"voor
+lammer
+Nededrlana
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+TBtBPOON J7M*
+£,•••« •••••r* SS ««»«•
+V R A A G T
+"~"~~ "•-•"'-'VAXt" '•'•'•"" ' ' '
+S
+ADVOCAAT
+A.VANHJSTERVELD
+AMSTERDAM
+i EXPORT.
+aSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Buk
+Telefoon «KMO. 49971
+Vischrcstaurant
+en Vischhandel
+A R ZÜRCfiER
+CARTONNAGEFABRIBKenDRUKKERlJ
+&gt;IÜ0IBRSGRA£HT64'66-68-70-72.AMSTERDAM
+POLIS
+INBOËDEL-AEN OPSTAL-POLIS)
+INBOEDELS in wocnh. 212°/oo pa.
+
+OPSTALLEN van 1V4°/oo
+&lt;Brand, Diefstal, Waterl. schade, Storm,
+Bagage, Verhuizing enz.)
+Vraagt prospectus
+19
+lÜNION'lGen.AgA'D' BEEKENDS 8 VEEREN
+Ao 1714
+AMSTBRDAM
+N. V. Meubelmagazijn Eden*'
+MOLSTEEG ~ AMSTERDAM
+
+BOEKENKASTEN
+VOOB BETEBE MEUBELEN
+
+ARNOLD HOUTSCHILT
+AMSTERDAM
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+tckfooa755
+HOTEL CENTRAL
+Café-Restaorant
+Telefoon 200
+GBBR. BADBMAKBR
+KARELI
+AUTO-BOOTEN
+LangSM.Snelh. ±20 K.M.
+Ruime Cockpit, 8—9 pers.
+Uit voorraad leverbaar
+Werf Nicólaas Witsen"
+STOEL-ALKMAAR
+iDerdtiberoemd
+AM5TEDDAM
+BRANDBLÜSSCHER
+l .HOLLANDIA'
+M SPANJAARD&amp;C2
+FABRIEK ESPANA
+
+UTRECHT
+CLASIE, CASPERS 6 Co.
+Behangerij Ameublementen Stoffeerderij
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+\ mm i
+ITIMTUR]
+Abonneert O op
+
+)e Groene Amsterdammer
+PA R A FEU
+N.V.DESPHIHX MAASTRICHT
+VERKOOP VOOR HAARLEM EN OMSTREKEN.
+
+VERKOOPHUISJ.RKARTHAUS.
+CSl».MARKT. -TBL..1O652. H A AR L. E M.
+
+</text>
+<image timestamp="2002:09:26:14:14:01.00" size="193976">D2006PM.TIF</image>
+</page>
+</document>

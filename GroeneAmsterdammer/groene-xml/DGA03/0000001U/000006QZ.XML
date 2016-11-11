@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280714</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De terugkeer van Venizelos
+BIJVOEGSEL van De Groene Amsterdammer" Weekblad voor Nederland van 14 Juli 1928
+Amst. Boek- en Steendr. v,h. Ellerman. Harms &amp; Co
+Odysseus spant den boog
+
+</text>
+<image timestamp="2002:09:04:22:12:02.00" size="218197">000006QZ.TIF</image>
+</page>
+</document>

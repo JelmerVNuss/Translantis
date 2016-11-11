@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321231</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+K»*2 Ir*' - *,; '"'•
+t» _,» P«f«.«,r «"H ' • , J, f,,
+in verkoop
+/«kortin
+nieuwste
+fe
+de.1933
+iP?^
+'rtiM- i *" *""** S *'**• •*• »*r^
+*i*f»i' *. «A! ''-i. '&lt;f*"
+AMSTERDAM
+NtëUWENDIJK 184 tegenover de Beurspassage
+- HOORN . LEEUWARDEN • 'SGRAVENHAGE - GRONINGEN - HILVERSUM
+.Oplossing probleem No. 344 van
+O. A. L- Buil. *)
+B. O. K»tlar
+40 bqvap. A'dun (Z.)
+8C0AJLKPBOBLBEM No. 345
+van, A- GTILAIEFF.
+
+1. Ta8—«4, Kc5—bö, 2. Dh2
+, 3. Db8xb4f.
+..... Kc5—b5, 2. Dh2—c7, Kb5 x
+a4, 3. Lg2—c6f, (2.. anders, 3. Ta4
+a5f .
+____ , Kc5—d4, 2. Dh2—f4tKd4
+d3, 3. Lg2—flf, (2.. Kd4—c5, 3.
+f4*b4f.
+l ..... , Pf 7—d6 (of elders) , 2. Dh.2
+e5+Kc5—bö, 3. De5—a5F.
+N
+KI. R. H.
+Sch.
+*) Het zwarte P opbl werd
+abusieniet op het diagram afgedrukt,
+
+Correspondentie-adres: Dr. A.' G.
+Olland, Burgemeesterpark 3, Drie
+
+bergen.
+probleem No. 347.
+4g-88, 26-81, 47-41, 41:32.
+g n
+
+Kd8, Dal, Th6, La2 en f2.
+Pd4 en. e7, pion c3.
+Zwart: Kc5, Dd3, Lb5, Pc8, piciii aö,
+Wit geeft mat in twee zetten.
+Oplossing in het eerstvolgende
+nummer.
+BRIDGEPROBLEEM 305.
+
+Ter eere van het Nieuwe j aar een zeer
+geraffineerd probleem.
+KI. R. H. Sch.
+Het bieden gaat aldus:
+Z: i in S.A.; W: 2 in Sch.; ST: 3 in KI
+O past; Z 3 in S.A.; allen passen.
+I: W: Sch'.h.; N: Sch.2; O: Sch. 5;
+Z: Sch.6.
+II: W: Sch.v.; N: Sch.3; O: Sch.8; Z:
+Sch.a.
+III: Z: Kl.a.; W: Kl.b.; N: Kl.s; O:K1.4.
+IV: Z: ?
+Hoe moet Z spelen om zoo groot
+mogelijk kans op succes te hebben ?
+*»n(ï*: 28:40,
+, 46:28,
+OPLOSSING BRIDGEPROBLEEM 304
+
+N kaa alle kleuren verdragen. Hij doet
+dus het beste de keuze aan Z uiteindelijk
+over te laten. N biedt ergo 4 in S.A.,
+waardoor Z gedwongen wordt te kiezen.
+B. M
+
+Correspondentie-adres: Secretariai.
+v/d Amsterdammer, motto Bridge",
+Keizersgracht 356. Amsterdam.
+
+</text>
+<image timestamp="2002:09:27:17:42:26.00" size="578968">00000AVZ.TIF</image>
+</page>
+</document>

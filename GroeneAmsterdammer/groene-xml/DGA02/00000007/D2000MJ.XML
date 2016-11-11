@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000923</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 8J September 1900.
+Chamberlain na den moord
+LADY MACBETH—CHAMBERLAIN: Hier is de lucht van het bloed nog; al het reuk-goed van Arabiëzal niet welriekend
+maken deze kleine hand .... O....O....O....!
+DOKTER—SALISBURY: Welk een zucht ging daar! Het hart is zwaar beladen.
+HOFDAME—VICTORIA : Ik zou zoo'n hart niet in mijn boezem willen hebben, om al de waardigheid van het heele lichaam niet.
+SHAKESPEARE'S MACBETH.
+Vertaling Jac. van Looy.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:15:01:55:09.00" size="130566">D2000MJ.TIF</image>
+</page>
+</document>

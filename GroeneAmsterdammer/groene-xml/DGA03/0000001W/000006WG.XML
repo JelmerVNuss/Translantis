@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280908</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ALLE NOTEERINGEN ZIJN INCLUSIEF ILESCH OF KRUIK !
+R
+i!
+^ R R
+0)
+£
+
+tr
+(O
+&amp;o
+l
+
+"
+o
+a
+s&gt;
+-s=
+«a
+SC
+•&lt;£,
+
+^C
+: '«
+S&gt; Q
+&amp;O.S&gt;
+^&gt;
+l
+t
+•s^ ;^
+'|i&amp;
+c^^oS
+o
+o» .
+CO
+
+•S
+^^ u
+•n ^
+^^ ^
+k 4»
+«5
+c S
+" «
+c
+«2
+s
+3
+s
+3
+l—£5
+« *J
+nO c »
+W £"-5
+o» ^-s
+o&gt; -s
+
+2 1 =
+&lt;U X
+o •&amp;
+en H
+O -H
+
+
+Jl
+(K&gt;
+1,5
+
+
+^
+(U
+
+U
+«
+Wl
+o o
+00
+M
+W
+W
+Q
+
+co •
+
+?•
+
+
+:
+00
+00
+W '
+M .
+(4
+H '
+wb^
+O^
+o»
+w
+N
+'S
+«gOH
+wgld
+ggg
+^OQ
+W
+- o
+CO
+W*
+^J
+W &amp;
+O o
+
+M
+Q
+P3
+O
+
+&amp;
+M
+M
+N
+a»
+a»
+TS
+o
+c £
+g n
+c »
+11
+c 5
+C
+v
+
+G C
+O» C3
+h &lt;s
+OS ,jQ
+"
+S
+03
+o
+c
+•a
+&gt; v
+0
+C
+S
+IH
+flj 1—&lt;
+S
+T3
+
+O
+N
+V
+tüO
+CJ
+f-.
+rt
+
+^
+
+03
+rt
+o
+o
+o
+c/2
+
+=5*
+PM
+
+
+
+•
+O
+O
+
+</text>
+<image timestamp="2002:09:05:05:53:18.00" size="68575">000006WG.TIF</image>
+</page>
+</document>

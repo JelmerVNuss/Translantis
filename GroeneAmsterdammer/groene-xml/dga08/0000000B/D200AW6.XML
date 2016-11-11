@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340512</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bmck bevestigt opnieuw zijn ^o-jarige
+reputatie met een massalen 1934 8-in lijn, een
+wonder van rij- en bestuurderscomfort.
+Voorname distinctie in modernen stijl;
+de 1934 Buick Coup
+De nieuwe Buick met
+aslooze voorwielophanging . . .
+L) iCK dankt zijn eerste plaats onder de voorname
+•'-'merken aan het feit, dat zijn constructeurs
+gedurende 30 jaar zich strikt gehouden hebben
+aan het volgende principe n.l. : Vooruitstrevende
+techniek en modernen stijl, doch nooit iets op de
+markt brengen wat niet door en door beproefd is.
+zooals we dat aan de reputatie van Buick ver
+
+plicht zijn.
+Wagenmoeheid behoort nu vrijwel tot de geschie
+
+denis, dank zij een zeer bijzondere wijze van
+veering, welke in de 1934-Buick werd toegepast
+door middel van een aslooze voorwielophanging,
+waarbij voor de veering schroef- inplaats van
+bladveeren werden gebezigd en het inbouwen van
+een stabilisator in de achterwielveering.
+Het daardoor bereikte ongelooflijke comfort werd
+nog verhoogd door het gebruik van vacuüm
+servoremmen, syncro-mesh gangwissel alle versnellingen
+geruischloos en een krachtiger (en toch bedrij
+fszuiniger) motor.
+... ts leverbaar in verscheidene door
+
+FISHER ontworpen modellen
+
+1P\E 1934-Buick maakt door zijn modern
+stroomlijn•'—'effect een bijzonder gedistingeerd eleganten indruk.
+Alle carrosserieën werden door Fisher gebouwd, de
+voornaamste koetswerkbouwers ter wereld.
+De 1934-modellen werden over drie series van ver
+
+schillende wielbasis verdeeld met een groote verschei
+
+denheid van modellen.
+Allen hebben ruimere interieurs, voorzien van veilig
+
+heidsglas rondom. De gesloten modellen zijn allen
+uitgerust met het verbeterde Fisher tochtvrije venti
+
+latiesysteem en voorzien van de noodige bedrading
+voor radio ontvangst.
+Laat Uw naastbijzijnden dealer U dat alles
+demonstreeren.
+Ga bij die gelegenheid dan zelf ook eens achter het
+stuur zitten, dan eerst zult U weten wat rij- en be
+
+stuurderscomfort zeggen wil !
+
+General Motors Continental S. A.
+Laat hem U ook eens inlichtingen
+geven betreffende de gemakkelijke be
+
+talingsvoorwaarden der G. M. A. C.
+De stevige constructie der aslooze voorwielophanging
+Officieele Vertegenwoordigers
+N. V. R.I.V.A. GARAGE
+Tel. 82525
+Overtoom, 197
+AMSTERDAM
+l'-.
+
+</text>
+<image timestamp="2002:10:28:12:59:59.00" size="204508">D200AW6.TIF</image>
+</page>
+</document>

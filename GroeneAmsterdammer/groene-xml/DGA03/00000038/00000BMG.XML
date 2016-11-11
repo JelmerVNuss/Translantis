@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+7ïf?r
+16
+*• • ' ' BERTA. ' • j,
+Een maand?
+D'ALMONS.
+•f twee maanden, dat hangt van den val af ....
+En, mevrouw, mag ik U dan nog verzoeken, een chirurgijn te laten
+halen, (ffy doet alsef hy uit't venster wil springen). ,
+, BERTA.
+Neea, neen, doet U 't das maar niet.
+** b'ALBINOS.
+Nu is't te laat, mevrouw, ik heb mijn woord gegeven. InVaucluse
+breekt men zijfi woord nimmer. (Dezelfde ieweging).^*
+, BESTA (houdt hem aan zijn jas vast).
+Neen,, ik wil het niet hebben, ik wil het niet hebben.
+D'ALBÏNOS.
+Mevrouw, al kwam U» in uw bruidskleed, mij op uw knieën srneeken
+ik zou JKjn woord niet breken, Gaat U nu maar die blauwe kamer
+in orde maken. Hoogstens voor een paar maanden, (hetzelfde spel).
+BERTHA, (buiten zich zelf van angst.)
+Wacht, wacht, ingeef u uw -Jftord terug. .. "
+mevrouw. Alteen voor mijn vrouw zou ik mijn woord
+wBlen brek&lt;». U heeft mij geweigerd dus . . . ., Adieu mevrouw tot
+straks in de blauwe kamer. (Alt voren^ '
+^ BERTA, (tórzJKfc.) Ut
+Ik ben overwonnen.
+(Luid). Welnu, mijnheer, als 't dan niet anders Kan.
+D'ALBÏNOS, (komt terug in de kamer.) • , •
+Dus U stemt toe. Godjpnk. • 4
+Stem (buiten de deur..) • "
+Mevrouw de kat heeft de muis gevangen.
+• Zool Nu hier is ook iemand in den val geloopen.
+p'ALBINoS, '(haar arm nemende^
+' En w«t zal nu t bruidsgeschenk zijn?
+..«*.. • BERTA.
+vjh de eerste plaats natuurlijk een muizeiival. _
+'t Sf farm valt, &lt;
+
+</text>
+<image timestamp="2002:10:03:23:07:14.00" size="62157">00000BMG.TIF</image>
+</page>
+</document>

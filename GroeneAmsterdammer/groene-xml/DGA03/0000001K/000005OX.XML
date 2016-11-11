@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250606</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2504
+J. D. STRÜT JS «&amp; Zn.
+Prinsengracht 837 P. G. Hooftstraat 140
+TEL. 37906 TEL. 29950
+
+Begrafenissen - Crematie - Transporten
+NllllimilllHtlHIHIMIMIIIIIIHIIIIIIII
+
+Zwitserland
+11 Zee
+Moderne Kuurplaats in het Berner-Oberland
+
+GRAND HOTEL ALPINA
+
+1ste Rangs Fam. Hotel, het mooist in deze streek gelegen. Schitterend
+uitzicht op het Oletschergebied van Wildhorn, Oldenhorn, Diablerets.
+Centrum voor excursies. Tuin, Bosschen, Tennis. Pension vanaf f r. 12. .
+
+Prosp. door den Eigenaar en Leider E. BURRI—JAGQI.
+an
+WHITE&amp;GOLD
+SCOTCH WHISK1ES
+45
+fSoU
+VAN BEUNINCENSTRAAT 5O
+OEN MAAG TEL. 52681
+4S°!
+
+
+
+A
+BEGRAFENISVEREENIGINGl
+N. SAX Jr.
+, P.C. Hooftstraat 38 AMSTERDAM Telel.: 20341, 24250 l
+REGELING VAN BEGRAFENISSEN EN
+
+l CREMATIES VAN UIT ALLE PLAATSEN
+l EI G EN LIJKKOETSAUTOMOBIELEN l
+
+ASPERGES
+, dik, blank, frisch, franco
+BAD BERTRICH
+RIJNLAND - AUTOVERBINDING MET STATION BULLAY . 'fe
+ZELFDE INDICATIES ALS KARLSBAD Slierasperges 25 % meer, engt
+Prosp. d.d. Badeverwaltung alsmede d/h Int.Verk.Bur.Amst. en Den Haag stenhsatle 75 &lt;&gt; juiste glasmaat,
+' Firma ISIDORUS,
+
+
+"9BAD HARZBURG BODE'S HOTEL
+Alle kamers met stroomend koud en warm water.
+Keurige appartementen met privébad. Centrale verwarming.
+Pension Mk. 9.—12.50. Tel. 26 en 28 Eig. GEBR. BODE.
+
+WiraAIM Hotel Englischer-Hess. Hof
+II ILkJUHl/Lll stroomend water. Kam. m. bad.Pens.vanaf Mk. 9.
+WIESBADEH Hotel Reichspost,On
+Nicolasstr. 16—18 Kamers met str. water. Pension v. 8—10 Mk.
+LI. lEFomr
+Dir. E. Boerma
+G80RIRGER AMSTERDAM
+Hetrettr. 8 RokinlO
+Dames- en
+HeerenKleedermakerij.
+,Coupeun door dat gehioli
+land te ontbieden".
+ADR1AAN SCBAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Blaat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar ~~~"~"~"~~~~
+N. R. V. nOMTA SCHOENEN
+ik
+DROSTE'S
+BONBONS
+PASTILLES
+
+
+^kwaüfei
+QÜiicL vteütcm
+NIET ALLEEN onze Mayonnaise-Bickles brengen de fijnproevers in
+verrukking; nog een ander nieuw artikel maakt thans grooten opgang,
+
+nl. onze Kerse -Limonadesiroop. LIEVEGOED's KERSEN
+
+
+LIMONADE wordt DE HEERLIJKE, VERFRISSCHENDE,
+NIEUWE ZOMERDRANK VAN 1925.
+BESTELT TIJDIG BIJ UW LEVERANCIER.
+
+N.V. DE HOUTTUINEN" AMSTERDAM
+Kleedermakerij naar Maat •?£*
+
+H. K E M IV E B
+voorheen Coupeiir der Flrme P. M. BROEKMANS, Konlngspleln, Amtterdin.
+BILDERDIJKPARK O b/d. de Clercqstr. Telefoon No. 2Q891
+Colbert Costuums van af .... r «s.—Modarna eouna
+Demi Saison van af	50.—monarnB COUpB.
+Manteicostuums van af	, es.—Prima afwerking.
+Stalen op aanvraag.
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+
+specialiteit in.SUAPUMERMEUBELEII, MATRASSEN, DEKENS
+STOOMBOOT Mij. DE VOLHARDING"
+
+OPGERICHT 1852
+
+Passagiers- en Goederendiensten tusschen
+AMSTERDAM -AALSMEER - GOUDA - LEIDEN -.BOSKOOP - ZAANDAM
+
+Watertochtjes:
+
+AMSTERDAM T KALFJE OUDERKERK UITHOORN
+AMSTERDAM VLIEGVELD SCHIPHOL AALSMEER
+
+Salonbooten te Huur voor Extra Reizen
+
+Te bevragen a [h Hoofdkantoor te Leiden
+B. 9. KHJLDERS
+TCINAftCHlTECT
+Badhuisweg 201 Den Haag—Schevenlngen
+Telefoon SOBIO
+
+</text>
+<image timestamp="2002:09:03:12:46:47.00" size="140661">000005OX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19291228</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+• *
+toiuo
+N. V MAURJT2 AZUNMAN. S-BOSCH
+N.V. AMSTERDAMSCHE BOEK- EN ITEENDRUKKERIJ V/h ELLERMAN, HARMS &amp; Co
+•:.••'*
+
+</text>
+<image timestamp="2002:10:26:06:38:23.00" size="450949">D200A4O.TIF</image>
+</page>
+</document>

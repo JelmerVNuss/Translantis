@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250110</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+24
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2483
+SGHAAKPROBLEEM 4
+van V. MAR IN te Barcelona
+(Deutsche Schachzeitung).
+f
+g
+Wit: Kh3, Dc3, Tb5, Pd4 en e7, pionnen :c4,
+cG, f2, f7 en g5.
+Zwart: Ke5, Tf8, Lc5 en c8, pionnen: c7, d7,
+e6 g6 en h7.
+Wit g eft mat in drk- zetten.
+Oplossing in het eerstvolgend nummer.
+
+Oplossing Probleem No. 3 van H. Wecnink:
+1. Pd3-f4.
+Correspondentieadres: Dr. A. O. Olland, A. R.
+Falckstraat 5, Utrecht.
+DAMPROBLEEM 4
+A. A. POLMAN, ALMELO
+
+Zwart 10 schijven
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit 10 ichijven
+Stand Zwart: 4, 7/9, 12, 19, 24, 29, 30, 30.
+Wit: 21, 22, 27, 28, 37, 38, 39, 40, 43, 47.
+Oplossing probleem 110. 3: Wit 4741, 4238,
+49 44, 38 32, 48 42, 36-31, 23: 12, 31 : 2, 2: 15!
+Correspondentieadres: K- C. de Jonge, Van
+Woustraat H2n, Amsterdam.
+
+
+BRIDGEPROBLEEM 4.
+V(oorhand)
+(Spelprobleem)
+B(linde)
+KI.
+8.
+r.
+
+
+
+R.
+7.
+4.
+
+
+
+1 1.
+b.
+10.
+K.
+5.
+3.
+Keil.
+v.
+7.
+4.
+2,
+
+L(eider)
+KI.
+h.
+v.
+4.
+R.
+a.
+h.
+5.
+H.
+a.
+h.
+v.
+S c h.
+h.
+10.
+
+A(chterhand)
+Royal-Auction Bridge (G een Contract-Bridge). Stand:
+Beide partijen schoon.
+Het bieden gaat aldus: L: l in S.A.; V: 2 in Sch.;
+B en A. passen. L 2 in S.A ; V, B en A passen.
+V komt uit met Sch. 5, B Sch. 2, A Sch. 9.
+Hoe moet L spelen, om zooveel mogelijk kans op zoo
+groot mogelijk succes te hebben?
+OPLOSSING BRIDGEPROBLEEM III
+I: V komt uit met Sch. 2. A gooit H 8 bij. Doet A
+dit niet, dan is het spel voor V en A verloren. Zie
+beneden.
+Stel B komt in II met KI. 4 na dan verloopt
+het spel:
+Ma: B: KL 4; A: KL 2; L: KL b.; V KI. S.
+Nu is mogelijk:
+lila'):
+IV»'):
+Vu'):
+Vla'):
+Vila'):
+Villa1):
+L
+L
+B
+B
+B
+A
+: H
+: II.
+: H.
+: KL
+: KL
+: KI
+. v.
+9;
+b.;
+10
+4;
+. v
+; v'
+v
+A
+; A
+A:
+. ;
+: H.
+: H.
+: R.
+: KL
+KI.
+
+7,
+6;
+h.;
+3;
+7 ;
+
+B:
+B:
+L:
+L:
+L:
+
+H.
+H.
+R.
+R.
+R.
+
+5 ;
+10;
+8;
+10;
+v. ;
+
+A:
+A:
+V:
+V:
+V:
+
+K. 5
+R. C,
+R. 3.
+KL 5.
+R. 4.
+
+N.B. Gooide V in Hu KI. 8 niet weg maar KI. 5, dan
+kon B in den vijfden slag KI. 4 naspelen. A mag de vrouw
+niet nemen. Neemt hij met de 7, dan komt V met de 8
+aan slag, die dan R. na moet spelen.
+Stel in III komt L inplaats van met H. v. met H. 9; dan
+krijgen we:
+lila2): L: H. 9; V: H. 7; B: H. 10; A: KI 3.
+IVa2): B: KI. 10; A: KI. v,; L: R 8; V: KI. 5.
+Va'): A: R. 5. L: R. 10; V: R 3; B; H. b.
+A maakt nu behalve zijn KI. v. altijd nog R. h.
+Stel B komt in II niet met KI. maar met H.; dan krij
+
+gen we:
+lift.: B: H. 10; A: R. 5.; L: H. v.; V: H. 6.
+Speelt L nu H. 9 na, (dien B moet nemen), dan gooit A
+nogmaals R weg; speelt B dan KI., dan neemt A direct
+de v. (V gooit dan de » niet bij), en speelt KI. na. KI. 7
+wordt dan de tweede slag. Speelt L eerst K', b. en dan
+pas H. 9. dan loopt de zaak precies verder als in IVu1).
+Onjuiste oplossingen:
+Waarom is het noodzakelijk, dat A in I H. 8 weggooit?
+Hij moet de keus hebben, tusschen KI. en R. in de tweede
+slag. Gooit hij in I al iets weg, dan heeft B. de keus. Stel
+A gooit in I KL 2 weg, dan speelt B:
+II: B: KI. 4; A: KI. 3; L: KI. b.; V: KI. 5.
+III: L: H. v.; V: H. 6; B: H. 5; A: H. 8
+IV: L: H. 9; V: H. 7; B: H. 10; A: KI. 7
+V: B: H. b.; A?
+Gooit A KI. v. weg, dan worden de KI. van B vrij, gooit
+A R. 5 weg, dan speelt B. KI. na, en moet A van zijn R. h.
+tweede komen.
+Gooit A in I R. 5 weg, dan gaat het spel als volgt.
+II. als in Ila.
+III: L: H. 9; V: H. 6; B: H. 10; A: H. 8.
+IV: B: KI. 10; A?
+Neemt A, dan moet hij of van zijn Heer tweede van R.
+spelen, of van zijn 7 en 3 van KL, waarvan B nog de 6 en 9
+heeft. Hij maakt dus in dat geval geen slag meer.
+Neemt A niet, dan gooit L. M. v. weg, V moet nog KI.
+bekennen. B. speelt dan H. 5 na, die V moet nemen met
+de 6. V moet dan R. naspelen en daar A nog maar hier
+tweede van R. heeft, maken A en V geen slag meer.
+B. M.
+Correspondentie ond r Motto Bridge" naar
+het secretariaat van ,,de Amsterdammer", Kei
+
+zersgracht 333, Amsterdam.
+PEDANTE PIET JE'S
+PAEDAGOGISCHE PEINZINGEN
+(13 jaar)
+(Ongecorrigeerd) (Niew-neederlans)
+XXXV.
+
+Mtt de trijn is Pietje van Dïhaag naar Amster
+
+dam teruggetrijn. Vanzellefs is Pietje toen lans
+Lijje gereede. En dattis teegeswoordug maar zoon
+raare stad. Uit de trein kijk je eers naar n ruize
+huis dat leeg staat met nog n heeleboel andere
+eeve ruize gebouwe die allemaal ook leeg stanc.
+Dr staat geen borredje bij wat datte voor leege
+gebouwe benne. Maar de mense in de koepee zijje
+onder mekaar: Daar staat nou dat Lijse
+rijksziekehuis !" en n ander wat n grapjas was zee:
+,,Ze moste liever zegge n ziek rijkeluishuis," en
+weer n derde passaasjier, die de grappugste wou
+weeze zee: In Lei je is t met alles lijje" (let op de
+ortoogravie want daar steek de grappughijt in !)
+Toen hét Pietje gehoor dat datte n niew ziekehuis
+was en dat de rijksbouwmeester zig zoo vertel hét
+dat dr geen geld meer oover is om dr zieke te
+verpleege. Nou dag Pietje bij zn ijge dan moste ze die
+leege gebouwe maar beschikbaar stelle voor de
+leede van de Indooneesiese Vereeniging." Want
+die bestaat nou 5 jaar en beklaag zig dat zn leede
+door de Neederlanse regeering onregtmaatug
+worde behandel. Want ze studeere in Lijje op
+regeeringskoste maar keere laater met de keetenen
+der Slaavernij naar Insuulinde terrug. Net as in n
+bioskoopdraama. Ter eere van hun 5 jaarig
+juubieleejum hebbe ze dat allemaal in hun
+feestgedenkboek opgeschreeve. En nou is naatuurluk
+Leijje weer in last. Want t zijn de Lijdse professors
+die die indiese jonges zoo mesjogge hebben gemaak.
+Bij ons op de amsterdamse handelschool hebbe we
+ook van die katjans. Maas as die wat al te erreg
+met hun r" brouwe zegge we teege ze: Doe nou
+niet zoo onhollans en stel je niet as n angebrande
+liplap an !" En dat hellep altijt. Boovendien zijn t
+de geschikste jonges die je kon bedenke. En
+Pietje hou meer van sommige van zn bruine
+broeders dan van sommige van zn blanke broeders.
+Maar ze motte daar in Lijje nou geen islammetje
+gaan speele en feestartiekels bij hun 5 jaarig
+bestaan gaan pleege dat de hollanders dr in Indieje
+moete worde uitgesmeete. Pietje zou de vraag wille
+stelle wat dr met die 5 jaarige indoneesiese bruine
+broeders mos gebeure as wij eeve heetbloederig
+waare uitgevalle en met zn alle onze Javaanse
+broeders die hier gasvrijhijt geniete uit Holland
+smeete? Daarom stel Pietje voor om die indiese
+katjans n vleugel van t leegstaande niewe
+ziekehuis af te staan en daar n kampong in te rigte
+om hun krijgsdans te danse. Intusse bestaat de
+Lijdse hoogeschool al 350 jaar en de veelbeproefde
+stad Lijje is wel erger te boove gekomme dan zoon
+indies relletje van rijst-eeters die geen lijdse
+huspot luste op de hijlige derde oktoober toen wij de
+spanjoole uit de lijdse buurt joege. Daarom denk
+Pietje zoo dat die Indiaane ons voorbeeld wille
+Tcckcning voor de Amsterdammer" door
+Wybo Meyer
+/VsX/GiROOTE
+UITVINDER- OCR- 5TENOORAFIE;.üCDOTE • • ^=
+die dezer dagen een merkwaardig jubileum vierde: het
+vijfentwintigjarig bestaan van het door hem ontworpen
+kortschrift, bekend onder het stelsel Groote"
+
+vollege en eers de hollanders dr uit wille jaage.
+Om dan tereere daarvan n historiese rijsttaafel te
+stigte. Maar wie zig dr gelukkig niks van antrek
+is onze geëerbiedigde majestijt de Koningin, hoera.
+Want die heef op n tullegram van de Lijdse
+rektormanjeviekus (Pietje weet niet of tie t precies
+zoo goed schrijf?) terrug geschreeve dat ze door dr
+voorzaate nog altijd genog voor de lijdse pcujeraars
+voel om t eere doktoraat in de regsgeleerhijt te
+aanvaarde. En zoo zul je straks zic-n as onze geëer
+
+biedigde majesteit, hoera, naar Lijje gaat om ont
+
+groend te worde en metteen te proomooveere,
+dat ze net as n gewoone advekaat voor dr
+doorlugtige naam gaat schrijve: Mr. Willemien, of Dr.
+Oranjenassau. Met dat al is en blijf Lijje tog maar
+n raare stad in ons vaaderland en Pietje kan zig bes
+begrijpe dat we in Amsterdam an een van onze
+plijne dat geen plijn is en an een van onze
+stedelukke bosse dat geen bos is de naam hebbe gegeeve
+van Lijdse Plijn en Lijdse Bosje en heele boterham
+met niet-lijdse kaas n 1/2 lijdse noeme.
+PIETJE
+
+INHOUD: 1. Robbers' boekje over litteraire
+smaak", door Prof. Dr. G. W. Kernkamp
+2. Tijdgenooten, door Dr. W. . C. Byvatick
+3. Engelsch- Nederlandsche betrekkingen, door
+Prof. Dr. H. Brugmans De KeUlsche zone blijft
+bezet, teekening door Joh. Braakensiek ~-~ 4. De
+visscherij op de Noord-en Zuiderzee, door J.
+Oderwald 5. Belastingverlaging, door Mr. G. H.
+Arnhardt Jr. Het vlammend zwaard, teekening door
+Jordaan (i. Uit de wijsgeerige beweging, d. Dr.
+S. A. v. Lunteren Spreekzaal. 7. Uit de natuur,
+door Dr. Jac. P. Thijsse 8. Bijkomstigheden,
+door Annie Salomons 9. Prijsvraag voor
+monumentale lantaarns, door Otto van Tussen
+
+broek Nieuwjaarswensch, teekening door P. P.
+Koster 11. Voor Vrouwen, red. Elis. M. Rogge
+12. Berlage's Indische reisschetsen, door T. B.
+Roorda 13. Muziek in de hoofdstad, door C.
+van Wessem 15. Dram. Kroniek, door Top Naeff
+Nieuwjaarswensch, teekening door B. van
+Vlijmen 17. Boekbespreking, door Prof. Dr. J.
+Prinsen JLzn. Storm, teekening door Oeorge van
+Raemdonck 19. Financiën, door Paul Sabel
+Dierstudie, teekening door H. Verstijnen 20.
+Uit het Kladschrift van Jantje Ruize-Rijm,
+door Charivarius. 21. Oplossing prijsvraag de
+Tafelrede" uit het Kerstnummer 22. Charivaria,
+door Charivarius Telefoontje, door Cel 2.
+Tooneelteekeningen, door B. van Vlijmen 23.
+Feuilleton: Het wassende water, door Hermande
+Man 24. Pietje's paedagogische peinzingen
+Schaak-, Dam-, en Bridgeprobleem A. W.
+Groote, teekening door Wybo Meyer.
+Bijvo gsel: Mussolini redivivus, teekening door
+Joh. Braakensiek.
+Aan weJk boek geeft Gij de voorkeur?
+Typ. Amst. Boek- en Steendrukkerij, voorheen llerman, Harms A Co.
+
+</text>
+<image timestamp="2002:09:03:00:06:24.00" size="231918">0000059D.TIF</image>
+</page>
+</document>

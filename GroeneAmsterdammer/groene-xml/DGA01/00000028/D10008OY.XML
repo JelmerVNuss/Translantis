@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330722</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+v •
+Si "
+15 Mei 1933
+Herhaaldelijk gaan er stemmen op - uit mijn eigen organisatie, zoowel als
+van and-eren - dat ik mijzelf benadeel door kwaliteit te leveren.
+Bevriende' critici "protesteeren ertegen, dat wij bij de vervaardiging van
+den Ford V-8 staalsoorten gebruiken, die twintig jaar kunnen medegaan. Men
+is van meening, dat een dergelijke qualiteit overbodig is - het publiek vraagt
+haar ni^t en- trouwens, het publiek weet het verschil toch niet,
+Maar ik weet wél wat voor verschil dit maakt,
+Ik weet, dat er verschil is tusschen den wagen dien men ZIET" en den
+wagen dien men koopt en gebruikt - men koopt en gebruikt den wagen, dien de
+ingenieur ziet. De wagen, welken men bekijkt, vereenigt in zich schoonheid
+van lijn en kleur, en heeft een aantrekkelijke sorteering van accessoires - alle
+^eer zeker wenschelijk. Het beste bewijs, dat wij het hiermede eens zijn, is in
+Liet feit gelegen, dat U al deze eigenschappen aantreft bij den Ford V-8.
+Maar deze details vormen niet den wagen. De wagen ,,ZELF", welke de basis
+is van alles, berust op de keuze van het type van motor, op zijn betrouwbaar
+
+heid, op het feit dat de bouw van het chassis en van de carrosserie robust
+en duurzaam is en op den hoogen graad van weldoordachte veiligheid. Hierbij
+komen nog de onophoudelijke ontwikkeling van het comfort, het gemak dat de
+wagen den gebruiker geeft en de economie. Deze eigenschappen vormen den wagen.
+Men kan een wagen bouwen, die slechts twee of drie jaar meegaat. Maar
+dit hebben wij nimmer gedaan. Wij staan erop, dat het materiaal van den wagen
+even betrouwbaar zal zijn op den dag, waarop hij wordt weggedaan, als op den dag,
+waarop hij nieuw wordt aangeschaft,
+Ford-wagens, die wij 15 jaar geleden gebouwd hebben, rijden nog dagelijks
+op den weg. Het kost mér om een duurzamen wagen te bouwen - maar er zijn nu
+eenmaal twee posten waarop wij niet bezuinigen - dat zijn kostprijs en verant
+
+woordelijkheid voor ons product. Men zou met zeer veel dingen de hand kunnen
+lichten" - het publiek zou 't niet opmerken - maar wij zouden het zelf wel weten.
+De nieuwe Luxe V-8 is een wagen, welken ik zonder eenige aarzeling aan
+
+beveel. Ik weet hoe hij gebouwd is. Ik heb het volste vertrouwen erin, steunende
+op onze dertigjarige ervaring. Hij is zelfs nog beter dan onze Standaard V-8.
+Hij is grooter,. sterker en technisch nog beter.
+Ik verklaar dit in een advertentie, omdat ik weet, dat de wagen al mijn
+beweringen, zonder voorbehoud, zal staven.
+Deze brief van Henry Ford geeft zoo helder en overtuigend uitdrukking aan
+de fundamenteele principes, ten grondslag liggende aan het ontwerp van de
+Ford Automobiel, dat wij hem hier in vertaling hebben doen afdrukken.
+N. V. NEDERLANDSCHE FORD AUTOMOBIEL F ABRIEK, AMSTERDAM
+
+;*
+</text>
+<image timestamp="2002:09:27:05:35:22.00" size="223087">D10008OY.TIF</image>
+</page>
+</document>

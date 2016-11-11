@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320507</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 7 Mei 1932
+N o. 2866
+Zwevend tusschen twee polen
+door Albert Heiman
+Walzel's Literaire aesthetiek
+De wetenschappelijke systematische pogingen
+om een zoo relativistisch mogelijke en daarom zoo
+objectief mogelijke literatuur-aesthetiek te grond
+
+vesten, dateeren van de laatste jaren, van de
+naoorlogsche tijd. En een der verdienstelijke mannen
+bij het zoeken naar deze nieuwe aesthetiek is
+Oskar Walzel, tegenwoordig ordinarius aan de
+universiteit van Bonn, die zijn vele literatuur
+
+wetenschappelijke werken bekroond heeft met een
+monumentaal boek, getiteld Gehalt und Gestalt
+im Kunstwerk der Dichters" 1). Daarin doet hij
+met de voorkennis dat er in de wereld der kunst
+een niveau is waarop de wetenschap niet meer tot
+deducties en conclusies kan komen, een eerlijke
+poging om de verschillende mogelijkheden en
+methoden van litteraire waardebepaling zoo nauw
+
+keurig mogelijk van elkander te onderscheiden en
+te begrenzen.
+Hij heeft daartoe wijze lessen en opmerkingen
+van Benedetto Croce ter harte genomen. Hij
+versmaadt daarbij niet de physiologische aanwij
+
+zingen die Butz en Sievers met hun
+rompstandentheorieën, noch de psychiatrische welke Freud
+met zijn leerlingen Th. Reik en Otto Rank gegeven
+hebben. Maar hij brengt hun conclusies tot zeer
+geringe verhoudingen terug, en voelt zich veel meer
+een volgeling van Dilthey en Nohl die begonnen
+zijn met een soortgelijke relativistische aesthetiek
+voor de beeldende kunst te zoeken, en van M
+llerFreienfels, die getracht heeft een systeem te
+formeeren van de Weltanschauungstypen", die
+ook van zooveel gewicht zijn bij onze waardeering
+van hetgeen ruwweg ,,de inhoud" van een kunst
+
+werk genoemd wordt.
+Het pleit voor Walzel dat hij aan het slot van
+zijn geweldige opzet tot geen enkele regel of wet,
+tot geen enkel axioma komt. Hij heeft geen ge
+
+weldige antwoorden gegeven, niet gedaan alsof
+hij nu eindelijk de waarde van zijn repeteerende
+breuken berekend had; maar hij heeft vragen
+gesteld van ingrijpende beteekenis, die ook in
+hun vraagvormen ingeroeste maar dwaze geloofs
+
+waarheden der aesthetiek hebben omvergeworpen.
+Een enkel voorbeeld ter illustratie. In een tijd
+als deze, waarin zoo algemeen het gevoel bestaat
+van onmacht, van beperkte creatieve potentie,
+is het van belang te weten in hoeverre de bedoeling
+van een kunstenaar de waarde van het gekunde
+beïnvloedt; inhoeverre het resultaat van zijn
+werken iets wint door een hooger gesteld, maar
+niet geheel bereikt doel. Hoedanig dus ook de
+verhouding tusschen bewuste en onbewuste schep
+
+ping moet zijn. Schijnbaar heerscht er onder de
+kunstenaars, de eenigen die natuurlijk hierover
+een beslissend recht van spreken hebben, de
+grootst mogelijke tegenspraak.
+Richard Wagner heeft gezegd: De dichter is
+de opzettelijke uitbeelder van het onwillekeurige".
+Hebbel ging nog verder, en zag in de heele literaire
+schepping een onbewust proces. Men zou het echter
+uit zijn werk niet zeggen. De Schlegels zagen in
+Shakespeares werken veel meer kunst" en kunst
+
+matigs dan hun voorgangers, maar Novalis be
+
+streed hen in die meening. En lijnrecht daartegen
+
+over staat Zola met zijn experimenteele roman,
+die een eind aan alle gefantaseer moest maken,
+en uit wetenschappelijk-vastgestelde feiten moest
+opgebouwd zijn. Wie van hen heeft gelijk, wie
+ongelijk? Of hebben zij allen eenigszins gelijk?
+Of nog iets anders: Van Eeden heeft in de tijd
+van zijn Studiën bij hoog en bij laag beweerd ,.een
+kunstenaar moet een goed mensch zijn". Hij
+bedoelde zedelijk goed. Maar er zijn anderen die
+beweren, dat een kunstenaar persoonlijk niets
+uitstaande heeft met zijn werk, of dat dit juist een
+controvers van zijn persoonlijkheid behelst. Zoo
+heeft Wilde in zijn Picture of Dorian Gray" de
+tegenstelling laten zien tusschen een echten
+kunstenaar die in het dagelij ksch e leven een echte
+philister bleek, en een slecht artiest die tevens een
+heerlijk mensch was. De dichter Martini uit
+Thomas Mann's Königliche Hoheit" zegt, dat
+de echte dichter een poëzie schept, die hij niet
+durft te leven. Heine ging nog verder in zijn
+vergelijking van den dichter met een prachtig
+licht, waarvan men des nachts denkt dat het een
+der sterren is, terwijl het overdag een armzalige
+glimworm blijkt. Doch weer heel anders is de
+bewering van Theophile Gautier in zijn roman
+Mlle de Maupin": dat de dichter het beste in
+hem niet vermag te uiten. De persoon zelf is zijn
+eenige ware gedicht, en het valt te betwijfelen of
+hij daarnaast nog een tweede kan schrijven.
+Wie zal met zekerheid beslissen welke van deze
+meeningen de juiste is? Of bevatten zij alle een
+kern van waarheid en derhalve ook een kern van
+onwaarheid ?
+Zulke vragen zijn niet alleen van theoretische,
+maar ook van practische beteekenis, want wie van
+ons werkt vandaag nog alleen intuïtief, zooals
+het hem invalt en ingegeven wordt? Wij willen
+graag zooveel mogelijk verantwoord zijn, en
+terecht, zoolang er nog zooveel belangrijke dingen
+ongedaan moeten blijven voor het weinige dat wij
+wél doen. Voor den scheppenden kunstenaar is
+de waardebepaling a priori van belang, voor den
+criticus en den critischen lezer, de waardeering
+a posteriori; maar beiden moeten weten waaraan
+zij zich te houden hebben.
+Zeker, men kan zich van alle moeilijkheden
+afmaken door zich te beroepen op zijn persoonlijke
+smaak. Maar literatuur is voor wie zich geen
+80-er epigoon meer voelt, een bij uitstek sociale
+aangelegenheid, waarbij het dus in de eerste plaats
+op een gemeenschappelijk oordeel aankomt. Nu
+heeft reeds Kant in zijn Kritik der Urteilskraft"
+vastgesteld dat het oordeel volgens de smaak niet
+voor bewijsgronden vatbaar is. En tevergeefs heeft
+Schiller getracht hem te weerleggen. In geen geval
+wilde Kant in aesthetische zaken een volmaakte
+willekeur aannemen; maar hij loochende de mo
+
+gelijkheid om verstandelijk te bewijzen of een werk
+al dan niet zou moeten behagen.
+Niettemin gelooft Walzel dat men tegenwoordig
+een dergelijk relativisme begint te overwinnen.
+Hij meent dat al die schijnbare tegenstellingen
+zeer goed met elkaar te rijmen zijn. Een scheppende
+kunstenaar moet nu eenmaal eenzijdig in zijn oor
+
+deel zijn. Het geeft hem zijn zekerheid, en de
+wegen die hij gaat zijn voor hem de noodzakelijke
+en de eenige juiste. Terecht vergeet zulk een kun
+
+stenaar dat de kunst echter iets veelzijdigs is,
+dat iedereen met andere oogen beziet. En nu is
+de ontdekking deze: alle kunst is tweepolig. ledere
+poging van een echten kunstenaar om een artistiek
+ideaal op te stellen, kan gebruikt worden tot
+vastlegging van twee tegengestelde, gelijkgerech
+
+tigde typen van artistiek werk. Men behoeft slechts
+het tegendeel van het ideaal te zoeken, dat meestal
+in die richting te vinden is, waartegen zulk een
+kunstenaar het meest te keer gaat. De aesthetiek
+van den kunstenaar zoekt naar een enkelvoudig
+doelbegrip; de kunstwetenschap in plaats van het
+doelbegrip naar twee ordeningsbegrippen. Zij
+verwerpt de eenzijdigheid van den kunstenaar
+niet, maar leert daarvan.
+In ons land zijn n de officieele literatuurweten
+
+schap n de daarmee samenhangende critiek nog
+niet genoeg bewust van deze tweepoligheid der
+kunst. Wat ook al hieruit voortkomt, dat menig
+criticus tevens scheppend kunstenaar is. Het oor
+
+deel van zoo iemand, en ik maak hier geen
+enkele uitzondering, is noodzakelijk eenzijdig,
+verdient correctie, al ligt de correctie voor wie weet
+te verstaan in het oordeel zelf opgesloten. En het
+spreekt vanzelf dat het verstandige maar eenzijdige
+oordeel van den kunstenaar altijd nog duizendmaal
+meer waard is dan de oppervlakkige en zooge
+
+naamd objectieve critiek van den schoolmeester.
+Meer en meer aanvaardt de wetenschappelijke
+aesthetiek de theorie der tweepoligheid, en zij
+werkt gaarne met begripsparen als realisme en
+idealisme, naïef en sentimenteel, plastisch en
+muzikaal, klassiek en romantisch, bevallig en
+verheven, apollinisch en dionysisch. Bij de nieuwere
+kunstgeschiedenis zijn ze schering en inslag.
+Wel zijn er sommigen die verder gegaan zijn, tot
+een drie-typen-leer; maar die van ouds geliefde
+triaden zijn meestal weer gemakkelijk tot paren te
+herleiden.
+Hoe staat 't nu in het algemeen met onze waar
+
+debepaling van moderne werken? Tot voor kort
+was feitelijk afwijzende, negatieve critiek de
+heerschende. Overschatting was vrij zeldzaam. Toen
+ging men overhellen naar een ander uitersts, en
+wie vandaag critieken leest, ook in ons land, ziet
+dat er meer gejubel is om een nieuwe aankomeling
+dan twijfel of gemor. Niet een groot aantal mis
+
+kende persoonlijkheden, maar een massa ten
+onrechte tot persoonlijkheden verheven talentjes
+heeft de moderne critiek op haar geweten.
+Het schuilt in de tijd, in onze poque. Vooreerst
+is er de hyper-correctie tegenover een al te streng
+en sceptisch voorgeslacht. Het was maar al te
+gemakkelijk fouten, verschrikkelijke onderschat
+
+tingen en miskenningen aan te wijzen. Ook schijnt
+het tempo waarin nieuwe richtingen en stijlen
+verschijnen en verdwijnen, aanmerkelijk versneld te
+zijn. Met onze neus boven op de feiten van vandaag
+zien wij trouwens de vele bonte draden waaraan
+ieder weeft, maar niet de dikke eenvormige
+kabel die ze voor een later geslacht zouden blijken
+te vormen.
+De onvoorzichtige literatuur-historicus maakt
+dezelfde fout als de gelijkgeaarde criticus, maar
+alleen in tegenovergestelde richting. Hij is geneigd
+in het nieuwe alleen maar het oude te zien, zooals
+de criticus-van-het-oogenblik meestal het oude
+geheel over het hoofd ziet, dat toch ook in iedere
+nieuwe schepping vervat ligt. Wie de moed heeft
+slechts vijf of tien jaar achter zich te kijken,
+ontdekt al meteen de geweldige fouten die dagelijks
+nog gemaakt worden.
+Maar ook hier geldt de dubbelwaardigheid, want
+overschatting en onderschatting, bewierooking en
+bestrijding van een nieuwe kunstrichting werken
+beide mee aan de ontwikkeling van de literatuur,
+zij behooren beide tot het leven. Wat zou Faust
+zonder Mephisto geweest zijn?
+Ook in Goethe's bekende uitspraak: Was
+glanzt ist für den Augenblick geboren; das Echte
+bleibt der Nachwelt unverloren" ligt de leer der
+tweepoligheid besloten. Het glanzende, maar
+vergankelijke heeft zijn oogenblikkelijke waarde.
+De mode-schrijver verdient zijn succes, het
+succes van 't oogenblik. Maar het echte beklijft,
+ook al wordt het niet direct verstaan; om te kun
+
+nen beklijven zal het vaak zelfs noodzakelijk
+wezen dat het niet direct-verstaanbaar of aan
+
+vaardbaar is. In de practijk: men kan tegelijkertijd
+Shakespeare bewonderen en van Wallace houden,
+de aesthetiek van Jules Romains huldigen en zelf
+schrijven als D, H. Lawrence. Er bestaat somtijds
+een hoogere consequentie dan die van blijkbaar
+consequent te zijn.
+Men ziet hoeveel ruimer" wij op deze wijze
+aesthetisch kunnen denken. En naarmate onze
+ruimte grooter wordt, is ons relativisme minder
+hinderlijk. Wij stooten ons minder aan willekeurige
+begrenzingen en particuliere hekken. Er komt op
+deze wijze in de critiek voorzichtigheid, maar niet
+de bandeloosheid waartoe het axioma over de
+smaak valt niet te twisten" voert. De relativiteit
+is niet opgeheven, maar tusschen de twee tegen
+
+gestelde polen voelen wij ons iets zekerder, en
+naarmate wij beter- de nadering van die uitersten
+beseffen, kunnen wij ook nauwkeuriger de limiet
+berekenen van iets wat een oneindig-repeteerende
+breuk, een nooit volledig-meetbare waarde op
+
+levert.
+De beteekenis van het kunstwerk, de volstrekte
+waarde die het boek A boven het boek B zou
+hebben, is nooit geheel na te gaan; allerlei groot
+
+heden blijven daarin mysterieën zonder dat ze
+daarom nog ongrijpbaar zijn. Maar dat is ook zoo
+bij de vergelijking van de cultuurwaarde van een
+automobiel met die van een radio-toestel. Het
+blijkt al gauw hoeveel zekerder en nauwkeuriger
+wij in aesthetische zaken kunnen oordeelen.
+Want zelfs onze fouten hebben hier hun zin en
+hun vruchtbaarheid.
+1) Athenaion-Verlag, Wildpark-Polsdam.
+
+</text>
+<image timestamp="2002:09:26:22:48:44.00" size="255732">00000A7Y.TIF</image>
+</page>
+</document>

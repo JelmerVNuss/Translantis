@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000603</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+. 11-97
+DE A-'M S TE R D AM ME R WEEKBLAD VOOR NEDERLAND.
+DJ; FEAXSCUE MAAGD : »Encore l'Affaire ! Wat zullen mijne gasten wel denken . . .''
+aMttiimlitliiiiiiiiiuiïiiiiitiiuiimMmiuiimiiimiiiiiuiiiiiiiiMt	IMIIMH;	NiiiiiifiiMiiiiiMiMiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiHfiiiiiNtiiiiiinuif	itiiiiiiiiiiiiiniiii&gt;iiiiui	iitiiui	iiiiiiiiiiiiiiiin
+
+In oorlogstijd. (Punch).
+IIMlIIltlllllillMII	Uil	M.ltllllEIMlMlllnlJÜII	UMI	11111111111 M i 11'	1111 M M u 1111111111	III l	nllllllllll	II11111111 It 111111 Illl 111
+
+De open deur van den verrader. (Fata Morgana). (Lustige Bliïttcr).
+Extra tijding! Generaal Roberts' laatste zwijgen
+, over een belangrijken veldslag! (Kek-me-1'p).
+'Emm
+
+i'$$-^
+• l
+Scène: Ken Schotsch landgoed. JJe nieuwe erfgenaam is
+gekomen om zijn eigcnilom te bcsichligen.
+DE EBI'ÜEXAAM : »lk zal zelf niet hier kunnen komen, om
+alles te regelen, want ik moet gaan meevechten in
+ZuidAfrika . .. dus ..."
+ML-TAVIPH (zijn ffictotitni, met aerod): »0ch dat spijt me
+Sir, dat spijt me vreeselijk .' (De erfgenaam is t/eroerd). Weet
+u als u eena ie'.s overkwam, zou 't goed geen tweede maal
+'t successierecht kunnen opdiepen."
+Hierdoor! zei cle Portugees, toen hij voor Engeland den weg vrij iiet, m ar Tommy
+Atkins schrikt als Lij het heden in. de toekomst afgespiegeld ziet. Hij herkir.t ue.. Emir van
+Afghanistan, die voor de Kussen de poorten van Indiëontsluit !
+Een bezoek aan de Panische tentoonstelling.
+(Die Wache, Bsrlin).
+"\Vat ben je toch een graole sterke man!
+
+
+&gt;c*ï'•.•*;.$. \-.J. ". .• ••(?&gt;;*•"'-. \
+"' -dël^ir-
+^-«.-Si^HL^a^-^ilLtffi.-Amerika neemt zijn plaats in bij de mogendheden.
+(Life).
+
+</text>
+<image timestamp="2002:08:14:15:29:20.00" size="458002">D2000I2.TIF</image>
+</page>
+</document>

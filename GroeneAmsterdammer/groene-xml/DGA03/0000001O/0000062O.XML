@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251114</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DÊ-GROENE AMSfERDAMMER, WEEKBLAt) VOOR NËDËRLAM5
+No. 252?
+ir
+t
+J. B. STRIJ1JS &amp; Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie • Transporten
+in een oogenblik voor gebruik gereed !
+BUSSINKi
+(HONIGKOEI
+*
+verveelt nooit,
+dank zij haar bij
+
+zondere kwaliteit.
+8
+l ••• •(&gt;••• l
+ZUIVER WOLLEN-,
+HALF WOLLEN-,
+KATOENEN-, TRICOT-,
+RAMEH- EN
+NETON DEROOEDEREN
+Fabrikaat W. JANSEN
+EDAMMER-KAA5
+;TEED; HET furore in
+t\WAUTEP
+Wv.AMMEW-00/THUIZEm
+GEVESTIGD
+Het geheim van het succes van
+
+DROSTE'5
+VERPLEEGSTER-CACAO
+ne kwaliteit de beste "
+Voeg hierbij den nimmer
+afwijkenden fijnen
+cacaosmaak en ge vindt het
+genot verklaard, dat een
+kop Droste's Verpleeg
+
+ster-cacao U verschaft.
+BEGRAFENISYEREENEG1NG
+N. SAX Jr.
+[ P.C. Hoottstraat 38 AMSTERDAM Telef.: 20341, 24250 l
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELENi
+ADRIAAM SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+. Vervaardigd op eigen atelier
+Bij ons verkrijgbaar "~~
+N. R. V. nONTA SCHOENEN
+Wed. John Gay's Piccalilli
+blijft het mosterdzuur met de fijne, pikante smaak !
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN ~~~~
+(N.V. DE HOUTTUINEN") Amsterdam
+
+
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 4266]
+
+MARMERWERKEN
+en Reisartikelen met garantie.
+Paleisstr. 45-47. Tel. 35013
+v. H. J.JRLjyiULLJBRL
+
+^•BBB^^B^^HI
+W, H. POLMAN TUIN
+Overtoom 526. Telefoon 2Q850.
+Begrafenissen Transporten. Crematies
+FRUITPLANTAGE
+
+ONS QUNOEQEN"
+ROSSUM (BIJ ZALT-BOMMEL.)
+TELEFOON 15. Merk D. A. K.
+Levert aan Particulieren goed verpakte en Dubbelgesorteerde
+GOUDREINETTEN en BELLEFLEURS
+19)
+Vraagt Prijscourant.
+B. J. MULDERS
+TUIJJABCH1TKÜT
+Gevers Deynootweg 117 Scheveningen
+Telefoon SO81O
+
+</text>
+<image timestamp="2002:09:03:22:42:10.00" size="142959">0000062O.TIF</image>
+</page>
+</document>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001021</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No;12i7
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De nieuwste rol.
+(Opening, van het Limes-Museum op de Saaiburg).
+Na de inbraak. (Lustige Slatter).
+KEI/ER WILHELM: »Civis romanus sum!" (»Ik ben Romeinsch burger").
+KEIZEHIN AUGUSTA: »Wilhelm, vat geen kou!"
+DE f'UISBB&gt;;I!,S : »A!s de heeren het eerst onderling
+eens zijn, zal het ook gemakkelijker zijn met ons een
+accoord te maken."
+De Vredesengel. (Moonshine).
+
+
+•'•'. \f. «^SSsi
+Aanstaande verandering van voorstelling te Parijs.
+(S'.colo).
+Een Brief van den Overwinnaar. (Caran d'Ache in den Fir/aro).
+ROBERTS (in Kriiger's kamer): »Een telefoon heeft hy ook,
+mooi! dan kan ik dadelyk officieel naar Londen melden: »!K
+1IEB ZOOEVEN DB RANSVAAL GEANNEXEERD."
+Graaf Wafdersee in 't vuur. (Simpliclssimus).
+DE BRJTSCHE LEEUNV: »Die Boeren zullen altijd een doorn
+in m'n vkesch blijven." (W/e, N.-Y.)
+
+
+Hony soit qui mal y pense. (Xed. Spectator).
+GENERAAL ROBERTS (schrijvend): »IIet onderworpen en berouwhebbend Transvaal
+ligt aan de voeten Uwer Majesteit!"
+DE WET (buiten): »En daar heb je iets om je brief mee te zegelen!"
+DE KEIZER : »Ik vrees dat ik mij niet voor u buigen kan
+mijn vriend, voor ge alles met mij geregeld hebt, trots de
+vriendschappelijke raadgevingen van den beer."
+CIIAMJJEKLAIN: »Joe de Eerste! Waarom niet! krijgt.niet
+steeds een volk de regeering die het verdient?"
+
+</text>
+<image timestamp="2002:08:15:04:33:54.00" size="457692">D2000NV.TIF</image>
+</page>
+</document>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330819</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2034
+De Groene Amsterdammer^van 26 Augustus 1933
+Wetenschappelijke varia
+Boekbespreking
+Nogmaals de Ritchey'kijker
+'
+Dr. P. van Olst
+Een kijker voor den crisistijd!
+In een der voorgaande artikelen heb ik verteld
+hoe de Amerikaanscher kijkerbouwer en astronoom
+Ritchey een nieuwe kijker aan het maken is, waar
+
+mee hij dóór gewijzigde spiegelkromming de beelden
+der sterren in het heele gezichtsveld werkelijk als
+schijfjes en niet als misteekende figuren krijgt.
+Tóen zeide ik reeds dat Ritchey nog belangrijke
+andere verbeteringen heeft aangebracht. Daarover
+wilde ik 't nu nog eens hebben.
+Het materiaal, waaruit de spiegel bestaat, heeft
+hij gekozen uit een glassoort waarvan de uit
+
+zetting bij verwarming gering is. Wanneer een
+telescoop in gebruik is, verandert de temperatuur
+van zijn omgeving eigenlijk steeds, gewoonlijk
+lager wordend. De%e afkoeling doet .het spiegelglas
+inkrimpen, maar glas geleidt de warmte slecht
+dus, 4e buitenlaag van den spiegel koelt eerder
+af dan de diepere glaslagen. Dit krimpen gebeurt
+met groote kracht zoodat de spiegel er iets door
+vervormd wordt. Deze vervorming van. het spie
+
+gelend oppervlak geeft natuurlijk een iets gewij
+
+zigde terugkaatsing zoodat de beeldjes van de
+sterren^ er door vervormd worden. Dit kan zoo
+
+danige afmetingen bereiken dat men soms de
+randen van den spiegel moet uitsluiten van de
+beeldvorming, zoodat bv. van de beroemde lOQf
+inch spiegel slechts 70 inch te gebruiken is, wat
+dus de beeldhelderheid enorm vermindert. Daarom
+heeft Ritchey nu een glassoort gekozen, die weinig
+uitzet brj verwarming, dus ook weinig inkrimpt
+bij afkoeling, zoodat de onvermijdelijke tempera
+
+tuurwisselingen belangrijk minder invloed hebben,
+zoo weinig dat Ritchey nog niet behoefde over te
+gaan tot het toepassen van zijn vroeger ontwerp,
+nl. het bouwen van een ,,cellen"-spiegel, samen
+
+gesteld uit dunne glasplaten. Dit bewaart hij
+thans voor toekomstige veel grootere exemplaren
+van zijn telescoop-type.
+•Verder gebruikt Ritchey, nu hij de beelden der
+sterren zoo gaaf maken kan, ook betere
+photografische platen. Tot nu toe zijn de gebruikte ge
+
+voelige platen wel eens op de eene plek eenige
+honderdste millimeters dikker dan op de andere,
+en dit leverde geen groot bezwaar daar de fouten
+der h,eeldvorming^zelf eigenlijk veel grooter wafen.
+Maar nu de beelden goed zijn, moet de plaat ook
+goed zijn; daar bovendien de beelden der sterren
+niet in een zuiver plat vlak komen te liggen,
+worden de gevoelige platen (d.w.z. de glasonder
+
+laag ervan!) iets hol geslepen.
+De kijkerbouwers hadden tot nu toe te worstelen
+met een dilemma. Maakten zij de kijkers kort,
+dan werden de beeldjes der sterren nog meer ver
+
+vormd aan den rand van het gezichtsveld; maakten
+zij de kijkers lang, dan kreeg men last van door
+
+buiging, wisselend groot bij verschillende
+kijkerstanden. Men spaarde de geit en de kool en bouwde
+ze met een middelmatige lengte, daardoor zoowel
+last behoudend van beeldvervorming als van
+kijkerdoorbuiging (de groote kijkers wegen vele
+tonnen!). Doordat Ritchey de beeldvervorming
+heeft tegengegaan en doen verdwijnen, kan hij
+met een gerust hart de kijkerlengte zoover ver
+
+minderen dat de doorbuiging veel minder hinderlijk
+wordt. De halveering der kijkerlengte maakt de
+AAN
+INZENDERS
+VAN MANUSCRIPTEN
+wordt verzocht bij hun
+bijdragen een gefran
+
+keerd briefomslag met
+adres van den afzender
+in te sluiten.
+doorbuiging acht maal kleiner ! En bovendien is
+natuurlijk een korter kijker goedkooper, en lichter
+te hanteeren. Eindelijk is er nog een systeem
+van tegenwichten aangebracht dat de buiging 99
+percent vermindert. Alles bij elkaar genomen wordt
+de buiging teruggebracht \tot een achthonderdste
+deel van het vroegere bedrag bij een even mach
+
+tige kijker. '
+De nu gebouwde kijker zelf is slechts ruim drie
+meter lang, maar een deel van den sterrenwacht
+
+koepel is als 't ware een los verlengstuk van den
+kijker. Dit verlengstuk raakt de telescoop niet aan.
+De bedoeling van dit verlengstuk is het afsluiten
+van het licht van den htmel, van wind en van
+warmtestraling. ;
+Niet alleen aan den kijker!, dus aan het instrument,
+heeft Ritchey gedacht, maar ook aan den waarne
+
+mer. Als met een grooten kijker een photografische
+opname gemaakt wordt met een belichting, die
+vele uren kan duren, laat men den kijker niet aan
+zijn lot en aan het bewegend uuiwerk over. Men
+controleert voortdurend of de kijker wel goed
+gericht blijft op hetzelfde punt van den hemel.
+De waarnemer kijkt voortdurend door een zoeker
+om steeds een der sterren, die ervoor is uitgekozen,
+achter de kruisdraden van het oculair te houden.
+Hij kan dit doen door met behulp van twee
+stelschroeven het beeld der leid-ster op haar plaats
+te houden. ledere seconde kan hij wel twee correc
+
+ties moeten aanbrengen en op oogenblikken van
+slecht zicht, door atmosferische storingen, kan hij
+de belichting der plaat zelfs geheel onderbreken.
+Ieder half uur moet hij de plaat wegnemen en den
+kijker weer goed scherp stellen, daar de wisselende
+temperatuur de kijkerleragte beïnvloedt en de
+spiegelwelving, dus de brandpuntsafstand wijzigt.
+Professor Ritchey heeft de twee stelschroeven
+vervangen door een gevoeliger mechanisme,
+electrisch bewogen, met behulp van tv. ee
+stiocmsluiters, dus een voor iedere hand, teiwijl met de
+lippen uiterst vlug een toestel kan in actie gebracht
+worden om de plaat af te sluiten. Het werken met
+dit apparaat is ia eenige oefening even auto
+
+matisch als fietsen, en veel Vlugger dan met het
+vroegere toestel. ledere seconde kan men gemakke
+
+lijk vier correcties aanbrengen met iedere hand, en
+bovendien, al s het noodig is, twee plaatafsluitingen.
+Dit is van groot belang voor andere objecten dan
+de vaste sterren. Het photografeeren van planeten
+en maan namelijk leverde tot nu toe geen resul
+
+taten op die in de verste verte te vergelijken
+zijn met de directe oog-waarneming door den
+kijker. Door de atmosferische storingen zijn de
+beelden van een planeet telkens slechts voor een
+enkel oogenblik mooi zuiver, maar dan spoedig
+weer vaag en bewegelijk. Het oog kan de goede
+oogenblikken gebruiken vóór bliksemsnelle obser
+
+vatie, die men dan in een teekening vastlegt,
+maar de gevoelige plaat teekent alles over elkaar
+op, zoodat zeer minderwaardige beelden ontstaan^
+waarop alleen de grofste details nog te herkennen
+zijn. Dat is ook de reden dajb men wat de maan
+betreft met den spiegeltelescoop van 100 inch
+middellijn photografisch niet meer kan bereiken
+dan men met 't oog verkrijgen kan door een
+10-inch kijker. Ritchey hoopt nu met zijn nieuw
+regel-apparaat óók veel beter foto's te krijgen van
+maan en planeten, daar men met den vluggen sluiter
+snel de ongunstige momenten kan uitsluiten.
+Als Ritchey inderdaad met zijn beter kijkertype
+het verwachte resultaat bereikt, is een belangrijk
+voordeel hiervan dat dit instrument, dat met slechts
+l meter middellijn nog meer bereikt dan de mach
+
+tigste moderne kijkers, door zijn geringer kosten
+binnen het bereik valt van honderde sterrenwach
+
+ten met bescheiden middelen, zoodat men op
+vele plaatsen photo's kan maken en metingen kan
+verrichten, die thans alleen mogelijk zijn op de
+grootste sterrenwachten. In een tijd dat de
+millioenen voor de wetenschap niet meer zoo overvloe
+
+dig zullen vloeien, in Amerika vooral, als tot nu
+toe het geval was, is dit een punt van allergrootst
+belang.
+Hans Bentinck. Het Verdwenen hoofd.
+Roman. A. J. G. Strengholt'x U. M. Am
+
+sterdam.
+De bijzonder slecht geteekende omslag van dit
+boek vertelt het u rood van bloed en grauw
+van afgrijzen: hier is een moord gebeurd. En als
+ge dezen Hollandschen detective-roman ten einde
+gelezen hebt weet ge ,.hoe en wat". En de criticus
+heeft eigenlijk geen taak. Van hem verwacht ge
+geen litteraire appreciatie. (Die pretentie heeft
+het boek trouwens allerminst). Al kan dan met
+genoegen vastgesteld worden dat de sfeer ervan
+aanmerkelijk minder zelfvoldaan en burgerlijk
+is dan die van Ivans, die zich zelve na de
+prachtige belofte die hij jaren geleden deed
+dóód-geschreven heeft. Ik heb al eens meer mogen
+zeggen dat over het algemeen het criminologische
+genre den Nederlander niet ligt. Dat behoeft
+geen verwondering te baren.
+Karnemelk-metsuiker-salons zijn nu eenmaal geen apache-kroegen
+en Nederlandsche politie-commissarissen zijn te
+wetenschappelijk, administratief en juridisch -ge
+
+schoold om de lancet-scherpe intuïtie van Sherlock
+Holmes te hebben of de aardappelzak-plcmpe
+imbeciliteit van Baxter van Scotland Yard. Een
+Duse of een Charley Chan (van de Hawaiaansche
+recherche) zijn dunkt mij in dit goede, vlakke land
+niet te vinden. Des te meer pleit het voor deri
+heer Bentinck dat hij een aardigen crimineelen
+roman in een echt-Hollandschen toon heeft ge
+
+schreven. Spanning, scherpzinnigheid, lichte
+humorvan waarlijk-goeden huize en een prettige trant
+van pretentieloos schrijven, dat zijn zoo de goede
+dingen die ik van dit plezierige boek kan zepgeri.
+Ge moest eens beu worden van Hitler, Ropsevelt
+en Dollfuss.... ga clan naar Hans Bentinck,
+zet een stoel in de zon en laat hem u vertellen
+van het verdwenen hoofd. Ge s^ult een beetje
+griezelen, een beetje huiveren, een beetje veel
+cigaretten rooken, ge zult u koesteren aan de liefde
+die naast het verdwenen hoofd opbloeit lijk 'n
+boter bloemeke zóó simpel en zóó glanzend en als
+de heer Bentinck het hoofd heeft teruggebracht
+dankt ge hem daarvoor met har ti gen handdruk
+«n zegt: dat was een aardige, spannende geschie
+
+denis, amice; je moet eens gauw neg wat kernen
+vertellen....
+Anna van Gor/h-Kaulbach. Goddelijk Avon
+
+tuur.* Nederlandsche JKeurboekerij.
+Mevrouw van Gogh-Kaulbach is een beproefde
+.,oude" kracht op het letterkundig tooneel van
+ons land en zij heeft ons in den regel, binnen de
+grenzen van haar niet-gering talent, wat te zeggen .
+iets wat haar onderscheidt van vele hare-r kunst
+zusterkens. Ook in dit boek weer heeft cle bc gaaf de
+schrijfster, die zij inmers blijft, het zich in geen
+enkel opzicht gemakkelijk gemaakt: de geest
+des vredes driemaal gerncameerd in drie menschen
+gedurende drie perioden der wereldgeschiedenis
+wordt verslagen en—verrukkend happy-end •
+overwint ten lange leste. Dit is de ,,lijn" van dit
+zeker niet onbeduidende boek. De gevoelige
+en begaafde schrijfster heeft aan weerszijden van
+deze lijn getracht voor ons het tijdvak te doen
+herleven waardoor deze bloedrood loopt
+en zij is daar ten deele ook wel in geslaagd. Niette
+
+min ging de taak die mevrouw Kaulbach zich
+oplegde boven haar krachten. Het zij onmiddellijk
+erkend dat deze ook uitermate i.waar is en dat
+slechts een ware meesterhand langs deze, naar cle
+hoogste toppen van kunstenaarschap strevende,
+lijnen een boek had kunnen bouwen zoo geweldig
+als de opzet zou kunnen rechtvaardigen.
+Dit is deze schrijfster, ondanks haar kloek en
+degelijk talent, niet mogen gelukken. ,,Goddelijk
+Avontuur" kreeg daardoor iets zwevends en on
+
+volkomen g en al zet het ons midden in een van el e
+meest grootsche problemen van den tijd, waardoen'
+het onze aandacht waard is, het weet die niet
+steeds gespannen te houden. Zoo werd dit boek
+opmerkelijker dan vele anderen en door zijn
+tekortkomingen niettemin onbevredigender dan
+boeken, met minder talent geschreven en me:t
+geringer doel opgezet. Doch juist de hooge greep
+verdient onze aandacht en waardeeiing. ^
+
+E. EL1AS
+
+</text>
+<image timestamp="2002:09:26:17:32:33.00" size="275706">D2006S9.TIF</image>
+</page>
+</document>

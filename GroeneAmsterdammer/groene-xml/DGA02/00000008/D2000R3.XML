@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010106</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Engeland en Amerika als veroveraars.
+51JVOEGSFL van de Amsterdammer. Weekblad voor Nederland van 6 januari lyoi.
+l e k ^&gt; u c* ^ « n &gt; i ? T
+lrN('LE SAM : Kijk hem eens werken!
+JOHN BULL: Au!
+UXCLE SAM: Zit je goed vast:
+Amst. Boek- en Steendrukkerij, v/h. EHernian, Harms &amp; Co.
+permitteer me dan dat ik je van 't Nicaragua-kanaaltractaat afhelp!
+
+</text>
+<image timestamp="2002:08:15:11:14:14.00" size="415176">D2000R3.TIF</image>
+</page>
+</document>

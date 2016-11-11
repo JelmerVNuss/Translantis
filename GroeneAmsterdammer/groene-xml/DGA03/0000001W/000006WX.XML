@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280915</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENE AMSTERDAMMER VAN 15 SEPTEMBER 1828
+No.
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+QJASPIBOMMEL'
+BOB^BINDER
+KERKSTRA AT 58
+AMSTERDAM
+Veilinggebouw DE ZON"
+L. GIJSELMAN &amp; ZOON Gevestigd 1823
+Singel 118—120 en Blauwburgwal 15. AMSTERDAM (C)
+
+Heden, Zondag en Maandag KIJKDAGEN van
+
+KOSTBARE INBOEDELS enz.
+
+Veiling: Dinsdag 18 September
+e ii v e Ie v«»l ge n &lt;1 e d age 11.
+('ATAÏjO&lt;jtr&gt;S a. 25 rent verkrijgbaar.
+Wfagqi5 Boutffcn, smaafitfi/n
+wn TfiuiszuCCen zijn!
+SHOW
+nami
+ten 230 uur in
+T"1 a H * s j '"b F*
+l empeherstraat 35
+
+per persoon incl
+Kaarten a f L
+verkrijgbaar
+TH, H, WEILL
+Barteljorisstraat 26*28
+
+Haarlem
+Het papier ten behoeve van dit blad f*
+wordt geleverd door de firma V
+ROTTERDAM—GRONINGEN
+UTRECHT - A--MELO
+
+</text>
+<image timestamp="2002:09:05:06:35:39.00" size="128097">000006WX.TIF</image>
+</page>
+</document>

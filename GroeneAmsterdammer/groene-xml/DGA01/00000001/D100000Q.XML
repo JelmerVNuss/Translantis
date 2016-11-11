@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980703</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Mr. Schölvinck als Wethouder en Raadslid.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 3 Juli 1898.
+Amst. Boek- en Steendrukkerij, v/h, Ellerman, Harms &amp; Co.
+Mr. VEN IN G MEINKSZ.
+Mr. v. HAM,.
+Ho v v.
+Mr. VKNING MKINICSX. (tot den Heer Hoi&gt;y}\ &gt; Reken maar niet op dat vinkje zoo is hij hier, zoo is hij daar, u is Ljeen
+oogenblik van hem zeker."
+De Heer Huw : «Geen nood, burgemeester, u ziet dat zoo niet, . . . wij hebben hem aan een touwtje."
+
+</text>
+<image timestamp="2002:08:13:18:37:23.00" size="348671">D100000Q.TIF</image>
+</page>
+</document>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320730</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2878 van 30 Juli 1932 prijs 20 cent
+
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C - telefoon 37964 - postgiro 72880 - gein. giro G. 1000
+QJASPlBOWa:
+KB^K5TRAAT58
+AMSTB^AM
+HAKLOOSTERHU1S
+KALVERSTRAATI7B
+
+AMSTERDAM
+KINDERKAMER
+VERLICHTING
+NACHTTAFEL
+
+LAMPJES
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+===== TELEFOON 35533 =====
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+Specialiteit op
+ethnografisch
+gebied van
+Oost-1 nd ie
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+
+KOOPT HET BEKENDE ROODE PAKJE
+
+35 CTS'PER Ofis
+
+</text>
+<image timestamp="2002:09:27:04:52:12.00" size="92705">00000AG4.TIF</image>
+</page>
+</document>

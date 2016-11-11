@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250404</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2495
+JT. D. STRUIJS «&amp; Zn.
+
+Prinsengracht 837 P. G. Hooftstraat 140
+TEL. 37906 TEL. 29950
+
+Begrafenissen - Crematie - Transporten
+J. J. ZIJFERS &amp; CO.
+
+
+WAT DE BUITENWERELD
+VAN UWE WONING ZIET
+is de stoffeering Uwer vensters. Verschoten
+gordijnen ontsieren Uw gevel en doen den
+voorbijganger denken aan een verwaarloosd
+interieur. Ook voor U en Uw huisgenooten
+zijn zulke gordijnen 'n bron van ergernis.
+Laten wij U dan eens de volledige collec
+
+tie toonen van onze
+
+GEGARANDEERD LICHT- EN
+
+KLEUR-ECHTE GORDIJNSTOFFEN
+waarin wij elke denkbare raamstoffeering
+kunnen uitvoeren. Weliswaar kosten deze
+prima stoffen iets meer dan andere, maar
+U hebt dan ook de zekerheid, dat zij niet
+verschieten of verbleeken, zelfs in
+het felste zonlicht. Zij blijven altijd nieuw.
+
+
+
+KEIZERSGR. 523 - P.C. HOOFTSTR. 47
+
+AMSTERDAM
+GEORGE H. LAGAS
+AMSTERDAM - Tal. 24611 - Andreas Bonnstraat 40
+Eleetnische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+BJASPIBOMMB:
+BOEKBINDER
+KBRK5TRAAI55
+AMSTSRDAM
+PILLEN'! lude fienevir
+Fijne Likeuren dn Punch
+M. P. POLLEN « ZOOH - Rotierdmm
+r'
+Alphen a/d Rijn.
+corsets
+it Wwldnwk
+
+C. P. la Sirene Paris
+Elastiek Ceintuur LA NÉA"
+van Dr. Qlenard als
+Corset of Buikband
+2()cM. 25cM.35cM. hoog
+Prijs/12.50 I7.5J 19.50
+N E OS" Het beste Corset
+met elastiek binnenband, door
+H.H. Doctoren en Chirurgen
+aanbevolen ƒ 35.00
+
+DEN HAAG: Spuistraat 36
+Piet Heinstraat 107
+
+ROTTERDAM: Hoogstr. 344
+ARNHEM: Ketelstraat 24
+
+LEIDEN: Maarsmanssteeg 23
+
+DORDRECHT: Voorstr. 289
+GRONINGEN: Heerestr. 11
+
+DELFT: Hypolitusbuurt 35
+Naamlooze Vennootschap
+
+Uurwerk, Goud- en Zilverhandel
+
+
+v/h Gebr. BREEN
+
+NIEUWENDIJK 172
+ROZENGRACHT 53
+
+HAARLEMMERSTRAAT 64
+
+Groote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+
+Uurwerken met Westminsier en diverse jon jslajen
+
+RUIME KEUZE HORLOGES
+
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+l P .t Hoottitraat M AMSTERDAM Telef.: 20341, 241M l
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN l
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADR1AAN SCRAKEL
+HEILIGEWEG 11—17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bq ons verkrijgbaar ~~^~~^~~
+N. R. V. nONTA SCHOENEN
+Lievegoed's Mayonnaisesaus
+smaakt verrukkelijk bij salade, visch, vleesch enz. Bovendien
+is op elke flacon een bon geplakt, zooals op alle artikelen van
+de Lievegoed's Fabrieken. 15 bons is o.a. l fl. Piccalilli,
+25 bons l fl. Kerry enz.
+N. V. DE HOUTTUINEN - AMSTERDAM
+
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+
+MARMERWERKEN
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+
+OPGERICHT 15^7
+PHOENIXMEUBELEN"
+voor WONING en KANTOOR zijn GOED, GOED
+
+KOOP en worden onder GARANTIE geleverd.
+
+Behangen Stoffeeren Beddenmakerij
+
+Magazijn Damrak 76 Tel. 48489 |
+Fabriek-ToonkamersWarmoesstr.141 Tel.42689)
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Mpooialitelt in s
+Kinderbadkuipen, Badtafels, Baby Bascules, LinnenmandeD.
+B. J. RIULDERS
+TUIN ARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:06:38:41.00" size="145424">000005H5.TIF</image>
+</page>
+</document>

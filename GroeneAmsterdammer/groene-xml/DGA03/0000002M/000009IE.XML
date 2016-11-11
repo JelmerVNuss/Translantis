@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300830</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Engelsch Plated (verzilverd)
+
+Groenteschalen
+Saucekonunen
+Groentelepel»
+Saucelepels
+Soeplepels Tafellepel» en Vorken enz.
+Prijzen op aanvrage
+
+Arnhem . ZIJLSTRA &amp; RUPP
+Zoo juist
+verschenen:
+
+
+K. J. PEN
+
+VAN KANT
+
+NAAR HEGEL
+
+EENIGE
+HOOFDLIJNEN IN DE
+ONTWIKKELING DER
+P h l L O S O f H l E
+PRIJS, GEB. F2.9O
+UITGAVE VAN
+J.B.WOLTERS
+GRONINGEN-DEN HAAG
+COELINGH'S
+Til
+in Cellopbe verpakt
+2O CENT.
+VANRIJN'S
+Adverteert i n:
+De Groene Amsterdammer
+VOOR HANDELSINFORMATIES
+(niet te verwarren met particuliere informaties, welke wij niet verstrekken).
+VAN DER GRAAF &amp; Co. N.V.
+
+VOOR SNELDIENSTINFORMATIES
+In rechtstreeksch verkeer met de daarvoor aangewezen bijzondere corres
+
+pondenten in pl.m. 3500 plaatsen in Nederland.
+VAN DER GRAAF &amp; Co. N.V.
+
+VOOR INCASSO VAN HANDELSVORDERINGEN
+(Achterstallige- of betwiste).
+VAN DER GRAAF &lt;fi Co. N.V.
+AMSTERDAM—ROTTERDAM—BRUSSEL.
+VRAAGT TARIEVEN.
+A. van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd sedert 1810
+Prinsengracht 975
+arros Cadena
+IJT »E VOORSTAAM8TB
+SIGARENWINKEL8
+N.V. Civiele en Militaire Kleermakerf
+DEKKER &amp; DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 13416.
+Door het geheele LAND te ontbiede»
+/V U G. UILKEMA
+GROOTSTE HORLOGE MAG,
+Zilver fl. 8 tot 40
+Goud 16 250
+Brillant 60 585
+Stopwatch 12 60
+Sport Horl. 25 28
+
+Reguliersbreestraat 39
+OEGROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+kost slechts f 2.70 per kwartaal of
+10.—per jaar bi] vooruitbetaling.
+de uitki
+F
+l
+L
+M
+T
+H
+E
+A
+T
+E
+R
+Dagelijks2.3O,7.3O,9.30
+FILM EN MODERNE
+MUZIEK
+k
+prinsengracht bij
+de teidsc'nestraat
+telefoon 3746O
+NAAR ZWITSERLAND
+BASEL
+HOTEL VIKTORIA-NATIONAL
+hetdichtstbijgelegen Hotel aan het S.B.B, station.
+Geheel vernieuwd.
+BRAUNWALD
+Zomervreugde en ontspanning in het Hooggebergte. Bosch, prachtvolie
+wandelingen en uitstapjes. Vrij van auto's. Tennis. Kurmuziek. Prospecti
+worden gaarne verstrekt.
+GRAND HOTEL BRAUNWALD HOTEL ALPENBLICK
+_ __ HOTEL N1EDERSCHLACHT HOTEL ALPINA
+
+HOTEL SCHWEIZERHOF. Ie Rang,
+prachtig gelegen aan den Höhenweg. geheel
+modern. Eigenaar TH. WIRTH.
+WALDHOTEL UNSPUNNEN, 15 min. van
+Spoor en booten. Auto aan het station. Lid
+van den Toeristenbond v. Nederland.
+LES AVANTS: s.Montreux
+1000 Meter b. d. Zee.
+Heilzaam luchtkuuroord. 4 Hotels, tennis, garages, pensions.
+LÜNOERN
+KURHAUS &amp; PARKHOTEL. Gezellig Fam.-hotel,
+pracht, gel. Meer-lucht en zonnebaden. Tennis, park,
+AAN HET MEER garage, lift, orchest. Vraagt prospectus.
+PONTRESINA
+(ENGADIN)
+1830 M. b. d. Z.
+H OTEL PONTRESINA, Huis
+v. d. l en rang, zonnig en vrij gele
+
+gen. Tuin. Tennis. Garage. Stroo
+
+mend water. Pension vanaf fr. 17.—,
+PARK HOTEL BEAU SITE. Deg. Fam.-Hotel. Laatste
+comfort, pr. ligging a. h. bosch. Pension Juni en Sept.
+v.a. frs. 14.—, Juli &lt;&amp; Aug. v.a. frs. 16.—. Eig. . Bühlmann.
+
+</text>
+<image timestamp="2002:09:26:01:51:32.00" size="147347">000009IE.TIF</image>
+</page>
+</document>

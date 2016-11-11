@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330812</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ft o. 2932
+De Groene Amsterdammer Van 12 Augustus 1933
+l\ -.
+Wetenschappelijke varia
+^
+De Ritchey-Chrétien-telescoop
+Dr. P. van Olst
+- C
+•m
+4r«t,
+Links: beelden van een ster, zooals de tot nu toe
+gebruikte telescopen geven.
+Rechte: dito bij een.
+Ritchey-Chritien-spiegeltelescoop. (de btelden zijn van boven naar beneden
+reep.. 2 J, 5,10,16 en 20 boogminuten van het centrum
+van het gezichtsveld gelegen).
+
+JEen belangrijke stap vooruit
+'De geschiedenis der sterrenkunde leert ons de ups
+and downs kennen van den lénzenkijker (refractor)
+en den spiegelkijker (reflector). De lénzenkijker, dus
+een buis met enkel lenzen erin, is de eerste geweest.
+Reeds vrij spoedig is de grootste dezer lenzen,
+het objectief, vervangen door een hollen spiegel,
+die de sterrestralen terugkaatst tot een beeld, dat be
+
+keken werd door dezelfde oculairlens (of lenzen)
+als de lénzenkijker gebruikt. Terwijl de spiegel
+
+telescoop een glorietijd beleefde in het einde der
+achttiende eeuw onder de handen van Herschei,
+bracht de negentiende eeuw reeds in haar aanvang
+de technische mogelijkheid om groote zuivere
+glasschijven te fabriceeren, die noodig waren om
+machtiger lenzenkijkers te maken, die handel
+
+baarder waren dan HerschePs reusachtige spiegel
+
+telescopen. De spiegeltelescoop viel in ongenade,
+noewel in Engeland lord Rosse nog zijn beroemden
+kijker bouwde met spiegelmiddellijn van 1.8 meter.
+Maar de lenzenkijkers waren favoriet en groeiden
+in lengte en middellijn, tot de Yerkes-kijker in
+Amerika, die een objectieflens van ruim l meter
+middellijn had. Het lichtverlies in de lenzenkijkers
+nam echter zoo geweldig toe naarmate-de lenzen
+grooter, dus ook dikker werden, dat vooral voor de
+eischen der astronomische photografie de beelden
+te lichtzwak werden, terwijl de spiegeltelescopen,
+doordat zij het licht bij het tenigkaatsen niet
+in zoo groote mate verzwakten, veel lichtsterker
+beelden gaven, die beter te photografeeren waren.
+Daarom is in de laatste astronomische periode
+de spiegeltelescoop weer aan de winnende hand.
+De spiegelmiddellijn groeide tot ruim 2.5 m bij de
+OO-inch-telescoop" der Mount
+Wilson-sterrenwacht. Toch was men niet blind voor de bezwaren
+van den spiegelkijker; het is een over-gevoelige
+juffer. Maar het groote voordeel blijft altijd, dat
+een spiegel geen kleurschi/tiny geeft en dat men
+betrekkelijk gemakkelijk de spiegelmiddellijn
+vergrooten, dus het beeld lichtst erker kan maken,
+daar een grooter spiegel natuurlijk meer licht van
+een ster opvangt en in het beeld concentreert.
+Dit vergrooten van de spiegelmaten is vooral een
+qüaestie van meer geld, en daaraan haperde het
+in Amerika niet.
+Prof. Ritchey, de bouwer van den 100-inch
+telescoop, is echter niet tevreden met de gebrui
+
+kelijke spiegeltelescopen. Hij meent, dat zij tech
+
+nisch nog zoo laag staan, Vergeleken met hoe zij
+zouden kunnen zijn, als een locomotief van
+Stephenson vergeleken met een moderne sneltrein
+
+locomotief. Daarom heeft;hij met de hulp van den
+Franschen mathematicus en astronoom Henri
+Chrétien( Nizza) een nieuwen spiegeltelescoop ont
+
+worpen, die thans of gereed of bijna gereed is en
+waarmee hij negen maal meer meent te kunnen
+bereiken dan met een gewonen spiegeltelescoop van
+dezelfde afmetingen. Gén wonder dat men in
+spanning is over de resultaten die Ritchey zal
+kunnen overleggen als bewijs.
+De voornaamste verbetering betreft het beloop
+van het spiegelend oppervlak. Slijpt men den
+spiegel zoo hol: dat in hfet oppervlak precies een
+bol zou passen, dus overal met gelijke kromming,
+dan worden de evenwijdig invallende en dan
+teruggekaatste stralen niqt in n punt vereenigd,
+wat toclj noodig is voor) een scherp beeld. Men
+verhielp dit reeds lang d(j&gt;or den spiegel niet overal
+een gelijke kromming te geven, ma'ar haar zooge
+
+naamd parabolisch" te slijpen, hetzij door correc
+
+ties bij de randen van den spiegel, hetzij bij het mid
+
+den. In ieder geval bedragen deze Correcties" zelfs
+bij groote spiegel» nog maar laagjes van een paar
+duizendste millimeter. De verticale doorsnee van
+den spiegel is daarna gëeji cirkel-deel meer, maar
+een parabool. Men meene echter niet, dat men nu
+ook werkelijk puntvormiige beeldjes der sterren
+krijgt. Dit is eigenlijk alleen maar het geval met
+de sterren wier beelden jin het.; midden ,van het
+gezichtsveld liggen. ^Naaïmate hun beelden meer
+naar den rand van het gezichtsveld liggen, worden
+zij, hi plaats van punten,1 een soort komeet-achtige
+figuren (zie de linksche serie in onze figuur), des
+te erger, des te meer zij naar, den rand liggen.
+De breede einden dezer anisteekende sterren zijn
+naar den buitenkant van' het gezichtsveld gericht^
+Dat is in de eerste plaats een groot bezwaar bij
+het uitmeten der .photpgraphische platen, wat
+onder de microscoop geschiedt, om de positie der
+sterretjes nauwkeurig te meten. Als de ster op
+de photo een zuiver schijfje is, kan men dit schijfje
+precies onder de kruisdraden van het
+meetmicroscoop krijgen, zoodat men dus werkelijk
+uitgaat van de ware pl^avts v»ni de ster. Maar
+waar moet men de kruisdraden • zetten boven
+zoo'n komeetachtig figtjur? Niet bij de punt
+van de komeet", want &lt;j.eze punt correspondeert
+met den rand van; het g()ede stérreschijf je en niet
+met zijn -midden. Maar]waar dan wel? Dit is
+niet uit te maken, zoodatj het meten tot.
+onzuiverheden voert. l
+Een tweede bezwaar jia, dat het toch reeds
+zwakke licht der ster, itplaats van in n punt
+geconcentreerd te worden, verdeeld wordt over
+een grooter oppervlak,, ^oodat het meer moeite
+kost de zwakke ster te photografeeren. Zelfs is
+het zeer goed mogelijk, ; dat de ster door deze
+vervorming zoo zwak wbrdt, dat zij geen schei
+
+kundige verandering in de photografische plaat
+meer kan aanbrengen, dus niet meer opgeteekend
+wordt; haar lichtsterkte is dan onder de drempel
+
+waarde" der gevoelige plaat gedaald, zoodat de
+langdurigste belichting toch gén succes heeft.
+Ritehey, die-jaren lang de prachtigste
+hemelphoto's gemaakt heeft met de bestaande grootste
+spiegeltelescopen, was er i toch niet tevreden mee
+en heeft gezocht naar een oplossing der moeilijk
+
+heid. Dit is hem gelukti in samenwerking met
+Henri Chrétien. Zij hebben de fout verholpen,
+door den spiegel toch noig een andere welving te
+geven dan de parabolische. Hiervoor moet ik er
+eerst op wijzen, dat bij het door hen gebruikte
+type van telescoop twee spiegels gebruikt worden
+n.l. de groote (primaire) 'en een kleinere (secun
+
+daire) die de stralen weer terugkaatst in de richting
+van waaruit zij ook oorspronkelijk van de ster
+kwamen (CassegTainsche telescoop). Terwijl nu de
+primaire spiegel gecorrigeerd wordt tot een hyper
+
+bolische doorsnede (wat een nog geringer verschil
+is om te slijpen, dan om van de holle een para
+
+bolische te maken), krijgt de secundaire spiegel
+een kromming, die heelemaal geen naam meer
+heeft. Punt voo'r punt, van het midden van dezen
+spiegel tot haar randen, verandert de kromming
+met minimale, maar mathematisch met inge
+
+wikkelde formules te berekenen bedragen (dit is
+eigenlijk het werk van Ohrétien). Het resultaat
+der beide terugkaatsingen, eerst tegen den
+hyperbolischen primairen spiegel en dan tegen den naam
+
+loos gekromden secundairen spiegel is dan dat over
+het geheele veld de sterren werkelijk als
+beeldpuntjes gevormd wordent dus op de photogra
+
+fische plaat grooter of kleiner schijfjes worden, naar
+gelang der sterre-helderheid. De rechtsche serie
+in onze figuur geeft den vorm dezer beeldjes aan,
+in een dergelijken Ritchey-Chrétien-telescoop. Men
+ziet dat de onderste ster, meer naar den rand
+van het gezichtsveld, dus onder ongunstiger
+omstandigheden, toch nog een schijfje is, in plaats
+van de vage komeet" van links. De cirkeltjes,
+die men om de sterreschijfjes ziet, zijn de onver
+
+mijdelijke buigingsringen" die een fout zijn, die
+gemeen is aan alle soorten kijkers, zoowel lenzen
+
+kijkers als spiegeltelescopen. "Voor het bepalen
+van het juiste midden van het schijfje, dus van
+de werkelijke plaats van de ster, geven zij geen
+bezwaar.
+Daar Ritchey nog diverse andere verbeteringen
+invoert dan dezen spiegelvoim alleen, en het
+belang voor de sterrenkunde .^inderdaad buiten
+
+gewoon groot is, kom ik later nog eens op deze
+nieuwe kijkersoort terug.
+
+
+
+Boekbespreking
+
+Hadewijch. Een bloemlezing uit haar poëzie
+en proza. Ingeleid en toegelicht door Dr.
+Johanna Snellen. J. Ploegsma. Zeist.
+
+Deze bloemlezing is bestemd voor wijderen
+dan uitsluitend letterkundig-wetenschappelijken
+kring"; zij zal een ieder welkom zijn, die, zonder
+zich aan Mej. Snéllen's proefschrift en het werk
+van Dr. J. van Mierlo te wagen, wat nader kennis
+wil maken met een dichteres, van wie men in de
+gangbare anthologieën uit de
+Middelnederlandsche poëzie slechts een enkele strofe pleegt tegen
+te komen. Mej. Snellen heeft een tiental liederen
+en enkele markante passages uit de brieven uit
+
+voerig toegelicht, zoodat met betrekkelijk geringe
+moeite ook de leek de taal van Hadewijch: leert
+begrijpen. Helaas heeft Mej. Snellen haar inleiding:
+niet beperkt tot zakelijke gegevens; een ronduit
+gezegd dwaze parallel tusschen Hadewijch en
+Henrittte Roland-Holst, vele meer pathetische
+dan penetrante bladzijden over Hadewijch's kunst
+en ettelijke passages die niet over Hadewijch, Waar
+over Dr. Johanna Snellen gaan hebben deze inlei
+
+ding doen uitdijen tot 39 compacte pagina's, Waar
+
+tegenover de eigenlijke tekst er met 36 bladzijden
+maar bekaaid afkomt. (Hadewijch en Henriëtte
+Roland Holst) zingen geen van beiden zooals de
+vogel zingt zijn zuiver fluitgeluid; zij hebben geen
+van beiden de reine, aan alle smart ontstegen wijding
+cf het licht-zwevende, de trillende jubeling die een
+sopraan eigen kan zijn, maar het alt-timbret dat
+ons kan aandoen als muziek waar de ontroerende
+cello-toon voortdurend in doorklinkt, een van beiden
+vermeien zij zich in vluchtig, ijl, behoorlijk
+woondenspel-zonder-meer. Beider kunst geeft ons het'goud
+uit diepe zielemijn gedolven". Wie zijn ruimte
+gebruikt voor dergelijke ontboezemingen, moet
+niet gelijk Mej. Snellen op blz. 39 de klacht Uiten,
+dat met het oog op den omvang van het boekje
+veel schoons noode moest worden opgeofferd en
+weggelaten. • . ' ' '•"«i
+. ' • E. S.
+Koninkl. Bloemkweekerij Willieliina,"
+Charles van Ginneken &amp; Zoon, Zundert, N.B..
+Het van ouds gunstig bekende adres voor
+Dennen, ter bebosscbing(uitsluitendinheemschzaad)
+Exotische Dennen- en Sparrensoorten,
+Bosch- en Haagplantsoen,
+B o o m e n en Heesters.
+Catalogi op aanvraag gratis en franco
+Ttl. inlerc. Ko. 1. Telegram-Adres: Wilhelmina, Zur.dert
+
+</text>
+<image timestamp="2002:09:26:16:47:49.00" size="294148">D2006RP.TIF</image>
+</page>
+</document>

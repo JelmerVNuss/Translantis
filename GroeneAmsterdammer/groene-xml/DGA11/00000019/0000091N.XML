@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300322</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 22 MAART 1930
+No. 2755
+J* D, STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZING met RIJTUIGEN cl AUTO'S]
+CREMATIE. - TRANSPORTEN.
+Zij t gij kooper van een los nummer"? Vul dan de coupon,
+pagina 2 omslag, in.
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+OUlOr in elke kamer ...
+•-buiten
+en een
+Aoucfe w/s* '€/
+B.
+uiten sneeuw en ijs, of
+misschien nog erger,een koude
+doordringende vochtigheid.
+Binnen, door het geheelehuis,
+heerlijke zomerwarmte.
+Altijd dezelfde gelijkmatige
+warmte .... Warmte zonder
+rook en vuil.. .Warmte, even
+
+goed in de gang, als op de
+trap, als in de huis
+
+kamer regelbaar
+op uiterst eenvoudige
+wijze. Eén vuur—ver
+weg uit het gezicht
+dat rustig en onge
+
+stoord zomerwarmte
+door het geheelehuis
+voert. Zóó is Braat's
+
+* 'T;H)itfi&gt;-i£jV' .
+j^W/^fy
+(V*, ff' ^i;^"
+Vraagt onze brochure
+,,Ccnlrale Verwarming
+van Woonhuizen"
+waarin alle systemen
+van Centrale Verwar
+
+ming worden bespro'
+ken, aan bij Afd. C.V.
+Koninklijke Fabriek
+F. W. BRAAT, N.V.
+DELFT
+Centrale Verwarming. Hoe
+vél comfortabeler, hoe vél
+gezonder, hoe vél economi
+
+scher is dit dan het naloopen
+van een aantal kachels
+of haarden! Als gij n
+
+maal een winter door
+
+gebracht hebt in een
+huis met Braat's Cen
+
+trale Verwarming, zult
+gij verbaasd staan, hoe
+gij het ooit zonder hebt
+kunnen stellen.
+80
+60
+r
+C E
+
+</text>
+<image timestamp="2002:09:25:06:24:55.00" size="108203">0000091N.TIF</image>
+</page>
+</document>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300510</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+!«fe««
+ST,
+'W
+Cadena
+N.V. Civiele en Militaire Kleermakerij
+DEKKER 8 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+
+UTRECHT, NÏCIWE GRACHT 6.
+*;' TELEPOON 13416.
+£K»r iet gd«ele tAND te 'ontMede»
+is
+\-fer~*&gt;
+Vu*,:
+^ H- , *- - f ji - JTP-»
+
+A, van Kempen
+AVIJNHANDEL
+
+Amsterdam
+GcMatfcdMdatniO
+
+Prinsengracht 975
+i* TOOT w
+VAN RIJN'S MOSTERD
+• TOOT w «atlusi.
+AüENTSCriAP
+?#&gt;*
+Lv* * dl
+fcAvlLi. -*JTV
+
+
+PRUUN
+.
+fesfeafeötó
+4UG. UILKËlflA
+GROOTSTE ""
+HORLOGE MAG.
+Reis wekkers
+fi. 12.50 tot fl. 35.
+
+fieg.uliersforeestraat 39
+Zw) juist verschenen:
+
+
+DAS
+
+VOLKSLIED
+INTDEUTSCHLAND,
+FRANKREICH, BELGIEH
+
+UNO HOLLAND
+Untersuchugasn 'Ober die
+Auffasaong des Begriffes; Uberdie
+trtdittonallen Zeiten, die Zahlen-,
+Blvmen- und Farbansymbolik
+door Dr. C. BROUWER
+M*t 3 bujtwittkitptetm «n 7 bi|l»Bin
+~ " Prfls, fleiwiweii f 5,90
+IJet eerste deel van dit werk
+tracht vast te stellen, welke
+beteekenls men in de i 9e en
+20e eeuw aan het volkslied
+toekende. Het tweede deel
+bewijst, hoe nauw de Volks
+
+liederen in de besproken
+landen verwant zijn.
+UITGAVE VAN
+J.B.WOLTERS
+GRONINGEN, DEN HAAG
+EngelschPlated
+Groenteschalen
+
+Saucekomi
+Groentelepels
+
+Saucelepels
+
+Soeplepels Tafellepels en Vorken cnzl
+
+Prijzen op aanvrage
+
+
+Arnhem - ZIJLSTRA &amp; RUPP
+'ABONNEERT U OP:
+
+ADVERTEERT IN:
+De G foene Amsterdammer
+
+GIJ DIENT DAARMEDE
+UW BELANG !
+uitknippen en versturen In briefomslag als drukwerk met l1/. e«nt..
+
+Aan de Administratie van De Groene Amsterdammer
+Keizersgracht 355 Amsterdam C.
+
+Ondergefeekende wenschf zich f e abonneeren
+
+op De Groene Amsterdammer' van l Juni af.
+
+met gratis Neger-nummer en Mei-nummers.
+
+Abonnementsprijs l Juni—31 Dec.:f 6.
+Naam:..
+Adres:
+
+</text>
+<image timestamp="2002:09:21:15:29:01.00" size="593823">0000085H.TIF</image>
+</page>
+</document>

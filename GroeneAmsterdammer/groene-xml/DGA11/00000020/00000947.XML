@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300412</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET
+NEGERNUMMER
+VAN
+AMSTE
+verschijnt Donderdag aan
+
+staande. Het is een bijzon
+
+der geïllustreerd, omvang
+
+rijk nummer, dat de afstam
+
+ming, de taal, de muziek, den dans, de litteratuur,
+de schilderkunst, de plastische kunsten der Negers
+in alle werelddeelen behandelt. Het bevat
+o. a. de volgende bijdragen: Dr. A. Perdeck,
+Over zwarte schrijvers; Carel van Lier, De
+kunst der Negers; Dr. Hendrik Willem van Loon,
+De Negers in Amerika; Albert Heiman, Het
+zwarte goud; Jessie Redmon Fausset, Roem;
+C. K. Kesler, De Neger in onze West; A.
+Plasschaert, Het schilderen naar Negers; Hendrik
+Wachter, een neger-teekenaar; J. Aalderink,
+Neger-plastieken; Constant van Wessem, Muziek
+
+instrumenten van Negers; L. J. Jordaan, De Neger
+Kees van Bruggen,
+in de Film; Lou Lichtveld,
+Neger-talen; Mr. Henrik
+Scholte, Tooneelstukken
+van Negers ; El. de Roos,
+Neger-tooneel in Londen;
+Bal-nègre; C. Höweler, Spirituals; Langström
+Hughes en Claude McKay, Verzen.
+Illustraties naar teekeningen en schilderijen ; voor
+dit nummer vervaardigde teekeningen; fotos in
+en buiten den tekst.
+Werk van de schilders en teekenaars: Jan Sluyters,
+Isaac Israëls, Jan van Herwijnen, Wim Schumacher,
+Else Berg, Is. van Mens, Henri van de Velde e.a.
+De abonnementsprijs van De Groene Amster
+
+dammer" bedraagt tien gulden per jaar. Zij die
+zich thans met ingang van i Mei als abonne
+opgeven ontvangen
+HET NEGERNUMMER GRATIS
+De abonnementsprijs voor den loopenden jaargang, van i Mei 31 De
+
+cember aanstaande, bedraagt zeven gulden. Voor opgave van
+abonnement is een briefkaart aan de administratie, Keizers
+
+gracht 333, Amsterdam C, of invulling en verzending van
+de coupon van pagina vier van het groene omslag
+voldoende. Telefoneeren is nog eenvoudiger.
+Bel ons dus op:
+
+</text>
+<image timestamp="2002:09:25:10:02:47.00" size="114799">00000947.TIF</image>
+</page>
+</document>

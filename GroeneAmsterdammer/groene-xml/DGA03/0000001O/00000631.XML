@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251121</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE KABINETSCRISIS
+t
+BIJVOEGSEL van .De Groene Amsterdammer", Weekblad voor Nederland van 21 November 1925
+Nadruk verboden
+deSLEUTEL
+t*. VERKRIJGEN
+bHdcBELWAARSTER
+KABINET
+Amst. Boek- en Steendrukkeri], v/h. Ellerman, Harms &amp; Co.
+DE VERKLARING VAN DR. NOLENS
+
+</text>
+<image timestamp="2002:09:03:22:56:07.00" size="190096">00000631.TIF</image>
+</page>
+</document>

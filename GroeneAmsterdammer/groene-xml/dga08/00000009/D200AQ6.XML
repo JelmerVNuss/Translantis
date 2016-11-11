@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340224</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 24 Februari 1934
+No. 2960
+t !•
+r
+J. D. STRUIJS &amp; Zn.
+Tet. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+ir
+i
+N.V. Meubelmagazijn Eden
+Molsteeg ~* Amsterdam
+BOEKENKASTEN
+WEEGEWIJS
+RAPENBURG 44 - AMSTERDAM
+MARMER
+MARMERSLIJP
+NATUURSTEEN
+
+Telef. 42662
+j—W. H. POLMAN
+TUINI OVERTOOM 526 - Telefoon 82660
+j Begrafenissen • Transporten - Crematies
+Was voor geen geld te
+koopTHANS SLACHTOFFER
+VAN TAHDFILH!
+tandfilm - Een eerste vereischte voor
+het behoud Uwer tanden.
+, itoeHtedfilm, die ons van onze
+en berooft ? Een'glibberig, kleverig
+je, dat door het speeksel gevormd
+Het kleurt de tanden geel.
+
+• 3\andfilm bevat bacteriën, die een
+lac• ;Öach zuur afscheiden. Dit zuur lost het
+glazuur der tanden op, zooals andere
+iiren gaatjes in hout of stoffen bijten.
+
+Om tandfllm te bestrijden moet ge
+Pepsodent inplaats van gewone tand
+
+pasta's gebruiken. Waarom? Omdat
+het nieuwe polijstende materiaal in
+Pepsodent een van de meest opzien
+
+barende ontdekkingen van dezen tijd
+is. Het verwijdert ieder spoor van
+tandfllm en is tweemaal zoo zacht als
+de polijstende materialen, die algemeen
+in gebruik zijn.
+4136
+BEGRAFENISVERÉENIGING
+N. SAX J r.
+AMSTERDAM Z (Hooidkanioor)
+P. C. Hooftstraat 38
+Tel. 20341 24250
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2276
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+GEMEENTE UTRECHT.
+
+UITGIFTE van
+/1.400.000- 4 pCt. Obligatiën,
+in stukken van / 10OO.—,
+deel uitmakende eener leening: van f 2.5OO.OOO.—,
+waarvan f 1.1OO.OOO.—reeds geplaatst.
+Ondergeteekenden berichten, dat de inschrijving op
+bovengenoemde obligatiën tot den koers van SSVapOt.
+zal zijn opengesteld op
+Donderdag, 1 Maart 1934,
+van des voormiddags 9 uur tot des namiddags 4 uur,
+bij hunne kantoren te AMSTERDAM, ROTTERDAM en
+'s-GRAVENHAGE, alsmede te UTRECHT bij den Gemeente
+
+ontvanger en de INCASSO-BANK N.V. op de voorwaarden
+van het prospectus d.d. 23 Februari 1934, waarvan exem
+
+plaren, benevens inschrijvingsformulieren, bij bovenver
+
+melde kantoren verkrijgbaar zijn.
+INCASSO-BANK N.V.
+NEDERLANDSCH INDISCHE HANDELSBANK, N.V.
+AMSTERDAM, 23 Februari 1934.
+Sta er op, dat
+U Droste
+krijgt!
+Wanneer U naar
+DROSTEkwaliteit vraagt, hebt U het
+recht te eischen, dat men
+U DROSTE's artikelen
+geeft. Dus artikelen, waarop
+de naam DROSTE staat
+vermeld, het zij op het
+artikel zelf, het zij op de
+verpakking. Let U daar voor
+
+al op! Sta op Uw recht en
+eischt voor den door U be
+
+taalden DROSTE-prijs ook
+kwaliteit!
+
+</text>
+<image timestamp="2002:10:28:07:46:43.00" size="145222">D200AQ6.TIF</image>
+</page>
+</document>

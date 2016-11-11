@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050604</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De nederlaag van Rusland ter zee.
+H L v ;i r T 'uïAm
+- r . Weekblati voor Nederland van 4 [uni 1905.
+l \
+%. .**
+$' i
+• • .
+l6 h]tïA!f&gt; H*
+4*e*"»""»*»"~
+Amst. fioek- en Steendrukkerij, v;h. Ellerman, Harms &amp; Co
+MATROOS : Majesteit, ik kom U aanzeggen, dat ook de vloot verslagen is ...
+DK VRIJHEID : Geen enkel verlies kan onherstelbaar zijn, als U mij toestaat Uw volk te zegenen . . .
+
+</text>
+<image timestamp="2002:08:21:20:53:33.00" size="408293">D2002DU.TIF</image>
+</page>
+</document>

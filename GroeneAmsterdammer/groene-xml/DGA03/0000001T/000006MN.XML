@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280602</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 2 JUNI 1928
+Nó. 2661
+SENK'NG
+GA5FORNUIZEN EN COMFOREH
+OVERTREFFEN ANDERE EN...
+ZUN GOEDKOOP.
+
+liet op onze spaarbranders
+van MASSIEF K O PEK met
+automatische Inchtresellng
+Gasfornuizen vanaf f 62.—.
+Overal verkrijgbaar
+Adres voor den handel
+JOH.H.v.D.MEIDEN - Amersfoort
+
+NADRUK VERBODEN
+Q.
+U
+
+U
+N
+
+
+U
+
+K
+U
+o
+J
+voorkomt
+dit door
+hel gebruik
+cm
+BH EEN FILM
+Wanneer de lampen langzaam uit
+
+gegaan zijn en in het donker plot
+
+seling het witte doek helder wordt
+verlicht, wanneer gij U er toe zet het
+wonderlijk boeiende leven mee te
+maken, dat zich daar zwijgend af'
+speelt onder de begeleiding van een
+vleiend zachte muziek, dan kunt gij
+voor de genoegelijkheid van Uw
+stemming geen betere versnapering
+bedenken dan de heerlijke Pinguin
+Bonbons van Van Houten.
+Van Houterf s Pinguin Bonbons geven
+iets bijzonder fijnsin eenaardig doosje.
+
+
+VAN
+
+HOUTEN'S
+
+PINGUÏN
+In drie verschillende assortimenten ;
+
+Pinguïns • f.1. 2(
+Pinguïns • f.1
+Pinguin - f.0.8(
+
+twee ons
+FIJnnOUTNANDEL HAARLEM
+BURGWAL 76-S
+TEL. Iï9 137O9
+TRIPLEX EN MULTIPLEX
+EIKEN - MAHONIE -
+NOTENBEUKEN - IEPEN - ESSCHEN
+TEAKHOUT - FINEEREN
+AUG. KAUPMANN
+
+R C. Hooftstraat 113, Amsterdam Telefoon 23308
+Speciale aanbieding
+ONTBIJTSTELLEN - GEKLEURDE RAND
+met 6 vingerdoekjes f 4,95 per stel.
+ZUIVER LINNEN TAFELLAKENS f 5,50
+bijpassend servet 90 et.
+Ontvangen nieuwe collectie THEE en GLASDOEKEN
+zeer aparte dessins ZICHTZENDING FRANCO
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:17:32:46.00" size="96892">000006MN.TIF</image>
+</page>
+</document>

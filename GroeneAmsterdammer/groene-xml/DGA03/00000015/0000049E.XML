@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100320</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Dompers-lied,
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, var, 20 Maart 1910
+De heele Rechterzijde (behalve de heer De Stuers) ontnam,
+bij vooraf beraamde afspraak, aan de minderheid de gelegenheid
+tot repliek.
+De Visser.
+Schaper.
+Lohman.
+Borgesius.
+
+Tusschen Rome en tusschen Dordt
+Ligt de weg naar 's Hage,
+Al wie ons wil tegenstaan
+Die moet onze manieren verstaan:
+Zóó zijn onze manieren!
+Zóó zijn onze manieren !
+Helsdingen.
+Treub.
+Van de Velde. Nolens.
+Amst. Boek- en Steendrukkerij, v h. Ellerman, Harms &amp; Cu.
+
+</text>
+<image timestamp="2002:08:23:00:27:30.00" size="172745">0000049E.TIF</image>
+</page>
+</document>

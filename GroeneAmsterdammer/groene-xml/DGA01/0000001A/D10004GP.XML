@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960308</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 976
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+9
+Krenten ex Theems.
+Vader THEEMS: «Aanpakken, jongen; ik heb ze wat voor je geparfumeerd."
+JOHN BULL: »Je wilt dat stinkende, rotte goed toch niet....?"
+MEECURIUS: »Wees maar gerust, John! 't Is voor onze vrienden de Dutchmcn."
+.iiimimiimiiiiiiHii
+s \ i 11 ,11; s.
+
+Met meer dan gewone belangstelling heb
+k gelezen, dat de nieuw benoemde professor
+:in de chirurgie te Utrecht, de adsistent van
+Billroth, Narath, een «allerpleizierigsten indruk
+maakt," en dat Van Eyselberg »met een bloe
+
+dend hart" Utrecht heeft verlaten. Dat pro
+
+fessoren een allerpleizierigsten indruk maken
+is niets ongewoons, en dat menschen, die een
+beroep naar elders aannemen, dit doen met
+»een bloedend hart" is ook veelmaals voor
+
+gekomen, maar nu dit geschreven wordt van
+chirurgen treft het me eenigszins. Ik had
+in den laatsten tijd zooveel kwaads hooren
+spreken van de vivisectie, dat ik het haast
+onwaarschijnlijk begon te vinden, dat een
+heelkundige, een man van het mes, nog een
+allerpleizieriast en teer gevoelig mensch kon
+zijn. Intusschen zijn het niet alleen de Heeren
+v. Eyselberg en Narath, die zich ondanks hun
+bloedig bedrijf zoo goed gehouden hebben,
+maar ook de Utrechtsche studenten bleven tot
+dusver allerpleizierigst. Narath, zoo schrijft
+dezelfde berichtgever, gaat met groote inge
+
+nomenheid zijn nieuwen werkkring tegemoet,
+ook omdat v. Eyselberg «zoozeer de studenten
+had geprezen", zqodat den Ween er adsistent
+&gt;daardoor het afscheid van het Allgemeine
+Krankenhaus lichter wordt gemaakt"
+^Nu, als Narath eindelijk Utrecht bereikt zal
+hebben, ga ik daar eens een kijkje nemen,
+want, waar ik ook van houd, het aller
+
+meest van prettige, tevreden gezichten. Al
+
+leen hoop ik. dat Narath zal slagen, in
+hetgeen Van Eyselberg niet schijnt gelukt te
+zijn om zijn goede studenten zóó te on
+
+derwijzen, dat, als de Weener Utrecht weer
+verlaat, met of zonder bloedend hart, deze
+•eeu opvolger zal weten aan te wijzen, die nu
+juist niet geïmporteerd behoeft te worden.
+Een allerpleizierigste Nederlander heeft voor
+•een Nederlandsche Universiteit toch altijd
+iets vóór.
+Hoe Dr. Nanssen naar huis telegrafeert.
+~r\ ,,,4?ó,cit-i &gt; '%LA$\
+/iet hoe de wetenschap moet tobben
+Met Noordpoolkou en doode robben.
+
+</text>
+<image timestamp="2002:09:04:09:00:57.00" size="384713">D10004GP.TIF</image>
+</page>
+</document>

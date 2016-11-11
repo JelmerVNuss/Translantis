@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321126</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+
+•ADRIAAN SCHAKEL
+MEILIGEWEG - TELEFOOM 37273
+Boeken voor kleine kinderen.
+
+
+De looze streken van
+
+REINAERT DEN VOS,
+
+naverteld en geïllustreerd door
+
+RO KOPUIT
+
+Ro Kopuit heeft een snoepgoedje
+samengebracht, met suiker en
+honing, met koek en melk. Het
+wordt een feestgebakje voor de
+Ueinen,heerlijk geurend en lekker
+smakend. Niet een zal den neus
+•van over de bladen willen doen
+ab hij niet alles weet wat er op
+verteld staat, van naaldeken tot
+draadje.
+Dagblad Vooruit, Gent
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het gehec!
+genieten.
+Nieuwe Rotterd. Courant'
+
+Vereenvoudiging en directheid
+spreken ook uit de
+bandteeken"JSf eveneens door de schrijfster
+zelve geteekénd. De roode vos
+achter zijn bontgekleurde kippen
+aanjagend geeft een synthese
+van den inhoud van het
+wijdberoemde verhaal, dat door Ro
+Kopuit op rijm werd naverteld.
+
+Groene Amsterdammer
+Prijs gebonden F. 1.50
+
+In eiken boekhandel verkrijgbaar
+Leesf De Groene i
+N.V. OOEDEWAAGEN'c Kon. Fabrieken - Gouda
+Indisch Restaurant en Lunchroom
+J. VAN QEEMERT
+Laan van Meedervoort 12 - DEN HAAG -Tel.12869
+WIJ zijn verplaatst van
+
+WARMONDSTRAAT 121
+naar:
+
+KEIZERSGRACHT 120
+Kamer 5
+One telefoonnummer werd 41656.
+
+LAAT ONS UW RECLAME
+VAKKUNDIG BEHANDELEN
+
+RECLAMEBUREAU A. R. U.
+
+
+
+Wed.H.Rahder&amp;Zn.
+
+WIJNHANDELAREN
+
+Amsterdam Arnhem
+
+»«»» 's-Gravenhage ™»
+Hofleveranciers
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SP EC IAL E CONDITIËN
+LITTHAUEF
+HAGENBITTER
+QIRMEÏTTs'fDIWGD
+ENTEN: TISSOT&amp;CO ROTTERD A,
+MOBACO
+Het Nederlandsche
+speelgoed
+voor Jongens en meisjes
+11 verschillende doezen met volledige beschrijving
+Overal verkrijgbaar jgj
+
+LEERRIJK
+ONDERHOUDEND
+
+ONTWIKKELEND
+
+PRACHTIGE KLEUREN
+de uitki
+L
+M
+T
+H
+E
+A
+T
+E
+R
+Dagelijks 2.30,7.30,9.30
+
+FILM EN MODERNE
+
+MUZIEK
+prinsengracht bij
+
+de leidschestraat
+telefoon 37460
+k
+VAN RIJN'S
+
+DeBestcMDSTERD
+op
+V/übrengen d.
+
+5D
+
+</text>
+<image timestamp="2002:09:27:14:12:53.00" size="123933">00000ARF.TIF</image>
+</page>
+</document>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940603</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van tle Amsterdammer, Weekblad voor Nederland, van 3 Juni 1894.
+Een slachtoffer van de bedrijfsbelasting.
+M*¥*&lt;*i!»«**»«iHv»«H«w»Wr-"H *iww* »•
+f*
+.{ \
+
+('v • j,
+,x'1J&lt;
+; -;A •
+\ x
+
+
+/^, \ ^ '• \
+/^^Vf &gt;
+^3^
+mr
+i
+•^"V
+"*" -%\
+*i'
+-5?
+,
+
+H:
+•&gt;^atf''
+S
+J
+Amst. Boek- en Steencirukkerij, v/h. Ellerman, Harms &amp; Co.
+Dokter (tot de projcssoren): Een hoogst merkwaardig, mij onverklaarbaar geval.
+
+Projcsiiiren (tot bedroefde huismoeder): Ls er iets bij/onders gebeurd? Heeft meneer zich ook overspannen?
+
+Bedroefde huismoeder: Och neen, heeren; hij heeft alleen geprobeerd, dat nieuwe belastingbiljet in te vullen.
+
+</text>
+<image timestamp="2002:09:03:08:18:47.00" size="226221">D100045J.TIF</image>
+</page>
+</document>

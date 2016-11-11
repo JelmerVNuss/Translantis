@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920207</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 7 Februari 1892.
+&lt;•&lt;•&lt;
+f
+Dwingt ze om in te gaan!
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms S; Co.
+Hoe Keizer Wilhelm, graaf Caprivi en graaf Zedlitz den boozen geest der Duitsche
+sociaal-democratie trachten te bezweren.
+
+</text>
+<image timestamp="2002:10:03:15:43:16.00" size="451789">D2007K5.TIF</image>
+</page>
+</document>

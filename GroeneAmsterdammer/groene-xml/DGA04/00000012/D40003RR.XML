@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19211112</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ENGELANDS PROTEST TEGEN HET TU RKSCH—FR ANSCHE ACCOORD
+
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 12 November 1921
+Nadruk verboden
+Arnst Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co.
+John: Wat zit jij daar weer te smoezen?"
+Maria n n e: ,.Heb jij nooit wat achter mijn rug gedaan?"
+
+</text>
+<image timestamp="2002:08:25:00:45:02.00" size="250532">D40003RR.TIF</image>
+</page>
+</document>

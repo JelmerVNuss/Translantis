@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381217</Datum>
+<Pagina>35</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+LICHT!!
+Dat vraagt de moderne mensch licht in de verwarring van deze
+tijden. De moderne mensch wil zijn tijd begrijpen, hij wil met
+haar meeleven, hij wil zich een zuiver beeld vormen van de overstel
+
+pende reeks gebeurtenissen die zich rond hem afspelen en waaronder
+hij bedolven dreigt te worden. De moderne mensch eischt inzicht.
+
+
+DAT GEEFT DE GROENE"
+
+DE GROENE" is juist het blad dat de moderne mensch noodig
+heeft. DE GROENE" is veelz ij di g, actueel en boeien d.
+DE GROENE" beschikt over een keur van ervaren medewerkers
+op ieder gebied van maatschappelijk en cultureel leven. Geen blad
+laat helderder dan DE GROENE" zijn licht schijnen op alle aspec
+
+ten van de hedendaagsche wereld.
+
+LICHT IN DE POLITIEK
+dat geefi DE GROENE". Zijn artikelen zijn bekend om
+hun objectiviteit en deskundigheid. Wanneer gij geen gelegen
+
+heid vindt om de kranten dag aan dag door te lezen, geven
+de Kantteekeningen" van DE GROENE" U een boeiend
+overzicht van de wekelijksche gebeurtenissen.
+
+LICHT IN DE LITTERATUUR
+dat geeft DE GROENE". De boekenpagina houdt U op
+de hoogte van de belangrijkste nieuwe uitgaven. Stroomingen
+en gestalten der huidige letterkunde worden er in interessante
+artikelen behandeld.
+
+LICHT IN DE KUNST
+dat geeft DE GROENE". Er is geen tweede Nederlandsch
+weekblad dat voor muziek, tooneel, film, schilderkunst en beeld
+
+houwkunst over zoo deskundige medewerkers beschikt als
+DE GROENE". Zij maken de DE GROENE" tot een
+spiegel der Nederlandsche cultuur.
+
+
+EN LICHTE LECTUUR:
+
+Een pagina onvervangbare, kostelijke humor:
+DE KLEINE KRANT * Pakkende reportages * Een
+unieke bladzijde citaten uit de wereldpers * Belangwek
+
+kende populair-wetenschappelijke bijdragen *• Span
+
+nende en voortreffelijk geïllustreerde verhalen
+•*• Aardige puzzle's, prijsvragen, Charivaria,
+schaakproblemen, fotoraadsels enz. enz. *
+
+
+DAAROM KAN DE GROENE" EEN
+
+
+LICHTPUNT ZIJN IN UW WEKELIJKSCH
+
+
+BESTAAN -ABONNEERT U NOG HEDEN
+BON
+Ondergeteekende abonneert zich voor het jaar 1939 op De Groene,
+
+waartoe hij
+het abonnementsgeld
+
+a f 10.
+gireert op postgirorekening 72880 van
+De Groene Amsterdammer Amsterdam
+per postwissel zendt aan de Administratie van
+De Groene, Keizersgracht 355, Amsterdam-C
+Tot het eind van dit jaar ontvangt hij De Groene
+
+gratis benevens, als premie, het Poolnummer.
+Naam:
+Straat :...
+Woonplaats
+Handteekening..
+I7-I2--38.
+Abonnementen kunnen te allen tilde ingaan, doch slechts bl| het
+
+einde van een jaargang na opzegging voor l December eindigen
+
+</text>
+<image timestamp="2002:10:03:01:52:37.00" size="96307">D100098L.TIF</image>
+</page>
+</document>

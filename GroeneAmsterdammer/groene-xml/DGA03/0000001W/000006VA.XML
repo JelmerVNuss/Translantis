@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280825</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 25 AUGUSTUS 1928
+No. 2673
+J* D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+BADKAMEIINRim
+loowel eenvoudige als betere uitvoering
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+W\\\\\ llFHJjiilillll 'IL
+Clichés
+Voor alle doeleinden
+| NV
+P Oiem. Kii nst inrichting
+JDirkSchitabei
+Amsterdam. •
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 2.75 per kwartaal of f
+10.per (aar bi] vooruitbetaling
+JAEGER
+Ondergoederen
+!n div* kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRÖNER
+Nicuwendijk 167, Amsterdam
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+f 65.- af
+GEORGE R LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+LIPS &amp; PETERS
+OORDT
+"niiiiiiMiiiiiiiiMiriMniiiiiituiiiiiiiniiiiiiiiniiiMiiiiiiiiiiiiiiniiiiiiiinMiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiiiiinn
+BEGRAFENISVEREENIGING
+N. SAX Ir.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+•mmi
+itniiiniuiiinmiiDuinmiimniraniiinMMiinninmiNiiimiiiniiiiimniHiDUiiiiin
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Si Vervaardigd op eigen Ateliers
+
+r*BU MH ferkrtygbaw
+N. R. V. MONTA SCHOENEN
+iiiiiiiiiiiiiimiimiiiiiiiiiiiiiiiiiMiiinniiiiiiffliniiiinnBinnini
+FANIATE
+mJ yïi R.y^NTniEL.
+(ÏROOTE tlOlJTSTK.101103"
+TCL.1O575
+HAARLEM
+PERZISCHE TAPIJTEN
+EXPORT MAAR DUIT§Ct1LAMD.
+SPECIALE CONDITIEN
+GERARD B. R IJ K E Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+Verschenen:
+De drie levens van Nina Vesper
+Een oorspronkelijke roman
+door
+JET LUBER
+Prijs ing. f 3.50 prijs geb. f 4.50
+Wat een mooie avonden heeft dat boek mij bezorgd! Laat
+een ieder voor zich dit boek le/.en en er van genieten!
+Democratie en Vrije Arheïd.
+. . . .een sterk geschreven en een sympathiek boek.
+Weekblad voor Rotterdam.
+Een knap geschreven boek, ....een geschiedenis, die men
+met klimmend genoegen en groeiende belangstelling leest, tot
+de laatste bladzijde.
+N. A jield. Crt.
+Een frisch en goed geschreven boek.
+Opr. Haarl. Crt.
+U I T G A V K
+Van Holkema &amp; Warendorf's Uitgevers-Maatschappij
+AM S TE H D A M.
+
+</text>
+<image timestamp="2002:09:05:04:11:28.00" size="114585">000006VA.TIF</image>
+</page>
+</document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910524</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Toebereidselen voor de ontvangst van een buitenlandsch
+potentaat te Amsterdam,
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, »»p 24 Mei 189».
+De politie geoefend in den paradepas.
+J
+Eqoestrische oefeningen van ,,den hooge"
+bij de schutterij.
+Nhu !
+;&gt; : * 1
+)ptocht van Gorma^insche Bier-Hebe's.
+Ministei B.rg.ns. .s: Wat moet ik hem laten zien ?"
+Minister Kr..s: ,,En ik dan?''
+Minister H.rts.n: Ja, jongens, dat moet je zelf
+weten. Ik heb mijn leeuwtjes besteld en mijn
+diplomaatjes netjes gedresseerd."
+De maagd op den Dam
+m toepasselijke uniform.
+P.EiCHES ESSEMHAUïS&amp;S
+' V-^/ v^-^Sj
+i r===^
+
+
+</text>
+<image timestamp="2002:08:19:06:52:54.00" size="233239">000002X5.TIF</image>
+</page>
+</document>

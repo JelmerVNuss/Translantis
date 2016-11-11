@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400209</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+instinct en ideaal
+Paul Valéry
+
+DEZE wereld van onderlinge betrekkingen lijkt
+ons door de gewoonte even stabiel, even spontaan
+als de lichamelijke wereld; en hoewel het werk van
+menschen, hun ondeelbaar en onheugelijk werk,
+lijkt zij niet minder ingewikkeld dan gene. Ik neem
+mijn hoed af, ik leg een eed af, ik doe duizend vreemde
+dingen welker oorsprong even verborgen is als die
+der stof. Als men op de wereld wil komen, sterven,
+het minnespel bedrijven, dan hangt dat samen met
+een massa abstracte en ondoordringbare dingen.
+Op den duur komt het zoover dat het mechanisme
+eener samenleving door zoo indirecte drijfkrachten,
+zoo verwarde herinneringen en zoo talrijke pleister
+
+plaatsen wordt verzwaard, dat men ploetert in een net
+van niet meer uit elkaar te houden voorschriften en
+betrekkingen. Het leven van een georganiseerd volk
+is geweven uit verveelvoudige banden waarvan de
+meeste tot in de geschiedenis teruggaan en slechts
+bij de oudste tijden aanknoopen door omstandigheden
+die nooit meer zullen terugkomen. Niemand weet
+meer de door hen afgelegde baan, noch kan hun
+eischen opvolgen.
+Is eenmaal de orde goed gevestigd, d.w.z. de
+werkelijkheid voldoende vermomd en het beest vol
+
+doende verzwakt, dan wordt de vrijheid des geestes
+mogelijk.
+In de orde worden de breinen geleidelijk stoutmoe
+
+diger. Begunstigd door de gevestigde zekerheden,
+en dank zij het verbleeken der motiveeringen van het
+
+geen gebeurt, bespeuren de geesten die opstaan en
+brieschen slechts den hinder of de vreemdheid der
+levenswijzen van de samenleving. Het vergeten der
+voorwaarden en uitgangspunten van de sociale orde
+is voltooid; en deze uitwissching is bijna altijd het
+snelste juist bij hen die deze orde het meest gediend
+of begunstigd heeft.
+
+DE geest, des te losser van de diepste eischen der
+orde naarmate deze beter werden toegepast
+om hem er van te ontslaan aan ze te denken, wordt
+dronken van zijn betrekkelijken welstand en ont
+
+plooit zich in zijn eigen inzichten en louter combina
+
+ties.
+Hij waagt het te speculeeren
+zonder het oneindig ingewikkelde
+stelsel te ontzien, dat hem zoo
+onafhankelijk maakt van de
+dingen en zoo los van de
+primitieve noodzakelijkheden.
+Het vanzelfsprekende verbergt
+voor hem den dieperen grond.
+Dan breken de redeneeringen
+los; de mensch waant zich
+geest. Van alle kanten ontstaan
+de vraagstukken, de bespot
+
+tingen en de theorieën; de
+eene zoowel als de andere
+functies van het mogelijke en on
+
+gebreidelde oefeningen van het,
+van de daden gescheiden, woord.
+Overal sprankelt en beweegt de
+critiek dier idealen, welke het
+intellect tijd en gelegenheid
+hebben gegeven, ze te
+becritiseeren.
+Ondertusschen worden de
+instincten van behoud en voort
+
+zetting verzwakt of ontwricht.
+Aldus, langs den omweg der
+ideeën en in den maalstroom
+harer beweging, moeten de
+wanorde en de toestand van het
+feit weder verschijnen en her
+
+leven ten koste van de orde.
+Deze terugkeer tot den toe
+
+stand van het feit kan soms tot
+stand worden gebracht langs
+een volkomen onvoorzienen weg,
+en de mensch weer barbaar wor
+
+den van een nieuw soort, dat der
+
+halve ook door zijn stoutste ge
+
+dachten niet werd verwacht.
+Er zijn er heden ten dage
+die van meening zijn dat de
+verovering der dingen door de
+posietieve wetenschap bezig is
+ons naar een barbarendom, zij
+het van hoe ijverige en strenge
+gedaante, te voeren of terug
+te voeren; maar dat slechts hier
+
+om vreeswekkender is dan de
+oude vormen van barbarendom,
+omdat het nauwkeuriger, een
+
+vormiger en oneindig machtiger
+is. Wij zullen terugkeeren tot
+het tijdvak van het feit, maar
+van het wetenschappelijk feit.
+Nu berusten de samenlevingen daarentegen op de
+Vage Dingen; ze zijn althans tot nu toe gegrondvest
+op zoo geheimzinnige noties en wezenheden, dat de
+opstandige ziel nooit goed zekerer van is, zich er van
+ontdaan te hebben, en aarzelt om slechts te vreezen
+wat zij ziet. Een tyran uit Athene, die een diepzinnig
+man was, zei dat de goden uitgevonden zijn om de
+geheime misdaden te straffen.
+Zou een samenleving die alles wat vaag of irra
+
+tioneel is, terzijde had gesteld om zich aan het meet
+
+bare en controleerbare te houden, kunnen voortbe
+
+staan? Het vraagstuk bestaat en is dringend voor
+ons. De geheele moderne tijd vertoont een aanhoudende
+toeneming van de nauwkeurigheid. Al wat niet tast
+
+baar is kan niet nauwkeurig worden, en blijft in
+zekeren zin achter bij de rest. Men zal het noodza
+
+kelijkerwijs van den weeromstuit hoe langer hoe
+meer als nutteloos en onbeteekenend gaan beschouwen.
+
+DE orde drukt altijd op het individu. De wanorde
+doet hem verlangen naar de politie of den dood.
+Dat zijn twee uiterste omstandigheden, waar de
+menschelijke natuur niet op zijn gemak is. Het indi
+
+vidu zoekt een volkomen aangenaam tijdsgewricht,
+waarin hij het meest vrij en het meest gesteund is.
+Dat vindt hij tegen den aanvang van het einde van
+een maatschappelijk stelsel.
+Dan heerscht, tusschen de orde en de ordeloosheid,
+een heerlijk oogenblik. Daar alle mogelijke goeds,
+verkrijgbaar door de organisatie van machten en
+plichten, verworven is, kan men thans genieten van
+de eerste ontspanningen van dit stelsel. De instel
+
+lingen staan nog overeind. Ze zijn groot en impo
+
+neerend. Maar zonder dat er iets zichtbaars in haar
+veranderd is, hebben ze niet veel meer dan deze
+schoone aanwezigheid; heur deugden zijn alle aan
+den dag getreden; heur toekomst is heimelijk uit
+
+geput; heur aard is niet gewijd meer, ofwel alleen
+nog maar gewijd; critiek en minachting verzwakken
+ze en ontdoen ze van iedere waarde in de toekomst.
+Het maatschappelijk lichaam verliest allengskens
+zijn mogelijkheid van voortbestaan. Het is nu het
+uur van genot en algemeene vervulling.
+Het bijna altijd prachtlievende en wulpsche einde
+van een politieken bouw wordt gevierd door een ver
+
+lichting, waarin alles wordt opgemaakt wat men
+tot dan gevreesd had te verteren.
+De staatsgeheimen, de persoonlijke schaamte,
+de gedachten waar men niet voor uitkwam, de lang
+onderdrukte droomen, heel het diepste innerlijk
+der overprikkelde en blij wanhopende wezens worden
+te voorschijn gehaald en de publieke opinie voor
+
+geworpen.
+Een nu nog feeërieke vlam, die zich tot een brand
+zal ontplooien, verrijst en snelt over het aangezicht
+der wereld. Zij verlicht vreemd den dans der begin
+
+selen en der hulpbronnen. De zeden, de vaderlijke
+erfdeelen smelten weg. De mysteriën en schatten
+gaan in rook op. De eerbied gaat te niet en alle banden
+verslappen in deze gretigheid van leven en dood die
+tot razernij zal stijgen.
+
+
+IK ben er echter van overtuigd dat als de Farcen
+een of anderen vrijen man gegeven hadden, onder
+alle bekende eeuwen die van zijn voorkeur te kiezen
+om daarin zijn leven te slijten, deze gelukkige man
+niet anders dan den tijd van Montesquieu genoemd
+zou hebben. Ik ben niet zonder zwakheden; ik zou
+doen als hij. Europa was toen de beste der mogelijke
+werelden; het gezag en de vrijheden ontstonden er;
+de waarheid behield eenige gematigdheid; de stof
+en de wilskracht regeerden niet onmiddellijk; ze
+heerschten nog niet. De wetenschap was tamelijk
+fraai en de kunst zeer verfijnd; er bleef godsdienst
+over. Er was vrij veel grilligheid en voldoende streng
+
+heid. De Tartuffen, de stompzinnige Orgon's, de
+sinistere Messieurs", de bespottelijke Alcesten waren
+gelukkig begraven; de Emile's, de René's, de ignobele
+Rolla's moesten nog geboren worden. Men had ma
+
+nieren, zelfs op straat. De kooplieden wisten een
+volzin te bouwen. Zelfs de handelaren, de deernen,
+de spionnen en de straatschuimers drukten zich uit
+gelijk niemand tegenwoordig. De fiscus vorderde
+met gratie.
+De aarde was nog niet geheel ontdekt; de volkeren
+hadden de ruimte in een wereld waarvan de kaart
+nog geweldige leege plekken had en in Afrika, Amerika
+en Oceaniëlichte gedeelten vertoonde die iemand aan
+het mijmeren brachten. En zelfs de dagen waren
+evenmin ook maar eenigszins gevuld en gehaast,
+maar traag en vrij; de spoorboekjes hakten de ge
+
+dachten niet in stukken en maakten van de indivi
+
+duen geen slaven van den gemiddelden tijd en van
+elkander.
+Men schreeuwde tegen de regeering; men geloofde
+nog dat er wat beters te doen was. Maar de zorgen
+waren niet mateloos.
+Er was een aantal mannen, levendig en sensueel,
+wier vernuft Europa in beweging hield en koppig
+alle goddelijke en andere dingen lastig viel. De dames
+bemoeiden zich met de opkomende differentiaal
+
+rekening, met de voor de liefde bijna onontbeerlijke
+microscopische diertjes die voor het oog achter de
+lens dartelen; zij bogen zich als feeën over de wieg
+van glas en koper der jonge Electriciteit.
+Zelfs de poëzie trachtte duidelijk en zonder dwaas
+
+heden te zijn; maar dat is een onmogelijkheid: zij
+slaagde er slechts in, mager te worden.
+Toen verscheen er een geest, zoo slank en zoo
+louter dat alle uitspattingen van elk soort hem voor
+
+kwamen als tot niets verplichtende oefeningen van
+een verfijnd schepsel dat nergens inloopt, zelfs
+niet in het ergste. Zelfs het obscene bespatte hem
+niet met slijk. Men was zoo geestig, zoo ongeloovig,
+zoo verliefd op licht, dat men voelde niet bezoedeld
+noch verminderd noch verzwakt te kunnen worden
+door de stoutmoedigste gesprekken of de
+benauwendste ervaringen. Die gingen tot aan dien oppersten
+kunstgreep, welke er in bestaat de natuur uit te vin
+
+den en naar eenvoud te streven. Dit soort van fantasie
+geeft altijd het eind van het schouwspel aan, en het
+laatste oogenblik van den smaak.
+Deze samenleving, als zoodanig, kende zichzelf
+evengoed, en misschien beter, dan een samenleving
+zich ooit heeft gekend. Het ontbrak haar niet aan
+spiegels. Zij keek er zoo vaak, zoo teeder en wreed
+in als elk sterfelijk wezen. De Montesquieu's, de
+Diderot's, de Voltaire's en een oneindig aantal ge
+
+ringere getuigen deden haar heur gelaat en hou
+
+dingen zien. Zij zag zich daarin nog vrijer, stout
+
+moediger, rusteloozer en sensueeler dan zij ongetwij
+
+feld was; en soms veel ongelukkiger.
+Maar zelfs ongelukkig, en zelfs stervend, kan een
+samenleving niet naar zichzelf kijken zonder te
+lachen. Hoe kan men verdragen zichzelf te zien?
+Ziedaar het probleem waarvoor Montesquieu
+ons stelt.
+BURNETT'S
+• LONDON DRY GIN •
+PAG. 5 DE GROENE No. 3271
+
+</text>
+<image timestamp="2002:09:13:00:30:11.00" size="355626">000007BS.TIF</image>
+</page>
+</document>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>53</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+53
+
+4?'Veel lekkerder!
+Chocolade en daarbij	de
+lange beschuitjes van Verkade,
+bestrooid met suiker en kaneel.
+Fijn voor de kinders, trou
+
+wens - probeer ze zelf eens,
+'t kopje cacao smaakt met
+Verkade's lange Beschuitjes
+heel anders.... veel lekkerder.
+13 cent per pakje.
+VERKADE'S
+LANGE BESCHUITJES
+\
+i
+:f
+r
+STEINLEN: En de Fransche geest5 Zijn
+er nog Willettes, Chérets, Caran d'Aches?
+Leeft er nog een Chat Noir? Zingt er nog
+• een Bruant ?
+SHERLOCK HOLMES: De Fransche
+spotbladen zijn alleen nog maar vies.
+HEYERMANS: Speelt men mij nog?
+SHERLOCK HOLMES: Nu en dan. Maar ik
+zei u reeds dat de democratie in discrediet is.
+COUPERUS: En de litteratuur? Hoe staat
+het daarmee in mijn land, Holland ? Ik was
+cosmopoliet, ik was de eenige cosmopoliet
+in Nederland. En toch, een criticus heeft
+gezegd: Eline Vere is nieuw.en hollandsch,
+het is hollandsch, het zou geen fransch kun
+
+nen zijn. Hij moet nog leven. Hij viel de
+menschensoort gegoede burgerij" aan, fat
+
+soenlijke Heeren en Dames, aangekleede
+gemeenplaatsen. Fatsoenlijke menschen die
+veel liefhebberij in de letterkunde hadden
+en hebben. Zijn er nog zulke critici? Zijn
+ze nog noodig?
+SHERLOCK HOLMES: Ze zijn even noodig
+als ik. Ik tegen de misdadigers. Zij, als
+het niet meer tegen de fatsoenlijke menschen
+in de litteratuur is, dan toch tegen de
+blagueurs, de poseurs, de fabrikanten, de
+ethici, de snobs en de scha- duwen. Maar
+een zooals u bedoelt, is er niet.
+COUPERUS: U is scherpzinnig. U observeert
+en deduceert. Wat is de geest van de wer
+
+eld, die u zoo juist verlaten hebt ? Wat
+interesseert haar? \Vat beheerscht haar?
+SHERLOCK HOLMES (peinzend, afwezig): Je
+gaat weer uit van een vooropgezette meening,
+Watson. Waar is Watson? Ik mis Watson.
+COUPERUS: Beschouw ons allemaal als
+Watsons. Doe ons een plezier en noem ons
+zoo. Wij zijn Watsons.
+SHERLOCK HOLMES: Dank u. (Hij opent
+zijn valies en -pakt het uit) Wat heb ik hier,
+Watson ?
+IBSEN : Dat is blijkbaar de psycho-analyse.
+COUPERUS: En dat een neger.
+HEYERMANS: Een auto.
+SARAH BERNHARDT: Een film.
+ZoLa: Een luidspreker.
+BEARDSLEY: Een lichtreclame.
+WILDE: Een vliegenier.
+STEINLEN: Een bakvisch....
+SHERLOCK HOLMES: Je gaat vooruit,
+Watson. Er komt methode in je manier
+van observeeren. Toch heb je alles over
+het hoofd gezien wat werkelijk de moeite
+waard is.
+ALBERT LANGEN: Wat hebben we dan
+over het hoofd gezien ? Wacht eens, daar zie
+ik iets heel vaags. Kijk eens aan, den Vol
+
+kenbond !
+SHERLOCK HOLMES: Ja, die is er ook nog.
+Maar die is ook niet van zooveel belang.
+Komaan, nog eens geraden	Niets?
+Watson, Watson, ik vrees dat je het nooit
+teert. Zie, nu pak ik alles weer in het valies.
+Wat zeg je nu van het valies?
+SARAH BERNHARDT: Het is vol.
+SHERLOCK HOLMES: Mis, Watson. Het is
+leeg. Dat is het juist. Het eenige waar het
+op aankomt, is dat het valies leeg is. Kijk,
+ik weeg het op mijn hand. Het weegt allemaal
+niets. Wi] je nog een bewijs dat liet leeg
+is? Er kan nog van alles bij. (Hij neemt
+handenvol theorieën, machinerieën, /lobbies en
+modes uit zijn zakken en stopt, ze er in.)
+Het is nog leeg.
+IBSEN: U zult wel gelijk hebben	En
+toch.... Maar wat is dat?
+Zoi.a: Gisting.
+(Het valies springt open. Ei' stijgen dampen
+uit op. Sherlock Holmes kijkt er in als de,
+dampen vervlogen zijn.)
+SHERLOCK HOLMES: Ik zie iets op den
+bodem.
+IBSEN: Laat mij eens kijken. Ik heb ver
+
+stand van symboliek. Dat houd ik vol.
+SHERLOCK HOLMES: Dat is juist een van
+de weinige dingen, waar ik geen verstand
+van heb.... Wat zie je?
+IBSEN: De Hoop. Uw valies is de doos
+van Pandora.
+
+</text>
+<image timestamp="2002:09:22:12:20:15.00" size="235467">000008SV.TIF</image>
+</page>
+</document>

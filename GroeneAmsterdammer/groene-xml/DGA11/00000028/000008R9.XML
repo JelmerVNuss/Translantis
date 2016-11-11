@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301213</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+foene
+mracr
+Dekblad voor Nederland
+Over dien goeden ouden tijd" en het
+Kerstnummer van ' D E GROENE dat in
+den loop der volgende week verschijnt en aan
+nieuwe abonné's gratis wordt toegezonden
+l Uitkni
+ppen en verstu ren in br i ef o m MS J_a _
+1
+Aan de Adm. van De Groene Amsterdammer" Keizersgracht 355 Amsterdam C.
+Giro 72880. Gemeente Amsterdam G. 10OO. Telefoon 37964.
+| Ondergeteekende wenscht zich voor het jaar 1931 op De Groene Amsterdammer"
+te abonneerén en de nog in 193O verschijnende nummers, waarbij het Kerstnummer,
+gratis te ontvangen. Abonnementsprijs TIEN GULDEN per jaar.
+Naam : ................................................................................. Woonplaats : ...............................................................................
+
+</text>
+<image timestamp="2002:09:22:11:26:05.00" size="138588">000008R9.TIF</image>
+</page>
+</document>

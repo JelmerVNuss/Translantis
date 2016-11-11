@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001202</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOQR NEDERLAND.
+De Kruger-hulde in Frankrijk.
+JOHN BULL : »Me dunk', het wordt tijd om dat Frankrijk] ook te annexeeren !"
+
+Rusland en China. (Noterelle).
+In Walhalla. (Lustige EliMer).
+
+
+
+J^Y.
+Maak je niet ongerust: ik heb nog niet gezegd, dat ik hier niet
+vandaan wil, maar zoolang ik me hier thuis voel en ons algemeen belang
+f het vordert, blyf ik hier en zeg :. »ce HUI est Ion apnndre, est bon a yarder."
+
+'Geen afscheid meer zonder speech! (Hum. Blütter, Wiec).
+BALDUR (de »Külnische Zeituncf' voorlezend) : «Officieel ver
+
+nemen wij, dat vorst Hohenlohe geheel vrijwillig zijn betrekking
+heeft neergelegd.
+BISJIARCK en| .CAPHIVI : O, o! Ha, ha! Ja, diit kennen we,
+o, o, ha, ha, ha !"
+Een nieuw Europeesch vocaal concert. (Lustige Sliitter).
+WILHELM (tot de zwaluwen): »Ga heen o, vogels, maar vergeet .]
+niet dat ge Dttit&amp;chera z^t, doe uw plicht!"
+In China, (Fi&amp;ckietto).
+
+ilNA- '
+De nieuwe Chineesche muur van Siberische architectuur en de open deur.
+
+
+De goud-bakker. (SiUiouette).
+De Bakker Chsmberlain smelt in den Transvaalschen oven soldaten, te
+voet en te paard en de oude Bakkerin der.kt daardoor goud te krijgen.
+
+
+Nieuwe markten voor krijgsmaterieel.
+(Piek-me- D p).
+Vertegenwoordiger van een Virminghamsdt huis : »L~ zal
+wel zoo goed zijn en zorgen dat dit oorlogsmaterieel
+gelijkelijk wordt verdeeld tusschen de verbonden mogend
+
+heden en 't Chineesche gouvernement. Aan ieder de helft.
+Zóó zullen we goede zaken doen !"
+Philippijnen—Transvaal. (L'*fe, X.-Y.)
+De vreemdeling: »Kn sedert wanneer ben je geciviliseerd?"
+De inboorling: «Sedert mijn huis en hof verwoest z\jn geworden en mijn
+vrouw en kinderen vermoord werden !"
+
+</text>
+<image timestamp="2002:08:15:08:33:47.00" size="442115">D2000PR.TIF</image>
+</page>
+</document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18870320</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'VBIJVOEGSKI, van de Amsterdammer, Weekblad voor Nederland, van 20 Maart 1887.
+^r' L onbvwp M opi
+
+, ,^f-*r
+Help man! Help vrouw! Help al wie helpen kan!
+Maak 'tDamrak als voorheen de Koning komt er an.
+Graaft, werkt, brengt heurtlui aan,
+Laat water in met spoed,
+Wordt 't Damrak als voorheen,
+Wis doet het Sire goed.
+(INCKZONPK.N DOOK KKN DAM-KAKKER).
+
+</text>
+<image timestamp="2002:10:02:01:17:34.00" size="402741">00000AZ2.TIF</image>
+</page>
+</document>

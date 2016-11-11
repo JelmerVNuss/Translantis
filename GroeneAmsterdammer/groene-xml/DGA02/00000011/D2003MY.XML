@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240607</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2451
+HET DUCKET"VERKEERS
+
+SYSTEEM
+door S. SNUYFF
+k.
+Een onbevooroordeelde beschouwing van het
+vraagstuk der oeververbinding in steden met druk
+groot-scheepvaartverkeer voert tot de conclusie,
+dat met de tot dusverre toegepaste verkeerssyste
+
+men, waaronder genoemd mogen worden: hooge
+en lage bruggen, tunnels (met of zonder liften,)
+bruggen met liften, z.g.n. transbordeurs", en
+ponten van verschillende aard en constructie,
+van een alleszins bevredigende oplossing niet
+gesproken kan worden.
+Waar de groote bezwaren van het stijgen der
+aanloophellingen door de toepassing van mechani
+
+sche hulpmiddelen konden worden overwonnen, zoo
+
+als bijvoorbeeld bij tunnels en bruggen met verti
+
+cale liftenstelsels (Hamburg en Londen) onder
+
+vond men het bezwaar, dat de vervoercapacitïit
+onvoldoende was, terwijl de verkregen
+voordeelen niet opwogen tegen de hooge kosten van aanleg
+en bedrijf. De z.g.n. transbordeurs, welke in ver
+
+schillende plaatsen o.a. in Spanje en Frankrijk wor
+
+den toegepast, hebben het nadeel, ca t zij niet onaf
+
+hankelijk zijn van het scheepvaartverkeer, terwijl
+ook het stadsschoen door de hooge staalconstruc
+
+ties zeer wordt geschaad.
+Teneinde een werkelijkbevredigendeoplossingvan
+het vraagstukvoorde verschillende verkeers groepen
+te verkrijgen is door steller dezes een nieuw ver
+
+keerssysteem ontworpen, dat berust, ten deele op
+de toepassing van mechanische middelen tot het
+overwinnen der hoogteverschillen en ten deele op
+vrij verkeer, doch in beide gevallen methet verschaf
+
+fen van een directe, korte en snelle verbinding der
+oevers.
+Het karakteristieke van het systeem ligt
+voor1. De Velotrack". Bovenaan: langsdoorsnede van het tunneltraject, onder links: dwars
+
+doorsnede van de transportketting met schermkast en lederen handvat, onder
+rechts: ged. dwarsdoorsnede van den tunnel met rijwieltraject.
+!
+2. Een der eindstations met een liftwagon'
+
+
+namelijk in de aanwending van zeer steile aanloop
+
+hellingen, zoowel voor de mechanische tra
+
+jecten als voor de vrije" (welke laatste echter
+toch door een mechanisch hulpmiddel gecomple
+
+teerd worden, zooals wij straks zullen zien.)
+De vrije trajecten nu zijn bestemd voor dat
+verkeer, waarbij een steile helling geen bezwaar
+is. Hierbij is in de eerste plaats gedacht aan
+rijwielen, terwijl in de tweede plaats het verkeer
+van personen-automobielen daarbij in aanmerking
+komt. In het gemaakte ontwerp bed raagt de helling
+hier c.a. l : 8.
+In de mechanische trajecten wordt het verkeer
+opgenomen door platforms, rijdende op vier rail
+
+banen, welke zoodanig ten opzichte van elkaar ge
+
+legd zijn, dat de platforms, die vanoevertotoever
+loopen, onafhankelijk van de hellingshoeken der
+af- en oplooptrajecten steeds den ongeveer horizon
+
+talen stand behouden. De platforms zijn rondom ge
+
+sloten en van deuren voorzien om ongelukken en
+het schichtig worden der paarden te voorkomen.
+Fig. 3. geeft een afbeelding van de maquette,
+welke vervaardigd is om het systeem in werking
+te demonstreeren 1) De maquette is een getrouwe
+copie van een project zooals dat tot in details
+ontworpen is voor een havenplaats als bijvoor
+
+beeld Amsterdam (Het IJ).
+Bij dit ontwerp is uitgegaan van een vaargeul
+
+diepte van 13 meter bij hoog water en een vaargeul
+
+breedte van c.a. 100 Meter bij een totale breedte
+van 250 meter voor het vaarwater. Er zijn vier
+mechanische trajecten, voorzien van voertuigen
+ter lengte van 22 meter bij 5.20 meter breedte
+inwendig. In elk traject loopt n voertuig heen
+en terug.
+De te doorloopen afstand bedraagt voor het
+voertuig (Uit wordtS.liftwagon" genoemd omdat
+het tegelijk de functie van lift en van transport
+
+wagen vervult) omstreeks 380 meter en de daar
+
+door benooóigde tijd bedraagt, met inbegrip van
+de langzame beweging dicht bij het eindpunt, ca.
+50 seconden.
+Hierbij is verondersteld dat een snelheid aan
+
+genomen kan worden van c.a. 50 kilometer per uur
+maximum (in het laagste gedeelte). De snelheid,
+die het voertuig zou verkrijgen, indien het vrij
+langs de helling zou kunnen dalen, is aanzienlijk
+grooter, doch de beweging zal worden verlang
+
+zaamd en wel word t daartoe gebruik gemaakt van
+vliegwielen, aangebracht op het bewegend werk.
+Dit laatste dient om de beweging te ondersteu
+
+nen. Immers, de wagon komt, eenmaal vrij gege
+
+ven, vanzelf in beweging, doorloopt het
+dalende en het horizontale traject en
+bestijgt de andere helling weer door zijn
+vaart. De bewegingsinrichting dient ter
+compensatie van de door wrijving en
+luchtweerstand ontstane verliezen. Daar
+de laatste betrekkelijk gering zijn, is
+zoodoende de benoodigde energie in
+verhouding tot de verkeerscapaciteit
+niet grooten al heel gering in vergelijking
+met de energie, welke benoodigd zou
+zijn bij toepassing van een gewoon
+liftensysteem of varende ponten met
+gelijke verkeerscapaciteit.
+Het bewegend werk ter ondersteuning
+der beweging zou kunnen worden aan
+
+gebracht aan het voertuig zelf zoowel
+als daarbuiten, in het laatste geval met
+toepassing van kabels. In de tentoon
+
+gestelde maquette is het laatstgenoemde
+systeem aangewend en de wijze waarop
+dit werkt, kan rr.en daaraan goed
+waarnerren.
+Ook de wijze waarop het railstelsel
+functionneert en de manier waarop door
+de eigenaardige ligging der railbanen
+het evenwijdig (horizontaal) blijven der
+voertuigen wordt verkregen, is voor
+leeken op technisch gebied aan de
+maquette het best te aanschouwen.
+Natuurlijk is de vraag van beteekenis of de
+techniek thans op een zcodanig standpunt staat,
+dat de practische uitvoering van een dergelijk
+project niet op groote bezwaren zou stuiten. Men
+zal hierbij in cie eerste plaats het oog hebben op
+de groote gewichten der liftwagons". Deze toch
+moeteneen grooten las t kunnen d ragen (in
+hetonderhavige project is deze op 40.000 a 50.000 kilogram
+maximum aangenomen) en zullen zoodoende ook
+zelf een groot gewicht moeten bezitten. Het komt
+daarbij zeer aan op het draagvermogen der
+asblokken. De techniek levert echter tegenwoordig
+reeds blokken, die op rollen loopen en zoodoende
+zeer weinig wrijving hebben en toch gewichten,
+die hier in aanmerking komen, zondereenigbezwaar
+kunnen opnemen. Een rollenkussen, 2) dat bij
+een snelheid van 200 omwentelingen per minuut
+een last van 40.000 kilogram vermag te torsen, is
+in bovengenoemde show in de Kalverstraat opge
+
+steld.
+Verder zal de vraag opkomen, of er geen
+moeielijkheden te wachten zijn in verband met d"n bouw
+van het tunnelcomplex.
+Hierop mag woraen geantwoord, dat de moder
+
+ne techniek beschikt over verschillende middelen
+om een dergelijk werk snel en zeker ten uitvoer
+te brengen en waarbij de bodemgesteldheid van ons
+IJ geen beletsel vormt. Zonder uitvoerig over dit
+onderwerp uit te wijden mag er op worden gewe
+
+zen, dat wij tot bedoelde methoden mogen rekenen:
+het neerlaten van het tunmlcomplex in een vooraf
+gemaakte (gebaggerde) sleuf, in zijn geheel of in
+secties, vereer: het neerlaten door midael van de
+pneumatische graafmethode, het bouwen tusschen
+damwanden (in den droge) en tenslotte de toe
+
+passing der bevriesmethode. Ook zou een combi
+
+natie van enkele dezer systemes worden toe
+
+gepast. De eerstgenoemde methode schijnt de
+meest economische voor het project in quaestie
+en is dan ook de grondslag geweest voor een
+speciaal ten dienste van het,, Ducket" ontwerp
+opgezet bouw- en fundeerplan.
+Omtrent dit bouwplan zijn reeds proeven ge
+
+nomen teneinde na te gaan of daarmede een water
+
+dichte constructie te verwachten zou zijn. Dezj
+proef werd (geheel uit belangstelling voor het
+vraagstuk) door de N. V. De Kondor ten
+uitvoer gelegd en had een volmaakt gunstigen uit
+
+slag. Het proefstuk bleek volkomen waterdicht
+onder een druk die twee keer zoo hoog was als in
+de werkelijkheid zou voorkomen.
+Terugkeerende tot de beteekenis van het project
+voor het verkeer zij thans de aandacht gevestigd op
+de hiervoor genoemde vrije trajecten", waarbij,
+zooals gezegd, toch nog van een mechanisch hulp
+
+middel gebruik gemaakt wordt. Hiermede wordt
+bedoeld de inrichting door schrijver ontworpen en
+Velotrack" genoemd. Deze inrichting dient om
+het wielrijdenüpubliek het bestijgen der
+opioopende helling te vergemakkelijken. Er is een vrij
+traject, gedacht aan eiken uitersten zijkant van
+het tunnelcomplex en wel dient elk dezer twee tra
+
+jecten voor het verkeer in slechts n richting.
+De breedte is ca. 4 meter. Het dalen in de trajecten
+(die een helling bezitten van c.a. l
+:8)gaatnatnurlijk gemakkelijk genoeg evenals het doorrijden
+van het horizontale gedeelte. Het oploopende ge
+
+deelte is echter vrij moeilijk te trappen en nu is
+daarin voorzien door het ontwerpen van een hulp
+
+systeem, bestaande uit een ketting zonder einde,
+lüopende langs den zijwand op een hoogte van ca.
+2 meter boven den vloer en op jfstanden van 3a4
+meter voorzien van lederen handgrepen(opde wijze
+van de lussen" in de tram). De ketting loopt
+met een snelheid van 10 a 12 kilometer per uur.
+De wielrijder zal dan, voordat de verkregen vaart
+is uitgeput, een handvat grijpen en zich zoo
+
+doende op een gemakkelijke wijze tot den uitgang
+van den tunnel laten voeren ! (Zie fig. 1).
+Als hij (of zij) na het docrloopen van het ca. 100
+meter lange horizontale traject nog eenige
+vaart over heeft, is er in het stijgende traject nog
+ca. 100 a 120 meter te duorloopen. waarvoor dan
+met behulp van de Velotrack" 30 a 40 seconden
+noodig is.
+Indien op een gegeven oogenblik bijzonder veel
+personen-automobielen over te brengen zijn, zou
+3. De maquette (ingericht als diorama) welke het Ducket" systeem in werking vertoont
+en gemaakt is op een schaal van l: 100. Het schip is een model van het S.S.
+Banka' .
+
+</text>
+<image timestamp="2002:09:03:09:59:48.00" size="346867">D2003MY.TIF</image>
+</page>
+</document>

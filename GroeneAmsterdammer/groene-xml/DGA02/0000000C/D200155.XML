@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011124</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1274
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Een feuilleton over de dienstboden.
+CH. BOISSEVAIH: »Lieve meisjes en dames, ziet er m\j niet op aan; dat leuilleton was een vergissing... er zga net zooveel earlijke dienstanisjss ais earlijis mevrouwen en al kan ik u allen niet aan mijn hart drukken,
+yk |\j verdient... ik geef n, zooals ge bier staat, myn zegen."
+
+ehamfierlain's Perhangniss. ^e Mytilene-marsch. (Solo voor Fransche hoorn).
+(Punch).
+JOHN BULL : «Hallo ! ia er goud op dat eiland ? . . . Niet 'f Dan
+kom ik jelui ook niet beschaven!" (Li/e, N.-York).
+Sudi . Goldsuehcr. 9uch ! uch' Gold' &amp;ucf&gt;'. sucl
+I* grabc und grabc: find tjold nicht qcnuq'
+DE SULTAN : »Ik hou niet van solo's ! Geef me liever het oude
+Europeesche concert !"
+blut worden Codtcn^rlibcr'
+(Lustige Illütter).
+De moderne Cincinnatus.
+In 't zelfde geval. (Philudeliihia record).
+,
+,rf
+
+Joii-v HLI.T. : /k Gsloof, Sam, datje in njt zoo n ,'astig
+zit als ik !'•'
+Op 't ernstig verzoek van de liberaal Impsrialistische party zal Lord
+Rjsebeiy z\jn ploeg verlaten.
+do
+o n rr ó s
+OP
+De Amsterdammer
+WEEKBLAO VOOR NEDERLAND.
+Tegen inzending van de/.e lum, mot bijvoeging van &lt;?.5 CV»*7, kan
+men aan ons Bureau HEEEENGEACHT 457 een ex. bekomen van
+de premie : liet album :
+1Z
+Portretten en Aanteekeningen.
+De uitgevers VAN HOLKEMA &amp; WARENDORF, Amsterdam.
+De ondergeteekende i ''"' van het \\ eekblad l)e Atnuter/liti/itncr
+te ontvangen :
+HET ALBUM OX/E AFGEVAAIiDIGDEX.
+
+l! (jii/iiltiit/f :
+
+</text>
+<image timestamp="2002:08:16:22:18:43.00" size="418909">D200155.TIF</image>
+</page>
+</document>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010623</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1252
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Borgesius en zijn Armenwet.
+Altijd die oorlog. (Moonshine).
+'-l--K.--. K
+' Jufïr. BJ.OLGS: «Waarom zijn de kaarsen nou alweer orgeslage •, meneer Binns?"
+Mr. BINXS: «Door den oorlog, juffrouw ?"
+"7'Juft'r. BLOI,?: »\Vel 't is Eonde ! vechten za dan ncu ook al lij ta-.rJicht V
+Sjonges ! ej&lt;mges !''
+
+
+De Russische leeni^g.
+(Le liire.)
+DE ARME (tot Minister KOKGKSIUS) : AS'at tebt gij voor or.s gedaan? O: B Het gij maar borger lijden... en juist op u bad de arme gerekend,
+hadt het beloofd."
+, ££&amp;** ^ ^a^ -•;
+Ach, reines G'.ü:k geniesst doch lie, ^Ye^ zihlen soll und weiss nicht wie!'1 (\Yn.u Iksin).
+(Uit Jiir/cnd).
+
+De Britsche Brandkast. (Juf/end).
+De iiif'chriji'er* 0)&gt; de /I'IKS'SU/IC leeniny zullen slecJits het
+;•'('•/ run Juin, iti^chïijn\&gt;&lt;]"\&gt; o&gt;tfra)i,'/(_jrt.' (De j)er.s).
+DJ; C/A.M;: In ieder geval is mijn crediet nog o"geschokt!''
+
+Engelsche oorlogsbcrichten. nijdon-lc», &lt;l-„ir &lt;lcn ll'-cr de Jl.ias te 1'i-nirrfiiic'fjo.
+Het springzeil in China. (f.7/,-).
+
+%')• * (!'N^
+O
+o
+O
+JOILV Br;.L : «Beste ,loe, vf ; zullen een groots reparatie irnH:(-j;i doen, n'
+blik helpen op den duur niet l '
+Het afscheid van Waldersee. (/A
+o Jtie!: e lapjes
+i-.\ ;
+») :
+**&amp;*&lt;
+i ^
+- v /, .
+c f f
+' "
+7
+- V.HT
+. . Still aui' gfrett.item Jv.ihn treibt in den IhUun der Greis.
+ii'iiive biii'ger sci.iji.t in zijn schik.'
+ti. ik dei k een oit.!ci'dnn,i van hem ie
+
+</text>
+<image timestamp="2002:08:16:05:47:21.00" size="391996">D2000YH.TIF</image>
+</page>
+</document>

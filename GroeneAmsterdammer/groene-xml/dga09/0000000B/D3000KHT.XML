@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18790518</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE A M S T,E R D A M M E K, "WEEKBLAD VOOR 'NEDERLAND.
+U kom ik vragen om de. eer van uw.mandaat te mogen erlangen als lid der Tweede Kamer ,
+van de Staten-Generaal, mr hare gedeeltelijke hernieuwing daartoe .eerlang de gelegenheid
+aanbiedt. ' ~ • . ' • . ',;
+Schijnt U op den eersten aanblik die open stap vreemd, in mijn oog wordt hij
+geregtvaardigd door den eisch van openbaarheid, in de behandeling van 'slands aangelegenheden
+ia den regel onmisbaar. , - ' i
+Maai1 er is meer. Vergaat mij U te herinneren, dat ik verscheidene jaren ingezeten was j
+van Amsterdam, dat ik naar de maat mijner krachten heb getracht mede werkzaam te zijn:
+aan de bevordering der "belangen van de hoofdstad, gelijk ik steeds met dankbaarheid de!
+welwillende pogingen van ettelijken Uwer herdenk om-mij'aan de leiding van het gemeente- ;
+bestuur meer regtstreeks te ?.ien deelnemen. . . i
+In n woord, ik heb gelukkige dagen in Uw midden doorgebragt; 1S73 maakte daaraan
+een einde, met de liquidatie mijner bankiers-zaken. Werd niemand door mij benadeeld,
+teleurgestelde verwachtingen losten zich weldra op in handelingen mijwaarts, waarover ik
+verder zwijgen mag, vermits de publieke kritiek haar niet alleen heeft ontmaskerd, doch
+verpletterd tevens. ' j
+Zoo lang die strijd gevoerd werd, heb ik den wil om, zij het ook met bescheiden krachten,
+mij geheel aan de publieke zaak te wijden, moeten doen zwijgen. i
+Nu die strijd is voldongen, nu kom ik met vertrouwen mij voor het 'lidmaatschap der j
+Tweede Kamer beschikbaar siellen, zoo gij my de eer der opdragt mogt waardig keuren, ;
+Is Amsterdam mij steeds lief gebleven, is ook nu nog de overtuiging onverzwakt, die ik;
+als lid eener Kamer van .Koophandel en Fabrieken elders verkondigde, namelijk: dat een •
+Rijk, en vooral een Rijk zóó klein als, het onze, zich steeds moet verheugen in het bezit'
+eener krachtige en magtïge hoofdstad, opdat de stralen van haar zonne zich immer
+verspreiden over het geheele land en een ieder daarvan in bijzonderen kring den weldadigen
+invloed ondervindt", mijne ervaring is inmiddels rijker geworden, mijn wil om nuttig
+te zijn en te woekeren met mijne ondervinding niet verflaauwd; beiden welligt kunnen er toe
+"bijdragen, dat men mij het bezit der onmisbare voorwaarden niet zal ontzeggen, om met.
+eere eene plaats ouder 'slands vertegenwoordigers in te nemen- i
+Staat mij toe, U mijne staatkundige beginselen bloot te leggen. • i
+Die geen vreemdeling is in de economische n financiële geschiedenis van ons'Rijk, weet,
+dat onze tegenwoordige toestand, vergeleken met dien, welken Nederland meermalen -be
+
+leefde, en mst dien, waarin omringende volken thans verkeeren, vele en magtige lichtpunten |
+aanbiedt. De kwaal i*, dat persoonlijke naijver en partij-belang het hoogste woord voeren
+en ongeoorloofden invloed uitoefenen.
+Door eigen financiële kracht moet thans in 'slands middelen van inkomst worden voor
+
+zien. Omwerking en zuivering .van het zamenstel van belastingen, waardoor die middelen
+thans verkregen worden, is daarom noodzakelijker dan ooit. Verhooging van de opbrengst
+der grondbelasting op ongebouwde, eigendommen, zoodra de herziening der schatting zal
+zyn ,voltooid, moet daarbij allereerst in aanmerking worden genomen. Kunnen accijnsen
+nrö't geheel worden gèmltt, mag .men .aannemen,, dat .enkele, tot de hoeksteenen behooren
+van een goed geheel van belaöting-&gt;hefüng,. een matige inkomsten-belasting, waarbij wordt
+onderscheiden "tusscheu inkomsten" tiit kapitaal 'en' inkomsten'"uit"bedrijf of' beroep, snoet
+worden ingevoerd. Laarentegen moet het kapitaal zelf onbelast blijven, alle mutatie-regt
+vervallen en de patent-belasting worden afgeschaft. "Wordt, gelijk te verwachten is, de thans
+in behandeling zijnde Kanalen-wet" aangenomen, het Noord zee-Kanaal behoort staats
+
+eigendom te worden en do vaart daarop van alle tolheffing bevrijd.
+Het is niet de vraag wat beter is: Vrij-handel of beschermde-handel, maar of hier te lande
+eene positieve vrij-handels-politiek behoort te worden gehandhaafd tegenover eene bescher
+
+mende handels-politiek dei* ons omringende Staten; of de Staat slechts heeft de rade te gaan
+met etaathuishoudkundige leerstellingen, dan wel in het toepassen van die leerstellingen dient
+te letten op de behoeften vaa den dag. Wil de Bismarcksche. politiek, vereenigt' de Rijks
+
+dag zicK daarmede, niet schadelijk óp onzen economischen toestand terugwerken, dan
+dient, behoudens grondstoffen en half-fahricaat, de invoer van beschermde waren hier te lande
+en in onze overzeesche bezittingen ie worden belast met een bedrag, gelijkstaande met dat,
+hetwelk de bescherming mag gerekend worden te beloopen. . . j
+Gerust kan in het gegeven geval tot zoodanige tarief wijziging worden besloten, omdat in
+óns kleine land het den breeden zoom der verbruikers wél'gaat,als handel, fabriekwezen en
+scheepvaart bloeijen. Nu zijn er wel, die oordeelen, dat Nederland te zwak is om retorsie- ;
+maatregelen te handhaven, maar ware dat het geval, dan zouden wij ook buiten staat zijn
+tot handhaving onzer zelfstandigheid. Er is een streven om tot eiken prijs meester te worden;
+van den zeehandel. Wat, met het oog daarop Nederland te doen staat, is m. i. door den
+wetgever van 1850 "beslist. Hij liet der Regeering eene ruime vrijheid van handelen, en de
+tegenwoordige gebeurtenissen zijn een bewijs te meer van den helderen blik der wetgevers,.;
+aan wier beleid Nederland de'afschaffing der scheepvaart-regten dankt. ' j
+Veel' van hetgeen sedert dat jaar aan onze tarief-wetgeving is veranderd; mist, naar ik'
+meen, het kenmerk van grondige kennis van handel en nijverheid, en schijnt veeleer inge
+
+geven door een ongeduldig streven naar een theoretisch ideaal, dan door een bedachtzaam
+raadplegen van de eischen ea krachten dei" werkelijkheid. Men-heeft bovendien de grond
+
+wettelijke nheid des Eijks en de verhouding tusschen zijne deelen in en buiten Europa uit
+het oog verloren en verzuimd gebruik te maken van de bevoegdheid, die Nederland, inzon- _
+derheid tegenover Grópt-Brittannië, zich lieeft voorbehouden. Men. heeft in eene wetenschap-!
+pelijke splitsing der aardbewoners in consumenten, en producenten een vasten leiddraad j
+meehen te vinden bij de vaststelling, wijziging en afschaffing onzer tarieven van in- en uitvoer; •
+maar verzuimd te werken op de ontwikkeling der koopkracht van beide categoriën' met een i
+oordeelkundige aanwending van 's Rijks hulpmiddelen tot dat doel. j
+Men heeft ook, als door watervrees bezield, de droogmaking der Zuiderzee, om van andere'.
+middelen van vreedzame landaanwinning te zwijgen, op de lange baan geschoven, en telkens j
+nieuwe mülioenen weggeworpen aan fortificati-werken, onvruchtbaar op zich zelve en door-;
+gaans afgekeurd, zoodra, ja menigwerf nog vóór zij geheel zijn uitgevoerd. \
+.Voorzeker, 's Rijks verdediging te water en te land is eene nationale zaak bij uitnemend- '.
+heid; maar het is hoog tijd bij de organisatie daarvan, meer dan in den laatsten tijd ge-'-.
+schiedt is, worde i p. rade gegaan met de eigenaardige gesteldheid van ons land. Geschiedt:
+dit, dan- kan zij afdoende worden ingerigt, zonder gelijk thans, onze financiële krachten te'
+overschrijden. .
+Zijn wij niet rijp ,voor algemeen stemregt, is de werking daarvan, waar het bestaat, niet
+uitlokkend, voor uitbreiding, voor regeling van het kiesregfc op milde grondslagen is de tijd
+gekomen. De bestaande matheid zal bij het aanbrengen van nieuwe elementen en frisch
+bloed door meer. bezield politiek leven vervangen worden.
+Op het gebied van volksonderwijs heeft de Staat zijne onzijdigheid hoe langer zoq meerj
+verzaakt'. De regerings-pligt om te zorgen voor degelijk onderricht is ontaard in een drijven,
+naar tyrannïe van staatsonderwijs, los van alle leerstellïnge godsdienst. Het doel, verstande-!
+lijke ontwikkeling der m%ssa, wordt alzoo voorbij gestreefd, zware geldelijke lasten op de ]
+gezeten burgerij gelegd en, wel verre van onderwijs boven-geloofsverdeeïdheid, afscheiding
+om den geloove aangekweekt.
+De bedroevende waarheid, dat ons volk jaarlijks 35 millioenen gulden aan een
+vergiftigenden drank besteedt, eii de schatkist daarvan onder hare gewone inkomsten stilleke'ns
+ruim vier zevenden trekt, is moreel en fmantieel. -een onhoudbare toestand, die in beide rich
+
+tingen dringend voorziening vordert. ' ' '
+Moet de toestand van 's lands financiën in Nederland bekommering wekken, die van de
+O. I. Bezittingen en W. I. Koloniën verkeeren in neg zorgelijker staat. . .
+In O. I. 'zijn de vaste staats-uitgaven steeds uitgebreid zonder dat de grondslag is gelegd
+voor vermeerdering van vaste staats-ïnkorusten. Er is daar, van hier uit, in de laatste 25 jaren
+l Toksgewijze het in werking zijnde stelsel losgelaten, maar geen ander stelsel ingevoerd.
+Er worden voor staats-rekening kostbare stoomspoorwegen gebouwd eji grootsche haven
+
+werken aangelegd, maar de gewone wegen en rivier-overgangen verkeereu nog in den meest,
+primitieven toestand, bevloeijings- en afvoer-kanalen ontbreken, landrente-heffing, heere- en;
+kofüjeultuur-dienstpligt laten steeds aan een slecht bezoldigd personeel van ondergeschikte j
+mlandsche ambtenaren ' ds deur wijd epen voor uitschuddihg van de inboorlingen des lands, i
+en hoe het met de tevredenheid der Indo-Europeanen is gesteld, weet een ieder, die vrien- i
+den of bloedverwanten op Java heeft of Indische couranten leest. Daar dreigen pïis groote s
+rampen, als de landsregering n de lands vertegenwoordiging nog langer verzuimen de handen i
+inén te slaan en middelen te beramen om aan Indie toe te staan wat aan Indie toekomt,!
+zonder te kort te doen aan hetgeen waarop Nederland aanspraak mag maken. Geen
+zelfregering in de O. I. Bezittingen, maar evenmin verw.aarloozing van het O. I. belang; geen
+uitschudding van O. . ten behoeve van Nederland, maar evenmin prijsgeving van de
+voordeeleu. waarom eene Europesche mogendheid de regeertak in zoo verwijderde gewesten op
+zich'neemt. -'
+•In West-Indie is het overigens nog treuriger gesteld dan in Oost-Inclie.
+Daar hebben wij, zonder te rade te gaan met hetgeen de ondervinding m de Eng. W. I.
+koloniën had geleerd,, de slaven vrijgemaakt tegen betaling, meerendeels aan de hypotheek-,
+houders, der plantaadjes, van 15 millioen gulden uit de 0. I. geldmiddelen, maar werd alles
+t oorbij gezien, althans nagelaten, wat den weg had moeten banen tot een nieuwen gezonden'
+economischen toestand, loch zijn de W. I. koloniën, sedert het Suez-Kanaal is geopend, l
+van veel grooter beteekenis voor ons handels-verkeer geworden dan ooit te voren.
+
+Gewis ontbreekt het in 'slands hoogste raadzaal niet aan mannen, die dit evenzoo inzien,
+maar die allen maken .deel uit van een partij-verband, dat hen beheerscht. Ik wensen van U
+toegang ie bekomen tot 's lands vertegenwoordiging, enkel gebonden door dit programma,
+enkel daaraan gehouden.
+A. V,« UT A S EST.
+DEN HAAG, 12 Mei 1879. Oud lid der Staten van Friesland.
+(Afdeding AMSTERDAM).
+eeue groote partij witte en gekleurde GLACÉ-HANDSCHOENfiff, tot zeer lage prijzen.
+3
+(4241)
+Het. BESTUUR der Afdeeïing geeft bij ] (4243)
+dezen kennis, .dat de eerste STUI^EKS |
+SBPAAJKBASHL geopend is op Zater- \
+dag den l^den Mei a.s. De Zittingen
+zijn geregeld als "volgt: tot het inbrengen
+van Gelden iederen Maandag-, Woens- ^
+dag- en Zaterdagavond van 7 tot 9 ure. pi
+^ Tot het terugbetalen van Gelder, iederen £&amp;
+au Woensdagavond van 7 tot '9 ure. £
+« De STUIVERS SPAARBANK is g_e- «
+pi vestigd op de Prinsengracht bij de Lelie- g
+fa gracht; in het lokaal der Geneeskundige
+$ Armverzorging(VOORMALIGHUISZIT- **
+«•6TENHUISJ. Sommen van vijf Centen en «*
+*g de veelvouden daarvan worden aange- £6
+~ nomen. " ' t*
+S " Het "Bestuur der Afdeeling voornoemd, M
+^ L. P. SCHMIDT, Voorzitter. ffi
+'S JOSEPH ABBAHAMSOH, Secretaris. ©
+S R. REGTDOOEZEE, Penningmeester. »
+«3 J. W. VISSERING, Vice-Voorzitter, J™
+fa P. C. F. FKOWEIN, 2e Secretaris. M
+^ H. MOHRMASN, 2e Penningmeester, g^
+^ J. F- L, BLANKENEEKG. *
+«&lt; J. C. SCHOOI.
+* F. G. MELLTSK PZN.
+Dit. J. M. CHÜMACEIEO.
+D. H. VlTTE^VINKEL.
+B. H. HELDT. (4221)
+
+De Maatschappelijke toestand van het
+hedendaagsche Rusland het onderwerp dat thans fijne FHAKSCHE STOFFES,
+aan de orde van den dag is wordt met SPECIALITEIT in. gemaakt H.Iïir»K»«OE»,
+talent en naar waarheid geschetst in den pas
+verschenen, boeiend geschreven roman:
+-DOOR
+Kalverstraat hoek Oajessluis, E 129.
+heeft opnieuw OSfTVAMïCwïERI een groot assortiment der nieuwste
+TÏATMTPQMA WfFTPTQ 'TQ '
+UAlYlJljolYlAJN I£OJD, Vib
+(4240) • • ALSMEDE:
+eu meerdere Nouveautés.
+van af ƒ 1.
+PKÏJSïf S.Ï5.
+Zeker heeft geen andere roman zoozeer, de
+merite de l'a propos, weshalve H.H. Directeu
+
+ren van Leesgezelschappen er in het bijzonder
+opmerkzaam op gemaakt worden. (4245)
+Uitgave van P. GOUDA QUINT, te Arnhem.
+Bij de bestaande O'WSSWAST5EEi-pK'»2öSrB1EBjli'ES zijn geplaatst: een liggende Lad
+
+der, een Amerikaansche Schommel en twee Schommelschuitjes, terwijl binnenkort nog andere
+inrichtingen kunnen verwacht worden.
+Het EERSTE CONCERT zal pluais hebben ZOXDAG IS MEI des avonds te 8 unr.
+OUDERS en VOOGDEN wordt bericht, dat ten allen tijde Kinderen,-zonder geleide,
+zullen worden geweerd.
+Als «WpasiCBWEI* bij de toestellen kan geplaatst worden een Gepasposteerd OSïj
+M»OFFICIEIR» met akte van Onderwijzer in de Gymnastiek.
+Aanbiedingen in Persoon, des morgens van 10 tot 12 uur. (4238)
+PRINSENGRACHT 615.
+bericht de ontvangst .eener groote partij CI
+
+TROENEN a. / 1.50 per Honderd. Bij grootere
+quantiteiten voor H.H. "Wederverkoopers, Re
+
+staurateurs, Cafés en Stokers
+aanmerkelijkrabat. ' . ' (4212)
+Deze school, .opgericht onder medewerking
+van het Departement Amsterdam der
+Maatschappij ter Bevordering van Nij
+
+verheid, heeft ten doel de beoefening der
+TEEKENKUNST te bevorderen m hare prak
+
+tische toepassing op de Nijverheid in haar
+geheelen omvang. .
+Het Bestuur bericht aan H.H. Donateurs en
+verdere belangstellenden dat aan deze Inrich
+
+ting, thans gevestigd Vonclels«raat STo. 99
+de gelegenheid ia tot inschrijving van Leer
+
+lingen.
+Men melde zicH daartoe aan, des morgens
+tusschen 8 en 10 ure, bij den Heer E. C. E.
+Colinck, Directeur der School.
+HERMAN, J. VAN LENNEP,
+Amsterdam, Voarzitter,
+6 Mei 1879. E. "VV. B. VAN ERVEN DORENS,
+(4234) ' - - - Secretaris.
+Wij hebben de eer kennis te geven, dat onze nieuwe Grasprijs, met ingang
+l dezer, gesteld op O50/ioo Cent per K.UBIEM.E MJETJEK, zal worden
+toegepast met de volgende kortingen:
+Met lO-Jarig Metercontract.
+! Het bedrag van. liet jaarlïjksche Gasgebruik, berekend tegen ©5&lt;&gt;/io» cent per
+kubieken meter, eeue som van 'WlJ f Isomlei'd CaHlïIeEa te boven gaande, zal
+'de prijs rerraiuderd worden op 9a&lt;&gt;/ïoo cen^ Per ^ubdeken meter..
+Het bedrag van het jaarlïjksche Gasgebruik, berekend tegen ©30/joo cenfc per
+kubieken meter, eene som van 'JTweestaaiaeMfli CUBlfllen te boven gaande, zal
+de prijs verminderd worden op ©I0/joo cent per kubieken meter.
+Het bedrag van heb jaarlijkscge Gas verbruik berekend tegen ©30/ioo cent per
+kukieken meter, eene som.van ^esdssla^eïMil Gulllen te boven gaande, zal
+ze prijs verminderd worden op o/ioo cent per kubieken meter.
+dal de prijs zijn fl© cent per kubieken meter, met kortingen voor hooger gebruik,.
+pro rata, als boven. (4217)
+AMSTERDAM, 5 Mei 1879. De Directeur,
+D Amsterdam, Wed. OLDEWEIT-METMAl,
+Aan de geëerde Aanvragers!
+wordt hierbij kennis sregeven, dat, dit GEHEEL
+NIEUWE voor ROOKERS, ONMISBARE ARTIKEL,
+weder in diverse soorten voorhanden is.
+bij den Heer tOÏIÏS HEKSCBSEt
+Amsterdam, Binnenkant 20. (4239)
+Een/KHl
+toegepast," kan
+met,gegoten of onzuiver geslepen glazen bederft uw gezicht.
+die op zichzelf goed is maar niet met oordeel door een deskundige
+ook vaak Keer nadeelige invloed uitoefenen.
+De prijzen zijn van ƒ
+levert
+'tot ƒ 4,
+voor alle gezjcbtsstoornissen.
+(4219)
+Fabrikant van Chirurgicale Instrumenten,
+Ereukbanden,Brillen,Messen,Scliaren,enz.
+SC 13. (4242)
+VERKRIJGBAAR IN DE
+worden direct en 0ifisfe in orde gemaakt.
+SPECIALITEITEN IN, (4228)
+en p-os et en detail.
+felaatiersimseht Ko. l i, Amsterdam,
+met het nieuw gebouwd snelvarend Stoomjacht
+In directe correspontie op alle aankomende en vertrekkende treinen te
+Kïe ver*5er alom verspreide Bienstljïlletieic,
+(4216)
+Specialiteit voor het a RESSORT
+VERVEN van ZIJDEN DAMESCOST
+MES, enz.; door deze bewerking blijft
+de Zijde souple, behoudt haren natuur
+
+lijken glans en is nietminderdan nieuw.
+STAATSIE- en ANDERE GORDIJ
+
+NEN worden in de origineelste kleuren
+GEVERFD, opnieuw GEAPPRAITEERD,
+ook met -praehtige Passeïnentrandea.
+1&gt;iJ de Korte Priiisengraeli*. GEDRUKT m Goud of Velouté. (4209)
+- ' . Stoomdrukkerij ELLEKMAN, HARMS &amp; Co.
+
+</text>
+<image timestamp="2002:11:01:01:06:54.00" size="500213">D3000KHT.TIF</image>
+</page>
+</document>

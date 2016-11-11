@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040522</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Hooger Onderwijswet in de Eerste Kamer.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 22 Mei 1904.
+
+*\ i t-' - i* i' \
+'' K. «" * '/ *"*
+^fe4&lt;1 '^ 'L\ '.-. &gt;v '
+&gt;sa/iwr&gt;«^ .4'xw. frt.
+^A.f*f*-ïi&amp;y*. * i. iK'i.i' «s*' Itr?^
+
+Am&amp;t. Boek- en Steendrukkerij. v/h. Kllerman. Harms Jfe Co.
+DON QuiCHOTTE (V. D. BlESEN) tot Sanc/to Panza (KUYPER); Blijf jij maar bij je ezel; ik zal den vijand wel afmaken...
+
+</text>
+<image timestamp="2002:08:15:06:18:47.00" size="460000">D10000D6.TIF</image>
+</page>
+</document>

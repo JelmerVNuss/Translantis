@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260227</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET ADRES voor
+Kampeertenten,
+Jachtzeilen,
+Scheepsbehoeften
+IS
+FIRMA
+F. mm
+Binnenkant 38
+AMSTERDAM
+TELEFOON 41709 40717
+Toezending Prijscourant
+op aanvraag
+BOOINOTOREN
+aad.
+. Ut. &lt;
+.of ,&lt;30Scli man-nul: MM. k tfttiaat
+i vc
+DAIMLER
+
+Scheepsmotoren
+voor benzine en petroleum
+Hoofdvertegenw. voor Nederland:
+iiitsciiappiNJUEIREMMEISiGi.
+Amsterdam, Weesperzijde 144
+Telef. 24218, 24881
+Reparatieinrichting en Onderdeden
+iet beste leermiddel is
+}rojectieapparaat
+
+Demonstratie ten
+illen tijde in onze
+Toonzaal
+dARIUS - Utrecht
+NATIONALE TENTOONSTELLINGSWEEK
+
+VAN l MAART TOT 6 MAART 1926
+
+Verscheidene bezoekers der onlangs te Amsterdam
+gehouden Automobiel-Tentoonstelling waren tenge
+
+volge van de belangstelling, welke er voor de ver
+
+beterde Ford bestond, niet in de gelegenheid om
+de aangebrachte verbeteringen goed te bezichtigen.
+Teneinde alle belangstellenden in de gelegenheid te
+stellen de nieuwste verbeteringen te bezichtigen,
+hebben wij maatregelen getroffen, dat alle Ford
+Dealers in Nederland van l tot 6 Maart a. s.
+wagens kunnen exposeeren.
+
+Vanaf het oogenblik, dat de verbeterde Ford werd
+aangekondigd, is er een voortdurend toenemende
+vraag voor aflevering aan particulieren geweest.
+Deze vraag, welke onzen aanvoer heeft overtroffen,
+heeft als gevolg gehad, dat vele onzer dealers geen
+wagens in voorraad konden houden.
+
+Door de getroffen regelingen om in de eerste week
+van Maart een Nationale Tentoonstellingsweek voor
+geheel Holland te houden, zal de Ford expositie,
+welke de sensatie was van de Amsterdamsche ten
+
+toonstelling, in elke streek van ons land te bezich
+
+tigen zijn.
+Dit geeft U een aanleiding om den dichtstbijzijnden
+Official Ford Dealer te bezoeken den wagen,
+waarop U gewacht hebt, te bezichtigen, erin te
+rijden en goed te begrijpen wat wij bedoelen, wan
+
+neer wij zeggen;
+
+Waarom zoudt gij meer betalen?"
+N.V. PORD MOTOR COMPANY OF HOLLAND,
+VAN HELMONTSTRAAT - ROTTERDAM.
+Onderlinge Levensverzekering
+
+Van Eigen Hulp
+
+'s~Gravenhage ~ Kortenaerkade 3
+BIJKANTOREN? Amsterdam, Keizersgracht 628; Rotterdam, Mauritsweg 18?
+Arnhem, Jansbuitensingel 23; Utrecht, Maliebaan 104; p?
+Groningen, Groote Markt 26, Batavia, Voorrij Zuid.
+Volkomen soliditeit door het onderling stelsel, E
+de reserves en het zekerheidsfonds»
+Vraagt prospectus aan het Hoofdkantoor, de Bijkantoren of de Heeren Inspecteurs en Agenten
+Engelsch Plated (verzilverd)
+
+Groenteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA 6 RUPP
+Soeplepels
+
+</text>
+<image timestamp="2002:09:25:02:11:30.00" size="125367">D10007D5.TIF</image>
+</page>
+</document>

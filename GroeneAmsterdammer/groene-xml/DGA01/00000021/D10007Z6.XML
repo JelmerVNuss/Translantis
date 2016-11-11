@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261002</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+-*?
+CSAURHzo.
+HOFLEVERANOER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+CHER
+ARNHEM (Groote Markt)
+
+HOTELDES PA YS-BAS
+KAUERS MET WARM EN KOUD STROOMEND WATER
+I
+A. D. BEERENDS &amp; VEEREN
+BRAND-, DIEFSTAL-, STORM-,
+WATERLEIDINGSCHADE ENZ.
+IDEALE
+INBOEDEL*
+
+
+OPSTALPOLIS
+IJaarpr. Inboedels . . . 2.50 0|oo
+Opstallen (woonh.) . . 1.25 O/oo
+AMSTERDAM LEEUWARDEN
+M CENT PER HALF ONS
+JN.V. Meulelmagazijn EDEN"
+tjix, MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+QOEDEWAAGEN 'S
+w KROONPIJPIN
+65 CENT
+PER DOOS
+IN CESLOTEN DOOZEN
+VAN 6 STUKS
+MHMMIUMIIIIIIHIIIIIHIMIMIIHIIIII
+^ Restaurant HOEK
+Amsterdam: spui 23
+Oesters - Kreeft - Caviar
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichting l
+
+C A PI
+115 KALVERSTRAAT
+t/o LIBERTY
+kost de NIEUWE
+
+umi" HWD
+voor den klein
+
+WONINGBOUW
+Hij verwarmt een kamer van
+5 x 4 x 3i Meter
+Let opnaamenfabrieksmerk
+Overal verkrijgbaar
+Gij kent toch onze H
+Gloria "Kachels!
+
+
+Adres voor den Handel:
+JOB H.ÏIHDERMEIDEIUMERSFOORT
+ITIMTURJ
+KINDER
+ISCHOEMEMI
+N.V.%
+H-A-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- ttHOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of -naar oude stijlo
+
+ARNOLÏ3 HOUTSCHILT
+
+Singel 285 Amsterdam
+/ïsü*
+
+-•*•hall - marked
+
+superb
+
+{VBDULLft SUPERB CiGARETTES,
+SMOKING MDCTURE.DRIBAOCyPIPES.
+(\BDULL2S &amp;Ca.LTD.. I73.NEWBOND STREET.
+LONDON.W1,
+tEbT cSCHIKTt BillDERIJ VOOR H H'UiT l
+•,r WiU'.öhCrtDUSSTRAAT 53--%AOAM TfV i
+
+</text>
+<image timestamp="2002:09:26:04:57:07.00" size="207756">D10007Z6.TIF</image>
+</page>
+</document>

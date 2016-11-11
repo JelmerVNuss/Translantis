@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140913</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+13 Sept. '14. No. 1942
+Ernest Solvay men zal zich zijn naam
+uit Af berichten over de aan Brussel opge
+
+legde oorlogsschatting herinneren heeft
+door zijn vernuft en zijne volharding een
+van de bloeiendste industrieën der wereld
+in het leven geroepen; in België, Frankrijk,
+Duitschland, Rusland, Engeland en de
+Vereenigde Stalen verschaft désodabereiding
+naar zijne methode aan duizenden arbeid
+en welvaart. k deze laatste omdat de
+SociétéSolvay en hare zustermaatschappijen
+steeds vooraan hebben gestaan in de be
+
+vordering van het welzijn en den voorspoed
+der arbeiders.
+Van het door een werkzaamheid van een
+halve eeuw verworven vermogen heeft Sol
+
+vay op de meest milde wijze ten nutte van
+het algemeen gebruik gemaakt, steeds ge
+
+dragen door de overtuiging dat beschaving
+en wetenschap, inzicht in de wetten der
+natuur en der samenleving in het eind het
+geluk der menschheid zullen verhoogen. In
+,het Pare Léopold te Brussel stichtte hij een
+;„Institut de physiologie", een Ecole de
+cómm'erce" en een Institut de sociologie".
+Hiermede niet tevreden, greep hij met beide
+handen een denkbeeld aan, dat bij Prof.
+Nernst te Berlijn was opgekomen, en
+noodigde hij in het najaar van 1911 een 25-tal
+.natuurkundigen uit verschillende landen uit
+om in een bijeenkomst van ettelijke dagen
+belangrijke vraagstukken der moderne na
+
+tuurwetenschap te bespreken.
+Toen deze Conseil de physique", waar
+
+van mij het voorzitterschap werd opgedra
+
+gen, was afgeloopen, gaf Solvay den wensch
+Ie kennen, verdere wetenschappelijke onder
+
+zoekingen materieel te steunen, en te dien
+einde een Institut international de physique"
+te stichten, waarvoor hij een kapitaal van
+een millioen francs beschikbaar stelde. Met
+Prof. Heger te Brussel ontving ik de op
+
+dracht, de plannen voor de nieuwe instelling
+te ontwerpen. Solvay liet ons daarbij ge
+
+heel vrij, slechts dezen wensch uitsprekende,
+dat een deel der middelen van het Instituut
+aan de beoefening der wetenschap in zijn
+vaderland zou ten goede komen en dat men
+bij het besteden van het overige de meest
+strikte onpartijdigheid, zonder eenige voor
+
+keur voor bepaalde nationaliteiten zou in
+acht nemen.
+Van 1912 af heeft het Instituut gewerkt.
+Het heeft verdienstelijke jonge Belgen in
+staat gesteld hunne studiën in het buiten
+
+land, te Berlijn en te Parijs, voort te zetten,
+in 1913 een tweeden Conseil de physique",
+analoog aan den eersten, bijeengeroepen en
+elk jaar vele duizenden aan de bevordering
+van wetenschappelijk onderzoek besteed.
+De verdeeling dezer gelden werd aan de
+Internationale Wetenschappelijke commissie
+van het Instituut overgelaten, en deze, uit
+vertegenwoordigers van België, Frankrijk,
+Duitschland, Engeland, Denemarken en Ne
+
+derland samengesteld, heeft daarbij naar
+haar beste weten in Solvay's geest gehandeld.
+De toelagen van het Instituut gingen naar
+alle windstreken, naar Rusland, Polen en de
+Vereenigde Staten, ofschoon, als een natuur
+
+lijk gevolg van het groote aantal ijverige
+Duitsche werkers, deze het leeüwenaandeel
+ontvingen. De Administratieve commissie
+van het Instituut, bestaande uit de
+hoogleerarerr Heger, Tassel en Verschaffelt te
+Brussel, was steeds bereid, ons onmiddellijk
+tegemoet te komen, als wij wenschten natuur
+
+kundigen die een belangrijke ontdekking had
+
+den gedaan, zooals Prof. von Laue te Zürich
+(thans te Berlijn) en Prof. Stark te Aken,
+de voortzetting hunner proefnemingen
+gemakkelijker te maken.
+Bij de vele Belgische geleerden die ik ten
+
+gevolge mijner betrekkingen met het
+Solvayinstituut heb leeren kennen, heb ik nooit
+een zweem van misnoegen over deze ietwat
+eenzijdige werkzaamheid opgemerkt, trou
+
+wens ook nooit het minste spoor van minder
+welwillende gezindheid tegenover Duitsch
+
+land. Wel bleek mij herhaaldelijk hoe allen
+Solvay's werk waardeeren en bewonderen,
+waarin de Belgische koning voorging, die
+mij de eer bewees mij te ontvangen en zich
+over de werkzaamheid van het Instituut te
+laten inlichten.
+Een paar voordrachten die ik in Maart jl.
+voor het Instituut en voor de Universiteit
+van Brussel heb gehouden, boden mij ge
+
+legenheid, de warme belangstelling der
+studenten van Brussel, Gent en Leuven in
+wetenschappelijke vraagstukken te leeren
+kennen, en gesprekken met jonge physici
+gaven mij een hoogen dunk van wat van
+hen verwacht mag worden.
+Intusschen is Solvay, ook na de stichting
+van het Instituut, voortgegaan, met denzelf
+
+den eenvoud en denzelfden ruimen blik,
+zijne middelen aan de verwezenlijking zijner
+idealen dienstbaar te maken. Het vorige jaar
+is een Institut international de chimie" tot
+stand gekomen, zich aansluitende aan de
+Internationale associatie der chemische
+vereenigingen, met een kapitaal gelijk aan.
+dat van het Institut de physique", en kort
+daarna heeft hij een zelfde bedrag voor de
+belangen der Belgische arbeidersbevolking,
+in het bijzonder voor onderwijsdoeleinden,
+beschikbaar besteld. Ook de Brusselsche
+Universiteit, die, zooals men weet, geen
+staatsinstelling is, heeft zeer veel aan hem
+te danken.
+Het is mij door de tijdsomstandigheden
+niet mogelijk, mijne medeleden in de Inter
+
+nationale commissie van het Institut de
+physique" *) te raadplegen, maar men zal
+het begrijpelijk vinden dat ik, als haar voor
+
+zitter, behoefte gevoel hulde te brengen aan
+Ernest Solvay en mijne deernis uit te druk
+
+ken met het zwaar beproefde volk, waarvan
+hij een der hoogststaande en beste verte
+
+genwoordigers is. Voor dat volk schijnt mij
+een gewichtige rol in het werk van bescha
+
+ving en wetenschap te zijn weggelegd, en
+ik durf hopen dat geen tijdelijke rampen
+het op den duur zullen beletten, die rol te
+vervullen.
+Haarlem,
+10 Sept. 1914 H. A. LORENTZ
+
+*) Mevr. Curie en prof. Brillouin te Pa
+
+rijs, dr. Goldschmidt te Brussel, en de
+hoogleeraren Warburg en Nernst te Berlijn,
+Karnerlingh Onnes te Leiden, Rutherford te
+Manchester en Knudsen te Kopenhagen.
+***
+Geachte redactie,
+Gij vraagt mij en anderen een woord over
+de verwoesting van Leuven, die Europa met
+diepe smart heeft vervuld. Ik wil niet wei
+
+geren; want de ontzettende gebeurtenis
+schijnt mij ëénig te zijn in de geschiedenis
+van onzen tijd. Een bevriend historicus, die ,
+mij dit onlangs betwistte, wees mij, toen '
+ik hem sommeerde mij dan de parallel van
+het geval te noemen, op de verwoesting van
+de Paltz door Lodewijk XIV; mij dunkt dit
+beroep welsprekend: na de zeventiende
+eeuw is dus zoo iets niet. voorgekomen!
+Dat het echter nog mogelijk geweest is
+in onzen tijd, die zich inbeeldde dat zij
+aan de oude barbaarschheid ontgroeid was,
+dat dit feit gepleegd is door het volk, dat
+beweert strijd te voeren in het belang der
+kuituur, door de natie zelve, die wij zoo
+hoog achtten en zoo liefhadden om hare
+groote verdiensten voor wetenschap en
+kunst, dat vervult ons met diepe droefheid.
+Zeker, er zijn er wel, die beweren, dat de
+burgers zelven de gebouwen in brand hebben
+gestoken, dat de Duitschers hebben getracht
+ze te redden e.n dat zij ook de kostbare
+bibliotheek wel zouden gered hebben, als
+zij die maar hadden weten te vinden! Maar
+dit alles klinkt wat.al te naïef: het schijnt
+wel vast te staan dat eene terugkeerende
+Duitsche troepen-afdeeling beschoten is en
+zich, buiten zich zelve door woede en schrik,
+op de weerlooze stad heeft geworpen, terwijl
+niemand, op de hoogte van de beteekenis
+der schatten die men bezig was roekeloos
+te vernielen, getracht heeft paal en perk te
+stellen aan het schandaal.
+Van Duitsche zijde wordt nu (in strijd
+' met de verklaring der Leuvenaars) beweerd,
+dat dit straatgevecht veroorzaakt is door
+een georganiseerden aanval der gewapende
+burgerij op de Duitsche troepen. Wij mogen
+deze bewering vreemd noemen, omdat het
+vast schijnt te staan, dat het stedelijk be
+
+stuur van Leuven zelf, juist om conflicten
+te voorkomen, alle wapens der burgers kort
+geleden had laten ophalen. Maar dit zij hoe
+het zij, het is mogelijk, dat het Belgische
+volk, in rechtmatig verweer tegen een
+overmachtigen vijand, die in strijd met de
+tractaten binnendrong, wanhopig door de
+gruwelen, waarvan het iederen dag het
+slachtoffer was, zich zelf niet meester is
+geweest en daden heeft gepleegd, die even
+nutteloos als afkeurenswaardig zijn.
+Maar rechtvaardigen dan dergelijke
+geisoleerde inbreuken op het volkenrecht
+(kleinigheden in vergelijking met de
+neutraliteits-schending!) inderdaad gruwelijke
+feiten, als de verwoesting van Leuven met
+zijne kunstschatten? Van Duitsche zijde
+wordt een beroep gedaan op de noodzake
+
+lijkheid, die dwong om ditmaal de besluiten
+van de 2e Vredes-conferentie, waarbij Duitsch
+
+land zich uitdrukkelijk had aangesloten, te
+overtreden. Niet voor de eerste maal beroept
+Duitschland zich op noodweer: ook de
+schending van België's neutraliteit zelve
+heeft men getracht daarmede te rechtvaar
+
+digen. Maar was dit alles dan inderdaad
+noodzakelijk? Ons leeken schijnt de be
+
+wering zonderling. Bedoelt men niet eerder:
+doelmatig, gemakkelijk ? Zeker, indien zelfs
+het oppermachtige Duitschland in een strijd
+tegen het kleine Belgische volk, dat met
+den moed der wanhoop zijne vrijheid ver
+
+dedigt en zijn recht, zich zal mogen beroepen
+op overmacht om zijn woordbreuk te recht
+
+vaardigen, laat men dan geene tractaten
+meer sluiten, laat men de illusie laten varen,
+dat goede trouw iets beteekent in het ver
+
+keer der volken!
+Intusschen, de verwoesting is geschied,
+en de geheele beschaafde wereld treurt over
+het onherstelbare misdrijf. Laat men nu
+niet meer napleiten over de oorzaak van het
+geval: er is niets meer aan te veranderen.
+Maar laat men trachten de herhaling te
+voorkomen. Want wat nog veel ernstiger,
+veel onverklaarbaarder en veel moeielijker
+te rechtvaardigen is dan het treurige feit
+zelf, dat in verwarring gepleegd is, het
+is dit, dat de openbare meening in Duitsch
+
+land, die te huis in alle kalmte van den
+Leuvenschen gruwel heeft kennis genomen,
+met zér enkele uitzonderingen heeft goed
+
+gekeurd, dat zij het natuurlijk schijnt te
+achten, dat (laat ons het ergste aannemen!)
+een leger, door eenige burgers in eene
+opene stad beschoten, het recht en den
+plicht zal hebben, om in die stad kerken,
+schilderijen, bibliotheken, schatten van
+kunst en wetenschap klakkeloos onder den
+voet te loopen en te vernielen. Dat de
+Duitsche natie, die zich beroemt een
+kultuurvolk te zijn, tegen deze dingen niet
+ernstig en met nadruk heeft geprotesteerd,
+ja ze als n man heeft toegejucht, dat is
+wel zér teleurstellend en zér bedroevend:
+het schijnt het ergste te voorspellen voor
+de heerlijke kunstschatten, op wier bezit
+bijna alle Belgische steden roem kunnen
+dragen. *)
+Ziehier, geachte Redactie! wat ik te zeg
+
+gen had. Gaarne noem ik mij
+Utrecht, Uwen dienstvaardigen
+9 Sept. 1914 S. MULLER Fz.
+
+*) Onder het schrijven lees ik een bericht,
+dat Dendermonde brandt, dat kerken,
+gasthuizen, kloosters verwoest zijn! Streeft
+men er dan inderdaad naar, de verwoesting
+van de Paltz te evenaren?
+tt * *
+
+KRONIEK
+DE ELLENDE VAN HET PATRIOTTISME
+Er zijn blijmoedige zielen, wie een niets
+gelukkig maakt. Hun stralend optimisme
+doet hen in de hel van dezen oorlog allerlei
+zedelijke winst voor de menschheid ontdek
+
+ken, onder meer een positieven vooruitgang
+in het besef van eenheid en
+samenhoorigheid, nu het blijkt, hoe in alle landen de
+partijstrijd gestild is en diverse edelmoedige
+gezindheden en offerzuchten zich baan breken
+ten voordeele van het gemeenschappelijk
+vaderland. En het is zeker niet te ontkennen,
+dat ethische en moreele krachten van
+ongemeene grootheid vrij worden" en alle geestes
+
+leven strakker gespannen staat.
+Het is maar de vraag of wij daar zoo blij
+over moeten zijn, HU liefde en eensgezind
+
+heid telkens zorgvuldig binnen elks gren
+
+zen blijven. Daar overheen worden zij ter
+
+stond tot haat en wraakzucht, ook ziele
+
+krachten ongetwijfeld, maar niet van de
+soort als door ethische zielen genoten pleegt
+te worden.
+Zoodat tegenover een dierbaar gewin eeni
+ijsselijk verlies schijnt te staan. Want in
+deze ruim veertig jaren van vrede waren
+reeds weer vriendelijke belangstellingen,
+zachte genegenheid in wording van volk
+tot volk. Geleerden zochten hun
+vakgenooten, kunstenaars hun kunstbroeders" in
+andere landen. Er waren internationale bon
+
+den ontstaan van alles en nog wat, elke
+natie vestigde een soort filiaal van haar
+taal en letterkunde buiten de grenzen en
+men ruilde wederzijds de opgroeiende
+jongelieden, om hun den zegen van een
+vreemde" taal en vooral van een ruimer
+waardeering mede te geven in hun ontwik
+
+keling.
+Geldt dit dan alles niets, nu het waar
+
+schijnlijk voor jaren verloren zal zijn ? Moet
+men deze ruimere inzichten, dit milder
+gevoel, dit wijd en zuiver besef van
+algemeene menschelijke saamhoorigheid niel
+dezelfde waarde toekennen als het nu
+krachtig werkende, maar zoo benauwde
+patriottisme ?
+Het is waarachtig nu geen tijd de zege
+
+ningen van de vaderlandsliefde te vieren
+nu men allerwege en zoo gruwzaam de
+ellende er van ondervindt, en als wij spreken
+zullen van een grooten, geweldigen tijd",
+een tijd van geestelijken groei der mensch
+
+heid, dan moeten wij nog iets anders zien
+dan hetgeen de wereld tot nu toe altijd, en
+vroeger nog wel krachtiger, te aanschouwen
+gaf: het razend chauvinisme van opgehitste
+volken, die niet meer weten wat zij doen
+De eenheidsdrang werkt in den mensch
+minstens zoo krachtig als het egoïsme en
+zij weten het wel, die geleerd hebben de
+volksconscientie te bespelen. Geef den
+menschen een doel en aanleiding tot geest
+
+drift, hoe dwaas en bot die ook zijn, en uil
+de benauwing van hun afzonderlijk bestaan
+zullen de harten daarheen streven, als een
+verlossing van beperktheid en doffen sleur.
+Maar dat beteekent nog geen werkelijke
+groei, eerder een soort epilepsie, die, als de
+verborgen aanleiding is uitgewerkt, niets
+achterlaat dan matheid en levensonlust.
+Ik wil maar zeggen, dat de strijd, waaruit
+ontwikkeling en groei der menschheid voort
+
+komen een gansch andere is, dan de bru
+
+tale moord, dien wij nu beleven.
+F. C.
+In memoriam K. H. Th. Bussemaker
+
+Heden middag hebben wij op het vredige
+en lieflijk gelegen kerkhof om het Groene
+kerkje" te Oegstgeest Bussemaker ten grave
+gedragen. De verslagenheid en de rouw over
+dezen voortreffelijken en beminden man heb
+
+ben zich ontroerend geopenbaard en wij zijn
+teruggekeerd met een bedroefd hart, met
+een sterk gevoel van beroofdheid. In deze
+stemming zet ik mij neer, om aan het ver
+
+zoek der redactie van dit blad te voldoen
+en eenige woorden te wijden aan de vriende
+
+lijke nagedachtenis van den betreurden
+doode, dien wij als geleerde, als docent en
+als mensch gelijkelijk hebben geacht en lief
+
+gehad.
+De wreede dood heeft hem plotseling weg
+
+genomen, op vijftigjarigen leeftijd, ontrukt
+aan echtgenoot en kinderen, aan zijne tal
+
+rijke vrienden, aan de Leidsche hoogeschool,
+aan de Koninklijke academie van weten
+
+schappen, waarvan hij sinds enkele jaren
+lid was, aan de geschiedvorsching, waaraan
+hij zijne rijke gaven had gewijd. Hij was
+van Deventer, en in 1888 promoveerde hij
+te Leiden over een onderwerp uit de ge
+
+schiedenis van zijn gewest, Overijsel ge
+
+durende het eerste stadhouderlooze tijd
+
+perk" deel I, waarop het tweede deel in 1889
+volgde. Hij heeft het voorrecht genoten te
+studeeren onder Kern, Cosijn, De Vries, Fruin
+en Muller en de leerling heeft zich zulke
+leermeesters overwaardig getoond. Want, na
+n jaar aan de hoogere burgerschool te
+ZaltBommel les te hebben gegeven, werd hij van
+1888 tot 1895 leeraar aan het gymnasium te
+Haarlem. Daar schreef hij zijn Afscheiding
+van de Waalsche gewesten van de Generale
+Unie", door Teyler met goud bekroond. In
+1895 riep Groningen hem als opvolger van
+Blok op den leerstoel van algemeene en
+vaderlandsche geschiedenis, en tien jaren lang
+heeft hij daar met lust en met eere gearbeid.
+Toen overleed te Leiden Pieter Lodewijk
+Muller, en Bussemaker nam zijn plaats in
+als hoogleeraar in de algemeene geschiedenis
+en de staatkundige aardrijkskunde. Hoe
+levendig staat mij nog op dit oogenblik die
+4de October 1905 voor den geest, toen hij
+inaugureerde met eene rede over
+Delwaardeering der feiten in geschiedvorsching en
+geschiedschrijving". Hoe klaar en bezonnen
+sprak hij, uit welk een overvloed van ge
+
+rijpte kennis, hoe krachtig was zijn pleidooi
+voor dat volstrekt onafhankelijk onderzoek,
+waarbij toch de historicus zijn oordeel, zijne
+waartieering niet behoeft, niet mag terug
+
+houden. Negen jaren slechts hebben wij hem
+sinds mogen bezitten. Over wat hij als man
+van wetenschap heeft voortgebracht, zullen
+anderen oordeelen, zal zijn biograaf in de
+Aca.derhie, zijn levensbeschrijver in de Maat
+
+schappij der Nederlandsche letterkunde uit
+
+voerig spreken. Ik zal dat dus hier niet doen
+en slechts herinneren, dat hij o.a. arbeidde
+aan de voortzetting van P. L. Muller's Ge
+
+schiedenis van onzen tijd" en de uitgave
+bezorgde van het vervolg der beroemde
+Archives de la maison d'Orange-Nassau",
+de vierde reeks, waarvan tome IV, 1759—1766
+vór mij ligt. Het is van 1914, zijn laatste
+werk. Van zijne talrijke artikelen kan ik hier
+niet gewagen. Want ik heb nog zooveel,
+waarvan ik spreken wil. Van den docent,
+den wezenlijken leidsman zijner leerlingen.
+Aan het slot zijner Leidsche oratie beloofde
+hij hun zijn hulp, raad en daad en de bevorde
+
+ring hunner belangen. Het is geen ijdele be
+
+lofte gebleken. Hij droeg inderdaad die be
+
+langen op het hart, en zijne leerlingen niet het
+minst zullen hem smartelijk missen. Hij was
+veel voor hen en elk jaar steeg het getal van
+wie onder zijne bepaalde leidingwilden
+studeeren.Ieder roemde de manier van zijn onder
+
+wijs, en ik kan mij dat begrijpen, als ik de
+avonden gedenk, waarop ik hem eerst te
+Groningen, later te Leiden, op het Histo
+
+risch Genootschap of in de Historische com
+
+missie hoorde. Welk onderwerp hij ook
+uit zijne rijke kennis behandelde, altijd trof
+het methodische van het onderzoek, de klare
+betoogtrant, het sobere en de beperking
+waarin zich immers de meester toont. Zoo
+moeten de colleges ook geweest zijn. Maar
+bovendien, zijne leerlingen, ontvingen van
+zijn tijd het grootste en het beste deel. Een
+hunner sprak heden aan het graf ongeveer
+deze woorden: Zoo professor Bussemaker
+niet zooveel geleerde werken geschreven
+heeft als zijne gaven deden verwachten, het
+was, omdat hij zich voor ons opgeofferd
+heeft. Voor ns zijne beste uren, voor ns
+het leeuwendeel van zijn arbeid, de altijd
+nieuwe, altijd frissche colleges." Dit is
+buitengemeener lof dan oningewijden zullen be
+
+vroeden. Hier ligt ook de verklaring van zijn
+gave van examineeren, aan de hoogeschool
+of in de commissie voor de akte M. O. Het
+was helder, scherp geformuleerd en humaan.
+En moge nu ten slotte ook het hart zijn
+eisch hebben. Hoe zou ik, na bijna
+twintigjarigen omgang, kunnen zwijgen van wat
+Bussemaker als mensch sierde? Tot liet
+allerintiemste van zijn gemoedsleven heeft
+hij maar weinigen toegelaten. Doch ook wie
+tot den wijderen kring van vrienden be
+
+hoorden, ondergingen wel den sterken indruk
+van de eenvoudigheid en de oprechtheid
+van zijn karakter. Deze man schuwde alle
+ophef, alle zelfreclame, hij was rustig en eer
+
+lijk en, schoon hij de diplomatieke geschie
+
+denis grondig kende, in hem was niets van
+den diplomaat'. Hij kon zeer hartelijk
+lachen en er was nimmer een valsche klank
+in. Hij was een man van erkende beteekenis,
+maar altijd bereid den zwakkeren broeder
+te bemoedigen en aan te sporen. Hij had
+zijn eigen werk lief, maar in anderer arbeid
+stelde hij hartelijk belang: hij vroeg er naar
+en luisterde ook naar het antwoord. O, te
+denken dat wij dit gezicht nimmer meer
+zullen zien, deze stem nimmer meer hooren!
+Hoevelen zijn er reeds heengegaan, van wie
+eenmaal te Groningen op de Historische
+avonden" vergaderden, Reitsma, Rutgers,
+Bos, Feith en nu Bussemaker, wiens verlies
+wij thans beschreien. Hij heeft niet geleden
+en is zonder strijd heengegaan. Rijk en ge
+
+lukkig moet het leven geweest zijn van een
+man, die door zijn gezin, door zijne vrienden
+en ambtgenooten diep en oprecht wordt be
+
+treurd; en deze zijn de gevoelens, die ons
+vervullen, als wij aan Bussemaker denken.
+Zijne plaats zal worden ingenomen, het leven
+zal zijn gang gaan, de ontzaglijke gebeurte
+
+nissen, die zich nu in de geschiedenis af
+
+spelen, zullen onzen geest voor en na ver
+
+vullen maar dezen man zullen wij onder
+niets vergeten. Zijne nagedachtenis bewaren
+wij als een schat, nu wij zonder hemzelven
+ons pad vervolgen moeten.
+Leiden, 9 Sept. 1914 L. KNAPPERT
+Berichten
+
+EEN DISSERTATIE OVER RlCARDA HUCH.
+Als een bijzonderheid wordt gemeld dat
+aan de universiteit te F reiburg een studente
+is gepromoveerd op een dissertatie1 over
+een nog levend auteur. Onder den titel
+Ricarda Huch, ein Beitrag- zur Geschichte
+der deutchen Epik door Elfriede Gottlieb,
+is deze dissertatie te Leipzig bij Teubner
+verschenen.
+DE OORLOG. Zooals te begrijpen is heeft
+de oorlog vooral de boekenproductie een
+gevoeligen knauw gegeven. Van alle kanten
+hooren we van uitgaven die verdaagd of
+gestaakt zijn. Volgens de Daily Mail hebben
+sinds het uitbreken van den oorlog te Lon
+
+den alleen 50 tijdschriften opgehouden te
+verschijnen. Sommige er van zullen, als
+betere tijden aanbreken, weer worden uit
+
+gegeven; vele zullen voor goed verdwijnen.
+BENEDIKTUS XV,
+de nieuwgekozen Paus van Rome,
+kardinaal dellaChiesa, vroeger secre
+
+taris van Rampolla
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiliiiiiiiiiiiiiiiiiiiiiiiiiiiiiimuiiiiii IIIIIIIIIIIIIHIII
+Te Parijs is bij ne firma de uitgave van
+vijf tijdschriften gestaakt, n.l. Femina, Je
+sais tout, Masica, Fermes et chateaux en
+La vie au grand air.
+Een nieuw blad, The War, heeft zijn ont
+
+staan aan den oorlog te danken. Het zal
+wekelijks verschijnen en in woord en beeld
+de geschiedenis daar van geven.
+
+* # *
+De Rijkste
+
+Enkele jaren na den oorlog van '70 ont
+
+moetten twee oude bekenden, een Duitscher
+en een Franschman elkander te
+Scheveningen. De politiek bleef natuurlijk niet buiten
+hun vriendschappelijk discours. Ze gaven
+beiden hoog op over den rijkdom van hun
+vaderland: de Franschman noemde Frank
+
+rijk, de Duitscher Duitschland het rijkste
+land ter wereld... Ik zal je het klare be
+
+wijs leveren," riep de driftige Franzoos dat
+wij onmetelijk rijk zijn: we hebben jullie
+5 milliard oorlogsschatting betaald, en we
+hebben er niets van gemerkt!"
+'t Mocht wat!"... antwoordde de Ger
+
+maan, terwijl hij met een schamper lachje
+door zijn agreguesbril zijn tegenstander
+in de oogen zag: wij Duitschers zijn toch
+verreweg de rijkste; wij hebben dat
+peulschilletje van 5 milliard gekregen en... we
+hebben er ook niets van gemerkt.
+
+Soldij
+De Engelsche soldaat is geen dienstplich
+
+tige, maar een beroepssoldaat, die dus meer
+rechten kan doen gelden, dan onze miliciens.
+Vandaar ook, dat hij beter wordt betaald.
+Een gewoon soldaat in 't Engelsche leger
+ontvangt een dagloon, varieerend tusschen
+60 cent en ƒ1.05, een korporaal van ƒ l tot
+ƒ1.60, een sergeant van ƒ1.40 tot ƒ2 en
+sergeant-majoor van ƒ2.25 tot ƒ3.22V^, en
+master-gunner" (geschuts-commandant) van
+/'2.50 tot ƒ3.60, een kwartiermeester van
+'ƒ5.40 tot ƒ630.
+* *
+iiiiiiiimiiimi
+op RIJWIEL.. RIJTUIG»en AUTOBANDEN
+waarborgt soliditeit. &lt;£&gt;
+Fabriek Hevea, Hoogezand (Groningen.)
+BOUWT TE NUNSPEET.
+Mooie boschrijketerreinen.Spoor,Tram,
+Electrisch licht, Telephoon. Inlichtingen
+M.ij DE VELUWE", Nunspeet.
+AUTOMOBIELEN.
+Hoofd-Agent voor Nederlana :
+
+J. LE0MM LAM,
+AMSTERDAM.
+ADDflNTIfIEDER iTUK D AT KRIMPT
+UHNHI11 IL WORDT TERUGGENOMEN
+FABRHWnTtriVftLTOPI ZONEN«M5TERDAM
+Monsters, geïllustreerde prijscou
+
+ranten en attesten zenden gaarne
+N. V. Ned. Tricotfabriek VALTON
+ZONEN, Amsterdam.
+H.Y. EERSTE «SD. FABRIEK TAN ASBESTCEMENTPLATEN
+Mart i n i t".
+MARTTJHTPLATEN zfin :
+brand-, trek- en
+krimpvrij.
+px*y«en en monsters.
+ADRES:
+Cruqinsweg 113, Amsterdam*
+Ongevallen O P FAN
+Aansprakelpheid ^^ ^* *• * • • •
+Ziekten
+ROKIN 151 - AMSTERDAM
+Automobiel
+Brand
+Diefstal
+
+</text>
+<image timestamp="2002:08:21:01:25:46.00" size="516262">D40001FD.TIF</image>
+</page>
+</document>

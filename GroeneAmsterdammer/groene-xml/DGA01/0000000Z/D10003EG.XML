@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19201016</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N°. 2260
+Zaterdag 16 October
+A°. 1920
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN KAMP
+veJacteuren: Prof. Dr. H. BRUGMANS, Mr. E. S. OROBIO DE GASTRO Jr., Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL en H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+P ijs per No. f 0.25. Per half jaar 6.25. Abonn. loopen per jaar
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Advertentiën 10.75 per regel plus 10 cent dispositiekosten
+Door de poststaking waren verschillende
+proeven voor het vorige nummer niet terug
+
+gekomen. Hierdoor zijn onnauwkeurigheden
+in de artikelen geslopen, die niet te ver
+
+mijden waren.
+REDACTIE.
+INHOUD: Bladz. I: Een verzuimde plicht,
+door Prof. Dr. G. W. Kernkamp.
+Tijdgenooten, door Dr. G. W. C. Byvanck.
+Verbond van Vakvereenigingen, door I.
+Santcroos. 2. Buitenlandsch Overzicht,
+door Prof. Mr. J. C. van Oven. Krekelzang,
+door J. H. Speenhoff. 3. Het Roode
+Lampje, door Dr. Fred. van Eeden.—5. Voor
+Vrouwen (red. Elis. M. Rogge) Bijeenkomst
+Intern. Vrouwenraad, door W. v. Itallie-van
+Embden.—Brieven uit Italië,door Rie
+Cramer.Mode-Silhouette, door Hermina IJzerdraat.
+Uit de Natuur, door Jac. P. Thijsse. 7.
+Muziek in de Hoofdstad, door H. J. den
+Hertog. Schilderkunstkroniek, door
+Plasschaert. Een lofwaardig initiatief, door
+H. S. Dramatische Kroniek, door
+Top Naeff. Voor den spiegel der Ijdel
+
+heid, door Jordaan. 8. Boekbespreking,
+door Prof. Dr. H. Brugmans. Het
+RijksMuseum, door H. V. Heraldiek. Indi
+
+sche Causerieën, door Mr. H. G. Koster.
+9. Op den Econ. Litkijk, door Jhr. Mr, H.
+Smissaert. Boeketjes Sofistiek, door Gerh.
+van Dijlc. Spreekzaal. 10. Veis van
+Charivarius. Charivaria. Schaakrubriek,
+red. Dr. A. G. Olland. Onze Puzzle.
+Uit het Kladschrift van Jantje. 11. Lloyd
+George en Ierland, teekening van Joh.
+Braakensiek. Het Hondje, door Ch. v' lerssel.
+Hofstad en Hofstedelingen.door Nuciiterling.
+A. M.,, Aldoor C. F. van Dam.
+Bijvoegsel: Na de Poststaking, teekening
+van Joh. Braakensiek.
+EEN VERZUIMDE PLICHT
+
+In de groote zaal van liet
+Amsterdamsche Concertgebouw : een paar
+honderd jonge vrouwen en mannen,
+elk aan een tafeltje, haastig schrijvend
+of starend in de ruimte, wanneer liet
+werk niet wil vlotten. Het gedempte
+geluid van muziek er wordt in een
+andere zaal gerepeteerd hindert
+ze niet ; zij hooren het vermoedelijk
+niet eens ; al hun aandacht is ge
+
+concentreerd op de wetenschappelijke
+vragen, die zij hebben te beantwoorden.
+Ze zijn verdiept in de Maria-legenden
+of in Max Havelaar ; in het voorspel
+van den vierden Engelschen oorlog of
+in de geschiedenis van Zuid-Afrika in
+de tweede helft der negentiende eeuw ;
+in de voor- of nadeelen der ligging van
+Duitschland of in de geologische ge
+
+steldheid van Java ; in de bevoegdheden
+van den Raad van State of in
+waterschapsquasties ; in het vraagstuk van
+de infiltratie of in het verschil tusschen
+de historische en de liberale school in
+de economie.
+Over een van deze of een soortgelijk
+onderwerp moeten zij eenige bladzij
+
+den volschrijven, want zij zijn hier op
+
+geroepen voor het afleggen van het
+schriftelijk examen voor de acte, die
+het recht verleent tot het geven van
+middelbaar onderwijs, hetzij in Neder
+
+landsen, hetzij in geschiedenis, hetzij
+in aardrijkkunde, of wel in staats
+
+inrichting en staathuishoudkunde.
+Het zijn vogels van diverse pluimage,
+deze aanstaande leeraressen en leeraren
+aan onze hoogere burgerscholen en
+gymnasia.
+Zoo kan men ze allen reeds niet
+noemen. Onder de candidaten zijn er
+verscheidenen, die a! een betrekking
+bij het middelbaar onderwijs hebben
+en behalve de acte, die zij vroeger
+behaalden, nog een tweede of een derde
+wenschen te verkrijgen.
+Er zijn er ook enkelen onder, clie
+reeds als leeraar werkzaam zijn, zonder
+dat zij nog de acte hebben behaald,
+die voor het geven van dat onderwijs
+vereischt is ; het tekort aan bevoegde
+sollicitanten naar leeraarsbetrekkingen
+is reeds zoo groot geworden, dat in den
+laatsten tijd ook aan rijks- of gemeente
+
+scholen onbevoegde leerkrachten tij
+
+delijk zijn aangesteld ; men heeft dan
+wel eenigen waarborg, dat zij hun ambt
+behoorlijk zullen vervullen, omdat zij
+reeds bij het lager onderwijs werkzaam
+zijn geweest en zich al eenigen tijd heb
+
+ben voorbereid voor de middelbare acte
+in het vak, waarin zij les moeten geven ;
+maar met dat al blijft het onzeker,
+wanneer zij die acle zullen behalen. Het
+laat zich aanzien, dat het tekort aan
+bevoegde sollicitanten in de eerstvol
+
+gende jaren nou grooter zal worden en
+men, om de lessen in een bepaald vak
+niet te doen stilstaan, nog dikwijls zijne
+toevlucht zal moeten nemen tot dezen
+noodmaatregel, waaiaoor het peil van
+het middelbaar onderwijs niet wordt
+verhoogd.
+Maar de groote meerderheid Ier
+candidaten bestaat uit personen, die bij
+het lager omJurwijs werkzaam zijn of
+nog' nooit eenig onderwijs hebben ge
+
+geven. En van deze laatsten is de voor
+
+opleiding zeer verschillend.
+De wet stelt omtrent die voorop
+
+leiding geen enkelen eisch. Een ieder
+kan zich aanmelden voor het
+examenmiddelbaar onderwijs ; er nestaat niet
+de minste waarborg, dat de candidaten,
+behalve de vakkennis, waarbij zij van
+het examen blijk zullen moeten ueven,
+ook de algemeene kennis en beschaving
+bezitten, die voor een leeraar bij
+het middelbaar onderwijs toch een
+even onmisbaar vereischte behoorde te
+zijn.
+Natuurlijk brengt het examen hierin
+eenige correcties aan. Bij het schriftelijk
+examen moeten de candidaten
+toonen, dat zij hunne kennis van bepaalde
+onderwerpen in behoorlijken vorm onder
+woorden kunnen brengen ; bij het mon
+
+deling examen zullen zij niet veel kans
+van slagen hebben, indien /.ij niet
+zooveel Fransch of Duitsch kennen,
+clat zij ook ueschriteii in die taal hebber
+kunnen bestudecren.
+Meer dan correcties zijn het echter
+niet ; ook het examen kan den mis
+
+stand niet geheel wegnemen, dat
+iemand zich voor een acte in een be
+
+paald vak van het middelbaar onder
+
+wijs kan aanmelden, zonder dat hij vol
+
+doende aluemeen ontwikkeld is ; ook
+iiiiiiiiiiiMiiiiiiiiiiiiiitiiiiit mm iiiiiiiiiiiiiiiiiiiiiiiiiiiini
+LYAUTEY
+IV
+Om een werk goed te verrichten, moet men
+het met vreugde doen.
+Niemand zal kunnen zeggen, dat Lyautey
+niet persoonlijk genoot van de taak vobrheiïi
+weggelegd in het Zuiden van Algiers Hoor
+hem zijn tent beschrijven in de woestijn
+
+streken. ...
+Want hij is bewegelijk ; hij moet hier en
+daar en overal zijn. Hij wil zijn orders geven
+op de plaats zelf, en, een vijand van om
+
+slachtige administratie, hij wil direct de be
+
+richten ontvangen om dadelijk een besluit
+te nemen.
+Vind mij dan daar, bij dat kruispunt van
+wegen, bij die oase, laat hij door boden
+aan zijn officieren melden, en hij staat er op
+dat zij den aangegeven tijd ter bepaalde
+plaats aanwezig zijn, al bedraagt de afstand
+een tiental uren rijdens door het heete zand.
+Hij ziet immers zelf niet op tegen een
+gang door de woestenij!
+Het is hem een eigen weelde door den
+vuurpoel te gaan, als de gansche vlakte tut
+een onwezenlijke schittering is overgegaan
+duur de flikkering van het licht.
+,,De paarden stappen moeilijk, de man
+
+schappen dutten in rndcr hun breedi; hoeden
+en de witte voiles o\ er hun uniform heen.
+Welk een geluk die vrede, die ruinile en die
+diepe insnijding \\elke ons scheidt \ an al wat
+ons bedrukt en beent;!, en onk de warmte
+niet te vergeten! Want wij allen koesteren
+een haat tegen de kou, wij, zon- en
+lichtaanbidders, die gelooven in de alleen levend
+
+makende kracht van de warmte !"
+De aankomst daarna tegen het vallen van
+den avond in het kampement!
+Maar het is geen gewone kampeering. De
+ligging der tenten is los en smaakvol gerang
+
+schikt. En wat voor tenten ! Stamhoofden
+der woestijn hebben van veraf hun eigen
+woonplaatsen gestuurd ten gebruike voor
+den resident.
+De tent is groot als een geheel apartement,
+zware tapijten bedekken den grond, de wanden
+zijn gevoerd met laken en zijde, het is alsof
+er een lambriseering rondgaat.
+Wanneer eenmaal de drukte van de aan
+
+komst en de beweging om den maaltijd voorbij
+zijn, als de deur van de tent tegen den nacht
+wordt gesloten, dan is daarbinnen een onuit
+
+sprekelijke, huiselijke rust. De kostbare wapens
+zijn geordend tegen de wand, de pistolen
+rusten in hun holsters, de goudgestikte
+burnous met zilveren sterren is opgehangen, dat
+zijn de symbolen van het commando; daar
+
+ginds is het toilet uitgespreid bij de rust
+
+plaats; de tijd is gekomen voor de droomerij
+te midden van het volstrekte alleen zijn in
+tijd en ruimte waar geen enkele gedachte,
+bij die onvervalsclite Muzelmantehe wereld,
+aan het bekende Herinnert.
+
+Maar Lvautev, die jalnerseh waakt op de
+oogenblikken in gezelschap van de eigen ge
+
+dachten of in het ge^prik met verre \ rienJen
+doorgebracht, is o-k liet hoofd \an de zet'.diiiL:
+die zijn gaslvriihüd zoover ino^eliik \-,,i -', i. !,r
+die \ oor ieder ei;i \ l ieiiik luk v.o^rd 'u-i'M
+nat'.nirliik en n.cht op den man ;i' me! /'.m
+officieren, vol Vormen e;: bcleeidlu den '. • ;
+'Ie inheemselie stamhoofden, \ ""rk •]':!'. mi
+jegens de kooplieden ei: joviaal pr; i eiu:
+tegenover de afge\ a.irdiüden uil Fr&gt;iükri|k
+met gebrekkige kennis van Fransch
+en Duitsch om van het Engelsen
+maar te' zwijgen doet menige
+candidaat nog een gooi naar de acte.
+En het is ten slotfe niet de kennis van
+moderne talen alleen, die naast de vak
+
+kennis het aeel van een leeraar behoort
+te zijn ; hij moet ook van andere onder
+
+wei pen eenige notie hebben. Het
+examen toont soms aan, hoeveel eraan
+de algemeene ontwikkeling van den
+candidaat ontbreekt; een belangrijk
+tekort daaraan kan de examen-com
+
+missie doen besluiten, de gevraagde
+acte niet uit te reiken, ook wanneer
+de vakkennis weinig te wenschen
+overlaat ; maar zulke beslissingen val
+
+len niet altijd gemakkelijk; uit eigener
+
+varing kan ik verzekeren, dat de commis
+
+sie wel eens een acte toekent, ook al
+twijfelt zij eraan, of zij den candidaat
+dij de acte krijgt, eigenlijk wel op
+het middelbaar onderwijs mag ..los
+
+laten."
+Jaar in, jaar uit hebben elkaai op
+
+volgende examen-commissies erop aan
+
+gedrongen, dat van de canclidaten
+voor een middelbare acte een bewijs
+van voldoende algemeene ontwikkeling
+zou worden gevorderd, in dezen vorm,
+dat zij het i'iploma van eindexamen
+H.B.S. of gymnasium of eenig ander,
+daarmede &lt;;elükstaand bewijs van be
+
+hoorlijke vooropleiding zouden moeten
+overleggen.
+Tf.t dusverre bleef de/e weiiseli
+onvervuld. Maar laiu: zal het niet meer
+duren. Indien mijn inlichtingen juist
+zijn en ik heb alle reilen dit te
+gelooveii - bereidt Minister de Visser
+een wijziging van de wet op het M.O.
+voor, waarbij het bedoelde bewijs van
+•Je canuidaten voor een middelbare
+acte zal worden geeischt. Daarmede zal
+hij het peil van het middelbaar onder
+
+wijs helpen vcrhooge-n al zal hu
+dan op den koop toe liet ongewenscht
+gevolg moeten nemen, dat het te kort
+aan bevoegde leerkrachten in de naaste
+toekomst noo groote" wordt.
+Juist dit gevolg kan echter voor
+de Regcering een spoorslag zijn om
+zicli tegenover het middelbaar onderwijs
+van een plicht te kwijten, dien zij tot
+nog toe schromelijk heeft verzuimd.
+Niet alleen om de vooropleiding,
+maar ook om de eigenlijke vakopleiding
+van aanstaande leeraressen en leeraren
+heeft zij zich niet bekommerd.
+Zeker, wie de bevoegdheid tot het
+geven van middelbaar onderwijs wil
+verwerven, kan deze krijgen door het
+afleggen van universitaire examens;
+maar deze wei; staat voor de meesten
+niet open ; het personeel van het
+middelbaar onderwijs word t ik
+spreek hier alleen van de vakken, die
+ik in het begin van dit artikel noemde
+••—sinds geruimen tijd voor een goed
+deel gerecrnteerd uit de kringen van
+het lager onderwijs.
+Sommige onderwijzers hebben de
+gelegenheid om colleges U volgen aan
+een universiteit ; maar deze colleges ge
+
+ven hun slechts ten dee'e wat zij be
+
+hoeven : en dan zijn het nog maar
+op hun bezoeken aan de nieuwgewonnen
+provincie.
+Wat hij zich eenmaal in Tunking gedu
+
+rende dagen van neerslag!igheid als zijn
+ideaal van een bestuurder over vreemde
+streken had voorgesteld, den man uit wiens
+oogen de bezieling voortsprong om te handelen
+en hem na te volgen, dat, zooals hij be
+
+merkte, begon hij nu te bereiken. De admi
+
+nistratie van Zuid-Oran hield zich staande
+naar het model dat het hoofd van het bestuur
+aangaf.
+Niet te vergeten hierbij, dat hij uitstekende
+helpers bezat, gedreven door een
+bewonderenswaardigcn geest van zelfopoffering. Vroeger
+in Tonking had generaal Galliéni de volstrekte
+dienstvaardigheid van liem geeischt, waarop
+een chef moest kunnen rekenen, wilde hijzelf
+zijn hoofd en zijn blik vrij houden voor de
+directie van groote zaken, zulke mannen
+die dag en nacht gereed stonden op het eerste
+sein en volbrachten wat hij wilde, heeft
+Lyautey ook gevonden.
+
+Nu kwam het zwaardere werk,
+Na de verwikkelingen met Duitschland over
+het Maroccaansch gebied, die in MM l tot een
+uitbarsting en een vergelijk hadden geleid,
+is het noodig gebleken voor Frankrijk om
+den toestand van het groote
+YVest-Afrikaansche ruk te ordenen.
+De Sultan van Maroceo droeg hij tractaat
+van Maart H'12 aan Frankrijk het protecto
+
+raat op over zijn gebied, en de Fransche
+ivi'eeriiig bereidde zich \ oor. tegeliik het
+\erdi.ej ,,.!'] de g"ecl keuring van de Kamer te
+oiid&lt; r\\ v ij , ;• i-n de maatregelen V'.or te stellen
+waard'"!' hi' r: uerkh':; zo;i t redeti, toen de
+l'.jd'.hg weid "\ i! H'. i •; .'Cül van M n ;':i_ynieene
+beweging in M.ivoce.. tegen de \: eemdeiim'.ei:
+en v,m i" bioi-dbail "!id&gt;T de ':-\\ "|ie.nien
+1:1 ..':.' l' "O!"! ,1,1 l 'l /. 'l ITM "lid II' M'-l \ O"]
+ƒ ie!: 1!!L! W ' Tllcl! lj,l't l ' i! lel!.
+1.-..Olie1 w,is i'P d,.l oogeilr.uk reeds
+geenkelen, voor wie deze gelegenheid
+openstaat.
+Verreweg de meesten moeten zich
+op andere wijze behelpen : door eigen
+studie, door het nemen van
+privaatlessen, door het volgen van een cursus.
+Geheel zonder leiding kunnen alleen
+de bij uitstek begaafden zich voor het
+examen voorbereiden ; hulp daarbij
+is bijna voor een ieder gewenscht.
+Maar die hulp is dikwijls moeilijk te
+verkrijgen en moet ver worden gezocht;
+het aantal leeraren, dat zich wil en
+zich kan belasten met de taak om op
+te leiden voor een middelbare acte,
+is niet groot ; vooral bij de tegenwoor
+
+dige spoorwegtarieven kan menig on
+
+derwijzer zich de onkosten van
+privaatlessen niet getroosten, wanneer hij
+daarvoor een eenigszins lange reis
+moet coen.
+In den laatsten tijd hestaan ook
+cursussen voor de opleiding tot sommige
+acten : Katholieke leergangen, een cur
+
+sus, die door de Vereenioing van Leera
+
+ren bij het M.O. was opgericht, maar
+die straks zal worden opgeheven (o.a.
+om deze reden, dat Je Vereeniging,
+bij de bestaande salarieering niet mede
+wil werken tot de opleiding van leer
+
+aren !) en nog andere, zelfs schrif
+
+telijke ! De Reoeetino' subsidieert som
+
+mige daarvar, die aan bepaalde voor
+
+waarden voldoen, maai" vol^t daarbij
+het slechte stelsel om het bedrag dei
+subsidie te laten afhangen van het
+aantal ueslaar'den, dat de cursus ...af
+
+levert" !
+Ook Je opleidhis.' die de beste van
+deze cursussen j/even, beantwoordt
+niet aan alle eischen. die men zou
+willen stelLn : maar zij zou toch aan
+nieiiijjxen te stade kunnen komen
+indien liii slechts door den ver'en af
+
+stand niet'werd belet er i;ebruik van
+te maken !
+Menio candieuat laat zich anders door
+zulke bezwaren niet uauw afschrikken.
+liet is bijna aandoenlijk te zien, welke
+moeite sommige onderwijzers zich
+i',eiroosten om hulp bij hunne studie te
+krijgen : ik heb er oekeiul, die elke
+week, weer of ;ecii weer, op de
+heenen de terugreis een paar uur moesten
+fietsen, of die 's morgens voor dag en
+dauw opstonden, een uur moesten loo
+
+pen naar het naasthijgelegcn station
+om den trein te halen en 'savonds eerst
+laat weer thuis kwamen - alleen om
+des middags gedurende drie uren een
+cursus te kunnen volgen ! En ik dachi
+dan aan anderen, wien eiken clag liet
+voer met den paplepel wordt ingegoten,
+die maar behoeven te slikken !
+Maar er zijn er, vooral in de noor
+
+delijke provincies, ook in Zeeland, die
+mei den besten wil ter wereld aan zulke
+cursussen niet kunnen deelnemen.
+Het wordt tijd, dat de Regeering
+zich bewust worde van den te lang ver
+
+zuimden plicht om zorg te dragen voor
+een behoorlijke opleiding van de aan
+
+slaande leeraren bij het middelbaar
+onderwijs.
+Alleen reeds om tinancieele redenen
+zullen velen hunner yeen universitair
+onderwijs gedurende eenige jaren kun
+
+nen volgen daargelaten de vraag, of
+het gewenscht is, dat de opleiding van
+leeraren geheel aan de universiteiten
+worde toevertrouwd.
+Waarmede zij voorloopig reeds zeer
+gebaat zouden zijn is dit: dat zij in
+een aantal, gemakkelijk bereikbare cen
+
+tra, de gelegenheid vinden om cur
+
+sussen te volgen, die door opzettelijk
+daarvoor aangestelde en met zorg uit
+
+gekozen docenten worden gegeven ;
+de Regeering subsidieere met een vast
+bedrag de reeds bestaande cursussen,
+wanneer deze aan de te stellen eischen
+voldoen en richte ze op, waar ze noodig
+maar nog niet aanwezig zijn.
+Een door ieder erkende verdienste
+van de jongste wet op het lager onder
+
+wijs is: de verbeterde opleiding van
+de onderwijzers, waarvoor tot dusverre
+slechts stiefmoederlijk gezorgd was.
+Van de opleiding der leeraren bij
+het middelbaar onderwijs, voor zoo
+
+verre deze uit de kringen van het lager
+onderwijs kwamen, kan men zelfs niet
+zeggen, dat zij een stiefkind der
+Reoeering was ; deze zag er heelcmaal
+niet naar om.
+Minister de Visser moge bij de aan
+
+staande wijziging der wet op het mid
+
+delbaar onderwijs voorzien in wat te
+lang verzuimd werd !
+K ERN KAM p
+HET INTERNATIONAAL VER
+
+BOND VAN VAKVEREENIGINGEN
+door Is. SANTCROOS DL'Z'.
+De bedoeling van deze bijdrage is objectief
+en sober een en ander te vertellen van hel
+huis in de Vondelstraat" te Amsterdam:
+van het Bureau van het Internationaal Ver
+
+bond van Vakvereenigingen, den laatsten tijd
+zoo veelvuldig genoemd.
+Het is statig van buiten, voornaam van
+binnen. De vertrekken van de beide secre
+
+tarissen, de heeren Oudegeest en f-'immen,
+vertoonen niet geringe overeenstemming met
+de kabinetten van ministers. Deze beide func
+
+tionarissen verrichten hun werk aan prach
+
+tige sehrijfbureaux ; de wanden hunner
+kamers zijn smaakvol behangen en uw voetstap
+verzinkt tot geruischloosheid in het kostbare
+tapijt, waarmede de vloeren zijn gedekt. De
+electrische kronen zorgen in den avond
+voor een stemmige verlichting en bruin
+lederen club-fauteuils nooden tot een
+behagelijken zit.
+Het huis in de Vondelstraat" is feitelijk
+een departement. Een Arbeidsüepart&amp;ment,
+van internationalen aard.
+Op de eerste verdieping, in de ruime, deftige
+vergaderzaal, is meermalen een internationaal
+gezelschap bijeen. Daar wordt geconfereerd ;
+beraadslaagd over het wel en wee van landen
+en volkeren ; overwogen wat moet en kan
+worden gedaan om het wel te bevorderen,
+het wee te voorkomen of tegen te gaan. En
+beneden, in de prachtige suite, komen niet
+zelden diplomaten en
+regeerings-afgevaardigden uit onderscheidene landen met de
+secretarissen onderhandelen, om voor hun
+land en volk de gevolgen van voorgenomen
+internationale arbeiders-acties af te wenden;
+maar meermalen ook, om den secretarissen te
+verzoeken maatregelen te nemen, of den in
+
+vloed van het I.V.V. aan te wenden, in het
+belang van het land dat zij vertegenwoordigen.
+Misschien is het huis in de Vondelstraat"
+ook wel te vergelijken met de kabelkamer
+van een wereldtelegraafkantoor. Van daaruit
+toch verspreiden zich over gansch Europa de
+opdrachten aan de organisaties der
+VakbeIIIIIIIIMIIIIIIIIIIIIII
+llulllllimilIM
+ruimen tijd in Europeeschen dienst voor zijn
+promotie tot commandant van een legercorps.
+Dadelijk vestigde zich de aandacht op zijn
+persoon, maar ook op anderen : Poinearé, de
+President, mocht hem niet. Millerand echter
+wist zijn benoeming in den ministerraad door
+te drijven: alleen een generaal met het orga
+
+nisatie-talent van Lyautey kon de
+Maroccaansche verwarring te boven komen.
+Toen Lyautey in de provincie 's avonds
+door den telefoon van den minister het
+beri.ht van zijn benoeming ontving, werkte hij
+eerst bedaard-het plan van de manoeuvres
+af waaraan hij bezig was --• maar den vol
+
+genden morgen stond hij in Parijs, nam zijn
+instructies als commissaris resident-generaal
+van Maroceo ter hand en zond een dépêche
+aan den Sultan om dien te overtuigen van
+zijn toewijding en van zijn respect. Onder
+het protectoraat begon hij hem al dadelijk
+te protegeeren.
+
+(ieen veertien dagen waren voorbijgegaan
+of hij was in Afrika geland en had de om
+
+standigheden verkend. Die waren hoe langer
+hoe dreigender geworden.
+Hij had maar enkele duizenden geweren
+tot zijn beschikking, maar hij heeft het ge
+
+vaar bezworen door zijn oogenblikkelijke
+tegenwoordigheid in Fez en door aan de
+generaals (iuuraud en Mangin de order te
+geven, de andere hoofdsteden .\\ekines en
+Marrakech van opstandelingen te bevrijden.
+,,(ieet hun raak!" was het hevel dal hij
+aan generaal "• angm voor Marrakech mee
+
+gaf, l lij. die anders zcei hniüaaii uas bij de
+behandrlir.^ del' l iel bcrschr Mam
+hij WIM hoe men*'chrn ie winnen.
+Zeii geell w r,sak had \\dlen neiia
+Cln i-Un-l'!i Ad
+gelaten tot spot met de macht der Franschen.
+Ondertusschen deed de geprotegeerde Sultan
+Moeley Hafid afstand van zijn macht en
+leverd'e het land over aan anarchie. Wat 'n
+crisis, opnieuw!" zei Lyantey tot zijn
+officieren, maar zij voelden zich gerustgesteld
+door een flikkering in zijn oog. Hij had een
+broeder van Moeley Hafid ter hand, Haiid,
+die reeds dan volgenden dag tot Sultan werd
+gekozen. De crisis was niet ingrijpend ge
+
+worden.
+
+Binnen de twee jaren in Maart 1014
+is het bevredigde deel van Maroceo een
+krachtig vooruitgaande kolonie geworden; de
+organisatie was door de wet bevestigd, een
+groote leening was met autorisatie van het
+moederland gesloten en de middelen om het
+land tot bloei te brengen waren verze.&lt;erd.
+Tien jaren rust in Europa, zoo luidde een
+gezegde van die dagen, en de toekomst van
+Maroceo zal schitterend wezen !
+De oorlog barstte uit. Frankrijk meende
+dat het al zijn krachten ter dispositie moest
+hebben op het vasteland van Europa en
+verlangde van zijn resident-generaal, dat hij
+alleen aan de kust zijn macht zou samen
+
+trekken om geen troepen tegenover het
+binnenland te verspillen. Lyautey daartegen
+
+over hield vol dat hij in staat was met de
+troepen welke niet in Europa waren te ge
+
+bruiken de verdediging, ja de uitbreiding van
+het bezit in Maroceo te leiden. Zoowel om
+der wille van zijn hulpmiddelen uit den bodem,
+ais om de contingenten \an troept n die het
+kui leveren, mocht het land niet wordu?
+opgegeven, liet zon een \eiraad aan Fiankri.'k
+zijn ;
+Maar hij zelf keek uit van Ma'occo naar
+de -:a^\eiden in Europa, jaloersch ..p de
+la'r.MTen die zijn tijdgeiiooten daar kon.lei;
+verwerven.
+
+\V. O. C. B Y V A N L K
+
+</text>
+<image timestamp="2002:08:25:03:08:35.00" size="437121">D10003EG.TIF</image>
+</page>
+</document>

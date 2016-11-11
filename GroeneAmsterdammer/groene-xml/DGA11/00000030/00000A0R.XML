@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320220</Datum>
+<Pagina>26</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+' TELEFOON 35533 ===
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+MONZAEMON TJIKAMATS, Dramatische verhalen.
+Uit het Japansch vertaald door S. van Praag, 8°,
+450 bladz. met illustraties, inleiding en verkla
+
+rende aanteekeningen; ing. f 5.75; geb. f 6.90.
+
+In de meesten zijner Sewamono's (burgerlijke
+tooneelstukken) geeft Tjikamats het conflict tusscheh
+eerbied voor de ouders en de familie eenerzijds en
+de neiging van het menschelijk hart anderzijds. In
+' een stuk als de Vrouwenmoord of de Oliehei wordt
+op roerende wijze de onwankelbare liefde van een
+moeder voor haar verdorven zoon ten tooneele
+gevoerd.
+De heer S. van Praag heeft een hoogst verdien
+
+stelijk werk gedaan, Tjikamats' tooneelstukken in ver
+
+taling voor ons bereikbaar te stellen. Een zestiental
+platen van acteurs, schouwburgzalen, staatsiegewa
+
+den en maskers illustreeren dit hoogst belangrijke
+boek, dat in de serie Oostersche Bibliotheek van de
+uitgeverij C. A. Mees verschenen is. •
+HENRI BOREL in Het Vaderland".
+Verkrijgbaar bij den Boekhandel.
+En UITGEVERIJ C. A. MEES.
+= SANTPOORT. =
+N
+B
+O
+3
+a
+B
+H W
+ft fO
+M J}
+tf
+g* O
+O B
+^™'
+B
+ft
+ft
+a
+PENSION 1er RANG
+
+POUR JEUNES FILLES
+
+DE BONNE FAMILLE
+
+EXCELLENTE NOURRITURE
+BELLE SITUATION - CHAMBRES CONFORTABL.ES
+
+MADEMOISELLE DE BROT
+
+VILLA GRAMMONT 14 AVE DES ALPES
+
+LArUSANNE
+Facultéde recevoir Venseignement du franfais et d^ l'anglais
+
+a la maison, ou de suivre les cours de l'Universitéet des
+
+coles de musique.
+
+Renseignements;
+
+Mademoiselle [N. M. Middelbeek
+
+Flatgeb. Zorgvliet LA HAYE
+LAAT UW DISSERTATIES UITGEVEN DOOR
+UITGEVER U C. A. MEES
+
+SANTPOORT
+
+SMAAKVOLLE UITVOERING
+ZORGVULDIGE CORRECTIE
+BILLIJKE VOORWAARDEN
+H.H. M'edici 'en Tandartsen
+..- • , ~t - . n, ........ . i
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+Amsterdam (C..) • Rotterdam
+Keizersgracht 410 • Wij n haven 100
+TARIEVEN OP AANVRAGE.
+r
+Aan de Administratie van De Groene Amsterdammer" Keizersgracht 355 ~ Amsterdam C. Giro 72880. Gemeente Amsterdam
+G. 1000. Telefoon 37964.
+Ondergeteekende wenscht zich van l Maart af op De Groene Amsterdammer" te abonneeren tegen den prijs van
+acht gulden 50 CentS voor 1932 en de nog in Febrnari verschijnende nummers gratis te ontvangen.
+Abonnementsprijs tien gulden per jaar.
+Naam:..
+Woonplaats:
+
+</text>
+<image timestamp="2002:09:26:17:17:43.00" size="92216">00000A0R.TIF</image>
+</page>
+</document>

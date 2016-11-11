@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020803</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1310
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Als de zon van den voorspoed lacht...
+Uu Hollander klaagt, dat het hoofdorgaan der anti-revolutionnaire partij, de Standaard,
+ma;ir steels in hetzelfde formaat blijft verschijnen en daardoor niet voldoeu kan aan de ciscuen,
+(]ie een ieler aan een dagblad mag stellen.
+De iinti-revoliiiionnaire partij verkeert tlians. zonden we zoo zeggen, in de meest gunstige
+omstandigheden om te kumcn tot een dagblad in dm trai.t als de Nieutce Courant en andere bladen.
+Voor een zoo invloedrijke partij als de ona&gt;, is toch een blad als de Standaard al te klein
+en te oiAvoldoeiulc."
+DE STANDAARD (tof Dr. Kuyper, : »Vadertje, vindt-u ook niet, dat het voor, my mér dan ty'd wordt ooi opgestoken haar en langa rokken te dragen ?"
+
+Na weeën. (Life).
+Hervormingen. (Ulk).
+JOHN BULL : »Joe, die oorlog is heel duur geweest."
+JOE CHAMBEKLUN : »Hm ! we hebben ook de kosten van beide partyen moeten btta'an."
+
+De Tripoli kwestie.
+. ' Al zou N colaasje ook w'lkc, zyn goade voornemans blijven in
+^ de lucht tanden.
+Onder Leeuwen. (Punch).
+Syi-ABE LEEUW (tot den leeuw ;an St. MareiM): »We
+hebben allen met j Ue doen hoor! Ik w ju alleen maar dat er ook
+eens eenige van onza L jndeneche monumenten in mekaar vielen."
+
+(De St. M.irkustoren (camp'ini'e) te Venetiëstortte op 14 Juli in).
+»De Z':eke Man", die zijn geheele omgeving overleeft.
+
+(LuAige Bla'.ter).
+De aanstaande Kronin?.
+ITALIËitot haar premier Pniietti): «Maar we moeten weten walken kant we uittillen ..."
+PBINETTI : »Ia allen gevallen in'len we maar een parapluie mcê:emen, ik yerwacht een bui..."
+Joux BLLL : «Alles in oide !"
+
+</text>
+<image timestamp="2002:08:18:05:35:18.00" size="368605">D2001GX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330506</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+H«. 2918
+De Groene Amsterdammer van 6 Mei '1933
+( Voorwereldlijk monster
+Moderne danseres
+Zijn er vaste centra in
+ons zenuwstelsel?
+Dr. P. van Olst
+De reflexen
+De levensuitingen van dieflen (en dus ook
+menschen) berusten op zoogenaamde reflexen. Het
+zenuwstelsel bevat twee soorten zenuwen, namelijk
+de aanvoerende en de afvoerende zenuwen. De
+aanvoerende zenuwen brengen de berichten der
+prikkels, die de zintuigen treffen, over naar het
+centrale zenuwstelsel- (hersenen en ruggemerg),
+terwijl de afvoerende zenuwen in omgekeerde
+richting werken, dus berichten van uit het cen
+
+trale stelsel overbrengen naar de organen, die er door
+beheerd worden, dus spieren en klieren. In het
+centrale zenuwstelsel zijn deze twee zenuwsoorten
+met elkaar verbonden. Wanneer deze verbinding
+zoo is, "dat automatisch steeds eenzelfde beweging
+van een spier of dezelfde werking van een klier
+het gevolg is van een bepaalde prikkel, zonder dat
+er verder bij behoeft gedacht te worden, dan
+spreekt men van een reflex. Branden we onzen
+vinger aan de kachel, dan trekken we, voordat
+we erbij denken kunnen, onzen arm terug. Ge
+
+lukkig, want als wij er eerst bij denken moesten,
+brandden we onzen vinger veel ernstiger eer de
+arm 'teruggetrokken werd. Een combinatie
+van een aanvoerende (gevoels-)zenuw, het
+verbindingspunt in het centrale stelsel, en de afvoe
+
+rende* (bewegings-)zenuw heet een reflexboog.
+De reflex bij het. branden van den vinger is
+nog simpel, maar er zijn ook veel ingewikkelder
+reflexen, bijvoorbeeld de bewegingen die men
+maakt -om het evenwicht te bewaren als dit ver
+
+stoord dreigt te worden, de Blikbewegingen, de
+gewone loopbewegingen om er slechts enkele te
+noemen. Zij bestaan uit een combinatie van simpele
+reflexen; het regelen hiervan tot een goed afloo
+
+pend geheel wordt verzorgd door coördinatie
+
+centra, die in het centrale zenuwstelsel een vaste
+plaats hebben.
+Atbrecht Bethe, hoogleeraar te Frankfort a/M.,
+is reeds vele jaren een tegenstander van deze
+opvattingen, die in uitgebreide kringen als vast
+
+staand worden beschouwd en hij heeft in Januari
+van dit jaar een belangwekkende voordracht erover
+gehouden voor een vakkring van medici te Berlijn.
+Uit zijn vele voorbeelden neem ik een enkele
+over. Hij vermeldt de verschillende wijzigingen,
+die Jïnpgelijk zijn bij de voortbeweging van een
+dier. Eén hond, die een poot mist, loopt heel goed
+op drie pooten; het coördinatie-centrum van den
+normalen loop moet dus buiten werking zijn en
+vervangen zijn door een nieuw coördinatiecentrum
+voor het. nieuwe loop-systeem. En daar de hond
+op vier manieren een poot kan missen, moeten ei
+dus vier nieuwe centra ontstaan of reeds latent
+aanwezig zijn. Maar bovendien kan een hond als
+'t noodig ig, alleen op twee vcorpooten, of alleen
+op twee achterpooten loopen, zelfs op een linker"
+voorpoot en een rechterachterpoot (of omgekeerd)
+en ook wel op twee rechter- of alleen twee linker-,
+pooten. Dus nóg meer coördinatiecentra ! En deze
+centra moeten niet geleidelijk door het gebruik,
+dus door oefening ontstaan, want een plotselinge
+beschadiging of onbruikbaarmaking van een of
+meer pooten kan de hond ertoe brengen direct de
+nieuwe loopbeweging zonder eenige oefening goed
+te maken.
+Hoewel 't reeds niet erg aannemelijk is dat er
+zooveel, in normale tijden volkomen ongebruikte
+coördinatiecentra zouden zijn, wordt dit nog moei
+
+lijker aan te nemen als men nagaat wat een insect
+op dit loopgebied kan presteeren. Op zijn normale
+• zes pooten loopt een insect als regel zoo dat de
+oneven pooten van de eene zijde gelijk gericht be
+
+wegen met de even pooten der andere zijde.
+Wanneer het dier twee willekeurige pooten
+kwijt raakt, beweegt het zich hierna dadelijk weer
+volgens hetzelfde systeem, zelfs al moeten nu
+twee pooten samenwerken, die bij het zes-pootige
+dier niet samenwerkten. Alleen reeds voor de ver
+
+schillende mogelijkheden, waarop een zespootig
+insect tot een vieipcotig exemplaar worden kan,
+zouden reeds negen nieuwe coördinatiecentra noodig'
+zijn en daar insecten zich ook zeer goed bewegen
+kunnen, als het moet, op vijf, op drie en zelfs op
+twee pooten, moeten er nog meer centra beschik
+
+baar zijn, die normaal nooit gebruikt worden.
+Bij meerpootige dieren, zooals de achtpootige
+spinnen, stijgt het aantal mogelijke bewegings
+
+systemen tot 254, want zij kunnen zich op iedere
+combinatie van hun acht pooten, tot zelfs op n
+poot toe, bewegen. Daar dikwijls ook andere aan
+
+hangselen, die in normale tijden nooit voor de
+voortbeweging dienen (zooals de kaaktasters der
+spinnen) bij gebrek aan pooten voor de voortbe
+
+weging gebruikt kunnen worden, kan men soms
+komen tot meer dan duizend coördinatie-centra,
+buiten het gewone loop-centrum. Dit wordt inder
+
+daad wat kras. Bethe voelt er dan veel meer voor
+dat de coördinatie der bewegingen niet door een
+anatomisch vast te leggen centrum bepaald wordt,
+maar dat de juiste coördinatie als iets beschouwd
+moet worden dat ieder eogenblik door de op dat
+oogenblik heerschende voorwaarden van
+peiipherie en centrum nieuw bepaald wordt.
+Bethe ontkent niet dat er genoeg voorbeelden
+zijn, die met de aanwezigheid van een centrum te
+verklaren zijn. Hij noemt het ophouden der
+adcmhalingsbewegingen bij het beschadigen varr
+tepaalde plaatsen van liet verlengde merg,
+suikerverlies in de urine bij het beschadigen van een
+andere plek van dit verlengde mc-rg, storingen
+in de waimte-regeling van het lichaam bij
+het beschadigen van een plek aan de basis
+van de middenhersenen, enz. maar hij betwij
+
+felt of deze feiten ons dwingen op deze plek
+
+ken werkelijk centra te zoeken; hij beschouwt
+die plaatsen alleen maar als doorgangspunten
+(dus geen reyelende punten) van de zenuwen van
+verschillende deelen der lichaamsperipherie. Bij
+een duizendpoot bewegen de pooten zich in
+rhythmische golven, die steeds bij de achterste
+pooten beginnen en dan naar voren loopen. Snijdt
+men een duizendpoot nu in verschillende stukken,
+dan vertoont ieder deel dezelfde golvende
+pootbeweging, steeds beginnend hij het achterste deel
+van het dier-onderdeel! Er is dus óf geen speciaal
+bewegingscentrum óf dit centrum." ligt in ieder
+willekeurig deel van het buikmerg, dat wil zeggen,
+het bestaat toch eigenlijk ook niet als centrum".
+De coördinatie der pootbewegingen lijkt dan toch
+meer een gebeurtenis, die ieder oogenblik afhangt
+van de toevallig heerschende toestanden en daar
+
+door geregeld wordt.
+* *
+#
+Bethe wijst er dan ook op dat bij zoogdieren
+haast iedere prikkel van een willekeurig deel van
+het zenuwstelsel tengevolge heeft dat de hartslag
+verandert, de bloeddruk gewijzigd wordt, de adem
+
+haling beïnvloed wordt, dikwijls ook de pupil
+
+grootte van het oog zich wijzigt, zelfs dan als er
+geen bewegingseffect verkregen wordt. Hij • leidt
+hieruit af dat iedere prikkel zich in laett/eheele zenuw
+
+stelsel uitbreidt, dus niet beperkt blijft tot den
+eigenlijken reflexboog, dien men gewoonlijk in actie
+ziet komen. Hij ontkent zelfs dat er simpele re
+
+flexen zouden zijn; iedere reflex zou bemerkbaar
+zijn in een veel grooter gebied van het verdere
+zenuwstelsel. Alle organen die prikkels ontvangen
+van buiten, zooals de zintuigen, of van binnen,
+zooals de spieren, vormen met het zenuwstelsel
+n eenheid. Zoo is het ook te begrijpen dat iedere
+onbewegelijkmaking van een ledemaat door een
+stevig verband, een ernstige algeheele belemme
+
+ring kan geven. Sommige dieren worden onder
+die omstandigheden volkomen hulpeloos. Een
+waterkever, waarvan men een der zwempooten
+vastbindt, kan niet meer zwemmen. Maar als
+men denzelfden poot amputeert, wtmt het dier
+vlug weg, een der andere pooten (waarmee normaal
+niet gezwommen wordt) als plaatsvervangenden
+zwempoot gebruikend. Een hond, waarbij men
+een poot stevig ingipst, blijft hulpeloos op den
+grond liggen err kan niet opstaan; verliest hij
+dezen poot echter, dan loopt hij zonder eenig
+bezwaar op drie pooten rond !
+Bethe concludeert dat. al is nog veel niet helder.
+het noodig is onze voorstellingen over de werking
+van het centrale zenuwstelsel en zijn zoogenaamde
+centra grondig te herzien.
+SLUIT
+GEEN ZON BUITEN
+VRAAGT ONZE WONINGINRICHTING
+MET UITSLUITEND
+KLEURECHTE MATERIALEN
+XHDER
+ZOMEN
+
+</text>
+<image timestamp="2002:09:26:23:04:10.00" size="283489">D10008J4.TIF</image>
+</page>
+</document>

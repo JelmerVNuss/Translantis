@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280421</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERPAMMER VAN 21'APH IL 1928
+No, 2655
+SENKIMG
+&lt;IA5FORmJlZEN EN COMfOREN
+OVERTREFFEN ANDERE EN...
+^_	ZUN GOEDKOOP.
+
+let op onze spaarbranders
+van MASSIEF KOPER met
+automatische luchtregeling
+Gasfornulzen vanaf f 62»—•
+Overal verkrijgbaar
+
+Adres voor den handel
+JOH.H.v.D.MEIDEN - Amersfoort
+NADRUK VERBODEN
+«L
+4il
+UI
+*l
+
+4U
+ft
+&lt;
+m
+
+w
+o
+voorkomt
+dit door
+het qebruik
+cm
+VRIENDINNEN
+Waar de leukste en gezelligste nieuw
+
+tjes verteld worden, waar er ernstig
+over geboomd wordt of het verhaal
+van Loe, dat er haaien zwemmen in
+de Middellandsche Zee, werkelijk
+waar zou zijn, waar de nieuwste crea
+
+ties van Poiret en Hirsch een onuit
+
+puttelijke bron van conversatie vor
+
+men en men gezellige kopjes thee
+ronddient in een intiem boudoirtje,
+daar mag zeker het allerlaatste nieuw
+
+tje niet ontbreken, de heerlijke Pin
+
+guïn Bonbons van Van Houten.
+Van Houten's Pinguin Bonbons geven
+iets bijzonder fijns in een aardig doosje.
+
+
+VAN
+
+HOUTEN'S
+
+PINGUÏN
+
+bonbons
+
+In drie verschillende assortimenten .
+3 Pinguïns
+2 Pinguïns
+l Pinguin
+
+^iliiMiHifUiHiniiirmiiiiiiiiiiiiiiiiiiHiiiiÉiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiKMiiiiiniiiiiiiiiiiiiiiiiiiiiiiiinHiintHiiiiiMiii
+
+LI P S &amp; PETERS
+Vraagt Catalogus
+met
+DORDT
+ELK HUIS STROOMEND WATER
+
+Vaste Waschtafels
+compleet met opzet
+spiegel enz. enz.
+vanaf f 39.75
+b ij REEDERS
+Metaal war e nfabriek
+
+N.Z. Kolk 17, A.msterdam,Tel.45373
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:12:18:49.00" size="116460">000006HN.TIF</image>
+</page>
+</document>

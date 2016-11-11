@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400622</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'Wetenschap	'' ~ "'	'"	"	"	•	'	~	~~~ ""'"""""
+
+Het wezen van virus-ziekten
+
+Is het virus" levend of dood ?
+ONDER virus wordt verstaan: een
+ziekmakend agens, dat kleiner is, dan eenig
+aantoonbaar micro-organisme. Een virus
+bestaat uit afzonderlijke deeltjes, de grootste ter
+
+nauwernood waarneembaar onder de sterkste
+microscopen- waarover wij beschikken, de kleinste
+niet grooter dan sommige eiwitmoleculen !
+Om te constateeren of een bepaalde smetstof
+bacteriën dan wel virus" bevat, wordt deze door
+uiterst fijne filters, Pasteursche kaarsen" geperst.
+Indien de stof bacteriën bevat, heeft zij na filter
+
+passage haar ziekteverwekkend vermogen verloren,
+het virus daarentegen passeert ook het fijnste filter
+zonder zijn besmettelijke eigenschappen te ver
+
+liezen, wij spreken dan ook van filtreerbaar virus".
+De eerste gedachte, die zich aan ons opdringt is dus
+deze: het verschil tusschen een bacterie en een virus
+schijnt geen principieel, doch veeleer een gradueel,
+m.a.w. het virus schijnt een kleine bacterie of een
+klein microorganisme. Schijnt zooals wij in de
+loop van deze beschouwingen zullen zien. Virus
+
+ziekten zijn in de laatste 40 jaren op zeer veel ver
+
+schillende gebieden van de levende natuur gevonden;
+menschen, zoogdieren, visschen, insecten, planten
+ja, bacteriën ! gingen te gronde na infectie met
+uiterst geringe hoeveelheden van dergelijke
+smetstoffen, onder gelijktijdige kolossale vermeerdering
+van de hoeveelheid smetstof in den betreffenden
+gastheer. Het mond- en klauwzeer b.v. is een
+virusziekte, en zoo is de z.g. mozaiekziekte" der
+tabaksplanten, een ziekte, die, paradoxaal om te
+zeggen, óók indien ze eens uitgeroeid mocht worden,
+onsterflijk zal blijven, juist door de opzienbarende
+ontdekkingen, betreffende het ultravirus, bij deze
+ziekte verricht.
+Omstreeks 1935 had men de analyse naar het
+wezen van het ultravirus zoo ver doorgevoerd, als
+met de toen gebruikelijke arbeidsmethoden mogelijk
+was; wij wisten toen, dat het ultravirus discontinu
+van structuur was, en opgebouwd uit aggregaten
+van eiwitmoleculen, van variabele afmetingen,
+welke afmetingen bepaald konden worden door
+middel van ultrafiltratie.
+Men had verder ervaren, dat een virus nerzijds
+eigenschappen bezit, waarvan wij meenden, dat zij
+inhaerent zijn aan de levende stof, zooals prikkel
+
+baarheid door physische en chemische invloeden,
+het vermogen zich te vermenigvuldigen, adaptatie
+en mutatie, andererzijds echter ook groote ver
+
+schillen met levende materie vertoont, b.v. het
+onvermogen, om voedsel op te nemen anders dan
+uit levende cellen, en in verband daarmede de
+onmogelijkheid, een ultravirus op een kunstmatige
+voedingsbodem te kweeken.
+Wij weten, dat de meeste microorganismen, te
+kweeken zijn op bepaalde, hun passende,
+individueele voedingsbodems, die niet uit levende stof
+bestaan. Ondanks ontelbare pogingen is zulks voor
+een ultravirus nimmer gelukt, zij zijn alleen te
+kweeken in een medium, dat intacte en levende
+cellen bevat, en dit is een uiterst belangrijk feit
+als men den aard van het virus wil verstaan.
+Voorts was men er in geslaagd, het ultravirus
+te fotografeeren, en wel door middel van ultra
+
+violette stralen.
+Een virus werd aanvankelijk geïdentificeerd en
+de virus van elkaar onderscheiden door de ziekten,
+welke zij veroorzaakten, en daar zij ook in uiterste
+verdunningen pathogeen bleven, werden zij in
+onzuiveren toestand, zooals zij in de natuur vóór
+
+komen, gehanteerd en bestudeerd.
+Geïsoleerd zijn ze later, door het gebruik van
+z.g. ultrafilters van stijgende poreusiteit en door
+centrifugatie en zelfs werd een overeensteming
+bereikt tusschen de uitkomsten van de berekening
+der grootte der afzonderlijke partiekels naar de foto
+
+grafische beelden, en der grootte, berekend naar
+ultrafiltratie- en centrifugatie.
+
+ZOO stonden de zaken, toen uit Parijs een serie
+opzienbarende ontdekkingen de weten
+
+schappelijke wereld in beroering bracht,
+culmineerend in de kristallisatie van een voor planten patho
+
+geen virus.
+Het gelukte aan Levaditi, huidig wetenschappelijk
+leider van het Institut Pasteur en zijn voortreffelijke
+medewerkers van de meest uiteenloopende natio
+
+naliteit, om bij de z.g. mozaiekziekte der tabaks
+
+planten een specifiek virulent kristallijn eiwit te
+isoleeren, dat in onbepaalde verdunning zijn be
+
+smettelijke eigenschappen behoudt. Men was zelfs
+in staat het aantal moleculen dat in staat bleek, de
+ziekte over te brengen, vast te stellen, namelijk:
+variëerend van loo-tot i millioen per cc.
+Groot was de verbazing in de biologische wereld,
+toen deze kristallen" zich volkomen als bacteriën
+bleken te gedragen, even specifiek virulent waren
+als het virus, evenzeer in staat in het organisme,
+waarin zij ingespoten werden, antistoffen in het
+leven te roepen, zich te vermeerderen. Kortom,
+men kon den conclusie niet ontloopen: in sommige
+gevallen moeten kristal en virus als identiek worden
+beschouwd. Maar waar blijven wij thans, met onze
+opvattingen omtrent levende en doode materie?
+Hoe kunnen wij een virus, dat wij toch geleerd
+hebben als georganiseerde levende materie te
+beschouwen, in overeenstemming brengen met een
+kristallijnen staat? En wat is dan het criterium
+voor levende stof"?
+Vragen genoeg antwoorden te kort !
+Het feit, dat alle levende organismen talrijke
+kristallij ne bouwsteenen bevatten is reeds lang een
+vertrouwd denkbeeld geworden voor den modernen
+bioloog. In dit geval zouden we echter een zelf
+
+standig organisme voor ons hebben, dat in zijn
+geheel n enkel molecuul van kristallijnen bouw
+zou vormen.
+Stanley heeft door middel van de methode der
+ultracentrifugatie bewezen, dat het ziekmakend
+vermogen inderdaad gebonden is, aan het boven
+
+genoemde kristallijne poeder, dat verder te
+identificeeren is door zijn absorptiespectrum in ultra
+
+violet licht, door het iso-electrische punt, de
+dubbelbreking der kristallen en door zijn reactie op speci
+
+fiek antiserum. De elementen, waaruit dit
+ziekmakende eiwit bestaat, zijn meetbaar.
+
+BIJ scheikundige analyse blijkt, dat de moleculen
+zijn opgebouwd uit dezelfde elementen, die
+ook bij de opbouw van de levende stof een rol spelen.
+In streng kristallographischen zin, moeten wij
+de kristallen die Stanley uit het sap der zieke tabaks
+
+planten isoleerde parakristallen" noemen. Een
+,,echt" kristal is namelijk een onbeperkte herhaling
+van identieke molecuulgroepeeringen in de drie
+dimensies. Bij parakristallen is de moleculaire
+groepeering regelmatig in de diepte, doch niet in de
+lengte. Wij mogen hier dus nog niet van ware kristal
+
+lisatie spreken. Deze ware kristallisatie is thans
+echter wel geconstateerd bij een ziekte der tomaten,
+veroorzaakt door het virus, dat naar de ontdekkers,
+Bushy-Stunt virus genaamd is. Deze echte kristallen
+zijn virulent en blijven zulks na 15 achtereenvolgen
+
+de omkristallisaties !
+Het leek een groote schok voor onze klassieke
+opvattingen, wanneer wij eigenschappen als
+virulentie (vermogen tot ziekte verwekken) mutatie,
+vermogen tot voortplanting, vermogen antistoffen
+te voorschijn te roepen, alles typisch biologische
+functies alle ,,levens"-uitingen, zouden moeten
+gaan toekennen aan een eenvoudig eiwitkristal!
+Wat nu het vermogen tot voortplanting betreft
+het zich vermeerderen" van het virus, dit is het
+sterkste argument van hen, die het virus als iets
+levends" willen beschouwen. Wanneer men b.v.
+met o.ooo ooo ooi gr. mond- en klauwzeervirus
+een guineesch biggetje infecteert, vindt men na
+24 uur 0,001 gr. van dit virus in de blaren.
+Een eiwitmolecule vermeerdert zich toch niet"
+zeggen de aanhangers van de bacteriologische
+analogie ! Hierover zegt Dr. L. W. Janssen, in het
+Tijdschrift voor Diergeneeskunde het volgende:
+niemand heeft ooit gezien, dat een virus zich"
+vermeerdert, het geheele probleem draait om het
+woordje zich".
+Inderdaad, in dit woordje gaat veel zins". Het
+is alleen te danken aan de eigenaardige overtuiging
+van hen, die denken, dat vermeerdering van
+biologische materie alleen door celdeeling tot stand
+komt. Net alsof door celdeeling vermeerdering van
+materie ontstaat !
+Het virus vermenigvuldigt zich niet, het wordt
+vermenigvuldigd, het wordt geproduceerd door de
+specifieke cel, waarin men het aantreft.
+Wij hebben gezien, dat een virus zich" nimmer,
+voortplant" buiten aanwezigheid van levende
+cellen, blijkbaar stelt dus de levende cel zijn stof
+
+wisseling in dienst van het virus om het die elemen
+
+ten te verschaffen, die het in staat is, te assimileeren.
+Zoo verschijnt ons dan het virus, als fabrikant"
+van bepaalde specifieke eiwitbouwsteenen waarvan
+het de synthese mogelijk maakt met behulp van
+bepaalde celbestanddeelen, en zoo kunnen wij den
+ziekte" 2ien als een verstoring van de normale
+celstofwisseling in dien zin, dat het binnendringen
+van moleculen viruseiwit" de celstofwisseling
+zoodanig beïnvloedt, dat nu inplaats van normaal
+celeiwit" een groote hoeveelheid viruseiwit"
+wordt geproduceerd.
+Zoo zien wij dan ook het leven" als een complex
+van eigenschappen, welke eigenschappen echter
+elk op zichzelf terug gevonden kunnen worden in de
+doode stof". En als het ultravirus levend" is,
+dan zal dit leven" toch niet vergelijkbaar zijn met
+dat van cellen of georganiseerde bacteriën.
+Recht* Ijoi'tH ; Kchtc kristallen bij de tnmatt'iixu'ktr.
+Datir umtrr: Alo/aiek/irktr &lt;&gt;p tabaksbladeren.
+Links: IHtramicruscopische opneming van
+tabakmo/aiek virus-,, kristal",
+
+</text>
+<image timestamp="2002:09:13:05:44:37.00" size="314612">000007J5.TIF</image>
+</page>
+</document>

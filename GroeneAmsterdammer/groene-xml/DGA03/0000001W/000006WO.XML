@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280908</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 8 SEPTEMBER 1928
+No. 2675
+J. D. STRUIJS &amp; Zn*
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+- Lijmt ALLES
+
+BADKAMWCHMN
+toowel eenvoudige als betere uitvoering.
+G. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+Voor olie doeleinden
+NV
+Chem.Kunstinrichting
+DirkSchnabei
+Amsterdam, •»
+JAEGER
+Ondergoederen
+In div. kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Finna KRÖNER
+Nieawendijk 167, Amsterdam
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+kost slechts f 2.75 per kwartaal of f
+10.per )aar bij vooruitbetaling
+VERWEEGENÏ&amp;riKOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+; IN 40 MODELLEN
+PRIJZEN VAN
+f 65*—af
+flAMIATE
+mJ yh R.v^NTillE
+(iFOOTE I10UTSTF.101105'
+TEL.1O575
+HAARLEM
+PERZISCHE LOOFERS l VANAF
+VOOR GANG EN TRAP C, O C.
+STERK EN VOORNAAM 11* £JCJ
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+nniimimiiBiinr
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+Bfl MÜTtrkrygbur
+N. R. V. MONTA SCHOENEN
+
+minnmBrnfflonnummniiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinniiiiiiffliiiiimimimnni
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+
+TUIN-TERRflSMEUBELEN
+TUINBflNKEN
+LINNEN-BROOD
+MflNDEN
+MESSEN
+
+KON.NED^
+/ MANDEN \
+, F4BRIEK
+
+FERDVflN VLIET
+HOFLEVERANCIER VAN Z.K.H. PRINS HENDRIK
+hOOFDM^G^ZUN
+NOORD EINDE 158
+DEN 1-m/qG
+FABRIEK
+M4ZENSTR.5 DEN H/lUG
+MAGAZIJN
+v STEENSTR.11
+flRNMEM
+VRflflGT PRIJS
+" OPGAAF
+flLLE SOORTEN HONDEN EN KflTTEN MflNDEN
+REISMANDEN
+DIENTflFElS
+THEETflFELS EN
+SLEUTELMflNDEN
+PflPIERMflNDEN
+BOEIAMJS
+
+</text>
+<image timestamp="2002:09:05:06:10:04.00" size="117376">000006WO.TIF</image>
+</page>
+</document>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240112</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DÉAMSTERDAMMER, WEEKBLAD* VOOR NEDERLAND
+No. 2430
+U
+e
+r
+OROOTE JANUARI-OPRUIMING
+VAN LINGERIE-, BED-, TAFEL EN HUISHOUDLhNEN
+EXTRA LAGE PRIJZEN _ PRIMA QUALITEITEN
+Oroote party zuiver linnen
+SERVETTEN ........... f 0.85 per stuk
+TAFELLAKENS 130x165. .... . 4.95
+Speciale aanbieding zuiver linnen
+HANDDOEKEN.	f 0.85 per stuk
+AUG. KAUPMANN
+P. C. HOOFTSTRAAT 113, TEL. 23308, AMSTERDAM
+ERVEN KRAMER
+l MG EL. ,3-QO
+
+T t L E P ^
+AMSTERDAM
+FA R R l EïK VA N K A NTC C R BOEKEN
+RUUD-GASAPPARAAT
+voor Warmwatervoorzieningen
+Zeer gemakkelijk In iedere ruimte aan te brengen. Levert op
+iedere tapplaats zelfstandig heet water. Geen onnoodig
+gasverbruik. Geen buitengewone»bediening. :—:
+fOO.OOO Apparaten in Binnen- en Buitenland
+ALLEEN-VERTEGENWOORDIGING:
+
+J. G. KORSTEN
+SANITAIR TECHNISCH BUREAU AMSTERDAM
+VERWEEGEN &amp; KOK
+AMSTERDAM - DEN HAAG
+HARTMAHW" EN JBELBER"
+WARDROBE TRUNKS
+WONINGBUREAU
+N. Baanstrait 61 - Baan
+Tel. 844
+12 zilver en theelepeltjes
+met verschillende
+bloemsteeltjea
+Met etui zonder tni
+128.—. 124.—.
+Lengte der lepeltjes lOc.m.
+Franco door Nederland.
+Bij niet voldoening mogen
+de lepeltjes geruild worden
+In Den Silveren Molenbeecker
+CORN. SCHOORL
+Amsterdam den Haag
+KALVERSTRAAT U
+TeL 42149.
+HOOGSTRAAT 11
+Tel. No. 0890.
+Gebr. BREEN
+
+IIEIIEIDUI 172, • Til. 49861
+NZEIUIkCIT 53. • M. 30U5
+lUILEINElSTl. 64 • Til. 30W
+Grootste sorteer! ng Westm. Klok
+
+ken. Pendules. Horloges. Wekkers.
+Gouden en Zilveren Werken.
+Ie Qualltelten. Lage prijzen
+Gouden Ancre Horloges f
+65.Zilveren
+20.Nikkelen
+5.Wekkers van af f 2.—.
+Bouw- en Woningbureau van di
+N.V. Woningbureau r/h J. D. F.VAN
+DER VEEN, Kantoor van Vast»
+Goederen,Tedtaf vanBerkn«utftr.l.
+Noteert U BTondezBTelefoon Hos,
+BUSSUM	923
+AMSTERDAM...C. 2776
+UTRECHT l ..
+BILTHOVENJ	00//
+
+Electrisclii Boek- on Handelsdrukkerij
+Fa. Wed. P. v. d. HERT
+Nassaustraat 2 BUSSUM
+
+Alle soorten drukwerk
+Fraaie uitvoering concurreerende
+prijzen.
+KXntAMKUU»
+AANMEOINe
+ORIGINEEL
+
+GILLETTE
+VEI1IGHEIDS
+
+SCHEERAPPARAAT
+MITMISJBINITUI
+WUWAARBOROIN
+an DB ECHTHEID mm
+r
+11. DE mm t k • Keizersgracht 447
+(voorheen LEIDSCHESTRAAT 69)
+S E Hit IMG GASFORHUIZEN
+GERARD B. RIJKE J r.
+Binnen Architectuur
+A Hl STEL 122 - Tolef. 46815
+Complete Meuhileering
+J. J. Weber &amp; Zoon
+OPTICIENS - FABRIKANTEN
+Koningstraat 10, Haarlem
+Onn Amerikaanse!» Brlllinglii-liqp
+machlnn van de allerlaatiti ttnitiuitl*
+itellen om In itaat brillenilaz» blnoia
+tnktli unn af tl lever».
+Dedemsvaartsche Lange Turfjes"
+van L. JONKER, Dedemsvaart
+fijn bfl de thee. Practisch verpakt om bfl
+uitstapjes mede te nemen.
+Verkrijgbaar bjj uwen Comestibleshandelaar
+Rotterdam, Hoogstraat 218,
+
+Hotel-Restaurant A. Schneidar".
+Kamers met stroomend water. Huistelefoon. 5
+Uitpakkamers. Vergaderzalen.
+DE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 1O,—per jaar
+NVENTAR
+UITVERKOOP
+MEN BEZICHTIGE VOORAL
+ONZE 30 SPEC. ETALAGES
+DE BIJENKORF
+AMSTERDAM
+J. MULDERS
+Tulamrehlleot
+Badhuisweg 2O1
+ToMoom
+. BW
+Illustratiedruk-papier van de Firma C. G. A, CORVEY, Keizersgracht 285, Amsterdam, Tel. 41202 en 40585
+
+</text>
+<image timestamp="2002:09:05:09:38:31.00" size="171899">D10004UJ.TIF</image>
+</page>
+</document>

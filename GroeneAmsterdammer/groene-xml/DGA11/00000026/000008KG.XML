@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301011</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+*
+
+sl
+t
+DE GROENE AMSTERDAMMER VAN u OCTOBER 1930
+No. 2784.
+R V* Amsterdamsche Hypotheekbank
+HEERENGRACHT 581, AMSTERDAM (C.).
+OPGERICHT 1882
+
+Geeft uit: 4'/2 pCts. PANDBRIEVEN
+
+I^^I in stukken van Z^ZI
+
+f 1000.-, f 500*- en f 100*'
+en sluit Leeningen onder Ie Hypothecair verband op
+zeer billijke conditiën.
+DE DIRECTIE.
+N. l trecitsclie Hypotheekbank
+UTRECHT
+Pandbrieven pLm* f 54,000*000.
+De Bank stelt beschikbaar:
+
+lt pCt. Pandbrieven et 101 pCt.
+(BEURSKOERS)
+in stukken van f 1000.—, f 500.—en f 100.
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h, Gebr* BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70,
+
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op
+zakeiQk onderpand en onder borgtocht, met
+In pandgeving eener polls van lévensver
+
+zekering van gelijk bedrag, en verkoopt
+5 % schuldbrieven in stukken van (1000—.
+500.- en f 100.- tegen Beurskoers.
+G. J. DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+LOOD- EN 1KWERKEN.
+VERWEEGEN 6 KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+USIDHB
+meer dan 70 modellen
+
+Prijzen van f 60.-a!
+Nederlandsche
+
+Handel-Maatschappij, N. v.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHAGB
+Vestigingen in Nederlandsch-hdië, Straits-Settlcmcnts,
+Britsch-Indië, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS.
+
+re/ARNHE
+MIJ van
+LEVENS
+VERZEKERING
+9
+N. V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. C AST EN D IJK en
+L MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantcor
+4j % Pandbr. tegen beurskoers uit.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+Opgericht in 1864
+
+Maatschappelijk Kapitaal f 10.000.000.,
+waarvan geplaatst f 7.000.000,
+waarop 10 pCt. gestort
+Verstrekt geld op eerste hypotheek.
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 41 te R'dam of tot hare Agenten.
+De Directie i
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wfik,
+Mr. B. van Rossem.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+INTERNAAT
+Wegens verplaatsing der Rijkslandbouw-huishoudschool
+de Rollecate" naar Deventer worden de gebouwen,
+waarin dit internaat gevestigd was, publiek te koop
+aangeboden, bestaande uit TWEE MODERN GEBOUWDE
+VILLA'S MET SCHOOLGEBOUW en BIJBEHOORENDE
+PARK-, TUIN- EN BOSCHGRONDEN, gelegen nabij station
+Dedemsvaart der N.S. en aan tramhalte.
+Inlichtingen verstrekt Notaris D. L. Uyt den Bogaard
+te Den Hulst o/d Dedemsvaart.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+Linnenmanden
+PEEK &amp; CLOPPENBURB
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:05:15:24.00" size="147279">000008KG.TIF</image>
+</page>
+</document>

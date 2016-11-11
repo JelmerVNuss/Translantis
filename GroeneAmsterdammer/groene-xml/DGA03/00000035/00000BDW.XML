@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18890526</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 622
+DE AMSTERDAMMER, WEEEBLAD VOOR NEDERLAND.
+beters deed verwachten dan de zotte quiproqtto's,
+die het tweede en derde vullen. Den inhoud
+mede te deelen, ligt natuurlijk niet op onzen
+•weg. Van de vertolking valt veel goeds te zeggen.
+Ieder der medespelenden spande zijn beste krach
+
+ten in en maakte van zijn rol, al wat er van te
+maken was. Ook het samenspel liet, vooral voor
+een eerste opvoering, slechts weinig te
+wenschen over.
+Zooeven vernemen wij, dat men reeds nu weer
+een opvolger voor dr. Jopie op het oog heeft
+en wel »Verboden vruchten" (Les pommes du
+voisin), een der eerste blijspelen van Sardou, dat
+in 1864 voor de eerste maal in het Palais
+Boyal werd opgevoerd en voor eenigen tijd iu
+het Théatre Cluny weer een groot succes be
+
+haalde.
+ESCLARMONDE.
+De nieuwe opera van Massenet.
+
+In de Opéra-Comique is eindelijk het nieuwe
+werk van den componist van Manon en Le Cid
+opgevoerd. Het libretto van Esclarmonde is van
+de h.h. Alfred Blau en Louis de Gramont, en
+ontleend aan de oude Fransche ridderromans, een
+nog te weinig geëxploiteerd terrein voor de
+operaromantiek. Onder de zeven- of achthonderd opera's,
+die in de twee laatste eeuwen in Frankrijk ver
+
+toond zijn, vindt men er niet meer dan een paar
+dozijn, aan de Fransche legende ontleend; op het
+groote repertoire telt men er niet veel meer van
+dan Rooert Ie diable (eene Normandische sage),
+Le loc des fées van Auber, La, Magicienne van
+Halévy en oland a oncevaux van Massenet.
+De historische, Charles VI, Jeanne d'Are, Fréd
+gonde, vallen natuurlijk in eene andere categorie.
+De opera Esclarmonde is ontleend aan den rid
+
+derroman Parthenopetis de Blois, waarvan een
+kostbaar manuscript in de Bibliothèque nationale
+berust. Parthenopeus. de zoon van den graaf van
+Blois, wordt geschaakt door de fee Melior, en
+woont met hem in een tooverachtig paradijs; hij
+mag echter niet trachten haar te kennen. Als hij
+zijn eed verbreekt, op aanstoken van de bis
+
+schoppen, verdwijnt de fee. Zij was echter eene
+dochter van den keizer van Constantinopel; er
+wordt dan een tournooi uitgeschreven om voor
+haar een echtgenoot te vinden; Parthenopeus
+wint in het tournooi en alles eindigt met een
+huwelijk.
+In dit eenvoudig sprookje, dat, met het verhaal
+van Parthenopeus'genietingen op het eiland, van
+zijn zwerftochten en de afwisselingen van het
+tournooi. toch een paar dikke deelen vult, heb
+
+ben de heeren Blau en de Gramont iets
+dichterlijks weten te leggen, dat er nauwelijks door aan
+
+geduid werd. Hun libretto is het volgende.
+De proloog vertoont het inwendige der basiliek
+van Byzantium. Keizer Phorcas, die te gelijk
+den scepter des rijks en den tooverstaf van den
+wichelaar draagt, deelt aan zijn volk mede, dat
+hij, door eene uitspraak van het Noodlot, zich in
+de eenzaamheid moet terugtrekken en den troon
+overlaten aan zijne dochter Esclarmonde. Het
+meisje is ervaren in de kunst van over de gees
+
+ten te heersenen; zij moet, tot haar twintigste
+jaar, haar gelaat voor iederen blik van mannen
+verbergen. Op dien verjaardag zal de ridder, die
+in het plechtig tournooi overwint, haar echtge
+
+noot en heerscher over Byzantium worden. Vóór
+dat de keizer zich in eene woestenij begraaft,
+waarvan zijne tweede dochter, Parseis, alleen het
+geheim zal kennen, doet hij Esclarmonde ver
+
+schijnen en het volk zingt in vervoering:
+Subliem Impératrice, o divine Esclarmonde!
+Ton tröne resplendit plus brillant que Ie jour,
+Le destin a tes pieds met Byzance et Ie monde,
+Tout Tunivers t' acclame en frémissant d'amour.
+De prinses hoort dit koor gesluierd aan, het
+hoofd met edelgesteenten omstraald als een
+Byzantijnsch heiligenbeeld, omwalmd door wolken
+wierook en omgeven door een vrouwenstoet. De
+keizer, zeer aangedaan, als hij van zijne dochter
+scheiden zal, wil haar een oogenblik in hare
+stralende schoonheid aanschouwen; zij opent
+haren sluier voor hem alleen; hij buigt zich als
+verblind neder en het volk herhaalt:
+Sublime impératrice, o divine Esclarmonde !
+
+Hiermede sluit de proloog en verdwijnt het
+schitterend decor, dat te schitterender uitkwam,
+omdat men de zeer korte ouverture geheel in
+donker heeft laten spelen. In de eerste acte ziet
+men Esclarmonde in diep gepeins verzonken; zij
+denkt alleea aan ridder Roland (de Parthenopeus
+van den roman), graaf van Blois, die eens te
+Byzantium vertoefde; zij maakt hare zuster Parseis
+tot deelgenoote van haar gepeins. Nu heeft Parseis'
+verloofde, ridder Eneas, in Frankrijk hooren ver
+
+tellen dat ridder Roland zou trouwen met de
+dochter van koning Cléomer van Frankrijk.
+Esclarmonde, geheel geschokt door dit bericht,
+neemt een besluit, meer de
+keizersdochter-toovenaarster dan de jonge maagd kenschetsend:
+
+Cette nuit, cette nuit même,
+Roland m'appartiendra. Je Ie ferai venir
+Dans une ile magique. A lui je vaix m'unir !
+Je veux qu'il soit a moi, qu'il m'aime !
+Zy treedt op een drievoet, roept de geesten aan,
+en laat zich door hen in de maan als in een
+tooverspiegel vertoonen, wat Roland op dit oogen
+
+blik uitvoert. Hij jaagt in het Ardennerwoud,
+met koning Cléomer. Esclarmonde zendt een wit
+hert, dat hem naar de oevers van den Oceaan
+lokt; daar wacht hem een tooverschip zonder
+bemanning. Hy betreedt het; het zal hem naar
+een toovereiland voeren. Esclarmonde laat zich er
+ook heen voeren, de geesten dragen haar op een
+wagen door de lucht; in de verte hoort men
+hare stem:
+Esprits de l'air, esprits de l'onde,
+Obéissez-moi!
+
+De tweede acte laat zien, hoe Roland aankomt
+en door de dansende elfen begroet wordt; hij
+sluimert in, de kus eener gesluierde dame wekt
+hem. Wie zijt gij?" Een vrouw die u lief
+
+heeft en u zal toebehooren; maar op voorwaarde
+dat gij noch haar gelaat noch haar naam zult
+trachten te kennen." Roland aarzelt.
+Va, je suis belle et désirable!
+zegt de fee, en hij stemt toe. De muziek geeft
+dan de gewaarwordingen van het liefdesduo weer,
+terwijl de takken van een reusachtigen boom zich
+ontwikkelen en voortgroeien om den huwelijks
+
+nacht te verbergen. Wanneer de takken zich weer
+ontplooien is de morgen aangebroken; Roland
+moet vertrekken, maar Esclarmonde belooft, hem
+iederen nacht, waar hij ook zijn moge te komen
+opzoeken. Zij wenkt en eene schaar fantastische
+maagden, in het wit, komt haar het zwaard van
+Sint Joris brengen; Roland zal daarmede over
+
+winnen, maar het zwaard zal verbrijzeld worden,
+zoodra hij zijn eed schendt.
+Het derde bedrijf speelt te Blois; het eerste
+tableau vertoont het marktplein waar het wan
+
+hopig volk vergaderd is; de koning der
+Saracenen eiscW de stad op. Koning Cléomer is rade
+
+loos; alleen de bisschop hoopt nog op goddelijke
+tusschenkomst. Daar nadert Roland met het
+zwaard van Sint Joris; in een oogwenk heeft hij
+den Saraceen gedood, diens leger verslagen en
+de stad ontzet! Koning Cléomer biedt hem zijn
+dochter Bathilde tot vrouw, Roland weigert, zon
+
+der reden op te geven, maar de bisschop zegt;
+Je saurai ce qu'il ne veut pas dire.
+Il parlera.
+In het tweede tableau dringt de bisschop
+Rolands kamer binnen, en dreigt hem met de eeuwige
+verdoemenis, als hij zijn geheimen niet opbiecht;
+de ridder weet niet wat hij doen moet en zwicht
+eindelijk voor de bisschop.
+Je ne m'appartiens plus; car une femme, un ange,
+Une fee est ma femme, et je suis son poux
+De bisschop weet genoeg; als eenige
+oogenblikken later Esclarmonde, door de vuurgeesten
+gedragen, door den wand der kamer verschenen is,
+breekt weldra de bisschop de deur open, komt
+met monniken en beulen en spreekt uit naam
+der Drieëenheid den vloek uit over Esclarmonde.
+Hij rukt haar den sluier af. Roland, gij hebt
+mij verraden:" roept Esclarmonde, aan bittere
+smart ten prooi, en hier volgt een der schoonste,
+hartstochtelijkste deelen der opera.
+Regarde-les, ces yeux plus purs que les toiles,
+Et ces lèvres qui t'ont murmurémon amour,
+Et ce corps, que ta faute a perdu sans retour!
+Il ne t'a pas suffi de posséder dans l'ombre
+L'épouse qui t'offrait des voluptés sans nombre;
+Tu veux la contempler. Sois heureux! tu la vois,
+Mais c'est pour la première et la dernière fois!
+De monnikken en beulen willen Esclarmonde
+grijpen, Roland wil haar verdedigen, maar de
+degen van St. Joris breekt in de hand van
+den meineedige; gelukkig heeft Esclarmonde nog
+de vuurgeesten tot hare beschikking, die haar
+wegvoeren.
+Het vierde bedrijf begint met een aardig ballet
+van nimfen en boschgeesten, die Phorkas in zijne
+eenzaamheid in het Ardennerwoud amuseeren.
+Esclarmonde komt baars vaders vergiffenis
+afsmeeken, maar het noodlot eischt eene boete ; Roland
+zal hier komen en Esclarmonde zal moeten kie
+
+zen : Phorkas zal hem dooden of de prinses zal
+luide moeten verklaren dat zij hem niet meer
+bemint. Esclarmonde brengt, om zijn leven te
+redden, dit offer. De geesten roepen : De mis
+
+daad is geboet!" en Esclarmonde verdwijnt.
+Roland is wanhopig; hij wil sterven; als de
+trompetten en klaroenen aankondigen dat er te
+Byzantium een tournooi zal zijn, gaat hij er den
+dood zoeken.
+De ontknooping volgt in het volgend tableau,
+dat weer de basiliek vertoont. Phorkas laat den
+overwinnaar in het tournooi voor zich brengen,
+om hem te kroonen en hem prinses Esclarmonde
+tot vrouw te geven. Roland is overwinnaar; hij
+weigert, evenals hij Bathilde geweigerd heeft.
+Maar Esclarmonde heft haren sluier op ; Roland
+herkent haar, het volk herneemt het koor van
+het begin, en over het prachtige grootsche finale
+valt het scherm.
+In de muziek heeft Massenet, zijn theorie vol
+
+gend, opzettelijk het afronden van nummers ver
+
+meden, toch kunnen de habitués der opera
+ze genoeg eruit kennen om ook naar hunne
+wijze te genieten. Reyer geeft in de Dfbats in
+weinige regels eene karakteristiek van libretto en
+componist: Dit meer romanesk en fantastisch,
+dan romantisch, maar innig hartstochtelijk libretto
+hebben de dichters den steeds jongen en
+krachtigen Massenet aangeboden. Het kon niet met
+meer zorg, noch uit meer aangrijpende toestan
+
+den en uiteenloopende elementen zijn samenge
+
+steld, als zij het opzettelijk voor hem vervaardigd
+hadden. Juist zulk een gedicht, met zijn leven
+
+dige tegenstelling van licht en schaduw, zijn
+tooverkunsten en verschijningen, paste voor de ver
+
+beeldingskracht van den meester colorist, die be
+
+kwamer dan iemand is. in het uitspreiden op
+zijn schitterend palet van de meest verschil
+
+lende tinten. Godsdienstige liederen en fantastische
+jachtsignalen; verschijningen en geestendansen in
+de maneschijn; vurige liefdesscènes wier gloed
+men raadt door het donkere gebladerte heen;
+bruiloftsliederen en krijgsgedruisch; vervloekingen
+en geestverrukkingen, dat alles schakelt zich aan
+
+een in de partitie van Esclarmonde, en in alles
+herkent men de persoonlijkheid van den musicus
+wien alle ressources van zijn kunst gemeen
+
+zaam zijn."
+Hoewel Massenet zich heeft beijverd om aan
+iederen persoon een karakteristiek thema te geven,
+om de afzonderlijke nummers met symphonische
+kunstgrepen aan een te schakelen en van ieder
+tableau een geheel te maken, gaat het toch, ook
+van de muziek een overzicht te geven. De melo
+
+dieën verdwijnen te vaak, eer de hoorder ze ge
+
+heel heeft kunnen opnemen, maar langzamerhand
+komt er toch, zooals Vitu zegt, licht in den nevel
+van tonen en men kan eenige vormen onderschei
+
+den. De proloog wordt geheel ingenomen door
+het recitatief van Keizer Phorkas en het litur
+
+gisch koor met orgelbegeleiding, afgewisseld met
+den marsch der wierookdragers, die langs de ge
+
+sluierde en onbewegelijke prinses deiilceren, ter
+
+wijl deze als een heiligenbeeld (in stola van goud
+
+laken met de keizerlijke tiara op het hoofd) op
+den achtergrond van goudmozaiek van het heilig
+
+dom uitkomt.
+Tweede bedrijf: aanroeping der geesten door
+Esclarmonde, aanroeping aan de maan; het orkest
+speelt, als men Roland het witte hert ziet volgen,
+eene wilde jacht" in fantastisch wilden rhythmus.
+Instrumentaal voorspel van het feeëneiland; lang
+
+zame wals van de geesten die op het zeestrand
+dartelen; Roland slapend bij fluit en harpspel,
+prachtige aanroeping van Esclarmonde:
+O nuit, prolonge ta durée,
+en daarop volgend liefdesduet:
+Voici Ie divin moment.
+Het orchestraal intermezzo bij den betooverden
+boom, een dichterlijk en hartstochtelijk crescendo,
+is gebisseerd. Dan volgen een klein duo, het koor
+der fantastische maagden, die den degen brengen,
+en een toespraak van Roland tot het zwaard :
+
+Forme divine de la croix!
+
+Derde bedrijf: Gebed van den bisschop, zonder
+begeleiding, arioso van Roland en daarna de pa
+
+thetische klacht van Esclarmonde, het schoonste
+deel van het werk:
+
+Roland, tu m'as trahie!
+Ik weet niets edelers, dieper gevoelds en aan
+
+doen lijkers," zegt Vitu.
+Vierde bedrijf: Landelijk ballet, scherzo van
+fluiten, hobo's en fagotten. Ensemble van Phorkas,
+Parseis, Eneas en het koor, waarin men Esclar
+
+monde tracht te bewegen van Roland afstand te doen,
+en nog een duo, zeer schitterend en vol harts
+
+tocht, dat men ook had willen doen herhalen;
+eindelijk in het laatste tableau, het groote finale.
+Massenet heeft voor zijne Esclarmonde eene
+nieuwe ster weten te vinden, een zekere
+Amerikaansche Miss Sybil Sanderson, die er vele eigen
+
+schappen van vereenigde. Dat hare stem eene
+noot hooger heeft dan die der hoogste sopraan
+(Ia note-Eiffel de l'Opéra-comique, driegestreept
+ff, contre-sol aigu, een noot hooger dan de hooge
+noten in de bekende aria van de Koningin
+der Nacht",) is een toegift, maar Massenet
+heeft niet nagelaten er gebruik van te maken,
+te meer omdat hare stem in het midden
+
+register zwak is. (Men heeft het zelfs verwon
+
+derlijk gevonden, dat eene prinses, die zooveel
+met geesten omgaat, juist in het medium te
+kort schoot). Hare geheele persoonlijkheid ech
+
+ter, hare buitengewone schoonheid, haar blauwe
+oogen, goed geëvenredigde gestalte,
+prinsessenhanden en voeten, het kinderlijke en maagdelijke
+in hare verschijning, het eenvoudige sympathieke
+van haar optreden, maakte haar bijzonder ge
+
+schikt voor deze heldin van een tooversprookje,
+prinses, toovenaarster en minnares tegelijk, die
+met bekoorlijke naieveteit een ridder voor zich
+schaakt en hem na het zeer gewaagde liefdes
+
+duo den degen van Sint Joris schenkt. Zonder
+haar zou Massenet, naar men beweert, niet tot
+Esclarmonde besloten hebben.
+Roland was de tenor Gibert, koning Phorkas
+de zeer gevierde baryton Taskin, Parseïs Mlle
+Nardi, de bisschop Bouvet en ridder Eneas Herbert.
+De opvoering schijnt in alle opzichten een suc
+
+ces geweest te zijn; toch hebben tot dit succes
+zooveel omstandigheden medegewerkt dat de
+opera wellicht buiten Frankrijk geen carrière
+maken zal.
+MUZIEKAAL OVERZICHT.
+Rotterdam, 23 Mei 1889.
+
+Het plan, waarop ik in mijn laatste verslag
+zinspeelde, is tot uitvoering gekomen: het orkest
+van het Concertgebouw uit Amsterdam onder
+leiding van Willem Kes heeft ons bezocht; het
+gaf in de groote zaal van den Doele twee Con
+
+certen, het eerste voor de leden, het tweede voor
+publiek. De vrees voor te groote warmte had
+zeker vele leden ervan terug gehouden het eerste
+bij te wonen, en toch was die vrees ongegrond;
+de verlichting door electriciteit maakte dat de
+temperatuur niet slechts dragelijk was, maar zelfs
+aangenaam. De groote roep, die van de eerste
+uitvoering was uitgegaan, deed echter het publiek
+naar het tweede concert stroomen en er bleef
+bijna geen plaatsje onbezet.
+Kes heeft groot en welverdiend succes gehad:
+de vereeniging het Concertgebouw heeft hare taak
+blijkbaar breed opgevat en verdient ten volle den
+steun van alles, wat te Amsterdam hart voor
+icaarachtige kunst heeft. Het is merkwaardig, tot welk
+een hoog standpunt de heer Kes zijn orkest, na
+betrekkelijk nog zóó korte samenwerking, heeft
+weten op te voeren, en zijne concerten verschaften
+een genot dat niet hoog genoeg gewaardeerd kan
+worden; de onder de leden heerschende disci
+
+pline maakt het mogelijk dat de directeur zijne
+intenties kan doorzetten ; en het kolossal
+muziekale geheugen van dezen, dat hem veroorlooft
+alles, zonder van een partituur gebruik te maken,
+te dirigeeren, geeft hem de bij een dirigent zoo
+hoogst noodzakelijke vrijheden, om zijne intenties
+zijn orkest duidelijk te maken en ze ook te doen
+uitvoeren.
+Daarbij is Kes' wijze van dirigeeren zoo rustig,
+dat men er zich eveneens kalm bij gevoelt en
+daardoor des te meer genieten kan. Over de op
+
+vatting in sommige werken kan overigens ver
+
+schillend geoordeeld worden.
+Directeur en orkest behaalde met de uitvoering
+van de Ouverturen Oberon,Meistersinger enLeonore
+No. 3, met Beethovens beide Symphonieën (Nu. !&gt;
+en Eroïca), het Perpetuum Mobile van Paganini
+en Liszt's eerste llhapsodie een waren triomf.
+Het op het gebied der toonkunst waarlijk niet
+gemakkelijke Rotterdam is stormenderhand ge
+
+wonnen en het heeft zijne ingenomenheid ook
+niet verbloemd; bij beide uitvoeringen ontving de
+heer Kes een lauwerkrans. Hij kome spoedig weer.
+een goed onthaal is hem thans verzekerd !
+V.
+EENE PREMIERE VAN BERL10Z.
+
+Te Münehcn is deze week de Jieavemito CfHini
+van Berlioz opgevoerd. De première werd door
+muziekkenners en .liefhebbers, niet door het groote
+publiek, bijgewoond, en dit zal bij volgende uit
+
+voeringen wel evenzoo zijn, ofschoon de uitslag
+van den avond eeu volkomen succes was. Reeds
+de eerste ouverture werd vol geestdrift toegejuicht;
+het is een schitterend orkestnummer, dat minder
+door schoonheid, dan door pikante, verrassende.
+effecten de aandacht trekt, en dat met de
+vereischte distinctie en energie werd uitgevoerd. Als
+men bedenkt, dat de Benven-uto in 1838 is ontstaan,
+en de muziek sedert dien tijd heel wat nieuws en
+verrassends heeft opgeleverd, is de indruk van
+nieuwheid en oorspronkelijkheid, dien deze uitge
+
+stelde //première" maakte, te opmerkelijker.
+Benceiiuto werd reeds te Parijs opgevoerd, en viel; eene
+opvoering te Londeu ging niet door; in 1852wist
+Liszt te Weimar te bewerken dat hij ingestudeerd
+werd, en had in den kleinen kring van dat theater
+er eenig succes mede; tien jaar geleden werden
+onder Hans von Biilow's directie ook te Hanover
+eenige voorstellingen gegeven, thans echter maakt
+de opera haren weg. Den vorigen winter maakten
+Dresden, Weimar en Carlsruhe er kennis mede.
+Thans wachtten de Münchener kunstenaars met
+ongeduld den indruk af, dien het werk op hen
+maken zou.
+De indruk was een andere dan men gedacht
+had. Men kende Berlioz vooral als fantastisch,
+grootsch instrumentalist; men wachtte nu een
+muziekdrama, dat aan Liszt en Wagner zou doen
+denken. Het was iets geheel anders. Renvenuto
+Cellini is eene opéra-comique naar Frauseh model,
+met zeer tragische gedeelten gemengd. In plaats
+van den moderu-declamatorischen stijl vindt meu
+de Italiaansche cantileua gemengd met een
+recitatativo secco, zelfs erg droog; alleen de ensembles
+toonen den Berlioz, dien men uit de oudste werken
+kent.
+De intrige is geheel die eencr opéra-comique en
+vrij aardig; zij is van de Mailly en Barbier. De
+eerste acte speelt op den avond vóór vastenavond,
+in het jaar 1532; het tooneel stelt een schitte
+
+rende zaal voor in liet paleis van deu paxiselijken
+schatmeester Baldueei. Deze (de bas-buffo) ver
+
+trekt na een onbeduidende entree-scène en laat
+zijne dochter Teresa, de sopraan, alleen; het meisje
+peinst, vol melancholie, tot zij een vroolijk gezang
+buiten hoort klinken. Zij gaat aan liet venster,
+wordt met een bloemenregeu overstrooid, en vindt
+in een bouquet, dien zij opraapt, een briefje van
+Cellini; hij is in aantocht. Cavatine: liefde en
+kinderplicht. Cellini (de tenor) treedt op; hij is
+de beroemde goudsmid, schilder, beeldhouwer,
+bronsgieter; hij is ook de galante, energieke, ge
+
+weldige man uit Benvenuto's mémoires. Liefdes
+
+duet naar Italiaansch model. Het duet wordt
+aangehoord door deu bariton Fieramosca, Teresa's
+aangewezen bruidegom, ook een beeldhouwer; !iij
+beluistert de afspraak, dat Teresa zich op het eind
+van het carnaval op de Piazza Colouna door
+Beuvenuto Cellini zal laten schaken. Op dit
+oogeiiblik komt Baklucci terug; Fieramosca treedt in
+Teresa's kamer, maar wordt, terwijl Cellini ont
+
+snapt, door den vader gegrepen en, in een zeer
+levendig en interessant finale, aan de lynch-justitie
+van de buurvrouwen overgeleverd.
+De tweede acte speelt op Dinsdag, vastenavond,
+Cellini is o;&gt; de binnenplaats eencr taveerne en
+zingt er een populaire romance. Zijne vrienden eu
+leerlingen komen ; drinkgelag, driuklicd, komische
+twist met den waard, die geen wijn meer geven
+wil voordat hij geld heeft gehad. Cellini wordt
+uit de verlegenheid geholpen door Ascanio (hooge
+sopraan) die hem van wcge den Paus een zak
+met zecliincn komt, overgeven, onder conditie, dat
+de meester den volgenden dag zijn
+Perseus-standbeeld zal voltooien. Celliui vindt de som te gering,
+hij besluit, zich op deu gierigcii schatmeester
+Balducci te wreken on vertrekt met zijn vrienden.
+Fieramosca heeft weer alles beluisterd, zingt een
+komische aria, en zal de plannen verhinderen. Hier
+moet een changement a vue volgen, maar men
+speelt dan Berlioz' ouverture Ie carnaval Romuiii.
+een prachtig orkeststuk. De gordijn gaat daarna
+op over de Piazza Colonna. De carnavalscèue, die
+daar wordt afgespeeld, vormt, liet glanspunt der
+opera, een grootsch finale. Baldueei verschijnt met
+zijn dochter te midden der volksmenigte en moet op
+het kleine theater ter zijde zijn levend evenbeeld zien
+optreden, met twee groote ezelsooren versierd, als
+Koning Midas; dit tooueel is ook als muzikale
+humor uitmuntend. Het wordt donker ; het
+kaarsjesspel begint, men hoort roepen: moccoli!
+moccoli !" Cellini treedt op, in een mounikscostuum,
+met Ascanio in bruine pij, beiden gemaskerd ; juist
+komen aan de andere zijde Fieramosca en zijn
+vriend Poinpeo (bas), geheel iu 't zelfde costuum.
+Er ontstaat een gevecht; Celliui doorsteekt
+Pompeo; men zal hem juist gevangen nemen, daar
+klinken van den Engelenburg de drie kanon
+
+schoten, die het, einde van het carnaval bekend ma
+
+ken. De lichten gaan uit, iu deu donker weet
+Cellini te ontsnappen. Fieramosca wordt gegrepen
+en maakt zich bekend ; Teresa vlucht met Ascanio,
+eu de aete eindigt met eeu flink muzikaal effect.
+De derde acte, Asch-Woensdag, speelt in
+Cellini's atelier. Teresa wacht daar, twijfelend eu be
+
+angst; Ascanio tracht haar gerust te stellen, ter
+
+wijl achter het tooueel een aardig maar zonder
+
+ling aangebracht, koor van geesten klinkt.
+Ascanio zingt, dan een oud-model aria. Cellini
+komt en vertelt hoe hij in een klooster gevlucht
+en met eene schaar vrome boetelingen ongemerkt
+naar huis gekomen is. Hierop moest eeu liefdes
+
+duet volgen, dat men heeft weggelaten. Cellini wil
+met Teresa vluchten, maar destraf voor deu moord
+eu voor de schaking is ophanden, Baldueei komt,
+dan Fieramosca, dan kardinaal Salviati; men zal
+Cellini arresteeren, maar het gelukt dezen, door de
+bedreiging dat hij zijn Perseus zal vernietigen, deu
+kardinaal afteschrikkeu; hem wordt genade ge
+
+schonken met de belofte, dat hij Teresa trouwen
+mag als het werk gelukt, zooniet, dan zal de strop
+zijn loon zijn. De kardinaal vertrekt met de overigen
+naar het binnenste atelier; en de beeldhouwer
+zingt, niet uiterst gepast op dit oogenblik, uu
+alles van hem op het spel staat, een lied van een
+herder op de heide. Dan komt, nadat het voor
+
+hangsel der werkplaats is opengeschoven, nog een
+levendig tooneel; er is geen brons genoeg voor
+het gieten van den Perseus, en Beiivenuto werpt
+uu iu den smeltoven al wat hij aau kostbaar
+metaal heeft, statuetten, vazen, al de schatten van
+zijn atelier. Eindelijk gelukt, het gieten; de meester
+slaat deu vorm aan stukken en na een slotkoor
+bij het prachtige Perseusbeeld en het vereenigdo
+jonge paar, valt de gordijn.
+Meu ziet, het is geheel een klassieke op
+racomique behalve het eene geestenkoor ; de
+laatste acte echter is, van Balducci's optreden al',
+in den stijl der groote opera behandeld, en c-ok
+zeer dramatisch, interessant en grootsch van effect.
+
+</text>
+<image timestamp="2002:10:03:05:10:30.00" size="459030">00000BDW.TIF</image>
+</page>
+</document>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320130</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 30 Januari 1932
+N o. 2852
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N, V, Meubelmagazijn Eden0
+MOLSTEEG AMSTERDAM
+BOEKENKASTEN
+W. H. POLMAN TUIN
+OVERTOOM S26 * Telefoon 82660
+Begrafenissen - Transporten - Crematies
+VERWEEGEN&amp;KOK
+AMSTERDAM
+KALVERSTR. 86—90
+DEN HAAG
+NOORDEINDE 64C
+PI ai d s, Voetzakken, Auto-Overschoenen
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+" D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN M A R M E R W E R K E N
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN W ASC H T AFE LS R E P A R AT l ES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+C. J. de Koning &amp; Zn.
+Keizersgracht 447
+Opgericht Ao. 1739
+
+Centrale Verwarming
+Pendules - Horloges
+Stijl klokken - Wekkers
+Barometers - Gouden en
+Zilveren Werken
+Grootste Sorteering:
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. Breen
+Nieuwend ij k 172
+Haarlemmerstraat 64
+Rozengracht 53
+Ateliers voor reparatien aan
+Uurwerken, Goud en Zilver
+B€NBCN
+
+PRALINE
+
+Vulling van
+fijngewreven gebran
+
+de amandelen.
+Aparte, pittige
+smaak.
+ZIET TOE DAT G6
+D ROST E S KRIJGT
+•••••^^^^^•^^^^^^^^^^^^^^^••••^••••••••••••«••^^^^^^^^^•^^^•^^^•••••••••••••••••••••••••••^•••••«••^^^^^^^^•^^^^^^^^H
+
+Prijst crlaijimj...
+vanaf 1 fekraari MAGGI* SOEPEN
+de 10et soorten worden verlaagd: per tablet op
+ERWTEN
+FAMILIE
+JUUENNE
+KONINGINNE
+CHAMPIGNON
+KERRY
+RIJST-JULIENNE
+RIJST met TOMATEN
+RUMFORD
+SELDERIJ
+LONDONDERRY
+MOCK-TURTLE
+DRAAD-VERMICELLI
+KORREL-VERM. MET TOMATEN
+WINDSOR
+OSSENSTAART
+TOMATEN
+De soepvan
+kwaliteit!
+De prijzen der soorten: GROENTE en TAPIOCA-JULIENNE blijven onveranderd op 10 Ct.
+
+De nieuwe prijzen gelden ook, wanneer op de etiketten nog de oude prijzen gedrukt staan
+FABRIEK VAN MAGGI's VOEDINGSMIDDELEN, FILIAAL AMSTERDAM
+PEEK &amp; CLOPPENBÜRG
+Voornaamste Kleedinqinrichtinn
+cp elk gebied
+
+</text>
+<image timestamp="2002:09:26:15:39:57.00" size="147617">000009YT.TIF</image>
+</page>
+</document>

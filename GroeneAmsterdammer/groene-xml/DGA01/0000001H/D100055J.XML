@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390513</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Speedwear"
+A'merikaansch
+zomerondergoed van geribd
+katoen. Luchtig en koel.
+In bleu of wit. Shirt of
+broekje (slipmodel) CC
+Otis"
+Amerikaansch
+2omerondergoed van geribd
+macco, dat goed absor
+
+beert en bijzonder prettig
+zit". Shirt of broekje
+(slipmodel) . .
+Otis"
+luchtig broekje van
+popeline. Amerikaansch fa
+
+brikaat. Ruim model,
+met 3-knoopssluiting
+en elastische zijkanten
+95c
+Arrow"
+Het bekende Amerik.
+merk van gesanforiseerde
+Oxford-macco.
+3-knoopssluiting en elastische zij
+
+kanten. In wit of bleu
+1.95
+Air cooled"
+Amerikaansch
+zomerondergoed van poreus
+macco-fantas ie-weefsel.
+Uitsluitend in wit. Alle
+maten . . . .135
+Jockey"
+Amerikaansch luchtig
+zomerondergoed. Shirt
+1.40; broekje
+(sportmodel of extra-korte slip)
+met kruisversterking 150
+B.V.D.
+Het ,, klassiek " Ameri
+
+kaansch merk. Mooi weef
+
+sel, uitstekende pasvorm.
+Krimpvrij. Broekje en
+shirt met voorsluiting.
+.Broekje of shirt . OIO
+door de ware zomer-onderkleeding!
+
+Van Mei tot October willen wij, mannen, licht
+en luchtig ondergoed dragen.
+Dan krijgt de warmte geen vat op ons, dan zijn
+we vroolijk en opgewekt en bekijken het leven
+van den optimistischen kant. Maar bij al zijn
+luchtigheid moet het ondergoed ons toch ook be
+
+schermen tegen vochtig weer en andere wissel
+
+valligheden van ons grillig klimaat.
+Daarvoor zorgt ondergoed als dit!
+Wat een Man verder moet doen om in den zomer goed gehumeurd te
+zijn en zich wél te gevoelen, kan men lezen in onze nieuiue brochure
+OVERPEINZINGEN VAN EEN MAN, DIE DE ZOMER VOELT NADEREN1' welk
+drukwerk wij op aanvraag gaarne franco thuis sturen.
+deüBijenkorf
+Amsterdam
+Den Haag
+Rotterdam
+BUITEN WONEN
+SOESTDIJK-SOEST
+Dubbel landhuis, vlak bij natuurschoon, trein en autobus, bev. p. st.: suite, keuken,
+kelderk., 3 slaapkam., 2 vaste wascht., badk. m. ingeb. bad, zolder, garage, tuin.
+~~ ~ " " " Zeer geschikt v. eigen bewoning en geldbel.
+. Gr. Won.glds b. Won.bur. P. Man. Eig. Ir. J. G. F. Gijzen c.i.,
+t Steenhoffstraat 5 t/o stat. Soestdijk. Telefoon 2300 (K955).
+PflnUlinl Cl
+UUDDuI N
+PRINSENGRACHT. 837.
+TEL. 37906
+BEGRflFEmHEN-[REMRTIE-TRRNJPORTEH
+Voor Uw verblijf in MONTE CARLO
+Neem Uw intrek in
+HOTEL DES PRINCES
+Centrale ligging Uitstekend Restaurant
+MATIGE PJiWZEA'
+AUG. UILKEMA
+Enorme keuze gouden
+zegelringen met stenen,
+geheel goud, nieuwste mo
+
+dellen, van/7.- tot ƒ45.-.
+39 REGULIERSBREESTRAAT A'DAM
+GARAGE BEUKERS (in Zuid)
+FRANS HALSSTRAAT 26a - TEL.23655
+Verhuur van nieuwe Citroen
+Auto's zonder chauffeur
+PAG. 17 DE GROENE No. 3232
+
+</text>
+<image timestamp="2002:09:13:07:31:02.00" size="246809">D100055J.TIF</image>
+</page>
+</document>

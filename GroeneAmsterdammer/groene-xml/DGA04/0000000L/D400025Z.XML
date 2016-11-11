@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160123</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET OFFENSIEF VAN DEN NEDERLANDSCHEN SOLDAAT
+Nadruk verboden
+BIJVOEGSEL van De Arasterdammer, Weekblad voor Nederland, van 23 Januari 1916
+i™ ~)s,-f
+"**J*--f''"&gt;*£****&amp;&lt;$*"**•*,
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+Eindelijk een vijand te bevechten!
+
+</text>
+<image timestamp="2002:08:22:03:58:41.00" size="413727">D400025Z.TIF</image>
+</page>
+</document>

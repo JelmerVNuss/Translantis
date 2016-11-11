@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320326</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+&amp; &lt;?P£ C*M^ÏW
+NA 60 UUR SPREEKT GE EEN VREEMDE TAAL
+ALSOF HET UW MOEDERTAAL WAS.
+Iedere vreemde taal
+binnen enkele maanden.
+De Lïnguaphone methode leett U
+binnen enkele maanden vloeiend
+Engelsen, Duitsch, Fransch of
+Italiaansch spreken door middel van
+
+Gramofoonplaten
+
+en
+
+Tekstboekjes.
+
+Het Linguaphone Instituut is ge
+
+vestigd in 35 verschillende landen
+en kan U H verschillende talen
+leeren.
+
+Het Linguaphone Instituut is het
+eenige Instituut ter wereld, hetwejk
+U lessen laat geven door
+Hoogleeraren uit de landen zelf.
+
+Het Linguaphone Instituut wil U
+helpen op Uw weg door het leven.
+Professoren als Lloyd James, Paul
+Passy, Daniel Jones en vele anderen
+komen U thuis les geven.
+
+Wij zenden U gratis en zonder
+eenige verplichting onze interessante
+24 pagina's groote brochure Lin
+
+guaphone". U vindt daarin alles wat
+U over deze unieke methode wenscht
+te weten en tevens alle inlichtingen
+omtrent den prijs en de gemakke
+
+lijke betalingsvoorwaarden.
+Wij zenden U ook gaarne, zonder eenijjc
+•verplichting, een completen cursus
+7 dagen op proef.
+
+Aan ons hoofdkantoor te Amsterdam, aan
+onze bijkantoren teRotterdamenDenHaag
+staan wij den geheelen dag klaar om U
+gratis en zonder eenige verplichting eiken
+gewenschten cursus te demonstreeren.
+Hebt U weinig tijd, bel ons op en
+wij komen bij U thuis
+demonstreeren.
+
+AMSTERDAM,
+Kalverstr. H9, tel. 31749
+ROTTERDAM,
+Schied.singel 31. tel. 15543
+DEN HAAG,
+Plaats 27a, telef. 117727
+•*«»•
+'e 't
+'4
+Vul nevenstaande coupon 4n en zend haar in een open enveloppe, gefrankeerd
+met l Va cent. Nog nooit hebt U l H cent zo°»ed besteed!
+9 *
+C.
+
+</text>
+<image timestamp="2002:09:26:19:44:40.00" size="147672">00000A43.TIF</image>
+</page>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18930226</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een late, maar gepaste hulde.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 26 Februari 1893.
+'vfcwKH-yi,V ffrov -:-w..v*;
+t',1.
+
+f'
+Amst. Boek- en Steendrukkerij, v/h. Ellcrman. Ilartns &amp; Cc.
+Prof. MOLESCHOTT: »Op zulk een lid als Verdi, den roem van het kunstlievend Italië, is onze Senaat trotsch !'
+Koning UMBERTO: «Bravo, professor! Na kan ik met mijn markiezaai: wel Thuisblijven. Maar.... (sotto voce] uw
+collega's in den Senaat hebben er vroeger wel eens anders over gedacht.''
+
+</text>
+<image timestamp="2002:08:21:10:25:22.00" size="401925">D100027C.TIF</image>
+</page>
+</document>

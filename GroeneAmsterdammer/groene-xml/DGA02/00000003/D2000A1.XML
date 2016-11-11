@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991119</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1169
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+9
+De toestand in Zuid-Afrika.
+Hoe de teekenaar van Moonshine" zich het voorstelde
+FRANKRIJK : «SaeréAngleterre, vive Krüger!"
+JOHN BULL: »Hou je fatsoen, asjeblieft, zóó zal het gebeuren. Je vergeet zeker je eigen
+pakken slaag, hè?"
+Hoe Europa Engeland liefheeft. (Le Eire).
+en hoe het was,
+FRANKRIJK: »Ha! Ha! Ha!"
+JOHN BULL: »Au! Au! Au!"
+De groote revue voor den Duitschen Keizer by Aldershot
+te houden, (Nederla»dsche Spectator).
+Excuseer, meneer John, we kunnen 't niet helpen ... Ha! Ha! Ha!
+Engelsche waarheidsliefde. (Ulk).
+Grootma zau graag wat meer laten zien, maar de rest van 't leger is naar Vluchtende Ent/elschman; «Redde zich wie kan, de Boeren zitten ons op de hielen!"
+/Stnd-Airika. Victoria alleen heten ze thuis. Generaal: »Halt! halt! telegrafeereerst nogeenscbitterendezegepraalnaarLonden!"
+Welwillende neutraliteit.
+Portretten van Boeren-aanvoerders uit den
+Vrijheidsoorlog van 1880-81.
+Verschil van Visie! (Grand Jïapids Morning Post.)
+( »Zeg buurman, als Engeland het verliest, dan nemen we het wat af!"
+De toeschouwers: j »En als het wint. ..?"
+( »Dan moet het ons wat geven !"
+P. J. Jonbert.
+Hoe John Buil zich Oom Paul eenige weken
+hem nu ziet !
+geleden voorstelde, en hoe hij
+Piet Steyn.
+Hans Botha.
+Lucas Meyer.
+P. J. Cronjé.
+Hans Erastnus.
+
+</text>
+<image timestamp="2002:08:13:22:52:27.00" size="717730">D2000A1.TIF</image>
+</page>
+</document>

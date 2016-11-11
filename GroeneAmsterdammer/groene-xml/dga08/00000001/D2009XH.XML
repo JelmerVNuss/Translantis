@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19290803</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+6
+f
+i
+'*
+DE GROENE AMSTERDAMMER VAN 3 AUGUSTUS 1929
+No. 2722
+Radio en grammofoon
+
+Draadloos
+ver-zien
+door L. J. van Looi
+!• de praetische
+la aantocht ?
+TOEN ik «.'enigen tyd geleden ia
+een tweetal artikelen de draadlooze
+overbrenging van foto's behandelde,
+wees ik op de overeenkomst, die
+tusschen de daarbij toegepaste me
+
+thode en de systemen voor draadloos
+ver-zien, televisie, bestond.Enik merk
+
+te daarbij ook op, dat, waar de beeld*
+overdracht welhaast perfect is, de
+televisie nog niet zoo ver is, dat er
+met een praktische toepassing reke
+
+ning gehouden moet worden.
+Intusschen is die toestand eenigszins ver
+
+anderd er moet thans wel degelyk
+aan een soort televisie-omroep binnen
+niet al te langen tijd gedacht worden.
+Deze verandering van toestand is
+niet te danken aan de een of andere
+opzienbarende uitvinding, die de tele;
+visie met n stoot een eind vooruit
+heeft gebracht, z\j is veeleer het
+gevolg van een naarstig uitzoekeu
+van de mogelijkheden, die met de
+bestaande apparatuur bereikt kunnen
+worden, waardoor men gekomen is
+tot het construeeren van apparaten»
+die toevertrouwd kunnen worden
+aan de leeken-radio-geïnteresseerden
+luisteraars" kan men de toekomstige
+televisie-bekijkers moeilijk noemen!
+In Duitschland is men thans zoover,
+dat de Hongaarsche uitvinder von
+Mihaly een apparaat heeft samen
+
+gesteld, dat bewegende beelden over
+een gewonen radiozender kan uit
+
+zenden met de scherpte van een niet al
+te beste fotografie. Binnenkort zullen
+de uitzendingen over den
+Berlijnschen Witzlebenzender aanvangen.
+Alle systemen van televisie werken '
+volgens eenzelfde principe. In alle
+systemen maakt men gebruik van
+een inrichting, die het te televiseeren
+beeld in uiterst kleine stukjes ver
+
+deelt, welke beeldstukjes in de juiste
+volgorde en in de juiste
+toonverhouding draadloos worden overge
+
+bracht en aan de ontvangzijde te
+zamen gevoegd, zoodat het origineele
+beeld weer wordt verkregen.
+Het verdeelen van het beeld ge
+
+schiedt met een zgn. Nipkowsche
+schijf of een Weillers' rad. Voor wij
+echter zullen bespreken, wat deze din
+
+gen zijn, moeten wij weten, waarvoor
+zij dienen. Men stelle zich daarom
+even een foto Voor, die in kleine
+vierkantjes is verdeeld, alsof de foto
+óp millimeterpapier was afgedrukt.
+Elk vierkantje van zulk een foto zal
+een eigen tint hebben, het eene vier
+
+kantje zal iets donkerder zijn dan
+het andere. Wanneer het mogelijk
+ware om al die onderscheiden tinten
+een nummer te geven en de vierkant
+
+jes-zelf ook te nummeren, dan zou
+men in staat zijn, om een getrouwe
+copie van défoto te maken op een
+stukje papier, dat van dezelfde in
+
+deeling is voorzien, alleen door aan
+den copyist, bijvoorbeeld telefonisch,
+de nummers op te geven. Wij zouden
+dan défoto hokje voor hokje
+overtelefoneeren.
+Er bestaat echter een andere me
+
+thode om verschillen in tuit over
+grooten afstand merkbaar te maken,
+een methode, die bij de beeldtelegrafie
+wordt toegepast, zoowel als bij de
+televisie. Daarbij worden de
+tintverschillen omgezet in verschillen van
+electriscihen stroom. Men belicht daar
+
+bij de vierkantjes n voor n met
+een feilen lichtstraal en het door dat
+vierkantje weerkaatste licht vangt
+men op in een zgn. foto-cel. Een
+foto-cel laat geen stroom door in het
+donker, maar als er licht op valt,
+gaat er meer stroom door naarmate
+het licht intenser is. Een licht getint
+vierkantje zal meer licht weerkaatsen
+en dus een grootere stroomsterkte
+door de foto-cel laten gaan dan een
+donker getint vierkantje. Wij krijgen
+dus van elk vierkantje een bepaalde
+totaal-lichtweerkaatsing, die in de
+foto-cel een stroom van een bepaalde
+sterkte verwekt.
+Door die stroomverschillen langs
+een kabel of door een radiozender te
+verzenden en aan de ontvangstzijde
+te benutten, kunnen wij ook een
+beeld overzenden. Het is duidelijk,
+dat het er voor het resultaat-zelf niet
+opaan komt, hoelang men doet over
+het overseiuen van een foto. Tijd
+begint pas te tellen, als men de zaak
+ekonomisch wil exploiteeren.
+Iets anders wordt het echter als
+men in plaats van foto's, levende
+beellu hut stelsel van vou Mihaly wordt
+het beeld verdeeld door middel van
+de bekende Nipkow'sche schijf, een
+schijf, waarin een spiraal van zeer
+kleine gaatjes is aangebracht. Wan
+
+neer achter zulk een schijf een fel
+licht wordt opgesteld zóó, dat het
+licht slechts door n gaatje tegelijk
+kan stralen, dan zal blijken, dat de
+lichtstraal, wanneer men de schijf
+draait, een daarvoor geplaatst voor
+
+werp geheel zal afzoeken". Elk
+stukje van het voorwerp wordt be
+
+schenen en men kan deze schijf een
+zoo groote snelheid geven, dat dit
+afzoeken vijftien maal in de secunde
+gebeurt. Wij bezitten foto-cellen, die
+deze groote snelheid van
+stroomveranderingen uitnemend kunnen vol
+
+gen, zoodat het lijkt, alsof niets iu den
+weg staat, om de televisie maar dade
+
+lijk in de praktijk toe te passen.
+Helaas ontbreekt er nog wel een
+en ander aan. Want zooals een foto
+in een krant wint aan duidelijkheid»
+naarmate het raster", fijner is, zoo
+zal ook het televisie-beeld beter zijn,
+naarmate de vierkantjes" het ras
+
+ter dus kleiner zijn. Het vergrooten
+echter van het aantal beeldpunten"
+brengt zooveel moeilijkheden mee,
+dat de uitvinders daarbij nog slechts
+aan het begin van den weg zijn.
+Het begin echter is er en het schijnt,
+dat von Mihaly het het best begrepen
+heeft j dat met dit begin reeds iets te
+T
+NAA* VERSTE H«H
+EN ZENOf^
+i. Sterke gloeilamp
+2. Lens&gt; die door 3, een raampje^ het licht concentreert op
+4. de filmstrook
+5. Doorsnede Nipkowsche schijf^ waar door het filmbeeldje
+verdeeld wordt. De lichtstraal valt dan in 6, de fotocel
+den. wil overseinen en die beelden
+aan de ontvangstzijde niet stukje voor
+beetje op een papiertje wil opbouwen,
+maar ze dadelijk, als levend beeld,
+wil zien. Dat is televisie en daarbij
+komt heel wat meer kijken. Want
+hierbij is de beheerschende faktor:
+tyd.
+Om op een projektiedoek iemand
+te zien bewegen, zooals hij dat in het
+gewone leven doet, is het noodig,
+dat per seconde acht a tien beeldjes
+minstens op het doek verschijnen.
+Dan ziet ons, oog, dat den indruk van
+elk beeldje even vasthoudt, nadat
+het beeldje zelf al weg is, de heele
+reeks beeldjes als n ononderbroken
+beeld en de bewegingen, die de per
+
+sonen, in het beeld maken, lijken
+vloeiend, ononderbroken. De
+bioskooptechniek staat op dit getal van acht a
+tien nog een ruime zekerheid toe
+de films worden met ongeveer 15 beeld
+
+jes per Seconde op het doek geprojec
+
+teerd. Iets dergelijks zal men dus bij
+de televisie ook moeten doen.
+Wie even over dit probleem na
+
+denkt, ziet de ontzaglijke moeilijk
+
+heden. Wij moeten dus als het ware
+15 volledige foto's per secunde over
+
+brengen. En toch is dat niet de groote
+hinderpaal voor de televisie. Want
+zóó 'ver is de techniek wel gevorderd,
+dat een dergelijk aantal volledige
+beelden geen bezwaar meer oplevert.
+beginnen" was.
+Het is thans mogelijk, om een niet
+al te groot voorwerp, om het even of
+het een. dood voorwerp, dan wel een
+levend bewegend mensch is, te tele
+
+viseeren met de duidelijkheid van een
+niet al te beste foto. Dat lijkt voor de
+praktik maar half belangrijk, maar
+von Mihaly zocht een anderen kant uit.
+Hij wierp zich op den film-omroep.
+Dat idee is goed de televisie zit
+namelijk ook nog voor een groot deel
+gebonden aan de toch nog zwakke
+lichtgevoeligheid der foto-cellen. Het
+moet een zeer sterk licht zijn, dat van
+de te televiseeren persoon afstraalt,
+wil de foto-cel behoorlijk reageeren.
+Wat dus op bjjv. twee meter van de
+fotocel verwijderd is, weerkaatst niet
+meer voldoende licht om de cel te
+laten werken. Een kamerinterieur kan
+men dus niet overseinen. Maar wan
+
+neer von Mihaly een film overbrengt,
+dan kan hy door het plaatje van het
+kamerinterieur net zooveel licht zen
+
+den als hij zelf wil en, wat nog belang
+
+rijker is, het is geen weerkaatst licht,
+dat de fotocel treft, maar het is
+licht, onmiddellijk van de lamp, in
+intensiteit slechts veranderd door de
+min of meer donkere partijen van het
+filmbeeldje. Het werken met films
+heeft dus groote voordeelen, al blijven
+natuurlijk démoeilijkheden met be
+
+trekking tot het raster gelden. Er
+zyu echter tal van vereenvoudigingen
+ten opzichte van de gewone televisie,
+die het vou Mihaly mogelijk maken om
+zijn stelsel binnenkort in praktijk te
+brengen. Voor de ontvangst van de
+uitzendingen heeft hij een toestel
+gekonstrueerd van bijster eenvoudige
+konstruktie, waarbij de grootste moei
+
+lijkheid, namelijk die van het syn
+
+chroon (even snel) loopen der moto
+
+ren, overwonnen is, doordat in Duitsch
+
+land thans alle electriciteitsnetten
+onderling verbonden zijn, waardoor
+van een synchroonmotor kan worden
+gebruik gemaakt.
+Er zal dus binnenkort ik ver
+
+moed reeds binnen enkele maanden
+in Duitschland een begin worden
+gemaakt met wat de volksmond zal
+noemen: televisie-uitzendingen. Hoe
+belangrijk deze uitzendingen ook zul
+
+len zijn, wij mogen niet vergeten,
+dat zij geen zuiver beeld geven van
+den stand van het tele visie vraagstuk,
+Zij geven slechts weer, wat een be
+
+kwaam constructeur met de middelen,
+die de resultaten der televisie hem
+verschaften, kan bereiken voor het
+amusement van den
+radiotoestelbezitter,
+WütuMuwKttiiMimiuwwi
+DAGELIJKS EEN
+
+mnri s CENT
+
+IM-YIE REEP
+(Puur Choc. rood etiket.
+Volle melk Choc. blauw
+etiket)
+met een wetenschappelijk
+vastgestelde dosis Eviunis
+vol vitaminen preparaat
+bereid, beteekent behalve ver
+
+snapering en krachtig
+voedsel, tevens
+Gezondheid en
+Levenskracht
+INSTALLATEUR OK*
+UU* HET
+KON.PALD*
+Binnenhuis-Architect
+Modern. Antiek
+Showrooms
+No. 2722
+DE GROENE AMSTERDAMMER VAN 3 AUGUSTUS 1929
+UIT HET KLADSCHRIFT VAN JANTJE
+Dynamit-Benzol
+door Melis Stoke
+WE waren in Alt enahr aangekumen.
+.,Kinfteven zei ik T- als
+jullie nu hél lief bent dan geen Ave
+morgen naar de race-autotjes kijken I"
+En ze zijn zoet geweest, ik verzeker
+hot u. P'n wanneer ik nog hoofdpijn
+liob en versuft ben van de genietingen
+van dien dag, dau komt dat niet
+door de kinderen en niet door de
+raceautotjes, maar uitsluitend' door vijftig
+of zestigduizend menschen die het
+
+zelfde plan hobben uitgevoerd als wij:
+het bijwonen van de internationale
+autorennen op de N rburg-K ing bij
+Adenau, in den Eiffel..
+Het was ontzettend, beklemmend.
+overdonderend, afgrijselijk....: een
+nachtmerrie van. olie. benzine, stof
+en dynamit-benzol. (Het laatste is een
+ontplofbaar mengsel voor
+ontstekingsmotoren, dat, aangewend iu combi
+
+natie niet een open uitlaat, stoffige
+wegen en claxons, eene helsche uit
+
+werking heeft.)
+Toen wij den avond tevoren waren
+ingeslapen beseften wij niet dat de
+veldslag des morgens van den wed
+
+strijd tegen het eerste grauwen be
+
+ginnen zou. Maar tegen vier uur in
+den morgen ontwaakten wij door een
+dreunend geraas, geknal, geclaxon,
+getoeter.... Een scherpe reuk prik
+
+kelde onze neus. TJit het raam kakend
+zag ik een onafgebroken stroom van
+motorrijtuigen en motorrijwielen voor
+
+bij het hotel rollen.
+Ik weet niet hoe lang, de slag bij
+Waterloo heeft geduurd. Hét kan
+niet langer en niet oorverdoovender
+zijn geweest dan dit helsche défilé.
+Hoestend, proestend en versuft zaten
+wij op het balcon. Door wolken van
+stof en oliedamp zagen wij het
+voorbijda/veren der krachtvoertuigen. Telkens
+Ayas er een opstopping en gedurende
+het oponthoud bleven de tientallen
+motorfietsen doorknallen, -knetteren,
+daveren, stinken....
+Pang-pang.... boem-boem. .. rrrr
+.... Daartusschen claxongegil, gefluit,
+loerende oogen achter glazen brillen,
+hoofden gepakt in leder en doek.
+knarsende remmen, brullende toeters
+in allerlei toonaarden.
+Onafgebroken duurde dat zes en
+een half uur voort. Het was een eigen
+
+aardige tractatie voor de kinderen
+en do jongste, onbekend met het wezen
+van wedstrijden, informeerde eindelijk
+bedroefd wie het nu 'gewonnen had.
+Tegen elf. uur schreeuwden we
+elkander boven Ju-t gedreun in de
+ooren dat we nu ook maar zouden
+gaan. en een kwartier later waren we
+opgenomen in de' helsche stroom.. . .
+Drie nieter rijden.... stilstaan....
+een meter vooruit.... bijna een ge
+
+kneusd spat bord. . . .weer een meter
+vooruit. . . . drie uren lang bijna
+in een optocht die men. kilometers'
+vooruit, als een vette worm langs de
+bergwegen zag slingeren.
+Toen eindelijk: Adenau. centrum
+van de'Nürburir-lting. de aehtvormige
+autorace-baan. Onafzienbaar strekten
+zich in de bergweicir.de autoparken
+uit: tienduizenden wagens.in klompen
+en .reeksen, ssoo ver men kon zien. En
+langs de bazaltbaan. krinkelend dooi
+
+de bergen, over de betonnen viaducten,
+gierden -inderdaad do race-autos....
+in een flits voorbij, nazingend in de
+ooren met de treurige kreet van een
+projectiel.
+Het was een adembeklemmend
+schouwspel: de hoofden van twee
+brooze. zwakke menschen, juist uit
+
+stekend boven den rand van de
+langsflitsende wagens in hun krankzinnige
+vaart. We klommen tot,boven op de
+berg waar, als monument van levens
+
+behoud, een restaurant lokte. Daar,
+op yeiligen afstand van het spel met
+den dood, drong en elleboogde men
+om flesschen spuitwater en bier,
+broodjes met worst en stukken choco
+
+lade. Gezeten in gemakkelijke stoelen
+kon men op een afstand van eenige
+honderden meters de hèlgekleurde,
+wagens de' bochten en hellingen zien
+nemen, en tusschen de bedrijven door
+kon men dringen en duwen voor de
+buffetten, die alras waren verkeerd
+in stapelplaatsen van ledige flesschen.
+beplast en omspoeld met gestort»»
+drank, slagvelden van honger, op
+
+winding en dorst.
+Het was een wonderlijke sensatie
+ilie tienduizenden stille auto's in de
+parkeervelden te zien staan, thans
+alle stom en geduldig. Alleen d«;
+renwagens waren aan het woord. Ze
+gierden en floten langs de lange
+einden, slaakten in de bochten «-n up
+de afgaande hellingen met haro
+remmen soms kreten van nood of
+angst en loeiden tegen de hoogten op.
+Wij. met de wetenschap dat de
+tienduizenden nu noj* slechts decora
+
+tieve, maar straks weer razende auto's
+der toeschouwers, hun duivelsche \vcrk
+van den afgeloopeu morden weer
+zouden beginnen, haastten ons tijditr
+van het terrein der rennen en brachten
+de kinderen erjrens in veiligheid waar
+stof en oliedamp slechts lot con
+fractie konden doordringen.
+Maar dirn avond, iu het hotel. was.
+tot in het holste van den nacht, hot
+gedreun en geratel weer lanjis do
+vensters.
+Wat de vermoeienis .wellicht tot
+tempering van .do inotordr»fl«-n. bij
+
+droeg, bleek echter ruimschoots
+gecompenseord door een eigenaardig»*
+prikkel die van al deze toeschouwers
+op hun beurt renners had gemaakt.
+Opgewonden on meegesleept dooi- het
+aanschouwde, misschien ook ver
+
+langend naar hunne verafgelegen
+woonsteden, -was het tempo van het
+défiléZoodanig vei-sneld in vergelijking
+met dat van den morgen, dat,
+botrekkelijk spoedig, gaten on hiaten in
+den stoet optraden....
+Eovst langzaam.... langzaam word
+het gedreun en geknal minder.'...
+Toen verschenen de buffetautos, vol
+
+gepakt met landerig .personeel.,...
+Het-werd stiller en stiller. Nog een
+enkele maal schrokken wij dien
+nacht wakker door plotseling
+mitraileurvuur van- een groep
+dynamitbenzol-motorrijders....
+Toen de zon hoog stond lag de
+wereld stil	verbijsterd.... ver
+
+pletterd.
+Beschaamd om ons initiatief van
+den vorigen dag reden wij met de
+kinderen een ruime, frissche natuur
+PRIMA
+tegemoet. Niemand i'epte meer van
+het iu stof »MI oliestrtnk getiotone, en.
+als eoiv van de .kinderen hoest t o van
+de doorstane stof kuur. verweet ik mij
+verdwazing.. . . hot ntoo»iioopon van
+jeugd on onschuld 'in het naar tomjto
+hunkerend streven van tloy.ou tijd... .
+ABONNEMENTSPRIJS
+
+
+van ,,Dc Groene Amsterdammer"
+
+per jaar. bij vooruitbetaling
+
+franco per post:
+Voor Nederland . . . f 10
+,, Ned.-Iridiëp/mail. 13.50
+,i &gt;&gt; p/zeepost 10.
+ab. binnen Europa ,, 11.50
+uitgezonderd:
+Engcland-Italie', l t z en
+Zwitserland e.a. J " 1Ó'5
+,, Amerika . ..... 13.60
+Zuid-Afrika. . . 11.50
+,, Belgiëdirect
+.uit Holland 150 francs
+via denNed.
+Bhl. Antwerpen 125
+Postgiro No. 72880
+
+Gemeentegiro ,, G. 1000
+.1!
+
+i
+t
+.'• j
+t
+,?
+,^
+t
+;i
+;f
+' M
+;fr
+J
+l
+
+</text>
+<image timestamp="2002:10:25:11:59:47.00" size="618465">D2009XH.TIF</image>
+</page>
+</document>

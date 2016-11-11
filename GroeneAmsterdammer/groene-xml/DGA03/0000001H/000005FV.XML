@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250321</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2493
+J. ». STRUIJS &lt;&amp; Zn.
+Prinsengracht 837 P. G.Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+POLLEN'! Oude Eonever
+Fijne Likeuren dn Punch
+M. P. POLLEM 4 ZOOH - Rotter drnrn
+KASTOLLES
+DROSTE
+In diverse eenvoudige en luxe verpak
+
+
+kingen, alsmede los uitgewogen verkrijg
+
+
+baar. Losse pastilles Droste 40 cents p. ons
+
+Verpakt in prijzen van af 40 cents
+
+Ronde doozen ƒ2.15, ƒ1.20 en 65 cents
+r f
+•••
+••
+•
+•
+•
+•
+•
+•
+•
+•
+•
+O U DS
+is niet alleen eetlust
+opwekkend - OUDS
+is niet alleen
+koortswerend, doch is óók
+een zeer :
+bijzonder ;
+fijn glas wijn
+4
+*
+*
+Weet U dat al?
+
+
+F^ OUD,
+PURMEREND
+Het ftiquet met
+
+den Volendammer
+•
+•
+•
+•
+•
+•
+•
+•
+*•*
+•••
+»»*»***»*»•*»»»•*+«
+Stoomwasscherij Het Zuiden
+PIETER AERTSZSTRAAT 68-74
+TELEFOON 22365
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIO &amp; VAN ELVEN.
+zijn het meest gewild, om
+prijs en kwaliteit
+SCHOONMAAK
+
+
+STOOMEN
+KLEUR-OP H AL E N
+VERVEN
+
+GORDIJNEN - TAPIJTEN - MEUBELSTOFFEN ENZ.
+
+IS /0 KORTING OP DE PRIJZEN ONZER BESTAANDE PRIJSCOURANT
+
+
+PALTHE-ALMELO
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+j P.C Hooftitrut 38 AMSTERDAM Telel.: 20341, 242H j
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN |
+EIGEN LIJKKOETS AUTOMOBIELEN l
+ADR1AAN SCFJAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar ~~~^^^~
+W. R. V. MOWTA SCHOENEN
+Lievegoed's Mayonnaisesaus
+
+smaakt verrukkelijk bij salade, visch, vleesch enz. Bovendien
+is op elke flacon een bon geplakt, zooals op alle artikelen van
+de Lievegoed's Fabrieken. 15 bons is o.a. l fl. Piccalilli,
+25 bons l fl. Kerry enz.
+
+N.V. DE HOUTTUINEN - AMSTERDAM
+W. H. POLMAN TUI N
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Pil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Heeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+
+Gebreide Mantelpakken, Mantels, Jumpers,
+KinderJurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigde
+
+Gez. VAN HUIDEN - Zwolle
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+
+Specialiteit
+B. J. MULDERS
+TUINAKCH1TKCT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:05:37:12.00" size="115876">000005FV.TIF</image>
+</page>
+</document>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320102</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nö. 2848
+De Groene Amsterdammer van 2 Januari 1932
+Wetenschappelijke Varia
+: l - |\ \—' _
+
+Waarnetningskansen met een
+Zenith'kijker
+door Dr. P. van Olst
+Een schietlood, en in het algemeen ieder stil
+hangend voorwerp, wijst door zijn stand precies
+aan in welke richting de aarde aan ons trekt,
+n.l. de richting naar het aard-middelpunt. Deze
+richting noemt men de verticale richting. Als men
+nu deze verticale lijn naar boven verlengt, dan
+snijdt zij, boven ons hoofd het hemelgewelf in
+een punt, dat men het zenith noemt. Voor iedere
+plaats op aarde is dat weer een ander punt van
+den hemel.
+Ben zenithkijker is een kijker, die zuiver verti
+
+caal staat, dus nauwkeurig gericht is op het
+zenith van de plaats op aarde waar de kijker
+staat. Met dit instrument heeft men onderzocht
+m hoeverre de vaste aarde zelf onderhevig is aan
+eb en vloed.
+Zooals men weet worden eb en vloed der oceanen
+(dus van de vloeibare aardbestanddeelen) ver
+
+oorzaakt door de aantrekkingskracht der maan.
+Was de aarde geheel vloeibaar, dan zou zij in
+• haar geheel de eb- en vloedverscbijnselen
+vertoonen, die nu alleen de oceanen ondergaan.
+• Reeds veel jaren geleden heeft Lord Keivin
+(de in den adelstand verheven Engelsche geleerde
+W. Thomson) bemerkt dat-de oceaangetijden iets
+minder hoog waren dan uit de berekening zou
+volgen als de aarde zelf volkomen onbeweegbaar
+' was. Blijkbaar ging dus de aardoppervlakte zelf
+ook iets op en neer door den maan-in vloed. Door
+verschillende onderzoek-methoden heeft men reeds
+nagegaan hoe groot deze vloedbeweging der
+vaste aarde was. Daaruit volgde dat deze beweging
+niet grooter was dan wanneer de aarde xjngeveer
+even elastisch was als staal. De stevigheid der
+aarde was dus geruststellend groot.
+Maar op de Perkins Sterrewacht (Dalaware,
+Ohio) vertrouwde men het zaakje niet geheel
+en al. Men heeft er duizenden metingen geanaly
+
+seerd, die over een vrij groot tijdsverloop gedaan
+zijn op verschillende waarnemingsplaatsen. Daar
+
+uit bleek reeds dat deze gegevens varieeren ia
+verband met de plaats van de maan aan den hemel
+op 't oogenblik dat de meting gedaan werd.
+De secuurste manier om deze bepalingen te
+doen is bet fotografeeren van de sterren die juist
+in het zenith van een plaats staan. Dr. Ross heeft
+indertijd deze methode gevolgd te Gaithersbury
+(Maryland). Hij gebruikte een astronomische
+kijker, die zuiver verticaal was opgesteld op een
+zeer solieden betonnen basis, die een eind in den
+grond was ingegraven om onwrikbaar vast te
+staan. Met deze kijker fotografeert men den sterren
+
+hemel van het zenith, zoowel als de maan hoog
+aan den hemel staat als bij lage maan-standen.
+Krijgt men dan volkomen gelijke foto's, dan heeft
+de maan geen invloed; verschillen de foto's echter
+doordat de sterren op de plaat verschoven zijn,
+dan heeft de kijker blijkbaar niet onder alle
+omstandigheden dezelfde richting gehad, maar
+heeft iets schuin gestaan bij een der opnamen.
+Blijkt er nu verband te bestaan tusschen de
+mate van deze verschuiving en de maanshoogte
+boven den horizon, dan is de Waarschijnlijkheid
+groot dat de maan de ••schuldige is der
+waarnemings-afwijkingen. Met bijgaande figuur is
+dat misschien te verduidelijken. Stel voor het
+gemak dat de aarde, ongehinderd door de maan,
+een zuivere bol is, dan is voor de
+waarnemingsplaats A de lijn A M de verticale lijn, dus Z het
+zenith. Indien nu onder; invloed van de maan de
+aarde vervormd wordt tot het gestippelde model,
+aan de polen ingezonken, aan den aequator uit
+
+puilend dan zal de kijker die bij A verticaal stond
+(dus om zoo te zeggen rechthoekig op het aard
+
+oppervlak was ingeplant) nu bij A ook nog recht
+
+hoekig op dit aardoppervlak staan, waarin hij
+immers onwrikbaar vast zit, maar daar het aard
+
+oppervlak anders is gaan staan, wijst de kijker
+in de richting B, dus niet meer naar de vroegere
+plek Z. Uit de figuur zal. men zien dat de kijker
+nu noordelijk van het vroegere zenith wijst. Nu
+is het niet zoo eenvoudig om de waarnemingen
+met de zenith-kijker te verwerken want er komt
+een storende omstandigheid bij, die men echter
+gelukkig kent. Dit is een verschijnsel dat ik vroeger
+reeds in deze rubriek besproken heb, n.l. dat de
+aardas min of meer wiebelt. In een periode van
+428 dagen verplaatst de aardas zich zoodanig dat
+de noordpool maximaal achtien meter verschuift.
+Daarmee verschuift natuurlijk de geheele aard
+
+oppervlakte, dus ook de zenith-opname van den
+sterrenhemel. Te Gaithersbury moest men dus
+eerst deze aardasbeweging in rekening brengen.
+Toen men dit deed bleek echter dat er toch nog
+afwijkingen overbleven en dat deze toenamen
+naar gelang de maan hooger aan den hemel stond.
+De afwijkingen waren inderdaad ook zoo als onze
+figuur deed verwachten: -noordelijk.
+Berekent men de zenith-afwijking voor het
+geval de aarde uit staal bestond, dan zou de maan
+geen grooter afwijkingen geven dari een honderdste
+deel van een boogseconde. Maar in Gaithersbury
+waren de afwijkingen veel grooter n.l. bijna een
+tiende boogseconde, dus CTimaal grooter dan wan
+
+neer de aarde uit staal bestond.
+Onmogelijk is het niet dat de aardkorst
+eenigermate te vergelijken is met het vel van een hond of
+kat, dat we heen en weer kunnen halen over hun
+ribben. Geologen waren toch reeds tot de meening
+gekomen dat om de stevige aardkern een
+halfbewegelijke overgangslaag lag tusschen de kern
+en de aardschors. Het is denkbaar dat hierdoor
+de vermelde aardschorsbewegingen mogelijk wor
+
+den gemaakt.
+Nadat de zenithkijker was overgeplaatst naar
+Washington werden ook daar gelijksoortige waar
+
+nemingen gedaan met resultaten, die heel veel
+geleken op die te Gaithersbury. Opmerkelijk was
+dat de afwijkingen iets anders waren als de maan
+oostelijk van Washington stond, dan wanneer zij
+westelijk etvan stond. Het kan zijn dat dit te
+verklaren is doordat de aardkorst onder de Atlan
+
+tische Oceaan een andere structuur heeft dan onder
+het vasteland van N. Amerika, zoodat zij op de
+maan-invloeden iets anders zal reageeren. Het zal
+gewenscht zijn deze onderzoekingen op andere
+plaatsen te herhalen, want geologen en niet minder
+de astronomen baseeren hun waarnemingen op
+de ligging van den waarnemingsplaats en als deze
+blijkt te varieeren, moet iJ.en terdege deze variaties
+kennen om hen in rekening te kunnen brengen.
+Een aanwinst voor het
+Mauritshuis
+Da,nk zij een belangrijke gift der Vereeniging
+Rembrandt en steun van particuliere zijde, kon j
+het Mauritshuis de hand leggen op een der belang- !
+rijkste schilderijen van Thomas de Keyser, het.'
+hierbij afgebeelde portret van den vaandrig Loef \
+Vredericx. '
+In 1924 bezocht ik op een studiereis in Sowjet- i
+Rusland het paleis te Gatrikjna. Dit wa^, na de i
+gevechten en de vlucht van Kerenski uit dit paleis, \
+keurig in orde gemaakt en het was een lust, er de ;
+prachtige serie van tapisserieën van Cozet (1776),
+de vele werken van Hubert Robert, de portretten ,
+van Rotari en zooveel ander schbons te bezichtigen»,
+alsmede de woonvertrekken der tsaren Paul I» i
+Nicolaas I, Alexander II en Alexander III, die door-i
+de zorgen van Makaroff in ouden staat waren her-',
+steld. I
+Dit paleis bezat een ongeloofelijk grooten voor.-;
+raad schilderijen, waarvan ik het mee-rendeel f
+mocht onderzoeken. Onder de werken, die er als »
+onbekend te boek stonden, trof mij de beeltenis'
+van dezen vaandrig. Het stuk gold reeds lang: als j
+een der beste schilderijen der verzameling.
+Menwist te vertellen, dat het het lievelingsstuk was
+geweest van Tsaar Paul I (1796—1801), die het op
+reis steeds bij zich had. '
+Bij onderzoek bleek mij, dat het voorzien^was
+van het monogram van Thomas de Keyssr, ,en
+dat het bjveridien den datum 1626 droeg. Achter
+op het paneel staat: Loef Vredericx, zoon van
+V. I ist geworden Ano 1626 den ]5 August!".
+Hieruit blijkt, dat de afgebeelde zich heeft laten
+conterfeyten naar aanleiding van het feit, dat hij
+vaandrig was geworden.
+Eenigen tijd geleden kwam de schilderij in den
+kunsthandel en onlangs kon zij in Amsterdam voor
+het Mauritshuis worden aangekocht.
+Het is een kunstwerk dat bijzonder goed gecon
+
+serveerd is en zijn oude frischheid en kleurenpracht:
+uitnemend heeft bewaard.
+De vaandrig staat in een portaal met een vloer !
+van witte en lichtroode tegels, vóór een deur, waar
+
+boven het Amsterdarnsche wapen prijkt. Hij is op
+zijn keurigst gekleed: een zeemleeren wambuis,
+waarover een stalen halsberg en een witte kraag. •
+Zijn grijze broek en grijszijden mouwen, de blin
+
+kend witte handschoenen en het blankgepoetste i
+degengevest vormen tezamen met de groene sjerp
+met gouden franje een prachtig en harmonieus ;
+kleurenspel, dat nog verlevendigd wordt door het i
+geel-wit-grocne vaandel, waarop in 't midden de
+roode Hollandsche leeuw met een zwaard in de.
+hand. De parmantige stand, het pittige gezicht van
+den afgebeelde en de uitermate zorgvuldige doch
+geenszins kleinzielige schildering verhoogen het
+genot.
+
+IVO]'"1. Dr. W. MA'A TIN
+
+</text>
+<image timestamp="2002:09:26:13:32:09.00" size="217439">000009W4.TIF</image>
+</page>
+</document>

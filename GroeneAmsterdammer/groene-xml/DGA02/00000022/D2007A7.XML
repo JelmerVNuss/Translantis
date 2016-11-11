@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900720</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nederland ter Congo-conferentie.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 20 lulj iSoo.
+;$$SEKV N = %5» ^.
+rsmfeflk&amp; • &gt; \'-&lt; -yv
+|N felS% v-j -H, ^
+
+1\ MjK X|
+r " i1 j
+
+h. ^ l
+De maagd en de tolgaarder.
+Ellcrmari, llartns «.V Co.
+
+</text>
+<image timestamp="2002:10:02:11:00:56.00" size="411681">D2007A7.TIF</image>
+</page>
+</document>

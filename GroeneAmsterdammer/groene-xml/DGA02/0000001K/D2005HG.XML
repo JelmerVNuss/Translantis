@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321126</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 3SS, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+ONZE KWALITEIT
+IS ONZE KRACHT.
+• Vraagt onze
+DOURO Portwijnen:
+WITTE PORT a PORT AA
+R 00 D E PORT a PORT AA
+en den]
+PALE SHERRY GG
+GEDEPONEERDE MERKEN
+HANDELSMERK WETTIG GEDEPONEERD.
+Prijs per f l esc h ƒ2.
+Van Straalen Monsieur &amp; Erkelens
+
+l Wijnhandelaren
+&amp;*•»»»'•'
+FJttttAAL; HOOFDKANTOOR FILIAAL
+Deh 'Haag Rotterdam Den Helder
+Anna Paulownaa'traat 36 Leuvehavan 34 Hoofdgracht 61
+' tal. 332532. tel. 52456.. tal. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAG PRIJSCOURANT VO,OR PARTICULIEREN.
+MEDISCHE PASMUNT
+Verzameld door MEDICUS
+207 blz.: 20 X 14 cm.; Ing. f 2.50, Geb. f 3.25
+In 30 hoofdstukken behandelt de schrijver achter
+
+eenvolgens: Vivisectie De kunst van genezen
+Immunisatie Van ouderwetsche en
+nieuwerwetsche geneesmiddelen Lourdes Muziek
+als geneesmiddel Verhoogde bloeddruk Ge
+
+nezing door oplegging van de hand Hormonen
+en verjongingsmethoderi Het juiste oogenblik
+Bloed te fcoop'. r Hoe de chaos in een kosmos
+herschapen wordt Vergiftigingen eerste hulp
+bij ongelukken Cocaïne Opium Slape
+
+loosheid en slaapmiddelen Levenskracht en
+levensvreugde Het domme hart—Van kuiltjes
+in de wangen en kringen, onder de oogen
+Degeneratie en genialiteit Schedelleer Ge
+
+schikt voor de .tropen—Sexueele voorlichting
+Koorts en tuberculose Uit oude boeken
+Stralentherapie Onze .stem Doofheid
+Ooraandoeningen bij kinderen Epiloog
+Verkrijgbaar bij den erkenden boekhandel en bij
+UITGEVERIJ C. A. MEES - SANTPOORT
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+KOOPT HET BEKENDE ROODE PAKJE
+
+35 CTS- PÊR ONS
+
+</text>
+<image timestamp="2002:09:21:22:44:01.00" size="120568">D2005HG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+W:
+L*
+N
+l "*
+,«
+
+BBRTA.
+. aesn, toch niet; als ik iets van haar heb,£.n is het
+aange1, want ze was-een tante van mijn man.
+* D'ALBINOS. *
+i, juist, ik herinner me, die beste Sivrac sprak me wel eens van...
+: BERT A.
+n mijn man gekend ? - i
+iJ^k^T " i" D'A.LBj(pos. '
+•'vQch ja, l|l|| aimf kerel (Btrta. maakt een beweging). Pardon,
+me\trpuw,, niet Hat aj arm •vaaster z$de). De hemel beware me, dan
+•jffèik&gt;dat mensch niet ten huwelijk komen vragen (luid). Dat is zoo
+~.-y$if wijie van spreken. Ik heb met hem school gegaan; later hebben
+i- -"Wip «Ikaar ^||de akademie gekend, maar na dien tijd heb ik hem uit
+•- m'"a 'oog verloren, door de vele drukten, die mijn betrekking
+medeBgt. ?&gt;! mevrouw, u kunt o geen denkbeeld maken hoe druk ik
+1 ,
+
+*^ T*'
+'
+. TT
+W
+, .
+BERT A.
+
+D'ALBINOS.
+V|H', •,•'-'" &gt; ' l
+O miliprrouw ; 't is ongeloofelijk, gewoon ongeloofelijk. En dan
+tevÈndiea iemand als ik, die in de behandeling van speciale zaken
+, naam het gemaakt
+^„l- *s " ,-BERTA.
+:'' ^o die, zaken zijn, als ik vragen mag? ^
+*&gt; ^ * D'ALBINOS.
+ithtocheidingen, mevrouw. Sinds mijn komst in Catpentras, heb ik
+gehad.
++, f ' , BERèA. ' .
+"vTer en vijftfjf, zoo, zoo; en hoeveel gewonnen?
+en Vijftig. Ja, dit klinkt, dwaas, maar 't is toch zoo, want in
+«aak kwam oen geval van bigamie voor. O l dat was een
+merkival. Mag ik 't u eens even vertellen?
+. Het-&lt;3penbajur Ministerie hield zich aan art. 340, en ik stond op
+mijn zfnc te verliezen; toen ik eetjftclaps een ingeving kreeg,
+' in 'tvuur van mijn improvisatie uitriep:
+,(Naeirjdat zjt ge niet doen, ge gaat een krankzinnige veroordeel™;
+*-'}«,' *en krankzinnige, want wie anders dan zoo iemand zou de
+dwaas' •
+i't
+S5V
+
+</text>
+<image timestamp="2002:10:03:23:12:22.00" size="106052">00000BMK.TIF</image>
+</page>
+</document>

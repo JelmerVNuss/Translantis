@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050709</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Dr. Kuyper gaat reizen.... en leeren.
+BI1VOKG8F.I., van De Amsterdammer. Weekblad voor Nederland van 9 Juli 1905
+Amst. Boek- en Steendrukkern. v;h. Klierman. Ilarms X- l,n.
+DR. KUVPKR (juicliend) : Hier ben ik mensch : hier
+ia^" ik 't xijn!"
+(Goethe's Faust.}
+
+</text>
+<image timestamp="2002:08:22:01:34:40.00" size="484155">D2002FJ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200417</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+17 April '20. No. 2234
+BEOEFENT U DE MUZIEK?
+Dan kent U ook zeker de
+Firma J. A. H. WAGENAAR
+MUZIEK- EN PIANOHANDEL
+OUDEGRACHT 1O7-109 UTRECHT
+J. F. PETERS WEIJTENS
+LANGE POTEN 35
+9 is - G R A V E N H A G E
+ONTVANGEN DE NIEUWSTE MODELLEN
+RUIME KEUZE SALONSCHOENTJES
+MINERVA - AUSTRO-DAIMLER -MAXWELL
+Automobielen en Chassis
+
+B. M. C." en MAXWELL11 Vrachtauto's
+CAILLE" Buitenboord-Motoren
+
+Prospect! on Inlichtingen op aanvrage,
+AUTOnOBlEL EXPLOITATIE MAATSCHAPPIJ
+onder Directie der
+AMSTERDAnSCHE RIJTUIG MAATSCHAPPIJ
+OVERTOOM 399 - AMSTERDAM • TELEFOON 1901 N.
+THEESERVIEZEN
+PRESENTEERBLADEN
+HOLLAHDSOH FABRIKAAT
+RAADHUISSTRAAT 48.60
+Eerste Ned. Schrijfmachine Reparatie-Inrichting
+
+FRANS XiEH
+Paleisstraat 39, AMSTERDAM
+TEL. 44 Centrum
+Eerste klas Reparatie-Inrichting voor alle Systemen
+PERMANENTE TENTOONSTELLING
+SCHILDERIJEN
+Kunstzaal A. J. J. DE WINTER
+Wittevrouwensingel 27, UTRECHT
+Geopend van 10-12 en 2-5 uut Ook Zon- en Feestdagen
+
+OP DINSDAG 20 APRIL a.s.,
+zal de
+N.V. AUTO-BEURS"
+THERESIASTRAAT 145 's-GRAYENHAGE,
+Telefoon H. 5306,
+in hare gebouwen om contant geld
+veilen in totaal pl.m.
+50 PERSONEN- en
+
+VRACHTAUTO'S
+benevens eenige
+MOTORR IJ WIELEN.
+Op de kijkdagen kunnen aan serieuse
+reflectanten een proefrit toegestaan
+worden tegen betaling van f 2.50.
+Kijkdagen tot en met Maandag 19
+April van 10 tot 5 uur.
+PHILIPPONA
+KETELAAR,
+Keizersgracht 538
+Lingeries a facon
+Mouchoirs
+LEON LEIBOVICI &amp; C°.
+Boompjes ROTTERDAM Te1l1e1f1°R°n
+aa O ^_____^_^_—^—_—IIIIO
+Specialiteit Ing
+Kleerhangers,
+Pantalon persen f
+Pantalonstrekkers,
+Dassenperson.
+Eigen Fabrikaat ELCO" gedeponeerd
+IMPORT EXPORT
+voorradig In
+Zwart Glac
+Zwart Lak
+Zwart Satin
+Zwart en Grijs
+Suéde
+Technisch
+J. C. VAN DER VELDE
+DUNNE BIERKADE 26
+DEN HAAG
+Telefoon H. 962 Telegr. Veldtechniek
+
+Alle Electrische Materialen -:- Vraagt prijs
+JOSEF VEDRAL
+Gedipl. Boheamsch Vioolmaker.
+Groote collectie zeer
+mooie oude
+meesterinstrumenten voorhanden.
+Agentschap der firma
+Hul and Sons Londen.
+Eenigste, oudste adres voor de
+echte Italiaansche Viool- en
+Cello snaren.
+Franco verzending door geheel
+Nederland en Indië.
+Kunsthandel L van Zanten
+Zeevischmarkt 8 Rotterdam
+
+Moderne Schilderijen
+der
+HAAGSCHE SCHOOL
+Dagelijks (behalve Zondags) geopend van 10-5 uur
+TELEPHOON 11344
+17,. ff. 5 TE E; R T. J
+T/1FEL5,
+ELECTRISCHE
+VERWARMING
+GEEN KOLEN	_^
+m aöEr
+SlMËEM
+GEEN
+ABSOtWT
+LAGE S1ÏM&gt;0?IPRYS
+AANLEGStOSïEN.
+CMTJS PRYSOPGAVE
+N.V TSthWSCH DURCAU V/H
+***
+SCHADB
+TEL.N.Ö19/
+UTRECHT
+N. GEACHT4
+TEL. N. 0333
+De bekende
+Amerikaansche Sokken zijn wederom
+in tien kleuren verkrijg
+
+baar.
+Ijzersterk.
+Zitten als gegoten.
+Billijk in prijs.
+Imp. MAX BLOCH A'dam.
+OOSTERBEEK
+MEUBILEERINGEN
+MODELKAMERS VOOR BELANG
+3TELL&amp;NDE.N
+HUIS-TER-AA"BOSSCHEN R1JN-VELUWE
+" -TENNISBAAN
+Hotel-Kestaurant Vraagt prospectus
+DÖORWERIH-OÖSIERBIEÜT.l. lnt.rc. Arnhem 1490
+
+*WINKEL=
+MICROSCOPEN
+WORDEN STEEDS
+MEER GEVRAAGD
+
+</text>
+<image timestamp="2002:08:16:20:37:26.00" size="363046">D10000U1.TIF</image>
+</page>
+</document>

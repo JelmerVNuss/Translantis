@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260821</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N*
+21 Aug. 1926
+CSAURHzn.
+HOFLEVERANCIER
+ROION 134 over de Ned. Bank
+Telefoon 402-10. 49971
+Vischrestaurant
+en Vischhandcl
+MURCH ER
+CAKTOmiAGEFABRIEKenDRUKKERIJ
+UOÓiËRSGRACHT64-66-68-70-72,AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTELDESPAYS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+
+A, D. BEERENDS 9 VEEREN
+BRAND-, DIEFSTAL-, STORM-,
+WATERLEIDINGSCHADE ENZ.
+IDEALE
+INBOEDEL*
+
+OPSTALPOLIS
+Ijaarpr. Inboedels . . . 2.50 Ojoo
+Opstallen (woanh.) . . 1.25 Ojoo
+AMSTERDAM LEEUWARDEN
+30 CENT PER HALF ONS
+fN.V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+//?
+meer^chuirnkkar?
+
+
+N.V. GOEDEWAAGEIS - G OUD A
+MIHMMMHI Illlllllllltin
+Restaurant HOEK
+Amsterdam;^ "UI"/,
+"« Oesters - Kreeft - Caviar
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichting!
+
+CAP
+115 KALVERSTRAAT
+tjo LIBERTY
+Tl MTU R
+KINDER
+iCHOENEHI
+J. P. KARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+&lt;M RIJKE ™
+SORTEERING
+N.V. V/M
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amsterdam
+MEE5T GESCHIKTE BlflDERIJ VOOR H'H-UITGEVERS
+5TVILLIBRORDUS5TRAAT 53-55ADAM TEL 2 V.66
+
+</text>
+<image timestamp="2002:09:26:01:14:16.00" size="141212">D10007V0.TIF</image>
+</page>
+</document>

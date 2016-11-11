@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180727</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE SPELBREKER EN HET NIEUWE MINISTERIE
+BIJVOEGSEL van De Amsterdamnier", Weekblad voor Nederland, van 27 Juli 1918
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v h. Kllerman, Harms &amp; Co
+KegeSjongen Nolens: Zoolang die oude heer met den bal blijft dreigen kan ik het spel niet overeind zetten!"
+
+</text>
+<image timestamp="2002:08:23:14:05:51.00" size="213190">D10002Y5.TIF</image>
+</page>
+</document>

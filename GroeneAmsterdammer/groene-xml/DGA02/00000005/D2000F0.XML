@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000325</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het verzoek om interventie aan de Mogendheden.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 25 Maart 1900.
+Staat je buurmans huis in brand,
+Vraagt hij assistentie,
+Zeg je: &gt;buurman 'k ga naar bed
+&gt;Zie, dat jij je zelven redt!''
+Dat's non-interventie, vrind!
+l )at's non-interventie!
+(MR. IACOB VAN LENNEI-, "'t Dorp aan de grenzen.")
+Amst. Boek- en Steendrukkerii, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:14:09:05:34.00" size="445703">D2000F0.TIF</image>
+</page>
+</document>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280804</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2670 van 4 Augustus 1928
+25 et.
+TV Groene
+(b*c&gt;wêekblad voor- Nederland
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+BRAND-, BEDRIJFS-,
+ZEE- en TRANSPORT
+
+VERZEKERING
+CHANDLER
+TECHNIEK en SMAAK
+
+Het initiatief van de Ghandler ingenieurs,
+die o.a. het ONE SHOT SMEER SYSTEEM
+en de WESTINGHOUSE VACUÜM
+VIERWIELREMMEN als Standaard uitvoering op
+eiken Chandler-wagen toepasten, brachten
+dezen automobiel met zijn onvergelijkelijken
+PIKES-PEAK motor aan het hoofd der
+moderne Amerikaansche techniek.
+De Chandler-carrossiers, die den wagen
+een prachtige lijn gaven en geen kosten
+spaarden, om den Chandler-rijders het
+summum van comfort te schenken, bestem
+
+pelden dezen automobiel tegelijk tot een der
+fraaiste en meest doelmatige wagens, welke
+een rijder, die hooge eischen stelt, in alle
+opzichten de grootste voldoening zal geven.
+6 Cylinder CHANDLER
+SEDAN
+van af
+f
+3800.Imp. voor Noord-Holland:
+A NCHELON's
+AUTOMOBIEL MAATSCHAPPIJ
+WETERINGSCHANS 103 Tel. 34353 AMSTERDAM
+HA-KLOOSTERHUIS
+AMSTERDAM
+AMSTERDAM
+KAL VERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+
+ROTTERDAM HOOGSTRAAT 243
+
+HAARLEM _ UTRECHT ~ NIJMEGEN
+TILBURG BREDA
+H,
+.eupgordel xl/xtensible
+
+
+van prima Fransch Elastiek,
+
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+
+tot heupwijdte 100 c.M. nieuwen prijs f H.
+verder tot 115 c.M. 15.
+
+Bi) schriftelijke bestelling gelieve men als maat
+op te geven Je wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.*
+,EXTENSIBLE"
+Voorhanden een enorme keuze
+
+
+lastieken rleupgoraels
+
+in Engelsche kwaliteiten vanaf f "1.90
+
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Ht uppordels
+garandeeren wij.
+
+</text>
+<image timestamp="2002:09:05:00:35:39.00" size="118873">000006SV.TIF</image>
+</page>
+</document>

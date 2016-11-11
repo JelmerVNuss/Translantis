@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270312</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+GEOPEND
+ONZE
+
+'NIEUWE AFDELING
+
+
+GORDIJNEN
+EN
+
+MEUBELSTOFFEN
+
+Al hetgeen voor de moderne
+woninginrichting nodig is,
+in ruime keuze voorhanden.
+
+Eigen Behangen] en Gordijnenateliers
+KALVERSTRAAT hoek ST. LUC1ËNSTEEG 2e ETAGE (4 Liften)
+MEETINSTRUMENTEN
+VOOR DE GEHEEUE ELECTROTECH N l EK
+INGENIEURSBUREAU VAN NISPEN
+
+= ZWOLLE. =
+WedERAHDERöZ,
+WIJN HANDEL AREN
+
+Amsterdam,' Arnhem,
+
+H«~~». VGravenhage ~~
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+, Al s Uw
+kinderen
+zich hebben
+bezeerd
+gebruik dan dadelijk
+PU ROL,
+N.V.D, Hogenbirk 8 Zooii's
+
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+B». 1.1. •fdt.lbg Hckwerkea ca Dru&lt;Uf»cheldingM, CH*me VUchtwwrkn
+NVÖETNA
+AM/TERDAM
+MACHINES VOORDE
+PALMOLIE-INDUSTRIE
+Van Straalen Monsieur &amp; Erkelens
+
+WIJNHANDELAREN
+
+Rotterdam, Lcuvchavcn 34
+
+Filialen DEN HAAG l Prima Kwaliteiten
+
+HELDER l Billijke Prijzen
+PARAFEU
+VUURVAST AARDEWERK
+
+H.V.DE SPHIHX MAASTRICHT
+
+VERKOOP VOOB HAARLEM EU OMSTREKEN,
+VEBKOOPHU5jJ&gt;KARTHAUS.
+
+</text>
+<image timestamp="2002:09:21:01:45:16.00" size="201919">D10006AA.TIF</image>
+</page>
+</document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19341222</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+n
+&gt;• *,*
+f !
+DICTATUUR....?
+Nummer 3003
+22 December 1934
+58e jaargang
+D r o s t e - m a n n e t j e s
+sieren den boom met
+D roste - Kerst kransjes,
+met Droste-Pastilles,
+Droste - Hulstblaadjes
+en D r os t e- Bonbons.
+D rost e- man nét j es
+brengen den Kerst
+
+boom grooten luister
+bij door de vermaar
+
+de Droste-kwaliteit.
+Laat daarom ook in
+Uw woning de Kerst
+
+boom straks staan in
+het teeken van Droste !
+Spaan plaatjes voor het nieuwe album ,, Java l
+
+*
+*'
+N. V. De Groene Amsterdammer, Keizersgracht 355, Amsterdam C.
+Tel. 37964—36264. Giro 72880. Gem. Amsterdam G. 1000. Abonnementsprijs f 10.—per jaar
+ALTIJD WELKOM!
+
+</text>
+<image timestamp="2002:10:24:21:14:16.00" size="205182">D3000JBG.TIF</image>
+</page>
+</document>

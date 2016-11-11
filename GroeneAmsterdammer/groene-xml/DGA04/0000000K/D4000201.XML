@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151024</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+24 Oct. '15. No. 2000
+Aand. Koloniale Bank 1001/2
+Ned.-Ind.Hand.bank 178
+Neder!. Bank 2261/3
+, Ned. Handelmij. 1521/2
+4pCt.Obl.Ned. Mij v. Zekerh. 93 1/3
+Aand.Rotterd. Bankv. 1363/4
+, Twentsche 152'/2
+4 Pandb.Nat.Hjp.Bank 98
+4 Rott. 98
+4 Hong. , 80
+41/2»n Innerst. Sparcassa 90
+4 Pest.Ung. Com.b. 82
+Aand. Jurgens Aüt. Ver.
+fabr. pref. 1031/2
+Philips Gloeilamp. 139
+Wester Suikerraff. 177
+American Can 239/u
+Car&amp;Foundry 46»/s
+Betlehem Steel &amp; Co. 36:'/8
+Central Leather 32
+Standard Milling 301/2
+Studebakcr 28i/4
+Un. St. Steel. Corp. 57
+CuH.mij.cl.Vor.stenl. 104
+u Handelsver. Amst. 212
+Kalibagoi-Suikerfabr.187
+, Gecous. Holl. Vetr. 177
+1183/4
+1791/2
+241
+1621/8
+791/2
+1341/2
+150
+916'8
+921/4
+633/g
+67
+62
+
+104
+235
+2171/2
+67?/«
+841/4
+485
+56
+751/4
+1631/o
+80
+1 921/0
+281
+270
+142
++ 181/4
++ 141/2
+16 '
+- 23/4
+21/2
+
+- 53/4
+-165's
+. 23
+20
+
++ ]/2
++ 98
++ 401/2
++ 4*5/18
++ 448'.'8
++ 24
++ 44S/4
++ 1343/4
++ 23
+
++ 69 '"
++ 83
+35 .
+Aand.
+v
+it
+n
+H
+11
+
+It
+fl
+ff
+II
+Kon. Ned. Pttr. 495
+Amsterdam Rubber 941/2
+Ned. Rubber Mij. 19
+Rotterd. Tapanoeli 115
+Kon. Holl. Lloyd 83
+Ned.
+Stoombootmaatij. i 1 3
+Kon Paketvaart 149
+Ned.Amer.Stv.Mij. 183
+Scheepv. Unie 141
+Stoomy. Nederland 1497,'g
+Oostzee 86;V4
+Int. Merc. Marine pref. aand. fiS/8
+v
+Aand.
+H
+a
+n
+n
+n
+
+
+n
+"
+41/3% oblig. 43
+Amst. Deli 225
+Besoeki Tabakmij. 125
+Deli Batavia 357
+Deli-Maatij. -tSOl/2
+Krapoh 60
+Mtdan 152
+Rott. Deli 1S3!'3
+Senembah 4421/2
+Senna ' 6'"/4
+Alg. Ned.-Ind.Theec. 86
+West Java Thee .381/2
+Blauwhoedenveem 111
+Vriessevejm 'J37/g
+5071/2
+17H/4
+587/g
+1451/4
+156
+173
+145
+3021/2
+151
+1561/2
+249
+321/2
+70l/4
+227
+180
+315
+463
+42
+147
+465 "
+lor&gt;
+8 31. k
+42 "
+1161/o
+105
++ 121/2
++ 768/4
++ 397/g
++ 301/4
++ 73
++ 60
+4
++ 1191/o
++ 7 "
++ «-''s
++ 162'/4
++ 257/g
++ 271/4
++ 2
++ 5
+12
+171/2
+1-s
+K)
++ 221/2
++ 353/4
+
++ 31/o
++ 3 ''s
++ 1H/8
+Maxwell Ineomebonds 37/g
+Restantbew. 34
+Aand. Peruviau Corp. s;cw. 51/3
+,; pref. 32
+Aand. Holl. spoor 943/4
+Mij.t. Expl.v. Sl.sp.w.953/4
+Ned.lnd. Sp. 2797/g
+Boxtel-Wesel 15
+2e Hyp. Oblig id. 211/4
+3 pCt Obl. Zuid.-ltal. s»\vg. 605/8
+Div. 4 pCt. Russ spw. obl. j- 84
+41/2 , . ± 94
+Aand. Atcliison Topeka 90
+4 pCt. obl. 943/4
+4 Centr. Pacific Ufnnd. 891/4
+4 Chica.soRoch-lsl.J002 203/8
+Aaud. Denver &amp; Rio Grande 5
+4 pCt. Hvp. oblig. id. 773/4
+Aand. Etïe 23
+Kansas ('iiy Sooth. 23:&gt;)4
+3 pCt. 1ste hyp. obli»'. (iX''s
+Aand.Missom'i Knnsas&amp;Texas 1 01 'o
+4 i&gt;('(. 1ste hvp. obus;. s;&gt; lij
+4 2de '„59
+Mexicaii \at. Kwy. ~c pref.
+aand. l():!'s
+n n 4 pCt. oblif;. (ul/o
+18
+71
+247/8
+81
+881/4
+2433/4
+121/4
+181/4
+46
+± 63
+±72
+1051/o
+921/4
+85
+24
+VU/2
+70
+27;"
+52
+
+97 8
+3S
++ 141/8
++ 37
++ 8/16
+- 71/g
+- 183/4
+71/2
+361/s
+23/4
+3
+14"i'8
+22 '
+22
++ 151/2
+
+4!/"t
++ 61/2
++ 10 ••'s
++ 3^t
+- 31/4
+S 1 '.,
+-- 7
+
+1 1-,
+2 9 r/3
+Aand. Southern Pacific 891/2 96'3/16 + 75/M
+Railway 17»/s 203/4 + 3i/8
+Union l'acific 121 135 +14
+4 pCt. Isti hyp. oblig id. 97&gt;/8 961% 6/16
+Indien men nu bedenkt wat eene waarde
+
+vermindering van 20 en meer percent in
+Russische Staats- en Spoorwegfondsen, in
+Oostenrijksche Staatsfondsen, in
+Hongaarsche Slaatsfondsen en pandbrieven, in Bra
+
+zilianen, waarvan milliarden nominaal hier
+te lande gehouden worden, voor ons natio
+
+naal vermogen beteekent; indien men daaraan
+toevoegt de wel is waar percentsgewijze
+geringere deprecialie van Nederlandsche
+Staatsfondsen, stedelijke leeningen, spoorweg
+
+en industrieele obligatiën, binnenlandsche
+pandbrieven, waarvan het bezit hier te
+lande ruwweg op meer dan twee
+milliard mag geschat worden dan ligt
+het voor de hand, dat de groote waarde
+
+vermeerdering van enkele andere fondsen,
+waarvan het kapitaal in de meeste gevallen
+slechts enkele millioenen bedraagt zelden
+de tien millioen overschrijdt lang niet op
+
+weegt tegen de waardevermindering bij het
+in hoeveelheid oneindig veel grootere be
+
+lang van het Nederlandsch kapitaal bij
+eerstbedoelde fondsen.
+Nogmaals ; absolute zekerheid bestaat er
+bij het gemis aan betrouwbare statistieke
+gegevens niet. Ik houd er mij echter over
+
+tuigd van, dat ieder, die eenigszins ver
+
+trouwd is met de kaart van het land, in
+zake de wijze van belegging van het Neder
+
+landsch kapitaal, het met mij eens zal zijn,
+dat de phenomenale koersverbeteringen in
+enkele zoogenaamde oorlogsfondsen veel
+minder het nationaal vermogen hebben doen
+toenemen, dan er aan den anderen kant van
+afgegaan is door de meer of minder be
+
+langrijke depreciatie over de geheele lijn
+van beleggingswaarden. En of dat nadeelig
+verschil zal worden goedgemaakt door in
+handel, scheepvaart, landbouw enz. per saldo
+gemaakte meerdere winsten, is nog minder
+met zekerheid vast te stellen, maar neem ik
+niettemin de vrijheid te betwijfelen.
+Jr\ Q A M T 1 1 HAWM
+. LJ. OAIN 1 ILrlAlNU.
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiMiiiiiiiiiiiiiiiiiiiniiiiiiiiiiii^iiiiin
+
+De Twentsche
+B.WJlpnsteinSCo,
+KAPITAAL: f 15.445.002,50 RESERVEN: f 7.O74.O99,97
+
+HOOFDK AMTOOB ;
+
+AMSTERDAM, Spuistraat 138-144.
+
+BIJ K AMTORBÜT;
+(roor wier verbintenissen De Twentsche Bankvereeniging
+B. W. Blfldenstein &amp; Go., ten volle aansprakelgk is)
+AMSTERDAM, Prins Hendrikkade 139;
+LONDEN, B. W. Blpenstein &amp; Co.. 55-56 Threadneedlestr.:
+ENSCHEDE. B. W. Blpenstein Junior:
+ALMELO, Ledeboer &amp; Co.
+RENTE TOOR DEPOSITO'Si
+i pet.
+Dlrtot •pvtrderbur .............. .
+TIn dagei «pzegglig
+Een Maand vut Gemiddelde prolongatie-koers met een maximum van 2
+Drie Maaodei •pzegglai
+Zm Maandei
+Een Jaar
+pCt.
+
+4
+Van den dag der opzegging
+af wordt V»pCt. minder
+rente vergoed.
+FIRMA KLEIWEG &amp; WESSELS
+l
+'s-Grayenhage. Tel. No. 5876. Piet Heinstraat 108
+EFFECTEN - COCPO&amp;S - DEPOSITO'S
+ASSUKVMIKHf- HYPOTHEKEN. CREDIETEN.
+Incasso-Bank.
+AMSTERDAM - ROTTERDAM - ALMELO
+Volgestort Kapitaal f8.000.000.- Reserve f
+1291.000.Effectenorders.
+Coupons.
+Prolongaties.
+Vreemd Bankpapier.
+Cheques.
+Buitenlandsche Wissels
+Residentie Hypotheekbank
+
+Anna Paulownastraat 97,
+'s-fiRAVENHAGE.
+
+o HYPOTHEEKBRIEVEN
+Met verplichte aflossing.
+Téverkrijgen tegen den koers van 1OO pCt.
+De
+
+jLerensverzekering
+Oiigevalleiiverzekering
+
+Billijke premiën. Concurreerende voorwaarden.
+HOOFDKANTOOR: Amsterdam, Keizersgracht 547—549.
+BIJKANTOOR: Den Haag, Buitenhof 48a. Groningen,
+Vischmarkt 54. Rotterdam, Wijnstraat 138a. Utrecht,
+Maliebaan 84.
+Bijkantoor der Amsterdamsche Mij. van
+Levensverzekering voor Ned. Indië:
+SOERABAJA, IS OC IET EI T S T B A A T.
+3DE -A. TML S T E IR ID -A. IMI TUL B
+Weekblad voor Nederland
+kost slechts f 1.65 per kwartaal
+LEVENSVERZEKERING • BANK
+MSTERDAM
+"
+Directeuren M" N LM.SMITS «„OUfN. • JLJBONNIr\E Adj 0&gt;r D/L&amp;E.IJELT3.
+Ontvang- en Betaalkas,
+Wjjziging der Depositorente.11
+Met ingang van heden wordt de
+rente-vergoeding vastgesteld als volgt:
+Met n dag opzegging ... l pCt
+(Bedragen tot ƒ20.000 zijn terstond
+betaalbaar)
+Met 10 dagen opzegging . . 1% pCt
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving vol
+
+gens reglement.
+SAFE DEPOSIT-INRICHTING,
+geopend:
+op werkdagen van 8M tot 5 uur.
+, beursvacantiedagen , 8X . 4 ,
+Loketten van ƒ2.50 per maand (ƒ10.
+per jaar) en hooger te huur voor bij
+de Directie bekende of geïntroduceerde
+personen.
+Amsterdam, 14 Oct. 1915.
+4-4-=
+Stindurd Hfpolhnkbjrk, li Rottirdmi
+Dlreoti»: Mr. H. H. O. Oaitendgk enJbr.
+H. F. Bchurbequa Boeye.
+De Bank verstrekt gelden onder
+eerste hypothecair verband en
+geeft 5 % PANDBRIEVEN
+uit onder controle van het
+Algemeen Administratie
+enTrustkantoor te Rotterdam.
+Rott Hypotheekbank v. Neder!.
+Volteekend Maatsch. Kapitaal ƒ 5.000.000
+Reserve ƒ645.279.84
+Geeft geld op eerste hypotheek zon
+
+der vooruitbetaling van rente. Inlich
+
+tingen te bekomen ten kantore der
+Bank, Gedempte Bierhaven 25, of bij
+hare Agenten.
+De Directie: Mr. W. v. ROSSEM,
+Mr. TH. REEPMAKER, Mr. N. P. C.V.WIJK
+T Diretli€v.Ne&lt;lerland; ^
+'^MR.ALEX.H.WEKTrlEIMW1
+•2 E*
+&lt;fc J.D.N.PISTORIUS
+ra. FREDERIKSPLEINSS/N
+MlYtdl	IIIIIIIMMIHI	1IMIIIIII	1IIIIIII
+M. PIMENTEL,
+
+Accountant.
+Leeraar Boekhouden 51.
+0Hondecoeterstraat 7,Arnsterdam
+TELBFOOS Zuid
+Nederlandsch-lndische
+
+Brandwaarborg-MÏ
+
+Opzendt in 1890. GeTestizd te Amsterdam.
+SLUIT VERZEKERINGEN tegen
+Schade door Brand op
+Woonen Pakhuizen, Inboedels,
+Meubilair, Fabrieken, Eta
+
+blissementen.
+Kantoor: Singel 262, Amst.
+Kali Besar-West, Batavia.
+l S. I. W. VAN BUUREN.
+Directeuren:) M. A. VRIESENDORP.
+| E. LANKHOUT.
+Gemachtigde: NEUMANN &amp; Co.,
+Batavia.
+UTRECHT
+PAJSTDBBIEYM
+in stukken van
+f 1000.-, f 500.-en f 100,
+De Hollandsche Voorschotbank
+HAARLEM, JANSWEO 42.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnhaven 129a.
+'s-Qravenhage,Oed.Burgw.38
+Maastricht, Breedestraat 24.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van ƒ 5OO
+en verkoopt 4% pCt. schuldbrieven in
+stukken van ƒ1000, ƒ 500, ƒ 100 en ƒ50.
+De Eerste Nederlandsche Maatschappij
+
+van Verzekering tegen Stormschade,
+«EVKSTIGI»TE OL1&gt;KARSPEL.,
+Verzekert Gebouwen en Goederen tegen schade door Storm en Lekkage.
+Waar niet vertegenwoordigd worden actieve Agenten gevraagd.
+De Commissarissen:
+A. WONDER Pz., Oude Niedorp,
+Burgemeester Oude Niedorp.
+H. C. OUD, Purmerend,
+Comm. in Effecten.
+P. PIJPER IJz., Twisk,
+Penningm. Vier Noorder Koggen.
+A. COL1JN, Nieuwer Amstel,
+Lid der Prov. Staten van N.-Holl.
+N. DEKKER, Obdam (Spierdijk),
+Lid der Prov. Staten van N.-Holl.
+De Directeur:
+G. EECEN Cz.,
+Oudkarspel.
+HollaniUe Hypotheekbank
+TE AMSTERDAM
+R eg-uliersdwarsstraat 6O.
+
+DE DIRECTIE maakt bekend dat de Bank
+g-eldeii beschikbaar heeft voor
+het sluiten van eerst-hypothecaire leeningen.
+l
+Binnenlandsche Vaart Risico Sociëteit.
+
+Tilil. H. 1028 N. gevestigd te Amsterdam, Rokin 69. Telel. N. 1321H
+DIRECTEUREN: Jan A. van Kijk, Dr. J. M. Croockewit.
+De BINNENLANDSCHE VAART RISICO SOCIËTEIT" sluit:
+VER7EKERI\GE\ op alle Binnenwateren van Nederland, België,
+Duitschland, Frankrijk, enz.
+VERZEKERINGEN op Schepen, Schuiten en Stoombooten.
+VEKZEKEKINGEN op Koopmansgoederen, Huisraad, Inboedels, enz.,
+geladen in Schepen, Booten, enz.
+VEUZEKEKIXGEN te LAND door geheel Europa per spoor, Wagens, enz.
+VEK/EKEKINGEN per POST enz. op Effecten, Bankpapieren,
+Edelgesteenten, enz. door geheel Europa, naar en van Amerika,
+naar en van Oost- en West-Indien, enz.
+VER/EKEKI1VGEN op PASSAGIERSGOEDEREN. De schade in de
+Hotels enz. wordt vergoed.
+Maatschappelijk Kapitaal f59.000,000 - Reservefonds f 9237.150
+Hoofdkantoor AMSTERDAM.
+Agentschappen te 's-GRAVENHAGE en ROTTERDAM.
+
+Vestigingen in het Oosten: Batavia, Soerabaia, Samarang, Bandoeng,
+Weltevreden, Cheribon, Tegal, Pekalongan, Djember, Solo, Djokjakarta,
+Tjitatjap, Padang, Medan, Tebing Tinggi (Deli), Tandjong Belei,
+KotaRadja, Palembang, Telok-Betong, Pontianak, Bandjermasin, Makassar,
+Singapora, Penang, Rangoon, Hongkong en Shanghai.
+
+In- en Verkoop van Wissels en Telegrafische Trans
+
+
+ferten. Incasseeringen en Finaacieeringen.
+
+Schriftelijke of Telegrafische Credieten.
+Eeis
+credietbrieven. Deposito's.
+Rekeningen
+Courant. Administratie van Effecten en alle
+
+andere Bankzaken.
+Nederlandsch-lndische Escompto Maatschappij.
+
+Opgericht in 1867.
+
+Hoofdkantoor: BATAVIA.
+Agentschappen te: Amsterdam (Keizersgracht 573/5),
+Soerabaia, Semarang, Weltevreden, Padang, Bandoeng, Cheribon,
+
+Macassar, Djocjacarta en Tegal.
+
+Het Agentschap AMSTERDAM koopt en verkoopt Binnen- en Buitenlandsche
+Wissels en Telegrafische Transfers, verschaft Reiscredietorieven en Reiswissels, opent
+Rekening-Courant met rentevergoeding. Rembourscredieten, geeft Voorschotten op
+uitzendingen, sluit Prolongatiën, belast zich met het uitvoeren van Effectenordere,
+behandelt Incassi- en Bankzaken in het algemeen, neemt open en gesloten
+Bewaargevingen enz. enz.; neemt gelden a Deposito onder de volgende rentevergoeding:
+gedurende l maand vast . IVi pCt.
+gedurende 3 maanden vast 3
+gedurende l jaar vast . . 4
+met l dag opzegging . . 2 pCt.
+met 10 dagen opzegging . 2%
+Amsterdam, l April 1915.
+OPGERICHT IN 1853 AMSTERDAM OPGERICHT IN 1853
+Hoofdkantoor: Keizersgracht 277, Bijkantoor: Stadhouderskade 118
+Maatschappelijk Kapitaal f 5.000.000, waarvan uitgegeven f 4.000.000
+Reservefonds f803.000 Extra-Reserve f 130.000
+Agentschappen te Alkmaar, Arnhem, Deventer, Dordrecht,
+'s-Gravenhage, Groningen, Leeuwarden, Maastricht, Middelburg, Rotterdam,
+Tilburg, Utrecht en Zwolle.
+_^ . met l dag opzegging 2^ pCt."
+-DepOSltO S, rente thans: voor l maand vast 8%
+voor 3 maanden vast '&amp;%
+Cheques van deposanten kunnen kosteloos worden betaalbaar gesteld
+bij alle bovengenoemde Kantoren, alwaar uitvoerig Prospectus ver
+
+krijgbaar is.
+Uitgifte van 5% Pandbrieven
+tegen den koers van 981/2°/o.
+De Directeur Mr. W. C. MEES.
+HOOFDKANTOOR
+
+H. A. V. BANK - SCHIEDAM
+Reserves .... f 78O OOO.
+Geplaatst kapitaal 60O.OOO
+
+Sluit Ongevallenverzekeringen met of zonder Molest.
+I.AGE PREMIE BT.
+^ Actieve agenten gevraagd ^
+23 Laan van JVLeerdervoort,
+
+'S-CRAVENHACE,
+vraagt AGENTEN voor hare afd. SPAAKPABJDBKIEVEN.
+De Directie:
+Mr. J. C. L. M. VAN QILS.
+P. J. M. MASTBOOM.
+
+</text>
+<image timestamp="2002:08:21:21:53:02.00" size="331531">D4000201.TIF</image>
+</page>
+</document>

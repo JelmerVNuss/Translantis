@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320903</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+de uitkl
+i' 'l.
+k
+M Dagelijks2.30,7.30,9.30
+T FILM EN MODERNE
+, MUZlEk
+prinsengracht bijl
+de leidschestraatl
+telefoon 3746
+TAYLORIX
+BOEKHOUDSYSTEMEN;
+Doeltreffend
+Eenvoudig
+Billijk
+
+
+l l
+VRAAGT BROCHURE AAN
+
+BUREAU WITTEVEEN
+Paramariboplein 58
+
+A'DAM Tel. 84751
+Leesf De Groene /
+N.V. GOEDEWAAQEN's Kon. Fabrieken - Gouda
+Wed.H.Rahder&amp;Zn.
+
+WIJNHANDELAREN
+Amsterdam Arnhem
+DIIIIB 's-Gravenhaqe nnn
+Hofleverancier* **
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SP EC IALE CONDITIËN
+LITTHAUER
+MAGENBITTER
+OJRNEÏs'DWGO
+NTEN: TISSOT&amp;CO ROTTERD AI
+BATIKKEN.
+Bekend atelier werkzaam voor
+
+
+eerste klasse firma's
+
+is nog in de gelegenheid werk |
+aan te nemen.
+
+ZICHTZENDING op aanvrage.
+Tevens gelegenheid tot het geven
+van Batiklessen.
+Brieven Letter G, De Groene.
+VANRIJN'S
+'BSNflSÏRO
+PeBeste"
+Wij zenden U gaarne
+prospectus en
+voordeelige aanbieding.
+A U G. UILKEMA
+
+
+Grootste Uurwerk Mag.
+
+Elec. Keukenklok	fl. 9,75
+,, Kantoor ,, 11,50
+Horloges met versprin
+
+gende cijfers
+Anker., fl. 12,50—15—28—60
+Stopwatch., fl. 8—12—15—45
+WekkerlJorl... 6—12
+Wekkers luid wekken, onhoor
+
+bare lik	fl. 6—7—8
+Kigen modellen Klokken, en
+iiutimei't/ii IVndules
+C3IKGA- - 7KMTH—ETEEXA
+
+Reguliersbreestraat 39.
+Nieuwe tijden, nieuwe wijzen,
+Noodgedwongen lage prijzen,
+Aangepast aan 's lezers beurs!
+Geld ontbreekt om ver te reizen,
+Laat verbeelding U dan wijzen
+Wat in Oost en West gebeurt.
+
+VIER geïllustreerde PRACHTUITGAVEN!
+
+Reisboeken van de Oostersche Bibliotheek:
+
+C. K. ELOUT; Indisch Dagboek, geb. v. f 7.50 v. f 4.90
+M. WAGENVOORT; Karavaanreis door Zuid-Perzië,
+geb. v. f 6.25 v. f3.90
+M. WAGENVOORT; Oostersche momenten aan de Nijl,
+geb. v. f 6.90 v. f4.90
+M. WAGENVOORT; In het Voetspoor der Vaderen
+(Hindoestan), geb. v. f 8.50 v. f 5.75
+
+De 4 boeken samen van f29.15 voor
+f15.
+
+Verkrijgbaar bij den erkenden boekhandel en bij
+UITGEVERIJ C. A. MEES SANTPOORT.
+Goede Hotels in Nederland,
+HOTEL PABST. - Doorn. - Telef. 123
+CAFÉRESTAURANT
+T Oudste Huis ter Plaatse.
+Geheel verbouwd en voorzien van alle moderne
+comfort. Ligt in de onmiddellijke nabijheid
+der bosschen. Bekende keuken.
+Zelfde directie als Hotel Lagrerweij
+Indisch Restaurant en Lunchroom
+J, VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+Hotel Pension FLIP HULL'
+Bondshotel der A. N. W. B. 't Geheele jaar
+geopend. Kamers met stroomend, koud en
+Teleph. 82 warm water. Elec. licht. Centrale verwarming.
+Dag- en nachtverbinding. Auto-garage. H. G. HARMSEN.
+'s-HERTOG EN BOSCH
+
+HOTEL GOUDEN LEEUW"
+(G R O E N H U l S)
+Electr. Licht - Centr. Verw. - Stroomend water—P. G. BAARS
+
+1.—_1—^_—-,_^_—^_—^.«.—•—.—•
+
+Hotel - Pension - Café- Restaurant
+
+'T JACHTHUIS" depe^lnce
+
+WARNSVELD (Telefoon 226 - ZUTPHEN)
+in onmiddellijke nabijheid der bcsschen, uitgebreid en naar at!e eischen des tijds
+ineericht Groote serre, waranda's en turn met pracht uitzicht. Tennisbaan. Garage.
+Aanbevelend, W. T. GROENHOFK
+
+</text>
+<image timestamp="2002:09:27:07:29:28.00" size="139173">00000AJL.TIF</image>
+</page>
+</document>

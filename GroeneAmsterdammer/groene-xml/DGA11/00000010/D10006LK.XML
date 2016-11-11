@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270625</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 25 JUNI 1927
+No. 2612
+J* D, STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+ROOKT A. HILLEN'S
+8ct. MINIMUM NICOTINE
+Nicotine gehalte tot een minimum beperkt.
+Staat sinds 15 jaren bekend bl] H.H. Rockers als buitengewoon
+licht, tegelijk overheerlijk zacht geurig. &lt;
+Uitstekend geschikt voor hen, die op advies van hun medicus, dan
+wel eigener beweging naar buitengewoon lichte sigaren zoeken.
+Per kistje van 50 st. f 3.80. Aloia verkrijgbaar.
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan, de electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+voor uwe Jongensen Meisjes
+tot 15 jaar
+Is het eenige gpeciaal-huis en best gesorteerd
+adres voor Jurken * Mantels II t II II T l P
+S MtHUtLi
+Kalverstr.109-111
+Pakken - Jassen en Onderkleeding AMSTERDAM.
+Voor alle doeleinden
+N.V
+Cnem.Kiinstinrichting
+DirkSchnabei
+Amsterdam. '
+MMMNDELTJES
+MET GRATIS GKEffADIHESAUS
+te WASSENAAR,
+
+geeft inlichtingen voor aankoop V I L L A' s en
+VILLATERREINEN in de parken te Wassenaar.
+
+- Inlichtingen J. TH. WOUTERS,
+Telef. 71471 Leidschestraatweg 648.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LÏJKKOETSAUTOMOBIELEN
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll^
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat i
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar l
+N. R. V. MONTA SCHOENEN |
+s =
+iiiiiMmniiiiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiiiiNiiiiiinimiiimiMiiiiiiiiiiiiiiH
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK I
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.v. ,,DE HOUTTUINEN", AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 14 - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+Wardrobe Trunks
+
+24 modellen
+
+prijzen van
+
+f 65.- af
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:11:21:23.00" size="135385">D10006LK.TIF</image>
+</page>
+</document>

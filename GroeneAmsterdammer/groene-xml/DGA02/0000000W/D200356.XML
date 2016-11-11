@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19171027</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+27 Oct. '17. No. 2105
+
+op het
+Geïllustreerd
+Weekblad
+voor
+Nederland
+en Koloniën
+INDI
+INDIË"
+
+INDIË"
+
+INDIË"
+
+INDIË"
+geeft een beeld van het
+leven en werken in de
+Nederlandsche Koloniën.
+
+geeft vaste rubrieken over
+betrekkingen in Oost en
+West.
+
+geeft wekelijksche
+mededeelingen van het Depar
+
+tement van Koloniën.
+
+heeft een vragenbus, die
+voor ieder lezer open
+
+staat.
+
+f2.per kwartaal
+fr. p. p.
+Alle verschenen
+nummers (vanaf 11
+April 1917) zijn nog
+voorhanden.
+i isr E:.
+DE BESTE KLEEFSTOF TER WERELD,
+voor kantoor-, huishoudelijk- en fotografisch 'gebruik. Uiterst
+zindelijk en sterk. Hollandsen fabrikaat. Voor engros verkoop
+
+HANDELSHUIS HOLLAND", Utrecht-Amsterdam.
+AMSTERDAM
+
+Hotel OLDEWELT
+Nieuwendijk 10O
+Tel. 2012 Noord
+Rintlg girenomMrd MIMmitintfihattl
+Aanbevelend, L B. SMITS
+UTRECHT
+
+Hotel WILLEMS
+VREEBURG 9 en 10
+Interc. Tel. 725
+Logies met ontbijt f 1.5O
+Diners a f 1.25
+D. ADMIRAAL
+TUIN-ARCHITECT
+Amsterdam • lel, l. 2693 - Banstraat 22
+A. W tél JL L, Bontwerker
+Gevestigd 1856
+Barteljorisstraat 26-28 - Haarlem
+Lid der Vereeniging van Bontwerkertbedrijven
+Pelsmantels
+Pelsjassen
+Moffen
+Kragen
+Voetzakken enz.
+J.GKOR5TEN
+SANITAIR TECHNISCH
+BUREAU
+KDNINGSPLEIN.ADAM
+HOFLEVERANCIER
+
+KALVERSTRAAT 216, WILLEMSPARKWEG 9,
+Telef. No. 2640. Telef. No. 1793 Zuid.
+Chocolade Bonbons
+Engelsche Caramels
+C. L. H. VAN DER LINDEN
+ROKIN 88 - AMSTERDAM
+Tentoonstelling
+LE FAUCONNIER
+KEIZERSHOF
+NIEUWENDIJK 194-196 AMSTERDAM.
+MANTELS
+laponstoffen - Mantelstoffen
+Mantelcostumes
+Blouses
+No. 108
+
+hoog gesloten
+
+in
+
+Bordeaux en Bleu
+
+f 70.
+Costumerokken
+f 10.75 en hooger
+
+Engelsche Fluweelen
+en Velvets
+Nieuwe Lyonsche Zijde
+Pelterijen
+Overhemd Blouses
+in effen kleuren f 2.95
+en gestreept
+f 3.50 f 4.25 f 7.
+No. 105
+
+
+in Fant. Stof
+
+f 42.50
+
+
+in Effen Stof
+
+f 46.
+
+</text>
+<image timestamp="2002:08:24:06:06:34.00" size="378578">D200356.TIF</image>
+</page>
+</document>

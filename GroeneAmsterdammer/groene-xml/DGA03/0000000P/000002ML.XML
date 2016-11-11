@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18841012</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+A°. 1884.
+DE AMSTERDAMMER
+WEEKBLAD VOOK NEDERLAND.
+Verschijnt eiken Zaterdagavond.
+Uitgevers: DA.GBLADVEKEENIGING HOLTZ &amp; Oo.
+Kantoor: Singel 211.
+Hoofd-Agenten: te Batavia, G. KOLFF &amp; Oo.
+Zondag 12 October.
+Abonnement per 3/m.	ƒ 1.—. fr. p. p. ƒ 1.15.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar a, 0.10.
+Advertentiën van 1—6 regels f 1.—, elke regel meer . 0.15.
+tusschen den tekst per regel	1.—.
+INHOVDs
+
+BUITENLAND. BINNENLAND. Persoverzicht. Straatnamen, door A. Th.
+Dit het Haagje VIII, door Pasquino. Op het Kerkhof, door B. O. Kunst :
+Het Amsterdamsch Tooneel, door K. J. W. Het Tooneel te Rotterdam, door M. H.
+De Fransche Opéra, door D. Wandelingen op de tentoonstelling V, door B. A. G.
+Wedstrijd in de Schilderkunst, door Alb. Th. uit België, door M. A. Let
+
+terkunde: H. van den Berg, door L. Van Deyseel. Twee Vertalingen, door F.
+J. v. U. Berichten en Mededeelingen. Inhoud van Tijdschriften. Nieuwe
+Uitgaven. Militaire Zaken: Militaire Pensioenen. BiWiograpüie.
+Schaakspel. Feuilleton: Memento Mori, novelle naai1 het Duitscu van Osaip
+Schubin, H. - NIEUWS VAN DE WEEK. Overzicht van de Efi'ectenmarkt, door S.
+Amerikaansche sporen, door J. v. d. Burg. Burgerlijke Stand. Veilingen.
+Ee huur. Advavtentiën. Schouwburgen.
+BUITENLAND.
+
+Bestaat er een Fransch-Duitsche alliantie? Ziedaar de vraag, die
+vooral in Frankrijk, de hoofden warm maakt. Vrij algemeen is
+men het er over eens, dat er geen geschreven overeenkomst
+bestaat, omdat de heer Ferry zulk een stuk aan de goedkeuring
+van de Kamer zou moeten onderwerpen, hetgeen hem waarschijn
+
+lijk op het verlies zijner portefeuille zou komen te staan. De
+Duitsche bladen spreken van een «Neben einander
+marschiren" der beide mogendheden; de Fransche
+regeeringspers van eene toevallige overeenstemming van belangen. Hoe
+men het ook noemen moge, het is duidelijk, dat de heer
+Ferry in de Egyptische quaestie met Bismarck wil samen
+
+werken tegen Engeland. Met zenuwachtige nieuwsgierigheid
+.hebben dan ook de reporters van de verschillende Parijsche bla
+
+den den zoon van den Rijkskanselier, graaf Herbert von Bismarck,
+achtervolgd gedurende enkele dagen, die hij in Parijs doorbracht.
+Zij weten zelfs hunnen lezers te vertellen, wat het menu is ge
+
+weest van het laatste diner, door den zoon van den grooten man
+gebruikt, en hoever de waskaarsen in zijne kamer in het
+GrandHötel waren opgebrand. Jammer maar, dat men uit al deze
+wetenswaardige bijzonderheden niet kan afleiden, welken prijs do
+Duitsche Rijkskanselier eischt voor den steun, dien hij aan Frank
+
+rijk in de Egyptische quaestie wil verleenen.
+*
+» *
+In Frankrijk spreekt men behalve over ontwerpen voor eene
+kieswet voor den Senaat, er zijn er nu reeds drie, dat van
+de regeering, dat van den heer Dauphin en dat van den heer
+Bozérian, vooral over de valschheid in geschrifte, die de
+Chineesche regeering of de onderkoning van Petchili, Li-Hung-Chang,
+schijnt gepleegd te hebben.
+Na het verraad van Bac-Lébeweerde eerst de Tsung-li-Yamcn,
+volstrekt geen kennis te hebben van eene overeenkomst waarbij
+de ontruiming der garnizoenen tegen bepaalde termijnen zou be
+
+loofd zijn. Daarna werd erkend dat er eene overeenkomst be
+
+stond, waarin het woord «onmiddellijk'' voorkwam; de
+Tsung-liYamen echter meende dat &gt; onmiddellijk" te moeten opvatten als
+bedoelend onmiddellijk na het sluiten van het definitief
+vredestractaat, hetwelk eerst na drie maanden plaats zou hebben. Van
+eene nota.waarin kapitein Fournier een gesprek met Li-Hung-Chang ge
+
+resumeerd had, welke hij aan dezen overhandigd had, en van welke
+een afschrift in het Gele Boek opgenomen en door Ferry aan de
+Kamer was medegedeeld, werd niet gesproken. In deze nota
+waren de datums nader bepaald. Thans zendt de Chineesche
+regeering een photographischen afdruk dezer nota aan de
+Europeesche kanselarijen, de paragrafen op de datums betrekking
+hebbend zijn er in doorgehaald en de doorhaling met de letters
+van kapitein Fournier goedgekeurd. De Chineesche regeering
+deelt daarbij mede, dat de doorhalingen, oorspronkelijk met pot
+
+lood geschiedt, niet op den afdruk tézien waren, en men ze dus
+met inkt heeft laten overtrekken.
+Het ging niet aan, zonder meer, aan eene vervalsching van een
+diplomatiek stuk van de zijde der Chineesche regeering te
+gelooven. De bladen, vooral het Journal des Débats en de
+buitenlandsche, gaven te kennen dat eene categorische verklaring van
+kapitein Fournier wel noodzakelijk was. Deze is thans versche
+
+nen. De kapitein geeft daarmede afschrift van eene verklaring door
+hem aan den minister Ferry gezonden en waarin hij op zijn eere
+
+woord getuigt, geen doorhaling of wijziging in de nota gebracht
+te hebben, In een schrijven aan de Débats zet hij thans wjne
+verklaring op eenigszins zonderlinge wijze kracht bij, door de punt
+van zijn degen ter beschikking te stellen van ieder die aan de waar
+
+heid van zijn getuigenis twijfelen mocht. Voorts heeft hij in een
+gesprek met een reporter van Figaro verschillende inlichtingen
+gegeven, welke ter verduidelijking van duistere punten konden
+dienen.
+Kapitein Fournier had zeker omzichtiger en correcter kunnen
+handelen; in het door hem van het kladje geseinde bericht komen
+enkele verschillen met den teksJ der nota voor, die door Temps
+en Débats worden aangewezen. Aan de eerlijkheid zijner ver
+
+klaring twijfelt echter niemand, zoodat men hier voor een onge
+
+hoord feit van de zijde eener regeering, het vervalschen van een
+tractaat, slaat. Het is alleen de vraag of de vervalsching het werk
+is van den Tsung-li-Yamen, dan wel van Li-Hung-Chang, die met
+het tractaat, door hem gesloten, niet voor den keizerlijken raad
+heeft durven verschijnen en alzoo zelf de doorhalingen zou heb
+
+ben doen aanbrengen.
+In dit laatste geval zou, naar men meent, de Fransche regee
+
+ring de vervalsching met niet zooveel ophef aan de kaak stellen
+als in het eerste, daar toch Li-Hung-Chang de eenige Chinees is,
+met wien men uitzicht heeft tot een vergelijk te komen, en de
+regeering zijne positie niet geheel onmogelijk ten haren opzichte
+zou willen maken.
+*
+* f
+In Engeland wordt nog steeds dagelijks geredevoerd over de
+kieswet en het conflict tusschen Hooger en Lagerhuis. De con
+
+servatieven blijven op hun stuk staan, en eischen dat in het
+Iloogerhuis, tegelijk met het wetsontwerp tot uitbreiding van het
+stemrecht, ook het ontwerp tot herziening van de indeeling der
+kiesdistricten zal worden ingediend. De heer Gladstone en de
+ministers Ghamberlain en Hartington spraken in verzoenenden
+geest en schijnen van een compromis niet afkeerig te zijn. Klaar
+
+blijkelijk wil de Premier niet, door verscherping van het conflict,
+eene Kamerontbinding uitlokken, omdat in het nieuwe Parlement
+de heer Parnell en zijne aanhangers hoogstwaarschijnlijk bij iedere
+belangrijke quaestie den doorslag zouden geven.
+* #
+»
+De Belgische liberalen zijn bezig, den toestand van verdrukking,
+waarover zij zich beklagen, te bestendigen en te verergeren.
+Dezelfde verdeeldheden, die tot hun val als regeeringspartij aanlei
+
+ding gaven, komen wederie voorschijn, nu het de verkiezingen voor
+den gemeenteraad van Brussel geldt. De doctrinairen of gematigde
+liberalen, de meerderheid, hebben zich te verstaan met twee
+fractiën, de werkmanspartij uit de voorsteden en de progressisten.
+In eene vergadering der Assotiation liberale is over de voorloopige
+candidaluren gesproken. De werkliedenpartij eischte, dat men haar
+drie plaatsen op de lijst zou afstaan, terwijl zij zich voorbehield,
+later de namen harer candidaten te noemen. De
+waarschijnlykheid, dat twee dezer drie mannen, onderteekenaars van
+hetrepublikeinsch manifest zouden zijn, die niet de minste kans hadden
+op eene meerderheid in Brussel en dus alleen tot versnippering
+van stemmen aanleiding konden geven, deed de doctrinairen dit
+weigeren. Men gelooft dat de arbeidersgroepen zullen toegeven
+en de meerderheid steunen.
+Met de progressistische fractie ging het anders. Haar candidaat
+is o. a. Paul Janson, die, voor de fractie candidaturen eischte,
+als loon voor haar bemoeiingen tot het verkrijgen van algemeen
+stemrecht. Hem vreesden de doctrinairen zeer, daar zijn welspre
+
+kendheid hem vele aanhangers geeft en toch zijn naam hare lijst
+zou vei'awakkfiü, Zy vei'iöditea Lëi% aa eendje slwiaachlige
+too
+</text>
+<image timestamp="2002:08:18:05:17:40.00" size="209840">000002ML.TIF</image>
+</page>
+</document>

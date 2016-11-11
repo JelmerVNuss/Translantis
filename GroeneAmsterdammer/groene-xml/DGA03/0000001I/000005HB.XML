@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250404</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2495
+DE WITTE BAZAR KAL™f,LT223 *"dt opgeheven
+BESLISTE SLUITING
+= BINNEN ZEER KORT =
+Het HUIS is
+TE HUUR
+WIJ HEBBEN INTUSSCHEN ONTVANGEN:
+GROOTE VOORRADEN IN DE NIEUWSTE
+Jongenspakken, Jassen, Hoeden, in
+Bébé- en Meisjesjurken, Mantels, Hoeden
+en Kapjes. In alle benoodigde Luiermand
+
+artikelen, Tricotages, Kousen en Sokjes.
+En dit alles wordt vér beneden de waarde TOTAAL UITVERKOCHT
+PASCHEM.
+Prachtige boekgeschenken
+VOOR
+NIEUWE LIDMATEN,
+P. H. HUGENHOLTZ Jr., Levenslicht uit den nieuweren tijd.
+(Stichtelijke Bloemlezing voor onzen tijd.) Ing. f 2.90, geb.
+Levenslicht uit vroeger Beu wen. Ing. f 3.25, geb.
+Levenslicht uit den Bijbel. .... Ing. f 1.90, geb.
+Innerlijk Leven (Zelfbeschouwingen) Ing. i 1.90, geb.
+Dr. J. A. BBYBBMAN, Een bundel Psalmen	Geb
+HHNBY VAN DLTKE, De Vierde Wijze uit het Oosten.
+Ing. f 1.25, geb.
+De Blauwe Bloem	Ing. f 1.50, geb.
+Op Weg	Ing. f 1.25, geb.
+Het Heerenhuis	Ing. f 1.25, geb.
+GH7STAV PBBNSSBN, Het leven van den Heiland	Ing.
+Van strjjd en Vrede (Tweede Bundel) Ing. f 1.90 geb.
+O. WAQNBB, Jeugd. Met een inleidend woord van
+P. H. Hugenholtz Jr. 5e druk	Ing. f 1.90 geb.
+Benvoud. 2e druk	Ing. f 1.90 geb.
+Wat onmisbaar is	Ing. f 2.50 geb.
+Het wezen der dingen	Ing. f 1.90 geb.
+In eiken boekhandel te bestellen
+
+Uitgaven van
+
+VAN HOLKEMA &amp; WARENDORF
+Amsterdam.
+f 3.90.
+f 4.25.
+f 2.90.
+f 2.50.
+f 1.90.
+Onmisbaar oor alken Mah-Jonggipelai
+BABCOCK'S SPELREGELS
+VOOR
+DEVAT RUIM
+3O.OOO
+HOLLANDSCHE-FRANSCHE
+DUIT5CHE - ENQELSCHE
+SPAANSCHE ITALIAANSCHE
+DOEKEN
+MAH-JONGG
+HET SPEL DER DUIZEND WONDEREN
+Voor Nederland vertaald door
+BIANG MEE
+Met talrijke illustraties'
+Prijs gebonden f2.50'
+Uitpvevn Vil HOLKEMA &amp; WUENDORF, Amst.
+l BOEK
+2 BOEKEN
+,
+f '
+S '
+6 '
+1 APRIL BEGON
+HET NIEUWE
+KWARTAAL
+Abonnés in het bezit van
+den laatst e n Catalogus
+wordt gratis ons maandel.
+supplement verstrekt.
+DE
+IAMSTEDDAMI
+unump imm
+is voortreffelijke kleeding.
+Ze verraadt in ieder opzicht:
+Vakkennis en goeden smaak.
+De prijzen zijn scherp c o
+ncurreerend
+Mag onze afdeeling KLEER
+
+MAKERIJ" U van bovenstaande
+beweringen het bewijs leveren?
+Bezoekt ons dan of telefoneert
+U even om stalen-collectie.
+Rotterdam, Amsterdam,
+Den Haag, Utrecht, Haarlem,
+Goes, Zierikzee.
+
+</text>
+<image timestamp="2002:09:03:06:46:33.00" size="109958">000005HB.TIF</image>
+</page>
+</document>

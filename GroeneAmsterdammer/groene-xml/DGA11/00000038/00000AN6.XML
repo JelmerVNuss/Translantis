@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321015</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ff.
+*»
+A *
+O R K.
+A A N een '™
+/•-vk van de
+oud- ^- ste Nederlandschc
+* •
+11,
+rt'
+u*.
+"V
+J
+&gt;1V
+• «JF* l.
+F
+
+*:•«"ff
+sche
+winkels waar men wijn kan
+koopen hangt niet rechtmatigen
+trots het hord uit: In den Ver
+
+gulden Druiventros.
+Inderdaad. In weinig woorden
+gaat veel zins. Kr ;:ijn duizend
+druiventi'OKsen, elk anders van kleur en smaak
+(•u makelij, donkerblauw,
+purpcrendauwx.ilverblf.uw. groenaclitiu' goud en ducatengoud
+en goudgeel; er y.ijri weinig vruchten der aarde
+die in lichten tros op de hand ge wof-;eii een 7.00 zw;iar go voel geven, maar het
+rljkslft vau al, de vergulde druiventros van alle eeuwen, dat is .sinds Noach en
+zijn voorgeslacht de vrucht waaruit men den wijn perst.
+De druif is een goed &lt; ten. een hest eten. De'
+Kgyptische wijsgeeren Verzekerden lu.t de menschlieid even
+geestdriftig als de geleerden van heden het verzekeren
+eri als dezulken het eeuwen lang over een of ander
+eens bleven kan de mensch wel zeker zijn, dat hij
+gelijk heeft als hij vindt dat de druiven hem goed
+smaken en wel bekomen. Niet dat hij andera geen gelijk
+heeft als hij iets van dien aard vindt, maar het is
+altoos beter openbaar t&gt;ii geleerd erkend gelijk te hebben .
+als men zijn druiven in vrede wil eten.
+Alevenwel kan men de menschlieid verdeelen in drie
+deelens' zij die alleen druiven eten en fy roepen over
+den wijn, zij die alleen den wijn eeren en fy roepen
+over de druif, en zij die n druif n wijn eeren. en jv
+roepen over hen die er anders over denken. De twee o
+categorie is klein, de eerste is ook klein, de laatste s
+het grootst. Hieruit leert men dat de mensch van natuje
+wijs is, immers het overgroote deel der menschlieid blij.'t,
+als het voor de keuze tusscheri twee goede gaven gesteld
+wordt, beide te kiezen. Hadde Paris deze wijsheid bezeten,
+van aangezicht tot aangezicht staande met de drie gratiën, dan hadden
+Troja's torens niet in vlammen gehuld gestaan en Helena ware niet vermaard
+geworden. Paris was zoo schoon dat 'hij wel dom moet zijn geweest. In
+ieder geval is zijn oordeel afschrikwekkend en desalniettemin blijven ei
+Parissen te over die de druif slechts in n gedaante willen eeren.
+Niet dat hun keuze slecht is, evenmin als de zijne. Druiven eten is. gelijl
+Nederland het dezer dagen voor een luttel zilver ervaart, een gezegend eten. De
+druif is een vrucht waarin men de zon en het water proeft, in tegenstelling mei
+de noot, die naar de aarde en de herfstlucht of de peer die naf.r de aarde en dt
+zon smaakt. Gelijk de perzik, die veel zon behoeft en het best smaakt als men z&lt;
+verzadigd van zonnewarmte van den boom eet, zoo is ook een steenkoude druif de
+ware druif niet. Er zijn meer druiven die de ware niet zijn, gelijk de vos zeide. t&lt;
+weten de smakelooze, de zure en de te hoog hangende. Dit euvel vindt men overigen!
+bij alle vruchten, en elders. Vandaar dan ook dat de mensch zijn smaak heeft om ti
+leeren onderscheiden tusschen goed en slecht. Hetgeen hij vaak nalaat. Vraag, nada
+thans Nederland reeds maanden lang dagelijks druiven eet, eenigen bekenden Neder
+(anders hoeveel soorten druiven zij u noemen kunnen en tien tegen een dat ge bi
+het tellen noj
+vingers aan uv
+ft*
+
+
+
+</text>
+<image timestamp="2002:09:27:10:22:47.00" size="245787">00000AN6.TIF</image>
+</page>
+</document>

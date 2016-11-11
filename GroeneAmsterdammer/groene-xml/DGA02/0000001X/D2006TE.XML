@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330909</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•••JTÏ1"K3
+'T •&gt;
+•T'
+s.
+i:
+p i
+De Groene Amsterdammer van 9 September 1933
+No. 2936
+J. D. S T R U IJ S &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N.V. Meubelmagazijn Eden1
+Molsteeg Amsterdam
+BOEKENKASTEN
+Hier staat
+de naam!
+Aan de achterzijde van elke Droste-bonbon. Als
+U daar maar op let, bent U er altijd van ver
+
+zekerd, dat U de echte Droste kwaliteit-bonbons
+ontvangt voor den door U betaalden prijs.
+Alleen aldus gesigneerde bonbons waarborgen U
+de bekende, nimmer afwijkende Droste-kwaliteit.
+ALTIJD WELKOM!
+Spaart plaatjes door het album Bali".
+A Voor jongens, die van reizen houden;
+
+DE MAROKKAANSCHE REIS
+door C. F. van Dam, met teekeningen door'ls. van Mens
+"i Een1 nieuw, vroolijk, spannend reisverhaal van Fred. Donders, voor
+.'jonge'ns en meisjes van 10-16 jaar. Dit keer gaat de reis via Parijs
+"'MarseiireenCasablanca naardeoasevanMarrakech,het hart va n Marokko
+Prijs geb. f 1.75, ingen. f 1.10 - In eiken goeden boekh. verkrijgbaa
+BEGRAFENISVEREENIGING
+SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tal. 2O341 2426O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+WEEGEWIJS
+RAPENBURG 44 - AMSTERDAM
+MARMER
+MARMERSLIJP
+NATUURSTEEN
+
+Telef. 42662
+g—IV. H. POLMAN TUIN-i
+l OVERTOOM S26 - Telefoon 826601
+l Begrafenissen • Transporten • Crematies |
+VERVE
+NIEUWE HERFST- EN WINTERTINTEN
+IN;DEJDEPOTS AANWEZIG.
+
+
+PALTHE
+STEUNZOLEN
+SVST. PROF. HOFFA/
+HAAR MAAT
+Fa. J. A. MASSING
+
+O. Z. Voorburgwal 334
+
+Amsterdam C.
+
+over het Binnengasthuis
+De Groene
+Amsterdammer
+Weekblad voorNederland
+kost slechts f2.70 per
+kwartaal (f 0.20 voor in
+
+cassokosten) of f 10.- per
+jaar bij vooruitbetaling.
+VRAAGT
+
+l
+MEUBEL
+
+EN BEKLEEDINGSSTOFFEN
+
+TAPIJTEN
+LOOPERS
+Neerlandici" en Ostara"
+
+TAFEL- EN DIVANKLEEDEN
+Royal Monta" en Slavia"
+LICONA GORDIJNSTOFFEN
+met dit merk
+uw
+VAN
+N.V. GEBRS. v. d. BERGH's
+KON. FABRIEKEN - OSS
+JAARBEURS STANDS 4128-32-36
+
+</text>
+<image timestamp="2002:09:26:18:56:36.00" size="136544">D2006TE.TIF</image>
+</page>
+</document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300927</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De manoeuvres en de vlootwet
+BIJVOEGSEL van De Groene Amsterdammer" Weekblad voor Nederland van 27 September 1930
+Amnt. Boek- en Steendr. v/h. EUermao. H.rmJ &amp; Co. N.V
+Minister Decker s: Dat geeft den zeeman moed!"
+
+</text>
+<image timestamp="2002:09:26:04:18:09.00" size="160095">000009L8.TIF</image>
+</page>
+</document>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261120</Datum>
+<Pagina>25</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KIPS
+^&lt;
+SCHIEDAM
+Reservpirs, Blusleidingen,
+Schccps-Tanks
+AUTOGENE LASSCHING
+HAARLEM-KRUISSTRAAT 30-32
+
+Hotel-Restaurant De Leeuwerik"
+Huis VBB dea !«• R. Centr. Verw. Kamers met stroomend water
+Aanbevelend L. REITSMA
+WeiERAHDERöZn.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+OOOs»
+.«-*«-« VGravenhage
+
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON «389
+PiQacouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+|
+Indisch Restaurant en Lunchroom i
+J. VAN GEEMERT
+Laan van Meerdcrvoort 12 - DEN HAAG - TcL 34516
+
+VHERTOGENBOSCH
+ORANJE HOTEL
+Familie-Hois
+Telefoon 755
+HOTEL CENTRAL
+Café'Restaurant
+Telefoon 200
+GBBR. RADEMAKER
+, AdfoüM M AieV,
+xrp ^
+Fabrikaat MAX KRAUSE Berlijn
+Verkrijgt), in eiken goeden Papierhandel
+Aug* Uilkema
+HORLOGES
+850 in voorraad
+Nikkel Fl. 5 tot 25.
+Zilver 8 tot 40.
+Goud ,, 14 tot 400.
+Platina en Brillant. %
+
+Reguliersbreestraat 39
+Goddards
+PlatePowder
+mor zilveren en vtmikkelde
+Verkrygbur by de
+voonuumste drogisten &amp; Galanterie hapdelfttn
+GenenJ Vertegenwoordigen:
+J. H. Jansen &amp; Co.
+
+Haringvliet N.Z.69 Rotterdam
+Marius Utrecht
+Hoofdvertegenwoordigster
+van de firma
+CARL. ZEISS JENA.
+afdeeling Mikro
+
+
+ZEISS
+microscopen
+Alle courante
+modellen voorhanden
+J. P. KARTHAÜS
+8r. Markt - Haarlem
+TELEFOON 10652
+5
+Onderlinge Levensverzekering
+
+Van Eigen Hulp
+
+'s-Gravenhage - Kortenaerkade 3
+BIJKANTOREN: Amsterdam, Keizersgracht 628; Rotterdam. Mauritsweg 18;
+Arnhem, Jansbuitensingel 23; Utrecht, Maliebaan 104;
+Groningen, Groote Markt 26, Batavia, Voorrij Zuid.
+Volkomen soliditeit door het onderling stelsel,
+de reserves en het zekerheidsfonds.
+Vraagt prospectus aan het Hoofdkantoor, de Bijkantoren of de Heeren Inspecteurs eo Agenten
+m
+"tHJ
+
+E
+E
+E
+E
+E
+D
+F™ W. KUIJK
+Chocolademagazijn
+GALERIJ 32-33 - TELEFOON 36993
+AMSTERDAM
+r
+Grootste sorteering
+van Binnen- en
+Buitenlandsche
+merken.
+Verzendingen
+naar alle landen.
+NVÖEETNA
+AM/TERDAM
+MACHINES VOOR DE
+PALMOLIE-INDUSTRIE
+N.v. D, Hogenbirk 6 Zoon's
+
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+•f&lt;U«li»fl Hekwerken en OrmacUftcheldlngcn, Divers Vlechtwerken
+
+</text>
+<image timestamp="2002:09:26:09:46:23.00" size="183555">D100084P.TIF</image>
+</page>
+</document>

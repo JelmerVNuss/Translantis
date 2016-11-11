@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020223</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na. 1287
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Op re;s naar de Vereenigde Staten.
+DE AP.TUPANT: .Glacf1 (f ijjfr, Koninklijke Hoogheid ?"
+PRINS HEINIUCH VAS PEUISBN : »Dezen keer heb ik de gepantserde vuist niet roodig.'
+De Vrede-klok. (l'lk).
+IIij zal rog heel wa! t-lsaa root.ttr, haVoer»,
+voor hy die klok laat slain !
+De nachtmerrie van het departement van oorlog
+In welke gedaante &lt;i« VrolaR-'V»'1! zi^h ain IOT OITKRITHKR VAN"
+TR\XSV\\L zal dier.en ta vert'Myi«n, om in zijn oogfii ofinade to
+vinden. (JfinnorifH^'ii: JUiiltcr, \Veetien).
+
+Uit Noi'Oïe-Vrerria. (Si Pjfer.shnrjj).
+John Buil vindt een vriend (Füchietto).
+Ea jjy gelooft je verlaten ? Fuego de Dtos! Kom aan my'n hart, ik zal je wel troosten !
+Tripel-Bal (Lustige Nutter).
+DK DuiTpriiKR : »Mijn Italiaarsche f'aT'st maar een onscBuldig Extra- tounje met den^Fraoschman
+daarover behoef ik me niet warm te maken."
+»Die Extra-Polka-Mazurka kan ik n.-ij n Ouster.rijkscbe wel tgui.i.en; za is me toch, trouw !
+
+»Hum ja! als rcijn damea in 't gr-hael riet
+dargen, 't gaat zóó ook wel."
+ra komen, zal ik maar een beetje allén
+En Bloc! (I'tt).
+
+Mix;s7Kit HBOIUMCK ((» : &gt;j&gt;i • l&lt;i' 'i' n om j c /(KI/) : •- O, welk \
+een Jeelyke aanval was dat !''
+Joiis liei.i.: ».Vllemftclitii', wat wordt dut
+Transvaalsche goud zwaar !"
+;•;•! :^ v.ir,- d" P;,",prpn OM de v^ste blokhuiien tk-r Engelschen met
+d lu's a;u: te vallen.
+
+</text>
+<image timestamp="2002:08:17:08:46:53.00" size="406398">D200194.TIF</image>
+</page>
+</document>

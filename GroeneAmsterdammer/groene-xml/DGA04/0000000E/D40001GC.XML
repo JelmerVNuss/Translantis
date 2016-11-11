@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141011</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zondag 11 October
+A°. 1914
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	. ƒ 1.65
+Voor het Buitenl. en de Koloniën p. j., bij vooruitbetaling fr. p. mail 10.
+"Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar . 0.125
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van l—5 regels ƒ1.25, elke regel meer . .
+Advertentiën op de finantieele- en kunstpagina, per regel
+Reclames, per regel
+ƒ0.25
+.0.30
+.0.40
+INHOUD
+Blz. ƒ: Deutsche Antworten, II.
+Kroniek: de ne Duitsche vrouw, die de
+waarheid durfde zeggen. Het Steun
+
+comité. L. C.: Ons België." Een
+EngelschPleidooi. L.: Sociologische"
+contra Economische" bedenkingen.
+2: Het Oorlogstooneel door **. W.
+Steenhoff: Wat is 't kostbaarst, kunst of
+leven? Matthiis Vermeulen: Over de
+Maand. Charivarius: Sonnet voor prof.
+Eucken. 3: J. Reitsma:
+Pandaemonium. Dr. Chr. Kroes-Ligtenberg: Het
+Duitsche onderwijs. Dr. P. van Olst:
+Barnsteen. Sylvain Pitt: Oorlogscaril
+
+lon. 4: Teekening H. v. d. Ven.
+Allegra. Recepten door A. H. 5:
+A. Perdeck: De onvermijdelijkheid van
+het zwaard, met onderschrift v. d. Red.
+Charivarius en het Nieuws van den Dag.
+Langs het Oorlogspad. 6: De Pers!
+woorden en muziek van Ed. Coenraads.
+Fin. Kroniek door-v. d. M. 7: A. J.
+Barnouw: Gedicht aan prof. dr. J. J. M.
+de Groot: Ingez.: Brief van een
+Berlijnsch hoogleeraar in de philosofie.
+Het Leven en zijn eerste photo's.
+Damspel door J. de Haas. J. P. K.:
+Herinneringen van een Siebziger. 8:
+Schaakspel door R. J. Loman. Teeke
+
+ning van Joh. Braakensiek: Moeder Treub.
+Bijvoegsel door Johan Braakensiek:
+Nederland en de Belgische vluchtelingen.
+DEUTSCHE ANTWORTEN
+
+U. (Schluss)
+Doch die Hollander sind ein kluges und
+rechtlich denkendes Volk, und uns liegt
+esganzfern, dasdummdreisteGeschreibsel,
+das eine Gruppe, wahrscheinlich in
+englischem Auftrag, als Offenen Brief" nach
+Deutschland zu verschicken wagt, dem
+ganzen hollandischen Volk zur Last zu
+legen.
+Hamburger Nachrichten, 25 Sept.
+
+lm Amsterdam er Weekblad voor
+Nederland vom 20. d. M. befindet sich
+ein beachtenswerter OffenerBrief an
+E n g l a n d in englischer Sprache, in dem
+ein lebhafter Protest gegen die kleinlichen
+Mittel erhoben wird, die Qroszbritannien
+zur See anwendet, um Holland zum
+Anschlusz an den D r e i v e r b a n d zu
+nötigen. Der Brief verdient um so mehr
+Beachtung, als er keineswegs eine
+deutschfreundliche Oesinnung verrat; denn wenn
+auch der Verfasser sich offenkundigbemüht,
+unparteiisch zu sein, so steht er doch der
+bitteren Notlage Deutschlands, die uns
+zwang, in Belgien einzurücken,
+verstandnislos und sogar abweisend gegenüber.
+Trotzdem kritisiert er scharf die englische
+Kampfesmethoden.
+Berliner Zeitung a. M. 29 Sept.
+
+Wir haben in unserer vorigen Num
+
+mer nachgewiesen, wie aus den Worten,
+die Bethmann-Hollweg selbst am 4 Aug.,
+3. Sept. und 12. Sept. gesprochen und
+geschrieben hat, direkt und indirekt zu
+folgern war, dasz der Einfall in Belgien
+mit vollem Bewusztsein, gegen das V
+lkèrrecht zu verstoszen, ausgeführt wor
+
+den ist.
+Es gibt eine zweite Legende, die von
+der deutschen Presse eifrig verbreitet
+wird: die Greuel, die von belgischer
+Seite betrieben sein sollen. Nun wissen
+wir Niederlander sehr gut, dasz einige
+Teile des belgischen Volkes, gerade so
+wie einige Teile der niederlandischen
+Nation, die Tugenden aber auch die
+Nachteile" einer noch nicht
+reglementierten Individualitat besitzen. Es werden
+in Belgien hier und da, inmitten eines
+Volkswiderstandes, der die grosze Zeit
+unseres Krieges gegen Spanien und den
+Franktireursruhm eines Andreas Hof er
+und anderer Volkshelden in lebhafte
+Erinnerung brachte, unter dem Eindruck
+des Ueberfalles durch eine zehnfach gr
+szere Ubermacht wilder individueller
+Widerstand und selbst, durch Pöbel,
+Greuel stattgefunden haben.
+Und es ist bei uns niemand, der nicht
+davon berzeugt ist, dasz von den vielen
+Erzahlungen ber Greuel seitens
+ungebildeter Wallonen wie andererseits
+zahlreiche Geschichten kursierten ber
+Schandung von Frauen und Madchen
+durch Gruppen deutscher Soldaten unter
+den abscheulichsten Umstanden, das
+eine und das andere auf Wahrheit
+beruhen wird.
+Wir wissen aber auch, dasz einer
+unserer niederlandischen Aerzte, Dr. van
+der Goot aus dem Haag, in Maastricht
+und in Aachen eine Enquête veranstaltet
+hat und dort von den Autoritaten
+vernahm, dasz man von ausgestochenen
+Augen und anderen yerstümmelungen
+absolut nichts wisse. Die Wahrheit wird.
+daher wohl sein, dasz die deutschen
+Zeitungen, in dem instinktiven Bedürfnis,
+den Einfall in Belgien auf den
+Hintergrund treten zu lassen, jedes Gerucht aus
+Belgien hundertfaltig wiederholt haben.
+Hundert x l Greueltat = 100 Greueltaten.
+Hat nicht in der KölnischenZeitung"
+ein Jurist, Sachwalter einer deutschen
+Firma in Belgien, in den lebhaftesten
+Farben ber die Schandung des deutschen
+Kirchhofes in Antwerpen berichtet,
+ein Erzahlung so schön, dasz sie
+hollandischerseits schon geglaubt wurde
+und von der sich nach einer von drei
+Seiten zugleich eingeleiteten
+Untersuchung ergab, dasz sie auf reiner
+Erfindung beruhte?
+Wie kann das deutsche Pubiikum im
+Kriegsrausch seine Zeitungen
+kontrollieren? Wer sieht, in wie ungezügelten
+Ausdrücken deutsche
+Universitats-Professoren uns schreiben (siehe z. B. pag. 7
+dieses Blattes), wundert sich nicht mehr
+ber die maszlosen Flunkereien der
+aufgeregten deutschen Presse. (Wir. sagen
+hiermit nicht, dasz die Blatter der
+TripleEntente nicht flunkern; alle
+Kriegszeitungen tun dies in riesigem Umfange!)
+
+Für uns neutrale Niederlander ist und
+bleibt also, solange sich das Gegenteil
+nicht z e i g t, der Einfall in Belgien,
+der für Deutschland eine strategisch
+erwünschte Handlung war, eine Tat des
+nicht wieder gutzumachenden Unrechts,
+und noch verschlimmert durch die Art
+und Weise ihrer Ausführung: das
+Erschieszen ganzer Reihen von Notabeln
+wegen wirklicher und vermeintlicher
+Anfalle durch einige private Franktireure,
+das Niederbrennen ganzer Dörfer und
+halber Stadte, das Fordern von Millionen
+Kriegskontribution von den Angegriffenen.
+Schlimmer vielleicht noch als dies alles
+hat man in Niederland die Zumutung
+gefunden, den die deutsche Regierung
+der belgischen stellte: Erlaubt uns, durch
+euer Haus zu genen, damit wir
+diejenigen antallen können, die in feierlichem
+Vertrage und auch wir taten es
+euch gelobten, euch zu schützen gegen
+jeden Einfall!"
+Eine Nation von 63 Millionen Seelen
+darf so nicht sprechen zu einem kleinen
+Volk. Nichts hat in Niederland tiefer
+verletzt als dese Krankung, diese
+Beleidigung, die einem respektablen Volke
+als Ganzes zugefügt wurde.
+Einen Schwachen zu beleidigen gehort
+zu den mindest ehrenvollen Taten, die
+man begehen kann.
+
+Gewisz", sagt einer der Deutschen,
+der uns antwortete; man soll keinen
+Schwacheren beleidigen; aber er musz
+sich dann auch nicht, als ob er ein
+Starker ware, dem guten Rechte Deutsch
+
+lands widersetzen".
+Ein anderer schreibt:
+Aber es ware nicht nur ein Gebot der
+Klugheit gewesen, unseren Vorschlag des
+freien Durchzugs anzunehmen und dem
+Lande den Krieg zu ersparen, nein,
+Belgien hatte sogar eine moralische
+Rechtfertigung gehabt, indem es dem
+Druck der Uebermacht nachgab und so
+unnützes Blutvergiessen verhütete"!!
+Diese Antworten sind bezeichnend. Wir
+Niederlander haben mit Franzosen und
+Englandern das gemein, dasz wir bei allem
+etwaigen Bpsen, das unsere Regierungen,
+jede für sich, in der Welt anrichteten,
+in unserem besseren Volksbewusztsein
+die Moralauffassung bestreiten bleiben,
+als sollte Recht und Unrecht abhangen
+von Sieg oder Niederlage, Kraft oder
+Schwache. Aeuszerungen wie: Das
+deutsche Schwert wird zeigen, wo die
+Wahrheit ist," wie uns so mancher von
+jener Seite unserer Grenze schrieb,
+sind nicht allein deutsch geschrieben,
+sondern auch absolut un-niederlandisch
+gedacht. Die Idee, dasz das kleine Bel
+
+gien eine andere Ehre haben sollte wie
+das grosze Deutschland, in derselben
+Weise wie ein preusischer Offizier eine
+andere Ehre hat wie ein preusischer
+Soldat, ist nicht in unseren Gauen
+heimisch. Wir erachten keine Bildung als
+vollendet, wo man die Menschheit
+einteilt- in Herren und Knechte und einen
+ganz andern Ton anschlagt zu
+Untergebenen als zu Vorgesetzten, ein
+verzweifeit anderes Auftreten gegen Kleine als
+gegen Grosze beobachtet.
+lm Obenstehenden liegt eine teilweise
+Erklarung der Ursachen, warum die
+Niederlander, obwohl in ihren
+Handlungen neutral, in ihren Meinungen und
+Gefühlen keineswegs unverteilt für das
+kriegführende Deutschland gunstig sind.
+Alle Versicherungen, die wir empfangen,
+als sollte Deutschland kein Gewaltstaat
+sein, und als pb die niederlandische
+Unabhangigkeit nicht im mindesten gefahrdet
+sein sollte, prüfen wir an dem
+schulmeisterlichen Ton selbst von mancher
+der bei uns eingegangenen Antworten;
+und dieser deutsche Mangel an Einsicht
+in das Gefühlsleben des Kleineren, diese
+Unfahigkeit, sich in das Wesen eines
+andern hineinzuversetzen, der Gedanke
+an die daraus sich ergebene R
+cksichtslosigkeit ihres ganzen Regierungssystems,
+der Gedanke an die fünfzig Jahre
+Oberherrschaft ber die Danen in Schleswig
+gegen deren Willen, die vierzig Jahre
+gewaltsamer Umwerbung der noch stets
+französisch sprechenden Bevölkerung im
+Reichsland, der mehr als hundertjahrige
+Streit gegen die noch stets
+anti-preuszischen deutschen" Polen, kurz der
+Gedanke an alle diese gegen ihren Willen
+umworbenen Nationalitaten laszt Nieder
+
+land zum Himmel flehen, dasz der deutsche
+Militarismus niemalsUrsache finden moge,
+auf Grund von Notwehr" Niederland
+zu betreten, so wie es dies in Belgien tat.
+Wir begreifen nicht gut alle die
+Bezeugungen, die wir anlaszlich unseres Of
+
+fenen Briefes" in Masse empfingen:
+alle die Versicherungen von
+Privatpersonen, dasz Niederland auf ewige Zeiten
+respektiert werden wurde. Kein groszes
+Land respektiert das kleinere, wenn es
+in seinem vitalen Interesse liegt, es
+anzugreifen. Nach Angriff und Besiegung
+folgt jedoch noch die Art und Weise
+der Behërrschung, und falls wir uns
+eine Versammlung denken, etwa von
+Buren und Schleswigern danischen Blutes,
+ber die Frage diskutierend, was
+Fremdherrschaft bedeutet, dann ist der Ein
+
+druck, den ein nicht beherrschtes aber
+infolge seiner Lage stets bedrohtes Volk
+sich hierüber bildet, nicht zweif elhalft
+
+Zum Schlusse mussen wir erwahnen,
+dasz fast alle Antworten wütende Ausfalle
+gegen England enthalten. Wir
+konstatieren dies allein; denn wir haben Eng
+
+land niemals verteidigt. Man fragt uns,
+ob wir glauben, dasz England den Krieg
+aus ideellen Momenten unternommen
+habe. Wir antworten hierauf gerne:
+ebensowenig wie schlieszlich Deutsch
+
+land, Ruszland oder Frankreich.
+Die Sprache eines Professors aus
+Leipzig (Brief an einen unserer Lesern
+gerichtet) verstehen wir am besten:
+
+Holland hat eine andere Vergangenheit
+als wie Deutschland. Wir sind nun eben
+die Parvenus unter den Völkern, die sich
+unliebsam breit machen. Kaum seit 1813,
+erst wirklich seit 1870 haben wir eine
+nationale Qeschichte: zu den Zeiten wo
+Holland sich ein Kolonialreich als die
+Qrundlage seines Wohlstandes schuf,
+mordeten sich die Deutschen im fürchterlichen
+Religionskriege von 1618-48, und dann
+waren sie engherziger Kleinstaaterei
+verfallen. Die Welt war weggegeben, besonders
+an die klugen Britten.
+Nun beanspruchen wir 63 Millionen den
+Platz an der Sonne, und den gönnt man
+uns nicht.
+
+Es ist auch unsere Meinung, dasz die
+Entente dadurch, dasz sie Deutschland in
+seiner kolonialen Expansion zu hindern
+versuchte (Marokko), den inneren Zwiespalt
+in Europa vergröszert hat und das deut
+
+sche Volk noch mehr, als es leider
+ohnehin schon war, zu einer militarischen
+Nation gemacht hat.
+Ihr Deutschen habt ohne Zweifel auch
+Vorteil davon, dasz ihr so gedrillt seid.
+Vor euren organisatorischen Talenten,
+vor eurem Willen und zahem Durchsetzen,
+was mit eurer militarischen Erziehung
+zusammenhangt, hat man nirgends mehr
+Respekt und Bewunderung als bei uns,
+die wir in vielleicht zu viel Freiheit
+aufgewachsen sind. Wir begreifen Aeusze
+
+rungen wie diese, von einer jungen
+deutschen Frau, sehr gut:
+
+Es gibt hier in Deutschland eine Polizei.
+Die besteht nicht nur aus den vom Staate
+angestellten Behörden und Schutzleuten.
+Es ist vielmehr ein Geist der Zucht und
+Ordnung in Deutschland, welcher
+eingepflanzt von den alten preussischen
+Königen allmahlich das ganze Volk
+durchdrungen hat und nun jeden Einzelnen
+dazu treibt. Recht und Sicherheit zu
+schützen und zu verteidigen. Dieser straffen
+Disziplin, diesem Militarismus" haben
+unsere Feinde es zu danken, dass Leben,
+Freiheit und Eigentum ihrer
+Staatsangehörigen in unserem Lande unangetastet
+geblieben sind; und eben ihn suchen sie
+jetzt, mit Russland an der Spitze, von
+gelben und schwarzen Völkerschaften
+unterstützt, uns auszutreiben im Namen
+der Freiheit und Menschlichkeit. Freiheit
+heisst aber Leben unterm Gesetz!
+
+Solche Aeuszerungen begreifen wir. Es
+ist... ein neues Sparta, das spricht. Es ist
+auch Rom; denn ihr seid mehr als die
+Spartaner waren. Aber es ist doch nicht
+die hohe Auffassung von der Polizei des
+Lebens. Es entbehrt das sanfte Oei, das
+den Umgang zwischen Menschen glattet,
+erleichtert und veredelt, es entbehrt die
+Demokratie, die in Griechenland herrschte
+und die wir in anderer Form in dem
+freien Frankreich und in dem bürgerlich
+geordneten England zurückfinden.
+Bei euch in Deutschland wird, in dem
+Manifest eurer 93 bedeutenden Manner,
+der deutsche Militarismus ein Teil der
+deutschen Bildung genannt! Ihr habt
+keine Ahnung von dem Eindruck, den
+solch eine Auszerung auf alle
+westwarts von euch wohnenden Völker
+macht. Die englischen Kramer—ihr nennt
+sie mit Recht so, führen Krieg, um
+ihre Vormachtstellung in der Welt
+zu behalten, ebenso wie brigens ihr
+Krieg fürt, diese en passant für euch zu
+erwerben. Der Abscheulicheit des Krieges
+gebt ihr aber einen vormittelalterlichen
+und romantischen Schein. Der frische,
+fröhliche Krieg" ruft einer eurer ersten
+Professoren aus. Es ist als ob Hermann
+der Cherusker Professor geworden ware.
+Deutsche Frauen schreiben uns: So
+wie die Belgier handeln, das ist doch
+kein ehrlicher Krieg?!" Es ist die
+Sprache von Jungen, die in den
+Raufjahren stehen. Für euch ist der Krieg
+ein anstandiges Institut mit Reglementen
+(die ihr selbst nicht immer respektiert...)
+etwas für lange Gedichte und
+Kriegervereine; aber für uns ist Militarismus
+eine unsagbar trübe, leider noch immer
+für notwendig erachtete Abscheulichkeit,
+die man bis heute glaubt betreiben zu
+mussen, aber deren sich der bessere Teil
+der menschlichen Gesellschaft in der
+Stille tief schamt.
+Gerade weil wir noch immer das deut
+
+sche Volk lieb haben und bewundern,
+können wir nicht umhin die Wahrheit
+zu sagen.
+Freunde belügt man nicht!
+
+* * *
+KRONIEK
+
+DIE EENE DUITSCHE VROUW
+
+Laat nu nooit iemand meer beweren, dat
+onze tijd nuchter is. Integendeel is hij vol
+bloedige idealen en bepaald afschuwelijk
+opgewonden. Men moge den oorlog zelf een
+gruwel achten, erger schijnt nog de ver
+
+standsverbijstering, de oordeelsverblinding
+van een geheel volk. Het is zeker*waar, dat
+wij allen thans een beetje verdwaasd zijn,
+meer of minder, doch, weloverwogen, mag
+men toch zeggen, dat de Duitschers er het
+akeligst aan toe zijn.
+Dit nieuwste protest van al die lichtende
+reputaties en fonkelende namen, dat zonder
+blikken of blozen zegt: ons militarisme is
+onze beschaving zelf, zou geschikt zijn om
+menig redelijk wezen buiten het Duitsche
+vaderland definitief aan het malen te brengen,
+wijl hem, schijnbaar, slechts de keuze ge
+
+laten wordt tusschen de hopelooze ver
+
+dwazing zooveler geleerde bollen of
+de eigene.
+En welke nederige mensch, diezichzelven
+eenigszins kent, zou dan niet tot die eigen
+gekheid besluiten	tenzij hij bijtijds
+bedenke, primo, dat officieel ambt en officieele
+meening daarginds geenszins gescheiden
+zijn en vervolgens, dat deze heeren specia
+
+listen zijn in alles, behalve in onafhankelijk
+politiek inzicht en kennis der internationale
+verhoudingen.
+Kan het ons eigenlijk veel schelen, wat
+deze menschen meenen? Men heeft nooit
+gemerkt, dat het hun eigen regeering
+schelen kon, wat zij politiek dachten, en
+bij verschillende belangrijke episoden in
+hun land (b. v. het Zaberngeval) dachten
+zij blijkbaar ook maar liever niet. Maar nu
+hebben zij ineens allen een vaste overtuiging,
+die toevallig die van hun gouvernement
+blijkt te zijn en als zoodanig reeds de ver
+
+dienste der oorspronkelijkheid ontbeert. Zoo
+
+zér zelfs, dat wij bijna al wisten wat zij
+meenden, vór wij het zwart op wit lazen,
+uit de eenvoudige overweging, dat iets meer
+ongemeens toch niet gedrukt zou worden
+in het Duitschland van heden.
+Maar is er dan niemand in, het gansche
+groote Duitsche Vaterland, die eenige bezon
+
+nenheid meer overhield, geen enkel mensch,
+wiens rechtvaardigheidszin niet werd ver
+
+zwolgen in den zondvloed van heet, mod
+
+derig gevoel?
+Ja, goddank! wij weten tenminste van
+een, zegge: n Duitsche vrouw, uit het
+volk, die openlijk durfde belijden, wat zij
+meende dat de waarheid was, al was het
+dan ook niemands waarheid. De Duitsche
+soldaten hadden inderdaad toch ergerlijke
+daden begaan, meende zij en werd daarom
+voor den krijgsraad gedaagd en mocht blij
+zijn er met een bestraffing wegens Grober
+Un fug af te komen.
+Heilige grober Unfug, hoe dierbaar zou
+deze vrouw aan het hart van Maarten Luther
+geweest zijn!
+En aan ons hart. Want is zij niet een
+lichtpunt in de zwartste duisternis, n enkel
+helder moment inden dof sten waanzin? Be
+
+hoorden wij niet fluks een comitéte benoe
+
+men om haar uit te visschen en op te pikken,
+als zij haar straf voor de Unfug heeft uit
+
+gediend, haar, die eenige Duitsche vrouw,
+die karakter genoeg had om behalve Duitsch
+ook algemeen-menschelijk te zijn ? Om haar
+vervolgens te interneeren, voor haar eigen
+veiligheid, als een zeldzaam kleinood van
+menschelijkheid, ënige schatbewaarster van
+de goddelijke vonk der Rede?
+Zulks behoorden wij gewis te doen, want
+het is wel zeker, dat later de Duitsche natie,
+als zij tot rede en kalmte is weergekeerd,
+deze ne vrouw een tempel zal willen bouwen,
+met woonhuis annex of in geval van over
+
+lijden een standbeeld, als een oord van
+pelgrimagie voor gansch het volk. Vorsten
+zullen de knie buigen, geleerden (trouwens
+vruchteloos) wijsheid zoeken, kunstenaars
+inspiratie vragen aan Haar, die alleen, mid
+
+den in de branding van het razend patri
+
+ottisme, de menschelijke waardigheid hand
+
+haafde, en de Duitsche rede, al is het dan
+in 't klein, voor algeheele vernietiging heeft
+bewaard.
+En was het niet om de wille van nen
+Rechtvaardige dat de Heere beloofde zelfs
+Sodom en Gomorrha te sparen...?
+F. C.
+* * *
+Steun in Amsterdam - Rotterdam
+Den Haag
+Het bedrag dat het Steuncomitéte Am
+
+sterdam mocht ontvangen, haalt nauwelijks
+de drie ton.
+Den Haag, rijkste vermogensstad van ons
+land, leverde nauwelijks n ton.
+In Rotterdam, waar men geen cijfer publi
+
+ceerde, hebben echter, naar wij hooren, de
+bijdragen het totaal van Amsterdam n Den
+Haag bijeen reeds ruim overtroffen.
+En dat terwijl, naast zeer vermogende
+particulieren, Hoofd- en Hofstad ook zeer
+vermogende maatschappijen telt.
+Dit is typeerend voor de levendigheid van
+het Rotterdamsch kapitaal. Intusschen: Is
+dit niet weer een argument te meer voor
+onzen oproep, dat de steun" van Rijkswege
+georganiseerd worde en door een
+noodbelasting worde gedekt? Nu ontsluipen er te
+velen aan hun nationale verplichtingen.
+.* * *
+
+Ons België"
+Niet voor eeuwen geleden, waarvan in
+onze geschiedenisboeken te lezen staat,
+maar nog in het jaar 1904 zijn wij, Neder
+
+landers, minstens even barbaars tegen onze
+vijanden opgetreden, als Duitschland nu
+.doet tegen de zijne. Wij zijn verontwaardigd
+over de verwoesting van gehele dorpen,
+over het fusileren van zovele mannen, het
+verjagen van vrouwen en kinderen en we
+vinden het bespottelik en ongehoord, dat
+het Duitse volk blind is voor alle gruwelen
+en doof voor al het onrecht en geweld,
+waarop het door ons, neutralen gewezen
+wordt.
+Het kan zijn nut hebben tans in herinne
+
+ring te brengen, hoe wij tien jaar geleden
+niet in staat waren onze krijgsverrichtingen
+veel objektiever te beoordelen.
+Van het hoogste belang voor onze oorlog
+met Atjeh was het, dat we de zuideliker
+gelegen Gajo- en Alaslanden vermeesterden.
+Overste Van Daalen werd in 1904 met nog
+geen 500 soldaten uitgezonden om deze
+landen te onderwerpen. De hoofden van
+de bevolking, bijeen gekomen om het ulti
+
+matum van de Compagnie te bespreken,
+besloten met alle hun ten dienste staande
+middelen zich te verzetten tegen de brutale
+indringer.
+De tegenstand, onze troepen op de ver
+
+sterkte plaatsen geboden,werd van dien aard,
+dat aan de bevolking krachtige slagen dien
+
+den toegebracht te worden om de schrik er
+in., te brengen."
+Een onverdacht eetuige, luitenant
+Kempees, die als adjudant van de colonne
+
+commandant, de tocht heeft meegemaakt,
+vertelt omtrent de wijze waarop de schrik
+er in gebracht werd: *)
+dat vele malen de vijand door rook uit
+
+</text>
+<image timestamp="2002:08:21:02:21:54.00" size="456634">D40001GC.TIF</image>
+</page>
+</document>

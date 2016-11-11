@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060415</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De langzame behandeling van het Arbeidscontract-ontwerp.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 15 Aprii 1906.
+Amst. Boek- en Steenclrukkerij, v/h. Ellerman, Harms &amp; Co.
+KUYPER'S DAME: Nou ziel, nou kan je al niet verder. . . . eerst wat uitrusten, hè. ... en nou hebben ze zooveel van mij te kallen gehad. . . .
+ik was zoo'n luie sloerie. . . .
+'V. RAALTE'S DAME: Jawel, slons, maar van mij heeft er nog niet n kunnen zeggen, zooals van jou, dat ik de helft van den tijd dronken was.
+
+</text>
+<image timestamp="2002:08:10:11:27:53.00" size="422851">000000A8.TIF</image>
+</page>
+</document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280721</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+25 et
+KÈlZERSÖRACHt 333 - AMSTERDAM - CENTRUM
+l
+w;
+D0ÖIT
+IS DE IDEALE DEUR VOOR ELKE
+garage» box of pakhuis*
+SCHUIFT ZONDER BENIGE KRACHT OVER
+UW HOOF» TEGE1V HET PLAFOND.
+Vraagt Prijscourant K o. 7
+
+J, 6 G. STROBAND, N. Teertuinen 24, Amsterdam
+Telefoon 47139.
+HOFLEVERAICIEBS VAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+MONSIEUR
+6 ERKELENS
+WIJNHANDELAREN
+ROTTERDAM-LEUVEHAVEN34- Tel. 2456
+FILIALEN:
+DEN HAAG - Anna Paulownastr. 36 - Tel. 32532
+HELDER Hoofdgracht 37 Telefoon 83
+VRAAGT ONZE PRIJSCOURANT
+JUNI 1928
+AMSTERDAM
+RÓKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+fINBRAAK-, STORM- en
+WATERLE1D1NGSSCHADE~
+i VERZEKERING.
+HHli
+
+</text>
+<image timestamp="2002:09:04:22:46:13.00" size="124742">000006RH.TIF</image>
+</page>
+</document>

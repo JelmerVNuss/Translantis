@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000722</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+D.E AMSTERDAM MER W EEKBLAD VOOR NEDERLAND.
+Vérhooging van belastingen in Engeland voor Zuid-Afrika en China.
+Vaderlandsliefde. (La Séforme).
+CHAMBEBLAIN (foi Brittannia): »U mag in deze dagen wel op Uw zakken passen; alleen met m\j is U veilig..."
+
+De hoogere beschaving. (Life).
+In Frankryk... om den presidentszetel. In China... om den troon.
+
+Gevaarlijk voor de Beer. (Moonshine).
+DE KEIZEE : »John, we moeten een oogje houden op dat heer !"
+JOHN BULL : «Allright Wilhelm, maar ik denk w\j samen kunnen hem wel aan."
+
+Alles bekijken! Niets aanraken!" (Ulk).
+Voor volledige inlichtingen wende men zich tot de Filipinos
+en de Boeren.
+Geen oorlogstoestand. (Ulk).
+
+m
+zegt de eene buurman zonder afgunst tot den anderen.
+
+In China. (Fisehietto).
+
+Terwijl de mogendheden de grondvesten van het gebouw
+steunen, dreigen de mandarijnen met den top op hun
+hoofden te vallen. (Rladderadatsch).
+Wie zou aan de draden trekken 1
+(Fisehietto, Turin).
+'t Zou wel eens kunnen zyn dat de boxers van het
+Hemelsche R(jk niet de ware boxers waren.
+
+Hospitaalschandalen in Zuid-Afrika.
+(Moonshine).
+Fatsoen onder dieven. (Life).
+Chineesche schimmen. (Caran d'Ache in den Figaro).
+n r -i
+: «treet me mrjn [zwarte pak
+ik reis incognito."
+HET OUDE EUEOPA : »Zoo, is dat nu het Gele Gevaar, waarover ze
+zoolang hebben gepraat 1"
+w JOHN BULL (tot de heeren Wyndham en
+Bwrdett CoiMs) : »Ik schort my'n oordeel op,
+Mr. Wyndham. En ik zal u later mijn opinie
+BEIDEN : »In naam der menschelykheid, ge hadt scheidsrechterlyke zeggen over de kleur Mr Coutts "
+uitspraak moeten aannemen I" '
+
+</text>
+<image timestamp="2002:08:14:19:41:19.00" size="436011">D2000K6.TIF</image>
+</page>
+</document>

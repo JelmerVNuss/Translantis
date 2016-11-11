@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010630</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DEAMSTERDAMMER WEEKBLAD VOO R' NEDERLAND.
+Samenwerking van Katholieken, Anti-revolutionairen, Liberalen en Vrijzinnig-Democraten
+bij de Gemeenteraadsverkiezingen.
+TREIJB : Volgens wjy'4 beginsel heefc ook het Socialisme recht op vertegenwoordiging."
+FiBius ea di atiieren: »Gj hebt te kiezen tusachen hem en ons!"
+TREÜB (tot TAK): «Neem me niet kwalijk vrindja, gi miir naar huis; da broeisrdïh.ip mat daze hseran is mij te lief."
+H. M. Koningin Ranavalo van Madagascar te Parijs.
+(Hermann Paul in Figaro).
+Uncle Sam's groote toer. (L'/e).
+... Drie personen ten eten ?! ... llseft U.ve Majesteit da;v: permissie voor '!
+
+Frankryk, de Kozik en de Russische student.
+(Hermann l'aul in L'Amette au lieurre, l'aris).
+'t -j lastig, o:n lift evenwicht te i&gt;o\y:ren met zulke rumoerige lui.
+
+
+Onderling vertrou\v.:ii. ij-'iitj l'i'^rc^).
+: »Ea die groote is notabene mijn vriend en bondgenoot!"
+I)ri!-(.-i/;..'..v:j : tjontrc.1)?, .j? kiir.f v,-, l
+S VAN i'i: .• 'Ni i.s's: »\V:!t ! l:&gt;; ''Ui aih'vn
+l e J uu iiitt vm: iitJ
+KOOK VA_\ IJK JOXOU-NÏ: iNjen, missckien niet, maar jij kon ze wel eris opeten V"
+'•o'viïo;) IB\; ]Met tfi wachten.'
+nv.H dien pot Jam V'
+De oude firma. (Punch).
+DE KEIZERIN -WBDL-\VE VAN CHINA (tot den ouden Li Htrxa
+CHANU) : »Zij zeiden dat w\j de rechte lui niet op de rechte
+plaats waren en probeerden ons weg te dringen en daar
+zijn we nu toch op onze oude plaats weêroTi!"
+De terugkomst van Peking.
+(ïrn.r.Aiiiis: *Main*enarit (['ie voiis (":es revenu, il est temps, Maréchal,
+de rne fuire connni rfi Ie tc.-.nltat de votre mission en Chine.''
+AYAT.!&gt;i-:u*i-;i-: : -A'üa, Sire ... : la peau ! l !"
+Iiifl&lt;"Z'&gt;.{i!cii, door dj n liter &lt;le .//'&lt;;(,? te I'i'
+
+- ' '-' V
+.
+•^•••W^v % \Vv
+'
+
+Nieuw ontwerp voor Lot wapen
+van
+K;- .''AS;..
+De nieuwe tijdgeest. (Caran d'Aclia in I''/f/.T/&lt;&gt;).
+X -M U-.-dijr ' N.var B.'iüjn !
+: ,!ii-t lelroiji ken ik wei, maar het iioii
+j* is r.iet
+weer 't ma*
+
+
+</text>
+<image timestamp="2002:08:16:06:49:19.00" size="351758">D2000YS.TIF</image>
+</page>
+</document>

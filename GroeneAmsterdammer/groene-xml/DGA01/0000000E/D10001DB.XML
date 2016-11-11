@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18851011</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NV 433.
+A°. 1885.
+DE AMSTERDAMMER
+"WEEKBLAD VOOR NEDERLAND.
+Verschijnt eiken Zaterdagavond.
+Uitgeven: ELLBRMAS, HARMB A do.
+Kantoor: Singel 211.
+HoofH,Ag«ton: te Batavia, O. KOL»» * «o.
+Zondag 11 October.
+Abonnement per S/m.	f \.~. tt. p. p. f 148.
+Afisonderljjke Nummers aan de Kiosken verkrijgbaar a » 040,
+Advertentiën T»n 1—5 regels f 1.10, elke regel meer . O.JQ.
+. tnaschen den tekst per regel	« o.*o
+Bij dit nommer behoort een Bijvoegsel.
+INHOUD:
+Warae Kadetje*, E«n Zaterdagavondpraatje. XOVIJ, dooi
+Aquaritu.. . Dit h«t Haagje, LI, d«|- Pasquino. Blocnotes uit da Prinaenstad
+u, door Jaap Maatjes. Kan s t: Hetshoneel te Amsterdam, door Alb. Tb. Dot
+XrWöpetsr van SUsTsinget, beoordeeld dóór E. C. P. D. Internationale
+Kunslvere»nlglng. Uit Partfs, XXXK, door A. B. Letterkunde: Paul Margueritte,
+Ben proeve van Na^aialistiache kritiek I.Fran» Netacher.—Godsdienst bnifen het
+Onder«£e H.door Henrietts T^n der JJey.—Een vetdttiaterde Lofspraak, door G. v. 8. Fabre
+d*s BM»rt», 'tfeoordeeld door Searamonche XXXIII. Een Eogelsche dame over
+Holland, doer K. w. 3. Set Ideaal, door G. Waalner. O, Kinderlijk Qeloo», door
+. Waaïner. &lt;•&gt; lobood van Talschriften. Nieuw» Uitgaven. MilitaireZaken:
+Iets over d* werving en de Fremiën, door W. Feuilleton: Hollende Dick,
+uit het Engelsen TM B. Lynn Linton, (Slot) Schaakspel. Uit Ouïda's jongsten
+fcondeL • Brievenbus. NIEUWS VAN DE WEEK. Faillissementen. Over»
+zicht van' de Effectenmarkt. Te huur. Advertentiën.
+3 U ITE N L A N D.
+
+Naarmate het tijdstip der algemeene verkiezingen nadert, neemt
+de beweging in Engeland gaandeweg toe. Bijna dagelijks worden
+oor de hoofden der verschillende politieke partijen redevoeringen
+«t dékiezers gehouden, waarin de groote vraagstukken, die
+Enje.i;ind'$ binnen- en builenlandsche staatkunde bezig houden,
+ach0r«««volf«ns worden behandeld en de houding der partijen
+Jijfenoverdfe vraagstukken uitvoerig wordt uiteengezet.
+«Behthfft 4flor Kr Charles Dilke, die te CHelpea voor zijne kiezers ,
+optrad, werd ook door Lord Salisbury, den minister-president, het
+woord gevoed,, en wei op eene jaarttjksche vergadering van afge
+
+vaardigden van conservatieve kiosvereeoigingen te Newport. De
+Premier deed btj deze gelegenheid eenc poging om het verwijt
+te ontgaan dat h\j, door zijne houding tegenover den coup d'état
+van vortt Alexandcr v«n Bulgarije/fijn eigen werk (het Derlijner
+trictaat van 1878) lijdelijk liet afbreken. Dit tractaat had volgens
+here tot hoofddoel, het verdrag, van San Stefano nietig te maken;
+wejnu, het thans gevormde Groot-Bulgarije was niet het
+GrootD-jtyarjjc van San Stefano. Daarenboven had het nationale karakter
+in Bulgarije en Oost-Roemelie zich meer en meer ontwikkeld,
+zoodat de bepalingen van het Berlljner tractaat betreffende deze
+beide landen hare heilzame werking niet hadden gemist. Deze laatste
+conclusie i» intueschen aan gegronden twijfel onderhevig; immers het
+was juist, de oppositie tegen de bepalingen van het Berlijner trac
+
+taat, «n dus niet bet weldadig gevolg van de toen genomen maat
+
+regelen, die de Bulgaren en Roemdiörs tot elkander bracht.
+Wat Ierland betreft, verklaarde Lord Salisbury do onschend
+
+baarheid des Rijks van het allerhoogste gewicht; de regeering
+zou hare goedkeuring niet kunnen hechten aan voorstellen, waar
+
+door de positie van Engeland tegenover de andere natiën in ge
+
+vaar sou worden gebracht. Het zal intussóhen zeer de vraag zijn,
+of de Engelsche Regeering de noodige kracht bezit om zich op
+den duur te verzetten tegen de steeds luider klinkende eischen
+der ersche Homerulers. Algemeen is men het daarover eens,
+«lat hunne vooruitzichten onder de leiding van den heer Parnell,
+den ongekroonden koning van Ierland, bij de aanstaande verkie
+
+zingen alles behalve ongunstig zijn. Ten einde in het aanstaande
+Parlement behoorlijke waarborgen te hebben voor eene nauwe
+aaneensluiting van alle leden der Parnellistische partij, wordt aan
+de door baar gekozen candidaten zelfs de formeele verplichting
+opgelegd, om onvoorwaardelijk aan het wachtwoord van den heer
+Parnell te gehoorzamen en van hun mandaat afstand te doen, zoodra
+de pirty dit van ben gelieft te vorderen.
+Wat de Ieren wenschen, of beter gezegd wat zij eischen, is een
+afzonderlijk Parlement, eene wetgeving die, wat de huishoudelijke
+aangelegenheden betreft, onafhankelijk is van Engeland. Dit ersche
+parlement zou, als maximum, de controle moeten verkrijgen over
+het onderwijs, de openbare werken, de armenzorg, de
+rechtsbedeeling en de politie. De militaire raaeht zou blijven onder het
+gezag van de kroon, waardoor de Britsche suprematie en de
+eenheid des rijks van zelf zou worden gehandhaafd.
+Uit Soedan, waarvan men sedert eenigen lijd weinig belangrijks
+had vernomen, kwam deze week de tijding dat de Abyssinische
+troepen, onder aanvoering van Ras Aloelah, den 23sten Septem
+
+ber te Kerfit in de nabijheid van Amadeb, eene volledige over
+
+winning hebben behaald op de Arabieren; ook Osman Digma
+verloor hierbij het leven. Waarschijnlijk zal nu Ras Aloelah op
+
+rukken naar Kassala, dat sedert langen tijd door de opstandelingen
+wordt belegerd.
+• ••
+De algemeene verkiezingen voor de Fransche Kamer van Afge
+
+vaardigden zijn voor de republikeinen, en speciaal voor de groote
+partij der opportunisten zeer ongunsüg afgeloopen. Ofschoon de
+volledige uitslag op dit oogcnblik nog niet bekend is en bovendien
+een groot aantal herstemmingen (op 18 October) zullen moeten
+plaatshebben, valt nu reeds het feit te constateeren dat de con
+
+servatieven (imperialisten, monarchieten en dericalen) een enorm
+getal zetels hebben gewonnen. De radicale partij verheugt zich in
+eene kleine aanwinst en is van de herkiezing harer voornaamste
+woordvoerders zeker. Het zijn de gematigde republikeinen, het
+zoogenaamde »centre gauche", de &gt;union républicaine" en de
+Bimion démocratique" derhalve de partijen die de
+regeeringsmeerderheid van het voormalige Kabinet-Ferry uitmaakten die
+het gelag hebben betaald.
+Behalve aan het drijven der uiterste linkerzijde (de heeren
+Clémenceau c. s.) die reeds maanden achtereen een kruistocht
+heeft gepredikt tegen de republikeinsche meerderheid, en de mis
+
+slagen, door vorige republikeinsche regeeringen begaan, zoo breed
+mogelijk heeft uitgemeten, moet dit verschijnsel in niet ge
+
+ringe mate worden geweten aan den scrutin de liste, die bij deze
+verkiezing voor de eerste maal werd toegepast. In hoeverre deze
+verkiezings-methode, waarbij departementsgewyze en niet volgens
+de arrondissementen wordt gestemd, in het algemeen boven an
+
+dere de voorkeur verdient, blijve hier onbeslist; in elk geval ech
+
+ter is met deze nieuwigheid de proef genomen op een oogenbük
+dat de meerderheid zonder leider was, de linkerzijde volkomen
+gedesorganiseerd en de rechterzijde, bij groot verschil van mee
+
+ning op staatkundig en economisch gebied, door de leuze »strijd
+tegen de republiek'* vaster dan ooit aaneengesloten.
+In Tonkin gaan de [zaken nog niet naar wensen. Generaal
+Jamais de opvolger van den generaal Brière de l'Isle, die
+dezer dagen 4e terugreis naar Frankrijk heeft aanvaard is ge
+
+noodzaakt om weder offensief op te treden. Men voorziet, dat de
+Fransche troepen op ernstigen tegenstand zullen stuiten, daar de
+Zwarte Vlaggen zich hebben gereorganiseerd en sterke stellingen
+bezet houden. De minister van marine zal nieuwe credieten
+moeten aanvragen voor Madagascar, Obock en Tonkin. De mo
+
+narchalen en imperialisten zullen ongetwijfeld niet in gebreke
+blijven, om voor deze ongunstige berichten ten voordeele van
+hunne candidaturea gebruik te maken.
+"&amp;,;.
+
+</text>
+<image timestamp="2002:08:18:17:34:35.00" size="209739">D10001DB.TIF</image>
+</page>
+</document>

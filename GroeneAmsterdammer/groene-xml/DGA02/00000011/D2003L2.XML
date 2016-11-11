@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240524</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2449
+KLEIN KOPER WERK, gedraaid of gestamt, blank
+of vernikkeld levert tegen zeer lage prezen
+INGENIEURSBUREAU VAN NISPEN, ZWOLLE.
+J. D. STRUIJS * Zm.
+Prinsengracht 887 F. O. Hoofdstraat 140
+WEL. 37906
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+
+1595
+DROSTE3
+'lljiülliiiiiiiiiiii! jiiiiir
+BONBONS
+Een welkome versnapering
+-Alttjd'cïe1 beste
+•3 mi
+BAARN !
+Woningbureau van den Makelaar
+J. D. F. v. d. VEEN
+Nieuw-Baarnstraat 59
+STOPPAGE
+VAN ALLE
+Dames- en Keerenkleeding
+Costuum Model Persen f 1.25
+My VALET irom Londen
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 - Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+l P. C. HoottitriatSS, Amsterda». Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN El
+CREMATIES VAN UIT ALLE PLAATSEN l
+EIGEN LIJKKOETSAUTOMOBIELEN
+AKESFOORT
+ADR1AAN SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Snouckaertlaan 22-24
+TELEFOON 218
+Visch- en
+Tafelmosterd
+Clichés
+Voor alle doeleinden
+l NV
+P Oiem Kunstinrichting
+loirkSchnabei
+Amsterdam.
+House tor Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAKERIJ NAAE MAAT
+Weteringschans 45 :-: Telefoon 36845
+De N. V. Koek- en
+Banketfabriek
+HARTOC"
+Telefoon 23425
+Gerard Douplein 24
+AMSTERDAM
+fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concurreerend.
+OOK VOOR EXPORT
+GOOSEN &amp; SWAGERMAK
+PIANO'S, ORGELS, VLEUGELS
+KUNSTSPELPIANO'S
+ROEKHORSTSTRAAT 149, 's-GR AVF NH AC f
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+mmm s
+AMSTERDAM
+DEN HAAG
+Zuiver wollen Plaids
+T l O." en hooger
+Kemelharen
+Peluche
+Waterproof
+PLAIDS
+B. CT. IMITJL3DE12,S
+TUINARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon Sch. 810
+Illustratiedruk-papier van de Firma C. G, A. CORVEY Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:08:28:15.00" size="151907">D2003L2.TIF</image>
+</page>
+</document>

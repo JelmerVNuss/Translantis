@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260327</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2547
+J. D. STRUIJS Zn.
+
+Prinsengracht 837 P. C, Hooftstraat HO
+TEL. 37906 TEL. 29950
+
+Begrafenissen - Crematie - Transporten
+Koldewey &amp; Corbière
+
+Leidschestraat 30 ~ Amsterdam
+
+Specialiteit in: Wiegen en Kinderledikanten
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram
+
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+ELJASPSBOMMB:
+BOEKBINDER
+KERKSTRAAT 55
+
+AMSTEïRDAM
+
+FIRMA J. G. MEIJER
+2 Markten - GRONINGEN - Opgericht 1706
+SPECIALITEIT IN
+
+ECHTE GRONINGER KOEK
+van f l—, f 1.50, f2—f2.50, f3	enz.
+
+Franco per post 50 Cents verhooging
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL I
+HEILIGEWEG 11-17 - AMSTERDAM |
+
+Overhemden naar Maat l
+VERVAARDIGD OP EIGEN ATELIER |
+Bij ons verkrijgbaar |
+N. R. V. MONTA SCHOENEN I
+Wed. JOHN GAY'S Piccalilli
+
+blijft het mosterdzuur met de fijne pikante smaak!
+ENGROS BI] DE LIEVEGOED'S FABRIEKEN
+N.V. DE HOUTTUINEN" ~ AMSTERDAM
+Verweegen 6 Kok
+AMSTERDAM
+DEN HAAG
+00 J0000000O00 *0000O000O0000000000O00O0000O00000000
+FIRMA KRONER
+
+Nieuwendijk 167, Amsterdam
+OPGERICHT 1847 - Telefoon 43186
+LINGERIES en ZAKDOEKEN
+
+Linnen, Gnisiinnen, Crefonne en Madapolam voor
+
+Lakens, Sloopen en Ondergoederen, .liclit Neteldoek
+
+0000000 500000 .000000000000000000000000000000000000
+B,
+ULDERS
+TUINARCH1ÏEC
+Gevers Deynootweg 117 Scheveningen
+TELEFOON 50810
+
+</text>
+<image timestamp="2002:09:25:06:38:31.00" size="142243">D10007GB.TIF</image>
+</page>
+</document>

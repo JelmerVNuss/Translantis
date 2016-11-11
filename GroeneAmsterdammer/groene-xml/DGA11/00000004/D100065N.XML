@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270122</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2590
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in:
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+CICXIRETTE/
+
+TURKI/HN?5
+De dagelijks stijgende
+vraag naar deze sigaret
+is hel beste bewijs voor
+de prima kwaliteit.
+BEGRAFENISVEREENIGING
+
+N. SAX ]r.
+P.C. Hcoftstraat 38 AMSTERDAM Telef.: 20341, 34250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+OGEN LJJKKOETSAUTOMOBIELEN
+graiuiUiUiuiiimimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimimiiiiiiiin
+
+ADRIAAN SCHAKEL "
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat !
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+iiiimHiiiimiiNiimimmimminmimiiimnmiM
+Wed JOHN GAY'S PICCALILLI
+• BUJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+- ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN-.AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M AMSTERDAM - Tel. «662
+MARMERWERKEN
+ELJASPIBOMMB:
+BOEKBINDÖ*
+KERKSTRAAT 55
+
+</text>
+<image timestamp="2002:09:20:21:57:32.00" size="143636">D100065N.TIF</image>
+</page>
+</document>

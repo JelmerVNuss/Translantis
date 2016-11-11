@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250523</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ir
+&lt;f$
+
+'•• 10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2502
+J. D. STRtJIJTS &lt;&amp; Zn.
+Prinsengracht 837
+TEL. 37906
+P. G.Hooftstraat 140
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+UIIIIIIMIMtllfimilllllllMHIIIIIIIIflII
+
+Zwitserland
+jifmifiiiimiiiiiMfiiiiiiiiiiiiniiiiiiii
+1100 M M. Zee
+iimiiJiiiiiiiiifiiimiiiiiMJiiHifiiiiiii
+and
+
+WHITE&amp;QOLD
+SCOTCH WHISKIES
+45°.' - 45*!
+SoU
+VAN BEUNINGENSTRAAT 5O
+OEN MAAG TEL.5268I
+.
+J
+BEGRAFENISYEREENIGINGl
+N. SAX Jr.
+P.C. Hooltstraat 38 AMSTERDAM Telef.: 20341, 242501
+REGELING VAN BEGRAFENISSEN EN
+[CREMATIES VAN UIT ALLE PLAATSEN
+(EIGEN LIJKKOETS AUTOMOBIELEN l
+Moderne Kuurplaats in het Berner-Oberland
+
+GRAND HOTEL ALPINA
+1ste Rangs Fam. Hotel, het mooist in deze streek gelegen. Schitterend
+uitzicht op het Gletschergebied van Wildhorn, Oldenhorn, Diablerets. np
+Centrum voor excursies. Tuin, Bosschen, Tennis. Pension vanaf fr. 12.-. Db
+Prosp. door den Eigenaar en Leider E. BURRI—JAGGI. kost slechts f3.—per kwartal of
+f 10.—p. j. bij vooruitbetaling
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+SpoolBlItolt la i
+WIEGEN • KINDERLEDIU.
+Alphen a/d Rijn.
+DROSTE'S
+BONBONS
+PASTILLES
+Ctlüid welkom
+ADR1AAM SCRAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Blaat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar ~~~~~~^~~~~~~
+M. R. V. NONTA SCHOENEN
+NIET ALLEEN onze Mayonnaise-Bickles brengen de fijnproevers in
+verrukking; nog een ander nieuw artikel maakt thans grooten opgang.
+nl. onze Kerse,-Limonadesiroop. LIEVEGOED's KERSEN
+
+LIMONADE wordt DE HEERLIJKE, VERFRISSCHENDE,
+NIEUWE ZOMERDRANK VAN 1925.
+BESTELT TIJDIG BIJ UW LEVERANCIER.
+N.V. DE HOUTTUINEN" AMSTERDAM
+GERARD B. RIJKE Jr. - BINNIH JÜCHITECTÜUR
+COMPLETE MEUBILEERING
+VERPLAATST VAN AM ST E L 1 2O-1 22
+NAAR
+KEIZERSGRACHT 559
+IN VERBAND HIERMEDE is ONS TEL.-NUM M ER GEWIJZIGD IN 30559
+Kleedermakerij naar Maat
+voor Damts
+en Hiiran
+II. K K M N E K.
+voorheen Coupeur dar Firma P. M. BROEKMANS, Koningsplein, Amsterdam.
+B1LDERDIJKPARK 9 b/d. de Clercqstr, Telefoon No. 29891
+Colbert Costuums van af .... f «5.—Moderne COUD8.
+Demi Saison van af . . . . . 5O,—_ . . ..fi__
+Manteicostuums van af. . . . «s.—rnma arwemng.
+Stalen op
+'»*.
+'T BINNENHUIS
+OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY GLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: PRINSENGRACHT 707A
+B. J. MULDERS
+TUINJLBCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO8IO
+
+</text>
+<image timestamp="2002:09:03:11:33:22.00" size="123642">000005N5.TIF</image>
+</page>
+</document>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321119</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+PRIJSVERLAGING
+Repareeren
+Veranderen
+Stoppage
+Xeeren
+
+Costuum
+stoomen
+3.90
+COSTUUM f f\f\
+PERSEN • • • I«W
+
+MY VALET
+AMSTERDAM:
+Paleisstraat 15, Telefoon 44915
+Willemsp. we» 175, Tel. 20333
+Ceintuurbaan 149, Telefoon 21449
+lavmtriatST, Telif. 1506
+sr Telefoon" MT
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRIJZEN
+ADRIAAN SCHAKEL
+HEILIGEWEG - TELEFOON 37273
+Sea^Horse
+de allerbeste
+9 Moutwyn Jenever
+M.P.POLLEN £ ZOON ROTTERDAM
+Cigarros Cadena
+IN DE VOORNAAMSTE
+SIGARENWINKELS
+VANRIJN'S
+Daar komen ze weer i
+
+De Droste-chocoladeletters die elk jaar
+opnieuw zoo uitermate worden gewaar
+
+deerd als Sint Nicolaas-geschenk. Omdat
+ze 200 zeldzaam fijn van smaak zijn!
+En van de vermaarde Droste-kwaliteit.
+Van dezelfde kwaliteit zijn ook
+Drostebonbons, Droste-pastilles,
+Droste-doubletten en al die andere Droste-producten.
+Doet als die Drostemannetjes. Draagt
+een Droste-Chocoladeletter aan voor hen
+die ge verrassen wilt. Want alom geldt:
+DROSTE
+ALTIJD WELKOM!
+Spaart plaatjes voor het nieuwe album ,,Bali".
+UITGAVEN VAN
+J. B. WOLTERS
+GRONINGEN
+DEN HAAG
+B A T A V l A
+SEM DRESDEN
+
+ALGEMEENE
+MUZIEKLEER
+
+Naar den elfden druk
+van J. Worp-S. van
+Milligen geheel op
+
+nieuw bewerkt
+Prijs .
+f 5,90
+KLEINE MUZIEKLEER
+
+Naar den
+zeventienden druk van J.
+WorpS. van Milligen geheel
+opnieuw bewerkt
+Prijs .
+2,25
+tuepii:
+en har
+S. VAN M l L L l G E N
+met medewerking van
+SEM DRESDEN
+
+ONTWIKKELINGS
+
+GANG DER MUZIEK
+VAN DE OUDHEID
+TOT ONZEN TIJD
+
+Prijs, in linnen f 12,90
+In half leer . - 14,90
+Di( zi-cr i;.'fil s;f- Jireven. een
+VERKRIJGBAAR BIJ DEN
+BOEKHANDEL EN BIJ
+DEN UITGEVER
+
+</text>
+<image timestamp="2002:09:27:13:31:01.00" size="158837">00000AQR.TIF</image>
+</page>
+</document>

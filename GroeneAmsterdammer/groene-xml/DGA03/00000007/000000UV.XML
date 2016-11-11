@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070519</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een Spaansch-Engelsche idylle.
+BIJVOEGSEL van Ue Amsterdammer, Weekblad voor Nederland van 19 Mei 1907.
+'
+i««sraBl&lt;«*&gt;,\s
+piiöpwBüsy ' ^
+sw^^s^^
+
+
+.ÏS^aüSfi^* * -.
+r*, -* /.:
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+KONING ALFONSO (tot Koning Edivard]: En wat zegt U nu van dat snoetje ?
+
+
+KONING EDWARD : Verrukkelijk hè. Ik voel er compleet voor als voor een Engelsch kindje. . , .
+
+</text>
+<image timestamp="2002:08:12:13:31:49.00" size="495078">000000UV.TIF</image>
+</page>
+</document>

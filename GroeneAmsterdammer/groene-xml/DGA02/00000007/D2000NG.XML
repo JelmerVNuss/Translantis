@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001014</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een College in diplomatie.
+BIJVOEGSEL/ van de Amsterdammer, Weekblad voor Nederland, van 14 October 1900.
+Amst. lïoek- en Steendrukkerij, v/h. Ellennan. Ilarms «N: ('o.
+I'ro!. J)i: LOUTER: -Zi&gt;i&gt; IS" versta mij wel, hooggeacht auditorium, zijn heelt hier de beteekenis van zullen, no.n' prcrieser: van zullen worden
+'&lt;?/." -.vil ik dus /.eggen: »;///•/ ^ zedelijke keur der natie niet de leiding der internationale betrekkingen worden belast, iniinr !:et l&gt;I'nl:end en wisselend seln/iin,
+-''.' wind op de golven der diepe wateren strooit." En al weder verzoek ik u wel te willen onderscheiden. Schuim der natie !&gt;etcekent hier niet -/•/?.V;
+v&gt;i'\ -loo i! iv.et denken aan schuimbekken, het Tcrlnim, uf aan scheerliekken, het sitbsianliej; ook niet aan het schuim \an den schuimspaan; nog
+cr ;:.an het schuim van den ad:i&lt;&gt;e,iut, een drank, «dien ik van nabij en ambtshalve ken"; ook in het geheel niet aan het Mvvv-schuim; neen, liet sein/in;
+,;i ui clc (tiplomaten-wereld waarnemen, is het schuim der zee. dat in het zonlicht glinstert, daar boven de baren trillend aan de oppervlakte van
+Vcuan. ...
+
+</text>
+<image timestamp="2002:08:15:03:38:51.00" size="355115">D2000NG.TIF</image>
+</page>
+</document>

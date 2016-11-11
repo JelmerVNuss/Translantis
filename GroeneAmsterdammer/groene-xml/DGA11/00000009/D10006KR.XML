@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270618</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER VAN 18 JUNI 1927
+No. 2611
+J. D. STRUIJS &amp; Zn,
+Prinsengracht 837 Telefoon 37906
+Begrafenissen .- Crematie - Transporten
+DE NIEUWSTE MODELLEN
+VOOR
+f! LENTE EN ZOMER
+II VAN DE BEKENDE
+
+Ik
+KNIPPATRONEN
+IN AMSTERDAM
+EN DEN HAAG
+
+UITSLUITEND
+BU ONS VERKRIJGBAAR
+PRIJZEN
+15 40 60
+ZOO JUIST VERSCHENEN
+
+DE MODEBLADEN
+
+LA FEMME ELEGANTE" . . . 0.30
+(VERSCHIJNT IEDERE MAAND)
+
+LA MODE DE PARIS"	1.00
+
+
+VERKOOP EERSTE ETAGEl
+s=E BIJENKORF
+
+
+
+CjiV-e
+
+lt o\
+
+-. C/.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LÏJKKOETSAUTOMOBIELEN
+lfl!lll!llllll!!lllllllllllllllinilllllllll!ll[lllllllll!lllllllllllllllll|]|l!llllll!m
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar i
+
+N. R. V. MONTA SCHOENEN |
+
+^miiiiiiimiiiiimiNiiiiiiiiiiiiiiiiiiiiiiiiiiiNiiiiiiiiiiiiiffliiiiiiiimiiiiiiimiim
+Wed JOHN GAY'S PICCALILLI
+tUIFT HET MOSTERDZUUB MET DB FIJNE PIKANTV SMAAK l
+BNGROS BI) DB UBVBGOBDY FABRIEKEN
+
+N.v. ..DE HOUTTUINEN". AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAPENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+Stoomboot-Maatsdbu De Volharding'
+
+Naar 't KALFJE en OUDERKERK
+Afvaart Amstel b/d Achtergracht. Tel. 40187
+Naar Vliegveld Schiphol en Aalsmeer
+Afvaart Schinkelkade.
+LEIDEN AMSTERDAM v.v.
+
+via KAGERMEER—AALSMEER en SCHIPHOL
+
+Van en naar Den Haag in aansluiting met de Haagsche
+Tramweg-Maatschappij.
+
+Zie uitgebreide dienstregeling.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+
+Complete Meubileering
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+PEEK £ CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:10:35:15.00" size="107640">D10006KR.TIF</image>
+</page>
+</document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320227</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 27 Februari 1932
+No. 2856
+OnderL Glas-Verzekering-Mij*
+GEVESTIGD TE AMSTERDAM OPGERICHT 1876
+Kantoor: KERKSTRAAT No. 69 Telefoon 42163
+Directie: Mr. K. F. A. VAN DER BREGGEN
+Verzekeringen tegen vaste jaarlijksche premie, voor schade door breuk aan
+:-: :-: SPIEGELRUITEN, SPIEGELS of andere RUITEN :-: :-:
+IJVERIGE VERTEGENWOORDIGERS GEVRAAGD
+Hl DE flURLEMSCHE
+HYPOTHEEKBANK
+Leden der directie: ^&lt;S±1S^ Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. THIERRY DE BYE DOLLEMAN
+Pandbrieven f 40.583.700.
+Hypotheken f 41.152.862.
+Reserves
+f 979.170.
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+Een polis der
+LEVENSVERZEKERING
+Mü- ARNHEM"
+is een waarborg voor het welzijn van Uw gezin.
+.y Insulaire Hypotheekbank
+te ZIERIKZEE.
+
+
+Uitgifte van
+5 % Pandbrieven a 99 %
+N.V. Bataafsche
+
+Hypotheekbank
+AMSTERDAM
+Anno 1889
+Geeft uit tegen beurskoers:
+5 % PANDBRIEVEN
+in stukken van
+f 1000,-,f500,- en flOO,-.
+Coupons Januari en Juli
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5 % Pandbr. tegen beurskoers uit.
+DE GROENE AMSTERDAMMER
+Weekblad vaar Nederland
+kost slechts f 2.JO per kwartaal (f 0.20
+voor incassokosten) of fio.—per
+jaar bij vooruitbetaling
+HYDRAULISCHE
+
+REMMEN
+
+MET DUBBELE OLIECYLINDERS
+EN LEIDINGEN VOOR DE
+ACHTER- EN VOORWIELEN
+
+Twee oliecylinders - n voor de achter
+
+wielen en n voor de voorwielen - geven
+de hydraulische remmen van eiken FIAT
+de meest mogelijke bedrijfszekerheid.
+
+De veiligheid van Uw gezin en
+van Uzelf maakt b ij den aankoop
+van een nieuwen wagen een punt
+van ernstige overweging uit.
+
+
+Laat daarom Uw nieuwe wagen
+een FIAT zijn!
+
+
+FIAT R IJ DEN IS
+VEILIG R IJ DEN!
+IMPORTEUR:
+J.LEONARD LANG
+STADHOUDERSKADE 114 - TEL. 27100 - AMSTERDAM
+
+
+GENTEN IN ALLE BELANGRIJKE PLAATSEN IN NEDERLAND
+
+</text>
+<image timestamp="2002:09:26:17:35:55.00" size="135706">00000A14.TIF</image>
+</page>
+</document>

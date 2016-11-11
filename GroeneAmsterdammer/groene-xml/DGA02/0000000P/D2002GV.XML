@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050806</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Koning Leopold's redevoering in Antwerpen.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 6 Augustus 1905.
+Amst. Bock- en Steenclrukkerij, v/li. ICIlL-rman, Harms .Xr Co.
+
+LEOPOI.D (tot Antwerpia): En nu willen ze je wijs maken, mijn beste Antwerpia, dat het me te doen zou zijn, om je stad met forten in
+te sluiten; om een groot leger, d. w. z. om je eigen en 's lands zonen tot kanonnenvleesch te maken... en ook jou geld hij millioenen
+te nemen voor mijn militaire liefhebberijen... maar geloof daar niets van. Kijk maar eens door dit glaasje... en wat zie je ? Niets
+dan havens, dokken en schepen... dat is 't waar ik aan denk...
+ANTWERPIA: Lieve toovenaar!
+
+</text>
+<image timestamp="2002:08:22:05:35:03.00" size="458545">D2002GV.TIF</image>
+</page>
+</document>

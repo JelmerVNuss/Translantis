@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300524</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 24 MEI 1930
+No. 2764
+Schopenhauer's Aphorismen van Levenswijsheid
+bewerkt door Gharivarius
+DERDE DEEL. MEN ZEGT
+I
+Het veel te zwaar gewicht, dat men gewoonlijk hecht
+Aan 't oordeel van. 't publiek, aan 't wat-Men-van-u-zegt,
+Die zeer verbreide fout toont onweerlegbaar aan,
+Hoe ver de menschen van de ware wijsheid staan.
+Ik aai een poes zij spint. Ik streel een lam het blaat.
+Ik vlei een mensch een lach verschijnt op zijn gelaat,
+Gelijk ik even snel zijn boozen blik verwek.
+Indien ik zijn voortreflijkheid in twijfel trek.
+Verwant zijn mensch en dier, in lichaam en in geest:
+De mensch, zei Franklin, is een werktuigkundig beest.
+
+II
+
+Wat zal Men zeggen?" Deze vraag rijst allereerst;
+Dit is de kwestie, die ons handelen beheerscht.
+De stem van eigen smaak of rede wordt versmoord
+Door 't afdoend argument: ,.Dat doet Men zoo. Dat hoort.
+De bronnen van geluk, die 'k reeds ter sprake bracht,
+De echte schatten, worden minder waard geacht.
+Het wat-Men-van-u-zegt, zoo neemt de massa aan,
+Dat is de ware quintessens van ons bestaan.
+Het striemt gelijk een zweep, het knelt gelijk een klem,
+Het combineert de taak van drijfveer en van rem.
+
+III
+
+Toch toont reeds 't oppervlakkigst onderzoek u aan,
+Hoe deze twee factoren tot elkander staan:
+,,Ik ben" is uw terrein ,,hij vindt" is zijn gebied,
+Dit komt dus hierop neer: zijn oordeel raakt u niet
+Behalve voor zoover de meening van dien man
+Zijn houding tegenover u verandren kan:
+En als gij, hoe dan ook, van hem afhanklijk zijt.
+Dan richt g' u naar den eisch van zakelijk beleid.
+Geen waarde inzichzelf heeft wat-Men-van-u-denkt,
+Wel nut, indien uw goede naam u voordeel schenkt.
+IV
+Indien gij deze diepe waarheid wel beseft.
+Dat wat een ander denkt, niet u, maar hem betreft,
+Dan laat u blaam en lof der waereld ongedeerd.
+In trouwe, als gij 't menschdom beter kennen leert,
+En opmerkt, wat zijn oordeel in den regel leidt:
+Vooroordeel, dwaalbegrip en oppervlakkigheid.
+En voorts hoe vaak die Men, onbillijk en onjuist,
+Den imbeciel vereert, den man van geest verguist,
+Dan voelt gij dat wie 't acht, of Men hem laakt of prijst,
+Aan 't vulgus inderdaad onmatig eer bewijst.
+
+V
+
+Wat is de groote hoop erba-melijk banaal.
+In denken en in doen, in humor, smaak en taal.
+Eenvormig als de kleeding, woning en dieet,
+Is 't innerlijk bestaan van wat de wereld heet.
+Wie maar in iets van 't vastgestelde dogma wijkt,
+En voorval, feit of mensch door eigen bril bekijkt.
+Wordt onverwijld verklaard voor gek of voor fantast,
+Voor iemand, die niet goed in nette kringen past.
+Wie, die zich respecteert, /.al dan voor zulk een Men
+Vrijwillig afstand doen van 't fier besef ,,Ik ben"?
+
+VI
+
+Een sterfgeval. Een chef. een leider, een patroon.
+Een advertentie van zijn weduw of zijn zoon
+Vermeldt liet in de krant. Dat is natuurlijk goed.
+Omdat, je zulke dingen eenmaal weten moet.
+Maar vlak eronder komt er dan een lange rij.
+De zwagers, 't personeel, 't bestuur der maatschappij,
+Plechtstatig kondschap doen, in letters vet en groot:
+De weeuw heeft niet gejokt, 't Is waar, de man is dood.
+Ken ridicuul gebruik, .luist. Dit ontken je niet.
+Maar wat zou Men wel /.eggen, als je dat eens liet i'
+VII
+Een onderneming heeft een jaar of wat bestaan.
+En moet, dat spreekt vanzelf, aan 't jubeljeeren slaan.
+De nationale kwaal. Dat is tot daar aan toe.
+'t Is voor reclame goed. Dus viert men feest. Maar hoe'"
+De andre zaken zenden bloemen naar 't kantoor
+Voor duizenden. Dat gaat den gaiischen morgen dooi'.
+Liefdadigheid vangt bot. Maar bij een huldiging
+Ligt goud voor 't grijpen klaar. Zelfs voor een zaak, een ding.
+In Indiëgedijt die malle mos het best,
+Maar waar wordt Men gevreesd als in ons wingewest 'i
+TELEFOON
+door Cel 2
+Juffrouw, de Ennes, alsjeblieft.
+De
+Edua?d-Nico-Nico-Sebastiaan!
+Juist, juffrouw, de
+Nederlandsche Spoorwegen.
+Neen, niet over deKleine Dool
+
+hof".
+Noemen ze dat ding dan bij u
+soms een Gids"?
+
+
+Welke afdeeling? Geeft u me
+maar die van de verloren voorwerpen.
+Dank u. ... Met den chef van
+de ,,Verloren Voorwerpen"?
+
+Bergt u al de dingen, op die ver
+
+loren raken?
+Ook die de Spoor zelf verliest ?
+Wat ik bedoel? Bijvoorbeeld de
+verloren kansen van de N.S.
+Noemt u dat geen verloten kans
+als je een spoorlijn hebt die de grootste
+stad van het land verbindt met de zee
+en je laat hem zoo goed als
+ongexploiteerd ?
+
+
+Ja. meneer. De kans van de lijn
+Amsterdam—Zandvoort moet ergens
+bij u liggen, tusschen de vergeten
+paraplu's en de nooit opgevraagde
+muziektasschen.
+
+Ja, meneer. Een lijn met een
+achterland van zeven en een half
+honderdduizend mensehen van wie er
+minstens vijf maal honderdduizend
+a?jn het springen sta "Mi op warme
+avonden om een luchtje te scheppen
+aan het strand en je laat ze thuis, je
+doet niet de minste moeite om die
+honderdduizenden klant jes binnen het
+half uur te brengen waar ze wezen
+willen!
+Twintig minuten, meneer, een
+half uur van zee en strand!
+De zuurstof en de ozon zoo voor
+het grijpen, om nog maar niets te
+zeggen van de voeten die gebaad
+worden en die onthoudt uw maat
+
+schappij aan heel de hoofdstad!
+Ja, meneer, laat u die juffrouw,
+die haar jarretel komt terug vragen,
+die zij in den trein verloren heeft, maar
+even wachten. Daar ligt op nog geen
+dertig kilometer van de stad een plas
+gezondheid, daar ligt een clientèle
+die niets liever verlangt om bediend
+te worden, goedkoop en snel, en daar
+is een spoorwegmaatschappij voor wie
+het een klein kunstje moet zijn om een
+dienst in te richten om de tien minu
+
+ten
+Maar meneer! Slaat u uw ..Kleine
+Doolhof" eventjes op bij bladzij 3 en
+wat ziet u daar? IJe dienstregeling
+tusschen Rotterdam en Schiedam en
+waarom kan de X.S. de Rotterdammer
+wel om de tien minuten voeren naar
+Schiedam, maar de Amsterdammers
+niet naar het zoo veel gezondere
+Zandvoort?
+De Gooierskinderen vervoeren
+jullie wel in de middagtreinen in een
+soort beestenwagens, dus zoo erg zal
+jullie geweten niet knagen als je ook
+de Amsterdammers een beetje hard
+laat zitten en schommelen.
+Breng het over, meneer, en kijkt
+u nog eens goed ot' op de bovenste
+plank niet de verloren kans Amster
+
+dam—Zandvoort ligt. Tot van 't zo
+
+mer, meneer, in liet gemengde bad!... .
+
+</text>
+<image timestamp="2002:09:25:16:46:24.00" size="174891">0000098H.TIF</image>
+</page>
+</document>

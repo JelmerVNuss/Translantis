@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271217</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+per
+KEIZERSGRACHT 333
+
+AMSTBRDAftl - CENTRUM
+TELEFOON J7»M
+!.•••* • •«••» 15'«*at*
+VRAAGT
+VAN
+eiJSIEBÏELDS
+
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+• EXPORT
+A K ZU R C H ER
+CARTONNAGEFABRIEKenDRUKKERIJ
+QOIERSGRACHT64'66-68-70'72,AMSTERDAM
+EENHEIDS-POLIS
+j .L (IDEALE JNBOEDEL-_EN OPSTAL-POLIS)
+
+INBOEDELS'in woonh, 21/2"°/oo p.a.
+
+OPSTALLEN van 1'/4°|oo
+(Brand, Diefstal, Waterl. schade, Storm,
+Bagage, Verhuizing enz.) |
+Vraagt prospectus
+UNION"n.n Ag.A&gt; D. BEERENDS &amp; VEEREN
+Ao 1714 ' ' AMSTERDAM
+N.V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+
+BOEKENKASTEN
+VOOR BETERE WEUBELEN
+
+ARNOLD HOÜTSCHILT
+
+AMSTERDAM
+R&amp;AT-HS
+MftAR
+
+KARELI
+SEdRAFEMIS ilMDERME
+T'V"°01 &amp;. Küri i M G . J R
+ltUWl. l -:'.,EL5TRAAT 01
+(AARALLt PLAATS CM
+AUTO-BOOTEN
+Lang SM.Snelh. ±20 K.M.
+Ruime Cockpit, 8—9 pers.
+Uit voorragd leverbaar
+Werf Nicolaas Witsen"
+STOEL - ALKMAAR
+Tl MTU R
+N.V.V/H
+H-A-KLOOSTERHÜIS
+AMSTERDAM
+BRANDBLUSSCHER
+
+.HOUANDIA'
+SPANJAARD&amp;C2
+FABRIEK ESPAfjA
+UTRECHT
+CLASIE, CASPERS &amp; Co.
+Behangerij Ameublementen Stoffeerden]
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT13, Telefoon 37354
+l
+l
+
+ABDULL^
+CIGARETTES
+173NIW BOND5IBEET
+10NDON-W».
+
+</text>
+<image timestamp="2002:09:22:08:19:15.00" size="181337">D100075H.TIF</image>
+</page>
+</document>

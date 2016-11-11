@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280303</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER VAN 3 MAART 1928
+No.|2648
+- Lijmt ALLES
+SLEIPNER
+Jj€taste sujorct uoor3c
+MODELLEN 1925
+TENTOONSESTELD
+P.C.HOOfT5TR: N§47
+EETKAMER /OK
+EIKEN MET PAU&amp;5ANDEP/./ l
+CONSTRUCTIEF-DESELUK '-\trnJ
+WOONKAMER 7AA
+NOTEN MEIWBTELfttlBlfN /(IN
+ELEGANT.6EZELU&amp; /VV
+SLAAPKAMER
+MAHONIEHOUT
+EENVOUDIG- RUSTIG
+DEZE DRE1R/R
+KAMER5wy
+UITSLUITEND OP £IGEN
+WEMPLAAT5EN VCRVAAPDIGD
+KAN IEDERE OPDRACHTGEVER
+ZUN WEQKZIEN UITVOEREN
+ONBEPERKTE GABANTIE
+AUG. KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+RESTANT
+N
+Partij H. linnen Theedoeken	39 cent
+Partij zuiver linnen Theedoeken	65 cent
+Partij zuiver linnen Handdoeken	75 cent
+Restanten Tafellakens en Servetten
+Restanten Bedlakens en Sloopen
+Restanten Lingerie ZICHTZENDING FRANCO
+BOUWT IN HET KINHEIMPARK
+te Bloeraendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+••bijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort «n
+•u dc electrische tram
+Buiten het door Haarlem geannexeerde gebied. Lage belasting.
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binneniandoche Exploitatie Maatschappij van Onroerende
+Goederea te Bloemendaal, lepenlaan 1 (Telefoon 22504).
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+
+PRIJZEN VAN
+f 65,~- af
+EUASPgBOMMB:
+BOB^BIINDER
+KERKSTRAAT 55
+AM3TBRDAM
+D.OBERINK
+
+Amsterdam, Prinsengracht 456. Tel. 37452
+
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+fi A fïORX/FY A MQTF* RH A M
+« Vla M. \SV/I\VCT, MlTlO l ELKfcJMIYI
+ROTTERDAM—GRONINGEN'
+UTRECHT ALMELO
+
+</text>
+<image timestamp="2002:09:04:06:37:59.00" size="115901">000006CD.TIF</image>
+</page>
+</document>

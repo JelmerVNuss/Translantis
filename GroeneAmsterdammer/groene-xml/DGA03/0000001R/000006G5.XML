@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280407</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r ,,^,
+eefcblod-voor Nederland
+4. 9tr &gt;~fM.~
+im f 0.75 per rtgcl
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 379C4
+lommt nummer» X cent»
+•'%r
+ir -v
+^Uerkrygèaar byde. voornaamste.
+ANNEIR - MEN • EEN
+RADÏO-TOE5TEL KO3PT
+overtuigt U du, &lt;Ut dit het
+beite n Bij vrienden lull U ODjttwijfcId
+een N. S. F. Ridio-toeitel kunaen hooien.
+Zij lullen U «&lt;Wtren, dit
+NedeiUndich hbrikut te koopen.
+
+De N. S. F. 4 wuibor|t selectiviteit,
+zuivere en VucSlije luidjpreter-ontvinpr,'
+•cherpe «(«(emmins op elk jewentcrit
+Euiopceich omroeptuiion vu beteelunis,
+en ... U een verzorgd meubel. Een
+bmnenhui^imenne • {«II voUoendo
+M1DERLANDSCHE
+SE1NTOE5TELLEN-FABRIEK
+De prijs van het N.S.F. 4 radio-ontvangtoestel, I MC Dit
+inclusief 4 PHILIPS'LAMPEN, bedraagt l UU.OU
+Gaarne geven wij U eene opgave onzer agentschappen
+N.v.yM
+HA-KLOOSTERHUIS
+AMSTERDAM
+ó. &amp; A. C. VAN ROSSEM,
+ROTTERDAM.
+
+</text>
+<image timestamp="2002:09:04:10:41:20.00" size="158111">000006G5.TIF</image>
+</page>
+</document>

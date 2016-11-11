@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381105</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l Pilsener of Amstel Mfinehener
+- aan U de keus!
+Maak Uw avonden gezellig... U heeft het in Uw eigen hand! Want - zooals U weet - zijn]
+er voortaan Dubbele Amstel Stoopen met Amstel Pilsener, zoowel als met Amstel Münchener!
+DubbtU AmOtlSttop, Mxud 5 Littr Amsttlbitr (Piktner of Münchener) f. 2.25 Allén verkrijgbaar bq Uw bierhandelaar!
+
+AMSTEL BROUWERIJ
+Ibf A 1SI l£ C* V AMSTERDAM :Voodebtraat 140, tel. 80942
+f™ M. 1^1 I-« V» H HAARLEM: LinnaeusUum 21, teL 10062
+A w^ «»* i^ntTi HILVERSUM: Spamlaan 16, teL 7224
+AU. JvLiHiSH ROTTERDAM:Kraltogschewegfcl20, teL 50207
+l M4. M. A. PELS RIJCKEN
+t PH. R. MULDER TEN KATE
+BRUMMENSCHE RIJSCHOOL "WgtfZZ**
+Instructeur: d* Ht.r L. A. TERRANEA
+Ad|. Onderoff. Instr. Ber. ArtllUri* b.d.
+IN MANEGE OF BUITEN
+VGRAVENHAAGSCHE MANEGE, Bibliotheekstraat l en 2
+B. J. J. HIIJfSTRA
+TcUfoon 118066
+BIJTI/E88EN - PENSION - STALLING - HANDEIi
+IN BIJJPAABDEN - UAANJDPAABDEN
+en meest
+gere« nomineerde ter plaatse.
+Eerste kl. materiaal. Opl.20 lessen f30.-. Prosp. op aanvr. Tel. 2336
+AMSTEL GARAGE
+Weispam'jda 143. Tal. 53218
+Wij ^arceren, wassohen, smeren, halen en brengen uw auto
+l*rij/«*ii vanaf f 15.- per muunfi
+Onze 30-jarice ervaring is een waarborg voor goede service
+Sfofling voor 100 auto's - Dag en nacht geopend
+I.V. HWSCIÜPPI) VOOI
+HYPOTHECAIR CREDIET IK NEDERLAND
+|* i» H.V. MAASTRICHTSCHE
+HYPOTHEEKBANK VOOR NEDERLAND)
+IWMtlH U-t-MAÏENHAaE. HASSAUUAN M.
+VERKRIJGBAAR l
+3V2%PANDBRIEVEN,
+met 2% uitloting per Jaar,
+
+100%
+Cemrenie 99 i % Vrijwillige conversie 991 %
+talen!
+D. WIESEBRON
+teerur yt O.
+Beëedigd vert. opl. ex. privéen cl u
+falessen. Nassaukade 381. Telefoon 82094
+Amsterdam.
+LEERAAR SPAANSCH
+kan des Vrijdags (geheelen dag) nog
+enkele flinke leerlingen plaatsen.
+Condities billijk.
+Brieven No. 10560 De Groene.
+
+</text>
+<image timestamp="2002:10:02:21:46:02.00" size="192486">D100094G.TIF</image>
+</page>
+</document>

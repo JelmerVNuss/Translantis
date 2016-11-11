@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300621</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 21 JUNI 1930
+Ford als Econoom
+door C. A. Klaasse
+VAN de slogan: business is sound, keep it sound,
+heeft althans de eerste helft zichzelf ongetwijfeld
+al geruimen tijd overleefd. Zelfs de Amerikanen
+beginnen nu in te zien dat de beurscrisis van verle
+
+den herfst niet alleen een reactie was op de
+overspeculatie, maar dat er wel degelijk een inzinking
+in de commercieele voorspoed was die de bal aan
+iet rollen heeft gebracht. En heeft men tot voor
+kort nog steeds gesproken van een
+businessrecession", een zwakke en tijdeujke terugslag op de
+handelsomzetten die voornamelijk door de beurs
+
+kracht zou zijn veroorzaakt, nu begint men elkaar
+te bekennen dat depression" een betere kwali
+
+ficatie is voor den toestand van handel en bedrijf.
+n het schijnt dat mét het veldwinnen van de
+overtuiging dat het dit keer ernst is, meer dan
+in het najaar 1927 toen ook even een inzinking
+baanbrak die echter spoedig den kop ingedrukt
+•werd mede door den snellen uitbouw van het
+afbetalingsbedrijf, het streven om tot verbetering te
+geraken een knauw heeft gekregen. Men krijgt zoo
+de indruk dat de Amerikanen zich wél opgewassen
+voelden tegen een lichten achteruitgang in zaken.
+Hoover hitste de groote industrieën op om
+op papier tegen elkaar optebieden wat betreft het
+bedrag dat zij in 1930 zouden uitgeven voor uit
+
+breidingen en vernieuwingen. De tariefmuren zou
+
+den nog een beetje opgehoogd worden; het
+farmreliefsysteem zou de koopkracht van den boeren
+
+stand weer verhoogen. En binnen afzienbaren tijd
+(de optimisten voorspelden: al in het voorjaar, de
+vat bezadiger zakenlui zeiden elkaar: zoo tegen
+October) zou Jonathan er weer even florissant
+uitzien als in het haussejaar 1929. Amerika had
+immers een reputatie optehouden: al tien jaar
+lang had het de economische theorieën getart door
+hardnekkig cTe conjunctuurgolf te negeeren. Om
+de eerste steen bijtedragen tot de restauratie van
+Amerika's economisch gebouw zou de regeering
+zich verdienstelijk maken door wegenaanleg te
+bevorderen en andere overheidswerken te doen
+verrichten, juist nu in den slappen tijd daardoor het
+raderwerk weer op gang kon worden gebracht.
+Maar nu alle roze getinte verwachtingen beschaamd
+blijven en de industrie werkelijk in de soep zit
+hoort men alle stemmen verstommen van hen die
+" de zaak wel weer op pooten zouden helpen.
+Alleen Ford houdt zijn remedie staande. Hij
+" heeft destijds reeds dadelijk zijn zienswijze op de
+1 Aard van de depressie weergegeven en daarbij
+tevens de geneeswijze aangeduid. Hoewel de kans
+niet zoo heel groot is dat men voorloopig op dat
+gebied met Ford's ideeën zal gaan experimenteeren
+is het toch ongetwijfeld intressant ze eens nader te
+bekijken. Om te beginnen dan kiest hij in den strijd
+tusschen de beide uiterste theorieëen die ook weer
+op de jongste conjunctuurbeweging zijn toegepast
+de partij van hen die niet, met Cassel, de oorzaak
+zoeken in kapitaalgebrek. Niet dat hij een welom
+
+schreven leerstelling heeft ontwikkeld. Maar uit
+zijn geneeswijze valt onomstootelijk af te leiden
+dat hij de Casselsche leer:
+depressie-door-tekort
+aan-kapitaal-waar-door-verdere-uitbreiding-wordttegengehouden niet aanhangt. Zijn uitgangspunt
+is heel duidelijk: de productie van
+verbruiksgoederen heeft zich in de laatste jaren zoo snel uit
+
+gebreid dat de consumptie die niet kan bijhouden.
+En deze stelling is juist voor de huidige depressie
+verrassend juist, veel meer dan voor de vroegere
+crises" die veeleer hun oorsprong vonden in een
+teveel aan machines, electrische centrales of spoor
+
+wegen. En wat is nu de typische Pordsche conclusie
+uit die feiten? Productiebeperking? Neen, want
+de industrie is daar om de menschheid te dienen
+(het service-principe dat in den opzet zuiver
+zakelijk concurrentiemiddel was is door Ford zoo
+gecultiveerd dat het bijna tot een moreel begrip
+is geworden) en wanneer men meer behoeften kan
+bevredigen dan zich openbaren, dan moet men niet
+de bevrediging inkrimpen maar de koopkracht, de
+consumptiemogelijkheid stimuleeren. Zijn remedie
+bereikt het doel op verschillende wijzen. In de
+eerste plaats verkorting van den arbeidstijd. Re
+
+sultaat: vermindering van de productie, maar niet
+in den zin van restrictie om de prijzen te handhaven
+doch een beperking die gepaard gaat met meer rust
+voor den arbeider, een verschuiving van de
+materieele productie dus naar de immaterieele behoefte
+
+bevrediging (rust). Maar intusschen heeft men dan
+toch maar de beperking van het aanbod mede be
+
+werkstelligd! De rust dient echter niet alleen voor
+het dolce-far-niente, neen, het weekeind schept
+nieuwe consumptiemogelijkheden. En om de kroon
+op dat edele werk te zetten moet dan een
+loonsverhooging dienen. Het systeem komt dus hierop
+neer: de wereld brengt meer verbruiksgoederen
+voort dan de bevolking bij de heerschende inkomens
+
+verhoudingen kan verwerken; geef haar de mid
+
+delen om meer te genieten, geef haar den tijd daar
+
+toe, en de industrie zal er wel bij varen.Weliswaar
+zullen de hoogere loonen de kosten verhoogen
+maar dat wordt ruimschoots goedgemaakt doordat
+een depressie met haar schadelijke gevolgen op het
+prijsverloop wordt vermeden. Er is trouwens nog
+een schakel welke, bewust of onbewust, door deze
+methode wordt behoed voor een dreigende breuk.
+Het valt niet te ontkennen dat in een floreerende
+industrie met een flinke winstcapaciteit steeds de
+tendens bestaat om een deel van de winst in te
+houden en aan te wenden tot verdere uitbreiding
+van het bedrijf. Maar evenzeer juist is het dat zulk
+een expansiedrang de kiem legt voor overproductie.
+Welnu, wanneer de industrie hooger loonen moet
+betalen, en haar kosten dus ziet stijgen, daarmee
+haar winst ziet dalen, dan zal ook de
+,,eigen-besparing" allicht geringer worden en overdreven
+uitbreiding worden geremd.
+Ik zeide al dat dit systeem een volkomen negatie
+inhoudt van de Casselsche verklaring der depressie.
+Volgens dezen Zweedschen professor is liet een
+voortdurend gebrek aan kapitaal dat telkens onze
+economische zorgeloosheid bedreigd. De hausse
+zou altijd kunnen voortduren wanneer de bespa
+
+ringen de behoefte aan nieuw kapitaal maar kunnen
+bijhouden. Hangt men die theorie aan dan is
+Ford's geneesmiddel niet alleen geen tegengif
+tegen de baisse; het is integendeel erger dan de
+kwaal. Want door de verhooging van het arbeids
+
+inkomen zullen de besparingen veeleer afnemen dan
+toenemen.
+Wij zagen hierboven reeds dat de ideeën van
+Ford niet zoo heel onwaarschijnlijk klinken. Na
+
+tuurlijk is het de vraag of bij verhooging van de
+loonen de consumptie zich juist zal uitbreiden voor
+die artikelen waar overproductie heerscht. Zal
+men meer automobielen en meer radio's gaan
+koopen. Of zal de arbeider meer de banket
+
+bakker of de biosscoop frequenteeren ? Daarbij
+komt nog dit: de depressie die wij thans doormaken
+is niet uitsluitend een industrieele. Men kan nau
+
+welijks verwachten dat bij verhooging der loonen
+de graanprijzen noemenswaard zullen stijgen. Bij
+genotmiddelen als suiker en koffie misschien tot
+op zekere hoogte. Maar een afdoende remedie zou
+het Ford-stelsel toch wel niet zijn. In Amerika
+waarschijnlijk meer dan elders; eenerzijds omdat
+de depressie daar meer industrieel is, terwijl de
+arbeider er het dichtst staat bij het stadium van
+welstand waarin hij zich een duurzaam gebruiks
+
+goed als auto en radio kan permitteeren. Maar
+zelfs daar moet men niet uit het oog verliezen dat
+het systeem wel iets weg heeft van uitstel van
+executie. Men kan tijdelijk misschien den
+kooperskring uitbreiden. Maar zoodra ook die weer
+volgekocht is. . . dan zijn de wagentjes van hen die
+in 1928 en 29 n van mijn bakjes kochten al weer
+versleten, zou Ford waarschijnlijk antwoorden.
+In elk geval zit er in het denkbeeld een goede
+grond: wanneer onze aardsche hulpbronnen zoo
+rijkelijk vloeien dat wij onder den overvloed
+dreigen te verstikken, tracht dan het vermogen
+om al die geneugten te verzwelgen te vergrooten.
+maar ga niet van-de-weeromstuit gebrek lijden.
+Het principe berust intusschen op zoo uitgesproken
+speciale overwegingen dat men zich van de uit
+
+voering in onze Maatschappij voorloopig maar
+niet al te veel moet voorstellen. Dergelijke wel
+
+overwogen maatregelen veronderstellen een
+Planwirtschaft naar alle kanten.
+Blijde Stond
+Wanneer een jongen wel zóó jolig zingt,
+dat 't op den maatgang van z'n klompen klinkt
+in schemer-uur, door still' verlaten straat. . . .
+dan klopt mijn hart' om wat er komen gaat.
+
+Lijk in de stilte een spoor uit verte fluit,
+lijk de avond-klok over de velden luidt
+en tintelt door verzonken peinzen's tijd. . . .
+zóó, schreijens-blijd', heb 'k uw geboort' verbeid.
+
+Zooals een wand'laar die z'n icetj wel weet
+door 't dichte bosch de stille laan betreedt
+en gansch zich geeft der stilten overvloed. . . .
+zóó, zoet-gemoed, heb ik utv' komst begroet.
+
+CO RIN TH U S NIELSSEN
+NiDEHMEMSCHE
+HYPOTHEEKBANK
+l
+Leden der Directie: "'^JgTTiP*' Mr. A. S. MIEDEMA,
+P. H. CRAANDIJK en A. E. TH1ERRY DE BYE DOLLEMAN
+TI .11 r 1-7 IA.I ooc Pandbrieven f 37.123.000.
+Hypotheken f 37.343.825.—D . ,.-, ,.,
+Jtr^ Reserve» . . { 1.026.238.
+4i pCfcPANDBRIEVEN tegen LAATSTEN AMSTERD. BEURSKOERS
+ARNHEM
+oS
+22 LEVENS.
+VERZEKERING
+Koldewey 6 Corbière
+Leidschestraat 30 * Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipeo Badtafels Baby bascules
+,—Linncnmandcn
+Adverteert in: &lt;*• •* *• ~ ™
+De Groene Amsterdammer
+
+</text>
+<image timestamp="2002:09:25:19:04:49.00" size="269165">000009B6.TIF</image>
+</page>
+</document>

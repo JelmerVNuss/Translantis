@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190517</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+17 Mei 19. No. 2186
+Tel. Centrum 1718.
+FILIALEN:
+WILSOIV sprak in 't Parlement,
+BOOT's Sigaren zijn excellent.S™'2:ML,Ï£S.
+UW TAAK AL5- MODERN -ZAKENMAN- IV 5TEEDS
+UWE- ADMINI5TRATIE-TE-VECEENVOUDIÖEN •&amp;*,- 1 S
+MAAB-- EEN- SYSTEEM' BOUCHEP/S -KAAC.T*
+HOLLANDIXV"- DAT- U- VOL
+
+
+KOMENNVCHVBOUCHLfc S vEÖ1Sf3rfk&gt;o
+AKI5TE.CDAM * DEN HAAG" GRONINGEN
+-TiL4__ "TüU _ &lt;
+G2H3 H.ióbo
+
+mgTHEE SER VIEZE N
+PRES E N TEERBLADEN
+HOLLANDSOH FABRIKAAT
+RAADHUISSTRAAT 48.50
+DIR: JAC.VAM OEM BOSCH
+Hotel Trier, Soestdijk,
+Het g-eheele jaar geopend.
+a n g" e n a a m, 1-u.stig- verblijf.
+NIEUWE EXPLOITATIE - PROSPECTUS OP AANVRAAG
+RorreccAri. MOorc^«o. n
+AKNMEM. BVNSTBAAT. M
+yn
+oo
+IDAMES MOLLIÈRES
+in ZWART
+BRUiN
+LAK
+en WIT LINNEN
+• *•••••••••+•••••••••+•••••*
+
+iHOTELDEL'EUROPE-AMSTERDAMl
+Hotel van den eersten rang met modern comfort
+^ Lift Centrale verwarming
+Restaurant tegen vasten prijs en volgens de kaart
++ Hall Zalen voor partijen
+4- Afternoon tea van 3 3O-5.3O
++ W. HERMSEN, Directeur
++
+
+Kunsthandel RUBENS*\
+Moordblaak9, ROTTERDAM. Tol. 12659. l
+STEtos TENTOONSTELLING VA EERSTE MEESTERS l
+DAGELIJKS Q6OPE-D VAN 11 TOT 4 UUR. ZONDAGS 1 TOT 4 UUR •
+lit
+Vraagt OWM
+•M Pritfiflivl«rli|.
+N.V. CRABETH
+ACCACIASTRAAT 94 - DEN HAAG
+liBteor: Danckertstraat 35 Den Haag • Telefoon 5341
+Gebrandschilderd Glas en Glas in Lood
+N v. MACHINEFABRIEK HOOGENLAMDE
+VH.PAMNEVFS&amp;ZN.UTRECHT
+FABtltKinKAIlIOOS l i 7 c-ri MCTA A l r ICTCm l (HOilAno)
+ONDIER TEL AO IJZ ER EM METAALGIETERIJ•
+
+^*^-«
+S TYPE1OO-IOOO RK
+S GELIJKSTROOM STOOMMACHINES
+TANDEM COMPOUND MACHINES
+l STOOM DYNAMO MACHINES
+J STOOM CENTRIFUGAAL POMPEN
+t VOOR auc nocumoiK
+L COMPRESSOREN VACUUMPOMPEN.
+S GIETWERKEN m UIER EN METAAL
+HAAR r/fXfmrtc af HIODIL
+( CLICHÉ• vervaardigd door 1
+[ CLICHÉn!f„QRAFIA"ARNHEM. j
+Nederlandsch-Engelsche Technische Handel MaatschappY
+Hoofdvertegenwoordigster voor Nederland en Koloniën van het Consortium
+VICKERS Ltd.
+
+(ENGLAND)
+VICKERS HOUSE" prin.HW|n.kt a,
+DEN HAAG
+HOTEL
+Duin en Daal"
+BLOEMENDAAL
+Italiaanscli Terras
+Inrichting voor familiefeesten
+Weelderigste Bloementuin
+van Hotels in Nederland
+
+
+v*
+TKNTOOXSTKLI.IXC VAX XI F.r\YK \YKRKHX VAX
+LE FAUCONNIER
+HU C. L. H. VAN DER LINDEN
+SS R O K I N, AMSTERDAM
+VKKS( HHXKN KKN MAI'OVKK HIC'l VVIUiK VAN LK FAUCT)NiNM-:R [qn*
+
+JOSEF VEDRAL
+Holenstr.i9deDBHg.Tel.77lli
+ladipl. loheamieb Vioolmikar.
+Oroote collectie icer
+mooie oude meester-in
+
+strumenten voorhanden.
+Agentschap der firma
+HUI and Sons Londen.
+Eenlgste, oudste, adres voor de
+eebte Itallaansche Viool- en
+Cello snaren.
+Franco verzending door geheel
+Nederland en Indiè.
+COMPLETE
+MEUB1LEERINO
+BEHANGER1J
+DEVRIES&amp;DEENIK
+Reguliersgrachf 20
+AMSTERDAM
+Telefoon 95
+Vraagt GéilL
+Catalogus
+REKENLINIALEN
+REKENLINIALEN
+VOOR ALGEMEEN GEBRUIK
+VERLOVING eo
+ONDERTROUW
+VlSlTEK A ART6M
+LUXEPAPiEA
+CHEMICI
+ELECTROTECHNIC9
+EN VOOR OGN HANDEL
+B van Mantgem
+MUNTPLE1N t. «HSTEKDAa
+
+</text>
+<image timestamp="2002:08:23:12:56:34.00" size="324049">D40002YA.TIF</image>
+</page>
+</document>

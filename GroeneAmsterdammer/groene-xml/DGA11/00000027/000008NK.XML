@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301108</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+EEN A TOT Z" POLIS
+tt
+^*?	'"" '" ^^—,1,1,1 .i, n.!, 11 f i m .nii.i ,n—i i,	i i. ii^i_ i
+
+MET N VERVALDAG;
+
+N PREMIE;
+
+N ZEGEL;
+
+N ASSURANTIEBEZORGER, ENZ. ENZ.
+
+BETEEKENT VOOR U BESPARING
+
+AAN PREMIE, ZEGELKOSTEN, TIJD, ADMINISTRATIE EN CORRESPONDENTIE.
+
+Voor NOG LOOPENDE Brand- en/of andere VERZEKERINGEN wordt een REDUCTIE op de
+premie gegeven. Het feit, dat GIJ REEDS VERZEKERD ZIJT, behoeft dus voor U GEEN
+BELETSEL te zijn nochtans TERSTOND een A tot Z" POLIS af te sluiten.
+
+Prospectus en alle nader gewenschte inlichtingen KOSTELOOS.
+
+
+
+BLOM &amp; VAN DER AA
+
+AMSTERDAM ~ DEN HAAG - ROTTERDAM.
+BURGERSDI)K 6 NIERMANS
+
+BOEKHANDEL EN ANTIQUARIAAT
+
+Leiden, Nieuwsteeg l, Templum Salomonis"
+
+BOEKVERKOOP ING
+
+van 17-—26 November
+
+Bibliotheken van wijlen dr. A. RUTGERS v. d. LOEFF, em. predikant te Bloemendaal, dr. L. N. NATHANS
+v. LOEN, arts te 's-Gravenhage, gedeelte der bibliotheken van mr. H. MEINESZ, oud vice-pres. Arr.
+Rechtbank te Amsterdam, dr. J. G. DE MAN te lerseke, mr. dr. JAC. ISRAËL DE HAAN te
+Amsterdam, e.a.
+
+Catalogus verkrijgbaar a 25 et
+
+Onze afdeelmg Antiquariaat houdt verkoopingen, taxeert bibliotheken, geeft catalogi en aanbiedirigslijsten
+uit, geeft inlichtingen over ieder boek, tracht de gewenschte boeken te leveren.
+Onze afdeeling Nieuwe Boekhandel levert alle wetenschappelijke werken en belletrie, neemt abonnementen
+op tijdschriften aan.
+
+Uitgebreid magazijn van oude en nieuwe
+
+werken, tijdschriften, platen en k a a r t e. n»
+
+</text>
+<image timestamp="2002:09:22:07:58:45.00" size="89318">000008NK.TIF</image>
+</page>
+</document>

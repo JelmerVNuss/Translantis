@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060708</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een post-unie met Duitschland.
+KIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 8 Juli 1906.
+$ '? /J i* /k J £ $
+\* : IS ~~~*. V:' i •'»
+.\IIIM. Hook- t'ii Stecndrnkkerij. v,h. Kllerman, Il.irms \- C
+GERMA.NIA : Lieve, wat zou ik graag eens met je spelen! Hier heb ik nu een doos, daar zit een spelletje voor ons beiden in..
+i J K NKD. MAACD: Ik spee! niet graag met «roote menscheii. . . . Veel liever speel ik alleen. •
+J
+
+</text>
+<image timestamp="2002:08:10:21:12:40.00" size="253120">000000EK.TIF</image>
+</page>
+</document>

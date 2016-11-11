@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991224</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1174
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Een nieuwe Generaal Boem!
+Drie overwonnen Generaals.
+Sir Redvers Buller.
+Lord Methuen.
+GBOOTHEETOGIN VAN GEKOLSTBIN (VICTOKIA): «Generaal Roberts, aan u de pluim. Voer mijn troepen ter overwinning, uw voorganger Buller was er niet toe in staat."
+
+
+
+Caran d'Ache in den Figaro.
+Generaal White.
+
+Uit La Vie Illustrée".
+JOHN BULL : «Genoeg, Joe, genoeg.
+De Britsche aanplakker.
+(Moonshine).
+Britsche telegrammen.
+(Der Floli).
+De twee beste vrienden van de wereld.
+
+
+Uit Jugend".
+CHAMBEELAIN: »Dezen keer zal het wel bljjven zitten?" (Is hu niet wat
+voorbarig ? (Red.)
+O,
+H. M. VIBTORIA : »Hoe heeft u deze telegrammen gekregen?''
+CHAMBERLAIN : «Door de draadlooze telegraaf, Majesteit.''
+H. M. VICTORIA : »Hm ! juist, ze komen müook nog al uit
+de lucht gegrepen voor."
+Af. Feldbaae'
+fangen ficfj was por,
+ItnS jwac' auf Sein
+immer Icifer .
+
+</text>
+<image timestamp="2002:08:14:01:50:11.00" size="435157">D2000BG.TIF</image>
+</page>
+</document>

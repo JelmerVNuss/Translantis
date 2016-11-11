@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18850412</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 407
+n
+«?, April.
+Z&gt;&gt;: S. S. A. L. BaMottn, Pfetoniaton van den laatsten tijd; A. E. CioTitias
+«w der WouSe, Do Nederlanclsclie regeoring en de afgegeacheideuon een halve
+•W gcledon; JtfK L. de Hnrtog. Eefl nieuw boek over volkenrecht, L—Onzo
+muittS» bijeenkomsten door een plattelander; jVr. ƒ. SoittendaiH, Benige Dolftsclie
+owSjl» uit de vorige eeaw; Vijf diohtbnndeltjes; Nienwe Uitgaven en verta
+
+lingen; Job. Berglmis. Moeder Lize; T. C. van der Kuil; Levénswoorden;
+Vevr. van Westhretm, uit den Vreemde; Brioveubus.
+
+Wetenschappelijke Bladen, April.
+Da eenheid der Eattrar," door den Hertog van Argyll, (The Edinbnvgh Review);
+Edmond Abont, (The Times); Dnitschlands invloed op Frankrijk sedert 1870,
+(Konvello Kevuo); De Algemeeno Leïeasversohjjnselen, (Humboldt); Overzicht
+van binnon- en buitenland.
+
+Eigen Haard, No. 14.
+De dochters van den componist, dooa JosepJiine Giese; Da nieuwe doorgang
+(PMesge) te 's Qraveahage (mof afb.);. Be nieuwste pog'.nsan cm de
+v,-aavs&lt;'huwingen tegen stormen omvattender en nuttiger te maliën, door Pi -of. BHIJS Ballut;
+Vrede (bij de plaat) door Jo. il. r.; Do Volen^avnmcr \isselicvij door J. J r. v«»
+JBoogstratcit; Versclieidenhejcl.
+
+Sevue Hes dmx Moncl??, l Avril.
+Solange de Oroix Saint-L\io (der. pavt.) rar Albci-t Del^it; Les comi
+uncomens d'nne conqnüte IV par Cam, lio'.tsstt; NOS diplomatea sous Louis XIV pur
+A. Qeffroy; Les tremblemens de torre par A. Dattlrée ; La tnxo du pain par
+Denys Cochin; L'exposition des oonvres d'Engtsne Delajroix par H. Honssaye;
+La politiqiie ItaAisnne en 1870—71 par G. Valbert; Rovuo litteraire
+L'cn?cigne«nont de l» litteratnre tran^aiae au college de Trance par F. Bntnetiïre, etc,
+
+Jtattvttie Revue, l Avril.
+Jfop.Xey.F. de Lessepg ciïvain; Cottrcclle Smieiiil, Essai de déiiniüon de la
+aclenc» 'aocia'.e; ~ Musanl, La chcval en Trance; A. ireil:ins7;i, Vainijncxiva et
+•Wïttctts (qnatve part.); G. Vitlnfe flls, Eugèno Delacrois; eori/es Eenanl, CroQuia
+Chaispétres.
+
+DeulscTie RiniSscltau, April.
+Gloria Victis von Ossip Sclmlln l; HiinJol, B ach nnd S«hüt:i vo:i l'li. f&gt;'H«;
+Die rarlemon'.sveform in Eugland voae'nem Mit .ylieao d v 5 englisohcn Uj'.ierUsr.ï: s ;
+Bililer ans dem Berliner Lebcn von JM.'/.V/,- J!aili'&gt;ili.rr/ 1; Itciao in den AnJcs v;,n
+Chile und Argentinien von Paul Gul;,'?&lt;/.'; Covnoval Sylvostor von S'tli-.iïore
+Fariua; Das alteste Hannsccint von Hci:;r. ITeiiis's EotuJ.iylT^Ucn S:-'.aüo m
+gi:theilt von Prof. Jt. naffer; Poliiisclio llar.u.-d;?,;!; Ilosclic.'s CuIcnJea ia jicuer
+Auflage; _ Helnuioltz Vorlrügeuuaitcacu: ricuvicreioii una uic'ar von Dr. DKiac;
+U. 8. W.
+
+Klonce Uitgaven in Engeland.
+Eavl of Lytton, Glenavevril or the Mctaniorplioaca ........ eli. 2
+Del Mar, History of moncy 111 anclrne c-.miïlriea	IC f,
+Mrs Higgins, Wotnen of Europa in (hèfi;'tcent and sixioenti: cjulmic?. 00
+Betwist my love and me by r.utbor of A. Golden Ear ....... 21
+E. CJodds, Jïylhs and Dreams	i ........ O
+J. M. Colqulioun, Primus in InJia a ronmnce . i ........ 21
+Mra. Coopcr, Heait Salvage by Soa and Land . , .	b.G
+J. B. Crozier Ciriüs.ition and propre =s ...,,,,,...,, 11
+B. Dowling, The Dake's SnreotJicart	t.. 2
+F. Fergnson, The Siclcchambtr	. , ,.,..,,, 2.0
+R. Jefieries, After London or Wild Enyland ...,.,..,,, H).6
+T. Miller, All rouud the year	&amp;„5
+L. Nevill, A fatnro on trust .,..	,...,.., ., 2
+L. B. Walford, Mrs. Smith	5
+One and a half in Korsvay a chronic'o of s:r.all beer bv L'i-hvr .iri'1 Boih 3.0
+Tales from Chamber's Journal	2
+Written to order by autlior oJ' a day oi' my lii'j fit Eioa	&gt;J
+MILITAIRE ZAKEN.
+DE OORLOGSBEGBOOTING IN DE TWEEDE KAMEB.
+Het laatste bedrijf der oorlogsbegrootiug is afgespeeld.
+,Met 49 tegen 21 stemmen werd het ontwerp tot wet verheven.
+Wie zich den scherpen toon herinnert, die clen grondslag van het
+rJdeelingsverslag vormde, moet zich over dezen uitslag verwonderen. Heel't
+de Kamer uit de Memorie van Beaatwoordijig en do Ministcrinelo verde
+
+diging bij het mondeling debat gezien, dat zij ten onrechte den Minister
+heeft beschuldigd van traagheid, van wijfeling op het stuk van
+bsginselen, waarover zoo lang een sluier hing, dat zij zorgvuldig in een toestand
+van half duister werden gehouden, ui moest deze toon van vijandschap
+ia de ofiicieele stukken veeleer beschouwd worden als de uiting vau
+wrevel over het feit, dat thans weder twee jaar voorbij gegaan zijn, zon
+
+der eenige ernstige poging tot verbetering van onze levende sirijdkrachtcn.
+Wij gelooven, dat beide factoren tot de uitkomst hebben medegewerkt,
+tnaar 4at de doorslag gegeven is door den politieken toestand, waarin
+wij- sinds eenige maanden verkeeren. Nu de Kamer weet, wat de Minister
+met de regeling der strijdkrachten voor heeft, west zij tevens, dat
+Grondwetsherziening door de Regeeriug als de onmisbare voorwaarde
+wordt beschouwd, waarvan de verbetering van ons defensiewezen althans
+voorloopig afhankelijk ia gesteld.
+De alles beheerscheude vraag ook op het gebied der Defensie is
+thans, zal de toekomst ons spoedig Grondwetsherziening brengen, zal,
+ffiet andere woorden, wijziging in de kiestabel al of niet verandering
+van de kieswet na zich slepen? Nu het Regeeringsontwerp reeds bij de
+Kamer is ingediend, schijnt het gevaar voor verschuiving niet groot, te
+löeer daar dit ontwerp tevens, en zelfs in de eerste plaats, noodzakelijk
+is voor nieuwe grondslagen, waarop het kiesrecht behoort gevestigd te
+worden.
+Te recht aïet de Kamer in, dat, onder deze omstandigheden, voor be
+
+vordering vau de groote Kaak, kabinetswijziging, geheel, noch gedeeltelijk
+Wenscljelijk zou zijn. Tijd voor behandeling der militair organieke wet
+
+ten, is, voor dat de Grondwetsherziening aan de orde komt, niet meer
+vo,orhanden; die behandeling is zelfs niet, gewenscht, omdat, zooals ook
+wij hebben aangetoond (Weekblad van l Januari) wijziging van Hoofd
+
+stuk VIII den wetgever voor een goede regeling der strijdkrachten uit
+
+nemend te stade zal komen, omdat het bovendien zeer de vraag is, of
+in deze Kamer een meerderheid voor den persoonlijken dienstplicht te
+vinden zal zijn, al staat deze ook op hot program der antirevolutionaire
+partij en op dat van den Neder!audschen werkliedenbond.
+Onwillekeurig vraagt men zich af, waartoe dan de krasse toon tegen
+'s Ministers beleid in het Afdeeiingsverslag en van sommigen in de Kamer.
+Toch schijnt ons het antwoord op die vraag niet moeilijk. Da mogelijk
+
+heid bestaat immers, dat de Grondwetsherziening uitgesteld wordt, of
+althans vertraging ondervindt. In dat geval scheen liet der iïamer niet
+overbodig, den Minister aan te sporen tot handelen. Naast de hoofd
+
+zaken staan bovendien tal van vraagstukken van den tweedon
+rang. welker oplossing nauw samenhangt met de verbetering van
+ons dcfensiewczcn. Tot dczo behoorcn: wijziging in de wetten op
+do bevordering en pensioiinecring vau officieren, een noodzakelijke
+vei'bctcring vau dcu matevieolen toestand vooral van do subalterne
+officieren, verbelering van den toestand van het, lager onderwijs in bet,
+leger, wijziging in do rckruteering van hot beroepskader, herziening van
+de koniaklijl'.o Besluiten regelende de organisatie des legers en van de
+wet van 21 Dccembar 1*53, betreffende do verboden kringen; wanrvau
+de beide eerstgenoemde en ook de laatste alieon ds aandacht der Kamer
+hebben beziggehouden.
+Kocds de eerste spreker de heer Kidstra, getrouw aan de redevoering
+voor zijn kiezers uitgesproken, om vooral bezuiniging te brengen op het
+budget van oorlog, tracht den Minister een stelsel vau reserve van
+oliicieren en lager kader aan de hand te doen, om langs dien weg tevens
+het lot dor subalterne officieren te kunnen verbeteren. Volgens den
+geachten afgevaardigde bevinden zich in Nederland tal van officieren vtvn het
+Ncderïandsch-indischc logar met vciiof of pensioen, waarvan een goed
+gcbmik ge-.naaht zou kunnen worden. Zoo worilun jaarlijks een 20-tal
+kapiioins alloen van do infanterie gopcnsionneerd op een leeftijd van ca.
+4&lt;) janr, wa;&gt;.rv.\n velen ongetwijfeld nog ettelijke varen bruikbaar zouden
+zijn. De I\:ini.-'er gelooft echter, dat e Staat over dia ofticisren niet
+de vrije be.;.c!;ikl;ing zou hebben. Nu zegt art. 19 Algctneene Oruer
+1SSO INO. K! vnu bet Reglement op de pansionnecring van de officieren
+vau h.:t Nel. Indische IC^BV : ,,Do Koning behoudt zich voor, de
+gepenR:&lt;&gt;nneerdücfiioifcren in tijd van oorlog of andere buitengewone
+omst.mdiijbc.le:), bcioeld bij avt. l'? l der Grondwet, op te roepen, om na daartoe
+gü.:c!iikt fe a ij n bevonden, iu dieast gcst;l;l te worden bij de strijdkrach
+
+ten van den Staat. Het pensioen van den officier, die zonder geldige
+roden ar.n die oproeping niet voldoet, of zich aan de veder in
+dicnststelling onttrekt, wordt op uiirpraak van den 31in;ster van Koloniën ge
+
+schorst''. D a t vecht bes'"at nkoo, wat. beircf" (Ie gopcnsionneerde officieren.
+De maatregel door dcu lieer Kichtra voorgesteld, schijnt ons het besto
+toepasselijk cp deze officieren. Vau ben, die met, verlof in Europa zijn,
+althans voor b?rstel van gezondheid, kan wen bezwaarlijk veel diensten
+verwachlen. Y\'il men echter voor don t'jcl van oorlog op de hulp der
+ptopens-ionneerJe officieren rekenen, dan zou bet zeker aanbeveling
+verdicnon, dat het oorlogsbc?tuur voortdurend verbinding met deze officieren
+ondtrhie'ii, dat een j larïijksclie kcurin'j plaats vond et), M'at zeker hot,
+n;ecsh 'ot'dez^n band r.inlcidinjj zal geven, dat aan die. officieren zooveel
+mogelijk bet cotranandeinciit in har.ilon gegeven wordt van do
+Echutterijc:;i. Velen :&lt;nlL'n, iiidic-n zij liet dan ook op bescheilen voet een billijke
+tofiactc wordl: gegeveii. ga;ui:e voo:'\gaau hunne diensten aan den lando
+te l;i\vi]xai.
+Eo;: a:i;!er middel tot hoi; vcrkrijg.jn van een reserve, cvescens door
+den heer Kidslni voorgcs'eld, en herhaaldelijk buiten do Kamer aanbe
+
+volen, bestaat in een uitkeering van gedeeltelijk pen.sioen bijv. na 2"&gt;
+dienstjaren als officier bij het NcderLinclsehe leger, waarbij bovendien do
+bevordering siecr gebaat zou zijn. Do Minister zou mot dit, midile! zeer
+gaarne meegaan, indien die nisntrcgel niet alweder geld zou kosten". Do
+Minister deinst terug voor do indiening van wetsontwerpen, die meer uit
+
+gaven ten gevolge zonden hebben, /ou dit, d9 ware reden r.jjn; zon deze
+niet veeleer schuilen in hetgeen door den heer llooseboom wordt be
+
+weerd, dat de Minister alkesrig schijnt van eiken maatregel, zoodra er
+slechts wettelijke regeling in het spel komt? Toch is de zaak juist van
+des Ministers siandpunt gezien van buitengewoon belang. Vv'ordt r,iet
+in de Memorie van Beantwoording op het ontwerp Oorlo.^sbegrcctifig
+door den Miui.iter verklaard, dat, zelfs na invoering van den persoon
+
+lijken dienstplicht, aan de vermindering van hst aantal beroepsofficieren
+niet kan worden gedacht, een mcening, die wij, blijkens het 'WcelAl.arl
+van 8 Maart, niet dcclea, waar die juist door bet voorétttl-Jf/rii/ra alle
+recht van bestaan verliest. Men mag bij toepassing van dit voorstel,
+behalve op do officieren der Militaire Academie, der Hoofdcursussen. van
+het, Instruct.ie-Dataillon, het Koloniaal Werfdepót, die voor speciale dien
+
+sten bij de korpsen, benevens die welke aan bot Departement van Oor
+
+log gedetacheerd zijn, rekenen op een honderdtal secr bruikbare
+rcservcoi'iicicren waarvan het grootste deel oorlogervarin» bezit.
+Niet minder behartigingswaariiig zijn da denkbeelden van den lieer
+Kidslrn omtrent do meer dan volstrekt noodige uitbreiding der hoogere
+rangen in het leger, omtrent de herziening van het toelagenstelsel, om
+
+trent de afschaffing van don majoorsrang. Herhaaldelijk hebbeu wij in
+dit Blad tegen het eerste geijverd. Het is dan ook naar onze opvatting
+over het algemeen juist, wanneer de geachte afgevaardigde voor Dokkum
+zegt: Ds hooga rangen kunnen slechts weinig tot de promotie bijdra
+
+gen, want slechts weinigen bereiken deze; en ik breng den Minister in
+herinnering, wat bij in 1378 schroef: De kapiteinsrang is de
+middelBtand van het ofiicierskorps, en waar het den midtïelstaud slecli'; gaat,
+hesrscht geen welvaart." Deze opmerking acht ik ze.Rr juist, maar vel^n
+brengen het niet verder dan tot kapitein en dezen helpt de
+schijnvertooning der Looge rangen niet.
+
+</text>
+<image timestamp="2002:08:17:17:26:13.00" size="294348">D1000127.TIF</image>
+</page>
+</document>

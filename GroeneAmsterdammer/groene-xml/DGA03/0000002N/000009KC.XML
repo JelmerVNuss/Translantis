@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300920</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ederlcmd
+KEIZERSGRACHT 355 ~ AMSTERDAM - CENTRUM
+AMSTERDAM
+RAI,VERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 2*3
+• HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H
+del JË/xten5iDl&lt;
+eupgori
+
+van prima Fransch Elastiek,
+maag. insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+tot'heupwijdte 100 c.M. nieuwen prijs ( 14.
+, verder tot 115 c.M. 15.
+Bij schriftelijke bestelling gelieve men alt maat
+op te geven de •wijdte over breedste deel van d*
+heupen, over onderkleeding gemeten.
+KXTBI43IBLC"
+Voorhanden een enorme keuze
+
+lastieken eupgoroels
+
+in Engelsche kwaliteiten vanaf f -4.90
+idem in, Fransche kwaliteiten vanaf f 8.
+
+Alle door onsjjgeleverde elastieken Heupgondek
+wij.
+HOFLEVBBANCIERS VAN Z. K. H. PEINS HENDBIK DEB NEDERLANDEN,
+VANSTRAALEN
+MONSIEUR
+6 ERKELENS
+WIJNHANDELAREN.
+Hoofdkantoor Rotterdam
+Leuvehaven 34
+«•l 62466
+
+
+Filialen Den Haag
+Anna Paulownastraat 36
+tol. 82632
+
+
+Den Helder
+Hoofdgracht 37
+tol. •».
+VRAAGT PRIJSCOURANT 1930.
+HA-KLOOSTERHUIS
+AMSTERDAM
+^ELECTRISCHE^HAARDEN
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+
+KOOPT HET BEKENDE ROODE PAKJE
+42
+CTS. PER ONS
+
+</text>
+<image timestamp="2002:09:26:03:32:14.00" size="181506">000009KC.TIF</image>
+</page>
+</document>

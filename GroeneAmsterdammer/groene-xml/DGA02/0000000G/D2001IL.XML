@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020914</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Minister Kuyper en de troonrede.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 14 September 1902.
+BlOEMüCKATiSCHEPLUNJ
+lTKUSTIllG
+KElbCOSTUUMS
+Arnst. Boek- en Steendrukkerij. v/h. Ellerman. Harms &amp; Co.
+BODE : Excellentie, de heeren ministers wachten u om de troonrede op te stellen ....
+MINISTER KUYPER: Een oogenblikje! • ik weet nog niet in welk pak ik mij dezen keer steken ia!.
+
+</text>
+<image timestamp="2002:08:18:10:22:33.00" size="492535">D2001IL.TIF</image>
+</page>
+</document>

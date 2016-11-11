@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260710</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2562
+e
+f V
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+'Begrafenissen - Crematie - Transporten
+Altijd welkom
+BEGRAFENISVEREENIGING
+
+N. SAX Ir.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers |
+
+Bij ons verkrijgbaar I
+N. R. V, MONTA SCHOENEN I
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.v. ,,DE HOUTTUINEN", AMSTERDAM
+
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M AMSTERDAM - Tel. 42662
+MARMERWERKEN
+HflG
+STELLIG
+BETER OOK VOOR U!
+Buitengewone
+
+Opruiming
+Speciale aanbiedingen:
+
+Tafelgoederen
+Thee- en
+Glazendoeken
+Handdoeken
+Badhanddoeken
+
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+DEN HAAG
+
+PIANO S.ORGELS
+BoekhorsLMr M9 Telef' 13051.
+MODELWASSCHERIJ
+Tilefbon 60121, 3 lijnen- over het U
+4 Lamps Radio Toestel
+
+met 3 jaar garantie I 7
+J»Ook op gemakkelijke betalingscondities
+
+Andersen 6 Polak
+P. C Hooftstraat 40 • Amsterdam
+TELEFOON 26587
+De populaire
+EngelscheAuto
+^Bl^lf die iedereen voldoet
+DIRECT LEVERBAAR.
+Hoofdagent: J. WITMONDT
+21 Westermarkt Amsterdam.
+W. H/POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+FIRMA J. G. MEIJER
+2 Markten - GRONINGEN - Opgericht 1706
+SPECIALITEIT IN
+ECHTE GRONINGER KOEK
+van f l t f L50, f2 f 2.50, f3 enz»
+Franco per post 50 Cents verhooging &lt;&gt;&lt;&gt;&lt;&gt;
+P. C. Hooftstraat 113
+- TELEFOON 23308
+KUB. umm, mmm
+Groote Zomeropruiming
+RESTANTEN LINGERIE:
+DAMES-ONDERJURK, handgeborduurd f 1.95
+ONDERTAILLES, bizonder mooie restan
+
+ten	f 0.50 en f 0.95
+
+Chemises - Pantalons - Nachthemden
+Restanten extra groqte' maten, zeer voordeelig
+Pantalon combinations, Chemises enveloppe,
+Camisoles, enz.
+SPECIALE AANBIEDING :
+Kleurechte Zephir Tuintafel- en Serrekleeden
+110 X 110 c.M. f 1.65 110 X 150 c.M. f2.35
+Groote keuze Theedekjes in verschillende fijne tinten
+- 90 X 90 c.M. f 1.95, f2.15. f2.50. enz.
+Groote sorteering Badlapjes,
+Badhandschoenen, Badhanddoeken,
+Badlakens, Badmatten.
+
+</text>
+<image timestamp="2002:09:25:21:27:27.00" size="154892">D10007R6.TIF</image>
+</page>
+</document>

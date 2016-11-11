@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230728</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE ONTSLAGAANVRAGE VAN MINISTER DE GEER
+BI)VOEQSEL van ,.De Amsterdammer", Weekblad voor Nederland van 28 Juli 1923
+Nadruk verboden
+•H MM
+VLOOTWET
+ONDEBWIJS
+WET
+WEKKLOOZEN
+ONDERSTEUNING
+SOCIALE
+WETGEVING
+DE GEER
+Amst. Boek- en Steendrukkerij, v'h. Eilerman, Harms &lt;6 Co.
+KARNEBEEK
+DE GRAAFF WESTERVEI.D RUYS
+De Schuitenvoerder: Als dat ding er nog bijkomt, gaat de boel naar den kelder. Ik vaar niet meef"
+
+</text>
+<image timestamp="2002:08:26:07:43:53.00" size="201791">D10003S7.TIF</image>
+</page>
+</document>

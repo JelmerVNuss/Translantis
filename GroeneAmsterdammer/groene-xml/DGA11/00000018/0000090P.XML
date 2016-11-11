@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300308</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 8 MAART 1930
+No. 2753
+J. D. STRUIJS 6 Zn*
+Prinsengracht 837 Telefoon 37906
+BEGRAFENISSEN (naar VEHiEZIK et RIJTUIGEN ei AUTO'S]
+CREMATIE. - TRANSPORTEN.
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+Veilinggebouw De Zon"
+L. GIJSELMAN &amp; ZOON GEVESTIGD 1823
+Singel 118—120 en Blauwburgwal 15, Amsterdam (C.)
+
+Dinsdag 8 April 1930~~
+Veiling van Inboedels, enz.
+waarbij wegens sterfgeval de zeer goed onderhouden
+INBOEDEL
+van wijlen Mevrouw de Wed.
+J. D. fteybroek Jr. geb. Ferm a n
+Bijvoeging tot 25 Maart a.s.
+ONZE VERTEGENWOORDIGER
+IS MET COMPLETE CO LECTIE
+ZONDER EENIGE VERPLICH
+
+TING DOOR 'T GEHEELE LAND
+TE ONTBIEDEN.
+Onze geïllustreerde
+prijscourant wordt
+gaarne op aanvraag
+kosteloos
+toegezonden.
+ALLE IND. COSTUUMS
+WORDEN VOLGENS
+HET JUISTE MOüEL
+DOOR
+BEKWAMECOUPEURS VERVAARDIGD
+Wollen PalmbeachMA75
+AM/TERCVM-I - OEJM HAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+KWATTA'S
+Manoeuvre
+reepen
+- MELK EN PUUR
+MEI GELDItE miTt-SMUTIES
+
+DE
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts ƒ 2.70 per kwartaal o/ tio
+per jaar bij vooruitbetaling
+PAASCH
+
+EITJES
+van Droste zijn iets
+bijzonders In diverse
+exquise smaken, o.a.:
+ADVOCAAT-EITJES,
+zacht en s m a k e l ij k.
+Ziet toe, dat ge
+Droste's krijgt.
+-/ALTIJD WELKOM"
+3JASP1BOMMEL:
+BOEKBINDER
+KERKSTRAAT 58
+AMSTERDAM
+H«t papier ten behoeve van dit blad ft f+ A
+w*rdt «eleverd door de firma W« VI • M.
+A lyiSTERD A lUI ROTTERDAM—GRONINGEN
+U TR E G H T A L M K L O.
+
+</text>
+<image timestamp="2002:09:25:05:22:15.00" size="172314">0000090P.TIF</image>
+</page>
+</document>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19360222</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KEESINGS HISTORISCH ARCHIEF
+DAGBOEK VAN HET HEDENDAAGSCH WERELDGEBEUREN
+met VOORTDUREND BIIGEWERKTEN ALPHABETISCHEN INDEX
+vp*
+\
+Ja, maar waarom zoo pessimistisch ?
+KEESINGS HISTORISCH ARCHIEF
+is er toch om ons uit dezen warwinkel van feiten en gebeurtenissen te helpen !
+BOEK MET SO^PAGINA'S BEOORDEELINGEN TER BESCHIKKING
+Ds. M. HINLOPEN, GEREF. PREDIKANT, NIEUWER-AMSTEL:
+Na een maand met vacantie te zijn weggeweest, ben ik er weer
+van doordrongen geworden van hoeveel waarde Keesings Historisch
+Archief is. Ik had vrijwel geen krant onder de oogen gekregen
+in Augustus, maar dank zij Uw onvolprezen uitgave was ik in
+no time weer ,,bij".
+SECRETARIS VAN DEN RAAD VAN STATE; DEN HAAG:
+Het is mij aangenaam te kunnen verklaren, dat„Keesings Histo
+
+risch Archief" mij in alle opzichten heeft voldaan.
+A. BOSJE, AMSTERDAM:
+Zoolang ik geabonneerd ben grijp ik voor de gebeurtenissen der
+laatste jaren altijd naar Keesings Historisch Archief en dat heeft
+me nooit in den steek gelaten. Ik heb dus niets dan lof voor
+deze uitgave.
+H. DE GREEVE, R.-K. PRIESTER, HAARLEM:
+Ik kan U niet anders dan dankbaar zijn voor dit prachtig
+verzamelwerk, dat me uren tijd bespaart en me bij mijn studie een
+groot geluk bezorgt. Uw werk is niet te betalen.
+De uitgave is verkrijgbaar in vier talen (Nederlandsch, Fransch,
+Duitsch en Engelsen)"en in drie uitvoeringen: 724.—, f 12.—en
+ƒ8.—per jaar (desgewenscht in termijnen betaalbaar), zoodat
+niemand zich'nog de weelde" kan veroorloven dit tweede geheugen"
+niet te bezitten. De schitterende buitentekstplaten van de luxe-uit
+
+gave worden algemeen bewonderd.
+
+Aan Keesings Historisch Archief, Dagboek van het
+hedendaagsche wereldgebeuren met voortdurend
+bijgewerkten index, Ruysdaelstraat 71, Amsterdam (Z.).
+Ondergeteekende verzoekt nadere kennismaking met Uw uitgave.
+Naam: ... . . .;.... ......... . ...... Adres: ........... .... .......
+Woonplaats : ...... '. . • .......... • • • • .... ..................
+N.V. AmtMrd. tok- «i Steendrukktrl) v/h Ellerman, Hantis&amp;Co.
+*'*"*"&gt; &lt; ' * ^™"£*$!&amp;**
+w -l 'v A •!' w ^ vV 1»É'f
+WEERFONDS VAN 53 M l L LI OEN
+Als het noodig is kan ik je aan l
+' , . '/
+&gt; ,
+.ir-.-.
+
+</text>
+<image timestamp="2002:10:28:20:28:50.00" size="655934">D3000JVJ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240308</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2438
+J. G. KORSTEN
+Suitiir Technisch Bureau, Kuningsplein, Amsterdam
+Telefoon: 37132, 37133, 37134
+tntrsla eiwarming en Wiimwatunorzieningeii mi:
+Hotels, Ziekenhuizen, Fabrieken, Scholen,
+Kantoorgebouwen, Woonhuizen.
+Villa's to Koop
+l* 't SCHOONSTE 6EDFELTE van SOE8TDIJK, de helft van
+tabbele Villa, bevat Hal, 2 mooie gr. kam. suite, keuken, kelder,
+cloget, op tage 8 gr slaapkamers en bad k., cioset, vliering,
+schuur en mouie aangelegde tnin, ZEE» GUEDKuOP ran alle
+comfort Toorzien slechts ƒ 8040.—per stuk, direct aan tram
+•B spoor, b|j P. MAN, Steenhofstraat 5 bij 't Station SOESTDIJK.
+Tilla'8 en Landhoizen vanaf 4, 5, 6, 7, 8, 9, 10, 12, 15, 18,
+20, 25, 80, 60 Mille en hooger. YRAAttT WO.NLNGCOÜBANT.
+12 zilverentheelepeltjes
+met vejgcbillende
+bloemsteeltjea
+Met etui zonder etui
+128.—. 124.—.
+Lengte der lepeltjes lOc.m
+Franco door Nederland.
+
+Bij niet voldoening mogen
+de lepeltjes geruild worden
+
+In Den Silveren Molenbeecker
+CORN.SCHOORL
+
+Amsterdam den Haag
+KALVERSTRAAT 32
+Tel. 42149.
+HOOGSTRAAT 31
+Tel. No. 6890.
+'•
+STRIJDT TEGEN STIJL" NABOOTSING
+EN AMBACHTSBEDERF
+Afdeeling AMSTERDAM STADHOUDERS
+
+KADE 80 INGANG BECHT &amp; DYSERINCK
+Afd. BLOEMENDAAL VILLA SORGH-VLIET
+G. I. DE KONING J Zn. • Keizersgracht 44?
+(voorheen LEI DSCH ESTRAAT 69)
+- MARMEREH WASGHTAFEL9
+DAMES I
+Laat uw wasch behandelen
+door de wasscherij
+
+toto: Töldiirith. 22-24. Til. 23725
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEID10 &amp; Co.
+'6!
+
+Fa. Wed. P. v. d. Hert
+
+Nassaustr. 2 Bussuni.
+Munt uit door prachtwerk en
+goedkoope prijzen.
+
+Agent voor Bilthoven
+A. F. v. Keijzerswaard
+Telefoon BUSSUM	923
+AMSTERDAM 32776
+UTRECHT l
+BILTHOVEN ƒ 6577
+AMSTERDAM,
+DEN HAAG.
+Dit taschje, in bruin
+Antiekieder met imit.
+ivoor gemonteerd kost
+
+
+f 12.50.
+Groote collectie
+Damestaschjes, zoowel in
+Weensch, Italiaansch en
+
+geperst leder als in effen
+
+kleuren.
+
+PRIJZEN VAN
+
+f 4.—tot f 60.-.
+Bouw- en Woningbureau van de
+N.V.Woningbureauv/hJ.D.F.VAN
+DER VEEN, Kantoor van Vaste
+Goederen, Teding v. Berkhoutstj.3.
+stoppen van alle
+winkelhaken,
+brandgaten enz. geschiedt
+het b i 11 ij k s t door
+
+My Valet from London
+
+BEURSPASSAGE 14
+WILLEMSPARKWEG 175
+Tel. 44915 en 20333
+t:
+5,
+maakt uw huid zuiver en zadltmet jeugdig frissdie rose, verblindendscboone teint, verdrijft zomersproeten, pnistea
+enz en alle verdere huidonreinheden. Verkrijgbaar i 35 cent per Stuk bij Apothekers, drogisten, en coiffeurs.
+Hotel Café-Restaurant
+PRIMA KEUKEN
+Dagelijks Diner-Concert in de Witte Zaal
+Avond-Concert in den Wintertuin
+Stoomwasscherij Het Zuiden
+PIETER AEBTSZSTRAAT68-7*
+TELEFOON 22369
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIG &amp; VAN ELVEN.
+Halter Sigaren
+g l zijn het meest gewild, om
+~" prijs en kwaliteit
+Illustratiedruk-papler van de Firma C. G, A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:02:58:17.00" size="159110">D2003DO.TIF</image>
+</page>
+</document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19080830</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Adam in Ballingschap of de Toorn der Officiëele Kunst.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 30 Augustus IQOS.
+Ams!. IlucK- en StetMutrukkeri], v'li. Kllerinaiï, Harnis &amp; C n
+Dc gereclitsengel Uricl: Uw lichaam dektet gij met 'n dierenhuid
+En tricot! Aat dus van de vrucht! Kruit!
+Gij wildet veel te veel, nu wordt het zuchten,
+En wij hier houden onze gouden vruchten!
+
+</text>
+<image timestamp="2002:08:14:20:42:03.00" size="380412">000001J7.TIF</image>
+</page>
+</document>

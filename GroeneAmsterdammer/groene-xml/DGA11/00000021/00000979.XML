@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300510</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+fti
+Q0RMEUBELEN.
+AltDKASTEN
+od, Mitoer, Rattner, Cox,
+Marteas-enz.
+KLUISDEUREN.
+met 1.2 aut,
+Voor. . f 350
+Ek*6f Vtttt- SCMlftim'il JÊHtmuwlmt (J. B. ). Kerling) zal van
+W—-&gt;V M*i a.s. n»ee Zeer betangrijke Boekverkoopingen gehouden
+worden, • •waarbif o. a. de Bibliotheken van wijlea de H H. Dr.
+K. O. Me4n*nu), Conrftector van het Gymoasium te Zutphen,
+wette , Bibliotheek buitéoflewoon interessant is voor de afdefcling
+Theétogie «n PhllMÓphte, (Spinozana, Judaïca) en Letterkunde,
+van'Ir. «f. Jr. DykVNnilH, Burgtoeestet ven Soerabaia, Jhr. Mr.
+D. KoeH, ea volgens afzonderlijken catalogus het 3« oeUeelte
+der Bibliotheek van* Jhr. J. W. Slx V«n Vvemade, waarbij groote
+serie-werken op aflérlei gebied, ia fraaie banden, Handschriften, zeer
+zeldzame historische Pamfletten, Plaatsbeschrijvingen, Atlassen,
+Gesckjedenis, fraat gtïHuStreerde werken over Natournjke Historie
+(OmHhologle), Letterkunde, enz. enz. f Hierbij ook eenige zeer
+te BtetftetflciiBMit. - ft||k4«g«n. 1*. 1» en 14 Mei.
+twee catalogi van S4OO no«. en f*OÖno*. zijn a Fl. O.SO
+per «luk' te bekomen. &lt;&lt;tfr*-ne. 51B4).
+rv**i-i- DEEERSTEIN
+RA NT srËNEDERLAND
+
+' O * ^
+kunnen lederen avond Uw annonce lezen.
+
+of firmanaam er in te HAMEREN.
+
+
+poozen op. Daar meer dan de helft van de letters wordt
+:&lt;kÉdpBtefling | besteed voor de laatste berichten {waarvoor wij ons bij
+&gt;'jdlNMtóhrte.in h*t Persbureau Vaz Diaz op eenige speciale diensten
+hebben geabonneerd) en de andere helft voor
+adverberichten en de | tentieteksten, moet ook bij de reclame de aandacht van
+tusschen- l het publiek steeds levendig zijn.
+
+
+der reclamemiddel is niet denkbaar.
+
+maken van de reclaateruimte welke wij op onze lichtkrant beschikbaar stellen.
+M£*$* l'T~' :."TVx*-: '"
+jn bij de Provinciale Groninger Courant", Groningen.
+
+</text>
+<image timestamp="2002:09:25:15:32:37.00" size="582015">00000979.TIF</image>
+</page>
+</document>

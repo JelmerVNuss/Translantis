@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19361010</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+F inanciën en economie
+Vil
+[&gt;Ca
+en
+hol
+da'
+Töi
+:
+DE GULDEN NOG ZWEVEND
+C. A. Klaasse
+IK heb de vorige week de nadeden
+opgesomd van de methode die ten
+onzent is gekozen om tot het nieuwe
+koerspeil van den gulden te komen, een
+methode die feitelijk neerkomt op
+laisser aller". Terwijl ik tevens uiteen
+
+zette waarom m.i. aan dit systeem
+geenerlei voordeel is verbonden boven
+het andere alternatief: fixeeren van
+twee uiterste grenzen waartusschen
+men het plan heeft uiteindelijk weer
+tot stabilisatie over te gaan. Het
+eenige argument dat feitelijk tegen die
+fixatie in te brengen is hangt samen
+met hetgeen de andere landen in de
+toekomst op monetair gebied voor
+maatregelen zullen nemen. Inderdaad
+heerscht op dit terrein helaas nog
+onzekerheid, maar wij doen op het
+oogenblik niet veel meer dan die
+onzekerheid helpen versterken. Het
+gaat hier trouwens om long-run
+
+invloeden die geenerlei bezwaar hoeven
+op te leveren voor een voorloopige
+fixatie van koersgrenzen.
+Het verloop op de wisselmarkt sedert
+het loslaten van den gouden standaard
+is een bevestiging geweest van de
+stelling dat het groöte bezwaren in
+zich borg om de koersontwikkeling
+geheel aan zichzelf over te laten. De
+waarde van den gulden temidden der
+andere valuta's is geheel en al bepaald
+door psychologische factoren, in con
+
+creto door de opinie welke speculanten
+en kapitaalbezitters hebben terzake
+van de devaluatie die tenslotte een feit
+zal worden.
+Die opinie is natuurlijk in niet ge
+
+ringe mate beïnvloed door hetgeen
+men om zich heen heeft zien gebeuren
+met betrekking tot de andere valuta's.
+Waarbij men natuurlijk zich niet kon
+realiseeren welk verschil het uitmaakt
+dat ten onzent de aanpassing veel
+verder is voortgeschreden dan. in an
+
+dere landen, terwijl b.v. in Frankrijk
+integendeel in de laatste maanden
+onder het regime-Blum een contra
+
+aanpassing had plaats gevonden. Het
+is hun, die op de wisselmarkt opereeren,
+allerminst kwalijk te nemen, dat zij
+geen inzicht hebben in het peil waarop
+het economische evenwichtspunt voor
+den guldenkoers ligt, gegeven de be
+
+staande verhouding tusschen ons
+inheemsche prijsniveau en dat op de
+wereldmarkt. Maar moet onder die
+omstandigheden het koersverloop aan
+het inzicht van het groöte publiek
+worden overgelaten ?
+Het resultaat is geweest dat bij
+voortdurend stijgende deviezenkoersen,
+dus constante daling van den gulden,
+geen noemenswaarde repatrieering van
+naar elders gevlucht kapitaal heeft
+plaatsgevonden.
+Op zichzelf is dat geen fout, integen
+
+deel, men zou het als een bezwaar
+kunnen aanvoeren, wanneer de gul
+
+denskoers gesteund ware door de in
+
+komende kapitaalbeweging. Zulk een
+steun, uit hoofde van verschuivingen
+van de vorderings- naar de betalings
+
+balans, is evenzeer een bezwaar voor
+het vinden van het natuurlijke even
+
+wicht" als de druk die op onze munt
+kan worden uitgeoefend door weg
+
+stroomend kapitaal. Maar het feit dat
+beide factoren zich op den koers
+konden uitwerken, is op zichzelf een
+euvel van het gekozen systeem.
+
+NIEMAND zal toch kunnen vol
+
+houden, dat het koerspeil waarop
+wij beland zijn iets te maken heeft
+men de intrinsieke waarde" van den
+gulden.
+Voor zoover vraag en aanbod van
+deviezen voortvloeiden uit loopende
+posten van de betalingsbalans, ging het
+in dit tijdvak nog om afdekken van
+oude handelsvorderingen en -schulden,
+zoodat de daarvoor tot stand gekomen
+koers uiteraard niets te maken kan
+hebben met de koopkrachtsverhouding
+van den gulden. Deze verhouding zou
+zich hoogstens op den heel langen
+duur in de koersen kunnen weerspie
+
+gelen. En zelfs dat eigenlijk niet!
+De kwestie van de reëele waarde"
+van een valuta in het internationale
+betalingsverkeer is uitermate gecom
+
+pliceerd, er is een boekdeel over te
+schrijven. Er kunnen in dit kader dus
+slechts enkele zeer oppervlakkige op
+
+merkingen over worden gemaakt.
+Vast staat, dat het niet een eenvou
+
+dige calculatiekwestie is aan de hand
+van inheemsch en buitenlandsch prijs
+
+niveau.
+Om te beginnen is daar al deze vraag:
+wat is eigenlijk prijsniveau. Groot
+
+handelsprijsindex kan in dit verband
+daaronder in geen geval verstaan
+worden, want die is secundair en af
+
+hankelijk van de wisselkoersen, nim
+
+mer primair voor de determineering
+van die koersen. De kleinhandelsindex
+heeft al evenzeer niet veel waarde,
+wanneer men de hoogte vaa de loonen
+niet in de calculatie betrekt. Maar
+zelfs wanneer men het loonniveau
+meerekent, is men er nog niet, omdat
+de gemiddelde efficiency van den
+arbeid van doorslaggevende
+beteekenis is.
+Een land met een laag loonpeil kan,
+wanneer de gemiddelde arbeidspresta
+
+tie laag ligt, toch nog niet concurreeren.
+En tenslotte is voor de wisselkoers
+
+verhoudingen alleen van beteekenis de
+internationale goederenruil, en dus
+moet men primair zien naar de kost
+
+prijsverhoudingen bij de typische ex
+
+port- en importproducten.
+Is in een bepaalde industrie een land
+zeer efficiënt, dan kan ondanks een
+hoogenlevensstandaard toch de handels
+
+balans in evenwicht zijn. Een populair
+en dus niet geheel juist voor
+
+beeld : men zeide vroeger van den dollar
+die ƒ 2,50 waard was, dat de koop
+
+kracht daarvan in Amerika gelijk was
+aan die van den gulden hier.
+Toch kon men dien koers handhaven
+omdat, ondanks de hooge detailprijzen
+en de daarmee gepaard gaande hooge
+loonen, de efficiency van de export
+
+industrie van dien aar d was dat de hooge
+dollarkoers gehandhaafd kon blijven.
+Het komt er op aan of de loopende
+posten van de betalingsbalans
+in evenwicht zijn, en dat kan
+gebeuren ook wanneer de ge
+
+middelde koopkrachtpariteit af
+
+wijkt en soms sterk afwijkt van
+de wisselkoersen I
+
+IN elk geval kan de invloed
+van de
+koopkrachtsverhoudingen en kostprijsrelaties op den
+wisselkoers alleen maar uitgaan,
+wanneer de quantitatieve ver
+
+houding tusschen vraag en aan
+
+bod van deviezen op de wis
+
+selmarkt door die factoren
+vrijelijk kan worden beïnvloed.
+Dat is alleen maar mogelijk bij
+volledig vrij handelsverkeer.
+Wanneer elders verschillende
+artikelen goedkooper zijn dan
+hier uitgaande van een ze
+
+keren wisselkoers natuurlijk
+dan zal dat alleen maar kun
+
+nen leiden tot verhooging van de
+importen indien de grenzen open zijn.
+Dit laatste nu is juist niet het geval
+door de contingenteering. Omgekeerd
+kan de waarde van de valuta, afgeleid
+uit de export-opbrengsten, zich alleen
+maar den zuiver op de wisselkoersen
+uitwerken, wanneer die uitvoer geheel
+aan zichzelf wordt overgelaten en niet
+met steunmaatregelen wordt gewerkt.
+Ook aan deze praemisse voldoet de
+practijk niet. Zoodat men gerust kan
+concludeeren, dat het volkomen uitge
+
+sloten moet worden geacht, dat het
+aan zichzelf overlaten van de wissel
+
+markt binnen afzienbaren tijd zou
+leiden tot het vinden van een natuur
+
+lijk evenwicht" gebaseerd op de wer
+
+kelijke koopkracht van den gulden.
+En wanneer men dan bedenkt, dat
+op den korten duur gezien het koers
+
+verloop nog wordt vertroebeld door
+kapitaalbewegingen die óf den gulden
+steunen (kapitaal-repratrieering) óf de
+
+zen drukken (kapitaalexport óf wat
+feitelijk hetzelfde is aanhouden door
+exporteurs van valutaprovenu hunner
+exporten in afwachting van mogelijke
+koersstijging) dan is het beeld com
+
+pleet: zoo zullen wij zeker niet komen
+waar wij wezen moeten. De koers kan
+aldus zoowel te hoog als te laag als
+heel bij toeval juist goed worden.
+
+IK kan dan ook niet anders aan
+
+nemen dan dat binnen afzienbaren tijd
+het egalisatiefonds zijn werkzaamheid
+zal aanvaarden om werkelijk leiding
+te geven aan het koersverloop. Waar
+
+bij men dan misschien maar het best
+doet, bekend te maken, tusschen welke
+NIET LANGER GEWACHT MET
+DEKENS
+PRIMA WOLLEN
+PANDER DEKENS
+150x200 VAN AF
+f4.
+1O
+XHDER
+ZONEN
+punten men voorloopig de fluctuatie
+zal houden.
+Voor zichzelf moet men die punten
+toch vaststellen, omdat anders van
+egalisatie" niets kan komen.
+Wil men nivelleeren, dan moet men
+toch uitersten in het hoofd hebben;
+heeft men dat niet, dan zal men nimmer
+weten waar in te grijpen, want van
+geen enkele beweging is anders vooruit
+te zeggen of zij een tijdelijke afwijking
+van het gemiddelde verloop is, dan wel
+het begin van een definitieve wending.
+Weet men eenmaal waaraan men
+voorloopig toe is, dan kan de rust
+terugkeeren en dan zal het fonds ook de kapi
+
+taal terugvl oei ing moeten verwerken".
+De detail-transacties van het fonds
+kan men dan geheim houden. Hoewel
+de ratio van die geheimheid niet erg
+duidelijk is. De operaties van de
+centrale bank acht men zoozeer publiek
+goed dat elke week volledige rekening
+en verantwoording wordt afgelegd. En
+wanneer nu de functie van de centrale
+bank wordt overgenomen door een
+egalisatiefonds zou plotseling alles diep
+geheim moeten zijn i
+Onder bepaalde omstandigheden kan
+dat onrust verwekken. Wanneer b.v. de
+centrale bank aan het fonds als
+manipulatiebezit een deel van haar goud
+
+voorraad overdoet, dan verdwijnt dat
+actief bij de centrale bank in haar
+gepubliceerden staat. Wanneer men
+nu van het fonds niets afweet kan de
+indrukt gewekt worden, dat al di1
+goud reeds verdwenen is en nood
+was voor steun van de munt.
+Hoe lang zullen wij het laisser
+aller"-principe nog volhouden?
+BEURSSPIEGEL
+NA den val van den gulden heeft
+de beurs drukker dagen gekend
+dan in jaren het geval is ge
+
+weest. De omzetten zijn het zes- tot
+tienvoudige van de normale. Ver
+
+scheiden fondsenhouders die vóór den
+guldenval kochten gaan over tot
+winstnemen, maar het aanbod wordt grif
+opgenomen bij stijgend koerspeil. Het
+verloop is over het algemeen geweest
+zooals men verwacht had. Natuurlijk
+zijn aanvankelijk hier en daar excessen
+voorgekomen, die echter vrij spoedig
+werden geredresseerd. Zoo maakten
+b.v. aandeelen Nederlandsche en.
+Javasche Bank in de eerste dagen een
+geweldigen koerssprong, die slechts ver
+
+klaard kon worden uit de verwachting
+dat een deel van de goudwinst aan
+aandeelhouders zou komen. Toen men
+zich echter realiseerde dat deze winst
+geheel voor den staat bestemd zou
+worden behoudens dan het gedeelte
+dat overeenkomt met de oude
+pondenverliezen daalde de koers. Per saldo
+bleef toch nog een belangrijk avans
+over, dat ook gerechtvaardigd wordt
+door de betere dividendkansen wanneer
+het pondenverlies is weggewerkt en de
+daarmee samenhangende winstinhou
+
+ding dus ook.
+De koersstijgingen der aandeelen
+liepen voor de verschillende groepen
+sterk uiteen. Geheel in overeenstem
+
+ming overigens met de verwachtingen.
+Ik schreef de vorige week reeds dat er
+fondsen waren waarvan een stijging te
+wachten was evenredig met de
+depreciatie buitenlandsche aandeelen en
+aandeelen van ondernemingen met
+werkterrein voornamelijk in het buiten
+
+land zoowel wat productie als afzet
+betreft (Koninklijke, Unilever) &gt;
+andere waarvan de stijging veel grooter
+kon zijn aandeelen van onderne
+
+mingen met afzet tegen wereldmarkt
+
+prijzen en met niet evenredig met de
+depreciatie stijgende kosten en
+tenslotte aandeelen waarvoor een stij
+
+ging nauwelijks te verwachten was.
+Inderdaad stegen aandeelen Konink
+
+lijke ongeveer in verhouding tot de
+depreciatie. Aandeelen Unilever iets
+meer, wellicht uit overwegingen ter
+
+zake van voorraadwaardeering. Meer
+dan in verhouding tot den guldenval
+stegen de meeste Indische cultuur
+
+waarden. Volkomen logisch ook, omdat
+daar zich het geval voordoet van
+afzet tegen wereldmarktprijs, en niet
+evenredig stijgende kosten. De winst
+
+capaciteit kan dus relatief veel sterker
+toenemen dan de prijsstijging in gu'.
+dens uitgedrukt. Rubberwaarden boek
+
+ten naar verhouding de sterkste sti •
+ging, suikerwaarden veel minder,
+de;.laatste haalden als regel nog niet h» t
+niveau van Januari van dit jaa:.
+Relatief zeer sterk was de stijging b j
+aandeelen waarvoor de guldenval de
+kans beteekende om van negatieve oi
+geen rendabiliteit tot positieve re
+komen. Zoo b.v. van Berkel, va i
+Gelder enz. Wat de toekomst betreft:
+voor sommige aandeelen is zeker ni£
+kans op verdere koersstijging aanwen,;,
+andere hebben de gewijzigde omstan
+
+digheden reeds ruim, soms zeer ruin,
+verdisconteerd.
+Op de obligatiemarkt kwam inder
+
+daad de verwachte koersstijging, hoe
+
+wel voor laagrentende fondsen niet
+zoo sterk als ongetwijfeld het geval
+zou zijn geweest, ware de
+kapita.lrepatrieering niet tegengehouden door
+de onzekerheid ten aanzien van let
+verdere verloop van den gulden. Op &lt;! n
+duur zal hier een verdere verruiming
+intreden, hetgeen voornamelijk /al
+afhangen van de mate waarin gevlucht
+kapitaal terugkeert. Van groöte
+beteekenis is in dit verband ook hoelang
+het goudembargo gehandhaafd zal b
+jven, waardoor het in goud gevluchte ka
+
+pitaal geen gelegenheid krijgt in
+denwerkelijken omloop terug te komen. C. A. K.
+
+Een polls der
+LEVENSVERZEKERING
+MY
+kapitaal voor moeilijk
+ROTTERDAMSCHE HYPOTHEEKBANK
+VOOR NEDERLAND
+NYVERZEKERING-MAATSCHAPPIJ
+OPGERICHT A2 189*.
+
+-' AMSTERDAM,C-KEIZERSGRACHT 570
+INBRAAK; BRAND;ONGEVALLEN-EN
+WATERLEIDINGSCHADEVERZEKERING.
+N.V. DE HOLLAND8CHE
+VOORSCHOTBANK
+KRUISWEG 70 - HAARLEM
+De Bank verstrekt voorschotten met
+een minimum van ƒ1000.-op billijke en
+wat de terugbetaling betreft gunstige
+voorwaarden, onder borgtocht of
+zakeMJKO zekerheid. Een prospectus wordt
+op aanvraag gaarne toegezonden.
+HOTEL DE WITTE"
+Het beste ter plaatse
+Amersfoort * Telef. 22
+Detacheer Uw Zoon
+gedurende een jaar naar de
+_ Commercieef-Technfsche
+Practljkschool M E R C U R l US"
+te Arnhem
+
+met Afd. Autotechniek
+en wij bekwamen hem voor
+iedere leidende functie in
+handel, bedrijf en verkeer.
+Prima referenties.
+Vraagt prospectus aan den Directeur
+A. v. d. HORST, Steijnstraat 19, Arnhem.
+AUG. ILKEMA
+Zwitserse
+Horloges
+ANKERWERK
+15 STENEN
+F10.-*GoudF20.
+39 Beguliersbreesfr.
+1273 1275
+RINGERS
+komt weer met een serie
+fijne verrassingen, aansluitend
+op de 1272 die er al waren.
+1273 PRALINÉWITCHOC.
+ten von ouds bekende vul
+
+ling, omhuld met onze nieuwe
+witte chocolade. 40 ets. p. ons
+276
+1277
+?^®AlBA. Een nieuwe
+bereiding van noten, room en
+amandelen. 40 cents per ons.
+
+1279 MELACTINES. Weer i*t*
+anders l WITCHOC met
+AMAN-- r, -..	. ™,„maar DfcL^en HONING.3okpMc^.
+
+'üS'c'e'nfs Tiïr1* Smake"- !?&amp; J&gt;»™* HARDE NOGA
+1274 MOCCA WITCHOC.
+Een niet minder bekende vullina
+eyen%ens omhuld met onze
+nieuwe witte chocolade.
+30 cents per ons.
+
+1275 M l NOR ES. Klein maar
+1276 TRIPLO-BLOKJES.
+Rmgers melkchocolade,
+witchoc en pure chocolade in
+ee" aantrekkelijke vorm.
+25 cents per ons.
+•»—••«« fcfcfc. l l^MMJC INVJVjA
+fCARAMEL in 'n nieuwe,
+aantrekkelijke vorm. 40 ets. p. ons.
+eomoinatie van ..,„&gt;
+,CRÈME en
+MOCCA-CARAMEL 40 ets. p. ons
+Elk voor zich iets zeer bijzonders
+en	weer echt
+kwaliteit
+MERK EENS OP...
+
+hoe vaak De Groene juist
+dat onderwerp behandelt
+waarover U graag iets.w.'lt
+weten! Daarom: abonneer
+U. Het is nu voordeelig!
+Zie pag. 11 in dit nummer.
+1261
+lJrikKist.Ober-Keliner:
+
+Kunstenmakers
+
+K weet zelf niét, waarom ik zoo de
+wen heb, Willem zegt het is
+^r in de herfs*» waarin de
+ajn eigen zelf vodt afsterven
+'' van' de koude
+voetenook komcn
+maar «^ **»« stakker,
+• Was het Vroe«er ^«"s. DM
+e Je als kellner je zooveel over
+dat je zelf 'een kleine zaak kon koopen
+en je was voor je leven Meneer net als
+Chrater van De Groote Markt" in
+Hoorn waar ik vijf jaar gestaan heb
+en ik maar Hendrik de kellner en hij
+baas en waar zijn nou mijn ellendige
+spaarduitjes? Ik zeg: nou, tegen mijn
+vrouw, ik heb geleefd als een eerlijk
+man, spaarzaam zeg ik en nooit het
+geld er door met champagne van nog
+4-57 inkoop of oesters, maar nou heb
+ik genoeg, nu vieren wij orgies, ga mee
+naar de kermis in Volendam. En na
+tegenstribbelen wij Zondagavond met
+het bootje van de Noord en
+Zuid-Hollandsche Tram naar over het IJ en
+met twee retour a 45 cent naar Volen
+
+dam en wat een plezier l
+En zoo vol als het was in de café's
+net als bij ons waar de heele week vele
+Heeren en Dames uit de provincie
+waardoor de heele stad vol en de win
+
+kels leeg waren want zeggen zij de
+Kranten schrijven de prijzen stijgen
+met, maar dalen doen ze zeker niet
+en dus is koopen zeker niet slecht, en
+ook vele Heeren van de beurs, die een
+voordeeltje hebben gehad en nog al wat
+drinken en veel auto's koopen ze ook.
+Wat was ik verbaasd dien heer
+Post1278
+T279
+1280
+PAG, IS DE GROENE No. 3097
+ma ik had altijd gedacht die was ook
+aan de beurs zoo'n type en zegt hij ik
+ben schilder Kist komt eens Sjken ik
+heb een tentoonstelling, en ik gaat en
+daar waren de Heeren schilders WiHnk
+en Schuhmacher
+endieboozeHeerRoelofsz en nog vele Heeren en Dames bij
+ons uit de zaak en een heele hoop gekke
+schilderijen ik begrijp daar niets van
+» dat Kunst en lijkt dien Heer Postma
+verder zoo'n netten Heer met zijn
+hondje ! Maar daar kun je niets meer
+van zeggen, want moeten niet die
+Heeren van de beurs heden ook kun
+
+stenmakers zijn?
+ir
+l P'
+•*% '
+BH f
+PAG. 19 DE GROENE No. 3097
+
+</text>
+<image timestamp="2002:10:30:08:22:29.00" size="663562">D3000K6J.TIF</image>
+</page>
+</document>

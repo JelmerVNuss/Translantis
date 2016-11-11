@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021019</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Boerengeneraals te Berlijn
+BIJVOEGSEL van rle Amsterdammer, Weekblad voor Nederland van 19 October 1902
+/\nist. Bouk- en Steendrukkerij. v,h. Kllerman, Harms &gt;V &lt; d
+L) E SCHIM VAN HlSMAKCK i tol keizer Wilhelm): Machtige keizer .... bant; voor drie Boeren . . . .
+
+</text>
+<image timestamp="2002:08:18:14:47:32.00" size="456005">D2001KA.TIF</image>
+</page>
+</document>

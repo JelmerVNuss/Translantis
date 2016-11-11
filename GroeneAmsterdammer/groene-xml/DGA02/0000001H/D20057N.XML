@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320813</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Goede Motels in Nederland
+Doorn TELEFOON tas Hotel Cecil"
+PENSION-CAFÉ-RESTAÜRANT
+Logies Ontbijt f 3^- Pension vanaf f 5.
+«raotmnd koud «t warm water, mrt CENTRALE VERWARMING
+op «H* tóumra. Pntthtift en notie Koeten mMden In het Boten, schitterend
+Mtuurachoon met ruime frlerche kamera, c f .«»«»«. »... &lt;r«««»«l.««r
+Oarage 2 minuten van tram*
+C. Lammen van Toorenburg.
+Hotel Pension FLIP HULL'
+l Bondshotel der A. K. W. B. 't Geheele jaar
+' geopend. Kamers met stroomend, koud en
+Teleph. SSt warm water. Elec. licht. Centrale verwarming.
+i- a» MotitwfchHiim. Auto-garage.	H. G. HARMSEN.,
+..NOL IN 'T BOSCH"
+HOTEL-RESTAURANTbijWageningen
+Bosch en Heide Modern Ingericht
+Gunstig ffelegren voor rultersport
+Bondspaardenstal Tennisbanen Garage
+Benzine Teleph. Interc. 314.
+Hotel Het Wapen van Zeist"
+STATIONSPLEIN Telef. 79*
+Alle kamen stroomend water. Centrale verwarming.
+Prima keuken. Gezellige Serre n terras. P. BRAND, Elg.
+LITTHAUEF
+MAGEN BITTER
+:NTEN: TISSOT&amp;CO ROTTERDAI
+Sea^Horse
+de allerbeste
+Mouiwijn Jenever
+M.R POLLEN t ZOON ROTTERDAM
+N.V. CIVIELE EN MILITAIRE KLEERMAKERIJ
+
+DEKKER &amp; DIJKSTRA
+voorheen de erven H. van Dijk
+[ leveranciers van Indische Uitruttrngen [
+
+UTRECHT, Nieuwe Gracht 6 TELEFOON
+DOOR HET GEHEELE LAND TE ONTBIEDEN 13416
+Cigarros Cadena
+IN DE VOORNAAMSTE
+SIGARENWINKELS
+VAN RIJN S
+Sl'MOSTERD
+GEBRUIKT
+
+COELINGH'S
+DEVENTER- en
+ONTBIJTKOEK.
+Met de plaatjes voor
+het PRACHTALBUMi
+
+SPOORWEGWONDER EN
+DER WERELD"
+Nieuwe tijden, nieuwe wijzen,
+Noodgedwongen lage prijzen,
+Aangepast aan 's lezers beurs!
+Geld ontbreekt om ver te reizen,
+Laat verbeelding U dan wijzen
+Wat in Oost en West gebeurt.
+VIER geïllustreerde PRACHTUITGAVEN!
+
+Reisboeken van de Oostersche Bibliotheek:
+
+C. K. ELOUT; Indisch Dagboek, geb. v. f7.50 v. f4.90
+
+M. WAGENVOORT; Karavaanreis door Zuid-Perzië,
+geb. v. f 6.25 v. f 3.90
+
+M. WAGENVOORT; Oostersche momenten aan de Nijl,
+geb. v. f 6.90 v. f4.90
+
+M. WAGENVOORT; In het Voetspoor der Vaderen
+(Hindoestan), geb. v. f 8.50 v. f 5.75
+
+De 4 boeken samen van f29.15 voor fl5.~
+Verkrijgbaar bij den erkenden boekhandel en bij
+UITGEVERIJ C. A. MEES SANTPOORT.
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+VRAAGT BROCHURE AAN
+
+BUREAU WITTEVEEN
+Paramari boplei n 58
+A'dam - Tel. 84751
+TELEFOON 647O6
+WARHOMD/TRAAT 121
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+Amsterdam (C.) • Rotterdam
+Keizersgracht 410 t Wijnhaven 100
+TARIEVEN OP AANVRAGE.
+
+</text>
+<image timestamp="2002:09:21:13:38:50.00" size="122698">D20057N.TIF</image>
+</page>
+</document>

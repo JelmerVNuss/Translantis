@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240419</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET PAASCHCONGRES DER S. D. A. P.
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 26 April 1924
+Nadruk verboden
+
+Boek- en Sieendrukkerij, v h. Ellerman^Harms &amp; Co.
+
+TROELSTRA TOT N O L E N S: ALS JIJ ME NU EENS 'N ZETJE GAF!"
+
+</text>
+<image timestamp="2002:09:03:06:04:42.00" size="188971">D2003HW.TIF</image>
+</page>
+</document>

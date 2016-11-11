@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19111112</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een gedweeëCoalitie.
+(De Bezem-Miliciens.)
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 12 November 1911.
+Herinnering aan de vernederende onderwerping der Romeinen door de
+Samnieten, 321 v. Chr. Met hun Consuls voorop, moesten de Romeinen n
+voor n buigend, onder een van speeren gemaakt juk doorgaan.
+MINISTER COLIJN.
+VAN VLIJMEN.
+Het Colijnsche juk ....
+DUYMAER VAN TWIST.
+
+
+
+. Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:26:02:47:52.00" size="267655">0000055D.TIF</image>
+</page>
+</document>

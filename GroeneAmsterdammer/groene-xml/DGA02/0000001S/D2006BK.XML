@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270827</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KEI ZE R S G RA G H T 333
+
+AMSTERDAM - CENTRUM
+cckbl
+A' .6 T
+'n 32 jarige gunstige reputatie
+
+POOL'sATOL
+met heerlijk verfristchtndcn smaak
+VOCAAT
+BIJSTERVEU)
+Qcwd en toch zeer goedkoop.
+voor
+TELEFOON S7»&lt;4
+LOIK nummer» 15 e«*t«
+B&amp;
+AMSTERDAM
+fiX PO R.-T
+; E ZURCHER
+'HT64-66-6*~70-72,AMSTERDAM
+RMRAMPEN 1925-27
+. Verzeker Uwe eigendommen)
+Fabrieken, Woon- en Winkelhuizen,
+Inboedels en Goederen*
+Vraagt onze concurreerende tarieven»
+|.:
+/\\T** -f "M A Gen' AS' •**• »Storm"
+UIN I/1T[ A.D.BEERENDSSVEEREN
+
+tor. 29| millioen Gulden.
+AMSTERDAM
+LEEUWARDEN.
+Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+MODEL 1927
+6 cyl. Auto op de
+&amp; De schitterende
+'to carrosserie over
+
+treft «lies/
+froftict Qeneral Motors
+!.J&lt;i i '•
+S \X7IT T IXTIT Weteringschans 109—111
+YVlLLllNiV
+A M S T E RD AM
+Afwerken
+
+Ifflateür-opnaraen
+Vlug, net, billijk.
+Speciale inrichting t
+
+CAPI
+115
+^ALVEBSTEAAT
+115
+KARELI
+Tl MTU R
+ff\ lüefe&amp;JJberoemd
+»•" &lt;
+M^ i
+Slegant
+Vraagt Catalogus.
+DEGROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+kost slechts f 2.70 per kwartaal of
+
+10.—per jaar bij vooruitbetaling
+N.V.
+H.A.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+SPANJAARD &amp; Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+ROOKT A.HIILEN'S
+f^ Jt&amp;^~ •,.•:••• K »- l .^/.7-7^^;^--:-^i^::;:,..:.vï'-S:-::;/;r&lt;:;^:?.--&gt; :•,.-•'•, -,:. ,.' -' -,v *" ..^.^
+lli II iHINIMUNINICOTl NE
+wzinuloedt zeffs den geuoeligsten rookerniet.
+j](om uenkrygèdar In de fifiafen uanA.TCiUen.^
+Cüaar geen filialen bücfe bekendste sigaremuinkeders
+y&gt;et&gt;kist/e uan 50 ~f5.Bo O
+Tel 42940 GRBR, FORMA Ufrechtschestr* 85
+
+WONINGINRICHTING
+Bijzondere aanbieding pluchette zware qualiteit
+voor overgordijnen in goud- en toopkleur,
+127 c.M. breed f 2.85 per M., franco huis.
+Van Straalcn Monsieur &amp; Erkclens
+WIJNHANDELAREN
+
+Rotter dam, Leuvehaven 34
+Filialen DEN HAAG
+
+HELDER
+Prima Kwaliteiten
+
+Billijke Prijzen
+
+</text>
+<image timestamp="2002:09:25:18:21:04.00" size="243464">D2006BK.TIF</image>
+</page>
+</document>

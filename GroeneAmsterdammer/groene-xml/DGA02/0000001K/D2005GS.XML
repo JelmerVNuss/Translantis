@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321119</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2894 van 19 November 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72890 - gem. giro G. 1000
+Vraagt steeds onzen weibekenden
+
+GRAVES SUPERIEUR
+Een prachtigen Witten
+BORDEAUXWIJN
+Prijs slechts ƒ 1.60 per flesch
+Levering franco door geheel Nederland
+N.V.HOOeERFF.CKABOT&amp;VISSER'SWIJNHAKDEL
+DEN HAAG ROTTERDAM ARNHEM
+Stille Veerkade 25 27 Jufferstraat 27 Eusebiusbinn^. I
+Tel. No. 110939 Tel. No. 51155 Tel. N». 24084
+N.V.VH 'HM'	'
+HA.KLO&lt;p$|TEKHUIS
+KALVERSTR. 178 ^ AMSTERDAM
+MODERN GENUANCEERD GLAS
+Juist verschenen:
+
+Gita-Gowinda, pastorale van Djajadèwa,
+uit het Sanskrit in Nederlandsche verzen overge
+
+bracht door Prof. Dr. B. Faddegon.
+
+Formaat Oosterse Bibliotheek, 192 blz. voorzien
+van Inleiding (37 blz.), commentaar en afbeel
+
+dingen naar Hindoeminiaturen en- tekeningen.
+Het Gita-Gowinda-Kawya, Het Lied dat den herder bezingt", het
+Indiese Hooglied, is een der grootste lyries-dramatiese kunstwerken der
+wereldlitteratuur.
+In de Inleiding behandelt de vertaler: De rolverdeeling; d?, mytho
+
+logie ; de erotische symboliek ; de interpretatie als allegorie door Sir. W.
+]ones en Christian Lassen; Dramatiek en Lyriek; Legende en historie
+rondom de figuur van Djajadèwa.
+
+Ing, f 2.90 geb. f 3.90
+Bij den Boekhandel en
+bij Uitgeverij C* A, MEES, Santpoort
+Bij begin van brand is het van het grootste belang
+dadelijk een middel bij de hand te hebben om het
+gevaar te keer en.
+
+De Snelblusscher
+HOLLANDIA
+is een der beste middelen
+Eenvoudig - Doeltreffend - Duurzaam
+Duizenden referenties.
+Honderden ongevraagde attesten bewijzen de
+goede werking onzer toestellen, zelfs na 22 jaren
+gevuld bewaren.
+
+SPANJAARD 6 Co.
+Fabriek ESPANA" - UTRECHT
+
+</text>
+<image timestamp="2002:09:21:21:58:42.00" size="118564">D2005GS.TIF</image>
+</page>
+</document>

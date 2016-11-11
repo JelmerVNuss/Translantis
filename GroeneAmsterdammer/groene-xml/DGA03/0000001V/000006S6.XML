@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280728</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2669 van 28 Juli 1928
+25 et
+e uroene
+e«kblad vooir Nederland
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+HOFLEVERANCIER
+LI. HOOGEWERFF, CflABOT i VISSER'S
+WIJNHANOEL
+OPGERICHT ANNO 1883
+HOOFDKANTOOR:
+ROTTERDAM
+Jufferstraat 27 b
+
+FILIAAL
+DEN HAAG
+NOOR D WAL 4
+FILIAAL
+ARNHEM
+EUSEBIUSBINNENS. la
+HEEFT MOOIE COLLECTIE
+BORDEAUX-, RIJN-, MOEZEL, EN
+PORTWIJNENIH ALLE PRIJZEN
+PRIJSCOURANT ZENDEN WIJ U GAARNE OP AANVRAGE
+ItAKLOOSEIMJlS
+AMSTERDAM
+MAANDAG, DINSDAG EN WOENSDAG
+
+COUPONS
+WOL - ZIJDE - KATOEN
+WITTE
+STUK
+
+GOEDEREN
+20,
+EXTRA REDUCTIE
+
+GORDIJNSTOFFEN
+GERZON
+KALVERSTRAAT - DAMSTRAAT
+
+</text>
+<image timestamp="2002:09:04:23:35:55.00" size="83203">000006S6.TIF</image>
+</page>
+</document>

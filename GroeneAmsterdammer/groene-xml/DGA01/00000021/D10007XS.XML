@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260918</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+HOFLEVERANaER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A R ZURCHER
+CARTÖNNAGËFABRIEKenDRUKKERIJ
+IjOOIERSGRACHT64~66~68-70-72,AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+ALBINGIA
+Verzekering-Mijen., _- Ao 1901.
+
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+30 CENT PER HALF ONS
+N.V. ,JMeubelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+N.V. GOEDEWAAOEN-GOUDA
+Amsterdam:
+Restaurant HOEK
+IIHUIIIIIIIIIIIIHIIIII lUIIIIII
+- Oesters - Kreeft - Caviar
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+Speciale inrichting l
+
+GAPI
+115 KALVERSTRAAT
+t/o LIBERTY
+HETJUISTEADRES
+Catalogi V,
+83
+HEES Ci DELFT
+ITIMTURJ
+N.V.V/M
+HAKLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+~ tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIS.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD &amp; Co.
+Meubelen naar eigen ontwerpen of naar oud*
+
+ARNOLD HOUTSCHILf
+Singel 285 Amsterdam
+r-
+T&gt; * [l
+l* i!
+; 4
+- ^ , * .*'*-•^ j T ,
+-,„l • ? 'i
+S^ -^ i I /•;•
+IL-il
+r- '^
+S * 4W" «mm ysre" ""i
+T ' rï'jjT ,
+»"' -il
+BSBHBSBSfEIÜi
+MEE5T GESCHIKTE BH1DERIJ VOOR H'H'UITGEVERS
+5TVILLIBRORDUSSTRAAT 53-55ADAMTEL 2't^t66
+
+</text>
+<image timestamp="2002:09:26:03:43:05.00" size="184155">D10007XS.TIF</image>
+</page>
+</document>

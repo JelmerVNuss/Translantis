@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270604</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+DE GROENE AMSTERDAMMER VAN 4 JUNI 1927
+No. 2609
+BUUMEHNTINGEN
+"zoowel eenvoudige als betere uitvoering.
+G,). DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+Laat Uw w as eb
+behandelen door de
+Dames*
+
+STOOMWASSCHERIJ
+HET ZUIDEN"
+PIETER AERTSZSTRAAT 68
+Droog toe 25 cent per K.O. of per
+stuk en opgemaakt. Billijk tarief.
+Aanbevelend, NEIDIG &amp;ZOON.
+Telefoon 22365
+gfoovzüten
+verzacht
+en geneest
+men met
+
+PU ROL
+Doos30-6O,Tube 8 O et.
+Bij Apoth. en Drogisten.
+Firma KRONER
+Nicowendijk 167, Amsterdam
+TEL. 43186.
+Speciale aanbieding.
+Graslinnen lakens
+zeer solide kwaliteit
+150 c.M, breed Gewone Zoom.
+180 cl
+II. a jour
+Gewone Zoom.
+II. a joor
+3.35
+i, didD
+3.70
+4.20
+4-20
+Staal franco op aanvrage.
+ULLSTEIN
+KNIPPATRONEN
+ONZE PRIJZEN:
+
+15C 40 60
+Elegant en modern kunt U zich kleden, zonder dat men zal ver
+
+moeden dat U Uw kleding zelf vervaardigt. ULLSTEIN
+KNIPPATRONEN" maken dit mogelik, terwijl U er van verzekerd
+zijt steeds de laatste Parijse mode te dragen
+In Amsterdam uitsluitend verkrijgbaar bij
+
+
+
+GERZON
+T
+E
+L
+l
+O
+6
+O
+Bontwerker
+
+Börteljorisstraat 26-28 Haarlem,
+GEVESTIGD 1856.
+Lid der Kon:Goedgek.Vereeniging van
+Bontwerkersbedrijven.
+Bewaren van pelterijen gedurende den zomer.
+Alle pelterijen bij mij in bewaring zijn tegen inbraak en brandschade verzekerd.
+
+</text>
+<image timestamp="2002:09:21:08:51:44.00" size="101787">D10006J1.TIF</image>
+</page>
+</document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110521</Datum>
+<Pagina>14a</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Friesche politiek.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 21 Mei Igu.
+Terwijl met het oog op de algemeene verkiezingen in 1913
+de Unie-liberalen en Vrijz. Democraten in het heele land samen
+wenschen op te trekken onder de leuze &gt;Algemeen Kiesrecht",
+hebben de Friesche Unie-liberalen, en zelfs de Friesche
+Vrijz.Democraten met de vrijzinnige tegenstanders van Algemeen
+Kiesrecht op eigen houtje een verbond gesloten.
+Amst. boek- en Steendrukkerij, v/h. Ellermau, Harms &amp; Co
+Minnen wij, lieven wij, Lesbia lieve,
+Storen w'ons niet aan 't gepraat van de straat.
+Laten wij d'andren, afgunstig naar minne,
+Praten, mijn kindlief: 't doet ons geen kwaad".
+(CATULLUS).
+
+</text>
+<image timestamp="2002:08:25:04:20:03.00" size="321924">000004WF.TIF</image>
+</page>
+</document>

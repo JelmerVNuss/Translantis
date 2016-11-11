@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320625</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+, 'iftjfst. '
+:'
+
+cm
+,.
+Model-melk, het
+ideale voedse
+vorden op Oud-Bussem'^
+Boeien machinaal gemolken.
+Model-melk: rauwe melk op hygiënische
+
+wijze gewonnen'; in een hygiënisch, weten
+
+
+schappelijk ingericht bedrijf. Rauwe melk
+
+bevat in de grootste hoeveelheid alle stoffen,
+
+die onmisbaar zijn voor de gezondheid Uwer
+
+kinderen. Oud-Bussem" bereidt deze
+
+rauwe melk, het beste, dat ge Uw kinderen
+geven kunt.
+
+HOFSTEDE OUD-BUSSEM"
+garandeert:
+Nauwkeurige veterinaire dienst
+Goed bacteriologisch onderzoek
+Steriele behandeling
+Het vee in goede conditie
+Ook het personeel steeds onder
+medisch toezicht
+Streng toezicht op de hygiëne in
+stallen en werkplaatsen
+Groote ervaring.
+
+
+x.v. M ELKE R IJ OUD-BUSSEM"
+
+Filialen:
+Amersfoort:
+van Campenstraat 9, Tel. 1208.
+Amsterdam:
+Weteringschans 195, Tel. 37344.
+Weissenbruchstraat 49, Tel. 81700.
+Maasstraat 131, Tel. 29017.
+Olympiaplein 80, Tel. 90946.
+Baarn:
+Laanstraat 43, Tel. 36.
+Illocnicmlaal:
+Verbindingsweg 59, Tel. 22754.
+
+Bezoek op de tcn(ooiis(ellimj Moeder cu Kind" den
+
+inodelslal van Oiid-Busscm"
+IC u ss u iii:
+Landstraat 8a, Tel. 239.
+Hilversum:
+Vaartweg 21, Tel. 1155.
+laren:
+Naarderstraatweg 30, Tel. 32.
+
+Utrer.ht:
+Jan van Scorelstraat 9, Tel. 11700.
+
+Zeist:
+Van Reenenweg 27, Tel. 300.
+
+</text>
+<image timestamp="2002:09:27:02:14:53.00" size="385699">00000ACO.TIF</image>
+</page>
+</document>

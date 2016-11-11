@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010113</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1229'
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De verbeterde controle bij de gemeente-tram.
+De Duitsche nieuwe-eeuw-wenscher.
+
+(Lustige Tiliitter).
+Caran d'Ache in Le Eire.
+Caran d'Ache in den l'ignro.
+i in i.ieuw eeuw WHT K nt u :ii^. i-oe^s \
+\Vat, AP, nieuw? eeuw ? Er is &lt; t '.ij n ;s vf-rlpilen jnar al een gPweest. . .
+I/at \v«s de echte ni--;t. Daar he.-ft die kerel met z'n twee nullen
+waarachtig mijn foai gsknrgen !
+Xiken zijn
+Ch imberlaiu".
+zaken '. d,t is de movUT-i
+vür. «s l.r.ni: Fjm l ,;
+Be/o.k aan Rusland.
+
+door den l! W/v 7 Gmtf. lieer Jirel.-tchiiei-ler t' l'i'i :
+
+» . . . . ; et pour mieux m'émouvoir.
+Sur g -ang dans la poussière orivait mon devuir.
+Et pour se faire entendre au plus juste des rois
+l'ar cette triste bouche elle empruntait ma voix
+Di: SIHIJAB KiTciiKSEK : »Er zijn er te veel!"
+Caran d'Ache in -Le lüre.
+!.'i;;i&gt; luiiiiüi- ;,-)»&gt; Ki.iitrinn
+van uwe Müjtistait &lt;;f liluinii ei-ïd."
+C":*1» &gt;' f&gt;c «^.-"S^&amp;^J
+
+
+Yiüluiiit): vTransvaal is ter eere
+Het: Kalt! van den Tijd.
+
+</text>
+<image timestamp="2002:08:15:12:22:42.00" size="402714">D2000RM.TIF</image>
+</page>
+</document>

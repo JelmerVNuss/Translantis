@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240119</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.
+IN HET LAGERHUIS
+BIJVOEGSEL van De Arasterdammer", Weekblad voor Nederland van 19 Januari 1924
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Hartns &amp; Co.
+BALDWIN MACDONALD ASQUITH
+
+
+
+DE VIJAND STAAT GEREED HET KLOOSTER TE BESPRINGEN!"
+LLOYD GEOROE
+(Vrij naar VONDEL'S GYSBREOHT;
+', fel
+•*#• &gt;i
+'i:$
+
+,-**!?*'
+
+
+.5*::
+
+</text>
+<image timestamp="2002:09:05:10:23:44.00" size="228679">D10004VE.TIF</image>
+</page>
+</document>

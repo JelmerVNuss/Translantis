@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010324</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Amendement—van Gilse en de Legerwet
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 24 Maart 1901.
+•**^n^(i~&lt;H3r*y*y^*J^$$ff«W*-^^-^^r:!^^
+
+
+(\Vrjs: /.c
+Wie met eiken wind wil waaien
+Die onthoude bovenal
+Dat de wind somtijds zal draaien
+Niet bestendig wezen zal.
+Hij blijft, heeft hij dit vergeten,
+Voor een wissen val beducht:
+Hij ligt, eer hij 't zelf kan weten
+Met etc beenen in de lacht.
+Mr. A'Viii v. LF.NNF.P, Hei dorp aan .Ie
+Amst. lioek- en Steemlrukkerij, \ h. Kllemian. Hanus
+
+</text>
+<image timestamp="2002:08:15:19:30:48.00" size="505290">D2000UC.TIF</image>
+</page>
+</document>

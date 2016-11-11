@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150321</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+21 Maart '15. No. 19Ü9
+uit 8 staat. Deze moet echter nog spelen
+met Thomas en ook met Davidson.
+
+De volgende levendige partij werd gespeeld
+in het Trebitsch tournooi te Weenen, waar
+van wij in deze rubriek reeds den uitslag
+meedeelden.
+
+FRANSCHE PARTIJ
+Wit
+R. Spielmann
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Zwart
+J. Krejcik
+e7-e6
+d7-d5
+Pg8-f6
+e6xd5
+Lf8-e7
+Pb8-c6
+Pc6-b4
+e2-e4
+d2—d4
+Pbl—c3
+e4Xd5
+Lel—g5
+Lfl-d3
+Pgl-e2
+Met de bedoeling op dl te ruilen. Of dit
+een tempo waard is schijnt zeer twijfel
+
+achtig.
+8. Pe2-g3 Pb4vd3
+9. DdlXdS c7-c6
+10. 0-0 0-0
+II. Tal—el Dd8—d6
+Er dreigde 12. Dd3—e3, Tf8-e8, 13.
+Lg5X*6, terwijl op 12... Lc8-e6,13. Pc3-e2
+zou volgen.
+12. f2—f4 Le7—d8
+13. f4—f5 Ld8-c7
+14. Lg5-f4 Dd6—d8
+15. Lf4-e5 Pf6 g4l
+Dreigde 16... Le5: 17. de5: Db6f en wint
+de kwaliteit.
+16. h2—h3 Pg4Xe5
+Op 16... Le5: 17. de5: (beter dan he4:)
+Dbhf 18. Khl, Pf2f 19. Tf2: Df2: 20. Tfl,
+Dc5, 21. Ph5! gaat zwart niet in.
+17. d4Xe5 Dd8-g5
+Door 17... Te8 schijnt pion e5 verloren
+te zullen gaan, doch dan is 18. f6 zeer
+onaangenaam (bijv. 18... Le5: 19. Ph5! met
+de dreiging Te5: gevolgd door Dg3 en wint)
+18... Te5: 19. Te5: Le5: 20. Ph5, Lf6: 21.
+Tf6: gf6: 22. Dg3f Kf8, 23. Dg7f Ke8, 24
+Pf6f Ke7, 25. Dg5 enz.
+De tekstzet houdt overigens pion eövast,
+bijv. 18. Khl, Te8, 19. De3, De3: gevolgd
+door Te5:.
+18. Tfl-f3 Tf8-e8
+19. e5—e6 f7Xe6
+20. 15-f6 Te8—f8
+Op 20... gf6: zou volgen: 21. Pce4! de4:
+22. Pe4: en wint.
+21. f6 'g7 Tf8Xf3
+22. Dd3Xf3 Dg5Xg7
+2». Pg3 h5 Dg7-f7
+24. Df3-g4f Df7-g6
+Zwart heeft nu een pion meer en boven
+
+dien twee loopers tegen 2 paarden. Toch
+moet hij nog zeer oppassen.
+25. Dg4 - h4 e6-e5,
+26. Tel-fl Lc8-f5
+27. Ph5-f6f
+Op g2-g4 zou volgen Ta8- f8.
+27	Kg8-g7
+Op Kh8 vreesde zwart 28. Ph7: Dh7: 29.
+.Df6f Dg7, 30. Df5: enz. Zwart kon echter
+28...Ld8! spelen, bijv. 29. Df2, Dh7: 30.
+Df5: Df5: 31. Tf5: e4 enz.
+28. Pf6Xd5 c6Xd5
+29. Dh4-e7 Kg7-h6
+Gevaarlijk, maar toch korrekt, 29... Df7
+gaat niet op wegens 30. Df7:f Kf7: 31.Pc3
+d5., 29...Kg7—g8 deugt niet wegens 30.
+De7-c7: Dg6-e6, 31. Pc3Xd5, De6Xd5,
+32. TflXfS enz.
+
+(Stand der partij na 29... Kg7-h6)
+ZWART
+a
+f g
+ede
+WIT
+30. g2-g4?
+Wit vermijdt 30. Dc7: wegens Lf5Xh3,
+31. Tf2, Tf8, overziet echter, dat dan 32.
+De5: Tt2: 33. De3f Kg7, 34. Df2: Le6 remise
+zou maken. Na den tekstzet behoudt zwart
+een stuk meer. Spielmann meende, dat hij
+gewonnen stelling had, komt echter be
+
+drogen uit.
+30	Dg6-b6f
+31. Kgl-h2
+Tfl—f2 schijnt niet aan te bevelen wegens
+de binding van den toren. Na Kg2 vreesde
+Wit eventueel na Pd5: de binding van het
+paard door Dc6. Speelt Zwart nu e5—e4f
+32. K*2, U6 33. Pd5: dan is Dc6 minder
+onaangenaam, omdet het paard dan niet
+gebonden is. Zwart heeft echter een andere
+pijl op zijn boog.
+31	Lf5—g6
+32. Pc3Xd5 Db6—d6!
+33. g4-g5f Kh6-h5
+Alle toeschouwers hielden Zwart nu voor
+verloren. Uitvoerige analyses wezen echter
+uit, dat Zwart ondanks'zijn geëxponeerden
+koningsstand, zich steeds in veiligheid kan
+brengen. Opmerking verdient, dat Spielmann
+door 32. Dh4f remise had kunnen houden.
+34. De7—g7
+Ook Pf6f haalt niets uit.
+34	e5-e4f!
+35. Tfl-f4 Dd6Xf4f
+36. Pd5xf4 Lc7Xf4f
+37. Kh2—g2 Lf4Xg5
+Waarmede het spel feitelijk voor zwart
+gewonnen is.
+38. Dg7Xb7 Ta8-d8
+39. c2-c4 Td8-d2f
+40. Kg2—fl Kh5-h4!
+Zwart moet nog voorzichtig spelen. Op
+40... e3 zou volgen: 41. Df3f gevolgd door
+Df8f remise.
+41. Db7-c8 Lg6-h5
+42. Dc8-f5 Td2-dlf
+43. Kfl—f2 e4-e3f
+44. Kf2—g2 Tdl—d2f
+45. Kg2—gl Td2—f2
+46. Df5Xh7 Le5-f4
+47. Dh7-h8 Tf2 - d2
+Zeer verleidelijk maar inkorrekt was het
+volgende torenoffer.
+47... Tfl f 48. Kfl:e2f 49. Kg2, el D, 50.
+Df6f Lg5, 51. Dd4f en zwart zou nog ver
+
+liezen.
+48. Dh8-h7 Lf4-h2f
+49. Kgl—hl Lh2—f4
+c4—c5 e3 e2
+50.
+Lh5-f3f!
+51. Dh7-e4
+Geeft op.
+Opmerkingen van J. Krejcik in Deutsches
+Wochenschach.
+\ 21 Maart 1915
+redacteur: K. C. DE JONGE
+Van Woustraat 112", Amsterdam
+
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+PROBLEEM No. 27 VAN DEN AUTEUR ?
+Zwart (17 schijven)
+
+~ 5
+l
+
+6j
+11
+
+16
+
+21
+
+26
+
+31
+
+3C
+
+41
+
+46
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (16 schijven)
+Stand. Zwart: 2, 5, 7, 10/14, 1620, 24, 25,
+30, 36.
+Stand. Wit: 26/29, 31, 33/35/37, 39, 40, 42,
+45, 46, 48, 49.
+PROBLEEM No. 28
+van den auteur P. van Rossum Jr., A'dam
+Zwart (11 schijven)
+j l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (11 schijven)
+Stand. Zwart: 3, 7/9, 12, 17/19, 22, 23, 28.
+Stand. Wit: 26, 27, 30/32, 34, 35, 37, 38, 42,49.
+
+Oplossingen worden binnen 14 dagen inge
+
+wacht aan bovenstaand adres.
+
+OPLOSSING PROBLEEM No. 24
+VAN DEN AUTEUR ?
+Stand. Zwart: 7, 9, 10/13, 16/20, 25, 26.
+Stand. Wit: 21, 27, 28, 30, 31, 34, 36, 37,
+42, 43, 50.
+Wit: 28-23. 42-38. 50-44, 37-32, 36-31,
+Zwait: 18:40, 25:34, 40.49, 26:28, 17:37,
+
+38-32, 32:3, 3:5, 5-23 2JM8!
+49:38, 38:21, 7-12, 12-17 gedwi
+
+PART IJ GEDEELTE
+
+Zwart (17 schijven)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+:o
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+hierin geen positievoordeel te zien. Indien
+zwart zou gespeeld hebben
+23-28
+32:23 21:41
+46:37 19:17
+30:8 9-13
+8:19 14:23
+25:14 10:19
+dan werd de stand 11 om 11, maar zooals
+gezegd zag zwart hierin geen positievoordeel.
+Zwart speelde nu om schijfverlies te
+voorkomen
+23-29?
+waarna wit de navolgende ontleding liet
+volgen:
+31-26
+46-41
+43:23
+30:8
+26:8
+8:17
+36:27
+32:23
+12-17 ged.
+17:39
+19:28
+3:12
+7-12?
+11:31
+9-13
+14-20
+Wit (17 schijven)
+Stand. Zwart: 3, 4/7, 9 16, 19/21, 23, 24.
+Stand. Wit: 25, 27, 28, 30/33, 35/38, 40, 42,
+43, 45, 46, 48.
+
+In deze stelling speelde wit
+28-22
+een schijf winst dreigende.
+Zwart kon nu, om het schijfverlies te
+coupeeren, 6 om 6 spelen, maar meende
+Na deze ontleding gaf zwart de partij op,
+daar wit 3 schijven had gewonnen.
+
+
+Goede oplossingen ontvangen van No. 23.
+I. Heertje, H Koperberg, S. Serlui, allen te
+A'dam; L. la Porte, Goes; J. Luteijn, Groede
+en A. J. Oskam, Utrecht.
+
+
+VOOR ONZE MILITAIREN
+De redacteur doet bij dezen een beroep
+,op de welwillendheid der lezers. Hij verzoekt
+beleefd de exemplaren van dit blad na lezing
+aan een der onderstaande adressen te zenden:
+W. B. J. Heertje, 18e Reg. II Bat. 4e Cump.
+IV Divisie, VeldlegerTilburg; A. A. Snijders,
+23 Bat. &lt;?e Comp., Kamer 3, Foit aan de
+St. Aagtendijk; G. Zwart, Kamer 11, Fort
+bij Velsen; M. Emmerik, Militair Tehuis,
+Markislraat, Naarden.
+Door de militairen zal de toezending ten
+zeerste gewaardeerd worden. Men kan ook
+volstaan de schaak- en damrubriek uit te
+knippen en deze onder gesloten couvert op
+te zenden. De zending is dan portvrij!
+UIT DE DAMWERELD
+Door een Ie klasse tiental van de
+Amsterdams-che Damvereeniging van Embden"en
+Utrechtsch Damgenootschap is een wedstrijd
+gespeeld, met het resultaat dat van Embden"
+voorloopig won met 15 tegen 3 punten. n
+partij zal worden beslist door den wereld
+
+kampioen H. Hoogland te Utrecht.
+Een mooi resultaat voor van Embden".
+
+
+CORRESPONDENTIE
+Aan de oplossers wordt beleefd verzocht
+geen oplossingen in te zenden van blad
+
+problemen. Deze worden geplaatst voor
+oefening om van het diagram de oplossing
+te vinden.
+HET WERELDBEROEMDE MERK
+
+HIS MASTER'S VOICE"
+is een waarborg voor DEUGDELIJKHEID, SIERLIJKHEID en
+ARTISTIEKE WAARDE. Daarom eisenen Muziekkenners en
+amateurs steeds de HIS MASTER'S V01CE"-machines en platen,
+en weigeren beslist elk ander merk.
+
+ZOOEVEN VERSCHENEN: Nieuwe Hollatidsche Opnamen.
+
+TSf AMERICAN IMPORT Co.,
+DEN HAAG, AmstPrdamsclie Veerkade 22a, zendt op aanvrage GRATIS en FRANCO
+volledige catalogi benevens lijst van officieel aangestelde Agenten.
+6ELDBEU6GINS.
+
+Zekere gpldbelegglng yindt men
+door af'trebo-chie s«»e&lt;i«* gronden
+(dimrl)ij uiterst gunstig* g«-l*-jf»Mi)
+te bonpeu, (leze met \erinijding
+vau zware kosten gelei-'elijK tot
+gra«lund te maken. Weinig be
+
+slommering, zekere uitkomst en
+goede winsten. Men bi-hondt liet
+beheer ovw zij • geld, en b h -ft
+'t uiet toe te vertrouwen aau
+buitenlundsche ondernemingen.
+Brieven onder L B, bureau van
+dit blad.
+DE AMSTERDAMMER
+Weekblad voor Nedtriand
+kost slechts /1.65 per kwartaal
+Levensverzekering- n __ L _
+Maatschappij H M) D C FT)
+Maatschappelijk Kapitaal:
+EEH niLLIOEN G U I, D ES (volteekend).
+Biantoor: L. K.W. BEÜKMAH, 01 Actóertapal 95, M
+HOFLEVERANCIER,
+
+KALVERSTRAAT 216, - WILLEMSPARKWEG 9,
+Telef. No. 2040. t Telef. No. 1793 Zuid.
+
+AMSTERDAM.
+Fijn* vleiichwaren, ' Ftine Fleiiehwarra,
+Delikatejson, Mlstt
+n. n • i i L ireukaiBBflen,
+Binnen- en Buitenlandsehe
+Ijjj u- und auslandiseb
+
+Comtitiblet, eni. RaM,
+All Kind of meat, Viand«8 de Ier? qnalité,
+
+FiwtitlMieiei, Deliatale8'
+
+Inland and foieign
+
+eheesen.
+Fromage inditrae et
+lransw,
+Comestibles.
+GENIUS
+(erkend door de Oogartsen hier ter stede)
+Kantoorpince-nez
+(met pantoscoopglazen) ƒ 2.
+Glazen voor veraf en nabij
+per paar ƒ 3.5O
+Goud-doublésportpince-nez /a.9O
+
+Amstel 21O
+Onderl.Levensverzekering v. Eigen Hulp"
+
+Telegramadres: OL.VEH, Haag. Telepboonnvmmer 2297.
+HOOFDKANTOOR:
+'s-Gravenha^e, Kortenae^kade 3.
+BIJKANTOREN:
+Amsterdam, Rokin 99; Rotterdam, Wunhaven 33; Groningen, Groote
+Markt 27; Arnhem, Jans Buitensingel 23.
+Directeuren: J. C. VAN GOENS en Mr. E. A. SMIDT. Ad/.-Direct.: Mr. C. J. SNIJDERS. Wisk. Adviseur:
+Dr. P. MOLENBROEK te 's-Gravenhage. Geneesk. Adviseur: Dr. D. L. VAN WELY te 's-Gravenhage.
+Verzekerd Kapitaal. . . . /84.OOO.OOO.—7e'&lt;erheidsfonds. . . . ƒ O«».«"*
+Verzekerde Rente	«6O.OOO—Reserve	14.5«*O.OOO.
+Aan de verzekerden is f 3t-35£3.OO2.!*4 als winst teruggegeven.
+De O. L. v. E. H. sluit tegen vaste premiën alle soorten van levensverzekeringen en lijfrenten.
+Iedereen, hetzij hij al of niet lid is der Vereeniging E. H. kan zich bij haar verzekeren.
+Vraagt Tarieven en "Winstvoorbeelden.
+Heemstede,
+bij MaarlëmT
+
+|«P. SLUIS. Z AAP H Aim EL AMSTERDAM/ |
+
+VRAAGT ONZE GRATIS BROCHURE VAN 40 PAGINA'S
+MOTOR-en ZEILJACHTEN
+"%BOEIVAARTUI6EN, SCHEEPSMOTOREN.
+N.V. W0rf
+Amstel", Dir. THIEBOUT,
+Onder-Amstel.
+TE HU K
+
+Royaal Heerenhuis,
+Johannes
+Verhulststraat hoek Cornelis
+Schuytstraat	ƒ1100.
+Bizonder groot
+Bovenhuis aan het
+Valeriusplein	650.
+Heerenhuis met Tuin
+Valeriusstraat	550.
+Heerenhuis met Tuin
+Lomanstraat bij de
+Okeghemstraat . . . . 550.
+Bovenhuis Lomanstr. 475.
+I etage
+Amstelveenscheweg 147	325.
+IIIetageOvertoom450 325.
+Emmaslraat 18, groot
+Bovenhuis	500.
+Woonhuis met Tuin
+Zeilstraat 29	288.
+Etage-Woningen in verschil
+
+lende stadsgedeelten dage
+
+lijks te bezichtigen te be
+
+vragen bij den Opzichter J.VAN
+RIJN, Zeilstraat 27.
+Verzoeke vooraf
+kennisgevingBruno Muller
+238 SINGEL, TELEFOON N. 3514
+DAMES en BEEREN KLEEDESMAKER
+bericht de ontvangst der JSILUWSTE STOFFEN.
+amescostuums vanaf . ,
+f65.Heereucostuums vanaf . • f
+50.DE BONT &amp; LEYTEJ'S
+FIJIE CHOCOLADE
+EI SüIKEHWERKEJ.
+BUREAU TOT PUBLICITEIT VAN
+WETENSCHAPPELIJK NIEUWS
+SINGEL 276 - AMSTERDAM - TELEFOON Noord 10789, 10148
+Afd. SCHRIFTELIJKE CURSUSSEN
+Curatorlum:{*r-fDDrr
+C. F. SCHOCH. Dr. H. C. PRINSEN GEERL10S,
+H. D. J BODENSTEIN, Jhr. Mr. L. H. VAN LENNEP.
+Onder leiding van bevoegde docenten organlseeren wij 112 schriftelijke cursussen.
+
+A. Handelswetenschappen: Se"ludc\ïsQch^
+dentle, Boekhouden, Handelsrekenen, Handelskennls, Handelsrecht, Handelsaardrijkskunde,
+Warenkennis, de Techniek der Administratie, de Techniek der Bedrijfsreclame, Schoonschrljven,
+Machlneschrijven, Stenografle. Speciale cursussen voor de practijk-dlploma's.
+R Talen' FrB"scll&lt; Dnltsch, Kngelsch, Italiaanse!], Spaansch, Deensch, Noorsch Zweedsch,
+u. uiv-ii. Russisch, Maleisch, Latijn, Qrleksch, Esperanto, Lileiatuurgeschlcdenls Bijzon
+
+dere, leergangen voor het Staatsexamen A en B.
+
+C. Exacte Wetenschappen en Techniek: niste"rek'undehw&lt;"kM' kWedr"
+Electro-Technk-k, Lijnleekenen, Meten en Tcekenen, enz ^ . r u g unde,
+D Alff OntwikUpIintT- A1K- ontwikkeling, Alg. beschaving, Psychologie, Sociologie,
+u. nig. vyiiLwiivivcilllg. Lo(,|ca (de kunst va„|,c, dl.nken)i Rhclorlca (de kunst om
+zich uit te drukken). Aeslhelira, Muziek, Muziekgeschiedenis, Harmonieleer, Bijbelkennis.
+Gezondheidsleer en Sexueele Hygiëne, Schrijven zonder fouten, F.cn goede stijl. Verbetering
+van het handschrift. Vlug en goed rekenen. Fröbelen, Slöjrt, Spelletdcn, Dammen Schaken
+Fotografeeren, bibliotheekwezen, Journalistiek
+
+E. Opleiding VOOr een acte L. O.: Fransen, Dultsch, Enge.sch, Wiskunde.
+
+F. Opleiding VOOr een acte M. O.: houdkunde'^Boekhö'ud'cn'^choon^clfr^v'n"
+G. CurSUSSen VOOr de VrOUW: de Tecn"lck v. h. Huishouden, Kookkunst en
+tuumknlppen en Costuumnaalen. Voedingsleer, Llnnennaalen.
+Klnderkleedlng,Cos
+Voor nadere inlichtingen vrage men ons gratis prospectus.
+TEERINK
+AMSTERDAM HHZ TELEFOON 6X28
+TKECHTSCHFDWARSSTRAAT 17-19
+- BIJ DE REGULIERSGRACHT
+BINDEN SCHOOL- EN STUDIEBOEKEN
+GELEGENHEIDSALBUMS PORTEFEUILLES ENZ.
+Heden verscheen bij H. D. TJEENK WILLINK &amp; ZOON,
+te Haarlem:
+De Motorboot als Vervoermiddel
+
+van den Militair Geneeskundigen Dienst
+DOOR
+Amsterd. Boek- en Steendrukkerij,
+v/h. Ellerman, Harms &amp; Go. i
+Dr. W. TEÜPSEN.
+Met 17 fotogrofiën en een kaart.
+Prijs f 0.75.
+
+</text>
+<image timestamp="2002:08:21:09:42:03.00" size="391078">D40001O9.TIF</image>
+</page>
+</document>

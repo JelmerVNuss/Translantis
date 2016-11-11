@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321008</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van
+ffe'
+Godengesprekken
+naar Lucianus
+A.
+A.
+M.
+
+A.
+M.
+M.
+
+A.
+A.
+M.
+
+A.
+M.
+M.
+
+
+AA.
+M.
+
+A.
+A.
+A-.
+A,
+M.
+A.
+M.
+VIII. Mars en V e n u s
+
+l Kil i t ion rrfondur poiir l' usage du Dauphin)
+
+Personen: Apollo, Mercurius
+
+Waar schater je /oo om? M. Om wat ik gistren zag.
+Wat was het? Laat mij deelen in dien blijden lach.
+Ik vrees, dat mijn verhaal je niet zal amuseeren.
+Jij bent zoo degelijk, 't Is hm ! alleen voor heeren.
+Die term begrijp ik niet. Spreek duidelijke taal.
+Goed. Wil je 't hooren? A. Ja. Begin met je verhaal.
+Nu dan. Het kluchtspel, dat wij gisteren aanschouwden,
+Was wel zoo grappig, dat geen god zich goed kon houden.
+Wie waren de personen? M. Venus en Vulkaan.
+En verder wie nog meer? M. Nou, vul dat zelf maar aan.
+Je weet, dat huwlijk nou ! Vulcanus is foeileelijk,
+En Venus een beauté. A, Accoord. Die meening deel ik.
+En bovendien niet van een avontuurtje wars;
+Ze houdt het, kort en goed, met dien charmanten Mars.
+Een kranig militair, ik kan niet anders zeggen.
+Vulcanus is zoo wijs er zich bij neer te leggen.
+Het kwam er, zei die me, voor hem alleen op aan
+Om Venus eens een gek figuur te laten slaan.
+Nu had hij, voor 't geval ze 't weer probeeren mochten
+Gezellig uit te gaan, een kunstig net gevlochten,
+Dat hij onzichtbaar had gemaakt voor iedereen,
+Behalve voor hemzelf. A. Dat lijkt me vrij gemeen.
+Waarom? Als iemand door zijn ega wordt bedrogen,
+Zou die dan niet bedrog met list vergelden mogen?
+Ga door. M. Enfin, ze wandlen gistren in het bosch,
+En zetten zich gezapig op het zachte mos.
+Vulcanus had toevallig nogal wat te werken,
+Dus, dachten ze, die zal er zeker niets van merken,
+En waanden zich volkomen veilig, onbespied.
+Maar Helios, de zon, die alles dalijk ziet,
+Ontdekt z' en haast zich 't aan Vulcanus te verklappen.
+Best, zegt hij, deze keer zal 't stel mij niet ontsnappen.
+Hij erop af, wel mank, maar taamlijk vlug ter been.
+Hij werkt zijn toovernet behendig om ze heen,
+Maar zij bemerken niets, en zitten knus te kozen,
+Zacht fluisterend van 't hart, van maneschijn en rozen.
+Vulcanus onderwijl hinkt naar de godenzaal,
+En hijgt: Ga mee !" .,Wie. ik?" zegt Zeus. Nee, allemaal.
+Nou za' j' 's wat grappigs zien !" Wij mee. De heele bende.
+Waarom, terwijl geen god Vulcanus' opzet kende?
+Nou ja, we hielden* ons onnoozel voor dtn schijn,
+Maar ieder wist wel, dat het heel pikant zou zijn.
+Hoezoo? M. We hadden Mars al maanden in de gaten,
+We wisten dat hij Venus niet met rust kon laten. . . .
+We komen op de plek. Daar zit ze met dien knaap
+Te vrijen, wang aan wang. Ze schrikken zich een aap,
+En willen weg. Jawel. Ze wurmen en ze mieren,
+Maar morgen brengen, hoor. 'k Begin het uit te gieren,
+En ieder, ook Vulcanus, heeft de grootste pret
+Om dat betrapte paar, gevangen in het net.
+Vulcanus ook? M. Wel ja; hij had htt spel gewonnen.
+Een minderwaardig tpel. M. Ik von 't wel Ituk veizonnen.
+'t Verbaabt me, dat jij in ?.oo'n streek behagen schept.
+Dat komt omdat jij geen gevoel voor humor hett.
+'k Heb zelfs uit meengen godenmond de zucht vernomen:
+Ik wou wel dat die schande mij was overkomen !"
+Dat is dan dus de geest der godenbroederschap.. . .
+Heb ik het niet gezegd? 't Is niets voor jou, zoo'n grap.
+
+CHAR1VABITJS
+
+(De Godengesprekken verschijnen binnenkort gebundeld.)
+Uit Jantjes kladschrift
+De voetgangersweek in Amsterdam
+
+</text>
+<image timestamp="2002:09:27:10:05:51.00" size="225792">00000AMR.TIF</image>
+</page>
+</document>

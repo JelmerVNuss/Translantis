@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>46</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstmis 1932
+46
+Jeugdnummer
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een ininimiim van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+1. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+Belangrijke kleeding-centra
+in Nederland!
+Dit zijn oude, echt vertrouwde
+adressen! Onze kleeding is van
+prima kwaliteit en niet duur. Bij
+al onze filialen ook speciale
+aideelingen voor MAATKLEEDING
+VOOR ALLE
+O
+AMSTERDAM
+NIEUWENDIJK 184
+tegenover Beurspassage
+HOORN
+GROOTE NOORD
+LEEUWARDEN
+NIEUWESTAD 94
+
+O
+•sGRAVENHAGE
+VEENESTRAAT 15
+GRONINGEN
+HEERESTRAAT 53
+HILVERSUM
+l KER KBRINK 17
+l IZ]3*j!3k QZjJ VVr0J I Cl 3 ^Ll f IZ3 ^1 P] I L [Cl KtKKBKINK l/
+
+Onze Coupeurs met stalen en modelboeken zijn door geheel
+
+NEDERLAND te ontbieden zonder prijsverhooging
+t
+t ~
+j.
+i;
+AMSTERDAM-DEN HAAG
+Ka'verstr. 86—90 Noordeinde 64c
+Plaids
+Voetzakken
+Auto - Overschoenen
+Slippers
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam -Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+
+</text>
+<image timestamp="2002:09:27:16:57:42.00" size="182015">00000AV1.TIF</image>
+</page>
+</document>

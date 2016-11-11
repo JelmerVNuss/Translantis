@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050122</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het vertrek van den heer Vening Meinesz naar den Heiligen Berg1
+UVOEGSF.I, van ,lc AtusK-i-ihimmer. Weekblad voor Nederland van 22 Januari 1905.
+A.mst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+WimiounKK HEEMSKERK (tot Vening Meinesz]: Naar den Heiligen Berg trokken oudtijds de Romeinsche Plebejers, waarom gaat U nu
+daar heen, en laat voor ons, met een leege schatkist, juist de Plebejers hier?
+Ouo-BrkOEMEESTER VENING MEINES/ (tot Heemskerk]: Met u-w zorg voor de verbetering van Amsterdam's financiën zult gij mij niet missen....
+Waart gij de rechterhand van Kuyper niet ik zou niet durven gaan.
+
+</text>
+<image timestamp="2002:08:21:00:28:31.00" size="426422">D200273.TIF</image>
+</page>
+</document>

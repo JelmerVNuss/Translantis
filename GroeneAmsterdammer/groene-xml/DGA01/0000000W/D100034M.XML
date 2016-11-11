@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19181130</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+h'\N
+!'.,,',.''." f ' ,. »• lïl,m """'*"** "" ' • "'• '* ' ' ' •*' 'T" ' * ' ' '.'• -•.'•
+o» «ELB als BROOD en ro*kt sigaren van JOHAN J. BOOT
+«g, Amsterdam - TeL Z. 54S» en Z. 0990 .:;;
+S ? T
+i •* *.
+j. • f f
+
+
+en Catalogus bij:
+». t
+W.C.IWS
+SpfMulzMtt
+Til. 2372
+KASTEELENKAtENDER DII1919
+Met 53 Afbeeldingen van de voornaamste en
+bekendste Kasteelen van ons Land, uitgevoerd in
+
+PHOTOGRAVURE
+
+1' Jaargang. Gewone UltBave f 2JO
+Luxe f 3.50
+
+Verkrijgbaar bij den Boekhandel
+
+Uitg. WEENENK &amp; SNEL - DEN HAAG
+u
+
+i Hotel de TEurope
+Amsterdam
+Grand Hall Restaurant de 1" ordre
+VOOR OPVALLEND
+EN DOORVALLEND LICHT
+VRAAGT BESCHRIJVING EN
+PRIJSOPGAAF
+
+. WEILL - HAARLEM
+LM d*r Kom, goedgok. V mr. v. Bontworkorsbotlrljven
+Bart&amp;ljori* straat 26-28
+
+Telefoon 6O4
+"V
+*• i p .1, •
+*'i .,^H!Ö» T t
+Nicolaas Cadeaux
+Polsmantois, Pelsjasson, Cellen, Moffen
+Damesbonthoeden en mutsen
+Veotzakkon, pi ai d s enz.
+Alle» op eigen ateliers vervaardigd
+De nieuwste modellen
+Repareer enf veranderen van modellen, zuiveren van mot
+Ziohtzondingon door geheel Nederland
+Eenlg vakkundig adres te Haarlem
+a ISO «uiden per IILLK
+prtma Samatra-gigaar.
+JOMAM
+Sarpkatistraal;
+TEL.EFOON Zvld 54*» e&gt; Emld «976
+BOOT
+, Am^terd
+i^wrlif.
+™" v
+jVt/M/z/u/&amp;/
+S
+ETMA MACHINES
+A M STER D A NI
+O E.
+
+&amp; S* IMGIEN
+10SEF YEflflALl
+KUNSTINRICHTING
+cafteette «eer
+DIRK SCHNABEL
+J^eirtMtop der inna
+•N K:.rURENDKU
+«4res voor de
+Viool- en
+
+door g^bcel l
+KOPERDIEPDRUK
+t-!:S IWT VOOR ELK PAPIER.
+HUIS
+'s-GRAVENHAGE
+ilnde hoek Hoogowal
+
+TOONSTELLING
+ra»
+TEEKENINGEN
+
+vaut 1O—5 uur. Toegang vrij
+Weekblad voor Nederland
+kost slechts f 8.85 f er kwartaal
+N v. MACHINEFABRIEK HOOGENLAMDE
+V.H. RAMNEVIS&amp; ZN. UTRECHT
+"4tR"fl:o U2ER I-M MtTAALGIETERIJ- "°""M'
+TYPE. 1OO-IOOO PK
+GELIJKSTROOM STOOMMACHINE:,
+WMDEM COMPOUND MACHINES
+STOOM DYNAMO MACHINES
+STOOM CENTRIFUGAAL POMPEN
+VOOft ALLL DefittflDtf
+i COMPRESSOREN VACUUMPOMPE^
+
+"&gt; GIETWERKEN m UZLR E n METAAL
+•	"CLICHÉ• vervaardigd door
+CLICHÉMÜGRAFIA"ARMHEM.
+,,/fi ifen Sllveren Nlolenbeecker"
+CORNELIS SCHOORL
+Kalverstraat 32 Hoogstraatï31
+AMSTERDAM DEN HAAG
+Telefoon N. 2149
+Telefoon H. 689O
+Groote keuze S t. Nicolaas-Cadeaux.
+N.V. CRABETH
+ACCACIASTRAAT 94 . DEN HAAG
+Kantoor: Danckertstraat 35 Den Haag - Telefoon 5341
+Gebrandschilderd Glas en Glas in Lood
+Dir. L. S. ASPERSLAGH
+Rookt
+Minister Treub
+Sigaren
+
+</text>
+<image timestamp="2002:08:24:04:43:42.00" size="521470">D100034M.TIF</image>
+</page>
+</document>

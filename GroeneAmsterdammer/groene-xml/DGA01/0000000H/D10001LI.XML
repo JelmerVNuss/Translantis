@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18860214</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+D E A M ST E R DA M M J5 R, W Ef};K 8 LA D V O OR : N B 0 EU L A N D.
+in den Tweekamp W. Steinitz J. H. Znfcortort. gespeeld te
+New'll'Jwi.1886,
+Niet aangenomen Dame-Gambiet.
+; . z: (wit).
+* ~3b
+, - O
+, £
+B
+9
+,A
+"• .0
+•*B
+.'.J*
+C
+P
+-, H
+'. A
+B
+G
+
+P
+P
+D
+a
+G
+~ B
+, ''S
+2
+a
+2
+i
+i
+a
+4
+3
+i
+i
+3
+2
+3
+4
+2
+1
+2
+1
+1
+2
+1
+5
+1
+'_»
+_
+_
+
+_
+_
+_
+_
+_
+_
+,«.
+j_
+
+'_
+...
+-L.
+nt
+~
+_
+_
+D
+O
+£
+C
+P
+A
+C
+B
+£
+B
+D
+H
+A
+B
+G
+P
+E
+G
+G
+P
+P
+ut C
+,
+G
+'4
+4
+3
+3
+3
+3
+5
+4
+2
+2
+2'
+3
+£
+5
+3
+1
+3
+2
+1
+1
+'2
+G
+• -1.
+2.
+3.
+A_
+0.
+G.
+, 7. .
+8.
+9.
+10.
+11.
+13.
+13.
+14.
+15.
+10.
+17.
+a
+20.
+21.
+22.
+1(2) 23.
+3.
+D
+C
+C
+E
+B
+F
+D
+E
+G
+E
+H
+D
+P
+G
+H
+G
+C
+(zwart).
+7
+7
+S
+7
+8
+8
+6
+e
+8
+5
+7
+7
+8
+6
+•i
+2
+7
+
+_
+
+
+_
+
+_
+_
+_
+_
+_
+_
+
+__
+_
+nt
+nt
+GS
+H8
+HG
+D
+B
+P
+'i ri
+R
+7
+a
+
+nt
+D
+C
+P
+E
+D
+D
+C
+
+F
+E
+H
+P
+G
+H
+G
+E
+G
+C
+H
+G
+D
+C
+ntH
+5
+0
+5
+C
+7
+G
+7
+5
+6
+4
+5
+8
+6
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2t(!)
+3 i- (1)
+1!
+7
+0
+C
+7
+fi
+3
+
+
+
+
+
+t
+P
+1
+E-2
+C
+E
+B
+P
+P
+D
+E
+A
+G
+A
+P
+G
+E
+D
+C
+D
+C
+II
+H
+C
+E
+8
+2
+2
+4
+2
+2
+1
+4
+1
+1
+1
+2
+3
+2
+3
+2
+2
+'1
+7
+1
+1
+
+nt
+
+_
+_~
+_
+
+_
+_
+__
+
+
+E
+G
+E
+P
+C
+K
+G
+P
+D
+A
+H
+E
+ntE
+nt
+nt
+
+
+
+
+
+
+nt
+
+P
+G
+C
+D
+C
+C
+H
+H
+E
+P
+1
+4
+2
+4
+3
+3 =
+2
+1
+24.
+25.
+20.
+27,
+28.
+O
+sb!
+31.
+
+2(3)82,5
+1
+1
+3
+33.
+34.
+35'
+36.
+2(5)57.
+4
+2
+a
+1
+3
+7 v
+
+o.-l3
+38.
+39.
+40.
+41.
+42,
+43.
+44.
+45.
+!•;•(« ie.
+F
+H
+D
+G
+G
+H
+P
+A
+P
+P
+E
+•I'r
+P
+P
+C
+H
+E
+P
+E
+D
+E
+P
+E
+6
+tj
+7
+6
+7
+6
+G
+8
+7
+5
+7
+4
+3
+7
+7
+5
+4
+2.
+8
+7
+G
+4
+3
+
+nt
+
+_
+_
+'
+
+_
+.
+, ~
+r
+G
+G
+E
+H
+G
+P
+F
+B
+P
+P
+P
+ntE
+'
+nt
+
+nt
+
+-"
+
+
+
+nt
+
+P
+F
+P
+G
+E
+G
+D
+E
+P
+E
+F
+4
+4
+7
+6
+5
+C
+3
+S
+
+54
+7
+3
+2
+2
+4:
+4
+3
+2
+7'
+G
+5
+'3
+4
+
+
+. -f
+
+
+
+
+
+&lt;*&gt;
+
+
+t
+(0
+
+
+
+
+
+
+
+
+
+
+"•-©jgegéven door Wit Zuckertort.
+',(J) D«ze .opoffering om een Hinken aanval te. verkrijgen is zeer good bedacht.
+2wsftt dreigüO 23... G 7 G 3 en 24,... G 3 E 1. Hij bekomt nu 3 p. voor
+; (3} Sa*t tot S tïur. om to rnk1dagmal-&gt;n. •-•.'•
+(4&gt; Hier wsrètf do^'\A-6uvin S. verstreken. ;
+''fij^Öt besfee.COp'ST/^G-2 G- l Volgt P 7'-- P 3!
+' (liften laatst* poging om zich te redden. Bij 46... G 2 Dt P l, ware 47. E 2 G 3
+Jt a» 09 e... F 5 E 4, 47 H G E G-j'inat gevolgd. ' •:'
+INGEZONDEjS.
+f ALMA TADE1TA.
+^r , G f ach/e Redactie. '
+UW ,'Weekblad,, welks getrouwe lezer ik mij beroem te zijn, bevat sedeit ettelijke
+weken eene nieuwe rabriek: Alma Tmlema" geheeten. De^e brokstukken uit het
+Iprt» fles meesters hebben mij aangename oogenblikken verschaft, al gevoelt msn
+ti^i 4» lezing opnieuw dat liet jammer is, dat Tadema niet in zijn vaderland bleef.
+Jammer voor ons althans; voor hem waarschijnlijk niet.
+I)it zon men althans mogen afleiden uit het slot van uw laatste artikel, dat ik
+jn{j Teworloof hier ai' te schrijven:
+Hét is nauwelijks te gelooven, maar het staat in Tadema's biogi-aphie van den
+Hollander Graaft' als onomstootelijk feit, dat onze meester in zijn rijk Hollandscli
+tad.rland van 185G tot 1880, dus in bijna een kwarteeuw, niet meel- dan duizend
+gttiden heeft verdiend, en toch werd daar eene schilderij, die liij in 18C7 voor
+zeshonderd gulden an de hand gedaan had, voor dertienduizend gulden weder
+verKocht. Zelfs nadat hij reeds het toppunt van zijn roem had bsreikt, heeft dus
+noch de koning, noch. de regtei-ing, noch eene knustinriehting van zija vaderland
+hem eene bestelling gegeven of een zijner meesterwerken zoeken te verkrijgen,
+terwijl men in Engoland en Amerika zijne stukken tegen goud opwoog en ook ia
+Dnitschland, 'Frankrijk en Belgiëbegeerig was ze te zien, de hopgete eer aan
+d» Iccrken en den vervaardiger deed te fcenrt va'len, en men uieer dan eenmaal
+bssiöt, hooge, ja de hoogste piijzcn er voor to geven".
+Treurig, maar waar; althans grooteudceli. Op de kunstiaiïchtingën van
+NederIjnd moet ne uizondering gemaakt worden. Juist het schilderij &lt;iat een paar re
+
+gel» Jippger wordt bedoeld, wórd voor een Nederlandseh museum aangekocht. Het
+kttam in April 1880 voor iu de veiling van het kabinet van wijlen Jhr. H. D. Hooft
+van Woudenberg en Geerestijn en werd toegewezen ain het Dordtgche museum voer
+f 12000 (met inbegrip van kosten 1 13000),
+Er is dus wel degelijk eene Nederlandsehe knnatinrickting geweest, die op liet
+bezit van een Tadema getoond htelc prijs te
+stellen.Nu dit 200 weinig bekend scliijnt te zijn, zult gij mij wol veroorlooven den titel
+vatt het schilderij te noemen. Deze ia : Ds Kon^insahe dichter Yenantins Vort n*
+natas, cijne verzen voordragende voor Haiagonde V±t gewezen koningen der Franken,
+en voor UK aldis ran liet doar haar in .5.33 te Poitiers gestichte klooster.
+Ziedaar, geachte Bedactie, de waarheid in eere hersteld. Het was mij tevens een
+&lt;*fc&lt;!BOég'ea de aandacht te kunnen .vestigen op het Dordtsche Museum, eeue keurige
+T«rjs»meliES van moderne feunst,. welker verzorgers de middelen bezitten om-haar
+noj verder uit te breiden, en daarvan oen schrander en van goeden- smaak getui- •
+gend gsbruik matten.
+Met da.ntzéggiDg, enz.
+•,_••• .•..,.,• : . , - uw dw.
+«.,-.'••• ':•?.&lt; ..:..• ' .' ' P. L. T.
+NIEFUfc VAX DE WEEK.
+De 'Koning en de Koningin hebben hun jaariijkach bezoek aan iöHotfd«ta0
+lepaald pp 27 April tot 3 Mei.
+
+60 Tweede Kamer is bijeengeroepen tegen Maandag l Maart te half-tweo uur,
+
+l V»n .liberale zijde zal een adres aan de Tweede Kamer der Staten-Generaal
+gericht .«orden, dooa, voorstanders van de regeling van het lager ouderwija bij
+gewone wet.
+
+Tot Ud van de Tweede Kamer in het district Maastricht (vacature-Straatman) is
+met 741;)fan da 1237 geldigo steramen pekozen do heor L. F. H. C. lïuiaad,
+burge; «masster van Vaals. De hoer Kleuters verkreeg 341 stemmen.
+
+JCr. E. 3. Altema, notaris te Drachten, oud lid der Tweede Kamer, is overleden.
+
+ilr.. Tot .lid van Gedeputeerde Staten van Noord-Brabant (vaoature Sprengers) is
+ver'*:Tta2ea' rar. P. A. Mima to JJcr^on-op-Züom mei 4üstommen. Do hoer jl. A. van der
+Vea te '»;Bosch verkreeg 14 atenimen.
+
+In dsn ouderdom van 84 jaren is te 's-Gravenh:i}ie overleden de lieer J. A. van
+' Eeïsoa, pad-referendaria bij het. Hinistcrie van Justitie.
+1 ' '*. - ' ' ~_~~.
+Waarschijnliik door eei beroerte getrofl'en, ia Woensdagavond t3 rftider plotseling
+overleden e Kolonel, buitengewoon Adjadant des Koniugs, W. C. Hi.-jcl, Commandant
+van hot 4« regemeot veatiog-artiüerie.
+. Een industrieel,.die..ean dertigtal jaren geloden,zoo wel in het bnitèBJ»nd*lBhi^r
+te lande wéRëns. zïjne kunstwerken op het gebied van drjafwerk"t eene groote
+bpkendheid had, de-heer T. A.'Keikes, is te Leenwarderi in 86-jarigenouderdonl over
+
+leden. De overledene was ridder der Orde van de Eikenkroon. • ' .
+
+Naar uit goede -bron door bet P. D. wordt vernomen, zal de opening, van d»n
+epoorw;g Amersfoort—Kegteren den 17en dezer plaats.hebben. Bö-di* opening' zal
+tegenwoordig zijn de Minister van Binnenlandsche X»ken, en zoo.zijn.^ezondli
+id»io«;atand dit toolaat, de -Mimater van Waterstaat.
+Te ongove^r 12 ureh 2at ii evtra-trein van Amêrsfoorfc vertrekken, 'terwijl' men
+voornsmens is de epoöTwegbrug te Ebenen te inspecteéren. Aldaar:cal een*déjeuri.»r
+worden gebruikt en podineefd wórden ten huize van den burgamesstet van
+Amenfoort, jhr. mr. T'. A. J. van Ascli van WijiJ • ' ' • -. •
+Naar het Dgb' meldt zullen op de nieuite lijn dagelijks vi»r locaaUreinen.lnrbeide
+.richtingen loopeu, • •• . ,
+
+: Naar gemeld wordt, zal- «en groot deel der lustium-feestèn van.de Dtreehtsche
+Universiteit in de kerken aldaar gegaven worden, n.l. die gedeelten, wolke zk-h d
+ooihet meer plechtig- dat hun aankleeft, van de. eigenlijke fsesten" afscheiden. Zoo
+aullen o.a. de feestrede m de Domkerk, de cantate in de Buurkcïk (die de grootste
+ruimte aanbiedt) uitgevoerd wofden. Volgens gedane opmeting zullen in de Isatste
+kerk ruim 2000 go-ade zitplaatsan kunnen aaugeboden worder. Aanvrag-cn tot gebruik
+dier kerken zijn door het kerkelijk bestuur met de meeste welwillendheid beantwoord.
+
+De gemeente-secretari* te Andel heeft opnieuw, naar hot V. D. meldt,, geweigerd
+voor den burgemeester de werkzaamheden te verrichten aan de betrekking van
+ambtenaar van dien burgerlijkeft stand verbonden. , .
+
+: Te Mierioo (N.-B.) hebben :zich ongeveer SOiarme lieden, tijdens&gt; de gemeenteraad
+was vergaderd,,.. &lt;»p het ctaJhpis vervoegd, sommigen beleefd om w«tk -ïrajijènue,
+*nder'en iiet eischende. Een menigte volks, grooten'deëls" belioefligen, bewoog zïcb.
+om het raadhuis. . De burgemeester- baloofde hen zoo spoedig mbielijk werkjte
+vewcÊaffen, waarop ,zij zich verwijderden. ; • •• - • &gt;" :
+
+Te Andijk lieeïnién' dezer :d*gén getrach't ,eene ehe afdèeling vat) het SocsDemorr
+Sojitt op te richten. Reeds hadden ongevaer :50 pèrsohen e». bfeloTte gêdaaa de
+voorioopige vergadering in !t4ogement Ds Krimper'' te zullen/ bijwonen, döoh toen
+Bet tijdstip der vergadering- zou worden bepaald, achtte 'd» kastelein Het
+,inzgij_D9Isng geen locaal beschikbaar te «tellen. ' . :' , '
+
+De klsvk bij net dep*, van bïnne'nlandscns zaken Croll is in zijne betrekkuig fte~
+schorst, omdat hij niet wilde bedanken als lid van den eentrilen"raad vat den
+sociaal-demociatbuhen bond. • ••..-:
+
+•De Eechtbank te Amsterdam heelt het requisitoir van het O. M. bevestigd'en
+den socialist Föi-tuyo veroordeeld tot eene boete Van ƒ250 o! sab&amp;iWr'rijree
+maanden celstraf. De Rechtbank overwoog, dat beklaagde wel degelijk de bedoe
+
+ling had gehad, om de autoriteiten te honen.
+
+De senaat van bet Utrechtseh Studentencorps heeft zich geconstitueerd als volgt:
+G. C. von Weiier, rector; E. L. Umbgrove, ab-actis;'W. Th. Pahud de Moltinges;
+D. W. van Leeuwen en H. J. Doude van Troaetwijk.
+
+De linister van waterstaat heeft eene commissie benoemd voor het opmaken
+van eet» pian van uitvoering voor de herziening van het Amsterdamsen peil. De
+commissie bestaat tlit den hoofdinspecteur Calaud, de inspecteurs Conrad en Bose,
+den hoofdinspecteur Van Di%*en. deu hoogUeraar Schols ea den ingenieur van den
+waterstaat Verwey, . • , .
+FAILLISSEMENTEN.
+Arroffd. Amstardani. Failliet verklaard (op eigen aangifte) P. W. Schaffor, tapper
+en slijter, O. Z. Achterburgwal 26; rechter-comm. mr. A. J. Roijaards, cür. mr. C. v.
+d.'Zweep; H. O. E. H. Kohier, tapper en slijter, TVarrnoesstraat 2; recht.-comm. al»
+boven, cur. mr. Tb. Nuijene;. J. Toppers, winkelier in gemaakte kleedcrcn, O. Z.
+Achtei-bnrgwal 126; rechter-comm. mr. &amp;. J. Boijaards, cur. mi-. H. Godefroi;
+A.K&amp;ppel, verlateu huisvrouw G. Arens, winkelierater, Wittenburgerstraat; rechter-comm.
+mr. A. J. Koijaards, eor, mr. H. Verkenteren, adv. en proo.; (op verzoek van credi
+
+teuren) Henri Eademaker, winkelier in heeren-artike)en, Heiligenweg 21, recht.-comm.
+mr'. A. J. Roijaards, cur. mi'. P. E. Clausing; H. F. Polckerts (op, eigen aangifte),
+schoenmaker on .ahkèlier, Oude Leliestraat 4, reclit.-comm. mr. A. J. Roïjaards, cur.
+mr,' E. v. d. Bogaardt. adv. len ptbc.
+Akkoord gehomologeerd: G. F. Hennij Ie Co., kooplieden; concurrente crediteuren
+7% pCt.; C. G. van Driól, winkelier in kantoorbehoeften conc. cred. 15 pCt.
+Insolvent verklaard: de Maatschappij van Huwelijksverzekering.
+Ai-ionJ. Alkmaar: P.. Byl, koopman en herbergier te. Heiloo, recht.-cpmm..mr. E.
+Boelmana ter Spiil; K. Commandeur, winkelier, en kastelein te Wognunj, recht..conjrm.
+mr. V. A. van Leeuwen, cur. . Rujjter, deurwaarder ta Hoorn. ..
+Arrond. Assen: L. J. Kragt, winkelier en tapper in bieren en wijnen te Diever,
+recht.-comm. mr. W... Gorter, cur. mr. J. H. Heerspink.
+Aironcl. Breda: A. de Ruiter, houthandelaar, recht.-comni. jhr. mr. A. J. J. van
+Sasse van sselt, cur. mr. M. Tydeman Jr.
+Arrond. Groningen: G. Velthuis, wijn en kofiehuishouder te Helpman, gem. Haren.
+rechtercomm. mr.' B. Dorhout Meep, cur. mr. J. A. Feith., . . . •
+Arrond. Haarlem: W. Spijker,- timmdrma-n te Aalsmeer, rechtercoam. mr. M. G
+P. del Court van Krimpen, ciu\ mr. F. Willekes Me Donald, Nieuwe Gracht GG.
+Arrond. 'a-Hertogonb.: N. Heömans, sigar.enfabiikant en koopman, rec-htercomm.
+mr. Kolfschoten, cur. mr. C. van Sasse van Ysselt; M. Hennessen, winkelier te
+Ótteisum, rechtercomm. ja. mr. Van Metuwen, c.ui&gt;mr. JI. G, van Sonsbe'ek ; A. Ver
+
+schuren, bakker en winkelier te Stratum, recliter-comm. mr. Sassen, cur. mr. W.'O.
+G. Dittinger.
+Arrond. Leeuwarden. P. Schregardus, bakker te Dockum, rechtercomm, mr. H D.
+van.Ketwich Verschuur, cur. R. Banda, notaris te Anjum; J.Kromligt, boekhaud'eliar
+te Dockum, rachter-com. mr. P. Sratama, cur. B. Banda, notaris te Anjum.
+Arrond. Rotterdam. A. SneepelB koopman ia gist, rechter-comm. mr.' Th. J. Hoppe
+cnr. mr. A. van Mens.
+Arrond. Tiel: J. van den Berg, winkelier te Oeliten; rechter-comm. mr. M. E. Bo'oy
+cur. C. van Lookeren Campagne.
+Arrond. Wintachoten; H. J. Spitzen, koopman te Stadskanaal, reehtercomm. mr.
+C.y!~. baron van Imhoff, cnr. mr. G. Trosliog,
+OVERZICHT VAN DE EFFECTENM AR K T.
+6-12 Februari.'
+ITa een© zeer 'vaste stemming, die tot het micMen der vfeek
+Europeesche waarden bleet heerschen, sluit de markt in eene bepaald
+flauwere houding. Die wijziging in de opwaartsche beweging der markt
+vond hootdzamelrjk baren oorsprong aan de BerlijDsche beurs. In da
+laatste 'jaren bïeek men daar ter plaatse goed te zijn ingelicht, .in. het
+bijzonder wat de politieke aangelegenheden en den mogelijkeh loop daarvan
+betror. Aloet men daarom nu die stuiting der rijzing beschouwen, als ta
+
+</text>
+<image timestamp="2002:08:19:06:50:33.00" size="277805">D10001LI.TIF</image>
+</page>
+</document>

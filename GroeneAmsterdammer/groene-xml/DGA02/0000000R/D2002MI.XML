@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19051126</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+3 ft ft
+g l "«
+«B o g
+m ."' *
+2i.!a
+
+.
+B ."• r 5
+QO
+w
+
+H
+co
+H
+H
+W
+
+w p i c p 31 h*
+fD p ^ P Z
+^O r-1 B CD O) «S. fD ^- ;*}
+~°S ft P
+~-N o JH CE ff
+5W^ Co &lt;3 "^ * (T; *
+CD '
+SB O. "&lt;
+o
+•a r
+O X M &lt;
+8-1 f B
+S. %-*•
+o "•'&amp;.
+B
+S ftg 3 S g.'g
+S' CD 2 i d: CD S» S
+VB2^PB?i
+ffgoj-^o-oj &gt;r ff &lt;
+P 3 s. g
+2 ,K' B re B
+U'S"
+c o c c- w
+n c- 01 o&gt;
+CD -T~ p" O
+Algemeene Boekhandel
+J. H. DE
+tllrecMttchestraut 54
+bij de Keizersgracht, Amsterdam
+CATALOGUS op aanvrage. Franco zending.
+Voorhanden boeken worden op verlangen ter inzage
+gezonden.
+Telefoon 3STo. 3947
+u , ^ c .ïq -r ^
+-.. N B hJ f-^ &lt;
+W O cc ;3.,~- X
+« " C d&gt;-^"-l- i
+K
+W
+W
+f
+O
+O
+O
+
+</text>
+<image timestamp="2002:08:22:20:22:05.00" size="561725">D2002MI.TIF</image>
+</page>
+</document>

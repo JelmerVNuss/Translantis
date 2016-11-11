@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19000121</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No, 1178
+DE AMSTERDAMMER WEEKBLAD V O O R N E D E R L A N D.
+De Open brief van Charles Boissevain aan den
+Hertog yan Devonshire.
+Daar kwam de booze Charles aan,
+Ging b'j zy'n grooten inktpot staan,
+Hij nam de schreeuwt r i by den kraag
+En gaf ze elk de volle laag !
+(Vrig naar Struu'ëlpeter).
+Een nieuw plan (Caran-d'Ache in de Figaro).
+' Het nieuwe plan (zou z\jn) om zonder gedruisch in een donkeren nacht heen te gaan... heel zachtjes (dit nieuwe plan vindt veel voorstanders,
+vooral in militaire kringen).
+Uit ,.das Goldene Büchlein".
+Een voorgevoel.
+(Lustige Blalter.)
+Lord Roberts en Lord Kitchener ontvangen hunne benoeming, tot Legeroversten !
+OOM KKÜGEK: »Zóó, heb ik je eindelijk miserabele zakken
+
+roller"
+CHAMBKRLAIN : »Honny soit qui mal y pense ,.."
+Muil- ezels. (Jagend).
+WILHELM: ^Grootmoeder, geef me nu toch m'n scheepjes weerom?"
+(La Silhouette).
+Melhutm
+Clery Jule Galacrc Fiench. HiUiyard Kuiler.
+White
+
+</text>
+<image timestamp="2002:08:14:03:59:46.00" size="241244">D2000CF.TIF</image>
+</page>
+</document>

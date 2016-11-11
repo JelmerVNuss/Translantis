@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340106</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•f" -f ,
+'t *'• •&gt;
+De Groene Amsterdammer van 6 Januari 1934
+No. 2953
+S.
+r-i
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+
+Crematie en Transporten
+van uit alle plaatsen
+N.v. Meubelmagazijn Eden
+Molsteeg Amsterdam
+
+BOEKENKASTEN
+BEGRAFEN1SVEREEIMIGING
+
+N. SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+T«l. 2O341 2426O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE &lt;- TRANSPORTEN
+G. J. DE KONING &amp; Zn
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+Loodgieters - Zinkwerkers - Gas- en Waterfitters
+Onderhoud en Reparatie
+HEERENKLEED1NG VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+
+ADRIAAN SCHAKEL
+NEILlCEWtG . TELEFOON 37273
+«ADRIAAN SCHAKEL'*" Hearenkleedlng
+HE1UBEWE8 IN AMSTERDAM
+te de zaak, waar Zoon en Vader
+Steeds nog komt, en altijd kwam.
+
+Van v.m. 7 u. tot n.m. 5 u.
+Telefonisch te bereiken pnder
+No. 81894.
+citeer
+Voor «II» doeleinden
+KORTING
+EH VEHFPHIJZEN.
+Speciale aanbieding van
+
+VLEUGELS
+alle zwart Prijs
+STEINWAY &amp; SONS als nieuw 1.70 M. ƒ
+1295.8TEINWAY &amp; SONS 1.85 M.
+875BECHSTEIN	1.95 M.
+830.Q. ADAM	i.eo M.
+eso.LIPF» &amp; SOHN ....	1.85 M.
+475
+PIANO'S
+
+BLÜTHNER als nieuw, zwart ƒ
+675.IBACH eiken
+575.FEURICH, zwart
+475.Q. ADAM, nieuw, zwart ,
+475.O. ADAM, eiken
+275.Op alle instrumenten wordt jarenlang schrift, garantie verleend.
+Levering franco buis. Betaling contant of middels ons 3-jarig
+buureysteem m. kl. rentevergoeding. Nieuwe kleine vleugels
+van f 725.—af. Nadere inlichtingen bij
+
+Pianohandel fi w* VAN
+
+van 1840 l*« ' • DER
+
+LANGE HOUTSTRAAT 9 DEN HAAG
+LEDERWAREN
+
+AMSTERDAM-DEN HAAG REISARTIKELEN
+
+PLAIDS, VOETZAKKEN, AUTO-OVERSCHOENEN
+
+</text>
+<image timestamp="2002:10:28:04:23:40.00" size="166746">D200AM6.TIF</image>
+</page>
+</document>

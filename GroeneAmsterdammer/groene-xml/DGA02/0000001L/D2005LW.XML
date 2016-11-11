@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321231</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2900 van 31 December 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam G. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+Steunzolen
+Syst. Prof. Hoffa
+en
+Orthopaedisch
+Schoenwerk
+naar maat
+Fa. J. A. Massing
+O.Z. Voorburgwal 334
+Amsterdam
+over het Binnengasthuis
+NV%.
+
+EARLDOSTEKMS
+AMSTERDAM
+KALVERSTRAAT 178
+OPGERICHT I8IO
+
+BRONZEN BEELDEN
+VOOR
+JUB1LEA
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+= TELEFOON 35533 .
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+MEDISCHE PASMUNT
+Verzameld door MEDICUS
+207 blz.: 20 X 14 cm.; Ing. f 2.50, Geb. f 3.25
+In 30 hoofdstukken behandelt de schrijver achter
+
+eenvolgens: Vivisectie De kunst van genezen
+Immunisatie Van ouderwetsche en
+nieuwerwetsche geneesmiddelen Lourdes Muziek
+als geneesmiddel Verhoogde bloeddruk Ge
+
+nezing door oplegging van de hand Hormonen
+en verjongingsmethoden Het juiste oogenblik
+Bloed te koop Hoe de chaos in een kosmos
+herschapen wordt Vergiftiging en eerste hulp
+bij ongelukken Cocaïne Opium Slape
+
+loosheid en slaapmiddelen Levenskracht en
+levensvreugde Het domme hart Van kuiltjes
+in de wangen en kringen onder de oogen
+Degeneratie en genialiteit Schedelleer Ge
+
+schikt voor de tropen Sexueele voorlichting
+Koorts en tuberculose Uit oude boeken
+Stralentherapie Onze stem Doofheid
+Ooraandoeningen bij kinderen Epiloog
+Verkrijgbaar bij den erkenden boekhandel en bij
+UITGEVERIJ C. A. MEES - SANTPOORT
+
+</text>
+<image timestamp="2002:09:22:02:29:34.00" size="68407">D2005LW.TIF</image>
+</page>
+</document>

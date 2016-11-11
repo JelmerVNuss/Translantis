@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260522</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+20
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2555
+TELEFOONTJE
+DOOR CEL 2
+Stadsschouwburg, juffrouw!
+
+Ha, Merckelbach?.... Nee, nee,
+ik moet je niet hebben.... Het is me
+om je vriend Eduard te doen.
+
+Met het Vereenigd Tooneel"?
+
+Heusch, zonder ironie: ,, Vereenigd
+Tooneel"
+O, ben jij het, Bets?
+
+Nee, Dirk moet ik niet hebben.
+Ik zou Eduard, Rut, graag even aan
+'t toestel hcoren.
+
+Dank je !.... Ben jij daar Rut?
+
+Word nu niet direct obstinaat.
+Ze noemen je toch algemeen Rut omdat
+je als directeur nooit rut" bent
+
+Moet ik dan heel deftig Eduard"
+zeggen	Eduard Verkade?....
+
+Wat ik moet?	Ik wou je
+alleen even hebben over die demonstratie
+van Zaterdagavond
+
+Natuurlijk, een kwajongensstreek.
+En wat een reclame voor dat joggie....
+direct een interview in Het Volk",
+twee kolommen lang, met naam en
+toenaam en adres van het jeugdige
+schildertje
+
+Ja, zoo ben je in een
+handomdraaien beroemd ! Ik hoor dat het geen
+haar gescheeld had of zijn kop had ook
+In het Handelsblad" en de Telegraaf"
+gestaan, naast den jouwen.
+
+Een doorgestoken kaart? Van
+wie?
+
+Een vrindje van den een of ander,
+die je niet geëngageerd hebt? Of van
+een die je niet weer geëngageerd hebt?
+Geloof je dan dat je vrind
+
+Dus heb je de beste mooten uit
+Julius Caesar" niet weggesneden,
+zoodat het stuk dat je speelt Eduardus
+Antonius" moest heeten?
+
+Het komt er ook eigenlijk niets op
+aan, niet waar? Of je van Shakespeare
+een van Riemsdijk maakt er is niet
+zoo heel veel voor noodig ! of een
+ter Hall-revue, de vijf duizend pop
+subsidie krijg je toch !
+
+Natuurlijk! Weten ze veel van
+hun gezond ! Ik maak me sterk dat
+als je 't Witte Paard" of de Sabijnsche
+Maagdenroof" in Grieksch costuum
+speelt en dan bijvoorbeeld van achteren
+naar voren, ze het voor een Sophocles of
+een Aristophanes zullen houden. Waar
+
+om zou je het niet eens probeeren?
+
+Je gezelschap is er geknipt voor,
+nu zoowat al wat speler weg is of weg
+gaat. Heb je al eens opgeteld wat er
+nog over is van het Vereenigd Tooneel"
+waar je mee begonnen bent?
+
+Alleen de V's nog over ! Maar dat
+komt er ook niet op aan. In de kranten
+blijf je toch heeten ons eerste gezel
+
+schap dat den eersten schouwburg van
+het land bespeelt" en de subsidie is safe!
+
+Natuurlijk! Dank zij Bets. Een
+paar bloemetjes aan Kleerekoper en van
+Dam van Isselt en.... Ik wou je net
+een compliment maken over je: Want
+Kleerekoper is een achtenswaardig man.
+Dat zijn zij allen, allen achtens
+
+waardig...." Dat slaat op ons, heb ik
+een lid van de Kunstcommissie hooren
+zeggen.... Hallo.... Ben je weg....
+
+De Problemen staan op het omslag.
+Verschenen:
+Hutcninson s
+
+.Nieuwe Ouccesroman
+
+
+Het Wenkende
+
+
+-: Licht
+:DOOR
+
+A. S. M. HUTCHINSON
+Schrijver van: Als de Winter komt"
+Burgerrecht", Tot inzicht gekomen" enz.
+
+Uit het Engelsch vertaald door
+CHR. MORESCO BRANTS
+Geïllustreerd omslag van B. van Vlijmen
+
+Prijs ing. f 2.90, geb. f 3,75
+
+Uitgave van
+Van Holkema 6 Warendorf's
+Uitg.-Mij. te Amsterdam
+AMSTERDAM-DEN HAAG
+N. F. VAN GELDER 6 Co.
+lervoorwerpee e
+uit de KONINKLIJKE COPENHAAGSCHE
+r= PORSELEIN FABRIEKEN =
+alsook van andere
+fabrieken.
+PEEK&amp; CLOPPENBURG
+TYP.: AMST. BOEK- EN STEENDRUKKERIJ, V/H ELLERMAN, HARMS &amp; CO.
+
+</text>
+<image timestamp="2002:09:25:15:43:52.00" size="166186">D10007LX.TIF</image>
+</page>
+</document>

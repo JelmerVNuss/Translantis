@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170707</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+7 Juli '17. No. 2089
+Gelder&amp;C0
+Tel.
+W. 2997'
+Amsterdam
+Tel.
+'N. 2997
+Eetserviëzen
+Aangenaam van geur.
+voor
+roevers
+n-1
+CORNS. SCHOORL :: KALVERSTRAAT 32
+TEL. 2149 ALLEEN 32 TEL. 2149
+ZIE SPECIAAL ETALAGE PRESENTEERBLADEN EN SERVIEZEN"
+BIJ BESTELLINGEN S.V.P. A L L E E N? ADRESSEEREN
+IN DEN SILVEREN MOLENBEECKER
+il EK mi llfün n WKUfttili is:
+H, G. WASMOETH
+Steen- en Boekdrukker!}
+Snmi 1B-J6, • mm - WmmMi.
+Reliëfdruk volgens" de W1EUWSIE uitvinding.
+lisiiÉartifs en UwtoitB W i pfii/ra.
+p -»°ooooo oooomom
+~ o
+o
+NEUBILEERIHG
+ARTISTIEKE'
+n EU B i LEERI ns&amp;n
+J.VIVEEN
+NIEUWEGRACIIT 85 UTRECHT
+DE ZAANLANi^H
+J
+ZlLVERJ-MEDCRIJ
+
+G. wfCHOORI
+
+OPGERICHT
+
+6
+Specialiteit in Zilverwerken
+
+D l P L.O N-1 El D' H O N tslf
+LUIK: i9O5, MILAAN 1906, B'ffitbe^l.U 1910
+ELi^en fabriek, te Amsterdam
+Utr-echt^che dw. ^tr-aa-t 66,60,70,72.
+llnllMlïnimUlllinïlTllllHlMlIlllilllllillllllllllllllllllllllllllllliiillMlMliilliUiilllllllilili!
+N.v. Keiler &amp; Macdonald's
+Technisch-Bureau
+Overveen
+Electrische Licht- en Krachtleidingen,
+Scheileidingen en Huistelefoons.
+MOTOREN uit voorraad leverbaar.
+_ i.~~
+
+Speciaal *^« J Adres
+VATl DAM
+AMSTERDAM
+Terens alle Artikelen om telt te
+maken. Ook KARKASSEN.
+BI Trage franco tellluti. Filicouant o. 10
+CHEMIGRAFISCHE KUNST^IRICHTING
+V/H DIRK SCHNABEL
+AMSTERIJAM
+CLICHÉ'S
+VOOR ZWART EN KlEURtNDBlIK
+ONS NIEUW PROCEDt IS
+KOPERDIEPDRUK
+GESCHIKT VCX&gt;K ELK PAPIER.
+Amsterb
+MAANDAG 9 JULI
+GROOTE
+ZOMER-UITVERKOOP
+UITSLUITEND CONTANT
+GEEN KORTING
+GEEN ZICHTZENDING.
+
+</text>
+<image timestamp="2002:08:23:19:27:07.00" size="278657">D2002Z0.TIF</image>
+</page>
+</document>

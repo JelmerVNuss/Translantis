@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011229</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1279
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Zuid-Afrika in 1920. (Life, K.-Y.;.
+Voorbereidingen voor dg Kroning. (Olk.)
+DE SIRDAK : »0rdonnana, geef me het rubber-stempel met Hei i-pijt mi/j u te moeten berichten
+en j\y koerier, hum ! hoeveel zei je ook weer dat er van dat regiment zyn gevangen genomen ?"
+Ock een Duelkwestie. (Lustige LliiJer).
+FCSILIER KUTECIIKE : »Ik ben erg vredelievend, maar ('én duel op my'n
+manier zou ik weêrgaasch graag het ben.''
+'t Kon toch gebeuren. (Westminxter
+
+LH: Ori'!:i;i!i:v!:i,HF I;HK;I (i.vm Ju-t Biit-clte l((/i&gt;'}: »"\Ysct ja J je, ja opmerkingen
+over d;^ Duitsebe oorlogsvoering van Anna 70 en 71 zijn erg iast'g ik zal
+j-i !'f;:iiaW mijn toestomir.ing uvieten weisp^r, om de orde van den Zwarten
+Adt-laar te moj?en aa.ineaien." (Liiht:i/c liliitter).
+Men stelt, voor d;:t Lord Knsehervy. nu hij z;j" ii;&gt;n.-ten aan Kijn land a-i-'dt, naar Holland worde gezonden
+al8 Vrede-Cominia^ari-*. 't Ku.i tocli gtb«ure:i ii/t 'uij ;ï;ir toeva';:g ztker itmand ontiroette.
+Een eeuwigdurind spelletje. (Xc-iereUe.)
+Noch de groote welsprekendheid van den een, noch de woeste energie van den
+ander, kunnen de arme John Buil uit den zonderlingen, belachelyken toestand
+helpen; hy hobbelt en hobbelt, maar komt niet voort l"
+r
+s
+K
+
+f "S
+In China, die :;aat... en die bli'ft... (
+
+EUROPA : »Ik vertrek mijn vriend. S^a op en volg my."
+HUSLAKD : «Liefste, ik kan my niet bewegen, ik zit hier goed, heel goed, te goed l"
+
+</text>
+<image timestamp="2002:08:17:02:12:08.00" size="379241">D20016R.TIF</image>
+</page>
+</document>

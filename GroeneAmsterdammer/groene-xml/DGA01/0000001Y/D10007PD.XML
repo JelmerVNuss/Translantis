@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260626</Datum>
+<Pagina>1A3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A F. Z U RCH ER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOQIERSGRACHT64-66-68-70-72.AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-B AS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+PROJECTIE-LANTAARNS
+N BIOSCOPEN
+
+CAPI
+
+AMSTERDAM DEN HAAG
+119 KALVERSTR. 124 NOORDEINOE
+NIJMEGEN GRONINGEN
+I9-»UBCRCH£NST» S KL
+RELSTtRSTR,ALBINGIA'
+Verzekering-Mijen., Ao 1901.
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+38 CENT PER HALF ONS
+N.V. Mcutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+JnmeenschuJmkleur?
+N.V. GOEDEWAAGEN-GOUDA
+T"™	;	Restaurant HOEK
+Amsterdam: ^^^
+«•" Oesters - Kreeft - Caviar
+t/o LIBERTY
+l
+mm »
+ITIMTURJ
+LUCULLUS
+INMAAKCLAIEN
+IDE BESTE EN GOEDKOOPSTE
+| OVER AL VERKRYGBAAR
+AORE5 Vo MANDEL
+| JOM.H.VAN DER MEIDEN, l
+AMERSFOORT
+N.V.%
+H-A-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHEK
+HOLLANDIA"
+~ tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMI!
+FABRIEK ESPANj
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlei
+
+ARNOLD HOUTSCHIL1
+Singel 285 Amsterdan
+SUPERB
+CIGARETTES
+173. NEW BOND STREET,
+i
+MEEST GESCHIKTE BIHOERIJ VOOR H H'UITGEVERS
+5T VILLIBRORDUSSTRAAT 53-55 ADAM TEL '4^66
+
+</text>
+<image timestamp="2002:09:25:19:44:18.00" size="145141">D10007PD.TIF</image>
+</page>
+</document>

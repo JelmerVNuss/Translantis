@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040131</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Strijd onder de Calvinisten over den dans op het galabal.
+
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 31 Januari 1904.
+VOETIUS (/f w**, v. 't O. M.): Het is een aanleydinge tot ydelheyt, lichtvaerdigheyt, ende onkuysheyt
+het danssen van beklaegden geschiedde uit dartelheyt en wereltsche wellustigheyt het is een groot quaet
+ik eische strenghe straffe. BI
+KUYPER (Rechter]: Laat mij' zien hoe wulpsch gij U gedragen hebt, Mijnheeren. Danst en waggelt
+e, of gij U hebt aangesteld als een «dronken man",
+*-*^u * i t-t-v ^.ivn./t-frt./ j , j_ju,ai
+
+nogeens, opdat ik wete moge,
+.\rnst. Boek- en Steendrukkertj, v/h. EUerman, Harms &amp; Co.
+
+KUYPER (Verdediger): Maar bedenk o rechter, dat de beide delinquenten, «krachtens hun ambt" aan zulk
+vermaak deelnamen; en dat zrj, gruwende van de zonde om hen heen, bij het ontoereikende der «weelderige
+vrouwenkleedH met half gesloten oogen hebben gedanst. - Vrijspraak zij hier niet mogelijk; clementie,
+Mijnheer de Rechter, worde hier betracht.
+
+KUYPER (Rechter}: Neen, geen genade - bij vonnis van heden veroordeel ik hen tot het bijwonen met
+open oogen van . . . het volgend bal.
+
+</text>
+<image timestamp="2002:08:14:16:57:30.00" size="380055">D1000090.TIF</image>
+</page>
+</document>

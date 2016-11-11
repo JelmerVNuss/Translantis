@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300628</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+inlluthuis^ookin
+den winter
+r W aa
+aarom zoudt gij den komenden
+winter geen gelijkmatige
+zomertemperatuur in Uw heele huis, van onder
+tot boven, hebben?
+
+Het beteekent zoo vél meer comfort.
+Het beteekent geen last van kouvatten,
+wat zoo dikwijls het gevolg is van
+de ouderwetsche verwarmingsmethode
+met kachels, die een gedeelte van het
+huis verwarmen en een ander deel
+ijskoud laten.
+
+Braat's Centrale Verwarming is ge
+
+makkelijk te installeeren. U kunt haar
+direct laten aanbrengen en van de
+voordeelen er van genieten gedurende
+'en u t
+Uw vacantie
+Hjd
+Vraagt onze geïllustr.
+brochure
+Zomer zoodra
+gij over den
+drempel stapt"
+waarin alle systemen van
+Centrale Verwarming
+worden besproken, aan
+bij Afd. C.V. Koninklijke
+Fabriek F. W.BraatN.V.
+Delft.
+de lange, koude maanden, die komen
+zullen. Gij zult bemerken, dat ze
+economisch is, want er is maar n
+vuur noodig, om die behaaglijke, ge
+
+lijkmatige warmte door het heele huis
+te verspreiden. Ge zult bemerken, dat
+ze zindelijk is en hygiënisch geen
+rook en asch in Uw kamers. Minder
+bewerkelijk, want er is maar n vuur,
+waarop gelet moet worden.
+
+Ga gerust met vacantie. Onze
+ver
+trouwde monteurs leggen in dien tijd
+de installatie aan.*
+BR A AT
+CENTRALE
+VERWARMING
+* BRAAT'S CENTRALE VERWARMING met oliestookinrichting is ideaal.
+Onze brochure BRAAT HAAG Oliestookinrichting", die wij op
+aanvraag gaarne toezenden, geeft U volledige inlichtingen.
+
+</text>
+<image timestamp="2002:09:25:19:48:05.00" size="145501">000009BW.TIF</image>
+</page>
+</document>

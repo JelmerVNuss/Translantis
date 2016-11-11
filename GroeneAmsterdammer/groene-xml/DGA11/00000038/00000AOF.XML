@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321022</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 22 October 1932
+N o. 2890
+Ik heb de eer U te berichten
+dat ik een
+
+SPECIAALZAAK IN
+
+PELTERIJEN
+gevestigd heb onder de firma
+P. J. KOPPEN &amp; C
+U beleefd tot een bezoek
+uitnoodigend, met de meeste
+Hoogachting,
+P. J. KOPP EN
+voorh. bedrijfsleider J. Greeve &amp; Zn.
+Leidschestraat 45
+AMSTERDAM C.
+N. V. v/h. Gebr. Breen
+Nieuwste Modellen.
+Grootste sorteering
+
+Schoorsteenklokken, Hangklokb,
+Barometers, Wekkers en Horloges.
+Goud- en Zilverwerken.
+Eigen reparatie-inrichting.
+
+Nieuwendijk 172
+Haarlemmerstraat 64
+Rozengracht 53
+AM STERDAM
+DEOROENE AMSTERDAMMER
+WeekHad voor Nederland kost
+slechts ƒ 2.70 per kwartaal (ind.
+f o,20 voor incassokosten) of
+f io.—per jaar bij vooruitbetaling.
+«JU ets. per
+l/2 pondspakje
+9.8.76-020"
+DE NAAM WAAR EEN
+GARANTIE ACHTER STAAT
+Versch gekamd met 25 lo allerfijnste Roomboter onder Rijkscontrole
+PRIMA LEIDSCHE WOLLEN DEKENS
+150X200
+SPECIALE AANBIEDING
+160X210 175X230 190X240 c.M.
+f 9.45 f 10.80 f 13.90 f 15.50
+
+in Rose, Blauw, Goud, Lila fantasie
+
+PYVB "*.M A
+«TKJMA
+AMSTERDAM
+NIEUWEMDIJK 167
+-W. H. POLMAN TUIN
+OVERTOOM 526 - Telefoon 82660
+Begrafenissen • Transporten - Crematies
+N.V. Meubelmagazijn Eden1
+Molsteeg ~~ Amsterdam
+BOEKENKASTEN
+«NTPAM^HOTEL
+LEIDSCHEBOSCHJE
+TEL 82345
+AMSTERDAM
+TEL.ADR.HOCEMTRA
+LOGIESMETOmB'JT
+HBTEENIÜE HOTEL
+MBTEENMODERM
+IMGERICHTZWEM.
+BAD, WAAR DE
+GASTEH KOSTELOOS
+D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN M A R M E R W E R K EN
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN WASCHTAFELS R EPAR ATI ES
+
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:11:21:03.00" size="221779">00000AOF.TIF</image>
+</page>
+</document>

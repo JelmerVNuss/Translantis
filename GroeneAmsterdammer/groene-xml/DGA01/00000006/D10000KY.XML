@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19041030</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Baltische vloot en de Engelsche visschersschepen.
+RIIVOF.GSKI. van de Amsterdammer. Weekblad voor Nederland van 30 October 1904.
+
+Amst. Hoek- en Steemlnikkerii. v/h. Ellrrman. Ilarnr
+\
+
+
+
+
+JOHN HULI. : (joddam, /.oo'n vuilik; hij kan je no^~ niet voorbijkomen, of hij veegt 7 ij n smerige snuit aan je af.
+
+</text>
+<image timestamp="2002:08:16:02:53:33.00" size="641952">D10000KY.TIF</image>
+</page>
+</document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150131</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE LANDWEERWET IN DE TWEEDE KAMER
+BüVOP.GSEL van De Amsterdammer, Weekblad voor Nederland, van 31 Januari 1915
+Nadruk verboden
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+COMITE-GENER AAL
+TROELSTRA
+BORGESIUS
+DE MEESTER TER LAAN DE JONG Mm. BOSBOOM Bos DUYMAER v. TWIST
+De Regeering weigert comité-generaal
+Kamerleden: Bosboom. Bosboom, als men 't u gebiedt l Kamerleden: En als men 't u met klem gebiedt!
+M i n. v. O o r l o g: Ik zeg 't niet, ik zeg 't niet.
+M i n. v. Oorlog: Dan zeg ik het lekker niet
+
+</text>
+<image timestamp="2002:08:21:07:18:06.00" size="149688">D40001LQ.TIF</image>
+</page>
+</document>

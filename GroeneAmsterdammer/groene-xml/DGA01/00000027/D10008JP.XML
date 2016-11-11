@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330513</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 13 Mei 1933
+No. 2919
+N*
+l
+fc
+J. D. STRUIJS &amp; Zn.
+Tel. 37906-Amsterdam - Prinserigr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden
+Molsteeg ~~ Amsterdam
+BOEKENKASTE
+-W. H. POLMAN TUIN-j
+OVERTOOM 526 • Telefoon 826601
+Begrafenissen - Transporten • Crematies l
+APOLOGIE
+
+ofte Verantwoordinge van den
+Prince van Orangien (1581)
+naar de eerste, officieele druk opnieuw uitgegeven door
+
+Dr. MEA MEES-VERWEY
+==' met Voorwoord van ==
+Prof, Dr* ALBERT VER WE Y
+
+böftëkënirig van LEON SENF en portret van de prins
+•'.; naar de gravure van Goltzius van 1581
+"t
+JUBILEUM-UITGAVE» Ing. ƒ 2,50, geb. f 3.50
+Uitgeverij C. A. MEES - Santpoort
+; IN IEDEREN BOEKHANDEL VERKRIJGBAAR
+tilt
+NIEUWE KLEUREN EN ONTWERPEN
+EFFEN MOQUETTES IN BANEN
+LOOPERS-TAPIJTEN-MEUBELSTOFFEN
+L l C O N A-G O R DIJ NSTOFFEN
+N.V. GEBRS. V. D, BERGH'S
+KONINKL.FABRIEKEN.OSS
+Voor en gros:
+Hirsch &amp; Cie,
+Leidscheplein,
+Amsterdam.
+Slechte verzorging van uw huid heeft
+onvermijdelijk ten gevolge, dat zich om
+mond en oogen lijnen vormen die aan
+uw charme afbreuk doen. Regelmatige
+toepassing der Dorothy Gray-methode
+echter houdt uw teint jeugdig en frisch.
+Vraagt ons om gratis advies betreffende
+de speciaal voor uw huidsoort geschikte
+Dorothy Gray-praeparaten.
+
+Alle Dorothy Gray producten zijn o.a.
+verkrijgbaar bij:
+Hirsch 6 Cie., Maison Faas, Maison Meuwesse,
+B. Hille, Amsterdam. M. G. van Ankorven, Den
+Haag. W. Mossel, N.V. H. Bats, Rotterdam. P. van
+Niel, Haarlem. Maison Louis, Parfumerie Royale,
+Utrecht. De City, 's-Hertogenbosch. Firma
+K. Simon, (J. Schardt), Enschedé. Jac. Derpen,
+Eindhoven. Maison Au Printemps, Nijmegen.
+Gebr. Hansen, Heerlen. Rut Hofman, Groningen.
+l Belangrijke Veiling van Boeken en
+Prachtwerken op elk gebied
+bu R. W. P. DE VRIES
+AMSTERDAM • Singel 146
+ML M. Dr. E. C. VAN LEERSUM e.a.
+VEILING: Van 17-20 MEI des avonds7%uur.
+KIJKDAGEN: 13 en 15 MEI van 10-4 uur en
+16 MEI van 10 4 en des avonds van 8-10 uur.
+Catalogus a 25 cents
+R.W.P. DE VRIES
+-Tl SINGEL 146 T
+l l AMSTERDAM l
+Begin Juni 2 Belangrijke Veilingen van
+Schilderijen en Antieke Scheepsmodellen
+
+</text>
+<image timestamp="2002:09:26:23:38:02.00" size="172927">D10008JP.TIF</image>
+</page>
+</document>

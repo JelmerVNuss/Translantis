@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260925</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+R A A G T
+VAN
+IIISTEHELI'S
+ADVOCAAT
+\.VANBIJSTERVELD
+; : AMSTERDAM
+O k T ''"
+6ËIRVIKTU
+OOK STEEDS
+POOL4
+ATOL
+TANDPASTA 7
+V**.:
+A P. Z U RCHER
+LOOIBRSGRACHT64-66-68-W-72,AMSTERDAM
+ARNHEM (Qroote Markt)
+HOTELDESPAYS-BAS
+KAMERS MfT WARM EN KOUD STROOMEND WATER
+R
+E I S
+I S I C O ' S M !
+BAGAGE-. RIJWIEL-,
+ONGELUKKEN-,
+AUTOff.A. VERZEKERINGEN
+Vruag onze c o nc urreerende premiën
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM .- LEEUWARDEN
+N.V. Aleubelmagazijn
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS &amp; GO.
+BdMHg«rQ - Ameublementen - Stoffeerder^
+Modetne Landhuiistoffen en
+Oud-Hollandschc Meubelen
+V^ELGRACHT 13, Telefoon 37354
+AFWERKEN
+Amateur^Foto's
+VLUG, NET, BILLIJK
+Speciale inrichting l
+C AP I
+115 KALVERSTRAAT
+15 MAAR
+KARELI
+ft
+r
+de heerlijke Cacaodrank
+wordt ge4KMkea&gt;let M-elk of Spuitwater
+Fabrikanten F. KORFF 6 Co., Amsterdam
+NVVH.
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 2S ATM»,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE,
+SPANJAARD £ Co.
+MeubeleM naar eigen oatwerpftn of Mar oude
+ARNOLD HOÜTSCHItT
+Singel 285 Amsterdam
+ITIMTURJ
+Engelsch Plated
+GrcXnteschilen
+Sciucekoffimen
+Gtoentetepels
+Saucelepels
+Soeplepels Tafelkpel» en Vorken enz.
+Prijzen op aanvrage
+Arnhem - ZIJLSTRA 6 RUPP
+Füne likeuren
+
+</text>
+<image timestamp="2002:09:26:04:19:44.00" size="186969">D10007YH.TIF</image>
+</page>
+</document>

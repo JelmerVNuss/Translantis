@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020105</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No, 1230
+DE AMSTERDAMMER WEEKBLAD V O R N E D ER; LA N D.
+11
+Oostenrijk in 1902.
+De moderne torenbouw van Babel
+CHRISÏMAS : »En wat zou Johnnie Ball nu wel 't liefst van
+myn boom willen .
+JOHNSIE BUL.L : » Asjeblieft dat mooie engeltje, heel bovenaan."
+Eduard bidt. (Lustige Blatter).
+O Heer! ik bid tot U, maak een einde aan dezen
+onzaligen oorlog en verdelg die paar boeren, die m\jn vrede
+
+lievende denkbeelden niet begrepen.
+Hoe Dr. Punch John Buil viadt bij z'|ji Nieuwjaarsbezoek.
+Onrechtvaardigheid. (Caran d'Ache in den Figaro)..
+Dat is nu al de derde Kerstmis-pudding, die hij voor myn nens wejkaapt, en toch
+blijven ze m\j maar altyd den veelvraat noemen.
+\&lt;f ^ ^^
+V4 . - X
+Dr. PUNCH: «Ilallo John, ze hebben j9 leelijk toegetakeld; in 't Buitenland ben je al
+&lt;pjegeven, maar ik wanhoop nog nieW
+
+</text>
+<image timestamp="2002:08:17:02:24:40.00" size="427035">D20016U.TIF</image>
+</page>
+</document>

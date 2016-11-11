@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130330</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ROEPING VAN HOLLAND"
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 30 Maart 1013
+Nadruk verboden
+
+
+
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Ci
+HOLLAND—ENGELAND : VOETBAL 2—1
+PLAN VAN VOLLENHOVEN : ROEPING VAN HOLLAND''
+KAMPIOENSCHAP BILJART: 300—93
+De Nederlandsche leeuw moge groot zijn in die zaken, waarin een kleine leeuw groot kan zijn"
+
+</text>
+<image timestamp="2002:08:18:11:08:17.00" size="129128">D40000NT.TIF</image>
+</page>
+</document>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260501</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+HOFLEVERANCIER
+
+ROKIN 134 over de Ned. Bank
+
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A R ZU R C H ER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT 64-66-68-7 0-72, AMSTERDAM
+ARNHEM (Groote Markt)
+HOTEL DES PAYS-BAS
+IINION"
+London, Ao 1714. Verzekering tegen
+
+INBRAAK-.
+WATERLEIDING- EN
+STORMSCHADE
+
+A. D. BEERENDS 8 VEEREN
+AMSTERDAM - LEEUWARDEN
+30 CENT PER HALF ONS
+IN. V: Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+N.V.
+"T—*"	;	Restaurant HOEK
+Amsterdam: spui 23
+•	Oesters - Kreeft - Caviar
+PROItCTIt-LANTAARNS
+CIM BIOSCOPEN
+
+CAPI
+
+AMSTERDAM DEN HAAG
+115 KALVERSTR. 124 NOORDEJNDE
+NIJMEGEN GRONINGEN
+I3-I9WBERCHEN5TR- 3 KL
+PELSTERSTRt/o LIBERTY
+HAKLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+
+Singel 283 Amsterdam
+TIMTUR
+fuuiwéfi
+
+si
+«N^
+i
+i
+SUPERB
+CIGARETTES
+173, NEW BOND STREET,
+LONDON, Wl.
+l
+EI
+
+Dit weekblad wordt gedrukt op papier van de Trapeha, papiergroothandel - Amsterdam
+
+</text>
+<image timestamp="2002:09:25:12:02:24.00" size="168487">D10007JM.TIF</image>
+</page>
+</document>

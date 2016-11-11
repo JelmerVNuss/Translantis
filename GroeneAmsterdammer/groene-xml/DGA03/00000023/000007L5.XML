@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400713</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De goede dingen dezer aarde
+
+IN HOLLAND
+
+STAAT EEN HUIS
+LATEN wij, nu zooveel teleurstel
+
+lingen op ons aanstormen zij
+zijn van velerlei aard en zij, die er aan
+ontkomen, moeten wel zeldzaam zijn
+niet voorbij zien aan de goede
+dingen dezer aarde die ook deze tijd,
+hoe somber hij ook zijn mag, brengt.
+Lach niet sarcastisch, lezer, als ik
+van goede dingen spreek. Zij zijn er,
+ondanks alles, en gij ervaart ze iederen
+dag. Ik zal er u n noemen en gij
+zult erkennen, dat ge het opgemerkt
+hebt en er erkentelijkheid voor voelt:
+het versterkte gemeenschapsgevoel.
+Wij Nederlanders zijn van een eigen
+
+aardig slag. Wij zijn, hoewel niet be
+
+paald stug, van een opmerkelijke ge
+
+slotenheid. Wij geven ons moeilijk;
+wij leven graag, als eiland-bewoners,
+in ons eigen klein rijk, het rijk van ons
+huisgezin of van een kleine kring
+intieme vrienden.
+Maar dat huisgezin is geheel ge
+
+vormd naar onze individueele geaard
+
+heid, en de vriendenkring is met zorg
+gekozen, door vele jaren beproefd en
+nauwelijks vatbaar voor uitbreiding.
+Natuurlijk hebben wij onze kennissen,
+onze collega's, menschen waarmede
+wij toevalligerwijs of door onze maat
+
+schappelijke positie in aanraking
+komen, maar al deze mannen en
+vrouwen blijven ons toch betrekkelijk
+vreemd. Wij praten met hen, geven
+elkaar zoo nu en dan raad of zitten
+elkaar dwars, maar aan hun intiemer
+leven hebben wij geen deel, en als zij
+voor goed uit ons leven heen gegaan
+zijn voelen wij nauwelijks een gemis.
+Vrienden, wat wij gewoon zijn vrienden
+te noemen, zijn zij niet. De stroom, die
+de eilanden scheidt, wordt niet over
+
+brugd. Wij zijn individualisten en wij
+willen het ook zijn. Verplichtingen
+tegenover de gemeenschap koopen wij
+met belastingpenningen,
+vereenigingscontributie of een aalmoes af. Zoo zijn
+wij, zijn de meesten van ons, en wij
+hebben misschien nooit anders gewild.
+Wanneer er al eens een brug van het
+eene eiland naar het andere geslagen
+wordt behoeft de stroom der verdeeld
+
+heid en van de gedachtenwisseling niet
+eens heel erg hevig te zwellen, of de
+brug drijft op de golven van de drift
+weg en wij verzekeren ieder die het
+maar hooren wil, dat wij er niet rouwig
+om zijn. Dan concentreeren wij ons
+weer op vrouw en kind, op vriend of
+vriendin, en keeren tot ons zelve en
+tot onze kleine kring terug, een kring
+die door de jaren beproefd is en tegen
+alle stormen bestand.
+
+JA tegen alle gevaren, alle stor
+
+men, behalve tegen n macht,
+die nu eenmaal onweerstaanbaar is, de
+macht des doods. Hoe onvergankelijk
+ons kleine rijk, zoo zorgvuldig door
+ons opgebouwd, ook schijnen mag, het
+is helaas van een zeer kwetsbare, zeer
+brooze gesteldheid. Het zal zich ge
+
+durende vele, vele jaren handhaven,
+en plotseling stort het ineen. De
+weinige intieme vrienden die wij
+hadden verzameld, tot wie wij ons
+zonder voorbehoud konden uitspreken,
+die onze zwakheden kenden en wisten
+te ontzien, die ons met raad en daad
+bijstonden als het gold moeilijke pro
+
+blemen op te lossen; de vrienden die
+voor ons een toevlucht waren, een
+toeverlaat in leed of vertwijfeling en
+die, als ons gesternte goedgunstiger
+blonk, onze blijdschap zoo gul, zonder
+een schijn van afgunst en met op
+
+rechte vreugde, plachten te deelen,
+verdwijnen een voor een en wij weten,
+bij hun heengaan, dat zij niet te ver
+
+vangen zijn. Want niemand kende, a's
+zij, ons wezen, onze aard, onze ge
+
+breken; niemand had, als zij, onze
+groei en ons rijpingsproces meege
+
+maakt. Op lateren leeftijd vindt men
+geen nieuwe vrienden meer, geen
+vrienden tenminste als de ouden van
+de jeugd. En dan treft de dood ook
+hen die ons het naast stonden, de leden
+van het gezin, en het gezinsverband
+wordt tot een ijdele droom. Wij be
+
+merken dan met schrik hoezeer wij
+eilandbewoner zijn en hoe eenzaam
+het op een eiland is. Doch een brug
+welke ons uit die eenzaamheid redden
+kan is er niet.
+
+IN de bewogen tijd waarin wij thans
+leven, hebben wij echter ontdekt,
+dat onze eilanden eigenlijk geen eilan
+
+den zijn; wij hebben vrij plotseling be
+
+merkt, dat wij niet zoo allén staan
+als wij hebben vermoed en gevreesd.
+De gebeurtenissen der laatste maanden
+hebben ons bewust gemaakt van een
+gemeenschapsgevoel, een
+saamhoorigheidsgevoel, waarvan wij het bestaan
+nauwelijks hebben bevroed. In menig
+nachtelijk uur, vol zorg en vrees, zijn
+wij menschen waaraan wij tot dus
+
+verre met onverschilligheid voorbij
+gingen, nader gekomen. Zij hebben
+ons gastvrijheid verleend en wij van
+onzen kant hebben gelegenheid gehad
+neerslachtigen en ontmoedigden op te
+beuren. Wij hebben ontdekt dat ons
+lot het hunne, dat hun lot het onze is,
+en dat wij allen tezamen behooren in
+een onverbrekelijk verband.
+Er is een sociaal besef in ons ont
+
+waakt dat ver uitgaat boven stands
+
+vooroordeel of individualisme. En wij
+zijn ons er van bewust geworden dat
+dit sociaal saamhoorigheidsgevoel ook
+belangrijker is dan de vriendschap van
+enkeling tot enkeling, een vriendschap
+die voor ons zooveel te beteekenen
+had. Wij zouden het niet graag willen
+prijs geven. De een heeft die ervaring
+opgedaan bij buren aan wie hij tot
+dusverre, hoogstens met een stugge
+groet, voorbij is gegaan; de ander bij
+verre verwanten met wie hij liefst zoo
+min mogelijk contact behield, of met
+collega's voor wie hij nooit iets anders
+dan onverschilligheid heeft gevoeld en
+die hij hoogstens met vormelijke hof
+
+felijkheid bejegend heeft. Nu weten
+wij echter, dat er een band is die ons
+allen bindt, ontstaan in uren van ge
+
+meenschappelijk doorleden gevaar,
+van tezamen geleden leed. Wij hebben,
+in letterlijken zin, van de nood een
+deugd gemaakt.
+De Spanjaard heeft een begroetings
+
+formule waarin zoo ongeveer wordt
+gezegd, dat ge zijn huis moogt be
+
+schouwen als het uwe. Vermoedelijk
+zou hij vreemd opkijken wanneer ge
+zijn hoffelijkheid naar den letter
+naamt. Wij kennen, in ons spraak
+
+gebruik, dat overigens even vormelijk
+en even onoprecht kan zijn, deze for
+
+mule niet. Maar de diepere zin die
+eraan ten grondslag ligt kennen wij
+thans zeer goed. Die is, dat wij onze
+landgenooten beschouwen als mede
+
+bewoners van ons huis, van ons huis
+dat Holland heet en dat wij elkaar
+voortaan als huisgenooten willen be
+
+jegenen. En wie zal willen beweren,
+dat het besef hiervan geen winst op
+
+levert en geen goed ding is op deze
+zwaar beproefde aarde ?
+LIBRA
+Het land der
+WANNEER de herdruk van het
+verklarend handwoordenboek
+der Nederlandsche taal in een
+nabije toekomst achter het werkwoord
+fietsen" de verklaring zou bevatten:
+wijze waarop de Nederlander zich in
+zijn land voortbeweegt", dan zal geen
+sterveling zich aan zulk een vrije,
+maar vrij nauwkeurige definitie storen.
+Want het fietsen in ons land is eigenlijk
+sinds lang geen onderneming meer,
+geen daad in den waren zin des woords
+en nauwelijks nog een sportief gebaar,
+het is een gedraging, onverbrekelijk
+aan het nationale leven verbonden, een
+volkomen vanzelfsprekende verplaat
+
+singsmanoeuvre, waarbij het aange
+
+name op de meest natuurlijke wijze
+met het nuttige vereenigd wordt. Het
+is helaas een door den tands des tijds
+reeds lang gladgeknabbelde gemeen
+
+plaats om te zeggen dat de fiets nergens
+ter wereld zóó populair is als bij ons te
+lande, dat zij nergens zoo goed verzorgd
+wordt en men ook nergens zoo veel
+rekening met haar bestaan houdt, als
+juist hier binnen de grenzen van het
+lage land aan de zee. Maar gemeen
+
+plaats of niet, men gelieve maar even
+te bedenken dat er een slordige vier
+millioen rijwielen in Nederland in
+gebruik zijn, dat is dus ongeveer n
+fiets op ledere twee Nederlanders, om
+vast te stellen dat hier zelfs niet de
+geringste overdrijving in het spel is en
+dat Nederland zich zonder eenig be
+
+zwaar fietsland nummer n" mag
+noemen, zoodat men het zelfs eens kan
+zijn met den beroepsgrappenmaker die
+een taalkundige revolutie riskeerde
+toen hij opmerkte: Nederland is het
+rijwielendste" land ter wereld."
+Eén fiets op iedere twee landgenoo
+
+ten. En die conclusie ontleenen wij dan
+nog aan de officieele cijfergegevens
+van langer dan een jaar geleden, want
+intusschen nu motorbrandstoffen
+gerantsoeneerd zijn heeft het aantal
+fietsrijdende Nederlanders nóg weer een
+niet geringe uitbreiding ondergaan. Laat
+ons even vaststellen dat de A.N.W.B
+onder zijn leden ongeveer 43.000
+automobilisten telt, dat vele duizenden
+van hen al jarenlang behalve hun
+rijdend salonnetje een fiets bezaten en
+dat het proces van automobilist en
+motorrijder tot fietser" zich nu
+heelemaal in een dagelijks eenparig versneld
+tempo voltrekt.
+In twee en dertig jaar had ik niet
+op een fiets gezeten", hoorden wij
+dezer dagen in bevrienden kring
+zeggen, en nu de wagen op stal staat
+heb ik het weer eens geprobeerd. Ik
+reed met hetzelfde gemak weg of het
+32 uur geleden was en nu peddel ik
+iedere avond op mijn nieuwe karretje
+naar huis en na het eten nog een uurtje
+om. Ik was bijna vergeten dat je zoo
+
+veel pleizier van een fiets kon hebben"
+Dit voorbeeld staat waarlijk niet alleen
+en het verhaal van de velen die zich in
+devote ernst maar met volle overgave
+en kennelijk pleizier opnieuw tot de
+fiets bekeerd hebben, is bijna klassiek
+geworden.
+Het klinkt natuurlijk een tikje
+vreemd, maar in deze zomersche dagen
+anno 1940 hebben duizenden vader
+
+landers de fiets ontdekt. Zij fietsen met
+geestdrift en oprecht genoegen, zij
+vormen elk voor zich, gelijk al die
+anderen die dat al jarenlang deden,
+de harmonische, natuurlijke
+tweeeenheid van mensch en rijwiel.
+
+ER gaat een verhaal van een
+buitenlandsch toerist, die al twee volle
+dagen in ons land vertoefde, let wel:
+twee maal vier en twintig uur, zonder
+n enkele opmerking te hebben ge
+
+maakt over het aantal fietsers dat hij
+overal op zijn weg ontmoette. Dat
+gelooft natuurlijk niemand. De man
+móet hebben gezien dat de Hollander
+eerder zijn zakdoek dan zijn fiets
+vergeet, dat onze boomen, onze huis
+
+gevels, mitsgaders onze tuin- en
+PAG. 4 DE GROENE No. 3290
+
+</text>
+<image timestamp="2002:09:13:06:55:22.00" size="409607">000007L5.TIF</image>
+</page>
+</document>

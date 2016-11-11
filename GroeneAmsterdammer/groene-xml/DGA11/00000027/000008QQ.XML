@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301206</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 6 DECEMBER 1930
+No. 2 j92
+J. D, STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+mmmm im mmm m\ mm oi jioio'S)
+CREMATIE - TRANSPORTEN.
+N. V. Meubelmagazijn Eden"
+MOLSTEEG ~ AMSTERDAM
+BOEKENKASTEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 _ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -.- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+AUG. KAUPMANN
+P. C. Hooftstraat 113. Amsterdam Z., Telefoon 23308
+KERSTGESCHENKEN
+TAFELKLEEDJES WIT EN GEKLEURD
+TABLETKLEEDJES DIVERSE MATEN
+DAMES-, HEBREN- en KINDER ZAKDOEKEN
+ONTBIJTSTELLEN DINER STELLEN
+GROOTE KEUZE
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+D^JOBERINK
+Amsterdam, Prinsengracht 456. Tel. 37452
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+G. J. DE KONINGS ZOON
+Keizersgracht 447,
+Opgericht Ao. 17««
+LOOD- EN ZINKWERKEN.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+Opgericht in 1864
+Maatschappelijk Kapitaal f 10.000.000,
+waarvan geplaatst f 8.400.000,
+Waarop 10 pCt. gestort.
+Verstrekt geld op eerste hypotheek.
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 89 te R'dam of tot hare Agenten.
+De Directie:
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wij k,
+Mr. B. van Rossem.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h, Gebr, BREEN
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+F .C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24350
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+R.W.P. DE VRIES
+Tl SINGEL 146 r
+l AMSTERDAM J
+Belangrijke Veiling van Oude Teekeningen
+grootendeels afkomstig uit Buitenlandsch
+Particulier Bezit w.o. fraaie bladen van
+P. BRILL A. v. DIJCK H. GOLTZIUS
+J. v. GOYEN A. v. OSTADE
+S. v. RUYSDAEL G TOORENBURG
+LUCAS VAN UDEN W. v. d. VELDE e.a.
+bij
+R. W. P. DE VRIES (Dr. A O. C. DE VRIES)
+Singel 146 Amsterdam.
+Veiling: 9—10 Dec. Kijkdagen: 6—8 Dec.
+Geïll. cat. wordt na ontvangst van f 1.1.—toegezonden.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+Linnenmanden .
+PLAIDS
+VOETZAKKEN
+AUTO-OVERSCHOENEN
+VERWEEGEN &amp; KOK
+AMSTERDAM
+KALVERSTR. 86-90
+DEN HAAG
+NOORDEINDE 64c.
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:11:01:24.00" size="153032">000008QQ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300301</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN i MAART 1930
+No. 2752
+INCASSO-BANK NV
+Volgestort Kapitaal f30.000.000—Koerve f
+8.400.000.
+Heerengracht 531—537
+
+ADVIEZEN VOOR BELEGGING
+INLICHTINGEN OMTRENT FONDSEN
+
+Effecten-af d* voor particulieren
+
+(INGANG: SAFE-DEPOSIT)
+T
+U. DE HUILEMSCHE
+HYPOTHEEKBANK
+Leden der Directie: ^S^S^ Mr. A. S. M I ED EM A,
+P. H. CRAANDIJK en A. E. TH1ERRY DE BYE DOLLEMAN
+u »i i &lt;• 11 IAI oic Pandbrieven f 37.123.000
+Hypotheken f 37.343 825.—_ r l mi i -&gt; t
+*f Reserves . . t 1.U31.131.
+en 5 pCt. P ANDBRIEVEN tegen LAATSTEN AMSTERD. BEURSKOERS
+Bataafsohe
+Hypotheekbank
+AMSTERDAM
+Geeft uit:
+4,41/2En5°o paodbrieveo
+tegen beurskoers.
+STANDAARD
+HYPO T HEEK BAN K
+te ROTTERDAM
+Directie t
+Mr. H. H. C. CASTBNDIJt *n
+L MOSSELMAN
+De Bank geeft onder controle van het
+Algem. Administratie- en Trnstkantoot
+5 en 4$%Pandbr.tegen benrskoert uit.
+OnderL Glas-Verzekering-Mij*
+GEVESTIGD TE AMSTERDAM OPGERICHT 1876
+Kantoor: KERKSTRAAT No. 69 Telefoon 42163
+Directie: Mr. K. F. A. VAN DER BREGGEN
+Verzekeringen tegen vaste jaarlijksche premie, voor schade door breuk aan
+:-: :-: SPIEGELRUITEN, SPIEGELS of andere RUITEN M 1-1
+IJVERIGE VERTEGENWOORDIGERS GEVRAAGD
+Nederlandsche
+Handel-Maatschappij, N. v.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHAGE
+Vestigingen in Ncdcrlandsch-Indic, Straits-Settlements,
+Britsch-Indië, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS.
+ARNHE
+MIJ va" LEVENS
+
+VERZEKERING
+Als Gij een levensverzekering sluit moet
+maatschappij kiezen
+VAN HOOGB SOLIDITEIT
+EN BBTBOUWB BARHEID,
+NAUWGEZET EN COULANT
+met gunstige tarieven
+en vrijwillige voorwaarden,
+zonder belemmerende bepalingen.
+Kies dus de
+
+AMSTERDAMSCH E.
+Amsterdam, N. Spiegelstraat 17.
+Soerabaja, Willemskade 3.
+gij een
+De Holl. Voorschotbank
+HAARLEM, KRUISWEG 70,
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.
+opzakei(Jk onderpand en onder borgtocht, met
+ia pand;eving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5% schuldbrieven in stukken van f 1000.—.
+'00 - r* f 100 - tenc" Rciir-jVoers.
+HOOFDKANTOOR:
+KEIZERSGRACHT 570,
+AMSTERDAM.
+OPGERICHT A°1894.
+DE NV VERZEKERING-MAATSCHAPP
+..MERCURIUS'
+VERZEKERT, BEHALVE TEGEN
+INBRAAKSCHADE,ooK TEGEN BRANDr
+ONGEVALLEN-EN WATERLEIDINGSCHADE.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+Opgericht in 1861
+Maatschappelijk Kapitaal f 10.000.000,
+waarvan geplaatst f 7.000.000,
+waarop 10 pCt. gestort.
+Verstrekt celd op eerste hypotheek.
+Voor inlichtin en wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 41 te R'dam of tot hare Agenten.
+De Directie:
+Vli. Th. Reepmaker, Mr. N. P. C. v. Wgk,
+Mr B. ven Rossem
+fii
+NV ZINDER
+HYPOTHEEKBANK
+l 5 pCt
+Pandbrieven
+a 101 pCt,
+Directie:
+Mr.AUG. L. HEIJBROEK
+Mr. K. A. NEDERLOF
+
+</text>
+<image timestamp="2002:09:21:03:32:11.00" size="141522">000007XQ.TIF</image>
+</page>
+</document>

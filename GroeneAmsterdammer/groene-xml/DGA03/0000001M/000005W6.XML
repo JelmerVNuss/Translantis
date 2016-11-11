@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250905</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2517
+m
+Betrouwbaar, Economisch en Comfortabel
+Dat zijn de drie hoofdeigenschappen, die de waarde bepalen van Uw
+wagen, en speciaal van dien, welken zakenmenschen en andere, die
+voor hun beroep veel buiten moeten zijn, noodig hebben.
+
+De Ford Coupé, de elegante en makkelijke two-seater, bezit al deze
+eigenschappen in hoogen mate, evenals de Runabout, die een ideaal
+bezit is, wanneer gij een open wagen den voorkeur geeft.
+
+Betrouwbaar: Omdat zij gemaakt zijn van het beste materiaal.
+
+Economisch: Omdat zij zelden buiten dienst behoeven te zijn en
+als er reparaties noodig zijn, zorgt een prachtig georganiseerde en
+geoutilleerde Service" er voor, dat deze in den kortst mogelijken
+tijd tegen de laagst mogelijke prijzen gebeuren; omdat de aanschaf'
+fingskosten lager zijn dan van welken anderen wagen ook; omdat zij
+U tijd besparen; omdat de wederverkoopwaarde het grootst is.
+
+Comfortabel: Omdat zij U ruime zitplaatsen, koel in den zomer,
+beschut in den winter, bieden, zoodat gij steeds frisch en niet moe
+bij patiënt of cliënt komt; omdat zij makkelijk te besturen zijn.
+
+En na dit zakelijke iets poëtischers: Een Ford Coupéof Runabout is
+een heerlijk bezit, waar een voertuig voor slechts twee personen
+gewenscht wordt.
+
+KORTOM DE FORD COUPÉALS GESLOTEN WAGEN. EN DE
+
+RUNABOUT ALS OPEN WAGEN, VERTEGENWOORDIGEN
+
+DE HOOGSTE WAARDE TEGEN DEN LAAGSTEN PRIJS.
+N.V. Ford Motor Company of Hollend, Van Helmontstraat, Rotterdam.
+GEORGE H. LAGAS
+AMSTERDAM - Til. 24611 - Andreai Bonnstraat 40
+Electrische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+POLlEfïs Oude Genever
+Fijne Likeuren en Punch
+m. P. POLLEN A ZOOH - Rotterdam
+De beste REISLECTUUR
+s een deel uit de
+
+DAALDERS-EDITIE
+rijs gebonden In linnen band en
+met gekleurde kopsnede f 1.50
+ELK DEEL IS VOORZIEN VAN EEN
+AKKEND GEÏLLUSTREERD OMSLAG.
+No.
+
+I. OM PAPA'S PRINCIPE.door
+F. de Sinclair, 4de druk.
+2. DE DRIE DAMES
+CNUSSEWINKEL.doorMinca
+VersterBosch-Reitz, 3de druk.
+7. BARON SELDERIE, door
+F. de Sinclair, 3de druk.
+8. 'N SCHAT VAN 'N
+VROUWdoor Minca Verster-Bosch,
+Reitz, 2de druk.
+9. JANNEKE DE PIONIER
+
+STER, door Louise B.B., 3de
+druk.
+11. HET JOODJE, door Carry van
+Bruggen, 3de druk.
+12. De WITTE VALLEI, door
+G. van Hulzen.
+13. HET LOON DER BRAVEN,
+door F. de Sinclair, 3de druk.
+14. DE ..KRACH" VAN
+RENSWOUD, door F. de Sinclair,
+3de druk.
+15. GELD JAN, door JaakBoonen.
+16. DE DRIEDUBBELE
+VROUW, door F. de Sinclair,
+2de druk.
+17. OLGA WARNATE'S
+SCHOENTJES VAN SLAN
+
+GENHUID, door Minca
+Verster-Bosch-Reitz.
+18. EEN NAGELATEN BE
+
+KENTENIS, door Marcellus
+Emants, 2de druk.
+19. EEN DROOMER TER
+HARINGVANGST, door
+Bernard Canter, 2de druk.
+20. DE DOODE, door G. H.
+Priem, 2de druk.
+21. EEN MISDEELDE, door
+Louise B.B., 2de druk.
+22. DE DOCHTER, door Top
+Naeff, 4de druk.
+23. FREULEKEN, door Herman
+Roelvink.
+24. PENSION VINK, door F. de
+Sinclair.
+25. ELV1RA EN DE KAPSTOK.,
+door Herman Salomonson.
+26. MRS.O.doorHermanRoelvink.,
+27. LENTEWOLKEN door
+Herman Roelvink, 2de druk,
+28-29. DE GEBROEDERS
+KARAMAZOW door F. M,
+Dostojefski, 4de druk.
+30-31. UIT SIBERIË, door F. M.
+Dostojefski, 2e druk.
+32. HILLIGENLEI, door Gustav
+Frenssen, 5de druk.
+33. DE DRIE GETROUWEN,
+door Guttav Frenssen, 4de
+druk.
+34. JÖRN UHL, door Gustav
+Frenssen, 5de druk.
+35. DE ZANDGRAVIN, doof
+Gustav Frenssen, 4de druk.
+36. TOEN IK NOG JONG WAS,
+door Justus van Maurik, 3de
+druk.
+38. MACHTIG ALS DE DOOD,
+door Guy de Maupassant.
+39. DE BADPLAATS
+MONTORIOL, door Guy de
+Maupassant.
+40. EEN LEVEN, door Guy de
+Maupassant.
+41. ONS HART, door Guy de
+Maupassant.
+42. PIET EN JAN, door Guy
+de Maupassant.
+47. DE ZOONS VAN DEN HOUT
+
+VESTER, door Peter Rosegger,
+3de druk.
+49. DE GEDENKSCHRIFTEN
+VAN DEN
+WOUDSCHOOLj MEESTER door Peter
+Rosegger, 3de druk.
+50. AS JA, door I. S. Toergjenjef
+Uitgaven van
+
+Van Holkema &amp; Warendorf
+Amsterdam
+
+</text>
+<image timestamp="2002:09:03:17:58:49.00" size="150185">000005W6.TIF</image>
+</page>
+</document>

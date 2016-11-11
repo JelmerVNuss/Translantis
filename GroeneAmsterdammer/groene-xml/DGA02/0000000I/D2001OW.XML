@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030118</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1334
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Na de gevangenneming van den pretendent-sultan in Atjeh.
+Chamberlain in Transvaal. (Actualitë).
+Zeg vriend, hoe komt de grond hier zoo rood ? Van't goud misschien ?
+Neen Sir, van 't bloed !
+Een onvoldragen kindje. (Ulk).
+DE NEni-:nr.AN-DfCHE MAAGD (tot generaal Van lïtutz): »Mned hoeft ons I idisch leger steeds getoond; irouio h hst altjji gewaast,
+heeft het wel eecs ontbroken. Gij ereenigt die eigenschappen: U myne hulde l"
+
+Overeenstemming in de pers. Nog iets van de jacht np de Humhertg. (L? Jïire.
+aan beleid
+10 Dec Men bericht ons, dat de vluchtelingen büDordrecht in een kaasmakery ontdekt zyn. (Le Eire).
+D,'. Vox Büi.ou': »A1 ffook ik die couveuse ook rog zoo warm, er
+zal van dit mormel niet veel terechtkomen "
+Lamsdorff in Weenen. (V;r F/oh).
+Dec. Men heeft ze gezien in den Towar te Londen en herkend. (Le C/iasse).
+13 Dec. Zooeven bericht men, dat de familie Humbert te Constantinopel eea cat'é-concert heeft (Journal).
+
+Modern. (Pur.cU).
+FERDIXAKD: »'t Is m\jn vast besluit, dat de Minndoni- GUOOTVI/IEU : »In dit jiar zullen met strenge hand in
+6che comités w&gt;rden ontbonden, de gelden gecorliiceerd ons eohf&gt;el- rijk hervormingen worden doorgezet."
+en de aanvoerders gefusilleerd." GROOT ErxiTii : »En hoe lang zijn die geldig ?"
+MIXISTKR: »M*ar Uwe Hoogheid heeft toch zelf..." GÜOOTVJ/IKII »Pst, pst, natuurlijk zoolang Limsdoiff
+Fi'RDixAxi): »P*t, pst, deze maatregelen gelden slechts in Weenen blyft."
+zoolang Lamsdoiff in Weenen blyft."
+-- K \ iioe l-n:.\ 't FïlPt ftfl nlnf. i •* \ J
+Wel l eigprlyk heh ik het dir.g nog niet ?eel gezien,
+we liggen om beurt in reparatie.
+X;KITA: &gt;L-&gt;!it (ia'le'ijk srijn ^tr^i:^ ^"« \ o;&gt;."-ii!".ir
+iv-hiff", dut n'ijri o^jerdanen (l-ifich-ipin ii,i'r.-n 'e .rnvn
+var. M'iN i'i'xKMut met rust rr.osteti latnn.
+]Ti I;M i; : &gt;-V[«ar vorst, wilt sra ons Nn gro-d&gt;&gt; ii-:i*«n . . ?
+NIKITA: »Sj'iutl 't is maar voor zoolang L^ra-idüiü' in
+Weenen is."
+L\Msn'!:iri . »Ik l'«n o&gt;-:-it,iig.) CM\\"^, dat in den
+••,'•!-i O - i M •• -;i . v.i!nn-«.kv; vr^,!d hr'erscht."
+G'&gt;-.i -i -!i i v. K'I : »Ik ben er ook van overtuigd, zoolang
+' in \V)ü:e i tj'ijf'c.''
+
+</text>
+<image timestamp="2002:08:19:02:11:32.00" size="362658">D2001OW.TIF</image>
+</page>
+</document>

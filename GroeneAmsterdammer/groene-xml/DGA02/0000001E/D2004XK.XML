@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320430</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ho. 2865 van 30 April 1932
+prijs 20 cent
+
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+U zoekt:
+
+een firma van prima
+reputatie. Die een ruim
+gesorteerde voorraad bezit
+van de beste Igewassen.
+
+
+En tOCh b i 11 ij k e
+prijzen noteert.
+U vindt
+dit alles bij:
+HANDELSMERK WETTIG GEDEPONEERD.
+Van Straalen Monsieur &amp;Erkelens
+Wijnhandelaren
+FILIAAL
+
+Den Haag
+
+Anna Paulownastraat 36
+tel. 332532.
+HOOFDKANTOOR
+
+Rotterdam
+
+Lauvahavan 34
+tal. 52456.
+FILIAAL
+
+Den Helder
+
+Hoofdgracht 61
+tel. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAG PRIJSCOURANT VOOR PARTICULIEREN.
+RA.KLOÖSTERHUIS
+KALVERSTR. 178
+
+
+
+UIT ONZE VOORJAARS
+
+COLLECTIE
+AMSTERDAM
+
+
+
+NIEUWE MODELLEN
+
+NIEUWE LAGE PRIJZEN
+OUD ZILVER DIAMETER. KAP 7 O Jm
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN E DELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+
+KOOPT HET BEKENDE ROODE PAKJE
+
+
+38 CTS&gt; PER ONS
+QJASPIBOMMB:
+KERKSTRAAT 58
+AMSTB^AM
+
+</text>
+<image timestamp="2002:09:21:05:25:25.00" size="114805">D2004XK.TIF</image>
+</page>
+</document>

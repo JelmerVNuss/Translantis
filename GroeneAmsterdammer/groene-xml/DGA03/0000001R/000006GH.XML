@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280407</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+samenvoeging
+dezakeitaeénr
+ogze, kunnen wij
+inkoopén en
+veten thans nog
+ietere kwaliteiten
+lagere prijzen.
+Ongekend
+uitge, breide sorteering
+, Eng. en Schotsche
+v tweeds cheviots,
+tportex, kamgarens
+iCOLBERT
+COSTUME
+Stalen en catalogus
+ZEILINGA
+41709 - P.H. KADE 120 - Tel. 40717
+Cano's, Kampeertentent
+j Vlaggen
+Ónze nieuwe prijscourant is gereed
+f _._	L__ ,	,._
+AMSTERDAM
+A. DE
+AGENTSGftAP «
+E &amp; FILS, Bordeaux en
+P. D. CARNEGIE &amp; SONS^ Glasgow
+
+Scotch Whisky
+AMSTERDAM
+Telefoon 30424 •—Prinsengracht 676
+HERMAN WREESMANN
+Sigaren?
+Natuurlijk
+
+
+Beter dan alle andere.
+LffHT
+is een schepping
+op zich zelf
+en geen COPIE
+f en tfocd ftorfotfe 60 den
+rditfcr* «Un «e
+fTOCL-ALKHUll V171
+STANDAARD MOTORKRUISER
+lang 8.50 M., ka]uit,keuken,W.C., cockpit,
+2—5 slaapplaatsen. Vraagt prospectus.
+Werf Nicolaas Wltsen'
+STOEL ALKMAAR.
+J. P. KARTHADS
+•r. Markt - Haart»
+TELEFOON 10052
+Chronometer
+UILKEMA
+de juiste tijdmeter
+Zilver f 15, 20, tot 35
+Goud f40, 50, tot 400
+Eigen werkplaatsen
+Reguliersbreestr, 39
+Zoo juist
+verschenen:
+FtllK
+TIMMERMANS
+DOOR
+Dr. TH. KUTTEN
+Met tal van platen en portretten
+Prijs, gebonden f 3,90
+Uitgave van I. B. WOLTERS
+GRONINGEN - DEN HAAG
+Een waardevol geschenk
+is een radio-toestel
+maar dan van
+Ingenieursbureau VAN NISPEN-Zwolle
+Tijdelijke aanbieding Afghanistan karpetten
+fl. 34,—per M2, en Perzische kleeden
+± 1.OO x 2.OO M. a fl. 48,—per stuk.
+GEBR, FORMA, Utrechtschestr, 85, Tel. 42940.
+MODERNE TUINMEUBELEN
+MODERNE EIKEN STOELEN
+Gratis Catalogus 1928. A. J. v. GROENINGEN, Brederodestraat 4, Amsterdam
+ol bij De Oirschotsche Stoelen" Fabriek. Tel. 19 Olrschot.
+WAAROM
+;
+vraagt men allerwegen Van Rijn's Mosterd?
+
+OMDAT
+Q.UALITEIT OVERWINT!
+
+</text>
+<image timestamp="2002:09:04:11:02:34.00" size="177472">000006GH.TIF</image>
+</page>
+</document>

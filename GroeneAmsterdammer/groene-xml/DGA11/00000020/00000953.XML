@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300419</Datum>
+<Pagina>32</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 19 APRIL 1930
+No. 2759
+HET HAMPTON GEMENGD NEGERKOOR
+dat thans een Europeesche tournee maakt en in berjin Mei uilio-ringen in Nederland zal geven
+MULATTO
+by Langston Hughes
+I am your son, white man!
+Georgia dusk
+And the turpentine woods.
+One of the pillars of the tcmplc feil.
+
+You are my son !
+Like Heil !
+
+The moon over the turpentine woods.
+The Southern night
+Full of stars,
+Great big yellow stars.
+
+Juicy bodios
+Of nigger wenches
+Blue black
+Against black fences.
+O, you little bastard boy.
+What's a body but a toy X
+
+The scent of pine wood strings the
+soft night air.
+
+What's the body of your mother ?
+
+Silver moonlight evorywhere.
+
+What's the body of your mother ?
+
+Sharp pine scent iiitheeveningair.
+A nigger night ,
+A nigger joy,
+A little yellow
+Bastard boy.
+
+Noic, you ain't my brolhcr !
+Nit/gers ain't my broiher
+Not ever.
+ain't my brothcr !
+The Southern iiight is f uil of stars.
+Great big yellow stars.
+
+O, sweet as earüi,
+Dusk dark bodies
+Give sweet birth
+
+To little bastard yellow boys.
+
+(jit on back t/tere in t/ic nif/ht,
+You ain't U'hite.
+
+The bright stars scatter everywhei'e
+Pinewood scent in the evening air.
+
+A nigger night,
+A nigger joy.
+
+/ om your po», white man :
+A little Yellow bastard bov.
+AAN EEN DONKER MEISJE
+
+door G. B. Bennett
+
+Ik hou van je om je bruine kleur
+Om de ronde donkerte van je borst,
+Ik hou van de droeve breuk in je stem
+011 de schaduw als wegwaarts je; blik verdwaalt.
+
+Van een oude en lang vergeten vorstin
+bleef iets in de aarzeling van je tred.
+En iets van een lang-geboeide slavin
+snikt na in het rhythme van je gepraat.
+
+Klein bruin meisje, geboren voor leeds kameraad,
+bewaar wat je hebt van een koningin,
+vergeet dat je ooit een slavin bent geweest
+en wend riaarjhet Noodlot je lachend gelaat!
+
+(Vertaling A. II.)J
+g—'ww
+ONDER VOORTDURENDE CHEMISCHE. EN
+BACTERIOLOGISCHE CONTROLE VAN D» JAN SMIT
+ZDMER ABONNEMENTEN
+l MEI - 31 OCTOBER
+GEVEN TERSTOND RECHT
+VAN TOEGANG
+RUWIELSTALLING EN HAARDROGEN . KOSTELOOS
+PROSPECTUS
+
+O-V •
+AFZONDERLIJKE
+STORTBAD INRICHTING
+v
+INGANG
+^QNDELSTRAAT
+WedERAHDERöZ,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+sx*^ 's-Gravenhaqe &lt;***&gt;
+Hofleveranciers
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDIT7ËN
+
+</text>
+<image timestamp="2002:09:25:11:34:40.00" size="304363">00000953.TIF</image>
+</page>
+</document>

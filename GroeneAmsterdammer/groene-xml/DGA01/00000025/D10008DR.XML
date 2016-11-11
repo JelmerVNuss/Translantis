@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330225</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 25 Februari 1933
+N o. 2908
+J. D. S T R U IJ S &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+STEUNZOLEN
+SYST. PROF. HOFFA/
+NAAR MAAT
+Fa. J. A. MASSING
+
+O. Z. Voorburgwal 334
+Amsterdam C.
+over het Binnengasthuis
+N.V.v/h.Gebr.Breen
+Nieuwste Modellen.
+Grootste sorteering
+Schoorsteenklokken, Hangklokken,
+Barometers, Wekkers en Horloges.
+Goud- en Zilverwerken.
+Eigen reparatie-inrichting.
+Nieuwend ij k 172
+
+Haarlemmerstraat 64
+Rozengracht 53
+AMSTERDAM
+l
+L
+Hoe langer hoe meer begint de
+'mondaine vrouw te begrijpen, dat
+regelmatige schoonheids-behandeling
+onontbeerlijk is voor een goed ver
+
+zorgde huid.
+
+De Dorothy Gray methode, beroemd
+om haar wetenschappelijke aanpassing
+aan ieder type huid, wordt nauw
+
+keurig gevolgd in onze Salons te
+Amsterdam (Hirsch 6 Cie) en Den
+Haag (M. G. van Ankorven, Plaats
+lOa), waar een te Parijs geschoolde
+assistente steeds aanwezig is.
+
+De Dorothy Gray producten zijn in
+de meeste plaatsen van Nederland
+verkrijgbaar.
+Alg. vertegenw : Kirsch &amp; Cie Anr.sterdam
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h (Jool)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN MARMERWERKEN
+
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN W ASC HT AFE LS R E P A R ATI ES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+H. POLMAN TUIN
+OVERTOOM 526 • Telefoon 82660
+Begrafenissen - Transporten - Crematies
+Haar zachte tandjes staan aan groot gevaar bloot.
+Pepsodent zal hen beschermen.
+Het nieuwe reinigende en polijstende materiaal in
+Pepsodent is tweemaal zoo zacht als hetgeen gewoonlijk
+in tandpasta's wordt aangetroffen. Het verwijdert tand'
+aanslag en polijst het glazuur op onovertrefbare wijze.
+EN kan met kindertandjes niet
+voorzichtig genoeg zijn. Wanneer zeeens
+beschadigd zijn, kunnen ze nooit meer
+geheel en al goed worden. Daarom
+moet men uiterst voorzichtig zijn bij de
+keuze van een tandpasta, want sommige
+tandpasta's zijn schadelijk, terwijl andere
+niet de gewenschte uitwerking hebben.
+De Pepsodent Laboratoria hebben een
+geheel nieuw reinigend en polijstend
+materiaal uitgevonden. Het is tweemaal
+zoo zacht als hetgeen gewoonlijk in
+tandpasta's wordt aangetroffen. Het biedt
+daarom grooter beveiliging. Uw tanden
+gaan er bijnaoogenblikkelijk beter uitzien.
+Het is steeds het voornaamste streven
+van Pepsodent geweest om den
+tandaanslag te verwijderen. Pepsodent is
+hier thans beter toe in staat dan welke
+andere tandpasta ook.
+Tandaanslag is dat kleverige laagje, dat
+zich op Uw tanden bevindt. Het bevat
+bacteriën, die bederf verosrzaken. Het
+neemt voedseldeeltjes in zich op, waar
+
+door de tanden er dof uit gaan zien.
+Schoonheid en gezondheid eischen, dat
+deze aanslag verwijderd wordt. Koopt
+nog heden een tube Pepsodent.
+GEQEP mmmfm^^^^mam^^^^^f^m
+De Tandpasta die den aans/ay
+verwijdert
+
+Groote tube ƒ0.75 - dubbele tube f l 25
+5014
+COMPLETE BADKAMERS
+in eenvoudige en luxueuse uitvoering
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+
+</text>
+<image timestamp="2002:09:26:17:44:54.00" size="253613">D10008DR.TIF</image>
+</page>
+</document>

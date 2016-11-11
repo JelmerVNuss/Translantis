@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>34</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstmis 1932
+34
+Jeugdnummer
+.
+. -•IÏ.Q:k' vfcFl* • -••- 'e-'-• ,3*"
+' .''t. &gt;-.,v.^:Vj?\i*-.:? &gt;""
+?. Noomsz genzamd Zeeman 1623-1668
+Gezicht aan de Zaan
+ROK i N 98 BERNARD HOUTHAKKER AMSTERDAM
+OUDE EN MODERNE KUNSTHANDEL
+FRANKRIJK WACHT U
+Om het even of Uwe verlangens uitgaan naar wintersport, elegant strandleven of
+mondain vertier	Zuid- en Oost-Frankrijk bieden U de schoonste gelegenheid, om
+gedurende eenigen tijd den winter in Nederland te vergeten.
+Chamonix, Combloux-Mégève, Mont-Revard (boven Aix-les-Bains|, Villard-de-Lans,
+St. Pierre-de-Chartreuse en niet te vergeten Briancon (1325 M.| zijn ideaal oorden
+voor ski- en andere sporten. Overal heerscht er een opgewekte en sportieve
+geest. De hotels zijn er uitstekend en niet duur.
+Prefereert ge echter koesterende zonnewarmte, laat U dan door de comfortabele
+wagons van de P.L.M, naar de Cóte d'Azur rijden, waar het leven lacht, waar
+de bloeiende lente U wacht, waar de prachtige natuur lichaam en geest verfrischt.
+Moeten wij U de reeks van dorado's langs de Fransche Rivièra nog opsommen?...
+Wendt U om uitvoerige inlichtingen en brochures tot het bureau der Fransche
+Spoorwegen, Parkstraat 20, Den Haag, of tot de bekende reisbureau».
+\
+MOOI FRANKRIJK
+r-HOTO LUCAREUt
+
+</text>
+<image timestamp="2002:09:27:16:47:45.00" size="587183">00000AUO.TIF</image>
+</page>
+</document>

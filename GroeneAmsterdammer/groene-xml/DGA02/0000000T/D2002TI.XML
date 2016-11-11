@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170331</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+31 Maart '17. No. -2075
+Gelder
+Tel.
+W. 2997'
+Amsterdam
+Tel.
+'ff. 2997
+Eetservièzen
+LOUIS
+te coiffeur pour Ie
+monde chic.
+Ses coiffures d'art
+et Ses postiches.
+
+UTRECHT
+NOBELSTRAAT 1.
+Téléph. 2462.
+J. H. DE BOIS
+KUNSTHANDEL
+SCHILDERIJEN
+PRENTKUNST
+Kunstuitgaven
+
+HAARLEM
+KRUISWEG 68
+
+AMSTERDAM
+Filiale open dag.
+van 2 tot 5 uur
+HEERENGR 444
+K'HoUTMAli-: NASSAULAAN,13*
+• TELEFOON INTERC.IS-* •
+BEHANGERU MEUBELMAKERIJ •
+BEDDEMMAKERIJ •
+U werkelijk
+
+BOLS
+Likeuren
+of zeer Oude Genever,
+
+EISCHT dan ons merk
+
+en wacht U voor namaak.
+ERVEN LUCAS BOLS, AMSTERDAM.
+KAAMLOOZE VENNOOTSCHAP
+Technisch-Bureau
+OVER VEEN-TELEFOON 271
+WONINGINRICHTINGEN
+BETIMMERINGEN
+PERZISCHE TAPIJTEN
+ANTIEK
+D. OBERINK &amp; Co.. AMSTERDAM
+PRINSENGRACHT 456 •/« uuxxatsnua,
+TELEFOON NOORD 1452 •*
+TOKPASSIJGDRBELECTRJCITEITOPBLK GEBIED
+
+AXA
+URGENS'
+
+PLANTA
+r.
+uitsluitend verkrijgbaar bij
+Directeurei: JACS.S. WAISVISZ ico.
+Wagenstraat 167, Den Haag.
+Tel. 1119.
+
+* Kantoor te A'dam Singel 183
+Tel. 5259.
+Deze belegging kan worden
+uitgevoerd geheel volgens
+teekesing van H.H. Architecten.
+Op aanvrage zenden wij gratis
+onze Catalogus.
+G005EN i SWAGERMAN
+01 PIANO'S
+IN ALLE STIJLEN :
+; l EN HOUTSCORTE.N
+&lt;" l DJ V-BERDUX
+'HE' KAP5 e.a
+l ••--il CATALOGI FRANCo
+1	"-' OP AANVRAGE :
+GIDDINGSZONEr
+ROTTERDAM
+eizersorecnt
+msferd,
+jiLJfoord
+(T. 'B. WIRELESS")
+m R«n 105, m mi
+Tel, Sober. 80.
+Leverancier van: marine,
+tenie en Koloniën.
+TBOF
+DE ZONNEBLOEM
+h5 QRAVENHAQES
+BIER-EN GEBRUIKS
+\m VOORUJERPEN B
+BEELDENDE KUNST
+Kunsthandel ELLEN FOREST
+42 ROKIN - TEL. CENTK. 373
+IMaandag 2 A.pril a. s.
+Opening der Tentoonstelling
+
+der Werken van ALFONS BLOMME
+Fattery^ Shawls Kunstvoorwerpen
+CHEMIGRAF1SCHE KUNSTINRICHTING
+
+% DIRK SCHNABEL
+AMSTERDAM
+CLICHÉ'S
+VOOR ZWART EN KLEUrltNUIUlK
+ONS NIEUW PROCÉDÉ. IS
+
+KOPERDIEPDRUK
+GESCHIKT VOOR ELK PAPIbR.
+KUNSTHANDEL
+S. J. SALA, - DEN HAAG.
+AQUARELLEN EN SCHILDERIJEN.
+Restaureeren van Schilderijen.
+NOOEDEINDE 87a.	TEL. 7081.
+DE
+12 CYLINDER
+Auttffltfcieton
+overtreffea alle verwacktüic** foor
+qualiteit, «ouplesM en deceitfke afwerking
+H. ENBLEBERT C Co., Den Haai.
+(IJ. L. VERMEULEN
+zijn gevestigd:
+
+DEI HU6: OTiECHT: BBTTEBDUI:
+TouulitK.ll lieiwt Bracht 56 cooliluoltt)
+TELEFOOÏ1873 TELEFOOI750 TELEFOOI92S3
+HooUtiaie 3
+TELEMOI47U
+En zgn bekend om non
+artistiek werk en zeer
+lage prezen.
+VAH DAM
+Kalver5tp.J57-Tel. 5900
+alle Artikelen om zelf te
+vakea. Ook KARKASSEN.
+•n mi t fitite dDlutr. Prïseonrait ia. 10
+J.G.KORSTEN
+SAN1TAIRTECH
+BUREAU
+fa:s:IINTERC.TELEF.
+KDNING5PLEINJ
+:DAM
+
+</text>
+<image timestamp="2002:08:23:09:49:23.00" size="289839">D2002TI.TIF</image>
+</page>
+</document>

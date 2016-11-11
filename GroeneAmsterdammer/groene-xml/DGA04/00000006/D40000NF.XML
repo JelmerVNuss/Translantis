@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130323</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+MOEDER EUROPA'S AFFAIRE
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 23 Maart 1913
+MENU
+HorioTOeimeBolkon
+PLAT - BALKAN
+PLAT - BALKAN
+DesscrJ- BALKAN
+FWJITS-BALKAN
+CAFÉ-BALKAN
+Amst. Boek- en Steendrukkerij, v/h. EHerman, Harms &amp; Co
+Altijd dat menu, altijd die gepeperde Balkan-soep, altijd die slapende waardin	laten wij 't ergens anders zoeken!
+
+</text>
+<image timestamp="2002:08:18:10:45:28.00" size="196015">D40000NF.TIF</image>
+</page>
+</document>

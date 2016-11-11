@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>46</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+N.V. Civiele en Militaire Kleermakerij
+
+DEKKER 6 DIJKSTRA VOORHEEN
+DE ERVEN l VAN DIJK
+Leveranciers van Indische Uitrustingen.
+Utrecht, Nieuwe Gracht 6*
+TELEFOON 13416.
+Door het gcheelc LAND te ontbieden.
+G.). DE KONINGSZOON
+Keizersgracht 447,
+Opftertcbt Ao. 17.*»
+BADEN EN GEYSERS.
+Nog eenige
+restanten
+tegen kostprijs
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N,V. v/h. Gebr. BREEN
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRAGHT 53
+Ateliers voor reparatiBn aan
+Uurwerken, Goud en Zilver
+VAN RIJN'S
+EIMOSTÉRD
+Leest De Groene !
+A. van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd «tdert 1S10
+Prinsengracht 975
+Red &amp; White Port COCKBURN
+Pile Sherry Senref
+COELINGH'S
+in Cellophane verpakt
+20 CENT.
+Gigarros Cadena
+UI DB VOORNAAMST»
+AUG. ILKEMA
+HALL KLOKKEN
+met gewichten en carillon
+
+C5l fl. 125.—tot fl. 250.
+Reguliersbreestraat 39
+WEILL EN ZOON
+Bontwerkers en Dameskleedermakers
+Barteljorisstraat 26-28 HAARLEM
+Bontmantels, Mantels
+met bont gevoerd
+Costumes naar maat
+KERSTGESCHENKEN
+Koopt Uw bontwerk bij een Specialist
+
+</text>
+<image timestamp="2002:09:22:12:14:25.00" size="173246">000008SN.TIF</image>
+</page>
+</document>

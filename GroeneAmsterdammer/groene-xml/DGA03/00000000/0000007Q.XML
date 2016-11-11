@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060225</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1496
+OUDE EN NIEUWE KUNST,
+
+bijeengebracht door den Expert J. SCHULMAN in De Brakke G-rond" te Amsterdam.
+Eikenhouten Credence" van 16G2.
+Bonbonnière.
+Melkpot van
+Delftsch aardewerk.
+Frankenlhal's pbrcelein.
+Bonbomiière. stijl Louis XVI.
+Veelkleurige vaas,
+merk Adr. Pijnacker.
+Zoogenaamde bliksembordjes.
+*
+"f*"-""'•: ~--"7 i*&amp;.
+^tl~:?WrW^i»,'. ,-,\W./.
+_.v h, __ 5^. _,., . i .^^^
+Amstel-porcelein,
+Ken Dorpskerinis, door K Carré, geb. in Ki.'JO, geat. in 100!) te Amsterdam.
+Knkele op de/e pla-it voorko?nende
+reproducties naar fotografieën van eenigc
+kunstvoorwerpen op de/e vrtrkoopin.g.
+geven een denkbeeld van wat op '27 en
+W Febr.. en l en '&gt; Maart in De I&gt;rakke
+Grond" al onder den hamer komt. Kris
+antiek «;&lt;;meubelte, IJeH'rscli aardewerk
+van de bekendste en zeld/uamste merken
+en velerlei soort kostbaar porcelein, als
+Chineosch
+en.];&gt;pansch,Siiksisch,Frankenthalscb,* hid-Loosdi'echtscli.lIaagsch enz.;
+finwerk en bron/en, oude staande klok,
+pendules, antiek goud en zilverwerk,
+paarlen en diamanten, ivoorwerk, beeld
+
+houwwerk, oude violen, oude schilderijen,
+moderne schilderijen en
+waterverfteekeningen, Engelsche en Fransche gravures,
+boeken, waaronder vele zeldzame.
+Kijkdagen zijn: Zaterdag :M en Zondag
+'2~i l''ebruari voor particulieren en Maan
+
+dag •_'(&gt; Februari voor een ieder.
+
+
+</text>
+<image timestamp="2002:08:10:05:37:50.00" size="427268">0000007Q.TIF</image>
+</page>
+</document>

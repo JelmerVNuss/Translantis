@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19380917</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De strijd tegen
+de malaria
+In verband met het Internationale Congres
+voor Tropische Hygiëne, dat in het Koloniaal
+Instituut gehouden wordt van 25 September tot
+i October, vestigen wij de aandacht op onder
+
+staand artikel.
+
+HET is moeilijk na te gaan, wie op Java de
+oudste rechten zou kunnen doen gelden, de
+Mensch of de Anopheles, maar zeker is in
+elk geval, dat laatstgenoemde nooit ernstig]trachtte,
+haar onbetwistte heerschappij over de lage kust
+
+streken uit te breiden tot in het binnenland, vóór
+de mensch aan den status quo een einde maakte.
+Toen echter, vooral aan de noordkust van
+WestJava, moerassen drooggelegd werden, trok Anophe
+
+les op verovering van nieuwe gebieden uit, zonder
+daarbij de oude voetstoots prijs te geven.
+Op dezen veroveringsmarsch werd zij in de meeste
+gevallen gestuit door droge terreinen: kina of thee
+
+tuinen, dan wel wildhoutbosschen. Er bleek echter
+een bres te bestaan: van de Krawangsche kust
+strekken de sawah's zich practisch ononderbroken
+uit via Poerwakarta tot op de Tjiheavlakte, waar,
+op meer dan 100 km van de kust, een waar
+muskietendorado te vinden is. Daar bereikte in de
+tweede helft der vorige eeuw Anopheles dan ook
+het toppunt harer macht en zóó berucht werd het
+Tjiheagebied, tegen de westgrens van het regent
+
+schap Bandoeng gelegen, dat de bevolking,
+tengevolgde der malaria zeer in sterkte afgenomen en
+niet meer in staat haar oogst binnen te halen, ook
+van elders geen hulp meer kon krijgen. In deze
+werkelijk hoogst verontrustende phase werd (in
+1885) het beroemde Tjiheaplan" in studie genomen
+en kort daarna ook werkelijk uitgevoerd : een veel
+omvattend project, dat de saneering van het gebied
+beoogde door het aanleggen van muskietvrije
+aanen afvoerleidingen voor irrigatiewater, het schoon
+
+maken van sawah's na den oogst, het opruimen van
+overbodige moerassen enz.
+
+IN 1904 was dit werk voltooid, de Tjiheavlakte
+was ontelbare vernuftige en kostbare water
+
+regelende kunstwerken rijk en toen ook de malaria
+een zeer sterken teruggang vertoonde, scheen het
+pleit beslecht. Scheen, want de verbetering bleek
+van tijdelijken aard.
+Wat was de oorzaak? Onkunde der bevolking.
+De brave tani had in het gunstigste geval met ver
+
+bazing of goedmoedige spot gekeken naar de inge
+
+nieurs en werklieden van den Provincialen Water
+
+staat, die zich toch zoo druk maakten met den
+aanleg van sluizen, duikers en kanalen, maar om
+van hem nu te eischen, dat hij mee zou werken aan
+het instandhouden der constructies, was wel wat
+teveel gevergd. Nog een tweede factor deed zich
+gelden: de Tjiheavlakte stond nu eenmaal in een
+kwaden reuk, zoodat verscheidene sawah's bij ge
+
+brek aan nijvere handen braak moesten blijven
+liggen. Toch dienden ook deze onbebouwde akkers
+bevloeid te worden, wilde het water wél geculti
+
+veerde belendende perceelen kunnen bereiken,
+maar elke Anopheles stichtte natuurlijk dankbaar
+een gezin in het paradijs van strootjes en
+moerasplanten, dat de braak liggende sawah's opleverden.
+Aldus faalde aanvankelijk het grootsche werk
+van Waterstaat, doch toen ook de Dienst voor de
+Volksgezondheid in het geweer werd geroepen, kwam
+de overwinning in zicht: een strenge controle op
+het naleven der voorschriften en het onderhouden
+der saneeringswerken, gepaard aan een uitgebreide
+propagandistische werkzaamheid bewerkten, dat in
+1920 de gezondheidstoestand in het eigenlijke Tjihea
+
+gebied zelfs gunstig afstak bij die in andere streken.
+De muskieten trokken verder naar het wes
+
+ten en tastten de streek om Tjiandjoer aan,
+waar malaria voordien onbekend was. Vanuit het
+nieuwe veroverde gebied deed Anopheles zelfs regel
+
+matig uitvallen naar het terrein, dat zij zoo juist
+prijs had moeten geven. Waterstaat en Dienst voor
+de Volksgezondheid openden een krachtig tegen
+
+offensief en slaagden erin, het front naar het Westen
+te verplaatsen. Daarbij echter wachtten nieuwe
+moeilijkheden. De bevolking in het Tjiandjoersche
+had namelijk de gewoonte, de jonge rijst op ver
+
+schillende tijdstippen in den grond te brengen,
+zoodat naast een sawah met rijpe padi er een met half
+
+rijpe ofwel met juist uitgeplante bibit kon worden
+aangetroffen. De groote moeilijkheden, aan dit
+gebruik voor de malariabestrijding verbonden, sprin
+
+gen in het oog: steeds verkeerde er rijst in een
+ontwikkelingsphase, dat zij veel water noodig heeft,
+water, dat tevens de voornaamste levensvoorwaarde
+voor Anopheles beteekent. Door een speciale
+cultuurregeling, die voorschrijft, dat slechts 1/3 deel
+van de sawah's in den drogen moesson bevloeid
+mag worden, zoodat 2/3 gedurende dien tijd geheel
+droog kan liggen, wist men het meerendeel van
+de funeste gevolgen der onregelmatige bebouwing
+tegen te gaan, zonder de aan oude gewoonten nu
+eenmaal zoo zeer gehechte bevolking al te sterk in
+het harnas te jagen. Bij deze moeilijkheid kwam
+nog een tweede: in de streek, waarnaar het front
+zich verplaatst had, pleegt de bevolking de
+ondergeloopen sawah's als vischvijver te gebruiken. Echte
+vijvers had men ter beschikking voor het
+kuitschieten, doch zoodra het jonge broed een bepaalde
+lengte bereikt had, werd het overgebracht naar de
+sawah's. Deze moesten dus permanent onder water
+gehouden worden en daar de vischkweekerij in niet
+onbelangrijke mate bijdraagt tot de volkswelvaart,
+
+Alleen voor heeren
+kon men er niet mir-nichts-dir-nichts een einde
+aan maken. Nu werd ook de Dienst der Visscherij
+gemobiliseerd in den malaria-oorlog met het resul
+
+taat, dat dit lichaam een vischkweekmethode
+uitexperimenteerde, die als zoodanig even goede resul
+
+taten geeft, doch bovendien het assaineeringswerk
+ondersteunt.
+
+DANK zij deze en nog vele andere maatregelen
+kan van het Westelijk Front gemeld worden,
+dat ook hier de overwinning op Anopheles wel niet
+lang meer op zich zal laten wachten: moest schrij
+
+ver dezes, toen hij in 1937 de assaineeringswerken
+toonde aan deelnemers van déin Bandoeng onder
+auspiciën van den Volkenbond gehouden Conference
+for Rural Hygiëne mededeelen, dat in verschillende
+kampoengs van het Tjiandoersche bijna geen enkel
+lid der bevolking vrij was van malaria-plasmodiën,
+thans blijkt het milt-indexcijder tot een fractie
+teruggeloopen, terwijl ook het schoolverzuim met
+85 pCt. is verminderd.
+Nu deze resultaten bereikt zijn, gaat de malaria
+
+bestrijding, door ervaring wijs geworden, een groote
+verandering brengen in haar taktiek. Want wel
+kan men, voortgaande op den ingeslagen weg, dat
+wil zeggen, het front steeds naar het westen op
+
+schuivend, stellig steeds nieuwe overwinningen blij
+
+ven boeken, maar de kans is groot, dat de opge
+
+dreven muskieten dan ook de thans nog onbesmette
+gebieden van Buitenzorg en Soekaboemi zullen
+aantasten. Teneinde den strijd te bekorten, wordt
+aan Anopheles den pas naar deze gebieden afge
+
+sneden: ver naar het westen, in nog onbesmet ge
+
+bied wordt een nieuw front gevormd, dat naar het
+oosten verschoven wordt tot het huidige strijdperk
+zal zijn bereikt en Anopheles, opgesloten tusschen
+twee fronten, in het centrum van West Java defi
+
+nitief zal zijn verslagen.
+De ware pijpenrooker
+7EEL mannen kan men zien
+met een pijp in den mond,
+maar daarom hoeven zij
+nog niet de echte, ware, waarach
+
+tige, verfijnde pijpenrookers te zijn.
+Het goede, deskundige, genotrijke
+pijpenrooken berust op een ervaring
+van lange jaren, een aangeboren
+vermogen van droog rooken", een
+tot ƒinancieele offers bereide
+collectionneurswoede voor het bijeen
+
+brengen van de beste pijpen....
+Een pijp moet langzaam gerookt
+worden en mag niet uitgaan. Zie
+
+daar het beginsel van alle
+pijpenrookerswijsheid. Degenen, die men
+tien, twintig keer in het halfuur
+hun pijp opnieuw ziet opsteken
+omdat hij uit is, kunnen maar
+beter sigaren rooken of de door eiken
+waren pijpenrooker zoo hartgrondig
+verfoeide sigaretten. . . . Dan is er
+de kwestie van de tabak. Slechts
+wie een ijzeren maag heeft en een
+ijzeren hart, zal op den duur de
+vochtige, gesausde Amerikaansche
+en Engelsche tabakken verdragen,
+al is het voor den nieuweling ten
+dezen natuurlijk uitermate
+verlokkelijk, in een van de groote
+Londensche huizen op dit gebied,
+buiten de standaardmerken, naar
+eigen voorkeur en persoonlijke
+smaaknuance zijn eigen samen
+
+stelling te laten mixten. Ook, en
+terecht, vindt men liefhebbers van
+de geurige Belgische Semois of een
+van de krachtige Fransche
+staatsmerken, maar dat is toch nog vrij
+zwaar rooken. Het beste houdt men
+zich aan een van de
+goed-vaderlandsche soorten van canaster,
+varinas, portorico of heerenbaai,
+mits van werkelijk goede kwaliteit.
+Daarin is nog speelruimte genoeg
+voor ieders keus naar eigen smaak,
+en men rookt dan tenminste tabak
+en geen kunstmatige, scherpe
+geurtjes van zoetig pruimensap of nog
+schadelijker opiaten. If-ts anders
+is natuurlijk, maar dat is een be
+
+trekkelijk zeldzaam buitenkansje,
+als men echte, uit Cuba geïmpor
+
+teerde Havanna-tabak, van een
+der groote fabrieken, kan krij
+
+gen. ..
+'C'EN sigaar gooit men weg als
+••—' hij op is; tot zijn pijpen komt
+een rooker in een zekere.persoonlijke
+verhouding te staan, die in den loop
+des tijds tot liefde kan groeien.
+Want een straf rooker moet er
+verscheidene hebben, niet alleen
+omdat, evenals bij onze dassen,
+varietas delectat", maar ook om
+
+dat een warm gerookte pij p eerst moet
+afkoelen en dus tijdelijk door een
+ander worden vervangen. Een goed
+doorgerookte pijp, met schrapper
+en cleaner zorgvuldig schoon ge
+
+houden en, indien van hout,
+ingewast, is een soort kunstwerk dat
+den rooker de voldoening schept
+van koning Pygmalion tegenover
+zijn schepping. . . .
+Met iets als ontroering zie ik mijn
+welgeteld 43 pijpen in hun rekken
+hangen, en zij zijn als even zoovele
+goede, welbekende vrinden: wat
+hebben wij samen al niet, een
+menschenleeftijd lang, meegemaakt!
+Ze komen van over de heele wereld.
+Daar zijn de tallooze vormen der
+lange en korte steenen gouwenaars
+van Goedewaagen maar die te
+rooken is niet ieders werk en ieders
+smaak. Er zijn lees-, loop- en
+wsrkpijpen. Er zijn de prachtige
+Peterson's uit Dublin, zeer groot,
+met het rookgat niet in het midden
+maar naar boven, zoodat de rook
+niet op den tong kan bijten. Ik zie
+de meerschuimen pijpen met
+barnsteenen mondstuk: natuurlijk niet
+het goedkoopere (en zwaardere!)
+geperste, maar het gesneden
+meerschuim, vederlicht, de kop bij
+sommige vuistgroot en donkerbruin
+doorgebakken, en zoo broos en
+brekelijk dat ze een bizonder voor
+
+zichtige behandeling vereischen en
+nooit uitgeklopt of met puntig staal
+ruw uitgepeuterd mogen worden.
+Tientallen vormen, systemen, met
+of zonder tube erin, van het kleine,
+elegante straat-pijpje dat nauwe
+
+lijks meer tabak dan een sigaret
+kan bevatten, tot de groote staande
+leespijp uit Grootvaders tijd, met
+den geschilderden porceleinen kop
+en het lange roer van Weichselhout.
+Ik zie de goudron-pijpen met ver
+
+wisselbaar langen of korten steel
+resp. voor in den fauteuil of aan de
+schrijftafel; de hier minder bekende,
+maar uitstekende Fransche pijp
+van heidewortel, met reservoir, de
+vele en veelvormige, groote en kleine
+Engelsche pijpen, alle voortreffe
+
+lijk. . . . Er zijn er van eboniet, van
+binnen met meerschuim bekleed; er
+zijn de groote poreuze Duitsche
+klei-pijpen met een verwisselbaren
+kop die uitgebrand kan worden en
+dan weer sneeuwwit is; vele andere,
+teveel om op te noemen.... Een
+van geurig Weichselhout met
+buigbaren steel; een prachtstuk van een
+ruw-bruyère Dunhill, zoo groot dat
+er wel een half ons tabak in kan en
+waar ge tot uw roman uit is !
+wel een uur aan te rooken hebt
+zonder dat ze uitgaat. Een groote
+kalebas, edel van vorm, met
+meerschuim van binnen. En het kleine,
+gele, van onderen (om te staan)
+afgeplatte pijpje dat mijn vriend
+de kapitein voor mij uit Mexico
+meebracht, licht en vurig als een
+kolibri. . . .
+Pijpen. . . . !
+ERNST VAN DAELE
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELUKE PRUZEH
+
+ADRIAAN SCHAKEL
+HEILIGEWEG . TELEfOON 37273
+AMSTERDAM
+,,'t En is geen man
+Die niet rooken kan."
+Zegt een spreekwoord van heel lang geleden
+Ik zeg nog meer :
+,,'t £n is geen heer
+Die zich niet bij A. Schakel laat kleeden."
+PAG. 15 DE GROENE No. 3198
+
+</text>
+<image timestamp="2002:10:02:17:38:53.00" size="277342">D100090F.TIF</image>
+</page>
+</document>

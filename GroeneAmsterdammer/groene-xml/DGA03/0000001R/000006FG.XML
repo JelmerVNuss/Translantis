@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280331</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 20»
+31 Maart 1928
+roene
+sekbl
+• tl
+voor Nederland
+atiprijl per jur f 10.
+Akoi
+Advertentttn ƒ0.75 per regel
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+L o • 8 e nummers 25 cents
+In geval van schade kan men zich wenden tot de
+
+EUROPEESCHE"
+te Amsterdam, Bareelona, Belgrado, Berlijn, Bern, Boedapest, Boekarest, Brussel,
+Constantinopcl, Helsingfors, Keulen, Kopenhagen, Lissabon. Londen, Luxemburg, Madrid,'München,
+Oslo, Parijs, Praag, Rome, Stockholm, Warschau en Weenen.
+POLISSEN
+aam STATIONS en K KI 8 B L K E A IJ X direct verkrijgbaar.
+N.V.YH.
+H-AKLOOSTERHUIS
+AMSTERDAM
+mwm
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+INBRAAK-, STORM- en
+WATERLEIDINGSSCHADE
+VERZEKERING.
+
+
+
+
+
+v«,nEiiE'5
+TABAK
+CrrVesAi
+GROEM 20 Cr
+BLAUWlScr
+ROOD 13 CT
+GEEL lOCr
+PERRONS
+IS IWALITEIT!
+
+
+
+
+
+
+</text>
+<image timestamp="2002:09:04:09:58:59.00" size="117635">000006FG.TIF</image>
+</page>
+</document>

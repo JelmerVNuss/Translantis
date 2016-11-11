@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020112</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+$0. 1281
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Vred'esbetoogingeii in Afghanistan.
+(Der F&lt;giro, Weenen).
+Voarbereidn» voor de Kroning. (Da- Floh),
+CHAMBEBLVIN: »Zouien wa vóór de Kroning rmt ssh)onmak«n klair koman ?"
+SALISBURY : &gt;Dat vervloekte Boerenbloed wil er maar niet af l"
+Koning Cirloa vaa Pjrtug»! houit zyn troonrede.
+Chamberlain en Kruger. (Der Hok).
+In de Hel. (Nebelipatttr, Zürlch).
+CHAMBERLAIB: »Wedden, dat je me niet vitidt, als j} mij zoekt om
+»7rede" te vragen ?"
+KBDGKB: «Wedden, dat ik j3 Liet zoek?'1
+En nu, gn heen in vrede; wij kunnen ons de weelde van
+krygsgesaügenen niet veroorloven der:k je dat j&lt;) er zoo dwaas uit ziet?
+Wel nean ! je hebt immers j? das nog om ... (Fiscliietto).
+uis : «Gseden dag, waarde collega"
+LAI.N- (smidelijh) : »IIoe durf jy me collega noemen ? Kinder
+
+moordenaar in 't kiein; mijn werk is niet by het jjuwe te vergelijken."
+De wolven van het Noorden.
+
+(1'ifcltitüo).
+: &amp;•-.-:-../V:-.C: V ;-T: !
+Karstmis van de Boerenkir.de»en.
+(Li rii en rote).
+Cuiiega, due jij i?n oog voor mij dicht, dan sluit ik er ook n voor jou.
+Ja, maar moeder Europa ?
+Bah ! die doet ze vi&gt;or ons allebei dicht!
+
+</text>
+<image timestamp="2002:08:17:03:59:39.00" size="516805">D20017G.TIF</image>
+</page>
+</document>

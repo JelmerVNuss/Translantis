@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320507</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 7 Mei 1932
+No. 2866
+J. D. STRUIJS &amp; Zn.
+T«l. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N* V* Meubelmagazijn Eden"
+MOLSTEEG AMSTERDAM
+BOEKENKASTEN
+BEGRAFENISVEREENIGING
+- N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN M A R M E R W E R K E N
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN W ASCHTAFELS R E P A R ATI ES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+50
+nederlandsche monographie
+over geluidsfilmtechniek
+eerste en eenig
+onafhankelijk
+maands ch rif t
+voor filmkunst
+onder redactie
+van 1. j. jordaan
+en mr. h. scholte
+verscheen met een
+speciaal nummer
+ter gelegenheid
+tentoonstelling
+klank en beeld
+twaalf opstellen
+meer dan 30 foto's
+alom verkrijgbaar
+abonneert u bij de boekenkiosk
+op het tentoonstellingsterrein
+bij den boekhandel of de uitgevers
+nijgh &amp; van d i t m a r n. v.
+wijnhaven 113 rotterdam
+voor slechts f 1.25 per kwartaal
+Pendules - Horloges
+Stijlklokken - Wekkers
+Barometers - Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V.v/h.Gebr.Breen
+Nieuwend ij k 172
+Haarlemmerstraat 64
+Rozengracht 53
+Ateliers voor reparatlen aan
+Uurwerken, Goud en Zilver
+Voor alle doeleinden
+NV
+Oiem.Kunatlnrichting
+DirkSchiKibel
+Amsterdam. •*
+Zoo juist
+verschenen:
+Dr. J. LUNING PRAK
+Psychologisch adviseur te
+'s-Gravenhage. LcTder van het Psychotechnisch
+Laboratorium der Philips-fabrieken.
+
+SCHOOU
+BEROEP EN
+
+AANLEG
+Met 14 figuren en
+7 buitentekstplaten
+PRIJS, GEB. F 4,50
+Verkrijgbaar bij den Boekhan
+
+del en bij den Uitgever
+J. B.WOLTERS - GRONINGEN,
+DEN HAAG, BATAVIA
+
+</text>
+<image timestamp="2002:09:26:23:14:42.00" size="81295">00000A8H.TIF</image>
+</page>
+</document>

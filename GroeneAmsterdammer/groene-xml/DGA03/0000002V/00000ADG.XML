@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320702</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+,„,, ,
+prijs 20 cent
+
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C * telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+Leldschestraat 106—108 Amsterdam
+
+POLISSEN
+tam. «TATIOK8 en REISBUREATJX direct verkrijgbaar.
+: * , »
+In geval van schade kan men zich wenden tot de
+EUROPEESCHE"
+t* Amsterdam, Athene, Barcelona, Belrrado, Berlijn, Bern, Boedapest, Boekarest, Brussel,
+OonstaatlnoMl, Heltlngfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg» Madrid,
+HttBuhen, Oslo, Parijs, Praag, Riga, Rome, Stockholm, Warschau en Weenen.
+1W54
+HAKLOOSTEKHUIS
+KALVER5TRAATI78
+AMSTERDAM
+
+KINDERKAMERVERLICHTING
+NACHTTAF EL
+
+LAMPJES
+ONDERLINGE •
+LEVENSVERZEKERING
+VAN EIGEN HULP .
+VAN 1679
+
+
+DEM HAAG
+KORTENAERKADE S
+BATAVIA
+VOORRIJ ZUID
+DE TIJD VLIEDT !
+LAAT U DAT N l ET
+M ii 3:1 B a 'o a:
+SOLIDE
+VOORDEELIG
+COULANT
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+
+KOOPT HET BEKENDE ROODE PAKJE
+
+CTS&gt; PER ONS
+
+</text>
+<image timestamp="2002:09:27:02:51:14.00" size="108093">00000ADG.TIF</image>
+</page>
+</document>

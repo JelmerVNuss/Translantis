@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020119</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De redevoeringen van Chamberlain en Von Bülow.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 19 Januari 1902.
+**T ,f' * - « •*
+
+, * v &gt;\l* *
+ii^^fS
+«v '&lt; n * 'f' U
+~' l •* * *»«»
+MK:HKL (Von Bülow): Wat wou jij, meneer Kruip in-en-kruip uit?
+
+
+CHAMIIERLAIN : Prieterietiet-tie-ie-tiet!
+
+MlCHEL: Weet je niks anders?
+
+
+DE TOESCHOUWERS: Wat 'n poppenspel!
+Amst. Roek- en Steenrlrufekerij, v/h. Ellerman. Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:17:04:16:14.00" size="368196">D20017L.TIF</image>
+</page>
+</document>

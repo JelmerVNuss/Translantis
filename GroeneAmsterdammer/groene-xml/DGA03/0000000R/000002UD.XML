@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910308</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL, van de Amsterdammer, Weekblad voor Nederland, van 8 Maart 1891.
+De oude koers.
+• FKAXjKRjJKJ
+bUITSCHLAND
+YOKST liisMAKOk: 'l Gaat weer goed, haa&gt;t zoo goed alsoi ik i-r Kei!' nou; bij was. Ut'Toulrdc aan 't schreeuwen,
+represaille-maatregelen togen rCI/.as-LutlmntiEteii. . . F!n dan tr-huis een Ilinkt- nilval legen de Re.ir.hxfeinde aan de
+linkericijde... Xoo konil mijn syslee'ii weei' in cere. \Vir weel, wal mij /elf IIO.L; w.iclil ?
+Stoonulrukkerij Ellermnn, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:18:22:24:39.00" size="185511">000002UD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340331</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+j» M,
+
+Onmisbaair is de man, dien ik u hier beschrijf.
+Hij is 't bewijs der onvolmaaktheid van ons lijf
+Neen, van den mensch, die van zijn jeugd tot aan zijn sterven
+Zijn best doet, dit gewrocht der schepping te bederven.
+Men stelle zich den dokter voor zooals men wil
+Het tiep is: keurig, kaal, en met een uilenbril.
+Hij leidt als ernstig man een zenuwsloopend leven
+Door al zijn aandacht aan zijn ziekenzorg te geven;
+Hij is noch 's daags noch 's nachts n uur volkomen vrij,
+Hij werkt, al werkt hij niet, en leeft in slavernij.
+De diensten, die hij doet, zijn nimmer te betalen:
+Welk goed kan bij een gaaf en krachtig lichaam halen?
+Zijn loon is de voldoening, die hij soms geniet,
+Als hij de resultaten van zijn arbeid ziet.
+Meer dan de dominee hoort hij d'intiemste zaken,
+Want voor den dokter kan geen mensch reserves maken;
+En. is hij jong, dan drukt hem in den eersten tijd.
+Gelijk een looden last, zijn verantwoordlijkheid:
+Hij moet de mentor zijn van meerderen in jaren,
+In kennis, macht en rang dus takt aan strengheid paren-r
+Hij dwingt'tot rust, tot werk, benoemt, ontslaat en schorst
+De koning leidt zijn volk, de arts regeert zijn vorst.
+Hoewel hij fulmineert op drank en sigaretten.
+En zweert bij frissche lucht en alles-open-zetten,
+Schoon hygiënisch" in zijn mond bestorven ligt,
+Hij rookt en drinkt met smaak, en houdt zijn ramen dicht.
+Zoo zijn er velen, 't Is hun nauwlijks te vergeven;
+Wees consequent, mijn vriend, ook in uw eigen leven.
+Het goede voorbeeld trekt. Besef den diepen zin
+Van 't practise as you preach slik zelf je pillen in."
+Hij 's 's avonds dikwijls veel te moe om te studeeren,
+..Het nieuwste" moet hij dan maar uit zijn vakblad leereii.
+Werkt hij in 't ziekenhuis als jeugdig assistent.
+Dan wordt hij door de zusters meestal zeer verwond,
+De zusters, die hem als een jongen god beschouwen.
+Zij vliegen op zijn wenk. En 't eindigt soms met trouwen.
+Zwaar valt hem een vaak noodige bekentenis:
+Hoe zeg 'k den zieke zelf, dat er geen hoop meer is?
+Van misbruik of bedrog verklap ik geen geheimen,
+Noch van reclame-trucs, noch van 't pati Jnten-lijmen,
+Ook zwijg ik van dien schurk, den helper van den kwak
+Men vindt onwaardig volk in ieder ambt of vak.
+Zijn stijl is niet veel zaaks; van grove germanismen
+Krioelt zijn vakorgaan, bestrooid met barbarismen
+Hij heeft zooveel in Duitsche boeken gestudeerd,
+Dat hij zijn eigen taal terdeeg heeft afgeleerd.
+
+Maar wat de menschheid aan den dokter heeft te danken,
+Dat kan geen dichter •—ik tenminste niet verklanken.
+
+CHARIVARIUS
+m
+
+</text>
+<image timestamp="2002:10:28:10:16:32.00" size="242198">D200ASZ.TIF</image>
+</page>
+</document>

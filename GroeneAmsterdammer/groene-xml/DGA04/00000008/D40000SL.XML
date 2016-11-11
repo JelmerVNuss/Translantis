@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130622</Datum>
+<Pagina>14A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HERSTEMMING OP 25 JUNI
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 22 Juni 1913
+Amst. Boek- en Steendrukkerij, v;h. Ellerman, Harms &amp; Co
+Nog n ruk, mevrouw!
+
+</text>
+<image timestamp="2002:08:20:01:09:18.00" size="377742">D40000SL.TIF</image>
+</page>
+</document>

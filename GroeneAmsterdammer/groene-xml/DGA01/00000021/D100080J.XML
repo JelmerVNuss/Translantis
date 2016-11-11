@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2576
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+19
+HULDE A A N *D E N {P H A R A O BRAAKENSIEK
+u. U
+Teekening voor de Groene Amsterdammer" door Jaap Kaas
+T f*""
+FrölAA
+
+JOHAN BRAAKENSIEK
+Veertig jaren
+Was hij,
+Is hij:
+Braakensiek en feekenaar.
+Veertig jaren had hij platen
+Voor de Oude Groene klear.
+Evenals die Oude Groene
+Is hij oud en blijft hij groen.
+Weinigen van zijn confraters
+Wisten hem dit na te doen.
+Denkt eens aan :
+De winkelruiten,
+Met zijn weke/ijksche plaat,
+Waar ze hingen, hielden kijkers
+Straat-beraad.
+In café's en sociëteiten.
+In den huiselijken kring ....
+Overal bekeek, besprak men
+Braakensiek zijn teekening !
+En al is hij wat hardhoorend.
+Niemand teekent met het oor,
+Voor de Oude-Groenelingen
+Teekent hij nog jaren door.
+J. H. SPEENHOFF
+JOHAN BRAAKENSIEK OP
+ZIJN 40-JARIG JUBILEE
+DOOR ARTS G. C. VAN BALEN BLANKEN
+Voorzitter van het H istor isch'Genootschap
+Oud- West-Fr iesland"
+T\ OOR vriendschappelijke tusschenkomst van den
+door mij nog altijd vereerden Justus van Maurik,
+werd ik inteekenaar op de Groene Amsterdammer".
+Dat ben ik nu al ongeveer 40 jaren geweest en nog
+zou van bedanken er voor geen sprake kunnen zijn.
+Het wetenschappelijk peil, waarop dat weekblad
+staat, de heldere uiteenzetting van politieke toestan
+
+den en gebeurtenissen daarin, de wijze waarop de
+kunst gediend wordt en de letterkunde den haar toe
+
+komenden cijns ontvangt, bij ruime plaats voor humor
+en guitigheden, doen van dat weekblad zoo'n be
+
+koring uitgaan, dat wij er om strijd naar grijpen en
+'t onze geregelde avondlectuur is. " ~ Tp
+Maar waar wij aan ernstige studie ons niet meer
+zoo kunnen geven, als wij dat wel zouden wenschen,
+daar zal niemand het ons euvel duiden dat wij het
+eerst naar de platen, de teekeningen en de portretten
+zoeken, door U zoo vaardig, geestig en kunstvol
+geteekend en daardoor meer direct tot ons verstand
+en gemoed sprekend.
+Zij zijn ons veertig jaren lang ter afleiding, opwek
+
+king, vermaak, maar 't meest tot leering geweest.
+Veertig jaren lang, dat zegt wat! Dat is nu niet
+ereis een los daarheen gegeven getuigschrift. Zij ver
+
+dienen ook veel meer. Wat dan? De grootste waar
+
+deering bij groote bewondering. Daarom Hulde en
+Heil U ! Moge deze dag voor U de heerlijkste profetie
+van een zegenrijke toekomst in zich sluiten en worde
+U gegeven wat U hartelijk toegewenscht en innig ge
+
+gund wordt door schrijver dezes.
+Spanbroek, 26 September 1926.
+
+</text>
+<image timestamp="2002:09:26:06:10:27.00" size="141977">D100080J.TIF</image>
+</page>
+</document>

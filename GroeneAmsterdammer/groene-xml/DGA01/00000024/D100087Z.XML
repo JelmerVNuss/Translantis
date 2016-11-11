@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261225</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2586
+Win
+Nieuwe Geestkracht
+/ '.. ." •: S nxet
+ENKELE UITKOMSTEN DER MEDISCHE ONDERZOEKINGEN
+omtrent toename van geestkracht door Sanatogen-gebruik (zie het genees
+
+kundig tijdschrift The Medical Echo" Jan. 1926.|
+Theoretisch werd voor het maximum aan geestkracht het cijfer 100 aange
+
+nomen. De normale geestkracht der onderzochte, gezonde personen bedroeg echter
+vóór Sanatogengebruik gemiddeld 66.
+ADVOCAAT B. Flg. 1. Vóór Sanatogengebruik. De geestkracht be
+
+draagt 64 % van het maximum.
+Pig. II, Na H dagen Sanatogengebruik. De geestkracht is gestegen
+tot 88%. Een aanwinst dus van 24%.
+KOOPMAN B. Fig, I. Vóór Sanatogengebruik. De geestkracht be
+
+draagt 60 % van het maximum.
+Fig. II. Na 14 dagen Sanatogengebruik. De geestkracht is gestegen
+tot 86%. Een aanwinst dus van 26%,
+riestige dagen, beperkte lichaamsbeweging en
+inspannende geestelijke arbeid werken samen
+om Uw lichaam en Uw geestkracht te ver
+
+zwakken. Teneinde de levenskracht weer geheel
+op te bouwen, vermoeidheid en lusteloosheid blijvend te
+overwinnen, moet gij zoowel Uw bloed vernieuwen als
+Uw zenuwen versterken. En dat kan. Sanatogen voert aan
+Uw lichaam juist die stoffen toe phosphorus en albumine
+die de krachten van bloed en zenuwen vanuit de kern
+opbouwen en versterken.
+
+Hoeveel die toename van geestkracht bij verschillende per
+
+sonen bedraagt, werd vastgesteld door een Engelsch genees
+
+heer. Zijn wetenschappelijke proeven, die volkomen normale
+personen met inspannenden geestelijken arbeid betroffen
+(doctoren, kooplieden, etc.) toonden aan, dat de gemiddelde
+toename van geestkracht door Sanatogengebruik, 24 0
+bedroeg. Bedenk eens, hoe een dergelijke toename Uw
+arbeidskracht ten goede zou komen, Uw gezondheid en
+levensvreugde zou verhoogen.
+
+Wanneer Uw energie verslapt is wanneer ge U spoedig
+vermoeid en lusteloos gevoelt, bouw dan lichaam en geest
+
+kracht weer op met Sanatogen. Reeds na enkele weken
+Sanatogengebruik zult ge bemerken, dat ge U veel gezonder
+en krachtiger gevoelt.
+Ga nog heden naar Uw
+Apotheker of Drogist
+Hij verkoop Sanatogen
+vanaf f 1.- per bus
+SANATOGEN
+Het Zenuwsterkend Voedsel
+
+</text>
+<image timestamp="2002:09:26:12:48:17.00" size="139511">D100087Z.TIF</image>
+</page>
+</document>

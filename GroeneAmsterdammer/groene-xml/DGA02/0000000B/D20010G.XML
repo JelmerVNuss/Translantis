@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010811</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1259
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLANa
+Prof Drucker's afgetrokkenheid.
+Wat men onder de hoeven van een muilezel vinden kan.
+(Caran. d'Ache in den Fig iro).
+L
+DE NEDEBL MAAGD (tot Prof. DKUCKER): »U schaamt u wal ean beeije voor mij, Zegt u. Ik kan me dat begrijpen.
+Professor, opdat het rm niet meer gebeure, deze scheurkalender geef ik u cadeau." ~"
+
+
+In Zuid-Afrika. (Wespen). ,
+Een nationaal Hul^blyk. (Noterelle).
+
+Lord Roberts heeft niet het geluk gehad de Boeren in Afrika te overwinnen maar
+terug in 't vaderland, heeft hy een ander fortuintja !
+KITCJIENER (de buitgemaakte lirieten van President Stein
+naziende): »0 ! dat's ongehoord, daar schrijft me die
+Boerencommendant: De Ensrelsche generaals zijn EZELS !"
+ADJUDAST : »Die dnivelsche Boeren hebben ook overal
+hun spionnen !''
+De verkeerde wereld. (Der Floh).
+Kil l IUI&lt; l BIÏ.JIK1CII f
+Een huishoudelijk praatje. (Uaily R-pr
+GENERAAL BOBS: &gt;Ah quel plasir d'être soldat!''
+
+
+De terugtocht uit China. (Der Floh).
+DE Rrs: »Beste vrienden, gij gaat verlicht naar huis, maar mij drukt het geval!"
+
+
+Na de groote retirade. (Der Floh).
+Li Ui M. TSCHAXG : «Asjeblieft Prins! Da vreemde duivels moeten toch
+iien met hoeveel goed gevolg hun beschaving in China is doorgedrongen."
+Het Chineesche druppelfleschje. (UI!;).
+Vorst Ferdinand vleide zich lang met de hoop, een beerenleider te
+zullen worden en nu moet hij zelf naar het pijpen van den beer dansen.
+JOHN BULL (tot MAJOR DOMO SALISBURY) ; «Koaaan! dat ziet er beter
+uit; ik denk dat we spoedig nog meer bewijzen zul.'en krijgen van uw
+spaarzaamheid!"
+'t Zal wel wat lang duren eer hun dorst gestild is!
+
+</text>
+<image timestamp="2002:08:16:10:42:49.00" size="399024">D20010G.TIF</image>
+</page>
+</document>

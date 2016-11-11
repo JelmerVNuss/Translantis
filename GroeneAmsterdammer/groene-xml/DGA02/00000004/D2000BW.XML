@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19000107</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1176
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Platzak.
+Chamberlains Kerstboom. (Le Rirz.)
+De Balans.
+(Nederlandfche Spectator)
+JOHN BULL, tot den Poelier: »'t Is vervelend, ik kan maar niets raken tegenwoordig; kan u mij soms aan wat springbokken, hartebeesten of ander groot wild helpen?"
+POELIBS: &gt;'t Sp|}t me wel, raaar ik heb alleen nog Afrikaansche Canards voor u...!"
+Nieuwjaar in Transvaa). (Caran d'Ache in den Figaro.)
+In verlegenheid.
+DE DOOD : «Tóch 'n mooi saldo ! En dat na de
+Vredesconferentie !"
+De Engelsche Athleet in verlegenheid.
+(Der S:oh.)
+JOHN BULL : »Wint ik maar hoe ik dat vervloekte beest pakken kon ?
+
+
+
+Het allernieuwste speelg-oecl.
+Generaal, ziet ge nog niets komen ?
+Zeker !... felicitatiën en betuigingen van sympathie uit alle werelddealen ... voor
+onze vijanden.
+Afrikaansche Kersttijd. (Vergelijkende geschiedenis).
+'ischietto.
+Oom Piet: Pats ! Al weer 'n generaal.' Pats .'....
+
+(Uilenppiegel.)
+CHAMPION ROBERTS (tot den amateur Oom Paul): »0ch ouwe
+Heer, laat U je door my even onder gooien, voor den sch(jn
+alleen, weet U ? Anders is mijn renommée als Champion naar
+den duivel !"
+1805. De Italianen in Eritrea.
+1SH9. De Engelschen in Natal.
+"Wat een Boer voor zjjn jongens als Nieuwjaarscadeau meebrengt.
+(Uit Jugend.)
+Zeg Paultje, moet je nu al m\jn soldaatjes omgooiuii, toi
+je nou op ?
+Neen ! Victoria'tje, 't is toch geen speelgoed voor meifjes.
+(Humoristische Blatter.)
+
+</text>
+<image timestamp="2002:08:14:02:48:43.00" size="328056">D2000BW.TIF</image>
+</page>
+</document>

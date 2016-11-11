@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270604</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ADVOCAAT
+.VAN BIJSTERVELD
+AMSTERDAM
+EX P O-R T
+IndUn cil er prijs-«p sfle
+"""" A»*!*» te behoud
+m steeds Uw tandei
+pet de meest betrouwbare tandpasta
+Frlssche pepermuntsmaak.
+Goed «n toch zeer goedkoop,
+IOWÜEEN EN COMFOREN
+5RTREFFEN. AHDCRE EN.*
+i.....ZIJN GOEDKOOÊ.
+k) onze Spaarbranders
+\IASSIEF KOPER met
+Aatische luchtr^geling
+'ïfnulzen vanaf f •2."
+|TIIVITUR|
+STANDAARD MOTORKRUISER
+langS 50 M., kajuit.keuken.W.C., cockpit,
+2—5 slaapplaatsen. Vraagt prospectus.
+
+Werf Nicolaas Witsen'
+STOEL ALKMAAR.
+• i a »
+
+Nieuwigheden
+.. ' . •J&amp;lrgift1 i
+op fotogr. gebied stóan.
+afgebeeld en beschreven i»
+TÉ"'
+Viaag tesen e.t«i, mh, ml
+~ C AM
+115 Kalvewlt -*A'dam.
+471NEW-BON03TRCET
+LONDONW1
+Meubelen naar ejgen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+SNELBLUSSCHER HOLLANDIA
+Uw Ree3 uiddel
+SPANJAARD 8 Gx fabriek EspaHa
+U T R E C H T
+
+</text>
+<image timestamp="2002:09:21:08:54:59.00" size="192403">D10006J3.TIF</image>
+</page>
+</document>

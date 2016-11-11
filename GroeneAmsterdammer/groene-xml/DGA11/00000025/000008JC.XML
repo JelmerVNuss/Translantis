@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300927</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+?«öa«ia«^^
+&amp; i-:
+v-
+JTER HERINNERING
+aan
+sten
+Verjaardag
+van
+H* M* De Koningin
+
+
+
+
+Geheel Zilveren Bonbonlepel f 5,50
+
+Theelepel 2.75
+
+in speciale verpakking
+
+(Bij tpezending. per post 30 cent extra)
+s »
+
+Uitsluitend verkrijgbaar
+f , ~
+
+RV, |N DEN SILVËREN MOLENBEECKER'
+(CORNS SCHOORL)
+
+HOOGSTRAAT 31 KAL VERSTRAAT 32
+
+DEN HAAG AMSTERDAM
+
+(Aan hen.die deze lepels nog niet reeds gekocht hebben,wordt kennisgegeven datbinnen
+enkele weken-de levering daarvan wordt gestaakt. Daarna zullen zij niet meer worden
+aangemaakt, zoodat zij als bijzondere souvenirs zullen kunnen worden beschouwd).
+ROTOR LICHT KRANT
+8BSüai8
+1OO.OOO Groningers kunnen iederen avond Uw annonce lezen.
+
+Hier is het middel om Uw merk of firmanaam er in te HAMEREN.
+
+Een doeltreffender reclamemiddel is niet denkbaar.
+
+Wij noo'digen U hierdoor uit, gebruik te maken van de reclameruimte welke wij- op onze lichtkrant beschikbaar stellen.
+
+Vraagt inlichtingen bij de Provinciale Groninger Courant", Groningen.
+vereeniging de kring1', kleine gartmannplantsoen 7-9, amsterdam c
+
+
+tentoonstelling
+
+van beeldhouwwerken, schilderijen en teekeningen
+
+van 20 september-5 october, dagelijks geopend van 11-5 uur
+
+•toegangsprijs f 0,25
+
+exposanten: anna j. baucke-kleine, chris beekman, f. j. h. boers, wim bosma,
+I. p. j. braaf, joh. buning, jos. a. gosschalk, kees heynsius, jan yan herwijnen,
+ff. hess, germ. de jong, p. koch, hildo krop, harmen meurs, johan polet, f. c. roelof s,
+jo spier, theo swagermakers, sally polak, fr. sieger, v. e. van uytvanck, joh. I. ter
+veer, a. c. willink.
+
+</text>
+<image timestamp="2002:09:22:04:08:43.00" size="179894">000008JC.TIF</image>
+</page>
+</document>

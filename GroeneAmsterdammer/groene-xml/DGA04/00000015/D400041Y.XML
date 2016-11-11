@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19220603</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DUITSCHLAND'S TOELATING TOT DEN VOLKENBOND
+
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 3 Juni 1922
+Nadruk verboden
+Amst. Boek- en Steendrulckerij, v h. Ellerman, Harms &amp; Co.
+G e r m a n i a: Ze zeggen dat, als ik op tijd mijn schoolgeld betaal en goed oppas, ik met September
+naar de groote school mag"
+
+</text>
+<image timestamp="2002:08:25:14:29:26.00" size="270980">D400041Y.TIF</image>
+</page>
+</document>

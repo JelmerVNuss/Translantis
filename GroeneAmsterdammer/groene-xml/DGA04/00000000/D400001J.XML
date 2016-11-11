@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19120204</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Troelstra's Pensioenmotie.
+BIJVOEGSEL, van l)e Amsterdammer, Weekblad voor Nederland, van 4 Februari 1912.
+Troelstra's voorstel om, in afwachting van inwerkingtreding der verzekerings
+
+wetten, voor de thans zeventigjarigen een dadelijk pensioen overeenkomstig
+liet ontwerp Talma te doen ingaan, wordt door de Standaard bestreden,
+omdat dit onmogelijke wetgeving is: Waar geen wal is, is geen brug!"
+*»•».*»•»¥ i
+Amsl. Hoek- cu Sieendrukkerij, v/h.EUermau, Harms X (.o.
+De Christen-prediker: Waar geen wal is, is geen brug!
+De oude arbeider; Maar waar een wil is, is een weg!
+
+</text>
+<image timestamp="2002:08:17:02:12:55.00" size="529322">D400001J.TIF</image>
+</page>
+</document>

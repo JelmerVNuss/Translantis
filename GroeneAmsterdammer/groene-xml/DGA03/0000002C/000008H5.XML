@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300906</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+. u» f ai i u
+Fte Groene
+&lt;b»C-&gt;VVeekbIcid voor Nederland
+KEIZERSGRACHT 355 ~ AMSTERDAM - CENTRUM
+Ktlungraebt 5Z6 Amitordan
+
+POLISSEN
+••o STATIONS en KE1SBÜKKAUX direct »erkrIJrb»»r.
+* * »
+/n gei&gt;s/ pan schade kan men zich wenden tot de
+EUROPEESCHE"
+U Amsterdam, Athene, Baieelona, Belgrado. BerUJn, Bern, Boedapest, Boekareit, Brussel.
+wuunnnopel, Helslnglors, Keulen, Kopenhagen, Lissabon. Londen, Luxemburg, Madrid,
+Httnihei, Oslo, Parijs, Praag, Riga, Rome, Stoekholm, Warsehav en Weenen.
+HOFLEVERANCIERS VAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+MONSIEUR
+ERKELENS
+WIJNHANDELAREN.
+
+Hoofdkantoor Rotterdam
+Leuvehaven 34
+tel 52456
+
+F i l i a l e n, D e n Haag
+Anna 'Paulownastraat 36
+t«l. 32532
+
+Den Helder
+Hooldgracht 37
+UI. 83.
+
+VRAAGT PRIJSCOURANT 1030.
+ON B
+VOOR DETQEXOMST
+VAN U,
+VAM UW KINDEREN,
+VAM UW NABESTAANDEN .
+
+HOOFDKANTOOR KORTENAERKADË2»
+DEN HAAG,
+BIJKANTOOR VOOR SNDS
+VOORR IJ ZUID, BATAV l A.
+
+</text>
+<image timestamp="2002:09:22:02:12:09.00" size="119696">000008H5.TIF</image>
+</page>
+</document>

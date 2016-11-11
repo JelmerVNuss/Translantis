@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960719</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 995
+De Glasslypers te Maastricht.
+
+5de (Lijst).
+
+Ontvangen van: Z. V. te A. f20, J. K. te H. f 1.50,
+O. D. te H. fS.50, G. te A. f l, J. F. W. v. d. H.
+te A. f5, Th. P. M. C. te A. f l, G. te 'e-G. f l, Dr.
+K. te B. f5, B. te G. f2.50, A. B. C. te A. f2.50, H.
+te M. f5, P. te W. f 0.50, D. te G. f2, A. J. W. te
+M. f2.50, Werkl. Ver. Harmonie" te Appingadam
+f2.50, G. K. te A. f 10. L. W. te's-G. f 5, S. te A. f B,
+H. te A. f 5, H. L Y. te A. f 5, Een fabrikant te E. f 5, H.
+te 8. f5, K. te A. f2.50, G. te A. f 2.50, W. te D. f 10,
+I. C. te A. f l, v. d. W. te E. f2.50, C. te A. f l,
+de F. te D. f5, V. Br. te V. f l, Kiesver. Algemeen
+Belang" te Colijnsplaat f 5, B. te S. f 2.50, (2e bij
+
+drage), T. te 's G. f 5, (2e bijdrage), S. te A. f l,
+G. B. 8. te A. f 2.50, O. H. te A. f l, H. v. V. te A.
+f 8, v. D. te A. f l, Le F. de M. te A. f 5, G. te L.
+f 5, B. H. te 's G. f 5, Werkl. Ver. Helpt Elkander"
+te Hardinxveld f 1.75, N. N. te 's G. f 2, v. L. S. te
+H. f 5, Afd. Scheemda en O. v/d. Bond v. N. Onderw.
+f 4.75, O. te H. f 5, J. te 's G. f 5, v. d. M. te A. f l,
+J. B. te A. f 2.50, Dr. J. W. C. M. van der Sijp te
+Nijmegen f 100, met de opmerking: Hier, waar 't geven
+geen liefdadigheid doch eenpdncipe kwestie is, hier is 't
+vermelden van zijn naam een daad, die grooter waarde
+heeft dan 't geld, W. te L. f 2 50, K. te A. f 10,
+Dr. P. te A. f l, Mr. V. te A. f 10, d. B. te F. f l,
+v. D. te M. f 10, Dr. K. te D. f2.50, G. te M. f 2.471/5,
+Dame te H. f l, T. W. te H. f 10, Badicale Kiesver.
+te Zaandam f 19.50, Afd. Epe-Heerde B v. N. Onderw.
+f 5,70, Pottebakkersver. Bjj tijds gezorgd'1 te Gouda
+f 4.25, A. N. W. V. afd. Gouda f 2.50, Koper- en
+Blikslagersver. D. E. V. te Amsterdam f 5, t. H. te
+A. f l, Werkl. Ver. Eigen Hulp" te Loppersum f 2.50,
+Schoenmakers Ver. St. Crispinus" te Arnhem f 5,
+Werkl. Ver. Werken en Leven" te Meppel f 3, S. Z.
+te E. f 20, V. te B. f 2.
+Bjj den heer i3. H. Heldt: Meubelmakers-Ver. De
+Toekomst" te Botterdam f 10.
+Bij de redactie van De Nieuwe, Amsterdammer: f 5.
+Bg deu heer J. W. C. Tellegen: G. T. C. te A.
+f 10, Behangers-Ver. Help u zelven" te Arnhem f 5.
+A. B. J. f 10.
+Bg den heer J. F. Tenthoff: F. K. te H. f 2.50,
+G. K. te H. f 2.50, v. D. te H. f l, Kn. te H. f 0.50,
+N. M. te H. f 0.25, S. E. te H. f l, V. P. te H. f 0.50,
+N. N. te H. f l, N. N. te H. f l, N. N. te H. f l, J.
+K. te H. f 0.50, L. A. G. te H. f 0.50, A. S. te H
+f 0.50, N. N. te H. f 0.50, J. K. te H. f 0.50, B. te H.
+f l, A. te H. f 0.10, 8. te N. N. f 2, C. te T. f 1.50,
+E. K. ten C. te N. f 1.
+Bij Mr. H. Ph. de Kanter: Ongenoemd f 10.
+Bij mevrouw G. O. Stellingwerf Jentink: f 10 ver
+
+antwoord in het Friesch Volksblad van 5,12 en 19 Juli.
+Bij den heer Em. Kalker: Loge Post Nubila
+Lux" f 10.
+Bij den heer J. P. Vos: Patrimonium", afdeeling
+'s-Hage f 25.
+Bij den heer B. Schwarz: B. S. f 0.50, Naaisters
+
+rekening Nunspeet f 0.50, Gezusters C. f 0.50, A. N.
+f 0.25, Een timmerman f 0.50, H. J. f 0.25, X. 0.25.
+Bij Jhr. Mr. G. W. Mollerus : Ongenoemd f 10.
+Bij den heer A. H. Gerhard: Gecollecteerd op een
+vergadering van Amsterdamsche gemeente-werklieden
+f8.76.
+Te zameo f 539.78*.
+
+Naar aanleiding van Dr. Van der Sijp's bijschrift
+zy medegedeeld, dat de namen der schenkers in deze
+lijst zullen worden vermeld, indien dit hij de toezen
+
+ding der gelden wordt verzocht.
+
+16 Juli 1896. C. V. GEBBITSEN,
+Tessclscliadestraat 15, Amsterdam.
+
+iiiiiiiiiiiiiiliiimmiiiiiiiiiiiliiiliiiiiiii
+MIIHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIIIIIIIIIIIIHIIIIm
+
+
+Den heer F. M. C.,
+Redactie De Amsterdammer,
+Amsterdam
+Mijnheer!
+
+Indien ik zulks al wilde, zou het my toch, bij
+myne veelomvattende bezigheden, onmogelijk zijn
+alle minder juiste opmerkingen, die van tijd tot
+tjjd in de pers over onze ondernemingen of de
+personen harer directeuren gemaakt worden, te
+rectificeeren. Nog minder kan ik mij in twist
+geschrijf begeven met ieder, die een artikel
+schrijft, waarin onze fabrieken of mijn naam te
+pas gebracht worden. Toch vereischt soms het
+belang van een beginsel, dat tegen een onjuiste
+voorstelling van zaken wordt opgekomen, vooral
+wanneer dat beginsel wordt veroordeeld op grond
+van misschien meer algemeen verbreide gebrek
+
+kige kennis der bestaande toestanden.
+Dit laatste nu is het geval met uw sociale
+causerie in De Amsterdammer van 12 dezer, ge
+
+titeld «Werkman en Patroon". Naar aanleiding
+van het ontslag aan een aantal werklieden der
+Nederlandsche Oliefabriek, schrijft u daarin:
+«Inderdaad ligt hier in dit ontslag het zwakke
+Bismarclc en Li-Hnng-Cnang te Friedrichsrnhe,
+(lllustration.)
+fabriekanten. Ziedaar wat ik heb betoogd en
+blijf volhouden. Van veroordeeling der handel
+
+wijze van den heer Van Marken was daarbij
+geen sprake. F. M C.
+
+•iimiuii	itiiiiiiiiiiiiiiiiiiiiiiiiuiuiiuiniiiiiiiiiiiiiiiiiHiiiiiiii	H
+punt van het systeem-Van Marken. Zoolang
+de zaken bloeien en bij de grootere toewijding
+waarop de kans groot is, is de bloei der zaken
+waarschijnlijk werpt het stelsel zeer goede
+vruchten af. Op den duur echter is bet tegen
+de concurrentie niet machtig genoeg. Hoe vol
+
+maakter de machineriën worden, des te
+moeielijker wordt het te concurreeren."
+Uit deze zinsnede blijkt ten volle dat u een
+zeer onjuist denkbeeld koestert omtrent de
+moeielijkheden, die tot het ontslag der betrokken
+werklieden aanleiding hebben gegeven. Immers
+het is volstrekt niet de mededinging onzer lagere
+loonen betalende concurrenten, die ons daartoe
+dwong: wij durven beweren en vreezen daarin
+geen tegenspraak dat wij onder onze concur
+
+renten (producenten van grondnoten-olie) aller
+
+minst tot de zwakken behooren. Doch een feit
+is, dat in de olie-industrie in het algemeen, en
+in de grondnoten-olie-industrie in het bijzonder,
+sedert eenigen tyd een crisis heerscht, welker
+einde zich nog niet laat voorzien, doch die wij
+hopen dat op den duur voor gunstiger toestan
+
+den plaats moge maken. Die crisis nu, die reeds
+aan twee groote en uitnemend ingerichte fabrie
+
+ken het leven heeft gekost, was de oorzaak en
+tevens de rechtvaardiging van de buitengewone
+maatregelen, die de Directie ten deele in overleg
+met het personeel, heeft genomen. Ten einde U
+daaromtrent nog nader in te lichten zenden wij
+u per zelfde post een nummer onzer Fabrieksbode
+bevattende een verslag van de vergadering van
+De Kern, de vertegenwoordiging van het perso
+
+neel, waarin deze aangelegenheid verhandeld werd.
+Ik vertrouw dat U na kennisneming van een
+en ander tot de overtuiging zult komen, dat de
+door U bedoelde gebeurtenissen hoegenaamd niet
+het gevolg zijn van zwak punt in ons systeem,
+of van het niet kunnen volhouden der concur
+
+rentie, en wellicht zelfs zult toegeven dat die
+gebeurtenissen inderdaad niet een zwak, maar
+veeleer een sterk punt van ons systeem doen
+uitkomen. Mocht dit het geval zijn dan zal U
+zeker bij voorkomende gelegenheid uw lezers wel
+van die wijziging in uwe meening willen doen
+blijken.
+Hoogachtend heb ik de eer te zijn
+Uw dw.
+J. C. VAN MARKEN.
+
+De heer Van Marken heeft mijn bedoeling
+misgevat. Ik heb geenszins willen beweren, dat
+de heer Van Marken, door zijn overbodig per
+
+soneel te ontslaan, het niet ten laste van het
+overblijvende te brengen, minder goed handelt,
+dan de Schiedamsche fabriekant, die zijn over
+
+bodig personeel hield uit pure philanthropie. Ik
+vertrouw dat laatste feit, in dezen vorm althans,
+niet te zeer. Een fabriekant, die een winst
+maakt van 35 pCt., en zijn werklieden ƒ 7 betaaalt,
+schijnt mij niet toe, de philanthroop te zijn, die
+als hij zijn werklieden niet noodig heeft, ze toch
+maar houdt, opdat zij niet op straat zouden
+komen te staan.
+Het stelsel van den heer Van Marken was ook
+in mijn gedachtengang niet het in toepassing
+gebrachte denkbeeld van participatie en gemeen
+overleg, gelijk deze heer dat geeft te aanschou
+
+wen; maar de meening, dat men, onder het
+concurrentie-stelsel onder het laisser faire, ooit
+tot voor de werklieden duurzaam bevredigende
+resultaten kan komen. Dit nu is juist hier weder
+gebleken, niet zoo te zijn. Een crisis, gevolg
+van het concurrentie-stelsel, werpt van den heer
+Van Marken de werklieden evenzeer op straat,
+vermindert hun loon evenzeer, als van andere,
+minder met het lot hunner werklieden begane
+HETSJES
+I. D. B.
+Naar KONKAK VON FKSTALOZZI.
+
+L D. B. beteekent Illicit Diamond Jïinjer, een
+onbevoegd diamantkooper. Het is zeer gemakke
+
+lijk, van de mynwerkers, die meerendeels schoon
+gewasschen Basoeto's en Zoeloe's zijn, dikwijls
+voor niet meer dan een fiesch brandewijn of een
+paar handen vol tabak, een diamant te koopen.
+De werkman kan den edelen steen alleen met
+het grootste gevaar voor een aanzienlijk bedrag
+van de hand zetten. Maar de blanke is meer
+geraffineerd, en beeft vaak het geluk, met een
+pak gestolen diamanten spoorloos te verdwijnen.
+De verleiding, om in een paar weken of maan
+
+den zonder moeite rijk te worden, is hem meer
+
+malen te groot.
+In de eerste jaren na '80 werden zooveel dia
+
+manten gestolen, dat de wet moest worden ver
+
+scherpt, en nu staan er minstens tien tot vijftien
+jaar dwangarbeid op het stelen van diaman
+
+ten, en de meesten van hen die zulk een straf
+oploopen, gaan bij het harde werk, de zonnehitte
+en het ellendig leven er weldra onderdoor. Hoe
+slim soms de wet wordt ontdoken, leert het vol
+
+gende voorbeeld :
+De grens van den Oranje-Vrijstaat is maar drie
+uur weg ; eenige 1. D. B.'s voerden nu hun paarden
+een papje hakstroo, waarin zij heele pakken
+diamanten hadden gestrooid ; zoodra dit door de
+dieren was genuttigd, reden zij in vollen galop
+over de grenzen. De Oranje-Vrijstraat leverde
+in die dagen de I. D. B.'s nog niet uit, en toen
+zij dus over de grens waren, bonden zij hun
+paarden vast aan een boom, legerden zich er
+rondom, en wachtten geduldig de uitwerking der
+spijsverteering van hun dieren af. Met een stokje
+zochten zij de diamanten weder op, en borgen ze
+in een lederen gordel. Nog op het oogenblik zijn
+te Londen, Parijs en New-York lieden te vinden,
+die zulk een streek uithaalden en thans zeer
+Creta en de Mogendheden,
+(Uil;.)
+IDcv neuc
+De Derby-wedrennen der toekomst,
+(MoonsMne.)
+
+Li-Hnng-Chang, commis-voyapr in souvenirs.
+(La Sil
+Alle regeeringen betwisten elkander de staartlokjes, die Li-Hung-Chang zoo eerlijk mogelijk
+tracht te verdeelen.
+
+</text>
+<image timestamp="2002:09:04:18:30:23.00" size="372436">D10004MO.TIF</image>
+</page>
+</document>

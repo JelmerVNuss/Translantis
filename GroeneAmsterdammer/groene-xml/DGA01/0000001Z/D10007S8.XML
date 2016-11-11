@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260724</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+24 JuU 1926
+'»
+ri! i
+. ,m.9
+voor
+CSAURHzn,
+HOFLEVERANCIER
+RCSON 134 over de Ned. Bank
+Tekfoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+URC HE R
+'6é~66~68-?0-72,AMSTERDAM
+(Grooto Markt)
+
+JMÈSPAYS-BAS
+WARU EM KOUD STROOMEND WATER
+AFWERKEN
+Amateur'Foto's
+VLUG, NET, BULIJK
+Speciale inrichting!
+
+CAPI
+115 KALVE8STRAAT
+, Ao 1714. Verzekering tegen |
+INBRAAK-.
+WATERLEIDING- EN
+STORMSCHADE
+A. D. BEERENDS '&amp; VEEREN
+AMSTERDAM - LEEUWARDEN
+•• «NTPCRHALPONS
+IVteubelmagazijn
+||OIiSTEEG-AMSTERDAM
+OEKEUKASTEN
+;!',. f
+'
+«.v
+- GOUDA
+HOEK
+Amsterdam; ' spui 23
+' Oesters - Kreeft - Caviar
+N.V.%
+HAKLOOSTERHÜIS
+AMSTERDAM
+SNELBLUSSCHER
+
+HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD. TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stalen
+
+ARNOLD HOUTSCHILT
+Singel 283 ' Amsterdam
+SUPERB
+CIGARETTES
+173. NEW BOND STREET,
+DE BESTE EN GOEDKOOPSTE
+OVERAL VEBKRYGBAAR
+ADRES Vo MANDEL
+JOM.H.VAN OER MEIDEN.
+AMERSFOORT
+MEEST GESCHIKTE BINDEKIJ VOOR H H'UITGEVERS
+5TVILLIBRORDUS5TRAAT 53-55ADAMTtL ^'tt66
+
+</text>
+<image timestamp="2002:09:25:22:37:00.00" size="339601">D10007S8.TIF</image>
+</page>
+</document>

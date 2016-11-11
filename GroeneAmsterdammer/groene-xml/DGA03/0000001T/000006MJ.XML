@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280602</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+2 Juni 1928
+P)e Urome
+dbc_/wêekblod voor
+Dammer
+Nederland
+AkouemenUprl}. per JMT f ».-.
+AdvertentiZa f 0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+Losse nummer» 25 ceBts
+AMSTERDAM
+KAL VERSTRAAT J136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H,
+raei xtensioL
+.eupgon
+
+van prima Fransch Elastiek,
+
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren -wij
+onder GARANTIE
+tot heupwijdte 100 c.M. nieuwen prijs f 14.
+verder tot 115 c.M. 15.
+
+Bij schriftelijke bestelling gelieve men als maat
+op te geven de wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.
+Voorhanden een enorme keuze
+oeL
+EXTENSIBLE"
+eupgori
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f8.
+
+Alle door ons geleverde elastieken Heup gordels
+garandeeren -wij.
+8t A. C. VAN ROSSEM,
+ROTTERDAM.
+HAKLOOSTERHUIS
+AMSTERDAM
+INÏPNiTIONiLWiïHC»
+SCHAFFHAUSEN
+
+</text>
+<image timestamp="2002:09:04:17:26:37.00" size="118058">000006MJ.TIF</image>
+</page>
+</document>

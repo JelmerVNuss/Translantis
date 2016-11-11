@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390916</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+~t
+Van mitrailleur
+tot stoomketel
+Alsmede iets over een ketel die eigenlijk een
+machine is
+i
+5
+ALS U ooit moet kiezen welke van
+deze twee vragen U wilt beant
+
+woorden: Wat is een mitrailleur?" of
+Wat is een stoomketel ?", kiest U dan
+voor alle zekerheid de eerste. Omtrent
+een mitrailleur wordt Uw kennis im
+
+mers doorloopend op peil gehouden.
+U kent hem van de fotopagina en het
+filmjournaal. Bovendien kent U zijn
+verschrikkelijke uitwerking, dus ook
+zijn rendement".
+Een associatie bij een stoomketel
+begint bij een fluitketel, duikt dan even
+omlaag naar speelgoedtreintjes en
+speelgoedketeltjes, iets hooger naar de
+laatste paragrafen van het natuur
+
+kundeboek om ten slotte bij een kracht
+
+zin te eindigen van de gedaante: de
+machtige verstuwingsinstallatie van
+de Queen Mary", voorzien van
+hoogdrukketels, enz
+Maar wat is een stoomketel eigen
+
+lijk r
+Een stoomketel is een gesloten vat
+om water met behulp van toegevoerde
+warmte om te zetten in damp of stoom,
+zegt U misschien weifelend.
+Dit antwoord is wat poover. Daarom
+zullen we er aan toevoegen: een stoom
+
+ketel is een inrichting om verbrandings
+
+gassen af te koelen.
+Het lijkt min of meer op een omkee
+
+ring van de eerste definitie, doch het
+is in werkelijkheid een zeer principieele
+omschrijving.
+Door de laatste formuleering wordt
+Uw aandacht immers direct gericht op
+de verbrandingsgassen welke afgekoeld
+worden. D.w.z.: de warmte, ontstaan
+door de verbranding van de brandstof
+b.v. steenkool, willen we zooveel mo
+
+gelijk overbrengen in het water.
+Ge begrijpt het al: hier is sprake van
+een rendement. Als we 100
+warmteeenheden ontwikkelen bij de verbran
+
+ding van de steenkool en 80 eenheden
+komen terecht in het water dan is het
+rendement 80%. Behoudens enkele
+kleinere verliezen komen deze ontbre
+
+kende 20% via de schoorsteen in de
+buitenwereld terecht. Men spreekt dan
+van een schoorsteen-verlies van 20%.
+Dit schoorsteenverlies beteekent na
+
+tuurlijk een danige tekortkoming in
+onze afkoelpogingen.
+Het listige afkoelings-probleem ver
+
+toont bepaalde hebbelijkheden. Neem
+b.v. een klein stukje gloeiend ijzer en
+werp dit in koud water. U zult dan
+wel zoo verstandig zijn het er niet
+direct weer uit te halen. Het heeft
+namelijk tijd noodig om af te koelen
+en aangezien time money" is, ontdekt
+U hier de eerste hebbelijkheid.
+U had natuurlijk ook een groot stuk
+warm ijzer, dus niet gloeiend, kunnen
+nemen waarin zich evenveel warmte
+bevindt als in het eerstbedoelde kleine
+stukje. Het koude water zal dan ten
+slotte wel warm worden doch lang
+
+zamer dan in het eerste geval. Ziedaar
+de tweede hebbelijkheid.
+De derde hebbelijkheid van het
+afkoelingsprobleem leert ons de mitrail
+
+leur. Eindelijk" stamelt de lezer met
+zin voor een logische opzet van een
+artikel: Wat heeft in hemelsnaam
+een mitrailleur met een ketel te
+maken!"
+
+DEZEN lezer verzoek ik dan in
+gedachten den loop van een
+geweer vast te houden onmiddellijk
+nadat geschoten is. Hij voelt dan een
+uitgesproken temperatuurstijging.
+Welnu, bij een mitrailleur waar zoo
+
+veel kogels per minuut de loop verlaten,
+wordt deze temperatuurstijging der
+
+mate bezwaarlijk dat afkoeling met
+water moet worden toegepast.
+De verklaring ligt nogal voor de
+hand. De verbrandingsgassen ont
+
+wikkelen zeer veel warmte die in het
+bijzonder de ontbrandingskamer ver
+
+hitten doch ook den loop. Hierbij doet
+zich echter een merkwaardig feit voor
+waarop vooral in den vorigen oorlog
+het licht gevallen is.
+Het koelwater verdampt buitenge
+
+woon snel. De ketelconstructeur die
+op grond van dit feit een nieuw ketel
+
+type geconstrueerd zou hebben, zou
+inderdaad een genie geweest zijn. Dit
+genie is echter niet geboren geworden.
+We zouden dan ook rakelings langs
+een belangrijke uitvinding voorbij ge
+
+gaan zijn, indien dit merkwaardige
+feit niet tegelijkertijd ergens anders
+opgevallen was.
+Het geldt hier de firma Brown
+Boveri in Winterthur welke sedert
+jaren experimenteerde met gasturbines
+en voortdurend stuitte op het typische
+feit dat de warmte-overdracht van een
+gas door een ijzeren wand in sterke
+mate beïnvloed werd door de snelheid
+van de gassen. Nu was ons dit ver
+
+schijnsel niet geheel onbekend. De
+constructeurs die met stroomende
+vloeistoffen of gassen te maken hadden,
+hielden wel degelijk rekening met de
+snelheid waarmee oppervlakken wer
+
+den gepasseerd. De variaties in het
+warmte-transport waren echter niet
+zeer groot.
+Deze ervaring met gasturbines voer
+
+de de firma Brown Boveri ten slotte
+tot een weldoordacht experiment. Men
+bepaalde de warmteoverdracht door
+een wand in afhankelijkheid van de
+snelheid van een gas.
+Laat ik Uw voorstelling "fixeeren
+op de volgende proef. Door een ijzeren
+buis stroomen heete gassen, terwijl
+de buis omringd is door water, waarin
+een thermometer hangt. Wij voeren
+de snelheid van de gassen op en letten
+daarbij op den thermometer.
+Het blijkt dan dat de overdracht van
+warmte vrij plotseling zeer hoog wordt,
+n.l. indien de snelheid V2 a i maal de
+geluidsnelheid is. (Thans zien we ineens
+de verklaring van het snelle warm
+worden van den mitrailleurloop: Hier
+ontsnappen de gassen met zeer hooge
+snelheden die zelfs grooter zijn dan de
+geluidssnelheid.).
+Redeneeren wij even door: indien
+we de warmte uit de verbrandings
+
+gassen der steenkolen snel op het water
+willen overbrengen, dan moet de
+temperatuur hoog zijn en de snelheid
+groot. Deze -conclusie bracht de reeds
+genoemde fabriek er toe om een vol
+
+komen nieuw type stoomketel te
+bouwen, die in alle détails verschilt van
+den doorsnee-stoomketel. De snelheid
+of velocitas" speelt daarin de eerste
+rol, vandaar de naam: Velox-ketel.
+
+DE afmetingen van dezen ketel zijn
+zeer klein: de ketel heeft onge
+
+veer 1/30 van de inhoud van een
+normale ketel. Het is dan ook niet
+meer noodzakelijk een apart ketelhuis
+te bouwen. De afmetingen zijn kleiner
+dan de bijbehoorende stoommachine,
+ja zelfs kleiner dan de stoomturbine.
+De veloxketel die bovendien het uiter
+
+lijk van een machine heeft gekregen
+wordt dan ook rustig in de machine
+
+kamer opgesteld en vormt een orga
+
+nisch geheel met de hoofdmachine.
+De gelijkenis van den Veloxketel met
+een machine is echter niet alleen uiter
+
+lijk. Ook de inwendige bouw gaat in
+de richting van een machine.
+De brandstof met de hoogste ver
+
+brandingswaarde en het kleinste volu
+
+me, en die het gemakkelijkste in het
+gebruik is, is de olie. Het spreekt dus
+vanzelf dat de olie de ideale brandstof
+vormt voor den Veloxketel.
+De oliebranders ontvangen van een
+Een Velox-hoogedruk-stoomketel in het gebouw van het Provinciaal Electrisch Bedrijf te Velsen
+specialen lucht-compressor versche
+verbrandingslucht van 3 atmosfeer druk.
+De verbrandingsgassen hebben dus
+naast de hooge temperatuur een voor
+een ketel ongewonen hoogen druk.
+(De drukverschillen in een normale
+ketel worden gevormd door de
+schoorsteentrek die in uiterste gevallen 1/25
+atmosfeer bedraagt). De drie atmos
+
+feer geven zeer hooge snelheden:
+ongeveer 300 Meter per seconde.
+De verbrandingsgassen schieten met
+die snelheid door de ijzeren pijpen. De
+warmte passeert zoo vlug door den
+pijpwand, dat het omringende water
+onmiddellijk overgaat in stoom. De
+pijp wordt dan minder goed gekoeld
+en zou doorbranden. Daarom wordt
+het water dat verhit moet worden
+met kracht langs den pijpwand geperst.
+Men plaatst daartoe eenige van deze
+pijpen in een wijdere buis waardoor
+
+heen een centrifugaal-pomp het ketel
+
+water perst. Zoo dwingt men het
+water te circuleeren. De opstelling
+van deze buis is verticaal, zoodat de
+stoom gemakkelijk naar boven mee
+
+genomen kan worden.
+De gassen ontsnappen na afkoeling
+niet zonder meer door de schoorsteen.
+Ze hebben namelijk wel een lagere
+temperatuur gekregen doch de druk
+is nog aanzienlijk.
+Men kan de energie die met dezen
+druk overeenkomt, uit de rookgassen
+vrij maken door middel van een gas
+
+turbine. Daarin raken de gassen vrij
+
+wel de rest van hun temperatuur en
+druk kwijt, zoodat de schoorsteen
+weinig laat ontwijken, m. a. w. het
+schoorsteenverlies laag is.
+De gasturbine drijft de diverse
+pompen die boven genoemd zijn.
+De opmerking dat deze ketel, wat
+inwendige bouw betreft, op een machine
+gelijkt, is hiermede voldoende toege
+
+licht.
+Men is zelfs bezig met een nieuwer
+type, waarbij in den
+verbrandingshaard regelmatig explosies plaats vin
+
+den zooals in een verbrandingsmotor.
+Kleppen voltooien de machine-voor
+
+stelling volkomen. Men zou hier
+kunnen spreken van een ketel die
+zooveel slagen per minuut maakt.
+Terugkomende op het rendement
+van een ketel blijkt, dat de Velox
+
+ketel een rendement haalt van ruim
+92% en in de nieuwere uitvoeringen
+de 100% gaat naderen. Met den Velox
+
+ketel is het ketelprobleem dus defini
+
+tief opgelost.
+Ten slotte pleit n omstandigheid
+zeer ten gunste voor dit type n.l.:
+men heeft den Velox-ketel met succes
+toegepast aan boord van schepen.
+Hij gaat stellig nog een groote
+toekomst tegemoet. IR. J. BETHLEM
+Nieuwe uitgaven
+WIJ lazen een boek van F. M.
+Huebner: De Geheimtaal der
+Ziel. (Uitgave Boucher, 's-Gravenhage
+1939). Een ander boek van Huebner
+heet: Menschen als Vergif en Medi
+
+cijn", en tot deze menschensoort moet
+de schrijver zelve ook gerekend worden,
+want hij kan een medicijn zijn voor de
+goedgeloovigen, die meenen, dat uit
+de verschillende geheimtalen der ziel
+Huebner verstaat daaronder onder
+meer de adem, de uitdrukking der
+handen, het schrift, de stem, gang en
+lichaamshouding, en andere
+fysiognomische kenmerken een algemeen
+geldig Esperanto samengesteld zou
+kunnen worden. En hij kan gemak
+
+kelijk genoeg een vergif zijn voor die
+eenvoudigen van ziel, die zijn opper
+
+vlakkige bewegingen en lichtvaardige
+conclusies zouden willen bezigen tot
+een levensleer. Dit blijkt genoeg uit
+een zinnetje als dit: Pneumatische
+psychologie brengt haar waarde-oor
+
+deel niet in betrekking tot de
+ikbegaafdheid van een mensch, maar
+tot diens gij-vermogen." Larie en
+bombarie, die de deur dichtdoen.
+PAG. 15 DE GROENE No. 3250
+
+</text>
+<image timestamp="2002:09:13:03:18:06.00" size="307420">D2004C6.TIF</image>
+</page>
+</document>

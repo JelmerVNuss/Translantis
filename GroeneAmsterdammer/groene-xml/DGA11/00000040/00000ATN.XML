@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321217</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De wereld heeft ied
+d
+leaeren
+ag een ander gezicht^^
+dat deskundig en uitvoerig, in woord en beeld,
+in de Groene Amsterdammer" wordt ont
+
+leed en gekarakteriseerd. Ook vindt U in
+de Groene Amsterdammer" veelal
+voorspeld welke gezichten de
+wereld van politiek, econo
+
+mie, financiën, kunst, lite
+
+ratuur en techniek
+morgen of over
+
+morgen zal
+trekken.
+,,^^
+m
+Wilt
+U op de
+hoogte van
+uw tijd blijven,
+neem dan een abon
+
+nement op de Groene
+Amsterdammer". Wanneer
+U zich nu opgeeft als abonné,
+dan ontvangt U kosteloos de nog in
+1932 te verschijnen nummers, waar
+
+onder een bijzondere uitgave die geheel
+aan de Rijpere Jeugd van Heden gewijd is.
+Abonnementsprijs tien gulden per jaar.
+
+VUL DEZEN BON IN
+Kan als-drukwerk worden verzonden
+Aan de Administratie van De Groene Amsterdammer"
+keizersgracht 355 •—Amsterdam C. Giro 72880. Gemeente
+jnsterdam G. 1000. Telefoon 37964.
+dergeteekende wenscht zich van l Jan. 1933
+De Groene Amsterdammer" weekblad voor
+erland te abonneeren en het Kerstnummer 1932
+is te ontvangen.
+(aam:
+'oonplaats:
+BeTons op 37964
+
+</text>
+<image timestamp="2002:09:27:16:14:34.00" size="168532">00000ATN.TIF</image>
+</page>
+</document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381224</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i ,
+40-46
+Jasje
+van geïmpregneerde cheviot in
+aparte streepdessins. - Geheel
+gevoerd met kunstzijde. Maten
+&gt;50
+Bijbehoorende ski-pantalon
+van geïmpregneerde wollen tricot.
+in marine, bruin, royal bleu en
+beige. Maten 38 t/m 48 4 &amp; 50
+zijn er - in de Bijenkorf!
+Aantrekkelijk en kleurig vol fleur en
+leven, opwindend als de ski-sport zelf!
+Ski-pet
+van zuiver wol, die op
+2 manieren gedragen
+kan worden. In wit,
+bruin, marine, groen
+en wijnrood ij^lj
+\
+Windjacke
+voor dames, van geïmpregneerde
+tricoline, met 2 zakken en ircksluitmg. In
+crème, beige, bleu, marine en wijmood.
+Maten 38 i/m 48
+Bijpassende ski-pantalon
+van geïmpregneerde skimellon. In brui
+en marine. Maten 38 t/m 48
+'n Voordeelige combinatie voor heeren.'
+Beige windjacke
+van katoenen gabardine, met treksluiting,
+2 borstzakkeneneiastiekindetaille C90
+SKI-SCHOENEN
+van soepel jucht'cdcr, volkomen
+waterdicht. In bruin.
+Voor dames .
+(in blauw met wit 15.75)
+en voor heeren . . .
+Onze ski-schoenen ziin rondom
+met de hand qenaa;d.
+Bijpassende ski-pantalon
+van geïmpregneerde skimelton. In marine
+en bruin	790
+I.
+Ski-costuum
+van wollen waterdichte gabardme ,
+Vest met treksluiting m mooie kleuren
+
+combinaties: bruin-beige ot beice-bruin
+Donkerbruine pantalon, goede pasvorm
+Vest en pantalon, tezamen
+Leuke ski-kleeding voor jongens
+en meisjes, in diverse maten
+en prijzen.
+
+
+En alles wat er verder nog fot 'n
+complete ski-uitrusting behoort,
+zooais petten, mutsen, slob
+
+kousen, wanten, sokken,
+taschjes, enz. 'vindt U eveneens in
+de Bijenkorf.
+00
+Amsterdam
+Den Haag
+Rotterdam
+
+</text>
+<image timestamp="2002:10:03:02:18:01.00" size="267720">D1000994.TIF</image>
+</page>
+</document>

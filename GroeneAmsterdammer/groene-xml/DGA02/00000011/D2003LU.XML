@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240531</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2450
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+13
+Eerste Jaar Tooneelschool. Klas van Mevr. Kleine—Gartman
+Klaas Vos
+Sophie v. Biene
+Ook voor onze generatie is het portret van Charles
+•de la Mar interessant, meer speciaal omdat hij de vader
+is van den populairen Nap. De portretten van bijna
+alle goede acteurs en actrices van heden ontbreken even
+
+min in deze zoo bfzondere verzameling van den heer
+Crena de Jongh.
+Tenslotte wil ik hierbij nog twee portretten voegen
+van den bekenden en geliefden tponeelspelerTourniaire
+Senior, waarvan een in zijn lievelingsrol van den
+verJoopen baron in Gorki's Nachtasyl".
+Zooals men weet, was de heer Tourniaire stokkedoof.
+Hij leerde steeds het heele stuk uit het hoofd, en repeteerde
+Nu was de heer Tourniaire 2J jaar ziek geweest
+en toen hij daarna voor het eerst weer optrad,
+begon hij met de eerste regels uit het stuk, die de hoofd
+
+persoon zegt nadat hij doodgewaand na twee en een half
+jaar terugkeert: Ziezoo, jongens, daar ben ik wee r", wat een
+donderend applaus ontlokte. Bij zijn veertigjarig jubileum,
+werd hij in zijn geboortestad Dordrecht feestelijk gehuldigd.
+Daar hij van den speech van den heer Crena de Jongh,
+de;1 voorzitter van de Schouwburg Commissie, natuurlijk
+niets zou kunnen hooren en deze gaarne wilde, dat de
+heer Tourniaire zou weten welk een warm hart hijzelf en
+de heele Dordtsche bevolking hem toedroeg, liet de heer
+Crena de Jongh hem voorde voorstellingden speech lezen.
+Groot was de verbazing van de medespelers en speelsters
+van de K. V. Het Nederlandsch Toonee1" en ook van het
+Derk Haspels
+Rosier Paassen
+J. M. Haspels
+Oscar Tourniaire als de verloopen baron in Nachtasyl
+
+
+thuis, met stoelen, die de verschillende personen
+uit het stuk moesten voorstellen. Zijn geheugen was
+enorm.
+Om goed te kunnen invallen hielp hem de wacht"
+natuurlijk niets. Daarom sprak hij met de verschillende
+personen, die in het stuk met hem optraden, een teeken
+afi b.v. aan zijn das komen, langs zijn haar strijken,
+een zakdoek te voorschijn halen, en hij wist dan pre
+
+cies waar en met welke woorden hij moest invallen.
+Een van zijne succesrollen was, behalve Inkwar
+
+tiering", Ultimo".
+Oscar Tourniaire Sr.
+
+heele publiek, toen de heer Tourniaire onmiddellijk deze
+zoo schoone en hartelijke redevoering beantwoordde.
+Iedereen was opgewonden. Men meende,dat dïheer Tour
+
+niaire zijn gehoor had teruggekregen en men juichte en
+zwaaide met zijn zakdoek
+Helaas het had niet mogen zijn.
+De laatste jaren van zijn leven bracht hij in een
+krankzinnigen-gesticht door. Zijne hersens waren te veel ge
+prikkeld door de inspanning, die zijn beroep van hem,
+armen doove, vergde.
+STELI, A MARE
+Louis Bouwmeester
+WHlem Royaards
+Directeur van Lier (vader"
+Eduard, Bamberg
+J.LH. Albregt
+Charles de la Mar
+
+</text>
+<image timestamp="2002:09:03:09:00:36.00" size="344371">D2003LU.TIF</image>
+</page>
+</document>

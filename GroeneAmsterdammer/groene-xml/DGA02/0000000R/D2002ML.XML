@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19051126</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+I) K A M S T E II D A M M E R WEEKBLAD VOOR N E D E R L A N I).
+No. 1483
+HET MINISTERIE, in caricatuurteekening, door Rotgans.
+Th. DL MEESTERSC
+MINIÖTER VAN FINANCIEINK
+MINI5TLR VAN KOLONIËN.'.
+H. R STAAL.
+MINISTER VAN OORLOG.
+WJ.COHLN.STUART.
+MINISTER VAN NARINL.'.
+P.
+MINISTER
+ROTOAN5,
+MINISTER VAN BU1TENL ZAKEIN.
+J. KRAUS.
+NINISTE.R VANWATE.RSTAAT.
+L.L.VAN KAALTE.*.
+niNISTLRvANJU5TITIE. .
+J.D.VLEGENS.K
+MINISTER VAN LANDBOUW, MIJ»
+VERHEID EN HANDEL.
+
+</text>
+<image timestamp="2002:08:22:20:29:21.00" size="286592">D2002ML.TIF</image>
+</page>
+</document>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300719</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+" "T r
+DE GROENE AMSTERDAMMER VAN 19 JULI 1930
+No. 2772
+J* D* STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+lEBRAFENISSEN (naar VERKIEZING net RIJTUIGEN of AUTO'S]
+CREMATIE. - TRANSPORTEN.
+N,V, Meubelmagazijn Eden0
+MOLSTEEG ~ AMSTERDAM
+BOEKENKASTEN
+GERARD-B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN UJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 ~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 82660
+Begrafenissen - Transporten ~ Crematies
+Sensationeele nieuwigheid!
+
+KRUMETV-KAM
+&lt; :.SKBSTCWDlH,IE8HO
+GES. fSH? CtSCH.! *"•.-.' •'•;• • -.11
+l Deie kam onduleert uw haar zonder andere
+• hulpmiddelen, alleen door eenvoudig eiken
+dag te kammen. U bespaart de kosten van
+een kapper en hebt altijd mooi gekruld haar.
+Bevredigend resultaat en onschadelijkheid
+gegarandeerd Honderden dankbetuigingen
+voorhanden o.a. van bekende filmsterren.
+Deze kam is onmisbaar voor iedere dame.
+Solide en duurzaam uitgevoerd met sierlijke
+.gouddruk. Prijs per stuk inclusief porto en
+verzendkosten f 2.—.
+Verzending discreet onder rembours, geen
+•vooruitbetaling.
+M. Beisinger, I&gt;ept. 37. Fach 53.
+
+WIEN 27, Oesterreich
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+RV. v/h, Gebr. BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRAGHT 53
+Ateliers voor reparatien aan
+Uurwerken, Goud en Zilver
+onbons
+BITTER-ZOET
+Klein, maar
+even fijn.
+y///////////////////////^^^
+G. J, DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+CENTRALE VERWARMING.
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+koit slechts f 2.70 per kwartaal
+
+(f 0.20 voor incassokosten) of f 10.
+
+per jaar bij vooruitbetaling.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascales
+,—Lümenmanden
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+USTOFE1S
+meer dan 70 modellen
+
+Prijzen van f 60.-af
+fcu
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:25:22:23:14.00" size="166642">000009EF.TIF</image>
+</page>
+</document>

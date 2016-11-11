@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300215</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 15 FEBRUARI 1930
+No. 2750
+N*V* Amsterdamsche Hypotheekbank
+HEERENGRACHT 581, AMSTERDAM (C.).
+OPGERICHT 1882
+
+Geeft uit: 4'/2 pCts. PANDBRIEVEN
+
+^^ZI in stukken van "
+
+f 1000.-, f 500.- en f
+100*en sluit Leeningen onder Ie Hypothecair verband op
+zeer billijke conditiën. DE DIRECTIE.
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie t
+Ur. H. H. C. CASTBNDIJK. M
+1. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie' en Tnstkantoor
+5en4l%Pandbr.tegen bemskoer* vit.
+Bataafsohe
+Hypotheekbank
+AMSTERDAM
+Geeft uit:
+4,4l2Enb°o paodfan
+tegen beurskoers.
+ARNHE
+/e*e/i ve
+
+MtJ van
+LEVENSVERZEKERING
+DEAM5TEKDAM5CÏ1E
+werkzaam in
+
+Nederland en Nëderlandsch-lndi
+
+heeft van de Nederlandsche Maatschappijen het
+GROOTSTE bedrijf in Indië. Zij, die voornemens
+zijn naar Indiëte vertrekken, doen dus verstandig zich
+voor het sluiten eener levensverzekering te wenden tot:
+
+de AMSTERDAMSCHE.
+
+Amsterdam, N. Spiegelstraat 17.
+Soerabaja, Willemskade 3.
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHAGB
+Vestigingen in Ncderlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China, Japan en Arabic
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS.
+NI DE HAARLEMSH
+HYPOTHEEKBANK
+Leden der Directie: ^f§rr%Sr Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. TH1ERRY DE BYE DOLLEMAN
+
+u , , ,,„,,, ,,„Pandbrieven f 55.890.300
+Hypotheken f 36.001.642.- ReserTe. . . f
+1.005.087.
+•41 en 5 pCt. PANDBRIEVEN tegen LAATSTEN AMSTERD. BEURSKOERS
+JONGEN
+door
+M.
+M. STIEMENS-HOPMAN
+
+(Een doktersvrouw uit het Zuiden)
+Schrijfster van Meisje" en ,.Vrouw"
+Ingenaaid f 2.25 In prachtband f 2.90
+.... diep gevoeld, zal voor vele ouders een openbaring zijn.
+Haagsche Crt.
+Een bijzonder mooi boek, vol fijne gedachten en diepe moe
+
+derliefde. Heldersche Crt.
+Van Holkema &amp; Warendorf's U.M., Amsterdam.
+De HolL Voorschotbank
+
+HAARLEM, KRUISWEG 70,
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op
+zakelyk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5 % schuldbrieven in stukken van f 1000—.
+500,- en f 100.- tegen Beurskoers.
+HOOFDKANTOOR:
+KEIZERSGRACHT 570,
+AMSTERDAM.
+OPGERICHT A9 1894
+DE NV VERZEKERING-MAATSCHAPPU
+
+MERCURIUS"
+VERZEKERT, BEHALVE TEGEN
+INBRAAKSCHADE,ooKTEGEN
+BRAND,ONGEVALLEN-EN WATERLEIDINGSCHADE.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+
+Opgericht in 1864
+
+Maatschappelijk Kapitaal f 10.000.000
+waarvan geplaatst f 7.000.000,
+waarop 10 pCt. gestort.
+Verstrekt teld op eerste hypotheek.
+Voor inltchtin en wende men zich tot
+het kantoor der Bank, Schicdamscht
+Singel 41 te R'dam of tot hare Agenten..
+De Directie s
+Vlr. Th. Reepmaker, Mr. N. P. C. v. Wyk,
+Mr. B. van Rosscm
+N V ZINDER
+HYPOTHEEKBANK
+5 pCt.
+
+Pandbrieven
+a 101 pCt.
+Directie :
+Mr.AUG. L. HEIJBROEK
+Mr. K. A. NRDERLOF
+
+</text>
+<image timestamp="2002:09:21:01:22:56.00" size="141310">000007WD.TIF</image>
+</page>
+</document>

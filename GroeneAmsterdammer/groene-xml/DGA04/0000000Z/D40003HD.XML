@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210430</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DUITSCHLAND'S VERZOEK AAN AMERIKA
+BIJVOEGSEL van .De Amsterdammer", Weekblad voor Nederland van 30 April 1921
+Nadruk verboden
+"" •
+* i- "* ^Vft^V, =,-, ^"fcv * *-&lt;• ~ *• -5WS-V
+?" •« ^.-""-""""" - v"^xW« T^^^JJ^T^r v~
+Amst. Boek- en Steendrukkerij, v'h. hllerman, Harms &amp; Cc.
+
+Ge r man i a: In '18 heeft die man met zijn uitgestreken tronie mij de dampen aangedaan. Zou hij mij
+
+nou uit de misère helpen?"
+
+</text>
+<image timestamp="2002:08:24:11:51:37.00" size="715244">D40003HD.TIF</image>
+</page>
+</document>

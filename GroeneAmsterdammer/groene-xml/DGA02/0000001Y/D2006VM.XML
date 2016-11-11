@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331007</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 7 October 1933
+N o. 2940
+K.
+u* '
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v/h Gooi)
+l*. C. Hooftstraat 38 Brinklaan 138
+Tel. 2O341 2425O MMMHM Telefoon 2276
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+flietseveticidrt...
+een vroolijken lach! De attractie van Uw
+ongedwongen lach wordt verhoogd door
+de wetenschap dat U een gaaf en blank
+gebit toont. Colgate's tandpasta geeft die
+zekerheid, omdat zij met voorbeeldige
+grondigheid mond en tanden zuivert van
+alle infectiehaarden. Bovendien heeft zij
+een aangenaam aroma en houdt den adem
+frisch. Wie minstens tweemaal daags
+Colgate's tandpasta gebruikt, geeft zijn
+gebit de juiste behandeling en in
+zijn vroolijken, ongedwongen lach komt
+het zelfvertrouwen tot uiting, dat hem
+door Colgate's tandpasta werd gegeven.
+COLGATE'S TANDPASTA
+STEUNZOLEN
+SYST. PROF. HOFFA/
+NAAR MAAT"
+Fa. J. A. MASSING
+
+O. Z. Voorburgwal 334
+
+Amsterdam C.
+
+over hét Binnengasthuis
+AAN
+INZENDERS
+VAN MANUSCRIPTEN
+
+wordt verzocht bij hun
+bijdragen een gefran
+
+keerd briefomslag met
+adres van den afzender
+in te sluiten.
+October 1679
+Le Triomphant", het vlaggeschip
+van Admiraal d'Estrées, loopt de
+haven van Brest binnen. Het heeft
+de eerste cacao aan boord, ge
+
+wonnen op 't eiland Martinique.
+
+De gemalin van Lodewijk XIV,
+introduceerde die cacao ten hove.
+Dat was het begin van een ware
+triomftocht der cacao door de be
+
+faamde Fransche salons van dien tijd.
+
+Thans, twee - en - een - halve eeuw
+later, gaat in Nederland de lof
+der salons uit naar de voortreffe
+
+lijke Droste's Verpleegster Cacao.
+Verlaagde prijzen.
+1/1 Kilo f 2.—1/2 Kilo fl.10
+l'4 Kilo f 0.60 l 10 Kilo f 0.28
+ROSTE
+ALT IJ D WELKOM!
+Spaart plaatjes voor het album Bali".
+
+</text>
+<image timestamp="2002:09:26:21:47:53.00" size="326415">D2006VM.TIF</image>
+</page>
+</document>

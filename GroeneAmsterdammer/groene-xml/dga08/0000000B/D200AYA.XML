@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340609</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De dwaze leeraar is een zoo opmerklijk man,
+Dat men hem in 't gesprek terstond herkennen kan.
+Hij is eraan gewend per se gelijk te krijgen,
+Te spreken, lang en luid, terwijl de andren zwijgen;
+Dat voorrecht valt hem buiten school niet vaak ten deol,
+Derhalve spreekt hij daar te weinig of te veel
+Te weinig, als hij door een druk gesprek ontstemd wordt,
+Te veel, als hij niet door bescheidenheid geremd wordt.
+De wijze leeraar houdt zich van'die fouten vrij,
+Hij onderscheidt de school van huis of maatschappij,
+Zoodat hij niet direkt laat merken wat zijn vak is,
+En ook in den salon volmaakt op zijn gemak is.
+Zijn haar is dun, en min of meer summier gekemd,
+Naar maat is zijn kostuum, maar niet zijn overhemd.
+Hij 's netjes op zijn pak,' zijnUinnen en zijn handen,
+En in den laatsten tijd verzorgt hy ook zijn tanden.
+Hij is een bastaard-beest, half leeuw en hallef haas,
+De koning van de klas, de dienaar van den baas,
+Die hem bevelen kan, ook zonder"t' overtuigen
+Hij moet dus meester zijn in 'fc heersenen en in 't buigen.
+Niet zelden heef t'hij zoo zijn Tasten term of tiek,
+En doet Jan Smit hem na, dan lacht de kluit.zich ziek.
+De eene leeraar houdt ook zonder straffen orde,
+Bij d' ander is de klas haast ieder uur een horde;
+De eerste zingt; zijn werk bevalt hem wonderwel,
+De tweede vloekt zijn vak; hij leeft als in de hel.
+Hij pleegt niet overmatig veel belang te stellen
+In eenig vak van zijn geachte ambtsgezellen,
+Doch daar hij 't zijne als een blonde bruid bemint,
+Verbiedt hij, dat een knaap dat net het'lamste vindt;
+Maar een bekwaam docent kan elke stof doceeren
+Zoo dat de jongens juist zijn lessen 't liefste leeren.
+. Soms heeft hij zich van onderwijzer opgewerkt,
+Hetgeen men dan nog wel eens aan zijn uitspraak merkt;
+Maar eere komt hun toe, hun, die het zoo ver brachten,
+Door rusteloos geblok in elapelooze nachten.
+Het leeraarstractement verschaft geen ruim bestaan,
+Dies vult hij 't lage loon door lessen geven aan,
+Of jongens in de kost, waarvoor hij braaf berekent,
+Maar dat voor hem 't gemis aan huislijkheid beteekent,
+En 't is zijn werk hun werk nauwkeurig na te gaan,
+Want als de luilak straalt, dan heeft meneer 't gedaan.
+Hij heeft een schoonen droom: mijn jongen zal studeeren !
+En daarvoor wil hij heel wat levensvreugd ontberen.
+Geen reis. Geen schilderij. Geen schouwburg. Geen concert.
+En menig leeraarszoon, die zoo hoogleeraar werd.
+"Wil, zoon, aan dezen zin je volle aandacht schenken,
+En vader tot je dood in dankbaarheid gedenken.
+De leeraar is docent, maar ook pupil hij leert.
+Hij leert vooreerst zijn vak, waarin hij staag studeert,
+Tenminste, als hij op de hoogte wenschfc te blijven,
+Maar andre dingen nog, niet maklijk te omschrijven,
+Als: zelfbeheersching, takt, geduld, rechtvaardigheid;
+Wie op dio punten faalt, veroudert voor zijn tijd,
+Verslapt, verleert de kunst, de klasse te regeeren,
+Verkwijnt, en laat zich op een aalmoes pensioneeren.
+Zijn werkkring houdt hem hoopvol, jong en optimist.
+Hij voelt zich door zijn omgang met de jeugd verfrischl.
+Hij staalt zijn eigen geest, door zelf de spreuk te leeren,
+Gegrift in 't jonge hart: hou moed, het kan verkeeren.
+Mijn ideaal-docent doceert den goeden smaak,
+En brengt, door dus te doen, verdieping in zijn taak,
+Want als de klas dit voelt, is 't geestelijk contact 'r,
+Dan voedt hij waarlijk op, dan vormt hij het karakter.
+Een slechte leeraar kan voor later weinig kwaad,
+Omdat zijn heugenis alras verloren gaat,
+Maar wat een goed docent zijn jongren heeft gegeven,
+Zal hun ten zegen zijn voor heel hun volgend leven.
+
+</text>
+<image timestamp="2002:10:28:14:42:11.00" size="204908">D200AYA.TIF</image>
+</page>
+</document>

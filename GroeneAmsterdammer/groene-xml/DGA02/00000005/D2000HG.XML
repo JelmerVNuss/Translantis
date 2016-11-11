@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000520</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1195
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Een gemeene streek.
+Yves Guyot den tof der Enge'schen tlazende.
+(La Silhouette, Paris).
+Ondankbaren ! Raeds honderd jaren voer je oorlog met mij en je hebt
+nog niet geleerd me lief te hebben. (Fuehietto).
+KONING VAK POBTUGAL : «Daar rekent h\j niet op!"
+
+De vorstenbljeenkomst te Berlijn.
+De Beira-zaak. (Lwt. Si fitter).
+Heidenröslein.
+HS (tot rte(n) Vrede): »Zeg, luije, den K je iuet, UMI ze
+hier een tweede editie geven van de Haagsche conferentie,
+met veel rumoer om niemendal V
+Geloof maakt zalig.
+(JLiichtt, Warschau.)
+Nn de liritsche leeuw hicneukoiut, klimmen de l'ortugeesctie apen vol
+schrik in de boomen.
+»Kh.i i- -.prüi'h : leh hri-fhi- Uieb,
+Rii-lein auf der Heiden !
+IlcHl-ir (jprffh : »Ich stpchc Dich,
+Pass Du e"ig denkst an mich,
+Uud icfc wiil's nicht leidor.."
+(OOETIIB).
+S'rategische bewegingen. (P«&gt;&lt;^ ino).
+/uu dit nu al 11 M na ziji; '.'
+Landheer KBÜGEJI : »Nu, hoe staat het
+snet on^fi aanplantinger ?"
+Tuinman BOTHA : »0ch. hipr ii. dit ge
+
+deelte goed, als di'uir de orarjes miar i iet
+•verrotten en afvallen."
+(Lustige BliHter).
+Partifiil/er Telegram: LT.i Kl"&gt;-•iifniitHin wordt gemeld
+dat Ltmf Kotterta t!e EügelMUin Civalleirie weder voor
+den di«DSt heeft guschikt trei.'.-tak: -mr een nieuw soort
+paarden in te voeren, die het Alrikaansche klimaat =-y
+kunnen verdragen. (Jagend).
+^*fWV:~' K,
+i .öfer \*:..--' .^s£
+s£.'''J^.&amp;ti^^--^^**SZ3ZK:- &amp;£,;.»&amp; -s^f/i &lt;:?-&gt;• r-j,'; :» i
+.
+1 ,,t;t td verklaren is Ja . ,.Itneid-j U w.-g.nt. (ra .virnfi.'O girar s n gentraal
+Roberts er nog niet in geslaagd i- a« buuren te omsingelen en onschadelijk ta maken.
+
+</text>
+<image timestamp="2002:08:14:14:05:55.00" size="456184">D2000HG.TIF</image>
+</page>
+</document>

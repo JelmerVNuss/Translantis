@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19311219</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+. •
+Het lot van den haas in den loop der eeuwen
+door Cornelis de Haas Jr.
+)E mensch heeft in den loop der-eeuwen mastodont gegeten,
+__ kikkerbilletjes, zwaan, eekhoorn en dinosauros. Hij is telkens
+teruggekeerd van de dwalingen zijns weegs, maar nooit van het eten
+van haas. De haas is gegeten sedert Adam en Eva strikken moesten
+zetten; wanneer men morgen een Egyptische papyrus over de
+kookkunst vindt, zal er een recept van haas in staan.
+Ziehier eenige bewijzen den haas ter eere:
+In Rome. Uit: Apicius Caelius: ,,De Arte Coquinaria" -^ 230—260
+n. Chiv
+Haas met saus. Dezelve wordt, gelijk het gerecht genaamd de
+Tarpejaansche geit, te voren gekruid. Alvorens men hem kookt
+wordt hij sierlijk dichtgenaaid. Peper, wijnruit, boonekruid, uien en
+eenige thijm begiet men met een weinig vleeschsap, doe het dan in
+den oven en kookt het op. Het vulsel vermengt men met specerij,
+zijnde een lood peper, wijnruit, uien, boonekruid, vier dadels en
+rozijnen. Wanneer de kruiden getrokken zijn, giet dat dan in de pan,
+met wijn, vleeschsap en ingekookten wijn, roer het naar behooren,
+dat alles goed met de gevulde haas doorkookt. Daarna wordt hij op
+een ronde schotel droog met peper aangericht en zoo gebruikt.
+In de vroege Middeleeuwen. Uit: Le Yiandier de Taillevent,
+maistrequeux du roy de France, notre sire Charles Ye.
+Bousac de lyevre. Hallez les en broche ou sur Ie grail puis les
+découppez par membres et frisiez en sain de lart puis prenez pain
+brullé, du bouillon de boeuf et y mettez vin et coullez et faites bouillir
+et puis prandre gingembre, canelle, girofle et grain de paradiz et
+deffaictes de vertjus; et ne soit mie trop lyan".
+In de zestiende eeuw. Uit: Een notabel boeccke van cokeryehet welck
+bewyst alle spise te bereiden elck na sine staet het si in bruylochten
+in feesten bancketten oft andere maeltyden besondere en het es eenen
+ieghelykeri van grooten noode te hebben die syn dinghen ter eere doen
+wilt" ± 1510.
+Om te maken een bipeper tot hasen. Men sal nemen eenen hase
+Middeleeuwsche keuken
+.Romeinsche keuken
+
+
+ofte oock calfvleesch ofte verckens vleesch dat moet ghebraden zijn
+aen eenen spet ofte op eenen ruestere. Dan daerna moet men ontleden
+ende in eenen pot wel stoven in swinen smoute ende in wat vleeschsops.
+Dan suldy nemen broot ende vander leveren van den voerseyden
+vleesche. Dye suldi al te samen myngelen ende dan fruyten aiuyn in
+swinensmout. Dan doeghet al in eenen pot tsamen. Dit syn die
+speciën daar toe dienende caneel, greyne, groffels naghelen, noten
+muscaten. Dit minghet te same met azine dan eest gemaect.
+In de zeventiende eenw. Recept toegeschreven aan Gaston Phoebus,
+Seigneur de Béarn,
+Men moet een schoone berghaas nemen, pas geschoten en nog
+warm, hem opmaken en het bloed bewaren. Verdeel de haas in zijn
+onderdeden, neem een vierdel pond spek, uien, thym, wilde thym,
+knoflok, zout, peper en doe het tezamen in een koperen pot; giet
+daarin een liter sterke Spaansche wijn, hang de pot laag aan de haak,
+in een vuur van droog rijshout of kleine takkenbossen, opdat de wijn
+ontvlamt zoodra ze kookt. Als die brand gedoofd is, voeg er dari een
+vierdel pond boter, in meel gewenteld bij, kook de saus in en doe het op.
+Inde achttiende eeuw. Uit: De Nieuwe In- en Buitenlandsche Koek,
+of voor een ieder in 't algemeen zeer nuttig en kundig kookboek.
+Een gebradene Haas, met Zuur-kool, Oesters en Morilles, De haas
+moet zindelijk gepraepareert, fijn gelardeert en gebraaden worden,
+dan een goede Zure-kool gemaakt en ten laatsten Oesters, Morilles
+en wat zoete Room daarbij, daarmede nog een weinig doorgekookt
+zijnde, zoo is het goed. Men kan de kool in de Schootel doen, en den
+Haas daarop leggen, ofte men kan de gebraadene Haas een paar maal
+doorkappen en met de kool een weinig laten doorkooken en aldus ter
+Tafel zen.den.
+Fotos Merkelbach
+
+</text>
+<image timestamp="2002:10:28:03:10:21.00" size="504766">D200AL9.TIF</image>
+</page>
+</document>

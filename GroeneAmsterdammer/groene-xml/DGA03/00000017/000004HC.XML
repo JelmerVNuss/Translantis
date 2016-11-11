@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100807</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na 1728
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De Techniiken van het Kunttnaaldwerk,
+door I. VAN EMSTEDE WINKLER. 8. van
+Looy, Amsterdam, 1910.
+Al weder «ene nieuwe bydrage tot de be
+
+langrijke litteratuur, die ziek heeft gevormd
+op het gebied van het Kunstnaald werk sedert
+de herleving der belangstelling in. dezen kunst
+
+vorm voor na ruim vyf en twintig jaren.
+Terecht herinnert de heer Berden, directeur
+der Rijksschool voor Kunstnijverheid, in het
+Voorwoord, waarmede hjj dit werk inleidt
+bjj bet groote publiek, aan het vele dat in
+dit tijdsverloop is veranderd, en ten goede
+veranderd. Hoe onbeholpen waren toen nog,
+tengevolge van het verloren gaan der traditie,
+door onbruik en onverschilligheid, de hand
+
+grepen, waarvan men zich bediende, hoe af
+
+gesleten de patronen, waarnaar men werkte,
+hoe gebrekkig de materialen, waarvan men
+gebruik maakte. Wie dacht toen aan de rjjke
+verscheidenheid in Boort en kleurschakering
+van de bordnurdraden en weefsels, die de
+industrie thans in verlokkenden glans voor
+ons beschikbaar stelt ? Wij meenden dat alleen
+helder rood en krachtig blauw vantoepassing
+waren op waschbare stoffen en'spraken toen
+van blauw borduren" dat reeds eene groote
+afwisseling was bjj het eenwige wit borduren
+en onvermijdelijke tapiseeriewerk. Wjj luister
+
+den met eenige verbazing toe, als de heeren
+Taurel en de Krnyff, wier namen zeker niet
+mogen worden vergeten,- als van eenen keer
+der dingen op dit gebied wordt gesproken,
+ons vertelden van vlakornament," van or
+
+namentleer," van gestileerde vormen."
+De door hen met de meeste beslistheid
+geformuleerde eisch, dat de bordnnrster
+moet kunnen teekenen, scheen eerst zoo
+overdreven; en thans weet iedereen wel,
+dat zonder vaardigheid in het teekenen b
+het kunstnaaldwerk niets deugdelyks kan
+worden bereikt. Wat was het eene open
+
+baring van ongedachte ccb.oonb.eid voor die
+
+genen onzer, die het knnstnaaldwerk lief
+hadden als bjj instinct, en die zich haastten
+om zich te laten inschrijven voor de kunst
+
+naald werkklasse aan de Rijksschool voor
+Knnstnyverheid, zoodra deze werd geopend
+onder leiding van mevrouw van Emstede
+Winkler, om toe te zien bij de technische
+vaardigheid, die deze leerlinge van de be
+
+roemde kunstnaaldwerkschool te Weenen ons
+te aanschouwen gaf; om schoonheid van lijn
+en kleur door vergelijking te leeren begrijpen
+bij de onder haar oordeelkundig toezicht
+ondernomen restauratie van kostbare antieke
+werkstukken.
+Sedert is door verbeterde hulpmiddelen,
+door de impalsie uitgegaan van tal van ten
+
+toonstellingen), door de systematische oplei
+
+ding waartoe- de op aandrang der Vereeniging
+Tesselschade ingestelde Staatsexamens heb
+
+ben geleid, door de rqke litteratuur, door de
+krachtige medewerking onzer
+Industriescholen, door oordeelkundige bestellingen van
+particulieren eene hoogte van volmaking in
+techniek, in klenrenkens en in ontwerp be
+
+reikt, waardoor de oude toestanden van voor
+r «i m een kwart eeuw geheel zjjn te niet
+gsdaan. De ernst, waarmede heer Tanrelin
+de eerste uitgaven van zyo bekend werk De
+Aesthetifk der Vrouwenhandwerken nog streed
+en strijden moest tegen paardenkoppen met
+glazen kraaltjes in de oogen op pantoffels:
+UIT DE NATUUR.
+
+CCCLXXXVII. Over de Echo.
+Mijnheer H... en mag ik n meteen heel
+vrijpostig "eens iets vragen. Ik kom er top,
+doordat n my' al meer dan eens in de Groene
+stndiezaken helder hebt gemaakt, die my
+half of bijna heel duister van school waren
+bijgebleven. Uw manier van uitleggen...
+enz., daarom, mynheer als u eens weer uw
+stukjes over planten, dieren en delfstoffen
+wilt afwisselen met een artikel over wat
+anders nit de natuur, zou n dan eens enkele
+proeven willen verklaren, die ik nooit heb
+kunnen begrijpen, niet op de les en niet uit
+het boek; waargchynly'k ligt het aan my,
+want de meeste andere jongelui uit mijn
+klasse begrepen het wel; of ze deden maar
+zoo. En .nu is my'n dochter al weer zoover
+en vraagt my' om licht; zy heeft blykbaar
+het gebrek aan begrypvermogen voor
+physicaproeven van haar moeder geërfd. Ik bedoel
+diéproeven, waar je nooit iets van ziet, die je
+alleen leert nit het boek of die je gedicteerd
+worden, p. a. die over de snelheidsbepaling
+van het licht, met het wiel van Fizeau...
+Mevr. C. C. D—F.
+
+De brief, waaruit ik dit laat zetten, ligt
+my al een paar maanden te kriebelen. Ik
+heb dadelijk en heel beleefd, zooals het op
+zoo'n vleiend schrijven past, geantwoord, dat
+ik het gaarne eens wilde probeereu. Wat nu
+zoo heel veel niet beteekent, al maakt ook
+voor my belofte schuld; want als ik op de
+ry af my'n beloften in deze ging vervullen,
+was mevr. D.—F. in de eerste driejaren toch
+nog niet aan de beurt. Maar die mevr. is een
+taaie, die my zoo nu en dan en bepaald
+geestig mijn belofte tracht te herinneren en
+zelfs kleine-menschen-prikkeltjes niet ver
+
+smaadt als: spijtbetuiging iets gevraagd te
+hebben dat boven uw vulgariseer-krachten
+gaat," dat een op zich zelf goede methode
+natuurlyk niet voor allen pasklaar is te maken"
+en zoo meer. Daarom in vredesnaam het rad
+van Fizeau.
+Het is een mooie natuurkundige proef,
+een van de belangrijkste, die er ooit genomen
+zijn en tevens wel een van de zuiverste en
+vernuftigste en ingewikkeldste die er ooit
+bedacht zyn. Moeilijk te begrypen is de proef
+zeker, dat heb ik by het examineeren meer
+
+malen gemerkt, als iemand die het behoorde
+te weten en ook meende- het te weten, er de
+kluts bij kwy't raakte, zoodra meer dan woor
+
+den uit het boek werden geëischt. Ik zal
+evenwel trachten de zaak ook duidelijk te
+maken, voor iemand die nog weinig of niets
+van physica weet; en daarby' mijn oude
+beproefde methode volgen, nl. doen of de
+lezer er nog volstrekt niets van weet,
+bouwen op iets dat iedereen weet, ty'd en
+ruimte niet sparen, maar heel uitvoerig
+zjjn en toch alles weg laten, wat voor het
+begrip niet strikt noodig is.
+In zoover blijf ik hierbij zelf experimenteel,
+dat ik zoo iets mijn lezers niet voorzet, alvo
+
+rens op een onwetende de proef genomen te
+hebben met my'n opstellen.
+Zoo heb ik het voordeel, dat lezers die al
+wisten, wat ik te vertellen heb, misschien
+beter dan ik zelf, toch eenig genoegen kunnen.
+vinden in de manier van exposeeren en
+tegen hoog opgewerkte, keurig geschoren
+poedelhondjes op vloerkleeden en voetkussens:
+tegen de traditioneele, zorgvuldig en precies
+op gaas afgetelde bpnqnetten, die dan, achter
+glas en houten omlijsting gevat, dienst deden
+als schildery: tegen ragfijn witbordnursel,
+zoo fijn, dat men niet kon zien, hoe het
+gemaakt was", wat toen als hoogste lof
+
+spraak gold, maar waarbij dooi het krie u welige
+karakterlooze patroon het effect in geenen deele
+beantwoordde aan de daaraan besteedde in
+
+spanning en den verbruikten ty'd, die ernst
+wekt büeene tegenwoordige lezeres slechts
+eenen ongeloovigen, spótachtigen glimlach.
+De jongeren onder ons kunnen het zich
+eigenlijk &amp;,\ niet recht meer voorstellen, dat
+zy onderen die soort van dingen werkelyk
+hebben gemaakt, en mooi vonden; er
+zelfs trotech op waren. Maar onder die onderen
+is er menigeen, die het dankt aan de lessen
+van mevrouw Van Emstede Winkler en
+laat ik er büvoegen aan de colleges van den
+heer De Krnyff, destijds directeur der Rijks
+
+school voor Kunstny verheid, dat zy beter
+heeft leeren onderscheiden, nieuwe wegen
+heeft leeren gaan, meer bewust heeft leeren
+arbeiden.
+Voor dezulken vooral is het werkje van
+mevr. Van Emstede Winkler een welkom bezit.
+Zooals de titel aangeeft, beperkt het zich
+tot wenken büde technische uitvoering en
+mét eenigen spy't missen wübier, ter illu
+
+stratie van de toepassing, afbeeldingen van
+eenige dier schoone werkstukken, zpoals zy'
+•in den loop der jaren onder leiding van
+mevrouw Van Ernst ede in grooten getale zijn
+vervaardigd en waarvan ik er verscheidene
+heb mogen opnemen in my'n geschrift de
+Borduurkunst. I k denk daarby' ook aan nieuwere
+kunstwerken nit de school van mevr. Van
+Emstede als het prachtige borduursel voor
+de wieg van prinses Jnliana, dat algemeene
+bewondering heeft gevonden. Misschien laat
+de schrijfster op dezen eersteling nog eens
+een tweede deel volgen, waarin ook de
+ornamentiek in verband met grondstof en
+techniek wordt behandeld. Voorloopig moeten
+wüons vergenoegen met eene schets der
+technieken alleen en erkennen, dat de illu
+
+stratie daarvan, alles naar oorspronkelijke
+teekeningen, bijzonder fraai is, evenals de
+druk en de geheele vorm van uitgave. De
+hoofdvormen waarvan de verschillende
+talry'ke fantaisiesteken en modevormen zijn
+afgeleid vinden wy hier alle vertegen
+
+woordigd : de kruissteek en zyne varianten
+in het rechtlijnig borduren", zooals mevrouw
+Van Emstede met eenigszins Duitsch getinte
+woordenkeus het noemt, het knoopwerk
+in het macramé, het openwerk in punto
+tirato en Perzisch openwerk, het
+goudborduren in tal van vormen, het kant werk in
+punto a reticelta en Brusselsche kant, het
+fijne zy'de borduren in het Japansch vlak
+borduren en in kleurig Arabische borduur
+
+sel, etc. etc. Eigenlijk hadden wügaarne
+nog iets gekregen omtrent het nobele antieke
+doorgestopte filet-werk; het typische
+Hardanger en Hedebo werk, het karakteristieke
+erewel werk; maar die technieken laten zich
+büeenig nadenken toch alle afleiden van de
+in dit boek voorkomende hoofdvormen en
+als vergoeding kregen wüiets geheel nieuws,
+namelijk het piquéborduuren, waarby eene
+lichte vulling wordt geschoven tusschen twee
+op elkander gelegde stoffen. Eaoe fijne be
+
+werking in tint en kleur hetzij van het
+ornacomponeeren,een genoegen dat eenigszins over
+
+eenkomt met het naspelen van een interessante
+party schaak. Ook hierbij is geduld vereischte
+en wat schijnbaar niets met de zaak te maken
+heeft, blijkt later een nuttige en noodige
+voorbereiding te zijn geweest. Zoo begin ik
+ook nu met iets anders.
+Herinner u even een echo, die ga hier of
+daar gehoord hebt; ge stond toen tegenover
+een muur, een heuvel, een dennenbosch of
+boven een put; uw woorden, de gilletjes of
+uitroepen werden tegen dien steen-, zand-,
+houten- of watermuur gegooid en door die
+vasten wand naar u terug geslingerd. Natuur
+
+lijk niet de woorden, het geluid of de klanken;
+hoe kun je klanken gooien of voortschieten?
+Alleen iets, wat gewicht" heeft, kan wegge
+
+gooid, door veerkracht teruggeworpen en
+weer opgevangen worden, een steen, een bal,
+een prop papier; een klank weegt niets, en
+kun je niet weer opvangen en stellig niet
+tegen een klein trilvliesje in je oor.
+Het is allemaal beeldspraak, ingegeven
+door een treffende overeenkomst met waar
+
+genomen verschijnselen; het feit dat er een
+wand of muur noodig is, indien de echo
+opgemerkt zal worden, en ook dat er tijd
+verloopt tusschen het gaan en het terugko
+
+men, tnsschen het hooren spreken door den
+mond en daarna door den muur, wekt op
+het hooren van een echo van oudsher by
+iedereen de gedachte aan een weerkaatsing,
+gel ij k aan die van een bal loodrecht tegen
+een muur geworpen.
+Vraagt ge u zelf by zoo'n gelegenheid, wat
+dan eigenlijk wel van u wordt
+voortgeslingerd en naar u teruggeworpen, dan antwoordt
+ge dadelijk: het geluid kan het niet zijn, dat
+is iets geest el ij ks, dat in ons zit; het bestaat
+alleen inwendig, in het hoofd van den mensch
+en de meeste dieren. Op het oogenblik dat
+alle menschen en dieren ophouden te bestaan,
+is ook het geluid verdwenen, e veneens indien
+alle menschen en dieren volslagen doof wor
+
+den. Maar zoo het geluid niet wordt
+teruggegooid, dan toch iets, dat met het geluid in
+verband staat; en nu herinnert ge u wel
+gelezen -of gehoord te hebben, dat zonder
+lucht geen geluid kan worden waargenomen,
+dat er in het luchtledige volkomen stilte
+heerscht. In de hoogere y'le luchtlagen be
+
+gint dit al merkbaar te worden. En inderdaad
+wat wordt gegooid, teruggekaatst, is lucht,
+een bal, een prop lucht of eigenlijk een heele
+rist uigegooide luchtproppen. Door de spier
+
+werking, den stoot bij het spreken, wordt de
+lucht voor den mond in elkaar gedrukt tot een
+prop ; die ontspant zich en drukt daarby weer
+de aangrenzende lucht inén, en zoo verder
+en verder. Zoo beweegt zich schijnbaar de
+eerste prop voort en zoo worden er in
+werkeljjkheid tot aan den kaatsmnur toe, ineen
+rechte lijn, proppen gevormd. Stoot de laatste
+veerkrachtige prop eindelijk tegen den muur,
+dan begint die schijnbaar trillende of golvende
+beweging op nieuw, maar nu in de richting op
+u toe.
+Het spreekt van zelf, dat zulke luchtballen
+of luchtproppen naar alle zijden worden
+voortgedreven als de waterstralen nit de
+gaatjes van een gieter met bollen mond ; niet
+alleen naar den wand, die de echo zal geven •
+immers ge kunt het gesproken woord bijna
+evengoed hooren als ge naast en boven den
+spreker staat, minder goed achter hem.
+ment, hetzy van den achtergrond, kan het
+geheel nog op eene zeer bijzondere wyze tot
+zyn recht doen komen, zie flg. l en flg. 2.
+Maar men zij hier zeer voorzichtig en houde
+strenge rekening met de eischen van het
+vlakornament; alleen een geoefende smaak
+zal hier iets werkelyk fraais tot stand kunnen
+brengen.
+JOHANNA W. A. NABEH.
+Hllllllllllllllllllllllllll
+ALrLrEÏ^ErEL
+Aan zee.
+Het haar, kostbaar sieraad, dat het
+vronwelijk gelaat bekroont, eischt om zijn schoon
+
+heid ongerept te bewaren, veel zorg.
+Maar in het bijzonder moet het kapsel met
+groote omzichtigheid behandeld worden aan
+het strand der zee, want het vocht-, zout en
+stofgehalte der lucht is daar sterker dan
+ergens elders, en deze drie elementen zijn
+zeer tchadely'k, zoowel voor de kleur als voor
+den glans van het haar. De hygiënisten heb
+
+ben echter ook voor dit euvel een uitmuntend
+tegengif gevonden, en alle schadelijke gevol
+
+gen worden afgevend door wasschingen met
+gekookt regenwater of een zwakke oplossing
+van borax, een dessertlepel op een kwart
+liter water. By warm weer moet het haar altijd
+door de lucht gedroogd worden, waarbij ook
+de waaier goede diensten kan bewijzen.
+Massage met de vingers is bevorderlijk aan
+het bevaren van den glans.
+* *
+*
+De inhoud van een potlood.
+Weet ge hoeveel prentbriefkaarten er ge
+
+schreven kunnen worden met een enkel
+potlood ? Men heeft bewezen, dat een
+normaalhard, goed potlooi in staat is viermaal
+honderdduizend woorden op het papier te
+brengen. Een gewone prentbrief kaart, gelijk
+we die van pleizier-reizigers plegen te ontvan
+
+gen, voorzien met een korten groet en een
+onderteekening, bevat met het adres mede,
+gemiddeld 10 woorden. Men schrijft dus
+met n enkel potlood 40000
+prentbriefkaarten, die tegen 3 ceuts per stuk berekend,
+een som vertegenwoordigen van 1200 gulden.
+Van een bekend Engelsen novellist verhaalt
+men, dat hu n zijner romans geheel vol
+
+tooide met n enkel potlood. Hy ontving
+voor dezen romans een honorarium van 400
+pond sterling of ƒ 4800. Het potlood dat hem
+10 cents kostte, bracht dus een rente op van
+48000 procent. Beter geldbelegging is zeker
+wel niet denkbaar.
+* *
+#
+Bloemenspraak.
+In 't klassieke land van kunst en poëzie
+büuitnemendheid, in het herboren Grieken
+
+land, wordt onder jonge mannen en vrouwen
+bizonder veel werk gemaakt van de
+bloementaal, die er zich tot een fijn en
+rijkbewerktuigd geheimschrift ontwikkelde. Minnenden
+kunnen in 't voorbijgaan op straat elkander
+alles zeggen door een bloem of een combi
+
+natie van bloemen in de band, op jas of
+blouse, in 't haar of op den hoed gedragen,
+even uitvoerig, voor hen die goed verstaan,
+als een lange brief, of een geheim gesprek
+van 't balkon by maneschijn, wat niettemin
+ook zeer romantisch is. Wenscht een meisje,
+dat haar aanbidder 's avonds bij een vriendin op
+de thee haar ontmoeten zal, dan draagt ze een
+half-ontloken knop van een theeroos,
+veriiiiijiiiiiimiiiiiuMiiiMiiiiiiiiiiiiiiiiiimiiiiiimniiiiiiiiiiiiiimiiiiiimiii
+Maar wij hebben voor ons doel het door
+
+gronden van wat er eigenlijk gebeurt in
+de eerste plaats te letten op de Inchtproppen,
+die in de richting van den echo-wand worden
+voortgejaagd.
+Dat kunnen we voor ons zelf en anderen
+ook, wel eenigszins tastbaar of zichtbaar maken,
+door ons voor te stellen, dat die lucht door een
+nauwe buis werd gedreven. Neem maar een zeer
+lange en zeer nauwe en nogal dunne elastieken
+slang, die horizontaal is opgehangen; aan
+het eene eind ia een blaasbalg bevestigd, het
+andere eind rust loejej tegen den verren
+muur. Drukken we snel en krachtig de
+blaasbalg samen, dan zwelt vlak voor den
+mond van de koperen pijp door de luchtdruk
+de elastieken slang op tot een bal of prop,
+het gerekte elastiek trekt weer samen en
+drukt de lucht weer ineen, zoodat een
+oogenblik later een eindje verder dezelfde, ofschoon
+iets zwakkere zwelling ontstaat, een oogenblik
+later weer verder. Wie op een afstand staat,
+ziet de luchtprop in de slang voortglijden of
+zich voortplanten; toch is dit voortgaan
+slechts schijnbaar, er valt misschien vooraan
+bij de blaasbalg eenige verplaatsing voor,
+maar ook dit is niet zichtbaar; wat ge op
+
+merkt is niets dan een opzwellen van de
+elastieken slang, maar achtereenvolgens en
+geleidelijk op naast elkaar gelegen plekken,
+uw oog kijkt de ontstaande proppen na en
+krygt den indruk dat de zwelling voortloopt,
+zich voortplant, dat de slang schijnt te golven ;
+een zoogenaamd voortgaande golf is ontstaan.
+Geeft de blaasbalg weer een stoot kort na
+den eersten, dan volgt een tweede luchtbal of
+luchtprop den eersten, en de tweede zwelling
+van het elastiek volgt de vorige, enz. Met
+een lange gasslang gevuld met water, die ge
+gezeld van een viooltje, dat de vriendin be
+
+duiden moet. Wenscht zij, dat de aangebedene
+vroeg zal komen, dan voegt zjj er een
+vuurroode roos aan toe. Hoe voller deze ontloken
+is, des te vroeger het uur waarop zjj ham.
+wacht. Heef t zy' dan tevens een donkergekleurde
+viool in de hand, dan beduidt dit: Weesop
+uw hoede, er dreigt gevaar." De meest droevige
+boodschap voor een Helleensch jongeling is
+het, als hij zqn adorée" tegenkomt met een
+bouquetje gele anfers in de ceintuur... de
+ongelukkige is dan geducht in ongenade
+gevallen.
+« *
+Modegrillen.
+De mode van den tegen vroordigen tijd, wat
+van alle modetijdperken niet kan gezegd
+worden, heeft practische neigingen. Weinigen
+maar zullen het hebben betreurd, dat ze
+gedurende de zomermaanden de afschaf
+
+fing voorschreef der handschoenen. Onze
+zusters kunnen nu hun blanke, fijne vingers en
+fraai gevormde polsen onbedekt ter schouw
+dragen, en wie ze op ouderwetsche wijze in
+'t peau de suède of in 't wit of paille of
+grisperle zij kleedde, gedroeg zich hoogst onfat
+
+soenlijk, Onpractisch mag het misschien,
+gegeven ons uiterst wisselvallig klimaat,
+heeten, dat ook het demi-décoletée voor
+blouses en japonnen in zwang bleef. De rag
+
+fijne entre-deux of guèpure-borststukken kun
+
+nen nauwelijks gelden als een bedekking van
+den hals, die er zacht-rose doorschemert en
+die après-tout niet bestand is tegen de vlagen
+van den ten onzent overbeerschen Noorden
+
+wind. Dit voerde echter tot de herleving van
+een andere oude mode, nl. die der sjawls,
+die sedert korten tijd weder met zwier en
+gratie worden gedragen, wel klein nog en van
+lichte, zij den stoffen, van kanten gaas en
+zilverborduursel en zwanendons, maar zich toch
+langzaam aan verlengend en verbreedend. De
+mogelijkheid is niet uitgesloten, dat menigeen
+binnenkort spijt zal hebben grootmoeders
+kostbare Perzische omslagdoek te hebben
+gebruikt voor wandbekleeding boven kapstok
+of sofa, te hebben doorpriemd met spijkers
+en haken, of tot een blouse verknipt. Mis
+
+schien komt er een tijd, dat men de antique
+sjawls tegen goud opweegt. Ieder weet, dat
+de mode grillig is, maar ze blijkt het toch
+steeds erger dan we vermoedden.
+
+***
+Tooneelspekrskwellingen.
+De Engelsche tooneelspelers schijnen ge
+
+ducht bygeloovig te zijn. Ik vind een massa
+dingen vermeld, die een Britsch acteur
+vermy'dt uit vrees voor onheil. Men roept b.v.
+kwade geesten op door in den ledigen
+schouwburg te fluiten : het is een voorteeken
+van echec, evenals het omgooien van de
+kapdoos tijdens het toilet. Een
+tooneelcostuuoi waarin men succes had, moet men
+niet door een nieuw vervangen: het succes
+verdwijnt met het costuum. Een acteur, die
+op de repetitie de laatste regels van zijn rol
+moet herhalen, is reddeloos verloren: hij
+worit uitgefloten. Even noodlottig is het
+omdraaien van de coulise, wanneer men er
+langs loopt. Sommigen hechten aan de kleur
+van het costuum, waarin ze optreden; geel
+wordt door velen gevreesd. Geel-houten
+blaasinstrumenten worden zelfs nit de schouw
+
+burgorkesten geweerd, za brengen onheil.
+Enkele rollen in a'n geheel zijn voor
+andere acteurs schrikbeelden, o.a. Shakes
+
+aan de waterkraan bevestigd hebt, kunt ge
+door het kraantje beurtelings te openen en
+te sluiten, iets dergelijks vertoonen.
+Zóó werkt ook de mond, als hij den
+echowand een woord, een toon toeroept of
+toefluit. Laten we om het enkelvoudige van het
+geval by n toon blijven.
+Stel u nu voor dat iemand op een plek
+waar een duidelijke echo gehoord wordt,
+n seconde lang een toon fluit of zingt, de
+a van de stem vork b.v. Dan geeft hij in die
+seconde 435 stootjes aan de lucht voor zyn
+mond, en eventjes later ontvangt de echo
+
+muur h»t eerste en geeft er 435 terug ineen
+seconde. Als de eerste van de 435 stootjes
+het oor van den fluiter of zanger weer be
+
+reikt, trilt zijn trommelvlies; dit brengt de
+regelmatige beweging over op zijn
+gehoorbeentjes, die weer op een ander vliegje en
+eindely'k ontvangt de gehoor zenuw de prik
+
+keling der stootjes; die zenuw geleidt het
+naar de hersenen en wij krijgen een gewaar
+
+wording die wij den naam van geluid geven,
+in dit geval van een toon, met den naam a
+aangeduid.
+De tijd nu, die er verloopt van het begin
+der luchtbeweging, het spreken, tot op het
+oogenblik, dat de persoon zijn eigen geluid
+opnieuw vernam, is de tijd. die de
+luchtgolving noodig heeft gehad om den weg heen
+en weer af te leggen; was die afstand een
+kilometer geweest, dan zou de tijd tusschen
+het begin van het fluiten en het begin van
+echo-hooren juist drie seconden zijn geweest.
+Dat is door herhaalde proefnemingen aange
+
+toond, en men drukt dit uit door te zeggen:
+de voortplantingssnelheid van het geluid in
+de lucht is l K.M. in 3 sec. of rond 333 M.
+per seconde.
+Bepaling der snelheid van de geluidvoortplanting in water. Het prentje (uit het
+mooie, groote boek: Wilhelm Meyer: Naturk! af te") zegt zelf wel hoe het gaat;
+tegelyk met den slag tegen de bel, wordt op het voorste schuitje door den zelfden
+stang een pistooltje afgeschoten en zoodoende een licht- en geluidsein boven water
+gegeven. Hoorn, Autophotograaf en phonograaf met uurwerk vangen de beide ge
+
+luiden en het lichtsein op, en teekenen nauwkeurig de tijd aan.
+Concurrentie aan den Ooievaar.
+
+iiiiiiiiiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiliiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiNiiiiiii
+
+peares Macbeth. Het spelen van deze rol,
+zegt men, was voor menige goede reputatie
+het noodlottig einde.
+***
+Duur logies.
+By'na iedereen is 't wel gebeurd, dat zy
+op reis op haar hotel-rekening een bedrag
+vond. dat haar veel te hoog voorkwam voor
+een nacht onrustig slapen op een vreemde
+legerstede. Voor deze schrikachtigen is o. a,
+niet gebouwd het S t. Regis-ketel te New
+York, dat n zit- met elaapkamer bevat,
+waarvoor men 25 pond sterling, d. w. z.
+ƒ 300 per nacht betaalt. Woont men een
+jaar in deze kamer, dan geeft men daarvoor
+de kleinigheid van honderd en negen duizend
+vijfhonderd gulden. De kamer is zelden
+leeg... ieder die voor rijk wenscht door te
+gaan, wil er gelogeerd hebben. Het is voor
+menigeen een goede reclame.
+ALLEGEA.
+Sic Transit.,.
+Een oude haan veel kipjes zag.
+O oude-hanen-smart I
+Wanneer een haan niet kraaien mag,
+Dan breekt zijn hanen hart.
+
+En die dit niet begrijpen kan,
+Die worde maar eerst oud.
+Wanneer het vuur het hart verlaat,
+Dan wordt het harte koud.
+
+De haau werd krank; de haan ging dood.
+Ge vraagt nog, hoe dat kwam?
+Omdat geen euk'le lieve kip
+Yan hem notitie naai.
+PKEHKE DEN BELG.
+Dit is tamelijk snel en verklaart onmid
+
+dellijk hoe het komt, dat wij alleen dan een
+echo hooren, als de terugkaatsende wand een
+flink eind van ons verwijderd is. Hoever is die
+kortste afstand minstens? Ook dat is gemak
+
+kelijk na te gaan. Is de wand büv. maar 8 M.
+van ons af, dan heeft het geluid heen 8 M. en
+terug 8 M. af te leggen, van mond tot oor;
+die 16 M, legt het geluid in ongeveer '/.n
+sec. af; 'dus volgt het echo-woord M sec. na
+het gesproken woord, maar zoo'n korte pauze
+tusschen twee klanken kan ons oor niet
+waarnemen; de pauze, dus de tijd die het
+geluid noodig heeft om heen en weer te
+gaan, moet voor de meeste ooren minstens
+i/io sec. zijn, zullen wij de echo na en.niet
+gelijktijdig met het eerste woord vernemen.
+In '/ID sec- nu *e8t b-et geluid ruim 33 M. af,
+dus de afstand tnsschen spreker en een muur,
+die een duidelijk waarneembare echo zal
+geven, moet minstens 16 M. bedragen.
+Ook moet ik nog even in herinnering
+brengen, hoe het te controleeren is dat,
+het geluid l sec. doet over een weg van
+333 M. Gaan op een donkeren avond twee
+menschen in een laan l K. M. van elkaar
+staan, elk met een chronometer en een
+gloeilampje büzich, en spreken zij af dat
+precies op vol uur de een een pistool af zal
+schieten, dan zal de ander het geluid 3 sec.
+na vol uur hooren.
+Ze kunnen ook om de beurt vuren ter
+controle en de seconden tellen tusschen het
+zien van het vuur en hooren van het schot.
+Ieder schoolkind past dit toe, om de vraag
+te beantwoorden, hoe ver by een onweer de
+bliksem van ons af is ; elke seconde tusschen
+bliksem en donder, niet waar, geeft 333 M.
+Zie zoo, met deze bekende dingen versch
+in het geheugen, kan ieder ongetwü'feld
+begry'pen wat de proef van Fizeau beteekent;
+eigenlijk ben ik al half klaar, want het is
+in hoofdzaak niets dan het verwekken van
+een licht-echo. Dat zal den volgenden keer
+blijken. Vooraf nog dit: ook licht is niet
+iets buiten ons; maar een hersenwerking;
+de normale lichtgewaarwording krijgen w
+alleen dan, wanneer een beweging buiten
+ons, ons oog treft, evenals bij het hooren.
+Op de vraag: Is het ook hier lucht, die
+door herhaalde verdichting stootjes geeft op
+ons orgaan?" antwoorden de feiten: Neen;
+want ook door een luchtledige ruimte gaat
+de lichtbeweging heen; derhalve is het niet
+de lucht, die trilt of golft en zoodoende als
+bemiddelaar dient voor een werking op
+een afstand."
+Is licht dan zelf een stof zoo uiterst licht
+en fijn, dat ze door glas heen gaat ? Of is het
+weer een voortgeplante beweging? In het
+laatste geval zullen wütoch het bestaan van
+een middenstof moeten aannemen, waarin die
+beweging voortgaat. Voor ons doel, de be
+
+paling van de snelheid, is het vrüwel onver
+
+schillig of we ons het licht zelf als een
+voortsnellende stof of als een beweging in den
+wereld-aether voorstellen. Dat we die
+middenstof met onze zintuigen niet kunnen waar
+
+nemen, behoeft voor ons geen reden te zyn,
+om zijn bestaan onmogelijk te achten; er
+bestaan nog wel meer dingen, waarvoor wy
+geen zintuig bezitten ter directe waarneming.
+
+E. HEIMANS.
+
+</text>
+<image timestamp="2002:08:23:18:43:15.00" size="574999">000004HC.TIF</image>
+</page>
+</document>

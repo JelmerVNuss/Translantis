@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320123</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Droomen zijn bedrog
+Teekening door L J. Jordaan
+f?,?,..^' «MbC." _,- ,/"'-•'- ;-"~:'-'"s-'#! &amp; ,•.;£;' .-'-V1' --" -i. = .- -'^rr-'"'" -'
+
+
+'^^J^f^^^^^^^^'^^-:', --r
+-^^^mm^M^^^M^-^:^
+^^•f^-^^r-----••-^--v'ifer.^r^,:..-:•-:«' .-•-.:•
+
+':^ff^^^^'^ê^^i^ë^^-^-:'-f
+
+^-^^.^i^f^^^^K^f^ -•:--.'-''
+.'&gt;yZf~-~S':xr''£:,-.ïiïr" J?~*Xf*-J!£»-£it$if'ï?'-~.-r. • --"" -•
+^S*^'/:&gt;*r-w=r,:.,-^-rr- '^r-:-^j. •rf'5?vrjrï^./--^—'*•-'-'^- • • .
+ix;;:ÏM;-' &lt;cï-y£':*•- •--' \ff ,/;-&lt;^" .••
+f^K^iS^-'je^-^'^^&gt;•*'••"••'.? ••
+••ïfS-'-t?~JZ-:f?X"--:^? ^'-: •^"^"•' '
+•W
+''KK' ^ '•' US ^ \ '
+ymfï^&amp;K^.^^. ^ (• *C.(I W' &amp;,',.$\ '
+•£%ffix^4#*r~^a&amp;i&amp;'&amp; ----&gt;&gt;. !&gt; t,,; (y * -.
+iferfï^^^as^^^é7/, ^ ^ y A' VA &amp; \
+\ \
+O/-- ^70lo ;
+X X- ^^ l- rr
+
+^^, ^\
+\
+$fl&gt;
+:C
+Als de wekker afloopt . . . .
+
+</text>
+<image timestamp="2002:09:26:15:03:34.00" size="319568">000009Y0.TIF</image>
+</page>
+</document>

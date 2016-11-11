@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18901228</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer,
+Weekblad voor Nederland, van 28 December i8go.
+
+T "
+Parnellisten en Nationalisten.
+(De hoofdfiguren in den lerschen partijstrijd.)
+MRS. O'SHEA.
+VVILLIAM O'BRIEN.
+MICHAÏDAVITT.
+o h
+LORD SALISPUR\ .
+ARTHIJK RAT,FOT;-R.
+Stoomdrukkerij Ellerman. Harms &amp; Co.
+
+</text>
+<image timestamp="2002:10:03:11:47:33.00" size="183575">D2007IG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340407</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van'7 April 1934
+No. 296S
+f.
+
+
+fIV
+l?
+'t.
+i^
+IV
+l*
+1%
+r
+IK
+i '
+
+LN.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie-en Trusthantoor
+•#V»% Pandbr. tegen beurskoers uit.
+HYPOTHEEKBANK
+Mr. A. S. MIEDEMA,
+Leden der directie:
+P. H. CRAANDiJK en A. E. THIERRY DE BYE DOLLEMAN
+Pandbrieven £40,313.850.
+Hypotheken f 40.333.266—Reserves .. f 1.097.685.
+KONINKRIJK DER NEDERLANDEN
+4 pCt Nederlandsche Staatsleenlng 1934
+uitgegeven krachtens de Leeningwet 1934
+
+groot nominaal f 900.000.000
+waarvan de deelneming tot een bedrag van f 230.000.000.—is verzekerd.
+KOERS VAN UITGIFTE 100 PGT.
+Schuldbewijzen aan toonder groot f 1000.-, f 500.- en f 100.
+Aflosbaar a pari, by uitloting, in ten hoogste 40 jaar, te beginnen l Mei 1935
+RENTENDE 4 pCt.
+Coupons betaalbaar l Mei en l November.
+De inschrijving geschiedt op:
+
+
+Donderdag 12 April 1934
+
+van des voormiddags 9 tot des namiddags 4 uur
+
+met reCHt Van VOOrkeUr voor houders van niet-uitgelote obligatiën der
+aflosbaar gestelde Nederlandsche Staatsleeningen t. w.
+
+4 pCt. STAAÏSLEENING 1916, aflosbaar l October 1934,
+4'/2 1916, l November 1934,
+4'/2 1917, l Augustus 1934,
+4'/2 1928, l October 1934,
+5 Tweede 1932, l Mei 1934,
+
+te Amsterdam: bühet AGENTSCHAP VAN HET MINISTERIE VAN FINANCIËN,
+Heerengracht 344/346;
+te Rotterdam: büde BIJBANK van DE NEDERLANDSCHE BANK, Boompjes 72a,
+
+alsmede büDE AGENTSCHAPPEN van DE NEDERLANDSCHE BANK te:
+Alkmaar, 's-Gravenhage, Leiden, Nijmegen,
+Almelo, Groningen, Maastricht, Tilburg,
+Arnhem, 's Hertogenbosch, Meppel, Utrecht en
+Deventer, Leeuwarden, Middelburg, Zwolle.
+Dordrecht,
+
+Inschrijvingsbiljetten en prospectussen zyn bij deze kantoren kosteloos verkrijgbaar.
+
+De storting van het verschuldigde wegens toegewezen schuldbewijzen moet geschieden
+te Amsterdam by DE NEDERLANDSCHE BANK en elders ten kantore van inschrijving op:
+
+Dinsdag 1 Mei 1934
+vóór 12.30 uur n.m.
+Voor verdere bijzonderheden raadplege men het prospectus.
+'s-GRAVENHAGE, 3 April 1934.
+De Minister van Financiën,
+OUD.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van.
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,.
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—,f 500.
+en f 100.—tegen Beurskoers.
+NVZUIDER
+HYPOTHEEKBANK
+4 i
+Pandbrieven
+tegen 100V2 pCt.
+Directie:
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+NI Insulaire Hypotheekbank
+te ZIERIKZEE.
+Uitgifte van
+;% Pandbrieven a 100%
+N.V. Bataafsche
+Hypotheekbank
+. AMSTERDAM
+Anno 1889
+Qeeft uit tegen beurekoen:
+
+4J % PANDBRIEVEN
+In stukken van
+f1OOO,-,f500,-en f100,-.
+Coupons Januari en Juli
+STEUNZOLEH
+SÏST. PROF. HOFFA'
+NAAR
+Fa. J. A. MASSING
+
+O. Z. Voorburgwal 334
+
+Amsterdam C.
+
+over het Binnengasthuis
+
+</text>
+<image timestamp="2002:10:28:10:22:48.00" size="133910">D200AT5.TIF</image>
+</page>
+</document>

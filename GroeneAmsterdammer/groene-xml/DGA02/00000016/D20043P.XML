@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241129</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEK3LAD VOOR NEDERLAND
+No. 2476
+H»
+C
+iiüiiniiiiiiiHiiiiiiini
+II	Dl
+' HIIIIIU
+i y
+VERKOOPPRIJZEN
+CHOCOLADELETTERS
+Gewicht 80 Gram	, 30 et p. st.
+Gewicht 150 Gram	55 et p. st.
+Gewicht 250 Gram ...... 95 et p. st.
+Lett.MenWresp. 37z. 75 en 115 et p. st
+Letter I	20. 40 en 75 et p. st.
+
+Let op den naam DROSTE op
+iedere letter en op ieder doosje
+CHOCOLADE
+LETTERS
+•^ ^"
+\\
+IN LUXE DOOZEN'EN MEER
+EENVOUDIGE VERPAKKING
+BONBONS
+
+CHOCOLADELETTERS
+HYGIËNISCH VERPAKT IN DOOSJES
+zijn naast Droste's Pastilles en Chocolade wel
+de allerbeste en meest gewilde artikelen op dit
+gebied.
+"Wanneer ge Uw verloofde, vrouw, ouders of
+kinderen met St-Nicolaas Droste-cadeaux"
+geeft, kunt gij overtuigd zijn, dat ge Uzelf de
+grootste voldoening van Uw geschenk verschaft.
+
+
+DROSTE'S ARTIKELEN
+gemeten om hun zuivere samenstelling, smaak
+en aroma bij winkelier en verbruiker een onbe
+
+grensd vertrouwen, dank zij de hooge eischen,
+die Droste aan grondstoffen en fabrikaat stelt.
+Door den vlotten verkoop van Droste's bonbons,
+chocolade, enz. heeft Uw winkelier steeds
+versche voorraden.
+Viert straks 'n prettig
+St.-Nicolaasfeest en maakt de lange, koude win
+
+teravonden zoo gezellig mogelijk
+door iederen avond 'n kop Droste's
+Verpleegsters-cacao te schenken.
+DROSTE'5 Cacao-en Chocoladefabrieken, HAARLEM
+
+</text>
+<image timestamp="2002:09:03:22:46:46.00" size="204952">D20043P.TIF</image>
+</page>
+</document>

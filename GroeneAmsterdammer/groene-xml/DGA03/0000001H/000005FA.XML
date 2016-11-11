@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250314</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2492
+MY VALET FROM LONDON
+WETTIG GEDEPONEERD
+COSTUUM CHEM. REINIGEN en PERSEN	f 2.59
+COSTUUM MODEL PERSEN	1.25
+COSTUUM 1ste KLAS KEEREN	22.50
+DEMI SAISOM 1ste KLAS KEEREN	16.50
+WINTERJAS 1ste KLAS KEEREN	, 18.03
+
+SPECIALE STOPPAGE INRICHTING
+M
+VAN
+HOOFDKANTOOR BEURSPASSAGE 14. . AMSTERDAM. TEL. 44915
+FILIAAL WILLEMSPARKWEG 175 . . . 20333
+FILIAAL HAVENSTRAAT 57	HILVERSUM 1506
+DEPOT BERGERWEG 5	ALKMAAR
+DEPOT KERKSTRAAT 37	LEERDAM
+
+ALLE DAMES- EN H EERE N KLEE Dl NG
+IN IEDER HUIS
+His Master's Vbice
+HIS MASTER'S VOICE
+IMPORTEURS:
+THE AMERICAN IMPORT COMPANY
+AMSTERD. VEERKADE 22a, DEN HAAG.
+Catalogi en adres van dichtstbijzijnden agent gratis op
+aanvrage
+AMSTERDAM
+42REGULIERSBREESTRAAT. Tel.35614
+AMERSFOORT
+Van Haseli's
+Voningtoira
+Snouckaertlaan 22-24
+TELEFOON 218
+EILIHGLOKULDEZON"
+Fa. L. Gijselman &amp; Zoon
+Singel 118-120 en Blauwburgw. 15
+AMSTERDAM - TEL. 40432
+Dinsdag 24 Maart 1925
+VEILING VAN
+Inboedels, Antiquiteiten,
+Schilderijen, enz.
+Verweegen &amp; Kok
+AMSTERDAM - OEN HAAG
+DAMESTASSCHEN
+van de eenvoudigste tot de meest
+luxieuse uitvoering
+«. MM G. l. DE KONING &amp; Zn. - Keizersgracht 447
+Dir. E. Boerma
+GRONINGEN AMSTERDAM
+Heerestr. S lokin 10
+Dames- en
+HeerenKteedermakerij.
+,Coupeurt door het geheele
+land te ontbieden".
+Vraagt Uw winkelier speci
+
+aal naar het prima
+van H AR T O G,
+verpakt in een blik met blauw
+etiket.
+Onovertrefbaar in qualiteit.
+N.V. Koek- en Banketfabriek
+
+HARTOG
+Gerard Douplein - A'dam.
+TEL. 23425
+DETAILVERKOOP :
+Weesperstr 85 - Tel. 51461
+EN
+Jodenbreestr. 28 - Tel. 47552
+Voor Heeren grossiers de hooiste korting.
+(voorheen LEIDSCHESTRAAT 69)
+- SANITAIRE INRICHTINGEN
+POLLEH's Oude Genever
+Fijne Likeuren dn Punch
+m. P. POLLEN 4 ZOON - Rotterdam
+AMERICAN-HOTEL
+AMSTERDAM
+HOTEL &amp; CAFÉ-RESTAURANT VAN DEN l en RANG
+Groote en Kleine Zalen voor Vergaderingen, Diners enz.
+lijn het meest gewild, om
+prijs en kwaliteit
+DAttESI
+Laat uw wasch behandelen
+door de wasscherij
+Eiriki"&gt;Tilii«iïtr. 22-24. Til. 23125
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEID IQ d Co.
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon No. 81 En detail
+Kreeftenpark Beid er bos", Bergen op Zoom
+Onmisbaar voor eiken Mah-lonpjspelof
+BABCOCK'S SPELREGELS
+VOOR
+
+
+MAH-JONGG
+HET SPEL DER DUIZEND WONDEREN
+Voor Nederland vertaald door
+BIANG MEE
+Met talrijke illustraties
+Prijs gebonden f2.50
+Prospectus op aanvragf
+bij eiken bockhanddaar verkrijgbaar
+Uitgave van
+Van Holkema&amp; Warendotf, Amsterdam
+T BINNENHUIS
+OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY GLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: PRINSENGRACHT 707A
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+spiciaiitoit in:SLAAPKAMEIlMEUBELEN, MATRASSEN, DEKENS
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+van 11.—, f 1.50,
+12.00, f2.50, f3.—enz.
+
+Franco per post 50 Cents verhooging.
+Illustratiedruk-papier van de Firma C. G. «. CORYEY, Keizersgracht i289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:05:08:46.00" size="119328">000005FA.TIF</image>
+</page>
+</document>

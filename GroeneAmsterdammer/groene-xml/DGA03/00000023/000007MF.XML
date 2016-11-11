@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400803</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+-T
+s, r
+WEEKBLAD VOOR NEDERLAND • OPGERICHT IN 1877
+rr:^&lt; if • ~
+«&gt;*£"•: i,*'
+;* .
+f$Al1
+:+*,f- v- ~
+l S» 4- " •'""w
+Pro/. Dr. M, j. LANGEVELD
+. van
+t,
+'Datappij en mensch, Dr.E
+j.
+en de fantasie
+iespelen te Tegelen, p
+, vön
+k van reuzen en dwergen, c. j. KELK
+j. H. SPEENHOFF
+Dr. W. MÜNSTERBERGER
+g; geneesmethoden
+CENT
+UlttlllIlIIIIMHINIIUIUHItmiUUIlUlMIII
+J
+
+</text>
+<image timestamp="2002:09:13:07:40:19.00" size="461101">000007MF.TIF</image>
+</page>
+</document>

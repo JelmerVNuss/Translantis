@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200410</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE MISLUKTE STAATSGREEP IN DENEMARKEN
+Nadruk verboden
+BIIVOEOSEL van De Amsterdammer". Weekblad voor Nederland, van 10 Apri! H*20
+
+
+
+l, f l f -..'l . '
+^^,^^^fp^
+
+
+
+.V' «^ "^^ 'n""'1N^ X ^"" ^ "" ' " ' V 7 &gt; ' '
+l ' Ik * ^? \ *^^v S\ J}* * ***
+/ V^"^^ • -^^x f~^"^ \
+.y' '^s^Vi^lv^ ' ^. ' "'"' ...^ '^^^t^-o^V^^Vi^
+Ainst. Boek- en Steendrukkerii, v h. Elierman. Harrns &amp; C&lt;.
+Het Deensche volk tot Koning Christiaan: Pas op, Sire! vergrijp U niet"
+
+</text>
+<image timestamp="2002:08:16:19:42:47.00" size="274715">D10000TJ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270903</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 3 SEPTEMBER 1927
+No. 2622
+HET VOETBALSEIZOEN IS GEOPEND
+VINCENT VAN GOGH, SCHOENEN
+Radio Rubriek
+
+Een en ander over luidsprekers
+door J. STERRENBURG
+'M ADAT men geruimen tijd
+bijzondere aandacht heeft besteed
+aan de volmaking van het ont
+
+vangtoestel en er tevens in geslaagd
+is de vroeger vrij gecompliceerde toe
+
+stellen belangrijk te vereenvoudigen,
+heeft men ingezien, dat dit alles voor
+een goede reproductie van muziek en
+spraak weinig of niet voldoende is,
+wanneer de geluidweergever, d.w.z.
+de luidspreker, niet eveneens aan de
+.• hoogste eischen voldoet. Evenmin als
+• er verbluffende resultaten bereikt
+; worden, wanneer men een
+regatta. jacht met de hulpzeilen van een
+roei. boot uitrust, zal een goed ontvang
+
+toestel met een primitieven luidspre
+
+ker ons echt muziekgenot kunnen
+verschaffen.
+Bij de studie van het luidspreker
+
+probleem, waarvoor uitgebreide onder
+
+zoekingen noodig bleken, is men op
+talrijke moeilijkheden gestooten, die
+men aanvankelijk niet kon overzien.
+Het is bekend, dat bij de ontvangst
+m et behulp van een hoofdtelefoon alle
+fijne details, alle toonschakeeringen
+in orkestmuziek worden weergegeven,
+n dat bij het gesproken woord het
+juiste timbre, zoowel als alle nuan
+
+ceeringen geheel tot hun recht komen.
+Waarom was dit bij den luidspreker
+aanvankelijk niet geheel het geval?
+Wij zullen aannemen, dat het gebruik
+
+te ontvangtoestel zelf geen vervor
+
+ming in de ontvangst veroorzaakt.
+Dan blijkt het, dat een zuivere weer
+
+geving door een luidspreker heel wat
+moeilijker te verkrijgen is dan met
+behulp van een hoofdtelefoon.
+Daar de luidspreker een krachtige
+reproductie moet geven, dient de
+luidspreker een instrument te zijn, dat
+• ook krachtige luchttrillingen veroor
+
+zaakt, en daarbij muziek en spraak
+toch met de oorspronkelijke zuiver
+
+heid weergeeft.
+Gezien de goede resultaten, die met
+hoofdtelefoons verkregen waren, is
+het niet verwonderlijk, dat men deze
+constructie ook voor luidsprekers
+heeft trachten aan te wenden.
+Een hoofdtelefoon bestaat uit een
+dun ijzermembraan, geplaatst tegen
+
+over de poolschoenen van een
+staalmagneet, waarop een tweetal
+draadklosjes is aangebracht. De aldus ge
+
+construeerde luidsprekers bevatten
+dezelfde onderdeelen. Zooals bekend
+oefenen de polen van een staalmagneet
+een aantrekkende werking op het
+membraan uit, welke kracht wordt
+beïnvloed door den wisselstroom, wel
+
+ke aan de draadspoeltjes wordt
+toegevoerd.
+Om de trillingen van het membraan
+aan de omringende lucht mede te
+deelen, kan men volstaan met het
+kleine oppervlak van het membraan
+alleen. Door bovenaan het membraan
+een hoorn te plaatsen, waarvan de
+opening naar boven toe geleidelijk
+wijder wordt, wordt het geluid belang
+
+rijk versterkt.
+Aan deze constructie zijn echter
+diverse nadeelen verbonden, die theo
+
+retisch verklaarbaar zijn, en zich zelfs
+bij de grootste nauwgezetheid in de
+constructie niet laten vermijden.
+In de eerste plaats geeft het gebruik
+maken van een membraan aanleiding
+tot vorming van bepaalde
+resonantietonen, d.w.z. tonen, welke luider
+worden weergegeven dan andere,
+doordat liet membraan op deze tonen
+resoneert. Resonantie heeft nml. elk
+voorwerp met elastische eigenschap
+
+pen, het is de eigentrilling, die dit
+voorwerp volbrengt, als het wordt
+aangestooten. Verder is de werking
+tusschen ijezermembraan en magneet
+
+polen wel in staat om een zeer gevoeli
+
+ge geluidsweergeving te doen ont
+
+staan, doch alleen bij niet al te on
+
+stuimige bewegingen van het mem
+
+braan. Wordt dus deze constructie
+voor groote luidsprekers gebruikt,
+dan zal een hinderlijke onzuiverheid
+in de reproductie hiervan het gevolg
+zijn.
+Een ander nadeel is het volgende.
+De magnetische krachtlijnen van
+staalmagneet en spoeltjes moeten hun
+weg nemen door het ijzermembraan.
+Daar dit membraan dun is, treedt in
+het middengedeelte al^spoedigïz.g.
+magnetische verzadiging" op, waar
+
+door de uitbuiging van het membraan
+niet een evenredige afspiegeling is
+van de stroomwisselingen in de draad
+
+spoeltjes.
+Als algemeen verschijnsel bij der
+
+gelijke luidsprekers kan men gewoon
+
+lijk constateeren, dat de lagere tonen
+onderdrukt worden.
+Ook de constructie van den hoorn
+speelt hierbij een groote rol. Een
+theoretisch ideale luidsprekerhoorn
+zou enkele meters lang moeten zijn,
+en dus praktisch onbruikbaar. Dit
+heeft ertoe geleid om den hoorn geheel
+weg te laten en het ijzermembraan
+te vervangen door een zeer licht mem
+
+braan van groote afmetingen en
+konischen vorm. De werking van het
+ijzermembraan wordt vervangen, door
+die van een vibreerend ijzeren anker
+
+tje, gemagnetiseerd door een staal
+
+magneet, en onderworpen aan het
+wisselend magnetisch veld van den
+stroom in de draadspoeltjes. Door een
+juiste constructie van een dergelijk
+magneetsysteem, zooals ook de Phi
+
+lips luidspreker bezit, worden alle
+nadeelen van den gewonen
+membraanluidspreker vermeden, en een abso
+
+luut zuivere geluidsweergeving moge
+
+lijk gemaakt.
+Het spreekt wel vanzelf, dat ook
+het uiterlijk van den luidspreker
+aandacht verdient. Zijn de
+hoornhüdsprekers over het algemeen weinig
+fraaie voorwerpen om in huiskamer
+of salon te plaatsen, de
+conesluidspreker en in het bijzonder de in verschil
+
+lende fraaie tinten uitgevoerde
+Philipsluidsprekers, passen zich uitmuntend
+aan de omgeving aan en zullen als oen
+sieraad beschouwd worden, waarvoor
+gaarne een plaatsje wordt ingeruimd.
+Nieuwe lampen
+Philips' Miniwatt" B 443 voor
+eindversterking
+De B 443 is een naar een ge
+
+heel nieuw principe geconstrueerde
+cindlamp met 3 roosters, geschikt
+voor een zeer groote geluidsterkte.
+Zij bevat het normale rooster, dat met
+de roosterpen verbonden is, een
+hulpooster, dat met het schroefje aan der
+huls in verbinding staat en een derde
+rooster, dat on het inwendige van de
+lamp reeds is aangesloten.
+Niet alleen is de veisterking bijzonder
+krachtig, doch ook is de
+wisselstroomsterkte, die door een luidspreker gaat,
+bij dit lamptype onafhankelijk van
+defrequentie, zoodat alle hoorbare fre
+
+quenties in dezelfde mate den luidspre
+
+ker beïnvloeden. Dit in tegenstelling.'
+met normale eindlampen waarbij
+dehoogetonen te zwak worden weer
+
+gegeven.
+Op sommige luidsprekers wordt
+door deze eigenschap den indruk
+gewekt, dat de versterking in de hooge
+
+tonen te krachtig is en om aan dit
+gebrek tegemoet te komen, kan
+opaanvrage een toonzeef geleverd worde»
+type Nr. 4004; deze wordt geschakeld
+tusschen luidspreker en ontvangtoe
+
+stel en onderdrukt dan het te veel aan
+hooge tonen.
+Ook bij de grootste
+geluidsterktenblijft de weergave volkomen zuiver.
+De gunstigste resultaten worden be
+
+reikt bij een anodespanning van 150'
+volt; hiervoor wordt in het
+bijzonderhet Philips plaatspanningapparaat
+aanbevolen. Bij 150 volt anodespan
+
+ning bedraagt de toe te passen nega
+
+tieve roosterspanning slechts 12 volt..
+hetgeen tegenover de hoogere
+roosterspanningen van andere eindlampen
+eveneens een voordeel is.
+De B 443 kan in elk ontvangtoe
+
+stel op de normale wijze worden aan
+
+gesloten, alleen moet een extra ver
+
+binding worden aangebracht van het
+schroefje aan de huls naar de positieve
+pool van plaatspanningapparaat of'
+anodebatterij. De
+hulproosterspanning moet steeds gelijk zijn aan de
+anodesparitüiig.
+De B 443 is voor/.ien van. de nor
+
+male Philips huls met 4 pennen (huls.
+A 32); zij kan echter ook met elke
+andere gebruikelijke huls geleverd
+worden.
+
+(üocispanning v f ----- 4,0 V
+(iloeistroom i t' = 0.15 A
+Anodespanning va = 50—150V
+Hulproostcrspanning v g = 50—150V
+Verzadigingsstroom is 50 mA
+Versterkingsfactor g = 100
+Hteilheid Alax. S = 1.8mA/V
+Normale anodestroom ia = 1&lt;S mA
+
+De nieuwe D 143 is dezelfde lamp als
+de B 443 doch eveneens voor wissel
+
+stroomvoeding van den gloei draad. De
+gloeispanning bedraagt 1.0 V., de
+gloeistroorn 0.05 A.
+
+(Enkele andere nieuwe lampen zul
+
+len in een vo'gen'le rubriek worden.
+besproken.)
+
+</text>
+<image timestamp="2002:09:21:17:44:52.00" size="599366">D10006SN.TIF</image>
+</page>
+</document>

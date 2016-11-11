@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19380910</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+a
+l,
+f'
+l
+
+ftDOROTHY UIT NEW YORK ZIET HOLLAND
+Zoo kwam ze
+VERLEDEN week heb ik haar uit Rotterdam
+afgehaald, en ik heb haar natuurlijk direct
+meegenomen naar Marken en Volendam.
+Want haar vriendinnen Grace uit Buffalo en Maud
+uit Chicago hadden haar verteld hoe sweet", hoe
+wonderfull", hoe charming isn't it" het daar is.
+Daarom is ze speciaal naar Europa gekomen, alleen
+maar om Marken en Volendam te zien. Mag ik haar
+u even voorstellen, zooals ze er uitzag in haar
+genopte japon made in U.S.A. 22 jaar oud,
+en met haar Leica? We voeren dus naar Marken.
+Dorothy werd enthousiast. Zeven keer zei ze
+sweet", achttien keer zei ze o wonderful" en ik
+heb niet geteld hoe vaak ze charming, isn't it?"
+heeft gezegd. Ze geraakte buiten zichzelf over de
+kleine houten huisjes en de bont gekleede meisjes
+en vrouwen en de mannen in hun zwarte
+visscherspakken. Helaas was het Zondag, en alle winkels
+van het beroemde eiland waren gesloten. Dorothy
+zou zoo graag een origineel Markensch kostuum
+gehad hebben, en ze wilde haar haar ook in de
+Markensche coiffure gaan dragen. Gelukkig waren
+de kapperswinkels ook gesloten. Met haar Leica was
+ze voortdurend in de weer, ze nam ongeveer zestig
+foto's, en ik weet niet hoeveel haar dat gekost heeft,
+want, zoo is het nu eenmaal op Marken, de ver
+
+schillende poseerende groepen u kent ze wel, b.v.
+de drie visschers met pijp, pofbroek en profiel
+wilden zich niet laten vereeuwigen, tenzij tegen
+betaling. En omdat mijn vriendin de waarde van den
+gulden nog niet wist te taxeeren, gaf ze iedere keer
+maar een dollar. Toen Dorothy's ver- en bewondering
+ietwat begon te tanen, begaven we ons met de boot
+naar Volendam. Daar zag Dorothy kans om voor
+vier dollar een Original-Volendam" kostuum te
+koopen, en een wit mutsje voor 75 cent. Natuurlijk
+kocht ze ook een paar klompen die zoo gezellig over
+de klinkers klossen als je er mee wandelt. En met
+de aldus aangekleede Dorothy ging ik weer naar
+Amsterdam terug.
+Zoo ging ze
+3 Volendamsche foto-objecten
+Ze gaan met hun tijd mee
+Het West-Europeesche eiland Marken compleet
+Volendam in zijn doen en laten
+Het bijna ongerepte dorpsleven
+
+</text>
+<image timestamp="2002:10:02:17:04:07.00" size="534474">D10008ZU.TIF</image>
+</page>
+</document>

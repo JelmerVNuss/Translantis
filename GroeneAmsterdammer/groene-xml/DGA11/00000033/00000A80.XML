@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320507</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 7 Mei 1932
+No. 2866
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+H.ï. DE HURLEMSCHE
+HYPOTHEEKBANK
+Leden der directie: ^SüS-" Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. THIERRY DE BYE DOLLEMAN
+Pandbrieven f 40.583.700.
+Hypotheken f 41.152.862.
+Reserves . . f 979.170.
+N.V. UTRECHTSCHE HYPOTHEEKBANK
+UTRECHT
+
+Pandbrieven f61.000.000. Reserves f 1.526.672.66
+DE BANK stelt beschikbaar:
+S pCt. pandbrieven a 98| pCt.
+in stukken van f 1OOO.—, f 5OO.—, en f 10O.
+met verplichte uitloting van Vas pef
+JaarDe Directie:
+Mr. A. J. S. VAN LIER. Mr. P. R. HOORWEG
+SPECIALE RETOURS
+VAN
+
+VLISSINCEN
+BROCHURE EN INLICHTINGEN BIJ OE REISBUR EN OE STOOMV. MS ZEELAND, VLISSINGEN !
+LEVENSVERZEKERING
+Mg- ARNHEM"
+waarborgt U en Uw gezin een onbezorgde toekomst.
+HlInsulaire Hypotheekbank
+te ZIERIKZEE.
+
+
+Uitgifte van
+5% Pandbrieven a 98%
+N.V. STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. CASTENDIJK en
+1. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+DE GROENE AMSTERDAMMER
+Weekblad vaar Nederland
+kost slechts f 2.70 per kwartaal (f o.20
+voor incassokosten) of f 10.—per
+jaar bij vooruitbetaling
+NV.ZUIDER
+HYPOTHEEKBANK
+5 pCt.
+Pandbrieven
+tegen beurskoers
+Directie :
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000—, f 500.
+en f 100.—tegen Beurskoers.
+HOTEL - CAFÉ- RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+^Modern Comfort-Lift-Stroomend water* enz. ^
+j^__Logies met ontbijt f 3.50 per persoon ^=
+AUG. KAUPMANN
+Telefoon 23308 - P. C. Hooftstraat 113 - Amsterdam Z.
+Bed-, Tafel- en Huishoudlinnen
+Nieuwe Collectie Nachthemden, Pyama's
+Baddoeken, Ontbijtstellen
+Zakdoeken
+Zichtzending franco.
+-W. H. POLMAN TUIN-i
+OVERTOOM 526 - Telefoon 82660 l
+Begrafenissen - Transporten - Crematies |
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:22:50:37.00" size="118714">00000A80.TIF</image>
+</page>
+</document>

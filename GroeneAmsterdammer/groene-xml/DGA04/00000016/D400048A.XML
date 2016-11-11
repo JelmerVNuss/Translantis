@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19221021</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ENGELAND BETAALT DEN EERülfcN TERMIJN VAN ZIJN SCHULD AAN AMERIKA
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 21 October 1922
+..Engeland begint zijn schuld te betalen, zonder te kunnen hopen
+op het innen van zijn vorderingen op andere landen. Een schooner
+voorbeeld van financieelen heldenmoed is nog nooit door een volk
+gegeven." New York Herald,
+Nadruk verboden
+Amst. Boek- en Steenarukkeiij, v'h. Ellerman, Harms &amp; Co.
+Frankrijk en Italië: Als die financieele held ons nu maar met rust laai"
+
+</text>
+<image timestamp="2002:08:25:22:47:06.00" size="197622">D400048A.TIF</image>
+</page>
+</document>

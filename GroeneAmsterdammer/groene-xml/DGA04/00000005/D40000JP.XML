@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130112</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NV'1*55
+Zondag 12 Januari
+AVW13
+DE
+TERDAMMER
+WEEKBLAD VOOR NEDERLAND
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	ƒ l.50, f r. p. post ƒ 1.65
+Voor Indië per jaar, bij vooruitbetaling	, mail
+10.Afzonderlijke Nummers aan de Kiosken verkrijgbaar . . . . 0.12'
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van l—5 regels/1.25, elke regel meer .... ƒ0.25
+Advertentiën op de finantieele- en kunstpagina, per regel . . 0.30
+Reclames, per regel	, 0.40
+BLOEMLEZING CHARIVARIA ALS
+
+PREMIE
+Wij kunnen mededeelen dat eene bloemlezing van Charivaria,
+een boekje van 64 pag., in de Hollandsche letter gezet, en voorzien van
+talrijke illustraties en omslagteekening in twee kleuren door P i e t e r
+van der Hem weldra gereed komt en a 20 ets verkrijgbaar gesteld
+zal worden uitsluitend voor abonnés op dit Weekblad.
+INHOUD
+Publieke eer van advocaten. K.:
+Hertzogs aftreden uit het Zuid-Afrik.
+ministerie. Mr. J. A. Levy:
+Rijkspostspaarbank. Kroniek: Nieuwe unifor
+
+men. H. Sneevliet: Regout en de N.
+Brab.-Duitsche Spoorwegmaatschappij.
+Feuilleton, door Bernard Canter. De
+Dichter in zijn Oranjerie, over Canter.
+M. Vermeulen : Violisten, Gijsbreght.
+Allegra. E. Heimans: Slakken.
+Van den Eeckhout: Presidentsverkie
+
+zing te Versailles. T. B. Roorda:
+Tent. Ethn. Museum Leiden. W.
+Steenhoff: Tent. Graphische Kunst, II.
+H. de la Baignoire : De Spinx van jhr.
+Van Riemsdijk. Dr. v. Olst: Edison.
+Garros' hoogterecord. Portretten van
+Botha en Hertzog. Fin. Kroniek door
+v. d. M. Voorboden en naweën van
+den oorlog door v. d. S. S.: Voor
+
+spellingen op 1913. Ingezonden: Louis
+Sterk over Gootjes. Schetsje door
+Peet Boetser. Damspel. Schaak
+
+spel. Teekening van Joh. Braakensiek:
+Het Tabaksbelastingontwerp.
+Bijvoegsel van Johan Braakensiek:
+Onderhandelingen te Londen over den
+Vrede.
+Publieke Eer
+
+Men schrijft ons:
+De Amsterdamsche Raad is bezig,
+natuurlijk op een niet-bloedige, dus fat
+
+soenlijke manier, de lynchwet toe te
+passen op een advokaat lid van zijn
+edel achtbaar College. Men vindt, dat
+hij wegens eene handeling in zijne
+practijk, die door zich fatsoenlijker achtende
+collega's met statie is gewraakt, niet in
+de bijeenkomsten der vroeden tehuis be
+
+hoort. De veroordeelde handeling schijnt
+te hebben bestaan in het (moreel, niet
+wettelijk) ongeoorloofde uitlokken van
+een faillissement.
+De Nieuwe Rotterdamsche Courant
+dringt aan op een onderzoek door een
+eereraad naar den graad van onbetame
+
+lijkheid der handeling van dien jurist.
+Het wil ons dunken, die hier te veel
+waarde gehecht wordt aan een
+advokatenruzie, want een andere beteekenis
+kan niet worden toegekend aan de
+officieele afstraffing van genoemden advo
+
+kaat door zijne collega's. Moreel belang
+heeft de geheele zaak niet. Het gaat
+immers in de advokatuur (deze in haar
+geheel genomen) niet om moraal,'t gaat
+om 't métier. Dit métier is naar 't schijnt,
+onontbeerlijk, en alle kritiek daarop kan
+..daarom slechts vergoelijkend zijn. De
+•advokaat vraagt naar het belang van
+zijn cliënt, en de daarvoor aan te wen
+
+den middelen zijn nooit beoordeeld, en
+zullen nooit worden beoordeeld naar een
+zuiver zedelijken maatstaf, maar worden
+enkel begrensd door zekere
+conventioneele regelen van fatsoen. Gesprekken
+daarover met advokaten zullen steeds
+eindigen met een beroep, niet op rede
+
+lijkheid of zedelijkheid, maar op
+heerschende usantiën en op het voorbeeld
+van meer in 't bijzonder gewaardeerde
+en geslaagde confrères. Het blijft geoor
+
+loofd, om de tegenpartij, er tusschen te
+nemen, er in te laten loopen, en wat dies
+meer zij. Het Recht en de Waarheid in
+onze rechtspraak worden niet door recht
+en waarheid verwerkelijkt, maar in den
+regel door de List. Hierdoor zal wel de
+verwoede naijver blijven tusschen de
+advokatuur en de magistratuur. De eerste
+beroept zich op een scherper intelligentie;
+de laatste op een zuiverder en waardiger
+houding. Misschien hebben beide gelijk.
+Het is eens aardig na te gaan, wat
+wél geoorloofd is, en tevens achtbaar.
+Een vrouw wilde van haren man af en
+wendde zich daartoe tot den advokaat
+X. Gronden voor echtscheiding waren
+echter niet aanwezig; de man gedroeg
+zich uit een sexueel oogpunt onberispelijk,
+had geene veroordeeling ondergaan tot
+meer dan 4 jaar gevangenisstraf etc.
+Het advies van mr. X. was het volgende:
+Mevrouw, in deze omstandigheden (man
+en vrouw leefden gescheiden) fauteert de
+man meestal, ik adviseer u dus, uw echt
+
+genoot door een particulieren detective
+te laten nagaan." Dat de vrouw den
+raad afsloeg, ontneemt niets aan de be
+
+teekenis van het advies. Men voelt, wat
+dit nagaan beteekent: het individu wordt
+door den advokaat ingehuurd en ontvangt
+van hem zijne orders, gaat dan in de buurt
+informeeren, of er praatjes over mijnheer
+loopen, reist zoo mogelijk overal met hem
+mee, etc. etc., alles op hoop van zegen.
+De moreele laakbaarheid zal door ons
+niet worden aangeduid. Alleen zijn de
+antwoorden aardig, die wij, zoodra wij
+door derden van dit geval hoorden, bij
+informatie van confrères te hooren kregen:
+Waarom zou dat niet mogen?" Iedereen
+doet dat op zijn tijd." Ten slotte beriepen
+geïnterpelleerden zich op ... mr. X., die
+zulk een geacht advocaat is.
+Doch als de grenzen tusschen het al
+dan niet geoorloofde alleen door de
+usantiën en daarom zoo grillig getrokken
+zijn wij keuren niet af, doch
+constateeren alleen , waarom dan den eenen
+confrère zoo hard, en den anderen zoo
+mild beoordeeld. Waarom den maat
+
+schappelijk geslaagden advokaat, die toch
+zulk een slimme duivel" is, maar lang
+niet zuiver staat, zóbewonderd, en den
+zwakker-staande zoo meedoogenloos ver
+
+volgd ?
+Alle edelachtbaarheid en alle fatsoen
+berust op toevallige zede, en doe dan
+ook nooit het mom voor van verontruste
+moraal. Maar wanneer zij het doet, laat
+zij dan wegen de persoon naar zijn ambt.
+Dat dit ambt met de zuivere moraal
+in zeer oppervlakkig bondgenootschap
+leeft, kan door het volgende belang
+
+wekkende feit worden geïllustreerd. In
+de heiligenwereld der R. K. Kerk, in dit
+Pantheon der moraal, waar 25000 helden
+van onbaatzuchtigheid en zelfverloo
+
+chening door de vereering van het volk
+en de sanctie der kerkelijke machten
+staan, in zich zelf gekeerd, zwijgend, voor
+eeuwig, opgericht boven de dwalende
+kudden, hebben alle standen en be
+
+roepen hun vertegenwoordigers: koningen.
+schaapherders, bisschoppen,
+bedelmonniken, krijgslieden, schrijvers; men telt
+ze bij duizenden. In de onafzienbare rij
+komt echter slechts n advokaat voor:
+St. Yves, een Bretonsche heilige. Doch
+deze heiligheid is voor 't volk onver
+
+staanbaar gebleven en onbegrijpelijk.
+Op zijn naamdag; zong men den distichon :
+Advocatus et non latro, res miranda
+populo." 1) Dit was de stem des volks, die
+niet immer dwaalt, en in dit geval niet
+heeft veroordeeld, maar onderscheiden.
+Er zijn helden van de moraal geweest
+en helden van de balie. Men mag de
+eersten, ook al zitten zij met twintig
+tegelijk in een Amsterdamschen gemeente
+
+raad, niet laten rechtspreken over een
+der laatsten.
+Y.
+* *
+*
+De schrijver van het bovenstaande
+wijst er op, dat de N. R. Ct. aandringt
+op een onderzoek door een eereraad
+naar 't geen door den aangevallen ad
+
+vocaat zou zijn verricht. Dit is te vél
+eer, betoogt hij, want het geldt hier een
+advocaten-ruzie". Wij achten de scherp
+
+heid van 's schrijvers betoog gedeeltelijk
+te danken aan de analyseerende zelfstan
+
+digheid die ironie heet, want, al was ook
+
+1) Een advokaat, die geen schelm is, iets
+voor 't volk om zicli over te verwonderen.
+ons het hieratisch gebaar van den
+hoogleeraar-promotor dezer affaire (die, sedert
+hij vór het Arnhemsche Hof een psy
+
+chiatersrapport met maestria in tweeën
+scheurde, de aandacht trok) niet
+behagelijk, van een advocaten-ruzie" kan,
+meenen wij, hier niet uitsluitend sprake wezen.
+Het is natuurlijk juist, dat in een gemeen
+
+teraad van 45 vroede" mannen, d.w.z.
+dat in een verzameling van gedeeltelijk
+door allerlei kleine eer- en gewinzuchten
+gedreven vrienden van het openbaar
+belang, menseden zullen of kunnen zitten,
+die een vrij wat zwaarder (maar onbe
+
+kend) schuldregister meevoeren, dan de
+zwakke politicus die men thans uit de
+gemeenschap der heiligen stooten wil.
+Is dit echter een reden om, waar men
+bewijs meent te kunnen leveren, het
+vooze niet aan te tasten? De schrijver
+kan het natuurlijk niet meenen. En meent
+het niet. Men moet betreuren, dat sterkeren
+en sluweren dan de thans (terecht of ten
+onrechte) aangevallene, den dans ont
+
+springen, maar niettemin, den bezem
+opnemen als hij dienst kan doen schijnt
+plicht. De schrijver kan met zijn uitval
+enkel bedoeld hebben (en zoo stemmen
+wij met hem in), dat de pontificale en
+niet zeer onderscheidende wijze, waarop
+ter zake is opgetreden, een reagens
+noodig had.
+
+De vroolijkstemmende rol wordt in deze
+geschiedenis door de N. R. Ct. gespeeld.
+Het gaat te Amsterdam om een adÉBfët,
+die van allerhande zou gedaan liebCTSfJ/aat
+slecht is, maar dat tenminste niet geheel los
+kan gedacht worden van zijn ingewikkeld
+beroep, hetwelk tot velerlei kunstgrepen
+de zwakkeren leiden moét, de sterkeren,
+ook moreel-sterkeren, al te vaak leidt....
+Wat deze man (buiten datgene waar hij
+reeds voor boette) nog alles op zijn kerf
+
+stok hebben mag, indien hij iets op zijn
+kerfstok heeft, want men munt uit in vaag
+
+heid, is, nemen wij aan, zeer te
+veroordeelen, inderdaad, maar het is niet iets
+als de handeling, waaraan men een mede
+
+werker van de N. R. Ct. schuldig wist,
+een handeling, die niet het ambt" van
+den journalist in geen enkele relatie stond
+en ronduit eerloosheid betcekende. En hoe
+was toen de houding van die om eere
+
+raden verlegen courant? De strijd ligt
+nog versch in 't geheugen van hen, die
+de polemieken van dit Weekblad in 't
+verloopen jaar hebben gevolgd. Heeft
+toen de beschuldigde en zijn dagblad om
+eereraden gevraagd en lichtgezocht zooals
+thans (of van den aanvang af het licht
+#emeden ?) Wij zullen er maar over zwijgen.
+Doch ook ons had het bijna aandoenlijk
+onbevangen artikel in 't Rotterdamsche
+pers-orgaan met een heel klein weinigje
+verwondering vervuld... .
+Hertzog's aftreden
+
+Bij de beoordeeling van staatkundige
+vragen, welke zich in den tegenwoordigen
+tijd in Zuid Afrika voordoen, staan twee
+omstandigheden op den voorgrond: de
+Boereu werden overwonnen door een
+machtig Rijk, met hetwelk zij dus hadden
+en nóg hebben rekening te houden en
+de hollandsche Afrikaners maken met
+hun allen slechts ongeveer de helft uit
+van de blanke bevolking der Unie.
+De overwinnaar is in de eerste jaren
+na den vrede van Vereeniging streng
+geweest. Milner heeft vele pogingen aan
+
+gewend om den Afrikaner geheel ten
+onder te krijgen.
+Maar, er is een tijd aangebroken, n.l.
+toen in Engeland de Liberalen aan het
+bewind kwamen, dat men het aldaar eene
+praktische politiek de
+grootmoedigheidsvlag, waarmede door de Tories
+gaarne wordt gewapperd, kan men des
+
+noods laten waaien achtte om de
+zege niet te misbruiken, om een pleister
+te leggen op de wonden, welke de oorlog
+had veroorzaakt.
+Die pleister was: het verleenen van
+vrijheid, zelfbestuur.
+Campbell Bannermanen Asquith konden
+die proefneming doen, dewijl zij de over
+
+tuiging hadden dat de Afrikaner met ge
+
+matigdheid van de zoo spoedig verleende
+gunst gebruik zoude maken.
+Terwijl tot dusver bedoelde Engclsche
+verwachtingen zijn bewaarheid, is die
+j gematigdheid verpersoonlijkt in generaa
+Botha. Hij is het, die aldus de Unie heeft
+gebracht op een standpunt van
+autonon'iisch bestuur, dat, bij het sluiten var
+den vrede in 1902, als ondenkbaar, althans
+als zeer moeielijk te bereiken, werd be
+
+schouwd.
+Behalve uit Boeren, bestaat de blanke
+sevolking der Unie uit Britten en uit
+ieden van Britsche afstamming, die min
+of meer naar Engeland opzien als naar
+iet Moederland. Ook de Engelsche
+Afri&lt;aners, immers, waarvan sommigen ge
+
+neene zaak maken met den Boer,
+Atri&lt;aansch spreken en Zuid-Afrika als hun
+vaderland beschouwen, gevoelen altijd
+nog voor vél dat Angelsaksisch is. Want
+iet bloed kruipt waar het niet gaan kan.
+Voorts is er het niet onbelangrijk element
+van continentale immigranten : Duitschers,
+Italianen, Russische Israëlieten en anderen,
+die, in het algemeen gesproken, het
+is eenigszins merkwaardig! imperia
+
+listisch gezind zijn en vaak
+orvereenkomstig die gezindheid meer denken en
+handelen dan de Jingo's zelven.
+De zijde van Botha houden niet alleen
+de strikte volgelingen zijner gematigd
+
+heid men verlieze niet uit het oog
+dat zijn aanhang groot is ook in Natal :
+de, met uitzondering der distrikten Utrecht
+en Vrijheid, Engelschgezinde provincie
+der Unie maar in den grond der zaak
+staan tevens aan zijnen kant de slacht
+
+offers van den oorlog: de lieden, die
+zich verongelijkt gevoelen in hunne stof
+
+felijke belangen, in hun nationaal streven,
+in hunne taairechten, in hunne idealen van
+Zuid-Afrika voor den hollandschen Afri
+
+kaner".
+Gelijk gezegd, deze staan als het erop
+aankomt achter Botha; alleen de loop
+der dingen is hun te langzaam. Zij zijn,
+met hunne aspiratiën, ongeduldig ge
+
+worden, vinden het erg dat de vervulling
+hunner wenschen nog maar steeds op
+zich laat wachten en morren er over,
+bovendien, dat hunne zonen misschien
+zouden moeten vechten voor de Empire",
+dat hunne belastingpenningen kunnen
+worden gebezigd voor de versterking der
+Britsche vloot. Hun ongenoegen over dit
+alles hebben zij, gedurende den laatsten tijd,
+niet onduidelijk laten blijken aan voor
+
+mannen zooals Botha, Smuts en Fischer.
+Van deze ontevredenen nu is generaal
+Hertzog de voorvechter. En wie zal
+onredelijk noemen zijne in het openbaar
+gesproken woorden: Het Imperialisme
+is alleen 'van belang voor mij, wanneer
+het van nut is voor Zuid-Afrika, voor
+mijn land en voor mijn volk ; anders
+heb ik er alleen respekt voor op een
+afstand. En, als het tegenstrijdig is met
+de belangen van Zuid Afrika en zijne
+bevolking, dan ben ik een beslist vijand
+van het Imperialisme".?
+Of echter eene dergelijke uiting oppor
+
+tuun was in den mond des Ministers van
+justitie van eene zójonge Dominion"?
+De redenaar moet over die vraag, bij
+het uitspreken dier woorden, zelf iets
+van eene weifeling hebben gevoeld;
+want hij voegde er aan toe: Ik ben
+bereid om mijne toekomst als politikus
+daarvan te laten afhangen".
+Men kent het gevolg: Generaal Hertzog
+moest zijn ontslag nemen als lid van het
+Zuidafrikaansche Kabinet.
+Ook voor ons Nederlandsen stambelang
+schijnt dit voor het naast een verlies te zijn.
+Het is alsof de Hollandsch-Afrikaansche
+klok achter zal loopen voor een poos.
+Verwacht mag intusschen worden dat,
+liet verlorene, najeen zekeren tijd, zal wor
+
+den ingehaald. Hertzog's aftreden kan wel
+blijken een reculer pour mieux sauter" te
+zijn. In elk geval heeft de jongste crisis be
+
+vestigd dat de oude bevolking derUnie een
+man van karakter al zij het dan van een
+niet zeer soepel heeft in haren leider, die,
+ongetwijfeld, ook na afstand van zijn
+portefeuille te hebben gedaan, het
+KabinetBotha, waar mogelijk, zal steunen.
+Nu de jonge Zuid-Afrikaansche boom
+op weg tot bloei is, moge men het spijtig
+vinden dat hij niet sneller groeit in de ook
+voor ons gewenschte richting, het
+forceeren door broeikasmiddelen zou wel
+
+licht zijne wortels hebben geschaad.
+
+K.
+Verjaarde
+Rijkspostspaarbank- en Staatsschuldboekjes
+Non omnc quod licet,
+honcstnm.
+PAULUS.
+Art. 19 der Wet, die de R. P. S. B.
+beheerscht, luidt (post alia) :
+3. Aan het reservefonds wordt mede
+toegevoegd de waarde van hetgeen in
+de boeken der Rijkspostspaarbank is
+ingeschreven ten name van inleggers,
+die dertig jaren hebben laten verloopen
+zonder:
+a. of op hun spaarbankboekje eenige
+inlage gedaan te hebben of eenige terug
+
+betaling of bijschrijving van rente
+verzocht te hebben;
+b. of eenige in- of afschrijving op
+hun Staatsschuldboekje verzocht te
+hebben."
+Men zou geneigd zijn over deze be
+
+paling heen te lezen, allicht denkend,
+men heelt hier met een casus non dabilis,
+met een geval te doen, dat, nu ja, in
+een wetgevend brein opkomen kan, doch
+in werkelijkheid toepassing missen zal.
+Het jongste Verslag der R. P. S. B.
+over 1911 toont, dat men, in die
+meening, deerlijk zich vergissen zou.
+Niet minder dan 214 zegge 214!
+Rijkspostspaarbankboekjes verkeeren fei
+
+telijk in den toestand, bij art. 19 sub a,
+voorzien. De bezitters dier boekjes hebben,
+gedurende 30 jaren, na hunnen inleg, niets
+meer van zich doen hooren. Mitsdien
+heeft de Staat, het bedrag, dat hunne
+boekjes aanwijzen, als hem toekomend,
+genaast. Daarmede, wordt de ondenkbaar
+geachte gebeurlijkheid eene van bij uitstek
+practische beteekenis. En met haar, ont
+
+staat eene rechtsvraag, niet van gewicht
+ontbloot. Deze namelijk: in hoeverre is
+het zooeven gemelde voorschrift van
+art. 19 verdedigbaar?
+Voor hen, die aan de letter eener wets
+
+bepaling zich vastklampen, is deze vraag,
+in een oogwenk, beslist.
+Zij lezen namelijk in art. 1991 B. W.
+De Staat, de gemeenten en andere
+openbare gestichten zijn aan dezelfde
+verjaringen onderworpen als bijzondere
+personen, en kunnen daarvan op gelijke
+wijze gebruik maken."
+Op dezen tekst wijzend, zeggen zij
+triomfantelijk: welnu, van de bevoegdheid
+hem geschonken, heeft de Staat gebruik
+gemaakt. Daarmede is de zaak uit. Ik
+waag het evenwel aan de juistheid dezer
+beknopte redeneering te twijfelen.
+Ziehier mijne gronden:
+Met de oprichting der R. P. S. B. heeft
+de Staat een doel nagestreefd, van uit
+
+nemend ethische strekking. Zich richtend
+tot de burgers, verklaart hij de lust tot
+sparen, de eigenschap alzoo, die hunne
+economische welvaart verhoogt en hunne
+persoonlijke bedachtzaamheid verscherpt,
+te willen aanwakkeren. Te dien einde
+waarborgt de Staat, met eigen middelen,
+(art. 12) de terugbetaling der penningen,
+die men, als rentegevend hulpmiddel,
+voor den kwaden dag, afzonderen kan.
+Hij verschaft ook den minvermogende
+eene bezitting, waarop deze, onder alle
+omstandigheden, rekenen en die hij, ver
+
+rast hem de dood, aan de zijnen ach
+
+terlaten kan.
+Dit alles eert den Staat niet slechts,
+doch doet hem innemen den rang, dien
+men, meteen helaas! onvertaalbaar woord,
+doch zeer bevattelijk begrip, aanduidt als
+Culturstaat. In en door de R. P. S, B.
+wordt als ware het tastbaar voor oogen
+gesteld en voor ieder aanschouwelijk
+gemaakt, dat de gemeenschap, die wij
+Staat noemen, er eene is niet enkel van
+lasten, maar ook van lusten. Zelfs den
+minst nadenkende blijkt daarmede, dat
+de Staat de gelegenheid opent om hem
+van stoffelijk berekenbaar nut te zijn. Erzijn
+er, die de voorstelling dezer Staatsfunctie
+niet behoeven, om tot vaderlandsliefde
+opgewekt zich te gevoelen. Den wortel
+dezer aanhankelijkheid echter te ver
+
+sterken voor hen, die kwalijk loochenen
+kunnen, wat zij voor oogen zien, is
+steeds raadzaam.
+Hoe rijmt met, hoe past bij deze ethi
+
+sche onderlaag der R. P. S. B. de inha
+
+ligheid, ten aanzien der 214 verjaard
+verklaarde spaarbankboekjes, aan den
+dag gelegd?
+De Wet van 8 November 1815 (Stbl.
+51), die, nopens de daarin nader om
+
+schreven : pretensiën ten laste van het
+Rijk", voorschreef: indiening binnen zes
+maanden, na verstrijking van het dienst
+
+jaar, op straffe van verjaring, had en
+gaf daarvoor een deugdelijken grond.
+Haar Considerans namelijk luidt:
+Alzoo wij in overweging genomen heb
+
+ben de noodzakelijkheid om, ten einde
+de begrooting der Staatuitgaven over
+elk dienstjaar behoorlijk te kunnen af
+
+sluiten, eenen vasten tijd te bepalen,
+binnen welken alle pretensiën, ten laste
+van den lande, zullen behooren te zijn
+ingediend". Dit voetspoor volgden, om
+dezelfde geldige reden, de Artt. 125
+Provinc. Wet en 228 Gemeentewet.
+Even onberispelijk is het voorschrift
+van Art. 262 Gemeentewet, dat, in na
+
+volging van Art. 11 der Wet van 22 Mei
+1845 (Stbl. 22), op straffe van verjaring,
+gelast invordering van directe belastingen,
+binnen driejaren, na afkondiging van het
+kohier. Eensdeels, dacht men hier aan
+
+</text>
+<image timestamp="2002:08:18:06:37:20.00" size="430190">D40000JP.TIF</image>
+</page>
+</document>

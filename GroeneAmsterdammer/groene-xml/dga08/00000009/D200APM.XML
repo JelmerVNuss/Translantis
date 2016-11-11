@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340217</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 17 Februari 1934
+N o. 2959
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden1
+Molsteeg *- Amsterdam
+BOEKENKASTE
+COMPLETE BADKAMERS
+in eenvoudige en luxueuse uitvoering
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 32457 Keizersgracht 447
+Bijzonder!
+Dat is eigenlijk de juiste aanduiding voor
+Flor de Mayo". Daarbij buitengewoon
+lekker volgens hel oordeel van hen, die
+fijne chocolade weten te waardeeren.
+
+
+Flor de Mayo
+In luxe bloemendoozen	f 1.60 en
+3.Napolilains in doosjes van	f 1.40 en 2.75
+Los uitgewogen per ons	.55 cent
+BEGRAFENISVEREENIGINQ
+N. SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+f. O. Hooftstraat 38
+T»l. 2O341 2425O
+BUS8UM (Bijkantoor «/• «ooi)
+Brinklaan 138
+Telefoon 2278
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN^
+
+
+f-W. H. POLMAN TUIN-j
+l OVERTOOM 526 * Telefoon 82660 l
+l Begrafenissen - Transporten - Crematies |
+LEDERWAREN
+AMSTERDAM-DEN HAAG REISARTIKELEN
+
+PLAIDS, VOETZAKKEN, AUTO-OVERSCHOENEN
+EXPOSITIE
+
+1934
+
+Vanaf heden tot en met
+Zaterdag 24 Februari a.s.
+exposeeren wij op onze
+bovenzaal, dagelijks van
+8'/2 tot 6 uur (Zaterdags
+tot 10 uur), de nieuwste
+creaties op het gebied
+van gordijnstoffen.
+Onze stoffen zijn niet
+alleen kleurecht", doch
+bovendien onovertroffen
+wasch- zon- en weereeht,
+onder schriftelijke garantie.
+Indanthrcn
+
+Toegang vrij l
+
+Zonder eenige ver
+
+plichting tot koopen!
+ledere bezoeker ontvangt
+gratis onze brochure
+De Nieuwe Woning"!
+Leidschestraat 89-93
+AMSTERDAM-C
+
+</text>
+<image timestamp="2002:10:28:07:01:26.00" size="279495">D200APM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19101113</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Shibbojeth: Algemeen Kiesrecht.
+BIJVOEGSEL, van De Amsterdammer, Weekblad toni Nederland, van 13 November 1910.
+Richteren 12: Zoo zeiden de mannen van Gilead tot_hem: zijt
+gij een Ephraïmiet? Wanneer hij zeide neen, zoo zeiden zij tot hem:
+Zeg nu Shibbóleth; maar hij zeide: Sibbóleth en kon het alzoo niet
+recht spreken; zoo grepen zij hem, en versloegen hem aan de veeren
+der Jordaan.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harius &amp; Co.
+Mk. M. W. F. TREUB. HENRI POLAK. Jos LOOPUYT. MR. J. LIMBURG. DR. D v. EMBDEN. MR. P. J. TROELSTRA.
+
+
+G. J. de Jongh: Algemeen Kiesrecht" heb ik gezegd! Zóó alleen komje erlevend af!
+G. J. DE JONGH.
+(Rotterdam V).
+
+</text>
+<image timestamp="2002:08:24:05:24:10.00" size="173815">000004MA.TIF</image>
+</page>
+</document>

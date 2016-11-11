@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170414</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+14 April '17; No. 2077
+
+!'
+...
+f
+,V
+i \ n
+*
+HvF.v.Gelder&amp;Cfl.-^
+J.G.KOR5TEN
+SANITAIRTECH
+BUREAU
+KDNINGSPLEIfU
+;DAM
+GOOSEN 4 SWAGERMAN
+__ gj PIANO'6
+IN ALLE 5TULCN .
+i • ; EN HOUT6CORTCN
+ffl V-BLRDUX
+E E • KAPS«.a
+CATALOGI FRANCo
+OP AANVRAGE l
+"tOtKHOHÓTiTR. 1^9. TCL. 2.O5I.
+DtN HAAG:
+Kniering
+WGIEB
+Wilt U werkelijk
+
+B O L O Likeuren
+of zeer Oude Genever,
+EISCHT dan ons merk
+en wacht U voor namaak.
+ERVEN LUCAS BOLS, AMSTERDAM.
+\
+
+
+/
+
+J. H. DE BOIS
+KUNSTHANDEL
+SCHILDERIJEN
+PRENTKÜNST
+Kunstuilgaven
+HAARLEM
+KRUISWEG 68
+AMSTERDAM
+Filiale open dag.
+van 2 tot 5 uur
+HEERENGR. 444
+
+/
+
+
+\
+AUdKAUPAAfin
+PC.HOOr.T5TR.87
+UnQERIE.BED-TAFEL
+DE BOIT LETTESS
+FUffi CHOCOLADE
+El SUIKEBWEBKEI.
+ERVEN KRAMER
+- WIJDE KAPELSTEEG 4 • AMSTERDAM
+TELEPHOON NO 266
+FABRIEK VAN KANTOORBOEKEN
+'JHETWAPgNVANSINTLUCA
+GIDDINöSZONEF
+ROTTERDAM
+ELECTRISCHE LU IE
+AMSTERDAM,
+TELEFOON 4»tl 2,
+SPECIALITEIT IN ALLE BBOODSOOBTEN.
+GEÏLLUSTREERDE
+CATALOGU5GRATÏI
+25OpCt
+is de verhooging in
+den kostprijs van
+Turksche Tabak
+33 pot
+alleen is de verhoo
+
+ging in den prijs van
+onze fabrikaten
+CIGARETTES
+Maximum genoegen
+voor Minimum Prijs
+2 cent
+Ten gevolge van den Europeeschen oorlog en de hierdoor
+veroorzaakte enorme stijging in de prijzen van alle grond
+
+stoffen, waren wij, hoe ongaarne ook, genoodzaakt, onze van
+Oostersche Tabakken gefabriceerde Cigaretten eenigszins in
+prijs te verhoogen. Wij garandeeren onvoorwaardelijk, dat
+onze bekende merken van denzelfden prima Turksche Tabak
+vervaardigd worden als vóór den oorlog.
+SOLE MANUFACTURERS:
+ARDATH TOBACCO C2., LIP. LONDON
+
+uitsluitend verkrijgbaar bij
+Directeur»: UCS.S. WAISYISZ k co.
+Wagenstraat 167, Den Haag.
+Tel. 1119.
+Kantoor te i'dam Singel 183
+Tel. 5259.
+Deze belegging kan worden
+uitgevoerd geheel volgens
+teekeaingvanH.H.Architecten.
+Op aanvrage zenden wij gratis
+onze Catalogus.
+ROTSWERK
+CACTEEEN KWEEKERIJ.
+VOOR CACTEEEN IN VERSCHIL
+
+LENDE GROOTTE EN PBUS.
+Amstelveenscheweg 22, N.-Amstel.
+KUNSTHANDEL
+S. J. SALA, - DEN HAAG.
+AQUARELLEN EN SCHILDERIJEN.
+Restaureeren van Schilderijen.
+NOOEDEINDE 27a.	TEL. 7094.
+WONINGINRICHTINGEN
+BETIMMERINGEN
+PERZISCHE TAPIJTEN
+ANTIEK
+UHfiENS'
+PLANTA
+JlURfiENS'
+AXA
+P., 6.
+JURGENS'
+JURCENS'
+PLANTA
+R e
+,«*
+JURACNX'
+PLANTA
+AXA
+f.r.6.
+JURCCNS'
+AXA
+JURfiENS'
+PLANTA
+PLANTA
+J URGENT
+AXA
+AXA
+URfiENS'
+PLANTA
+P...8.
+
+</text>
+<image timestamp="2002:08:23:11:04:59.00" size="280034">D2002UC.TIF</image>
+</page>
+</document>

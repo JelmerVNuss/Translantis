@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970704</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1045
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Prof. Engelmann's vertrek naar Berlijn.
+Prof. ENGELMANN (tot Prof. RECTOR TREUR) : »Ik ga, zoo hebt ge 't immers bedoeld, collega ?"
+Op negen verslagenen.
+THEOD. HEEMSKERK-NOLTING.
+O Theodorus ons van God gegeven.
+Maak van de	kerk Uw nuis.
+Wil Heemskerk niet als ridder Heemskind leven,
+Vecht nooit, maar bidt, blijf thuis.
+
+PIERSON—KETELAAR.
+De zoon van Pier, een zek're Klaas,
+Een held in 't redeneeren,
+Kwam met een Ketellappersbaas
+Op straat aan 't disputeeren.
+Hij wond zich wel een beetje op
+n riep: zou jvj m' iets leeren,
+Jij mij, met mijn belezen kop!
+Wat ken je, dan soldeeren?
+
+De ketelaar zag voor zich heen
+En sprak geen woord terugge
+Maar lichtte Pierson fluks een been ;
+En Klaas lag op zijn rugge!
+
+KUYPER-TAK.
+Een Kuyper wou klimmen
+boven een Tak
+En ofschoon de Tak
+niet brak
+Begon de Kuyper te glimmen
+Als wijlen Aaltje,
+Die zat op een paaltje,
+'t Paaltje brak,_
+En Aaltje viel in de koeienk..
+Zoo blijft 's lands historie eeuwig dezelfde.
+Die na nummer 10 komt is altijd de elfde.
+En op dat getal
+Staat soms de wijste van al!
+De lust om te zitten boven een tak of op een paaltje
+Brengt geen minder ongeluk aan Abraham dan aan Aaltje.
+
+PASSTOORS-HELDT.
+Pastoors, hoe kwaamt ge aan dien naam,
+Wie werd ooit als Passtoor's geboren?
+Heldt had reeds in de wieg zijn faam
+En heeft haar nimmermeer verloren ...
+
+Maar jij, met jou gestolen reputatie,
+Komt nooit bij onze kiezers in de gratie!
+
+SCHAEPMAN-PIJNAPPEL.
+(1111). (2218).
+Een Schaep-man op de dorre heide,
+Zijn witte vachtkens weidde,..
+Zij doolden naar het Dennenwoud
+Als zoete schaepkens stout.
+En hoe of onze herder riep,
+Geen enkle die meer tot hem liep.
+Hij telde er n, en n, en n, en n
+Maar verder kwam er geen.
+
+KUYPERS-CREMER.
+
+n Kuyper en Cuypers in 't geheel
+Zijn dat er niet minstens drie ?
+Maar is er ook n al n te veel...
+Is 't wonder dan, dat 'k niet n er zie?
+
+MELLINK-GROEN VAN WAARDER.
+
+Hoe zou Mellink, d' antirevolutionair, niet hebben moeten blozen.,
+Als de kiezers hem in plaats van Uroen hadden gekozen!!
+
+HOVY-HARTOGH.
+
+Fy, Hovy, die een' Hartogh wou verslaan,
+Hoe bitterlijk moest dit u rouwen!
+Uw brouwers Valk moog' door uw «Stout" bestaan
+Uw -"stout bestaan" zou kwaad u brouwen l
+
+VAN DEN BERGH-GLEICHMAN.
+
+O Zadok! van den berg gevallen,
+Waarop 'k mijn hope had gesteld ;
+Die berg van zooveel honderdtallen
+Rijksdaalders door niet n geteld!!
+Doch 'k geef den moed nog niet verloren
+Zoo lang er geld in 't laadje is
+'k Heb met mijn vrienden u yerkoren
+Wij brengen u er eens gewis!
+Wij komen weór maar met een bonnetje
+Tot Socialist en Radicaal •
+Voor margarine bij het tonnetje
+En 'k wed, ze stemmen je allemaal!
+Klacht van den heer Jurrie Koolhaas, te
+Pappelendam over de libertijnsche
+stoutigheden van het Nieuws van den Dag".
+
+(Ingezonden).
+
+De wond'ren zijn niet van de lucht!...
+Het Nieuws" is liberaal geworden', '. ...
+Het steekt de krijgsklaroen geducht,
+Bereid om zich ten strijd te gorden!
+
+O, Nieuws! o, Nieuws! Wat stoutigheid ?
+Hoe dorst g' u aan het denkbeeld wagen ?
+Da's mér dan onbedachtzaamheid!
+Eti dat voor u, zoo rijp van dagen!
+IIIIIIIMIIIMHIIIIIIIHtlllllllllllMlllllltltlllllMltlMIIIIIMtnillllllUIIIIIIIIIIIIIIMIIIIIIIMMIIIIIIIIIIIIINIIIIIIIHIII
+
+Waar blijft ge nu met uw fatsoen?
+En met uw schoon »neutraal-beginsel"?
+Wie gaf u die gedachte in ?
+Wien dankt ge toch dit snood verzinsel?
+
+Uw preekjes waren soms wat boud,
+'t Moderne sausje veel te luchtig,
+Uw attisch wel eens ethisch zout,
+'t Neutraal vernisje vaak wat vluchtig,
+
+... maar toch,... het kon er nog mee door,
+De lezers waren best tevreden,
+'t Was vleesch, noch visch; 't was warm, noch koud,
+Tot klagen had geen sterv'ling reden.
+
+Al wat ge schreeft, het was neutraal;
+Ordent'lijk, netjes, 't gaf geen aanstoot,
+Ge gaaf t de nieuwtjes van den dag,
+Tot drie uur 's middags, als g' uw krant sloot.
+
+En scholdt g' eens flink, op Turk of Griek,
+Of' legdet Rhodes in de luren,...
+Dan juichten we allen met u mee,...
+Dut hinderd' niet, dat gold de buren!
+
+Maar wat ge nii hebt durven doen,
+Gaat alle paal en perk te buiten,
+'t Strijdt regelrecht met uw fatsoen,...
+'t Is rebellie, 't heeft veel van muiten!...
+
+'n Ordent'lijk blad bekent geen kleur,
+Dat is verdraagzaam en tevreden,...
+Wat deksel! 't Maakt m' uit m'n humeur,
+En, zeg hel zelf, heb ik geen reden ?
+
+'k Heb op de soos al last gehad,
+En 'k wil geen last, 'k wil rust en vrede;
+Wat, gaan mij die partijen aan,
+En dat gekies, 'k stem toch niet mede.
+
+Neen, hoor eens Nieuws, gebruik verstand,
+En hang je harnas aan den kapstok,
+Stuur jij je klepper weer naar 't land,
+En breng je vaantje naar het waschhok.
+
+Wasch af het tintje, blijf neutraal,
+Berg op trompet en houten sabel,
+Maak niet zoo'n ijselijk kabaal,
+En denk aan Lafontaine's fabel.
+
+En wil je met geweld wat doen,
+Verbeter dan je mozaiekjes,
+Geef niet zoo'n vracht verscheidenheid
+Van hoofden, bladen en rubriekjes.
+
+Blijf net, Ordent'lijk en neutraal
+En waag je niet aan kleur-pretenties,
+Denk liever aan je abonnés,
+Aan dividend en advertenties.
+Hoogachtend,
+JURRIE KOOLHAAS, rentenier.
+
+</text>
+<image timestamp="2002:08:21:21:07:21.00" size="173448">000003U7.TIF</image>
+</page>
+</document>

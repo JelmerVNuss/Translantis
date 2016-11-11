@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18880826</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+S', 583
+DE AMSTERDAMMER
+A°. 1888
+WEEKBLAD VOOE NEDERLAND.
+Onder Redactie van J. DE KOO en JUSTÜS VAN MAURIK Jr.
+Ieder nommer bevat een Plaat.
+Het auteursrecht voor den inhoud van dit Blad wordt verzekerd overeenkomstig de wet van 28 Juni 1881 (Staatsblad No. 124.)
+• Verschijnt eiken Zaterdagavond.
+Uit«e»er: Tj. VAN HOLKEMA, te Amsterdam,
+Keizersgracht 436.
+Zondag 26Augustus.
+Abonnement per 3 maanden	f 1.—. fr p. p. f 1.15,
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar . , . 0.10.
+Advertentiën van 1—5 regels f 1.10, elke regel meer . • . 0.20.
+Reclames per regel	n 0.40.
+INHOUD:
+VAN VERRE EN VAN NABIJ. - FEUILLE
+
+TON: Maestrina,&lt;dejonge Onderwijzeres). III, naar
+het Fransch van D. Ciampoli. Mr. S. Vissering,
+door P. N. Muller. UIT PARIJS, door A. B.
+Brieven uit GrootMochum, door Dandoly.
+KUNST EN LETTEREN : De zeven componisten
+der Marseillaise. On the Brink, A comedietta
+in one act, by Jack T. Grein, en Wouter en Doo
+
+reken, Minnespel' in n bedrijf, door Floris van
+Westervoort, beide beoordeeld door Alb. Th.
+Het oude Parijs. VARIA. Oud-Amsterd.
+Verseheidenheden, SCHAAKSPEL. Voor
+Dames, door E-e. ALLERLEI. CORRES
+
+PONDENTIE. RECLAME. BEURSOVER
+
+ZICHT. ADVERTENTIËN.
+
+
+Van verre en van nabij.
+
+Het is in Duitschland, Oostenrijk en Ita
+
+liëgewoonte geworden, van de triple alli
+
+antie dezer mogendheden te spreken als van
+een vredesbond, en geen gelegenheid te la
+
+ten voorbijgaan om te wijzen op het zuiver
+defensief karakter van deze vereeniging. Het
+zou natuurlijk ongepast zijn, aan de edele
+bedoelingen dier alliantie te twijfelen, maar
+men kan de oogen niet sluiten voor het feit,
+dat, niettegenstaande den »vredesbond", het
+onweer tegenwoordig niet van de lucht is.Wan
+
+neer de heer Von Bismarck zelf niet de Olym
+
+pische wenkbrauwen fronst waar Frank
+
+rijk of Rusland een donderend QU.OS ego laat
+hooren, dan vervult een zijner bondgenooteii
+de lucht met zijne alarmkreten, die in de pers
+der bevriende rijken luide worden herhaald.
+Nu eens heeft Oostenrijk het met Rusland
+aan den stok, dan weder Italiëmet Frankrijk.
+Zoo houdt men de potjes te vuur; zoo wordt
+het mogelijk, dat de vredelievende
+rijkskanselier, die »nooit een oorlog zal verklaren als
+hij er niet toe gedwongen wordt", te allen
+tijde een voorwendsel heeft, dat dien oorlog
+onvermijdelijk doet schijnen, en het voor hem
+tot een eereplicht maakt, voor zijne
+bondgenooten in de bres te springen.
+Het conflict tussehen Italiëen Frankrijk
+werpt op het eigenaardige van dezen toestand
+een helder licht. De Fransche regeering had
+zeer zeker verstandiger gedaan, wanneer zij
+haar protest tegen de afschaffing der
+capitulatiën te Massowah, niet had laten indienen
+door een consul, wiens bevoegdheid even twij
+
+felachtig was als de rechten zijner Grieksche
+cliënten, maar het is niet te ontkennen, dat
+het protest op zich zelf, van liet standpunt
+van net internationaal recht beschouwd, vol
+
+komen gegrond is. De heer Crispi heeft het
+
+
+Feuilleton.
+
+
+MAESTRINA,
+(de Jonge Onderwijzeres),
+
+naar het Italiaansch
+3) VAN
+D. CIè.MPOLI.
+Dat groote Christusbeeld, vreemdsoortig aan
+rood geschilderde spijkers opgehangen, zag zij
+met duistere half gesloten oogen aan, ze had
+er een afkeer yan, ze vond er niets in van
+die onvergelijkelijke zachtmoedigheid van den
+Heiland, niets van die verheven
+vergevensgezindheid op die blauw geschilderde lippen,
+slechts een wanstaltig naakt lichaam met
+blauwe plekken en wonden. Zij wilde het
+Ciccu-Nanno op de schouders laten nemen
+om het naar het gemeentehuis terug te bren
+
+gen; maar zij dacht gelukkig nog bij tijds aan
+de woorden van den Syndicus en veranderde
+van plan. Alles, hoopte zij, zou nu wel te
+
+recht komen, maar wat veel geduld. Zij nam
+Slaats op het bankje voor haar bestemd, met
+e handen op den lessenaar, die nog naar hars
+rook. Hier _ zou ze dus onder een troep on
+
+deugende kinderen n, twee, misschien drie
+jaren doorbrengen, wie weet? misschien
+haargeheele leven, als in een eenzaam, doodsch
+klooster. In de elkander opvolgende weken
+en maanden zouden de herinneringen aan die
+verwijderde wereld, aan die groote steden
+in haar ziel verflauwen; daar rustte steehls
+het gebeente_ harer ouders, niets dat leefde,
+behalve eenige smartelijke herinneringen;
+niemand had ooit met haar op gehad, en zij
+beminde niemand en werd door "niemand be
+
+mind; zoo_ was zij door het leven gegaan met
+een hart in rouw gedompeld en een geest
+bovenmate ernstig door de immer
+wederkecrende gedachte aan het dagelijksch brood.
+Zij kwijnde bij de gedachte van zoo te moeten
+sterven,alleen en op algemeene kosten te worden
+goed gevonden alarm te blazen, en gansch
+Europa in deze zaak te mengen, hij slaat tegen
+
+over Frankrijk een toon aan, dien men niet an
+
+ders dan uitdagend kan noemen, en hij wordt bij
+dit alles door de vrienden in Duitschland en
+Oostenrijk luide toegejuicht. En als wilde hij
+der wereld toonen, dat zijne agressieve staat
+
+kunde de goedkeuring wegdraagt van den
+man, die de »vredesalliantie" in het leven
+riep, gaat hij, tussehen het schrijven van twee
+dreigende nota's in, een bezoek brengen te
+Friedrichsruhe, ofschoon het nog geen tien
+maanden geleden is, dat hij daar den
+Duitschen rijkskanselier zijne opwachting maakte.
+Destijds heette het bezoek eene samenzwering
+in het belang van den vrede; heeft het thans
+hetzelfde doel gehad, dan zal men moeten
+toegeven, dat sommige menschen wonderlijke
+middelen gebruiken om hun doel te bereiken.
+De Duitsche en Oostenrijksche bladen ont
+
+kennen niet, dat de Italiaansche premier
+tegenover Frank rij k eene buitengewoon scherpe
+taal voert, maar zij vinden hierin geen be
+
+zwaar, vooreerst omdat zij meenen, dat men
+Frankrijk »en de overige vijanden van den
+vrede" moet brutaliseeren, om aan het chau
+
+vinisme en de revanchelusten den kop in te
+drukken, en in de tweede plaats, omdat zij
+Frankrijk door zijne binnenlandsche
+oneenigheden voor machteloos houden tegenover het
+buitenland. Het zou wel eens kunnen blijken,
+dat de beide onderstellingen ten eenenmale
+onjuist waren. Wat de laatste betreft, ziet
+men maar al te veel over het hoofd, dat de
+luidruchtige tooneelen in de Kamer en het
+Parijzer straatrumoer de achtereenvolgende
+ministeriën in Frankrijk niet hebben belet,
+met onverflauwden ijver en met onmiskenbaar
+goed gevolg te arbeiden aan de verbetering
+
+en de uitbreiding der strijdkrachten, en dat
+de afkeer, dien de czar ongetwijfeld voor
+roode republikeinen gevoelt, hem niet zal
+weerhouden om de hulp van dezen aan te
+nemen of zelfs in te roepen, zoodra hij dit in
+het belang van zijn eigen rijk noodig acht.
+Maar, generaal Boulanger ? Ja, het is niet
+te ontkennen dat de uitslag der verkiezingen
+van den vorigen Zondag voor de republiek
+eene zeer onaangename verrassing, eene groote
+teleurstelling is geweest. Het ministerie hield
+den would-be dictator voor verslagen en zijne
+herzienings- en ontbindiiigscampagne voor
+afgedaan. De openbare meening sloot zich,
+naar het scheen, bij deze opvatting aan. Zoo
+kon men het wagen, in drie departementen
+tegelijk aan vullingsverkiezingen te doen plaats
+begraven, geen bloemen, geen tranen; de
+grafkuil der armen boezemde haar meer angst in
+dan de armoede van haar bestaan. Zij gaf
+echter aan de vrees, die haar keel toekneep,
+niet toe; zij stond op, ging naar het venster,
+wikkelde zich in haar omslagdoek en keek,
+diep ongelukkig,eruit. Ciccu-Nanno was in een
+hoek gekropen en streek het haar van zijn
+hond glad, hem eenige woorden toesprekende,
+welke het dier met half gesloten oogleden
+aanhoorde.
+In haar hutje teruggekeerd trof ze er de
+herbergierster, aan den haard zittende, waar
+een helder vuurtje flikkerde.
+»Ik heb er aan gedacht, en ik ben hier om
+je te zeggen, datje, zoolang alles nog niet in
+orde is, bij me moet komen eten, dat wil je
+immers wel doen ?"
+Het meisje drukte haar de handen, »dank
+je", zei ze, nvat ben je toch goed voor me.''
+»Wat praat je van goed, Ik doe 't voor
+mezelve, dus asjeblieft geen bedankjes. AVeet
+je wel Signoria dat ik je al liet' had voor dat
+ik 't zelf wist; ik heb ook een dochter gehad
+evenals Signoria, blank en doorschijnend als
+glas. Zij was een deel yan mijn hart en God
+heeft haar weggenomen/' Zij barstte in snik
+
+ken uit. &gt;"t Is of mijn smart vermindert, als
+ik een beetje goed kan doen ; je hadt haar
+moeten zien, wanneer ze zei: «moeder daar is
+een arme man aan de deur" • ze deed me met
+d ie lieve oogen van een heilige i n tranen smelten.
+Nu is zij gewis in den hemel en zal zeker
+goed op u zijn, siguoria. \Vas ze nog op
+aarde, dan zou zo uw tafel dekken en u met
+haar blanke handjes dienen." Het diep bewo
+
+gen meisje kon niet spreken; verbaasd
+zooveel hartelijkheid te vinden bij die
+onbeschaafde vrouw, welke haar tranen met
+baar zijden boezelaar afdrogend er bijvoegde:
+»Houd maar moed, 't is hier een naar land;
+ze hebben de spreuk van de ouden ver
+
+geten, dat men den vreemdeling gastvrij
+moet ontvangen, maar ik vergeet mijn Menu
+nooit,... vaarwel." En zij ging heen maar
+liet op de tafel verschillende schoteltjes en
+drie tafellakens achter.
+Het werd avond; vermoeid en neerslachtig
+hebben. En ziet, in alle drie werd Boulanger
+gekozen!
+In de samenstelling der Kamer is door deze
+verkiezing geen wijziging gebracht; generaal
+Boulanger, de candidaat der vereenigde
+bonapartisten, orleanisten en clericalen, is
+in twee departementen gekozen ter vervan
+
+ging van leden der rechterzijde, en in het
+derde gold het de plaats, die hij zelf had
+opengelaten. Ook is het thans op de meest
+overtuigende wijze gebleken, dat de eerzuch
+
+tige generaal aan de republiek den rug heeft
+toegekeerd en dat de reactionnairen zich van
+hem als een werktuig bedienen. Het
+constateeren van die feiten schijnt een positief voor
+
+deel voor de republiek te zijn. Maar daar
+
+tegenover staat, dat niemand op het
+oogenbhk meer het aantal kan begrooten van hen,
+die, hetzij uit moedwil, hetzij uit lichtzinnig
+
+heid, hunne ontevredenheid met de bestaande
+toestanden te kennen zullen geven door hunne
+stemmen uit te brengen op een avonturier als
+Boulanger. Naast de
+n'im}iarte-qui,ste(i,&lt;le&gt;volgelingen'van Cassagnac, dieaaueen persoonlijk
+régime.van wien dan ook, de voorkeur geven bo
+
+ven de parlementaire republiek, staat de groote
+menigte van hen, die het .Journal des JJélats
+onlangs met een even leelijk en even schil
+
+derachtig woord de mttrcehofiistrs noemde.
+Wanneer deze factoren samenwerken, en de
+monarchisten, gelijk thans reeds is geschied,
+met verloochening van hunne eerste beginselen,
+hun zegen daartoe geven, is de mogelijkheid
+niet uitgesloten, dat uit de algemeene ver
+
+kiezingen van het volgende jaar eeue dicta
+
+tuur voortkomt en dat deze slechts het voor
+
+spel is van eene nieuwe periode van caesarisme.
+Doch zoover is het nog lang niet. .Wanneer
+de tegenwoordige regeering, die uit eerlijke
+en bekwame mannen bestaat, zich weet te
+handhaven, en evenmin toegeeft aan het
+vreesachtig opportunisme, dat voor iedere
+hervorming terugdeinst, als aan het onbesuisd
+drijven der iniransigenten, dat alle hervor
+
+mingen, ook de meest problematische, tegelijk
+wil invoeren, dan zal zij in den loop van het
+jaar genoeg aan invloed en prestige hebben
+gewonnen, om dien storm te weerstaan. Doch
+dan zal ook de Kamer, door aan een ver
+
+standig regeeringsprogramma haar steun te
+schenken, eene wijze zelfverloochening in
+praktijk moeten brengen.
+Zijn dus de vooruitzichten voor de republiek
+niet zoo gunstig, als men wel zou mogen
+wenschen, toch kan er geen sprake van zijn, dat
+Frankrijk door binnenlandsche vcrdeeldheden
+machteloos zou zijn geworden tegenover een
+buitenlandschen vijand. De heer Von
+Bismarck zal, naar wij vertrouwen, zich wel
+wierp het meisje zich op een stoel neer en
+gaf een wenk aan Ciccu-Nanno om heen te
+gaan en de deur te sluiten.
+Toen zij alleen was voelde zij zich beter;
+het gelui van het Ave Maria in de verte, dat
+plechtig over de stille velden weergalmde,
+bracht de zachte kalmte des gebeds in haar
+ziel, en zij bad voor haar ouders.
+Om klokke acht ure ging zij iedereii morgen
+naar de school en vond er altijd eenige meis
+
+jes, die met een stuk hout in de hand en wat
+rijshout onderden arm stonden te wachten.Bin
+
+nen gekomen opende zij het venster om de lucht
+te zuiveren, sloot het weer en op haar bankje
+gezeten liet zij toe, dat de kinderen het vuur
+aanmaakten, waarvoor ieder leerling droge
+takken, spaanders, boomschors of takkebossen
+had meegebracht. De kamer was in verschil
+
+lende rijen met tabouretjes, stoelen, banken
+en krukjes bezet. De meisjes gingen gaande
+
+weg zitten met koude wangen, koude handen,
+den mond vol eten en in do boezelaars nog
+een gedeelte van het ontbijt. Er was een
+gebabbel, een geschornmel, een opdringen dat
+hooren en zien vergingen. Zij zat daar on
+
+beweeglijk; hoewel haar donkere oogen ge
+
+opend waren zag zij niet, luisterde maar hoorde
+niet; misschien bezag ze zich inwendig- en ver
+
+nam dan zwaarmoedige en fluisterende stem
+
+men. Somtijds kwam de vrouw van deneenen
+of anderen houthakker, die in 't, bosch werken
+ging en bracht haar jongste kind onder de
+hoede van een onhandige zuster naar school,
+dan verscheen er weer een kolenbrander, die
+een schreeuwenden jongen ineèbracht en vloe
+
+kende heenging-, omdat God hem zijn vrouw
+ontnomen had.
+De onderwijzeres drukte onderworpen haar
+lippen op elkander; voortaan was toch ieder
+protest vruchteloos, zij moest er zich maar in
+schikken; men had haar te kennen gegeven.
+dat men, nu do gemeente haai- betaalde, ouk
+recht had op haar boelen dag; en dal zij
+airkindermeid, als dienstbode, als ik weet niet
+Wilt hulp moest verlecncn. Zij had oogrnblik'
+ken van moedeloosheid, waarin zij er aan
+dacht om haar rcistasch naai' weer op den
+ezel var. lïccchiamazzo te laden en heen te
+wachten om hiervan de proef te nemen, en
+ook zijn grijzen leerling Crispi een »tot hier
+toe en niet verder" weten toe te roepen. Het
+mag hem wenschelijk voorkomen, den toestand
+van spanning te bestendigen, maar totnogtoe
+heeft hij geen reden gegeven om te twijfelen
+aan de oprechtheid zijner verzekering dat hij
+den vrede boven den oorlog verkiest. Zal-die
+vrede echter behouden blijven, dan is het
+wenschelijk, dat niet slechts de heer Crispi
+binnen de perken der betamelijkheid worde
+gehouden, maar dat ook veel hooger geplaatste
+personen eene wacht voor hunne lippen zet
+
+ten. De uitlatingen van den jeugdigen
+Duitschen keizer zijn maar al te geschikt, om het
+gevoel van onzekerheid en van onrust, dat
+zich in de laatste maanden opnieuw van Eu
+
+ropa heeft meester gemaakt, op bedenkelijke
+wijze te vermeerderen. En niet altijd en niet
+overal is het gezond verstand der natiën het
+correctief voor het kwalijk begrepen eerge
+
+voel der vorsten.
+Mr. S. VISSERING.
+
+Zelden is een Amsterdammer, die van zijn ze
+
+ventigjarig leven bijna veertig jaar lang- elders
+woonde en werkte, toch zulk een trouw en aan
+
+hankelijk zoon zijner geboortestad gebleven, als
+de helaas, nu reeds weggenomen man wiens naam
+aan 't hoofd van dit opstel staat en wiens beelte
+
+nis terecht is opgenomen in hot blad dat De
+Amsterdammer, tot titel voort. Te Leiden van
+IbóO tot IbT'J hoogleeraar, en te 'a Ifage woon
+
+achtig gebleven, nadat hij in 1881 don
+ministoriüelcu zetel verlaten had, wras toch Amsterdam
+do plaats alwaar hij met zijne gedachten en sym
+
+pathieën bij voorkeur loofde, en in welks lief en
+leed hij doolde met een warmte en een haast
+kinderlijke liefde, dio voor menig inwoner dier
+stad, werkelijk beschamend mug genoemd worden.
+31ij zou 't niet voognn hem hier te herdenken
+als den man van studie en var. wetenschap. Vooral
+i:i con land als het onz'^ dat ongetwijfeld in
+verhouding tot zijne inwoners ccn grooter aantal
+hoogleeraars telt dan eenig ander ter wtreld, komt
+dio taak aan anderen too. Evenmin zou 't aan
+
+gaan dat ik zijne verdiensten roomde op hot gebied
+der staatkunde, gebleken zoowel door het aan
+
+wenden van pogingen om als minister ons belas
+
+ting-stelsel te verbeteren als door het invloedrijk
+woord dat hij deed hooren bij menig politiek
+vraagstuk van don dag. En overbodig acht ik 't
+op hem te wijzen als een onzer moest gevierde
+Staathuishoudkundigcn; omdat do derde druk van
+zijn Handboek van Practische Staathuishoudkunde
+zijn verdienste to dien aanzien meer afdoende bewijst,
+dan ik door woorden zou kunnen betoogcn. Maar
+hem tot voorbeeld te stellen aan alle landgeiiooten
+als ecu man dio van zijn jeugd af altijd geijverd
+heeft voor do belangen van zijn vaderland en; in
+
+
+gaan, maar waarheen? Goede God! waarheen?
+De wereld was voor haar een woestijn en
+z;j stond alleen. Zij trachtte de stilte in de
+school te bevorderen door de kinderen te laten
+zingen of te laten bidden, zij leerde hun de
+klinkletters en de andere, maar ze begrepen
+er niets van en het meisje beklaagde zich
+wanhopig' over haar verloren illusiën. De
+grootste meisjes zagen haar brutaal aan als
+om haar te trotseeren; de kleinste begonnen
+te huilen, wanneer ze niet mochten babbelen.
+Zij voelde zenuwtrekkingen, die zij trachtte
+te beheerschen, maar werd rood van inspan
+
+ning en kreeg ^pijn in de borst dooreen hoest
+
+bui gevolgd. Zij bad God om haar maar te
+laten sterven, zoo kon ze 't niet langer uit
+
+houden. Haar schoone droomi-n van vroeger
+kwamen niet meer terug; de waarheid stond
+naakt, onverbiddelijk, kil als de dood voor
+haar, eu in dien toestand te moeten leven,
+wie weet hoe lang! De pijn in haar borst
+boezemde haar somtijds een droevige hoop in.
+Wat een troost, altijd te rusten, eeuwig te
+slapen! In haar moedeloosheid zou ze gaarne
+heel verre, voorbij de sterren gegaan zijn, en
+even als die dunne nevel zich in het onein
+
+dige n zuur, rustig, langzaam, zonder vrees,
+zonder verwijt verliezen.
+Wanneer zij iedere n dag tweemaal naar school
+ging-, zakten haar arme kleine voeten diep in
+de sneeuw of in den ijskouden modder; de
+nooL'dewiml sneed in haar kwalijk bc-dekt ge
+
+laat eu woei haar kierren dooreen ; ze bekom
+
+merde er zich echter weinig om, maar dacht
+aan Mena yan de herbergieivtcr en benijdde
+haar. Menigmaal bloei' zij aan de vensters
+kijken_ naar de musciijw, &lt;!ic in /wennen van
+de kuilen in den weg nanr de bladerlooze tak
+
+ken of de_sneeuwvelden vlogen en had medelij
+
+den mot die vogeltjes, want zij waren ook alleen
+in de wereld en ha'ldcn veel te lijden "s Avonds
+bij den haard gezeten breide of las zij, maar
+menigmaal bleef &lt;!c kous of het boek onaan
+
+geroerd op haar schoot liggen ; haar svest
+verdiepte zich dan in duistere ai'u'roiiilcn,
+waaruit zij verschrikt tetugkcerdi1. Dan wér
+spitste zij het oor en luisterde naar lu-f
+gehuil van den wind in de bcrgspli'lcn. naar
+
+</text>
+<image timestamp="2002:08:20:16:31:42.00" size="404162">D1000208.TIF</image>
+</page>
+</document>

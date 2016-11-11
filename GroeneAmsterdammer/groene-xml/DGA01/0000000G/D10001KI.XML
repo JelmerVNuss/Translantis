@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18860131</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 449
+LETTERKUNDE.
+DE MAHDI.
+
+Men herinnert zich, dat onlangs in verschillende bladen melding werd
+«gemaakt van de wederwaardigheden van dr. G. Snouck Hurgronje tydena
+«gn verblijf in Arabië, en dat door den reiziger zeli hieromtrent een en
+ander werd medegedeeld. In afwachting van de nader door hem te
+frabliceeren resultaten van zijne wetenschappelijke onderzoekingen, is het
+van belang niet ontbloot melding te maken van een artikel van dr.
+Snouck flurgronje in de Revue coloniale Internationale (Januari-aflevering)
+getiteld Der Mahdi en daaraan enkele bijzonderheden te ontleenen.
+Nadat de schrijver in hoofdtrekken de ontwikkeling der Mahdi-idée tot
+&lt;OP onzen tyd heeft uiteengezet, geeft hij zijn oordeel over de
+Mahdisasehe bewegingen, waarvan nauwkeurige gegevens in voldoenden
+{getale hem ten dienste stonden.
+'f Ten opzichte van de Soedaneesche beweging is dit niet het geval.
+Baar uiterlijk verloop kennen wij eenigermate uit de berichten der
+dag'bladen; over datgene wat buiten het oorlogsterrein is voorgevallen, be«
+Bitten wij slechts weinige en geheel onvertrouwbare berichten.
+f I)e schrijver wenschte echter voornamelijk den indruk weer te geven,
+(dien de Soedaneesche beweging in andere Mahomedaansche landen te
+
+weegbracht. Daar de sshr. juist iets meer dan een jaar (Augustus 1834
+[September 1885) in Arabiëdoorbracht, met het doel den tegenwoordigen
+Islam in zijn centrum door eigen aanschouwing te leeren kennen, vond
+bij uitstekende gelegenheid om die indrukken waar te nemen. In Mekka
+/werd hij gewaar dat nagenoeg alle onbevooroordeelde Mahomedanen zich
+(over de zegepraal van Muhamed Ahmed verheugden en groote dingen
+van hem verwachtten.
+jfc Volgens het Mahomedaansch geloof was het de juiste tijd voor groote
+gebeurtenissen. De godsgezant heeft, volgens de traditie, aan zijn ge
+
+meente met de wisseling van elke eeuw, een hervormer van den godsdienst
+beloofd. Thans zocht men te bewijzen dat de tijd voor den grootsten
+hervormer was aangebroken. In het algemeen waren in de laatste jaren
+voor de geloovigen gewichtige gronden voorhanden, om de teekenen des
+JKjds met bijzondere opmerkzaamheid gade te slaan. Daar gaat op
+eenmaal als een loopend vuur het gerucht door de Muzelmansche wereld,
+dat een eenvoudige heilige, die niet eens de primitieve Soedaneesche
+krijgskunst verstaat, door de hulp van Allah, met zijn benden half
+
+naakte, slecht gewapende Soedaneezen, een aanzienlijke, van alle zuoderna
+'krjjgstoerustingen voorziene Engelsche legermacht vernietigt. Plet
+interesseerde de meesten slechts weinig, te weten of de man GoJs,
+eooals eenigen* zeiden, de Mahdi of, zooals anderen het beter meenden
+te weten, een van diens voorboden was.
+^ De befaamdste geleerden zouden hun aanzien verliezen als zij niet m
+3e algemeene geestdrift gedeeld hadden de meesten zijn echter ook
+zonder uiterlijken drang slechts al te zeer daartoe geneigd. De Fetwa,
+welke de Ulama van de Azbarmorskee in Kaïro op hoog bevel uitvaar
+
+digde, maakte op de Muzelmannen dan ook in het geheel geen indruk.
+De Fetwa beschouwde men kortweg als een offioieelen leugen, en een
+noogst ontwikkeld Egyptenaar zeide tot den schrijver: wanneer de
+Mahdi Eaïro binnenrukt, zal hem de gansche geleerde en onbeschaafde
+bevolking met opgetogenheid tegemoetgaan, slechts zulke huichelaars
+uitgenomen, die zich te zeer gecompromitteerd hebben, als dat de
+geloovigepa zich op hem verlaten konden.
+De geheele internationale maatschappij, die van Mekka uit, op het
+'algemeene Mahomedaansche leven zulk een beteekenenden invloed uit
+
+oefent, was met zeer geringe uitzonderingen Mahdistisch.
+Overwinningsberichten gelooft men gaarne in de Maaomedaansche wereld, wanneer
+'zij fabelachtig klinken of uit onzuivere bronnen afkomstig zijn; bepaalde
+oordeelvellingen over de aanspraken die een man als Muhained Ahmed
+maakte, onderwerpt men daarentegen aan een nauwkeuriger onderzoek.
+Met berichten die daarop betrekking hadden, handeldo men in
+lietkrantenlooze Arabiöveel kritischer dan in Europa, waar het publiek al den
+onzin, dien de dagbladcorrespondenten het voorzetten, zonder protest slikte.
+In Mekka verbeeldde men zich in toongevende kringen niet omtrent
+(de missie van Muhamed Ahmed het juiste te weten. Den leeken was
+'het voldoende te weten, dat de Mahdi uitverkoren was om duizenden
+en nogmaals duizenden kafirs (ongeloovigen) naar de hel te zenden. Voor
+de geleerden was het slechts de vraag of de overwinnaar de Mahdi zeii'
+of een voorbode was. In het gansche manifest van den Mahdi kwam
+niets voor, dat zich in geval van nood niet met de Mahomedaansche
+orthodoxie rijmen liet.
+In Mekka verhaalde men dat geleerden tot Muhamed Ahmed gekomen
+waren en hem gevraagd hadden of hij de Mahdi was. Hij had geant
+
+woord : Ik bid Allah om vergiffenis. Neen, ik ban des Malidi's Dienaar;
+maar de overdreven vereering van onwetende lieden heeft mij dezen
+Vakehen titel bezorgd,"
+De schrijver geeft te kennen dat hij niet zonder bedenking is tegen de
+echtheid der proclamatie. Een ontwikkeld Egyptenaar voerde eens in
+zijn bijzijn met een evenzeer ontwikkeld bewoner van Mekka van goeden
+huize een interessant gesprek over de gebeurtenissen in Soedan, waaraan
+het volgende ontleend wordt. Is Muhamed Ahmed de Mahdi ? Daar
+
+van laat zich veel zeggen: hij schijnt tot het geslacht van den godsge
+
+zant te behooren, de t.ijd van zijn optreden is zeer juist; hij is niet voor
+heerscher opgeleid, maar het door een wonder van Allah gemaakt; hij
+overwint de ontzettende strijdkrachten der Kafirs bij elk treiien. Wat
+zegt men dan ia PJgypte omtrent de overleveringen, volgens welke da
+Mahdi van elders moest komen, zij het uit Mekka of uit Maghub'?"
+Daarover heeft men bij ons deaelfde meening als hier; de overleverin
+
+gen zijn talrijk en daaronder zijn valsche en echte overleveringen. Hare
+uitlegging heeft moeielijkheden, de onfeilbare uitlegger echter is Allah.
+Zouden de door hem vooruitbepaalde gebeurtenissen net zoo beslissen
+dat de Mahdi iiog niet verschenen is, nu, dan is Muhamed Ahmed
+een voorbode; deze ia men evenwel niet minder gehoorzaamheid ver*
+gehuldigd dan den waren Mahdi zelf.
+Wanneer Allah zulke volken als de Soedaneezen eenmaal op den weg
+der overwinning gevoerd heeft, dan laat ook de bevolking van cultuur*
+landen zich gemakkelijk medesiepen.
+De beschaafde menschen willen echter eerst door ontwijfelbare resul*
+taten het bewijs geleverd hebben, dat werkelijk Gbds leiding en niet het
+een of ander spel van den Satan de beweging heeft doen ontstaan. Is de
+zaak eenmaal zoo ver gekomen, dan vraagt men ook hier in Arabi
+niet angstvallig meer, of wel alle voorteekenen en voorboden reeds aan
+
+wezig zijn. Is de overwinnaar de verwachte Mahdi des te beter; is bij
+een voorbode, dan gaat men hem met dezelfde vreugde tegemoet; ware
+hij ook geen van beiden, zoo is toch in elk geval zijn leger een leger der
+Muslim, dat na een al te langen tijd van slapen, weder eenmaal den moed
+hervat, het ongeloof te behandelen, zooals Allah het zyner gemeente
+bevolen heeft."
+
+EEN SOCIALE STUDIE.
+Bij Wilhelm Friedrich in Leipzig zag dit jaar een zeer merkwaardig
+boek het licht over den toestand der maatschappij in de beschaafde staten
+van Europa. De schrijver, die zich niet noemt, gaf aan zijn werk den
+aantrekkelijken titel: Die Aristokratie des Geistes als Lö'sung der
+sozialen Fragc." Het zij mij vergund, hier uit den rijken inhoud het een
+en aader mee te deelen en de gegeven opmerkingen en plannen aan eigen
+waarneming te toetsen.
+Den mensen te schilderen in zijnen strijd om het bestaan was het niet
+alledaagsche doel van den schrijver; het standpunt, dat hij bij die
+schildering blijkt in te nemen, is hoog genoeg om objectiviteit mogelijk
+te maken en niet zóó hoog, dat de ware verhoudingen der sociale ver
+
+schijnselen onderling uit het oog worden verloren. Hij is van oordeel,
+dat bij de gewone klachten over maatschappelijke kwalen de persoon
+
+lijkheid te veel op den voorgrond staat, zoodat men juist over- datgene
+klaagt, wat eigen wel of wee direct betreft. Met die beperkte voorstel
+
+ling van het maatschappelijk kwaad hangt eene bekrompen opvatting
+zijner oorzaken samen. Om de eene of andere reden haat men bepaalde
+maatschappelijke instellingen of gebruiken: de kerk, het ongeloof, de
+regeering, deze of gene partij, dit of dat ra8, en maakt die dan tot den
+zondebok van alle kwaad, dat men er mee in verband kan brengen.
+Dit is misbruik van verstand tot bevrediging van hartstocht.
+De beperkte opvatting omtrent de oorzaak der znaatfichappelijke kwafeii
+brengt onvoldoende pogingen tot verbetering mee, die als de middelen
+van den onkundigen geneesheer slechts een of ander uiterlijk verschijnsel
+der kwaal aanvallen, zonder het kwaad zelf te vernietigen, dat zich spoe
+
+dig op andere wijs zal uiten. Zoo bijvoorbeeld bestrijdt men de kerk,
+die de beschaving hinderend in den weg treedt, en vermeerdert daardoor
+slechts immoraliteit en bandeloosheid bij het volk.
+De diepte van het kwaad te peilen, daartoe noodigt ons de schrijver
+uit. Door een helder betoog, met feiten gestaafd en door tal van bewij
+
+zen gesteund, leidt hij ons tofc het besluit, dat onze maatschappij ziek is,
+doordien de mensch al te zeer de belangen der soort uit het oog heeft
+verloren voor die van het individu. Hierdoor is bij het genus mensch de
+Zuclilwalil bedorven en daardoor de Anpassungs-fühigJceit aan sociale
+eischen sterk verminderd (1).
+Ia de menschenwereld is de strijd om het bestaan, voor zoover hij niet
+tegen anorganische natuurmachten wordt gevoerd, ontaai d in eenen strijd
+om de bevoorrechte plaatsen. De menschen ontnemen elkander ia een
+beschaafde maatschappij niet meer het leven zelf, neen, alleen de moge
+
+lijkheid om te bestaan. In den regel is er in dezen kamp geeii sprake
+van eenen bloedigen dood, slechts van een chronisch sterven door honger
+en ontbering, waardoor bij hen, die de nederlaag lijden, de gemiddelde
+levensduur 36 a 50 pCt. kleiner wordt. Bovendien wordt onder beschaaf ie
+menschea uiet op de ruwe manier der andere diersoorten te werk ge
+
+gaan in den levensstrijd; maar naar bepaalde oorlogswetten, die men
+recht noemt. Deze hebben echter niet tot resultaat, dat de meerderheid
+vooruitgaat en in geschiktheid om te leven toeneemt, zoodat de soort
+wordt veredeld; deze wetten werken noch positief gunstig in zoover, dat
+de beste individuen de beste plaatsen veroveren; noch negatief gunstig,
+in zoover, dat de slechten onschadelijk worden gemaakt.
+Hoe zijn de beste levensvoorwaarden verdeeld?
+Hierbij moeten natuurlijk voor elk individu zijn afstamming in aanmer
+
+king komen en zijn lichamelijke, inteliectueele ea moreele eigenschappen.
+lu de menschenwereld nu is de waarde der persoonlijke hoedanigheden
+aanmerkelijk geriuger dan in de dierenwereld, waar iadividueele kracht
+en behendigheid meestal in den strijd de overwinning verzekeren.
+Door de maatschappelijke aaneensluiting der menschen heeft zich
+namelijk eene macht gevormd, zoo ver boven den alleenstaande ver
+
+heven, dat hij alleen in den strijd weinig beteekent en het er maar op
+aan komt, de macht der vereeniging ten eigen bate te kunnen aanwenden.
+Het toeval der geboorte speelt daarbij eene groote rol. De sociale wet
+der inertie, het sociale vol hardingsvermogen, heeft het erfrecht ingesteld
+eu zoo neemt zonder censuur of strijd hij, die door het toeval der
+gebooite tot de bezittende en heerschende klasse behoort, de beste levens
+
+voorwaarden van zijne vaderen over. Bezit is meestal de vrijstelling van
+concurrentie door persoonlijke eigenschappen; het erfrecht deelt abonne
+
+menten uif, voor plaatsen aan de tafel des levens.
+Zoo wordt de natuurlijke Zuchttvn!il belemmerd, want aan onwaardige
+individuen worden maar al te vaak de beste levensvoorwaarden verspild,
+terwijl velen der door persoonlijke eigenschappen uitstekend toegerusten
+in den levensstrijd oudergaan door den druk van ongunstige omstandig
+
+heden. Gelukt, het hun, dien druk te boven te komen; veroveren zij
+zich een goede plaats, dan heeft vaak de zware concurrentie hunne kracht
+verlamd, zoouat geen gccd toegeruste nakomelingschap van hen te ver
+
+wachten is.
+Welke zijn de persoonlijke eigenschappen, die de opklimming tot een»
+
+</text>
+<image timestamp="2002:08:19:05:18:41.00" size="273114">D10001KI.TIF</image>
+</page>
+</document>

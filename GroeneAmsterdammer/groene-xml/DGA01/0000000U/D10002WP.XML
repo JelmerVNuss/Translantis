@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180629</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET KONVOOI UITGESTELD
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", vVeekbiad voor Nederland, van 29 Juni 1918
+Amst. Boek- en Steendrukkerij, v,h. Ellerman, Harms &amp; Co
+Daar waren twee Koningskinderen,
+Die hadden elkander zoo lief,
+Zij konden bijeen niet komen ....
+
+</text>
+<image timestamp="2002:08:23:11:10:46.00" size="609384">D10002WP.TIF</image>
+</page>
+</document>

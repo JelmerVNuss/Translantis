@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19380903</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+• KEIZERSGRACHT 355, AMSTERDAM C., TELEFOON 37964 • 3 SEPTEMBER 1999
+E IVf
+AMSTEBDAMMER
+ONAFHANKELIJK WEEKBLAD VOOR NEDERLAND
+OPGERICHT IN 1877
+IJ HET VEERTIGJARIG REGEERINGSJUBILEUM
+. . . mogen wij ons tewust zijn n te zijn in willen, streven en offervaardigkeid waar ket geldt
+de noogste belangen van Volk en Rijk
+H. M. de Koningin in Haar radiorede op J l Auguslut
+
+</text>
+<image timestamp="2002:10:02:16:30:27.00" size="387855">D10008Z7.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030920</Datum>
+<Pagina>13A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Troonrede.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 20 September 1903.
+Amst. Boek- en Steendrukkeni. v/h. Ellerman, H arm s &amp; Co.
+DE NEDERLANDSCHE MAAGD (tot Minister Kuyper): Neem je niet te veel hooi op je vork, vrees je niet, je te zullen overwerken?
+KUVPER (op de kast wijzend): Geen nood, de vorige jaren was het niet minder. ... en ik ben toch gezond gebleven.
+
+</text>
+<image timestamp="2002:08:20:05:35:57.00" size="323960">D200210.TIF</image>
+</page>
+</document>

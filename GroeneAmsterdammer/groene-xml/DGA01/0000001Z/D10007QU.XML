@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260710</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VSKït
+B:
+h
+'•» '"•t
+pa* ^' i'
+j*:?'
+"\ * j
+
+«Nu
+voor5
+
+N
+t. v.
+CSAURHzn.
+
+HOFLEVERANCIER
+
+RCMON 134 over de Ned. Buk
+
+Telefoon 40240, 49971
+Vischrestaurant
+
+Vischhaadcl
+U R C H E R
+"QNNAGEPABRIBKenDRUKKEIVJ
+
+&amp;ACHT64-66~68~70-72,AMSTERDAM
+IEM &lt;Groote Markt)
+
+
+DESPAYS-BAS
+WARM EN KOUD STROOMEND WATER
+[A. P» BBEREN0S &amp; VEEREN
+, DIEFSTAL-, STORM-,
+TATERLEIDINGSCHADE ENZ.
+KEALE
+INBOEDEL"
+
+
+OPSTALPOLIS
+r. Inboedels .. . . 2.50O/ooi
+
+[Opstallen (woonh.) . . 1.25 O/oo
+
+)AM - LEEUWARDEN
+f * ...'^ 4
+CINTPCRHA1FONS
+i V. .JMeutelmagazijn EDEN"
+
+MOLSTEEG-AMSTERDAM
+
+O EK EN K AS TEN
+KftOONPUPCN
+•••
+
+IN tfSLOTEN DOQZEN
+
+VIN 6 STIKS
+, Restaurant HOEK
+iterdam: spui **
+Oesters - Kreeft • Caviar
+AFWERKEN
+
+Amateur-Foto's
+
+VLUG, NET, BILLIJK
+
+Speciale inrichting!
+
+
+C A P-I
+115 KALVERSTRAAT
+t/o LIBERTY
+|TIMTUR|
+KINDER
+DE BESTE EN GOEDKOOPSTE
+
+OVERAL VERKRYGBAAR
+
+ADRES Vo HANDEL
+
+JOh.M.VAN OER MEIDEN.
+
+AMERSFOORT
+N.V.%
+
+H-A-KLOOSTERHUIS
+
+AMSTERDAM
+SNELBLUSSCHER
+
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD. TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+
+ARNOLD HOUTSCÏILT
+
+Singel 285 Amsterdam
+
+f\HSi»7n ^ SI PI m ' - ' ". T t h
+BQLW5TER5.
+ntt.5T OE.SCHIKTE BinDLKIJ VOOR H H-UITGEVEfió
+5TVILÜBRORDUS5TRAAT 53-55ADAM TE.L 2 tió6
+
+</text>
+<image timestamp="2002:09:25:21:08:38.00" size="374342">D10007QU.TIF</image>
+</page>
+</document>

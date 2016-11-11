@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18921009</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De onvergankelijke beurs-quaestie.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland, van 9 October 1802.
+v -x
+O f j_i 'T .} r r, f, ? , ; ,
+Amst. Hoek- en S'.ecndrukkcrr. v h. Ellerman, llarms &amp; Co.
+MR. VAN TIKNIIOVKN (tot Mr. Veiling Mei nes-.}: \Vces maar niet ongerust, /.c hebben mij
+ook niet alleen laten staan. Daar heb je Martin Wolft', Bergsma, v. Gcndt, cle Mines, Krasnupolsky.
+\\erker, \Vcissman, 15rou\ver, Prins
+
+</text>
+<image timestamp="2002:10:02:04:01:02.00" size="251635">D10008RV.TIF</image>
+</page>
+</document>

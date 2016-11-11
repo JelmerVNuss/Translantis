@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260731</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No 2565
+VRAAGT
+VAN BIJSTERVELiyS
+
+ADVOCAAT
+Mooie tanden zijn een kostbaar
+bezit en maken een gezicht aan
+trekkelijk. t—Verzorgt daarom
+steeds Uw mond met het betrouw
+bare merk
+IPOOL'S ATOL
+tandpasta
+dan blijven Uw tanden gaaf en
+Mank.
+A. R ZURCHER
+CARTONNAGEFABRIEKenDRUKKERIJ
+lOOmRSGRACHT64~66-68-70~72.AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER U EER HET
+TE LAAT IS!
+A, D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN.
+K.V. Meutclmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+CLASIE, CASPERS 6 Co.
+Bebangerij - Ameublementen - Stoffeerderij
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELSTRAAT 110 en 126 TELEFOON «739 en 37354
+de heerlijke Cacaodrank
+wordt gcdronkeD"mct Melk of Spui t wat er
+Eenige Fabrikanten F. RORFF &amp; Co., Amsterdam
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichtingl
+
+C A P I
+115 KALVERSTRAAT
+15 MAAR
+
+KARELI
+ITIMTÜR]
+KINDER
+SCHOENEN!
+Adams Brothers
+134 Utrechtschestraat
+b/h Paleis v. Volksvlijt
+
+Stroohoeden - Regenjassen
+
+Nieuwe dessins
+Overhemden en Dassen
+
+Schiesscr's Netgocderen
+inUTIONALWATOK'
+SCNAFFHAUSEN
+fUerbfyg6aajtt}yde voornaamste
+N.VVH.
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijle
+
+ARNOLD HOUTSCËFlL/
+
+Singel 283 Amsterdai
+MEETINSTRUMENTEN
+VOOR DE GEHEEUE EL.ECTROTECHNIEK
+INGENIEURSBUREAU VAN NISPEh
+
+= ZWOLLE. '
+\
+I.-.1
+STANDAARD MOTORKRUISER
+
+lang 8 50M., kajuit,keuken,W.C., cockpit,
+•5 slaapplaatsen. Vraagt prospectus.
+r
+Werf Nicolaas Witsen'
+STOEL ALKMAAR.
+flightcapcn
+Fijne likeuren
+
+</text>
+<image timestamp="2002:09:25:23:24:32.00" size="143898">D10007SX.TIF</image>
+</page>
+</document>

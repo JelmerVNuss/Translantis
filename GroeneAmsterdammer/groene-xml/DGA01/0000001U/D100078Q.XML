@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260116</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+20
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2537
+BRIDGE
+EEN HANDBOEK VOOR
+Royal-Auction en
+Contract-Bridge
+voor geoefenden en voor beginners
+DOOR
+B, M. v, d. GROENE
+Prijs ingen. f2.25; geb. f2.90
+Uitgave van
+VAN HOLKEMA &amp;WARENDORF
+AMSTERDAM
+Balans :-:
+Opruiming
+
+MENDELS
+Kalverstraat 109—111
+Ia flanel Pyjamas in alle maten
+Ie rnaat
+met 20 c. stijging per maat
+
+Slobkousen, in bruin bège,
+zwart en grijs, allerbeste tricot
+Ie maat
+met 20 c. stijging per maat
+
+Ia wollen Schoolkousen in
+zwart bruin en bège, alle
+maten Ie maat
+met 15 c. stijging per maat
+
+Ia Hydrophile en Oogjesluiers
+
+
+Ia wollen Bébépakjes, trui en
+broek aaneen
+
+Fijne Meisjeshemden in alle
+maten maat 55
+met 5 et. stijging per maat
+
+Ia Meisjespantalons met fijne
+borduursels 50 cM. groot
+pi. 10 c. per maat
+
+Zware Nachthemden, liggend
+kraagje en feston, lange
+mouwen 60 cM.
+pi. 10 c. per 10 cM. stijging
+1.89
+
+L38
+
+
+75 c.
+C,
+
+1,89
+
+80 c,
+
+85 c,
+
+1.50
+Meisjesjurken,
+Mantels, Hoeden
+voor ontzettend lage prijzen
+
+Jongensjassen, Pakken,
+Hoeden, Truien,
+Schoolbroeken tegen prijzen welke
+beneden elke concurrentie
+zijn ^ ™ ^5 w r^s
+PLATTEGROND
+van 's-Gravenhage,
+Schevcningen en Omstreken
+Geheel herzien en bijgewerkt door
+JOH. C. VAN DER HOEVEN
+PRIJS f 0.95
+Verkrijgbaar in lederen boekhandel.
+aan de Kiosken en bij de Uitgevers
+Van Holkema &amp; Warendorf
+AMSTERDAM
+STAND 68
+Automobiel
+Tentoonstelling
+Amsterdam
+DE BESTE
+D
+,e Oldsmobile slaat alle records in de bergstreken
+en haar prestaties zijn ontelbaar.
+
+Zij neemt de stijlste hellingen met het grootste
+gemak en demonstreert op deze wijze haar buiten
+
+gewone soepelheid. Zeer sterke remmen geven een
+gevoel van volkomen zekerheid.
+
+Haar elegance en billijke prijs zullen U
+bovendien de overtuiging geven dat deze wagen Uw
+belangstelling in alle opzichten verdient.
+COACH ƒ3575.- - SEDAN (4 port. 5 plaatsen) ƒ 3875.
+Franco Amsterdam
+OLD
+ZONLICHTHEIDE
+
+DOOR
+
+EEN DOKTERSVROUW UIT HET ZUIDEN
+(M. M. STIEMENS-HOPMAN)
+PRIJS IN STEVIG OMSLAG ƒ1.50
+UITGAVE VAN: VAN HOLKEMA EN WARENDORF AMSTERDAM
+MevT. Stiemens Hopman schrijft;
+Van het oogenblik. dat Roberc Koch zijn ontdekking deed. treedt overal de bestrijding der tuberculose meer en meer
+naar voren. Als wij ons echter afvragen, wat is tot lieden met die bestrijding bereikt, dan is ons eerlijk antwoord :
+Bitter en bitter weinig". Zoolang in voorzorg en nazorg onvoldoende voorzien wordt, voeren wij een vergeefschen
+strijd. Naar elke nieuwe Regeering zien wij vol verlangen uit, hopend, dat zij uitkomst zal brengen. Particulier initiatief
+kan gelukkige resultaten boeken, wat de Rcgecring doet en den steun van de Regeering heeft, moet slagen.
+In een voor ieder gemakkelijk verstaanbare tuberculose-novelle heb ik getracht, dit vraagstuk uit te werken.
+Moge mijn kleine poging, om een grootsch doel te bereiken succes boeken.
+Mijn uitgevers hebben zich bereid verklaard een belangrijk deel van den opbrengst ter beschikking van de
+t. b. c. bestrijding te stellen.
+
+</text>
+<image timestamp="2002:09:24:20:49:22.00" size="138175">D100078Q.TIF</image>
+</page>
+</document>

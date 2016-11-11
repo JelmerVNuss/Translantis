@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021012</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amerika's Nota aan de onderteekenaars van het Tractaat van Berlijn.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 12 October 1902.
+Amst. Boek- en Steendrukkerij, v/h, Ellerman, Ilarms &amp; Co.
+UNCLE SAM (tot den Czaar): Zou jij met je confraters niet eens kunnen zorgen, dat die Koning Karel de Rumeensche Joden wat
+menschelijker behandelt ? Over de Russische Joden spreken wij niet. . . .
+
+</text>
+<image timestamp="2002:08:18:13:56:48.00" size="176850">D2001JX.TIF</image>
+</page>
+</document>

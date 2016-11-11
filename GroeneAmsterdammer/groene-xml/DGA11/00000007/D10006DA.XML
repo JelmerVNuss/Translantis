@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270409</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2601
+J. D. STRUIJS &amp; Ziu
+Prinsengracht 837 - Telefoon 37906
+Begrafenissen - Crematie - Transporten
+KASTEEL DE GANNENBURC
+Buiten dorp VAASSEN i/Mm bij APELDOORN.
+Niet Hotel. (Hotel binnen dorp).
+
+Met Pasctien geopend Logies, Theetuin enz.
+Brieven a.d. Directie van 't Kasteel. Tel.Vaassen 2e.
+AMSTERDAM
+DENHMG
+NDISCHE CATALOGUS
+(WGO OP MNVRAGE
+BEGRAFENISVEREENIGING
+
+N. SAX ]r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+illllll]||]|llllll!llll[ll!llllllll!l!l[!ll!ll!llllinilliillini!lllll|[|||ll!lillllll1!illlllllim
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers |
+Bij ons verkrijgbaar |
+
+N. R. V. MONTA SCHOENEN l
+
+^iiM:iiiiiiiiinii[i[ii[iiiiiiiijiiJii[ii!]!Hin!i:iii!jiii!ijiiiiniij!iinii]|i|[ii]i^
+Wed JOHN GAY'S PICCALILLI
+BUJFT HET MOSTERDZUUR MET IMS FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE UEVEGOBD-S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+NOLIN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+Th. H. WEILL
+Spec. DAMESKLEEDERMAKER
+Barteljorisstraat 26-28
+- HAARLEM ~
+Costumes naar Maat
+
+Robes d'après Midi
+
+Amazones
+-:
+</text>
+<image timestamp="2002:09:21:04:09:00.00" size="131863">D10006DA.TIF</image>
+</page>
+</document>

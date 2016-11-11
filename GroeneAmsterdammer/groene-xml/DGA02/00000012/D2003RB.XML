@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240726</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2458
+POLLEN s Oude Genever
+Fijne Likeuren en Punch
+P. POLLEN A ZOOM - Rotterdam
+J. D. STRUIJS * Zm.
+[Prinsengracht 887 P. O. Hooftatraat 140
+VEL. 37908 TEL. 29990
+{Begrafenissen - Crematie - Transporten
+STOPPA6E
+VAN ALLE
+Dames- en Heerenklieding
+Costuum Model Persan f 1.25
+My VALET from London
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 - Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+BEGRAFENISYEREENIGING
+N. SAX Jr.
+l P. C. Hooftstriat 38, AmiUrdia. Tilif.: 20341, 242601
+REGELING VAN BEGRAFENISSEN EN
+l CREMATIES VAN UIT ALLE PLAATSEN
+[—EIGEN LIJKKOETSAUTOMOBIELEN
+KLEIN KOPERWERK, gedraaid of gestamt, blank
+lof Ternjkkeld levert tegen zeer lage pr jjzen
+iDTGElflEUBSBUBEAlT VAN" NISPEN, ZWOLLE.
+Naarnl. Vennootschap
+
+!„REFOR/V',
+Directeur E. BOERMA.
+i DMHM- en HeerenkleedermakerlJ
+
+\ Di Coupe In nieuwe banen,
+wil zeggen:
+De tot nog toe onopgeloste moeilijkheid
+k door film en projectie opgelost, omdat
+f de coupeurs, tijdens het snijden reke
+
+ning kunnen houden met den
+indiviIdueelen lichaamsvorm.
+Groningen, Heerenstr. 58. Tel. 765.
+Amsterdam, Rokin 70. Tel.
+A Amsterdai
+ABESFOOfiT
+fan Haseli's
+Snouckaertlaan 22-24
+TELEFOON 218
+-A.via Rijwielen
+I&gt; K BESTE
+J. DE JONG &amp; ZONEN - A'DAM
+J. J. Weber &amp; Zoon
+OPTICIENS - FABRIKANTEN
+Koningstraat 10, Haarlem
+Onze Amerikaansche
+Brillenglas-Slijpmachines van de allerlaatste constructie
+stellen ons in staat brillenglazen binnen
+enkele uren al te leveren.
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+DROOG VERVEN
+IN ZWART
+NIEUWE VINDING
+Zijden Japonnen worden door ons
+in ZWART geverfd
+volgens bovenstaand procéd
+Glans en Coupe blijven volkomen bewaard
+Aan te bevelen vooral voor kostbare toiletten
+PALTHE-ALMELO
+ADR1AAN SCRAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEOOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaas^opïl, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT. UW LEVERANCIER 11
+OQS
+v75S
+l RiN
+TE PLAATSEN.
+INTERIEUR TOT
+MAAKT UW HUIS TOT
+UW LIEFSTE' MEEST
+NEDERLANDSCHE
+PLEK, DOOR ER
+STIJLVOLLE, DEGE
+
+LIJKE, NEDERLAND
+
+SCHE MEUBELEN IN
+DE L. O. V. VERZORGT UW
+IN ALLE ONDERDEELEN.
+STEENHOUWERIJ D. WEEüEWUS,
+RAPENBURG 14, AMSTERDAM. Tel. 42662
+MARMERWËRKEN.
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. . Crematies.
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleedinft
+ENGELSCHE KLEEDEEMAKEEIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+B. J. MULDERS
+TUOAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon Sch. 8IO
+
+</text>
+<image timestamp="2002:09:03:13:23:07.00" size="146553">D2003RB.TIF</image>
+</page>
+</document>

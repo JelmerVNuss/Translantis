@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030125</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1335
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+De noodkreet van het Amsterdamsch Lyrisch Tooneel.
+De hoeren LOMAN, ENGELEN en RAABE: s Ach, lieve menschen, Apollo heeft zoo'n honger l"
+
+Nieuwjaarsreceptie by Van Bülow. (Ulk).
+De Russische torpedobooten en de Dardanellen. (Punch).
+LOED LAXSIXJ\V;;Ë(l&lt;&gt;t. duizwachter Ab'lod llamil): »Eti nu pasje op, dat
+zoo iets i iet weer gebeurt ! '
+Jot's tocht door Zuid-Afrilta.
+Dien twee vertegenwoordigsters van het Duitsche volk aan, Zorg en Nood
+Duitschland's Protectionistische deken. (Uil;).
+Onderwijs ia het Fransch. (Wiener /..it).
+E m prachtig stuk werk l Fonkelnieuw ... en het moet gerepareerd worden.
+ONIIER\VI.TZF.R f Giro n): .HavaU u het groate slot var. uwen goeden man T'
+LEKKMMJ (Kro'jn]irinses Luiiiaei: &gt;Xeen, maar ik bemin den taai
+
+meester van myn brave kinderen".
+(Ingezonden door Luit. Th. Brtticlineider te VlisBingen).
+
+</text>
+<image timestamp="2002:08:19:03:37:54.00" size="459581">D2001PG.TIF</image>
+</page>
+</document>

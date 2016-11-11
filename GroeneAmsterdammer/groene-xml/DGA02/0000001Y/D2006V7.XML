@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331007</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Meneer"
+
+Jonkheer Blib van Hikkenstein
+
+komt vanavond, zorg dat er goede
+
+whisky gereed staat. Neem maar
+
+een van die flesschen pre-war Red
+
+and Yellow. En.... op de rooktafel
+
+Henry Clay's n ARABESQUE's hè!
+*
+Arabesque is een heerfijke
+importcigarette, samengesteld uit uitgezochte
+Oostersche tabakken, verwerkt en
+gerijpt onder de aroma ontwikkelende
+zonneschijn van Egypte. Een cigarette
+van klasse. Het importzegel van de
+Egyptian Customs Administration"
+garandeert echtheid.
+ARABESQUE Round". . . 73/4 cfs.
+ARABESQUE de Luxe" . . 2'/4 cfs.
+plus toeslagzegel.
+HET ECHTE EGYPTISCHE
+AROMA IS ONMISKENBAAR"
+$QVE
+
+</text>
+<image timestamp="2002:09:26:21:12:25.00" size="201281">D2006V7.TIF</image>
+</page>
+</document>

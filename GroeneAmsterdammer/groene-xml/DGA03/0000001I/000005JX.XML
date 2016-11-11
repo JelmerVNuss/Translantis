@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250502</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2499
+J.
+STRUI J$ &lt;&amp; Zn,
+Prinsengracht 837
+TEL. 37906
+P. C.Hooftstraat 140
+TEL. 29950
+1C/L&gt;. O/^UO lüly. .4VV3U B
+Begrafenissen - Crematie • Transporten l
+NV. mm
+Dir. E. Boerma
+G80NIKGEH AMSTERDAM
+Heerettr. 8 Bokin 10
+Uüines- en
+HterenKU'cdermakerij.
+.Coupeurs door het gehaele
+land ia
+ontbiadan"Ook hierin geldt, dat over
+
+drijving schaadt. Onze
+
+PASTILLES DROSTE
+zijn juist in de goede verhou
+
+ding samengesteld. Wie echter
+een iets pittiger smaak wenscht,
+vrage eens naar onze
+
+PASTILLES RICHE
+in cartonnen doosjes
+van i ons a 40 cents
+UitVflNNELLES
+GEBROKEN
+Schenkt
+/ U MEER KOPJES \
+\ dan uit gewone thee. /
+Vraagt Uwen
+Winkelier
+BEGRAFENISVEREEN1GING
+N. SAX Jr.
+P.C. HooFtstraat 38 AMSTERDAM Telef.: 20341, 24250]
+REGELING VAN BEGRAFENISSEN EN
+! CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN!
+MORIAAN SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+BjJ ons verkrijgbaar ~^^~—-~
+M. R. V. nOMTA SCHOENEN
+Fijnproevers weten, dat als de LIEVEGOED'S FABRIEKEN
+met IETS NIEUWS komen op consumptie gebied, dit beteekent:
+een nieuwe streeling van hun smaak. Dit nieuws is er:
+MAYONNAISE-PICKLES zuurtjes op heerlijke
+Mayonnaisesaus, te gebruiken bij Salade, Visch, Vleesch enz.
+Een kenner verzekerde ons: Indien iets er in gaat, dan zijn het
+deze Mayonnaise-pickles." PROEFT EN OORDEELT ZELVE!
+N.V. DE HOUTTUINEN AMSTERDAM
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42663
+MARMERWERKEN
+
+I^I^I^I^I^Hl^l^l^l^l^HIJ
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+STOOMBOOT Mij. DE VOLHARDING"
+OPGERICHT 1852
+
+Passagiers- en Goederendiensten tusschen
+AMSTERDAM - AALSMEER - GOUDA - LEIDEN - BOSKOOP - ZAANDAM
+
+Watertochtjes :
+AMSTERDAM T KALFJE OUDERKERK UITHOORN
+AMSTERDAM VLIEGVELD SCHIPHOL AALSMEER
+
+Salonbooten te Huur voor Extra Reizen
+
+Te bevragen a|h Hoofdkantoor te Leiden
+B. J. HULDERS
+TUIS1AKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO8IO
+
+</text>
+<image timestamp="2002:09:03:09:03:08.00" size="124047">000005JX.TIF</image>
+</page>
+</document>

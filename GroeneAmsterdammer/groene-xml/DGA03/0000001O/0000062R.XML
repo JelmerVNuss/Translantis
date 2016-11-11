@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251121</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, .WEEKBLAD VOOR NEDERLAND
+No. 2528
+J. D. STRCIJS «&amp; Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+WINTERSPORT
+Zwitserland. Berneroberland.
+G S T A A D
+1100 M. boven den Zeespiegel.
+OrandL Hotel Alpina.
+Meest voortreffelijke, zonnige ligging. Alle comfort.
+Het door Hollanders bij voorkeur bezochte Hotel.
+Prospecti bij: E. BURRI, Eigen.
+Koldewey &amp; Corblère
+Leidschestraat 30, Amsterdam
+irSUlPUNEIKEOIELEI. NIIUSSEI, DEUK
+GEORGE H. LAGAS
+AMSTERDAM - T.l. 24611 - Andren Bonnstrait 40
+Electrlsche Luxe Brood bakkerij
+Specialiteit in alle Broodsoorten
+paart degelijkheid
+aanschoonheid,daar
+het gemaakt wordt
+in de klassieke
+Hollandsche Zilvermo
+
+dellen en naar ont
+
+werpen van bekende
+kunstenaars.
+.Droste
+
+\erpleeg5terCacao
+Jft
+Nimmer afwijkend
+in kwaliteit
+BEGRAFENISVEREENIGINGI
+N. SAX Jr.
+| P.C. Hoottstraat 38 AMSTERDAM Telel.: 20341, 24250]
+[REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EI GEN LIJKKOETSAUTOMOBIELEN l
+ADR1AAM SCBAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+BQ ons verkrijgbaar ~"~""~"
+N. R. V. MONTA SCHOENEN
+Wed. John Gay's Piccalilli
+blijft het mosterdzuur met de fijne, pikante smaak !
+ENOROS BIJ DE LIEVEQOED'S FABRIEKEN
+(N.V. DE HOUTTUINEN") Amsterdam
+en Reisartikelen met garantie.
+Paleisstr. 45-47. Tel. 35013
+V.H. J. N. MULLER.
+KleedermakeriJ naar Maat
+voor Dimii
+•n
+II. K E M Pf K K,
+voorheen Coupeur d«r Firma P. M. BROEKMANS, Koningsplein, Amtterdin.
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 20891
+Colbert Costuums van al .... f «s. Moderne COUDB.
+Demi Saison van af . . . . . 5O„D.;__ _*„,_.LI__
+Manteicostuums van ai .... 65.—rnma atwarKing.
+Stalen op aanvraag.
+KOOPT NU UW ." ^_
+
+PETROLEUMKACHEL
+BIJ
+
+REEDERS
+
+VOLMAAKT - VEILIG
+SOLIDE - REUKLOOS
+
+OUDSTE EN BESTE ADRES
+N.Z. KOLK 17 - TEL. 45373
+GERARD B. RIJKE Jr. - BINNEN ARCHITECTUUR
+COMPLETE MEUBILEERING
+VERPLAATST VAN AM ST E L 1 2O—1 22
+NAAR
+KEIZERSGRACHT 559
+IN VERBAND HIERMEDE IS ONS TEL.-NUM M ER GEWIJZIGD IN 30559
+B. J. MULDERS
+TUIN ARCHITECT
+Gevers Deynootweg 117 Scheveningen
+Talefoon SO81O
+
+</text>
+<image timestamp="2002:09:03:22:44:53.00" size="134635">0000062R.TIF</image>
+</page>
+</document>

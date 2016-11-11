@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321015</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 15 October 1932
+N o. 2889
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+Begrafenis-Onderneming
+G. Koning Jr.
+Amsterdam
+Nieuwe Spiegelstraat 61 Telefoon 47179
+Begrafenissen, Crematiën en Transporten
+welke per auto worden uitgevoerd, geschieden
+«—met speciale rouwvolgauto's ~~
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86-9O
+PLAIDS
+VOETZAKKEN
+DEN HAAG
+Noordeinde 64c
+AUTO
+
+OVERSCHOENEN
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. HoofUtraat 38
+T«l. SO341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+Riskeer geen tandpasta,
+die Uw tanden kan beschadigen.
+Betere bescherming van het glazuur; algeheele verwijde
+
+ring van den tandaanslag. Blinkend witte tanden.
+TTANDPASTA's, die den tandaanslag
+verwijderen, beschadigen, mis
+
+schien het glazuur.terwij l onschadelijke
+pasta's niet afdoende den tandaanslag
+verwijderen. Pepsodent verwijdert den
+tandaanslag en is bovendien absoluut
+onschadelijk.
+Dank zij een nieuw materiaal is
+Pepsodent geheel verschillend van
+andere pasta's. Het . . .
+. . . verwijdert den tandaanslag
+volkomen.
+. . . maakt de tanden blinkend wit.
+. . . reinigt en polijst de tanden op
+een voor het glazuur absoluut
+onschadelijke wijze.
+
+Koopt een tube Pepsodent - het is
+de hedendaagsche wetenschappelijke
+tandpasta.
+5013
+De nieuwe
+hedendaagsche Amerikaansche Tandpasta.
+Adverteert
+
+in de Groene"
+
+Omdat DE GROENE in
+hetgeheele tandgelezen wordt
+door het beste publiek door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij hon
+
+derdduizenden bereikt, die
+juist niet tot het koopkrach
+
+tige publiek behooren, maar
+het betaalt hem om in dit
+blad te adverteeren, dat hem
+direct in contact brengt
+met het publiek dat hij zoekt.
+EEN KAMER GRATIS INGERICHT
+PROF. HUIB LUNS
+H. Th. WIJDEVELD
+A. H. WEGER l F
+ZULLEN BESLISSEN
+WIE VAN 1 OCT. TOT 1
+JAN. A.S. DE AARDIGSTE
+KAMER HEEFT AANGE
+
+SCHAFT MET
+MULTIPRO MEUBELEN, GOR
+
+DIJNEN EN
+GRONDBEDEKKING DOOR ONZE
+FIRMA GELEVERD
+
+P R E M IE:
+VOLLEDIGE
+RESTITUTIE VAN
+HET BEDRAG DER
+MEU BILEERING
+EN STOFFEERING
+sa.
+ZO©
+GOEDKOOP £N TüCH FABRIKAAT:
+ZOMEN
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:10:47:25.00" size="163567">00000ANR.TIF</image>
+</page>
+</document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240830</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER* WEEKBLAD VOOR NEDERLAND
+No. 2463
+l
+*
+IX LES BAINS
+SAVOYE FRANKRIJK
+ie bronnen tegen RHEUMATIEK. Alle sporten. Twee Casino's.
+ste en voornaamste touristencentrum der Fransche Alpen.
+L en prosp. gratis:
+INTERN. VERKEERS BUREAU
+L'dam, Kalverstraat 168, den Haag, Noordeinde 31.
+J. D. STRUIJS * Zm.
+[ Prinsengracht 887 F. O. Hooftstraat 140
+VEL. 37906 TEL. 29990
+[Begrafenissen - Crematie - Transporten
+
+POLLEN's Oude Benever
+Fijne Likeuren n Punch
+JU. P. POLLEH £ ZOOH - Rotterdam
+and
+
+WHITE &amp;QOLD
+SCOTCH \VH1SKIES
+"f	45°!
+Sole nyent
+VAN BEUNINOENSTRAAT 5O
+DEN MAAG TEL. 52681 l
+i -l
+bij AMERSFOORT
+100 H. A. Bosch
+PENSION met kamer
+per dag f 5.—bij 3 daags
+verblijf
+f4.50 bij week
+,, ,, f 4.—bij maand
+Parterre Kamers met
+vaste Was c h taf el s
+M. L. Jorritsma, Dir.
+De N. V. Koek-en
+Banketfabriek
+HARTOC"
+Telefoon 23425
+Gerard Douplein 24
+AMSTERDAM
+fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concurreerend.
+OOK VOOR EXPORT
+STOPPAGE
+VAN ALLE
+AKTEN
+TAS
+REKLAME PRIJS:
+PRIMA RUNDLEDER
+OUt AKTENTAS IS VERVAARDIGD
+VAM PRIMA VOL RUNDLEDER.
+HIT HANDVAT IS EXTRA VERSTERKT
+DOOR «EN MET LEER OVERTROKKEN
+STALEN BAND
+GERZON
+KALVERSTRAAT
+DAMSTRAAT
+i- en
+Costuum Model Persan f 1.25
+My VALET frorn London
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175-Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+1* i
+II
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. G., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+BEGRAFENISYEREENIGINGI
+N. SAX Jr.
+P.C. HoofUtrait 38, Amiterdt.. Telef.: 20341, 242601
+REGELING VAN BEGRAFENISSEN ER
+|CREMATIES VAN UIT ALLE PLAATSEN!
+l—EIGEN LIJKKOETSAUTOMOBIELEN
+ADR1AAM SC5AKEL
+HEILIGEWEG 11-17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEOOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT UW LEVERANCIER l l
+House for Gentlemen
+Ie Klasse Engelscbe gemaakte Heerenkleedlng
+ENGELSCHE KLEEDEEMAKEEIJ NAAE MAAT
+Weteringschans 45 :-: Telefoon 36845
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen
+DORDT
+KLEIN KOPERWERK. gedraaid of gestamt, blank
+of vernikkeld levert tegen zeer lage prezen
+INGENIEÜBSB OBEATJ VAN NISPEN, ZWOLLE.
+Koldewey £ Corbière
+Leidschestraat 30, Amsterdam
+Speoimlltul* in s
+WIEGEN - KINDERLEDIKANTEN.
+B. J. MULDERS
+TDINARCHITJECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon 5OS1O
+
+</text>
+<image timestamp="2002:09:03:15:59:15.00" size="173174">D2003UO.TIF</image>
+</page>
+</document>

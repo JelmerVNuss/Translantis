@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130817</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TE KLEINE SCHEPNETTEN
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 17 Augustus 1913
+Ai»st. Boek- e-i} Sleendrukkerij, \ h. Ellerman. Harms &amp; Co
+CORT VAN DER LlNDEN
+Bos
+De Nederlandsche Kiezer: - HéCort! Als Bos en Pieter Jelles je helpen totebellen, kon je
+dit vischje wel voor me inhalen!
+TROELSTRA
+
+</text>
+<image timestamp="2002:08:20:04:21:35.00" size="199295">D40000VJ.TIF</image>
+</page>
+</document>

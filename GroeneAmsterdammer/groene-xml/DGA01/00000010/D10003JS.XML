@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230113</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR 1EDERLAND
+13 Jan. '23. - No. 2377
+HET
+RADIO-TELEGRAAFSTATION KQOTWIJK
+Het koloniaal bezit heeft het Nederlandsche
+volk gedwongen tot buitengewone krachts
+
+inspanning, om de geweldige taak te kunnen
+vervullen, welke daarmede op zijne schouders
+was gelegd. Aanvankelijk werd het noodige
+contact alleen door de scheepvaart onderhou
+
+den; hierin kwam eene ontzaglijke verbetering
+toen de telegraaf, tijd en afstand overwinnen
+
+de, de gedacntenwisseling, het overleg vereen
+
+voudigden de bestuurders van-hier en ginds
+tot elkaar bracht. Het was dan ook van het
+meeste belang het nieuwe verkeersmiddel met
+pijnlijke toewijding te verzorgen, uit te breiden
+en te verbeteren. Daar aan Nederland de be
+
+schikking ontbrak over landen of terreinen,
+voldoende dicht bij elkaar gelegen om aan
+de. telegraafkabels, landingspunten te ver
+
+schaffen voor het opstellen van de toestellen
+waarmede de berichten van post tot post
+moeten worden overgebracht, was men ge
+
+noodzaakt de medewerking van andere
+Staten in te roepen. Nochtans is het van
+groote beteekenis voor het bestuur van de
+Koloniën, dat men in het telegrafisch ver
+
+keer met deze niet afhankelijk is van vreem
+
+de invloeden.
+Vooral tijdens den jongsten wereldoorlog
+is dit meer in het bijzonder gebleken toen
+Engeland met zijne macht over de kabels
+naar 'het Verre Oosten, het
+NederlandschIndische verkeer knevelde en in 1917 zelfs
+gedurende enkele maanden voor bepaalde
+categorieën van telegrammen stop zette.
+Daar intusschen de vooruitgang op weten
+
+schappelijk'gebied de mogelijkheid had ge
+
+opend eene directe radio-gemeenschap zonder
+overdraagstations tusschen Nederland en
+'Indiëtot stand te brengen, was voor de
+Regeering het oogenblik gekomen opdracht
+te geven hiertoe over te gaan.
+Na zorgvuldig onderzoek of en in hoeverre
+de vereischte inrichtingen voor'deze gemeen
+
+schap uitsluitend met oehulp van Nederland
+
+sche krachten en Nederlandsch materiaal
+konden worden tot stand gebracht, werd be
+
+sloten tot eene samenwerking met een der
+groote maatschappijen, welke op
+radiotelegraaf-gebied hare sporen had verdiend.
+Gevraagd werd een afstand van rond
+12000 K.M. te overbruggen, terwijl de groot
+
+ste destijds bereikte seinwijdte slechts 9000
+K.M. bedroeg. Het in gemeen overleg met de
+Duitsche Gesellscliaft für drahtlose Tele
+
+grafie" samengesteldeplan omvat een gecombi
+
+neerd sein- en ontvangstation, benevens een
+afzonderlijk ontvangstation, de gelegenheid
+CADILLAC
+Kit Itaifstak dir AfltoluMik
+Importeur: K. LANDEWEEI, UTRECHT
+_Fig. 2.|Mast~met, op den voorgrond terrein
+, A zooals dat oorspronkelijk was
+
+biedende tegelijkertijd te seinen en te ontvan
+
+gen, zoogenaamd duplex te werken.
+Voor het eerste station bleek noodig te
+zijn een terrein van rond 300 H.A. op minstens
+2 K.M. gelegen van de groote telefoonlijnen;
+dit laatste om storende invloeden bij het
+telefoonverkeer te voorkomen. Het terrein
+voor het afzonderlijk ontvangstation zou
+minstens 30 K.M. van het eerste hehooren
+verwijderd te zijn. De keus is toen gevallen
+op het Kootwijksche Zand voor het hoofd
+station, en op de Sambeeksche heide, nabij
+Boxmeer, voor het afzonderlijke
+ontvangstation. Reeds dadelijk was liet duidelijk dat
+groote bedragen zouden worden vereischt
+om het eerste geschikt te maken. Tevens
+werd evenwel overwogen, dat, daar het hier
+domeingrond betrof, de kosten voor den aan
+
+koop van den grond vervielen, en dat deze
+allicht niet minder zouden hebben bedragen
+dan die, welke voor de egaliseering en vast
+
+legging van de Kootwijksche woestijn /.ouden
+worden gevorderd.
+Het Kootwijksche Zand ligt voor een
+klein gedeelte in de gemeente Apeldoorn
+en overigens in de gemeente Burneveld.
+Het grenst aan de terreinen waarop de
+Harstkamp gevestigd is. Het bestaat uit stuifzand
+met dalen en heuvels, waarin de zoogenaamde
+Heidensberg met achtergelegen
+Brummelkamer de hoogste is. Van dien heuvel kan men
+het geheele terrein overzien. In fig. l is de
+situatie van het terrein voorgesteld.
+De masten van de antenne hebben eene
+plaats gevonden op het meest westelijke
+gedeelte daarvan. Deze hebben eene hoogte
+van 210 meter; n staat in het midden en de
+andere zijn daaromheen in een veelhoek
+geplaatst op 450 M. van den middenmast.
+In fig. 2 geeft de voorgrond een beeld van
+het terrein in zijn oorspronkelijke!! toe
+
+stand. Het eigenlijke radio-station bevindt
+zich daarachter ter plaatse waar een der masten
+zichtbaar is.
+Elke mast wordt door driemaal vier tuien
+in verticalen stand gehouden. Rekening
+houdend met de steunpunten dezer tuien
+en met de ruimte welke bovendien noodig
+is voor het aardnet, dat als contra-antenne
+moet dienst doen, verkreeg men aldus eene
+nagenoeg cirkelvormige vlakte met eene
+middellijn van gemiddeld 1200 M., welke
+gelijk gemaakt en vastgelegd moest worden.
+Maar ook daarbuiten moesten hinderlijke
+hoogten worden weggenomen en was het.
+ter voorkoming van te groote zVmdverstuiving,
+noodzakelijk den grond tnet hei- en
+dennenbeplanting vast te leggen. Voor deze werk
+
+zaamheden is de hul,&gt; der Nederlmnlsclie
+Heidemaatschappii alsook van het
+Stoatsboschbeliecr ingeroepen. Vooruit plan is ruim
+een halt' millinen M', grond verzet. Het
+grootste gedeelte derwerklieden werd ingevolge
+eene overeenkomst met het Nationaal Steun
+
+comitébetrokken uit de werkloozen te Am
+
+sterdam.
+Nadat door Décauville-baantjes in de
+eerste verkeersbehoeffe was voorzien, werd
+de spoorwegaansluiting op de halte Kuotu'ijk
+ter nand genomen.
+Tegelijkertijd werd de; zandweg, welke van
+de spoorweghalte Assel liep naar
+Huo^Bniirlo, verbreed en verhard en doorgetrokken
+naar het centrum van het radio-terrein.
+Uen tweede weg is ontworpen langs de
+zuidzijde van het terrein over Hoog-Hiinrlo
+naar den straatweg Arnhem—Apeldoorn.
+Deze weg zal te zijner tijd, wanneer de behoefte
+daartoe uit de ervaring zal zijn gebleken,
+door de zorg van den Rijkswaterstaat worden
+tot stand gebracht.
+De Hoofdingenieur der Telegrafie jhr. W.
+M. de Branw is meer in het bijzonder belast
+geweest met de uitvoering van de civiele
+werkzaamheden, terwijl aan den Ingenieur der
+Telegrafie E. I'. W. i'ölter de zorg voor het
+electrotechnische gedeelte werd toevertrouwd.
+Het groote seingebouw is onder leiding
+van den Rijksbonwmeester H Th, Teenwese
+ontworpen door den architect ƒ. Luthniunn.
+Het heeft eeue plaats gevonden nabij den
+middenmast- Het bestaat m hoofdzaak uit eene
+machine-hal, lang 35 M. en breed 2,'i.SO M.
+met daaronder gelegen ruimten voor de
+accnmulatoren mei hunne laadinrichtingen en
+schakelnorden en verdere macl.ines voor den
+electrischen bednifsstrooni. hen toren biedt
+de gelegenheid voorliet invoeren van de anten
+
+ne, terwijl vóór het gebouw een vijver is
+aangelegd voor het afkoelen van de olie van
+de transformatoren, zooals uit lig. 4 meer in
+bijzonderheden re zien is.
+Voor de watervoorziening van het terrein
+en de gehouwen is het advies ingewonnen van
+12 cent
+12 cent
+Sumotr» CBUlTKNOBWOOtQ Sigaar
+Fig. 3. Oprichting van een mast
+
+
+het Nederlandsch bureau voor
+Drinku'utervoorienina, welk bureau zich tevens met de
+uitvering daarvan heeft belast. In
+samenwering met den genoemden
+Rijksbouwmeeter is hiertoe een toren met
+hoo^-reservoirgesticht. Electrisch gedreven pompen.
+welk op den bodem van een tweetal schachten
+ter cepte van 18 M. zijn geplaatst, zuigen
+het vater 30 M. uit den bodem op en
+persa het in het reservoir. Van daar
+word het met behulp van een buizennet
+naar de verschillende gebouwen gevoerd,
+alsmde naar den zich vóór het gebouw
+bevindendn vijver. Op den watertoren wordt een
+electische schijnwerper geplaatst, welke een
+krachigen lichtbundel naar boven zal werpen
+om &lt;e vlietenk'rs te waarschuwen voor de
+gevadijke nabijheid der hooge masten
+met (aaraan opgehangen antenne.
+Ovrigens is getracht om zooveel doenlijk
+het naterieel van de Nederlandsche markt
+te hcvekken. Met name is dit ook geschied
+niet letrekking tot de masten. Het bleek
+evenwl dat dit destijds onmogelijk was. Elke
+mast 'eegt ruim HOOOO K-G., zoodat in totaal
+eene k'ine 500 ton ijzer nnodig was, waarvan
+toen tr tijd nog gien zesde gedeelte in ons
+land voorradig was. Zij zijn daarop in
+Dnitschland tisteld hij de tirma H e in."Lehman £•• Co.
+die zia speciaal met de constructie van der
+
+gelijke groote ijzeren lichamen bezighoudt.
+De prichting van eiken mast is geschied
+door en ploeg van (i werklieden niet een
+monter als voorman. De werkwijze, welkt'
+daarbij gevolgd is, blijkt uit fig. 3; de
+werkkooi m t zes etages ziet men in het bovenste
+gedeelt der tig mi r afgebeeld.
+De electrische stroom voor het drijven
+van de machines, voor de verlichting en het
+opwekken en uitzenden van de electrische
+seinenergie, wordt betrokken van het
+Provinciuul Geldersche Electrische Bedrijf.
+Het seingehouw, dat meer het karakter
+van eene fabriek dan van een telegraafkantoor
+vertoont. be.'at alle toestellen, welke noodig
+zijn om de electrische sein-energie op te
+\\ekken en tusschen lucht- en aardnet te
+doen slingeren. Daar liet overbrengen van de
+teekens geschiedt met behulp van de Morse
+
+code (het punt-streep-schrift) slingert de
+energie ook, in overeenstemming met de
+Mnrse-teekens. sein- en rustpoozen tusschen
+de beide netten, waarbij overeenkomstige
+etherslingeringen (electrische golven) rondom
+worden opgewekt, welke zich door net heelal
+voortplantende ten doel hebben de toestellen
+op de verwijderde ontvangstations te beïn
+
+vloeden en de atgezonden teekens te
+reproduceeren. De manipulatie van het seinen
+met den Morse-sleutel, geheel conform de
+werkwijze bij eene gewone Morse-draadver
+
+binding, geschiedt door de telegrafisten in een
+afzonderlijk gebouw. Daarbij worden slechts
+zwakke electrische stroompjes door kabel
+
+draden naar het machine-gebouw geleid, waar
+zij relais in werking brengen, welke de mach
+
+tige electrische energie-zenders in werking
+brengen. De eigenlijke telegrafist bemerkt
+van dat alles niets. Hij manipuleert en be
+
+handelt het hem ter overseinen ter hand
+gestelde telegram geheel op dezelfde wijze
+als hij dit reeds jaren lang gedaan heeft op
+het oude. gewone telegraatkantoor.
+In bedoeld afzonderlijk gebouw, dat een
+geheel provisorisch karakter draagt, daar
+du eigenlijke ontvangdienst in het station te
+Sambeek zal geschieden, zijn tevens de ont
+
+vangtoestellen ondergebracht.
+
+Bij het ter perse gaan van dit artikel is een
+aanvang gemaakt met het afregelen van de
+toestellen, waarna tot het proefseinen met
+Indiëwordt overgegaan.
+Januari 1923. •
+
+l K. A. E. R. C o L L E t i E
+Fig. 1. Sitnatie-teekening
+JAC. URLUS
+HAVAMA 18 Ct. S M, A V K bij
+HAlïlllüCoJembraniilpl.ynistelslr,
+F'g. 4 Perspectivische teekening van seingebouw, koelx ijver, magazijnen en werkplaatsen
+IIIIIIIIIIIIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIMIIIIIIIIIMIIIIIIIHIIIIIIIIIUIIIIIIIIIIIIIIMI
+Rika Hopper
+
+De ware feestredenaarster ben ik niet....
+bnoze brieven, waar ik op mijn wij-ze het rede
+
+lijke had bedoeld, zijn daar om mij ervan te
+overtuigen, en in de meeste gevallen, de roem
+
+rijkste, waag ik er mijn hals niet meer aan.
+Doch een enkele maal kan het voorkomen,
+dat het feestgedrnisch de diepere aandacht
+samentrekt niet alleen op den aard en de
+waarde van een talent, maar vooral op de
+positie, die dat talent inneemt. Aan miskende
+genieën geloof ik niet recht, het tegenover
+
+gestelde: middelmatigheden, die zich ten ge
+
+volge der onbevredigende samenstelling onzer
+gezelschappen, als kunstenaars van den eersten
+rang doen gelden, komt meer voor, maar
+tusschen deze uitersten ligt nog de begaafd
+
+heid, die onoordeelkundig geleid, afdwaalde,
+en onder den druk eener onbestemde innerlijke
+geremdheid en den loop der omstandigheden,
+meer op den achtergrond geraakte dan voor
+de tooneelkunst in het algemeen wenschelijk
+was.
+Oppervlakkig bezien, kan men niet zeg
+
+gen, dat Rika Hopper, toen ze met Annetje
+K'aassen, als een allerliefst paar
+Romaneskjes" haar joyeuse entree maakte bij het eer
+
+waardig ..Nederlandsch Tooneel" geen geluk
+had, noch dat haar in de latere jaren de kansen
+zijn onthouden zich tegenover het publiek in
+hoofdrollen te doen kennen. Maar de
+drawback voor Rika Hopper is geweest, dat zij
+haar jong succes gevonden heeft in dien
+onbewusten tooneeltijd, in een omgeving, waar
+de bewondering veelal in n richting schoot
+en de zelfgenoegzaamheid op sloffen liep. En
+dat zij ,,a woman of destiny" zich daaraan
+niet tijdig wist te ontworstelen, en toen het
+keerpunt in de dramatische kunst daar was,
+plotseling tusschen twee stoelen zat. Onbe
+
+vredigd in het oude, niet gereed voor het
+wordende. Het mag tegen den geijkten
+jubeltoon ingaan om bij een mijlpaal in
+kunstenaarsloopbaan naar een zuivere basis voor onze
+gevoelens te trachten, niet minder waar is,
+dat toch alleen een zeker geloof in een talent
+IIIMIIIIIIIIIIIIIIIIIIIIIIIMIIIItllllllllllllllMllllnilllllMIIIIIHIIMII
+ons verleidt niet achter een hartelijke ge
+
+meenplaats weg te schuilen. Ons huldigings
+
+arsenaal biedt te kust en te keur en daaraan
+zou ik dan maar enkele herinneringen be
+
+hoeven vast te knoopen, waarvoor ik Rika
+Hopper stellig niet minder erkentelijk ben
+dan haar vele bewondenaars. Van bijna
+vijfen-twintig jaar terug: het jonge meisje
+Borgny" aan het slot van Bjornson's
+,,Laborenus, de Maslowa" in Opstanding", de
+rol, waarin zij zich in den loop van deze week
+op haar best zal kunnen tonnen, in Bernsteins,
+Le Secret", waarbij zij portuur bleek voor
+Mevrouw Mann, als Postia". als Aim
+(Mensch en oppcrmensch). En eens, lang ge
+
+leden, heb ik haar Heine's Ein Weib" liooren
+opzeggen. . . . Neen, niet in den aangeleerden
+voordrachtskunstenaressentoon, maar waar
+lijk als ein Weib", met huiveringwekkende
+kracht, met een hartstocht, die steun vond
+in een, voor deze kleine s.ityre volkomen
+techniek, haar opvoerde tot een gruwelijk
+drama.
+Maar het geval is verder-strekkend
+dan deze herinneringen. Want hoe hon
+
+ger het repertoire steeg en veel-eischend
+werd, des te nijpender bleek ook het te-kort
+aan vrouwelijk temperament, aan actrices
+die de groote rollen van dat grootere repertoire
+intellectueel en met lijt en ziel aan kunnen.
+Gelaarsd en gespoord zijn ze niet op ons tooneel
+gestapt, de Ladies ..Macheth", de smartelijk
+verwarde stiefkinderen Strindhergs, de hel
+
+dinnen van Sophokles, Hebbel's nooge vrou
+
+wen... schaarsch bleven de ., Rebecca's", de
+., Hedda's" en de goede Molière-speelsters.
+Het is waar, vijfentwintig jaren, ze strekken
+ter nauwernood om naar deze figuren te
+mogen reiken. En hoe intensief moeten ze
+gewerkt hebben, de actrices als Rosa Bertens.
+Hermine Körner, Susanne Lesprès, Hedwig
+Bleubtreu, Tilla Durioux. Toch was in Rika
+Hopper oorspronkelijk veel, dat haar scheen
+vóór te bestemmen... Een vrouw die, jong al,
+houding had, een van nature nobel geluid,
+met diepe, soms rauwe accenten, en met een
+zwier van romantiek. Als ze wilde. Als ze
+niet wilde, lusteloos, zonder innerlijke bewo
+
+genheid zich liet drijven op de gemakkelijke
+cadanzen van die précieus geschoolde stem,
+wekte ze des te wrevcler verzet, juist omdat
+daar altijd was: verwachting.
+Het heeft ongetwijfeld aan de geheele con
+
+stellatie van ons tooneel gelegen, aan de
+omstandigheid, dat dit talent veelal op
+z'chzelf was aangewezen, en in den loop dei
+jaren, naar verhouding van zijn middelen en
+IIIHIIIMIIMHIIIIIIIIIIIII»1'
+zijn mogelijkheden, te weinig
+dat wij thans nog, bij dit feest ter middag
+
+hoogte, in liet onzekere verkeeren omtrent
+zijn cpialiteit. omtrent zijn gevoelsdiepte en
+zijn draagkracht. Van beteekenis kan dit
+jubileum /.ijn. doordat het een begaafdheid
+in de laatste jaren wat uit het spoor, en
+dientengevolge" in de schaduw geraakt - voor
+een reeks van gelukkige avonden, terugbrengt
+iu de zon der algeineene belangstelling, nieuwe
+verschieten opent wellicht.
+De vrouw, in haar vollen bloei en zelf
+bcwnste kracht, de man schrijft zijn meesterwerk
+om haar, en het is billijk dat hij in elk land
+zijn vertolksters vindt Wij hebben er in ons
+land geene te missen. Moge Rika Hopper
+zich op haar feestavond met vreugde bewust
+worden van 'de taak, die nog vóór haar ligt.
+minimiinimimiiimimmiiiiilmiuiiiHmiiiiiiiiiimiiimium
+
+evolueerde,
+iii	mi minimi
+Max Pallenberg
+MAX PALI.LNBERG
+Het taent van Max PMlenberg kan ik altijd
+pas den ,'olgenden morgen bewonderen. Ter
+
+wijl hij ,,am den gang" is, boeit het mij nauwe
+
+lijks. Ual is t/nen ongewoon verschijnsel, het
+houdt zelfs het criterium in voor alle Kunst
+met een hoofdletter. Middelmatige tooneel
+
+kunst, wiarbij het beeld zich niet boven de
+stof verluft schijnkunst dus -• bezinkt
+niet, ze vtrvlicgt. Wij moeten er onafgebroken
+onze aaiuacht op spannen en den volgenden
+dag desondanks onze herinnering uitputten.
+er ri&gt;&gt;kvar\ bij fantaiseercu, om er nog iets
+van na te kunnen vertellen. Zond ra ze echter
+boven deze grens uitstijgt waarachtig
+wordt overkomt ons het tegenovergestelde,
+de geest kan dan best eens een oogenblik af
+
+dwalen zonder schade voor den indruk, die
+langs geheimzinnige wegen in ons onderbe
+
+wustzijn verdwijnt, om den dag daarna, als
+het ware gezuiverd, verscherpt en tot een
+onvergankelijke aandoening gestold, weer op
+te komen.
+Oeldt dit in het algemeen, het meester
+
+schap van Pallenberg voert in deze richting
+tot een venassend uiterste. Gedurende het
+wordingspncès, waarbij van den toeschouwer
+een bijna gelijke activiteit wordt gevraagd
+als van de:i speler, kan ik deze t
+ligraankunst van scheppen en vernielen, deze aan
+
+grijpende baldadigheid, dit rusteloos ver
+
+wér, niet alleen niet genieten, ik kan h-t er
+niet bij uithouden. Zoo ooit critiek subjectief
+mag zijn, dan in dit geval de mijne, verder
+dan deze bekentenis zal ik het niet brengen,
+en voor eenige conclusie zal ik mij wachten.
+Ik vraag me alleen in verwondering af: kan
+een kunst in zichzelf zoo kras-volmaakt zijn,
+dat ze al het omringende, zelfs de ontvanke
+
+lijkheid, de toegenegenheid, van den onschul
+
+digen toeschouwer, fnuikt? Of spartelt hier
+alleen, als voor de apenkooi, ons zelfbewust
+
+zijn tegen, wil toch een zekere
+cultuur-vaneeuwen, dit jammerlijk: zie den mensch....
+niet aan? ,,W;ui-wau !" blaft Pallenberg,
+wat raakt het hem of die om hem schate
+
+rende menigte straks op straat staat hongerig
+en berooid.
+Maar als dan de nacht het heelal heeft
+schoongcveegct en de echo van dit
+onmenschelijk mirlitu'.i-geiuid verstorven is. dan rijst
+uit de ruïne van het circus waarin we gezeten
+hebben, een verstild gezicht, met bijna
+bovenmenschelijke trekken, met, op de plaats waar
+wc twee «o i;s pi eet j es hebben zien flikkeren
+on *)itxen, een blik, vol en wijü. . . . en dan
+eerst staan we, geloof ik, voor den grooten
+kunstenaar, dien Max Pallenberg is, maar dien
+hij wel zorgt dat niemand in de werkelijkheid
+des tooneels ooit familiaar de hand drukt.
+Voor het overige zou men zijn geheele reper
+
+toire, waarbij elke tegenstelling een verbijs
+
+terende verscheidenheid biedt, moeten kennen
+om, zij het alleen langs den buitenkant van
+deze fenomenale maskerkunst, tot een ietwat
+samenvattende karakteristiek te kunnen ko
+
+men. We behoeven zijn portretten maar naast
+elkaar te leggen. (In Der Biberpelz", als
+,,Rappclkopf", in die La'stigen", als
+Menelaus", en in zijn laatste creatie ais Lilioin")
+om te beseffen welke een klein tipje van dat
+onberekenbaar fantastisch, overgevoelig ver
+
+mogen ons in de zoogenaamde echte"
+Pallenbcrgstiikken (Wau-wau, Familie .Schimek
+en zelfs nog in Molière's Vrek") wordt
+getoonü. De nog echtere" Pallenberg.... uit
+welk diep-aandoenlijk gedrocht zal hij nog
+eenmaal te voorschijn treden als een boven
+'s levens gansche santekraam verheven
+mensch!
+Ook hier spraken omstandigheden mee.
+Pallenberg kwam van de operette, daarvan
+blijft in eigen aspiraties, in andermans schat
+
+ting, altijd wel iets. Verleden winter stond hij
+avond aan avond in zijn hemelsblauwe kamer
+
+japon met het dronken kroontje op, als
+,,Jnpiter" op den wolkentroon in Reinhardt's
+revue: Oi'pheus in der Unterwclt", waaraan
+ook Offenbach ietwat te pas kwam. De lach
+
+salvo's dreunden door de stampvolle arena
+a'.s )upi" den telefoon-hoorn aan zijn oor
+legde om met ,,Pluti" te tclefoneeren over de
+weersgesteldheid, maar het succes van den
+avond was toch het onverbeterlijk gebaar
+waarmee deze Jupiter" den lastigen lucht
+
+ballon van zijn statiekleed met twee handen
+ophaalde, als een meneer die zijn bretels ver
+
+geten heeft. Tot de pauze heb ik het dien
+avond gebracht. En dezer dagen zag ik hem
+weer in het onherkenbaar vermalen rompie"
+als een kleinen, aftandschen eigengerechtigden
+monsieur Ie prefect. Het buitengewoonste
+vond ik zijn rug, met het eigenwijze, te korte
+jasje. Dat stramme, jengelende kinderrugje,
+dat parmantig jasje, ze speelden de geheele
+gamma van dïn recalcitranten, belachelijken,
+vernederenden ouderdom. Die rug zal mij mijn
+leven lang bijblijven. Maar na het derde be
+
+drijf leek mi; ook ditmaal de vlucht de eeiiig»;
+uitkomst.
+
+TOP N A E F
+r
+</text>
+<image timestamp="2002:08:25:15:18:33.00" size="494166">D10003JS.TIF</image>
+</page>
+</document>

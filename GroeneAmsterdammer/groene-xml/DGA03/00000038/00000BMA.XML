@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l
+r.
+heel prettig vind met u te praten, en als u er niets op tegen'hebt,
+blijven we een beetje zitten babbelen, terwijl ik mijn werkmand nazie*
+Kom gaat u todi zitten. (Zij gaat aften op de canapé).
+9 t D'AtBiNO's. (Als varen).
+Wilt u na bepaald weer dat ik blijf!1
+BERT A. (Haar kluwens tellend).
+Ja, ja zeker,' doet u mij dat genoegen nu eens. Waar hadden we
+'t ook weer over? O ja, oy*r wilde beesten nietwaar? Heeft u wel
+eens een ontmoeting gehad ? (tellend). Vijf, zes, zeven . . .
+D'ALBINOS.
+CSér wilde beesten, ja we hadden 't over wilde beesten.
+(Ter xgdè). 'k Heb het woord niet in mijn mond gehad, het
+mensen is zeker niet'goed wijs.
+(Luid). Ja mevrouw, ik heb ns een ontmoeting gehad.
+BERTA.
+Och kom, maar dat moet u me toch eens vertellen, negen ,
+tien .... elf ....
+D'ALBINOS.
+Heel gaarne, 't was in November, in Avignon.
+BERTA.
+In Avignon, zijn daar wilde beesten? ff
+i- ^ D'ALBINOS.
+Wilde beesten mevrouw ? de omstreken waren vroeger vol met beren,
+jakhalzen, hyena's, ten minste in den tijd der Romeinen; tegenwoordig
+vindt men ze er ook, maar dan in den regel in kooien. In den tijd waarvan
+ik dan spreek, was er bij gelegenheid van de kermis, een uitstekende
+menagerie, waarvoor zich voortdurend een massa menschen verdrong» Op
+een avond dat de zaal weer propvol was, en men aandachtig zat te
+kijken naar een kolossale boa constrictor die bezig was een haasje op
+te peuzelen, hoonfemen op eens een vreeselijk gebrul Ik keer nifj
+om, en zie op nlg geen twintig pas afstand van mij een prachtige
+leeuwin, die op een onbegrijpelijke wijze uit haar kooi ontsnapt is,
+in haar volle majesteit op. mij aankomen. Het verschrikte publiek
+vliegt van • de tribunes, men duwt elkander met geweld door de uit
+
+gangen; de paniek is onbeschrijflijk. Ik alleen blijf kalm, en wacht
+het woeste beest, vastberaden af, gewapend met deze zelfde parapluie;
+(ut aich in postuur).
+De leeuwin loopt om mij heen.
+"-•
+*
+
+</text>
+<image timestamp="2002:10:03:22:58:50.00" size="67622">00000BMA.TIF</image>
+</page>
+</document>

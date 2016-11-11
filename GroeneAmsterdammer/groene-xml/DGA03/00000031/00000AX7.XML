@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18870130</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER
+A°. 18*7
+WEEKBLAD VOOR NEDERLAND.
+V'
+Ieder nommer bevat een Plaat.
+Onder Redactie van J. DE KOO en JÜSTÜS VAN MAÜRIK Jr.
+Het auteursrecht voor den inhoud van dit Blad wordt verzekerd overeenkomstig de wet van 28 Juni 1881 (Staatsblad No. 124.)
+Verschijnt eiken Zaterdagavond.
+Uitgever: Tj. VAN H O L K E M A, te Amsterdam,
+Keizersgracht 436.
+Zondag 30 Januari,
+Abonnement per 3 maanden	f 1.—. fr. p. p. f 1.15.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar . . . 0.10.
+Advertentiën van 1—5 regels f 1.10, elke regel meer . . . 0.20.
+Reclames per regel . . . .'	0.40.
+ORANJENOMMER.
+
+10 Februari a.s. zal van. dit
+Weekblad een Extrablad verscho
+
+nen n geheel gewijd zijn aan het
+HUIS ORANJE WASSAU.
+2 Chromolithograflën, in 9 kleuren
+gedrukt, en nog 8 groote
+platenontworpen en geteekend door de
+Kunstschilders: Dak e, Van Es
+
+sen, Steelink, Wijsmulier en
+Braakensiek, zullen
+ditOranjeitommer versieren.
+De tekst wordt geschreven door
+onze eerste. Letterkundigen.
+Ondanks, de zeer kostbare uitvoe
+
+ring is de prijs, ook voor abonné's,
+op ƒ l bepaald.
+Alle Boekhandelaren en Postdi
+
+recteuren nemen nu reeds bestel
+
+lingen aan. Een spoedige opgave is
+noodzakelijk omdat van een
+eventneelen herdruk geen sprake kan zijn.
+Tj. VAN HOLKEMA,
+Uitgever.
+I N H O V D:
+
+DE GEWIJZIGDE TELEPHOONWET.
+FEUILLETON: Eene genadige Tijgerin, uit het
+EngelsCh van Henry Nash, door A. (Slot.)
+.VAN OVER DE GRENZEN, door E. D. Pijzel.
+Brieven van een gerepatrieerde, UI, door
+Baron Th. B. UIT HET HAAGJE, door
+Pasquino. • Een Utrechtsen praatje, door
+Tolydegmon. KUNST EN LETTEREN: Het
+Tooneel te Amsterdam, door Alk Th. Het
+wintersprookje, door Taco H. de Beer. 3e Con
+
+cert der Maatschappij Felix Meritis", door B. S. J.
+Muziekaal Overzicht, door V. Over Boeken,
+III, door W. P. C. K. Friedrich von
+Amerling. VARIA. SCHAAKSPEL. A B C
+voor Vrouwen, door Prot. Celibatarius. Het
+geheim der schoone Baskische. ALLERLEI.
+RECLAME. HANDEL. BEURSOVER
+
+ZICHT, door E. B. ADVERTENTIËN.
+
+
+Feuilleton.
+Bene genadige Tijgerin.
+Uit het Engelsch
+VAN
+HENRY NASH.
+(Slot).
+
+»Nu deed ik eene poging om mij verbaasd
+te toonen, en zette groote oogen op, alsof ik
+verwonderd was over hare onbeschaamdheid,
+om den grooten weg te versperren; maar de
+eenige aandacht, die zij aan deze demonstra
+
+tie schonk, was, dat zij zich genoopt voelde
+eene schrede dichterbij te komen.
+»Dit was eene negatieve uitwerking van het
+magnetisme: de macht, die in mijne oogen
+lag, had de tijgerin van hare plaats gebracht,
+maar, helaas, in de verkeerde richting. Vol
+
+gens alle regelen van dien geheimzinnigen
+invloed had zij voor mijnen starenden blik
+de oogen moeten neerslaan, moedeloos en
+lafhartig achteruit moeten wijken. Mogelijk
+dat eene volgende poging met eenen beteren
+uitslag werd bekroond. Mijne wenkbrauwen
+samentrekkende, nam ik den schijn aan van
+vreeselijk vertoornd te zijn, hopende hare
+Koninklijke Hoogheid tot de overtuiging te
+brengen, dat het harerzijds onvoorzichtig was
+mijn geduld langer op de proef te stellen.
+Zij beantwoordde mijnen toprnigen blik met
+twee schreden in mijne richting te doen, waar
+
+door ik genoodzaakt was evenzooveel pasjes
+achteruit te gaan, zoodat ik nu tegen de
+borstwering stond. Klaarblijkelijk had ik
+niet de rechte snaar aangeroerd om die
+trotsche natuur tot onderwerping te brengen.
+»Nog bleef mij eene vriendschappelijke op
+
+lossing over; ik trachtte eenen glimlach op
+mijn gelaat te voorschijn te roepen, ten einde
+der tijgerin te toonen, hoezeer ik in bewon
+
+dering was van hare schoonheid en hare
+blijkbaar vriendschappelijke bedoelingen.
+Ik hoopte, dat als mijne afkeerige
+blikDe gewijzigde telephoonwei
+
+Men weet, welk een storm tegen de tweede
+poging van den Minister van Waterstaat
+om de gemeenschap door electrische
+telephonen te regelen, is opgegaan. Gemeentebestu
+
+ren en Kamers van Koophandel, zoowel als
+de organen der pers kwamen op tegen
+hetfeen zij achtten eene bij uitnemendheid
+scale wet te zijn. Ook in den boezem der
+Tweede Kamer had deze oppositie sterken
+weerklank gevonden. De meerderheid was
+van oordeel, dat, wanneer eenmaal besloten
+werd de exploitatie der telephoon door par
+
+ticulieren toe te laten, men de ontwikkeling
+daarvan niet door allerlei fiscale en bezwa
+
+rende bepalingen moest tegengaan.
+De oppositie heeft, ten deele althans, doel
+getroffen. Verdwenen is bij het gewijzigd ont
+
+werp, dat de heer Van den Bergh indiende,
+de bepaling, dat bij het verstrijken van den
+termijn van concessie het Rijk eigenaar wordt
+van de aangelegde lijnen zonder hiervoor iets
+aan wien ook, uit te keeren te hebben. Het
+Rijk zal nu voor alles, wat het in eigendom
+overneemt, de werkelijke waarde te betalen
+hebben.
+Gewijzigd is de beperking der concessie
+tot ten hoogste 25 jaren; de bevoegdheid om
+haren duur te verlengen is iiu in 't ontwerp
+opgenomen.
+Beperkt is thans ook de bevoegdheid der
+Regeering om de prijzen voor het gebruik
+der toestellen al of niet goed te keuren, tot
+de bepaling van het maximum der prijzen,
+zoodat de mogelijkheid dat de Regeering bij
+concurrentie van het Rijk met eene particu
+
+liere maatschappij aan deze een hooger abon
+
+nementsprijs zou opleggen, is weggenomen.
+Facultatief is nu gemaakt het eerst perti
+
+nente voorschrift, dat bij vervallenverklaring
+der concessie het gestorte waarborgkapitaal
+ten behoeve van het Rijk moest worden ver
+
+beurd verklaard.
+Eindelijk is in de bepaling, dat de Regee
+
+ring zich de bevoegdheid voorbehoudt, »om
+ten allen tijde zoo noodig wijzigingen in de
+inrichting voor te schrijven, met name de
+vervanging van bovengronds- door ondergronds
+
+geleidingen", het cursieve gedeelte vervangen
+door deze woorden: »zelfs, waar dit door Ons
+volstrekt onvermijdelijk is verklaard, de ver
+
+ken haar aantrokken, de vriendelijke uit
+
+drukking op mijn gelaat de tegenoverge
+
+stelde uitwerking zou hebben. Maar gij zult
+mijne teleurstelling begrijpen, toen zij onmid
+
+dellijk drie schreden vooruit deed. Daar ik
+reeds tegen de borstwering aan stond, kon
+ik onmogelijk verder achterwaarts gaan en
+ik was dus genoodzaakt den laatsten zet van
+ons spel aan hare gestreepte Hoogheid over
+te laten. Ik was schaakmat; maar, aangezien
+ik geen oogenblik hoop koesterde op het
+behoud van mijn leven,begon ik eene zekere on
+
+verschilligheid over mij te krijgen. Ik begon
+er over te peinzen, of ik malsch zou zijn;
+of mijn dood zou gewroken worden; of mijne
+buurlieden mij zouden betreuren. Ik kreeg
+spijt dat ik geen testament had gemaakt en
+herinnerde mij een aantal kleine
+zakenwelker afdoening hoogst gewenscht was voor»
+dat ik opgegeten werd en die nu wellicht,
+eeuwig onafgedaan moesten blijven. Al zou
+ik een maand lang aan het schrijven blijven,
+dan zou ik nog niet alles kunnen
+opteekenen, wat mij door het hoofd ging in de vijf
+minuten, die de tijgerin en ik tegenover
+elkander stonden. Eén ding had ik met ge
+
+noegen opgemerkt, namelijk, dat het monster
+niet toornig was, maar het flauwe straaltje
+troost, dat ik uit die omstandigheid meende
+te kunnen putten, werd onmiddellijk uitge
+
+doofd door de overweging, dat ook ik niet
+de minste gramschap gevoelde voor een schaap,
+bijvoorbeeld, dat om mijnen honger te stillen,
+geslacht en fijn gehakt werd. Ik begreep, dat
+een tijger even goed moet eten om te leven
+als een mensch.
+«Uitgaande van dit philosophisch stand
+
+punt, ging ik voort de mcesteresse van den
+toestand met Pickwicksche goedhartigheid
+aan te kijken ; zij was op hare achterpooten
+gaan zitten en scheen bij zich zelve te over
+
+leggen, hoe zij nu verder zou handelen. Hoe
+ook hare eindbeslissing over mijn lot mocht
+zijn, zij scheen niet van plan -mij uit louter
+moordzucht te willen dooden en de troost,
+dat de noodlottige sprong nu niet meer in
+eens kon geschieden, bracht mij in eene op
+
+geruimde, ja, zelfs vroolijke stemming. Mijn
+zenuwgestel kon dien gespannen toestand niet
+uithouden. De angst maakte plaats voor eene
+ziekelijke roekeloosheid. Ik werd
+onverschilvanging van bovengronds- door ondergronds
+
+geleidingen". Voor die vervanging z.al dus
+nu een Koninklijk besluit noodig zijn, dat
+deze volstrekt onvermijdelijk verklaart.
+Overigens is het wetsontwerp niet veel
+gewijzigd. Alleen zijn de strafbepalingen in
+overeenstemming gebracht met de beginselen
+van het nieuwe "Wetboek van Strafrecht, en
+is het heffen van een Concessierecht ten be
+
+hoeve van het Rijk beperkt tot de gevallen,
+waarin aan het Rijk niet op andere wijze
+een geldelijk voordeel is verzekerd. Het doel
+dezer laatste bepaling heet, te voorkomen
+dat het Rijk uit eene bijzondere
+telephoonverbinding tweemaal geldelijk voordeel trok.
+Maar zou het hoofddoel niet zijn op deze
+wijze indirect, door de wet te doen bepalen,
+dat b.v. het heffen van zeker percent van de
+inkomsten der telephoon-verbindingen door
+het Rijk geoorloofd is? De aandacht mag
+wel op deze nieuwe bepaling gevestigd wor
+
+den, omdat het Rijk hierdoor voordeelen tot
+zich zou trekken, die tot nog toe de gemeenten
+men denke aan Amsterdam genoten.
+Het stelsel van het wetsontwerp is niet
+gewijzigd. Concessie en concessierecht van
+Rijkswege zijn gehandhaafd; de gemeenten
+kunnen evenals particuliere eigenaars, voor
+het gebruik van den gemeentegrond of van
+gemeentegebouwen ten behoeve der
+telephoongeleidingen, zekere voorwaarden stellen, dus
+dok op die wijze geldelijke voordeelen
+trekken. Het heffen van een eigenlijk con
+
+cessierecht door de gemeente zal echter niet
+kunnen geschieden.
+Zeer vreemd is het standpunt, dat de
+Minister inneemt tegenover de belangrijke
+vraag, waartoe art. 3 van het wetsontwerp
+aanleiding heeft gegeven. Dit artikel luidt:
+»De eigenaars of beheerders en de gebrui
+
+kers zijn gehouden, de draden van
+telephoonverbindingen, in art. l bedoeld, boven hunne
+gebouwen of gronden te dulden, mits zonder
+bevestiging of aanraking.
+De schade, welke uit de toepassing dezer
+bepaling mocht voortvloeien, wordt door den
+ondernemer der verbinding vergoed.
+Geen werk kan op of onder iemands eigen
+
+dom worden uitgevoerd, zonder voorafgaande
+toestemming van den eigenaar of beheerder."
+Volgens de Memorie van Toelichting, bij
+het oorspronkelijk ontwerp behoorende, zou,
+tengevolge van de Ie alinea, de eigenaar niet
+
+
+lig, begon hardop te lachen en zelf bracht
+ik uit gewoonte mijne vingers naar mijn vest
+
+zak, haalde mijne snuifdoos, die ik altijd bij
+mij draag, te voorschijn en nam een snuifje.
+Aangezien mijn neus er aan gewend is, nieste
+ik niet; maar klaarblijkelijk was de tijgerin
+door die handeling beleedigd en alsof zij mij
+toonen wilde, dat zij eene dergelijke vrijmoe
+
+digheid niet van mij wilde verdragen, stond
+zij op en begon zoo vervaarlijk te brullen,
+dat ik mime snuifdoos vaii schrik liet vallen
+en den inhoud over mijn overhemd stortte.
+»Een minuut ongeveer bleven wij elkander
+aanstaren; daarna deed de tijgerin weder eene
+schrede voorwaarts.
+»Is this the hend ?" sprak ik Fanny Squeers
+na; want al verwachtte ik niet anders dan in
+het volgend oogenblik aan stukken te wor
+
+den gescheurd, ik verloor toch mijne opge
+
+ruimdheid niet.
+«Waarschijnlijk was »the hend" ophanden,
+want de tijgerin deed nogmaals twee schre
+
+den in mijne richting. Zij bleef een oogenblik
+staan en terwijl zij mij scherp in liet oog hield,
+kwam zij weder vooruit, maar nu niet meer
+juist op mij aan.
+»Zou het mogelijk zijn?
+»Ja, Goddank, zij gaat mij voorbij.
+»Ik was bijna dronken van opgewondenheid
+over deze verandering in den toestand; de
+mogelijkheid ervan was mij zelfs niet in de
+gedachte gekomen.
+»En werkelijk! Met majesteuse kalmte ging
+zij langs mij heen en bijna was zij mij voorbij.
+toen zij bleef staan. Ik veronderstel, dat mijn
+verstand door den vreeselijken angst, dien
+ik had uitgestaan, een oogenblik beneveld
+was, want hoe anders de handeling te ver
+
+klaren, die ik nu beging? Ik lichtte mijn
+rechterhand op en gaf hare hoogheid een goed
+gemeenden slag op haar achterste,uitroepende:
+»Vooruit, oude tante." In hetzelfde ongenblik
+lag ik bewusteloos togen de borstwering
+gesmakt.
+»Toen ik weer bijkwam, merkte ik. dat ik
+met mijn gezicht naar beneden over de borst
+
+wering hing en bij mijn broek werd vastgehou
+
+den ; op twee honderd voet onder mij zag ik he
+bergstroompje bruisend nederstorten op de rot
+
+sen. Ware ik naar beneden gevallen, ik zou ver
+
+pletterd zijn geweest. Ik was met zulk een kracht
+meer het volle recht behouden, om op zijn
+grond te bouwen, of een gebouw hooger .ojf&gt;
+te trekken. Alleen zou hij, zoo hem de uit
+
+voering van een dergelijk plan, door de dra
+
+den, die hij moest dulden, onmogelijk werd
+gemaakt, schadevergo?ding kunnen eischen,
+of wel van de Regeering moeten zien te ver
+
+krijgen, dat deze eene zoodanige verplaatsing
+der draden gelastte, als voor het bouwen
+noodig was.
+Tegen deze beperking van het eigendoms
+
+recht nu was men in het Voorloopig Verslag
+opgekomen, en men had er op aangedron
+
+gen, dat eene uitdrukkelijke bepaling in de
+wet zou opgenomen worden, waardoor het
+bouwen en hooger bouwen in zijn geheel
+gewaarborgd Werd. Dit ontraadt nu de
+Minister in zijne Memorie van Antwoord,
+»Men wachte zich'', zegt hij, »rechten, die de
+eigenaar behouden zal nevens zijne ver
+
+plichting om de telephoondradeu te dulden,
+in de wet te specificeeren, en daardoor an
+
+dere niet genoemde rechten, zooals het
+recht vsn planten of van eenig ander werk
+te verrichten, in twijfel te stellen".
+Welk een logica! Eerst wordt erkend, dat
+door de Ie alinea van art. 3 het eigendoms
+
+recht in een bepaald opzicht wordt beperkt,
+en wanneer men er dan op aandringt dat
+deze beperking door een bepaald voorschrift
+in de wet zal worden weggenomen, wordt
+dit ontraden, omdat daaruit zou voortvloeien
+dat die beperking voor andere gevallen zou
+blijven bestaan! Alsof bij niet-opneming van
+zulk een voorschrift de beperking voor die
+andere gevallen niet even goed bleef be
+
+staan! En alsof men voor die andere geval
+
+len ook niet desverlangd hetzelfde voorschrift in
+de wet zou kunnen opnemen! En dezelfde Mi
+
+nister, die opneming van zulk eene bepaling
+in de wet ontraadt, zou ze wel in de Con
+
+cessievoorwaarden willen doen opnemen.
+Begrijpe, wie het kan! De zaak is werkelijk
+gewichtig genoeg om ze bij de wet te regelen
+en niet te laten afhangen van den Minister,
+die de concessievoorwaarden ontwerpt.
+Ook de 3e alinea van art. 3, volgens welke
+geen werk op of onder iemands eigendom
+kan worden uitgevoerd, zonder voorafgaande
+toestemming van den eigenaar of beheerder,
+had tot bedenking aanleiding gegeven. Daar
+
+door zou -—meende men de concessie
+voor den ondernemer illusoir kunnen worden
+tegen de borstwering geslagen, dat ik er over
+heen zou zijn gevallen, irtdien de tijgerin niet de
+beleefdheid had gehad mij op de zoo even
+aangeduide wijze vast te houden. Mijn toestand
+was hoogst onrustbarend; liet de tijgerin mij
+los, dan viel ik te pletter op de rotsen; trok
+zij mij terug, dan zou ik hoogstwaarschijnlijk
+den hoofdschotel uitmaken van haar middag
+
+maal en dat wel tot straf voor mijne dwaze
+onvoorzichtigheid, om haar niet rustig te
+laten voorbijgaan, toen zij zulks wenschte.
+»Na eenige oogenblikken lichtte zij mij van
+de borstwering af en liet mij met het gelaat
+voorover op den weg vallen; ik verwachtte
+nu niets anders dan dat zij met hare klauwen
+een biftfck a la tartare van mijn vleesch zou
+gaan maken. Ik voelde echter niets dan dat
+zij, hetzij uit vrouwelijke nieuwsgierigheid of
+uit welke andere gril dan ook, mij herhaal
+
+delijk met hare pooten over mijnen rug streek.
+Ik lag onbe\veeglijk en hield mij dood. Op
+eens begon zij te gapen en tusschen mijne
+half' geopende t oogleden door merkte ik op,
+dat mijn hoofd in dien muil vermoedelijk
+even gemakkelijk zou gekraakt worden als
+een noot in mijnen mond. Terwijl ik die ge
+
+ruststellende opmerking maakte, voelde ik
+haren adem in mijn gelaat.
+»Zij besnuffelde mijn haar, mijne wangen,
+mijnen mond en eindigde haar onderzoek met
+mij eenen kus te geven, als men ten minste
+eene lik met eene buigzamen
+notenmuskaatrasp zoo noemen kan."
+«Mijn waarde," dacht ik bij die liefkozing,
+»gij moest wat meer werk maken van uw toilet;
+anatherin of een ander aromatisch mondwa
+
+ter kan ik u aanbevelen."
+»Ik was nu reeds zoo lang gespaard en had
+zooveel angst uitgestaan, dat deze weder had
+plaats gemaakt voor een zekere onverschil
+
+ligheid, die mij zelfs in dit hachelijk oogen
+
+blik aan de scherts deed denken; mijne
+vroolijkheid werd echter spoedig getemperd, toen
+ik voelde, dat mijn gelaat bloedde; hare ruwe
+tong had er het vel afgestroopt. Toen voelde
+ik, dat het met mij gedaan was, want ik
+wist, dat als het monster eenmaal mijn bloed
+had geproefd, het niet lang zou wachten om
+de tanden in mijn vleesch te slaan; ik sloot
+de o»gen en wachtte geduldig het lot af, dat
+ik door mijne dwaasheid verdiend had.
+
+</text>
+<image timestamp="2002:10:01:21:29:01.00" size="412096">00000AX7.TIF</image>
+</page>
+</document>

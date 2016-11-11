@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400803</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wij wonen buiten
+Moeilijkheden van weer en wind
+DOOR den ras-echten
+groote-stadsrnensch zit er iets imposants in
+het buiten wonen. De wind blaast
+harder langs de open lanen van het
+forensendorp dan door den nieuwbouw
+van Zuid; hij giert met feller gefluit
+door de boomen voor het raadhuis dan
+het geval is voor het Amsterdamsche
+Centraal Station. Wie in de groote
+stad wel eens naar boven keek, zag een
+grauwe lucht of witte wolken of iets
+van blauw, of heelemaal niets. .. .
+wie in zijn ned'rig dorp-buiten de
+oogen naar boven slaat, ziet van alles
+veel meer, alles veel grooter, veel
+blauwer of veel grauwer.
+Haha! Het is nu drie maanden dat
+ik het leven van den plattelander voer
+en reeds weet ik, hoe nobel het weer
+zich gedraagt, wanneer de wind ruimt
+en hoe zeer slecht alles loopt, als de
+wind krimpt. En niet alleen, dat deze
+wetenschap in mij is, neen, ook is mij
+bekend, wat een ruimende wind is en
+wit een krimpende. Ik geef toe, dat ik
+het niet altijd weet en evenmin onder
+alle omstandigheden, maar wanneer
+ik rustig in een kleinen kring van
+goede, welwillende bekenden zit en
+mijn hoofd wordt niet geplaagd door
+andere zorgen, dan kan ik een vrij
+aannemelijke verklaring produceeren
+omtrent ruimende en krimpende win
+
+den.
+En onze brave barometer ! Jarenlang
+hebben we hem genegeerd, behalve
+dan op Zaterdagmiddagen en zulks
+alleen nog maar des zomers. Maar
+thans is hij een huisgenoot. We
+bemoeien ons met hem, eiken dag, ja
+tweemaal, driemaal daags. Hij is onze
+huisgenoot niet alleen, maar onze
+raadsman bovendien: hij bepaalt mijn
+hoed vóór ik uitga en geeft de eind
+
+beslissing over geen jas, demi of
+regenjas en dit is voor een beginnend
+buitenman, die nog niet gaarne eigen
+
+handige beslissingen neemt, een krach
+
+tige hulp. Loopt het mis en heb ik den
+ganschen dag hijgend en transpireerend
+met mijn overbodige jas over den arm
+geloopen, of ben ik doornat thuis
+gekomen met mijn lichte colbertje
+welaan, dan was dat geen gebrek aan
+meteorologisch inzicht van mijn kant,
+maar slechts een barometrische ver
+
+gissing, waarachter ik me dan gaarne
+verschuil.
+Nu heb ik een kennis en die wil me
+ervan overtuigen, dat het niet de
+barometer allén is, die het weer
+administreert en verzorgt, maar dat
+ook de wind van advies dient en nog
+enkele andere interessante
+bijkomstigheden. Hij heeft getracht me uiteen
+te zetten, dat een groote combinatie
+van velerlei aangelegenheden het weer
+van den dag en van den komenden dag
+samenstelt en dat het weer om het
+eens begrijpelijk uit te drukken
+noch staat onder dictatuur van den
+wind, noch onder de eenhoofdige
+leiding van isothermen e. d. en zich
+zeker niet stoort aan mijn dood
+
+gewone kamerbarometer. Ik wil eerlijk
+bekennen, dat ik mijn
+meteorologischen vriend meer bewonderde dan
+begreep en na diens gesprek ben ik
+mij gaan toeleggen op de studie van
+den wind. Nu is deze studie lang niet
+eenvoudig. Ik begon dien eersten dag
+met te constateeren, dat er geen wind
+was en had dus een gemakkelijken
+dienst. Zoo ook den volgenden dag en
+ik ben me zelf gaan afvragen, hoe het
+mogelijk is, dat iets dat er niet is in
+
+vloed kan uitoefenen op het weer,
+maar dien middag verregende toch
+maar mijn stroohoed, die je hier buiten
+dragen kunt zonder den hoon, den spot,
+de minachting en de verguizing van
+een niet begrijpende, onervaren jeugd,
+wie elk begrip voor traditie ontbreekt.
+Den volgenden dag was er wel wind.
+'n Harde wind, vond ik. 'n Bolle wind,
+vond een ander, 'n Kille wind, meende
+een derde. Waar ik den wind ernstig
+wenschte te bestudeeren, heb ik, wat
+serieuze reclame-adviseurs noemen,
+een marktonderzoek naar dezen eenen
+wind ingesteld en ik kwam tot min of
+meer verwarrende resultaten, 'n
+Rotwind. ... de meening van een fietser,
+blijkbaar wat ruw in den mond. 'n Fijn
+windje. ... de opinie van een anderen
+fietser. Nauwkeurigheidshalve moet
+ik erbij voegen, dat die fietsrijder den
+anderen kant opreed, 'n Schrale wind.. .
+de overtuiging mijner tante, 'n Mooi
+zeilwindje. ... de zoon van mijn
+buurman. Ja, winderig weer. ... de
+uitspraak van iemand, die blijkbaar
+oppervlakkig van natuur was of zijn
+eigen opinie vreesde.
+En zoo kwam ik niet veel verder.
+Ik voelde langzaam de overtuiging tot
+mij komen, dat ik met mijn studie der
+winden niet den juisten weg had in
+
+geslagen en ik maakte manmoedig
+nieuwe plannen. Die nieuwe plannen
+voerde ik consciëntieus uit en reeds
+na een drietal weken kon ik vrijwel
+feilloos constateeren of de wind Noord
+was, dan wel West, Zuid of Oost. De
+voorzichtigheid en dit was wel een
+bewijs mijner vorderingen deed mij
+vaak spreken van een wind, die Weste
+
+lijk was, ja ik sprak in buien van
+overmatige voorzichtigheid wel eens
+van een eenigszins Westelijken wind
+en wanneer ik u dit alles vertel, dan
+is dit alleen maar om aan te toonen,
+hoe ijverig, hoe ernstig en hoe ge
+
+wetensvol ik de winden, hun aard,
+hun doelstellingen, hun richting ».n al
+hun eigenschappen bestudeerde. Dat
+zooveel vlijt en toewijding op den duur
+tot hooge resultaten moeten voeren
+is een zekerheid, waaruit ik de kracht
+put deze materie verder te bestudeeren.
+De combinatie wind-barometer
+komt dan later en als deze combinatie
+tot stand gebracht is, zal, naar ik ver
+
+trouw, het contact met isobaren,
+isothermen en depressies zeer zeker
+gevonden kunnen worden. Tot zoolang
+houd ik deze exorbitante begrippen
+nog maar buiten de sfeer van mijn
+berekeningen en bepaal ik mij ertoe
+hier op mijn dorp een paar maal daags
+op den barometer te tikken, teneinde
+de inlichtingen te verkrijgen, die ik
+noodig heb. .. .
+Mt
+PUZZLES
+/edere week wordt voor het woordraadsel een prijs uitgeloofd, welke bestaat uit
+ten ingelijste kleurenreproductie van een bloeiende boomgaard van Wncent van Gogh.
+Inzendingen vóór Woensdag op een briefkaart. Op de adreszijde puzzie vermelden.
+De prijswinnaar van deze week is: Mej. E. van Delden, Koningsplein II, Amsterdam
+Nieuwe opgaven
+
+W«ordraadsel
+
+Van onderstaande lettergrepen moe
+
+ten 25 woorden gevormd worden,
+waarvan de eerste en de derde letters,
+in beide gevallen van boven naar onder
+gelezen, een leekedichtje van De
+Génestet vormen.
+a - aal - an
+del - del - dyl
+ga - gaal -ge
+
+hort - i -.i - je
+Ie - len - lisch
+mi - miek - na
+os - p««it - pri
+so - steen - ta
+tha - thra - ti
+uch - vi - wa
+bel - car - «et - da •
+e - e - e - eek - fa •
+gen - heid - hoorn •
+• ka - king - ko - lap •
+- loos - me - njen •
+-na - naïi - ne - ni •
+ren - roe - se - sef •
+ta - tee - ten - tand •
+ti - tié- tiék - trak .
+we - zwij.
+i.
+2.
+
+3
+4
+56.
+
+78.
+
+910.
+ii.
+12.
+
+1314.
+
+1516.
+
+1718.
+
+1920.
+21.
+22.
+
+2324.
+
+25Omschrijving :
+i. krioelen, 2. gelijkmatig, 3. ver
+
+hinderen, 4. slang, 5. ochtend, 6. niet
+spreken, 7. knaagdier, 8. slimheid,
+9. hartstochtelijk, 10. muziekstuk,
+il. voorrecht, 12. Russische munt,
+13. brandstof, 14. krijgsbende, 15.
+landelijk romantisch knus, 16. Austra
+
+lische bedwelmende drank, 17. fees
+
+telijk onthaal, 18. vleeschgerecht, 19.
+voorexamen, 20. aanvangsletter, 21.
+kostbare steen, 22. gebarenspel, 23.
+meisjesnaam, 24. stad in China, 25.
+vrucht.
+PRINSENGRACHT. 837.
+TEL. 37906
+BEGRHFENIHEHREMRTIE-TRfWPORTEH
+Tijdverdrijf
+
+
+Wijn mengen
+
+Oplossing
+
+Het mengen van de wijn
+is zonder ongelukken
+verloopen. Tot onze groote
+spijt echter bleek het aan
+
+tal deelen wijn van het
+mengsel zeer klein te zijn
+in verhouding met het
+aantal deelen water, nl.
+7 deelen wijn tegen 17
+deelen water.
+Een verdunning dus die
+iets te drastisch is om
+met goed succes te kun
+
+nen presenteeren.
+Nieuwe opgave
+
+
+Het ritje met de bus
+
+George noodigde zijn
+verloofde uit om met hem
+een ritje in de autobus
+te maken, maar tengevolge
+van zijn beperkte finan
+
+ciën moesten ze terug
+loopen. Als de bus nu negen
+km. per uur rijdt en ze
+loopen 3 km. per uur, hoe
+
+ver kunnen ze dan rijden
+zoodatze na acht uur weer
+thuis zijn?
+Oplossing de volgende week f
+i
+Visitekaartje
+QCri
+s
+c&lt;ge
+Welk beroep heeft deze man ?
+Oplossingen
+
+Woordraadsel
+Zelf moet ge 't zoeken en zelf moet
+ge het vinden.
+ZAANDAM
+E ENZAAM
+LATENT
+F AI LLISSEMENT
+MORFINE
+OLI M
+EXPORT
+TE LEGRAM
+GRATIS
+E P IGOON
+T I B ER
+Z ETTERIJ
+ONTVREEMD
+EMPIRISCH
+KARNAVAL
+EENDRACHT
+NAGEL
+E MI N ENT
+Visitekaartje
+Het beroep van den Heer S. I. Staf
+te Cothen, is:
+STATIONSCHEF
+
+
+Het wekelijksche
+
+schaakminiatuur
+
+Probleem van Adolph Decker
+abcdefgh
+abcdefg
+
+Mat in drie zetten
+
+Stand :
+Wit: Ka8, Dei, La3,
+La4Zwart: Kc4,
+PgSt 9P jo £p—zpa •£
+.j.zp l
+jo t?p
+
+90
+
+99
+-j.tnj z
+zo
+z
+•£
+z
+'£
+-z
+'i
+PAG. l* DE GROENE No. iltt
+
+</text>
+<image timestamp="2002:09:13:07:48:07.00" size="199458">000007MP.TIF</image>
+</page>
+</document>

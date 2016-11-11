@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270709</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 9 JULI 1927
+No. 2614
+J* D..STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+HAMBURG-AMERIKA LINIE
+
+HAMBURG
+Geregelde Passagiersdiensten naar Oost-Indi
+trecfltstreeks en via Mngapore), Oost-A^ië,
+NoordAmertka, West-Indiëen Centraal-Amerika,
+2Ji»idAmerika, Australiëen Afrika
+Plezier» en touris&lt;en&lt;odi&lt;en, xooal*
+reizen naar de Fjorden en Poolstreken/
+Wereldreizen, We*t . Indië. reizen
+Inlichtingen en prospect! gratis verkrijgbaar
+bij de Hoofd-Agenten voor Passage. de firma
+
+WAMBERSIE&amp;ZOON
+AMSTERDAM, DE RUyTERKADE los
+en REISBUREAUX.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LÏJKKOETSAUTOMOBIELEN
+liiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiM
+
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat i
+Vervaardigd op eigen Ateliers |
+
+BIJ ons verkrijgbaar
+N. R. V. MONTA SCHOENEN l
+I s
+^iiiniimiimiiiiiiiiiiiiiimmiiiMiiiiiiiiiiimiiiimiiiimniiiiiiii™
+
+
+Wed JOHN GAY'S PICCALILLl
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ,.DE HOUTTUINEN", AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+ZIJDEN JAPONNEN
+
+GEDURENDE JULI EN AUGUSTUS
+20°/0 KORTING
+t'
+f
+f
+OP DE STOOM- EN VERFPRIJZEN VAN
+ZIJDEN JAPONNEN,
+
+
+PALTHE - ALMELO
+XIWWDELTJES
+METCBATIS GREPfADIffESAUS
+BJkDKkMERINRICHTIHfiEN
+zoowel eenvoudige als betere uitvoering.
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+r_?
+
+Alphen a/d Rijn
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:13:10:56.00" size="131582">D10006NP.TIF</image>
+</page>
+</document>

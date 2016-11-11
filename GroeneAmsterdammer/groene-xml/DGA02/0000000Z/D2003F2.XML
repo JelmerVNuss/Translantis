@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240322</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2440
+j. G. KORSTEM
+bnitiir Technisch Bureau, hningsplein, Amsterdam
+Telefoon: 37132,37133,37134
+Warmwatervoorzieninêen door iniddej' van
+
+Gas, Keukenfornuis of aparte Ketel
+VRAAGT INLICHTINGEN
+QERARD B. RIJKE Jr.
+Binnen Architectuur
+AM9TEL 122 - Tolef. 46815
+Comploto NtBubileering
+VAN RIJN'S
+MOSTERD
+MOSTERDPOEDER
+I»JIV
+Hotel Café-Restaurant
+PRIMA KEUKEN
+Dagelijks Diner-Concert in de Witte Zul
+Avond-Concert In den Wintertuin
+Cnrateel«&gt;. Op buitenplaatsje, in
+hooge, boschrijke .gezonde streek van
+Overijsel bij oesch. vrijz. fam. wordt
+huisvesting aangeb. aan Curandus.
+Prima ref. Br. onder lett. D.V.225,
+A1&amp;. Adv. Bur. D. Y. Alta, A'dam
+6.1. DE KONING J h • Keizersgracht 447
+(voorheen LEI D8CH ESTRAAT 69)
+- SAHITAIRE IHRICHTINGEN
+.A. via. 3Ri j ^vielen
+
+
+J. DE JONG &amp; ZONEN - A'OAM
+Afdeeling AMSTERDAM STADHOUDERS
+
+KADE 80 INGANG BECHT &amp; DYSERINCK
+Afd. BLOEMENDAAL VILLA SORGH-VLIET
+WONINGBUREAU
+Y/flMaltelaarA,&amp;,Ya]iA£tfliaal
+N. Baarnstraat 61 - Baarn
+Tel. 244
+BUSSUM	923
+AMSTERDAM...C. 2776
+UTRECHT l _
+BILTHOVEN/	577
+
+(leclnsche Boek- en Handelsdiulikenj
+Fa. Wed. P. v. d. HERT
+Nassaustraat 2 BUSSUM
+
+Alle soorten drukwerk
+Fraaie uitvoering concurreerende
+prijzen.
+zijn het meest gewild, om
+prijs en kwaliteit
+Stoomwasscherij Het Zuiden
+PIETEB AERTSZSTRAAT68-74
+TELEFOON 22886
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt. Con
+
+curreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIG &amp; VAN ELVEN.
+STRIJDT TEGEN STIJL" NABOOTSING
+EN AMBACHTSBEDERF
+AMERSEOOftT
+?HB telefl's
+ffoniiitaan
+Snouckaertlaan 22-24
+TELEFOON 218
+IET LEVEN BEGINT.,.
+DOOR
+
+GUIDO DA VERONA
+Uit het Italiaansch vertaald door
+CHR. MORESCO-BRANTS
+Geïllustreerd omslag van
+Is. VAN MENS
+De H en W-Serie Deel VI.
+Derde druk
+
+Ingen. f2.90 Geb. f 3.75
+Uitgave van
+VAN HOLKEMA 6 WARENDORF
+Amsterdam
+6EOR6E H. LA6AS
+AMSTERDAM TMfton 24611 - Aidraas Bonnstrut 40
+Electrische Luxe Broodbakkerij
+Specialiteit in alle Brcodsoorten
+12 zilveren theelepeltjes
+met verschillende
+bloemsteeltjes
+Met etui zonder etui
+f 28.—. f 24.—.
+Lengte der lepeltjes lOc.m.
+Franco door Nederland.
+Bij niet voldoening mogen
+de lepeltjes geruild worden
+
+In Den Silveren Molenbeecker
+CORN. SCHOORL
+Amsterdam den Haag
+KALVERSTRAAT 32
+Tel. 42149.
+HOOGSTRAAT 31
+Tel. No. 6890.
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon No. 81 En detail
+Kreeftenpark Belderbos", Bergen op Zoom
+J. J. Weber&amp;Zoon
+OPTICIENS - FABRIKANTEN
+Koningstraat 10, Haarlem
+Onze Amerikaansche
+Brillenglas-Slijpmachines van de allerlaatste constructie
+stellen ons in staat brillenglazen binnen
+enkele uren af te leveren.
+Rotterdam, Hoogstraat 218,
+f Hotel-Restaurant A. Schneider".
+Kamers met stroomend water. iHuistelefoon.
+Uitpakkarners. Vergaderzalen.
+Koldewey &amp; Gorbière
+Leldschestraat 30, Amsterdam
+SpooimHtolt in :
+WIT LACQUE MEUBELEN voor
+Slaap-, Logeer- en Kinderkamer
+H. J. MULDERS
+Tulnarchltect
+Badhuiswoff 2O1
+- - DEN HAAG—SCHEVENINGEN *
+Telefoon Soh, 81O
+
+</text>
+<image timestamp="2002:09:03:04:03:41.00" size="153477">D2003F2.TIF</image>
+</page>
+</document>

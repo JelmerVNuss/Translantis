@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260424</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f
+
+«AMSTERDAMNIEUWEN 01 J K 184 tegenover de Beurspassage
+HOORN - LEEUWARDEN-
+VGRAVENHAGE GRONINGEN - HILVERSUM
+Buitengewoon mooie sorteering nieuwe
+Engelsche en Schotsche stoffen voor
+KLEEDING NAAR MAAT
+UITTREKSEI, PRIJSCOURANT ,___-__
+COLBERT COSTUME
+COLBERT EN VEST
+JAQUETTE EN VEST
+PANTALON ....
+DEMISAISON . . .
+65.
+47.
+52.
+18.
+60.
+70.
+50.
+58.
+20.
+65.
+78.
+55.
+62.50
+22.50
+70.
+85.
+60.
+67.
+25.
+75.
+92.
+65.
+72.50
+27.50
+80.
+l
+STALEN EN MODELBOEKEN
+:- FRANCO OP AANVRAGE -:
+Wed.ERAHDER6Zn.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+VGravcnhagc «
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+DE BEKENDE
+KNIPPATRONEN
+ZUN IN AMSTERDAM
+EN DEN HAAG
+UITSLUITEND
+BU ONS VERKRIJGBAAR
+PRIJZEN
+15140 60
+BU ELK KNIPPATROON HET
+ALBUM DE MODESPIEGEL" GRATIS
+^BIJENKORF
+BQOmOTOREN
+5-300 p.k.
+i&gt;v Vcorrewui
+5p.k
+t&gt;f««*t*l.*WvoSr -mik lÉbpcwn. in. &lt;U
+kof .&lt;S«Sch wagtiut «M L ,»ciaaf
+J«0uux veer
+uxfca VOJH.
+GEBR?. WILLINK .
+^ AMSTERDAM
+/D K,
+
+t.4OOO-OOO
+VERZEKERING
+HOOFD-DIRECTEUR
+J. TER HEULEN
+HEERENGR:260-266
+Voor liefhebbers van
+- microscopiseeren:
+
+Zeer fraaie verzamelingen
+botanische en zoölogische
+=: preparaten
+
+MARIUS - Utrecht,
+J.P.IURTHAUS
+Gr. Markt - Haarlem
+TELEFOON 10652
+Kamp eeren
+Al onze kampeertenten
+zijn beduidend
+IN PRIJS VERLAAGD
+Onze nieuwe prijs
+
+courant van Kam
+
+peertenten,
+Kampeerartikelenenz.is gereed
+en wordt op aanvraag
+gratis toegezonden
+ZEILINGA
+Kantoor:
+Binnenkant 38
+M a g a z ij n :
+Prins Hendrikkade 120
+Telefoon 41709—40717
+AMSTERDAM.
+N.V. D* HogenbirköZoon's |
+IJZER- en STAALINDUSTRIE |
+HAARLEM %
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442 *
+Constructiewerkplaatsen, Machinefabriek, Ijzeren £
+Gebouwen, Overkappingen, Bruggen, *
+Kolommen, Reservoirs, enz.
+Speciale «/deeling Hekwerken en Draadafscheidingen, Diverse Vlechtwerken
+B L A R l C U M CG o o D.
+PENSION 'T MATTHIJSSENHOUT"
+Tel. Interc. «2 LAREN Groote Tuin
+Rustige ligging Electrisch licht Waterleiding Badkamer
+Prospectus op aanvraag.
+glIWJIilIJJIllllJIIJIJIIIMIIIIIIIIWllIjmw
+I 's-HERTOGENBOSCH l
+I HOTEL GOUDEN LEEUW" I
+| (GROENHUIS) g
+| Electr. Licht - Centr. Verw. - Stroomend water. P. G. BAARS l
+iiiiiiiiiiiiuiiiiiiiiiiiiiiiiiiiiiuiiiiiimiiiiniiiiiuiiiininiimiiiiiuiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiMiiiiiiiiiiiuMiiiiiiiMiiiiiiuuimiiiinuJ
+HAARLEM - KRUISSTRAAT 30-32 j»
+Hotel-Restaurant De Leeuwerik" $
+Huis van
+l'" R. Centr. Verw. Kamers met stroomend water j
+Aanbevelend L. REITSMA
+HOTEL PABST"
+DORPSPLEIN - - - DOORN
+Geheele jaar geopend. Prima keuken. Groote lommerrijke Tuin
+Elec. licht. Part. Tel. Cel. No. 123.
+Eigenaar: J. DE RICHEMONT
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GEBR. RADEMAKER
+VORDEN: Acht Kasteelendorp
+Pension »,de Konijnenbult"
+in het VORDENSCHE BOSCH
+Rustige ligging. Electrisch licht.
+Wie nog nooit
+AMEROPA cigarillos
+heeft gerookt	•
+weet nog niet
+HOE lekker cigarillos
+kunnen zijn!!!
+AMEROPA
+ZIET DE UITSTALLING IN ALLE HILLBN-FILIAbEN
+A. HILLEN-DELFT
+
+</text>
+<image timestamp="2002:09:25:11:11:27.00" size="179058">D10007J1.TIF</image>
+</page>
+</document>

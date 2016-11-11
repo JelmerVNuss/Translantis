@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270219</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ie
+Iroene
+cckbl
+• t
+sterdammer
+voor Nederland
+per t*m* f 10.-. Ptr Dammer 25 «at
+AdT«rt«»&lt;{!» /ft» per r*g*l
+KEIZERSGRACHT 333
+AMS TERDAM
+TELEFOON :
+Redactie
+3J9ft
+Administratie	37961
+CSAURHzn.
+HOFLEVERANCIER
+ROION 134 over de Ned. Bank
+telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A R ZURCHER
+GARTONNAGEFABRIEKenDRUKKERIJ
+JOOIERSGRACHT64-66~68-70-72AMSTERDAM
+.UNION'
+London, Ao 17 H. -* Verzekering tegen
+INBRAAK-,
+WATERLEIDING- EN
+STORMSCHADE
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+M CENT PER HALF ONS
+N.V. MeuLelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+eo «NT
+ren DOOS
+OEDEWAAGENS
+KROONPIJPEN
+IN CESLOTEN D002EN
+VAN 6STIKS
+v/H GttirriY
+Mf.EST GE.SCHIKTE BlrtOERU VOOR H'H'UITOEVERS
+Vf WILLIBRORDU55TRAAT 53-55 ADAM TEL 2 &gt;^66
+Van Straalen Monsieur &amp; Erkelens
+WIJNHANDELAREN
+Rotterdam^ Leuvehavcn 34
+Filialen DEN HAAG l Prima Kwaliteiten
+HELDER l Billijke Prijzen
+T»T
+PROJECTIE LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+AMSTERDAM OEN HAAG
+115 HALVERST» I2A NOOROBND6
+NIJMEGEN GRONINGEN
+I5H9V.BERCHENSTR- 3 KL
+PEISTERSTRi/o LlbfcRTY
+VOORDRACHTEN
+Dt. F. W. lejlmaos m' [mmiclitvtn
+-T-''iS53i^- over ! 'arts
+EetiootiB, Leven en Dood in liet Licht
+'dei Hnthroposotie"
+Maandag 28 Febr.
+Vrijdag 4 Maart
+Parkzicht" Hobbemastraat 1.
+Toegang f 0.75.
+N.V.
+H.A.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+~ n
+ONS TOESTEL No. 10, GEPERST OP 25 A.TM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIS.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen «f maar «wie
+
+ARNOLD HOUTSCHILT
+Singel 285 Amsterdam
+Aug, Uilkema
+TIMTU
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 3.—per kwartaal of
+10.—per jaar bij vooruitbetaling
+14-18-22 lts Goud
+ringen 11.8 tot 11.25
+Reguliersbreestr,39
+EXPERTS OP HET GEBIED
+VAN
+
+SSGAREN
+LIEFHEBBERS VAN IETS.
+HEEL BIJZONDER RJNS.
+LlCHTS EN GEURIGS. VRAAGT
+HET MERK
+
+EXPERTO
+TIJDELIJKE AANBIEDING
+
+8CT
+PER KISTJE VAN 50 STUKS
+Fl. 3,80.
+IN ALLE FILIALEN VAN
+
+A. HILLEN
+BAU'S OLIJF-OLIE
+Onontbeerlijk bij de bereiding van staatjes,
+mayonaises, enz. in blikken van l en 13 kihx
+Prijs voor particulieren f2.—en f 27.50
+Voor H .H .Winkeliers ruime verdiensten.
+IMPORTEURS:
+N.V. Hoogewerff, Chabot &amp; Vlsser's
+Wijnhandel
+DEN HAAG ROTTERDAM ARNHEM
+
+</text>
+<image timestamp="2002:09:25:00:00:38.00" size="166591">D2005RF.TIF</image>
+</page>
+</document>

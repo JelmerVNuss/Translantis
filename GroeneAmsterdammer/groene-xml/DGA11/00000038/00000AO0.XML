@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321022</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i
+'»
+
+S.-s
+
+
+V,
+k.
+
+i
+
+De Groene Amsterdammer van 22 October 1932
+N o. 2890
+SMOKINGS
+
+Avondkleeding moet aan de hoogste
+eischen voldoen; er moet distinctie
+van uitgaan.
+Een Nieuw Engeland smoking,
+ontworpen door kleeding experts
+en door bekwame kleermakers met
+de hand vervaardigd van de fijnste
+grondstoffen is een onmisbaar
+kleedingstuk voor den man van smaak
+
+46.- 54.- 60.-
+69.
+AVONDVESTEN
+Uitsluitend de nieuwste Engelsche modellen
+
+6.50 7.50 8.50 9.50
+NIEUW
+ENGELAND
+KONINGSPLEIN
+AMSTERDAM
+BEGRAFENISVEREENIGING
+
+• N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v/h Gooi)
+P. C. Hooftstraat 38 Brinklaan 138
+Tel. 2O341 242BO •HÜMM Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+J. D. STRUIJS &amp; Zn.
+T«l. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+Telef. 37460
+derde week in de uitkijk**
+de blauwe engel
+met mariene dietrich en emil jannings
+regie josef von sternberg Dagelijks 2.30, UO en 9.30
+G. J. DE KONING &amp; Zn
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+Loodgieters - Zinkwerkers Gas- en Waterfitters
+- Onderhoud en Reparatie
+heben
+de handen vol....!
+Het lijk! wel ol iedereen
+zoo n keurige Van den Brui-jas wil
+hebben, maar	wij hebben er
+op gerekend! Heele rijen van die
+prachtjassen hangen gereed! Wat
+'n chique coupe en afwerking,
+schitterende soepele stol en zóó
+AMSTERDAM
+NIEUWENDIJK 184 tegenover de Beurspassage
+
+AMSTERDAM HOORN LEEUWARDEN S GRAVENHAGE . GRONINGEN - HILVERSUM
+
+</text>
+<image timestamp="2002:09:27:11:00:33.00" size="148680">00000AO0.TIF</image>
+</page>
+</document>

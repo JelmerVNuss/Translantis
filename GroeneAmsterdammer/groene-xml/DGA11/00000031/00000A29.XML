@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320305</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 5 Maart 1932
+No. 2857
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+HOTEL - CAFÉ- RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM J
+Modern Comfort-Lift-Stroomend water* enz. -=
+Logies met ontbijt f 3.50 per persoon ^Hl
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+t». C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+AUG. KAUPMANN
+Telefoon 23308 - P. C. Honftstraat 113 - Amsterdam Z.
+RESTANTEN
+Restanten Wollen Nachthemden
+Restanten Lingeries, extra voordeel i g
+Partij zuiver Linnen Handdoeken a 5O et.
+Zichtrending franco.
+U hebt een tandarts noodig
+om U te genezen...
+van pijnlijk of ontstoken tandvleesch,
+van aandoeningen aan tanden of kie
+
+zen. Vertrouw voor dergelijke gevallen
+nooit op de zoogenaamde heelende
+kracht van welke tandpasta dan ook!
+Want tandpasta is geen geneesmiddel!
+Tandpasta kan nooit mér voor U doen
+dan alleen Uw gebit absoluut rein hou
+
+den, zoodat de mogelijkheid op
+tandbederf wordt teruggebracht tot het
+allergeringste.
+In dit opzicht is Colgate's Tandpasta
+nimmer overtroffen. Haar diep door
+
+dringend schuim houdt Uw gebit
+grondig rein; het verwijdert zelfs de
+kleinste voedselresten, die een haard
+kunnen zijn voor langdurige pijnlijke
+tandziekten.
+
+Verwacht van Colgate's nooit mér dan
+wij U toezeggen, en bedenkt, dat wat
+men ook moge beweren, geen enkele
+tandpasta mér voor U kan doen dan
+Colgate!
+COL-CATE'S
+TANDPASTA
+Groote tube 70 cent
+iCCEPTED
+LMERICAN
+IENTAL
+3)5
+H-32-60AB
+C. J. de Koning &amp; Zn.
+Keizersgracht 447
+Opgericht Ao. 1739
+
+Sanitaire Inrichtingen
+PAASCH
+
+EITJES
+van Droste zijn iets
+bijzonders. In diverse
+exquise smaken, o.a.:
+KERSEN-EITJES,
+de kersen Betuwsche
+Meikersen op kirsch.
+'n Droste-specialiteit.
+Ziet toe, dat ge
+Droste's krijgt.
+//ALTIJD WELKOM"
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:18:27:10.00" size="127212">00000A29.TIF</image>
+</page>
+</document>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390902</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Auto's, tnet hout gestookt....
+EEN auto die met hout gestookt wordt, dat
+is inderdaad een aantrekkelijke gedachte.
+U heeft reeds een paar honderd kilometer gereden
+door weinig bevolkte streken, dichte bosschen
+accentueeren de eenzaamheid en juist daar stopt
+de motor door gebrek aan brandstof. Die brandstof
+ligt echter voor het grijpen en met weinig moeite
+verzamelt U wat hout. De kleine bunker wordt
+gevuld en voort gaat het weer.
+Dat ge:ft zelfs een gevoel van onafhankelijkheid
+ten opzichte van de bewoonde wereld, hetgeen bij
+een gewone auto met zijn tientallen hebbelijkheden
+niet zoo spoedig ontstaat.
+De idee van de met hout-gestookte auto is daarbij
+zoo simpel, dat de leek die in zijn jeugd zijn Jules
+Verne gelezen heeft, het nogal
+voor-de-handliggend vindt. Misschien denkt hij met schrik aan
+een reuzen-ketel die noodig is. Maar dan leeft in
+zijn herinnering nog wel de stoomwals die vele
+geasphalteerde wegen heeft helpen maken en die
+een opmerkelijke bewegelijkheid liet zien ondanks
+de logheid welke voor het grootste deel gevormd
+werd door een ketel met toebehooren.
+
+HET probleem van de met hout gestookte auto
+ligt in de wijze waarop men het hout stookt.
+Inderdaad vertegenwoordigt de stoomwals als
+afstammeling van den door den ingenieuzen Cugnot
+in 1770 geconstrueerden stoomwagen een zelf be
+
+wegend voertuig dat met hout gestookt kan worden.
+De werkelijke bedoeling van het feitelijk mislei
+
+dend opschrift van dit artikel is: een auto te be
+
+schrijven waarvan de motor een arbeidsproces vol
+
+brengt overeenkomstig met dat van den normalen
+benzine-motor.
+Daarom eerst iets over den benzine-motor.
+Hoewel de benzine als vloeistof in de tank van
+de auto wordt gegoten, verliest hij onmiddellijk
+zijn vloeistof karakter in den verdamper, den z.g.
+carburateur. Door dezen carburateur passeert de
+lucht op weg naar het voortstuwend mechanisme.
+Dit voortstuwend mechanisme draagt de naam
+van verbrandingsmotor, kortweg genoemd: de
+motor. De automobielmotor behoort tot het type
+van den gasverbrandingsmotor.
+De werking hiervan is in het kort deze: Een
+mengsel van lucht met een brandbaar gas wordt
+samengeperst in een cylinder met behulp van een
+zuiger. Ervaring met een fietspomp heeft een ieder
+van ons geleerd dat dan de temperatuur stijgt. Het
+spreekt vanzelf dat een brandbaar gas onder deze
+omstandigheid door middel van een electrische
+vonk gemakkelijk tot ontsteking en dus verbranding
+te brengen is. Deze verbranding verloopt zoo snel
+dat het woord explosie hier burgerrecht verkregen
+heeft en men graag spreekt van explosie-motoren.
+Technisch correcter is het om van een zeer snelle
+verbranding te spreken. De term explosie spreekt
+intusschen meer tot onze verbeelding en zonder
+eenige tegenspraak aanvaardt een ieder de hiermee
+gepaard gaande sterke drukstijging.
+De zuiger wordt dus krachtiger teruggeworpen
+dan deze bij den vorigen z.g. compressie-slag naar
+binnen geduwd is. Het surplus aan energie dat
+hierbij ontstaat, doet den motor loopen d.w.z. doet
+de centrale as, de krukas, met kracht wentelen,
+welke beweging doorgeleid wordt met behulp van
+een verlengde as, de cardan-as, naar een stel
+tandraderen op de achteras, waaraan de wielen zitten.
+De automobielmotor heeft dus een brandbaar gas
+noodig. In principe is elk gas bruikbaar, zooals
+iichtgas, cokesovengas, propaan-, butaan- en me
+
+thaangas. Deze gassen worden meegenomen in
+stalen flesschen samengeperst onder een druk
+van 200 atmosfeer. Door een klep met vernauwde
+opening (een z.g. reduceerklep) wordt de druk
+verminderd en daarna stroomen de genoemde
+gassen naar den motor.
+Men kan natuurlijk ook het gas tijdens den rit
+in den wagen bereiden zooals dit het geval is bij het
+houtgas, gemaakt uit hout.
+Terloops zij nog even vermeld, dat door middel
+van den reeds genoemden carburateur benzine in
+strikten zin tot een damp wordt gemaakt. Aangezien
+de temperatuur van de aanzuigbuis vrij hoog is,
+wordt de benzinedamp dermate ijl dat we beter
+van gas kunnen spreken.
+Bij hout is natuurlijk geen sprake van verdampen.
+Het houtgas wordt op een andere manier verkregen,
+en wel in een houtgasgenerator.
+Deze bestaat uit een stalen cylinder, van boven
+voorzien van een deksel teneinde deze cylinder met
+stukjes hout te kunnen vullen. De stukgrootte is
+ongeveer 30 mm. lengte bij 8 mm. breedte en dikte,
+terwijl zelfs 10 pCt. van de vulling spanen en zaagsel
+mag zijn. Alle soorten hout kan men gebruiken.
+Aan den onderkant is de cylinder begrensd door
+een rooster met gaatjes waaronder een aschbak.
+Uit deze beschrijving heeft de lezer met eenige
+phantasie stellig al begrepen dat het hout in brand
+gestoken wordt. Inderdaad: onmiddellijk boven het
+rooster brandt het hout. De heete verbrandings
+
+gassen strijken langs het daarboven liggend versche
+hout, waardoor dit gaat verkolen, hetgeen duidt
+op een zeer typische verbranding n.l. zonder vlam.
+Het is dus een onvolledige verbranding en de gassen
+welke daaruit ontstaan kunnen klaarblijkelijk nog
+verder verbranden.
+
+EEN heel eenvoudige proefneming zal U daarvan
+overtuigen. Steek twee lucifers aan. Blaas er
+een uit en houdt deze onmiddellijk daarna boven de
+tweede die nog brandt, maar buiten het bereik van
+de vlam. U zult dan zien dat deze uitgeblazen lucifer
+dadelijk weer gaat branden. Waarom ? Wel, aan het
+gedeelte dat brandt, grenst de nog onverbrande
+lucifer. Op en nabij deze grens speelt zich dus een
+onvolledige verbranding af, ook wel genoemd
+droge destillatie". De gassen die hierbij ontstaan
+zijn slechts ten deele verbrand en kunnen dus verder
+verbranden. Deze tweede verbranding geeft mér
+warmte dan de eerste: vandaar de
+vlam-verschijnselen.
+Zorgvuldige proefnemingen met den houtgas
+
+generator hebben ons nu geleerd dat nabij den
+onderkant van den cylinder binnenwerks moet
+worden aangebracht een vernauwing en dat in deze
+vernauwing centraal moet uitmonden een buis voor
+versche lucht, en meer van dergelijke finesses.
+Ongeveer ter halver hoogte is in den cylindrischen
+mantel van den houtgasgenerator een opening
+aangebracht waardoor het houtgas wordt afgevoerd
+door middel van een daarop aansluitende buisleiding.
+Alvorens in den verbrandingsmotor gebruikt te
+worden, wordt het houtgas grondig gereinigd. Asch,
+stof, teer, roet, waterdamp e.d. moeten verwijderd
+worden. Hierdoor wordt tevens een afkoeling tot
+stand gebracht. De gassen zijn namelijk te heet om
+,	Bij DE AFBEELDINGEN
+
+Links: Een Japanse/? soldaat vult den houtvoorraad
+van zijn vrachtauto aan.
+Rechts: Aan den hout-tank in Frankrijk, waar reeds
+8.000 met hout gestookte auto's rondrijden.
+zonder meer in den motor gebruikt te kunnen
+worden.
+Het houtgas passeert ten slotte een klep, of juister
+een kleppensysteem waarin een menging plaats
+vindt met versche buitenlucht. Deze lucht wordt
+rechtstreeks uit de buitenlucht aangezogen. We
+moeten namelijk goed bedenken dat de motor een
+zuigende werking uitoefent op de aanvoerbuis,
+zoodat een open verbinding met de buitenlucht
+geen houtgas doet ontsnappen.
+Deze zuigkracht veroorzaakt in den houtgas
+
+generator een trek overeenkomstig de trek bij een
+normale kachel. Het is daarom ook begrijpelijk dat
+we bij het begin den trek kunstmatig moeten op
+
+wekken door middel van een ventilator.
+Een andere oplossing is de volgende. Men laat
+den motor starten op benzine. In de aanzuigleiding
+heerscht dan een onderdruk die den trek in de hout
+
+gasgenerator veroorzaakt. Na een paar minuten
+schakelt men over op houtgas.
+Nadrukkelijk wil ik hier opmerken dat deze gang
+van zaken alleen noodzakelijk is bij het begin van
+den dag. Eenmaal in gebruik zijnde produceert de
+generator genoeg houtgas om den motor na eenigen
+stilstand weer in bedrijf te nemen.
+
+MISSCHIEN zijn eenige lezers blijven stilstaan
+bij de vergelijking met een kachel. Een kachel
+verbruikt toch brandstof, zullen zij zeggen. Inder
+
+daad ! De houtgasgenerator verbrandt een zeker
+gedeelte van het hout, ongeveer 20 pCt. We spreken
+dan van een rendement van den generator van
+80 pCt. m.a.w. 0,8 van de verbrandingswarmte van
+het hout wordt naar den motor gevoerd. De
+hedendaagsche verbrandingsmotor zet hiervan 1/3 om
+in nuttige energie welke wordt afgegeven aan de
+cardan-as.
+Tenslotte nog eenige cijfers die globale waarden
+aangeven. Per p.k. is noodig 0,8 K.G. hout. Altijd
+wordt hierbij bedoeld luchtdroog hout. 2,2 K.G.
+luchtdroog hout is gelijkwaardig met i liter benzine.
+Een benzinemotor die geschikt gemaakt is voor
+houtgas, ontwikkelt ruim 1/4 van zijn vermogen
+minder. Het gas is zeer klopvast, zoodat de
+compressie-verhouding hooger gemaakt wordt (tot i : 9)
+De voorontsteking neemt iets toe.
+Gerekend van een volkomen kouden toestand der
+gasgenerator uit kan een motor na zeven minuten
+draaien. Na dertig minuten is het max. vermogen
+bereikt. Na vijftig minuten treedt een volkomen
+stationaire toestand in, d.w.z.: dan zijn alle tem
+
+peraturen, drukkingen, rendementen vrijwel con
+
+stant geworden.
+In Nederland zou men ook turf kunnen gebruiken
+als vulling voor den generator. In dat geval zou men
+spreken van turfgas. Zoolang er echter nog maar
+weinig hout-auto's rondrijden, heeft het weinig zin,
+ons nog speciaal met turf op te houden.
+Ir J. BETHLEM
+PAG. 14 DE GROENE No. 3248
+
+</text>
+<image timestamp="2002:09:13:02:13:31.00" size="386662">D2004B1.TIF</image>
+</page>
+</document>

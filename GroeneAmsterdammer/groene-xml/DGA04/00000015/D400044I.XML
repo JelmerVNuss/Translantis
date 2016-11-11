@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19220729</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zaterdag 29 Juli
+A°. 1928
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van G. W. K E R N K A M P
+Redacteuren: H. BRUGMANS, TOP NAEFF, G. NOLST TRENITÉen H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per jaargang f 10.—bij vooruitbetaling. Per No. f 0.25.
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Advertentiën f 0.75 per regel plus 20 cent dispositiekosten
+INHOUD: 1. Verantwoordelijkheid, door
+Prof. Dr. G. W. Kernkamp.—Tijdgenooten:
+Michael Field, door Dr. W. O.C. Byvanck.
+2. Onze agrariërs, teekening van Jordaan.
+Krekelzang door J. H. Speenhoff. Inter
+
+nationale Tribune: Het Neder-Saksische
+vraagstuk, door Rudolf Breithaupt.
+Spreekzaal. 3. De S. D. A. P. door Prof.
+Dr. H. Brugmans. De plaats van den
+mensen in het heelal, door Dr. A. H. de
+Hartog. 5. Voor Vrouwen (red. Elis
+M. Rogge): Das Reisebuch des Wiener
+Kindes", door C. M. van Hille-Qaerthé.
+Brieven uit Zweden, door L. M.
+CosterWijsman. Uit de Natuur: Olie op de
+wateren, door Jac. P. Thijsse.—6. Schilder
+
+kunstkroniek, door A. Plasschaert. Boek
+
+bespreking, door Herman Middendorp en
+Dr. Joh. Wagenaar. Russische boeken,
+door Drs. Arn. Saalborn. De Haagsche
+Conferentie, teekening van Qeorge van
+Raemdonck. Het geboorte- en sterfhuis
+van Matthijs Maris, door W. J. O. van
+Meurs. 7. Financiën en Economie, door
+Paul Sabel. 8. Reisaanteekeningen I, door
+Cornelis Veth. Tantje Jaantje in de
+Politiek, door F. de Sinclair, met teekeningen
+van Is. van Mens. 9. Minister Ruys
+kabinetsformateur, teekening van Johan
+Braakensiek. Charivariaen Bui ten 1.' humor,
+tfoor Charivarius. 10. Uit het kladschrift
+van Jantje. Drie Nederlandsche Juristen,
+een bolsjewiek en n gezant, door Melis
+Stoke, met caricaturen van A. Dersö.
+Omslag: Schaakrubriek, red. Dr. A. O. Olland.
+Bijvoegsel: De batige saldi der gemeente
+
+rekeningen, teekening van Joh. Braakensiek.
+IIIMIIIIIIIIIIIIII
+VERANTWOORDELIJKHEID
+De vacantie schijnt niet de meest
+aangewezen tijd om het onderwerp:
+eindexamens aan H. B. S. en gymnasia
+nog eens aan de orde te stellen; wie
+daarmede in de afgeloopen maanden
+te maken hebben gehad, danken den
+hemel, dat zij eraf zijn.
+Maar ik ben verplicht enkele op
+
+merkingen te beantwoorden, die zoo
+
+wel in het openbaar als in particuliere
+correspondentie tot mij zijn gericht
+naar aanleiding van mijn artikel over
+eindexamens" in dit weekblad van
+27 Mei 11., waarin ik te kennen gaf,
+dat naar mijne meening het instituut
+van gecommitteerden wel kon worden
+opgeheven en de bevoegdheid om het
+einddiploma uit te reiken kon worden
+toegekend aan Rector of Directeur
+en leeraren der school.
+Een van de argumenten, die mij zijn
+tegemoet gevoerd, was dit: de meer
+
+derheid der leeraren voelt de controle
+der gecommitteerden niet als een
+ondercurateele-stelling; het eindexamen in
+zijn tegenwoordigen vorm is voor hen
+niet iets onaangenaams.
+Dit neem ik gaarne aan. Het komt
+overeen met mijn eigen ervaring, dat
+nl. de verhouding tusschen gecommit
+
+teerden en leeraren in den regel weinig
+te wenschen overlaat. Het eindexamen
+biedt bovendien een afwisseling in den
+gewonen gang van het dagelijksch
+werk; het wekt wat emotie; de leeraren
+hebben de gelegenheid, van de resul
+
+taten van hun onderwijs te doen blijken
+tegenover personen, op wier oordeel
+zij gewoonlijk prijs stellen en met wie
+zij wel eens in persoonlijke aanraking
+willen komen; de gecommitteerden
+vinden bieren daar oud-leerlingen terug,
+maken kennis met allerlei scholen,
+doen een reisje door het land en komen
+op hunne beurt ook eens uit den sleur.
+Maar dit gaat buiten de kwestie om.
+De vraag is: werkt de controle nuttig?
+komt zij aan het onderwijs ten goede?
+Ja, zeggen sommigen van mijne
+opponenten: de controle is niet alleen
+nuttig, maar onmisbaar. Zij geeft een
+correctief voor al te milde beoordeeling
+bij de overgangsexamens, die men niet
+aan corruptie behoeft toe te schrijven,
+maar uit een zekere slapheid kan ver
+
+klaren. Het onderwijs blijft erdoor op
+peil; bij den overgang naar de hoogste
+klasse moeten de leeraren rekening
+houden met de eisenen, waaraan de
+leerlingen bij het eindexamen moeten
+voldoen; deze eisenen kunnen door
+gecommitteerden, die in de gelegenheid
+zijn verschillende scholen met elkaar
+te vergelijken, zóworden gesteld,
+dat zij noch te hoog, noch te laag zijn;
+alleen gecommitteerden kunnen dit
+doen, niet de leeraren der school zelf,
+omdat deze laatsten de gegevens voor
+een vergelijking missen. Schaf de con
+
+trole af: en het peil zal zakken, het
+oude kwaaa van het knoeisysteem,
+waarbij aan sommige inrichtingen om
+minderwaardige motieven het eind
+
+diploma werd uitgereikt aan wie het niet
+verdienden, zal weer welig gaan tieren.
+Hiermede heb ik de voornaamste
+argumenten vermeld, die b.v. in het
+Weekblad voor gymnasiaal en middel
+
+baar onderwijs van 7 Juli 11. tegen mijn
+betoog zijn aangevodd. Ik zal ze alle
+beantwoorden, maar in de door mij
+zelf gekozen volgorde.
+Het is mogelijk, dat bij het verdwij
+
+nen van alle controle op het eindexamen
+aan sommige scholen zal worden ge
+
+knoeid". Misschien mag men dit wel
+als zeker aannemen. Maar dit nadeel
+zou ik willen aanvaarden, omdat er
+grooter voordeel tegenover staat.
+Als een der goede gevolgen van de
+opheffing van het eindexamen in zijn
+tegenwoordigen vorm beschouw ik:
+het wegvallen van het drillen" voor
+het examen. Menig leeraar schikt thans
+zijn onderwijs in de hoogste klasse
+naar de eisenen van dat examen, richt
+zijne leerlingen af op dingen, die hun
+wel eens gevraagd zouden kunnen
+worcien, maar die hij uit eigen beweging
+hun niet zou leeren. Ik ben van meening,
+dat elk docent het beste geeft, dat hij
+geven kan, wanneer hij zijne persoon
+
+lijkheid ten volle kan ontplooien en
+naar eigen inzicht zijne stof" en de
+wijze van behandeling mag kiezen.
+Laat de een het maar heel anders doen
+dan de ander: zij zullen het beiden goed
+doen, wanneer zij het beste geven,
+dat zij hebben.
+Maar zal dan het peil" van het
+onderwijs niet aanmerkelijk verschillen
+hier en daar?
+Vermoedelijk wel; maar men make
+zich niet de illusie, dat bij de tegen
+
+woordige inrichting van het examen
+gecommitteerden kunnen zorgen, dat
+overal dezelfde hoogte op de peilschaal
+wordt afgelezen.
+Mijn eigen ervaring als gecommit
+
+teerde voor de groepen Neder
+
+landsen en geschiedenis, en de moderne
+talen heeft mij geleerd, dat er
+verschil, soms aanmerkelijk verschil
+bestaat tusschen de resultaten van het
+onderwijs in die vakken aan de eene
+school of de andere. Van mijne
+medegecommitteerden voor de groepen oude
+talen en wiskunde heb ik herhaaldelijk
+gehoord, dat zij op hun gebied dezelfde
+ervaring opdeden. Er zijn voortreffe
+
+lijke en laat ons zeggen: minder
+voortreffelijke gymnasia; zooals er ook
+aan dezelfde school allerlei kwali
+
+teiten van leeraren zijn.
+Maar men meene niet, dat gecom
+
+mitteerden hierin verandering kunnen
+brengen; dat zij de middelen hebben
+om het peil" op te heffen, waar het
+wat laag staat. Zij brengen bovendien
+niet een van tevoren opgemaakt stel
+eischen mede; zij behooren naar
+mijne meening hunne eischen aan
+te passen aan de kwaliteit van elke
+school en van de leeraren individueel,
+en ik geloof ook niet, dat zij anders
+kunnen doen. Zelfs aan de verschillende
+groepen van ne school worden de
+
+zelfde eischen niet gesteld; bij een
+middelmatige of slechte groep komen
+er soms leerlingen door het examen,
+die afgewezen zouden zijn als zij hadden
+behoord tot een groep van zeer goede
+examinandi.
+Wie zich bezorgd maken over de
+daling van het peil" bij afschaffing
+van het instituut der gecommitteerden,
+zouden erop kunnen aandringen, dat
+bij de eindexamens der gymnasia,
+indien deze tot zuivere schoolexamens
+gemaakt zijn, dezelfde maatregel wordt
+ingevoerd, die thans voor de H. B. S.
+geldt, dat nl. voor alle scholen het
+
+zelfde schriftelijk werk wordt opgege
+
+ven; maar ik vermoed, dat ook hier
+
+door geen gelijkheid van peil" zal
+worden bereikt.
+Wat voor mij den doorslag geeft bij
+het afwegen der voor- en nadeelen
+van de controle, is dit: de leeraren
+van de school behooren de volle ver
+
+antwoordelijkheid te dragen voor de
+beslissing bij het eindexamen; en zij
+alleen.
+Is het niet te mal, dat leeraren, die
+zes jaren lang een leerling in zijne
+ontwikkeling hebben kunnen volgen
+dit geldt althans voor de groote meer
+
+derheid van hen, die eindexamen doen
+•—niet zelf zouden kunnen beslissen,
+wie bevorderd kunnen worden tot de
+universitaire studie? dat zij, in plaats
+van zelf de verantwoordelijkheid voor
+dat oordeel op zich te nemen, die liever
+willen overdragen aan personen die
+veel minder bevoegd zijn dan zij
+de geschiktheid van eiken leerling
+afzonderlijk te beoordeelen?
+Argumenten als deze: dat de con
+
+trole van gecommitteerden een correc
+
+tief aanbiedt voor te milde beoordee
+
+ling bij den overgang, moest men toch
+niet willen aanvoeren. Het is de plicht
+van de leeraren om zelf, zonder in
+
+menging van anderen, den maatstaf
+vast te stellen, die bij den overgang
+van de eene klasse naar de andere,
+ook naar de hoogste, moet worden
+aangelegd. Wanneer zij weten, dat zij
+zelf bij het eindexamen de beslissing
+in handen hebben, zullen zij hunne
+verantwoordelijkheid voor de beslissing
+over den overgang tot de hoogste klasse
+des te meer gevoelen en zorg dragen,
+dat daaruit worden geweerd wie aan de
+eischen van het eindexamen niet zullen
+kunnen voldoen. Dit behooren zij te
+kunnen doen, en naar mijne nieening
+behooren zij ook te wenschen, dat zij
+het mogen doen.
+De rector van het Utrechtsche gym
+
+nasium. Dr. Kan, heeft onlangs, bij
+de openbare plechtigheid waarmede
+elk schooljaar te Utrecht wordt be
+
+sloten, a's zijne meening te kennen
+gegeven, dat, bij afschaffing van het
+instituut der gecommitteerden, er meer
+leerlingen bij liet eindexamen zouden
+worden afgewezen dan thans het geval
+is; hij sprak de hoop uit, dat de leer
+
+aren niet «esteld zouden worden voor
+den strijd tusschen hun geweten en
+hunne liefde vcoi hunne leerlingen.
+Ik respecteer de gezindheid, waaruit
+deze meening voortkomt; ik begrijp
+wel, d:jt consciëntieuze leeraren, als
+zij alleen moesten beslissen, soms een
+leerling bij het eindexamen zouden af
+
+wijzen, die thans bij gecommitteerden
+nog wel geraiie vindt; en ik k'in mij
+voorstellen, dat in 7ulke gevallen d"
+leeraren de verantwoordelijkheid maai
+liever aan gecommitteerden zouden
+overlaten en aan de leerlingen nog een
+karsje van slagen zonden wil'en geven.
+Maar hoe begrijpelijk en beminnelijk
+deze gesteldheid van geest en gemoed
+ook moge zijn, als ik het voor het
+zeggen had, zou ik er mij niet door
+laten vermurwen om het instituut
+van gecommitteerden te handhaven.
+Aan elk het zijne: daarom ook aan de
+iiiiimimini
+MICHAEL FIELD
+Wij moeten nu eon woord over hebben voor
+het samenwerken der beide
+vriendinnendichteressen.
+Zij zijn den, dat is de trots van lui n vriend
+
+schap. Niet alleen bespreken zij hun werk
+te zamen en de bedoeling van hun werk,
+maar wanneer zij uit de annalen van hun
+land of van andere landen een onderwerp
+hebben gekozen voor hun tragedies, dan
+bouwt zich, stuk voor stuk, het treurspel
+uit hun beider studies op, xoodat de eene
+direct kan invallen voor de andere en /.ij
+alle twee het genot en het verdriet hebben
+van den geheelen arbeid. En eigenlijk gaat
+hun eenheid nog verder.
+Hun zielen zijn sametigewcven, zegge n /ij
+dichterlijk, de eene laat een bladzijde half
+liggen, de andere voltooit haar perfect naar
+wat zij moest wezen.
+Omdat zij van aard dezelfden zijn?
+Neen, omdat zij elkander nanvulien in
+volkomen hebben leeren sr'inenstemmen.
+Ik heb het vroeger reëel.; aangeduid, de
+eene had het licht opbruisende, ook dikwijls
+inzinkende temperairunt, /.ij, de oudere, is
+de dionysische, Michaël; de jongere is de
+strenger aan /ich houdende, d.- diepere
+natuurkoninklijk zich bewarend in haar eigen
+wereld, Miss dith Cooper, de anolünische.
+
+Michaël heeft zichzelf en haar vriendin
+geschetst in een gedicht, waarvan het voldoen
+
+de zal zijn de volgende regels aan te ha'en:
+
+Mine is the eddying foam and the broken
+(current,
+Thine the serene-f luwing tide, the
+unshat(tered rhythm
+Illllllli IIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMIIII1III
+
+Ligth touches me on the stirfaca with
+(glints of sunshine,
+Dives in thy bosom disdofing a mystic
+(river. ...
+
+Zij, Michael, gevoelt zich de wielende
+schuim, de 7/iiineliclit Unielende glinstering
+aan de oppervlakte van het water, maar
+Field is de nnverbroken el jen rhythmim van den
+stroom die door het licht getroffen ;';; zijn
+diepten een gewijde rivier ontsluit en verbergt.
+Eerst wanneer de stem van de eene ver
+
+levendigd en versterkt is door de stem van
+de andere kan die twee-énheid, zoonls i-n de
+tragedie van Callirrhoï, spreken van haar
+geestdrift als een macht die door de zelf
+
+opoffering van haar liefde in staat blijkt de
+geestelijke wereld te verruimen, te verrassen
+en te herscheppen. Dood, waar is uw
+overheersching over het leven wanneer men be
+
+reid is, zich ze;f geheel te geven !
+
+Zullen wij het een godsdienstig motief
+noemen dat zoo doorklinkt in het werk van
+Michael Field? -- godsdienst genomen in
+den zin van de voorstelling die den grondslag
+vormt van de wereldgodsdiensten. Flet
+grenst er zeker aan, toch doen we beter voor
+de geheele eerste afdeeiing van Midi-ve!
+Field's werkzaamheid ons niet tut een enkel
+standpunt te bepalen, het is de overgang
+van den tenen besdiavingsvorm tot den
+andere die hen aantrekt en de strijd, het
+geloof, (Ie twijfel, de ontwikkeling der per
+
+soonlijkheid waarmede die overgang van de
+eene tot de andeie wereld gepaard gaat. En
+hier vinden wij wederom den invloed van
+hun twee-eentieid.
+Zij houden zich niet tevreden met den stof
+van hun tragedies samen te kiezen; maar
+wanneer hun onderwerp een gestalte heeft
+aangenomen en zij beginnen een geheel
+te zien, gaan zij samen daarover redeneeren,
+zij willen hun werk vollediger maken en er
+wijder horizon aan schenken. Daardoor
+krijgt het op het eind iets zweven ds. Hun
+vijfde bedrijf sluit niet af.
+Maar zij veroveren voor zichzelf een gioei.
+,! Hebben zij vooreerst op dien achtergrond der
+:*- tegenstelling tusschen dood en leven hun
+ideaal gezien in een toewijding van eigen
+hefdesbegeeren, aan de godheid ook ten k»ste
+van het leven, om aan het grootere leven deel
+te kunnen hebben, daar komt de tijd dat de
+teruggedrongen verlangens zich wreken en
+het leven onrein dreigen te maken. Dan is
+het met meer de vraag zich alles te ontzeggen
+en alles op te geven, maar voldoening zich
+te verschaffen, ook tegen de eischen der
+gewone zeden.
+
+Onder het werk van Michaci Field h;&gt;:&gt;rt
+eer, kleine Ivaged-e, The Cup «ƒ W«l'.'i.
+Het water is het gewone, natuurlijke,
+dat een diepe instinctieve behoefte bevredigt.
+Op een wand"ling door het bosch met zijn
+meest vertrouwden vriend, Hubert, voelt
+de koning	- want als in een sprookje hebben
+wij met koningen en princessen te doen en
+met lieflijke arme dochters \an het wov.d
+die in een hutje wonen te midden der eenzaam
+lieid. De koning voelt dorst en het meisje
+dat bezig is haar napje aan de bron te vullen
+biedt hem het napje aan. Beiden, koning en
+vriend, «-ord'.'n eensklaps in liefde ontstoken
+voor liet eenzame woudbloemnje en het is
+een eeuwige liefde zooals insprookjesvoorkomt,
+beiden /ouden haar willen trouwen, maar de
+konmg is gebonden, want liij is verloofd
+aan Prinses Miliicent, een naam van luxeere
+geur.
+Dat is een edele, wijze, algoede vorstin,
+zooals men ze alleen in sprookjes aantreft
+en ook in het sprookje van Goethe dat hij
+die Wul:!\'er\\'diuis/:hafteii heeit genoemd, en
+nu ik het wel bedenk is er ' enige verre Ver
+wantsehap tusschen de sprookjes-tragedie van
+Michaei Field en den roman van den grooteii
+Duitscher. De koning namelijk, hoewel hij
+bewust is dat de vezels van zijn ziel samen
+
+hangen met de ziel van het arme meisje,
+hij heeft dorst naar haar zooals /ij dorst heeft
+naar hem, staat haar af aan zijn vriend
+en verbindt zich met de verheven geurende
+Miliicent. Dan gaat hij in den oorlog. Hij
+wil zijn passie temmen. Maar het is de zuivere
+brand van het leven geworden, dien hij
+onmachtig is te blusschen. Zijn brein is vol
+van euvelen waanzin.
+
+Hier overweldigt het tragische aanzwellen
+van het leed de te ere grenzen van het sprookje,
+zooals altijd gebeurt, wanneer het leven zijn
+snijdend harde stem opzet. De koningin kan
+lijden met den koning als hij bij zijn terugkeer
+uit den oorlog haar zijn bekentenis van wilde
+wanhoop aflegt, zij kan met opoffering van
+zich zelf hem zijn vrijheid teruggeven, dat
+hij vereenigd met zijn liefde zal kunnen leven,
+hij zal het kunnen uitschreeuwen als hij haar
+weerziet aan de bron, waar hij haar het eerst
+zag, nu echter gebroken en afwezig van
+gedachten:
+i t maddens me,
+Cara, l'm thirsty; give me of love's drink!
+Have you forgotten?
+
+Maar zij is heengegaan waar geen vergeten
+en geen herinneren meer is. En de dichter
+spreekt als epiloog verzoenend de moraal
+van zijn sprookje uit:
+Oh, we must learn
+To drink life's pleasures, if we would be pure;
+Deep, holy draughts, and the girl-cup
+(bearer
+Must not be set aside.
+Vergeet toch niet, wil de dichter zeggen, dat
+het leven ook aanbiedt wat wij mogen genieten
+met diepe, heilige teugen waar het ontzeggen
+de ziel vertroebelt en den dood brengt en neem
+de vrouw aan die u het reine levenswater brengt.
+Het is een klacht en een eisch en een beroep
+op een ruimer zedelijkheid !
+De toon van het stuk, dat ongezet als een
+sprookje, hier en daar een beweging verraadt,
+die uit een diepe wond voort spruit, duidt
+genoeg aan dat wij in The C[in of Water hebben
+te doen met een persoonlijke ondervinding
+die in actie werd gebracht onder algemeene
+termen. Michael Field raakt daarbij aan de
+heiligheid van het huwelijk evenals Goethe
+het heeft gedaan in zijn Walilverwandtschaütn.
+Was de betrekking tusschen Katharine
+Bradley en Edith Cooper ook niet als een
+huwelijk van zielen, en zullen zij wel niet
+gesmacht hebben, soms naar een dronk
+frisch en natuurlijk water?
+Het zeer kleine publiek dat de verzen van
+Michel Field las, vond The Cup of Water een
+lief, treffend verhaal. Men kan wei bemerken
+dat zoo'n oordeel niet welgevallig was, de
+dichter zelf vond het een stout stuk, en wilde
+1och niet uitkomen voor het feit waarom
+hij het zoo durfachtig vond; hij hield het voor
+een der bewijzen dat men hem niet verstond,
+en het behoorde bij de redenen die de twee
+vergadering van leeraren de verant
+
+woordelijkheid voor een beslissing, die
+zij, en zij alleen bevoegd is te nemen.
+Zooals men, bij de toelating tot
+H. B. S. en gymnasia, aan de onderwij
+
+zers der lagere school het recht heeft
+gegeven te beoordeelen, wie zonder
+examen in de laagste klasse mogen
+plaats nemen, zoo zou ik aan de leer
+
+aren der gymnasia de bevoegdheid
+willen verkenen, zelf uit te maken,
+welke leerlingen rijp zijn voor de studie
+aan universiteit of hoogeschool. In
+den beginne zal dit misschen wel moei
+
+lijkheden opleveren, zooals vermoede
+
+lijk ook het geval is bij de toepassing
+van het zooeven bedoelde recht, dat
+aan de lagere school werd toegekend.
+Maar ik zou vertrouwen, dat het
+wekken aan verantwoordelijkheidsge
+
+voel al spoedig ten goede zal komen,
+zoowel aan de leeraren als aan het
+onderwijs: es wa'chst der Mensch mit
+seinen höhern Zwecken".
+
+Bij het bovenstaande had ik alleen
+de eindexamens der gymnasia op het
+oog; ik schreef alleen daarover, omdat
+ik bevoegd meen te zijn althans een
+meening daarover te uiten.
+Maar zooals ik vroeger reeds
+schreef •—ik kan geen enkele reden
+zien, waarom voor de eindexamens
+der H. B. S. niet hetzelfde zou gelden
+als voor die der gymnasia, en waarom
+men dus aan de leeraren der H. B. S.
+niet eveneens de beslissing over de
+toekenning van het einddiploma, zon
+
+der inmenging van anderen, zou willen
+toekennen.
+Aan de H. B. S. heeft men nog slechts
+een korte ervaring van het instituut
+der gecommitteerden („deskundigen"
+heeten zij daar); eerst in het vorige
+jaar werd daar de vroegere wijze van
+afneming van het eindexamen vervan
+
+gen door een schoolexamen, onder
+toezicht van deskundigen". Misschien
+zullen de leeraren der H. B. S. hun oor
+
+deel erover willen opschorten tot het
+nieuwe instituut wat langer tijd heeft
+gewerkt.
+Of het daar zoo in den smaak zal
+vallen als bij de gymnasia? Ik vrees
+er eenigszins voor. Het aantal com
+
+missies van deskundigen" bij de eind
+
+examens der H. B. S. moet zoo groot
+zijn, dat allicht de Minister van Onder
+
+wijs geen ruimte van keus heeft. Want
+behalve deskundig", moeten de ge
+
+committeerden, onverschillig of zij naar
+de gymnasia of naar de H. B. S.
+worden afgevaardigd, ook nog iets
+anders zijn: ruim van blik, met veel
+kennis van de roerselen van het
+menschelijk gemoed, kortom: humaan.
+Laat ons echter hopen, dat het in ons
+geliefd vaderland krioelt van zulke
+humane deskundigen.
+KERNRAMP
+dames noopten om uit de oude buurt bij Bristol
+heen te gaan en zich in hun kleine woning
+bij Richmond en elders een eigen wereld op
+te bouwen. Zij moest zijn een uitdrukking
+van hun wezen.
+
+Wat zij vroegen van het bestaan was, dat
+hun leven en hun werk eenheid zou hebben
+en vreugde zou geven. Hun vrienden hebben
+het vergeleken met een uitvoering van kamer
+
+muziek. Vooral van Edith Cooper, de ernstige,
+had men het gevoel dat haar gesst zich be
+
+woog op een zelfden rhythmus als haar li
+
+chaam. Er was een gratie en een liefelijk
+heersenen en beheerschen in haar houding die
+deed denken aan de groote dames van de
+Italiaansche Renaissance. Hun behuizing
+gaf den zelfden indruk van keurigheid en
+keus.
+Daar te midden van weinig vrienden zetten
+zij hun dichtkunst voort, zij is rijperen dege
+
+lijker geworden en heeft hen in tal van voort
+
+brengsels tot hun dood, 1913 en 1914, bege
+
+leid.
+Het ne groote feit van de latere jaren is
+hun opneming geweest in de Katholieke Kerk.
+Daar alleen toch vonden zij het Offer en de
+opoffering in den hoogsten vorm uitgedrukt.
+Het was een gedachte die hun steeds had bege
+
+leid in verschillende vormen. Edith Cooper
+in een diep ernstige stemming door het ver
+
+lies van een hondje waaraan zij zeer was
+gehecht zij hadden toch niet zeer veel,
+die twee oude dames werd bi zonde r
+getroffen door de voorstelling, in den dienst,
+van het Offer bij het lezen van een Roomsch
+missaal. Hier heb ik gevonden wat ik
+zocht" riep zij uit, haar resolute geest wees
+haar den weg naar de kerk.
+De vriendin heeft haar, niet direct, gevolgd.
+Het is voor de beiden een leven geweest van
+wederzijdsche liefde en opoffering. De jongere
+is voorgegaan in den dood; zij werd aangetast
+door kanker, de familiekwaal, Katharine, de
+oudere heef t haar bijgestaan. Zij zelf heeft haar
+ziekte verzwegen en heroiek gedragen totdat
+haar vriendin de rust was ingegaan.
+Maar hun dichtwerk hebben de beiden
+voortgeze ttot het einde, onder de smartelijkste
+pijnen. Twee tragische zangvogels in hun
+nestje. Een recht heldinnenpaar!
+W. G. C. B Y V A N C K
+
+</text>
+<image timestamp="2002:08:25:18:01:15.00" size="469541">D400044I.TIF</image>
+</page>
+</document>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251226</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2534
+
+1435.f.o.b. R'dam
+
+NU KUNT GIJ ZE ZIEN J
+
+Alle Official Ford Dealers stellen te beginnen met deze
+week de verbeterde modellen Ford-wagens in hun show
+
+room ten toon. Gij kunt U dus persoonlijk overtuigen
+van de vele nuttige en praktische verbeteringen, die
+aangebracht zijn, en zult U dan tevens verwonderen
+over het feit, dat al die verbeteringen geen enkele
+prijsverhooging ten gevolge hebben, aldus trouw blijvend aan
+het beginsel, steeds de hoogste waarde tegen den laagsten
+prijs te geven.
+
+De verbeteringen zijn zoowel aangebracht, om het uiter
+
+lijk van den wagen sierlijker te maken (verlengde
+stroomlijncarrosserie), als om het gemak grooter te maken: diepe
+breede zitplaatsen, grootere ruimte voor de beenen, de
+benzinetank achter het dashboard onder het torpedofront,
+wat het vullen makkelijker maakt.
+
+Een bezoek aan Uw dichtstbijzijnden Official Ford Dealer
+zal U doen zien welk een modernen, betrouwbaren en
+economischen wagen gij U voor een laag bedrag kun:
+aanschaffen.
+C
+Een overtuigend cijfer Waarom zoudt gij meer betalen?
+Prijzen onveranderd
+In Holland
+loopen meer
+dan 25.000
+Fordwageus.
+Dit aantal
+wordt met den
+dag grooter.
+Dat spreekt
+boekdeeien.
+NV. FORD MOTOR COMPANY OF HOLLAND,
+
+VAN HELMONTSTRAAT - ROTTERDAM.
+Runabout
+Fl.
+1355.
+Coup
+Fl.
+2000.
+Tudor Sedan
+Fl. 2125.
+
+Fordor Sedan
+Fl.
+2275.
+Alle prijzen
+f.o.b.R'dam.
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Spoolalltolt In i
+WIT LACQUE MEUBELEN voor
+\Slaap-, Logeer- en Kinderkamer
+4 UMPS Radio Toestel
+met 3 jaar garantie f
+75.Ook op GEMAKKELIJKE BETALINGSCONDITIES
+
+ANDERSEN &amp; POLAK
+P.C. Hooftstraat 40 Amsterdam
+TELEFOON 26587
+WINTERSPORT
+
+Zwitserland. Berneroberland
+G S T A A D
+1100 M. boven den Zeespiegel.
+
+Grand Hotel Alpina.
+Meest voortreffelijke, zonnige ligging. Alle comfort.
+Het door Hollanders bij voorkeur bezochte Hotel.
+Prospect! bij: E. BURRI, Eigen.
+Verschenen een nieuw
+melsjesboek van de bekende
+schrijfster
+
+WILLY PÉTILLON
+
+
+Maryke van den
+
+Molenhof
+
+Prijs ingenaaid f 2.15
+
+Gebonden f 2.90
+
+
+Wat de pers schrijft:
+
+Het boek is goed geschreven;
+de illustraties van Netty
+Heyligers zijn prachtig.
+Het Schoolblad.
+
+Een goed boek, dat warme
+aanbeveling verdient voor
+dertienjarigen en oudere meisjes.
+De School.
+
+Ze geeft ons een boeiend
+boek, vlot verteld, goed van
+dialoog en in een prettige ver
+
+haaltrant geschreven. De illus
+
+traties zijn keurig.
+Het Onderwijs.
+
+Tot een van de beste kinder
+
+schrijfsters van den laatsten
+tijd behoort Willy Pétillon.
+Wat zij schrijft is altijd frisch
+en fleurig en haar moderne op
+
+vattingen over het meehelpen
+van kinderen in een groot gezin
+doen prettig aan.
+Deventer Dagblad.
+
+Dit boek wekt de indruk
+eerder een opgeteekend verslag
+te zijn dan een bedacht verhaal
+zoo echt doet het aan. Een uit
+
+stekend meisjesboek; ook de
+illustraties zijn goed verzorgd.
+Het Rijk der Vrouw.
+
+Wij lezen gaarne de boeken
+van deze schrijfster, ten eerste
+omdat zij herhaaldelijk blijk
+geeft van een bijzonder goeden
+kijk op het
+jongemeisjeskarakter en ten tweede omdat zij op
+zoo'n aardige, gezellige en lo
+
+gische wijze den lezer bezig
+houdt.
+Haagsche Courant.
+
+Een mooie milieuschilde
+
+ring, een prettige beschaafde
+stijl en een, ondanks het moei
+
+lijke "gegeven, een boeiend ge
+
+worden verhaal.
+De Telegraaf
+
+De boeken van Willy Pétil
+
+lon laten zich niet alleen aan
+
+genaam lezen, maar hebben
+steeds een goede waardevolle
+strekking.
+Amersfoortsch Dagblad
+
+Het onderhoudende verhaal,
+waarmede heel wat vijftien en
+zestienjarige wijsneusjes haar
+voordeel kunnen doen, werd
+door Netty Heyligerssmaakvol
+geïllustreerd.
+Algemeen Handelsblad.
+
+Alom verkrijgbaar in den
+boekhandel.
+
+Uitgave van
+v. HOLKEMA &amp; WARENDORF
+Amsterdam.
+
+</text>
+<image timestamp="2002:09:04:00:55:51.00" size="177034">00000660.TIF</image>
+</page>
+</document>

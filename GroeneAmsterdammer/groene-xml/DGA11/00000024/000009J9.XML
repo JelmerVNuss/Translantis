@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300906</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nö. 2779
+DE GROENE AMSTERDAMMER VAN 6 SEPTEMBER 1930
+Wetenschappelijke Varia
+Dieptelooding door middel van geluid
+KRONIEK
+door Dr. P. van Olst
+fit
+ONLANGS hebben de -dagbladen het bericht
+vermeld dat de oceanographische expeditie,
+die aan boord van het opnemingsvaartuig
+Willebrord Snellius" thans in den
+Nederlandsch-Indischen Archipel onderzoekt op een dergelijke wijze
+als aan het eind der negentiende eeuw de
+Siboga"expeditie den Nederlandschen wetenschappelijken
+naam hoog hield, met het echolood een diepte van
+ruim 10.000 M. had aangetroffen.
+Uit vragen van belangstellenden blijkt mij dat
+men niet precies weet wat dit ,,echolood" eigenlijk
+te beteekenen heeft. Men kent blijkbaar wel de
+manier om de waterdiepte te bepalen met het
+gewone dieplood dat met de hand gebruikt wordt
+en dat bij eenigermate aanzienlijke diepte ons
+heelemaal begeeft. Voor groote diepte gebruikt
+men meestal het diepzeelood, een looden bal, die
+eerst buiten boord hangend, op een gegeven
+oogenblik losgelaten wordt en dan een dunne maar
+stevige stalen draad meesleurt, die van een trommel
+snel afwikkelt. Stuit het gewicht op de zeebodem,
+dan vermindert plotseling de uitloopmethode van
+den staaldraad op opvallende wijze zoodat de
+waarnemer dan noteeren kan hoeveel draad
+afgeloopen is. De draad is weer op te wikkelen en opnieuw
+te gebruiken. Deze lood-methode voldoet zeer goed
+maar is tijdroovend en het schip moet tijdens de
+looding stil liggen.
+Men heeft reeds bij den allereersten aanvang der
+diepzeeloodingen gedacht aan de toepassing van
+geluid, want in 1855 vermelde Maury dat men
+kruitladingen onder water liet ontploffen en dan
+luisterde naar een mogelijke echo door
+terugkaatsing van het geluid tegen den zeebodem. Resultaat
+had dit echter niet. Men kan den Duitschen natuur
+
+kundige Alexander Behm als den man beschouwen,
+die het eerst een praktisch instrument en een
+bruikbare methode uitvond om diepte te bepalen
+door middel van een echo tegen den zeebodem.
+Daarom spreekt men behalve van een ,,echo-lood"
+ook wel van een Behm-lood". Behm ging uit van
+proefnemingen om ijsbergen door
+geluidterugkaatsing tijdig in de gaten te krijgen. In 1912 paste hij
+datzelfde principe toe bij het bepalen der water
+
+diepte. Hij probeerde daarbij den tijd te meten die
+verliep tusschen een knal en de echo hiervan tegen
+den zeebodem. De snelheid waarmee het geluid
+in de lucht voortplant is ongeveer 330 m. per sec.;
+in water is deze voortplantingssnelheid vél grooter
+en bedraagt in zoetwater van 4 graden Celcius
+1440 M. per sec. Bij de proefnemingen bleek dat de
+zeebodem het geluid duidelijk terugkaatst, dus een
+goed waarneembare echo geeft, en dat deze echo
+ook scherp genoeg begrensd is om nauwkeurige
+tijdsmetingen te verrichten. Het gelukte Behm de
+geluidsgolven in water te fotografeeren en te
+constateeren dat zij dezelfde wetten volgen als in de
+lucht. Behm vervaardigde verder een
+registreerinrichting om het tijdsverschil te meten tusschen
+het moment dat het oorspronkelijke geluid gemaakt
+werd en de echo ervan weer bij het meet-apparaat
+terugkomt. Ten slotte maakte hij een zoodanig
+apparaat dat het te gebruiken was bij de
+handelsscheepvaart doordat het registreerend toestel zoo
+werd ingericht dat het de diepte dadelijk afleesbaar
+maakte en geen verdere manipulaties vereischte.
+De geluidgever bestaat uit een patroon die b.v.
+aan bakboord in het water wordt geschoten en met
+een tijd-lont zoo is ingericht dat de patroon op
+geringe diepte (l a 2 M.) ontploft (figuur: bij P)
+Het geluid van de knal behoeft dus niet eerst
+vanuit de lucht in het water te dringen, wat een
+belangrijke geluidverzwakking zou geven. Nu de
+knal onder water gegeven wordt gaat er niets ver
+
+loren van de geluidsenergie. Aan den anderen
+kant van het schip, dus aan stuurboord bevindt
+zich bij C het ontvangapparaat waar het van de
+zeebodem terugkomende geluid opgevangen wordt.
+Door deze ligging van geluidzender en -ontvanger
+wordt het schip zelf gebr.uikt als gehüdscherm,
+waardoor het ontvangapparaat niet reeds in actie
+wordt gebracht door het geluid dat direct (dus
+zonder echo) dit apparaat zou bereiken. Deze
+scherm-werking van het schip is zoo afdoende dat
+er zelfs een apart apparaat bij A noodig is om het
+heengaande geluid te noteeren.
+De geluidgolf van de knal spreidt zich in het
+water naar alle kanten uit dus ook naar den bodem,
+wordt dus teruggekaatst en dit teruggekaatste
+geluid, de echo, spreidt zich omhoog ook weer aan
+alle kanten uit, dus bereikt ook weer het ontvang
+
+apparaat van het loodende schip, hoewel natuurlijk
+uitermate verzwakt. Het ontvangtoestel moet dus
+zeer gevoelig gemaakt worden. In de figuur is
+A B C de kortste weg die het geluid kan afleggen
+door terugkaatsing. Teekont C de echo n tiende
+sec. op nadat A het verzonden geluid noteerde, dan
+heeft het geluid dien tijd noodig gehad om ABC
+af te leggen. Nemen wij als geluidsnelheid 1500 M.
+dan is ABC dus 150 M., en AB en BC ieder 75 M.
+Wie de stelling van Pythagoris nog kent weet nu
+wel dat de loodrechte diepte DB dadelijk te be
+
+rekenen is want de afstand AC is uit do
+schcepsafmetingen bekend. Bij groote diepten kan men
+zonder al te groote fout te maken BD gelijk stellen
+aan BC. Komt de echo dus tien sec. later dan heeft
+het geluid eerst omlaag, dan omhoog 10 X 1500 =
+15.000 M. afgelegd en de diepte der zee is dan
+de helft hiervan, 7500 M.
+Zee/bccft
+De nauwkeurigheid dezer dieptelooding hangt
+helaas in groote mate ook nog af van andere
+dingen dan alleen de nauwkeurige tijdsopneming.
+Immers de snelheid van het geluid is 1440 M. per
+sec. maar alleen in zoetwater van 4 gr. Celcius.
+Heeft men echter water van andere temperaturen
+dan is de snelheid anders, terwijl tot overmaat van
+ramp ook het zoutgehalte van het water invloed
+uitoefent. De snelheid van het geluid varieert
+daardoor van 1400 tot 1620 M. per sec. ! Daardoor
+zou de diepte bij een gemeten tijd van 10 sec.
+varieeren tusschen 7000 M. en 8100 M. Men moet
+dus, zooals men doet als de loodingen talrijk
+zijn, met gemiddelde omstandigheden rekening
+houden en liefst een snelheid van 1500 M. per sec.
+in rekening brengen. Wil men grooter nauw
+
+keurigheid dan moet men probeeren de tempera
+
+tuur van het water te weten en het zoutgehalte van
+watermonsters. Dit gaat niet gemakkelijk zoodat
+men volstaat met enkele metingen op dit gebied.
+Gelukkig is de zee niet zóó gevarieerd als het land
+en de dampkring; men moet zich echter over do
+uniformiteit der zee ook niet al te veel illusies
+maken ! ! Men krijgt met de echo-methode loodin
+
+gen die systematisch iets te klein uitvallen; met de
+staaldraadlooding krijgt men systematisch te
+groote uitkomsten. Maar de uitkomsten der
+echoloodingen, alles in aanmerking nemend, staan
+dichterbij de werkelijkheid dan de
+staaldraadloodingen.
+Dat deze echo-loodingen een enorme vooruitgang
+beteekenen vergeleken bij de vroegere diepzee
+loodmethoden blijkt o.a. daaruit dat de
+Sibiga-expeditie in een jaar (1899—1900) slechts op eenigo
+honderdtallen plaatsen loodingen verrichtte, terwijl
+de Meteor" die eenige jaren geleden de zeeën
+bevoer voor wetenschappelijk onderzoek, in twee
+en een half jaar tijd 07000 zeemijlen aflegde en
+De komende Gasoorlog
+DE militaire autoriteiten schijnen het onrust
+
+barend plan te hebben, of gehad te hebben,
+in Utrecht een gaskamer" op te richten, welker
+lugubere naam wel niet op vreedzame doeleinden.
+wijst. En de inwoners zijn toen bang geworden
+voor zulk een moordinrichting en schijnen tevens
+misschien wel na lezing der resultaten van de
+Engelsche vliegmanoeuvres tot besef gekomen
+van hetgeen ons allen te wachten staat bij den
+eerstvolgenden grooten oorlog. Want dit wordt
+nu allengs wel duidelijk, dat het niet meer de
+millioenen legers, ..die Völker in Waffen," zullen zijn,
+die elkaar te lijf gaan, maar kleine beroepslegers,
+met als hootdwapens gas en bonivliegtuig en als
+object de bases van wapening en uitrusting, zegge:
+open steden ver achter het front. Hetgeen men dan
+zal noemen ..het kwaad in den wortel aantasten,
+en uitroeien." De toch al niet houdbare theorie,
+dat de oorlog enkel tusschen militairen gaat, zal
+dan volkomen zijn opgegeven, waarschijnlijk ter
+wille der menschlievendheid. Het is toch onmis
+
+kenbaar, dat een oorlog spoedig ten einde zal zijn,
+als van een der partijen of van beide het binnenland
+in n gasvergiftigde, rookende woestenij is ver
+
+keerd.
+Maar ondertusschen leggen de civielen" op
+weinig civiele wijze het lootje en gaan voor de eer
+of het welzijn des vaderlands massa-gewijs den
+dood in.
+Het perspectief van een zoo rouw en ontijdig
+einde, scheen nu velen Utrechtenaars plotseling
+voor oogen te staan, toen zij van een gaskamer"
+hoorden, die nog niet eens tot hun verderf zou
+worden ingericht. Zij schreven brieven aan het
+gemeentebestuur, het kwam tot interpellaties in
+den Raad. Toen bleek, dat van de kamer" onzer
+militaire gasstokers denkelijk wel niets zou komen,
+vanwege mogelijk gevaar voor de eigen bevolking.
+Maar van plannen ter beveiliging tegen gasgevaar
+van ..andere zijde" bleek ook niets. De regeering
+had gezeid: de gemeenten moesten het maar weten,
+en de gemeenten zeiden, dat zij het onmogelijk
+weten konden. Het beste was, dat er maar geen
+oorlog kwam.
+Zoover zijn wij nu. Wij moeten er maar niet
+hard-op over sproken, dan maken wij ons zelven
+en anderen maar naar. Heimelijk en onderhands
+kunnen Kijk on gemeenten misschien bespre'
+kingen" voeren, die wellicht tot een gunstig
+resultaat leiden." En verder moeten wij maar hopen
+voor ons en onze kinderen, dat er zoo gauw geen
+oorlog komen zal, dat Mr. Limburg en Prof. De
+Louter en de Volkenbond daar een stokkie voor
+steken zullen. Of, dat do menschlievende weten
+
+schap ook nog eens een gifgas uitvindt, dat ons
+een oogenblikkelijken en zachten dood bezorgt.
+Dat is wel het beste dat wij verwachten kunnen,
+de rest van voorzorgsmaatregelen blijft
+alles twijfel en onzekerheid. Trouwens, als een
+volk in wapens" bereid is den dood in te gaan
+voor het dierbaar Vaderland, waarom dan niet
+een volk zonder wapens?
+En als wij eenmaal dood zijn, hebben wij nergens
+meer hinder van.
+F. C.
+daarbij 67400 loodingen uitvoerde met het echolood,
+dus ongeveer iedere zeemijl een looding of vrijwel
+telkens om de tien minuten. Do loodingstijd be
+
+draagt niet moer dan oen deel van een minuut.
+Met het vroegere diep/.eolood zouden deze
+duizende loodingen in tientallen jaren nog niet gereed
+gekomen zijn.
+Met deze echolooding hoeft de Willebrord Snel
+
+lius" ook beoosten de Philippijnen in het
+Mindanaodiep een diepte van 10.170 M. geconstateerd,
+na inachtneming van de gemeten watertempera
+
+tuur, zoutgehalte der watermonsters, welke beide
+grootheden invloed hebben op de geluidsnelheid in
+water.
+Als opmerkelijkheid mag hier wol vermeld
+worden dat de Snellius uit deze enorme diepte nog
+oen bodemmonster van 54 c.M. lengte heeft opge
+
+haald en de vermelde bodemtemperatuur van het
+water heeft genieten. Dit gaat niet langs geluid-wegl
+Aan instrumenten en ervaring van expeditieleden
+worden daarom zoo hooge eischen gesteld. Maar
+dat behoort niet meer bij het onderwerp van dit
+artikel.
+,
+E
+-J
+
+</text>
+<image timestamp="2002:09:26:02:35:10.00" size="262886">000009J9.TIF</image>
+</page>
+</document>

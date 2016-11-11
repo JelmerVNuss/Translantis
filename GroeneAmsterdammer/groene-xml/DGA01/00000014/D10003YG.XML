@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19231215</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE KABINETSCRISIS
+i, ' -?**
+BIJVOEGSEL van De Amsterdammer". Weekblad voor Nederland van 15 December 1923
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+SCHOKKING
+NOI.ENS
+RUTGERS
+Nol e n s: Pak nou maar an. Wij zullen toch met z'n drieën dat zaakje moeten opknappen!'
+
+</text>
+<image timestamp="2002:08:26:20:07:38.00" size="223203">D10003YG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970725</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1048
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+voor zyn gedicht, aan Hofmann het onderwerp
+voor zyne studie heeft aan de hand gedaan ; maar
+telkens vindt men by den een en ander trekken die
+min of meer tot den anderen Don Juan, den op
+historischen grond berustenden, naderen. Deze
+laatste heeft weer zuiverder de echt Spaansche
+novelle Les omes du purgatoire geïnspireerd, men
+vindt hem ook in de Etude sur l'Espagne en de
+geschiedenis van Don Miquel de Maaara van
+Latour en in Une visite a Don Jiwn van
+Maurice Barrès.
+De twee typen heeten Don Juan Tenorio en
+Don Juan (of eigenlyk Don Miguel) de Maiiara.
+De eerste is die van Molière, die hem aan Tirso
+de Molina ontleende en hem met zijn gewone
+vrijmoedigheid in Don Juan ou Ie festin de
+pierre tot onkenbaar wordens toe vervormde. De
+Don Juan van Molière is geheel de Fransche
+losbol van de zeventiende eeuw geworden; de
+«slechte edelman", een Lauzun, egoïstisch en
+hoogmoedig, zinnely'k en wreed. Hy' is een
+godloochenaar, tevens zonder eenige philosophie en
+zonder eenig ideaal. Hy verleidt en verlaat, zonder
+eenig ander doel dan de variatie van zy'n genot; hij
+geniet in den wellust en in de tranen. Zyn
+eenige goede eigenschap is moed; hy' trotseert
+den dood in alle vormen en op alle oogenblikken.
+Hy sterft zonder berouw.
+Voor dit type had Molière de modellen, minder
+volmaakt, maar in bijzonderheden even kras,
+om zich heen. Jonge Fransche officieren, die bij
+het beleg van Lerida in 1647, eene brasparty
+in eene kerk hielden, openden de grafzerken, lieten
+muziek maken, en dansten met de lyken.
+Een gewyzigd type heeft da Ponte aan Mozart
+gegeven, poëtischer en bekoorlijker. De som
+
+bere Spaansche wreedaard is een gracieus Ita
+
+liaan geworden; indien al het begin en het eind
+van de opera tragisch zy'n, de tragedie is tel
+
+kens doorweven met vroolykheid en elegance,
+in dit opzicht ook is de vertolking van d'An
+
+drade zoo meesterlijk en geheel in den geest
+der bewerking. Hartstochtelyk en ironisch,
+vorstelijk en spottend, vol zinnelyke passie en toch
+vol galanterie, is de Don Juan van Mozart veel
+meer lichtzinnig dan boosaardig, veel meer sym
+
+pathiek en interessant dan afschuwwekkend.
+Hoffmann's studie over Don Juan legt al de
+droomen der romantiek in het personnage; hy'
+wordt een soort Faust, een soort »Uebermensch",
+een hartstochtelijk en nooit voldaan ideaalzoeker,
+een soort natuurkracht. Don Juan's wreedheid
+jegens zy'n slachtoffers is dan de wraak voor de
+teleurstelling die zy hem telkens bereiden, wanneer
+hy de absolute ideale liefde zoekt. Het is dezelfde
+Don Juan, waarvan Musset telkens spreekt, o.a. in
+Namouna, en waarin hy zy'n eigen ziel en die van
+zy'n geheele tydvak weerspiegeld vond.
+Byron heeft den Don Juan, ook niet aan het
+oorspronkelijke ontleend,—weer anders vervormd.
+Zy'n Don Juan is heel weinig slecht of wreed; hij
+is by'na nog meer philosoof en poëet dan zinnelijk;
+hy is meer verleid dan verleider; zyn hart is te
+week om al zyne bekoorlijke vriendinnen, Dofia
+Juana, Haydée, Dudu en hoe ze verder heeten,
+serieus kwaad te doen. Hy' is een betrekkelyk
+goedig edelman a bonnes fortunes, sentimenteel
+en bitter, zinnelijk en ironisch, meestal oprecht
+en even ongelukkig als zy'n verlaten gezellinnen,
+De andere Don Juan, die van Mérimée in
+Les Ames du Purgatoire en die van Alexandre
+Dumas in Don Juan de Maüara, is meer aan
+de bron ontleend, aan het tweede type. Mérimée
+is nauwgezet, hy kent Spanje; hij zet uiteen hoe
+het type der Sevillaansche traditie eerst op het eind
+der vorige eeuw in Spanje zelf is ondergegaan in
+dat van den ouderen Don Juan Tenorio ; zijn werk
+heeft archaeologische waarde, zy'n type is geen
+Franschman of Italiaan of romanesk Engelschman.
+Mérimées Don Juan is vroom opgevoed ; hy wordt
+door de omgeving, het kry'gsleven, de vriende
+
+lijkheid der vrouwen in verzoeking gebracht en
+verleid, maar hy blyft vroom, zy'n geheele leven
+door. Op het midden van zy'n loopbaan wordt
+hy verschrikt door een visioen, meent zy'n eigen
+begrafenis by te wonen, wordt monnik en sterft
+in reuk van heiligheid. Dit is echt Spaansch.
+Zy'n partner, de schoone Theresa, die hij ver
+
+leid heeft terwy'l hy student te Salamanca was,
+is even Spaansch. Hij vindt haar in een klooster
+te Sevilla terug; zy is uit wanhoop non gewor
+
+den. Als zy Don Juan weervindt, ontwaakt de
+oude liefde-, z\j wil het klooster verlaten en
+hare ziel offeren om hem te volgen; maar wan
+
+neer zy' verneemt dat hy monnik geworden is
+en tot berouw en boete is overgegaan, is haar
+uitroep: »Hy heeft my nooit lief gehad !"
+De goede oude Dumas zag in den tweeden
+Don Juan een effectvoller tooneeltype dan in den
+eersten; daarom koos hij hem tot onderwerp van
+een «mysterie", dat eigenlijk alleen een mooi
+melodrama is, met hel en hemel, engelen en
+demonen, kroegen en cathedralen, boudoirs en
+kerkhoven, duels, verleidingen en schakingen,
+Alles fantastisch tooneeldecor, zonder andere dan
+romantische waarheid. Dumas verving ook het
+echt Spaansche idee van Don Juan's berouw en
+heiligheid door het geliefkoosde idee_der roman
+
+tische school, de verzoening der straf door eene
+reine liefde. Don Juan, aan alle ondeugden
+verslaafd, moordenaar van zijn vader en zijn
+broeder, vorstinnen winnend of verspelend bij
+de kaart, wordt, na al die misdaden, gered door
+de oprechte liefde van een zy'ner slachtoffers en
+eene minuut van berouw. Om die minuut zelfs
+te kry'gen moet er heel wat gebeuren.
+Martha. Don Juan, ik ben de engel der ver
+
+geving, want ik ben de engel der liefde ... Ik
+kom van den Heer ! ... Bekeer u, heb berouw !
+Don Juan. Het is te laat; het uur van mid
+
+dernacht zal slaan.
+Martha. Anderen hebben den wyzer
+vooruitgezet om u te verderven; ik zet hem achteruit
+om u te redden. Nog blijft er eene seconde over ...
+Don Juan, bekeer u !
+Don Juan. Engel der liefde, engel van genade
+en barmhartigheid, gy overwint! ... Vergeving
+God.... ik heb berouw !
+Dit is geheel on-Spaansch, en zelfs geheel
+onkerksch, maar het is kleurig, .levendig, een
+heel amusant drama. Blykbaar heeft Mérimée
+den Don Miguel de Maiiara Spaanscher gevonden
+dan den Don Juan Tenorio van Tirso de Molina,
+en Dumas heeft geen van beiden romantisch ge
+
+noeg gevonden voor zy'n behoefte en vooral
+Molière niet willen navolgen.
+(Slot volgt). v. L.
+Noord- en Zuid-Ned. Opera-vereeniging.
+Het bestuur der Noord- en Zuid-Nederlandsche
+Opera-vereeniging (J. G. de Groot, Gottfried Mann,
+S. Wigersma en Johan Schmier), verzoekt ons
+mede te deelen, dat binnenkort de musici, die
+bij het orkest der N. en Z. Nederl. Opera-ver
+
+eeniging zy'n geëngageerd, eene uitnoodiging
+zullen ontvangen om een contract te teekenen,
+dat hunne tevredenheid ruimschoots zal weg
+
+dragen.
+
+De Vliegende Hollander en zijn tweede
+componist.
+Zooals bekend is, heeft Wagner het scenario
+van zyn Vliegende Hollander voor 500 francs
+verkocht aan den directeur der Groote Opera te
+Parys, die het op muziek liet zetten door een
+ander componist. De heer George Servières heeft
+de geheel vergeten partitie van Wagner's mede
+
+dinger weer opgezocht en deelt daarover iets
+mede in den Guide Musical.
+De opera van Dietsch, getiteld Ie
+VaisseauFantóme on Ie Maudit des mers heeft twee
+bedryven en drie tafereelen. De librettisten Paul
+Foucher en Bénédict lievoil hebben het scenario
+van Wagner verhakstukt met brokken, ontleend
+aan een Engelschen roman van Kapitein Marryat
+en hebben alle namen veranderd. Het stuk speelt
+op Shetland, een van de Arkadische eilanden,
+Senta heet Minna; zij is de dochter van den
+koopman Barlow. Erik, de jager, is een matroos
+op een van Barlow's schepen geworden en heet
+Magnus. De Vliegende Hollander is een Noor,
+zijn naam is Troïl. Het eerste tafereel komt
+overeen met het begin van het tweede bedrijf
+van Wagner's opera, behalve dat er geen koor
+van spinsters in voorkomt. Minna vertelt de
+legende van den vervloekte; zy is dezelfde als
+in de Vliegende Hollander, alleen hebben de
+librettisten, om het drama wat krasser te maken,
+het voorgesteld, alsof Troïl gedurenden den storm
+zijn loods, die niemand anders was dan de vader
+van Magnus, in zee geworpen had. In het tweede
+tafereel komt Barlow zy'n dochter vertellen, dat
+zij moet trouwen met Troïl (die nu zegt dat hy
+Waldemar heet), omdat deze hem gered heeft.
+De Noorsche equipage, die aan land is gekomen,
+sluit vriendschap met de Shetlandsche matrozen,
+die hun nieuwen vrienden een zeer romantischen
+drank geven: »rum gemengd met buskruit" ! Nu
+verwijdert zich de menigte en in een cavatine
+vraagt Troïl-Waldemar Minna: »l'Ange du rivage,
+la Madone du port" te zijn. Minna stemt toe.
+Wanhoop van Magnus. Vroolijk eindkoor.
+In de tweede acte beproeft Magnus, die om
+een ongelukkige liefde, geestelijke is geworden,
+vergeefs Barlow te waarschuwen voor den vreem
+
+deling ; de koopman trekt zich hiervan niets
+aan en roept uit: »Leve de hel, wanneer zij mij
+rykdom en geluk brengt!" De vreemdeling
+maakt zy'n waren naam aan Minna bekend.
+«Durft gij mij op mijn schip volgen ?" »Ja,"
+zegt zy, »ik zal mij aan u verbinden, om u te
+redden." Daarna wonen w\j de
+huwelijksplechtigheid by'. De priester, Magnus, vraagt den
+bruidslieden hun ringen te ruilen. Troïl aarzelt,
+zy'n bloedige hand te toonen; Magnus trekt hem
+zijn handschoen uit en herkent den moordenaar
+van zijn vader. Hij roept uit: «Bezoedel ons
+eiland niet met uw schreden. Vlucht, uw va
+
+derland is de storm!" Men scheidt de verloofden.
+Troïl, ten verderve gewijd, roept de helsche
+machten aan. Minna stort zich in de golven,
+om hem, zijn ondanks, te redden. Het schip
+verzinkt. Apotheose.
+De melodramatische verfraaïngen, die de libret
+
+tisten hadden aangebracht, waren niet voldoende,
+om de muziek van Dietsch te redden; men vond
+dat zy' vervelend was, dat melodie ontbrak en
+dat zij schrikkelijk geleerd was. Het werk was
+intusschen niet meer dan banaal en werd maar
+elfmaal opgevoerd.
+iitiiiniitniiMiiinifntltinmnimitmnimtmniiMiininimiiiiiiiinimiimmi
+
+De ontmanteling oer Nieuwe M OD den Dam,
+Wij Amsterdammers, wy staan op enkele punten
+bij vele groote steden van hier en uit het buiten
+
+land ten achter. Zelfs zijn enkele kleinere steden
+uit ons land in dit opzicht in betere conditie,
+wij hebben namelijk geen groote, publieke ge
+
+bouwen, of die er zijn, dienen tot een ander doel
+dan waartoe zij werden opgericht, of zij verkeeren
+in een dergelijken toestand van vandalistische
+onverzorgdheid, dat als de nood aan den man
+is, de moeiten en kosten te groot blijken om ze
+geheel een nog dragelijk voorkomen to geven.
+En de zaak blijft er dan weer bij.
+Niet zoo, hoop ik en eenige anderen, zal het
+nu gaan met de Nieuwe Kerk op den Dam, die
+van den kant waar de minste menschen haar
+zien, gerestaureerd is, en die nu van den
+Dam-kant (althans wat het transept betreft)
+wat wordt opgeknapt, 't Blijkt dan toch dat het
+voor velen reeds een dringende behoefte leek,
+dit gebouw dat, al is het geen Kathedraal
+uit het bloeitijdperk der gothiek, toch een waar
+Amsterdamsch monument om haar zoo by uit
+
+stek Hollandsche eigenschappen is nu de kro
+
+ningsfeesten op komst zy'n, wat na te zien. Maar
+omdat het alty'd beter is een werk geheel goed
+te doen, dan met een begin de rest weer aan
+zy'n lot over te laten, zou misschien nu juist de
+tijd daar zyn, op de verdere gebreken te wyzen,
+die dit zeer mishandelde bouwwerk aankleven,
+en te zien in hoeverre het mogelyk ware zijn
+overtollige aanhangsels te verwijderen.
+Reeds vroeger is deze quaestie, meen ik, in
+andere bladen besproken, maar zeker is het, dat
+ook hier aan deze zaak moet gedacht worden,
+nu de heer Jan Veth in de laatste aflevering van
+de Gids zijn zeer gloedvol woord ten beste van
+deze goede zaak is komen zeggen, en de heer
+Jan Kalff in het laatste nummer van de Kronielc
+(Zondag 18 Juli) met meer historische en be
+
+redeneerde gegevens, en een prent naar een oude
+afbeelding, min of meer den weg die men by dit
+werk zal mogen inslaan, heeft aangeduid. Ik
+hoop dat het mij vergund zij hier my'n adhaesie
+aan hun willen uit te spreken.
+'t Is voornamelyk de kwestie, hoe men dit zeer
+ingewikkelde probleem zal aanvatten, want de maat
+der ongerechtigheden is hier zoo groot, dat men
+allicht in een al te furieuzen lan een al te groot
+slooperswerk zou willen aanbevelen, wat zeker
+weinig doeltreffend zou zyn. Want van al die
+grootere en kleinere, oudere en minder oude
+huisjes die om en tegen de kerk gebouwd zy'n,
+zijn er enkelen die zeker het goed aspect van
+het geheel verhoogen en completeeren, en die, bij
+een amoveering, werkelyk noodige gedeelten tot
+het algemeen aspect zouden blijken. Want juist
+het Hollandsche, het eigenaardig laat-gothiek en
+quasi renaissance-achtige van het geheel eischt
+deze bijgebouwtjes, voor een deel, maar zij eischt
+die natuurlyk nergens leelijk. Een gothieke ka
+
+thedraal zou door een dergelyke algeheele ont
+
+manteling zeker winnen, maar deze Hollandsche
+kerk zou dat zeker niet.
+Nu vindt ik het zeer opmerkelijk, dat juist de
+leelykste huisjes daar staan, waar zij 't meest
+gezien worden, althans 't meest' gezien zullen
+worden in de kroningsdagen, als de oogen van
+heel het Nederlandsche volk, en van nog veel
+vreemde volkeren in de personen van hun
+gezanten enz. van den Dam af, dit grijze ge
+
+bouw zullen tegenblikken. Wel ! ik zou hier
+
+mee, al is het niet langs arithmethischen weg,
+bewezen willen zien, dat aan dezen kant het sterkst
+gebroken zal moeten worden. Daar kan het goed
+resultaat hebben, en in aansluiting met den transept
+
+gevel, die nu schoongemaakt wordt, kan dat een
+veel verbeterd aspect geven. Vooreerst winnen
+wij er bij, dat het kerkeraadsgebouw, quasi
+gothiek, uit het midden dezer eeuw, voor eeuwig
+van de baan ga ; ten tweede dat al die horribele
+winkeltjes aan de Mozes- en Aiironstraat
+verdwy'nen, en ten derde dat die straat veel breeder
+worde, 't geen de heer Jan Kalff in de Kroniek
+van de vorige week met opmetingen uit de platte
+
+gronden heeft aangetoond.
+Dat werkelijk aan dezen kant, een dergelijke
+schoonmaak een groote verbetering zou zijn, be
+
+hoeft wel geen betoog, terwijl aan de zijden van
+den Nieuwezijds Voorburgwal een paar huisjes
+en dit zijn oude staan, wier raamverdeeling
+en gevelaspect, als men uit de Molsteeg komt,
+nog lang zoo'n kwaad effect niet maken met de
+groote ramen en het dak en het torentje van de
+kerk, die er boven uitsteekt. Aan het noorder
+transept evenwel dat pas zoo geheel en al gere
+
+staureerd werd, zyn een paar allerergerlijkste
+krotjes, die tusschen de contreforten en de groote
+portiek in, meer dan storende parasieten van dit
+groote huis zijn, en die onverwyld moeten worden
+weggehaald, omdat juist dit zeker de plaats niet is
+waar huisjes tegen de kerk hooren. Daarbij is
+aan de Gravenstraat een prachtige renaissance
+gevel, een van de mooiste in dat soort die nog
+in Amsterdam staan; en 't zou zeker jammer
+zijn dien te amoveeren om deze reden en om der
+wille van het Gravenstraatje zelf, dat, naast de
+enorme lijnen van de contreforten der kerk,
+zeker niet zoo echt Amsterdamsch zou blijven.
+En dan, aan het koor zijn ettelijke krotten en
+vuilnishuisjes, die zelfs, al was het geen histo
+
+risch gebouw, verwijdering verdienden.
+Geenszins is het dus de bedoeling, maar boutweg
+aan het hakken te gaan, op gevaar af van de
+stabiliteit van dit groote gebouw te verzwakken,
+maar wel om wat er staat, en wat er nog restend
+mocht zija van deze zoo zeer veronachtzaamde
+kerk, te bewaren en een beter te genieten aspect
+te geven, zoodanig ten minste dat het de groote
+gebeurtenis van het volgend jaar eenigszins meer
+waardig worde, en een Hollandsen cachet blijve
+behouden, zonder dat het daarom nog een beeld
+zij van de echt Hollandsche laksheid en wan
+
+smaak, die in de verzorging van dit gebouw tot
+nogtoe schijnen te hebben voorgezeten.
+
+Hoe dit te bereiken is, ik beschik over te
+weinig gegevens om hier een weg te willen of
+te kunnen wijzen, maar wel lijkt mij de gedachte
+van de heeren Jan Veth en ,Ian Kalff nog zoo
+kwaad niet: laat jan en alle man er aan denken,
+by de penningen die hij voor tydely'ke (en God
+weet hoe leely'ke) uitdosschingen van de stad zal
+gaan storten, dat hy misschien beter deed met
+de helft van zyn by'dragen in een ander fonds
+te storten, dat bestemd zou zijn om dit zoo zeer
+gedelabreerde gebouw voor alty'd wat waardiger
+van uiterly'k te maken.
+TH. MOLKENBOEB.
+Bij de firma E. J. van Wisselingh &amp; Co, Spui
+23, is tentoongesteld een aquarel van Geo
+Poggenbeek, »In de Weide."
+NIEUWE UITGAVEN.
+MK. W. M. H. BOEES. De tegenwoordige or
+
+ganisatie van den Nederlandschen Staat. Amster
+
+dam, Scheltema &amp; Holkema.
+P. J. G. NELL. Handleiding voor den Amateur
+Fotograaf- Wielrijder. Apeldoorn, L. Hansma.
+S. J. BAKKNTZ-SCHÖNHEKG. Hoe Mevr. v. Alfen
+aan den bommel ging. Warendorf's
+Novellenbibliotheek.
+Inhoud van Tijdschriften.
+Eiqen Haard. Een oud Devies, door Louise
+B. B., IV. Sen belangryk dorp, door J. P.
+M. Camman, met afbeeldingen, (slot.) De
+eerste dag van den Henley-wedstrijd, naar eene
+photografische opname. Indrukken van een
+dag te Henley, door Wm. Muiier, met afbeel
+
+dingen van de ploegen van Laga en Triton en
+teekeningen van den schrijver. De brievenbus,
+naar het Fransch van RenéBazin. Een ky'kje
+in Nieuw-Heivoet, met afbeelding. Verschei
+
+denheid. Feuilleton.
+CORRESPONDENTIE.
+Wegens plaatsgebrek wordt het slot van het
+feuilleton in het volgend nummer gegeven.
+
+iiïiiiiiiüiiiiiiiiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiima
+40 cents per regel.
+Henneberg-Zijde
+alleen echt, indien direct van mijn Fabrieken
+betrokken, zwart, wit en kleurig van 35 et»
+tot f 14.65 per Meter effen, gestreept, geruit,
+gewerkt, damast enz. (ca. 240 versch. qual. en
+'2000 versch kleuren, dessins, enz.). Franco
+en vrij van Invoerrechten in buis.
+Stalen ommegaand. Dubbel briefporto naar
+Zwitserland.
+G. Henneberg's Zijde-Fabrieken
+(k. &amp; k. Hofiever.), Zürich.
+Hoofd-Depöt
+VAN
+Dr. JAEGER'S ORIG.
+Boraaal-WolartMen.
+K, F. DEUSCHLE-BENGER,
+Amsterdam, Kalverstraat 157.
+Eenig specialiteit in deze
+artikelen in geheel Nederland
+H. R AHR te Utrecht.
+Pianofabriek.
+Binnen- en Buitenl. Muziekhandel.
+Amerikaansche Orgels.
+Ruime keuze in Huurpiano's.
+MEIJBOOS &amp; KALSHOVEN,
+Arnhem.
+Piano-, Orgel- en Muziekhandel.
+Ruime keuze in Huurpiano's.
+Dagelijks 's morgens 10 uur, via
+Broek in Waterland en Monniken
+
+dam. Afvaart de liityterkade naast de
+Kettingboot.
+O j) irrrkdagen zijn gezehchapsbiljetten,
+tegen belangrijke reductie, op aanvrage
+verkrijgbaar.
+De Havensloombooldienst.
+Voor het maken hiervan is een
+
+prachtig ingericht stoomjachl
+dagelijks TE HUUR. Te bevragen: Kantoor
+Havenstoombootdienst, l'.'~ O. '/&gt;. }rooi'bitrgii:al,
+Amsterdam. Telefoon (! H 4.
+
+</text>
+<image timestamp="2002:08:21:22:08:11.00" size="381821">000003UZ.TIF</image>
+</page>
+</document>

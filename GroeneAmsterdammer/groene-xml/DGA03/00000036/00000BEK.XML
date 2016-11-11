@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18890609</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ruslands e e n i g e trouwe vriend en bondgenoot.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 9 Juni 1889.
+»»&gt;t;s0!««**^/^^
+1 , - r^mtx
+V'1-' M \
+v Jf '.X ^
+Sioouidrukkei'ij Ellerinan, Hanns &amp; Co.
+Uwe dochteren zullen zijn als olijf'planten rondom Uwe tafel."
+
+</text>
+<image timestamp="2002:10:03:06:37:56.00" size="505783">00000BEK.TIF</image>
+</page>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230113</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE VRIENDSCHAPPELIJKE BREUK"
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Neaerland van 13 januari 1923
+Nadruk verboden
+''^^^"'"//sss/ws/sss^;^^
+* *S""" "''**'* *** * *
+f .» . _ . » t .
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+De conducteur van den Engelschen wagen: Ik heb mijn wagen maar losgekoppeld, want
+ze rijden mij te gevaarlijk!"
+
+</text>
+<image timestamp="2002:08:25:15:00:24.00" size="241213">D10003JN.TIF</image>
+</page>
+</document>

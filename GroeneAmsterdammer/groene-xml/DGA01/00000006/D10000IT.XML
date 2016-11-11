@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040918</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De toost van Keizer Wilhelm op de Duitsche Vloot.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 18 September 1904.
+Amst. Koek- en Steendrukkerij, v/h. Ellerman. Harms &amp;- C
+MICHEL (tot Keizer Wilhelm]: Majesteit, ik heb U hooren zegden, dat de vloot u-w vloot is, het officierencorps uw officierencorps,
+en dat de marine een wapen in uu' hand is en zij U persoonlijk van ganscher harte moeten zijn toegedaan . . ., maar was dat niet een
+vergissing.' De vloot is toch eigenlijk mijn vloot, het officierencorps mijn officierencorps, de marine een wapen in mijn hand, en mij
+behoorcn zij volkomen te zijn toegedaan . . .
+KEI/EK WILHELM (tot \-\rn Bülow}: Mijn waarde, wak is dat voor een praatjesmaker?
+VON BÜLOW: Och Majesteit, een ongelukkige, die zich in het hoofd heeft gezet het Duitsche Volk te zijn... Een treurig geval
+van grootheidswaanzin.
+
+</text>
+<image timestamp="2002:08:15:21:27:20.00" size="215967">D10000IT.TIF</image>
+</page>
+</document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18931217</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bekende Tijdgenooten
+nam
+nut -le
+ven
+XXV.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland, van 17 December 1893.
+
+
+
+
+q.y^s^^i.-vj,^,»-^*;»^^»;,»^
+'&lt;
+\
+\!üsi. lïook- en Stecndrukkern, v.'h. Kllcnnan, Harms &amp; Co.
+WILLEM MAR1S,
+
+</text>
+<image timestamp="2002:08:22:06:41:47.00" size="489558">D10002I8.TIF</image>
+</page>
+</document>

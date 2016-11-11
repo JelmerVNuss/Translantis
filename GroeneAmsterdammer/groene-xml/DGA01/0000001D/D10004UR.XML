@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240112</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+fctootrcmotoren en
+óompl. Drijfw«rk«n
+Cleotriohe Imlaltaliën
+Smit 4 van der Linden
+Nituwstr. 13, dan Haag
+;'&gt;--;i'C£^:
+- No. 2430
+1.1. IE IMG • MDIKiniUT N - UOTEIUM
+•JV GEVESTIGD SEDERT 1851 "IJf
+•Onrad mat (Amsteidan 1905) s | Telegram-adrei: UNIPOftft
+• momdon, t Zllvorom om t Bronmom odolllo
+ImmciN m illi hntr- n itiira llniiig m Oitrastinon
+
+.
+F*. F. ZEILIHQA
+mmmomiatmt 99 Tol, 4I7OO - Amolordmim
+Levert in huur en In koop alle soorten
+VELD- en KAMPEERTENTEN
+* PfOopooÊuo'on Pflloopgoof worden op
+omiiVfomg ffomoo toogoxonden*
+ntte,T Gi5)Chmit BinofKij VOOR H H UITGEVERS
+bTWHUKRCtfDUSbTRAAT 53 5') ADAM TEL Z &lt;t&lt;(66.
+' TELEPHONE
+Rijwiel-Sloten
+Absoluut niet op hot govool
+to openen, door oon opoololo
+opor-Inrichting Is oongobrocat
+Ootrooloit
+mmagevrmagd.
+
+Telephone Lock Cy.
+Prijs f B.-,. /H» r
+Eerste Electrische Draadvlechterfl
+A A D. HOOGENBIRK &amp; ZOON. A A
+V V BLOEMENDAAL BIJ HAARLEM. V V
+VIERHOEKIG VLECHTDRAAO
+In tik» gewachte
+C*mpl«t« HEKWERKEN
+•• Draadal*oli*Mlii|«a
+l to Alkmaar iral vwfuM ntv«r»n «i to Z«ltt m«t z»v*ran iMdad*
+Thans hoorb men algemeen
+neemt 5X daaq5 C)
+togal tabletten
+15 minuten DQelke maaltijd
+'V Wanneer G ij genezinc; wilb van ; ;
+Rheumatiek
+Ischias-5pi t
+Jicht-Lumbago
+Verkoudlieclen
+Griep Influenza
+Hoofil ^Zenuwpijn
+Slapeloosheid
+Pijnen in gewichben en ledematen
+\ Genezing en onschadelijKheid gegarandeerd
+Vraagt gratis toezending brochure N 21
+aan de Pharm:enChem: groobhandel A.J.Ameye. Amslerdarn
+WC£RTHC£RUC
+"54.
+TELEFOON 44915
+Filiaal; WILLEMSPARKWEG175
+TELEFOON 20333
+Speciale Inrichtingen
+voor Stoppage
+an Straab Boosieur i
+WIJNHANDELAREN
+ROTTERDAM, LEUVEHA VEN 34
+FILIALEN: DEN HAAG l PRIMA KWALITEITEN
+DEN HELDER l BILLIJKE PRIJZEN.
+KIPS &amp;
+SCHIEDA
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+Autogono Lasschlng
+
+</text>
+<image timestamp="2002:09:05:09:52:08.00" size="238403">D10004UR.TIF</image>
+</page>
+</document>

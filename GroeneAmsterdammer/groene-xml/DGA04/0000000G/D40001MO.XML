@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150214</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14 Febr. '15. No. 1964
+DE AMSTERDAMMER, WEEKBLAD VOOR.. NED ERL AND
+De storting op de leening 1914 in de week
+van l tot 8 Februari j.l. heeft uit den aard
+der zaak belangrijke wijzigingen gebracht
+in de kaspositie der schatkist en in den
+weekstaat der Nederlandsche Bank. Ofschoon
+de volledige uitwerking van de stortingen
+nog niet blijken kan uit de tot nu bekende
+wekelijksche opgaaf in de Staats-Couranttn
+uit den weekstaat der Nederlandsche Bank,
+daar beiden slechts tot 6 Februari loopen
+en nog niet de resultaten van den laatsten
+stortingsdag omvatten, is het toch niet zonder
+belang, reeds nu na te gaan welken invloed
+de oorlogstoestand op den stand der schat
+
+kist gehad heeft.
+Uit de wekelijksche opgaven van het
+Ministerie van Financiën in de Staats Courant
+(die tengevolge van eene verschillende
+methode van boeking altijd eenigszins af
+
+wijken van de opgaven in den bankstaat)
+blijkt, dat de vlottende schuld van het Rijk
+op l Augustus 1914, bij het begin der mobili
+
+satie, ƒ 63.030.376 bedroeg, als volgt verdeeld:
+Schatkistpromessen .... ƒ 29.150.000
+Schatkistbiljetten	20.770.000
+Renteloos voorschot v. d. Bank 13.110.376
+
+Totaal . 7^3-030.376
+Sedert is die schuld gestadig toegenomen,
+zoodat zij op 30 Januari j.l. met inbegrip
+der zilverbons ƒ198.045.912 bedroeg, zijnde
+eene vermeerdering met ƒ135 millioen in
+26 weken of gemiddeld ruim ƒ5 millioen
+per week. Feitelijk moeten de uitgaven nog
+wel een tien millioen hooger zijn geweest,
+daar in het vorenstaande nog geene rekening
+is gehouden met de wiust op de
+aanmunting van ca. 20 millioen zilver. Op 30 Januari
+1915 bestond de vlottende schuld nml. uit:
+
+Schatkistpromessen ƒ121.550.000
+Schatkistbiljetten 52.498000
+Renteloos voorschot 14.129.955
+Zilverbons 9.867.957
+
+Totaal ƒ198.045.912
+Gaat men nu de wekelijks gepubliceerde
+cijfers na, dan blijkt, dat de vermeerdering
+der vlottende schuld schijnbaar vrij
+ongelijkelijk verdeeld is. Om de lijst niet al te
+uitvoerig te maken, laat ik hier een staatje
+van de vlottende schuld aan het einde van
+elke maand volgen:
+l Augustus ƒ 63.030.376
+29 , 93.932.620
+26 September ,121.317211
+31 October . , 146.509.679
+28 November , 147.274.140
+26 December , 152.051.732
+30 Januari . , 198.045.912
+In de eerste maand der mobilisatie bedroeg
+de toename dus ruim f 30 millioen, in elk der
+beide volgende ca. f25 millioen, terwijl in
+de maanden November en December de stand
+der vlottende schuld tamelijk stationnair
+bleef, om in Januari weder plaats te maken
+voor eene vermeerdering met ca. f46 mil
+
+lioen of zelfs nog f 16 millioen meer dan
+in de eerste maand der mobilisatie.
+In werkelijkheid is het verschil tusschen
+de diverse maanden echter niet zoo belang
+
+rijk als oppervlakkig schijnt. Het nagenoeg
+stationnair blijven in de maanden November
+en December wordt toch verklaard door het
+feit, dat in die maanden de kaspositie van
+het Rijk steeds aanzienlijk verbetert door
+het ruimer vloeien der gewone middelen
+en het binnenkomen van belangrijke baten
+uit verrekening van tinverkoopen en dergel.
+In normale jaren vindt men dan ook in
+die maanden regelmatig eene aanzienlijke
+verbetering der kaspositie, die dit jaar
+ook zoude plaats gehad hebben, hadden
+daartegenover niet de buitengewone uitga
+
+ven in verband met den oorlogstoestand
+gestaan. Aan den anderen kant is de aan
+
+zienlijke vermeerdering der schuld in Januari
+weder een gevolg van de omstandigheid
+dat de kaspositie ook in normale jaren in
+die maand achteruit gaat, in verband met
+de rentebetaling op de 2l/p pCts. Werkelijke
+Schuld, de driemaandelijksche betalingen
+van pensioenen, salarissen enz.
+Ik meen hierop de aandacht te moeten
+vestigen, omdat mij uit verschillende be
+
+schouwingen gebleken is, dat niet altijd een
+juist onderscheid gemaakt wordt tusschen
+de periodieke fluctuatiën in de kaspositie
+van het Rijk en de, door de buitengewone
+omstandigheden veroorzaakte. Zelfs bij de
+behandeling van het leeningsontwerp in de
+Kamer werd als argument voor beperking
+van het uittegeven bedrag der leening o.a.
+aangevoerd, dat de stand der schatkist in
+de laatste maanden niet zoo sterk achter
+
+uitgegaan was en scheen men er in het
+geheel niet aan te denken, dat dit schijn
+
+baar voordeel in Januari weder verloren
+zoude gaan.
+Inderdaad blijkt dan ook, dat het cijfer
+van f.275 millioen voor de nieuwe leening
+volstrekt niet te hoog gegrepen is. Na be
+
+taling van de geheele op 30 Januari uit
+
+staande vlottende schuld, zal er slechts
+f 77 milioen overblijven of nauwelijks ge
+
+noeg om naar denzelfden maatstaf als
+in de afgeloopen zes maanden voor
+verdere drie maanden in de buitengewone
+behoeften te voorzien. Wel zal het dan nog
+niet noodig zijn om reeds dadelijk met eene
+nieuwe leening te voorschijn te komen, om
+
+dat men nog altijd een maand kan teeren
+op het renteloos voorschot van de Bank en
+de uitstaande zilverbons, maar erg bemoe
+
+digend is het vooruitzicht niet, indien niet
+spoedig eene zoodanige wijziging in den
+algemeenen toestand komt, dat tot eene
+aanmerkelijke inkrimping der
+mobilisatieuitgaven kan worden overgegaan.
+Opgemerkt moet hier nog worden, dat ten
+
+gevolge der betalingen op de leening de
+vlottende schuld van het Rijk in de week
+van 30 Januari tot 6 Februari van f 198.045.912
+tot f 104.015.636 verminderd is, terwijl
+bovendien het renteloos voorschot van
+f 14.129.9S5 bij de Bank plaats gemaakt
+heeft voor een rekening-courant saldo van
+f54.230.496. Bijeengenomen is de kaspositie
+door een en ander dus met f 148 millioen
+verbeterd, zonder daarbij nog in aanmerking
+te nemen, dat de saldi bij de betaalmeesters
+nog met ca. f 5 millioen zijn toegenomen.
+Ruwweg genomen, mag dus uit deze cijfers
+afgeleid worden dat op de f 275 millioen
+der leening in de week tot 6 Februari meer
+dan f 150 millioen betaald is, zoodat, in
+aanmerking nemende hetgeen nog op 8 Febru
+
+ari moet gestort zijn, wel mag worden aan
+
+genomen, dat verreweg het grootste deel
+dadelijk ten volle betaald is en slechts voor
+een klein deel gebruik gemaakt is van de
+gelegenheid tot storting in termijnen.
+
+Gaat men nu na, welken invloed de stor
+
+tingen op de nieuwe leening op de positie
+der Nederlandsche Bank gehad hebben, dan
+komt men tot het schijnbaar verrassende
+resultaat, dat niettegenstaande ruim f 34
+millioen bij de Bank geplaatste schatkist
+
+promessen afbetaald zijn, het opereerend
+kapitaal der Bank in de week van 30 Januari
+tot 6 Februari nog met bijna f38 millioen
+toegenomen is. De cijfers van de drie hoofd
+
+rekeningen voor de twee data zijn nml.:
+
+30 Januari. 6 Februari.
+Disconteeringen ƒ147.411.000 ƒ135.018.500
+Beleeningen . . 134.827.600 199.650.350
+Voorsch.a.h.Rijk 14.948.100
+/ 297.186.700 ƒ334.668.850
+
+De disconteeringen zijn wel is waar met
+ƒ12.400.000 verminderd, maar neemt men in
+aanmerking, dat van de bij de Bank onder
+
+gebrachte schatkistpromessen ƒ34.100.000
+afgelost zijn, dan zijn de overige
+disconiiiiiiiMiimiiiiiiiiiiiimiiiiiiiKiHtiiiiiiiiiimiiiMiimiiii
+De Twentsehe Bankyereeniging
+
+B,ÏÏJlijdenstein4Co.
+KAPITAAL: f 15.165.O52,5O RESER VEN : f 6.729.497,14
+HOOF PK AMTOOR ;
+AMSTERDAM, Spuistraat 138/144.
+(voor wier verbintenissen De Twentsehe Bankvereeniging
+B. W. Blfldenstein &amp; Co., ten volle aaiisprakelgk is)
+AMSTERDAM, Prins Hendrikkade 139;
+LOM DEN, B. W. Blpenstein &amp; Co.. 55-56 Tnreadneedlestr.:
+ENSCHEDE. B. W. Blpenstein Junior:
+ALMELO, Ledeboer &amp; Co.
+RENTE VOOR DEPOSITO'S:
+Direct •prarderbaar	3 pct.
+TIen dagen opzegging	3% .
+Een Maand vast Gemiddelde prolongatie-koers met een maximum van 4
+Drie Maanden opzegging .... 3 pCt.
+Zet Maanden . . . . 3H .
+Een Jaar	4
+Van den dag der opzegging
+af wordt Vi pCt. minder
+rente vergoed.
+SAFE DEPOSIT
+
+Heerengracht 531—537,
+Weesperplein 2,
+Overtoom h/Ie Const. Huygensstr.,
+Willemsparkweg 80,
+
+verhuurt aan bij haar geïntroduceerde personen SAFE
+
+LOKETTEN in hare Brand- en Inbraakvrije Kelders.
+
+Reglementen zijn aan bovenstaande kantoren verkrijgbaar.
+'otterdamsche
+Maatschappij van verzekering tegen ongevallen
+Ou de haven 1^ de N r. 1. Plan C, Rotterdam..
+
+Individueele
+
+Ongevallenverzekering.
+Directie: P. R. MEES, J. BRUNSTING.
+Hoofd vertegenwoordiger voor Ned. Oost-Indië:
+N. J. TAKKEN, Simpang, Soerabaia.
+De
+
+-Levensverzekering
+OngeTallenverzekerlng
+
+Billijke premiën. Concurreerende voorwaarden.
+HOOFDKANTOOR: Amsterdam, Keizersgracht 547—549.
+BIJKANTOOR: Den Haag, Buitenhof 48a. Groningen,
+Vischmarkt 54. Rotterdam, Wijnstraat 138a. Utrecht,
+Maliebaan 84.
+Bijkantoor der Arasterdamsche Mjj. van
+Levensverzekering voor Ned. Indië:
+SOERABAJA, S OC IE T EI T S T R A A T.
+&gt;»A LEVENSVERZEKERING -BANK
+
+^„AMSTERDAM"
+Directeuren: W N.C.M.SMITS «n OUEN. • J.LJBONfimt. Adj-O.r. D A.AEJJEUa
+Ontvang- en Betaalkas,
+Vergoeding der Depositorente.
+Met ingang van heden wordt de
+rente-vergoeding vastgesteld als volgt:
+Met n dag opzegging ... 3 pCt
+(Bedragen tot ƒ20.000 zijn terstond
+betaalbaar)
+Met 10 dagen opzegging . . 3*4 pCt
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving vol
+
+gens reglement.
+SAFE DEPOSIT-INRICHTING,
+geopend:
+op werkdagen van 8% tot 5 uur.
+, beursvacantiedagen 8?ï4
+Loketten van ƒ2.50 per maand (ƒ10.
+per jaar) en hooger te huur voor bij
+de Directie bekende of geïntroduceerde
+personen.
+Amsterdam, l Nov. 1914.
+De Hollandsche Voorschotbank
+HAARLEM, JANSWEQ 42.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnhaven 129a.
+'s-Oravenhage,Qed.Burgw.38
+Maastricht, Breedestraat 24.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van ƒ 5OO
+en verkoopt 4Vi pCt. schuldbrieven in
+stukken van ƒ 1000, ƒ500, ƒ 100 en ƒ 50.
+Nederlandsch-lndische
+
+Brandwaarborg-M'.
+
+OMBricM ii 1890. Gevestigd te Amsterdam.
+SLUIT VERZEKERINGEN tegen
+Schade door Brand op
+Woonen Pakhuizen, Inboedels,
+Jlenbilair, Fabrieken,
+Ktablissementen.
+Kantoor: Singel 262, Amst.
+Kali Besar-West, Batavia.
+l S. 1. W. VAN BlJUREN.
+Directeuren: M. A. VRIESENDORP.
+l E. LANKHOUT.
+Gemachtigde: NEUMANN &amp; Co.,
+Batavia.
+I^ccrnar *"?oekI?OH«I«&gt;ii]W
+OHoiulcf'oetfirstrjiat 7, Amsterdam
+Ti:u:i'00.\ /ui-i iii'--'.
+De RENTE-CASSA,
+Heerengracht 179, (geb. Assoc.-Cassa),
+AMSTERDAM.
+Kapitaal .... ƒ
+1,000,060.Reservefonds . . 1,172,713.37.
+Rentevergoeding voor gelden a Deposito
+Met l dag opzegging (bedragen tot
+ƒ5000 direct te ontvangen) 'A pCt.
+10 dagen opzegging . 2%
+Voor l maand fixe . . . 1/
+2 en 3 maanden fixe S1/
+l jaar fixe .... 3%
+Amsterdam, 9 Febr. 1915.
+4-4-=
+Standaard Hipothtikbank, ti Rottirdam
+Directie: Mr. H. H. O. 0»st8ndflk enJhr.
+H. F. Schuurbeque Boeye.
+De Bank verstrekt gelden onder
+eerste hypothecair verband en
+geeft 4Vs en 4% PANDBRIEVEN
+uit onder controle van het
+Algemeen Administratie en
+Trustkantoor te Rotterdam.
+Rott. Hypotheekbank T, foderL
+Volteekend Maatsch. Kapitaal ƒ 5.000.000
+Reserve ƒ609.920.16
+Geeft geld op eerste hypotheek zon
+
+der vooruitbetaling van rente. Inlich
+
+tingen te bekomen ten kantore der
+Bank, Gedempte Bierhaven 25, of bij
+hare Agenten.
+De Directie: Mr. W. v. ROSSEM,
+Mr. TH. REEPMAKER, Mr. N. P. C.V.WIJK
+UTRECHT
+PAÏTOBBIEVEff
+
+KOERS 100 o
+5°/0 Verzekerde pandbrieven
+der N. V. DK CBKDIET-HYPOTHKKKBAlfK te 's-Gravenhage,
+Npordeinde 43, waarbij elk bedrijfsrisico der Bank voor de houders is gedekt,
+zijn verkrijgbaar a 99 pCt. in stukken van
+ƒ1000.—, ƒ000.—en ƒ100.—.
+De Directie :
+G. ]• VAN INOEN. Mr. H. VAILLANT.
+H.A V. BAMK.SCHIEDAM
+ONGEVALLENVERZEKERING
+.- Reservefonds 18.813.613.
+Hoofdkantoor AMSTERDAM.
+Agentschappen te 's-GRAVENHAGE en ROTTERDAM.
+
+Vestigingen in het Oosten: Batavia, Soerabaia, Samarang, Bandoeng,
+Weltevreden, Cheribon, Tegal, Pekalongan, Djember, Solo, Djokjakarta,
+TjiJatjap, Padang, Medan,, Tebing-Tinggi (Deli), Tandjong Belei,
+KotaRadja, Palembang, Telok-Betong, Pontianak. Bandjermasin, Makassar,
+Singapore, Penang, Rangoon, Hongkong en Shanghai.
+
+In- en Verkoop van "Wissels en Telegrafische Trans
+
+ferten. Incasseeringen en Financieeringen.
+Schriftelgke of Telegrafische Credieten.
+fieiscredietbrieven. Deposito's.
+RekeningenCourant. Administratie van Effecten en alle
+andere Bankzaken.
+OPGERICHT IN 1853 AMSTERDAM OPGERICHT IN 1853
+Hoofdkantoor: Keizersgracht 277, Bijkantoor: Stadhouderskade 118
+Maatschappelijk Kapitaal f 5.000.000, waarvan uitgegeven f4.000.000
+Reservefonds f 780.000 Extra-Reserve f 130.000
+Agentschappen te Alkmaar, Arnhem, Deventer, Dordrecht, 's-Graven
+
+hage, Groningen, Leeuwarden, Maastricht, Middelburg, Rotterdam,
+Tilburg, Utrecht en Zwolle.
+( met l dag opzegging 4 pCt.
+-LJepOSSltO S, rente thans: j voor l maand vast 41/
+\ voor 3 maanden vast 4
+Cheques van deposanten kunnen kosteloos worden betaalbaar gesteld
+bij alle bovengenoemde Kantoren, alwaar uitvoerig Prospectus ver
+
+krijgbaar is.
+Te Huur
+aan den OVERTOOM 135—137.
+Een groote zaal voor alle doeleinden geschikt, vroeger
+ingericht voor Bioscoop.
+De eigenaars zijn genegen een en ander naar wensch
+van den huurder te veranderen.
+Te bevragen bij de makelaars: GrUBR. B. H. &amp; H. KOOLHAAS,
+landsgracht 14.
+Telefoon
+esidentie Hypotheekbank
+O Anna Paulownastraat 97,
+O HYPOTHEEKBRIEVEN
+Na 10 jaren door den houder a pari opeischbaar.
+Te verkrijgen, tegen den koer-s van 1OO pCt.
+
+ZEEUWSCHE HYPOTHEEKBANK
+MlOUKLUUltG.
+De Bank stelt verkrijgbaar:
+in stukken van/lOOO—, /5OO—en/lOO.
+der Bank" en bij H. H. Effecten-Handelaren.
+De Directie:
+Mr. A. A. DE VEER, Mr. M. C. VAN DER MINNE.
+A JI U N A K T B O K K
+BARBAROSSERIE, KAKRmn«»*
+': Een bundel met de beste tooneelkritieken van dezen humorist-satiricus.
+i Ingenaaid ƒ0.90 Gebonden ƒ 1.25
+: Omslag en band van LOUIS RAEMAEKERS. - Uitgave van VAN HOLKEMA i WARENDORF, A'dam.
+'s-Gravenhage.
+
+Pandbrieven
+Na 10 jaar opeischbaar a pari.
+Verkrggbaar a 1OO8/, /0.
+
+</text>
+<image timestamp="2002:08:21:08:12:43.00" size="375980">D40001MO.TIF</image>
+</page>
+</document>

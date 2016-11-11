@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150704</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+4 [uli '15. No. 1984
+(Stelling na 10. a2—a3)
+ZWART
+d e
+WIT
+g
+l
+f
+Zwart speelde 10... Le7, terwijl hij naar
+onze meening door 10... Pd4: in het voor
+
+deel kon komen. Verschillende onzer lezers
+gaven echter aan, dat wit na 11. Pd4: c5
+door 12. Pa4 moest winnen. Dit is niet juist,
+daar dan zou volgen 12... Da5, 13. Db5,
+Dc7, 14. Pf3, c4! en de witte dame is inge
+
+sloten. Vervolgt wit met 15. Pc3 dan gaat
+na 15... a6, 16. Pd5: niet op wegens 16...
+Lc5f en wint. Ook indien wit inplaats van
+16. Pd5: speelt 16. Da4 helpt dit niet, want
+zwart vervolgt met 16... Lc5f en 17. O—Q
+en b7—b5 met winst der koningin. Op 14.
+Pb3 vplgt ook 14... c4 en na 15. Pa5, Tb8
+heeft wit niet beter dan 16. Pc4: bijv. 16...
+dc4: 17. b3, a6, 18. Dc4: Dc4: 19. bc4: Tc8
+(20. Tbl? Tc4:) en zwart staat het best.
+De beste zet van wit na 10... Pd4: 11.
+Pd4: c5 is, zooals de heer van Trotsenburg
+aangaf, 12. Pd4—b5. Zwart kan dan niet
+meer dan ongeveer gelijk spel krijgen, bijv.
+12... a6*), 13. Pd6f Ld6: 14. ed6: c4f 15.
+De3, d4, 16. Dg3, dc3: 17. Le3, Dd6: enz.
+De conclusie is dus, dat voor zwart wel
+10... Pd4: speelbaar was, maar geen voor
+
+deel oplevert. Het beste was wel 10... c5
+(11. Db5? Dc7) 11. dc5: Lc5: 12. Khl, 0-0
+
+*) Niet terstond c4 wegens het ant
+
+woord Le3!
+enz. waarna de zwarte stelling iets beter is
+dan de witte.
+
+Een andere opmerking geldt onderstaande
+stelling:
+(Stelling na 16... Pd7-f8)
+ZWART
+a b c' de fg h
+WIT
+
+We schreven: Wit kon thans door 17.
+Ph7: het spel winnen, bijv. 17... Ph7: 18.
+Lh6: Lh6: 19. Tf7: Kf7: 20. Dh7:f Lg7, 21.
+Tflf Ke7, 22. Dg7: Kd8, 23. Tf7 enz."
+Op 19... Pf8, 20. Tf6? Lg7, 21. g5 echter
+kan, zooals de heer van Trotsenburg terecht
+opmerkt, zwart 21... Db2: spelen en na 22.
+Tfl (of anders) krijgt zwart door 22... Da3:
+een kansrijk tegenspel door het opspelen van
+den c-pion, zoodat de winstkansen eerdei
+aan zwart dan aan wit komen.
+Wit kan echter in plaats van 20. Tf6 veel
+beter spelen n.l. 20. Tafl. Zwart heeft dan
+niets beters 20... Dd8 (bijv. op 20... Lg7:
+kon volgen 21. Df3, Dd4: 22. Tg7:f gevolgd
+door Df7f en wint) en na 21.Tf7—f6, Lg7,
+22. g5, Te7, 23. g6 heeft wit een krachtigen
+aanval, die vermoedelijk tot winst moet
+leiden, doch moeilijk te analyseeren is.
+Uit- deze beschouwing blijkt, dat de heer
+Davidson terecht zich met deze moeilijk
+door te rekenen speelwijze niet inliet, maar
+liever met Pe2 enz. vervolgde, welke zet
+veilig tot winst moest voeren.
+12e Jaargang 4 Juli 1915
+Redacteur: K. C. DE JONGE
+Van Woustraat 112n, Amsterdam
+
+CORRESPONDENTIE
+J. B. te A. Uw probleem ontvangen. Er
+blijven echter na den slag te veel zwarte
+schijven over en er zijn twee eerste zetten
+in. Het eindspel is wel gewonnen, maar het
+aantal varianten is legio, 't Is best mogelijk
+eenige zwarte schijven weg te nemen. Ziet
+u het dus nog eens na.
+
+OPLOSSING PROBLEEM No. 43
+VAN S. GOBETS, AMSTERDAM
+Stand. Zwart: 2, 5/7, 9, 12/14, 17/19, 22, 26.
+Stand. Wit: 11, 25, 27, 29, 31/34, 36/39.
+
+Wit: 32-28, 29-24, 27-21, 37-32, 32:21
+Zwart: 7:16, 19:30, 16:27, 26:37, 17:26
+
+28:10, 38-32, 33:41
+'5:14, 37:28
+Als eersteling van dezen problemist kunnen
+wij zeggen dat de stand zeer natuurlijk en
+spelachtig is. De laatste zet van zwart is
+zeer goed verklaarbaar. Jammer dat er
+twee eerste zetten zijn n.l. 29-24 en 32-28.
+Overigens zijn de zetten niet verwisselbaar.
+Het is na 19:30 van zwart gemakkelijk te
+zien dat zich een slag moet ontwikkelen
+naar 10 en vervolgens naar 4. De 4e zet
+37-32 is aardig om door 32:21 de zwarte
+schijf op 17 te verwijderen. Het geheel is
+niet diep in afwikkeling, maar geeft het
+praktische spel weer!
+
+OPLOSSING PROBLEEM No. 11
+VAN BLIJDENSTEIN"
+Stand. Zwart: l, 2, 9, 15, 16, 41 en 2 dammen
+op 3 en 27.
+Stand. Wit: 12, 17, 20, 23, 25, 28, 39, 42.
+Wit: 17-11, 28-22, 22:4, 4:151
+Zwart: 3:18, 15:24, 16:7
+
+PROBLEEM No. 45
+VAN J. LUTEIJN, GROEDE
+Eerste publicatie
+Zwart (9 schijven)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (10 schijven)
+Stand. Zwart: 6/8, 11, 14, 20, 24, 25, 31.
+Stand. Wit: 21/23, 27/29, 34, 36, 39, 43.
+
+PROBLEEM No. 13 VAN BLIJDENSTEIN"
+Zwart (7 schijven l dam)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (8 schijven)
+Stand. Zwart: 2, 8, 9, 11,16,24,27, dam op 17.
+Stand.Wit: 22, 25, 28, 31, 33, 43, 47, 49.
+
+Oplossingen worden binnen 14 dagen inge
+
+wacht aan bovenstaand adres.
+Goede oplossingen ingezonden van pro
+
+bleem No. 10 van Blijdenstein door A. A.
+Snijders, Fort a/d. St. Aagtendijk; S. S. van
+Baaien, I. Heertje, D. S. Nerden, L. Nijkerk,
+S. Serlui, H. Vos, allen te A'dam; J. Kense
+en W. Luteijn Az. te Breskens; W. B. J.
+Heertje te Goirle; J. Luteijn, Groede; H. van
+Abbe, Naarden; A. J. Oskam en E.
+Rosenbaum te Utrecht; G. Swait, Fort Velsen
+bij Beverwijk.
+
+
+HET DAMSPEL VOORHEEN EN THANS
+
+(Vervolg)
+
+Wanneer men nu alleen maar doelloos
+schuiven kan, dan is het natuurlijk eene
+onmogelijkheid om combinaties te maken
+die vermeldingswaard zijn.
+Speelt men nu met een goede speler, dan
+bemerkt men al heel spoedig dat men ge
+
+woonlijk een gedrongen stand krijgt en de
+partij verliest, zooals er nog nimmer een
+verloren is.
+Waaraan dit verlies toe te schrijven ? Wel
+heel eenvoudig. De tegenspeler maakte be
+
+rekeningen terwijl dit door u niet geschiedde.
+n verkeerde zet kan het verlies ten
+gevolge hebben van een of meer schijven,
+of in onze stelling wordt een bres gemaakt
+die men niet meer kan herstellen en waar
+men paf van staat.
+Een klein positievoordeel is bij de volgende
+zet meermalen omgezet in groot nadeel.
+Men spele dus niet te vlug. Bij eindspelen
+wordt nog meer geeischt, daar wordt door
+een verkeerden zet een gewonnen stand
+remise. Als voorbeeld den navolgenden stand:
+
+Zwart 2 schijven op 32 en 45.
+Wit l schijf op 29 en 2 dammen op 5 en 50.
+In deze stelling moet zwart spelen. De
+eenige zet is 32-38, wanneer wit nu zou spelen
+5-37 of 29-23 dan is het spel onherroepelijk
+remise. Maar wit die veel studie van eind
+
+spelen heeft gemaakt speelt 50-44, nu kan
+zwart vervolgen met 38-42, 38-43 of 45-50.
+Op 38-42 of 43 volgt 44-40! zwart 45 : 23,
+wit 5:48 of 49 en op 45-50 volgt wit 29-23,
+zwart 50:19, wit 5:49!
+Met dit voorbeeld meenen wij aangetoond
+te hebben de gevolgen van een verkeerden zet.
+
+(Wordt vervolgd)
+enz
+AMMTERDAa.
+
+AMERICAN HOTEL.
+Pension. Café-Restanrant.
+LEIDSCHEPLEIN.
+ZAJÏDVOOKT.
+
+Hotel Beau Site".
+Familiehotel Isten Rang. Prach
+
+tige, rustige en vrije ligging aan
+zee. Voor- en naseizoen speciaal
+tarief. Prosp. op aanvrage.
+* H. A. KLEIN.
+AMSTERDAM,,
+Hotel •
+mSNAPOLSKY,
+HOTEL BOY U, Haarlem. Tel. Int 87
+Het voornaamste Hotel en Restau
+
+rant aan het Stationspi, gelegen.
+Kamers met degelijk ontbijt a ƒ 2.
+De nieuwgebouwde Zaal is speciaal
+ingericht voor het houden van Ver
+
+gaderingen en Diners. Het geh. geb.
+is Elec. verlicht. ANT.' MEYER.
+ARNHEM
+Hotel ORANJE NASSAU
+tegenover het Station (links).
+Modern ingericht. Restaurant.
+Matige prijzen.
+Restaurant MUfSIS SACRUM
+Velperplein, 3 minuten per electr.
+tram (lijn 1) van het Station.
+Directie: F. SIMOIf.
+«RAND HOTEL
+. ZAND VOORT.
+Voornaam huis van den eersten rang.
+K. B. WÜST, Eigenaar.
+is datalfeen echfeKarlsbader
+S
+Voor Natmaak en vervaisching wordt gewaarschuwdL
+BAD-NAUHEIM
+iu den T AU M C S.
+Kunrtijtl van 16 April tot 15 October.
+Baden en drliikkimr het geheele jaar.
+Uitstekende geneesresultaten bjj
+HARTZIEKTEN, Rheumatiek, Jicht, Ruggemerg, |
+Vrouweziekten, Geschokt Zenuwgestel,
+Genezing van Beenbreuken enz.
+Prosp. en alle inl. gr. Intern. Verkeers-Bur., Amst., Raadhuisstr. 2.
+• 'IWHBV'^^S^ _ : ^*™*B**^ rtfï. . i^E\ • ^^^^^^^ ^^^w ; • •
+ZAAPHAWDEL AMSTERDAM.'
+DAAN HOEKSE M i
+
+VORMEH ZONDER PLAKKEN"
+zijnde No. 1—16 onzer geheel
+nieuwe serie
+
+De Wereld in het Klein"
+Alom te bekomen voor 7^ cent
+per plaat of in fraaie mappe met
+8 platen 60 cent. Uitgave QEBRs.
+KOSTER, Leliegracht 31, A'dam.
+ALGEMEENE
+Maatschappij van
+Levensverzekering
+en Lijfrente =
+TE AMSTERDAM, DAM RAK 74.
+Directeuren :
+J. F. L. BLANKENBERG, Mr. J. VAN SCHEVICHAVEN en Jhr. Mr. H. SMISSAERT.
+
+Van de oprichting der Maat- } 3§3 MilÜOCn
+«cbappij tot 31 December 1911 wer- &gt; _j,
+dia gesloten 120549 polissen, met J -&gt; j 2 11
+
+Hoofdinspecteur voor Nederland:
+P. A. ADAMA VAN SCHELTEWIA, Nic. IV.aesstraat 51, AMSTERDAM.
+Inspecteur voor Amsterdam : A. VAN DEiM STEENHOVEN,
+Leldschekade i5, Beurs bij Ban, 36, AMSTERDAM.
+
+Vraagt tarieven
+voor onze
+GEZIIiSPOLIS
+UITSTEKEND TONICUIM.
+Bestaande uit prima portwijn, vieeschextract en moutextract.
+Bekroond met gouden medaille Wereld-Tentoonstelling Brussel 1910.
+WINCARNiS" is een zeer aangenaam smakende, toniseerende
+wijn, aangewezen bij verschillende zwakte-toestan d e n, uitput
+
+ting, bloedarmoede en reconvalescent i e.
+
+Prijs per groote flescti f 3.—, per kleine flesch f 2.—.
+Verkrijgbaar bij alle Apothekers en Drogisten; en bij het
+Generaa!Agentschap voor WINCARNIS":
+
+Leidschekade 64, AMSTERDAM.
+Onder voortdurende controle van Dr. P. J. SCHIEVEEN
+BORGMAN, Mosseltrap 2, Rotterdam.
+Aanbevolen door een zeer groot aantal Dohtoren.
+•l
+VRAAGT ONZE GRATIS BROCHURE VAN 40 PAGINA'S
+Heemstede,
+j bij Haarlem.
+Electrische Boekbinderij
+
+J. L. VAN LITH en ZOON,
+BLOEMGRACHT 8, AMSTERDAM.
+- TELEFOON 6497.
+Fabriek van Portefeuilles, Albums, Eindwerk enz.
+in alle uitvoeringen.
+'T HOOGT VAN 'T KRUIS
+HILVERSUM.
+Te koop beboschte en heuvelachtige bouw
+
+terreinen, gelegen aan het mooiste gedeelte
+van den UTRECHTSCHENSTRiATWEG.
+Nadere inlichtingen bfl de Dir. van de Centrale
+Exploitatie Mg. te Amsterdam, te Hilversum en
+bij de Makelaars te Hilversnm.
+5TEEN-BDEK EN HANDELSDRUKKERIJ
+H.G. WASMOETH
+F SINGEL 313-315. TELEFOON N 9617. '
+AMSTERDAM. .,
+TEVENS BINOERM EN LIMIEEROERIJ II
+GEOPEND VAN TUUR-fiUUR -S NAMIDDAGS.
+THE RED STAR SODA WATER C°.
+HIGH-CLASS MANUFACTURERS OF
+AERATED AND MINERAL WATERS
+Eenig Importeur P. J. VER A AR - Amsterdam.
+OP6MICMT
+1070
+6EVBTMO
+Verstandig
+
+is diegene, die zijn waarde
+in een Brandkast wegsluit.
+Een
+
+De Haas Brandkast
+| is van het beste en
+™ duurste staal gemaakt.
+'a Zij is absoluut
+betrouwbaar en veilig.
+Vraagt prijscourant.
+
+DE HAA-S
+
+R'DAM.
+Mevr. G. v. d. BBINK,
+Corsetière,
+Keizersgracht 717.
+A'DAM. TEL. 1J51. ATELIERS VOOB BEPABATËN.
+STEUNZOLEN
+(systeem Prof. HOFFA)
+met opstaanden buitenrand, die
+Ie ronding van den hiel omvat,
+herstellen den platvoet. J. A.
+M A SS IN G, O. Z. Voorburgwal
+334, Amsterdam, tegenover het
+Jinnen-Gasthuis.
+UITGAVEN VAN J. B. WOLTERS TE GRONINGEN.
+
+
+S WOORD^OEKEHTÉiJli \
+Tlr.._l e
+33- K. TEN BRÜG6ENCATE '• Engelsch-Nederiand?ch. '
+l L. VAN DER WAL,
+II. Nederlandsch-Engelsch.
+Ce druk, ƒ5,40 in half leer in l deel of
+2 deelen in linnen f 5,40.
+L VAN GELliEHEN,
+I. Duitsch-Neder andsch =g
+
+II. Nederlandsch-Duitsch. ==
+ge druk, ƒ5,80 in half leer in l deel of
+2 tfee/en in /innen f 5,80.
+C.RC.HEBIJKENRATH,
+I. Fransch-Nederlandsch. g
+
+11, • Nederlandach-Fransch. ^
+
+'2e druk, ƒ 4,50 in half leer in l deel of ^
+2 dealen in linntn f4,50. s
+(Het eenige Fransen Woordenboek, dat bij =
+ieder woord de uitspraak phonetisch aangeeft), g
+
+VERKLAREND HANDWOORDENBOEK ^
+f We druk, 1 doel in linnen f 2,75. i
+
+UITGAVEN VAN J. B. WOLTERS TE GRONINGEN.
+TOERISTEN
+
+TENTEN
+
+P. H. kade 12
+Telef. 4141 en 4171.
+J. HUL O O
+1E53XT.
+Levensverzekering- *
+Maatschappij
+Maatschappelijk Kapitaal:
+EEH MIL T.I&amp;E Jf GTI.BE2Ï (rolfteekend).
+
+BtihitHr: L, KI, BEÜKMAB, 01 Mtertoifd 95, Ant,
+MOTOR- en ZEILJACHTEN'
+ROEIVAARTUIGEN, SCHEEPSMOTOREN.
+N.V. W«rf De Amstel", Dir. THIEBOUT,
+Onder-Amstel.
+&lt; 'v»&lt;•-• •&gt;••-.• • .
+Typ. Amst. Boek- en SteendrukkeriJ, v/h Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:21:15:18:31.00" size="462715">D40001TW.TIF</image>
+</page>
+</document>

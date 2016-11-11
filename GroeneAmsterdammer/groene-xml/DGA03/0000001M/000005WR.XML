@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250912</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2518
+J. ». STRIJIJS &lt;&amp; Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+Verweegen &amp; Kok
+AMSTERDAM - DEN HAAG
+DAIVLESTASSCHEN
+van de eenvoudigste tot de meest
+luxieuse uitvoering
+Kasteel De Cannenburgh
+Vaassen bij Apeldoorn
+Niet te verwisselen met Hotel CaféDe Cannenburgh in het dorp.
+Pension, Roeien, Visschen, Groot Park, Garage,
+Theetuin, Uitstekende Keuken.
+Oscilleerende Tafelventilatoren compleet 220 Volt
+wisselstroom Fl. 45.00
+
+D. OBERINK &amp; Co.,
+INGENIEURS
+Amsterdam, Prinsengracht 456. Tel. 37452
+HET STEMPEL
+VOOR
+PRIMA
+WERK
+TEL. 60121
+ASTERWEG o.n.f 5 LIJNEN
+AMSTERDAM. e
+In ieder huis
+His Master's Voice
+Importeurs:
+
+THE mm IMPOST COMPAB
+Amsterdamsche Veerkade 22a
+DEN HAAO
+Geaccrediteerde agentschappen
+voor Amsterdam:
+GRAMOPHONE COMPANY
+AGENCY
+Reguliersbreestraat 42
+P. J. RICHTER
+P. C. Hoofdstraat 125
+A. M. TUREL
+Willemsparkweg 67
+BLGRAFENISVEREENIGING
+N. SAX Jr.
+l P.C. Hoottstraat 38 AMSTERDAM Telet.: 20341, 24250 j
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADR1AAN SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Blaat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar ~~"~"~~~"~~~~
+N. R. V. nONTA SCHOENEN
+Een heerlijk landschap, een rustig zitje en een glas
+
+LIEVEGOED'S KERSENLIMONADE,
+de meest verfrisschende en gezonde drank!
+Engros bij N. V. DE HOUTTUINEN Amsterdam.
+en Reisartikelen met garantie.
+Paleisstr. 45-47. Tel. 35013
+V.H. J. N. MULLER.
+GERARD B. RIJKE Jr. - BINNEN ARCHITECTUUR
+COMPLETE MEUBILEERING
+VERPLAATST VAN AMST EL 1 2O-1 22
+NAAR
+KEIZERSGRACHT 559
+IN VERBAND HIERMEDE IS ONS TEL.-NUM M ER GEWIJZIGD IN 30559
+Kleedermakerij naar Maat
+voor Oimèi
+•n HMCII
+Cem—Be^riefj or fsstr.
+
+MODE SHOW
+op Dinsdag 15 Sept. a.s. te 2V4 uur gebouw Haarl Kegelbond, Tempelierstraat 35
+Kaarten op aanvraag verkrijgbaar a fl.—per persoon incl. belasting.
+Bontmantels, Dameshoe den,
+Mantels en Costumes
+RENEE
+H. K K J£ N TC R
+voorheen Coupeur der Flrmi P, M. BROEKMANS, Koningsplein, Amiterdin.
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+
+SlSL^ïlsri".': • : : : '„~ S»"1™ «»»••
+Mantelcostuuma van al .... «5.—rrima
+Stalen op a
+
+Speciale Aanbiedingen
+Zuiver Linnen Bordendoek 65 cent
+Zuiver Linnen Handdoek 75 cent
+ij Prima gekleurd Ontbijtstel met zes Vingerdoekjes f4.50
+l i Complete Huwelüksuitzetten, speciaal lage prezen j!
+P. C. HOOFTSTRAAT 113
+TELEFOON 23308
+AMSTERDAM g
+K
+W
+B. J. MULDERS
+TUIN ARCHITECT
+Gevers Deynootweg 117 Scheveningen
+Tolefoon SO81O
+
+</text>
+<image timestamp="2002:09:03:18:27:35.00" size="145296">000005WR.TIF</image>
+</page>
+</document>

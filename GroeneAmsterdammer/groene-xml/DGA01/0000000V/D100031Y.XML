@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19181012</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DUITSCHLAND's O FF ER AAN DE VREDESGODIN
+Nadruk verboden
+RMVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van n Ortober
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+
+
+
+Priester WiSson: Nog dwarrelt de roo2; omlaag. Groot moet uw offer zijn, om te worden aanvaard!"
+
+</text>
+<image timestamp="2002:08:23:22:26:31.00" size="736230">D100031Y.TIF</image>
+</page>
+</document>

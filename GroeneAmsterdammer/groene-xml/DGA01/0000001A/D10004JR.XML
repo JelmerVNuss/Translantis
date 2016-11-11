@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960517</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een ondernemend Wethouder.
+BIJVOEGSEL van de Amsterdammer. Weekblad vuor Nederland, van 17 Mei 1896.
+Prof. Trcnl&gt;: Broertje, broertje pas op; die furor opcrainii is zoo gevaarlijk!
+Weth. Trcub: Ja Hector. maar ik ben er nu zeker van, dat ik mijn diagnose goed heb gesteld.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:04:13:46:08.00" size="415624">D10004JR.TIF</image>
+</page>
+</document>

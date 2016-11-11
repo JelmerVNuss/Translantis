@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280310</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10 Maart 1928
+roene ^mslerdammcr,
+feekbladvoor Nederland
+AbonnementBprQa per Jaar ƒ 10.»
+
+Advcrtentiën f 0.75 per regel
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+
+LoBse nnmmera25ceats
+MODEBLAD SUZANNE"
+l
+00
+(LA COUPE EXQUISE)
+
+
+Het nieuwe nummer voor Voorjaar
+
+en Zomer 1928 is verschenen.
+
+Luxe uitgaven met talrijke prachtig
+
+gekleurde platen
+
+
+Franko toezending na ontvangst Postwissel a f 1.15
+ONZE
+
+ULLSTEIN AFDELING
+
+stelt haar kliëntele in de gelegen
+
+heid, gebruik te maken van een
+biezondere prijsreduktie voor de
+
+HOLLANDSCHE
+
+
+SCHOUWBURG
+De gereduceerde prijzen zijn:
+(inkl. alle rechten en bespreken)
+Fauteuil, Loge
+
+en Stalles . .
+Zij loge
+terre
+Een bewijs hiervoor wordt
+verStrekt bij iedere aankoop in onze
+
+ULLSTEIN
+
+AFDELING
+Prijsreduktie niet geldig voor
+Zaterdag- en Zondagavend.
+
+
+
+GERZON
+Nfi.A.KLOO5TERHUI5
+AMSTERDAM
+LES TEMPS NOUVEAUX
+
+BRONZES
+1.1 A. C. VAN ROSSEM,
+
+ROTTERDAM. -&amp;»
+V.KOSSEM'S
+
+</text>
+<image timestamp="2002:09:04:07:35:24.00" size="187313">000006DD.TIF</image>
+</page>
+</document>

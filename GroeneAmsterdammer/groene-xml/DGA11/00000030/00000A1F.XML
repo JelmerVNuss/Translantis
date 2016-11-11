@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320227</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KONINKRIJK DER NEDERLANDEN
+
+
+
+
+Nederlandsche Staatsleening 1932
+
+UITGEGEVEN KRACHTENS DE LEENINGWET 1932 EN DE TWEEDE LEENINGWET1932,
+
+
+
+groot nominaal f
+186.000.000.
+waarvan reeds is geplaatst f 34.57O.1OO.-, terwijl bovendien de
+deelneming is verzekerd totfeen bedrag])van f 35.0OO.OOO.-.
+
+(Inlhet totaal der krachtens bovengenoemde wetten thans uit te geven bedrag ad f 250.000.000.—wordt
+ingevolge de wet van 29 December 1928 (Staatsblad No. 507), tegen de bij die wet bepaalde rente, door de
+Rijksfondsen deelgenomen voor f 64.000.000.—).
+
+KOERS VAN UITGIFTE 100 pCt.
+
+
+Schuldbewijzen aan toonder groot f1000.-, f500.- en f
+100.
+Af losbaar a pari, bij uitloting, in ten hoogste 40 jaar te beginnen l April 1933
+
+RENTENDE 5 pCt.
+
+De coupons zijn betaalbaar per 1 April en 1 October
+
+De inschrijving geschiedt: "™^"™"^~~""""""""""""~~
+
+
+op WOENSDAG 2 MAART 1932
+
+van des voormiddags 9 tot des namiddags 4 uur,
+
+met recht van voorkeur op het niet reeds geplaatste deel, voor houders van obligatiën der
+
+6 pCt. Staatsleening 1922A, welke per 1 April 1932 geheel wordt afgelost, bij:
+
+de NEDERLANDSCHE HANDEL-MAATSCHAPPIJ, N.V. te Amsterdam, Rotterdam en VGravenhage.
+de AMSTERDAMSCHE BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+de BANK-ASSOCIATIE te Amsterdam, Rotterdam en 's-Gravenhage,
+Wertheim &amp; Compertz 1834 en Credietvereeniging 1853, N.V.
+DE TWENTSCHE BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+de BANQUE DE PARIS ET DES PAYS-BAS te Amsterdam.
+HELDRING &amp; PIERSON te 's-Gravenhage.
+HOPE &amp; Co. te Amsterdam.
+de INCASSO-BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+LIPPMANN, ROSENTHAL &amp; Co. te Amsterdam.
+R. MEES &amp; ZOONEN te Rotterdam en 's-Gravenhage.
+de NEDERLANDSCH INDISCHE HANDELSBANK N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+de NEDERLANDSCH-INDISCHE ESCOMPTO-MAATSCHAPPIJ te Amsterdam. Rotterdam en 's-Gra\rnha!»o.
+PIERSON &amp; Co. te Amsterdam.
+de ROTTERDAMSCHE BANKVEREENIGING, N.V. te Amsterdam, Rotterdam en •s-Gravenhage.
+GEBR. TEIXEIRA DE MATTOS te Amsterdam.
+VERMEER &amp; Co. te Amsterdam.
+De gelegenheid tot inschrijving is eveneens opengesteld bij liet Agentschap van h.-t Ministerie va.ii Finan
+
+ciën te Amsterdam.
+Inschrijvingsbiljetten en prospectussen zijn bij deze kantoren kosteloos verkrijgbaar.
+De STORTING van het verschuldigde wegens toegewezen schuldbewijzen moet geschieden ten kantore van inschrijving, op:
+
+Vrijdag 1 April 1932.
+Voor verdere bijzonderheden raadplege men het prospectus.
+De '.Minister van Financien.
+'s-GRAVENHAGE, 22 Februari .1932. DE (iEER.
+
+</text>
+<image timestamp="2002:09:26:17:51:13.00" size="98344">00000A1F.TIF</image>
+</page>
+</document>

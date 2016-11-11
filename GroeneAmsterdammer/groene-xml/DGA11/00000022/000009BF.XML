@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300621</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VERBQUW1NGSUITVERKOOP
+Wanneer onze verbouwing en uitbreiding gereed
+zijn, dan wenschen wij in alle artikelen een
+geheel nieuwe collectie te kunnen voorleggen.
+
+Behalve dat wij een korting van 10°/o op de allernieuwste en courant*
+ste artikelen toestaan, ruimen wij incomplete series en restanten
+in alle rayons tegen exeptioneel lage prijzen op. Bijvoorbeeld:
+
+HEEREN COLBERT COSTUMES
+.... 42.—48.-
+60.van
+voor.
+29.- 39.-
+49.HEEREN
+VOOR* EN NAJAARSJASSEN
+.... 34.- 46.-
+59.van
+voor.
+19.- 29.-
+39.van
+voor.
+JONGENSPAKKEN
+Leeftijden ca 10 jaar
+.... 15.75 19.50 22.50
+90
+15
+Met de gewone stijging per maat
+
+HEEREN OVERHEMDEN
+van f 5.—voor
+ALLE MODELLEN DAMES-MANTELS
+EN COMPLETS MET 33'A % KORTING
+BONTMANTELS VAN EDELBONÏSOORTEN
+TEGEN DE HELFT DER NORMALE PRIJZEN
+Wij kunnen geen goederen tegen uitverkoopprijs op zicht zenden
+
+COLBERT COSTUMES
+NAAR MAAT
+Normale prijs 88.- 98.- 108.- 118.- 128.-
+158.
+Thans . . Serie I /O.- Serie II JO.~
+Serie II!
+Onze coupcurs kunnen niet buiten onze zaak inaat nemen en passen,
+
+NIEUW ENGELAND
+KONINGSPLEIN
+AMSTERDAM
+PROBLEME1
+SCHAAKPROBLEEM 240
+van J. MINCKWITZ ]
+a b c d e f 5( h
+Wit: Kg2, Ta4 on «10, Leo &lt;-u h
+Pdó, pionnen: b3 en c2.
+H'art: Ke5, L/b8, Ph7. pionnen: .t
+b6 en c6.
+Wit geeft mat in di'ie zetten.
+Oplossing in het oerstvolgeu
+nummer.
+Oplossing probleem !No. 239 \a
+C. Mansfield.
+1. Pb8—C6,
+Correspondentie-adres: Dr. A. (.
+Olland, Burgemeester Park 4o, Dri
+bergen.
+
+DAMPROBLEEM 244
+van C. Th. HüIZER, den Haas
+Zwart 11 schijven, l dam.
+
+Wit 11 schijven
+Stand Zwart: l .3. 6, 9, 13. 14, In.::
+21,27,31, dain u-,,
+\Vit: 11. 12, lö/ls, 23.
+2u,33,34,3s.44, i,'
+Oplossing probleem Xo. 243.
+_Wit: 25-20, 32-27. 42-37. 3&gt;J-:
+Zwart: 14T23, 21:41, Tl"TF5Ï". 2Ï':f
+47-42, 40-34, 33-28. 29:27. 30:4. 4;.)
+37TÏS, 18:30, 22733,"l«:2(l, 13:21.
+(^orrespondentie-adTcs: K. C.
+Jonge, Van Woustraat 112n, Amst.
+dam (Zuid).
+
+BRIDGEPROBLREAÏ21 4
+B(Hnde)
+V(oorliand)
+B heeft (ji'C
+L 3 in !&lt;.; V
+•n rn bii-ilt l ;u :-, i • ',
+in H.; B -l in K',, ,\ •!
+L :&gt; in R., allen
+V konil uil niet KI. 2. tiYürvi.i ;:.:,,•!
+
+OPLOaSlNO BRII)Cirrl'!&lt;! '!l! l ! A, ',-'i
+\ ' 11 l \\ l' x l l
+II l l &gt;&gt;•, W : II S: \ l
+III N II l) H ! ) ' \ \
+l\ / l 11 t \\ Si1 \ ~~
+\ \ KI l O I l
+•\ l Vv l l N '-tl l
+N
+l i
+
+</text>
+<image timestamp="2002:09:25:19:20:22.00" size="166696">000009BF.TIF</image>
+</page>
+</document>

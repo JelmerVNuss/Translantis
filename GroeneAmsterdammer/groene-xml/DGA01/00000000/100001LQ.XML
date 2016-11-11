@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980515</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Fransche Minister van Buitenlandsche Zaken door de
+Nederlandsche Regeering gedecoreerd.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 15 Mei 1898.
+
+,?£.-
+'* /
+VI
+•
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harrns &amp; Co.
+MINISTER DE BEAUFORT (tot Minister Hanotaux) : Ue Nederlandsche natie acht het y.ich een eer U met het grootkruis van
+
+den Leeuw te sieren .... haar Leeuw zelf staat zij niet af.
+
+</text>
+<image timestamp="2002:08:12:22:19:07.00" size="376021">100001LQ.TIF</image>
+</page>
+</document>

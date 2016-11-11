@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260619</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2559
+J. D. STRUIJS 8 Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+Stanüard
+De populaire
+EngelscheAuto
+die iedereen voldoet
+DIRECT LEVERBAAR.
+Hoofdagent: J. WITMONDT
+21 Westermarkt Amsterdam.
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+BOUWT IN HET KINHEIMPARK
+Ie Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijk»
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+•au di electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+DEN HAAG
+PlANOi.ORGELS
+Boekhorststr 149. TeleF: 13051.
+VOOP alle doeleinden
+N.v
+Chem.Kunstinpichting
+DirkScimdbei
+Amsterdam.
+Firma KRONER
+
+Nieuwendijk 167, Amsterdam
+
+Opgericht 1847, Telef. 43186
+PRIMA
+Macco Hecrcn Ondergoederen
+Hemden Korte mouw
+Gr. 4 5 6
+3.75 4.10 4.45
+Borstrokken Lange mouw
+Gr. 4
+2.85
+3.00
+6
+'3.15
+7
+3.40
+Borstrokken Korte mouw
+Gr. 4 5 6 7
+2.65 2.85 3.10 3.35
+Gr. 4
+2.85
+
+Pantalons
+567 4/6 5/7 6
+3.00 3.30 3.60. 3.90 3.30 3.60 3.90
+
+Pantalons Knie model
+
+Gr. 4 5 6 7
+3.50
+2.75
+3.00
+3.25
+Verweegen 6 Kok
+AMSTERDAM
+DEN HAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar j|
+N. R. V, MONTA SCHOENEN l
+LIEVEGOED'S KERSEN LIMONADE
+= VERFRISSCHEND EN GEZOND =
+LIEVEGOED'S FABRIEKEN - A'DAM.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+DORDT
+000 FIRMA T. G. M E I] E R
+000 ' ' 000
+^0&lt;&gt; 2 Markten - GRONINGEN - Opgericht 1706 ^&lt;&gt;^
+SPECIALITEIT IN
+
+ECHTE GRONINGER KOEK
+
+0^0 van f L—, f 1.50, f2.—£2.50, f3.—enz. 0^0
+000 Franco per post 50 Cents verhooging 000
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+B. J. MULDERS
+TUINARCHITECT
+Gevers Deynootweg 117 Scheveningen
+TELEFOON 50810
+
+</text>
+<image timestamp="2002:09:25:19:18:27.00" size="155652">D10007OX.TIF</image>
+</page>
+</document>

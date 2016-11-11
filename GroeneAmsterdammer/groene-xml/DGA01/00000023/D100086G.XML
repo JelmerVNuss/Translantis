@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261204</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2583
+4'
+_
+VERSCHENEN:
+EEN NIEUW MOOI MEISJESBOEK
+De
+IN DE PAGEKOPSERIE
+DOOR
+TINE BRINKGREVE-WICHERINK
+
+
+Prijs keurig gebonden . . , . f 2.90
+
+Dit aller genoeglijkste verhaal zal bij de meisjes zeer in den smaak vallen. Goesche Courant.
+
+In de bekende Pagekopserie" kwam juist een nieuw meisjesboek uit van de bekende
+schrijfster Tine Brinkgreve. Het is een frisch en vlot geschreven boek, onze meisjes zullen het
+dan ook met pleizier lezen. Bredasctie Courant.
+
+In de Pagekopserie" -verscheen een boek, dat weer uitblinkt door prettigen verteltrant
+en door de talrijkheid van blijde tooqeeltjes en gesprekken. Een zonnig boek, waarin het
+echter ook niet aan ernstige woorden ontbreekt. Twentscfi Zondagsblad.
+
+Uitgave van VAN HOLKEMA &amp; WARENDORF's Uitgevers-Maatschappij Amsterdam
+
+
+^f ,/&amp;^;' ,j-, ^pr
+••	$—» ^--^....^^	&gt; v *•
+De beste REISLECTUUR
+
+is een deel uit de
+
+
+DAALDERS-EDITIE
+
+Prijs gebonden in linnen band en
+
+met gekleurde kopsnede f 1.50
+Elk deel is voorzien van een
+pakkend geïllustreerd omslag.
+No.
+1. OM PAPA's PRINCIPE, door
+F. de Sinclair, 4de druk.
+2.
+DEDRIEDAMESCNUSSE- WINKEL, door Minca
+Verster-Bosch Reitz, 3de druk.
+7. BARON SELDERIE, door
+F. de Sinclair, 3de druk.
+8. 'N SCHAT VAN 'N
+VROUWdoor Minca Verster-Bosch,
+Reitz, 2de druk.
+9. JANNEKE DE PIONIER
+
+STER, door Louise B.B., 3de
+druk.
+11. HET JOODJE, door Carry
+van Bruggen, 3de druk.
+12. DE WITTE VALLEI, door
+G. van Hulzen,
+13. HET LOON DER BRAVEN,
+door F. de Sinclair, 3de druk.
+14. DE KRACH" VAN
+RENSWOUD, door F. de Sinclair,
+3de druk.
+15. GELDJAN.door Jaak Boonen
+16. DE DRIEDUBBELE
+VROUW, door F. de Sinclair,
+2de druk.
+17. OLGA WARNATE'S
+SCHOENTJE VAN SLAN
+
+GENHUID, door Minca
+Verster-Bosch-Reitz.
+18. EEN NAGELATEN BE
+
+KENTENIS, door Marcellus
+Emants, 2de druk.
+19. EEN DROOMER TER
+HARINGVANGST, door
+Bernard Canter, 2de druk.
+20. DE DOODE, door G. H.
+Priem, 2de druk.
+21. EEN MISDEELDE, door
+Louise B.B., 2de druk.
+22. DE DOCHTER, door Top
+Naeff, 4de druk.
+23. FREULEKEN, door Herman
+Roelvink.
+24. PENSION VINK, door F. de
+Sinclair.
+25. ELVIRA EN DE KAPSTOK.
+door Herman Salomonson.
+26. MRS. O. door Herman Roel
+
+vink.
+27. LENTEWOLKEN door
+Herman Roelvink, 2de druk.
+28-29. DE GEBROEDERS
+KARAMAZOW door F. M.
+Dostojefski, 4de druk.
+30-31. UIT SIBERIË, door F. M.
+Dostojefski, 2e druk.
+32. HILLIGENLEI, door Gustav
+Frenssen, 5de druk.
+33. DE DRIE GETROUWEN,
+door Gustav Frenssen, 4de
+druk.
+34. JÖRN U H L, door Gustav
+Frenssen, 5de druk.
+35. DE ZANDGRAVIN, door
+Gustav Frenssen, 4de druk.
+36. TOEN IK NOG JONG WAS,
+door Justus van Maurik, 3de
+druk.
+38. MACHTIG ALS DE DOOD,
+door Guy de Maupassant.
+39 DE BADPLAATS
+MONTORIOL, door Guy de Mau
+
+passant.
+40. EEN LEVEN, door Guy de
+Maupassant.
+41. ONS HART, door Guy de
+Maupassant.
+42. P IET EN JAN, door Guy de
+Maupassant.
+47. DE ZOONS VAN DEN
+HOUTVESTER.door Peter Rosegger,
+3e druk.
+49. DE GEDENKSCHRIFTEN
+VAN DEN WOUDSCHOOL
+
+MEESTER, door Peter Roseg
+
+ger, 3de druk.
+50. ASJA, door I. S. Toergjenjef.
+
+Uitgaven van
+VAN HOLKEMAAWARENDORF's
+UITGEVERS-MAATSCHAPPIJ
+AMSTERDAM.
+
+</text>
+<image timestamp="2002:09:26:11:24:48.00" size="364703">D100086G.TIF</image>
+</page>
+</document>

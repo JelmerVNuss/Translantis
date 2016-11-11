@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040529</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Duitschland en Russisch-J apansche Oorlog.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 29 Mei 1004
+Amsi. Hoek- f.n Stecinirukkerij. v li. Ellerman. Harms cV ('o.
+V. BÜI.OW (tot Keizer Wilhelm): Majesteit, nu moet ik bij de japansche verliezen ter zee, voor U zeker ook naar Tokio telegrafeeren :
+Japans rouw is Duitschland's rouw!. . . De natie zal het niet U eens zijn . . .
+WILHELM: In Godsnaam geen telegrammen meer!!,.. Dat aan Kruger heugt mij nog en die condoléantie aan den Czaar zullen
+ze ook niet licht vergeten ....
+
+</text>
+<image timestamp="2002:08:15:07:15:48.00" size="568872">D10000DJ.TIF</image>
+</page>
+</document>

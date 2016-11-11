@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260619</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VRAAGT
+VAN BIJSTERVELD-S
+
+ADVOCAAT
+Reeds 31 'Jaren verzorgt en reinig
+men de tanden niet
+in 'de welbekende doozen en tuben
+Pool's ATOL geeft een fraai gebit
+PooTsATOL ]• betrouwbaar.
+Pool's ATOL is goedkoop.
+A R ZURCHER
+^ARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT64-66-68-70-72AMSTERDAM
+ARNHEM (Grooie Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER U EER HET
+TE LAAT IS!
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN.
+N.V. Meulelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE. CASPERS &amp; Co.
+Behangerij - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELSTRAAT 110 en 126 TELEFOON «739 «37354
+( Eenif
+de heerlijke Cacaodrank
+wordt gedronkeiTmet Melk of Spuitwater
+Ecnifle Fabrikanten F. KORFF 6 Co-, Amsterdam
+TBT
+PROJECTIE-LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+
+AMSTERDAM DEN HAAG
+113 KALVCRSTIV 124 NOOROEINDE
+NUMEGEN GRONINGEN
+l3-»VC6ERCHEier» 3 Kt
+PELSTERSTRKABEL I
+1781 ^~«^ 1926
+
+Hendrik Kruimel
+AVijnHandelaar . Amsterdam
+eng opvoger van
+SMmmelpenmnck &amp;• Kt
+rwmei
+Kantoor: Keizersgracht 325
+Telefoon 40647
+TEWÜP.KlZiHSIOOTUITH
+
+ZdeHANDSCHmUIDR'
+
+EN ZEILIUITEH.
+TfBEÏR»eEIB'l:
+1.1. «ERF IICOUAS RITSEN"
+STOEL ALKMAAR
+
+! Niets gaat verloren !
+wanneer gij kookt op •
+S E N K I N G
+gasfornuizen of
+comforen
+Gasfornuizen
+
+vanaff68.OVERAL VERKRIJGBAAR
+N.VVH.
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHEI
+HOLLANDIA"
+~ tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMI!
+FABRIEK ESPAN
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijl»
+
+ARNOLD HOUTSCHIL:
+Singel 285 Amsterdai
+
+NAAML. VENN.
+
+
+EUROPEESCH
+
+Goederen* en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+stations der NEDERLANDSCHE
+SPOORWEGEN verkrijgbaar
+•*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bem.
+Boedapest, Boekarest, Brussel, Constantinopel,
+Hebingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, München, Oslo, Parijs, Praag, Rome, Stockholm,
+Warschau en Weenen.
+YG
+E
+B~
+r*
+I
+
+</text>
+<image timestamp="2002:09:25:19:02:15.00" size="148233">D10007ON.TIF</image>
+</page>
+</document>

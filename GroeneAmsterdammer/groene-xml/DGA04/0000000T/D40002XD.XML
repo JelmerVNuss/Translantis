@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190503</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ITALIËVERLAAT DE V R E D E S C O N F E R EN T I E
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 3 Mei 1919
+
+- - * - - .,„,
+f &gt; \
+Amsi, Boek- en S eemliukkcnj, v h. Ellerman, Harms &amp; Co
+De Italraansche schoorsteenveger wil roet in 't eten gooien.
+
+</text>
+<image timestamp="2002:08:23:11:48:30.00" size="429802">D40002XD.TIF</image>
+</page>
+</document>

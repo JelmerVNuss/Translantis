@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301115</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+25 et
+roene
+voor Nederland
+KEIZERSGRACHT 355 - AMSTERDAM - CENTRUM
+
+
+AMSTERDAM
+DAMRAK 80-81
+LEEUWARDEN
+STATIONSWEG 28
+AUTO-, MOTORRIJWIEL.
+en
+ONGELUKKENVERZEKERING.
+HOFLEVERANCIERS VAN Z. K. H. FB1N8 HENDRIK DER NEDERLANDEN.
+VAN STMALEN
+MONSIEUR
+6 ERKELENS
+WIJNHANDELAREN.
+
+
+Hoofdkantoor Rotterdam
+Leuvehaven 34
+tel 52458
+
+
+Filiale n'Den Haag
+Anna Paulownastraat 36
+UI. 3253?
+
+
+Den Helder
+Hoofdgracht 37
+«al. 83.
+VRAAGT PRIJSCOURANT 1930.
+BISCUITS DE LINDEBOOM'
+AMSTERDAM
+PRIMA KWALITEITEN,
+DE EDELSTE SMAKEN,
+DE HOOGSTE VOIl&gt;Or\ING
+
+</text>
+<image timestamp="2002:09:22:08:28:58.00" size="232698">000008O3.TIF</image>
+</page>
+</document>

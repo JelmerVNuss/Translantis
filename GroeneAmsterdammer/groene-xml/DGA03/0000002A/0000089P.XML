@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300621</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HE-»-m •&gt; ,-v
+p "
+i»^m^K" ' wi.fiji.a&gt;'v^ 'j* _r jq r v*""* .• «s. f ». V ;^^ig^tt'Jtf if&gt;'-.f^Tyte|^E^*^gfi. H -v
+*"*"• * '''* '- ' - . ' ^ - ." *~ '\ , ' -sr*"^ '
+
+De werkloosheid in Engeland
+BIJVOEGSEL mm Dt Grom* Amsterdammer" Wetkblad voor Nederland mm 2 z Juni 1930
+Arait. Botk- en Steendr. v/h. Ellerman, Harms S Co. N.V.
+Lloyd George biedt zijn hulp aan!
+
+
+</text>
+<image timestamp="2002:09:21:19:18:55.00" size="206392">0000089P.TIF</image>
+</page>
+</document>

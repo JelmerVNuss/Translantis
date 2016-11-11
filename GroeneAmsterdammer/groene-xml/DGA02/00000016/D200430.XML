@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241122</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+*IO
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2475
+. IK STRUIJS &lt;&amp; Zn.
+Prinsengracht 837
+TEL. 37906
+P. G. Hooftstraat 140
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+ff»*
+EEN BOTERHAM
+met koek is haast voor iedereen een
+lekkernij; mits de koek ernaar is.
+DEVENTER
+ONTBIJTKDEK
+is een lekkere koek, gebakken in een
+modelinrichting, uit de beste en zuiverste
+grondstoffen. Vraagt ze Uw winkelier.
+Jb.BU55in.5
+.
+ANNO
+
+
+DEVENTE
+EVENTER
+.00)
+VOOR ST. NICOLAAS
+
+ONZE SPEELGOED EXPOSITIE IS
+THANS GEREED EN HIERMEDE
+ONZE 2e ETAGE HERSCHAPEN IN
+
+'n DORADO
+VOOR KINDEREN
+Deze in den lande ongeëvenaarde collectie
+maakt het voor ieder mogelijk een goed
+stuk speelgoed naar eigen smaak
+te bekomen tegen billijken prijs
+ONDERWIJSINRICHTINGEN
+WELDADIGHEIDSINSTELLINGEN
+EN VEREENIGINGEN
+
+EXTRA PRIJZEN
+Boeken voor dames ?
+Boeken voor heeren ?
+Boeken voor de jeugd ?
+Onze catalogus bevat ze!
+Het fraai geïllustreerde boekje
+wordt allen boekenliefhebbers op
+aanvraag gratis toegezonden.
+A. G. SCHOONDËRBEEK,
+Uitgever, LAREN (Gooiland).
+Hl.iEfOBM"
+Dir. E. Boerma
+G10IIKEI AHSTEIDAH
+Heereitr. t Rokin 70
+Dames- en
+HeerenKleedermakerij.
+.Coupeun door het geheelo
+land te ontbieden".
+«SSöf"
+zssSf.
+&amp;&amp;
+K4LVERSTRAAT 128/13O
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+l P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250 j
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELENI
+ADR1AAM SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Van St. Nicolaas voor
+Uw leverancier verzendt op Uw verzoek een doos inhoudende
+6 of 12 LIEVEGOED'S ARTIKELEN
+(Wed. John Gay's Piccalilli, Augurkjes, Mayonnaisesaus,
+Tomatenpuree, enz. enz.)
+vermeldende: Van St. Nicolaas voor
+Indien bij Uw leverancier niet verkrijgbaar verzenden wij een doos
+| na ontvangst van postwissel van f 2.50 voor pakket O. l (6 art.)
+of f 4.50 voor pakket G. 2 (12 art.) franco op 4 of 5 December
+aan het door U opgegeven adres, mits U tevens den naam van
+' Uw leverancier vermeldt.
+In elke doos is tevens een aardig DIERENPRENTENBOEKJE
+(iets nieuws).
+De Lievegoed's Fabrieken, N.V. ,,de Houttuinen"
+Haarlemmerhouttuinen 96—104, AMSTERDAM.
+Kleedermakerij naar Maat
+voor Dames
+•n Huren
+H. K K AI N K R
+
+voorheen Coupeur der Firma P. M. BROEKMANS, Koningsplein, Amsterdam.
+
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+Colbert Costuums van af .... f «5.—ModtmB GOUDS.
+Deml Saison van af	5O.—o.!».. «fu...bi.&lt;i
+Mantelcostuums van af	«5.—rlïina aTWerKing.
+Stalen op aanvraag.
+Met 10 jaar Garantie
+worden geleverd, uitsluitend door THE DUTCH ANGLO
+TILING COMP., dir. JACS. S. WAISVISZ &amp; Co.,
+Wagenstraat 167, DEN HAAG, Tel. 11119, de alom bekende
+
+
+RDBBIN RUBBERVLOEREN
+
+en zijn deze vloeren zoowel geschikt voor eet-, badkamers,
+serres, halls, trappen, als voor schoollokalen enz. enz.
+Specialiteit in levering van RUBBERVLOEREN,
+RUBBERMATTEN en alle soorten gummi-artikelen.
+POLLEN's Oude Genever
+Fijne Likeuren n Punch
+M. P. POLLEN A ZOOH - Rotterdam
+B. J. MULDERS
+TUIN ARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:22:12:23.00" size="172279">D200430.TIF</image>
+</page>
+</document>

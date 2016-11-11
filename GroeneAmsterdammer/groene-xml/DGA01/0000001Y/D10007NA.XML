@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260605</Datum>
+<Pagina>1A3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•• 3557
+Dr. Van Blanlcenstein, ABDEL KRIM pag. 2
+Luigi Pirandello, Feuilleton pag. 19
+
+5 Juni 1926
+VRAAGT
+VAN BIJSTERVELD'S
+
+ADVOCAAT
+Reeds 31 jaren ver
+
+zorgt en reinigt men
+de tanden met
+
+Poel'J AIO l
+tandpasta
+het
+allerbeste
+ATOL geeft een fraai gebit.
+
+ATOL is betrouwbaar.
+
+ATOL. i» Msch en goedkoop.
+i
+A E ZURCHER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT64~66~68-70~72,AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+BRAND-, INBRAAK-,
+
+NERING
+
+EN ANDERE
+VERZEKERINGEN
+Vraagt offerte!
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+N.V. Mculelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+Behanger^j - Ameublementen - Stofieerderij
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELSTRAAT 110 en 126 TELEFOON «739
+L 37354
+'IDerelclberoerricL
+Leeg te koop
+
+te Heemstede.
+
+LIEF VILLATJE aan tram
+
+halte, 7 kamers, serre, W.C.,
+keuken, zolder,^ groote vo
+ren achter tuin. i^
+Koopsom f 10.500.—.^
+N.V. Gebr.f J. &amp; H. v. d. POL
+Koediefslaan 35:
+HEEMSTEDE.
+•mr
+PROJECTIE-LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+
+AMSTERDAM DEN HAAG
+IIS HALVERST!* 124 NOOROEINOE
+NIJMEGEN GRONINGEN
+l3H9V.BERCHtHSn». 3 KU
+PELSTERSTBMAAR
+KARELI
+
+" Wees wijs *
+Stel op prijs
+
+SENKING
+gasfornuizen
+of comforen
+die tot de allerbeste
+behooren
+Gasfornuizen
+OVERAL VERKRIJGBAAR
+ITIMTUR
+NYV/H.
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+~ tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stiften
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+r
+de heerlijke Cacaodrank
+v
+l
+wordt gedronken^met Melk of Spuitwater
+
+Benige Fabrikanten F. KORFF 6 Co., Amsterdam
+Abonneert U op
+De Groene Amsterdammer
+MEETINSTRUMENTEN
+VOOR DE GEHEEL-E ELECTROTECH NI EK
+INGENIEURSBUREAU VAN NISPEN
+- ZWOLLE. ==
+BEtRAFEMIS OriDERnEMHIB
+MIEUWt iPltGELSTRAAT G1
+BE.DR^rtf(l55tf1 NAARALLE. PLAATSEN
+CREMATIE.
+
+</text>
+<image timestamp="2002:09:25:17:33:57.00" size="147271">D10007NA.TIF</image>
+</page>
+</document>

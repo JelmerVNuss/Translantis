@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270730</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i4vert«atllB ƒ0.75 per »e»«l
+voor- Nederland
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+TELEFOON 37»««
+Loiie nummer» 25 ccatl
+R A A G T
+VAN
+IIISTEIÏELDS
+ADVOCAAT
+• &amp;VAN B1JSTERVELD
+v ' AMSTERDAM
+W B X P O R T
+li
+'n 32 jarige gunstige reputatie
+
+POOL'sATOL
+geeft een blank en gaaf gebit
+
+Goed en toch zeer goedkoop.
+A K ZÜR C H E R
+CARTONNAGEFABRIEKenDRUKKERIJ
+,LQQIERSGRACHT64-66~68~70'72,AfySTERDAM
+rTORMRAMPEN 1925-27
+Verzeker Uwe eigendommen:
+Fabrieken, Woon* en Winkelhuizen,
+Inboedels en Goederen,
+Vraagt onze concurreerende tarieven»
+" Y1\A.
+l/ IT:
+t*
+., Oar. 29J millioen Gulden.
+A.D.BEERENDS6VEEREN
+AMSTERDAM
+LEEUWARDEN.
+, Meubelmagazijn Eden
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+Afwerken
+
+Iraateur-opnamen
+Vlug, net, billijk. .
+Speciale inrichting I
+
+CAPI
+115
+KALVERSTRAAT
+115
+iSMftAR
+
+KARELI
+'Doos3d-6O,Tube 80ct.
+.Bij Apoth.en Drogisten.
+NV
+HA.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+~ n
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+|TIMTUR|
+QA5PORNUIZEN EN COMFOREN
+OVERTREFFEN ANDERE EN...
+ZUN GOEDKOOP.
+Let op onze Spaarbranders
+van MASSIEF KOPER met
+automatische luchtregeling
+Gasfornuizen vanaf f
+62.Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+giiiiiiiiiiiiiiiiiiiiiininimiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiNiN
+| CENTRALE VERWARMING|
+| volgens elk systeem |
+| WARMWATERVOORZIENING |
+l door middel van ketel, fornuis of gasapparaat |
+\ FORNUIZEN |
+l in alle afmetingen en uitvoeringen |
+
+HUNCK &amp; ZOON
+ZIJN ER WEER.
+GROOTE MOOREN
+LICHTE SUMATRA 6Cts.SIGAAR
+fLÜalen.
+WaapgeeniiüaJtjeri fade 6e&amp;endste
+PERKISTJ E VAN 50 ƒ2.85
+
+</text>
+<image timestamp="2002:09:25:15:36:37.00" size="196818">D20068S.TIF</image>
+</page>
+</document>

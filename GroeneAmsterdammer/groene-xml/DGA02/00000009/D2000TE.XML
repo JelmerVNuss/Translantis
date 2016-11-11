@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010224</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1235
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND
+De vredesvoorwaarden voor China.
+In 't Jubeljaar.
+(Juyend)
+v. WALDERSEE (lot een Chineesehen Prins): Hoogheid vergan mij u dit zwaard aan te bieden, wees zoo goed om
+u daarmede op de gebruikelijke wijze van kant te helpen.
+Chineesche Prins: Na u, Exellentie !
+
+Offlciëele telegrammen van Lord Kitchener.
+(Der F lolt.)
+
+Telegram (ld. 2.0 Jan. Da colonne van
+Ilamilton, die in de nabijheid van
+Bioemfontein gelagerd was, kon r,i t me^r met
+den vijand in aanraking komen.
+De Ocrlog in Zuid-Afrika.
+(llnm. Jiliittcr Berlin.)
+In Xuid Afrika stiijlen de EngpNcht-n o:n de
+orde van den Kousdj.iiid, maar ook o ai de orde
+van den lJroJ^ba&gt;t&lt;l.
+Telegram (ld. 2!&gt; Jun: Frem:h's cavallerie
+e-i infanterie veeglen het land, oostelijk
+van Pretoria, schoon.
+Als Brittania niet wakk r büjft, zal de boeman haar pakken. (Uit Life X.-York).
+Moderne illustratie van het Oude Testament.
+(Her F (oh). *
+^ (
+' • // ^ /,' - \
+t'yraiii run :&gt;1 Jumi'iri: Frerch sliet
+in het Wilgen-da! op L'OOO Bueren; de
+Engelschen \orioren ion iloode.
+Familiebanden, il.ust. lïutir
+t \
+* l \
+MI kunt ;: : !;i t L::;, l ia n Rjlofte,
+"Tiioüf^iji f-| •. i,ti (i" i-iiiar, maar er
+c'.;\iv:u.'hei(l i.it1!!
+Uit do
+,-"
+ƒ-----.
+
+^«*
+,&gt;&gt;&gt; '^f^^*s,
+iMaöfli^
+t:*e
+-/uit g
+Lord Kii.iuc-iiê1 beint :
+
+l're tOiif:, -O ,).ir.unri.
+He boen;: worden ovfrul (eruegoslagpn, IK
+KRXOHI; M;.., ,I,M&gt; d.M \ l-:usTt;uKiN..|-.N ! Aiill
+"-1: irival uj.i l'dt^'eii in i'u Ka^ji- Kokirro
+ben-ft r.ict t\ 'iiir.^to. v.üirda ta \vv.r ji.-:i ;,ï-h"clit;
+. s KA A . .'•.•;:"' : ;: ' \' ^!'\M ( ! v \ : '':-/. • •, ;: : N. ,I.;N.
+De ooik-£ '. • • ''
+i/
+/
+Wij hovi!c." voorfJnrrnd pijnlijke voeling
+r &gt;-t den v;.':ir.d. i-e V\"et is oi;oj,u,xiü(';!jk aan
+'•' i kant \.iiI,oL;ieu uaioitiyfeiii. men iüechter
+i: het O;:T t- ii -.;;!•, lUiur Lij zien o;/ in. L ogenblik
+1 vindt ; •:..:.,.-..• ul.ij:^\)k &gt;s Lij \trl;0:^u)d of
+Jo T ont. y ..••..;. •(,".. ;.::'iiomo.r., I\ VHA u. u.i.uiuM
+icli.-s! Ar/lro^.ius ,ïfin
+Britschen L'.'t-uw een doorn uit het vloesch ga
+
+trokken
+maar staeJs krijgt hij, in piaats van dank, een blag in't gezicht.
+
+</text>
+<image timestamp="2002:08:15:17:09:51.00" size="278950">D2000TE.TIF</image>
+</page>
+</document>

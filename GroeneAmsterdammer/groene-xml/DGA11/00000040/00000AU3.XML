@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\*&amp;i
+
+Kunstenaar of ingenieur?
+Ir. S. van Ravesteyn
+H
+EN doos, waarin een bootje, in stukken nog, die a la méccano
+^n elkaar moeten worden gezet. Een jongetje, dat die doos
+gekregen heeft. Een vader, met zijn hoofd nog gonzend van
+werkproblemen. Het jongetje vraagt 's avonds aan dien vader het bootje
+te monteeren. Zij gaan aan tafel zitten. De vader leest het papiertje,
+de gebruiksaanwijzing. Hij wil er zich vlug doorheenslaan, maar
+het jongetje moet het zelf doen, hij moet slechts helpen. Het jongetje
+wordt zenuwachtig; zijn oogjes schitteren, het kan niet luisteren
+naar onfeilbare aanwijzingen; het vindt alle stukjes, behalve het
+stukje dat aan de beurt is; zijn oogjes springen van het een op het
+ander of op alles tegelijk; het praat voortdurend om zijn stemmetje
+te hooren. De vader wordt natuurlijk ongeduldig, daarna geïrriteerd;
+als het jongetje dan den mast in het gaatje stopt, duwt het veel te
+hard en te lang. Als eindelijk het scheepje in elkaar zit, is de vader
+opgelucht en het jongetje loopt er zóó hard mee om het te laten zien
+dat het bootje ergens tegenaan stoot en de mast eraf valt. Maar het
+jongetje huilt niet, is wel beteuterd, raapt den mast op, zet dien er niet
+op en laat het wrak" verrukt aan anderen zien. Het was een wit
+bootje met een rood streepje, een gelakt bruin dek, een blauw roefje
+en glimmende koperdraadjes als reeling, een zwart-wit-rood vlag
+
+getje van achteren, een gele wimpel in den mast. De volgende avonden
+wordt het jongetje weer flink geholpen; na een paar weken is het
+bootje een toomeloos wrak; het jongetje krijgt even een kleur als zijn
+oogjes in de speelgoedkast erlangs glijden, de vader heeft het bootje
+al lang vergeten.
+Een ander jongetje met een anderen vader; beiden hunkeren
+even sterk om 's avonds het pas gekregen bootje in elkaar te zetten;
+alles sluit als een bus; het jongetje hangt aan de oogen van den vader,
+volgt diens aanwijzingen snel en zeker, vindt dadelijk het gezochte
+onderdeel, de montage gaat vlot en goed, op 't laatst een kleine
+vergissing met de vlag. De vader pakt het bootje en laat het de
+familie zien, het jongetje loopt verheugd met hem mede, het bootje
+krijgt een eereplaats. Eiken avond zet het jongetje liet bootje alleen
+in elkaar; na een paar weken komt er weer iets anders, de doos wordt
+opgeborgen, in de doos ligt het bootje gezond tot in het kleinste
+onderdeel.
+Een vader maakt een wandeling, hij kent veel vogels en als hij
+wandelt let hij daarop, als sport en omdat hij vogels mooi en vrij
+vindt. Hij herkent ze aan vliegwijze, kleur en zang. Hij vindt het
+aardig om bij zijn kinderen hun opmerkingsgave voor deze dingen te
+scherpen. Vlug hooren, zien, zoeken, onbewust analyseeren. Op wan
+
+delingen met n van zijn jongetjes komt daar niets van terecht;
+het jongetje babbelt heel druk over eigen dingetjes en de vogel is
+al lang weer weg als het moet kijken; het kijkt verlegen en babbelt
+vlug weer verder en krijgt even een kleur. Het vlug zien gaat niet,
+het hooren evenmin; zelfs in het abc van vogelzang, den vinkenslag,
+vergist het zich; maar dan vraagt het altijd of het een boekvink is
+en de vader antwoordt dan dat dit hetzelfde is. Het jongetje heeft
+dat woord gezien in een boek over vogels, dat het griezelig vindt.
+Een ander jongetje was, hél jong, n en al vogels; uren zat het
+in zijn eentje te kijken in het vogelboek met de gekleurde platen,
+de beschrijvingen en de lijsten om te detcrminecren, het was een merk
+
+waardige zelfstudie voor zoo'n heel jong kind, met een onfeilbaar instinct
+voor wetenschappelijk onderzoek; het jongetje vergiste zich nooit,
+wist precies waar in het boek een vogel te vinden, welke de kleuren
+waren en de bizonderheden. Op de wandelingen was het een genot
+voor den vader om samen te zoeken en te vinden; alleen de routine
+van een groot mensch redde den vader om het tegen die kleine,
+scherpe oogjes en hersentjes af te leggen en over enkele jaren voorzag
+hij zijn onontkoombare nederlaag. Maar die kwam niet, want het
+jongetje dacht toen aan voetbaluitslagen en vond den vader vervelend
+als hij over vogels vroeg; met het air van verveeld zijn doek het in
+
+</text>
+<image timestamp="2002:09:27:16:30:53.00" size="246214">00000AU3.TIF</image>
+</page>
+</document>

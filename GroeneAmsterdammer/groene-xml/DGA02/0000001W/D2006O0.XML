@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271210</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+»•* »"•
+f»•«!&lt;• /»»&gt;«r *•••!
+#y"*3V * &gt;» i** '*V\ "11 't .—» j, • * 7
+/
+
+roenc
+i
+10 Decem
+• •
+jsteïjcfammcr
+^por* Nederland
+lELINGH'S
+
+• iibllopiunifirpakt
+20 GEPIT.
+CSAURHzn.
+HOFLEVERANCIER
+ROK3N 1M over de N«L Bank
+Telefoon 402-tó. 49971
+Vischrestaurant
+co Vischhandcl
+R Z U R C H ER
+\TONNAGEFABRIEKenDRUKKERIJ
+1RACHT64-66-68-70-72J1MSTERDAM
+ENHEIDS-POLIS
+(IDEALE INBOEDEL- EN OPSTAL-POLIS)
+INBOEDELS in woonh. 2'/i /oo p.a.
+OPSTALLEN van 11/4°|oo
+, (Brand, Diefstal, Waterl. schade, Storm,
+Bagage, Verhuizing enz.)
+Vraagt prospectus
+N4ON' 'a». AgA D. BEERENDS 6 VEEREN
+ril
+Ap 1714
+AMSTERDAM
+VÏ^OSSEM'J
+DE BESTE VARINAS
+OOK verki°ygbaar in
+tichte
+VOOR BETERE MEUBELEN
+
+ARNOLD HOUTSCHILT
+
+AMSTERDAM
+KEIZERSGRACHT 333
+AMSTERDAM J CENTRUM
+TBtBFOON 3T»«4
+£•••* •••••» 21 «ml*
+FRAAIE
+KER3T
+GESCHENKEN
+Kronen
+lampen
+Happen
+Bronzen
+oostcrhuis
+H V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+meergchuimklear?
+.,„... ,.
+
+DELFTSCNE POS?
+3 KV\/ALIT|ilTK,N:
+VORSTENLANKRN e CT
+DELI ZANDBUjfD 1OCT
+. HAVAIMXk.......	12 CT
+OHOVERTR'FBAAR
+|miifiTiD8&lt;iHET|
+|TIMTUR|
+PRUZEM VAHAF
+
+LET OP HAAM IH
+C U KENT TOCH ONZE \
+GLORIA KACHELS
+tdrn U liidil: iok.Li.i Niifoj, »wnf»ort
+BRANDBLUSSCHER
+.MOLLANDIA'
+SPANJAARD&amp;C£
+FABRIEK ESPA/^A
+UTRECHT
+
+NAAML, VENN.
+EUROPEESCHE
+
+Goederen- en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+
+POLISSEN dekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+- stations der NEDERLANDSCHE
+
+SPOORWEGEN, alsmede bij IN
+
+
+FORMATIE-en RE1SBUREAUX
+
+verkrijgbaar.
+i*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg,
+Madrid, Müncben, Oslo, Parijs. Praag, Rome, Stockholm,
+Warschau en Weenen.
+
+</text>
+<image timestamp="2002:09:26:11:12:41.00" size="253844">D2006O0.TIF</image>
+</page>
+</document>

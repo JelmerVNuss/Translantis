@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020209</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No, 1285
+DE AMSTEKDAMMEE WEEKBLAD VOOB NEDERLAND.
+De gescheurde Nieuwe Beurs.
+VONDEL (tot Gvjdtrecht) : »Myn Heer, uw ongeluk is ons van harte leed ;
+De scheuren ia uw Huie, zij worden lang en breed ...
+'t Waar tijd ei meer dan tyd, dat gij u kort beraadde
+En gaaft het Huis voort op ... met hope op genade."
+Vrij naar Vondei's Gijlmcht van Amstel. 5de bedrijf.
+
+Geen Khaki meer. (Ciran d'Aihe in den Figaro).
+Toen ik in 't rood was, hebben ze me uitgekleed,
+toen ik in khaki was, hebben ze me weer uitgekleed en
+i.u ben ik in 't kastarj«bruin . ..
+
+Vredes-geruchten. (Daily Express, Londen),
+Probeer 't eens in 't appelgruer., vrindje.
+Een fijne diplomaat.
+(Siid dtut. Postillon).
+JOHN BULL : «Zei je wat ?" KRUGEE : »Ik niet; ju ?"
+Mixit-Ti-.R: «Majesteit, aan do kust ia Ken.
+chrifiten- xeiideling verschenen, die uw
+onderaoor: ('iiroarig maakt. Zal ik L t m laten
+onfhoofiif.il 'i"
+KOXJ.NO : Oji 'a hemels wil neen' vraag
+hem of zy'n natie tevreden zou wezen met
+een kolecstation en een paar koppen van
+ministers."
+Nieuwe Engelsch Afrikaansche sport.
+
+Het vangen van de wesp. (Alleen voor Generaals).
+Zs hooren 'm, maar ze zien 'm niet.
+Ze zien 'm, maar hy vreest ze niet.
+I've got 'm ! Ho ! vergis ja niet'.
+(Ingezonden door Tato).
+De Duitsche Rijkskaiiselier. (Siiil (leut. Postillon).
+Voorheen,
+thans, in de toekomst.
+
+</text>
+<image timestamp="2002:08:17:07:36:03.00" size="295003">D20018Q.TIF</image>
+</page>
+</document>

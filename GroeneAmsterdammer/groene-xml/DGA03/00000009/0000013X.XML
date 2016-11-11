@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19071110</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Koning Leopold's gestoorde vacantie.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 10 November 1907.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+PRESIDENT: ,,Sire, kom terug na;ir Uw hoofdstad, zooveel zaken wachten op afdoening!"
+KONING LEOPOLD: Dcnl-t- gij dat ik sti! hel) gezeten? Kijk maar eens hier!"
+
+</text>
+<image timestamp="2002:08:13:09:44:19.00" size="249790">0000013X.TIF</image>
+</page>
+</document>

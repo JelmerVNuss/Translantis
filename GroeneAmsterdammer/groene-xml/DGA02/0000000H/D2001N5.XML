@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021214</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+In de Tweede Kamer.
+BIIVOKC'.SEI. van de Amsterdammer, Weekblad voor Nederland van 14 December 1902.
+Amst. Koek- en Steendrukkerii, v,h. Ellerman. Harms S: ('o.
+Jhr. DE SAVORNJN LOHMAX (tot Staalman}: Moet jij je moeder zoo treiteren. • Schaam je voor de gasten!"
+DE GASTVROUW KüVPER: Kom, lieve Broeder, het best is te doen alsof je 't niet hoort.
+TALMA : Nietwaar, oom, dan ben ik toch zoeter. . ."
+
+</text>
+<image timestamp="2002:08:18:21:56:27.00" size="290843">D2001N5.TIF</image>
+</page>
+</document>

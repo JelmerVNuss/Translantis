@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390325</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Hotel-Pension BIRKHOVEN ™;™HX
+water. Grenzend aan 150 H.A. boseh met vijvers en vergezichten.
+AMSTERDAM
+LOGEER IN HET a m sterdam
+CENTRAAL HOTEL DER A.M.V. J. leidschsboschje
+Het eenige hotel in Nederland met eigen overdekt zwembad
+Gratis toegankelijk voor Hotelgasten • Fl. 3.50 inclusief ontbijt
+UM»A|
+M°'e'
+LoolMn bij h« Koninklijk Paleis «n
+bos,ch.„. Mod. comfort. Bekend restaurant.
+Prachtig terras. Gara(a en paardenstallen. Matige tarieven. Telefoon 4141
+BARCHEM
+H r\ &lt;• o l R O ^ C* M Modern comfort. Eerste huis ter plaatse.
+nüLCI D \J3\~ n Gerenommeerde keuken. Prospectus en
+tarief op aanvrage. Garage vrij. Telefoon (dag en nacht) 201
+BILTHOVEN
+Hotel Restaurant HEIDEPARK
+Tel. 2.477. A.N.W.8. en K..N.A.C. Hotel. Modern* comf. Inrichting. Matig* prljien
+DENEKAMPHOTEL "LINK
+UrtTCI PCI l U tf door Z'^n moole f'SB'ns en matige
+11 U l LI. U L L 111 IA prijzen HET UITVERKOREN HOTEL
+VAN DENEKAMP EN OMSTREKEN.
+Onder directie van Mevr. R. ARENDT. Vraagt prosp. Tel. 314 (d. en n.)
+MIDDELBURG HOTEL DU COMMERCE -Tel-94
+Modern comfort
+Parkeerterrein vrij
+l «PEET a, zee
+Theehuis OE NIEUWE POL".
+varen en zeilen. Kampeerterrein. Kamphulsjes te huur. Prosp. op aanvrage
+J
+NIILMQPPPT Kampeercentrum SAXENHEIM"
+11 U 11 O l LL l Te), doorverb. 14 - Vierhoutin - Gev. sinds 1925
+60 H.A. oppervlakte. Huisjes, woonwagens, kamers en tenten voor families en
+groepen. Eigen winkel voor levensbehoeften. Zwembad in de nabijheid. Plaats
+voor kampeer-aanhangwagens. Temidden der mooiste bosschen. Meest sportief,
+aangenaam, goedkoop en bevredigingschenkend vacantieverblijf. Vr. prospectus.
+OISTERWIJK
+Bosch-Restaurant GROOT SPEYCK
+l
+Eldorado v. Oisterwijk, meest bezocht zomeroord ter plaatse l
+OOSTERBEEK ^
+Bocch, heide, vergezichten. Romantische natuur. Gem. parken en
+bouwterrein. Elk uur een trein naar de hoofdsteden.
+iu V.V. Anna* t raat 8. Tel. 5912 • Bureau Gemeentewerken. Tel. 5541
+REIZEN met de electr. trams en/of autobussen N. B. M.
+door UTRECHT'S LUSTWARANDE en MOOI GELDERLAND
+
+is niet kostbaar e n geeft veel te genietetr
+
+Vraagt dienstregeling met tarieven aan:
+N.V. NED. BUURTSPOORWEG MIJ. te ZEIST. Tel. 29O6 (K. 704)
+nniCDCDftCM (R|i»nbur(). Hotel-Calè-Rest. HET WAPEN VAN RIJSENBURQ"
+IIKIrnrtlUrni • E*n Idnal do.l op Uw autotocht voor w*ek-*nd of vacant)*
+flllB.hr bl«V«bl« T«l«foon 601 - Dlr.ct.ur: R. NIJS
+
+C HE DE KANOVIJVER
+" " ™ Waterattracties. Speeltuin, Kampeerterrein. Zeer lage prijzen.
+
+
+HATTEM GÖLFHOTEL DE KONIJNENBERG"H
+Huis van den eersten rang. Hoog gelegen ^H
+temidden der bosschen. Tel. K 5706-212. Prospectus op aanvrage ^H
+
+
+HEERLEN HOTEL GERMANIA
+Tel. 4717. Mod. comf. «ar. vrij. Hnia v. d. Ie te
+rang. Gerenomm. beuken. Pension vanaf 1 4.-. Centr. van Z. L,Imbarg
+
+
+[HILVERSUM TROMPENBERG8 PALACE HOTELB
+
+l^iim&gt;MMiiMM /i.^l \ bosch-hotel iide stadsdennen"
+IRIIVPnlini 1 VPI 1 prachtige slaapkamer» m. nttsanB direct
+•VUWWIIUIII ywv»l.^ in bosch, eereed seizoen 193» (post harderwijk)
+
+HmTRIPHT DU CASQUE", UW HOTEL •
+III H HU 1 Hl U 11 1 Tel. 4343 - Garage - Hotelbus aan alle treinen •
+GERESERVEERD VOOR
+SPORTPARK F. C. DEN HARTIGH
+PUTTEN OP DE VELUWE
+
+ROOSENDAAL fN -B } Hotel »NEERLANDIA»
+nUUOCnUMHL (n. D.) Trtetoon 108 . Comtorub„. Voor&gt;«»t«n«
+
+CQ FST Hote' "DE BOSCH VIJVER", Tel. 2706. Bus en Trein.
+Natuur•^^^"^ ' schoon rondom. Alle comfort. Keuken en wijnen extra verzorgd.
+
+STAKEN BERG Irw PAA8CHVACANTIE Iw ™- s *«« « nacht
+(bij Nnngpeet) Hotsl Landgoed Rifugium". Hotel De Stakenberg"
+
+VALKENBURG (L) SCHAEPKENS VAN ST. FIJT ^r^-"
+• «»-l»»»"»»'*'l»*« V*"/ wiwr IO.OOOM'tuln. 10.000 M' boomta.rd. P.rk«rt«rr..ntar.vri|
+
+
+l/nnnTIJIIiyriLl Kampeercentrum H £ T P U.T T E KB O S C H"
+VUUI\ 1 nUlbHll Schitterend» boichrljk* omjevinj. nuisf.i en f.l.(«nh.ld tot het
+kampe.ren In tenten. Prachtije nituurbaden In directe nabijheid.
+(VJKljUWJ^) Caravaninf ook met d.gelijk pension a f J6.- p. d. Prosp. op aanvrage
+
+WIJK AAN ZEE Pension WESTERDUIN ™^^-JE£Ü=S
+"""* """ «-•«•. belif Iijn Kom, Ua| yoor pinksterf Telefoon 224. Prospectus op ainvraaj
+
+
+BRENGT UW VACANTIE DOOR IN EIGEN LAND
+
+BUITEN WONEN
+
+r\P RILT *•TH-T- WIJNGAARDEN * Co., Tel. 28357. Hsssenweg238-Waterweg85.
+•* •« a» l aW l Riante Landhuls|as onder architectuur gebouwd m. centr. v«rw.. w. en k. str. waur.
+Ingebouwd bad. Koopsom fSOOO - f 11OOO. Hyp. beachlkbaar. Ontbledlnf zonder verplichting.
+KINDERPENSION
+H ATT E M KINDERPENSION De Vogelsang'
+,1J Kindertehuis v. ten
+hoogste S kinderen
+Prosp. en ref. op aanvr.
+RUITERS PORT!
+1V/I A M l? f P AMSTERDAM:Vondelstraat 140,
+«l /\ 1&gt;! Ui V» H. HAARLEM: Llnnaeuslaan 21,
+tel. 80942
+tel 10062
+• «^ V T 17 D17 HILVERSUM: Sparrelaan 16, tel. 7224
+AU. JStLiEil5lli ROTTERDAM: Krallngsche weg 120, tel. 50207
+BRUMMENSCHE RIJSCHOOL
+TELEFOON No. 74
+Dlr-ti. •
+Olntu».
+| Me|. M. A. PELS
+l Me|. R. MULDER TEN KATE
+
+BIJLESSEN IN MANEGE OF BUITEN
+Instructeur: d* Heer L. A. TERRANEA
+Ad|. Onderoff. Initr. Ber. Artillerie b.d.
+
+</text>
+<image timestamp="2002:09:13:04:03:16.00" size="192348">D100051M.TIF</image>
+</page>
+</document>

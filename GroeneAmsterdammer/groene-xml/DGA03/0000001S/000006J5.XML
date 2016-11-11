@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280505</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENE AMSTERDAMMER VAN 5 MEI 1928
+No. 2657
+S EN K'N G
+GA5FORNUIZEN EN COMFOREN
+OVERTREFFEN ANDERE EN...
+....ZIJN GOEDKOOP.
+liet op onze spaarbranders
+van MASSIEF KOPER met
+automatische J uchtr egelliig
+
+«aefornulzen vanaf f 62.—.
+Overal verkrijgbaar
+
+Adres voor den handel
+
+JOH.H.v.D.MEIDEN - Amersfoort
+amüiHiiiiiiiiMiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiMiiiii
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+
+Half
+
+Gemengde
+Firma KRONER
+Nieawendijk 167, Amsterdam
+iiliiimiiiiniiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii	iiiiiiiiiiiiiiiiiii	iiiniiinii
+VOOR OP REIS.
+Vindt Uw jonge vrouwtje het zoo
+heerlijk om eens een paar weekjes te
+gaan logeeren bij een vriendin, die zij
+in jaren niet gezien heeft ? Toon haar
+niet hoezeer gij opziet tegen die een'
+zame weken. Geef haar voor
+onderweg een doosje Pinguïn Bonbons
+mee, zij zal een goede reis hebben door
+Uw attentie.
+Van Houterfs Pinguïn Bonbons geven
+iets bijzonder fijns in een aardig doosje.
+
+
+VAN
+
+HOUTEN'S
+
+PINGUÏN
+
+^Bonbons
+In drie verschillende assortimenten:
+
+3 Pinguïns - f. 1.20
+D. OBERINK &amp; Co.
+INGENIEURS
+Amsterdam, Prinsengracht 456. Tel. 37452
+
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+GERARD B. RIJKE ]r.
+BINNEN ARCHITECTUUR
+l KEIZERSGRACHT 559 - Telef. 30559
+
+l Complete Meubileering
+Volgens nevenstaande foto leveren wij prima Ledikanten met
+Spiraalmatras en verstelbaar peluw, zwart gelakt f 11.50, wit
+gelakt f 13.50, goed verpakt onder rembours door geheel Nederland
+
+MV. Beeldenfabriek DE ZWAAN
+
+Goudscheweg 140-142 - ROTTERDAM
+Telefoon 10345 - Giro 13286
+Vraagt prijs bij grootere afname voor Hotels en Pensions
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:13:55:37.00" size="97967">000006J5.TIF</image>
+</page>
+</document>

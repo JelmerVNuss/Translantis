@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>39</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Elsa Berg
+Dorpje in Zuid-Frankrijk
+, »*'
+het dorp gelachen, zelfs de rentmeester lachte zuur; ook bleef ie zijn
+doorrooker trouw tot den dood; niemand wist dat ie vier van die dingen
+doorgerookt overnam van een jood, wiens levenslang zwijgen hij gekocht had. Ook
+voor Het Veerhuis" wist hij een grap. Hier zet men koffie, thee en over".
+Was-t-ie-goed, was-t-ie eventjes goed och ja, het was gezellig wachten,
+zelfs kon je stallen, nu, aan Het Veerhuis.
+Zijn vrouw vond het een hard gelag. Van De Spreeuwenhof bracht ze
+vromigheid mee, nog geen glas bier werd daar 's Zondags gedronken en hier moest ze
+staan in de tapkast. Hij kon onmogelijk alles zelf doen. 't Mocht lijken dat
+ie het voor zijn plezier dee, wanneer ie aanzat met de klanten en meer dan
+onder de boeren gedaan werd nog al eens een glaasje weggaf—zijn vrouw kon
+weten waarom ie het deed, al vertelde-n-ie weinig over van wat daar, bij zoo'n
+glas mér, was verhandeld.
+
+De motorfiets kocht hij tijdens den oorlog. Hij was toen drie-en-veertig
+jaar. De dorpen spraken schande en zonde van zooveel onvoorzichtigheid.
+Maar het ging nu erop of eronder.
+Goud, wist hij, viel er te verdienen.
+Niet zonder baat had hij zoovele
+jaren over het water door nevel
+getuurd. -Zijn jongste, die in-stad
+pp de H. B. S. ging, had hem op
+een avond verteld van Charon.
+Dat was een burger naar zijn
+hart. Weliswaar kreeg hij, zoolang
+de Pruis aan de Belgische grenzen genoeg had, maar zelden dooden ovei
+te zetten, maar d'r hing nou een lijkenlucht over Europa, ook doordat er
+overal hongersnood dreigde. Dus moest hij zich weer verdienstelijk maken,
+maar in het groot nu, oftewel vlug. Zijn opkomst had hij er aan te danken,
+dat hij, met een eind touw om 't lijf, zich stiekem bij Oom in die kolk gegooid
+had en duiken kon toen de freule d'r in viel. Zelf-help zeit d'n Engelsman.
+Eenmaal reed ie van den dijk af, maar kwam gelukkig terecht in hooi. Toen
+gold het, niet dommer te doen dan een ezel en toch de tochten te volbrengen.
+Soms een heelen nacht door tot ver achter Arnhem. Het veer was niet meer
+dan symbool, nu. De grens" werd, wat de rivier geweest was. Ook daarbij
+bleef hij middelaar. Zooals hij nooit n zaak alleen deed, maar als
+tusschenpersoon procenten opstak die niet na te cijferen waren, terwijl hij, al die
+veermansjaren, levende have, landbouwproducten en wat niet al het water over,
+beurtelings vice versa bracht; zoo hielp" hij nu, vond menschen, waren,
+verpakkingswijzen, zelfs de wegen waarlangs het goed vervoerd kon worden
+en wist dat alles goed voor den Pruis" was.
+Vóór den vrede was Berend al rijk.
+Toen kocht hij land aan d'overzij.
+Hij rook dat de menschen daar zou
+
+den gaan bouwen, daar zouden
+gaan wonen waar alles nog hei was.
+Bracht dit vooruitzicht hem wer
+
+kelijk schatten, waarvan hij genoot
+op villa Heilust",' 't oog had zich
+ook daartoe gescherpt aan het veer.
+i? i
+
+</text>
+<image timestamp="2002:09:22:06:13:41.00" size="207286">D100073I.TIF</image>
+</page>
+</document>

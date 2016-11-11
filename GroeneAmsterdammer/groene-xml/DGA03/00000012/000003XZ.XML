@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18971003</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 3 October 1897.
+Versterking der Rijksinkomsten.
+?•• , * • , ^^jï'-'
+i " . • ~ «-*, •*&gt;• ••
+w *&gt;•.•« i
+MR. PIERSON: Het mes is aangezet, waar zijn de klanten?
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:22:02:09:25.00" size="463603">000003XZ.TIF</image>
+</page>
+</document>

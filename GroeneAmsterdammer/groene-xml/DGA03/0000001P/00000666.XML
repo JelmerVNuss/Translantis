@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251226</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2534
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM - TEL. 426*2
+MARMERWERKEN
+Knippatronen
+Kledingstukken
+en Handwerken
+Hanaelsorukwerk - Periodieken - C/atalogi
+
+
+Drukkerij Jrlantijn
+
+Amsterdam
+
+
+Reclamedrukwerk - Greldswaardig Papier
+Bij Ruwe
+Schrale Huid
+van Handen
+en Gelaat
+P U ROL
+Doos30-60-90cl
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f3.—per kwartaal of
+f 10.—p. j. bij vooruitbetaling
+Naamlooze Vennootschap
+Uurwerk, Goud- en Zilverhandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Qroote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwerken metWeetmineter end iverie gongiligen
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+G. 1. DE KONING &amp; Zn. - Keizersgracht 44?
+(voorheen L El DSC H ESTR AAT 69)
+* SANITAIRE INRICHTINGEN
+HET KINDERBOEK VOOR
+KERSTMIS IS:
+
+
+
+MEIREGEN
+EEN BUNDEL KINDERVERZEN
+
+DOOR MARGOT VOS
+
+Met prenten van RAOUL HYNCKES
+PRIJS GEBONDEN f2.50
+Dit heel bizondere boek moet aandachtig gelezen en be
+
+keken worden, moeders en kinderen zullen er samen van
+genieten, en wij allen. De uitvoering is fraai.
+Correspond"ntieblad v. d. Nederl. Kinderhand
+Het is frisch, gezond, gevoelig en schalksch, juist wat
+kinderen van 8—12 behoeven, een heel mooi geschenk voor
+de komende feestdagen.
+De Hollandsche~_Lelie
+UITGAVE: EM. QUERIDO
+AMSTERDAM.
+N.V. HAARLEMSCHE SODAFABRIEK
+HAARLEM - TELEFOON 30 - H. S. F.
+ZUIVERE KRISTALSODA IN KRISTALLEN EN IN
+POEDERVORM DUBBEL KOOLZURE SODA
+NATRIUMSULFAAT (WATERVRIJ)
+GLAUBER- ZOUT VOOR TECHNISCHE DOELEINDEN
+BELANGRIJKE PRIJSVERLAGING
+VAN HANDWERKBOEKEN
+Alle hieronder vermelde handwerkboeken kosten thans
+slechts f 1.10 per deel
+PATRONEN IN KRUIS- -EN PLATSTEEK (3e druk).
+Nieuwe serie platen.
+Met beschrijvenden tekst van ELIS. M. ROGGE.
+PATRONEN VOOR BORDUURWERK, ter versiering van
+huishuishoudelijke gebruikstukken en kleeding (2e druk).
+Met beschrijvenden tekst van ELIS. M ROGGE
+PATRONEN VOOR BORDUURWERK (nieuwe serie).
+Met beschrijvenden tekst van ELIS. M. ROGGE
+PATRONEN VOOR KLOSKANT met 27 werkteekeningen en
+6 losse bijlagen.
+Tekst van L. W. VAN DER MEULEN—MULLE en ELIS. M. ROGGE
+PATRONEN VOOR KLOSKANT, Tweede bundel, 6 losse
+bijlagen.
+Tekst van L. W. VAN DER MEULEN—MULLE en ELIS. M. ROGGE
+Slechts f 1.50 per deel. Uitgaven van: VAN HOLKEMA &amp;
+EGYPTISCH VLECHTWERK
+Door E. SIEWERTSZ VAN REESEMA en ELIS. M. ROGGE
+WEVEN OP HET KLEINE TOESTEL.
+Handleiding voor het aanleeren der verschillende
+weeftechnieken op het Vrouw en Haar Huis-Rekje". Met 111 afbeel
+
+dingen: technische platen, weefpatronen en platen naar vol
+
+tooide werkstukken met beschrijving der weefwijze door
+QEERTR. DE GRAAFF en ELIS. M. ROGGE
+NIEUWE LEERGANG IN HET KANTKLOSSEN
+Door M. VAN IJSSELSTEIN
+KANTBREIWERK NAAR OUDE PATRONEN
+Door L THOMSON en ELIS M. ROGGE
+KUNSTHANDWEVEN
+Door ELIS M. ROGGE en LOLUSE H. WILDT
+WAREMK)RF, AMSTERDAM Slechts f 1.50 per deel.
+
+</text>
+<image timestamp="2002:09:04:01:02:45.00" size="140220">00000666.TIF</image>
+</page>
+</document>

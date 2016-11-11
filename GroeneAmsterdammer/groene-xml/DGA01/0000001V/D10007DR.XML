@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260306</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+
+HOFLEVERANCIER
+
+ROKIN 13-1 over de Ned. Bank
+
+Telefoon 40240, 49971
+Vischrcstaurant
+
+en Vischhandel
+s
+AF. ZÜRCHER
+C+rtonnagefe briek Snelpersdrakkerij
+
+LOOIERSGRACHT 64-66-68 - AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PAYS-BAS
+ONGELUKKEN.
+Aansprakelijkheids- en Autoverzekering
+
+A T RfXTr^T A " GARANTIE
+/•Vl^DUNOl/A 26MillioenGld.
+
+
+A.RBEERENDS&amp; VEEREN
+
+- - AMSTERDAM - ~
+
+AGENTEN GEVRAAGD
+30 CENT PER HALF ONS
+N. V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+M.V. GOEDEWAAGEN-GOUDA
+HIII1HIIIM11W
+, "	:	;	Restaurant HOEK
+
+Amsterdam: s^UIP2v
+"••	"»• Oesters - Kreeft - Caviar
+iMUiiiiiiiimiiiiiiimiiiiiH
+NIEUW!!
+
+
+Juist verschenen: 5de druk van
+
+
+
+Projectie-Handboekje
+
+Gewone-* Episcopische- en
+Bio-Projectie, lichtbronnen,
+maken v. lantaarnpl. en films
+
+88 blz. 65 afbeeldingen
+
+
+PRIJS^fO.75
+
+
+Het Nederl. Fototechn. Bureau"
+
+
+- CAPI
+
+115 Kalverstraat 115 Amsterdam
+t/o LIBERTY
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+
+VOLDOET AAN DE EISCHEN DOOR
+
+H.H. ASSURADEUREN GESTELD, TER
+
+VERKRIJGING VAN KORTING OP DE PREMIE,
+
+FABRIEK ESPANA
+
+UTRECHT
+SPANJAARD &amp; Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+
+ARNOLD HOUTSCHILT
+
+Singel 283 Amsterdam
+OMOERMEniMI:
+l NA«nA:LLPL-*ATitM
+LHXMATIC
+
+TIMTUR
+KINDER
+|5CHOEhEM!
+A
+
+H
+NAAML. VENN,
+EUROP EESCHE
+Goederen- en Reisbagage Verzekering Mij.
+
+SM AMSTERDAM - KEIZERSGRACHT 525
+
+
+
+POLISSEN dekkende zoowel
+
+ingeschreven- als handbagage, geldig
+A
+
+l
+fl
+m
+tijdens REIS- en VERBLIJF in
+
+GEHEEL EUROPA, direct aan de
+
+stations der NEDERLANDSCHE
+
+SPOORWEGEN verkrijgbaar
+8*" Schade kan ook worden geregeld bij de
+
+Europeesche" te Barcelona, .Belgrado, Berlijn, Bern,
+
+Boedapest. Boekarest, Brussel, Constantinopel,
+Helsing
+fors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+
+Madrid, München, Oslo/Parijs, Praag, Rome, [Stockholm.
+
+Warschau en Weenen.
+il
+m
+m
+m
+WK
+m
+m
+m
+m
+Dit weekblad wordt gedrukt op papier van de Trapeha, papiergroothandel - Amsterdam
+
+</text>
+<image timestamp="2002:09:25:03:06:02.00" size="144742">D10007DR.TIF</image>
+</page>
+</document>

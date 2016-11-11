@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19310725</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+••—-v
+DE GROENE AMSTERDAMMER VAN 25 JULI 1931
+No. 2825
+V]
+
+
+Stervend Europa in 1824
+door D. Bax
+E H zijn. gedurende de laatste 100 jaar, steeds
+nu'iischen geweest, die onze Kuropeesehe
+^ultuui' een kort leven toebedeeld dachten. Wij
+behoeven niet te blijven staan bij het stervend
+Europa van Iwan («oll, want Spenglor. Jos
+phiu Péladan. en zoovele andere wijze pessimisten
+hebben hun tijdgenooten trachten te overtuigen
+van de seniliteit hunner civilisatie, van haar
+decadentie en onvruchtbaarheid. En zelfs het
+rustige, deugdzame Nederland heeft in de uiterst
+fatsoenlijke, en godvruchtige jaren van omstreeks
+1S25, zulk een Jeremia gevoed. Immers, blade
+
+rende in de Xederlandsche Muzenalmanak van
+1S21. de toenmalige Erts. waarin de moderne dich
+
+ters en schrijvers jaarlijks een gewrocht hunner
+fantasie publiceerden, zult ge. met verwondering
+ei belangstelling een gedicht lezen van een vrij
+onbekenden meester in de rechten. Hoxman ge
+
+naamd. reeds! toen konden Mr's blijkbaar veel
+vrijen tijd vullen met rijm- en dichtwerk ,
+waaii'i aan moeder Europa geen uurtje leven meer
+geschonken wordt. Voor hen echter, die bijtijds het
+•/inkende schip verlaten wilden, had hij een heer
+
+lijk eiland bij de hand. Wij willen den naam nog
+niet verklappen: ge zoudt wellicht pijnlijk lachen.
+In zijn voltaire gezeten, met het moede hoofd.
+dat zwaar was van de nood en van zijn tijd. tegen
+den sluimerrol geleund, dichtte Abraham Itoxman
+het volgende:
+
+Vaarwel grijzend Europa!, dat. uw doodsnik nabij.
+Vw staten ziet waggelen bij 't molmen van
+grond(A'fst en schoren;
+Waar bandlooze volksdrift de strijdleus van vrij.
+En vorstlijke wilkeur van (iodsrecht doet liooren:
+En slechts de s'chandkeus rest van woede of slavernij.
+Wij ijlen naar 't halfrond, waar jong en vol kracht
+De staten opwaarts stijgen;
+Waar vrijheid ten troon zit in staat)ijke pracht.
+En dwang en oproer zwijgen.
+
+Vaarwel, zinkend Kuvopa ! dat. verplet door den last
+Van legers en schulden, vergeefs naar uw adem
+(blijft smachten:
+I*w schatten verspilt en uw bloedstroom verplast.
+Om 't licht te verduisteren, en 't'recht te
+ver(krachten.
+En, 't broodsgebrek nabij, al wat u rost verbrast.
+.Wij ijlen naar 't goudland. waar staatsschuld nog
+(lieer
+De volle schatkist ledigt;
+De moedige burger met eigen geweer
+Zijn haard en goud verdedigt.
+
+Vaarwel, karig Europa ! waar ons zweet en ons bloed
+op de uitgeploegde akkers nauw spichtige halmen
+(doet rijzen:
+Waar 't eeuwig slaven, door rust nooit verzoet.
+De leden doet stijven, de haren vergrijzen.
+En gade toch en kroost van honger beedlen moet.
+Wij ijlen naar 't Westen, naar 't maagdlijke land.
+Waar vruchtbare akkers wenken;
+Die 't zaad jen dat neerviel uit dartiende hand
+Verduizendvoud herschenken.
+
+Vaarwel, armlijk Europa • waar en havens en ree.
+Verzand en verlaten, slechts beedlaars zien kruipen
+(en kwijnen;
+De schepen onttakeld, ontwend aan de zee.
+In de oogen des handlaars slechts rouwteekens
+(schijnen.
+Wier aanblik 't wigt verzwaard: van 't plettrend
+, (hartewee.
+Wij ijlen en zeilen naar 't bloeiender oord,
+Waar duizenden van schepen
+Uit oosten en westen, uit zuiden en noord
+De schatten binnen slepen.,
+
+Vaarwel, waanzick Europa i met uw nietig gebral
+Op rangen en titels, door 't erfrecht aan 't nak roost
+1 (gegeven;
+Waar aanzien meest gift is van 't blinde #eval,
+De smet der geboorte op verdienste blijft kleven.
+En de eedle burger wijkt voor 't baardloos
+jonkren(tal.
+Wij ijlen naar 't vrïjland, dat blauwt over 't meer,
+Waar vorsten burgers worden:
+•Slecht} deugd geeft daar adel, verdienste en eer,
+n moed slechts ridderorden.
+Vaarwel, dweepziek Europa ! dat de liefde vergeet,
+Als broeders huns Vader met andre gebaren ver
+
+teeren.
+Waar heersehzueht, met schijn van den godsdienst
+(omkleed.
+Den ketter niet slechts uit den hemel durft weren.
+Maar hem ook reeds op aarde als slaaf der hel
+ver(treedt.
+Wij ijlen naar 'tvrijlaiid. waar niemand dan (ïod
+'t Geweten durft bespieden.
+De wetten aan allen het eigenste lot
+En d' eigen eerrang bieden.
+Vaarwel, duistrend Europa ! waar de wijsgeer
+ver(stomt
+Bij d'aanblik dos kerkers, die 't peinzen en zwoegen
+(zal looiien:
+Waar drukkunst in kluisters, door 't dwangjuk
+(gekromd.
+Het regt moet verguizen, verdrukking moet
+(kroouen.
+En op hare eigen schand een krassend hooglied
+(bromt.
+Wij ijlen naar 't vrijland, waar kerker noch boei
+Den denker stil doet zwijgen;
+De rups van tien persdwang niet knaagt aan den
+(bloei
+Van Wijsheids toovertwijgen.
+
+
+Vaarwel dan stervend Kuroop ! dat uw zwakheid
+(verhult
+Door kunsten der weelde, door windsels en tooisels
+(en vt-iven:
+l'ir tijd is verstreken, l'ir ronde rerrnltl.
+Wij i-luiten om onder het jmin niet te tttcrvcn.
+Waarmee tjij bij me val n~at leeft rerulettren snit. l)
+Wij ijlen naar 't halfrond, wiens bloeitijd begon.
+•Xu alles hier .verdorde;
+Naar 't eeuwige godsplan Verhoogt daar de zon.
+line duisterder 't hier «t'orde.
+En heeft daar de zon ook eens haren kringloop
+(volbragt.
+En taant ze er na eeuwen bij 't grijzen van volken
+(en staten.
+Dan snelt weer ons nakroost, in 't duizendst
+ge(slacht.
+Euroop ! naar uw halfrond, dat wij nu verlaten,
+En dat na eeuwen rust. herrijst in jongelingskracht.
+Vaarwel dan. Europa! dra zinkt gij in t niet
+Om jeugdig te herleven;
+En 't wijkoord, dat ons nu Amerika biedt.
+Zult gij ons kroost dan geven.
+Toen .Boxman in den zomer van UW l uit zijn
+graf verrees, en hij, orn zich aart de nieuwe aarde
+te acclimatiseeren, aan boord van den Nautilus,
+die van haar waanzinstocht naar het barre'Noorden
+af had gezien, naar Amerika voer, merkte hij in
+zijn Paradijs, dat, volgens zijn berekeningen van
+vóór 100 jaar, nu wel de volmaaktste heilsstaat
+moest zijn, drie wonderlijke dingen op:
+(300 gevechtsvliegtuigen boven de hoofdstad 'van'
+een volk, dat slechts den vrede wilde.
+Een drooggelegd land. waar de alcohol meer
+misdadigers voortbracht dan ooit. En bandieten.
+in legers ingedeeld, die, uitgerust met machine
+
+geweren en pantserauto's, een geregelden oorlog
+voerden.
+En daar hij een scherpzinnig man was. achtte
+hij nu reeds den tijd gekomen om weer weg te
+snellen naar het andere halfrond. Maar hij kocht
+in een boekwinkel het Stervend Europa van Iwan
+Ci'oll en de schrik sloeg hem om het hart. Naar
+welk maagdelijk gebied nu de voet gericht?
+Sahara? Oobi? Kalahari? Neen; hij kocht den
+Nautilus oni er mee naar den Pool te gaan. Even
+buiten de haven van New-York stootte de onder
+
+zeeër lek, en Mr. Boxman stierf op den bodem der
+zee zijn tweeden dood.
+1) Cursiceeriny van mij, D. B,.
+Zeist als Woonplaats*
+BOUWTEKHEIX TK KOOI* In het centrum
+run iflefst, aan «len verkeersweg Utrecht
+Arnhem, in de onmiddellijke nabijheid van
+het HaadhulH, de Hotel* Hermitage en Figl
+en het Slot van SKcl&amp;t. Prachtig opgaand
+geboomte, stofvrije wegen, voorzien van
+rioleerlng, gas, water en clectrlcltelt.
+Kadere gegevens worden verstrekt door de
+N.V. PARK KEKSIIEIIGKX,
+Montauban«trout 4, Holst.
+Nieuwe uitgaven
+
+H. Kaal. Van Drie tut Zes. 'n Voorleesboek
+voor de kleintjes. Den Haay. G. 13. ran
+(•oor Zoncn's U. M. AT. V. Met platen van
+K ie Cruiner.
+Klaarblijkelijk is dit gezellige prentenboek vol
+plaatjes niet alleen bedoeld voor de heele kleintjes.
+die de geheimen van het a-b-c nog niet hebben ont
+
+sluierd, al zullen ze graag luisteren, als de lotge
+
+vallen van Jan en Marietje ze worden voorgelezen.
+Want de letter is heel groot, de woorden zijn.
+eenvoudig en door lettergreep-streepjes gemakkelijk
+leesbaar voor de oudere kleuters, die, dank zij
+goed-ver/orgd voorbereidend onderwijs gewoonlijk
+al voor hun zesde jaar zilf kunnen lezen. Het ver
+
+haaltje is naar Ligthart's trant, een vokomen
+weei-gave van de werkelijkheid: het regent en
+Jantje drukt zijn neusje plat tegen de ruiten.
+Marietje wordt een heel klein beetje door een
+auto aangereden en komt er zonder kleerscheuren
+af en ten slotte spelen ze samen gezellig bij moeder
+in de keuken. Er komen krentenbolletjes, n'tg
+kleinen*.kleuters en strijkijzer aan te pas. I U- laatste
+had de schrijver misschien beter kunnen weglaten:
+nu is er een klein Touche-a-touche-accentje ge
+
+komen, dat wat vei-ouderd aandoet. Al is. gelijk
+gezegd, de heer Kaal. een toegewijde
+l.igthartvolgeling.
+De plaatjes van Kie C'raiuer toonen bewegelijke
+kindertjes en jeugdige ouders, die als steeds, de
+lezers en toehoorders, zullen veroveren.
+
+A. den Hertny. De Xar van Jacalra. 'Den
+Haai/. (!. H. ran door Zoneti's f'.A/..V..V.
+(ieïll. d. J. H'. M. Wins.
+De schrijver is zonder eenigen twijfel een goed
+Nederlander naar oud-vaderlandschen trant. Bo
+
+vendien vei-staat hij do kunst oud-vaderlandsche
+heldendaden zoo te vertellen, dat onze democra
+
+tische tijd geen aanstoot behoeft te nemen aan het
+feit, dat de rijke kooplieden slechts profijt trokken
+van Indië's rijkdom, door het volk met gevaar
+voor hun eigen leven, zonder eenig winstbejag voor
+zich zelf, meegebracht. Immers de hoofdpersoon
+van dit verhaal Jean Jacques Mareaux, eenmaal
+Hofnar van Koning Hendrik IV van Frankrijk,
+van alle markten thuis en door de grillen van het
+noodlot als matroos aan boord van een
+Hollandschen koopvaarder naar Indiëgeronseld, onder
+
+staat 't, als onderkoopman, naar Holland terug
+
+keerend, den l foogmogenden deze waarheid, naar
+hofnarrige gewoonte, in het aangezicht te slingeren.
+Ditmaal zonder kwade gevolgen voor liemzèlven.
+daar dédeftige Amsterdamsche koopman, die het
+College van Zeventien der Oost-Indische Compag
+
+nie presideert, alweder dank zij Fortuna en Noodlot.
+zijn... .oorn blijkt te zijn.!
+Intusschen heeft de schrijver, gelegenheid gehad
+om dezen inderdaad zeer geestigen jongeman.
+die nooit om een antwoord verlegen is en zelfs in
+de. grootste perikelen nimmer zijn moed verliest,
+te hanteeren als werktuig ohi alle wetenschap
+over rónselaars, het barbaarsche zeeleven der 17e
+eeuw, • de heerschappij der'Hollanders op Java.
+Jan Pietersz, ('oen, verraderlijke Spanjaarden.
+wreede I.manders e.d. te luchten, met het resultaat,
+dat we zijn belezenheid en zijn levendige schrijf
+
+wijze bewonderen, maar tevens vaststellen, dat
+dei-gelijke jongenslectuur uit den tijd en uit den
+booze is. Zoodat dit bock in de boekenkast van
+een Hollahdschen jongen niet op zijn plaats kan
+worden geacht.
+R O VAN OVEN
+Hu/ 7onilUfOn komen tot rust,
+kalUW C.CIIUWCII meeren en worden
+daarbij tevens gesterkt door het gebruik van
+Mijnhardt's Zenuwtabletten
+Glazen Buisje 75 et. Bij Apoth. en Drogisten
+
+No. 2825
+DE GROENE AMSTERDAMMER VAN 25 JULI 1931
+UIT HET KLADSCHRIFT VAN JANTJE
+
+Zomervacantie 1931
+door Annie van Rhoon
+U" ET pension".
+••• •*• Twee villa's" aan elkaar ge
+
+regen, met n naam Mary-Anna".
+Veelbelovend van goedmoedigheid,
+vertrouwen-wekkend die naam. Voor
+het huis, pardon, voor de villa's,
+achter een hekje de voortuin, 2 X 5
+Meter netgeharkt grind met een gras
+
+randje. Tusschen de openslaande deu
+
+ren van de ne suite en het open
+
+slaand raam van de andere, waar de
+gasten al aan tafel zijn, de huisdeur,
+netjes bruingelakt. Het belletje rinkelt
+vriendelijk, een Do.-psch meisje met
+zwart japonnetje en wit. schortje,
+keurig", doet open. Hartelijk grijnst
+daarachter de juffrouw. De vloermat,
+de kokoslooper zijn onberispehjk. De
+slaapkamer, met Engelsch ledikant,
+witgehaakte sprei, waschtafel met
+formidabele waschkommen en dito
+kannen schtfnt van hetzelfde kaüber.
+In tegenstelling met de later ontdekte
+waarheid;
+* *
+De eetkamer".
+We gaan middagmalen. De juffrouw
+maakt excuses, 't Is een beetje Iaat
+('t is kwart over zes), 't eten moest
+warm gehouden, ziet U". We knikken
+glimlachend, begrijpend. De tafel
+blikt ons aan, maagdelijk blank, voor
+iedere plaats een wit granieten bord,
+een lepel, vork en mes. Boven het
+bord een dessertlepel. Echt alpacca.
+Alles gloednieuw. Verder garnituur:
+l lepel voor de groente, l voor de
+aardappelen, l voor de pudding. Best,
+een blank niets. Dan maaltijden we.
+Ieder n granieten bord soep, halfvol.
+Echt. Dan n granieten schotel
+vleesch, vél doorzichtige plakjes, n
+granieten dekschaal kruimige aard
+
+appels, n granieten dekschaal
+spersieboontjes, n sauskom, ook graniet,
+niet inhoud en granieten sauslepel.
+Ten slotte pudding, Hollandsch recept,
+bibberend van maizena.
+Dit 7 maal gerepeteerd gedurende
+l week.
+Ontbijt melk, koek, ei, kaas (dun
+gesneden!), jam (huishoud-), 3 boter
+
+hammen per hoofd.
+Dit 7 maal gerepeteerd gedurende
+l week.
+Koffiedrinken, als ontbyt, 4 inplaats
+van 3 boterhammen, een granieten
+bord met schijfjes worst.
+Dit 7 maal gerepeteerd gedurende
+l week.
+
+* »
+*
+Het strand.
+Regen, storm, afgewisseld door
+rafels zonneschijn, waarin men" zich
+koestert, waarin men" het waagt
+de golven te trotseeren, waarin men"
+zelfs zonnebaadt. Een beetje bibberig,
+maar met wat goeden wil.... Totdat
+eindelijk de badsteden vacantièkrij
+
+gen. Niet allemaal. Want het pension,
+weet U! Waar men" zich terugtrekt.
+Men" van drie-hoog-achter", men"
+van soo'n lief woniukie'V de men"
+van de f esoendeUjke straat, die precies
+dezelfde ,,men"-allure8 heeft als de
+vroegere men" van voor den oorlog,
+TOE RIS
+De Reis naar de Poolstreek van
+DE GROENE AMSTERDAMMER"
+S. S. Sierra Cordoba", ViaScheveninfren
+Radio. 22 Juli;
+Maakten interessant uitstapje op IJsland.
+Autotocht Reykjavik. Passeerden het
+eiland Jan Mayen. Alle* wel aan boord.
+Bezoek aan Spitsber^en. Thans in Pool
+
+streek aangekomen. Zoo goed als geen
+zeexleken. Middelmatig weer. Veel ge
+
+noegen tijdens feestelijkheden op Sierra
+Cordoba.
+alleen met minder traditie en minder
+cultuur.
+Maar de witte schoenen en de onbe
+
+rispelijke pantalons, en de
+extraordinaire hoofddeksels ontbreken even
+
+min. Alleen rusten de badstoelen
+minder. Want men" is toch niet
+op een badplaats om thuis te zitten.
+Het ,.pension", weet U. Nee hoor,
+dat ete is niks hoor. Ik geef de mijne
+lederen morgen een flink bord gort.
+Watte boterammetjes.. .."
+Maar de regen klettert, en de
+storm loeit, 't Is zomervacantie 1931.
+Zelfs de meest uithuizigëbadgast
+geeft 't op. En de badstoelen kruipen
+bij elkaar, gezellig naar elkaar. En
+het ijskarretje geeft het op. Wie lust'
+er nu nog ijs. Zelfs men" niet. Men"
+zit in het pension. Hebt ud ie gekke'
+juffrou wel gezien, met d'r broek en
+d'r kimonotje. Hoe durreft 't mins" !
+Spichtig dat ze ist" Wel voldaan
+kijkt de juffrouw, die altijd gort geeft,
+naar eigen meer omvangrijke beenen.
+Welgedaan is men", de vrouwen ver
+
+achten ganscheUjk de slanke lijn. Wat
+niet belet, dat....
+De dancing"
+bloeit. Een temperamentvolle violist
+beeft de leiding van het strikje, met
+armen en beenen, met z$jn heele jf,
+de man, die vrouwenharten breekt.
+Goedmoedig bestrijkt de cellist zijn
+instrument, onbewogen betreden des
+pianisten vingeren het klavier. Een
+fox-trott, een two-step, zelfs een tango.
+Daar dansen ze, dikken en dunnen,
+ouden en jongen, de langlokkige
+bakvisch, de kaalhoofdige meneer,
+zalig. Met en zonder temperament.
+Meest zonder, 't Doet er niet toe.
+Toch zalig. Want buiten, 't is zomer
+1931, slierten de regenvlagen, loeit
+de storm.
+Débad "-boot wacht op betere
+tijden.
+
+</text>
+<image timestamp="2002:10:27:07:18:04.00" size="512349">D200AE4.TIF</image>
+</page>
+</document>

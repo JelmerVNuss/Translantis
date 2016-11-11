@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391104</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De
+r tij
+i
+r
+!i
+Hooggeachte Toehoorders
+Gij weet, evenzeer als ik, dat immer
+reeds oorlog den mensch geteisterd heeft.
+Ik toon U daarom eenige plaatjes uit mijn
+standaardwerk Historia Bellorum".
+Reeds in Praehistorischen tijd streed
+men man tegen man, getuige deze
+eerste afbeelding links boven, een
+reproductie van rotsteekeningen te
+Mont Godes (Godesberg).
+Als volgende tijdperk koos ik de
+groote Grieksche beschaving. Het hier
+afgedrukte fragment (No. 2) eener
+amphoor of vaas, gevonden bij Athenia,
+toont U een schoon gevecht tusschen
+drie athleten, terwijl een veteraan
+den afloop van den strijd afwacht.
+Links (afb. 3) vindt gij een fragment
+uit den timpanon van den Marstempel
+te Rome. Daarnaast rechts (No. 4)
+geef ik U een middeleeuwsche minia
+
+tuur van een ridderlijk tornooi, uit
+het fraaie Gothische handschrift Mayn
+Khampf". En links (5) ziet U het be
+
+roemde en fraaie raam uit den kathe
+
+draal te Braunau; de voorstelling is:
+de hakenkruistocht van Sint
+Adolphus". Rechts (No. 6) komen wij in de
+laatste jaren van den dertigjarigen
+oorlog: Hertog Adolf en Graaf
+Hermann houden krijgsraad".
+Echter ook een der groote zee
+
+slagen wilde ik u toonen in dit fraaie
+Engelsche schilderij: Admiraal
+Nevilleson op zijn admiraalsschip."
+De meester der moderne oorlog
+
+voering wilde ik U niet onthouden (8).
+Met de oorlogvoering staat de af
+
+beelding slechts in verwijderd verband.
+Het is meer een gevolg er van.
+Na al deze bewogen oorlogstafreelen
+uit de historie geef ik u tenslotte, als
+scherp contrast, het pendant uit 1939.
+Ik dank U voor Uw aandacht. H. B. F.
+s.
+
+PAG, 17 DE GROENE No. K37
+
+</text>
+<image timestamp="2002:09:13:05:50:05.00" size="309111">D2004EZ.TIF</image>
+</page>
+</document>

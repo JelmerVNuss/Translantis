@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18990423</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1139
+VICTORIfl
+Nieuwe Serie Sigaren.
+In 5 uitstekende kwaliteiten.
+Directe Import
+VAN
+H A VAN
+A
+MANIDD A
+
+Caballeros
+Sublimes. &lt;&gt;
+Camelias - .
+Invincibles .
+Impériales . . . . *vv.
+PROEFKISTEN (5O stuks gesorteerd) a f 3,5O (franco in Nederland.)
+. . ƒ 50.- per mille.
+
+60
+70.
+80.
+100.Ho f l everanciers.
+pratmmM
+©rmrtste
+MA&amp;AZIJUEI
+mm
+Hoofdkantoor Rotterdam
+HOOGSTRAAT 244.
+C
+KRETA
+EN
+c
+VOORWAARTS
+zijn de meest gewilde
+3 Cents Sigaren.
+Spciale Inriciiüni
+VOOR
+EXPORT
+NAAR
+Oost- en est-Iiidië.
+
+</text>
+<image timestamp="2002:08:13:03:59:58.00" size="197886">D20001J.TIF</image>
+</page>
+</document>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381217</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Aan dit, verhaal zit een geschiedenis vast, die
+wij den lezer s [moeten vertellen. Het werd door
+Victor E. van Vriesland voor dit nummer van de Groene geschreven,
+maar op een bepaald punt van de historie, juist toen de pointe
+moest komen, gebeurde er iets waardoor de schrijver, en daarmee het
+verhaal, in een moeilijk parket kwamen. Wat dit moeilijke parket
+was, en op welke wijze een oplossing daarvoor is gevonden, kan men
+zien, als men het verhaal doorleest.
+DE eerste vliegtocht van Marion van Westreene
+was tevens haar laatste. Toen haar moeder
+ziek lag in Napels, en zij de gewone
+verkeerslijn naar Rome had genomen om haar spoedig
+te bereiken, geraakte het toestel boven Zwitserland
+in een wolkenbank en vloog te pletter tegen een
+bergwand. Men durfde dit treurige nieuws niet
+meedeelen aan de oude mevrouw, die een ernstige
+hartaandoening had; deze voorzorg mocht echter
+niet baten, en twee weken later stierf ook zij.
+Inspecteur van Westreene, van de Centrale
+Recherche, bleef alleen achter met een dochtertje
+van nog geen zes jaar. Hij moest naar een kleinere
+woning uitzien, en vond een vriendelijk vrijstaand
+huisje even buiten de stad, met een klein voor
+
+tuintje, in een voorstad-achtige wijk die nog
+eenigszins een dorp leek. Zijn zuster had -hem aan
+een volkomen betrouwbare huishoudster geholpen,
+en dat was een uitkomst, want hij moest vrijwel de
+heele verzorging van Hetty aan haar overlaten daar
+zijn werk hem voortdurend overdag, en soms zelfs
+nog 's avonds, buitenshuis riep.
+Van Westreene had zielsveel van zijn vrouw
+gehouden en in acht gelukkige huwelijksjaren was
+zij hem tot een onontbeerlijken steun geweest. Maar
+hij droeg zijn verlies als een man en dompelde zich
+onder in zijn werk. Met een soort fanatieke
+teederheid hechtte hij zich nu aan zijn kind, aan wie hij
+zijn Zondagen wijdde en zooveel mogelijk al zijn
+tijd van zijn thuiskomst af tot zij naar bed ging.
+Hij verwende haar met allerlei kleine geschenken en
+duizend zorgen, en trachtte zooveel mogelijk de
+onaangenaamheden van het schoolbestaan en de
+toch waarlijk niet overmatige strengheid van de
+huishoudster voor haar op te vangen. Voor den
+innerlijken groei van Hetty was deze volkomen,
+niet altijd verstandige en bijna jaloersche toege
+
+wijdheid niet onverdeeld gunstig. Haar lief, zacht
+karakter behoedde haar weliswaar ervoor, een
+onuitstaanbaar bedorven wicht te worden. Maar het
+kind had, al uitte het zich weinig naar buiten, een
+zwaren gemoedsschok ondergaan door den zoo
+plotselingen tragischen dood van haar moeder, en
+daar door haar vader, en op diens instigatie ook
+door de huishoudster, te veel notitie van haar ge
+
+nomen werd, kwam zij daar niet gemakkelijk over
+
+heen. Zij bleef een nerveus kind, stil, in zichzelf
+gekeerd, en toch met een zekere onrust en onge
+
+durigheid in zich. Ook nog, toen zij wat ouder
+werd en de huishoudster door een dagmeisje ver
+
+vangen was kunnen worden. Want inspecteur van
+Westreene had er op den duur, toen dat mogelijk
+werd, de voorkeur aan gegeven de maaltijden zonder
+derde, in de besloten intimiteit van hen beidjes te
+kunnen gebruiken.
+: Zoo vergingen de jaren. Van Westreene had zich
+allengs een grooten naam op zijn gebied verworven
+en was de schrik der misdadigerswereld geworden.
+Daartoe hadden eenige geruchtmakende zaken
+bijgedragen, die door hem tot een oplossing gekomen
+waren. Meer dan men denkt, berusten de goede
+eigenschappen, welke een inspecteur tot succes
+brengen, behalve natuurlijk op scherpzinnige
+speurdersgaven, ook op onvermoeiden, noesten,
+methodischen vlijt, en dezen bezat Van Westreene
+in ruime mate. Dank zij die niet aflatende volhar
+
+ding en vasthoudendheid had hij een vijf jaar
+geleden de opzienbarende en duistere affaire van de
+Escompto-Bank opgehelderd, waarbij een brandkast
+met groot vakmanschap voor eenige tonnen ge
+
+plunderd was, doch elk spoor van den dader of de
+daders ontbrak. De nasporingen van inspecteur van
+Westreene hadden maanden en maanden geduurd;
+er was bijkans een jaar voorbij gegaan, eer hij
+eindelijk, als belooning voor zijn
+mldoggen-koppigheid, een draad in handen had gekregen. Maar toen
+was het ook nog maar een kwestie van enkele weken
+geweest om het onaantastbare bewijsmateriaal te
+verzamelen tegen IJsbrand Drosse, den beruchten
+en gevaarlijken inbreker, in het milieu der zware
+jongens" beter bekend onder den bijnaam van de
+Hardbef, hem toebedeeld nadat eens in de stampij
+om de verdeeling van een buit een mes op zijn
+borstbeen afgeschampt was zonder aanzienlijke
+schade aan te richten. Zijn tegenstander was er
+overigens bij die gelegenheid minder gunstig afge
+
+komen, zoodat hijzelf een paar jaartjes wegens
+zware mishandeling extra had moeten opknappen.
+Steeds meer werd aldus de inspecteur door zijn
+werk in beslag genomen. Dikwijls bleef hij nu ook
+des avonds in de stad op zijn bureau doorwerken
+of met den rechter van instructie confereeren.
+Hetty, die tot een aardig meisje van zestien jaar was
+opgegroeid, zat dan alleen thuis op haar
+slaapkamertje in de stilte der dorpsche straat; zij hield
+meer van romans lezen dan van uitgaan. En wan
+
+neer zij eindelijk de voordeur hoorde slaan en haar
+vader thuis wist, glipte zij snel in bed en hield zich
+slapende, wetend dat hij haar nog even goeden
+nacht zou komen kussen.
+
+OP een stormachtigen avond in December, het
+liep al tegen Kerstmis, was inspecteur van
+Westreene vroeger dan gewoonlijk thuisgekomen.
+Tegen zijn gewoonte was hij aan tafel somber en
+peinzend. Na den eten zat de anders zoo werkzame
+man, die meestal allen tijd dien hij niet aan Hetty
+wijdde, besteedde aan het bestudeeren van vak
+
+litteratuur, stil en ernstig voor zich uit te kijken in
+het vlammende haardvuur. Een vage onrust en
+nervositeit vervulden hem, gelijk hij bij zijn meest
+opwindende speurders-avonturen nooit gekend
+had.... En het vreemde was, dat hij niet wist,
+waaraan hij dit moest toeschrijven. Maar door een
+lange practijk gewoon, zich van zijn gevoelens
+scherp rekenschap te geven, en gedreven door zijn
+gewone vasthoudendheid, gaf hij het niet op, en
+zocht en zocht.... Hetty was allang naar bed
+gegaan, het middernachtelijk uur naderde reeds,
+maar hij zat nog onbeweeglijk in zijn fauteuil voor
+den haard, en keek in zichzelf....
+Plotseling, met een schok, kwam het tot zijn
+bewustzijn. Ineens zag hij weer het loensche en
+dreigende gelaat voor zich opdoemen, dat hij vraeg
+in den middag, terwijl hij met brigadier
+Brummelkamp door de Kalverstraat liep, langs zich had zien
+schuiven, en dat, een fractie van een seconde, maar
+zonder dat het goed tot hem doordrong, zijn aan
+
+dacht had getrokken doordat het hem zoo fel,
+strak, vijandig, vol haat, in het voorbijgaan fixeerde.
+Onbewust had die blik hem niet meer losgelaten.
+Nu zag hij het gezicht duidelijk voor zich, He
+
+meltje lief.... Dat was.... dat was.. .. was dat
+niet.... de Hardbef !? De man, die door zijn toe
+
+doen jaren geleden als de dader van de
+Escomptoinbraak ontmaskerd was ! Weer zag hij de
+gerechtszaal voor zich, zag weer die banale en daarom
+sindsdien allang vergeten scène, toen de verdachte
+in razende dreiging zijn vuist tegen hem geschud
+had, nadat hij aan het eind was gekomen van het
+uitvoerig getuigenis, dat hij tegen hem had afgelegd,
+en langs de beklaagdenbank weer naar zijn plaats
+terugging.... Laat eens kijken, ja ja, dat klopte,
+hij kon nu net op vrije voeten gekomen zijn. ... tot
+vijf jaar gevangenis was hij toen veroordeeld!
+Inspecteur van Westreene was een moedig man
+die ook den gevaarlijksten situaties in zijn beroep
+koelbloedig het hoofd had geboden. Maar nu liep er
+toch zoo iets als een huivering over zijn rug. Dit
+was geen overzichtelijk gevaar, dit was een vage
+duistere dreiging, een nog nooit gekende angst, als
+een laag, loerend dier dat overal uit het donker te
+voorschijn zou kunnen springen en Hetty en hem
+in zijn greep worgen.
+Huilend en gierend loeide de storm rond het huis.
+In de straat hoorde men het geluid van een auto, die
+ergens stopte. Toen kletterend glasgerinkel. Een
+oogenblik stilte, onmiddellijk verjaagd door het
+gehuil van den wind en van den regen tegen de
+ruiten. En ineens klonk, als van een beest in
+doodsnood, een snijdende gil door het huis, wegstervend
+in zacht gejammer.
+
+TOEN GING PLOTSELING
+HET LICHT UIT ....
+en doordat ook in zïjn kamer het] licht uitging,
+kon de schrijver van dit verhaal op dat oogen
+
+blik zijn vertelling niet afmaken. Om uit deze
+moeilijkheid te] geraken, belde hij twee collega's
+op, om hun"tte vragen hem uit die narigheid
+te helpen en' een slot voor dit verhaal te wil
+
+len schrijven. Zij waren hiertoe aanstonds
+bereid, en het resultaat van hun bemoeiing
+kan men hiernaast vinden. Daar is ook afge
+
+drukt het slot van het verhaal, zooals de auteur
+zelf zich dit oorspronkelijk had gedacht, en
+het later opschreef. De lezer zal bemerken,
+dat er tusschen deze drie manieren, een oplos
+
+sing te vinden voor het einde der novelle, een
+zekere verwantschap bestaat, hoewel natuurlijk
+daarover de drie betrokkenen geen enkel over
+
+leg hebben gepleegd. Daaruit blijkt de scherp
+
+zinnige logica, waarmede Van Eysselsteijn en
+Campert den draad van den schrijver der
+novelle in de goede richting hebben verder
+gesponnen.
+PAG. 2-1 DB GROENE No. 3111
+
+</text>
+<image timestamp="2002:10:03:01:36:47.00" size="214384">D1000989.TIF</image>
+</page>
+</document>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270910</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+p«r {•» f M.-.
+A***t««»tll» ft.» p«» rtgcl
+10September
+
+cckblad voor* Nederland
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON J79M
+£&lt;&gt;••&gt; nunmeri 25 eend
+f* A A G T
+VAN
+
+UIÏEli'S
+
+VOCAAT
+AN BIJSTERVELD
+AMSTERDAM
+EXPORT
+9
+Een 32 julp fHiMtlp reputatie
+
+POOL'sATOL
+tast het tandglazuurnoch tandvleesch aan
+Goed en toch zeer goedkoop.
+m
+R Z U R C H E R
+TONNAGBFABRIEKenDRUKKERlJ
+*$GRACHT64-66-68-70-72,AMSTERDAM
+RMRAMPEN 1925-27
+Verzeker^ U wc eigendommen^
+4 , Fabrieken^ Woon^ en Winkelhuizen,
+Inboedels en Goederen»
+|'j Vraagt onzepconcurreerende tarieven»
+'
+^
+'•*, •*
+f»r. 2&lt;4 mllHoen Gulden
+;5v .
+A. D. BEERENDS 8 VEEREN
+AMSTBBDAM
+LBEUWABDBN.
+» Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+OEKENKASTEN
+EKARTHAUS
+B L e PO o n
+\
+GOED EN WEL
+TERUG VAN DE REIS
+
+FOTOs
+laten afwerken
+bij
+
+CAPI
+115 Kalverstraat
+
+Goed Billük Technisch
+MAAR
+KARELI
+1781
+
+-Hendrik Kruimel
+Wijotandel»»r Anuterdaa j
+Eenïg opTolger raa
+Schimmelpcnninck &amp;• Kruimel
+Kantoor: Keizersgracht 325
+Telefoon 40647
+NV.U4.KLC05TCRULI5
+AMSTERDAM
+SNELBLUSSCHER
+- ttHOLLANDIA"
+tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283
+Amsterdam
+ITIMTUR!
+
+i
+l
+Mr 16
+THERE IS MO BETTER
+Abonneert LI op: M «« «« «« »•
+De Groene Amsterdammer
+
+</text>
+<image timestamp="2002:09:25:19:50:01.00" size="196394">D2006CY.TIF</image>
+</page>
+</document>

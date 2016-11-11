@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260807</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A R ZÜRC H ER
+GARTÓMNAGËFABRIEKenDRUKKERIJ
+LQÖIEKSGRACHT64~66-68~70-72.AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PAYS-BAS
+KAMERS MÉT WARM EN KOUD STROOMEND WATER
+E
+LBINGIA
+Verzekering-Mijen., _- Ao 1901.
+
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN
+. 30 CENT PER HALF ONS
+.V. Meulelmagazijn EDE1ST
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+l
+QOEDEWAAGEN 'S
+w KROONPIJPf N
+65 CENT
+KR DOOS
+IN GESLOTEN DOOZEN
+VAN 6 STUKS
+Amsterdam:
+Restaurant HOEK
+.............. . ............. »
+,,
+Oesters- Kreeft - Laviar
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichting!
+
+CAPI
+115 KALVERSTRAAT
+t/o LIBERTY
+1781 ^»^~ 1926
+
+Hendrik Kruimel
+Wijnhandelaar Amsterdam
+Ketüg opvolger van
+SchimmtlpennintR f Kruimel
+Kantoor: Keizersgracht 325
+Telefoon 40647
+BEGRAFENIS OnDERHEMIlIfi
+IEUWt SPItütLSTRAAT 01
+N.V.%
+H-A-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- JHOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD. TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar onde stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+^Abonneert U op
+i De Groene Amsterdammer
+hall - marked
+superb
+&lt;\BDULL*t SUPERB CIGARETTES,
+SMOKING MDCTURE.rKIBAOCyPIPES.
+(\BDULLa&lt;&gt; &amp;Ca.l&gt;rD., J73.NEWBOND STREET,
+LONDQN.W1.
+|TIMTUR|
+MEEST GtSCHIKTE BlrtDERIJ VOOR H-H-Ü1T6EVERS
+5TVILLIBRORDUS5TRAAT 53-03 ADAM-TtL 7't^66
+
+</text>
+<image timestamp="2002:09:26:00:01:51.00" size="171535">D10007TM.TIF</image>
+</page>
+</document>

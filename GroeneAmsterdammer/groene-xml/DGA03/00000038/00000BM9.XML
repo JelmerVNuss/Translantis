@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+# *~ * • . x
+wél d* Amsterdammer, Weekbkd voor Nederland
+• • 4
+i'' f ar M. ARMAND DES ROSEAUX,
+DE HAES.
+« ~ "-"
+JM||;'d»io«f **tf bier te lande door Had. Thénard en
+t succes herhaaldelijk opgevoerd.
+4 .. BBRSOKEN: "
+i
+' MAe. BEKTA DE STV»AC, jonge weduwe.
+Advo'caat. '
+^.fmMff^U Jl
+
+«ifto* «$r«»
+»
+met nmdendeur infaam o$
+denachtetn, draperie aan den reditetfait, een
+schcor' naast. Ca
+tl** ~ •" TSERETnir TOONEEL.
+* AMW%- £p depr* 4e i&amp;Mtndeitt ten, iterkmandje in de
+?:gef het f^ een stttl by de tieuft, die zij haastig sluit).
+ffa den knecht, laat de» kóptaer een muizehval zoeken,
+ion' ,«&lt;||dolifzoek de an%hambre, maar hebban moet ik
+
+yttindfe iüAr&amp;«|«r, doch jteert naqr de deur terug).
+dat jfc ^e»r ni«|pJTOpeniljjror4C«iDor je?" Al moest
+S«fc^t dagerratten, zonder ten «n dunken. Zij mag geen
+"-"•^om binpön tft komenjKk «&gt;»er gek van worden* * K'
+isittt*epiü-'faitafé). Hfee verkfcart men nu zoo'iets?
+. een levende WUis in deze ipnwe woning. Op zoo'n manier
+tBtsluitend in «en luchtballon kunnen wonen. Verbeeldm,
+lm J^j.h^ivenster te^erken, j^fijn voeten waren
+e--fc^, «pi daarom stak ik se ii mijn voeteak.
+^^t V &lt;ük eetisklaps zoo'n ellei^ige kleine muis
+t* v W
+
+</text>
+<image timestamp="2002:10:03:22:58:08.00" size="126942">00000BM9.TIF</image>
+</page>
+</document>

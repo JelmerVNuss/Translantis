@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261009</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+WdclKl, vóór het te laat is /
+Binnenkort komt het Verdrag met Belgiëin behandeling
+in de Tweede Kamer. Nederlanders weest waakzaam.
+
+Het nieuwe Verdrag zet de deur open voor het verlies
+van onze souvereiniteit over de Schelde, zal ettelijke
+millioenen aan belastinggelden kosten en brengt onze
+nationale welvaart een gevoeligen slag toe.
+
+Tejn onrechte denkt men, dat dit Verdrag ons de vriend
+
+schap van Belgiëzal bezorgen.
+
+Nog slechts weinige dagen en alle Nederlanders zullen
+hun oordeel moeten hebben gevormd, opdat Nederland
+voor een onheil worde behoed.
+
+Laat U ter dege inlichten over de strekking van dit Verdrag!
+F611
+Ier'
+?'nrampvoor
+
+</text>
+<image timestamp="2002:09:26:05:41:44.00" size="93384">D10007ZY.TIF</image>
+</page>
+</document>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300830</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•'
+t?;
+L*
+
+k:
+l:'
+****,
+J. D. STRUIJS
+Prinsengracht 837 Telefoon 37906
+IE6RAFENISSEI (onr fEIÜEZIli Bit RIJTIII6EI pf AUTO'S)
+CREMATIE - TRANSPORTEN.
+R V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+meer dan 70 modellen
+
+Prijzen van 160.- af
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P .C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 34250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 ~~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 82660
+Begrafenissen - Transporten - Crematies
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/L Gebr, BREEN
+
+NIEUWENDIJK 173
+HAARLEMMERSTRAAT 64
+ROZENGRAGHT 53
+Ateliers voor reparatiSn aan
+Uurwerken, Goud en Zilver
+G. J, DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+BADENENGEYSERS.
+BERGEN (N.H.)
+Pens. aangeb. voor September
+tegen sterk verminderden prijs
+op gegoeden stand.
+Pens. KLEMKERK,
+Wilhelminalaan 21.
+PENSION IER RANG
+POUR JEUNES FILLES DE BONNE FAMILLE
+excellente nourriture
+Belle situation, chambres confortables
+MademoiseUes DE BROT
+Villa Grammont 14 Ave des Alpes LAUSANNE
+lacultéde rececoir ienéeignement. du franfaió el de l'anglai
+a la maison, on de iuvre Leo courj de l' Univerditéet deó
+ecoleó de tnuJique.
+Réjérenceó en Hollande:
+
+JHademoióelle N. M. Middelbeek
+Flalgeb. Zorgvliet LA HAYE
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:02:01:06.00" size="175939">000009IL.TIF</image>
+</page>
+</document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960719</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer. Weekblad v&lt;
+v:i;-. )&lt;) juli
+Burgemeester Vening Meinesz en de Zondagswet
+M n
+j}£.uKL, - ,W- .J
+?
+OTT-HUOKW
+., A M 51 f K 0^ N;
+M'1
+* l' l/' L &amp; i
+Kapitein van de Havenboot tot MR. VENING MEINESZ: »Is U iid, of introducé, Burgemeester r
+Anders komt U er niet op, Zondagsmiddags is het bootje een openbare vermakelijkheid!"
+Alnst. Boek- en .Steendrukkerij, v/h. llerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:04:18:11:26.00" size="395107">D10004MH.TIF</image>
+</page>
+</document>

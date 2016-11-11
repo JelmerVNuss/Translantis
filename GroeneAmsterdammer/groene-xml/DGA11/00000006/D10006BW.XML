@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270326</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2599
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie * Transporten
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+fji
+Alphen a/d Rijn
+Voor alle doeleinden
+l NV
+p Qiem.Kunstinpicriting
+JDirkSchnabei
+Amsterdam.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+Zoo juist verschenen
+het nieuwe nummer
+van
+Bevattende een
+keur van de
+Nieuwste
+Modellen
+voor
+Lente en Zomer
+verkrijgbaar tegen
+00
+100
+Van alle in dit
+album
+voorkomende
+modellen zijn de
+
+LYON"
+Knippatronen / ,~
+bij ons verkrijgbaar / L'
+
+VERKOOP ƒ j)
+Ie ETAGE /Jl*
+Toezending franco na ontvangst postwissel of
+overschrijving postgiro rekening No. 5104 d f 1.10
+DE
+AMSTERDAM - DEN HAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL j
+HEILIGEWEG 15-17 |
+AMSTERDAM \
+
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers |
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+Wed JOHN GAY'S PICCALÏLLI
+MJJFT HET MOSTERDZUUH MET DB FlfNE PIXANTE SMAAK l
+ENGROS Bij DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+NOLIN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram u l •
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+VULT ZE NU
+UWE LINNENKASTEN U
+
+Ge kunt dit doen
+voor weinig geld
+wij moeten geld
+maken, onze voor
+
+raad is vél te groot
+wij verkoopen daarom alle
+lakens en sloopen, tafellakens
+en servetten
+
+voor Spotprijzen
+een paar voorbeelden:
+rondom gefeston. sloopen.. f 0.78
+zware graslinnen lakens	2.35
+linnen damast tafellakens. .. ,, 3.95
+de beste kwaliteit
+de bijpassende servetten	0.79
+
+RESTANTEN
+NOG GOEDKOOPER
+
+MENDELS
+KALVERSTRAAT 111
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+TEL. 43186.
+Speciale aanbieding.
+Graslinnen lakens
+zeer solide kwaliteit
+150 c.M, breed Gewone Zoom .. i 2.95
+Gefestonneerd.. 3.35
+11. a jour .., 3.35
+180 cl Gewone Zoom.. 3.70
+Gefestonneerd., 4.20
+II. a jour ...
+Staal franco op aanvrage.
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+kost slechts f3.- per kwartaal of f
+10.per jaar bij vooruitbetaling
+
+</text>
+<image timestamp="2002:09:21:03:04:46.00" size="149455">D10006BW.TIF</image>
+</page>
+</document>

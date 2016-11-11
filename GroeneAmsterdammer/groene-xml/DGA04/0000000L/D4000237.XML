@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151212</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE ARRESTATIE VAN DEN JOURNALIST SCHRODER
+
+OF
+
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland, van 12 December 1915 HET VERRASSENDE RESULTAAT
+Nadruk vcrbodei'
+GORT RT SCHRODER
+
+Cyrano de Bergerac—S C h roder: (tot de Ministers Ort en Gort): Ik da.uk U voor deze pluim op myn hoed!
+Amst. Boek- en Steendrukkerij. v/h Ellerman, Harms &amp; Cc
+Et samedi, vingt-six,
+une heure avant diner, .£n
+Monsieur de Bergerac
+est mort . . assassiné. . Werd
+(CYRANO DE BERGERAC).
+(Vrij vertaald luidende)
+Zaterdag, den vierde,
+n uur vór 't middageten.
+Cyrano gepakt
+en in de cel gesmeten.
+
+</text>
+<image timestamp="2002:08:22:01:00:18.00" size="583191">D4000237.TIF</image>
+</page>
+</document>

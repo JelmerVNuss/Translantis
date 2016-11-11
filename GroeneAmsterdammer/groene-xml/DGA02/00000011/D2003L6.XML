@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240524</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2449
+AUTOMOBIELEN IMPORTEURS:
+Acht cylinder In n HJn
+N.V. Autohandel
+
+GRUND &amp; C°.
+UTRECHT
+li
+DIR. JAC. V. D. BOSCH
+
+AMSTERDAM
+STADHOUDERSKADE 80
+
+BLOEMENDAAL
+VILLA SORGH-VLIET"
+
+
+TUINPLASTIEK
+
+NED : KRING : VAN
+
+BEELDHOUWERS
+VAN 18 MEI TOT 15 JUNI
+VAN 10 TOT 4 UUR
+BLOEMENDAALSCHE WEG
+148 : VILLA : SORGH-VLIET
+
+BLOEMENDAAL
+,1
+Koldewey &amp; Corbière
+Leidschtstraat 30, Amsterdam
+«i •
+n. mm s zoon
+Wljnhandolaren
+AMSTERDAM . ARNHEM - 's-GRAVEHHAGE
+MmuieiEU Hoofdkantoor: Binnenkant 25, Amsterdam
+1NTERG. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezondei
+VOOR EXPORT SPECIALE CONDITIËN
+DAMES!
+Laat uw wasch behandelen
+door de wasscherij
+
+Ei&gt;iki",Tddiirutr. 22-24. Til. 23725
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEID IQ &amp; Co.
+BIKKER l TEERIlt
+BOEKBINDERS imsldam lelel. 46828!
+litreditschedwarsstraat 17 -19
+, BINDEN SCHOOL- EN
+STUDIEI BOEKEN
+QELEOENHEIDSALBUMS PORTEFEUILLES
+ENZ.
+-FRANSCHE
+
+LINGERIES
+CHEAHSE . .
+PANTALON .
+NACHTHEMD
+ONDERJURK.
+1.75
+1.95
+3.25
+295
+JMONJJMHIS
+
+MAISON DE BLANC
+KALVERSTRAAT 128—130
+Zoo juist
+
+nrschentn:
+REDE
+UITGESPROKEN BIJ HET AAN
+
+
+VAARDEN VAN HET AMBT VAN
+
+GEWOON HOOGLEERAAR IN DE
+
+ALQEMEENE PATHOLOGIE, PA
+
+
+THOLOGISCHE ANATOMIE EN
+
+GERECHTERLIJKE GENEES
+
+
+KUNDE, AAN DE RIJKSUNIVER
+
+
+SITEIT TE GRONINGEN, OP
+
+ZATERDAG 17 MEI 1924
+
+
+DOOR
+
+
+Dr. H. T. DEELMAN
+
+
+Prijs .... f 0,75
+UITGAVE VAD. B. IOLTEIS
+EROIIHEI
+DEI
+NAAfi|
+Stoomwasscherij Het Zuiden
+PIETER ABBTSZSTE AAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave/
+Aanbev. MEIDI8 &amp; VAM ELVEN.
+G. i. DE KONING l Zn. • Keizersgracht 447
+(voorheen LEI DSC H ESTR AAT 69)
+* SANITAIRE INRICHTINGEN
+BLANKENBERGHE Cetil Hotel Lion D'or
+a/Zee. Centr.Zeeboulev.n/h Casino. Bill. cond.
+Dl N A NT ^tel des Familes - Hotel Splendid Palace
+i^ Eerste Klasse _ Mod Comf _ Park van 6 H A
+LAROCHE Grand Hotel des Ardennes
+(Luxemburg) Modern Comfort Prima Keuken
+ROCHEFORT
+BIRON ;
+Mod. Comf., Garage, Prima Keuken.
+Inl. en Prosp. van deze Hotels gr. Intern. Verkeers-Bureau,
+Kalverstraat 168—170, Amsterdam.—Noordeinde 31, Den Haag
+
+Wekelijksche Autotochten naarde Bel. Ardennen
+Vraagt Prospectus
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon Mo. 81 En detail
+Kreeftenpark Belderbos", Bergen op Zoom
+POLLEN's Oude Ceaever
+Fijne Likeuren en Punch
+M. P. POLLEN A ZOON - Rotterdam
+BJASPIBOMMB:
+BCO^BINDER
+KERKSTRAAT»
+AMSTQ3DAM
+FEEST-V UURWERK.
+Vuurwerk is steeds een groote attractie indien betrokken uit de KON. NED. KUNSTVUURWERKFABRIEK
+A. J. KAT v/h. JOHN LOEFF te LEIDEN, tel. 1110. Schitterend vuurwerk met steeds de nieuwheden welke
+bij geen andere firma zijn te verkrijgen, worden tegen scherp concureerende prijzen geleverd.
+Grootste Fabriek in Nederland, opgericht 1826. Vraagt programma's e n prijzen.
+
+</text>
+<image timestamp="2002:09:03:08:32:08.00" size="147361">D2003L6.TIF</image>
+</page>
+</document>

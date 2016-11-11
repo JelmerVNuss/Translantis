@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301115</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+M». 2769
+DE GROENE AMSTERDAMMER VAN 15 NOVEMBER 1930
+Tusschen Censuur en Mexicaanschen Hond
+Teekening voor de Groene Amsterdammer" door L. J. Jordaan
+son . . . . corps balance!
+MUZIEK
+door Constant van Wessem
+Concertgebouw-sextet
+HET Concertgebouwsextet dat zooals men
+weet tegenwoordig tot een kamerorkest is
+uitgegroeid gaf ditmaa.1 onder leiding van
+Monteux de premières van een nieuw stuk van
+Poulenc, Aubade" en van een vroegen Hindemith.
+de eerste van zijn Kanirnermusiken."
+De Aubade" van l'oulenc (die niets met een
+NI KUHSÏHANOEL P. DE BOER
+Heerengracht 474 Amsterdam
+PIJKE KOCH™
+KOR POSTMA
+KAREL WILLINK
+TOT 26 NOVEMBER.
+aubade te maken heeft in il en. zin van een zangkoor
+niet gebruikelijker! regen op den Dam. maai- een
+balletscène is. zich afspelend in den vroegen morgen
+als de zon opkomt) is een werk in den
+tegenwoordigen neo-classicistischen stijl, waarin de moderne
+jonge Franschen blijven volharden, een vlot,
+behagel i j k en luchtig geschreven stuk muziek.
+muziek, die wil behagen en afkeerig blijft van alle
+gewichtigdoerierij zonder zin. Simpel, scherp gelijnd,
+van eenvoudige melodische structuur, musiceerend
+en van toon op het populaire af, laat het stuk geen
+diepen indruk na, maar dat is ook volstrekt niet
+de bedoeling en verbaast ons ook niet .l'oulenc,
+die nooit een diepzinnig man heeft willen schijnen.
+kennend. Het publiek, dat van de modernen geen
+..welluidendheid" gewend is, schrok wellicht een
+beetje van zooveel nonchalante vlotheid en van
+zulke, overigens niet banale, melodische gemakke
+
+lijkheid. Men kan aan het eerie der acht onder
+
+deden waaruit het bestaat de voorkeur geven
+boven het andere, niemand kan ontkennen, dat
+deze muziek charmant klinkt. Een attractie
+vormde nog het aanwezig zijn van den componist,
+die zelf de klavierpartij van zijn concerto chor
+graphique pour piano et dix-lmit Instruments"
+speelde.
+Beter werd het stuk van Hindemith opgenomen..
+Hindeniith beschikt over een muzikalen motor,
+die het altijd weer doet." Deze eerste der
+Kammerrnusiken is wellicht de meest roekeloos
+voortmusiceerende. de brutaalste wat haai' rvthmisclie
+VAN DER HELST SIGAREN
+OEDÏSIGAREI II KEI BESCHAAFDE VERPAKKING
+en melodische effecten betreft, alle' stemmen
+blijven onderworpen aan een ..niir nichts dir
+iiichts"-speel-allure. een echt staal van
+Ilindeinitli's door elkaar loopende lijnen. &lt;j])genonien
+in een centraal motorischen voortgang. \a het
+quartet. voor drie houtblazers en een triangel
+overstelpt de finale ons niet een moderne inter
+
+pretatie van den dancing, een soort foxtrot met
+ruwe rvthmische stooten. waarop als op een deun
+alle muziek wegstroomt. Dit geheele stuk werd
+knap dooi- liet kleine kamerorkest onder leiding
+
+van .Monteux gespeeld, beter dan het concert
+voor clavccvmbel. fluit en viool van Bach. dat
+den avond opende en waarin nog al wat aan de
+duidelijkheid haperde. Kn dat men in onzen lijd
+niet als clavecimbel-spcler wordt geboren leerde
+ons ook Spaanderman, die op zijn instrument
+soms een wat ai te /.onderling geraas voort
+
+bracht. • ..{
+POL ROGER&amp;Ci
+LE CHAMPAGNE EN VOGUE
+JAGER-GERLINGS HAARLEM
+
+</text>
+<image timestamp="2002:09:22:08:43:40.00" size="259886">000008OC.TIF</image>
+</page>
+</document>

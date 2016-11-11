@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001007</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^OT «r-.-«•'
+Na
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Het imperialisme in Noord Amerika en in Engeland.
+Mc KINIJSY: »Allo, in je boei, tot ik uit de stembus ben gekomen."
+JOB CHANBERLAIN : «Kiezers, ziet eens hoe m\jn adelaar z^jn vleugels uitslaat."
+JONATHAN (tot Jo^n Buil): »Zcrode» »jj beiden niet het veiligst zjjn, als we samen dat dier den
+nek omdraaiden?1'
+Gezien het succes van het feestmaal
+der Maires, zal het gouvernement een
+standbeeld doen oprichten voor Waldeck
+Rousseau. De redder der Republiek
+zal worden voorgesteld in hel karakter
+van den onsterfelijken Vatel.
+
+(Fixchictto).
+De Rhodes-Chamberlain-vrüheid- pulverisator.
+(Mortring Lsader).
+Een Khaki-uitslag. (The penny picture looi for electors).
+THE DB:
+J.5HER.
+Loiui SAT.ISBUUY : »Dek je heeren, stel je niet bloot!"
+
+De Beschermengelen van Waldersee. (-lui/end).
+Al degenen, die met Goudmynen ists uitstaande hebben,
+zullen belangstellen in den VRIJHEID-ÏULVESISATOR; een verbe
+
+teringvan »de Jameson",vroeger door dezelfde uitvinders gemaakt.
+In deze machine worden soldaten gemalen en door een, voor
+het oog verborgen, finantieele machinerie verwerkt tot goud
+
+stukken. De eigenaardige bouw van dit werktuig stelt de twee
+werklieden, die het bedienen instaat elkaar te controleeren.
+
+Oorlog is het spel der diplomaten. (Piclures for ^lectors).
+'-* ' • v.-A*
+Hoe Salisbury, moeite noch duizeligheid vreezend, gedurende een uitstapje
+in communicatie blyft met z\jn bureaux. (Ulk).
+,•:„-."• -^ _ \^\m^^&amp;
+
+
+'-jSSa.t.v&amp;tiHSlife.s-' VBKS'ilr s	:
+^^.De Veldmaarschalk Graaf v. WalJersee wordt begeleid door de twee viee-wachtmeesters
+Muller en Nasser, van de lijfjendarmerie des Keizers. Beiden zijn voor het leven van den
+Graaf persoonlijk verantwoordelijk. In hun instructie staat, dat zy den Maarschalk voort
+
+durend begeleiden en bewaken moeten met scherpgeladen revolvers. Zoodra hem slechts
+eecig gevaar dreigt, moeten zij op de eventueele aanranders schieten.
+JOUN BÜLL (tot Bellona): »0orlog? Waar, hoe, wanneer?
+Wat zal ze kosten en wat kan ik er aan verdienen."
+
+Een goede school. (Der FloJi).
+'-" WALDKKSEK : AVat! ga jelui heen ? Donnerwetter ! juist nu ik kom om
+te dirigeeren !" (Punch.).
+[—Goddam! wat kan hy loopen! Dat heeft hy van ons geleerd.
+MR. BKOBEICK (lot John Btiü): »Sjuut! geen woord. Wacht tot de verkie
+
+zingen voorby zyn dan zullen we alles onderzoeken." (Ptcture Politics).
+JOHM BULL : «Heeren komt u niet eens naa^r 't gevecht kijken ?"
+CHAMBERLAIN en SALISBURY : »Neen, dank je feestelyk, wy' blyven liever
+en beetje flirten met deze dames." (Rladderadatsch).
+
+</text>
+<image timestamp="2002:08:15:03:29:33.00" size="436065">D2000ND.TIF</image>
+</page>
+</document>

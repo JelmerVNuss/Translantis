@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250801</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE, GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2512
+HET NIEUWE KANKERONDER
+
+ZOEK VAN GYE EN BARNARD
+door Prof. Dr. W. STORM VAN LEEUWEN
+Indien iemand beweren zou, dat de nieuwe
+onderzoekingen van Gye en Barnard niet belangrijk
+zijn, zou ik mij dadelijk bereid verklaren om een
+lang artikel te schrijven waarin ik het tegendeel
+zou trachten te bewijzen.
+Dit stel ik voorop, omdat ik in het onderstaande
+wil probeeren uiteen te zetten wat de werkelijke
+beteekenis van Gye's werk is en daarbij zal moeten
+betoogen, dat zóó fundamenteel, zóó
+wereldschokkend als vele bladen • de deftige oude
+Engelsche Lancet aan het hoofd hef willen
+doen voorkomen, dit werk m.i. niet is.
+Het is een mooi onderzoek, bevat oorspronke
+
+lijke ideeën, opent nieuwe gezichtspunten, is dus
+onze belangstelling zeer waard, maar als de Lancet
+schrijft: these observations may, we
+believe, represent a solution of the central problem
+of cancer" dan moet ik wel zeggen dat ik ,ge
+
+lieve" dat we van deze solution" nog steeds een
+verschrikkelijk lang eind af zijn, ook al mag men
+Gye om zijn in korten tijd verkregen belangrijke
+resultaten benijden.
+* *
+*
+Om te kunnen uiteenzetten wat Gye en Barnard
+voor nieuws hebben gebracht, moeten we eerst
+nagaan hoe de toestand Was voor zij met hun
+publicatie verschenen.
+Men Weet sinds lang, dat de z.g. boosaardige
+gezwellen, waarvan de hoofdvertegenwoordigers,
+de kanker en het sarkoom zijn, ontstaan door
+woekering van cellen van ons lichaam. Als cellen
+gaan woekeren ontstaat nog niet altijd een
+boos!aardig gezwel; een wrat of pokken bestaan b.v.
+•ook uit celwoekeringen. Het karakteristieke van
+.het boosaardige gezwel is, dat de woekering steeds
+voortschrijdt en ten koste gaat van het omliggende
+-weefsel; het gezwel respecteert, zooals men het
+•wel uitdrukt, geen anatomische grenzen, groeit
+steeds voort, en is tot nu toe alleen door operatie
+of door bestraling in een aantal gevallen
+in bedwang te houden. Bovendien komt bij deze
+gezwellen het verschijnsel van metastaseering"
+voor, d.w.z. uit het oorspronkelijke gezwel
+heeft uitzaaiing plaats naar andere organen; men
+neemt daarbij veelal aan, dat cellen van het gezwel
+door bloed of lymphe naar andere plaatsen worden
+vervoerd en daar op hun eigen gelegenheid gaan
+woekeren.
+Wat is de reden, dat bij een bepaald individu
+een boosaardig gezwel ontstaat?
+Dat is het groote probleem the central pro
+
+blem of cancer". Laten we nagaan hoe dicht Gye
+en Barnard ons bij de oplossing hebben gebracht.
+* *
+*
+Onder de vele theoriën omtrent het ontstaan
+van boosaardige gezwellen, was er n die we hier
+ter sprake moeten brengen, d. i. de parasitaire
+theorie.
+Wordt kanker niet door een parasiet veroor
+
+zaakt, zooals we dat voor tuberculose, voor pokken
+en tal van andere ziekten aannemen?
+Tallooze malen hebben onderzoekers gemeend de
+parasiet te hebben ontdekt, (verleden jaar neg
+twee maal) maar steeds liep het op een teleur
+
+stelling uit. In die richting had men met een
+straks te bespreken uitzondering niet veel
+succes, maar een andere onderzoekingsrichting be
+
+loofde meer resultaat. Men slaagde er in om een
+boosaardig gezwel van het eene dier op het andere
+over te brengen. Ik heb altijd gemeend, dat de
+Deen Jensen de eerste is geweest aan wien dit
+gelukte, maar uit een in de Lancet verschenen
+overzicht blijkt mij dat Hanau en Morau hem
+voor zijn geweest. Het werk van deze laatsten is
+echter onopgemerkt gebleven en de eigenlijke
+experimenteele kankerstudie begint omstreeks
+1902. Jensen had toen een kankergezwel van muis
+op muis overgeënt, dit werk werd voortgezet o.a.
+door Bashford en Murray in Londen, later door
+vele anderen (Ehrlich heeft o.a. veel aan deze
+kankerstudies gedaan) en thans weet men, dat
+in iaf van gevallen dergelijke transplantaties"
+mogelijk zijn en men heeft de wetten leeren kennen
+die, daarbij gelden. Een van die wetten is, dat
+nooit een transplantatie gelukt van de eene dier
+
+soort op de andere; het gaat van muis op muis,
+van rat op rat, maar niet van muis op rat.
+De belangrijkste ontdekking die hierop volgde
+was die van Peyton Rous, die in 1911 in het
+Rockefeller instituut een onderzoek begon over
+transplantatie van gezwellen bij kippen. Hij kreeg
+drie gezwellen in handen die regelmatig van de
+eene kip op de andere liefst van hetzelfde ras
+konden worden overgebracht en de gezwellen die
+daardoor onstonden waren specifiek, d.w.z. de
+drie gezwellen hadden oorspronkelijk een geheel ver
+
+schillenden bouw en verschillende eigenschappen
+en die verschillen bleven bij. de transplantatie
+bestaan: type I gaf altijd een gezwel type I enz.
+- Wat gebeurt er als men een gezwel van het
+eene dier bij het andere transplanteert? Men
+brengt levende cellen van het gezwel in het
+lichaam van een dier en daar ontstaat dan een
+nieuw gezwel. Hoe moet men zich dat voorstellen?
+Gaan die ingebrachte cellen woekeren ten koste
+van de omliggende? of veroorzaken de nieuw inge
+
+brachte cellen alleen, dat de in het lichaam reeds
+aanwezige cellen gaan woekeren? Dat waren
+vragen, waarvan de beantwoording zeer moeilijk
+was.
+Nu komt de belangrijke ontdekking van Roüs.
+Hij nam gezwelweefsel, wreef het met zand,
+voegde er vloeistof aan toe en filtreerde door een
+filter, dat zoo dicht was, dat cellen niet konden
+passeeren. Met dit celvrije" filtraat kon Rous bij
+kippen een gezwel teweegbrengen dat alle eigen
+
+schappen had van het oorspronkelijke gezwel.
+Derhalve: met een uit een gezwel verkregen vloei
+
+stof die geen cellen bevat kan bij een kip door
+inspuiting een gezwel verkregen worden, dat door
+alle werkers op dit.gebied als een echt boosaardig
+gezwel wordt beschouwd. In dit geval dus was
+het zeker, dat door een van buiten ingebracht
+agens de eigen cellen van het lichaam tot woekering
+konden worden gebracht en de aard van het ge
+
+zwel is daarbij afhankelijk van den aard van het
+ingespoten agens.
+Deze onderzoekingen van Rous gelukten bij drie
+kippengezwellen, ze zijn door tal van onder
+
+zoekers bevestigd, maar het is nooit gelukt het
+experiment te herhalen met gezwellen van andere
+dieren; het ging alleen met de drie sarcomen
+van Rous.
+Het is duidelijk, dat Rous' onderzoekingen
+pleitten voor de parasitaire theorie; in het cel
+
+vrije" filtraat kon men de aanwezigheid van een
+parasiet aannemen. Rous zelf ging zoover niet,
+hij sprak steeds van een agens", hij vermeed het
+woord virus" omdat het niet gelukte het agens
+te kweeken d.w.z. men kon niet aantoonen, dat
+het zich vermenigvuldigen kon.
+Op dit punt bleef het werk van Rous staan.
+Hij zelf trok zich omstreeks 1917 uit de kanker
+
+studie terug en anderen kwamen in deze richting
+ook niet verder.
+Intusschen kwam langs twee andere wegen wel
+vooruitgang. De Deen Fibiger toonde aan, dat bij
+de rat een kanker van maag en slokdarm kan
+worden teweeggebracht door een soort worm, die
+parasieteert op kakkerlakken, die door de ratten
+worden gegeten. De gezwellen, die zoo ontstaan,
+voldoen aan de eisenen die men aan een echt
+kankergezwel stelt, ze kunnen ook van het eene
+dier op een ander dier (van dezelfde soort) Worden
+overgebracht.
+Korten tijd later vonden twee Japanners, dat
+bij muizen kankergezwellen kunnen ontstaan
+indien men een deel van de huid langen tijd
+achtereen (weken of maanden lang) geregeld met
+teer besmeert. Deze onderzoekingen zijn door
+anderen bevestigd, de methode van teerapplicatie
+is verbeterd, men heeft de eigenschappen van
+deze teercarcinomen" nauwkeurig bestudeerd, en
+men kan ze nu ook van dier op dier overbrengen.
+Onze landgenoot Deelman heeft o.a. ook aan deze
+onderzoekingen een belangrijk aandeel gehad.
+Hier waren dus twee methoden waarmee met
+een uitwendig aangrijpend agens, experimenteel
+boosaardige gezwellen kunnen worden teweegge
+
+bracht. In deze beidt; gevallen moet men ook weer
+aannemen, dat het agens de eigen cellen van het
+lichaam tot woekering brengt. Maar hoe doet-het
+dat? Velen zijn geneigd om chronische irritatie"
+(door producten van de worm, door teer) voor de
+kankervorming verantwoordelijk te stellen; men
+wist dat chronische irritatie bij den mensen kanker
+kan teweegbrengen.
+Met een eenvoudige parasietentheorie konden
+deze nieuwe onderzoekingen natuurlijk'niet in over
+
+eenstemming worden gebracht. Zij, die toch aan
+een parasiet bleven gelooven stelden zich de zaak
+als volgt voor: er is een parasiet, die vrijwel
+alom tegenwoordig is, maar die op zich zelf geen
+gezwel kan teweegbrengen, hij kan dit wel als er
+eerst chronische irritatie" wordt teweeggebracht;
+misschien veroorzaakt teerapplicatie ook wel langs
+anderen weg een dispositie". Wie in zulk een
+geval dacht aan een parasiet, dacht vermoedelijk
+aan een z.g. ultravirus, een parasiet van zeer kleine
+afmetingen, die eenige bijzondere eigenschappen
+heeft, die wijl ze straks toch weer ter sprake
+moeten komen hier dadelijk kunnen worden ver
+
+meid.
+E. J. VAN SCHAICK
+MAKELAAR
+Korte Jansstraat 25»" - Utrecht
+WONINGBUREAU
+ASSURANTIES
+TELEFOON 126
+Een ultravirns kan niet leven ten koste van
+dood materiaal, maar alleen ten koste van levend
+weefsel. Men neemt aan, dat hij in levende cellen
+binnendringt, de cel tot woekering brengt, zelf
+daarbij zich vermenigvuldigt, terwijl de cel ten
+slotte te gronde gaat. Men moet dus verwachten
+dat een ultravirus niet, zooals b.v. bacterie, of
+dood materiaal (gelatine, agar agar) in cultuur
+zal kunnen worden gebracht, maar alleen in
+media waarin zich levend weefsel bevindt.
+Na deze inleiding kunnen we gemakkelijker
+aangeven wat Gye gedaan heeft. Dit zullen wij
+in een volgendjartikel doen.
+OLIE EN SCHUIM
+In het nummer van 4 Juli 1.1. komt de heer
+Thijsse in een zijner wekelijksche causeriën te
+spreken over de bekende schtiimvorming, en
+hij schrijft die inderdaad abnormale hoeveel
+
+heid schuim, zonder er doekjes om te winden,
+toe aan ,,de allernaarste nasleep van een der
+triomfen van de moderne techniek: het olieveld
+op zee."
+Voor zoover ik heb kunnen nagaan, heeft de
+stookolie met dit verschijnsel niets te maken ge
+
+had en is het alleen veroorzaakt door een abnor
+
+male ontwikkeling van een pianktonorganisme:
+Pliaeocystis globosa. Dit is een eencellig,
+kolonievormend wier, waarvan de microscopisch kleine,
+bruin gekleurde individuen door een geleiachtige
+massa bijeengehouden worden tot meer of min
+bolvormige kolonies, die met het bloote oog nog
+juist zichtbaar zijn. Worden ze grooter, dan ver
+
+liezen die kolonies haar bolvorm en worden on
+
+regelmatige, hier en daar gescheurde klompjes,
+die tenslotte door den golfslag zoodanig verhavend
+worden, dat zij in flarden uiteenvallen.
+Phaeocystis is een van de hoofdbestanddeelen
+van het voorjaarsplankton onzer kust. Ieder jaar
+komt het voor, nu eens meer, dan weer minder.
+Deze wieren hebben een hoogst kenmerkenden,
+zoëtigen geur, die moeilijk te omschrijven is.
+De Katwijker visschers noemen het ,,koelucht."
+De hoöge temperaturen in Mei nebben nu
+vermoedelijk een abnormale ontwikkeling en
+daarmee gepaard gaande massale sterfte van
+Pliaeocystis tengevolge gehad. Langzamerhand
+begon zich aan het strand bij Huisduinen veel
+schuim te vormen. Dit schuim had een viezige,
+bruine kleur, en rook tamelijk onfrisch; bij onder
+
+zoek bleek mij, dat het geheel gevuld was met
+fragmenten van afstervende of reeds afgestorven
+kolonies van Phaeocystis.
+Dat een ophooping van organische stoffen
+schuimvorming in de hand werkt, ziet men o.a.
+prachtig bij de zgn. stroomrafelingen in onze zee
+
+gaten, de witte schuimstrepen aan de oppervlakte
+op de grenzen van verschillend snel stroomende
+watermassa's, waar allerlei drijvende en in ont
+
+binding overgaande organismen en resten van
+organismen, als stukjes wier, zeegras,
+planktonOI.OO
+r 0.2 s
+EN
+
+</text>
+<image timestamp="2002:09:03:16:06:29.00" size="245509">000005TH.TIF</image>
+</page>
+</document>

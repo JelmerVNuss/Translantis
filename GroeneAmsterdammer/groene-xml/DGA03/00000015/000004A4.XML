@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100403</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 3 April 1910.
+De Utrechtsche vlieger.
+De heer Meerkerk, die zich sterk voelde door de ontvangst
+van 1084 visitekaartjes en nu een nieuwe nationale
+schoolbeweging ging inluiden, vond op een expresselijk hiertoe
+belegde vergadering te Utrecht zeven heele geestverwanten
+in de zaal.
+Amst. Ho t: k- en Slecndrukkerii, v/h. Elknman. Harms &amp; C&lt;&gt;.
+J. B. Meerkerk (weenend): Met al mijn 1084 visitekaartjes aan den staart, gaat die mooie
+vlieger nóg niet op!
+
+</text>
+<image timestamp="2002:08:23:01:58:24.00" size="183795">000004A4.TIF</image>
+</page>
+</document>

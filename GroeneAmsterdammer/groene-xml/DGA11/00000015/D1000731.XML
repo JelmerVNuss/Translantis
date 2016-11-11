@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VOORJAARSDIENSTREGELING
+door Herman Salomonson
+Teekeningen door W. Bielkine
+,?•*' •
+f A »
+Dit is het verhaal van een delicate, zér delicate en zér internationale
+gebeurtenis, waar een stukje vaderlandsche bodem getuige van is
+geweest, doordat de hoofdfiguren van dit verhaal in den letterlijken zin uit
+de lucht zijn gevallen op ons drassige hoekje van Europa.
+Ze vielen juist hier uit de lucht, en pleegden juist hier de onder beschreven
+handelingen om dezelfde redenen waardoor het mogelijk is dat Den Haag
+de zetel is van het hoogste gerechtshof op aarde, en Amsterdam een der
+grootste instituten op Koloniaal gebied herbergt: omdat Nederland in het
+wereldverkeer een neutraal plekje grond is, dat ook gaarne wordt gezocht als
+plaats van bijeenkomst door lieden die rustige afzondering zoeken voor overleg
+en rijp beraad of zooals uit het volgende blijken zal voor anderzins.
+
+Het was een voorjaarsdag, tegen den middag. Het Hollandsche
+luchthaventje leek verlaten. Onder de grauwe lucht, flauw doorglimmerd van
+zonlicht, lag het drassige vliegveld; ten Zuiden omzoomd door laag geboomte,
+en aan het Noordelijk uiteinde door een reeks van gebouwtjes en loodsen.
+De kantoren waren in rust. Voor het deurtje der douanen zaten twee amb
+
+tenaren hun pijpen te rooken. De stationschef slurpte een kop koffie achter
+het cylinderburëau in zijn privékantoor. Uit een der vliegtuigloodsen klonk
+gehamer, en de windzak aan den signaalmast hing geknakt naar het
+ZuidWesten gekeerd.
+Weinig verkeer.... weinig vertier.... weinig wind: maar een Hollandsch
+knooppunt van de groote Britsch-Continentale luchtverkeersrouten.
+De stationschef stopte zijn pijp en wandelde naar buiten; hij liep in de
+richting van het restaurant; bij het ingangshek salueerde een chauffeur.
+Hij knikte herkennend; daarbuiten wachtte de grijze limousine. Sinds i Mei
+ingang van de Voorjaarsdienstregeling—wachtte daar eiken Woensdag die
+grijze limousine. En wanneer de limousine wachtte, dan wachtte ook, onver
+
+mijdelijk, in het restaurant, diezelfde man, voor het linksche raam, daar waar
+men in Zuid-Westelijke richting kon uitkijken: een slanke man van middel
+
+baren leeftijd, het haar wat grijzend aan de slapen, en met vermoeide, half
+geloken oogen, Hij arriveerde met het ochtendvliegtuig uit Parijs, slenterde
+naar het restaurant en dronk daar een gin-sling, en soms nog een gin-sling,
+en nóg een, elke tien minuten n, tot de sirene de aankomst van de Londensche
+machine aankondigde. Zoodra de sirene gierde, stond de man op en ging
+naar buiten, naar het landingsveld....
+Terwijl de stationschef zijn pijp aanstak, gluurde hij naar het linkervenster.
+De vreemdeling zat er. De Londensche machine was laat: tegenwind. De
+kellner bracht dan ook juist de tweede gin-sling.
+Zooals eiken Woensdag sinds de Voorjaarsdienstregeling was ingegaan
+was de vreemdeling met de Parijsche machine gearriveerd: een half uurtje
+geleden. Hij staarde suffig naar buiten en beantwoordde koeltjes den groet
+van den chef; hij fronste zelfs verbaasd de wenkbrauwen toen deze
+hem, duidend naar de klok, en" vervolgens naar het Zuid-Westen, toeknikte.
+Wij Hollanders hebben de naïeve gewoonte ons door woord of gebaar
+onuitgenoodigd te mengen in internationale contraversen... Wij ontmoeten bij
+dergelijke pogingen van goedmoedige bedoeling soms koele afwijzendheid,
+soms pijnlijke verbazing en, eerst na verloop van langen tijd en onverstoorbare
+ricidive, ontdekt de vreemdeling dat er geen kwaad, doch hoogstens wat be
+
+moeizucht bij ons heeft voorgezeten...
+De luchtstationschef en de vreemdeling waren intusschen nog pas aan het
+stadium der pijnlijke verbazing toe, ook nu nog, toen de chef den
+wekelijkschen voorjaarsgast door gebaren beduidde dat de Londensche machine
+was aangekondigd.
+Daar loeide reeds de sirene. De vreemdeling stond op, greep zijn hoed
+en verliet het restaurant. De chef, nog altijd onkundig van het geboden beleid
+voor eene kleine mogendheid als gastvrouwe en boylevard van internationale
+ontmoeting, ging naast hem staan en waagde een opmerking.
+De vreemdeling tastte verstrooid in zijn zak naar een geldstuk en de chef,
+een pijnlijken misgreep vreezend, stapte het landingsterrein op
+Toen geschiedde het als eiken Woensdag:
+de Londensche machine streek neer en rolde tot voor de loodsen; knechten
+kwamen aansnellen en sleepten een trapje aan, en, als laatste passagier, stapte
+een jonge helblonde vrouw uit die, als eiken Woensdag, hoffelijk door den
+overslanken vreemdeling werd begroet en naar de Limousine geleid. Zij had
+geen bagage, evenmin als hij trouwens. Dat wisten de douaniers al. Ze grin
+
+nikten en tikten tegen hun pet. De kelner en de buffetjuffrouw keken uit het
+raam van het restaurant en zeiden tegen elkander: Daar is ze weer", en de
+stationschef, staande voor het privékantoor, dacht voor de zooveelste maal
+in dit seizoen dat daar toch wel een zér elegante vrouw ging.... De
+Parijsch
+</text>
+<image timestamp="2002:09:22:05:57:19.00" size="183496">D1000731.TIF</image>
+</page>
+</document>

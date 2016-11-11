@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>60</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Mensch n machine
+»*
+
+l
+Wij hebben de eer U uit te noodigen tot
+een bezoek aan onze studio, de
+Lairessestraat 40 (geopend alie werkdagen van 10—6,
+Zaterdagmiddag en Zondag na tel. afspraak)
+waar wij op het gebied van binnenhuiskunst
+een geheel nieuwe richting aangeven.
+
+Dank zij de toepassing van de nieuwste
+verwarming-, verlichting-en schildertechniek,
+zal onze studio u geheel nieuwe gezichts
+
+punten openen bij het inrichten en
+completeeren van uw woning.
+
+Indien u gebruik maakt van de jarenlange
+ervaring welke onze firma op het gebied
+van binnenhuisarchitectuur, meubileering en
+stoffeering heeft, kunt u bij de inrichting uwer
+woning op verschillend gebied belangrijk
+besparen.
+
+Ons streven is er geheel op gericht, om
+met gebruikmaking van de beste grond
+
+stoffen en materialen, een interieur naar uw
+persoonlijke smaak te creëeren, dat aan de
+hoogste eischen voldoet.
+
+Onze prijzen zijn scherp concurreerend!
+
+
+STUDIO
+BINNENARCHITECTUUR
+LEGRAND
+
+huis weerspiegelt uw persoonlijkheid"
+SLAAPT U WERKELIJK GOED?
+1 Zoo niet, beoordeel dan
+onze comfortable en heerlijk
+zachte matrassen. Wij maken dezen,
+zooals U die ook in het buitenland vindt.
+
+
+KOLDEWEY &amp; CORBIÈRE
+IEIDSCHESTRAAT 30 - TELEFOONNO. 37752 - AMSTERDAM
+Uitjantje's kladschrift
+
+</text>
+<image timestamp="2002:09:27:06:57:13.00" size="218061">D20072G.TIF</image>
+</page>
+</document>

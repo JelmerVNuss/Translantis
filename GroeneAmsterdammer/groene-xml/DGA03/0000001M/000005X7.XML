@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250912</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2518
+•t i&gt;
+Eert raadgeving
+voor de verbruikers van
+
+DROSTE'S
+
+BONBONS
+De groote verscheidenhrid van onze bonbons
+maakt het niet altijd even gemakkelijk om een
+soort, die bijzonder in den smaak viel, na te
+bestellen, omdat men den naam van de bon
+
+bon niet kent.
+Om U hierbij behulpzaam te zijn, resp. Uw
+keus te vergemakkelijken, vestigen wij Uwe
+speciale aandacht op de hier navolgende bon
+
+bons welke als alle Droste artikelen van on
+
+veranderde kwaliteit zijn
+
+
+JULIANA BONBONS
+Zachte chocolade met gebrande nougat
+
+
+CARAMEL MOU
+Chocolade met roomcaramel
+
+
+KERSENBQNBONS
+DE kersen met Kirsch.
+
+
+CRÈME DE CARAQUE
+Gevuld met vloeibare roomch.ocolade
+
+
+Wij stellen ons voor, indien deze toelichting van waarde
+voor U blijkt te zijn, deze af en toe te herhalen of verder
+die bonbons naar voren te brengen, welke aanspraak
+maken op Uw volle aandacht.
+JJRÜ51
+DROSTE'5 Cacao-en Chocoladefabrieken, HAARLEM
+DEN HAAG
+PIANO s. ORGELS
+oekhorsfstr • 149. Telef: 13051
+Stoomwisschorij Hit Zuiden
+PIETER AERTSZSTRAAT68-74
+TELEFOON 22866
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. NEIDI8 &amp; VAN ELVEN.
+Voor «He doeleinden
+l NV
+[ Chem.Kunatlnricming
+
+iDirkSchnabel
+Amsterdam.
+NI IEFOIM"
+Dir. E. Boerma
+GDORINGEN ANSTEIDAH
+Hooraitr. 8 Rokin 10
+Dames- en
+MeerenKleedermakerij.
+.Coupeun door hot (ohoolt
+land ia ontbiodon".
+AMERSFOORT
+Snouckaertlaan 22-24
+
+TELEFOON 218
+Alphen a/d Rijn.
+stellen tot rijke afwisseling in staat:
+
+20 verschillende soorten!
+:
+•
+»
+•
+•
+•
+•
+
+•
+*
+
+•
+
+•
+:
+DRINKT
+
+OUDS
+VOOR UW ETEN
+'t Ii beter dan leti anderi +
+
+
+
+F^ OUD, !
+
+PURMEREND *
+Htl etlqutt met
+
+dfn Volrndammer
+G. 1. DE KONING S Zn. • Keizersgracht 447
+(voorheen L E l DSC H EST R A AT 69)
+' SANITAIRE INRICHTINGEM
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+iit
+WIEGEN - KINDERLEDIKANTEN.
+Illustratiedruk-papier van de Firma G. G A. GORYEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:18:48:26.00" size="131877">000005X7.TIF</image>
+</page>
+</document>

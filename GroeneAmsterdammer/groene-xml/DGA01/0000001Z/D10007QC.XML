@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260703</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+,, j
+y,*&lt; ^^-S."S- J3F,
+*,' , '- ' ' »
+FRANKRIJK S NIEUWE MINISTER VAN FINANCIEN
+
+BIJVOEGSEL van .De Groene Amsterdammer". Weekblad voor Nederland van 3 Juli 1926
+Nadruk verboden
+CAILLAUX Amst. Boek- en S teendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+MARIANNE-PORTIA: HEEFT HIJ MIJ LIEF, DAN KIEST HIJ 'T RECHTE WEL"
+
+ij naar Shakcjpeare, De Koopman van Venetië)
+
+</text>
+<image timestamp="2002:09:25:20:41:02.00" size="159409">D10007QC.TIF</image>
+</page>
+</document>

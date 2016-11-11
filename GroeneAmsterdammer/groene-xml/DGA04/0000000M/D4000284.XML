@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160305</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zondag 5 Maart
+1°. 1916
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+ONDER REDACTIE VAN Prof. Mr. J. A. VAN HAMEL, Prof. Dr. H. BRUGMANS,
+Mr. E. S. OROBIO DE C A S T R O Jr. en Dr. FREDERIK VAN EED EN
+Abonnement per 3 maanden	/ 1.65
+Voor het Bultenl.cn de Koloniën p. j., bij vooruitbetaling fr. p. mail , 10.
+Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar , 0.12'
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentie"n van 1—5 regels/1.25, elke regel meer .... /Q35
+Advertentiën op de finantieele- en kunstpagina, per regel . . , 030
+Reclames, per regel . .	,0.40
+IHHOCDi Bladc. 1: Verdnn-Den Haag, door
+T. H. De Volksvertegenwoordiging, door H.
+Brngmans. Op den TTitkjjk tegen de Dnitsohe
+Indringing, door J. 2: Bnitenlandaoh Overzicht,
+dooi1 O. W. Kernkamp. Krekelzangen, door
+J. H. Speenhoö. Mr. W. J. van Weideren
+Baron Bengers f, door W. H. de Beaufort.
+8: De Mecklenbnrg", door J. Oderwald,
+OadGezagfoerder van de Mecklenbnrg." Feuilleton.
+6: Voor Vronwen, red. Elis. M.Eogge. Technische
+Rnbriek, door J. F. T. O. 6: BJJ den Vroawenkop,
+door Plassohaert. Eabir's Verzen. Jan Luyken,
+door 7. yan Eeden. Muziek in de Hoofdstad:
+Oonoertgebonw-Sextet, door Herm. y. Leenwen.
+Ohristiaan Krab, door Henr. Roll. 7: Jannari en
+-Februari in Vlaanderen, door Joh. Demaegt.
+Hoe Stfjn Streoyels schryrer werd, door Anoréde
+Bidder. Verzen: Oud Maken, door Earel Yan
+der Oeyer. Oharitas, door H. Salomonson.
+Van Kinderen en Bloemen, door Anna E.
+Znikerberg, met teekeningen van Daan de Vries.
+9: Ter Herinnering aan de Bouwmeester-Huldi
+
+ging, teekeningen yan Martin Monnickendam.
+Dramatische Kroniek, door Top Naefl. 10:
+Geheimhouding yan KrtfgBZaken, door Opmerker.
+11: Financiëele en Economische Kroniek, door T. d.
+S. Confetti. 12: Mevrouw Esther de
+BoerVan Bp, teekening yan Albert Hahn.
+Leekenspiegel. Spreekzaal. Meina Irwen, de danseres,
+door Melis Stoke, met teeken, yan Daan de Vries.
+13: De positie yan Minister Oort, teekening yan
+Jbhan Braakensiek. Damrnbriek, red. K. O. de
+Jonge. Bohaakrnbriek, red. dr. A. G Olland.
+Btfyoegsel: De Strijd om Verdan, teekening
+yan Johan Braakensiek.
+VERDUN-DEN HAAG
+Er is bij Verdun nog iets meer in
+den grond gelegd, dan de duizenden
+doode soldaten, die de aarde thans
+herkauwt.
+In het groote, groote graf rust boven
+
+dien weer een vast gekoesterde, triomfan
+
+telijke verwachting van het Duitsche volk.
+Er schuilt altijd een aangrijpende tragiek
+in het verschil tusschen de begeerteen den
+tegenslag; tusschen het zelfvertrouwen,
+en den spijt. Met hoe geweldige voor
+
+bereiding, met hoe indrukwekkende
+doorzettingskracht, met hoeveel
+machtsbewustzijn werd daar 't puik van 's keizers
+legerscharen tegen de Fransche linie in
+'t vuur gebracht, gevolgd door
+overwinnings-bulletins en door de gespan
+
+nen gemoederen der honderdduizenden,
+voor wie de Duitsche zaak nu eenmaal
+hun zaak is.
+En dit alles heeft bij Verdun in 't zand
+gebeten. Men kan het misschien met een
+grooten zerk dekken. Wie weet, of een
+verlies als dit, op Duitschland niet voor
+goed zal blijven drukken I Mij kwam weer
+een gesprek voor den geest, uit de dagen
+dezen zomer, toen de Duitsche troepen de
+Russen bij tienduizenden te gelijk ge
+
+vangen namen, en zegevierend het Oosten
+introkken.
+Te Berlijn zaten toen in een gezel
+
+schap een paar stafofficieren bijeen;
+en er voegde zich daarbij ook een jonge
+luitenant, zoo kersversch terug van
+Hindenburg's onweerstaanbaren zege
+
+tocht. Nog met modder en den glans
+der overwinning op 't gezicht. Und
+jetzt, Herr Major," zei hij blij tot een
+ouderen stafofficier, een van die stille
+figuren, die niet meespelen in het groote
+ballet, maar die den dans regisseeren,
+hierna, majoor, zullen wij wel gauw tegen
+het westen kunnen optrekken, en daar klaar
+komen." Maar de majoor schudde het
+hoofd: Mein lieber, junger Herr, im
+Westen kommt keiner durch." Geen van
+beide! Daar is 't nog heel wat anders,
+dan aan het Russische front. Die
+artilleriestrijd in het westen, daarvan heeft
+men elders geen flauw begrip; die is
+te verrückt. En alleen de generaal, die
+800,000 man zoo zou durven offeren,
+en dat riskeert geen een, heeft daar
+een mogelijkheid.
+Het is zoo vrijwel uitgekomen ook. In
+de September dagen, met Jpffre's grooten
+uitval in de Champagne. En nu weer,
+bij den hardnekkiger! strijd voor Verdun.
+De majoor zou gelijk krijgen. En dit is
+voor de wereld niet vroolijk. Want toen
+in 't verdere gesprek een ander meende
+eene sombere voorspelling te wagen:
+mit England werden wir nicht vor 1918
+fertig", wierp hij er alleen maar tusschen
+in,: ach was; nicht vor 1921." Doch deze
+opmerking zal een buitenstaander, die
+voor zichzelf de zaak heeft doorgedacht,
+ook allicht 'niet veel nieuws meer vinden!
+En zoo hangt er iets ontegenzeggelijk
+meewarigs over dit groote graf van de
+gesneuvelde verwachting bij Verdun.
+* *
+*
+Dit is echter niet de eindstemming,
+door Verdun gewekt.
+De eindstemming, er zijn er maar
+weinigen onder ons bij wie ze niet wordt
+weergegeven dooteen:„Bravo,Marianne/"
+Zij allen, die den schrik hebben voor
+een mogelijke Duitsche overmacht in
+Europa,, toch het onvermijdelijk gevolg
+van eehe voortgezette Duitsche over
+
+winning
+Zij allen die, de kleine natiën vooraan,
+beseffen, dat een onweerstaanbare en
+rücksichtlose" militaire mogendheid^ voor
+hun zelfstandigheid de naderende dood
+zou zijn
+Zij allen, die hopen te zien gelogen
+
+straft, dat Frankrijk's democratie het
+Fransche weerstandsvermogen, Frank
+
+rijk's welgesteldheid het Fransche idea
+
+lisme, Frankrijk's verfijning de Fransche
+levenswijsheid, en Frankrijk's zeden de
+Fransche ziel zouden hebben vermoord....
+Zij allen hebben uit Verdun een; neen,
+neen, neen, vernomen.
+Wat ook verder het vervolg moge
+brengen, het is een heugelijk en troost
+
+rijk teeken, dat eene democratische natie,
+die soms in crisissen van parlementairisme
+scheen onder te gaan, zich zóweet te
+betoonen, wanneer de nood aan den
+man is. En dat ook de Fransche be
+
+schaving haar eigen kracht blijft behou
+
+den, al kan de Qermaansche die niet altijd
+verstaan.
+Aan de cranerie, aan de veerkracht,
+aan den opgewekten ernst, welke door
+Marianne's ranke figuur verpersoonlijkt
+worden, komt een eerlijk: bravo, la
+France! toe.
+* *
+*
+Eene natie ziet gaarne haar innigsten
+wil, haar al-omvattend streven, in per
+
+sonen belichaamd, en door die personen
+tot leven gebracht.
+Zoo was in Frankrijk, hoe het voor 't
+oog nog anders moge hebben geschenen,
+het besluit tot vastheid gekomen, om
+tot het uiterste voor de verdediging van
+het vaderland te staan toen Raymond
+Poincarétot president van de Republiek
+§ekozen werd. Men zal zich herinneren,
+at toen de echte parlementaristen",
+met Clemenceau aan 't hoofd, tegen de
+candidatuur opkwamen. Zij wilden meer
+een figuur uit 't perk der partijpolitiek,
+Poincaréwas hun te nationaal.
+Met zijne verkiezing evenwel werd dan
+ook tevens de stempel gedrukt: Frankrijk
+stelde boven binnenlandsche kwestie's, de
+zorg voor de veiligheid des lands en de
+buitenlandsche staatkunde. Maar dat dit
+besef vervolgens in honderdduizenden
+gegemoederen tot verdere rijpheid is ge
+
+groeid, juist weer voor een groot deel
+komt door den geest, dien president
+Poincaréaan zijn land heeft weten in
+te blazen.
+De getuigenis van dezen geest is door
+de standvastigheid bij Verdun nog eens
+bevestigd geworden. De tegenoverge
+
+stelde opinie vond in 't kanonvuur geen
+uiting meer. Zij heeft haar stem verloren.
+'t Is eigenaardig, hoe eenzelfde tegen
+
+stelling zich juist dezer dagen in ons land
+openbaarde. In de jongste redevoering,
+door den heer Cort van der Linden in
+de Eerste Kamer gehouden, heeft deze 't
+zelfde dilemma gesteld: binnenlandsche
+politieke strijd, en zorg voor 't groote
+nationale belang.
+De minister verklaarde zichzelf voor
+
+taan te beschouwen als den vertrouwens
+
+man van het laatste. De andere kwestie's
+kregen daarbij zoo ongeveer de rol van
+het lekkers, door Sinterklaas onder de
+jeugd gestrooid om hen naar hartelust
+te doen ravotten.
+
+De grondgedachte van den heer Van
+der Linden is natuurlijk zeer gelukkig.
+Een minister moet op 't oogenblik in de
+eerste plaats zijn de vertegenwoordiger
+en leider van den gemeenschappelijken
+wil, om de nationale onafhankelijkheid
+te bewaken; en van buitenlandsche staat
+
+kunde.
+Toch is men geneigd, op de toepassing
+door het kabinet Cort van der Linden
+daaraan gegeven, eenige kantteekeningen
+te maken.
+Dit ministerie heeft zijne aanstelling
+reeds aan verschillende oorzaken kunnen
+toeschrijven: eerst aan weifelmoedigheid
+der vrijzinnigen; dan: aan de kroon; aan
+den volkswil; aan de meerderheid der
+linkerzijde. Het laat die nu alle varen, en
+heeft een mandaat aanvaard van het nood
+
+lot. Dit heeft den oorlog ontketend, en
+vond in Nederland het tegenwoordige
+kabinet aan 't roer. Dienovereenkomstig
+verklaart de heer Cort van der Linden,
+zijn nationale taak gestand te willen
+doen.
+Tegen de taak mag men zeker geen
+bezwaar maken, maar anders is het
+met den opdrachtgever. Zal eene regee
+
+ring een bepaald doel het beste bevor
+
+deren, dan behoort zij met het oog op
+dit doel ook uitgekozen en gevormd,te
+zijn. Immers daardoor alleen kan zij voor
+dit doel het beste leidend en bezielend
+werken, omdat het in haar als belichaamd
+wordt, en door de natie ook aldus wordt
+gevoeld.
+Om deze reden hebben de verschil
+
+lenden landen met het begin van den
+oorlog een nieuw, althans gerecon
+
+strueerd kabinet genomen; en is zelfs
+Engeland, met zijn sterke partij-politiek,
+daartoe overgegaan.
+Met het kabinet-Cort van der Linden
+is hiervan niets het geval. Het kan voor
+zijn titel als nationaal kabinet, en als
+kabinet van buitenlandsch beleid, niets
+anders aanvoeren dan hét toeval, en zijn
+goeden wil. Er zijn verschillende leden
+in het ministerie, die met de nationale
+gedachte nooit in 't bijzonder iets te
+maken hebben gehad; en die nu plotse
+
+ling met de taak op de schouders staan.
+Nimmer ook is een hunner voor de oogen
+der natie met deze groote opdracht be
+
+kleed geworden; nimmer heeft het minis
+
+terie zich daartoe uitgelezen kunnen
+verklaren.
+Dit kan zonder bezwaar gaan, zoolang
+men moet optreden als zaakwaarnemers
+uit noodzaak: het gaat niet goed, zoodra
+men nadrukkelijk en duurzaam moet zijn
+een ministerie voor de (nationale zaak.
+Met vol recht kunnen nu verschillende
+andere groepen beweren, dat zij daarin
+minstens even goed gesorteerd zijn. En
+met vol recht kunnen aan den anderen
+kant 'de politiekers blijven eischen, dat
+de zaak op den ouden voet moet wor
+
+den voortgezet.
+* *
+Dit is geen theorie, maar een tastbare
+werkelijkheid.
+En het is te vreezen, dat de werk
+
+zaamheid van het kabinet daardoor op
+twee gedachten zal blijven hinken, zoo
+
+lang de nieuwe grondslag niet krachtiger
+is afgeteekend, dan door eene ministrieele
+uiteenzetting van den premier.
+Eene tweeslachtigheid, die noodwendig
+moet leiden tot zwakheid, juist ook bij
+de vervulling van de nationale taak, welke
+men gediend wil zien.
+Dat de gevolgen van een dusdanige
+slapte zich dan ook reeds verschillende
+malen hebben geopenbaard, wie zal
+het ontkennen? Dat er van dit kabinet
+lang niet steeds die nationale geest en
+nationale organ isatie, de overtuigde buiten
+
+landsche politiek is uitgegaan, welke wij
+behoeven, wie?
+Zoo moet ernstig overdacht, of de
+vorm, welke de regeering zich thans ge
+
+kozen heeft, wel de meest geëigende is
+voor het doel, dat zij zelve wenscht te
+behartigen.
+Men kan als onmisbaar onderdeel van
+de nationale taak zeer zeker ook blijven
+beschouwen de afdoening van bepaalde
+aanhangige politieke vraagstukken.
+Maar voor het verkrijgen van een
+standvastigheid en een weerstandsver
+
+mogen in den geest van Verdun, is eene
+nationale leiding op ondubbelzinnigen en
+opzettelijken grondslag noodig.
+v. H.
+De Volksvertegenwoordiging
+
+Het is opmerkelijk, hoe de kleine meerder
+
+heid der Tweede Kamer, die den 28sten
+Januari zich liet belezen om de
+motieSchaper aan te nemen, met haar houding
+verlegen is. Alleen daardoor is het te ver
+
+klaren, dat telkens en telkens weer de leiders
+van die meerderheid zich geroepen gevoelen
+den volke te verklaren, waarom het in 's lands
+belang noodig was de motie-Schaper aan te
+nemen en zoo den minister Treub tot af
+
+treden te dwingen. Het is de vraag, of de
+poging om de natie te overtuigen, zal ge
+
+lukken. Wij zijn daarvan niet zeker; wij
+zijn integendeel overtuigd, dat de tegen
+
+woordige Kamermeerderheid de proef van
+een algemeene verkiezing niet glansrijk zou
+doorstaan.
+Het is evenwel niet noodig zich in toe
+
+komstbespiegelingen te verdiepen; het vol
+
+gende jaar hebben de kiezers weer het woord
+en dat zij ondubbelzinnig zullen spreken
+mag wel worden verwacht. Wat evenwel
+dichter bij ligt is een andere zaak, die in
+verband met den val van Treub meer naar
+voren is gekomen en van meer gewicht nog
+is dan dit betreurenswaardige incident op
+zich zelf. De leden der Kamer zelf, die in
+de laatste weken zich hebben doen hooren,
+hebben er zich over beklaagd, dat de
+volksvertegenwoordiging wordt gehoond
+en gesmaad; zij geven daarbij vooral
+aan de pers de schuld, die niet ophoudt
+met minachting en ergernis van de Kamer
+want het gaat hier vooral om de Tweede
+Kamer te spreken. Inderdaad hebben deze
+Kamerleden gelijk: er wordt in breedekrin
+
+gen ernstig over de Tweede Kamer ge
+
+klaagd ; men kan binnenkamers nog wel
+geheel andere dingen te hooren krijgen dan
+onze couranten schrijven; zelfs krijgt men
+wel eens den indruk, dat een niet zoo ge
+
+ring deel van het Nederlandsche volk de
+ramp wel te boven zou komen, zoo de
+Tweede Kamer, als eens de tempel van
+Janus gesloten werd.
+Het verschijnsel is ernstig genoeg en kan
+niet, ook door verdienstelijke volksvertegen
+
+woordigers, met een breed handgebaar wor
+
+den weggewuifd. Men kan tegenwoordig
+een zekere disharmonie constateeren tusschen
+de volksvertegenwoordiging en de leidende
+kringen van ons volk op stoffelijk en gees
+
+telijk gebied. Niet zoo heel klein is het
+getal dergenen, die er zekeren roem in stellen,
+dat zij zich nooit met politiek bezig houden,
+omdat dat in hun oogen een onwaardig be
+
+drijf is geworden. Zelfs kan men menschen
+aantreffen, die nimmer of nooit meer gaan
+stemmen. Men ziet zoo iets opkomen van
+een politieke apathie als onze voorouders
+in het begin der negentiende eeuw onder
+
+gingen.
+Dat de vertegenwoordiging hier zonder
+schuld is, zullen haar beste leden zelf niet
+ontkennen. Want de kwaal zit dieper dan
+men oppervlakkig meent en zij is ook niet
+van vandaag of gisteren. Tweeërlei oorzaak
+kan worden aangewezen, vooreerst de samen
+
+stelling der kamer zelf, ten andere haar ver
+
+houding tot de Regeering.
+De samenstelling der Kamer hangt af van
+de kiezers. Wie nu meent, dat men door
+stemming door een ruim getal kiezers de
+honderd voortreffelijkste Nederlanders kan
+laten aanwijzen, komt bedrogen uit. De
+stemgerechtigde burgers zullen nooit een
+vertegenwoordiging verkiezen, die ver boven
+hen staat en daarin hebben zij eigenlijk
+gelijk. De Kamer is geen elite van het Neder
+
+landsche volk en behoeft dat niet te zijn.
+Zij moet falleen den gemiddelden Neder
+
+lander vertegenwoordigen en dat wel op
+zijn best. De kiezer moet in den gekozene
+zijn betere gelijke terugvinden.
+Dat nu is niet altijd het geval. Een groot
+deel van de Nederlandsche kiezers kan met
+den besten wil in de leden der Kamer zijn
+beteren, zijn aristen, niet zien. Men ziet niet
+tot de Kamer op, maar op haar neer. Dat
+ligt soms aan het standpunt, waarop men
+zich gelieft te plaatsen, maar veelal toch
+ook aan de vertegenwoordiging. Zij telt
+ongetwijfeld nog vele voortreffelijke leden,
+wier woord ook in anderen kring gaarne
+wordt vernomen. Maar zij heeft in haar
+midden ook veel, te veel leden, naar wie
+in een ander gezelschap stellig niemand zou
+luisteren; het ongeluk wil, dat juist deze
+leden maar al te dikwijls hun bescheiden
+licht niet onder de korenmaat verbergen,
+maar voor den volke laten schijnen. Van
+ouds klinken leege vaten het helderst.
+Daarbij komt nog iets anders. Ouder ge
+
+woonte spreken wij nog steeds van de volks
+
+vertegenwoordiging. Maar wij vergeten
+daarbij, dat wij eigenlijk sedert lang geen
+volksvertegenwoordiging meer hebben. Hoe
+
+wel de grondwet zegt maar zij zegt
+zooveel, waarop de lommerd geen geld
+geeft dat de Staten Generaal het geheele
+Nederlandsche volk vertegenwoordigen, is
+dat alleen onder zeer bijzondere omstan
+
+digheden het geval. In den regel vertegen
+
+woordigen de afgevaardigen niet veel meer
+dan hun district en hun partij. Dat laatste
+zal nog erger worden, zoo de voorstellen
+op de evenredige vertegenwoordiging door
+
+gaan. Thans is reeds aan de politieke leiders
+in de kiesvereenigingen en kiezersbonden een
+zeer groote invloed op de samenstelling der
+vertegenwoordigende lichamen toegemeten;
+in de toekomst zullen zij de handen geheel
+vrij hebben en zal den individueelen kiezer
+nauwelijks meer ruimte van beweging worden
+gelaten. Daarmede is dan de partijorganisatie
+in en buiten de iKamer weer versterkt en
+raken de algemeene volksbelangen op den
+achtergrond. Is het dan wonder, dat vele
+kiezers, wier politieke overtuiging niet ge
+
+heel strookt met partijprogramma's en
+partijbelangen, in arren moede de politieke par
+
+tijen en haar schepping, de Kamer, den rug
+toewenden? Het zijn waarlijk niet de slechtste
+burgers, die niet vaneen gareel zijn gediend.
+Het zijn ook deze kiezers, die de verhou
+
+ding van de Kamer en de Regeering moeilijk
+verdragen. De gewone Nederlandsche burger
+wenscht wel te worden geregeerd; men
+kon in de laatste anderhalf jaar bemerken,
+hoe aangenaam men het ondervond, dat een
+sterke hand het roer in handen had; dat
+een minister durfde zeggen, dat het soms
+beter was verkeerd te handelen dan niets
+te doen, dat was vele Nederlanders uit het
+gemoed gesproken. Maar dat verdraagt de
+Kamer juist niet; als iedere vergadering wil
+zij zich doen gelden en dat tegenover de
+eenige macht, waarop zij vat heeft, de
+Regeering. Het is hier een oude kwaal,
+waaraan wij lijden. Uit haar strijd tegen de
+koninklijke ministeriën heeft de liberale partij
+een sterk wantrouwen tegen de Regeering
+overgehouden en bij de sociaal-democraten
+is het gouvernement als de vertegenwoordiger
+van den gehaten[klassenstaat van nature ver
+
+dacht. De geheele linkerzijde moet thans
+boeten voor de groote fout der liberalen in
+hun grooten tijd: zij hebben verzuimd de
+verhouding van regeering en vertegenwoor
+
+diging goed te regelen; zij meenden er met
+de ministeriëele verantwoordelijkheid te zijn
+en lieten de zaak verder aan haar natuurlijk
+beloop over. En nu is daardoor dit bereikt,
+dat het kabinet inderdaad geregeld benoemd
+werd in overeenstemming met de meerder
+
+heid der Tweede Kamer. Maar deze Kamer
+bleef die zij was: zij gevoelde zich tegen
+
+over de parlementaire ministers dezelfde als
+vroeger tegenover de koninklijke; zij ver
+
+volgde hen met hetzelfde wantrouwen en
+zette hen geregeld den voet dwars. Onze
+parlementaire geschiedenis sedert de grond
+
+wetsherziening van 1848 is vol van con
+
+flicten tusschen de meerderheid der Kamer
+en een daarmede homogeen ministerie. De
+linkerzijde heeft zeker groote dingen ge
+
+daan; het zou dwaasheid zijn haar groote
+hervormende kracht te betwijfelen. Maar
+n groot ding heeft zij haast stelselmatig
+verzuimd: zij heeft zich nooit bezig ge
+
+houden met een deugdelijke organisatie der
+regeering. Zij heeft geen flauw besef ge
+
+toond van wat eigenlijk een regeering is en
+moet zijn; zij heeft wel veel van wetgevende
+en uitvoerende macht gesproken en beider
+verhouding willen regelen, maar aan de
+eigenlijke regeermacht heeft zij nimmer aan
+
+dacht geschonken. De liberalen zijn steeds
+knappe mannen van de staatkundige theorie
+geweest; de staatkundige praktijk had veel
+minder hun aandacht en belangstelling. Aan
+de rechterzijde kan daarentegen de lof niet
+worden onthouden, dat zij het politiek besef
+had om een regeering van haar eigen
+kleur als regel niet te bestrijden maar in
+
+tegendeel te steunen. Het spreekt van zelf,
+dat dat niet in alle omstandigheden kan
+geschieden, maar het omgekeerde behoeft
+toch ook geen regel te zijn. Daarvan is de
+linkerzijde zich niet steeds bewust geweest;
+dat heeft zij ook op 28 Januari vergeten.
+Van dergelijke verhoudingen nu heeft de
+niet politiek geschoolde burger geen of wei
+
+nig begrip. Hij begrijpt er niets van, dat
+men een uitnemend minister van de eigen
+partij door een zoo opzettelijk en kwaad
+
+aardig middel als een motie heenzendt. En
+met zijn natuurlijke voorkeur voor een man
+van groote regeerkracht haalt hij de schou
+
+ders op voor een Kamer, die zoo iets doet.
+Zelfs politieke berekeningen kan hij hierin
+bezwaarlijk vinden; hij onderstelt dus kiezers
+
+vrees of liever vrees voor de politieke leiders;
+en hij wendt zich met minachting af.
+De Kamer is ten slotte altijd beter dan
+zij schijnt. Zij zal van minister Van Gijn
+verdragen en aannemen, wat zij van minister
+Treub weigerde te aanvaarden. Maar als er
+weer gesproken wordt van disharmonie
+tusschen Kamer en volk, moet de Kamer
+niet meenen, dat de schuld overal elders
+dan op het Binnenhof ligt. De Kamer kan
+wel een stoot verdragen; haar gezag is nog
+ruim genoeg. Maar zij moet niet gelooven,
+dat zij op den duur den steun van de besten
+van ons volk kan missen. Want dan graaft
+zij haar eigen graf.
+H. BRUGMANS.
+«IIIHIUIIlmimlIimlIlltllimilllMIMIItllllllnlNMIIIIllllllllllHIIIIIIIIIIII
+OP DEN UITKIJK TEGEN
+DE DUITSCHE INDRINGING
+Wij zijn in ons land nog te argeloos; te
+onschuldig.
+Wij geven ons nog te weinig rekenschap
+van het lot onzer natie. Wij bedenken niet,
+dat het betrekkelijk gemakkelijk is, haar
+voorshands buiten den oorlog te houden;
+maar zeer moeilijk, hare toekomstige veilig
+
+heid te verzekeren.
+Wij geven er ons te weinig rekenschap
+
+</text>
+<image timestamp="2002:08:22:06:13:55.00" size="480732">D4000284.TIF</image>
+</page>
+</document>

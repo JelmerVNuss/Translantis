@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19121222</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Jachthond en haar Vriendin.
+van r&gt;f Amsterdammer, \Yeek!&gt;U&lt;i voor Nederland van 22 December IQI2. Nadruk verboden.
+JUK. Rot.LL, Burgemeester.
+Anist. LioL'k- ';n Sleendrukkeri), v, h. F.lierman. Harrns «N: Co.
+
+Een jachthond, die het uur der moedervreugd voelt komen,
+Niet wetend, waar ze een last, zoo drukkend, neder laat,
+Bepraat zóeen vriendin, dat die haar hok afstaat.
+Zij, zich afzonderend, heeft heel 't huis ingenomen.
+Na eenig tijdsverloop komt weer haar gezellin.
+De jachthond zegt: Laat dit twee weken voor mij open,
+Het valt mijn jongen nog zoo moeilijk om te loopen".
+Om kort te gaan: zij krijgt haar zin.
+HF.KMSKERK KOLKMAN t. REGOUT
+L.K MAKKES v SWINDEREN. TALM A.
+Gok die termijn verstrijkt; men ziet haar weer verschijnen,
+Zij vraagt om huis, vertrek en bed.
+De jachthond, die haar nu met haar gebit ontzet,
+Zegt: Ik ben wel bereid te gaan met al de kleinen,
+Als voor geweld gij sterk genoeg u achr.'1
+Haar jongen hadden toeji al kracht.
+
+Wat men den boozen geeft, dat moet men steeds betreuren,
+Om wat men aan hen leent, opnieuw van hen te beuren,
+Wordt men noodzak'lijk handgemeen,
+Proces of vechtpartij volgt met die klanten.
+Laat ze in uw huis n voet maar planten,
+Dan staan er weldra vier voor n.
+
+(Naar LA FOSTAINE: l,a lice et sa rompagne, door I. K. RENSEURG.)
+
+</text>
+<image timestamp="2002:08:18:05:22:19.00" size="152469">D40000IQ.TIF</image>
+</page>
+</document>

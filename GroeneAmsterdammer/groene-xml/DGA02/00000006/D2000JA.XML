@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000701</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1201
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Geen Gratie voor Mr. Troelstra.
+
+j
+Germania Natans. (Lustige Bldtter).
+Zet Duitschland maar op 't water 't zal van zelf
+wel zwemmen. (Vrij naar Bismarclc).
+Groote Chineesche prgs- en wed-boxpartij.
+
+
+De Chinees komt in opstand. (Silhouette).
+MINISTER VAN JUSTITIE : »Nu kan toch niemand meer zeggen, dat ik in de Hogerhuizen-zaak niet actief genoeg ben!"
+
+Op naar Peking. (ülk).
+(Jugend).
+Het succes van het gemeenschappelijk optreden der Mogendheden
+wordt door haar onderling vertrouwen gewaarborgd.
+
+De wraak van Oom Krüger. (Caran d'Ache in den Figaro).
+Overal zegt men: De Beurs moet de Vloot dragen
+daarom is z\j ook zoo gedrukt. (Lustige Platter).
+JOHN BULL : »Had ik nu m\jn handen maar vrjj."
+CHOEDB DES PUISSANCES.
+Ce fruit confit est fort méchant:
+Quand on l'attaque, il se défend!
+
+</text>
+<image timestamp="2002:08:14:17:56:14.00" size="568573">D2000JA.TIF</image>
+</page>
+</document>

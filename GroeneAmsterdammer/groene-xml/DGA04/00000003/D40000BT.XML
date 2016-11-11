@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19120811</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nieuw Rome in Nederland.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van II Augustus 1912.
+Geen subsidie voor het verwaarloosde kind, dat niet bij een kerkgenootschap
+is ingeschreven. Beschikking van den Min. van Justitie.
+Amst. Koek- en Steendrukkerij, v/h. Ellermao, Harms &amp; Co
+Haai je eerst een godsdienst, kindje!
+
+</text>
+<image timestamp="2002:08:17:19:17:42.00" size="132751">D40000BT.TIF</image>
+</page>
+</document>

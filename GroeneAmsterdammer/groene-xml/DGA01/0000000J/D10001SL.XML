@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18880122</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+n
+B1TVOEGSFL van de Amsterdammer, Weekblad voor Nederland, van 22 Januari 1888.
+Mr. Z. VAN DEN BEUGH.
+H. J. BlEDERLACK.
+Mr. W. HEINEKEN.
+Mr. G. A. VAN H-VMF.L
+Prof. C. B. SPRUVT.
+A. C. WERTHEIM.
+Mr, C. M. J. WILLEUMIER.
+Prof. L. DE HARTOG.
+M. WOLFF.
+
+</text>
+<image timestamp="2002:08:20:01:11:10.00" size="143654">D10001SL.TIF</image>
+</page>
+</document>

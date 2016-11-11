@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301122</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2790
+DE GROENE AMSTERDAMMER VAN 22 NOVEMBER 1930
+OUSTRIC
+door C. A. Klaasse
+GIDDING
+1TUYNENBURG MUYS|
+ISCHILDFDSI
+DE Oustric-krach .heeft niet alleen in Frank
+
+rijk, maar ook daarbuiten sterk de aandacht
+getrokken. De meest onwaarschijnlijke consequen
+
+ties zitten er zelfs aan vast. Immers het klinkt niet
+lieel erg plausibel dat de koers van het pond ster
+
+ling, een zoo internationaal georiënteerde valuta,
+«en gevoelige daling zou ondergaan tengevolge
+van het feit dat de heer Oustric pleite maakt. En
+toch is dat zoo. En wel langs dezen omweg : de
+Fransche spaarders en deposanten, opgeschrikt
+door de debacle bij de Banque Oustric en de met
+deze bank gelieerde finincieele instellingen, heb
+
+ben een zeer belangrijk deel van hun depots bij de
+groote banken opgevraagd. Deze konden aan die
+opvragingen slechts tendeele voldoen door
+herdisconto van portefeuille-papier bij de Banque
+de France, ondanks het feit, dat deze in verband
+met het belang eener vlotte uitbetaling hare anders
+vrij strenge eischen tijdelijk verzachtte. De
+Fransche discontomarkt is, alle pogingen der laatste
+jaren ten spijt, nog vrij slecht georganiseerd, en de
+banken zijn, indien zij plotseling alle tegelijk het
+hoofd hebben te bieden aan saldiopvragingen, op
+andere bronnen aangewezen. Nog steeds hebben
+sij omvangrijke sildi in Londen uitstaan al is
+daarvan in de laatste jaren een zeer belangrijk
+deel teruggetrokken en omgezet in Fransch
+bankpapier en daarvan hebben zij nu een deel
+afgestooten. Met als gevolg dat het pond sterling ten
+aanzien van den franc een flinke duikeling maakte.
+Had niet de Banque de France tijdelijk ingegrepen,
+dan zou de koersdaling wellicht nog sterker zijn
+geweest.
+Maar om nu tot het geval-Oustric zelf terug te
+keeren: dit is tot op zekere hoogte ongetwijfeld
+•een teeken des tijds. Baisse aan de effectenbeurs
+en algemeene economische depressie plegen ge
+
+woonlijk gepaard te gaan met groote en kleine
+faillissementen. Deze zijn het juist die als de ty
+
+pische crisissymptomen beschouwd kunnen wor
+
+den. Depressie beteekent lage prijzen, dalende
+winsten, werkeloosheid enz. Crisis is een begrip
+dat men verbindt aan schokkende gebeurtenissen
+als financieele krachs, panieka-chtige koersdalingen
+aan de beurs enz. Allen die de beruchte crisis van
+1907 hebben meegemaakt, herinneren zich onge
+
+twijfeld nog de krach van de Knickerbockertrust,
+die na een reeds zeer onrustige periode op de beurs
+andermaal de koersen op een ongekend
+laagterecord bracht. Die faillissementen zijn soms het
+gevolg van een val der goederenprijzen (handels
+
+ondernemingen en handelaars in stapel-artikelen)
+soms staan zij in verband met zuiver financieele
+transacties, bevroren credieten, daling van beurs
+
+koersen. Van moeilijkheden in verband met den
+val der goederenprijzen die toch buitengewoon
+sterk is is in deze crisis weinig of geen sprake
+geweest. De gewijzigde organisatie van den groot
+
+handel waardoor de voorraad vorming door den
+zelfstandigen handel van minder beteekenis is
+geworden zal daarop ongetwijfeld van invloed zijn
+geweest. Trouwens ook de zuiver financieele crisis
+
+verschijnselen zijn minder veelvuldig, en althans
+minder hevig dan in vroegere crises veelal het geval
+~was. Weliswaar zijn heel wa,t financieele instituten
+van beteekenis over de tong gegaan zelfs groote
+onder de groote als bijv. de National City Bank
+hebben zich niet geheel aan geruchten kunnen
+onttrekken maar tot een krach is het maar in
+enkele gevallen gekomen. Favag, Bodenkredit,
+Hatry waren gevallen van heel bijzonderen aard
+die slechts in min of meer verwijderd verband
+tot de depressie stonden, het meest van deze mis
+
+schien nog de Hatry-krach. En in Amerika zijn
+ook wel een paar honderd bankjes fout gegaan,
+maar dat is voor dat land met zijn duizenden locale
+banken weinig bijzonders.
+Wat niet wegneemt dat toch de val van Oustric
+wel degelijk indirect samenhangt met de algemeene
+crisis. En wel in het bijzonder met de daling
+van de beurskoersen. Oustric was een financieel
+faiseur van vrij groot kaliber schoon met geen al
+te beste reputatie. Zijn operaties en het welslagen
+daarvan waren gebaseerd op een tweetal omstan
+
+digheden: ten eerste zijn overtuiging dat opdrijven
+van den koers van een aandeel een bijna zekere
+winstbron was omdat men altijd wel genoeg
+gekken vond om de fondsen zelfs na een enorme
+stijging te koopen; en in de tweede plaats de men
+
+taliteit van het Fransche publiek. De Franschc
+spaarder pleegt zijn kapitaaltje in. tweeën te
+vordeelen. Eenerzijds verreweg het grootste deel. dat
+hij zoo soliede mogelijk belegt in .,Rentes" en
+andere prima papieren. En een klein gedeelte
+waarmee hij aan de beurs dobbelt, maar dan ook
+absoluut hazard: rouge ou noir. Daarbij komt dan
+nog een soort van financiecle heldenvereering,
+en een min of meer blind vertrouwen. Wanneer
+iemand kans ziet om op behoorlijke schaal een paar
+speculaties door te zetten die gelukken, en waarvan
+hij het resultaat laat rondbazuinen, dan scharen
+zich de kleine spelers achter hem. en alles wat hij
+aanraakt wordt plotseling goud door het simpele
+feit dat dan ineens alle-kleine luyden datzelfde
+fonds koopen. Succes verzekerd ! Juist door die
+bijzondere karaktertrek van de Fransche belegger
+
+speculant konden een Kochette, een Madame
+Hanau, school maken. Hun speculaties worden
+gesteund door een uiterst volgzaam leger van
+bewonderaars, die bovendien een deel van hun
+geld toevertrouwen a-tn de ondernemingen, dii:
+als sneeuwbalsystemen ontstaan rondom de kern.
+Zoo heeft bijv. Oustric in den aanvang van zijn
+loopbaan kans gezien om een Boliviaansch
+zilverpapier waarop nog nimmer dividend was betaald:
+Huanchaca op te schroeven, en zich ervoor te doen
+betalen alsof het een. bloeiende platinamijn gold
+inplaats van een uitgemergelde zilvermijn. Zijn
+verdere operaties vallen voor een belangrijk deel
+in den Franscheninflatietijd, en het is niet zoo heel
+onbegrijpelijk dat in die periode de bovenomschre
+
+ven overtuiging bij hem heeft postgevat: dal lux
+
+een aandeel ook omhoog werd geheven, men. er
+altijd nog wel niet winst afkwam. In dien tijd was
+dat inderdaad hot geval, en wel om de zeer plau
+
+sibele reden dat de Francskoers voortdurend daalde.
+Door de daling van de valuta steeg de
+..goudwaardc" van aandeelen uitgedrukt in papierfrancs
+met den dag. Kil de dolzinnigste speculatie kwam
+dus nog terecht. Totdat Poincaréen Bokanowski
+een eind aan dat spelletje maakten. Alleen Oustric
+zag niet dat dit het einde was. Tot op zekere hoogte
+was zijn opkomst aan de inflatie te danken, evenals
+dat bij een Stinnes, een Castiglioni het geval was.
+Ook m ander opzicht vertoont zijn methode, of
+juister misschien: zijn. gebrek aan methode over
+
+eenstemming met die van deze tijdelijke magnaten.
+Zij kochten alles wat los en vast was. zonder sy
+
+steem, zonder lijn. Schoenfabrieken. bioscopen,
+textiel, onroerend goed, automobielfabriekeii,
+electrotcchnische bedrijven. Alles door elkaar.
+Zulks in tegenstelling bijv. met het andere slag
+faiseurs dat zich bij enkele bedrijfsgroepen hield.
+De Amerikaanscho magnaten behooren meestal
+tot die laatste groep: Hockefeller-olie;
+Carnogiestaal; Gary-spoorwegen. Zoo ook bijv. I.öwenstein.
+die zich beperkte; tot kunst zijde en electriciteit.
+Do Oustric-groep daarentegen had belangen in do
+meest uiteenloopen.de takken van bedrijf. Zulks
+via een paar holding-companies welker aandeden
+duchtig gemanipuleerd werden., &lt;&gt;n waarvan de
+koersopdrijving als lokaas voor de spaarders dienst
+deed. De voornaamste waren de StéExteiision
+pour l'Industrie Francais en de Holding Francais
+(Holfra). Toen bovendien in 1928 Oustric nog
+kans zag de oude Banque Adam, welke door een
+groot aantal nederzettingen beschikte over om
+
+vangrijke depositos, in zijn concern op te nemen,
+konden do operaties op nog grooter voet worden
+voortgezet. Temeer omdat ook van buitenlandsche
+,,vrienden" ruimo middelen toevloeiden. Tot de
+invloedrijke financiers die Oustric bij zijn operaties
+achter zich wist behooren: Michel Sarovitch.
+Martinez do lloz, en Hiccardo (ïualino. Deze laatste
+was zelfs in Italiëeen tijdlang een bekende figuur
+in do financieele wereld. Ook hij heeft eenigen tijd
+geleden het. onderspit moeten delven, en zijn val
+zal zeker niet vreemd geweest zijn aan het
+Oustricdebacle.
+Toen eenigeii tijd na de stabilisatie van den franc
+bleek dat de koersopdrijverijen niet meer zoo wilden
+vlotten, raakte Oustric eenige malen in een moei
+
+lijke positie. Zeer ten gonoege van de groote Fran
+
+sche banken overigens, die al sedert de oprichting
+van. d-: Banque. Oust.vie de ontwikkeling met leede
+o:&gt;gen hadden gadegeslagen, en die niets liever
+zagen dan een krach, vooral sedert Oustric het
+oog geslagen had op n harer: het Comptoir
+National d'Escompte. een avance die mislukte.
+Werd niet ook Löwenstein door de Belgische ban
+
+ken met scheeve oogen aangekeken, sedert hij
+getracht had zich in de Banque de Bruxelles te
+dringen? Maar toch word tot tweemaal toe steun
+verleend van min of meer onverwachte zijde:
+do Banque de Franco. Blijkbaar meende men
+daar dat een verscherping van do beurscrisis zoo
+mogelijk vermeden moest worden (kwade tongen
+hebben naar aanleiding van het geval l'óret al
+weer he.olo fantasieën ook over deze steun klaar),
+maar tenslotte ging het toch niet langer. Do
+aandeelen Kxtension. duikelden en het heele
+kaartenhuis viel in elkaar.
+Rechtstreeks heeft de debacle mot de algemeene
+crisis niet zooveel uit te staan: alleen de zwakke
+houding van do beurs heeft het ineenstorten ver
+
+haast. .Maar in zijn consequenties bestaat er na
+
+tuurlijk oen moer enge samenhang. .Juist omdat in
+dit stadium van depressie en beursbaisse de psy
+
+chologische invloeden van zoo groote beteekenis
+zijn. en elke nieuwe schok weer vorkoopon uitlokt,
+on de daardoor ontstane koersdaling weer ge
+
+dwongen liquidaties, vormen al deze verschijnselen
+tezamen de typische crisissymptomen. Kn als men
+daar nog midden in zit heeft een opleving, indien
+daarvoor aanleiding is. heel wat weerstanden, te
+overwinnen. Heel langzaam, en heel geleidelijk,
+telkens met nieuwe tegenslagen zal hot voorwaarts
+moeten gaan !
+SMAAKVOLLE
+GESCHENKEN
+MODEQN GLASWERK
+AQTISTICKvSADDEWEBK
+WIDVEQ5IEQIN6
+KLEEDJES-LAMPEN
+KLEINE MEUBELEN
+.1?
+rjABKSTRAAT \(~\
+V DEN HAAG \\J
+t:
+De Groene gratis
+tot 31 December a.s. voor hen die zich thans voor 1931 als abonnéopgeven.
+Deze week voor het laatst zenden wij nog aan een aantal adressen proef-exemplaren van ons
+blad en wij verzoeken de geadresseerden thans tot het nemen van een abonnement over te gaan.
+Invulling en verzending van de coupon op pag. 4 van het Groene omslag is daartoe voldoende.
+
+</text>
+<image timestamp="2002:09:22:09:03:40.00" size="225398">000008ON.TIF</image>
+</page>
+</document>

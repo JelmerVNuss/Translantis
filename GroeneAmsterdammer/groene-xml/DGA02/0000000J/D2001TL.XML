@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030419</Datum>
+<Pagina>13A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een revolutie van n dag.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van tg April 1903.
+f"' "' "
+Amst. Boek- en Steenrtrukkerij. v/h. Ellerman. Harma S: ('o.
+KONINGIN DRAGA VAN SERVIK: Maak er korte metten mee, Alexandcr! De vijanden onzer dynastie zijn ook de vijanden van ons land l
+
+</text>
+<image timestamp="2002:08:19:12:07:56.00" size="562815">D2001TL.TIF</image>
+</page>
+</document>

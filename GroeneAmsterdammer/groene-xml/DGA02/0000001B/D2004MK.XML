@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320109</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2849 van 9 Januari 1932
+prijs 20 cent
+
+DE GROENE! AMSTERDAMMER
+-»"1
+Weekblad voor Nederland
+
+Keizersgracht 35S, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+U zoekt:
+
+een firma van prima
+reputatie. Die een ruim
+gesorteerde voorraad bezit
+van de beste gewassen.
+
+
+En tOCh b i 11 ij k e
+prijzen noteert.
+U vindt
+dit alles bij:
+HANDELSMERK WETTIG GEDEPONEERD.
+Van Straalen Monsieur &amp;Erkelens
+
+Wijnhandelaren
+
+FILIAAL HOOFDKANTOOR FILIAAL
+Den Haag Rotterdam Den Helder
+Anna Paulownastraat 36 Leuvehaven 34 Hoofdgracht 61
+tal. 332532. tal. 52456. tel. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAG PRIJSCOURANT VOOR PARTICULIEREN.
+HA KLOOSTERHUIS
+KALVE.C5TCAAT 170
+
+AMSTCUDAM
+BUASPlBOMMa:
+BISCUITS DE LINDEBOOM
+AMSTERDAM
+KERKSTRAAT 50
+AMSTS^DAM
+PRIMA KWALITEITEN,
+DE EDELSTE SMAKEN,
+DE HOOGSTE VOLDOENING
+
+</text>
+<image timestamp="2002:09:20:20:01:06.00" size="108861">D2004MK.TIF</image>
+</page>
+</document>

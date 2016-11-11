@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270820</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 20 AUGUSTUS 1927
+13
+WELEER EN NOU
+door en met teekeningen van CORNELIS VETH
+Ik bouw u iets, volkomen naar uw wensch,
+Want het gemak, niet waar, dat dient den mensch ?
+We hebben nog niet van den stijl gewaagd.. ..
+Greco-Romaansch wordt altijd veel gevraagd;
+Natuurlijk houd ik me, terwijl ik bome.
+Zeer aanbevolen voor het oordeel van Mevrouw,
+De architect
+U wilt een huis. Goed, 'k wil den gevel bouwen,
+Hoewel 'k me met de rest niet op kan houen.
+'t Wordt enkel dak o/ ook 'misschien met geen.
+Een pittoresk spel van beton en steen;
+Het is voor mij een zoeken naar het Schoone.
+U moet maar zien, hoe u erin kunt wonen.
+HET AABDSCHE PARADIJS
+Toegepaste kunst
+door OTTO VAN TUSSENBROEK
+Aardewerk-Tuinen
+Men kent de Japansche dwerg-boompjes en
+«mniatuurtuinen. Zij zullen voorzeker aan de
+•uitvinding der salonparken in het klein, omgeven
+door muren, poorten, trappen en terrassen niet
+Tteemd geweest zijn zooals een drietal Fransche
+^kunstenaars deze vervaardigt, vergetend dat wat
+in Japan subliem is, in Europa lichtelijk belachelijk
+schijnt
+Beeds heeft men in welhaast alle bloemenwinkels
+bakken van aardewerk gezien, op min of meer ge
+
+slaagde manier gevuld en gegarneerd met
+allerhande vetplantjes, mossen en steentjes. Ongetwij
+
+feld heeft dit voorbeeld de kunstnijveren bezield
+die thans, met een geduld en eene toewijding, eene
+betere zaak waardig, hunne zoogenaamde: jardins
+de céramiqxie" vervaardigen, welke bij de met
+aardsche goederen rijkelijk gezegenden grof opgeld
+doen.
+De pottenbakker Artigas (vroeger als leeraar aan
+een bekende kunstschool te Barcelona werkzaam),
+de tuinarchiteet Nicolas M. Rubio en de schilder
+Raoul Dufy (bekend om zijne knappe ontwerpen
+van gedrukte stoffen) elkander, in Spanje op reis
+zijnde, ontmoetend, hebben zich verbonden tot
+een driemanschap waarvan eerstgenoemde het in
+hooge oven-temperatuur gebakken aardewerk
+samenstel vervaardigt, Bxibio de plant-vulh'ng en
+het tuin-plan en laatstgenoemde de wand- en overi
+
+ge beschildering verzorgt.
+Zij scheppen in dit werk een haast kinderlijk ge
+
+noegen en het is dan ook misschien het best deze
+d ngen als spel te beschouwen waarbij erkend dient
+t c worden dat bepaalde onderdeelen onmiskenbaar
+getuigen van een meesterschap in de beheersching
+der stof. Het is alles kunst in het kleine maar de
+nabootsing van de natuur in maquette-vorm kan,
+zooals b.v. in de architectuur, reden van bestaan
+hebben om den indruk weer te geven hoe op ware
+grootte een gebouw zich zal voordoen, terwijl zij
+hier als kamer-versiering volkomen haar doel voor
+
+bij streeft en aldus nutteloos kan heeten. Daarmede
+wil echter volstrekt niet gezegd worden dat zij in
+hare overbodigheid niet tot een voldragen kunst
+
+werk werd opgevoerd.
+Wat Dufy er al niet aan te pas brengt, zooals in
+den Tuin en het Aardsche Paradijs: de schepping
+van man en vrouw; den boom der kennis van het
+goede en kwade; Adam en Eva uit het Paradijs
+verdreven, het toont zijn fantasie en talent, maar
+men blijft zich afvragen of er voor hem geen ware
+wanden in ruimer verhoudingen te sieren zijn; of
+er voor Bubio geen werkelijke tuin- en parkterrei
+
+nen ter verfraaiing braak liggen en voor Artigas
+ten slotte geen grooter en belangrijker arbeid te
+doen valt als pottenbakker, dan wat ik zou willen
+noemen: het speelgoed der snobs, wier altijd d
+caDE TUIN
+
+dente voorkeur steeds schijnt te moeten blijven uit
+
+gaan naar het salonachtige en de nabootsing van
+het voor hen zoo heerlijke net-echte !"
+Bijzondere Aanbieding
+f 1175 en f 1775
+3 kamers
+salon
+huiskamer
+slaapkamer
+"EECEnöCACn.T5C
+AM5TCODAM
+tl AAW)
+
+</text>
+<image timestamp="2002:09:21:16:31:29.00" size="253112">D10006RC.TIF</image>
+</page>
+</document>

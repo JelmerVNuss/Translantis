@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251003</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2521
+1 OCTOBER
+JARIG BESTAAN
+VAN DE INRICHTING VOOR BINNENHUISKUNST
+
+
+'T BINNENHUIS
+
+Dir.: JAC. v. D. BOSCH
+THANS GEVESTIGD BOVEN
+KON. BEGEER" HOEK LEIDSCHESTRAAT
+INGANG PRINSENGRACHT 707*
+AMSTERDAM
+GEDURENDE OCTOBER TENTOONSTELLING
+VAN ZWART/WIT WERK VAN
+
+PIET VAN WIJNGAERDT
+Firma
+). G. MEIJER
+2 MARKTEN
+GRONINGEN
+van fl.—, f 1.50,
+f2.00, 12.50, f3.—enz.
+Franco per posi 50 Cents verhooging.
+Van het beroemde werk van
+
+J. TER GOUW
+
+
+Geschiedenis van Amsterdam
+COMPLEET IN ACHT KLOEKE DEELEN
+kunnen wij alleen onze abonné's een
+exemplaar aanbieden voor f 15.—.
+Daar de aanwezige voorraad gering
+is, bevelen wij eene spoedige bestelling
+ten zeerste aan.
+
+YAN «OLOU W«BF
+DE GROENE AMSTER DAMMER
+Weekblad voor Nederland
+
+kost slechts f 3.—per kwartaal of
+f 10.—p. j. bij vooruitbetaling
+- Lijmt alles
+••Slapeloosheid0;
+Overspanning ;
+Gejaagdheid ;
+Prikkelbaarheid :
+Examenvrees
+Gebruik hiertegen de :
+Zenuwstillende r
+en Zjenuwslerkende :
+Mijnhardti
+Zenuw-tabletten
+G. I. DE KONING &amp; Zn. - Keizersgracht 447
+(voorheen L E l DSC H EST R A AT 69)
+* SANITAIRE INRICHTINGEN
+
+In den Silveren Molenbeecker"
+talverstraat 32
+G
+Hoogstraat 31
+
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit In:
+lm. Oud Holl.
+Zilverwerk,
+TAFEL- en
+SERVIESZILVER.
+Ufttó,
+Knippatronen
+
+*»or ket vcraardlgca wn
+
+Kledingstukken
+
+en Handwerken
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Spoolalltolt int
+WIT LACQUE MEUBELEN voor
+Slaap-, Logeer- en Kinderkamer
+Illustratiedruk-papier van de Firma C, G. A. GORYEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:19:45:42.00" size="158569">000005YK.TIF</image>
+</page>
+</document>

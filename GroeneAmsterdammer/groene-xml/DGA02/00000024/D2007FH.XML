@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18901102</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+EEN ONGEVRAAGD ADVIES.
+(Vrij naar JAN STEEN.)
+B1TVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 2 November 1890.
+Stoomdrukken] Ellerman, Harms ii Cu
+De socialistische epidemie, die onze maatschappij teistert, en dit jaar eerst een Kei/er, daarna een Kardinaal op
+het ziekbed wierp, he«ft ook A.nsterdam niet yerschoond. Benige raadsleden willen de verplichting tot kindervoeding
+metterdaad erkend zien."
+('PROF. DB. C. BELLAAB SPRUIJT in het HandeLibln't van 29 October.)
+
+</text>
+<image timestamp="2002:10:03:03:13:53.00" size="470212">D2007FH.TIF</image>
+</page>
+</document>

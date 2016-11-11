@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000708</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1202
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+In de Zomervacantie.
+Feestmaal in China. (Der Floh).
+DE Kus: «Heeren ! Nu goeA in de maat eten, ieder om de
+beurt een h&amp;p."
+
+Een nalatenschap van tweedracht. (Pwch).
+CHINEES : »Je gaat me nu stukhskken, maar spoedig
+zullen jullie vreemde duivels elkaar Btukhakken".
+
+De Keizer van China in zijn binnenkamer
+(Carcm d'Ache in den Figaro).
+Mevrouw BORGESIUS (tot juffrouw Gïeichmari) : «Zet by dit bederflyk weer dat stuk in de ijskast!"
+
+Zonsverduistering in Afrika.
+(Ingezonden door een boozen Engelschman).
+»Ik wou wel aan de mogendheden laten weten dat ik haar
+graag de hand zou reiken."
+In return for your insults
+to the Queen of England and
+the British Army, and I hope
+you will like it.
+C. E. RAUKEN,
+Mahern.
+Wy ontvingen dit plaatje van een Engelschman, die verbolgen is
+op het Weekblad en zijn haat lucht geeft als volgt:
+»In antwoord op uwe beleedigingen de Koningin van Engeland en
+het Britsche Leger aangedaan, en ik hoop dat het u mag bevallen.
+C. E. RAUKEN (Malverri).
+Rusland en Engeland. (ie Eire).
+
+The Flying Englisman. (Lust. Bldtter).
+De Fransche Generale Staf. (Der Floh).
+De onafhankelükbeid der Republieken in Zuid-Afrika. (Life N.-Y.)
+De boksende huisknecht. (Lust. Blatter).
+Een verdwaald Regiment.
+
+Chineesche beleefdheid. (Der l&lt;loh).
+1. KEIZERIN v. CHINA : «Kan jy de vreemdelingen er niet uitboksen ?"
+BOKSEE: »Wel zeker, met genoegen!"
+2. KEIZERIN v. CHINA : »0 ! O! Heilige Confucius ! Nu bokst die kerel m'n heele theehuis 't Is toch merkwaardig dat de Fransche Generale Staf zoo
+tot gruizelementen". bang is voor het stafje van den Generaal.
+»'t Is zeer vriendelijk van het gebraad, dat het zich zelf voorsnydt."
+
+</text>
+<image timestamp="2002:08:14:18:26:19.00" size="524157">D2000JK.TIF</image>
+</page>
+</document>

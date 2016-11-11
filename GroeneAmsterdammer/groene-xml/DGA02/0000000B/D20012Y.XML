@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011006</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1267
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+l i "R
+i6&lt; r.~*&lt;* «*^*a * v * K
+Bezoek en revue. (Fischietto).
+EEN DIENDER: «GsdulJ, me lie?e menschen, dringt zoo niet! Burgemeester en politie gaan voor..."
+
+De God van Europa. (Ulk).
+Keizer Wilhelm heeft een Vrede pai-de trois aangekondigd. Binnen
+korten tjjd zal het, hoopt men, een pas de qiiatre worden.
+
+Als de boetgezant thuis komt. (Dagspressen, Copenhagen).
+Na de proclamatie.
+
+(Xoterelle).
+•*/
+\* ,' 'S
+t -^' \
+'s.',
+*J' i»' s
+j * s
+
+J f
+KiTciiKXEit: »De datum ia voorbij, de oorlog
+niet, maar ik kan het niet helpen; 't zijn de
+Boeren die niet uitscheiden !"
+D.- Czar te Parys. \ Xibtl'pitlter, Zurich).
+Welke cfiVaTido zal hsm 'ui -y i ;if
+Na de voorstelling. (Ie 'I!ii-i).
+Keizer Wilhelm beeft prins Tejoen begiftigd met het grootkruis van
+den Korden Adelaar.
+N.B. J Iet is te liopcn, dat de ('tineezen niet meer Duitxche ge.: tnten
+zullen vermoorden in de }woj op Pnihixhi di'U'jruties.
+Een profetie van voor twee jaren.
+(Morning Leader, 30 Aug. 1899).
+Een profetie, van heden.
+{Morning leader, 30 Aug. 1901).
+EEN VEHVULDE PROFETIE : Ir de Morning JOIINNY BULL : »Het eind van den oorlog ?
+'
+Leader van 30 Aug. 1899 verscheen
+bovenstaande prest, die •roMroaven den loop der
+dingen voorspelt. John Buil is in den afgrond
+geloopen ! arme John l
+geloof dat ik hst nooit te weten kom!'
+Di: C'-'AR : »En nu, als ge voldaan en tevreden zijt, zal ik zoo vrij
+zy'n en by h«t geëerde gezelschap rondgaan om een kkinigheld."
+EEN STKM UIT IIE 3IEN1GTK : »We hebben niets van je gezien, ga maar
+niet rond, hoor!"
+XICOLAAS : »God zegen je, dierbare Marianne."
+
+</text>
+<image timestamp="2002:08:16:16:51:23.00" size="389096">D20012Y.TIF</image>
+</page>
+</document>

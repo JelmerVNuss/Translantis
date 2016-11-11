@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321112</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+De Groene Amsterdammer van 12 November 1932
+No. 2893
+f
+*,
+Beursspiegel
+
+Donderdag, 1O November
+Al eenige weken verkeerden de in
+
+ternationale beurzen in afwachting"
+van het'resultaat der verkiezingen in
+Duitschland en de Vereenigde Staten.
+Beide verkiezingen zijn nu achter den
+rug. Nu hoeven we nergens meer op te
+wachten, en.... alles blijft bij het
+oude. De Duitsche verkiezingen heb
+
+ben niet de minste indruk nagelaten.
+'En de Amerikaansche: een flinke
+flauwe dag zoodra het resultaat be
+
+kend was, waaruit men zou opnmken
+dat men er toch ook niet zeker van is
+dat Roosevelt de crisis kan ovenvin
+
+nen. En we leven alweer in afwachting,
+nu niet van den verkiezingensuitslag,
+maar van een vooruitgang in het be
+
+drijfsleven. Optimistische uitlatingen
+daaromtrent zijn er genoeg: de perio
+
+dieke economische verslagen door ver
+
+schillende banken in Amerika gepubli
+
+ceerd blijven in majeur gesteld; de
+president van de Bethlehem Steel
+heett zoo juist voor de zooveelste
+maal verzekerd dat van nu af een ge
+
+leidelijk herstel zal intreden. Inderdaad
+is de staalindustrie nu langzamerhand
+aangeland op een capaciteitsbezetting
+van 21 % tegen 121/2 % een maand
+geleden. De omzetten in de waren
+
+huizen zijn langzaam toegenomen, en
+zoo zijn er meer bevredigende symp
+
+tomen op te sommen. Maar het gaat
+heel, heel langzaam. Gelukkig overi
+
+gens; de vraag is echter alleen maar
+hoever het zoo doorgaat.
+Ook de deviezenmarkt tast, althans
+wat betreft de fluctueerende valutas.
+in het duister. In Zweden spreekt
+men van terugkeer tot den gouden stan
+
+daard, en men spreekt het weer tegen
+ook. In Londen wroet men nog steeds
+in de oorzaken van de laatste ponden
+
+daling, waarbij men dan de meest voor
+de hand liggende factoren opzettelijk
+voorbij ziet. Een gefundeerd oordeel
+kan men in de verste verte niet vellen.
+Alleen op de obligatiemarkt komt,
+althans hier te lande, wat meer
+teekening. Destemming isuitgesprokenvast,
+hetgeen nog is versterkt door de jong
+
+ste mededeeling van de regeering dat
+men binnenkort soortgelijke extra
+
+aflossingen" kan verwachten als in
+het begin van dit jaar, hetgeen in ge
+
+woon Nederlandsch beteekent dat er
+omvangrijke conversie-operaties op til
+zijn. Ik heb eenigen tijd geleden ge
+
+schreven dat alleen de bloote aankon
+
+diging van een flinke conversie de
+rente te onzent omlaag zou kunnen
+drukken. Daarvan heeft men nu reeds
+een voorproefje gehad. C. K.
+Wat anderen van het H E E M A F-Verkeerssein hebben gezegd:
+Groene Amsterdammer" 23 Juli:
+
+,,De techniek heeft inmiddels niet stil gezeten en de
+Heemaffabrieken hebben een ingenieus lichtsysteem in den handel
+gebracht, dat inderdaad kans heeft het sein van de toekomst
+te worden. . . . En nu werkt dit seinstelsel eenige weken. Lang
+genoeg om te constateeren, dat wij ons vermoedelijk niet
+vergist hebben, toen het Heemaf-sein het signaal van de toe
+
+komst genoemd werd." (Uit een artikel van den heer Peppink).
+
+Het Vaderland" 24 Juni:
+
+,,Maar al spoedig pelt het apparaat nu het roode sein in de
+Anna Paulownastraat af. De wachtenden daar weten nu:
+straks kan ik er door; zij maken zich gereed en schieten vooruit,
+zoodra groen verschijnt.... Het zou ons niet verbazen, als
+dit systeem het pleit won.... De Verkeerspolitie heeft het
+aangedurfd, de seinen ineens automatisch te laten werken.
+Het was nog even zoeken naar de juiste tijdsregeling. Maar
+overigens ging het dadelijk goed."
+
+De Residentiebode" 25 Juni:
+
+Het nieuwre, gisteren in gebruik gestelde verkeerssein
+Laan van Meerdervoort hoek Anna Paulownastraat belooft
+nu reeds een succes te zullen worden. Te oordeelen naar de
+resultaten van ongeveer 24 uur proefdraaien, mag veilig
+aangenomen worden, dat deze proefneming uitstekend is."
+
+De Haagsche Courant" 24 Juni:
+
+,,Vandaag zijn de nieuwe verkeersseinen op den hoek Laan
+van Meerdervoort en Anna Paulownastraat in werking gesteld.
+En direct maar vol-automatisch. Thans is er geen verkeers
+
+agent meer op dit kruispunt.... De residentie krijgt een be
+
+langrijken primeur op verkeersgebied. Tot nu toe was het te
+doen gebruikelijk, om eens in het buitenland rond te neuzen,
+om te zien hoe men het daar deed; nu zal men van elders naar
+hier kunnen komen om leering op te doen."
+Nieuwe Rotterdamsche Courant":
+
+Het gele licht, dat aan dergelijke lichtseinen veelal werd
+gebruikt als overgangssignaal, is vervallen, omdat het tot
+vergissingen aanleiding kon geven en bij een seininrichting
+als die van Heemaf ook niet meer noodig is. ... Een voordeel
+van het nieuwe seinstelsel is, dat het zeer sterk licht geeft,
+dat de omgeving kleurt, zoodat men zich ook bij mist of wan
+
+neer men het signaal zelf om een andere reden niet kan zien,
+niet kan vergissen.".
+
+Motorverkeer" 13 Juli:
+
+Slaagt de proef op de kruising Laan van Meerdervoort
+Anna Paulownastraat, dan zal het Heemaf-verkeerssein ook
+op andere drukke kruispunten hier ter stede worden aange
+
+bracht en men mag verwachten, dat het ook in andere groote
+steden toepassing zal vinden. Misschien wordt het nog \vel eens
+het uniforme verkeerssein voor het binnen- en buitenland.
+Dat alles hangt af van het al dan niet slagen van de Haagsche
+proefneming."
+
+De Auto" 13 October:
+
+Eindelijk hebben wij in Den Haag de mooie voJ-autoniatische
+lichtseingeving van Heemaf. die geen aanpassing behoefde. . . .
+Amsterdam gaat nu weer een, van de vier genoemde
+lichtseinsystemen geheel afwijkend, systeem in toepassing brengen. . . .
+Om even te peilen hoezeer wij reeds afgestompt zijn in logisch
+denken over verkeersveiligheidsmaatregelen, denke men zich
+even in de absurditeit, dat op scheepvaartgebied in iedere
+haven andere Hchtseinen gebruikt werden en vooruitstrevende
+havenmeesters ieder half jaar met iets nieuws" gingen
+experimenteeren.''
+
+Haagsche Post" 22 Oct.:
+
+,,. . . .het systeem van Heemaf, dat in den Haag te zien is,
+dat in de geheele pers eenstemmig geroemd is om zijn eenvoud
+(in tegenstelling tot. . . .)"
+GETUIGT DIT ALLES NU VAN GEBREK AAN KENNIS, REPU
+
+TATIE EN ERVARING VAN DE NEDERLANDSCHE INGE
+
+NIEURSWERELD EN DE NEDERLANDSCHE INDUSTRIE?
+VERSCHENEN:
+
+ALGEMEEN ADRESBOEK DER STAD AMSTERDAM
+Prijs ƒ 13.75 Jaargang 1932-1933 Prijs ƒ 13.75
+Verkrijgbaar bij iederen Boekhandel of rechtstreeks bij de uitgevers:
+N.V. AMSTERDAMSCHE BOEK- EN STEENDRUKKERiJ v H ELLERMAN, HARMS &amp; Co.
+WARMOESSTRAAT 147
+151
+TELEFOON 4O396 en 417O1
+Door de buitengewoon vele adres-veranderingen, alsmede de talrijke nieuwe
+wijken en straten, is het Adresboek aanmerkelijk in omvang toegenomen;
+niettegenstaande dit is de prijs verlaagd tot f 13 75.
+
+</text>
+<image timestamp="2002:09:21:21:15:38.00" size="166682">D2005G0.TIF</image>
+</page>
+</document>

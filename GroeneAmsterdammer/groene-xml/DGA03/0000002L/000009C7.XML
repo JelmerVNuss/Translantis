@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300628</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het beleid van Mussolini
+BIJVOEGSEL van De Groene Amsterdammer'* Weekblad voot Nederland van 28 Juni 1930
+MALTA
+Amst. Boek- en Steendr. v/h. Ellennan. Hatnu 3 Co. N.V.
+De Europeesche Stoker: Het loopt me bijna over het hoofd!'
+V-v - 'T£-ifl
+
+</text>
+<image timestamp="2002:09:25:20:03:16.00" size="221229">000009C7.TIF</image>
+</page>
+</document>

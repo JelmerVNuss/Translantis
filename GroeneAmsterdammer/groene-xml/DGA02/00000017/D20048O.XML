@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390805</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+m
+itb^ru!
+ONAHHANKELIJK WEEKBLAD VOOR NEDERLAND • OPGERICHT IN 1877
+
+(~*ft f^*»-.- j- •
+l£?'&lt; f*
+•*&lt;&amp;
+-i,7«•r„j
+
+l**
+l-1!%*fe'
+if
+!D
+,Schrik niet, «f |jgt een rooie neer op uw huis I
+
+</text>
+<image timestamp="2002:09:13:00:05:46.00" size="569179">D20048O.TIF</image>
+</page>
+</document>

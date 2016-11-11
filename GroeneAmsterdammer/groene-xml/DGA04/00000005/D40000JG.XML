@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130105</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE STAKING DRUCKER—TREUB.
+(Begrafenis-onderneming: de Concentratie")
+Nadruk verboden.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 5 Januari 1913.
+Tvdcmun
+Rnrgcsius
+Roo(lhny:i'n Druckcr
+Treub Troclstra
+Anist. Ikiek- en Steendrukkerij, v h. Ellerman, Harms &amp; Co.
+Zoo komt ze nooit in 't graf!
+
+</text>
+<image timestamp="2002:08:18:06:20:46.00" size="233772">D40000JG.TIF</image>
+</page>
+</document>

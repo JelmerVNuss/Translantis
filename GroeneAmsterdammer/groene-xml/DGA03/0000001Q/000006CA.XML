@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280225</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE :GROENE AMSTERDAMMER VAN 25 FEBRUARI 1928
+No. 2647
+J* D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+voorcfe
+linnznkartl
+a/r DAALMAMS*
+'twaicht
+KDNINKLfTDOmtMUCHERIJ
+AMSTERDAM TEL. 3334Q
+CRAVENHACE TEL. 7233O
+A. WEILL
+Bontwerker
+Barteljorisstraat 26-28
+HAARLEM
+
+Zomerbontmantels
+voor auto's
+
+VOSSEN
+MARTERS
+JAEGER
+Ondergoederen
+b div, kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRONER
+Nicowcndijk 167, Amsterdam
+BADKAMEBIlCIITn
+zoowel eenvoudige als betere uitvoering
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+Voor olie doeleinden
+l N.V
+l Oiem.Kunstinrichting
+iDirkSchndbel
+Amsterdam. »
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. HooftstTMt 88 AMSTERDAM TeUf.: 20341, 24260
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ otn verkrijgbaar
+N, R, V» MONTA SCHOENEN |
+
+Wed JOHN GAY'S PICCALILLl
+BUJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+- ENGROS BIJ DE UEVEGOED-S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+Drostes
+DROSTES
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+
+</text>
+<image timestamp="2002:09:04:06:32:49.00" size="108400">000006CA.TIF</image>
+</page>
+</document>

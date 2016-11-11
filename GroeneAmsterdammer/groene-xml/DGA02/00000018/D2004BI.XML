@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390909</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+UWE KUNST
+elling te *San r
+rancisco
+Pitti Paleis in Florence en Verrochio's vermaard
+bronzen beeld van David met het hoofd van
+Goliath". In een aangrenzende zaal bevindt zich
+Donatello's buste van den jongen Antonio da
+Narni en drie beeldhouwwerken van Italie's grootste
+meesters uit de renaissance en het barok. Het zijn
+de strenge buste van Isabella d'Aragon van de hand
+van Francesco Laurana, Michelangelo's beroemd
+marmerrelief Madonna met kind en den jeugdigen
+Johannes" en Lorenzo Bernini's marmeren buste
+van zijn geliefde, Constanza Buonarelli.
+Een dergelijk geheel is niet vaak op een tentoon
+
+stelling te zien geweest, die niet speciaal aan
+Italiaansche kunst gewijd was. Ook de werken der
+kleinere meesters zijn met zorgvuldigheid gekozen
+en meestal van een uitstekende kwaliteit. Werken
+van Fra Angelico, Pollaiuolo, Mantegna en hun
+tijdgenooten vullen drie groote zalen. Een vierde
+zaal is aan de werken der latere Noord-Italiaansche
+meesters gewijd en bevat schilderijen van Tintoretto,
+Tiepolo, Moroni, Piazetta.
+
+E Zuid en Noord Nederlandsche meesters der
+15de en i6de eeuw zijn door werken van
+Hugo van der Goes, Gerard David, Memlir.c, Barent
+van Orley Mostart, vertegenwoordigd die voor een
+•groot deel door het Kon. Museum der Schoone
+Kunsten te Brussel afgestaan zijn. De Hollandsche
+I7de eeuwsche kunst komt hier minder goed tot
+uiting dan te New York. Rembrandt's Portret van
+een jongen Man" uit de collectie Mellon, dat in 1935
+op de Amsterdamsche Rembrandt-Tentoonstelling
+te zien geweest is, is een der beste werken uit deze
+school die hier getoond werden. Een eereplaats
+x nemen Frans Hals' portretten van den Haarlemschen
+burgermeester Nicolaes van der Meer en zijn vrouw
+Cornelia Vooght in. Samen met Jan de Bray's
+groepsportret der Regenten van het Haarlemsche
+Weeshuis" zijn deze drie schilderijen de eenige
+officieele Nederlandsche inzending. De overige
+schilderijen in deze groep komen uit Amerikaansche
+musea, uit particuliere collecties en uit den kunst
+
+handel.
+Een opmerkelijke zaal bevat 14 schilderijen van
+Vincent van Gogh uit de collectie van Ir. V. W. van
+Gogh, gewoonlijk als bruikleen in het Amster
+
+damsche Stedelijk Museum tentoongesteld. Ook
+Holland's levende kunstenaars zijn niet vergeten.
+Schilderijen van Leo Gestel, J. van Herwijnen, D.
+Ket, W. A. Konijnenburg, C. J. Maks, Jan Sluyters,
+Charley Toorop, Mathieu en Piet Wiegman en beeld
+
+houwwerken van L. Bolle, Hildo Krop, J. Polet en
+H. Wezelaar vullen een der voor moderne kunst
+gereserveerde zalen.
+
+EEN prachtige Zurbaran, een mooie Greco, een
+door zijn kleurgeving verrassende Georges
+Dumesnil de Latour uit de collectie P. Landry,
+Parijs, en de groote Fransche meesters der i8de en
+19de eeuw besluiten de at deel ing Oude Kunst".
+Bij dit alles is nog bijeen gebracht een zeer uitge
+
+breide collectie moderne schilderijen van meesters
+uit alle werelddeelen.
+•Het is vermoedelijk voor het eerst, dat kunst en
+beschaving van alle rondom den Stillen Oceaan
+wonende volkeren op zoo groote schaal en in een
+zoo grandioos georganiseerde tentoonstelling onder
+n dak getoond werden. China, Indo-China, Siam,
+Melanesië, Japan de Noord-Westkust van
+NoordAmerika, Polynesië, Micronesië, Australië, Zuid- en
+Middel Amerika zijn 'n het programma opgenomen.
+Verrassender nog dan de uitgebreidheid van den
+Catalogus is echter de goede kwaliteit der
+tentoon'gestelde voorwerpen. Sommige beschavingen zijn
+rijker en grondiger doorvorscht dan andere. Maar
+nergens is een poging gedaan om de openstaande
+hiaten door tweede-rangs stukken aan te vullen.
+Dit is een principe dat voor kunsttentoonstellingen
+niet dringend genoeg aanbevolen kan worden. Het
+heeft in hooge mate tot het succes van de
+PacificTentoonstelling bijgedragen en zelfs indien op de
+San Francisco World's Fair niets dan de Kunst
+
+tentoonstelling te zien geweest was, zou het
+Treasure Island" zijn naam volop verdiend hebben.
+N. S. TRIVAS
+B IJ DE FOTO'S
+
+Boven: Donatello: Bronzen Buste van een Jongeman.
+
+Onder: Sebastiano del Piombo: La Farnarina''
+(Oude Kunst, Wereldtentoonstelling San Francisco).
+
+</text>
+<image timestamp="2002:09:13:02:39:54.00" size="578509">D2004BI.TIF</image>
+</page>
+</document>

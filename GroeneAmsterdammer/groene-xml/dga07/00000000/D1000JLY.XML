@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18770715</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER.
+te&amp;
+VAN
+MATRASSEN:
+nieuw systeem.
+FRANCHiraONT &amp; G0., te Amsterdam.
+Deze STAï^Elf SIPRIWIwVJEElWEJl' MATRASSEN, reeds door vele Geneesheeren als gezondheid bevorderend aanbevolen,
+zijn van prima kwaliteit Staal vervaardigd. Zij zjjn - .
+zoowel sierlijk als deugdzaam van constructie;
+zoowel onversiytbaar als ontoegankelijk voor Ongedierte;
+zoowel gemakkelUk in het gebruik als billijk in prijs;
+steeds in eiken vorm en maat verkrijgbaar gesteld by de Heeren
+W.
+. Ralverstraat.
+EK
+(70)
+SAUTTEH" «fe .9 Singel, 35O.
+PASSAGIERSVAART NED.-INDIE.
+
+HEILIGENWEG,
+11,13, IS, en 17
+AMSTERDAM.
+t
+
+INDISCHE UITRUSTINGEN van ƒ225, ƒ 300, f\m en f soo, met inbegrip
+van Kisten, Koffers, nette Verpakking:, vrachtvrije bezorging- aan Boord of adres.
+'il gebreide i RIJSLIJSTEN worden op aanvrage door het geheele Rijk verzonden.
+e mm.LEEDL\GSTURREN zijn door een bekwaam Coupenr gesneden, keurig; bewerkt
+en van prima qnaliteit.
+worden in eiken op te geven tijd geleverd, daar de meeste Artikelen in
+elke afmeting* voorradig zijn.
+e vJhef die geheel op de hoogte is van de Goederen, welke in Intitëgedragen worden,
+kan men alle tyde ontbieden. . (75)
+t*
+GEDURENDE DE TENTOONSTELLING
+
+Détail Verkoop
+IN
+Boêlen's American Bazar.
+Voorplein Oosteinde, naast de Rnstique Brug*. (76&gt;
+LU
+o
+f
+OPRVIUIMCÏ.
+
+yan af MAANDAG zullen alle voorhanden Karpetten,
+Wasdpek- en Zeildoekloopert, Tafelzeilen, Oanapè- en
+Deurkleedjet tot buitengewoon lage prezen worden
+opgeruimd bij
+J. DB UEME.
+73)
+f O. Ruiistraat. tO.
+Zater*mg* Geslote*.
+EUcrman, Harnu &amp; C9., Amsterdam.
+
+- -iw-^ _
+
+
+</text>
+<image timestamp="2002:10:23:18:41:11.00" size="204449">D1000JLY.TIF</image>
+</page>
+</document>

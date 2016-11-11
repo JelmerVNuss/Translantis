@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18890407</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 7 April 1889.
+Hoe de Oranjebond over de Conscriptie denkt.
+Voeg hierbij de vele nachtpermissies en het afschaffen van het gedwongen kerkgaan
+:, Kortend worden behandeld
+moeders uit Neder
+kinderen der vaders en
+Slaven in Afrika.
+T 1R
+Honderd jaren drukt reeJs dit sl.ivenjuk op de Ni'derkndws.
+Zij moeten zich geheel naakt uitkleeden, als zijj in
+de kazerne komen, dat noemt men keuren. Eén voor
+n moeten zij voor den dokter verschijnen.
+.... gaan de slachtoffers naar de kazerne.
+Ellerman Harms &amp; Co. Amsterdam.
+
+</text>
+<image timestamp="2002:10:03:02:20:15.00" size="377955">00000BCB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240816</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2461
+AUTOMOBIELEN IMPORTEURS:
+Acht cylinder In n HJn
+N.V. Autohandel
+GRUND &amp; C°.
+UTRECHT
+J. D. STRUIJS * ZM.
+Prinsengracht 887 P. O. Hoofdstraat 140
+fEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+AIX LES BAINS
+SAVOYE FRANKRIJK
+Warme bronnen tegen RHEUMATIEK. Alle sporten. Twee Casino's.
+Mooiste en voornaamste touristencentrum der Fransche Alpen.
+bil. en prosp. gratis:
+INTERN. VERKEERS BUREAU
+A'dam, Kalverstraat 168, den Haag, Noordeinde 31.
+EEN BOTERHAM
+met koek is haast voor iedereen een
+lekkernij, mits de koek ernaar is.
+DEVENTER
+ONTBIJTKOEK
+is een lekkere koek, gebakken in een
+modelinrichting, uit de beste en zuiverste
+grondstoffen. Vraagt ze Uw winkelier.
+EVENTER
+ANNO
+
+
+DEVEMTE
+I KLEIN EOFEBWEBK, gedraaid of gestamt, blank l
+of vernikkeld levert tegen zeer lage prgzenl
+INGENIEURSBUREAU VAN NISPEN, ZWOLLE.
+Koldewey &amp; Corbière
+Leldschestraat 30, Amsterdam
+h:
+ilUPUMElKEUlELEI, «I1IISSEII, DEIEIS
+HV..1EFOBH
+Dir. E. Boerma
+GSOHINGEN AMSTERDAM
+Heireitr. 58 Rokin 70
+Dames- en
+HeerenK'eederrnakerij.
+Coupeurs door het geheele
+land te ontbieden".
+AMERSEOOET
+?an Hasetó
+Snouckaertlaan 22-24
+TELEFOON 218
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftitnat 38, AmiUrdt». Tilif.: 20341, 24260 j
+{REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+and
+
+
+WHÏTE&amp;QOLD
+SCOTCH WHISKIES
+r 45 f	4-5°!
+Jo/« ntjtnt
+VAN BEUNINCENSTRAAT 5O
+DEN HAAG TEL.52681 i
+bij AMERSFOORT
+
+100 H.A. Bosch
+PENSION met kamer
+per dag f 5.—bij 3 daags
+verblijf
+,, ,, f4.50 bij week
+,, ,, f 4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+ADR1AAN SCHAKEL
+HEILIGEWEG 11-17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+
+De LIEVEGOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT UW LEVERANCIER ! I
+House for Gentlemen
+
+Ie Klasse Engelsche gemaakte Heerenkleedlng
+ENGELSCHE KLEEDEBMAKERIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+Verweegen &amp; Kok
+AMSTERDAM - DEN HAAG
+ONBREEKBAAR
+
+Reis- of Bureau-Klokje
+Beschadigt of breekt niet, zelfs niet wanneer
+het op den grond valt.
+
+Prijs f 17.5O
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon No. 81 En detail
+Kreeftenpark Belderbos", Bergen op Zoom
+DE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 10.—per jaar
+B. J. MULDERS
+TÜIJJAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO8IO
+
+</text>
+<image timestamp="2002:09:03:14:56:52.00" size="143293">D2003TE.TIF</image>
+</page>
+</document>

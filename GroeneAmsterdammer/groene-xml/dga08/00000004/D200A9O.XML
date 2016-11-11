@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19310418</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+••f
+18
+DE GROENE AMSTERDAMMER VAN 18 APRIL 1931
+No. 281*
+Radio en Grammofoon
+
+Draadlooze kabeltelefonie
+zonder kabel
+door L. J. van Looi
+proeven tnsst'tu'n
+Dover on
+DHAADLOOZK kabeltelefonie
+zonder kabel is een begrip, dat
+zichzelf twee
+maaltegenspreekt.Praadlooze kabeltelefonie is al iets geks,
+maar nog gekker wordt het als wij
+er dan bovendien nog niet eens een
+kabel voor gebruiken. Toch is deze
+methode van telefoneeren de jongste
+overwinning van de techniek. De
+wetenschap had reeds lang de moge
+
+lijkheid bewezen, doch practisch was
+het draadlooze telefoneeren langs
+een draad zonder draad nog niet
+toegepast. Ongeveer veertien dagen
+geleden is thans echter de eerste
+verbinding van dien aard tot stand
+gebracht tusschen Calais en Dover.
+Wie het artikel gelezen heeft óver
+de proeven op een golflengte van
+zeven meter, die thans te Berlijn
+ook officieel door den rijkspost
+genomen worden, zal zich daaruit
+herinneren, dat betoogd werd, dat
+deze korte golf lengt-en niet door de
+Ileavyside-laag worden teruggekaatst
+of erdoor worden geabsorbeerd, zoodat
+geen werking op verren afstand
+plaats vindt. Oppervlakkig gerede
+
+neerd kunnen ivij zeggen, dat hoe kor
+
+ter de golflengte is, hoe meer de radio
+
+golven zich gedragen als lichtstralen,
+d.w.z. des te minder buigen zij zich
+om de aarde heen. De
+zeven-metergolf buigt zich zoo goed als niet meer
+&lt;in daai-om is de. werkingssfeer van
+ulk een korte-golfzender beperkt tot
+de horizon.
+Wanneer wij nu nog kortere golf
+
+lengten gebruiken, korter dan n
+meter bijv., dan zullen wij onder
+
+vinden, dat deze golflengten nog meer'
+eigenschappen vertoonen, die wij tot
+dusverre alleen maar aan lichtstralen
+toekenden. Beter nog dan de ,. lange"
+golven van onder de vijftig meter,
+waarmede het ook gedaan wordt,
+laten de golflengten van enkele deci
+
+meters zich door middel van een
+spiegel weerkaatsen. En wanneer wij
+de spiegel den vorm van een parabool
+geven, zoo ongeveer dus als de weer
+
+kaatsende achterwand van de bekende
+straalkacheltjes, dan wordt de
+electrische energie, precies zooals licht
+
+stralen in een schijnwerper en de
+warmte in het straalkacheltje, ge
+
+bundeld", geconcentreerd, in het mid
+
+den van de parabolische spiegel en
+deze bundel wordt uitgestraald in de
+richting, waarin de spiegel wordt ge
+
+draaid.
+.*.'. * •*
+Wie in dienst geweest is en de
+geniesoldaten of de matrozen met licht
+
+signalen heeft zien werken, vindt
+in deze inrichting een bekend signaal
+
+apparaat, dat der optische seinen,
+terug. In militair gebruik zijn namelijk
+parabolische spiegels, waarmee over
+
+dag lichtstralen worden gericht op
+een ver verwijderden ontvanger en
+door het onderbreken van den licht
+
+straal kan men met morseteekens
+berichten overbrengen. Iets dergelijks
+gebeurt bij de draadlooze kabeltele
+
+fonie ook. Bij Dover staat, hoog op
+de rotsen, een miniatuur radiozen
+
+dertje, niet grooter dan een
+handkoffertje. Uitgebreid behoeft dit appa
+
+raatje niet te zijn, want het werkt
+met de belachelijke kleine energie
+van n halve Watt! Men bedenke
+daarbij even, dat voor het bedrijven
+van den gewonen electrodynamischen
+luidspreker meestal reeds 3/4 Watt
+wordt gebruikt, hetgeen wil zeggen,
+dat de zendlamp van den zender over
+het Kanaal niet grooter behoeft te
+zijn dan een normale luidsprekerlamp.
+De constructie is echter heel anders,
+want de lamp moet in staat zijn om
+golflengten van. 18 Centimeter voort
+te brengen. Zulke golflengten noemt
+men Mikrogolflengten en het is een
+moeilijke kwestie om daarvoor een
+goede zendlamp te maken.
+* *
+
+De energie van een halve Watt,
+die deze lamp voortbrengt, wordt in
+een antenne geleid, die afmetingen
+heeft, die met het geheel overeen
+
+stemmen, namelijk een antenne van
+2 Centimeter groot, liet eenige groote
+dat aan de heele installatie te vinden
+is, is de reflecteerende spiegel. Die
+heeft een n;iddellijn van drie meter
+en in het midden daarvan is de kleine
+antenne aangebracht. Trouwens niet
+alleen de antenne, doch de heele
+zender bevindt zich in het brandpunt
+van de spiegel, omdat bij dien zender
+zoo weinig mogelijk metaal aan draden
+mag worden besteed. De spiegel zendt
+de energie in een smallen, zeer
+geconcentreerden bundel oA'er het Kanaal,
+precies in een daar opgestelden ont
+
+vangspiegel. Men beweert, dat de
+bundel zoo smal is en zoo geconcen
+
+treerd, dat bijna niets van de energie
+bezijden de spiegel verloren, gaat.
+Bij Calais, boven Cap Nez, staat
+de ontvangspiegel en ook een zend
+
+spiegel met een zender, en tusschen
+deze vier spiegels zijn de twee on
+
+zichtbare kabels van electrische ener
+
+gie gespannen, die volkomen een onder
+
+zeekabel vervangen. Want tusschen
+deze twee stations vinden sedert
+enkele dagen gewone telefoongesprek
+
+ken plaatst en er is niets op tegen
+om deze zendertjes aan het intercom
+
+munale telefoonnet aan te sluiten,
+en den ónderzeèkabel buiten bedrijf
+te stellen. Of daar reden voor zijn?
+Wellicht zijn er op het oogenblik,
+nu de kabel er eenmaal ligt, geen
+zwaardere redenen voor te vinden
+dan het feit, dat er voor het bedrijven
+van dien kabel grootere energieii dan
+een halve Watt noodig zijn. Maar
+als er weer eens een kabel gemaakt
+moest worden, dan zou er stellig
+over gedacht moeten worden of het
+niet veel goedkooper zou zijn als men
+er een ,,kabel zonder draad" voor
+nam !
+
+
+Nieuwe toestellen
+l'Jiiliim Qntvungtovetcl «1*3*
+Een gemakkelijk te hant-'eren
+ontvangtoestel voor wisselstroom, te
+
+gen redelijken prijs, heeft Philips
+in den handel gebracht met zijn type
+No. 2034. Luidspreker en toestel zijn
+in n constructie ondergebracht;
+men \rerwoiidert zich over het feit,
+dat voor de onderbrenging van de
+verschillende onderdeelen slechts zulk
+een kleine ruimte geeischt wordt bij
+een 3-lamps wisselstroominstrximent
+van behoorlijke werking, zooals de
+2034 er een is.
+Alle noodige spanningen worden
+uit het licht net verkregen, zoodat
+batterijen of andere hulpapparateri
+overbodig zijn.
+Het toestel kan, onder
+voorschakeling van een grammofoonopnemer,
+tevens gebruikt worden om
+grammofoonmuziek electrisch weer te geven.
+In het toestel moeten de volgende
+Philips ,,Miniwatt" lampen met huls
+0.35 gebruikt worden: E 442, hoog
+
+frequent scherrnroosterlamp, E 424,
+detectorlamp, C 443, eindlamp
+(pentode). Bovendien moet een Philips
+gelijkrichtlamp 500 K. ingeschakeld
+zijn. Het is onmogelijk-^ ook indien
+het toestel geopend is onder span
+
+ning staande deelen aan te raken.
+De luidspreker is zeer mooi van
+toon en verdraagt een groot kwantum
+geluid; hij kan bovendien buiten
+werking worden gesteld om een ander
+model luidspreker of een reeks in
+verschillende kamers opgestelde luid
+
+sprekers in te schakelen. Het toestel
+geeft vele stations sterk en krachtig
+door; de bediening is uiterst eenvoudig.
+, Ook met deze uitgave is te
+genereeren, zonder ergernis bij de toestel
+
+bezitters in de omgeving op te Wekken.
+••• '. •• •. ' . : .' D.
+Mat hechte wortels stevig
+gegrondvest.... tegen alle
+stormen bestand	Zoo
+staat sinds 1859 de levens
+
+verzekeringmaatschappij
+
+
+MI1LMIJ
+'s GRAVENHAGE
+Amsterdam-Utrecht- Rotterdam
+Spoor's
+Mosterd
+W. A. Spoor Jr., Culemborg-.
+KWATTA'S
+Manoeuvre
+reepen
+= MELK EN PUUR =
+NIET GELDIGE KWAIU-SOIDAAIIES
+Witte Tanden: Chlorodont
+de heerlijk verfrisschend smakende pepermunt tandpasta Tube 35 cent en 6O cent
+No. 281 j
+DE GROENE AMSTERDAMMER VAN 18 APRIL
+UIT HET KLADSCHRIFT VAN JANTJE
+Groquante Croquetjes
+door Alida Zevenboom
+HET zijn mooie tijden! Dat
+moest eens een gemeentewerk
+
+man overkomen dat men hem zoo
+maar op gtaanden voet wegjoeg en
+niet eens behoorlijk den tijd liet om
+zijn boeltje te pakken ! Maar met een
+koning maken ze zooveel pourparlers
+niet in dezen tijd. Die moet maar
+zorgen, dat hij weg komt, zonder dat
+xe een behoorlijken opzegtermijn in
+acht nemen en dan nog als een dief
+in den nacht, moet hij wegsluipen.
+En waar kan een koning tegenwoordig
+recht verkrijgen als hij onrechtmatig
+ontslagen is? En dan een zoo'sympa
+
+thieke koning als Alfons. Ik wil er
+wel rond voor uit komen dat ik altijd
+oen zwak voor hem heb gehad en dat is
+al begonnen toen hij nog niet geboren
+was, want toen was het al om meel ij
+met hem te krijgen, .zoo'n. ongeboren
+stumperdje dat eigenlijk al op de
+troon zat en dan nog een halve wees
+bovendien. En wat heeft die lieve
+jongen al niet meegemaakt! Ik heb
+liet sinds den tachtigjarigen oorlog
+eigenlijk nooit erg op de Spanjaarden
+begrepen gehad en ik denk wel eens
+hoe het er hier uit zou gezien hebben
+als wij onzen Vader des Vaderlands
+niet gehad hadden en dan zijn er nog
+menschen die het niet goed zetten
+kunnen, dat wij. straks feest gaan
+vieren, omdat hij vierhonderd jaar
+geleden geboren werd. Wat kon onze
+bovenmeester mooi Vertellen van al
+die gruwelen, die de Spanjaarden
+hier hebben aangericht waar die meneer
+uit Dussëldorf eigenlijk nog maar een
+kind bij is en ik mag het wel voor een
+bizóndere schikking houden dat wij
+nog voorvaderen hebben overgehou
+
+den na al dat gemoord en gebrand
+onder Alva en die andere heeren met
+hun moeilijke namen. Waarom maken
+ze daar nu niet eens een mooie film
+van waar de menschen nog wat aaa
+zouden hebben en wat de vaderlands
+
+liefde Weer een tikje zou aanwakkeren.
+' .* '*'.
+
+Ik moet u eerlijk zeggen dat als ik
+koning was, ik geen gerust oogenblik
+meer zou hebben met al die
+revolu'tionnairen en republikeinen om je
+heen, die maar bij je in en uit loopen
+en vandaag erg lief met je zijn en
+morgen je op straat zetten. En wat
+heeft zoo'n Alfons nu eigenlijk, voor
+plezier beleefd aan zijn koningschap ?
+Op zijn trouwdag begon het al met
+een bom, die net achter/zijn trouw-(
+koets sprong, zijn kinderen zijn niet
+gezond en in de laatste jaren met al
+die generaals, die hem de baas waren.
+was hij eigenlijk geen koning meer.
+En als het waar is wat meneer
+Stanislafski vertelde, dat hij hem
+een paar jaar geleden in een Fransche
+badplaats had gezien in gezelschap
+van die twee geschilderde dames,
+die de Dolly Sisters" heeten, dan kan
+ik het hem niet goed kwalijk nemen.
+want mag een man niet zooveel
+zorgen aan zijn hoofd, niet eens een
+opkikkertje hebben en wie weet hoe
+in het ordentelijke hij met die dames
+is uit geweest. Misschien was het wel
+om zijn uitspraak van zijn Engelsch
+te verbeteren, net als ons acteurtje
+wel eens wandelt met een dame, die
+zuiver llollandsch spreekt om zijn
+accent kwijt te raken dat hem tot
+dusver belet heeft hoofdrollen te
+spelen, zoo als h ij zegt, maar dat geloof
+ik niet zoo hard. En wat moet zoo'n
+Alfons nu beginnen? Op kosten van
+zijn schoonmoeder in Londen leven?
+Kan dat ooit goed gaan ? Toen ik met
+den imvendigen zendeling ging, leefde
+zijn moeder ook nog en hij wou met
+alle geweld dat wij bij haar zouden
+intrekken, maar ik moest daar niets
+van hebben, want! ik heb daar zooveel
+voorbeelden van gezien dat het met
+moord en doodslag eindigde, dat het
+daarom bijna al was afgeraakt. En
+dan zoo'n levendige man als Alfons.
+hij kan toch maar niet den heelen dag
+polo spelen of gaan zitten visschen?
+Mijn neef uit de Commelinstraat is
+ook zoo op straat gezet uit zijn be
+
+trekking en ik ben er zelf op af ge
+
+gaan om de heeren eens goed de
+waarheid te zeggen, maar daar sta je
+dan met je mond vol tanden, als je ten
+antwoord krijgt: wil u dan liever dat
+wij er een politietaak van maken?
+Want wat kwam uit? Dat neef het
+geld van een paar geïnde kwitanties
+achterover gedrukt had," om ,een
+sportterm te gebruiken, als ik het
+wel heb. En wat gebeurt er mi niet
+neef nu hij niets om .handen heeft?
+H ij raakt zoetjes aan aan den drank
+en toun ik hem van de week bij me
+had laten komen om mijn gang te
+witten, is hij met ladder en al om
+gevallen en dat alles om een pa-ar
+misgrepen met die kwitanties en dan
+had hij het geld nog erg nuttjg besteed,
+zooals hij zegt.
+* * .
+' *'•,"•••
+Als wij niet oppassen dan sterft
+het ras van de koningen langzaam
+Charivaria
+..De heer S. gaat heden zijn 80ste
+levensjaar in," schrijft déTel. onder
+een portret, Waarom wordt dat
+gevierd?" vraagt een lezer.
+DE ENGELSCHE ZIEKTE
+De omstandigheden zijn nog lang niet
+gesettled." (MM. v. h. Botkh.)
+De vereenlging heeft een sprekende folder
+uitgegeven. Sinds eenigen tijd verpakt Philips
+in de gebruiksaanwijzingen van haar toestellen
+een pamflet." (Tijd.)
+Een ras-artist en alt-round musicus-."
+(Musica.)
+De geest en de kundigheid van zijn allround
+auteurschap." (N.N.Ct.)
+De jongste der drie Tatmadgesisters."
+fi-um. P.)
+Sigarenmagazijn The Future." f Adv.)
+PLAT-DUITSCH
+Men moet zich een beetje anstrengen."
+(U. D.)
+Het raam, waarin het werk werd opge
+
+bouwd, is weinig bij de vorige drukken ge
+
+wijzigd. "CMbl. v. h. Boekh.)
+Verdi is in Mailand gestorven." (O. H. C.)
+Hoogseizoen." (Sum. P.)
+
+
+Jongmensch met buitetilatictsche ervaring,
+zoekt opname in eerste klas onderneming.
+Bereid tot kapitaaldeelname." (Adv.)
+De taalkundige lezer zal in gedachte
+de zetfout verbeterd hebben:
+ondername.
+OCH, HEDEN !
+HIJ roemt de verworvenheden van het
+nieuwe regiem. Het was een succes, dat hij
+behaalde door bijzakelijkheden. De luchtige,
+wereldsche ingesteldheid dezer verbeeldingrijke
+show." (N. R. Ci.)
+,,De onmiddellijkheid wordt wat geremd."
+(Bat. Nbl.)
+
+TAALVERRIJKING
+Gezag met als omiitblijfbaar gevolg de
+onderwerping van de maatschappelijke orde."
+(De Critiek)
+,,De vereenigingsgeest zal gelegenheid krijgen
+om tot uitkristallisatie te komen." f De Planter;
+,,Een soort van paradijzisch eiland."
+(Sum, P./
+Deze lampen hebben een zekere
+voorijling." f Auto)
+Ik verzoek u mij op te geven op welke
+uren de telegrammen per telefoon aan u moeten
+worden overgesproken." (Blauwboedtnv.)
+i
+
+ÓP DE GLIBBERIGE PADEN
+Des te meer zal" het zwaartepunt vallet»
+op het verdwijnen der onderlinge tölbarriéres."
+(Gr.j
+DAT LASTIGE HOLLANDSCH
+Want de gelddorst die beroofde hun var?
+hun gezond verstand. Dat maakte hun niet
+ongerust." (O. H. C.)
+Min. Reymer spelt hem het insigne op de
+borst." (N. R. C.)
+Voor ik verder Uitwijd over het werk."
+(H. D.).
+Zij spelde hem het kruis op de toga." (Tel.;•
+maar zeker uit en als wij niet bijtijds
+maatregelen nemen zal het er mis
+
+schien nog van moeten komen dat zij
+kunstmatig in het leven worden ge
+
+houden, zooals de Amerikaansche buf-,
+fels, wat ik pas heb gelezen, en daar
+zal het misschien nog op uitdraaien,
+want mag het bestaan dat koningen
+taxi-chauffeurs worden, zooals nu in
+Parijs met al die Russische
+grootvorsten het geval schijnt te zijn, zooals
+meneer Stanislafski zegt en ik moet
+zeggen dat ik het niet overleven zou
+als ik een taxi nam en op den bok z,at
+bijvoorbeeld Keizer Wilhelm. Ik geloof
+dat ik van me zelf zou vallen. Ik heb
+eens op een liefdadigheidsfeest waar
+ik een kaartje voor gekregen had, een
+kelner gevraagd of hij me ook een
+rumgrocj,e kon bezorgen, want ik had
+zoo'n pijn in mijn maag1 en toen hij ,
+zich omdraaide, wou ik meteen door .
+den grond zakken, want ik had meneer
+Walrave Boisevain voor den
+kelneraangezien, maar het grocje heeft hij
+mij toch gebracht, zoo is hij.
+En zoo moet Alfons ook zijn, zeggen
+zo. Arme Fons....
+,, ONOVERTREFBAAR"
+i
+i t
+H
+f
+
+</text>
+<image timestamp="2002:10:26:19:34:56.00" size="568556">D200A9O.TIF</image>
+</page>
+</document>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320813</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 13 Augustus 1932
+No. 2880
+Radio
+.
+
+Toesteltype 1933
+door L. J, van Looi
+BerHjusche
+radlotentoonstelling
+
+Op 19 Augustus begint te Berlijn de
+groote jaarlijksche radiotentoonstel
+
+ling. Op deze tentoonstelling wordt elk
+jaar het publiek kond gedaan, welke
+apparatentypen in het komende jaar
+de radio-mode zullen regeeren. Dit
+jaar zullen de toestellen van de
+Berlijnsche tentoonstelling
+superheterodynes zijn. Niet maar van die gewone
+superheterodynes, maar
+bandfiltersuperheterodynes -met -
+automatischefading-regelinrichting. Soeperhet"
+zeggen de Duitschers.
+Ik vrees, dat er aan die
+upperdesuperdeluxetoestellen heelemaal niet
+zoo'n vreeselijke behoefte zou bestaan,
+als men met normale ontvangst van
+een stuk of tien zenders genoegen nam
+en als men aan den zendkant ook een
+beetje rekening hield met het feit,
+dat de omroep er niet alleen is om
+programma's in den aether te jagen,
+doch dat die programma's ook opge
+
+vangen moeten worden. M.a.w. moest
+men zich beperken in het aantal
+stations. Dan konden die stations
+met een behoorlijke portie energie
+werken en wij, arme luisteraars, kon
+
+den met een eenvoudig toestel heel
+Europa ontvangen. En goed beter,
+dan thans met een superheterodyne.
+De superheterodyne is het laatste
+woord, dat op ontvanggebied te
+zeggen is. Selectiever toestellen dan
+een superhetbandfilter bestaan niet.
+Met zulk een toestel wordt precies de
+10 kilohertz ontvangen, die voor
+ieder stations gereserveerd is en wat
+daarnaast ligt, wordt afgesneden. Ik
+heb den indruk, dat zelfs wel eens
+minder dan 10 kilohertz wordt ont
+
+vangen. Het gevolg is, dat de toppen
+van de muziek worden afgesneden en
+dat men slechte ontvangst krijgt. Bij
+een goede superhet behoeft dat niet.
+Een superheterodyne heeft vijf
+lampen. Een hoogfrequentlamp, twee
+detectorlamp, een generatorlamp, en
+minstens n
+laagfrecmentversterkerlamp. Wil men er een
+electrodynamischen luidspreker mee bedrijven,
+dan moet er nog een eindlamp bij.
+Dan komen we op zes lampen.
+(Jelukkig hebben Philips en Telefunken
+de prijzen van de lampen verlaagd !
+De lezer zal in deze opsomming een
+nieuwe term hebben zien opduiken:
+generatorlamp. Dat is een lamp, die
+genereert. De detectorlamp kan dat
+ook, zooals u weet en dan stoort u de
+buren. Maar onze generatorlamp laten
+we opzettelijk genereeren en de tril
+
+lingen die hij daarbij opwekt, zenden
+we niet de antenne in, maar voegen
+die bij de trillingen, die de eerste
+detectorlamp gepasseerd zijn. Dan
+ontstaan trillingen van een golflengte,
+die veel grooter is dan de golflengte
+van het station waarop wij zijn afge
+
+stemd. Die trillingen gaan in de tweede
+detectorlamp en worden verder ge
+
+woon versterkt. Wat wij met deze Kg.
+golflengtetransformatie bereiken is,
+dat de stations als het ware uit elkaar
+worden getrokken. Twee stations, die
+maar een paar kilocycles uit elkaar
+liggen en daardoor met een normaal
+toestel moeilijk uit elkaar te halen
+zijn, worden door de superhet op een
+grootere golflengte verder uit
+elkaargeschoven en wel zoover, dat zij niet
+meer elkaar kunnen storen. Dan
+komt daar nog het bandfilter bij, dat
+EN U?
+
+Natuurlijk gaat ook U met vacantie. Heusch, U
+moet met vacantie gaan. Het mooie Nederlandsche
+strand, hei en bosch wachten op U. Ze willen U
+opknappen, om U toe te rusten voor de voort
+
+zetting van den moeilijken strijd om het bestaan.
+Meer dan tot nog toe moet Uw vacantie tot ster
+
+king van de weerstandskracht van Uw lichaam en
+Uw geest dienen. Daarom mag U in Uw
+vacantietijd niet vergeten, dat Koffie Hag meer genot
+en betere gezondheid beteekent, ook voor U.
+De gegarandeerd coffeïnevrije Koffie Hag vrijwaart
+U voor de onaangename, prikkelende werking der
+coffeïne op hart en zenuwen. Hag is een heerlijke,
+pittige koffie van uitstekende kwaliteit. Alleen de
+coffeïne is daaraan op ingenieuse wijze onttrokken
+en daarom kunt U Koffie Hag ook 's avonds laat ge
+
+bruiken, zonder dat zich storingen in Uw nacht
+
+rust voordoen. Een ongestoorde, verkwikkende
+slaap is juist in den vacantietijd de bron van
+de ontspanning, die U zoo noodig heeft.^
+Ook voor Uw kinderen is de coffeïnevrije
+XoffieHag een heerlijke uitkomst,wan
+
+neer andere dranken de spijsverte
+
+ring nadeelig beïnvloeden en melk
+met tegenzin gebruikt wordt.
+Alle goede Restaurants, Pen
+
+sions en Hotels schenken
+Koffie Hag. U behoeft
+.'iet slechts te vragen.
+MAAR DENKT U ER OM: HAG
+MOET HET ZIJN, DE ECHTE
+COFFEÏNEVRIJE KOFFIE HAG!
+alleen trillingen ter breedte van de
+draaggolf van n enkel station door
+
+laat en het is duidelijk, dat wij na de
+super op liet gebied der selectiviteit
+niets meer te verwachten hebben.
+In sommige superhets heeft men
+aan vijf lampen niet voldoende. Daar
+is nog een zesde lamp ingebouwd en
+die lamp moot zorgen voor het auto
+
+matisch regelen van de geluidsterkte.
+Daardoor is een speciale schakeling
+benut, met een lamp ..met variabele
+steilheid". De regcllanip oeforit in
+
+vloed uit op de roosterspanning van de
+detectorlamp en bepaalt daardoor of
+de versterking groot of klein zal zijn.
+Komt een signaal aan. dat zwak is,
+dan veroorzaakt de rogellamp een
+verhoogde werkzaamheid van de ont
+
+vanglamp en het signaal wordt sterker
+doorgegeven. Komt een sterk signaal
+aan. dan zal de regellamp de ontvang
+
+lamp minder krachtig laten werken
+en zoodoende wordt een gelijkmatig
+
+heid der ontvangst verkregen, die de
+schommelingen in ontvangst, zooals
+die door fading wordt veroorzaakt,
+voor een goed deel kan te niet doen.
+Heelemaal kan dat natuurlijk niet.
+Voor zoover op het oogenblik be
+
+kend is. zullen deze nieuwe toestellen
+niet meerkosten dan de dure toestellen
+van het vorige jaar.
+
+</text>
+<image timestamp="2002:09:27:05:47:54.00" size="218366">00000AHC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330610</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Jfe16
+De Groene Amsterdammer van 10 Juni 1933
+No. 2923
+Uit h e t k la ds c h r i ft va n J a n t j e
+, A
+5
+i*»*!'
+NAZTS DAGTAAK
+Teekeningeu Har m se n van Beek
+Wanneer de Nazi is ontwaakt, dan -is zy'n eerste schrede
+naar het Hein-Arisch ochtendblad met Hitler's laatste rede.
+En, recht-op zittend in zijn bed, de rechterhand geheven
+wordt aan Mein Führer opgewekt het morgen-Heil gegeven.
+Hoe innig voelt hij door dien groet dat hij alweer op kracht is
+en dat hij met zijn vaderland alweer een keer Erwacht is.
+Dan wascht hij het Rein Arissh hoofd en (desgewenscht) de handen.
+En als hij Rein-Rein-Arisch is, poetst hij misschien zijn tanden.
+Hij neuriet zijn Horst-Wessel lied en hult zich hoog-gestemd
+in 't bruin Rein Arisch, schoon wellicht niet al te reine hemd.
+Hij snoert zijn hooge laarzen aan om met de Volksgenossen
+Rein Arisch aan den slag te gaan, dus Joden af te rossen.
+Tenzij hij bij de buren eerst de stemming moet gaan peilen
+en hooren of ze naar den eisch Horst-W'esselen en Hellen.
+Al naar de man is ingedeeld geniet hij dan zijn lessen
+in 't loopen in paradepas (S.A.'en en S.S.'en).
+Gewapend met een karabijn gaat hij dan controleeren
+of louter Reine Ariërs elkaar be-concurreeren.
+Of alles Gleichgeschaltet is en of geen Jude handelt
+of naar de markt in plaats van vlot naar Palestina wandelt.
+Hoe anders denkt hij zou het zijn als ik in Abrams schoot was,
+als grootpa niet een boerenknecht maar. . pfui. . een vuile Jood was....
+Wat ben ik herrlich Arisch Rein, wat staat mijn hemd mij goed,
+wat hunker ik vandaag oprecht naar stinkend Jodenbloed. .. .
+Hoe feeslelijk ziet men de zon op hakenkruisen stralen.
+Wat wil een mensch nog meer....? Waarom zou hij zijn schuld betalen....?
+
+
+De maaltijd dien men hem verstrekt is uitgebreid Rein-Arisch,
+en prolet-arisch als ge wilt maar vast niet veget-arisch.
+Hij put daaruit weer nieuwe kracht tot verderi grootsche daden:
+net posten van een Jodenknoopenwinkel en parade. . . .
+jntusschen werkt met volle kracht en nooit vertoonden ijver
+het ambtenarenkorps vanaf minister tot aan schrijver.
+Niet zoozeer aan begrootingen, ontwerpen of bestekken
+•maar om in ieders voorgeslacht de Joden ie ontdekken
+teneinde met het resultaat, wanneer het mocht gelukken,
+tot Heil van een partijgenoot een ander weg te drukken.
+
+Zoo arbeidt het Erwachte Rijk en wascht zich zuiver Arisch. . . .
+. . . .geïsoleerd als, in een kooi, de spektakelende kan-aries. .
+En 's avonds als de schemer valt dan waken tegen scheuring
+met Arische welsprekendheid een Goebbels en een Goering.
+Met rauw-ge-Heil' de keel, doch met een glimlach op de kaken,
+slaapt gleichgeschaltel, moe-gepost, geboycot en paraad'gepast
+de Nazi in, gansch onbeivust van buitenland en schuldenlast,
+om wér een moryen, Arisch-Rein blij, met Deutschland te ontwaken. .
+MELIS STOKE
+f,1*-'
+
+</text>
+<image timestamp="2002:09:27:01:45:20.00" size="180581">D10008LM.TIF</image>
+</page>
+</document>

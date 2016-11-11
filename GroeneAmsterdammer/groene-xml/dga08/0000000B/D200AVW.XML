@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340512</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\ M
+\
+X
+x\
+«
+Nu zij mijn zoete lier een wijl opzjj gezet,
+En klink' de kloeke klank van trommel en trompet.
+Zoo zal mijn zegezang den zoon van Mars bezingen,
+Behalve dan in antimilitaire kringen,
+Een zeer gezienen gast. Zijn keurig uniform
+Trekt alle meisjes aan; want dat flatteert enorm.
+Zijn glanzend zijdgeweer, zijn rinkelende sporen
+Zijn ongemeen geschikt om vrouwen te bekoren,
+Vraag dat maar aan den operetten-fabrikant
+Die kiest het liefst als held een knappen luitenant.
+Hij stelt zich met een matig tractement tevreden,
+En kan geen schatten aan zijn burgertooi besteden,
+Dus wee, als hij verschijnt, ontluisterd, in civiel,
+Dan zinkt zijn zon ter kim, en zwijgt het sex appeal.
+Hij blijft vrij opgewekt, trots zijn eentonig Ie yen,
+Dat hem niet heel veel voedsel voor zijn geest kan geven.
+Soms zit hij in de schuld, zelfs bij de sociëteit,
+Waar hij geregeld komt •-—hij zoekt gezelligheid.
+Hij kan zich minder goed aan burgervormen weanen,
+En is ook in civiel onmidlijk te herkennen:
+Zijn houding is kaarsrecht, hij zwaait zijn stok als zwaard,
+Spreekt met commando-stem en blikt vrij, onvervaard.
+De pittigste gezegden kruiden zijn gesprekken,
+Als: losse flodders, kug, j'achter je voorman dekken,
+Bevelen uit den zadel, spuit, rats, ziekenstal,
+Vier pond, genezerik oneindig in getal.
+Zijn humor is beperkt. Wel kan hij moppen tappen,
+Dat zijn gewoonlijk gave. afgeronde grappen,
+Maar ready wit van woord en antwoord vlijt hem slecht
+Hij moet te veel bedenken, dat hij niets miszegt;
+Ook werkt het rangverschil den lossen humor tegen,
+Een krijgsman kan zich nooit volkomen vrij bewegen,
+Hij heeft zijn leven veil voor volk en vaderland,
+Maar, schertst de kapitein, dan lacht de luitenant.
+Bloeddorstig is hij niet. Maar als in tijd van vrede
+De krijg woedt op de kaart, dan vecht hij vroolijk mede.
+De twee partijen zijn daar blauw en rood getint,
+De roode stelt den vijand voor. De blauwe wint.
+Dan treft hem 't schilderschoon. De groen beboschte helling
+Schijnt voor zijn veldheersblik een zeer geschikte stelling",
+Zooals het lieflijk dorpj' een stevig steunpunt" is,
+Het kerkj' een uitkijkpost", het beekj' een hindernis".
+Hij kent zijn minderen. Hij kent hun huislijk leven.
+Hij pleegt hun 't voorbeeld van rechtvaardigheid te gevea.
+Hij arbeidt goed en graag, het zwaarste lijkt hem licht,
+Hij denkt veel minder aan zijn recht, dan aan zijn plicht.
+Is hij gepensionneerd, dan wordt hij gauw vergeten,
+Dan mijmert hij, voor 't raam ter sociëteit gezeten,
+Twee borrels drinkt hij daar: meer convenieert hem niet
+Terwijl hij zijn verleden, peinzend, voor zich ziet,
+Hoe hij in 't garnizoensoord eerbetoon ontmoette,
+Hoe hoog en laag hem kend' en onderdanig groette,
+Als hij door 't stadje reed, de teugels in de hand,
+Een halve paardlengt' achter hem zijn adjudant.
+Nu wordt hij nauw gegroet, zelfs nie'o door zijn soldaten,
+Hij voelt zich afgeleefd, maar lijdt zijn lot gelaten....
+Tot eindelijk de dag komt voor zijn laatsten rit.
+Dan schaart zich 't peloton nog eenmaal in 't gelid,
+Om hem eerbiediglijk ten grave te geleiden.
+De trommels zijn omfloerst en rommelen bescheiden,
+De mannen stappen stram in imposanten stoet,
+En brengen hem voor 't laatst den militairen groet.
+CHAEIVAKIUS
+"^".iiiiiiï"
+'Cgg
+
+iW:
+EL
+?e^
+• "^ ^-vX&gt;£?S
+
+</text>
+<image timestamp="2002:10:28:12:47:47.00" size="283197">D200AVW.TIF</image>
+</page>
+</document>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190719</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"7
+19 Juli '19. No. 2195
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+Wilson in Amerika (Bystander)
+EE3ST OISTTTHO O3ST JDE K O IN" 135T
+O
+Teekenlng voor ,de Amsterdammer" van Joh. Braakenslek
+Bij het uitladen van den Volkerenbond:
+.Voorzichtig! Breekbaar!"
+Het Laatste Bedrijf (Bystander)
+Van Aalst
+
+De Opheffing der N. O. T.
+.... Het scherm valt ....
+.... Vrede!
+
+llllllllIIIlllllllUUIMIIIfttlllllHlllllllIlllllIIIIIIIItllllllIIIIIIHIIIIIIIIIIlIIIIIIIIIHIimiMIlHIIIIKiMUI 0*414414111
+
+
+De Dam rubriek verschijnt in het volgende nummer.
+««IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIimilMlllllllllllllllMIIUUIMIIIIMIIHlIIIMIIIMMtHWIlHIMIM	Illlllllllllttll	III	IIIIIHUIIMIIIIIIIIIII	llllllllllllllllllllllllllllMllllllllllllllllIlllllirillllllllIIllllllllllllllllllllllllllIIllllll	llllHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlllIMIIIIIIIIIIIIIIIIllllimflIIIIIIIIIIIIIUIIIIIIIIIIIIIIIIIIIIlllllltllllllll
+
+^••^^D^^MHHIH^H^^HiHHHBHBHHM^HB^BVi l
+WORPEN
+KORT*STEsl T w D
+GELEVERP
+- DE
+
+MONOlYPEQ) VAN
+JDRUKKERLT
+
+SCHILT
+CONCURREERETNO
+GIG ARE TTEN
+
+BEKENDE VIRGINIAS, uit Entrepot.
+f 14.10 per duizend.
+In doosjes van IO en 2O.
+Directe levering. Onbeperkte voorraden.
+
+ASTORS Ltd. EXPORTS AGENÜS
+26 Castle Street, Swansea
+(Engeland)
+Waar is de grens?
+
+tusschen machtige, dikke soep, die U
+den lust in het verdere middag
+
+maal grootendeels beneemt
+en flauwe, dunne
+soep, die U niet
+smaakt?
+De
+gulden
+middenweg
+werd door de
+PRIMULA-fabrieken
+te Overschie gebaand. Zij
+brengen soeptabletten in den
+handel, die slechts korten tijd met
+, water gekookt, krachtige, voedzame en
+toch smakelijke, licht verteerbare soepen
+geven. Een tablet voor 2 borden soep kost
+slechts 10 of 15 cent, naar gelang der soort.
+AMSTERDAM
+Agentschappen in Ned.:
+TILBURG,
+LEEUWARDEN,
+OISTERW1JK,
+UDENHOUT.
+
+Agentschappen in Indië:
+BATAVIA, SOERABAYA,
+SEMARANG,
+BANDOENG, MEDAN en
+WELTEVREDEN.
+Zijden Lampekappen
+Speciaal adres, alles eigen fabri
+
+kaat, ook alle artikelen om zelf te
+maken, op aanvr. prfscour. No. 10.
+HF* Voor den handel speciale prijzen
+
+Vil DAH, lalmsliaai IS7, insliidan
+- - TELEFOON 5900
+TENTOONSTELLING
+der nieuwste
+TEKENINGEN, PORTRETTEN en ante
+door ALB. A. PLASSCBAERT
+HOORDEINDE 2O2
+
+VAM 15—26 JULI
+DEN HAAG
+
+Vrij entree
+De Fotografische Ateliers
+
+C. J. L VERMEULEN
+zijn gevestigd:
+KlUti: • OTIEOT: - WTTEIMB:
+Tmuiiifl lismfirMktif
+ia£FMian
+En zijn bekend om hun
+artistiek werk en zeer
+lage prijzen
+ENSCHEDE
+
+Hotel Restaurant
+
+M E N D E L A A R"
+- HAVERSTR AAT 35
+Firma H. l. MENDELAAR
+Bih. Vinn. W. L. VISSER
+bihttotntrum der stad - Plat du Jour 12-1
+Hollandsch en Dultsch Bier
+5 Wllhelmlnabillards T«l. Intere. 121
+LINCOLN SHOES
+
+r-NIEUWSTE KLEUREN
+
+WANDELSCHOENEN
+AMSTERDAM
+LEIDSCHESTRAAT.I3
+DEN HAAG
+PRINSESTRAAT 52-56
+BAKKER &amp; TBBRINK
+AMSTERDAM TELEFOON 6828
+TEECHTSCHEDWARSSTRAAT 17-19
+BIJ DE REGULIERSGRACHT
+BINDEN SCHOOL- EN STUDIEBOEKEN
+GELEGENHEIDSALBUMS PORTEFEUILLES ENZ.
+
+</text>
+<image timestamp="2002:08:23:16:42:33.00" size="474562">D400031I.TIF</image>
+</page>
+</document>

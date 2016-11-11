@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>23</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+23
+Pioniers: Zoutwaterbaden
+en als zoodanig belast met het handhaven der tucht onder de stu
+
+denten. Hij heeft er niet veel aan gedaan ; zoo was hij.
+Maar keeren wij terug naar 1895, bijv. naar het Panopticum-caféin
+de Amstelstraat, waar in die dagen een Oostenrijksche dameskapel
+concerteerde. (Het kan ook in 1896 zijn geweest). Iedereen was verliefd
+op die meisjes en zij verdienden dit in elk opzicht. Ja, zeker.
+Op het Rembrandtplein was nog het origineele roode Mille Colonnes
+(nu Heck's Lunchroom God beter 't), waar men 's avonds laat altijd
+den ouden heer Judels kon vinden en ook veel jonge menschen, die
+later hél bekend zijn geworden. Speciaal veel jonge socialisten. Het
+Gouden Hoofd was er ook al: voor 40 cent kreeg je daar eerf halve
+bief stuk met aardappelen en groente. Kom daar nu eens om !
+Maar ik spreek bijna uitsluitend over koffiehuizen, alsof wij niets
+anders deden dan kroegloopen. Ganschelijk niet ! Wij bezochten elkaar
+ook veel op onze kamers. Wat geen Amsterdammer was, woonde toen
+op kamers in de Pijp, om het Sarphatipark of in de Van Woustraat,
+de Govert Flinckstraat, de Jan Steenstraat enz. Dat was onbeschrijf
+
+lijk gezellig, inderdaad een soort
+Quartier latin. De heer De la Fuente
+in de Van Woustraat is er rijk ge
+
+worden. Hij verkocht tot 4 uur
+'s nachts en later blikjes sardines,
+kreeft, za'm, augurken, paling en
+alles. Zelfs oesters, maar die waren
+wel eens een beetje roestig. Men
+trof er midden in den nacht altijd
+een gezelschap dames en heeren,die
+uit het vuistje een zouten augurk
+knaagden of een stuk gerookte pa
+
+ling kloven; in n woord alleraar
+
+digst. Hij gaf ook crediet aan wie
+het waardig was.
+Als het erg laat was geworden,
+kocht je 's morgens om vijf uur
+een gloeiend versch brood
+(desverlangd met boter) bij den bak
+
+ker, die het uit de bakkerij door
+het kelderraam aangaf. Dit werd
+dan gulzig opgegeten. Hoe is het
+mogelijk, dat men dit kon verdra
+
+gen? Maar het ging best. Nu
+hebben wij goddank de
+bakkerswet !
+Wij kwamen ook wel eens aan
+de Oude Mannen Huis Poort op
+college. Het was des tij ds mos"
+voor het Candidaats-Examen Rech
+
+ten geen college te loopen. Voor
+het doctoraal examen kon men het
+niet laten. Dat waren gelukkig bijna uitsluitend namiddagcolleges,
+dus dat ging wel.
+De juridische professoren tut dien tijd zijn allen overleden,
+behalve Gort van der Linden, tegenwoordig Minister van Staat,
+die staathuishoudkunde gaf. Asser was toen al geen professor
+meer, Van Hamel Sr. was toen in zijn volle glorie.
+Meisjesstudenten waren zeer schaarsch. Hilda van Suijlenburgh
+moest nog verschijnen (of was pas verschenen). Er bestond nog geen
+vereeniging van academisch gevormde vrouwen. De jonge meisjes
+waren nog gewoon gevormd en wilden graag trouwen. Nu is dit
+anders.
+* *
+*
+Teekening door Isaac Israëls
+De studenten waren ruwer dan de tegenwoordige; zij dronken en
+vloekten energieker, maar het bier kostte ook maar 10 cent en een
+whisky and soda 30 et of 40 cent, zoodat je met n gulden een heel
+eind kon komen.
+Zeer velen waren in dien tijd
+socialist. Dit stond toen gekleed.
+Ik ken er, die nu keurig op hun
+fatsoen en op de centen passen.
+Enkelen waren zoo verstandig zich
+aan het socialisme te houden: die
+hebben nu goede baantjes.
+Wij lazen veel, vooral Zola, De
+Maupassant en Flaubert; dweepten
+nog met van Deijssel en. ... rook
+
+ten goede sigaren van de vier (om
+een dubbeltje) van ,,De Wildeman"
+in de Kalverstraat. Cigaretten wer
+
+den weinig gerookt: bij extra gele
+
+genheden kocht men een doosje dure
+cigaretten bij Stael in de Vischsteeg.
+De studenten van 1895 waren
+ook onzedelijker" dan de tegen
+
+woordige. Weliswaar bestonden er
+zgn. menschen van het ernstig
+besef, doch zij werden door de
+groote meerderheid uitgelachen. De
+meerderheid heeft altijd ongelijk.
+Maar dat ik niet het fundament van
+ons staatsbestel aantaste in dit
+Kerstnummer, dat evenmin de plaats
+is voor de beschrijving der immo
+
+raliteit eener vorige generatie. Wij
+zijn gelukkig een stuk vooruitgegaan
+in 35 jaar, ten minste wat de
+studenten betreft.
+Overigens, betwijfel ik, of. . . .
+
+</text>
+<image timestamp="2002:09:22:11:52:00.00" size="396778">000008RY.TIF</image>
+</page>
+</document>

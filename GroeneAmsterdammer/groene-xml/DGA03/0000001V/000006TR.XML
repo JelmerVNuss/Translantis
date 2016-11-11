@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280811</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^^_^^^^^_^^^^^^^^_^^^^^^—^^^^^^^^^^•^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^••••••BHMPPBi^aBgM^'^PI^*'"'^"^'*"''*'*'*"
+.msterdamsche Gemeentebegrooting voor 1929
+De Amsterdamse h e gemeente-begrooting voor 1929 heeft
+een eindcijfer van ƒ113.940.963,—d. i. bijna ƒ8 millioen hooger
+dan de begrooting voor 1928.
+BIJVOEGSEL van De Groene Amsterdammer" Weekblad voor Nederland van n Augustus 1928
+BOISSEVAIN
+KETELAAR
+ABRAHAMS
+FRIJTAQ DRABBE
+DE MIRANDA
+WIBAUT
+Wibaut
+de Miranda
+Zou hij 't halen f
+Anut. Boek- en Steendr. vfh. Ellermaa. Harms &amp; Co
+
+</text>
+<image timestamp="2002:09:05:01:54:54.00" size="147092">000006TR.TIF</image>
+</page>
+</document>

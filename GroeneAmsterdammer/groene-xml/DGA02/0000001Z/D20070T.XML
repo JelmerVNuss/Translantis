@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331209</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•f'i.
+1*0. 2949
+De Groene Amsterdammer van 9 December 1933
+Wetenschappelijke varia
+Destilleeren in vacuo
+
+s''V-, l
+,
+&gt;•'*
+Dr. P. van Olst
+Vloerstofmengsels
+Gedestilleerd" is zoo'n solide basis van onze
+nationale welvaart, dat ik wel veronderstellen
+mag, dat men van bet grondidee van destilleeren
+op de hoogte is, tenminste bij het destilleeren van
+een mengsel van alcohol en water om daaruit een.
+mengsel te krijgen met mér percenten alcohol.
+Want dit gebied der destillatie wilde ik juist be
+
+treden en niet dat, waar destilleeren gebruikt
+wordt om een vloeibaar oplosmiddel te bevrijden
+van de erin opgeloste vaste stoffen (dus bijv. om
+zuiver water te maken uit zout water).
+Bij het destilleeren, dat ik nu wilde bespreken
+in een zijner détails, heeft men een mengsel van
+minstens twee, maar soms een vél grooter aantal
+vloeistoffen, die men gaarne uiteen wil halen.
+Men maakt dan gebruik van hun verschil in
+vluchtigheid; de eene vloeistof verdampt vlugger
+onder gelijke omstandigheden dan een andere,
+en bereikt dus ook eerder de temperatuur, waarbij
+de vloeistof niet alleen aan de oppervlakte ver
+
+dampt, maar ook in de diepere lagen, zoodat
+dampbellen ontstaan, opstijgen en barsten, waar
+
+om deze temperatuur het kookpunt genoemd
+•wordt. • Verwarmt men het mengsel tot het
+kookpunt van het vluchtigste bestanddeel, dan is
+men dus nog onder de kookpunten der andere
+bestanddeelen; oppervlakkig gezien verdampt dus
+alleen de vluchtigste vloeistof, de damp wordt
+weggevoerd, afgekoeld en weer gecondenseerd tot
+een zoo apart verkregen vloeistof. Maar helaas
+verdampt een vloeistof ook reeds aardig flink als
+zij warmer wordt, al is 't nog beneden het eigenlijke
+kookpunt. Er gaat dus ook damp mee van de
+minder vluchtige bestanddeelen, zoodat geen
+volkonaen scheiding bereikt wordt, zelfs al heeft
+men hulpmiddelen om een belangrijk doel der
+klandestien meegaande dampen tegen te houden.
+Een veel ernstiger bezwaar is, dat er vloeistoffen
+zijn met zeer geringe vluchtigheid (wat zich o. a.
+uit in reukeloosheid !)&gt; die men dus vrij sterk zou
+moeten verwarmen eer zij tot koken overgaan.
+maar die helaas zoo verschrikkelijk gevoelig zijn
+voor verhitting, dat zij hierdoor scheikundige ver
+
+anderingen ondergaan en meer of minder ontleed
+worden in andere verbindingen, die men op dat
+oogenblik niet noodig heeft. Deze ontleding
+dooiverhitting in zeer hooge mate geeft ons bijv. het
+lichtgas uit steenkool, terwijl ook het proces van
+cracking" hier thuis hoort, om uit ruwe petro
+
+leum bepaalde vluchtiger bestanddeelen te krijgen
+die er van nature toevallig niet zoo veel inzitten.
+als men in den handel noodig heeft.
+Maar deze cracking" is zeer lastig als'men haar
+juist niet: wil zien optreden, zooals bij het destil
+
+leeren van zware minerale oliën. Toch heeft men
+hierbij destillatie noodig om de oliën te zuiveren
+van andere bestanddeelen. De moeilijkheid is dus:
+voor het destilleeren is verhitting noodig en door
+verhitting worden de oliën ten deele veranderd
+in andere stoffen, die men niet wenscht. Deze
+moeilijkheid is te ontgaan door te destilleeren in
+een luchtledige of tenminste nagenoeg luchtledige
+ruimte, dus in vacuo. Bij een vloeistof zijn, evenals
+bij een gas, naar men aanneemt de moleculen in
+zeer snelle beweging, kris en kras door elkaar heen,
+natuurlijk herhaaldelijk tegen elkaar botsende, riit-t
+omdat zij zich, als chauffeurs, niet aan de
+verkeersvoorschriften houden en alleen bij an
+
+deren strenge gehoorzaamheid daaraan eischen.
+maar omdat er geen verkeersvoorschrifteii zijn v
+ooide moleculen.
+Vraagt men zich af, waarom water in een open
+bak dan nog bij elkaar blijft en niet opeens in de
+wereldruimte uit elkaar vliegt, dan is het antwoord:
+boven het water zit lucht en de moleculen dezer
+lucht vliegen harder dan (de water-moleculen.
+Willen deze laatste dus ontsnappen, dan botsen
+zij al spoedig tegen de luchtmoleculen en als
+langzamer-gaande, leggen zij het af en worden
+weer in de vloeistof teruggeslagen. Alleen enkele
+zijn zoo gelukkig om tusschen de luchtmoleculen
+door te ontsnappen, d.w.z. water (en iedere
+vloeistof) verdampt steeds iets. Wordt de vloeistof
+warmer dan beteekent dit- dat zijn moleculen
+sneller voortvliegen, dus meer ontsnappingskansen
+hebben, d.w.z.- een warmer vloeistof verdampt
+sterker. Is het kookpunt bereikt dan is de snelheid
+gelijk aan die der luchtmoleculen en de vloeistof
+verdampt in zeer snel tempo, niet alleen aan de
+oppervlakte maar ook overal in de vloeistof.
+Uit dit kort overzicht volgt vanzelf, dat, als men
+de lucht boven de vloeistof weg neemt, de grootste
+hinderpaal tegen het verdampen weggenomen is
+en de verdamping dus ook bij een veel lager tem
+
+peratuur dan het dagelijksch-leven-kookpurit in
+zeer snel tempo geschiedt. Het ligt dus voor de
+hand om vloeistoffen, zooals zware minerale
+oliën, die geen hooge verwarming kunnen ver
+
+dragen te destilleeren in het hifhtledig. Men zou zelfs
+zeggen: destilleer altijd in een luchtledige ruimte.
+maar dit is te kostbaar; op bescheiden schaal.
+ril. in een gedeeltelijk! luchtledig, kookt men
+thans reeds de suiker-oplossing in een suikerfabriek.
+in een zoogenaamde vacuumpan.
+Maar thans bedoel ik een zeer vér luchtledig
+gezogen ruimte. Het is niet mogelijk, zooals men
+weet, een volkomen luchtledige ruimte te maken.
+Maar men werkt bij destillatie in vacuo toch met.
+een luchtledig dat hier zeer in de buurt komt.
+nl. met een druk van zoo iets als een. duizendste
+millimeter kwik in plaats van de 7(iO millimeter
+kwikdruk der lucht om ons heen.
+Bij dezen zeer geringen, druk is de ruimte echter
+nog lang niet leeg. Terwijl in gewone omstandig
+
+heden (l atmosfeer druk en O gr. Celsius) de lucht
+
+moleculen zoo talrijk zijn dat zij per »e.cnntle vijf
+a tien milliard botsingen ondergaan en uitvoeren.
+zoodat zij, zonder botsing te ondergaan slechts
+een afstand van, ruw gerekend, gemiddeld een
+honderd millioenste millimeter kunnen afleggen
+(men noemt dit hun vrije weglengte") is in een
+zeer ver luchtledig het aantal moleculen tocli nog
+wel zoo groot dat de weg niet geheel vrij is, maar
+toch is de vrije weglengte" enorm vergroot verge
+
+leken met het normale kleine bedrag. De moleculen
+kunnen nu wel eeniye centimeters voortvliegen
+zonder te botsen. WTanneer men dus bij dezen lagen
+druk destilleert behoeft men maar weinig te
+verwarmen om de vloeistofmoleculen tot ont
+
+snapping te brengen, dus tot verdamping. Om het
+proces te versnellen verwarmt men zoo ver men
+gaan kan zonder scheikundige ontleding te krijgen.
+OLS
+\V itte C_xtiracao ijec
+Clierry Brandy
+.M.enthe Glaciale
+Curacao Brandy
+Koop* Ncderi. fabrikaat!
+door de verwaruingsplaats en de afkoelingsplaats
+dicht blij ekaar te brengen, op een afsftand, die
+van dezelfde grootte-orde is als de vrije w
+glengte der moleculen, zoodat zij zonder botsen in
+minimalen tijd de condensatie-plaats bereiken. De
+destillatie geschiedt dus in een betrekkelijk kleine
+ruimte, wat natuurlijk toch al wenschelijk is, daar
+het onderhouden van een ver vacuüm reeds dure
+luchtpompen eischt, die bij grooter capaciteit ook
+des te duurder uitvallen. Het te destilleeren vloei
+
+stofmengsel wordt in een uiterst dunne laag
+gebracht op verwarmingsplaten, terwijl op eenige
+(vijf)-centimeters afstand evenwijdig geplaatste
+afkoelingsplaten liggen, waar de moleculen der
+verdampte vloeistof met moleculaire snelheid
+arriveeren zonder botsingen, om dan door afkoeling
+weer zoo vertraagd te worden in hun beweging
+dat zij tot vloeistof worden, die afgetapt wordt.
+Ik laat nu rusten hoe men de installatie maken
+moet om de botsingen, die onvermijdelijk toch nog
+wel voorkomen tusschen damp- en
+luchtmoleculen te gebruiken om den luchtmoleculen zoodanige
+oplawaaien te geven dat zij eerder naar de vacuüm
+pomp dan er van weg gedreven worden, wat
+natuurlijk een verbetering beteekent. Dit ligt
+hoofdzakelijk aan een vernuftige plaatsing- van
+veiwarmings- en afkoelingsplaten.
+Men krijgt zoo o. a. uit zware minerale oliën
+producten die zér zuiver zijn en van zoo geringe
+dampspanning dat zij vrijwel reukeloos zijn en
+dus bijv. voor medicinale doeleinden te gebruiken
+zijn.
+Later kom ik nog eens terug op het spliteen van
+vloeistofmengsels, waarbij ook zelfs destilleeren
+iu vacuo niet t o gebruiken is.
+Nieuwe uitgaven
+
+De Bijbel in de Nederlandsche Letterkunde als
+Spiegel iler Cultuur, door 'Dr. K. F. Proost, deel
+II l (ie en 17e eeuw. Van Oorcum &amp; Comp. N.V.
+lTitgevers, Assen.
+Practical Commercial Knglish, Part IV A,
+door J. M. C. Juursema en Gilbert d« Zilwa.
+I). A. Daamen's Uitgevers Maatschappij N.V.,
+'.s-( ravenhage.
+Uitslag van het Referendum van de
+Nederlandsche Kamer van Koophandel iu. België, te
+Brussel. Den Haag, De Gebroeders van Cleef.
+Bruxelles, Editioris ..Hobeli" rue du Boulet, 23,
+1932.
+Boekhouden door A. A. D. Bouwhol', J. C.
+Lagerwerff en J.H. A. Krediet. Deel V. P.
+Noordhoff N.V. 1933. Groningen-Batavia. '* «
+Herleving van de kerkelijke kunst in Katholiek
+Nederland door Cierard Brom. Ars Catholica,
+Leiden 1933.
+Nqderlandsche filmkunst, door Mr. Henrik
+Scholte, Rotterdam 1933, W. L. en J. Brussel
+Uitgevers Maatschappij N.V.
+Une dynastie d'imprimeurs et d'éditeurs depui.s
+1583. Librairie Pion. Paris, Les Petits-Fils de Pion
+&lt;t Nourrit, imprinieurs-éditeurs. 8 rue Garanci
+r*Vle.
+KUNSTZAAL
+VAN LIER
+DOORLOOPEND
+TKNTOONQE8TELD
+ROKIN
+AMSTERDAM
+KUNSTWERKEN VAN
+J O N Q E HOLLANDSCHE
+EN BUITENL. MEESTER*
+Als men mi de verdampte vloeistof wegvoert
+naar den koeler, en den weg die daarvoor afgelegd
+moet worden is nog vele decimeters, dan is de
+gelegenheid voor de dampmoleculen om nog
+herhaaldelijk tegen luchtmoleculen te botsen nog
+rijkelijk aanwezig, d.w.z. hét transport van den
+damp wordt erg vertraagd, tetwijl dit bij oorspron
+
+kelijke niet-hooge verwarming toch reeds niet in
+snel tempo geschiedt. Men heeft dit verholpen
+CHAMPAGNE
+
+1\I\ L/VJF REIMS
+QuaiitéincompcneibSe
+
+</text>
+<image timestamp="2002:09:27:05:20:00.00" size="233384">D20070T.TIF</image>
+</page>
+</document>

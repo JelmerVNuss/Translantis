@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240823</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2462
+rOLLEI's Oude Cenever
+Fijne Likeuren en Punch
+V. P. POLLEN &amp; ZOOM - Rotterdam
+J. D. STRUIJS * Zm.
+Prinsengracht 887 P. O. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+STOPPABE
+VAN ALLE
+
+Dames- en Heerenkleeiiing
+Costuum Model Persan f 1.25
+
+My VALET from Lontlon
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 - Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+[P.C. Ho»ftstriit38,AmstirdaH.Tiltf.: 20341, 24260j
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+j EIGEN LIJKKOETSAUTOMOBIELEN
+)5 een/
+FJ/ne /Tle/kcfyoco/aa
+met Zuidvruchten
+AIX LES BAINS
+SAVOYE FRANKRIJK
+Warme bronnen tegen RHEUMATIEK. Alle sporten. Twee Casino's.
+Mooiste en voornaamste touristencentrum der Fransche Alpen.
+bil. en prosp. gratis:
+INTERN. VERKEERS BUREAU
+A'dam, Kalverstraat 168, den Haag, Noordeinde 31.
+BEORGE H. LABAS
+AMSTERDAM - Tefcfegn 24611 - Autir.at Bonnstrsat 40
+Electrische Luxe Brood bak k^rij
+Specialiteit in alle Broodsoorten
+In den Silveren Molenbeecker"
+Kalverstraat 32
+Hooptraaf 31
+Gemonteerd
+Oud Holl
+Kristal.
+Specialiteit in;
+lm. Oud Holl.
+Zilverwerk.
+TAFEL- en
+SERVIESZILVER.
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+ADR1AAN SCFjAKEL
+HEILIGEWEG 11-17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+zijn het meest gewild, om
+prijs en kwaliteit
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEGOED's Fabrieken leveren thans ook heerlijke
+Lifflonadesiropen (Stoaasappsl, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT. UW LEVERANCIER l l
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+ARMERWERKEN
+bij AMERSFOORT
+100 K. A. Bosch
+PENSION met kamer
+per dag f5.—bij 3 daags
+verblijf
+,, ,, f 4.50 bij week
+,, ,, f 4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+House for Gentlemen
+Ie Klasse Engelscbe gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAKEBIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies.
+Naamlooze Vennootschap
+Uurwerk, Goud- en Zilveihandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwerken metWestminster en diverse gongslagen
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Spoolalitolt In a
+WIT LACQUE MEUBELEN voor
+Slaap-, Logeer- en Kinderkamer
+B. J. MULDERS
+TUOARCIHTECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon 5O8IO
+lllustratiedruk-papier van de Firma C. G. A. CORVEY, Keizersgracit 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:15:33:40.00" size="203765">D2003U3.TIF</image>
+</page>
+</document>

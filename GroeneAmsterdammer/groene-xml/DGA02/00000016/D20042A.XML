@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241115</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+JT. «74
+Zaterdag 15 November
+A*. 1984
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van G. W. K E R N K A M P
+Redacteuren: H. BRUGMANS, HERMAN HEYERMANS, TOP NAEFF en G. NOLST TRENIT
+Secretaris der Redactie: C. F. VAN DAM
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per jaargang f 10.
+bQ vooruitbetaling. Per No. f 0.25
+
+Redactie en Administratie :
+Keizersgracht 333, Amsterdam
+
+Advertentiën f 0.75 &lt;per regel
+Dispositiekosten 20 cent
+DIENSTWEIGERING EN NATIONALE
+ONTWAPENING
+Wanneer ge aan de menschen gaat betoogen, dat ons volk, bij
+ontwapening, veel minder kans heeft in een oorlog te worden
+betrokken, dan wanneer het er een leger op na blijft houden;
+wanneer ge hun bovendien beduidt, dat regeeringen en volken,
+zoodra zij in oorlog zijn geraakt, er niet voor zullen terugdeinzen
+gebruik te maken van de allerafschuwelijkste middelen tot
+verdelging van den vijand, ook al mochten zij vroeger plechtig
+beloofd hebben dit niet te zullen doen;
+wanneer ge hun verder dien toekomstigen oorlog afschildert
+als een strijd, waarin ook de groote massa van de burgerlijke
+bevolking bedreigd wordt door verschrikkingen, veel en veel
+erger dan de verminkingen, waaraan in den laatsten oorlog de
+soldaten blootstonden;
+wanneer ge hun ten slotte de gedachte bijbrengt, dat de weten
+
+schap, die deze gruwelen heeft uitgevonden, onmachtig is om de
+middelen aan de hand te doen, waardoor de verderfelijke uit
+
+werking van deze gassen en bacteriën kan worden gekeerd of tot
+veel geringer proporties teruggebracht;
+wanneer ge dit alles verkondigt, alleen met de bedoeling om
+propaganda te maken voor de idee van nationale ontwapening
+hebt ge dan het recht u er over te verwonderen, als velen van
+hen, die ge tot uw overtuiging tracht over te halen, aldus gaan
+redeneeren:
+of het tot nationale ontwapening zal komen, hangt niet alleen
+van mijzelf, maar ook van anderen af; zoo de meerderheid der
+kiezers niet voor deze gedachte kan worden gewonnen, zal er ook
+in het Parlement geen meerderheid zijn voor nationale ontwape
+
+ning;
+in dat geval zullen dus de wetten worden gehandhaafd, waardoor
+iedereen, ook een voorstander van ontwapeningen tijd van oorlog
+gedwongen wordt deel te nemen aan de krijgsverrichtingen;
+tot die krijgsverrichtingen zullen ook behooren het verspreiden
+van giftige kiemen en het het werpen van bommen, die pestilente
+gassen verspreiden, want elke regeering zal in een toekomstigen
+oorlog geen enkel middel, hoe afschuwelijk ook, ongebruikt
+laten om er den vijand mede te teisteren, dus ook de Nederlandsche
+regeering zal hierop geen uitzondering maken;
+wanneer ik mijn dienstplicht vervul, loop ik dus de kans, dat ik
+zelf word opgecommandeerd om te helpen bij het verrichten van
+zulke gruwelen;
+dat wil ik niet; dat strijdt met mijn geweten; dan liever
+dienstweigeren, reeds nu, in vredestijd; en hoe meer er mijn voorbeeld
+zullen volgen, hoe onbeduidender daardoor onze weermacht wordt,
+des te beter; juist een leger van eenige beteekenis, zoo heeft men
+ons immers verkondigd, werkt als een magneet die den oorlog
+aantrekt.
+
+Zij, die nationale ontwapening bepleiten, kunnen zich er inder
+
+daad niet over verbazen, als hun propaganda dienstweigeraars
+kweekt. De dienstweigeraars, die wij zooeven veronderstelden,
+werden dat door een rationeelen gedachtengang; maar de wijze
+waarop de propaganda voor nationale ontwapening gevoerd wordt,
+doet nog'meer een beroep op het sentiment dan op het verstand;
+bij zeer velen wordt niet alleen afkeer gewekt van den oorlog en
+zijn verschrikkingen, maar ook van het leger, van alles wat mili
+
+tair is, ook van den plicht, dien de Staat aan de burgers oplegt
+om militaire diensten te verrichten. Uit zuivere gevoelsredenen
+zullen' velen geneigd raken tot dienstweigering; zij zullen de
+dienstweigeraars als een soort van prachtuitgave van de
+ontwapenaars gaan beschouwen; wie onder hen alleen naar de stem
+van het geweten luisteren, wie martelaarsneigingen hebben,
+zullen straks den beslissenden stap doen en dienst wejgeren. b
+
+De ijveraars voor nationale ontwapening staan in een eenigszins
+moeilijk parket tegenover de dienstweigeraars. Zooals het geval
+is met alle agitatoren tegenover hartstochtelijke volgelingen
+die hen verder willen voeren dan zij zelf verkiezen te gaan.
+In zijn jongste redevoering te Groningen heeft prof. van Embden
+volgens het verslag in de N.R.Ct. • gezegd, dat hij hen, die
+uit gemoedsbezwaren dienstweigeraars zijn geworden, bewondert"
+Het is echter een bewondering van die soort, als ten slotte
+iedereen gevoelt voor iemand, die offers wil brengen voor zijn
+overtuiging, onverschillig welke. Ondanks den afschuw in het
+kwadraat, dien de heer van Embden van den oorlog moet koes
+
+teren, noopt zijn geweten hem nog niet de menschen aan te sporen
+zich te onthouden van eenige daad, die het uitbreken van een oor
+
+log kan bevorderen, dus ook van het zich kwijten van hun dienst
+
+plicht. Hij vindt dit klaarblijkelijk niet den meest practischen weg
+om tot nationale ontwapening te geraken.
+Maar van practisch gesproken •—• is het, op dit oogenblik, met
+de conferentie te Genève in het gezicht, waar het vraagstuk van
+de internationale vermindering van bewapening zal worden
+behandeld, waar de kwestie van de weermacht, die een land zal
+moeten onderhouden, uit een nieuw oogpunt zal worden beschouwd,
+uit het eenige oogpunt, waaruit zij voortaan zal mogen worden
+beschouwd, n.l. dit: welke taak aan elk land zal worden opge
+
+dragen bij de organisatie van de internationale weermacht, die
+veiligheid en vrede zal verzekeren is het op dit oogenblik prac
+
+tisch, propaganda te voeren voor nationale ontwapening?
+Ja, wanneer men daarbij alleen rekening houdt met de belangen
+van politieke partijen, die bij de verkiezingen van den a.s. zomer
+haar voordeel hopen te doen met den algemeenen afkeer van oorlog,
+en die dan ook reeds nu druk bezig zijn elkaar de prioriteit te
+betwisten van het opperen van de idee der nationale ontwapening,
+omdat elk voor zich profijt hoopt te trekken uit de daaraan ver
+
+bonden eer;
+wanneer men alleen naar de stembus van 1925 ziet dan is
+het practisch de trom van de nationale ontwapening te roeren;
+dan is het practisch zich van den domme te houden en te doen, alsof
+Genève niet bestaat: dat vervloekte Genève, dat een spaak in
+het wiel heeft gestoken van het zoo aardig aan het rollen gebrachte
+wagentje van de nationale ontwapening.
+Maar wien het te doen is om hoogere dan partijbelangen, voor
+hem is thans de practische weg om eerst af te wachten het resultaat
+van Genève, en geen anti-militaire gezindheid aan te kweeken, die,
+in hare consequentie, Nederland zelfs zou beletten de hem straks
+toegedachte taak in de internationale rechtsorde, al moge die
+nog zoo bescheiden zijn, te verrichten.
+Wie zóó denkt, zal zooals Braakensiek het in zijn plaat heeft
+geteekend, op den beganen grond willen blijven en het
+naastbijliggcnde doel in het oog houden; laat Don Quichotte dan maar
+koers zetten naar het luchtkasteel !
+
+In De Gids van l Nov. 11. heeft de oud-hoofdofficier Jhr. von
+Schmid, wiens oordeel vroeger ook placht te wegen bij de partij,
+die thans het vurigst ijvert voor nationale ontwapening, den raad
+gegeven: geen voortijdige ontwapening; ,,laat Nederland af
+
+wachten wat het. beraad in den Volkenbond op het stuk van
+arbitrage, veiligheid en ontwapening zal brengen."
+Met die mcening stem ik in; en niet minder van ganscher harte
+met wat hij er op laat volgen: Het zou den invloed van de
+bondsgedachte en het zedelijk gezag van den Bond eerst recht
+in volle, bemoedigende kracht openbaren, indien eerlang, inge
+
+volge zijn besluit liefst met al onze buurstaten gezamenlijk
+het juk der bewapening kon worden afgelegd. Zoo kome liet1!"
+
+K E K N KAMP
+
+</text>
+<image timestamp="2002:09:03:21:39:37.00" size="191063">D20042A.TIF</image>
+</page>
+</document>

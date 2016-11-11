@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950602</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 936
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+in Beeld en
+(EL.ECTRICITEIT.)
+Ned. Bell-Tel.-Maatschappij.
+
+Multatuli zegt ergens in zijn »Ideeën", dat
+de tijd eenmaal zal aanbreken, waarin de
+mensch geleerd zal hebben zomerwarmte in
+te leggen voor winterverbruik, vrij wel gelijk
+aan de wijze waarop onze huismoeders
+snijboonen en zuurkool »inmaken."
+De profetie van Multatuli is tot nog toe
+niet bewaarheid, maar wel heeft's men schen
+geest, sinds hij deze woorden schreef, won
+
+deren in het leven geroepen, welke alleen
+hun ontstaan te danken hebben aan de meer
+nauwkeurige kennis der natuurkrachten om
+ons heen en de schitterende uitbreiding der
+technische wetenschap.
+Toch is er n natuurkracht, wier ver
+
+schijnselen de wetenschap zoo nauwkeurig
+mogelijk heeft waargenomen, welker wetten
+zij heeft bestudeerd, in woord en cijfers ge
+
+bracht, die zij waarneemt van het oogenblik
+dat zij ontstaat en weer verdwijnt, wier snel
+
+heid zij kent, maar die zij zien, grijpen kan
+noch vatten: de electriciteit.
+Als een onzichtbaar wezen is de toovergodin
+Electra in de tweede helft onzer eeuw over de
+aarde gegaan en heeft daarover uitgestort
+een onschatbare zegen, waar zij haar
+dradennet schier over geheel den aardbol slaat, volk
+aan volk, werelddeel aan werelddeel bindt,
+ginds bronnen van licht schept die Helios
+naijverig zouden maken, of een beweegkracht
+in het leven roept die het logge
+stoomgevaarte ernstige concurrentie aandoet, om
+eindelijk, bij nog tal van andere wonderen,
+het grootste wonder te voegen : het overbren
+
+gen van de menschelijke stem langs een
+metalen draad. Toen de telegraaf' het eerst
+in Indiëwerd ingevoerd, noemde de Maleijers
+h aar Bitjara Angin, stemme des winds,
+welke zij meenden te hooren in het bekende
+suizen der telegraafpalen, en wij kunnen het
+ons voorstellen, hoe zij thans meer dan ooit
+er toe zouden kunnen komen om te ver
+
+moeden, dat de wind de menschelijke stem
+langs de draden voortdraagt.
+Door het dagelijksch gebruik van de
+telephoon is haar inrichting bij velen bekend,
+of liever velen weten hoe zij er uitziet. In
+verband met de Maatschappij, waarvan wij
+het een en ander willen mededeelen, zullen
+wij ons bepalen bij de telbphoom van
+Graham Bell.
+Het is opmerkelijk hoe volmaakt dit kleine
+instrument van 1876 uit de handen van den
+uitvinder is gekomen; al heeft Siemens, om
+het geluid sterker en duidelijker te doen
+worden, daarin veranderingen gebracht, al
+heeft de uitvinding van Hughes, de
+microphoon, haar als overbrenger van de mensche
+
+lijke stem doen vervangen, de inrichting van
+het werktuig, dat men thans nog aan het
+oor houdt, is dezelfde, als toen het eerste uit
+de hand van Bell in het leven werd geroepen.
+De magneto-telephoon van Bell, bestaat
+uit een staafmagneet, die aan een zijner
+polen een ijzeren kern draagt, waarop een
+klos geschoven is van zeer fijn met zijde
+geisoleerd koperdraad; de uiteinden van dezen
+draad loopen naar een volkomen gelijken
+draadklos in een tweede telephoon, welke
+op meer of minder grooten afstand geplaatst
+is. Tegenover de kern van den draadklos is
+een zeer dun metalen plaatje geplaatst, dat
+aan den rand in een koker is vastgeklemd,
+maar waarvan het middelste gedeelte kan j
+trillen, zich op en neer kan bewegen.
+Brengt men nu dit plaatje voor den mond
+en spreekt men in die telephoon, dan wordt
+deze plaat in even veel trillingen gebracht
+als de klanken van de menschelijke stem
+bezitten. Bij elk stootje, dat een trilling van
+de stem daartegen geeft, nadert het plaatje
+meer den magneet en springt dan weer
+terug. Daardoor wordt het magnetisme van
+de staaf versterkt en verzwakt. Nu is het
+een bekend feit, dat het magnetisme van
+een staafmagneet, waarom draad gewonden
+is, verzwakt of versterkt wordt, wanneer
+daarvoor een week ijzeren voorwerp op en
+neer wordt bewogen, en dat, wanneer de
+uiteinden van dien draad aan elkander zijn
+verbonden, daarin alsdan min of meer sterke
+of zwakke stroomen ontstaan. Nadert nu
+het trilplaatje den magneet, dan ontstaat
+een stroom in den draad, die ook de om
+
+windingen van den magneet van de andere
+telephoon doorloopt. Hierdoor wordt het
+magnetisme van deze sterker, het plaatje dat
+zich voor de kern bevindt, zal meer worden
+aangetrokken en dit zal geschieden bij elke
+trilling van de menschelijke stem, welke
+in den overbrenger wordt geuit.
+Het gevolg zal zijn dat de twee trilplaatjes
+volkomen gelijk op en neer zullen gaan,
+zoodat alles wat hoogte en klank der tonen
+bepaalt, theoretisch in beide werktuigen
+gelijk is. Wij weten wel dat deze verkla
+
+ring niet volkomen wetenschappelijk juist is,
+maar zij beantwoordt, naar onze meening,
+aan de behoefte. Er blijft altijd iets ge
+
+heimzinnigs in deze werking, boekdeelen zou
+men. daarover vol kunnen schrijven, maar
+wanneer men bedenkt, dat een mannenstem
+190 trillingen in een seconde maakt voor de
+laagste en 678 voor de hoogste tonen en dat
+bij de vrouwen de laagste tonen der stem
+overeenkomen met 572 trillingen en de
+hoogste met 1C06, dan kan men berekenen
+hoe vaak het trilplaatje bij een gesprek van
+een minuut op en neer kan gaan. Dit zou
+24000 malen het geval wezen, indien een
+mannenstem gedurende dien tijd 400 tril
+
+lingen per seconde maakte, terwijl een hooge
+sopraan het tot 9G360 trillingen per minuut
+kan brengen. Voegen wij nu daarbij dat
+de telephoon een bijzonder gevoelig werk
+
+tuig is, dan zal de lezer zich nu ten minste
+eenig denkbeeld kunnen vormen van haar
+werking.
+Wij noemden de telephoon, door Bell uit
+
+gevonden, reeds, toen zij uit de handen van
+den uitvinder kwam, volmaakt. Het is ons
+toch gebleken, een paar jaren na haar uit
+
+vinding, dat men door middel van de twee
+thans nog gebruikelijke ontvangers langs een
+draad van de Eijkstelegraaf, aan beide
+GKAIIA.il BELL.
+
+einden met den grond verbonden, zeer goed
+een gesprek kon voeren tusschen twee ge
+
+meenten, die drie uren van elkander ver
+
+wijderd waren.
+Toen echter de microphoon door Hughes
+was uitgevonden, zag men al zeer spoedig
+in, van hoeveel nut deze door haar grootere
+gevoeligheid zou kunnen zijn bij het
+verrespreken.
+De microphoon in haar eersten vorm is een
+zeer eenvoudig werktuigje en berust op het
+feit, dat een electrische stroom, die van het
+eene lichaam in het andere overgaat, meer
+of minder weerstand ontmoet en dus zwak
+
+ker of sterker wordt, naarmate de aanraking
+dier beide lichamen losser of inniger ia.
+Neemt men b.v. een plankje dat op een
+hollen bodem rust, die weer gedragen wordt
+door een paar holle caoutchoucbanden en
+plaatst men op dat horizontaal liggend plankje
+verticaal een ander plankje, dat boven en
+beneden twee stukjes kool draagt,
+waartusschen een staatje aan de beide uiteinden
+af'gepunte kool zich in kleine holten, echter zoo
+
+danig dat die uiteinden met beide stukjes
+kool contact maken, kan bewegen en men
+laat dan een stroom van een galvanisch
+element door dat staafje gaan, dan zal die
+stroom sterker zijn naarmate het contact
+inniger is. Spreekt, men nu op eenigen
+afstand van dit plankje, dan komt het
+koolstaafje, daar de trillingen van de mensche
+
+lijke stem in golven door de lucht worden
+voortgeplant, in trillende beweging, waardoor
+de stroomsterkte opgewekt door het galva
+
+nisch element, telkens zal veranderen op
+dezelfde wijze als het magnetisme in Beli's
+telephoon verandert.
+Verbindt men nu een der bovengenoemde
+stukjes kool, door middel van een koperen
+draad, met een der schroefjes van de tele
+
+phoon, en het tweede schroefje aan een der
+polen van een galvanisch element, terwijl de
+andere pool in verbinding staat met het
+tweede stukje kool, dan is de stroom geslo
+
+ten en zal het plaatje voor de kern van de
+telephoon, welker magnetisme alsdan versterkt
+wordt, meer worden aangetrokken.
+Komt echter het koolstaafje van de micro
+
+phoon door de menschelijke stem in trilling,
+alsdan wordt het contact meer of minder
+innig, de stroom wordt sterker of zwakker
+en het plaatje zal meer of min worden aan
+
+getrokken en derhalve dezelfde trillingen
+terug geven als het koolstaafje.
+Met dit eenvoudig werktuigje hebben we
+j aren geleden, toen de telephonie nog in haar
+kindsheid was, proeven genomen tusschen
+twee telegraaf kantoren en het bleek ons
+dat de gevoeligheid zoo groot was, dat,
+wanneer men n korreltje zand op het
+plankje liet vallen, dit op drie uren
+afstands in de telephoon werd gehoord. Het
+tikken van een horloge, op het plankje
+gelegd, werd even duidelijk vernomen,
+als wanneer men het aan het oor zou
+gehouden hebben.
+Moge de telephoon haar oorspronkelijken
+vorm vrij wel behouden hebben, de microphoon
+werd later nogal gewijzigd, maar het zijn
+toch deze kleine werktuigjes wier vereenigde
+kracht het telephoonwezen, zooals het nu
+bestaat, in het leven hebben geroepen.
+Bij de Bell-telephoon, zooals deze in Am
+
+sterdam dienst doet, wordt in den regel de
+microphoon van Blake gebruikt. Achter de
+opening, waarin men spreekt, is een trilplaat
+aangebracht, zooals in de telephoon zelf;
+daarachter bevinden zich rechtstandig twee
+veeren waarvan de een een platinaknopje
+draagt, dat aan de eene zijde het trilplaatje
+raakt en aan de andere zijde contact maakt
+met een schijfje kool dat aan de tweede veer
+verbonden is. Bij de trillingen van het plaatje,
+door het spreken in het leven geroepen, wordt
+het contact tusschen kool en platinaknopje
+bij elke trilling gewijzigd, waardoor telkens
+ook de weerstand gewijzigd wordt, en der
+
+halve de kracht van den stroom van een
+Leclanché-element eenige honderden malen
+in een seconde wijziging ondergaat. Deze
+stroom doorloopt een korten dikken draad,
+die om een klos is gewonden. Op dezelfde
+klos bevindt zich ook een veel dunnere en
+langere draadomwinding, waarvan een der
+uiteinden verbonden is met de lijn, die
+naar de telephoon loopt, welke als ontvanger
+dienst doet, en het andere met de aarde. In
+de dunne draadomwinding ontstaat als nu
+een inductie-stroom, welke telkens wordt af
+
+gewisseld als ook de stroom in den inducee
+
+renden draad wordt gewijzigd. Deze
+stroomloop heeft echter dan alleen plaats, wanneer
+de telephoon, zoodra er gescheld is, van den
+haak wordt genomen. Hangt men deze weer
+op, dan wordt de stroom verbroken. Het
+afnemen van de telephoon schakelt tevens
+de schelverbinding uit.
+Wij hopen door deze korte beschrijving
+eenig denkbeeld te hebben gegeven van de
+wijze, waarop een telephoontoestel werkt.
+* #
+De vooruitgang van het telephonisch ver
+
+keer is in de laatste jaren zoo groot, neemt
+zoo bij den dag toe, dat hetgeen wc heden
+schrijven wellicht, over een halfjaar niet meer
+volkomen juist zal zijn. De HOsten November
+1880 werd de eerste concessie verleend aan
+de international I&gt;cU-Tcl('i&gt;lionc ('uiiipany tot
+het oprichten van een stedelijk telephoonnet te
+Amsterdam wij ontleenen deze bijzonder
+
+heden aan een artikel van de hand van den
+heer A. K r u ij t, inspecteur der telegraphie
+in algemeeneii dienst, voorkomende in de
+jongste aflevering van tile.clra, Tijdschrift
+voor Electro-techniek welke concessie op
+19 Februari 1881 werd overgedragen aan de
+thans algemeen bekende Nederlandselic
+BcllTelephoon-lfaatschapp/j te, Amsterdam onder
+directie van de heer d r. H. F. R. II u b r e c h t.
+Deze Maatschappij heeft nog in datzelfde
+jaar concessiè'n aangevraagd en verkregen
+voor stadsnetten te Groningen, Rotterdam
+en Utrecht, in 1882 voor Almeloo, Arnhem,
+Dordrecht, Enschedé, 's-Gravenhage, Leeu
+
+warden, Leiden, Nijmegen, Schiedam, Zaan
+
+dam en Zwolle, in 1883 voor Haarlem, in
+1890 voor Baarn, Bussum, en Hilversum, in
+1891 voor Maassluis en in 1892 voor Amers
+
+foort en Vlaardingen.
+Deze concessiën zijn voor het grootste ge
+
+deelte tot wederopzegging verleend zonder
+andere beperkende bepalingen, dan dat het
+plan van den aanleg of de latere wijzigingen
+aan de goedkeuring van de Regeering moe
+
+ten onderworpen worden, terwijl sedert 1887
+ook de verplichting van den concessionaris
+is opgenomen, om de later bij de wet of bij
+wettelijke verordening te maken bepalingen
+op te volgen.
+De Maatschappij heeft terstond haar exploi
+
+tatie aangevangen en met energie voortge
+
+zet, zoodat zij de telephoongemeenschap te
+Amsterdam reeds op l Juni 1881 kon openen
+met 19 geabonneerden; in Augustus 1882
+volgde Arnhem met 40, in September 1882
+Rotterdam met 81, in Mei 1888 's
+Gravenhage met 8 en Groningen met &gt;, in 1884
+Utrecht, Haarlem en Dordrecht resp. met
+44, 10 en ij3 geabonneerden.
+Op dit oogenblik heeft de Nederlandsche
+Bell-Telephoon-Maatschappij niet minder dan
+1G stadsnetten in werking, namelijk te Am
+
+sterdam, Rotterdam, 's-Gravenhage, Haarlem,
+Zaandam, Dordrecht, Schiedam, Arnhem,
+Utrecht, Baarn, Hilversum, Bussum, Maas
+
+sluis, Groningen, Vlaardingen en Amersfoort.
+In 1887 werd der Maatschappij de eerste
+concessie verleend voor een intercommunale
+telephoongemeenschap tusschen Amsterdam
+eenerzijds en resp. Haarlem en Zaandam
+anderzijds. Behalve in deze drie gemeenten
+kunnen thans intercommunale gesprekken
+worden gehouden tusschen de inwoners van
+Amersfoort, Arnhem, Baarn, Bussum, Dord
+
+recht, 's-Gravenhage, Groningen, Rotterdam,
+Schiedam, Utrecht, Vlaardingen en
+Zandvoort. Het aantal in 1894 gevoerde gesprek
+
+ken kan veilig op een totaal van 110,000
+worden gesteld, terwijl bovendien blijkt dat
+het intercommunaal telephoonverkeer in vijf
+jaren tijds meer dan verdubbeld is.
+De opening van een internationale
+telephoonlijn tusschen Rotterdam en Antwerpen
+kan met zekerheid binnen een paar maanden
+worden tegemoet gezien.
+Of een internationale telephoonkabel tus
+
+schen Engeland en Nederland zal tot stand
+komen, schijnt nog onbeslist.
+Wij zullen niet in bijzonderheden treden
+omtrent de technische moeilijkheden, welke bij
+het aanleggen van deze intercommunale ver
+
+bindingen waren te overwinnen. Wij zullen
+ons bij de beschrijving van n telephoonnet
+bepalen en wel tot dat in Amsterdam.
+Het telephoonnet (zie de hierbij gevoegde
+dradcnkaart) telt in Amsterdam vier centrale
+stations, waarvan het hoofdstation gelegen is
+op den Dam en de drie zoogenaamde hulp
+
+stations respectievelijk gevestigd zijn in de
+Kerkstraat bij de Vijzelstraat, op Rapenburg
+en in de Haarlemmer Houttuincn.
+Deze burcaux worden door de nummers
+I, II, III en IV aangeduid.
+De verbindingslijnen loopen over verschil
+
+lende routes, en wel de verbindingslijnen
+tusschen I en II over twee, die tusschen I
+en III over drie, en die tusschen I en IV
+ingelijks over drie verschillende routes. Door
+deze regeling is verkregen, dat wanneer op
+n der routes een storing voorkomt en de
+verbinding verbroken is, do verbinding
+tusscheii de beide bureaux over een anderen
+weg, al is het dan ook met een minder aan
+
+tal verbindingslijnen, kan geschieden.
+De zoogenaamde hulpburcaux II, III en
+IV staan bovendien ook met elkander in
+re.chtstreeksc.hc gemeenschap en wel het bureau
+II met het bureau III door zes, het bureau
+III met het, bureau IV door vijf en het
+
+</text>
+<image timestamp="2002:08:20:16:00:20.00" size="350284">000003CQ.TIF</image>
+</page>
+</document>

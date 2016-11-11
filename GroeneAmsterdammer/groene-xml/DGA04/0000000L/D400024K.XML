@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151226</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+26 Dec. '15. No. 2009
+Bestel Uve Jacht t&gt;ij de
+H.V. HAARLEMSCHE JACHTWERF
+Dlr. H. W. DE VOOGT.
+hoorder SsSpaarae, Haarlem..
+KÜNDIGSTE EN MODERNSTE UITVOERING.
+Waschecht Schilderwerk op Zijde en
+Linnen, Kussens, Kleedjes, Taschjes,
+Boekbanden, Mandolinelinten,
+Leesteekens etc.
+Zeer billijke prijzen.
+Ennstatelier FLORIGAZA"
+Leidsche str. 108 Amsterdam. Molenstr. 57 Nijmegen.
+D. OBERINK &amp; Co.. AMSTERDAM
+PRINSENGRACHT 456 Vd LEIDSCHESTBWCT
+TELEFOON NOORD 1452
+TOEPASSINGDEEELECTEIC1TEITOPELKGEBIED
+HOOG FIJNE LIKEUR
+Wacht U voor onedele imitatie of misleidende merken.
+OVERAL VERKRIJGBAAR.
+[Generaal-Agent: J. A. VERBUNT, Tilburg.]
+VERHUIZINGEN onder GARANTIE.
+COLLECTIES VOOUHAADEN
+VAN
+GOYA, REDOJST,
+KA.THE KOLLWITZ
+BUHOT.
+GUBRARD, ÏNSOR,
+RASSENFOS*E VAN
+DER VALK.
+Catalogi verkrijgbaar.
+GDDING&amp;ZONN
+: SCHILDERS :
+ATELIERS • VOOR'
+DEC-SCHILDERWERK
+KUN5TNUVERKEID
+oup.f KUNST-HANDEL
+ROTTERDAM
+AERT VAN NESSTR.13O
+Apparaten en
+Onderdeelen - Sounderlessen.
+DRAADLOOZE TELEGRAFIE
+(Examen voor Leerling-Telegrafist bij de S. A. l.T.)
+SINDS l JANUARI 1914 ZIJN VAN ONZE KEN EN
+DERTIG |81&gt; CAND1DATEN 1&gt;EBTI« (3O|
+GESLAAGD, TERWIJL l HEREXAMEN NOG MOET
+PLAATS VINDEN. OMTRENT TOELATING TOT ONZE
+SCHOOL, LEERJAAR 1915-1916 RAADPLEGE MEN
+ONS PROSPECTUS R • •
+AANVANG V/D NIEUWE CURSUS BEGIN SEPTEMBER
+THE ROTTERDAM WIRELESS
+TRAINING COLLEGE
+GEBOUW PLAN C, INGANG GELDERSCHESTRAAT 10.
+Wfeesinuw.st
+Op uw schrijftafel vindehetFranscKDuikcFi en En^élsch
+arderiboek een pla.eds broederlijk naast lkaa.r-.
+GEBR. B. H. &amp; H. KOOLHAAS
+Makelaars en Aannemers
+ELANDSGRACHT 14 :: TEL. N/7800
+Agenten der Centrale Hypotheekbank te Den Haag.
+Bijkantoor van de Mij. van Brandverzekering voor
+het Koninkrijk der Nederlanden te VHertogenbosch.
+BOUW-CREDIETÉN
+BERGPLAATS voor INBOEDELS.
+Amsterdam, Frans van Mierisstraat'90. Tel. Z/822.
+deUrvivcrseele
+Perry&amp;C0.
+Kerst- en
+Nieuwjaars-Cadeaux
+Ziet voor Uwe
+WINTERKLEEDING
+onze Speciale Etalages van
+Winterjassen in blanwe Batiné, grijs Melton vanaf fl. 20.-.
+Blauwe Raglans vanaf fl. 16.-.
+
+IIOIJJ Mi Uil»d o.
+Amsterdam Rotterdam 's-Hertogenbosch Breda.
+
+</text>
+<image timestamp="2002:08:22:02:19:53.00" size="266883">D400024K.TIF</image>
+</page>
+</document>

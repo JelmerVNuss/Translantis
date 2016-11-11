@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260403</Datum>
+<Pagina>30</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'.van
+«AMSTERDAM»
+NlEUWENDUK 184 tegenover de Beurspassage
+HOORN - LEEUWARDEN -
+VGRAVENHAGE - GRONINGEN - HILVERSUM
+Buitengewoon mooie sorteering nieuwe
+Engelsche en Schotsche stoffen voor
+KLEEDING NAAR MAAT
+UITTREKSEL PRIJSCOURANT,-_-__
+
+COLBERT COSTUME
+COLBERT EN VEST
+JAQUETTE EN VEST
+PANTALON ....
+DEMISAISON . . .
+65.
+47.
+52.
+18.
+60.
+70.
+50.
+58.
+20.
+65.
+78.
+55.
+62.50
+22.50
+70.
+85.
+60.
+67.
+25.
+75.
+92.
+65.
+72.50!
+27.50
+80.
+STALEN EN MODELBOEKEN
+:- FRANCO OP AANVRAGE -:
+cKinoWl££iom
+O SCOTS WHISKY
+VERTEGENWOORDIGERS:
+N,V* Hoogeweriït Chabot 8 Visser's
+
+WIJNHANDEL
+Den Haag - Rotterdam ~- Arnhem
+fjFirmaClausSFritz!
+|*(Gebrs. VAN MAARE) \
+i Heerengrachit 341 l
+j TEL. 46885
+FABRIKANT EN VAN I
+l Olie- en Waterverf |
+= Schilderpapier, linnen |
+
+l VRAAGT ONZE!
+iSTUDIEVERFi
+Het beste leermiddel is
+
+een goed
+C^O Cs«&gt;
+Projectieapparaat
+
+Demonstratie ten
+allen tijde in onze
+Toonzaal .—.
+MARIUS - Utrecht
+Aug, Uilkema
+V e r l o v[i n g s]r i n g e n.
+
+Alle maten voorradig.
+14-18—22 Karaats goud.
+
+Uit n stuk gesmeed
+fl. 8.- tot fl.
+25,
+Reguliersbreestraat 39
+Waarom zou U zich zoo
+
+veel moeite geven om Uwe
+messen blank te schuren
+en te poetsen, als er
+ROESTVRIJE zijn, die
+steeds blank blijven.
+Waarom U ergeren, omdat
+ze toch niet zoo blank
+worden als U wel wenschtej
+ROESTVRIJE MESSEN
+zijn verkrijgbaar bij:
+ZWOLLE
+
+N, v. D* Hogenbirk 6 Zoon's ^
+
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+Speciale afdeeling Hekwerken en Draadafscheidingen, Diverse Vlechtwerken
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 3.- per kwartaal of f
+10.per jaar bij vooruitbetaling
+NEDERLANDSCHE
+
+KROONRIJWIELEN
+
+IN ALLE MATEN EN UIT
+
+VOERINGEN DIRECT UIT
+YOORRAAD LEVERBAAR
+Fabrikanten
+HANDELMAATSCHAPPU
+R. S. STOKVIS &amp; ZONEN
+EOTTERDAM.
+A» van Kempen
+WIJNHANDEL
+
+Am sterdam
+Gevestigd sedert 1810
+
+Prinsengracht 951
+TELEFOON 37706
+
+Vraagt Prijscourant
+K ampeeren
+Al onze kampeertenten
+zijn beduidend
+IN PRIJS VERLAAGD
+Onze nieuwe prijs
+
+courant van Kam
+
+peertenten,
+Kampeerartikelenenz.is gereed
+en wordt op aanvraag
+gratis toegezonden
+ZEILINGA
+Kantoor:
+Binnenkant 38
+M a g a z ij n :
+Prins Hemlrikkade 120
+Telefoon 41709—40717
+AMSTERDAM.
+iGoddards
+Plate Powder
+
+</text>
+<image timestamp="2002:09:25:07:48:28.00" size="163655">D10007H2.TIF</image>
+</page>
+</document>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260821</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Utrechtsche Assurantie-Mij,
+UTRECHT x Wcstcrstraat 5
+Ziekte- en
+OngevallenVerz ek er i n g e n
+A. van Kempen
+WIJNHANDEL
+
+Amsterdam
+Gevestigd sedert 1810
+
+Prinsengracht 975
+TELEFOON 37706
+
+Vraagt Prijscourant
+Hebt U reeds gelezen het mooie boek van
+SUZANNE LENGLEN?
+
+
+LIEFDESPEL
+Prijs fraai gebonden in geïllustr. omslag f 2.50
+ALOM VERKRIJGBAAR
+
+Uitgave van VAN HOLKEMA &amp; W AREND O R F's
+Uitgevers-Maatschappij Amsterdam
+B L A R l C U M CG o o D.
+PENSION 'T MATTHIJSSENHOUT"
+Tel. latere. 442 LAREN Groote Tuin
+Rustige ligging Electriscb licht Waterleiding Badkamer
+Prospectus op aanvraag.
+Stoels Woningbureau
+Bloemendaalschewcg No. 161
+BLOEMENDAAL
+KAPITAAL.ss
+l 4-000-000
+VERZEKERING
+HOOFD -DIRECTEUR
+J .TER HEULEN
+HEERENGR.260-266
+AMSTERDAM
+Mijnhardt's ^Zenuwta bietten
+zenuwachtig heTd-slapeloosheid
+overspanning en examenvrees
+Glazen Buisje 75 et. Bij Apoth.en Drogisten
+SCOTS WHISKY"
+
+VERTEGENWOORDIGERS t
+WIJNHANDEt
+DEN HAAG - ROTTERDAM - ARNHEM
+WAAROM
+heeft Van Rijn's Mosterd weer zoo'n overweldigend
+
+SUCCES?
+OMDAT voor ieder gastronoom QUAUTEIT den doorslag geeft
+CENTRALE VERWARMING
+volgens elk systeem
+W ARMWATER VOORZIENING
+door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+
+HUNCK &amp; ZOON
+VÏ7UÏ7V aan het Meer van
+V D V E, I Qenève. HOTEL
+CHaTEAU. Gr. Tuin, Radio,
+Dancing. Pensionsprijs van af
+f 3.50. SPALEK, prop.
+MONTREUX,
+het mooiste punt aan het Meer
+van Qenève. GRAND HOTEL
+CLARENS. 100 bedden.
+Pensionspr. v. af f 4.-. Vr. prospectus.
+J. W. de Jong, Muiderstr, 10, Amsterdam
+Gevestigd sedert 1851 - Telegram-Adres: UNIFORM
+Bekroond met (Amsterdam 1905)
+8 Gouden, l Zilveren en l Bronzen Medaille
+Leverancier van alle
+Burger' en Militaire Kleeding en Uitrustingen
+Abonneert U op
+DE VROUW EN HAAR HUIS
+Geïllustreerd maandschrift onder redactie van
+
+ELI S M. ROGGE
+
+l Mei verscheen No. l van den 21en jaargang.
+
+Naast artikelen over maatschappelijk werk, paedagogie, politiek, kunst, hygiëne en sport, wijst het tijdschrift op vrouwen
+wier leven en werken op velerlei gebied belangrijk is. Ook geeft elk nummer besprekingen en wenken over woninginrichting,
+kleeding, het sieren van den feestdisch en over al die praktische huishoudelijke uitvindingen, waarvan de huisvrouw zooveel nut
+heeft. Ook kinderkleeding ontbreekt in geen enkel nummer. Driemaandelijks ontvangt ieder abonnétevens Naaldwerk en Kant"
+een plaatwerk dat den weg wijst om meer schoonheid te brengen in het vrouwenhandwerk. Bij elk nummer is een strijk- of
+handwerkpatroon ingelegd.
+
+Een gratis proefnummer wordt aan belangstellenden gaarne franco toegezonden
+
+Prijs per jaargang f 10. ; franco per post f 10.75
+
+Per Zeepost f 12—; mail en buitenland f 13.50 ~
+Men abonneert zich bij den boekhandel of bij de
+
+Van Holkema en Warendorf s Uitgevers-Mij*, Amsterdam
+
+</text>
+<image timestamp="2002:09:26:01:21:50.00" size="156462">D10007V5.TIF</image>
+</page>
+</document>

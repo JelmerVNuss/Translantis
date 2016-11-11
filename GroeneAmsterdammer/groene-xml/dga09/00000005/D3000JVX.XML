@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19360229</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Hiegtuigen, geen
+Ihemischéstrijdir
+V eventueel* vijaj
+lioderne wapcne
+Joir.p bijten op
+. 'Idspraak van
+|wij helpen h
+runt zijn wij er
+daagse h e
+
+schrijver
+het Alg. Ha
+id van de
+dem
+d&lt;
+VOO:
+,onmai
+". E
+rdij
+l van
+l van
+n e
+ren
+hei todh
+cheïkbaar, ;
+lit W:
+weten da
+vaarde h
+een chim
+L ontwikk
+het bc
+«i
+erw;
+verhéve
+egel- R
+J|e ree
+irj.
+d» vfooi
+ring 'tot
+slet
+tit ei
+
+be.,cho
+Wat volgens Bartjens niet opgaat, gaat bij
+De Groene wél op en de verklaring luidt:
+Er zijn nu van de twaalf maanden twee
+voorbij; wie zich thans voor de rest van
+het loopende jaar abonneert betaalt
+slechts voor negen maanden, dus
+WEET U
+ƒ 7.50
+WEET U
+
+WEET U
+WEET U
+EET U
+WEET U
+dat DE GROENE het meest geciteerde Nederlandsche
+weekblad is, niet alleen in ons eigen land maar ook
+in de buitenlandsche pers?
+
+dat de hoofdartikelen van DE GROENE gezag hebben
+tot ver over onze grenzen?
+
+dat DE GROENE elke week van het belangrijkste
+nieuws uit binnen- en buitenland juist voldoende
+bevat om U geheel op de hoogte te houden?
+
+welk een vooraanstaande plaats de kunstcritiek van DE
+GROENE inneemt in de Nederlandsche kunstwereld?
+
+dat DE GROENE de interessantste vrouwenpagina
+heeft en de beste verhalen ?
+
+dat de eerste krachten op elk gebied bij voorkeur
+medewerken aan DE GROENE?
+DAN WEET U dat een abonnement op
+DE GROENE ook voor U onmisbaar is. Een
+ontwikkeld Nederlander kan eenvoudig niet
+buiten DE GROENE. Vandaag of morgen zult
+U dit inzien en een abonnement nemen. Doe
+het daarom Jiever direct, dan betaalt U voor
+tien maanden slechts f 7.50 en U zult onder
+
+vinden:
+
+WIE DE GROENE LEEST IS OP DE HOOGTE!
+Hierlanf! afknippen
+N.V. Amturd. Bo«k. M Su«n4ruklMH|
+BON
+AAN DE ADMINISTRATIE" DE G'V
+KEIZERSGRACHT 355 AMSTERDAM
+Postgiro 72880 - Gemeente Giro G 1000 - Telefoon 37^64
+
+Ondergeteekende wenscht zich met ingang var
+abonneèren op DE GROENE AMSTERDAMMER.
+nementsprijs tot 31 December bedraagt 7.50. Ij
+abonnement niet voor dien datum wordt opgezegd
+stilzwijgend voor een jaar verlengd tegen den'-norr
+van f 10.—.
+Naam :
+
+Straat:
+
+Woonplaats:
+
+A DOE A GEWROKEN
+Ik huldig het heldhaftig genie van Uwe Excellentie!'
+• v
+
+</text>
+<image timestamp="2002:10:28:21:41:22.00" size="483224">D3000JVX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381224</Datum>
+<Pagina>39</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Oud-en-Nieuw A.B.C.
+dat is Artis met veel
+failliete dieren
+B
+is Beatrix; dat git
+we vieren
+Cis Colijn, de vieux T"\ «'s defensie, doet
+jeune premier JL/ allemaal mee!
+F dat is Frankrijk, waar ze
+net niet eens kunnen worden
+H
+dat is Goseling:
+een jurist vol problemen
+•^
+. . . hielp een handje
+aan de grens van Bohemen
+Excellenties, de herders
+der horden
+Idat is... Eden,
+die in vrijheid wil leven
+J
+zijn de Joden,
+vervolgd en verdreven
+K
+i's de Kroning,
+die wij juichend herdachten
+luchtaanval, waar we ons
+voor moeten wachten
+Neville Chamberlain,
+Pis Patijn,
+O._ _._ _.._ _,_ onzijdigheid vroeg
+wachtmeesters joeg
+JiJI dat is München: J.'X die als dummy" er bij zat
+waar Hitler partij had
+Qis het.. . kwik, dat
+laatst quick op-en-neer ging
+R dat is Roosevelt, O is de spelling,
+de Dollar-tooverleerling O
+een kwakkelpatiënt
+'t publiek niet verwend
+l
+dat is Utrecht,
+de stad van den trein . .
+Vis de Vlugt.
+die zet: ,.ik verdwijn'
+W
+van 'het komende
+jaar de onbekenden
+
+is de zegenwensch dien
+De Groene U biedt,
+de werkloozen, Veel geluk en veel voorspoed,
+een lot vol ellende en narigheid niet!
+boos 1:
+
+</text>
+<image timestamp="2002:10:03:02:51:45.00" size="125747">D100099P.TIF</image>
+</page>
+</document>

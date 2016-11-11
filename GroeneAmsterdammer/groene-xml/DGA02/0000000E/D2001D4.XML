@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020518</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1298
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+De opheffing der dictuur-paragraaf vcor Elzas Lotharingen.
+Het Amerikaansche gevaar. (Fischütto).
+KEIZER WILHELM : «Maar nu den anderen kar.t uitkpen, kinderen !"
+De Pat onttroon (Ulk).
+Aanpassen. (Pur.ch).
+De Vrede en de Kroning. (PmcK).
+voor Koning Alfonsus XIII van Sparje.
+AUTOLYCUS HICKS-BEACII: »Deze braceletten
+komen wfer in de mode. Miss."
+Miss FKEB - TRADE ; &gt;L\jken ze niet een
+beekje op handboeien ? '
+AUTOLYCUS : -O, in 't geheel niet; u zult
+Liet merken dat u ze aarhebt."
+
+Ook als keffer bruikbaar, Marke Exil.
+Een lesje vcor Nicolaas. (Fi-.dii'.tto).
+John Bol), de vroegere he*r der zeeën begint te vreezw, dat Oom
+Sam hem de hans zal worden en hem al zijn gcfeeerjes afneemt.
+John Buil en de Afrikaansche vredesduif. (Jagend)
+DK VEKDE : -&gt;Ik ben benieuwd of er ook
+voor mij een plaats zal zyn by de kroning.' ,
+DK VEKDE : «Grappenmaker ! ja wil me overal hebben en je kunt me in je
+eigen huis niet eens respecteeren.'
+«Pat! Pst! Flauw dier, het wil niet."
+Zeg, beste Emile, neem je Wotki mee op rei8.
+- Ja, lieve Marianne, ik wil een eompleete Kozak
+wezen als ik in Rusland kom.
+(Humoristische B'ütter. Wien).
+Vergeefsche Vredesverwachtingen.
+
+(UlJc).
+De witte jonk/rouwa
+TOMMY: »Hei Delaiey, dat is \alsch, ze zya al bezig om vrede
+te maken en ju slaat 10^ iedere keer." (Lustige Sldttcr).
+kunnen gryze
+j oz k vrouwen worden
+eer by komt.
+
+</text>
+<image timestamp="2002:08:17:19:29:38.00" size="409544">D2001D4.TIF</image>
+</page>
+</document>

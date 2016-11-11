@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321126</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 26 November 1932
+N o. 2895
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden
+Molsteeg ~~ Amsterdam
+BOEKENKASTEN
+AMSTERDAM - DEN HAAG
+Kalverstr. 86—30 Noordeinde 64c
+Plaids
+Voetzakken
+Auto-Overschoenen
+Slippers
+Begrafe nis-Onderneming
+
+G. Koning Jr.
+Amsterdam
+Nieuwe Spiegelstraat 61 Telefoon 47179
+Begrafenissen, Crematiën en Transporten
+welke per auto worden uitgevoerd, geschieden
+~~ met speciale rouwvolgauto's ~~
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftctraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2278
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+COMPLETE BADKAMERS
+in eenvoudige en luxueuse uitvoering
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+TLKJCR
+dot» u _
+Ve eenden U .
+k ivïntfefiporfboeVje 5V55
+«w qrol*&lt; tbe • tl zulfcr
+* al(e£ ITX -Vitirfen over
+kleeding en uitrusting
+
+1
+Voor St. NlCOlaaS hebben wij een ruime
+keuze in groote, maar ook aardige, kleine
+cadeaux, oud Hollandsen en modern
+HANDHAVEN OUDE REPUTATIE MET NIEUWE PRIJZEN
+ERVEN CORNS SGHOORL
+v/h ,,in den silveren molenbeecker"
+Kalverstraat 32 - Amsterdam -- Telefoon 42149
+
+</text>
+<image timestamp="2002:09:27:14:28:27.00" size="116346">00000ARP.TIF</image>
+</page>
+</document>

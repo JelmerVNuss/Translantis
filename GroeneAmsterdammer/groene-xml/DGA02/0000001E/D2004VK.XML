@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320409</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+; ii'-afW!.-.,.- -'. *
+cent
+-:....
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland _
+Keizersgracht 3SS, Amsterdam C. - telefoon 37964 * postgiro 72880 - gem. giro G. 1000
+HANDELSMERK WETTIG GEDEPONEERD.
+U zoekt:
+een firma van prima
+reputatie. Die een ruim
+gesorteerde voorraad bezit
+van de beste gewassen.
+
+En tOCh b i 1 1 ij k e
+prijzen noteert.
+U vindt
+dit alles bij:
+Van Straalen Monsieur SErkelens
+Wijnhandelaren
+FILIAAL HOOFDKANTOOR FILIAAL
+Den Haag: Rotterdam Den Helder
+Anna Paulownastraat 36 Leuvahavan 34 Hoofdgracht 61
+tal. 332832. tal. 62456. tal. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAG PRIJSCOURANT VOOR PARTICULIEREN.
+BJASPIBOMMEL:
+KERKSTRAAT 58
+AMSTB^DAM
+NVV/M.
+H-AKLOOSTERHUIS
+AMSTERDAM
+KALVERSTR.I78
+ONDERLINGE
+LEVENSVERZEKERING
+VAN EIGEN HULP "
+VAN 1679 =====
+
+DEM HAAG =
+KORTENAERKADE =
+
+B ATA VI A
+VOORRIJ ZUID
+DE TIJD VLIEDT !
+n 11 3:1 »] a .10
+SOLIDE
+VOORDEELIG
+COULANT
+
+</text>
+<image timestamp="2002:09:21:03:40:26.00" size="117103">D2004VK.TIF</image>
+</page>
+</document>

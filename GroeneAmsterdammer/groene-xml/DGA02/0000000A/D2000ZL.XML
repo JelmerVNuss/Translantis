@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010721</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No'. 1256
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLA.N&amp;
+Het bezoek van den Russischen Grootvorst aan Bulgarije.
+In China. (Der Floh).
+FKRDINAXD : »IIet is mij een eer u het stof van de schoenen te vegen."
+GaooivoiiST : »Dat is lief van je ... maar als ja het niet deel.. . zou ik je eens aaien."
+Nog een doorhaling noolig. (Chnland Leader).
+BULI
+K!S
+JOIK BULL ; »'k GJoof dat ik een nieuwe Jijst noodjg heb.''
+Mevrouw Eotha en haar vogeikooi.
+
+ti; J-til) a al j.
+Li FLNG CHAXO : »Wat wil je toch, ventje V"
+DE KEI/KR VAX CirrsA.: »Mag ik nu apjeblieft weer een bejtje
+regeeren V'
+Kruger in het zeebad. (lfni&gt;iori*(i?c?ic Tildt-r, Weeasn).
+' -^,^^—^e*^
+
+
+loh-r,er telegr&amp;fe
+uau kan ik gerust weien over het lot van mij.i IJjeren.
+L;' -^—^-^--'-«'-'rf'«:»\.™
+jfeü-*:t:-".'-"."-•---.. ,.
+
+K'imnan ' Knoh-r.er telegrafeert een nieuwe overwinning,
+Ultimatum. (Lustige Jli&lt;itti:r).
+V&gt;'.\'s .i r.s-.si:;.; (tol Li IJisi. ("IIAM^: sAiliew, rr.vve heer! En
+orthoiij nu &lt;?oed : f.1-' soms j"lui lioksers opr.Ieuw herrie ;aan
+maken n'ij ?;e i; niet weerom, hoor '.
+JOHS BULL : »Nu zou ik toch graag willen weten, of ze in
+die kooi een vredesduif of een kemphaan meebrengt! '
+Pi: ORAXI. OI;TAN: »\Vel, WP! ! jij zoo hier?''
+lli.i Xi.n.i'\.\uip; «Stil, ik u:is incognito! '
+(Le Eire).
+TOMMY: »Daar is een Boer, maar als wij hem willen pakken,
+pakt hij ons,'1
+(Indépcndance lidgcj.
+
+</text>
+<image timestamp="2002:08:16:08:53:14.00" size="359780">D2000ZL.TIF</image>
+</page>
+</document>

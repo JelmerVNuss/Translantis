@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261009</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Adams Brothers
+134 Utrechtschestraat
+b/h Paleis v. Volksvlijt
+^Stroohoeden'Regenjassen
+
+• Nieuwe dessins
+Overhemden en Dassen
+
+Schiesser's Netgoederen
+[AUTOMOBIELEN
+
+Buick &amp; Chevrolet
+f
+fl
+Weteringschans 109—111
+
+- AMSTERDAM
+dards
+PlatePowder
+zlhtren en vemlkkelde voorwerpen
+Verkrygour 07 de
+raomMmstc draguten flt GaJuuerie fandelaare
+General Vertegenwoordigen:
+
+J. H. Junen &amp; Co.
+
+Rotterdam
+J. P. KARTH AUS
+Br. Markt - Hatrl.ni
+TELEFOON 10652
+DEGROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 3.—per kwartaal of
+
+f 10.—per jaar bij vooruitbetaling
+f&amp; KAPITAAL.5=
+T 4-000-000
+VERZEKERING
+HOOFD-DIRECTEUR
+a TER HEULEN
+HEERENGR:260-266
+PETER DAWSON'S
+
+WHISKY
+
+BEST OF ALL
+
+Van Straalen Alonsieur &amp; ILrkelens
+WIJNHANDELAREN
+Den Haag - ROTTERDAM - Helder
+Leuvehaven 34
+NV..3ËETNA
+AN/TERIUM
+M ACH IN ES VOOR DE
+PALMOLIE-INDUSTRIE
+I
+|
+KIPS &amp; C2.
+SCHIEDAM
+Plaatijzeren Reservoirs» Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+|
+Tijdelijke aanbieding Afghanistan karpetten
+fl. 34,—per M2, en Perzische kleeden
+± 1.0O x 2.0O M. a fl. 48,—per stuk.
+
+GEBR. FORMA, Utrechtschestr. 85, Tei.42940.
+N,v. D» Hogenbirk 8Zoon's j!
+
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN). Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+•fdedlaa Heiwerk*, ca Dn«&lt;Uf&gt;clieidta0eii, Dlvenc Vlechtwerken
+Engel sch P la t e d
+Soeplepels
+Groenteschalen
+
+Saucekommen
+
+Groentelepels
+
+Saucelepels
+
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+
+
+Arnhem - ZIJLSTRA 6 RUPP
+CENTRALE VERWARMING
+volgens elk systeem
+WARMWATBR VOORZIENING
+door middel van ketel, fornuis of gaaapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+
+HUNCK &amp; ZOON
+WAAROM heeft
+VAN RIJN'S
+
+MOSTERD
+zoo'n overweldigend succes?!
+OMDAT qualiteit altijd den doorslag geeft
+VILLA TE KOOP.
+
+VRIJSTAANDE VILLA, eersten stand, middelpunt der gemeente,
+d/b Station, aan autobusj hall, 2 gr. kamers, (suite) ontvangkam.,
+keuk., keld., clos., gasl., waterl., el. licht, etage, overloop, 3 gr.
+slaapkam., badkam., gr. zold., aangel. tuin SLECHTS f 8000.—,
+Helft van dubb. VILLA, hall, 2 kam., (suite), serre, keuk., bijkeuk.,
+keld., clos., waterl., gasl., el. licht, etage overl. 4 slaapkam., 2
+balcons, gr. zold., schuur, fl. tuin SLECHTS,f7100.—,bij P. MAN,
+Steenhofstr. 5, bij 't Station SOESTDIJK. Vr. gr. en fr. WO
+
+NINGCOURANT.
+TEKODP.tEIZEHBIOOTWITAL
+
+2deHANDSCHMÜIUK'
+
+EN ZEILUC1TEN.
+TE BEVRAGEN Bil:
+I.V. WERF NICOLMS KITSEN"
+STOEL ALKMAAR
+N.V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+bericht hiermede de ontvangst eener mooie collectie
+
+Engelsche- en Schotsche-Winterstoffen
+UTRECHT - Nieuwe Gracht 6 - TEL. 13416
+Door het geheele land te ontbieden
+HAARLEM - KRUISSTRAAT 30-32 j
+
+Hotel-Restaurant De Leeuwerik" i
+Hoi* van den !«• R. Centr. Verw. Kamer» met stroomend water |
+Aanbevelend L. REITSMA
+MOTOREIM EN
+
+VENTILATOREN
+ALLEENVERTEGENVACXDRDIGSTER VCXJR NEDERLAND
+
+N.v.MARIUS-UTRECHT
+LEVERING DIRECT UIT VOORRAAD
+MEETINSTRUMENTEN
+VOOR DE GEHEELE ELECTROTECHNIEK
+
+INGENIEURSBUREAU VAN NISPEN
+
+= ZWOLLE. ==
+
+</text>
+<image timestamp="2002:09:26:05:45:38.00" size="207561">D1000800.TIF</image>
+</page>
+</document>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240802</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+9*. 9169
+Zaterdag 2 Augustus
+A'. 1984
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van G. W. KERN KAMP
+Redacteuren: H. BRUGMANS, HERMAN HEYERMANS, TOP NAEFF en G. NOLST TRENIT
+Secretaris der Redactie t C. f. VAN DAM
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+PrUs per jaargang f 10.
+bQ vooruitbetaling. Per No. f 0.25
+
+Redactie en Administratie i
+Keizersgracht 333, Amsterdam
+
+Advertentiën f 0.75 per regel
+Dispositiekosten 20 cent
+NA TIEN JAREN
+Nu de gedachten weer terug worden gevoerd naar het begin
+van den wereldoorlog', kost het eenige moeite de aandoeningen
+van destijds zuiver weer te beleven.
+Men moet zich dan bevrijden van veel wijsheid, die men achteraf
+heeft opgedaan, men moet zich onttrekken aan den invloed van
+allerlei gevoelens, die tijdens en na den oorlog zijn gewekt of
+bevorderd, men moet ook vooral van zich afwerpen het verfoeilijk
+scepticisme, dat ons sedert onverschillig heeft gemaakt.
+Toen waren wij niet onverschillig. De gebeurtenissen stormden
+op ons los en schudden ons wakker. Binnen enkele dagen werden
+we uit de atmosfeer van d~en vrede de meesten onzer hadden
+nooit een andere gekend in die van den oorlog verplaatst.
+Binnen enkele dagen want zoo goed als niemand had in
+de voorgaande weken het oorlogsgevaar zien naderen.
+De moord van Sarajevo was niet als een gebeurtenis beschouwd,
+die tot een Europeeschen oorlog aanleiding kon geven. Niemand
+kon toen nog weten, dat de Oostenrijksche regeering zocht naar
+een gelegenheid om met Serviëin conflict te komen.
+Zelfs het ultimatum, dat Oostenrijk op 23 Juli tot Servi
+richtte, maakte aan de meesten nog niet duidelijk, welk gevaarlijk
+spel er werd gespeeld. Zelfs toen, twee dagen later, de Oosten
+
+rijksche regeering de diplomatieke betrekkingen met Serviëver
+
+brak, ondanks het verre tegemoetkomende antwoord van Servi
+op het ultimatum, ja zelfs toen op 28 Juli Oostenrijk aan Servi
+den oorlog verklaarde en de vijandelijkheden begon, zag men
+hierin nog niet den fakkel, die een Europeeschen oorlog zou doen
+ontbranden.
+Immers, Engeland had het initiatief genomen tot een bemidde
+
+ling van de groote mogendheden. Ook zij, die met de geschiedenis
+der laatste jaren beter bekend waren dan Jan Alleman, gaven
+de hoop niet op, dat het gelukken zou Oostenrijk te bewegen
+tot een staking der vijandelijkheden en tot het alsnog onderwerpen
+van het geschil aan een uitspraak van arbiters.
+Ook tijdens den Balkan-oorlog toch van 1912—1913 had eenige
+malen het gevaar gedreigd, dat uit de verwikkelingen op het
+Balkan-schiereiland een oorlog van Oostenrijk tegen Serviëzou
+ontstaan. Juist het besef, dat uit zulk een oorlog bijna zeker een
+oorlog van Rusland tegen Oostenrijk zou voortkomen, die, bij
+de bestaande internationale verplichtingen, tot een grooten
+Europeeschen oorlog moest leiden, had toen de groote mogendheden
+genoopt het gevaar te bezweren, Engeland en Frankrijk hadden
+hun invloed op Rusland doen gelden, Duitschland weerhield
+Oostenrijk van een agressief optreden door te verstaan te geven,
+dat het in dat geval niet op den steun van zijn bondgenoot be
+
+hoefde te rekenen.
+Waarom zou het ook nu, in het laatst van Juli 1914, nu weder
+
+om Oostenrijk de stokebrand werd, aan dezelfde groote mogend
+
+heden niet gelukken, het begin van brand te blusschen?
+Die hoop werd ras verijdeld. Terwijl de diplomatie nog den vrede
+trachtte te handhaven, bereidden de generale staven zich reeds
+ten oorlog; dit was hun plicht: de kans op oorlog was zoo groot
+geworden, dat de militaire autoriteiten er rekening mee moesten
+houden, dat hij binnen enkele dagen kon uitbreken, en zij dus
+voorbereidende maatregelen moesten nemen, om er niet door
+te worden overvallen. Maar het noodlottige van deze
+plichtsvervulling is, dat zij het oorlogsgevaar vergroot.
+Zoo ook nu. Bijna tegelijkertijd kondigden Rusland en Oosten
+
+rijk de mobilisatie af. Van dat oogenblik af hadden de diplomaten
+niet meer de leiding, maar de militaire autoriteiten. Uit vrees
+dat de eventueele tegenstander een voorsprong zou krijgen, en
+in de meening dat de oorlog toch niet meer af te wenden was,
+verhaastten zij het begin ervan. Het ultimatum van Duitschland
+aan Rusland bracht de lawine in beweging, l Augustus verklaarde
+Duitschland aan Rusland den oorlog; den volgenden dag liet het
+Luxemburg bezetten en stelde het aan Belgiëden eisch van vrijen
+doortocht voor zijne troepen; den 3en Augustus verklaarde Duitsch
+
+land den oorlog aan Frankrijk en kreeg het van Belgiëeen weige
+
+rend antwoord; den 4en Augustus drongen de Duitsche legers
+Belgiëbinnen en stelde Engeland aan Duitschland den eisch, dat
+het de onzijdigheid van Belgiëzou ontzien en zijn troepen, die de
+Belgische grens reeds hadden overschreden, terug zou roepen;
+de weigering om aan dien eisch te voldoen deed, in den nacht
+van 4 op 5 Augustus, den oorlogstoestand tusschen Engeland en
+Duitschland intreden.
+
+Zóó volgden de gebeurtenissen elkaar op, onverbiddelijk, auto
+
+matisch. De oorlogsverklaring van Duitschland aan Rusland
+was de sleutel geweest, waarmee men den automaat had opge
+
+wonden ; van dat oogenblik af volbracht hij alle bewegingen, die hij
+moest volbrengen; ook de oorlogsverklaring van Engeland aan
+Duitschland behoorde tot het programma zijner verrichtingen.
+Zoo gauw gebeurde alles, dat men er door verbijsterd werd.
+Ook zag men toen, in de eerste week van Augustus, den samenhang
+der dingen nog niet. Men onderging ze alleen. Men had het gevoel
+van volkomen machteloosheid en tegelijk kwam men in feilen
+opstand.
+In feilen opstand tegen een orde van dingen, die het mogelijk
+maakte, dat er oorlog werd gevoerd tusschen beschaafde volken.
+De oorlogen op den Balkan, of van Italiëtegen Turkije, of van
+Japan tegen Rusland, hadden we niet meegeteld; die waren ook
+ver uit de buurt. Maar dat Duitschland en Frankrijk en Engeland
+met elkaar in oorlog zouden geraken, hoevelen hielden dit nog
+voor waarschijnlijk? Eenige malen had het gedreigd te zullen
+gebeuren, maar altijd had de diplomatie het nog kunnen beletten.
+De toerustingen ten oorlog van de groote mogendheden waren
+jaar op jaar vermeerderd; maar juist daarin zagen we een waarborg
+voor het behoud van den vrede; wie zou het wagen, de verantwoor
+
+delijkheid op zich te nemen voor het ontketenen van een oorlog,
+die offers zou kosten aan menschen, aan geld, op zulk een schaal
+als men zich ternauwernood kon indenken? Neen, de geweldige
+toebereiding tot den oorlog had den oorlog zelf gedood; de af
+
+schuw ervan was ook zoo algemeen geworden, dat een regeering,
+die naar dit laatste middel zou durven grijpen, door haar eigen
+volk zou worden verloochend.
+Nu bleek dit alles waan te zijn. Elke regeering, onverschillig
+welke, had het geheele volk achter zich. De collectieve zucht tot
+zelfbehoud doet zich gelden zoodra een land in oorlog verkeert.
+Niemand is in staat te beoordeelen, waarom het oorlog is geworden,
+wie de aanvaller is, wie de aangevallene. Men gevoelt alleen dat
+men allen tezamen bedreigd wordt en dat alleen door gezamenlijke
+inspanning van alle krachten het gevaar kan worden afgewend.
+Het nationaal gevoel overheerscht alle andere; de partijschappen
+verstommen; Keizer Wilhelm drukt den sociaal-democraten de
+hand en de sociaal-democraten zingen Deutschland beralles";
+de Ulster-mannen in Ierland staken den burgerkrijg en scharen
+zich om de regeering: ,,right or wrong, my country".
+
+Zóó ging het in 1914 hoewel de overgroote meerderheid
+ook toen den oorlog verfoeide.
+En dit is het, wat, boven alles, de herinnering aan 1914 bij ons
+moge uitwerken:
+het besef van de machteloosheid, waarin toen het menschdom
+verkeerde om den oorlog, dien het haatte, te vermijden;
+en het zich stellen van de vraag, of in die machteloosheid
+moet worden berust; zoo neen, of elk onzer dan het zijne doet om
+aan een toekomstig geslacht de mogelijkheid te bieden, zulk een
+ramp af te weren.
+
+K E R N K A M P
+
+</text>
+<image timestamp="2002:09:03:13:50:43.00" size="190258">D2003RZ.TIF</image>
+</page>
+</document>

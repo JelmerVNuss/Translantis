@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>48</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+48
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2500
+IDOOTZ
+AM/TERDAM
+AMERICAN-HOTEL
+
+AMSTERDAM
+
+HOTEL &amp; CAFÉ-RESTAURANT VAN DEN len RANG
+Oroote en Kleine Zalen voor Vergaderingen, Diners enz.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+Kleedermakerij naar Maat
+voor Damt!
+
+•n HMMD
+H. K E M IV K »
+
+voorheen Coupeur der Firma P. M. BROEKMANS, Koningsplein, Amsterdam.
+
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+
+Colbert Costuums van at . . . . t «5.—ModomB COUpB.
+
+Manteicostuums van af.' ..'.'' " 6s!—Prima afwerking.
+
+Stalen op aanvraag.
+000000000000000000000
+0
+0
+0
+TELEFOON 10604
+000000000000000000000
+TELEFOON 10604
+A. WEILL BONTWERKER
+
+BARTELJORISSTRAAT 26-28 HAARLEM
+BEWAREN VAN PELTERIJEN
+
+GEDURENDE DEN ZOMER
+ALLE PELTERIJEN B f J MIJ IN BEWARING
+
+ZIJN TEGEN BRAND- EN INBRAAKSCHADE
+
+VERZEKERD
+ARTIKELEN NIET BIJ MIJ GEKOCHT, WORDEN
+
+OOK IN BEWARING GENOMEN
+LID DER KON. GOEDG. VER. VOOR BONTWERKERS BEDRIJVEN
+0
+0
+0
+0
+0
+0
+0
+0
+0
+000000000000000000000000000000000000000000000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+REPARATIES EN VERANDERING VAN MODEL
+
+GEDURENDE DE MAANDEN APRIL TOT l AUG.
+
+VERMINDERDE PRIJZEN
+GEVESTIGD 1856
+
+</text>
+<image timestamp="2002:09:03:10:29:26.00" size="78282">000005LT.TIF</image>
+</page>
+</document>

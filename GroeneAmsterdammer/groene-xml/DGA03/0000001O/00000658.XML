@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251212</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2531
+J. D. STRUIJS &lt;&amp; Zn.
+Prinsengracht 837 P. G. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+EDAMMER-KAA3
+GCCFT £ £/w een mocfomfR OP-.
+6r-.-r-T.-ss Sinzi
+gnma. l
+In ieder huis
+SPIJZEN-AROMA
+
+verbetert niet slechts op verrassende wijze den
+smaak van soepen, jus, sausen, stamppot enz.,
+maar bevordert ook den eetlust en beïnvloedt
+de spijsvertering op weldadige wijze.
+M&gt;
+FRUITPLANTAGE
+
+ONS GENOEGEN"
+ROSSUM (BIJ Z ALT-BOM M E L.)
+TELEFOON 15. Merk D. A. K.
+Levert aan Particulieren goed verpakte en Dubbelgesorteerde
+
+GOUDREINETTEN en BELLEFLEURS
+BV Vraagt Fx-ysconraiit. *W
+His Master's Vbice
+Importeurs:
+
+m AMEBICiH IMPOBT COMPilT
+Amsterdamse!» Veerkade 22a
+OEN HAAG"
+Geaccrediteerde agentschappen
+voor Amsterdam:
+GRAMOPHONE COMPANY
+P JAGENCY
+Regulfersbreestraat 42
+P. J. RICHTER'
+P. C.i Hooftstraat 125
+A. M. TUREL
+Wlllemsparkweg 67
+N.Y. IEFOIM"
+Dir. E. Boerma
+IHOIIIGEX AMSTERDAM
+Hierittr. t lokln 10
+Dames- en
+HeerenKleedermakerij.
+Coupeuri door hit lehiali
+land ti »tbiid»".
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+l P.C Hooftstraat 38 AMSTERDAM Telef.: 20341, 24259 ]
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN i
+ADR1AAN SCHAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bfl ons verkrijgbaar ~~"~"~~~~~~
+N. R. V. nOMTA SCHOENEN
+Wed. John Gay's Piccalilli
+blijft het mosterdzuur met de fijne, pikante smaak l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+(N.V. DE HOUTTUINEN") Amsterdam
+STEENHOUWERIJ D. WEEGEWIJ3
+RAPENBURG 14, AMSTERDAM TEL. 436*2
+MARMERWERKEN
+en Reisartikelen met garantie.
+Paleisstr. 45-47. Tel. 35013
+V.H. J. N. MULLER.
+Ba^rtefjorfsstr.
+Wegens uittreding van een der firmanten
+
+GROOTE UITVERKOOP
+
+met 20% KORTING a CONTANT
+Uitstekend geschikt voor Kerst-Geschenken
+RENEE
+W, H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+'T BINNENHUIS
+OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY OLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INOANQ: PRINSENGRACHT 707A
+B. J. MULDERS
+TUIJf ARCHITECT
+Gevers Deynootweg 117 Scheveningen
+Tolofooit SO81O
+
+</text>
+<image timestamp="2002:09:04:00:24:50.00" size="161790">00000658.TIF</image>
+</page>
+</document>

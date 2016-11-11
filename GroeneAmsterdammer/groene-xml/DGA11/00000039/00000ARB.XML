@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321126</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+en
+gij laat
+alle denk
+
+bare artikelen
+uw oog voorbijgaan
+doch gij kunt Uw keuze
+niet bepalen. Zoek niet langer.
+GEEF EEN ABONNEMENT OP
+DE GROENE AMSTERDAMMER".
+Gij biedt dan niet eenmaal, maar
+twee en vijftig achtereenvolgende Zater
+
+dagen in 1933 een cadeau aan, waarmede
+gij den verwendsten uwer vrienden en familie
+
+leden gelukkig maakt. •
+De abonnementsprijs is tien gulden per jaar.
+Voor Indië(mail) dertien gulden 50 et. Zendt ons het
+bedrag en U ontvangt een abonnementskaart voor
+1933, die later ingevuld met naam en adres van
+den begiftigde bij ons terugkeert. •
+Voor Indiëzijn op luchtmailpapier gedrukte
+geschenkenkaarten te verkrijgen, zoodot Gij uw cadeau
+Woensdag a.s. nog met de luchtpost kunt medegeven.
+De nieuwe abonné's ontvangen de Decembernummers
+gratis waarbij een exemplaar, dat geheel aan de
+Rijpere Jeugd van Heden is gewijd. •
+De Groene Amsterdammer
+Weekblad voor Nederland
+ABONNEMENTSKAART VOOR 1933
+Als nieuwe abonnémoet worden ingeschreven:
+
+(naam)
+-	(straat)
+_	(woonplaats)
+Deze kaart volledig in te vullen en in te zenden aan de administratie van
+De Groene Amsterdammer", Keizersgracht 355, Amsterdam.C., waarna
+toezanding vqn het weekblud gedurende 1933 volgt. De nieuwe abonnéontvar.gt
+bovendien een exemplaar van het Kerstnummer 1932.
+Gebruik den bon van
+pag. 3 van het omslag
+
+</text>
+<image timestamp="2002:09:27:14:03:57.00" size="195415">00000ARB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390318</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wetenschap
+
+Franciscus Cornelis Donders
+
+Het leven van NederlancPs grootsten oogarts
+
+Prof. dr. C. Winkler
+Vrijdag a.s. is het vijftig jaar geleden dat de wereldberoemde
+Nederlandsche hoogleeraar prof. dr. F. C. Donders overleden is. Het
+hiervolgend gedenk-artikel is voor De Groene" geschreven door den thans
+vier-en-tachtig-jarigen emeritus-hoogleeraar prof. dr. C. Winkler, die van
+1873 tot 1879 aan de Utrechtsche Universiteit tot de leerlingen van den
+grooten Donders behoorde, en tot diens dood contact met hem heeft gehad.
+DEN 24sten Maart 1889 overleed te Utrecht,
+na een langdurig lijden, Franciscus Cor
+
+nelis Donders, een man, die tijdens zijn
+leven de algemeen erkende leider der natuuronder
+
+zoekers in Nederland is geweest. En nog veel meer.
+Hij was een in wetenschap vooraanstaand man, die
+uitblonk boven al zijn tijdgenooten. Van den beginne
+af aan, tot het einde van zijn welbesteed leven,
+hield de studie der physiologie hem bezig.
+Donders was beroemd, deels door zijn ongelooflijk
+groote vaardigheid als waarnemer en
+natuurvorscher, deels door zijn helder inzicht, niet alleen op
+wetenschappelijk gebied, maar ook in vele politieke
+en staatkundige onderwerpen, deels en vooral,
+omdat hij in waarheid was: een groot en goed
+mensch" gelijk Nicolaas Beets hem eenmaal
+genoemd heeft.
+Te Tilburg werd Donders den aysten Mei 1818
+geboren, als jongste zoon in een onbemiddeld en
+groot gezin. Op zevenjarigen leeftijd werd hij naar
+Duizel in Brabant gezonden, naar de school van
+Meester Panken, die hem op twaalfjarigen leeftijd
+aanstelde tot ondermeester. Korten tijd later ging
+hij naar de Fransche school in Tilburg en leerde
+later in Boxmeer van de eerwaarde paters ook
+Latijn en een weinig Grieksch.
+Na deze. uiterst onvolledige opleiding kwam
+Donders op i7-jarigen leeftijd te Utrecht. Hij werd
+kweekeling der school voor militaire geneeskun
+
+digen en tevens student in de geneeskunde aan de
+Universiteit aldaar. Hij studeerde snel af en werd
+officier van gezondheid". Als zoodanig werd hij te
+Vlissingen geplaatst en schreef daar zijn dissertatie
+Observationes anatomico-pathologicas de centro
+nervoso". Men staat vol bewondering voor de be
+
+gaafdheid van den man die, in een tijd dat een
+bruikbaar mikroskoop nog niet bestond, met het
+bloote oog zulke nauwkeurige waarnemingen over
+hersenvliesontsteking wist te doen.
+Overgeplaatst naar 's Gravenhage vond de jonge
+geleerde, die, overal waar hij kwam, de eerste wist
+te zijn, een volmaakte gelegenheid zich te ont
+
+plooien en gelijk hij zelf uitdrukt kennis te nemen,
+zoowel van het hofleven, als van het staatsleven,
+van de politiek en van de kunst".
+Ofschoon Donders den Haag slechts noode verliet,
+begreep hij toch, dat het op zijn weg lag, te dingen
+naar een positie als docent. Hij was immers niet
+alleen een groot meester, wanneer hij door scherpe,
+ja ongeëvenaarde waarneming feiten verzamelde,
+maar ook wanneer hij het uit die feiten getrokken
+weloverwogen en zorgvuldig doordachte besluit, in
+een meesterlijken vorm wist uit te drukken. Daarom
+was het voor hem noodzakelijk te doceeren.
+Doceeren was zijn lust en zijn leven, haast zou men
+zeggen: ,,zijn roeping".
+Het sprak derhalve van zelf, dat men een zoo
+veelzijdig man aan de Universiteit te Utrecht
+trachtte te verbinden. Hij werd in 1847 aan die
+Universiteit tot buitengewoon hoogleeraar benoemd
+om onderwijs te geven in de anatomie, de histologie
+en de physiologie. Donders aanvaardde dit ambt met
+een redevoering„De harmonie van het dier ijk leven."
+Ter gelegenheid van de herdenking van Donders'
+honderdsten geboortedag, 27 Mei 1918, zegt
+Pekelharing treffend en volkomen terecht: Elk college
+van Donders was een kunstwerk. Het eenige
+bezwaar, dat er misschien tegen kon worden
+ingebracht, zou zijn, dat hij de moeilijkste zaken zóó
+helder en geleidelijk voordroeg, dat een student
+allicht zich kon laten meesleepen en den indruk
+kon krijgen dat ze ook eenvoudig waren".
+
+IN Utrecht trof Donders den beroemden schei
+
+kundige Gerrit Jan Mulder. Te zamen met den
+zoöloog Prof. Harting en met Jac. Moleschott werkte
+Donders bij dien grooten man. Hij leerde er voor
+het eerst den mikroskoop kennen en verdiepte zich
+daarmee in het onderzoek der dierlijke weefsels.
+Hij deed opmerkelijke waarnemingen op dit gebied,
+maar was te veelzijdig om zich uitsluitend tot de
+histologie te kunnen bepalen.
+Toen in 1851 de oogspiegel door Helmholtz werd
+ontdekt, behoorde Donders onder de eersten die dit
+instrument gebruikten. Het werk van vier mannen:
+Helmholtz, den physicus, Sir William Bowman,
+den anatoom-klinicus, Donders, den physioloog en
+von Graefe, den klinicus, vestigde de oogheelkunde
+op een zoo stevigen wetenschappelijken grondslag,
+zoodat zij als een afzonderlijk leervak haar intrede
+in het algemeen geneeskundig onderwijs kon doen
+en van toen af voor goed in het verband van het
+geneeskundig onderwijs is ingeschakeld.
+Vraagt men, hoe het toen ter tijd met het voor
+
+schrijven van brillen was gesteld, dan moet het
+antwoord luiden, dat dit de ruwste empirie was.
+Donders begreep dit beter dan iemand anders. Het
+kostte echter vele jaren van ernstigen arbeid eer in
+1864 van 2iJn hand het boek kon verschijnen: On
+the anomalies in the accomodation and the refraction
+of the eye", („Over afwijkingen in de accomodatie
+en refractie van het oog") dat een volkomen om
+
+wenteling te weeg bracht. Als met een tooverstaf
+was door den physioloog Donders orde gebracht in
+een grooten chaos. Hij legde den grondslag voor een
+logische en betrouwbare brillenbepaling. Hij werd
+daarmede de schepper van het eerste vak dat zich
+van de chirurgie afsplitste, de ophtalmologie.
+De physiologie maakte Donders tot oogarts. Op
+zijn ophtalmologischen arbeid is de warme vriend
+
+schap met Sir William Bowman van grooten invloed
+geweest. Nadat Donders in Engeland het vermaarde
+Moorfeldhospitaal voor ooglijders" had bezocht,
+stichtte hij, juist 80 jaar geleden, het Nederlandsch
+Gasthuis voor ooglijders". Een groot deel van zijn
+levensarbeid heeft hij daar gegeven, bijgestaan door
+Herman Snellen Sr. en anderen.
+
+TOEN ik, na in 1874 het propadeutisch examen
+te hebben afgelegd, de colleges in de Physiologie
+van Donders mocht volgen, kon ik volkomen de
+uitspraak van Pekelharing bevestigen: Elk college
+van Donders was een kunstwerk" . Elk college was,
+gelijk alles wat Donders deed, met de grootste
+zorgvuldigheid voorbereid, n wat vorm, n wat
+inhoud betrof.
+Donders kende al zijn studenten, hij wist wat zij
+waard waren, hij wist hen te leiden en overeen
+
+komstig hun gaven te ontwikkelen.
+Al in mijn studententijd hield Donders zich bezig
+met de studie der kleurenblindheid. Een jong, be
+
+gaafd, kleurenblind student hielp hem bij die studie.
+Deze had den arbeid van Donders voldoende be
+
+grepen om te beseffen waarom het ging, maar hij
+was nimmer bereid de eindresultaten van die studie
+na den dood van Donders op schrift te brengen. Toch
+waren de resultaten, welke tijdens het leven van
+Donders over dit onderwerp gepubliceerd zijn, ge
+
+noegzaam voldoende om tegenover de tegenwer
+
+pingen van den Heidelberger hoogleeraar Kühne
+de leer der drie grondkleuren naar voren te
+brengen, die thans als de leer van het kleurenzien
+Prof. dr. F. C. Donders (1818—1889)
+volgens Young-Helmholtz-Donders nog voortleeft.
+Toen Donders zeventig jaar was geworden en zijn
+afscheidsfeest was aangebroken was hij nog in zijn
+volle kracht. Aandoenlijk was het oogenblik, toen
+een kleine man met een schippersbaardje binnen
+
+trad, met driftige pasjes naar het podium liep, om
+daar Donders in de armen te vallen.
+Die man was zijn oude vriend Prof. Moleschott,
+uit Italiëvoor dit afscheid overgekomen. De twee
+vrienden hadden elkaar altijd vereerd en bezegelden
+voor den laatsten maal hun vriendschapsband.
+Immers Donders zou na zijn afscheid niet lang meer
+leven. De krachtige grijsaard kreeg een
+hersenaandoening en dientengevolge een sterke stoornis van
+het diepe gevoel aan de rechterzijde. Tijdens zijn
+ziekte bleek, hoe groot de belangstelling van geheel
+wetenschappelijk Europa voor dezen grooten man
+was. Menig buitenlandsch geleerde kwam hem
+bezoeken, ik noem slechts Hughling, Jackson, Von
+Leyden, Pagenstecher. Het was een zware taak den
+grooten man onkundig te laten van den ernst van
+zijn lijden.
+De groote verdiensten van Donders werden nog
+tijdens zijn leven, hoe kon het ook anders, in alle
+landen van Europa erkend. Achttien jaren achtereen
+was hij voorzitter van de Natuurkundige afdeeling
+der K. Akademie van Wetenschappen te Amsterdam.
+De Hollandsche Maatschappij voor wetenschappen
+kende hem de gouden Boerhaave-medaille toe. De
+Nederlandsche Regeering erkende ten volle zijn
+verdiensten.
+Allen, die het voorrecht hebben gehad, tot de
+leerlingen van Donders te hebben behoord, zullen
+toegeven dat hij als leermeester volmaakt was en
+door hen op handen werd gedragen. Ik ben er als
+leerling van Donders trotsch op, dat ik vijftig
+jaren na zijn dood, een woord ter herinnering aan
+hem mocht schrijven.
+.liiiiiiiiiiiiitiiiiiiiiiiiiHiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+imiiiiiiiiiiiitiiiiiiniiiiiiiimmmiiiiiiiiiiiiiiiim
+niiiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiii
+Merkwaardige berichten
+Gedurende een lange regerings
+
+periode is hij in het ongestoorde be/it
+zijner macht gestorven.''(l)c Vacalurc)
+,,Met inwendige bloedingen heeft
+de G. G. JJ&gt;. den gewonde naar het
+(). L. Vrouwegastliuis overgebracht.''
+_' ' C*'-)
+
+Paindeluxe- brood
+Hij inde de kwitanties en stak liet
+geld in eigen zak." (Msb.)
+Ken verklaring voor liet op liet
+eerste gezicht wellicht paradoxaal
+schijnende feit. liet scheen een para
+
+dox te zijn. Schijnbare pa.radoxen die
+een verklaring behoeven." (H-)
+CHARIVARIA
+
+drukkosten te uevflOi'OCll." (\~cil. S..S'. J
+Het afiU"UiattO normale witte
+licht." ' (M«&gt;-iticU.)
+..IJat zou het boek aan belangrijk
+
+heid als lUK'lurtKH'.t' zeker doen
+winnen." (\\'il. vnni. i n M.O. d,'.}
+Ken miserabele morden ueïl'VuCht."
+Nog meer nieuws over Kuyper
+,In dit geval i;3 een kleinigheid voor
+
+PAG. 15 DE GROENE No.
+Zieners
+De N.R.C, citeert uit een proef
+
+schrift over dr. A. Kuyper:
+Zijn overweldigende persoonlijk
+
+heid \\erpt in ons land haar reus
+
+achtige schaduw over heel de tweede
+helft van de twintigste eeuw."
+en besluit:
+\Yij zien nu ook de reusachtige
+schaduw die ligt over de tweede helft
+
+3124
+dat dr. A. Kuvper tegem
+wordt doorgezaagd, wel niet i
+helft blijft de grootste, m,
+milder
+dan als lieidensch-humanistiscli te
+qualifieecren." (ff-)
+, Het giftgas ligt gereed,
+(linll. W U.)
+Raap het in godsnaam niet op
+om er mee te gooien.
+
+</text>
+<image timestamp="2002:09:13:03:22:36.00" size="310468">D100050X.TIF</image>
+</page>
+</document>

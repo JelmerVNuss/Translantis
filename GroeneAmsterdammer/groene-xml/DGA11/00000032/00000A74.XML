@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320423</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2864
+De Groene Amsterdammer van 23 April 1932
+Wetenschappelijke Varia
+Nogmaals Venus
+door Dr. P. van Olst
+Venus staat nog helder genoeg aan den avond
+
+hemel om ons nogmaals eens af te doen wenden
+van de menschenrommel op onze planeet en eenige
+oogenblikken ons te doenverdiepen in dit juweel
+aan onzen toch zoo rijken sterrehemel.
+De vorige maal besprak ik de schijngestalten
+en de helderheid van deze planeet. Ditmaal zullen
+wij het over duigen hebben, die niet met den om
+
+loop van Venus te maken hebben, maar met den
+aard van de planeet zelf.
+In de eerste plaats komt daarbij de rotatie
+der planeet om haar eigen as aan de beurt, een
+veelomstreden en nog onopgelost vraagstuk. Reeds
+vrijwel bij het eerste gebruik van verrekijkers
+(dus in het begin der zeventiende eeuw) meenden
+de waarnemers vage vlakken op de oppervlakte
+van Venus te kunnen onderscheiden en men
+maakte hiervan gebruik om uit de plaatsverande
+
+ring dezer vlakken den rotatietijd van Venus af te
+leiden, dus den tijd noodig om eenmaal om haar
+as te wentelen. Niettegenstaande de waarnemingen
+hierover dus reeds van zeer ouden datum zijn,
+heeft men tot op den huidigen dag nog geen
+absolute zekerheid over deze rotatieduur gekregen,
+wat zeker opmerkelijk is als men nagaat hoe
+relatief dichtbij of Venus bij ons staat, terwijl van
+verschijnselen die duizende lichtjaren van ons
+verwijderd gebeuren de menschheid ei(;enlijk dik
+
+wijls veel nauwkeuriger op de hoogte is. Men
+vocht hoofdzakelijk over de argumenten voor een
+korte rotatie van iets minder dan ons eigen etmaal,
+en de argumenten voor een zeer veel langzamer
+rotatie n.l. van 225 dagen, dus gelijk aan den
+omloopstijd van deze planeet om de zon, wat
+ten gevolge zou hebben dat Venus steeds dezelfde
+kant naar de zon toekeert, evenals de maan dat
+steeds doet ten opzichte van ons. De vaagheid
+der vlekken op Venus maakte het uitermate
+moeilijk een beslissing te nemen tusschen deze
+twee mogelijkheden. En ten slotte is men zelfs
+zoo ver gekomen dat men de bepaling van de
+rotatie met behulp der vlekken-waarnemingen
+heelemaalin den prallemand gooide, immers men
+begon te twijfelen aan het werkelijk bestaan der
+vlekken. De reden hiervan was dat Villiger merk
+
+waardige proeven nam met volkomen vlekkelooze
+witte bollen, die hij van terzijde belichtte, zoodat
+dus een nabootsing van Venus in haar eerste- en
+laatste kwartier-standen gegeven werd. Daarbij
+bleken eigenaardige schaduweffecten op te treden,
+dip door verschillende waarnemers gelijk gezien
+werden en die toch in werkelijkheid niet bestonden
+en alleen physiologisch te verklaren zijn, dus als
+een soort optisch bedrog ! Deze schaduweffecten
+leken frappant op de Venus-vlekken, dus men werd
+tej-echt achterdochtig op dit gebied. In de laatste
+jaren heeft men met behulp van kleurfilters
+foto's van Venus genomen waarbij alleen bepaalde
+lichtbestanddeelen toegelaten werden tot de
+fotographische plaat. Op deze wijze kreeg men bij
+violet licht ontwijfelbare details te zien op de pla
+
+neetfoto. Maar stellige resultaten over den rotatie
+
+duur hebben zij, meen ik, nog niet opgeleverd.
+Maar daarom niet gewanhoopt. Er zijn wel
+meer onderzoek-middelen. Zoo kan men b.v.
+het Doppler-effect" gebruiken. Een trein die
+ons op reis fluitend passeert, hoort men bij het
+naderen hoog, bij het weggaan laag fluiten, terwijl
+de toon juist omslaat" op het moment van het
+passeeren. Dit komt doordat bij het naderen meer
+trillingen dan normaal ons oor bereiken per seconde
+(dus de toon hooger lijkt) terwijl bij het weggaan
+minder trillingen per sec. ons oor treffen (dus de
+toon lager lijkt). Hetzelfde geldt voor het licht.
+Bij het naderen van een lichtbron krijgt men
+meertrillingen op het netvlies, bij het weggaan minder
+trillingen. Dit trillingaantal is te constateeren met
+een spectroscoop. Richt men dit toestel achter
+
+eenvolgens op den rechter- en den linkerrand van
+de Venus-schijf, dan moet nien een verschil in
+trillingsaantal vinden, immers de eene rand draait
+naar ons toe, de andere rand draait van ons weg.
+In het eerste decennium der twintigste eeuw
+hebben verschillende onderzoekers deze methode
+toegepast. De een vond 34.5 uur omloopstijd, de
+andere vond heelemaal geen verschil ! Dus ook
+nu weef onzekerheid. Men gevoelt echter hoe
+laviger' hoe minder voor een snelle rotatie; een
+bedrag kleiner dan eenige tientallen dagen acht
+men niet waarschijnlijk. Misschien zal de oplossing
+gegeven worden door stralingsmetingen. Als n.l. de
+rotatie-as van Venus scheef staat op haar baan
+(zooals haast alle planeten vertoonen), dan moeten
+de belichtingspolen" (d. w. z. de uiteinde der as,
+die de scheiding van dag- en nachthelft aangeeft).
+verschillen in uitstraling.
+In de figuur zijn deze assen aangegeven bij
+een of andere willekeurige schuine stand der
+rotatieas. Men ziet dan zeker wel dat het punt A juist
+in het nachtgebied gedraaid heeft en B in het
+daggebied. Men kan dus een temperatuurverschil
+verwachten tusschen A en B. Vermoedelijk zal
+B warmer zijn dan A, dus ook sterker uitstralen
+dan A. Uit dit stralingsverschil zou men conclusies
+kunnen trekken over de rotatieduur. Inderdaad
+heeft men met de uiterst verfijnde techniek op
+gebied dezer stralingsmeting verschillen tusschen
+deze belichtingspolen gevonden. De zuidelijke pool
+gaf een krachtiger warmte-straling. Men moet
+echter meer gegevens hebben eer men vaststaande
+conclusies kan trekken.
+Met de rotatie hangt ook het vraagstuk vap
+den dampkring samen. Als Venus nog maar een
+smalle sikkel vertoont (bij de onderste conjunctie)
+ziet men een lichtlijn, die veel meer dan een
+halve cirkelomtrek beslaat, terwijl de grens va.n
+dag en nacht precies de heljt van de omtrek moet
+afsnijden dus 180°! Dit is alleen te verklaren
+door lichtbreking in een dampkring. Het vreemde
+is dat de spectroscopische onderzoekingen geen
+zuurstof of waterdamp met stelligheid konden
+aantoonen. Dit is alleen te verklaren als Venus
+wel omgeven is door een dampkring, maar hierin
+een uitgestrekte, dikke, hooggelegen wolkenlaag
+bevat. Het zonlicht kaatst tegen den bovenkant
+dezer wolken terug en doorloopt dus alleen even
+de allerhoogste en ijlste luchtlagen waardoor zij
+spectroscopisch niet sterk beinvloed kunnen wor
+
+den, zoodat men zou meenen dat er geen damp
+
+kring was, als de lichtbreking niet anders leerde.
+Deze wolkenlaag verklaart dan meteen de groote
+albedo van Venus, dat is de verhouding tusschen
+de hoeveelheid licht die Venus treft en de
+hoeveelheid, die zij hiervan terugkaatst. Deze
+albedo is zeer hoog n.l. bijna O.C wat in de
+buurt komt van de albedo van sterk belichte
+aardsche stapelwolken.
+Maar deze wolkenlaag voert ons weer naar de
+rotatie-duur terug. Wanneer n.l. Venus langzaam
+roteert, eens in 225 dagen, dan moet de eene
+helft eeuwige nacht hebben en een zér lage
+temperatuur, terwijl de andere helft zeer warm
+wordt. Als dit zoo was zou al het water op Venus
+reeds verdampt zijn en al deze damp als eeuwig
+ijs zijn neergeslagen op de nachthelft, zoodat Venus
+dan geen wolkenlaag' kon hebben. Men ziet dus
+dat, al is de rotatie veunoedelijk veel langzamer
+dan de oorspronkelijk gemeten snelle, rotatie, zij
+toch waarschijnlijk niet zóó lang is als men
+vroeger de langzame rotatie onderstelde.
+De Gehavenden
+
+van het Van-Gogh-proees
+Niet ieder proces verloopt op dezelfde manier;
+niet ieder proces eindigt met een aantal gehavenden.
+Maar het is niet meer te ontkennen; het proces
+over de Vincent's te Berlijn heeft ons ten slotte
+begift'gd met meer dan n gehavende voor
+altijd ! Het zijn toch de Hollanders, die naar
+Berlijn trokken om hun zaken" te verdedigen,
+die ons als zoodanig zijn weergekeerd (behalve
+de scheikundige de Wild, die alleen zijn onder
+
+zoekingen en de gevolgtrekkingen daaruit, had te
+herhalen). De andere belanghebbenden en be
+
+langstellenden" zijn er inderdaad niet zeer frisch
+afgekomen; er hangt een onaangename reuk over
+en om dit proces. Maar wie waren die belang
+
+hebbenden? Ten uiterste belanghebbend waren
+Bremmer en Scherjon. Wij zullen ons bepalen tot
+Bremmer. Deze lijkt mij voor altijd in waarde
+verminderd. Zijn omgang (of hoe wilt ge het
+noemen?) met een Wacker, die reeds toegegeven
+heeft, dat een aantal der van Gogh's valsch waren,
+lijkt mij een pijnlijk geval toe, en die omgang
+wordt niet te-niet-gedaan door een handigheidje,
+een markthandigheid, dat het Bremmer geen
+belang inboezemt, waar een schilderij van
+
+daan komt, omdat dit wellicht zijn oordeel
+zou kunnen beïnvloeden. Zóó iets bewijst op
+zijn hoogst de onzekerheid van B.'s oordeel
+en niet zijn moreele of aesthetische zuiverheid;
+wij zien daarin 'dan ook meer een hoogmoedig
+gebaar om zijn angst te verbergen dan iets anders;
+er is hierin niets van een grooten stijl van doens.
+Kn dan zijn ontroerde" oratie over Vincent voor
+den rechter, die niets behoeft te zijn van een
+kunstgevoelige? Het is een nieuwe poging om zich
+als zuiver voor te doen, en het lokken van Justi
+door dezen te loven voor den aankoop van een Van
+Gogh; het is, opnieuw, niets anders dan het aan
+
+bieden van een klontje suiker door iemand, die in
+niet-frisch water wegzakt, aan een onverschillige.
+die op den kant staat. (Het Bremmer anders zoo
+zeer eigene, het apodiktische, werd ten bate van
+de veiligheid lichtelijk omsuikerd). Maar hij moest
+zich, hij bovenal, verdedigen. Het ging om de
+autoriteit, die hij zich verwierf over een willige
+kudde; het ging bij Bremmer om de baet van zijn
+leven; eenigszins om zijn toekomst (waarmee die
+van Scherjon enz., is verbonden). Want verloor
+deze détail-aesthetikus een bepaald adviseurschap,
+hoe zou hij tuimelen bij velen, die nu, om de
+koopkracht achter hem, willig zijn voor zijn
+allesuitleggende redeneeringen en dictatuur ! Het ging
+om die autoriteit, die in den laatsten tijd reeds
+duidelijk aan gezag verloor en daarom was Van
+Gogh in dit proces voor Bremnier schijnbaar
+primair, in wezentlijkheid secundair. Gelijk krijgen
+(al is het niet gelijk hebben) was primair, en ver
+
+zekerde nog een tijd voortgaan op den weg, dien hij
+reeds lang be-gaat ! Maar •.. Bremmer is voor mij
+een der gehavenden door dit proces en wat van
+den famulusals de patroon in dit geval verkeert?
+Wat van Cornelis Veth, de plotselinge held met
+den huilerigen stijl, in de bekende brochure, welke
+brochure zóó toevallig, toevallig, toevallig juist
+voor dit proces verscheen en nog eens wat van
+Bremmer's anderen adjudant.
+Wanneer ik een leek was in den doolhof
+deischilderkunst, zoudt ge meenen, dat ik ze ooit als
+goede gidsen koos?
+Ten slotte: wat ook van Baart de la Faille, den
+tegenstander in dit proces van Bremmer cum suis,
+en wat van zijn plotselinge bekentenis, de wijziging
+in zijn inzichten, die ons verraste en den bekenner
+voor goed beroofde van zijn autoriteit? Twee
+dingen zijn ons maar mogelijk te begrijpen in dit
+geval der wijziging: Of de la Faille is een man,
+afhankelijk in zijn oordeel te veel van stemmingen
+en zijn oordeel blijft steeds zwevend, en het wijzigt
+zich zóó licht, dat het hier bijna aan opportuniteit
+doet denken, of er bestaat een visueele, enz.
+onkunde in zijn kritiek, die 't hem gemakkelijk
+maakt in een tegengestelde richting te gaan en
+dat ook deed op een allerbelangrijkst moment !
+Ook de la Faille is voor mij gehavend terug
+gekomen uit Berlijn.
+Misschien heeft ook hij gedaan zoo als de anderen
+moeten doen, die uit Berlijn weer naar -Holland
+moesten komen en dat is: in zichzelf wat schuw,
+zich uiterlijk onbezorgd gebaren: apodiktisch doen.
+maar weten: de uittocht uit Berlijn is de uittocht
+der gehavenden.
+A. PLASSCIIAERT.
+
+</text>
+<image timestamp="2002:09:26:22:13:19.00" size="247568">00000A74.TIF</image>
+</page>
+</document>

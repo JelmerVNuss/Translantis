@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301122</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 22 NOVEMBER 1930
+Na. 2/po
+P-t
+Ei
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~- Telefoon 37906
+K6UFEIISSE1 [m imEZM rot RIITOIGEI if AOTO'S)
+CREMATIE. - TRANSPORTEN.
+N. V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+wan! enkel de keur van
+
+onze groote familie
+wordt toegelaten - de
+beste kwaliteit door de
+zon gerijpte tomaten,
+elk vol van die koste
+
+lijke, heilzame krachten,
+die voor een uitste
+
+kend voedsel een
+vereischte zijn.
+Enkel het allerbeste gaat in Maggi's
+vermaarde 20 soorten.
+
+
+M AGGI5 SOEPEN
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+:N.V. v/k Gebr, BREEN
+
+NIEUWENDIJ K 173
+HAARLEMMERSTRAAT 64
+ROZENGRAGHT 53
+Ateliers voor reparatlèn aan
+Uurwerken. Goud en Zilver
+G. J. DE KONING 8 ZOON
+Keizersgracht 447,
+Opgericht Ao. 17 ^l
+
+COMPLETE BADKAMERS.
+•iiiiiiiiiiiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiin
+llllllllllllllllliiillllllllllllllllllllllllllllllllllllllllllllllllllllllllM
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 2.jo per kwartaal (fojo
+voor incassokosten) of f 10.—per
+jaar bij vooruitbetaling
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 ~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. HL POLMAN TUIN
+OVERTOOM 526 &lt;- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+PLAIDS
+VOETZAKKEN
+AUTO-OVERSCHOENEN
+VERWEEGEN 6 KOK
+AMSTERDAM
+KALVERSTR. 86-90
+DEN HAAG
+NOORDEINDE 64c.
+PEEK £ CLOPPENBURG
+Voornaamste Kleedinqinrichting
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:09:32:05.00" size="168670">000008P4.TIF</image>
+</page>
+</document>

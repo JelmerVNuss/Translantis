@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280512</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+,
+ri.v. GOED EVVAACEN-GOUDA
+COELIM'S
+in Cellopbe verpakt
+20 CENT.
+Utrechtsche Assurantie-Mij,
+UTRECHT « Westerstraat 5
+Ziekte- en
+OngevallenVerzekering en
+ZEILINGA
+PRINS HENDRIKKADE 120 - Tel. 41709-40717
+
+C A N O'S
+TENTEN
+KAMPEER
+
+UITRUSTINGEN
+
+VRAAGT PRIJSCOURANT
+AMSTERDAM
+CHRYSLER &amp; OLDSMOBILE
+AUTOMOBIELEN
+ACDDS lifll l IMIf WETERINGSCHANS 109/111
+ULDIf . WllLLIIllV _ AMSTERDAM _
+CEFITDUM^SËLAflD
+GOCDKOOPE BOUVGDOriD
+urroTEKEno OHDEDW-J
+f BQÖCMR.UKC OMGEVin
+
+Inlichtingen:
+Gemeente Grondbedrijf
+Westsingel 45
+A MEBSF O ORT
+(Telefoon 15 en 406)
+Kijk "geïlluBtreerde brochure
+pi» verzoek gratis en
+UKDOORNS?
+Een druppel
+GETS IT
+lij passen maar
+
+Oh!mijn likdoorn
+
+Werkt als bij tooverslag op alle
+soorten likdoorns, ongeacht waar
+zij zitten en hoe erg de pijn is.
+Even aanstippen en de pijn is weg.
+Bijna ongelooBijk. Dan verschrom
+
+pelt de likdoorn en verdwijnt. Een
+wetenschappelijk middel gebruikt
+door danseressen, wandelaars,
+acteurs, dokters en duizenden ande
+
+ren. Wacht U voor namaak. Koopt
+de echte Gets-it" bij drogisten
+Het KENMERK van
+een GOED horloge.
+J. R KARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+., •* RIJKE •*
+SÓRTEERING
+Abonneert U op
+De Groene Amsterdammer
+l2.000.00o'
+
+SOPLA'S PER WEEK
+
+DE AMERICAN MACHINE AND
+FOUNDRY COMPANY, NEW YORK
+demonstreert te Amsterdam aan het
+Damrak (tweede huis vanaf den Dam)
+hoe met een harer nieuwste
+sigarenmachines onze SOPLA-sigaren worden
+vervaardigd.
+Sommigen meènen, dat voor 5 ets.
+geen goede sigaar kan worden geleverd,
+maar deze vernuftige machines besparen
+docv de massa-fabricage van n model,
+n qualiteit, n verpakking zooveel
+op het ouderwetsche handwerk, dat wij
+U thans weer een pracht-sigaar, even
+
+als vóór den oorlog, voor 5 ets. kunnen
+leveren.
+Laat U toch door den lagen prijs niet
+weerhouden een proef te nemen.
+Onze Ho-baerillos ad i1/? ets. en onze
+sigaren ad ; ets. zijn in bijna alle
+sigarenwinkels in Nederland en
+Nederlandsch-Indiëte verkrijgen.
+SOPLA-Fabrieken,
+HOUBAER',&amp; Co.
+
+Amersfoort.
+N.V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+MODERNE TUINMEUBELEN
+MODERNE EIKEN STOELEN
+Gratis Catalogus 1928. A. J. v. GROENINGEN, Brederodestraat 4, Amsterdam
+of bij De Oirschotsche Stoelen" Fabriek. Tel. 19 Oirsehot.
+Het prima Utrechtsch fabrikaat
+
+VAN RIJN's
+Mosterd
+
+is toch altijd nog beter!
+UTRECHT _ Nieuwekade 12
+
+</text>
+<image timestamp="2002:09:04:14:51:54.00" size="136247">000006K3.TIF</image>
+</page>
+</document>

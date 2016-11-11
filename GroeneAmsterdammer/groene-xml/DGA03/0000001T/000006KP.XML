@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280519</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+19"Mei
+e uroene
+cekblad voor' Nederland
+Abonnementsprijs per Jaar f 10.
+Advertentlën ƒ0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+Losse nummers 25 cents
+HOFLEVERANCIERS VAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+MONSIEUR
+ERKELENS
+WIJNHANDELAREN
+
+ROTTERDAM'LEUVEHAVEN 34 - Tel. 2456
+FILIALEN:
+DEN HAAG - Anna Paulownastr. 36 - Tel. 32532
+HELDER Hoofdgracht 37 Telefoon 83
+
+VRAAGT ONZE PRIJSCOURANT
+FEBRUARI 1928
+
+
+
+
+
+vANhELLE'5
+TABAK
+CrrVfiAAi
+GROEM
+BLAUW
+ROOD
+GEEL
+20cr
+5 Gr'
+3cr'
+OCr
+PERRONS
+IS IWALITEIT!
+
+
+
+
+
+H.A.KLOOSTERHUIS
+AMSTERDAM
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H,
+-del xtensiDl*
+.eupgorctel I^xtens
+
+van prima Fransch Elastiek,
+
+maag insluitend, maar recht van boven,
+kleur rose, 55 centimeter lana, leveren wjj
+onder GARANTIE
+tot heupwijdle 100 c.M. nieuwen prijs t 14.
+verder tot 115 c.M. ,, ,, lo.
+
+Bij schriftelijke bestelling gelieve men als maat
+op te geven de wijdie over breedste det'l van de
+heupen, over ondcrkleeding gemeten.
+Voorhanden een enorme
+EXTENSIBLE"
+iVlastieken JnLevipgoroels
+
+in Engelsche kwaliteiten vanat f 4.90
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heup gordels
+'arandeeren wij.
+
+</text>
+<image timestamp="2002:09:04:15:35:09.00" size="111568">000006KP.TIF</image>
+</page>
+</document>

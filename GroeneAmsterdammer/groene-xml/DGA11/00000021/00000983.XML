@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300517</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 17 MEI 1930
+Bij den dood t^m Mr. F. J.
+Teekening voor ^dèGröetièAmsterdammer" door L. J. Jordaan
+f.
+P Het licht dat verdween
+DE S.D.A.P. treurt om het overlijden van haar
+stichter, van den .man, die een menschenleven
+lang aan het hoofd van de partij heeft gestaan, die
+zijn carrière voor haar heeft opgeofferd, voor zijn
+politiek beginsel met zijn familie en zijn vrienden
+heètft gebroken, die zich aan het hoofd der ver
+
+drukten heeft gesteld, toen de kans op succes uiterst
+gering was en die de partij tot overwinningen heeft
+gevoerd, die op het tijdstip, dat hij tot haar over
+
+ging, in zijn stoutste verwachtingen niet gedroomd
+konden worden.
+En met de S.D.A.P. heeft heel Nederland gisteren
+een afscheidsgroet gebracht aan den staatsman,
+wiens vlammend woord in politieke vergade
+
+ringen de massa tot vervoering wist te brengen
+en wiens klemmend pleidooi in 's lands
+vergaderzaal de besten in den lande dwong tot nauwkeurige
+nadere overweging van hun beginselen, die niet
+met de zijne strookten.
+H Wie Troelstra voor het eerst in het openbaar
+hoorde spreken vroeg zich in het begin van zijn
+rede met verbazing af, waaraan deze redenaar
+zijn reputatie had te danken. Het begin van het
+betoog was somtijds weinig verzorgd. De feiten
+werden aanvankelijk zonder logisch verband en
+zonder er veel nadruk op te leggen bijeengebracht.
+Doch langzamerhand kwam de spreker tot meer
+
+dere volmaaktheid. Wat aanvankelijk verward
+en zonder eenig verband scheen, paste in elkander.
+Aan een beschrijving van de feiten sloten zich de
+beschouwingen van den redenaar aan. Met den
+spreker kwam geleidelijk het publiek in vervoering.
+Wie het niet met den redenaar eens was en tot
+taak had met hem in debat te treden, moest zich
+met alle krachtsinspanning aan den draad van zijn
+eigen betoog vastklemmen, om niet zijns ondanks
+in den woordenstroom te worden meegesleurd, en
+ieder houvast te verliezen.
+Dat is het beeld van Troelstra den volksredenaar,
+dat medestanders en tegenstanders, die hem ooit
+in het openbaar hebben hooren spreken, nimmer
+zullen vergeten.
+De theorie, die de S.D.A.P. nog altijd officieel
+huldigt, leert, dat er twee klassen bestaan in de
+maatschappij, die door de economische omstan
+
+digheden tot den strijd met elkander worden
+gedwongen: de heerschende klasse der bourgeoisie
+en de verdrukte klasse der arbeiders. De S.D.A.P.
+wil door den klassenstrijd de verdrukte klasse
+tot heerschappij over de bourgeoisie voeren.
+Van huis uit behoorde Troelstra niet tot wat hij
+en zijn geestverwanten de arbeidersklasse noemen.
+Zijn opvoeding en zijn beroep dreven hem niet
+in die richting. Het was zijn overtuiging, omtrent
+hetgeen rechtvaardig was, die hem dwong mot
+zijn klasse en met zijn verleden te breken en het
+voor de arbeiders op te nemen. Doch de eigen daad
+van zijn verzet is de ontkenning van de officieele
+leer, die door zijn partij en door hemzelf wordt
+gehuldigd. Zijn geheele leven is een bewijs, dat de
+klassenstrijd niet bestaat in den scherpen vorm,
+waarin hij door de S.D.A.P. wordt verkondigd
+en dat het niet altijd de economische omstandig
+
+heden zijn, waaruit de ideeën voortvloeien, doch
+dat somtijds de ideeën van een enkel individu in
+staat zijn de economische omstandigheden te be
+
+nvloeden.
+Doch zelfs, wie Troelstra's leer onjuist acht en
+wie bovendien rekening houdt met de fouten, die
+hij ook naar het oordeel van zijn medestanders
+heeft begaan, ziet met eerbiedige bewondering
+terug op dit menschenleven, dat thans is beëindigd,
+omdat geen enkele bestrijder van zijn leer en
+niemand, die zijn daden critiseert, ook maar n
+smet kan werpen op zijn karakter.
+Van weinig dingen kunnen wij menschen zoo
+zeker zijn als van dit: dat wij fouten zullen begaan.
+in onze redeneeringen en daden, die afkeuring ver
+
+dienen. Volmaaktheid in deze opzichten is voor
+geen mcnschenkind weggelegd.
+En dit is het eeuige, dat wij kunnen wensehen.
+Dat aan ons graf kan worden gezegd, wat van
+Troelstra kan worden getuigd: ook wie zijn over
+
+tuiging niet kon deelen, wie zijn daden critiseerdp,
+heeft aan zijn goeden trouw nimmer getwijfeld.
+A. C. JOSEPHüS JITTA
+
+</text>
+<image timestamp="2002:09:25:16:26:19.00" size="256696">00000983.TIF</image>
+</page>
+</document>

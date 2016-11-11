@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330218</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2907
+De Groene Amsterdammer van 18 Februari 1933
+15
+BeurS'Sensaties
+C. A. Klaasse
+STAURANT:
+CHAMPAGNE KRUG&amp;CO
+REIMS
+IN KWALITEIT AAN DE SPITS?
+t
+
+r
+Kale idoscoop
+Het is nu al maanden lang een lauwe, ietwat
+verveelde' stemming die er op de beurs heerscht.
+Die toestand van apathie heeft eigenlijk sedert
+het najaar van 1929, toen de eerste cirsissymptomen
+zich kenbaar maakten, de overhand gehad, met uit
+
+zondering dan natuurlijk van de eerste maanden
+waarin de toomelooze koersval een sensatie op
+•zichzelf was, ook daarna kwamen telkens schoks
+
+gewijze periodes van sterke koersinzinkingen, af
+en toe afgewisseld door maar o zoo korte tijd
+
+vakken van opleving en koersredres, totdat, voor
+zoover de opgaande lijn althans betreft, de eerste
+werkelijke sensatie werd beleefd verleden jaar
+Juli, toen een herstel, en een zeer krachtig zelfs,
+inzette dat tot in September duurde. Het was wel
+voornamelijk het verdrag van Lausanne dat die
+laatste opleving op zijn geweten had; alom ver
+
+wachtte men daarvan wonderen van gunstigen
+invloed op beurs en bedrijfsleven. Dat deden al
+
+thans de optimisten. De minder emotioneele be
+
+oordeelaars achtten weliswaar den invloed, die voor
+
+zien werd van deze overeenkomst met Duitschland,
+sterk overdreven, maar niettemin zagen ook zij de
+situatie wat lichter in, omdat zij hoopten dat de
+bloote verwachtingen dier optimisten, mits ze
+maar voldoende in getal waren met hun satellieten,
+de conjunctuur wel een opwaartschen duw zou
+geven. Bijna alle goederenmarkten maakten een
+sprong, en wanneer dat maar lang genoeg duurde
+zou het immers op zichzelf al of de beweging nu
+gemotiveerd was of niet een steun zijn voor de
+zoo zwaar getroffen grondstof nijverheid, en van
+daaruit kon dan de opleving als een sneeuwbal
+verder rollen. ...
+Deze hausse van den vorigen zomer is tot
+nu toe recordhoudster onder de opwaartsche
+reacties in deze depressie zoowel wat levens
+
+duur als intensiteit betreft. Maar niettemin, ook
+aan deze sensatie kwam een eind, van al dit
+moois is niet veel meer over. Verscheidene fondsen
+zijn niet meer tot het laagste punt van vóór dat
+intermezzo teruggezakt, dit geldt vooral ook voor
+enkele favorieten van onze markt, maar de
+algemeene stemming is zeker niet beter dan voorheen.
+De eenige positieve vooruitgang die sinds het
+voorjaar 1932 valt te boekstaven is: dat het vrijwel
+nietsontziende wantrouwen op financieel terrein
+dat eerst na anderhalf a twee jaar crisis plot
+
+seling bijna de heele wereld infecteerde, nadat de
+bacil bij de Creditanstalt zijn eerste slachtoffer
+had gemaakt in belangrijke mate is overwonnen.
+Weliswaar is de situatie nog niet normaal, maar
+er is een merkbare verbetering ingetreden, en men
+is vooral veel en veel kalmer. Bij ons b.v., waar de
+biljettencirculatie verleden jaar een hoogste cijfer
+heeft bereikt van circa 1050 millioen, is sedert dien
+heel langzaam, en vooral juist in de laatste maan
+
+den, dit cijfer teruggeloopen tot rond 940 millioen.
+doordat angstige deposanten de biljetjes weer uit
+safes en oude kousen hebben gehaald, en bij hun
+banken ten deele ook bij spaarbanken terug
+
+gebracht. En wanneer niet de geldovervloed hier
+te lande zoo groot was dat op deposito en rekening
+
+courant practisch geen rente vergoed kan worden,
+dan zouden waarschijnlijk nog meer van die op
+
+gepotte biljetten bij de banken teruggevloeid zijn.
+Ook het wantrouwen tegen de munt is, al veel
+eerder overigens, verminderd, en practisch ver
+
+dwenen. Dit blijkt in de eerste plaats uit de
+obligatiemarkt, waar al in Juni van het vorige jaar de
+opleving inzette, en vervolgens uit het terugkomen
+van goud uit de handen van het publiek bij de ban
+
+ken, en voor belangrijke bedragen ook bij de
+Nederlandsche Bank. Ook in de meeste andere landen
+heeft men een soortgelijk verschijnsel kunnen
+waarnemen.
+En juist op dit gebied is ons thans heet van
+de naald een nieuwe sensatie bereid in Amerika.
+Nu was men juist voor den toestand der banken
+daar over het algemeen het minst op zijn gemak.
+Het was bekend dat een groot aantal instellingen
+direct en via de met haar gelieerde effectengros
+
+siers, bondhouses enz. haar middelen op groote
+schaal hadden vastgelegd in actief dat eensdeels
+zeer illiquide was, en anderszij ds zeer sterk in
+waarde was gedaald. Dit gold in de eerste plaats
+voor een groot aantal plaatselijke instellingen,
+die steeds door de wetgeving en de
+overheidssympathie in bescherming zijn genomen tegen het
+branch-banking, maar die nu verreweg de zwakste
+plekken vormen. Maar ook onder de grootere
+zusters zitten zwakken. Dat het Amerikaansche
+publiek het nuttig heeft geoordeeld een groot
+deel van zijn deposito's in veiligheid te brengen
+blijkt wel uit de volgende cijfers der
+biljettencirculatie: in Juni 1931 was de omloop nog 1550
+milliard dollars, in Juli 1932 niet minder dan 2870
+milliard. Maar dat ook daar te lande sedertdien
+de wantrouwensgolf zich eenigermate in ebbety
+terugtrok blijkt uit het feit dat nu het cijfer is
+gedaald tot 2770 milliard, waarbij men moet be
+
+denken dat de goudvoorraad vrij sterk is aange
+
+groeid, zoodat de bankdeposito's veel sterker
+stegen, dan de circulatie daalde. Intusschen ging
+een groot aantal instellingen terziele, waarbij
+enkele banken van beteekenis, zoo b.v. de Bank
+of America. Het aantal bankfaillissementen bereik
+
+te verleden jaar het respectabele cijfer van rond
+2000. En dan moet men nog bedenken dat vele
+zieken althans voorloopig werden gered door de
+medicijn haar toegediend door de speciaal voor dat
+doel gecreëerde en met staatsgeld werkende
+Reconstructien Fina.nce Corporation, welker doel
+het was crediet te verstrekken aan instellingen, die
+niet voldoende credietwaardig waren on» op nor
+
+male wijze bij de banken te kunnen aankloppen.
+Een groot aantal spoorwegmaatschappijen pro
+
+fiteerde hiervan, terwijl omvangrijke bedragen
+ook werden verstrekt aan banken die waren
+vastgeloopen.
+Desondanks vielen er nog steeds lijken, en
+zoo kwam hier Dinsdagmiddag plotseling liet
+bericht dat in den staat Michigan een
+bankmoratorium was afgekondigd. Geruimen tijd geleden is
+een soortgelijke maatregel getroffen in Nevada,
+maar de beteekenis van deze stap is ongetwijfeld
+veel verder strekkend, omdat immers Michigan
+een zeer belangrijk industrieel centrum is, terwijl
+de instellingen die hier de stoot hebben gegeven
+tot het treffen dezer voorziening van veel grooter
+omvang zijn. De directe stoot in deze richting was
+nl. de situatie van de TJnion Guardian Trust.
+een van de dochters der Union Guardian Group
+Inc. die o.m. de Guardian National Bank of
+Oommerce met rond 110 millioen dollar deposito
+omvat, terwijl de heele groep niet minder dan ruim
+een milliard aan vreemd geld heeft. Intusschen
+zullen waarschijnlijk lang niet alle instellingen,
+die deel uitmaken van het concern, in moeilijkheden
+blijken. De Union Guardian Trust nu. met circa
+25 millioen depositi heeft bij haar bankzaken
+groote verliezen geleden, en was bezig deze te
+liquideeren. Teneinde de deposito's te kunnen
+terugbetalen was hulp van de Refico noodig,
+die trouwens destijds al 15 millioen had voorge
+
+schoten. Door de ervaringen van den laatsten tijd
+en vooral door de ondervonden critiek voorzichtig
+geworden, verlangde deze instelling achterstelling
+van de vorderingen van enkele groote deposanten,
+voornamelijk automobielfabrieken uit dit rayon.
+Het schijnt dat Ford de kwaaie pier is geweest
+en geweigerd heeft, waarop de Refico haar mede
+
+werking introk. Terloops zij hier nog aangeteekend,
+dat als voornaamste oorzaak van de moeilijkheden
+der bank wordt genoemd: crediet verstrekking op
+goederenvoorraden, en hypotheekverleening. Dit
+laatste kan inderdaad nog aanleiding worden tot
+een onafzienbare rij nieuwe moeilijkheden, omdat
+immers in enkele staten de executies kunnen
+worden stopgezet. Wat nu de gevolgen van dit
+speciale geval betreft, het is moeilijk daarom
+
+trent iets te zoggen. De eerste beursdag heeft er
+stevig flauw op gereageerd, veel minder overigens
+dan nog een jaar geleden zou zijn gebeurd toen
+we nog niet zoo gehard waren en niet zulk een dikke
+huid hadden. Maar den tweeden dag trad hier en
+daar zelfs al een licht herstel in. Het is inderdaad
+mogelijk dat het geval geen verdere consequenties
+zal hebben, dat de andere instellingen die tot de
+groep behooren het kunnen blijven bolwerken.
+Maar het zou natuurlijk ook de eerste van een rij
+dominosteenen kunnen blijken, en waar is dan
+het eind. * *
+*
+
+Aangename sensaties zijn in den laatsten tijd
+hoogst zelden op de beurs. Toch komen ze voor.
+Recentelijk hebben ons dat de goudmijnaandeel en
+bewezen. Reeds dadelijk na het loslaten van den gou
+
+den standaard door de Zuid-Afrikaansche regeering
+kwam er. begrijpelijkerwijze, belangstelling voor
+deze fondsen. Immers waren niet juist de
+goudproducenten onder de voornaamste drijvers naar
+het muntverval, dat hun een precies evenredig
+hoogere prijs voor hun product zou verschaffen,
+terwijl de kostprijs althans voor wellicht ver
+
+scheidene jaren zeker niet evenredig omhoog zou
+gaan ? Maar het wilde met de kooplust nog niet
+erg, men verwachtte wel winststijging, maar
+men vreesde, dat de regeering door een extra
+
+belasting een groot deel daarvan zou inslikken.
+Toen nu kort geleden de nieuwe winstcijfers af
+
+kwamen en de eerste verhoogde dividenden, sloeg
+dat zoo in dat een waanzinnige haussebeweging
+ontstond, die aan de beurs te Johannesburg een
+bedrijvigheid ontketende die zelfs voor de gun
+
+stige jaren ongekend was. Ook in Londen wierp
+men zich op goudmijnaandeelen, waarin enorm
+werd geboekt; ook Parijs en in mindere mate
+New-York deden mee. Onze beurs bleef vrij on
+
+aangedaan onder de heele beweging. In de laatste
+dagen is een periode van rust ingetreden, omdat
+nu eenmaal een stijging niet altijd kan doorgaan,
+maar het is zeer wel mogelijk dat straks een
+nieuwe golf begint. Gemotiveerd of niet? Er
+liggen hier inderdaad kansen, goede maar ook kwa
+
+de. Goudaandeelen hebben dit groote voordeel
+dat men min of meer iri de toekomst kan zien wat
+bij andere fondsen helaas niet gaat. De groote
+onzekere factor voor elk bedrijf en in de laatste
+jaren de groote tegenvaller tevens is de prijs
+
+ontwikkeling. Die prijs staat nu juist voor de
+goudmijnen precies vast, zoolang zij althans de
+productie nog kwijt kunnen aan landen, die den
+gouden standaard hebben (eerste onzekere punt
+dat men hoog of laag kan aanslaan al naar men
+
+taliteit). Maar toch schuilen ook in deze bedrijven
+onzekere elementen, niet bij de opbrengst, maai
+
+bij de kosten. En juist de depreciatie van de munt
+heeft die onzekerheid vergroot, /uilen de kosten
+ook stijgen door de pondenval? In elk geval doen
+zij dat voor zoover het betreft materialen, waarbij
+de mate van stijging weer afhangt van de vraag
+of deze uit binnen- of buitenland worden betrokken.
+En wat de loonen betreft, zal er veel afhangen
+van de politiek der vakvereenigingen. liet schijnt
+dat deze van hun aanvankelijk plan om een
+vevhooging evenredig met de depreciatie te eischen
+afzien, maar hoe zicli dat verder zal ontwikkelen
+valt af te wachten. En dan de belastingen ! De
+eerste berichten deden het voorkomen alsof de
+Zuid-Afrikaansehe regeering van plan was de heele
+extra-winst practisch in te slikken voor de schat
+
+kist. Hetgeen dan zou hebben beteekend dat voor
+buitenlanders de waarde der aandeelen zelfs zou
+gedaald zijn sedert de depreciatie, omdat dezelfde
+winst als voorheen dan immers in gedeprecieerde
+ponden zou luiden ! Dit plan schijnt te zijn opge
+
+geven, maar Hertzog is nog steeds aan het bewind
+en er zijn in elk geval belastingen in voorbereiding.
+Hoeveel die voor de mijnen zullen overlaten? De
+beurs beschouwt dit iri elk geval als een risicofactor.
+En dan is daar tenslotte, zooals de Economist
+opmerkt, nog deze derde onzekerheid: de hoogte
+van de goudprijs. hetgeen dus gezien de vaste prijs
+in ..goudvaluta", beteekent de mate van deprecia
+
+tie van het pond; de koers kan stijgen en kan
+verder dalen. Zoodat het maar zeer de vraag is
+wat er tenslotte zal overblijven van de 125 0
+theoretische winststijging die de Economist op
+basis van de huidige pondenkoers eu uitgaande
+van gelijkblijvend loonpeil calculeert. En of dat
+restant niet al in de koersen van nu verdisconteert
+zal zijn, waarbij men toch moet bedenken dat
+voordeelen als deze toch nimmer blijvend zijn
+omdat de depreciatie op den duur toch zich in alle
+regionen moet voortwoekeren", al kan dat he[e
+lang duren, zooals b.v. het geval Belgiëaantoont.
+
+</text>
+<image timestamp="2002:09:26:16:54:47.00" size="261231">D10008CV.TIF</image>
+</page>
+</document>

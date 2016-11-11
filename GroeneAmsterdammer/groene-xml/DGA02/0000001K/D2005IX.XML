@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321210</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HEERÈNKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+"ADRIAAN SCHAKEL
+HEIUGEWEG - TELEFOON 37273
+de uitki
+F
+l
+L
+M Dagelijks2.30,7.30,9.30
+-y FILM EN MODERNE
+MUZIEK
+E
+A
+T
+g
+prinsengracht bij
+de leidschestraat
+telefoon 37460
+k
+N.V. GOEDEWAAGEN's Kon. Fabrieken - Gouda
+BEGRAFENI5 ONDERNEMING
+r%SS" E.KQMIMG.JR TftS5?"
+NIEUWE SPItGELSTRAAT 61 AM5TERBAM
+ittuu'
+BECiRAFEmsaEM NAAR ALLE PLAATS EM
+Wed.H.Rahder&amp;Zn.
+
+WIJNHANDELAREN
+Amsterdam Arnhem
+IIHIIII 's-Gravenhage umm
+Hofleveranciers
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+DE BIJENKORF
+GEEFT EEN
+KINDERBLAD
+UIT
+
+Elke maand ver
+
+schijnt een nieuw
+nummer.
+
+Het omslag van het
+eerste nummer ziet
+er uit als
+nevenstaande teekening
+AMSTERDAM - DFN HAAG - ROTTERDAM
+VAN RIJN'S
+SMOSTÉRD
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+HUIB SLAGER
+Tolhuislaan 71a
+ROTTERDAM
+
+bindt Uw boeken
+en jaargangen keu
+
+rig en zeer billijk in
+van f 0.75 af
+per boek
+Voor
+KERSTMIS
+f8.
+2 i.
+ELKA Kalverstr. 206
+AMSTERDAM.
+TELEFOON 41656
+KEIZERSGRACHT 120
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+TELEFOON 35533
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+
+Specialiteit op
+ethnografisch
+gebied van
+Oost-Indi
+
+</text>
+<image timestamp="2002:09:22:00:10:02.00" size="132394">D2005IX.TIF</image>
+</page>
+</document>

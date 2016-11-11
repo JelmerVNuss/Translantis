@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340414</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 14 April 1934
+N o. 2967
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+T«l. 3O341 2425O
+BUSSUM (Bijkantoor v/h dool)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+l
+*t
+Een
+
+frisch slaatje...
+
+
+maar wat een aan
+
+
+slag op Uw gebit!
+
+Daar denkt U stellig niet aan, als
+Uw heerlijke slaatje wordt opgediend!
+Ook het frissche, groene blad laat,
+evenals alles wat U eet en drinkt,
+aanslag na op Uw gebit in het
+geheel niet minder dan zeven soorten!
+En deze aanslag verdwijnt niet door
+de enkelvoudige werking van vele
+tandpasta's. Hiervoor is de dubbele
+werking van Colgate noodig: de
+oplossende invloed van haar aroma
+
+tisch schuim, dat den aanslag reeds
+grootendeels wegspoelt, en de polijs
+
+tende, waarvoor zelfs de hardnekkigste
+aanslagrestjes op de vlucht slaan.
+Gebruik dus regelmatig Colgate
+minstens tweemaal daags!
+De 7 oorzaken
+tandaanslag
+CQLGATE'S
+TANDPASTA
+In tubes van 90, 50 en 30 et.
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+W. H. POLMAN TUIN-a
+OVERTOOM 526 * Telefoon 82660
+Begrafenissen - Transporten - Crematies
+N.V. Meubelmagazijn Eden"
+Molsteeg ~~ Amsterdam
+SLAAPKAMERS
+Bij een nieuw toilet....
+een nieuwe tasch!
+Voor ccn nieuwe tasch ....
+
+VERWEEGEIV &amp; KOK
+AMSTERDAM,
+Kalverstr. 86-90"
+_I&gt; K X HAAG
+"Woordeinde 64c
+Exclusieve modellen.... en niet duur!!
+n Heerlijk
+nieuwtje l
+Droste's tractatie-mannetje
+heeft een nieuwe lekkernij
+gebracht om iedereen te
+tracteeren. Chocolade tul
+
+pen, de nieuwe voorjaars
+
+vondst van Droste. Neemt
+eens een proefje van deze
+voordeelige en toch zoo . si&gt;aart
+i i i..i . les «oor nf.
+verrukkelijke versnapering. al(,UTn_&gt;Bair.
+Uw leverancier verkoopt
+ze al!
+ALTIJD WELKOM!
+
+</text>
+<image timestamp="2002:10:28:11:10:53.00" size="199237">D200AU2.TIF</image>
+</page>
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210521</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 21 Mei 1921
+DE REDE VAN LLOYD GEORGE
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms ei Co.
+John Buil tot Polen: Niet er in klimmen. Wachten totdat we het hek voor jelui opendoen."
+
+</text>
+<image timestamp="2002:08:24:13:22:55.00" size="245547">D40003IM.TIF</image>
+</page>
+</document>

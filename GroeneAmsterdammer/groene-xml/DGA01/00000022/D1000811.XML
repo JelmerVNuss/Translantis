@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>33</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+T
+PA R A FEU
+HV.PI SPHIMX MAASTRICHT
+
+VEPKOOPvoon HAARLEM E« OMSTREKEN.
+&lt;flk.MA.0KT.
+MAA.E»I_KH«.
+Stoel's Woningbureau
+Bloemendaalscheweg No, 161
+BLOEMENDAAL
+MOBACO
+Bouw Speeldoozen
+i Zeer leerrijk en onderhoudend Speelgoed
+
+ADTï3SarrN.V. BOSCH, HONIG 6 Co,
+DOMSTRAAT 6 - UTRECHT
+iiwnmmimiiiiiimiimmimiHimiinimmiiinmiiiniiiiniiinninmniMnmiuiHiiiiHwuiri
+Van Straalen Monsieur &amp; Erkelens
+WIJNHANDBf,AREN
+
+Rotterdam, Leuvehaven 34
+Filialen DEN HAAG l Prima Kwaliteiten
+HELDER l Billijke Prijzen
+TOKO BOGOR
+SUEZKADEl22a/b DEN HAAG
+TELEFOON 33472
+Import Indische Producten
+Thee, Koffie, enz»
+Extra aanbieding :
+
+AKAR BAHAR banden
+Afdoend middel tegen Jicht en Rheumatiek
+v Vanaf f 1.—tot f 2.50
+EN GROS = EN DETAIL
+Stille Kracht.
+
+Van een smaakvol gekleed
+heer gaat een zekere stille
+kracht uit, die ongetwijfeld
+tot zijn welslagen in het
+leven van groot belangüs.
+
+Zorg ook voor die stille
+kracht in uw leven. Laat
+Kreymborg's Kleeding,
+van prima coupe, een
+
+voudig en smaakvol, ook
+uw stille kracht zijn....
+
+Kreymborg kleedt U goed
+en ... goedkoop l
+O. L. V. E. H.
+'s-GRAVENHAGE Kortenaerkade 3
+
+(Onderlinge Levensverzekering Van JEigen Hulp)
+werd opgericht in 1879 met het doel:
+levensverzekeringen te sluiten tegen vaste premiën en daarvan
+zooveel aan de deelnemers terug te geven als bij een zuinig
+beheer en met voldoening aan de eischen van soliditeit mogelijk
+blijkt" (art. 3 van haar Reglement)
+SPECIALE AANBIEDING
+ZILVERBLANK VERTINDE ZWEEDSCHE
+Vleesch- en Groente-Hakmachines
+in 4 maten, resp. f 4,50, £ 5.50, f6—, f9—.
+Bij elke machine wordt geleverd j een ondermes, een snijmes
+voor soepgroente, sucade of voor vet \ 2 snijplaten voor vleesch
+en een rasp voor brood, amandel enz.
+
+Een uiterst practische machine
+voor een ZEER LAGEN PRIJS
+
+</text>
+<image timestamp="2002:09:26:06:32:37.00" size="144659">D1000811.TIF</image>
+</page>
+</document>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320514</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 14 Mei 1932
+N o. 2867
+f
+V
+l?»
+
+•-f
+•i
+i
+Wis
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+HOTEL - CAFÉ- RESTAURANT
+
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+Modern Comfort-Lift-Stroomend water» enz.
+Logies met ontbijt f 3.50 per persoon
+BEGRAFENISVEREENIGING
+
+N. SAX r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tal. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N*V, Meubelmagazijn Eden"
+MOLSTEEG AMSTERDAM
+BOEKE NKASTEN
+fiasfornuizen - Gaskachels - Gashaarden
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 43688 Keizersgracht 447
+Voor olie doeleinden
+Cnefn.Kun$pnrichting
+DirkSclmobei
+Amsterdam. "
+vindt U tijdens Uw vacantie
+
+in Engeland. Verschillende
+
+gewoonten en een geheel
+
+ander landschap; gebergte,
+
+dalen, heide en meren, bad'
+
+en toeristenplaatsen rijk aan
+
+natuurschoon; steden vol van
+
+historische herinneringen.
+
+
+Een vacantieverblijf in En
+
+
+geland is niet duur. Geen
+
+verblijfsbelasting.
+
+Goedkoope biljetten, welke
+
+een geldigheidsduur hebben
+
+van 21 dagen (Ie kt. retour
+s d
+Rotterdam-Hull 55/'), wor
+
+
+den naar de voornaamste
+
+Engelsche toeristenplaatsen
+
+uitgegeven.
+
+
+Reist via
+
+Rotterdam - Huil
+
+De goedkoopste route*
+
+Geïllustreerde brochures, hertellijsten en
+alle verdere inlichtingen worden verstrekt
+door de voornaamste
+
+Passage- en
+
+Reisbureaux*
+als U tandpasta koopt
+
+voor de kinderen!
+
+Ter wille der gezondheid van Uw kinderen - kijk uit
+of Uw tandpasta het goedkeuringszegel draagt van de
+"Amerkan Dental Association" ! Dit Instituut, toonaan
+
+gevend in geheel de Vereenigde Staten, heeft erkend dat
+Colgate's tandpasta zuiver, ongevaarlijk en absoluut reini
+
+gend is. Zelfs de geringste voedselresten, welke zoo ge
+
+makkelijk mond- en landziekten kunnen
+veroorzaken, worden weggespoeld met het
+overal doordringende schuim van onze tand
+
+pasta. Let dus in Uw eigen belang steeds op
+het zegel dat grondige reinheid garandeert!
+TANDPASTA
+GROOTE TUBE 7 O CENT
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinainrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:23:41:54.00" size="168925">00000A95.TIF</image>
+</page>
+</document>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240405</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.16
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2442
+J. G. KORSTEN
+Sanitair echniscli Boruo, Kmingsplein, Amsterdam
+Telefoon: 37132, 37133, 37134
+CENTRALE VERWARMING EN WARMWATERVOORZIENING IN
+
+KLEINERE WOONHUIZEN DOOR MIDDEL VAN KEUKENFORNUIS
+
+OF WIT GEËMAILLEERDE KACHEL. GEEN KELDER NOODZAKELIJK.
+Koldewey &amp; Corbière
+leldschestraat 30, Amsterdam
+9ft90imUt»lt ii» s
+Kindirbiilkuipen, Badtaiels, Baby Bascvles, linnenmanden.
+AMERSFOORT
+Van
+11. DE KOmNI i h • Keizersgracht 447
+(voorheen LEI OSCH ESTRAAT 69)
+SEHKIHG GASFORMUIZEM
+Snouckaertlaan 22-24
+
+TELEFOON 218
+
+555555 )D||n(f5]jn||n|Iï|
+JBt i j wielen
+J. DE JONG &amp; ZONEN - A'DAM
+6EORGE H. LA6AS
+AMSTERDAM - Tvtefiui 24611 - Aidrta* Baonstraat 40
+Electrische Luxe Broodbakkarij
+Specialiteit in alle Broodsoorten
+STEENHOUWERIJ D. WEEGEWUS,
+RAPENBURG 14. AMSTERDAM.
+Tel. 42662
+ERVEN KRAMER
+SINGEL 390 -: - AMSTERDAM
+TELEFOON 37266
+FABRIEK VAN KANTOORBOEKEN
+jjeclame peignoirs
+
+mooie modellen in prima Crepon,
+alle lichte en donkere o 25
+kleuren .... 4.95 «*•
+
+MENDELS
+(Kalverstr. 109-11!,A'dam t
+MARMERWERKEN
+N.V. TH. VAN HEEMSTEDE OBELT'S
+Sanitair Technisch Bureau
+De Ruyterkade 104 - Mauritskade 35
+AMSTERDAM - 's-GRAVENHAGE
+
+
+Centrale Verwarming
+
+Warrvatervooi; 'ziening - Koudwaterleidingen
+SP i'uitaire Installaties
+x WONINGBUREAU
+
+T/ilMal[elaarA,G,TanA£tfflaal
+N. Baarnstraat 61 - Baarn
+Tel. 244
+
+
+FORENSEN.
+Heeft u al eens prijsopgave
+gevraagd voor uw drukwerk bij
+Electr. Boek-en Handelsdrukkerij
+fa. Wed. P. VAN DER HERT
+Nassaustraat 2, BUSSUM
+Prachtige uitvoering.
+Billijke prijzen.
+Telefoon BUSSUM ...... 923
+AMSTERDAM C. 2776
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Meeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd.
+
+
+Gez. VAN HUIDEN - Zwolle
+Hotel Café-Restaurant
+PRIMA KEUKEH
+l Dagelijks Diner-Concert in de Witte Zial
+Avond-Concert in den Wintertuin
+D
+ET
+
+i
+(Weitt
+\
+
+arfeljorisstraat Q6-Q8
+/ ^*y /**
+
+(Jiaarlem
+ewaren van ^Lelterijen gec/urencfe
+en
+o me r
+(Alle ^£e[{erijen bij ons in bewaring zijn tegen bram/sc/iacle en inbrnnft verzekerd l ft
+
+</text>
+<image timestamp="2002:09:03:04:56:07.00" size="120505">D2003GE.TIF</image>
+</page>
+</document>

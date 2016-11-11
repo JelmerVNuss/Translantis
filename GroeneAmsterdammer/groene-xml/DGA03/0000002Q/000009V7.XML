@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301227</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Abonnementsprijs per jaar ƒ10. .
+Advertentiën f 0.75 per regel
+e Amsterdammer
+lad vocn* Nederland
+KEIZERSGRACHT 333
+
+AMSTERDAM - CENTRUM
+COELINGH'S
+. Cellopbane verpakt
+20 CENT.
+CSRHziL
+ROKIN :r de Ned. Bank
+Tek240. -19971
+
+Viscstaurant
+
+en hhandel
+A. F. Z R H E R
+^ARTONNAGEFABRIEKèUKKERIJ
+.OOIERSGRACHT 64-66-68-7 0-7ISTERD AM
+Afwerken
+
+Amateur-opnamen
+Vlug, net, billijk.
+Speciale inrichting!
+
+CAPI
+115
+KALVKKSTHAAT
+115
+.ALBINGIA
+Verzekering-Mijen., A01.
+ONGELKEN
+AUTOMCELEN
+MOTORfWIELEN
+
+A. D. BEERENDS/EEREN
+AMSTERDAM - LEWARDEN
+
+30 CE PER H ALP ONS
+N. V. Meubelmag ij n Eden"
+MOLSTEEG - AMSRDAM
+3OEKENK.STEN
+1781 ^^r- 1927
+
+Jlienorik JVruiinel
+Wijnhantlelaar Am sterdam
+Eenïg opYolger TRQ
+Schimmclptnntnek &amp; Kruimel
+Kantoor: Keizersgracht
+Telefoon 40647
+N.V.
+M.A.KLOO5TERMUIS
+AMSTERDAM
+Voor het
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL \o. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSl KADEEREN (iESTELD, TER
+VERKRIJGING VAX KORTING OP DE PREMIE.
+CTIA\TTAADT\ C r FABRIEK ESPANA
+PAiNJAARD O Lo* UTRECHT
+CLASIE, CASPES &amp; Co.
+Behangerij • Ameublemente Stoffeerderij
+Moderne Landhuisoffen en
+Oud-Hollandsche leubelen
+VIJZELGRACHT 13, 'lefoon 37354
+BADKACHEL£
+Overal verkrijgbaar
+Adres voor den handel :
+JOH. H. v. d. MEIDEN - Amersfoort
+i Meubelen naar eigen ontwerpen of naar oude stalen
+
+HOUTSCHILT
+Amsterdam
+QOEDEWA^EN'S'
+- ^ KR9NPIJPEN
+(O CENT
+PER DOOS
+GESLOTEN D90ZEN
+VAN 6 STUKS
+Stoel's Woniqbureau
+Blocmcndaalschcwc No. 161
+BLOEMENDAAL
+PETER DAWSON'S
+WHISKY
+
+BEST OF ALL
+v an iStraalen J\4.onsieur CüL ll/rkelerLS
+WIJNH ANDELAREN
+Den Haag - ROTTERDAM - Helder
+Leuvehaven 34
+«a*
+M
+|TJMTUR|
+liandel.stiruk\verk - 1: criodicKen -(Catalogi
+
+
+JUrukkerij Jrlanhjn
+
+
+Amsterdam
+
+
+l\t'clanieclruK.^'crK - (jeld.swaartlig JL a pier
+
+</text>
+<image timestamp="2002:09:26:12:44:29.00" size="154250">000009V7.TIF</image>
+</page>
+</document>

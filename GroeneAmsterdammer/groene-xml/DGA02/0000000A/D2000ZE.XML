@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010714</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 12
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Oud Kanselier von Hohenlohe in den Duitschen hemel.
+Peter^burger Fauiilieroman. (Uik).
+Vierde hoofdstuk.
+(Wordt vervolgd).
+Een schaakpartjjtje. (Hum. Eliit'-er. Miinz).
+DE AVr.r : »S haak !''
+KITCUEM::I: »\Vat duivel! alweer? Hoe lang zal dat
+spelletje nog ihiren V'
+I IE Win: »Tot je koning mat is!''
+
+Landverkoop in Brussel. (Der Tioh).
+Vos BISJIAECK (tot VON HOIIKSLOUR) : »Ik verveel me bier zoo. Nu l o:n jij weer; allemaal beste bra.-e kereltjis, maar ik verlang naar een mat,
+Engelsche overwinningsmedai;!es. (Uil).
+Men ziet weldra de verzoening en den Ang!o-boer-vreJe, door den invloed van Krager
+tegamoet, maar intusschen hebben de boeren gezworen, tot het uiterste te volharden, al
+zonden zy zich ook moeten voeden met worst van Let vleesch van den laatsteri E"gelschrnan,
+(U FucUietto.)
+Fransche gasten
+Wel T'.:m, ook een oioe Kekrci?ii '!
+
+
+, ... -l
+xatuurlijk ! Ik bon irnoi i rif-i
+1 iï&lt;
+4 ' , -'&lt;"*
+*-s
+Es gibt A'igenbücke, wo auch ein so:;st friedliebender
+Monarch genie »1 o s s c h l a g e n" möjhte ! '
+A"*^Ê^i'1 • &gt; '^fj^ri^ «
+, &lt; " f
+
+John liiillilos; Iromt M'iir.d^chappe'i^k (egm het S: a;u;sche hond j •, rr.isr laat zich
+\eiucr iiiet n.o! lieiii il:. i' /•'• •üiift'.'j).
+De rciz'gtirs voer' c'c ,'irrna Boer £: Co;r.;). (/Ar ƒ';..•.'•'.
+»... En wanneer w\j weder met dezen aangor,amen tegenstander op het
+veld van eer samentreffsn zouden, dan hopen wij dat de oorlog tot
+wedarzydsche tevredenheid uitvalt.:'
+II\v,.Ei.&gt;]iEi/]i,i-:u Kurov.u (tot M);.YH')tw I)»M.\V. I&gt;oe geen moeite, mevrouw. Met
+dien man heb ja geen geluk. Hij doet geen zaken met onze ikma, en mij heeft hij
+de deur uit gecomplimenteerd'.''
+
+</text>
+<image timestamp="2002:08:16:08:17:58.00" size="521955">D2000ZE.TIF</image>
+</page>
+</document>

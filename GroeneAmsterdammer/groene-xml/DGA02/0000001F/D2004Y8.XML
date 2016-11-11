@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320507</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2866 van 7 Mei 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+De grootste keus
+uit
+wijnen
+likeuren
+whisky
+de beste sorteering
+in
+limonades
+tafeldranken
+enz.
+vindt U bij
+filialen
+in Amsterd am
+Geeft telefonisch Uwe orders
+Ferd. Bolstraat 85
+tel. 21198
+Ceintuurbaan 235
+tel. 22852
+C.Krusemanstr. 11
+tel. 21698
+N.V. VH
+H.A.KLOOSTERHUIS
+KALVERSTR. I7
+
+UIT ONZE VOORJAARS
+COLLECTIE;
+AMSTERDAM
+
+WE UWE MODELLEN
+NEEüVv'E LAGE PRIJZEN
+OUD ZILVER
+DIAMETER KAP 7 O 7m
+BJASPI
+KERKSTRAAT 58
+AMSTB^AM
+ONDERLINGE
+LEVENSVERZEKERING
+VAN EIGEN HULP •••
+VAN l 879
+
+DEM HAAG =
+KORTENAERKADE =
+BATAV l A
+VOORRIJ ZUID
+DE TIJD VLIEDT !
+IAAT U DAT NIET
+SOLIDE
+VOORDEELIG
+COULANT
+
+</text>
+<image timestamp="2002:09:21:05:58:58.00" size="122038">D2004Y8.TIF</image>
+</page>
+</document>

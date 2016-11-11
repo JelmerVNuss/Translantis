@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060415</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1503
+Tentoonstelling van Deensehe
+Knust bij Chabot en Albers.
+te Amsterdam.
+Eene uitgebreide collectie Deensch
+Porselein, kunst- en gebruiksvoorwerpen,
+Deensch aardewerk en nabootsingen van
+beelden, plaketten, vazen, enz. in terraliet
+en terra-cotta stelt de firma Chabot en
+Albers (Singel 164) dagelijks ten toon.
+De kunstvoorwerpen, de beelden, de
+plaketten, enz. zijn allen op eene grootte
+gemaakt om ze te doen strekken tot
+kamerversiering.
+De nabootsing der werken van
+Thoryaldsen, die men te Kopenhagen, vaak
+in de nederigste woning aantreft, zullen
+de Terralitfabriek, en Ipsens Enke's
+Terracottafabriek wel tot voorbeeld heb
+
+ben gediend.
+***
+De schoone en zacht-teere gelaatskleur
+en het voorname kenmerken o. m. den
+Deen. Dezelfde eigenschappen vindt men
+in het porselein der Koninklijke
+Porseleinfabriek te Kopenhagen, waardoor het
+zich onderscheidt van alle andere porse
+
+lein. Men merkt dit op bij de verschil
+
+lende porseleinen voorwerpen, zoowel bij
+serviezen als vazen en vooral bij de na
+
+bootsing van dieren. De alen en vooral
+de bolrjes zijn wonderlijk schoon en teer
+van kleur, de kleur en vorm van de
+botjes naderen de natuur. Behalve door de
+teere kleur en de goede teekening ken
+
+merkt het Deensch porselein zich door
+onberispelijk glazuur. De kunst van bak
+
+ken bij dit porcelein moet vele
+moeielijkheden overwonnen hebben, om met
+de andere kunstbewerkingen zulk voor
+
+naam uitziend porselein te verkrijgen.
+
+De Koninklijke Porselein-fabriek heeft
+eene afzonderlijke afdeeling voor het ver
+
+vaardigen van aardewerk, het zooge
+
+naamde aluminia-aardewerk.
+* *
+*
+Het Terralit" is een compositie, waar
+
+van het geheim bij de Terralit-fabriek
+te Kopenhagen bewaard blijft.
+Debizondere hardheid en taaiheid, eigenschap
+
+pen der compositie, maken het mogelijk
+de meest volmaakte afgietsels te ver
+
+krijgen der kunstwerken van beroemde
+meesters, zooals van Thorwaldsen,
+Donatello, Michel Angelo, (ïyde Petersen,
+Axel Locher, Elna Borck, Carl
+Bonersen e. a. De uitvoeringen zijn in imitatie
+van hout, brons, koper, marmer, enz.
+* *
+Terra-Cotta-kunst werken worden te
+Kopenhagen gemaakt in de Koninklijke
+Terra-Cottafabriek van P. Ipsens Enke.
+Deze firma legt er zich voornamelijk op
+toe, de oude Grieksche en Egyptische
+vazen, urnen, enz., bij opgravingen ver
+
+kregen, na te bootsen. De terracottatinten
+zijn zeer fijn, en de schildering der fi
+
+guren eêl en voornaam. De Tanagra's
+van Ipsen zijn overbekend.
+De verschillende af beeldingen kunnen
+eenig denkbeeld geven van de schoon
+
+heid der Deensche kunst.
+
+H. M. Wilhelmina, Koningin der Nederlanden.
+Het origineel van Gyde Petersen te Kopenhagen. Plaket, imitatie van porcelein.
+Lachend meisje.
+Origineel door Bonnesen. Ferraliet.
+Drie zingende knapen).
+Naar Della Kobbia te Florence. Plaket, imitatie porcelein.
+Verbanning.
+Het origineel van Elna Borch te Kopenhagen.
+Plaket.
+Bisschop Leonardo Salutati.
+Origineel in marmer te Fiesole.
+M a z u r k a.
+Het origineel van Axel Locher te Kopenhagen.
+Imitatie van marmer.
+
+</text>
+<image timestamp="2002:08:10:11:42:37.00" size="324460">000000AD.TIF</image>
+</page>
+</document>

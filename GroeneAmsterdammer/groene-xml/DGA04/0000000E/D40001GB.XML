@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141004</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+ONDERZEEËR
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 4 October 1914
+* *'»J~ B*
+*"" . ~ ^v.&gt;~ ~ ,--- ^V^-C-^F^aHSp
+&lt;£,»" v ***ft-' ^"fc.H?»^ •&gt;• r iS^^ar-a***?*
+
+* ^•**ff**£~*:^t^3^^'^^B8*fti
+' &gt; - - _ ^"^^ , - , _ k ?* -**&gt;^&amp;Ké&lt;f&amp;'.-* "AiStrfJ.'^W'j»; «««)*;
+"^J¥i*i#^C^"' ^ "* *" * • "*^ ' '4**t?vl3ï'*'« -^«jtf*,1*^. %l * * ~"--. «
+-« *1X xos^n^
+~ -J^»^H^ ^-»^S_ ops, •„^% ^jj,, ÏW-S^A,*»-!^-»."
+
+, , , ' &lt; - '"-^ " "" "J&gt; 9UM , J»fi**A« ^w&gt;4-5^feW«»^SL_
+-'-t^f , -fer-~ -»*3 : &gt; ^ ' •*v®r5&amp;-::-,-WB«»«. ' t***
+, * -i»-* &gt;• ^„*a»s*s*:&amp;««-~--5ïii--&lt;»"*'~ -
+-
+^*^ï- -«««&amp;^*5«te^^^^^S;'r •
+
+---—-"-—•••
+-i***^*-^,-.^..^-
+^„i^SSfiwöBBri.'.. _' Iw^V'M
+a *ti l . fir . _i
+-, *N ^^aXJf ^^e 3*0 's
+
+
+
+
+7^ * ^-^^ ^T
+
+
+
+
+t ^^ fr =* ""
+«&lt;}*
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+DE NIEUWE DOOD
+
+</text>
+<image timestamp="2002:08:21:02:20:26.00" size="581354">D40001GB.TIF</image>
+</page>
+</document>

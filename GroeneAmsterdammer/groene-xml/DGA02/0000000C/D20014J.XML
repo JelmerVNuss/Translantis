@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011110</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No.1272
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAN
+Turkije en Frankrijk.
+Sultan ABLUL HAMID : »Zou ik nu heelemaa! mijn kracht op een lieve dame verloren hebben?"
+
+Waar is Botha? (Ulk).
+Nooit te voren zó5 gehoord! (1'ii&gt;&lt;ch
+
+De President der Fransche Rspubliek houdt een toespraak tot ds equipsgej der
+onderzessche booten.
+De 'Fransch-Tüfksche kwestie. (Ftsehietlo).
+3i hebt in de no.'lrt wülan zijn .. . maar wie betaalt die nieuwe kaden ?
+Hè, v/at ? Geld heb ik niut !-'
+Dein moet j t maar kiezen: Ean bornbardament, of een leening om
+je schiildr-n te dekken.
+B.j Mahomet, dan accepteer ik da leening !
+Twee katten voor een muis. (y&lt;it&lt;.reUi).
+W d zouden ze beide \vd lusten... a!s we eer.s deelden?
+De Zuid Afrik-iansche vrouwen. (U/k).
+D'r van door !
+Xieuise s ha; skorvcn voor ': En^elsehe Ifger
+Versterking! (7^ /i'-'
+l'it Jugend'1.
+Groot ftjsuws, Sire!.. aen beeft nog een soidwrt TOOT de TraEwaal gevonden !
+Kitchener—Saloinë.
+
+</text>
+<image timestamp="2002:08:16:20:47:05.00" size="399403">D20014J.TIF</image>
+</page>
+</document>

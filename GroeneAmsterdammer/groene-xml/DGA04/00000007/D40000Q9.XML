@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130511</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+11 Mei '13. No. 1872
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+
+Het vogel-schieten op de markt van een dorp ter gelegenheid van den
+tweeden Pinksterdag. Naar een kopergravure van Frans Greenwood
+Pinksterkermis en Pinksterjool
+
+In Utrecht was tot voor weinig jaren de
+tweede Pinksterdag een uitgelaten vreugdedag
+voor 't volk, want dan vierde men de Pink
+
+sterkermis of Biltsche kermis.
+Dan stond de Biltstraat, ik herinner het
+mij nog levendig, vol met tentjes en kraam
+
+pjes en kruiwagens, dan was het er zwart
+van de menschen, en alle kleine burgerluiden
+hosten en krioelden er dooreen. Kinderen
+liepen met ratels, trompetjes en ander
+gehoor-pijnigend speelgoed, de rijpere jeugd
+blies op myrlitons, en men trakteerde zich
+op bier en .„scharretjes." Scharretjes" ...
+dat was de Pinksterkost bij uitnemendheid,
+en men zag deze grijze, uitgedroogde vischjes,
+aan lange slingers geregen,voor de kraampjes
+hangen, waar ze gretige koopers vonden.
+Duizend duizenden van deze scharretjes"
+drappeerden de geheele straat, en de
+penetrante geur van dit Pinkster-gerecht, werd
+door de geheele omgeving waargenomen
+en vervulde nog twee dagen na dato de
+Utrechtsche lucht.
+Het was een uitkomst voor de
+Biltstraatbewoners, toen men eindelijk, enkele jaren
+geleden, besloot, dit feest van gedroogde
+scharretjes en gemarineerde haring, van
+bieten in 't zuur en augurken in 't zout, af
+te schaffen.
+Overigens behoorde in dien tijd waarover
+ik hier spreek (mijn eigen jeugd) de Pink
+
+sterkermis reeds niet meer tot de zeer ruwe
+volksvermaken. De jool eindigde officieel
+tegen zons-ondergang en dan keerde het
+meerendeel der kermisgangers, beu van
+de scharretjes en wat dies meer zij,
+naar huis terug. Dat ook dit gebruik wel
+
+licht in oeroude tijden zijn oorsprong vond
+in een wild heidensch bachanaal, zou men
+op 't uiterlijk af, niet geraden hebben.
+Maar er was toen ook wellicht reeds een
+weinig kalmte in gekomen en in ouder tijd
+zal 't wel wat meer overeenkomst vertoond
+hebben met de voorstellingen der zeven
+
+tiende eeuwsche schilders, die in kleur en
+geur de boerenkermisvreugd verbeeldden.
+Een veel ruwer Pinksterkermis dan de
+Utrechtsche was de zoogenaamde Haagsche
+Boschkermis, die officieel reeds in 1729 werd
+afgeschaft, maar officieus tot op den huidigen
+dag voortduurt, hoewel het feestterrein thans
+voornamelijk naar de Scheveningsche duinen
+is verplaa-tst, waar Bachus en Venus den
+reidans der uitgelaten schare aanvoeren. Ik
+woonde enkele jaren geleden deze Scheve
+
+ningsche Pinkstervreugde bij, en zag er
+ontzaggelijk veel, dat volstrekt niet oor
+
+baar is.
+Een waar bachanaal moet de Boschkermis
+intusschen geweest zijn in den ouden tijd.
+Men maakte den dag zoo lang mogelijk
+door van den prillen morgen reeds met
+joelen en dansen aan te vangen en het tot
+laat in den nacht voort te zetten. Dit vroege
+begin van de Pinkstervermaken was trouwens
+een onafscheidelijke eigenschap van het
+feest, die wellicht samenhangt met den
+dorpschen oorsprong dezer feestviering,
+want vooral voor het landvolk schijnt de
+tweede Pinksterdag of ook wel de dag
+na Pinksteren, de gelegenheid bij uitne
+
+mendheid geweest te zijn om de vreugde
+over den terugkeer van den zomer te
+vieren, hoewel dit lang niet altijd op zeer
+poëtische- wijze geschiedde. Soms, gelijk in
+Amsterdam, waar thans de kermis in de
+Haringpakkerij" tot de historische herinne
+
+ringen behoort, kwam het landvolk naar de
+stad om te feesten, maar niet zelden ook
+vermaakte het zich in eigen landelijke om
+
+geving, doch daarom vaak niet minder ruw
+en ontuchtig. Aan het talent van den
+teekenaar-dichter Frans Greenwood danken
+wij de dichterlijke beschrijving en de fraaie
+prenten, die ons deze feestelijkheden in rake
+lijnen schetsen.
+Greenwood was een vriend en vereerder
+van den dichter Rotgans, op wiens buiten
+
+plaats aan de Vecht hij naar alle waar
+
+schijnlijk wel logeerde, wiens Boerenkermis"
+hij in zijn gedicht Boere-Pinxter-vreugd"
+naarstiglijk navolgde, maar zonder dit epi
+
+gonisme onder stoelen of banken te steken,
+want hij vermeldt zijn poging tot imitatie
+uitdrukkelijk in zijn dichterlijke voorrede.
+Hij vertelt dan:
+,,'kLag nog te ronken op mijn slaapkoets, wen
+'t gerommel
+En onbeschoft geluit van eenen
+boerentrommel
+Mijn nachtrust stoorde; ik wreef mijne oogen,
+en ontwaakt,
+Ben ik van lieverlee ten leger afgeraakt,
+En stiet, nog vakerig, mijn kamervenster
+open."
+En dan ziet de nieuwsgierige vreemdeling,
+die in den vroegen morgen naar buiten
+gluurt, hoe 't feest begint, en in zijn levendige
+verzen geeft hij er ons op zeer eigenaardige
+wijze verslag van in een realistische be
+
+schrijving, welke zich ook bij de meest
+weerzinwekkende bizonderheden niet achter
+
+houdend toont.
+Zelf onbewust, wat al dat dolle gedoe in
+den vroegen morgen beduidt, aanschouwt hij
+Trage Pier (van 't weefgetou geraakt)
+En door de Pinxtervreugt, tot een tamboer
+gemaakt".
+En op 't geluid van'dien trommel holt
+iedereen naar buiten, half of minder dan
+half gekleed soms, om toch vooral het
+gewichtig oogenblik van 't begin van 't
+feest niet te verzuimen. Men vergeet zelfs
+z'n schande te bedekken, want hij ziet er een:
+Geen broek aan 't gat, maar slechts een ledre
+schootsvel voor:
+Het vuil gescheurde hembd kan naau zijn
+billen dekken,
+Die gansch getijgert zijn met roode en
+blaauwe plekken,
+Veellicht noch teekens van de tucht- of
+geeselroe."
+Dan gaat onze poëet zelf naar buiten, om
+te vragen wat er aan de hand is. Hij spreekt
+een paar voorbijgangers aan, die hem op de
+gewone langdradige en onzakelijke boersche
+manier, alles vertellen behalve wat hij weten
+wil. De eerste, een oude man, vertrouwt hem
+toe, dat hij vroeger op dezen dag altijd zulk
+een haantje de voorste" was. Een tweede
+vertelt hem, dat hij weleer zoo bizonder knap
+was in 't bekkensnijën, een derde snoeft
+erop, dat hij zijn dorp buitengewone eer
+heeft aangedaan door een zuipersbaas uit
+een naburig dorp onder de tafel te drinken,
+en ten slotte komt hij van een schoolmeester
+te weten, dat straks op het marktplein
+'t jaarlijksche vogelschieten" zal plaats
+hebben
+Men zal, naar oud gebruik, gelijk op
+Pinxtertijen,
+Den vogel schieten, en vandaag zich
+wat verblijën.
+Delpoeët verzuimt niet, naar dit vermaak
+Het slot-tooneel der Pinkstervrengde in een boerenherberg.
+Naar een kopergravure van Frans Greenwood
+te gaan kijken en amuseert zich kostelijk,
+met de dorpshelden, die met allerlei zonder
+
+linge snaphanen gewapend, op 't plein ver
+
+gaderd zijn, om met donquichotesken zwier
+op 't houten vogeltje te mikken. De slechte
+wapens veroorzaken allerlei tragi-comische
+onheiltjes. Een boer, die onder een boom
+zekere behoefte zit te verrichten, krijgt een
+kogel van een der onhandige schutters door
+zijn hoed. Hij valt van de schrik in katzwijm
+op zijn rug" en...
+Elk gisse, hoe de bloet van achtren was
+gestelt."
+Nadat vervolgens een der snaphanen uit
+elkaar gesprongen is en een ander aan zijn
+schutter het verlies van drie vingers berok
+
+kend heeft, wordt eindelijk de prijs gewonnen
+door Piet Jan Krijnen, die nu schutter
+
+koning" is.
+In optocht trekken de mededingers naar
+het bierhuis" waar de Heraut" den Koning"
+op een fraaie toespraak onthaalt, in welke
+dit gewichtig personage er zich op toelegt,
+de andere mededingers virtuoos uit te
+schelden.
+En in dit bierhuis begint dan de nafuif, de
+eigenlijke Pinkster-jool.Eerst een boerendiner:
+Waar 't koninklijk gerecht staat
+opgedischt, als worsten
+En boere schenken, prol en poffers,
+roggekorsten
+Met zoete spijs gevult, en rijstebrij, geheel
+Bedekt en overstroit met suiker en kaneel...
+
+Dan volgt een gezellig napraatje, waar
+schunnige liedjes gezongen worden door een
+paar dorpsguiten en waar vervolgens enkele
+paren een lustige horlepijp" dansen. En ten
+slotte komt dan de onvermijdelijke kloppartij,
+ingeleid door Lou zonder ziel", den
+bekkesnijder, en door al de andere dronken kerels
+zoo gretig opgenomen, dat weldra de geheele
+feestzaal in een slagveld herschapen is, de
+vrouwen de vlucht nemen, kannen en bekers
+als projectielen door 't vertrek vliegen en
+ten slotte eenige slachtoffers vallen.
+Zij werpen testen, vuur en bekers, kruik
+en pul
+Den andren naar den kop. Een' wordt
+de bek te schanden
+Geworpen door een hout, ten koste van
+zijn tanden.
+Hier treft de bierkan een' gevoelig voor
+het hooft;
+Terwijl een ander wordt de hersenpan
+geklooft."
+Aldus besloten de
+oud-Hollandschedorpelingen de viering van den tweeden Pinkster
+
+dag, en de meest verstokte oudheidminners
+zullen wel niet betreuren, dat dit alles be
+
+hoort tot een ver verleden.
+J. D. C. VAN DOKKUM
+-4iimmtiiiiMitmMiiiii
+IIIUIIIIIIIHIIIlmlIIIIIIIIIIIHIIIIIIIIIIIIIIIIIlllllllllllllllmIMIIIIIIIHIMIIMtllllllllMHMIIIIIItlllllMmllllllMHIII
+l'lmlIlllllllllllllllMHIIIlmlIIIIIIMIIIIIIIIIIIMIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIMIIIIIMMIIIIIIIIHIIHl
+NIKITA VAN MONTENEGRO EN ZIJNE FAMILIE
+Van links naar rechts; eerste rij: Prinses Helena van Servië ; Eene Servische Prinses; Prins Alexander van
+Servië; tweede rij: Prinses Militza, echtgenoote van den Kroonprins van Montenegro ; Prinses Militza van
+Montenegro, echtgenoote van den Groothertog Peter Nikolajèwitsj; Prinses Helena van Montenegro, Koningin
+van Italië ; Koningin Milena van Montenegro; Koning Nikita van Montenegro; Prinses Anna van Montenegro,
+echtgenoote van prins Francis Jozef van Battenberg; Koning Victor Emanuel II van Italië ; Prinses Nathalie,
+echtgenoote van prins Mirko van Montenegro; derde rij : Groothertog Peter Nikolajèwitsj; Prins Francis Jozef
+van Battenberg; Prinses Vera van Montenegro; Prinses Zenia van Montenegro; Kroonprins Danilo van
+Montenegro; Prins Mirko van Montenegro; Prins Peter van Servië
+IMIIItMIIIIIIIMMIIIIIIIIIIIIIIlmmlIIIIIIIIIIIMIIIItllllMlIMIIIIIIIIIIItmillllllllMIIMIIDII
+
+'t Oud-Delftsch herboren
+
+Herinnert ge u het tafreeltje in De
+Violiers", waar het koopmannetje in antiek,
+nieuw gebakken Delftsche koetjes, oud zit
+te maken, de schonken tikt tegen den
+tafelrand, de kantige koppen langs elkaar wrijft,
+de punten van de staarten af bikt?
+De heer Martel, een pottenbakker uit Sèvres,
+in Frankrijk, doet'dit hem na. Het besef van
+de kleine hoeveelheid Oud-Delftsch over
+gansch de wereld rijpte in hem het voor
+
+nemen dit kunstproduct, zou?getrouw moge
+
+lijk na te bootsen. Ontheiliging steekt
+daar niet in heeft de heer Martel gedacht.
+Is niet het Delftsche product in zijn
+versieringswijs zelf, zij het dan een vrije,
+bewerking van 't oud Chineesch ?
+De heer Martel heeft niet vrij bewerkt,
+heeft integendeel zijn kracht meenen te
+vinden in een algeheele gebondenheid aan
+het voorbeeld dat hij zich gesteld had. Zoo
+zijn dan de schaarsch rakende Delftsche
+koetjes vermenigvuldigd en dit staat vast:
+het oudere ras is edeler doch de gelijkenis
+is treffend.
+Wanneer men nu in een deftig interieur
+zulk een aardig koetje ziet, moet men op
+
+passen, want de vorm is dezelfde!de naieve,
+de lompe vormen welke in het oud Delftsch
+in een stijl zijn uitgedrukt, vindt ge getrouw
+weer. Er zijn dan de Delftsche vogels, de
+vrouwenbustes, de laarsjes, al die eenigszins
+komiek wanstaltige siervormen, welke (hun
+waarde dankend behalve aan een antiqua
+
+risch belang, aan een uiterste karakteristiek)
+U van 't pad zouden kunnen brengen. En
+de borden wanneer ge een dier zeer
+welgelukte, fraaie borden gehangen ziet
+tegen een behang, vergrijsd van ouderdom,
+in de nabijheid van vergrauwde eiken
+paneelen, in een dier milieux kortom, zooals
+er nog zoovele in Hollandsche huizen zijn,
+dan zult ge u vergissen kunnen !
+Niet alleen heeft de heer Martel zijn pro
+
+ducten wat den vorm betreft, gecopieerd,
+maar mét de geschuurde kantjes, waar het
+glazuur in verschen ouderdom werd gekrapt,
+heeft hij de beroemde werken overgenomen
+en de naamteekeningen der verschillende
+bakmeesters minutieus overgebracht, 't Bijltje,
+de roos, gij vindt ze weer. Doch de
+geest is levend, de letter dood!
+Al de gelijkenis moet toch wijken, indien
+men buiten de voortreffelijkheid der gelijkenis
+om, den geest van het nobele fabricaat, dat
+oud-Delftsch is, als bij intuitie voelt. Ont
+
+ledend komt men toch ook wel tot de schif
+
+ting. Wanneer men in een kunstproduct van
+aardewerk, vorm en teekening ('t ornament),
+pate en kleur onderscheidt, zijn de vorm en
+de-kleur van zelf sprekend het gemakkelijkst
+en meest zuiver na te bootsen. De vorm staat
+bij het echte oud niet achter, de teekening
+moet het tegen de origineele teekeningen
+afleggen, omdat de hand tot nauwlettend
+copieeren genoopt, de vrije lijnbeweging
+welke in de hand van een echten teekenaar
+schuilt, moest inboeten. De zwier, de artis
+
+ticiteit wordt door het directe voorbeeld
+beklemd. Wanneer men de onderscheiding
+der qualiteit volgt, zal men de pate het minst
+loven mogen.
+Er is in de pate van de imitatie iets hards,
+iets te metaal-, iets te email-achtigs. Het wilde
+diepe, weekkleurige en toch zoo vaste fond
+van het origineele werk wordt door de
+imitatie eigenlijk in geen enkel stuk geëven
+
+aard. Doch de kleur is meermalen voortreffelijk.
+Er zijn combinaties van flets, van een
+matwit doorzogen paars, van dof aschkleurig
+zeegroen, welke alle illusie geven van het
+oorspronkelijk product. Wanneer de heer
+Martel nog slagen moge zijn pate te ver
+
+edelen, zullen de kleuren daarin tot een
+volkomen schoon stijgen.
+Het herboren Delftsch is als aardewerk
+mooi genoeg om de opvatting te betreuren,
+dat er om schijn-oudheid aan moest worden
+gekneusd.
+ALBERTINE DE HAAS
+Importeur in ons land is de Kon. Bazar
+te s-Gravenhage.
+
+V v V
+
+Drie Fransche grafschriften
+o
+OP DE VROUW VAN MIRABEAU
+Ci git
+La femme de Mirabeau, dite Mirabelle,
+Qui n'était ni bonne, ni belle.
+o
+OP EEN LOSBOL
+Ci git
+Un corps usé,
+Une ame damnée,
+Messieurs et Mesdames, passez.
+o
+OP EEN ARMEN TOONKUNSTENAAR, 01'
+KOSTEN VAN ZIJN VRIEND TER AARDE
+BESTELD
+(L'a - - mi l'a mis
+ia)
+Op het gemutileerde beeld van
+Schaepman te Rijsenburg
+'k Voorspelde in een lezing dat uw beeld
+niet voor de eeuwen was
+En reeds zijn afgevallen: speer van Joris
+en een vinger van uw hand,
+Als teekens, dat aan 't zandsteen-monument
+de tijd wel zichtbaar knaagt;
+Maar wie uw beeld ook schond, 't zij tijd
+of mensch,
+Uw geest, uw stralend licht, uw wondervolle
+macht,
+Zij blijven deel van 't menschdom, deel van
+ons geslacht,
+Dat, na u komend, eert een krachtige figuur!
+En, evenals aan 't Venus-beeld men d'arm
+kan denken,
+Zoodat dit werk gansch vlek'loos voor ons
+rijst,
+Zoo zal elkeen ook van uw vinger weten:
+Dat hij ten Hemel wijst!
+Driebergen, C. W. H. VERSTER
+12 April 1913
+* * *
+
+Christiaan Timmner
+CHRISTIAAN
+De laatste maanden verschijnt telkens in
+de Clevelandsche pers het portret van den
+gewezen eersten orchestmeester van ons
+Amsterdamsch Concertgebouw, Christiaan
+Timmner. Zelfs de caricatuur, voor zooverre
+die ginds bestaat, heeft zich van hem meester
+gemaakt, gelijk men ziet uit bijgaande
+reproductie, waarvoor de Cleveland Press
+gediend heeft. Journalisten interviewen hem
+en spreken over hem met ongewone warmte.
+Most h'nished program players ever gave"
+zie ik met centimeter-groote letters boven
+zijn portret staan. Het is een weemoedige
+gedachte voor ieder, die Timmner gekend
+heeft, te ontwaren hoe hij in 't verre
+NoordAmerika de waardeering geniet, die zijn
+absolute artistieke eerlijkheid en groote mu
+
+zikaliteit hem hier in groote mate hadden
+moeten waarborgen. Weemoedige gedachte
+voor ons, want Timmner zelf blijkt opgewekt
+en bruisender dan ooit van levenskracht.
+M. C.
+
+</text>
+<image timestamp="2002:08:18:13:45:11.00" size="573945">D40000Q9.TIF</image>
+</page>
+</document>

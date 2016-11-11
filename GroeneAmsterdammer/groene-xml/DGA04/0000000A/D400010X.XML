@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19131130</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ONZE EXTRA-PARLEMENTAIREN
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 30 November 1913
+l ^^
+SAREKATlSLAM
+CORT v. D. LINDEN
+RAMBONNET
+
+
+De onafhankelijke kunstenaars van ons Ministerie
+(ZUIDERZEEVRAAGSTUK, SAREKAT ISLAM, PANTSERSCHIP, GELIJKSTELLING OPENBAAR EN BIZONDER ONDERWIJS)
+PLEYTE LELY
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:20:09:54:42.00" size="501205">D400010X.TIF</image>
+</page>
+</document>

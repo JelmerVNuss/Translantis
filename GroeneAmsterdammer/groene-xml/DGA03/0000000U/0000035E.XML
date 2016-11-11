@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950113</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 13 Janutri 1895.
+
+Belgiëen de
+it^f $&gt;.;..v
+Klfe;-. •£&amp;*(&amp;:•/;*.•
+I4»SS' &lt; *'ï:&gt;V'/^-&gt;''
+S» «*•-: '*»" .ï-JrjS ^'-.
+l
+
+1
+?
+
+i
+/
+-- • ^.«.i-- s/ .' ' " '^,
+:1 • t \.- &gt;• .,'&lt;
+-'.„..- '^...i ^ -.
+/:-"?r"Y'^-//;i \
+-•^-7'
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+K&gt;;N;NH; LKoi'Ol.n: »Hoor eens, w^w brave, ik had je dit presentje willen vermaken, maar bij nader
+inzien doe ik er liever dadelijk afstand van."
+JFi'KKN: •••^are::.-rous, Sire, ik ben ban^ dat het beestje te groot is voor mijn kiekenkot."
+
+</text>
+<image timestamp="2002:08:20:03:28:32.00" size="394765">0000035E.TIF</image>
+</page>
+</document>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321217</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 17 December 1932
+N o. 2898
+Gharivaria
+PAINDELUXE-BROOD
+,,Het werk wordt weer hervat." ( Volk)
+Zij zullen ook verder blijven weigeren
+hun belofte in te lossen." (N.R.C.)
+,,De schatkistbiljetten zijn praktisch
+onder alle omstandigheden te plaa.tsen."
+(VU. Ned. Spaarb.)
+Laat iedere school eens vooraf over
+
+leggen." (Gr.)
+Een ander alternatief bestaat er
+niet." (O.H.C.)
+DE MEERLOOZEN
+Aanta! sterfgevallen. Aan pneumonie
+z.m. 20." (Staatse.)
+Tollens' ode was opgeblazen met va
+
+derlandsliefde z.m." (Gids)
+Dit werk staat z.m. goed gecompo
+
+neerd goed in de kleur." (Gr.)
+Spr. laakte het dat veertien vrouwe
+
+lijke sollicitanten z.m. waren uitgescha
+
+keld." (HM.)
+Wie die bedenkingen oppert, is z.m.
+fascist." (H.P.)
+Het verhaal van Joffre is dat van
+den militair z.m." (Tel.)
+Zoo ook : Zus is er door en Zus is
+er van door, enz.
+DAT LASTIGE HOLLANDSCH
+De herders, die zich pijpend bij hun
+schapen vleien." (Gids)
+Vol gratie neemt ze plaats en neigt."
+(Char. Godengespvekken)
+In het geestelijk leven kan n ver
+
+schil een wereld van verschillende aandoe
+
+ningen opwekken; men denke aan de
+uitwerking die het telegram heeft: Frits
+is aangekomen en Frits is omgekomen."
+(Tel.)
+• UW
+KERST-VERBLIJF
+Uitmuntend Pension
+Voordeelige tarieven
+LOGIES MET ONTBIJT
+3.50 EN 4.50
+Hofe/gasfen fcunnen (cosfe/oos
+gebruik maken van de Zwem Inr.
+in comm. mei hei Hotel
+HOTEL-REST
+CENTRAAL
+LEIDSCHE BOSCHJE - TEL. 82345
+TEL.- ADR.: H O CE N TRA"
+Met de verblindend weergegeven klan
+
+ken van Ravel's Scarbo werd het tweede
+gedeelte geopend." (Tel.)
+
+En dan moot je net je blauwe btil
+vergeten hebben.
+OMMERS
+,,Het is voor den toeschouwer moeilijk
+om dit te begrijpen." (N.C.)
+
+Men is er in geslaagd om vrij spoedig
+te weten te komen wie de dader was."
+(H.D.)
+DUBBELEPUNTITIS
+
+Dus: allereerst zullen we aansturen
+op een nieuwe coalitie. Trouwens: de
+heer Aalberse snijdt niet gaarne een mo
+
+gelijkheid af. En: de eerste die hard weg
+
+loopt is mr. Fock. Waarlijk: de vrede
+heeft het zelden zoo moeilijk gehad als
+tegenwoordig." (Avp.)
+
+CORRESPONDENTIE
+(j. te .S'. Een andere, veel misbruikte
+term is ,,^it^^c^lic". De woorden voor
+
+stel", plan", ontwerp", schets",
+denkbeeld" zijn uit liet vocabularium
+van den Indischen Nedeilander geschrapt.
+Zie b.v. de Handelingen van den
+Volksraad, of onverschillig welk Indisch dag
+
+blad. In iederen kolom ziet U daar tien
+
+tallen malen het woord suggestie", ge
+
+bezigd door plaatselijk Militair Comman
+
+danten, Algemeen Ontvangers,
+Fungeerend Notarissen, Dienstdoend tijdelijk
+Waarnemend Adjuncten van Gewestelijk
+Eerstaanwezend Ingenieurs en andere
+dwaasterminologen. Ik moge U derhalve
+beleefdelijk in overweging geven, mid
+
+dels" de van Uwe Charivaria uitgaande
+massasuggestie aan de hiervoren in het
+licht gestelde" massa suggesties spoe
+
+digst" paal en perk te stellen.
+
+Anlw. Ik zal er onverwijld een eind
+aari maken.
+BEFAAMD
+EIGEN
+FABRIKAAT
+EET- WOON- SLAAPKAMERS COMPLEET Fl.
+320.&amp;KDER
+£ ZONEN
+
+</text>
+<image timestamp="2002:09:27:16:04:03.00" size="103295">00000ATG.TIF</image>
+</page>
+</document>

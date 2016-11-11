@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>32C</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Onder de gedistingeerde schoonheid van den Lincoln
+bevindt zich een schitterend mechanisme, vervaardigd
+met een nauwgezetheid en preciesheid van bewerking,
+die in geen enkele fabriek ter wereld gevonden wordt.
+Hiervoor wordt het allerbeste materiaal gebruikt, dat
+de wetenschap tot dusverre heeft gemaakt.
+Bij de productie wordt - ook bij het kleinste onderdeel
+gestreefd naar volmaaktheid, zoodat het niette
+verwonderen is, dat de Lincoln een ideale wagen is.
+Demonstratie wordt gaarne gegeven door
+JAN LIMBACH
+Showroom
+Plein 24
+Lincoln Dealer
+HAARLEM
+Kantoor Werkplaats
+Stationsplein
+
+</text>
+<image timestamp="2002:09:05:21:51:17.00" size="64155">0000077A.TIF</image>
+</page>
+</document>

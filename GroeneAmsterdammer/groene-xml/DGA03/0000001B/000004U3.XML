@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110409</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een miskend Minister.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 9 April 1911.
+De mensch zal van brood alleen niet leven."
+Amst. Boek- en Steendrnkkerij, v/h. Ellerman, Harms &amp; Co.
+KOLKMAN : De eerste levensbehoeften b l ij v e n onbelast!
+
+</text>
+<image timestamp="2002:08:24:22:38:10.00" size="446614">000004U3.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020824</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De drie Boeren-Generaals in Nederland.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 24 Augustus 1902.
+Amst. Hoek- en Steendrukkerii. vb. Kllerman. Harms &amp; Co
+GvSBREGT KAKEL VAN HOGENDÜRP: Mannen, wat er ook gebeurd zij, blijf trouw aan deze vlag.
+Ook Holland's driekleur was eens vertrapt, verscheurd, verdwenen... en toch..!"
+
+</text>
+<image timestamp="2002:08:18:07:45:37.00" size="215100">D2001HM.TIF</image>
+</page>
+</document>

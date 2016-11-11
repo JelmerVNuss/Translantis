@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281201</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2687 van;i December 1928
+25 et,
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+VAM
+TABAK
+Cirvtoa
+GROE'M 20 CT
+BLAUW
+ROOD
+GEEL
+OCr
+PERU OM5
+15IWALITEITI
+MEER DAN OOIT TE VOREN HEEFT
+
+CADILLAC
+DE LEIDENDE POSITIE, DANK ZIJ:
+EERSTE KLAS WERK,
+EERSTE KLAS SERVICE,
+ALGEMEENE TEVREDENHEID.
+K. LANDEWEER
+IMPORTEUR VOOR NEDERLAND DER
+CADILLAC EN LA SALLE AUTOMOBIELEN
+UTRECHT
+BILTSTRAAT 74
+AMSTERDAM
+SINGEL 430/32
+AGENTE VOOR ZUID-HOLLAND-.
+HAAGSCHE AUTOMOBIEL MIJ.
+FRAAIE
+"5tNïCOIM5
+C4DEA13X
+Kronen
+lampen
+Happen
+Bronzen
+HAKloosterhuiS
+AMSTERDAM
+RALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H
+del -h/xtensibL
+eupgor
+
+van prima Fransch Elastiek,
+
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+
+tot heup wijdte 100 c.M. nieuwen prijs f 14.
+verder tot 115 c.M. 15.
+
+Bij schriftelijke bestelling gelieve men als maal
+op te geven de wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.
+Voorhanden een enorme keuze
+Iwlastieken JHL
+roeL
+EXTENSIBLE"
+eupgordeis
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heupgordels
+garandeeren \vi).
+
+</text>
+<image timestamp="2002:09:05:18:26:27.00" size="133347">0000074O.TIF</image>
+</page>
+</document>

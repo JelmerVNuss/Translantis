@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240426</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMEFJ, WEEKBLAD VOOR NEDERLAND
+No. 2445
+'
+II *
+f
+J. G. KORSTEN
+Sinitiir Tidinisch Bareao, loningsplein, Amsterdam
+Telefoon: 37132, 37133, 37134
+Centrale irwarming en Wirmwaternorzieningeii voor:
+Hotels, Ziekenhuizen, Fabrieken, Scholen,
+Kantoorgebouwen, Woonhuizen.
+Koldewey &amp; Corbière
+Leldschestraat 30, Amsterdam
+9p*oi»IHmH in s
+ma •
+INDIE
+MET EEN UITRUSTING
+UIT DE
+BIJENKORFONZE SPECIALE AFDEELINQ
+GEEFT ALLE QEWENSCHTE
+INLICHTINGEN
+i KOK
+AMSTERDAM
+DEN HAAG
+
+Zuiver wollen Plaids
+
+Hu." en hooger
+Kemelharen
+Peluche
+Waterproof
+PLAIDS
+n
+Café-Restaurant
+
+NIEUWERSLUIS
+a/d VECHT
+
+Ruime Serre en flinke
+Tuin aan het schoonste
+gedeelte van de Vecht
+POSTPAPIER, met Uw naam
+en adres op een neite wijze
+bedrukt, bezit een zeer spe
+
+ciale distinctie.
+Tot nu toe bracht geregeld
+schrijven op bedrukt luxe
+• papier een vrij groote uitgave
+metzich mede,hetgeen menig
+
+een van het gebruik terug
+hield. Doorgrooten omzet en
+standaardiseeren, kunnen wij
+keurig bedrukt postpapier
+toch uiterst billijk leveren.
+Voor f 3.90 ontvangt U
+
+105 Vellen en
+
+100 Enveloppen (
+Wij verzenden In ons standaard
+pakket slechts n soort papier, n.l.
+
+Luxueus, Zw^ar, Wit Linnen
+papier, een gedistingeerd soori
+briespapier dat U blijvanübevallen zal,
+met een keurige zwarte letler bedrukt
+(donker blauw 6O et. extra). Wij
+leveren 2 formaten: Heeren formaat
+15 x 21 cm., Dames formaat 14x18 cm.
+Zend ons een postwissel met Uw
+naam en/of adres in duidelijke
+drukletters, zoadat vergissingen buiten
+
+gesloten zijn. Wij kunnen geen
+postzegelvcrsl inden de correspondentie
+voeren. Dit gedoogt onze prijs niet.
+LET WEL: Ons pakket bevat meer
+dan twee maal den inhoud van een
+gewone groote doos postpapier. Geld
+onmiddellijk terug indien pakket U niet
+voldoet, tienmaal klant, blijft klant.
+ZEND ONS HEDEN een proeforder
+voor U zelf of om als geschenk te
+dienen. Snelle aflevering. Bij verzen
+
+ding franco Nederland voeg 35 cf.
+aan Uw postwissel toe;
+rembourskosten: 45 et.—In A'dam (Centrum en
+Museumkwartier) wordtgratis bezorgd
+ERVEN E. VAN DE GEEF?,
+Egelantiersstr., Amsterdam. Opger. 1817.
+AMERSFOORT
+foninilm
+Snouckaertlaan 22-24
+TELEFOON 218
+E. I. OE KONING J Zn. • Keizersgracht 44?
+(voorheen LEI DSCH ESTRAAT 69)
+SEHKIMG GASFORHUIZEH
+BLANKENBERGHE Cnl Hotel Lion O'or
+a/Zee.
+Centr.Zeeboulev. n/h Casino. Bill.cond.
+DINANT Hotel des Familes - Hotel Splendid Palace
+Eerste Klasse - Mod. Comf. - Park van 6 H. A.
+LAROCHE Grand Hotel des Ardennes
+(Luxemburg) Modern Comfort Prima Keuken
+ROCHEFORT HOT£L
+i i ww i 11_ i vrui Comf _ Garage| Prima Beuken.
+Inl. en Prosp. van deze 'Hotels gr. Intern. Verkeers-Bureau,
+Kalverstraat 168—170, Amsterdam.—Noordeinde 31, Den Haag
+Wekelijksche Autotochten naar de Bel. Ardennen
+Vraagt Prospectus
+POLLEN'? lude
+Fijne Likeuren en Punch
+m. P. POLLEN A ZOOH - Rotter**
+BJASPSBOMMB:
+BOEKBINDER
+KERKSTRAAT 55
+AMSTBRDAM
+G O O S E N &amp; S WA GE R M A h
+P l A N O 'S, O R G E L S, VLEUGELS
+K U N STSPELPI A N O'S
+BOEKHORSTSTRAAT 149, 's-GRAVENHAf.l
+F E E S T -V V U R W E R K.
+Vuurwerk is steeds een groote attractie indien betrokken uit de KON. NED. KUNSTVUURWERKFABRIEK
+A. J. KAT v h. JOHN LOEFF te LEIDEN, tel. 1110. Schitterend vuurwerk met steeds de nieuwheden welke
+bij geen andere firma zijn te verkrijgen, worden tegen scherp concureerende prijzen geleverd.
+Grootste Fabriek in Nederland, opgericht 1826. Vraagt programma's en prijzen.
+
+</text>
+<image timestamp="2002:09:03:06:29:16.00" size="165100">D2003IE.TIF</image>
+</page>
+</document>

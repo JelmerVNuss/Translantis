@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020511</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No 1298
+DE AMSTERDAMMER WEEKBLAD VOORNEDERLAND.
+1901, (Journal d'un volontaire), (4 gravures),
+par M, Jacques Grandin ; Le droit au vol, par
+M. Maxime Leroy; Pétrarque en France, par
+M. E. Müntz de i'Institnt; Notes sur Hen rik
+Ibsen, par Madame Rémusat. Le roman d'un
+avonturier au XVIIe Siècle par M. H. de
+Galliër. La première carte contenant Ie
+nom d'Amérique, (l gravure), par M. A. Schalck
+de la Faverie; Le Thé(Silhonettes de la vie
+moderne, par Ie prince Bojidar
+Karageorgewitch; Le nouveau théatre polonais, par Mm.
+Valérie MarrenéMorzkowska; Mouvement des
+livres en France, par M. EliseéReclus. Ana
+
+lyse des revues-frarjcaises, anglo-américaines,
+d'art, italiennes et scandinaves. Caricatures
+politiques, (10 gravures).
+Eigen Haard, No. 19: Gelijkvloers, door
+Louise B. B., XIX - Voor onze amateur
+
+fotografen: geesten-fotografie, door dr. J. E.
+Rombouts, met afb. Garoet, door S, met
+. afb. Wat de bloemen hun gasten hebben
+aan te bieden, door F. J van Uildriks.
+Dordrechtsche metaalwarenfabriek voorheen
+Wed. J. Bekker &amp; Zn., te Dordrecht, door
+A. C. Z , met afb., I. »Jochempie", door
+Jeanne Bouberg Wilson. Feuilleton.
+NIEUWE UITQAVEN.
+Weide-nimf, door ELSB VAN BRABANT. Amster
+
+dam, G. L. G. Veldt.
+Feest, door JOHAN W. BROEDELET,
+oorspronlyke roman Amsterdam, C. L. G Veldt.
+Graaf LEO TOLSTOÏ, Set sexueele vraagttuk.
+Gouda, J. T. Swartsenburg.
+Bulletin van het Koloniaal Museum te
+Haarlem. Verslag over het jaar 1901 met
+bijlagen. Amsterdam, J. H. de Bussy.
+Nederlandsehe Klassieken Gulden-editie, uit
+
+gegeven door H. BECKEBiNö-VmoKBas.
+ZaltBommel, H. J. van de Garde &amp; Co.
+Geestelijke 'voorouders. Studiën over onze
+beschaving, door A. PIEBSON. IV. Byzantium,
+door D. C. HBSSELING. 3a afl. Haarlem, H. D.
+Tjeenk Willink.
+
+Uitgaven van P. Noordhoff, Groningen:
+'•-• Gids bij de studie voor de hoofdacte, door F.
+PLUIM.
+Het gebruik der aardglóbe J0 fat onderwys.
+Een handleiding ook voor zelfonderricht, met
+vragen en oefeningen, door H. BLINK. Met 13
+figuren.
+De enkelvoudige zin. Theoretische en
+practische behandeling voor de aanvangsklasse van
+Kweek- en Normaalscholen, door L. DE VEIES.
+Th&amp; Children of the New Forest, by Captain
+MABBYAT. Annotated by L. P. H. Eykjnan
+and C J. Voortman.
+Uitgestootenen van de Maatschap-pij. Iets
+over het streven van de vereeniging «Onder
+
+linge Vrouwenbescherming", door A. S. v. S
+v. S. Uitgegeven ten voordeele der Vereeniging.
+CORRESPON DENTIE.
+Wegens plaatsgebrek moeten eenige stukken
+tot het volgend nummer bly'ven liggen.
+Bed.
+per doosje] UiOU
+De flaniel in blanke slavinnen.
+Het volgende is eene vertaling van een lezing,
+gehouden door mevr. De Schlumbergen bij ge
+
+legenheid van de vergadering van het Fransche
+\ nationale Comité, op 12 Dec. 1902, en waarin
+onze lezers(essen) ongetwijfeld belang zullen
+stellen.
+Een beroep op de vrouwen.
+Waarom de vrouwen lid moeten worden van
+de Vereeniging tegen den handel van blanke
+slavinnen en voor de bescherming van jonge
+meisjes l
+
+Toen wy het woord richtten tot schoone
+vrouwen (vrouwen die er zoo bekoorlijk uitzien
+in kant en pels gedost), toen wy haar spraken
+over de zorgen en ellende van andere vrouwen
+van hetzelfde vleesch en bloed als zy zelven,
+van andere_ vrouwen, die hare zusters zijn
+zijn die schbone vrouwen voorbijgegaan.
+Wij hadden gehoopt de aandacht dier vrouwen
+te trekken, haar n oogenblik af te wenden
+van haar gemakkelijk, gelukkig leven, om haar
+te dwingen dit dreigende gevaar in de oogen
+te zien, de jonge meisjes by te staan, die zoo
+wreed bedreigd worden, wij hadden gedacht
+een beroep te doen op het vrouwenhart
+maar zy zyn voorbijgegaan.
+Hebt gy het verstaan? Die vrouwen zyn
+voorbijgegaan, hare oogen sluitend voor de tot
+haar uitgestrekte handen. Kunt gy' dit feit
+verklaren ? My is 't onbegrijpelijk en toch
+komt het dagelijks voor.
+Hoe komt het dat in die harten, meestal zoo
+teeder in hare affecties, een plekje is a's steen
+zoo hard: dat die harten, gewoonlyk zoo vol
+mededoogen voor armen en ongelukkigen, in
+staat zyn tot een wreede onverschilligheid voor
+zekere gevaren en zeker vrouwelijk lyden?
+Wat is de reden dezer anomalie dat teedere
+harten versteenen en de warmste genegenheid
+in koude onverschilligheid verandert ? Het is
+een vreemd verschijnsel l Er moet een misver
+
+stand bestaan, dat noodzakelijk moet worden
+opgeklaard.
+Waarom denken zoovele vrouwen dat er graden
+'bestaan in de lietde en belangstelling, die wy
+verschuldigd zyn aan onze naasten ? Dat er een
+soort ellende bestaat, die haar wel aangaa', en
+een soort ellende, die haar onverschillig laat?
+Dat weezen, armen, zieken recht hebben op hare
+zorgen en bemoeienissen, maar dat als jonge
+meisjes, vrouwen behoed moeten worden tegen
+gevaren, veroorzaakt door de slechtheid van
+anderen, en geholpen moeten worden als zy' er
+onder bezwijken, zoo iets haar volstrekt niet aan
+
+gaat 1 Wanneer het gevaar ernstiger, dringender
+is, vindt ge dan dat het oogenblik daar is voor
+de vrouwen om zich terug te trekken ? wanneer
+er geen sprake meer is van koude of honger
+van kleine kinderen, maar van het geheele
+moreele en physieke leven van joage meisjes
+en vrouwen; wanneer zy vallen if reeds gezonken
+zyn, is dat het oogenblik, dat wij kiezen
+om te zeggen: dat gaat ons niet meer aan ?
+Nogmaals, wien gaat het dan wel aan ?
+Wy zyn heden hier vereenigd om de kwestie
+over den handel in blanke slavinnen te be
+
+spreken. Gjj weet dus, waarop ik doel en over
+wat soort van werk ik wensen te spreken. Een
+belangryk deel van het administratief, diplo
+
+matiek en officieel werk kan alleen uitgevoerd
+worden door mannen, wier liefderijk hart, ge
+
+nspireerd voor den strijd tegen dit ontzettende
+kwaad, ons hulp verleent bij het beschermen
+van jonge meisjes die over het algemeen eer
+onschuldig en onvoorzichtig zyn dan slecht,
+Wy danken hun er hartelyk voor, en in het
+bijzonder onzen president, voor. zijne toewijding,
+zyn bereidwilligheid nieuwe lasten op zich te
+nemen; maar een groot deel van de taak komt
+op ons neer, om te beginnen moeten wy
+ons met hart en ziel daaraan geven.
+Indien wij overtuigd zyn van de
+noodzakelykheid dier taak en velen van hen, die nu naar
+mij luisteren, zeker ook toch zyn er mis
+
+schien nog enkelen, die daaraan nog niet de
+noodige aandacht gewijd hèD ben, en die niet
+hebben nagedacht, dat indien wy groolen dank
+verschuldigd zijn aan de mannen, die den strijd
+voor de vrouwen hebben opgenomen, wy ons
+niet aan de lafhartigheid moeten schuldig
+maken, hen al het werk te laten doen, dat
+bovenal het onze is.
+Natuurlijk wensch ik geenszins de waarde
+te verminderen van de tallooze liefdadige wer
+
+ken, waaraan wij ons wijden; het is niet meer
+dan onze plicht.
+Het komt my overbodig voor by de belang
+
+rijkheid daarvan stil te staan; welke ik ten volle
+beaam. Wat ik wensch is dat wij geen
+grensl^n moeten trekken en denken dat wy die niet
+moeten overschrijden. Dat er zorgen, gevaar en
+ellende bestaan voor vrouwen, welke wy moeten
+weten en trachten te verminderen. Wanneer er
+sprake is van. vrouwen, dan is het altijd de
+plicht der vrouwen te handelen.
+De wreede onverschilligheid van een groot
+aantal onder "ns zou in dit opzicht gruwelijk
+* zyn, indien zij alleen voortkwam uit onver
+
+schilligheid; maar zy is het gevolg van een
+mengeling van deugd, dwaling en indolentie, en
+juist deze wensch ik aan te vullen.
+De deugd of liever dit valsche begrip van
+deugd wie heeft ons dit geleerd, wie heeft
+het uitgevonden? Het is myn voornemen niet
+iets onaangenaams te zeggen tot degenen, die
+naar me luisteren, maar ik moet my'n meening
+wel uitspreken. Wie heeft ons gezegd, dat een
+reine vrouw zich op deze wereld alleen mag
+bemoeien met personen, die voor alle onrein
+
+heid beveilgd zyn ? Dat zyn de mannen! Wie
+heeft ons gezegd; zorg voor de armen, de weezen,
+de zieken, maar de jonge meisjes behoeden
+voor schande en slechtheid, gevallenen te helpen,
+dat is uw zaak niet. Wie heeft ons dat gezegd ?
+De mannen l
+Zy' hebben u gezegd dat een fatsoenlijke
+vrouw niet noodig heett te weten wat
+onkuischheid beteekent (zij hebben dat natuurlijk niet
+ellende en lieden genoemd). Zy hebben gezegd
+dat een vrouw voor hun oogen iets van haar'
+onschuld inboet, wanneer zy zich met die zaken
+bemoeit, en gij hebt hen geloofd, gy zy't er bang
+voor" geweest en hebt de oogen gesloten. Het
+spreekt van zelf dat men de meeningen deelt
+van den man, die men liefheeft, maar gevoelt
+gy niet dat zelf;) in het gelukkigste huwelyk,
+waar wederzijds het meest volkomen ver
+
+trouwen heerscht, de vrouw verantwoordelijk
+is voor hare meeningen, haar invloed ten goede
+en ten kwade, haar onverschilligheid, dat zy
+in groote mate verantwoordelyk is voor hare
+dadtn? Als zy' overtuigd is dat haar man on
+een dwaalspoor is, zou zy dan haar plicht van
+trouwe echtgenoote niet beter vervullen door
+hem te overreden, dan door het hoofd te buigen
+met een gedweeheid, die meer heeft van ge
+
+makzucht en onverschilligheid ? En indien gy
+meer of min ernstig nadenkt, zy't gy dan niet
+getroffen door de grenzenlooze, ongelooflijke
+huichelary (onbewust, dat wil ik aannemen)
+van deze heele kwestie van valsche deugd en
+valsche zedigheid ? Zekere matmen zullen hun
+vrouwen meenemen naar den schouwburg, waar
+de deugd min of meer bespottely'k wordt ge
+
+maakt, waar ongepaste toespelingen en nog
+ongepaster dubbelzinnigheden te hooren zyn,
+en dat zal hen tiet hinderen om uwentwille.
+Zij zullen u boeken te lezen gejen, waarin
+lage hartstochten met geraffineerde fijnheid be
+
+schreven zyn, waar de handelingen der echtbre
+
+kers u in alle bijzonderheden dikwyls in al
+haar naaktheid onder de oogen worden ge
+
+bracht, zy zullen u de verhalen over galanterieën
+en kleine schandalen meedeelen, die zy in de
+sociëteit hehoord hebben. O kuische vrouwen,
+heilige mannen, durft ge niet spreken over den
+handel der blanke slavinnen, noch u ermede be
+
+moeien. O, wat een huichelarij, wat een leugen is
+het menschdoml
+Ik neem dus aan, in principe, dat de eerste
+fout, de verkeerde wy'ze om de kwestie in te
+zien, van de mannen uitgaat, en dikwijls van
+de beste en voortreffelijkste onder hen.
+Zy hebben het niet uit huichelary' gedaan,
+maar enfin, zy hebben zich vergist Maar dan?
+Denkt gy dat wy, vrouwen, ontheven zyn van
+onze verantwoordelijkheid?
+Zij is wat verminderd, dat is alles. Wy
+hebben vóór ons nog den ontzachelyken berg
+van te vervullen plichten; alle soorten van
+ondeugd en slechtheid, die wij hadden moeten
+uitroeien en waarvoor wij de ooejen hebben
+gesloten. (Slot volgt).
+E. KUNST—HEÏNBMAN.
+De Trouw in Japan,
+Doorgaans wordt door de Europeanen met
+groote bewondering en geestdrift over de
+Japansche vrouw gesproken. Bestaat er iets
+bekoorly'kers dan de orchidee-achtige gratie
+van eene Sada-Yacco? of iets verleidelykers
+dan eene Operetten-Geisha? Maar om de
+waarheid te zeggen Madame Crysanthèine,
+zooals Pierre Loti haar vol enthousiasme als
+exotische bloem van de heerlykste kleur en
+den schoonsten vorm voorgesteld heelt, is geens
+
+zins het type der Japansche vrouw. Naast de
+tentoonstellings Japonaises" bestaan ook de
+gewone- of huis-Japaneeschen en over deze
+zal de Europeaan, die ze in haar land heeft
+l gezien en geobserveerd, geheel anders oordeelen.
+Iemand die veel gereisd heeft, en door
+allerlei omstandigheden en handelsconnectiën
+ruim'chootsin de gelegenheid was met Japansche
+families om te gaan en ze van nabij in hun
+interieurs te leeren kennen, heeft onlangs,
+otschoon geen schryver van beroep, in de Revue
+Contemporaine, interessante mededeelingen ge
+
+daan over hetgeen hy in die vele jaren opmerkte
+ea ondervond; een en ander zij hem
+hiervaT naverteld.
+Op het eerste gezicht maken de Japanschs
+vrouwen, ook in hun laai gezien, een karak
+
+teristieken indruk Hare kleine, sierlijke ge
+
+stalten herinteren vooral op eenigen afsta;:d
+zóó levendig aan de silhouetten, die men op
+japansch lakwerk, en met zydo bewerkte
+kakemono's ziet, dat meu zich in een sprookjes
+
+wereld vaa Oatamaro ot Hukusai verplaatst
+denkt. Maar spoedig kont m«n daarvan terug.
+Van naby gezien lyken de meeste Japan
+
+sche vrouwen zeer leelyk. Haar bovenlyf
+is meestal gebogen daar ze de slechte gewoonte
+hebben hare kleine kinderen, zusjes of broertjes
+op den rug te dragen. Door te nauwsluitende
+onderkleerea en de strak-getrokken kimono's,
+in hare vrye bewegingen belemmerd, hebben
+ze een eigenaardigen, waggelenden gang met
+kleine pasjes; ze loopen op een soort houten
+klompjes met de voeten binnenwaarts, omdat de
+groote teenen door 'n lus van band gestoken zyn.
+Het haar wordt rykelyk met olie besmeerd,
+styf gekapt en zoo 'n japansch kapsel blyft
+dagen lang onaangeroerd, daar zy ook met
+gekapt hoofd slapen. Onaangenaam treft de
+meestal ietwat loensche blik der kleine
+oogen en het sterk gepoederde gelaat met de
+rood gekleurde lippen en gepenseelde wenk
+
+brauwen. De getrouwde vrouwen worden nog
+leelyker gemaakt door de zwatt geverfde
+tanden. Men beweert dat deze voorzorg genomen
+wordt met het doel om ze minder bekoorlijk
+voor andere mannen te maken en ze dus niet
+in de gelegenheid te stellen te flirten I
+Het schaamtegevoel schy'nt by de Japansche
+vrouw niet sterk ontwikkeld te zyn, vooral niet
+by de armere klasse, waar men vaak vrouwen
+ziet die de linkerzijde van haar lichaam, van
+at de heup, onbedekt laten. Datgene wat het
+indiscrete oog van den vreemdeling dan opmerkt
+is wel is waar zoo weinig bekoorlyk, zóó onaan
+
+trekkelijk, dat de lust tot dergelijke studies
+van plastiek niet opgewekt wordt. De vormen
+der Japansche vrouwen missen meestal alle
+harmonische ontwikkeling en scüoone lynen,
+de huid is bloedeloos. Zy bezitten ne zeer
+goede eigenschap, n.l. hare uiterste zindelykheid,
+eiken morgen nemen ze haar warm bad. Veel
+zorg besteden zy ook aan het onuerhoud van
+handen en voeten, te mier da*r zy geen
+kousen dragen en doorgaans blootsvoets op
+zeer zindelyk gehouden matten rond trippelen.
+De voeten der Japaneescaen worden niet
+zooals die van de cuineesche vrouwen misvormd,
+dank zy hare onbekendheid met leeren tchoenen,
+hebban zy natuurlijk-ontwikkelde, sicrlyke
+voetjes. Die maken eigeulyk haar eenige cnarme
+ui', maar voldoende is dat toch niet om hare
+andere gebreken Oïer 't hoold te doen zien.
+Hoogstwaancbgoryk i* de ulechta voodmg
+der vrouwtn in Japan gedeeltelijk de oorzaak
+van hare onvolkomen piiysieke ontwikkeling.
+Zy eten byna nooit vleescti, haar hooidvoedael
+bestaat uit wat gekookte ry'at met visch en
+groenten. Daarbij drinken zy byna den geueelen
+dag door thee, uit kleine noiendopachtige kopjes
+en zuigen op tabakspruimpjes. JNiet te verwon
+
+deren is 't, dat men by zulk een leeiregel
+bloedarm wordt.
+Dat de sociale positie der vrouw in Japan zeer
+ondergeschikt is en dus nog allee te wenschen
+overlaat, is genoeg bekend. De trots der familie
+zyn de zonen, van wien alles voor de toekomst
+verwacht wordt; de meisjes Bchy'nen alleen te
+bestaan om ze te bedienen, zich desnoods voor
+hen op te offeren. Van af haar vroegste jeugd
+wordt het meicje als een werkezel beschouwd,
+aan wie de moeielykste en onaangenaamste be
+
+zigheden worden opgedragen. En waar zulks ter
+wille der zonen Loodig is, ziet men er volstrekt
+niet tegen op, de dochters als slavinnen te
+verkoopen of ze aan de prostitutie prijs te geven ;
+dikwyls gebeurt dit om de op /oedinguKObten
+der zoons te bekostigen, hunne plaatsing in
+een of andere zaak ot hunne beroepsuitoefening
+mogelijk te maken. In de families die van de
+Samouraïa, den oudsten adel, afstammen, komen
+zulke gevallen hoogst zelden voor. Dergeiyke
+beslissingen worden eerst door een familieraad
+behandeld en overwogen. Deze menschenhandel
+heeft iets onuitsprekely'k wreeds, want doorgaans
+bespeurt men gedurende de beraadslagingen
+van zulk een familiebijeenkomst by de ouders
+van het meisje niet de minate ontroering ; men
+bespreekt alles droog en zakelijk en het geld
+wordt opgestoken zonder dat er tranen vergoten
+worden. Verder bekommert men zich niet meer
+om het verkochte meisje. Dank zij de thuis
+ondergane dressuur en de verworven kundig
+
+heden, vinden ze licht hare plaats in een der
+tallooze theehuizen. Ze hebben de ingewikkelde
+ceremonie van het thee^etten en schenken ge
+
+leerd en in de weinige vrije oogenblikken, die
+ze voor zichzelve hadden, hebben ze zich, op
+gekruiste beenen voor de deur zittend, geoefend
+in 't tokkelen op de snaren der Samise ofUer
+Geika, waarbij ze haar zwak, krakerig stem
+
+metje lieten hooren. Dat is hare heelo muzikale
+opleiding Door deze kunstjes en hunne
+grenzelooze onderdanigheid en dienstvaardigheid,
+weten ze zich in hare nieuwe omgeving spoedig
+gelieid te maken.
+Voor.den Europeaan zyn ook de zoo hoog
+geroeide GeiAa's en Mousmé's weinig
+aantrekkelyk.
+Met nieuwsgierige aandacht bestudeert men
+in het begin in de theehuizen verschillende
+nationale gebruiken en gewoonten, o. a. den
+karakteristieken dans der G.iisha's, waarby
+deze als boete voor het buiten de perkea gaan
+der voorgeschrevene bewegingen, telkens een
+kleedingstuk moeten afleggen. Het esthetische
+interesse van deze ontkieedings-scè.-.e is uiterst
+gering en daar men die ook buiten de thee
+
+huizen kan waarnemen, verliest 't spoedig het
+eigenaardige, dat men er eerst in gevonden had.
+Het reeds vermelde gebrek aan schaamte
+
+gevoel by de Japansche vrouwen, herinnert aan
+primitieve toestanden. Zoo is het ook niet
+zeldzaam dat men in de stad, maar mér nog
+buiten op het land, soms troepjes half ontkleede
+vrouwen ontmoet, die het kleed aan den gordel
+hoog opgetrokken hebben en met bloote beenen
+voortstappen.
+Aardige kijkjes kan men 's avonds in de
+schemering waarnemen. Byaa alle Japansche
+huizen hebben den ingang vóór, vlak aan straat
+en zoo heeft men een vrijen blik in de intérieurs,
+waar de jonge meisjes vaak aan baar toilet zijn.
+Men ziet ze dan op matten gehurkt, bezig
+met haar kapsel, of met poederen en blanketten
+voor kleine spiegels, zonder zich 't minst aan
+de voorbijgangers te storen. Die sans-gêne,
+die de lagere klasse kenmerkt, is natuurlyk
+niet eigen aan de hoogere standen. Wel is waar
+komen in het moderne Japan meer en meer
+gevallen voor, waarin hooggeplaatste mannen,
+ja, zelfs van staatswege aangestelde waardig
+
+heidsbekleders, Geisha's, die ze in theehuizen
+hebben leeren kennen, tot echtgenooten nemen,
+wat niet tot veredeling van het vrouwenras
+bydraagt. Maar gelukkig vindt men in de
+fijnere Japansche kringen toch ook goed opge
+
+voede, ontwikkelde vrouwen, die zich in gezel
+
+schap gemakkelijk bewegen, met bevalligheid
+recipieeren en niet alleen den stand harer
+echtgenooten ophouden maar ook hun streven
+tactvol weten te ondersteunen.
+Jammer genoeg vinden de Parysche modes
+hoe langer hoe meer ingang onder de Japan
+
+sche dames en dreigen de geheele, zoo gracieuse,
+nationaaldracht te verdringen. Waar dit nog
+niet het geval is, geven zij blyk van veel
+smaak in de keuze harer kleeding. In tegen
+
+stelling met de Geisha's, die zich gaarne met
+opvaUeadende, vrij bonte kleuren opschikken,
+schenken zy de voorkeur aan zactite, stille, meest
+donkere tinten. Alleen aan den Obi", den
+grooten strik van brocaat of zy'den damast, dien
+zy op den rug dragen, wordt veel luxe besteed
+By feestelijke gelegenheden spreiden de Japansche
+dames eenebizonder voorname elega; ce ten toon.
+Wat men dan aan teer- getinte zyde en brncaat,
+aan bewerkt krip te zien krijgt, verschilt
+hemelsbreed van de met gouddraad doorwevene
+styf uitstaande costumes, dio men over 't
+algemeen in Europa voor het toppunt van
+jayotmcbo praolit hnilHf"
+Men zou allicht denken dat deze meer ont
+
+wikkelde en gedistingeerde dames op zekere
+mate van hoffeiijkheid van den kant der heeren
+zouden kunnen rekenen en aanspraak maken.
+Dit is echter in het geheel niet het geval.
+De geheele vooruitstrevende beweging in Japan,
+schijnt alleen ten gunste der mannen onder
+
+nomen te zyn ; terwy'l de Japsneezen tegenover
+buitenlandsche dames de grootste beleefdheid
+en fijne vormen in acht nemen, schijnen ze
+van het bij hen ingeworielde, minachtend neer
+
+zien op de vrouwen van hun eigen ras, geen
+afstand te kunnen doen. Aan tafel worden de
+heeren. zoowel de gas'.en als de huisheer, 't
+eerst bediend. Op reis genieten alleen de
+mannen van de gemakken en geriefelijkheden,
+zoodat het nie's vreemds is, als men op uit
+
+stapjes in de omstreken der stad, een Japanees
+ziet, die in een palankyn gedragen wordt,
+terwijl zyn vrouw daarachter te voet aansukkelt.
+In n woord, in dat verre Japan het
+Aziatische Frankryk" ligt voor de werk
+
+zaamheden der feministen nog een uitgestrekt
+arbeidsveld ter exploitatie open.
+M. v. 0.
+IllUlllllUIIIIMUMtUMtMM
+QMvUvi
+Modes. Mejuffrouw dr. Rena. Hennie
+Raché. Monument voor Schiller en
+i-oor Goethe.
+
+Mei is in 't land l »Der wunderschöne Monat
+Mai!" 1) Aan dichters heeft Mei zyn vriendelijke
+vermaardheid te danken. De aanteekeningen
+op meteorologische instituuts plus de ervarin
+
+gen van koel beredeneerde proza-menschen
+zyn in stty'd rriet des dichters jubelzangen,
+lovend en pry'zend kleuren en geuren, glanzend
+licht en koesterende zorme-warmte van Mei.
+Ben venynige bries blazend uit den
+Noorderhoek striemt en schudt het teer ontloken groen.
+Zwarte en dofgryse wolkmassa's ylen in rappe
+vaart door 't zwerk; regen- en hagelbuien
+kletteren tegan de vensters. In de nacht-stilte
+trillert de nachtegaal zyn zoetlokkenden min
+
+nezang. Een rots zou hij verteederen .... Maar
+bij zoo lage temperatuur, zal sinjaur nachtegaal
+zijn hartstochtelijke haaltjes nog lang door het
+duister geboomte mosten doen schallen, vóór
+de nieuwsgierige wijfjes haar kopjes uit de
+veeren beuren, den slaap afschudden en op
+verkenning gaan rondfladderen, om het schuil
+hoekje van den onvermoeiden menestreel te
+ontdekken en hem te danken, door aanbieding
+van haar verteederd harte.
+Tóch herinnert Mei ons, dat het hoog ty'd
+wordt, aan zomer-toiletten te denken. Wy
+moeten nu keuze doen van materiaal en snit.
+Opengewerkte linons en batist op gekleurd
+zy'den fond, zullen veel navraag hebben. Linon
+japonnais is een geheel nieuwe, zeer mooie
+stof, met gekleurde- zy'den strepen doorweven.
+Een stof zoo zwierig en kleurig, dat ze met
+weinig garneersel gebruikt moet worden. n
+soupc.on mooie kant of guipure c'est tout ce
+qu'il faut. Als voering kiest men de
+domineerende tint der zy'den strepen.
+Groote, kanariegele ruiten op een fond van
+cru linon is nieuwerwetsch. Lange, slanke
+
+1) Waarom zingt Heine kom wunderschönen
+Monat Mai ? Weil es eben Wunder ist, wenn
+der 'mal schön ist.
+brunettes kunnen er eens over denken. Beige
+linon met breede en smalle witte zijden
+strepen en k jour gewerkte randen zyn
+voorhanden. Touwkleurig fond met fraai
+gestyleerde motieven in turquoise, chicé, violet,
+rose en rood. Batist en linon met ingewerkte
+zy'den borduursels zullen veel gezien worden.
+De geborduurde mopjes, arabesken, sterretjes,
+slangetjes, balletjes, mousjes, lelies, zijn in
+harmonieerende óf sterk contrasteerende tinten
+met het fond.
+Eindelooze variaties op het gebied der
+cretonnes. Solide stof, zeergeschikt voor ochtend
+toiletten, om buiten en aan bet strand te
+dragen. Linnen en piquézyn geschikt voor
+hetzelfde doel. Blousevormig corsage met
+voet-vryen rok. Het modieuse korte rokje
+zal met vreugde begroet worden door dames
+die gaarne doel nemen, aan wandel-, iosi- of
+zeiltochten, tennis en hockey.
+De mouwen blijven van boven glad en van
+den elleboog af heel wy'd.
+De chapeaux Bergere en chapeaux Lamballe
+zyn nog op 't programma. Bloem- of
+bladergarneersel om de bol en achterwaarts
+sluikafhangende fluweelen of chiffon einden.
+Onvervalscht-bergère-achtig versiert men de onder
+
+einden der afhangende slippen met bloemen.
+De overbekende, hél mooie, Zwitsersche
+geborduurde neteldoekjes worden ook by
+massa's ingevoerd Ean bewijs, dat zij nog
+voortdurend aftrek hebben. Blanke
+Valenciennes, zwarte Chantilly en geelige lersche
+guipure ij J y'ven en vogne.
+Jonge meisjes die by de kroning van
+Engeland'a koning «paraisseeren" met voor
+
+liefde heeft men dit tydstip afgewacht, eommige
+gaan door de kroningsf eesten een jaar te
+vroeg, andere een jaar te laat uit zullon
+aa\f\aoA Tijn Qta omlnr" liaflr crrnntmnnHppa in
+eenvoudig, wit mousseline. In hst kapsel een
+blauw strikje of een paar rozeknoppen....
+«Etl'on revient toejours a sespremièresamours".
+# *
+*
+Dezer dagen werd mejuffrouw dr. R. K.
+Renz als volontair aangesteld aan de koninklijke
+Hof- en Staatsbibliotheek te München. Het is
+voor het eerst dat' in Duitschland een vrouw
+tot een dusdanige betrekking benoemd werd.
+Den 121en December 1863 te Altenstadt a/d.
+Iller in het Beijerseh regeeringsambt Schwaben
+geboren, had mejuffrouw Renz van haar vroegste
+jeugd af te kampen met al de ellende ver
+
+bonden aan het onbemiddeld-zyn. Jaren-lang
+leed zy gebrek en was het leven voor haar
+een aaneenschakeling van bittere bekommer
+
+nissen. Zy hield vol en streed een harden
+Mejuffrouw Renz liep het «humanistische
+Gymnasium" te München af en dead in Zürich
+met goed gevolg examen in drie moderne
+talen. Vier jwen lang studeerde zy klassieke
+en moderne philologie, wijsbegeerte, letter
+
+kunde en geschiedenis. Toen deed zy op
+schitterende wy'ze haar staatsexamen. Daarna
+zette de ondernemende, geleerde jonge vrouw
+koers naar New-York om zich geJurende drie
+jaren te bekwamen in klassieke taal en letter
+
+kunde en sociale wetenschappen In Amerika
+doceerde zy aan verschillende inrichtingen
+voor hooger onderwijs, wijsbegeerte en taal
+
+kunde. Voor eenigen ty'd in haar vaderlacd
+teruggekeerd, begon zij de vruchten van haar
+studieën en reizen te openbaren in een popu
+
+lair-wetenschappelijk tijdschrift »Vö!kerschau",
+dat gesteund door prinses Therese van Baijeren,
+zelve een vrouw van studie op ethnographisch
+gebied, sinds dien tijd door dr. Renz wordt
+geredigeerd en byiragea vaa verschillende
+geleerden ontvargt, ook van de prinses zelve,
+die onder dan naam Tdrese Briyar scaryfc.
+Mejuffrouw dr. Rv z is thans bezig aan een
+werk (»L:ebe bei Naturvolkern") dat weldra
+zal verschijnen.
+* *
+*
+Als drama-schry'fater debuteerde aan het
+Thalia-theater te Hamburg de jonge mevrouw
+Hennie Raché, die zich reeds onder haar
+j meisjesnaam Hennie Fock als lyrisch dichteres
+gunstig deed keunen. Zy behaalde thans met
+haar tooneeispel in drie bedryven »Uaber der
+Liebe" een onbatwist succes.
+* *
+*
+Wiesbaden krygt een nieuw Schiller-monu
+
+ment, dat de dichter op anderhalfmaal levens
+
+grootte zal voorstellen. Hst ontwerp is van
+den Barlynschen beeldhouwer prof. Uphnes.
+* * *
+Ds Darmstadt zal een Goethe- monument
+verrijzen, waarvoor da gemeenteraad der
+Hsssische hoofdsiad 'JOO.OOO Mark heeft toegestaan.
+Een wélvoorziene gemeentekas!
+CAPRICE.
+* *
+*
+Gelei van sinaasappelen. Ingrediënten. 3y2
+d. L, sap van sinaasappelen, 1% d- L, madera,
+s/4 d. L. citroensap, 250 gr. witte suiker, 30
+gr. roode gelatine.
+Bereiding. Het sap van de vruchten ver
+
+warmen met de suiker en de gelatine; zoodra
+dezs opgelost is, de madera er bijvoegen en
+alles in een vorm laten bekoelen.
+Deze gelei moet een of twee dagen voor
+men ze gebruiken wil,- gemaakt worden, of
+men moet meer gelatine toevoegen.
+
+</text>
+<image timestamp="2002:08:17:18:50:42.00" size="542814">D2001CX.TIF</image>
+</page>
+</document>

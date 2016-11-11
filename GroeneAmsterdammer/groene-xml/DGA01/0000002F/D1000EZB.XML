@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260410</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^ ^^^ » ^ "•
+leut voor
+VRAAGT
+VAN BIJSTERVELD'S
+
+ADVOCAAT
+Het BESTE MIDDEL voor de
+verzorging, bescherming en 't be
+
+houd der tanden
+(tandglazuur)
+is
+Doordat ze zeer
+goedkoop en toch
+goed is, kan ze de concurrentie
+met binnen- en buitenl. merken
+glansrijk weerstaan. Overal ver
+
+krijgbaar in de bekende doozen
+en tuben.
+A R ZURCHER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT64'66-68-70-72,AMSTERDAM
+I ARNHEM (Groote Markt)
+HOTEL DES PAYS-BAS
+L
+R
+E I S - =
+I S I C O
+S ' ' '
+WJ -f *• •«•
+BAGAGE-, RIJWIEL-,
+ONGELUKKEN-,
+AUTOE.A. VERZEKERINGEN
+Vraag onze concurr eerende premiën
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM LEEUWARDEN
+N.V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS 6 Co,
+Behangerij - Ameublementen - Stoffeerderij
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELSTRAAT 110 en 126 TELEFOON «739 « 37354
+de heerlijke Cacaodrank
+wordt gedronken".mct Melk of Spuitwater
+Benige Fabrikanten F. KORFF 6 Co., Amsterdam
+PROJECTIE LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+
+AMSTERD&amp;M DEN HAAG
+115 KAIVERSTB? IZ« NOORDEINDE
+NIJMEGEN GRONINGEN
+3 KL P
+-STERSTRJERISMAAR
+KAEELI
+s DIMT
+N.VVM.
+H-A-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+|TIMTUR|
+EEN ZEGEN IN HUIS
+is een
+
+SENKÏNG
+Gasfornuis of
+comfoor
+
+Geld noch Tijd
+gaat dan te loor
+
+OVERAL VERKRIJGBAAR
+
+Adres voor den handel
+JOH. H. VAN DER MEIDEN
+AMERSFOORT
+WERF ..M ICO L AAS W IT5E N'"
+
+STOEL ALKMAAR
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCmÏLT
+Singel 283
+Amsterdam
+1781 ^-^* 1926
+
+Hendrik Kruimel
+Wijnhandelaar Amsterdam
+Eenig opvolger van
+Schimmelpennmck &amp; Kruimel \
+Kantoor: Keizersgracht 325
+Telefoon 40647
+KOFFIE!
+ENTHEE!
+»MSTERDAM-AMSTEL506 \
+TEL.N.1O14
+5
+f' ~. .CQpe"
+Fijne likeuren
+
+</text>
+<image timestamp="2002:10:09:17:47:29.00" size="150005">D1000EZB.TIF</image>
+</page>
+</document>

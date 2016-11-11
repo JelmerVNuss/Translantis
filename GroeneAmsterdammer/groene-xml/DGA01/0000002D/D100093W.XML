@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381029</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+meer op Uw stroomrekening
+dan hun
+
+run ir*
+irliia
+
+IDE BILT i.™.».wuiiOAABDmi*c»^T«i.«wr,a
+•^B Dlbl IUMM, u««&gt;iil&lt;ii emtor tcduutmir t«&gt;au»»J K.
+!•«•&gt;••«»&lt; fcM. Koipioin !••••- f !!•••. Hr». &gt;&lt;&lt;cMfc&gt;t«r. (
+**rw„w. M k. «r. wu*r.
+«TIJ/.-., «„.„r f &gt; .
+30-jarize marii.g is e;n
+VV»»3p6rj!i:clit 143, Tel. 53213
+GEVRAAGD:
+MANUSCRIPTEN VOOR
+JONGENS* EN/OF MEISJESBOEKEN •
+ALLEEN NIEUWE EN OORSPRONKELIJKE WERKEN, GESCHIKT
+
+VOOR LEEFTIJDEN VAN 8—12 EN 12—16 JAAR KOMEN IN
+AAN
+MERKING. OOK MANUSCRIPTEN VOOR KINDERBOEKEN
+
+(LEEFTIJD TOT ONGEVEER 6 JAAR) KUNNEN GEBRU4KT WORDEN.
+
+HONORARIUM NADER TE REGELEN,
+
+BRIEVEN EVENT. MET COPIE ONDER NO. 10475, BUR. V. D. BLAD
+&gt;»»»«»»•«»»»•»««»••»«•»»«»•»»««•»»••»*«•»»«**»«»••»**•»»«•**
+MB. a- M GROEN! N* HM
+
+</text>
+<image timestamp="2002:10:02:21:15:57.00" size="198964">D100093W.TIF</image>
+</page>
+</document>

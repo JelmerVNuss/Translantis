@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18850322</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'"tftf 404
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+SCHAAKSPEL.
+No. 12.
+Van met z'n vieren", te Amsterdam.
+ZWABT.
+d e t 'g 11
+WIT.
+Wit speelt TOOI' en geeft in 3 zatten mat.
+(Wit C en Zwart 8 met K. 'E 41.
+OPLOSSING VAN SCHAAKPKOBLEEM No. 10',
+l D 5 E 5 ! Ad libittim.
+2 Pd., T. of E. geeft mat.
+
+INGEZONDEN OPLOSSINGEN.
+Juist is No. 10 en 11 opgelost door W. v. H. te Delft; P te Utrecht; No. U door
+V. te W. Ook is juist opgelost No 10 en 11 door raat z'n vieren" to Amsterdam;
+Duo-Terwolcle ; Do G. V. en B. te Kaatsheuvel ; E. te A. No 10 e:i J. H. N. te Venlo
+10 en 11 (b 8 zal wel A S bedoeld wezen) Wat betreft No 9 van H. te Rotterdam
+Duo-Torwolde ; J. H. N. te Venlo, allen zijn, tweeden zet Wit in Verleidingnpel ver
+
+vallen en zagen voorbij de eenig afdoende zet van Wit 2 C 3 A 4. De G. V. en
+B. te Kaatsheuvel zonden een verbeterde gordo opl. mm-j later. Do schaakstndie
+is juist opgelost door W. v. H. te Delft en v. d. M. te N.N.
+Hans Ma k a r t, als schaakspeler.
+Naar do beschrijving van menschen die do beroemde Oostenrijksehe schilder en
+decorateur koncpn, i» Maliart van een ilroomerigen, stillen, bijna somberen aard.
+Een zijner liefhebberijen ia het schaakspel. Hij spoelt een partij zonder een woord
+te zeggen. Mejufi'r. Galhneijer, do Wcener «angeres, woddo eens dat zij Malcart
+onder het spelen zon noodzaken te spreken. Mej. G. is eene zeer bevallige en zoer
+geestige jongo dam*. Zij wist snedige gezegden to vinden en deed allerliefste
+vragen. Mnkart vertrok geen grz 'cht, fronsdo de wenkbrauwen niet, Rntwoorddo
+niets. Dood bedaard verzette hij do stukken en was met zijn gedachten wis weet
+waar. (Illimtratioii, Dcc, 1832).
+
+Niet aangenomen Paard-Gaiabot (f), gespoeld te Rotterdam.
+Tut
+1
+2
+8
+4
+5
+(i
+7
+8
+9
+10
+n
+
+(t)
+: C.
+e 2
+f 3
+f4
+d 2
+g 2
+S 1
+h a
+b 1
+d 1
+c 3
+e 4
+Wit
+Sch
+E. A
+e
+i
+nt e
+d
+g
+
+nt g
+c
+0
+c
+d
+. D.
+4
+4
+5
+3
+t&gt;
+3
+3
+3
+2
+4
+0
+-tgeeft in 4
+. Kal
+. N. S
+Zwart : L. A. N.
+e 7 e 5
+R 8 f G
+f G nt e 4
+d S _ h l +
+e 4 nt fi 3
+U 4 h 5
+h r, nt h 1
+c 7 c C
+h 1 h 5
+f 8 o 7
+e 7 nt d G
+zetten mat.
+Wconorpai
+W,t
+1
+2
+
+4
+r&gt;
+G
+7
+8
+(1
+10
+11
+jh. b.d, 188*. 12
+:
+0
+b
+g
+a
+d
+h
+0
+f
+0
+c
+g
+e
+G
+2
+1
+1
+2
+2
+2
+1
+
+3
+3
+5
+1
+. • •
+•—c
+c
+i'
+
+- 'd
+h
+o
+h
+&amp;
+nt n
+,, d
+e
+Zwait :
+4
+
+;j
+;;
+3
+tij
+C.
+c 7
+li S
+.',' 8
+f 8
+d 7
+
+E. A. D.
+o 5
+
+f 6
+c
+d U
+i! llokkeert
+j&gt;
+2
+B
+4
+8
+o
+c- 5
+d B
+d 5
+f (i
+b G
+c 0
+b G
+d 5
+nt c 4
+e 4!1
+f 2 +
+dl mat.
+BRIEFWISSELING.
+Probleem EO. O is door enkels oplossers als volgt opgelost : l h 7 g G, zwart
+b l nt d 2!; waarna zij wit 2 den zet laten spelen dn zwakke zet o ;i d l?
+Uit de door ons reeds medegedeelde oplossing kan voldoende blijken dat wit's besten
+zet is: C 8 A 4 enz. Het is do eein'ge weg, die ook bij de sterkste verdediging
+van zwart, tot een mat in vijf zetten voert.
+"W. d. V. te A. De meesten van 3. L. zijn ine bekend. Intusschen veel danlt.
+Henri to A. Het spijt mij, maar te laat verzendea op de post doet de aansluiting
+Miesen, waardoor een week vertraging ontstaat.
+V. d. M. te N.1I. Goed maar van licht gehalte; doch om elk wat wils te geven,
+behooren wij ook aan &lt;lien elseh te voldoon.
+» VAN »E WEEK.
+Hoewel Z. M. do Koning gedurende zijn aanstaand verblijf alhier vermoedelijk
+bet inwendige van het Rijksmuseum in oogenschonw zul nemen, zal naar men
+verneemt, do plechtige opening dan niet plaats hebben. Zy zal geschieden in Juni
+of Juli e. k. en Uet plan om te dezer gelegenheid een optocht te houden, is niet
+opgegeven. Integendeel, hot programma en do wijze van uitvoering worden met
+zorg voorbereid. Hoewel nog niet onherroepelijk vastgesteld, zal de optocht zeer
+waarschijnlijk bestaan uit historische groepen, betrekking hebbende op de geschie
+
+denis en de ontwikkeling van Amsterdam.
+
+Door de bekende band word op den starfdag van Koning Willem II, een krana
+aan den voet van het standbeeld op bet Buitenhof te 's-Gravenhage neergelegd.
+
+De Tweede Kamer hoaft de Marice-begrooting met 47 tegen 25 stemmen aangenomen,
+Het voorstel, om de rapporten van den Engelschen iugenieur Reed. betreffende de
+Nautilus en de Somnielsdijk, te doen drukken zoitiler de bijbehoorende teekeuingcn,
+werd verworpen.
+Da Minister van Financiën heeft in zake do tabaksbelasting beloofd dat, als hij de
+rvog niefc ingekomen rapporten van de Kamers van Koophandel zal hebben ontvangen,
+hij do zaak. nader in den Ministerraad zal ter tafel brengen. Mochten de aangevoerde
+bezwaren te overwegend zijn, dan zal de Minister geen machtiging Tragen de ont
+
+werpen bij den Baad van State in te dienen.
+Een ontnerp tot wijziging der Pensioen- Wet is bij den Eaad van State aanhangig.
+Ook een wetsontwerp tot aanvulling der Wet op de Middelen bevindt zich bij dat
+College en zal binnen enkele dagen de Kamer bereiken,
+
+Bij de Kamer zijn ingekomen een Wetsontwerp tot herziening der Kiestabel en
+Onteigeningsontwerp voor de lijn Sneek—Joure.
+Het eerstgenoemde ontwerp bevat de volgende veranderingen in de tegenwoordige
+kieetabel.
+Steenwijk wordt een dubbel district, terwijl de districten Amsterdam, 'a Gravenhage
+en Rotterdam ieder n lid moer zullen afvaardigen.
+Daarenboven worden de nieuwe districten ingesteld: Apeldoorn, Breukelen,
+(Haarlem blijft een dubbel district) en Berfon-üp-Zoom.
+Zoo !• du de vermeerdering der Kamer n«t acht Uden bereikt)
+Ovon&lt;*eBS worden nog een paar wijzigingen van minder belang voorgesteld. D«
+gemeente WeststcUingworf valt van het district noek af, eu Zevenbergen wprdt
+vevo-root met een deel van het tegenwoordig district Tilburg.
+Vermits door do Ecgccring in het Ontwerp vttn \v et tot wijziging van de Art»,
+240, 242 en 247 der Gemeentewet ingrijpende %vijzigingen zrju gebracht, heeft da
+Commissie van Rapporteurs eene nieuwe overweging daarvan in de afdgelmgea
+Voorgesteld.
+
+Bij ds Tivoecle Kamer zijn ingekomen 12 \volsontwerpsn betreffende het in ofer«
+\vegiug nemen van voorstellen tot verandering dor Grondwet. Zij zullon worden ge»
+drukt en rondgedeeld.
+
+Door vior kleinhandelaars in gedistilleerd ta Amersfoort, dia tevens winkeliers van
+eigaron oi krnidenier.swaren zijn, is eon adres gericht tot do Tweede Kamer der
+Staten-Generaal. Zij trachten daarin aan te toonen, dat hot drankverbruik niet
+tegengegaan zal worden door do bepalingen vau de voorgestelde wet, daar dan de
+drank in liet klein gehaald zal moeten worden in de kroegen en daardoor de ver
+
+leiding, voor de dienstboden b. v. nog grootea* wordt.
+Zij verzoeken daarom de voorgestelde wet zoo to wijzigen, dat zij ea hunne
+vakgcuooten, uim elfduizend persoden, hun verecnigd bednjf kunnen blijven voortzetten.
+
+Do Minister van Binnonlandache Zaken heeft bepaald, dat de verkiezing voor een
+lid der Tweede Knmer in het Uool'dkieËdistrict 'e-Or&amp;venliage, iioodig geworden door
+het ontsla* nemen van mr. W Wintgpns, zal plaat» hebben op Woensdag 8 April
+e. k., do herstemming, zoo iioodig, op Woensdag 22 April d.a.v.
+
+In liet Weslerkwartier van Groningen circnloert een aJrcs aan de Tiveode Kamer,
+waarin wordt aangedrongen op het heft'on van invoerrechten op buitaiilandache
+granen. Het adres telt reeds vela handtekeningen.
+
+Voortaan worden donr do kanselarij der beide Ntder'ar.dsdie orden geon versier
+
+selen meer verstrekt van goud, maar van verguld zilver.
+
+Naar mon verneemt, is op liet post-congrcs te L'ssab.'n ook Bolivia, tot do
+algemeene vereenixing toegetreden, zooaat nn do gezamenlijke s r.ten van Amerika
+daarin ziju opgenomen. Yardor is het aantal landc-n, die do additioncolo overeen
+
+komsten ondeitoekend hebben, op verblijdende w;jze vermocrdoid, door toe
+
+treding van:
+1) Venezuela tot &lt;3c overeenkomst bo'.reffendo de sansulcekoiide brieven met
+aangegeven geldswaarde;
+2) Bulgarije, Japau, de Argeniijnscho Republiek, Braaiiii1, Chili, Guatemala, Hon»
+duras en Uruguay tot den internationalen postwisseW enst:
+3) Griekenland. Spanje, de' Argontijnsche Republiek, Brazilië, Chili, Paraguay,
+Venezuela en Haïti tot de conventie tot uitwisseling vac voorwerpen der pakketpost,
+
+De Kamer van Koophandel te Groningen hoeft zich togen ceno tabaksbolasting
+Verklaard.
+
+Ds heer J. F. de Eooy te Breda, niet tevreden over 1;«! niei-orüvo.jikelijk ver
+
+klaren zijner reclame door Godeput. Btiten, heelt zich tot den Minister van
+Birjnculandscho Zaken gewend, ten einde diens oordeel over zijn ingediend bezwaarschrift
+tegen de verkiezing van den heer A. O. J. Smits te vtrncmen.
+
+Mr. N. de Hoever, tot dusver adjunct-archivaris der gemeente, hoeft liet ambt van
+archivaris aanvaard, waartoe hij duor B. en W. is bevorderd. ,Vr. Dozy, tot dusverre
+in andoie betrekking te;i staühuiza werkzaam, is thans adjunct-archivaris ad interim
+ca zal tot dio betrekking vermoedelijk dciiaitief worden benoemd.
+
+Naar gemeld wordt, hooft de heer P. II. Vromberg, wonen'.'o- to Voorburg, ala gemach*
+ttgje van een buiten nnipch sport-com té, aan K. en W. aanvraag gedaan om op Aa
+voormaligo tentcionsteliingsterroinen alhier dt-xeii zomer harddravcrijoii on wedrennen
+te houdou. Kader blijkt dat Uct Da.mvijUsch Bcsiuur dezer j,i luconte hot plan beeft aan
+dca llaad voor t&lt;9 stollen htt terrein vuurloopig tut dergelijke doeleinden te bestemmen,
+
+In de week van 8—14 dezer zijn alhier 22 personen aangegeven als aangetast
+door en 3 personen als overleden aan roodvouk.
+
+
+F A IL L I S S E M E N T E N.
+
+
+Arrondissement Amsterdam: Vailliet yorklaarJ (op vorzook van crediteuren) de
+Kaamloüze vcnuooïschap Cerste Amst. toompepton-i'abriek, gevestigl alliieraande
+Brouwersgracht 209, recht.-cornm. uir. I. A. de 13as, cur. mr. K. iLizeluofi'; P. J,
+Ouijpors, schilder eu hiii:delaar in varfuaren, aan do Rozciigracht ;!3, recht.-comm,
+mr. I. A. de Ba*, cnr. mr. Siegfried Mulder, uctv. err pruc ; (op eigou aangifte M. A.
+Brouwer Uuisvr.H. lüdder.winkeüerster in kvaideui'M'Sttiuou aiui de Oinar Pcteratraat GS,
+rech.-comii!. mr. A. M. l'artan, cur. mr. I. F. E van den Uoogaard, adv. en proo.;
+1. C. H. Jansen, tapper &lt;-n slijter aan de \Varraoesit; a:it 11. recht.-cumm. mr. A.
+M. Paruau, cur. mr L. V, van ilosaum, adv. en proc.; M. J. CJ. do GraatV, koupman
+in veevoeder aan do Willumstraat 170. rocht.-comm. BI. D. liiii^ei1, cur. mr. C, A.
+Nuijc-ns, adv. en proc. J. van der Kult, eoimmjs'.oimaii- iu Jï^'anteriün, aan ne
+Gekieraeho Kade. ICcuht-Comm mr. D. Biügtr, curator ii'.r. llenri R. GüUdsmit,
+adv. en proc. De handolslima Charrlottc Loon &amp; Co, ;;evo tigd aan de Galerij
+l'rederikspleiu, recht. comm. inr. J. van Eik Jnzuazou, curator mr. J. F. van den
+Boogaert, adv. en proc.
+Als bovon, den boedel van wijlen H. H. N. van Vocn, iu loven wijnkooper, op
+Eapeulmrg l, reeht.-comm. mr. H. N. I«diug van Berliliout, curator inr. C. vaa der
+JSwoop, adv en proc.
+Akkoord geliomologeerd: I. A. Bierman en S. M. Caun, te zamou geJinndold heb»
+bende op do lirma I. A. Bierman kooplieden in garen CH ba:.d. Pre i'. Crod. lOOpCt.
+Coucurr. Ci'ed. 'M pCt. in 3 termijnun; L. A, Kvistel, winV.oliev in schoenen. ljref,
+crod. 100 pC't.- concnrr. crediteuren i:0 pot.
+Insolvout-verMaart: F. G. L. du Mee, boekbinder en wlnkc.-lïor.
+Verklaard in staat van kenn. onvermogon (op verzoek vs.n crediteuren) G. J. van
+Bauren, zonder beropp, Commelinstraat iil. Recht.UComm. mr. J. van Eik JozuaZn,
+Curator mr. J. W. Tij'lernrm.
+Arroud. Alkmaar. K. van dev Oord, Icaatelijn te Hsar ILigovraavd, r.acht.-oomiu.
+mr. G. Wittewaal, cur. mr. F. H. G. van der Hoeven.
+Arrond. Arnhem. M. Bredewold, winkelier te Nijmegen. Rechf.comm. mr. B. P.
+baron van Verschuer, cur. mr. C. A. Phaff; H. Hubbera, winlioüer te Huissen,
+vroeyer te tvijinrgen Beeht.-coiarn. mr. B. P. baron van Yerscluier, cur. mr. J. W. A,
+van Embdei), Roermondsplein 15.
+Arrond. Assen. J. Wencel, huisvrouw van II. Schut/:, koopvrouw to Meppsl. Becht.»
+comm. mr. J. Boessingh, cur. Jhr. mr. R, O- van Ho,tlic tot Echtou.
+Arrond. 's-Graveuhage. G. B. van van Moorgel, klecdermaker eu winkelier te
+Delft. Hecht.-comm. mr. W. C. D. Olivier, cnr. mr. l'. A. Tukker, ta Delft; Th.
+Hoogendoorn, timmerman, metselaar en aanner\er. Rt&gt;cht.-comm. mr. Ph. W. van
+Heusde, cur. mr. P. J. Snel; W. Lodeboor Fzn., slijter eu tapper, ta Boskoop.
+llocht.-Comni. mr. C. J. van Marie, cur. H. lo Coultro, te Boskoop.
+Arrond. Heerenveen. D. K. van Dellen, koopman to Opeinde, Kecht-eomia. mr.
+5. W. cltinc;, cnr. mr, W. U. Jonkers, te Kortezwaag.
+Arrond. Leeuwarden. J. W. Ilameivma, smid en kachelmailer, te Bolsward,
+ReOht.eomm. mr. Gratama. cur. mr. J. A. Hin^st, tf&gt; Jorwerj.
+Arrond. Rotterdam. J. H. Sloots, broodbakker en wiukelior. Becht.-comm. nir.
+A. E. Croockewit cur. mr. B. C. J. Lodcr.
+Arrond. Utrecht. J. van Geelen, uitdrager, Elisabothttraaat. Ecoht.-comm. mr. M,
+Crummelin, cur. mr. B. Ph. de Beaufort; A. P. P. van Eijck, bierbrouwer. Recht.»
+comm. mr. M. Crommelin, cur. mr. A Verhoef.
+Arrond. Zwolle. J. G. van der Broeko, steenbakker Ie Kampen. Recht.-comm.
+mr. W. D. Coninck Liefsting, cur. mr. J. D. van Kstwich Verschuur en W. C. va»
+Reede, notaris.
+OVERZICHT VAN DE EFFECT E N M ARKT.
+14-20 Maart.
+n vele opzichten was de afgeloopen week voor de fondsenmai-kt aan
+baro voorguugatöongeluk erwij) geduread» da vorige wee^ de raaeslfl
+
+</text>
+<image timestamp="2002:08:17:13:11:38.00" size="299560">D100010L.TIF</image>
+</page>
+</document>

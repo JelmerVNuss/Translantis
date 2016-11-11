@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300301</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+iele^ en Militaire Kleermakerij
+DEK&amp;ER DIJKSTRA VOORHEEN
+
+ERVEN H. VAN DIJK
+ntiera van Indische Uitrustingen
+
+'^rtMWE GRACHT 6.
+m^i
+"tó vf*
+13416.
+;&lt;Hs ontbieden
+i&gt;r«spectus en *n«rt«
+yf t J v t1
+TOE*
+•.•ww.*^
+'VTO;ff;f«s^
+t^..
+5*.
+OEI HAA8
+ents
+door
+
+J* W.
+tctnaaid M.75
+tt ge|ènd«ji I2^b
+itjtf* loMevmtea zQn
+r«mu
+Hgt V&amp;atani.
+
+geheel af
+'het i.
+
+echt.,, -ïi W&gt; vertelt
+Ja del. mewtal te
+xortiklndertóon » vervalt oek
+
+tMütrantvoor \ra^«swnen,%cjt
+, preekt geen brai(bei* en
+vermett ffia &lt;*k löit tn
+deugnleterUen, bit Is, zooalt de
+6nderötel zeat Een vroolljke
+eieWedenl?." Alkar toch
+koW«i) er ook heet wat gevoelige
+;•« pakkende ronmenten In:
+iia-i-sc .jn4Jègyfan woord.
+
+
+[dit ]«»«e!t|»vaa
+kinderSkuntt koiwn nog de
+- kwtelljke eiverniakelljke
+fllu. «miles va» E.'|en Harmsen
+f van. der Beek,, die de'jonge
+&gt; rezftr» het gtappna kereltje nog,
+- beter doen cennep.
+Delflscht Courant
+Uitgave van:
+VAN HOLKEÉA &amp; WAHKNDORF'a [
+Uitgev.-Maatsch., Amsterdam.)
+(verzilverd)
+
+
+Grocnteschalen
+
+Saucekommen
+
+Groentelepels
+
+Saucelepeb
+
+Soeplepel» ;T.?fdt«pcb en Vorken enz.
+
+Prijzen op aanvrage
+
+
+-ZIJLSTRA6RUPP
+m m w^y w-w w
+
+S Vf**
+l ff
+ONZE VERTKaCNWOORDIQER
+IS MET COMPLKTCCOi.tKCTIB
+ZONDER KENial
+VMtPLICHttNQ DOOR 'T OBHEBufuiNO
+TB ONTBHIDBH.
+Onzo geïllustreerde
+prijscourant wordt
+gaarne op aanvraag
+. kosteloos
+ALLE IND. COSTUUMS
+WORDEN VOLGENS
+HET JUISTE MOOEL
+DOOR BEKWAME
+COUPEURS VERVAARDIGD
+
+Wttto Co«tuim«s "
+vanaf ........... ....
+. 4475
+11
+&gt;v*o«.
+AM/TERCV\M - OCN HAAG &gt;
+
+</text>
+<image timestamp="2002:09:25:04:12:25.00" size="629969">000008ZT.TIF</image>
+</page>
+</document>

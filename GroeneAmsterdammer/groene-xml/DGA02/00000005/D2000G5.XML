@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000415</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1190
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Bloemfontein door de Engelschen bezet.
+DE BOEBEN (tot EOBEKTS) : &gt;Zie nu maar dat je daar afkomt."
+De gebonden Cronjé. (£wsi. BlaMer.)
+(Naar Homerus Ilias XXII Gezang: De Grieken by Hektors l\jk).
+S1.... Dra omringden hem nog andere Britten, welke den krachtigen bouw
+en de schoone gestalte van Cronjévol van verbazing beschouwden. Alzoo zeide
+de een tot den andere: »Wel, voorwaar, thans is hij met meerder gemak te
+betasten dan voorheen, toen h\j de onzen beschoot van de kopjes l"
+(Vert. van Vosmaer.)
+
+Een gastmaal der toekomst. (Uilenspiegel).
+De twee doodgravers. (Lustige Blatter).
+MAARSCHALK ROBERTS : «Mijneheeren, ons eerstvolgend gastmaal zal te Pretoria
+plaats hebben,... als die schavuiten van Boeren u den eetlust niet ontnemen."
+
+Uit een gedurende het beleg te Ladysmith
+gedrukt blad. (The Ladysmith Bomb-shell).
+TOMMY ATKINS : »Ik strijd voor de eer van my'n vlag !"
+BOEK : «Als dat ding je vlag is, mag je 'm voor mijn part houden !
+(J^iscnietto). ?j CUAMBERLAIK: »Moeite genoeg heeft 't gekost, maar bloed
+is ook een uitstekende mest." Ku we allebei een blauw oog hebben, konden
+RHODES : »Ja, maar we zullen nu ook een gouden, een we wel vrede maken.
+brillanten oogst hebben." (Ilarpers Weekly, New-York;.
+%
+TK MOOPfl"
+Don Q w i* O T C
+Joubert als Don Quichotte tegen de windmolens (the
+British Supremacy) vechtend.
+
+Een krijgsgevangene. (Le Eire).
+H. M. VICTORIA : »'t Zal nog zoo makkelijk niet gaan, die
+Ieren behoorlijk in 't pak te kragen zoo »fc 't wil!"
+(Echos du Rire).
+
+
+Cannibaalsche overpeinzing. (Der Floh'i.
+
+Hoe de gentleman John Buil de vredesengelen ontvangt.
+(KiJceriki, Weenen).
+Bngelsche Roofdierklauw.
+(Nebelspalter, Zürich).
+F-fOr*
+-^:/^ . \
+~
+j''•**"*'
+
+Ifjjlp /!* -5
+'-' .4 &amp;*£-^-- '•&lt; • &gt;\'.;j1/ * ƒ •-, .*.
+L^J\^i . ! '/^? ^''\ ,7 tt t t-^J o *•* 'J
+"*••'• v ' ...... . ^_. , ^_ ^ EKGELSCHMAK : »Ik erken, je hebt je als een
+
+Hoe kunnen ze zeggen dat er in Ladysmith gaen eten ce'd gedragen."
+meer was en er waren nog 10.000 Engelschen! BOEREXKNAAIME : »0, dat is nog niets, dan had
+je mijn kleine zusje eris moeten zien!"
+
+</text>
+<image timestamp="2002:08:14:11:30:21.00" size="395037">D2000G5.TIF</image>
+</page>
+</document>

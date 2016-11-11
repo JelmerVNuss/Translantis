@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320312</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+RV. CIVIELE EN MILITAIRE KLEERMAKERIJ
+
+DEKKER &amp; DIJKSTRA
+voorheen de erven H. van Dijk
+[Uverancler» yon Inditche Uitrustingen)
+
+UTRECHT, Nieuwe Gracht 6 TELEFOON
+•OOR HET GEHEELE LAND TE ONTBIEDEN 13416
+ALGEHEELE LI K Wl D ATI E WEGENS
+
+OPHEFFING DER ZAAK
+van al onze VERLICHTINGSARTIKELEN
+
+ver beneden Fabrieksprijzen
+
+WAN RAM KALVERSTRAAT 157-159
+Wnil Unifl AMSTERDAM
+GEEN ZICHTZENDINGEN
+HET HUIS IS TE HUUR
+Engelsch Plated (verzilverd)
+
+Groenteschalen
+
+Saucekommen
+
+Groentelepels
+
+Saucelepels
+
+Soeplepels -—Tafellepels en Vorken enz.
+- Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA &amp; RUPP
+UZERCIETER1J EN
+MACHINEFABRIEK
+TELEFOON
+No.56
+TELEGR.-ADR
+.BAKEN*
+TANDRADEREN
+MET ALLE VOORKOMENDE
+TANDVORMEN, VANAF
+DEN KLEINSTEN DIAMETER
+
+tot een diameter van 2500 m.M.
+SNEL GOED GOEDKOOP
+TANDRADEREN
+Sea*Horse
+de allerbeste
+^ Moutwyn Jenever
+M.P.POLLEN t ZOON ROTTERDAM
+Doorn TELEFOON iss Hotel Cecil"
+PENSION-CAFE-RESTAURANT
+Logies Ontbijt f 3.—Pension vanaf f 5.
+Stroomend Koud en warm water, met CENTRALE VERWARMING
+op alle kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+van Toorenburg.
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+VRAAGTBROCHUREAAN
+
+BUREAU WITTEVEEN
+Paramariboplein 58
+A'dam - Tel. 84751
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+Amsterdam (C ) • Rotterdam
+Keizersgracht 410 • Wijnhaven 100
+TARIEVEN OP AANVRAGE.
+Cigarros Cadena
+IN DE VOORNAAMSTE
+SIGARENWINKELS
+VANRIJN'S
+SMOSfERD
+GEBRUIKT
+
+COELINGH'S
+DEVENTER- en
+ONTBIJTKOEK.
+IVict de plaatjes voor
+het PRACHTALBUM:
+
+SPOOhWcGWON DER EN
+DER WERELD"
+FXEO DONDERS
+
+ONDER DE ARABIEREN
+
+door C. F. VAN DAM
+
+met teeken, door
+IS. VAN MENS en
+EELCO TEN HARMSEN
+VAN BEEK
+
+f 2.-, gebonden f2.90
+Een kostelijk jongensboek ligt voor ons,
+dal wij mei eenige vreugde signaleert»
+omdat hel afv-ijkt van het gewon»
+gaire, zeer vlot geschreven is met veel
+'antasie en omdat hei zich volkomen
+tnj onzen tijd aanpast. Wij kunnen
+zonder aarzelen dll boek van Fred.
+Donden aanbevelen. Het draagt een
+cachet, dat vele jongensboeken missen.
+(Haagsche Crt.)
+l In lederm goaden boekhandel verkrijgbaar l
+
+
+Uitgave VALKHOFF &amp; Co.
+
+AMERSFOORT
+
+</text>
+<image timestamp="2002:09:26:18:42:27.00" size="128983">00000A2N.TIF</image>
+</page>
+</document>

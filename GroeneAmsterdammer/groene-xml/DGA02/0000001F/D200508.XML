@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320528</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1869 van 28 Miei 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postglro 72880 * getn. giro G. 1000
+HANDELSMERK WETTIG GEDEPONEERD.
+U zoekt:
+een firma van prima
+reputatie. Die een ruim
+gesorteerde voorraad bezit
+van de beste gewassen.
+
+En toch b 111 ij k e
+prijzen noteert.
+U vindt
+dit alles bij:
+Van Straalen Monsieur &amp; Erkelens
+Wijnhandelaren
+FILIAAL HOOFDKANTOOR
+Den Haag; Rotterdam
+Anna PaulowiMMtnurt 36 L«»«hav«n 34
+tel. 33C63Z.
+tel. 62468.
+FILIAAL
+Den Helder
+HooMgraeht 61
+tel. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAQ PRIJSCOURANT VOOR PARTICULIEREN.
+N.V.V/H
+
+HA.KLOOSTERHUIS
+~" . . "M
+KALVERSTR.I78 AMSTERDAM
+BJASPSBOMMB:
+KERKS7RAAT58
+AMSTO^AM
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+===== TELEFOON 35533 =====
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+
+</text>
+<image timestamp="2002:09:21:07:32:39.00" size="92291">D200508.TIF</image>
+</page>
+</document>

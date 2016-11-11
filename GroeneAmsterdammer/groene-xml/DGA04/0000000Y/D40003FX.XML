@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210402</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET PAASCHCONGRES DER S. D. A. P.
+Nadruk verboden
+
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 2 April 1921
+Het aantal leden der S. D. A. P. is in 1920 teruggegaan van 47.870 tot 37.412
+De'actie onder de leus Tegen de reactie, voor de socialisatie"", is niet in staat
+geweest de inzinking van het ledental te doen ophouden". (Verslag Paaschcongres).
+
+n f cüFn^""-4tïf iv' *3 ^ ^
+-^jm^' ^M&amp;S^i
+P&gt;W
+X ~^ ' _ ._ \ ^-^ '
+iinyi
+
+"Amst. Boek- en Steendrukkerij. v'h. Ellerman. Harms &amp; Co.
+T r o e l s t r a: Bij die oude plaat zijn zij weggeloopen, wij zullen er een nieuwe opzetten!"
+
+</text>
+<image timestamp="2002:08:24:10:01:46.00" size="298707">D40003FX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020420</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1295
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Hands up".
+(Naar eene schets van den heer HAASE, te Probolingo).
+Billet ter eere der kroning van Z. M. EJward VII, uit te voeren door een gezelschap »Tommies" uit Zuid-Afrika.
+-,,l MAMMON THUMrWORyiffw^g&amp;w- "
+
+V) ,^ ''- •""""• ^^H^ti'^"'*U''4 '
+De Belgische muur. (Caran d'Ache in den Figaro).
+Wasrsch^nlyk is er niets in den huldigen toestand, dat het nageslacht
+meer zal ver basen, das het beeld van den zegepralenden Mammon, omgeven
+door Briteclj* gevallenen en concentratiekampen. (Daily Ntwt).
+door Luit. Bretschneider te Vlissingen).
+Gezichtsbedrog. (Nottrelle).
+De geplaagde man. (Punch).
+DB: MIKISTEK VAX FIXAKCIÜX: »Voor my is er geen
+vacantie. Er is te veel te rekenen."
+O ! buurman, ik tijk maar alleen uit nieuwsgierigheid.
+IVeeies zooals ik, buurman !
+
+
+Duitschland en Engeland (3v.ge.nA).
+*d*^ \» vil J/ / ^5&gt; -%T
+MICIIEL : »Wat ? zoo'n beest zou ik cog aaien?"
+De »Küi.N!si:uK ZHITUSG" schiijft: Op den duur heeft K
+?«sf een egd ie aaien, die te j;as of te ow^as altijd zijn pennen
+tegen c/ws opiet.
+
+
+Anno zooveel als de harde wind woei.' (Luttije JJlütter, BoereniuiniEei).
+Op het eerste gezicht zal iedereen de positie van den dikken Ojm Sam lastig
+vinden, maar het schijnt toch niet zoo te zijn, want hy doet alle moeite om zich
+geheel aan het oog te onttrekken.
+xtiAxr: »Mjjn hoed is af^eiraaid j»muier!"
+x : Wy geven ons over genade!''
+
+
+</text>
+<image timestamp="2002:08:17:15:55:55.00" size="369766">D2001BS.TIF</image>
+</page>
+</document>

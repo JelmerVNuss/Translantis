@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240301</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2437
+PILLEN'! Oude Genem
+Fijne Likeuren en Punch
+m. P. POLLEU A ZOOH - Rotterdmm
+J. D. STRUIJS * Z».
+Prlnaengraoht 887 F. O. Hooftatraat 140
+TEL. 37906
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+VAN RIJN'S
+MOSTERD
+MOSTERDPOEDER
+BAüRN
+Bouw- en Woningbureau van de
+N.V.Woningbureau v/h J.D.F.VAN
+DER VEEN, Kantoor van Vaste
+Goederen, Teding v. Berkhoutstj.3.
+
+
+De N. V. Koek-en
+
+Banketfabriek
+
+HARTCC"
+Telefoon 23425
+Gerard Doupleln 24
+AMSTERDAM
+^"~™ fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concur reerend.
+OOK VOOR EXPORT
+BILLIJK TE KOOP
+Het Landgoed DE KONIJNENBERG te
+HATTEM. Gunstig gelegen nabij Kanaal
+en Bosch. Ook bij uitstek geschikt voor
+Hotel Pension of andere onderneming.
+franco brieven lett. K. H., Bur.v.d.blad.
+UPS 2 PETERS-DORDRECHT
+FA n RIEK VAN
+WONINGBUREAU
+Y/d Makelaar A, G. YanAgtal
+N. Baarnstraat 61 - Baarn
+Tel. 244
+iJOSEF VEDRAL
+
+Milntlr.lldiiHiii.Til.77l!
+Atillir »ocr vikkondigi rapmtlii.
+Oroote collectie Oude
+Meesterinstrumenten hier
+te lande.
+Agentschap:
+HUI &amp; bon» Londen.
+Oudste en bekendste
+adres- voor echte ItaUaansche
+Viool en Cello-snaren.
+Filiaal voor instrumenten en
+toebehooren:
+interdin, Dieottipliin lo. 12.
+•C"
+DROSTE HAARLEM
+Geweldig talrijk is onze famielje
+
+De aarde wemelt van Droste-Pasiillt
+ORIGINEEL
+GILLETTE
+VEILIGHEIDS
+
+SCHEERAPPARAAT
+HIT MISJC IN ITUI
+
+
+75
+Wil WAARBOIKIIN
+•ft Dl ECHTHEID l»
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P. C. Hooftitrut 38, AnsUrd». Tiltf.: 20341, 242501
+REGELING VAN BEGRAFENISSEN
+{CREMATIES VAN UIT ALLE PLAATSEN!
+l EIGEN. LIJKKOETSAUTOMOBIELEN
+ADR1AAN SCHAKEL
+HE1LIOEV/EQ 11-17 - AKSTERDJtn
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+LIEVEGOED'S Mayonnaise-Saus
+VERRUKKELIJK BIJ
+SALADE, VISCH- en V LEES C H SC HOTELS
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMASEEIJ NAAB MAAT
+Weteringschans 45 :-: Telefoon 36845
+•XTItAMKLAIM
+AAM MENU*
+Koldewey &amp; Corbière
+Leldschestraat 30, Amsterdam
+Spooimlitoit in i
+WIEGEN • KIKDERLEDIKANTEN.
+0. OBERINK &amp; Co.,
+A nawterclam.
+Prinsengr. 456 bid Leidschestr.
+Tel. 37452.
+Aanleg van licht- en krachtinstallatiën.
+G O OS E N &amp; SWAGERMAN
+PIANO'S, ORGELS, VLEUGELS
+KUNSTSPELPIANO'S
+BOEKHORSTSTRAAT 149, 's-GR AVF NH AC T
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+PIETER AEBTSZSTBAAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIQ &amp; VAN ELVEN.
+Nustratiedruk-papier van de Firma C. G. A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:02:22:34.00" size="135039">D2003CV.TIF</image>
+</page>
+</document>

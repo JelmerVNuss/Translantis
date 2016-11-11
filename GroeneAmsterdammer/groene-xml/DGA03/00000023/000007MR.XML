@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400803</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE"
+i
+i
+|
+l
+
+
+WORDT GESCHREVEN
+
+DOOR MENSCHEN DIE HET WETEN |
+
+VOOR HEN DIE HET WETEN WILLEN |
+i
+i
+EN GEEFT U
+VAN WEEK TOT WEEK
+AFWISSELENDE LECTUUR
+OP ELK GEBIED
+WIE ZICH THANS ABONNEERT,
+BETAALT
+4 GULDEN
+VOOR DE REST VAN
+DIT JAAR
+BON
+
+Ondergeteekende
+
+Adres:
+
+Plaats:
+
+Abonneert zich voor het jaar 1940 op De Groene.
+
+op girorekening 72880
+Hij stort daartoe / 4.—op Gemeente Giro G 1000 i =
+
+per postwissel aan i l
+: 5
+De Groene Amsterdammer, Keizersgracht 355, Amsterdam C. ; l
+;	IIIHUIIIIIIIII	HUIIIIIIIII	HUI	l	IIIIIIIIIIIIIIIIIIIIHIIII	l	l	lllllfllll	Illlll	Illlllllllllllllllll	Illl	HUI	Illlllllllli
+
+Onderteekening:	_	j
+N. V. Amsterd. Boek- en Steendrukkerij
+v/h. ELLERMAN, H A R M S &amp; Co.
+
+</text>
+<image timestamp="2002:09:13:07:51:48.00" size="41181">000007MR.TIF</image>
+</page>
+</document>

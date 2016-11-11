@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000304</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1184
+Een niewe Proiete-tragMe.
+IWAN GILKIN. Prométhée, poème
+dramatique. Paris, Fischhachr. 1899.
+I.
+Ruim twee jaar geleden werd te Parijs een
+begin gemaakt met het uitgeven van een reeks
+werken van Fransche dichters in het buitenland.
+De liefde vaüde Fransche intellectuels voor
+hun taal en literatuur is ontegenzeggelijk zeer
+groot. Zy doen wat in geen ander land ge
+
+schiedt voor de verbreiding en kennis daarvan in
+het buitenland. Hun Alliance francaise" iseen
+stichting waarop z\j met recht trotsch kunnen
+agn, en dat hun patriotisme zich niet tot eene
+platonische liefde bepaalt, blijkt wel uit het
+feit, dat in de gloeiende Juli- en
+Augustusdagen, als ieder die dit eenigszins kan, de
+stotfige, heete Parijsche straten ontvlucht, ge
+
+regeld een schaar van geleerden daar blijtt, om
+vacantie-cursussen te geven aan de uit alle
+landen tot hen ge.komen vreemdelingen, ten
+einde ze in te wijden in de kennis hunner
+taal en de schoonheden hunner literatuur.
+Van een zelfde liefde getuigt, zy het op
+op andere wyze, de onderneming die zich ten
+doel stelt de vruchten die in het buitenland rijpen
+aan verspreide takken van den geliefden boom,
+met sympath'e voor de verre hoveniers aan de
+eigen landgenooten voor te zetten. Ook dit
+streven bly'kt met succes bekroond. Begonnen
+met de uitgave van La Nuit, een dichtbundel
+van den Belgischen dichter Iwan Gilkin, pu
+
+bliceerde men achtereenvolgens la Oithare en
+Ie Collier d'Opales van Valere Gile, aan wiens
+eerste werk een bekroning door de Académie
+franc,aise ten deel viel, dan Héros et Pierrots
+van Albert Giraud, Ie Cerisier fleuri van Iwan
+Gilkin en ook van dezen het dramatisch gedicht,
+waarop ik thans de aandacht ga vestigen.
+De dichter heeft vooraf iets zelf te vertellen
+aangaande den vorm waarin zijn werk tot ons
+komt. Na vroeger het Fransche vers van de
+romantieken en p&amp;rnassiens voor iets
+onaantastbaars gehouden te hebben, is hjj meer en
+meer gaan voelen voor het streven van de
+jongeren, die zich beklemd achtten in die vr\j
+enge maat- en rijm-bewegingen, en trachtten
+meer vrijheid te veroveren in het vers libre,
+dat in hartstochtelijke bewogenheid veel beter
+zich aanpaste aan de onstuimige deiningen der
+lyrische extaze, en ook in de dramatische
+poëzie beter de overgangen, de sty gingen tot
+conflict, de eveningen tot verzoening wist uit
+te beelden. Toch bleef er by dezen dichter
+nog een bezwaar bestaan tegen de uitersten
+van het verslibrisme. • En we kunnen er voor
+voelen. Hy wilde toch vóór alles in het vers het
+harmonische behouden, den maatval, de heffing
+en daling, de saamklank die het onderscheiden
+van proza, waarvan de verzen der geheel-en-al
+vrijen" soms moeielijk te onderkennen zy'n
+Zijn vernieuwing bestond hoofdzakelijk in
+een terugkeer tot de vrij zich bewegende
+verzen van La Fontaine, van Molière in zijn
+Ampliitryon, waarin hy regels van negen of
+elt silaben tusschenvoegde. Dan en dit is
+een hoofdzaak, verving hy het rijm voor het
+oog door het ry'm voor het oor, aldus terug
+
+keerend tot een uitspraak van onzen ouden
+Casteleya (1548). Ook heeft hy niet geschroomd
+hier en daar een rijmloos vers te gebruiken,
+als de rhythmus hoofdzaak werd, en zich vrij
+gemaakt van de voorgeschreven caesuren. Hoe
+kettersch dit alles klinke, van al deze vrij
+
+heden kunnen verontruste lezers in de Fransche
+poëzie vinden wat de wetsmannen precedenten"
+noemen, zegt de dichier fijntjes spottend.
+Maar genoeg hierover.
+Na lezing van dit dramatisch gedicht moest
+ik my verwonderen dat al niet lang onder de
+jongere dichters aan iemand dit onderwerp
+zich opnieuw ter behandeling opdrong. De
+Prometheus-mythe is en blyft toch voor alle
+ty'den even belaugrijk. En juist in een tijd
+van groote gisting onder de menschen, van het
+zich baan breken van nieuwe levensvormen,
+van een verzet tegen dogmatisch geloof, een
+stryd voor individueele vrijheid en
+menschenrechten, heeft die mythe te grooter aantrekke
+
+lijkheid, daar Prometheus de prototype is van
+den strijder voor menschenrecht en
+menschengeluk tegenover de overmacht van
+beheerschende goden.
+Shelley zegt in zijn voorrede van Prometheus
+Unbound: het eenige verbeeldingswezen, iets
+gelijkend op Prometheus, is Satan", maar voegt
+er direct zooveel verschilpunten bij, dat de
+overeenkomst ten slot te uitloopt op ... een
+tegenstelling l Juist dit zwevende in de Pro
+
+metheus figuur, wat tot veel bespiegelen van
+geleerden heeft aanleiding gegeven, moet voor
+dichters te grooter bekoring hebben, omdat het
+nu aan ieder vrijstaat een eigen Prometheus
+te schepp-n, die alleen in hoofdtrekken met
+de prototype hoeft overeen te stemmen.
+Ik kom hier nog op terug, maar acht het
+gewenscht eerst het gedicht van den Belgischen
+dichter te overzien.
+Men weet dat van Aeschylus' trilogie alleen
+het midden-gedeelte, I)e geketende Promcthews,
+is overgebleven. Het eerste stuk, De
+vuurbrengende Promeiheus, is geheel verloren, van
+het laatste, De ontboeide Prometheus, zijn
+alleen fragmenten ge tonden, die dr. Burgersdijk
+aanleiding gaven tot een poging om den inhoud
+ervan vast te stellen, zich streng houdend aan
+de gegevens door Aeschylus zelven hem ver
+
+schaft (De Gids, 1880 No. 8). De scheppingen
+van Herder Der entfesselte Premotheus en van
+Shelley, Promelhem Unbuitnd, waren geen
+pogingen in dezen zin. Zij staan geheel vrij.
+De heer Iwan Gilkin heeft, ten volle gebruik
+makend van Aeschylus' tragedie, toch gestreefd
+iets geheel individiieels in dit werk te geven.
+Dat hij daarby tevens aan Goethe's Pfometheus
+iets ontleende, hij erkent het oprecht, en hij
+verdedigt het zeer snedig met een aanhaling
+uit Goethe's Gesprache mit Eckermann", waar
+deze voor het plagiaat partij kiest, als het
+maar met talent geschiedt.
+Prométliée bevat dan den hoofd-inhoud van
+Aeschylus' Geketende Promotheus en ly'kt my
+tevens een poging dien te completeeren, tevens
+de stof opnieuw te bezielen met een ons nader
+staande levensopenbaring van individueel den
+
+ken en voelen, dat in alle moderniteit toch
+uittëraard innig verknocht blijft aar de
+quintessens van menschelijk denken en voelen van
+alle tijden.
+Dat de dichter zich niet, gelijk Burgersdijk,
+in zijn fantazie belemmerd heeft met zich te
+binden aan de, voorzoover bekende, denkbeel
+
+den van Aeschylus, dat hij in dit opzicht
+de vryheid nam die Goethe zich gaf, het was
+zijn recht. Hy geeft, evenals Goethe, Prome
+
+theus als de schepper der menschen. een op
+
+vatting van later tijd, in vidius Gedaante
+
+verwisselingen te vinden (I. 82 sqq.). en waarbij
+Prometheus voorgesteld wordt de menschen
+uit aardsch« klei geformeerd te hebben. Horatius
+(Oden I, 26) voegt er een on dit" aan toe,
+dat Proaietheus geen klei genoeg meer had
+voor den mensch en toen van de dieren iets
+moest afnemen. Op die wijze kreeg de mensch
+zijn leeuwen-aard!
+Het gedicht bsgint met een gesprek tusschen
+Prometheus en Epimetheus. (Ik herinner er
+even aan dat de naam des eersten beteekent:
+de vooruitziende of voorbedachte, van den laat
+
+ste: de ml-denkende, later overwegende).
+Prometheus is ontevreden. Hij voelt in zich
+een beter wezen dan die grove titanen waartoe
+hij behoort en hij wil daaraan vorm geven.
+Hij voelt in zich den onrustigen scheppersdrang
+van wie iets nieuws zal doen geboren worden.
+Epimetheus waarschuwt hem:
+
+Laisse Ie monde tel qu'il est:
+Ne rien changer, c'est toute la sagesse.
+
+Met deze goedkoope wijsheid laat Prometheus
+zich niet paaien. En hij gaat voort de stille
+wouden te bevolken met de beelden waarin
+hij zijn heerlijke droomen belichaamt. Wat
+hij zich het hoogste, het edelste voelen en
+denken kan, wil hij vastleggen in die lijnen en
+kontoeren. Maar hoe meer bezieling hy tracht
+te geven aan de uitdrukking van hun gelaat,
+te meer wanhopig maakt hem zyn machteloos
+
+heid om hen met werkelyk leven te begiftigen.
+Waar vindt hy' het leven? Waar houdt de
+aarde dat verborgen? Waarmee doorademt hij
+al die levenlooze kinderen?
+Dan komt Minerva, en hij beklaagt zich by
+haar over de goden. Wat doen zy voor hem
+in dank voor het vele wat hij deed? Waarom
+weigert Zeus het leven aan zijn kinderen?
+Waar vindt hy dat leven?
+En dan zegt Minerva als in een orakelspreuk:
+
+Toute la vie est dans l'amour,
+
+en zij verdwijnt.
+Dit exaspereert Prometheus eerst. Heeft hij
+ze niet lief, die kinderen? Mair dan wordt
+hij verteederd door de schoonheid van de zelf
+
+geschapen Pandora en in zijn teederheid houdt
+hij op met klagen en vragen, eindigt hy' met
+zelfverloochening:
+
+Inerte pour tout l'univers,
+Pandore, tu vivras pour moi!
+
+En nu onder de warmte van zyn liefde
+(we denken aan Pygmalion) voelt hy haar
+lichaam tot leven ontwaken.
+Maar Prometheus' liefde is die van den vader.
+Geen begeerte kwelt hem. Hij wil enkel het
+geluk van de door hem geschapenen, wier leven
+nu bosch en dil vult. En hy gaat het als
+een valstrik beschouwen, door Zeus hem ge
+
+spannen, dat hem een oogenblik levenwekkende
+kracht werd vergund. Wat zyn zyn schepselen,
+die menscheu?
+
+Quand il permit de vivre a mes pauvres enfants
+C'était pour redoubler ma rage et mes tourments.
+Leur vie! O la tragique, ó l'effroyable vie!
+
+Wel heeft hij, evenals Goethe's Prometheus,
+hun geleerd zich een hut te bouwen ter be
+
+scherming, maar hun bestaan blijft gelijk aan
+dat der dieren. Daarby lijden ze een groot
+Trademark
+THEE - E. BRANDSMA.
+rademarï:
+KOLBEWEIJ &amp; COBBIÏRE,
+ft L, E l DSCH CHT «..}|k
+" AMHTMttUAM. «*w
+Groot Beddemnagazjjn.
+Groote collectie Wiegen,
+Kinderledekanten, Luiermanden,
+Babytafeltjes, Babybascules, etc.
+etc. Vraagt geïllustreerde catalogus,
+Yerzekering-laalscliappij HOLDA".
+Damrak 74, Amsterdam.
+
+Werkkrachtverzekering.
+Onontbeerlijk voor wie van /ijn beroep afhankelijk
+is. Uitkeering bij ziekten, ongelukken, organische ge
+
+breken. Niets uitgesloten.
+PHILIPP0NA KETELAAR,
+Maison de Blanc.
+
+A. SCHRÖDER &amp; C0.,
+Atntslri-tiain, f Attische straat 39/34.
+SPECIALITEIT IN
+Linnens, Tafelgoederen, Tricotages.
+ITZITTIV, LÏIIBMAIDn.
+f oliën Mm van Ju &amp; ulam», fmm. $
+KALVEBSTBAAT 180, AMSTERÖAJt
+SPECIALE INRICHTING voor het vervmardigen van volledige
+
+Uitzetten en Luiermanden,
+Op aanvraag worden prysopgaven en mode'Kin franco toegezonden.
+I
+TANDARTS.
+Plantage Middenlaan 86.
+WILLLIVI BULMER,
+Singel 159.
+m
+Spreekuur iederen werkdag van 9 tot
+12 uur en van 2 tot 5 uur.
+Eerste Nederl. Verzekering-Maatschappij op het Leven, tegen Invaliditeit en Ongelukken,
+gevestigd te 's-Gravenhage, Kneuterdjjk n. Directeuren: Jhr. Mr. W. SIX en Mr. A. F. K. HARTOGH. Adjunct-Directeur: P. DEUBINK.
+Bykantoren: te Amsterdam, Utrechtschestraat hoek Rembrandtp'ein; te Rotterdam, Gelderschestraat, Plan C No. 4.
+fèraveur fêapetier de
+733 Keizersgracht 733
+AMSTERDAM.
+Volteekend Maatschappelijk Kapitaal	ƒ 1,500,000.
+waarop 20 pCt. is gestort.
+Verzekerd Kapitaal op het Leven, uit. 1898.
+| Verzekerde rente
+j Ontvangsten over 1898
+16,717.290.28
+469,260.01
+1,519,902.59
+
+HËLMERS^SCHIPPERHËIJNTC0.
+Vijzelstraat i&amp;&amp;, Amsterdam,
+leveren onder garantie
+rood koperen Geijsers metgeémaill, Badkuipen
+tegen scherp concurreerende prijzen.
+Heser ven en Zekerheidsfondsen ultimo 1898 . . .
+Bezittingen ultimo 1898
+Tegen ongevallen met doodelijken afloop, ultimo 1898
+invaliditeit, gevolg van ongevallen,
+/ 5,083,683.57
+, 5.371,226.81
+38,171,666.59
+, 41,984,463.28
+KAUFMANN &amp; LANDHEER
+32 Delftsche Vaart, Rotterdam.
+Ornamenten
+Eloctriscli
+KOPEREN WINKEL-ETALAGES
+in de grootste ver-sclieiclenlieid.
+MILNEB's ffirelfllieroeMe BKilDKASTEN.
+TE KOOP:
+een zoo goed als nieuwe
+klein formaat, zeer weinig bespeeld,
+kruissnarig doorloopend ijzerraam.
+Brieven, motto Vleugel", Bureau van
+dit blad.
+PQPl
+lübJ
+CACAO B' CHOCOLADE
+is PRIiVIA Amsterdam.
+S M i 'l" S &amp; S U « IJ J, 'L,
+Tuinarch ifecten,
+NAARDEN en BUSSUM,
+belasten zich mei den aanleg en de
+verandering var kleine en groote
+Tuinen, Parken e&gt;.i Buitenplaatsen.
+DAMES
+RIJWIELEN:
+ƒ 100.
+lao
+165.
+HEI.REX
+RIJWIELEN:
+ƒ 100.
+12O
+155.
+_ 18O.
+Geen beter, solider en goedkooper
+adres dan by
+J. ELSENBURG,
+N. Z. Voorburgwal 177.
+TELEFOONADRES No. 2699.
+IN VIER TALEN.
+486 Sil)g*l » H STER D AM S(0g?l 486
+nu ABONNEMENT:
+4 hoeken tweemaal per maand geruild,
+p halfjaar f 7.50, f&gt;. jaar //ƒ
+MEN ONTVANGT FRANCO, MA^.R ZENDT OOK "FRANCO TERUG.
+tifit FibHrjtll'ek Is a-.lmrl nii;uu&gt; eri ba-at ds nieuwste t.n destc LetluUT.
+ldenkolt k Zoonen
+AMSTERDAM.
+Bij alle Boekhandelaars is de inteekening opengesteld op den Twintigsten
+Jaargang van
+
+
+DE NATUUR,
+Populair Geïllustreerd Maandschrift,
+gewijd aan de
+Natuurkundige Wetenschappen en hare toepassingen,
+o.iilcr Rt'AuMe run Dr. A. VAN JIENXEKELER, met veler medewerking.
+UK NATUUR stelt zich ten doel, op populaire wijze een
+overzicht te geven van liet nieuwste en belangrijkste op natuur
+
+wetenschappelijk gebied. Behalve nieuwe uitvindingen en
+ontdekkingen worden ook andere wetenswaardige onderwerpen
+op natuurwetenschappelijk gebied tot stof van behandeling
+gekozen.
+Een machtig hulpmiddel tot verduidelijking der behandeld wordende onder
+
+werpen vormen de vele illustratiën, die overal waar zulks eenigszins gewenscht is,
+tusschen den tekst voorkomen.
+In elke a/l. bevindt zich een rubriek Correspondentie, waarin alle vragen door
+de lezers tot de liedactie gericht, worden beantwoord.
+De prijs van DE NATUUR" is per jaargang ƒ 5.2O.
+
+</text>
+<image timestamp="2002:08:14:07:32:52.00" size="413508">D2000E7.TIF</image>
+</page>
+</document>

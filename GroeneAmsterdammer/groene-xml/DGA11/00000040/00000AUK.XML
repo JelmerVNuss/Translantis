@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>30</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstmis 1932
+30
+Jeudgnummer
+De Jeugd in de Sowjet-Unie
+Jef Last
+(Slot van pag.
+Boven de bruggen van beton en ijzer, rijzen de gevaarten van de
+twee eerste hoogovens. De eerste werd riog grootendeels gezet door
+buitenlandsche arbeidskrachten. De tweede, met den trotschen naam
+komsomolzen oven" werd vrijwel uitsluitend gebouwd door de leden
+der jeugdbeweging. Op hun naam staan de wereldrekords voor b
+tonstorten en snelle montage, jongens en meisjes zijn het die iederen dag
+de prop lossteken uit het brullende monster tot de stroom van gietijzer,
+vonken schietend, door zijn bed van zand vloeit. En iederen dag leest
+het land met spanning de resultaten. In het nationale konkoers der
+hoogovens tracht de komso-molzen oven den eersten prijs .te halen.
+
+Komsomolzen : voortroepen op het slagveld van den arbeid, strengst
+gedisciplineerd keurkorps in het arbeidsleger der Sowjet Unie, telkens
+weer ingezet in de voorste loopgraaf. De mijnen van Kusnetz of
+Donbass leveren niet voldoende steenkool, de machines voor rationeeler
+exploitatie zijn nog niet geleverd, de levensvoorwaarden staan nog
+op het laagste peil, de arbeid hapert, maar de groeiende industrie
+heeft kolen noodig, dan is n order van de partij voldoende en
+duizende komsomolzen verlaten hun kultureele milieu in de steden,
+hun werk, op kantoor of fabrieken, onderbreken zoo noodig hun
+studie om diep in het donkere hart der kolenbedding de arbeiders
+door hun voorbeeld en geestdrift aan te vuren.
+Met n ontzaglijken historischen aanval wordt het laatste bolwerk
+voor een nieuwe burgerij, het persoonlijke boerenbedrijf, gelikwideerd
+en de grond voor bijna 80 pCt. gekollektiviseerd voor sowchossen en
+kolchossen. Maar de boerenpsychologie, door eeuwen gegroeid, is niet
+met n pennestreek te veranderen, koelaken en priesters stoken en
+wroeten, het vee wordt afgeslacht, de opbrengst der landerijen daalt.
+En weer zijn het de komsomolzen die gemobiliseerd worden, te werk
+gesteld in de eenzaamste, verst verwijderde dorpen om de golf van
+reaktie met hun jong enthousiasme te keeren. Lid zijn der komso
+
+molzen, dat beteekent niet slechts, en niet in de eerste plaats, niet
+drinken en in sommige afdeelingen zelfs, niet rooken. Komsomols
+zijn, dat beteekent in de eerste plaats zich volkomen en geheel over
+
+geven aan den taak van den opbouw, vooraan zijn in de studie, door
+
+dringen, steeds dieper in het Marxisme Leninisme, deelnemen aan
+iederen vorm van maatschappelijk werk, altijd en overal onder de
+ongeorganiseerde massa propagandist zijn en iedere opdracht uit
+te voeren die door de partij wordt gegeven.
+Een vreugde is het, zulke jonge menschen te leeren kennen. Ik
+herinner me, in Magnitogorsk een elektro-lasscher die, zoo van het
+werk weg, in zijn arbeidskleeren naast ons kwam zitten. Hij behoorde
+tot de groep van jonge proletarische schrijvers en een van zijn novellen
+was door het radiostation van Swerdlofsk uitgezonden. De kleine
+groeit" was de titel. In het verhaal vertelt hij hoe, 2 jaar geleden een
+leelijk, ondergroeid meisje, tegelijk met hem en de anderen, uit hun
+Siberisch dorp naar Magnitogorsk kwam. Hoe klein ze zich voelde
+in haar leelijkheid die door al de dorpsgenooten bespot werd. In
+Magnitogorsk kreeg ze werk in een eetzaal, ze viel op door haar
+ijver en zindelijkheid en kreeg al spoedig het stootbrigadiersboekje.
+Aangemoedigd door het sukses leerde ze lezen en schrijven, werd
+lid der komsomolzen en nam deel aan den maatschappelijken arbeid.
+Ze is nu in het bestuur vanden j eugdbond en vervult een belangrijke
+funktie bij de stadsvoedselvoorziening. Aan haar voorbeeld, zegt
+de jonge lasscher, wou ik laten zien hoe de sowjetstaat ons allen de
+kans heeft gegeven te groeien.
+Ik prijs het verhaal dat in bijna ontroerend eenvoudige taal is
+geschreven en vraag hem waarmee hij nu bezig is. De jongeman haalt
+de schouders op. komsomolzen, goddeloozen, vereen iging voor
+vaderlandsverdediging, er blijft zoo weinig tij d om te schrijven. En
+den tijd dien ik vrij heb gebruik ik meest om mijn vak beter te leeren.
+Zijn vak, dat interesseert hem blijkbaar tien keer meer dan zijn
+novelle. Het electrisch lasschen, dat men vroeger in Rusland niet
+kende en waarin we nu reeds even ver zijn als de Amerikanen. De
+blauwe vonken die als een vuurwerk in den nacht zijn, het stugge
+ijzer dat zich, naar den wil van den werker, tot machtige konstrueties
+vereenigt. Daarover kan hij lyrisch worden. Als ik dichten kon,
+zegt hij, was het wat anders, dan zou ik een lied maken hoe mooi
+ons werk is.
+Terwijl ik naar hem luister denk ik aan den Amerikaanschen inge
+
+nieur die mij dien morgen vertelde: De komsomolzen hier, dat zijn
+prachtkerels, met geen zweep zou je ze van hun werkbank wegslaan
+als de fabrieksfluit gaat eer liun werkstuk klaar is.
+Terug in Moskau, in het restaurant der schrijvers, sprak ik over
+dat enthousiasme met een internationaal bekend auteur die sterk
+sceptisch staat tegenover de sowjets. Hij haalde de schouders op:
+wat wil je, ik ben sinds lang gewend het enthousiasme der jeugd als
+een zuiver biologisch feit te beschouwen. Dacht u soms dat de fa
+
+scistische jeugd in Duitschland niet enthousiast was?
+Toegegeven mijn waarde, toegegeven. De fascistische jeugd in
+Duitschland is enthousiast, ook wij hebben enthousiaste
+anti-militairisten, anti-alcoholisten anti-; in dat woordje anti zit het onderscheid
+immers. Onze jeugd in het westen is, óf cynisch sceptisch, of enthousiast
+tégen het bestaande, tégen de ouderen, tégen de idealen die de burger
+
+lijke maatschappij hun oplegt. De komsomolzen zijn enthousiast
+vóór. Voor den opbouw, voor de lijn der partij, voor de toekomst
+die hun geboden wordt, voor het gemeenschappelijk doel van jongeren
+n ouden: de maatschappij zonder klassen. En Italië? Ik ken Itali
+niet. Ik ken slechts het stijgende cijfer der faillisementen, de optimis
+
+tisch gekleurde en toch zoo zwarte opgaven der werkloosheid, het
+opgeschroefde pathos van den duce.
+Laten wij een oogenblik aannemen dat dat deel der Italiaansche
+jeugd, dat via de jeugdbeweging een veilige plaats in het fascistisch
+apparaat kan bereiken, even enthousiast is als de 5.000.000 komsomol
+
+zen voor wie studie en toekomst even wijd openstaan als voor ieder
+jong mensch in Sowjet Rusland die hersens in zijn hoofd en handen
+aan zijn lijf heeft. Waar is dan bij hen die edelste vorm van het enthou
+
+siasme te vinden, die men kunst noemt? Hier, in de sowjetunie, is
+dat geen vraag meer. Misschien twijfelt ge aan de waarde der gedichten
+die door de stootbrigadiers der literatuur (meest komsomolzen uit
+de bedrijven) geschreven worden. Het is waar, er is dikwijls meer
+enthousiasme dan technische volmaking in te vinden. Letterkunde,
+die niet slechts klank is, maar montage van gedachten, eischt een
+rijperen leeftijd. Maar ga met mij een dier tuinen binnen, die vroeger
+bij de rijke koopmanshuizen hoorden en waar nu, in de zomeravonden,
+de arbeiders samen komen om zich te vermaken. Ik breng u niet
+naar de openluchtschouwburg of naar de muziektent, wie daar
+optreden zijn beroepsartisten, ik breng u naar het kleine podium der
+blauwe bloesen. Dat is de agit-prop in haar besten vorm, de levend
+geworden muurkrant, proletarische humor, kommunistische theorie
+en artistieke regie, versmolten tot een prachtige eenheid van typisch
+moderne volkskunst. En hooger nog dan de blauwe bloesen staat
+overal de tram, het eigenlijke komsomolzentheater. Dat is, naast
+Meyerhold en Stanislavsky het beste tooneel van Moskau, dat zijn
+die voorstellingen waarvoor men uit het buitenland naar de
+SowjetUnie reist om te bestudeeren door welke vormgeving men het burger
+
+lijk tooneel van het Westen nieuw bloed kan inpompen. Een poging
+die bij voorbaat tot mislukken gedoemd is, omdat het nu eenmaal
+niet in den vorm zit. Het komsomolzen theater van Magnitogorsk b. v.,
+kan in zijn vormgeving niet aan het Moskausche tippen en bij de
+honderden trams" die dezen zomer aan de groote olympiade, voor
+volkskunst deelnamen stond zeker lang niet alles op dezelfde hoogte
+als de chineesche tram uit Wladiwostok die, als eereprijs, met een
+tournee door de Sowjet-Unie bekroond werd. Zoo is er zeker ook
+verschil tusschen de organisatie der komsomolzen hier aan het karton
+
+fabriekje in ons dorp StarajaDroeza, die de partijlooze jeugd tot een
+propaganda avond met dansen nu oproept, en de krachtige strijdbare
+voorhoede der komsomolzen in Moskau met haar eigen maandbladen,
+weekbladen en kranten. Maar het wezen is overal hetzelfde, in de
+kleinste plaatsen waar ik was zoo goed als in de grootste. Het wezen
+is dat wat wij in het westen missen, is de gloed der jeugd die zich
+vereenigt met den stalen wil der oude bolsjewieken, is het gevoel
+van eenheid met de geheele volksmassa, is het besef dezer jeugd
+dat zij de voorhoede van het proletariaat aller landen is in zijn strijd
+voor de wereldrevolutie en het socialisme. Het is deze gloeiende
+wezenskern van materialistisch idealisme die het woord: komsomol,
+zijn vurigen, bloedrooden klank geeft.
+
+</text>
+<image timestamp="2002:09:27:16:44:25.00" size="217070">00000AUK.TIF</image>
+</page>
+</document>

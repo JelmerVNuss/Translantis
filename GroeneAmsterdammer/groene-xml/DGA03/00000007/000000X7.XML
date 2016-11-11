@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070630</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE A M S T K U D A M M E il W E K K B L A D VOOR N E D E R L A M U.
+No. 1566
+
+m
+
+
+D
+m
+
+
+a
+m
+PO
+D
+m
+
+
+-o
+2
+"c/5
+
+co
+ra
+x
+PO
+O
+O
+
+D
+Z
+rn
+
+a
+tn
+Z
+
+a
+O)
+o
+
+i
+m
+m
+o
+m
+?o
+m
+z
+a
+rn
+
+Z
+CO
+
+H
+
+O
+
+O
+
+Z
+g
+&gt;
+
+!2
+
+a
+o
+o
+w
+&lt;m w
+w* l , -***=
+v
+~TT\ «
+*4\ s
+T%4\Y l
+
+
+
+
+RU fa:
+W
+•H n V
+
+•UiJ^
+«U.JJ•^n«&gt;i;!
+UI! "
+KlTTTx'
+
+'TM'.
+
+^'4A\^
+s
+±
+NIH
+i
+%
+[
+
+
+\
+% \ •
+•
+zj
+•MV
+O '
+
+^ T»
+.M i
+
+"h1 r*
+3
+T;q- j l l
+i \ft
+
+\\
+
+
+Iffl
+T. ..
+
+l"* \\
+r u:*
+rr
+i ! (Aft?
+.
+t-.
+''' : ^!
+,», g- iy.
+».
+' i
+
+
+4*1
+
+W ; l
+•
+TT"» •
+
+
+
+
+
+
+'1'
+VM
+v 3 \n:
+
+1. S l
+i L
+&gt; J;.
+
+ttt,2 •.
+11'
+3
+o
+
+</text>
+<image timestamp="2002:08:12:19:01:12.00" size="160948">000000X7.TIF</image>
+</page>
+</document>

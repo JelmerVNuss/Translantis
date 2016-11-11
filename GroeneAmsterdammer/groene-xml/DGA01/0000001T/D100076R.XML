@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260102</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+i*
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2535
+J. D. STRUIJS 6 Zn.
+Prinsengracht 837 P. C. Hooftstraat HO
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+BJASPlBOMMaTi
+BOEKBINDER
+KOESTRAAT 53
+
+LIP S &amp; PETERS
+Haardenfabriek
+Vraagt Catalogus
+
+: met prijzen :
+DORDT
+00^ FIRMA J. G. M E IJ E R
+000 2 Markten - GRONINGEN - Opgericht 1706
+
+SPECIALITEIT IN
+ECHTE GRONINGER KOEK
+
+000 van f L—, f 1.50, f2.—£2.50, f3.—enz. 000
+000 Franco per post 50 Cents verhooging 000
+Koopt nu uw
+
+PETROLEUMKACHEL
+
+
+R E E D E R S
+Volmaakt - Veilig
+Solide - Reukloos
+OUDSTE EN BESTE ADRES
+
+N.Z. KOLK 17 TEL. 45373
+
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+
+Overhemden naar Maat
+VERVAARDIGD OP EIGEN ATELIER
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+Wed. JOHN GAY'S Piccalilli
+blijft het mosterdzuur met de fijne pikante smaak!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N. V. DE HOUTTUINEN" - AMSTERDAM
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+
+Complete Meubileering
+Kleedermakerij naar Maat
+H. KEMNER
+
+G\D GNS voorheen Coupeur der Firma P. M. BROEKMANS, Koningsplein, Amsterdam. G\D CTsS
+
+BILDERDIJKPARK 9 bd. de Clercqstraat
+
+COLBERT COSTUUMS van af	f
+65.DEMI SAISON van af	50
+MANTELCOSTUUMS van af	65
+
+G\S Stalen op aanvraag.
+Telefoon No. 29891
+
+Prima afwerking
+Moderne coupe
+Fijne Lederwaren en Reisartikelen met Garantie
+
+Paleisstraat 45-47 - Telefoon 35013
+
+- voorheen J. N. MULLER
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+
+Specialiteit in: Wiegen en Kinderledikanten
+B.
+U L D E R
+TUINARCHITECT
+Gevers De3'noot\veg 117
+
+TELEFOON
+Scheveningen
+
+</text>
+<image timestamp="2002:09:24:19:22:14.00" size="141115">D100076R.TIF</image>
+</page>
+</document>

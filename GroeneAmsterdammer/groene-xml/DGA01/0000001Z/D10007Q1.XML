@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260703</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+u
+
+RAAGT
+«HJÜTOltVELD'S
+*•
+Reed* 31 JMCB ver
+zorgt «a reinigt men
+de tanden vet
+
+M'illli
+ATOI* f««ft een «TM! gebit.
+F. 2ÜRCHER
+AKTONNAGEFASRIEKenDRUKKERIJ
+X)WS&lt;3RACHT64-66-68-7a.72AMSTERDAM
+ARNHEM (Groot. Markt)
+
+TEiDESPAYS-BAS
+HET WARM EN KOUD STROOMEND WATER
+EIS -••="
+I SIC O 'S l l I
+a**.
+BAGAGE-^, RIJWIEL.-.
+ONGELUKKEN-,
+AUTOE.A. VERZEKERINGEN
+onxe concurreéfende premiën
+D, BBERENDS VEEREN
+*|STERDAM - LEEUWARDEN
+TOLSTEEG-AMSTERDAM
+CASPERS &amp; Co.
+- Ameublementen - Stoffeerder!}
+Moderne Landhuisstoffen en
+'^,, Oud-Hollandsche Meubelen
+.]2ELSTRAAT HOen 126 TELEFOON 43739 «, 3735-.
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciile inrichting!
+
+C A PI
+115 KALVERSTRAAT
+KARELI
+ZE VERLAGEN
+Uw gasrekening de
+comforen en for
+
+nuizen van
+
+SENKING
+4
+Gasfomuizen
+vanaff68.
+NY.V/H.
+HAKLOÖSTERHÜiS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stalen
+
+ARNOLD HOUTSCÏILT
+Singel 285 Amsterdam
+i T
+de heerlijke Cacaodrank
+wordt gedronken^met Melk of Spuitwater
+'Benige Fabrikanten F. KORFF &amp; Co., Amsterdam
+OVERAL VERKRIJGBAAR
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 3.- per kwartaal off
+10.
+per Jaar bij vooruitbetaling
+STANDAARD MOTORKRUISER
+lang 8 50 M., kajuit,keuken,W.C., cockpit,
+2—5 slaapplaatsen. Vraagt prospectus.
+IMyytaarty de voornaamste
+
+en
+Werf Nicolaas Wifsen"
+STOEL ALKMAAR.
+
+ITIMTUR)
+(lightcapen
+fijne likeuren
+
+</text>
+<image timestamp="2002:09:25:20:20:04.00" size="246880">D10007Q1.TIF</image>
+</page>
+</document>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060805</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1519
+Tezx-toonstelldjo-g -VSLEL oiacL goiad. en. zil-vex-werlc ie
+19OS.
+De heer j. A. Frederiks, de bekende oud
+
+heidkundige, heeft van deze belangwekkende
+tentoonstelling met enkele woorden reken
+
+schap gegeven van het principe, dat bij het
+verzamelen en ordenen der kostbare voor
+
+werpen gevolgd werd.
+Daar in verschillende plaatsen van ons
+land reeds tentoonstellingen van edele metalen
+zfln gehoaden zegt de heer F. en de
+voornaamste voorwerpen als vrtf algemeen
+hekend moeten worden geacht, meende de
+Commissie zich te moeten beperken tot alles
+wat uitsluitend op Zeeland betrekking heeft
+alzoo een historisch belang bezit aan
+
+gevuld met datgene wat meer tot het
+dagelijksch gebruik in den loop der tgden moet
+gerekend worden en op dit oogenblik in
+Zeeland aanwezig is.
+De Commissie heeft zich die grens moeten
+stellen, om niet te uitgebreid te worden.
+Het kerkzilver toch uit de voornaamste
+gemeenten in Zeeland vertegenwoordigt reeds
+eene belangrijke hoeveelheid, de
+gildegoederen van Middelburg, Vlissingen en Goes
+vormen eene uitgebreide verzameling, gezwe
+
+gen van de inzendingen der verschillende
+schuttersgilden, wier kettingen met vogels
+en schilden, een bijna volledig overzicht geven
+van hetgeen daarvan in Zeeland nog overbleef.
+Het zilver, dat thans in de zalen van het
+Schuttershof de zetel van het aloude St.
+Sebastiaansgilde wordt tentoongesteld,
+dagteekent van de 16e het begin der 19e
+eeuw. Middeneeuwsch zilver is in Zeeland,
+op enkele uitzonderingen na, niet aanwezig.
+Door de godsdienstige beroerten en de vele
+oorlogen, die in Zeeland met groote hevigheid
+hebben gewoed, was nagenoeg alles verloren
+gegaan en wat aan de gewelddadige uitingen
+van. eene opgezweepte volksmenigte of de
+grenzenlooze vernielzucht van ruwe kr
+gshorden ontsnapte, werd later door onkunde en
+onverschilligheid verkwanseld of vernietigd.
+Zoo weet de heer J. A. Frederiks te spreken
+van avondmaalzilver zonder eenige kunst
+
+waarde, waarop een kerkbestuur met zekeren
+trots heeft laten graveeren. dat het is vervaar
+
+digd uit oud zilver, dat eertijds in gebruik was.
+Toch zal men op de tentoonstelling nog
+menig stuk vinden, dat ook uit een kunst
+
+historisch oogpunt van belang is en, daar
+een groot deel van het historische zilver in
+Zeeland is vervaardigd, kan deze expositie
+er toe bijdragen om ons nader in kennis te
+brengen met de namen der beoefenaars van
+het vak, die niet behoefden onder te doen
+voor hunne kunstbroeders in andere gewesten
+van ons land.
+Het is een feit dat juist omtrent onze
+oude goud- en zilversmeden nog weinig
+beZilveren drinkschaal van de gemeente Zieiikzee.
+Zilveren drinkschaal van de gemeente Zierikzeè(bovenop gezien).
+Gedreven zilveren beker van-het St. Jacobsgilde, St. Maartensdijk.
+Gedreven theebusjes.
+Gedreven schotel.
+'é'''•} J'
+?IÉ' , ' -•
+Hl- • /;- f
+i:fl /1**
+'Zilveren drinkechaal van de gemeente Middelburg.
+Zilveren dr'nkschaal van de gemeente Middelburg (bovenop) gezien),
+Annanasbeker van het St. Jacobsgilde, St. Maartensdijk.
+
+</text>
+<image timestamp="2002:08:11:00:31:46.00" size="202909">000000G5.TIF</image>
+</page>
+</document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970411</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Zondagswet van 1815.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van U April
+HAAI\LEM
+ZONDAGS
+GESLOTEN t
+Burgemeester BoRKEl. in functie op 11 April 1897
+Amst. Boek- en Steendrukkerii, v/h. Ellennan, Hartnc &amp; Go.
+
+</text>
+<image timestamp="2002:08:21:14:52:38.00" size="436325">000003QA.TIF</image>
+</page>
+</document>

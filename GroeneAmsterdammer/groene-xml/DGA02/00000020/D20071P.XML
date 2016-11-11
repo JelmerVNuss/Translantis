@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>36</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+SPOORWEGEN
+.I '• ln l933 reizigers- en goederentarieven flink
+verlaagden?
+2. een tweede spoorbrug over de Waal bij Zaltbommel in dienst stelden
+in October 1933?
+3. in begin 1934 aanvangen met den bouw van een nieuwe spoorbrug
+over de IJssel bij Zwolle?
+4. in 1934 beginnen met Gemeente en Rijk met de groote werken
+te Amsterdam, o. a. bouw van 22 viaducten en van een nieuw station
+Muiderpoort en Amstellaan?
+5. op 15 Mei I9J4 wederom een aantal verbeteringen en versnellingen
+in de dienstregeling brengen?
+6. op 15 Mei 1934 zullenjinvoeren electrische half-uursdienst Rotterdam
+Dordrecht en hiervoor de stations Delftsche Poort, Beurs en Dordrecht
+ombouwden?
+7. op 15 Mei 1 934 zullen invoeren Diesel-electrische treinen 2—3e klasse,
+bestemd voor de lijnen Amsterdam Arnhem, en den Haag/Rotterdam
+Utrecht—Eindhoven (regelmatige uurdienst)?
+8. de zoo goedkoope Achtdaagsche Abonnementen het geheele jaar door
+verkrijgbaar stellen (F 15.00 3e klasse) en de Algemeene Abonnementen
+óók verlaagden in prijs (3e klasse f 45.00 voor de Ie maand en
+F 30.00 voor elke volgende aansluitende maand), beide onder de leuze:
+ALLE DAGEN, ALLE RICHTINGEN, ALLE TREINEN?
+9. doorgaan met den bouw van stalen rijtuigen, comfortabel ingericht
+en zeer rustig loopend?
+10. in 1933 invoerden het KOSTELOOS BESTELLEN van Expres- Snel- en
+Vrachtstukgoederen ?
+I. het geheele^stukgoederenvervoer baseeren op den eisch:
+
+Heden laden, vannachtvervoeren, morgen bestellen?
+D a n staat Uw besluit ook vast:
+U REIST EN VERVOERT PER SPOOR - want dat is*
+
+VEILIG • VLUG • VOORDEELIG
+l
+DE FRANSCHE RIVIERA
+met haar heerlijk, subtropisch
+klimaat, waar de zachte zefir
+een melodie van gezondheid en
+levensvreugde zingt.
+
+DE BERGSTREKEN met hun
+ongeëvenaarde winterpracht,
+waar fonkelende zonneschijn en
+ijle luchten lichaam en ziel
+verfrisschen - een Dorado voor de
+wintersport.
+Over de comfortabele, snelle verbindingen met
+deze geliefkoosde vacantieoorden en de vele
+mogelijkheden, welke deze U bieden, geven het
+bureau der Fransche Spoorwegen, Parkstraat 99,
+Den Haag en de bekende reisbureaux U gaarne
+elke gewenschte inlichting.
+FRANKRIJK
+
+</text>
+<image timestamp="2002:09:27:06:09:30.00" size="292722">D20071P.TIF</image>
+</page>
+</document>

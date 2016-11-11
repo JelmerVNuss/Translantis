@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140830</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk verboden
+DE VREDE OP HET KERKHOF
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 30 Augustus 1914
+Naar een door KANT vermeld uithangbord van een Nederlandsen koopman uit
+de 18e eeuw. (N. R. Ct. 27 Aug.)
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+De Vrede: Hier alleen schijn ik te mogen heerschen!
+
+</text>
+<image timestamp="2002:08:21:01:09:20.00" size="152387">D40001F2.TIF</image>
+</page>
+</document>

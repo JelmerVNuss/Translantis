@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320702</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"*"*"
+De Groene Amsterdammer vart 2 Juli 1932
+No. 2874
+De gilde viert
+door Henrik Scholte
+tastische schuur: een decor, dat Vrijdag nogmaals
+dienst zal doen om een paar duizend studenten
+voor n keer in pleno te vereenigen in een stad,
+waarin zij anders in de menigte plegen onder te
+gaan.
+
+Het driehonderd jarig bestaan der
+Universiteit van Amsterdam
+Men zegt, dat aan onze universiteit somtijds een
+geringe verandering in het sombere ambtsgewaad,
+betreffende een plooitje meer of een randje bont
+- minder, een niet ongewichtig onderdeel heeft ge
+
+vormd van de debatten tusschen de hedendaagsche
+, rekkelijken en praeciezen. Wrie zich echter
+Dinsdag" middag heeft verlustigd aan het cortège der
+buitenlandsehe geleerden, heeft met eenigen smart gezien
+~ ~±ioe weinig voortgang hi er de mode dergeleerden heeft
+'gemaakt sinds dominees bevel het zwart tot
+Holland's nationale kleur verklaarde. Er zit een zekere
+* vreesaanjagende deftigheid in deze synodiale op
+
+tocht van. toga's, die altijd nog weer zwarter zijn
+dan zij zijn en ik weet niet of men in kringen der
+Ingewijden een enkelen kleurigen doctorsmantel
+•van Zeeman of Salverda de Grave benijdt of be
+
+klaagt. In elk, geval heeft Jan Publiek dit keer,
+- dank zij buitenlandsche bontheid die juist
+tegen• • over den strengen Nederlandschen eenvoud in
+overstelpende mate aanwezig Was, vrijwat meer
+"van het kijkspel genoten dan toen een jaar of wat
+, geleden, bij een minder weidsche gelegenheid, onze
+zwarte geleerden de burgwalletjes omwandelden.
+^ v- Kr zit ie^s schoons in, dat ook een professor zich
+tot tijd heeft op te poetsen. Vooral voor
+^oud-student, die zich steeds plichtmatig van
+.je of rok moest voorzien, wilde hij met een
+JJjpoggeVerde in zakelijk contact treden en dan in
+zweetkamertjes, waarin onze Oudemanhuispoort
+eeld is, kwam te zitten tegenover een
+machtir in. min of meer slordig colbert je
+gehul*.; Boeddha achter de groene examentafel,
+een glas water en een wetboek. Er zit
+^-jbo^ndien iets zeer rationeels in. Professoren zijn
+immers, .een enkelen sportieven of
+communistiseTatn uitzonderling daargelaten, kamergeleerden,
+niet de ziekte der geleerden: de vale kleur van vier
+kaften wanden, min of meer duidelijk op hun gelaat
+geschreven. Hunne bekendheid is een indirecte,
+zij aelf gaan, bescheiden achter een sik of een lorg
+
+net aanloopend, in de massa verloren en slechts de
+verkeersagenten of een toevallig in de buurt zijnd
+student staan bereid om hen te helpen. Thans heb
+
+ben zij eenmaal de gelegenheid om de binnenwaarts
+brandende gloed van hun intellect ook met passend
+Vertoon den burger te demonstreeren.
+Soms gaf dat aanleiding tot teleurstelling. Wie,
+die in Parijs nimmer den stoet der veertig
+onster• felijken over straat zag gaan, had kunnen denken
+dat de begeerde ambstrok van de Academie met
+aijn giftig-groene versiering op de randen zoo
+vaalversleten kon aandoen, dat een voddenraper er
+.geen twee kwartjes voor betaald zou hebben, en
+dat de Museum-achtige steek zqo achteloos als een
+actentasch onder den arm werd meegedragen? Ook
+van de overige Franschen was de statiekleedij van
+een Piewot-achtigen opschik, verkreukelde kinder
+
+jurken, waaraan de geplooide koksmutsen en een
+kokette stola met hermelijnen kwastjes slechts af
+en toe meer waardigheid kon geven. De Duitschers,
+klassiek professorenlarid bij uitnemendheid, ver
+
+schenen met zware purperen of imponeerend groene
+mantels, waarlijke priesters met enorme honden
+
+penningen om den hals. Eén schreed er mee, die
+, den hermelijnen koningsmantel der Saksische
+vorsten om zijn schouders droeg, een ander, Noor
+
+delijker van origine, droeg nog den Spaanschen
+kraag, die het hoofd beulsgewijze en naar men
+hopen mag ten onrechte, van den romp scheidde.
+De Engelschen, in blauw of scharlaken en met een
+doktershoed, zoo plat en scherp, dat het leek alsof
+zij daarmee hun baard afgeschoren en hun neus de
+Angelsaksische puntigheid gegeven hadden, span
+
+den in aesthetisch opzicht de kroon, hetzij dan dat
+zij overtroffen werden door professorale unica uit
+tmiversiteitsteden zoo klein, dat men ze op een
+schoolatlas niet leert. Maar het eerenutnmer der
+internationale wetenschap, op wiens komst zich
+elk meisjeshart verheugd had, ontbrak helaas:
+ergens in Centraal-Europa woont immers, zegt
+men, de kluizenaar, die bij uiterst zeldzame gele
+
+genheden, uitkomt met de meest fantastische
+toga, die men zich denken kan: een combinatie van
+telkens langer, en langer wordende doktersmantels
+over elkaar en een borst en buik volgehangen met
+zulke ridderorden van smaragd eii amethyst als
+men thans slechts door een enkelen
+Balkangrootheid zag dragen.
+Dit zijn opmerkingen, ingegeven bij de blijde in
+
+komst van den Senatus Amplissimus met het cortóge
+in het eenigszins uitheemsch versierde Concertge
+
+bouw op Dinsdagmiddag. Men mag ze onbelangrijk
+vinden, zij zijn het niet, sinds zij wellicht mede de
+mode voor het volgende jaar bepalen. Men heeft
+immers, in het algemeene ambtsgewaad der vrouwe
+
+lijke schoonheid, we! aviateurs en palfreniers nage
+
+volgd. WTaarom zou men dan niet na deze
+eere-voorstelling een avondcape met toga-variaties, een
+brigdecoat op den doctorsmantel geïnspireerd, of
+een scheef bonnetje met universitaire franje kiezen,
+nu menig fijnvoelend jong meisje tranen in de
+oogen kreeg, toen onder plechtige jubeltonen dit
+fragment van levend gebleven Middeleeuwen naar
+het podium schreed?
+Voor het overige heeft Amsterdam, weinig ge
+
+prepareerd, weinig op de hoogte en weinig in stem
+
+ming om een zelfs zoo gemotiveerd feest als het
+driehonderdjarig bestaan harer Doorluchte Schole
+te vieren, zich in een minimum van tijd en tot op
+het oogenblik zonder wanklankeii aangepast. Waar
+
+bij komt, dat deze viering inderdaad een voor ons
+land ongewonen stijl en waardigheid bezat en
+daarnaast door de altijd weer pateerende ver
+
+lichting van onze schoonste grachten en torens,
+door bloemencorso's en roeiwedstrijden, door
+carillonspel, optochten en studentenrijjolen, zelfs door
+min of meer geslaagde nachtfestijnen in Tuschinski
+en het Paviljoen ook een openbaar feest in den
+besten zin van het woord werd. Het hoeft dan toch
+niet altijd dat te worden, wat een al te alcoholische
+pretsfeer sinds menschenheugenis van den Konin
+
+ginnedag gemaakt heeft. Er was hier de laatste
+week tooneel, muziek en dans in den besten vorm te
+zien, als de huidige hoofdstad maar kan produceeren,
+ook al zegt dat op het eene gebied meer dan op het
+andere, er waren eenige tentoonstellingen zoo schoon
+en volledig als men ze nimmer bijeen heeft gezien
+en er was bovenal een zoo onhollandsch zomersch
+klimaat, dat den burger overdag en des avonds, tot
+diep in den nacht toe, op straat hield en straks
+misschien de voornaamste redding is voor de twee
+openluchtspelen, die elkaar in niet altijd
+verheffenden wedstrijd de loef pogen af te steken.
+In strikten zin was de viering zelve zonder val
+
+sehen schijn en zonder mislukte braspartijen. .Er is
+in onze stad voor zulke gelegenheden weinig
+schooners denkbaar dan de sinds de laatste jaren ontdekte
+avondrecepties in het Rijksmuseum en het Paleis.
+Voor den Amsterdammer, die de overige dagen van
+het jaar geen voet binnen de musea zal zetten tenzij
+hij niet weet wat hij met een buitenlandsehen log
+moet doen, is de Nachtwacht bij avondverlichting
+een openbaring, juist om den paradox, dat men dan
+eerst gewaar wordt wat Rembrandt met zonlicht
+bedoelde. En de Burgerzaal op den Dam, die geen
+versiering maar slechts de honderden oude
+kaarsenvlammen en olielampen behoeft om de smaak van
+den welvarenden poorter op zijn best te toonen, is
+misschien wel de hoogste decoratieve glorie rondom
+een recipieerend gemeentebestuur, ook al ontvangt
+het dan niet. of nog niet, op eigen terrein. Koekende
+naar een derde gelegenheid om het conglomeraat
+.van intellect, van Adelaïde tot Honduras, van
+Japan tot Kaïro. naar behooren te ontvangen, is
+men tot de keuze van de oude Koningszaal van
+Artis gekomen, een wel internationale, maar niet
+zeer intellectueele verzamelplaats, ook al is het
+minder vreemd, dat men thans bij de dieren kwam
+om te eten dan destijds bij de oudemannen om te
+studeeren. Architect Wijdeveld had bovendien
+van deze zaal, voorheen bekend om zijn monstru
+
+euze holheid, met gekleurd papier en triplex, met
+lage plafonds en logische verdeelingen, een aller
+
+aardigst en speelscli intérieur gemaakt, waardoor
+het officieele diner der universiteit het verloop kon
+hebben van een ongedwongen schuttersmaaltijd of
+een boerenbruiloft van Streuvels in een lange,
+fanHet moet geconstateerd worden, dat Amsterdam
+zich in dagen, waarop feestviering niet van harte
+ging, van zijn allerbeste zijde deed kennen. Men
+kon evenmin de stad uitgelaten op zijn kop zetten
+als anderzijds ongemotiveerd toegeven aan de
+psychose van crisis en nog eens crisis. De volhar
+
+ding van onze stad om zich in het verleden ondanks
+tegenslagen en afgunst een eigen universiteit te
+blijven veroorloven, werd herdacht op een wijze,
+die er juist in deze dagen op berekend was om
+weerklank te vinden. Het schoonst wellicht vond
+een eerlijk erkennen van den huldigen toestand zijn
+afspiegeling in de rede van Paul Scholten op den
+eigenlijken herdenkingsdag, een rede, zoo voortref
+
+felijk gebouwd en zoo fijnzinnig geargumenteerd
+in het detail en in het totaal, dat zij van dezen
+breedzienden geleerde een klein meesterstuk ge
+
+worden is. Voorts in de te weinig gewaardeerde
+toespraak van wethouder Boekman tijdens den
+officieelen maaltijd en vooral ook in de korte,
+kernachtige woorden van den vertegenwoordiger
+der studenten bij de onthulling van het beeld van
+den gebeeldhouwden jongeling van Johan Polet
+(dat nu eens werkelijk een (geschenk van hooge
+aesthetische waarde geworden is) en waarbij de
+heer B. W. L. Siemens op onopwonden wijze uiting
+gaf aan wat er in den student van heden leeft: een
+minachting voor den titel-alleen, die de jeugd van
+tegenwoordig eer tot werkeloosheid dan tot levens
+
+doel heeft gedreven, en een gepassioneerde vraag
+om waarlijke leiding en steun. Wie de
+studentenpers van de laatste jaren gevolgd heeft, weet dat
+deze korte rede een vrij algemeene opinie weergaf
+van wat er in de veranderde en veranderende stu
+
+dentenwereld leeft: een eerlijker en toch niet min
+
+der jeugdig leven, dat misschien ook in het aan
+
+staande studentlustrum, dat ons voor de ko
+
+mende week nog grootendeels wacht, zijn echo
+vindt.
+Wij hebben deze dagen, van minder ingewijden
+die naar stof voor hunne goedbedoelde toespraken
+zochten, tot in den treure dezelfde woorden gehoord
+over de redevoeringen der beide eerste professoren
+Barlaeus en Vossius, den Mercator Sapiens" en
+,.De Utilitate Ilistoriae". Tegenover dit oude
+stond echter iets nieuws en zuivers in dit wel
+
+geslaagde lustrum, dat de ware beteekenis van
+de historie van het Sint Agnes Kerkje in een
+levend gebleven koopstad naar voren bracht: een
+moderne motiveering van ,.De Utilitate
+Sapientiae".
+Het Ijustrumspel
+
+Uit harden strijd in onwaarschijnlijk korten tijd
+ontstaan is dit openluchtspel bij verrassing toch
+nog een der best geslaagde en zuiverst gemoti
+
+veerde geworden in de reeks, waarin langzamer
+
+hand de eene studentengemeenschap de andere
+gevolgd heeft (Amsterdam kwam het laatst). Dat
+de formule" voor het openluchtspel, in wezenlijke
+tegenstelling tot het spel in een schouwburg
+
+zonder-dak, met dit in zijn tekst nog altijd vrij
+zwakke geloofsdispuut van Hooykaas, gevonden
+is, zal niemand durven beweren. Maar dat
+S.P.Q.A. 32" door den stijl der vertooning van
+wezenlijk belang geweest is, staat voor mij evenmin
+buiten kijf. Vooral ook om datgene, waar het zich
+bij de vertooning in soberen, eerlijken eenvoud
+van wist te onthouden. Hier was, tot teleurstelling
+van menig romantisch hart misschien, geen pom
+
+peuze maar zinlooze maskerade, geen
+plaatjeskijkerij en historische reconstructie. Maar wel,
+tegen een voornaam decor van voortreffelijke
+proporties, een minder tot de verbeelding dan tot
+het geweten sprekend spel van massale bewe
+
+gingen, op de juiste oogenblikken onderbroken
+door de licht gemouvementeerde balletten van
+Yvonne Oeorgi. De strijd der rekkelijken en prae
+
+ciezen om het behoud der dissenters (Lutheranen,
+Doopsgezinden. Joden etc.) met als apotheose
+het Athenaeum Illustre, werd hierdoor een inner
+
+lijk verantwoord, dramatisch betoog van motieven
+en spreekkoron in den trant van onze beste
+leekenspelen", waaraan het verwant scheen.
+•,-«.'i..^ï.-.ci
+
+</text>
+<image timestamp="2002:09:27:02:40:57.00" size="352209">00000AD8.TIF</image>
+</page>
+</document>

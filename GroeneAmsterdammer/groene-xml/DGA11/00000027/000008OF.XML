@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301115</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 15 NOVEMBER 1930
+No. 2789
+itf
+
+l
+s?
+:
+:
+J* D» STRUIJS &amp; Zn.
+Prinsengracht 837 -~ Telefoon 37906
+KtUFEIISSEI (Hnr TEIUEZIK ut BUTDItEI il AUTO'S]
+CREMATIE - TRANSPORTEN.
+N,V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+.aramei nou
+
+Een specialiteit} de
+fijnste roomcaramel
+in chocolade.
+tiel toe.
+datgeDrosles
+ENTOONSTELLJNG VAN
+SCHILDERIJEN DOOR
+RICHARD WALCH
+VAN 2 NOV. TOT 3O NOV. I93O
+BJASPIBOMMEL:
+KERKSTRAAT 58
+AMSTERDAM
+KUNSTZAAL WILLEM BROK, TEL. 628. HILVERSUM
+BEGRAFENISVEREENIGING
+N. SAX }r.
+JP.C. Hoofmraat 38 AMSTERDAM Telef.: 20341, 34350
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+a J. DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 17 V&lt;
+Warmwatervoorziening.
+iiiiiiiniiiiiM^^
+'Voor alle doeleinden
+l Oiem. Kunstinrichting
+iDirkSchnabei
+Amsterdam. **
+ADVERTEERT
+
+IN DE GROENE"
+
+Dat is een zin dien ge dikwijls leest.
+WAAROM?
+Omdat DE GROENE in het
+geheele land gelezen wordt
+door het beste publiek .—door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij honderd
+
+duizenden bereikt, die juist niet
+tot het koopkrachtige publiek
+behooren, maar het betaalt
+hem om in dit blad te
+adverteeren, dat hem direct in
+contact brengt met het publiek
+dat hij zoekt.
+FIRMA KRÖNER
+Nieuwendijk 167 AMSTERDAM Tel. 43186
+Speciale aanbieding Bedlakens
+Gewone Zoom 150 cM. breed, 2.40 c M. lang,
+f 2.25, 2.45, 2.75, 2.95
+EXTRA PRIMA KWALITEIT
+150 cM. breed Gew' gez- 2e Hand ajour Feston
+f 3.15 3.55 3.65
+Staal op aanvrage franco.
+RESTAURANT
+l A-M-V J
+LEIOSCHE BOSCHJE A'DAM
+TEL.823A5 TE.LEGR-ADR..,HOCENTRA,"
+FI.
+LOGIES MET ONTBIJT
+5 UITSLUITEND /.
+,50 - EN - FLf.
+ALLE MODERN COMFORT
+Jil M M M KEU :i"fcj li O AA
+l 'YERUMCPEM PRIJS UITGEVOERD! l
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinginrichting
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:08:49:30.00" size="159351">000008OF.TIF</image>
+</page>
+</document>

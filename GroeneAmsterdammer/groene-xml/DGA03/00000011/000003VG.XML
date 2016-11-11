@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970801</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1049
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+"S/VecLsirijd. -van. esLTdoa-t-uu-eza. op sport "be-fcre;klsd.n.g la.e"b"berï.cLe,
+FRISCH AU F" en ALL HEIL".
+Teekeningen van FRANZ EYBEN, te 's-Gravenhage, met den tweeden prijs bekroond.
+
+</text>
+<image timestamp="2002:08:21:22:38:43.00" size="230534">000003VG.TIF</image>
+</page>
+</document>

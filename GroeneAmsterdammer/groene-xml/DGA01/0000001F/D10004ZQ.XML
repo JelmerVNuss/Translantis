@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390304</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+en aer mode
+d.
+Draag niet ieder extravagant model
+der modedictatoren uit Parijs, want
+daarvoor moet u dikwijls bijna als
+twee druppels water lijken op de
+mannequin die het model droeg.
+Indien men klein en een beetje gezet
+is, hoedt u dan voor: te kolossale
+hoeden; te druk gegarneerde blouses;
+vossencapen, te wijd over den
+rug vallende mantels; te opvallend
+breede schouders; hoedjes, die onder
+de kin worden vastgebonden; voor
+dwarsgestreepte stoffen en voor de
+
+zulken met te groote patronen.
+Denkt u er vooral aan, wanneer ge
+zeer lang en spichtig zijt: geen stof
+
+fen met streepen in de lengte; geen
+opvallen hooge en spitse hoeden; geen
+te lange kleeren en geen Meeren met
+knoopen van onder tot boven, geen
+empire-taille bij avondkleeding; geen
+clLrliefste tierlantijnachtige
+garnituren, geen lange capes dat is
+niets voor u.
+Vrouwen met een beetjen korten
+hals, moeten nooit halflange haren
+en pof mouwen dragen;
+diegenen, die echter van uit de hoogte
+op de anderen neerblikken moeten
+zich voor scherpe décolleté's hoeden.
+5
+Zooals vanzelf spreekt,
+draagt nooit bergschoenen bij een
+avondjaion; zooals ge vanzelfspre
+
+kend nooit een romantisch
+gegarneerden hoed en fijnbewerkte
+schoentjes met zeer hooge hakken
+bij een tailleur draagt.
+Nauwe ceintures in de taille maken
+slechts slanke vrouwen slank.
+7
+Elegant zijn is steeds: een
+
+voudig zijn.
+Men moet niet alles, wat
+modern is, op n japon
+aanwenden.
+O
+PAG. 12 DE GROENE No. 3212
+
+</text>
+<image timestamp="2002:09:13:02:25:46.00" size="105306">D10004ZQ.TIF</image>
+</page>
+</document>

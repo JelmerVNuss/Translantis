@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19121229</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Jaar-einde en de Balkanoorlog.
+BIJVOEGSEL, van e Amsterdammer, Weekblad voor N'ederlanti. van 29 December 1912. Nadruk verboder
+Amst. Bock- en Steendrukkerij, v h. Kliermnn. Ilnmis .S: Co.
+De geesten: Wanhoop en sterf!
+Richard III: t Is 't holle van den nacht
+Angstdropp'len staan mij, koud, op 't rillend lijf.
+
+O, mijn geweten heeft veel duizend tongen.
+En ied're tong vertelt een ander stuk,
+Moord, zwarte moord
+(Shakespeare. Richard 111, Vert, B.irgersciijk .
+
+</text>
+<image timestamp="2002:08:18:05:51:47.00" size="600383">D40000J3.TIF</image>
+</page>
+</document>

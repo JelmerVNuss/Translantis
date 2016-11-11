@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070113</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+1542
+DE AMSTEEDAMMEE
+A°. 1907,
+WEEKBLAD VOOR NEDERLAND
+O XL cL e r redactie
+Dit nummer bevat een bijvoegsel.
+•v a. XL CT. DDE IC O O.
+Uitgevers: VAN HOLKEMA &amp; WARENDORF, Heerengracht 457, Amsterdam.
+Het auteursrecht voor den inhoud van dit Blad wordt verzekerd overeenkomstig de wet van 28 Juni 1881 (Staatsblad No. 124).
+Abonnement per 3 maanden . . » . * . / 1-50, fr. p. post f 1.05
+Voor Indiëper jaar	• » mail 10.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar	0.121/»
+Dit blad is verkrijgbaar Kiosk 10 Boulevard des Capucines tegenover het Granil Café, te Parijs.
+Zondag 13 Januari.
+Advertenticn van l—5 regels ƒ 1.25, elke regel meer	f 0.25
+Reclames per regel .	0.40
+
+Annonces uit DuitschlanJ, Oostenrijk en Zwitserland worden uitsluitend aangenomen door de firma
+RUÜOLF MOSSE te Keulen en duor alle filialen dezer Cïma. De prijs j&gt;er regel is 35 i'fcnnig.
+INHOUD:
+
+VAN VEREB EN VAN NABIJ: De genees
+
+heer en de. gemeenschap, I, door L. L.
+Postuma. Het strafminimum. door J. H.
+Heerepink. Folteringen door de Russische
+geheime politie te Riga,door een ooggetuige.
+Keten op het Kroondomein en bezittingen
+van particulieren, door Frederike Uildriks.
+Haagsche Brieven. KUNST EN- LETTE
+
+REN : Muziek in de Hoofdstad, door Ant.
+Averkamp. FEUILLETON: De Spion, III.
+Naar het Engelsch, van Joseph Conrad.
+Pulchri. Groepen I, door Plasschaert	Onze
+Letteren in 1906, door G. van Hulzen.
+VOOR DAMES : De Kinderkamer, door Tr.
+Kruyt-Hogerzeil. ALLERLEI, door Ca
+
+price, Domeinen van het Huis van Oranje
+in Nederland, met afb. Het
+gephotografeerde woord" en de snel-telegraphie
+Polldk—Virdg, door H. W. UIT DE
+NATUUR, door E. Heimang. De Gemeente,
+de Vierjaarlijksche en de beer Carel M.
+Dake, door L. Simons. INGEZONDEN.
+FINANCIEELE EN OECONOMISCHE KRO
+
+NIEK, door Alex. J. Hendrix en V. d. S.
+SNUIFJES. DAMRUBRIEK. SCHAAK
+
+SPEL. ADVERTENTIEN.
+De geneesheer en de
+gemeenschap.
+i.
+De positie, die de geneesheer in de samen
+
+leving inneemt, is van economisch stand
+
+punt beschouwd een eigenaardige en vrij
+gecompliceerde.
+In de particuliere praktijk oefent hij,
+evenals de advocaat, een zoogenaamd vrij
+beroep uit, behoort hij tot den midden
+
+stand, levert hij (immaterieele) waren,
+diensten. Is hij gemeente-geneesheer dan
+fungeert hij als ambtenaar, is hij verbonden
+aan een fabrieksziekenfonds dan komt zijn
+positie ongeveer overeen met die van den
+werktuigkundige belast met de keuring,
+het onderzoek en het toezicht op de
+machines. Brengt hij het tot lijfarts dan
+rekent men, dat hij net als veen lakei een
+parasitair beroep uitoefent. Verbonden aan
+een ziekenfonds schijnt hij loonarbeider te
+zijn, doch is dit in werkelijkheid wanneer
+hij als ondergeschikt arts in een
+ziekeninrichting werkzaam is, welke als doel heeft
+winst te maken.
+De verschillende bezwaren, die uit deze
+verhouding ten opzichte der gemeenschap
+voortvloeien, zijn in den laatsten tijd,
+speciaal bij de bespreking van de ontwerpen
+Ziekteverzekeringswet, herhaaldelijk zeer
+op den voorgrond getreden en liet ziju
+vooral de medici geweest die in hun kritiek
+op deze ontwerpen willens of onwillens die
+bezwaren fel hebben belicht.
+Behalve de talrijke vellen druks, die
+praeadviezen, rapporten, verslagen van ver
+
+gaderingen (allen door de Nederlandsche
+Maatschappij tot bevordering der Genees
+
+kunst in het licht gegeven) beslaan, zijn
+er verschillende artikelen in de dagbladen
+en brochures verschenen, waarin deze ont
+
+werpen werden besproken en waarin schering
+en inslag is een pleiten voor het hand
+
+haven of c.i|. het tot stand brengen eener
+gewenschte verhouding tusschen geneesheer
+en patiënt. Als natuurlijk gevolg dezer
+beschouwingen werd de bestaande toestand
+getoetst aan het ideaal, dat schrijvers of
+sprekers zich van de ziekteverzorging
+vormden.
+De voorwaarden voor de verwezenlijking
+van dit ideaal zijn wel, dat ieder zieke zal
+kunnen beschikken over al de hulpmiddelen,
+die hij als zoodanig behoeft, en dat ieder
+medicus in staat wordt gesteld zijnen zieken
+deze middelen te verschaften onder omstan
+
+digheden en op voorwaarden,die den medicus
+een bestaan overeenkomstig zijne positie
+waarborgen.
+Vraagt meu zich nu af, of de verwezen
+
+lijking van dit ideaal mogelijk is, dan
+mogen de volgende overwegingen gelden :
+"Wat het financieel onvermogen der zieken
+aangaat, hierin kan worden voorzien, hetzij
+door anderen (b.v. Armbesturen) de kosten
+te doen dragen, hetzij door verplichte ver
+
+zekering, hetzij door de geneeskundige
+hulp kosteloos ter beschikking te stellen.
+Dat het ontwerp Ziekteverzekeringswot
+Veegens allerminst eene radicale oplossing
+brengt, doch slechts een zeer bescheiden
+stap in deze richting doet, heeft dr. Bruinsma
+nog onlangs in dit blad aangetoond.
+Stilstaan bij dit deel der kwestie wensch
+ik echter niet; het is mij te doen om aan
+te toonen in hoeverre de tegenwoordige
+positie van den arts ernstige bezwaren in
+den weg legt voor het bereiken van het
+door mij aangegeven einddoel.
+Allereerst kom ik dan tot de vraag of
+de 'arts, zooals de academie hem aflevert
+voldoende beslagen op het ijs komt.
+Noodig hiervoor is, dat de medicus ieder
+ziektegeval kunne herkennen, wete te
+beoordeelen of hijzelf de noodige hulp kan
+verleenen, dan wel of dit aan een specialist
+moet worden toevertrouwd, of patiënt in
+eene ziekeninrichting moet worden opge
+
+nomen ; en ten slotte, dat hij in elk urgent
+geval de noodige behandeling moet kunnen
+instellen.
+Ik ben overtuigd, dat zyne wetenschap
+
+pelijke ontwikkeling zeer voldoende is om
+aan de door mij gestelde voorwaarden te
+voldoen, zijne algemeene theoretische voor
+
+bereiding is ruimschoots toereikend, hij
+;,weet" genoeg, om voor zoo ver zijn artis
+
+tiek bevattingsvermogen reikt, de geheele
+geneeskunst zich aan te leeren. Toch zal
+het hem door de groote uitgebreidheid van
+het gebied dezer kunst slechts mogelijk zijn
+(en meer is ook niet noodig) een deel dezer
+kunst zich zoo eigen te maken, dat men
+hem geschikt mag rekenen dit deel zelf
+
+standig te beoefenen. Nu is het echter juist
+zoo te betreuren, dat bij de tegenwoordige
+opleiding helaas zoovelen theoretisch goed
+onderlegde jongelui niets dan eene zeer
+elementaire vaardigheid wordt bijgebracht
+en zij ' met dit kleine beetje toegerust op
+hoop van zegen de praktijk ingaan, jammer
+voor hen zelve, maar vooral is het o zoo
+jammer voor de gemeenschap, dat zooveel
+vruchtbaar en goed voorbereid terrein voor
+een groot deel braak blijft liggen.
+Dit gebrek in kunstvaardigheid bij het
+grootste deel der artsen wordt algemeen
+door hen erkend en bij herhaling zijn er
+in de Nederlandsche Maatschappij tot be
+
+vordering der Geneeskunst voorstellen in
+behandeling gekomen om in dit tekort te
+voorzien. Aan den eenen kant trachtte
+men hierin verbetering te brengen zonder
+den duur der studie te verlengen, hetzij
+door een beter gebruik der lange vacanties
+te maken, hetzij door een deel der theore
+
+tische voorbereiding prijs te geven; aan
+den anderen kant zag men liever nog een
+verplicht extra practisch jaar aan de toch
+al vrij langdurige studie der artsen toege
+
+voegd. Roerend eens is men het echter,
+dat het niet blijven kan zooals het is, dat
+het niet verantwoord en zeer ondoelmatig
+is, deze wetenschappelijk goed toegeruste
+jonge mannen met zoo weinig praktische
+bekwaamheid de maatschappij in te sturen.
+Toch blijft dit geschieden, al doen sommige
+hoogleeraren ook hun best, deze leemte
+zooveel doenlijk aan te vullen. Waarom
+toch? leder zou het hartelijk toejuichen,
+indien deze toestand belangrijk verbeterd
+werd.
+Het zijn uitsluitend tinanciëele bezwaren.
+Lang niet alle ouders van de a. s. artsen
+dragen de lasten der studie hunner kin
+
+deren zonder ernstig bezwaar, velen ervan
+zien reikhalzend uit naar het oogenblik,
+dat ook hun jongen, die nog niets anders
+heeft getoond dan flink geld te kunnen
+gebruiken, zijn artsbul in den zak heeft en
+kan beginnen geld te verdienen in een mooi
+beroep en ook de jonge arts zelf heeft het
+zeer duidelijk gevoel, dat men nu eindelijk
+eens verwacht de resultaten te zien van
+deze speculatieve geldbelegging. &gt;,iet bij
+allen drijven dergelijke overwegingen; de
+
+zulken kunnen vaak gebruik maken van de
+gelegenheid zich nog eenige jaren praktisch
+te oefenen en krijgen dientengevolge een
+voorsprong op hunne collega's, welke bijna
+altijd tot succes voert. Hun getal is echter
+niet groot.
+
+Aldus, slecht toegerust de praktijk in
+
+gaande, komt al spoedig, naast de toepas
+
+sing van het geleerde ten bate der lijdende
+menschheid, de strijd om liet bestaan een
+factor vormen, die invloed heeft op het
+doen en laten van den arts, en het is deze
+factor, die men in zijne volle waarde kun
+leeren kei.nen, indien men do in den aan
+
+vang van dit schrijven genoemde schrifturen,
+welke hun ontstaan hebben te dunken aan
+het indienen van het ontwerp
+Ziekteverzekeringswet, opslaat. ..De rechtschapen
+
+heid, de eerlijkheid, de onafhankelijkheid
+van den medicus loopen gevaar door het
+ziekenfondswe/.en vernietigd te worden, ter
+wille der reclame zal hij zijnen patiënten
+in alle opzichten tegemoetkomen, hun slaaf
+worden" e." t. 4	Keuigo voorbeelden
+gedeeltelijk gelicht uit hot Eindrapport"
+mogen dit toelichten, en aantoonen, dat het
+volstrekt niet alleen fiiianeieelo nadeelen
+zijn, welke uit dien ge wraak ten toestand
+voortvloeien.
+Men arts, verbonden aan een zuivelfabriek,
+constateert een geval van i'ebris typhpïdea
+bij een arbeider dier fabriek of bij een
+der op het terrein dier fabriek wonenden.
+Hij weet, dat aangifte groote geldelijke
+schade aan zijn werkgever zal bezorgen . . .
+hij zwijgt ter wille van zijn broodheer.
+Om de porte-monnaio van den belangheb
+
+benden patroon te ontzien, zal hij minder
+gauw den werkman ongeschikt voor arbeid
+verklaren dan wcnsehelijk ware ...; schuilt
+de oorzaak der ziekte in het ongezonde
+van het bedrijf, het onvoldoende der hygi
+
+nische voorzorgen in do werkplaats ge
+
+troffen, dan is te verwachten, dat ook hier
+de arts zijn werkgever zal ontzien. Uure
+ziekenhuisbehandeling zalaoo lang mogelijk
+uitgesteld worden. Hecht op uitkeering
+van versterkende middelen kan daarom niet
+bij de doorvoering van de vrije artsenkeuze
+worden verleend; omdat de artsen een wit
+voetje bij de verzekerden zouden trachten
+te verkrijgen door hen met vleesch, melk
+en eieren te mesten.
+Het is zeker niet luchthartig uit dit alles
+de gevolgtrekking te maken, dat er bij den
+geneesheer invloeden werkzaam zijn, die
+een ernstig gevaar opleveren om zijne han
+
+delingen in eene richting te leiden, die zeer
+ten nadeele is van het algemeen belang.
+Dit alles is geen fantasie, doch droeve
+werkelijkheid. Fantasie is, hoe het zijn
+moest. De jonge arts, de praktijk ingaande,
+bezield met alle goede voornemens, bij zijn
+werk uitsluitend het belang van zijn natiënt
+beoogend zonder eenige bijgedachte; geheel
+op dezelfde wijze als hem geleerd is in de
+klinische les van zijn hoogleeraar, waar hij,
+de leerling, den indruk meekrijgt van het
+mooie, het zegenrijke van de kunst, die hem
+wordt onderwezen; waar hem een weldadig
+gevoel bekruipt bij het zien dier
+ziekenzalen, waar ieder zieke de goede zorgen
+geniet van den meester, waar elk symp
+
+toom wordt gewogen en gewaardeerd,
+en waar de ingestelde behandeling den
+allerbestea kans op herstel waarborgt.
+Hoe spoedig is dit alles voorbij.
+Ziet ze bij vacatures de autoriteiten likken,
+mooi weer spelen tegen ziekenfondsbesturen
+en fabrieksdirecties; aanbevelingen verza
+
+melen om hun mededingend collega de loef
+af te steken; met meewarigen blik de ver
+
+telsels aanhooren van hun eersten
+fondspatiënt, die zich beklaagt over de noncha
+
+lance van zijn vorigen dokter; familie,
+vrienden en kennissen aan het werk zetten
+om erin" te komen. Déveine van een con
+
+current wordt uitgebuit, geeft hoop op
+voordeel. Hen oefent zich om door een
+zelfbewust, kwakzalverachtig optredenden
+patiënt te dupeeren, zijn eigen te kort te
+dekken; men blijft uit financieel egoïsme,
+uit ijdelheid of reclamezucht omknoeien met
+een zieke, die aan vaardiger handen moest
+worden toevertrouwd, verkloddert aldus
+menig ziektegeval.
+
+Schril steekt deze werkelijkheid af bij het
+door mij geschilderd ideaal.
+Met onbeperkte bevoegdheid, doch onvol
+
+doende toegerust, nagenoeg ongecontroleerd,
+gedwongen en soms belust om geld te
+maken" zoo gaat de jonge arts een zorgvolle
+toekomst tegemoet.
+Voor hem en voor zijne medemenschen,
+moest het zoowat net andersom zijn.
+Zou dit kunnen r1
+Mij dunkt: ja!
+L. L. J'osTiii'JiA, Arts.
+Het strafminimum.
+
+In de zitting der Tsveede Kamer van
+6 December 1906, maakte mr. Van Doorn
+het strafminimum tot een onderwerp van
+debat. Hoe belangrijke beschouwingen de
+afgevaardigde voor (iouda pok aan het onder
+
+werp wijdde, de slotsom dier beschouwingen
+schijnt me hoogst ongewenscht. Te levendig
+herinner ik mij, welk eene algemeene ver
+
+ademing bij de invoering van het Straf
+
+wetboek in 1SS(&gt; de opneming van het
+strafminimum gaf. .Ik hoor nog den vertegen
+
+woordiger der balie te Assen niet trots en
+met nadruk wijzen op de groote ruimte,
+welke werd gelaten aan 's rechters oordeel
+door de gegeven bevoegdheid tot afdaling
+tot eene hechtenis van n dag en eene
+geldboete van vijftig cents.
+De twintigjarige ervaring heeft over die
+groote verovering in het strafrecht den staf
+niet gebroken. Integendeel, zij sluit zich bij
+de voortschrijdende ontwikkeling bij den
+tijdgeest aan. Ken onjuist gebruik doet aan
+de deugdelijkheid van het stelsel geen af
+
+breuk. Eene juiste toepassing daarentegen
+y.a\ slechts de deugdelijkhtid bewijzen.
+Maken rechters een onjuist gebruik van
+de gegeven vrijheid, dat vitiëert het stelsel
+niet. (Jelijk ge/.egd. dat stelsel past in de
+lijst van den tijd. In de openbare nieening,
+voorgelicht door deskundigen, moet bet
+onjuist gebruik zijn correctie vinden.
+Mr. Van Doorn stelt: De wetgever zelf,
+waar hij bepaalde handelingen strafbaar
+stelt, moet ook op zich nemen de verant
+
+woordelijkheid of deze of die straf zal worden
+opgelegd in cas van overtreding''"' Ik voer
+daartegen aan: Draagt de wetgever de
+verantwoordelijkheid voor de oplegging van
+do straf, dan neemt hij in het wezen de
+taak van den rechter ever. Daarvoor is de
+wetgever niet «esrhikt. 11 ij kan de omstan
+
+digheden niet vooruitzien. De red1.ter daaren
+
+tegen heeft het geval voor zich. Hij doorziet
+bet in al zijne bizotulerheden. Des wetgevers
+plicht is liet stellen van de straf op het
+strafbaar feit, des rechters taak is de op
+
+legging van do straf. De rechter aanvaardt
+met de oplegging van de straf m. a. w. de
+toepassing der wet op het bizonder geval,
+do verantwoordelijkheid voor de opgelegde
+straf. De wetgever, die daaraan vreemd
+blijft, kan daarvoor nimmer de verant
+
+woordelijkheid draden. Den wetgever voor
+do oplegging verantwoordelijk doen zijn
+boteekent dus Ie bevoegdheid van wetgever
+en rechter dooreeuinengen. In het stellen
+van de straf op bepaald omschreven straf
+
+bare feiten, verleent de wetgever dwingende
+rechtskracht aan het door hem gegeven
+gebods- of verbodsvoorschrift. In
+bizonderheden daalt hij daarbij niet af, maar hij geeft
+een algemeen richtsnoer. (inze wetgever ver
+
+schaft in de strafmaxima en het algemeen
+strafminimum twee lijnen, tusschen welke
+hij den rechter zich volkomen vrij laat
+bewegen. De geschonken vrijheid van oor
+
+deel, welke aanpassing aan omstandigheden
+(de zaakstoedracht, het geval) in zich sluit,
+schept voor den rechter de mogelijkheid het
+strafbaar feit juist te waardeeren en bij
+
+gevolg de straf in overeenstemming te
+brengen met de begane daad. Door de aange
+
+brachte evenredigheid mede wordt de ver
+
+stoorde rechtsorde hersteld. Daarom behoort
+de rechter de verantwoordelijkheid voor de
+oplegging te dragen.
+Nog zij opgemerkt, dat bepaalde hande
+
+lingen straf baar stellen niet wil zeggen alle
+gevallen vooruit kennen.Neen, het beteekent
+slechts bepaald omschreven strafbare feiten
+brengen onder den rechtsdwang van het
+gebods- of verbodsvoorschrift.
+Door een straf, geëvenredigd aan het feit,
+toe te passen schrikt de rechter anderen
+ongetwijfeld af. Ieder, die zich in het
+geval indenkt, kan begrijpen, dat de rechter
+door het wikken en wegen van het voor en
+tegen, waarvan zijn vonnis het bewijs is,
+te kennen geeft, dat hij altijd met alle om
+
+standigheden zal rekening houden en bijge
+
+volg ieder naar verdienste zal straffen.
+Juiste afweging van de schuld waarborgt
+voor elk toekomend geval toepassing van
+eene straf, geëvenredigd aan de daad. Zoo
+volgt op een ernstig feit steeds een zware
+straf en op een gering vergrijp slechts een
+lichte straf. Bijv. een werkgever, die ge
+
+vaarlijke werktuigen of werktuigdeelen,
+trots herhaalde waarschuwing, onbeschermd
+laat; nog erger: daardoor den dood van een
+werkman veroorzaakt, zal hij zw.iar straffen.
+Proefneming met gestrenge straftoepassing
+is daardoor uitgesloten. De afschrikkende
+werking treedt duidelijk op den voorgrond.
+Het blijft mogelijk den rechter met de
+taak te belasten tegelijk de omstandig
+
+heden, welke in het voordeel van den be
+
+klaagde zijn, en het belang, bij de krachtige
+handhaving der wet betrokken, in het oog
+te houden. Immers, zijn er slechts, althans
+vele omstandigheden in het voordeel van
+den beklaagde aan te voeren, dan lijdt de
+krachtige handhaving der wet er niet onder,
+wanneer de rechter een lage straf oplegt.
+De inbreuk op de rechtsorde toch is een
+geringe. En omgekeerd krenkt de rechter
+de belangen van den beklaagde niet, wan
+
+neer hij bij het gemis van elke of menige
+lichtzijde in het voordeel van beklaagde
+een hooge straf oplegt. Immers de schuld
+van den beklaagde is groot. De krachtige
+handhaving der wet hangt af van de juiste
+toepassing. Voor die toepassing is de
+rechter do aangewezen macht. Doordien
+hij in staat is het bizonder geval in al zijn
+onderdeelen te ontleden, kan hij tegelijk
+rekening houden n met don dader en met
+de verstoring der rechtsorde. De herstelling
+van deze zal er mede gediend zijn, als de
+rechter een straf' toemeet, welke geëven
+
+redigd is aan de daad. Dan toch schat hij
+naar waarde den dader en den ernst der
+verstoring. De rechter, die het aan zijn
+oordeel onderworpen geval nauwkeurig
+overziet, zal den omvang van des daders
+schuld juist vaststellen, dus den dader de
+juiste straf opleggen en de wfit krachtig
+handhaven.
+Wanneer, zooals mr. Van Doorn wenscht,
+déwetgever de straf aangeeft, welke hij
+noodig acht, dan vallen er misschien ge
+
+vallen buiten. De straf zou voor die ge
+
+vallen buiten verhouding staan tot de begane
+daad en onbillijk werken. Daarvoor beveelt
+mr. Van Doorn het gehrui v van het recht
+van gratie aan. Dat toont echter het on
+
+deugdelijke van de door hem voorgestane
+regeling aan. Het gratierecht zou allicht
+buiten zijn grenzen worden uitgebreid en
+niet altijd even juist worden toegepast.
+Maar afgescheiden daarvan zou het tege
+
+moet moeten komen aan de fout van de
+te hooge straf. In boe gunstig licht komt
+daartegenover het algemeen strafminimum
+te staan. Dit toch geeft ruimte van toe
+
+passing en waarborgt evenredigheid tus
+
+schen siraf en daad.
+l n de door mr. Van Doorn voorgestane
+regeling legt men een te hoog minimum
+in de wet vast. in de praktijk wordt dat
+een hinderlijke, zelfs in denkbare gevallen
+een knellende band. De regeling doet het
+wetsvoorschrift versteenen. De toevlucht
+tot bet recht van gratie moet dan de fout
+verhelpon. Zulk eene regeling kwetst het
+rechtsgevoel. En aan eene rej;eliim, welke
+ireen steun vindt in de roclitsovertuiging
+van In t volk, ontbreekt het fundament.
+Hare krachtige handhaving is eeue illusie.
+Ken hoog strafminimum is voor krachtige
+handhaving (k-r wet onnoodig. De ernst van
+het strafbaar feit toch houdt verband met
+den ernst van de inbreuk op de rechtsorde.
+Wijdt nu de rechter scherp zijne aandacht
+aan daad, dader en belang (Ier maatschappij,
+dan vloeit daaruit logisch voort eene straf
+
+toemeting, welke do bescherming van de
+belangen van den dader volkomen in over
+
+eenstemming brengt met de bescherming
+van het belang der maatschappij. liij zulk
+een bepaling der straf maakt tevens van
+de overweiririg des rechters een wezenlijk
+bestanddeel uit do overweging van de schuld.
+"NV e l verre, dat de/.e niet in noodwendig
+verband behoeft te staan met het belang
+der maatschappij, zou ik dat belang mede
+den graad der schuld willen laten bepalen.
+Welnu, is au n de gestelde vereiscliten vol
+
+daan, dan is krachtige handhaving der wet
+verzekerd, omdat de straf beantwoordt aan
+het algemeen rechtsgevoel.
+Mr. Van Doorn levert voor het nauw ver
+
+band tusschen schuldgraad en inbreuk op
+de rechtsorde (welker handhaving het be
+
+lang der maatschappij is) prachtig bewijs.
+Hij eischt toch voor hem, die met een
+automobiel zonder signaalnoorn rijdt, de
+hoogste straf', omdat de overtreding het
+leven van iederen voorbijganger aan ernstig
+gevaar blootstelt.
+Het algemeen strafminimum blijve de
+wet versieren. De groote beweegruimte,
+daardoor geschonken aan den rechter in
+diens oordeel, steunt op vertrouwen. Ver
+
+trouwen vereert en prikkelt het plichts
+
+gevoel. Het plichtsgevoel dringt tot ernstige
+opvatting van de taak en waarborgt a!des
+juiste rechtspraak. Die rechtspraak
+tevordere steeds vooruitgang in vrijheid T»I»
+'s rechters oordeel. Dat is een gewenschte
+toestand voor een vrijheidlievend
+volkEn s c h e d . J. H. HEUÜSI-OS c.
+Folteringen door de Russische
+geheime politie te Riga.
+
+(Van een ooggetuige).
+
+Zaterdag, den 25sten November (O. &amp;)
+werd ik 's avonds laat met 99 andere per
+
+sonen, die in het Eethuis gevangen genomen
+waren, naar de geheime af'deeling der
+Eigasche politie gebracht. Met uitzondering
+van 4 personen werden de anderen den
+
+zelfden avond op vrije voeten gesteld. I»
+de 4, dio gevangen bleven, beweerde de
+geheime politiedienaar Davus, belangrijke
+politieke misdadigers herkend te
+hebbenDrie van deze personen werden grondig;
+aan den lijve onderzocht en in de
+arrestaatencel opgesloten. Men liet ons daar twee dagen
+hongeren en verhoorde ons niet. Den deïdem
+dag werden wij in een andere cel over
+
+gebracht en wij kregen van toen af iederen dag
+een kleine snede droog brood /onder
+waterOf wij onzen kwellenden dorst koiulea
+lesschen, hing geheel af' van de luimen vaa
+den bewaker. In de kleine, benauwde cel
+waren wij met zijn eenentwintigen! Over
+dag kon men zich daar nog eenigermale
+schikken, maar 's nachts werd de benauwd
+
+heid vreeselijk. Er was te weinig plaats
+voor allen om te gaan liggen en dus moest
+de een zich op den anderen neerleggen?
+De lucht werd ondraaglijk. Het venster
+openen was onmogelijk, wilde men zich niet
+blootstellen aan 't gevaar door een schild
+
+wacht te worden, neergeschoten.
+Alle hoogere politiebeambten beschikken
+hier over het recht, naar willekeur met dfe
+gevangenen om te springen en hen te mis
+
+handelen.
+Het folteren der gevangenen geschiedt
+meestal 's nachts, zelden over dag, OD wel
+systematisch eiken nacht behalve van
+Z&lt;MJdag op Maandag. Het begint ongeveer
+insschen 10 en 12 uur en eindigt gewoonlijk
+eerst tegen 6 uur 's morgens. De een aa
+den ander wordt daartoe uit de cel gesleept
+naar de tweede verdieping. Hier be-vindt
+zich een afzonderlijk vertrek met allerlei
+martelwerktuigen, "in het midden van het
+vertrok staat een lange bank, waarop do
+martelaars worden vastgeregen. Aan
+dewanden hangen gummi-pijpen, gevuld niet
+lood, van verschillende grootte en construc
+
+tie. Elk van die werktuigen heeft een eigen.
+naam, welken de beul eraan heeft gegeven,
+als bv. (iod, geef uw zegen," Uods
+v,eSdiiad" enz. Behalve die gummi-zakken zijn
+er nog ijzeren tangen, dwanghemdenjlaniif
+naalden, pekdraden en dergelijke martel
+
+werktuigen. Aan de folteringen nemen onge
+
+veer 15 beulen deel. Biz'jnder beroemd door
+hun vindingrijkheid op het gebied van
+foJteringen zijn geworden de spion Davus, «e
+chef der geheime afdeeling Gregus, .ijrr,
+helper Michejew en do voormalige tot
+dwangarbeid veroordeelde gevangene Ottwi.
+De namen der overigen zijn mij niet be
+
+kend. Aan de folteringen nemen niet zel
+
+den do plaatselijke eigenaars van een land
+
+goed en baronnen, de aanvoerders der
+strafexpedities, eigenhandig deol. Zooh&amp;aft
+bv. op 20 November, toen de folteringen
+bizonder gruwzaam waren, de kreitseisei"
+baron Raden eraan deelgenomen. Voor 't
+zelfde doel komen ook vaak naar Itiga
+baron Rekke, de bekende pogrom-held,
+verwoester van Tukkum, en eenige muiere
+baronnen, vorsten en verdere leden des
+Kigasche Eigen weerbaarheid."
+De folteringen worden gewoonlijk in de
+volgende volgorde voltrokken. IN:adat do
+gevangene in het foltervertrek gesleept is.,
+neemt men hem de boeien af; een van de
+spionnen verklaart hem, dat hij zich mz
+volkomen in hun macht bevindt en dat zij
+het recht zouden hebben, hem te folteren,
+ja zelfs hem te dooden, zonder dat zij daarom
+verantwoording schuldig zijn. Vervolgen.-.
+doet men den gevangene het voorstel, aJias
+te bekennen en zijn medeplichtigen te
+noemen, waarbij hem voor belangrijke aan
+
+wijzingen de vrijheid en een voordeeltje
+plaats bij de politie wordt aangeboden.
+Volgt nu geen bekentenis of denuneiatie
+(verklikking), dan beginnen do forterin^en.
+De gevangene wordt geheel uitgekleed, op
+de bank geworpen en vastgeregen. K»
+mond wordt met een natten lap
+toegebonden om het schreeuwen te verstikken ei*
+dan worden met de gummi-pijpen tot
+1*'xlinji'ii toe gegeven! Om do marteling
+irverergeren wordt nu in de bloedende wonde»
+zout gestrooid en dan verder voort geslagen.
+Heeft men het slachtoffer weer tot zichzelf
+gebracht dan begint L-t verhoor". Bekent
+de gevangene nu nog niets, dan worden
+hem de nagels uitgetrokken, de pezen vau
+handen en voeten met naalden doorstoken,
+de haren afzonderlijk of bij bosjes uitge
+
+trokken. Heeft ook dit alles geen uitwerking,
+dan maakt men tangen gloeiend, waarmee
+dan op bizonder gevoelige deelen van her.
+lichaam stukken vleesch worden uitgetrok
+
+ken. Verder past men nog het uitslaan der
+tanden toe en als het smartelijkste \iva
+alles het samenpersen van de geslachte
+deelen met tangen.
+(ieregeld eiken dag worden die ontzet
+
+tende folteringen toegepast, tot de arme
+slachtoffers het niet meer uithouden en aHe
+tegen hen ingebrachte beschuldigingen toe
+
+geven. Het gebeurt natuurlijk vaak, &lt;iat
+J
+
+</text>
+<image timestamp="2002:08:11:19:24:48.00" size="535081">000000O9.TIF</image>
+</page>
+</document>

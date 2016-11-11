@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011027</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Napoleons denkbeeld veredeld.
+BIJVOEGSEL, van de Amsterdammer. Weekblad voor Nederland van 27 October 1901.
+Amst. Hoek- en SieendrukUerij. v/li. Ellerman. Harms S: Co.
+DE MKNSCIMCLIJKFIEIU: Wat er ook van kome, volgt mij; langs welken weg de tijd ons ook /al leiden,
+MIJNER is DE WERELD!
+
+</text>
+<image timestamp="2002:08:16:18:32:59.00" size="704916">D20013P.TIF</image>
+</page>
+</document>

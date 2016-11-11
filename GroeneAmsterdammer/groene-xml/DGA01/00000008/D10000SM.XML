@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200327</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+27 Maart '20. - No. 2231
+QDFD5RD
+Concertgebouw.
+Na eenige weken lang het orkest niet te
+hebben kunnen hooren, woonde ik den
+Debussy-avond bf. Ik trof het dus. Wat
+een orkest als het onze aan klankschoonheid
+kan voortbrengen, presenteerde zich in
+elndelooze veelsoortigheld. Wij troffen het allen
+in dezen zin, dat het programma met wijs
+beleid was samengesteld. Vooral leek het
+me goed gezien, met .La Mer" te beginnen,
+dan de «Prélude h l'Après-midi d'un Faune"
+te laten volgen, en met Ibéria" te sluiten.
+Er ontstond zoo een stijging, die ik niet
+gaarne bad gemist.
+Wat was het, dat me in La Mer"
+eenlgermate teleurstelde ? Ik zou het niet precies
+kunnen zeggen. Ik had aan het belangrijke
+en sinds lang niet uitgevoerde werk herinne
+
+ringen bewaard, die mij op aanmerkelijk
+meer deden rekenen, dan we kregen. Het
+kan zijn, dat er in de uitvoering een zeker
+element van nuchterheid was; minstens even
+waarschijnlijk echter acht ik, dat het werk
+op zichzelf in mfln schatting iets lager is
+komen te staan. Tegenover andere werken
+van den meester, die we in den laatsten tijd
+vaker hebben gehoord, en die we dus al
+beter kennen. Partituur-studie is veel, maar
+dikwijls hooren, in steeds rijper uitvoering,
+is mér. Wat is het toch ontzettend moeilijk
+voor een componist, tot ons te komen, ons
+te doen doordringen in zijn werk, dat als
+een schaduw ons voorbfjschulft, terwijl hQ,
+de maker, eraan heeft geschreven, in
+intermitteerenden schepplngsdrang, maar steeds
+te midden van een gewoel van koortsachtige
+stemmingen
+De Prélude" was verrukkelijk, en Ibérla"
+heb ik, geloof ik, nog nooit zoo in leder
+opzicht voortreffelijk hooren uitvoeren, en
+het wil me ookvoorkomen, dat ik Mengelberg
+dit stuk nog nimmer met zooveel liefde heb
+zien dirigeeren. Les parfums de la nuit"
+was een wonder van poëzie, en den overgang
+naarde prikkelende rhythmen van den Matin
+d'un jour de fête"kanikmQnietmagistraler
+denken.
+In de buitengewoon veeleischende harp
+
+partij der Danses" gaf Paula Fischer weer
+eens doorslaande bewijzen van prachtig
+ontwikkelde virtuositeit. Men had haar tijdens
+de uitvoering van La Mer" met een weer
+
+barstig pedaal zien tobben, en 't was dus
+duidelijk, dat haar eigen instrument voor
+den solo niet in aanmerking komen kon.
+Een kloek besluit deed haar de harp van
+haar buurvrouw leenen, en ze bespeelde
+het haar vreemde instrument met een ze
+
+kerheid, waar, dunkt me, ook menschen van
+'t vak bewondering voor zullen hebben. Er
+waren in haar voordracht momenten van
+mooie kracht tegenover het waarlijk niet
+schraal bezette strQ kers-ensemble.
+De tweede soliste van den avond was
+Berthe Seroen, die met al haar gave artis
+
+ticiteit de Trois Ballades" van Frar^ois
+Villon voordroeg, die Debussy in muzikale
+meesterstukken heeft omgezet. Opgemerkt
+werd, dat, hoewel Mevr. Seroen zong met
+de voortreff eltjke beheersching harer partij, die
+zulk een voornaam element uitmaakt In
+haar reputatie, en in alle liggingen uitmun
+
+tend articuleerde, toch haar stem hier en
+daar niet voldoende loskwam uit het en
+
+semble, zoodat het vermoeden voor de hand
+ligt, dat Debussy, schoon meester onder de
+meesters in het instrumenteeren, zich bij de
+bewerking dezer orkest-partijen op sommige
+plaatsen in de doseering" heeft vergist.
+Zeer belangrijk was ook de matinee, waarop
+Schönberg vóór, en Mengelberg o a de pauze
+dirigeerde. Belangrijk in de eerste plaats
+wegens de bijzondere bekoring, die uitging
+van Schönberg's Verklarte Nacht." Ik heb
+me niet de moeite willen geven, na te gaan,
+in hoeverre dit stuk programma-muziek ge
+
+worden is; ik heb het. aangehoord in de
+hoofdstemming, gewekt door den titel, en
+ik ben, hoewel de uitvoering door gemis
+mHIIIIII.'IIIIMIIIIIIIIIIHIIIIIIIIIIlllllMlllllmlIIIJIIIIIIIIIIIII
+LiCHNISCHE RUBRI
+DE TWEEDE HOOFDWET EN DE
+ZUINIGHEID
+De Tweede Hoofdwet der Mechanische
+Warmtetheorie, waarvan de erkenning zulk
+een enormen invloed heeft uitgeoefend op
+alle natuurwetenschappen, geeft bij de toe
+
+passing ervan op krachtmachines resultaten,
+die in onzen tijd van brandstofgebrek en
+•schaarschte in alle kringen bekend dienden
+te zijn.
+Zonder de wet te formuleeren is het vol
+
+doende haar even toe te passen op een
+voorbeeld, waarvoor we een ideale stoom
+
+machine nemen, waarin geen wrijving
+bestaat en geen warmte verloren gaat. We
+nemen aan, dat de temperatuur, waarbij de
+stoom de machine binnenkomt 350 graden
+en dat de bereikte eindtemperatuur 40
+graden is. De wet zegt dan, dat van de
+beschikbare energie in den stoom slechts
+310/623 in mechanisch arbeidsvermogen
+omgezet kan worden, terwijl de rest weer
+als warmte in den afgewerkten stoom (of
+condenswater) te voorschijn komt. We kun
+
+nen dus zeggen, dat in bedoeld Ideaal geval
+50 pCt. van de energie van den stoom
+nuttig gebruikt kan worden.
+Nu bestaan er natuurlijk geen ideale
+machines en zijn de verliezen in de werke
+
+lijke zoo groot, dat het al een merkwaardige
+machine is, die de helft dier energie nuttig
+kan omzetten. Rekent men verder mee, dat
+een stoomketel met een rendement van 80
+pCt. uiterst weinig voorkomt, dan is het
+niet te boud om te beweren, dat de stoom
+
+machines minder dan 20 pCt. van de be
+
+schikbare energie der brandstoffen in nuttig
+bruikbare omzetten en 80 pCt. verloren
+doen gaan.
+Er dient echter opgemerkt te worden, dat
+een verlies van 30 pCt. in de ketellnstallatie
+niet extravagant is, zoodat dan een nog
+aan routine van den compor ist-dlrigent te
+wenschen overliet, zeer onder den indruk
+gekomen van velerlei schoonheid in dit werk.
+Het is vooral sterk van opzet, het boeit van
+begin tot einde, het is rfjk en op allerlei
+manieren imponeerend van klank, en wat de
+componist hier met niet anders dan strijk
+
+instrumenten bereikt, heeft me meer dan
+eens versteld doen staan. Maar het is Opus
+4, en dus nog lang niet de echte Schönberg.
+Het is aanmerkelflk meer Wagner, al zullen
+de vondsten, de vorderingen op harmonisch
+en instrumentatorisch gebied niemand ont
+
+gaan. Ongelooflijk naïef doen de talrijke
+imitaties, die door den dirigent Schönberg
+nog eens ferm werden aangedikt.
+Wél echt Schönberg is Opus 12, de Fünf
+Orchesterstücke", waarvan we ditmaal slechts
+No. 2, Vergangenes", te hooren kregen.
+Ik zal me met gepaste voorzichtigheid
+uitdrukken: hoe ik op den duur er over ga
+denken, weet ik niet, maar vooralsnog vind
+ik van alles in dit stuk eenvoudig leeltjk,
+en ook ben ik van meening, dat men zoo
+niet componeeren moet, dat men met der
+
+gelijk comp-meeren de muziek op verkeerde
+banen brengt.
+Het valt niet te ontkennen: eigenlijk kan
+men alles, letterlek alles schrijven, stemmen,
+accoorden, in een mengeling van rhythmen
+en toonsoorten, in volslagen onbelemmerde
+willekeurigheid, althans voor, let wel:
+in hoofdzaak zacht spelend orkest. De
+timbre-verschillen, waaraan het orkest zoo
+rijk is, zorgen wel, dat het moderne oor
+voor nietteverduwen beleediglngen gespaard
+blijft. De vraag is slechts, of men wat op
+deze manier voor den dag komt nog mu
+
+ziek" wil blijven noemen. En of dergelijk gedoe
+nog wat gemeen heeft met het begrip kunst".
+Ik zie kans, in enkele dagen, misschien
+uren, naar bovenstaand recept een beknopt
+stuk voor orkest te schrijven, geheel vrij
+improviseerend, met louter melodieuze stem
+
+men en interessante accoorden, in goed ge
+
+kleurde instrumentatie. Wordt het serieus en
+mooi gespeeld en met welwillende aandacht
+aangehoord, dan zal het naar alle waarschijn
+
+lijkheid met eenig applaus worden ontvangen,
+en... toch zal het geen cent waard zrjn.
+Waarmee ik natuurlijk niet wil zeggen,
+dat Schönberg's muziek ook geen cent waard
+is. Ik ken hem niet; men zegt, dat hij een
+door-en-door eerlijk zoeker is; ik wil gaarne
+aannemen, dat steeds alle neiging tot
+boereabedrog hem inderdaad vreemd is geweest;
+verder is hij ontegenzeggelijk een knappe
+kerel; dat Mahler op zijn sterfbed over hem
+en zijn toekomst als artiest heeft liggen
+tobben, is voor mij de allerbeste aanvulling
+op wat er al prflzends omtrent den mensch
+en den kunstenaar Arnold Schönberg wordt
+meegedeeld; en ik wil er bijvoegen, dat ik het
+zeer zal op prijs stellen, wanneer men ons
+gelegenheid schenkt, met zrjn voornaamste
+werken in welvercorgde reproductie kennis
+te maken, vooral hoop ik, dat er nog
+eens wat komt, en spoedig, van de uitvoering
+der Qurre-Liedei", waarmee het
+ln'14misgeloopen ii, maar ik acht het plicht, er
+met nadruk op te wijzen, dat we met de
+ontwikkeling van de kunst der muzikale
+compositie den gladverkeerden kant opgaan.
+Debussy was een meester, en voor de expe
+
+rimenten van een Schönberg kunnen wij
+althans oprechte belangstelling overhebben,
+maar o wee, de naknoeiersl
+H. J. DEN HERTOG
+Op den Economlschen Uitkijk
+
+De ambtenaar of de man
+zelf? (II, Slot)
+Voor de risico-overdracht bij de Invaliditeits
+
+verzekering staat dus, gel(k ik de vorige
+maal uiteenzette, de zaak zoo: de wet heef t
+zeer stellig die risico-overdracht toegestaan,
+daaraan eenige billijke voorwaarden ver
+
+bonden en voorts bepaald dat een
+bestuurs
+
+grooter verlies geconstateerd zal worden en
+de vraag gewettigd is of men dit verlies
+nu maar als onafwijsbaar moet accepteeren.
+Wanneer de condensor de afvalwarmte
+van een machine in water van 40 graden
+weg doet stroomen, kan men gerust zeggen,
+dat die warmte toch niet nuttig gebruikt
+kon worden. Was het echter mogelijk als
+afvalwarmte van een stoominstallatie stoom
+of water te krijgen van b.v. 120 graden,
+dan zou die warmte wel nuttig gebruikt
+kunnen worden, tenminste voor een groot
+deel.
+Zooals in het bovenstaande voorbeeld
+ook is aangegeven, is het rendement van
+een stoommachine evenredig met het ver
+
+schil der uiterste temperaturen (en omge
+
+keerd evenredig met de hoogste temperatuur
+plus 273). Wenscht men dus afvalwarmte
+van 120 graden te krijgen, dan verkrijgt
+men slechts (bfj aannemen van een maximale
+temperatuur van 350 graden) 23/31 van het
+boven aangegeven rendement of 25 pCt.
+minder. Dit komt dus neer op het feit, dat
+5 pCt. van de totale energie der steenkolen
+minder omgezet zou worden in mechanisch
+arbeidsvermogen en deze hoeveelheid de
+noodzakelijke afvalwarmte zal vermeerderen.
+Tot nu toe was het bij stoominstallatles
+bijna altijd het doel om zooveel mogelfjk
+mechanisch arbeidsvermogen te krijgen en
+zich heel weinig te bekommeren om de
+(noodzakelijk?) verloren afvalwarmte. Nu
+echter de brandstofschaarschte zoo nijpend
+is en nog zoovele jaren in het vooruitzicht
+blijft, diende de kwestie vanuit een geheel
+ander oogpunt bekeken te worden en moet
+men de vraag stellen of niet in een kwestie
+van zoo buitengewoon groot belang van
+hoogerhand ingegrepen diende te worden
+om te zorgen, dat door het juiste gebruik
+van mechanisch arbeidsvermogen en warmte,
+die uit steenkolen verkregen kunnen worden,
+met een veel kleinere hoeveelheid brand
+
+stof volstaan kan worden.
+Het streven om door enorme electrische
+centrales zoo zuinig mogelijk te werken is
+te bekend om nader besproken te worden.
+Dat door electrlciteitsvoorziening over ons
+geheele land een ontzachelijk voordeel ont
+
+staat behoeft ook niet nader aangeduid te
+worden, terwijl evenmin twijfel bestaat aan
+het feit, dat de Commissie voor de
+Electriciteitsvoorziening" mooi werk heeft verricht.
+maatregel dienaangaande nadere eischen
+stellen zou. Die eischen cu zrjn zoo volko
+
+men onvervulbaar, dat men veilig met zoo
+
+wat iedereen, dit studie van de zaak heeft
+gemaakt, kan zeggen: practlsch is de risico
+
+overdracht onuitvoerbaar. Daarvan wil ik
+nu de beteekenls, zooals ik voor mij die
+zie, in het licht stellen, omdat wellicht deze
+of gene meenen zal dat deze zaak nu waarlijk
+niet heel belangrijk is, terwijl toch m. i.
+daarbij een groot beginsel van wetgeving,
+van wets-toepassing en wets-ultvoering is
+betrokken. Dit beginsel heb Ik willen for
+
+muleeren in de enkele vraag: de ambte
+
+naar of de man zelf?
+Wanneer bij de invaliditeitsverzekering
+de risico-overdracht feitelijk uitvoerbaar
+was, dan zou het gebruik maken van die
+bevoegdheid beduiden dat de arbeiders in
+quaestie niet volgens de wet
+verzekerlngsplichtig zouden zijn, maar verzekerd zouden
+zijn bij het ondernemingsfonds of bij het
+aan verschillende ondernemingen bestaande
+of voor verschillende werkgevers gezamen
+
+lijk werkend fonds. M. a. w.: daartoe inge
+
+richte organisaties zouden deze invaliditeits
+
+verzekering uitoefenen. De rechten der
+verzekerde arbeiders zouden door de wet
+
+telijke waarborgen en door billijke, bij
+bestuursmaatregel te stellen eischen, volkomen
+veilig zijn; zQ zouden niet minder ontvangen
+dan hun bfj het o verhei-is-orgaan verzekerde
+vakgenooten; in dezelfde gevallen zouden
+minstens dezelfde uitkeeringen hun deel zijn.
+Doch het groote verschil tusschen de beide
+groepen van arbeiders zou wezen: dat de
+bfj een fonds verzekerden zelven met hun
+werkgevers deze verzekering zouden uit
+
+oefenen en behartigen, terwijl voor de bij
+het overheids-orgaan verzekerde alles door
+ambtenaren zal worden bezorgd en beheerd.
+En dit is nu het groote beginsel, dat aan
+de risico-o verdracht ten grondslag ligt: of
+men den burgers van den staat zal opdragen
+(laat ons zeggen: zal toestaan) zelven hun
+zaken te behartigen, dan wel of men die
+behartiging zal opdragen aan daartoe aan
+
+gestelde en daarvoor betaalde ambtenaren.
+Wij hier in Holland hebben voor den bouw
+van onze sociale verzekeringswetten altijd
+naar Duitschland gekeken en dan nog het
+Duitsche voorbeeld op de spits gedreven
+in de richting van ambtelijke Invoering, want
+de Duitsche wetten zijn in dit opzicht vrij
+
+geviger dan de onze. Bfj onzen wetgever
+schijnt nooit het denkbeeld te zijn opgekomen
+dat het stelsel van den wetgever in landen
+met Latfjnsche cultuur zijn goede zQde
+moest hebben en sommige voordeelen moet
+opleveren. Onze wetgever schijnt zich wel
+nimmer de vraag te hebben gesteld of hij
+in zake de sociale verzekering niet vrijwel
+geheel kon volstaan met in de wet vast te
+leggen de den arbeider toekomende rechten
+om dan aan arbeiders en werkgevers geza
+
+menlijk de zorg over te laten dat in elk
+voorkomend geval aan den verzekerde het
+hem door de wet toegekende zou worden
+verstrekt.
+Natuurlijk weet ik heel wel, waarom men
+dit stelsel niet heeft gewild, niet heeft aan
+
+gedurfd. Men oordeelde, dat de rechten van
+den arbeider alleen dan volkomen gewaar
+
+borgd zouden zijn, wanneer er was een
+onpartijdige derde", een ambtenaar, die in
+elk gegeven geval besliste en de beslissing
+uitvoerde. Dus heeft vrees en wantrouwen
+onzen wetgever geleid tot de keuze van
+uitvoering der verzekering door overheids
+
+organen. HQ kan maar niet gelooven dat,
+wanneer werkgevers en arbeiders met die
+taak belast werden, de zaak niet scheef zou
+gaan, de werkgevers niet trachten zouden
+techicaneerenen op de uitkeeringen te beknib
+
+belen en de arbeiders daarvan niet de slacht
+
+offers zouden zijn. Mi] is het steeds voorge
+
+komen dat er voor die vrees en dat wan
+
+trouwen niet voldoende grond was. Zeker
+zouden zich (vooral aanvankelijk) wel
+meenlngsverschillen over mildere of engere
+wetstoepassing voordoen tusschen de (bfj
+ongevallen en invaliditeit alles betalende)
+werkgevers en de arbeiders, doch werden
+partijen het niet eens, dan zou immers een
+eenvoudig ingerichte rechtspraak of arbitrage
+die geschillen kunnen oplossen. Of meent
+men dat naar buiten nooit iets van zulk:
+geschillen blijken zou en dat de werklieden
+imiiMiiiiiiimiiiimiiii
+iiiiiiiiimiimiii
+Wei mag echter gevraagd worden, of de
+opdracht aan die commissie gegeven, niet
+wijder had behooren te zQn, zoodat ze een
+rapport had moeten uitbrengen omtrent
+electrlficatie, gepaard aan een zoo goed mogelijke
+warmtevoorziening van fabrieken en wonin
+
+gen rondom de op te richten centrales. On
+
+getwijfeld zouden de plannen dan geheel
+anders geluid hebben.
+Met de kolenvoorziening staat en valt onze
+geheele welvaart, zoodat dus de allerzwaarste
+ingrepen gewettigd zouden ifln, als daar
+
+door verkregen kon worden, dat met een
+veel geringere hoeveelheid kolen het geheele
+economische leven ongestoord zl|n gang zou
+kunnen gaan.
+Zoo goed als de regeering ingegrepen
+heeft in het partikuiiere en gemeentelijke
+leven, door niet toe te laten, dat een aantal
+kleine electrische centrales met laag rende
+
+ment als electriciteits-leveranciers gingen
+optreden of ermee doorgingen, toen groote
+provinciale installaties klaar kwamen, even
+
+goed dient opgetreden te worden tegen de
+tallooze fabrieken met stoomlnstallaties, die
+niet alleen een laag rendement krijgen door
+verkeerde inrichting van hun machines, maar
+ook (zooals hierboven uitgerekend is) ver
+
+reweg het grootste gedeelte van de warmte
+uit de brandstof volkomen nutteloos doen
+afvoeren.
+Er wordt overal gepreekt en geageerd
+tegen verkwisting. Waarom wordt er dan
+niet krachtig opgetreden tegen de buiten
+
+gewoon sterke brandstof verkwisting in fa
+
+brieken en woningen ? Vermoedelijk zal het
+nuttig effekt der meeste kachels niet boven
+10 pCt. gelegen zijn, zoodat alweer 90 pCt.
+door den schoorsteen naar bulten gaat.
+Laten we even onderstellen, dat een sterke
+regtering. zich met die kwestie ging be
+
+moeien, dan ligt het voor de hand om te
+verwachten, dat een combinatie gemaakt
+zou worden tusschen kracht- en warmte
+
+voorziening, waardoor de verliezen, die
+inhaerent zijn aan een stoominstallatie, ver
+
+meden zoudenworden.doordatdeaf val warmte
+gebruikt zou worden voor fabrieken of
+woningen. Een xeer merkwaardig gevolg
+zou dan vermoedelijk wel zijn, dat het
+warmtevraagstuk zoo sterk op den voor
+
+grond zou treden, dat het verkrijgen van
+een zoo groot mogelijk mechanisch rende
+
+ment pas op de tweede plaats zou komen.
+IN DUITSCHLAND
+f lllllllmlIllllimMIIIMMlfMIIIIMItllllfllfJllllllimilllllllimilimKlIIHimflIlllJIIIl
+zouden worden onderdrukt door de patroons?
+Dit gevaar schijnt mij denkbeeldig; ik geloof
+dat de vakvereeniglng er al spoedig aan zou
+te pas komen, wanneer den arbeider het
+hem wettelijk-toekomende werd onthouden;
+in onzen tijd van groote publiciteit zou zoo
+iets niet onopgemerkt blijven. Op den duur
+zou zulk een gedragslijn voor werkgevers,
+ook al waren zij daartoe geneigd, stellig
+onhoudbaar zijn.
+De stelling, die bij de toelichting van
+Minister Lely's ontwerp-Ongevallen wet
+openlijk werd uitgesproken en die de stil
+
+zwijgende grondslag was van bijna alle
+onze latere verzekeringswetten: de rechten
+der arbeiders zijn alleen veilig in de handen
+van ambtenaren; die stelling acht ik
+onjuist. Zij miskent niet alleen de goede
+trouw der werkgevers, maar ook de kracht
+tot rechtmatig verzet van de zijde der ar
+
+beiders hunner organisaties.
+Overigens geloof ik niet, dat zich op den
+duur ernstige geschillen zouden voordoen.
+Want de gezamenllk te vervullen taak, ge
+
+legen in de uitvoering der wet, zou samen
+
+werking niet alleen vooronderstellen, doch
+ook bevorderen. Patroons en arbeiders zou
+
+den moeten bijeenkomen om gezamenlijk
+dit werk te doen; T\ zouden hun inzichten
+uitwisselen en tot vaststelling van een ge
+
+meenschappelijke gedragslijn geraken. In
+de besturende colleges zouden zij elkaar
+leeren kennen, elkanders standpunt leeren
+begrijpen. Ik stel m IJ voor, dat voor belde
+partijen een opvoedende kracht van niet
+geringe waarde zou gelegen zijn, in de
+noodzaak der gemeenschappelijke vervulling
+van een taak, waarb| de belangen van beide
+groepen op 't nauwst zijn betrokken.
+Bovendien ben ik overtuigd, dat het eigen
+
+lijk verzekerlngswerk, de toepassing van de
+ifiiHiiiiiMiiiiiiiiiiii'iiiiifiiiiJiiiifJiiijiiiijfiiiiiiiiiiiiiiiiiijiiiiiiiiffiiimii
+
+Nu op het oogenblik zulke groote
+electrische -centrales gebouwd worden, dat ze
+het maximaal bereikbare rendement zeer
+dicht zullen naderen, kan alleen zuiniger
+omgegaan worden met de warmte, als allerlei
+fabrieken in de directe nabijheid van zoo'n
+centrale opgericht werden, die de afval
+
+warmte ervan zouden gaan gebruiken, ter
+
+wijl ze voor de mechanische installaties
+electriciteit eruit betrokken. Zonder twijfel
+zou het mechanisch rendement dier cen
+
+trales sterk lijden, als ze gedwongen werden
+om stoom af te geven van 120 graden, maar
+daar gaat het in dezen niet om. Het is alleen
+de vraag of door zoo'n combinatie niet een
+veel grooter hoeveelheid warmte uit de steen
+
+kolen nuttig gebruikt zou worden, waardoor
+een aanzienlijke besparing in het verbruik
+verkregen zou kunnen worden. Het zal
+uiterst moeilijk gaan om rondom een
+(Jeberlandcentrale" zooveel fabrieken te bouwen,
+dat deze voldoende warmte kunnen afnemen.
+Het omgekeerde zal veel eerder mogelijk
+zijn, maar dan zal men van reuzencentrales
+moeten afzien en tevreden zijn met kleine,
+die dan een klein district van electriciteit
+en tegelijk van warmte kunnen voorzien.
+Schijnbaar is de oplossing van het vraag
+
+stuk door het bouwen van enkele groote
+centrales met fabrieken er omheen veel
+mooier, maar zoodra men ook de warmte
+
+voorziening van de woningen erbij trekt,
+dan blijkt direct, dat dit nooit kan gebeuren
+als niet de ketelinstallatie betrekkelijk dicht
+bij de woningcomplexen zal staan.
+Stel eens, dat b.v. Amsterdam niet be
+
+schikte over n groote electrische centrale
+maar over eenige kleinere verspreid over de
+geheele stad, dan zou ongetwijfeld de
+electriciteitseenheid veel duurder komen dan
+tegenwoordig het geval is, als alle kosten
+dier centrales door de electriciteit goedge
+
+maakt zouden moeten worden. Wanneer
+echter (volgens voorgaande cijfers) b.v. 2/7
+van de kosten goedgemaakt zouden moeten
+worden door de electricifeit en 5/7 door
+warmte, dan zou de kwestie er heel anders
+voor komen te staan.*)
+Nemen we voor het verbruik der elec
+
+trische centrale te Amsterdam 12f.OCO ton
+steenkolen en voor huisbrand 200 000, dan
+mag men gerust aannemen, dat deze laatste
+geheel overbodig zouden zijn, als slechts
+15 pCt. van de warmte, die door de
+omzetwet in al de verschillende zich voordoende
+gevallen, op deze wflze beter zou worden
+verricht dan ooit door ambtenaren mogelijk
+is. Werkgevers en arbeiders kennen de
+praktijk van het bedrijfsleven, kennen uit
+eigen aanschouwing en ervaring de gevallen,
+waarvoor beslissingen moeten worden ge
+
+nomen ; z| kennen vaak ook de menschen.
+Voor den ambtenaar is elke verzekerde
+een register-nummer, elk geval de uitkomst
+van een dossier....
+Zal ik nog spreken over ds kosten der
+uitvoering van de wet volgens de beide
+stelsels? Maar het is Immers volkomen
+duidelf k dat werkgevers en arbeiders veel
+goedkooper werk zouden leveren dan heel
+de staf van bezoldigde hoogere en lagere
+ambtenaren l Liever dan hierbij stil te staan
+vestig ik nog- op een ideëel* zijde der zaak
+de aandacht : dit zelf-werken van de bij een
+wet rechtstreeks belanghebbenden verhoogt
+hun belangstelling in het publieke leven en
+bevordert de volkskracht. Het is Immers
+een krachtig volk, waarvan de leden mans
+genoeg zfn om hun eigen zaken te behar
+
+tigen nadat de wetgever eenmaal daarvoor
+een richtsnoer heeft gegeven. Het is niet
+een krachtig volk, dat de taak der uitvoering
+van allerlei wetten telkens weer opdraagt
+aan in 't bijzonder daarmee belaste en daar
+
+voor betaalde bureau-menschen. Maar kracht
+moet worden aangekweekt en geoefend,
+anders verzwakt en verslapt zij. Wfl hier in
+Holland zitten reeds bedenkelfjk diep in een
+steeds wassend functlonarisme. Zullen wij
+nog ooit krachtig genoeg zijn ons daaruit
+op te heffen en zelf onze eigen zaken te
+beheeren en te besturen ?
+Wat men noemt risico-overdracht", is
+niet meer dan een inbreuk op de ambtelijke
+uitvoering, is slechts een o zoo bescheiden
+stap in de richting van zelf-doen. Het is
+treurig en teleurstellend en beschamend, dat
+zelfs dit weinige bfj de
+invaliditeltsverzekekering wordt uitgesloten door de onmogelijke
+elschen van een dwazen bestuursmaatregcl.
+Voelt deze Regeering, deze Minister dan
+niets voor het bovengeschetste ideaal van
+zich zelven besturende burgers en moet dan
+waarlijk het antwoord van die zijde luiden;
+niet de man zelf, maar voor dien man de
+ambtenaar? SMISSAERT
+ting in mechanisch arbeidsvermogen op de
+centrale verloren moet gaan, als rendement
+in de verwarmingsinstallaties terecht zouden
+i komen. Bovendien zou men dan de enorme
+voordeden krijgen van het wegvallen van
+de kachels met allen onaangenamen arbeid,
+die eraan verbonden is, terwijl In vele ge
+
+vallen het dienstbodenvraagstuk tot minder
+onaangename gevolge zou leiden als tegen
+
+woordig het geval is.
+Mocht men werkelijk aannemen, dat de
+brandstoffenkwestie binnen weinige jaren
+weer veranderd zal zijn, dat kolen en andere
+brandstoffen weer tot vrij normale prijzen
+beschikbaar komen, dan zal het toch de
+moeite loonen om door deskundigen eens
+nauwkeurig na te laten gaan in hoeverre
+een combinatie van kracht- en warmtevoor
+
+ziening over alle steden en grootere dorpen
+van het land mogelflk kan zfn en wat deze
+zou kosten en kunnen besparen. Is men
+echter van oordeel, dat de brandstoffen op
+zijn minst zoo duur zullen blQ ven als tegen
+
+woordig of in elk geval niet ver beneden
+de tegenwoordige prijzen kunnen dalen, dan
+wordt dit vraagstuk een der meest urgente
+en kan er niet genoeg haast gemaakt worden
+met het aanpakken ervan. De kwestie is
+voor allen van zooveel belang, maar is te
+
+gelijk zoo gecompliceerd en omvangrijk,
+dat ze alleen van staatswege behoorlijk
+aangepakt zal kunnen worden en dit dient
+te gebeuren eer door het bouwen van vele
+groote en kostbare nieuwe installaties de
+moeilijkheden van het vinden eener oplos
+
+sing zoo vergroot zullen worden, dat men
+er niet meer uit kan komen.
+v. O.
+*) De huidige stand'van de techniek laat
+zelfs een economische warmteverdeeling in
+een stad toe tot over een afstand van 5 KM.
+In dit geval spreekt het vanzelf, dat het
+zelfs voor een betrekkelijk groote gemeente
+de meest economische oplossing zou bestaan
+in het hebben van n
+electriciteit-warmtecentrale, die b.v. ook zomers de warmte
+kan afgeven aan diverse bedrfven, waar
+
+door het geheele jaar door de warmteaf gif te
+niet zoo sterk behoeft te fluctueeren als
+anders door het stopzetten der verwarming
+noodlg zou zijn.
+
+</text>
+<image timestamp="2002:08:16:18:02:42.00" size="544130">D10000SM.TIF</image>
+</page>
+</document>

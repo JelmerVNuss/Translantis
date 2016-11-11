@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320312</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ho. 28S8 van 12 Maart 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+'Weekblad voor Nederland
+Keizersgracht 355, Amsterdam G. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+O.HOOGEWERFF.CHJIBOT&amp;lflSSErSWIJNHIINOEL
+DEN HAAG
+Stille Veerkade 25/27
+Trt. N». 110988
+ROTTERDAM
+Jnfferstraat 27
+TeL Ho. 51155
+ARNHEM
+Eusebiusbinn.s. I
+T»L Ho. 84084
+Importoara van:
+WHISKY
+Kinq William iv
+Prima Schotsch product van het Huis
+John Gillon 6 Co Ltd. te Leith.
+Deze whisky munt uit door vol
+
+komen rijpheid en een bizonder
+zachte flavour.
+De echte whisky-kenners geven aan
+dit oude distillaat de voorkeur.
+Voortijd»
+Athltnlfdi
+Verlaagde prijs f 5.25,'per flesch
+N.Y%
+HAKLOOSTERHUIS
+AMSTERDAM
+KALVER5TRAAT 178
+S'Liter 8-cyl. BUGATTI
+•^ t ..—i^__
+• transformable,!! ii •
+4 a 5 pi. Buitengewone luxueuze en solide
+carrosserie, fabrikant Erdman Rossi,
+Berlijn. Geheel gelijk nieuw.
+
+S'Liter 8-cyl. BUGATTI
+• sport cabriolet, •
+zeldzaam mooi model wagen, van
+allernïeuwsten vorm, slechts even gebruikt.
+
+S'Liter 8-cyl. BUGATTI
+• conduite inférieure, •
+4 a 5 pi., geheel als nieuw.
+/2 Liter 4-cyl. BUGATTI
+sporttorpedo, •
+overjarig model. Prijs billijk.
+H. STAM SOESTDIJK
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT axs
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+DE NIEUWE MODELIJN
+DE SCULPTURAAL-LIJN
+HET ,,S K
+ICORSELET"
+m o o e l K v a
+vanaf f 7.50
+inooel (Darmen
+vanaf f 12.50
+mouel ,,Umpire
+vanaf f 19.50
+De modellen die aan tic
+s t r e n g s t c e i s c h e n der
+NIEUWE MODE voldoe»
+
+</text>
+<image timestamp="2002:09:21:01:16:03.00" size="103883">D2004SO.TIF</image>
+</page>
+</document>

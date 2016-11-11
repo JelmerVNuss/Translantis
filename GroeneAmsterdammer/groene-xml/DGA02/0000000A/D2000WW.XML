@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010519</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1247
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Aan het einde van het vierjarig Zitti n gs tijdperk.
+MINISTER PIERSON (een drietal wetsontwerpen aanbiedend): «Notaris, onze laatste wil . .."
+KAMERPRESIDENT GLEICHMANN : »Hoe jammer, dat we beiden op onze laatste beenen loopen !"
+John Buil Kolonisator. (Silhoiiette).
+&lt;?
+-&gt;&gt;%H
+•^!^L
+. ,, -'.MMK*tl"\ f~***
+
+:"^^&gt;f-=-'^
+Boertje, je hebt een land dat me bevalt, ik zal er dit vlaggetje
+op zetten, dan is 't nog mooier.
+Zeg eens! Plant jij jou vlag op mijn land?
+. Ja ! Ea heb 't hart eens dat je er aan komt !
+De Araerikaansche zendelingen hebben toch niet voor niets gewerkt,
+(Life, N.-Y.)
+Gg beweegt mij bijna een christen te worden.
+Handelingen XXVI. v. 28. (Life, N.-Y.)
+Miquel- Harakiri. (Lustige Blatter).
+De Chine^sche veldtocht vordert van den Duitschen geld
+
+buidel bloediae offers.
+De Bulldog in het Boerenland. (Der Flolï).
+Ik protesteer, in naam van recht en billijkheid ! Zeg ereis Engelschman, met die kozak daar durf je toch niets
+En als je niet heel gauw stil bent, zal ik je mitrailleeren, in naam beginnen, leel^ke zakkenroller !
+van my n overmaeht l
+\Vat zijn de merseben !c&lt;-h wrfed. nieta dan beenen laten ze voor
+me over en ze weten toch dat ik mijn meeste tanden kwivt ben !
+
+</text>
+<image timestamp="2002:08:16:01:49:11.00" size="385042">D2000WW.TIF</image>
+</page>
+</document>

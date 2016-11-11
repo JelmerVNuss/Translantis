@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18771111</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f
+BIJVOEGSEL, BEHOOEENDB BIJ DB AMSTERDAMMER VA* 11 NOVBMBBR.
+I. Twee gestoffeerde Kamera ƒ 25 per maand, l December.
+W. Ben Bovenhtia, 4 kamers / 350 per jaar. l Mei 1878.
+108. Ben Bovenhuis, 2 kamera ƒ 276 per jaar. l Mei 1878.
+115. Ben. Bovenhuis, 3 kamera / 875 per jaar. l Mei 1878.
+•
+
+Kromme Waal.
+
+6. Ben Bovenhnia, 5 kamera / 660 per jaar', l Febr. 1878.
+28. Ben Huis, 7 kamen / 000 per jaar. l Deo.
+
+Oude Waal.
+
+9. Ben Huis, f 400 per jaar. l Mei 1878.
+10. Ben Bovennnis, / 250 per jatr. Terstond.
+80. Ben Huis, / 600 per jaar. l Mei 1878.
+84. Ben Bovenhma 8 kamera / 350 per jaar. l Mei 1878.
+36. Ben Bovenhuis 3 kamera ƒ 300 per jaar. Terstond.
+39. Ben Bovenhuis 4 kamers ƒ 350 per jaar. Terstond.
+
+Wagenaarstraat.
+
+5. Een Huis en tuin, ƒ 350 per jaar. T Mei 1878.
+31. Ben Bovenhnis, ƒ 200 per jaar. Terstond.
+31. Ben Bovenhuis. ƒ 175 per jaar. Terstond.
+«
+WarmoesgracM.
+
+10. Een Huis 6 kamers / 900 per jaar. l Mei 1878.
+
+Warmoesstraat.
+
+12. Een Bovenhuis, a 2 kamera, / 260 per jaar, l Mei 1878.
+28. Een gestoffeerde Kamer, / 3 per week. Terstond.
+30. Een Bovenhuis, 3 kamers, / 350 per jaar. Febroari of Mei,
+41. Een Huis, ƒ 500 per jaar. l Mei.
+43. Twee gestoffeerde Kamers. Terstond.
+51. Ben gestoffeerde kamer/ 1.50 per week. Terstond.
+85. Ben gestoffeerde kamer, ƒ 16 per maand, l December.
+91/98. Kantoorlokalen, ƒ 325 per jaar.
+95. Ben Bovenhni», 2 kamen, ƒ 350 per jaar. Terstond.
+107. Ben Huis, / 800 per jaar. Terstond.
+111. Ben Huis, / 800 per jaar. Terstond.
+121.' Kantoorlokalen.
+160. Kantoorlokalen, te bevragen bij' de H.H. van West &amp; Co. Terstond,
+162. Ben Bovenhuis, 4 kamera, l Mei.
+177. Ben Bovenhuis, 8 kamers, / 700 per jaar. l Mei 1878.
+179. Ben Bovenhuis, 8 kamers, 500 per jaar. l Mei 1878.
+
+
+Weesperptein.
+#
+11. Ben Huis, ƒ 1000 per jaaf. Terstond.
+
+Weesperstra&amp;t.
+
+80. Ben Bovenhnis, / 375 per jaar. l Mei 1878.
+98. Ben gestoffeerde Kamer, ƒ16 per maand. Terstond.
+4. Ben Bovenhuis, / 250 per jnar. l Mei 1878.
+5. Een Bovenhuia, ƒ 200 per jaar. l Mei 1878.
+
+Westermarht.
+
+13. Ben Hnia 3 kamen ƒ 400 per jaar. l Mei 1878.
+15. Ben Huis, 5 kamen, / 360 per jaar. l Mei 1878.
+
+9e Weteringdwarsstraat.
+
+37. Ben Huis en Tuin, ƒ,350 per jaar. l Mei 1878.
+37. Ben Bovenhuis, ƒ 200 per jaar. l Mei 1878.
+
+Wieringerstraat (Binnen.)
+
+18. Ben Bovenhuis, 2 kamers, ƒ 150 per jaar. Terstond.
+24. Ben Bovenhuis, 2 Kamers, ƒ 15Q per jaar. Terstond.
+25. Een Kamer, ƒ 125 per jaar. Terstond.
+Wleringerttraat (Buiten.)
+
+4. Ben Bovenhnia 2 kamen ƒ 240 per jaar, Terstond
+
+Mieine WUien&amp;urgersiraai.
+33. Een Kamer. Terstond.
+10. Ben Bovenhuis, 2 Kamen, ƒ 850 per jaar. Terstond.
+22. Ben Bovenhuis, 2 Kamen, ƒ 225 per jnar. Terstond.
+32. Ben gestoffeerde Kamer, ƒ 12 per maand. Terstond.
+
+
+\TgracM.
+
+8. Ben Bovenhuis, 3 kamers, ƒ 850 per jaar. Terstond.
+
+
+Kandsiraai.
+
+1. Een Huis en Onderhuis, geheel, ƒ 208 per jaar. l Mei 187S*
+*
+Zeedijk.
+
+1. Twee Kamen, ƒ 3.50 per week. Terstond.
+15. Twee gestoffeerde Kamers / 16 per maand. Terstond.
+21. Een Bovenhuis, 2 kamers, ƒ 200 per jaar. Terstond.
+31. Een Kamer, / 2.25 per week. Terstond.
+60. Een Kamer ƒ 10 per maand. Terstond.
+64 Twee Kamers, ƒ 3.50 per week. Terstond.
+103. Een Bovenhuis, 2 kamers, ƒ 200 per jaar. Terstond.
+115. Ben gestoffeerde Kamer, ƒ 12 per maand. Tentend.
+121. Twee gestoffeerde Kamen, ƒ 25 per maand. Terstond.
+68. Een Boyenbuis, 3 kamen, ƒ 500 ptr jaar. l Mei 1878.
+\
+
+rV '
+j'!
+f
+t
+r
+Stoomdrnkkerij ELLKBMAII, HAXMI fc Co.
+«•r X*L ^K* tl au » '
+
+</text>
+<image timestamp="2002:10:24:02:19:39.00" size="141307">D1000JO8.TIF</image>
+</page>
+</document>

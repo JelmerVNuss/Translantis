@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18851025</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N°. 435.
+DE AMSTERDAMMER
+A°.
+1885WEEKBLAD VOOR NEDERLAND.
+Verschijnt eiken Zaterdagavond.
+uitgever»: ELLEBMAN, HABM8 A Oo,
+
+Kantoor: Singel 211.
+Hoofd-Agenten i te Batavi», G. KOLFF &amp; Co.
+Zondag 25 October.
+Abonnement per S/m.	f 1.—. fr. p. p. f 1.15.
+Afzonderlijke Nummers a«n de Kiosken verkrijgbaar i B 0.10,
+Advertentiën van 1—5 regels f 1.10, elke regel meer . » 0.20,
+tusBchen den tekst per regel .•.&gt;.„o At)
+INHOUD:
+
+BUITENLAND. Warme Kadetjes. Ben Zaterdagavond-praatje, XOVin, door
+AquiriuB. Uit bet Haagje LUI, door Pasquino. Kunst: Het tooneel te Am
+
+sterdam, door Alb. Tb. Het tooneel t» Rotterdam. (Ingezonden). Oskar
+Blumcntnal'a nieuw drama. Muziek in de Hoofdstad, beoordeeld door H. C.
+f. D. Ton-toon-stelling Arti, afgeluisterde gesprekken, I, door Alb. Th. Wat
+de Mnnttoren vertelde, door A. F. uit België. Uit Parijs, XLI, door A. B.
+Letterkunde: Faal Margucritte, een proeve van Naturalistische kritiek II.
+In Memoriam, door A. Flament. De Dochter, een ontboezeming in Pantoenvorm,
+door P. t1. Gedroomd, door P. W. Lovendaal. Voorby, door P. W. Loveudaal.
+Inhoud van Tijdschriften. Nieuwe Uitgaven in Nederland.—Militaire Za
+
+ken: Eet) pleidooi Voor verouderde beginselen, door Cambreaux, (slat).
+Schaakspel. Feuilleton: Tusschen do graven, naar het Noorsch van L. Dilling,
+(slot). uit Ouïda's jongsten bundel, III. NIEUWS VAN DE WEEK. Brie
+
+venbus. Faillissementen. Overzicht van de Effectenmarist. To huur.
+Advertentiën. .
+De groote politieke redevoeringen zijn in Engeland nog
+steeds aan de orde van den dag. Op de merkwaardige rede,
+onlangs door Lord Salisbury uitgesproken, en waarvan wij in ons
+vorig overzicht de hoofdstrekking hebben medegedeeld, zijn sedert
+een aantal andere gevolgd, die op de verhouding tusschen de
+verschillende liberale en conservatieve fractien, en hare vermoede
+
+lijke groepeering bij de aanstaande verkiezingen in November,
+een eigenaardig licht werpen. Toch blijft elke poging, ovn met
+eenige zekerheid den uitslag te voorspellen van den grooten en
+gewichtigen strijd, die in de volgende maand zal worden gestreden,
+weinig meer dan a leap in the dark. Hoogst moeielijk, zoo niet
+. onmogelijk is Jwt, ,ie zeggaa—welke de ui t werking,, zal zijn
+van eene vermeerdering van het aantal kiezers met ongeveer tvyee
+millioen, die tot dusver allen van de uitoefening van het kies
+
+recht waren verstoken. De tijd zal het moeten leeren, in welke
+richting deze hun invloed zullen laten gelden.
+Dal de liberale parlij, door de handige poging van Lord Salis
+
+bury om den heer Gladstone de hoofdpunten van diens pro
+
+gramma te ontfutselen en tot het zijne te maken, op bedenkelijke
+wijze werd bedreigd, zal men zich herinneren. De heer
+Ghamberlain heeft thans, in eene dezer dagen gehouden politieke rede, eene
+concessie gedaan, waardoor dat gevaar voor een deel zal worden
+weggenomen. De leider der radicalen heeft namelijk verklaard,
+dat naar zijne meening de quaestie der scheiding van Kerk en
+Staat nog niet door het eerstvolgend Parlement zou kunnen wor
+
+den ter hand genomen. Deze concessie aan de rechterzijde der
+liberalen zal eene nauwere aaneensluiting van de verschillende
+tractien der liberale party mogelijk maken; zij wordt beschouwd
+als een gevolg van het bezoek, door den heer Chamberlain on
+
+langs aan den heer Gladstone op diens landgoed Hawarden gebracht.
+De Engelsche Regeering heeft veel kans, om weder in een
+oorlog gewikkeld te worden. Het gouvernement van Britsch-Indi
+heeft zich nl. gemengd in een geschil tusschen de Engelsche
+Bombay-Burmah-Trading-Association en de Birmaansche regeering.
+Volgens de bestaande contracten moeten dergelijke geschillen wor
+
+den onderworpen aan eene gemengde rechtbank; koning Thebau
+en de autoriteiten te Mandalay gaven dit echter niet toe, waarop
+de Britsche regeering arbitrage voorstelde. Op dit voorstel nu
+heeft koning Thebau geantwoord met eene nota, die de Engelsche
+regeering als beleedigend beschouwt en haar aanleiding heeft ge
+
+geven tot het zenden van een ultimatum aan den Birmaanschen
+potentaat, waaraan deze binnen 4 dagen na de ontvangst gevolg
+zal moeten geven.
+De sterkte der Engelsche expeditie is reeds vastgesteld en zal
+8000 man bedragen. Dat het conflict tusschen Engeland en koning
+Thebau op eene annexatie van Birma zal uilloopen, is hoogst
+waarschijnlijk. Reeds tweemalen (in 1825 en 1852) heeft Enge
+
+land zich met Birmaansch grondgebied verrijkt, zoodat dit land
+thans geheel van de zee is afgesloten. Doch ook het bezit van
+het overblijvende deel heeft voor Engeland groote waarde, daar
+het een slagboom vormt tusschen Britscli-lndie en het Ghineesche
+Rijk. Nu Frankrijk zijne bezittingen zóó heeft uitgebreid, dat het
+onmiddellijk aan China grenst, zoekt Engeland de gelegenheid, om
+zijn Indisch spoorwegnet tot in het Hemelsche Rijk te verlengen.
+En wanneer zulk eene behoefte zich dringend doet gevoelen, zal
+het tegenspartelen van den zwakken Aziatischen vorst weinig baten.
+In net corps diplomatique bij het Engelsche hof is in de
+afgeloopen week eene niet onbelangrijke wijziging gebracht. In de
+iplaats namelijk van graaf Munster, die jaren lang den post van
+Duitsch gezant te Londen heeft waargenomen, doch thans naar
+Parijs is overgeplaatst om de vacature van vorst Hohenlohe (be
+
+noemd tot stadhouder van Elzas-Lolharingen) aan te vullen, is
+benoemd graaf Hatzfeldt, tot dusver staats-secretaris bij [het minis
+
+terie van buitenlandsche zaken te Berlijn.
+***
+De uitslag der herstemmingen voor de Fransche Kamer van
+Afgevaardigden, die na het chee, door de republiek pp 4 Octo
+
+ber geledan, met zooveel spanning werd tegemoet gezien, is thans
+in zijn geheel bekend. Het eendrachtig optreden der verschillende
+republikeinsche fractien, die elkaar bij de eerste stemming met
+zooveel felheid bestreden, heeft tengevolge gehad dat de triomf
+der reactionairen (imperialisten, royalisten en clericalen) zich bij
+de herstemming niet herhaald heeft. Zij verkregen niet meer dan 26
+zetels; al de overigen vielen aan de republikeinen ten deel. De
+republikeinsche meerderheid in de nieuwe Kamer zal dientengevolge
+382 stemmen tellen, waaronder 232 opportunisten (gematigden)
+en 150 radicalen. De conservatieve minderheid zal bestaan uit
+202 leden, zoodat de gematigd republikeinsche parlij, niettegen
+
+staande den aanwas der beide uiterste partijen (conservatievenen
+radicalen) die ten koste van haar geschiedde, toch nog de sterkste
+partij zal uitmaken. Wanneer nu maar onder de 150 radicale
+afgevaardigden een voldoend aantal bezadigde lieden kan worden
+gevonden, dan zal het de republikeinsche partij, met de bij de
+stembus van 4 October opgedane ervaring, niet moeilijk vallen
+eene behoorlijke regeeringsmeerderheid] samen te stellen.
+Van de leden van het ministerie-Brisson zijn alleen de heeren
+Legrand en Hervé-Mangon niet herkozen; zij hebben dienten
+
+gevolge hun ontslag aangevraagd en verkregen. Den l On Novem
+
+ber a. s-_ zal de aiaec,_b4eenkonien tot het onderzoek van de
+geloofsbrieven der nieuwgekozen leden, terwijl waarschijnlijk den
+22sten December het congres (de vereenigde zitting van Kamer
+en Senaat) tot de periodieke verkiezing van een president der
+Republiek zal overgaan. De heer Grévy heeft zich voor eene her
+
+nieuwing van dit gewichtig mandaat beschikbaar gesteld.
+*
+* *
+Het Carolinen-geschil tusschen Duitschland en Spanje is sedert
+eenigen tijd een stadium van stilstand ingetreden. Wel verneemt
+men van tijd tot tijd, dat deze aangelegenheid nog voortdurend
+het onderwerp uitmaakt van gedachtenwisselingen tusschen de ka
+
+binetten van Berlijn en Madrid, doch het schijnt dat de ccherpte
+van het conflict, hetwelk in den aanvang zulk een dreigend ka
+
+rakter droeg, grootendeels is weggenomen. Met de bemiddeling
+des Pausen, die, zooals men weet, met wederzijdsch goedvinden
+van partijen is ingeroepen en door Leo XIII werd aanvaard, is
+men nog weinig verder gekomen. Al te veel gewicht zal men
+dan ook aan deze tusschenkomst bezwaarlijk kunnen hechten,
+daar geen van beide partijen gehouden zal zijn, om zooals
+bij arbitrage het geval is zich aan het oordeel van den be
+
+middelaar te onderwerpen.
+De Brunswijksche troonquaestie is sedert eenige dagen eene
+belangrijke schrede nader tot hare oplossing gekomen. De Land
+
+dag heeft namelijk, op voorstel van den regentschapsraad met
+algemeene stemmen tot regent van het groothertogdom benoemd
+prins Albrecht van Pruisen, den zoon van wijlen prinses Marianne
+der Nederlanden.
+* . 8
+De bekende inconstitutioneele houding, waarin het Deensche
+ministerie-Estrup reeds jaren achtereen, in lijnrechten strijd met
+den wil van de groote meerderheid der Volksvertegenwoordiging,
+volhardt, gaf jl. Woensdag te Kopenhagen aanleiding tot een be
+
+treurenswaardig feit. Een 19jarig typograaf, Rasmussen genaamd,
+heeft een aanslag beproefd op het leven van den minister-president
+Estrup. De poging is echter mislukt; van de twee
+revolverschoten, die op den minister werden gelost, stuitte het eerste
+door een zonderling toeval af, terwijl het tweede zijn doel geheel
+miste. De dader, die onmiddellijk in hechtenis werd genomen,
+verklaarde uitsluitend door politieke beweegredenen en in het
+belang der vrijheid, tot deze misdaad te zijn gebracht.
+De toestand op het Balkan-schiereiland blijft nog steeds van
+hoogst ernstigen aard. Eene uitbarsting van de nationale hartstoch
+
+ten, vooral in Serviëen Griekenland, kan elk oogenblik worden
+verwacht. Inmiddels hebben de beraadslagingen van de gezanten
+der groote mogendheden, die reeds weken achtereen te
+Constan
+</text>
+<image timestamp="2002:08:18:18:49:55.00" size="238277">D10001E8.TIF</image>
+</page>
+</document>

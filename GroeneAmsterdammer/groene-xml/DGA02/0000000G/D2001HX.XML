@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020831</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1314
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+De wethoudersverkiezing te Amsterdam.
+
+«b
+Mama Europa komt niet tusschenbeiden. (Paiquino).
+Burgemeester VAN LEEUWEN : (tot de Amsterdamfche Stedemaagd): «Kom meisje, gy moet kiezen gaan I"
+SERKURIBK (in zich zelf): »Zou ik misschien ...."
+Paardenhoeden. (U/Jc).
+Wel verdiend. (Punch).
+Mama EUROPA : »'t Spijt me dat ik er niets aan doen kan, dat ze die Macedonische
+kip zóó plukken."
+De boerengeneraals in Engeland (Noterelle).
+We kunnen onze hoeden wel ophouden tegenover hem, die ons vaderland weg
+
+genomen heeft...
+Lappertjes politiek. (Fi'chietto).
+Hoed af Zyn hoogheid komt l
+LONION: »G;lukkig is alles prachtig afaeloopen, nu mag
+ik waarl; k ook wel eens vacantie hebben?''
+Wat is er, nieuws, waarde vriend?
+Zoo als je ziet, rust het lot van 't va Ierland in mijn handen, ik knap die[ laara
+van Prinetti wat op, dan slaat ie 'n goed fijuur op z'n reis naar Berlyn...
+Krügsoefeningen te Reval. (Lik).
+De Cz\ar en Leo Tolstoï. (t clddio).
+Sal maar pappelje, op een anderen keer spelen we weer eens samen, hoor \
+'t Is maar een schaduw, naar toch jaagt Inj m\j vrees aan!
+
+</text>
+<image timestamp="2002:08:18:08:40:04.00" size="462277">D2001HX.TIF</image>
+</page>
+</document>

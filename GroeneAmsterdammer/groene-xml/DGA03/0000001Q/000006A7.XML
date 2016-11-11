@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280204</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 4 FEBRUARI 1928
+No. 2644
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+Koldewey &amp; Corbière
+Leidschestraat 30 * Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen ~~ Matrassen Dekens
+BEGRAFENISVEREENIGING
+
+N. SAX }r.
+P.C. HooftstTMt M AMSTERDAM Telflf.: 30341, 34250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LJJKKOETSAUTOMOBIELEN
+JI!l!llinnill!lll!lll!!lillllllllllllllllll!l!llll!ni!llll!!llllllllllllllll!!lllll!l!l!IIIH^
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ om verkrijgbaar
+N. R, V. MONTA SCHOENEN l
+[niimnimMiiiiniininnnnraiiiiiiiiiiiiiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiiiiniiiiiiiNiiiiimiiimiiiiira
+Wed JOHN GAY'S PICCALILL1
+BUJFT HET MOSTERDZUUR MET DB FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOEErS FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+:ep
+Cacao
+N
+DROSTE S
+
+BONBONS
+PASTILLES
+CHOCOLADE
+
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+Pendules, Horloges,
+
+Stijlklokken, Wekkers,
+
+Barometers, Gouden en
+
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. BREEN
+
+NI E UWENDIJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+
+Half
+
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+
+</text>
+<image timestamp="2002:09:04:04:43:56.00" size="97740">000006A7.TIF</image>
+</page>
+</document>

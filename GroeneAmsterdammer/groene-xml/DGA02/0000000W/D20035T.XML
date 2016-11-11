@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19171110</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE NIEUWE RIJKSKANSEHER EN HET PARLEMENT
+
+
+
+BIJVOEGSEL van .De Amsterdammer", Weekblad voor Nederland, van 10 November 1917,
+Nadruk verboden
+T"'1; H'
+T
+•f , * \ ' * SLS1»- ' * **
+V- &gt; «' J J—'. f ;•« !--^
+^1' -&lt;. , s l»" * •*&lt;. &gt;
+
+
+if-r.f;-T* ,
+11 , * t/i *
+i—"
+*«...«..&gt;.
+Amst. Boek- en St eendrukkerij, v/h. Ellerman Harms &amp; Co
+MARJAGE DE RAISON
+Moeder Germania: Als dat maar een goed huwelijk wordt'
+
+</text>
+<image timestamp="2002:08:24:07:14:51.00" size="449652">D20035T.TIF</image>
+</page>
+</document>

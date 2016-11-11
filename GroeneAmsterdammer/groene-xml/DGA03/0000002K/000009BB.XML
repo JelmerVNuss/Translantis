@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300621</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'«."Htó van Jl' Juni'
+25 ct
+rqene
+eckbladvoor Nederland
+KEIZERSGRACHT 3S5 - AMSTERpAM - CENTRUM
+WHISKY
+King William iv
+Prima Schotsch product van het Huis
+John Gillon 6 Co Ltd. te Leith.
+Deze whisky munt uit door vol
+
+komen rijpheid en een bizonder
+Zachte flavour.
+
+De echte whisky-kenners geven aan
+•j
+dit oude, distillaat de voorkeur. ,
+Voorzijde . . Aehteriijdt
+Verlaagde prijs ff 6.50 per fflesch
+
+Importeurs .•
+
+N.Y. HOOGEWERFF, CHABOT 6 VISSER'S
+WIJNHANDEL
+DEN HAAG
+Stille Veerkade 25/27
+Tel. No. 10939
+ROTTERDAM
+Jufferstraat 27
+Ttl. Na. S1155
+ARNHEM
+Eusebiusbinn.s. l
+Tel. Ne. 24034
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM UTRECHT NIJMEGEN
+TILBURG ~ BREDA
+JnLeupgorael xtensible
+
+van prima Fransch Elastiek,
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+tot heup wijdte 100 c.M. nieuwen prijs f H.
+verder tot 115 c.M. 15
+Bij schriftelijke bestelling gelieve men als maal
+op te geven de wijdte over breedste deel van d«
+heupen, over onderkleeding gemeten.
+EXTENSTBLE"
+Voorhanden een enorme keuze
+
+
+lastieken tieupgor
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heupg&lt;m!t&gt;i
+parandeeren wij
+21198 F e r d. Holstraat 85
+22852 Ceintuurbaan 235
+21698 Corn. Krusemanstr. elf
+
+Aarzel niet!
+geeft Uw telefonische order
+op Wijnen, Whisky, Likeuren
+Tafelwater en Tafelbier
+Limonade	aan
+
+
+GALL &amp; GALL
+
+de beste qualiteiten!
+de beste bedienin&amp;sorganïsatie
+i n a 111' w ij k e n d e v s f. ,t d !
+
+</text>
+<image timestamp="2002:09:25:19:12:57.00" size="153476">000009BB.TIF</image>
+</page>
+</document>

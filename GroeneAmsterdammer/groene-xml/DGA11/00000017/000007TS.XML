@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300118</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 18 JANUARI 1930
+No.
+2746De Papegaaienziekte
+door Dr. K. Kuiper
+Moeten wij onze papegaaien afmaken?
+ONDER de nuttige instellingen van onzen tijd
+mag men stellig de bureaux voor persberichten
+rekenen. Ze hebben als 't ware een tweeledigen
+arbeid: eerst verspreiden ze het nieuws over de
+bladen en daarna verzamelen ze het weer en
+distribueeren de oudbakken berichten systematisch
+over de voor speciale onderwerpen geïnteresseerden.
+Wat de journalist den nen dag aaneen lijmde,
+knippen zij den anderen weer uit elkaar.
+Dank zij deze nuttige krantenknipsels dus kon
+ik gewaar worden hoeveel belangstelling men. aan
+den dag legt voor een aantal ziektegevallen bij
+menschen, ten deele met doodelijken afloop, die een
+gevolg schijnen te zijn van besmetting door zieke
+papegaaien. En als die knipsels het mij niet verteld
+hadden, dan was 't wel duidelijk geworden uit de
+tientallen vragen die van alle kanten daarover
+gedaan worden. Men zou het haast een klein
+paniekje kunnen noemen.
+Het zal daarom geen kwaad kunnen als we deze
+merkwaardige ziekte, en wat er aan vastzit, eens
+wat nader beschouwen.
+* *
+*
+Allereerst iets over de feiten.
+Veel meer menschen dan gij en ik misschien
+denken, houden er een papegaai op na, liefst een
+die goed spreekt natuurlijk. Vaak zijn zulke vogels
+de troost en toeverlaat van eenzamen in deze
+wereld, die hun behoefte om te vertroetelen op een
+voor ons gevoel min of meer stuitende, althans
+onsmakelijke wijze op zoo'n vogel afreageeren.
+Maar ook anderen hebben hun Lorre. In een aantal
+gezinnen waar kort te voren een nieuwe papegaai
+zijn intree had gedaan, werden eerst de vogel en
+daarna meerdere menschen ernstig ziek. Bij Lorre
+waren de ziekteverschijnselen: gebrek aan eetlust,
+bol zitten der veeren, slecht riekende bloeddiarrb.ee,
+mager worden en slaperigheid. De menselieu ver
+
+toonden naast symptomen, die den arts aan typhus
+doen denken, vaak typische blaasjes in de mi uid
+
+en keelholte, terwijl veelvuldig een ernstige
+pneumonie optrad, die misschien in de fataal eindigende
+gevallen wel als de directe doodsoorzaak is op te
+vatten.
+Dat deze ziekte door Bacterium psittacosis, die
+tot de groep der pathogene darmbacteriën, de
+z.g. Paratyphus-groep behoort, veroorzaakt wordt,
+neemt inen al een. kleine veertig jaar aan. Ver
+
+moedelijk is het nooit zoo goed mogelijk geweest het
+verband tusscheii de vogelziekte en de
+menschenziekte te bewijzen als nu. Als men nagaat wat er
+tot dusverre over de psittacose veimeld werd in.
+de handboeken, dan ziet men dat nog altijd scep
+
+tici dit verband durven, loochenen oi! althans als
+een open vraag beschouwen.
+*
+* *
+Het is goed dat zulke sceptici er zijn ! Er wordt
+op medisch en veterinair gebied zooveel met
+enorm aplomb beweerd, er worden afdoende ge
+
+neeswijzen en medicamenten met groote
+fanfaronnades aangeprezen ik dunk b.v. aan de z.g.
+Friedmann-entstof tegen tuberculose, het voor
+
+beeld is ad libitum aan te vullen dat, groote
+scepsis in heel veel gevallen volkomen op z'n
+plaats is. Edoch hier mogen we daaraan niet meer
+mee doen. Het psittacose-besmett ingsgevaar is
+niet alleen maar denkbeeldig. Naar men uit de
+kranten heeft kunnen zien (de Telegraaf bevatte
+b.v. dezer dagen een goed referaat naar een artikel
+van den directeur van h&lt;-.t instituut voor
+tropenziekteii te Hamburg) y.ijn er dit najaar veel gevallen
+BERGT UWEN INBOEDEL
+BIJ VOORGENOMEN VESTIGING IN
+DEN HAAG OP IN HET BUITENLAND
+BIJ DB FIBMA BATENBURG &amp; FOLMER
+TB 'S-GRAVENHAGE,HuiJGEN8PABK22
+TELEFOON 11030
+EIGEN GEBOUWEN. Bespreking kosteloos
+SPEO. BlNNENL. EN INÏEBN. TRANSPOS»»»
+van psittacose voorgekomen in Argentinië, en
+hier heeft men dan ook de bevindingen van
+Nocard, in 1893 te Parijs, waarbij Bact-psittacosis
+in mensch en papegaai kon worden aangetoond,
+kunnen bevestigen. Overigens schijnt in Z. Amerika
+de ziekte vrij regelmatig, zij het meer sporadisch,
+voor te komen.
+Verschillende vragen die men zich in verband
+met de papegaaienziekte kan stellen wachten nog
+op een antwoord, b.v. deze: zijn het speciaal de
+groene papegaaien van Zuid-Arnerika, de amazones
+die aan psittacosis lijden, of zijn er ook gevallen
+bekend, waarin de bekende grijze Koodstaart"
+de meest populaire, best sprekende, kooivogel de
+besmetting overbracht 'i
+Van Heelsbergen spreekt in zijn nieuwe handboek
+in dit verband over kort te voren uit Amerika of
+Afrika ingevoerde vogels; maar de mij bekende
+berichten hebben steeds betrekking op
+ZuidAmerika-transporten. 't Is best mogelijk, dat de
+infectiehaard feitelijk in Braziliëen Argentini
+zit, en men dus de roodstaarten niet argwanend
+behoeft aan te kijken, zooals thans hun groene
+verwanten. Al is a priori niet aan te nemen, dat
+deze voor de paratyphus-infectie immuun zouden
+zijn.
+* *
+*
+Een tweede kwestie, voor vele
+papegaaienviiniden, zelfs een question-briïlante naar het schijnt,
+is deze: moeten wij onze vogels ook wegdoen en
+loopen we om iederen papegaai, dien we zien, ook
+beter in een flinken kring heen V 31en kan die
+vraag met een wedervraag beantwoorden: ruimt
+ge uw hond op, als er hier of daar een paar gevallen
+van hondsdolheid zijn voorgekomen-1 Kil ge kunt
+ook gerust als altijd de tra's en kateloes op hun
+beugels in de dierentuinen hun versnapering
+voeren,want, afgezien van het feit dat de ziekte
+daar, althans in ons land nooit, werd geconstateerd,
+moogt ge gerust vertrouwen, dat alleen gezonde
+diereu met het publiek in contact komen.
+HUIL andere vraag is intusschen: wat kunnen
+we voor preventieve maatregelen nemen om de
+psittacose buiten onze grenzen te honden r Kn
+daarmee raak ik een gebied aan waarover veel
+zou te zeggen, zijn.Het is natuurlijk heel eenvoudig:
+evenals men voor enkele jaren den. invoer van.
+pluimvee verboden Juvt't, ter voorkoming van
+ernstige pluim vt-eëpidemiëii zooals kippeii-chnlera.
+kan men en zal men. ook hoogstwaarschijnlijk den
+invoer van papegaaien wol aan banden gaan
+leggen. Dan zal ecu ambtcuaav van den. Veeart
+senijkundigen Dienst: een in te voeren partij papegaaien
+stuk voor stuk keuren, en misschien ook ron certi
+
+ficaat vau oiibesmethcid uit het land van oorsprong
+kunnen eischeii. Dit is een heel klein kunstje: de
+organisatie is er immers !
+Beter ware het echter te streven naar iets van
+veel wijdere strekking: naar een internationale
+regeling op het gebied van dierentransport. Kr
+heei'scheii o]) dat terrein zeer ernstige misbruiken.
+die hoog noodig onder 't oog gezien moeten worden.
+Voorschriften, betreffende de eischen, waaraan het
+transport van levende dieren heeft te voldoen.
+moeten de beschaafde landen trachten gezamenlijk
+vast te stellen. Dat een psittacuse-infret ir ooit
+zulk. een uitbreiding heeft kunnen krijgen ligt
+m.i. in hoofdzaak aan de hoogst primitieve huis
+
+vesting en verzorging, die men voor de dieren nou
+goed genoeg viudt.
+Al heeft de mensch principieel gesproken on
+
+loochenbaar liet recht dieren, ook uit den wilden
+staat, te vangen en gevangen te houden, even zeker
+heeft hij de zedelijke plicht zijn levende eigendom
+zoo goed mogelijk te vei'/orgeii, geheel afgezien
+van het feit, dat zijn eigen, belang dit in den ri'gel
+meebrengt.
+Hiermee is de vinger op een wolideplek gelegd.
+Kr is in. ons land van. \vivenigingen ook t-ruc. naar
+ik geloof, iüe zich ten doel stelt algemeene wettelijke
+regelingen ter bescherming van het dier in 't leven
+te doen roepen. Zij kan heel zeker nuttig werk doen.
+Als de Amazonen-transporten uit /. Amerika
+behoorlijk verzorgd en verpakt moeten worden.
+is de kans op ernstige l'sittacost'-cpidemiën onder
+de vogels, en daarmee, zooals gebleken is. onder
+de menscheu al zeer gering.
+Kunstzaal van Lier
+Rokin 126 Amsterdam.
+Oostersche &amp; Europeesche antiquiteiten
+Oude en Moderne schilderijen en plastieken
+Negerkunst &amp; Ethnographica
+]\l i) i i l ief&lt;!e rooj' lni{ i'«!.' t'i'i'ti r&lt;nti,' &lt; &gt;\ /rott.s-^V&lt;M&gt;s/;r/f/,
+l//ƒ/( ctifltnnx'nt^tne ,^l ia1! i n li(n~\~ n ::ntiiler /t'fc&gt;f/'.
+Tkanx deel '//,' 'l lu&lt;tr in itffttfi: de dinfen &lt;ttx il\ bent
+Keil ldc'(t( in&lt;t&lt;n' r&lt;f.s( hedt'&lt;t&lt;l t'nnt' -v/&lt;/&lt;/ f'xc/fr &lt;/('&lt; ttxUHHt
+r(he'xi
+('d'1 n ei)1,'el ir o a tier en &lt;icc n &lt; 'n/,' Je ::»n.
+Heit ttutftr een uur i "i h&lt;trxtenxrolh' rreu&lt;t&lt;L
+l/C L'(»n en &lt;i&lt;i en teer/s en hen ferrre.
+GORDIJNSTOFFEN
+INDANTHREN
+LICHTECHT
+WASCHECHT
+TROPENECHT
+ZONBM
+
+</text>
+<image timestamp="2002:09:20:21:44:13.00" size="241470">000007TS.TIF</image>
+</page>
+</document>

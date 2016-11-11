@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010908</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na, 1263
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Het vijfent wintig-jarig bestaan van de Kon. Vereeniging Het Ned. Tooneel.
+De Verzoeningsprins en Wilhelm.
+
+(Fifchietto).
+Prins Tsjoen heeft in Duitschland tranen vergoten ter
+nagedachtenis van Von KeUeler. Wel een weinig laat
+maar dat verandert niets aan de waardigheid en grootheid
+van den Keizer.
+BABNUM en BAILEY (tot den Raad van Helieer): «Geachte kunstbroeders, wy wilden helen op uw feest niet ontb'eken. Gely'k gij nu 25 jaar, hebben wy 50 j tar
+gestreefd, eerst voor de kunstenaars en dan voor de kunst;... maar leert dit van ons: geen succes zonder reclame."
+Twee aan 't bod! (Fischietto).
+Voorbereidselen. (Hermans Paul in Figaro).
+En wat zal u doei als de dar komt, patroon 'i
+Om te beginnen, de prijzen verhiogen.
+Trans-atlantisch. (Noterellc).
+Kinderen dat je l ent! Galoof je niet dat ik in staat ben jelui
+allebei tevreden te stel'ea ?
+\
+De ware liefde is blind en wel zoodanig, dat de twee Amerikaansche
+republieken, vereenigd, niet zien hoe Uncle Sam zich meester maakt
+van het beste brood.
+De triomf van het Christendom.
+(£iinpli:isiimu$). Vrye vertaling.
+I.
+Tot Li Ho in 't Chineescha land
+Kwam 'n M^sionair met groot verstand,
+En sprak : Li Ho je moet je bekeeran,
+'k Zil 't KATHOLIEK GELOOF je leeren.
+Opdat ge, komt ge as te eterven,
+De Hamelvreugde kunt beerven.
+III.
+Toen kwam een derde Zend'ling aan,
+Met Li Ho's domheid zeer begaan.
+En sprak : 'k Zal 't GEIEKSCH GELOOP J3 leeren,
+Tot onze Kerk moet ge u bekeeren!
+Allén door dat, komt g' eens te sterven,
+Kunt g\j de Zaligheid beerven.
+II.
+Li Ho was bijna half bekeerd,
+Toen kwam een ander heel geleerd
+En sprak : Li Ha \i moet j^ bskeeren,
+'k Zal 't PKOTESÏANTSCH Gti.oob' J! leeren.
+Opdat ge, moet ge eenmaal sterven
+De vreugd des Hemels kunt beerven.
+IV.
+Toen trachtte ieder Missionair
+Li Ho te brengen tot den Haer.
+Ze trokken hem aan staart en ooren,
+Op zij, van» acht'ren en van voren,
+Intusschen scholden ze op elkaar;
+Li Ho werd boos, en vond dat ras r!
+Li Ho, die nooit bekeering vroeg,
+Z=ü: Danig % Heeren ! 't Is genoeg !
+Ik vind het lief van u, meneeren,
+Dat u zoo graag mij wilt bekeeren,
+Maar, daar de leeren met mekaar
+'t Niet eens zijn," is 't my ook niet k'aar.
+k blijf dus liever maar Boeddist,
+Dit 's beter dan 'n verenig Christ!
+NaUw bad Li Ho dit woord gesproken
+Of ;t ruziemaken was gebroken.
+Eenstemmig riepen zij terstond :
+Wat ondank van zoo'n vuilen hond !
+Li Ho werd boos, en, by de hand,
+Joeg hy het drietal uit zijn land!
+V L
+Dat vond de Eur&lt;;;, s; hèOri-fenbeid
+Een erg gemeer e, geuieenigheid,
+Ea om Li Ho beschaving te leeren,
+Kwamcii ze met FHhels, pistool en geweren.
+En R. hoteri en staken, in rianm van God,
+Li IIj en de zyren, eenvoudig kapot!
+
+En toen Li Ho dood was en neij°s begraven
+Gingen de Christenen weer anderen beschaven!
+
+
+</text>
+<image timestamp="2002:08:16:13:38:49.00" size="249707">D20011O.TIF</image>
+</page>
+</document>

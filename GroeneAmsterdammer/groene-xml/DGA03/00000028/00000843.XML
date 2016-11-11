@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300426</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+iANGS HOTELS
+K.AMEP:
+VOOP2IËN VAN ^10965
+TELEFOON EN WA OM S KOU D WATER
+O.ÖTRECHTSCinSSURmiE-MIJ.
+UTRECHT W Westerstraat 5
+,, ^ Ziekte- n
+Ongevallen
+#J'!'/v''Y e j,zek&lt;e-g«i.n gen
+s,,.1- .&gt;. y£ .ijk..» ' -' Vv -v " "" r, t\. .'..
+J*'^'1',^' f^"Jfi '\- j'-,'* i . .
+t j,»' *?i, -, •*&amp; ' r t
+• ^•^/••^
+TOONZALEN
+AUG. 1LKEMA
+
+BAROMETERS
+ven fl. 5.-p- tot
+' # 50.
+
+leguliersbreestraat 3
+LANDGOED BIRKHOVEN
+.. - , BIJ A9UJB8FOO.BT
+
+HOTEL PENSION-RESTAURANT
+100 H.A. JBOSGIf.
+Doom TELEFOON iss Hotel Cecll"
+T
+.
+. j -|,o|^es Ontbijt , f 3.—Pension vanai if5.
+Stroomend fcouf en warnf wjiter, met Cf NTRALE' VERWARIWJNO
+op alle kamefs. firachtig en rflstig gelegen middenin het Bosch, schitterend
+natnurschoon met ruime frissche kamers.
+Garage 2 minuten van tram. ? C. Lammers van Toorenbufg.
+
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Mccrdcrvoort 12 - DEN HAAG - Tel 12869
+A. van Kempen
+WIJNHANDEL '
+' i«v '
+Anaterdaa
+«t» ~
+Prinsengratht 975
+HOTEI/RESTAÜBAMT
+
+HÉT HEERENLOGEMENT
+
+VÈLP bij ARNHEM
+
+Centraal verwarmd. Stroomend warm en koud water. Priv
+badkamers. Autogarage met aparte Boxen, ook centraal
+verwarmd en electrisch verlicht Teleph. Arnhem 98 en
+Velp 722. , . B. BEIJER.
+• HOTEL RESTAURANT ,,DE
+, WAOENINOSCHE BERG" tel 33.
+Stroomend koud en warm water. Rijn-terras.
+lilHl* MHM T AA. B AD-HOTEL (Tel. 3006)
+Wij K,ï|arl 4»ee : ZEE-DEPENDANCE mi. soos)
+1 * ^Stroomend koud- en warm water op alle kamers.
+HOTEL D'ORANGE (Tel. 1)
+HOTEL DRIEHUIZEN (Tel. 11)
+Stroomend koud- en warm water op alle kamers.
+
+</text>
+<image timestamp="2002:09:21:12:53:22.00" size="680743">00000843.TIF</image>
+</page>
+</document>

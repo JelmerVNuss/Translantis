@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060902</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het geschenk der vijf Oranje-beeldjes van Keizer Wilhelm op 31 Augustus.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 2 September 1906.
+NKD. MAAC.D (tot keizer Wilhelm]: Och U denkt ook altijd aan me.
+ik maar waarmee ik U ook eens pleizieren kon. . . .
+JOHN Rui.L (tot Marianne}: Hij is toch altijd bij de pinken, hè?
+U weet niet hoe uw belangstelling me weer goed doet. .
+Amst. Koek- en Sleendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+. Wist
+
+</text>
+<image timestamp="2002:08:11:02:56:31.00" size="279968">000000HG.TIF</image>
+</page>
+</document>

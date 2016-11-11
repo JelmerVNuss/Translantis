@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301213</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De cacaodrank.
+Wordt gedronken met melk off spuitwater.
+DEKKLEEDEN
+sterk, soepel en
+waterdicht te
+huur en te koop.
+Oliegoed uit voorraad.
+
+ZEI LI HCA
+AMSTERDAM
+Pr. Hendrikkade 120. Tel. 41709-4O717
+Wed.H.RAHDERSZn,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+•«" 's-Gravenhage «*»•
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIÊN
+HoOjveruicfera
+iiwiHiiuiBiiinnnifflimiiiimniraimmmnimüiimmnnnuiiimTOninminmnimniimmniminimiininnn
+VHERTOGENBOSCH
+HOTEL GOUDEN LEEUW"
+(GROTENHUIS)
+Electr. Licht - Centr. Verw. - Stroomend water. P. G. BAARS
+jiNimiiiiiiiiiiiiuiiimwHiuinimuiiiiiuiuiituaiiuiiiiiuiJiiiiiiiiiiiiiuiiiiiiminiiiiiiiiiiiniiiiiiiiiiiuiiiiiuiuiiiiua
+VHERTOGENBOSCH
+ORANJE HOTEL
+Familie'HuiB
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaorant
+Telefoon '200
+GEBR. BADBMAKBB
+Hotel - Pension -Café-Restaurant
+'T JACHTHUIS" -.Prane.
+WARNSVELD (Telefoon 226 ZUTPHEN)
+In onmiddellijke nabijheid der bosschen, uitgebreid en naar alle eischen dei
+Ulds Ingericht. Groot* serre, waranda's en tuin met pracht uitzicht. Tennis
+
+baan. Garage. Aanbevelend, W. T. GROENHOF.
+N.V. D* Hogenbirk 6 Zoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabridb Spaamdanunerwcg (SCHOTEN), TeL 1442
+Constructie-werkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen.
+Kolommen, Reservoirs, enz.
+GOEDEWAAGEN'S
+^ KROONPIJPÏN
+U CISLOTEN DOOZEN
+VAN 6 STUKS
+MOBACO
+Zeer Wrrijk ca mderkmdoMi SpedfM
+«53,*- N. V. BOSCa HONIG ft Co,
+DOMSTRAAT 6 - UTRECHT
+Te DEN BOSCH verkrijgbaar bij:
+O. van Booy, Vnchterstiaat.
+!• IHDlE TtifcriJckMt M|:
+Toko Onderling* Hulp, Weltevreden.
+INDIE
+WIJ LEVEREN COM
+
+PLETE UITRUSTINGEN
+ALLE
+PALMBEACHCOSTUUMS WORDEN
+NAAR MAAT GEMAAKT
+ONZE GEILLUSTR.
+CATALOGUS WORDT
+OP AANVRAAG
+TOEGEZONDEN
+ZONDER EENIGE VER
+
+PLICHTING VERSTREKKEN
+WIJ ALLE GEWENSCHTE
+INLICHTINGEN
+AMSTERDAM DEN HAAG
+HUIB SLAGER
+Tolhuislaan 71a
+ROTTERDAM
+bindt Uw boeken en jaargangen
+keurig en billijk in
+van f 1.25 af per boek
+Houbaenllos 2% «L
+Sigaren . . S «^
+Met bons voor fraaki
+geschenken
+HOUBAfC • Ok
+BEGRAFENIS OHDERNEMItlG
+TS£" &amp;.KÜMIMG. JFV^r
+MIEl/Wt SPIEBtLSTMAT frl
+BttRArtnlSatn fWARAlLtPUATSEM
+CREMATIE.
+A U G. UILKEIYIA
+GROOTSTE HORLOGE MAG,
+Zilver n. 8 tot 40
+Goud 16 250
+Brillant 60 585
+Stopwatch 12 60
+Sport Horl. 25 28
+Reguliersbreestraat 39
+VAN RIJN S
+KMOSTERC
+Zoo juist
+verschenen:
+NEOPHiLOLOGUS
+Driemaandeliks tijdschrift voorde
+wet-nschappelike beoefening van
+levende vreemde talen en van hun
+letterkunde en voor de studie van
+de klassieke talen in hun verband
+met de moderne
+Onder redaktie van
+Prof. Dr. J. J. Salverda de
+Grave, Prof. K. R. Gallas,
+Prof. Dr. A. G. van Hamel,
+Prof. Dr. D. C. Hesseling,
+Prof. Dr. J. H. Scholte, Mgr.
+Prof. Dr. Jos. Schrijnen, Prof.
+Dr, K. Sneyders de Vogel,
+Prof. Dr.A. E.H.Swaen
+Sekretaris der redaktie
+Prof. K. R. Gallas
+ZESTIENDE JAARGANG
+EERSTE AFLEVERING
+Prijs per jaargang f 8,40
+franko per post . - 8,75
+UITGAVE VAN
+J.B.WOLTERS
+GRONINGEN - DEN HAAG
+Wia de Rook
+Gediplomeerd
+Piano-onderwijzeres
+Molenbeekstraat 25
+AMSTERDAM Z.
+
+</text>
+<image timestamp="2002:09:26:11:24:09.00" size="147030">000009SX.TIF</image>
+</page>
+</document>

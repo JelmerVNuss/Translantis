@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151024</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+24 Oct. '15. No. 2000
+
+
+
+
+
+v
+v
+v/
+s/
+s&gt;
+
+
+
+#
+
+
+Geeft Uw kinderen
+' «r^ jf^ «r^F
+*
+op den boterham.
+In BUSSEN van
+10
+K.G.
+i
+ƒ0.18
+0.425
+0.80
+1.50
+met tijdelijk 20 pCt.
+verhooging.
+Overal verkrijgbaar.
+Eenige fabrikante:
+Naamlooze Vennootschap
+
+CACAO- en CHOCOLADEFABRIEK ALCMARIA"
+ALKMAAR.
+Vraagt nog heden offerte van gegarandeerd zuivere Cacaopoeder in bussen en vaten.
+i/.
+
+
+v/
+v/
+#
+
+
+l
+
+
+
+
+&amp;
+
+t\
+
+&amp;
+\ ^^. ^^&gt; ^^&gt; ^^ ^^ ^^&gt; ^i^&gt; ^iw^ ^^o ^S^ ^k^ &gt;^&gt; ^^.^^b 3r^"#r^ JT^ JT^ JT^ JT^ *r^ j?^ •#^r~jr*
+
+
+</text>
+<image timestamp="2002:08:21:21:45:01.00" size="95530">D40001ZX.TIF</image>
+</page>
+</document>

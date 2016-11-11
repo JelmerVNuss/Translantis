@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260403</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2548
+HOTEL CAFÉ-RESTAURANT
+HET WAPEN VAN ZEIST" ZEIST
+Tel. 792
+Slotlaan hoek Stationsplein.
+Ruime frissche kamers. Stroomend water.
+Pensionprijs vanaf 6 F 1. per dag. P. BR AND.
+.
+f/^^Y/^Y/^Y/^V/^V/^Y/^Y/r^Y^^Y^^^
+\
+\ l
+l l
+&lt; £
+
+1
+
+
+t
+t '
+
+
+
+'l
+
+l
+U
+f?\ x^~7 S^~~\ f
+///r* * / /J * / V
+
+Jjureau. voer vinnenarc/iitecluur.
+l l
+i l
+! j
+i)
+i l
+l
+t «
+5 l
+i
+! i
+s ^
+l
+j
+i
+l
+i l
+l l
+V^^W»/^
+\j^te^r^-\
+
+
+j&amp;Z^f^vf^ff^/T^-ïj-?^
+LINGERIEHANDEL
+
+JACOBSON 6 MANUS
+(Eenig Firmant P H. MANU S)
+Tijdelijk Weesperzijde 105, A'dam
+O E D ^
+6
+O E D K O O P
+ALS
+EEN ANDER
+7« c
+Handdoeken zuiver linnen * -'
+50 c
+Lakens 150 295 1 9 75
+Huishouddoeken
+is 150 295
+Pa. Graslinnen
+
+Indische Lakens 220 250
+
+Sloopen Pil
+FL 5.90
+85 c
+F'1. Damast/ratellakei\s
+
+Ser\'etten
+Vingerdoekjes
+Waschechte l
+Theekleeden
+(Indanthren) )
+Huvvelijksuitzet ivnn
+geheel compleetN ui
+FL 3.
+75 c
+271/, c
+FL
+00
+Uitsluitend gegarandeerde Kwaliteiten
+Vraagt Prijscourant en Zichtzending
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+Linnenmanden
+Een anker \VIJN is een goede en zeker een
+buitengewoon aangename geldbelegging. Mits Uw
+keuze met zorg gedaan is, zult ge den wijn bij
+toenemenden ouderdom in waarde zien vermeerderen.
+Het drinken van een flesch van zulk een wijn zal U
+telkens weer een oogenblik van groote voldoening
+geven.
+
+Kies daartoe uit onderstaande merken.
+BORDEAUX-WIJNEN
+Per F.
+Medoc
+Palus de Medoc
+Fronsac
+St. Estèphe Medoc
+St. Julien Medoc
+La Rose Ludon
+Medoc Supérieur
+Dulamon Blanquetort
+St. Emilion
+La Rose St. Julien, Medoc
+Duranteau Chateau des 3 Moulins
+Pomics Agassac Ludon
+Chateau Cantemerle
+
+Chateau Malleret	/ 1.75
+per anker van 45 H. slechts / 74.50
+Netto a contant.
+Verkrijgbaar in onze bekende Depots van Wijnen
+Bij 12 flesschen 5 pCt. Korting
+WIJNHANDEL
+FERWERDA6TIEMAN
+B B
+a a n
+a a
+R. L. EL ZIN G A's
+
+Tapijt- en Meubelhandel
+UTRECHTSCHESTRAAT 62-64
+C O M M E L I N S T R A A T 62-64
+HALMAHEIRASTRAAT 2-4
+hoek I N S LI L I N D E W E G
+====s AMSTERDAM
+\OOK Hl', F VOOK.J AAR :
+l it g o h r e i (l e sorteerinji
+LINOLEUMS
+KARPETTEN
+T A P IJ T E N
+L O O P E R S
+GORDIJNSTOFFEN
+
+</text>
+<image timestamp="2002:09:25:07:06:51.00" size="151289">D10007GM.TIF</image>
+</page>
+</document>

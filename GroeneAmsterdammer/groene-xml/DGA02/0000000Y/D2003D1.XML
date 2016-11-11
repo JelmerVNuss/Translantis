@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240301</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2437
+Nieuwe Fransche Boeken
+
+ANDRÉSUARÈS
+
+Les bourdons sont en fleur, 1917
+Poète tragique, portrait de Prospéro, 1921
+Debussy, 1922
+Puissances de Pascal, 1923
+Xénies, 1923
+(alle bij Emile-Paul frères)
+
+Alle dagen kennis te maken, door lectuur van
+dagbladen en tijdschriften, met tot nu toe onbekend
+en onbemind gebleven genieën, met zooeven ont
+
+dekte meesters-van-het-oogenblik, met door
+Akademies bekroonde en door hun uitgevers hoog ge
+
+prezen vertegenwoordigers der jeugdigste jeugd,
+wil op den duur wel eens vermoeien, in het bij
+
+zonder wanneer men bij al de ontzaglijk vele jon
+
+gelieden die in Frankrijk weer schrijven meer
+vaardigheid en knapheid, meer wil om er te ko
+
+men aantreft dan oorspronkelijke zienswijs, dan
+eigen geluid, dan gemoed en menschelijkheid
+vooral.
+Ik heb mij de stille vreugde gegund, in de on
+
+bestemde uren van een plichtloozen avond, bij
+het zachtstralend lamplicht, een klein drama van
+AndréSuarès te herlezen, een werkje dat ik al in
+1917 van hem mocht ontvangen. Het heet Les bour
+
+dons sont en fleur („de pelgrimsstaven bloeien") en
+het is, op dik, ruischend papier met scherpe roode
+en diepzwarte letters gedrukt,.indertijd versche
+
+nen bij MILE PAVL FRÈRES, L1BRAIRES,
+A V .FAVBOVRG SAINT HONORÉ, PROCHE
+L'ÉLYSÉE". Aan AndréSuarès denk ik al jaren 1)
+en als ik zeg dat het met gemengde gevoelens ge
+
+schied, moet men dit opvatten in den woordelijken
+zin: een groote genegenheid voor dezen
+dichtercriticus is bij mij slechts gemengd met een heel
+gering, een heel flauw zweempje van tegenzin in
+enkele eigenaardigheden van zijn schrijftrant. De
+lezing van dit eenvoudig boekje is mij een puur en
+edel genot geweest, omdat mijn weinige bezwaren
+dezen keer geheel moesten zwijgen. Eerst viel mij
+de overgaaf moeilijk; het ging over Franciscus van
+Assisi, die een gesprek voerde met nonnen, dat
+was duidelijk; maar men zag hen nog niet in hun
+eigenheid. Toen begonnen de gestalten vorm aan
+te nemen. Zuster Claire voedt een heimelijke en
+van haarzelf misschien ongeweten liefde voor den
+zoeten prediker; deze moet op reis; het smart
+haar. De taal die zij sprak onderscheidde zich tel
+
+kens klaarder van die der andere zuster; Francis
+
+cus' woorden engebaren deden den albeminnenden
+dichter-kloosterling der geschiedenis voor mij op
+
+staan, en de goedgeloovige, ruwe frater Junipère
+liep bonkig en hoekig voor mij uit. Hun aller taal
+was de beeldende, maar eenvoudige taal die zij
+spreken moesten in de rol die God hun ter vervul
+
+ling had gegeven. En ik begreep meer; een inzicht
+werd mij geschonken, al scherper, al helderder, bij
+een aanwakkerend licht: ja, dit was het, daarom
+had Suarès het geschreven: Franciscus zelf heeft
+lief. Heerlijk spreekt hij over de vrouwen straks
+schrijf ik het u over maar is het niet veelzeggend
+dat een monnik haar zoo prijst? Zijn metgezel fra
+Silvestre laat niet na te grommen. Ja, het was
+veelbeteekenend, Franciscus heeft haar lief, zpoals hij
+alles liefheeft, en iedereen. Hij onderscheidt niet,
+geen goed en kwaad, het heilzame niet van wat ons
+ten eeuwigen verderve moet leiden, het aardsche
+niet van het hemelsche	misschien, o zelfs
+misschien niet God van de wereld. Hij heeft de
+wereld te lief, ziet haar geheel en al van God door
+
+straald, en God overal in haar werkzaam.Francis
+
+cus is	pantheïst, zonder het te weten, zonder
+het woord te kennen, vermoedelijk; en mocht hij
+het kennen, hij zou er van gruwen. Maar ook zoo
+reeds verontrust hem zijn zelf. Hij gevoelt zich
+zwak en verward. Een stervende die naar hem ge
+
+vraagd heeft laat hij wachten. Zelfverwijt pijnigt
+hem. Hij beseft vaaglijk dat ze hem niet veroor
+
+loofd.is, deze zalige vreugde om alles, om het groei
+
+ende gras, om de vluchtende wolken, om den min
+
+naar die zijn liefje gaat omhelzen. Hij zou willen
+kiezen, hij zou moeten kiezen, en het moest God
+zijn. Een ander verdriet nog kwelt hem: hoezeer
+hij de schepping lief heeft, zelf gaat hij er niet in
+op. Ook zichzelf heeft hij lief, maar als iets
+afzonderlijks, iets kostbaars: schrijnende marteling,
+verwarrende zelftegenspraak. Hélas,
+souffrirezvous toujours, mon coeur, amoureux comme vous
+tes, de vous sentir encore vous-même, et de n'être
+point tout ce que vous aimez?" Daarom kreunt hij:
+omdat hij God niet meer, en zichzelf nog te duide
+
+lijk onderscheidt, hij die zich had willen verzaken
+ten bate van God.
+Dan verschijnt, ontroerend, ontzaglijk o wel
+gevoelde ikzelf, dien stillen avond,ontzag en schrik,
+of de verschijning mij gold. : Ie Voyageur".
+Tout désormais doit tre dit sur un ton de gravit
+profonde". Francais: Qui tes-vous, Seigneur?
+.—Le Voyageur: Tu me C9nnais". De Reiziger,
+
+1) Vgl. dit Weekblad, 11 Mei 1918.
+men begrijpt het, is Christus. Hij spreekt Franciscus
+vrij. Hij zal hem bijstaan; hij neemt den dwalende
+aan zijn hart. De pelgrimsstaven bloeien
+De geloovige kan dit genieten als een heilig
+spel van verheven waarheid. De ongeloovige onder
+
+gaat het met geen minder eerbied, geen minder
+ontroering: mits hij ontvankelijk is voor schoon
+
+heid, vergeet hij zijn ongeloof zoolang hij dit drama
+leest. Al ziet ons dagelijksch verstand in het
+gansche christendom nog maar een heerlijken droom
+dien de menschheid eens gedroomd heeft, en waar
+
+uit wij huiverend ontwaakt zijn een hooger
+besef, door Schoonheid gewekt, leert ons dat Chris
+
+tus-als-symbool een soort van waarachtigheid be
+
+zit die alle verstandelijk inzicht verre te boven
+gaat.
+Den geloovigen lezer moet evenwel, in het belang
+zijner aesthetische genieting, toegewenscht worden
+dat hij nooit verneemt wat intusschen aan geen
+twijfel onderhevig is dat Suarès hier een lyrisch
+gedicht heeft geleverd, een geschrift waarvoor
+zijn eigen gemoeds-en geestesleven het voornaamste
+bestanddeel verschaft heeft. De dor schijnende
+wiskunde-taal, waarin men gehouden is te zeggen:
+dat de albeminner Franciscus Suarès is;
+datFranciscus' smart en verwarring de smart en de ver
+
+warring zijn van Suarès, wiens individualistische
+natuur strijdt om het individualisme te boven te
+komen, maar die telkens blijkt te zeer aan zichzelf
+te hechten en te moeten hechten omdat hij kunste
+
+naar is; dat de Reiziger het symbool is van de
+zekerheden des gelooïs, waarnaar Suarès zijn
+leven lang vruchteloos gehaakt heeft deze taal
+zou den gewonen geloovige, die zijn godsdienst
+letterlijk opvat, door vorm en inhoud storen, hem
+teleurstelling berokkenen en misschien eenige
+geringschatting inboezemen voor den dichter. Op
+mij heeft zij die uitwerking niet; integendeel. Ik
+zie hier de tragische worsteling van een ziel die en
+zichzelf wil opgeven, en uit de relativiteit der
+wereld omhoog wil stijgen naar het Absolute, naar
+God, maar aan wie deze gunsten onthouden blijven
+omdat geen ziel op aarde ooit uit het relatieve, het
+subjectieve bevrijd wordt tenzij dan tijdelijk:
+door schoonheidsbeleving. Op voorwaarde dat
+schoonheid" hier worde begrepen, niet als fraai
+
+heid van vorm, maar als een hoogere, als de
+hoogste entiteit, die goedheid en waarheid omvat.
+Om van deze beschouwingen terug te keeren tot
+het drama zelf, citeer ik de uiting van Franciscus
+over de vrouwen, waarop ik zooeven doelde: Ce
+sont nos mères. Elles gardent Ie cceur de l'enfant
+qui se fait triste parce qu'il grandit, et qui veut se
+réjouir parce qu'il ignore sacroissance.Au jour que
+nous sommes nes, nous avons tétirés d'elles par
+une douleur tres amère. Et elles qui sont de chair
+plus que nous, a cette douleur elles riaient.il nous
+faut les bercer, mon frère, pour tout Ie sommeil
+que nous leur avons óté. Voyez comme elles sont
+simples et candides: ce que leur bouche ne veut
+pas avouer est dans leurs yeux une parole claire.
+Je vous dis qu'elles aiment et ne cessent jamais
+d'aimer. Ainsi elles servent sans effort, et trouvent
+Dieu sans y penser. Comme elles, qui souffre Ie
+mal? Qui soigne les malades? qui les veille? qui
+les baigne? qui les console? Qui loigne la mort?
+Qui panse les plaies? Elles ont pour les blessures
+des mains suaves comme des lèvres. Qui rafraichit
+Ie front des fiévreux? Et qui, les doigts légers,
+bande sans les rouvrir les coetirs blessés?"
+Slechts in schijn dce ik de andere hierboven ver
+
+melde boeken onrecht wanneer ik er nog maar
+weinig over zeg. In Les bourdons sont en fleur
+staat Suarès ten voeten uit. Wie dit drama be
+
+grijpt, begrijpt al zijn werk: het grootsche opstel
+over Pascal in Trois hommes dat in Nederland,
+o.a. door toedoen van Dirk Coster, zoo beroemde
+boek is door geen andere gemoedsbewegingen
+ingegeven dan die hierboven, naar ik hoop,
+voelbaar werden gemaakt. Ook ontmoet men weer
+in deze Puissances de Pascal de prachtige drama
+
+tische kracht van daareven, en wel op twee plaat
+
+sen: inden aanvang van het gesprek met Pascal",
+waar de lezer ongemerkt in de stemming gebracht
+wordt die hem de gedachte van een dialoog tusschen
+den grooten denker der 17e eeuw en den nog le
+
+venden Suarès doet aanvaarden; en later, als Pas
+
+cal van Suarès moet vernemen dat de onpartijdige
+wetenschap van onzen tijd het geloof aan de Open
+
+baring, aan de betrouwbaarheid van de Bijbelsche
+verhalen wel zeer bezwaarlijk heeft gemaakt.Suarès
+ontneemt Pascal daarmee zijn eenige bewijs" en
+doet het op zulk een tegelijk waardigen en
+smartelijken toon dat wij.... medelijden gevoelen met
+Pascal, en ook met Suarès zelf. Hij heft in een
+hooge sfeer wat anders licht tot min of meer nij
+
+dige discussie ontaardt, omdat hij in een hooge
+sfeer leeft en niets verder van hem af is dan
+antiLAAT UWE CENTRALE VERWARMING
+EN BIJKOMENDE INSTALLATIES
+AANLEGGEN DOOR
+
+DEKON FABR.F.W.BRAAT-DELFT
+.ENGE ZULT TEVREDEN ZIJN.
+christelijke argumentatie. Je suis Pascal sans
+Jésus-Christ" heeft hij zelf vroeger gezegd.
+Alzijdige liefde voor het leven, als die van Fran
+
+ciscus; een eeredienst voor de schoonheid, eenige
+rots in de zee van het relatieve; ziedaar de beide
+bronnen waaruit ook het groote werk over
+Shakespeare dat hij Poet', tragique getiteld heeft, en het
+kleine fijne boekje over Debussy gevloeid zijn. Geen
+vertoon van geleerdheid, geen verdediging van
+theorieën had Suarès hier op het oog; hij wilde
+genegenheid uiten, ontzag vertolken en.... eens
+te meer zich redden van een immer weerkeerende
+• vertwijfeling, zich redden op het eiland der schoon
+
+heid.
+Gebrek aan competentie verbiedt mij de beoor
+
+deeling van Shakespeare en Debussy aan een onder
+
+scheidende studie te onderwerpen; maar ik mag
+wijzen op Suarès' deugden, ook hier: zijn zin voor
+fijne schakeeringen, zijn diep begrip van het dich
+
+terlijke, zijn liefde voor maat en gratie, zijn kennis
+van het menschelijk zieleleven. Ik mag raden tot
+kennismaking met het sprekend portret van den
+persoon Debussy dat Suarès aan het eind van zijn
+sober-weelderig uitgegeven boekje ontwerpt. Ge
+
+brek aan deskundigheid ook verhindert mij na te
+gaan of Pascal inderdaad beschouwd mag worden
+als een voorlooper van Bergson, en deze als de
+voorbereider eener toekomstige samensmelting
+van de wiskunde met de metaphysica: ik vestig
+slechts de aandacht van meer bevoegden op deze
+meeningen van den niet alleen dichterlijken en
+critisch-begaafden, maar ook zeer geleerden Suarès.
+Xénies tenslotte is een bundel critieken en korte
+beschouwingen. Xenia, geschenken: schoone titel
+voor critieken, en die verduidelijkt wordt door het
+voorop geplaatste distichon:
+A l'exemple de Gcethe, il faut fai re a l'esprit
+Des présents imprévus d'amour et d'ironie.
+
+
+Indien men zich bij ieder geschrift van Suarès
+zijn levensliefde, zijn schoonheidscultus en zijn
+heimwee naar de religieuse zekerheid behoort te
+herinneren bij de beoordeeling van zijn critieken
+moet bovendien bedacht worden dat hij, de aan
+
+hanger van Bergson, de intuïtie opvat als den
+hoogsten staat der kennis, als een geestesstaat
+waarin noch gevoel alleen, noch uitsluitend logisch
+verstand, maar beide in een hoogere eenheid werk
+
+zaam zijn. Het leven.dat hij zoo lief heeft, beschouwt
+hij niet als iets materiëels maar als een ideëele werke
+
+lijkheid, die slechts door intuïtie, door
+rechtstreeksche inschouwing, gekend kan worden, en
+zoo is deze ook onmisbaar bij de beoordeeling
+van kunst, die immers van het leven niet te schei
+
+den is. De aanwending van de gave der intuïtie,
+die Suarès in hooge mate bezit, maakt zijn critie
+
+ken tegelijk persoonlijk en betrouwbaar; weinigen
+zullen zonder vrucht lezen wat hij hier schrijft over
+Marcus Aurelius, Victor Hugo, Lesage, Carlyle,
+Labruyère, Stendhal, Horatius, Flaubert; over de
+muziek; over schildersmentaliteit; over het voor
+
+oordeel als zou verfijning gelijk staan met leugen
+
+achtigheid en onzedelijkheid; over de critiek,
+die bestaat in Ie don d'imaginer d'autres vies que
+la sienne"; over den goeden criticus die nooit op
+
+houdt te leeren, moreele gemeenplaatsen schuwt,
+concessies weigert aan het altijd bekrompen ge
+
+zond verstand".
+De naam Suarès zou luider klinken in de wereld,
+als hij niet af en toe duister en willekeurig was, als
+hij, vooral vroeger, met meer zorg gewaakt had
+tegen het insluipen van al te vage uitspraken in
+zijn sonore en gedragen proza, als hij niet een-paar
+keeren, maar toch te dikwijls, toegegeven had aan
+den eigenzinnigen lust om zonderlinge verzen van
+zijn maaksel te doen afdrukken. Evenwel, in een
+reeds lang leven is hij zienderoogen fijner geworden,
+zuiverder, minder hoovaardig. Zijn fouten zijn in
+deze laatste boeken, die een veel grooter vermaard
+
+heid verdienden, nauwelijks meer aanwezig, mis
+
+schien nog alleen een enkele maal in Xénies.
+Het zou schade zijn voorde menschheid als Suarès'
+tekortkomingenhaarblind maakten voorde kracht,
+de grootheid van zijn geest, voor zijn zoo ongemeen
+zieleleven, voor zijn indrukwekkend kunstenaar
+
+schap. Men moet hem redden uit de gevaren die hij
+zichzelf bereid heeft, en dit opstel is daartoe een
+bescheiden poging te meer.
+
+JO HANNES TlELROOY
+
+</text>
+<image timestamp="2002:09:03:02:28:54.00" size="265519">D2003D1.TIF</image>
+</page>
+</document>

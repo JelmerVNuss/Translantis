@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991015</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Twee fantasiën over den afloop van den oorlog.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 15 October
+Uit Punch". Oom Paul-ion Boer-naparte aan boord van de Highbury-Castle op weg naar St. Joseph of een ander afgelegen oord, aangewezen
+door den Minister van Koloniën (met nederige dankbetuiging aan den schilder W. Q. Ordchardson R. A.).
+Arnst. Boek- en Steendmkkerii, v/h. Ellerman, Harrns &amp; Co.
+Joseph Chamberlain-Bonaparte op zijn terugtocht uit Zuid-Afrika in gezelschap van zijn staf (met nederige dankbetuiging aan den schilde'- Meissonmer).
+
+</text>
+<image timestamp="2002:08:13:18:53:58.00" size="420563">D20008E.TIF</image>
+</page>
+</document>

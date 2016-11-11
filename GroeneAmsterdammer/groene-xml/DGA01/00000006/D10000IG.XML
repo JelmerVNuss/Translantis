@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040911</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+B1.1VOF.OSEI. van &lt;\e Amsterrtammer. Weekblad voor Nederland van n September 1904.
+De taalstrijd in België.
+Arast. Boek- ea .Steendrukkerij. v/Yi. Ellerman. Harms £ Co.
+DE VLAAMSCHK MAAGD: O, Koning, doe ons eindelijk recht.' Geef' ons een Universiteit, wilt Ge niet, dat mijn Leeuw zijn
+tanden zal laten zien..."
+KONING LEOPOLD : (Jzv Leeuw, die zich al zeventig jaar op zijn staart laat trappen . .. ?"
+
+</text>
+<image timestamp="2002:08:15:20:22:11.00" size="319731">D10000IG.TIF</image>
+</page>
+</document>

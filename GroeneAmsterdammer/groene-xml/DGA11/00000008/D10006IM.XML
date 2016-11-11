@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270528</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+fr'
+•
+DE GROENE AMSTERDAMMER VAN 28 MEI 1927
+No. 260*
+De Organisatie van Wetenschap en Techniek
+door Prof. Dr. L. S. ORNSTEIN
+HOTEL DES PAYS-BAS
+Wagenstraat 102 DEN HAAG.
+Rust. familielid tel. K- en w. str. w. op alle kam.
+Vraag onze tarieven. Aanbev. J. M. v. d. SANDE.
+de commissie-Went uit de. Kon. Acad.
+v. Wetensch. als het Technische Econom. Ge
+
+nootschap, de Vereen, v. Direct, v. Electrische
+Centrales en sommige industrieelen en
+Vereenigingen van industrieelen hebben zich in den
+laatsten tijd verdienstelijk gemaakt door te streven
+naar contact tusschen wetenschap en techniek.
+Welk ook ons sociaal, economisch of politiek
+standpunt moge zijn, allen kunnen wij de stelling
+toegeven dat wij naar een zoo hoog mogelijk nuttig
+effect van den arbeid in de gemeenschap moeten
+streven. Dit effect is alleen te verkrijgen door
+organische samenwerking van de krachten waar
+
+over wij beschikken. Het is dan ook een feit dat
+ons verheugen kan "dat de verschillende
+pogjngen, daartoe niet geheel los van elkaar ge
+
+schieden en dat er naar gestreefd wordt den
+organisatorischen vorm zooveel mogelijk analoog
+te kiezen. Over deze zaken moge een ander maal
+uitvoeriger gesproken worden; thans wilde ik de
+aandacht vestigen op een. probleem, dat met de
+taak der wetenschap in deze samenwerking in ;
+verbanfl staat. ' '•;.'.. :
+Indien toch de samenwerking van de krachten
+Waarover ons vaderland beschikt, gezocht wordt,
+moet ongetwijfeld onze wetenschap en hare voor
+
+naamste draagster, déUniversiteit, er in betrokken
+wprden. Ik heb bij de opening van het niéuwe
+Physisch Laboratorium der Rijks Universiteit te
+Utrecht op 9 Februari 1926 hierop den nadruk
+gelegd.
+De taak van het Universiteitslaboratorium is ge
+
+legen in de beoefening der zuivere wetenschap,in het
+onderwijs. Maar daarnaast moeten de problemen die
+de techniek aan de wetenschap te stellen heeft een
+ruime plaats in het werkprogramma van een
+Laboratorium innemen. Hiervoor zijn tweeërlei
+argumenten aan te voeren. Eenerzijds is het belang
+van de techniek, anderzijds het belang der Univer
+
+siteit hier de drijfveer.
+De Universiteit leidt jaarlijks een aantal jonge
+menschen op tot wetenschappelijk werk. Daaronder
+is in elk'jaar een aantal van meer dah gewone
+begaafdheid en lust tot onderzoek. Voor deze
+menschen moét een afzetgebied gevonden worden,
+waarin zij hunne gaven.kunnen ontplooien; het is
+oneconomisch deze krachten, nadat zij de Univer
+
+siteit verlaten hebbep, werk te laten verrichten,
+waarin weinig van wat zij aan de Alma Mater '
+genoten en geleerd hebben toegepast wordt of tot
+zijn recht kan komen.
+Een groot deel der, leerlingen van de Wis- en
+Natuurkundige faculteit is voor het onderwijs be
+
+stemd ; de studenten die zich laten inschrijven kun
+
+nen zich meestal geen rekenschap geven of zij hier
+
+voor geschikt zijn en men ondervindt heel vaak dat
+de genoemde jongelieden noch door paedagogischen
+aanleg, noch door belangstelling in de jeugd uit
+
+blinken, wat hen voor de zoo belangrijke taak in
+het onderwijs ongeschikt maakt. Deze jonge
+krachten moeten bestemd worden voor het weten
+
+schappelijk werk in de laboratoria, fabrieken en in
+het bedrijf. Doch wil het mogelijk zijn hen daartoe
+op te leiden, dan moet de sfeer van het Univer
+
+siteitslaboratorium jiiet vreemd zijn aan die der
+techniek.
+Ook voor die studenten, die in de toekomst de
+natuurwetenschappen zullen doceeren, is dit
+gegewenscht. De taak der natuurwetenschap is cul
+
+tureel en technisch, hare lecide zijden moeten af
+
+stralen op het onderwijs, wil dit zijn taak vervullen
+onze kinderen in te leiden in de gemeenschap.
+Daarbij is krachtig er voor te waken, dat de
+Universiteit zuiver wetenschappelijk blijve, niet
+een slechte copie eener Technische Hoogeschool
+worde. Zij is juist door haar karakter van opleiding
+tot objectief wetenschappelijk onderzoek geschikt
+die krachten af te leveren, die minder geschikt
+voortgebracht kunnen worden door de Technische
+Hoogeschool, welke zich mijns inziens dient te
+beperken tot de opleiding van ingenieurs en er
+evenmin naar moet streven een copie van de
+Universiteit te worden, als omgekeerd.
+Doch ook om de wetenschap zelve moet dit
+contact van belang geacht worden. In de eerste
+plaats komt zij hierdoor systematisch in aanraking
+met de werkmethoden, die in de techniek uitge
+
+werkt zijn. In de tweede plaats heeft deze gelegen
+
+heid Imar problemen te stellen; dit is van zeer
+groot gewicht. Geboren uit de poging de natuur ter
+wille van de gemeenschap te beheerschen, heeft zij
+zich losgemaakt en is tot zuiver natuur-verklaren
+gegroeid. Deze ontwikkeling is noodzakelijk ge
+
+weest, doch niet zonder gevaar. Eenzijdige belang
+
+stelling voor bepaalde problemen in bepaald tijds
+
+gewricht, verstarren tot formalisme, zijn de keer
+
+zijde van den ontwikkelingsgang; evenals de na
+
+tuurkunde zich losmaakte van de toepassing,
+maakte de Wiskunde zich weer los van de Natuur
+
+kunde. En voor de wiskunde was het niemand
+minder dan Poincaré, de groote Fransche mathe
+
+maticus, die op gevaren en bezwaren van deze
+ontwikkeling wees, alhoewel ook hij hare nood
+
+zakelijkheid erkent. Hij acht het echter gewenscht
+dat de natuurkunde niet losgelaten wordt door de
+mathesis en dat deze naast de problemen van de
+zuivere gedachte, die de logische ontplooiing doet
+stellen, open blijft voor de vragen der Natuur
+
+kunde, die zoo vaak nieuwe wegen door de oudere
+zuster deed inslaan. En wat voor de verhouding
+van wiskunde en natuurkunde geldt, is niet in
+geringe mate over te dragen op die van de natuur
+
+kunde en hare toepassing in de techniek.
+Het hoeft geen betoog, dat de techniek bevorderd
+wordt, indien zij den georganiseerden steun van
+de aan de universiteit beoefende wetenschap heeft,
+en dat naast den bestaansgrond door de onderwijs
+
+taak, de Universiteit haar basis hechter in het leven
+vestigt, als zij de productie bevordert.
+Nu zijn in de omvattende taak der Universiteit,
+beoefening der Wetenschap en opleiding van jonge
+onderzoekers en mannen, geschikt voor de practijk
+des levens, moeilijkheden te over. En inwendige
+conflicten doen zich voor, die wel eens gekarakte
+
+riseerd zijn door de vraag: Universiteit of vak
+
+school?" Mijn antwoord zou zijn: vakschool in
+geen geval. Zeker is het noodig een aantal vaklieden
+op te leiden in de verschillende faculteiten, maar
+hoe belangrijk deze opleiding zijn moge en hoe
+noodzakelijk, zij drukke haar stempel niet op onze
+Universiteit. Deze moet, voorzoover zij een school
+is, blijven, de school waar men problemen leert
+stellen en de middelen leert kennen ze op te lossen.
+Ook de practicus&gt; of hij leeraar of medicus is,
+moet een wetenschappelijk geschoolde man zijn,
+die niet in de enge vakopleiding opgevoed wordt,
+doch die een open oog leert hebben voor het
+probleem. Slechts als dit het geval is zal de Univer
+
+siteit de belangrijke plaats in het leven kunnen
+blijven innemen, die zij thans vervult. De groote
+toeneming van het aantal studenten, waarbij
+procentueel de begaafdheid en echte wetenschap
+
+pelijke belangstelling wel iets heeft ingeboet, schept
+hier moeilijkheden. Ware het alleen maar die, dat
+er thans onder onze eerste wetenschappelijke
+krachten zijn, die thans honderden examens en
+tentamens per jaar moeten, afnemen. Hieraan zal
+iets gedaan moeten worden. Wil de Universiteit
+haar standaard hoog houden, dan zal intijds het
+karakter van den assistentenstaf veranderd moeten
+worden en zullen op Engelsch voorbeeld posities
+geschapen moeten worden, die op zijn minst zoo
+goed(!) bezoldigd zijn als de, docentplaatsen in het
+Middelbaar Onderwijs en waar goede krachten voor
+langeren tijd zich met de practische opleiding der
+studenten kunnen bezighouden. Het is niet van
+de directeuren onzer Laboratoria te vergen, dat zij
+de dagelijksche leiding der elementaire studie op
+zich nemen en de facto wordt deze in vele gevallen
+door assistenten gevoerd, en terwijl deze dan een
+wetenschappelijk veel zwaarder taak hebben dan
+onze leeraren, bedraagt hun salaris nauwelijks
+een derde of de helft van dit inkomen. Terwijl dan
+verder de eisch gesteld moet worden, dat deze
+doceerende krachten voldoende gelegenheid voor
+wetenschappelijk werk hebben, zonder welke zij
+hun taak niet behoorlijk kunnen vervullen.
+Het zal op den weg van het Rijk liggen dit pro
+
+bleem nader te doen overwegen en de finantieele
+maatregelen te treffen die het oplossen. Ons hooger
+onderwijs kost relatief zeer weinig en de voor deze
+zaken noodige middelen zullen bij goede organisatie
+gering zijn. ,. .
+
+Er is een andere factor, die de volle ontplooiing
+van de universiteit als Instituut van onderzoek,
+hetzij om zich zelfswil, hetzij om technische rede
+
+nen in den weg staat. Terwijl in het algemeen de
+outileering der Laboratoria zeer voldoende is en
+zoo de doode hulpmiddelen voor het research
+werk aanwezig zijn, ontbreken vaak de menschen..
+De .sociale toestand van de meeste studenten.
+brengt mede, dat zij, zoodra zij bevoegdheden.
+gekregen hebben, hun brood moeten gaan ver
+
+dienen; materieel gunstige omstandigheden,
+eengoede aanleg en belangstelling zijn niet steeds
+gecorreleerd. Wel kunnen dan enkelen op
+assistentsplaatsen behouden blijven, meestal voor korten tijd.
+Maar ook dit is een gedeeltelijke oplossing van de
+vraag, daar uiteraard aan het assistentschap veel
+werk en plichten verbonden zijn, die den voor on
+
+derzoek beschikbaren tijd zeer beperken.Indienmen
+dóór fondsen uitgezonden buitenlanders in zijn
+Laboratorium aan het werk gezien heeft, komt men
+tot de overtuiging dat zulke werkers voor een
+Instituut van niet minder beteekenis zijn, dan
+het werken in nieuwe sfeer voor hen zelve is.
+In dit opzicht doet een stichting als de Rockefeller
+Educational Board, die stipendia voor studie
+aan begaafde afgestudeerden over de heele wereld
+verleent, een veelzijdig nuttig werk. Zij traint
+jonge werkers en steunt de Instituten door hun
+arbeidskrachten te geven.
+Toch is daarnaast noodzakelijk, dat wij op ruime
+schaal een wetenschappelijke reserve voor ons land
+vormen en dat wij systematisch onze Laboratoria
+van werkkrachten voorzien, die zich eenige jaren
+rustig aan wetenschappelijk werk kunnen
+wijdenOnze industrie heeft het grootste belang bij het
+tot stand komen van deze wetenschappelijke
+reserve, bij de ontwikkeling der menschen en bij
+het werk dat zij doen. Dit belang bestaat ook zelf s
+dan, wanneer deze menschen zich bezig houden met
+andere problemen dan die welke direct op het
+oogenblik van technisch belang zijn; al zal als
+regel aan de menschen die zij steunt de technische
+research kunnen worden opgedragen.
+Het is dan ook van het allergrootste gewicht.
+dat onze industrie een fonds tot stand brengt,
+dat jongen geleerden de gelegenheid zal geven aan
+een Nederlandsche Universiteit of Hoogeschool te
+werken. Zij zal er onze instellingen van
+HoogeiOnderwijs door steunen op een gebied waar zij
+zooveel steun behoeven Een dergelijk fonds zaJ
+dan de taak op zich nemen van de Fondsen, die
+de Fellowships in Engeland verleenen kunnen.
+die zulk een zegen voor de Kngelsche Universi
+
+teiten zijn.
+Reeds eenigen tijd geleden had ik gelegenheid
+op deze zaak te wijzen in een tafelrede op 16 Maart
+gehouden aan dengemeenschappelij ken maaltijd dei
+V.E.H.I. De instemming die ik toen voor de ont
+
+wikkelde denkbeelden ondervond, is bezig zich in
+daden om te zetten, dank zij het krachtig initiatie!
+van den Heer J. G. Bellaer Spruyt, aan wiens
+breeden blik en sterken wil onze electrische indus
+
+trie zooveel te danken heeft. Een electrotechnisch
+fonds is in wording, dat op het gebied der
+electriciteitsleer de richting in wil slaan, die ik boven
+aangaf. En getrouw aan de opvatting dat voor
+
+beelden wekken, heeft de vereeniging van Direc
+
+teuren van Electrische Centrales thans reeds een
+jongen man gelegenheid gegeven om aan het pro
+
+bleem der electrische verliezen in olie te werken.
+Maar wij mogen hopen dat het initiatief niet tol
+de electrische industrie beperkt blijve, maar dat een
+groote nationale stichting tot stand zal komen, die
+elk jaar een aantal jonge mannen in staat zal stellen
+zich geheel aan de studie van de vele problemen te
+wijden, die de wetenschap en de techniek te stellen
+hebben.
+Moge onder leiding van mannen van industrie eri
+wetenschap, in samenwerking met andere geeste
+
+lijke leiders in onze Nederlandscho gemeenschap,
+een stichting tot stand komen, die ongetwijfeld
+zal medewerken om Nederland's volkskracht
+ttverhoogen en het aanzien op peil te houien, dat
+onze wetenschap en onze techniek in de wereld
+genieten. ^ ^
+Utrecht 19 Mei 1927.""
+OOKTFRED:JftOESK£
+ZANDBLAD - SIGAREN 6 enIO ds.
+
+</text>
+<image timestamp="2002:09:21:08:20:28.00" size="273894">D10006IM.TIF</image>
+</page>
+</document>

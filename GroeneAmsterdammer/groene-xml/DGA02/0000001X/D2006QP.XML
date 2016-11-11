@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330805</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+PETRUS PAU
+De beroemde Achilles-Se
+aan den Nederlandse
+Tentoonstelling van de
+vereeniging Rembrcmdt'
+Tketis dompelt Achilles in de Styx
+N de kunstzaal Goudstikker is een hoogstbelangrijke
+verzameling' schilderijen, teekeningcn en schetsen
+van Petrus Paulus Rubens tentoongesteld, waaronder
+de zes beroemde ontwerpen voor gobelins, die momenten
+uit het leven van Achilles verbeelden. Deze Achilles-serie
+is den Staat der Nederlanden geschonken, die daar
+
+mede een kostelijk museumbezit is rijker geworden.
+Bij de opening van deze tentoonstelling hield Prof. Huib
+Luns eene inleiding, waaraan wij het volgende mochten
+ontleenen:
+Muzikale geesten bij ons moeten mee te slepen zijn
+door de zwierige klankenweelde, die opruischt uit Ru
+
+bens' oeuvre. Velen trouwens geven zich vrijuit
+gewonnen voor den Meester wanneer hij er is in het
+juiste milieu, met heel zijn feestelijke uitbundigheid,
+met zijn oneindig begeesterende werklust, met heel
+zijn levenwekkende kracht, als hij er is breed-uit met
+heel zijn scheppingsmacht, met heel zijn plastische
+vormenwereld, met heel zijn bedwelmende kleurpracht.
+Zouden wij, Hollanders, in de schilderkunst begaafd
+boven allen ter wereld in het
+eenvoudig-naturalistische en in het doorleefd gevoelige, niet Rubens
+bewonderen. Kunnen het monumentale en het deco
+
+ratieve, twee eigenschappen, die wij, als regel, nooit
+bezeten hebben en dus ook nooit bezitten zullen
+Omdat in de karakterontwikkeling van een oud volk als
+B01 en: Dooc
+Onder: Toorn van Ac
+het onze, in het verleden alle toekomstmogelijkheden besloten liggen.
+Sluiten wij de enghartige en koudbloedige puriteinen uit. die
+immers den Meester steeds témeiischelijk. t
+warmbloedig, téruimhartig zullen vinden,
+dan blijven er ten onzent toch genoeg over,
+die buiten zich zelf gebracht kunnen worden
+als, zij voor zich zien opvlammen in kleuren
+van bloed en van aether heel het volle leven
+van een stam verwant ras, hél het rijpe streven
+van den geestesarbeid van een groot volk
+in een beslissende periode van zijn bestaan.
+Waar is de koude, geleerde Canon der
+hoogrenaissance, die figuren, die door de
+kunsterigheid der makers van louter adel waren ver
+
+armd, die vrouwenfiguren met de te lange beenen en halzen, die de
+bloedlooze lichamen in de raarste bochten moesten bewegen of beter: moesten
+laten stilstaan? want bewegen ging die kunst der na-Michelangelesken
+pas onder het penseel van den Vlaming, die in het volle leven van het rijke
+Antwerpen putte, die de mannen en vrouwen der straten en kaden meenam
+naar zijn werkplaats en met de stralende pracht van hun incarnaat
+den hemel bewolkte. De Vlaamsche dichter Verhaeren zegt het beter dan ik:
+
+Tu es celui Ie tard venu parmi les maitres
+Qui d'une prompte main, mais d'un fervent regard,
+D'abord demande a tous une fleur de leur art
+Pour qu'en ton oeuvre a toi tout l'art puisse apparaitre.
+Un fervent regard i Zonder twijfel ging door heel zijn oeuvre, door heel de
+mengeling van kerkelijk werk en mythologische beeldende vereering voor
+den rijken adem van het leven.
+Une prompte mrtin 1 Juist bij dezen meester van de heldhaftige beweging en
+het gulle pathos is de hand rustig en bij de uitvoering het brein koel. Wij
+moeten dit leeren zien zooals wij er ons ook van moeten doordringen, dat zijn
+oergezonde menschelijkheid met meer wijze bedachtzaamheid dan de meesten
+weten, het evenwicht bewaarde tusschen de vaart zijner verbeelding en
+den storm zijner driften.
+De eigen hand in het werk ?
+De integrale bewonderaars van zijn kunst hebben deze eigen hand niet
+van noc'de. Wal zij in Rubens misschien het meest bewonderen i*-', dat
+hij zijn schilderingen door anderen kon laten uitvoeren.
+Die integrale bewonderaars, en ik beken mij tot hen. achtten Kubeiishet
+Fragment uit een fries
+
+</text>
+<image timestamp="2002:09:26:15:33:48.00" size="565291">D2006QP.TIF</image>
+</page>
+</document>

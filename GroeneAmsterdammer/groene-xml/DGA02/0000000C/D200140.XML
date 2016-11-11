@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011103</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een bondgenoot van John Buil.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 3 November 1901.
+Amst. IJoek- en Stecndrukkcrij, v/h. Ellerman, Harms &amp; Co.
+MERCURIUS, tot John Buil: Maak je niet ongerust ik zal hem wel tegenhouden.
+JOHN RULL: Ja, vriend, maar je kimt torh noot* -veten
+
+</text>
+<image timestamp="2002:08:16:19:16:17.00" size="551256">D200140.TIF</image>
+</page>
+</document>

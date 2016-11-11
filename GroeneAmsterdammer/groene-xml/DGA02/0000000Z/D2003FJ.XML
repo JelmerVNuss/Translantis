@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240329</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2441
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 887 - F. O. Hooftstraat 140
+VEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+AIERSEOORT
+Koldewey &amp; Gorblère
+Leldschestraat 30, Amsterdam
+9f00imlit0lt in s
+WIEGEN - KINDERLEDIKANTEN.
+Snouckaertlaan 22-24
+TELEFOON 218
+PllLEl's Oude Genever
+Fijne Likeuren en Punch
+. P. POLLEM A ZOOH - Rotterdm
+MET N UITRUSTING
+UIT "DE BIJENKORF'
+Dl NIEUWK CATALOGUS
+± 200 BLADZ.. MET 2OOO
+ILLUSTRATIES, FRANCO
+De N. V. Koek- en
+
+Banketfabriek
+
+HARTOC"
+Telefoon 23425
+Gerard Douplein 24
+AMSTERDAM
+fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concurreerend.
+OOK VOOR EXPORT
+Clictiéc/'
+Vooc olie doeleinden
+| NV
+P Chem Kunstinrichting
+JDirRSchnabei
+Amsterdam.
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftitraat 38, Amitirdia. T«W.: 20341. 24250
+BEGRAFENISSEN EN
+REGELING
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADR1AAN SCHAKEL
+HEILIOEWEQ 11-17 - AfISTERDAn
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+LIEVEGOED'S Mayonnaise-Saus
+VERRUKKELIJK BIJ
+SALADE, VISCH- en VLEESCHSCHOTELS
+House tor Gentlemen
+
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAKEEIJ NAAE MAAT
+Weteringschans 45 :-: Telefoon 36845
+AAEISJE, 19 jaar, P. G., zoekt
+•**» betrekking bij familie die naar
+Inoiëvertrekt. Voor kinderen of
+gezslschap. Heeft in Indiëzes jas r
+gewoond; spreekt Maleisch. Br.fr.
+letters B. B., Bureau van cit blaJ.
+EEN ECHT
+EGILLETTE
+{APPARAAT
+GOOSEN &amp; SWAGERMAN
+
+PIANO'S, ORGELS, VLEUGELS
+KUNSTSPELPIA NO'S
+
+nOEKHORSTSTRAAT 149, 's-GRAVENHACf
+LEVERT U
+LEVERINGEN
+RAADPLEEG VOOR UWE
+
+MEUBILEERING EN
+STOFFEERING DE
+
+MEUBELFABRIEK
+
+-L- v" TE
+OOSTERBEEK DEZE VENNOOT
+
+
+SCHAP GEEFT U DES
+
+
+KUNDIGE ADVIEZEN EN
+EEN VERZORGD INTÉRIEUR.
+FRANCO. TEL. ARNHEM 1831.
+BI) IEDERE AANKOOP =
+VAN EEN HALF DOZIJN s
+l GILLETTEMESJESè|
+
+
+I 1.25 l
+ZONDER ENIG VOOR
+
+BEHOUD WORDT ELKE
+HOEVEELHEID AFGEGEVEN
+ERZONl
+SCHOONMAAK
+
+Gordijnen Tapijten
+
+STOOMEN EN VERVEN
+15 procent korting
+
+PALTHE - ALMELO
+PIETEE AERTSZSTBA AT 68-74
+TELEFOON 22865
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIG &amp; VAN ELVEN.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+Blauw Keper Pakken
+en Magazijn] assen
+Het Vakkleedlng Magazijn
+G. B. A. HENSEN
+Paarlaarsteeg l, Haarlem
+
+</text>
+<image timestamp="2002:09:03:04:22:24.00" size="129128">D2003FJ.TIF</image>
+</page>
+</document>

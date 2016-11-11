@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011027</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1270
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Het kelderen der Engelsche oorlogschepen.
+Oorlog in Transvaal.
+Derde jaar.
+(Caran d'Ache in Figaro.)
+NEPTUNUP • »Daar komt er zoowaar al weer een onzen maaltij l verstoren.
+De ziekte van den Sultan
+en de
+Russische thermometer.
+(Fiiductto).
+In China Na het tervg!rekken der troepen. (Fischieüo).
+1 TA W
+'
+
+Wat een, weg, twee jaar lang.
+Gr tnig bie S?riKe auf ber 9Ï&lt;
+Unb woUte (ijieijeii tobt ben Sji
+d)cn fi(it i
+llnb latijt ben luilbcn Scigcr auS.
+C,@tntronjclpctcc/')
+-ISSTE'-iT
+,\
+De esrsto \vus te ieelrk, il« tweede te moui. A,s pioniers der
+beschaving waren ze veel te brutaal.
+-- V.\\ v/.; T.v-1'.'..i-ti- kun, belija cie beroemde
+beschaving gezien 'i
+Xeen! maar ik heb ze helaas gevoeld.
+(JugenA).
+
+</text>
+<image timestamp="2002:08:16:18:27:36.00" size="280438">D20013N.TIF</image>
+</page>
+</document>

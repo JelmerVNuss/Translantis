@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261002</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2574
+l
+ONTVANG- EN
+BETAAXKAS
+Nieuwe Doelenstraat 20-22
+AMSTERDAM
+Kapitaal . . f 5.000.000.
+Reserves, .f 1.068.623.89
+Rentever g. voor gelden a deposito
+
+Direct opvorderbaar.... l pCt.
+Met 10 dagen opzegging Ij ,,
+
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit Inrichting
+De Holl, Voorschotbank
+
+HAARLEM, KRUISWEG 70,
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+6% schuldbrieven in stukken van f 1000—.
+f 500,- en f 100.- tegen beurskoers.
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. H. C. CASTENDIJK en
+L MOSSELMAN _
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbrieven tegen beurskoers uit.
+Rott. Hypotheekbank v. Nederland
+Opgericht in 1864
+Volteekend Maatschappelijk Kapitaal
+f 5.000.000.
+Verstrekt geld op eerste hypotheek.
+Voor inl. wende men zich tot het kan
+
+toor der Bank, Ged. Bierhaven 25 te
+R'dam of tot hare Agenten in de Hoofd
+
+plaatsen des Rijks.
+De Directie: Mr. W, v. Rossem,
+Mr. Th. Reepmaker. Mr. N. P. C. v. Wijk.
+INSULAIRE
+Hypotheekbank te Zierikzee
+
+Aan PANDBRIEVEN
+in omloop voor
+ruim 16 millioen gulden*
+V e rkrij g b a a-r:
+
+J % Pandbrieven a 991/2 %
+LEVENSVERZEKERING- MiniiiiiiiiiniiHiiiiiiiiiiHiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiiBiii
+- MAATSCHAPPIJ
+RRNHEM
+Zeer veilige grondslagen
+Stijgende extra-reserves
+Vraagt het jaarverslag iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiii
+Utrechtsche Hypotheekbank
+UTRECHT
+Pandbrieven f 42.000.000.
+
+De Bank stelt beschikbaar:
+
+41j2pCt Pandbrieven a 99112 pCt
+in stukken van f 1000.—, f500.—en f 100.
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+Amsterdamsch Accountantskantoor
+Steenveld, Maasdam &amp; van Bijden.
+(Opgericht door Mr. E. J. KORTHALS ALTES).
+Leden v/h Nederlandsen Instituut v. Accountants.
+Roemer Visscherstraat l, AMSTERDAM, Telefoon 21660.
+ROTTERDAMSCUE
+SCHEEPSHYPOTHEEKBANK
+WIJNHAVEN 94a
+UITGIFTE van
+5% Pandbrieven tegen 1001%
+De Directeur: Mr. W. C. MEES
+Nederlandsche
+
+Handel ~ Maatschappij
+
+Gestort Kapitaal	f 80,000,000	.
+Statutaire Reserve	£21,11^,340.—.
+Buitengewone Reserve	f 22,660,000.—.
+HOOFDKANTOOR: AMSTERDAM
+AGENTSCHAPPEN: te ROTTERDAM en VGRAVENHAGE
+
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China en Japan
+
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen .—Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Administratie van Effecten en alle andere Bankzaken
+INCASSO-BANK
+Volgestort Kapitaal f25.000.000—Reserve {6.361.700
+
+Heerengracht 531—-537
+
+ADVIEZEN VOOR BELEGGING
+INLICHTINGEN OMTRENT FONDSEN
+
+Effecten-af d* voor particulieren
+
+(INGANG; SAFE-DEPOSIT)
+DE AMSTERDAMSCHE
+\
+
+\
+\
+De levensverzekeringen der Amsterdamsche,
+
+N. Spiegelstraat 17, Amsterdam, dekken zonder
+
+extra-premie het vliegrisico, als de verzekerde als
+
+passagier de luchtreis doet. Ook voor zeereizen,
+
+met welk vaartuig ook, vraagt de A m s t e
+r
+damsche geen extra premie.
+\
+
+
+\ /
+\ /	\
+
+Binnenlandsche Hypotheekbank
+VGRAVENHAGE
+Geeft uit 5 pCt. Pandbrieven tot den koers van 100 pCt.
+MAATSCHAPPIJ VOOR
+HYPOTHECAIR CREDIET
+IN NEDERLAND
+gevestigd te 's-GRA VENH AGE.
+Gelden beschikbaar
+tegen concurreerende voorwaarden.
+DE DIRECTIE.
+
+</text>
+<image timestamp="2002:09:26:04:47:07.00" size="169103">D10007Z0.TIF</image>
+</page>
+</document>

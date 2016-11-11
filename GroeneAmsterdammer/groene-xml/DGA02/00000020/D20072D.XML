@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>58</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+56
+ƒ T
+Mensch «n machine
+GISPEN
+voor
+stalen meubelen
+en gisolampen
+nederlandsch fabrikaat
+heeft u reeds onze fraai
+uitgevoerde catalogi?
+vraag ze in onze toonzalen
+AMSTERDAM singel 299
+DEN HAAG noordeinde 140
+ROTTERDAM mauritsweg 37
+!*.'*
+*'./
+UITGAVEN VAN J. B. WOLTERS
+GRONINGEN. DEN HAAG. B'VTAVIA
+
+WOORDENBOEKEN
+NIEUWE TALEN
+ELK DEEL AFZONDERLIJK VERKRIJGBAAR
+BIJ DEN BOEKHANDEL IN VOORRAAD
+M. J. KOENEN-Dr. J. ENDEPOLS
+NEDERLANDSCH ZEVENTIENDE DRUK
+In n deel	f 5.60
+K. R. GALLAS EN C. R. C. HERCKENRATH
+F R A N S C H
+Twee deelen, in twee banden	f 7.50
+Elk deel afzonderlijk	- 3.75
+Dit Franacbt Woordenboek geeft bij ieder woord de ultipraak pbonetisch aan. J .)
+I. VAN GELDEREN EN J. H. VAN BECKUM
+D U I T S C H ZEVENDE DRUK
+Twee deelen, in twee banden . . . :	f 7.50
+Elk deel afzonderlijk	- 3.75
+K. TEN BRUGGENCATE-A. BROER
+EN G E L S C H TWAALFDE DRUK
+Twee deelen, in twee banden	f 7.50
+Elk deel afzonderlijk	- 3.75
+PRIJS DER 4 WOORDENBOEKEN NIEUWE TJALEN,
+PER STEL BESTELD	f 27.00
+u;'
+Wilt U bezuinigen? Koopt dan pap van
+OUD-BUSSEM
+15 et. per flesch.
+Asschepoester]
+wercfdemogelijkheid geopend het
+schoone kunst- en gebruiksvoor
+
+werp billijk te vervaardigen. On
+
+danks velerlei nadeel heeft men
+dit groote voordeel toch weten te
+bereiken ! De machine is goed
+mits in juisten zin aangewend en
+beheersen; mits haar niets te doen
+wordt gegeven wat buiten haar
+wezenlijk doel en domein van
+werkzaamheid ligt en vooral:
+mits men haar niet bezigt als
+middel om vlugger en met min
+
+der moeite geld te verdienen door
+slor dige serie- fabricage van
+voorwerpen welke minder goed
+en degelijk zijn dan wanneer
+deze door het aloude handwerk
+ontstaan. -&lt;
+Dat overigens de meening dat
+al wat machinaal vervaardigd
+wordt in elk geval minder duur
+
+zaam moet zijn dan wat door
+handwerk wordt verkregen, niet
+langer steekhoudend is, behoeft
+geen nader betoog.
+Reeds geruimen tijd geleden
+heeft Dr. Berlage opgemerkt, dat
+het handwerk symbool is van het
+tijdperk dat voorbijging, dat de
+machine symbool is van het tijd
+
+perk dat komende is.
+In antwoord op uw. . .. "
+
+</text>
+<image timestamp="2002:09:27:06:51:07.00" size="265839">D20072D.TIF</image>
+</page>
+</document>

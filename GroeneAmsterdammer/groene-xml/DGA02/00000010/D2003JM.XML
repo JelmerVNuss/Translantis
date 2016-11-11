@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240503</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•. No. 2446
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+EEN AANSLAG
+VAN DE REGEERING OP ONZE
+VOLKSGEZONDHEID
+De koepokinenting, op groote schaal en systema
+
+tisch uitgevoerd, heeft een eind gemaakt aan de
+dood en verderf verspreidende pokkenepidemieën,
+zooals wij die in West-Europa nog slechts bij over
+
+levering kennen. Wel wist men vóór de invoering,
+" middelen tot voorbehoeding toe te passen, midde
+
+len die hoofdzakelijk hierin bestonden, dat men
+zich natuurlijke pokken bezorgde door besmetting,
+op een tijdstip dat men meende dat de aandoening
+nog al goedaardig was, doch vergissingen en tegen
+
+vallers kwamen te vaak voor, dan dat deze methode
+algemeen kon worden. Eerst toen op het eind van
+de achttiende eeuw Edward Jenner zijne opmerk
+
+zaamheid had gewijd aan het feit, dat de melksters
+die toevallig met koepokken waren besmet gewor
+
+den, in tijden dat de natuurlijke pokken woedden,
+van deze ziekte vrijbleven, kon men tot een
+algemeene toepassing van de onschuldige kunstbe
+
+werking, bekend als vaccinatie, overgaan.
+Om de gunstige gevolgen hiervan te beoordeelen
+moeten wij de oude pokkenstatistieken bezien.
+In 1796 stierven in 18 Duitsche steden nog 655,220
+personen aan de pokken; in 1896 bedroeg dit getal
+voor het gansche rijk 10. Hoe beter de bevolking is
+ingeënt, hoe minder ziekte en sterfte men aan de
+pokken registreert. De Zweedsche pokkenstatistiek
+is te dien opzichte leerrijk. In de jaren 1792—1801
+was het sterftecijfer aan deze gevreesde ziekte per
+jaar minimum 58, maximum 512. In 1802 begon er
+de stelselmatige inenting, het minimum werd toen
+teruggebracht op 12, het maximum op 100. Aan
+
+gemoedigd door deze uitkomsten heeft men aldaar
+in 1817 de gedwongen inenting ingevoerd, in de
+daarop volgende jaren waren de sterftecijfers uiterst
+gering en in geen jaar gingen zij boven de 12 uit.
+Men wil van zekere zijde wel beweren, dat niet de
+vaccinatie, doende verbeterde hygiënische omstan
+
+digheden de ziekte en sterftecijfers voor de pokken
+hebben verminderd. Ongetwijfeld hebben betere
+hygiënische voorzorgen hun invloed laten gelden,
+doch dat hieraan uitsluitend de verbetering
+is toe te schrijven, daartegen pleiten de feiten.
+Sedert de invoering van de vaccinatie is de
+pokkensterfte in verschillende groepen van de
+zelfde bevolking verschillend. Zij is het laagst bij
+de goedgeënte Joden, dan volgen de katholieken,
+daarna de hervormden, terwijl zij bij de gerefor
+
+meerden het grootst is.
+Het verschil, door den invloed der goede vacci
+
+natie teweeg gebracht blijkt ook duidelijk b.v. in
+Zwitserland. De bevolking leeft er onder gelijke
+hygiënische omstandigheden en het is merkwaar
+
+dig, dat de sterfte aan pokken in de cantons waar
+verplichte inenting bestaat, bijna niet voorkomt,
+terwijl die cijfers in de overige cantons altijd nog
+belangrijk zijn.
+Het zijn niet alleen de sterfgevallen, die hier
+als maatstaf kunnen dienen. Een aantal poklijders
+worden door de ziekte voor het leven verminkt.
+Terwijl men nu in het goed geënte Duitschland,
+in alle blindeninrichtingen in 1923 het aantal
+pokkenblinden op 0.7 pCt. kon vaststellen, be
+
+droeg het aantal in Oostenrijk—Hongarije 9 pCt.,
+in Bohemen 7,06, in Portugal 21,5, in Rusland
+zelfs 28 pCt.
+Het kan geen verwondering baren dat men in de
+gunstige uitkomsten van de vaccinatie ten opzichte
+van de bescherming der bevolking tegen dezen
+geesel der oude tijden, in verschillende landen aan
+
+leiding heeft gevonden, bepalingen te maken waar
+
+bij de gedwongen inenting werd voorgeschreven.
+Bij ons te lande heeft men het tot verplichte
+vaccinatie niet gebracht, men heeft zich met den
+indirecten vaccinatiedwang tevredengesteld, doordat
+men in 1872 de bepaling heeft gemaakt, dat geen
+kind de school mocht bezoeken, tenzij voorzien van
+het bewijs, dat het de vaccinatie had ondergaan.
+De uitwerking van dit voorschrift werd
+vruchtdragender toen later de leerplichtwet werd inge
+
+voerd en men dus zeggen kon, dat bijna zonder
+uitzondering de kinderen in den leerplichtigen
+leeftijd hier te lande waren beschut.
+Men heeft echter van zekere zijde steeds tegen
+deze zegenbrengende kunstbewerking agitatie
+gevoerd, en toen gebleken was dat voor een enkel
+kind, met name lijdend aan huiduitslag, de vac
+
+cinatie niet zonder bezwaar kon worden verdragen,
+is onder het ministerie-Kuyper de eerste verslap
+
+ping van de wet tot stand gekomen. Dat men voor
+de kinderen hierbovenbedoeld eene uitzondering
+heeft geschapen, is natuurlijk; de wijze echter waar
+
+op men dit gedaan heeft, toonde de neiging der
+toenmalige regeering, om de vaccinatie in
+discrediet te brengen. Men is zelfs zoover gegaan, dat
+men achter pp het door den geneesheer aftegeven
+pokkenbrief je, ter inlichting van het publiek, straf
+
+bepalingen heeft laten afdrukken tegen den dok
+
+ter, die het wagen zou van een enkel voorschrift
+naar eigen inzicht af te wijken. Dit teekende reeds
+de mentaliteit der regeering te dezen opzichte.
+Er werd bij deze wijziging bepaald, dat een kind,
+voor wie de vaccinatie schade zou toebrengen aan
+de gezondheid, de school zou kunnen bezoeken,
+mits twee geneesheeren hadden verklaard, dat de
+inenting om gezondheidsredenen niet kon geschie
+
+den. Op zich zelve levert deze bepaling geen bezwa
+
+ren op. Niet vele kinderen komen er voor in aan
+
+merking.
+Op welke wijze heeft echter een deel van ons
+publiek deze bepalingen misbruikt? Onder aanvoe
+
+ring van drijvers en met medewerking van enkele
+zwakke broeders uit het doktersgilde, heeft men in
+sommige streken van ons land een heel groot
+aantal kinderen ongeënt in de school weten bin
+
+nen te smokkelen.
+Thans heeft de regeering een nieuw wets
+
+voorstel tot bestrijding der besmettelijke ziek
+
+ten ingediend. De wijzigingen welke ten opzichte
+van de vaccinatie worden voorgesteld bedreigen
+onze bevolking met groote gevaren. Gelijk boven
+werd gemeld, had reeds de onder het Ministerie
+Kuyper tot stand gekomen verandering, tot ern
+
+stige verslapping geleid. Zoo schandelijk is het
+misbruik dat van deze bepalingen is gemaakt, dat
+b.v. in sommige dorpen van Zeeland 50 pCt. van
+de schoolbevolking niet meer is ingeënt. Met
+karrevrachten en per georganiseerden autobus
+
+dienst, worden kinderen gevoerd naar genees
+
+heeren, die bereid zijn voor ieder kind te ver
+
+klaren, dat de inenting schadelijk is. Hoe groot
+het aantal kinderen in andere streken van ons
+land is, dat door de bewuste bepaling niet
+gevaccineerd op school gaat, is niet bekend.
+Het nieuwe ontwerp maakt den toestand nu nog
+wat erger. Art. 14 luidt: Indien het verzoek be
+
+doeld in het vorig artikel, is gegrond op
+gezondheidsbezwaar, moet daarbij zijn overgelegd een
+onderteekende en gedagteekende, niet langer dan
+drie maanden te voren afgegeven, verklaring
+van n geneeskundige, dat blijkens door hem
+persoonlijk verricht onderzoek de inenting voor de
+gezondheid van den persoon, te wiens behoeve de
+verklaring .is ingezonden, bijzonder gevaar ople
+
+vert. De burgemeester geeft onverwijld een
+gedagteekend bewijs van bezwaar af, dat niet geldig is,
+vóór dat de inspecteur het voor gezien" heeft
+geteekend.
+Aldus blijkt dat n geneesheer bevoegd wordt
+de verklaring af te geven. De Burgemeester moet
+zonder kritiek of redres eene verklaring afgeven en
+deze laatste wordt den inspecteur voorgelegd, die
+haar naar het imperatieve voorschrift voor ge
+
+zien" heeft te teekenen. Natuurlijk is door deze
+voorschriften de controle op de juistheid van het
+afgegeven attest nog onmogelijker dan vroeger.
+Het is merkwaardig, dat de Hoofdinspecteur van
+de Volksgezondheid op het Gezondheidscongres
+mededeelde, dat zijne opvattingen omtrent dit
+artikel anders zijn: een bewijs hoe slordig de
+regeering met deze voor onze volksgezondheid zoo
+belangrijke zaak omspringt.
+De bepaling dat het attest slechts voor n jaar
+geldt, kan de verwarring slechts vermeerderen. Als
+voor alle thans niet ingeente kinderen, vermeerderd
+met die welke er jaarlijks bij zullen komen,
+telkenjare het verlof opnieuw moet worden aangevraagd,
+zal dit een berg papieren doen geboren worden en de
+controle op al die gevallen, gesteld dat die na wij
+
+ziging van het wetsontwerp door de inspectie der
+volksgezondheid zou worden uitgeoefend, zou niet
+anders kunnen worden dan een wassen neus. De
+inspectie beschikt daartoe om te beginnen al niet
+over voldoende personeel.
+Behalve deze vrijgestelden, schept het wets
+
+ontwerp nu nog een nieuwe groep, die der
+gemoedsbezwaarden. Niet allen die gewetensbezwaren
+tegen de vaccinatie hebben, worden echter met
+dezelfde tegemoetkomendheid behandeld. Alleen
+zij die godsdienstige gewetensbezwaren doen
+gelden, zullen worden vrijgesteld. Met welk recht,
+moet worden gevraagd, kan een regeering, die
+gewetensbezwaren als geldig verklaart, deze slechts
+voor n groep erkennen, met welk zedelijk recht
+mag zij de andere even eerbare negeeren? Deze
+bepaling kenmerkt het geheele wetsontwerp als
+een, dat niet uitgaat van hygiënische overwegingen,
+doch als een dat met voorbijgaan van
+gezondheidsbelangen, politieke tendenzen nastreeft.
+De gewetensbezwaarde moet ieder jaar met twee
+geloofwaardige getuigen komen vertellen op welke
+gronden hij bezwaar heeft; de Burgemeester zal de
+zuiverheid van deze bezwaren moeten beoordeelen
+en alsof het nog niet erg genoeg is, bepaalt de wet,
+dat de Burgemeester deze taak ook kan overdragen
+aan een wethouder. Wie de toestanden op het platte
+land kent, weet wat dit beteekenen gaat.
+De regeering is zich wel bewust van de gevaren
+waaraan zij onze bevolking blootstelt. Immers in
+de memorie van toelichting veitneldt zij dat in
+Engeland, waar de vrijstellingen ook worden ge
+
+geven, sindsdien pokken veelvuldig voorkomen;
+zij had er bij kunnen voegen, dat vele sterfgevallen
+aan pokken aldaar worden geconstateerd.
+Daarom tracht zij nu een correctie aan te
+brengen door de bepaling, dat niet meer dan
+n ten honderd van het aantal kinderen,
+DIRECTEUR
+In een der grootste Automobielbranche
+te 's-Gravenhage wordt wegens uit
+
+breiding een DIRECTEUR gevraagd.
+Alleen kapitaalkrachtige personen
+komen in aanmerking.
+Brieven lett. J. B., Bureau v/d Blad.
+dat in dat jaar voor het eerst tot scholen in de
+gemeente wordt toegelaten, mag worden vrij
+
+gesteld. Indien het getal grooter wordt, moet dit
+ter kennisse van den Minister worden gebracht, die,
+indien blijkt dat ten onrechte bewijzen zijn afge
+
+geven, deze intrekt.
+Alweer eene zeer onbeholpen redactie, want op
+het congres, boven reeds aangehaald, bleek, dat
+niet voor ieder vaststond wat hier onder scholen
+moet worden verstaan. Tellen bewaarscholen,
+middelbare scholen en dergelijken mee, of bedoelt
+men hier alleen de scholen voor lager onderwijs?
+De beperkende bepaling moet overigens waar
+
+deloos worden geacht. Op het platte land heeft zij
+geen beteekenis, daar in de kleinere dorpen deze
+l ten honderd gewoonlijk nul zal zijn en in de
+grootere plaatsen is de kans heel groot dat men
+bij allen rompslomp deze bepaling zal kunnen
+vergeten.
+Maar bovendien, wat zal de regeering kunnen
+doen, wanneer de bevolking van sommige streken
+van ons land, daartoe aangevuurd door het
+stesellmatig verzwakken van het geloof aan de noodzake
+
+lijkheid-van de vaccinatie door de regeering zelve,
+de vrijstellingen in grooten getale gaat vragen?
+Zal dan de minister of diens ambtenaar, de harten
+en de nieren van de geloofsbezwaarden gaan proe
+
+ven en zal hij hier wél, daar geen vrijstelling gaan
+geven? En zal de wetgever deze zaak mogen over
+
+laten aan de beoordeeling en de overtuiging van
+den bewindsman of den ambtenaar die op een
+bepaald tijdstip toevallig in functie is? Dit kan
+en mag in zulk een belangrijke zaak niet gebeuren.
+Deze heele bepaling zal bovendien onuitvoer
+
+baar blijken, er zal sleur komen en wij zullen na
+eenigen tijd zitten met scholen met een slecht of
+niet geënte bevolking. En ter wille waarvan moet
+nu ons volk aan dit gevaar worden blootgesteld?
+Leest men wat dr. Rijk Kramer over deze zaak
+schrijft, dan kan men constateeren dat het aanne
+
+men van bezwaren uit godsdienstige overtuiging
+niet bestaat. Bovendien is er een groot verschil
+met gemoedsbezwaren in andere zaken. In den
+regel spreekt de gemoedsbezwaarde voor zich
+zelve, hier belet hij, dat zijn kind wordt ingeënt
+en het is wel de vraag of dit hem, als het door later
+de pokken wordt aangetast, met alle gevolgen van
+dien, dankbaar zal wezen. Hem en de regeering
+die door hare maatregelen de poort tot deze ge
+
+varen heeft opengezet.
+Het is merkwaardig dat het juist de lieden zijn,
+die onder het motto dat men God niet mag ver
+
+zoeken, de Vaccinatie verwerpen, in zake bewape
+
+ning van ons land een geheel tegenovergesteld
+standpunt innemen.
+Te hopen blijft dat vele leden der TweedeKamer,
+ook die van rechts, zullen begrijpen, dat het offer
+dat thans gevraagd wordt, te groot is. Ons volk
+moet tegen dit wetsvoorstel, dat met volle bewust
+
+heid van de gevaren die het met zich brengt, door
+de regeering wordt ingediend, in beweging worden
+gebracht.
+April 1924
+ABRAHAMS
+Na het schrijven van dit artikel, verneem
+ik uit zeer betrouwbare bron, dat de]
+Nederlandsche Vereeniging van Roomsch Katholieke
+artsen tot de Roomsche leden van de Eerste
+en Tweede Kamer een vertoog richten, waarin
+op de ernstige gevolgen van de aanneming van
+het wetsontwerp wordt gewezen.
+A.
+SSóLU/ó
+GEHEELE WOON
+INRICHTING
+DEN HAAG
+NQDRDEINDE
+
+</text>
+<image timestamp="2002:09:03:07:26:07.00" size="266544">D2003JM.TIF</image>
+</page>
+</document>

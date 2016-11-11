@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270507</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 7 MEI 1927
+No. 2605
+Aviatiek eo
+Een Modern Duo
+door A. DUBO1S
+Directeur v. d. Ned. Seinloestellenfabriek
+II.
+
+J~\ B rol, die de draadlooze telegrafie
+en -telefonie bij het huidig lucht
+
+verkeer vervullen, is in buitengewoon
+korten tijd zeer belangrijk en veel
+
+omvattend geworden. Het succes, de
+doelmatigheid en de veiligheid van
+alle goed georganiseerde
+vliegdiensten zijn voor een niet gering deel
+afhankelijk van snelle en doeltref
+
+fende communicatiemiddelen, tus
+
+schen de verschillende grondstations
+onderling en tusschen deze en de zich
+en route bevindende vliegtuigen en
+dSê'ze vliegtuigen onderling. Uit den
+aard der zaak was radio-communicatie
+hier alleen mogelijk.
+***
+Gedurende het korte bestaan, dat de
+luchtvaart heeft geleid ruim tien
+jaren is zij oud zijn er helaas reeds
+beklagenswaardige ongelukken te over
+Voorgekomen, waarmede kan worden
+aangetoond, dat radio aan boord van
+vliegtuigen niet alleen recht van
+bestaan heeft, doch een gebiedende
+eisch is geworden.
+Menig roemrijk feit in de geschie
+
+denis der aviatiek, 'zooals transat
+
+lantische, rond-de-wereld en
+poolvluchten (de Norge !) kon slechts
+Biet behulp van de radio tot 'een be
+
+vredigend einde worden gebracht.
+Gaarne hadden wij hier neer willen
+schrijven, dat ook de Holland—Indi
+vlucht van de beroemde H.N.A.O.
+de medewerking van de radio had
+ondervonden, doch om zeer dringende
+reden moest van het medevoeren van
+een installatie worden afgezien.
+V. d. Hoop zegt hierover in zijn wel
+
+bekend werk Door de Lucht naar
+Indië" het volgende: Q
+Moderne verkeersvliegtuigen wor
+
+den meestal met een installatie voor
+draadlooze telegrafie uitgerust, en ook
+onze F VII was, toen hij gedurende den
+Zomer van 1924 op de lijn Amsterdam
+-—London vloog, van zulk een in
+
+richting voorzien. De veiligheid van
+het luchtverkeer toch kan door de
+draadlooze belangrijk worden ver
+
+hoogd. In de eerste plaats kan de
+vlieger hiermede onderweg voort
+
+durend inlichtingen vragen omtrent
+het weer op zijn verdere route. In de
+tweede plaats kan hij bij het vliegen
+over zee, in geval van motorstoring,
+het S.O.S.-sein uitzenden en de plaats
+aangeven, waar hij zich bevindt, waar
+
+door vluggere hulp mogelijk wordt en
+de kans op redding wordt vergroot.
+Wanneer een vliegtuig het Engelsche
+Kanaal tusschen Calais en Dover
+oversteekt, meldt de vlieger zich
+draadloos aan Londen. De vliegduur
+tusschen beide genoemde plaatsen
+bedraagt ongeveer 20 minuten, en
+wanneer de tweede melding niet na
+omstreeks dien tijd komt, roept
+Londen zelf het vliegtuig op. Mocht
+het vliegtuig geen antwoord geven,
+dan waarschuwt Londen de
+kuststations, en kan terstond worden
+onderzocht, of er wellicht een ongeluk
+is gebeurd; zoodoende kan de draad
+
+looze spoedige en afdoende hulp in
+de hand werken. In Londen,
+Botterdam en Pulham (Engeland) zijn voorts
+draadlooze richtingzoekers geplaatst,
+dat wil zeggen ontvangstations, die
+zóó zijn ingericht, dat zij tot op n a
+twee graden nauwkeurig de richting
+van een vliegtuig, dat draadlooze
+seinen uitzendt, kunnen bepalen.
+Wanneer een vlieger zich nu bij voor
+
+beeld boven het Kanaal in slecht weer
+bevindt en zich niet voldoende ori
+nteeren kan, vraagt hij eenvoudig aan
+Londen Giveme my position, please".
+Deze vraag wordt door de
+wachthebbende marconisten in Londen en
+Pulham opgevangen; beiden bepalen
+de richting van het vliegtuig ten
+opzichte van hun station, en Pulham
+meldt de aldaar gevonden richting
+draadloos naar Londen. In Londen
+heeft mon een kaart, waarop twee
+touwtjes bevestigd zijn op de punten,
+die de ligging van Londen en Pulham
+aangeven. De twee touwtjes worden
+gespannen in de gevonden richtingen
+en het kruispunt geeft de plaats van
+het toestel aan.
+
+(Wordt voortgezet).
+Philips' Succes
+De Radiouitzendingen naar Indi
+
+T~^\ E pogingen met Philips' korten
+golfzender te Eindhoven om de
+inwoners van Holland en Indiëdoor de
+lucht met elkander in contact te bren
+
+gen zijn schitterend geslaagd. De uit
+
+komsten waren zelfs verre boven ver
+
+wachting en van dien aard, dat het
+Engelsche radioblad Wireless World"
+met leedwezen moest vaststellen, dat
+Nederlandsche energie en werkzaam
+
+heid den Engelschen ten tweede male
+een uitstekend voorbeeld op dit ter
+
+rein hadden gegeven. Voor een staat als
+Engeland met zijn vele over de wereld
+verspreide dominions was het dan ook
+zaak geweest reeds eerder uitgaande
+van de geoorloofde veronderstelling
+dat men daar minstens even knappe
+radioingenieurs bezit als wij hier
+dit belangrijke middel tot uitwisseling
+van gesprekken en tot het uitzenden
+van muziek en redevoeringen toe te
+passen. De Wireless World stelt de
+Philips' uitzending dan ook als
+navolgenswaardig voorbeeld.
+* * *
+Door bemiddeling van Philips radio
+is het Mengelbergconcert op 27 April
+j.L, waar de Negende Symphonie van
+Von Beethoven werd gegeven, naar
+onze overzeesche gewesten uitgestraald
+en men is er daar in geslaagd een goede
+ontvangst te bereiken. Wanneer wij
+weten, dat de radiogolven zich met
+een snelheid van 300 millioen nieters
+per seconde voortbewegen en dat dus
+de muziek binnen 1/20 seconde na de
+uitzending in Indiëwas te hooren
+alsof men zelf in de Concertzaal aan
+
+wezig was, dan kunnen wij niets anders
+dan stomme bewondering hebben voor
+hetgeen hier is gepresteerd.
+De ontvangers in Indiëzullen aan
+uitzendingen van avondconcerten ech
+
+ter niet veel genoegen kunnen beleven,
+omdat het tijdsverschil oorzaak is,
+dat de ontvangst in de Koloniën
+midden in den nacht moet geschieden.
+In de toekomst zal men daar reke
+
+ning mede willen houden.
+Over de uitzending en over de ont
+
+vangst in Indiëwaarover nog ge
+
+regeld uitvoerige berichten bij Philips'
+Radio binnenkomen , zullen wij in
+een der volgende nummers een artikel
+brengen van den heer A, F. Philips,
+den man die de tot standkoming van
+deze uitzending geleid heeft.
+Wij volstaan thans met hun, die
+willen trachten de uitzending van
+Philips' korten golfzender (30.2 M.)
+direct te ontvangen, onderstaand
+schema met toelichting te bieden.
+HSf&gt;
+!. 3 vindingen v. 10 cm / LA 409,
+2. 250-500 cm A &lt;W, A 209.
+3. 300 cm A 225. A 241,
+4 200 cm A 109, A 125,
+5 1 megohm of A Hl
+6. 400-600ohm
+A. F. PHILIPS leidt de uitzending van het Mengelbergconcert in
+Tevens stelt dit schema voor de
+wijze waarop een ontvangtoestel met
+uitwisselbare spoelen, geconstrueerd
+volgens het Koomans-schema, kan
+worden ingericht voor deze ontvangst
+na uitneming van de
+hoogfrequentlamp.
+Voor de eenvoudigheid is het
+laagfrequente versterkergedeelte uit het
+schema weggelaten; de figuur stelt
+voor de ontvangst met enkele detec
+
+torlamp.
+In een bestaand toestel met uit
+
+wisselbare spoelen zal, na verwijdering'
+van de hoogfrequentlamp, het bij
+
+gaande schema ontstaan, waarbij men
+de normale honigraatspoelen dan ver
+
+vangt door spoelen, vervaardigd uit
+3 windingen van geïsoleerd draad,
+waarvan de beide einden in de stekker
+
+bussen van de spoelhouders gestoken
+worden. De antennecondensator wordt
+gesteld op nul; met den tweeden
+draaicondensator wordt ingesteld.
+Degene, die een toestel met vast
+ingebouwde spoelen bezit of een af
+
+zonderlijk ontvangsttoestelletje voor
+kortegolf wil vervaardigen, kan het
+bovenstaande schema volgen, en daar
+
+bij den antennecondensator (gestippeld
+aangegeven) weglaten. Voor luid
+
+spreker-ontvangst kan men verder
+een laagfrequentversterker met
+weerstandskoppelelementen of transforma
+
+toren in de plaats van de telefoon aan
+
+sluiten.
+Als lampen zijn bruikbaar zoowel de
+lampen der l Volts als die van de 2
+Volts en 4 Volts serie. Bij gebruik van
+een dubbelroostorlamp als b.v. A 141,
+A 212 of A 111 dient men hot schema
+aangevuld te denken niet eo.n ver
+
+binding van het hulprooster naar de
+pluspool van de anodespanning.
+
+</text>
+<image timestamp="2002:09:21:06:08:19.00" size="221496">D10006G0.TIF</image>
+</page>
+</document>

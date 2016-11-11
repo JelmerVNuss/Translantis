@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18951222</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland, van 22 December 1895.
+•*»•
+5
+De strijd om de Loterij zaal.
+W.	ipj . _i U
+l '
+Anist. ISoeU- en Stecndrukkcri], v/li. Kllernian, Harms &amp; Co.
+y/:/&gt;-. &lt;-A' St/ters tot Minister van Houten: Help! help! ze willen me verdrinken in mijn eigen putje...!
+
+Minister van der Sleeden tot Rutgers: Laat hem niet los... de loterijzaal blijve ons.
+
+</text>
+<image timestamp="2002:08:21:06:15:45.00" size="196673">000003L8.TIF</image>
+</page>
+</document>

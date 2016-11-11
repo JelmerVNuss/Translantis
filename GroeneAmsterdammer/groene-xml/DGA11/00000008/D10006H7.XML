@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270514</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 14 MEI 1927
+No. 2606
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+HAMBURG-AMERIKA LINIE
+
+HAMBURG
+Geregelde Passagiersdiensten naar Oost-Indi
+(.recnLstreeks en via Mn^apore), Oost-A^të,
+NoordAmerika, West-Indiëen Centraat-Amerika,
+ZuidAmerika, Australiëen Afrika
+Plezier» en Souristeniodif en, zooals
+reizen naar de Fjorden en Poolstreken/
+Wereldreizen, West • Indië* reizen
+Inlichtingen en prospect! gratis verkrijgbaar
+bij de Hoofd-Agcntcn voor 'Passage, de firma
+
+WAMBERSIE&amp;ZOON
+AMSTERDAM, DE RUyTERKADE o8
+en REISBÜREAUX.
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandscbe Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+AUG+ KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+
+Speciale aanbieding Linnen Goederen
+Zwaar linnen gerstekorrel droogdoek .... 65 cent
+Zuiver linnen handdoek	65 cent
+Zuiver linnen Tafellaken, maat 130 x 165 c.M. f 4.50
+Bijpassend Servet	75 cent
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+pliMiiimiiiuiiiiiiiiiiiiiiiiiiliiiiiiiiiiiiiimiimiiiiiiMilliiiiiiiiiimiiiiiiiiiijiiiiiiiiiiiiiiiiim
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 j
+AMSTERDAM |
+Overhemden naar maat i
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar i
+N. R. V. MONTA SCHOENEN |
+Wed JOHN GAY'S PICCALILLI
+»U|FT HET MOSTEWJZUUR MET DB FIJNE PIKANTE SMAAK l
+- ENGROS Bl| DB UEVEGOBD'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dé;endance Huize,, Harten"—Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H AMSTERDAM Tel. 42662
+MARMERWERKEN
+DEN HAAG FERD.VVLJET ARNHEM
+VERWEEGEN &amp; KOK
+AMSTERDAM
+DEN HAAG
+Wardrobe Trunks
+
+24 modellen
+
+prijzen van
+
+f 65.- af
+NAAMLOOZE VENNOOTSCHAP
+
+Uurwerk, Goud- en Zilverhandel
+
+v/h Gebr. B RE EN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groore sorteermg in Trouw-,
+Verlovingsen Zegelringen. Zilveren Couverts en
+diverse Schepwerk tegen scherp
+concureerende prijzen GNS GV&gt; so cw
+Uurwerken met Westminster en diverse gongfllagen
+RUIME KEUZE HORLOGES
+1ste Klas repartitie-inrichting vooi Goud,
+Zilver en Uurwerken G^S a-a t^&gt;
+Voor alle doeleinden
+N-Y
+Cnem.Kunstinrichting
+DirkSchncibel
+Amsterdam.
+SIERTKEKEXAAR teekent billijk
+
+FAMILIEWAPENS
+fraaie kleuren, heraldisch juist.
+Brieven Letter B., bur. dezer Crt.
+Laat Uw w a s c h
+behandelen door de
+Dames»
+STOOMWASSCHERIJ
+HET ZUIDEN"
+PIETER AERTSZSTRAAT 68
+Droog toe 25 cent per K.G. ol per
+stuk en opgemaakt. Billijk tarief.
+Aanbevelend, NEIDIG «t 7OON.
+
+</text>
+<image timestamp="2002:09:21:07:10:06.00" size="146335">D10006H7.TIF</image>
+</page>
+</document>

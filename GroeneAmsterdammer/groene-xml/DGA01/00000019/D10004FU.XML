@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960223</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer. Weekblad vooi Nederland, van 23 Februari 1896.
+De receptie van Dr. Leyds te Amsterdam.
+r-K &lt; '-•"''
+Hl ivi,
+Amst. Boel;- en Steendrukkcrij, v/h. luierman Ilurins iV Cd
+&lt;-,Lr,i:}i,l,:i : .Blij! jij o;&gt; je eiland, John Huil; het is hier een faniiliex.aak, die je niets aangaat!"
+
+</text>
+<image timestamp="2002:09:04:07:33:40.00" size="363188">D10004FU.TIF</image>
+</page>
+</document>

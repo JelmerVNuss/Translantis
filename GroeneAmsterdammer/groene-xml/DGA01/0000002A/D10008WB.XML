@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19380723</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+~±-~'heide
+in eigen J£and.
+**&lt;
+ALKMAAR
+Hotel Restaurant PROOT
+Modern comfort. Eertu huli ter plutM. Matige tarieven. Garage. Tel. 4321,
+J leuvenum (vel.)
+AMERSFOORT
+BIRKHOVEN - Telefoon 207 - HOTEL en RESTAURANT
+Pension 3 dagen f 18.-; l week f «5.- ; l maand f
+Wh150 HA. bosch met vijvers. Gemeente eigendom
+APELDOORN Hotel BLOEMINK
+e-tsi •J.MWWIUI Leolatn W| het Konlnklllk Palela en bouchen. Modern comfort.
+Bekend netMrent. Prachtig terne. Garage en paardanstallen. M111 f e tarieven. Telefoon 4141
+A nilUFIA E*n «o*1 HoMl mtt DaRsfUnTFI " Café- Rest. Nieuwe Plein 44.
+AKNHfclfl mod.eomf.enblH.pr. firAKIVnUICL Tel. 24423 - Logies m. ontbijt,
+*•"*•*"••"• tJJ(Ma.75.Pent.(«.-HJO.Unch(lJ6.Parkeerterr.Gez.terra^Dlnerll.60
+BARCHEM
+Hotel BOSCH
+Modern comfort. Eente hul» ter pli
+Gerenommeerde keuken. Prospectus
+tarief op aanvrage. Garage vri|. Telefoon (dag en nacht) 201
+ettM.1
+H
+BERGEN (N.H.)
+Hotel-Penrion-Restanrant J. P. KRRB. Telef. 2015.
+Str. w. en k. w. op alle kamen. Centr. verw. Geheele (aar geopend.
+Penateopr. f4.5O-f5.5O. Vóór 15 Juli en al l Sept. gered, prijzen
+BERGEN AAN ZEE
+Hotel Pension STROOftfER
+Tel. 2335. Week-end v. Zaterdag vóór diner tot Zondags na diner (5.50
+24 k. (tu-, 14.- en f 3.60. Str. w. Badk. Pr. keuken. Prosp. op aanvr.
+BREDA ORANJE HOTEL
+tyi%eU-/fl Bestgeoutill. huister plaatse. Alle mod. comf. Gar. Tel. 3741 (3 I.)
+DELDEN (0.)
+Famtltehotel DE ZWAAN" met dependance. Stroomend
+en k. water op alle kamers. Centraal verwarmd. Ie huls ter pi. Dicht
+h. kasteel Twlckel gelegen. Gar. vri|. Tel. 206 (d. e. n.) Pension van f4.
+DENEKAMP
+ELLECOM Hotel BWNKHORST
+?*.fcfc : ^' * bosschen. Prima keuken. Penslonprl|s f4.—Nieuwe tennisbaan.
+EPEN (L\ Hotel »ONS KRIJTLAND" *
+\ / Grootste panorama van Z-Umburf. Rustig gel. pi
+HOTEIj DB MORIAAN. Hult van den eersten rang. Stroomend w. en
+'"""' w*t*r' C*Mn&gt;'* verwarming. Garage vrl|. Prima keuken. Matige tarieven.
+C«f»geld« verbindingen, Enschede, Winterswijk en Ooetlnchem. Telefoon 9.
+Hotel Pension DE GROOTE VILLA" £?;.,
+l minuut vin Zee Garage vrij Telefoon 2 prospectus op aanvraag.
+l w. l
+itb. l
+.af l
+HOTEL GELINK doori|inmo
+'«"«in««nm*a**Pr|i•"«•'•"• ««-UllNlN. zen het uitverkoren Hotel
+van Denekamp en O ma treken. Onder directie van mevr.
+R. ARENDT. Vraagt prospectus. Telefoon 314 (dag en nacht).
+DOORN HOTEL CECIL". Eenlgst hotel te Doorn niet aan de
+straatweg, midden In het bosch, met mooie zitjes, waranda,
+frbsche kamers, prima keuken, vraagt prospectus. C. LAMMERS v. TOORENBURG
+DE KANOVIJVER l
+Waterattracties, Speeltuin, Kampeerterrein. Zeer lage prijzen, l
+Bo*d«hotel A. N. W. B. Str.
+'. op alle kamers. Pr. keuken.
+(200 M. boven A.P.). Telef. S
+bosch-hotel de stads de nn en"
+temidden van 873 h.a. vrije bosschen en
+heide, prosp. op aanvr. (post harderwijk)
+• f\ /•* • l f» •-&gt;• Hotel Pension DE STAD IiOCHEBI. Telefoon 320. I
+l f^J ^^ P^ £ 1^1 Centrale verwarming. Warm en koud itr. water. Garage vri|. Pril» l
+f 4.25—f 5.25 per dag. In de directe nabl|held van het Natuurfaad l
+MAASTRICHT
+ASUE"uv OTEL
+•• l ftnn r»l lfin
+MIDDELBURG
+HOTEL DU COMMERCE - Telefoon 94 l
+Modern comfort e Parkeerterrein vrQ l
+KinOD n\A/l llf 7CC Wonlngbnrean INTOTJRO. tel. 32. Wi| geven alle Int. en l
+r*W t\ IS W I«|T\-£.CC bemiddelen b. h.huren v. gemeub. villa'i, hulzen, appartementen. Hoteli
+en Pensions. Wi| ftellen bi| Uw bezoek gen. gr. gids t. beschikk. welke U rondleidt. Ultgebr. prosp.op aanvr.
+NUNSPEET
+Kampeercentrum SAXENHEIM"
+Tel. doorverb. 14 - Vierhouten - 6ev. sinds 1925
+60 H.A. oppervlakte. Huisjes, woonwagens, kamers en tenten voor families en
+(roepen. Eigen winkel voor levensbehoeften. Zwembad in de nabijheid. Plaats
+voor kampeer-aanhangwagens. Temidden der mooiste bosschen. Meest sportief,
+aangenaam, goedkoop en bevrediglngschenkend vacantieverblijf. Vr. prospectus.
+TPP THEEHUIS »E NIEUWE POI/
+AAM Z.tt Gelegenheid tot veilig baden, roeien, kanovaren en zeilen,
+Kampeerterrein. Kamphul»|es te huur. Prosp. op aanvrage.
+HoMl M ARÏNROOM. Tel. 248I3. Groesbeekscheweg. Mod. comf. Gr.
+kindertuln m. kinderbad. Tennisbanen. Manege. Pension v. f 3.50—f 4.5O.
+Weektnd f 8.50—f 7.50. ScWtt. gelegen b. Mariënbosch. Goede verbinding m. centr.
+n- l
+k- l
+r. l
+f\ l n l" El 7 il A l
+U LU t ML. AA L
+**™*""*"~
+Centrum van mooi Twenthe. Hotel-Penslon-Restaurant
+DB GOUDEN LEEUW. Eerste Huls ter pi. Gerenomm. keuken,
+mod.comf. Pens. 1 4. f5.-. Gar. en Sta», voor paarden. Tel. 732 (d.e.n.)
+f\ fclf lul C KI Hotel Pension Villa HEI EN DENNEN".
+^J all »vl C IN! Eenlg gesloten Ie rangs huls ter plaatse. Centraal verwarmd. Stroomend
+_ warm en koud water op alle kamers. Groote tuin. Garage vrij. Telefoon 72.
+Rl'n- Bosch, heide, vergezichten. Romantische natuur. Gem. parken en
+bouwterrein. Elk uur een trein naar de hoofdsteden.
+BurMU v&gt;v_ Ann„traat 8. T.|. 5912 . Bureau Gemeentewerken. Tel. 5541
+RUSSEN (0)
+Hotel Pension Rijsserberg;". Tel. 32. Holl. Schwartwald
+Aangen. en rust. gel. op hooge heuvel tem. der bosschen, helde en korenveld»
+Pracht Pan. Mod. comf. V. en naj. f3.—p. d. Selz. f 3.50 p. d. Prosp. op aanvi
+"l
+in l
+
+rl l UDDEL
+l l
+(Veluwe) - Famlllepeneion HINJAK" op een afstand van
+20 min. van het Uddelermeer. Gelegen tegen bosschen en helde van het
+Kroondomeln. Centrum voor wandel-, fiets-, en auto excursies. Prifzen op aanvrage
+VALKENBURG fL) SCHAEPKENS VAN ST. FIJT Jir^t? i
+wrifc'**'"ww'*&gt;* V1'/ water. 10.000 M' tuin. 10.000 M' boomgaard. Parkeerterr. en gar.vrl) I
+VELP (Gld.)
+HOTEL NAEFF'
+:" Bekend Restaurant!
+Groote Tuin, Antogarage I
+Tennisbaan - Tel. Intere. 3152 en 8153 B. BEIJER l
+HcMelRen.DEDCLLEII.Tel.legerpl.Olde*br.No.2(da(iiiwcht).Rustlggel.teiiildd.
+v. pr. natuursch. In 400 H.A. eeuwenoude bosschen. Elg. terr. (Natwrmommeiit).
+bllEPt (Veluwe) Med&gt; com'- c*ntr- v- uOtebr. wegene, v. auto's en rl|w. Boxengar. vrl|. J. H. v. AALST
+HOTEL GERMANIA
+HPFRI FM
+••* CI\iUCl^l Tf)1&gt; 4717&gt; Mod&gt; comt. Gar. vrij. Hnla v. d. 1ste
+imsmsz. Gerenomm. kenkenu Pension vanaf f4.—. Centr. van Z. Limburg
+TROMPENBERG'5 PALACE HOTEL
+Telefoon 7941 (2 lijnen) e Matige tarieven
+j j f\ | f e—Ik | Bondsbotel IN DEN SWABTEN RÜYTKR o.d. Holterberg
+•"l C J l l t 111 Hooge, droge en zonnige ligging In schitterende omg., zuivere lucht
+helde en dennen. Tarief en prosp. op aanvr. Paardenst., Gar. vrij. Tel.
+l
+l
+l
+VIE8HOUTEN (Veluwe]
+HOTEL-PENSION-RESTAURANT
+DE MALLEJAN
+Tel. 2. (D. en n.). Eerste en oudste huls ter plaatse. Aangenaam en rustig gel. Het boschhotel v. d. Veluwe.
+D* gelegenheid voor uitstap|es. 48 kamers. Str. w. en k. water. Centr. verw. Badkamers. Boxengar.
+A. N. W. B. Bondshotel en paardenstal (ri)paarden aan het Hotel te huur). Penslonprilzen (minimum
+4 dagen). Vóór- en naseizoen f4.—. Juli en Augustus f4.- f 5.-. Het geheele (aar geopend.
+Vraagt prospectus.
+Eigen.: F. W. DICKMANN
+WITTEM (L)
+Telefoon 4 HOTEL KNOPS-SMEETS Telefoo
+Stroomend water. 13 mooie kamers. Garage vrij. Terras en groote gezellige tui
+II I1IITH-IIHEBEH
+m 4 l
+luinl
+(Poet Velp) Hotel-Pension DE ROSKAM"
+Alle comfort. Aan den voet der Worth-Rheder Helde en Beekhuizer bos
+
+schen. Garage vrij. Unieke gelegenheid. Telef. Velp 3062
+|_| f*\ l l TUI C M Hrtf-ol CÏFI II n Al Schitterend gelegen temidden der natuur.
+n vJ U l n t rl notei VJCULUAL Mod.rncomf0rt. GarM.,r,t„. Telefoon i.
+bij Valkenburg Penslonprfls vóór- en naseizoen f3.—. Hoofdselzoen f3.50. Vr. prosp.
+HULSHORST Hotel-Pension 't WOUDHUIS ^^7».^
+iewe»weiwi»w • .„,!,,„(. Gei. Int. Str. water. Vr. prosp. Tel. Kierden 4, dag en nacht.
+l KOOTWIJK
+Hotel Pension PIETERSHOF
+Temidden van
+zand verstul vingen
+en Staatsbosschen. Gelegenheid voor kam peeren. Matige prijzen
+i op WALCHEREN
+ruimste strand op Walcheren. Aan de duinen pensions en gemeubil.
+zomerhuisjes. Op het strand badtenten. Baden vrij. Inlicht. V.V.V.
+l tff\l lOC léfEDIc'C Ru»t|g en rustiek achter een prachtige duinenreeks, het mooiste en
+iiflll/ . ...irP PFN^IHN WFSTFRnillM" K.X.A.C, hotel. Comfort
+WIJK AAN ZEE »rtHÖIUI1 WtOltltUUIW op Mn niet.mondaine badplaats.
+1HJI* nnn «.e.»» 45 kamers, maar slechts enkele nog vrij. Telefoon 224.
+l l
+Klnder-tebuls FliOPKE". Pr. en hyg. verz. Ook Veget. Vrij duinen. Pr. ref.
+vr. Inl. en lijst v. adr. voor Inf. Inf. voor Zandvoort Dr.C. J. Tichelaar. Leiding j. W.
+DaemiHeek Boulev. Barnaart I2a, tel. 2970. Gezondh.-verkl. v. d. hulsd. verelscht. Zomer en winter geop.
+ZEIST
+Schoone plaats en boschrljke omgeving. Gemeubileerde woning- en
+pensiongids met bijzonderheden gratis. Kleine gids 25 et., groote 50 et., plattegrond van
+Zeist 10 et. franco op aanvraag. Bureau V.V.V. - Telefoon 2174 - Giro 61609
+*7O l ITT l AaintT
+/ II II l 1 1_ A ni II t
+a- v w i s-s-nna^a.
+Badbotel ,,TIEN TORENS" telefoon 10. centr. verwarming.
+^"e kamers warm en koud stroomend water. Kamers met privébad.
+Vo)| penj f3&gt;_ (o{ f 4&gt;_$ nl |5 Ju|, f4&gt;_ tot f 5... pro,p. op Mmr.
+
+</text>
+<image timestamp="2002:10:02:13:42:40.00" size="211185">D10008WB.TIF</image>
+</page>
+</document>

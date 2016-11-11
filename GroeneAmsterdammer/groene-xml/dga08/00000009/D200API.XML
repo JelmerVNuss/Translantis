@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340217</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 17 Februari 1934
+N o. 2959
+De nieuwe fabriek en monster
+
+kamers van metalen meubels
+D3 te Rotterdam
+Metalen meubels
+Het schijnt D3 voor den wind te
+gaan. Men heeft de vleugels uitge
+
+spreid tot breeder vlucht en de oude
+Enka-fabriek betrokken ! Alles is in
+lichte tinten geschilderd en behangen
+en daar vindt men in een reeks mon
+
+sterkamers allerlei voortbrengselen van
+het bedrijf bijeen: in hoofdzaak me
+
+talen meubels naar ontwerp van Ir.
+van Ettingen, van Gelderen,
+Schultema en Verbeek: gewone en z.g. ge
+
+makkelijke stoelen (onder welke een
+verstelbaar exemplaar dat van groote
+vindingrijkheid van den maker ge
+
+tuigt !), banken, bureaux, tafels, kas
+
+ten waarbij alles is ingesteld op doel
+
+matigheid en gemak.
+Doos 6Oct Bij Apoth en Drogisten
+Dat het metalen meubel (ondanks
+de voorspellingen van tegenstrevers
+als verstokte aanhangers van het al
+
+oude hout-materiaal) over de gansche
+linie het pleit heeft gewonnen blijkt
+opnieuw uit hetgeen men overal onder
+oogen krijgt. Thans heeft men ook voor
+de banken en stoelen in auto's het
+metaal toegepast en zoo ergens dan
+is het daar toch stellig op zijn
+plaats !
+De open sfeer en de eerbied voor
+de ruimte wordt door toepassing
+van metalen meubilair bevorderd
+en wie zich daarvan wil over
+
+tuigen kan in de nieuwe fabriek
+D3 daartoe rijkelijk gelegenheid vinden
+Alleen. ... zij ligt wat achteraf maar
+dat zal naar men hoopt- geen practisch
+bezwaar opleveren.
+Aardig is vooral de manier, waarop
+men een bioscoop-zaaltje sugge
+
+reerde door tegen den wand een wit
+vlak te schilderen en een rij stoelen
+nevenseen geschaard, daartegenover
+op te stellen. Men is vol goeden moed
+en wij wenschen de onderneming
+gaarne veel succes toe. ditmaal niet
+in bijzonderheden tredend betreffende
+hare producten. Wij vinden spoedig
+daartoe gelegenheid.
+O. v. T.
+Ach... zoete droom.
+Melis Stoke
+Teekcningen Harmsen van Beek
+Ik heb laatst gedroomd dat ik keizer Poe-ji was
+en het volk mij begroette niet liefde en schroom.
+omdat ik de eerste van een dynastie was
+in een land waar geen sociaal-democratie was.
+Waar algemeen kiesrecht een. anomalie was
+en geen communisme.... Maar 't was slechts een droom. .
+Ik droomde dan dat reeds mijn kroning zoo na was
+dat alles gereed was, incluis mijn program,
+dat natuurlijk als alle programma's Poe-ha was,
+daar het vol van beloftes van Z tot aan A was,
+voor jonger! en ouden en komenden na-was
+en ieder wat schonk doch van niemand wat nam.
+
+Ik zei dat mijn Keizerrijk uit de puree was,
+of minstens nog in de puree de foie gras,
+dat het bij de bevolking alom pais en vree was,
+en het Rijk schoon geen mensch er van de N.S.B, was
+de machtigste natie ter land en ter zee was
+(de vloot was zoo-zoo en het leger la-la)
+
+Ik beloofde om nimmer belasting te heffen.
+dan in de gedaante van Staatsloterij,
+opdat mijn bevolking- maar goed zou beseffen
+dat ik niemand in winst of vermogen wou treffen.
+Kn prijzen. . . . reusachtig hoor. . . . wacht maar eens effen.
+(Hoeveel dat zou zijn zei 'k er nog maar niet bij).
+De landbouw zou bloeien, en waar industrie was.
+daar zou ik die steunen, met man en met macht.
+en. invoertarieven. . . . zoowaar ik Poe-ji was.
+De suiker zou bloeien, zelfs zonder een N.T.V.A.S.
+De uitvoer zou voortdurend stijgen.... want die was
+reeds vóór mijn regeering tot nihil gebracht.
+
+Van goud en van ruilmiddel heb ik gezwegen.
+Ik kijk nog maar eerst eens de kat uit den boom.
+tot de een of de ander gelijk heeft gekregen.
+Dan KOU ik dat vraagstuk nog wel overwegen
+en van die beslissing verwachtte ik zegen
+en bloei voor mijn land.... Want het was rnaar een droom.
+
+Het was maar een droom. . . . wa-nt ik kan niet regeeren,
+zooals men een land tegenwoordig regeert.
+Ik kan niet met zekerheid dingen beweren.
+en aiiderer standpunt volkomen negeeren
+en allen beloven wat allen begeeren
+opdat mij de meerderheid niet contrarieert.
+
+Ik ontwaakte en zag mij den troon reeds ontnomen. ..
+Het vluchtende beeld keek ik peinzende na. . . .
+Men maakt het zich veel te gemakkelijk in droomen.
+In werkelijkheid zou ik niet zonder schromen
+rnet zulk een programma voor 't volk kunnen komen
+want al waar' ik Poe-ji. ... ik veracht de Poe-ha
+
+</text>
+<image timestamp="2002:10:28:06:56:34.00" size="218967">D200API.TIF</image>
+</page>
+</document>

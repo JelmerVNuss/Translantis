@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260220</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2542
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+PROF. DR. W. EINTHO\EN
+
+DOOR PROF. DR. W. STORM VAN LEEUWEN
+40 jaar Hoogleeraar
+
+RUIM veertig jaar geleden deelde de beroemde
+Utrechtsche physioloog Donders bij den aan
+
+vang van een zijner colleges aan zijn hoorders mede,
+dat een Utrechtsch student was benoemd tot pro
+
+fessor in de physiologie te Leiden. De ouderen begre
+
+pen, dat die student niemand anders kon zijn dan
+de semi-arts Einthoven.
+Een zoo jonge man te benoemen op een zoo belang
+
+rijke plaats.de faculteit die toentertijd die voordracht
+heeft opgemaakt had daarmede een groote verant
+
+woording op zich genomen. Het onderwijs in de
+physiologie is een van de allergewichtigste onderdeden
+van de medische opleiding, en hoe kon men zeker zijn,
+dat deze semi-arts in staat zou zijn dat vak aan de
+Leidsche universiteit te doceeren?
+Ongetwijfeld zal de f?culteit Donders's oordeel
+hebben gevraagd en diens invloeden gezag waren toen
+groot genoeg om als basis voor een benoeming te
+dienen.
+Daar kwam dus een zes-cn-twintigjarig jong arts
+naar Leiden als professor in de physiologie, en velen
+zullen zich hebben afgevraagd: Zal hij het kunnen?
+Zeker zullen velen die vraag aan Donders hebben
+gesteld en ik kan mij wel voorstellen wat Donders
+zal hebben geantwoord: Deze jongen heeft bij mij
+gewerkt, hij heeft een groote intelligentie en een groote
+liefde voor de physiologie. Dat is voldoende om goed
+werk te leveren in een bepaald onderdeel van het
+vak, maar nog niet voldoende om het vak te doceeren,
+want er zijn natuurlijk groote gebieden waarvan hij
+nog veel te weinig weet. Ik kan er echter voor instaan
+zoo zal Donders betoogd hebben dat hij dat
+tekort aan kennis snel zal aanvullen, omdat ik nog
+zelden iemand gezien heb met zulk een groot
+plichtgevoel. En dat lartste z l bij een aantal
+faciilteitsleden, die voor deze voordracht nog terugschrikten,
+wel den doorslag hebben gegeven.
+Dat is veertig jaar geleden en wij allen weten nu
+al langen tijd, dat Donders zich in zijn leerling niet
+vergist heeft. Het is niet noodig dat hier uitvoerig
+te betoogen, daarvoor zijn al te veel eerbewijzen uit
+binnen- en buitenland in de laatste jaren aan den
+Leidschen physioloog toegekend.
+Men heeft de groote geleerden wel ingedeeld in
+klassikers" en romantikers". Einthoven is een
+onvervalscht type van de eerste categorie. Hij dankt
+zijn beroemdheid niet aan snel opgekomen geniale
+gedachten; hij kan niet zeggen: one niorning I
+awoke...."; men kan zijn carrière niet voorstellen
+door een snel stijgende lijn, die na het bereiken van
+zijn hoogste top vrij snel weer daalt om later even
+
+tueel nog door eenige hooge toppen te worden gevolgd.
+Einthoven's curve loopt nu al veertig jaar lang in
+langzame glooiing opwaarts, hij heeft een zeer groote
+hoogte bereikt, en wij die hem van nabij kennen, zien
+nog geen aanwijzingen, dat hij gaat dalen.
+Wat is Einthoven's levenswerk?
+Bij weinig geleerden kan men met zooveel recht
+van een levenswerk" spreken. Want inderdaad heeft
+deze man veertig jaren van zijn leven gewijd aan
+n taak, de bestudeering van de electrische verschijn
+
+selen in het lichaam, in het bijzonder die in het hart.
+Onze kennis van de physiologie en vooral ook van
+de ziekteleer van het hart is in de laatste decenniën
+enorm vooruitgegaan, en met name is men omtrent
+de onregelmatigheden in de hartswerking bij zieken
+veel meer te weten gekomen. Wanneer men zich
+afvraagt aan welke namen deze vooruitgang in hoofd
+
+zaak is te danken, dan komen er vijf direct op den
+voorgrond. De eerste in chronologische volgorde
+is Engelmann geweest, die in Utrecht en later in
+Duitschland de basis legde voor de kennis van het
+hartrhythme bij koudbloedige dieren, dan onze land
+
+genoot Wenckebach, die als hoofdverdienste heeft
+dat hij, steunende op de physiologische feiten die
+toen bekend waren en aan welker ontwikkeling
+hij zelf had meegewerkt, de kliniek der
+hartsonregelmatigheden bewerkte. Deze arbeid culmineerde in
+zijn in 1914 verschenen boek over de onregelmatige
+hartswerking. In dat boek vindt men over Einthoven's
+werk nog zeer weinig.
+In Engeland had Mackenzie, als gewoon practisch
+arts eveneens de studie der hartswerking ter hand
+genomen, een studie die hij later als professor in
+Londen voortzette en waarbij zeer belangwekkende
+feiten aan het licht kwamen. In dien tijd was
+Einthovens' werk nog nauwelijks tot de kliniek door
+
+gedrongen. Zijn curve steeg en steeg, maar was nog
+niet hoog genoeg.
+Engelmann en Wenckebach hadden gewerkt met
+relatief eenvoudige onderzoekingsmethoden, Macken
+
+zie met zeer eenvoudige. De laatste was zoozeer onder
+den indruk van wat met deze eenvoudige hulpmidde
+
+len kon worden bereikt, dat hij nooit de grootheid
+van Einthoven's werk heeft willen erkennen. Wencke
+
+bach heeft dat wel degelijk gedaan.
+Wenckebach's leeftijd komt, naai ik schat, ongevee;
+met dien van Einthoven overeen, Mackenzie was wat
+ouder. Waarom kwam Einthoven's werk dan later?
+Daar was reden voor.
+Misschien heb ik het al eens meer verteld; ik sprak
+eens over Einthoven met een van onze Duitsche col
+
+lega's, die bekend is voor de korte, treffende gezegden
+waarmee hij een situatie of een persoon kan
+karakterisceren. Einthoven ! Ah, Fre/.icionsgehirn !
+Einthoven was als jong physioloog begonnen met
+de studie van de electrische verschijnselen die zich
+bij elke contractie in het hart voor doen. De toen
+
+malige methoden o.a. die van de capillairelectrometer
+voldeden hem niet, waren niet nauwkeurig genoeg,
+derhalve maakte hij steunende op een nieuw door
+hem gevonden principe een nieuw apparaat, de later
+zoo beroemd geworden snaargalvanometer. Maar dat
+gaat niet zoo vlug. In het nieuwe toestel was een
+snaar" noodig, een uiterst dunne kwartsdraad; dan
+wordt een onderzoek in het laboratorium op touw
+gezet over dunne draden, een onderzoek dat jaren.
+wellcht tientallen van jaren duurt. Maar dat heeft
+dan ook het resultaat dat Einthoven draden laat
+maken, dunner, elastischer, bruikbaarder dan eenig
+andere, dat hij bovenden de eigcnschapjien, de theo
+
+rie" van dunne draden en hun toepassing heter kent
+dan wie ook. Dat zijn de draden, maar hetzelfde prin
+
+cipe geldt voor elk ander onderdeel. Alles wordt tot
+in de puntjes onderzocht, berekend, geregistreerd.
+Het eindresultaat is, dat daar nu in Leiden een labo
+
+ratorium bestaat zooals er geen tweede in de wereld is.
+Toestellen, de fundeeringen, tal van werktuigen en
+hulpapparaten en - niet te vergeten - een stat'
+van uitnemend geschoold personeel, allen : hoogleeraar,
+assistenten, instrumentmakers, bedienden samen
+
+werkend tot n doel. En dan kan men wat bereiken '.
+Zoo heeft Einthoven gewerkt en zoo werkt hij nog.
+Op deze wijze werd een schat van kennis verzameld
+omtrent het rhythme van het hart, omtrent de ge
+
+leiding in het hart en het contractievermogen van
+de hartspier; een geheel nieuw arbeidsgebied ont
+
+stond, dat van de electrocardiographie. Vele jaren
+bleef dit werk beperkt tot het laboratorium, en als
+men Einthoven zelf hoort, clan zegt hij, dat de
+Engelschman Lewis de man is geweest die heeft ge
+
+maakt dat de electtocardiographie bruikbaar is ge
+
+maakt voor de kliniek en algemeen als zoodanig is
+erkend.
+Het voorschrift voor het toekennen van de Nobel
+
+prijs hepaalt o.a. dat deze prijs moet worden toegekend
+aan ctengene die in het laatste jaar de belangrijkste
+ontdekking heeft gedaan. Ontdekkingen die vele jaren
+terug liggen, /.ouden dus niet kunnen worden beloond,
+maar er is nog een clausule bij, het kan n.l. wel indien
+het belang van de ontdekking eerst in de laatste
+jaren is gebleken, l let vermoeden ligt voor de hand
+dat het Nobelcomitéo.a. op deze clausule gesteund
+heeft toen het besloot de prijs voor 1924 aan [{inthoven
+toe te kennen. Want Einthoven's ontdekking" ligt
+al veie jaren terug, ook zijn physiologisch onderzoek
+vormde al een gesloten geheel: maar de invoering
+van zijn methode in de kliniek waardoor nu ook zijn
+werk vruchten afwerp! voor vele duizenden patiënten,
+dat alles is van de laatste jaren en daarbij moet zeker
+Lewis' naam niet eere en in de eerste plaats worden
+genoemd. l)at geef ik gaarne toe en ik wil de minste
+zijn om aan Lewis' verdieibte te kort te doen (ook al
+omdat mij dat door mijn collega Einlhoveii zeer ten
+kwade zou worden geduid) maar n ding wil ik er
+nog bij zeggen. De idee, dat dit physiologische werk
+voor de kliniek van groot belang moest zijn is van
+Einthoven zelf. Ook zijn van hem zelf de eerste onder
+
+zoekingen op gezonde en zieke menschen. Dat de
+groote klinische uitwerking door een clinicus moest
+geschieden, spreekt vanzelf en het werk van Lewis
+is daarbij van zeer groote waarde geweest.
+Ik gevoel mij eenigszins schuldig tegenover mijn
+ouderen collega omdat ik het gebod, dat niet ge
+
+huldigd" mag worden niet geheel heb geëerbiedigd.
+Wellicht heb ik kans op vergeving wanneer ik hem
+in zijn zwak tast, en dat doe ik wanneer ik behalve
+het werk van Einthoven zelf, ook dat prijs van zijn
+talrijke leerlingen, van zijn vriend Lewis en van zijn
+zoon, den ingenieur Einthoven.
+Lewis heb ik al vermeld. De veel assistenten en
+leerlingen die Einthoven in die 40 jaar gehad heeft,
+zij hebben hem geholpen met een trouw en een toe
+
+wijding waarvoor hij dat Weet ik uit goeden
+bron - uitermate dankbaar is.
+En van den zoon? Ook hij heeft zijn vader jaren
+lang geholpen bij het werk, geholpen, met hart en
+ziel" en met zijn verstand. En zijns vaders voetstappen
+heeft hij gedrukt door te zamen met hem een belang
+
+rijke uitvinding te doen waardoor het principe van
+de snaargalvanometer kan worden toegepast op de
+draadlooze telegraphie.
+Een karakteristiek van het werk van Einthoven?
+Ah, Pre/.icionsgehirn" /.ei de Duitsche collega.
+Snaargalvanometer" zeggen velen,
+Studie van de electrische verschijnselen in het
+lichaam, vooral in het hart" kan men zeggen om wat
+nauwkeuriger te zijn.
+Maar als de karakteristiek iets meer woorden mag
+omvatten en uitdrukken, zal, wat m.i. het gewichtig
+
+ste is, dan zou ik het als volgt willen zeggen:
+Einthoven heeft een bepaald gebied van de
+physiologie (dat later dienstbaar werd gemaakt aan de
+ziekteleer en zoo de kliniek bereikte) bewerkt met
+physische methoden en heeft daarbij gestreefd naar
+de uiterste nauwkeurigheid. Hij heeft geen enkel
+risico genomen, niets als waar aangenomen of gepu
+
+bliceerd voordat de juistheid ervan boven allen
+twijfel verheven was, hij heeft getracht de wissel
+
+valligheden van het physiologisch experiment zoodanig
+te compenseeren en uit te schakelen, dat ook een
+physicus trotsch zou zijn op de nauwkeurigheid van
+de verkregen resultaten. Daartoe is werk tot stand
+gekomen dat vermoedelijk door een geheel geslacht
+niet zal kunnen worden verbeterd. Hij heeft veertig
+jaar gearbeid aan eenzelfde gebouw, het ging lang
+
+zaam, steen voor steen. Alleen met het leggen der
+fundamenten gingen grif twintig jaren heen. Het
+gebouw is nog niet voltooid, maar reeds steekt het
+hoog uit boven vele andere, het is in heel de weten
+
+schappelijke wereld bekend. Er zijn hoogere gebouwen
+dan het zijne, dat is wel zoo. M'aar of er velen zijn
+zóó hecht van structuur en die zoolang weerstand
+zullen bieden aan den tand des tijds?
+Einthoven heeft ons een voorbeeld gegeven hoe
+door toepassing van de uiterste nauwkeurigheid, door
+het respecteeren ook van schijnbaar nietige details
+grootsch werk kan worden verricht. \\ ij vertrouwen
+op dat werk als de l lollandsche zakenman op de
+Ncdcrlandsche Bank.
+TOEGEPASTE KUNST
+De i'crkeersplaat van \Vijrnnan
+
+Het is voorwaar geen slechte gedachte om het
+veilig verkeer te bevorderen door Voorzichtigheid
+te propageeren, zooveel dit maar mogelijk is en het.
+is in dit verband toe te juichen dat men van overheids
+
+wege zich tot de knnstenaren richt om bij het ont
+
+werpen \an pakkende propaganda-reclame-bil jetten
+behulpzaam te zijn.
+Maar wat ei nu verschenen is: een door Wint
+Wijnman geleekt -nde affiche (gedrukt door
+Seiiefckler in oranje-rood en zwart) maakt de menschen
+nog veel schrikachtiger dan zij in onzen zenuwachtige!!
+tijd al zijn !. . . .
+l Ce n n.ode autobus en motorfiets, den flitseiiden
+schijn ha re r schijnwerpers voor zich uit priemend,
+bestormen een in het z\:art gehuld wezen, welks haren
+ten berge rijzen, de oogen achter een rcusachtigen
+uiknbril en de mond zijn in doodsschrik i.ps. ngespalkt
+en in het bleeke gelaat van deze spookachtige ge
+
+stalte (man, vrouw, hennaphrodirt ?) is het alsof
+het in angst als wegsterven van het leven onder de
+bedreiging van hel overredcn-wordtn zich culmineert !
+Ei.n wel /eer cxpasMeïbiljet dus, drch dat zijn do,,-!
+volkomen door IK i caricatiirale voorbiistactt.
+En de UUets.... Ze staan i. r weer net hii als l
+ze met het hcele i;ival niets te maken wil',n hebben.'
+
+</text>
+<image timestamp="2002:09:25:01:21:58.00" size="241516">D10007CM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19341222</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wat zegt DE GROENE in het Kerstnummer
+van de jvolgende |week...? DICTATUUR?"
+Prof. Mr. A. C. Josephus Jitta
+Frans Coenen
+Mr. Joh. Huyts
+L J. Jordaan
+Emil Ludwig
+Prof. Dr. D. Cohen
+M. Y. Ben Gavriël
+Dictatuur en de Nederlandsche traditie.
+De zegen der dictatuur.
+Dictatuur van het proletariaat.
+Filmdictatuur.
+Dictatoren.
+Dictatuur in de oudheid.
+Ibn Saoed, dictator van de woestijn.
+B«Blletristische Bijdragen van Albert Heiman, Henriëtte van Eijk» Melis Stoke, F. de iSiijiclair,
+Xfida Zevenfe0om. ';;—Illustraties van Jordaan, Jantje, J. F. Doeve, W; v.. d» fzen,-Th.
+Hirmsen va^.Beej^ Groote Schouwburg-prijsvraag door Jantje. Fotópuzzle en jettèrraatfjsel.
+Qinslag in vi||rMeu|endruk. Het Kerstnummer is verkrijgbaar aan alïe kiosken.
+W\ , $&gt; M^^k
+m-4^k^^^mm^
+i* '.';
+iV.--:.-.t-;'" •/ •'•';- ,V
+^:\\.,'.'^ .,
+hierlanos uitknippen en verzenden in open envejoppe gefrankeerd met l1,'» cent
+ondergeteekende wenscht zich voor het jaar 1935 te
+abonneeren op DE GROENE AMSTERDAMMER" ad f JO.- per
+jaar en het Kerstnummer gratis te ontvangen.
+aan de groene
+a m s t e r d a m m e r M
+keizersgracht 355 Amsterdam c
+post giro 72880
+gem. giro G1000
+telefoon 36264
+PAG. 13 DE GROENE No. 300'
+
+</text>
+<image timestamp="2002:11:06:18:49:49.00" size="621031">D3000JB6.TIF</image>
+</page>
+</document>

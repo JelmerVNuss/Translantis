@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>57</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N«V. QOEDEWAAQEN's Kon. Fabrieken - Gouda
+ELKA Kalverstr. 206
+AMSTERDAM.
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRIJZEN
+'ADRIAAN SCHAKEL*
+HEILIGEWEG TELEFOON 37273
+BEGRAFENIS OMDERMErilflB
+T^r G. KÜM l N G. J R T^£°"
+MIEUWL 5PIE6tL5Tr\AAT G1 AM5TERQAM
+BLCiFUFEMISaElrl NAARAlLCPtAATSEh
+LRLMATIL
+Wed.H.Rahder&amp;Zn.
+WIJNHANDELAREN
+Amsterdam Arnhem
+i 's-Gravenhage • &lt;";'
+Hof!ev. rantiVrs
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvaige gaarne toegezonden
+VOOR EXPORT SPECIALE C O N D l T l N
+KIPS &amp; Co.
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+VAN RIJ N S
+ItüMOSTERD
+PRIJSVERLAGING
+Repareeren
+Veranderen
+Stoppage
+Keeren
+
+Costifum
+stoom e n
+
+3.90
+COSTUÜM
+PERSE
+"* 1
+N • • • ••
+
+MY VALET
+
+AMSTERDAM:
+Paieisstrest 15, Telafcon 44915
+Wïilcmsp wen 175, Tel. 20333
+Ceintuurbaan 14S, Telefoon 21449
+HlUtRSyt»! ; Havenstraat il. Teief. 1506
+BUSSDS/i Nsssauisan 35, felefcor, 141
+Hotel - Pension - Café- Restaurant
+
+'T JACHTHUIS" dependance
+WARNSVELD (Telefoon 226 - ZUTPHEN)
+In onmiddellijke nabijheid der boffschcn, uitgebreid en naar aiie eischen des tijds
+Ingericht. Groote Mrre. waranda's en tuin met pracht uitzicht. Tennisbaan. Garage.
+Aanbevelend, W. T. GROENHOFF.
+Indisch Restaurant en Lunchroom
+. VAN GEEMERT
+Laan van Meedervoort 12 DEN HAAG . Tel. 12869
+N.V. Verzekering-Maatschappij
+
+MERCURIUS"
+= OPGERICHT ANNO 1894 ==
+AMSTERDAM, C. - KEIZERSGRACHT 570
+
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLESDINGSCHADEVERZËKERING
+
+</text>
+<image timestamp="2002:09:27:17:09:44.00" size="97596">00000AVD.TIF</image>
+</page>
+</document>

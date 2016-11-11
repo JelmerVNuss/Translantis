@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18921204</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kamerlid tegen wil en dank.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 4 December 1892.
+Amst. Boek- en Steemlrukkerij, v/h. Ellerman, Harms &amp; Co.
+MR. DE SAVORNIN LOHMAN: Je hoort er in, vriend Kuyper! Je talenten, je positie als leider.. ..
+DR. A. KUYPER: Maar ik meen dat ik elders nuttiger. ...''
+MR. DE SAVORNIN LOHMAN: Kom, kom,.een mensch is niet voor z'n pleizier op de wereld!"
+
+</text>
+<image timestamp="2002:10:02:09:06:39.00" size="274575">D10008TO.TIF</image>
+</page>
+</document>

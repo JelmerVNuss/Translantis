@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281201</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+u if^
+EKL)ÏIM.MIÏK VSLN i
+NO. 2OOJ
+J. D* STRUIJS 6 Ziu
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+ELIASPSBOMMEL:
+BOEKBINDER
+KERKSTRAAT 58
+AMSTERDAM
+Lijmt alles
+ClichécS
+f Voor alle doeleinden
+i NV
+i Oiem.Kunstinrictlting
+iDirkSchnabei
+Amsterdam. *
+KUNSTZAAL WILLEM BROK
+HILVERSUM
+TENTOONSTELLING
+vanSCHILDERIJEN-TEEKENINGEN
+en GRAFISCH WERK door J. D. ROS
+van l tot 31 December
+VOOR
+
+TAFELZILVER
+(HANDWERK)
+EN
+
+IMITATIE ANTIEK
+ZILVERWERK
+
+IN DEN SILVEREN
+MOLENBEECKER"
+AMSTERDAM DEN HAAG
+Kalverstraat 32 Hoogstraat 31
+BEGRAFENISVEREENIGING
+
+N. SAX }r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+Overhemden naar maat i
+Vervaardigd op eigen Ateliers
+B[] om verkrijgbaar s
+N. R, V. MONTA SCHOENEN
+iiiimiiiNimNimiiiimmmiiiHiimNNimimiiiminHiniinniiiiiiiii^
+«m*
+'T OLDERSHEEM
+LANDELIJK INTERNAAT voor JONGE MEISJES
+ONDER PATRONAAT VAN MEVROUW BOISSEVAIN-FELTKAMP
+TE DIJKERHOEK (Spoorstation Deventer—Almelo).
+Doel : Na voltooide schoolopleiding zorg voor gezondheid in beschaafde omgeving.
+Arbeid in boomgaard, moes- en bloementuin, afgewisseld met huishoudelijk werk
+en keuken. Aanvang nieuwe Cursus Februari 1929.
+KULCSA R'S
+PERZISCH IMPORTHUIS
+Den Haag Amsterdam Rotterdam
+NoordeindeH Leidscheplein5-9 Schiedamschesingelllb
+Het oudst bekende speciaal adres voor
+Perzische tapijten
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:18:52:50.00" size="231758">00000750.TIF</image>
+</page>
+</document>

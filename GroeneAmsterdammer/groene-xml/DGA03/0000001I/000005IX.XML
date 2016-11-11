@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250418</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'DE" GROENE AMbTEKUAMMEK, WEEKBLAD VOOR NEDERLAND
+NO. ZWT
+UIT HET KLADSCHRIFT VAN JANTJE
+BJOOTMOTOREN MOTORBOOTEN
+Blngham &amp; Lugt - Slepersvest l - Rotterdam
+DE LUCHT-FORDJES
+Nu Henry Ford in 't tranendal,
+dat aarde wordt genaamd,
+geen buit, geen prooi meer vinden zal,
+dewijl zich ieder schaamt
+t'erkennen, dat hij liever loopt,
+wijl hem de prijs bezwaart,
+nu voelt zich Ford tot werk genoopt
+voor 's menschen hemelvaart !
+
+'t Voetérend Menschdom heeft, vermoeid,
+de wapenen gestrekt
+(schoon moog'lijk, waar de seinhorn loeit,
+een enkle 't leven rekt !);
+en nu de Mensch, door Ford's genie,
+geen grond meer kan begaan,
+grondt Ford een vliegtuig-industrie,
+en helpt hen naar de maan !
+
+Z'n aard verloochent Henry nooit,
+dus 't vliegtuig Wordt alras
+op ied're wereldmarkt gegooid
+(alsof 't van ijzer was !).
+En elk, die straks geen lucht-Ford heeft,
+bejammert zijn gemis,
+gezien het feit, dat al wat leeft,
+dan in de wolken is !
+
+Niet langer blijft de Politiek
+gehuld in 't aardsche stof:
+z' ontstijgt op 't Fordschc mechaniek
+de sfeer van 't Binnenhof!
+En welft zich boven d'Amstelstad
+een opgeklaarde lucht,
+dan neemt een meel- of melk-debat
+subiet een hooge vlucht !
+
+De dichters varen naar de Lier,
+van aardschen band verlost;
+het Kabinet omzweeft den Stier,
+en Venus wordt gepost.
+En aan den Zonnetijd verkleefd
+gaat de Regeering vlug
+naar 't Braatsche teeken van de Kreeft,
+en krabbelt gauw terug !
+
+K U M G R A NOSALIS
+
+SPREEKZAAL
+
+Geachte Redactie.
+Het is begrijpelijk, dat het voor een lumiorist
+soms moeilijk is iedere week zijn contractueel
+quantum esprit te leveren. Niemand zal er dan
+ook over vallen, dat Jantjes bijdragen niet altijd
+even geestig zijn. Evenwel zijn de grollen, die hij
+zich in het nummer van 11 April over een bekend
+Amsterdamsch winkelier veroorlooft, niet in
+overeenstemming met de standing van Uw week
+
+blad.
+Ik begrijp wel, dat men niet de geheele redactie
+voor iedere bijdrage kan verantwoordelijk stellen,
+maar het lijkt toch in het belang van de Groene
+PADOX HOUTBOUW
+Houten Scholen, Winkels, Directiekeeten
+Levering in korten tijd. Fabrieken Warmond
+Amsterdammer, dat er in het vervolg op Jantje
+meer toezicht wordt uitgeoefend.
+Met dank voor de plaatsing,
+A K T 11 u K Is A A c
+
+Jantje hoort niet tot de gezeggelijkste kinde
+
+ren en zijn trek naar het verbodene is hem soms
+te machtig; maar wij hopen, dat deze verdiende
+vermaning toch eenige uitwerking zal hebben.
+RED.
+PEEK&amp;CLOPPENBURG
+Binnon kort verschijnt
+DE
+ESDE DRUK
+VAN
+HERMAN HEIJERMArS DROOMKONIIKJE
+Uitgave van Van Holkema &amp; Warendorf, Amsterdam
+
+</text>
+<image timestamp="2002:09:03:08:15:47.00" size="123471">000005IX.TIF</image>
+</page>
+</document>

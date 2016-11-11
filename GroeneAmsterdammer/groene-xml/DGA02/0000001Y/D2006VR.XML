@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331014</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+m
+
+utKONINKRIJK OER NEDERUNDEN
+
+4 pCt. Tweede
+Nederlandsche Staatsleening 1933
+uitgegeven krachtens de Leeningwet 1933 (Staatsblad No. 124)
+groot nominaal f
+200.000.000.waarvan reeds is geplaatst f 30.000.000.—, terwijl bovendien de deelneming is verzekerd tot
+een bedrag van f 73.000.000	.
+KOERS VAN UITGIFTE 99; pCt.
+Schuldbewijzen aan toonder groot f 1000.-, f 500.- en f
+100.Af losbaar a pari, bij uitloting, in ten hoogste 40 jaar, te beginnen l November 1934
+RENTENDE 4 pCt.
+De coupons zijn betaalbaar per l Mei en l November.
+De inschrijving geschiedt:
+
+
+op Dinsdag 17 October 1933
+
+van des voormiddag^ 9 tot des namiddags 4 uur,
+bij "*
+de NEDERLANDSCHE HANDEL-MAATSCHAPPIJ, N.V. te Amsterdam, Rotterdam
+en 's-Gravenhage.
+de AMSTERDAMSCHE BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+de BANK-ASSOCIATIE te Amsterdam, Rotterdam en 's-Gravenhage,
+Wcrtheim 6 Gompertz 1834 en Credietveretniging 1853, N.V.
+de BANQUE DE PARIS ET DES PAYS-BAS te Amsterdam.
+DE TWENTSCHE BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+HELDRING &amp; PIERSON te 's-Gravenhage.
+HOPE &amp; Co te Amsterdam.
+de INCASSO-BANK, N.V. te Amsterdam, Rotterdam en 's-Gravenhage.
+LIPPMANN, ROSENTHAL &amp; Co. te Amsterdam.
+R. MEES &amp; ZOONEN te Rotterdam en 's-Gravenhage.
+de NEDERLANDSCH INDISCHE HANDELSBANK, NT?, te Amsterdam, Rotterdam
+en 's-Gravenhage.
+de NEDERLANDSCH-INDISCHE ESCOMPTO-MAATSCHAPPIJ te Amsterdam,
+Rotterdam en 's-Gravenhage.
+PIERSON &amp; Co. te Amsterdam.
+de ROTTERDAMSCHE BANKVEREENIGING, N.V. te Amsterdam, Rotterdam en
+'s-Gravenhage.
+GEBR. TEIXEIRA DE MATTOS te Amsterdam.
+VERMEER &amp; Co te Amsterdam.
+De gelegenheid tot inschrijving is eveneens opengesteld bij het Agentschap van het
+Ministerie van Financiën te Amsterdam.
+Inschrijvingsbiljetten en prospectussen zijn bij deze kantoren kosteloos verkrijgbaar.
+De STORTING van het verschuldigde wegens toegewezen schuldbewijzen moet geschieden
+ten kantore van inschrijving, op:
+
+Woensdag 1 November 1933
+Voor verdere bijzonderheden raadplege men het Prospectus.
+'s-GRAVENHAGE, 9 October 1933.
+De Minister van Financiën,
+OUD.
+
+</text>
+<image timestamp="2002:09:26:21:58:09.00" size="137675">D2006VR.TIF</image>
+</page>
+</document>

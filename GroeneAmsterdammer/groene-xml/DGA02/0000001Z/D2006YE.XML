@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331111</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 11 November 1933
+No. 2945
+J. D. STRUIJS &amp; Zn.
+fel. 37906-Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden
+Molsteeg ~~ Amsterdam
+U R E A U X
+BURGERSDIJK&amp; NIERMANS
+Boekhandel en antiquariaat
+TEHPLÜM SUOMOHIS - UIDEN - HIEUWEN l
+IIEIfEIIIirilin-flllKIIEI
+•l
+l
+Bibliotheken van wijlen
+Mr. Th. Heemskerk, Ds. A. Klaver,
+Dr. E. L. Smit, e. a. .....
+
+Catalogus 15 cent.
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. HoofUtraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+
+
+g-W. H. POLMAN TUIN-i
+l OVERTOOM 526 - Telefoon 82660 l
+f Begrafenissen • Transporten • Crematies g
+
+
+Wed.H.Rahder&amp;Zn.
+WIJNHANDELAREN
+Amsterdam Arnhem
+iiiiiiü's-Gravenhaae NHHH
+Hofleveranciers
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden-op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+MEUBELEN
+BRANDKASTEN
+:•
+SPEELGOED
+Ter gelegenheid van
+Sint Nicolaas hebben
+wij onze
+speelgoedafdeeling op de tweede
+etage belangrijk ver
+
+groot. Ook op de
+derde etage is hier
+
+voor een groote ruimte
+ingericht.
+Beide afdeelingen vor
+
+men thans een waar
+s p e e l g o e d-p a r a d ijs
+Een bezoek daaraan
+is niet alleen voor de
+kinderen, maar ook
+voor de grooten een
+aardige attractie.
+Komt thans reeds Uw
+keus maken; wij be
+
+waren de gekochte
+artikelen voor U en
+bezorgen deze op
+Sint Nicolaas thuis.
+En ten slotte weet U,
+dat speelgoed uit de
+Bijenkorf
+
+ALTIJD GOED EN
+NOOIT DUUR IS
+L'OZONATEUR
+AUTOMATISCHE DESINFECTEUR
+Verspreidt een aangenaam desinfecteerenil parfum
+Ozonatcur	f 5.00
+Ozonatine p. bidon l Liter 5.10
+V» ., -2.75
+G.]. DE KONING &amp; ZOON
+KEIZERSGRACHT 447
+AMSTERDAM-C. TELEF. 43688
+HEERENKLEEOING VOOR
+AMSTERDAM
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+ADRIAAN SCHAKEL
+HEILIGEWEG - TELEFOON 37273
+Toen Vader zoonlief had bewogen
+Ook naar SCHAKEL" toe te gaan
+Kwam zijn naam bij vaste klanten"
+Op den HEILIGEWEG" te staan.
+
+</text>
+<image timestamp="2002:09:27:01:44:32.00" size="214121">D2006YE.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230505</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE VALERA'S PROCLAMATIE
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 5 Mei 1923
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+De Valera: Ik ben bereid te onderhandelen op voet van gelijkheid".
+
+</text>
+<image timestamp="2002:08:26:00:04:12.00" size="158150">D10003OK.TIF</image>
+</page>
+</document>

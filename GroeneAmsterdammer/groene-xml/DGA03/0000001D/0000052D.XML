@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110910</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Marokko-lintwurm.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 10 September 1911.
+yl?;V'^|8P
+m *; '..*••
+• i ?r fc
+Amst, Hoek- en Steen drukkerij, v/h. El l er man, Harms &amp; Co.
+Europa: Ik ben toch niet gerust vóór ik de kop zie van 't beestje.
+
+</text>
+<image timestamp="2002:08:25:18:59:30.00" size="491806">0000052D.TIF</image>
+</page>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320618</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+*.&amp;
+«rail Ift Inni f
+;i;*gSË^
+prijs
+cent
+
+• DE-Gl
+• ' , v *" -&gt; ' " " "
+; Weekblad Voor Nederland
+l •
+Keizersgrach
+
+C -telefoon 37964 - postgiro 72880 -gein, giro G. 1000
+Laidschastraat 106—108 Amsterdam
+POLISSEN
+aan STATIONS en REISBÜREADX dtrcct verkrijgbaar.
+,	* . *
+In geval van schade kan men zich wenden tot de
+EUROPEESCHE"
+l» Amsterdam, Athene, Bareelona, Bslgnio, B»rl(jn, Bern, -Boedapest, Boekarest, Brassel,
+G*nstanttai&lt;nMl, HeWiwfore, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg, Madrid,
+Xtinehen, Otto, Parijs, Praag, Riga, -Rome, Stockholm, Warschau en Weenen.
+NV.V/H
+HA.KLOOSTERHUIS
+KALVERSTR.I78 AMSTERDAM
+Verlichtingsornamenten, Bronzen,
+* Pendules, Boek-steuners,
+Inktkokers, enz.
+Seizoens-Opruiming
+tegen
+STERK verminderde prijzen
+DEN HAAG
+Stille Veeriurfe 28/27
+T*J. Nt. 110888
+ROTTERDAM
+Jufterstraat 27
+Tel. No. 51155
+ARNHEM
+Euseblusblnn.s. l
+Tel. No. 24084
+Ixaportonra van;
+WHISKY
+King V/illiam i v
+Prima Schotsch product van het Huis
+John Qllon &amp; Co Ltd. te Leith.
+Deze whisky munt uit door vol
+
+komen rijpheid en een bizonder
+zachte flavour.
+De echte whisky-kenners geven aan
+dit oude distillaat de voorkeur.
+Prijs f 6.25 per flesch
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+KOOPT HET BEKENDE ROODE PAKJE
+CTS- PFR ONS
+
+</text>
+<image timestamp="2002:09:27:01:50:10.00" size="114592">00000AC4.TIF</image>
+</page>
+</document>

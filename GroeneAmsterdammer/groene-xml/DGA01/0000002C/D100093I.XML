@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381022</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+LEVEN EN BEDRIJF VAN LOUIS PASTEUR
+Louis Pasteur
+
+
+Bij Het vijftigjarig bestaan
+
+van het Instituut Pasteur
+
+DE negen-en-twintigste October zal een belang
+
+rijke dag zijn voor de wetenschappelijke
+wereld in het algemeen, de Parijsche in het
+bijzonder: een halve eeuw geleden werd het eerste
+Pasteurinstituut in gebruik genomen en de Sociét
+de Biologie zal in plechtige zitting dit feit herdenken.
+Ongetwijfeld zal een belangrijk deel der redevoerin
+
+gen, waarin de Franschen zoozeer behagen scheppen,
+gewijd zijn aan de nagedachtenis van hem, wiens
+levenswerk in dit feit zijn bekroning vond: van
+Louis Pasteur, de trots van Frankrijk, de weldoener
+der menschheid.
+Wat heeft hij, zoon van een eenvoudig arbeider
+uit de Jura, niet tot stand gebracht en onder welke
+omstandigheden l
+In 1848, vijf-en-twintig jaren oud, trekt hij voor
+het eerst de aandacht door zijn fraai onderzoek
+over de betrekkingen, die kunnen bestaan tusschen
+den kristalvorm, de scheikundige samenstelling
+en bepaalde phsysische eigenschappen van een stof.
+Tien jaren later, nadat hij als hoogleeraar in de
+scheikunde aan de Universiteiten te Straatsburg en
+Rijssel deze problemen nader had bestudeerd en
+zich tot nieuwe had gewend, spreekt hij als zijn
+meening uit, dat de gisting niet een zuiver schei
+
+kundig proces is, waarbij zooals de groote
+Liebig meende het werkzame ferment uit eiwitten
+ontstond, maar levensuiting is van microscopisch
+kleine wezens in de vergistende vloeistoffen. Ver
+
+volgens maakt hij een eind aan de eeuwenlange
+twistvraag, of levende wezens uit doode stof kunnen
+ontstaan, om dan, na vijf- jaren van ingespannen
+arbeid, middelen aan te geven teneinde de ziekten
+der zijdewormen effectief te bestrijden, een werk,
+waardoor een van de belangrijkste industrieën
+van zijn vaderland van den ondergang wordt gered.
+In de zeventiger jaren gaat hij meer en meer de
+beteekenis van microben als ziekteverwekkers bij
+mensch en dier inzien en het is voornamelijk aan
+zijn initiatief te danken, dat het belang van de
+antisepsis den geneeskundigen duidelijk wordt en
+aldus aan de wanhopig groote sterfte na operaties
+en bevallingen een einde komt. Verontrust over de
+slachting, welke het miltvuur onder het vee aan
+
+richt, weet hij de bacil te isoleeren, op kunstmatige
+voedingsbodems zooals bouillon te kweeken
+en vervolgens door verhitting te verzwakken,
+zoodat een inspuiting van een verzwakte cultuur,
+een vaccin, slechts lichte ziekteverschijnselen geeft,
+maar tegelijkertijd onvatbaarheid voor de anders
+doodelijke aandoening tengevolge heeft.
+En dan de apotheose van een schitterende
+wetenschappelijke loopbaan vindt hij na
+tallooze proefnemingen het zekere middel, om te
+voorkomen dat de verschrikkelijke hondsdolheid
+uitbreekt bij hen, die door een dollen hond, kat of
+wolf zijn gebeten!
+Ieder ander zou reeds met trots op zijn werk
+mogen terugzien, indien hij n van deze ontdek
+
+kingen de zijne mocht noemen Pasteur, de
+chemicus, bracht echter tevens in de biologie en de
+geneeskunde een revolutie teweeg, zonder dat hij
+in deze vakken een opleiding genoten had of kon
+beschikken over een goed ingericht laboratorium.
+Als hij, in 1857, benoemd wordt tot administra
+
+teur van de Ecole Normale Supérieure te Parijs,
+worden hem goedgunstig twee zolderkamers afge
+
+staan. Later verhuisde hij naar een ander gedeelte,
+waardoor zijn bescheiden werkruimte verdubbeld
+werd en hij een broedstoof, noodzakelijk voor zijn
+onderzoekingen, onder een trap een plaatsje kon
+geven, dat op de knieën kruipend te bereiken was.
+Tenslotte werd hij zoozeer door de gebrekkige
+installatie in zijn werk belemmerd, dat hij in een
+brief aan Napoleon III, die zijn experimenten met
+belangstelling volgde, op den bouw van een nieuw
+laboratorium aandrong. Zijn voorstel werd aan
+
+genomen, hij maakte reeds groote plannen maar
+helaas, op het laatste oogenblik kwam het bericht,
+dat het ministerie de noodzakelijke credieten niet
+toe kon staan. Verontwaardigd over het feit, dat
+terzelfder tijd de bouw van de Opera millioenen
+verslond, zond hij een artikel naar den Moniteur,
+het officieele dagblad, dat opneming weigerde,
+zoodat hij Het Budget van de Wetenschap" als
+brochure moest uitgeven. Hij herinnerde eraan, hoe
+Claude Bernard, de groote physioloog, in een be
+
+dompt locaal zijn werk moest verrichten, hoe het
+scheikundig laboratorium aan de Sorbonne in een
+kelder, een meter onder straatniveau, was onder
+
+gebracht, en dat tegelijkertijd in Berlijn, in
+Bonn, in Petersburg, in Engeland, in Amerika van
+staatswege groote en nieuwe laboratoria worden
+opgericht. Vurig patriot als hij is, voorziet hij, dat
+Frankrijk de leidende positie in de experimenteele
+wetenschappen zal moeten afstaan, tenzij er een
+einde komt aan de onverschilligheid der regeering.
+Zijn protest had succes en hij kreeg, in 1868, de
+beschikking over zestigduizend francs, waarmede
+hij aan de rue d'Ulm, een bescheiden laboratorium
+kon laten oprichten, dat bij het beleg van Parijs,
+tijdens den Fransch-Duitschen oorlog, gedeeltelijk in
+puin werd geschoten.
+
+ZOO heeft Pasteur jarenlang moeten werken
+onder omstandigheden, die een volledige ont
+
+plooiing van zijn geniale vermogens in den weg
+stonden, en eigenlijk komt de verandering pas na den
+gedenkwaardigen zesden Juli van het jaar 1885, als
+de kleine Joseph Meister, die twee dagen tevoren
+door een dollen hond was gebeten, door een wan
+
+hopige moeder naar Pasteur's laboratorium wordt
+gebracht. In Pasteur ontspint zich de zware twee
+
+strijd, of hij zijn methode ter voorkoming van de
+hondsdolheid, welke bij honden zoo voortreffelijk
+werkt, ook bij menschen mag toepassen. Bestrijders
+van de vivisectie hebben het fabeltje in de wereld
+gebracht, dat Pasteur een hardvochtig man was,
+een dierenbeul. In werkelijkheid zag hij er al tegen
+op een dier een onderhuidsche inspuiting te geven
+en hij ging slechts tot deze en andere ingrepen over,
+omdat er geen andere mogelijkheid bestond en
+nog bestaat! om de ziekten volkomen te
+bestudeeren. Zoo was ook in dit geval de verantwoorde
+
+lijkheid groot, de beslissing moeilijk, maar tenslotte
+waagde Pasteur de belangrijke stap en paste de
+nieuwe behandeling op het jongetje Meister toe.
+Dagen van ondragelijke spanning volgden einde
+
+lijk bleek, dat hij gered was ! Sindsdien kwamen van
+heinde en ver, eerst alleen uit Frankrijk, later uit
+alle deelen der wereld Rusland, Engeland,
+Amerika zij, van wie Pasteur de eenige redder
+kon zijn.
+Het prachtige succes, dat in de statistieken
+duidelijk tot uiting kwam, deed zijn grooten roem
+nog toenemen en nu gingen regeering en volk pas
+inzien, dat een betere huisvesting van Pasteur's
+laboratorium voor Frankrijk een eerekwestie was.
+Enthousiasme maakte zich van ieder meester, entoen
+eenmaal de officieele mededeelingen betreffende de
+Souscription publique", de nationale geldinzame
+
+ling voor een Pasteurinstituut, bekend waren
+gemaakt, stroomde het geld van alle kanten
+binnen.
+De Fransche Kamers voteerden tweehonderd
+
+duizend francs, de Russische Tsaar en de Keizer
+van Braziliëschonken elk honderdduizend. De
+Elzas, gescheiden van het moederland en verdrukt
+door de Duitschers bracht drie-en-veertig duizend
+francs bijeen trotsch, de eerste patiënt geleverd
+te hebben, die van Pasteur's groote werk kon
+profiteeren.
+De architecten Petit en Brébant verklaarden,
+geen honorarium voor het ontwerpen van de bouw
+
+plannen aan te willen nemen, en de metselaars
+besloten ook 's Maandags te werken, opdat het
+instituut zoo spoedig mogelijk voltooid kon worden.
+De Parijsche artistenwereld organiseerde in de
+groote feestzaal van het Trocadéro een grandioos
+feest. Het succes was overweldigend: een
+symphonieorkest voerde de populaire werken van Massénet,
+Saint-Saëns en andere componisten uit en tenslotte
+besteeg Gounod-zelf het gestoelte, om zijn Ave Maria
+te dirigeeren. Terwijl sopranen, violen en harpen
+de onsterfelijke melodie vertolkten, zag men, hoe
+de kunstenaar zich omdraaide naar den geleerde,
+om bij het wegsterven der laatste klanken hem met
+beide handen een kus toe te werpen. Onder
+oorverdoovende toejuichingen van Tout-Paris" omhelsden
+Gounod en Pasteur elkaar!
+Het Comité, dat de inzameling organiseerde, wilde
+aanvankelijk zesduizend francs voor reclame uit
+
+geven, maar de dagbladen rekenden het zich tot
+een eer, gratis alle berichten en mededeelingen op te
+nemen. Geen wonder, dus, dat het benoodigd bedrag
+verre overschreden werd, en de penningmeester bij
+de officieele opening van het groote, nieuwe Insti
+
+tuut Pasteur" meer dan een millioen francs als
+overschot ter beschikking kon stellen !
+
+ZOO brak dan eindelijk de veertiende November
+1888 aan, de dag, waar Pasteur zijn geheele
+leven voor gestreden had de vlaggen wapperden
+hoog van het nieuwe laboratorium en van de
+omringende huizen, een groote menschenmenigte
+verdrong zich in en om de Rue Dutot, waar het
+gebouw stond, en met moeite konden de genoodigden
+de plaats van bestemming bereiken. Pasteur, die
+geen vermoeienis kende, ontving, bijgestaan door
+zijn zoon en schoonzoon, de gasten in de groote zaal
+van het instituut. Terwijl het muziekcorps van de
+Republikeinsche Garde de Marseillaise speelde,
+arriveerde Sadi Carnot, de president van de Repu
+
+bliek en het was een ontroerend oogenblik toen
+Pasteur het bordes afdaalde, om hem als eerste
+welkom te heeten. Honderden geleerden, afgevaar
+
+digden, doktoren, studenten verdrongen zich om
+de officieele opening bij te wonen en de redevoe
+
+ringen van Bertrand, den voorzitter van het
+stichtingscomité, Grancher, Pasteur's medewerker, en
+Christophle, den trotschen penningmeester, aan te
+hooren. Luide klonk het gejubel, telkens als Pas
+
+teur's daden werden vermeld, aanzwellend tot een
+ovatie, toen de grijsaard het spreekgestoelte wilde
+bestijgen, om de aanwezigen, Parijs, Frankrijk,
+te danken voor dit prachtige geschenk. Hij kon zijn
+ontroering niet meester worden, tranen van dank
+
+baarheid stroomden langs zijn wangen, en hij moest
+zijn zoon opdragen de rede uit te spreken, waarin
+hij hulde bracht aan zijn leermeesters en mede
+
+werkers, die ook in tijden van de ergste oppositie de
+nieuwe ideeën, de Wetenschap, hadden gediend.
+Nogmaals trilden de muren van de luide
+bijvalsbetuigingen den volgenden dag zaten de werkers
+van het Pasteurinstituut weer aan hun schrijftafel
+of in de bibliotheek, begonnen zij nieuwe experi
+
+menten en hielden den naam hoog van de instelling
+die naar hun aller vriend en voorganger was
+genoemd.
+Vijf-en-zestig jaren was Pasteur oud, toen het
+nieuwe instituut in gebruik werd genomen. Hij
+heeft er niet lang in mogen werken. Eind 1894
+manifesteerden zich de gevolgen van een ernstig
+vaatlijden, en den acht-en-twintigsten September
+van het volgend jaar overleed hij in het oude
+kasteel te Villeneuve-l'Etang, waar zich de groote
+dierenstallen van het Pasteurinstituut bevonden.
+Hij had nog het geluk, kennis te nemen van de
+groote ontdekking van zijn medewerker Roux,
+die er in geslaagd was, een serum te bereiden,
+dat de gevreesde diphtherie kon voorkomen of in
+zijn gevolgen verzwakken. Aldus aanschouwde
+hij den dageraad van een nieuwe therapie, een
+nieuw deel der wetenschap: de immunologie, waar
+zijn levenswerk de noodzakelijke voorwaarde van
+geweest was. De waarde van zijn ontdekkingen
+komt misschien het beste naar voren in de uitlating
+van een Engelsch geleerde, die na den
+FranschDuitschen oorlog verklaarde, dat Pasteur's vondsten
+ruim voldoende waren, om de oorlogsschatting van
+vijf milliard te dekken, die Frankrijk aan
+Duitschland te betalen had.
+DR. J. OUDENBOSCH
+Met Dampo geen verkoudheid bij groot en klein
+want elke verkoudheid geneest er vlug en radicaal mede. Pot 50 cent. Groote doos 3O cent Bij Apothekers en Drogisten.
+PAG. 7 DE GROENE N». 3203
+
+</text>
+<image timestamp="2002:10:02:20:53:00.00" size="286255">D100093I.TIF</image>
+</page>
+</document>

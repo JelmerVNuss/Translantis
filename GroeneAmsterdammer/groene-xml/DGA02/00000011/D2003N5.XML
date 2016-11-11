@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240614</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2452
+POLLENs Oude Eenever
+Fijne Likeuren en Punch
+H. P. POLLEN A ZOOÜ- Rotterdam
+J. D. STRUIJS * Zm.
+Prinsengracht 887
+VEL. 37906
+F. O. Hooftstraat 140
+TEL. 29950
+Begrafenissen - Crematie - Transporten
+ERVEN KRAMER
+SINGEL 390 -:- AMSTERDAM
+TELEFOON 37266
+FABRIEKVAN KANTOORBOEKEti
+RIJWIELEN, MOTORRIJWIELEN en COMBINATIE
+PRIMA KWALITEIT FIJNSTE AFWERKING
+BILLIJKE PRIJZEN DIRECT LEVERBAAR
+HOOFDAGENT:
+J. WITMONDT, 291 Prinsengracht 293,
+AMSTERDAM
+D. OBERINK &amp; Co.,
+Prinsengr. 456 b/d Leidster,
+Tol. 37452
+Aanleg van licht- en krachtinstallatiön.
+DAJtES!
+Laat uw wasch behandelen
+door de wasscherij
+EmkiMDUnruti. 22-24. Til. 2372S
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B.NEIDlO&amp;Co.
+STOPPA6E
+VAN ALLE
+Dames- en Heerenkleeding
+Costuum Model Persen f 1.25
+My VALEI from london
+Beurapassage 14. - Tel. 44915
+Wlllamsparkw. 175 - Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+BEGRAFtNISVEREENIGING
+REGELING VAN BEGRAFENISSEN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+bij AMERSFOORT
+100 H.A. Bosch
+PENSION met kamer
+per dag f 5.—bij 3 daags
+verblijf
+,, f4.50 bij week
+,, ,, f4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+ADR1AAN SCRAKEL
+HEILIGEWEG 11-17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEGOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT UW LEVERANCIER! !
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAKERIJ NAAB MAAT
+Weteringschans 45 :-: Telefoon 36845
+DROSTE'S
+maakt uw huid zuiver en zacht met jeugdig frissche rose, verblindendschoone teint, verdrijft zomenproetea, puisten
+enz en alle verdere bnidonreinheden. Verkrijgbaar i 35 cent per Stuk bij Apothekers, drogisten, en coiffenn.
+Café-Restaurant
+
+NIEUWERSLUIS
+a/d VECHT
+
+Ruime Serre en flinke
+Tuin aan het schoonste
+gedeelte van de Vecht
+000000 11 000000
+AMERSFOORT
+Van Basta's !
+m
+STEENHOUWERIJ D. WEEGEWUS,
+RAPENBURG 14, AMSTERDAM. Tel. 42662
+MARMERWERKEN.
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies.
+KLEIN KOPER WERK. gedraaid of gestamt, blank
+of vernikkeld levert tegen zeer lage prijzen
+INGENIEURSBUREAU VAN NISPEN, ZWOLLE.
+Snouckaertlaan 22-24
+TELEFOON 218
+}. J".
+TJ L 3D IE IR,
+TUINARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon Sch. 810
+
+</text>
+<image timestamp="2002:09:03:10:08:40.00" size="139577">D2003N5.TIF</image>
+</page>
+</document>

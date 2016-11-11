@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19360410</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+J
+i'1
+l !
+I
+Oe kerk van Morcote aan het Meer van Lugano
+Voorjaar in Zwitserland
+Laat dit jaar de heerlijke meren aan den Zuid-en
+aan den Noordrand der Alpen en het machtige
+ontwaken van het voorjaar In de bergen het doel
+van Uw reis zijn!
+Nergens is de tegenstelling van winteren lente op
+
+vallender dan aan die weelderig-bloeiende oevers
+met het uitzicht op de lichtende sneeu w-wereld
+van het hooggebergte.
+En nergens is het weer opbloeien der natuur
+liefelijker dan in de hooggelegen dalen!
+Ook de hotels in de plaatsen, waar men van het
+jonge voorjaar kan genieten, bieden de gelegen
+
+heid voor een vacantieverblijf van zeven dagen
+naar vrije keuze: alles inbegrepen". Reeds van
+50 Zwitsersche francs af!
+De comfortabele auto's der Zwitsersche
+Alpenposten bieden gelegenheid tot het maken van
+prachtige uitstapjes.
+Goede luchtverbindingen naar en van alle rich
+
+tingen.
+De Gotthard en de Simplon, de beide be
+
+roemde internationale spoorlijnen met electrische
+tractie, voeren U na een snelle, heerlijke reis de
+Zwitsersche lente binnen.
+Op de Zwitsersche vervoerprijzen geldt een extra
+
+reductie van 30%.
+MONTREUX-TERRITET-CLARENS voor een ideaal verblijf in de lente.
+Casino Tennis '•—Golf.
+LUGANO met zijn liefelijk meer en zijn onvergelijkelijk natuurschoon
+biedt U gezondheid en ontspanning.-Uitgangspunt voor ontelbare excursies.
+LOCARNO—ASCONA—BRISSAGO, de paarlen van Zuid-Zwitserland
+aan het Lago Maggiore.
+BAD TARASP-SCHULS-VULPERA, 1250 m.b.z. Wereldberoemd
+kuur. oord voor maag, darm, gal, lever, vetzucht, suiker, zenuwen, hart-en
+tropische ziekten. Alle zomersporten.
+BAD PASSUGG De Voor-Alpen-badplaats, 830 m.b.z.
+
+Inlichtingen/prospectussen en biljetten bij het Zwitsersch Verkeersbureau, Koningsplein II. Telefoon 32380—34080, Amsterdam
+-^iHBMBMi^M^HB^BMMiBMi^Mi^MMMMMB en de erkende reisbureaux •—^••••«•.•
+MEER VAN GENEVE
+
+TESSIN
+Zuid-Zwitserland
+Badplaatsen
+N.V. Anutard. Bo«k- «n Ste«ndrukk«ri|
+v/h, ELLERMAN, HARMS &amp; Co.
+AAN DEN TWEESPRONG
+Frankrijk en Engeland (tegelijk): Dat is de weg!'
+
+</text>
+<image timestamp="2002:10:29:04:14:33.00" size="394774">D3000JXX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241004</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2468
+J. D. STRUXJS * Zn.
+[Prinsengracht 887 - F. O. Hooftstraat 140
+?ELj 37900 TEL. 29950
+Begrafenissen - Crematie - Transporten
+y
+WARMWATERVOORZIENIN6
+door middel van het
+
+KEUKENFORNUIS
+levert
+
+N.V. TH. VAN EEMSTEDE OBELT'S
+'Sanitair Technisch Bureau
+De Ruyterkade 104 - Mauritskade 35
+AMSTERDAM - 's-GRAVENHAGE
+Vraagt onze brochure met referenties.
+NUEFOIM"
+Dir. E. Boerma
+6KONINGEN AMSTERDAM
+Heerestr.H Rokin TO
+Dames- en
+HeerenKleedermakerij.
+Coupeun door het gehoile
+land te ontbieden".
+POUEN's flude Genever
+Fijne Likeuren n Punch
+J/V- .
+u. P. POLLEN A ZOOM - Rotterdam
+bij AMERSFOORT
+
+100 H.A. Bosch
+PENSION met kamer
+per dag f5.—bij 3 daags
+verblijf
+,, ,, f 4.50 bij week
+,, ,, f 4.—bij maand
+Parterre Kamers met
+vaste Waschtafels
+M. L. Jorritsma, Dir.
+DJVUES!
+Laat uw wasch behandelen
+door de wasscherij
+
+Eiiiki",TiUiiriiti. 22-24. Til. 23125
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B.NEIDIQ&amp;Co.
+52
+verrukjiefyfte
+Hebt gij alreeds het in onze
+vorige advertenties aangebo
+
+den, speciaal samengestelde
+
+Gratis Receptenboek
+aangevraagd? si Verzuim dit niet; het
+bevat de gegevens voor het klaarmaken
+van niet minder dan 52
+chocoladegerechten, bereid met of van de door alle
+gebruikers zoo bijzonder gewaardeerde
+
+DROSTE'S
+Bij inzending Van deze advertentie als drukwerk, met
+duidelijke adresvermelding op het couvert, zenden wij U
+alsnog per omgaande post gratis het receptenboek toe.
+BEGRAFENISVEREENIGIN6
+N.
+Jr.
+P.C. Hwftstraat 38, AmsttrdaM. Ttlif.: 2BS41, 24260
+{REGELING VAN
+] CREMATIES VAN UIT
+- EIGEN
+BEGRAFENISSEN El
+LLE PLAATSEN!
+LIJKKOETSAUTOMOBIELEN
+Bestelt een flesch
+
+WED. JOHN GAY'S PICCALILL1
+het mosterdzuur met de fijne pikante smaak. Bovendien is op elke flesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N .V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+
+
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM - TEL. 42662
+
+MARMERWERKEN
+8EORGE H. LA6AS
+AMSTERDAM - TttofMi 24611 - Aidrua» B«dMtratt 40
+Electrische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Heeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd.
+
+Gez. VAN HUIDEN - Zwolle
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies.
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+
+Specialiteit
+B. J. MULDERS
+TUINAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Toiefoon BO8IO
+
+</text>
+<image timestamp="2002:09:03:18:41:06.00" size="145845">D2003Y5.TIF</image>
+</page>
+</document>

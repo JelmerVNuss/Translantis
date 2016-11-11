@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280929</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+;^^
+i t ?'#? .J. L'; :.•;.... • • •
+£33 - AMSTERDAM
+
+AMSTERDAM
+RÖKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+BRAND-, BEDRIJFS-,
+ZEE- en TRANSPORT
+
+VERZEKERING
+HOFLEVERANCIERSIVAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+
+MONSIEUR
+
+&amp; ERKELENS
+
+WIJNHANDELAREN
+
+ROTTERDAM'LEUVEHAVEN 34- Tel. 2456
+FILIALEN:
+DEN HAAG - Anna Paulownastr. 36 - Tel. 32532
+HELDER Hoofdgracht 37 Telefoon 83
+
+VRAAGT ONZE PRIJSCOURANT
+tlAJÜOOSTEBHUS
+AMSTEQDAM
+t
+foo ook de
+
+lan$ niet elke piano beantwoordt
+aan de verwachtingen die men
+aan een $oed inötpument stelt.
+Wilt $y' bij'de aanschaffing van een piano
+niet teleurgesteld uitkomen laat U zich
+dan eerst doop ons deskundig voorlichten.
+QOOP levering van uitsluitend kwafïiei
+sinstrumenten: enorme omzetten en
+ennddp keuze
+De beroemdste merken als
+Grotpfan- «Stemwed
+Ehfbap. Adam, A.Z.Voi(}\
+xoowel nieuw aio be
+
+speeld in $ppote
+keuze vooppsdiö.
+VRAAGT CATALOGUS N9 83
+$reneo levermt} doop
+eheel Nederland
+| FABRIKANTEN VAN MUZIEKINSTRUMENTEN.] u .
+^
+
+</text>
+<image timestamp="2002:09:05:08:43:11.00" size="165946">000006YF.TIF</image>
+</page>
+</document>

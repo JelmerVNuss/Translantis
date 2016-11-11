@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18981218</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NM121
+DE AMSTERDAMMER
+A°. 1898.
+WEEKBLAD
+NEDEKLAND
+Onder Eedactie van J. DE KOO en JUSTUS VAN MAÜRIK Jr.
+Dit nummer bevat een bijvoegsel.
+Uitgevers: VAN HOLKEMA &amp; WARENDORF, Amsterdam.
+Het auteursrecht voor den inhoud van dit Blad wordt verzekerd overeenkomstig de wet van 28 Juni 1881 (Staatsblad No. 124).
+Abonnement per 3 maanden	ƒ 1.50, fr. p. post f 1.65
+Voor Indiëper jaar	mail 10.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar	0.12'/2
+Dit blad is verkrijgbaar Kiosk 10 Boulevard des Capucines tegenover het
+Grand Café, te Parijs.
+Zondag 18 December.
+Advertentiën van 1—5 regels f 1.10, elke regel meer	f 0.20
+Reclames per regel	a 0.40
+Aimouces uit Duitschland, Oostenrijk en Zwitserland worden uitsluitend aangenomen door
+de firma RUDOLF MOSSE te Keulen en dooi alle filialen dezer firma.
+i ir H o r D
+VAN VEBBE EN VAN NABIJ: Philips van
+Marnix, Heer van St. Aldegonde, 1538—1598, door
+Dr. Joh. C. Breen.—Het kiesrecht voor de Kamers
+van Koophandel en Fabrieken, door B. Feith.
+C*lot.) Is Nederland iu staat zyn uitgestrekt
+kolonl.'il gebied op afdoende wtfze te verdedigen ?
+door G. v»i' der Wens. Eeactionaire maatregelen,
+door V. Bèvisifl van strafvonnissen. Engeland
+en Frankryk. Brieven van een oud-officier aan
+zfln zoon, door Donai. -fXI.) TOONEEL EN
+MUZIEK: A. C. Wertheim en de Kunst, door Mr.
+J. E. Banck. (Slot.) Muziek in de Hoofdstad,
+door Ant. Averkamp. KUNST EK jETTFBEN:
+Bembrandt. Uittreksel nit den catalogus "f
+naamJqst van schilderyen van Hoet en Tei westen, uon"
+E. C. Eahras, met aanteekeningen van Flugi van
+Aspermont. (II) De nieuwe Opera-Comique te
+Para's, door B. W. P. Jr. Kerstmis en Nieuw
+
+jaarskaarten, door B W. P. Jr. Affiches, boek
+
+banden, enz., d^or v. M. Albert Verwey, De
+nienwe Tuin, beoordeeld door F. Erens. Boek
+
+en Tijdschrift, door G. van Hulzen. WETEN
+
+SCHAP : De levensgeschiedenis van Spinoza.
+JTEUILLETON: Het eerste mutsje, naar het
+Fransen. BECLAME8. VOOB DAME.S: Benige
+beschouwingen over het verschil tusschen den man
+en de vrouw. Koningin Victoria's vermogen.
+Het gelukkig eiland. Allerlei, door E-e. Inge
+
+zonden. SCHAAKSPEL. FINANCIEELE EN
+OECONOJÖBCHE KRONIEK, door D. Stigter.
+ALLEBLEI. INGEZONDEN. - SCHETSJE:
+Aaltje de naaister, door Is. van Bennes. PEN
+
+EN POTLOODKBASSEN. ADVEBTENTIEN.
+
+iiiiiiiiiiiimmitMiiiHiiiHiHMiuiuimiuiHimiimiiiiutMi
+PHILIPS VAN MARNIX,
+Heer van Sint-Aldegonde.
+1538-1598.
+»Den vijfthienden Decembris is tot
+Leyden ghestorven den gheleerden ervaren
+Joncker Philips van Marnix, Heer van
+S. Aldegonde, van alle gt leerde seer
+beclaeght; werdt daer begraven den
+tweentwintichsten Decembris. Den sesthienden
+Leoninus eerst door den drang der om
+
+standigheden van de Spaansche zijde afge
+
+trokken ; beiden vereerd met het vertrou
+
+wen van Willem van Oranje doch Marnix
+ook met zijn vriendschap ; beiden in hooge
+mate bedeeld met de gave der welspre
+
+kendheid ; beiden ervaren in de diplo
+
+matie, waarbij de burgerzoon misschien
+zelfs de meerdere was van den edelman;
+beiden mannen van ontzagwekkende ge
+
+leerdheid, doch Aldegonde ongetwijfeld
+veelzijdiger dan Gelderlands Kanselier;
+sijn zij ook met -elkander in vriend
+
+schap verbonden geweest. Kenmerkend
+voor hunne verhouding, en tevens voor
+beider persoonlijkheid, zijn de woorden,
+die Marnix aan Leoninus schreef: «Alles
+in u is zeer aantrekkelijk; behalve dat
+gij u te zeer af keert van de dingen Gods".
+Marnix en Leoninus zijn de vertegenwoor
+
+digers der beide richtingen, die in de ge
+
+schiedenis onzer Republiek voortdurend
+tegenover elkander stonden; de beide rich
+
+tingen, die zich in deze wereldorde nooit
+zullen verzoenen. Marnix had van Calvijn
+geleerd op de vraag: »Wat is het hoofd
+
+doel van 's menschen leven, en wat is zijn
+hoogste goed?" te antwoorden: »God te
+kennen"; Leoninus' gezichteinder strekte
+niet verder dan tot een »neminem laedere;
+honeste vivere", misschien het best te
+vertalen door »doe wel en zie niet om."
+Doch dit artikel heeft niet ten doel hier
+dieper op in te gaan; het wenscht slechts
+bij de lezers van dit blad de herinnering
+aan Marnix te verlevendigen. Enkele
+biographische aanteekeningen zijn hierbij
+wellicht niet ongewenscht. In 1538 te
+Brussel geboren, begaf hij zich, na eerst
+korten tijd te Leuven te hebben gestu
+
+deerd, met zijn ouderen broeder Jan van
+Thoulouse, naar Genèves Hoogeschool,
+waar hij aan de voeten zat van Calvijn
+en Beza. Als overtuigde Calvinisten terugge
+
+keerd, schaarden zich de beide broeders
+onDecembris is ook tot Arnhem gestorven
+Doctor Elbertus Leoninus, Cancelier van
+Ghelderlandt, een gheleert Man, die sedert
+den' aenvanghe der Inlandtsche troublen
+in meest alle de Lantsaken van impor
+
+tantie is ghebruyckt gheweest". In deze
+sobere termen vermeldt de eerbiedwaardige
+Emanuel van Meteren, aan het slot van
+zijne kroaiek der gebeurtenissen van 1598,
+den dood van twee mannen wier invloed
+op den worstelstrijd onzer vaderen tegen
+Spanje schier onberekenbaar is geweest.
+De eerste gesproten uit een oud-adellijk
+geslacht in de Zuidelijke gewesten, de
+andere uit burgerouders te Bommel ge
+
+boren ; de een vurig Calvinist, de ander
+stoicijnsch Libertijn; Marnix reeds van
+der jeugd de zaak der vrijheid toegedaan,
+der de partij van deii ontevreden adel. Alde
+
+gonde gold voor den opsteller van het
+door de edelen aan de Landvoogdes aan
+
+geboden smeekschrift; zijn auteurschap
+staat echter niet vast. Tevens nam hij
+deel aan het Verbond der Consistoriën;
+in de Synode te Antwerpen, waar tot het j
+invoeren der openbare prediking werd be- i
+sloten, had hij zitting; tegen den smaad
+waarmede, ook van Luthersche zijde, de j
+beeldstormers werden overladen, deed hij !
+een krachtig protest hooren. Nadat het
+gewapend verzet der edelen in bloed was
+gesmoord en zijn broeder Thoulouse bij i
+Austruweel was gesneuveld, trok Marnix
+zich eerst naar Breda en weldra naar
+Duitschland terug. Daar werkte hij, on
+
+der leiding van Oranje, voortdurend aan
+de kerkelijke organisatie der uitgewekenen
+en de voorbereiding tot den strijd, totdat
+hij, in 1572, als vertegenwoordiger van
+den Prins op de «Statenvergadering" te
+Dordrecht verscheen, waar het hem ge
+
+lukte een voorloopige orde van zaken tot
+stand te brengen. Aanhoudend werkzaam
+in het belang van den opstand, viel hij
+in Nov. 1573 den Spanjaarden in handen,
+doch werd, na eene gevangenschap van
+bijna eenjaar, uitgewisseld. Hij bleef's Prin
+
+sen rechterhand. Wij vinden hem bij de
+vruchtelooze vredesonderhandelingen te
+Breda (1575); te Heidelberg, om de hand
+van Charlotte van Bourbon voor Oranje te
+verwerven (1576); in Engeland,om
+desouvereiniteit aan koningin lisabeth aan te bie
+
+den; te Gent, om de pacificatie te helpen
+sluiten. Kort daarna (1577) te Groningen,
+ter beslechting van geschillen tusschen
+die stad en de Ommelanden ; vervolgens
+te Brussel, als lid van den Raad van
+State. Daarna (1578) op den Rijksdag
+te Worms, om den steun van het Duitsche
+Rijk in te roepen; dan weer te Gent, om
+te onderhandelen met Hembyze en
+Datheen. Na te Keulen (1579) den
+vergeefsehen vredehandel te hebben bijgewoond,
+bereidde hij in Frankrijk en Engeland de
+opdracht voor der souvereiniteit aan Anjou
+(1580, 81). Teleurgesteld in de groote ver
+
+wachtingen, die hij ten opzichte van dezen
+had gekoesterd, trok hij zich, na de
+Fransche Furie, terug, doch werd weldra,
+in het najaar van 1583, tot Burgemeester
+van Antwerpen aangesteld. Hij bekleedde
+dezen post totdat hij in 1585 de stad aan
+Parma moest overgeven. Gegriefd door
+den blaam van verraad, dien men op hem
+wierp zijn leidsman en vriend, de Zwijger,
+was hem ontvallen, vestigde hij zich
+op zijne goederen te Souburg, totdat de
+door hem volbrachte ontcijfering van onder
+
+schepte Spaansche brieven aanleiding gaf
+om hem een gezantschap naar het Fransche
+hof op te dragen (1590). Na nog door
+Maurits in het belang van het Huis van
+Oranje met verschillende opdrachten te
+zijn belast, en, op verlangen der Staten,
+in overeenstemming met den wensch der
+Kerken, de Bijbelvertaüng te hebben ter
+hand genomen, ging hij op zestigjarigen
+leeftijd in de ruste, die hij, naar zijn zin
+
+spreuk, niet hier had gezocht.
+Misschien werd dit kort overzicht reeds
+te lang. Laat ons dan nu een blik slaan
+op Marnix' letterkundigen arbeid, die met
+zijne theologische en staatkundige werk
+
+zaamheid onafscheidelijk is verbonden, 't Is
+immers het satyrieke strijdschrift tegen
+»onse moeder, de H. Kercke'', de, in 1568
+in de ballingschap geschreven Biëncorf,
+dat hem den roem verschaft een der grond
+
+leggers te zijn van ons Nederlandsch proza.
+Datzelfde proza diende hem voor zoo me
+
+nig politiek pamflet. In datzelfde proza
+vertroostte hij deBrabantscheen Vlaamsche
+broeders, »die noch onder't cruyce sitten".
+In datzelfde proza schreef hij tegen de
+Geestdrijvers, de lieden die het »inwendig
+Licht" hooger stelden dan het geschreven
+Goddelijk Woord. In datzelfde proza zou
+hij ten slotte ons volk den Bijbel hebben
+geschonken.
+Ook zijne poëtische gave stond in den
+dienst van zijn beginsel. Moge het «Wil
+
+helmus" hem misschien niet tot dichter
+hebben, zijne Psaluiberijming is evenzeer
+de uiting van het in de verdrukking naar
+troost zoekend gemoed, terwijl ook de
+lofzegging van den verloste er jubelend in
+weerklinkt. In al wat hij schrijft, proza
+of poëzie, is hij de penvoerder onzer Re
+
+formatie. Hoe jammer, dat hem niet is
+vergund, wat hem zoo menigmaal is ver
+
+zocht, de historie dier Reformatie zelve te
+schrijven!
+Geheel Marnix' optreden teekent den
+Calvinist. Ook in den omgang was hij
+afkeerig van alle »Mennisterije" be
+
+minnelijk en gezellig; dezer dagen nog
+deelde prof'. Fruin in »de Gids'1 een paar
+staaltjes van zijn tafelscherts mede. Zeker,
+bij het leed, dat hem trof, ouk huise
+
+lijk leed is hem niet gespaard heeft
+ook hij oogenblikken gekend van moede
+
+loosheid. Men weet, hoe hij zelfs, na den
+val van Antwerpen, meende dat vrede
+met Spanje mogelijk was. Doch nooit heeft
+hij verbeten het wnord dat eenmaal door
+Willem den Zwijger tot hem was gespro
+
+ken: »Aldegonde, laat ons dulden dat men
+ons vertrappe, indien wij slechts de Kerke
+Gods kunnen helpen". Daarop had hij ge
+
+antwoord : »Indien ge daartoe zijt besloten,
+gebruik mij waartoe gij wilt". En dat.
+wooid heeft hij gestand gedaan, geheel
+zijn leven.
+Marnix zelf heeft zijne levensleus nader
+toegelicht in een fraaie penteekening,
+waarmede hij op den 2den Februari 157^
+het vriendenalbum van Jan van der Does
+verrijkte. Onder de spreuk : »Repos ailleurs'1,
+toekende hij een schip, dat tusschen t\vee
+klippen door koers zet, terwijl aan den
+hemel de noordster, Gods openbaring in
+Christus, schittert. Daaronder schreef hij:
+//Vela dato; atq. alibi sedem tibi quaere repostam
+Coelica Euangelii, quae Cynosura vocat."
+
+D. i. kies zee, en zoek elders de voor u
+weggelegde rust, daar waarheen de
+hemelsche noordster des Evangelies u roept".
+In den grondtekst voegde hij er aan toe
+de woorden: »Ik ben een vreemdeling op
+aarde; verberg uwe geboden voor mij
+niet", en «Gerechtvaardigd uit het geloof
+hebben wij vrede bij God".
+Zoo beleed en beleefde Marnix zijn ge
+
+loof. En door dat geloof spreekt hij nog,
+nadat hij gestorven is.
+Amsterdam; DR. JOH. C. BREEN.
+Op den SOOsten gedenkdag van
+Marnix'dood; 15 Dec. 1898.
+voor Je Kamers van
+en
+(De kamer te Rotterdam contra de
+vereenigde kamers.)
+II. (Slot).
+
+Tegenover het voorstel van Rotterdam
+staat het thans vigeerende stelsel met de
+wijzigingen in het schema aangeduid.
+Werkt dat stelsel slecht ? Het heeft
+voor het eerst in 1896, voor de tweede
+maal in 1898 dienst gedaan. De invoering
+er van is, het kan gereedelijk worden
+toegegeven, eenigszins een noodsprong ge
+
+weest. Toen in 1893 de patentbelasting
+werd afgeschaft en dientengevolge een der
+grondslagen voor de k lesbevoegdheid ver
+
+viel, bleef de zaak op een nieuwe rege
+
+ling wachten gedurende 3 jaren. Dat was,
+voorwaar, geen staaltje van overdreven
+Staatszorg voor de belangen van handel
+en nijverheid, maar waar zijn de feiten,
+die in het, licht stellen, dat nu juist het
+kiesrecht het eenige punt is, waaromtrent
+de tegenwoordige regeling onzer handels
+
+vertegenwoordiging dringend herziening
+eischt? Neen, de kwaal schuilt niet in het
+kiesrecht. De ziekte, waaraan wij lijden,
+is gebrek aan belangstelling zoowel bij de
+kiezers, als bij hen, die voor een keuze
+in aanmerking komen. Maar is die dia
+
+gnose juist, dan ligt ook het geneesmiddel
+voor de hand: de handelsvertegenwoor
+
+diging zelve te verbeteren, zoodat zij meer
+belangstelling waard wordt.
+Verbetering van het kiesrecht, voor
+zooveel noodig, moet plaats vinden, maar
+wat heeft men er aan, als de kiezers op de
+uitoefening er van geen prijs stellen? Daarom
+is reorganisatie der Kamers van koop
+
+handel en fabrieken hoofdzaak, herziening
+van het kiesrecht bijzaak. Hoofddoel van
+het streven naar reorganisatie moet blij
+
+ven : het in het leven roepen van krach
+
+tige handelscorporatiijn, die op het gebied
+van handel en nijverheid veel invloed
+uitoefenen, nuttig werkzaam zijn en daar
+
+door de _ belangstelling opwekken, die
+thans ontbreekt. Volgt men daarbij de
+richting in het schema aangewezen, dan
+kan men vrij zeker zijn, dat het doel niet
+zal worden gemist. Dit alles neemt echter
+niet weg, dat het bestaande kiesrecht aan
+een herziening dient te worden onder
+
+worpen. Bij de samenstelling van het
+schema is dat niet uit het oog verloren
+en de daaarin opgenomen wijzigingen
+behooren in ernstige overweging te worden
+genomen. De drie wijzigingen, waar het
+op aankomt, zijn hierboven reeds vermeld.
+Tot toelichting nog het volgende :
+1. Men mag van de kiezers eischen, dat
+zij eenige ervaring op het gebied van
+handel en nijverheid hebben opgedaan.
+Dat kan niet worden ondersteld bij
+allen, die slechts n jaar aan het
+hoofd van een onderneming van handel en
+nijverheid hebben gestaam, Daarom stelt
+het schema voor dien termijn tot op 3 jaar
+te verlengen.
+2. In het bestaande reglement voor de
+Kamers is het stelsel van eigen aangifte
+gevolgd. Als overgangsmaatregel werd
+daarbij bepaald, dat zij die eenmaal op
+de kiezerslijsten stonden, er niet van zou
+
+den worden afgevoerd, tenzij zij ophielden
+te voldoen aan de vereischten voor het
+kiesrecht gesteld. Nieuwe kiezers konden
+echter niet op de lijsten worden gebracht,
+tenzij zij zich daarvoor aanmeldden.
+Deze regeling in 1896 getroffen moet
+er toe leiden, dat na verloop van een
+menschenleeftijd er geen andere kiezers
+voor de Kamers van koophandel en fabrie
+
+ken zullen zijn, dan zij, die zich zelf
+daarvoor hebben opgegeven. Nu kon het
+wel niet ongelukkiger treffen, dan dat deze
+maatregel juist voor het kiesrecht voorde
+Kamers werd getroffen. Doordien men in
+de handelsvertegenwoordiging weinig be
+
+lang stelde, werd aan het recht om
+daarte kiezen ook geen waarde gehecht. Zeer
+gering was dan ook het aantal kiezers,
+dat zich aanmeldde en, was de bedoelde
+overgangsbepaling niet gemaakt, haar aan
+
+tal zou reeds thans belachelijk klein zijn.
+geweest. De hier volgende cijfers geven
+daarvan een sprekend beeld.
+In 1893 werd de patentbelasting afge
+
+schaft en in 1894 en 1895 golden nog de
+kiezerslijsten opgemaakt volgens het regle
+
+ment van 1851, dat den aanslag in de
+patentbelasting tot een grondslag voor de
+kiesbevoegdheid had gemaakt en waarbij
+nog geen eigen aangifte was voorge
+
+schreven. In 1896 werden de lijsten voor
+het eerst saamgesteld overeenkomstig de
+voorschriften in het reglement van dat jaar
+gegeven. Die lijsten deden ook dienst
+voor de verkiezingen in 1897, doch werden
+in 1898 herzien. De af- en toeneming nu
+van het aantal kiezers in 1894, 1896 en
+1898 in drie groote steden van ons land,
+was als volgt:
+Aantal kiezers in de gemeenten :
+abc
+in 1894 ....... 1584 953 480
+afgevallen in 1896 349 217 64
+1235
+bijgekomen in 1896 13
+totaal.
+1248
+afgevallen in 1898 201
+1044"
+bijgekomen in 189$ 242
+totaal. . . 1286
+416
+O
+416
+90
+326
+5 l
+~655~ "327
+736
+12
+U8
+98
+Voegt men deze cijfers bijeen, dan ziet
+men, dat in de drie gemeenten het gezamen
+
+lijk aantal kiezers in 1894 bedroeg 3017
+dat het in de jaren 1894—1898
+ten gevolge van overlyden, ver
+
+trek, verandering van positie, enz.
+verminderde met	1022
+1995~
+en in die jaren door eigen aan
+
+gifte toenam met	273
+zoodathetin 1898 nog slechts bedroeg 2268
+
+Blijft deze achteruitgang gelijkmatig
+voortduren, dan zal het niet lang duren,
+of het aantal kiezers is tot een minimum
+teruggebracht.
+Opmerkelijk is de aangifte in 1898 van
+242 kiesgerechtigden in de gemeente a.
+Die gemeente is Amsterdam, waar ter
+gelegenheid der periodieke verkiezing van
+dit jaar, een kleine politieke beweging werd
+op touw gezet. Was dit niet geschied, de
+vermindering van het aantal kiezers in de
+drie bedoelde gemeenten, zou nog sterker
+zijn geweest.
+De ervaring met het stelsel van eigen
+aangifte in deze 4 jaren opgedaan, heeft
+reeds op afdoende wijze het bewijs geleverd,
+dat het niet doeltreffend is. Daarom wordt
+in het schema voorgesteld om het te ver
+
+laten en weer terug te keeren tot de oude
+methode,waarnaar aanBurgemeester en Wet
+
+houders was opgedragen alle
+kiesbevoegden ambtshalve op de lijsten te plaatsen.
+3. Behalve de bestuurders en medebe
+
+stuurders zullen volgens het schema ook
+de procuratiehouders, die in een bedrijf
+van handel of nijverheid gedurende 3 jarea
+zijn werkzaam geweest, voortaan tot de
+stembus worden toegelaten. Hiervoor is
+veel te zeggen. Procuratiehouders treft
+men in den regel slechts aan op handels
+
+kantoren van eenigen omvang. Het feit,
+dat zij daar gedurende 3 jaren werkzaam
+zijn geweest en het vertrouwen hunner
+chefs hebben genoten, doet bij hen genoeg
+ervaring en genoeg kennis onderstellen
+om hun op grond daarvan kiesbevoegdheid
+te verleenen. Allicht zal de Kamer te
+Rotterdam voor deze uitbreiding wel iets
+voelen, wanneer zij overweegt, dat de invloed
+van een huis, dat tot den groothandel
+behoort, aanmerkelijk wordt vergroot, wan
+
+neer niet alleen aan de chefs maa'r ook
+aan de procuratiehouders het kiesrecht
+wordt toegekend. Zij zal er een middel
+in zien, waardoor de groothandel wordt
+
+</text>
+<image timestamp="2002:08:14:09:53:41.00" size="532776">D100006T.TIF</image>
+</page>
+</document>

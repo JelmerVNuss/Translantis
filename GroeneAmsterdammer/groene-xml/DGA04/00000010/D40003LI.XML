@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210716</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+HET ONTWAPENINGSVOORSTEL VAN AMERIKA
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 16 Juli 1921
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Harms &amp; Co.
+Jonathan: Kinderen, die som is te moeilijk voor jelui; meester zal jelui weer moeten helpen".
+
+</text>
+<image timestamp="2002:08:24:17:03:35.00" size="174967">D40003LI.TIF</image>
+</page>
+</document>

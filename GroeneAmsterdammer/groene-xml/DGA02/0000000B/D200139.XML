@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011013</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1268
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Frankrijk en Turkije.
+MARIANNE tot ABDOEL HAMID : »En nu opdokken! Vaderlje gaf permissie."
+
+Czolgosz in de gevangenis. (Illustration).
+g Edward VII geïnterviewd
+door "Life".
+
+f «Koning Edward, hoe vaart u?"
+f" »Uitstek«nd, Life ik ben zoo gezond
+als ooit."
+»Is u tevreden met uw lot?''
+»0 Ja. Waarom zou ik het riet zyn? Mjjn
+schulden kwellen me niet langer."
+»Hebt u ji daar ooit veel om bekommerd?''
+»Ha, hum' Nsen, misschien niet. Miar 't is
+toch altjjd een voldoening, begryp je, te weten,
+dat ja op een soliede basis staat. Dasrbjj heb
+ik niet de zorgen, die andere monarchen
+drukken."
+»Naen, dat docht m\j ook."
+&gt;Ik ben meer een figurant, Dat hoeft vél
+voor. I-k ben altijd mooi gekleed."
+»Is dat dan zoo noodzakelyk?"
+P* &gt;Voor een figurant buiten k\jf. Een sjofele
+figurant maakt een treurige vertooning. Als
+ik onder de zorg voor mijn volk gebukt
+moest loopen, zou ik niet zoo veel tijd kun
+
+nen besteden, om m\j zelf op te sieren, en
+dan zou ik lang niet zoo vereerd worden.''
+»Wil. vnl! Wirlc u varaarl?"
+»A,h geen and«! Dit ia nó^ een der
+voordeelen van 't fijurantenbaaatj?. Daar heb je
+dan C:ar, of A^iial, of naaf Wilhelm wal,
+die wardaa uitgncholdati voor alles wat lealvjk
+is en zy'i ?^ai oj^anhlik hun leven zeker".
+*Din niemnd miakt het u lastig?"
+«Wiaraohti? niat. W a zaa mij iets kunnen
+verwijten? Ik ban nuar eea doodgewone
+koning, ean hoosjwiardighailsbekleeier, ean
+soort van noodzakelijk adj'inct bij alle cere
+
+moniën, met da eeniga bazigheid «zich voort
+
+durend te laten bewierooken."
+»Ei men bewierookt u, niet waar?
+«Dat zal waar z\jn. K'jk! ik doe nooit wat.
+'k Brand nooit myn vingers. Ik ben een illusie.
+Dat imponeert".
+«Maar toch niet iedereen."
+»0jh, wat zal ik j=) zeggen, L'fe. Mis
+
+schien niet. Maar zie je, om een figurant te
+apprecieeren moet je Engelschraan zijn."
+«Juist. Precies !"
+(.V. York).
+De laatste lichtinj. (Luttige Bidtter).
+In aanmeikine genomen de bekwaamheid door Keizer
+Wilhelm getoond hij de artistieke monumentale versiering
+van Birly'n, zal een commissie uit Turijn vertrekken om
+Z.M. te verzoeken op de a. s. tentoonstelling van 190:2 een ,
+zy'ner meesterstukken te exposeeren.
+
+
+Voorheen en thans. (Judge).
+(FwMetto).
+Dat zy'n zeker de arme invaliden, die van de Bjeren klop hebben gehad.
+Integendeel, dat zyn de troepan, die de Bjeren zullen gaan tuchtigen.
+Hoe Europa vroeger Uacle Sam behandelde.
+Hoe Uacle Sam tegerwjordig Europa behandelt.
+
+
+</text>
+<image timestamp="2002:08:16:17:33:04.00" size="426779">D200139.TIF</image>
+</page>
+</document>

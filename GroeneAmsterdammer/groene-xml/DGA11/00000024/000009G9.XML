@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300809</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+H.VjooiGEBR.MEREN5-HAARLEM
+Filiaal: Kr om m e waal 22, Amsterdam
+,, Lulkenleuwstraat 29, Groningen
+NEERLANDIA SLANG
+'DE SLANG VOOR TUIN EN GARAGE.
+VADER CATS SCHREEF:
+'T MAG WAAIEN, STIL ZIJN, VLOEIEN OF EBBEN,
+DIE NIET EN WAEGHT EN ZAL NIET HEBBEN!"
+Waarlijk, als Vader. Oats de LOTERIJEN van DE JOODSCHE
+'INVALIDE" had beleefd, hij zou zoo iets niet geschreven hebben.
+[Want "bij deze Loterijen is
+
+GEEN SPfRAKE VAN [WAGEN ! !
+leder|lot biedt U immersjeen enorme kans!
+
+LJJi. OORDEELT ZELF!!
+VOOR F 2.5O
+, [kunt U winnen
+een den
+
+TWAALFJRAAIE HEERENHUIZEN
+Pofjeen [der
+
+ALF: PRACHTIGE [5-PERS. ESSEH-AUTOMOBIELEN
+of een der
+
+TWAALF 'PHILIPS STANDAARD-COMBINATIES
+of een der
+
+TWAALF-MAAL DUIZEND ANDERE WAARDEVOLLE PRIJZEN
+van de
+
+TWAALF LOTERIJEN
+[(Goedgekeurd door den Minister van Justitie)
+ten bate van
+
+DE JOOdSCHE INVALIDE"
+DUS
+STELT NIET UIT EN
+KOOPT NOG HEDEN
+LOTEN AF 2.50
+bij DE JOODSCHE INVALIDE", Nw. [Achtergracht 98,
+Amsterdam, POSTGIRO 161500, alle agentschappen van de
+Telegraaf en de Crt. Het Nieuws van den Dag".
+te 's-GRAVENHAGE: Hofwijckstraat 9, Tel. 17577,
+te ROTTERDAM : Wijnhaven 80, tel. 57580 en de talrijke
+depots in den lande.
+
+BON
+Aan DE JOOOSCHE INVALIDE", Nw. Achtergr. 98, Amsterdam.
+Verzoeke mij te zenden	loten a Fl. 2.50. Het bedrag
+gelieve U bijgaand aan te treffen. Het bedrag zend ik U, na
+ontvangst der loten per Post^sseJ toe.
+B p giro
+Naam
+Adres
+
+(Handteekening)
+(Doorhalen wat niet verlangd wordt)
+INDIE
+WIJ LEVEREN COM
+
+PLETE UITRUSTINGEN
+ALLE P ALM BE AC
+HCOSTUUMS WORDEN
+NAAR MAAT GEMAAKT
+ONZE GEILLUSTR.
+CATALOGUS WORDT
+OP AANVRAAG
+TOEGEZONDEN
+ZONDER EENIGE
+VERPLICHTING VERSTREKKEN
+WIJ ALLE GEWENSCHTE
+INLICHTINGEN
+AMSTERDAM - DEN HAAG
+Hofl-evcrancicrs
+WedERAHDERêZo,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+&lt;*«o 's-Gravenhage &lt;^&gt;
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+
+Zie onze vacantie-prijsvraag op pagina 20
+van dit weekblad.
+Uitknippen en verstoren In briefomslag als drukwerk met l1;, cent.
+.. . ...... ..... .. ..... _ ...... _ ..... ;
+
+Aan de Administratie van ,,De Groene Amsterdammer"
+
+Keizersgracht 355 Amsterdam C.
+
+
+Ondergetekende wenschf zich /e abonneeren
+
+op De Groene Amsterdammer Ic^'cn den
+
+Abonnementsprijs van l 5.50. en \-er/.oekt
+toe
+ze/7öY/7o' ia// het eerste
+Naam:
+
+
+Adres:
+
+</text>
+<image timestamp="2002:09:26:00:00:45.00" size="126521">000009G9.TIF</image>
+</page>
+</document>

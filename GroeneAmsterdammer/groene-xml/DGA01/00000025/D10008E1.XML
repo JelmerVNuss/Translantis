@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330304</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2909
+De Groene Amsterdammer van 4 Maart 1933
+17
+Radio en Grammofoon
+De nieuwe mode-golf
+
+lengte: 57 cm
+L. J. van Looi
+Dat zal nog wel een tijdje duren!
+Senator Marconi, de heer der radio
+
+golven, is een veelzijdig man. Onge
+
+twijfeld is hij een van de bekwaamste
+onder de radio-onderzoekers. Maar
+heel 7.eker is hij een van de handigste
+voortbouwers op wat anderen vóór
+hem werkelijk ontdekt hebben. Dat
+is geen blaam, die ik op senator Mar
+
+coni wil werpen. Integendeel ! De
+laboratorium-geleerden hebben over
+het algemeen een groote fout: zij
+werken te veel in het louter theoreti
+
+sche door, zonder te letten op de
+mogelijkheid van practische aan
+
+wending en op de rentabiliteit. Daar
+
+om is het goed, dat er andere geleerden
+zijn, die voornamelijk er op uit zijn
+om de resultaten van de onderzoekin
+
+gen practisch in gebruik te brengen.
+Marconi is er daar n van. Bovendien
+is Marconi een goed reclame-vakman.
+Hij weet altijd precies, hoe hij zijn
+nieuwe uitvindingen moet voorberei
+
+den, opdat zij bij het publiek inslaan.
+Zonder aan de belangrijkheid van
+het onderwerp iets af te willen doen,
+moest ik deze opmerking vooraf laten
+gaan aan de bespreking van de door
+Marconi ingevoerde nieuwe mode
+
+golflengte. Namelijk die van 57 centi
+
+meter.
+Sinds jaren weten wij, dat het de
+kortegolflengten zijn, waarin de toe
+
+komst van de radio ligt. De amateurs
+hebben het terrein van de golflengten
+onder de 100 meter ontsloten en aan
+
+getoond, dat dit het geschikte golf
+
+lengtegebied voor het verkeer over
+groote afstanden, voor het
+wereldverkeer is. TJit dit eigenlijke
+amateurgebied zijn de ontdekkers terugge
+
+dreven tot een zeer klein gebied
+tusschen de 40 en 50 nieter. Tegelijkertijd
+zijn de amateurs afgedaald tot een
+nog lager golflengtegebied, namelijk
+onder de tien meter. Maar nu behoef
+
+den zij den radiotechnici niets meer
+te loeren ! Voordat de amateurs goed
+en wel ingericht waren om op die
+golflengten te gaan zenden, waren de
+officieele laboratoria van de groote
+radiofirma's er al lang mee bezig.
+En zij exploreerden eerst de golfleng
+
+ten om de zeven meter. Wat daarbij
+gebleken is tot dusverre, weet men
+AAN
+INZENDERS
+VAN MANUSCRIPTEN
+wordt verzocht bij hun
+bijdragen een gefran
+
+keerd briefomslag met
+adres van den afzender
+in te sluiten.
+uit vroegere artikelen. Deze golfleng
+
+ten gedragen zich ongeveer als licht
+
+stralen, zij buigen zich niet, zooals
+de grootere golflengten om de aarde
+heen, doch worden door gewone
+aardsche hindernissen, alsbergen en huizen,
+bijna geheel opgeslokt. Verder dan
+de optische reikwijdte heeft men
+met deze golflengten niet kunnen
+werken. Ergo: de prachtigste golf
+
+lengten voor den stadsomroep. -Men
+kan op ..golflengte 7" zooveel kilowatt
+in de antenne stoppen als men wil.
+buiten de stad heeft niemand er last
+van. Practisch kunnen op dien golf
+
+lengteband 7—8 niete.i zooveel stations
+gebouwd worden als men maar wil.
+Op dien golflengteband kan ook
+eindelijk de televisie practisch worden
+uitgevoerd, aange/ien daarvoor een
+veel ,,breedere" golfhand nood i g is,
+dan op de hoogere golflengten ter
+beschikking staat. Men moet daarbij
+in het oog houden, dat de ,,breedte"
+van een golfband niet in nieters
+wordt uitgedrukt, maar in
+kilocycles". Kilocycles is de naam voor
+het aantal electrisehe trillingen per
+seconde, die in de antenne plaats
+
+vinden, de golflengte in meters is
+inderdaad de lengte van de golf.
+En wel is dat de afstand, die de eene
+trilling uit de antenne heelt afgelegd
+op het oogeiiblik waarop de tweede
+trilling rond de antenne ontstaat. De
+korte golflengten hebben natuurlijk
+vél meer trillingen dan de lange
+hoe vlugger de trillingen ontstaan
+des te minder ,,ver" zullen de
+golftoppen, die die trillingen in den aether
+doen ontstaan, uit elkaar liggen.
+En nu komt Marconi. Met golf
+
+lengten van 57 centimeter. Gemaakt
+op zijn jacht Elettra", waarin hij
+een prachtig laboratorium en werk
+
+plaats heeft ingericht. Niemand komt
+uit dat laboratoiium iets te weten,
+als Marconi niet wil. Intusschen was
+ook op het vasteland het onderzoek
+naar deze erg korte golflengten sinds
+langen tijd in vollen gang. Bij voor
+
+beeld in het Heinrich Hertzinstituut
+in Berlijn. Entin, dat komt er minder
+op aan belangrijker is, dat de
+publicaties over het Marconisysteem
+Micro-radio" het publiek in den
+waan brengen, dat wij voor een
+radiorevolutie staan. Zoover is het
+nog lang niet !
+De onderzoekingen in het
+zevenmetergebied zijn zoover gevorderd,
+dat men gerust een
+zevenmeteromroep zou kunnen maken. In Berlijn
+werkt al geruimen tijd officieel een
+dergelijke zender. Maar tusschen
+het maken van een zender en een
+bruikbaar ontvangtoestel voor den
+luisteraar ligt nog een groote klove.
+De zender is in handen van vak
+
+lieden de ontvanger moet door
+leeken bediend kunnen worden. Het
+maken van een goeden
+zevoimietei'ontvanger, die een volkomen leek
+in handen gegeven kan worden, is
+een toer, waaraan de industrie zich
+nog niet heeft gewaagd. En....
+waar ze ook nog niet veel moeite
+voor heeft gedaan. Zoolang er nog
+menschen zijn, die nog geen duur
+apparaat voor de thans geldende
+golflengten gekocht hebben, zal de
+industrie zich er ook niet erg druk
+om maken. Want men volgt daar
+een systeem van geleidelijkheid" bij
+het uitbrengen van nieuwe toestellen
+een systeem, dat den gang in den
+verkoop houdt.
+De ultra-ultra-korte golven van
+Marconi zullen nu het einde van de
+stadstelefoon beteekenen. ledereen zal
+zijn zender en ontvanger in den zak
+kunnen dragen. En hij zal daarmee
+over een afstand van 20 K.M. kunnen
+telefoneeren. liet systeem zal geheim
+zijn. De golven zullen door muren,
+bosschen en andere versperringen
+gaan, zonder eenige verandering te
+ondergaan. Alleen begrijp ik dan niet,
+waarom men er nh-t dwars door de
+aarde mee kan werken en waarom de
+afstand tot 20 K.M. beperkt is.
+Enfin, wat Marconi ervan vertelt,
+is lang niet onmogelijk. Want de
+gewone radiogolven laten zich ook
+niet door muren en bosschen ophouden.
+Dat doen alleen de ze
+venmetergolven .... zooals wij reeds weten.
+Vanzelfsprekend zijn er op die micro
+
+golflengten geen luchtstoringen of
+andere storingen meer. Die zijn ook
+op de zevenmetergolf al zoo goed
+als weg. Er is echter een maar....
+Ik geloof niet zoo vlug aan die
+toestelletjes, die iedereen in den zak
+kan meedragen. Er zal toch wel een
+draadje aan de lichtleiding moeten
+worden aangesloten. En dan zullen
+er toch wel een stelletje transforma
+
+toren voor de gloeispanning en de
+anodespanning noodig blijken. Zoo'n
+toestelletje wordt zoo zwaar en
+omvangrijk, dat ik het niet in den zak
+van mijn zondagsche jas zou willen
+hebben. En dan nog iets. Het bepalen
+en behouden van de golflengte is
+bij de zevenmetorgolf reeds erg moei
+
+lijk. Voor iemand, die een gewonen
+omrocpzender gewend is, moet het
+niet voor te stellen zijn hoo hij bij
+een stabioleii 57 centimetei'zender de
+golflengte constant moot houden.
+Erger wordt het als zulke
+zakzenders" door leeken zoudon mocton
+worden bediend. En minstens even
+onmogelijk wordt het bedienen van
+een ontvangtoestel voor zulke
+ongeloofelijk korte golflengten. De eenige
+oplossing zou misschien zijn, dat de
+toestelletjes in het laboratorium op
+n bepaalde golflengte worden afge
+
+stemd en dat dan alles zoo onwrik
+
+baar vast tezamen wordt gegoten,
+dat er niets meer aan veranderd kan.
+Ik stel nirj voor dat zulk een
+n-golfontvangertje makkelijk met alle afge
+
+stemde spoelen-en-wel in oen radio
+
+lamp zou kunnen worden onder
+
+gebracht. Ik neem zelfs aan, dat het
+mogelijk zou zijn om de
+afstomnriddelen van een 10 Wattzendertje
+tezamen met dengloeidraad, rooster en
+anode in oen beetje groote radiolamp
+onder te brengen. Doch daarbij zou
+dan in ieder geval de niet te verkleinen
+energiocentralo moeten komen, hetzij
+transformator of batterij. l'Li dan
+zouden wij toch nog maar oen gebrek
+
+kig apparaatje hebben, waarmee wij
+slechts n station zoudon kunnen
+hooron en dus ook slechts met n
+onzer bekenden telefoneeren. En daar
+
+voor zoudon we dan eon toestel mot
+anodebatterij, plus eon microfoon
+met batterij on een ontvangapparaat je
+in den zak moeten moosloopon.
+Dan ga ik voorloopig maar liever
+in oen publieke telefooncel !
+De glazen cel
+
+Tot de wereldstad-allures
+waartoe Mokum overgaat
+hoort nu ook de telefoon-cel
+zoo maar midden op de straat.
+
+Hoe i*1 't moof/lijk, zult U zeggen,
+dat men zooiets hier riskeert,
+'m een stad waar zelfs een kat is
+kat-astraal gecontroleerd !
+
+Edoch, wijl 't dus kon gebeuren.
+zoo tras de gedachtenloop,
+dat me» zonder te betalen
+in zoo'n publiek huisje kroop,
+
+of, ja, dat kon ook passeeren,
+al zegt men het niet ronduit,
+'t voor een ander doel benutte
+als voor telefoon-gebruik,
+
+vond de sub-advies-commissie,
+die zeer gezaghebbend VHS,
+iets geniaals ' men maakte cellen
+heelegaar run vensterglas !
+
+Driewerf jammer, stad van schoonheid,
+en van dansen-achtcr-touu-,
+en van n verkcers-po/itie
+op de fiets per slechte vrouw.
+
+Driewerf jammer wijl het laatste
+kansje op Weltstadt-romantielc
+snood'lijk nan ons wordt ontstolen
+dcor je dubb'/e-boekhoud-kliek.
+
+Weg de kans op een klein kusje
+midden op het Leidschep/ein,
+Zoo een kus in 't stads-gedaver
+kan zoo echt weltstfidlisclt zijn !
+
+Weg de, kans op een jlirtulion :
+O, pardon, dat ik U stoor.
+Maar we kunnen, als U 't goed vindt,
+ook wel met z'n beidies, hoor !
+
+Stomme stad ! Waarom niet met een
+automaat je kas gestijfd,
+waardoor, d raison van zooveel,
+'t deurtje een uur gesloten blij/t '•
+Zout-water"
+
+Hij werd verliefd en zei het haar
+lei' hoogt van, I'JI Kantara.
+Ze was zoo preatnch. zoo untsterdaiiisch,
+met zulke lieve huren.
+
+Ze /ladden Jiulten naa.st elkaar,
+en boven 't sch roe j-gedonder
+vrijen ze 's nachts vanuit hun raam.
+De zee bruis! vlak eronder.
+
+Die zee is zwart, de Roode Zee,
+en dan de Oceaan.
+en u'it-gckruifd. En duizel-diep.
+En soms is 'f volle maan.
+
+Ze zien ell.aur, zoo dicht, zoo ver.
+in 't toover-blawrc licht.
+De zee doet mee. Maar bij 't ontbijt
+in 't strakjes : mondje dicht.
+
+Ik dank je. iiev'ling, mor die lijd,
+en voor die laatste zoen
+in l'riok toen je vader bo
+
+ven paspoort-plicht moest doen,
+
+Ze zegt/en, zoo een liefde op
+zeekomt van de. . . . rijke disch
+en van de zeelucht. Lasterpraat '
+J k iceet wel hoe hel is :
+
+Daar in Europa. i&gt;i de stad,
+zwoegt men e/kaar voorbij.
+Maar hier, in (lod's beirogenheid,
+is K ros roi/el-rrij .'
+
+JOH. C. P. ALBERTS
+
+</text>
+<image timestamp="2002:09:26:18:05:42.00" size="207905">D10008E1.TIF</image>
+</page>
+</document>

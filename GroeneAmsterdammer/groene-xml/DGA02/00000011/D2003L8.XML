@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240524</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2449
+l
+VRIJWILLIGE VERKOOPINC.
+H. VAN DAM Azn. &lt;SZONEN, A.DAVIDSONenH. G. IJZERMAN Jr.
+c.s., Makelaars, zullen op Maandag 2 Juni a.s. ten overstaan van de
+Notarissen W. KRABBENDAM en j. D. VRIESENDORP, in
+Publieke Veiling brengen het destijds onder architectuur van JAN
+SPRINGER gebouwde ruime j
+
+HEERENHVIS
+met Tuin en Erve, staande en gelegen aan de
+
+WËESPEKXIJDE: 34
+Kadastraal bekend Sectie S. No. 344, groot 2 Aren 6 Centiaren.
+Het perceel is op l Augustus, na betaling der kooppenningen te
+aanvaarden en is zoodanig ingericht en van alle gemakken voorzien,
+als door gegadigden op vertoon van bewijs van toegang kan worden
+bezichtigd des Maandags en Donderdags van 2—4 uur.
+Nadere inlichtingen verstrekken de Directie-Makelaars H. VAN
+DAM Azn. &amp; ZONEN, Sarphatistraat 35, Telefoon 53190—53191—53192.
+A. DAVIDSON, van Mussenbroeckstraat 9, Telefoon 52742 en H. G.
+IJZERMAN Jr., Sarphatipark 135, Telefoon 21275.
+J. BERKEMEIJER
+r/h PAUL MIOHE
+HORLOGES PENDULES
+ROKIM 32 TEL. 47B92.
+ASPERGES
+fijnste, dik, blank, frisch, franco huis postwissel.
+Kistje stevig verpakt4 pd. f3.—,6 pd.f4.—,8 pd.fS.
+Sleepasperges 25% meer, lengfe Sterilis 75% juiste glasmaat.
+
+Firma ISIDORUS, Bergen-op-Zoom - Tel. Interc, 119
+Zoo juist verschenen:
+
+WAAROM
+hebben de Franschen
+het Roergebied bezet
+
+door E. DOUMERGUE
+
+Prijs i 0.50 Alom verkrijgbaar
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+KEIZERSGRACHT 129-131
+AMSTERDAM
+
+
+Dinsdag 27 Mei 1924
+VAN
+INBOEDELS
+alsmede de kostbare Muziek
+
+instrumenten behoorende tot
+de Nalatenschap van Wijlen
+den WelEd. Heer I. MOSSEL.
+
+Bezichtiging: 3 dagen tevoren.
+
+
+J. LEEFSON Jzn.
+Makelaar.
+
+J. DE BLANK en
+J. C. A. BUCHNER
+Notarissen.
+RECLAME
+
+Eetkamer-Ameublement
+NEDERLANDSCH FABRIKAAT
+Buffet, Taf el met 2 uitschuif bladen,
+4 Stoelen, 2 Fauteuils
+COMPLEET f295.-.
+Haarlemmerstraat 78
+
+TELEFOON 4-6-4-2-7 - AMSTERDAM
+HET LEVEH BEGINT...
+
+DOOR
+
+GUIDO DA VERONA
+
+Uit het Italiaansch vertaald door
+CHR. MORESCO-BRANTS
+
+Geïllustreerd omslag van
+
+Is. VAN MENS
+
+De H en W-Serie Deel VI.
+
+Derde druk
+
+
+Ingen.f2.90 Geb.f3.75
+
+Uitgave van
+
+VAN HOLKEMA &amp; WARENDORF
+Amsterdam
+
+</text>
+<image timestamp="2002:09:03:08:34:40.00" size="670542">D2003L8.TIF</image>
+</page>
+</document>

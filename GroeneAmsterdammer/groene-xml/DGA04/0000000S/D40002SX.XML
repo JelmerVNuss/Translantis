@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190208</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+DE NEUTRALEN EN DE VREDESCONFERENTIE
+4 •
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 8 Februari 1919
+Nadruk verboden
+l orj J]Sn 01 o \i»S•
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co
+De Kleine Staten: Mogen wij ook niet eens aan de pijp meerooken?"
+
+</text>
+<image timestamp="2002:08:23:06:27:46.00" size="396477">D40002SX.TIF</image>
+</page>
+</document>

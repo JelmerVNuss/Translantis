@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2500
+ia
+El
+ts]
+E
+
+ts]
+El
+
+[5]
+
+a
+a
+a
+a
+a
+Gezond en
+onvermoeibaar
+door
+Sanatogen
+
+
+
+
+^ (&lt;E;k
+l
+&lt;St ' ^Ni^ i
+ll06V66l meer weerstandsvermogen met Sanatogen?
+
+Een Engelsen geneesheer heeft op wetenschappelijke wijze gemeten
+hoeveel verschil het gebruik van Sanatogen op de levenskracht van
+verschillende personen heeft. Hij kwam tot de volgende resultaten
+(zie Medical Echo, Januari 1925):
+
+Een groep hersenarbeiders niet Sanatogen-gebruikers werd onder
+
+zocht na 6 uur arbeid. Zij hadden toen 86% van hun oorspronkelijke
+arbeidskracht verbruikt, en waren dus bijna uitgeput. Nu werd hun
+gedurende twee weken Sanatogen gegeven naast hun gewone voeding
+en weer werden zij na precies denzelfden arbeid onderzocht. Zij
+hadden slechts '/.-, (20%) van hun levenskracht verbruikt.
+
+Een aanwinst dus van ruim 60 %
+
+levenskracht door Sanatogen
+
+Daarom ook voerde de Mount Everest Expeditie Sanatogen mee en kon
+Gapt. C. J. NoELna zijn terugkomstschrij ven: De weerstandgevende eigen
+
+schappen van Sanatogen bij buitengewone inspanning waren onschatbaar"
+
+Daarom ook gebruiken bekende schrijvers, zooals bijvoorbeeld
+Sir HALL CA1NE geregeld Sanatogen. Hij deelt mede:
+
+,,Ik heb onlangs nog een bewijs gekregen
+van de afdoende werking van Sanatogen,
+wanneer bij zware geestelijke en
+zenuwoverspannende arbeid de krachten opgebouwd
+en het zenuwgestel hersteld moet worden".
+
+Beproef Sanatogen eens een paar weken, dan kunt gij bij Uzelf
+constateeren welke gunstige gevolgen het op Uw gezondheid en werkkracht heeft.
+(ia nóg heden naar Uw
+
+Apotheker of Drogist
+Hij verkoopt Sanatogen
+
+vanaf f i.—per bus
+a
+ta
+a
+ta
+ta
+[5]
+ia
+ta
+ta
+{5]
+ta
+El
+[5]
+ta
+[5]
+El
+|nfal
+
+</text>
+<image timestamp="2002:09:03:09:37:39.00" size="131411">000005KO.TIF</image>
+</page>
+</document>

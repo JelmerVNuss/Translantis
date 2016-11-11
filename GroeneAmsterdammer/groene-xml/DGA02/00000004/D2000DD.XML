@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000211</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kn. 1181
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Generaal Buller en de (noj steeds
+niet gevonden) sleutel der
+Boerenposilie.
+Uit , Le Rire".
+Uit Der Postillon".
+(Sur l'air de Murlborough).
+ChnTnberlain va-t'en guf-rre
+Oh I Ia la, oh! la la, Bon de'rière,
+Cbatnberlain va-t'en (raerrn,
+Ne aait quand reviendrs (bin).
+Dessio de TIRET-BIGOT.
+ELFKASS
+Ma elef, ma clef,
+On m'a chipéma clef !
+Si vous la retronvez,
+O. rapportez-moi Ja !
+Kécompense y aura (bis)
+Ponr qui la, qui la,
+Trou-la-la, troulala
+Qui la, qui la trouvera.
+(Oud Café- Cowceri-liedje).
+O ppijt, o spyt.
+Ik hen mijn sleutel kwijt!
+in Godsnaam, vind-je hem.
+Help mij dan uit de klem !
+'k Betaal graag vindersloon (bis)
+Aan wie hem, wie hem,
+Vliegensvlug, vliegensvlug
+My weer, my weer brengt terug.
+JOHN BÜLL : «Goddaoi ! Nu komt die Rus ook nog en
+beweert dat ie 't goed met me meent
+Uit Lustige Blatter".
+Prentbriefkaart.
+De wegwijzer naar Ladysmith.
+(V Ik).
+Het Afrikaansche oorlogstooneel.
+
+
+De Familie Chamoerlain.
+(Ulk).
+BVLI.KR fut den Jjiilfdicn I.ec'.tiv : sik ge'oof dat weleeUjk
+uit den koera geraakt zijn."
+Vóór den slag.
+(Le llirc).
+PAPA : »IIoe lijden wo door dezen oorlog! Onze arme soldaten vallen
+en onze fondsen ook . .."
+De lichting der achtste divisie.
+(Lustige llliitter).
+De Britsche luipaard op Spionkop.
+
+
+'tt
+(Uit J'l/uico &gt;j Xegro.)
+Mijneheeren : ziet dfi zaken niet te licht in •
+il; heb er e(n zwaar booid over...
+Na den slag.
+Telegram uit Athene: De Vereeniging Hellenismus be&lt;^.ft een
+i.""lachtenisviering uitgeschieven voor de gevallen E'.gelschen.
+Gedeelde smart is halve smart. Ik heb ook voor m'n limck •••'•bnd.
+Dat mag men nooit vergeten. En kan uw smirt dus wptcii !
+(Prentbritfktiart).
+.. . Wij ook generaal !
+l-'Ai.LSTAi'i•• IVins VAN \\'AI,::S : »Ziedasr een menigte brave jongens om i n?e ^'-leder
+aan te vullen; ik vraag niet naar d« ledematen, de spieren. Hu JKI SIP. de iliht« . . ."
+(Viij naar Sliakefpeare's UEXDRIK IV, 2e dtd.)
+
+
+</text>
+<image timestamp="2002:08:14:05:54:24.00" size="443675">D2000DD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070526</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Beraamde moordaanslag op den Czar.
+BIJVOEGSEL van De Amsterdammer. Wcekbiaii voor NeileUam! van 26 Mei 1907.
+K C/AR: K n nu wilden y.c inünoi; doodni;i.!;rn ook... !
+ri.il.Vl'lN' : t l.s .•lischuvViJiik. Sn-e . .. ! , /•/ .;•/-£kr-cl'"• : Kunden /.&lt;-• iiein maar levend maker..
+
+
+</text>
+<image timestamp="2002:08:12:14:23:27.00" size="708342">000000V9.TIF</image>
+</page>
+</document>

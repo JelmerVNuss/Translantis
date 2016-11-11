@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>42</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^WJfT'-''"' ' "" ' f' '
+kliSjmA- 1033
+Mensch «n
+machineE'/';
+fff
+
+f '
+'-*
+*l
+SPECIAALZAAK
+VOOR
+BONTMANTELS
+NAAR MAAT
+PRIMA QUALITEITEN
+
+GOEDE PASVORM
+
+LAGE PRIJZEN
+P. J. KOPPEN &amp; Co. - BONTWERKERS
+TELEF. 34553 LEIDSCHESTRAAT 45 AMSTERDAM
+Godin-Monsterzaal:
+AMSTEL 2O-22 (b.d. Munt)
+IAM~S[T E R DAM
+Telefoon*
+HUISJASJES
+van zachte wollen stoffen, in gedekte
+kleuren en dessins. Contrasteerende
+kragen en manchetten
+NIEUW
+ENGELAND
+KONINGSPIEIN AMSTERDAM
+TOT 10 UUR GEOPEND.
+
+</text>
+<image timestamp="2002:09:27:06:19:34.00" size="208086">D20071W.TIF</image>
+</page>
+</document>

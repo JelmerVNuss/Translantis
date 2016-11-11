@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19360104</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+voor
+'ezen
+dslag
+aam,
+lacht
+erden
+j van
+t ja en
+&gt;ch",
+litieke
+i
+eenllechts
+in den
+op de
+celijke
+
+nstitubreekt.
+•nderen
+
+iovjetbesluit
+ifbreken
+wórdt
+
+l Daarbij
+ptncieele
+Dalingen
+ir men
+jegeven
+'ruguay
+mg zag
+itionale
+alleen
+stische,
+re
+aan
+
+gen\ gezant»
+t zaken
+
+pis een
+tntellen
+Istir aan
+ten van
+«arvoor
+in maar
+eel wat
+igelsche
+tek van
+* zeker
+$ft niet
+
+beDe Groene begint zijn zestigsten jaarganc;
+'
+dkomen
+
+kunnen
+os
+ingeentaren
+
+.•«•'«iv •••!
+'••&amp;3$$tm
+\
+
+y
+" i»
+
+</text>
+<image timestamp="2002:10:28:13:59:57.00" size="213256">D3000JTE.TIF</image>
+</page>
+</document>

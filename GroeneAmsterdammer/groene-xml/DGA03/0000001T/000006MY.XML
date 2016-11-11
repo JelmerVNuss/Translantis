@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280602</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+D. STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+A. R Z U R C H E R
+CARTONNAGEFABRIEK en DRUKKERIJ
+LOOIERSGRACHT 64-66-68-70-72. AMSTERDAM
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+J " ' " V * *• 4C~
+# 'l ^u-_is * * J- V U C&lt;«*.' ..«/^UtKWi-
+ien verrassing.
+De steeds toenemende vraag naar de
+Pastilles Droste versterkt ons in de over
+
+tuiging, dat deze chocolade in samenstel
+
+ling en smaak de voorkeur verdient.
+Daar wij echter ook voor diegenen wier
+voorkeur naar een anderen smaak uitgaat,
+een chocolade verkrijgbaar willen stellen
+van dezelfde kwaliteit als de PASTILLES
+DROSTE brengen wij thans de navolgende
+smaken in den handel, verpakt in de be
+
+kende ronde doozen, 3 formaten (eveneens
+los verkrijgbaar) en als volgt gekenmerkt
+door kleur der verpakking en opschrift:
+
+de bekende Pastilles Droste: rood
+Bitter-Zoet zwart-goud
+Melkchocolade blauw
+Mokkachocolade groen
+Altijd
+weUsora,
+In doozen:
+ƒ2.15; ƒ1.20; ƒ0.65
+Per ons 40 cent
+DROSTE'S 'CACAO-EN CHOCOLADEFABRIEKEN - HAARLEM
+
+</text>
+<image timestamp="2002:09:04:17:51:21.00" size="123738">000006MY.TIF</image>
+</page>
+</document>

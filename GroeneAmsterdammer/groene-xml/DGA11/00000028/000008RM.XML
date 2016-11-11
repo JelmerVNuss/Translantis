@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Filmcritiek Fin de Siècle
+door L J. Jordaan
+HET was een vreemde tijd !
+Door de straten zweefden fantastische verschijnin
+
+gen, tusschen twee enorme ballonmouwen, boven een
+paroxysme van rokken, onder zeilende eilanden: half
+volière half bloementuin. En toonbeelden van waar
+
+digheid en harigheid, in zwarte gekleede jassen, hooge
+hoeden en baarden a discrétion, groetten ernstig en
+zwierig deze wandelende grotesquen vast voornemens
+ze niet uit te lachen, vóór we twintig jaar verder waren.
+In de huiskamers heerschten de anti-makassar en het
+rood pluche, de petroleumlamp en het portret der konink
+
+lijke familie bijwijlen zelfs het hoofd des gezins. Op
+de tooneelplanken speelde men Van Lennep, Ibsen en
+Heyermans.... maar altijd tooneel. In het Parlement
+speelde men met zijn vrijheid, met het Reglement van
+Orde en met den preektoon.... maar altijd in grooten
+stijl. Een straat was een wandelweg en nog geen renbaan.
+.Een neger was eenvoudig zwart en nog geen halfgod en
+een criticus, iemand die voor zijn meening uitkwam.
+Het was in dien vreemden tijd, dat Opa tegen Oom
+Kobus zei: We gaan naar Carréde Biograaf zien en
+we nemen den jongen mee!" Wat mij betrof, had hij
+ook kunnen zeggen, dat we naar Carrégingen om den
+Talmud te hooren voorlezen of de Internationale te zien
+componeeren of ons de theorie van Einstein te laten
+yoor-spellen. Hoofdzaak was, dat we naar Carrégingen
+een feest van licht en paardetram-rijden en laat
+opblijven. Zoo werd ik dan in het ritueele schoone hesje
+gestoken en bekroond met de nieuwste mode-cri: het
+jockeypetje, waarop wij gedrieën plechtig de straat
+opstevenden
+want l uitgaan
+was in dien
+onwaarschijnlij-
+,ken tijd nog een ,X
+feest en geen
+cultureele plicht.
+Onderweg spra
+
+ken de mannen
+veel over de Bio
+
+graaf, die won
+
+derlijke uit vinding der nieu
+
+were tijden, welke leven
+
+de fotografieën op het doek
+projecteerde. Oom Kobus
+vertelde van Edison's
+Kinetoscope, een machine, die
+je zelf met je hand draaide,
+na er een dubbeltje inge
+
+gooid te hebben en die je
+een dansende juffrouw liet
+zien, of een bokswedstrijd,
+of soms wat anders, dat
+hij'Opa later wel eens zou
+vertellen. Opa schudde het
+hoofd hij was een man
+van den ouden stempel, een
+kwaliteit, welke hij even
+zorgvuldig onderhield, als
+het schippersbaardje, dat
+hij uit den tijd van Willem
+Twee had overgehouden. Hij
+geloofde niet aan die
+dwaasheicl van levende beelden en sprak van trucs en boerenbedrog en ging
+alleen maar eens kijken, hoe erg de menschen zich wel lieten bedotten.
+In Carrésmaakten wij al de zaligheden van het ,,speciali
+
+teiten-programma" een divertissement, dat men toen niet alleen
+zien, doch ook nog ontwijken kon. Het was alles een beetje
+eenvoudiger dan tegenwoordig en, naar het mij toeschijnt,
+ook ecri beetje minder vervelend. Maar dat kan wel aan mij
+liggen, want ik zag toen nog niet tuee en vijftig maal per
+jaar den danser, die zijn vrouwelijke partner aan n been opsteekt,
+alsof het een paraplu ware noch hoorde ik even zooveel
+keeren den chansonnier, die tot slot nog een ,,serjeus" liedje wilde
+zingen. Wij lachten Hollandsen en uitvoerig om de onvermijdelijke
+schoonmoedercoupletten, zongen het lied mee van The man who
+broke the bank at Monte-Carlo" en ijsden ten overstaan van dubbele
+salto-mortales en het jongleeren met vlijm-scherpe messen. Toen ten
+langen leste het groote Indiaansche slotballet met het kampvuur
+onder den ketel en de vele luidruchtige geweerschoten aan ons was
+voorbijgegaan, werd het donker in de zaal.
+Let op !" zei oom Kobus, Nou komt de biograaf !" Opa smoorde
+een kuch van protest en ongeloof in zijn schippersbaardje want
+reeds flitste een mysterieuse lichtbundel door de rookerige, wazige
+circusruimte en op het witte doek, dat toen nog natgespoten werd
+
+</text>
+<image timestamp="2002:09:22:11:41:26.00" size="250062">000008RM.TIF</image>
+</page>
+</document>

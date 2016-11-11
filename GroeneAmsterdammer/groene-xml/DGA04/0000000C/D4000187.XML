@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140419</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+SLEESWIJK HOLSTEIN'S LAATSTE HOOP
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland.
+van 19 April 1914
+Een Nederlandsch Comitéheeft zich gevo.rmd om samen met de Denen aan
+de Deensch-sprekende Sleeswijk-Holsteiners giften te zenden voor hun Bibliotheken
+ten bate van hun taalstrijd tegen het hen verdrukkende Pruisen. Adres: van
+Qestel-Bouvy, Joh. Verhulststraat 11, Amsterdam en Vilh. Carstens, Oosterbeek
+Amst. Boek- en Steendrukkerij v/h. Ellerman, Harms &amp; Co
+Modersmaal er vort Hjaertesprog
+Kun los er al fremmed Tale,
+Det alene i Mund og Bog
+Kan vaekke et Folk of Dvale !
+Moedertaal is de spraak van ons hart,
+Hoe leeg is daarbij alle vreemde taal,
+Déze alleen, in mond en boek,
+Kan uit den sleur opwekken een volk!
+
+</text>
+<image timestamp="2002:08:20:17:19:17.00" size="635534">D4000187.TIF</image>
+</page>
+</document>

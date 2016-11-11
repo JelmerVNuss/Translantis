@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391014</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Neem Nu een
+Amstel-Stoop
+huis!
+DUBBELE
+AMSTEL
+STOOP
+Nu de koude dagen komen is het .gemakkelijker dan ooit om (door de
+stoop 's avonds eenvoudig buiten te zetten) het bier heerlijk koud te krijgen!
+Dubbele Amstel-Stoop: Pilsener of Münchener f 2.25. • Alleen bij V w bierhandelaar verkrijgbaar!
+
+AMSTEL BROUWERIJ
+Gemengd Nieuws
+Kapitein Kuyt
+Kapitein Kuyt is geen romanfiguur maar een brave
+Zaanlander, die met zijn jacht je Holland" al een
+keer den Oceaan overgestoken is en die eind Augustus
+wederom vertrok om met drie gezellen den verren
+tocht te ondernemen. En nu is Kapitein Kuyt onver
+
+wacht in het vaderland weergekeerd.
+Het staat er niet bij, maar ik neem aan, dat de
+gevaren van een Oceaan in oorlogstijd, drijvende
+mijnen, duikbooten, vliegtuigen Kapitein Kuyt er
+toe gebracht zullen hebben, de veilige haven weer op
+te zoeken. En gelijk heeft hij. Want er gaat niets
+boven de veilige haven.
+Toen ik dat las, kwam bij mij de vergelijking op
+van dat jachtje Holland" en het landje Holland. En
+toen ik daar aan dacht, hoopte ik maar, dat Kapitein
+Kuyt inderdaad in veilige haven is gekomen.
+Als muren konden spreken
+Als de muren van het Haarlemsche Huis van
+Bewaring zouden kunnen spreken, zouden ze precies
+kunnen vertellen, wat er nu eigenlijk gebeurd is,
+alvorens de vijf opgesloten Duitschers hun vrijheid,
+tijdelijk, herkregen. Want wat de eene bewaker tot nu
+verteld heeft, schijnt voor dit huis eerder den naam
+Huis van Bewering" geschikt te maken.
+Deze drie Duitschers, die in Belgiëde vrijheid
+hoopten te vinden, hebben de fout begaan weliswaar
+gescheiden te reizen, doch zich later te vereenigen,
+waardoor een chauffeur zich plotseling van het begrip
+drie Duitschers" bewust werd. En drie is te veel
+voor Duitschers. Dat is al een minderheid.
+Ondertusschen zijn er nog twee zoek. En hun geef
+ik een redelijke kans. Want ze kunnen tenminste
+niet de fout begaan, met z'n drieën te loopen.
+
+Stations
+In de eerstkomende dagen zal het
+Weesperpoortstation verdwijnen, wijl het Amstelstation haar taak
+
+PAG. 16 DE GROENE No. 3254
+overgenomen heeft. Rust zacht, Weesperpoort. Het
+was zoo iets naargeestig s.. .. Als 's avonds laat de
+lichtjes triest brandden, de houten perrons onderden
+voet kraakten en de tocht er doorheen gierde, was het
+haast een spookstation. Het was een station, waarbij de
+beangstigende berichten der avondbladen wonderwel
+pasten. Laten we hopen, dat het nieuwe, lichte station
+in de kranten ook zijn passend nieuws zal vinden.
+In ieder geval krijgt Amsterdam er een station bij, dat
+het, na jaren van tochtig wachten, verdient. Het zou me
+niets verwonderen als het aantal verkoudheden in de
+hoofdstad plotseling een scherpe daling zou onder
+
+vinden.
+
+Goede buren
+Oostenrijk grensde aan Duitschland,
+TsjechoSlowakije grensde aan Duitschland, Polen grensde
+aan Duitschland en Rusland, Estland, Letland,
+Litauen, Finland grenzen aan Rusland. De eenige
+raad, dien men mogendheden in dezen tijd blijkbaar
+kan geven is, vooral nergens aan te grenzen. H.
+
+</text>
+<image timestamp="2002:09:13:04:51:33.00" size="146116">D2004DU.TIF</image>
+</page>
+</document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19401005</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE LANGE WINTERAVONDEN
+VOOR DE EXTRA-LANGE
+W1 NTE R. AVON DE n
+HERLEVING OeR. OUDF
+F-l i U—t "i i-v j i c. w.
+PROFITEERT VAM OE LANGE WIMTERAVOMQ
+VERDIEPT UWKEMNI6 VAH 0£
+KLA55IEK£ EH
+MU2IEK ! !
+MAAKT EEh MUTTI6 GEBf?(JfK \/AH
+HAHDI&amp;H6I
+IM
+^ WINTEI2A
+Onze plannen en wal er vermoedelijk van terecht komt ....
+PAG. 6 DE GROENE No. 3302
+
+</text>
+<image timestamp="2002:09:13:10:23:15.00" size="140662">000007RB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280728</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 28 JULI 1928
+No. 2669
+J, D. STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+DE BESTE EN GOEDKOOPST E
+OVtRAL VC.DKPVGBAAQ
+.40813 "/bMANOEl.
+JOH-M.VAN OER MEIOEN
+AMERSFOORT
+iniMiiiiiiiiiiiiiiiiiiiiM
+J A E G E R
+Ondergoederen
+IQ div, kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRONER
+Nienwendijk 167, Amsterdam
+•iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+BIDMKHÏM
+too w el eenvoudige als betere uitvoering
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+mmmmmaamm
+ELIS M. ROGGE en
+LOUISE H. WILDT
+Geïllustreerde handleiding
+ten gebruike van school en
+huis voor het aanleeren der
+technieken van kunst- en
+spoelweven op den
+handweefstoel.
+
+Tweede herziene en geheel
+omgewerkte druk.
+
+Aangevuld met
+patroonteekeningen
+door
+ELIS M. ROGGE en
+GEERTRUID DE GRAAF
+
+Prijs gebonden f 2.50
+
+De schrijfsters van dit werkje
+hebben een moeilijke taak gehad,
+maar ze hebben een leerboek
+samengesteld, dat zoowel door
+zijn tekst als •ioor zijn illustraties
+aan duidelijkheid niets te
+wenschen overlaat.
+
+Uitgave van:
+VAN HOLKEMA &amp; WARENDORF's
+Uitgev.-Maatsch., Amsterdam.
+Voor alle doeleinden
+NV
+Oiem.Kunstinricriting
+DirkSchndbel
+Amsterdam. *
+FAMIATE
+mJ ^n P v^NTniEL
+dFOOTC tlOUTSTF.101103^
+TCL.1O5T5.
+HAARLEM
+PERZISCHE TAPIJTEN
+DIRECTE IMPOKT CNGFOSHANDEL
+BEGRAFENISVEREENIGING
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+tam
+ADRIAAN SCHAKEL
+HEILIGE WEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BU MÜverkrijgbaar
+N, R. V, MONTA SCHOENEN
+iiuuuHUBüBmiiimmgniinininiiinitiniiiiiiiinnMiiiiiiimiiiiiiiiiiiiiiiiiiiiiiniiiiiiiHiiiniiiniiiiintmni
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+VERWEEGEN &amp;. KOK
+AMSTERDAM
+DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+f 65^ af
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen
+DORDT
+~nin	iiiiiiiiinniiiiiniiiniiiiiii	nuniii	mui	1111	irmiiinin	NIH	iiiiiiiiiiiiin	miiiiiiiiiiimimmi7
+
+</text>
+<image timestamp="2002:09:04:23:56:44.00" size="118974">000006SI.TIF</image>
+</page>
+</document>

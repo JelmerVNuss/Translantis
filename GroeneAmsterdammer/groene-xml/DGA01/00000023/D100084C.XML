@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261120</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2581
+4
+
+t&gt;
+L
+NIEUWE BITHKN M l. M. MEÜLEKHOFf.
+
+Het is ons aangenaam U dit najaar op velerlei gebied boeken te
+kunnen aanbieden, die door de pers zeer gunstig werden besproken
+of die reeds vóór verschijnen door bevoegde of eerste letter
+
+kundigen waardeerend werden beoordeeld.
+
+DE OPSTANDIGEN
+door
+JO VAN AMMERS-KÜLLER
+6e druk, prijs f 4.40 ingenaaid, f 5.90 gebonden
+Het boek is waard een plaats te vinden onder de klassiekste
+werken. HENRI BOREL
+
+INGER SKRAM
+door
+J. OTERDAHL
+uit het Zweedsch door N. BASENAU—OOEMANS
+Prijs f 3.50 ingenaaid, f 4.90 gebonden
+Een mooi en goed boek, een nobele roman".
+Ds. W. MACKENZIE
+Een dier krachtige, stalende en goede boeken, die de
+menschen van dezen tijd zoo noodig hebben". OSTGÖTEN
+
+DE EEN E RICHTING
+Een Roman voor Jonge Menschen
+door
+K. DE JOSSELIN DE JONG
+Prijs ingenaaid f 3.50, gebonden f 4.75
+Zooals men in DE OPSTANDIGEN" de toestand beschreven
+ziet, waarin de vrouw van den tegenwoordigen tijd geplaatst is;
+zoo geeft de schrijfster in dit boek de richting aan, die het
+jonge meisje, volgens haar inzicht te volgen heeft.
+
+VERLAINE, Het leven van
+een Dichter
+door
+A. VAN SCHENDEL
+Prijs ingenaaid f 3.90, gebonden f 5.50
+Een levensbeschrijving, waarin we de figuur van Verlaine
+levendig voor ons zien".
+Twee onuitgegeven portretten, worden als bijzonderheid aan
+dit boek toegevoegd.
+
+DE ZWERFTOCHTEN VAN
+ODYSSEUS
+bewerkt door AART VAN DER LEEUW
+Prijs gecartonneerd f 2.20, gebonden f 2.95
+Een nieuw deel in onze serie De Elfenrij".
+
+DE VROUW DIE UITGESTOOTEN
+WERD
+door
+L. PIRANDELLO
+vertaald door MR. H. P. B. VAN BERLEKOM
+Prijs gecartonneerd f 2.30, gebonden f 3.15
+Pirandello verheft zich in dezen roman ver boven andere
+schrijvers, door de groote zeggingskracht waarmede hij zijn
+onderwerp behandelt". Het Vaderland
+GEÏLLUSTREERDE GESCHIEDENIS
+der
+
+RUSSISCHE LETTERKUNDE
+met 108 afbeeldingen en portretten
+door
+Prof. Dr. N. VAN WIJK
+Prijs gecartonneerd f 2.90, gebonden f 3.50
+
+TOM MIX
+MIJN LEVEN EN AVONTUREN IN HET WILDE WESTEN
+Met afbeeldingen naar het Leven
+Naverteld door M. N. VAN GELDER
+Prijs f 2.90
+DE GESCHIEDENIS VAN EEN MAN UIT EEN STUK,
+MET EEN FLINK KARAKTER.
+De bekende schrijver H. P. GEERKE schrijft ons:
+Ik zou dit boek in de handen van alle jongens wenschen
+te zien".
+Een pracht van een jongensboek, boeiend en met opvoedende kracht.
+J. M. MEULENHOFF ROKIN 44 AMSTERDAM
+
+een
+CERO
+STANDAARD
+CASSETTE
+CERO Zl LVER
+STANDAARD INSTALLATIES
+van: FL.76.- tot FL.419."
+
+CERO ALPACCA
+STANDAARD INSTALLATIES
+van: FL.2O.-tot FL.88.'
+De verkoop van dergelijke Standaard
+
+collecties geeft belangrijke kostenbesparing,
+die den kooper ten goede komt, daar
+gratis wordt bijgeleverd
+de waardevolle Cassette
+VRAAGT INLICHTINGEN BI] UWEN LEVERANCIER
+
+
+ST. NICOLAAS
+GESCHENKEN
+VOOR JONG EN OUD
+VINDT MEN IN ONGEËVEN
+
+AARDE SORTEERING EN
+TEGEN BILLIJKE PRIJZEN
+IN
+
+V^rfïp^/
+WELDADIGHEIDSINSTELLINGEN EN
+ONDtRWJS-INRICHTINGËN EN VEREENIGINGEN
+EXTRA PRIJZEN
+^BIJENKORF
+AMSTERDAM
+
+
+
+</text>
+<image timestamp="2002:09:26:09:27:01.00" size="123243">D100084C.TIF</image>
+</page>
+</document>

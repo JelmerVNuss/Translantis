@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240112</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2430
+zal verschijnen:
+
+fiEDENKBOEK 1924
+ren ter gelegenheid van het
+-jarig bestaan van Hilversum
+:«U zelfstandige Gemeente.
+'•-.. Folio formaat, 500 bladzijden,
+rijk geïllustreerd.
+'•' De prijs bedraagt vóór verschij
+
+ning bij inteekening f 10.—ge
+
+bonden, na verschijning f 12.50.
+Prijs luxe editie, waarvan ten
+hoogste 100 worden vervaar
+
+digd, f30.—.
+. De inteekening is opengesteld
+bij iederen boekhandelaar en bij
+B. C. ROZENBEEK Hzn ,
+BOEKHANDEL, HILVERSUM,
+TELEF. 1282.
+fc
+ZUjwieton
+J. IE MNe &amp; ZONEN • A'DAM
+p jtyi htt mMt gewild, on
+f prVs •• kwiNMt
+IfNMiSttlirij lit Ziidn
+PIXTIB AHR8Z8TBAAT«S44
+TELEFOON 23866
+II Uw ADRES vo»f tot
+bebu«telen nwet waicb, »ow»r droit
+toegeaUien li opgemaakt.
+Cen•urreerende prQzöi n ipoedlgt
+«fl«VMUi|.—Vraait pritopgav*.
+obmlmt HÜMfrCYAII ELVEM.
+c
+i.
+f .
+if
+*
+M
+DEN HAAG
+Spuistraat 2
+
+
+Velours
+n m ei
+1ste Qualiteit
+
+Alle kleuren
+REKLAME
+p. Meter
+8
+90
+•• AMSTERDAMMER
+Wnkblad vtii Nederlind
+kMt rtediti (I(k- pei laai
+N, V, MELKERIJ HOFSTEDE OUD-BUSSEM"
+
+DRINK WEINIG - MAAR ZUIVERE RAUWE MELK
+: Het l* niet overbodig, dat op het bovenitaande de aandacht wordt gevettlgd, nu wederom
+deleten heertenen, welke zoo licht door melk kunnen worden overgebracht.
+
+DE HOFSTEDE OUD-BUSSEM"
+LEVERT
+
+ZUIVERE RAUWE MELK
+en hiervan bereide
+KARNEMELK en YOGHURT
+Hygiënisch verpakte BOTER van de 1e keur, voorzien van het
+RIJK8CONTROLEMERK (Ned. Wapen met bijschriften) tegen marktprys.
+VAN EIGEN TUBERKELVRIJ VEE
+AMSTERDAM
+AMERSFOORT
+UTRECHT
+HILVERSUM
+BAAR N
+ZEIST
+DOORN
+FILIALEN:
+Kerkstraat 187
+Utr.weg 74
+Lepelenburg 3
+Bussummerstr. 26A
+Eemnesserweg 40
+Slotlaan 63
+Vossen weg 153
+Stationsweg 20
+ZAANDAM en ZAANSTREEK* Stationsstraat 65
+Tel. 49344
+Tel. 816
+Tel. 17OO
+Tel. 1155
+Tel. 36
+Tel. 300
+
+Tel. 239
+HOPMA
+FUN5TE FABRIKAAT
+KUNSTSPEL*»
+PIANO'S
+U!T5LUITENDl°KLA5
+FABRIKAAT- GARANTIE
+BILLIJKE PRIJZEN!
+
+W SLIKKER
+OVERTOOM 279 ADAM
+LEEUWARDEN
+AMSTERDAM
+ALGEM EEN E
+
+FRIESCHE"
+|fde GROOTSTE LEVENSVERZEKERING-MAAT
+
+SCHAPPIJ in NEDERLAND, welke volgens het
+Onderlinge systeem werkt.
+Hoofdkantoor: LEEUWARDEN, BURMANIAHUIS"
+TEL. 1601-1602-1603..
+ROTTERDAM
+APELDOORN
+Hanoelsdruk\^erk - Periodieken ^ L/atalogi
+
+
+
+JD rukker ij x lantijn
+
+
+.^ Amsteroam
+
+
+Reclameoruk\verk - Gelos-v^aaroig Papier
+
+</text>
+<image timestamp="2002:09:05:09:41:00.00" size="154257">D10004UL.TIF</image>
+</page>
+</document>

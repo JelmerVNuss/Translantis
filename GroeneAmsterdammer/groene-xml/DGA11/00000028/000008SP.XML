@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>48</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.48
+Kerstnummer
+M"
+v
+l
+.
+*
+J, D. STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+
+BEGRAFENISSEN (naar VERKIEZING met RIJTUIGEN ol AUTO'S)
+CREMATIE. - TRANSPORTEN.
+N.V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+
+BOEKENKASTEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 _ AMSTERDAM - Tel. 42663
+
+MARMERWERKEN
+PLAIDS
+
+VOETZAKKEN
+
+AUTO-OVERSCHOENEN
+VERWEEGEN &amp; KOK
+AMSTERDAM
+
+KALVERSTR. 86-90
+DEN HAAG
+
+NOORDEINDE 64c.
+Doorn TELEFOON m Hotel Cecil"
+PENS IpN-CAFÉ-RESTAURANT
+Logies Ontbijt f3.—Pension vanaf f5.
+Stroomen* koud en warm water, met CENTRALE VERWARMING
+op alle kamers. Prachtig en rustig gelegen midden In het Boich, schitterend
+natuurschoon met ruime Irisiche kamen
+Oarage 2 minuten van tram.	C. Lammers van Toorenburg.
+IKIPS &amp; c°i
+| SCHIEDAM |
+*• Plaatijzeren Reservoirs, Blusleidingen, *
+• Schceps-Tanks 4.
+l AUTOGENE LASSGHING *
+«l
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+
+Laan van Meerder voort 12 - DEN HAAG - Tel 12869
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+
+WIT LACQUE MEUBELEN
+VOOR SLAAP-. LOGEER- EN KINDERKAMER
+aJASR
+BOEKBINDER
+KERKSTRAAT 58
+AMSTEï^AM
+Engelsch Plated (verzilverd)
+
+
+Groenteschalen
+
+Saucekommen
+
+Groentelepels
+
+Saucelepels
+
+Soeplepels Tafellepels en Vorken enz.
+
+Prijzen op aanvrage
+
+
+Arnhem - ZIJLSTRA 6 RUPP
+PEEK £ CLOPPENBURG
+Voornaamste Kleedinqinrichtinq
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:12:16:07.00" size="132846">000008SP.TIF</image>
+</page>
+</document>

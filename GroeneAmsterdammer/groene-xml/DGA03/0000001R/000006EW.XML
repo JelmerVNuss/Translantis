@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280324</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+THE
+SANDHURST
+
+De mooie lijnen van
+onze nieuwste
+Voorjaarsjas geeft
+nevenstaande afbeelding
+getrouw weer. De
+artistieke dessins en
+fijne kwaliteiten
+van deze jas toonen
+wij U gaarne bij
+Uw bezoek aan onze
+magazijnen. U zult er
+enthousiast overzijn.
+
+
+32.- 42.-
+54.62.. TOT
+86.
+Inde duurdere kwaliteiten
+met zijde gevoerd
+
+Voor iedere beurs
+en elk figuur een
+correct passende
+jas voorhanden.
+NIElMNaiANDb
+^~~^&gt;/-^'—~~ r /
+,*;„.£M^HM&amp;'
+'O;
+KONINGSPfJUIM ( AMSIEUDAM
+onocwuncc
+•-, vwi ticcn nuu&gt;
+Onbezorgd, en leyensblij
+Leeft ge, als uw jeugd het linnen,
+Voor uw ouden dag leert spinnen.
+Ettelijke huisgezinnen
+Hadden daar reeds voordeel bij!
+Onderlinge Levensverzekering
+van Eigen Hulp
+
+HOOFDKANTOOR:
+'s-Gravenhage - Kortcnacrkade 3
+BEGRAFENIS OMuERNEnm
+*^T E. Kütt ! N G, . J R^,T
+NltUWt SFILEtLST^AAT 01
+&gt;iiSLN n AAR A ut «v ATS E
+Sigaren?
+Natuurlijk
+Beter dan alle andere.
+MOOI-NEDERLAND"
+* SIGAREN «
+In kwaliteit het beste!
+8 en 10 C e n t
+Fabrikant: Justus van Maurik, Zaandam
+'MODERNE TUINMEUBELEN
+MODERNE EIKEN STOELEN
+Gratis Catalogus 1928. A. J. v. GROEMNGEN, Brederodestraat 4, Amsterdai
+k, of bij De Oirsehotsche Stoelen" Fabriek. Tel. 19 Oirschot.
+fTOfl-ALHMAAR VJ?»
+STANDAARD MOTORKRUISER
+lang8 50M., kajuit.keuken.W.C.,cockpit,
+2—5 slaapplaatsen. Vraagt prospectus.
+
+Werf Nicolaas Witsen'
+STOEL ALKMAAR.
+UILKEMA
+GLADDE RINGEN
+uit n stuk (voeg
+
+loos) 14-18-22 Kts.
+goud, ook wit goud
+f5.—tot f25.
+
+Re£uliersbreestraat 39
+BAU'S OLIJF-OLIE
+Onontbeerlijk bij de bereiding van slaatjes
+mayonaises, enz. in blikken van l en 15 kilo.
+Prijs voor particulieren f 2 en f 27.50
+Voor H.H .Winkeliers ruime verdiensten.
+IMPORTEURS:
+NV. Hoogewerff, Chabot &amp; Visser's
+Wijnhandel
+DEN HAAG ROTTERDAM ARNHEM
+HEEMSTEDE.
+TE KOOP een mooi ruim LANDHUIS met
+Garage; beneden: 3 kamers, keuken, W.C.,
+vooren achtertuin; IsteVerd.; 3 kamers,2 balcons,W.C.,
+2 vaste waschtafels; badkamer, geheel betegeld,
+met ingeb. bad; zolderverdieping met kamer.
+Koopsom Fl. 11.500,-. Te bevragen Voorweg 7,
+Heemstede.
+Een waardevol geschenk
+is een radio-toestel
+maar dan van
+Ingenieursbureau VAN NISPEN-Zwolle
+AMERICAN JORLDTOPHONE'1
+\\ \ \ I, t- K - U K K K X» 1 •: M K K K
+
+</text>
+<image timestamp="2002:09:04:09:25:43.00" size="141076">000006EW.TIF</image>
+</page>
+</document>

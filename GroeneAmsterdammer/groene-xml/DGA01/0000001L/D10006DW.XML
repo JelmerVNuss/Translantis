@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270416</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+(trcchtschc Assurantie-Mij.
+UTRECHT « Westerstraat 5
+Ziekte- en
+OngevallenVerzekering en
+BAU'S OLIJF-OLIE
+Onontbeèntjk bij de bereiding van slaatjes,
+mayonaises, enz. in blikken van l en 15 kilo.
+Prijs voor particulieren f 2.—en f27.50
+Voor H .H .Winkeliers ruime verdien sten.
+IMPORTEURS:
+N.v. Hoogewerff, Chabot &amp; Vlsser's
+Wijnhandel
+DEN HAAG ROTTERDAM ARNHEM
+.V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+m ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+TRECHT NIEUWE GRACHT 6
+TELEFOON 3416
+oor het geheele LAND te ontbieden
+VAN NELLE'S
+KOFFIE
+•f:*.
+HIER IS HAASTIGE
+
+SPOED ALTIJD GOED!
+
+VAN NELLE'S
+
+KOFFIE
+KOMT ZOO VERPAKT VERSCH UIT DE
+BRANDERIJ NAAR DEN VERBRUIKER
+GEUR EN SMAAK
+BLIJVEN BEHOUDEN
+KAAPT P • u * ff *
+l\ ** \t r l MALFPOND* PAKJE
+ROODMERK	70 CENT
+PAARSMERK 65 CENT
+ZWARTMERK
+6O CENT
+GEELMERK
+55 CENT
+GROENMERK
+50 CENT
+BLAUWMERK
+45 CENT
+GRIJSMERK 40 CENT
+
+KWALITEIT IS GEGARANDEERD
+PRIJS IS AANGEGEVEN
+IJ.B.WOLTERS)
+Groningen
+Den Haag
+feoptiilolgsctie BioiM
+Onder redaktie van Prof. Dr. J. J.
+Salverda de Crave, K R Gallas,
+Prof. Dr. A. G. van Hamel, Prof.
+Dr. D. C. Hesseling, Prof. Dr. J.
+H. Scholte, Prof. Dr. Jos. Schrij
+
+nen, Prof. Dr. K. Sneyders de
+Vogel en Prof. Dr. A. E. H. Swaen
+Sekretaris der redaktie K. R. Gallas
+Zoo juist verschenen:
+
+
+Syntaxe Historique
+
+du Francais
+
+par
+
+Dr. K. SNEYDERS DE VOGEL
+Professeur a l'Universitéde
+Groningue
+
+Deuxième dition
+Revue' et Augmentée
+
+l Prijs, ing. f 7,90, geb. 8,90
+Uitgave van J. B. WOUTERS
+
+GRONINGEN - DEN HAAG
+VERSCHENEN:
+De nieuwe» geheel
+bijgewerkte
+
+Plattegrond
+van
+Amsterdam
+IN 1927
+met alfabcthische
+stratenlijst naar offlciëele bronnen
+bewerkt door
+H. O. BERENDS
+PRIJS f 0,95
+In iederen boekh. voorhanden
+Uitgave van: Van Holkema
+8Warendorf'sU.-M.,Amst.
+door
+
+G. H. MOUW
+Lee raar Staatswetenschappen
+H.B.S-en
+
+TWEEDE DRUKJ
+
+
+Prijs	f 0,50
+
+Uitgave van J. B. WOLTERS
+
+Groningen Den Haag
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 3.—per kwartaal of
+10.—per (aar bij vooruitbetaling
+StoeFs Woningbureau
+Bloemendaalscheweg No. 161
+BLOEMENDAAL
+99999XS9999
+CENTRALE VERWARMING
+volgena elk aysteem
+W ARMWATER VOORZIENING
+door middel van ketel, fornuis of gasappanai
+FORNUIZEN
+in alle afinetingen en uitvoeringen
+
+HUNCK 6 ZOON JSSZSSi
+Nuttige Geschenken
+Ruststoelen met 2 kussens 32.50
+Clubfauteuil».	42.50
+Divans	18.50
+Divanbedden, nieuw! nieuw I 75.
+Drvankleeden	17.50
+Tafelkleeden, moquette 180
+bij 160	24.50
+Schemerlampen	14.50
+Kussens voor divans . . . 2.50
+Kapstokken	5.20
+G. J. v. Bennekom, Amsterdam, Huidenstraat 28, Tel 30913
+MEUBELFABRIEK - WONINGINRICHTINGEN
+Zooeven verscheen:
+Het Jezus-Mysterie
+door
+P. L. COUCHOUD
+Vertaald door
+
+L. S. C. FEHR-KIJLSTRA
+Met een voorrede van
+
+Dr. H. G. VAN WIJNGAARDEN
+
+Ingenaaid f 2.25 Gebonden f 2.90
+Uitgave van
+Van Holkema &amp; Warendorf's U.-M., A'dam
+PAS VERSCHENEN: In eiken boekhandel verkrijgbaar
+WOESTIJN
+Roman van Oostersclie Liefde door E. R. RASHID
+Vertaling van BETSY KATER. Prijs ingenaaid f 2.25. Gebonden f2.90
+De Roos van de Woestijn: Een verhaal vol van den warmen gloed van het Oosten en al het avontuurlijke
+van Arabië. Met welkeen blijden moed aanvaardt het Engelsche meisje de moeilijkheden van het haar onbe
+
+kende leven te midden van een vreemd volk! En hoe weet E. R. RASHID onze verbeelding te treffen
+met zijn beschrijving van de heerlijke nachtelijke tochten in den maneschijn, van de prachtige paleizen
+met het marmeren beeldhouwerswerk en de fonteinen in de tooverachtige tuinen!
+De Emir, een echt Oostersch heerscher en tegelijk een volmaakt gentleman, schaakt zijn bruid onder
+de oogen van de oer-degelijke Engelsche tante, en beiden gaan een ideaal huwelijksleven tegemoet.
+
+UITGAVE VAN J. T. SWARTSENBURG ZEIST
+
+</text>
+<image timestamp="2002:09:21:04:32:34.00" size="153527">D10006DW.TIF</image>
+</page>
+</document>

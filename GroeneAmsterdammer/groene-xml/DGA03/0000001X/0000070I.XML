@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281020</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 3681 van 20 Octpber 1928
+25 et.
+roene
+cekblad voor- Nederland
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+
+
+
+
+
+vANnaif'5
+TABAK
+CirVesAi
+GROEM
+BLAUW
+ROOD
+GEEL
+5?
+3o
+OCr
+PER^OM5
+ISrWALITEIT!
+
+
+
+
+
+AMSTERDAM
+KAL VERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+
+ROT TJE R D A M HOOGSTRAAT 243
+
+HAARLEM UTRECHT ,- NIJMEGEN
+TILBURG BREDA
+H,
+rdel XwxtensiDl&lt;
+.eupgordei Iwxtensible
+
+
+van prima Fransch Elastiek,
+
+maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+
+tot heup wijdte 100 c. M. nieuwen prijs f H.
+verder tot 115 c.M. 15.
+
+Bij schriftelijke bestelling gelieve men als maat
+op te geven de wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.
+Voorhanden een enorme keuze
+lastieken Jtl&lt;
+:oeL
+EXTENSIBLE"
+_eupgor&lt;
+
+in Engelsche kwaliteiten vanaf f 4.90
+
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heupgordels
+garandeeren wij.
+
+N.V.%.
+HAKLOOSTERfiUIS
+AMSTERDAM
+KALVERSTRAAT 178
+SPECIALE AANBIEDING
+Zilverblank Vertinde Zwecdsche
+leesch- en Groente- Hafcmacliines,
+in 4 maten, resp, f4,50, f 5.50, f 6,-, f 9.-,
+RASP
+•NUMAffT
+Bij elke machine wordt ge
+
+leverd: een ondermes, dat
+STEEDS GEBRUIKT
+WORDT, vervolgens l
+snijmes voor soepgroenten,
+sucade of voor vet, 2
+snijplaten voor vleesch en l rasp
+voor brood, amandelen etc.,
+DEZE WORDEN DUS
+BEURTELINGS GEBRUIKT.
+De stalen platen en ook het
+mesje en de rasp zijn alle
+aan beide zijden te gebruiken,
+deze nooit stomp worden en ONEINDIG lang
+meegaan.
+EEN UITERST PRACTISCHE MACHINE
+
+VOOR EEN ZEER LAGEN PRIJS.
+
+Na ontvangst van postwissel of girostorting volgt franco
+toezending (postrekening No. 34436).
+
+
+N.V. STROINK
+
+Diezerstraat - ZWOLLE
+OHOERHB
+zoodat
+
+</text>
+<image timestamp="2002:09:05:11:59:28.00" size="168925">0000070I.TIF</image>
+</page>
+</document>

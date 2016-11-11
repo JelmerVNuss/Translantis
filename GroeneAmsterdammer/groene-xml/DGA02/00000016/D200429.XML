@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241108</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2473
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+Nieuwe Engelse Boeken
+OVER HOMERUS
+
+The Homer of Aristotle. By D. S.
+MARGOLIOUTH. Blackwell, 1923. 10/6.
+
+Er is heel veel over Homerus geschreven, en
+'t laat zich aanzien, dat dit vooreerst wel zo zal
+blijven. Men schreef over hem in de bloeitijd van
+Attica, waarvan hij verder afstond dan Vader
+Vondel van ons. Hij werd bekritizeerd door de
+Alexandrijnse grammatici in de tijd van de
+Ptolemaeën. Hij werd vereerd door de Romeinen, en
+nagestreefd door Vergilius. Hij werd allegories
+verklaard" door de Nieuw-Platoniese wijsgeren
+van de latere Keizertijd. Hij werd verafgood door
+de mannen der Renaissance	En niemand
+twijfelde of Homerus was de echte naam van 'n
+werkelik bestaan hebbende dichterfiguur. Wél
+beschouwde men die naam soms als
+oorspronkelijkSemities. Wél geloofde men doorgaans dat Troje
+'n schitterende fiktie was. Wél betoogde in 1704
+de Nederlander Croese, dat Homerus al z'n materi
+
+aal ontfutseld had aan	Mozes, en dat Ilion
+niets anders was dan Jericho. Wél ging eindelik
+de Schotse rechter Henry Home, Lord Rames, in
+z'n Elements of Criticism (1761—1765) de vergode
+vader en dichtervorst in arren moede betuttelen
+De grote Engelse Graecus, Bentley, was 'm
+daarin voorgegaan. Volgens hem was Homerus
+'n soortement troubadour geweest, 'n reizend
+speelman, die blij was als een of andere Helleense
+kasteelheer 'm onthaalde op 'n ferme slok en 'n
+hartig brok, en bijna even blij wanneer z'n wel
+
+doener wel zo goedgunstig wou zijn naar al z'n
+leugens en verzinsels te luisteren. De Ilias was
+meer in 't biezonder bestemd voor de heren, de
+Odyssea waarin 't huishoudelike zo'n gewichtige
+rol speelt voor de dames	En 't was voor
+'n schrijver van 't laatst der negentiende eeuw,
+aan Samuel Butler van Erewhon en The Way of
+all Flesh, weggelegd de theorie op te stellen, dat de
+Odyssea onmogelik anders kan zijn geschreven dan
+door 'n vrouw, en nog wel door 'n onderwijzeres.
+Maar om terug te keren tot de tijd van Lord
+Kames, in 't algemeen was die voor Homerus'
+dichterroem niet biezonder gunstig. Hij was te
+straklijnig, te zeer op de man af, om aan die senti
+
+mentele periode ten volle te kunnen behagen. Het
+letterlievend" publiek vond toen z'n gading bij de
+nevelige, doezelige en hol-pathetiese produkten
+die de Schotse bedrieger Macpherson onder het
+etiket van Ossian aan de man bracht. Die eentonige
+rapsodieën waren je kunst, dat
+goedkoop-zwaarmoedige, zogenaamd Keltiese" gedaas je poëzie.
+De oude Samuel Johnson mocht in gerechte toorn
+ontsteken vrij algemeen stelde men Ossian
+boven de schepper van Hektor en Andromache,
+van Nausikaa en van Odysseus. En de zich
+geleidelik ontwikkelende theorieën die ontkenden
+dat Homerus twee kunstwerken had samen
+
+gesteld; die de bouw ervan toeschreven aan
+een of meer onbekende redakteuren in de tijd van
+Pisistratus; die ten slotte het gehele bestaan van de
+dichter in twijfel trokken en er iets van maakten
+in de trant van Mrs. Harris" in Martin
+Chuzzlewit, die theorieën vonden gerede oren.
+Natuurlik waren er bestrijders. En zelfs de befaamde Wolf
+hield ten slotte.nog 'n slag om de arm. Maar in 't
+algemeen gesproken was 't hek van den dam. Tot
+droefenis van allerlei brave zielen, Ooethe inkluis.
+De strijd duurt tot op heden. De Romantici,
+zij die geloven aan volkszielen, en aan spontaan
+uit die volkszielen opluikende volkspoëzieën,
+nadat natuurlik gezegde volkszielen door volks
+
+lijden ter dege zijn geploegd, en door velerlei
+volkswederwaardigheden intensief zijn bemest,
+zij geloven o zo graag aan 'n anonieme epiek. Maar
+hun verdienste is dat zij niet twijfelden aan Troje.
+En Schliemann's beroemde opgravingen hebben hen
+op dat punt volkomen in 't gelijk gesteld. Er is
+werkelik 'n Ilion geweest. Er was inderdaad 'n
+kern van traditie, waar zich de fluïde Homeriese
+verbeelding omheen kristallizeerde. Hierin ten
+minste hadden de vroegere Homerus-vereerders,
+die alles, alles lieten komen uit de grote Homeriese
+duim, ongelijk.
+Maar verder? Geeft Homerus ons inderdaad
+sagen, ontleend aan wat voor Grieken als Pericles
+de grijze oudheid der Hellenen was? Of zijn,
+omgekeerd, de verhalen over Odysseus en Achilleus
+die nog in de mond van het Griekse volk voort
+
+leven, zoniet geheel en al dan toch in hoofdzaak
+ontleend aan de twee van ouds bewonderde,
+ja als godspraak vereerde, epen?
+Professor Margoliouth, van de Universiteit van
+Oxford, betoogt, dat dit laatste inderdaad het
+geval is. Dat noch historie noch traditie iets weten
+van de helden van Troje. Dat deze helden fikties
+waren, bewust geschapen en gegroepeerd door het
+genie van Homerus, die niet alleen heeft bestaan,
+maar in 'n maatschappij leefde, welke niet
+noemenswaard primitiever was dan die van onze
+Middeleeuwen of Renaissance. Dat Homerus kon
+schrijven, en werkelik schreef, in Jonies Grieks,
+en kryptografies z'n naam verborg in de aanhef
+van z'n dichtwerk. Dat deze kryptografie voort
+
+vloeide uit angst voor letterdieverij, en door alle
+Griekse treurspelschrijvers om soortgelijke redenen
+insgelijks werd beoefend. En hij verdedigt met
+klem en kracht de fundamentele eenheid als
+kunstwerk, zowel van de Ilias als van de Odyssea.
+Thai some of the machinery in both poems is derived
+from stories wherewith the Poet had somehow become
+acquainted, is exceedingly likely. But such
+contributions do not interfere with the unity of the work,
+since they entered into its structure; they vaere
+absorbed into its system before it took shape and
+entered the world.
+Bij het beschouwen van de Ilias als eenheid
+zoekt Prof. Margoliouth het centrale punt in de
+dood van de Stadsbehouder", d.i. van Hektor,
+en de daardoor nodig geworden klaagzangen der
+vrouwen. Het feit dat Hektor sneeft houdt van
+
+zelf het bestaan in van 'n vijand die hem in
+kracht en macht overtreft. Dat is Achilleus. Die
+triomfeert, geweldig boven 'n aanzienlik aantal
+zeer-geweldigen, waar de anderen, z'n
+krijgsmakkers, falen. En hoe grootser nu die anderen
+worden afgeschilderd, des te grootser wordt
+Achilleus niet alleen, maar ook Hektor.
+Deze laatste woont in z'n vaderstad; hij is
+dus wettig gehuwd met z'n Andromache, de edele
+moeder van z'n zoontje. Maar dit geluk kan aan de
+generaals van 'n aanvallend leger niet beschoren
+zijn. Hun vrouwen zitten natuurlik veilig en wel
+thuis. Achilleus verheugt zich in Briseïs, dank zij
+de van ouds vermaarde puthaak. Maar om zijn
+onmisbaarheid in 't licht te stellen moet ie 'n tijd
+
+lang werkeloos zijn. Wat weerhoudt 'm van krijgs-.
+bedrijven? Balorigheid, omdat Agamemnon Briseïs
+opeist. Achilleus moet het meisje afstaan, dus
+kan hij niet de hoofdaanvoerder zijn. De persoon
+van Agamemnon wordt ook alweer geschapen ten
+behoeve en ter wille van de situatie.
+Enzovoort. Als altijd herhaalt de geschiedenis
+zich weer. Aristoteles had óók 'n paar bedenkingen
+tegen de konstruktie van de Ilias. Margoliouth
+betoogt, dat zelfs die paar bedenkingen groten
+
+deels ongegrond zijn. Homerus wist ter dege wat
+ie deed en waarom ie het deed. En de lezer, die
+aangezien er immers van ouds grote bouwmeesters
+en andere kunstenaars hebben bestaan, niet
+inziet waarom er geen even grote dichtervorsten
+zouden kunnen wezen, verlangt niets liever dan
+het met de geleerde schrijver eens te zijn.
+
+Beauty, Trutli, and Htimour. By HENRY
+CHARLES DUI-TIN. Blackwell, 1924. 4/0
+
+Dit is 'n verzameling Essays door de bekwame
+criticus, aan wie wij twee goede monografieën
+over Hardy en Shaw hebben te danken, en zoals
+het betaamt in zo'n bundel is er evenveel ver
+
+scheidenheid in als in 'n bundel goeie lyriek. Het
+komt mij echter voor dat tenzij er biezondere
+faktoren in 't spel zijn zowel essayist als dichter
+schrijven voor kleine lezerskringen. In Nederland
+staat littéraire smaak stellig niet op 'n lager peil
+dan in Engeland. Maar even stellig ook niet hoger.
+En 't algemene peil is zeer zeker eerder laag dan
+hoog. M.i. moest er op school meer worden gedaan
+om kritiese geest aan te kweken. En onder
+kritiese geest versta men het vermogen om, krachtens
+eigen overwogen oordeel, te waarderen. Men kan de
+jeugd wel op gezag doen geloven dat dit of dat
+mooi" is. Maar diezelfde jeugd zal het aangepre
+
+zen moois stilletjes op de boekenplank laten staan,
+en zich de tijd korten met Nick Carter. Met grote
+mensen is 't al net zo. Ze zullen 'n weekblad inzien
+om op de hoogte" te blijven, zullen gaarne aan
+
+nemen dat een of ander boek goede, zelfs uitste
+
+kende kwaliteiten heeft, en naar datzelfde
+boek niet talen. En zich vermaken, als lieve wicht
+
+jes, met // Winter C omes.
+Persoonlik laat ik voor 'n losse
+mijmerij-metde-pen als Cats in 't hierboven vermelde boek,
+gaarne 'n half dozijn van de talrijke romans waar
+
+mede ik af en toe bestormd word, ongelezen.
+Persoonlik ben ik van mening, dat er te veel
+gelezen wordt; dat ieder daar niet tegen kan;
+dat het bij menig boekenvreter uitdraait op ver
+
+val en verkwijning zowel van z'n verbeelding als
+van z'n gezond verstand.
+W i L L E M VAN DOORN
+Verkoudheid
+is in vele gevallen het begin
+van een ernstige ziekte. Voor
+
+kom een verkoudheid en schaf
+U onmiddellijk een Bacon
+T o g a l - tabletten aan. Gij
+vrijwaart U dan van de on
+
+gemakken veroorzaakt -door
+on* vochtig en koud klimaat
+3o
+is een ideaal mid
+
+del bij Rheumfttiek.
+Influenza en Jicht.
+l
+Ook als gij lijdende zijl aan Hoofd- en
+zenuwpijn is de genezing en onschade
+
+lijkheid van T o g a l gegarandeerd.
+Bij alle Apoth. en Drog. • f 0.80 en J 2.-.
+
+NIEUWE UITGAVEN OP HET
+GEBIED DER FOTOGRAFIE
+
+Het maken van foto's is in de laatste jaren tot
+een kunstzinnige sport geworden, mede dank zij
+den vooruitgang van de techniek. Vijftien tot
+twintig jaren geleden trok de amateur-fotograaf
+met een toestel van ongemakkelijke afmetingen
+het veld in, verzwaard door een aantal negatieven
+van 18—24 cM., omdat een plaat van kleiner
+afmeting niet de gewenschte reproductie gaf.
+Verbetering kwam er toen de rol- en platte-filmen
+in gebruik kwamen en de toestellen werden
+geperfectionneerd. Met de verbetering kwam ook lang
+
+zamerhand de verkleining van het t estel. Thans
+worden goede beelden verkregen met handige
+camera's in de maten 6—9 cM. en 4^—6 cM. De
+hiermede gemaakte foto's kunnen in den regel en,
+met weinig kosten en moeite, door den amateur
+worden vergroot tot een uitstekende afbeelding.
+Hierdoor is de fotografie zeer populair geworden.
+Het maken van een goede foto vereischt studie
+en brengt eenige moeilijkheden met zich mede.
+Gelukkig bezitten wij een uitgebreide
+nederlandsche fotolitteratuur, waarvan de lezing voor den
+amateur-fotograaf echter geen onverdeeld genot is;
+het bezwaar is, dat op dit terrein teveel technische
+uitdrukkingen worden gebruikt en de te verrichten
+handelingen op omslachtige wijze worden beschre
+
+ven. Om aan deze bezwaren tegemoet te komen
+stelde Adriaan Boer, een op het gebied der
+fotografie bekend en kundig man, een prak
+
+tisch boekje samen: De fotografie vereenvoudigd"
+(uitgave N.V. Focus, Bloemendaal). Op heldere
+en eenvoudige wijze vertelt hij van toestel en plaat,
+en gaat de geheele totstandkoming van het beeld
+na. De tekst wordt aangevuld en toegelicht door
+vele fraaie foto's. Wie dit boekje heeft doorgewerkt.
+beheerscht de beginselen der fotografie en is daar
+
+door in staat een goede foto te maken. Van veel
+nut zijn de verschillende tabellen.
+Over het werken met kleine camera's (met ge
+
+bruik van film of glasplaat in de afmetingen
+4J—6 en 6—&lt;J cM.) geven twee nieuwe uitgaven:
+Goede opnamen mei kleine filmcamera's', duur
+W. H. InzERDA (uitgave Mij. v. G. enü. L.) en de
+Kleine Camera", door K. H. IDE.MA (uitgave
+N.V. Focus) alle mogelijke inlichtingen. Beide
+boekjes, die ook hoofdstukken bevatten over
+vergrooten en het maken van lantaarnplaatjes, zijn
+verlucht met tal van illustraties. Zij vormen geen
+handleiding voor den ecrstbeginnenden ; de lezer
+wordt geacht met de beginselen op de hoogte te zijn.
+Tot de nieuwe aanwinsten voor de bibliotheek
+
+van den fotograaf behoort ook een door de N.V.
+Focus uitgegeven nederlandsche bewerking van
+K. REN 'EN PATSCII, De techniek der ontwikkeling".
+Deze uitvoerige behandeling van een belangrijk
+onderdeel der fotografie is zeer technisch; zij ij
+niet geschikt voor den amateur.
+D.
+VANNELLESVARINA*
+GOUDZEGEL
+5O ets. perPakje.
+M
+Een aangename Bezuiniging
+een HALF ONS vervangt
+vele BOEDE SNAREN
+II
+
+</text>
+<image timestamp="2002:09:03:21:38:36.00" size="238662">D200429.TIF</image>
+</page>
+</document>

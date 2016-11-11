@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+S
+f i'
+t
+ik U bidden mag, blijf mijnheer, blijf.
+} zi)n WHprHSfcft "rij rust.
+' --D'AUBINOS.
+, Ja, maMft ik' heb nu eenmaal zoo'n idee dat ik U van gewichtige
+t , beaüjheden afhoud; en hoewel de NÉhl naar beneden minder
+ver' &gt;HesEjk js . . . . (Kg gaat naar 'tvenster).
+V Maar hejnaji, daar hebben ze de ladder weggenomen. '
+-" " »* '"'" BM.TA. fter xyde).
+\ , Bnwol *- - i
+Gfc"0&lt; Omziet du*, Gij zijt mijn gevangene. Gij zult u moeten
+schikken, ff '
+(ssy luistert aan de deur). Altijd nog datzelfde knagende geluid, en
+v «g,een der'bedieoden komt. &lt;
+f (ty schelt matst en treekt het schelkoord). O«ja dat ontbrak er nog
+. maar «m. - . .
+1 'r D'AtÖINOS. .
+M^irouw, ik geloof toch bepaald dat a niet geheel normaal is. *
+t ' BERTA. (zenuwachtig).
+'. Hee kunt u «oo Jets zeggen mijnheer, ik voel me zoo lekker als
+, een vischje in 'twa»f
+"'Stem. (achter de coulissen).
+^ , Heeft *%escheld mevrouw ? ,
+• , BEB.TA..
+• Qf ik gescheld heb&gt; 'tKoord is er liefst van gebroken. Zijn jullie
+dap p^jptoof geworden? IB de zaak nu in orde? »
+•^ _ ^S'tém. • . 9 '
+. Ja zeker mevrouw, Jiistine heeft gezien dat de kat haar onder de
+canapéving, en vandaar ia ze er mee naar de. dakgoot gegaan, waar
+gl nog tjt-
+* &amp; BteTA (driftig de devr «penende).
+«eg ^ dan dadelijk. ^
+"" {tot d*albittps). Een oogenblik mijnheer.
+, DERDE TÖONEEL.
+' u D'Ax.vwos(aIiee»).
+Neeu spar hoor eens, daar begrijp ik nu heelemaal niets van. Zij
+'laat mij alleen om haar kat op de dakgoot te zien zitten.... En dan
+,
+
+</text>
+<image timestamp="2002:10:03:23:15:47.00" size="81851">00000BMN.TIF</image>
+</page>
+</document>

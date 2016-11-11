@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020928</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Verkiezing in District IX te Amsterdam.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 28 September 1902.
+Amst. Hoek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+WlLLKM IJE: Z\Vl|GEk: Waaraan heb ik liet verdiend, dat mijn naam en Marnix' lied gebruikt
+worden bij dit kabaal, om het halve Nederlandsche volk zijn recht te onthouden?
+.
+
+</text>
+<image timestamp="2002:08:18:12:05:36.00" size="165265">D2001J9.TIF</image>
+</page>
+</document>

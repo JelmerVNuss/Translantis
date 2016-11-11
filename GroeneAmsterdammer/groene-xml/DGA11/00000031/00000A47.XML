@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320326</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 26 Maart 1932
+No. 2860
+De ontdekking van den
+tuberkelbacil
+door R. G. C. Schröder
+Op 04 Maart 1882 maakte Knch
+de ontdekking van den
+tufoerkelbacïl bekend. jj
+Robert Koch is een van de ?.eer
+enkelen, van wie de grootheid door
+niemand betwist wordt, zelfs niet
+door hen, die hem alleen bij name
+kennen.
+Koch behoort niet meer alleen aan
+Duitschland, hij behoort aan de
+gansche menschheid. •• »•'
+Zijn grootheid kan niet worden ge
+
+meten met de talrijkheid zijner ont
+
+dekkingen, noch met de belang
+
+rijkheid daarvan of met de gevolgen,
+die zij voor het leven en de gezondheid
+of voor de welvaart der menschen
+hebben opgeleverd.
+Zijn grootheid is van nog hooger
+orde.
+Koch was autodidakt. Niet in de
+gewone beteekenis van het woord;
+hij bezocht het gymnasium van
+Ciausthal, zijn geboorteplaats, stu
+
+deerde te Göttingen, promoveerde in
+1866 en deed hetzelfde jaar staats
+
+examen. Achtereenvolgens in drie
+plaatsen vestigde hij zich, zonder in
+zijn onderhoud te kunnen voorzien.
+Nadat bij in 1872 het daartoe noodig
+examen had afgelegd, werd hij ge
+
+neeskundig ambtenaar, Kreisarzt, in
+Wollstein.
+Hier werd toen de veestapel ge
+
+teisterd door miltvuur, een ziekte
+wier wezen volkomen onbekend was.
+Wel had Davaine in 1863 in
+miltvuurbloed glasheldere staafjes aangetrof
+
+fen, die hij als de oorzaak beschouwde
+en tot de bacteriën n kende, maar
+hiermede was heelemaal niet verklaard
+waa;om de ziekte juist in vochtige
+en in moerassige streken endemisch
+voorkwam en in 't bijzonder, hoe
+het uitbreken ervan samenhing met
+grooten regenval en met het heerschen
+van een bepaalde temperatuur in de
+oppervlakkige lagen van den bodem.
+Met de allereenvoudigste hulp
+
+middelen en een voor dien tijd goed
+mikroskoop begon Koch zijn onder
+
+zoek naar het wezen van miltvuur.
+Hij had eerst zich overtuigd, dat in
+het bloed van gezonde dieren staafjes
+niet voorkomen. Toen vond hij in
+miltvuurbloed dezelfde staafjes als
+Davaine. Indien deze de oorzaak der
+ziekte zouden zijn, zouden ze ^ok bij
+andere vatbare dieren miltvuur moe
+
+ten verwekken. Een spoort je
+miltvuurrunderbloed werd in de staart van een
+muis gebracht: het dier stierf aan
+miltvuur. Een spoortje mütvuur-)
+muizenbloed deed een tweede muis
+aan miltvuur te gronde gaan. Hoe
+vaak hij deze proef met telkens nieuw
+miltvuur-muizenbloed op gezonde mui
+
+zen herhaalde, alle dieren stierven
+aan miltvuur. Hieimede had voor het
+eerst Koch bewezen, dat de bacil van
+het miltvuur specifiek is voor de
+ziekte.
+Ook voor de nog onbegrepen wijze
+van uitbreken en zich uitbreiden van
+de ziekte vond Koch de verklaring.
+Onder bepaalde omstandigheden vorm
+den de miltvuurbacillen niet meer
+gelijksoortige staafjes, maar korrel
+
+tjes, sporen. Werden deze overge
+
+bracht in een geschikten voedings
+
+bodem en als zoodanig gebruikte
+Koch het waterig vocht uit
+runderoogen - dan ontwikkelden ze zich
+weer tot bacillen. Koch had dus ge
+
+vonden, dat de miltvuursmetstof in
+twee vormen voorkomt, een met kor
+
+ten, een met onbeperkten levensduur.
+De laatste, de spore, wachtte slechts
+op gunstige uitwendige omstandig
+
+heden om tot bacil uit te groeien. De
+sporen vond Koch óp niet in
+de kalavers en ook in de bloederige
+uitwerpselen.
+Zoo heeft Koch kunnen vaststellen,
+1°. dat de miltvuurbacil constant
+voorkomt bij dieren, die aan miltvuur
+lijden; 2°. dat hij niet in het gezonde
+lichaam, noch ook bij andere ziekten
+voorkomt; 3°.dat hij, zuiver gekweekt,
+bij gezonde dieren dezelfde ziekte ver
+
+oorzaakt, en bij deze weer wordt
+teruggevonden.
+Hiermede heeft Koch de grondslagen
+geleed voor de moderne barterioloyie.
+De methodes van onderzoek heeft
+hij van den grond af opgebouwd;
+alleen door eigen geestkracht en in
+
+zicht en met de primitiefste middelen
+heeft hij in het doktershuis te Woll
+
+stein zijn allergrootste ontdekking
+gedaan.
+Uit deze eene vloeiden al zijn vol
+
+gende ontdekkingen voort. Zoo be
+
+wees hij dat allerlei infectieziekten bij
+mensch en dier evTen zoovele speci
+
+fieke oorzaken hebben. Hij schreef
+een werk over desinfectie en vond de
+kii mdoodende werking van stroo
+
+menden waterdamp.
+Gewapend met Velerlei ervaringen
+zette hij zich aan het onderzoek van
+de oorzaak der tuberculose. Dat onder
+
+zoek getuigt van zooveel scherpzinnig
+
+heid, onverdroten volharding en vol
+
+ledigheid, dat het nu na 50 jaren !
+niet verbeterd kan worden. Al
+zijn nu de methodes in ondertitelen
+verfijnd geworden, belangrijk \
+erand» rd zijn ze nivt. Wie het artikel
+over Die Aetiologie der Tuberkulose"
+leest, staat verbaasd over de be
+
+rusting, waarmee Koch zijn tegen
+
+spoeden droeg, staat versteld van de
+volharding waarmede hij zocht naar
+telkens doeltreffender methodes, en
+buigt het hoofd voor wat hij bekend
+maakte als uiteindelijk resultaat van
+jarenlangen arbeid.
+Na de tuberculose trok de clolera
+zijn aandacht. Hij vond den
+chuU.rabacil en bewees diens specificiteit.
+&gt; Later trok hij naar Zuid-Afrika,
+Oost-Indië, Zuidoost-Afrika, Italië,
+Java, Nieuw Guinea. Khodesia om
+en met goeden uitslag de pest, de
+runderpest, de tsetseziekte en malaria
+te bestudeeren. Daarna ging hij weer
+naar Duitsch Oost-Afrika voor het
+onderzoek van andere /lekten bij
+mensch en dier. Ook daaiiri bracht hij
+licht.
+Aan eerbewijzen, onderscheidingen
+en belooningen heeft het Koch niet
+ontbroken. Mij trof in de opsom
+
+ming daarvan deze het meest. Ken
+gedicht van Paul Warncke in
+Kladderadatsch":
+
+KOBERT KOCH t
+U r hat mit seines Geistes l'ackel tief
+Ins dunklc Todestal hineingeleuchtet.
+Auf sprang das Tor,als er sein,,Sesam"
+(rief,
+Und Augen wurden heil, dio
+leidbefeuchtet.
+lm Leben f and er Tod. ini Tod e Leben,
+Und unermüdlich vorwarts drang sein
+(Streben.
+
+Zu frühe rief ihn ab ein jah Gebot.
+Warum so früh ? .. ..
+Ihn fürchtete der Tod !
+LOV
+iOOSTERBEEK
+\WONINGINRICHTINGENl
+BETIMMERINGEN
+DOOF?
+Hiervoor bestaat een
+prima hulorrrddel,
+DE ACOUSTICON
+Vraagt ons gratie hoekje.
+Goed nieuws voor hen d'e doof zijn."
+ACOUSTICON MIJ. NIEUWE PLEIN 34
+A K \ II E M.
+Fa F. SINEMUS
+Leidschestraat 20-22
+AMSTERDAM C.
+Overhemden
+naar maat vanaf f 8.50
+PRIMA COUPE
+Eigen Atelier
+N l LLM IJ
+LEVENSVERZ.MU
+sGRAVENHAGE
+AMSTERDAM-UTRECHT
+ROTTERDAM
+RESTAURANT CAFÉBORDELAISE
+LEIDSCHESTRAAT 67-71 - AMSTERDAM
+Prima keuken - Exquise Wijnen
+Lunch f 2.—, Diners vanaf f 2.50
+Diner - Souper - Dansant
+Prachtzalen voor Partijen
+Eigenaars VAN GOETHEM-NEUTEBOOM
+Snelschrift &lt;*&gt; -,
+mr-Rj-rc B A l T •
+KIC.tMlatSAL.1
+ln den Boekh- en na
+postwissel bij RIENTS
+^ ^ BALT Den Haag,
+. 95 Ct. fr. * ^~\.L*^tt*&gt;n Daguerrestraat 28
+DEGELIJKE OPLEIDING, mond. en schrift, aan bovenstaand adres
+de roof der tnona lisa
+muziek: robert stoltz regie: geza von bolvary
+hoofdrollen: willy forst en trude von molo
+Zeer belangrijke Boekenveiling
+R. W. P. DE VRIES
+(Dr. A. G. C. de Vries)
+AMSTERDAM -- SINGEL 146
+Verzamelingen van : Mr. M. M. Brouwer Ancher,
+Dr. S. Peppink, Mr. R. D. Tetzner e.a.
+bevattende boeken op alle gebied w.o. fraaie
+At lassen, Reizen, Topograph ie, Zeewezen, Rechts
+
+geleerde Werken, Litteratuur van de middel
+
+eeuwen tot heden, Kunst, Medische Werken en
+Instrumenten.
+VEILING: 31 Maart en 1, 2, 4 en 5 April as. des
+avonds 7 uur.
+KIJKDAGEN: Dinsdag 29 Maart as. van 10-4 uur en
+Woensdeg 30 Maart a.s. van 10-4 uur en des avonds
+van 8-10 uur. Catalogus 25 Cent.
+P.W.P. DE VRIES
+SI NGEL 146 T
+AMSTERDAM l
+VICTORI A-WATER
+111
+Literschroefflesschen
+OBCRIANMSTCIM
+voor
+huishoudedelijk gebruik
+
+</text>
+<image timestamp="2002:09:26:19:50:34.00" size="178991">00000A47.TIF</image>
+</page>
+</document>

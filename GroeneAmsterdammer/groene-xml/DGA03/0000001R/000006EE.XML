@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280317</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+rtfo-2650
+DE GROENE AMSTERDAMMER VAN 17' MAART 1928
+"Vrouwen over mannen:
+
+Prof. Dr. M. W. Beyerincfe
+«loor W. VAN ITALLIE—VAN EMBDEN
+T N Grorssel aan 't station. De hotel-auto wacht.
+Prof. noodt mij binnen. We tuffen 't dorp uit.
+-Aan den prachtigen landweg 'n eenvoudig
+buiteA-liuis.
+'k Word 'n kamer binnengsloodst om wat te
+rusten na de reis. In den voortuin hoor ik Prof.
+redeneepen met 'n reiziger in stofzuigers. Zelfs 't
+klemmend argument: ,,We hebben er al een"
+toleek ter afwering niet voldoende. Na lang praten:
+reiziger af. Prof. knikt, fier op zijn overwinning,
+«aar boven.
+Wat 'n apart gez-cht! Iets van 'n ouden leeuw
+In bouw en dwang van wil. Zal wel 'D eenling zijn
+5n deze goedige boerenmenachen-streek!
+De studeerkamer is uiterst sober. Prof. zot 'n
+mutsje op, en 'n bril. Blijft toch een leeuw, die voor
+.grootvader speelt!
+Is de temperatuur hier naar uw zin,mevrouw?
+precies 19°".
+Dus hier woont: de Hollandsche bacteriejager.''
+Wat 'n lang leven van werk-in-wetenschap overziet
+«. Erfde u van uw ouders dien onderzoekersdrang?'
+Beste menschen. Niet mijn studie-aanleg. Mijn
+grootvaders wel. 'k Zit altijd te piekeren in dingen
+van de erfelijkheidsleer. Heel jong al werkte 'k me
+«n, in Darwin. Vond toen al steun in hém bij mijn
+botanisch-zoölogische vorschingen. Daarheen dreef
+mijn diepste natuur. 't Leven kneedde me tot
+•chemicus".
+Was uw vader 'n gestudeerde?"
+Nee, handelsman. En daarvoor niet geschikt.
+'nSociale tragedie; Vader had 'n
+kunstenaarsaanleg; niet dwingend genoeg om dóór te zetten.
+Ach, moeilijke jaren thuis	'k Ging naar
+JHaarlem op de eerste H.B.S. Konden mijn ouders,
+met veel opoffering, nog net bekostigen."
+Voelden ze uw aanleg?"
+Weet ik niet. In de 3de klas kreeg ik den Eersten
+Prijs van de Holl. Maatschappij voor Landbouw.
+Had 'o. herbarium ingezonden van 150 planten; de
+flora van Kennemerland. Waren onbekende soor
+
+ten bij."
+Wijst wél op aanleg !"
+Dat besliste, 'k Zei: 'k ga studeeren.
+MoeilijkJheden? Gebeuren zal het. 'n Oom deed me op de
+Polytechnische School in Delft. Goed bedoeld, en
+fout. 'k Hoorde in Leiden, voor de botanie. Kwam
+in Delft te staan naast Van 't Hoff. Die hielp me.
+De hoogleeraar gaf goed college, bemoeide zich
+verder niet met de studenten, 'k Deed al gauw,
+•wat ik wou. Kwam slecht op 't lab. Maakte prepa
+
+raten voor mijn pleizier. Van 't Hoff deed mee,
+.maar.... hij verwaarloosde ook 't andere niet.
+JSad sterker plichtsgevoel. Zijn verloren jaren
+voor me geweest. Had eind-examen gymnasium
+.moeten doen."
+Zou u dan geen moeite hebben gehad met de
+Idassieke talen"?
+Moeite zeker. Zou er gekomen zijn: de weg naar
+•de botanie."
+Was u zich uw aanleg niet bewust?"
+Te kinderlijk. Wat mijn ouders vonden, was 'n
+.natuurwet. Deed eindexamen als technoloog. Van
+"'t Hoff was al weg. 'n Buitengewoon voortreffelijk
+student. •—Op mijn vorming was zijn invloed niet
+-altijd gunstig; 'k dacht: wat ben ik.... vergeleken
+met hém. Hij had toen al ontdekkingen van waarde
+gedaan, 'k Nam intensief deel. We praatten, wo
+-werkten dagen en nachten".
+Hoe kunt u dan spreken van verloren jaren?"
+Bedachtzaam wegend: ,,'k Ben in twijfel".
+Vast de conclusie: De andere weg was béter
+.geweest. 'k Moest gauw gaan verdienen, 'k
+Vroeg mijn ouders: Geef nia n jaar in Leidon".
+'Thorbecke had gezorgd; als technoloog kon jo daar
+•examen doen in de plant- en dierkunde".
+Dus toch bereikt'."
+Niet grondig. Te kort".
+'n Melancolie, als 'n .sluier, legde zich over 't
+gezicht.
+Werd leeraar in Wavfum. Hoofdvak:
+pUintkunde. Ja, toon kon ik toch nog aan inijii liefde
+toegeven !"
+De sluier vaagde weg. De wil sprong uit de oogen.
+Kon leeraar worden in Amsterdam. Weigerde.
+Was niet rijp. 'n. Jaar later: Utrecht. Heb 't ge
+
+waagd. Ontmoette daar wér van 't Hoff."
+Voelde hij voor u?"
+Wel iets.... van uit zijn hoogte." Trotsch:
+,,'k Was niet in alles zijn mindere; 't zij met be
+
+scheidenheid gezegd, of onbescheiden, gelijk u
+wilt. 'k Was beter bioloog. Bouwde 'n algemeene
+theorie op. Hij zei: Die is onhoudbaar", 'k Voelde:
+dat oordeel is verkeerd.... Nu, nu, aan 't eind van
+mijn leven, zie ik mijn fout: 'k bezat niet genoeg
+eerzucht. Van 't Iloff zei fier: Ambition is my
+idol". Als ik dien trek had gehad, zou ik ook wel
+eenigen roem. ..."
+De geleerden zeggen: dien hebt u. De hoogste
+onderscheidingen zijn u toegestroomd".
+Eerst in de laatste jaren. En dat pleit voor mijn
+stelling. Hoe publiceerde ik? Kon me niet schelen
+waarin: 't eerste tijdschrift dat me in handen kwam.
+Werd soms heel weinig gelezen, 'k Dacht: 't is toch
+niet de moeite waard. Ziedaar mijn fout: ik had
+moeten denken: 't Is het wél. Anderen mochten.
+anders oordeelen. Ik niet."
+Is u nooit getrouwd geweest?"
+ding te veel p in mijn werk."
+'n Schampere glimlach van zelfspot verbreedt
+den mond, die gesloten blijft.
+U promoveerde op: Bijdrage tot de
+morphoJogie der plantengallen".
+,,'k Was tamelijk handig in 't gebruik van de
+microscoop. Had 't mezelf geleerd. In Utrecht,
+pis l era-ar, in zwaren tijd. Groote klassen."
+Men prijst u: 'n geboren docent."
+Was ik niet voor de H.B.S."
+U is te bescheiden".
+Verbaasd: Bescheiden? 'k Was 'n geboren Pro
+
+fessor. Kwam al uit in Wageningen. Was 9 jaar
+werkzaam aan de Hoogere Landbouwschool. Met
+pleizier, en vruchtbaar. Maar 'k bezat geen eerste
+klas laboratorium, 'k Ging naar den Minister.
+'k Had grootsche plannen: wou de cultuur van
+onze granen verbeteren; zou ook op de praktijk
+invloed hebben gehad. 'k Had in mijn eentje
+Mendel weer ontdekt: 5 jaar vóór Hugo do Vrios.
+De Minister begreep niets van mijn botoog. Bleef
+ijskoud. Hielp niet.. . . Toen ging ik over naar de
+Gistfabriek van Van Marken in Delft. Had me in
+Wageningen moeten vastbijten. Quand memo".
+'t Is 'n eigenschap van den mensch om zwaar
+te wegen wat hij niet bereikt en te licht te tellen
+•wat hij heeft volbracht. '
+Volkomen juist, 'k Mag dat niet wegcijferen:
+de gistfabriek heeft me veol werk gegeven, en, 'k
+zal 't niet ontkennen: vruchtbaar werk. In 'n
+eigen richting: de micro-biologie. Hier hebt u 't
+portret van Van Marken. Wat 'n nobel gezicht !
+'n Hél ander karakter dan ik. Mij konden sociale
+toestanden niet schelen. Eca zwaro foat. Als ik
+meer aangeboren gevoel had gehad voor mijn
+medemenschen zou mijn leven innerlijk rijker zijn ge
+
+weest. 'k Zag allén: do wetenschap. Kan er
+nietf aan doen".
+Ec op ns mocht u zich geheel aan haar geven:
+als Professor in de bacteriologie."
+,,'n Prachtig laboratorium ! 't Eerste in de
+wereld waar dat deel van de biologie tot 'n eigen
+leervak wer dgeheven. En zulke knappe, jonge mede
+
+werkers. Door hen bon ik wetenschappelijk frisch
+gebleven. Toen ik 70 jaar werd, hebben vrienden
+mijn Verzamelde Geschriften" uitgegeven."
+Vijf zware, kloeke deelen".
+Daaraan schrijf ik't toe, dat ik nog zoo bokeud
+geworden bon."
+Uw leerlingen kwamen van heinde on ver."
+Veel snuiters uit Midden-Kuropa. Ook
+Engelschen, Amerikanen."
+Dan was u toch al wél bekend vóór uw zeven
+
+tigste !"
+,,'k Had naam door 'n onderzoek over licht
+
+gevende bacteriën. Eén geslaagde proef brengt je
+de wereld door."
+Hebt u V3el gereisd?"
+,,'k Bon 2 koor bij Pasteur geweest. Van zijn
+kostbaren tijd gestolen. Verkeerd. En ook voor den
+bezoeker. . . . wat brengt 't dan: streeling van
+ijdelheid? Bestudeer hun werk thuis. Doe hun
+proeven na. Ontdek jo zélf. Ik dood 't te laat. Korst
+,5 jaar vóór mijn aftreden, had ik begrepen, hóe ik
+moest doceercn. Ha/d gevonden: décursus voor de
+micro-biologie. U kunt dat kale pedanterie noemen;
+ik voel 't als waarheid".
+Om eeii goed inzicht in ii\v waarde te krijgen,
+moet je lezen wat anderen over u schrijven. L' is
+wel een /.eer bijzondere meny Jiii'&lt; va:i 1 rots eu
+nederigheid. L'w Werken zijn. in vee! talen
+vertaald".
+Kunt u dat le/.eu? Kijk eens: 't is Kuss'sch.
+Alleen aan de begeleidende figuren herken ik mijn
+stuk. Over 'B bacterie die het giftige kool-oxyde
+RIJM-KRONYCK
+
+Schoonmaak-orkaan en mijn
+boekenkast...
+door MELIS STOKE
+Een jonge voorjaarszon wekt de natuur tot vreugd,
+en met de Krokus steekt de vrouwelijke deugd
+het kopje weer omhoog.. De bloem in teere fijnheid,
+de vrouwelijke deugd in teugellooze reinheid.
+Verwijl de eerste bloei de oogen stil verblijdt,
+ontstaat er in ons huis een woeste voorjaars-strijd
+van boenen, plassen en van ploeteren en plensen,
+die ons de eerste zonnestralen doet verwenschen. . . .
+
+Ik ben als vluchteling van 't strijd-toonccl gegaan,
+en keer terug zoodra mijn kamer is gedaan". . . .
+Daar blinkt mij alles toe; een scherpe geur vanboenwas
+bevestigt mij de zucht dat er zooveel te doen was". .
+Schoon 'k achterdochtig ben, houd ik m&gt;j blij-verrast. ,
+Ik monster inderhaast -mijn sehoone" boekenkast,..
+en constateer terstond een zekere ongewoonheid. ...:
+liet anti-liüerair gevolg van al die schoonheid?'. . ..
+
+.... het vandalisme van de boenwas en de zeep,
+dat zich, als ieder jaar, aan mijn Olymp' vergreep..
+De Koran-op-zijn-kop staat naast een deel Molière,
+en AH Smeding naast een Duitsche dictionnaire.
+Iets verder Keyserling recht-grafelijk neergezet
+naast Ivans, Oppenheim, Marx en de Geneslet. ...
+Voorts tref ik Dante's Hel zie haar van boenwas
+stralen \
+naast Ttroelstra's Levetisboek en 't Handboek van
+Van Date
+
+dat fier en stof-vrij praalt naast Darwin en Huet,
+waarnaast het achtste deel van Brockhaus is gezet.
+Mijn Pèrc Cloriot, geklopt, geboend en opgewreven,
+glimt tusschen Pijttersen en Disraeli's Leven,
+waarnaast de rappe hand die mijn Olympus leidt
+mij nog verfijnd genot en vreugde heeft bereid
+door Wilde's Dorian Gray gepoetst te plaatsen tusschen
+Cervantes' Don Quichotte en Boefje van M. JBrusse.
+
+Voorts staan in woeste rij, ten deele 't onderst-boven
+Flaubert, Racine, Van Kan, Lenin, Thérèse Hoven,
+Descartes, Henriette Roland Holst, de Havelaar,
+Spinoza, 't telefoonboek van verleden jaar,
+Rousseau,JatiFeith,Corneitte,nogeendeelvanDante,
+een Kookboek (manuscript) door wijlen mijne Tante,
+het derde deel van Hcine, Galsworthy, Heyermans,
+Shaw, Vondel, Macchiavelli en Help U-zelf met
+Fransch". .. .
+. . .gelijk een stormvlaag voer door 't letterkundig woud
+de zoele voorjaarswind. ... en schoon 'k me heb
+verstout
+den draak te steken met dien vrouwelijken ijver,
+toont zulks de macht der Vrouw op Staatsman en op
+Schrijver....
+op-eet. Die ontdekking hoeft me toch zoo mal
+beroemd gemaakt, Nu ja, mijn werk hooft wel
+wat invloed gehad. Ook op de praktijk. Ach, ton
+slotte, had die, 't óók wel gevonden. . . . zonder mijn
+geleerdheid".
+'t Is toch heerlijk als de prakticus wét wat
+hij doet."
+Weet? Ook d? wetenschap wet t niet.... de
+laatste oorzaken, 't Allerdiepste blijft onontdekt.
+Ziet u deze cultuur: wit. blauw, zwart. Van dezelfde
+microben. Waarom in 3 kleuren? Wat is de oorzaak
+van di" variabiliteit? Weet niet."
+,,Kon ander zal weten, staande op inv schouders."
+,,'t, Oerbotrm blijft Mysterie. Mag ik u miju
+tuin eens Laten zien? De /.on schijnt; de bloem-n
+staan zoo mooi."
+Boter met Rijksmerk
+geleverd door
+OUD-BUSSEM"
+is het beste van het beste.
+Verzending per postpakket door het geheele land.
+TELEFOON 139 - Post-adres: NAARDEN.
+
+</text>
+<image timestamp="2002:09:04:08:50:07.00" size="231875">000006EE.TIF</image>
+</page>
+</document>

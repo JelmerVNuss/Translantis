@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270430</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 30 APRIL 1927
+No. 2604
+Aviatiek en Radio
+
+Een Modern Duo
+
+door A. DUBO1S
+Directeur v. d. Ned. Seintoesfellenfabriek
+I
+1T\ E wensch, zich van den grond te
+••-' kunnen verheffen, heeft van ouds
+in het menschelijk hart geleefd. Reeds
+Ovidius schrijft een legende, Icarus
+«n Daedalus waarin hij een beschrij
+
+ving geeft van de door die beiden ver
+
+vaardigde vleugels.
+En door alle eeuwen heen hielden
+steeds tal van geleerden zich, als ge
+
+fascineerd door het vliegprobleem, daar
+
+mede bezig. Telkens echter bleven zij,
+door geene of uiterst geringe kennis
+van de wetten der mechanica, verre
+van het nagestreefde doel.
+A. DUBOIS
+In de 7e en 18e eeuw kwam men
+door de onderzoekingen van de toen
+levendejgroote wis- en natuurkundigen
+tot het wetenschappelijk inzicht, dat de
+oplossing van het luchtprobleem van
+utopie tot practische mogelijkheid
+maakte.
+Het was John Cayley, die in 18.09 een
+verhandeling publiceerde, waarin hij
+blijk gaf, een tamelijk juist begrip te
+hebben van de voorwaarden, waaraan
+voor het volbrengen van een vliegtocht
+moest worden voldaan. Door hem
+werden motorlooze vliegtuigen gecon
+
+strueerd, die zonder bemanning eenige
+voor dien tijd bewonderenswaardige
+glijvluchten uitvoerden. Daar, waar
+een voldoend lichte motor ontbrak, en
+voorshands bleef ontbreken, zocht en
+vond men langs anderen weg een op
+
+lossing. Deze bestond hierin, dat gebruik
+gemaakt werd van toestellen, welker
+soortelijk gewicht lichter was dan dat
+van lucht. Na de in 1783 door de ge
+
+broeders Montgolfier gedane ontdekking,
+dat een met heete lucht gevulde zak
+omhoog steeg, duurde het niet lang,
+of men kwam tot de vervaardiging van
+met gas gevulde ballons, die in staat
+waren n, spoedig meerdere, personen
+in de lucht te verheffen.
+Geruimen tijd werd met deze
+lichterdan-de-lucht apparaten nog geëxperi
+
+menteerd, doch daarnaast bleef men
+zich bezig houden met het zoeken naar
+de oplossing, zich met
+zwaarder-dan-delucht toestellen door het luchtruim naar
+willekeur te kunnen verheffen en
+voortffef is ons gebleken, dat een groot deel van onze lezers in het bezit is van
+een radioloesfel en het op prijs stelt in hef weekblad geregeld een radio-rubriek
+te zien verschijnen, terwijl anderen zooveel belangstelling voor de radio hebben,
+dat bijdragen op dit gebied hun welkom zijn. Uitteraard is deze rubriek in
+hoofdzaak voor deze beide categorieën van lezers geschreven, hoewel ook
+verschillende artikelen, die wij voornemens zijn te publiceeren, en waarvan het
+onderstaande over Luchtvaart en Radio een voorbeeld is, in ruimen kring
+zullen worden gewaardeerd.
+bewegen. Gaandeweg werd de kennis
+verzameld, die ook in deze richting de
+oplossing van het vliegprobleem bracht.
+Nu strandde men voorloopig nog slechts
+op de afwezigheid van voldoend lichte
+voortstuwingswerktuigen. Maar bij het
+noemen van een naam als Wilbur en
+Orville Wright worden wij plotseling
+met een zekere sensatie gewaar, dat de
+dichte sluier, waarachter het groote
+mysterie verborgen bleef,
+vaneenscheurt de dageraad van een geheel
+nieuwe aera breekt aan, de wereld staat
+op het punt een geheel ander aanzien
+te krijgen.
+Van de eerste geslaagde korte'vluchten
+af, die deze pioniers op 17 December
+1903 volbrachten, tot op heden, is
+het met de ontwikkeling der aviatiek
+in een zóó verbijsterend snel tempo
+gegaan, dat slechts in de ontwikkeling
+der draadlooze telegrafie en haar nog
+jongere zuster, de draadlooze tele
+
+fonie een vergelijking gevonden
+kan worden.
+En terwijl nauwelijks een kwarteeuw
+geleden de aviatiek nog in de windselen
+lag, verwonderen we ons nu nog slechts
+matig of in 't gehee! niet, wanneer zulk
+een wonderlijk product van eeuwenlang
+opgezamelde menschelijke kennis en
+wetenschap onder onzen prachtigen
+wolkenkoepel en over onze gezapige
+weilanden voortsuist.
+*• Het zet de lucht in trilling met zijn
+duizelingwekkend snel rondwentelenden
+schroef en^machtig komt het sonoor
+gedreun en geronk van zijn motor naar
+omlaag gerommeld.
+Maar, zwaar en ver-dragend als dit
+door de lucht voortgeplant geluid zijn
+moge, verzinkt de reikwijdte ervan en de
+snelheid waarmede het zich voortplant
+luttele 330 M. per seconde! ten
+eenenmale in het niet bij de snelheid
+en draagwijdte van die andere trillingen,
+die het vliegtuig wellicht terzelfdertijd
+opwekt trillingen die voortduizelen
+met de snelheid van het licht 300.000
+K.M. per seconde en de modulatie
+van de menschelijke stem in een fractie
+van een seconde over duizenden kilo
+
+meters voortdragen door het medium
+van den wereldaether.
+Daar zweeft, daar ijlt het vliegtuig
+voort, koen en vastberaden zijn be
+
+stemming tegemoet, het behoeft
+slechts weinig omhoog te stijgen, om
+zich aan ons oog te onttrekken maar
+van geenerlei beteekenis of invloed zijn
+zulke afstanden voor het klein maar
+machtig, als in zijn schoot verborgen
+apparaat, waarmede het gemeenschap
+met de aarde onderhoudt. Dat apparaat
+is wie zou het niet reeds hebben
+begrepen? De Radio-Installatie,
+electrisch oor en mond van den avion.
+Het is over dit even ingenieus als
+nuttig onderdeel van een vliegdienst
+de radio en de belangrijke diensten
+die het aan de aviatiek bewijst, dat wij
+ons voorstellen in algemeene trekken een
+beknopt overzicht te geven.
+(Wordt voortgezet).
+- f • Ik!
+
+f1
+l*
+
+2 ! l ?% f
+
+4n
+
+De Trillingstijd
+
+der Antenne
+Hoe veranderen wij deze l
+"7 ONDER ons nu over het wezen
+" van de uitzending of de ontvangst
+van golven te bekommeren, willen we de
+boven dit opstel geplaatste vraag be
+
+antwoorden, omdat het van het hoogste
+belang is, dat we den eigen trillingstijd
+van een antenne kunnen veranderen en
+wel met het oog op de verschillende te
+ontvangen golven.
+De eigen trillingstijd is afhankelijk
+van het vermogen en de zelfinductie,
+welke in de antenne aanwezig zijn.
+Neemt men in de antenne een spoel op,
+of vergroot men deze, dan verkrijgt
+men een grootere zelfinductie en daar
+
+mede een grooteren eigen trillingstijd of
+een kleinere eigen frequentie. Ver
+
+kleining van de spoel werkt natuurlijk
+in tegengestelden zin.
+Nu kan men nog op andere wijze
+invloed uitoefenen op den trilüngstijd
+en wel door gebruik te maken van een
+veranderlijken (draaibaren) condensator.
+Men kan dezen ten eerste in serie
+schakelen met de antenne. Daardoor
+wordt de eigen trillingstijd verkleind,
+want bij het in serie schakelen van
+INSTALLATIE VOOR EEN VLIEGMACHINE
+condensatoren wordt de geheele capaci
+
+teit verkleind. Door nu verder den con
+
+densator te verdraaien, is de eigen fre
+
+quentie te veranderen.
+Men kan den condensator ook parallel
+schakelen aan de spoel, zooals in fig. a
+is aangegeven. Hierdoor heeft men den
+condensator ook parallel geschakeld
+aan den door de antenne zelf gevormden
+condensator (fig. b). En daar door het
+parallel schakelen van condensatoren
+de capaciteit vergroot wordt, zal de
+trillingstijd ook grooter worden, m.a.w.
+we kunnen op deze wijze langzamere
+trillingen verkrijgen.
+R. Swierstra
+Vochtbestrijding
+
+Vele van de onaangename storingen,
+die dikwijls op raadselachtige wijze in
+ons ontvangtoestel kunnen ontstaan,
+moeten aan de werkzaamheid van vocht
+worden toegeschreven.
+Ons vochtig klimaat heeft tengevolge
+dat in toestelkast, spoelen en andere
+onderdeden altijd een zekere hoeveel
+
+heid vocht aanwezig is. Het verdrijven
+hiervan kan ten zeerste worden aanbe
+
+volen en dit kan op zeer eenvoudige wijze
+plaatsvinden door gebruik te maken
+van een kooldraadlamp, b.v. van 50
+kaars. Een dergelijke lamp geeft een
+groote warmteuitstraling, zoodat door
+zulk een lamp binnen in het toestel te
+brengen, dit in eenige uren voldoende
+droog is. Wel moet men er hierbij op
+letten, dat de lamp zich niet al te dicht
+bij smeltbare stoffen bevindt; men hange
+de lamp dus op in het toestel.
+In den regel zal men een belangrijke
+verbetering na dit drogen kunnen
+constateeren.
+
+</text>
+<image timestamp="2002:09:21:05:32:29.00" size="268073">D10006F7.TIF</image>
+</page>
+</document>

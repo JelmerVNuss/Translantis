@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300104</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.£*•« &amp;.
+sflf
+*i
+{3*ft3£iiiHMNéitë!
+ra5*' i'-'•'*
+7 &gt;-,_•; . ifiVk'-V
+en Pantalons,
+* M
+'&lt;••?» i'^i
+i%&gt;-'4&lt;
+•PW^f. * i
+
+:&amp;&amp;&amp;••:• r-V
+• &gt; * '• t' ••• .&lt;••?•&lt; ,i« H -Hik1- v*J •* «J ~1 11 -4
+^i|.-^r^^:i»si»^^yr^
+'^mwf^MSMMw
+thg&lt;
+rjf* i .'
+L^^
+tot &amp;uur.
+tiet 10 uur.
+iP^fe'
+Amsterdam
+Ijk 184 tegenover Beurspassage.
+l'^A* »• V i '
+^' ^ L*. ' Jrik, ;« J^
+«*.;
+-Restaurant
+US" d,^M
+l tornaar Uubcben- d«a
+M Vt
+Mvlttle^TTtamW. T. GROENHOF.
+,.m«aèfeiSii*s:«'
+«l»fai8«»i!'Pif!.SSt!
+fv*»(te*. - StrocmeiKl water. ~ P. G. BAARS l
+SS»,' 't ' * v .'s
+ihflTTTk
+Het KENMERK van
+
+een GOED horloge*
+Abonneert U op
+
+De Groese Amsterdafluner
+'IS
+WEI.DIENSTINFORIVIATIES
+StNFORMATIES
+** verw^fümet particuliere informaties,, welke wij nietïverstrekken).
+ORAA-F &lt;£ Co. N. V.
+; **
+•U
+vetkeer met de daarvoor aangewezen bijzondere
+corres:. 3500 plaatsen jni &gt;lederland. ^
+
+
+SSO VAN HANDELSVORDERINGEN
+*"• "(Afeb.féi'stamgfe- ot betwiste). - - :
+,VAN DER ORAAF &amp; Co. N.V.
+AMST^RDAM-^OTTERDAM—BRUSSEL. •—VRAAGT TARIEVEN
+ut .«r'
+«u*;^
+:&amp;lfc%jiï&amp;&amp;f
+- U,
+H^T .INÈJAIJ4THRENHUJS 19
+'/7' HET eNiQ SPESCIAALHUI
+1M NEDERUAND, DAT KAN
+
+
+BU ELKE
+LEVSRlNtG
+GAP^ANTIEMEW
+MET ftECHT
+OP VOLUE
+
+
+
+V'RAAGT TOEZENDING VAN ©TALEN :
+GORD'JN-, MEUBEL-, BESPANNINÖ-, KUEE"
+DVNG-, feACX&amp;TÓFFEN , ENZ.
+i
+OMZE /\p.TiöTieKe Meoev/ERKERQ EVEN
+(3AA.P.NE ©R/VTl^ A.DVIS3. " ,
+ONZE .SORTBERIN© OMVAT AtL^
+ARTI
+
+ZAAM E Ni MOCMTANS NIET DVUR.
+
+
+^:Het lm
+c.)
+in
+GROOTE
+INVENTARIS
+UITVERKOOP
+EXTRA LAGE PRIJZEN
+IN ALLE AFOEELINGEN
+
+
+EMKORF
+AMSTERDAM-DEN HAAG
+AMERICAN-HOTEL
+A M S T E R D A M
+HOTEL &amp; CAFÉ-RESTAURANT van denlen Rang
+Groote en Kleine Zalen voor Vergaderingen, Diners enz.
+Het fortuin wacht U!
+
+TREKKING 15 Januari a.s.
+Aan iedereen zijn groote winstkansen geboden door den
+aankoop van wettelijk geoorloofde
+
+STAATS-PREMIELOTEN
+vanaf f 3.—maandelijksche aflossing.
+l GEEN NIETEN! ELK LOT EEN PRIJS!]
+Vraagt direct Prospectus gratis - franco - zonder eenige verplich- !
+j ting door: RECLAMEBUREAU G. STROETZEL, APELDOORN |
+POSTBOX 9
+
+</text>
+<image timestamp="2002:09:20:19:45:10.00" size="476343">000007SH.TIF</image>
+</page>
+</document>

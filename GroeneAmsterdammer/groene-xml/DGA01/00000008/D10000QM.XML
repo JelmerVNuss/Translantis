@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200214</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+14 Febr. '20. No. 2225
+Handel en Bemiddeling
+
+in Vaste Goederen
+
+
+Bureau Limburgia.
+Van af den 1sten October is geves
+
+tigd aan het Tempspleln te Heerlen
+een Bureau voor Handel In vaste
+Goeilerenf Huur en Verhuur,
+Assurantie en Hypotheken,
+Alle correspondentie en aanvragen
+voorloopig te richten aan de Firma
+O eb r s. B. H, en H. Koolhaas
+Sehaeshergerweg te Heerlen.
+"^
+GRUYRE
+
+CAMEMBERT
+ROOM IN BLIK
+
+ANANAS
+MeetinstniiMDten nor alle takken dar Industrie
+lipieursboraaa VAN NISPEN - Zwolle
+DEBONT&amp;LEYTEN'5
+FIJNE CHOCOLADE
+EN SUIKERWERKEN
+WE5TLTXND
+'T WESTLAND
+en
+J. G. KORSTEN
+Sanitair Technisch Bureau
+KONINBSPLEIN - AMSTERDAM
+Centrale Verwarming
+
+Koud- en Warmwatervoorziening
+
+Badinrichtingen
+
+Sanitaire Artikelen
+Plannen en Begrootingen gratis en vrijblijvend
+Maxwell"-Auto's
+
+uit voorraad leverbaar
+
+5 en 2 persoons auto's
+
+Prijzen en Catalogi op aanvrage
+
+AUTOnOBI EL-EX PLO1T ATI EfH A ATS CH APP1J
+onder directie der Amsterdamsche Rijtuig-Maatschappij
+OVERTOOM 399 AMSTERDAM TELEF. N. 1901
+DWERKSIGAR
+Rookt
+
+NEDERLANDSCHE MUNT"
+Hollands meest gewilde sigaar
+Licht doch vol aroma Alom verkrijgbaar
+•iLTiïiii nnmm
+
+Ter lezing wordt aanbevolen;
+EDUARD DOUWES DEKKER
+(MULTATULI)
+
+Eene Ziektegeschiedenis,
+DOOR
+Dr. TH. SWART ABRAHAMSZ
+us f i.
+Uitgave van VAN HOLKEMA&amp; WAREN DORF, AMSTERDAM
+VerwarmtenKooktElectriscb
+Kunsthandel L van Zanten
+Zeevischmarkt 8 Rotterdam
+
+TENTOONSTELLING
+van
+17e eeuwsche Schilderkunst
+Dagelijks (behalve Zondags) geopend van 10-5 uur
+TELEPHOON 11344
+a
+3
+g
+LEON LEIBOVICI &amp; C°.
+Boompjes
+39 B
+ROTTERDAM Telefoon
+** w ' ' c n ^J M IYI 11116
+Inlichtingen en prijsopgave
+
+STAAL &amp; C0
+Kerkstraat 279
+
+Electrische Licht-,
+Kracht.,
+
+en
+AMSTERDAM
+
+Hotel OLDEWELT
+Nieuwendijk 1OO
+Til. 2012 Noord
+•Utt| gWMOfflMrt HMdMMtMMwM
+Aanbevelend, L. B. SMITS
+Wasscherij Het Noorden"
+TIMORPLEIN 15-16 (Indische Buurt)
+Droog toe en spec. voor het opmaken der wasch. Vraag prijscourant.
+B. C. KOK
+HOTEL DEL'EUROPE AMSTERDAM:
+£ Hotel van den eersten rang met modern comfort ^
+J Lift Centrale verwarming 4
+t Restaurant tegen vasten prijs en volgens de kaart
++ Hall Zalen voor partijen
+«• Afternoon tea van 3 3O-5.30 *
++ W. HERMSEN, Directeur *&gt;
+Specialiteit In s
+
+Kleorhangers,
+Pantalonpersen,
+Pantalonstrekkers,
+Dassenperson.
+Eigen Fabrikaat ELCO" gedeponeerd
+IMPORT EXPORT
+LUCHTKETELS voor hooge druk
+STALEN PIJPEN en Hulpstukken
+TANKS v. olie, benzine,water, ete.
+leveren prompt
+
+NI Mij. tot Staal- en llzerbewerking
+
+.JJ.KOHPERSHOEK
+Brieischelaan 85 - Telefoon 6225
+ROTTERDAM
+AUTOMOBIELEN.
+TE KOOP AANGEBODEN:
+l OPEL 5/14 P.K. 3 zitplaatsen,
+torpedoAmerik. Kap, Voorruit, rondom nieuwe
+Dunlopbanden, l Reservewiel, nieuwe stof
+
+feering', Lantaarns, gen. eompl. ALS NIEUW.
+l DURKOPP 18/20 P.K. 4 zitplaatsen met
+Amerik. Kap, Voorruit, nieuwe banden, geh.
+compleet Ook zeer goed geschikt voor
+BESTELWAGEN.
+Prijzen op aanvraag.
+
+iutQTecbii.BureauSiLENTIINiCoJokinl32JeLC,2!i7
+AMSTERDAM
+
+Garage eo Werkplaats Naarl.weg B. 272, Siotdijk.
+1^1^^ (mini lïfsüjj iiiiiii\))ix^*timy uuiü\ü^
+BAMESTASSCHEN
+
+</text>
+<image timestamp="2002:08:16:14:19:13.00" size="352076">D10000QM.TIF</image>
+</page>
+</document>

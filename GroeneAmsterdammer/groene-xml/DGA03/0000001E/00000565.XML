@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19111126</Datum>
+<Pagina>14A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 26 November 1911.
+Blijde Boodschap aan Dr. Kuyper in 1915.
+Dr Kuyper drukte in de Kamer den wensch uit, dat van Regeeringswege
+het bizonder onderwijs in Indiëop 't krachtigst mocht worden gesteund, opdat
+Christendom en Islam het daar samen mogen uitvechten".
+Amst. Buek- en Steendrukkerij, v/h. Ellennan, Harms &amp; Co.
+Broeder Excellentie, wij hebben het genoegen U te komen vertellen dat door Uw poging tot kerstening
+
+Indiëvoor Nederland verloren is, maar wij met ons negenen voor den Hemel behouden.
+
+</text>
+<image timestamp="2002:08:26:04:48:31.00" size="406985">00000565.TIF</image>
+</page>
+</document>

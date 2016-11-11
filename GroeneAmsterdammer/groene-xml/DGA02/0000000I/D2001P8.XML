@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030125</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Duitschland en Engeland als schuldeischers van Venezuela.
+HIJ VOKOSKi. vnn de Amsterdammer. Weekblad voor Nederland van 25 Januari 190;.
+&gt;l-f&gt;?oic. k e m: C K
+Am^t. iïoek- en Sti'''ndni!&lt;kerii. v b. KIK'rman. iliirms iV (.
+WILHELM (tot John Buil): Van dien verloopen kerel is toch niets te halen; zouden we samen niet liever dien parvenu eens aanpakken. . ?
+JOHN BULI, : ... Ja ... als we dat maar dorsten . . . !
+
+</text>
+<image timestamp="2002:08:19:03:03:10.00" size="334086">D2001P8.TIF</image>
+</page>
+</document>

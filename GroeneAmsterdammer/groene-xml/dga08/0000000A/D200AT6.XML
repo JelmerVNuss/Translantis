@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340407</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+«o. 2966
+De Groene Amsterdammer van 7 April 1934
+15
+De querulant getemd
+G. A. Klaasse
+Voorwaarden Inzake
+obligatieleningen
+Het probleem van de vaste lasten voor het bedrijf
+Is als dat van de rekening van de kroeg voor den
+eerstejaars. Zij storen zich geen van beide aan het
+verloop van de debetzijde van bet kasboek, het
+lukt niet de tering naar de nering te zetten. Zoolang
+.nog geput.kon worden uit oude liquiditeitsreserves
+kon men de vaste lasten nog betalen, ook al leverden
+.-de bedrijfsinkomsten niet voldoende overschot
+boven de directe exploitatiekosten om ze te vol
+
+doen. Maar aan. alle» komt een eind en zoo ook
+-aan de kasmiddelen wanneer daaruit geruimen tijd
+achtereen moet worden geput, en er geen voldoende
+Jbedrijfsoverschot te behalen valt. Wanneer de
+omzet daalt, de prijzen omlaag gaan, dan kan men
+•zooveel mogelijk de kostenlast daarbij doen aan
+
+passen. Daartoe leenen zich loonen, algemeene
+onkosten enz., maar er blijft n categorie over,
+&lt;iie men niet met het potlood kan bewerken t.w.
+de rente en aflossing op schulden. De oorzaak van
+het vastloopen" van bedrijven in de crisis is dan
+ook veelvuldig gelegen in den schuldenlast en den
+daaraan verbonden jaarlijkschenschuldendienst. Dit
+is een verschijnsel dat onverbrekelijk samenhangt
+met het deflatieproces, dat zich in enkele jaren tijds
+"heeft voltrokken, waardoor de reëele last van
+geldschulden aanmerkelijk verzwaard en voor
+sommige debiteuren ondraaglijk is geworden.
+
+Wanneer een bedrijf is gefinancierd met aan
+
+deelenkapitaal zal in een periode van depressie
+geen of minder inkomen voor dividenduitkeering
+beschikbaar blijven en niemand zal zich daartegen
+verzetten of liquidatie van het bedrijf verlangen.
+Maar zoodra de financiering tendeele heeft plaats
+gevonden met obligatiën kunnen de crediteuren
+wel liquidatie forceeren, al zal vaak surséance den
+debiteur eenig uitstel kunnen verleenen. Voor
+zoover de obligatiën door hypotheek gedekt zijn
+kan executie in geen geval uitgesloten worden.
+Toch zal het vaak niet in het belang der
+schuld•eischers zijn dat het bedrijf overhoop gegooid
+wordt omdat immers geforceerde liquidatie bitter
+slechte resultaten pleegt op te leveren. Hoewel
+er natuurlijk aanleiding kan zijn om de strop te
+nemen" en tenminste nog te redden wat te ledden
+valt, zal heel vaak rustige voortzetting van het
+bedrijf de voorkeur verdienen waarbij dan de
+obligatiehouders kunnen ontvangen wat de winst
+
+rekening inderdaad als bate overlaat. Zoodra een
+bedrijf zijn verplichtingen uit hoofde van rente en
+aflossing niet.meer kan nakomen zijn de
+obligatieschuldeischers eigenlijk aandeelhouder geworden
+en moeten zij, tenzij om speciale redenen liquidatie
+de voorkeur verdient, de consequenties daarvan
+dragen.
+Als regel is het meerendeel der obligatiehouders
+dan ook voor zulk een politiek. Maar er zijn nu
+eenmaal altijd lieden in de contramine, en lieden
+die op andermans rug voordeel voor zich willen
+behalen. Daartoe bestaat nu juist in deze gevallen
+gelegenheid. Wanneer de meerderheid der credi
+
+teuren toestemt in een regeling" waarbij rente
+en/of aflossing worden verminderd waardoor de
+debiteur weer kan ademhalen, dan kan soms een
+minderheid daarvan profiteeren. Blijft zij op haar
+rechten staan, dan zal men soms geneigd zijn hun
+iets toe te geven of zelfs integraal te voldoen ten
+
+einde een catastrofe te vermijden. De minderheid
+kan immers het heele saneeringsplan verijdelen
+en met desnoods n couponnetje faillissement
+doordrijven. Nu kan in zulk een geval surséance
+wel helpen, maar wanneer het zonder dat kan
+verdient het zeker de voorkeur. Dat is eigenlijk de
+groote moeilijkheid waarop men in deze gevallen
+bij herhaling stuitte: dat een kleine minderheid
+een kinkin den kabel legde. Dat ge vaar bestaat niet
+wanneer de obligatiën onder trustverband staan
+en in de trustacte is bepaald, dat ten aanzien van
+wijzigingen in de leeningsvoorwaarden, de ver
+
+gadering van obligatiehouders beslissingen kan
+nemen, waarbij een bepaalde meerderheid de
+minderheid bindt. Bij de meeste hypothecaire
+leeningen is dat het geval, omdat daarbij toch een
+trustee noodig was voor het stellen van de zakelijke
+zekerheid. Zoodra echter zulk een verband niet
+bestaat kunnen enkele obligatiehouders een
+regeling" in de war sturen. Immers al zou het
+mogelijk zijn dat de debiteur, wanneer met de
+meerderheid een arrangement wordt getroffen,
+aan de weigerachtigen hun volle pond betaalt, dan
+zal toch hun weigering vaak den hcelcn opzet doen
+mislukken, omdat de goedwillige houders er
+weinig voor zullen voelen concessies te doen zonder
+de zekerheid dat gelijke monniken ook gelijke
+kappen zullen dragen. Maar zelfs indien het lukt
+dan wordt het rechtsgevoel toch allerminst
+bevredigd; men denke aan het hier te lande klas
+
+siek geworden voorbeeld der 7 pCt. obligatiën
+Koninklijke Lloyd, waar de meerderheid genoegen
+nam met reductie tot 4 pCt. en een klein aantal
+houders jarenlang 7 pCt. bleef ontvangen.
+De rcgeering heeft een wetsontwerp ingediend
+dat de bedoeling heeft om ook in gevallen waarin
+do voorwaarden van obligatieleningen niet
+voorzien in wijziging dier voorwaarden door de
+meerderheid" der houders zulks toch mogelijk te
+maken. Vereischte is dat op een vergadering van
+houders driekwart voorstemt; mits een quorum
+van de helft der uitstaande fondsen vertegenwoor
+
+digd is kan de eerste vergadering aldus beslissen,
+anders in elk geval de tweede. In Duitschland is
+verleden jaar een soortgelijke wet uitgevaardigd
+speciaal met betrekking tot gemeenteleeningon.
+Daar was de moeilijkheid voornamelijk gelegen in
+de kortloopende Schatzanweisungeii die in 1928
+in grootcn getale met vijfjarigen looptijd waren
+uitgegeven. De gemeenten waren tot aflossing niet
+in staat en men heeft nu door deze wet het mogelijk
+gemaakt, dat een bindende overeenkomst met de
+meerderheid der houders over verlenging werd
+gemaakt. De bedoeling is dus om door minnelijke
+schikking en buiten faillissement of surséance den
+debiteur die niet tenvolle aan zijn verplichtingen
+uit hoofde van rente en aflossingen kan voldoen
+toch in leven te houden mits de meerderheid der
+schuldeischers die continueering in hun eigen
+belang wenschen.
+De voornaamste toepassing van de wet zal
+voorloopig waarschijnlijk liggen in die gevallen waarin
+wel de rente nog kan worden betaald, maar de
+aflossing moeilijkheden oplevert. Reeds hebben
+verscheidene obligatiedebiteuren de contractueele
+aflossingen stopgezet onder mededeeling van hun
+onmacht aan de houders, in de hoop dat geen
+hunner in rechte aflossing of uitloting zal vorderen.
+Aldus geschiedde b.v. bij enkele Indische tramweg
+
+ondernemingen, bij de Eotterdamsche TramwegMij.,
+terwijl kortelings de Hoofdst ad-Hypotheekbank
+aankondigde de aflossingen te moeten stopzetten.
+In deze gevallen bestaat thans een rechtsonzekere
+situatie die straks geconsolideerd kan worden.
+
+* " *
+. *
+
+Onder de gegadigden voor toepassing der nieuwe
+wet zullen in de eerste plaats misschien in aan
+
+merking komen enkele in Duitschland werkende
+hypotheekbanken. De aflossingen die deze binnen
+krijgen zijn immers geblokkeerd, zoodat zij daaruit
+geen middelen kunnen putten voor aflossing van
+pandbrieven. Een enkele grooto heeft nog steeds
+zeer ruime liquiditeiten, maar, zooals gezegd, aan
+alles komt een eind. De opschorting van de aflossing
+is het minst ingrijpend maar toch vaak het belang
+
+rijkst in die gevallen waar de aflossing in vergelij
+
+king tot do rente zwaar is. Bovendien is zulk een
+opschorting tegenover alle obligatiehouders veel
+billijker. Immers, Wanneer de financieele situatie
+slecht is dan is het alleszins mogelijk dat op den
+duur de volle hoofdsom er niet voor alle crediteuren
+uitkomt. Gegeven dat feit is het niet billijk dat
+door hot lot enkele houders worden aangewezen
+die nog de volle hoofdsom krijgen terwijl de
+.andere houders, mede als gevolg van de integrale
+betaling van de door Fortuna begunstigden, het
+HOOFIEN'S ROOMBOTER
+WORDT SPECIAAL BEREID
+deficit krijgen te verwerken. De uitloting in de
+leeningsvoorwaarden voorzien is gebaseerd op de
+veronderstelling dat alle obliegatiehouders hun
+hoofdsom terugkrijgen en dat het lot alleen het
+tijdstip bepaalt. Zoodra het lot kans heeft te gaan
+bepalen wie alles en wie minder of misschien niets
+krijgen valt deze basis weg.
+Voor deze wet is alles bij elkaar genomen dus
+veel te zeggen. Zij past in het kader van de politiek
+onzer regeering, die door den wensch tot handhaving
+van den gouden standaard de deflatie consolideert
+en dus de moeilijkheden, ontstaan uit de vaste
+geldschulden als passend in haar politiek, moet
+bezien. Daaruit worden mede door deze wet de
+consequenties getrokken. Intusschen zal de rechter,
+die volgens de wet de finale sanctie aan regelingen,
+onder haar vigeur tot stand gekomen, moet geven,
+wel critisch moeten zijn. De obligatiehouders zijn
+van nature indolent, het is heel moeilijk hen ertoe
+te brengen hun belangen op vergaderingen voor te
+staan. Een kleine groep geïnteresseerden, die meer
+belang bij de aandeelen der betrokken onderneming
+dan bij de obligatiën heeft, zou bij gebrek aan
+belangstelling of begrip onder de andere houders
+een voorstel kunnen doordrijven dat de rechten
+der obligatiën wat al te veel verkort. Als regel zijn
+inderdaad de voorstellers eener regeling geneigd
+uit het oog te verliezen dat, wanneer de debiteur
+niet meer aan y,ijn verplichtingen kan voldoen,
+het hoele actief feitelijk behoort aan de obligatie
+
+houders, en dat het met name niet aangaat een
+regeling te treffen waarbij het mogelijk is dat bij
+oen keer tengunste de goede kansen den aandeel
+
+houders toekomen, terwijl de obligatiehouder dan
+niet meer krijgt dan waarop hij steeds recht had.
+Elk geval kan intusïchen door drn rechter op
+zichzelt worden beoordeeld.
+Vragen des tijds
+(Slot van pag. 13)
+Dat tegelijkertijd in de hoofdstad twee be
+
+langrijke Paaschpremières in zulk een bezetting ge
+
+geven konden worden met daarenboven nog een
+allercharmantste crisiscomedie" van Cor Kuys en
+een opperbest gespeelde en ondanks bed en
+toebehooren van grof heid vrijgebleven klucht Eindelijk
+alleen" van Saalborn en Julia.de Gruyter is
+toch stellig een bewijs voor de groote mate van
+talent, waarover juist onze jongere acteurs be
+
+schikken.
+Bruckner's Rassen", door het Rott.
+Hofstadtooneel gespeeld, is veel meer Zeittheater" in den
+ouden trant: een met zwaar effect, doch zonder
+twijfel ook met eerlijke overtuigingskracht en een
+driftige eerlijkheid geschreven drama over de,
+Duitsche Joden. Het was niet altijd makkelijk, door
+de grootendeels bar slechte voorstelling heen de
+verdiensten van het stuk te zien. Het stuk was
+weinig doorgespeeld, men schreeuwde luidkeels
+en onverstaanbaar en buiten Vera Bondam, stil
+en aangrijpend in de trouwens dankbaarste en
+sterkste rol, was het eigenlijk nogal heel erg
+wat men ons durfde voorzetten. Men hoeft geen
+Jood te zijn om door de gebeurtenissen in Duitsch
+
+land hevig te zijn aangegrepen en in dit stuk was
+stellig de stof voor een bitter en misschien groot
+resumévan alles, waar ons hart vol van is, bijeen.
+Maar men spele hot ] ie ver niet, dan in een voor
+
+stelling, die tot caricaturale verteekeningen aan
+
+leiding gaf eu waarop de zaal dan ook met verveelde
+onverschilligheid reageerde.
+CREMONA
+PARFUM-ZEEP- MATTE CRÈME
+
+</text>
+<image timestamp="2002:10:28:10:23:50.00" size="248221">D200AT6.TIF</image>
+</page>
+</document>

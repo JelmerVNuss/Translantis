@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>48</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+!
+BRANDBLUSSCHER
+HOLLANDIA"
+SPANJAARD&amp;C
+FABRIEK ESPANA
+UTRECHT
+* ,
+K.
+Maggis$wm voor'n niet grayen eter...
+
+Voey 't ty de spijzen dan smaken zij bekt
+;•*?
+i" l
+
+
+t?"&gt;'
+**•.
+fe
+i-i*1-'
+// diavolo dclleAlpi
+NATIONALE KUNSTHANDEL
+H EERENGRACHT 435 (b/h Koningsplein) AMSTERDAM
+
+Doorloopende TENTOONSTELLINGEN van
+
+SCHILDERIJEN, TEEKENINGEN, ETSEN,
+
+HOLLANDSCHE KUNSTNIJVERHEID
+Geopend op Werkdagen van 1O—5 uur
+Telefoon 34172
+COMPACTOM
+ALLES
+INÉN
+PRIJZEN
+VANAF
+
+FL.26O.
+BEZICHTIGT DE MODELLEN BIJ DE ALLEEN
+
+VERTEGENWOORDIGERS VOOR NEDERLAND
+
+IN DEN HAAG EN ROTTERDAM
+IN AMSTERDAM
+£ ZOMIlJ
+Vmndorf
+
+</text>
+<image timestamp="2002:09:22:06:24:48.00" size="171774">D100073T.TIF</image>
+</page>
+</document>

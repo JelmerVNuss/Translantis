@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320109</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 9 Januari 1932
+N o. 2849
+De overschatting der uurwerken
+door K. Araguez
+Teekeningen van Eelco Harmsen van Beek
+Hel hemelsch uurwerk telt geen stonden
+Joost van den Vondel
+
+Toen ik dezer dagen mijn alledaagsche bezittingen
+als daar zijn een zakplotlood, een zakmes, een
+sigarenknipper, een sigarettenaansteker en een
+horloge met ketting
+weer eens rang
+
+schikte op mijn
+nachttafeltje,
+geJk de beschaafde
+mensch dit pleegt
+te doen alvorens
+zich des avonds ter
+ruste te begeven,
+vroeg ik mij plot
+
+seling af waarom
+hij dit pleegt te doen. Ik voor mij vermei mij
+den geest gaarne met dergelijke bespiegelingen
+over een of ander nietig iets c1 at een ieder in
+den loop der jaren onvermijdelijk is gaan achten,
+en niet het minst omdat men halverwege der
+
+gelijke gepeinzen veelal zoo vredig en voldaan
+inslaapt.
+Maar toen ik nu ditmaal overwoog of de mensch
+zich wellicht voor hij slapen gaat van zijn
+zakmesje en zilveren potlood ontdoet omdat eens, in
+onrustiger tijden de krijgsman zijn rapier naast
+zijne legerstede zette ter meerdere veiligheid, en
+de geloovige eens, in rustiger tijden, zijn sieraden
+aflegde om zijn avondgebed te doen met inniger
+ootmoed, of wel dat het alles alleen zijn oorzaak
+had in het feit dat door een. en ander ons
+vestzakje beter in formaat blijft, omdat het zoodoende
+des nachts ook eens rust geniet • toen ik mij
+dan ditmaal in dergelijke beuzelarijen verdiepte
+en nogmaals een blik wierp op mijn
+sigarettenaansteker, mijn zakmesje en mijn horloge, werd
+ik getroffen door iets dat mij zeer eigenaardig
+aandeed.
+Het viel mij op, dat een zakmes, een zakpotlood
+en zelf s een sigarettenaansteker veel bet ouwbaarder
+voorwerpen zijn dan een horloge, zooals, om een
+erkende vergelijking te treffen, de hond een veel
+betrouwbaarder huisdier is dan' de kat, wier wegen
+bedriegelijk zijn en blijven. Waaraan, vroeg ik
+mij af, mag dit zijn te wijten?
+Aan het feit antwoordde ik mij zelf, dat ook
+het horloge, al schijnt het ons trouw en
+toe; gsnegen, valsch is, en ons bedriegt. Eigenlijk gevoel
+' ik, mijn horloge diepzinniger beschouwende, een
+: lichten hekel, terwijl ik een lichte verteedering
+• gevoel voor een oude sigarenkoker. Ik vertrouw
+mijn horloge niet ten volle. Het draait mij een loer;
+f het draait mij het probleem tijd voor oogen, op een
+zeer eigenwijze wijze. Want wat weet het daar
+eigenlijk van? Niets en minder dan niets. Het is
+• een zeer overschat iets. Wat heeft het horloge
+"niet den tijd te maken ? Alleen dat het ons misleidt
+in ons tijdsbegrip.
+Aangezien nu zeer veel schranderder geesten
+dan de mijne zich afgeplaagd hebben met de vraag
+' wat tijd is, en dat te vergeefsch, zoo vroeg ik mij
+1 op dit late uur plotseling klaar wakker en met
+ernstigen argwaan af, of wij daar wel ooit achter
+- zullen komen. De torenklokken, de pendules met en
+: zonder coupes en slagwerk, de Amerikaansche
+: wekkers en diverse vaiieteiten van horloges zijn
+allen kennelijk uitgevonden en geconstrueerd om
+ons iets van den tijd te vertellen, maar wat vert Hen
+•. zij ons? Voornamelijk dat zij steeds menigvuldiger
+werden naarmate de mensch minder tijd had, of
+misschien ook dat de mensch minder tijd had,
+naarmate zij zich vermenigvuldigden. In den tijd
+;. dat de menschheid minder uurwerken bezat,
+besefte zij zeker niet minder wat tijd was. Kn
+zonder uurwerk begrijpt de mensch veelal meer
+van den tijd, dan met hetzelve in de hand. Dit,
+Chronos sta mij bij, is geenszins bedoeld als para
+
+dox. Sedert ik als knaapje op een vroegen morgen
+mijn moeders wekker sloopte oni achter de ge
+
+heimen van het raderwerk des tijds te komen, en
+daardoor een kwartier te laat ter school ging,
+en het des middags met een uur nablijven bezuurde,
+weet ik dat in een verloren geraakt kwartier de tijd
+oneindig snel kan gaan en in een rampzalig uur
+eindeloos langzaam ; eerst veel later heb ik volledig
+begrepen dat het begrip tijd den mensch nimmer
+duidelijker is dan wanneer hij het min of meer
+mist; wanneer de minuut hem een kwartier of het
+kwartier een minuut, korter gezegd wanneer de
+seconde hem een eeuwigheid of de eeuwigheid
+een seconde is.
+De eerste ordelijke mensch die deze onordelijke
+ervaring opdeed, is waarschijnlijk bevangen door
+een panischen schrik, heden ten dage nog steeds
+nabestaande in de onevenredige onrust waarmee
+wij tot het besef geraken, dat wij vijf minuten
+te laat op ons kantoor, ons stationsperron of onze
+diverse afspraken dreigen te komen. Immers in
+zulke gevallen schijnt het ons werkelijk of het
+niet aan ons maar aan de wereldorde hapert.
+Dit atavisme leeft in ons allen sinds wij een zoo
+
+gezegde geregelde maatschappij vormen, wier
+raderwerk dient te loopen als een uurwerk; wij
+missen het echter merkwaardigerwijze volkomen
+bij de beschaafde natuurvolken en bij den mensch
+in zijn natuurlijker staat, namelijk als hij met
+vacantie is, of verliefd, zoo ook min of meer op Zon
+
+en feestdagen, en wij verheugen ons met een zeer
+bijzondere vreugde, wanneer wij op onze beurt
+ons horloge een loer draaien en, groot of klein,
+eenigen tijd spijbelen of verdonkermanen.
+Wanneer de mensch min of meer in dezen geluk
+
+kiger staat verkeerd, dat hij de kwartieren en
+uren niet meer zoo nauwkeurig onderscheidt van
+de seconden, en dat overkomt godlof een iegelijk
+op zijn tijd als hij slaapt of gelukkig is, of wanhopig,
+of geheel verdiept in zijn arbeid, dat wil dus zeggen
+in een toestand die hem het alledaagsche tijdsbe
+
+grip ontneemt staat het begrip tijd hem dan
+niet duidelijker voor oogen, dan wanneer hij met
+een gewaarborgd uurwerk te doen heeft ?
+Ik wil in dit verband nog wijzen op een belang
+
+rijk gesprek dat ik
+eens hebben mocht
+met een zeer jeug
+
+dig persoon, op een
+leeftijd dat hem
+middels een papie
+
+ren klok, gelijk de
+
+zelve te dien einde
+in alle boekwin
+
+kels verkrijgbaar
+is, het op de klok
+kijken was bijgebracht, en dus eindelijk ook het
+normale menschenhorlogie en de torenklokken
+geen geheim meer voor hem bezaten. Ik trof hem
+op achtjarigen leeftijd aan, verdiept in de sprookjes
+van Andersen, en het was 's avonds half negen,
+hoewel het uur der gehoorzaamheid met achten
+geslagen had.
+'t Is half negen" zei ik streng, met het horloge
+in de hand, en de torenklok sloeg het tegelijkertijd,
+als om de maatschappelijke orde en de
+paedagogie te steunen.
+Hij keek op zijn papieren klok, die precies een
+minuut \óór achten stond, en toen naar mij ,.De
+echte gaan toch ook nooit goed...." zei hij. En
+het was mij of mijn hart en mijn horloge tegelijk
+stilstonden.
+Dus, op het oogenblik dat, middels de sprookjes
+van Andersen of wat dan ook, de tijd voor ons ver
+
+andert in eeuwigheid, blijkt er iets te haperen aan
+onze welberekende tijdsrekening. Het zich altijd
+Weer verslikkende secondewijzertje dat zich gulzig
+en vraatzuchtig en belachelijk dood vreet aan de
+oneindige ruimte, ruimt zijn plaats in voor het
+vogeltje uit de Duizend-en-een-Xacht. dat eens
+in de duizend jaar neerstrijkt op de top van een
+berg van zuiver diamant, die bijna tot aan de
+maan reikt, en er zijn snavel slijpt, en weg vliegt.
+En wanneer hij zooveel malen zijn snavel geslepen
+heeft, dat de berg afgeslepen is, zal er een seconde
+van de eeuwigheid voorbij zijn, Kn de lied' des
+Kerneis zal naar beneden :ien, wie er geboren
+werden tellen en wie stierven, en glimlachen.
+Wat. vraag ik u, die natuu lijk ook een horlo.-c
+beyit, is nu eigenlijk daartegenover een horloge?
+Een eeiiige jaren al dan niet schriftelijk ge
+
+waarborgde begrafenisonderneming van seconden.
+een soort van naargeestig instrument dat den tijd
+meet, dien wij te kort komen. \V:it zegt liet ons
+4RSS
+over den tijd ? Niets en minder dan niets. Wat
+weet de man, die een andermans geld telt, van
+rijkdom?
+Wat zegt mij een ellemaat over de Chineesche
+.;ijde die er mee gemeten wordt, of een litermaat
+over een wijn? Wat zegt mij een horloge over den
+tijd? Men heeft sedert vele eeuwen met een
+ellemaathet dunste katoen, de zwaarste Chineesche
+zijde en het zuiverst goudbrokaat kunnen meten,
+en Helena van Troje, van top tot teen. Maar
+wat hadden en hebben zij, stuk voor stuk, ooit te
+maken met een ellemaat? Wanneer ik dus over
+Helena van Troje, het begrip tijd of Chineesche
+zij spreek, wat heb ik dan te maken met de ellemaat
+of het horloge?
+..Ik heb je een uur
+de eeuwigheid gege
+
+ven" zei Don Juan
+tegen een geliefde,
+die hem veel ver
+
+weet ..en jij vraagt
+nog om meer!"
+Heeft de tijd iets
+te maken met het
+weefsel der eeuwig
+
+heid, dat geweven
+wordt op den weef stoel waarvan zonnen en planeten
+schering en inslag zijn ? Het weefgetouw vergaat wel
+weer terwijl het weefsel blijft. De kwaliteit wordt
+nimmer bepat'ld door ae hoeveelheid. De tijd is een
+hoeveelheid, de eeuwigheid een kwaliteit. De wijzers
+op het hemelsch uurwerk, de schaduwkegels van
+zon en maan, wijzen geen uren aan maar h t
+eeawig bestaan van het ;icht. De tijd bestaat
+niet. Chronos voornaamste bezigheid was, als wij
+de mythologie mogen gelooven, het verslinden van
+zijn eigen kinderen: het horloge vreet zichzelf
+op, de pendule met coupes verdwijnt in de ein
+
+deloosheid, als de mensch in haar schaduw gelukkig
+is, en de eeuwigheid in zijn aderen voelt kloppen.
+De ouderwetsche zandlooper wist meer van de
+eeuwigheid dan eenig uurwerk: hij vergat den tijd
+wanneer wij hem vergaten, hij mat hem, als hij ge
+
+meten moest worden. Ik ben voor den zandlooper
+en tegen de Amerikaansche wekker. Ik ben voor
+de Chineesche zijde en tegen de ellemaat. Ik ben
+tegen de uurwerken, die ons den dag bovendien
+aanmatigend en eigenwijs in vierentwintig partjes
+deelen en waarom niet in tien, zes, of twintig?
+Ik ben voor al de vele menschen die niet achter het
+probleem van den tijd kunnen komen: de wijsgeeren
+de luiaards, de verliefden, de dichters, en de
+Chineesche wevers die alleen op de kwaliteit van
+het weefsel letten en werken tot het donker is, en
+geenszins acht uren per dag. Want zij zijn degenen
+die ons meer van den tijd doen begrijpen dan eenig:
+uurwerk. Onze pendules etcaetera gaan altijd ver
+
+keerd, wij overschatten zu zér. Ik vraag het u,
+die inderdaad gelukkig of wanhopig zijt: kent ge
+uw tijd als tijd of als besef van eeuwigheid ? Tijd
+is geld, zegt onze tijd. Zeer juist, maar slechts in
+zooverre dat men als men beide telt, er nog niefc
+veel van begrepen heeft, gelijk onze tijd dan ook
+zeer proefondervindelijk ondervindt. Het geld, en
+de uurwerken, zijn in eere omdat wij i,e eeren.
+o.ndat bet zoo afgesproken is. Het geld wijst.
+hoogstens de onuitputtelijke rijkdom der aarde
+aan, hot uurwerk de onuitputtelijke rijkdom
+der eeuwigheid, maar in wezen hebben, zij er
+niets mee te maken. De secondenwijzer, al is hij
+een eigenwijze schoolmeester, wijst zijns ondanks.
+altijd in de richting der eeuwigheid, en dat is het
+eenige waarom men hem altijd kan vergeven, al
+weet hij er ook eigenlijk niets van.
+
+..Ja, 700 is het" dacht ik tevreden, toen ik
+dat alles bespiegeld had. Maar daarna keek ik
+helaas op mijn overschatte horloge en ik zag dat
+het werkelijk zeer laat in den nacht geworden \va*
+en het hinderde mij, minstens evenzeer als mijn
+horloge mij gehinderd had, dat mijn horloge mij.
+nu nog slechts weinige uren slaap liet, omdat ik
+zoo lang had bespiegeld.
+Dus, dacht ik slaperig en ontevreden, onderschat
+ik mijn liorlogie toch minder dan ik bespiegelde,
+en eigenlijk blijk ik plotseling in het ongelijk.
+Maaiin ieder geval heb ik aan
+
+genaam bespiegeld, en wel
+
+licht zou ik een volgend
+maal ook eens kunnen na
+
+gaan of het ongelijk wel
+
+licht bij mij y.elt'.instee vuil
+bij het horloge ligt.. . . .
+Kn hierna sliep ik. gelijk
+allen, die dit probleem
+'&gt;&lt;•spiegelden, tenslotte in.
+
+</text>
+<image timestamp="2002:09:26:13:58:28.00" size="249460">000009WP.TIF</image>
+</page>
+</document>

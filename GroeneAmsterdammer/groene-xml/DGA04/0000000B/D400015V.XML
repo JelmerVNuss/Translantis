@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140308</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zondag 8 Maart
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND)
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	/ 1.65
+Voor het Buitenl. en de Koloniën p. j., bij vooruitbetaling fr. p. mail , 10.
+Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar 0.125
+UITGEVERS: VAN HOLKEMA 6 WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van l—5 regels ƒ 1.25, elke regel meer . .
+Advertentiën op de finantieele- en kunstpagina, per regel
+Reclames, per regel
+ƒ0.25
+.0.30
+.0.40
+INHOUD
+Blz.l: Bevolkingsaanwas. Kroniek:
+Over de Kronieken. J. H. Schutte:
+De Diamantbewerkers, II. Frans Erens
+over Claudel, II. 2: Feuilleton naar
+Charles Reade. Honoréde la
+Baignoire over O, die Poes en Monna Vanna.
+Ingez. . H. M. Beekman contra L. H.
+Grondijs. 5: Tutti Frutti door N.
+Mansfeldt-de W. H. Parabel van Upton
+Sinclair. Mr. E. de Grave contra
+Martina G Kramers. Allegra. E.
+HéimansrZonnediertjes en Straaldiert jes.
+6: Alb, Plasschaert over Toorop. W.
+Steenhoff over Bosboom. Matthijs
+Vermeulen over Debussy. 7:
+Leipziger Messe. Amundsen. Michel
+Angelo en Julius II, uit Gobineau's La
+Renaissance. Dr. P. van Olst:
+Photographische sterrekaart. Charivarius:
+Ik lees geen liberale Bladen" (Van den
+Biesen). 8: Charivari. 9: Fin.
+Kroniek door v. d. M. 10: Komen
+en gaan door v. d. S. Oplossing
+Driehoek-Puzzle. Damspel door J. de
+Haas. 11: Schaakspel door R. Loman.
+Teekening Joh. Braakensiek:(iMexico en
+Ver. Staten. **=*»"•.*-&lt;
+Bijvoegsel 'door Johan [Braakensiek:
+Frankrijk en fcde a.s. algemeene
+Jverkiezingen.
+BEVOLKINGSAANWAS
+
+In de N. R. Ct. vonden wij dezer dagen
+een paar tabellen, door dit blad ontleend
+aan het Tijdschrift van het Beiersche
+Bureau voor Statistiek: tabellen, die in
+cijfers een overzicht geven van vrucht
+
+baarheid en sterfte in de verschillende
+Europeesche staten volgens de officieele
+gegevens van 't jaar 1910.
+Volgens het Beiersche Bureau kwamen
+dan op 1000 inwoners in 1910 het vol
+
+gend aantal levend geborenen:
+Rusland	43.9
+Bulgarije	42.
+Roemenie	39.2
+Servië	38.5
+Oostenrijk	32.6
+Hongarije	35.7
+Italië	33.3
+Spanje	33.1
+Portugal	32.3
+Duitschland	29.8
+Nederland	28.6
+Denemarken	27.5
+Noorwegen	26 l
+Zweden	24.7
+Engeland 25.
+Zwitserland	25.
+België	23.6
+Frankrijk	19.6
+Tegenover deze geboortegetallen staan
+de volgende sterftecijfers voor
+1910 op 1000 inwoners:
+Rusland	28.9
+Roemenië	24.8
+Bulgarije	23.5
+Servië	22.1
+Hongarije	23.6
+Oostenrijk	23.1
+Spanje	23.3
+Portugal	19.8
+Frankrijk	17.8
+Duitschland	16.2
+België	15.2
+Zwitserland	15.1
+Engeland	14.
+Zweden	14.
+Nederland	13.6
+Noorwegen	13.5
+Denemarken	12.9
+Trekt men het sterftecijfer van het
+geboortegetal af, dan krijgt men het
+geboorteoverschot, dus het na
+
+tuurlijke bevolkingsaccres voor 1910 op
+1000 inwoners. Het bedroeg voor de
+verschillende landen:
+Bulgarije	18.5
+Servië	16.4
+Nederland	15.
+Rusland	15.
+Denemarken	14.6
+Roemenië	14.4
+Duitschland	13.6
+Portugal	12.7
+Noorwegen	12.6
+Hongarije	12.1
+Oostenrijk	11.3
+Engeland	11.
+Zweden	10.7
+Zwitserland	7.9
+Spanje	9.8
+België	8.6
+Frankrijk	1.8
+
+Bij deze, door het Beiersch Bureau
+geconstateerde geboorte-o verschot
+
+ten ontwaart men alvast een wisselend
+succes voor de wedijverende methodes
+voor vermeerdering der bevolking. Men
+ziet de onbeschaafde methode, die in
+den wilde weg duizende menschenlevens
+ontstaan doet en ze bij duizende, als
+haringkuit in de golven, veronachtzaamt,
+n de beschaafdere methode indien
+van zoo iets sprake mag zijn die minder
+wezens in het leven roept doch aan de
+levenden beter aandacht schenkt. Een volk
+als het Russische dat 43 geboorten telt per
+duizend inwoners tegen 28 sterfgevallen,
+komt, als het batig saldo moet worden
+opgemaakt, beneden Nederland te staan
+met zijn 28 geboorten maar zijn slechts
+13 sterfgevallen. Doch Servië, met zijn
+achterlijkheid in hygiëne en zijn hoog
+sterftecijfer, vertoont toch weer, dank
+zij de vruchtbaarheid zijner bevolking,
+een grooter accres dan Nederland heeft;
+Rusland een grooter dan het in zuige
+
+lingen- en zieken-zorg aan de spits
+staande Denemarken. Zie echter hoe
+Hongarije en Oostenrijk, met hunne ge
+
+boorten van om en om 36 per duizend,
+minder vooruitgaan dan Noorwegen, dat
+er slechts 26 noteert, doch op de tabel
+der sterften een gunstig figuur maakt.
+Het zou kunnen lijken of de Europeesche
+staten wedijverden volgens twee even
+bedenkelijke vermeerderings-systemen, in
+
+dien men er niet zeker van was, dat deze
+dingen minder in de decreten der indivi
+
+duen en der staten liggen dan in het
+instinctieve leven" der massa's en in de
+omstandigheden, die dit leven
+beheerschen.
+Ingrijpen, decreteeren, dwingen, zelfs
+in een materie als deze, is nochtans
+niet vreemd aan den wensch der over
+
+heden, geestelijke en militaire, die bij
+steeds geringer bevolkingsaccres in een
+onbestemden angst gaan verkeeren. Duitsch
+
+land, dat in 1910 nog vrij gunstig stond
+op de kleine kinderen-balans, maar
+sedert sterk achteruitging, kreeg om deze
+reden reeds bisschoppenmandementen tot
+waarschuwing te hooren en ziet een wets
+
+ontwerp tegen den handel in
+malthusiaansche middelen in voorbereiding. Aan
+vermindering van godsvrucht en kerkbe
+
+zoek wordt daar door de kerkelijken na
+
+tuurlijk weer geweten, wat niet in de eerste
+plaats aan kerkelijkheid of onkerkelijk
+
+heid liggen kan, en met wetten denkt
+men daar weer te handhaven wat aan
+wettelijken invloed niet juist zijn ont
+
+staan dankt! Heeft niet onlangs een
+studie over de buitengewoon groote
+criminaliteit in de zuidelijke (zeer
+kerksche) provincies van ons vaderland de
+Nederlandsche katholieken dankbaar ge
+
+stemd, voorzoover er in werd geconclu
+
+deerd, dat deze meerdere criminaliteit
+niet op rekening mocht worden geschre
+
+ven van den godsdienst, doch moest
+worden geweten aan sociale omstandig
+
+heden. ... Als dit zoo is, als dan de
+kerkelijken (in het nauw gedreven) gaan
+erkennen, dat sociale omstandigheden
+door geen kerk in eenigszins belang
+
+rijke mate worden beïnvloed, zal men
+er toch toe moeten komen aan mande
+
+menten den invloed te ontzeggen de
+bevolkingsaanwas van Duitschland en
+andere landen te verbeteren en zal men
+moeten aannemen, dat het middel,! door
+Nederland aangegrepen, n.l. de betere
+hygiëne, de verspreiding van medische
+hulp en kennis tot over de kleinste
+dorpen, duizend maal probater is voor de
+instandhouding van een natie en voor
+den bevolkingsaanwas dan de Pruisische
+wetsontwerpen-in-wording en de preeken
+van goedmeenende leeraren.
+Voor militaire droomers, voor nationa
+
+listen en ras-verwoedelingen moet het
+een zware tijd zijn. De Beiersche statis
+
+tiek geeft behalve de hierboven afge
+
+drukte tabellen een overzicht van het
+over heel Europa gestadig afnemend
+geboorteaccres (sedert de helft der vorige
+eeuw), en wij kunnen ons de radeloos
+
+heid voorstellen der strategen in het
+Berlijnsch oorlogsdepartement, die, met
+die cijfers vór zich, de gehoopte wereld
+
+hegemonie minder dicht nabij, misschien
+onbereikbaar achten.
+Voor hen die hopen, dat weldra het
+oogenblik nadere, waarop een fede
+
+reering en ontmilitariseering van mogend
+
+heden aan deze mogendheden nuttiger
+blijken zal dan de wedstrijd in leger
+
+vermeerdering die nu plaats heeft, voor
+hen die op zóiets hopen, ligt in deze
+deceptie der militaire menschenkweekers
+toch weer een stille troost.
+Vijftig jaar terug waren gezinnen van
+vijftien en twintig kinderen in Nederland
+geen zeldzaamheid. Den meesten onzer
+lijkt dit thans, zoo luttel jaren daarna,
+met respect gezegd, een konijnenverleden.
+Men is nu gewoon aan aantallen tusschen
+vier en tien ---- Weldra gaat het hier
+wellicht nóg Franscher toe, en wie weet
+hoe het dan wordt! Het is mogelijk, dat
+al die nieuwigheden niet wenschelijk zijn
+voor een sterk nationaal bestaan, maar
+zijn wij slechter en minder schoon volk
+in de oogen van latere geslachten dan
+onze veel-teelende vaderen van 't jaar
+1810 en 1830 en dan de Serviërs, Bul
+
+garen en andere Oostersche
+onontwikkelden van nu ?
+En van uit dien hoek mag men de
+de zaken toch k zien.
+Si
+KRONIEK
+TOT RECHT VERSTAND DER KRONIEKEN
+
+Tot ons leedwezen, en ook een weinig
+tot onze beschaming, moesten wij ervaren,
+dat er lieden zijn, harteloos en cynisch genoeg
+om te durven twijfelen aan het oprecht
+gemeende van al wat in deze kronieken
+wordt uitgedrukt. En gedrukt. Zoo worden
+wij dan wel genoodzaakt het hier nog eens
+uitdrukkelijk (en drukkelijk) te verklaren:
+Wij meenen al wat wij hier zeggen, al
+zeggen wij niet al wat wij meenen, bijzonder
+
+lijk niet het tegendeel van hetgeen wij zeggen,
+en dat wij ook meenen. Vaak, niet altijd.
+Want wij weten vaak niet wat wij meenen,
+al meenen wij altijd niet te weten, wat
+anderen zoo stellig meenen te weten.
+Zulks is nu eenmaal niet anders en hangt
+samen met een organisch gebrek in onze
+hersenschors, dat in de wandeling ijdelheid
+wordt geheeteH. tengevolge waarvan onze
+gedachten voortdurend kijken in den spiegel
+(onzer ziel?), waar zij onvermijdelijk hun
+tegenbeeld gewaarworden. Daar echter een
+dergelijk inferieur procédéjbeschamend is
+voor onzen trots, zoo plegen wij het geheim
+te houden en altijd slechts de helft te open
+
+baren van hetgeen wij denken. Het is dan
+ook niet dan noodgedrongen, dat wij deze
+onthulling doen, teneinde den bona-fide
+lezer een sleutel te verschaffen tot het recht
+begrip dezer chronische afwijkingen van het
+richtige en dus normale. Vul immer de
+andere helft aan, zoo luidt de formule, en
+gij hebt het Geheel ... der Waarheid.
+Nu is misschien de vulgariseering van het
+redactioneel geheim dezer Kroniek daarom
+minder hachelijk, wijl het ook eenigszins het
+geheim van het geheele blad is, alwaar het
+dan vaak in polemischen vorm, onder den
+zinspreuk hoor en wederhoor", tot uiting
+komt. Niet altijd met succes, dient er bijge
+
+voegd, aangezien het gros der menschen uit
+slecht-hoorenden bestaat. Wij onthullen hier
+dan ook feitelijk niets, dat niet iedereen
+reeds van tevoren kon weten, doch niemand
+weten wil, dewijl men zonder vaste ideale
+goederen niet schijnt te kunnen leven.
+Ongetwijfeld zijn er enkele ideale zaken,
+waaromtrent twijfel is buitengesloten. Het
+Heilige zal altijd heilig, het Goede altijd goed
+en het Misdadige altijd misdadig zijn, God
+
+lof! De moeilijkheid begint eerst bij de bij
+
+zondere gevallen en dat wordt niet altijd
+voldoende beseft.
+Daarom heeft een wijze redactie deze
+rubriek van het chronisch fragmentarische
+ingesteld, als een Beeld des Levens en wijders
+opdat een Begenadigde Heer van middelbaren
+leeftijd, P. G., scribent van Vak enVocatie,
+den argloozen voorbijganger beleefdelijk at
+
+tent zou maken op het groot moeras van
+onzekerheid, dat diens onvaste
+oogenblikkelijke werkelijkheid van het ideaal der eeuwige
+vastheid gevaarlijk scheidt. En de niet on
+
+vermoede ervaring bij deze werkzaamheid
+is, dat de voorbijganger geregeld boos wordt,
+als iemand die liever niet weten wil en zijn
+eigen lichtzinnigen gang gaan.
+Maar is daarmede onze arbeid veroordeeld ?
+Is het niet integendeel onze heilige plicht
+op den ingeslagen weg voort te gaan en de
+gewetens te wekken tot het besef hunner
+dwazen hoogmoed, die maar al te vaak de
+helft der wereld verdoemt?
+Opdat de wereld heel blijve, zijn wij dan
+ook, nu en voortaan, voor de andere helft.
+
+F. C
+
+* * #
+De Diamantbewerkers en hun Bond
+(Slot)
+Naast de zeer lage loonen en lange werk
+
+dagen moesten de diamantbewerkers zich
+allerlei andere uitzuigerijen laten welgevallen.
+De verdiensten van de roosjesslijpers vari
+
+eerden tusschen de ƒ 5 en ƒ 12 per week, de
+z.g.n. chipsslijpers verdienden ƒ7 a ƒ 10 en
+zelden meer dan/12; in de gewone goederen
+werd zelden meei1 dan ƒ18 verdiend. Een
+andere soort van uitknijperij, die den reeds
+zoo langen arbeidsdag heelemaal tot een
+helsche straf maakte, was het
+eigenmolenstelsel, dat de heeren werkgevers uit die
+dagen steeds meer in toepassing brachten.
+Dit kwam hier pp neer: Naast heel wat
+krotten van fabrieken, waar lucht en zelfs
+licht alles te wenschen overliet, waar onge
+
+dierte het den arbeiders lastig maakte, waar
+alles kleefde van viezigheid en vettigheid,
+waar soms geen zonnestraaltje doordrong,
+waar geen sprake was van ventilatie f waar
+de verkoudheid de menschen in het lijf
+gegooid werd, waren er ook ettelijke be
+
+hoorlijke fabrieken, met voldoende frissche
+lucht en ruimte van beweging. De werk
+
+gevers nu huurden z.g.n. molens en bloc"
+tegen 40 cent per molen en per dag en gaven
+slechts dien slijpers werk die op de door hen
+gehuurde krotten wilden zitten tegen ƒ0.75
+soms ƒ 1.—per dag. En in die veelte duur
+betaalde krotten moesten die arme drommels
+12 uren per dag, etenstijd niet inbegrepen,
+zitten te zwoegen aan allerlei slechte grond
+
+stof voor loonen als boven genoemd. Veelal
+werd 's avonds, dikwijls 's nachts doorge
+
+werkt. Jonge, krachtige kerels konden som
+
+wijlen, nadat het werk geëindigd was, niet
+van hunne banken opstaan van de pijn in
+den rug en tusschen de schouderbladen. Ook
+op de specie, die de diamantslijper bij het
+slijpen van de facetten noodig heeft, en welke
+boort genoemd wordt, werden de arbeiders
+openlijk bestolen. Zij moesten deze boort van
+hun juwelier betrekken tegen/3.50 per karaat
+hoewel de marktprijzen tusschen ƒ 1.50 en
+ƒ2.—schommelden. Een zeker percentage
+werd door menigen werkgever van het te
+ontvangen loonbedrag afgehouden en de
+gedwongen winkelnering behoorde lang
+niet tot de zeldzaamheden. In n woord :
+erger kon het niet. *)
+In den zomer nu van 1894 had te Ant
+
+werpen een Internationaal Congres van dia
+
+mantbewerkers plaats, waar besluiten werden
+genomen omtrent loontarief, arbeidsduur en
+leerlingstelsel. Intusschen waren in denzelf
+
+den zomer eenige vereenigingen gesticht,
+t.w. de vereeniging van
+Brillantslijpersknechten, Brillantverstellers en
+Brillantsnijders; het organisatieleven begon wat op te
+fleuren.
+In het najaar werd druk gewerkt, maar
+meer verdiend werd er volstrekt niet; de
+toestand werd zoo, dat zelfs hier en daar
+de werklieden gedaan kregen; totdat ein
+
+delijk een heel personeel in staking ging,
+daarin onmiddellijk gevolgd door ettelijke
+andere personeelen. Binnen vier en twintig
+uren hadden ongeveer duizend der
+slechtstbezoldigde slijpers, de z.g.n. chipsslijpers, het
+werk neergelegd. Een commissie werd in
+
+derhaast benoemd, die onderhandelen zou
+met de patroons.
+Deze laatsten echter wezen alle eischen,
+hoe bescheiden en schuchter deze ook waren,
+af, met het gevolg, dat de stakers een beroep
+deden op hun overige vakgenooten en de
+algemeene werkstaking geproclameerd werd.
+Voor het eerst staakten alle diamantbewer
+
+kers en 7 November van het jaar 1894 stond
+de Amsterdamsche diamantindustrie geheel
+stil.
+In den nacht van 7 op 8 November werd
+door de bestuurders der toen bestaande
+vereenigingen, onder leiding van het bestuur
+der Nederlandsche
+Diamantbewerkersvereeniging.een minimum-loontarief vastgesteld.
+Na vier dagen was de zege op de door vrees
+bevangen patroons bevochten. Onthutst door
+het nooit-verwachte optreden hunner
+werklieden, bevreesd voor hoogere eischen
+gesteld te worden bij een eventueele wei
+
+gering en belust op de winst, die de periode
+van groote levendigheid in den handel hun
+beloofde, gaven zij op alle punten toe.
+De bedongen loonsverhoogingen beliepen
+20 pCt tot 25 pCt. De algemeent: toestand
+en het organisatorisch verleden der diamant
+
+bewerkers in aanmerking genomen, was dit
+een overwinning, waarvan de sterkste opti
+
+mist tot voor eenige weken niet had durven
+droomen. De toenmalige leiders echter be
+
+grepen volkomen, dat elke loonsverhooging
+weer te niet gedaan zou worden, indien deze
+gebeurtenissen niet bekrachtigd werden door
+een daad. En deze daad moestzijn:hetstichten
+van een op reëele grondslagen berustenden
+vakbond; kwam men tot deze daad niet, en
+daarvan was een stel kloeke mannen door
+
+drongen, dan was alle moeite te vergeefs
+geweest.dan zou de oudetoestand
+weerterugkeeren, de oplaaiende solidariteit weer gebluscht
+worden, misschien wel voor jaren en jaren, en
+weer zou een arbeidersgroep van circa 7000
+a 8000 menschen voortleven in kommer en
+ellende, en in zedelijke minderwaardigheid.
+Deze mannen bleken geen ndagsvliegen
+te zijn, en zij smeedden het ijzer toen het
+heet was. Met veldheersblik overzagen zij
+het terrein van den strijd, met tact en be
+
+zieling wisten zij de eenheid van
+allediamantbewerkers te bepleiten en hun vakgenooten
+een van de grootste overwinningen op zich
+
+zelf te doen behalen.
+Onder leiding van het kleine groepje van
+dezelfde mannen, die sedert jaren hunne
+vakgenooten trachtten op te heffen, mocht
+het gelukken den A. N. D. B. te stichten.
+Dit voor de diamantbewerkers in het bij
+
+zonder, en voor de arbeidersklasse in het
+algemeen zoo heugelijke feit, vond plaats
+op den 16den November 1894.
+Henri Polak werd tot voorzitter en Herman
+Kuijper tot secretaris gekozen.
+Toen deze Bond twee en twintig maanden
+bestond, was hij de best georganiseerde
+vakvereeniging in ons land, waren de loonen
+verhoogd met ƒ 10.—a ƒ 12.—per week,
+was de arbeidstijd van 12 en meer uren
+per dag tot een maximum arbeidsdag van
+10 uren teruggebracht; in den loop der
+jaren werd eerst de 9-uren dag en daarna
+de 8-uren dag verkregen en mocht het den
+Bond gelukken zijn leden op te heffen uit
+de zee van stoffelijke, verstandelijke en ze
+
+delijke ellende.
+Over de groote momenten van strijd zullen
+wij in een volgend artikel nog een en ander
+zeggen, alleen zij hier tot slot nog even
+gewezen - op een hier merkwaardig en wel
+
+dadig verschijnsel.
+In tegenstelling met den Kaapschen Tijd"
+hebben de twee drukke perioden, van 1904
+1907 en van 1908—1911, het tegenwoordige
+geslacht van diamantbewerkers noch zedelijk
+noch verstandelijk veel nadeel berokkend.
+De groote massa van hen heeft zich aan
+een behoorlijk levenspeil gewend, van
+brooddronkenheid was maar bij slechts zeer,
+zeer enkelen sprake. Die groote massa heeft
+zich beter gevoed, beter gekleed, en is wat
+beter gaan wonen. Zoo goed als allen heb
+
+ben hun kinderen wat beter onderwijs laten
+geven. Hunne genietingen waren gewoonlijk
+van de beste, 's Zomers maakten zij reizen
+om van het natuurschoon te genieten en
+het buitenland te leeren kennen, 's winters
+bezochten zij mooie concertuitvoeringen en
+opera's, en werden zij schouwburgbezoekers,
+die niet aan de slechtste concerten de voor
+
+keur gaven ; zij bezochten tentoonstellingen,
+bemoeiden zich met de arbeidersbeweging en
+de politiek; zij voelden zich de laatste 20
+jaren meer en meer burgers van het land
+hunner inwoning, wilden de lusten hiervan
+dragen en op de rechten wilde zij aanspraak
+maken. De tegenwoordige diamantbewerker
+heeft bovendien in en door den strijd zijn
+mede-arbeiders uit andere vakken leeren
+vinden.
+Er heeft zich een elite gevormd, die
+de verkorting van den arbeidsdag heeft
+benut om zich kennis te vergaren. In die
+elite is gaan bruischen een echt mooi leven
+van idealisme en sociaal-voelen; in die
+kringen zijn bestudeerd en beredeneerd de
+grondslagen van het maatschappelijk leven;
+over opvoeding en onderwijs, over kunst
+en genot, over verfijning van verstand, ge
+
+moed en zeden is daar gelezen, gesproken
+en ... gedacht. Men heeft er schrijvers en
+kunstenaars uit zien opkomen. In die elite
+heeft de wetenschap van een betere,
+schoonere en wisse toekomst vaste vormen aan
+
+genomen. De massa en de elite vinden
+elkander dag aan dag, zij voelen zich n;
+door solidariteit en wetenschap, kunnen en
+zullen zij uit nederlagen overwinningen
+smeden.
+Thans, in dezen weer slechten tijd, lijden
+zij soms peinzend hun zorgen; en suffend,
+schijnbaar moedeloos, gaan velen hunner
+gebukt onder persend leed. Maar vraag hun:
+Wat wilt gij ? Wanhoopt gij ? En het ant
+
+woord uit mond en blik van duizenden
+hunner zal tintelen en vlammen van moed,
+strijdlust en vertrouwen in hun Bond.
+Vanwaar dit zoet Wonder? Zij zijn door
+hun Bond opgevoed. De welvaart kon hen
+niet meer zoo besmetten, als hun vakge
+
+nooten uit den Kaapschen tijd, en tegenspoed
+kan hen niet neerslaan, omdat in hen woont
+het woord, dikwijls door hun bondsvoor
+
+zitter uitgesproken: Ondanks alles, is de
+wereld ons." Dat hebben de Kaapsche vak
+
+genooten gemist.
+22 Nov. 1913 J. H. SCHUTTE
+
+*) De hier beschreven toestanden tus
+
+schen 1888 en 1894 heeft de schrijver van
+dit artikel zelf meegemaakt.
+PAUL CLAUDEL, L''Annonce faite a Marie,
+mystère en quatre actes et un prologue.
+Paris. Nouvelle Revue Framjaise.
+(Slot)
+Bij de lezing van het werk van Claudel
+is het begrijpelijk, dat ten opzichte van
+'s dichters genie en kunnen in Frankrijk nog
+altijd eenig wantrouwen bestaat. Schrijvers
+die boven anderen tot de algemeene en
+diepergaande problemen trachten te komen,
+ontmoeten zoo geen tegenstand toch altijd
+eenig wantrouwen, want hun werk kan geen
+halve goedkeuring wegdragen. Het is hier
+alles of niets. Daarom is het begrijpelijk dat
+Claudel een vasten kring van bewonderaars
+heeft, die in hem den hedendaagschen
+grooten dichter van Frankrijk zien. Even
+hoog geschat wordt hij op het oogenblik
+in Duitschland, misschien hier nog meer,
+
+</text>
+<image timestamp="2002:08:20:14:58:40.00" size="453645">D400015V.TIF</image>
+</page>
+</document>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280225</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Spartatex is ge
+
+weven van
+ge•
+(dubbeldraads) l***
+soort
+Schotsche •wol, die
+geschoren is
+van het levend
+schaap waar
+
+door in Spar
+
+tatex alle na
+
+tuurlijke veer
+
+kracht van wol
+is behouden.
+
+ALLEENVERKOOP
+VAN SPARTATEX BIJ
+KREYMBORG
+Nevenstaand
+'n juiste afbeel
+
+ding van ons
+nieuwste mo
+
+del Sparta, het
+vlotte costuum
+voor den
+sportieven
+eleganten Heer.
+Deze costuums
+naar maat
+68.-, 75.-, 85.-, 90.-,
+100.-, 105.-, tot 145.-.
+(KEUZE UIT MEER
+DAN 1SOO DESSINS)
+KREYMBORG
+Een waardevol geschenk
+Is een radio-toestel
+maar dan van
+Ingenieursbureau VAN NISPEN-Zwolle
+Onmeedoogenloos en hard
+Liet het lot, door alle tijden
+Velen van ons, menschen, lijden.
+Eensgezind het kwaad bestrijden,
+Helpt altijd, voorkomt veel smart!
+Onderlinge Levensverzekering
+van Eigen Hulp
+
+HOOFDKANTOOR:
+' s-Gravenhage—Kortenaerkade 3
+VEILING
+op Maandag 26 Maart 1928 bij Opbod en Maandag 2 April 1928
+bij Afslag, telkens des avonds na 6 uur, in het Verkooplokaal
+Frascati", ten overstaan van den Notaris ARY VAN RIEL door
+de Makelaars W. C. DEEN IK Zzn. en J. D. HAALMEYER Dzn.,
+van:
+Het voortdurend reeht van erfpacht op n terrein van de
+Gemeente Amsterdam aan de
+
+VUZELSTIMT, SINGEL en
+
+lESULraWitSSTIMT.
+Kad. Sectie I 8182, groot
+
+16 AREN 20 CENT.
+met de zich daarop bevindende opstallen van een NOG NIET
+VOLTOOID GEBOUW, ingericht tot
+
+HOTEL El UfMESTtOIIIT
+geheel naar de eischen des tijds ingericht, met centrale verwar
+
+ming, koud en warmwaterleidingen, bad-installaties, liften enz.
+Het geheel is na de betaling DIRECT TE AANVAARDEN.
+Bezichtiging Dinsdags, Donderdags en op den Verkoopdag
+van 2—4 uur.
+PETER DAWSON'S
+WHISKY
+BEST OF AIX
+Van Straalen jMonsieur &amp; Errkelen*
+WIJNHANDELAREN
+Den Haag ROTTERDAM - Helder
+Leuvehaven 54
+R v. D* Hogenbirk 6 Zooii's f
+IJZER- en STAALINDUSTRIE |
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. H42
+Constructiewerkplaatsen, Machinefabriekt Ijzeren J
+Gebouwen, Overkappingen, Bruggen, J
+Kolommen, Reservoirs, enz»
+Speciale «fdteling Hekwerken en DraaiUfKheidingen, Diverae Vlecklwerke
+Roosterstaven en andere
+onderdeelen, welke aan hooge tempera
+
+turen blootgesteld worden, leveren
+wij in prima Hartguss-kwaliteit.
+Ook leggen wij ons speciaal toe op
+de vervaardiging van onderdeelen
+van machines, zooals maal- en
+breekvverktuigen, welke naast groote
+sterkte een zeer hard oppervlak
+vereischen.
+
+
+ENSLNK:
+IJZERGIETERIJ
+TELEFOON
+5611
+HILVERSUM
+TELEGR.-ADfc
+//BAKEN"
+
+</text>
+<image timestamp="2002:09:04:06:23:36.00" size="194938">000006C2.TIF</image>
+</page>
+</document>

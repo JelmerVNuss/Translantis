@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251121</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2528
+Jongens- en Meisjesboeken
+Bibliotheek De Goede Kameraad
+Deze Bibliotheek bevat een serie Jongens- en Meisjesboeken van de
+beste auteurs. Elk deel is op zichzelf compleet en bevat een aantal
+oorspronkelijke platen.
+
+In deze Bibliotheek zijn momenteel nog verkrijgbaar:
+DE CLUB VAN ZESSEN KLAAR,
+door C. Joh. Kieviet.
+DE CLUB OP REIS, door C. Joh.
+Kieviet.
+FULCO DE MINSTREEL, door C.
+Joh. Kieviet.
+MET PIETER PIKMANS HET ZEE
+
+GAT UIT, door G. Holle.
+KAREL DORINGA, door Q. Holle.
+DEZOON VAN DEN BERENLEIDER,
+door G. Holle.
+HOORN VOOR DEN PRINS, door
+G. Holle.
+DE KRUISVAARDERS, door E.
+Molt.
+NAPOLEON, door E. Molt.
+HELDEN EN SLACHTOFFERS DER
+FRANSCHE REVOLUTIE, door E.
+Molt.
+DE VROOLIJKE JAREN VAN DOLF
+HAZEWIND, door J. P.
+ZoomersVermeer.
+OKKE TANNEMA, door C. Joh.
+Kieviet.
+IN WOELIGE DAGEN, door C.
+Joh. Kieviet.
+TOM SAWYER, door Mark Twain.
+DE LOTGEVALLEN VAN
+HUCKLEBERRY FINN, door Mark Twain.
+WILLEM RODA, door E. Heimans.
+JONGENSLEVEN, door
+Edm.d'Amicis.
+ROBINSON CRUSOE, door Dan. de
+Foe.
+EEN WOELIGE BENDE, door Minca
+Verster-Bosch Reitz.
+DE ZWITSERSCHE ROBINSON
+CRUSOE, door J. R. Wijsz.
+Prijs per deel / 2.50 in prachtband.
+Nieuwe goedkoope Bibliotheek
+voor Jongens en Meisjes
+De uitvoering, 4 platen op kunstdrukpapier, linnen band in 8 kleuren,
+geïllustreerd omslag in 4 kleuren, is van dien aard dat men versteld
+staat over den goedkoopen prijs.
+
+Bandteekening, illustraties en omslagen zijn van NETTY HEYLIGERS.
+Deel 1. GULLIVER'S REIZEN, door
+C. Joh. Kieviet.
+Deel 2. DE JONGENS VAN OUDEN
+
+OORD, door D. Dijkstra.
+Deel 3. ZONDER MOEDER, door
+E. de Pressensé.
+Deel 4. DON OUICHOT VAN LA
+MANCHA, door J. J. A. Gouverneur.
+Deel 5. TOT RIDDER GESLAGEN,
+door J. G. Kramer.
+Deel 6. AUGUSTA, door Suze An
+
+driessen.
+Deel 7. EEN SCHOOL VAN 7 MEIS
+
+JES, door L. T. Meade.
+Deel 8. DE AVONTURIER, door J.
+G. Kramer.
+DeelQ.FRlDA EN HAAR NICHTJES,
+door Agatha.
+Deel 10. CONSTANCE DE WILD,
+door Suze Andriessen.
+Deel 11. HET DRIJVENDE VLOT,
+door J. A. Slempkes.
+Deel 12. REINTJE VAN DEN WA
+
+TERMOLEN, door J. P.
+ZoomersVermeer.
+Deel 13. LIONEL LINCOLN, door
+J. F. Cooper.
+Deel 14. AAN DEN WATERKANT,
+door Nannie van Wehl.
+Deel 15. EEN KOOPMAN IN
+ZOELOELAND, door W. H. G. Kingston.
+Deel 16. HUISHOUDSTERTJE, door
+E. de Pressensé.
+Deel 17. DE ROODE VRIJBUITER,
+door J. F. Cooper.
+Deel 18. EEN REIS OP DEN RUG
+VAN EEN WALVISCH, door Gerard
+Keiler.
+Deel 19. OP MARKESTEIN, door
+P. J. Andriessen.
+Deel 20. JACQ VAN WELY, door
+Bob Hardingsveldt.
+Deel 21. PRINS EN BEDELKNAAP,
+door Mark Twain.
+Deel 22. EEN VROOLIJK TROEPJE.
+door Rina van den Hout.
+Deel 23. TOM SAWYERS
+REISAVONTUREN, door Mark Twain.
+Deel 24. DE FAMILIE HERVE,
+door E. de Pressensé.
+Prijs per deel / 1.25 in prachtband.
+Oranje-Bibliotheek voor Jongens
+en Meisjes
+Elk deel vormt een afzonderlijk geheel en is fraai geïllustreerd.
+
+In de Oranje-Bibliotheek verschenen:
+DE BEUKENHORST, door Suze
+Andriessen
+
+DE FAMILIE VAN HERPEN, door
+Suze Andriessen.
+
+DE LANTAARNOPSTEKER, door
+Suze Andriessen.
+
+DE PLEEGDOCHTER VAN DEN
+GOOCHELAAR, door Agatha.
+
+OM DE SCHATTEN DER ONOVER
+
+WINLIJKE VLOOT, door J. G.
+Kramer.
+
+WILDE BOB, door] C. Joh. Kieviet.
+
+HET SLOT OP DEN HOEF, door
+C. Joh. Kieviet.
+DE KLEINDOCHTERS VAN MEVR.
+WESTLANDT, door Truida Kok.
+LOULA ALMERUS, door Truida
+Kok.
+TWEE ZUSJES, door Truida Kok.
+
+LUCIE, door D. P. Muller-Bohn.
+HET EINDE VAN EEN JONGENS
+
+OORLOG, door Joh. Nieuwenhuis.
+MEVROUW VAN CASTENDIJK EN
+HAAR NICHTJES, door Suze la
+Chapelle Roobol.
+EEN DOZIJN HOLLANDSCHE JON
+
+GENS, door C. Joh. Kieviet.
+OP ROZEHOFJE, door J. P.
+Zoomers-Vermeer.
+Prijs per deel in prachtband met gekleurde kopsnede ƒ 1.75.
+Prijs per deel
+ing. f2.15
+Serie De Pagekop
+VOOR MEISJES
+geheel en fraai geïllustreerd.
+Prijs per deel
+ge b. f 2.90
+BIBLIOTHEEK
+Elk deel is een afzonderlijk
+
+IN DEN DOP, door op Naeff.
+BIENE VAN EDOMA, door Tr. Kok.
+MOEDERS OUDSTE, door Willy
+Pétillon.
+POP, door Willy Pétillon.
+LYDIA's MOEILIJKHEDEN, door
+Willy Pétillon.
+MARYKE VAN DEN MOLENHOF,
+door Willy Pétillon.
+HET HUIS BIJ DEN TOREN, door
+Louise Feith.
+TOETIE ROETMOP, door Lina
+Tervooren.
+DE VIER UILTJES, door J. P.
+Zoomers-Vermeer.
+DE MEICLUB UIT KAMPEEREN,
+door Tine Brinkgreve-Wicherink.
+Geschiedkundige Werken
+
+GEILL. VADERLANDSCHE GESCHIEDENIS
+
+VOOR OUD- EN JONG NEDERLAND
+Ingenaaid f 2.90 DOOR P. LOUWERSE Gebonden f 3.90
+Zesde druk Met 65 platen van JOH. BRAAKENSIEK e. a.
+
+GEILLUSTR. WERELDGESCHIEDENIS
+
+VOOR OUD- EN JONG NEDERLAND
+Ingenaaid / 2.90. Door E. MOLT Gebonden / 3.90.
+Versierd met ruim 200 Platen, bijna 700 pag.
+ftolt's Historische Verhalen
+
+In deze Serie verschenen:
+DE ONDERGANG VAN EEN OU- IN DE WOUDEN DER GERMANEN,
+DEN BURCHT, door E. Molt.
+DIERIC, DE SCHRIJNWERKER,
+door E. Molt.
+door E. Molt.
+RODERIK, door E.
+ALEWIJN DE LIJFEIGENE, door EEN VALKENJACHT OP
+HETKASE. Molt. TEEL BREDERODE, door E. Molt.
+
+Elk deel is fraai geïllustreerd.
+Prijs per deel ingenaaid ƒ 1.10. In fraaien prachtband ƒ 1.90.
+Uitgaven van VAN HOLKEMA &amp; WARENDORF - Amsterdam
+
+</text>
+<image timestamp="2002:09:03:22:51:44.00" size="147463">0000062X.TIF</image>
+</page>
+</document>

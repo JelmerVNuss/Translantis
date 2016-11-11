@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320319</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. S5T vatt l* Maart M32
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. * telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+U zoekt:
+een firma van \ p r i m a
+reputatie. Die feen ruim
+gesorteerde voorraad bezit
+van de beste gewassen.
+
+En''tOCh billijke
+p r, ij z e n|f ;n ojt e'e r-t.
+U vindt
+dit alles bij:
+HANDELSMERK WETTIG GEDEPONEERD.
+Van Straalen Monsieur &amp;Erkelens
+Wijnhandelaren
+FILIAAL HOOFDKANTOOR
+Den Haag Rotterdam
+Anna Paulownaatraat 36 Lauvahavan 34
+lal. 332632.
+tal. 52456.
+FILIAAL
+Den Helder
+Hoofdgracht 61
+tel. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAG PRIJSCOURANT VOOR PARTICULIEREN.
+N.V.VH.
+H-AKLOOSTERHUIS
+AMSTERDAM
+KALVERSTR.I78
+5-Liter 8-cyl. BUGATTI
+• transformable, •
+4 a 5 pi. Buitengewone luxueuze en solide
+carrosserie, fabrikant Erdman Rossi,
+Berlijn. Geheel gelijk nieuw.
+
+5-Liter 8-cyl. BUGATTI
+• sport cabriolet, •
+zeldzaam mooi model wagen, van
+allernieuwsten vorm, slechts even gebruikt.
+
+3-Liter 8-cyl. BUGATTI
+• conduite intérieure, •
+4 a 5 pi., geheel als nieuw.
+X2 Liter 4*cyl. BUGATTI
+sporttorpedo, •
+overjarig model. Prijs billijk.
+
+
+H. STAM SOESTDIJK
+VAN NELLE'S
+AFTERNOON-TEA
+DAT IS NOG EENS ANDERE THEE
+DE VOORNAME SMAAK
+EN EDELE GEUR WORDT
+VERKREGEN DOOR HET
+MELEEREN VAN DE
+FIJNSTE SOORTEN
+GEBROKEN THEE
+
+KOOPT HET BEKENDE ROODE PAKJE
+40
+CTS. PER ONS
+
+</text>
+<image timestamp="2002:09:26:19:08:16.00" size="102578">00000A3A.TIF</image>
+</page>
+</document>

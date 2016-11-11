@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340414</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^ADVOCAAT
+Hij. is der zwakken stut, der zondaars toeverlaat
+Is daar een schooner ambt dan 't ambt van advocaat?
+Hij is een man die zich door deze dingen kenmerkt:
+Zijn brieven, waar men 't.aan zijn welversneden pen merkt,
+..Die 's van een advocaat !" en dan zijn omgangstaal,
+Herinnerend aan cel, kantoor en zittingzaal.
+Met nadruk en gebaar, in goadgevormdc zirnien,
+Als ware 't hem te doen om een proces te winnen,
+Verkondigt hij, betoogt, verdedigt en weerlegt
+Hetgeen een burgerman als ik eenvoudig zegt.
+Hij tracht met paradoxen tot debat te lokken,
+En redeneert daarna zijn vijand van de sokken.
+Hoewel hij soms te mild zijn rechtzaal-grapjes strooit,
+Met iets te luide stsm vervelend is hij nooit.
+Hij volgt als gentleman de wetten der conventis,
+Maar zijn kleedij toont soms gebrek aan consequentie;
+Zijn ambtsgewaad is dikwijls verre van. je dat,
+Zijn bef is niet als sneeuw, zijn toga slobbert wat,
+Maar wandelt hij op straat met vrouw, vriendin of nichtje,
+Dan is zijn das een droom, zijn deukhoed een gedichtje.
+Beschouw hem in zijn werk, en luister hoe hij pleit,
+Hoe dapper hij zich werpt in bloedeloqzen strijd.
+De aanhef van 't pleidooi des onvervaarden vechters
+Luidt: Edelachtbre hoeren President en rechters."
+Let op, hoe d' e van ,,Edel" uit gesproken wordt,
+Of sleepend, lang en .luid, of afgebeten kort;
+Het eerst' is: wat mijn opponent zegt, is zoo poover,
+Zóó ongerijmd.... enfin, daar blijft geen stuk van over;
+Het tweed' is als een kreet der verontwaardiging,
+Die hem bij 't luistren naar zijn opponent beving
+In beiderlei geval klinkt uit die enkle letter:
+'k Sla straks dien leuteraar met mijn betoog te pletter.
+Hoewel hij, man van smaak, wat afgezaagd is, haat,
+Twee zinnen zijn er, die hij niet geheel versmaadt,
+Ten eerste, dat g' ook altram partem moet audire.
+Voorts acht hij 't vaak gewenscht, dat dit zijn rede siere:
+,,Ik geef u toe, eet animal est tres méchant,
+Die onverlaat ! Quand l'on l'attaque, il se défend."
+Dit in civilibus. Strafrechtlijke gedingen
+Verplichten hem tot diep in 's menschen ziel te dringen.
+Zoo wordt de grootste schurk gelijk zijn beste vrind
+Hij zoekt in hem iets goeds, en juicht wanneer hij 't vindt.
+Dan vlamt hij vaak als vuur, dan wordt zijn taal verheven,
+Dan dwaalt hij als in droom door dichterlijke dreven.
+Want hoor, hoe schoon hij zijn beschermeling beschut:
+Als alle argumenten schier zijn uitgeput,
+Dan gaat hij met den aard van 't menschlijk hart te rade.
+En maant, gerechtigheid te kruiden met genade,
+Genade, die het recht veredelt, niet verzwakt.
+Die niet berust op w„&gt;t, bevelschrift of contract,
+Maar die de Hemel zelf, gelijk een milden regen
+Op d'aarde nederzendt. Zij is een dubble zegen,
+Eén zegen voor wie geeft, en n voor wie ontvangt."
+Zoo spreekt hij dichterlijk. (Nog verder, desverlangd).
+Al is dit plagiaat, het wordt hem graag vergeven,
+Hij, dio 't bedacht, is dood Shakespeare, sweet Swan of Avon !
+Versagen kent hij niet. Hij is een optimist,
+Die uit het grauwe slijk een pure parel vischt.
+Die in de zwartste daad een lichtpunt kan ontdekken,
+Die 't Homo sum doceert, en weifel weet te wekken....
+Hij is der zwakken stut, der zondaars toeverlaat,
+Is daar een schooner ambt dan 't ambt van advocaat;'
+CHAHIVAIUUS
+
+</text>
+<image timestamp="2002:10:28:10:47:57.00" size="206822">D200ATO.TIF</image>
+</page>
+</document>

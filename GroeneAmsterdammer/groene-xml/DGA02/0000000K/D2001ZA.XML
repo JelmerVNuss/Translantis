@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030809</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1363
+DE AMSTERDAMMER WEEKBLAD YOOR NEDERLAND.
+Fmcieele en oniMe biiel
+Nog altijd bly'ft hei woord nu Sully, den
+tekenden minister van Lodewqk XIV, waar:
+Piuvres payians, panvre royanme,
+Panvre royuime, pauvre roi.
+Erg vrq vertaald kan men zeggen: gaat 't
+•den boeren goed, dan gaat 't iedereen goed.
+Het hnwelyk van vader Arbeid met moeder
+'Aarde is altjjd de primitieve bron van alle
+voortbrenging geweest. Van oeconomisch stand
+
+punt kan dan ook altijd der boeren arbeid de
+meest belangrijke worden genoemd. Daarom
+is de regeling van het grondbezit altjjd 'n
+•onderwerp geweest van by zondere aandacht
+van alle groote staatslieden en van alle emi
+
+nente godsdienststichters O jk de tegenwoordige
+eerste minister heoft in een van zya
+hoogstwetenschappeljjke sociale brochures op de
+"betrekkelijke speciale oud testamentische
+voor•schriften gewezen.
+En hoe staat 't wederom met de voort
+
+brengende kracht van den arbeid, aangewend
+in den rqken hof va a den Zonnegod ? Het
+antwoord kan het meest bevredigend in cijfars
+-worden gegeven. In de statistiek zegt men
+terecht, wat heeft men aan vage uitdrukkingen
+«Is: een r jjke oogst; groote sterfte; dichte
+bevolking.
+Daarom de volgende cyfers.
+Tarweoogst in de Vereecigde Staten.
+wintertarw in Zomertarw in totaal in
+bushels bu he's bushels
+1903 463498,000 257,129000 720627,000
+1902 411,788,000 258274000 670062,000
+1901 429,678,000 318.785000 748,000000
+1900 331,000000 191000,000 522,000000
+1899 297000.000 250000,000 547000000
+1898 382000,000 293,000000 675000000'
+1897 333000,000 197,000,000 530000,000
+1896 265,000,000 163,000,000 428000,000
+Maïs-oogst in de Vereenigde Staten.
+bushels
+1903 2,262,980 000
+l f 02 2 523 648,000
+1901 l 522 500 000
+19 JO 2 105 O 0,000
+1899 2078000,000
+1898 1,924 000,000
+1897 1,903000,100
+18D6 2 284,000,000
+Haver-oogst in de Vereenigde Staten.
+bushels bushels
+1903 862465000 1899 796,177,000
+1902 987843,000 1898 730,906000
+1901 736809,000 1897 698767,000
+1900 . 809,126,000 1896 707,346000
+Deze officiëele cyfere, voor het j-,ar 1903
+gecalculeerd uit de officiêele schauug van
+wege de amerikaansche regeerinsr, toon en dus
+aan, dat de tarwe-oogst voor 1903 buitenge
+
+woon groot is en dat die van mt'n en haver,
+hoewel wat minder dan de buitengewoon rijke
+opbrengst van 1902, toch w,el hopger is dan
+de oogstopbrengst van eenig vorig jaar. Ei
+«Is de landbouw veei producten heeft aan te
+bièo, dan vloeit daaruit voort een bijzonder
+groote vraag naar de vruchten ran ambacht
+en van industrie, in hare veel en velerlei takker;
+en bovendien leidt de vermeerdering van boven
+
+bedoeld aanbod en die ran boren-aangewezen
+vraag, naar groote toename van de behoefte
+aan transport. Volgens deze deductie most
+'t dus den spoorwegmaatschappijen goed, beter,
+best gaan. Kan het slot van deze deductieve
+redeneering door toepassing van de inductieve
+methode worden versterkt, worden bewezen ?
+Ciel- merci, de tout mon coeur. Daarom maar
+•wed ar om cyfers, cyt'ers.
+Periode Recettes Recettes
+Compagnies. 1902-03. brutes. Bépens. nettea.
+Jlois. inill. $ miil.$ mill. $
+Atchison	11+ 3,172 -f- 3,843 0,671
+Balt. and Ohio... 12+ 2,560+ 2,564 + 2,996
+&lt;;ues. and Ohio... 11—0,142+ 0,432 0,574
+t'uic., Milw. &amp;S.P. 11 + 1,872 + 1,122 + 0,750
+Denver	11+ 0,324+ 0,191 + 0,133
+Ei-ie	11+ 3,790+ 1,761 + 2,029
+Great Northern... 11+ 4,073+ 8,073 + 1,000
+Illinois Cent	12 + '4,321 + 4,032 + 0,292
+L misville &amp; Nash. 12 + 4,703 + 3,048 + 1,655
+N. Y. Central.... 12 + 6,634+ 6,517 + 0,117
+N. Y. Ontario.. .. 11 + 0,339 + 0,236 + 0,103
+Norfolk and West. 11 + 3,ul5 + 2,273 + 0,742
+N. Pacific	11+ 4,255+ 3,255 + 1,000
+Penusylvauia	5+ 5,504+ 5,946 0,442
+Keading	11—4,440—5,225 -^ 0,785
+S. Louis &amp; S. Fran. 11 + 3,731+ 2,993 + 0,738
+Southern	U+ 4,048+ 8,662 + 0,386
+Southern Pacific . . 10 + 2,797 + 4,990 2,193
+Union Pacific	11+ 2,934+ 2/&gt;70 + 0,264
+Wabash	11+ 1,893+ 1,515 + 0,298
+Total	+58,386 + 48,978 + 9,408
+Volgens bovenstaande cyfers zijn derhalve
+de bruto-ontvangsten van de genoemde spoor
+
+wegmaatschappijen, gedurende het laatste jaar,
+niet 58 millioen dollars vermeerderd, terwijl
+de exploitatiekosten, waaronder enorme uit
+
+gaven voor uitbreiding van rollend materieel
+«n emplacementen, voor verbetering van weg
+«n werken, met by'na 49 millioen zyn
+toegei omen, waardoor de netto-ontvangsten onge
+
+veer 9,5 millioen klommen.
+Neemt men de enorme sommen voor ver
+
+beteringen van weg en werken en voor uit
+
+breiding van het rollend materieel ie aanmerking,
+waarvoor door europeesche spoorwegmaatschap
+
+pen het aandeelea- of het obligatiekapitaal
+zou worden vergroot, dan kan men
+concludeeren dat slechts ongeveer de helft van de
+gemaakte winst als dividend werd en nog zal
+worden uitgekeerd.
+De cyfers voor het den len Juli ontvangen
+nieuwe dienstjaar kunnen ook ter bevestiging
+van bovenstaande oeconomische deductie ge
+
+bruikt worden. De Chromde geeft in haar
+laatste nummer de ontvangsten gedurende de
+tweede week van Juli van 56 spoorwegmaat
+
+schappijen. Het totaal hiervan is byna 9%
+millioen of 11.88 pCt. hooger, dan die van
+dezelfde periode van het vorige jaar. Volgens
+datzelfde blad, om de juistheid van deze
+opgave bekend, hebben gedurende de 3s week
+van Juli 51 spoorwegmaatschappijen by'na 14
+pCt. hoogere ontvangsten, dan gedurende
+dezelfde week van den vorigen jaarkring. En
+desniettegenstaande evenwel nochtans, zou
+vader Cats zeggen, konden in de afgeloopen
+week de baissiers wederom genieten van eigen
+voorspoed en van Schadenfrende tegenover hun
+tegenstanden.
+De glansrijke overwinningen der baissiers
+deelen de toegevoegde cyfers mede.
+Juli. Augs.
+30 6
+h k. h.k.
+Atchiaon Topeka c. v. a. . . . 63% 56%
+&gt; t adj.hy. O. . . 89% 88 K
+Baltimore Ohio c. v. a	831A 77
+Ches &amp; Ohio c. v. a	33 29%
+lev. Akron c. v. a	46 K 44^5
+Rock Island c. v. a	2ólA 213^
+Denver &amp; Rio Gr. c. v. a,. . . 24&gt;ö21%
+Brie oommons	29% 24%
+&gt; gen. Liens bonds ... 82 81%
+Illinois Central c. v. a	133 1305i
+Kansas C. Southern commons. . 22 ^ 20
+» » » c. v. pref. . 39&gt;i 36
+» » » Ie hyp. obl. 65% 65^
+Louisville &amp; Nash dlle c. v. a. .112 100
+Miss. Kansas Texas c. v. a. . . 20% 18
+» » 2e byp obl. 77% 76%
+Nat. Railr. of Mex. eert. afgest. 19 % 18
+» » » » c. v. pref » . 37 35/4
+N. Y Ontario &amp; West.commons . 23 20%
+Norf &amp; West c. v. a	62 % 59%
+Reading c. v. a	48)4 44%
+South. Pac. commons .... 44 Ji 40 K
+, Railway afgest	21X 18*
+Union Pacific c. v. a	75 69%
+, pref	83K 82%
+» » c. v, pref. . . . 83% 82^
+» » com. goed bonds . 915/8 90X
+Wabash c. v. pref	37^5 30%
+Waaraan ontleenen de overwinnaars hun groote
+kracht? Het antwoord luidt: aan de abnormale
+marktpositie tengevolge van vele nieuwe
+industrieële ondernemingen of de samensmelting
+van vele reeds bestaande ny verheidsinstellingen.
+De oprichting en de lang niet alty'd conscentieuse
+samensmelting van verschillende groote zaken
+vorderde veel, abnormaal veel, geld. Dit | is
+verstrekt door syndicaten, die hoopten en
+verwachtten, dat de nieuwe aandaelen en
+obligatien tegen zoete winst aan het publiek
+zouden kunnen worden overgedaan. Het geld
+
+bal eggen d publiek heeft hen echter teleurgesteld.
+Hierdoor ontstond een storende oorzaak in den
+gewonen gang van het bloeiende oeconomische
+leven, waarin de Vereenigde Staten zich mogen
+verheuge i.Hierby kwamen nog de vele en velerlei
+combinaties in de spoorwegwereld, om onder
+
+linge concurrentie door vruchtdragende samen
+
+werking te vervangen ; 'n goed, 'n uitmuntend
+beginsel. Maar in de toepassing ook hierran
+is de behoedzaamheid, de bedachtzaamheid, het
+langzame tempo uit bet oog verloren, die voor
+ingrijpende hervormingen, nauwkeurig moeten
+in acht genomen worden. De ryzirg van de
+koersen, aanvankelijk in overeenstemming met
+den vooruitgang van de verdiensten der
+spoorweger, lokte allengs grooter aantal heeren en
+dames, mannen en vrouwen, ouden er j ingeo,
+geleerden en ongeletterden, uit om ook een
+gosde, een veelbelovende kans te wagen. Wie
+duizend gulden had, kocht met behulp van
+prolongatie voor tienduizend. Ea wie over
+10 mille bes. hikte, die kocht voor een ton.
+Voor den eerste was de ry'zing van l pCt.
+een winstje van ƒ 100, ƒ 200 of misschien
+wel van ƒ 250. Voor den tweede waren deze
+cyfers ƒ 1000, ƒ 2000 en f 2500. Wat is
+hierbij de ry'kst betaalde arbeid, van hoofd
+of hand of van beide!
+Nu WAS de marktpositie in idealen toegtakd
+voor de baissiers. E e n een s toch als enkele
+percenten koersverhooging het kapitaal der
+prolongatienemara verdubbelt, doet een daling
+van eenige percenten het geheel verloren gaan.
+De prolongatienemer, die zy'n onderpand niet
+kan aanvullen tot behoud van het surplus, dat
+de voorzichtige geldgever onverbiddelijk vordert,
+die is verplicht k tout prix te verkoopen. Zy'n
+ondergang versterkt het aanbod van fondsen
+en daarmee, de kracht van den baissier. Voor
+dezen is de gulden, de gouden ty'd aar gebroken.
+Overal is zy'n staf, zijn z'n spionnen, die de
+zwakke plaatsen van den vy'and aanwyzeu, en
+onmeedoogend wordt dan de aanval gedaan.
+Is 't hèu bekend dat op dit of dat fonds groote
+prolongaties - zyn gesloten door zwakke hou
+
+ders dan wordt daarop de aanval gericht. Zoo
+kan het zy'n dat een fonds by zonder veel
+gedrukt wordt, terwy'l juist de laatste
+ontvangsteijfers wederom een by zonder bigde
+boodschap brachten.
+Argst is 'n slechte raadgever en beangst,
+bevreesd zy'n vele. Daarom wordt de arbeid
+van de baibsiers des te gemakkelijker, naarmate
+die vrees, die argst toeneemt, 'n Paar faillisse
+
+menten van slechts kleine huizen bracht
+daarom den bears wederom een duivelachtige
+overwinning.
+Wat is nu de algemeene conclusie ? Me
+dunkt da lezers kunnen die zelf trekken.
+Voor de geagiteerden onder hen laat ik die
+nog even volgen : Verkoopt uwe stukken niet
+en hebt ge contanten in voldoende mate
+geruimen ty'd ter beschikking, profiteert dan in
+uw voorleei van de gekelderde pryzen; maar
+geen prolongatie hoor, dat bly've het parool.
+Ik herhaal wat ik meermalen in andere woorden
+zei, het is onmogelijk te zeggen of de over
+
+winning nog langer aan de zy'de der baissiers
+zal blijven, maar wel mogelijk is 't aan te
+toonen dat de koersen thans zeer abnormaal
+laag zy'n. Daarvoor getuigen de
+bovenaangevoerde motieven. Mitsdien stem ik gaarne in
+met de meening, die ik las: Nous considérons que
+les valeurs de chemins de fer amóricains sont
+bonnes il acheter aux cours actuels et que, si
+cenx-ci baissent encore, l'avantage d'acheter
+s'accroitra en proportion.
+Heden werden de contramineurs te
+NowYork al bevreesd, en kochten ze om zich te
+dekken. Daarom steeg de koers. Ik herinner
+o. m. aan: Mexico-syndicaat, Internationaal
+Land-syndicaat, Louisvillers, Atchisons pre
+
+ferente, idem Kansas City Southern, Illinois,
+Southern Pacifics, Nation-Mexico preferente.
+Voor de overige rubrieken is onder den
+invloed van de agitatie onder de amerikanen
+weinig of geen aandacht. Oirer 't algemeen
+zy'n de koersen lager. Dat's te begrijpen. Wie
+suppleeren moet, zal zoo mogelijk daarvoor
+liefst de slechts weinig verminderde fondsen
+uit andere categoriën gebruiker.
+De N. W. S. maakt een gunstige uitzondering
+in verband met de vermindering van de pro
+
+longatierente. Ook de cijfers van de efigelsche
+bank, heden naar het vasteland geseind, zy'n
+niet ongunstig. De other securities toch ver
+
+minderden van 276 tot 25 9 millioer. Daaren
+
+tegen evenwel verminderden de rek. courant
+saldo's van particulieren van 42 3 tot 39 9 mil
+
+lioen, zoodat de totale reserve verminderde
+van 244 tot 23.1 millioen. De credietrceter
+veranderde als slotresultante dan ook slechts
+onbeduidend.
+De nieuwe ppaansche minister van financiën
+heeft een wetsontwerp ingediend, dat tot strek
+
+king heeft het papier-disagio te verminderen
+of geheel doen ophouden. Dat's goed, uitmun
+
+tend. De beurs verhoogde bereids de vorige
+week, de prijs der exterieurs met l pCt. en
+deze week deed ze de noteering van 84 tot
+85K pCt. vooruitgaan.
+In de groep der koloniale
+cultuurondernemingen vragen de gewone aandeelen der
+Vorstenlanden een ry'zing van43% tot 46 mede
+te deelen. De lezers zullen zich waarschijn
+
+lijk herinneren, dat de Groene een paar maan
+
+den geleden reeds gewezen heeft op de
+byzonder groote afschryvingesommen in de laatste
+jaren by deze maatschappij geboekt. De prefe
+
+rente aandeelen ging van 124 tot 125 h.k.
+vooruit.
+Van de tabaksondernemingen zy'n vele wat
+lager genoteerd, 'k Geloof dat verscheidene
+der deide en vierde rangsondernemirgen den
+i dood nabij zy'n.
+Voor de groep van de amerikaansche diver
+
+sen kan ik verwijzen naar de meedeelingen
+omtrent de Yankee-rails.
+De Steels werden zelfs tot beneden 20 pCt.
+gekelderd. Zou de nieuwe president voor vol
+
+doende afschrijving gaan zorgen ?
+De Mexico- syndicaten, die bijzonder veel
+beloven, zy'n zeifg nu voor 75 pCt. te koop.
+Ten slotte de opmerking, dat ook by' Vrouwe
+Fortuna geen goede tijdingen te verkrijgen
+zijn. S 'hier alle loten toch zy'n wat lager.
+Een beduidend gunstige uitzondering maken
+de 2J4 pCt. Stuhlweiaenburg.
+Lage koersen, treurig en nat weer .... Ia
+plaats van lange reizen te maken, ga men naar
+de Rabenhauptstad, waar voor belangstellenden
+in bedrijf en industrie in mooie vroolyke zalen
+veel te zien is en waar tevens veel gelegen
+
+heid is om, in een opwekkend interieur het
+leed te vergeten en de gezondheid door blydeu,
+gullen lach te bevorderen. Da Groningers
+kunnen vroolyk zy'n.
+- 6
+'03.
+- De
+Kruisstraat 2, Haarlem,
+verstrekt gelden onder eerste Hypothe
+
+cair verband, tegen billy'ke voorwaarden,
+zonder vooruitbetaling van rente en geeft
+4 en 41/3 pCt. Pandbrleven uit in stuk
+
+ken van ƒ 1OOO, ƒ 5OO en ƒ 1OO.
+De uitiotingttkans der Pandbrieven i» zeer
+gering, daar volgens de Statuten het door
+aflossing vrijgekomen geld zooveel mogelyk
+weder op 1ste hypotheek wordt belegd.
+Inlichtingen verkrijgbaar ten kantore der
+Bank en by hare Correspondenten en Agentes.
+WIHIHIIIIIIIinillllllllltltllllinilllllllllllllllllllllllllllllHIIIIIIII
+Om- en
+Rentevergoeding voor gelden £ deposito:
+Met n dag opzegging	3 pCt.
+(Bedragen tot /J.O.OOO terttond betaalbaar).
+Met tien dagen opzegging . . . . 3 H pCt.
+Voor n ja*r fix	4 pCc.
+Voor andere termijnen op nader overeen te
+komen voorwaarden.
+irMr$3?2zig rclg8£2 re§la»
+in de Safe depovit*
+, voor bet bewaren van
+en andere waarden, te
+buur volgen» reglement*
+Amsterdam, 7 Augustus 1903.
+Utrecht, Hamburgerstraat 27.
+Maatschappelijk Kapitaal ƒ 500.000.
+Verstrekt aan particulieren, ambtenaren,
+officieren, kooplieden enz. VOORSCHOT
+
+TEN op langen termijn tot elk bedrae
+van af ƒ 5OO. Amsterdam, amstraat 19.
+'s Gravenhage, Plaats 3.
+BIJKANTOREN Rotterdam, N.havensteeg 12.
+den Bosch, Hinthamerstr. S 9.
+Mr. Dr. W. A. VAN ZIJST, Directeur.
+H. E. KOOPMANS VAN BOEKBRBN, Adj -Dir.
+
+
+Zuider Hypotheekbank
+Ie tëretlit*
+Directie:
+Mr. H. R. v. MAASDIJK en E. J. M. DE BRÜ1JN.
+Gelden onder Eerste Hypothecair verband en
+4 pCt. PANDBRIEVEN in stukken J 1000.—,
+ƒ 500.—en ƒ 100.—.
+{Opgericht 1861).
+Keizersgracht 370, Amsterdam.
+Gestort Kapitaal	ƒ 300.000.
+Reserve	387.000.
+Waarborgfonds	3.000.000.
+Verstrekt geld op billijke voorwaarden op
+Ie hypotheek en geeft pandbrieven uit ren
+
+tende 3}i pCt. en 4 pCt.
+Algemeene Friesche
+Hypotheekbank.
+Hypotheken en 4 pCt.
+Pandbrleven a 1OO pCt.
+verkrijgbaar te Amsterdam bij
+hare Correspondenten, de Firma's
+
+iHeüe&amp;ZiLünJiiDEaff&amp;Co.
+Agent de Heer J. H. \rAN
+DB1V A IV D EL Jr., Makelaar,
+Leidschestraat 28.
+De Directie:
+N. T. ALBARDA, Mr. J. L.v. SLOTEKDIJCK.
+De Hoiiandsche Voorschotbank
+HAARLEM, JANSWEG 42.
+By'kantoren: Amsterdam, Damrak 99
+Nijmegen, Barg-en-DaLckeweg 33.
+De Bank verstrekt golden tot elk bedrag,
+mat een minimum van ƒ OO op zeer aanne
+
+melijke voorwaarden en gemakkelijke aflossingen.
+
+Botterdamsche Hypotheekbank v. Nederland.
+Volteekend Maatsch. Kapitaal ƒ5.000.000.—.
+Reserve ƒ 458.738 75.
+Geeft geld op eerste hypotheek, zonder voor
+
+uitbetaling van rente. Inlichtingen te b t komen
+tsn kantore der Bank, Gedempte Bierhaven 25,
+of bij hare Agenten.
+De Directie,
+Mr. B. MXBB, ED. HOTKS, Mr. W. v. ROSSBM.
+BIJKANTOOR: Prins Hendrikkade 1S9.
+Reserven ƒ3.065.571.58.
+Amsterd. Hypotheek Waarborg Maatschappij
+gevestigd te AMSTERDAM, H eerengracht 136.
+Commissarissen: A. H. Gijsberts, M. van Emmerik, Jhr. Mr. L. E.M \anBonninghausen
+tot Herinckhave, P. B. Bruy'n van Rozenburg, B. Cuperus, Ph. J- Baron van Heemstra, K. F.
+Ludwig, Jhr. Mr. C. L. Rendorp, Jhr. Mr. A. F. de Savornin Lohman.
+Commissie van controle: C. Hellingman, N. Groenendijk.
+Directeur : E. F Blasé.
+Voor zoover de voorraad strekt, zy'n onze niet uitlootbare gewaarborgde 4 pCt.
+Hypothecaire Obligatiën in stukken van ƒ 1000.—, ƒ 500.—en ƒ ioo.—verkrijgbaar
+ten kantore der My\ en by' hare vertegenwoordigers, tegen den koers van den dag.
+DE DIRECTIE.
+
+
+De Twentsche Bankvereeniging
+
+B. W. Blijdenstein &amp; C°.
+HOOFDKANTOOR: Spulstraat 140/144.
+Kapitaal /11.O46.5OO.OO
+Rekening-Courant met Rentevergoeding.
+In- en Verkoop Wissels in Binnen- en Buitenland, Vreemde Munt, Coupons.
+Incasseering op Binnen- en Buitenland.
+Reiswissels en Credietbrieven.
+In- en Verkoop Etlecten. Sluiten van Prolongatie.
+Uitzetten van Gelden op Prolongatie met bewaring van hst onderpand b(i deTwentsohe Trust Ml],
+Bewaring van Waarden. Safe Deposlts.
+Voorschotten op Fondsen, Goederen, tegen Borgstelling, Crediethypotheak of andar* zekerheid.
+Credieten aan handelaren en tndustrleelen bij hare afdealing CaEDi£TVEREENS6W6.
+Rente voor DEPOSITO'S.
+Zonder voorafgaande opzegging	3 pCt.
+(bedragen boven ƒ 50.000.—n dag na opzegging)
+TIen Dagen opzegging	, . . . 3% ,
+Drie Maanden 31A ,
+Zes Maanden ,, 3&gt;i ,
+Een Jaar 4 ,
+
+
+Oranje-Nassau Hypotheekbank,
+
+OPGERICHT 1893.
+Gevestigd te 's-Gravenhage. Kettingstraat 16.
+Gesloten Hypotheken tot 31 December 1902	f 1O,1O7,17O.
+Ontvangen Aflossingen 4,535,738.46
+Pandbriesren in omloop op 5»318,3OO.
+Reae-ves . . , 1902	-3.422,15'2
+Uitgekeerd divid. over 1894—1902: 40/0-7°/l,-7l/20/o-O1/20/o-lO"/()-ll0/0-12%-121/20'n-121/27»
+De Bank verstrekt gelden op eerste hypotheek onder varband van huizen m
+grootere gemeenten en vaa landerijen, en geeft uit 4 pCt. Pandbrleven
+in stukken van f IOOO.—, t 5OO.—en f 1OO.—niet of eventueel met premiën
+uitlotend.
+De Directie:
+J. G. D. WATELER. Mr. A. G. N. SWART.
+Residentie Hypotheekbank.
+te 's-GRAVENHAGE, Plaats K
+Directie : H. E. ABBIJVft A.C. l» K liAXTKK.
+Verstrekt Gelden op eerste Hypotheek en geeft onder Notariëele Controle,
+Hypotheekbrieven uit tegen den koers van 99% pCt.
+3SO, AMSTERDAM.
+Directie: Mr. G. BAGGERMAN, W. M. GASMAN, Mr. S. ZADOICS verstreU gelden onder
+eente hypothecair verband op onroerende goederen en geeft, onder controle van de
+Internationale TrustmaatschappU, te Amsterdam, 4 pCt.
+Hypotheekbrieven uit in stukken van f 1000, f 500 en f 100 tegen den koers van 99K pCt., te
+verkrygen bij de HH. VAN MARREN &amp; MIDDENDORP, MEEKROF &amp; JURRIAANS,
+te Amsterdam, EBBELER PIEK te 's-Gravenhage, VAN DER HOOP &lt;t Co. te Rotterdam
+en ten kantore d»r Vennoottchrip.
+DE KAHEREEMGIM
+Neemt Gelden a Deposito :
+Met n dag vooraf opvragens tegen een rente
+
+vergoeding van ....... 3 pCt.
+(Mits het geteekend opvragingsbiljet wordt
+overgelegd, zy'n bedragen tot ƒ 2O»OOO
+op vertoon betaalbaar).
+Met tien dagen vooraf opvragens tegen een
+rente- vergoeding van ..... 3&gt;i pCt.
+Deposito's op n j aar, 4 pCt.vast. Andere
+termy'nen op nader overeen te komen voorwaarden
+Plaatst voor rekening van har e las tge ver s
+gelden op Prolongatlef onder hare
+verantwoordelijkheid.
+Belast zich met de Bewaring van
+Onderpanden van Prolongaties,
+en in het algemeen met Open en Gesloten
+Be waarneming.
+Verhuurt de in hare Safe-lnrlchtlng
+aangebrachte Loketten aan by haar bekende
+of geïntroduceerde personen.
+Tarieven en Voorwaarden zijn te haren
+kantore verkriigbaar.
+Amsterdam, 7 Augustus 1903.
+lpÊte Amsteriai
+Opgericht 1853.
+Verleent credieten tegen eene rente In
+verhouding tot het disconto der NederL Bank.
+Neemt gelden a deposito, rente than»;
+met l dag opzegging ..... 3 pCt
+l maand vast ...... 3K ,
+Belast zich met incasseering,
+uitbetaling enz.
+Verhuurt Safes roor berging van waarde»
+in hare brandkluizen.
+De Directie.
+
+
+INCASSO-BANKT"
+AMSTEKDAM-ROTTERDAM.
+Volgestort kapitaal f 5,000,000.
+Reserve '„518,199,79
+Rentevergoeding vóór
+DEPOSITO met ONDERPAND
+* met n dag opzegging. . . 2% pCt. 'sjaari.
+tien dagen . . . 3X
+n maand , . . . S1A ,
+Tegen Deposito met Onderpand" wordt een
+geëvenredigd bedrag vaa ter Amsterdamsche
+Beurze genoteerde fondsen met 10 pCt.
+overwaardfs als onderpand onder de Ontvang- en
+Betaalkas al lier, als derde (overeenkomstig
+Art. l*. 08 al. l B. W.) gedeponeerd; de eerste
+storting moet minsters ƒ f 000. bedragen.
+Reglementen zy'a op aanvrage kosteloos ver
+
+krijgbaar.
+* Oier bedragen tot / 25,000.—T»n deposito'» nut
+£én dttg opvragens Jkaii zonder ouz^KKing wordea
+beschikt.
+De Bank verstrekt voorschotten op
+langen term{Jnt tegen billy'ke, voor den
+Geldnemer gunstige voorwaarden en
+gemakk*ly'ke aflossing.
+Prospectus en inlichtingen zy'n verkrijgt»»*?
+ten kantore der Bank, Kelzeragraeltt
+167, Amsterdam, en by' hare Agenten.
+
+Het Wisselkantoor der
+
+Amsterdamsche Bank
+Heerengracht 597-601,
+belast zich met den aan- en verkoop
+van wissels, fondsen, coupons, buitenlandaefc
+bankpapier en muntspecien.
+Eet is geopend op iederen werkdag van »
+tot 6 uur.
+SINGEL 518, Amsterdam.
+DIBEOTII:
+Mr. H. W. J. FOCKEMA, J. E. DE GRAAF Jt,"
+o
+Verstrekt gelden tot elk bedrag op onder
+
+pand van Polis van Levensverzekering.
+e, i?
+a JL
+A n £ T K H » A ?f .
+Neemt geldon &amp; deposito. Verstrekt voor
+
+schot op ongeaccepteerd handelspapier. Verstrekt
+voorschot tegen persoonly'ke en zakelijke zek».
+beid. Koopt en verkoopt buitenlandsche ch
+qnwDisconteert binnen- en buitenlandsche wissak,
+Koopt en verkoopt eflecten op binnen- «e
+buitenlandsche beurzen. Opent cheque-rekening
+met en zonder .rentevergoeding.
+AMSTERDAM,
+bezorgt den IN- en VERKOOP VAR
+EFFECTEN op de beurzen van
+Amsterdam, Londen, Parijs, Berlijn,
+Frankfurt, Brussel en New-York.
+niet winstdeeiinge
+Gevestigd in het Gebouw der
+Onderlinge Levensverzekering van Eigen Hirtfc
+'s-Gravenhage, Kortenaerkade 3.
+Amsterdam RoHn 9».
+Wflnstraal i».
+
+AsrentschannenAgentscnappen.
+Verstrekt Voorschotten op lange»
+ea korten termy'n van af ƒ 500.—tot elk
+bedrag, op zeer voordeelige voorwaarden.
+Verkrijgbaar Obligatiën rentend*
+4 pCt. 'sjaars in stukken van ƒ1000, ƒ600
+*n f 100
+te 's-firavenhage, Nieuwe Uitleg 6
+Geeft tegen 99 K pCt. 4 pCt. P AND
+
+BRIEVEN uit in stukken van ƒ 1000, ƒ 609
+en ƒ 100, en verstrekt gelden onder eerate
+hypothecair verband. Directie:
+Mr. J. C. L. M. VAN Gas en P. J.
+
+</text>
+<image timestamp="2002:08:20:01:08:47.00" size="480175">D2001ZA.TIF</image>
+</page>
+</document>

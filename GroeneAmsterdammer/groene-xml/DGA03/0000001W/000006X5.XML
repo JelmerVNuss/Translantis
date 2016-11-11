@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280915</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Techniek
+en
+Smaak
+zijn degroote kenmerken van
+Het initiatief van de Chandler-ingenieurs, die o.a. het ONE SHOT
+SMEER SYSTEEM en de WESTINGHOUSE VACUÜM
+VIERWIELREMMEN als Standaard uitvoering op eiken Chandler-wagen toe
+
+pasten, brachten dezen automobiel met zijn onvergelijkelijken
+PIKESPEAK motor aan het hoofd der moderne Amerikaansche techniek.
+De Chandler-carrossiers, die den wagen een prachtige lijn gaven
+en geen kosten spaarden, om den Chandler-rijders het summum
+van comfort te schenken, bestempelden dezen automobiel tegelijk tot
+een der fraaiste en meest doelmatige wagens, welke een rijder, die
+hooge eischen stelt, in alle opzichten de grootste voldoening zal geven.
+Zoo juist is de nieuwste creatie der
+Chandler-fabrieken aangekomen, nl. de kleine
+Chandler 8 cylinder. Wederom een wonder
+van techniek en smaak! Chandler brengt hier
+
+mede den kleinsten 8 cylinder, welke aan de
+markt is tegen een prijs, waarvoor nog nimmer
+een 8 cylinder werd aangeboden.
+8 cylinder
+CHANDLER
+Sedan vanaf
+f 4800.
+6 cylinder
+CHANDLER
+Sedan vanaf
+f 3800,
+Imp. voor Noord-Holland:
+AUTOMOBIEL MAATSCHAPPIJ
+Weteringschans 103, Amsterdam. Telefoon 34353,
+
+</text>
+<image timestamp="2002:09:05:06:52:02.00" size="86355">000006X5.TIF</image>
+</page>
+</document>

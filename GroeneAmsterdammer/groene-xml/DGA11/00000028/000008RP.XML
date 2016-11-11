@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+17
+een glaasje stout
+klein geld had ik zeg dat had die meneer met zijn gouden band
+om zijn' arm, in mijn album geschreven en er was een bundeltje
+vergeet-mij-nietjes bij geplakt.... hoe vindt u zoo'n huichelaar? Een
+zilveren knipje met zeker drie guldens er in en wat kwartjes en dub
+
+beltjes. Maar het zal hem er naar gegaan zijn. Een half jaar later las
+ik dat een stuurman bij de groote vaart door inboorlingen in Indi
+was opgegeten en ik mag een mensch niets kwaads tocwenschen en
+daarom hoop ik dat hij die inboorlingen niet te /waar op de maag
+heeft gelegen.
+Ik blacbr verder in mijn albiim en daar staat met mooie trekletters:
+Wel foei, een vou\vt]e op dit blad
+En bovendien nog vastgeplakt
+Geloof mij, Ali, beste meid,
+Het is voorwaar geen'
+Maar 't is dat ge onder al uw vrinden
+Mij het eerst terug zult vinden".
+slordigheid
+En onderteekend met.... maar dat doet er niet
+toe. Hij is nu netjes getrouwd en zal wel grootvader
+zijn. Ik heb wel eens van meneer Stanislafski ge
+
+hoord dat de politie er een zoogenaamd zwart boek"
+op nahoudt, waarin alles omtrent de boeven staat
+opgeteekend en ik moet zeggen, dat ik aan dat boek
+begon te denken toen ik zoo bladerde in dat ver
+
+geelde album dat net rook als sommige kransen
+op een kerkhof.
+Je vraagt je als vrouw af hoe iemand met zoo'n
+zwarte ziel zoo'n mooi gevoelig versje kan maken en
+hoe lief:
+Wel foei, een vouwtje op dit blad....
+U hadt dien meneer met dat vou\vtje in zijn ziel
+moeten kennen toen ik hem onder het oog bracht
+dat hij bezig was te trachten onder al mijn
+vrinScheel van nijd . .
+den zoek te raken en ik heel wat moeite gedaan had om hem terug
+te vinden. Niet dat er iets gebeurd was dat. . .. enfin.... maar
+een vromv hoeft zich toch maar niet altijd om den tuin te laten leiden
+als ze wat al te goed van vertrouwen is. Hij was bediende bij Migny
+in de Kalverstraat, bij wie mevrouw zaliger zich altijd liet kappen
+als er wat bizonders te doen was. Er werd toen nog niet gepermanent
+en iedere vrouw die wat in de melk te brokken had, droeg, bij haar
+eigen haar, ook nog haar van een ander, en ik weet nog dat ze in de
+keuken scheel keken van de nijd toen Krancois want zoo heette de
+kapper mij a la Eédora" gekapt had en toen hij er mee bezig was,
+hoorde ik hem achter mijn rug zeggen: ,, wat heb
+je toch een mooie, blanke hals, veel mooier dan van
+menige dame uit de Bocht" en meteen. ... er loopt
+nog een rilling van woede over mijn rug als ik er
+aan denk, gaf hij me een zoen in mijn nek en om
+
+dat ik een kapmantel omhad, kon ik hem geen
+labberdaan op zijn wang geven.
+Drie maanden lang hadden we zoo'n beetje
+losvaste verkeering en telkens als ik zei dat ik nu einde
+
+lijk wel eens haring of kuit wou hebben, had hij weer
+een andere smoes en ik weet het nog als de dag van
+gisteren, dat hij op 23 September jarig was en ik gaf
+hem nog een mooie meerschuimen pijp met drie, een
+beetje bloot gekleedc, zeemeerminnen er in gesne
+
+den, die hij moest doorrooken en ik deed er nog wat
+extra fijne Portorico bij en, u zal het niet willen
+gelooven, maar zes weken later was hij getrouwd met
+Mina, onze schommelige keukenmeid, die een dik
+spaarbankboekje had en is hij voor zichzelf in de
+Pijp begonnen, die toen net zoo'n beetje in op
+
+komst was en ik weet nog best dat ik met een
+kameraad op een avond in de Gerard Dcustraat
+
+</text>
+<image timestamp="2002:09:22:11:43:26.00" size="139083">000008RP.TIF</image>
+</page>
+</document>

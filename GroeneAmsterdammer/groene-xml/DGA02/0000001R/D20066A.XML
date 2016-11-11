@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270702</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+LUCHT- EN RADIOVERBINDING MET INDIE
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 2 Juli 1927
+Nadruk verboden
+Amit. Boek- en Stetndr. v h. Ellermtn. Ka&gt;mi (• Co
+Waar eens verbeelding hare vleugels sloeg.
+Om zich vol hoop in 't eindelooze uit te breiden.
+Drijft, instrumenten, gij met mij den spot.
+(Goethe's Faust)
+
+</text>
+<image timestamp="2002:09:25:13:08:23.00" size="160480">D20066A.TIF</image>
+</page>
+</document>

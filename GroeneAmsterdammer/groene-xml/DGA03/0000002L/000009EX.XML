@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300726</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+IN GESLOTEN D002EN
+VAN 6 STUKS
+Kunt ge U de sensatie voorstellen,
+die ge ondervindt bij het hooren
+op de gramofoon van Uw eigen
+stem, de door Uzelf gesproken
+woorden?
+En stelt ge U de mogelijkheid eens
+voor om Uwe familieleden en vrien*
+den in verre landen Uw stem toe
+te zenden, de eerste spreekpogingen.
+van Uw kleine voor altijd vast te
+leggen!
+Dit alles is thans mogelijk door het
+
+PERMADISK
+
+APPARAAT
+dat van heden af in onze Gramo*
+fbon*Afd., 2e etage in werking is.
+Gij spreekt even voor een microfoon.
+Onmiddellijk is de opname gereed
+en kunt ge de plaat meenemen.
+De Permadisk*platen kunnen op
+elk' gramofoon;apparaat weerge»
+geven worden.
+Grootte
+13 cM.
+16 cM.
+19 cM.
+Duur
+per zijde
+3 /t min.
+l'Amin.
+2'/2min.
+1
+zijdig
+1.00
+1.50
+2.50
+2
+zijdig
+1.50
+2.00
+3.00
+IEHKORT
+De cacaodrank.
+Wordt gedronken met melk of spuitwater.
+Houbaerilios 2% et
+Sigaren . . 5 et
+Met boAs voor fraai»
+geschenken
+AUG. UILKEMA
+GROOTSTE HORLOGE MAG,
+Zilver fl. 8 tot 40
+Goud 16 ,, 250
+Briüant 60 ,, 585
+Stopwatch 12 ,, 6G
+Sport Horl. 25 28
+Reguliersbreestraat 39
+werkelijk lekker.... die
+Garltons van l'atria. lic
+l.it nieuv.-e linuelsehe
+bukwerk. dat I-Mly /oo hee: lijk \ on
+smuuk die heetu !)
+e .... noir meer hebben ....
+eentje innu.it ji| liet hent .
+
+en dun neem ik nm-... . s KI|K
+
+t vT()iiv\t|f houd; \;in /(.et	u probeert /.e tueli ook
+
+C.irhons". ... ]S tent per ons; blik nu. I t'l.--.
+o n vi-rrukkeli]ke ..B.iton"
+
+n .... een ,,Kr;lkelini'".
+'W
+KIPS &amp; C2.
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen, J
+AUTOGENE '-.ASSCHING
+Geeft L'w zoon, wanneer liij
+door zijn examen is, een
+Bïreau-ministre,
+Ktïijd* vanaf t 55.-- ,
+MOZES KNAP N.V.
+O u dt Hooi;:.traat l, AnisKTihü.
+
+</text>
+<image timestamp="2002:09:25:22:50:57.00" size="314924">000009EX.TIF</image>
+</page>
+</document>

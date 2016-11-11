@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270108</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzo.
+HOFLEVERANCIER
+ION 194 over de Ned. Bank
+TtWoon «240. «971
+Vischrestaurant
+Visckhandcl
+Loodon, Ao 1714. Verzekering tegen
+INBRAAK-.
+WATERLEIDING- EN
+j. STORMSCHADE
+v f l A, D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+N CENT PER HALF ONS
+: C
+. V, ^M«&gt;ut«lm agaztjn .
+MQLSTEEG-AMSTERDAM
+OBKENKASTEN
+•"V?
+1*
+M.V
+* GOUDA
+A, van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd »edert 1810
+Prinsengracht 975
+TELEFOON 37706
+Vraagt Prijscourant
+PROJtCTIE UNTAARNS
+EN BIOSCOPEN
+
+CAPI
+AMSTCRIMiN DEN HAAG
+119 KALVCRSTR- 124 NOORDQNOC
+NIJMEGEN GRONINGEN
+. 3
+t/o LIBERTY
+DELH/CHE-PO/T
+ONOVERTREFBAAR
+Alom verkrijgbaar
+Firma Claus 6 Fritz
+(Gebn. VAN MAARE)
+Heerengrachit Ml
+FABRIKANTEN VAN
+OHe- en Waterverf
+Schfliitrpapter, linnen
+VRAAGT ONZE
+STUDIE VERF
+08*11611
+Nn.A.KLO05TErtl1UIS
+AMSTERDAM
+' LtS TIMP3 NOUVIAUX"
+BRONZ^S
+SNELBLUSSGHER
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 28 ATM..
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+SPANJAARD &amp; Co.
+FABRIEK ESPANA
+UTRECHT
+Meobcloi a««r ngtn «ntwerpea W maar ou&lt;l«
+
+ARNOLD HOUTSCmLT
+Singel 285 Amsterdam
+hall - marked
+superb
+(\BDUIM SUPERB CIGARETTES,
+SMOKINÖMIXrURE.DRJBACOTlPES.
+ABDULU) &amp;Ca.Lro.. !73iNEWBOND STREET.
+LONDCJN.W1.
+j Tl MTU R j
+
+</text>
+<image timestamp="2002:09:24:20:25:53.00" size="257823">D2005N9.TIF</image>
+</page>
+</document>
