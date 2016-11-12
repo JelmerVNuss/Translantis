@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001118</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NQ.I 1221
+D E A M S T E U D A M M E R W E E K B L A D V O O R N E D E B l, A N D,
+Het verbod van weekbladen te bezorgen op Zondag.
+Chineesche Arpeggios (harpslagen). (lischietto).
+IL FISCHIETTO
+
+Arpegxio chinese
+Ieder voor zich ia goed van geluid, maar te samen vormen
+zy een dissonant, die zeer moeilijk op te lossen is.
+Het grootboek. (Le Jlire).
+CiiAjir.Eur.AiN (krabbend): »Satansch papier—ik kan
+die laatste kwaje posten van me maar niet uitkrabben."
+De nieuwe minister. (Punch).
+
+£7."^^-^-_.__ .__	--____ "3
+|
+Mi.iNiii.iin: »Bn waarom geen weekbladen, post, als je me mi toch de rest brengt?"
+BODE: »Ja mijnheer, juist in de weekbladen zien ze in den Raag gevaar voor... mijn Zondagsrust.'1
+
+Nicolaas, de vredelievende, (Uil-).
+
+\
+wil Mandsjoerye niet veroveren, maar door spoorwegen onsluiten.
+
+Het einde der komedie. (Figaro, Weenen).
+i aai, veuig ! de eerste trein komt !
+
+LA\VXSDOWNE (de opvolger run Lord SuJiauury): »De baas
+zegt, dat hij dit pak r.int meer gebruikt; wel, ik geloof dat
+het mij uitstekeid past '."
+De held van het stuk wordt, ondanks al zyn roem, door iedereen uitgefloten.
+De Russische beschaving in China. (Fischütto).
+
+</text>
+<image timestamp="2002:08:15:07:14:23.00" size="402804">D2000P5.TIF</image>
+</page>
+</document>

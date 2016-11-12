@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301025</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V.v/h. GEBRS. MERENS
+HAARLEM
+Filialen
+AMSTERDAM GRONINGEN
+f
+Kromme Waal 22 Lutkenieuwstraat 29
+
+Echte Rubbervloer en Trapbedekking
+ONVERSUJÏBAAR - JfflPT GELUID •• HYGIËNISCH
+HET VERSCHIJNEN VAN
+HET NIEUWE BOEK
+VAN
+INA BOUDIERsBAKKER
+
+DE KLOP
+
+OP DE DEUR"
+heeft ons aanleiding gegeven een
+TENTOONSTELLING
+te houden van alle verschenen werken
+van deze geliefde Nederlandsche
+schrijfster.
+
+Tevens stellen wij ten toon een aantal
+interessante FOTO'S, MANUSCRIP
+
+TEN, DRUKPROEVEN, ENZ.,
+welke door Mevrouw BOUDIER
+BAKKER en de firma P. N. VAN
+KAMPEN welwillend zijn afgestaan.
+DEZE INTERESSANTE
+TENTOONSTELLING
+WORDT GEHOUDEN IN DE
+AFDEELING BOEKHANDEL
+TWEEDE ETAGE
+Engelsch Plated (verzilverd)
+
+Grocnteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Tafelkpels en Vorken enz.
+Prijzen op aantrage
+
+Arnhem - ZIJLSTRA &amp; RUPP
+Soeplepels
+Een feestdisch lijkt \
+
+zoo blinkt het aamast, zoo glanst het porcelein, zoo glinstert Ket
+taf^lgerei... Dat komt door Ket wondere licKt, waarvan Kier
+profijt is getrokken om Ket aanrien van een festijn te geven
+aan wat anders een doodgewone gedekte tatel zou scKijnen.
+
+Zilver is Ket liclit van Argenta, dat - Koe Kelder ook
+zaclit Klijft, en goed voor de oo«en.
+
+HeKt U ai roo'n PK i lip s ,,K u i .s j e vol liclit ?
+Argenta
+met Jen ball
+on van m e
+as
+Abonneer
+U
+op:
+De Groene
+Uitknippen '.-n \eiMc.int in brieiomshm ,ii- .iiukwcrk nirt
+l
+
+i Aan de Administratie v fin ,,Ue OVurne Arnsierd
+
+i At'/zeritJrac/i/ 35.5 Amsterdam i_.'.
+
+
+l ndcr^cicckcndc wcnschi ^n.:h 'c bonnecrert
+, op iifii .''.n&gt;/&gt;c;n/cn /.•;&lt;/'•',,'.;,'/•.; ,.!)(.• (,7/"(
+;&lt;•/;;.Ains!i.'!'!/(iinn'icr /,-;.!(-n &lt;;&lt;•;! Ah'&gt;nnf?ncnl.•-,•!••//-.
+i •'ai! .! ' '
+
+</text>
+<image timestamp="2002:09:22:06:43:51.00" size="239574">000008M5.TIF</image>
+</page>
+</document>

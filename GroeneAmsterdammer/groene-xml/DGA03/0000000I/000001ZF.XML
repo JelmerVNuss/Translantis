@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19090718</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER WEEKBLAD YOOR NEDERLAND.
+K-o. 1673
+Gids voor Buitenlandsche Hotels, Pensions, Uitstapjes,
+A KEU.
+HOTEL BERLINER HOF
+Bahnhofstrasae &amp; Direct aan 't Hoofdstatien. Mooie kamers van af 2 Mark.
+LWVnPÏWf H f'' WCT3 Kunstieiï.naastdëYiaainsche opera. 5 min.v.h. station. Bad.
+HU l HL WÏRun tn , Electr. lioht. Centr. verw. Lift. Tel. 4027. Eamera v. af fr. 3.50
+m. ontb. Diners T. af fr. 2. . Ten zeerste aanb. T. Hollanders. Eig. J. CASSIEBS.
+
+' BADEN BABEJf.
+HOTEL mm
+op het beste gedeelte, 2 min. van Knrhaua. Modern
+comfort. Pension billijke prijzen. Het geheele jaar
+geopend. Eig. TH. MÜLLEE.
+BRUGGE.
+vereerd met het bez. v. H.M. de Kon. Moeder. Allereerste
+rang. Centr. verw. Electr. licht. Pracht, hal en gr. Tuin.
+Kamers m. bad. Wed. E. H. BUSSEL, onder leiding v.d. eig.
+mm wmi
+aan het station. Modernste Hotel van Cassel. Lift.
+Electr. licht. Bier- en WJjnrestanrant. Kamers van af
+M. 8.—. Eigenaar WILH, KEÖQKE, Hofleverancier.
+B R E «t 1&gt; E N.
+(hernieuwd 19O0).
+Grand iiifiii Hotel
+Wereldbek. voorn. Hotel v. d. allereerst. Tang. Gelegen in het fijnste ged. der stad, aan
+Bismarckplatz en Hanptbahnh. Appartem. en kamers m. bad. Centr. verw.Lift. Turn. Garage.
+Kg. 4.. BEOHBB, ook eig. Tan Vroeger dir. Hotel Bristol, Napels,
+Grand Hotel Imperial Chamonix. Excelsior Palace, Palermo.
+a. d. ttfjn.
+Hotel i» tang met mod. oomfort.
+Biliyk* prya*n. Oroot restaurant.
+Auto Qarag». Groothand. inW(jnen.
+Park HoteLdr.
+Ie Klas TVvJnrestanrant verbonden met
+een prachtig Zomerterras.
+KMTBMMI Hotel, met aienwste
+ingericht. Appartementen met
+toilet- en badkamer. American Bar. In
+het mooiste gedeelte der stad, tegenover
+de Hof-Gurten". Veel bezoek van Hol
+
+landsche familiên. Anto Garage.
+Hotel
+
+Rautenkranz".
+Uitzicht op den. Wartbnrg.
+Oud-voornaam Huis. Opnieuw verbouwd. Met alle comfort. Fijne
+Franse hèkeuken. Auto-garage.
+"W. OPPEBMAXN, Hofleverancier. Groothandel in Wijnen.
+BAD PBIËDKICHRODA
+Herzogl. Park Hotel.
+Station "Reinhardsbrann. Deftig Familiehotel.
+Ie rang. Mooi, rnstig gelegen midden in een
+keerl. tooseh. I)oor HolL Fam. veel bezocht.
+Billijke prezen. Proep«ctn» gratis en franeo.
+Dorp
+1. d. bergen
+i. e.
+Inl.: d. de .Verkehrsverein."
+(VierwaldstadterKee
+Hotel en Pension Muller,
+1« rang familiehotel met alle comfort. Door
+Hollanders ten zeerste aanbevolen. Pros
+
+pectus gratis en franco. Eig. ALB. MÜLLEB.
+GENUA,
+GENUA.
+Hotel Royal &lt;.i&lt;niila). Tegenover liet station en nabij de
+haven. Electr. licht. Centr. vei'Tvarm. Allo comfort.
+Hollanders ten zeerste aanbevolen. Eisen. QEBKS. EODINO.
+GENUA.
+Hotel de laVllle. Naar het zuiden gelegen met prachtig uitzicht
+op zee en omgeving	Vroeger Palazzo Fiesco. Dnitsch Hotel
+Ie R. Met alle comfort. Duitsche Eigen. WAT.THEE &amp; OESTERLE.
+International Hötel-Tslegraafcode voor kamerbsstelten.
+l kamw
+l
+l
+l
+kamen 3
+l bad	Alba.
+9 persoombed. . . . Albaduo.
+3, bedden. .' . ... Arab.
+3
+Abeo.
+Belab.
+Birac.
+Bonad.
+Ciroo.
+Oarid.
+Galde.
+Caduf..
+Casag.
+Danid.
+Dalme.
+Danof.
+Dalag.
+Dirioh.
+Durbi.
+Kinderbed	Kind.
+Salon	8al.
+Privaat badkamer	Bat.
+Bediende kamer .	Serv.
+
+
+AANKOMST.
+Tasschen 12 n. 's nachts en 7 n.: Granmatin.
+. 7 nnr en middag: Matin.
+. middag en 7 nnr: Sera.
+» 7 n. en 12 u. 's nachts: Gransera.
+VERBLIJF.
+Eén nacht	Faas.
+Meerdere nachten	Stop.
+Afbestelling	Cancel.
+Mooiste vrjje kamer ..... Best.
+Goede » Bon.
+Eenvoudige ..... Plain.
+BASEL
+Centraal punt van midden
+Europa. Interessantste
+stad aan den Rijn.
+Hoofd- stad der zjjdeindustrie,
+-»•—•—•—••—beroemd om haar uitmun
+
+tende onderwijsinrichtingen als: Universiteit, gesticht
+1459, Mnzieb-, Kunst- ea Imlnstr'Iesclioleii.
+Prachtvolïe Promenadewegen.
+Alle Hollandeche tourüten die Zwitterland bezoeken, officierenen beambten op hun
+reiêvan en naar Ned. Indië, wordt een oponthoud in Bazel ten zeertte aanbevolen.
+Aan 't Ccntraal-Stati»n bevinden lich de act allen tomfurt ingerichte 4 k Rang Hotels:
+Hotel Univers.
+Hotel Victoria &amp; National.
+Hotel Euler.
+Hotel Schweizerhof.
+aan de Bodensee, 4OO M. b/d. Zee.
+Hotel Bayeriseher Hof,
+Ie Bang. Prachtig gelegen aan het meer. Modern comfort. Auto garage. Tnsschenstafion
+TOOT reizigers naar Zwitserland, Engadin, Tyrol, Italië. Direkte wagens van Amsterdam,
+den &amp;ug, Emmerik, Lindau. Eigenaar W. SPAETU.
+HOTEL METROPOLE
+L, U ZE
+O-rand Hotel TlvolL
+Familiehotel van den allereersten run g. Appartementen niet bad.
+Enfcelc kamer van af fr*. 4.—l'cnslonprüs. • • fr&lt;. O.
+Dubbele ,, S.—Juli eu Augustus.
+12.LIJZERJtf + Schiller-Hotel gami
+:«aby het Station, tegenorer de nieuwe Kantonalbank.
+Alleen kamera met ontbot. Mooi, rustig gelegen. Lift. Centr. verw. Vestibule.
+Lees- «n Damessalon. Electr. licht. Kamers met private hadkampr. Kamers
+van 2—4 francs. Ontbijt fr. ;.25. Eig. El). LEIMGRU15ER.
+MONTBARRT canton Freibnrg bij Bulle, Zwitserland.
+BAD HABKSÜRG.
+HOTELBELLEVÜE.
+Grand Hotel Kurhaus.
+Hotel Ie rang tegeno. het Badhats en nabfl
+h. boseh. El. licht. Oentr. verwarm. Modern
+mger. Frosp. grat. en fr. Big. B. BOHLIHX.
+Zomerverblijf bij nitnemendh. Dichte
+bossch. Auto. Bergtoohten.
+Eig. Mme J. BETTCHEN.
+M O N T K E U X.
+Het dichtste b/h eikenw. gel. voorn. Familiën-Hotel. Pension, j
+met inbegrip van kamer, vanaf M. 3 ó'i. In Juni en Hept. ver- i
+miaderdepryzen.Iooiisteukamers van af M. 1.50. Prosp. gr. eu fr. bij eigen. H. BÜCHUEISTEK. i
+Splendid-Hotel. g
+amilie Hotel. Modern comf. Tegenover da aankomst
+reinen en in de naiiiih. van 't station. Centr. ligrrin(1'.
+.lestaurant. Diverse bieren v h vat. O. LEIBBUASB.
+Wtldpark Hotel Belvédère,
+Hotel Ie rang, direct aan bet bosch gel.,
+met beerlek uitz. Electr. lioht Lift. Centr.
+verw. Eleg. convers. zalen. Prospect, gr.
+•n fr. Eigen. OTTO SÜDEKÜM.
+Hotel Harzer Hof.
+Eerste rang familiehotel, gelegen aan de
+hoofdwnndeiweg. l Min. van het Bad- en
+Knrhuua. Billijke prezen. Electr. licht.
+Eig. F. BOD*.
+MOKTREIJX, TKRKITET (Zwitserland).
+
+Grand Hotel Excelcior &amp; Boi Port. HOTEL DE HOLLANDE.
+Modern comf. 200 kam. m. badk. en toil.
+2 Lift. El. licht. Centrale verwarming.
+Prachtvol gelegen aan do rand v. h. meer.
+Prospectus op aanvrage. De directie.
+Huishot. Ie r Pracht, aifz. Niet dicht a h.
+meer. Matige prijzen. In Juni, Jnli en Ang.
+wordt zelfs bij vcrb!. van l dag pens. prys
+ber. Port. stat. Territet. Hol!, dir.
+E U E N A H K.
+In het prnclidge Ilsetal aan de voeten van de Brockem.
+Hotel zu den rote
+Pryzer,. Pro?pectn3 gratis.
+lo Hang. Pension, Lift, Centrale verwarm.,
+Electrisch licht. Alle soorten Baden Civiele
+Eigenaar CIIR. SCUIIEIBEK.
+en Hotel Pmnzess Ilse.
+Gelegen in het park, Dependence en Badbulirilla, Dalkonkameri, Electr.
+lioht. Groote tuin en parkwegen. Terra«sen en Waranda'* aan denForellenrU^er.
+Beide hotels zijn beroemd om hun voortreffelijke keuken en aangenaam verbl(jf.
+Wordt door Hollandsche familien bij voorkeur bezocht. Pension Billijke prezen. Uit
+
+voerig prospectus gratis eu franco.
+Eigenaar FEITZ LIOHTENBEBQ.
+y Schaffïtansen (Zwitserland).
+Kurhaus en Hotel Schweizerhof.
+Eenigste Ie rang Hotel van de plaats tegenover den Kijnval. Groote parkw. met speelpl
+Electr. verlichting van den waterval. Moderne bidinric/itinr;. K'cctru en hi/Jrothcrapliie.
+Fango ui Eattaglia. Billijke prezen. Pensionprijzcn van af 3 dagen. Dir. C. SCIIOBEL.
+
+P O X T B E IS I K A. K X U A J» I Xl
+fiote! de l'Europe.
+Hotel Ie rang, tegenover het station. Naar alle eisohen des t(Jds icgorioht. A. HAXBKUJX.
+
+Hotel Zur Goldenen Sonne,
+tegenover het station, met Tuit- en Kestaurant terras. Electrisoh licht in alle kamen.
+Centrale verwarming. Lift . Eigenaar OARL BEER.
+Eerste rang Zomer- en Winterseizoen.
+
+Eigenaar en leider
+
+LORENS GREDIG.
+a Tlmnersee (Zwitserland).
+Eden Hotel.
+Best gelegen familiehotel. Nieuwst*
+oomfort. Kamers vanaffrg 8.—. PensioB
+van 8—14 frs. Eigen.' A. BUEOL
+Eerste Mas Zomer- en
+Wintersportplaats.
+OBERENGA.DIN, ZWITSERLAND.
+Ie Bang. Het mooist gelegen Eotel aan den Hoheweg en Kurgarten. Arrangements voor
+Pension voor langer verbluf. Door HolL families veel bezocht. Prospectus wordt op
+aanvraag gratis ta franco toegezonden door da eigenaars En TZÜBIS en Wmra
+Ie B AA G.
+JOH, STOPfANI.
+B E R L [J
+Hotel dlon.
+Unter den ' l *"T"P l ' * T" "T"~T"TvT" w"11
+SrandenLinden l JZJ-OJ-Cx*JL_jJ_&lt;J JLN irarger Tor
+Voornaam gelesren nieuwste comfort, kamers yan af 6 mark.
+Hotel
+Coburgf"
+In bevoorrechtste ligging van Berlijn, dlre««
+bU bet Matton Friedrlctmtraime (»»»•
+honmt uit Holland). 80 Kamera met 1M
+bedden. Voorname gezelschapsvertrekken. El»^
+trisch licht. Centraleverwarming. Lift. limtif»
+prijzen. EBN8T KEI8IG, Eigenaar.
+RAGAZ.
+Hotel en Pension
+Klimatlscb Kuuroord, 750 M. boven de Zee, 250 M. boven Bagaz, prachtvol gelag»
+Bergspoor van Bagaz. Het gebruik voor de Knrgaeten gratis. Diat: tafel. Zon-koolzUF
+en Zuurstof Sool en arom. Baden. Massage en inpakken onder leiding Van doktor»l(f
+Qeïllastr. prospectus op aanvraag gratis en franco. _ Eigen. BuBgB-Bna».
+S T.M O R l T 'A,' (EXU AD1N, Zwitserland).
+Hotel Belvédère.
+Yoornaain Hollandsch Familiehotel.
+Het mooist gelegen. Geïllustreerde Prospectus met Hollandsche tekst gratis en frsna
+
+Schweizerhof-Chateau,
+bekend Familiehotel len rang. Nieuwste comfort.
+SAMADEX (Engadin, Zwitserland).
+f? o tel B er n hi a.
+Eenigst familiehotel Ie rang in de plaats
+lo Min. van St. Moritz en Pontresina.
+Zomer- en Wintersport.
+SCHIERKE (Harz).
+Hotel van den allereer.iten rang Prospeota»
+gratis en franco door de Directie.
+SCHAKDAU.
+Dampfschiff Hotel, llolel en Pensbn Lindcnhof
+Bestaur. m. schaduwr. tuin. Pracht, gel. m. [ met fijn restaurant. Hotel Ie rang. Vow
+uitz. o. d. Elbe. Bad, Elec. licht. Kamers v a. naam, rustig gelegen. Het geheele jaar ft»
+M. 1.50. Pension v. a. M. 5.—. F. A. KOHDE. opend. Eig. B. PÖHLI».
+SPA (België).
+Uutnilio Poncifn Verhoogde prachtige ligging midden in een gr. Tuin. Pryi««
+TfllUllJC rCHMUil Toor en na seizoeutyd billyker. Pryzen 3de Etage 7 fr. per da*.
+Chateau Belvédère. 2de Etage 8 fr. p. dag. Ie Etage 9 fr. p. dag. Eig. M. CAMisica.
+/vxi i m-iTi iriAmn» TV TI cv w\ i¥i»Tr&lt; Kestaurant francais du rocher i»
+ORA1\D HOTEL DES BA1IS. "^^^sssiaar
+SPIEZ (ani TItnnersee).
+Grand Hotel en Spiezerhof.
+Geh. vernieuwd en vergroot. Eenigste HoM
+aan het meer. Allen comf. Lift. Centr. vent.
+Omnibus aan het station. Groote tuin.
+T H DN (Zwitserland).
+Tiotels Vicforia-Baumgarten.
+Geheel nieuw ingericht 'Familie-Hotel Ie Rang. Prachtig, verhoogd, stofvr(J geleg*
+met uitzicht op het gebergte en de gletscher. Veel bezocht van Hollandsche familie*.
+Lawn Tennis. Bad. Lift. Groote terrassen. Omnibns aan het station.
+TRlBEIt&lt;J (Schwarzwald) 715 51. b. d. Zee.
+Schwarzwaid-HoteS u. Kurhaus Waldiust.
+Hotel allereersten rang met alle comfort., 2 Liften. Heerlijk boschrijk gelegen b(j den
+Waterval, 40 M. b. d. stad. daiage. Pension. Appart. m. Bad en Toilette. Geïll. Prospectoa.
+Eigenaar K. BIERINGER.
+
+r»Arnr»w rkwn w TiïTWTm Hotel Ie rang, geheel naar eisohen des tijds ingei.
+Uil I li t IIK l l II t l ir Heerl., rustig gelegen in de onmidd. nabijheid v. b.
+Il" l UL DÏJULIJÏiilJ» bosche.d. waterv. Allen oomt.Civ prijz. E.KoTZisaBm.
+
+Hotel en PensioüEng'eL
+Familieholel met alle comfort, in de nabijheid van de»
+waterval en het bosch. Prachtig uitzicht. Beschad. terr.
+Omnib. El. licht. Centr. verw. Pen», v. 4—6 M. 7u bedi.
+Het geh. jaar geop. ll'-inlcrfport. Eig.
+Op liet mooiste punt aan de Knrplatz, Als uitstek. Hotel
+bekend ea vold. a alle eisclien. Fijne keuken. Goed gemeub.
+Parktuin. Anto garage. Het geh. jaar geup. li'interxport. Geïll prospectus grat. en franco,
+HOTEL WEHRLE.
+THAI.K &lt;Harz).
+'ri1—n-Ti TT T^
+Motel Daheim en
+
+Villa Helena.
+2 Min. v.in het station en Bodpnlhal.
+Electr. licht. Pension van af M. 5. ,
+inclusief kamer. Bij voorkeur door
+Hollanders bezocht. Portier aan het
+station. Eigenaar E. EOSE.
+WIESBADEN.
+Voornaam famijiehotel met nieuwste inrich
+
+tingen. Telefoon, warm en koud water U
+eiken kamer. Schikkingen voor Pension.
+iotel WILHELM.
+Eersto rang. Termalbaden uit eigen brom.
+lTZXAiJ (Kigibahn, VierwaldstJidtersee).
+Hotel Vitznauerhoft
+'
+gratis en franco.
+W E R XI G E K O 1&gt; E.
+Knauf's Hotel en Pension.
+bezocht door Hollinderg,
+RI C H.
+Hotel Schwert
+Verrukkeiyk mooi uitzicht op het meer «
+de Alpen. Allen comfort. Kamer* van af
+frn, 2.60. Big. H. QÖLBDT
+GrOociliLoo&gt;j&gt;aito
+LLAI%T
+j&gt;reic-tisola.o Soz-io IFleistooels.©».
+Kaarten van Rijn, Moesel
+.J
+PRIJS
+•B «r
+ME
+»K HAIfiZ met groote Eaart. .
+»E TAUIXIIW met groote Kaart. . . ««&gt;
+AROKIVüVEl' met groote Kaart. 6O
+Brussel, Spa en de
+Zeebadplaatsen met Kaart en
+Plattegrond. . . . 6O
+PRIJS
+K.|jEKF met Plattegrond	fi«* c«s.
+
+iWAIjl*mKSr0t.
+KI¥met groote Kaart. . &lt;M
+
+
+PARIJN met Kaart en Plattegrond. C«
+PRIJS:
+B EK f U .V met Kaart en Plattegrond. 6« c&lt;s.
+i' met Plattegrond. .... 6O ,,
+]!¥met Kaart eu Plattegrond. C» ..
+Al deze reisgidsen zijn eveneens
+verkrijgbaar in stevigen band
+A
+cl
+r&gt;-fc«
+L&gt;to*
+Uitlaten» VAN EÖLKEMA &amp; fARENDOEF, interin.
+
+</text>
+<image timestamp="2002:08:16:11:17:23.00" size="396361">000001ZF.TIF</image>
+</page>
+</document>

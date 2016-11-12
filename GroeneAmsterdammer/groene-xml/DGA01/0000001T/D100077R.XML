@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260109</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENBJAMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2536
+Goede Radio
+
+Ontvangst
+alléjén mogelijk ^met goede Toestellen n.l.:
+Sterl-ing" Ontvangtoestellen
+E'rres" Ontvangtoestellen
+Vraagt Inlichtingen:
+
+HANDEL-MAATSCHAPPIJ
+
+R S, STOKVIS 6 ZONEN
+Afd. Radio
+
+AMSTERDAM
+
+ROTTERDAM - GRONINGEN
+ZAL IK MIJN WONING
+INRICHTEN, EN TOT
+WELKEN PRIJS?
+VRAAGT ONZE SPECIALE
+MEUBEL-CATALOGUS
+EN BEZICHTIGT ONZE
+36 MODELKAMERS
+DAN ZAL DEZE VRAAG
+VOOR U OPGELOST ZIJN
+Groote Januari-Opruiming
+Restanten Bed-, Tafel- en Huishoudlinnen, Restanten Lingeries
+Ziet de etalages Ziet de etalages
+
+AUG. KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+VAN 10 JAN UARI
+TOT 20 FEBRUARI
+
+O % KORTING
+OP ALLE STOOM- EN VERFPRIJZEN
+ONZER PRIJSCOURANT 1925
+
+PALTHE
+WIJNHANDEL
+GERBRANDHOFFMAN
+Amstelvecnschewcg 218 220
+TEL. 21367
+Speciale aanbieding van
+Orig» Chateau Wïjnen
+Chau Palmer	, ^
+Chau Margeaux . . . . | ~
+Chau Léoville	' =
+Chau Vedrines 1918 . . i ~
+Ch"u Armand Jouan '18 . \^
+Chau Montrose . . . . ,»
+
+Bourgogne Wijnen
+Macon M B. . f 1.50p.fi.
+Beaujolais 1.65 ,,
+Per 12 fl. 5°o korting
+
+</text>
+<image timestamp="2002:09:24:20:03:45.00" size="95488">D100077R.TIF</image>
+</page>
+</document>

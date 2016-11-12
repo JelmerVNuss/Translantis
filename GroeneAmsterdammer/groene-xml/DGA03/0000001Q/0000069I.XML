@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280128</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 28 JANUARI 1928
+No. 2643
+J. D* STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie ~ Transporten
+NARAG-CLASSIC"
+meest eenvoudige en 'beslist spaarzame
+
+CENTRALE VERWARMING
+voor
+KLEINERE HUIZEN, ETAGE-WONINGEN,
+KANTOREN, WINKELS, enz.
+Geen Kelder noodig. Overal te plaatsen.
+Inlichtingen gratis.
+Met slechts n toestel van geringe afmetingen, opgesteld in
+keuken, hall of kamer, worden meerdere vertrekken verwarmd
+en BELANGRIJK aan brandstoffen, tijd en werk BESPAARD.
+Aanleg uitsluitend door Installateurs van
+Centrale Verwarmingen
+Fabrikanten: NATIONAL RADIATOR COMPANY
+Alleenvertegenwoordigers voor Nederland:
+
+PECK Co., AMSTERDAM
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+I1AMI4TE
+mJ y« RV^NTJIIEI.
+QROOTE nOUTSTF.101103
+TEL.1O5ZS
+HAARLEM
+PEFZISCI1E LOOFERSl VANAF
+VOOR GANG EM TRAP C. f\C
+STERK EN VOORNAAM l r \J\J
+BEGRAFENISVEREENIGING
+
+N. SAX Ir.
+P.G. Hooftstraat 88 AMSTERDAM Tel«f.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+^iiiiiiiiiimiiiiiiiiiiiiiiiiiiiiimiiiiiimiMiiiiiiiiimiiiMiiiiMiiiiiiiiiiiiiiiiMiliiiiiiiiw
+
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers |
+Bty om verkrijgbaar |
+N, R. V. MONTA SCHOENEN
+fliimniMiinMiimnnnnmiiraiiiiiiiiiimiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiH
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+- ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ - Telef. 30559
+Complete Meubileering
+MtiiiMiHiiiiiiiiiiiitiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiihiiKiiiiiiiiiii.iiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiniiiiir
+
+ILIPS &amp; PETERS l
+Vraagt Catalogus
+met
+prijzen
+DT
+r.illiliiiiiiiillliiiiiiHiiiMiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiliiiiHiiiiimililiiiiiiininiiiniiiniiiiHiiiniiiiiiiiiininiiiiiiiiniir
+JAEGER
+Ondcrgoedcrcn
+In div* kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+BADKAMERINHICHTINGEN
+zoowel eenvoudige als betere uitvoering.
+
+a J, DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 3. - per kwartaal of f
+10.per jaar bij vooruitbetaling
+Clichés
+VOOP alle doeleinden
+l N.V
+P Qiem.KLinstinrichting
+(DirkSchnabei
+Amsterdam. "»
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:04:06:59.00" size="132612">0000069I.TIF</image>
+</page>
+</document>

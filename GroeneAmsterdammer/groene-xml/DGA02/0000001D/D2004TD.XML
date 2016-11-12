@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320319</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+het op aan!
+Het komt er op aan, of
+deze dunne draad
+stroomverslindend of
+stroombesparend is - en of hij
+wel omgeven wordt door
+het allerzuiverste edelgas!
+Misschien betaalt U in een
+winkel voor 'n
+stroomverslindende lamp een paar
+dubbeltjes minder, maar
+Uw electriciteitsmeter
+vraagt guldens terug.
+t
+Koopt Uw lampen met
+verstand. Koopt
+
+stroombesparende lampen.
+Philips lampen!
+We d. H. Ra h de r &amp; Zn.
+WIJNHANDELAREN
+Amsterdam Arnhem
+iiimii 's-Gravenhage m
+Hofleveranciers
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+GOEDEWAAGENS
+HROONPIJPÏN
+«••
+IN GESLOTEN DOOZEN
+VAN 6 STUKS
+Waar
+blijft Uw huishoudgeld
+Zeer zeker waakt U er voor niet meer geld uit te geven
+dan noodig is, maar toch vraagt U zich dikwijls af:
+Waar blijft mijn geld toch ?"
+De oplossing heeft U mogelijk getracht te vinden met
+behulp van een kasboekje, doch wie vergeet nu nooit
+eens iets daarin te noteeren! Het moet in Uw huishou
+
+ding ALLEEN MOGELIJK ZIJN geld uit te geven of te
+ontvangen met behulp van een notitie, zoowel indien
+U zelf de kas beheerd, dan wel indien dienstpersoneel
+daarvoor is aangewezen.
+DE VEEGEE
+
+CASSA
+beantwoordt geheel
+aan dit doel.
+Vraagt U eens een
+prospectus, of stort
+f 22,50 op
+postrekekening No. 11617, en
+wij zenden U dit vernuftige apparaat omgaand
+franco toe.
+MËDERLANDSCH FABRIKAAT
+postrekening 11617
+telefoon 393
+ZEIST
+N.V. PLAATMETAALINDUSTRIE
+VAN MOUWERIK &amp; BAL
+ALGEHEELE LI K W l D ATI E WEGENS
+OPHEFFING DER ZAAK
+van al onze VERLICHTINGSARTIKELEN
+ver beneden Fabrieksprijzen
+WAN RAM KALVERSTRAAT 157-159
+VMIl U HIVI AMSTERDAM
+GEEN ZICHTZENDINGEN
+HET HUIS IS TE HUUR
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG Tel. 12869
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+.Billijk
+VRAAGT BROCHURE AAN
+BUREAU WITTEVEEN
+Pa ra m a r i boplei n 58
+A'dam - Tel. 84751
+FRED DONDERS
+ONDER DE ARABIEREN
+door C. F. VAN DAM
+met teeken, door
+IS. VAN MENS en
+EELCO TEN HARMSEN
+VAN BEEK
+f2.-, gebonden f2.30
+Een kostelijk jongensboek Itgi voor cm,
+dat wij met eenige vreugde signalecren
+omdat het afwijkt van hei gewant
+genre, zeer vlot geschreven is met 'ceel
+fantasie en omdat het zich volkomen
+bij onzen tijd aanpast. Wij kunnen
+zonder aarzelen dit boek van Fred.
+Donders aanbevelen. Het draagt een
+cachet, dat vele jongensboeken missen.
+(Haagsche Crt.j
+\ In lederen goeden boekhandel verkrijgbaar j
+Uitgave VALKHOFF &amp; Co.
+AMERSFOORT
+
+</text>
+<image timestamp="2002:09:21:01:47:25.00" size="146961">D2004TD.TIF</image>
+</page>
+</document>

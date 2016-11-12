@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180511</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11 Mei '18. No. 2133
+Gelder
+Tel.
+'N. 2997'
+Amsterdam
+Tel.
+'N. 2997
+Eetserviezen
+Weest even zuinig* op GELD als BROOD en rookt sigaren van JOH Aft J. B DOT
+=== Sarpfaatistraat J88, Amsterdam - Tel. Z. 542f&gt; en Z. G9VG =====
+HET ZIL WEK [stijgt nog voortdurend in prijs
+
+ww ACH i dus niet met Uw hestellingen doch doe
+het nu nog. ' •
+Uitgebreide keuze Sn presenteerbladen en serviezen, Brood"
+manden, Toiletgarnituren. enz. enz. Ie GEHALTE. Specialiteit
+in imitatie antiek zilvarwerk*
+IN DEN SILVEREN MOLENBEECKER"
+AMSTERDAM flflfUl? Afllinnni OEM HAAG
+alteen l HUN O VI Illllllrl alleen
+Kalverstraat 32 Ij UII 11 U U U11U U HL Hoogstraat 31
+Tel* N, 2149 Tel* 689O
+MOUTI1ANDEL
+PABK5TDAAT 5/
+EN TIMMERfABQIEK PADOX'
+TtL. HAAG 2636,
+VEDPLAAT5BAQE MOUTEN GEBOUWEN
+RÏL15 - AJRT IIÉMJEJtf
+Noordeinde 10, Den Haag
+2DE TENTOONSTELLING
+HET PORTRET
+Entree 25 Cent
+Leden Vrij
+Al-ISTEROAM. KALVERSTRAAT. 119 *&amp; ROTTERDAM. HOOFBSTEEG. 85
+OEN HA«J.SPUISTRAAT.•tl ARNHEM. nyNSTRAAT. 30
+UTRECHT. CHOORSTRAAT. i NyMEGEN.BROERSTCAAT. 9
+HAARLEM. GR.HOUT5TRAST. 2O
+TENNISSCHOENEN
+GÖSEN 3c SAVAGERM&amp;N
+PlANO-si
+VERHUREN
+RUILEN
+ORGaS
+lEPAREERENl
+STEMMEN
+DEN HAAG.BOEKHORSTSTR 149.TED2051)
+ROZENGEFR * «ü'™ZS..™!LLB
+JOHAtf J. BOOT
+Sarntoatistraat 229 Amsterdam
+TELEFOON Zuid 5489 en Zuid 6976
+Land- en Zeemacht-Sigaren
+SeriGtnerk van
+Kwaliteitsslgaren
+OVERAL VERKRIJGBAAR
+
+Fabrikaat W. HELLING j Co.
+D. v, H eij ti i ti g e n &amp; k
+KLEEDERMAKERS VOOR DAMES EH HEEREM
+Hoogewal 13-14
+DEN HAAG
+Telefoon 590
+Speciaal
+
+ENGELSCHE STOFFEN
+DeFolGgraisclieAteliers
+
+
+C. J. L VERMEULEN
+zijn gevestigd:
+GDIRJÜiE: • UTRECHT: - iOTTERDJUI:
+TtBiSiint. H Bieuwe Gracht 50 Goglsiigil 22k
+TEIEFOOI1813 TELEFOOI150 TELEFOÜI 8Z9J
+iMhikidi 3
+TEIEFMS 4144
+En zijn bekend om hun
+artistiek werk en zeer
+lage prijzen
+(yiaoW Fabrikaat)
+l.W.YAIIIIUEEN'S
+MOSTEID
+x UTRECHT x
+MERK: UON D'OR
+DE ZAAN LAN
+
+ZiLVERJ-MELDEaiJ
+
+
+G../CHOOR
+J^pecfalsteit in
+D l P UO rsxi E. O • MOM
+L '.J n. i 9 O 3 , Ml UA AM l 9 O 6 , B
+
+
+Utnecht^che dw. ^tr-aa"t 66, 6ö, 7O, 72.
+BAARN
+van den Makelaar en Taxateur
+J. VAM DUURSEN
+TELEFOQ®266 - STATIONSPLEIN 2O
+Je s t/r es voor
+VILLA'S - HUIZEN - BOUWTERREINEN enz.
+WINDSHEIMER MINERAAL WATER
+Prima Tafelwater met erkende geneeskrachtige eigenschappen tegen
+
+JICttT-KHEFMAT
+KK-SLECHTFSPIJSVER-- SUIKERZIEKTE MEKMJUKA.
+Alg.aanbev. door H.H. Doktoren.Verkrqgb. bQ eken Ie kl. Detaillist.
+Hoof dd e pot voor Nederland: A. L E BELLE,
+Vroolikstraat 128, A'dam. Tel. Zuid 4265.
+
+</text>
+<image timestamp="2002:08:23:05:56:51.00" size="437008">D10002UB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000408</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1189
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+HKLVETIA (tot 3on* BULL): »'t Heeft lang geduurd, maar hier heeft u nu toch wat u toekomt..."
+JOHN BULL: »Er komt m\j veel meer toe... maar al wat Republiek heet, houdt me voor den mal.'
+Een stem uit Ierland. (Wedcl;/ Freeman, Dublin).
+Engelsche taktiek. (Ihr floh).
+Roberts is de overwinnaar, maar Crorjéde held !
+
+De toestand in Perzië. (Kikerili. Wep
+Generaal. Engeland wacht op een nieuwe overwinning.
+L&gt;ah ! de troepen zijn te vermoeid.
+Maar de Beurs wordt ontstemd.
+Wat, de Beurs ontstemd 'i Vooruit jongens, we marcheeren !
+Uxei.E SAJI (i&gt;ein.:end): &gt;;Hum ! 't Zijn allebei brave menschen
+en ik mag ze beide even graag lijden, maar ik kan niet
+tusschenbeiden komen." (Judge).
+De toeschouwers. (Caran d'Ache in den Figaro).
+Je wiH göen vrude, John! Dan iit-lunt ih je
+dat wij samen in de lucht zullen springen, (l^iw
+Een beetje interventie asjebüeft, heeren !
+Uit Deutsche Lesehalle."
+DE Rus (tot de En
+van mijn land !
+Ik verdedig mij; vris::d e 't welzijn
+Het inleveren der geweren Een Aprilgrap in Zuid-Afrika. (Caran d'Ache in den Figaro)
+
+</text>
+<image timestamp="2002:08:14:10:58:17.00" size="354202">D2000FU.TIF</image>
+</page>
+</document>

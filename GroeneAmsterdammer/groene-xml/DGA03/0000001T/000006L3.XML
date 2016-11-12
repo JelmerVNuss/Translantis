@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280519</Datum>
+<Pagina>30</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+j. .h j-L*fc&gt; r. -^w*^ ^i^'^^^-^fc^^j^ •-^•^^y'STn^i:
+PHILIPS
+N.S.F.
+DUCRETET
+RADIO-toestellen.
+ANDERSEN &amp; POLAK
+P. C. Hooftstraat 40. - Tel. 26SS7
+AMSTERDAM (Z.).
+ll
+ZEILINGA
+C A N O'S
+KAMPEERTENTEN
+
+VELDTENTEN
+
+
+VRAAGT PRIJSCOURANT
+
+AM ST E R DAM
+PRINS HENDRIKKADE 120 - Tel. 41709 -40717
+Voor de roeisport.
+
+Reglstreerinstrument ter
+controle van de op elk
+oogenblik gebruikte kracht,
+veranderingen gedurende
+den slag en de lengte daar
+
+van. Onmisbaar instrument
+voor goede wedstrijd
+
+training. Nadere inlich
+
+tingen worden gaarne
+verstrekt.
+Grootste Uurwerk Mag.
+UILKEMA
+Stopwatch 112 tot 180
+Wekkerhorloges
+met radium ... f 12
+
+Reguliersbreestr*39
+Van 'Straalen Monsieur &amp; Erkelens
+WIJNHANDELAREN
+
+Rotterdam, Leuvehaven 34
+Filialen DEN HAAG l Prima Kwaliteiten
+HELDER l Billijke Prijzen
+MOBACO
+Bouw Speeldoozen
+Zeer leerrijk en onderhoudend Speelgoed
+.v. BOSCH, HONIG &amp; ex
+DOMSTRAAT 6 - UTRECHT
+Te UTRECHT verkrijgbaar bij:
+N.V. Bosch Honig &amp; Co., Domstr. 6
+J. J. Scholdmeijer, Amsterd.str.w. 227
+In 1NDIE verkrijgbaar M):
+Toko Onderlinge Hulp, Weltevreden.
+NEDERLANDSCHE
+NIJVERHEIDS
+TENTOONSTELLING '28 ,NTERNAT,ONAAL
+Onder hooge bescherming van H.M. de Koningin-Moeder en Z.K.H, de Prins der Nederlanden, Hertog van Mecklenburg
+ROTTERDAM, STATIONSSINGEL.
+DAGELIJKSCH BESTUUR DER TENTOONSTELLING.
+B. C. D. HANEGRAAFF, Algemeen Voorzitter.
+F. F. H. van GHEEL GILDEMEESTER, Gedelegeerd Lid van den Raad van Beheer.
+J. CH. STERK, Algemeen Penningmeester.
+J. SCHOON, Afd. Expositie.
+J. C. WILBRENNINCK, Secretariaat.
+P. N. GAANDERSE, Pers en Propaganda.
+
+^ RÜYSAN H°EY SMITH' } Afdeeling Vervoer.
+Wat wil de Nenyto '281
+Een zoo retrospectief mogelijk beeld l
+geven van den stand der Nijverheid ten !
+tijde der IXe Olympiade *
+Waar kan de Nederlandsche Nijverheid met haargroote en grootsche
+praestaties beter, voor den dag komen dan juist in Rotterdam?
+Mr. Dr. J. WYTEMA,
+Burgemeester van Rotterdam.
+
+Ik hoop, dat de onderneming in ieder opzicht een groot succes moge
+zijn en de moeite moge loonen van hen, die er hun arbeid aan geven.
+Dr. A. R. ZIMMERMAN,
+oud-Burgemeester van Rotterdam.
+
+Ik geloof, dat inderdaad ;alle factoren aanwezig zijn om de Nenyto
+'28", te doen slagen en =vertrouw, dat Rotterdam niets onbeproefd
+zal laten om deze sympathieke uiting van economische activiteit
+tot iets grootsch te doen worden.
+: .' D. G. VAN BEUNINGEN,
+., Directeur der Steenkolen-Handelsvereeniging.
+Het valt te verwachten, dat de Nenyto '28" een gedenkwaardige
+gebeurtenis zal zijn in de geschiedenis van de ontwikkeling der
+Nederlandsche Nijverheid. J. C- VEDER
+Voorzitter van de Kamer van Koophandel
+en Fabrieken te Rotterdam
+
+.. .zelden zal een zoo goede gelegenheid bestaan voor het bewerken
+van buitenlandsche markten, als door deze tentoonstelling op eigen
+bodem wordt geboden. JAN SCH1LTHU1S,
+Voorzitter van het Dep. Rotterdam van de
+Nederl. Mij. voor Nijverheid en Handel.
+
+Ongetwijfeld zal een groot aantal industrieelen niet alleen uit eigen
+
+en landsbelang, maar ook uit het oogpunt van nationalen trots deze
+breed opgezette Tentoonstelling steunen en doen slagen.
+Ir. J. VAN DUSSELDORP,
+Voorzitter der Vereeniging Nederlandsen Fabrikaat".
+DE GULDENSLOTERIJ
+der Nederlandsche Nijverheidstentoonstelling 1928" (Internationaal)
+met waarborgen als nimmer geboden!
+LAATSTELIJK GOEDGEKEURD BIJ KONINKLIJK BESLUIT VAN 27 DECEMBER 1927
+Prijzen tot een totaal van Honderd Duizend Gulden
+
+</text>
+<image timestamp="2002:09:04:15:59:04.00" size="131925">000006L3.TIF</image>
+</page>
+</document>

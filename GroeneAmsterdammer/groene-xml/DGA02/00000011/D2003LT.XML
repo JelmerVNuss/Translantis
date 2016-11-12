@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240531</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2450
+Marie Verstraete in Helene Seiglière
+Tjasink in Kloris&gt;n Roosje
+Cath, Beersmans in Zwarte Griet
+Alida Klein in Bohemers in Parijs
+EEN PRACHTIGE VERZAMELING
+TOONEELPORTRETTEN
+|f Het was mij een groote vreugde bij mijn bezoek aan
+mijne geboortestad eene uitnoodiging te ontvangen
+van den bekenden tponeelverzamelaar, den heer Daniël
+Crena de Jongh te Dordrecht, om zijne, zoo interes
+
+sante collectie portretten te komen zien, die van 1857
+af dateert en die reeds tot twee duizend exemplaren is
+aangegroeid.
+Van de vele oude portretten, die ik zag en waarvan
+hierbij een afdruk geplaatst wordt, scheen mij de eerste
+foto van de eerste leerlingen van de Tooneelschool
+wel zeer interessant
+voor onze lezeressen
+en lezers van de oude
+garde.
+Zij zullen zich stel
+
+lig nog wel Me
+
+vrouw Kleine Gartman
+herinneren, en ook
+waarschijnlijk de namen
+harer eerste leerlingen:
+Marie Lorjé,
+Wilhelmina Wellman, later
+gehuwd met Her
+
+man Schwab,
+CorSchulze, Anna Sablairolles,
+Jan Malherbes, Tonia
+Poolman, Christine
+Ferron, Mientje Bourette
+en Sophie Bos.
+Verder trok mijn aan
+
+dacht een portret van
+onzen Louis op nog
+jeugdigen leeftijd in
+een van zijne eerste
+rollen in het stuk Marmeren Beelden" of Ijskoude
+harten". Victor Driessens, de groote man, die het
+realisme bracht, ontbreekt in deze belangrijke verza
+
+meling evenmin als J. H. Albregt, Majofski, Korijn,
+Spoormans.
+Een portret van Dirk Haspels in een zijner beste crea
+
+ties (in Jonkvrouw de la Seiglière") scheen mij ook
+aardig voor reproductie in dit weekblad. Natuurlijk
+ontbreekt ook niet de foto van Jacques de Boer,
+den bekenden acteur, die korten tijd geleden, in weerwil
+van zijn hoogen leeftijd, nogmaals optrad in zijn
+succesrol Lubowsky in Dr. Claus, dat destijds bij de K- V.
+Het Nederlandsch Tooneel" werd gegeven.
+Voorts de portretten van mevrouw Korlaar—van
+Willem van Zuylen
+Louis Bouwmeester
+Dam, de bekende actrice, die we zoo noode afscheid
+zagen nemen van het tooneel en van Jaap Haspels, die
+eens jaar in jaar uit de marqué, (de verrader) was bij
+het gezelschap Le Gras &amp; Haspels.
+Verder zien we Tjasink vertegenwoordigd zooals hij in
+1860 den Thomasvaer speelde.
+Interessant zijn ook de foto's van de Twee Wee
+
+zen" waarin Rika Haspels en AH", Alida Klein, de
+beide ongelukkigen voorstelden. Verder de Faassens,
+Rosier en Alex, van wie de eerste overleden is, ter
+
+wijl de andere ondanks zijn meer dan tachtig jaren
+zich in een goede gezondheid verheugt en met zijn
+trouwe gade genoegelijk in de residentie zijn welver
+
+diende rust geniet.
+Vertegenwoordigd
+zien wij ook Klaas Vos
+en mevrouw
+Faassenvan Velzen.
+Een grappig portret
+is dat van Jan C. de Vos.
+Onze Don Juans" en
+een joyeus portret van
+Royaards in: De
+Ster" waarin hij des
+tijds zooveel succes
+had. Wij zien verder
+Marie Verstraete, die
+wij bij het vroegere
+Tooneel",directie Roy
+
+aards nog zoo vaak
+bewonderd hebben.
+Zij is de moeder van
+Jules Verstraete, een
+eer allerbeste spelers
+van het huidige
+Rotterdamsche Tooneel.
+Verder Bredee,
+Valois, Bamberg en ook
+Mina Kniseman en Elize Baart, die bij de eerste op
+
+voering van Vorstenschool" de hoofdrollen hebben
+vervuld.
+Van Dirk van Eijsden, kort geleden afgetreden als
+directeur van het Vereenigd Hofstadtooneel" en de
+N.V. Het Rotterdamsch Tooneel" zien we hier de
+foto in travesti van een zijner eerste rollen.
+Natuurlijk ontbreekt evenmin zijne echtgenoote,
+Marie van Eijsden—Vink, de lievelinge van het
+Rotterdamsche publiek, als Madame Sans-Gêne7', een
+harer beste rollen.
+Op hetzelfde portret ziet men Rosier Paassen, die
+haar als dansmeester de eerste stappen in de schoone
+en, voor haar moeielijke danskunst leert.
+Nathan Judels
+Dirk Haspels in Seiglière
+Mevr. Kleine—Oartman
+Victor Driessens in Egmond en Hoorn
+Mw;Korlaar—van Dam in Vriend Fritz
+
+</text>
+<image timestamp="2002:09:03:08:59:51.00" size="335802">D2003LT.TIF</image>
+</page>
+</document>

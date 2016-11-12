@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300419</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"J- 'J?* ^ I J
+b*
+
+. j f?»
+m
+st
+s **,
+LDBEROEMDE DELICATESSE
+UIT DE FABRIEK
+
+
+jkade te
+IEr; CUR COLLECTIO»
+.ifXCEP
+SINGEL 146
+
+JH..
+•&lt;*£*,
+Schilderijen van oude meesters
+' POftretten, Oude Kaarten
+en kostbare boeken
+
+
+BÖEKENVEILINGEN
+29 en 30 April
+T.i waarbij fraaie middeleeuwsche
+'niinlaturen". •*-. Drukken uit de 15e en
+heid,letterkunde kunstenen
+c&amp;*lfeceuwscheboêken,enz.
+
+f yan prenten^ en teekeningen. ;
+
+de4atui»tkandige bibïiotheèk van Dr. }, C. C.
+be bibüoöieek Van Dr, &lt;3a. Bles e.a.
+
+Schilderijen, Teekeningen, Prenten en Etsen, Antiquiteiten,
+en .Meubelen, Perzische Shawl» uit de collectie van
+
+
+ter- tföhase» kunaen nog inzendingen worden bijgevoegd.
+TCRVELT.C.NETSCH
+lifl| wraOUDE SCHILDERIJEN, waarbij wer mooie genrestukken door
+MER e^., FRAAIE STILLEVENS door P. CLAESZ, k VAN DE VELDE etc.
+'t&gt;**
+V i vji %' 4* s^ * v ^ - *a "
+;"fe 't t- *Vv-N* *- »
+•«s*-: iï.i^-i.'iki—i_ . *
+IKST^A voorheen
+
+
+H. VAN DIJK
+
+" Leveranelers van Indische Uitrustingen
+
+UTRECHT, NIEUWE GRACHT 6.
+
+TELEFOON 13416
+Door het geheele land te ontbieden.
+MOBAGO
+Bouw Speeldoozea
+m » i
+
+II
+Zeer leerrijk en onderhoudend Speelgoed
+
+N;V. BOSCH, HONIG 6 Co.
+
+DOMSTRAAT ~ TRIECHT
+ft DELFT verkrijgbaar bil: Wed. F.
+Helbers, Oude Kerkstraat 4, H. C.dt
+BrtedM, •Voldersgracht.Konwenhoven,
+CBoorstr.36-88J.H.Niest«n. J.Qerritstr.
+In INDlC TCrkrilgbaar Ml:
+Toko Onderling Belang, Soerabaya.
+GEEN EETLUST?
+CMH ~H&gt;a:.i-a»c«oCHOeÖ-rRA.r
+
+EürsSr^erSS
+(&gt;UUi do.1 ulfl lu
+
+Hfméak»r uwer vnj
+
+.CHOIOTU- k .
+C H O -B O -TR A
+/« loonrvaort b &lt;r &gt;oUo««ij
+•as
+
+</text>
+<image timestamp="2002:09:25:11:24:27.00" size="679855">0000094Z.TIF</image>
+</page>
+</document>

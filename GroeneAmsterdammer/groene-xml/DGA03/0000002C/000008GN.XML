@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300830</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Jorïs de (Vlaamsche) Leeuw in hooger beroep vrijgesproken
+• &gt;»%»•«•*
+tf
+BIJVOEGSEL van De Groene Amsterdammer" Weekblad voor Nederland van 30 Augustus
+De' Vlaamsche Soldaat Joris de Leeuw, die veroordeeld was wegens het niet opvolgen
+van in het Fransch gegeven commando's, is in hooger beroep vrijgesproken.
+Amst. Boek- eo Stetndr. vh. Ellerman. H.rm. 6 Co. N.V
+Gard' a vous!
+Geeft acht!
+
+</text>
+<image timestamp="2002:09:22:01:47:32.00" size="111733">000008GN.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900831</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 31 Augustus 1890.
+De verdeeling van Afrika.
+LOBD SALISBURY, 't Is voor je bestwil, Vrienden. Eerlyk gedeeld, dan zijn de standjes uit de wereld. John Buil, my boy,
+je hebt de grootste maag, en krijgt dus wat extra's. Niet huilen, Portugeesje! Je ziet immers, hoe tevreden iedereen is.
+Stoomdrukken] Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:10:02:17:13:31.00" size="479921">D2007CA.TIF</image>
+</page>
+</document>

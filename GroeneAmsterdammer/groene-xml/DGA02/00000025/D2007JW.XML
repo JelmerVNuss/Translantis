@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920131</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIjVOKGSKI, van de Amsterdammer, Weekblad voor Nederland, van 31 Januari 1892
+Verkiezingspolemiek op een glad terrein.
+Handelsblad: Uw taktiek is een demoraliseerend knoeien. Gij blaast koud
+en warm uit n mond!
+Standaard: Gij hebt veertig jaren geleden onzen Groen gesmaad, en thans
+verheerlijkt gij hem op onze kosten!
+Tr , , ,, , ..^ . , , Amsl. Boek- en Steendrukkerij. v/h. Ellerman, Harms &amp; Co.
+Handelsblad: Ge zijt een weerhaan l
+Standaard: Ge zijt een draaier l
+JSemaam en kalm toeschouwer, (uit hooger sfeer):
+Zie, de maan schijnt door de boomen;
+Makkers, staakt uw wild geraas! .
+
+</text>
+<image timestamp="2002:10:03:15:16:51.00" size="455841">D2007JW.TIF</image>
+</page>
+</document>

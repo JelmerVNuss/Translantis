@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280114</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14 Januari 1928
+l
+T^e Groene
+J&gt;C_/Weekblad voor Nederland
+Abonnementsprijs per jaar ƒ10."*
+Advertentiën ƒ0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 3796 4
+Losse nummers 25 cents
+r
+s,
+Hofleveranciers van
+Z. K. H. Prins Hendrik der Nederlanden
+Van Uefl Monsieur SErkebs
+WIJNHANDELAREN
+ROTTERDAM - Lcuvchaven 34 - TcL 2456
+FILIALEN:
+
+DEN HAAG Anna Paulo wnastr. 36 Tel. 32532
+
+HELDER Hoofdgracht 37 Telefoon 83
+GROOTE VOORRADEN
+BELEGEN WIJNEN
+MEER DAN OOIT TE VOREN HEEFT
+
+CADILLAC
+DE LEIDENDE POSITIE, DANK ZIJ:
+EERSTE KLAS WERK,
+EERSTE KLAS SERVICE,
+ALGEMEENE TEVREDENHEID.
+K. LANDEWEER
+IMPORTEUR VOOR NEDERLAND DER
+CADILLAC EN LA SALLE AUTOMOBIELEN
+UTRECHT
+BILTSTRAAT 74
+AMSTERDAM
+SINGEL 430/32
+
+AGENTE VOOR ZUID-HOLLAND:
+HAAGSCHE AUTOMOBIEL MIJ.
+HA-KLOOSTERHUIS
+AMSTERDAM
+AMSTERDAM
+KALVERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H,
+:del xtensiDl&lt;
+.eupgori
+
+van prima Fransch Elastiek,
+maag &gt; insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+tot heup wijdte 100 c.M. nieuwen prijs f 14.
+verder tot 115 c.M. 15.
+
+Bij schriftelijke bestelling gelieve men als maat
+op te 'geven de wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.
+EXTENSIBLE"
+Voorhanden een enorme keuze
+
+
+Judastieken Jtieiipgoroeis
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f 8.
+
+Alle door ons geleverde elastieken Heupgo rdels
+garandeeren wij.
+
+</text>
+<image timestamp="2002:09:04:02:20:31.00" size="106910">0000067T.TIF</image>
+</page>
+</document>

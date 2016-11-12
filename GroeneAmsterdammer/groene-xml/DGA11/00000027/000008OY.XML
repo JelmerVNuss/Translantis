@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301122</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+eekblad voor Nederland
+K.tfl
+De Groene Amsterdammer"
+Abonneert U voor 1931 en U ontvangt de
+in 1930 nog verschijnende nummers gratis
+Abonnementsprijs tien gulden per jaar
+Uitknippen en versturen in briefomslag als drukwerk m et 1 ^ et,
+Aan de Adm. van De Groene Amsterdammer" Keizersgracht 355 - Amsterdam C.
+Ondergeteekende wenscht zich voor het jaar 1931 op ,,De Groene Amsterdammer"
+te abonneeren en de nog in 193O verschijnende nummers gratis te ontvangen
+Naam:
+Woonplaats;
+
+</text>
+<image timestamp="2002:09:22:09:22:51.00" size="81090">000008OY.TIF</image>
+</page>
+</document>

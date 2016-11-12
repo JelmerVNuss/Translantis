@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390311</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wetenschap
+Is de mensch een machine?
+Nieuwe onderzoekingen over
+
+een oude theorie
+
+Dr. J. Oudenbosch
+
+IN 1748 verscheen bij den uitgever Elie
+Luzak te Leiden een pamflet, getiteld:
+De Mensch eene Machine.
+Schrijver was Julien de Lamettrie, een dier
+merkwaardige avonturiers, waar de achttiende
+eeuw zoo rijk aan was; geboren in Frankrijk,
+en oorspronkelijk bestemd voor het priester
+
+lijk ambt, maakte Julien kennis met een
+geneesheer, die blijkbaar zulk een indruk op
+hem maakte, dat hij besloot eveneens volge
+
+ling van Hippocrates te worden. Hij studeerde
+derhalve medicijnen te Reims, om na het
+behalen van den dokterstitel bij den grooten
+Boerhaave te Leiden zijn kennis te verdiepen.
+Tengevolge van het feit, dat hij de kerkelijke
+leerstellingen op menig punt in een brochure:
+De Natuurlijke Historie van de Ziel, in twijfel
+trok, en in een andere vele zijner Parijsche
+collega's over den hekel haalde, moest hij
+naar de lage landen bij de zee uitwijken.
+De Mensch eene Machine, joeg echter de recht
+
+zinnige Hollandsche geestelijkheid tegen hem
+in het harnas, en zoo heeft de Lamettrie zijn
+laatste levensjaren moeten slijten aan het
+hof van Frederik den Groote van Pruisen,
+Duitschlands meest verlichten despoot.
+
+"TPWEE eeuwen van wetenschappelijk,
+criI tisch denken, die sindsdien verstreken
+zijn, drukken haar stempel op den geest van
+hen, die nu De Mensch eene Machine ter hand
+nemen, en menige passage klinkt ons, kinde
+
+ren van een nuchteren tijd, vreemd in de ooren.
+Niettemin wie zal niet de grondgedachte
+van de Lamettrie willen onderschrijven, dat alleen
+het experiment en de observatie onze gids kunnen
+zijn, wanneer wij den aard van het leven trachten
+na te gaan? Wie wil ontkennen, dat de ziel, welke
+de Lamettrie in tegenstelling tot zijn tijdgenooten
+als iets veranderbaars beschouwde, inderdaad
+wijzigingen kan vertoonen, afhankelijk van de
+gesteldheid van het lichaam ? De invloed van be
+
+paalde ziekten op het verstand, de gelijkenis van
+slaap en dood, het gevoel van geestelijk welbehagen
+na den maaltijd zij waren voor de Lamettrie
+evenzoovele voorbeelden van den machtigen invloed,
+welke het stoffelijk omhulsel toekomt.
+Modern doet het aan, als hij voortbouwend
+op zijn theorieën een humaner instelling jegens
+misdadigers en krankzinnigen bepleit. Treffend
+merkt hij op, dat het veelal de voorkeur verdiende,
+indien bekwame geneesheeren bij het bepalen van
+de strafmaat, de veroordeeling van deze beklagens
+
+waardige schepsels, een stem in het kapittel konden
+uitbrengen.
+Terecht kunnen wij dus Julien de Lamettrie
+beschouwen als iemand, die zijn tijd verre vooruit
+was; terecht vormt zijn beroemd pamflet een mijl
+
+paal op den weg, dien de wetenschap sinds de
+duistere, en ieder experiment verwerpende, Middel
+
+eeuwen heeft afgelegd.
+
+IS de mensch een machine?
+Scherp herinneren wij ons nog de plaat, die
+in het plant- en dierkundelokaal hing, en waar de
+verschillende functies van het menschelijk lichaam
+suggestief op afgebeeld waren: het darmkanaal was
+een lange buis, waar uit verschillende kranen en
+kraantjes maag-, darm- en alvleeschsap bij druppelde;
+de nier was een ingewikkeld filtreerapparaat, het hart
+een dubbele zuigperspomp, het oog een fototoestel;
+her- en derwaarts verliepen de kabels, die de zenu
+
+wen moesten voorstellen, en het fraaist waren onge
+
+twijfeld de hersenen, die als een groote telefooncen
+
+trale met seinen en schakelborden waren afgebeeld.
+Helaas ook hier dekken beeld en werkelijk
+
+heid elkander allerminst!
+Hoeveel schoons er ook schuilt in de voorstelling
+van zenuwvezels als telegraafdraden, hoeveel waars
+er ook zit in het feit, dat de voortplanting van den
+prikkel tot meetbare electrische spanningsverschil
+
+len aanleiding geeft daarom kunnen wij niet
+aannemen, dat een electrische stroom onze spieren
+tot actie, onze klieren tot afscheiding brengt. Hoog
+
+stens hebben wij het recht uit te spreken, dat elec
+
+trische verschijnselen n der manifestaties zijn
+van het veel gecompliceerder prikkel-geleidings
+
+proces in de zenuwen !
+
+EEN theorie heeft slechts waarde, indien zij bo
+
+venal in staat is, nieuwe problemen te scheppen.
+Formuleeren wij de machinetheorie van het leven
+Mensch en Robot-mensen
+
+zoo, dat zij van het principe uitgaat, dat de ver
+
+schijnselen waarin het leven zich voordoet, slechts
+verklaard kunnen worden met behulp van natuur
+
+kundige en scheikundige wetten welke voor de
+doode stof gelden dan is hiermede een hypothese
+aangegeven, die ontelbaren onderzoekers stof voor
+onderzoek gegeven heeft en zal blijven geven.
+Een hypothese anders kunnen wij de machine
+
+theorie, ook in deze definiëering, niet noemen !
+Geen wonder dan ook, dat reeds eeuwenlang een
+felle strijd woedt tusschen de mechanisten, zij, die
+bovengeschetst principe aanvaarden, en de
+vitalisten, die op het standpunt staan, dat er in het leven
+iets moet zijn, dat met behulp van
+physisch-chemische wetten nog niet verklaard is en nooit verklaard
+zal worden. Indien het vitalisme al, afgezien van
+zijn negatief en onvruchtbaar karakter,
+menschelijkerwijs beschouwd op een gefundeerde basis schijnt
+te berusten wie onzer is, afgezien reeds van gods
+
+dienstige of wijsgeerige opvattingen, bereid, aan
+te nemen, dat het leven in principe geen raadsel
+
+achtige zijde blijkt te bezitten? zoo moet het
+den objectieven toeschouwer toch duidelijk zijn,
+dat de machinetheorie wetenschappelijk hechter is.
+Terecht immers, wijzen de mechanisten het argu
+
+ment van zich af, dat er nu nog zooveel onverklaards
+aan het leven bestaat: de hedendaagsche stand der
+natuurwetenschappen gedoogt niet, dieper op de
+problemen in te gaan, dan zij reeds doen. De ge
+
+schiedenis heeft bovendien aangetoond, dat iedere
+vooruitgang op chemisch of physisch gebied nieuwe
+aspecten van het leven voor bestudeering toeganke
+
+lijk heeft gemaakt.
+Namen de vitalisten aan, dat een stof als ureum,
+product van menschelijke en dierlijke stofwisseling,
+nooit samengesteld zou kunnen worden zonder
+tusschenkomst van levende stof Wöhler bereidde
+in 1828 ureum uit het doode" kaliumcyanaat en
+ammoniumsulfaat!
+Stonden de vitalisten op het standpunt, dat er
+een levende" energie moest bestaan, welke on
+
+afhankelijk van de verbranding der opgenomen voe
+
+dingsproducten ontstond de feillooze warmte
+
+meter, waar Atwater in 1897 de constructie van
+voltooide, stootte deze leerstelling omver, en toonde
+duidelijk aan, dat levende wezens eveneens aan
+de warmtewetten van de doode natuur onder
+
+worpen waren. Zoo vormen de vitalisten een leger,
+dat onophoudelijk oude stellingen prijs moet geven,
+om nieuwe te betrekken, welke op haar beurt on
+
+houdbaar blijken te zijn.
+
+HET is uiteraard onmogelijk, den strijd tusschen
+deze twee opvattingen eerder misschien
+wereldbeschouwingen uitvoerig te schetsen. Een
+enkel, zeer belangrijk probleem, willen wij nog be
+
+spreken: dat van de eiwitten in het leven.
+Het is niet alleen bekend, dat de levende stof zélf
+voor een belangrijk deel uit eiwitten is opge
+
+bouwd, maar ook, dat andere, voor de func
+
+tioneering van het leven fundamenteele
+producten, als fermenten, veelal een
+eiwitstructuur bezitten. De Amerikaansche onder
+
+zoeker Northrop is er in geslaagd, verschei
+
+dene spijsverteringsfermenten in kristalvorm
+te isoleeren en als eiwtten te identificeeren.
+Van niet minder, en zeker voor ons pro
+
+bleem van grooter beteekenis, is de opmer
+
+kelijke vondst van zijn landgenoot Stanley
+betreffende de mozaïekziekte van de Turksche
+tabaksplanten, die door een, ook onder het
+microscoop onzichtbaar, levend wezen, een
+virus, wordt veroorzaakt.
+Stanley heeft ontdekt, dat dit virus van de
+mozaïekziekte niets anders is dan een eiwit
+van hoog moleculair gewicht. Het virus is dus
+eenerzijds een levend organisme, anderzijds
+een dood" molecule. De kloof, die er altijd
+heeft bestaan tusschen de doode en de levende
+natuur is hierdoor hoogstwaarschijnlijk over
+
+brugd : evenals er tusschen planten en dieren
+een geleidelijke overgang bestaat, zullen doode
+en levende materie geleidelijk in elkander
+overgaan.
+Het zal velen misschien vreemd voor
+
+komen, waarom men zooveel beteekenis
+toekent aan een ziekteverwekker bij een
+tabaksplant. Het is echter een feit, dat dit
+virus zeer stabiel, zeer infectieus en zeer
+gemakkelijk in groote hoeveelheden te ver
+
+krijgen is; aangezien de wetenschap liefst
+van het eenvoudigste materiaal uitgaat, en
+hiermede reeds zulke fraaie resultaten bereikt
+heeft, kunnen wij in de naaste toekomst een
+uitbreiding van dit belangrijk onderzoek in
+de richting van de menschelijke pathologie
+en physiologie verwachten.
+Ongetwijfeld zouden de mechanisten hun
+fraaisten triomf vieren, indien zij er in zouden
+slagen, zulk een eiwit, dat levenseigenschappen
+bezit, in het laboratorium te bereiden. Terwijl de
+synthese van andere producten, als suikers en vetten
+en, in den laatsten tijd, vitamines en hormonen,
+groote vorderingen heeft gemaakt, vormde de op
+
+bouw der eiwitten een schier onoplosbaar probleem.
+De beroemde Duitsche chemicus Emil Fischer,
+had aangetoond, dat de betrekkelijk eenvoudige en
+op het oogenblik bekende aminozuren tot eiwitten
+aan elkaar geketend kunnen worden; het aantal
+combinaties, dat met dertig aminozuren te maken
+is, vormt een getal met zeven-en-twintig nullen
+en niet ten onrechte meende men, tot voor kort,
+dat deze groote verscheidenheid een onoverkome
+
+lijke belemmering vormde.
+Bergmann, n der medewerkers van het bekende
+Rockefeller Instituut te New York, heeft echter in
+recente onderzoekingen bewezen, dat de numerieke
+verhoudingen der aminozuren in een bepaald eiwit
+zeer eenvoudige getallen zijn. Zoo is in gelatine
+de verhouding der drie aanwezige aminozuren
+3 : 2 : i, in zijdcfibroïne 8 : 4 : i; Bergmann wist
+voor andere belangrijke eiwitten soortgelijke reek
+
+ten aan te geven, en trok hier terecht de conclusie
+uit, dat deze verhoudingscijfers een bepaalde regel
+
+maat in de structuur van de eiwitten doen veronder
+
+stellen. Dat dit een vondst is, welke voor de toe
+
+komstige synthese der eiwitten in het laboratorium
+van de grootste beteekenis is, behoeft geen betoog:
+o. i. is de dag niet verre, dat dit tot nu toe zoo
+duistere probleem tot het verleden zal behooren,
+en den vitalistischen opvattingen opnieuw een zware
+slag zal zijn toegebracht.
+
+HET is een lange weg van virus naar homo
+sapiens, den mensch. Zelfs als wij er in zouden
+slagen, de allereenvoudigste levensvormen te
+synthetiseeren, kan men daar niet de conclusie uit
+trekken, dat binnen afzienbaren tijd hoogere wezens
+uit retorten en reageerbuizen te voorschijn zullen
+komen als een hypermoderne Phoenix uit de asch.
+Het leven heeft de wetenschap altijd moeilijkheden
+in den weg gelegd, en er is allerminst reden om aan
+te nemen, dat het dit in de toekomst minder zal
+doen dan tevoren. Ook wanneer wij bedenken, dat
+het experimenteel onderzoek de eenige wijze,
+waarop de geschetste vraagstukken bestudeerd
+kunnen worden slechts een gering aantal
+menschengeslachten oud is, dat wij eigenlijk pas
+aan het allereerste begin van een wetenschappelijke
+bestudeering van het leven in zijn talrijke manifes
+
+taties toe zijn, dan nog zullen wij kunnen voor
+
+spellen, dat de constructie van een menschelijke
+machine een schier 6ou?nmenschelijke taak is.
+Maar geeft de wetenschap den tijd zij heeft
+reeds veel tot stand gebracht en is ook in de toe
+
+komst tot groote dingen in staat!
+PAG. IS DE GROENE No. 3223
+
+</text>
+<image timestamp="2002:09:13:02:56:49.00" size="307242">D100050D.TIF</image>
+</page>
+</document>

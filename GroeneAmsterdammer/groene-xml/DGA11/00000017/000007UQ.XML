@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300125</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 25 JANUARI 1930
+No. 2747
+J* D* STRUIJS 6 Zn,
+Prinsengracht 837 Telefoon 37906
+BEGRAFEH1SSEN (naar EUIEZIIK met RIJTUIGEN o! AUTO'S]
+CREMATIE. - TRANSPORTEN.
+|&amp; J. DE KONING 6 ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+WASCHTAFELS.
+Miiiiiiiiiiiiiiiiiiiiiinwiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiw
+Clichés
+Voor olie doeleinden
+i NV
+P Cnem.Kunstinricfiting
+iDirkSchnabei
+Amsterdam. «
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+BEGRAFENISVEREENIGING
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+aramei nou
+Een specialiteit: de
+fijnste roomcaramel
+in chocolade.
+/iet toe.
+dat ge Drosks
+vxam
+H«t papier ten behoeve van dit blad
+werdt geleverd door de firma
+C. G. A. CORVEY, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO,
+EEN VROUW VAN SMAAK
+aaf af op de advertenties in De Groene Amsterdammer.
+De adverteerder Is de eersfe die dat bemerkt, wanneer hij
+in De Groene adverteert.
+Dat dit geen grootspraak is, bewijzen de vele
+tevredenheidsbetuigingen, die De Groene Amsterdammer van zijn
+adverteerders ontvangt.
+ADVERTEERT IN DE GROENE"!
+HET HELPT.
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:20:23:07:44.00" size="87809">000007UQ.TIF</image>
+</page>
+</document>

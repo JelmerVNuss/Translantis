@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300322</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 22 MAART 1930
+No. 2755
+Radio en Grammofoon
+Haagsche Tentoonstelling
+Folkloristische platen
+door Lou Lichtveld
+DE groote vooruitgang van onze muziek
+gedurende de laatste halve eeuw houdt ten
+aauwste verband met de alom herleefde belang
+
+stelling voor de volksmuziek. Men kwam tot de
+•erkenning dat elke technische vernieuwing der
+muziek een nutteloosheid of een onmogelijkheid
+zou zijn, wanneer er geen innerlijke vernieuwing
+plaatsgreep. En in de onuitputtelijke bronnen
+der volksmuziek heeft men het oude, steeds weer
+nieuwe materiaal hervonden, waardoor de
+hedendaagsche muziek nog een geheel ongekende
+i&gt;eteekenis kon krijgen: die van in waarheid
+nationaal te zijn, en de taal te wezen van een
+nationale collectiviteit.
+• De Russen van de oude vooruitstrevende
+Petersburgsche school zijn de eersten geweest die tot
+dit inzicht kwamen, en van de Machtige Vijf"
+beeft de minst bekende man, MiliBalakirew, groote
+verzamelingen van volksmuziek aangelegd, die
+:zijn vrienden en hun vele nazaten de ooren geopend
+hebben voor datgene wat thans zoo alom gewaar
+
+deerd wordt: het specifiek-Russische element in
+hun muziek.
+In Spanje begon niet zoo heel lang daarna
+Felipe Pedrell met evenveel ijver de muzikale
+.schatten van zijn volk te vergaren, en zijn leer
+
+lingen te oefenen in het benutten van dezen rijkdom.
+Men weet met hoeveel succes. Albeniz en Graiiados,
+Turina en de Falla zijn menschen die wel
+onomstootelijk bewezen hebben, dat er weer oen speci
+
+fiek Spaansche muziekstijl bijna spontaan kon
+ontstaan, met een zeer eigentijdsch karakter, en
+toch in nauw contact met de nationale folklore.
+Bij de Tschechen en Hongaren is de geboorte
+van een nieuwe muziek samengegaan met de
+geboorte van hun staatkundige zelfstandigheid.
+Bela Kun's volkscommissarissen Bela Bartok en
+Zoltan Kodaly hebben een recent voorbeeld
+gesteld van wat er op dit gebied in twee decenniën
+mogelijk is. Zij verzamelden Roemeensclie,
+Hongaarsche en Balkan-liederen, talloozo
+boerendausen, zij verwerkten ze zelf, en Bartok ging
+zelfs zoover dat hij zijn belangstelling tot de Ara
+
+bische liederen van Tunesiëuitstrekte.
+Minder vooropgezet, maar zeker niet minder
+geniaal heeft Janacek hetzelfde voor de Tschechen
+gedaan, en althans de kansen van een nationale
+.muziek voor zijn landgenooten gereed gemaakt.
+Bij de Italianen is ook de belangstelling in deze
+richting gegroeid, ofschoon men er geen systeem
+van gemaakt heeft zooals bij de andoren. Trouwens,
+bij dit volk heeft de meer gekunstelde muziek ook
+nooit geheel het contact verloren met de volks
+
+muziek. Zoodat zelfs een Casella mot zijn toepassing
+daarvan conform bleef aan de traditie.
+In Frankrijk is de folkloristische richting bij do
+ouderen kennelijk vertegenwoordigd door Kavel,
+zooals bij de jongeren door Poulenc, en bij de
+jongsten door de simplistische vriendjes van de Ecole
+d'Arceuil, bij Sauguet en Jacob vooral.
+Alleen in Duitschland valt er nagenoeg niets
+van dien aard te bespeuren, en wordt de ver
+
+nieuwing der muziek, voor zoover die daar gebeurt,
+langs een meer artificieelon en geforcocrden weg
+voltrokken.
+' In Scandinaviëbegon Grieg, in Finland Sibelius,
+maar het bleef bij beginnen; wij hier in Holland
+hebben er althans niets meer van vernomen. . . .
+En zijn er overigens niet veel beter aan toe, on
+
+danks onze Piet-Hein-rhapsodioën en
+Zuiderzeesymphonieën. Hot lijkt wel alsof wij nog eerder
+aan een nationale letterkunde dan aan een nationale
+muziek toe zullen zijn. Maar zelfs over de letter
+
+kunde valt niet te spreken.
+Rest Engeland, waar een enkeling als Vaughan
+fcHAKEL
+WEILIGEWEG 11-17"AMSTERDAM
+Kleermakerij
+verkrijgbaar N. R. V. MONTA SCHOENEN
+Williams uit de folklore kracht probeert te putten,
+met niet veel meer succes dan een paar Ameri
+
+kanen met de neger-muziek. De zwarte muze
+wordt voorloopig nog het best door vreemde
+
+lingen geëxploiteerd. Dvorak begon, om een voor
+
+beeld te stollen, toen hij een blauwe Maandag
+conservatorium-directeur in New-York was ge
+
+weest. De blues die door W. C. Handy werden
+gepopulariseerd, gebruikt tegenwoordig iedereen
+op eigen manier; Milhaud en Auric doen liet vol
+
+genssysteem, Louis G ruenbcrg weet niet anders. . . .
+Maar niemand liet zich nog door de honderden
+veel en veel belangrijker spirituals inspireer en.
+Ernest Bloch tenslotte, verwerkte in zijn eentje
+Joodsche volksmuziek, zóó goed door Idelsohn
+verzameld, dat hij een geheele school achter zich
+zou kunnen hebben, dio mogelijk nog wel komt,
+maar die er voorloopig nog niet is.
+Het spreekt vanzelf dat het vastleggen van al
+dio muzikale folklore in gedrukte verzamelingen
+slechts een betrekkelijke waarde heeft. Het be
+
+hoort juist tot het wezenlijke van do folklore,
+dat uitvoeringstechniek, karakteristieken van voor
+
+dracht, intonatie en dergelijke, moeten worden
+vastgelegd. Vollediger dan door welke notatie
+ook, kon dit geschieden door grammot'oiüscho
+opnamen; en men is daar in den laatsten tijd
+dan ook geregeld toe overgegaan, en wist juist
+aan de hand van kunstige metingen van de
+golflijnen der grammot'onischo plaat tot een veel
+nauwkeuriger notatie Ie komen.
+Geheele folkloristische phoiiogram-arehieven zijn
+reeds aangelegd, en Bartok bijvoorbeeld, heeft
+in den lateren tijd geregeld met dit hulpmiddel
+gewerkt. Juist nu de landsgrenzen meer en meer
+vervagen en door het vergemakkelijkte verkeer
+en de daarmee samengaande verdubbelde reis
+
+lust een langzame maar doorwerkende
+internationa'jisatüe in Europa optreedt, wordt het ook
+hoog tijd materiaal te verzamelen dat nog kans
+heeft zuiver en onbeïnvloed te wezen. Kchlo
+folkloristische platen zullen spoedig ponoog tot
+de zeldzaamlieden gaan behooren, en hot kan
+daarom van belang zijn te vernomen, wal door het
+groote publiek op dit gebied nog te bemachtigen
+valt.
+De Fraiischen klagen, dat '/.ij geen opnamen
+hebbon van do Oorsaron-liodoron noch van de
+oude gezangen uit het Quartior Latin. Maar
+,.Gr;imophone" (H.M.V) gut' verschillende platen van
+Bretoiische liedoren door volkszangers uitgevoerd,
+voorts van doedelzak- en vedel-muziek uit Berry,
+en van oude liedjes door Y vette Guilbort gezongen.
+Columbia en Pathégaven dansmuziek en zang
+uit Auvergrie, Itoussillon, Eyon, en zeemans
+
+lied ..Ton.
+Een relatief groote hoeveelheid Zwitscrscho en
+Tyroolschc volksmuziek werd in hoofdzaak door
+Polydor opgenomen, Italiaanseho volksmuziek
+door ongeveer allo maatschappijen. Zelfs Caruso
+heeft aan de vertolking hiervan meegewerkt.
+Wat er evenwel aan Woensche folklore is, verdient
+nauwelijks dien naam; eindelooze hoeveelheden
+walsen zijn het. En afgezien van een paar
+Beiersche Landler, vormen de Duitsche opnamen maar
+een poover bootje naast de Eransehe.
+Dan Rusland ! En nu bedoel ik niet eens het
+Wolga-lied dat we langzamerhand naar Tibet
+verwensenen, maar de prachtige Polydor-opnamen
+van de Oeral-kozakken en de Pathé-opiuimen van
+Scryabin's Balalaika-koor. Beide ensembles geven
+tenminste betrouwbare en ongekunstelde inter
+
+pretaties. Hot laatstgenoemde- bracht ook een
+mooie reeks Tziganen-lioderen.
+Zweedsche volksmuziek werd uitstekend door
+Sigrid Oiiegnn voor do grammofoon gezongen, on
+het aantal Engelselie opnamen, uit Wales, uit
+Ierland en Schotland is uiteraard vrij groot, en
+verspreid in de catalogi van allo belangrijke)
+fabrieken. Zij brachten ook uitstekende
+zeemansliederen.
+Van de Spaansche volkszangen moeten vooral
+Amsterdamsche Joffers in den Haag,
+bij K l o y ka nip
+Het is altijd een genoegen de Amsterdamsche
+Joffers te ontmoeten op het oorlogspad; dat is op
+tentoonstellingen. Gewoonlijk treft p e ze allen
+tcsaam, maar nu zijn bij Kleykamp er slechts vier
+aanwezig en die zijn, alphabetisch gerangschikt.
+Lizzy Ansingh, A. C', van den Borg, Coba llitsema
+en J. Surie, dus twee met oen voornaam erbij
+en twee mot initialen (dat beteokent voor mij iets).
+En wanneer wij deze verstokte minnaressen van
+het ponscel naar den indruk zouden rang-schikken,
+dio hun werk op ons maakte, dan zouden wij, hoe
+gaarne wij ze allen tegelijk zouden laten
+opmarcheeren, toch moeten zeggen, dat Coba Itilsema
+die .Toffer is, wier schilderkunst het meest
+schildorlijk is. Haar kleur, niet luchtig, maar
+doorklinkend, heeft op zich zelf do moeste inner
+
+lijkheid bij don grootsten rijkdom. Go vindt, dien
+rijkdom zoowel in liet Meisje met de Kat als in hot
+naaktfiguurtje. In de twee portretten (No. 45 en
+No. 50) is zij hier in dat opzicht het beste (vooral
+No. 45 trekt mij door een persoonlijke intonatie
+in den vorm en kleur), hoewel geen van tweeën
+de belangrijkheid bezitten van haar Moeder'»
+portret. De woidschheid, die g&lt;' daar vindt on hot
+langzame in do kleur daar, vindt ge als adem".
+in het bekende witte Beeldje, dat omgeven is
+door een van stemming bezielde ruimte. Lizzy
+Ansinrjh is tegenover het latente in Coba Uitsema
+openbaai'-geestig, soms doceerend, dikwijls
+sarkastisch zooals oen vrouw dat wel moet wezen.
+De gevangene Sultane is een werk, dat ik indertijd
+j roes, en hier opnieuw heb te loven, hot is oen
+compleet schilderij: als bouw en als botoekeris
+en als kleur. Onmiddellijk daarna komen als
+franke en vrije schilderkunst twee studies naar het
+.atelier Sehwartzo, levende, gevoelde studies (!) on
+15) terwijl No. l de Rusteloozon, een geschiedenis
+mot poppon, getuigenis aflegt niet alleen van haar
+kunde (zie do stoffen) maar ook van haar vermogen
+de pop pon voldoende te kunnen dramatisecren
+om hun rnoralisoerend spel te spelen.
+Mej. A. ('. run ilrn Jii-ry is hier de speciale
+bloeiiienschildoros. Zoowol in do witte camelia
+(om de ,,witten") als in de Oinorari.as (&lt;le rooden)
+gaf zij wat ze kon, als ze gelukkig werkt. Hierbij
+zou ik de Primula's (No. 2!)) voegen, zóó hot
+roode kleed, wa.arop de pot met bloemen staal,
+door zijn rood er niet iets uil was. Gevarieerder
+is Mei. J. iS»;'(Vs inzending. Ik vind er geen werk,
+dat do verdiensten bezit van haar bekroond
+zolfport'ol. maar n hot sehildorsge; ei (een
+waterverftoekening) eer geestig, on liet Meisjeskopje
+!',)S) met zijn rood-on-blnuw. aangenaam in deze
+samenstelling, zijn genietbare werkjes van deze
+vlijtige .Toffer. Niettegenstaande dit alles mis ik
+de d ie andere .Toffe: s; ik hoop. dat. zo een volgenden
+keer liet samen uit, samen thuis zullen handhaven.
+Dat hoort nu eenmaal zoo: zeven is vier 011 drie 011
+niet vier alleeen.
+A. PLASSCHAEIIT
+die door Maria Barrienlos en ,,1/a Nina de los
+l'einos" genoemd worden, naast die van ("armen
+Joselilo, de dansmuziek van ,,E1 cojo do Malaga",
+en heel wat luit- en guitaar-muziek.
+Zeer bizondere Catalaausclie platen produceerde
+Parlophone, terwijl Columbia een vrij groot
+aantal I'ortugeesche Fado's op de markt bracht.
+De Estudiantine Panhellónique" zorgde voor
+geschikte opnamen, van. Grieksche volksmuziek.
+Das Maslors Voiee geeft enkele Roemeensclie.
+Bulgaarscho en Turksche platen, bijna waardeloos
+vergeleken bij wat Kodaly en Bartok verzamelden.
+En 01 ik do talrijker Jiddische platen zijn nog
+poover naast Idelsohn's collectie.
+Moet ik tenslotte hot l tollandsche moois noemen,
+waaronder helaas niets waardevols is voor do folk
+
+lore? Een modeluitvoering van onze
+middeleeuwsche liederen, van de onovertroffen gezangen
+uit Valerius' Gedonekklanek, van onze overoude
+kinderliedoren, blijft nog altijd een desideratum.
+Voorloopig hebbon we slechts platen van Piet
+Hein on nop zoo wat. waarnaar niemand moer
+lui.stdt, slechte patriotten die we zijn!
+VAN DER HELST SIGAREN
+GOEDE SIGAREN IN EEN BESCHAAFDE VERPAKKING
+
+</text>
+<image timestamp="2002:09:25:06:30:12.00" size="228360">0000091P.TIF</image>
+</page>
+</document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050820</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1469
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+TEEKENINGJ^EN VAN TJEERD BOTTEMA.
+En dit hertrouwen, mijne heeren, moet gij in mij stellen, dat ik van
+meening niet, als van hemd, een paar maal in 't jaar verwissel.
+Heb je de nieuwe Murillo gezien, die de stad aangekocht heeft ?
+Neen, ik ben deze week nog niet in Artis geweest.
+Maar man, wat is dat ongezond, die varkens zoo dicht achter je huis !
+Ongezond ? Da's nie waar. Ik ben zoo gezond als een verreken zelf.
+Kan ik mijnheer Godschalk| spreken?
+Die hen ik of moet u den ouden-heer Godschalk hebben ?
+KI.EIXE WII.LE.M Slot mama, die nuar het bal gaat) : Hè, als ik mijn onderkleeren
+niet wil aantrekken, zeurt u zoo en wat doet u nu zelf?"
+Merkwaardig, nou ze dien weg verbreed hebben, valt hij mij wel eens
+zoo lang.
+
+</text>
+<image timestamp="2002:08:22:07:57:04.00" size="299874">D2002HO.TIF</image>
+</page>
+</document>

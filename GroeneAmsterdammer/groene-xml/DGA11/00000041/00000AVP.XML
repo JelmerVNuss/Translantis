@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321231</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ho. 2900
+De Groene Amsterdammer van 31 December 1932
+15
+Jaarswisseling
+i
+w
+
+if
+t
+C. A. Klaasse
+Hoop of vreeze?
+Oudejaarsavond .... balans opmaken.... terug
+
+blik .... bespiegelingen.... weemoed .... nieuwe
+hoop. Allemaal associaties waaraan men zich moei
+
+lijk onttrekken kan, ook al is men geen chronisch
+fcalenderitis-lijder. In die jaarswisseling zit nu een
+
+maal iets van afgedaan hebben met wat voorbij is
+en van een schoone lei, die men naar eigen willen
+met goed of met kwaad nieuws kan gaan beschrij
+
+ven.
+Om dan met die balans te beginnen: erg fraai
+•ziet ze er niet uit, veel passief en niet veel actief.
+Inderdaad, het heeft er een tijd lang, zelfs eenige
+maanden, naar uitgezien alsof de economische toe
+
+stand zich ten beste zou keeren. Van een groot
+-aantal grondstoffen, welker deplorabele markt
+
+positie in hooge mate had bijgedragen tot de
+algemeene malaise, stegen de prijzen in Juli en Augus
+
+tus aanmerkelijk. Na September trad echter
+allerwege een reactie in die de prijzen vrijwel alle weer
+«p het laagste niveau van dit jaar bracht. En voor
+de rest: de werkloosheid is in de meeste landen in
+den loop van dit jaar aanmerkelijk gestegen, de
+internationale ruil is sterk verminderd, niet in de
+eerste plaats door de prijsdaling waardoor natuur
+
+lijk de waarde van den wereldhandel ook terugloopt,
+maar ook quantitatief is een belangrijke achteruit
+
+gang te constateeren. Deze reactie is niet alleen een
+gevolg van de depressie die allerwege, dus ook bin
+
+nen de landsgrenzen, de om/ettendoet dalen, maar
+in de eerste plaats met opzet in het leven geroepen
+door belemmerende maatregelen als invoerrechten,
+contingenteering enz. Maar juist omdat vrijwel
+alle landen zonder uitzondering dezen weg bewan
+
+delden, bleef voor elk land het verwachte succes uit,
+het werd immers gecompenseerd door soortgelijke
+maatregelen elders. Maar bij die compensatie bleef
+het niet; al deze handelspolitieke acties
+beteekenden economische verschuivingen, en elke verschui
+
+ving beteekent tijdelijke stagnatie, en in een periode
+van depressie, waarin de handel op een dood punt
+staat, weet men niet wanneer de tijdelijkheid van
+zulke stagnaties eindigt, maar dat zij lang duurt
+staat vast, omdat nieuwe impulsen ontbreken. Al
+die handelspolitieke maatregelen, en er zijn er dit
+jaar heel wat geweest (een voor den wereldhandel
+zoo belangrijke schakel als Engeland maakt zelfs
+volkomen volte face naar de protectie) hebben de
+depressie zeer verscherpt. Dan is daar nog een factor
+ten aanzien waarvan de kaleidoscoop geen al te
+gunstig beeld geeft: het is waar, het kamp van de
+gouden-standaard-afvalligen heeft geen belangrijke
+nieuwe satellieten gekregen; de V. S., waar men
+volgens de reeds vele malen gedementeerde (en dus
+•waarschijnlijk zeer juiste) mededeeling van Hoover
+•op het randje heeft gestaan om in de goudledige
+ruimte over te stappen, hebben den dollar tenslotte
+gehandhaafd. Maar daarmee is geenszins gezegd,
+dat de factor der muntverzwakking dit jaar geen
+invloed heeft gehad. De groote sprong is inderdaad
+verleden, jaar gedaan toen het pond en de drie
+kronen van hun gouden voetstuk vielen. Maar het
+is niet alleen zulk een plotselinge overgang, die op
+het economisch leven zijn invloed doet gelden, dat
+-,is evenzeer het geval met geleidelijke bewegingen.
+En de meest funeste invloed is niet alleen de waarde
+
+verandering van de vorderingen in deze munten
+luidend. Ook dat is onaangenaam, en vooral
+deprimeerend in malaisetijd, maar er zijn belangrijker
+consequenties: toen verleden jaar het pond viel
+zijn de prijzen van een groot aantal belangrijke
+grondstoffen min of meer evenredig gedaald. Ter
+
+wijl ongetwijfeld als regel kan worden gesteld, dat
+de prijzen in een papiervaluta uitgedrukt volko
+
+men afhankelijk zijn van de wereldgoudprijzen en
+op en neer zullen gaan al naar de waarverhouding
+tusschen dat papiergeld en goud, was hier de ver
+
+houding juist andersom. Niet omdat de vorenge
+
+noemde theorie fout is, maar omdat de feitelijke
+marktverhoudingen juist zoo waren, dat de
+traditioneele ceteris-paribus-praemisse niet opging. De
+markten van bijna alle producten verkeerden in
+«en vrijwel volstrekt labiel evenwicht. Engeland
+was nog steeds een vraagfactor" die niet te
+onderschatten viel. Voegt men die twee factoren
+tezamen dan is het begrijpelijk dat de pondenval
+de goudprijzen kon omlaag drukken. En juist
+daarom is de muntstabiliteit ook op dit oogenblik
+nog van zooveel beteekenis. De hernieuwde pon
+
+denval in het najaar heeft dat weer eens te meer
+doen voelen, nadat geruimen tijd van betrekkelijke
+stabiliteit de aandacht wat had afgeleid. Dit geldt,
+zooals hierboven uiteengezet, voor de heele wereld
+
+markt, maar natuurlijk in het bijzonder voor die
+takken van bedrijf die in ponden plegen te contrac
+
+teeren zooals b.v. de scheepvaart.
+En dan is daar tenslotte nog de netelige kwestie
+der internationale schulden. Het scheen in het
+midden van dit jaar, dat me:i voor dat vraagstuk
+tot een definitieve oplossing was gekomer, de
+heele opleving in de eerste maanden van het tweede
+halfjaar was zelfs te danken aan de overeenkomst
+van Lausanne. Maar ook hier is een streep door de
+rekening gezet. Op 15 December hebben de V. S.
+betaling verlangd van hun debiteuren, en Lausanne
+maakte immers het voorbehoud dat Duitschland's
+crediteuren het op een accoordje /ouden kunnen
+gooien met hun schuldeischer: Amerika.
+Met weemoed hoeven we dxis werkelijk niet op
+dit jaar terugzien. Maar hoe staat het nu met de
+nieuwe moed waarmee we het volgende jaar
+kunnen ingaan0 Al de hierboven aangevoerde
+problemen wachten op een oplossing. Het is in
+elk geval een stap vooruit dat dit alg-emeen wordt
+ingezien. Meer dan dit: aan dat inzicht is zelfs
+het plan ontsproten om in het nieuwe jaar een
+economische wereldconferentie te houden.
+Intusschen, met een conferentie alleen is men er natuur
+
+lijk niet. En nu geven helaas de preliminaire
+besprekingen met betrekking tot deze conferentie
+niet bijster veel hoop. Het beeld daarvan is onge
+
+veer als volgt: de gouden-standaard-landenjzeggen,
+dat over handelspolitiek natuurlijk niet gesproken
+kan worden zoolang nog de instabiliteit van ver
+
+schillende valuta's een zoo belangrijke factor van
+onzekerheid in het internationale handelsverkeer
+beteekent. Engeland stelt daartegenover, dat
+natuurlijk aan stabilisatie niet gedacht kan worden
+zoolang de handelspolitieke verhoudingen niet
+een grootere mate van zekerheid in het verkeer
+hebben gebracht.
+Op handelspolitiek terrein ziet het er
+voorloopig nog allerminst gunstig uit. Want zelfs
+landen die het tot nu toe met den vrijhandel goed
+meenden, worden gedwongen zelve het harnas
+aan te gorden, zooals de ontwapeningsvoorstan
+
+ders gedwongen kunnen worden tot bewapening
+om der wille van eigen veiligheid. Ons land is
+daarvan een typisch voorbeeld. Aan alle kanten
+worden onze producten geweerd, en onder die
+omstandigheden moet men wel ter zelfbescherming
+afweermaatregelen nemen.
+Maar wanneer wij op dit gebied het nieuwe jaar
+met een goed voornemen willen ingaan dan moet
+het dit zijn: laat onze bescherming een zuiver
+defensieve blijven, en laat elke maatregel op dit
+terrein slechts een pis-aller zijn, dus niet genomen
+worden dan nadat alle pogingen in het werk
+gesteld zijn om het bestaande ruilverkeer intact
+te houden. Want dat heeft de ervaring van het
+afgeloopen jaar weer eens bevestigd: het is twee
+
+maal beter om de status-quo te handhaven, ook
+al is die schijnbaar niet gunstig, dan om te trachten
+veranderingen aan te brengen, die onder de
+heerschende omstandigheden persétot achteruitgang
+moeten leiden. In groote trekken is dit ook tot
+nu toe het doel van onze handelspolitiek geweest:
+de contingenteering had niet ten doel de onder
+normale omstandigheden binnenkomende import
+te belemmeren, alleen de abnormale" invoeren.
+En zoo zal ook de clearing-overeenkomst die met
+Duitschland gesloten zal worden deze overeen
+
+komst is hoewel naar den uiterlijken vorm een
+wisselhandel-regeling, naarden aard een handelspolitiek
+document hetzelfde doel nastreven: beveiliging
+tegen al te ingrijpende veranderingen in den
+status-quo. Wanneer de economische wereld
+
+conferentie niet anders zou bereiken dan dat
+zulk een streven, om tenminste niet meer
+verVrede op aarde
+
+Wij moeten ons maar geen illusies maken, zelfs
+in deze vredesdagen tusschen Kerstmis en Nieuw
+
+jaar niet, terwijl nog de zachte glans der
+kerstboomen door de ruiten schijnt, als een
+nabetrachting van het in-de-menschen een welbehagen".
+De mensch blijft een gevaarlijk dier. Is niet dezer
+dagen in Leipzig een ex-soldaat tot 10 jaar
+tuchthuisstraf veroordeeld, wijl hij in 1914, bij
+Langemark, het plan tot den eersten gasaanval aan den
+vijand verraden had? Gewis, een soldaat, die zijn
+land aan den vijand verraadt ! Ja, maar veertien
+jaar na den oorlog een mensch verwijten en zijn
+leven verwoesten, omdat hij, zoo lang geleden, nu
+de bezinning gekomen heet, een der gruwelijkste
+gruwelen ten deele heeft verhinderd en toen velen
+het leven heeft gered? Er is inderdaad in die krin
+
+gen, die, als 't er op aankomt, het heft in handen
+hebben, nog niets veranderd en meiischelijkheid
+blijft een leeg woord. Wij, ouderen, die thans aan
+den vrede denken, wij behoorden, zoo al geen nut
+
+teloos berouw, dan toch iets als pijnlijke schaamte
+te gevoelen, een bitter besef van de duivelsche
+verdwazing dier jaren en daden, als die van den
+ex-soldaat, niet alleen meer als verraad" te zien
+en te kwalificeeren. Dat &lt;iit wel gebeurt, geeft in
+
+derdaad niet veel hoop voor de toekomst.
+F. C.
+warring te stichten, niet meer verschuivingen
+te doen plaats vinden, dan was er al heel wat
+bereikt. Afbreken van bestaande tariefmuren
+komt dan later wel, dat zal trouwens heel, heel
+langzaam moeten gebeuren. Van overhaasting
+zouden de gevolgen even funest zijn als bij ver
+
+hooging der rechten. Misschien dat het verdrag
+van Ouchy als voorbeeld kan dienen.
+Wat de muntstabilisatie betreft: Engeland
+schijnt den huldigen toestand geenszins als erg
+onaangenaam en schadelijk te ondervinden. Wat
+heel begrijpelijk is: de massa komt niet in verzet
+zoolang de iriheemsche prijzen maar niet stijgen,
+en dat deden ze tot nu toe niet. liet moet trouwens
+worden toegegeven, dat de betalingsbalans op het
+oogenblik nog nauwelijks voldoende gesaneerd
+is om tot stabilisatie over te gaan. Erger is het
+dat nu weer de depreciatie van het
+Zuid-Afrikaansche pond dreigt. Weliswaar is deze valuta
+voor den wereldhandel niet van zoo veel belang,
+maar het is weer een symptoom van de stemming,
+die er allerminst op wijst dat men ernstig naar
+herstel wil streven. Daar is nu een land, dat tot
+de gelukkige uitzonderingen behoort in dier voege
+dat de depressie geen vat heeft op het belangrijkste
+export-product: goud. De waarde van den invoer
+is veel sneller gedaald dan die van den uitvoer.
+Zoo ergens dan was dus hier de positie van den
+munt steviger dan te voren. Dat men onder
+die omstandigheden den munt wil doen deprecieeren,
+beteekent niets meer of minder dan verkrachting
+der meest elementaire rechtsbegrippen ten pleziere
+van een groep fabrikanten die daarvan tijdelijk
+voordeel kunnen hebben. Trouwens ook in Amerika
+duiken telkens weer plannen op om de circulatie
+uit te breiden, teneinde de prijzen te doen stijgen
+tot het niveau van 1929. Voorloopig blijven dat
+wel hersenschimmen, maar gevaarloos zijn ze niet.
+En dan tenslotte de oorlogsschulden: Amerika
+staat niet heelemaal afzijdig van besprekingen,
+maar erg toeschietelijk doen de Yankees toch
+niet. Waarin ze overigens geen ongelijk hebben.
+De feitelijke beteekenis van deze kwestie is steeds
+door de arbiteuren schromelijk overdreven, maar
+juist daardoor is dit een punt van groote psycholo
+
+gische beteekenis geworden. Als iemand steeds
+maar schreeuwt: pas op of ik bega een ongeluk,
+dan is de heele omgeving gespannen op het te
+begane ongeluk en het wegnemen van de oorzaak
+van 's mans woede leidt tot algemeeiie opluchting.
+Maar het is te begrijpen, dat Amerika er weinig
+voor voelt om het goud in de kelders van de
+Banque de Prance te laten zoolang het nog een
+millioenenvordering heeft waaronder de Fransche
+regeering haar handteekening heeft gezet.
+Erg hoopvol ziet het er dus nog niet uit. De
+economische conferentie kan in al deze gevaren
+
+zones misschien vrede stichten, desnoods
+gewapenden vrede, mits maar vrede. Maar dan moeten
+ook alle betrokken landen zich wel bewust zijn
+van wat er op het spel staat.
+
+</text>
+<image timestamp="2002:09:27:17:22:41.00" size="286660">00000AVP.TIF</image>
+</page>
+</document>

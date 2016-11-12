@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18880812</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van l* Augustus I$88.
+ofëwlbw.
+Agent. Ho ! -- Stop! Waar wou jelui heen met mekaar? Agent. Je kinderen? En wat zijn dat dan voor dreumis
+£&gt;e Beelden. Naar de Plantage Schouwburg van Lier. fiea daar achter ie? ....
+Agent. Daar hoor jelui niet .... De Beelden, Onze kleine broertjes en zusjes, die zijn
+De Bftlilen. 't Is in ons huis zoo leeg en stil, we ver- ns nageloopen; dat kunnen wij niet helpen.
+velen ons zoo met dat afschuwelijke weer en onze kin- Agent. Zoo, zoo! 'n mooi ding je moest je schamen
+deren zijn allen in den Schouwburg van Lier, dus .... die stumperts hebben totaal niets aan, je mocht ze wel 'n
+beetje fatsoenlijker aank'.eeden en jelui eigen toilet is ook
+ongepermitteerd.... Terugl Goeie hemel! 't Is voor
+een Christelijk jongmensch om stekeblind van te worden._.
+De Beelden. Den reinen is alles rein!—en de Kunst. ...
+Agent. De Heeren hebben hier in Amsterdam wel wat
+anders te doen dan om ide Kunst" te denken en bo
+
+vendien, ze zouden je voor wat raars kunnen aanzien; wij
+hebben orders om streng toe te zien dat 's avonds laat
+geen dames alleen
+''De Beelden. Maar
+Agent, Geen maren!	Je japonnen fatsoenlijk dicht en
+terug naar 't Plein asjeblieft, daar hoor jelui l
+
+</text>
+<image timestamp="2002:08:20:15:45:11.00" size="325696">D10001ZU.TIF</image>
+</page>
+</document>

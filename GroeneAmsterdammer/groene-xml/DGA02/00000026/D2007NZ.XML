@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920522</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Veel gemin, geen gewin.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederknd, van 22 Mei 1892.
+7 &lt;
+O '7
+..J
+Amst. Boek- en Steen.lruks.tn:. v,h. Li'.' M^MI liarius i (".
+Afgevaardigde l'ijttcrsen: «Mag ik Uwer Kxcellentie mijn ontwerp voor Kamers van Arbeid aanbieden?"
+Afgevaardigde Scliimwetyenmnck: »lk heb hier ook een ontwerp, Kxcellentie''.
+Minister rein Justitie: »A1 lang iets dergelijks in portefeuille, Hecren !''
+Ncdcrlandschc Werkman: "Kamers van Arbeid? Graas. Heeren! Maar eerst arlh-iif, als 't u blieft!"
+
+</text>
+<image timestamp="2002:10:04:00:04:29.00" size="323205">D2007NZ.TIF</image>
+</page>
+</document>

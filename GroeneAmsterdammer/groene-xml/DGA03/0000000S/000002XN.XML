@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910607</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Twee stappen naar het ideaal.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 7 Juni iSqi.
+
+Z«öXIII: &gt;Het kapitaal is er voor den arbeid en de arbeid voor het
+kapitaal. Overeenstemming is overal de onmisbare voorwaarde voor
+schoonheid en orde; een hardnekkige strijd daarentegen kan slechts ver
+
+wildering en wanorde veroorzaken. Tot het uitdooven van den strijd en
+zelfs tot wegneming zijner oorzaken bezit het Christendom wonderdadige
+en onderscheiden krachten."
+(Encycliek van ij Mei iSgr.)
+-Anist. Jioek- en Steendrukkerij, v/h. Ellerman, Har
+Keizer Wilhelm: »Ik ben besloten, ter verbetering van den toestand
+der Duitsche arbeiders de hand te reiken.
+»Het is een der eerste plichten van de staatsmacht, den tijd, den duur
+en den aard van den arbeid zóó te regelen, dat het behoud der gezond
+
+heid, de geboden der zedelijkheid, de economische behoeften der arbeiders
+en hunne aanspraken op gelijke rechten voor de wet gewaarborgd blijven."
+(Rescripttn van 4. februari i8go.)
+
+</text>
+<image timestamp="2002:08:19:08:30:50.00" size="520372">000002XN.TIF</image>
+</page>
+</document>

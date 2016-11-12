@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19090411</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De campagne in Engeland voor een nog grootere vloot,
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 11 April 1909.
+Ainst. hoek- rn Steendrukkc rij, v/h. Kllerman. Harms &amp; Co.
+BALFOW. De toestand wordt onhoudbaar. De Duitsche vloot is reeds half zoo groot als de onze l Mér schepen hebben wij noodig!!
+STEMMEN : Hoort! hoort! Juist! Bravo !
+DE GEEST VAN NELSON: In mijn tijd waren we niet bang voor vloten, die dubbel zoo groot waren als de onze!
+L
+
+</text>
+<image timestamp="2002:08:16:00:23:44.00" size="447923">000001UW.TIF</image>
+</page>
+</document>

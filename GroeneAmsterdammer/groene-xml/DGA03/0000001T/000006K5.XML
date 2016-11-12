@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280512</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 12 MEI 1928
+No. 2658
+Het wetsontwerp tot regeling van het voorbereidend hooger
+en algemeen vormend middelbaar onderwijs"
+door Dr. S. ELZINGA, Inspecteur van het M. O.
+f~\ P 16 Maart j.l. is bovengenoemd wetsontwerp
+bij de 2de Kamer ingediend. Voor een belang
+
+rijk deel is het een gewijzigd voorstel van een gelijk
+
+namig wetsontwerp uit het jaar 1924; dit was weer
+een gewijzigde editie van een gewijzigd ontwerp
+van wet" uit het jaar 1922, zelf een wijziging van
+het ontwerp Middelbaar-Onderwijswet" van 1921,
+welk ontwerp was voorbereid door een voorloopig
+ontwerp van wet van 1920. Het zou niet moeilijk
+zijn op deze wijze nog eenigen tijd door te gaan.
+Men zou kunnen noemen een wetsontwerp van
+1915, waarin het handelsonderwijs was opgenomen.
+een ontwerp van Minister Heemskerk van 1912,
+de jarenlange voorbereiding eener wettelijke rege
+
+ling door de z.g. reorganisatie-commissie, ingesteld
+bij K. B. van 21 Maart 1903, die in 1910 twee zeer
+lijvige rapporten uitbracht. Al deze rapporten en
+wetsvoorstellen zullen in het archief van het
+ministerie van onderwijs heel wat planklengte
+beslaan.
+Zoo geven de laatste 25 jaren op het gebied van
+het voortgezet onderwijs een beeld van wettelijke
+onmacht, die vrijwel geheel moet worden toege
+
+schreven aan de uiteenloopendëonderwijsinzichten
+van verschillende groepen. Tal van belangstellenden
+en belanghebbenden zien bij hun beoordeeling niet
+veel verder dan hun onmiddellijke omgeving, an
+
+deren zien in het voortgezet onderwijs vooral
+een middel tot godsdienstige opvoeding, sommigen
+wenschen een groot gedeelte der onderwijszorg
+over te laten aan particulier initiatief, terwijl nog
+anderen den Staat minder als den vaderlijken ver
+
+zorger van dit onderwijs beschouwen dan als
+monetair automaat. Ten slotte zijn er, die met het
+oog op de door het groote bevolkingsaccres nood
+
+zakelijke productiviteitsvermeerdering een meer
+maatschappelijke oriënteering van het voortgezet
+onderwijs noodzakelijk achten.
+Al deze zeer uiteenloopendëtonen moet de wet
+
+gever tot een voor veler ooren aangenaam klin
+
+kende melodie componeeren. Hij moet voortbor
+
+duren op het stramien van het verleden, waarop
+een zeer verward onderwijsbeeld staat. Zelfs aan
+een geniaal kunstenaar zal het niet gemakkelijk
+vallen uit dezen wirwar van lijnen een beeld te
+scheppen, dat veler oog bekoort.
+Zal dit met het wetsontwerp het-ge val zijn?
+Waarschijnlijk zullen vele leden der
+StatenGeneraal zeggen: gelukkig, een dun wetje",
+na bestudeering zullen zij wellicht ook zeggen: in
+elk geval een duidelijk wetje"; of ze later zullen
+zeggen: een goed wetje" is vooralsnog het geheim
+der goden. Misschien zal reeds de naam aanleiding
+geven tot veel discussie en veel misverstand.
+De tegenstelling eindonderwijs voorbereidend
+hooger onderwijs heeft immers al zooveel pennen
+in beweging gebracht en meestal redeneerden de
+schrijvers langs elkander heen. In elk geval is het
+niet de bedoeling van dit wetsontwerp het begrip
+voorbereidend hooger onderwijs op te vatten als
+onderricht, waarop het hooger onderwijs zijn stem
+
+pel drukt. In dit ontwerp komt, zooals trouwens
+ook reeds in dat van 1924, tot zijn recht, wat vele
+kamerleden in 1863 tegenover Thorbecke staande
+hielden, nml. dat een tegenstelling eindonderwijs
+voorbereidend hooger onderwijs vrijwel geheel
+kunstmatig is, dat goed voortgezet onderwijs,
+gedurende een vijf- of zestal jaren door volledig
+bevoegde docenten gegeven, tot een verdieping van
+inzicht kan leiden, waarop het hooger onderwijs zoo
+noodig voort kan bouwen, doch dat het tevens
+geschiktheid moet schenken voor verschillende
+maatschappelijke functies. Zij verwierpen de
+tegenstelling als onpraktisch, onmaatschappelijk
+en ondemocratisch. Van Thorbecke en de meerder
+
+heid der Staten-Generaal kregen zij ongelijk, de
+BOOTMOTOREN
+MOTORBOOTEN
+BINGHAM &amp; LUGT
+Haringvliet 85
+ROTTERDAM
+onderwijsontwikkeling heeft hen in het gelijk
+gesteld, wat trouwens op psychologische gronden
+te verwachten was. De hoogere burgerschool, die
+uitsluitend eindonderwijs zou geven, zag reeds
+in 1870 plm. 50 pCt. harer leerlingen naar voort
+
+gezet onderwijs overgaan, vooral naar de polytech
+
+nische school te Delft. Dit percentage is pi.m.
+50 pCt. gebleven, ook toen in 1905 de school tp
+Delft tot Technische Hoogeschool werd verheven,
+ondanks de artsenwet, die den leerlingen d er hoogere
+burgerschool den weg tot de medische studiën
+opende, ondanks de wet-Limburg, die het jus pro
+
+movendi schonk voor de wis- en natuurkundige
+en voor de medische faculteit, ondanks de stichting
+der landbouwhoogeschool, der veeartsenijkundige
+hoogeschool, der handelshoogescholen, der
+indologische faculteiten, waar de abituriënten der
+hoogere burgerscholen examens konden afleggen.
+Mr. Limburg zag ha 1917 zijn wetsontwerp dan ook
+niet aangenomen, omdat het onderwijs der hoogere
+burgerschool in karakter was veranderd, doch
+omdat men een einde wilde maken aan de zonder
+
+linge inconsequentie, dat de lange rij van profes
+
+soren, afkomstig van hoogere burgerscholen, wel
+geschikt werd geacht om hun studenten te promo
+
+veeren, doch zelf den doctorsgraad niet mocht
+behalen. Zoo ontvingen de hoogere burgerscholen
+een beperkt jus promovendi in de richting van de
+kernvakken der school.
+De ontwikkeling der Hoogere Handelsschool,
+later ook hoogere burgerschool A genoemd, loopt
+paralel aan die der H.B.S.B. Sedert jaren reeds
+leveren deze instituten met zeer bevredigende
+resultaten leerlingen aan de handelshoogescholen,
+zonder dat de maatschappelijke opleiding hier
+
+door in het minst veranderde.
+Het wetsontwerp brengt ten opzichte der studie
+
+rechten al heel weinig nieuws. Eigenlijk heelemaal
+geen nieuws, daar deze studierechten geregeld
+zijn in een gelijktijdig ingediend ander wetsont
+
+werp, nml. een wijzigingsontwerp der
+hoogeronderwijswet. Doch ook dit ontwerp verandert
+al zeer weinig aan den bestaanden toestand. Voor
+de gymnasia, de lycea en de hoogere burgerscho
+
+len B. blijven de studierechten ongewijzigd, de
+hoogere burgerschool A ontvangt behalve het
+studierecht voor Oost-Indisch ambtenaar, dat de
+hoogere handelsschool vóór 1920 bezat, doch toen
+door de opneming dezer studie in de
+hoogeronderwijswet als wettelijk niet geregeld instituut
+noodzakelijkerwijze moest verliezen, slechts het
+studierecht voor sociale aardrijkskunde. Het zal
+de bedoeling van de regeeriag zijn de aantrekkelijk
+
+heid van een schooltype, dat voor do maatschappij
+van zoo groote beteekenis kan zijn, een weinig te
+verhoogen.
+In verband met het voorgaande is het niet aan
+
+nemelijk, dat de naam voorbereidend hooger
+onderwijs eenig practisch belang heeft.
+Een belangrijk punt in het wetsontwerp, waar
+
+aan de 2 en 3 der memorie van toelichting zijn
+gewijd, is de opneming van het handelsonderwijs
+in het wetsontwerp. Dit punt had gedurende
+eenige jaren tot veel gedachtenwisseling en strijd
+aanleiding gegeven. Sommigen achtten een spe
+
+ciale opleiding voor den koopman noodzakelijk,
+mede op grond van zijn bijzondere positie in ons
+maatschappelijk bestel. Dat onder de pleitbezor
+
+gers van deze meening niet weinigen waren, die
+wel het gymnasiaal of het middelbaar onderwijs der
+H.B.S.B. maar niet het handelsonderwijs kenden,
+maakte dit standpunt niet sterker. Intusschen zul
+
+len deze pleitbezorgers bij eventueele kritiek op het
+wetsontwerp een gemakkelijke taak hebben. Het
+handelsonderwijs toch blijft als men althans
+slechts op den naam let beperkt tot handels
+
+scholen met een 3 of 4 jarigen cursus en tot handels
+
+cursussen, waaronder men de
+handelsavondseholen zal moeten verstaan. Wie iets nauwkeuriger
+kijkt, zal echter zien, dat de hoogere burgerschool
+A in het wetsontwerp is bedoeld als een vijfjarige
+opleiding voor maatschappelijke functies, in de
+eerste plaats voor den handel. Wie met deze duide
+
+lijke uitspraken van den Minister onvoldoende
+rekening houdt, zou inderdaad een geheel onge
+
+motiveerd wantrouwen aan den dag leggen in de
+bedoelingen van de regeering. Dat verder bij de
+regeling der handelscursussen zeer veel is over
+
+gelaten aan algemeene maatregelen van bestuur
+T VELTHUIJS", Hattcm.
+Geh. jaar geopend. Kamers met
+stroomend water. Eigen
+dennenbosch van 5 H.A. Tennisbaan.
+Garage. Tel. 17.
+wordt begrijpelijk, als men weet, dat bij dit onder
+
+wijs nog weinig algemeene vormen zijn gesteld.
+Men mag verwachten, dat de desbetreffende maat
+
+regelen van bestuur het onderwijs dezer cursussen
+op de beste wijze aan zijn maatschappelijke taak
+zullen doen beantwoorden. Voor wantrouwen in
+de bedoelingen va.n de regeering is ook hier zeker
+geen aanleiding.
+"^ Behalve^de reeds genoemde schooltypen zullen
+het lyceum, waarvan het eerste in 1909 werd opge
+
+richt en de middelbare meisjescholen, die reeds
+uit de zestiger jaren der vorige eeuw dagteekenen,
+een wettelijke regeling ontvangen.
+Meer gedetailleerde zaken zijn, ongetwijfeld niet
+het oog op wisselende inzichten, overgelaten aan
+algemeene maatregelen van bestuur. Te veel zaken
+zullen wellicht sommigen zeggen. Erkend moet
+echter worden, dat de moeilijkheden, waarop reeds
+in het begin van dit korte overzicht werd gewezen
+en die bij elke wettelijke regeling zullen rijzen,
+zeer zouden vermeerderen, wanneer het wetsont
+
+werp behalve algemeene zaken ook tal van detail-.
+punten voor lange jaren zou vastleggen. Bezwaren
+zullen er toch nog genoeg overblijven. Zoo zullen de
+artikelen over de financieele verhouding van
+het rijk tot de gemeenten en de schoolbesturen
+wel niet zonder veel discussie en wellicht niet
+zonder wijziging worden aanvaard. Wat hiervan
+ook zij, verwacht mag worden, dat de leden der
+Staten-Generaal zich zullen richten naar de woor
+
+den, die een hunner eminentste mannen in de
+80er jaren der vorige eeuw aanhaalde, nml.:
+Ie peuple qui a les meilleures coles est Ie pre
+
+mier peuple; s'il ne l'est aujourd'hui, il Ie sera
+demain."
+
+Nieuwe Uitgaven
+
+l'. Hoogland. Vijf-en-twintig jaren
+sociaalde-mokratie in de hoofdstad. Amsterdam, A7.T'.
+Ontwikkeling. 1928.
+De titel van. dit boek is te bescheiden: de
+sociaaldemocratie is in Amsterdam ouder dan een kwart
+eeuw. De zaak is zoo. Keeds in Juli 1878 ontstond
+Ie Amsterdam de eerste sociaal-democratische
+vereeniging: de partij kan dus weldra haar gouden
+feest vieren. In 1894. word de afdoeling Amsterdam
+dor pas gestichte S.D.A.l'. opgericht. In 1903 was
+dezo at'deeling zoo gegroeid, dat zij naar de toen
+
+malige kiesdistricten in negen groepen werd
+gesplitst, die tezamen de federatie Amsterdam der
+8.T).A.J', vormen. Het is het zilveren feest van deze
+federatie, die met haar negen afdeelingen de oude
+kiesdistricten heeft overleefd, dat door den heer
+Hoogland in bovenstaand boek wordt herdacht.
+liet is goed, dat zulke boeken verschijnen. Onze
+arbeidersbeweging wordt langzamerhand een stuk
+geschiedenis van Amsterdam, dat verdient te
+worden bestudeerd. De heer Hoogland heeft de
+stukken zelf onderzocht en daaruit een geschiedenis
+opgebouwd van de genoemde federatie, die ook
+buiten haar kring de aandacht verdient. Eigenlijk
+is het boek niet voor buitenstaanders bestemd: het
+moet blijkens het voorwoord opwekken tot ver
+
+deren krachtigen strijd voor het ideaal der inter
+
+nationale sociaaldemocratie. Maar niettemin willen
+wij wel zeggen, dat wij niet belangstelling kennis
+hebbeu genomen van de uiteenzetting van den heer
+Hoogland. Al is hier objectiviteit natuurlijk niet
+overal te vinden, wat wordt medegedeeld is belang
+
+wekkend guioeg en een dankbaar te aanvaarden
+bijdrage tot de kennis van het moderne Amsterdam.
+Op den omslag, die mooi van kleur is, waait de
+voode vlag van don Westertoren. Voor zoover wij
+woton. is het nog niet zoovel1 gekomen.
+H. BRÜGMANS
+DËBE5TEVARIMA5
+
+</text>
+<image timestamp="2002:09:04:14:55:14.00" size="252623">000006K5.TIF</image>
+</page>
+</document>

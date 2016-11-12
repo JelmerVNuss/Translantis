@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020817</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nó. 1312 .
+. DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+JFratiErijk na hef bezoek van den koning van Italiëen den keizer van Duitschland aan den Czaar.
+Zoo komt het	(Lustige Kotter).
+MABIANNE (tot Nicolaas): »Nu ben j^ weer de irynp, nietwaar; maar r.a dat gekus met dien Italiaan en dien Duiischer mag ik jo eerst wel eens afwasschen."
+
+Rus«i:-che Hervormingen f U Ik).
+De kermis van de Alliantie.
+i.i.AM): tZou dat fcu alles op m\jn kerais te zien
+zijn als de heeren komen ?"
+(In de at.ticliamltre v.m een AKHiardair).
+
+«Mister JVIorgan's Fchco:hori&lt;?j&lt;) is htd;n jarig, hij kan dus tot zyn,
+leedwezen nienand meer ontvargan . .."
+Een get-eim d^r zee (Punch).
+P.\ssAfiii-.Ji: »L--.is!er eer s h.,f:i»-e-tr.r, ala dit tbea is, hab ik liever
+koffie, maar ala dit ku.'fi is, heb ik iiever thre!"
+Nxolaas ontketent den reus niet, maar heett een reusactuig lactuuoe» ty zrjn Pupen.
+De vrien 'schap van John Buil (Noterdie)
+Vroo^H*
+-kiel
+EZ.1EF
+ITALIË: »Ik ben het geheel eens met uwe plannen voor Tripoli.
+JOHN BÜLL : »Maar ik heb nog geen plannen .. ."
+ITALIË: «Dan ben ik het nog meer met ja eens..."
+
+</text>
+<image timestamp="2002:08:18:07:34:51.00" size="443174">D2001HJ.TIF</image>
+</page>
+</document>

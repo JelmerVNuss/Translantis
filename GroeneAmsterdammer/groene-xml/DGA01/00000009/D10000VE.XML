@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200515</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET ONTWERP-ZONDAGSWET
+BlIVOEGSEL van .De Amsterdammer", Weekblad voor Nederland, van 15 Mei 1920
+Nadruk verboden
+;.^?--*Ww
+4r^»Sfe:"
+.J!
+Amst. Boek- en Steendrukkerii, v'h. Eilerrnan, Harms &lt;S Co
+«*
+
+Minister Heemskerk tot Minister Ruys: Zou daar met een kleine verbouwing niet een
+
+
+kerk van zijn te maken? De torens staan er al.
+
+</text>
+<image timestamp="2002:08:16:23:04:25.00" size="268185">D10000VE.TIF</image>
+</page>
+</document>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321001</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+51'
+fe
+S .1.
+•£
+•Y
+
+
+5?
+De Groene Amsterdammer van 1 October 1932
+No. 2887
+Een polls der
+LEVENSVERZEKERING
+Mij. ARNHEM"
+schept kapitaal voor moeilijke tijden.
+Hl Maatschappij voor Hypothecair Wiet in Nederland
+gevestigd te 's-Gravenhage, Nassaulaan No. 23
+waarin opgenomen de Maastrichtsche Hypotheekbank voor
+Nederland te Maastricht, St. Servaasklooster 8
+Bijkantoren: Amsterdam, Western ar k t No. 2
+Utrecht, Boothstraat No. 15
+Groningen, Turfsingel No. 9
+De Di reet ie
+N.V. UTRECHTSCHE HYPOTHEEKBANK
+UTRECHT
+
+Pandbrleven f62.000.000. Reserves f 1.526.672.66
+
+DE BANK stelt beschikbaar:
+
+S pCt. pandbrieven a 101 pCt.
+in stukken van f 1OOO.—, f500.—, en f 1OO
+Mr. A. J. S. VAN LIER.
+De Directie:
+Mr. P. R. HOORWEG
+NV.ZUIDER
+HYPOTHEEKBANK
+5 pCt*
+Pandbrieven
+tegen beurskoers
+Directie :
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHA8E
+Vestigingen in Nederlandsch-lndiö, Straits-Settlements,
+Britsch-lndië, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie •
+Mr. H. H. C. CASTENDIJK en
+l. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+BJASPSBOWEL:
+KERKSTRAAT58
+AMSTB^AM
+N.V. Verzekering-Maatschappij
+
+
+MERCURIUS"
+= OPGERICHT ANNO 1894 =
+
+AMSTERDAM, C. - KEIZERSGRACHT 570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+
+</text>
+<image timestamp="2002:09:27:09:23:52.00" size="164987">00000ALY.TIF</image>
+</page>
+</document>

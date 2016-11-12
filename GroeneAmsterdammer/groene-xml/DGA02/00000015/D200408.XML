@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241025</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2471
+J. D. STRUIJS &amp; Zn.
+Prinsengracht, 887 P. O. Hooftatraat 140
+VEL. 37906 TEL. 29990
+Begrafenissen - Crematie - Transporten
+Spulstraat 38 DEN HAA8 Pint Heinstraat 107
+ROTTERDAM ARNHEM GRONINBEN
+Hoogstr. 344 Ke'ëlstr. 24 Hearastraat II
+LEIDEN DORDRECHT DEIFT
+Maarsmansstaag 23 Voorstr. 289 Hyppolitusbuurt 35
+C. P. la Sirene Paris
+Een wereldmerk
+Elastiek Celnture la Nea"
+van Dr. F. GLÉNARD te dragen als
+Corset of buikband
+Prijzen 20 c/m 25 . J35_hoog
+fl. 12.50 !7.50 FÖ5
+None'' "et beste Corset niet
+yjUCUa elastiek binnenband
+wordt om zijn orthopedische
+voordeelen, ook voor de meest corpulente
+figuren door H.H. Doctoren en chirur
+
+gen ten zeerste aanbevolen.
+AMERSFOORT
+Tan Haselen's
+Snouckaertlaan 22-24
+TELEFOON 218
+zijn het meest gewild, om
+prijs en kwaliteit
+BEGRAFtNISVtREENIGING
+N. SAX J r.
+j P. C. Hooftitraat 38, Anutird». Talaf.: 20341, 242601
+REGELING VAN BEGRAFENISSEN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN l
+ADR1AAN SCHAKEL
+HEILIGEWEG 11-17
+- AMSTERDAM
+De nieuwste ENGELSCHE en SCHOTSCHE Stoffen
+ULSTERS DOUBLÉFACE 110.—.
+B. j. ram DGRS
+TUINAHCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon 5O8IO
+EISJESBOEKEN
+TOP NAEFF
+IN DEN DOP gebonden / 3.75
+
+TRUIDA KOK
+BIENE VAN EDÓMA	gebonden / 3.25
+
+WILLY PETILLON
+MOEDERS OUDSTE gebonden / 3.75
+POP	gebonden 3.75
+LYDIA'S MOEILIJKHEDEN gebonden 3.25
+
+LOUISE FEITH
+HET HUIS BIJ DEN TOREN	gebonden / 3.75
+
+LINA TERVOOREN
+TOETIE ROETMOP gebonden / 2.90
+
+J. P. ZOOMERS- VERMEER
+DE VIER UILTJES gebonden / 2.90
+STIJFKOPJES-SERIE
+Prijs per deel gebonden ƒ2.50
+E. VAN RHODEN, STIJFKOPJE OP SCHOOL
+E. VAN RHODEN, STIJFKOPJE VERLOOFD
+E. VAN RHODEN, STIJFKOPJE GETROUWD
+S. LA CHAPELLE ROOBOL, STIJFKOPJE GROOTMOEDER
+
+Nieuwe banden en. illustraties van
+Mevrouw B. MIDDERIGH-BOKHORST
+
+LENIE TEN HEUVEL-SERIE
+door ANNA VAN GOGH-KAULBACH
+Prijs per deel gebonden ƒ 3.25
+LENIE TEN HEUVEL, EEN BUITENKIND
+LENIE TEN HEUVEL, LENTE
+LENIE TEN HEUVEL, DE PRULLEMAND
+Banden en illustraties van JOHANNA COSTER
+Deze boeken zijn bij eiken boekhandelaar verkrijgbaar
+
+Uitgaven van VAN HOLKEMA &amp; WAREN DORF Amsterdam
+
+</text>
+<image timestamp="2002:09:03:20:08:55.00" size="129152">D200408.TIF</image>
+</page>
+</document>

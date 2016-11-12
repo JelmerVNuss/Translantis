@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331014</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2941
+De Groene Amsterdammer, van 14 October 1933
+DEZILVERVOS
+Ceintuurbaan 137
+AMSTERDAM Z.
+HET VERTROUWDE ADRES
+VOOR
+BONTWERKEN
+Duitsche dienders
+en de Duitsche groet
+De Pruisische minister van
+binnenlanidsche zaken fieeft voïgens : den
+officieelen persdienst een verordening
+uitgevaardigd dat verkeers-agenten
+bij jhet salueeren tijdens de uitoefening
+der; verkeers-regeling volstaan kunnen
+met de militaire houding aan 'te
+nemen met den pink op den naad
+van de broek eh de hakken tegen
+elkaar. -•- .:::,:.. _	.-..
+Het aanslaan" (hiermede wordt
+niet het Tilaffen bedoeld dat den
+Pruisischen klabakken bij uitstek
+eigen is!) door de rechterhand aan
+helm, shako of pet te heffen alsmede
+het brengen van den zoogenaamd
+Duitschen groet (ik wist wel dat er
+Duitsche biefstukken bestonden maar
+wat er aan de oude Romeinsche en
+door fascisten in Italiëen elders
+gretig overgenomen armbeweging spe
+
+cifiek Duitsch is blijft mij 'duister....)
+is niet langer gewenscht en dus ver
+boden aangezien een en ander tot
+verkeerde gevolgtrekkingen aanleiding
+zou kunnen geven als de veelzeggende
+gestes van een verkeers-agent ver
+
+keerd worden opgevat.
+Stelt u zich eens voor dat in een
+stad afe Berlijn, op de Alexanderplatz,
+waar dagelijks tienduizenden vehikels
+en voetgangers passeeren, de dienst
+
+doende diender eens een der hooge
+hakenkruisoomes ziet aankomen, juist
+op het oogenblik dat deze
+Heinrichmet-de-handjes door middel van een
+magistraal handgebaar het verkeer
+op een' der drukste kruispunten heeft
+vrijgegeven.
+In den bekenden hoek vaji vijf en
+veertig graden vliegt zijn rechterhand
+omhoog maar de als Duitschen groet
+bedoelde beweging wordt als bevelen
+
+den wenk opgevat en plotseling staat
+heel het verkeer stop.
+De ramp ware niet te overzien
+wantj dat werd waarlijk een eerste
+Octobersche stamppot, die mér kostte
+dan vijftig pfennig per hoofd, als
+het van rechts komende verkeer het
+links gaande mir nichts, dir nichts"
+in de flank reed !
+Het dient gezegd: men denkt toch
+aan alles daar bij onze Oostelijke
+naburen eh het is toch pleizierig te
+mogen merken dat men er elkander
+zoo min mogelijk in de wielen wil
+rijden, wat?.;..
+EUPLOTES
+Uit het kladschritt van Jantje
+If l N H F l M•" KONINKLIJKE HAND-TAPIJTKNOOPERIJ
+,, rv i n n c. i m , TE BEVERW1JK
+
+Koopt Koninklijke KINHEIM Kleeden
+HOLLANDSCH HANDWERK
+van af f 27.50 per vierkante Meter.
+
+</text>
+<image timestamp="2002:09:26:22:13:48.00" size="178756">D2006VY.TIF</image>
+</page>
+</document>

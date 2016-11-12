@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060211</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Vrede-tentoonstelling.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van II Februari 1906.
+Anist. Boek- en Steemlrukkfrij. v li. Kllermnn. Honns \- C'o.
+De Heer 's JACOB (tot den Heer Scholten) : Geachte Voorzitter, wij moeten zooals ik gezegd heb voor den Oorlog en voor den Vrede tegelijk
+ons voorbereiden; mag ik U deze beide Bertha's tot leidsvrouwen aanbieden? De Oorlogs-Bertha, Bertha Krupp voor de afdeeling
+rechts, en de Vredes-Bertha, Bertha von Suttner voor de afdeeling links . . .
+De Heer SCHOLTEN . . . Uitstekend, mijn waarde heer, zoo zijn een harmonische samenwerking en een practisch resultaat ten volle verzekerd...
+MEi'HiSTO: Hab'ich doch meine Freude dran!"
+
+</text>
+<image timestamp="2002:08:10:03:30:59.00" size="331427">0000006U.TIF</image>
+</page>
+</document>

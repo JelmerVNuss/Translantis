@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2576
+
+'f
+^Y ..
+WOLLEN
+
+
+WINTERMANTELS
+
+
+
+Verven in de nieuwe Winterkleuren,
+
+waarvan monsterboekjes gratis aan de
+
+fabriek en onze depots verkrijgbaar zijn*
+
+Middenprijs groot formaat mantels f 7.25
+
+klein 5.
+
+
+
+PALTHE - ALMELO
+\\L\JXLLl\
+MAHONIE H.
+AHOftN fl. 55O
+NOTEN fi, 590
+MET V/ÖRTCLHOUTEN BWEEUN
+JPIEGEIKAST I35&amp;BK
+TAFEL 2 5TOELEN
+2. NACHTKASTJES
+LJT5-JUNEAUX
+
+&amp;&amp;TKAM&amp;
+MAHONIL 0. 415
+NOTEN R. 450
+^STOELEN 2ARN5TOEUN
+BUfF&amp;T TAFEL
+P.CHOOTTSTR.^7
+O.M,
+Italy's Finest Product
+
+
+jUit voorraad leverbaar
+
+WEYMANN-SALOON]
+
+op chassis 4 en 6 cylinder
+
+Vraagt offerte
+
+
+IMPORTEUR
+
+H.STAM-Soestdijk-Tel.47
+KOFFIE HflG SPAART
+EN ZENUWEN !
+HAG MOCCA MELANGE IN BLIKVEBPAKKING IS BE EXQUISITE KOFFIE YOOB ELKEN FIJNPBOEVEB
+WEILL
+TH. H. WEILL
+
+</text>
+<image timestamp="2002:09:26:06:02:09.00" size="110875">D100080C.TIF</image>
+</page>
+</document>

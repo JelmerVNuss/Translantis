@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19220610</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE VERKIEZINGSCAMPAGNE
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 10 Juni 1922
+: :••'•'••/&amp;^^f-^^l
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &lt;S Co.
+Per aspera ad astra
+of
+In het zweet uws aanschijns zult gij uw kamerzete! verdienen
+
+</text>
+<image timestamp="2002:08:25:15:02:22.00" size="226040">D4000429.TIF</image>
+</page>
+</document>

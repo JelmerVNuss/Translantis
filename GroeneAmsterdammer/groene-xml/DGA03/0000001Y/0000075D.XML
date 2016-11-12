@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281208</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+25 et.
+rocne
+vooir Nederland
+KEIZERSGRACHT 333 -' AMSTERDAM - CENTRUM
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+1 . EENHEIDSPOLIS
+Inboedels * . . 21/. /oo p. jr
+Woonhuizen . . P/4 /oo &gt;,
+WHAT IS IN A NAME?""
+Een ongerepte reputatie van zeer
+vele jaren.
+De tevredenheid en het vertrouwen
+van een groot aantal afnemers, die tot
+oordeelen bevoegd zijn.
+Het bezit van een ruim gesorteerde
+voorraad belegen wijnen van de beste
+gewassen.
+DIT ALLES VEBEENIGT ZICH IN DEN FIRMANAAM
+
+
+VAN STRAALEN MONSIEUR
+
+
+&amp; ERKELENS ZZZ
+
+HOFLEVERANCIERS VAN Z.K.H. PRINS HENDRIK
+DER NEDERLANDEN
+
+WIJNHANDELAREN
+
+FILIALEN:
+HOOFDKANTOOR:
+Rotterdam
+Leuvehaven 34
+Tel. 2456
+Den Haag, Anna Paulownastr. 36
+Tel. 32532
+Helder
+Hoofdgracht 37 Tel. 83
+J. &amp;'A. C. VAN ROSSEM.
+ROTTERDAM.
+
+</text>
+<image timestamp="2002:09:05:19:34:45.00" size="232357">0000075D.TIF</image>
+</page>
+</document>

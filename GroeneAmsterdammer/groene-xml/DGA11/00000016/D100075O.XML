@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271217</Datum>
+<Pagina>25</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+t *
+l
+v
+PftUZIN
+' VANAF
+
+ri~26O.
+••fleNriAT 0K MODU.LIN BU 01 ALLKIN.
+VKRTf«KNWOOItOiaotlt» VOOR NKOCMLANO
+m mm HAA« KN NOTTCHDAM
+IN AMSTntOAM
+L
+
+&gt;'«&lt;
+RSUM
+ar.)* van het N. S. f.« ftadM-onTtanttOMMi toclutlet
+• MUIpC lampen eedraaft / 826.- Qaam» «MM •« W
+M» OM»» «*» «nia ag»nt*chapp»n,
+LI P S &amp; PETERS
+DORDT
+G.EO.RGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+te WASSENAAR,
+
+geeft inlichtingen voor aankoop VIL L A' s en
+VILLATERREINEN in de parken te Wassenaar.
+L
+InÜchtingen J. TH. WOUTERS.
+Telef. Kievit 956 Wittenburgerweg 180.
+«niiiuiii.il!'
+LCltécS
+r Voor «alle doeleinden
+l NV
+|Oiem.Kunatinrichting
+IDirkSchiuibei
+Amsterdam. "
+Alphen ald Rijn
+Zoo juist verscheen deel II van
+H et Graf VA h
+TM t-Ai\cfvAmoi%
+DOOR,
+
+HOWARD
+
+_ CARTER
+
+Met een voorrede van Prof. Dr. H. Th. OBBINK en geïllustr. met 153 illustraties
+De openlag n ontruiming ven de grafluuner van dtn jongen Pharao en het verhaal van ongelooflijke schatten die aan den
+••g kwenen na drieduizend jaren maken dit boek tot een werk. dat lijn gelijkt niet vindt in de geschiedenis der archaeologie.
+Thaa» compleet In 2 deelen verkrijgbaar met een inleiding en in vertaling onder toelicht van Prof. Dr. H. Th, OBBINK
+• i 6.25 per deel ingenaaid en f 7.50 per deel gebonden.
+
+VAN HOLKEMAÖWARENDORFSUITGEVERS-MIJ. - AMSTERDAM
+Een nieuw boek van KIEVIET
+
+
+De Zeeroover vaa
+
+Oostzaan
+
+door
+
+[G. JOHAN KIEVIET
+
+Uitgave van v. Holkema &amp;
+Ware*dorf's U.-M., Amsterdam
+
+lagen, f 1.10, gebonden f,1.75
+
+Een boek voor "onze jongens, die van avonturen houden,
+om van te genieten. Haagsche Courant.
+... .een boeiend boek. De Maasbode.
+Dit boek zal wel heel graag door de jeugd verslonden
+worden. N. Prov. Oron. Courant.
+Het leuke, pittige boek. Bred. Courant.
+De heerlijke boeken van dezen schrijver behoeven geea
+aanbeveling meer. Prov. Dr. en Asser Courant.
+
+</text>
+<image timestamp="2002:09:22:08:38:52.00" size="228563">D100075O.TIF</image>
+</page>
+</document>

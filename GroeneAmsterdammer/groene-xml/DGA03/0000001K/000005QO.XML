@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250627</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2507
+t
+l
+'f.'
+OT. D. STRUIJS fc Zn.
+
+Prinsengracht 837 P. C.Hooftstraat 140
+TEL. 37906 TEL. 29950
+
+Begrafenissen - Crematie - Transporten
+FÖLlEH's Oude Benever
+Fijne Likeuren en Punch
+u. P. POLLEH A ZOOH - Rotterdam
+BUSSINK
+iHONKjKOEKi
+
+M onderscheidt zich door W
+I haar fijne smaak. W
+Vraagt ze steeds Uw •
+l
+winkelier en let
+• op den naam.
+J
+GEORGE H. LAGAS
+AMSTERDAM - T«l. 24611 - Andreat Bonnstrut 40
+Electrische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+N.Y. IEF01M"
+Dlr. E. Boerma
+HOIIKEI AySTEIDAH
+Hiirsttr. t lokinTO
+Dames- en He
+erenKleedermakerij.
+.Coupeurt oer het giünli
+lud ti entbiidn".
+Halter Sigaren
+lijn het meest gewild, om
+prijs en kwaliteit
+Stoonrnasscfierij Het Zuiden
+PIETEB AEBT8ZSTR1AT68-74
+TELEFOON 22865
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDI8&amp;VAN
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+| P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250]
+REGELING VAN BEGRAFENISSEN EN
+
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELENl
+ADRIAAM SCRAKEL
+HEILIGEWEG 11—17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bfl ons verkrijgbaar ~""~^
+N. R. V. nOWTA SCHOEMEN
+PIANO S.ORGELS
+148. TeleF: 13051
+^ /li
+(MtijcL welkom
+DROSTE'S
+BONBONS
+PASTILLES
+n kwaliteit
+NIET ALLEEN onze Mayonnaise-Pickles brengen de fijnproevers in
+
+verrukking; nog een ander nieuw artikel maakt thans grooten opgang,
+
+nl. onze Kerse.-Limonadesiroop. LIEVEGOED's KERSEN
+
+
+LIMONADE wordt DE HEERLIJKE, VERFRISSCHENDE,
+
+NIEUWE ZOMERDRANK VAN 1925.
+BESTELT TIJDIG BIJ UW LEVERANCIER.
+
+N.V. DE HOUTTUINEN" AMSTERDAM
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM - TEL. 42663
+
+MARMERWERKEN
+Doorzitten
+•M^ bij Wiel rijders
+een door de zon verschroeide Huid,
+Schrijnen en Smetten,verzacht en
+geneest men met 1&gt;IJPQB
+ij Apoth.en Drogisten
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+en Reisartikelen met garantie.
+
+Paleisstr. 45-47. Tel. 35013
+v.H. J. N. MULLER.
+B. J. MULDERS
+TUIS ARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon 8O8W
+
+</text>
+<image timestamp="2002:09:03:14:02:25.00" size="123022">000005QO.TIF</image>
+</page>
+</document>

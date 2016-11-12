@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>30</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V.: J. S. MEUWSEN'S HOEDENHANDEL
+AMSTERDAM = DEN HAAG = ROTTERDAM
+Handelsdrukwerk- Periodieken -Catalogi
+
+.Drukkerij ± lantiin
+
+Amsterdam
+
+Reclamedrukwerk - Geldswaardig Papier
+IKIPS 6 C2.
+l SCHIEDAM |
+J Plaatijzeren Reservoirs, Blusleidingen, O
+4 Scheeps-Tanks ^
+AUTOGENE LASSCHING
+»o o o o fl Q
+»»»»»e-e-e-8-»N.V. D, Hogcnbirk 6 Zoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabridu Spaamdammerweg (SCHOTEN). Tel. 1442
+Conatrnctlewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Braggea,
+Kolommen, Reservoirs, enz.
+^ kyMU» iCliilhj B^w*rkn « Dn
+OOIIflOOe&gt;OQQ**00080
+W»
+UITGAVEN VAN
+J. B. WÜLTERS
+Dr. G. KALFF
+WESTEURÜPEESCHE
+LETT ER KUNDE
+DER 15DE EN 16DEEEUW
+Prijs, geb. in 2 dcelen a f 5,(JO
+Dr. O. KALFF J r.
+F R E D E R I K VA N E E D E N
+PSYCHOLOGIE VAN
+DEN TACHTIGE R
+Met karikaturen en portretten
+Bandteekening van C. A. Lion Cachet
+Prijs, gebonden. . . .t 4,'JO
+M. A. P.C. POELHEKK1-:
+L Y RIEK
+Bandteekening van Johan Dijkstra
+Prijs, gebonden. ... t 5,'jO
+Dr. J. PRINSEN J.L/n.
+DE R O M A N
+i.\" D f-: IKDI: I.ICIAV
+IN WEST - El R'il'A
+-'rijs, gehonden. . . i
+GRONINGEN, DEN HAAG
+W. L. M. E. VAN LEEUWEN
+EPIEK EN LYRIEK
+Met 8 buitentekstplaten
+Bandteekening van
+Otto van Tussenbroek
+Prijs, ing. f 3,50, geb. . f 3,90
+DE NEDER LAN D SC HE
+. DICHTKUNST
+SINDS 1880
+Prijs, ing. f 3,50, geb. . f 3,90
+NATUUR EN DICHTER
+MET BLOEMLEZING
+Met 8 buitentekstplatL-n
+Prijs, ing f 3,90, geb. . f 4,50
+Dr. A. J. VAN DER MEI LEN
+en M. T E N B O U W H U YS
+P L A T E N - A T l. A S
+vour de Vaderlaiulsche Cieschiedenis
+bezorgd door Dr. N. B. TENHAEFF
+Prijs, gebonden . 5e druk f 4,50
+M A. P. C. POl'.LHEKKE
+IMI Dr C. G. N. D F. VOOYS
+.M,
+
+</text>
+<image timestamp="2002:09:22:10:09:56.00" size="314754">000008PW.TIF</image>
+</page>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950303</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het rapport van de Unie: Een school met den Bijbel".
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 3 Maart 1895.
+Amst. Boek- en Steendrukkerij, v/h. KUernian, Hanns &amp; Co.
+JHR. DE SAVORXIN LOIIMAN :
+Deez' perzik gaf mijn vader mij.
+Omdat ik vlijtig leer,
+Nu eet ik vergenoegd en blij . . .
+DI-C:~' perzik smaakt naar &gt;nt\-&gt;'!
+
+</text>
+<image timestamp="2002:08:20:08:32:01.00" size="650299">0000037X.TIF</image>
+</page>
+</document>

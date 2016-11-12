@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300510</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Amsterdamsche tekort en de Zaansche millioenenjuffrouw
+BIJVOEGSEL van Dt Grotnt Amsterdammer" Weekblad voor Nederland van 10 Mei 1930
+A m, t. Boek- en Stcendr. vb Ellerman. H«ro&gt;. 6 Co. N.V.
+Wibaut: Droom ik, of droomt dat mensch!"
+
+</text>
+<image timestamp="2002:09:21:15:32:32.00" size="281247">0000085J.TIF</image>
+</page>
+</document>

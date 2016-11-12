@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340331</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 31 Maart 1934
+N o. 2965
+IP* &amp;
+» ^
+
+&amp;;•
+f*
+t'
+l
+&amp;.
+$•
+!-r
+\
+P
+|'
+i&gt;
+f:'
+n '
+&gt;»
+J. D. STRUIJS &amp; Zn.
+Tel. 37906-Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+£W. H. POLMAN
+TUINVERTOOM 526 - Telefoon 82660
+sgrafenissen - Transporten - Crematies
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+f ADRIAAN SCHAKEL
+; HEILIGEWÉG . TELEFOON 37273
+"Toen Vader zoonlief had bewogen
+Ook naar SCHAKEL" toe te gaan
+Kwam zijn naam bij vaste klanten"
+Op den HEILIQEWE8" te staan.
+BON
+VOOR
+PROEFTUBE
+bij inzending aan
+LUXADONT
+FABRIEKEN
+ENSCHEDE
+Frankeer met l^j et.
+ea vermeld Uw
+volledig adres op
+enveloppe.
+V, tube ƒ 0.45 V, «ube /0.80
+NEDERLANDSen FABRIKAAT
+DEGROENE AMSTERDAMMER
+Weekblad voor Nederland kost
+skchts f 2.70 per kwartaal (incl.
+f 0.20 voor incassokosten) of
+/ 10.—per jaar bij vooruitbetaling.
+MEUBELEN
+BRANDKASTEN
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N.V. Meubeltnagazijn Eden1
+Molsteeg ^- Amsterdam
+BOEKENKASTEN
+Baden, Geysers en Waschtafels
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 32457 Keizersgracht 447
+Adverteeren op de juiste plaats en in de juiste courant
+garandeert 100 % succes. Vraag eens de tarieven voor
+het adverteeren op deze pagina aan de administratie.
+(H.M.V, B. 6408)
+OOK ZIJN MOTTO!
+Zorgeloos en joviaal, lachend de toekomst
+tegemoet ziende, verwelkomt de jongeman van
+tegenwoordig Hot-Jazz muziek als kenteeken
+van zijn generatie.
+Oogenschijnlijk cynisch en onromantisch, vindt
+men in .zijn kamers platen van Duke Ellington,
+Cab Calloway etc., en daar kunt U eveneens ver
+
+maakt worden door Ray Noble met You ought
+to see Sally on Sunday". (H.M.V. B. 6440)
+DIT IS ZIJN GENRE:
+
+Duke 'Ellington and hls Orchestra
+Daybreak Express
+Dear old Southland (E. 6468)
+The Pickin' Sisters met orkestbegel.
+You're such a comfort to me
+Good-morning, Glory (E. 8108)
+Beniamino Gigli met orkestbegel.
+Serenade (Schubert)
+Occhi Turchini (Denza) (DB 1903)
+Cab Calloway and his Cotton Club Orchestra
+Harlem Camp Meeting
+Zaz zub zab (B. 6460)
+Richard Crooks
+My song goes round the world
+Smilin' tbnugh (DA. 1360)
+Sydney Gustard
+Drury Lane Memories
+(cinema-orgel) (C. 2650)
+Een His fAaster's Voice gramofoon
+is reeds verkrijgbaar vanaf ƒ 37.30
+HIS MASTER'S VOICE
+
+</text>
+<image timestamp="2002:10:28:10:15:11.00" size="163938">D200ASY.TIF</image>
+</page>
+</document>

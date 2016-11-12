@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400424</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1400
+LTJGNÉ-POE.
+NuJLugné-Poe met onze talentvolle
+landgenoote Marie Kalff op tournee komt in
+Holland, schijnt het oogenblik goed gekozen
+om over dezen artiest, aan wiens bizonder
+soort tooneelspeelkunst ik pas elders 1) eenige
+woorden jwijdde, iets te zeggen als geheele
+figuur.
+Deze [figuur is die van den eenzame.
+Zijn vroegere leermeester, de man, die be
+
+gonnen is met het reageeren op de verstol
+
+lende Parijsche tooneelisterij : Antoine, is
+onmiskenbaar van grooter invloed geweest,
+binnen de stadsgrenzen van Parij s tenminste,
+dan de hem geestelijk supérieure Lugné-Poe.
+In het buitenland is dat andersom, en het
+buitenland heeft gelijk. Maar een Fransch
+kunstenaar ademt nu eenmaal het liefst in
+Parijs en zoekt daar het eerst de verdiende
+erkenning.
+Is Lugné-Poe wel zoo vooi alles fransch
+kunstenaar? Ik durf het ontkennen.
+Hij mag geestig, brillant, ironisch op het
+cynische afzijn, alles Fransche eigenschappen,
+hjj heeft die eigenschappen niet op zijn
+Fransch. Zijn eigen landgenooten geven u dat
+het eerste toe. Daar is weer de Assiette au
+Beurre, die onder een zeer zouteloos
+caricatnur van den man dien we bespreken, een
+paar verzen zet, karakteristiek voor de
+Fransche appreciatie:]
+
+Napoléon, j&gt;asteur protestant, collabore Aux tuvu-huM
+des vaudevillistes, qouiqu' pris
+d'lbseu. C'est uu chaud-iïoid, ou l'on retrouve entore
+Lajglaco de Norvège et les fours de Paris.]
+
+Pasteur protestant... [chaud-froid ... het
+is niet onaardig gezien.
+Ach, wat staat het ver af van den
+doorsneeParijzenaar een pasteur protestant" te zijn
+of froid", zooals hij zich alle menschen van
+Germaansch ras voorstelt! Die fijne geest van
+Lugné-Poe is hem daarom vreemd en moeilijk
+bereikbaar, hij ziet geen verschil tusschen
+diens beheersching en een gewoon gemis aan
+temperament. Tusschen het kunstleven van
+de Fransche hoofdstad staat Lugnéals een
+eenzame propagandist van ideeën, vergeef me
+het groote woord : Germaansch van inhoud...
+en van oorsprong.
+Ook van oorsprong, want hij was de eerste
+niet, en hij heeft er nooit voor willen door
+
+gaan. Met bewondering schreef hij in de
+negentiger jaren over de Engelsche
+Shakespeare-vrienden, van wier piëteitvolle opvoe
+
+ringen, op de plaatsen zelf waar de groote
+dichter zijn stukken ten tooneele bracht, door
+hem warm verslag werd gedaan in de Fran
+
+sche tijdschriften.
+Zij waren het, die hem de mogelijkheid
+bewezen de innigheid van 't gelezen drama
+door wegdoen van alle aandacht-afleidende
+tooneel-requisiten ook bij vertooning te be
+
+waren. Hij heeft zich hiervoor geweerd, naar
+links en naar rechts, heeft bij
+Maeterlinckopvoeringen deze ideeën in praktijk gebracht,
+maar Parijs is conservatief en al zeker weinig
+te gemoet komend, waar het de kunst uit het
+nevelig Noorden" betreft.
+Nog onlangs heeft Lugnéin een feuilleton,
+voor La Petite Eépublique geschreven, de
+kwestie der enëcèneering te berde gebracht.
+Ik geef eenige uittreksels :
+Ieder begrijpt, dat er een einde moet
+komen aan het bestaan van de ergerlijke
+galerijen", dat ook die gouden lijst weg moet,
+waar achter een gordijn omhoog gaat of
+en dan hebben we met vooruitstrevende
+directies te doen open schuift, dat de
+domme gewoonte der pauze's dient afgeschaft,
+die op een ouderstreeping uitkomen van de
+voornaamste momenten uit het stuk, en dat
+evenzoo het applaudisseeren der
+tooneelspelers behoort verboden te worden, die de
+eerbewijzingen, den schrijver verschuldigd,
+naar zich toehalen, en dan verder dat applau
+
+disseeren der decors.	:	Niemand schijnt
+te voelen, dat het even dwaas is Oedipus te
+spelen in het schip van het Théatre Francais
+als onduldbaar het beursspel te laten bedrijven
+in een pseudo-Grieksch gebouw of (gelijk de
+heer Plumet zeer juist opmerkte in zijn artikel
+in Les'Arts de la Vie) schilderijen-tentoonstel
+
+lingen te houden in de door hun rijke versie
+
+ringen doodende zalen van den Louvre.
+Sedert eenigen tijd bedreigt men ons met een
+Koning Lear, geschikt gemaakt door den heer
+1) Maandel. Tijdschrift voor Tooneel, afl.
+Aprü'04.
+Loti met de uitvindsels van Antoine en de
+muziek van Debussy. Al deze menschen heb
+
+ben ieder voor zich veel talent, zelfs
+Shakespeare waarmee ze zich associeeren; maar
+de commercieele drijfveer van die onder
+
+neming, Shakespeare, Debussy, Antoine en Cie
+maakt me bang. Trouwens Shakespeare' was
+heelemaal niet verdacht op die
+koordedanserstoeren van geschikt maken", toen hij voor
+Jacobus den Eerste zijn King Lear liet spelen,
+zonder mise-en-scène, zonder decor en ook
+zonder de beroemde bordjes; de opvoeringen
+van die dagen waren misschien minder
+schilderachtig", maar zij waren ongetwijfeld
+meer vol leven."
+Ik geef deze beschouwingen, waar ik het
+maar ten deele mee eens kan zijn, zonder
+commentaar, daar ik nu alleen de bedoeling
+heb de onveranderde gezindheid van Lugn
+Poe ten opzichte der heerschende
+tooneelinrichting aan te toonen.
+Frankrijk was in alle geval het land niet,
+waar deze radicaal zijn weggetje geplaveid
+zou vinden. Er is moed en overmoed voor
+noodig geweest om den strijd te beginnen.
+Wel had hij aanhangers er is trouwens
+geen idee, waarvoor men in Parijs geen man
+
+netjes bijeen krijgt , wel was de lucht vol
+van zijn zaak, van zijn cause célèbre, ja het
+leek soms of de dagen van Hernani terug
+
+gekomen waren, toen men op de galerijen en
+in de stalles elkander te lijf ging, maar een
+groot vuur dooft gauw uit als er geen brand
+
+stof is, en er was geen brandstof. Hugo's
+MARIE KALFF.
+
+
+Hernani was een jong geslacht uit het hart
+gegrepen, de ideeën van Lugnéwaren daar
+
+entegen planten van vreemden grond.
+Hoe meer moeten wij, zelf van vreemden
+grond, dezen man dan de hulde brengen,
+die hij verdient. De artiest, die Mellot ge
+
+vormd heeft, welke op het oogenblik vijand
+en vriend verbaast door haar spel in de rol
+van Tatiana (Oiseaux de Passage), die Bady
+en Desprès tot de groote actrices gemaakt
+heeft, welke ze zijn, de regisseur waaraan
+Marie Kalff mij zeide (het meest) verplicht
+te zijn, Marie Kalff, welke, voor het volgend
+seizoen bij Antoine geëngageerd, de eerste
+plateau's betreedt van een waarschijnlijk
+schitterende toekomst, deze man, die aan
+Parijs meer goeds gedaan heeft dan Parijs
+aan hem, hij is, schijnt het mij toe, bij ons
+in het nevelige Noorden" meer thuis dan
+in zijn al te Fransche Frankrijk.
+En dan zijn spel, waar ik hier niet over
+uitweiden zal. Dat chaud-froid" spel, die
+superbe ironie, waarmee hij van een Hei
+
+mer" of Allmers" hoog-comische
+burgerheeren maakt.
+Er zijn Hollanders, die men naar Frankrijk
+zou willen zenden, om ze te leeren eens een
+bloemetje in het knoopsgat te steken, maar
+er zijn Franschen, die men wel naar ons zou
+willen overplaatsen om ze te houden.
+P a r ij s.
+H. W.
+UJT
+NATUUR.
+TiXTTT. Teekenen in en naar de Natuur.
+Merkwaardig is het, hoeveel menscben be
+
+weren, dat ze niet teekenen kunnen, ofschoon
+ze het nog nooit ernstig hebben geprobeerd.
+Nu is het mogelijk, dat iemands pogen zoo
+zwak, bijziende of onderling verschillend zijn
+dat het lang en aandachtig kijken bepaald
+hinderlijk is, en aan zoo iemand valt het
+teekenen werkelijk moeilijk, maar dat zijn
+uitzonderingen; ieder die gezonde oogep en
+niet al te nerveuse handen heeft, kan teeke
+
+nen of kan het althans leeren.
+Daartoe is volstrekt geen bij zondere aanleg
+of groote gave noodig; dure lessen en inge
+
+spannen methodische oefening zijn over
+
+bodig, 't eenige noodige is : plezier in het
+buiten zijn en de lust iets met de handen te
+kunnen doen of maken.
+Deze beide nu zijn haast altijd te vinden
+fluit en dennengeruisch om je heen, gaat dat
+veel beter. Eerst wordt de hand wat gauw
+moe, omdat er geen steun is, dan leg je 't
+schetsboek maar plat op den grond of op
+de knie. Hoe je 't potlood houdt, doet er
+heel weinig toe, als je de lijnen maar niet
+in 't papier graveert; maar ze er zachtjes op
+legt. Later kunnen er altijd dikke en zwarte
+lijnen of vlakken op gelegd worden; met
+schuin of bijna plat gelegde potloodpunt.
+'t Is verrassend hoe snel kinderen aanleeren
+als ze buiten uit eigen beweging gaan schet
+
+sen. Vooral in 't vinden van suggestieve
+strepen en vlakken, die iets moeten aandui
+
+den, b.v. schorsteekening op berken, sparren,
+eiken of andere boomen, zijn sommige kin
+
+deren verbazend sterk. Zoo zelfs dat ik me
+wel eens afgevraagd heb, waar die toch in
+de jeugd stellig en ongetwijfeld aanwezige
+kunstaanleg op later leeftijd gebleven is.
+Misschien ligt het aan 't opd wingen vaneen
+bepaalde manier, die niet strookt met den
+bij normale kinderen; daardoor is 't zoo
+gemakkkelijk een kind er toe te brengen iets
+te gaan nateekenen; het voorbeeld moet
+interesseeren en het moet heel stil en mooi
+om hen heen zijn, dan is de lust er ook.
+Het groote geheim van elk succes in de
+opvoeding van onze kinderen zit in de kunst,
+hun op den juisten tijd iets te doen te geven,
+waarin ze plezier hebben. Het doel daarbij
+is volstrekt niet, een zekere kunstvaardigheid
+in een andere branche te verkrijgen, of ook
+maar iets blijvends, een sterke neiging voor
+'t eene of andere op te wekken. Het resultaat
+is bijzaak, het bezig-zijn hoofddoel.
+De gelegenheid er toe moet heel spontaan,
+heel toevallig aangeboden worden; en de
+opwekking tot schetsen moet nooit iets van
+een aanzetten of opdringen hebben.
+'t Beste gaat alles als moeder of vader zelf
+meedoen, niet voordoen; hoe minder deze er
+ooit aan gedaan hebben hoe beter, zou 'k haast
+zeggen ; maar dat is natuurlijk paradox.
+Een klein schetsboekje en een goed potlood,
+dat niet vlekt op de overstaande bladzijde
+(koh-i-noor b.v.), en een stukje olifantsgom.
+De aanleiding tot de schetspartij kan wezen:
+een treffend prentje in een illustratie, zoo
+eenvoudig, dat een kind denkt, zoo kan ik
+'t ook, of het ten geschenke geven van het
+materiaal zelf, ter gelegenheid van verjaring
+of wat ook.
+De eenige moeilijkheid ligt in 't kiezen
+van voorbeelden, met het oog op den leeftijd
+en de handigheid van de kinderen. Te ge
+
+makkelijk kan het niet licht zijn, vooral
+wanneer kinderen van verschillenden leeftijd
+het samen probeeren, zooals in de meeste
+families het geval wel zal zijn.
+Ga nu niet dadel^k een landschap opzetten
+of ook maar een huis of een laan. Begin met
+kleinigheden: een boomstam met n zijtak,
+zonder aan de bladen toe te komen, een
+paar rietpluimen, een boomtakje met knop
+
+pen, een vonder over een sloot, een hek aan
+een weide. Zulke dingen gelijken altijd heel
+goed, als ze maar niet te groot worden opge
+
+zet ; ze geven daardoor voldoening aan de
+beginners.
+Laat in 't eerst nooit veel of lang achter
+elkaar teekenen, een kwartiertje meer niet;
+dan het schetsboek weer weg; weer wat
+wandelen, kijken en luisteren.
+Kinderen willen alles precies nadoen; is
+het voorbeeld wat ver af, dan verzinnen ze
+er wat bij ; dat hindert niet. Wijs er dadelijk
+op, als ze 't laten kijken en komen vragen
+of 't lijkt, dat teekenen geen fotografeeren
+is. Als de teekenaar maar zelf kan zien wat
+'t voor moet stellen, is 't vooreerst genoeg.
+Wat met drie lijntjes duidelijk is, wordt met
+vier soms onkenbaar, dit merken kinderen
+al heel gauw. Dat heb ik zelf bij ondervinding.
+Al heel spoedig krijgen ze er plezier in, de
+meeste kir deren teekenen ook wel op school,
+maar dat is veel moeilijker; daar heb je een
+voorbeeld zoo mooi, dat je 't toch nooit zoo
+kunt namaken, of 't is een vierkant of cirkel
+of vaas die je toch niet precies recht, rond
+of aan beide kanten eender kunt krijgen ; al
+veeg en streep je nog zoo lang.
+Hier buiten in de schaduw met
+vogelgeaanleg, of van bepaalde, modellen waarvoor
+'t kind zoo weinig voelt, dat het de dingen
+geen aandacht schenkt; dan trekt het nog
+liever ruitjes en vakjes over ingekraste stre
+
+pen of vult sterren in uit den treuren.
+Laat uw kinderen van 6 a 8 jaar eens stil
+hun gang gaan, help ze alleen maar eens
+denken aan 't schetsboekje en potlood door
+'t voor de hand te leggen; meer niet.
+Als ze zoo al wat gekrabbeld hebben, kunnen
+ze eens een bloem probeeren; een heel eenvou
+
+dige, met sterk sprekende lijnen; liefst krin
+
+gen, madeliefje b.v.
+Laat ook later maar invullen metkleurkrijt
+dat niet vlakt of met de verfdoos; maar
+buiten eerst schetsen, naar de levende bloem,
+dan liggen ze er vast niet te dichtbij.
+Wil het niet best lukken met de ovalen,
+wat met mijn kinderen ook wel't geval was,
+dan gaf ik ze den raad straks thuis eerst
+eens een groot voorwerp te nemen dat
+eenigszins op een madeliefje lijkt, wat den vorm
+betreft. Een theeschoteltje b.v. met een
+pillendoosje of een groote knoop er midden
+in. Nu hangt het maar af van den afstand en
+de hoogte of ze den knoop midden in 't
+schoteltje zullen zien, of meer naar voren of
+meer naar achter. Het hartje van de
+ganzebloem of 't madeliefje zetten ze daarna al
+veel beter. Mooi of correct zijn zulke eerste
+proeven in de verste verte niet, en dat hoeft ook
+niet. Kinderen die beginnen met schrijven of
+pianospelen leveren ook geen artistiek werk;
+'t teekenen moet altijd beoordeeld worden
+naar den oefen tijd.
+Nai'ef is altijd de perspectief in iolk« kin
+
+derlijke schetsen; daar moet niet te veel over
+geredeneerd worden. Dat komt later best in
+orde. Om kinderen, die een bloempje willen
+teekenen, eenige notitie van perspectivisch.»
+vorm wijzigingen te geven, kan men heel goed
+bij regenachtig weer eens binnenshuis op de
+ruiten laten teekenen; een bloem in bloempot
+buiten voor 't venster gezet, wordt daar eerst
+op getrokken. Ook is het heel nuttig een kind,
+dat er lust in begint te krijgen aan te raden
+vóór het teekenen van een hekje, boomstam
+of bloem er altijd met het potlood omheen
+te wijzen, d. w. z. het al eerst eens in de lucht
+met bijna uitgestrekten arm op een denk
+
+beeldige ruit te teekenen.
+Kinderen schetsen in 't eerst de niet zicht
+
+bare lijnen ook; dat wordt langzamerhand
+minder; de vooruitgang in dit opzicht kan
+bespoedigd worden, al is 't niet noodzakelijk,
+als vader of moeder of een ander stille toe
+
+kijker en bewonderaar bij gelegenheid aan
+
+raadt, de strepen weg te vegen; die zijn toch,
+niet te zien, doordat ze achter iets anders
+verborgen zijn. Heerlijke modellen om zich
+hierin op winteravonden of bij slecht zomer
+
+weer te oefenen, zijn krullen van den tim
+
+merman, een handdoek tegen den muur, de
+plooien van het tafelkleed bij een poot, en
+vooral de mooie geelbruin dorre bladeren van
+eiken, beuken, tamme kastanjes en eschdoorns,
+die door afwisseling van vocht en droogte
+allerlei mooie vormen hebben gekregen, en
+die toch geheel en al gaaf tot in 't voorjaar
+bij honderden onder de kale struiken te
+vinden zijn. E. HEIMANS.
+
+
+MlllllUHIIIIimmillllllHllllllllllllllllllllllltllllllllllllHWMIlWIUIIIIIMMi
+Het portret yan Baltasar Betóer.
+(Ingezonden).
+In het nr van 2 April was overgenomen
+uit het werk Amsterdam in de 17de Eeuw"
+het portret van den schrijver der Betoverde
+Weereld". Men zal opgemerkt hebben dat
+Bekker nu juist geen Adonis was. Kent men
+het vermakelijke spotversje, dat een
+Franschman, de la Monnaye, maakte, nadat het boek
+met het portret was verschenen? Het luidt
+aldus:
+Oui, par toi de Satan la puissance est bridée,
+Mais tu n'as cependant pas encore assez fait,
+Pour nous ter du Diable entièrement l'idée,
+Bekker, supprime ton portrait.
+Z. N. J. B.
+NIEUWE UITGAVEN.
+Bij P. Noordhofi te Groaingen. zal de vol
+
+gende week verschijnen, Vota Academia,
+overwegingen en wenschen op het gebied
+van het hooger onderwijs, door dr. Is. VAN
+DIJK, hoogleeraar te Groningen.
+Prof. Hector Treub en het
+nwuw-Malthusianisme, door prof. B. J. KOUWEE. Kampen,
+Stads- en Courantdrukkerij.
+F. BUITENRUST HETTEMA, Waarom volkstaal,
+waarom 't fries bestudeerd ? Amsterdam, Van
+Holkema &amp; Warendorf.
+Kritiek van beeldende kunsten en kunstnijver
+
+heid, Ie jaargang, afl. IV. Amsterdam, ,W.
+Versluys.
+In het bloembollen land, door ANNA VAN
+GOGH-KAULBACH, geïllustreerd met 22 plaatjes
+naar oorspronkelijke teekeningen, van W. K.
+DE BKUIN. Groningen, J. B. Wolters.
+
+
+llllllllllllllllllllllllllllllllllllllHIIIIIIIIIIMIIffltMll
+J. J. BIESING,
+JUunst/iantiel.
+'s-GRA-VENHAGE,
+Molenstraat 65,65A en 67.
+
+Moderne Schilderijen,
+Aquarellen en Gravures.
+MASSIEF EIKEN.
+150 X 80 /
+Gt).MEUBELBAZAR
+SINGEL 263 283.
+l&gt;y de Paleisstraat
+Rantoor-Menbelen enz.
+J. MEUERIM MEIJER, TeleF. 3968.
+FAIENCE
+EN TEGEL
+FABRIEK
+HOLLAND
+NAAML-VENN-CEV-TE
+UTRECHT
+AmSTERPAffl
+AARDËUJERK
+EM TEGELS
+
+12 Etsen van
+WILM STEFXINK.
+Met Tekst van J. F. VAN SOMEREN,
+Bibliothecaris te Utrecht
+Gedrukt op zeer fraai papier, de tekst
+in rood kader met vele vignetten en
+handteekeningen, koat dit prachtwerk
+(groot folio form.) gebonden slechts
+•
+i BINNEN
+INRICHTING-TOT
+MEUBELEERING
+EN -VERSIERING
+I2O-ROKIN-120
+
+</text>
+<image timestamp="2002:08:27:00:21:31.00" size="714525">D100040G.TIF</image>
+</page>
+</document>

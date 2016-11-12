@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18790427</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR N E D E
+A K D.
+36. Huis on Er, Kleine Katteuburgersh'aat, 15.
+27. Hccreniiuis n. Er, Keizersgraclit, 115.
+28. Huis on Erf, AchtergracM, 41.
+• 29. Bouwterrein of Warmoezierslatid, YurWerspad, ge
+
+meente Nieuw er-A matei, 40, groot G A., 90 C.
+30. Huis en Eïf, Nieuwe Leliestraat, 136.
+31. Huis PU Erf, Uarb; rsteat, 15.
+33. Huis en Ed", ode Leliedwarsstraat, 3.
+33. Wiukelhais en Erf, Ehmdsgraclit, 91.
+34. Winïeïhais en Erf, 8de Goubloe-nrdwarsstraat, 12.
+'35. Huis ea Erf, &amp;e Mei-scheld &lt;lc, 59,.
+Verzonden te Amsterdam op den 2e helft der maand Maart,
+Ed. Waehcnlieim, J. van Wilpe, Van de Werf, J.
+Wïesdd, 3. F. Visser, Ziekenfonds Vriendenkring,"
+W. P. V. Laar, Joscpli Kosl, A. B. Jansen, Kerst eng,
+K. Kar toef, II. van Tongeren, Hendriks, Cavl Hcijer,
+Fsausd, "W. Scholten, A. SchrÖder, Alberts &amp; Smits
+&amp; Zn., J. J. Smit, Smit, W. Scliuijt, V. Gelduren, P.
+Molenaarsgraaf, P. Bar'cee, F. A. antee, Ik. Bakker,
+H." Bosch,, H. J. Bciorn, G. Doorn, H. .Donker, Elders,
+C. F. Kcpersmü', mej. Kas, incj. IC. de Loo, nu j. M.
+•Camptell, muj. Beekman., mej. Vau Dijk, me j, wed.
+Doelandj raej." J. Meijer, mej. wed. J. C. Ilcnoing,
+mej. L. ' Pietersen, mej. M. Petersea-, n evr. Jansen,
+mej. M. Green, mej, Kahle, IH-J, G. KJeïaselüamt, mej.
+Lcopold, mej. Rn'eres, mej. M. van Raam, allen te
+Amsterdam; J. nnve, Atirdijk; 6. J, Peddemoas,
+Alkmaar; mej. A. Brcïjiaan, M. van der Lee,
+teAinorsfoert; «T. H. Straatman, mevr. Ensebins^ A- H. Bsijer,
+,te Araheut; Koning, Den -Bommel; Anna Geitenbeek,
+•Diemerbrug; Js. H. v;m dm- Sang, Dordrecht,; mevi',
+de DijH, Dusscu; mevr. ilagcdoom, Elbnrg; H. .
+ITubrecht, Gorineheia ; Wessels, Gocda-, mevr. Broedelct,
+7i. v. d. Maaien, h. v. d. Groen, Stoecker, De Bruin,
+S. Weijers, Gubrs. Drukker, wed. 'Van Eijsden, L. H.
+Eppenger, Elorent de Vries, allen te 's Grav-eahage;
+"W. Geninger, Groningen ; H. Schimmelpenninek, wed.
+"Knaapen, te Haarlem; J. Ohlmann, Du Loo, te. Har
+
+derwijk; wed. L. V. Dingste, Hasselt; J. H. v. d.
+Werf, Hengelo; G. K. Baas, Huizen; H. yan der Pol,
+•Hootlafld; P. Jonkman, Knmpen; mej. D. van Rijn,
+Leetnvaïdta ; P. van Kerkhoven, KI. ter Steeg, te Leiden;
+J. Wellcgjes, Loencn"; Bos, A. Bloemhof, te Maassluis;
+wed. J. J. da Kuijter, Monnikcadain•; f. Maas, H. J.
+Stnrm, te Nienwerkerk; Naatje Molenaar, Oostzaan;
+H. BaUels, Onder-Amsteï; Truitje _Y;tn dra Broek,
+Ondewyter; Label Schottla-p.der, K. Tolsroa ran der
+Eist, Droest, J. Smit, Ludie Frank, Btecrink, G, Liüng,
+mej. B. Brandell, allen te Rotterdam ; wed.-K. Brouwer,
+'De Rijp; Krul! &amp; Lenselink, Schiedam ; mej. C. Plateöl,
+Sneek; racvr. Van Dijk, wed. A. G. de'Jong, De Bois,
+.te utrecht; E. Braad, Voorschoten; mej. G. Stait,
+"Wassenaar; A. P. - Asselbisrg, Zierikzee; J. H. vaa
+Krakeliiigin (S stuks), Znipheu; Glrjberd, D. J. vanden
+Beid, wed. F. Moes, te Zwolle.
+Bevallen ; J. M. Beniner—Musch, (D.); "A. Spin
+Larsson, (2 Z.); R. Grelinger—l'leisdiinauri, (Z.); B.
+Snoek-—Jacobs, (D.); H. S. van den Bnnk—DeRuijter,
+(2.); M. Seordo—Gerassovich, (?,.); S. Fischel - Buz:iglo,
+&lt;ZV II. van den Eijiiden—Gutt, (D.).; H. C. Eoeske
+Steenbergen, (D.); E. J. Wübbe-Huywr, (Z.); J.
+M, Sclilömaiin-^Stort, (D.); G. D. J. Halghtoa—De
+Meester, (Z.);
+Ondertrouwd.- P. J. Andrieseen en J. M. Boele;
+G. J. H. Zichman en M. W. E. Wilken; J. A; Hütter
+en- W. C. Silberling; C. O. Roelufa Jr. en H. C.
+Scholten; P- 3. Dettrman en M. A. F. de Loor; M.
+Themans en G. Vos.
+Getrouwd-. C. A Ileshusius en J, J. A. L.
+Asschcabcrgh van Monnom; J. F. Timmerman en W. C', van
+Ooatrum ; P. M. Meeter en F; Daniels; H. .A." v-aa der
+Malden en A. J. van der Hust; II. J. Calen en J.H.
+Q. van der Ilust; L. Spïuoza CattJa en &amp; L-ejetiae;
+H. P. Slanus en S. Vita Israël; J. Teixeira de Mattos
+&lt;eu E. A. Lopes de Lsöde Lagutia; J. P. Korthals
+Altes en 0. F. G. van der Harst; Mr. S. Katz en C.
+M. A. C. II. Geesink; Tn. A!l.-bes en A." E. Beumer;
+C. F. von Ronneii en M. 0. Hbii'tnsen; J. II. J. Meijer
+«n M. A. van Hees; J. J. C. Fnaicbinwui en H. Bahle;
+F,. H. Helle en J. B. Mee; A. J. Schlikken en A. M.
+C. TiTmeulen; J. D. Sehneider ca E. P. Nïeuwenhuijs;
+P. H. De Kidder en M. C. osch; B. Sinnige en C.
+H. J. Bot'le; T. J. Ocstrop ea J. T. van den Hor u
+Overleden : Johanna Doanevi'olt—Ulrieh 74. j; TrVed,
+D. C. Meijer Gzn—Hardenbevg 78 j.; K. B. Wi-jgers
+SÖj.; J. W. S. . van der Aa; H. J. Poeiert 83 j-;
+trerardus Lucas La Bastida 61 j.; Hendrikus Bon;
+ElkabetU Catharioa Wijtkimp—Ten Velde 70 j.;
+Hendrik Gerhen Hiau 56 j.; B. Querido—Prnim 53 j.;
+Pieternella De Hond—Me» j meest er 2fi j.; Panïus ran
+Sehieven 63 j.; Wed; H. J. J. van CaUenburch
+Stratenus; Jaantje Callenbaeli 65 j.; B. J. Kikmenspoel.
+Directie Ds VEREENIGIHG HET NEB^RL. TOOKKKL.
+27
+"28
+30
+e Zwerver, gevolgd door Oranje
+en . ederlaad. Ben liladzijde uit
+de geschiedenis des vaderlands door
+H. J. Schimmel. S uur.
+Geld?
+als Maanda.
+313. Bovenlims, f 400 per .jaar.
+312. Bovenhais, f 350 per jsar.
+Terstond.
+Terstoad.
+"3. 2 Geineubil. Kamers, f 20 jrer maand. Terstond.
+
+14. Kamer,, f 3 per week. Terstond.
+SSl&amp;eiiasfyitsest,
+43. Winkellmis, 8 kamers enz. f 700 pet jaar. l Mei.
+JBS-'S'&amp;te yve-ysfgg ff'tscSi f.
+126. Een Kantoorlobwl, f 300 per jaar. Terstond,
+HFamt-tsêt,
+45. Kantoor]okaal, f 220 per jaar. Terstond.
+93, Ka itoorlokiilcn. Terstond.
+97. Huis, 9 Kamers, f 1600 per jaar. l Mei.
+84. Gestoffeerde kamer, f 10 jer maand. Terstond.
+186. 2 Kamers, f 2.75 per iveek. Terstond.
+147. Bovenhuis, f 2.75 per vre?k. Terstoad.
+Mei.
+l Mei.
+82. Bovenhtns, 2 kamers, enz. f200 per jaar. Terstond.
+SX&amp;tg-a'SemKEerjpieiK.
+3. Kuis, 2 kamers, eiiz. f 240 per jaar. l Mei.
+50. Huis, 2 kamers, f 350 per jaar. l
+119. Huis, 5 kamers, f 1000 per jaar.
+25. Bovenhuis, f 3'2ó per jaar. TeïstoncL
+27. Bovenhnis, 3 kasaers eïtz. f 35^0 per jaar, Mei.
+113. Gem Voorkamer met Alcoo£ f 18 per maand, l Mei.
+121. Achterkamer, f 10 per maand. Half April of l Mei.
+82. Boveuhuis, kamers, enz. f 230 p. jaor TerstoncL
+82. BoVenlrais, 2 kamers, enz. f 235 g. jaar. Terstond.
+82. Boveshuls, 2 ^amers, enz. f220 p. jaar. Terstond.
+T. J. B'. WESTEE-WOÜDT, I. BEETZ,
+J. J. SËYLMANS, A. SEYLMANS,
+J, MEÜERINK MEÏJER, F. J. JAN
+
+SEN, L. GIJSELMAK, N. SMIT, A.
+F. SOKDOEP, C. RINSE, J. P, A.
+&amp;ILSDOÏK, A. H. HEDDEÜJ. C. SOHOGT, J.
+RINSE Jr., -J. W. J. PETERMANN, J. J.
+VON GLAHN, T. TORSTIUS, R. BROEK
+
+MAN, Makelaars, zullen op MAANDAG 28
+APRIL 1879, des- Avonds na Zes• uur, in het
+Lokaal de Brakke G-rond,- ten overstaan van
+de Notarissen ROÜFFAER &amp; MAETEKS, in
+veiling brengen: . ,
+Het gunstig gelegen HÖI3,
+raetHARDSTEENEN ONDERPUI en -afzonderlijk .verhuurd
+wordejïd riant Bovenliuis, Open. Plaats,
+MAG&amp;ZIJN. KANTOOH, FABFUEK en BERGPLAATSEN,
+aan elkander gelegen en communicatie heb
+
+bende zoowel aan .den SINGEL als aan de
+SPUISTRAAT, tussch.en de Spaarpot- en
+Lijnbaanstegen, No. 109 eu 82, ter grootte van
+iNTlAKlilI.
+Breeder bij Biljetten omschreven.
+Het.Hais en de-Fabriek zijn te bezichtigen
+! Dinsdag eu-'Donderdag van. 2—4 uur, het
+Bovenhuis van l—3 uur, mits vertoornende een
+Toegangsbewijs, door'" een der Makelaars
+geteek end.
+De Bewijzen van Eigendom en de
+TeilconEea groot MAGAZIJN is daarin steeds ruim gesorteerd; diploma's van Bekroorsïngen op
+Binnen- en Buit.enlandsche.Tentoonstellingen, liggen ter inzage. (40G4)
+viraaSt i»eis onster Baieeu*ïere «Ie
+89. 2 Kamers, f 40 pjr raa;md. Terstond.
+368. l pakkelder, f 170 per jaar. Terstond.
+535. Huis, 11 kamers, f2000 per jaar. Terstond.
+193. Gestoffeerde kamer, f 16 per iaaaad, Terstond..
+tPeS'C&lt;f&amp; vssti ^fstsijgeststya
+122. Bovennuis, f 250 per jaar. l Mei.
+SS.u Iwsir f Ijfw se f.
+24. Kamer, f 30 per maand. Terstond,
+l Mei'.
+S. Huis, 3 kamers, f 210 per jaar.
+12. Huis, S kamers, f 50.0 per jaar.
+Mei.
+Mei.
+ditiën znllen op den gewonen tijd ter lezing BORSELEN,(J. W. VAK) Een Landschap ..... . D.
+T' ' "i T -»-r , • -r-., ir-n *- ^-, -Tm ,T ^ - ' A
+Een lezende oude .Vrouw . D.
+Loopende Honden ..... P.
+liggen ten 'kantore van genoemde .Notarissen DUMONT, (J.)
+en Afschrift der Veiléondatiën bij den Notaris pT?iv/rDT /D rr\-ty\
+P. SGHELTEMA BEDÜIN, Singel bij de ^¥ar- 'J?S^ ' (D. - IJi)
+moesgracht 25G. ' - (4050) GROOT, (J. DE)
+De Schoenlapper
+HLLVERDINK, (JOHs.) Gezicht aan den Rijn.
+T, J. "B. \YESTERWOUDTr J. KATE, (JAN TEN) Bergachtig Landschap
+BEETZ, J. J.SEYLMANS, A. SEYL- '
+n
+..
+MANS, J. MEIJERINK MEIJER, TA^unT?crr ^ T7 , ,T,
+•—^ * F. SONDQRP. F.J.JANSEN, LOKHORST, (D. VAN) Schapen
+~ ..... "
+P.
+D.
+
+D
+JJ.
+co
+47 X
+43 \
+30 X
+23 X
+40X
+100.
+72.
+31;
+45.
+18.
+51.
+194. Huis, Achterhuis en Tuin, f2000 p. jaar,
+274. Huis on Tuin, f 1800 per jaar. Terstond,
+503. Huis met Tuis, 1700 per jaar. Terstond,
+Mei.
+189, Huis, 3 kamers, f-275 per jaar.
+sa.9oi$e*£$ey*f:bitv"fftu*Kl.
+«S. Pakkelder. f.250 p^r jatfr. l Mei.
+
+11. Gestoffeerde kamer t' 3 per week. Ters-toiid.
+
+10. Huis met tuin, f 450 per jaar. l Hei.
+
+2^5. Wïkelïiuis, f 7.2-5 per week. Terstond.
+SSn-t^tfeff',
+8. OBgestüff. Voorkamer, £§per maand, Terstond.
+J. P.- A. KILSDONK, W. H. RINSE, F. W. MESDAG, '(H. W.)
+WEEBER, J. VAN NULCK Jr. J, RINSE Jr. MTmïW /TTR AATPAT^
+A. VAN DEN- OEVER, J. M. J. PETERr ^^U^ AVT J
+MAKN, P. C. SCHÜYMER, .J. • W. HELD, BIEGEN, (N.)
+H. HAMMEL, T. VOESTIÜS en W. G. VAN 'YERTIN- (P- G V
+SLINGKRLANDT, Makelaar?, zullen ten over- •; &gt;A *'
+siaan van den Notaris P. SCHEL-TEMA
+BE DUIN,,op MAANDAG 28 APRIL 1879, des
+avonds te Zes nnr, in, het lokaal De Brakke
+G-rond, in de N«s te' Amsterdam', in veilicg
+brengen: - •
+No. 1. Een WïNKE-LHUSS, waarin -sedert on
+
+heuglijke jacen eene affaire in
+Scheepsprovisiën is uitgeoefend, bekend als het Imi'S met
+de IfW/el* staande- aan hét
+Aan 't Strand ....... D.
+Een Strandgezicht.
+Het Y voor Arasterdam
+Een Stads-Achtérfauurt .
+P.
+D.
+P.
+120X165.
+59 X 60.
+80X100.
+44 X 75.
+44 X 67.
+19 X 15.
+Hij
+bestaande
+(4068)
+noodigt beleefdelijk
+uit ruim
+ieder Kunstliefhebber uit, zijne collectie,.
+te komen bezichtigen.
+925. 2 Kamers gedeeltelijk gcmeab. f 350 p. j. Terst.
+811. 2 Gern. Kamers, f 45 per maand. Terstoad.
+84. Gem. Kamer m&amp;t Akpof, f25 a f 35 p. m. l Mei.
+97. 2 Gestoff. kamers, f 20 en f 16 per maand. Terst.
+180. S Gem. kamers, f 45 per maand. I Mei.
+47. Gcstoif. voor- eci acliterkamer. Terstond.
+9S, 2 Gestoff. Kaaiers, f S2. p. m. Medio Mei.
+Ko. 28; Kad. Sectie F, No. 3857, groot 62
+Centiaren.
+No, 2, Een HUIS, Bovenhuig, Open Plaats
+Pakkelder en ERVE. baande op het
+14. Huis met tuin f 1SOO per jaar.
+ftttHSejchainff*
+04. Huis, f 550 per jaar. Mei.
+17. Bovenhuis, f 550 per jaar. l Mei.
+17. Bovenhuis, 4 kamers, t 5SO per jaar. l Mei.
+&amp; Huis, tuin, tuinhuis ens. f 11-00 per jsai". Hsi,
+2. Bovenliuis, 9 kamers, f900 per jaar. Mei.
+33. Huis-, tam, tuinhuis eaz. f 1100 per j^a*. Mei.
+£3. Bovenhuis, 9 kamera, l 900 per jaar. Mei.
+bij de Maiderpoort FïnisT 900 a f 1000.
+207. Achterhuis met Tuin, 4 kamers enz. f 500 p. j, l Mei.
+bi) de Oödesehans No. 95, Kad. Sectie G, Nö,
+3694, groot 88 Gentiaren.
+No. 3/ Een PftKHUtS, genaamd
+staande in 'de
+bij het Damrak No. 2, Kad.'Sectie F, No. 3917,
+groot 45 Centïaren.. .. .
+No. 4. Een PAKHUIS, genaamd Varel, staande
+naast het voorgaande perceel No. 3, Kad.
+Sectie P, No. 3916: " - - - -
+Zullende deze Perceelen sub No. 3 «a No. 4
+eerst ieder afzonderlijk- geveild en .daarna ge
+
+combineerd ia afslag' worden gebracht...Wijders
+zijn. de perceelen van alle .gemakken voorzien
+als. door de daarin gadmgliebbenden kan wor
+
+S3oiasi.ea-ösleytieK SSiElioea
+584. Kaatoortokaal, 2 kam-en ensnite.fSOOp. j.-lMei. ^e» Bezichtigd en wel de perceelen, vermeld'
+*vrtA n _j	!..__'_ - i _. . f onfi J	l "H-f.^ï^ _T ^_ »^. *• -, -r\' i
+sub No. l, No. 3 ea No. 4 des Dinsdags en
+Donderdags van 12 tot 2 uren en Perceel
+No. 2 des Dinsdags en Woensdags vaa l tot
+3 uren, alsmede alle óp den Verköopdag. De
+sleutel van No, 3 is'-te. verkrijgen P-amrak
+Jo. 18 en Yan No. 4 Damrak No. 28. De Be
+
+wijzen van Eigendom- en de VeilcoBditieri zul
+
+len vier dagen vóór, en op den Verkoöpdag
+ter visie liggen ten Kantore van voornoemden
+Notaris, Singel b^j de WarmoesgEackfe. (4049)
+709. Bovenhuis 5 kamers, f 800 per par. l M'ei.
+805. Huis, 4 kamers, keuken en kolder, f425 jj. j. l Mei.
+805. Boveiih. 4 kamers, kenkes en zolder, f423 p. j. l Mei.
+110. Gestoft', voorkamer, f 10 per 'maand. Terstond.
+.MAATSCHAPPELIJK KAPITAAL: 4,000,000
+RESERVE FONDS : 81,204,630.00 Pus. TEEMIËN: 78,118,018.90 FRS.)
+berekend over het bedrag van alïe jaarlijks gestorte premin.
+pCt.
+Dienst 1876
+Van 1863-1876 gemiddeld.
+Dienst 1876
+1863—1876 gemiddeld
+pCt.
+&lt;I«n Heer J, C. M, J. .KNE6T.. PriHSCMrïttCht mi
+woróea verstrekt door den Hooftia^eat tó Amsterdam
+en door tl@a asp^cfeHr deit
+te Rotterdam, Wijissirsaf 'W0. 103. (4060)
+Gestolï'. Kamer, f 18 peïp maand. Terstoad.
+
+Huis en Tuin, 7 kamers, f 1000 per jaar. Terstond
+
+Bovenhuis, S kamers, f 175 per jaar. l Mei.
+So&amp;(tft@rtsc£s&amp;.
+Huis 6 Kamers f 600 per jaar. l Mei.
+Xonêbg. 27
+Maand. 28
+Dinsd. 29
+30
+Aasir. S u.
+Duitsehe peretten. Met
+ntedcwerkingr van M. Trautman en den
+Keer IIHmaan, Birofle-öiro2a.
+Comedie ft-ait^aise. Direction Ken
+et Chamomn Kos Intimes.
+O[jer:i Voorsteling met medewerking
+van den heer Lhene Carmen.
+Duitsehe O pere 11 en-voorstelling met
+medewerking van Fr L Traiitmau Der
+Seecadet.
+Dondert!. I Mei. Opening dor tlollandsclie
+voorstel\irig. I/e Gïs3, yan Z\t)jlen en Has
+
+pels. Uit den Achterhoek voor
+
+afgegaan dooi' de Werkstaking.
+
+JFVêZJ'ffïsS'?» Nes. Directie, G. PKOT.
+Zondag 27 April, en volg. aYoadea Madam Favart.
+tl&amp;s Wtsrfétés. Amstelstraa-t.
+JUBELS •&amp; BoomEESTER.
+2" April" De Duivelsbeuvel.
+'SFsv&amp;Sa Nes. Direetife W.l'iERSEUE BOE
+meb meSüwerlciug van HENKI MOEBIËN.
+- Zty&amp;A. 27 April en volgende dagen De Heidia.
+Dondei'd. l Mei. Soirée-Conoert, vocaal eu instru
+
+mentaal.
+Zond,
+Zond. 27 April. 'Matinee, voor Eamermuziek
+tsii
+Alleen die -woningen, kamers enz. worden
+gratis in deze lijst opgenomen, welke Vrijdags
+voor n uur aaa Eet Bureau vaa dit blad
+worden opgegeven
+p een Kantoor hier ter stede wordt ver
+
+langd EEN JONGSTE BEDIENDE, tegen
+een aanvankelijk salaris van ƒ100.—Adres
+n persoon bij de firma ELLEBMAK, HABMS &amp; Co
+Rokin 2, Amsterdam. (4071)
+Keuze uit meer dan
+onze eigene Werkplaatsen.
+(4061) &amp; dt J."
+swl-80 CÖIÈper doas.
+gefabriceerd in
+Het COMITÉheeft de eer aan belangheb
+
+benden te berigten, dat. de Heer SHERWIN
+B1SiTSTWM'Ti1l? Tan z^'n i'egtsgeleerden Raadsman in- Amerika
+J&amp;ilJl&amp;£i UJj» het Rapport heeft ontvangen, waarvan sprake
+Wordt verlangd een JONG-MENSCH, eene f m het telegram, vDorUmende in de aan- vommmOT P
+&gt;ede vluaffe hand -Hshriivende Ziehmetei^en- kondiging van het Comitédd. 10 dezer,en dat; »B BANU VfcHLLEKl \OOffbtUUI Wl
+handde brieveüaan te melder,, lett. B,"a3n Rapport ter beschikking van het Comitéheeft KOFFIE, SUIKER, TABAK, EIJST, MEEL, SFECEBIJEH, DROGERIJEK,
+TERPWAden Kantoorboekhandel K. C, 'LEPPER &amp; gesteld. 'EEK, EUWE en EDELE METALEN, enz. enz.
+ZOON, Rokin 14, Amsterdam. (4074) Het Comité, ach' *--i----&gt;-~^ ^
+. .
+Op eene Stoomboot,
+megen en Rotterdam,
+bekwaam KELLNER gevraagd,
+van Kost, Inwunmg en ƒ120 salaris, terwijl
+op verval gerekend kan worden. Netheid en
+voorbehoudende daaruit
+binnen kort zoodanige nadere bijzonderheden
+nBïL mede te deelen, als waarvan het de
+kennisne/ , __,. ming voorde Houders van belang acht, wenscht
+varende tusschen NJJ- zich bij ^ezeii Rechts te bepalen tot de ver
+
+wordt, met l Mei een ^ei&amp;ng, dat volgens gezegd Rapport de
+protegen genot ^^m-ettot foreclosure op l April IL-, zijnde
+de laatste dag der, thans gehouden zitting
+het Circuit Courb in Colifas County,
+ZIJ ONTVANGT GELDEN, , flEPOSITO togen yergöedingvan Rpute, thans 8 P€F. (4091)
+vlugheid zijn vereis cliten. Zonder goede refe- ;n behandeling is geweest, en dat de laatste
+rentiëa onnoödig zicb aan te melden. Brieven Behandeling zal plaats vinden in de thans
+franco onder lett. M, bij den Boekh. D. MUS, eerstvolgende zitting van gemeld Hof, zijnde
+te Tiel.
+(4075
+Een JONGMENSCII, zyn vak voor 't grootste afioop der zaak.
+de vierde Maandag van Augustus a.s.
+Gemelde Raadsman bevestigt nogmaals zijn
+gunstige verwachtingen omtrent den
+eindgedeelte verstaande, z&lt;ng zich Gaarne zoo spoe
+
+dig mogelijk in dusdanige Betrekking Geplaatst.
+Franco brieven worden ingewacht onder lett.
+E K, bij den Boek- en M n ziekh andelaar C. B;
+HOO1JÉR, ZijlUraat 80, te Haarlem. (4076)
+Amsterdam. 26 'April 1879:
+Hei Comité,
+1. H. ZÏEGELAAR,
+' P. G. GERLINGS.
+, Ter assistentie in een deftig Burgergezin
+met 5. Kinderen, wordt zoo spoedig mogelijk
+fïvraagd eene JUFFROUW (geene Dame).
+ereisrliten zijn: P. G„völkoaien bekendheid naar liet
+met de behandeling der droge "VYasch, goed
+Strijken. Naaien en Mazen. Adres met franco
+brieven, onder lett. T K, bij J. J. C. MUNK,
+ioekh. Haarlem. (4077)
+uit de Eaarlemmmer Honttuinen
+Aüouiemsai m 12 M to f k \
+Deze lijst verschijnt'
+op den Isten van elke
+maand en bevat een op
+
+gaaf van TE KOOP
+en TE HUUR AAN
+
+GEBODEN en GE
+
+VRAAGDE,
+Maehrneriên,
+Landbouwwerktuigon', Materialen en di
+
+verse andere voorwerpen.
+Opgaven en
+Advertentiën worden -voor den
+25sten -inewacht.
+(4063)
+Bedacteur en
+-93.
+3 Kamers-, f 300 per jaar. Terstond.
+In Utrecht wordt ten spoedigste in een Fijne
+Modezaak gevraagd, een BEKWAME WIN
+
+KELJUFFROUW, tevens tot adsistentie voor
+het garneeren der hoeden. Reflecteerenden ver
+
+voegen zich met opgave van Godsdienst met
+franco brieven onder No. 318 bij den Boek
+
+handelaar A. VAN DORSTEN Jr. in de
+Lijnmarkt te Utrecht, (4078)
+Gevraagd eene fatsoenlijke JUFFROUW, om
+in eene Huishouding zonder Kinderen het be
+
+stuur op zich te nemen. Adres met franco
+brieven, onder lett. K H, aan het
+AdvertentieBureau vau B. BLANKENBERG, te Leiden.
+(4079)
+en
+kunnen ook bezorgd worden
+i g azijn van den Beer
+- Bestellingen
+in het S i g a r e n m
+C. J. HÉRMSE, Damrak No. 2$.
+eene groote partij Parkieten, komende van
+Australië, en een partij Papegaaien van de
+Kust van Guinea; ook nog voorraad,van
+RijsteYogels en Nonnetjes, Saksekanarie, mannen en
+poppen f. 1.50 het stuk, fluitende Lijsters, zin
+
+gende Leeuwrikken, slaande Vinken, eBZ.
+Te bekomen voor prijzen waar niemand tegen
+kan coHcnrreereï, bij
+(4092)
+Martelaarsgracht Ko. 6.
+BeïiahdeHiïg van KecMsaaken, waaron&gt;
+der faillissementen, tot stand brengen van
+Onderaandscne en Gerechtelijke
+Aceoor.	den, enz. Inkasseermg van Pre'entiën.
+(4067) Hypotneken op.Huisen en Landerijen door
+-	i het geheele Kijk, ook 2ëen 3e, bij vol
+
+doende overwaaide.
+Kapitalenboek: Blooten eigendom of vrucMgebruik
+worden: gekoelit naar déhoogste waarde
+Beleening op Effecten.—Voorschotten op
+alle Courante waarden en koopmansgoe
+
+deren. Assurantiën: Ssliepen en verv.oe:
+van Ó-oederen (BnuK-avaort): Huizen en In
+
+boedels tegen. Brandschade op weteelijk
+sche contributiën, mét herverzekering in
+de grootste Europeesche Maatschappijen.
+Alle onderliaBdsche Akten ehContractsn
+waaraan de Wet gelijke kraeM toeken
+als de l^otariëele. '
+veracb. gebraad»
+cent.
+
+, TRU 75, 00
+beste
+en
+[50 cent,, zeer zwaar geurig eu watertandend,
+
+!B. 60, 70, S$ eu 100 cents.
+iUïKEU, prima kwaliteiten, tot
+de laagste prijzen.
+Dagelijks wordt
+huis. Monsters
+gel.t
+worden
+ea bezorgd aan
+aanvraag franco
+(4065)
+prijzen Isi ^
+Het praeparaal
+pereeelen tegen billijke
+aangenomen.
+tot vernietiging van
+_ ' is i"gen ƒ l per
+doos verkrijgbaar; mei taestel ƒ 2.
+Spnistraat bij net Spui, 330.
+(4058)
+(406Ö(
+
+</text>
+<image timestamp="2002:10:31:20:18:38.00" size="525270">D3000KH5.TIF</image>
+</page>
+</document>

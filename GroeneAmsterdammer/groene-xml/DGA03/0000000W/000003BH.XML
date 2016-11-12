@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950512</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Gemeentelijke exploitatie van de gasfabriek?
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 12 Mei 1895.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+Burgemeester: »Hebt u zin om in te stappen?"
+Amsterdamsche Stedemaagd: »Als ik maar wist of het veilig was!"
+
+</text>
+<image timestamp="2002:08:20:14:04:04.00" size="427716">000003BH.TIF</image>
+</page>
+</document>

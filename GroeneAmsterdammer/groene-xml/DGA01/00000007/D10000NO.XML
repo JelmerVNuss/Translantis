@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19041225</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Duitsche Rijntollen.
+HU VOF.GSEl. van de Amsterdammer. Weekblad voor Nederland van 25 December 1904.
+
+J«?5ïS*S»iSig»aê5S!»
+^'SSWwiWaStfï-,':-... •••..-.•;• '^'"*'?«!Kv'HA:t?;,^,v?i.
+'- ^^i;f^-^^ ;Tv'*;'^'::?Ï?t^C-^^!r7^^-^--:-- '
+***"'•* \ o ^ Si a « k«n v»' c k
+i &lt; N \
+Amst. Boek- en Steenürukkerij. v;h. Ellerman, Harms &amp; Co.
+DE NED. MAAGD (tot r. Biilcnv): • Maar dat moogt U niet... dat is in strijd met het tractaat. . ."
+KEIZER WILHELM. »Ga je gang maar, Bernhard met die juffrouw zal ik het wel vinden; trots alle tractaten, bestaat er maar n
+recht; dat is: wat wij willen."
+
+</text>
+<image timestamp="2002:08:16:08:42:19.00" size="267021">D10000NO.TIF</image>
+</page>
+</document>

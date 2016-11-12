@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340303</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+t,.»
+*De Groene Amsterdammer van 3 Maart 1934
+N o. 2961
+J. D. STRUIJS &amp; Zn.
+Tel. 37906-Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden'
+Molsteeg ~~ Amsterdam
+SLAAPKAMERS
+Gasfornuizen - Gaskachels - Gashaarden
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 32457 Keizersgracht 447
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+ADRIAAN SCHAKEL
+HERIGEWEG - TELEFOON 37273
+Toen Vader zoonlief had bewogen
+Ook naar SCHAKEL" toe te gaan
+Kwam zijn naam bij vaste klanten"
+Op den HEILIQEWEQ" te staan.
+MEUBELEN
+BRANDKASTEN
+OUDEHOt
+DirkSclmabe?
+Am&amp;terdam.
+LEDERWAREN
+
+AMSTERDAM - DEN HAAG RE ISARTIKELEN
+
+PLAIDS, VOETZAKKEN, AUTO-OVERSCHOENEN
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2276
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+W. H. POLMAN
+TUINOVERTOOM 526 - Telefoon 82660
+Begrafenissen - Transporten - Crematies
+£e 1Ceme
+f]01- de
+In luxe bloemendoozen. . f 1.60 en f
+3.Napolitains in doozen van f 1.40 en f 2.75
+Los uitgewogen per ons .... 55 cent
+
+</text>
+<image timestamp="2002:10:28:08:21:55.00" size="188828">D200AQQ.TIF</image>
+</page>
+</document>

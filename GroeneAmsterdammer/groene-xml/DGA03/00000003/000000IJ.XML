@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060923</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Troonrede.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland van 23 September 1906.
+Amst. Boek- en Steendrukkcrij. v,h. Ellerman, Harms &amp; Co.
+1)E NEDERI.AXDSCHE MAAGD (tot de Ministers van Buitenlandsche Zaken en van Marine}: «Doen de Heeren óók geen duit in 'tzakjef;'
+
+</text>
+<image timestamp="2002:08:11:05:11:08.00" size="172611">000000IJ.TIF</image>
+</page>
+</document>

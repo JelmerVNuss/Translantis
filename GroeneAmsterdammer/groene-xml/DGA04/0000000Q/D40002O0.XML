@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19161118</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DUITSCHE DWANGMAATREGELEN TEGEN DE BELGISCHE BURGERS
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 18 November 1916
+Arnst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+K U L T U R
+
+Ik verzeker uitdrukkelijk dat er geen sprake van is, dat Belgen naar Duitschland gevoerd zullen worden"
+
+De Gouverneur van Antwerpen
+V O N H U E M N E
+ANTWI-RPÜN, 18 Octubcr 1914
+
+</text>
+<image timestamp="2002:08:23:00:48:09.00" size="490454">D40002O0.TIF</image>
+</page>
+</document>

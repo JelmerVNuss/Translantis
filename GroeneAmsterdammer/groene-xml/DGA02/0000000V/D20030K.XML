@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170804</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTER-DAMMER, WEEKBLAD VOOR NEDERLAND
+4 Aug. '17. No. 2093
+Tentoonstelling van A. J. van
+'t Hoff bij kunsthandel van
+Bekhoven, Korenmarkt, Delft,
+o.m. ets Stadhuis te Rotterdam
+(in aanbouw), aangekocht
+door Museum Boymans
+J.VIVEEN
+GLASSCHILDERKUNST.
+
+NIEUWEGRACHT 85 UTRECHT
+Om spijzen smakelijk
+te maken.
+f jjnproevers
+GEZOND EN MOOI WONEN
+
+Op 30 minuten sporens van Amsterdam en 18 minuten van Utrecht is
+HILVERSUM gelegen. Aan den Utrechtschen weg bieden de prachtige
+beboschte en heuvelachtige (tot 25 Meter boven A. P.) terreinen
+VAN 't HOOGT VAN 't KRUIS de beste gelegenheid om GEZOND
+EN MOOI te wonen.
+Voor inlichtiDgen te HILVERSUM bij H.H. Makelaars en Centrale Exploitatie Maatschappij,
+Utrechtsche weg 50. Telef. 663,
+te AMSTERDAM, Kioveniersburgwal 70, Telef. 2552.
+Stoom-Wasscherij
+C. D.BUtUiHIiffflaM.Zwus
+Bellevoysstraat 69-75
+ROTTERDAM.
+Telefoon 31.
+De inpakzaal in het hedendaagsch waschbedrijf
+Speciaal adres voor het
+
+m
+
+d
+Prgsconranten worden gaarne
+op aanvraag toegezonden.
+JANSVELD 19
+: UTRECHT. :
+LEVCRErt
+STEMPELBAMDEN AAN
+H.H. UITGEVERS
+HALF LEDEREN BANDEN
+ENZ. ENZ.
+PARTICULIER BINDWERK
+IN ELK GENRE.
+MIEGtn
+STOFBESTRIJDING MIJ.
+Jansveld 13, UTRECHT. Tel. 28.
+Afd. TÜINMEUBELFABRIEK
+Kofl. Ned. Mandenfabriek
+. VAN VLIET
+NOORDEINDE 158
+DEN HAAG
+rne Serre-, Tuin- en
+Terras-Meubelen
+Fijn- en Grof-Mandenwerk
+Dek- en Sanatorium-Stoeler
+DEBOHT4LEYTENS
+FIJNE CHOCOLADE
+El SDIKERWERKEI.
+AMSTERDAM.
+MAGAZIJN VAN
+
+Echte Bronzen Pendale-6amiturtn
+in alle stijlen.
+Verliohtings-trtikelen v. gas en elec. flcht.
+HooriTtrtettïwwrtlïJn TU ket ORFET1EE1E CHE1STOIU
+_ VEER HO FF A Co ~__42_^lv^*'!t^t_^
+Sfffffffffffffffffffffffffifffifffffffff
+CHEMIGRAFISC.HE KUNSTINRICHTING
+
+'"'«'DIRK SCHNABËL
+CLÏCHÉ'S
+VOOR /WART UN KLEURLNUHUK
+ONS NIEUW PROCKDt IS
+
+KOPERDIEPDRUK
+GESCHIKT VOOH EI.K PAPILH.
+Geheel opvouwbaar!
+Direct van de fabriek, zonder
+tusschenpersonen of winkeliers,
+daardoor veel goedkoopen
+COMPLETE
+UITRUSTINGEN
+' 'ARTIKELE
+BB
+FRAN5CHE
+LINGERIES
+DAMES F De mogelijkheid bestaat, dat wij dezen winter
+van kunstlicht zoo goed als verstoken zullen zijn.
+Als dit zoo is, kunnen wij maar halve dagren werken
+en moeten onze geachte Clientèle buiten onze schuld
+lang wachten op hun bestellingen.
+Laat daarom u-we Pelterijen gedurende Augustus
+vermaken en repareeren, dan is u zeker, op tijd
+uw Bontwerk gereed te hebben.
+
+A. WEILL, Bontwerker, Barieijorisstraai 26-28, Haarlem.
+TELEFOON 6O4.
+Een/g vakkundig adres hier ter stede, Gevestigd sedert 1856.
+
+</text>
+<image timestamp="2002:08:23:22:12:10.00" size="294311">D20030K.TIF</image>
+</page>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280811</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TP
+No. 2671 van 11 Augustus l**28
+25 Ct.
+•voor' Nederland
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+Keizersgracht 525 Amsterdam
+
+POLISSEN
+aan STATIONS en REISBIIIEAUX direct verkrijgbaar.
+
+* * *
+In geval van schade kan men zich wenden tot de
+
+EUROPEESCHE"
+te Amsterdam, Bareelona, Belgrado, BerHjn, Bern, Boedapest, Boekarest, Brussel,
+Constantinopel, Helslngtors, Keulen, Kopenhagen, Lissabon. Londen, Luxemburg, Madrid, Münche»,
+Oslo, Parijs, Praag, Rome, Stockholm, Warschau en Weenen.
+DE OVERHEAD DOOR"
+IS DE IDEALE DEUR VOOR ELKE
+
+garage» box of pakhuis.
+
+
+SCHUIFT ZONDER BENIGE KRACHT OVER
+UW HOOFD TEGEN HET P Ij AF O N D.
+
+V r a~a g t Prijscourant IS o. 7
+
+
+
+J. 6 G. STROBAND, N. Tecrtuincn 24, Amsterdam
+Telefoon 47139.
+N.V.V/H.
+
+H.A.KIOOSTERHÜIS
+(AMSTERDAM
+CHANDLER
+TECHNIEK en SMAAK
+
+Het initiatief van de Chandler ingenieurs,
+die o.a. het ONE SHOT SMEER SYSTEEM
+en de WESTINGHOUSE VACUÜM
+VIERWIELREMMEN als Standaard uitvoering op
+eiken Chandler-wagen toepasten, brachten
+dezen automobiel met zijn onvergelijkelijken
+PIKES-PEAK motor aan het hoofd der
+moderne Amerikaansche techniek.
+De Chandler-carrossiers, die den wagen
+een prachtige lijn gaven en geen kosten
+spaarden, om den Chandler-rijders het
+summum van comfort te schenken, bestem
+
+pelden dezen automobiel tegelijk tot een der
+fraaiste en meest doelmatige wagens, welke
+een rijder, die hooge eischen stelt, in alle
+opzichten de grootste voldoening zal geven.
+6 Cylinder CHANDLER
+SEDAN
+van af
+f
+3800.Imp. voor Noord-Holland:
+ANCHELON's
+AUTOMOBIEL MAATSCHAPPIJ
+WETERINGSCHANS 103 Tel. 34353 AMSTERDAM
+
+</text>
+<image timestamp="2002:09:05:01:44:14.00" size="123205">000006TK.TIF</image>
+</page>
+</document>

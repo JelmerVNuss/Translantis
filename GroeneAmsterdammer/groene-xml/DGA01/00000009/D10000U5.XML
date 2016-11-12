@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200424</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N°. 8235
+Zaterdag 24 April
+A°1920
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN KAMP
+Redacteuren: Prof. Dr. H. BRUGMANS, Mr. E. S. OROBIO DE CASTRO Jr., Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL en H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per No. f 0.25. Per half jaar f 6.25. Abonn. loopen per jaar
+Redactie en Administratie; Keizersgracht 333, Amsterdam
+Advertentiën f 0.60 per regel plus 10 cent dispositiekosten
+INHOUD: Bladz. l: Het
+SocialisatieRapport der S. D. A. P., door prof. dr. G. W.
+Kernkamp. Tijdgenooten, door dr. G. W.
+C. Byvanck. ostenrijk's financieele toe
+
+stand en de mogelijkheid van verbetering,
+door mr. G. Vissering. 2: De Verkeersagent,
+teekening van Jordaan. Krekelzang van
+J. H. Speenhoff. 1789—1718, door dr. H.
+A. N. E. van Gelder. 3: Het Huwelijk
+voorwerp van Staatszorg? door Johanna
+W. A. Naber. 5: Voor Vrouwen, onder red.
+van mej. E. M. Rogge. De Vrouw op het
+Arbeidscongres te Washington, door A. H.
+L.-B. 8ste Congres van den Wereldbond
+van Vrouwenkiesrecht, door N.
+MansfeldtDe Witt Huberts. Uit Kindermond, door
+A. H. Elbée. De Wegen, door Tony de
+Ridder. •—Uit de Natuur, De Meeuwen,
+door Jae. P. Thijsse. 7: Menge'berg, door
+H. J. den Hertog: Schilderkunst-Kroniek
+van A. Plasschaert.—Dr. H. W. Ph. E. van den
+Bergh van Eysinga f, door dr. Fred. van
+Eeden en mr. H. Giltay. Moderne Strijd,
+teekening van George van Raemdonck.
+8: Jeruzalem onder de sneeuw, door Jacob
+Israël de Haan. Bij Henri Barbusse, door
+JohannesTielrooy. Financiën en Economie:
+Op den Econ. Uitkijk, door mr. H. Smissaert.
+10: Charivaria. • Dostojewski, door Jasoiro
+Sawamura. Schipbreukelingen, van G. L.
+Kroes. Uit het Kladschrift van Jantje.
+Feuilleton: Stemmingen van n nacht, door
+H. de Wille. 11: Biljartsport, Masseefen,
+Techn. Rubriek: Toepassing van onzichtbare
+stralen, door v, O.
+Bijvoegsel: De Conferentie te San Remo,
+teekening van Joh. Braakensiek.
+iiiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiHtiiiii
+HET
+SOCIALISATIF-RAPPORT
+DER S. D. A. P.
+De commissie uit de S. D. A. P.,
+die belast was met de taak het
+socialisatie-rapport samen te stellen, heeft
+een in menig opzicht verdienstelijk
+werk verricht.
+Die lof kan haar worden toegebracht
+. ook door wie zich, zooals
+ondergeteekende, niet gerechtigd gevoelt de af
+
+zonderlijke conclusies, waartoe het
+rapport voor de verschillende bedrijfs
+
+takken komt, te onderschrijven, al
+ware het slechts hierom niet, dat hij
+zich niet bevoegd acht daarover te
+oordeelen.
+Maar ook met dit voorbehoud kan
+men het rapport prijzen als een ge
+
+slaagde poging om een stevigen onder
+
+grond te leggen voor den opbouw van
+een discussie over de wenschelijkheid
+en mogelijkheid van socialisatie
+een vraagstuk, dat in de eerstvolgende
+tijden de volle aandacht zal opeischen
+van allen, die tot de behartiging der
+openbare zaak zijn geroepen. De
+verschillende politieke partijen zullen
+kleur moeten bekennen tegenover deze
+quaestie en de mogelijkheid schijnt
+zelfs niet uitgesloten, dat de tegen
+
+woordige, in menig opzicht redelooze
+partijindeeling erdoor zal worden ge
+
+wijzigd.
+Toen na den oorlog het streven der
+arbeidende klasse naar verbetering van
+haar maatschappelijk lot zich krach
+
+tiger dan ooit uitte en zij socialiseering
+der bedrijven tot haar strijdleus koos,
+werd de schijn gewekt, alsof het al
+dan niet aanvaarden van die leus samen
+
+viel met het al dan niet bereid zijn om
+aan de arbeidende klasse de haar in de
+maatschappij toekomende plaats te
+verzekeren.
+Maar zoo stond de zaak toch niet.
+Van hen, die de leus aanhieven of
+overnamen, kon alleen worden gezegd,
+dat zij door socialiseering der bedrijven
+hoopten te geraken tot een redelijker
+en billijker ordening van de maat
+
+schappelijke toestanden ; maar zelfs
+aan de leiders van politieke partij
+of vakvereeniging bleek het doel, waar
+
+heen zij hunne volgelingen wezen,
+slechts in schemerige omtrekken veor
+oogen te staan ; gevraagd naar de
+middelen, waarmede zij het dachten
+te bereiken en naar de bindbalken
+van de nieuwe structuur, die zij wilden
+optrekken, moesten zij het antwoord
+schuldig blijven of hunne toevlucht
+zoeken tot vage aanduidingen.
+En onder hen, die sceptisch de
+verkondiging van de blijde boodschap
+der socialisatie aanhoorden, mochten
+er zijn, die vijandig gevoelden tegen
+
+over elke poging der arbeiders om een
+ruimer aandeel te krijgen bij de ver
+
+deeling der maatschappelijke goederen,
+maar waren er zeker ook velen, die
+hun dit ruimer aandeel niet misgunden,
+mits slechts kon worden aangetoond,
+dat de vervanging van de vrije be
+
+drijfsorganisatie door een stelsel van
+socialisatie ten goede zou komen aan
+de geheele gemeenschap.
+Ook al zal de socialisatie zoo
+vroegen deze laatsten zich af worden
+beperkt tot de bedrijven, die reeds
+thans in hooge mate geconcentreerd
+zijn en feitelijk een monopolie genieten,
+staat het dan niet te vreezen, dat in
+het gesocialiseerde bedrijf de energie,
+de toewijding en de ondernemersdurf
+van de leiders geknot zullen worden,
+omdat men hun niet de vrije hand zal
+laten, maar zij zich belemmerd en
+bekneld zullen gevoelen door allerlei
+bureaucratische inmenging?
+Zal de prikkel van de eerzucht om
+zulk een bedrijf goed te leiden even
+sterk werken als die van het eigenbe
+
+lang in het vrije bedrijf?
+Zal men van het personeel in geso
+
+cialiseerde ondernemingen een grootere
+arbeidsprestatie mogen verwachten dan
+van personeel in particuliere onder
+
+nemingen?
+Zal, bij het uitbreken van een conflict
+tusschen de directie van eene der
+eerstgenoemde ondernemingen en het
+personeel, de directie, ook al heeft zij
+het recht aan hare zijde, niet dikwijls
+moeten toegeven, wanneer de arbeiders
+worden gesteund door hunne vakver
+
+eeniging en deze de hulp inroept van
+een met haar bevriende of om poli
+
+tieke redenen van haar afhankelijke
+autoriteit, aan wie jde directie onder
+
+geschikt is? En zw hierdoor op den
+duur de inwendige tucht in zulk een
+onderneming niet verslappen?
+Op zulke en soortgelijke vragen
+wenschten zij, die met de
+socialisatieleus niet terstond konden instemmen,
+een geruststellend antwoord te ver
+
+nemen.
+Ik zal niet beweren, dat hunne
+twijfelingen zijn weggenomen door het
+rapport van de commissie uit de
+S. D. A. P. Maar dit heeft er althans
+rekening mede gehouden.
+Zooals te verwachten was, strekt
+het in hoofdzaak ten gunste van de
+idee der socialisatie.
+Niet voor alle bedrijven wordt die
+echter uitvoerbaar of reeds uit
+
+voerbaar geacht. Als bedrijven, die
+zoo spoedig mogelijk aan de gemeen
+
+schap moeten komen, worden genoemd:
+de steenkoolproductie, de
+electriciteits-, gas- en watervoorziening. De
+transportbedrijven zullen geleidelijk
+volgen. Met den landbouw zal men nog
+geruimen tijd moeten wachten. Het
+bankbedrijf leent er zich heelemaal
+niet toe.
+Ook worden de aan socialisatie ver
+
+bonden bezwaren volstrekt niet w
+ggedoezeld. Juist hierin ligt een der
+grootste verdiensten van het rapport,
+dat het die bezwaren niet te licht heeft
+gewogen. De commissie heeft niet
+verzwegen, dat zij geen kans ziet ze
+alle op te heffen.
+Opmerkelijk is de conclusie, waartoe
+zij geraakt is omtrent het in gesocia
+
+liseerde ondernemingen te betalen loon.
+Behoud van den loonvorm"
+zoo schrijft zij is tot in afzienbaren
+tijd noodzakelijk. Immers, bij de soci
+
+alisatie dient uitgegaan te worden
+van het menschelijk karakter, zooals
+dit zich onder de bestaande omstan
+
+digheden heeft gevormd, en niet zooals
+men verwacht, dat het worden zal.
+Opvoeding en scholing van degenen,
+die in gesocialiseerde en daarmede in
+dit opzicht gelijk te stellen bedrijven
+werkzaam zijn, tot ijverige, plichts
+
+getrouwe medewerkers, is geboden.
+Van de resultaten hiervan zal afhangen
+of en in hoeverre de prikkel van het
+eigenbelang door een van moreelen
+aard kan worden vervangen".
+Het loon behoort in overeenstem
+
+ming te zijn met de prestatie. Invoe
+
+ring van een passenden vorm van
+stukwerk (ook groepsstukwerk) is, waar
+mogelijk, gewenscht, mits een
+minimum-loon bij behoorlijke, d.w.z. ge
+
+middelde prestatie gewaarborgd is,
+en zorg wordt gedragen dat het niet
+tot overmatige inspanning voert
+(maximurn-prestatie). Stukloon is n voor
+het bedrijf n voor den arbeider onder
+deze voorwaarden voordeelig en geeft
+hem een grooter mate van vrijheid".
+Deze erkenning van het aanbevelens
+
+waardige van stukloon door sociaal
+
+democraten heeft iets van het verras
+
+sende verloren sinds in den vorigen
+zomer ook het partijblad der Duitsche
+meerderheids*sociaaldemocraten de
+weder-invoering van stukloon heeft be
+
+pleit als een middel tot verhooging
+der productie.
+Maar toch noemde ik de conclusie
+opmerkelijk, omdat ten onzent het juist
+de sociaaldemocratische leiders van
+vakvereenigingen zijn geweest, die het
+meest hebben geijverd voor nivellee
+
+ring bij de salarisregeling en de bevor
+
+deringskansen, met name in de takken
+van rijksdienst: geen hooger loon bij
+beter arbeidsprestatie, maar gelijk loon
+in gelijken rang en bij gelijken dienst
+
+tijd ; geen bevordering tot hooger
+rang door meerdere bekwaamheid, maar
+volgens anciënniteit; dit is meer en
+meer de regel geworden. De onderge
+
+schikten hebben door deze regeling
+een waarborg gekregen tegen onbillijke
+achteruitzetting door hunne superi
+
+euren ; maar hunne arbeidsprestatie
+is er zeker niet door vermeerderd. Het
+is een verblijdend teeken^van een kente
+
+ring der meening in dit opzicht, dat
+de "commissie uit de S. D. A. P. het
+loon weder in overeenstemming wil
+brengen met de prestatie.
+
+Als een belangrijke bijdrage voor
+de studie van het
+socialisatie-vraagstuk kan men het rapport dankbaar
+aanvaarden. Maar opgelost is dit vraag
+
+stuk nog niet.
+Wie voorlichting daaromtrent zoeken,
+zullen die ook van anderen kant dan
+van een uitsluitend uit sociaaldemocra
+
+ten bestaande commissie wenschen te
+krijgen.
+Aan dien wensch kan worden
+v.oldaan, zoodra de door de regeering
+benoemde commissie haar rapport zal
+hebben uitgebracht over het vraag
+
+stuk van de productievermeerdering
+en de verdeeling der goederen.
+Vermoedelijk zal men daarop nog
+eenigen tijd moeten wachten. Dat
+uitstel kan de beslissing over: al of
+niet socialisatie, wel lijden.
+Zoo het er toe komt, zal de sociali
+
+satie ook niet in een vloek en een zucht
+kant en klaar zijn. De commissie van
+de S. D. A. P. spreekt van een proces
+van geleidelijkheid" en n van hare
+leden, de heer J. F. Ankersmit, heeft
+dezer dagen in Het Volk die geleide
+
+lijkheid nog eens dik onderstreept.
+Wij gelooven het gaarne, dat zulke
+economische omwentelingen niet plot
+
+seling geschieden. Maar hoe hebben,
+nog niet zoo heel lang geleden, de
+sociaaldemocraten de ge-lei-de-lijk-heid
+gehoond, als hunne tegenstanders die
+voor maatschappelijke veranderingen
+aanprezen!
+
+KERNKAMP
+
+tlllllllllllllHIIIIIIIIIIIIIIIIIMIIIIIIIIIIIIIMIIIIIItlllllflIIIIIMIIIIIIIIIIIIIIIIIII
+
+OOSTENRJJK'S FINANCIEELE*
+TOESTAND EN DEMOGELIJKHEID
+
+VAN VERBETERING
+
+door mr. G. VISSERING,
+President van de Nederl. Bank
+II
+
+MIDDELEN TOT VERBETERING
+'in mijn eerste artikel zette ik uiteen op
+welke wijze de Oostenrijksche Kroon in waarde
+is gedaald. In het buitenland is deze Kroon,
+die volgens de wettelijke muntregeling als
+geldeenheid der Oostenrijksche-Hongaarsche
+monarchie met de waarde van 0,304878 gram
+fijn goud gelijk stond, tot minder dan 1/50
+van hare vroegere waarde gedaald; in het
+binnenland is de waarde-daling tegenover
+goederen nog niet zoo groot geworden,
+doch hare waarde is zeer onzeker en kan nog
+dagelijks veranderen.
+In het buitenland wordt zij nagenoeg niet
+meer in betaling aangenomen ; in het binnen
+
+land is zij nog de munteenheid, waarin prij
+
+zen van de goederen en diensten worden uit
+
+gedrukt, maar door hare wisselende waar
+
+de kan zij nauwelijks meer als waardemeter
+aangenomen worden. Aangezien men echter
+geen andere waardemeter heeft, behelpt men •
+zich nog met haar, zich nauwelijks bewust
+zijnde hoe ondeugdelijk zij thans daarvoor is.
+Die toestand is onhoudbaar.
+Hoe kan hierin verandering worden ge
+
+bracht? Niet door eene wet; immers de wet
+bepaalt nog steeds, dat de Oostenrijksche
+Kroon eene waarde heeft gelijk aan 0,304878
+gram fijn goud, de wet kent geen papieren
+kroon • in werkelijkheid is echter de goudkroon
+eene niet meer bestaande, eene fictieve een
+
+heid, geworden, en bestaat de circulatie
+nog slechts uit biljetten, die niet anders ver
+
+dienen dan den naam van papieren kroon.
+Aan het muntwezen op zich zelf is dus niets
+te veranderen, aangezien de deplorabele
+toestand, waarin dit zich thans bevindt,
+niet eene oorzaak, maar slechts een gevolg
+is van andere toestanden. Verbetering kan
+dus slechts intreden, indien eerst wijziging
+in die andere toestanden doelbewust ter hand
+wordt genomen.
+Die •anwijziging moet hoofdzakelijk be
+
+staan in twee richtingen :
+l o. de vermeerdering van uitgifte van
+schuldpapier door Staat en Gemeenten moet
+ophouden, tenzij deze onmiddellijk en onvoor
+
+waardelijk zou kunnen strekken tot het schep
+
+pen van nuttige goederen ;
+2o. men moet in Oostenrijk weder hard
+aan den arbeid gaan om een overschot van
+nuttige goederen te produceeren, .welke naar
+andere landen geëxporteerd kunnen worden,
+ten einde weder middelen te verkrijgen tot
+betaling van hetgeen Oostenrijk dringend
+uit het buitenland zal behoeven.
+De Oostenrijker moet dus niet minder hard
+werken dan vroeger; hij moet harder werken,
+en althans meer arbeid praesteeren dan de
+hem omringende Staten ; met schoon schijnen
+
+de leuzen en theoriën over betere bestaans
+
+voorwaarden enz. gaat hij den grond in;
+alleen door noesten vlijt kan hij zich er boven
+op werken.
+i' mmiiimiiMiiiiiiiiiiiiiiiiiiiiiiiiiiniiiMiuiiiiiiiiiiiiiiiiiiiiiiiiiiiii	iimmiiiiimiiiiiimitimiii
+iiiiiiu	iiiiiiiiiiiiiiimiiminiii	IIIIIIIIHIIMIIIIIIII	iiiiimmiiiiiiiiiiiiiiiiiiiHiiiiMtNiiiMiiiiiimiNiniiniHitiiiiiii1111111111»111111"1111"11
+iiilimimiiimii
+AMERfKA TE VELDE
+
+Amerika is bezig zijn oorlogservaringen te
+boek te stellen. Met Yankee humor.
+Hier is 't het verhaal van een regiments
+
+kapelaan over de avonturen van zijn lersch
+regiment in Frankrijk, en daar vertelt ons
+een jong luitenant hoe hij in weinige maanden
+tijds, door de praktijk van het leven te velde,
+is doorgedrongen tot de geheimen van de
+moderne krijgvoering. Beiden, wanneer er
+iets grappigs hun op hun weg is tegenge
+
+komen, vergeten niet het mee te deelen.
+Hoe vind ik je hier? zegt een geloovig
+kapitein 'van het lersche regiment tot zijn
+oppasser, die van een ander geloof is, als hij
+de mis bijwoont en ziet dat de soldaat met
+hem is meegegaan. Kapitein, ik zou u tot
+in de hel volgen ; antwoordt de oppasser,
+die zich onafscheidelijk voelt van zijn officier.
+Wat 'n toewijding! oordeelt de kapitein
+over het geval, wanneer hij het aan den
+kapelaan vertelt. Ja, maar minder vlei
+
+end voor mij, merkt de Padre droogweg op.
+En de twee aan 't lachen! De
+open-luchtvrijheid van de campagne!
+Maar de jonge kersversche luitenant die
+de heldenloopbaan op wil, is de oudste der
+vier zoons van den oud-President Theodore
+Roosevelt, die allen dadelijk bij het eerste
+geluid van de krijgstrompct hun leven ter
+beschikking hebben gesteld van het vader
+
+land.
+Wij behoeven geen oogcnblik te vragen of
+er wel een bries van levenslust zal waaien
+door zijn verhaal.
+
+Ik spaar U uit het boek van dezen
+Rooseveltwelp, dat hij heeft betiteld : G e w o n e
+Amerikanen, Average Ameri
+
+ca n s, al het Rooseveldianisme waarmee het
+wordt ingeleid. Wij weten hoe de oude Theo
+
+dore er zich op heeft toegelegd om
+allejmanncdeugden van flinkheid en vaderlandsliefde
+bij zijn telgen te ontwikkelen, hoe hij heeft
+gepoperd toen Amerika zoo lang aarzelde
+deel te nemen aan den grooten oorlog voor
+de vrijheid, hoe hijzelf zich voor een vrij
+
+willigers-commando heeft aangeboden, en
+zich boos heeft gemaakt niet alleen over de
+onverschilligheid waarmee zijn opoffering
+ter zijde werd geschoven, maar ook over den
+tragen gang van den loop der zaken die een
+spoedige beslissing eischten. De Roosevelts
+stonden klaar • waarom sukkelden de anderen?
+De oudste, Teddy no. 2, heeft geen seconde
+geaarzeld. Zijn vader, de groote Teddy,
+schreef hem naar Frankrijk in den zomer van
+1918, toen het er heuscti op aan kwam voor
+de Amerikanen : Alleen, die verdienen den
+naam en de onsterfelijke glorie, die in het
+heetst van het gevaar hebben gestaan".
+Hij nu verlangde naar de onsterfelijkheid.
+Zijn vrouw, de moeder van Teddy no. 3,
+wilde ook naar het tooneel van den oorlog
+als verpleegster of helpster. Vooreerst kon
+hij haar nog geen permissie geven, hij zou haar
+van Europa uit schrijven; zij beloofde te
+wachten. Maar toen hij van daar haar aanried
+niet over te komen, kreeg hij tot antwoord
+dat zij al lang op weg was en eerstdaags te
+Parijs zou zijn.
+Zij waren met hun zessen op het terrein,
+de vier broers, de schoonbroeder, en de
+vrouw.
+
+Einde Juni 1917 zetten Roosevelt en zijn
+broeder Archie den voet op Fransen grond
+
+gebied, het duurde tot het eind van Maart
+1918 eer zij, als veteranen in den dienst,
+werden waard gekeurd aan de groote veld
+
+slagen deel te nemen en de hitte van den
+strijd te naderen. Want in den aanvang ging
+hun alles verkeerd af, ofschoon Roosevelt in
+Amerika den rang had van luitenant der
+reserve ; zelfs toen hij binnen enkele maanden
+het tot majoor had gebracht, was het niet
+veel beter. Het waren immers rauwe troepen,
+zonder opleiding, zonder eenige ondervinding
+van wat oorlog was. Zij konden niet eenmaal
+marcheeren.
+Wat wisten zij van de voorziening der
+troep, als zij op marsch was? Het woord van
+Napoleon, dat een leger op zijn maag mar
+
+cheert, moest hun door de ondervinding
+worden verklaard en in hun honger een illus
+
+tratie vinden, wanneer, na een vermoeienden
+tocht, voor den toevoer van levensmiddelen
+niet bleek gezorgd te zijn. De instructie, die
+van bovenaf kwam was nul.
+Iemand werd gezonden die het bataillon
+zou inlichten over de gasaanvallen. Hij wist
+te vertellen over de Grieken die reeds giftgas
+als strijdmiddel gebruikten, en over de samen
+
+stelling der nieuwere gassoorten, die echter
+alleen gevaarlijk werden, wanneer ze in
+grootere hoeveelheid op n plaats voorkwa
+
+men, zoodat men niet te spoedig zich moest
+laten verschrikken. Maar toen een, die hem
+aandachtig had gevolgd gewoonlijk luis
+
+terde men niet, den instructeur vroeg,
+wat de toets was van de gevaarlijke hoeveel
+
+heid, bleef hij het antwoord schuldig.
+Het gevolg bleef niet uit ; zoodra de man
+die 's nachts op wacht stond een vreemd
+luchtje meende te ruiken, alarmeerde hij ;
+signalen werden gegeven, luchtpijlen afge
+
+schoten, bevelen rondgezonden . . . Later
+wist men dadelijk te onderscheiden, waar het
+op aankwam.
+
+De dienst gedurende den nacht daar
+moest men eerst aan gewennen. De schild
+
+wachten, niet hun opdracht om tegen nachte
+
+lijke patrouilles van den vijand te waken,
+zagen van dezen en van genen kant gedaanten
+van fantazie aansluipen en verspilden dik
+
+wijls hun ammunitie op een grüligen boom
+
+stronk. In de rapporten werden eze ver
+
+beeldingen als heusche aanvallen gememo
+
+reerd niet altijd.
+Eerbied voor het hooger gezag was er niet
+veel.
+Het bataillon hield zich bij elkander en
+was gehecht aan zijn commandant, wanneer
+hij wist te leiden ; maar de inmenging van
+de hooger officieren zag men niet graag.
+Manoeuvres werden dikwijls gehouden, waar
+
+bij verwarring heerschte en miserie werd
+geleden, zonder dat de bevelhebber er iets
+van bemerkte.
+Nu een onverwachte aanval op een vijan
+
+delijke loopgraaf!" commandeerde een hoo
+
+gere officier aan Roosevelt.
+Wanneer, mijnheer?"
+Onmiddellijk."
+Alsof iets wat overleg en berekening
+vereischte, zoo maar dadelijk kon worden ver
+
+toond. Roosevelt met hulp van een paar
+handige luitenants wist toch binnen vijf
+minuten iets te organiseeren waarbij de loop
+
+graven door lijnen werden voorgesteld. De
+commandeerende kritiseerde de exercitie ten
+aanhoore van zijn begeleidend officieren in
+deze termen : Ik ben eigenlijk niet op de
+hoogte van zulke r a i d s, maar dit lijkt mij
+niet veel."
+Een ander had voorliefde voor spitslijnen
+(perpendiculair op de vijandelijke stelling)
+zonder zich ooit te herinneren wat zij waren
+en waarvoor zij dienden.
+Maar de soldaten waren flinke kerels. O
+die nacht toen zij waren uitgegaan om een
+gevangene te maken, want zoo lang zij reeds
+onder.de wapens waren, zij hadden nog geen
+gevangene! Hoe trotsch waren zij op hun
+buit, den man! Zij wilden hem nauwelijks
+afstaan.
+
+Maar thans brak de tijd aan, dat het ernst
+werd voor de Amerikanen. In Maart 1918
+moest het Engelsche leger in der haast terug
+
+trekken. Een leemte ontstond, de Fransche
+troepen sloten niet meer aan. Dadelijk werden
+Amerikaansche troepen naar Montdidier gedi
+
+rigeerd om het gat te stoppen. Zij voelden
+zich, na hun ervaring van meer dan een
+half jaar, oudgedienden, en zij waren erg
+jong gebleven.
+Bij den eersten aanval van eenig belang op
+de Duitsnhe loopgraven maakte een sectie
+van het bataillon 33 gevangenen. Roosevelt
+was bij dat gedeelte ; aan zijn hoofd had hij
+den raid meegemaakt. Na den terugkeer en
+het tellen der buitgemaakte manschappen,
+hoorde hij den sergeant of luitenant vragen :
+Hebben de anderen meer gevangenen? Hij
+moest erkennen van ja, een van de secties
+had twee meer. En dadelijk wilde de sergeant
+rechtsomkeert maken en op den vijand af
+
+gaan, om het onvoldoende getal compleet
+en overcompleet te maken.
+Ja, daar werd gevochten en scherp, en
+tragisch, door den dood der beste kameraden,
+die reeds van de voorspiegelingen hadden
+genoten der dingen die zij zouden ondernemn
+bij de terugkomst in het burgerlijk leven, maar
+er werd toch ook gelachen en er werden
+ondeugendheden uitgehaald.
+Hoe ijverig werden positiekaarten gemaakt
+voor hef oppercommando met blauwe
+potloodteekens op de plaatsen waar gasaanvallen
+werden afgestuurd! en met hoeveel pleizier
+ontving men terug van het hoofdkwartier
+de defensiekaarten waarop het terrein was
+afgeteekend. Men wist dat de eenen en de
+anderen met al hun veelkleurige strepen
+absoluut geen beteekenis hadden . . .
+
+Zoo gaat het voort, van Montdidier naar
+Soissons, van Soissons naar de Argonne, en
+van Argonne in de richting van Metz. Het
+scheen werkelijk alsof het nog een heele poos
+zou voortduren. De troepen werden zwaar
+geteisterd, zij hielden er toch den gang in.
+Er zal niet veel van de divisie overblijven,
+was de opmerking die werd gemaakt. AI
+waren het er slechts twee, was het antwoord,
+zoo kregen zij als marschroute : e n c h e
+I o n naar Berlijn!
+Men verwachtte een slag, die voor den vijand
+de genadeslag zou zijn.
+Eensklaps verspreidde zich het bericht
+van den wapenstilstand. Het wou nog niet
+doordringen in Roosevelt's brein. Daar
+naderde, toen men in de buurt was van
+Verdun, hem een chauffeur met de bood
+
+schap : Kolonel, Mrs Roosevelt wacht u om
+den hoek in de auto".
+|a, de oorlog was gedaan.
+W. G. C. B Y v A N c K
+
+</text>
+<image timestamp="2002:08:16:20:50:24.00" size="467286">D10000U5.TIF</image>
+</page>
+</document>

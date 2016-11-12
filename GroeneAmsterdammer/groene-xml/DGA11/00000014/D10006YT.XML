@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271029</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+RÖ^E AMSTERDAMMER
+29 OCTOBER 1927
+No,
+HÖtLAND-INDI
+De heer G. J.
+GEYSENDORFFER, n der beste
+Nederlandsche vliegeniers
+en zeer zeker de beste mo
+
+torkenner, is sedert 5 jaar
+Chandler-berijder en
+schrijft ons o.m.
+CHANDLER-SIX
+,„voov
+HO
+3.
+COMMENTAAR
+OVERBODIG
+Imp. voor Noord-Holland:
+GARAGE-ANCHELON''
+Weteringschans 103
+AMSTERDAM
+Vert. voor Hilversum :
+..GARAGE ALBERTS"
+Emm astraat h. Achterom 187
+Vert. voor Haarlem:
+GARAGE L O B A"
+L. Heerenvest 116-122
+DROSTE 's
+CACAO
+Rondom de
+Familietafel
+Op welk uur van den dag Ge Uw
+huisgenooten, jong of oud, ook Droste's
+schenkt, ze is altijd welkom"; smaak
+en aroma zijn voortreffelijk.
+
+Droste's Cacao, nimmer afwijkend in
+kwaliteit, is gezond, ver
+
+sterkend en voedzaam.
+Bestel nogheden een bus.
+DROSTE'S
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+MENDELS
+Kalverstr. 109/111
+AMSTERDAM
+Het eenigst speciaal-huis.
+Het beste adres in Ne
+
+derland voor Béb
+-jongens- en Meisjes-onder
+
+en bovenkleeding.
+Veilige, Zuinige
+Petroleum Kachels
+Grootste
+Sorteering
+
+Electrische
+en
+Gas-kachels.
+EENIQ ADRES;
+
+N L KOLK17
+AMSTERDAM.
+
+Reparatie-inrichting.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/k Gebr, BREEN
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+AMSTERDAM
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+JL f*f\O\lCV A IÜIOTCDff\ A HJi
+A. IA/KVEY, A IYI 91 Elf DAM
+ROTTERDAM—GRONINGEN
+UTRECHT A L M B L Q,
+
+</text>
+<image timestamp="2002:09:22:00:23:21.00" size="197537">D10006YT.TIF</image>
+</page>
+</document>

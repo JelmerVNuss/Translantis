@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001028</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De feestelijke ontvangst van Generaal Roberts.
+BIJVOEGSEL van de Amsterdammer, \Yeekblad voor Nederland, van 28 October 1900.
+i' \ v *3^?&gt;^ s^^^l• , IV . &gt;
+*L- t^7S"^^^^%5*T. :-/ W '
+Asiist. Hoek- en Steendrukkcrij. v,h. Ellcrman Harms &amp; Co.
+K&lt;H!ER'i'S: Ik kan niet, De Wet houdt mij vast.
+
+</text>
+<image timestamp="2002:08:15:04:48:12.00" size="351287">D2000O0.TIF</image>
+</page>
+</document>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280512</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 12 MEI 1928
+No. 2658
+J. D. STRUIJS &amp; Zn,
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+FUnHOUThAhDEL HAARLEM
+BURGWAL 76-00
+TEL. M2 13769
+TRIPLEX EN MULTIPLEX
+EIKEN - MAMONIE -
+NOTENBEUKEN - IEPEN - ESSCHEN
+TEAKHOUT « FINEEREN
+W. R POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+«uumii
+iiudiiiiuuiiiiuiiiiiiDniiiiiiaininiimiiiiHiiiiiuiiiiiiiiiiiiiiiiiiiiiiuiiinimiiuiiiiiiiiiH
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+N, R. V. MONTA SCHOENEN
+TirnnninniiiiiiiiinmiiiiniiiMiiinrammmiiiinimniiiiiimiiiiiiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiii
+maakt de jeugd
+zich zwart als roer,
+/DAALMANS;
+wascht het gcxzd!
+KDNINKL.VTOOr1-WAMCrIEAII
+GOUDA TELEF. 95
+AMSTERDöM TEL 3334Q
+s CRAVËNH^GE TEL. 72L53O
+PROF.
+
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOU.H.v.D.MElDEN -Amersfoort
+re vrouw van....
+Lodewijk XIV, Maria Theresia,
+hield zooveel van chocolade, dat
+tijdgenoóten van haar zeiden:
+De koning en chocolade zijn haar
+eenigste passies."
+
+De verslaafdheid aan welk genot
+
+middel ook, is natuurlijk nooit goed
+te keuren, al is chocolade in het al
+
+gemeen en een DROSTE product in
+het bijzonder nog zoo verleidelijk.
+
+En toch raden wij U met volle vrij
+
+moedigheid aan hetzij bij de thee,
+hetzij bij feestjes, hetzij als ge
+
+schenk bij bijzondere gelegen
+
+heden, een geregeld verbruiker te
+worden van DROSTE'S bonbons.
+Het zal U oogenblikken van vol
+
+doening geven.
+"Droste QttydweKom"
+Het papier ten behoeve vmn dit blad
+wordt geleverd door de firma
+G. A. CORVEY, AMSTERDAM *OTTERDAM-GRONINGEN
+UTRECHT ALMEL
+
+</text>
+<image timestamp="2002:09:04:15:04:27.00" size="123265">000006K9.TIF</image>
+</page>
+</document>

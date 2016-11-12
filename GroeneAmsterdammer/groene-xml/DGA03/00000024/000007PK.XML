@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400914</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE
+OENE AMSTERDAMMER
+OPGERICHT
+1877
+Redactie fenlAdministratie: Keizersgracht 355, Amsterdam-C. Tel. 37964. Abonnement f. 10.—per jaar. Postrekening: 72880. Gem. Giro G 1000.
+Abonnementen kunnen met elk nummer ingaan, doch alleen tegen het einde van een jaargang, na opzegging vóór 1 December, worden beëindigd.
+14 SEPT.
+1940
+FRÖBEL - HERDENKING
+DIT jaar heeft 'n Fröbel-herdenking plaats,
+omdat 't 100 jaar geleden is dat Fröbel
+de eerste Kindertuin in Duitsland stichtte.
+In Amsterdam geschiedt deze juist vandaag: de
+eerst in Mei vastgestelde datum moest door de
+omstandigheden tot nu worden verschoven, 'n
+Kongres, met daaraan verbonden tentoonstelling en
+demonstraties zullen de belangstelling van Neder
+
+land in deze duitse pedagoog bewijzen.
+Hier zal ik in 't kort z'n levensloop schetsen,
+en iets meedelen aangaande z'n denkbeelden -en
+opvoedkundig werk. Meer dan 'n vluchtig overzicht
+kan een-en-ander, in verband met de tijd en de
+plaatsruimte waarover ik kon beschikken, niet zijn.
+Friedrich Fröbel werd 21 April 1782 te
+Oberweissbach in Thüringen geboren, waar z'n vader
+predikant was. Al vroeg verloor hij z'n moeder,
+en de tweede vrouw van z'n vader was voor hem
+geen moeder, waardoor hij zich al jong in zich
+zelf terugtrok. Met z'n loe jaar werd hij opgeno
+
+men in 't gezin van z'n oom van moeders zijde,
+die ook predikant was, tw. in Stadt-Ilm. Hier
+was hij zo gelukkig aan 't gezinsleven te kunnen
+deelnemen. Op 15-jarige leeftijd ging hij bij 'n
+houtvester in de leer, werd echter enige tijd
+student te Jena, waar hij na i1/2 jaar de universi
+
+teit wegens geldgebrek moest verlaten. Daar z'n
+lievelingsvak wis- en natuurkunde was, wilde hij
+zich nu als landhuishoudkundige gaan bekwamen.
+Maar ook dit plan ging niet door. Hij ging toen naar
+Frankfort voor de studie in de bouwkunde. Hier
+kwam hij in -aanraking met Gruner, een van de
+eerste volgelingen van Pestalozzi, die daar 'n
+model-school had. Deze raadde hem aan opvoeder
+te worden, en bood hem 'n plaats op z'n school aan.
+Dit gebeurde in 1805. 't Aanbod werd aanvaard;
+en kort daarop vertrok Fröbel naar Pestalozzi te
+Yverdon, om daar met diens denkbeelden en in
+
+richting kennis te maken; waarna hij naar Gruner
+terugkeerde, 't School-systeem beviel hem echter
+niet, en zó nam hij in 1806 de opvoeding op zich
+van de twee jongens van de familie Holzhausen
+in Frankfort. In 1808 ging hij met deze leerlingen
+voor de tweede maal naar Pestalozzi. Niet geheel
+bevredigd, keerde hij in 1810 naar Frankfort terug.
+Tengevolge van 'n kleine erfenis kon hij 't volgend
+jaar weer gaan studeren; en hij volgde toen in
+Göttingen kolleges in natuur- en scheikunde,
+mineralogie, en natuurlijke historie. Vervolgens
+bezocht hij in 1812 te Berlijn nog kolleges in mine
+
+ralogie. 't Volgende jaar meldde hij zich, als veel
+andere studenten, als vrijwilliger in 't leger tegen
+Napoleon aan, en ging als'zodanig naar Dresden.
+Hier maakte hij kennis met twee theologen,
+Heinrich Langethal (1792-^-1879) en Wilhelm
+Middendorff (1793—1853)," die later z'n eerste
+medewerkers zouden worden. Toen hij in 1814
+de militaire dienst verliet,' werd hij assistent aan
+'t mineralogisch museum te Berlijn.
+Maar in 1816 keerde hij, en nu voorgoed, weer
+tot de pedagogie terug. In-dat jaar nam hij de,'op
+
+voeding op zich van de drie vaderloze zoontjes van
+z'n broer Christoph, en van 'n paar kinderen van
+z'n broer Christian. 't Jaar daarop verplaatste
+hij z'n inrichting naar Keilhau bij Blankenburg;
+de reeds genoemde Middendorff en Langethal
+werden z'n medewerkers, In_i8i8 trad hij in 't
+huwelijk met Wilhelmine Hoffmeister, die hij in
+'t mineralogisch museum had leren kennen, en
+die zich voortaan geheel aan 't keilhauer instituut
+wijdde.
+Langzamerhand was Fröbel, ook door wat hij
+publiceerde, 'n bekende persoonlijkheid geworden,
+zodat z'n opvoedingsinrichting steeds meer trok,
+en deze in 1825 56 leerlingen telde. Daarna ging
+deze achteruit, ten gevolge van verdenking van
+demagogie, die er bedreven zou worden. Tussen
+1826 en 1831 maakte Fröbel plannen voor 'n
+volksopvoedingsinrichting; die echter plannen bleven.
+In 't laatst genoemde jaar opende hij in 't kasteel
+Wartensee in Luzern ook 'n opvoedingsinstituut.
+Van de regering te Bern kreeg hij in 1835, opdracht
+om de leiding van 't weeshuis te Burgdorf, waar
+ook Pestalozzi gewerkt had, op zich te nemen.
+Hier nu nam hij ook 3- tot 6-jarige kinderen pp,
+en ontdekte toen dat eerst de huiselijke opvoeding
+verbetering eiste; dat dus bekwame moeders ge
+
+vormd dienden te worden. Dit werd z'n nieuwe
+levensroeping. "Daarvoor ging hij weer naar Blan
+
+kenburg terug, waar hij in 1837 't Fr
+bel-Geschaftshaus" voor de vervaardiging en verkoop
+van z'n gaven" oprichtte. In 1839 kreeg hij van
+de gemeenteraad van Blankenburg 'n huis met
+tuin en speelplaats, waar hij z'n Kindertuin"
+stichtte. In dat zelfde jaar stierf z'n vrouw, 't Vol
+
+gende jaar, de 28ste Juni, bij gelegenheid van
+'t Gutenbergfeest, vond de stichting plaats van 'n
+algemene opvoedkundige vereniging voor duitse
+vrouwen en meisjes.
+Van 1844—1846 maakte hij reizen door Duits
+
+land, om aan z'n opvoedkundige ideeën meer be
+
+kendheid te geven. In 1849 vestigde hij zich in
+Liebenstein (Meiningen) waar hij kursussen gaf
+voor Kindergartnerinnen. Twee jaar later huwde
+hij met Louise Levin, een van z'n medewerksters.
+In dat zelfde jaar werden door de regering van Prui
+
+sen de Kindertuinen verboden, wegens vermeende
+socialistische neigingen van 'n neef van Fröbel.
+De 2iste Juni 1852 is hij gestorven zacht, als
+'n bloesem neervalt, waarvan de vrucht zich gezet
+heeft" zoals z'n vriend Middendorff zeide.
+Op z'n graf op 't kerkhof te Schweina, is 'n eenvou
+
+dig gedenkteken geplaatst, gekroond door 'n kubus,
+'n kegel, en 'n bol.
+Kubus kegel bol; dat is meer dan 'n herin
+
+nering aan Fröbel's Gaben" 't is tevens 'n
+symbool van z'n levensbeschouwing. De bol, als
+teken van beweging, en de kubus, weergave van
+de rust, horen als tegenstellingen bij elkaar: ze
+vertonen bij grote overeenkomst toch groot ver
+
+schil. Ze staan tot elkaar als gemoed (eenheid in
+eenheid) tot geest (eenheid in verscheidenheid)
+(of als verscheidenheid in eenheid tot eenheid in
+verscheidenheid). Hij heeft daar later, volgens z'n
+Gesetz der Vermittlung der Gegensatze", als be
+
+middelend lid de kegel tussengevoegd. Dit alles,
+zoals ook z'n formule Einheit Einzelnheit
+Mannigfaltigkeit", kan hier niet verder worden
+uitgewerkt. Genoeg zij te vermelden dat dit in
+verband stond met 't feit, dat in z'n werken mystiek
+en symboliek 'n grote plaats innemen. De grond
+
+gedachte van z'n wereldbeschouwing was de innige
+samenwerking en eenheid van al 't bestaande.
+'t Was 'n monisme, waaruit echter bij hem allerlei
+tegenstellingen, en ook de allesbeheersende van
+Einheit und Mannigfaltigkeit" voortvloeien. Alleen
+wordt dit voor ons duister, als hij daar de bemid
+
+delende derde gaat tussenvoegen. Voorts was dit
+monisme bij hem geen toestand van rust, maar 't
+was 'n uitstraling, 'n openbaring. Hiermee hangt
+samen de grote waarde die hij hechtte aan bezig
+
+heid, arbeid, scheppen. Voor hem was 't 'n hoogst
+belangrijke, 'n eeuwige eis, dat de pasgeborene,
+dat de jonge, groeiende mens vroeg tot bezig-zijn
+met als doel 'n uiterlijk werk, 'n voortbrengsel
+zou worden ontwikkeld".
+De hier geciteerde uitspraak is ontleend aan z'n
+hoofdwerk Menschenerziehung van 1826. Na 'n
+uitvoerige inleiding, geeft hij daarin achtereen
+
+volgens beschouwingen over de zuigeling, 't kind,
+de jongen, jongensgebreken, de school, huisgezin
+en school. Hij handelt hier over ontwikkelende
+opvoeding, die ten slotte zal moeten voeren tot
+Lebenseinigung", dat is 't gevoel van een-zijn
+met God, natuur, mensheid.
+'n Ander werk is Die Padagogik des
+Kindergartens, dat o.a. de handleidingen voor de
+gaven" bevat, waarvan 'n enkele al gepubliceerd
+was in z'n Sonntagsblatt", dat in 1837 en'38
+verschenen, geen lang leven heeft gehad, 't Doel
+ervan, de gaven in ruime kring bekend te maken,
+kon hij er dus niet mee bereiken. Gaben"; zo
+noemde Fröbel de spelen die hij voor de ontwik
+
+keling van 't jonge kind, al van i tot 3 jaar, uit
+
+dacht. Al deze gaven zijn ook nu nog in gebruik
+op de kleuterscholen die naar zijn beginselen zijn
+ingericht. Daarom mogen ze hier even worden
+opgesomd: i. 6 gekleurde wollen ballen; 2. houten
+bal en kube, met later daartussen de cilinder;
+3. kube verdeeld in 8 kleine; 4. 8 bouwstenen"
+(van hout); 5. 27 kuben, waarvan 3 door een dia
+
+gonaal en 3 door twee diagonalen verdeeld zijn;
+6. 27 bouwstenen, waarvan 3 overlangs in 6 paal
+
+tjes" en 6 overdwars in 12 vloerstenen" verdeeld
+zijn; en verder nog mozaïek, legstokjes, stokjes
+voor erwtenwerk; matjes, vouwbladen, lange
+repen voor vormsels, 't Gaat niet aan te beschrij
+
+ven, op welke wijze de kinderen met die gaven
+worden bezig gehouden. Alleen wil ik even op
+
+merken, dat b.v. kube en bol, waarmee de kinderen
+tegelijk of afwisselend mogen spelen, ook nauw
+
+keurig worden waargenomen op hun overeenkom
+
+stige en tegengestelde eigenschappen (aanschou
+
+wingsoefeningen) .
+In 1844 verschenen Fröbel's Matter- und
+Koselieder. Hijzelf had de tekst geschreven: de versjes
+en de toelichtende verklaringen; Friedrich Unger
+had de illustraties ervoor getekend; terwijl Robert
+Kohl, in die tijd onderwijzer te Keilhau, de
+zangwijzen voor de liederen had gekomponeerd. 't
+Hoofdbestanddeel zijn de z.g. Spiellieder". Ze
+vormen als 't ware de begeleiding van 'n aantal
+gymnastische spelen, die de eerste ontwikkeling
+van handen en vingers, als de belangrijkste leden
+van 't menselijk lichaam, op 't oog hebben. De
+liedjes nu, die daarbij gezongen worden, duiden de
+zin, de betekenis van de verschillende spelletjes aan.
+Daarbij wordt tevens de eerste zielswerkzaamheid
+en 't gevoel voor tonen bij 't kind ontwikkeld, 't Is
+moeilijk door 'n beschrijving 'n idee te geven van
+dit boek; maar ik wil toch met 'n voorbeeld trachten
+de inrichting en bedoeling er van enigermate te
+doen gevoelen. Ik neem daarvoor 't versje H
+hnenwinken". De hoofdvoorstelling op de plaat is 'n
+moeder met 'n kindje op de arm; en ze wenkt de
+hoenders die er lopen met de hand. Die handbewe
+
+ging staat nog eens afzonderlijk afgebeeld, en 't is
+de bedoeling dat 't kind deze nadoet, 't Liedje luidt:
+Was kann lieblicher sein
+Als des Kindes kindliches Spiel,
+Zu winken mit dem Handchen klein?
+Es ist des Lebens lebend'ges Gefühl
+Nicht allein
+lm Leben zu sein."
+Dit is natuurlijk voor de moeder bestemd: En
+dan daaronder voor 't kindje:
+Wink'den Hühnchen, dass sie kommen,
+Sag'; Ihr seid mir schön wilkommen".
+Nu is 't echter niet de bedoeling van Fröbel, dat
+de moeders zo moeten handelen, als hij 't beschrijft:
+'t boek, de plaatjes, en de versjes willen alleen
+leidraad, aanleiding voor de moeder zijn, om in die
+geest haar kind optevoeden; niet om 't slaafs te
+volgen indien ze zelf 't zo niet voelt. Want ten
+slotte is zij zelf de opvoedster, en niet de de auteur
+van 't boek.
+En zo maakt 't kind, spelenderwijs en
+zingenderwijs, kennis met veel wat in z'n omgeving is waar
+te nemen: 't huis met wat erin en erom is; de
+natuur met bloemen en vogels en andere dieren;
+verschillende werkzaamheden en ambachten die
+voor z'n leventje van belang zijn. Fröbel zelf schreef
+van dit boek: Ich habe in diesem Buche das
+Wichtigste meiner Erziehungsweise niedergelegt;
+es ist der Ausgangspunkt für eine naturgemasse
+Erziehung, denn es zeigt den Weg, wie die
+Keimpunkte der menschligen Anlagen gepflegt und
+unterstützt werden mussen, wenn sie sich gesund
+und vollstandig entwickeln sollen".
+Ten slotte wijs ik nog even terloops op z'n be
+
+schrijving van 'n opvoedingsinrichting in Helba;
+hoe hij zich de bouw ervan en 't leerplan voorstelde
+wat ook nu nog belangwekkend is om te lezen;
+en op Friedrich Fröbel's Wochenschrift", dat in
+1850 slechts een jaargang beleefde, maar dat onder
+redaktie van Wichard Lange veel interessants van
+Fröbel bevatte; o.a. Wie Lina schreiben und lesen
+lernt", 'n artikelenreeks die 'n leesmethode geeft,
+en gevolgd wordt door 'n zelfde serie, die de theo
+
+retische grondslagen ervan uiteenzet.
+Ik moet 't hierbij laten. In ons land zijn 't vooral
+mevr. Elise van Calcar-Schiotling, W. Haanstra en
+mej. J. M. Telders, die veel voor de verbreiding van
+Fröbel's beginselen hebben gedaan; terwijl ook
+Dr. E. Bonebakker en Prof. Dr. J. H. Gunning Wzn.
+als Fröbelverkondigers mogen genoemd worden.
+Hier volgen de vier belangrijkste nederlandse
+boeken over Fröbel en z'n werken en denkbeelden,
+en die ook een-en-ander uit die werken bevatten.
+Ik heb er bij de samenstelling van dit korte
+overzicht 'n dankbaar gebruik van gemaakt.
+Mevrouw Elise van Calcar. Frederik Fröbel. Hoe
+hij opvoeder werd en wat de kinderwereld hem open
+
+baarde. 2e dr. Met een voorrede van Dr. J. H.
+Gunning Wzn. Amsterdam. 1910.
+J. M. Telders. Uit en over Fröbel. Met een woord
+vooraf door Dr. E. Bonebakker. Zeist. 1922.
+J. M. Telders. Fröbel's Opvoeding van den mensch.
+Met een levensschets van Fröbel door de vertaalster
+en Fröbel's grondgedachten als een inleiding tot
+de studie zijner werken door Prof. Dr. J. H. Gunning
+Wzn. Groningen, den Haag. 1928.
+J. M. Telders. Fröbel. Met eenige practische
+lessen van Kla. Smid. Groningen. 1931.
+P. L. VAN ECK JR.
+
+</text>
+<image timestamp="2002:09:13:09:25:46.00" size="254875">000007PK.TIF</image>
+</page>
+</document>

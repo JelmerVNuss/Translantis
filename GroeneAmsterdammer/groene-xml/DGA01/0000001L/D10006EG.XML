@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270423</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+roejie
+Lommer
+voor Nederland
+ƒ M.—,
+KEIZERSGRACHT
+
+AMS TERDAM
+333
+TELEFOON :
+Redactie . .
+Admi.ilitr.tl.
+V R A A '
+VAN.
+8IISTEIÏRDS
+ADVOCAAT
+A.VANBIJSTERVELD
+AMSTERDAM
+EX PO «T T
+1894-1927
+Voorheen oftbans
+POOL's ATOL
+A K ZURCHER
+CAKTONNAGEFABRIEKenDRUKKERIJ
+R
+E I S - =
+S I C O
+S ! I !
+BAGAGE-, RIJWIEL-,
+ONGELUKKEN-,
+AUTOE.A. VERZEKERINGEN
+Vraag onze concurreerende premiën
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN
+N. V. yyjMLeuDelmAgftzijn
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+Beban^er^ - • Ameublementen - Stoffeerder^
+Modone Landhtdsttoffen en
+Oad-Hollandsche Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+Begrafenis-Vereeniging
+HEERBNM^RKT 17 TEL. 42317
+Lijk*Auto disponibel
+Nieuw!
+
+Catalogus No. 41
+
+VAN • '
+CAMERA's, FOTO
+
+ARTIKELEN enz.
+Het is tie moeite waard
+dezen Catalogus aan te
+vragen.
+
+GAP I
+HS.JMverstr. A'dam
+MAAR
+KARELI
+NV
+HA.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DB EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DB PREMIE.
+SPANJAARD &amp; Co.
+FABRIEK ESPANA
+UTRECHT
+ITIMTURJ
+Meabelem MU» eigea •ntwerpcn «f MAT »«d«
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amatcrdaai
+WeiERAHDERöZo,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+""^ S-GtaVCIll^C »«*
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC. TELEFOON 40389
+Pri)*couranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIÊN
+ZEI LI NG A
+Kantoor:
+Binnenkant 38
+Magazijn:
+Pr. Hendrikkade 120
+Tel. 41709—40717 AMSTERDAM.
+JACHT ZE l L E N
+CANO'S - KAMPEERTENTEN
+Strandtenten
+Kampeer-uitrustingen.
+Op aanvraag^franco toezending prijscourant.
+
+</text>
+<image timestamp="2002:09:21:04:58:10.00" size="162776">D10006EG.TIF</image>
+</page>
+</document>

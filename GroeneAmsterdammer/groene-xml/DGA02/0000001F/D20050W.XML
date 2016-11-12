@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320604</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2870 van 4 Juni 1932 prijs 20 cent
+DE GROENE AMSTERDAMMER
+'Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C • telefoon 37964 - postglro 72880 • gem. giro G. 1000
+Keizersgracht 525 Amsterdam
+
+POLISSEN
+a»n STATIONS en K E I 8 B U R E A r X direct verkrijgbaar.
+* * """"""""
+*
+In geval van schade kan men zich wenden tot de
+EUROPEESCHE"
+te Amsterdam, Athene, Bareelona, Belgrado, Berlijn, Bern, Boedapest, Boekarest, Brussel,
+Conitantlnopel, Helslngfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg, Madrid,
+Müncnen, Oslo, Parijs, Praag, Riga, Rome, Stockholm, Warschau en Weenen.
+N.V.V/H
+HA.KLOOSTERHUIS
+KALVER5TR.I78 AMSTERDAM
+Verlichtingsornamenten, Bronzen,
+Pendules, Boek-steuners,
+Inktkokers, enz.
+Onze Seizoens-Opruiming
+is begonnen
+
+STERK verminderde prijzen
+LITTHAUER
+Magenbitter
+BURNETT's
+DRY GIN
+Agenten
+TISSOT &amp; Co.
+Rotterdam
+ONDERLINGE =
+LEVENSVERZEKERING
+VAN EIGEN HULP ~
+VAN 1879 =
+
+DEM HAAG ~
+KORTENAERKADE =
+BATAVIA =
+VOORR1J ZUID
+DE TIJD VLIEDT !
+LAAT L DAT N l ET
+SOLIDE
+VOORDEELIG
+COULANT
+
+</text>
+<image timestamp="2002:09:21:08:04:07.00" size="78993">D20050W.TIF</image>
+</page>
+</document>

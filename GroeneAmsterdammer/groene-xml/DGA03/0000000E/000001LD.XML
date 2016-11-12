@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081011</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De halve maan."
+UIIVOEGSKL van Ue Amsterdammer, Weekblad voor Nederland van u October
+
+
+
+fj
+S^llfyS ^'%&lt;M^^«^ ' ^':- -* * ' /ï''^^S?
+
+v^Sss^^^SLïhtóK^ -ï^ï.v^- *i rco^tlL;^
+USsw^-Sr-»^- ^.*v^4?4&lt;£
+~x;&gt; ^Ö5i
+**' jpSpfcfev-^.'i.*'
+P- **-s £_J*v*"^ "*«** -."^&amp;ö,j. ^^ 'JjÖs'w* ^ï•* i^'~ï»_&lt;s3-BiA
+
+^^t.
+i*-- . v—WSSS^\ »+**&lt;*&amp;KSL%*&lt;t A-EBE^^^^ ^««K3
+
+
+^:;ï^i
+^^%ii, - ' v~*^*wfei.J; - *-»** ". *"£.&gt;« we** * -, * ./.^««s^»^*' ^
+KtaHT?*1»- . -'-»»»«_»_::T~i'^'! .i.."*.!.. » *iK»«,,'? ' ^ •" « T«.V^ *^s«, \
+^V^%^.vSf
+/"^V-r^: :
+
+- ;;t&gt;^ .-
+':*^&gt;-r,.aaaa^L- --—w
+7-c^^fi^r- - . -vj - vv.^
+Amst. Koek- en Steendrukkenj, v'h. Ellermaii, Harms &amp; Co.
+D K VKKÜK: Hé, Hein! Jij hier! Wat is er van den nacht?
+
+
+MAOKKE HEIN: IK ben er van den nacht en ga niet slapen! Ik bestudeer de maan-effecten !
+
+</text>
+<image timestamp="2002:08:15:02:42:43.00" size="936773">000001LD.TIF</image>
+</page>
+</document>

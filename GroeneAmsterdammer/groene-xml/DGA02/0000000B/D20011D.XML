@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010901</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1262
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Worstelaars, die zich voorbereidden tot den wedstrijd met Kuyper.
+BORGESIUS ("tot Lelij en Cremer): »A)s v,'\j ham met ons drieën r.og maar aan kunnen, nu hij zich heeft ingewreven met dU kostelijke olie... gelijk daar droop van dea baard Aii-sus..."
+De openbaarheid der Militaire Rechtspleging.
+
+(U/J;).
+j? X
+DJ VOOÏBITTER: »De zilting is getloten, laat het publiek binnenkomen!''
+Hoe Kitchener da Boeren overwint.
+Ook zyn toekomst li^t op het water.
+DK Ku.MKNi'K MAN: .Z?g. ii hut koetsje fcposilig vrij?''
+
+vs,"j3« .0^&amp;m&amp;/™
+&gt;-&gt;«« 6? &lt;-^ ;fiiw^
+Gor.evaal Kit.:''\on?r 71.!, rw tnjn z^.it, v.aar I.ir.Jsn. tsruggiian o-c can weinig uit
+te rusten vaa zijn rüiuc.'isti'ij i ;eg"n de ISjoren ; i-ij moet er slecht uitzien."
+(Stlliunctte).
+,,S;heiden doet pijn."
+
+(l'tinch).
+-,v-% ....s^^y^'
+"^-"•A A .::'i.?' :;;c,K;^
+' " r..^.W^^3f ^'^^^fS^^xk..:;/ l; 7-*-^,^
+^l'fe*f.:i^'M:. ^;^ï|^-ï-^u^%^ ^&lt;5vrx
+v??'T 0r1^€5^^C' ^S%É''S"éS% -^~ ^ 'i n -&gt;'V
+/"•-.'lïi,-^ .'"•'.•-_:•!:!-.: x^^-'j^f^!,' ':.''': /.
+Li Ihx!, CIIA:;&lt;; : (m Je ti/i n tl^ur): »^\n lie&amp;ren, als u dan U,ch vertrekken
+3ic::r, zai n;ij -i meester ontroostbaar zijn, dat hij u missen moet, ik hoop dat u
+alles heeit wat u noodig hebt."
+
+
+</text>
+<image timestamp="2002:08:16:12:55:52.00" size="407819">D20011D.TIF</image>
+</page>
+</document>

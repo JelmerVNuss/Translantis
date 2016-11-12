@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>40</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+40
+Kerstnummer
+t
+^^y^^v^^^^^
+\
+Kent U hetecomf ort en de vele voordeelen
+van een
+
+
+IDEAL-CLASSIC"
+CENTRALE WARMWATER-VERWARMING?
+
+Door een "ld c al-C l a s s i c" Verwarming
+wordt het in elk vertrek Uwer woning, ook
+(ijdens de strengste koude, een «-aar ge
+
+noegen om te vertoeven.
+
+WENDT L' VOOR VOLLEDIGE GE
+
+GEVENS EN VOOR
+KOSTEN-BEGROOT1NG TOT EEN BEVOEGD
+VERWARMINGS - INSTALLATEUR.
+
+Geen stookkelder noodig, sierlijke
+klein model ,Class i c Radiatoren.
+
+"IDEAL-CLASSIC" CENTRALE
+
+VERWARMING IS OVERAL TOE TE
+PASSEN EN BRENGT IN DEN WIN
+
+TER DEN ZOMER IN UW MUIS.
+
+
+NATIONAL RADIATOR COMP.
+FABRIF.KEN IN:
+FRANKRIJK, DUITSCHLAjVD, ENGELAND.
+BELGIË. OOSTENRIJK, ITALIË.
+
+VERTEGENWOORDIGERS VOOR NEDERLAND
+
+PECK &amp; Co., AMSTERDAM
+PROSPECTI OP AANDRAAG GRATIS
+f
+\
+1.1 Civiele en Militaire Kleermakerij
+DEKKER &amp; DIJKSTRA
+VOOR HEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6
+TELEFOON 13416 =
+Door het GEHEELE LAND te ontbieden
+Wed.H.RAHDER&amp;Zn.
+WIJNHANDELAREN
+AMSTERDAM, ARNHEM, VGRAVENHAGE
+Hoofdkantoor: Binnenkant 25, Amsterdam
+Hofleveranciers
+IXTERC. TELEKOOX UC5SO
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPOHT SPKC1ALIO COXIHTIËX
+MEUBELEN
+TUIN BANKEN
+'LINNEN-BROOD^
+MflNDEN
+MESSEN
+KON.NED
+/ MANDEN \
+, FABRIEK
+FERD.V4N VLIET
+HOFLEVERANCIER VflN Z.K.H. PRINS HENDRIK
+HOOFDMflGflZUN
+NOORD EINDE 158
+DEN
+FABRIEK
+M4ZENSTR.5 DEN HAAG
+MAGAZIJN
+, STEENSTR.11 x
+flRNMEM
+DIENTflFELS
+THEETflFELS
+VRflflGT PRIJS
+' OPGAAF
+ux
+?
+TflFELSSLEUTELMflNDEN
+PflPIERMflNDEN;
+flLLE SOORTEN HONDEN EN KflTTEN MflNDEN
+REIS MflNDEN
+
+</text>
+<image timestamp="2002:09:05:22:02:31.00" size="144599">0000077K.TIF</image>
+</page>
+</document>

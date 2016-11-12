@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010825</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•No. 1261
+D E A ),I S T E R D A M M E R \Ar E E K 13 L A D V OOR N E D E R L A N D.
+Engeland niet vertegenwoordigd bij het Russische huwelijksfeest, om de aanwezigheid vsn een Boeren-afgevaardigde.
+JOHN BCLL (tot DE BB VCI-ORT) : »Ik kan niet meedoen, want ik hali eaa starfg-s'/al i:i de familie... m'iw al kon ik...! Dia wis wis jij toi'i esn a'iilera vont... j j' Het de Boeren thuis!"
+
+_. , . r m ji i ». • j 7-- s ''" In de moordenaarsclub. (Xehel-p'iHcr
+De tncmf. (G*ran dAcbe m den l-igaro). ««=,-.- - - • "	-	.—--. «^
+Bij dj Dette piöliqua in Con jtantnopel. f D.f FIM.
+Zuricb).
+•~ - - \ v : - -,: .,--#,-
+^-.-':---XV -X: \ Kv - ,-- -v "^'- -r,^
+-; ,' - \ •'•v --j --* '/ . -v' / v
+' &gt;' V ,&gt;::, \ ^J 'W- \-:;-;4
+De onverschrokken Maarschalk von Waldersep, het vuur der welsprekendheid trotseerend.
+
+Lord Rosebery en de liberale partij ia Engeland. (Pandt).
+•• . S;^*^'.'.--..^^1—r^
+DI-: '!'i'i!\ : ',[jis'i:i!!ii ! a's ik niets k rij T, zu'len do adjeven ook
+Tiiet^ hebben.''
+De ongelukjes b'j de Engelsche marine.
+^*;
+i&gt;;M:Nr HATAN i iMi^nfcletnn! ik Ltb de eer u onze nieuwe
+oi.ortiirüicdtr, Ce ^hceren lïobfr.g :n KitcLer.er \cor ie tteücn."
+
+De l etrzfde der roedt ille. /L&gt;-s!ije Hl lier).
+•M ; '-;' ': 'r\
+,;t^..\ ?&gt;..-*••/-• ;\
+\ •'-' ,,:,:- &gt;' .-'- .=-^N
+.,-. '"'.*- - ",,.-;•-""" ~MÜ\
+•^v'- 'V'-'f-ff/i--^ ''^
+'-., i-.;t*^v,.--'-.-,/ i
+^ëiï^'ïri .1
+f'*S&amp;yj'j / ~„r*,.,'/'•:&gt;. .&lt;
+^i i;^m:^;:,^vf
+^kW/^^/^P1^^ ^^ ^'^tyS-üSf'
+jSjj^T^^
+•?,
+" %
+«v&gt;
+7, J 'ifüPg-y"'j \ '^ vYy
+'/ &amp;fas.::i\ - •""-•-." N'
+f\^f'~f
+
+LORD ROSEBEKY : »Ik zie wel, mevrouw, dat u in gevaar :'s, maar uit
+eigen beweging ga ik niet te water. Intusschen zal ik u eetige nuttige
+wenker, het zwemmen betreffende, geven!"
+FHANSCIIK MATIUHIS: -&gt;Tiens mon ami, nu heb jfilui ook een zce-ooilog.'
+liuiTSCHE MATROOS: »Ja, maar alleen met ons zelf.''
+FRANSOIJF. MATUOOS: »0, dat's gelukkig"
+iE MATKOOS : »IIam ! zou ie iets weteu van onze slechte stoomketels V'
+(KoH.int/ I'Ihc&lt;i.r,l V l L heef t aan de strijders in Tramvaal .'JOOO liet
+inncrings•medailles uittjireikt.).
+Aan de voarzijle pronken zij er mee, maar aan de achterzy'Je . . . 'i
+
+</text>
+<image timestamp="2002:08:16:11:56:01.00" size="477538">D200110.TIF</image>
+</page>
+</document>

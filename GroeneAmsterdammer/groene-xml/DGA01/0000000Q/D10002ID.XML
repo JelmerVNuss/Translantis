@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18931217</Datum>
+<Pagina>8B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amlterdamroer, Weekbbd voor Nederbod, na 17 December 1893.
+De Vrijheid bedreigd.
+• L£?&lt;*. ^.t; r«
+Amsi. Uoek- eu .Mecuarukkerij, &gt;/ii. «.nerinan, Harma &amp; Ce.
+DE REACTIE: Zal ik ook haar ketenen ':
+DE GERECHTIGHEID: Ga heen, Uw hulp heb ik niet noodig, Ik zal deze dooden, opdat de Vrijheid leve!
+
+</text>
+<image timestamp="2002:08:22:06:54:51.00" size="419773">D10002ID.TIF</image>
+</page>
+</document>

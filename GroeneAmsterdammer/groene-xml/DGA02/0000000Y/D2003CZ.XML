@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240301</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Y
+RUUD-GASAPPARAAT
+voor Warmwatervoorzieningen
+Zeer gemakkelijk in iedere ruimte aan te brengen. Levert op
+iedere tapplaats zelfstandig heet water. Geen onnoodig
+gasverbruik. Geen buitengewone bediening. l-—:
+100.000 Apparaten in Binnen- en Buitenland
+ALLEEN-VERTEGENWOORDIGING:
+J. G. KORSTEN
+SANITAIR, TECHNISCH BUREAU AMSTERDAM
+AUTOMOBIELEN IMPORTEURS:
+Acht cyllnder In n IQn
+N.V. Autohandel
+GRUND &amp; C°.
+UTRECHT
+BJASPIBOMMB:
+BOEKBINDER
+KERKSTRAAT 55
+AMSTO^DAM
+I B V
+DEVEft
+VOOR
+T¥K KOEK
+V ZELF EN UW KIND
+i
+Laat uw wasch behandelen
+door de wasscherij
+JmbH,WmÉ,ZMl Til. 23125
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEIDIG &amp; Co.
+Blauw Keper Pakken
+en Magazijn j assen
+Het Vakkleedlng Magazijn
+G. B. A. HENSEN
+Paarlaarsteeg l, Haarlem
+voor alle doeleinden
+N.V
+Qiem Kunstinrichting
+DirkSchndbei
+Amsterdam.
+HET LEVEN BEGINT.,.
+DOOR
+GUIDO DA VERONA
+Uit het Ualiaansch vertaald door
+CHR. MORESCO-BRANTS
+Geïllustreerd omslag van
+Is. VAN MENS
+De H en W-Serie Deel VI.
+Derde druk
+Ingen. f2.90 Geb. f3.75
+Uitgave van
+VAN HOLKEMA &amp; WARENDORF
+Amsterdam
+B. I. DE KONING S h; Keizersplrt Wl
+(vooriiMlt LEID8CHE8TRAAT 69)
+• SANITAIRE IHRICHTIHOEH
+ooa
+TKR
+RAADPLEEG VOOR UWE
+MEUBILEERING EN
+STOFFEERING DE
+MEUBELFABRIEK
+L. O. V." TE OOSTER
+
+BEEK. DEZE VENNOOT
+
+SCHAP GEEFT U DES
+
+KUNDIGE ADVIEZEN EN
+LEVERT U EEN VERZORGD INTÉRIEUR.
+LEVERINGEN FRANCO. TEL. ARNHEM 1831.
+MET N UITRUSTING
+UIT DE BIJENKORF*
+DE NIEUWE CATALOGUS
+± 200 BLADZ., MET 2OOO
+ILLUSTRATIES, FRANCO
+KLEIN KOPER WERK gedraaid of gestamt, blank
+of vernikkeld levert tegen zeer lage prijzen
+INGENIEUESBÜEËAÜVIN N1SPEM, ZWOLLE.
+••••••••••••••••••••••••t••••••••••••••••!
+F1SK Autobanden
+voor Toer- en Vrachtauto's de goedkoopsten per KJ.
+ALOM VERKRIJGBAAR
+IMPORTEUR:
+w u P A M l '* Rflwiel-, Automobiel-,
+N.V. l\. A. m. 1. Motorrgwiel-Industrie
+v/h Fa. NAUTA
+LEEUWARDEN AMSTERDAM UTRECHT
+laitirikwirlier 37-45. I.Z. Voorburgwal 15a en 77. Catharijgokade 7. Til. 1797.
+*•••••••••••••••••••••••••••••••••••••••••
+LIKWIDATIE
+
+NOG MAAR 2 WEKEN
+zijn wij in onze perceelen KALVERSTRAAT
+128-130, Amsterdam. Wij moeten vóór dien tijd
+alle onze resteerende
+Goederen verkoopen.
+Onze prijzen zijn daarop gebaseerd en dus
+BESPOTTELIJK LAAG. Koopt NU
+vóórdat het courantste weg is. Alleen onze
+bekende prima kwaliteiten in Lingeries,
+Kindergoed, Babygoed, Luiermandartikelen,
+Kleedjes, Tafel- en Bedlinnen, Kousen enz.
+
+JACOBSON &amp; M ANUS
+(HA1SOM DE BLANC)
+Kalversiraat 125-130 Amsterdam
+
+</text>
+<image timestamp="2002:09:03:02:26:55.00" size="134316">D2003CZ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330204</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 4 Februari 1933
+N o. 2905
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+AMSTERDAM-DEN HAAG
+Kalverstr. 86—90 Noordeinde 64e
+Plaids
+Voefzakken
+Auto - Overschoenen
+Slippers
+behoort thuis op de toilet-tafel van iedere
+vrouw die weet hoe zij haar teint moet
+verzorgen.
+
+Naast de drie Standaard-producten:
+de Cleansing Cream (nieuwe prijs
+ƒ2.50), die de poriën grondig reinigt,
+
+de Orange Flotoer Skin "Uonic (nieuwe
+prijs ƒ 2.50),die de poriën weder sluit
+en de huid verfnscht, en
+
+de Special Mixture (nieuwe prijs ƒ5.-),
+een nacht-cream die de huid oliet en
+verzacht,
+
+dient steeds een pakje Dorothy Gray
+Cleansing tissue bij de hand te zijn.
+Dit frêle papier van zeer bizondere
+samenstelling is hygiënisch in het ge
+
+bruik; het is aangenamer en beter voor
+de reiniging der huid dan eenig
+waschbaar materiaal.
+
+Cleansing 'üissue is verkrijgbaar in ver
+
+pakkingen van ƒ l. , ƒ 3.50 en ƒ6. .
+Algem vertegenwoordigers: Hirsch &amp; Cie, Arrstcrdam
+BEGRAFENISVEREENIGING
+N. SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2426O
+BUS8UM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N.V. Meubelmagazijn Eden
+Molsteeg ^- Amsterdam
+B U R E A U X
+j—W. H. POLMAN TUIN
+l OVERTOOM S26 • Telefoon 82660
+l Begrafenissen - Transporten • Crematies
+AUG. KAUPMAN
+Telefoon 23308 - P. C. Hooftstraat 113 - Amsterdam Z.
+SPECIALE AANBIEDING
+Bed-, Tafel- en Huishoudlinnen, extra voordeelig
+Restanten Lingerie - Tricotage - Kousen - Zakdoeken
+INDISCHE
+UITRUSTINGEN
+VOOR DAMES
+EN HEEREN
+VRAAGT ONZEN
+SPEC. CATALOGUS
+WONEN EN LEVEN
+IN NEDERL INDIE
+AMSTERDAM - DEN HAAG - ROTTERDAM
+
+</text>
+<image timestamp="2002:09:26:16:16:00.00" size="239047">D10008C3.TIF</image>
+</page>
+</document>

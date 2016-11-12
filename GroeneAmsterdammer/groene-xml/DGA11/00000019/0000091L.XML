@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300322</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 22 MAART 1930
+No. 2733
+Bataafsohe
+Hypotheekbank
+- AMSTERDAM
+Geeft uit:
+tegen beurskoers.
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie t
+Mr. H. H. C. CASTBNDIJ*. tn
+1. MOSSELMAN
+De Bank geeft onder controle van het
+Algem. Administratie- en Truttkantoor
+5 en 4l%Pandbr.tegen beorakoeri oit.
+De HolL Voorschotbank
+HAARLEM, KRUISWEG 70,
+De Bank verstrekt gelden tot elk bedrag
+net een mi«itmim vaa f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandceving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5% schuldbrieven in stokken van f 1000.—,
+500,- en f 100.- tegen Beurskoen.
+N. V. Rotterd. Hypotheekbank
+voor Nederland
+Opgericht In 1864
+Maatschappelijk Kapitaal f 10.000.000,
+waarvan geplaatst f 7.000.000,
+waarop 10 pCt. gestort.
+Verstrekt geld op eerste hypotheek.
+Voor inlichtimen wende men zich tot
+het kantoor der Bank, Schiedamsche
+Singel 41 te R'dam of tot hare Agenten.
+De Directie t
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wflk.
+Mr. B. van Rossem.
+Hl Insulaire Hypotheekbank
+te ZIERIKZEE,
+
+geeft uit
+4è% Pandbrieven a 98* %.
+
+Aan Pandbrieven in omloop
+voor ruim 19 millioen gulden.
+Reserves ± f 4OO.OOO
+N.V. Residentie Hypotheekbank
+'s~GRAVENHAGE Anna Paulownastraat 97
+TRUSTEE'S EN ACCOUNTANTSCONTROLE
+Hypotheekbrieven in circulatie f 14.000.000.—.
+5 pO. Hypotheekbrieven tegen 100 pCt
+Directies K. B. ABBING. D. VAN OORDJ
+
+e/ARNHEM
+i£
+LEVENSVERZEKERING
+Nederlandsche
+Handel-Maatschappij, H.v.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHAGB
+Vestigingen in Ncderlandsch-Indië, Straits-Scttlemcnta,
+Britsch-Indfë, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE-DEPOSIT. KOFFERKLUIS.^
+! l
+i N.V. Maatschappij voor Hypothecair Crediet in Nederland,
+|j gevestigd te 's-Gravenhage, Nassaulaan No. 23,
+
+waarin opgenomen de Maastrichtsche Hypotheekbank voor
+Nederland te Maastricht, St. Servaasklooster 8.
+BIJKANTOREN: Amsterdam, Westermarkt No. 2,
+Utrecht, Boothstraat No. 15.
+Groningen, Turfsingel 9.
+Verkrijgbaar: 5% en 4|% pandbrieven tegen
+beursnoteering, aflosbaar door uitloting binnen 25 jaar.
+De Directie.
+l
+aaaaaaaaaaaaaraiHi^^
+N.V. ROTTERDAMSCHE
+SCHEEPSHYPOTHEEKBANK
+HARINGVLIET 98
+UITGIFTE van
+
+5% PANDBRIEVEN tegen 98 %
+
+De Directeur: Mr. W. C. MEES
+C. G. A. CORVEY, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO,
+ROTOR LICHT KRANT IMfi^JB
+1OO.OOO Groningers kunnen lederen avond Uw annonce lezen.
+Hier is het middel om Uw merk of firmanaam er in te HAMEREN.
+Het dak van de Openbare Leeszaal, juist tegenover de
+Glênde Riepe" hebben wij uitgezocht voor de opstelling
+in Dec. 1928 van onze Rotor-Licht-Krant, de eerste in
+Nederland, tevens Zondagavondcourant.
+Op de Rotor-Licht-Krant volgen de berichten en de
+reclameteksten elkander onmiddellijk, zonder
+tusschenpoozen op. Daar meer dan de helft van de letters wordt
+besteed voor de laatste berichten (waarvoor wij ons bij
+het Persbureau Vaz Diaz op eenige speciale diensten
+hebben geabonneerd) en de andere helft voor adver
+
+tentieteksten, moet ook bij de reclame de aandacht van
+het publiek steeds levendig zijn.
+Een doeltreffender reclamemiddel is niet denkbaar.
+d~T~_
+Wij noodigen U hierdoor uit, gebruik te maken van de reclameruimte welke wij op onze lichtkrant beschikbaar stellen.
+Vraagt inlichtingen bij de Provinciale Groninger Courant", Groningen.
+
+</text>
+<image timestamp="2002:09:25:06:21:08.00" size="124983">0000091L.TIF</image>
+</page>
+</document>

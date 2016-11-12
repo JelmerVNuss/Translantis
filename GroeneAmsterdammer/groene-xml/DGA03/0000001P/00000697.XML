@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280128</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+28 Januari 1928
+euroene
+cckblcid voor
+jammer
+Nederland
+Abc
+nt.pri). per jur f m.-.
+Advert«atlln ƒ0.75 per
+K l Z ER S G R A C H T 333
+AMSTERDAM •- CENTRUM
+TELEFOON 37964
+LO»BC nüm mer» 29 CCA t*
+Nederlandsche
+Handel-Maatschappij
+AMSTERDAM.
+Gestort Kapitaal	f 80,000,000.
+Statutaire Reserve	f 40,000,000.—.
+Agentschappen te ROTTERDAM
+en VGRAVENHAGE
+RENTE VOOfi DEPOSITO'S:
+Direct opvorderbaar ...... ... 2 % per jaar.
+l maand opzegging . ......... 2\ %
+maanden opzegging ...... . . 3 %
+O
+
+*•
+Voor andere en Vaste termijnen, zoomede voor groote
+bedragen rentevergoeding nader overeen te komen
+
+SAFE-DEPOSIT.
+TABAK
+Cm
+T.TT
+QROEH 20&amp;
+BLAUWI5 Cr
+ROOD 15 Cr
+GEEL IQCr
+IS tWALITEIT!
+N.V./H
+HAKLOOSTERHUIS
+AMSTERDAM
+I»
+a
+a
+a
+3
+a
+a
+i
+E
+=
+H
+=
+/
+1
+iiiiiiiiiiiiiiiuiiuiiiiiiiiiiuiiiiiiiiuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiminiuiitiiiiiiiiiiiiiiiiiiiiiniiiuiiiiiiiiii
+MAANDAG
+BEGINT DE
+WITTE WEEK
+ENORME VOORRADEN GOEDEREN
+WORDEN GEDURENDE DE WITTE
+WEEK TEGEN BUITENGEWOON
+LAAG GESTELDE PRIJZEN IN
+VERKOOP GEBRACHT
+GUNSTIGE GELEGENHEID VOOR
+HUWELIJKS- EN
+BABY UITZETTEN
+ZIET ONZE SPECIALE
+ETALAGES
+DE
+BIJENKORF
+££*\ AMSTERDAM - DEN HAAG
+jp^ÜI IIIIIIlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllIllllllllHIII
+m
+iiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+a
+a
+a
+a
+1
+m
+
+</text>
+<image timestamp="2002:09:04:03:42:08.00" size="101936">00000697.TIF</image>
+</page>
+</document>

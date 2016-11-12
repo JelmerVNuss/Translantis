@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001230</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERiD AMMER W E B E B&lt;L A D VOO'R NEDERLAND.
+S
+'
+! I.
+
+t,.
+Nieuwjaar 1901.
+vVn.irai.M •. »0r.moge!\jk hem (e ontvangen,
+dia Kruger is zoo groot, zóó groot en 't is
+bij mij zoo laag van verdieping,"
+(Hoqucts du. déjout, Le Sire).
+MARS (lot Mtrcuriua): »Nu amice, daar gaat de nieuwe eeuw	Als God van den Oorlog wensch ik den God vaa de Dieven geluk l"
+Het goede dier. (Simplteissimiis).
+ffis ivaeen cinmal Sinbcrlein, bit er&gt;
+3&lt;ü)ltcn ft $ nt&amp;tltin. Uttb ba crj&lt;st&gt;[tr einca
+soit cincin macfytigi-u J?cidic auf bewi fe(lcn
+iLanbe bcübcii, bas tucrbc bcf)«Tf^t oott.rrïaii'
+neen, bic rocntg fpcdc^cn unb ot'et f)anbeltcn
+unb nieman&amp;em ttcs^ltefctu
+S5ic linbtc Ict^ten unglaubig uni&gt; fettgttn
+bic 2lt)nc, ob ba» toül)r obec cin ntdvc^en fci.
+$\2 Id^eltc bie (BfO^ murtec «i;
+Sfis waf einmail"
+L
+Kitchener probeert zijn speciale methode, om de Engelache
+ideeën in de harde koppen van de boeren te brengen.
+(Naterelle).
+
+
+Nederland en Portug-al.
+(Jagend).
+
+De smeekeling in Duitschland. (Lustige Blatter).
+.Holla.d.cb Jan t ie: - *•„,',. h,,-m,, mu it ,„,,
+(Uilenspiegel).
+
+Atilla als kritikus. (Lustige Slatter).
+Van alle honden is de Duitsche Dog het beste voor trekdier geschikt;
+worden hem al te zware Jasten opgeladen, dan blaft hy wel een beetje,
+maar wordt hij door de bevelende stem van zijn heer spoedig weer mak
+en trekt de kar geduldig door den vuilsten drek.
+(lrit JJrelims Lsvcn der Dieren").
+Holland en Portugal. (La Silhouette).
+HOI-T.AKKJ : »De Chinee^he Geza/it wordt verzocht ter audiëntie !" (met
+een blik up Kruyer): »Wat wil die Boer eigenlijk bier ?"
+Bravo ! braro J die Engelschen doen het byna nog beter dan ik.
+En ziedaar waarom het edele Europa, beschermer van het Recht,
+d« menscheJijkheid en bliljjkheid, tlsehts weenen kan orer het onge-^
+takkige Tr«ns?aal! Europa vecht tegen de barbaarschheid in China
+en lieve hemel, men kaji toch niet alJes tegelijk doen! (Le Eire).
+Chamberlain bij het vernemen van keizer Wilhelm's weigering om Kruger
+te ontvangen." (Le Eire).
+
+</text>
+<image timestamp="2002:08:15:11:02:10.00" size="465461">D2000R0.TIF</image>
+</page>
+</document>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320827</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 27 Augustus 1932
+Wetenschappelijke Varia
+Het tintelen der sterren
+door Dr. P. van Olst
+Er zijn twee gangbare meeningen over het
+tintelen der sterren; de eene is dat alleen de vaste
+sterren tintelen en dat alles wat niet tintelt aan
+den hemel planeten zijn; de andere is dat tintelen
+der sterren slecht weer voorspelt. Beide meeningen
+bevatten een kern van waarheid maar heelt maal
+juist zijn zij niet.
+Het tintelen der sterren is niet op alle avonden
+even opvallend en ook niet aan alle deelen van het
+hemelgewelf even goed waar te nemen. Boven ons
+hoofd zien wij er meestal niet veel van; lager
+naar den horizon toe wordt het echter sterker.
+Het tintelen bestaat uit een wisseling in helderheid
+en uit een wisseling in Teleur, met groote snelheid
+en zonder regelmaat in de opvolging.
+Het is waar dat de vaste sterren dit verschijnsel
+het best vertoonen en dat inderdaad de planeten
+veel rustiger aan den hemel staan, maar het kan
+ook best gebeuren dat een ster niet tintelt of een
+anderen keer een planeet wel. En als men een pla
+
+neet door een kijkertje bekijkt, tintelt hij even
+goed als de sterren, d.w.z. de rand van de planeet
+
+schijf is onregelmatig onrustig met kleine ver
+
+schillen. En deze onrust vertoont ook dikwijls zelfs
+de maan in een kijker, terwijl de zonnerand, in
+een kijker gezien, in voortdurend onrustige beroering
+is („kookt").
+Als men naar een witte muur of effen wit papier
+kijkt dat door de maan beschenen wordt, dan ziet
+men levendige lichtwisselingen, die men .,vliegende
+schaduwen" noemt en die het gevolg zijn der
+helderheidswisselingen van het maanlicht door het
+vO
+tintelen, dat men niet bemerkt als men naar de
+maan zelf kijkt.
+Een dergelijke onrustige beweging vertoonen
+ook aardsche voorwerpen wel; wanneer rnen op
+de warme hei ligt, ziet menaandekimalleboomen
+en huizen in voortdurende beweging: hetzelfde
+ziet men als men 's winters langs een warme
+kachelpijp kijkt; alles golft en bibbert dan. Zoowel
+in deze gevallen als bij het tintelen der sterren
+is de oorzaak dan ook te zoeken in de lichtbreking
+door slieren ongelijke warme lucht, dus als warme
+lucht bezig is zich met koudere lucht te mengen.
+Lucht van verschillende temperatuur is namelijk
+niet even sterk lichtbrekend, dus als een lichtstraal
+passeert door een slier warmer lucht in een koude
+omgeving of een slier koude lucht in een warmer
+omgeving ondergaat zij een richtingsverandering,
+zoodat wij het voorwerp dat het licht uitzendt
+niet voortdurend op dezelfde plaats zien.
+De zaak is pas goed te begrijpen als men eerst
+nagaat wat er gebeurt met de sterrestralen die
+van de luchtledige wereldruimte in den damp
+
+kring komen. Nemen wij eerst voor het gemak aan
+dat de dampkring van onder tot boven homogeen
+is, dus ook overal dezelfde dichtheid heeft. De
+straal van de ster S (fig 1) zou dan bij het intreden
+in den dampkring breken en verder recht door
+gaan naar de waarnemer P, die de ster dan schijn
+
+baar zou zien op de verkeerde plaats S1.
+Maar de dampkring is niet homogeen doch
+wordt naar boven ijler, dat wil zeggen: minder
+sterk lichtbrekend. Bestond zij nu uit drie lagen
+(fig. 2) van scherp gescheiden dichtheid dan zou
+bij iedere grens tusschen deze lagen de lichtstraal
+gebroken worden, dus drie maal, en een hoekig
+verloop krijgen.
+Zoo eenvoudig is het echter niet. De damp
+
+kring neemt geleidelijk in dichtheid toe van buiten
+naar binnen, en daardoor krijgt men zooveel
+brekende laagjes dat de hoekige straal de geleide
+
+lijk gebogen straal wordt, die fig. 3 aangeeft en
+die het werkelijk verloop der lichtstraal aangeeft.
+Man moet nu in 't oog houden dat het witte licht
+van een ster uit gekleurde bestanddeelen van ver
+
+schillende breekbaarheid bestaat. Arriveert dus
+in fig. 3 het roode deel van dit sterrelicht bij den
+waarnemer P, dan geldt dit niet voor de andere
+gekleurde stralen, want deze komen niet in P
+terecht, maar rechts van P (in de figuur gerekend !)
+Wil men hebben dat bij den waarnemer alle
+kleurbestanddeelen van het sterrelicht samen
+3 JHE
+vO
+komen, wat immers noodig is om de ster wit te
+zien, dan moeten deze gekleurde stralen niet op
+hetzelfde punt den dampkring binnenkomen dus
+als bestanddeelen van dezelfde witte straal, maar
+op de wijze als fig. 4 laat /,ien, als bestanddeelen
+van verschillende stralen. Het violette deel van
+de ne straal en het roode van de andere straal,
+treden den dampkring binnen een eind van elkaar
+af, maar daar de violette straal sterker breekt
+en de roode minder sterk komen zij bij den waar
+
+nemer P samen. Men kan uitrekenen hoe ver
+deze stralen uiteen moeten liggen bij het binnen
+
+komen in den dampkring. Dit bedrag hangt af
+van de meer of mindere schuinte der stralen.
+Op 30 graden boven den horizon is de afstand der
+stralen aan den dampkringsgrens bijna 12 &lt;:m. op
+20 graden hoogte reeds 128 cm, op 10 graden
+hoogte I2ti3 cm. en aan den horizon 375(&gt; (m. dus
+3.75 meter !
+Daar nu de afmetingen der luchtsl ierten in de
+hoogere luchtlagen geringer zijn d,an deze be
+
+dragen is het dus mogelijk dat de ne
+kleurstraal wel door een luchtslier gehinderd en in
+lichting veranderd wordt terwijl de andere
+kleurstraal buiten het bereik van de storende
+slier is ! Het gevolg is dat de ster niet meer wit
+gezien wordt maar gekleurd (nl. wit verminderd
+met de gestoorde kleur). De storing duurt slechts
+even. Het volgend moment zal misschien de andere
+gekleurde straal gehinderd worden en de ster krijgt
+weer even een andere kleur. Dit tintelen is dus het
+«0.
+Spreekzaal
+Bezuiniging door onderwijsverbetering
+Door verblijf buitenslands kreeg ik pas dezer
+dagen de vragen van den heer H. tenDuis (No. van
+O Aug.) onder oogen.
+Allereerst dit: het primaire doel van het in
+mijn artikel bedoelde request is niet bezuinigen,
+maar onderwijsverbetering, een verbetering die
+onomwonden door vooraanstaande deskundigen
+van vrijwel elke partij wordt toegegeven. Maar
+waar deze verbetering gepaard zal gaan met een
+aanzienlijke bezuiniging (meer nog dan 't
+rapportWelter voor ,,onderwijs" voorstelt) is 't nu de
+.,wel aangename tijd" om met alle kracht deze
+hervorming te propageeren.
+Zal deze besparing nu wel aanstonds effectief
+zijn? vraagt de heer t. D. Inderdaad is dit het
+geval. De becijfering kan hij o. a. vinden in De
+Telegraaf, Avondblad van 29 Juli j.]., van de hand
+van den heer A. Feberwee (Landsmeer 35). Ik
+moge den inzender naar dit adres verwijzen,
+indien hij nadere gedetailleerde gegevens mocht
+wenschen te ontvangen. Den heer Feberwee komt
+de eer toe bedoelde hervorming, waarvoor het
+verzoekschrift-Colenbrander e.a. pleit, in eerste
+instantie te hebben gepropageerd. Ik hoop dat
+vele lezers van de Groene aan hem een betuiging
+van adhaesie en medewerking zullen willen doen
+toekomen !
+* *
+*
+
+De heer Vegten (Spreekzaal van 20 Aug.)
+komt terug op de hoofdzaak: de versplintering
+van ons L. O. Hij herinnert er aan dat men tot
+dusverre daaronder slechts verstond het ontstaan
+van kleine schooltjes tengevolge van het oprichten
+van onderscheiden bijzondere scholen ten koste
+van het openbare onderwijs. Ik zal de laatste zijn
+om te ontkennen dat zulk een onnoodige versplin
+
+tering voorgekomen is. Maar wat de heer V.
+hier een onmiskenbare waarheid waagt te noemen
+voor ieder die behoorlijk onderscheidt en onpar
+
+tijdig oordeelt (zonder dat hij nochtans een enkel
+bewijs van deze stelling levert!) is inderdaad
+een waan. Wie onbevangen de feiten laat spreken
+(en het feitenmateriaal is hier gelukkig over
+
+vloedig !) moet tot onze conclusie komen ri.l.,
+dat de geweldige verplintering van ons L. O.,
+het ontstaan van een waanzinnig aantal kleine
+schooltjes, dorpsschooltjes (die bovendien uit
+paedagogisoh oogpunt ten eenenrnale verwerpelijk
+zijn) uiteindelijk het gevolg is niet van de pacificatie,
+maar van de afschaffing van het ambulantisme.
+Kn dit geldt voor het platteland evenzeer als voor
+de groote steden.
+Hoe ik zelf over de pacificatie denk mag ik als
+bekend veronderstellen. Doch ook hier geldt;
+amicus Plato. magis amica Veiïtas. Het inge
+
+zonden stuk van den heer V. is een bewijs te meer
+hoezeer velen van het waandenkbeel/l bevangen zijn
+dat de pacificatie hier de eigenlijke schuldige is.
+Voor bedoeld feitenmateriaal moge ik den heer
+V. in eerste instantie verwijzen naai' twee artikelen
+van mijn hand in De Telegraaf, Avondblad van
+11 en 18 Juli. en voorts naar de publicaties van
+den heer Feberwee. Desgewerischt zullen wij hem
+verdere gegevens gaarne verstrekken. De zaak
+waarom het gaat is inderdaad uiterst belangrijk
+en verdient aller aandacht.
+Dr. O. P. GfNNING
+gevolg van do aanwezigheid van luchtslieren van
+verschillende temperatuur in den dampkring en
+ontegenzeggelijk moeten dit soort slieren herhaal
+
+delijk optreden. De wind transporteert voort
+
+durend dichtere en ijlere luehtlaagjes voort in
+snelle afwisseling. Heelemaal rustig is de lucht
+eigenlijk nooit. Steeds zullen dus de sterren tintelen
+maar onmogelijk is het niet dat luchtstroomen
+van verschillende richting, temperatuur en voch
+
+tigheid, die geschikte condities vormen voor
+weersverandering, ook meer kans op tintelen geven
+zoodat dit inderdaad als een slecht teeken be
+
+schouwd kan worden. Men houde echter wel in
+het oog dat de hooger aan den hemel gelegen
+sterren veel minder tintel-neigingen hebben daar
+de afstanden der gekleurde stralen uit fig. 4 daar
+veel geringer zijn tot nul toe in het zenith. De kans
+op kleurstoringen is dus geringer. Het verschil in
+helderheid is niet in zoo korte woorden te ver
+
+klaren, dus dat moet ik laten rusten.
+
+.
+</text>
+<image timestamp="2002:09:27:07:05:08.00" size="235314">00000AJ2.TIF</image>
+</page>
+</document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301011</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN n OCTOBER 1930
+No. 2784
+
+1 D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZING mei RIJTUIGEN of AUTO'S)
+CREMATIE. - TRANSPORTEN.
+
+
+N. V, Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+
+
+
+
+Twee modern gebouwde Villa's,
+gelegen in zeer mooi, oud geboomte in de nabijheid van
+het station Dedemsvaart der N.S. en aan tramhalte
+worden met bijbehoorende park- en tuingronden PUBLIEK
+TE KOOP AANGEBODEN.
+Inlichtingen verstrekt Notaris D. L. Uytden Bogaard
+te Den Hulst o/d Dedemsvaart.
+
+
+
+
+BEGRAFENISVEREENIGING
+N. SAX J r.
+P .C. Hooftstraat 38 AMSTERDAM Telef.: 20341. 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 ~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+
+
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+l
+f
+
+
+ALTIJD WELKOM
+I«*Y X*"N. f** **r~if~* f /*** ^"^s&amp;f^^r^'--, - , , -x'&gt;"„.
+
+
+
+KC-/D I t D \/pppi FFPSTFP CACAO
+vGDE PRIJS 2 40 P KILOBUS l 35 P PONDSBUS V C, l\±t L. L. L—\^7*-S i l—1^ \+S/^\****J IX.X
+
+</text>
+<image timestamp="2002:09:22:05:42:11.00" size="537710">000008KY.TIF</image>
+</page>
+</document>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300531</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AAR ZWITSERLAND
+Inl. en Prosp. van onderstaande plaatsen en hotels gratis: N.V. INTERN.VERKEERS-BUREAU, Hoofdkant. A'dam, Damrak 46 en alle andere Reisbur.
+HOTEL ADLER &amp; KURSAAL. so bedd. Groote
+balzaal met huisorchest. Tennis. Pens. vanaf
+(BERNER OBERLAND) frs. 12.—. Eig. H. Jossi.
+
+(Vierwoudstedenmeer) PALACE HOTEL.
+ie r. familie hotel, 200 bedden. Gotf. Tennis.
+Zwembad. Pension vanaf frs. 14.—.
+BASEL: HOTEL VIKTORIA-NATIONAL
+
+het dichtstbijgelegen Hotel aan het
+S.B.B, station. - Geheel vernieuwd.
+BEX-LE&amp;BAINS
+a. d. Simplon lijn bij MONTREUX.
+GRAND HOTEL SALINES &amp; GOLF.
+Ie huis ter plaatse, thans geh. gemoderniseerd, 170 bedd. Pens. v. 14—20
+frs. Schitterend beschut gelegen, prachtig zeer groot eigen park. Door Holl.
+fam. zeer aanbevolen en bezocht. Hydrotherapie-, Zout- en
+Koolzuurhoudende baden. Badinrichting IN het Hotel.
+
+
+BRUNNEN Hotel Goldener Adler en Park Hotel'.
+Elk Hotel 110 bedden. Pension vanaf frs. 11.—.
+BRÜNNEN
+HOTEL WALDSTaTTERHOF
+220 bedden. Pension vanaf frs. 13.50.
+De P°ort v' h' Enëadin en Prattigau: HOTEL WEISS KREUZ
+midd. v. d. stad, rust. ligging 5 min. v. spoor, 60 bedden.
+Uitst. keuk. kam. v.a. frs. .4.—. Pens. vanaf frs. 12.—. Garage.
+
+
+TtRAT7NW4T,n (KANTON GLARUS)
+J) ti A U rN IV ^ lJ U \1300-i5oo M. b. d. z.)
+
+Zomervreugde en ontspanning in het Hooggebergte. Bosch, prachtvolle
+wandelingen en uitstapjes. Vrij van-auto's. Tennis. Kurmuziek. Prospect»
+worden gaarne verstrekt.
+GRAND HOTEL BRAUNWALD HOTEL ALPENBLICK
+HOTEL NIEDERSCHLACHT HOTEL ALPINA
+
+T?THTïr 4 TTHH Station v. d. Martigny-Chamonix spoorweg, dir. a. d.
+JP JUlU-&amp;- U Jl Mont Blanc route. Hotels: Beloiseau Wallis 1237 M.
+b. d. Z. et Victoria. Mont Blanc. Vraagt prospectus.
+
+Kurhaus Adula, zeer aanbev.w.
+Fam. hotel. Geh. hernieuwd, vlak
+(Graubünden) 1150 M. b. d. Z. bij het Caumameer. Matige prij
+
+zen. Voor- en naseizoen verl. pr.
+FLIMS WALDHAUS
+GRAUBÜNDEN
+
+
+1150 M. b. d. Z.
+Het Alpine Meerbad
+
+
+18—22 gr. C.
+360 Bedden PARK-HOTEL WALDHAUS 360 Bedden
+Het groote Hotel in villatrant gebouwd. Domineerende ligging. Groot
+eigen park. Tennis (7 banen). Golf. Garages (50 auto's). Pension vanaf
+frs. 17.—(Hoogseizoen vanaf frs. 19.—).
+
+Berner Oberl. 800 M. b. d. Z. GRAND HOTEL
+&amp; KURHAUS. Wereldberoemde watervallen.
+Maa.h. Meer van Brienz. tige prijzen. Directeur W. MILLIET.
+
+Beau Rivage Grand Hotel, in alle opz. Ie kl.
+,Fam. hotel, meest mod. comf. Gr. tuin, gar.,
+pens. v. a. frs. 16.—. Uitst. keuken. Alb. Doepfner, eig. en leider.
+
+HOTEL INTERLAKENER HOF, aan de
+Hauptpromenade. Familie- en toeristen
+
+hotel. Eigenaar E. H1RSCH.
+G1ESSBACH
+INTEBLAKEN
+INTERLAREN
+l"!VrTF~RT ATfFlVT
+JJ.1 J. H»xlJJ^l-Im.lMll
+mend water in alle kamers.
+HOTEL KREES. Goed familiehotel. Vrij
+gelegen, heerlijk uitzicht, warm en koud stroo
+
+Eigenaar FAMILIE KREBS.
+INTERLAKEN HOTEL METROPOLE
+MODERN. MATIGE PRIJZEN.
+INTERLAKEN
+HOTEL SCHWEIZERHOF. Ie Rang,
+prachtig gelegen aan den Höhenweg. geheel
+modern. Eigenaar TH. WIRTH.
+1NTERLAKEN
+WALDHOTEL UNSPUNNEN, 15 min. van
+spoor en booten. Auto aan het station. Lid
+van den Toeristenbond v. Nederland.
+LAUSANNE MOTEL V1UTORIA
+Voornaam Familiehotel. Ie Rang. Uitzicht op het meer.
+
+
+LES AVANTS: s.Montreux i„oo Meter b. d. zee.
+Heilzaam' luchtkuuroord. 4 Hotels, tennis, garages, pensions.
+
+HOTEL BRISTOL", Ie Rang, geheel modern ingericht,
+hooge ligging. SCHITTEREND UITZICHT OP STAD
+_ EN MEER. _
+
+T TT ft i IVO Hofel St Cotthard Terminus. Bekend best Fam.-hotel,
+JU U \JAllvr rustig gel. Uitz. op bergen en meer. Alle kamers stroo
+
+mend water en privébaden. Eigenaar J. SCHEUER.
+
+KURHAUS &amp; PARKHOTEL. Gezellig Fam.-hotel,
+pracht, gel. Meer-lucht en zonnebaden. Tennis, park,
+AAN HET MEER garage, lift, orchest. Vraagt prospectus.
+
+H°TEL RÖSSLI, 120 bedden. Matige prijzen. Str. water,
+Lift. Baden, Garage, Gr. Café-Restaurant. 5 min. van
+station en booten. ___ Eig. M. &amp; E. MEYER.
+
+HOTEL FLORA", 70 bedden, Mod. en con&gt;
+fortabel inger. Groot terras-Rest. Kamers vanaf
+frs. 4. . Uiigangsp. v. d. Grimsel-route. Autotoeren. Eig. Fam. FUHRER.
+
+HOTEL STEINGLETSCHER a. d. sustenpass.
+Pension vanaf frs. 11.—. 60 bedden. Gebied
+voor toeren in Hooggebergte.
+Berner Oberl. 1866 M.
+'Deftig Familieholcl, Torras. Tuin,
+Heslaurranl. rnalijo priix.cn. Directeur lv ULLI.
+8T.HOBITZH OTEL WALI) H A18
+Stroomend water, rustig gelegen aan het meer. Orchest. Garage.
+Middelmatige prijzen.	Eigenaar G. HOCCO. (Zwitser).
+
+SPIEZ
+a.h. Thunermeer
+HOTEL DES ALPES. Beste 2e rang Hotel
+ter plaatse.
+Eigenaar E. STEGMANN.
+PARK HOTEL BEAU SITE. Peg. Fam.-Hoiel. Laatste
+comfort, pr. ligging a. h. bosch. Pension Juni en Sept.
+v.a. frs. 14.—, Juli &amp; Aug. v.a. frs. 16.—. Eig. . Bühlmann.
+
+Tl|/r l T || I? I &gt; C VIT I T prachtig centrum voor excursies in liet
+• ' -» A^ U-lJ-IXlO T T AJJ Jungfraugebied. Geregelde autobusverbinding
+30 minuten van Interlaken m£t Interlaken en de Kursaal. Rustige
+ligging door bosch omringd. 12 Hotels
+metzeermat. igeprijzen." !
+Prospectus wordt gaarne verstrekt door rde Verkehrsverein. Wilderswil.
+DIT PAPIER WORDT
+GELEVERD DOOR DE Fa
+C. G. A. CORVEY, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO
+MOBACO
+Bouw Speeldoos*»
+Zeer leerrijk en onderhoudend Speelgoed
+
+w^.-N.V. BOSCH, HONIG 6 Co,
+DOMSTRAAT 6 - UTRECHT
+Ta VLISSINGEN verkrijgbaar bij:
+N.V. voorn. De Vey Mestdagh.
+In INDlS verkrijgbaar bij:
+Toko Onderlinge Hulp, Weltevreden.
+TOT
+Zoo juist
+
+verschenen:
+VAN DIALECT
+SCHRIJFTAAL
+REDE
+
+uitgesproten bij de aan
+
+vaarding van het ambt
+van Buitengewoon
+Hoogleeraar aan de Univer
+
+siteit van Amsterdam op
+26 Mai 1930, door
+
+Dr.W.VANDERGAAF
+
+PRIJS ... F 0,75
+UITGAVE VAN
+J.B.WOLTERS
+
+GRONINGEN, DEN HAAG
+ABONNEERT U NOG HEDEN.
+uitknippen en versturen in briefomslag als drukwerk met l1/, een».
+
+
+Aan de Administratie van De Groene Amsterdammer
+Keizersgracht 355 Amsterdam C.
+
+Ondergefeekende wenschf zich fe abonneeren
+
+op De Groene Amsterdammer" van l Juni a/,
+
+met gratis Mei-nummers.
+
+Abonnementsprijs l Juni—3lDec.:f6, .
+
+
+Naam:
+
+
+
+Adres
+</text>
+<image timestamp="2002:09:25:17:29:02.00" size="190277">0000099C.TIF</image>
+</page>
+</document>

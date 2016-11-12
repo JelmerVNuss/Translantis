@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271126</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amsterdam .
+GevutiQdMdcft 1810
+Prinsengracht 975
+MtlttohrttKIBHI
+i t
+IS
+f'
+JAEGER
+Ondergoederen
+In div* kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRONER
+Nieawendijk 167, Amsterdam
+MENDELS
+Kal vers tr. 109/111
+, AMSTERDAM
+Heteenigstspeciaal-huis.
+Het beste adres in Ne
+
+derland voor Béb
+-jongens- en Meisjes- onder
+
+en boven kleed ing.
+OCCASIONS:
+
+Fiat Conduite-Intérieure Type 503,
+1927, ruime 4 , 5 persoons wagen, lederbetleeding, geheel com
+
+pleet met richtingaanwijzers, en verdere toebehooren,
+prachtwagen	PrjJ8 f 2600.—.
+Fiat Conduite-Intérieure Type 503, g^6
+van 't laatst 1926, geheel compleet uitgerust, lakenbeldeeding
+Prijs F 2400.—.
+Atnilcar Grand Simrt 9 HF&gt; model 1927&gt; 4
+Amuutr uranu apun, wletaBnmen&gt; 700o K.M.,
+geloopen, nog bijna nieuw, kleur licht-hlauw met roode
+spatschermen, geheel compleet, loopt zeer snel, gekost F 3400.
+nu voor den prijs van .	F 1600.
+
+IUTI-UIUE mm
+w
+Indisch Restaurant en Lunchroom |
+J. VAN GEEMERT »
+Laan van Mecrdcrvoort 12 - DEN HAAG - Tel 12869 f
+WINTERTIJD is
+
+DEKKLEEDEN tijd
+
+Met slecht weer gebrulke men
+DEKKLEEDEN van
+
+ZEI LI N G A
+BINNENKANT 38 Tel. 41709 en 40717
+AMSTERDAM C.
+te WASSENAAR,
+geeft inlichtingen voor aankoop VIL L A' s en
+VILLATERREINEN in de parken te Wassenaar.
+Inlichtingen J. TH. WOUTERS,
+Leidschestraatweg 648.
+VLLiLa
+
+LTelef. 71471
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+N.V. v/h. Gekr. BREEN
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+J. RKARTHAUS
+Grootc Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+*• RIJKE *»
+SORTEERING
+AMSTERDAM
+Prijsvraag voor een
+
+Oorspronkelijk Jongensboek
+De Jury bestaande uit: de Meeren
+C. JOH. K l E V l E T
+THEO THIJSSEN en
+A. B. VAN TIENHOVEN
+heeft bekroond met den prijs van
+DUIZEND GULDEN
+het manuscript getiteld:
+A v e r ij
+waarvan de auteur bleek te zijn
+MARIE C. VAN ZEGGELEN
+te HAARLEM
+Het boek zal in den loop van 1928 verschijnen bij
+VAN HOLKEMA &amp; WARENDORF'S UITG. MIJ. TE AMSTERDAM
+l
+Prijsvraag voor een
+
+Oorspronkelijk Meisjesboek
+De Jury bestaande uit de Dames
+ANNA VAN GOGH-KAULBACH
+TOP VAN RHIJN-NAEFF en
+J. P. ZOOMERS-VERMEER
+heeft bekroond met den prijs van
+DUIZEND GULDEN
+het manuscript getiteld:
+
+Wij, met ons vijven, in Rome
+waarvan de auteur bleekjte zijn
+TINE COOL
+te BUSSUM
+Het boek zal lm! den loop van 1928 verschijnen bij
+VAN HOLKEMA &amp; WARENDORF'S UITG. MIJ. TE AMSTERDAM
+
+</text>
+<image timestamp="2002:09:22:04:06:35.00" size="154899">D100071G.TIF</image>
+</page>
+</document>

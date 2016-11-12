@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18951222</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No 965
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+Inhoud van verschillende bladen.
+
+Het Handelsblad. 14 Dec. ,.De beoordee
+
+ling der conversiewet." Nederland en Indië'
+(financiën).
+15 Dec. Spoorwegen en financiën in Im'.ie."
+vl£en Jegerbelang een landsbelang" (Seret).
+19 Dec. De opium-regie en hare gevolgen."
+D a S t, a ij d a a r d. Iti Dec. Commune of inter
+
+nat! nale?" (het socialistische stelsel).
+18 Dec. Auti-njihtaire geest" (onze defensie).
+20 Dec. Ongelijkheid van het goed" (in de soc.
+maatschappij).
+He t C e u 11 n m. 14 en 16 Dec. De Priester in
+de sociale bowegij g".
+17 Dec. Eöu herinnering" (aan de protestmeeting
+in zake de liomeii.scne quaestie).
+18 Dec. Een laalste woord" (aan Recht voor Allen).
+19 Dt)C. Eeu edel werk" (maiaon des ouvriers te
+Seraing).
+Het Volksdagblad. 14 Deo. Arbeiders
+
+woningen aan de Hembrug. '
+16 Dec. De Tijd" als statisticus''
+(werkliedenverzelïeriug tegen ongelukken ia Duitochland).
+18 Dec. Geheimhouding" (bij de vermogensbe
+lastiug).
+19 uec. De heer Wierdels en zijn
+woning-vereenigiijg".
+De Tijd. 11 Dec. Verzekering tegen
+ongelukten, I, 13 Dec. II
+(slot)14 Dec. Esi.e eervolle onderscheiding."
+16 Dec. De verloren parel", door l1 r. A. van
+Kerkhof}1, O. C.
+Het N i e uw s v/d Dag. 10 Dec. Ivrijgstucht."
+Het algemeen depot van discipline. 11 DBC. II.
+12 Dec. III, door J. F. H. Bitter, majoor pi.-et. van
+Utrecht.
+12 Dec. Naar welk stelsel moet de Marine geor
+
+ganiseerd wurden?'' door Mc. Leod.
+14 Dec. M si", door B. B.
+16 Dec. Naar omlaag1', door. ..t.
+De Telegraaf. 13 en 14 Dec. Ouze strijd
+
+krachten."
+16 Dec. Johanna van Woude". Koloniale
+werving," door den kapitein der Int', bij de Landmacht
+in W. I. Charlouis. Cünveibie-viuuhtgebiUikers."
+Ingezonden door A.
+N. Hotte r d. C r t., 11 Dec. Aanbouw voor de
+zeemacht."
+De (antir.) Nederlander. 16 Dee. Sociale
+overdenkingen" (slot).
+18 Dec. Eeue opmerking naar aanleiding van de
+quaestie-Seret".
+20 Dec. De personeele belasting."
+De Maasbode, lu Dec. De afschaffing van
+de doodstraf geoordeeld" (rede vau den heer Bichon
+van IJsselmoude, in de Kamerzitting van 16MeilS7U;.
+11 Dec. ,.In sneeuw en ijs.1'
+19 Dec. Burgerlijke vereenig ngeu." Historische
+schetsen. III. Niet winstgevende syndicaten, door
+J. H. Wijnen.
+13 Dec. De strijd", door Pater Ant. M. v. d.
+Bol, O. M. C.
+14 Dec. De afschaffing van de doodstraf geoor
+
+deeld" (rede van den l eer i^aayrnaus Vader, in de
+Kamerzilting van 16 Mei 1890). "
+15 Dec. Ia dienst van den God der Waarheid",
+door P. M. Bots, pr.
+Haagsche Dagblad. 12 Dec. Parlementaire
+nalezing."
+14 Dec. Z er noodig." (Pensioneering der officieren
+van vóór de wet van '77).
+15 en 16 Dec. Eindcijfer en einindruk."
+Het V derland. 12 Dec. Het Bijks
+ethnographisch Museum", door Dr. H. F. C. ten Kate.
+15 en 16 Dec. Delfland en 's Giavenhage."
+De Arondpost. 16 D..c. Een
+ove'jaaquaebtie," door Brutus.
+19 Dec. Valsche geruchten.''
+ut r. Dagblad 11 Dec. Grafelijke zalen."
+1G Dec. Politie."
+A r u h. C r t. 16 Dec. Onze duinen en dijken."
+19 Dec. O/er eenige beslissingen bij de behan
+
+deling van hoofdstuk V der begiooting", I.
+De M i d d e l b. C t. 14 Dec. Controle over
+gemeenteontvangers."
+18 Deo. De Conversie."
+P r o v. G r o n. C t. 16 Dec. Politie en pers"
+misdaden)'
+Nieuwe Winsch. C t. 15 Dec. Venten van
+bladen,"
+Zaan'- C t. Gevaarlgke en niet gevaarlijke
+kiezers."
+N. Leeuw. C r t. 14 Dec. Bandeloosheid der
+jeugd." II. 18 Dec. III, door Nemo.
+N. Arnh. C r t. 14 Deo. Informatiebureau,
+Schuldvordering, Rechtsgele' rd advies."
+12 Dee. Warenkennis," II.
+Venloosch Weekblad. 14 Dec. Van zwen
+
+ken naar links geen quaestie'' (Min. v. Honte,').
+De Liberaal. 14 Dec. Economische brieven,"
+IV, door J. d'Aulnis de Bourouill. "Stemplicht,"
+door van der Wijck. Restauratie van oude ge
+
+bouwen." Het Concurrentie-stelsel."
+N o o r d-H o 11 a ii d s c h W b l d. 14 Dec. Wering
+van bedelarij,"
+De Volksstem. 14 Dee. De Arbeiders en de
+kieswet." Ministrieele willekeur." Evenredig
+schoolgeld." De patn nenfabriek aan de
+Henibrug." Bon entendeur demi mot snffit" (venten
+van bladen).
+Soc. Weekblad. 14 Dec. ,,De politieke toe
+
+stand", III. Eene ve'-minking" (antwoord van
+Corn. Huygens). De Pavijsche arbeidsbeurs"
+Recht voor Allen 14/15 Dec.
+Majesteitsschennis."
+17 en 18 Dec, De partij van de terugwerkende
+kracht." "
+De Baanbreker. 14 Dec. De kolpoitage in
+de Tweede Kamer."
+De Wachter (soc. dem. Volksblad). 14 Dec.
+Landsverdediging."
+De Volksb'anier (B. K. Volksbond1. 19 Dec.
+Een woning-quaestie" (naar aanleiding van de
+patronenfabrit-k te Hembrug).
+De Volkstribuun. 14 Dec. Wat moeten wij
+doen ?"
+Vrijland. 14 Dec. Vrijlandisme en sociaal
+
+democratie."
+Patrimouixim. 14 Dec. Snood misbruik van
+geestelijk gezag."
+Friesch Volksblarl. 15 Dec. Over belas
+
+tingen" II. De beste belasting, door J. Stoffel.
+Ons Vakbelang. 15 Dec.
+Boekbindersvereenigingen te Londen."
+De N ij v e r h e i d. 18 Dec. Het arbeidersvraag
+
+stuk in Engeland'.' X.
+Weekblad v. d. B u r g e r l ij k e Admini
+
+stratie. 19 Dec. Organisatie der politie." IV. (slot).
+De Wekker. 14 Dec. Voldoet het steilschriflV"
+door Ya.
+Het Schoolblad. 17 Dec. Het koninklijk be
+
+sluit betreffede de Rijksbijdrage voor de opleiding
+van onderwijzers."
+N. S u r i n a a m s c h e C r t. 21 en 24 Nov. Op
+
+voeding en onderwijs in de districten." Ingezonden
+door een districtsonderwijzer.
+De Kolonist. 14 Dec. Onze dapperen in
+Oost-Indie."
+TOONL
+La Vie Miietle,
+
+De derde abonnementsvoorstelling vaa Lugn
+Poe bracht ons Li Vie Muette, een drama van
+Maurice Beaubourg, hier bekend door zijn, ook
+door i'0i'.uare gespeeld, i'lmage. Dit werk is op
+
+gebouwd op een echt dramatisch motief: het
+verzwijgen van den man voor zijn vrouw van zijn
+twijfel aan haar trouw, en het groot, sterk,
+beheerschend worden van dien twijfel door het zwijgen,
+totdat de vader zijn kinderen gaat haten en ze
+wil vermoorden, Maar de uitwerking ervan door
+Beaubourg is zeer onvoldoende. Hij heeft geen zelf
+
+vertrouwen gehad, en daarom zijn toevlucht geno
+
+men tot een zeer bedenkelijk middel: het
+commentarieeren van zijn eigen werk. Nu zal bij stukken
+uit de school der symboliek het geval zich licht
+voordoen, dat een groot deel van het publiek
+er niets van b&lt; grijpt, maar hei is een slecht dra
+
+maturg, die aan dat onverstand tegemoet komt,
+door de uitlegging naast den tekst te geven. De
+jaloezie van den man moet gevoeld worden;
+zoodra het noodig is, dat hij zelf aan de stalles
+en het parterre nog eens gaat vertellen, hoe het
+wel komt, dat hij jaloersch is geworden, lijdt het
+procédévan den schrijver schipbreuk, en wordt
+zijn werk, niet in n geheel voortgekomen uit
+den vruchtbaren rijkdom der verbeelding, doch
+bestaande uit fragmenten, door beredeneerde
+invoegsels tot samenhang gebracht, een lappen
+
+deken, die stemming mist. Dit schijnt mij het
+gebrek van Beaubourg's drama. Zijn visie wordt
+telkens onderbroken door gezochte oplossingen
+van de moeilijkheid der tooneelmatige composi
+
+tie ; zelfs de onhandigheid om een groote
+kinderrol in te voegen, die bij het spel van een sym
+
+boliek werk immers nimmer tot het doel kan
+leiden, omdat een kind op de planken maar lesjes
+kan opzeggen, doch niet het leven laten gevoelen
+dat uit de oogen soms spreekt, maar niet wordt
+gezegd door de lippen, zelfs deze onhandigheid
+is voor Beaubourg een uitkomst geweest. Inder
+
+daad een uitkomst ten kwade. Want de kleine Louis
+van dezen avond, met zijn (haar)
+tooneelbetooggebaartj s en psychische wijsneuzigheden was een van
+de hinderlijkste figuren, die men kan zien in een
+dramatisch werk, bij welks vertooning een waas
+van de reinste naïeviteit tot de onontbeerlijkheden
+behoort. Deze mlle. Morman was onaangenamer
+dan de uilige knecht Tinguy, daar het misschien
+te verdedigen zou zijn, de v&lt; rjchijning van dezen
+met niet anders dan doezelige trekken en uilige
+eigenschappen aan te geven. Er zijn mooie brok
+
+ken in dit drama, en het navrante wezen dat
+LugnéPoe van den echtgenoot heeft gemaakt,
+bewijst het voldoende brokken die sterk
+kunnen aandoen, ook bij de vertooning. Maar
+eveneens zijn er fragmenten, die als koud water
+komen vallen over het lijf van den door het
+droomleven van Li Vie Muette bevargene, die
+hem ongevoelig maken ook voor het mooie dat
+verder komt, en het geval van den kindermoor
+
+denden, zelf noodlottig om het leven komenden
+vader doet waarnemen met niet meer ontzet
+
+ting dan waarmede men de schokkende
+mededeelingen van een zekeren hedendnagschen moord
+volgt onder het gemengd nieuws in de dagbladen.
+Hofjesjuffrouwen verbazen zich daarbij over de
+gruwelen rondom haar, maar haar familieleden
+dia al wat meer in de wereld komen, stellen
+reeiïs meer belang in de vraag, of het de politie
+zal gelukken, den moordenaar te vinden. Ik
+ben ten glotte onaandoenlijk geworden bij La
+vie muette, en ik geloof, dat het de schuld
+van den schrijver is. Laat mij intusschen aan
+
+stippen, dat het voortreffelijk spel van Lugn
+Poe niet werd gesteund door dat van mUe. Desprès,
+die reeds bij haar eersten monoloog ontstemde
+door onhandige standen en gebaren, fouten, die
+in een fransche vrouw te eer opvallen ; en hoewel
+ik de mooie stem van deze actrice, met haar
+rijkdom van bedoelingen, telkens heb bewonderd,
+is het mij niet gelukt, in haar praestatie een
+zuiver, ernstig, eenvoudig, naïef en spontaan ge
+speelde rol te zien. '/,. Z. '/..
+lllliiliillllllllinimiifiiiiMllllMHilllllllllllI
+iiMHMiHMiiiimiHiiimmiiiii
+Muziek in de Hoofdstad,
+
+Wij beleven moeilijke dagen! Midden in de
+verschillende stroomingeu van kunstsmi.uk en kunst
+
+wezen heeft de kritikus beurtelings de werkeu van
+die verschillende richtingen te beoordceien. Hij
+staat daarbij altijd voor bet lastiw geval dat wan
+
+neer hij een werk afkeurt om stijl of richti'g. hij
+in verdenking k'.nit zijn eigen kunstrichting als de
+eenige ware te willen opdringen.
+Ik kau dus niet genoeg herhalen dat ik mijne
+meening als geheel subjectief wensen beschouwd
+te zien, want hoezeer ik ook met hart eu ziel
+voor onze moderne kunst gevoel, toch heb ik
+eerbied voor de meeuiug van andersdenkenden eu
+daarom tracht ik mij zooveel mogelijk iu hun
+gcdachtengang te verplaatsen.
+Zoo voel ik mij geheel vreemd staan tegenover
+de Mis van Ilcüirich vou Herzogeuberg die 1.1.
+Zaterdag op de uitvoering vau de zangvereeniging
+van de Maatschappij tot bevordering vau Toon
+
+kunst voor het eerst werd ten gehoore gebracht.
+Wie dit werk doorleest zal met ingenomenheid
+de groote contrapuutiscbe kennis van deu compo
+
+nist ontdekken, hij zal bespeuren dat deze mis ge
+
+heel volgens bet patroon van de oudere missen
+bewerkt is. Behalve in het Xanctus waarbij de
+leider erg op moet passen dat het koor niet jolig
+gaat zingen, is een ernstige stijl betracht en iu
+sommige deelen o. a. in het Agnus Dei werden wij
+getroffen door den sehoonen klank.
+Bij het Credo is op kunstige wijze in de bege
+
+leiding eene oude intonatie beweikt, en wie het
+A'yrie doorleest niet het zoo gemarkeerde
+rhythmische begeleidingsfiguur moet dit nummer als
+bewerking zeer hoog stellen.
+Waarom kon dan dit werk hij mij en bij vele
+anderen sreen stemming verwekken ?
+Was het omdat het orgel iu het Kyrie en som
+
+mige andere deelen zooveel klank ontwikkelde, dat
+het de stemmen en bet, orkest dooddrukte? Was
+het door de weinige kleur die in het orkest is
+aangebracht, waardoor wij ons iu hoofdzaak aan
+contrapunt moesten laven?
+Waren bovendien sommige orchestrale effecten
+niet onjuist berekend, o, a. waar de zachte
+engelstemmeu het Cllaria aanhieven en waar de te sterke
+orkest-begeleiding den indruk verstoorde?
+Ziedaar zoovele vragen, die wellicht reeds het
+antwoord bi-vatten.
+Doch waar het geldt den ontvangen indruk te
+ontleden, kau het waarlijk wel eens billijk zijn dim
+door vraa-jteekens te geven. Want vraag eens
+aan zoovele meuscben, waar»m r/.ij voor sommige
+kennissen zoo weinig sympathie gevoelen, hoewel
+zij ten volle overtuigd zijn van hunne voortreffelijke
+eigenschappen ?
+Ondanks al die vraagteekeus, durf ik echter wel
+zeggen, dat, wauneer deze comp isitie een twintig
+
+tal jaren vroeger was gecomponeerd en toen ten
+onzent, was ten gehoore gebjacht, wij er voorzeker
+meer van zouden genoten hebben.
+Von Herzogenberg is eeu zeer productief com
+
+ponist. Deze Min draaft reeds het opusgctal S7.
+Wie nu onder zijne ruim 90 werken al die grootere
+compositieëu voor groot orkest (o.a. een strijkkwartet,
+2 strijk-trio's, verder trio's voor piano met strijk
+
+en ook met blaas-iustrumeuten, 9 groote
+vocaalwerken met koor, tal vau kleinere koorwerken en
+een zeer groot aantal liederen) ziet, begrijpt ook
+dat een beslist oordeel over dezen componist, na
+de kennismaking met dit ne werk, niet te g' ven
+valt. Wellicht zal hij zich in andere compositieëu in
+een ander licht aan ons voordoen.
+Heeft dit werk mij niet verwarmd, toch mag
+van de uitvoering zeer veel goeds gezegd worden.
+De vier solisten, de dames : M. Wilhelmy, Mina Minor,
+eu de heeren Carl Dicrich en Joh. Messchaert, gaven
+dezen avond in de Min, doch nog meer in Beethoveu's
+Xcyeni/e. een schoon ensemble te hooren eu het koor,
+dat sterkt r is bezet clan eeu vorig j;iar, heeft zich niet
+toewijding en zorg van zijn taak gekwetenendeedaan
+de werken alle recht wedervaren. Het glauspuut van
+i den avond was de Negende symphonie waarvan de
+orkestrale gedeelten bijzonder schoon werden weerge
+
+geven en waarin ons de natuurlijke, muzikale
+stroomlng frappeerde die dank zij Röutgen's schoone
+opvatting uau het werk zooveel glans gaf.
+liet koor gaf ook hier alle r.:deu tot tevredenheid
+wat zooals men weet voor dit werk een zeer
+groote lof.-praak inhoudt.
+Wat de vertolking betreft mag de Amsterrlamsehe
+afdeeling van toonkunst dus met groote voldoening
+op dezen avond terugzien evenals de heer liöutgen
+die zijne artistieke toewijding eu goede zorgen dien
+avond zoo beloond heeft gezien.
+In het Concertgebouw hebbeu wij een violist ge
+
+hoord die den meest cynischeu mu/.iekbeoordeelaar
+moet hebben verbaasd. Wie zou ni.'t versteld staan
+bij al die flageoletten, dubbele dito's, chromatische
+octavengaugen en verder vuurwerk in de variatiëu
+vau Paganmi, door deu solist Wiily Burmester uit
+Hamburg nog meer geïllustreerd. D &gt;cli het is niet
+vau het spel van deu ilnizen'H-unatcnttar doch wel
+vau den littiistfiinp-r dat 'k het meest genoten heb.
+lu het 7e concert van Spohr gaf deze solist eene
+zoo artistieke wedergavc dat hij daarmede dadelijk
+de hoorders in extase bracht.
+In dit werk toonde de solist, die met ongemcenc
+rust speelde, weinig neiging tot ell'-.-ctbejair, al ver
+
+zwijg ik niet dat in het A'/uqin de niet altijd juiste
+riiytlnuiek niet iu het voordeel van de vertolking
+was. Docli in het Air la B.ich werkte het te pas
+brengen vau dit elf-etbejig meer storend dan in
+het Ailni/io vau Spohr. /ulk een violist-virtuoos
+herinner ik mij echter niet, ooit gehoord te hebben.
+Van de zangeres m-j. Helene Jordau, leerares in
+deu zang aau de ilocliscbule te Berlijn, meende ik
+mij 1e heruincrjn dat zij vroeger wel eens
+Nederlaiidsche verzen in enkele steden van ons land had
+voorgedragen. Dat vermoeden kreeg meer zekerheid
+toen. ik hoorde met hoe juiste uitspraak zij een
+liedje in onzen taal zong. (Dolfti fur me.ate van
+W. Berger. Dit lied is vroeger iu dit blad be
+
+sproken.) Geen Duitsehe zou zoo korrekt onze
+gevaarlijke consonanten g en seh uitgesproken
+hebben.
+lu eene .trin vau Cavalli (1600—1070) met
+variatiëu vau L. Pagans konden wij de groote
+techniek vau da stem van deze dame opmerken,
+doeh in de liederen waarin vooral baar voortref
+
+felijk declamatie-talent aan liet licht k wam, toonde
+zij zich in het schoonste licht. ])er Xnxxliani» van
+Schumann en ll'nl,ni f van Sehubert waren iu dit
+opzicht liet schoonst.
+De lieer Mengclhcrg beeft iu den korten tijd
+vau zijn verblijf alhier reeds getoond een man te
+zijn die door zijn muzikaal voelen eu gezonde
+muz-kalc opvatting iu st.nat is deu hoorder te
+verfrisschen eu te verwarmen. (Dat is geene contra
+
+dictie!) Na. in het Concertgebouw zoolang iu liet
+keurslijf vau preciesiu'td en strenge berekening van
+ili'ecten eu kleur te hebben geleefd, is het voor
+ons eene verademing tegenover iemand te staan,
+wiens streven wil uitdrukken: ,, Miisik ist Gef
+hlssaehe".
+Of iu deze, opvatting o&lt;ik niet eene schaduwzijde
+schuilt, moet de 'toekomst leerni eu het, hangt ge
+
+heel van den tegenwoordigen leider af te bewijzen
+of daarvoor vrees bestaat of n et ; doch wie op
+dien avond gehoord hei ft hoe het orkest speelde
+en vooral ook hoc het begeleidde, zal dankbaar
+moeten erkennen dat v&gt; ij alle reden bobben veel
+goeds te verwachten.
+Eene muziekuitvoering met een kinderorkest
+bad ik in Amsterdam nog nooit bijgewoond.
+Ten voordeele vau het Nederlandsen Israëlitisch
+Jongens-Weeshuis werd die gelegenheid ons ge
+
+schonken. O;.der leiding vau den heer J. G. Biiio
+vau 's-Gravculiage voerden eenige jougejuff ouwen
+en jongeheereu uit Amsterdam Gounod's Melodie
+hij het Ie Preludium van Bach, (Gounod's naam
+was op het programma verzwegen, wat niet billijk
+is, want Bach heeft er alleen de begeleiding
+bijgemaakt!!!) en Loin dn Bul van Gillet uit. Wie
+de moeilijkheden aan zulk een uitvoering verbon
+
+den kent, zal het zeer gewaardeerd hebben dat de
+jeugdige nielomanen zoo zuiver en over het geheel
+met. zoo goeden streek spreiden. Daarvoor moet
+l eel wat gestudeerd zij u door deu heer Biuo. Ook
+aan den kleinen vioolsolist alle hulde!
+Beide genoemde goede eigenschappen waren het
+hoofdkenmerk vau deze uitvoering: Veel meer
+mag men natuurlijk nog niet verlangen. Alleen
+zou ik vragen wat betere r! ythmiek. De vertolking
+had zoo groot succes bij liet publiek (zelfs
+Lamoureux kan er zich niet op beroemen zoo te zijn toe
+
+gejuicht) dat de directeur de heide nummers Jiet
+bisseeren, waardoor het wel wat laat werd. Ik
+kon daardoor alleen de eerste afdeeling hooren.
+Met genoegen hoorde ik mej. Jeaune
+Jacobson twee aria's zingen. Deze dame is zeer vooruit
+
+gegaan en paart groote gemakkelijkhcid vau voor
+
+dracht aan groote vrijmoedigheid, waardoor zij uiet
+belemmerd wordt iu hetgeen zii presteereu kau.
+Wat voordracht betreft, vond ik de uria van
+Rossini gelukkiger dan die van Gomiod waarin soms
+vaak te sterke stemzetting aan de juiste ixpressie
+nadeel deed.
+De Liedertafcl: De vereenigde zangers zong met
+veel toewijding onder leiding vau deu heer Braudts
+Buys twee koren waarvan Des lleeren U nis van
+Boers het gelukkigst werd uitgevoerd. Le Chaiit
+t/e la fnfffe van Balthasar Florence eischt zeer veel
+van de zangers en hierin waren zij iu t- c misch
+opzicht niet overal even gelukkig.
+De componist die tegenwoordig was, toonde echter
+zijne ingenomenheid met de uitvoeringen duskan men.
+de zangers gelukwenschen dat zij de iuteiitiëu
+van deu componist zoo hebben weergegeven.
+De componist eu de b ide directeuren kregen
+kransen en mej. Jacobsou eeuige bloememiescbenker1.
+VAN MILLIGi-:s.
+i
+Camille Saint-Saëns.
+Over dezen componist loopen heel wat fantas
+
+tische verhalen en wel geven zijne exotische
+reizen daar aanleiding toe. Hij zelf zegt dat de
+doctoren hem iederen winter de warmere
+luchtstreken voorschrijven, doch iedereen gelooft dat
+hij voor zijn pleizier reist. Hij houdt van de
+tropische planten, de witte huizen, de Moorsche
+terrassen en het gezang van den Muezzin. Algiers
+is hem zeer lief, doch op Poulo-Condor is bij
+verzot.
+Poulo-Condor, waar de dwangarbeiders hui
+
+zen, waar de hagedissen, die een kam op den
+rug dragen en waar de reusachtige vleermuizen
+zich ophouden, trekt hem onweerstaanbaar aan
+en wanneer een al te tamme hagedis van zijn
+hals over zijn rug kruipt, vindt hij die g ap zoo
+aardig, dat hij het onmiddellijk aan zijn vriend
+Gallet schrijft.
+Saint-Saëns is niet alleen een der geleerdste
+musici, bij is ook een der muzikaalstegeleerden.
+Hij is evengoed wiskunstenaar, teekenaar,dichter
+en astronoom (in die laatste wetenschap moet hij
+bijzonder uitmunten) als musicus.
+Zijne brieven zijn geïllustreerd met voortreffe
+
+lijke teekeningen die een stukje leven geven uit
+de streek waar hij zich bevindt.
+Curieus is het voor zijne vrienden te lezen :
+»ïxcusez-moi si mon billet est court, mais Ie
+temps me manque" en op de achterzijde eene
+teekening te vinden, waarover hij minstens twee
+uur moet gewerkt hebben.
+Wanneer hij tehuis komt verzuimt hij nooit
+een brief aan zijn hond te schrijven.
+Het adres «Monsieur Top Kpagneul, chez son
+maitre a Paris" heeft de hrievenbestellers al vaak
+in verlegenheid gebracht. Die brieven zijn ee,bter
+alty'd evengoed terecht gekomen als indertijd de
+brief aan Boerhave in Europa.
+Toen Sarcey eens terloops in een van zijn
+tooneelkritieken over Siimnon et Dulila schreef,
+kreeg hij onmiddelijk van Saint-Saëns het vol
+
+gende ve:'sje :
+Qui m'eüt dit que pour moi vous fussiez amical
+Au point de devenir critique musical.
+Dit versje geeft echter geen beeld van
+SaintSaëns als dichter. Want hij moet werkelijk zeer
+schoone verzen gemaakt hebben.
+Het volgende versje schreef hij in Algiers:
+Quand Ie soir est venu puis l'ombre et Ie silence,
+Et l'Etoile dn ciel et celle du gazon,
+D'un pas lent et discret je sors de la maison
+Pour goüter Ie repos de la nuit qui commence.
+Je vais dans Ie jardin muet, sombre et désert,
+Une vasque de marbre y répand son eau rare,
+Don précieux ot pur d'une naiade avare
+Des insectes lointains, j'écoute Ie concert.
+Nul ne vient en ce lieu, pas de voix ennemies
+Qui troublent Ie silence et son hymne divin ;
+Et je bois a longs traits comme un céleste vin
+Le calme qui descend des branches endormies.
+
+Richard von P erger.
+Deze muziekdirecteur, eenigen tijd te Rotter
+
+dam die betrekking bekleed hebbende, is thans te
+"Weenen gevestigd, waar hij op aanbeveling van
+Brahms directeur van de Saiijacademie is ge
+
+worden.
+Bij eene uitvoering van Francisetts van Tinel
+behaalde hij als dirigent veel succes, doch later
+bij eene uitvoering van het Weihnaclits-Oratorium
+van Bach heeft deze dirigent zijn terrein geheel
+veroverd.
+Deze vereeniging die een weinig aan het kwijnen
+was is weer geheel herleefd. De oude koorleden
+worden weer jong en de jongen worden oplettend.
+Aldus meldt de Weener correspondent van de
+Frankfurter Zcitung.
+
+</text>
+<image timestamp="2002:08:21:06:26:11.00" size="400754">000003LA.TIF</image>
+</page>
+</document>

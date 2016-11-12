@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300628</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De cacaodrank. "_:;
+
+Wordt'gedronken met melk off spuitwater.
+IAUG. UILKEMA
+HALL KLOKKEN
+
+
+met gewichten en carillon
+
+
+fl. 125.—tot fl. 250.
+YAN RIJNS
+SMOSTERD
+Reguliersbreestraat^39
+Geeft Uw zoon, wanneer hij
+door zijn examen is, een
+
+Bureau-mlnistre.
+Reeds vanaf f 55.
+
+MOZES KNAP N.V.
+Oude Hoogstraat l, Amsterdam.
+Letterlijk alles
+op gebied van
+
+KAM PEEREN
+in grooten voorraad bij
+
+Z E l L l N G A
+
+Amsterdam C., ~ Pr. Hendrikkade 120
+Telefoon 41709—40717.
+Tenten - Lampen - Vlaggen - Kookgerei
+Opvouwbare stoelen - Bedden - Stokken
+Alles op kampeergebied.
+Vraagt onze uitvoerige prijscourant.
+MOBACO
+Bouw Speddooaea
+Zeer leerrijk en onderhoudend. Speelgoed
+
+N.V. BOSCH, HONIG &amp; Co
+DOMSTRAAT 6 - UTRECHT
+Ie 0TBECHT verkrijgbaar bij:
+N.V. Bosch Honig &amp; Co., Domstr 6.
+J. J. Seholdmeijer, Amsterd.str.w. 227
+In INDIÊverkrijgbaar bij:
+Toko Onderlinge Hulp, Weltevreden.
+Hanaelsoruk-werk- Periodieken -Catalogi
+
+
+
+JDrukkenj x lantijn
+
+
+
+Amsterdam
+
+
+
+Reclameorukwerk - Geloswaaroig Papier
+^
+fiOEDEWAAGEN'S
+HROONPIJPEN
+IN Gf SLOTEN DOOZEN
+
+VAN 6 STUKS
+!Abonneert U op: «^ &lt;*&gt; *• •* ~
+
+De Groene Amsterdammer
+r ^
+Houbaerillos 2% et
+
+Sigaren . . 5 et
+
+Met bons voor fraai*
+geschenken
+
+HOUBAER * Cm.
+Om te watertanden .... Patria Carltons .
+
+het nieuwe Engelsche txikvierk .... onweer
+
+
+staanbaar .... heerlijk bij de thee .... en
+Verzoeke bij opgave\
+
+
+van verhuizingen dui
+
+
+
+delijk te vermelden
+
+
+of deze tijdelijk of
+
+
+blijvend zijn.
+N.v. D. Hogenbirk &amp; Zoofl's
+
+IJZER- en STAALINDUSTRIE
+
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel, H-t2
+
+Conftnsctiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Rruggea,
+Kolommen, Reservoirs, enz.
+
+</text>
+<image timestamp="2002:09:21:19:54:48.00" size="290371">000008AC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180831</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'DÉAMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+31 Aug. '18. - No. 2149
+TttPÜTEli, ZELFS BESCWU6H
+DCH TEGEN ZEER ttOÖGE
+GeHCELCiEDËRLAMD
+TEOMTBIEDCrl.
+t.6l. Dtn (l&amp;AO.
+pas van dezen oorlog, die in alle strijdende
+landen het bewustzijn opgewekt heeft, dat
+«r nu zooveel productieve kracht vernietigd
+Is, dat de toekomst geheel zal afhangen van
+de kwestie, of na den oorlog met veel min
+
+der verspilling gewerkt zal worden of niet.
+Het is mogelijk het werkelijke verlies aan
+nuttig bruikbare energie te bepeiken tot
+. 15 pCt., zoodat totaal 85 pCt. van de warmte,
+dóordebrandstof ontwikkeld, nuttig gebruikt
+wordt. -Een gedeelte zal dan omgezet
+wor' den in electrisch of mechanisch arbeidsver
+
+mogen, terwijl de rest in den vorm van
+warmte gebruikt zal worden voor de ver
+
+warming van grootere complexen, voor het
+kooken, in drooginrichtingen etc. Zelfs de
+• warmte van het koelwater der motoren of
+van hunne afgewerkte gassen kan nuttig ge
+
+bruikt worden voor het verwarmen van
+stoomketels, voor badlnrichtingen etc.
+* • Ia het algemeep kunnen de industrlen,
+dj« kr«cbtwerktuigen gebruiken, in drie
+groepert verdeeld worflen:
+1. In die bedrijven, die veel kracht ver
+
+bruiken, maar weinig warmte. Hiertoe be
+
+hooren o.a. de spinnerijen, eleetrische cen
+
+
+tralen, Ijsfabrieken, constructiewerkplaatsen,
+wals werken en deeledtrochemischeindustrien,
+die met behulp van de electrischen stroom
+aluminium, calciumcarblde, stikstofverbin
+
+dingen uit de stikstof der lucht, etc. maken.
+2. In de bedrijven, die veel mechanische
+kracht noodig hebben en tegelijk veel warmte
+voor het drogen. Hiertoe behooren o a.
+napier-, cellulose-, aardappelmeel-, textiel
+
+fabrieken, brouwerijen, enz.
+3. In de bedrijven, die veel stoom noodig
+hebben voor de verwarming en weinig voor
+kracht. Dit zijn o.a.: Wasscherijen, verve
+
+rijen en appreteerinrichtingen,
+badinrichtingen, suikenfabrieken en- raffinaderijen, gist
+
+en spiritusfabrieken, IQmfabiieken,
+briketfabrieken, centrale verwarmingen, etc. etc.
+De tweede groep kan bulten beschouwing
+blijven, daar hiervoor de installaties zoo
+berekend kunnen worden, dat alle warmte
+in het eigen bedrijf nuttig gebruikt wordt.
+Het ligt voor de hand, dat fabrieken uit
+de eerste en tweede groep tot combinaties
+vereenlgd moeten worden. Dit gebeurt reeds
+dikwijls in de textielindustrie, door een
+spinnerij en weverij te combineeren met
+appreteerderlj en ververij, zoodat eerst de
+stoom gebruikt kan worden in de
+krachtmachine, zoolang tot hij den hoogen druk
+verloren heeft, terwijl daarna in de rest van
+nat bedrijf de warmte nuttige toepassing
+kan vinden. Op gelijke- manier kan een
+meelfabriek, met zijn groot verbruik van
+mechanisch arbeidsvermogen gecombineerd
+worden met een gist- en spiritusfabrlek (die
+ook granen en zetmeelhoudende stoffen
+gebruiken), die veel warmte noodig heeft.
+In Cultachland worden met eleetrische
+IlillllllllllllHlllmillllllllHIIIIIMIIIIIIIIIIIIIIIMIIIIIIItllllllllll
+centraten, die natuurlijk alleen mechanische
+energie omzetten in eleetrische, drogerijen
+voor groenten, aardappelen etc. verbonden,
+die de anders verloren warmte nu nuttig
+kunnen gebruiken. Verder bestaan er vele
+voorbeelden van het gebruik van de
+overschietende warmte van eleetrische centralen
+voor de verwarming van woningcomplexen
+in de buurt. Bekend is het voorbeeld van
+van ondernemend man, die de Abdampf"
+een een groote Duitsche eleetrische centrale
+kocht om ze te gebruiken voor de verwar
+
+ming van een hüizencomplex, waarin hij
+(natuurlijk onder vast contract) voor eigen
+rekening alle toestellen voor de ver warming
+liet aanleggen en toch nog 16 pCt. van het
+erin gestoken kapitaal kon maken.
+Terwijl de eleetrische energie op
+goedkoope manier over groote afstanden vervoerd
+kan worden, laat het zuinige vervoer van
+warmte nog veel te wenschen over. Men
+rekent dat de stoomleidingen niet langer
+mogen zijn dan ongeveer een kilometer,
+terwijl de warmwaterleidingen een lengte
+van drie kilometers mogen bereiken. Hieruit
+volgt dus, dat de fabrieken, d ie tot de eerste
+groep behooren, geplaatst moeten worden
+in de buurt van die van de tweede, daar
+de plaats van deze in vele gevallen door
+bijzondere factoren bepaald wordt. In het
+bijzonder geldt dit, als de warmte van
+fabrieken van de eerste soort gebruikt moet
+worden voor de verwarming van groote
+gebouwen. In enkele gevallen was het reeds
+mogelijk door toevallige nabuurschap om
+de verloren warmte van een eleetrische
+centrale te gebruiken voor verwarmings
+
+doeleinden in een groot ziekenhuis, maar
+wil men systematisch verlies aan warmte
+voorkomen, dan zal voortaan de plaatsing
+van dergelijke fabrieken en de keus der
+machines dienen af te hangen van de te
+verwarmen complexen, zoodat, in strfld met
+.alles wat vroeger hieromtrent scheen vast
+te staan, die fabrieken op geringen afstand
+der gebouwen gezet moeten worden. Aan
+
+nemende, dat geen geraasmakende machines
+aanwezig zijn en men van de moderne
+vindingen tot weering van allen overlast
+gebruik maakt (b.v. door vermijding van
+alle roetvorming en het toepassen van
+kunstmatigen trek in plaats van hooge
+schoorsteenen), zullen de bezwaren hiertegen wel
+overwonnen kunnen worden.
+Van de bestaande eleetrische centrales
+kan langzamerhand gebruik gemaakt worden
+om in de naburige gebouwen goedkoop te
+verwarmen (Zooals de Centrale Keuken op
+de K ad ij k in Amsterdam reeds warmte van
+de Amsterdamsche Centrale krijgt.) Het nut
+
+tig gebruik maken van de afvalwarmte is
+echter zoo'n volksbelang, dat in
+Duitschland voorgeslagen is om speciale
+toezichtslichamen in het leven te roepen, die ge
+
+vormd zullen worden uit alle belanghebbende
+groepen en die ervoor zullen waken, dat
+geen verspilling van warmte of energie
+voorkomt. Deze zullen dan te beslissen
+hebben over combinatie van allerlei bedrij
+
+ven, wat betreft de voorziening van warmte
+en kracht en de verzoening van de diverse
+belangen, die in vele gevallen schijnbaar
+strijdig zijn.
+Wordt zoo'n plan verwezenlijkt en heeft
+dus feitelijk de overheid sterke
+meezeggenschap in deze dingen, dan is dit voor de
+NAAMLOOZE VENNOOTSCHAP
+
+MotordienstvanTetenburg
+DAGELIJKSCHE MOTORDIENST
+UTRECHT LEIDEN DEN HAAG DELFT
+Vteutenscheweg. UtrathtscheveerZG. FynjékadeS. HouttuinenS
+VICE-VERSA
+IIIIIHI	iiiiimiiiMiiiiiiiiiiiimtmimiiii
+leiding der fabrieken wel een groot be
+
+zwaar. Het economische belang om, de
+vooihanden bezittingen aan energie zo
+zuinig mogelijk te gebruiken, kan echte
+zoo'n druk uitoefenen, dat men zich ten
+slotte toch erbij neer moet leggen om
+goedkoope productie mogelijk te maken. Naast
+de speculatieve factor zal een economischer!
+moeten werken, die mede de plaats en de
+inrichting van het krachtstation der fabriek
+bepaalt. Een prettig vooruitzicht is dit niet
+en om aan inmenging van buiten te ont
+
+komen zal er voor de leiders op den duur wel
+iets anders opzitten, dan uit eigen beweging
+te trachten om de afvalwarmte (en andere
+afvallen) een nuttige bestemming te geven.
+Misschien komt het dan nog wel eens
+zoover als met de sodafabrieken, die het
+systeem van Leblanc volgden en die in
+Engeland door de wet gedwongen werden
+om het lastige afvalproduct chloorwaterstof
+op te vangen, en later alleen den strijd
+tegen de fabrieken van Solvay konden vol
+
+houden, omdat uit dat afvalproduct het
+waardevolle chloor en bleekpoeder gewon
+
+nen werd. J. F. v. O.
+llUimilllMIHHMI iillllMMIIIIIIIIIIIIIIIllllllIIII
+iitiiimiiiiiiiiniiiiMiiiiimiitMitiiiiiiMiiiittiii'iiiii
+iimniiiiiiiHimiMiMiiiiimiiiiHi
+N.V. Eerste Nederl.
+DROGE ELEMENTEN
+Tal Intnrp H Rflnn Hoofdvertegenwoordiger: TECHN. BUR. MARYNEN - Den Haag
+l PI. IIHOIU. l», uuuu Telegram-adres: ENEF, DEN HAAG
+
+Hypotheek
+PARTICULIER en BANKKAPITAAL tot elk bedrag tegen
+billijke rente beschikbaar, voor solide posten.
+Inlichtingen verstrekt de Makelaar
+S. C. van Waalwijk van Doorn
+Singel 64- (hoek Tweede Tuinsingel)
+Telefoon 181, Schiedam
+ZEEOER DEENIK en JULKJS
+PALACHE, Makelaars, zullen op
+Maandag 9 Sept. 1918, des
+avonds- na zes uur, in het Verkoop
+
+lokaal Frascatie", ten overstaan
+van den Notaris TH. RUYS Qzn.,
+in veiling brengen:
+No. 1. Een Heerenhuls met
+open Plattta en Erve, aan de
+
+LELIEGRACHT 25
+
+Kadaster Sectie E No. 3705, groot
+l Are 23 Centiaren.
+In den gevel bevindt zich een
+borstbeeld van den Dichter en
+letterkundige E. J.
+PQT. GIETER.
+Het perceel is onverhuurd en te
+aanvaarden na betaling.
+NOS. 2—4. Drie Woon- en
+of Winkelhnizcn, waarvan
+2 met zes en l met drie afzonderlijk
+verhuurd wordende Bovenhuizen
+en Er yen, aan het
+
+Zoutkeetspl.10-12-14
+
+Kad. Sectie M No. 2899, 2892 en
+3834, resp. groot 96 Cent., 96
+.Cent. en 93 Cent.
+NOS. 5 en 6. Twee
+Woonen 4»f WinkelhuLeen, met elk
+drie afzonderlijk verhuurd worden
+
+de Bovenwoningen en Erven,
+aan de
+
+Houtmankade 43en45
+
+Kad. Sectie M NOS. 2892 en 3838
+respect, groot 96 en 87 Cent.
+De huren der perceelen
+Zontheetsplein en Hout
+
+man kade zijn na l Janu
+
+ari 1916 niet verteoogd.
+Déperceelen zijn te bezichtigen
+des Dinsdags, Donderdags, alsmede
+optden Vetkoopdag van 2 tot 4 uur.
+J. D. HUYER, Makelaar, zal op
+MAANDAG 23 SEPTEMBER
+1918, in Frascati", ten over
+
+staan van den Notaris A. BONGA
+in veiling brengen:
+
+
+Het Huis
+met sousferrain, BEPAALD WA
+
+TERDICHT, tweeofzonderlijk ver
+
+huurde Bovenhuizen, open Plaats,
+Tuin met prieel, veranda aan
+den geheelen achtergevel en Erve,
+aan den
+
+
+Overtoom
+groot
+1 Ar« 85 Centiaren.
+1 Mei a.s. vrij van huur.
+Te bezichtigen Dinsdags, Don
+
+derdags en op den Verkoopdag
+van 2 tot 4 uur.
+WIHDSHEIMER MINERAAL WATER
+Prima Tafelwater met erkende geneeskrachtige eigenschappen tegen
+
+
+JICHT-RHEUMAT1EK-SLECHTESPIJSVERTCEBING SUIKERZIEKTE NIERLIJDEN.
+
+Alg.aanbcv. door H.H. Doktoren.VerkrQgb. bij eken Ie kl. Detaillist.
+
+Hoofddepöt voor Nederland: A. L E BELLE,
+Vroolitstraat 128, A'dam. Tel. Zuid 4266.
+Wegens staking van het bedrijf
+
+TE KOOP
+platte wagens, zijlwagens,
+piano-transportwagens,
+zandof kipwagens, tuigen enz.
+alles in uitstekende staat
+Adres: S1ICHTSCHE TRANSPORT MIJ. .LAOWERECHT 69, UTRECHT
+WABMOESSTBAAT.
+Resianranl den geheelen dag :•:
+-:• :-: -:- Dagelijks Concert
+Zalen voor Vergaderingen.
+Onderlmie Levensverzekering
+VAM
+= EIGKN HULP. =
+
+Y&amp;ravenhage, Kortenaerkade 3, Tel. flaag 2297,
+Op l October 1916 zijn belangrijk verlaagde tarieven
+ingevoerd, waarbij de volle winst aan de verzekerden
+blijft komen. Vraagt deze tarieven en gij zult Uwe
+Levensverzekering sluiten bij de O. L. v. B. H. • • •
+STENCILS
+SCHRIJFMACHINES
+CARBONPAPIER enz.
+Uit voorraad leverbaar bij
+
+Eerste Netferlandsclie Schrijfmachine Reparatie Inrichting
+
+TEL. c. 44 F R A N S L E M. AMSTERDAM
+Verkooplokaal De Zon"
+
+Singel 118-120 en Blauwburgwal 15 Amsterdam
+
+BELANGRIJKE VEILING
+op
+
+DINSDAG 10 SEPTEMBHR 1918
+
+en vele volgende dagen
+
+do r de firma \&gt;. «IJ-SEliMA.* &amp; ZOt», ten ov.
+rstaan van den Notaris J. JABl'llt», van kostbare en
+uitmur.ttnd onderhouden
+
+
+INBOEDELS
+
+waarbij uit de nalatenschappen van: wijlen den WelEd.
+Geb. Heer P. LAÏfGEItHïTIZES Lzn; wijlen
+Mejuffrouw A. Li, A. « RAMtëKU»; voorts ten
+verz-eke van de WHEd. Gestr. Heeren Mr. H, A. E.
+MODOKBMAN &amp; G. J. SAL.M, Curatoren in het
+faillissement der firma EKDMANN &amp; HI-THEY.
+den 1NBO» DEL, van den Huize ,,MEKWE««E"
+en de KAMTOOHMEUBELEN van gemelde firma
+te Amsterdam. Om. komen voor Juweelen, Gouden Sie
+
+raden, Zilverwerk, Galanterieën, Jachtgeweeren,
+Opgezette Vogels, Ant:quiteiten, Tafelserviezen, Porse
+
+leinen, Kristal, Glaswerk, Lijnwaden, Deventer e. a.
+Tapijten, Gordijnen, Sp'ecels, Pendules, ANTIEKE
+KRISTALLEN e. a. KRONEN,
+Bronzen- en Steenen Tuinbeelden,
+PIANINO's, ORGEL,
+Salon-, Eet- en
+Slaapkamer
+AMEUBLEMENTEN,
+waarbij kapitale eikenhouten EETKAMER.
+Antieke en Jttwderne MEUBELEN, eiker
+
+houten Telefooncel, kapitale mahoniehouten Vitrine,
+MUANDKASrEN (Lips, Milling, Pohlschioder e.a.)
+rieten Meubelen, Tuingoederen, BILJAttTS
+(Wilhelmina, Toulet), Kachels, Haarden, Fornuizen, Koperwerk
+en Boeken.
+BEZICHTIGING:
+Zaterdag 7 September Particulier,
+Zondag en Maandag H en » September
+Publiek van 1O tot 3% uur.
+Catalogus a 85 cent, vanaf 5 September verkrijgbaar.
+Abonneert U op het
+Nieuw Algemeen
+
+
+Effectenblad
+(50ste Jaargang)
+
+het meest uitgebreide
+financieele blad ! Bevat o. m. vol
+
+ledige Prijscourant van
+alle op de Amsterdamsche
+beurs verhandeld wordende
+fondsen, waarbij naast elk
+aandeel het laatst uitge
+
+keerde dividend wordt ver
+
+meld; voorgestelde dividen
+
+den, prijscourant successie
+
+recht, uitlotingen, weekover
+
+zicht effectenmarkt enz enz.
+Zoolang de voorraad strekt
+ontvangen H.H. nieuwe
+abonné's de Tabel der laagste en
+hoogste koersen" 1917 gratis.
+Proefnummers op aanvraag
+gratis l
+Uitgave: M. M. OLIVIER,
+Rokin 70, Amsterdam
+D.v.Keipp&amp;Zn.
+IUEDEIVAIEISVOOR GAMES EU HEEREN
+Hoogewal 13-14
+DEN HAAG
+Telefoon 590
+Speciaal
+
+E1EISCHE STOFFEN
+Het Moderne lonsensmaaiiiiblad
+Vraagt uwen Boekhandelaar
+een Proef af! eve ri n g.
+BAARN
+Woning-Bureau van tien Makelaar on
+Taxatour
+H, J. VAN DUURSEN
+TELEFOON 266 - STATIONSPLEIN 2O
+Jo adres voor
+VILLA'» - HUIZEN - BOUWTERREINEN enz.
+OVERAL VERKRIJGBAAR
+Paviljoen van de Nieuwe of Litteraire Sociëteit
+O en Kurhausbar Scheveningen O
+
+|De RUBBIN-RUBBER-vloerent
+O in de zalen van bovenstaande inrichtingen^
+^ zijn gelegd en geleverd door de firma J&gt;
+
+l Jacs. S. WAISVISZ &amp; Co., i
+Wagenstraat 167, Den Haag. Telefoon 1119
+IVI /X f=9 IVI &amp; ff?;. W- E. Rfe«
+^•4^G^i^'^ii^C^0:.Ó^ 'li,:.
+AMSTERDAM ^ ROftERDAM&gt; UTRECHT. . ': .^f
+i» f i''' H" S.» a J'
+'PAU:''!*' :K T f
+tt r. v c » w* •
+llluatratlednih-papler van de Firma C. O. A. CORVEY. Keizersgracht 285, Amsterdam, Tel. M. 1202 en 585
+"i _A n	«_ ~" O J.-. J k.L._«M MM.«s.«femAAM RI1*»W1 •« H« ftlK Af C*fl.
+Typ. Amst. Boek- ei Steendrukkerl, voorheca Ellcrman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:23:17:57:33.00" size="471914">D10002ZR.TIF</image>
+</page>
+</document>

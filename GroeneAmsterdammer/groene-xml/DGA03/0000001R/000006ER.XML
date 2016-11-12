@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280324</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+mui i i7^
+rooie yAmsrerqommer
+voor Nederland
+
+
+
+
+
+Abonnementsprijs per jaar f 10.
+
+
+
+K El Z ER SG
+AMSTERDAM
+
+
+R ACHT 333
+.' - CENTRUM
+
+
+TELEFOON 3796-4
+
+
+HOFLEVERANCIERS VAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+MONSIEUR
+6 ERKELENS
+WIJNHANDELAREN
+
+ROTTERDAM-LEUVEHAVEN 34- Tel. 2456
+FILIALEN:
+DEN HAAG - Anna Paulownastr. 36 - Tel. 32532
+HELDER Hoofdgracht 37 Telefoon 83
+
+VRAAGT ONZE PRIJSCOURANT
+FEBRUARI 1928
+MEER DAN OOIT TE VOREN HEEFT
+
+CADILLAC
+DE LEIDENDE POSITIE, DANK ZIJ:
+EERSTE KLAS WERK,
+EERSTE KLAS SERVICE,
+ALGEMEENE TEVREDENHEID.
+K. LANDEWEER
+IMPORTEUR VOOR NEDERLAND DER
+CADILLAC EN LA SALLE AUTOMOBIELEN
+UTRECHT AMSTERDAM
+BILTSTRAAT 74 SINGEL 430/32
+EAGENTE VOOR ZUID-HOLLAND:
+HAAGSCHE AUTOMOBIEL MIJ.
+HA-KLOOSTERHUIS
+AMSTERDAM
+AMSTERDAM
+KALVERSTRAAT 156 LEIDSCHESTRAAÏ7S ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM UTRECHT NIJMEGEN
+TILBURG BREDA
+H
+eu
+PS
+or
+oei
+van prima Fransch Elastiek,
+
+$m N maag insluitend, maar recht van boven,
+kleur rose, 35 centimeter lanii, leveren wij
+onder GARANTIE
+
+lol heup wijdt e 100 c.M. nieuwen prijs l l-i.
+verder tot 115 c.M. ,, ,,15.
+
+Bij schriftelijke bestelling gelieve men als maat
+op ie 'geven de wijdte over breedste deel van de
+heupen, over onderklecding gemeten.
+Voorhanden een enorme
+-C/lastieken
+eu
+PS
+or
+oeL
+EXTENSIBLE"
+in Engelsche kwaliteiten vanal l -(.90
+
+idem in Fransche kwaliteiten vanal l 8.
+
+Alle door ons geleverde elastieken Heupüordels
+garandecren wi).
+
+</text>
+<image timestamp="2002:09:04:09:16:45.00" size="112593">000006ER.TIF</image>
+</page>
+</document>

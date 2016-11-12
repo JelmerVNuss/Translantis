@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130831</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk Verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 31 Augustus 1913
+DE LAATSTE DAAD VAN HET MINISTERIE
+Het Ministerie Heemskerk zal aftreden onmid
+
+dellijk na de opening van het Vredespaleis
+Dagbladbericht
+KOLKMAN
+CCLIJN DE WAAL MALEFYT REGOUT
+HEEMSKERK
+,Gaat in Vrede!"
+DE MAREES VAN SWINDERF.N TALMA
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:20:05:04:51.00" size="129503">D40000W8.TIF</image>
+</page>
+</document>

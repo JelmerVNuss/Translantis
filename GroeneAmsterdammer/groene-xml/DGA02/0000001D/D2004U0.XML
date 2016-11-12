@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320326</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 28éO van 26 Maart 1932
+prijs 20 cent
+
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C - telefoon 37964 * postgiro 72880 - gein. giro G. 1000
+QJASPSBOM^EL:
+KERK5TRAAT58
+AMSTERDAM
+N.VV/M
+
+H-A-KLOOSTERHUIS
+KALVERSTR.I78 dÜAMSTERDAM
+Bg begin van brand is het van het grootste belang
+dadelijk een middel bij de hand te hebben om het
+gevaat te keeren.
+
+De Snelblusscher
+
+HOLLANDIA
+is een der beste middelen
+
+Eenvoudig - Doeltreffend - Duurzaam
+Duizenden refi
+Honderden ongevraagde attesten bewijzen de
+goede werking onzer toestellen, zelfs na 22 jaren
+gevold bewaren.
+
+
+SPANJAARD 6 Co.
+Fabriek ESPANA" - UTRECHT
+BISCUITS .DE LINDEBOOM
+AMSTERDAM
+PRIMA KWALITEITEN,
+DE EDELSTE SMAKEN,
+DE HOOGSTE VOLDOENING
+
+</text>
+<image timestamp="2002:09:21:02:18:57.00" size="111333">D2004U0.TIF</image>
+</page>
+</document>

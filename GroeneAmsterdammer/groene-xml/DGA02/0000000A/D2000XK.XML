@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010602</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1249
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De liberale partij in Nederland.
+&amp;
+t!iiiili;!-i=^s^S^;i5:;2gs|ai	Eiii
+m\i}'*^r---:;:z~:Sii&amp;ïss££*^~~" ^™
+DE XEiiEKi.Axustnii MAAGD (met de itaiilu?): »0eh, kijk! ze noest nog een beetje. Ala ze tegen '24 Juni maar goed wakker is."
+Liquidatie, (l'Ik).
+De terugkeer van Waldersee. (Caran d'Ache in Fiyaro).
+i ^
+j Winde-In n-iu.'üfnap.nire
+AïncUTV/as^e
+l u
+^•; .O-*-^ ^
+/ ' ''"~&gt;^ "«&gt;"..
+•='''—r^~^~ •**'»=J^
+.^. '•--^-O^
+DK GKN"i:i;A!.i--LMi - : .Mijn etr.igo hoop is nu roy op een. toeslag !"
+De n:;eawe chinees-, che muur. (/'./!.-'•. &gt;,':-,-,•- Voi U).
+. •** » * -r *
+*&gt;*•'" \ X*-*^ v
+? *. V'&gt;«&amp;»«r^S
+Om het vastgestelde einde van c'en Anglo-Boer oorlog niet te
+vergeten, schrijft Kitchener den datum op ds wir.den van zijn
+barak, 't Jaartal vult hij uit voorzichtigheid niet ir..
+O zoo! (Liutiije ii''i:ter).
+
+'jtn'.-'.v I!n;'!i\: ,ilou nu pir.dpüjk Oji n'.arliei. de I'sieire Kitcberer
+is immers ger.egen o ai vreuo r.iot ja te r/.aker."
+Het gevaarlijke karaal.
+Vox I!L!,II\\ : :.\!:oi! a!;oi ! I)i:e mannen ovtr bocrd ! '
+AI-'.I.II;: • Vervloekt gevaurlijk kanaal! ou j.e ma;-.r goed vast I;Ü!O\\MP.
+anders wordt je ook weggespoeld ;"
+
+</text>
+<image timestamp="2002:08:16:03:20:47.00" size="412712">D2000XK.TIF</image>
+</page>
+</document>

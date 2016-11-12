@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280519</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAM
+DEN HAAG
+INDISCHE CATALOGUS
+FRANCO OP MNVRAGE
+*****+******•
+«H**M«*W"M*4-W*B"0«M"fi"Wi
+
+D, HogenbirköZoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+Speciale «Meeting .Hekwerken en Draadaf«:hcldln9en, Diverae Vlechtwerken
+Tweede herziene en geheel
+omgewerkte druk.
+Aangevuld met
+patroonteekeningen
+door
+ELIS M. ROGGE en
+GEERTRUID DE GRAAF
+
+Prijs gebonden f 2.50
+De schrijfsters van dit werkje
+hebben een moeilijke taak gehad,
+maar ze hebben een leerboek
+samengesteld, dat zoowel door
+lijn tekst als 1oor zijn illustraties
+aan duidelijkheid niets te
+wenschen overlaat.
+Uitgave van:
+VAN HOLKEMA &amp; WARENDOBF's
+Uitgev.-Maatsch., Amsterdam,
+Gaat bederf tegen.
+Boter, melk, vleesch enz. blijven
+steeds frisch, voor c.a. l dub
+
+beltje per dag aan stroom.
+•""Automatische werking"
+ZONDER WATERKOELING.
+Vele modellen in voorraad.
+kunt zelf tce-cream maken.
+l' Werkt slechts v. h.stopcontact.
+VOOR FLATS EN BOVENHUIZEN ONONTBEERLIJK.
+
+Voor AMSTERDAM Vijzelstraat 64
+Voor ARNHEM Nieuwe Plein 35
+
+Verkoop Organisatie Palthe
+KORTE VIJVERBERG 6, DEN HAAG
+TEL. 13579, TELEGR. VOP, BANK: DE TWENTSCHE BANK
+Automatische Amerikaansche
+electrische koelkast.
+Voor alle doeleinden
+NV
+Qiem.Kunstinrichting
+DirkSchnolMM
+ELIS M. ROGGE'en
+LOUISE H. WILDT
+lUNST-NtHEII
+Geïllustreerde handleiding
+ten gebruike van school en
+huis voor hetaanleerender
+technieken van kunst- en
+spoelweven op den
+handweefstoel.
+Handelsdrukwerk- Periodieken -Catalogi
+
+JJrukkerii x lantiin
+i * * i
+Amsterdam
+
+Reclameoruk-werk - Creloswaaroig Papier
+J. P. KARTHAOS
+8r. Markt - Haarlra
+TELEFOON 10052
+TRACHT
+alvorens Uw debiteur in rechten aan te spreken door bemidde
+
+ling van een Incassobureau, Deurwaarder of Advocaat,
+
+UWE VORDERINGEN
+door onzen invloed als het bekendste Handelsinformatiebureau
+in Nederland te laten incasseeren.
+Is gerechtelijke bijstand noodzakelijk, zoo hebben onze cliënten
+vrije keuze van Deurwaarder of Advocaat en blijven te maken
+kosten desgewenscht voor onze rekening.
+VAN DER GRAAF &amp;. GO.
+AMSTERDAM ROTTERDAM BRUSSEL
+onocRuncc
+v«n ticcn nus
+Ook gij zijt U niet bewust
+Lezer, wat U staat te wachten,
+Vreugd of leed? Wie dit wil achten,
+En zich hulp door eigen krachten
+Heeft verzekerd, leeft gerust!
+Onderlinge Levensverzekering
+.—van Eigen Hulp
+
+HOOFDKANTOOR:
+VGravenhage—Kortenaerkade 3
+ZEILINGA
+PRINS HENDRIKKADE 120 - Tel. 41709 -40717
+C A N O'S
+T E N T E M
+KAMPEER
+
+UITRUSTINGEN
+
+VRAAGT PRIJSCOURANT
+AM STER DAM
+Meubelfabriek ~ G. J. v. BENNEKOM,
+Huidenstraat 28 AMSTERDAM (C) Tel. 30913
+Kantoor-, Salon-, Eet-, en Slaapkamermeubelen,
+Betimmeringen. Clubfauteuils, Divans, Gordijnen,
+Karpetten, Linoleums, Kapstokken, Loopers, Matras
+
+sen, Wollen Dekens enz. enz.
+REPARATIE INRICHTING.
+Vakkundige bediening.
+Levert op gemakkelijke Betalingsvoorwaarden aan solide personen.
+EKINKJUgyERSIJM
+IJZERGIETERIJ EN
+TELEFOON
+No.56
+MACHINEFABRIEK
+TELECR.-ADR.
+,BAKEN"
+Indien U in een bestaande installatie
+
+wensclil aan te brengen, oi een
+nieuwe werkwijze wilt toepassen,
+stellen wij ons gaarne geheel vrijblij
+
+vend te Uwer beschikking voor het
+uitwerken vati Uwe projecten en hét
+begrooten der kosten.
+CHEMISCHEAPPARATEN
+IRtt
+
+</text>
+<image timestamp="2002:09:04:15:41:54.00" size="178984">000006KS.TIF</image>
+</page>
+</document>

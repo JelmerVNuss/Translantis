@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271029</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+R VAN 39 OCTOBER 1927
+No. 2630
+rANG- EN
+{TAALKAS
+Doelenstraat 20-22
+
+M ST ER DA M
+
+, f
+5.000.000.fonds f
+1.000.000.
+Jfemtoetp. «oor gelden deposito
+
+Direct opvorderbaar.... 2 pCt.
+Met 10 dagen opzegging 2 J
+
+Voor andere termijnen op nader
+overeen te kooien voorwaarden.
+; Open en gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit
+Holl. Voorschotbank
+
+LRLEM, KRUISWEG 70,
+c verstrekt gelden tot elk bedrag
+m van f 1000.—op zake
+
+en onder borgtocht, met
+eener polis van
+levensvergelijk bedrag, en verkoopt
+JtKanUbrfeven ia stokken vanf 1000.
+t- en f 100.- tegen beurskoers.
+hwadgevtag
+Koopt voor Belegging:
+
+P ANDBRIEVEN
+
+Bataaffsohe
+Hypotheekbank
+
+AMSTERDAM
+Rott. Hypotheekbank v. Nederland
+Opgericht in 1864
+Volteekend Maatschappelijk Kapitaal
+f 5.000.000..
+
+Verstrekt geld op eerste hypotheek.
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Ged. Bierhaven 25
+te R'dam of tot hare Agenten.
+
+De Directie:
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wijk,
+Mr. B. van Rossem.
+STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie!
+Mr. H. H. C. CASTBNDIJK en
+L MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem, Administratie- en Trnstkantoor
+4i%Pandbrieven tegen beurskoers alt.
+iniïiuiit
+ls verschuldigd voor reizen
+voor korterea duur dan I jaar.
+rtoico verbonden aan de luchtvaart
+' gritcenaeidspassagiers wordt eveneens
+vergoeding van extrapremie door de
+appU gedragen.
+RRNHEM
+Amsterdamsch Accountantskantoor
+
+Steenveldt Maasdam &amp; van Bijden,
+(Opgericht door Mr. E. J. KORTHALS ALTES).
+Leden v/h Nederlandsch Instituut v. Accountants.
+
+Roemer Visscherstraat l, AMSTERDAM, Telefoon 21660,
+Nederlandsche
+
+
+Handel ~ Maatschappij
+AMSTERDAM.
+
+Gestort Kapitaal	f 80,000,000.—.
+Statutaire Reserve	f 40,000,000.—.
+
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+
+Vestigingen in Nedcrlandsch-Indië, Straits-Settlemcnts,
+Britsch-Indic, China en Japan
+
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Aan- en Verkoop van Eflecten Administratie
+van Vermogens Open en Gesloten Bewaarneming.
+SAFE-DEPOSIT. KOFFERKLUIS.
+Inrichting tot het plaatsen van brandkasten. Speciale gelegenheid
+tot het huren van afzonderlijke klujzen voor groote administraties.
+BERNARD HOUTHAKKER
+98 ROKIN- AMSTERDAM
+
+Permanente Tentoonstelling
+
+van Oude Schilderijen
+
+Gravures Etsen Teekeniogen
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 14 - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+DEAW5TEBDAM5CHE
+\
+Maatschappij van Levensverzekering is gevestigd te
+
+
+Amsterdam, N. Spiegelstraat 17, en te Soerabaja,
+
+
+Willemskade 3.
+
+
+Haar sterke reserves en haar bijzonder gunstige
+ver
+
+zekeringsvoorwaarden bieden aan haar polishouders
+
+
+groote zekerheid.
+te WASSENAAR,
+
+geeft inlichtingen voor aankoop V IL L A' s en
+
+VILLATERREINEN in de parken te Wassenaar.
+
+- Inlichtingen J. TH. WOUTERS,
+Telef. 71471 Leidschestraatweg 648.
+
+</text>
+<image timestamp="2002:09:21:23:43:02.00" size="221794">D10006YB.TIF</image>
+</page>
+</document>

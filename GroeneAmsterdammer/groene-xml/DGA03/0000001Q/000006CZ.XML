@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280303</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+s
+DE GROENE AMSTERDAMMER VAN 3 MAART 1928
+No. 2648
+J. D. STRUIJS 6 Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+BADKJkMEKINRICUTlEN
+zoowel eenvoudige als betere uitvoering
+G. J. DE KONINGSZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/L Gebr. BREEN
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+dcjeugd
+zich zwart als roer/
+/DAALMANS
+wascht hgi: goed!
+GOUDA TELEF. 95
+AMSTERDAM TEL 3334Q
+s CRAVENI-U\CE TEL. 7233O.
+Koldewey &amp; Corbière
+Leidschestraat 30 * Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+BEGRAFENISVEREENIGING
+
+R SAX Jt.
+P.C. Hooftstrmat 88 AMSTERDAM Telcf.: 20341. 34256
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+iiiimiiiiiiiiiiiiiiiiiiimiiiiimiiiiiiiiiiiiiiiiiiiiiiwiiiiiiiiiiiiiiiiiiiiiiiiiw
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers f
+mj on verkrijgbaar
+N. R. V. MONTA SCHOENEN I
+
+imiiiiniiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiNiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiniimniiH
+
+Wed JOHN GAY'S PICCALILLl
+BUJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 14 AMSTERDAM Tel. 42662
+MARMERWERKEN
+SCHOONNAAK-TUD
+isPALTHE-TUD
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:07:12:57.00" size="110659">000006CZ.TIF</image>
+</page>
+</document>

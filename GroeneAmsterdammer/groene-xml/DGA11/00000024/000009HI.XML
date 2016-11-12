@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300823</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 23 AUGUSTUS 1930
+Radio en Grammofoon
+De geschiedenis der kunstmatige
+filmbegeleiding
+door Lou Lichtveld
+DE film is in staat tot de mechanische repro
+
+ductie van. bijna alle gezichtsbeelden, zooals
+de grammofoon in staat is tot het mechanisch
+Teproduceeren van de meeste vastgelegde
+gehoor&gt;eelden. En reeds van het eerste begin af aan, dat
+±ilm en grammofoon eenigszins dragelijke prestaties
+Je verden, heeft men gestreefd naar een mechanische
+verbinding van beide, waardoor het mogelijk zou
+•zijn gelijktijdige gehoor- en gezichtsbeelden gelijk
+
+tijdig weer te geven door n gecombineerd mecha
+
+nisch proces.
+Men mag gerust zeggen dat de geschiedenis van
+•de klankfilm even oud is a!s de geschiedenis van de
+iilm-alleen of van de grammofoon. Maar een com
+
+binatie van beide kon natuurlijk alleen tot stand
+Jkomen toen n de film n de mechanische
+geluidsTeproductie aannemelijke resultaten opleverden.
+Eerst toen kon men zich geheel concentreeren op
+3xet ne groote probleem: van de volstrekte gelijk
+
+tijdigheid. En pas laat is men tot de ervaring
+:gekomen, dat het ideale resultaat niet te bereiken
+viel door een combinatie van grammofoon- en
+f Urn-apparaat, maar door een geheel nieuw procédé:
+•dat van de klankfilm.
+De eerste ontwikkelingsfase van de klankfilm ,
+«peelde zich dus af in een periode, waarin men
+trachtte tot een zoo-nauwkeurig-mogelijke samen
+
+werking van film- en grammofoon-apparaat te ko
+
+men. En de oudste poging hiertoe moet worden
+toegeschreven aan den Franschman Demeny, die
+in 1892 met zijn Chronophotophone" geluiden
+•en beelden poogde te combineeren, door middel
+van een tooverlantaarn en een phonograaf.
+Reeds vóór deze eerste poging tot
+synchroni•seering was men echter in Edison's laboratorium
+•de eigenlijke klankfilm zeer in do verte op het
+spoor. Daar maakte men al vóór 1890
+microscopisch-kleine beeldjes op een wals, die juist zoo
+werd afgedraaid als een phonografen-wals, terwijl
+-de toeschouwer door een loupe of een microscoop
+-de bewegende beeldjes moest bekijken, en het
+.bijbehoorende geluid middels een gelijktijdig
+daarmee afloopende phonograaf-rol kon hooren.
+Het geheel noemde men de kinetophotograaf."
+Voor practische doeleinden was dit apparaat
+intusschen uiteraard onbruikbaar, en toen bleek
+•dat de phonograaf-rol de beelden niet zou kunnen
+j-eproduceeren, bleef er slechts een derde mogelijk
+
+heid naast die verbinding van film- en grammo
+
+foon, namelijk dat de film ook gebruikt zou
+worden ter opteekening van het geluid.
+Toen kwamen de groote jaren dat n de film n
+de grammofoon ieder afzonderlijk zich zoodanig
+•ontwikkelden, dat de mogelijkheden aanstonds
+verdubbeld werden. En ook de historie van beide
+s merkwaardig synchroon geweest; in 1895,
+hetzelfde' jaar waarin Lumière de eerste bioscoop
+opende, bracht Charles Pathéde phonograaf van
+Edison uit, die hij met de kinetoscoop" verbond.
+Daar hij niet gemakkelijk nieuwe beelden kon
+krijgen, associeerde Pathézich toen met Joly, en
+ging toen ook eigen films maken. Kort daarop
+liet ook de Duitscher Oskar Messter zijn films
+jnet een phonograaf begeleiden; maar van een
+.eenigszins nauwkeurige synchrone muziek was
+.bij henj op dat tijdstip nog geen sprake.
+Het eerste patjnt dat daarop betrekking heeft
+was van Fransche origine, en wel een Tri-ergon,"
+'immers op naam vsn drie personen: Berthon,
+Dussaud en Jajivert. Het betrof een koppelinrich
+
+ting tusschen phonograaf en projectieapparaat.
+Daarna heeft in 1901 Gaumont een Engelsch
+patent aangevraagd voor een electrisch apparaat
+dat een synchrone werking van projectie- en
+phonograaf-motor zou waarborgen. Maar wel kon men
+daardoor gelijke snelheden bereiken, maar
+geens.zins storingen voorkomen, welke bijvoorbeeld
+konden ontstaan door het afbreken van de film
+of het verspringen van de phonograaf-naald.
+Na Gaumont hebben toen ook Thormeyer en
+Messter aan het synchrone drijfwerk allerlei ver
+
+beteringen aangebracht. Door middel van weer
+
+standen kon men kleine fouten tijdens het spelen
+herstallen, maar er bleef toch n groot gebrek
+bestaan: de snelheidsverschillen bij de projectie,
+die voor het oog nauwelijks merkbaar zijn, ver
+
+oorzaakten ook verschillen in de snelheid waar
+
+mede de grammofoon-plaat afliep, en daardoor
+onvermijdelijk ook de direct-hoorbare en storende
+verschillen in toonhoogte. Er was hiertegen aan
+
+vankelijk dan ook slechts n middel: de projectie
+
+snelheid aanpassen aan de constante snelheid van
+de grammofoonplaat. Hiermede waren de moei
+
+lijkheden slechts verschoven.
+En dan had men ook rekening te houden met
+de keerzijde van dit alles: het gelijktijdig opnemen
+van klank en beeld. Hieraan hebben behalve
+Messter nog tal van anderen gewerkt, van wie
+vooral Guido Seeber moet genoemd worden. Hij
+is de vervaardiger van de Seeberophoon," die
+volgens de weidsche aankondigingen van 1904
+niets minder bracht dan Seebers lebende, singende,
+sprechende und musizierende Photographien."
+Al deze apparaten waren natuurlijk unica, en
+eeist vrij wat later bracht Messter als
+Synchrophon" een bereikbaar apparaat in den handel, waar
+
+bij een wijzer de te herstellen fouten in de gelijk
+
+tijdigheid aangaf. Aan hem komen wel de groot
+
+ste verdiensten toe voor de definitieve verbeterin
+
+gen in deze richting.
+Zoo worden tot op den dag van heden klank
+
+films gemaakt, die feitelijk niet anders zijn dan
+stomme films met synchrone grammofoon-muziek.
+De opname geschiedt meestal gelijktijdig, door
+een inrichting die de camera- en de grammofoon
+
+opname gelijke snelheid bezorgt. Soms worden
+ook beide achteraf eerst gesynchroniseerd, en wel
+meestal door de film bij te knippen."
+Terwijl men zooveel pogingen deed om een
+synchrone film- en gramofoon-reproductie te be
+
+werkstelligen, werd langs een geheel anderen weg.
+en met totaal andere middelen gepoogd om tot
+de klankfilm te komen, liet eerste patent dit
+betreffende was alweer van een Franschman,
+E. A. Lauste, die in 1906 oen patent in Engeland
+aanvroeg voor a new and improved method of
+and means for simultaneously recording and
+reproducing movements and sounds."
+Het meest integreerende deel van Lauste's
+apparaat was een inrichting waardoor de mem
+
+braan-trillingen van de microfoon konden worden
+omgezet in lichttrillmgon en omgekeerd. Deze
+trillingen werden nu vastgelegd op een filmstrook.
+Het geheel steunde op een belangrijke ontdekking,
+die Ernst Ruhmer vijf jaar tevoren had gedaan,
+op zijn beurt steunende op vondsten van Graham
+Bell, den beroemden uitvinder van de telefoon.
+Bell had namelijk gevonden, dat een spiegel
+die aan de microfoon-membraan bevestigd was
+een lichtstraal zoodanig in een selenium-cel kon
+doen vallen, dat door trillingen van die lichtstraal
+de weerstand van deze cel gewijzigd kon worden.
+Door nu een telephoon-hoorn met deze cel te
+verbinden, werden de lichttrillingen weer hoorbaar.
+Reeds op de wereldtentoonstelling van 1893 te
+Chicago kwam Bell met dit toestel, dat hij
+Radiophoon" noemde voor den dag. Door Ruhmer
+werden nu voor het eerst de lichttrillingon van
+te voren op normaalfilm vastgelegd, zoodat zij
+"op elk willekeurig moment door een constante
+lichtbron in de selenium-cel konden worden voort
+
+gebracht. De lichttrillingen waren op de film her
+
+kenbaar als intersiteitsverschiHen;
+Het merkwaardigste is, dat Ruhmer zelf de
+eigenlijke beteekenis van zijn uitvinding niet
+gekend schijnt te hebben, maar alleen dacht,
+daardoor een verbeterde grammofoon te kunnen
+maken. Artur Korn, de man die zich zoo verdiens
+
+telijk gemaakt heeft voor de beeldtelegrafie, bracht
+enkele belangrijke wijzigingen in het systeem van
+Ruhmer aan, waardoor men op de film in plaats
+van intensiteitsverschillen verschillende
+zwart-witstreepjes het zoogenaamde
+transversaal-procódékreeg. Volgens het essentieele van zijn
+systeem, wordt tegenwoordig nog gewerkt, maar ook
+deze pogingen, evenals die van den Hongaar
+Mihaly, den man van de televisie, hielden nog
+steeds niet rechtstreeks rekening met de klankfilm.
+Alleen Lauste heeft lang geleden daar wel aan
+gedacht, en het was zijn verdienste dat men
+later weer aan deze mogelijkheid ging denken.
+Een zijweg werd in 1909 door de Pineaud inge
+
+slagen, die voorstelde op de filmstrook ook de
+grammofoonplaatgroeven aan te brengen, zoodat
+een naald die lange de film streek middels een
+sound-box synchroon het geluid teweeg bracht.
+Door chemische middelen was de filmstrook
+tijdelijk wel zoo week te krijgen, dat de trillingen
+daarin gegraveerd konden worden. Maar het
+materiaal veroorzaakte zooveel bijgeluiden, dat
+men op de proeven niet eens verder doorging. De
+Pineaud probeerde ook langs magnetischen weg
+de trillingen in een staaldraad vast te leggen, en
+in 1928 heeft dr. Stille op dezelfde wijze de ge
+
+luiden in een stalen band vastgelegd, die hij in zeer
+geringe breedte langs de filmstrook liet loopen.
+Al deze zijwegen zijn ofwel doodloopend be
+
+vonden, of hun ontdekkers zijn nog onderweg.
+Het is dan ook heelemaal niet gezegd dat er geen
+geheel nieuwe methoden voor de vervaardiging
+en projectie van klankfilms binnen afzienbaren
+tijd zullen gevonden worden.
+De eigenlijke uitvinders van de klankfilm in
+haar huldigen vorm zijn drie Duitschers: H. Vcgt,
+J. Massolle en J. Engl, die steeds gemeenschappe
+
+lijke werken, en daarom hun uitvindingen
+TriErgon," werk der drie noemen.
+Eigenaardig genoeg, en wel een bewijs van hun
+oorspronkelijke denkbeelden, begonnen de
+TriErgon-mannen het eerst te werken aan de geluid?
+reproductie afgezien van de film. De versterkings
+
+lampen van de radiotechniek, die door Lee de
+Forest het eerst practisch bruikbaar werden
+gemaakt, zijn door de drie Duitschers in een nieuw
+systeem aangewend.
+Reeds in 1923 was Tri Ergon zoo ver, dat men
+tot openbare uitvoeringen kon komen. Ufa nam
+toen de licentie over, en ging met medewerking
+van Küchenmeister proeffilms maken, die haar
+echter later geen aanleiding gaven met deze com
+
+binatie door te gaan. In plaats daarvan is toen in
+1928 de Tobis" (Tonbild Syndikat) gesticht, die
+o.m. ook de Küchenmeister-groep omvatte.
+Küchenmeister was namelijk na de scheiding
+met Tri Ergon zijn eigen weg gegaan, en maakte
+klankfilms volgens het intensiteitsprocédé. Ook
+de oude Oskar Messter, de groote man der syn
+
+chrone grammofoon-muziek trad tot de Tobis toe,
+die thans dan ook ovengoed grammofoonplaten
+voor de film als eigenlijke klankfilms ging maken.
+Er wordt nu ook niet meer gewerkt met de
+seleniumcel van Ruhmer, maar met de zoogenaamde
+Photo-electrische cel", die intusschen toch op
+een gelijksoortig principe berust.
+Ten opzichte van de Duitsche ondernemingen
+bleef Amerika overigens niet ten achteren. In
+1923 bracht Leo de Forest zijn Phonofilms", die,
+waarschijnlijk door de aard van het voorgestelde
+geen publiek succes hadden. Warner Bros vormden
+in samenwerking rnet de Western Electric Company
+in 1926 de ,,Vita-phone," wier systeem wel een
+populair succes had. Een jaar later kwam ook de
+Fox-Case Movietone met succes concurreeren.
+Ook in Duitschlarid kwamen machtige firma's,
+die buiten de Tobis stonden rnet eigen verbete
+
+ringen en veranderingen van de klankfilm. De
+Lignose-Breusing" is bekend als eerste slachtoffer
+der Duitsche censuur op de Mank dor geluidsfilms.
+Uit Electrotechiiische oogmerken gingen Siemens
+en Halske en AEG, zich natuurlijk evenzeer voor
+de Duitsche klankfilm interesseeren als Western
+Electric voor do Anierikaansche. En Ufa is op de
+oude vergissing teruggekomen, heeft in Neu
+Babelsberg een der best geïnstalleerde klankfilm-ateliers
+gebouwd, en heeft nieuwe concurrenten in
+Enrelka" en andere concerns.
+In Engeland werkt Lee de Forest, zoowel voor
+
+de Amerikaansche General Talk in g Pictures Co.
+als voor de BHtish Talking Pictures" en andere
+kleinere combinaties. De meeste Franschc onder
+
+nomingen berusten op Tobis. Gaunront gaat zich
+echter voor een nieuw systeem interesseeren.
+Al deze combinaties en trusts zijn voor de
+nietingewijden moeilijk meer uit elkaar te houden, en
+niet meer van afzonderlijk artistiek, rnaar slechts
+van commercieel belang.
+Het voornaamste is, dat thans reeds honderden
+theaters in West Europa en Amerika verspreid zijn,
+waar dagelijks klankfilms vertoond worden, en
+dat de productie van stomme films thans reeds
+even zeldzaam is als die van klankfilms vijf
+jaargeleden. Sovjet Rusland heeft op haar nieuwe
+jaarprogramma do plaatsing van eenige honderden
+klankfilm-apparaten staan. De klankfilnr heeft
+do wereld stormenderhand veroverd; wanneer
+zal het procédéwaarop thans de klankfilnr berust
+dat van de grammofoon geheel verdringen:1
+
+</text>
+<image timestamp="2002:09:26:01:01:45.00" size="280829">000009HI.TIF</image>
+</page>
+</document>

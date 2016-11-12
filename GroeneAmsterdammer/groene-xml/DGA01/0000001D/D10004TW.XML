@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240105</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V.Wmilelv/hFa.GRUIID&amp;Ci,Utnicht
+'DE AM$TERDAMMER*WEÊKBLAD VOOR NEDERLAND
+No. 2429
+
+eNLlEIVMi tenever
+Fijne Likeuren en Punch
+M. P. POLLEN A ZOON * Rotordm
+VAN RIJN'S
+MOSTERD
+MQSTERDPOEDER
+8EOR6E H. LA6AS
+AMSTERDAM - Tttefwi 24811 • Aidrut B*instratt40
+Electfische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+
+BIJ
+
+DEVENTER K O E K l
+Blauw Keper Pakken
+en Magazijnjassen
+Het Vakkleedlng Magazijn
+G. B. A. MENSEN
+FaarldGarsteeg l, Haarlem
+Bouw- en Woningbureau van di
+N.V. Wenlnt-bureau T/D J. D. F.VAM
+DER VEEN, Kantoor van Vasti
+Qoederenjedinf f u Berkbtutttr.!.
+. LictiécS
+Voor alle doeleinden
+l NV
+l Chem.Kunatinrichting
+IDirkSchnobel
+Amsterdam.
+GEBAKKEN VAN DE BESTE ORONDSTOPPEN
+*
+w*
+STRIJDT TEGEN STIJL" NABOOTSING
+EN AMBACHTSBEDERF
+Afdeeling AMSTERDAM STADHOUDERS
+
+KADE 80 INGANG BECHT &amp; DYSERINCK
+Afd. BLOEMENDAAL VILLA SORGH-VLIET
+.1
+De N. V. Koek-en
+
+Banketfabriek
+
+HARTOC"
+Telefoon 23425
+Gerard Douplein 24
+AMSTERDAM
+fabriceert voor U alle soorten
+KOEK en BANKET
+bij groote kwantums zeer
+concurreer end.
+OOK VOOR EXPORT
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+Stoomwisscherij Kit Zuiden
+PIETER1EBTBZ8TBAAT68-74
+TELEFOON 22365
+li Uw ADRES vooi hit behan
+
+delen uwer waicb, zoowel droeg
+toegeslagen b opgemaakt.
+Con•urreerendt prQzen en spoedige
+aflevering.—Vraagt prQsopgavi.
+Aanbevelend HEIDiaft VAN ELVEN.
+ooa
+YKR
+RAADPLEEG VOOR UWE
+MEUBILEERINGEN
+
+STOFFEERING DE
+
+MEUBELFABRIEK L. 0. V."
+TE OOSTERBEEK. DEZE
+
+VENNOOTSCHAP GEEFT
+
+U DESKUNDIGE ADVIE
+
+
+ZEN EN LEVERT U EEN
+
+VERZORGD INTÉRIEUR.
+G. J. DE KONING Un. • Keizengmlit 447
+(voorheen LEI DSCH ESTRAAT 69)
+- MARMEREN WASOHTAFEL* «
+Lunchroom Franken"
+Groote Houtstraat bij de Markt
+= HAARLEM ===
+J. G. KORSTEN
+Sanitair Technisch Bureau, Koningsplein, Amsterdam
+Telefoon: 37132, 37133, 37134
+ALLEEN-VERTEGENWOORDIGING VAN:
+
+ROEDER's Kotelfornuizen en Kookinrichtingen
+Centrale Stofzulginrichtingen (Systeem Aerzen)
+GOOSEN &amp; 5WAGERMAN
+
+PIANO'S, ORGELS, VLEUGELS
+KUNSTSPELPIANO'S
+
+BOEKHORSTSTRAAT 149, 's-GRAVENHAOf
+INVENTARIS
+UITVERKOOP
+HEM BEZICHTIGE VOORAL
+ONZE 30 SPEC. ETALAGES
+DE BIJENKORF
+AMSTERDAM
+JACOBSON&amp;MANUS
+
+(MAISON DE BLANC)
+KALVERSTRAAT 128-130
+
+
+LIK W l DIEREN
+
+HUN VOORRAAD BEKENDE PRIMA
+TAFEL- KEUKEN-EN BEDLINNENS,
+LINGERIES EN TRICOTGOEDEREN
+BENEDEN ELKE CONGURREHTIE
+PROFITEERT VAN DEZE ZELDZAME GELEGENHEID
+
+</text>
+<image timestamp="2002:09:05:09:04:59.00" size="173200">D10004TW.TIF</image>
+</page>
+</document>

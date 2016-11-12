@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381008</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Hoe mijn Amerikaansche vriendin
+Amsterdam ziet
+NA haar bezoek aan Marken en Volendam voelde Dorothy er niets voor om
+weer direct terug te gaan naar Amerika. Als u vandaag of morgen ergens mid
+
+den op een plein een meisje met een grappig hoedje op ziet staan, dat heelemaal
+liet bang is voor fietsers en auto's, dan kunt u er zeker van zijn dat het Dorothy is,
+)0rothy die volgens Maud uit Chicago en Grace uit Buffalo absoluut crazy" is.
+Ze liep nog geen kwartier door straten en langs grachten, toen ze ontdekte dat
+J die oude mooie geveltjes, die door den doorsnee voorbijganger die niet zoo hoog kijkt,
+•rer het hoofd gezien worden, als het ware het ornament van Amsterdam zijn. En
+e maakte ook kennis met datgene, wat ze het rythme van Amsterdam noemde: de
+nmete'lijke stroomen fietsers, die ze nog nergens ter wereld zoo had gezien. Die
+kennisnaking was niet aangenaam, ze kreeg een stuk of zes onophaalbare ladders in haar
+óüsen-van-een-rijksdaalder en van een opkrabbelenden wielrijder eenige specimina te
+.boren van de Nederlandsche scheldwoorden, waar ze natuurlijk niets van verstond,
+Mht het was Amsterdamsen, en dat wist ze niet.
+"Be drijvende bloementuinen in het Singel maakten een onvergetelijken indruk op
+lijn vriendin. Ze veronderstelde dat de booten eiken dag op een andere plaats lagen,
+m toedoende als drijvende winkels bloemen langs de huizen te verkoopen. En omdat
+e het leuk vond Hollandsche bloemen op haar hotelkamer te hebben, kocht ze
+oor twee kwartjes een klein bloeiend cactusje.
+Onderweg was haar coiffure in de war geraakt, het was trouwens hoog tijd dat
+e naar een kapper ging. Bij den ingang van een kapperszaak ging haar hart open,
+«uit bij de deur zag ze een staf, geschilderd in de kleuren van de Amerikaansche vlag.
+Velk een voorkomendheid !
+Kep lekkere paling, lekkere dikke !" was de lokroep van een visscher die vast uit
+larken of Volendam kwam. Omdat Dorothy daar ook geweest was, voelde ze zich
+rel verplicht om een dikke" te koopen. Maar toen ze hem eenmaal had, wist ze niet
+;oed hoe ze er mee aan moest.
+Op weg naar het hotel terug viel het haar op dat er zooveel menschen zijn die
+spieeitjes aan stokjes buiten de ramen hangen. In die spiegeltjes zag ze soms gezichten,
+leest van oude vrouwen, die er blijkbaar een reden voor hadden, de voorbijgangers
+ade te slaan. Waren die menschen in een spionnage-organisatie ? Gebeurden er dingen
+p straat die het daglicht niet konden velen ? Volgens Dorothy kijkt men in een spiegel
+m zichzelf te zien. Om zoo stiekum te loeren, dat is toch onbehoorlijk ! Maar ja,
+sder land heeft zoo zijn eigenaardigheden, dat merkte Dorothy dan ook telkens weer
+pnieuw.
+.ekkere paling..."
+Het rythme van Amsterdam
+Even heimwee
+•f. ornament van Amsterdam
+
+</text>
+<image timestamp="2002:10:02:19:11:41.00" size="193163">D1000920.TIF</image>
+</page>
+</document>

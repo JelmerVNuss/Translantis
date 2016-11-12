@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19350504</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BAND MEIS3
+yoor &lt;/en spiegel staan,
+en beziet Uzelf ter dege.
+op het hierbij afgebeelde
+md meisje? Dan is de kans
+m DUIZEND GULDEN te
+•n / Dit bedrag ontvangt
+die de meeste gelijkenis
+Blue Band meisje vertoont!
+ns Uw foto (klein of groot,
+tt kleiner dan een pasfoto)
+veer dezelfde houding als
+ie Band meisje. Retouche
+teering, met de uitsluitende
+tg om de foto op het Blue
+ietsje te doen gelijken, is
+torloofd.
+Wie over de gelijkenis oordeelen zal? Een jury, bestaande de hoeren
+1 BERNARD VAN VLIJMEN, kunstschilder
+L. J. JORDAAN, kunstcriticus ' G.J. TEUNISSEN, cineast
+zal uit do inzendingen 32 foto's kiezen welke volgens, haar de grootste
+gelijkenis mét het Blue Band meisje vertoonen.
+leder van deze 32 uitverkorenen ontvangt vijftig gulden !
+Het Nederlandsche Volk zal nu door stemming uitspraak doen, wie
+van deze 32 inzendsters het meest op het Blue Band meisje lijkt
+De jongedame, die de meeste stemmen op zich vereenigt, ontvangt
+•**»,^«is33
+Alle &lt;oto«inzendsters ontvangen in ieder geval een verrassing! Vul nevenstaand bewijs
+van deelname in. en zendt dit, mét Uw foto, waarop aan de achterzijde Uw naam is
+geschreven, vóór l Mei 1935 aan de ,
+afd. Propaganda van de Unllever, N.V. - Postbox 760, Rotterdam.
+Vermeldt op de enveloppe de woorden: «Blue Band PrijevraagP -en let op onze
+verdere advertenties! '
+
+
+v
+
+«KRO
+fré's
+j
+23
+BB152-0234a
+SL_
+N.V. Am-:ar&lt;i. Bo»k- «n StMndrukk«ri| v/h Elltrnun, H:rm&gt; *'
+l
+DE SCHOONE SLAPER ONTWAAKT
+
+</text>
+<image timestamp="2002:10:26:18:42:48.00" size="586515">D3000JIF.TIF</image>
+</page>
+</document>

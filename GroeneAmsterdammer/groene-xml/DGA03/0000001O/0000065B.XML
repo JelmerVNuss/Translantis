@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251219</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2532
+j.
+JT. B. STRUIJTS &lt;&amp; Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+ditvsgt
+rue oeenjajpoea^efv.
+Ook. overh emdetudie vak?
+kundtgengoedojn
+gewasschen.
+K E EN TIIIK OED
+Wij garandeeren U,
+naast billijke prijzen, t
+keurige aflevering.
+Blank als 'n Lelie" :
+Vraagt ons tarief
+
+MODELWA55CHERIJ
+
+DB
+Alphen a/d Rijn.
+Koldewey£ Corblère
+Leidschestraat 30, Amsterdam
+Spieiaiiteit imSLAAPKAMERMEUBELEII, MiTRASSEN, DEKENS
+VAN
+HARTOO
+
+smaakt altijd
+N.V. Koek- eiTBanketfabriek
+HARTOQ
+Gerard Douplein - Amsterdam
+Anno 1887
+BEGRAFENISVEREENIGINGl
+Na A TT Tr»
+. zx .&amp; u r.
+l P.C HoottstrMt 38 AMSTERDAM Telef.: 20341,I41MI
+
+REGELING VAN BEGRAFENISSEN ENi
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN!
+ZUIVER WOLLEN-,
+HALF WOLLEN-,
+KATOENEN-, TRICOT-,
+R A M E H- EN
+NETON DEROOEDE REN
+» - Fabrikaat W. JANSEN
+Bö^rtefjdrfsstr
+Wegens uittreding van een der firmanten
+GROOTE UITVERKOOP
+met 20% KORTING a CONTANT
+Uitstekend geschikt voor Kerst-Geschenken
+ADR1AAH SCBAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar ~~'~^~~~
+N. R. V. MOMTft SCHOENEN
+Wed. John Gay's Piccalilli
+blijft het mosterdzuur met de fijne, pikante smaak !
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+(N.V. DE HOUTTUINEN") Amsterdam
+en Reisartikelen met garantie.
+Paleisstr. 45-47. Tel. 35013
+V.H. J. N. MULLER.
+KOOPT NU UW
+
+PETROLEUMKACHEL
+BIJ
+
+KEEPERS
+
+VOLMAAKT - VEILIG
+SOLIDE - REUKLOOS
+
+OUDSTE EN BESTE ADRES
+N.Z. KOLK 17 - TEL. 45373
+AMERICAN-HOTEL
+AMSTERDAM
+HOTEL &amp; CAFÉ-RESTAURANT VAN DEN l en RANG
+Oroote en Kleine Zalen voor Vergaderingen, Diners enz.
+Kleedermakerij naar Maat
+voor Damt!
+•D Huren
+H. K. E M IV E R
+voorheen Coupeur tl r Firma P, M. BROEKMANS, Koningsplein, Amstardan.
+B1LDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+Colbert Costuums van al .... r 65.—Moderne COUpB.
+Manteicostuums van af.' ..'.'' " es!—Prima afwerking.
+Stalen op aanv
+B. J.
+TUINAKCHITECT
+Gevers Deynootweg 117 Scheveningen
+Telefoon oOSlO
+
+</text>
+<image timestamp="2002:09:04:00:27:40.00" size="190063">0000065B.TIF</image>
+</page>
+</document>

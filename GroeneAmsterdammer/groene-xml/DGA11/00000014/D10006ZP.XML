@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271112</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 12 NOVEMBER 1927
+No. 2632
+J,:D. STRUIJS &amp; Zn.
+Prinsengracht 837 telefoon 37906
+Begrafenissen •- Crematie - Transporten
+V
+KfoMe zes-no$ even maar,
+En deMaggisSoe/i is Maar!
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. HooftttTMt 88 - AMSTERDAM Tetof.: 20341, 34280
+REG E LIN G VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers |
+BU ons verkrijgbaar |
+N. R. V. MONTA SCHOENEN I
+^IIIIIIIIIIIIIIIIIIIIIIUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIINIIIIIIIIIIIIIIiniINNIIIIinillllHlllim
+
+
+Wed JOHN GAY'S PICCALILLl
+BUIFT HET MOSTERDZUUR MET DE FIINE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOÉD'S FABRIEKEN
+N.V. DE HOUTTUINEN". AMSTERDAM
+VOOR EEN MAAND
+VOOR EEN WEEK-END
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg U - AMSTERDAM _ Tel. 42662
+MARMERWERKEN
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+BADKAMERIHBICIin
+zoowel eenvoudige als betere uitvoering.
+G, J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+DEN HAAG FERD.vVl.IET ARNHEM
+MANDEN ROTTINGENHOUTEN TUINEN5ERRE MEUBELEN
+E1GEH STEENSTRAAT11
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:01:34:35.00" size="199036">D10006ZP.TIF</image>
+</page>
+</document>

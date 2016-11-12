@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261023</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+***!*
+IJ,
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2577
+J* D* STRUIJS &amp; Znu
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+FIRMA J. G. MEIJER
+2 Markten - GRONINGEN - Opgericht 1706
+
+SPECIALITEIT IN
+ECHTE GRONINGER KOEK
+
+0^&lt;3&gt; van f L—t f 1*50» f 2.~ f 2*50» I3.~ enz.
+^^0 Franco per post 50 Cents v:rhooging
+FIAT AUTOMOBIELEN
+Agent voor het geheele Gooi: Auto Garage Kroijmans
+Soestdijkerstraatweg 66 HILVERSUM Tel. 306
+Bezoekt s.v.p. onze SHOWROOM en vraagt demonstratie
+PRIJZEN VANAF F 2500.—.
+Droste
+
+\ferpleegsterCacao
+Nimmer afwijkend
+in kwaliteit
+Altijd welkom
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+jpllllllllllllllllllllllHII[llll!l!llllllllllllllllllllllll!lllinillllllMI!lllllllllll^
+
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 j
+AMSTERDAM |
+
+Overhemden naar maat l
+™ Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar f
+
+N. R. V. MONTA SCHOENEN l
+« ~
+. = =
+IkiiiHiiiiniiiiiiiiiiiiiiiiiiiMiifiNiiiiiiiiiiiiHin^
+
+
+
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+
+N.V. DE HOUTTUINEN". AMSTERDAM
+GEORGE H. LAGAS
+AMSTERDAM * Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Ovcrveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermcubelcn Matrassen Dekens
+REEDERS'
+
+Hygiënische
+
+Petroleum-Kachels
+
+ZIJN
+DE BESTE
+
+VEILIG
+ZUINIG
+REUKELOOS
+
+Eenig adres:
+
+N.Z. KOLK 17
+
+AMSTERDAM
+
+REPARATIE- INRICHTING.
+VAN DUREN'S Corsettcn Magazijnen
+AMSTERDAM, Kalverstraat 136, Leidschestraat 78
+ROTTERDAM, Hoogstraat 243
+UTRECHT - HAARLEM - NIJMEGEN - TILBURG - BREDA
+FRANSCHE en ENGELSCHE Corsetten van geweven elastiek
+
+Ook de billijkste soorten zijn van PRIMA KWALITEIT en worden door ons gegarandeerd.
+Enorme keuze in verschillende lengten, soorten en kleuren.
+
+Prijzen vanaf FL 4J5 tot Fl.
+45.
+Deze geweven elastieken corsetten (niet te verwarren met die van plaatrubber) zijn even poreus
+als tricot en hebben daarom geen slechten invloed op de gezondheid.
+De zwaardere kwaliteiten doen bij regelmatig dragen den
+lichaamsomvang verminderen.
+
+</text>
+<image timestamp="2002:09:26:07:20:05.00" size="177106">D100081Y.TIF</image>
+</page>
+</document>

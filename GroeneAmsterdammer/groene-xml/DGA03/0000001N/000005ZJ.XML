@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251010</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2522
+VEILIGHEIDSDIENST
+door JOAN A. NIEUW ENHUIS
+
+Bij al de ellende, door de zuinigheidsdrift van
+dezen tijd teweeg gebracht, is er gelukkig ook wel
+iets goeds uit voortgekomen. Dat goede zou ik
+kunnen noemen: de aandrang tot herziening van
+zaken. Want bij dat ,,herzien" is het nu al
+meermalen gebleken, dat er toch wel het
+een-enander kon worden opgeruimd, zonder schade
+voor de zaak of het bedrijf. Het bracht zelfs de
+vraag naar voren of sommige afzonderlijke
+diensten konden worden opgeheven of vereenigd
+met een anderen tak van dienst. Daartoe werd
+gerekend te behooren: de brand-weer.
+Ook ik ben die meening toegedaan en wil nu
+de redenen daarvan ontvouwen.
+Daar ik bij mijne beschouwingen voornamelijk
+het oog heb op de Amsterdamsche brandweer,
+acht ik het noodig vooraf een beknopt overzicht
+te geven van het ontstaan van dat corps.
+Zooals heden nog in overig Nederland, bestond
+voorheen ook te Amsterdam een vrijwillige brand
+
+weer. Wellicht zou die er nog zijn, zoo goed als
+in Rotterdam, indien die vrijwillige brandweer
+niet tot zulk een janboel was ontaard, als omstreeks
+het jaar 1874 het geval was.
+De oorzaken van dien janboel te verhalen mag
+overbodig genoemd worden, waar dat zoo uit
+
+voerig is geschied in het gedenkboek van
+Amsterdam's brandweer door b. A. ZOETHOUT. Voor
+ons doel is het voldoende er op te wijzen, dat. dit
+de aanleiding was tot het oprichten van een
+beroepsbrandweer, die in werking trad op 15
+Augustus 1874.
+Die beroepsbrandweer was van den beginne af
+een zuiver militaire organisatie. Dat werd nood
+
+zakelijk geacht, omdat juist het gemis aan tucht
+en orde oorzaak was van het verval der vrijwillige
+brandweer. Het personeel werd in kazernes ge
+
+huisvest en heel de dienst op militaire leest ge
+
+schoeid. AHeen de bluschmiddelen bleven als
+voorheen. Het eenige nieuwe daarbij was, dat
+de spuiten en het personeel der hoofdwachten
+door bespannen wagens naar den brand werden
+vervoerd en er dus zooveel vlugger konden zijn.
+Maar er was een andere nieuwigheid van meer
+beteekenis: de alarmeering. Feitelijk was dat het
+eenige bizondere van de Amsterdamsche brand
+
+weer. Ook elders had men goede bluschmiddelen
+en niet minder flinke brandwachts. Maar nergens
+elders had men een zoo goede alarminrichting.
+Het was dan ook in hoofdzaak daarvoor, dat de
+jury der in 1875 te Brussel gehouden Exposition
+Internationale d'hygiëne et de Sanvetage, aan de
+Amsterdamsche brandweer de hoogste
+ondeischeiding verleende voor de organisatie vanhaar
+brandwezen, waarbij de laatste vorderinge_n op dat gebied,
+het telegraafwezen met den generalen seinsleutel,
+uitmuntend in toepassing waren gebracht."
+Wel haast een kwarteeuw bleet' dit alarmsysteem
+ongewijzigd. En daar ook in deze stilstand achter
+
+uitgang is, was na 25 jaar de brandalarmeering
+te Amsterdam niet meer ,,uitmuntend" en bijv.
+beneden die van Hamburg en Breinen.
+Dat begreep de toenmalige commandant J.
+Meier. Hij maakte, in overleg met een ingenieur
+van de firma Siemens en Halski' een plan op, om
+Amsterdam weer, als te voren, een stelsel van
+alarmeering te geven, dat in overeenstemming
+was met de eisenen van dien tijd.
+Geleidelijk kwam dat plan tot uitvoering,
+zoodat in het jaar 1901, bij de toen te Berlijn
+gehouden Internationale tentoonstelling van het
+brandwezen, aan Amsterdams brandweer, in het
+bizondcr voor haar alarmsysteem, opnieuw de
+hoogste onderscheiding -kon worden toegekend.
+En daarna kwamen er weer nieuwe verbeteringen
+Er werd gemaakt een veilighcidsschakeling,
+waardoor ook bij storing op het kabelnet, het
+brandschelteeken overkomt. En er kwam een
+toestel voor tijdaanwijzing en automatische
+kazernealarmeering. Ook een telefoon, die op de
+brandscheüen kon worden ingeschakeld. Ja, er
+is zelfs een begin gemaakt met een
+huismelderinstallatie.... En er zou nog veel meer gekomen
+zijn, als de wereldoorlog ook in deze geen ver
+
+traging had teweeg gebracht.
+Misschien is dit een geluk geweest voor de ge
+
+meentekas van Amsterdam. Want wie lust ge
+
+voelt om ook in deze materie liet volmaakte te
+naderen, kan steeds doorgaan. Zoolang de daar
+
+voor noodige gelden beschikbaar worden gesteld,
+is er altijd wel een vernuftig mensch en een
+pienter fabrikant, die daar raad op weet.
+Tijdens de genoemde Berlijnsche tentoonstelling
+en later te Londen, heb ik daarvan bewonderens
+
+waardige staaltjes gezien. Een der merkwaar
+
+digste was een straatlantaarn, ingericht voor
+brandmelding, vraag om politiehulp, genees
+
+kundigen dienst, den naastbijwonenden geneesheer
+en een taxiverhuurder....'Later zal dat gewis
+allemaal draadloos geschieden en wat er volgt.
+Maar nu is voor ons de vraag: behoort dit tot
+de taak der brandweer? Of is niet veeleer daarvoor
+aangewezen het telefoonbedrijf of een andere
+electrische zwakstroomcentrale, zooals dat in
+Berlijn het geval is en, naar ik meen, ook te Londen.
+Wanneer wij dus tot het begrip komen, dat het
+technisch beheer van den waarschuwingsdienst
+niet de taak der brandweer is, dan volgt de tweede
+vraag: behoort het tot den dienst der brandweer,
+advies te geven aangaande veiligheidsvoorschrif
+
+ten bij bouwvergunningen en toezicht te houden
+op de juiste uitvoering en naleving daarvan?
+Vóór die vraag te beantwoorden acht ik het
+gewenscht, nogeens een stukje brandweergeschiede
+
+nis te geven.
+
+In het verre verleden, toen de huizen voor een
+groot deel van hout waren en de bluschmiddelen
+uiterst primitief, was het de voornaamste taak
+van de brandweer, maatregelen te treffen ter
+voorkoming van brand. De brandkeuren" van
+dien tijd bevatte dan ook grootendeels voorzorgs
+
+maatregelen tegen brand.
+Die voorzorgsmaatregelen werden gaandeweg
+minder streng, naar mate er meer steenen huizen
+werden gebouwd en de bestaande houten huizen
+door gebouwen van steen werden vervangen. En
+toen eindelijk ook betere bluschmiddelen kwamen,
+dank zij vooral de slangbrandspuiten van Jan van
+der Heiden, werd brandblusschen steeds meer
+en het voorkomen van brand minder de taak
+deibrandweer.
+Ook toen in 1874 de beroepsbrandweer tot stand
+kwam, was brandblusschen de hoofdzaak. De
+organisatie van het corp" was daarvoor dan ook
+uitsluitend bedoeld.
+Dat duurde tot 1891, toen de heer W.
+Hoogenboom, destijds directeur van het abattoir, tor
+Commandant der brandweer werd benoemd.
+De heer Hoogenboom was van meening, dat de
+brandweer nog een andere taak te vervullen had
+dan brandblusschen. Zij moest het gemeente
+
+bestuur van advies dienen, in zake veiligheid bij
+huizenbouw en brandgevaarlijke inrichtingen.
+Maar bij het personeel der brandweer waren
+toen niet de daarvoor geschikte krachten. Daarom
+werd, op voordracht van commandant Hoogen
+
+boom, een ingenieur benoemd tot onder-comman
+
+dant, de genieofficier J. Meier. En deze was het
+die, later commandant geworden, met kracht
+in de richting ging van goede voorschriften om
+
+trent veilig bouwen en wat er verder mee in ver
+
+band staat.
+Al wat daaromtrent in dien tijd bii verordening
+van het gemeentebestuur van Amsterdam uitging,
+was in hoofdzaak zijn werk.
+
+Wat deed dan de gemeentelijke bouwpolitie?
+Er waren destijds een 5-tal bouwopzichters, die
+als onmiddellijken chef hadden.... den wethouder
+van Publieke Werken. Zij deden met elkaar de
+zaakjes af, zooals toen gebruikelijk was.
+Dat duurde tot het tijdstip, waarop een betere
+regeling van het bouwtoezicht te Amsterdam tot
+stand kwam en tot directeur van dien gemeente
+
+dienst werd benoemd ingenieur Tellegen, de latere
+burgemeester der hoofdstad.
+Van dien tijd af ging de leiding van het bouw
+
+toezicht, ook wat de veiligheid bij brand betreft,
+niet meer in hoofdzaak uit van den commandant
+der brandweer. Integendeel: bouwtoezicht kreeg
+steeds meer de leiding. Wel werd nog iedere
+bouwaanvrage naar de brandweer gezonden, om advies,
+doch dat gaf vaak meer vertraging in het afdoen
+van zaken, dan voordeel.
+Wat verklaarbaar is. Kennis van de eischen der
+veiligheid, ook voor brandgevaar, is ia Jen loop
+van den tijd verkregen door lederen ingenieur of
+architect, die er prijs op stelt deze kunde te bezitten
+De brandweerofficieren, die nu vakkundig advies
+geven, hebber, veelal pas na het aanvaarden van
+hun functie, die kennis verworven.
+Waarmee ik alleen maar zeggen wil, dat het
+geven van veiligheidsvoorschriften, ook voor brand
+
+gevaar, met gerustheid kon worden toevertrouwd
+aan het gemeentelijk bouwtoezicht.
+
+In aansluiting hieraan, acht ik het noodig nog
+iets te zeggen omtrent de zorg voor de juiste
+naleving van gegeven veiligheidsvoorschriften.
+De brandweercommandant Meier had daarvoor
+een heel afzonderlijken dienst ingesteld, den z.g.
+sc/io(iw(/i't'(isf. Daarb'ij gold de overweging, dat de
+meeste der gegeven voorschriften van weinig of
+geen beteekenis zijn, indien niet nu en dan wordt
+nagegaan, of zij getrouw worden nagekomen.
+Daarvoor werd destijd een plan van
+schouwdienst gemaakt, dat het mogelijk maakte de
+inrichtingen, welke daarvoor in aanmerking
+kwamen, door personeel van de brandweer van
+tijd tot tijd te controleeren.
+Door de uitbreiding der gemeente Amsterdam,
+die niet gepaard ging met een voldoende uit
+
+breiding van het personeel der brandweer en
+vooral, door tegemoetkoming aan de gerecht
+
+vaardigde wenschen van dat personeel om korter
+diensttijd, werd de uitoefening van den
+schouwdienst van dien aard, dat hij eigenlijk niet meer
+als afdoende controle in aanmerking kon komen.
+Omstreeks 15 jaar geleden heb ik daartegen al
+gewaarschuwd.
+Maar nu komt de vraag naar voren: kan de
+politie dezen schouwdienst niet even goed ver
+
+vullen als de brandweer? De mannen der brand
+
+weer, die tot heden dat werk deden, hadden te
+voren toch ook geen bizondere opleiding daarvoor
+gehad. Het betreft trouwens geen ander werk, dan
+nauwlettend toezien, dat gedaan is en vervuld
+wordt wat is voorgeschreven.
+Kan een politieman niet evengoed als een
+brandwacht controleeren, of een nooduitgang in
+orde is? Kan de inspecteur van politie, die
+'savonds ronde doet in schouwburgen en bioscoop
+
+theaters, niet even goed als een brandmeestcr
+toezien of de tooneelinrichtingen en de cabines
+der bioscopen naar eisch in orde zijn?
+
+Voor de waarschuwing en alarmeering zou dus
+gezorgd kunnen worden door het telefoonbedrijf.
+De veiligheidsvoorschriften bij bouwen en die
+voor brandgevaarlijke inrichtingen, kunnen uit
+gaan van bouwtoezicht.
+De schouwdienst worde opgedragen aan de
+politie.
+Blijft als taak der brandweer: het blusschen van
+brand. Het steeds paraat zijn om die taak naar
+behooren te kunnen vervullen, eenig doel.
+Waarvoor de stad Amsterdam te betalen heeft
+ruim 1.5 millioen gulden per jaar, waarvan meer
+dan een millioen aan jaarwedden van het personeel.
+Heeft zulk een kostbaar instituut, in dezen tijd,
+nog reden van bestaan?
+In dezen tijd, nu het brandgevaar geringer wordt,
+de waarschuwing voortdurend beter en de blusch
+
+middelen in steeds korter tijd ter plaatse kunnen
+zijn. In dezen tijd, nu ook andere gevaren dreigen,
+bijv. verkeersgevaar waartegen wij met niet
+minder kracht beschermd moeten worden, dan
+tegen brand.
+
+Zoo komt dan de gedachte naar voren, dat er
+een algermme veiligheidsdienst moet komen.
+waarvan de brandweer een onderdeel uitmaakt.
+Die veiligheidsdienst zou moeten omvatten:
+a. bewaking, b. verkeersregeling, c. reddingsdienst,
+il. brandblusschen.
+Voor de vervulling van deze diensten is geen
+afzonderlijk personeel noodig. Het hoofd van den
+algemeenen veiligheidsdienst heeft uit te maken,
+wie voor deze of gene afdeeling het meest geschikt is.
+Maar doel moet daarbij zijn, heel het personeel
+voor alle veiligheidsdiensten geschikt te maken.
+Een flinke stap in die richting is reeds gedaan
+in tiett Haai&gt;, waar politie en brandweer zijn ver
+
+eenigd.
+Voor Rotterdam zal het te zijner tijd vermoedelijk
+niet zoo moeilijk zijn, het Haagsche voorbeeld te
+volgen.
+Niet zoo gemakkelijk zal het zijn, in Amsterdam
+het begrip ingang te doen vinden, dat er nog
+iets beters mogelijk is dan de beroepsbrandweer
+der hoofdstad.
+Nog niet zoo vele jaren terug was ik die meening
+ook toegedaan. Maar het Haagsche voorbeeld heeft
+mij een ander inzicht gegeven.
+Toch heb ik ook in vroeger tijd, no« in functie
+zijnde, meermalen de gedachte gehad, dat een
+corps van uitsluitend brandblusschers steeds meer
+zal worden een organisatie van mannen, die in den
+regel weinig of niets te doen hebben menschen
+dus, die zitten te wachten opbrand, hun eenig werk.
+Destijd' heb ik er meermalen met commandant
+Meier over gesproken, wat gedaan kon wolden,
+om de manschappen voor het kwaad der ledigheid
+te behoeden. Daarvoor werden dan vele dingen
+bedacht en enkele ervan uitgevoerd. Een der
+nuttigste was wel, dat zij, die een handwerk
+kenden, in de gelegenheid werden gesteld dat uit
+te oefenen. Zoo kwamen er dan in de hoofdwachten
+werkplaatsen voor timmerlieden, schilders, smeden,
+enz. En daarvoor moest dan wei k worden gezocht,
+dat dan vaak aan vaklieden buiten het corps
+werd onthouden.
+Ook in andere richting is getracht het genoemde
+euvel te bestrijden. Er werd onderwijs gegeven,
+er kwam een bibliotheek met goede leestafel.
+Muz'ek en. zang werden beoefend e. m. d.
+Maar - daarvoor was toch immers het corps
+niet opgericht?
+Het denkbeeld van een algemeenen veiligheids
+
+dienst en als begin daarvan het samenvoegen
+van politie en brandweer, is in vroeger jaren niet
+geopperd. Ware dat wel het geval geweest, dan
+zou commandant Meier juist de man geweest zijn,
+om aan zulk een gedachte vorm te geven en haar
+tot een goede uitvoering te brengen. Want ook
+hij was van oordeel, dat het voor alles taak en
+plicht is van hem, die met de leiding van een open
+
+baren dienst is belast, daarmee het a:inzien der
+overheid te verhoogen. Dat geschiedt niet, door
+zich halsstarrig vast te klemmen aan het bestaande,
+doch wel, door nieuwe wegen te volgen, waar dat
+gewenscht en mogelijk is.
+Daartoe reken ik te behooren, het vereeni&lt;?en
+van alle openbare diensten, die ten doel hebben,
+de gemeenschap te leiden en te beschermen.
+
+</text>
+<image timestamp="2002:09:03:20:33:23.00" size="254248">000005ZJ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19201225</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zaterdag 25 December
+A°. 1920
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN K A MP
+Redacteuren: Prof. Dr. H. BRUGMANS, Mr. E. S. OROBIO DE CASTRO Jr., Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL en H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per No. f 0.25. Per half jaar f 6.25. Abonn. loopen per jaar
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Advertentiën 10.75 per regel plus 10 cent dispositiekosten
+/INHOUD: 1. Tubantia-Rediyiva, door Prof.
+Dr. G. W. Kcrnkamp Uitslag
+operetteprijsvraag Tijdgenooten: Donkere Gasten,
+door Dr. W. G. C. Byvanck 2. Kerstmis,
+teekening van Jordaan De Japanners
+in Californie, "door W. F. Kuhlmcyer
+Krekelzang, door J.|H. Speenhoff
+Buitcnlandsch Overzicht, door Prof. Mr. J. C. van
+Oven 3. Het roode lampje, door Dr.
+Frederik van Eeden 5. Heilige Nacht, door
+Andreas Latzko Hun Kerstfeest, teekening
+van George van Raemdonck -—Spoken, door
+H. Salomonson, met teekeningen van George
+van Raemdonck 6. De noodlottige gelijke
+
+nis, door J. de Meester, met teekeningen van
+Is van Mens Onze Pnzzle Onder de
+Kerststerren van Bethlehem, door Maurits
+Wagenvoort, met teekeningen van B. van
+Vlijmen 9. Het masker, door- en met tee
+
+keningen van Felix Timmermans Kleine
+Misères, door Minca Verster-Bosch Reitz
+11. Dramatische Kroniek, door Top Naeff
+De laatste eer door Mr. C. P. van Rossem,
+met teekeningen van Is van Mens 13.
+Uit de natuur : Hulst, door Jac. P. Thijsse
+14. Op den Economischen Uitkijk :
+Zonnewende," door Jhr. Mr. H. Smissaert 15.
+Boekbespreking, door v. O. en v. D. Dingen,
+die gebeuren,'door Aorta De Valsche
+Tennisprijs, door Jan Feitli, met teekeningen
+van Chris Kras 17. Voor Vrouwen :
+Roode besjes, door Elis. M. Rogge Kerstleys
+muziek van Rosy Wertheim De kleine
+Savoyaard, door Jo de Wit, met teekeningen
+van Sijtje Aafjes 18. Ruize-Rijmen ;
+Charivaria, door Charivaritis Uit het Klad
+
+schrift van Jantje Kleefoo," door F.
+de Sinclair, met teekeningen van Is van Mens,
+19. Honderd moedige mannen voor Wilna
+gevraagd, teekening van Joh. Braakensiek
+Muziek in de hoofdstad, door H. J. den Hertog
+Bijvoegsel : Engeland en Ierland, teekening
+van Joh. Braakensiek.
+llllfMIIIMMIMIUII
+TUBANTIA-REDIVIVA
+
+In Frankrijk eindigt alles met een
+liedje ; in Nederland loopen vele dingen
+met een sisser af.
+Herinnert men zich nog, hoe ganscli
+het volk" indertijd van verontwaardi
+
+ging heeft gekookt, toen de Tubantia
+werd getorpedeerd en de
+KoninginRegentes in den grond geboord?
+En zijn er op het oogenblik nog velen,
+die weten dat over het geval van de
+Tubantia nog een scheidsrechterlijke
+uitspraak moet plaats hebben en over
+dat van de Koningin-Regentes nog
+een definitief antwoord van de
+Dtiitsche regcering wordt ingewacht op een
+vraag, die onze Regeering daarover tot
+haar heeft gericht? of dat, indien dit
+antwoord reeds lang geleden is ingeko
+
+men, het publiek nog altijd niet weet
+wat er in stond?
+Het is waarachtig mijne schuld niel,
+wanneer de herinnering aan de gevallen
+van cle Tubantia en de Koningin-Re
+
+gentes geheel is vervaagd ; zoowel in
+dit weekblad als elders heb ik er dik
+
+wijls op aangedrongen, dat onze Re
+
+geering nu eens eindelijk lief weten,
+of er aan deze gevallen nog ,,gewerkt"
+werd.
+Eenig succes heb ik daarmede nooit
+gehad ; dank zij de stilzwijgende" me
+
+dewerking van de Nederlandsche volks
+
+vertegenwoordiging en de Nederland
+
+sche pers werd de zaak van de Tubantia
+mitsgaders die van de Koningin-Regen
+
+tes in den doofpot gestopt.
+En ik had mij dan ook al voorgenomen
+er nooit meer een regel over te
+schrijven, toen ik dezer dagen, tot
+mijne groote verbazing, eensklaps den
+naam Tubantia weer in de couranten
+zag opduiken.
+Immers, de Berlijnsche correspondent
+van De Tijd had bij het Duitsche de
+
+partement van buitenlandsche zaken
+geïnformeerd, hoe het stond met de
+zaak van de Tubantia.
+De overige Nederlandsche couranten
+namen het bericht uit De Tijd over ;
+maar omdat zij zich nooit eenige moeite
+hadden gegeven, de herinnering aan
+de Tubantia bij hunne lezers levendig
+te houden, moesten zij ditmaal de
+moeite nemen, die zaak weer op te
+halen.
+Zooals men zich zal herinneren,"
+begonnen zij, zoodra zij den naam Tu
+
+bantia hadden vermeld ; en dan volgde
+het relaas van wat er indertijd met de
+Tubantia gebeurd en naar aanleiding
+ciaarvan te doen was geweest.
+Dank zij dit relaas weten dan thans
+de lezers dezer couranten weder, dat
+tijdens den oorlog de Tubantia op de
+uitreis, niet ver van onze kust, is ge
+
+torpedeerd geworden ; dat in een der
+booten stukken van een
+Schwarzkopf-torpedo zijn gevonden ; dat na
+heel wat over-en-weer-geschrijf, de
+Duitsche regeering erin had toegestemd,
+de zaak te doen onderzoeken door een
+internationale commissie van scheids
+
+rechters ; en dal later, op verzoek van
+dezelfde regeering, was overeengekomen
+dat men de zaak zou laten rusten tol
+na de absolute ratificatie van den vrede.
+Dit alles was oud nieuws ; verrassend
+was alleen het antwoord, dat de corres
+
+pondent van De Tijd heeft gekregen
+op zijne vraag, hoc het nu eigenlijk
+met de zaak van de Tubantia stond.
+Men had hem aan het Duitsche
+ministerie van buitenlandsche zaken
+kunnen zeggen : heb maar gedtdd,
+vriend ; wij hebben immers afgesproken
+dat het scheidsgerecht zijne taak zou
+beginnen na de absolute ratificatie
+van den vrede ; welnu, die absolute
+ratificatie is nog niet perfect ; wij ver
+
+staan daaronder: een ratificatie door
+alle mogendheden, die aan den oorlog
+hebben deelgenomen ; en het zal u niet
+onbekend zijn, dat de Yerjenigde
+Staten nog geen vrede niet
+Duilschland hebben gesloten en nog minder
+dus den vrede geratificeerd hebhen."
+Bij de vindingrijkheid van de
+Duitsche regeering in het tornen aan
+verplichtingen, die zij heeft aangegaan,
+zou het niet verwonderlijk geweest zijn,
+indien zij zich van zulk een uitvlucht
+had willen bedienen om de zaak van
+de Tubantia ad ca'endas Graecas te
+verschuiven.
+Maar dit is niet gebeurd. Trouwens,
+de correspondent van De Tijd is de
+Nederlandsche regeering niet, en de
+man, die hem te woord heeft gestaan
+aan het ministerie van buitenlandsche
+zaken te Berlijn, representeert misschien
+de Duitsche regeering niet. Men zal
+wél doen, eenig onderscheid te maken
+tusschen wat aan den correspondent is
+gezegd en wat door de Duitsche re
+
+geering zou zijn geantwoord, indien de
+Nederlandsche zich tot haar had gewend
+in zake de Tubantia.
+Voorloopig kennen wij echter alleen
+het antwoord, dat de bedoelde corres
+
+pondent heeft gekregen op zijne vraag,
+hoe het met de zaak van de Tubantia
+stond ; het luidde : nog precies zoo als
+in het vorige jaar; die Entscheidnng
+liegt bei Holland."
+Heel duidelijk zijn de woorden niet,
+waarmede men te Berlijn den
+Nederlandschen journalist ik mag niet
+zeggen : van bescheid heeft gediend,
+want afgescheept schijnt het juistere
+woord,
+Maar zooveel zou men er toch uit
+willen afleiden, dat men aan het Duit
+
+sche ministerie van buitcnlandsche
+zaken meent: indien Nederland wcnschl
+dat de internationale commissie van
+scheidsrechters benoemd worde1 en hare
+taak zal aanvangen, dan behoeft het
+maar te spreken ; wij zijn er toe bereid.
+Wanneer deze uitlegging juist is,
+dan zou men de vraag willen stellen :
+waarom maakt de Nederlandsche
+regeering geen werk van het geval
+van de Tubantia?
+Acht zij het niet de moeite waard er
+nog op terug te komen?
+En indien men de mededeeling van
+den correspondent van De Tijd ten
+onrechte zoo zou interpreteeren, of
+wel indien er heelemaa! geen rekening
+mee behoeft te worden gehouden en
+er geen sprake van is, dat de schr'1
+van de vertraging der sc'n- 'dsrec'
+lijke uitspraak bij onze Rr 'rin i-.ou
+liggen, waarom zorgt de?.c •' .'. dat
+de couranten hiervan kemvu krijgen?
+Acht zij het zelfs niet de moeite waard
+een onjuisten indruk omtrent hare hou
+
+ding in deze zaak zoo er althans nog
+van ..houding" kan worden gesproken!
+---- uit te wisschen?
+Tot dusverre heeft het er den schijn
+van, alsof ook in deze aangelegenheid
+onze ministet van buitenlandsche zaken
+tegenover eventueele belangst ellenden
+den dooddoenei' gebruikt, dien
+Charivarius hem in zijn Ruizerijm van de
+vorige week in den mond legde :
+'t (iaat je geen bl. . . . aan '."
+De Tweede Kamer maakt het hem
+iu de/en niet moeilijk. Die doet pre
+
+cies, alsof de Minister gelijk heeft en
+hel l
+Prijsvraag vóór een Nederlandsche Operette
+
+Deze prijsvraag, waarvan de bedoeling was een goeden tekst te verkrijgen voor
+een Nederiands*che. Operette, om daarbij een speelbare operette-compositie te
+doen vervaardigen, heeft dertien librettisten aanleiding gegeven tot liet
+ter beoordeeling inzenden van hun werk. Voor het best gekeurde werk, in aan
+merking komende voor een bekroning, was een prijs van vierhonderd gulden
+beschikbaar gesteld.
+Ingekomen waren de operette-libretti onder de titels: DE VOETBALLERS ;
+VOOR HET OOG VAX DE WERELD ; FREULE O.W. | DE SECRETARIS VAX GORiXCHEM ;
+SASKIA ; DE FAMILIE KEGGE ; DE ZOOX VAN ALBIOX J BLANK EX ROOD ; DE
+TENN1SBRUID ; DE PLEEGDOCHTER VAN VADER MATHIEU ; PETER ; POPPEXMACHT C11 DE
+JONGE WILLEM BARENTS.
+De jury kon niet besluiten den prijs aan n der inzenders toe te kennen, maar
+heeft drie inzendingen aangewezen, die haars inziens in aanmerking komen,
+om mede te dingen in het tweede gedeelte van de prijsvraag : het componeeren
+van passende muziek bij een der uitgekozen lihretti ; deze zijn :
+1. BLANK en ROOD,
+2. POPPENMACHT,
+3. SASKIA.
+waarvan, hij opening der motto-omslagen, de auteurs bleken te zijn : 1. F. i. w.
+SAxr.Ei. en w. VUIJI.ANUT te AMSTERDAM ; 2. ?. A. BRUINSMA. notaris te UOLSWARD
+en 3. MR. A. T. vos, advocaat te APPINGEDAM.
+ten bedrag van honderd gulden is aan cl e auteurs van elke dezer drie inzendingen
+toegekend : bovendien wordt hun werk in twaalf afschriften vermenigvuldigd,
+ten einde de samenwerking met componisten te vergemakkelijken.
+De overige manuscripten liggen tot l Februari a.s. Ier beschikking van de inzen
+
+ders ten redactiebureele Keizersgracht 333, Amsterdam en kunnen, tegen over
+
+legging van het aanteeken-re-.u, worden afgehaald, of zullen bij inzending
+van dat rc.;u worden toegezonden.
+De auteurs dei' uitgekozen werken moeten thans in overleg treden met compo
+
+nisten, die bij hun werk passende muziek maken. De aldus te verkrijgen compo
+
+sities kunnen in een prijsvraag mededingen, waarin door ,,de Amsterdammer".
+in samenwerking met eenige kunstvriendcn. een prijs van
+Z E S H O N D E R D G U L D E N
+beschikbaar wordt gesteld v o o r d e n c o m p o n i s l, d i e, g e b r u i k
+m a k e n d e v a n e e n d e r d r i e b o v e n g e n o e m d e t e k s t e n,
+h e t b e s t e m u z i k a i e t o o n e e l w e r k v e r v a a r d i g t.
+De nadere regels voor deze prijsvraag, alsmede de sameiislelling der jury,
+worden in een der Januariiinmmers van de Amsterdammer" bekend gemaakt.
+Componisten, die overleg willen plegen met de auteurs der uitgekozen libretti,
+kunnen, zoo zij dat wenschen, hiervoor de bemiddeling van .,de Amsterdammer"
+inroepen.
+Ten slotte betuigt ,,de Amsierdammer" zijn bijzondercn dank aan de jury,
+de heeren EYERT CORNELIS, DR. FKEDEKIK VAX EEDEN, HERMAN ROEI.VINK, DR.
+D. F. SCHEURLEER en BF.RXARD zw'EERS, voor haren mocilijken arbeid.
+Voor De Amsterdammer. Weekblad voor Nederland"
+VAN HOLKEMA en WARENDORF. Uitgevers
+getoond ; en toch mag men niet zeggen, oorlog door handelingen der
+oorlogdat dit allci n een gevolg is vin de om- voerenden ter zee hebben geleden.
+standigheid, dat hare aandacht uil- Het is mogelijk dat in cle kringen der
+sluitend in beslag wordt genomen door belanghebbenden het werk dier
+comonderwerpeii, die tienmaal belangrijker missie genoeg/aam bekend is ; maar
+daar buiten blijkt er niets van. Wij
+hebben er indertijd reeds op gewezen,
+dat in de couranten zelfs niets is mede
+
+gedeeld, van il e rede. waarmede deze
+commissie door den Minister van Bui
+
+tenlandsche /aken is geïnstalleerd -
+men moet althans aannemen, dat dit
+laatste geschied is ; hij elke commissie
+van dien aard pleegt liet te gebeuren.
+Uit die red,e zou men dan nadere
+bijzonderheden over de eigenlijke taak
+der commissie hebben kunnen vernemen
+en b.v. een antwoord hebben kunnen
+krijgen op de vraag, of hel ook tot
+haai' werkkii' g behoor;, een onderzoek
+in ie stellen naar hel nog altijd niel op
+
+gehelderde geval van ik n ondergang
+tiet' Koningin-Regentes. Thans weet
+Bij de schriftelijke
+gcdaehtcnwisseling, die over de begrooting van
+Buitenlandsche /aken tusschen de Kamer
+en den Minister is gevoerd, heeft geen
+enkel lid de gelegenheid gebruikt om
+de vraag te stellen : en hoe staat hel
+nu met hel scheidsgerechi over hè!
+geval van de Tubantia?
+Evenmin heeft de Kamer van eenige
+nieuwsgierigheid doen blijken naar de
+vorderingen van het werk dei' commissie,
+die nu ongeveer een jaar geleden
+werd benoemd, en wier opdracht was
+een onderzoek in Ie stellen naar de
+aanspraken van Nederlanders op ver
+
+goeding voor schade, die zij in den
+DONKERE GASTEN
+
+Hoe moest zij hen noemen?
+Zij was het met zich/elf niet eens. Negers,
+nikkers of zwartjes?
+Maar behalve dat er in zoo'n term, ten min
+
+ste voor een deel. de verachting lag van een
+opgebleekte menschheid vuur degenen welke
+cle natuur met een fraaie oorspronkelijke
+ebbenhonten couleur had begiftigd, omvatte
+hij in een enkel begrip een ononderscheiden
+massa van personen, alsof zij een geheel vorm
+
+den, dat alleen telde door zijn quantiteit.
+Nu had zij zelf dien indruk gehad in den
+beginne, toen er in de nabijheid van hun villa
+zij en haar man waren van Parijs, maar zij
+woonden niet ver van St. Raphael in
+Provence, een groot kampement werd opgericht
+van Senegaleesche tiraillenrs die voor den mi
+
+litairen dienst weden opgeleid of voor herstel
+daarheen waren gezonden. Zij was
+doodsbevreesd geweest voor de rust van hun
+natuurleven in de heerlijke streek, ontheiligd uoor
+het overgroote getal van vreemde apen.
+Liepen er geen verhalen van inbraken,
+van kippenroof en,wat nog erger was,van over
+
+vallen op blanke vrouwen die ge wel d werden aan
+
+gedaan ! Alsof het feit van zoo'n zwarte inva
+
+sie op zichzelf al niet genoeg was ! Zij gevoelde
+zich niet meer secuur op haar wandelingen :
+zou zij zich durven omwonden en denbelager die
+haar hardnekkig volgde in 't gezicht durven
+zien? Was het niet beter ijlings naar huis te
+gaan?
+
+Lang binnen het- jaar was die stemming
+veranderd. L)e Senegaleezen met hun soepele.
+krachtige lichamen en hun vroolijke bewegin
+
+gen misstonden volstrekt niet in liet zuidelijke
+landschap ; integendeel, het werd geanimeerd.
+Zeker, men stal kippen in die dagen en men
+vond het gemakkelijk om de schuld te geven
+aan de Sciiegaleczcn, ook werd er wel hier en
+daar een vrouw gemolesteerd, maar niet
+tegen haar wil : zooals altijd hel geval is,
+slopen er veel vrouwen met verdachte oog
+
+merken om het soldatenkamp. l &gt;e l'roven
+calen echter, zoodra zijhun gekleurde gasten
+hadden leeren kennen, wisten uitstekend wie
+het booze opzet had gehad, /ij beschouwden
+die jonge mannen niet als wrecdaardigc dui
+
+vels, maar ais nieuwsgierige, uaieve en onge
+
+geneerde kinderen, /.ij schonken aan die zwar
+
+ten hun beste gezindheid.
+Mexrouw Cousturier, de l'arisiennc, die
+een lijvig boekdeel aan de Senegaicezeu
+lieert gewijd en die geen karakteristieken
+naam voor hen kon vinden, is er eindelijk toe
+gekomen om hen te noemen : ..Les nic-.in'iii:".
+Wat dient te worden vertaald niet met On
+
+bekenden, maar niet Ontkenden." Ai waar men
+vreemd tegenover staat, lokt uit tot onder
+
+zoek, tot tegemoetkoming.
+,.Li's iiiciiiiini* clic: mm" heeft zij als titel
+gekozen, liet is een symbool. De titel duidt
+aan het nieuw leven bij haar ingelijfd.
+In de villa, waarover wij spreken, diende ecu
+keukenmeid, die een volmaakte hark was,
+altoos ontevreden, alleen gehecht aan ecu
+kleinen kring van vooroordceleu. Op een dag
+kwam ecu Senegalees de keuken binnen en
+hielp haar bij het erwtjcs doppen, l lij stal
+haar hart in alle eer en deugd.
+
+Mevrouw Cousturier vraag! zich al, hoe dit
+plotseling opwellende gevoel in zoo'n bol ten
+geest te verklaren.
+Maar hebben wij allen niei door onze opvoe
+
+ding en omgeving een harnas om ons gemoeds
+
+leven heen gekregen en zijn wij niet tol stijf
+
+heid en botiicid veroordeeld? Laat liet vreemde,
+het avontuurlijke waarover wij ons geen
+mcening van te voren 'nadelen kunnen vormen,
+natuurlijk en goedig ons ie gemoet komen,
+zal dan het gesloten gevoel niet opengaan'.-1
+De be\voonsicr van de villa in de buurt van
+hel kampement deed allerlei ervaringen op die
+haar al meer en meer den sleutel ga\eii tot het
+gemoed van den onbedorven Senegalees.
+Hen tijdlang hield bii de L'ousluriers in huis
+een otiicicr zijn verblijf, uit Afrika's binnen
+
+landen naai Krankrijk overgekomen om detl
+te nemen aan den oorlog op l:ransch gebied.
+Hij w.is nauwlijks achttien iaar, toen !ii\ om
+i en broeder vrij te maken dienst had genomen,
+een eenvoudige, vertrouwende natuur, zijn
+Uviniig jarig !c\ en in het hart van de wildernis.
+zijn omgang met de inboorlingen had ziin een
+
+voud, zün hehoeite aan opoffering voor ele
+meiiseheii die hem "ingaven, niet anders dan
+versterkt, l iügaf de opdracht aan zijn
+g.islvroiiv,, om z.e!l&gt; \vanneer hii er niet was. aan
+lederen Sencgalcc--chcir liraiüeiir die naar hem
+vioeg, toegang tot ziin kamer te ge\en. l lel
+huis \\ as soms vol van de \rccnide gaste:).
+Te vvruoiidercn hoeft liet niet dat Mcvrouu
+«Coüstnrici geen van In.ir kostbaarheden dun
+
+de U: talen liegen, maar de otüeier lachte oiu
+haar be/oi i;dheid. De een is niet minder
+eerlijk dan de ander verzekerde hij haar ;
+zij welen waar zij hun handen van at moeien
+houden
+
+Keu jong luitenant je, pas van Oe
+kadettenschooi, beklaagde zich eens bij Mevrou\\
+(.'ouslurier over de tamiliariteii der
+l'rovcnaulsche bevolking mei de .\frikaansche troepen.
+Zij vergeten de \\aaicligiieid op te honden van
+het blanke ras, zei de hij. onze soldaten geveu
+ons niet eenmaal Dkcr het saluut.
+D.il \\a&lt; ecu geheel andere opvattingvan
+de taak.
+Wanneer Mevi &gt;a.i\\ C'ou-Uurier de kanlei'
+binnenkwam van de;i officier, haai'
+pensionn.lire als hij he'oc.k had, vond zij hem zonder
+zijn insignes en zouder zijn stijven kraag te
+midden van /.iju kleurige kameraden; die geen
+sioel meer hadden kunnen vinden, zaten op
+hel bed en op alles wat eciugszins plaats aan
+
+bood, de !)aes',en waren op den grond terecht
+gekomen, liefst zoo dicht mogelijk bii het
+vuur. l.u hij maakte grappen met hen, hall'
+in hel Kransch, half in hun Bamh.ire-dialccl.
+I lij taalde niel naar hun
+hem aan.
+Op een dag dat Mevrouw C'i
+blanken onderofficier tien klapr
+.geven in het gezichi van zijn zwanen onder
+
+geschikte, vroeg zij haar vriend of dal \\as
+geoorloofd.
+,,\\'el rieeii," v,as het antwoord, maar ge
+
+steld dal hei motlii," en. hij maakte zich boos.
+ik zou er niets in hebben gezien om den
+zwarte ie zeggen dat hij ze hem moest terug
+
+geven. Kaïop den koop zou ik hem twee louis
+hebben geschonken, de ecu als belooning.
+de ander tot aanmoediging. Ik heb nooit
+een tirailleiir gestraft, in volle vijftien jaar,
+niet eenmaal. Ken tirailleiir kan niets doen dal
+gestraft moet worden. Alen kan hem eens aan
+zijn oor trekken en wal voor den gek honden,
+dal's alles. Ku dat is genoeg i !"
+'P
+iiigeduoiigeu omgang maakte haar
+m eigen oogcii burgerlijk benepen, wanneer zij
+hun vrijmoedigheid niet kon beantwoorden.
+Zii dacht eerst al heel \er in haar onderschei
+
+dingsvermogen van negers te zijn gegaan,
+wanneer zij onder het zwarte masker verschil
+eau karakters had ontdekt. Maar dat masker
+viel, zij zag incn^chcn. Neen meer, ha.ir eigen
+masker van iraditioneeie vennen \iel at,
+zij voelde zichzelf meer mcusch worden.
+Hoeveel belang begon zn i n de Scucgaiccz.cn
+te stellen, toen zij hun leergierigheid gcwaai
+werd en hen lezen en schrijven begon te leeren !
+Zij bemcik'.c den onzin van het \ ooroordcei,
+dat de .\frikaanschc hersens zich na e-, n zeker
+getal van jaren gaan sluiten; integendeel,
+haar oudere leerlingen gaven haar den meesten
+animo.
+Zij is niet [ingesproken in haar lol. l laar han
+hing aan hen en liet bloedde bij de gedachte
+dat bijna al die bewegelijke goed gehumeurde
+kinderen offers zouden worden van het slag
+
+veld.
+,. Ik dacht toch niet," sein cel een van de offi
+
+cieren die bij haar hadden gewoond aan
+Ale\ron\\ Cousiurier, ,.uat mijn soldaten tot
+zulke heldendaden iu slaat waren."
+,.Na een nacht onder nskouden regen, den
+buik iüi.ie modder, zijn zij, al waren zij ver
+
+stijfd van de kou, er op losgetrokken als een
+\\er\ei\siiKl ondanks de iiülraiilcuscs die hen
+wegiiiaaiden en tic granaten die hen verplet
+
+terden. Niets kon hun marsen ophouden, zij
+zijn voorlgegv.au tot er niets van h. c n over
+
+bleef. Zij zijn alle soldaten voorgegaan, en drie
+dagen en drie uachicii hadden zij onder de
+sneeuw gelegen, toen zij mei het gezicht tegen
+den vijand gekeerd, zijn gesneuveld, zonder een
+enkele klacht."
+l helden zij dan van der, oorlog?
+Werd het hun afgevraagd,zoo was er geen die
+erkende uit vrijen wil in den slag te trekken.
+Ken van de mannen, hij \vas al ouder,
+waarop zijn beschermster het bijzonder had
+begrepen, omdat hij direct zonder onwegen
+sprak, met een verwonderlijke kennis van de
+dingen en van zichzelf, zcicte haar hij het
+alscheid : Misschien is er geen eind aan den
+oorlog, misschien heeft tiod gezegd : de dood
+voor alle soldaten. Daarom zeggen veel
+menscheii : uien moet er nog alleen aan denken om
+zich te amuseeren. .Maar ik wil blijven werken
+alsof ik spoedig naar Senegal terugging. Dan,..
+maar wanneer het is sterven, ook al goed, al
+Keu ganschc rii van ontmoetingen worden
+ons meegedeeld, \\ij krijgen brieven te lezen,
+"iitboezcmiugcii te liooreii, \\ij wonen tal
+van toonecleiïhij. Misschien liet treffendste is
+het liefdesverhaal van een tirailleiir over
+•fii l\!iii' iiuii;'', maar ei' zou geen uitscheiden
+zijn. ais wij gingen meiuorccreu. De schrijfster
+van /.is incniiiiiis t/.-r: mui is een scherpe
+opmerksier; zij wil geen legenden ; niet al haar
+gevoel is zij niei sentimenteel. / ij heeft
+ecu hart, ruimer geworden door de aanraking
+met de ;'//^c/a;;(/c;/, brccder van inzicht, dieper
+aan mcnschelijkheid.
+J W . (l. L'. BV V A N C K
+
+</text>
+<image timestamp="2002:08:25:12:42:03.00" size="415811">D10003IO.TIF</image>
+</page>
+</document>

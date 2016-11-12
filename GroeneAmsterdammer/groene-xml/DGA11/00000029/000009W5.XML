@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320102</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 2 Januari 1932
+No. 2848
+J. D. S T R U IJ S &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N*V* Meubelmagazijn Eden0
+MOLSTEEG AMSTERDAM
+BOEKENKASTEN
+HOTEL -CAFÉ-RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+__ Modern Comfort-Lift-Stroomend water -enz. ..
+Logies met ontbijt f 3.50 per persoon
+GEKARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 TELEFOON 30559
+Complete Meubileering
+JAN U A R l - U l TV E RKOOP
+
+AUG. KAUPMANN
+Telefoon 23308 - P. C. Hooftstraat 113 - Amsterdam Z.
+Extra aanbieding Bed-, Tafel- en Huishoudlinnen
+Restanten Wollen Nachthemden
+Restanten Lingeries, extra voordeelig
+Partij zuiver Linnen Handdoeken a 5O et.
+Zichtzending: franco.
+VERWEEGEN&amp;KOK
+AMSTERDAM
+KALVERSTR. 86—90
+DEN HAAG
+NOORDEINDE 64C
+Plaids, Voetzakken, Auto-Overschoenen
+BEGRAFENISVEREENIGING
+SAX J r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2426O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44—AMSTERDAM Tel. 42662
+ARM ERWERKEN
+-IV. H. POLMAN
+TUINOVERTOOM 526 - Telefoon 82660
+Begrafenissen - Transporten * Crematies
+Pendules - Horloges
+Stijl klokken - Wekkers
+Barometers - Gouden en
+Zilveren Werken
+Grootste Sorteering:
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. Breen
+Nieuwend ijk 172
+Haarlemmerstraat 64
+Rozengracht 53
+Ateliers voor reparatien aan
+Uurwerken, Goud en Zilver
+Adverteert
+
+in de Groene"
+
+Dat is een zin dien ge
+dikwijls leest.
+Waarom juist in
+DE GROENE	?
+Omdat DE GROENE in
+hetgeheele landgelczen wordt
+door het beste publiek door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij hon
+
+derdduizenden bereikt, die
+juist niet tot het koopkrach
+
+tige publiek behooren, maar
+het betaalt hem om in dit
+blad te adverteercn, dat hem
+direct in contact brengt
+met het publiek dat hij zoekt.
+C. J. de Koning &amp; Zn.
+Keizersgracht 447
+Opgericht Ao. 1739
+
+Lood- en Zinkwerken
+PLAT
+D'ORANCC
+
+Een schijfje ge
+
+brande nougatmet
+oranjeschil. Pikant
+en frisch.
+ZIET TOE DAT GE
+D ROST E'S KRIJGT
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:13:32:45.00" size="150257">000009W5.TIF</image>
+</page>
+</document>

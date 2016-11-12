@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130223</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET BEELD DER COALITIE
+(Allegorie, opgedragen aan de Nederlanders van 1920)
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 23 Februari 1913
+Vrij naar A. van der V enne
+Ainst. Boek- en Steendrukkerij, v h. Ellerman, Harnis &lt;&amp; Co
+Hen arcnt als hy honger kryuiit.
+en uyt 'er hoo^hien ncder-sij^lit
+en vint een schilt-padt, of een sleck.
+die g'n j p t hy veerdigh metleii heek,
+er, voert hem door een snelle vlucht
+tot hoven in de hlaeuwe lucht,
+soo stevl en uyïter-maten hoogli
+als iinmei drae^ht een inensehen ooy;l
+Een die lü-t spel van onder siet,
+en weet de rechte gronden niet,
+
+doch staet hy macr e-en weynis.1,!! stil,
+dan siet hy waer het henen wil:
+want sier! die, door sijn hooien sta n i
+saiih onder hem het sj;ansche lant,
+en was daeroni ^evveldiü;'!! trots.
+-die komt da.er vallen op een rots,
+en breekt dan op een harden steen
+en liuys, en Iniyt, en hals, en heen;
+s'.o dat hv weder over-i^eeft
+a! wat ny oyt ^esoj'cn heeft,
+en wurtit dan. in het openhaer.
+tot spijse van den adelaer.
+Hoe nieni^h w ui ei l\v het hof
+genomen uyf liet l a c L; e stof,
+en lioosj;li yelot;'en in de ioeht,
+op dat hy lae^er vallen mocht!
+i; CATS)
+
+</text>
+<image timestamp="2002:08:18:09:11:25.00" size="187350">D40000LZ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18901130</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+fefallwaren
+!T.F.
+GROOTSTE EIÖS ,'
+Verzilverde en Vergulde
+HUISHOUDELIJK in
+LÏZI»ABTIBILSir.
+AMSTERDAM,
+Kalverstraat 35-37. Heerenstraat 26.
+Prüs-Coiirant op aanvraag GRATIS.
+SPECIALITEIT IN GKANATEN
+No. 26.
+Met l rei fl. 4.—.
+2 reien 7.25.
+No. "'"TUTIlir fl. 12.75.
+
+
+KETTINGARMBANDEN.
+i. MELTZER,
+GROOTE KEUZE IN
+
+Beelden, Groepen, Vasen en
+Jardinières, Porseleinen en Granieten
+Tafelserviezen en Waschstellen.
+Bnime sorteering. Billgke prgzen.
+:n
+, n,
+Ameublements
+Complets.
+15,
+AMSTERDAM.
+J. VAN VORSTENBERG &amp; ZoON.
+Spiegelfabrielcen.
+
+Grootste en Goedkoopste MAGAZIJNEN
+AM S TB R D AM.
+Op nieuw ontvangen groote bezendingen
+
+Visites, Jaequettes en Ulsters.
+eii 187. FLANELLEN voor Ochtendjaponnen, Pelterijen, Wollen Rokken, Avonddoeken, Zyden
+Meest gesorteerd en goedkoopst Magazijn in Foulards, Zakdoeken, Boezelaars enz., waaronder vele Artikelen geschikt voor
+
+MEISJES-^ wKINDERMANTELS. St. NicoldaS-CddeaUX.
+BlEÏ^MANN,
+BNmJK. 193 en 187.
+MARTELL &amp; C
+beroemdste Huis in
+o
+Eenige Vertegenwoordigtrs voor Nederland en Koloniën
+
+KOOPMANS &amp; BRUINIER,
+Per flesch ƒ8.50. f i.—. ƒ4.25 en hooger.
+Fer dozynskistje ƒ8,—rabat.
+De heele en halve Wynflessch.cn, waarin
+I'S
+verkocht wordt, zgn verzegeld met Cachet: J. C. BOLDOOT
+REMIN6TON STANDARD TYPE WRITER
+is de beste en duurzaamste Amerikaansclie
+clirijfmachine op vele kantoren nier te lande tn gebruik; *•&gt;
+werking te zien en te verkrijgen bij
+FKEI». STIELTJES «f* Co., Keizersgracht »15,Aiusterdam.
+Als gfj noest, gebruik dan At,EWIJX'S Haverstroo.Pastilles. Overal verkrijgbaar a 25 cents per pakje.
+
+</text>
+<image timestamp="2002:10:03:07:09:48.00" size="518071">D2007GW.TIF</image>
+</page>
+</document>

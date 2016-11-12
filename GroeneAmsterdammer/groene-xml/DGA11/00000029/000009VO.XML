@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320102</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 2 Januari 1932
+N o. 2848
+^i Nederlandsche
+
+Handel-Maatschappij, N.v.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+LI. DE DUILEMSCHE
+HYPOTHEEKBANK
+Leden der directie: ^Siss*- Mr. A. S. MIEDEMA,
+P. H. CRAANDIJK en A. E. THIERRY DE BYE DOLLEMAN
+
+Pandbrieven f 40.442.450.
+Reserves . . f 1.099.275.
+Uitgifte van 5 pCt. pandbrieven a pari.
+Hypotheken f 41.470.951.
+LEVENSVERZEKERING
+Mü. ARNHEM"
+waarborgt U en Uw gezin een onbezorgde toekomst.
+N.V. Bataafsche
+Hypotheekbank
+AMSTERDAM
+Anno 1889
+Geeft uit tegen beurskoers:
+5 % PANDBRIEVEN
+in stukken van
+f1OOO,-,f500,-en flOO,-.
+Coupons Januari en Ouli
+DE GROENE AMSTERDAMMER
+Weekblad vaor Nederland
+kost slechts ƒ 2.70 per kwartaal (f 0.20
+voor incassokosten) of f 10.—per
+jaar bij vooruitbetaling
+die in het mid
+
+
+den l i c h t van
+
+Uw kamer moet
+
+hangen.
+
+Argenta"
+._,/» met den ballon
+eSfiajCötui van melkwit glas
+HILIPS
+NVZUIDER
+HYPOTHEEKBANK
+5 pCt
+Pandbrieven
+a 100 pCt.
+Directie:
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+N.V. STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+L MOSSELMAN
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5 % Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—. f 500.
+en f 100.—tegen Beurskoers.
+Aan de abonné's van de Groene Amsterdammer"
+
+Zij, die er de voorkeur aan geven het abonnementsgeld voor 1932 per giro
+of per postwissel over te maken, worden uitgenoodigd dit te doen voor
+
+5 JANUARI a.s.
+
+HET ABONNEMENTSGELD BEDRAAGT TIEN GULDEN
+
+Postcheque- en girorekening 72880
+Gemeente giro: Amsterdam G 1000
+
+DE ADMINISTRATIE VAN DE GROENE AMSTERDAMMER'*
+
+Keizersgracht 355 - Amsterdam (C.)
+
+</text>
+<image timestamp="2002:09:26:13:12:05.00" size="97802">000009VO.TIF</image>
+</page>
+</document>

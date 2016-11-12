@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070623</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Vredes-conferentie en Doema-ontbinding.
+\Vei*;.-!/:;nl i.,.ui- \ttk:;ln.vi \*ti 23 luiii icjo/
+-S/i)/;/;Av' : Dit is t moment om de hulde van de l luagscho \rede.s-cuntcrentie (e beantwoorden. Sein hun, Stolypin, dat ik, als hun
+roon. o|i lien gedronken heb: Leve de Vrijheid! -•-- I.evc de Vrcdo!'.
+; Sire. mij dunkt, ik hoor het applaus.
+
+</text>
+<image timestamp="2002:08:12:17:51:47.00" size="485964">000000WP.TIF</image>
+</page>
+</document>

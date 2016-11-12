@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280121</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Heeft U al ingeteekend op het nieuwe tijdschrift:
+ONZE AARDE
+verschijnt iedere maand in afleveringen van pl.m. 50 pagina's, met tal ;
+prachtige illustraties en een gekleurde plaat.
+
+A A I? TYP vertelt iedere maand van vreemde werelddeelen, schrijft v«r reizen,
+verschijnselen, over planten en dieren.
+
+A ARFYF* is het tijdschrift voor hem, die verder wil zien dan zijn neus lang is en die
+wat wil weten van andere landen en gebruiken.
+
+AARDF* wor&lt;^ geredigeerd door den conservator van het Koloniaal Instituut
+LAMSTEE, door den lector aan de Universiteit Dr. VAN BEMMELEff,
+door den vliegenier VAN" DEE HOOP en door de wereldreizigers VISSER,
+Dr. VAN DEE SLEEN en KEEMEE.
+A ARDF* ^e^ on^er zy'n medewerkers de eerste krachten op elk gebied, die TI ook nog
+veel van TJw eigen land vertellen, dat U nog niet wist.
+Per Jaar / 10. • Een compleete jaargang is een prachtwerk van ruim
+500 pagina's, met 12 gekleurde en honderden zwarte platen. l
+
+IEDEEE BOEKHANDELAAE KAN U HET EEESTE NUMMEE LATEN ZlEN.
+
+Abonnement ƒ 10. per jaar, proefaf leve ring ƒ l. , proeve van bewerking gratis.
+
+Uitgave van Van Holkema &amp; Warendorf s Uitg.-Mij., Amsterdam.
+
+
+</text>
+<image timestamp="2002:09:04:03:02:58.00" size="66866">0000068L.TIF</image>
+</page>
+</document>

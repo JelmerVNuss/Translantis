@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400907</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+• 7 SEPTEMBER 1946
+^Jllit^^ • OPGERICHT IN 1877
+tlHOUD:
+fVC rOU d e r i n g, ANTON VAN DUINKERKEN
+'s •.' V-^^L;I^^^: ^'- •'•
+fpitr van het kunstwerk,
+achting voor den tooneelspeler,
+JAN WALCH
+k Van DeySSel, j. H. SPEENHOFF
+* 5
+middeleeuwsche poëzie, c. j. KELK
+|||t.j|agboek van een tuinarchitect
+Een verhaal van de Groene,
+20
+CENT
+iiHiiiiiimiiiiiiiiiimiiiiiiiiiiiiiiniiiiiiHiimiiiinHniiiiiiiifiiiiiiiiiiiiimniiiiiiiiiiiiiiiiiiiiiiiiiMiiii
+
+</text>
+<image timestamp="2002:09:13:08:55:35.00" size="362956">000007ON.TIF</image>
+</page>
+</document>

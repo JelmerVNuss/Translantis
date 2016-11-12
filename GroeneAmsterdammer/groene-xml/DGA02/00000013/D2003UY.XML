@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240830</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HERRIOT EN MACDONALD NAAR DE VERGADERING VAN DEN VOLKENBOND
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 6 September 1924
+Nadruk vetboden
+Baas Jochem stuurde Joosje in
+O in haver te gaan s n ij den.
+AA aar Joosje snee den haver niet.
+Toen zond Baas jochem poedel u i t,
+O ni J o o s j e te gaan knauwen.
+Maar poedel knauwde Joosje niet.
+Toen zond Baas Jochem knuppel uit,
+Om poedel af te rossen.
+A\ a a r knuppel roste poedel niet.
+Toen zond Baas Jochem v u u r v l a m uit,
+Om knuppel te gaan branden.
+Maar v u u r v l a m brandde knuppel niet.
+Toen zond Baas Jochem water uit,
+O in v u u r v l a m te gaan b I u s s c h e n.
+Maar water b l u se h te v u u r v l a m niet.
+Toen zond Baas Jochem koebeest uit,
+Om water op te slurpen.
+Maar koebeest slurpte water niet.
+Toen zond Baas J o c h e m s l a g e r uit,
+Om koebeest te gaan slachten.
+AA a ar slager slachtte koebeest niet.
+T o e n z o n d b a a s J o c h e m diender uit,
+Om slager te gaan halen.
+Maar diender haalde slager niet,
+En slager slachtte koebeest niet,
+En koebeest slurpte water niet,
+En water b l u s c h t e v u u r v l a m niet,
+En v u u r v l a m brandde knuppel niet.
+En knuppel roste poe d e! niet,
+En poedel knauwde J onsje niet,
+En Joosje s nee den ha ver niet,
+
+
+(Geschiedenis van Joosje, door W. J. VAN ZEGGELEN)
+TOEN VLOOG BAAS JOCHEM ER ZELF OP LOS
+
+</text>
+<image timestamp="2002:09:03:16:11:30.00" size="238747">D2003UY.TIF</image>
+</page>
+</document>

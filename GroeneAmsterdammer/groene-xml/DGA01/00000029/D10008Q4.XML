@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920828</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+B1IVOKGSKI, van de Amsterdammer, Weekblad voor Nederland, van 28 Augustus
+Na den Zaterdagavond op de Rotterdamsche kermis.
+_J
+Amst. Boek- en Steendrukkerij, v/h. Ellerraan, Harms &amp; Co.
+FOEZEI, uit de Doofpot (tot zijn Rotterdamsche collega's):
+
+Diender, diender,
+Dat 's plagerij!
+
+</text>
+<image timestamp="2002:10:01:21:31:05.00" size="192266">D10008Q4.TIF</image>
+</page>
+</document>

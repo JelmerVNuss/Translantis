@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19051105</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na de Oekase van den Czar,
+I![|\OKr.SFI MCI IK \m tci'luii. iti, ^ iel lil.il M..I ^t iuli'ul , . ;
+De Volksbeweging en de Czar.
+DE MoFnjiK.: Vack-rlje! V.idcrtje
+DE CZAR: ... jawci. als je wetr slaapt!
+DE MOEDjIK; (tot den Czar}: »Nu ben ili wakker, en voor tjoetl. Kr.nt ff f J ó;&gt;k waken?"
+
+</text>
+<image timestamp="2002:08:22:17:12:17.00" size="617283">D2002LD.TIF</image>
+</page>
+</document>

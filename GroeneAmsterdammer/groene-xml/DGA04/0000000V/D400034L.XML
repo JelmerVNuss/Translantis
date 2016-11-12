@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190913</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+13 Sept. '19. No. 2203
+Fig. 1. Tweedekker trekschroef grondstarter, links de schroef, rechts het
+stabilisatie vlak en het richtingsroer
+
+PROEFVLIEGTUIGEN EN PROEFVLIEGTUIGSPORT
+door J. H. W. v. D. MUELEN
+
+De heer Van der Muelen heeft, op ons verzoek, onderstaand interessant artikel
+over proefvliegtuigen en proefvliegtuigsport gegeven en zich bereid verklaard den
+lezers van de Amsterdammer", desgewenscht, nadere voorlichting en inlichting
+omtrent dit onderwerp en omtrent de vervaardiging der toestellen te verstrekken.
+Brieven te adresseeren aan de redactie van de Amsterdammer", Keizersgracht 333,
+Amsterdam, onder het motto Proefvliegtuigen".
+Het vervaardigen van proefvliegtuigen is
+een lak van sport, welke nog zeer weinig
+bekend is. En m. i. hoofdzakelijk daarom
+veel te weinig beoefend en nog minder
+gewaardeerd en daarenboven meestal ver
+
+keerd beoordeeld!
+Ik wil de zaak dus van het begin af
+behandelen en allereerst de vraag beantwoor
+
+den: Wat is een proef vliegtuig? Een
+proefvliegtuig is een samenstel van latten, vleugels,
+schroeven en stuurvlakken, dat zich geheel
+onder eigen kracht door de lucht kan
+voortbewegen. Het is dus een klein vliegtuig,
+dat, natuurlijk zonder bemanning, vrij kan
+vliegen. Deze voortbeweging geschiedt met
+behulp van luchtschroeyen en zweef vlakken
+geheel op dezelfde wijze als dit het geval
+is bij groote vliegtuigen. Toch heeft het
+uiterlijk van een proef vliegtuig niet veel
+weg van een werkelijk vliegtuig. Dit komt,
+omdat de motor, die de schroeven der
+proefvliegtuigen in beweging brengt, bestaat
+uit een aantal gummibanden. Deze verelschen
+een langen romp om een voldoende aantal
+omwentelingen aan de schroef te kunnen
+geven. Dit brengt mee, dat de
+gewichtsverdeeling een geheel andere wordt als bij
+de groote vliegtuigen, waar het grootste
+gewicht steeds in het voorste deel van den
+romp, (motor, reservoirs, inzittenden) is
+geconcentreerd. In de tweede plaats zal de
+proef vliegtuigbouwer alle overbodige deelen
+weglaten teneinde gewicht te sparen; ook dit
+geeft de proef vliegtuigen een ander uiterlijk.
+Lichtheid gecombineerd met stevigheid en
+gunstige gewichtsverdeelingzijndeallereerste
+eischen aan een goed proefvliegtuig te
+stellen. Doorgaans zal men er naar streven
+het proefvliegtuig zoo lang mogelijk te laten
+vliegen, maar in ieder geval zoo lang, dat
+bij het neerdalen de schroeven bijna of
+geheel zijn uitgedraaid. Heeft men een goed
+proefvliegtuig dan is het ook mogelijk, dat
+de krachtsbron in de lucht reeds is uitgeput
+en de vlucht wordt besloten met een zachte
+vol-plané.
+Zooals gezegd is het bij de proefvlieg
+
+tuigen een hoofdstreven om de toestellen
+goed te laten vliegen, de vliegcapaciteiten
+worden als karakteristiek gebruikt ter be
+
+oordeeling van het toestel in de klasse,
+waartoe het behoort. Men offert dus het
+uiterlijk hiervoor op; het is niet de bedoeling
+een toestel te bouwen, dat op een bepaald
+groot vliegtuig gelijkt! Daarom mag men
+het bouwen van schaalmodellen en
+vliegtuigmodellen voor windtunnelproeven in
+aërodynamische laboratoria niet verwarren
+met het bouwen van proefvliegtuigen. De
+schaalmodellen kunnen in verreweg de
+meeste gevallen niet vliegen, terwijl zeer
+enkele, die hiervoor speciaal zijn ingericht,
+zich tevreden moeten stellen met het maken
+van enkele sprongen. Voor de
+laboratoriamodellen komt het hoofdzakelijk aan op
+zuivere afwerking der vleugelpn tulen en
+op den algemeenen luchtweerstand van stijlen,
+romp en draden. Maar ik keer tot de proef
+
+vliegtuigen terug.
+Hoe komt het, dat de proefvliegtuigsport
+in Holland betrekkelijk weinig beoefend
+wordt? Hierop zijn verschillende antwoorden
+Op den Economlschen Uitkijk
+
+Parlementaria
+Sedert velen weken reeds heescht de
+stilte op het Binnenhof. De leden der
+Tweede Kamer genieten hun zomerrust en de
+senatoren aan de overzijde hetzelfde. Belder
+vergaderzalen staan nu onbeperkt open ter
+bezichtiging door kijkgrage toeristen.. Straks
+komen de heeren aan beide zijden terug en
+hervatten hun arbeid. Voordat het zoover
+is, schijnt oogenblik gunstig iets te zeggen
+over wat laatstelijk ginds is voorgevallen
+en van wat er welhaast te gebeuren staat.
+Reeds wees ik op den grooten spoed,
+waarmede door de Tweede Kamer in de
+laatste maanden vór het reces is gewerkt
+geworden. Het is inderdaad, meen ik, een
+feit zonder voorbeeld in onze parlementaire
+geschiedenis, dat een zoo omvangrijke rege
+
+ling als die der nieuwe Arbeidswet, een
+stel van bepalingen, die zoo grooten invloed
+zullen uitoefenen op de bronnen van onze
+volkswelvaart en [op onze nationale voort
+
+brenging, zóvlug is afgedaan. Niet meer
+dan op den kop af" drie maanden zijn
+gelegen tusschen den dag, waarop het
+ontwerp bij de Tweede Kamer werd inge
+
+diend (11 April) en dien, waarop het onder
+gezang van het Wilhelmus en van den
+acht-urenmarsch" werd aangenomen. Het
+is duidel|k: men (Regeering en Tweede
+Kamer) had er alles op gezet, deze zaak
+af te doen voordat men zou uiteengaan.
+Vandaar de mér dan bekwame" spoed,
+waarmee de Kamer haar Vóorloopig Verslag
+deed verschijnen en de dito spoed, waar
+
+mee de Regeering haar Memorie van
+Antte geven. Ten eerste de reeds genoemde
+onbekendheid en ten tweede de bezwaren
+en moeilijkheden, die zich voordoen bij de
+constructie en het laten vliegen der proef
+
+vliegtuigen. De zaak is namelijk niet zoo
+eenvoudig als het aan een leek wel lijkt.
+Wanneer deze een proefvliegtuig ziet vliegen
+is zijn oordeel vrijwel altijd: O, dat kan
+ik ook wel, je bindt maar een paar latjes
+aan elkaar; een vlerk je er op en wat elas
+
+tiek met een schroef doen de rest, je gooit
+het de lucht in en het vliegt!" Maar wat
+komen zij bedrogen uit, wanneer het niet
+bij woorden blijft en zij inderdaad de hand
+aan het werk slaan om, natuurlek het moei
+
+lijkste type het eerst, zelf te maken. De
+latten blijken vanzelf krom te trekken, de
+schroeven barsten door slecht hout, het
+elastiek knapt door midden en als het
+samenstel gereed op de weegschaal ligt
+slaat deze over de 300 gram door, terwijl
+de machine bij de eerste vlucht versplintert
+of door midden breekt. Misschien is dit nu
+wat overdreven, doch er blijkt voldoende
+uit dat men in de eerste plaats eenige be
+
+drevenheid moet hebben op het gebied van
+hout- en metaalbewerking. Doch daarmee is
+men er nog niet, want ik heb knappe hand
+
+werkslieden vliegtuigjes zien maken.die keurig
+waren uit een oogpunt van constructie, doch
+die absoluut niet deugden en daardoor ook niet
+wilden vliegen, bekeken uit een vliegtech
+
+nisch oogpunt. Eenige kennis der eerste
+beginselen van het hoe en het waarom der
+groote vliegtuigen, eenige grondwetten der
+stabiliteit en der luchtschroeven zijn nu
+eenmaal onontbeerlijk. Wanneer men hierin
+thuis is en eenige ondervindiug met proef
+
+vliegtuigen heeft opgedaan dan heeft men
+kans een goed proefvliegtuigbouwer te
+worden, dan behoeft men bij elk nieuw
+toestel zich niet meer af te vragen of het
+vliegtuig zal vliegen of niet doch dan weet
+men vooruit dat het toestel moet vliegen
+omdat het gewicht, het dragend oppervlak,
+de schroef en het aantal strengen elastiek
+in goede harmonie met elkaar zijn gekozen.
+Doch ook materiaalkennis, oefening, inzicht
+op het gedrag der machines bij proefvluchten,
+spelen een groote rol.
+Een juiste materiaalkeuze doet gewicht
+sparen, weerstand verminderen of wel komt
+aan de sollditeit ten goede. De stevigte van
+den romp is om twee redenen noodzakelijk.
+Ten eerste mag de romp gedurende de vlucht
+niet verbuigen of verwringen, omdat dit
+de goede werking van draag- en stuur
+
+vlakken schadelijk beïnvloedt en ten tweede
+mag de machine bij een ongelukkige lan
+
+ding niet beschadigd worden. Wat de eerste
+krachten betreft is men ten onrechte geneigd
+deze te licht op te vatten. De spanning, maar
+vooral de wringing van een vol
+opgedraaiden elastiek-motor is zeer aanzienlijk, reden
+waarom men ook zeer veel proef vliegtuigen
+ziet met twee tegengesteld draaiende
+schroeven. Men bereikt hiermee, dat de twee
+tegengesteld wringende momenten elkaar
+opheffen, zoodat de romp in hoofdzaak
+buiging behoeft op te nemen.
+Toch zijn alle constructieve moeilijkheden
+voor de ware liefhebbers juist een
+aanwoord(met en benevens een nadere wij
+
+ziging") deed volgen en de niet geringere
+spoed, waarmede daarna de openbare beraad
+
+slaging werd geopend...
+De geheele behandeling ging uit van de
+vooropgestelde gedachte, dat de zaak vooraf
+reeds beklonken was in dézen zin, dat
+(natuurlijk!) de gewone gang van zaken
+zou worden gevolgd (dat kon ook moeilijk
+anders 1), maar dat aan de totstandkoming
+van de regeling niet te twijfelen viel. Men
+wist dat de Regeering met dit wetsvoorstel
+zou komen en ook wist men dat de Tweede
+Kamer het zou aannemen. Die laatste vór
+
+wetenschap maakte de positie van den ver
+
+dediger der wetsvoordracht, minister Aal
+
+berse, zeer sterk. Stond een amendement
+hem niet aan, hij had het maar te zeggen
+en het lot van dat amendement was bezegeld.
+Vraagt men nu, waarom bij de Regeering
+en bij de Tweede Kamer zoo stellig vast
+
+stond dat deze wet moest worden aange
+
+nomen, dan moet het antwoord stellig
+luiden: omdat deze wetsvoordracht was de
+inlossing van een belofte en omdat men
+begreep een belofte te moeten houden; men
+zou zich niet verantwoord hebben geacht,
+wanneer men door verwerping (of ook maar
+door aanneming van beperkende amende
+
+menten) hen had teleurgesteld, aan wie en
+ten behoeve van wie die belofte was gege
+
+ven. Daarom heeft de mogelijkheid eener
+verwerping en zelfs die eener ook maar
+eenig»zrns ingrijpende wijziging van de
+wetsvoordracht geen oogenblik bestaan.
+En vraagt men nu verder: waarom dan
+die belofte was gegeven en waarom het
+daarna zoo volkomen uitgesloten was, dat
+die niet of misschien niet geheel ten volle
+zou worden nagekomen, dan is op die vraag
+het antwoord, dunkt mij, gegeven door mr.
+Aalberse toen althans het
+ondubbelzlnnigst bij zijn bestrijding van mr
+Dresselhuijs' amendement, hetwelk strekte om de
+arbeidsweek, door het ontwerp bepaald op
+45 uur, te brengen op 48. Bi] die bestrijding
+zeide minister Aalberse zoo ongeveer (ik
+citeer uit mijn geheugen) het volgende, toen
+sporing om door te werken, te probeeren,
+te experimenteeren en vol te houden tot
+het vliegtuig goed vliegt. Dan is de vol
+
+doening ook zooveel te grooter en heeft
+men na strijd bereikt, dat het product van
+eigen weten en kunnen zich vrij van den
+grond verheft om luisterend naar den stand
+der stuurvlakken zijn vlucht te maken.
+Juist in het geheel zelf vervaardigen der
+proefvliegtuigen ligt een groote waarde,
+omdat men dan bij een klein ongeluk of
+defect de machine zelf kan herstellen, ja
+zelfs verbeteren, veranderen of uit.reiden
+tot een gecompliceerder type.
+De in sommige speelgoedwinkels te koop
+zijnde proefvliegtuigen verdienen over het
+algemeen deze naam niet. Zij hebben alle
+echter dat gemeen dat zfj niet of slechts
+zeer kort vliegen, duur en slecht zijn. Hiervan
+zfj n alleen de echte Engelsche proefvlieg
+
+tuigen uitgezonderd. Deze kunnen goed
+vliegen doch ook zelfs zij geven een on
+geoef en den leek weinig of geen voldoening,
+omdat hij ze niet behandelen kan en hij
+niet weet hoe groot de Invloed is van een
+slechts onbeduidende verbuiging van een
+der stuurvlakjes. Behalve als hand- en
+geest•efening is m.i. de grootste verdienste van
+het bouwen van proefvliegtuigen gelegen in
+het feit, dat zQ in hooge mate de
+bebelangstelling opwekt van alles wat betrek
+
+king heeft op de luchtvaart, speciaal op het
+gebied der vliegtechniek.
+De proefvliegtuigsport is vooral voor de
+jongere generatie van belang, zQ beheerschen
+over 20 jaar de wereld, zij zullen dan ook
+onze vliegtuigen bouwen. De ondervinding
+met proefvliegtuigen opgedaan zal hen
+daarbij helpen. Hoe overdreven dit misschien
+ook lijkt is dit bewezen door de uitspraak
+van den bekenden vliegtulgconstructeur
+Fokker, die overtuigd is van het nut dezer
+Fig. 2. Een tweedekker watervliegtulg met
+drie drijvers en twee duwschroeven. Y-romp,
+vast achtervlak LJ-vormige hoofdlat
+
+beweging, Een zelfde ondervinding deden
+de heeren Noorduyn op, in 1911 legden zij
+met nog eenige heeren den grondslag voor
+de Nederlandsche proefvliegtuigsport, thans
+zijn zij werkzaam als vliegtechnici bij de
+British Aerlal Transport Company onder
+leiding van Frits Koolhoven. Ten slotte heeft
+schrijver dezes herhaaldelijk gebruik ge
+
+maakt van de ondervinding met modellen
+opgedaan bij de constructie van groote
+vliegtuigen. En wat ziet men nu? Het groote
+publiek begrijpt er niets van, beschouwt
+het als een zot, doelloos kinderspel en lacht
+den beoefenaar vaak uit, wanneer hij met een
+proefvliegtuig over straat loopt. Eigen
+
+aardig is het daartegenover dat een goede
+demonstratie bijna nooit haar uitwerking mist.
+Ondergeteekende stuurde b. v. een
+voetbalBOLS
+CHERRï***' ZO.GENEVÈR
+hij zich tot prof. Visser van Yzendcorn
+richtte: gij zijt, ook als parlementariër, ouder
+dan ik, maar ik moet mij nu toch vergunnen
+u een les uit de parlementaire geschiedenis
+in herinnering te brengen. In 1848, toen het
+er in Nederland om te doen was de dreiging
+eener revolutie te bezweren, heeft men be
+
+grepen dat te moeten doen door met milde
+hand de door velen begeerde vrijheden en
+rechten toe te staan. Zoo moeten ook wij
+nu mild zijn en de zaak in grooten stijl
+afdoen en ons niet begeven in klein peu
+
+teren". In dezen gedachtengang moeten wij
+niet de voorgestelde 45 uur der arbeidsweek
+op 48 gaan verhoogen ... Ziedaar, niet de
+woorden (letterlijk), maar de redeneering,
+waarvan de Minister zich toen bediende.
+Nu laat ik de toepasselijkheid van die rede
+
+neering op het punt in geding, in het mid
+
+den. Men kan vragen of het klein peuteren"
+is, wanneer men den productieven tijd met
+meer dan 6 pet verhoogt; ook: of niet de
+internationale roep uitging naar den 8 urigen
+arbeidsdag en 01 niet de 45 urige arbeids
+
+week een bijzondere vondst van den
+Hollandschen wetgever was; ook: waarom wij juist wij
+-en dat ineentfldalsdeze—metdealgemeene
+arbeids-duur-beperking verder moeten gaan
+dan tot nog toe eenige beschaafde Staat
+gegaan is en vermoedelijk gaan zal. Maar
+ik laat dit alles daar en wijs alleen op den
+zin van het betoog, dat de wetsvoordracht
+stelde in het breede kader van algemeen
+politiek beleid, gericht op de voldoening
+aan een sterk-stuwenden, onweerstaanbaren
+volkswil, die bf] niet-bevrediging van zijn
+eisch niet voor staatsgevaariqke handelingen
+zou terugdeinzen. Vat men dit in het oog en
+vat men dit alles samen, dan kan men een
+
+voudig zeggen: hier was vrees aan het
+woord en die vrees verklaart n de daad n
+den spoed, waarmee zij verricht werd.
+Het woord is straks aan de Eerste Kamer.
+Ook zf] zal zeker de wetsvoordracht aan
+
+nemen. Mij dunkt trouwens, de aansprake
+
+lijkheid vooral bij eene geruchtmakende
+regeling als deze, die een arbeiders-wensch
+vervult, is zwaarder voor eene Regeerlrg,
+HOEKER &amp; ZOON
+ur,'nd mmmm 435-437
+Paar ten - Brillanten
+Goud' en Zilverwerk
+llllllltlIllllllllllllllllllllmiUlllllllllllllllllIlll
+match in den war, omdat publiek, spelers
+en scheidsrechter door elkaar liepen om een
+ontvlucht proefvliegtuig na te rennen. Toch
+doet deze verkeerde publieke opinie veel
+schade aan onze sport, omdat niet iedereen
+zich hierboven kan plaatsen. Zoo ziet men
+meestal twee feiten; de jongere leden
+hebben geen succes, omdat zij niet genoeg
+ervaring en kennis hebben, daarbij komt
+soms het financieele bezwaar en de oudere
+leden verdwijnen om verschillende redenen,
+die meestal zijn terug te voeren tot valsche
+schaamte, schijnbaar drukke werkzaamheden
+of vertrek. Maar thans iets over de soorten
+proefvliegtuigen.
+Men onderscheidt hand-starters,
+grondstaiters en watervliegtuigen. De eerste
+worden door den bouwer met een klein
+duwtje uit de hand in de lucht geworpen.
+De tweede stijgen op als groote vliegtuigen,
+geheel onder eigen kracht verheffen zij z&lt;ch
+na een paar meter aanloop van den grond.
+De watervliegtuigen doen dit op dezelfde
+wijze van uit het water. Behalve naar de
+wijze van starten kan men de proefvlieg
+
+tuigen ook indeelt n naar de plaats en het
+aantal der schroeven. Het meeste komt voor
+de dubbel-duwschroef handstarter. Dit is
+dus een toestel met twee, aan de achter
+
+zijde, dus duwende voortstuwers. De proef
+
+vliegtuigen met n trekschroef hebben nog
+het meeste weg van echte vliegtuigen, vooral
+wanneer het grondstartcrs zijn.
+Elk proefvliegtuig is te onderscheiden in
+romp met motor en schroeven en draag
+
+vlakken. Ook de bouw van den romp ver
+
+schilt bij de verschillende type. Zoo onder
+
+scheidt men fuselages (rompen) in A, in Y.
+in I en in een lange, puntige, ellips-vorm,
+Als hout gebruike men silver spruce of
+gewoon grenen. Het moet rechidradig en
+kwast vrij zij r.. De verbindingen geschieden
+met zeer fijne spijkerspelden, lijm en sterke
+omwikkeling met fjzergaren. Als spandraden
+gebruike men staaldraad van 0.3 m.M. dik.
+Voor hoekstukjes en fittings leent alumi
+
+nium zich het beste. De fijne stalen
+draadspannertjes zijn evenals meerdere mattrialen
+speciaal voor deze sport in deri handel. Als
+draagvlakgeraamte dient een gesoldeerd raam
+van staaldraad pi.m. l mM. dik. De schroeven
+buigt men uit dunne plankjes beukenhout of
+wel worden ze gesneden uit verschillende
+houtsoorten voornamelijk notenhout. Als
+vleugelbedekking gebruikt men speciale
+luchtdichte zijde, voor de wielen geperst
+aluminium of dun hout. Het zou mij hier
+te ver voeren alle constructie bezwaren te
+bespreken, doch voor de lezers van de
+Amsterdammer stel ik mij gaarne beschik
+
+baar in het belang van onze sport, nadere
+inlichtingen of wenken via de redactie te
+verstrekken.
+Is men er dan ten slotte in geslaagd een
+toestel te voltooien dan begint het openlucht
+gedeeite van onze sport. Voor het invliegen
+behoeft men geen reusachtig terrein te heb
+
+ben, daar het gedrag van de machine in de
+lucht al dadelijk blijkt ook bij gering aantal
+omwentelingen van de schroef. Het is zelfs
+mogelijk de machine, mits deze met motor
+enz. geheel compleet is, zonder op winden,
+eenvoudig door een aantal glijvluchten, af
+te stellen. Het afstellen bestaat in het bui
+
+gen der stuurvlakjes onder den juisten hoek,
+een schijnbaar uiterst geringe af wijking heeft
+reeds een grooten invloed en kan de machine
+doen verongelukken. Het verschuiven van
+druk- en zwaartepunt en de invloed hiervan
+op de vlucht is met proefvliegtuigen dui
+
+delijk te demonstreeren.
+Voor getallen liefhebbers ten slotte nog
+de volgende gegevens.
+Het gewicht der proef diegtui gen geheel
+compleet varieert van 80 tot 180' gram met
+uitzonderingen aan beide zijden en 120 Gr.
+als meest voorkomend gewicht voor een
+handstarter (met twee duwschroeven) van
+: l M. lengte bij 0.55 M. breedte.
+Een schroef van ongeveer 25 cM. diameter
+vereischt 6 a 8 banden elastiek. Dit elastiek
+is in den ha.-.del a 15 cent per Meter. Het
+die haar voorstelt, dan voor de Volksver
+
+tegenwoordiging, die het nu eer* m aai gedaan
+voorstel niet verwerpt. Men kan zeggen:
+zulk een voorstel kan niet anders dan aan
+
+genomen woeden. Afwijking zou een zeer
+te duchten crisis teweegbrengen, op het
+Binnenhof en daarbuiten !
+Tot op zekere hoogte geldt dat ook van
+deovf n ge, nog aanhangige wet* voordrachten,
+door Minister Aalberse ingediend. In een
+vorige beschouwing noemde ik reeds de
+wijziging der ir.validiteltswei en de vrij
+
+willige ouderdoms'/erzekering tn in't voor
+
+bijgaan vermeldde ik toen ook het ontwerp:
+Wfrkloosheids-verzekerings-noodwet 11)19".
+Daarover ru een kort woord. H*t wil
+voorzien in de leemte, straks ontstaand door
+het wegvallen van hè! Koninklijk Nationaal
+Steuncomité; het wil de
+werk'oosheidsverzekering voor den overgangstijd, tusschen
+den oorlog en het herstel van normale ver
+
+houdingen, uitbreiden, en stevigen door hulp
+en bijslag van Rijk en gemeenten en wel
+zoo, dat later, als de normale verhoudingen
+hersteld zijn, een blijvende regeling drzor
+verzekering zich daarbfj kan aansluiten; het
+wil een schifting tot stand brergen tusschen
+wat het noemt werkwilligen en vakbekwame
+wrrkloozen" en dezulken, bij wie ook per
+
+soonlijke omstandigheden" tot den nood
+
+toestand leiden. Deze laatsten worden ver
+
+wezen naar armenzorg-crganen, aan wie, ter
+tegemoetkoming in de verzwaarde lasten,
+steun uit 's Rrjks schatkist zal worden toe
+
+gekend.
+Dit is een breed opgezet plan. Voorzie
+ning is zeker noodig. Een vraag is echt-r
+of die voorziening, gedacht voor een over
+
+gangstijd, zoo breed en forsch moet worden
+aangevat. De vraag is ook maar ik kan
+in dit kort bestek daarop niet ingaan of
+de ontworpen regeling, die in ds uitvoerige
+toelichtingen wel goed g*dacht schijnt,
+practisch niet op tal van moeilijkheden zal
+stuiten ; ik denk b.v. aar, de bovenvermelde
+splitsing tusschen twee groepen van
+werkloozen, een schifting, die onuitvoerbaar
+schijnt zonder een diepgaand iickriüek van
+KWATRIJNEN
+door Mr. JACOB ISRAËL DE HAAN
+
+Het Zeelled
+Zijn sterke maat, zijn ruischend rijm
+Heeft het zeelied niet minder dan het
+menschenlied
+Ik luister, maar het hartsgeheim
+Van de zingende zee, versta ik niet.
+
+Sabbath
+'t Is alles anders, al is alles n.
+Mij brengt den Dag zijn Heiligheid
+Op volle zee. Trok ik ook zwervend heen
+Overal is de Sabbath en Qods veiligheid.
+
+Intree
+Met lied en licht heb ik u blijde ontvangen
+Hier op de Zee als in mijn Stad,
+Laat mij nimmer een ander heil verlangen
+Dan uw heilige schat.
+
+Vrijdagavond
+Die heilig van onheilig scheidt,
+En mijn lied rijk maakt met Zijn Zegen
+Voert mi], waar nu de Zon daalt, tegen
+J&gt;en Sabbath en Zijn heiligheid.
+
+Sabbathvrede
+Hij kent mijn lust. Hij kent mijn nooden,
+Weet wat mijn hijgend hart behoeft.
+HQ zendt den Sabbath, den heiligen Bode
+Wiens Boodschap nooit bedroeft.
+
+Niet eenzaam
+Neea, ik ben niet alleen, ik ben vereenigd
+Met u'allen, in ieder land
+Wier harten nu de Sabbath lenigt
+Die w|n zegent en lichten brandt.
+
+Toch eenzaam
+Geen Vader zegent mij vanavond,
+Ik zegen geen Zoon, want ik reis alleen
+Klaag niet: het leven heeft mijn hart ge
+
+havend
+Maar God zendt mij langs beter wegen heen.
+
+Avond
+Zoo goed als ooit heb ik al de gebeden
+Toen de Sabbath mij naderde gezegd
+En in de veiligheid van zijnen vrede
+Heb ik mij schreiend neergelegd.
+
+Troost
+Neen: er was geen gewijde wijn, geen
+brooden,
+Er was het vreemde scheepsvolk om mij
+heen
+Toch liet de Sabbath, trooster van mijn
+nooden
+Mij niet alleen.
+
+De Sterren
+Eiken avond bouwen de sterren anders
+Naar God hen eeuwig heeft geboekt
+De gele f on keiaars, de blauwe branders
+Waardoor de stoomer zflne wegen zoekt.
+iiiiiiiiiimitiiiiii
+wordt speciaal uit Engeland ingevoerd door
+de protfaëroplaan sportcommissie (P.A.S.C.).
+Zes banden kunnen op een lengte van l
+Mongeveer duizend keer opgewonden. Eén
+band is l mM. breed en l mM. dik, de rek
+is minstens 7-voudig en wanneer het nieuw
+is kan men het met de hand niet stuk trekken.
+Alvorens het elastiek aan de schroef op te
+winden moet het worden ingesmeerd met
+een soort smeer van glycerine, talk en
+zachte zeep gekookt tot een dikken vloeistof.
+De belangen der proefvliegtuigbouwers
+worden behartigd door plaatselijke
+vereenieingen, zooals b.v. de Haagsche- en de
+Leidsche proef vliegtuigclub en door boven
+
+genoemde commissie, welke weer in ver
+
+binding staat met de Vakafdeeling voor
+Aviatiek der Koninklijke Nederlandsche
+Vereeniging voor Luchtvaart.
+Ointrent de prestaties der proefvliegtuigen
+geven enkele hieronder genoemde
+recordvluchten tot besluit eenig inzicht.
+Grootste duur
+dubbelduwschroefhandstarter J. Lipjes Jr. 93 , seconden.
+Grootste duur dub
+elduwschroefgrondstarter Van der Muelen 622.-. seconden.
+Grootste afstand handstarter met 2
+duwschroeven |. Lipjes 695 Meter.
+Enkel trekschroefgrondstarter Van der
+Muelen 256 Meter.
+Waterviiegtuig De Vletter grootste duur
+23 seconden.
+alie persoonlijke gevallen
+Men kan ook, ter zake van dit ontwerp,
+vragen (als zulk een vraag in tijden als deze
+nog geoorloofd is, want wanneer met
+millioenen die e: niet zijn gegooid wordt,
+klinkt de vraag onnoozel l): of dit niet wat
+minder duur kon. Want duur zal deze zaak
+ons komen te staan. Over de twee laatste
+maanden van dit jaar (de minister hoopt
+zijn regeling te kunnen invoeren op l No
+
+vember) zal zij ons meer dan een ton
+per dag kosten, gelijk De Nituwe Courant
+becijferde!
+Herinnert men zich de schuchtere vraag
+van gelijke strekking, die ik stelde, toen ik
+hier de millioenen noemde, die het
+ouderdoms-pensisen aan 65-jarigen en ouderen
+krachtens de vrijwillige
+ouderdomsyerzekekeiing 2ou vorderen? Ja, Arbeid" is aan
+den arbeid, maar de kosten stapelen tot
+vele miliioenen zich op. Ik ben benieuwd
+later te vernemen wat de uitvoering van
+de Radenwet zal eischen; dit is wel nu
+reeds zeker dat wij geen goedkoop apparaat
+voor de sociale verzekering krijgen in die
+met vele ambtenaren en beambten toege
+
+ruste colleges, welke fraaie heerenhuizen in
+onze grootere en kleinere steden betrekken.
+Voeg daatbij het reeds door mij gememo
+
+reerde: de millioenen der
+ouderdomsverzekering; de millioenen der werkloosheids
+
+verzekering en stel u dan de vraag: hoe
+dit alles moet worden opgebracht zonder
+dat de oplegging van zoo zware lasten aan
+de burgerij kapitaal-vorming tegenhoudt en
+de volkswelvaart verzwakt. Bedenkt men
+daarbij dat de nieuwe Arbeidswet een be
+
+dreiging is voor de concurrentie- kracht onzer
+uitvoer-nijve-held en voor de spankracht
+onzer nationale voortbrenging, dan behoeft
+men nit tot de door de Génestet verfoeide
+,,alarmisten''te behooren, om zich ongerust
+te gevoelen omtrent de toekomstige
+ontwikkelirh onzer volkswelvaart. En het Par
+
+lement is niet een remmend orgaan.
+
+
+S M l S S A K R T
+
+</text>
+<image timestamp="2002:08:23:20:31:42.00" size="538532">D400034L.TIF</image>
+</page>
+</document>

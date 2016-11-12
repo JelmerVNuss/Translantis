@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250718</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE KABINETSCRISIS
+
+BIJVOEGSEL van .De Qroene Amsterdammer", Weekblad voor Nederland van 18 Juli 1925
+Nadruk verboden
+VAN OUOS BEKEND
+?;: 'J iv; 'j. rj;/
+^;
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+LAAT IK EENS PROBEEREN OF KOOPMAN COLIJN ME NIET ALLEEN GOEDKOOP, MAAR OOK GOED BEDIENT!"
+
+</text>
+<image timestamp="2002:09:03:15:15:17.00" size="180707">000005S7.TIF</image>
+</page>
+</document>

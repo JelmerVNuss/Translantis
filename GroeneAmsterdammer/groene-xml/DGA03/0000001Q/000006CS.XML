@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280303</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Vlsitez notre exposition de la célèbre
+1
+'A-L
+S-O-N
+AGENCE-GÉNÉRALE
+Amsterdam - Sarphatistr. 34»Tel. 53748
+I PI
+
+10 PI
+Conduite Inférieure Souple Weymann
+Torpedo grand luxe 4 places
+Torpedo Sport Grand luxe 3 places
+Trois a n s de garantie
+(drie jaar garantie)
+IMPORTATEUR B. GERSTEL, DEN HAAG.
+
+</text>
+<image timestamp="2002:09:04:06:59:04.00" size="119950">000006CS.TIF</image>
+</page>
+</document>

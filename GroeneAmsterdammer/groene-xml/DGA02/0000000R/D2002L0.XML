@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19051029</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Republiek of Koninkrijk in Noorwegen.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 29 October 1905.
+Anist. Boek- en Stcendrukkerij. v/h. Kiierman, Harnis t\' Co.
+DE NoORWEEGSCHE: &gt;Daar komt mijn vriend Frithjof Xan.sen al met een kroontje aan. Ik moet toch eerst nog eens
+overleggen, of dit mutsje mij niet beter past".
+
+</text>
+<image timestamp="2002:08:22:16:27:02.00" size="503648">D2002L0.TIF</image>
+</page>
+</document>

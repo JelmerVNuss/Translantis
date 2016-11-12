@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281117</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2685
+DE GROENE AMSTERDAMMER VAN 17 NOVEMBER 1928
+Wetenschappelijke Varia
+KRONIEK
+De rechte weg: niet steeds de kortste
+door Dr. P. van Olst
+l
+N een der voorafgaande ..varia" besprak ik
+eenige nieuwere methoden ter opsporing van
+delfstoffen, o.a. langs niagnetischen weg of met
+behulp van een wring-balans, waarmee kleine
+wijzigingen in de aantrekkingskracht der a.arde
+werden aangetoond, die volgden uit de aanwezig
+
+heid van ertsen e.d. Op deze
+geologische-iiatuurkundige methoden van onderzoek kom ik mi nog
+eens terug, want er zijn nog een paar zeer vermel
+
+denswaardige systemen bij. Vooral
+het gebruik van een st-i smograaf
+bij het zoeken van zout als indi
+:atie van petroleum is interessant.
+Wat is een seismograaf? Ken
+toestel, dat aardbevingen voedt en
+registreert nog zelfs op zér verren
+afstand van het centrum der aard
+
+beving. Het is heelemaal geen
+kunst om een aardbeving te voelen
+als men er middenin zit en het
+eenige. dat voor ons bet symbool
+is van vastheid, n.l. de grond on
+
+der onze voeten, ons in den steek
+laat. Maar wel is het een heele
+kunst om als er geen vuiltje aan
+de lucht is. te kunnen zeggen:
+thans heeft er een aardbeving
+plaats waarvan het middelpunt
+ongeveer in Klein-Aziëligt; en dan
+nog door berichten, die er wekeïi
+over doen om ons te bereiken, in
+het gelijk gesteld toTvorden. Dit bereikt men met den
+seismograaf. Als men een gewicht aan een. touw
+hangt aan don zolder.heeft men een slinger gemaakt.
+die voorloopig in rust is. Als 11 i het huis. dus ook
+cle kamer een aardsehok krijgt, verplaatst de zolder
+zich een eindje. Het slingergewicht echter heeft
+door zijn traagheid (of inertie zooals de natuur
+
+kundige dit noemt) den schok niet meegemaakt,
+daar het niet onwrikbaar aan het huis vastzat.
+Het is daardoor achtergebleven en hangt even niet
+meer verticaal onder het ophangpunt. Dit komt op
+hetzelfde neer alsof er geen aardsehok was geweest.
+maar iemand het slingergewicht iets terzijde uit
+den evenwichtsstand had getrokken. De slinger
+zal daar door iets
+gaan slingeren.
+.Stel dat iemand
+na de:i aardsehok
+in de kamer komt.
+I lij zal j dan aan
+het zwakke of
+sterkere slingeren
+van den slinger
+kunnen zien dut
+er een scho'v ge
+
+weest is, en ook
+of de sclw&gt;k tttci'k'
+ui ziruk was.
+De seismograaf
+is ook zoo'n slin
+
+ger, alleen van
+een ander type om ook de allerzwakste schokken
+nog te voelen, die de bovenbeschreven slinger zelfs
+niet in beweging zouden brengen. Men maakt het
+toestel zoo dat het óf horizontale schokken voelt,
+Of verticale schokken, want met beide appa
+
+raten tegelijk kan men dan. iedereii willekeurig
+gerichten schok aantooiien. Immers een schuine
+schok is te ontleden deels in een horizontaal.
+deels in een verticaal bestanddeel. De
+verticaalseismograaf (fig. 1) bestaat uit een stevige stang
+O I), die bij C draaibaar aan den muur zit en bij
+]) een 7, ware n nietaalmassa M draagt. De stang
+met gewicht wordt gedragen door den
+spiraa.lveer S. die van boven vastzit. Krijgt 't toestel
+een verticalen schok omhoog, dan blijft h -t door zijn
+inertie even achter zoodat de veer iets uitgerekt
+wordt en het toestel pas mi.
+gaande schommelingen weer (
+De horizontaal-seismogi-aaf (
+uit een zwaar gewicht M. dat
+lange stang zit. die recht l
+verticale stang A 15. die bo
+kan dra i en dus de as is. waarom M en de hori zont a.Ie
+slang kunnen draaien. Krijgt hc.t toestel een
+horizontale schok dan blijft het weer even achter. Maai'
+van schommelen is thans geen sprake. Om dit te
+bereiken moet het toestel, zooals da.n ook in wer
+
+kelijkheid gebeurt, iets anders opgesteld worden,
+n.l. met de slang AH iets schuin. J let toestel zal
+dan bij een schok in slingering komen om den
+e\ enwichtsstaiid. Hoe minder de schuine stand
+verschilt van (h; verticale, des te gevoeliger is liet
+toestel: maar-men moet oppassen dat de- stand niet
+weer zuiver verlico^il wordt. wa.nl
+dan krijgt men geen schommelin
+
+gen meer. zooals ik reeds zei. Hoe
+langer de horizon ale stang en
+boe zwaarder het gewicht .M, des
+te grooter wordt ook de gevoelig
+
+heid voor zeer geringe schokken.
+(iewoonlijk maakt men hel toestel
+zoo, dat het zijn eigen schomme
+
+lingen automatisch opteeke it.
+Men laat nu in net te onderzoe
+
+ken terrein een lading dynamiet
+springen, die een paar nieter in
+den grond is ingegraven. Op deze
+wijze ontstaat een miniatuur aard
+
+beving, die een tiental kilometers
+in het rond te voelen is. tenminste
+met de beschreven gevoelige
+seismografen. De schok van de ont
+
+ploffing plant zich mi met zeer on
+
+gelijke snelheid voort in velschil
+
+lende stoffen. Door de lucht gaan
+de trillingen met een snelheid van ongeveer .5.511 M.
+per seconde, maar door rotsgrond. di ht bij de
+oppervlakte!, niet een snelheid van l SIM) M per sec.,
+en nog vlugger op groot er diepte. In ondcrgri nidsche
+zoutmassa's gaan de trillingen nóg veel vlugger,
+want de snelheid neemt in het algemeen toe naar
+
+mate de dichtheid afneemt en de veerkracht toe
+
+neemt. De snelheid in zont kan wel ISIM) M. per sec.
+bereiken, l Fel is dus mogelijk (fig. o) dat de ont
+
+ploffingstrillingen, die ten deele door den
+bovengrond ga.au van S, waar de ontploffing geschiedt.
+naar W. waar de scismngraaf staat, luti'r arriveereii
+dan de trillingen SAHW. die- door diepere grond
+
+lagen gaan en daar van A tot 15 door een zoulmassa
+lieeiigaa.ii. De langste weg wordt dus in kort eren
+lijd donrloopeii; vandaar dat ik begon met 1e
+zeggen: ilt' r.chie tre.ii ia niet uteetls ili' k'irtxtc. Als
+men dus op verschillende plaatsen me{ deii
+seismograal' noteert waar de mi r natuur-aard hèving gevoeld
+wordt en vooral iKdiiiieer zij gevoeld wordt na het
+gegeven ontploffingssein. dan kan men in sommige
+gevallen als de trilling bijzonder vlug arriveert, uit,
+de/.e abnormale vlugheid conclndeeren dat er een
+zout massa inden grond zit, die dan als een indicator
+van mogelijke petroleum gebruikt kan worden.
+Maar de/.e metingen zijn alleen mogelijk met zeer
+gevoelige toestellen, die de zeer geringe, kunst
+
+matig opgewekte aardschorshevingen tienduizend
+keer verst erken; tegel ijk niet de/.e groot e gevoeligheid
+komt het onvermijdelijk gevolg, n.l. dat bet toestel
+op een zeer stevig voetstuk moet opgesteld worden.
+De windstoot, die een boom doet schudden.
+brengt daardoor tegelijk den grond in zwakke
+eelllge op- en
+neer&gt;t rust is gekomen.
+g. -1} bestaat ook
+aan een horizonla e
+ekig vast zit ajin &lt; en
+•n en onder in een tap
+trillinu": branding op de verre kilst ^ kan [vel- in
+het binnenland nog voelbaar zijn en bovendien
+kunnen allerlei voorwerpen door terugkaatsing de
+a.ardt rillinu'en bein\ loedeii. Al deze kleinigheden
+worden natuurlijk voor het zoo zeer gevoelige
+t rest el even zooveel bronnen van ernst ige storingen .
+Alleen herhaalde [proefnemingen geven dus een
+betrouwbare uitkomst, en da.n is weer de geoloog
+onmisba.ar om met zijn praktische ei-\arinu de
+na.t uurkundige feiten aan te vullen en uil te leggen.
+tiirtiiigrnis «lor waarheid
+
+~\ K mort het nogeens hebben over liet
+..rechts-* plegel)".
+Nu naar aanleiding van de wel heel lang geleden
+('nlemborgsche moordzaak, waarvan thans liet
+vertraagde tweede deel voorde; Tielsche rechtbank
+..dient." Ofschoon het waarlijk tol niet vet&gt;l dient.
+l )e/.e Tielsche rechtbank liad de verkeerde ver
+
+oordeeld op getuigenissen, die. na een moeizaam
+en volhardend onderzoek van de Verdediging,
+later volkomen valsch bleken. Met het voor de
+justitie logisch gevolg, dat nu de valse h e getuigcrs
+wegens nx'ineed moesten terechtstcia.il en wel
+veroordeeld zullen worden. Zulk een rechterlijk
+college is als een hakmachine, wat er onder geleed
+wordt, gaat ei' aan. bedoeld of niet. kostbaar of
+niet. Want zoo ondersehe.idingloos als het eerste,
+zal ook dit tweede oordeel zijn, dat, welbeschouwd,
+een eigen ooi-deel inhoudt. Het is immers gebleken,
+dat Mier op uiterst zwakke basis recht gesproken
+is, nu men de beide hoofdgetuigen opnieuw ziet
+verschijnen: allerprimitiefste zielen, nauwelijks liet
+dierlijke ontstegen, voor elke suggestie vatba.a.r,
+die hun stomp egoisme voordeel belooft, of hun
+a:igst voor de gestelde machten helpt verminderen.
+Wat weten de/.e menschen van de waarheid", of
+hoe /.ouden /.ij hun eigen indrukken of gewaarwor
+
+dingen kunnen verstaan en ontkomen aan de
+kh.derlijke fantasteneen, die, als verlengstukken
+van die indrukken, in hun verwarde hersens ter
+
+stond opstijgen;1
+Ken enkele wenk naar den kant van hun veilig
+
+heid of voordeel is dan voldoende om bun de
+..feiten" in dien zin te doen plooien, en eenmaal
+zoo vastgesteld, groeit die interprctat ie in zeker
+
+heid, tot de getuigei-s inderdaad niet anders weten
+of het is de zuivere waarheid, die /.ij spreken.
+Ook ;•,! waren /.ij in liet begin daar niet zoo heel
+zeker \;i».
+Aldus in de/.e armoede van begrijpen, voelen
+en zich herinneren, verschenen /.ij in hel kabinet
+va.:i den rechter van instructie, die enkel ..de
+w.i.'i.:-hcid ' zocht, hetgeen hier eenvoudig zeugen wil
+de bevestiging va.n zijn constructie en opvatting
+der feilen. w;1..;.1 ::t oe. de/.e zielige wezens vanzelf
+sprekend. het kneedbare materiaal leverden.
+Natuurlijk beïnvloedde hij hen niet bedoeld of
+bewust, ma.iir hij miste de menschenkeiinis. om ge
+
+tuigenis en zijn eigen oordeel daarin, naai- waarde
+te schatten en was denkelijk ook een ietsje te veel
+overtuigd van /.ijn inzicht in crimineele zaken.
+/oo bouwde deze rechter, met vaste en vaardige
+hand. het gebouw des misdrijfs op, tot eigen en dei
+rechtbank tevredenheid, en had daarbij maling
+a.a,n dwaze psychologische bezwaren en subtili
+
+teiten.
+Waarvoor tha.ns deze onnoozele zielen zullen
+boelen, /oo wil het Wet en Justitie. Op hun
+hoofd komen de onwetondhedeii, licht vaardig
+
+heden, ijdelheden en vooroordeelen dei' heeivn
+rechters. Kn er was ook nog een advokaa.t. die
+niets Ier \erdediging te zeggen vond. bij dit
+rechts-plegen ....
+K. C.
+BRANDBLUSSCHER
+HOLLANDIA"
+SPANJAARD&amp;C2
+FABRIEK ESPANA
+UTRECHT
+
+</text>
+<image timestamp="2002:09:05:16:48:21.00" size="177380">0000073L.TIF</image>
+</page>
+</document>

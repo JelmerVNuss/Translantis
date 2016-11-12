@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141206</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+6 Dec. '14. No. 1954
+Nieuwe Uitgaven
+Tony" (Mr. ANTON BERGMANN). Ernest
+Staatadvocaat. Schetsen en beelden. Met
+levensschets van Dr. J. F. J. HOUMANS, en
+met een voorrede van POL DE MONT, 14e
+druk, met platen van WALTER VAES, 227
+bladzijden. Amsterdam, S. L. van Looy.
+HENRICH LHOTZKY, Mensch, erger je niet.
+Vertaald door Mevr. QOUDSMIT—POLANO,
+165 bladzijden. Prijs ing. f 1.25, geb. f 1.75.
+Zutphen, W. J. Thieme en Co.
+Is. QUERIDO, Amsterdamsen Epos. De
+Jordaan van Nes en Zeedijk, 543 bladzijden.
+Prijs ing. f225, geb. f2.75. Amsterdam,
+Maatschappij voor goede en goedkoope
+lectuur.
+A. W. STELLWAOEN, Historische Feuille
+
+tons (18de eeuw) Het leven van Frederik
+den Groote. Geïllustreerd, 261 bladzijden.
+Rotterdam, J. M. Bredeé's boekhandel en
+uitgeversmaatschappij.
+ATTIE NIEBOER, De Geur van de Kamper
+
+foelie, 288 bladzijden. Prijs ing. f 1.50, geb.
+f3.10. den HaBg, C. L. G. Veldt.
+HENNY KOCH, Eva van den Eijkenhof.
+Een verhaal voor jonge meisjes naar de
+vierde Duitsche uitgave door C. NOYON met
+4 platen van FRANS LAZAROM, 224 bladzijden.
+Bussum, J. A. Steenwijk.
+A. F. PIECK, Boertje, met 4 platen van
+C. J. VAN OVERBEEK, 175 bladzijden. Prijs
+geb. f 1.75. Bussum, J. A. Steenwijk.
+Inhoud van Tijdschriften
+Morks' Magazijn, Nov. '14. De wereld
+
+oorlog, door een Journalist. C. C. A.
+Croin, Uit de geschiedenis van het Nihi
+
+lisme. Gerard Krekelberg, Over oude
+volksgebruiken in de Nieuwe wereld.
+A. Groner, De negen-en-zeventigste.
+D. J. van der Ven, Merkwaardige boeren
+
+huizen uit het verwoeste Oost-Pruisen. P.
+Riccardijn, Oud Blauw. Boekbespreking,
+Verzen enz.
+De levende Natuur, afl. 15: Dr. Arend L.
+Hagedoorn, Ratten. Jac. P. Thijsse, Een
+aardige overbuur. J. H., Uit de tijd
+
+schriften. Vragen en korte mededeelingen.
+De Natuur, afl. 11: D. S. S., Onderzee
+
+booten. J. A. Maronier, Nog eens de wichel
+
+roede. J. H. E. Rückert, De beteekenis
+,der inundatiën bij Neerlands verdediging.
+A. J. Domis e. i., Pneumatische pianos.
+J. Heimans, Het stereoscopisch zien als hulp
+
+middel voor de physiologie van het zien.
+Dr. D. Knuttel, Proeven met ultra-violette
+stralen. Dr. A. J. C. Snijders, De reuk
+en de smaak. L. Y., Sterrekundige
+mededeelingen voor den winter van 1914—15.
+Dr. A. J. C. Snijders, Eenvoudige proeven,
+De ontleding en de samenstelling van het
+witte licht. Korte mededeelingen.
+Boekaankondiging. Correspondentie.
+Den gulden Winckel, No. 11: Andrë de
+Ridder, Bij G. F. Haspels. y. E., De student
+Beets. Jan Greshoff, Herinnering aan de
+Bugra. .Gerard van Bekeren,
+Kantteekeningen bij de literatuur van den dag.
+Gerard van Bekeren en dr. H. J. Calkoen,
+Boekenschouw. Onze schrijvers en de
+oorlog. Letterkundig leven uit de tijd
+
+schriften.
+Lichaamsoefening, Nov. '14: Het
+zwemonderricht aan de schoolleerlingen te Rot
+
+terdam. Waardeering der volksoefeningen.
+De gymnastische training der recruten
+van lichting 1914. Waarom onze beenderen
+hol zijn. De sociologische beteekenis der
+collectieve kinderspelen. Verslag van den
+stand en van de verrichtingen van den Ned.
+Bond v. Lichamelijke Opvoeding gedurende
+het tijdvak l Juli l Oct. 1914.
+Schoonheid en Opvoeding, Nov. '14: A. G.
+Dyserinck, Terugblik. Dr. A. v. d. Water,
+Schoolversiering. C. Vrij en M. A. Schaly,
+Uit de praktijk, Handenarbeid en Handwer
+
+ken. Boekbespreking. J. Schreuder,
+Een merkwaardig stamelgebrek. Van verre
+en nabij. Onze beweging.
+De nieuwe school, au. 11: Onze klassieken.
+Montessori. Boekbeoordeeling;
+Kinderlectuur. Hatelijke kroniek. Het andere
+standpunt.
+Tijdschrift voor wijsbegeerte, Nov. '14:
+Dr. E. D. Baumann, Over de ontwikkelings
+
+idee in de geschiedenis van Herder tot
+Lamprecht. Mr. R. Kranenburg, Over de
+noodzakelijkheid eener rechts- en staatsleer
+op psysologischen grondslag. E. A. von
+Schmit, Het kenvermogen en het rijk der
+gedachten. Hedendaagsche wijsbegeerte:
+Standpunten en stroomingen. Boekbe
+
+spreking.
+Beeldende Kunst, 2e jaarg. afl. l:
+Grieksche kunst. E. Boursse, Egyptische kunst.
+Onbekend, Ned. meester 15e eeuw. H.
+Vroon, geb. te Haarlem, 1566, overleden 1640.
+Jacopo Della Querido, geboren omstreeks
+1371 te Quercia bij Cicua. Keulsch
+steengoed, Vincent van Gogh, geb. 1853, over
+
+leden 1890.
+De Vrouw en haar Huis, nr. 8, 1914:
+Kerstplaat-teekening van Annie Tollenaar.
+Johanna A. Wolters, Heilige dagen. - Alb.
+Steenhoff-Smulders, Constance Teichmann.
+Margriet, Van vrienden buiten voor
+buitenvrienden. S. P. W. Scheidius, Kunst in
+linnen. Huiskleeding. Naaldwerken
+voor 't Kerstfeest. Wetenswaardigheden
+van den dag. Breiwerk. A.
+deGraaffWüppermann, Eenvoudige Kinderpartijtjes.
+Martine Wittop Koning, Oud-Hollandsche
+Kerst- en Oudejaarsavond tractaties. Elck
+wat wils. Aan belangstellenden. Nieuwe
+uitgaven. Berichten.
+Onze Eeuw Dec 1914: C. M. Vissering,
+Een zeereis (II slot). H. H. van Dobben,
+De eerste drie maanden van den grooten
+oorlog in 1914. Adele Withof, Het medail
+
+lon. H. van Malsen, Groen van Prinsterer
+en Heinrich Leo (II slot). G. F. Haspels,
+Nieuwe boeken. - C. K. Elout.Binnenlandsch
+Overzicht (Onrust). Buitenland. Lees
+
+tafel.
+De revue der uitvindingen en ontdekkingen,
+lle jaarg. nr. 5: Beschouwingen over de
+sterkte der verschillende legers, die thans
+in het veld zijn. De bewapening der
+oorlogvoerende mogendheden voor zoover
+de landlegers betreft. De
+intendancedienst. Gezondheidsdienst en de zorg
+voor de frewonden te velde. Hoe over
+
+ziet en controleert een opperbevelhebber
+een gevechtsfront van meer dan 100 KM.
+De oorlog in de lucht. De vlooten der
+oorlogvoerende mogendheden.
+- APENZEEP.
+spiege
+Zal
+Maakt de koekepan als een
+el.
+Zal Uw vaatwerk en
+kachelzink doen glinsteren.
+Slijpt de messen zonder kras
+
+sen blank en scherp.
+DE
+BEGRAFENIS-ONDERNEMING
+J. D. STRTTIJS &amp; Zn.
+Prinsengracht 837. Telephoon No. 906.
+1ARGARETHA BOAS,
+Oosterpark 29.
+Telefoon Z. 6007.
+FfjÉnre et Manicure.
+Dagelijks te consulteeren
+fl. A- PASSENS,
+THANS ALLEEN
+Reguliersgracht 31,
+AMSTERDAM, Tel.8393.
+Speciaal adres voor
+Corsetten naar maat
+Ateliers voor reparatiën.
+ALLEN DRAGEN
+Kousen en Sokken van
+WICHER
+UTRECHTSCHE TRICOTABE FABRIEK
+UTRECHT.
+
+AVIATA" Barantie Kousen en Sokken
+Gegarandeerd voor 6 maanden.
+Wy verstrekken gaarne adressen van wederverkoopers.
+VAN R IJ N'S,
+DEBESTtMOSTER1
+Opelkc gracht, in elke straal,
+Wanneer de deur maar open
+Ziet gij het prachtig resultaat
+
+Van LIEVEGOED's
+
+Schüiirpreparaat
+(voor houtwerk, marmer en
+steenljfs).
+In (ïssclic cartons overal
+verkrijgbaar.
+
+KOXO" ZAL HET HAAR
+
+IN GOLVENDE,
+
+ZYDEACHTIGE KRULLEN
+
+HOUDEN.
+"KOKO" IS ZUIVER EN
+HELDER OM TE
+
+GEBRUIKEN EN HEEFT
+
+"VERDIENSTE."
+EN VERFRAMEH
+U ES "KOKO"
+FLESCH
+Ken xuivere, ITolde
+Versterkt de klieroi
+-"\ ooikuint het Spl
+
+Hoofd/en on
+Hooheeft -me
+men hot zacht in eo
+e. Niet vette vloeistof -bevordert den Hfiartrroei
+on doet dienst als een Tonicum voor do Haar\vorlel
+'I en of l'it vallen.
+v:&gt;nl\vynen. nadat men " Koku een i&gt;;iar keer
+t het eenvoudig op het HM;H', dan \vr\ fl
+e no ku'waartsehe richting en borstelt bet flink.
+UW APOTHEKER, DROGIST OF KAPPER HEEFT "KOKO" VOORRADIG
+EN HY ZAL U DE TEVREDENHEID VAN ANDERE VERBRUIKERS
+MEDEDEELEN. KOOP VANDAAG EEN KLEINE FLESGH (F. 0.75).
+PRIJS: Fl. 0.75, fl. 1.60. en fi. 3.00 per flacon.
+Firma B M E l NDERSM A. Sneek.
+Depöthouders te Amsterdam: A. D. DEN BOER, Overtoom 91; L.
+SIMONS, Amstelstraat 49, Oude Hoogstraat 3-17; L. WBSTERHOFF,
+Haarlemmerdijk 19; J. H. TEUNISSEN JZN., Vijzelgracht 55, ie v.
+Swindenstraat 14, Kinkerstraat 118; TH. R. DE ZWART,
+Nassaukade 361, Weteringschans 183.
+«• andere dubbel fijne Likeuren
+BIJ
+M. P. POOLER 4? ZOOM, Rotterdam
+De drie Magazijnen voor Horlogerie van
+
+Gek, BREEN, Amsterdam,
+fflgracht 53, Nienteiüil 112, Haarlemmerstraat M
+HORLOGES, PENDULES, KLOEKEN.
+GOUDEN EN ZILVEREN WEBKEN.
+NATUURLIJK
+SPRUDELSALZ
+SALZ
+io datalleen echte Karlsbader
+Voor Namaak en vervalsching wordr gewaarschuwd^
+
+BfiGKAFENlSVEttEENIÖlMG
+TB AMSTEBDAM
+N. SAX Jr.
+P. C. HOOFTSTRAAT 38. Telef. Zuid 341
+LUIE
+BROODBUKERIJ
+PADL G. EISER,
+A1STERBAI,
+ROTTERDAM,
+levert BROOD bereid uit de BESTE GRONDSTOFFEN.
+S. J. VAN DE VLIET,
+ACCOUNTANT,
+Marnixstraat 4O9.
+NAGANT Automobielen
+fitnerali Agentuur voor Nederland en Koloniën
+AUTO-GARAGE CENTBAL.
+Telefoon 498. Maastricht.
+STEUNZOLEN
+(systeem Prof. HOFFA)
+met opstaanden buitenrand, die
+de ronding van den hiel omvat,
+herstellen den platvoet. J. A.
+M A SS ING, O. Z. Voorburgwal
+334, Amsterdam, tegenover het
+Binnen-Gasthuis.
+Mevr. G. v. d. BBINE,
+Corsetière,
+Keizersgracht 717.
+Een streeling voor de tong,
+een opwekking voor de maag,
+een waar genot voor kenners,
+is
+
+OUD'S KINAWIJN
+(vin tonique apéritif)
+Alom verkrijgbaar. Eenige fabrikanten
+
+WED. G. OUD Pz. &amp; Co.,
+PURMEREN D.
+ERVEN KRAMER
+• WIJDE KAPELSTEEG 4 D AMSTERDAM •
+• TELEPHOON N°266 $
+• FABRIEK VAN KANTOORBOEKEN •
+DE BONT &amp; LEYTEN'S
+BORSTPLAAT
+is D E) B U S T M
+A'DiL TEL. 1151. ATELIERS VOOR REPARATIES.
+ADRIAAN SCHAKEL,
+Heiligeweg 11-17, A'dam.
+Internationale Transport-Maatschappij
+voorheen
+VAN DER HOOP &amp; Co.
+AMSTERDAM.
+Directeur: JACS VAN DER HOOP M.Pzn.
+
+Verhuizingen. - Bewaring van Inboedels.
+Expeditie.
+Agentschap der Nederl, Stoomboot-Reederij.
+Dagelijksche sneldienst naar en van den Rijn.
+•^^^•^•••M^^^H^^^^^^H
+
+Telegram.
+
+In het belang van ons uitgebreid l
+personeel verzoeken wij thans goe
+
+deren om te stoomen of te verven)
+naar onze fabrieken ie zenden.
+Er kan nu meer tijd en zorg aan l
+de goederen besteed worden, en heeft j
+de aflevering zeer spoedig plaats.
+Stoomververg en Chem. Wasscherg
+
+DE
+TILBURG, Augustus 1914.
+Filialen te: AMSTERDAM, Heiligeweg 3, Tel. 10503;!
+DEN HAAG; Heulstraat 25, Tel. 4042; UTRECHT, Oud
+
+kerkhof 28, Tel. 2329; ARNHEM, Bakkerstraat 13, Tel. 1480;
+ROTTERDAM, Schied. Singel 30c, Tel. 6686; TILBURG,
+Nieuwlandstraat 57, Tel. 72.
+Depots in de voornaamste plaatsen van Nederland.
+Waar niet vertegenwoordigd, verzoeke rechtstreeksche |
+toezending naar de fabriek. Franco tegen franco.
+
+</text>
+<image timestamp="2002:08:21:04:44:18.00" size="390592">D40001IT.TIF</image>
+</page>
+</document>

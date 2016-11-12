@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280310</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 10 MAART 1928
+No. 2649
+J. D* STRUIJS &amp; Zn*
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+SENK'NG
+CASFORNUIZEN EN COMFOREN
+OVERTREFFEN ANDERE Eli..
+ZUN GOEDKOOP.
+Cacao
+LUCULLUS
+INHAAKCLAZEN
+IDE BESTE EN GOEDKOOPSTE
+| OVt B AL VERKRYOB AAB
+AOBES Vo HANDEL
+l JOM-M.VAN DER MEIOEN
+AMERSFOORT
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P .O. Hooftstraat U AMSTERDAM Tetef.s 20341. 24256
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiiiiiiiiiiiiiim^^
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers j
+BQ ons verkrijgbaar
+N. R, V, MONTA SCHOENEN
+IIIIIIIMIIIIIIIIIIIIIilllllllllllllllllllllllllllllNIIIIIIIIIIINNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTERDZUUR MET DB FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED"S FABRIEKEN
+N.v. ..DE HOUTTUINEN". AMSTERDAM
+DROSTE S
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+DAALMANS
+doek
+uw wasc/i	e/i
+d&amp;zJt
+KDNINKLATOOM-WAMCHEB1J
+GOUDA TELEF.
+AMSTERDAM TEL.
+s CRAVEMHACE TEL. 7253O
+BiDXIlMEHINIIICHTINGEN
+zoowel eenvoudige als betere uitvoering.
+G, J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+Clichés
+Voor alle doeleinden
+NV
+Chem. Kunsti n ricti ting
+DirkSchnabei
+Amsterdam. '"
+
+</text>
+<image timestamp="2002:09:04:07:55:48.00" size="109720">000006DO.TIF</image>
+</page>
+</document>

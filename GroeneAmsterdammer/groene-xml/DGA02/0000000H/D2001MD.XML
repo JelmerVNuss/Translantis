@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021130</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No, 1327
+DE AMSTERDAMMEB WEEKBLAD YQOE NEDERLAND.
+U
+De demonstratie der Amsterdamsche Kamer van Koophandel tégen de verkiezing der Heeren Fiedeldij Dop en Verster.
+Peigonen: ASNOLD (uit GuUlaume TM).... de heer August Hendrich».
+KOOR VAN EEDGEfooTEN	de leden der Kwner van Koophandel (bshaWe da II.H. Fiedeldy Dop en Verster).
+ARNOLD : Ao»ia, aaus, reeocdex uu vwofeanoe ! ARNOLD : Sur mes pas !
+Sai«ez mol l KOOE : Sur tes pas l
+KOOR : Nous te suivors ! Ni la victoire, ni Ie trépas !
+Herakles Von Bülow op den tweesprong. (Lustige Bldtter).
+[De doodskamer voor de amendementen op de schoolwet. (Punch)
+Minister-president BALFIUB: »Er in moet jelui, viiendjesl"
+Een historisch document. (Le Rire,).
+
+Toen de Holirnzollern tf, Port- Victorn in
+zicht ii'dti, zagt'n de lïii&lt;/i'lnc/i&lt;'ii. dii: di-n
+K&lt;"iztfr tt'ilt'liioi'i ku'mnnt t'tniuid. qf/ril;'/c&lt;jid
+'hi den Imiyen mantel min c&lt;ivnlli'rif-i&gt;(li&lt;-i/'/',
+• dii' op hi'l di'k lii'fn i'n weer liep. liet wan
+Keizer Wilhelm II.
+Toen irij aan boord kimmen, zagen zij
+Willielm II in klein tenun van Ent/efsche
+ndtiiif'i/tl. Te O uur ,?0 ontucht1'pt de Keizer.
+Hij di-iii'fi dn schitterende uniform van
+Koloiit l vun het leUei/.Driif/onders. Eindelijk
+slitjite li'i te, X«wliiiic/Innn aait ii'al, geldeed
+in xlni/j'tx en met een huoge lioed op.
+Vloeibare lucht. (Uil}.
+Het nieuwste atkneiirgamiide), den voorzitter van den
+Oostenrykschen Ilykaiaad dringend aanbevolen.
+Onder bloedverwanten. (Le Eire).
+Een instantanévan Keizer Wimelm, genoman op het oogenblik van zyn ontschepirg ta Dover.
+WILHELM, ui . •• oorn, ik hou veel van je !"
+EuwAhD : »ik oiik, myn jorger, ik hou veel van je en
+•dat is wfa al lts wat ik besloten ban voor je te doen."
+
+</text>
+<image timestamp="2002:08:18:19:53:04.00" size="400434">D2001MD.TIF</image>
+</page>
+</document>

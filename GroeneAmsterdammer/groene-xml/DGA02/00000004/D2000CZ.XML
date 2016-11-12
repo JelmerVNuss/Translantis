@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000204</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. H80
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Brand in het Chineesche Huis.
+JOHN BÜLL : »Laat me los, daar moet ik bij wezen."
+OOM PAUL: »Dat wou je wel, hè!"
+Zaken zijn zaken. (Ornn d'Aohe in de Figaro)
+Afgeluisterd in Frankrijk. (Moonshine).
+Zou hij springen ? (Punch').
+CHAMBERLAIN : »IIou toch asjeblieft je mond, ik moet naar de beurs."
+
+
+Uit Pasquino" Turijn.
+Alilic: »De Engelschen winnen niet !"
+l''ranseh Officier : »Dat komt omdat ze niet zulke
+dappere officieren hebben als Eaterhazy, Mercier,
+Boisdeffre, du Paty de Clam en zooveel anderen, die
+zoo kranig tegen Dreyfus vochten !"
+Uit Das Fidele Haus" Berlin.
+"
+LAix : »Zou die Hawkaley - correspondentie-granaat
+waarachtig springen ?"
+Samenwerking. (Punch.)
+Hoe de Afrikaansche leeuw ontstond.
+Zullen we niet probeeren onze koninklijke zuster te redden ?
+Hum l ik denk dat we haar nog maar een beetje moeten
+laten spartelen.
+Wat een verrassing! (Westnünster gazette).
+Mr. BALFOUR : «Verbeeld je Ilidley, die boeren hebben werkelijk
+paarden."
+Sir M. W. RIDLEY : »Ja, hè1 en geweren ook. Wat een schande
+om ons zoo te foppen."
+Lord SALÜSUURV : »lleeren, 't kan me Liet schelen ictt ve zeegen
+als we maar 't n-l/'le zeggen."
+Der Boerenkrieg..
+U?'1*
+2« iïngelxche of/kier : »Damn ! Die Boerengranaten hebben een vreeaelijke
+uitwerking."
+SeEflgdsclieofficier:»(j&lt;ïw wonder. Ze zyn uit mijn vaders fabriek." (Ulk). miken. (Psentbriefkaart).
+Hoe de Boeren momentopnamen van de in Durban aankomende Engelschen
+
+</text>
+<image timestamp="2002:08:14:05:11:23.00" size="447408">D2000CZ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160722</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET VERMINKTE BEELD DER OVERWINNING
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 22 Juli 1916
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+Nike, godin van triomf, door 't bloedige krijgswerk bevochten
+Eens waart ge schoon van gestalt, een lust voor de oogen der menschen
+Heerlijk, onmisbaar, compleet, 't verlangen der eedelsten waardig,
+Sierlijke last op de hand van Pallas Athene, de Wijze.
+
+Thans heeft het wentelend rad van den tijd uw schoonheid gebrooken,
+Ruuw en barbaarsch schijnt den eedlen de krijg met niet-geestlijke wapens
+Walging wekt hun een zeege, die niet is een zeege der liefde,
+Nikè's volmaakte gedaante verging tot afzichtljjke tronk.
+FREDERIK VAN EEDEN
+
+Naar het beroemde antieke Beeld der Overwinning, de Nike" van Samothrace,
+(van 300 j. v. Chr.), thans in deerlijk gehavenden toestand in het Louvte te Parijs.
+
+</text>
+<image timestamp="2002:08:22:15:42:55.00" size="135947">D40002GH.TIF</image>
+</page>
+</document>

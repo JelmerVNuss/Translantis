@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940715</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL v»n &lt;fe Amsterdammer, Weekblad voor Nederland, van 15 Jaü1894
+De dramatische kunst in Amsterdam.
+Amsl. Hoek- en Steeiulnikkcrij, vili. Ellertnan. Marms &amp; Co.
+AMS'i'üRDAMSf'iiK STKDKMAAGD: «Zoudt U denken, meneer Veltman, dat de dames weer genezen zullen?"
+De Meer VKLTMAN : s Mevrouw, ik ben de oudste tooneeldirecteur van ons land, maar zoo ziek heb ik ze nooit gezien! Misschien komen
+ze er weer boven op. - maar ik geloot niet dat ik het beleven zal."
+
+</text>
+<image timestamp="2002:09:03:11:26:59.00" size="358593">D1000472.TIF</image>
+</page>
+</document>

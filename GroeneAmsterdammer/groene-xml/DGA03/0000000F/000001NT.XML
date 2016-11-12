@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081122</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1639
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Een algeheele reorganisatie van
+ons Lager Onderwijs.
+Het is algemeen bekend en in
+onderwijsbladen zeer vaak herinnerd, hoezeer de
+schoolkinderen hebben 'te lijden onder het
+jagen naar actes. Niets ligt immers meer
+yoor de hand, dan dat onderwijzers, die ter
+wille van salarisverbetering dikwijls tot
+laat in den nacht gebogen zitten over hun
+studieboeken, den volgenden morgen prik
+
+kelbaar op school komen. En ieder, die
+zich even kan indenken in het klaaseleven,
+gevoelt, dat de kinderen de dupe worden
+van de studie.
+Maar dit alles is al zoa vaak gezegd, dat
+het uilen naar Athene dragen zou zijn, hier
+
+aan nog iets te toe te voegen. Reeds voor
+vele jaren werd er in de vakbladen op
+aanfedrongen, dat er een wetswijziging mocht
+omen, die n bevoegdheid eischte voor
+hen, die zich zouden belasten met h et geven
+van lager onderwijs, zoodat er eenmaal voor
+den onderwijzer een leeftijd mocht komen,
+dat hij wezenlijk was uitgestudeerd, zooals
+een dokter, een advocaat, een officier, een
+land me t er, enz. ook eenmaal klaar is met
+examenstudie en zich dan aan vrije vak
+
+studie kunnen wijden. Maar tot nu toe
+heeft geen der elkaar opvolgende ministers
+het noodig geacht, een poging te doen, om
+die z. g. prikkel, beter ware misschien ge
+
+zegd : óverprikkel uit den weg te ruimen.
+Maar behalve de afjakkertnde examen
+
+studie is er nog anders, dat den tijd, die
+buiten de school wordt doorgebracht, in
+beslag neemt: daar zijn privaatlessen,soms
+tegen een honorarium van een kwartje per
+uur gegeven; er zijn onderwijzers, die ver
+
+slaggever of correspondent zijn van kranten
+en vergaderingen afloopen of elders
+rondspeuren naar nieuwsberichten; anderen zijn
+agent van een levensverzekeringmaat
+
+schappij en verpletten vele uren om ver
+
+zekeringen af te sluiten; er zijn er, die des
+"Woensdags en des Zaterdags middags en
+verder de geheele week van vijf tot tien
+'s avonds op een kantoor werken en voor
+de driehonderd gulden, die ze verdienen,
+een vakboekhouder uilisparen; weer anderen
+z\jn directeur van een zanggezelschap of
+dirigent van een fanfarecorps, er zijn er,
+en ze zijn niet zoo zeldzaam, als de uit
+
+drukkelijke verbodsbepaling in de onder
+
+wijswet zou doen vermoeden, die handel
+drijven, dikwijls in sigaren; van een heb
+ik zelfs hooren zeggen, dat hij handelde in
+brandstoffen en bier.
+De geringe salarissen, ook in de gropte
+steden, zijn aan te wijzen als de eenige
+oorzaak van die misstanden. "Want het
+lacht den meesten onderwijzers niet aan,
+hun kinderen barbier of bakker, of tot
+welk, overigens achtenswaardig handwerk
+dan ook op te laten leiden. De nood is er
+voor de onderwijzers en de wet wordt ge
+
+broken. Ieder onderwijzer weet het van
+zichzelf of van zijn naaste omgeving. Niets
+zou nu gemakkelijker zijn, dan een eind te
+maken aan die zelfex-ploitatie van de onder
+
+wijzers, als het eene noodige daarvoor aan
+
+wezig was: finantiën. Want het lijdt geen
+twijfel, dat onderwijzers, die nu, om een
+getal te noemen, ƒ 800 verdienen, graag alle
+bijbaantjes* zouden laten varen, als ze eens
+ƒ1600 kregen. En welk een gunstige ver
+
+andering der gemoedsstemming zou een
+Amsterdamsen geneesheer, die daarover eens
+een merkwaardige studie heeft gemaakt,
+dan kunnen constateeren bij die onderwij
+
+zers! De discussie's in gemeenteraden bij
+de behandeling der salarisregelingen, noodig
+geworden door het wetje ink heeft eens
+weer doen zien, hoe weinig men over het
+algemeen geneigd is, of misschien in staat
+is, den onderwijzers een salaris te geven,
+dat hun in staat stelt, als net mensch, zon
+
+der allerlei vaak jammerlijke bijbaantjes
+te leven. En bij het zoeken naar een ver
+
+ontschuldiging voor die geringe waardeering
+valt als eerste oorzaak op, het groote aantal
+onderwijzers, dat er noodig is. Hoe kleiner
+een aantal ambtenaren is, des te grooteris
+de waardeering, ook geldelijk en daar gaat
+het hier in hoofdzaak om. Hoezeer die wet
+onverbiddelijk werkt, hebben o. m. de medici
+kunnen ervaren; naarmate het aantal
+geneesheeren grooter wordt, neemt ook het
+ontzag van het publiek voor den dokter af
+en zij niet minder dan allen zien door de
+overvoerdheid hunner markt hun
+bestaansstrijd inspannender worden.
+De kwestie van vraag en aanbod heerscht
+ook hier, evenals overal elders.
+Nu is er evenwel voor de onderwijzers
+door de Wet gezorgd, dat schriele gemeen
+
+tebesturen niet beneden een zeker minimum
+kunnen gaan bij de vaststelling der sal*
+rissen. Dat de bezoldiging niet afdoende
+geregeld is, misschien niet kan worden,
+onder de bestaande toestanden, is boven
+herinnerd.
+Een maatregel van geheel afdoende aard
+worde hier voorgeslagen.
+Men stelle zich een 12-klaesige school
+voor; iedere onderwijzer heeft niet n
+klas van b.v. 40 kinderen voor zijn reke
+
+ning, maar twee met dien verstande, dat de
+ne klas des morgens alleen onderwijs
+krijgt, de andere klas des middags en niet
+twee uren, zooals thans, maar ook drie
+uren, zooals des morgens.
+In verschillende vakkringen, gesteund
+door de adviezen van psychiaters zijn ook
+hier te lande reeds stemmen opgegaan voor
+het doen vervallen van n schooltijd,
+zoodat de leerlingen slechts een schooltijd per
+dag zouden hebben.
+Ervaringen over al of geen achteruitgang
+van de positieve kennis der leerlingen kun
+
+nen we hier niet vermelden, daar we dit
+niet ter beschikking hebben.
+Wel zijn mij gevallen bekend van ouders,
+die voor de invoering der leerplichtwet de
+kinderen alleen des morgens naar de school
+stuurden en volgens de ervaring van ouders
+en onderwijzers zonder schade voor de leer
+
+lingen.
+Bij invoering van dit systeem zou een
+onderwijzer, die nu b.v. een tiende klas
+heeft, des morgens de tweede klasse hebben
+te onderwijzen en des middags zijn tiende.
+De kleinere kinderen konden zich dan des
+middags bezig houden met openluchtspelen,
+sloïl of wat anders; dat is hier voorloopig
+van minder belang. Daar nu iedere onder
+
+wijzer twee klassen heeft, zou precies de
+helft van het aantal onderwijzers gemist
+kunnen worden; zoodat elke onderwijzer
+het dubbele salaris kon hebben, zonder
+schade voor gemeente- of Eijksfinantiën.
+Ook in meerdere opzichten biedt het hier
+
+voor geslagen systeem groote voordeelen;
+het onderwijzen van kinderen van verschil
+
+lende leeftijden zal de onderwijzers behoe
+
+den voor sleur, die steeds op den loer
+liggenden vyand van friaeh, opgewekt onder
+
+wijs. Daar er nooit meer dan zes klassen
+tegelijk onderwijs krijgen, is het voldoende,
+scholen met zes lokalen te hebben, wat de
+controle in hoog e mate ten goede moet
+komen, evenals de administratie.
+Ook zouden de onderwijzers een nieuw
+en zeer practisch tuchtmiddel krijgen.
+Inplaats van het, zoowel voor de onderwijzers
+als voor de ouders hoogst lastige
+schoolblijven na twaalf en na vier uur, zou men
+een leerling, die het in d e ochtendschooltijd
+te bont heeft gemaakt, dien middag kunnen
+laten terugkomen.
+De voordeelen van het ditbbele systeem
+zijn hiermee lang alle niet genoemd.
+En nu zijn er verschillende zaken, die bij
+een eventueele proefneming uitgebreide dis
+
+cussie waard zijn, als: of het wenschelijber
+zou zijn, een onderwijzer twee hoogere
+klassen te geven of wel een hoogere en een
+lagere of twee lagere; enof de vrije school
+
+tijd beter voor dit of vooj dat kan worden
+besteed, enz.
+Maar de plaatsruimte voor dit artikeltje
+is gelimiteerd. We hopen, dat het hier
+uiteengezette hoofddenkbeeld, dat van het
+dubbele stelsel de aandacht waardig zij van
+hen, die belang stellen in ons volksonder
+
+wijs en dat zij, die er bezwaren tegen
+mochten hebben, daarvan zullen doen blij
+
+ken. Maar tevens worde dan ook de hoop
+uitgesproken, dat zij, die iets voor het voor
+
+gestelde systeem gevoelen, dit ook kenbaar
+zullen maken.
+Want al te dikwijls verneemt men wel
+de opvattingen zijner tegenstanders en al
+te zelden die zijner medestanders. En dit
+laatste is noodig, waar het een kwestie
+geldt als deze, opdat dit strekke tot aan
+
+moediging van hen, die een proef mochten
+willen nemen met deze reorganisatie.
+FKITS VAN KAALTE.
+Arnhem, 3 Aug. 1908.
+
+Na het persklaar maken van dit artikeltje
+wordt mij gezegd, dat een regeling als de
+door mij ontworpene voor vele jaren reeds
+werd voorgesteld door ik meen dr. Fockens.
+Als die mededeeling juist is, erken ik gaarne
+de prioriteit van dien schrijver, wiens ge
+
+schrift hierover mij overigens niet bekend is.
+- Fr. v. R.
+iK komische
+oyer misdadigers.
+Harry Furnis vertelde dezer dagen in een
+Causerie die hij noemt: The Oomic side of
+Crime", eenige werkelijk dwaze bizonderheden
+over bekende misdadigers. Een daaraan be
+
+treft een beruchte moordzaak, waarbij de
+misdadiger, een boerenzoon, een meisje
+gehaakte, haar vermoordde en spoedig daarop
+langs den meer en meer gebruikelijken weg"
+d. w. z. per advertentie aan een vrouw kwam,
+die hij huwde om vervolgens een school voor
+jonge juffrouwen op te zetten. Zie hier de
+advertentie, waarmee de ellendeling, wiens
+daad een jaar later werd ontdekt, een vrouw
+wist te kiijgen.
+Indien dit de attentie mocht trekken van
+een dame van aangenaam karakter, die ge
+
+negen is een gezellig, teeder, vriendelijk en
+sympathiek levensgezel te ontmoeten, zal zjj
+deze1 advertentie haar aandacht waardig
+vinden."
+Een ander verhaal betreft een kaffer, die,
+voortdurend, zonder betrapt te worden, dia
+
+manten gestolen had in de mijnen, en toen
+hij er genoeg had, blijmoedig afscheid nam,
+zijn vee voor zich uitdrijvend. De opzichters
+zagen hem met wantrouwende blikken ver
+
+trekken, en op het laatste oogenbük be
+
+sloot er een, hem toch nog eens terug te laten
+komen en te onderzoeken. De kaffer was
+woedend, bezwoer dat hij een eerlijk man
+was, en dat men slechts jaloeisch was opzijn
+vee. A.ls ik dan moet teruggaan," riep hij
+dol van woede, zal je de beesten toch niet
+hebben!" En hij schoot al het vee met zijn
+eigen gaweer dood. Hij werd teruggebracht
+en onderzocht.^ Men vond niets. Nu moest
+men hem wel weer vrij laten .en sloeg voor
+hem als schadevergoeding levend vee voor
+het doode in de plaats te geven. Hij weigerde
+met zooveel verontwaardiging, dat men de
+zaak verdacht vond, Men hield hem vast en
+sneed de doode beesten open. In het lichaam
+der dieren vond men de diamanten. Hij had
+ze als hagelkorrels uit den loop van zijn
+geweer geschoten l
+Niet onvermakelyk is ook de anecdote van
+een oude juffrouw, die al twintig jaar lang
+iederen avond onder haar bed had gekeken,
+of er ook een dief verborgen was en er
+eindelijk werkelijk een vond! Zoo overtuigd
+was deze oude dame al dien tyd geweest, dat
+deze gebeurtenis ns onvermijdelijk moest
+plaats vinden, dat zij opgeruimd en kalm den
+dief toesprak: Zoo, ben je daar! Ik heb al
+jaren lang naar je uitgekeken l" De boef, zoo
+luidt het verhaal, was zoo verbluft door deze
+zonderlinge ontvangst, dat hij gewillig onder
+het bed vandaan kroop, de kamer uitsloop
+en het huis verliet. En de oude dame ging
+blijmoedig slapen ...
+Een andere dief en moordenaar, de be
+
+ruchte Charles Peace, leefde onder verschil
+
+lende namen op verschillende plaatsen en wist
+dan altijd weer, onder de handigste vermom
+
+mingen een andere rol te spelen. In een van
+die rollen, als stemmig en deftig oud heer,
+bezocht hij geregeld een drogist in de buurt.
+Eens kwam hy daar, terwijl hjj een goede
+sigaar rookte. Dat is puike tabak, meneer
+Johnson," zei de drogist. Hoe komt u aan
+die sigaren?"
+Ik stal ze," antwoordde Peace, volkomen
+naar waarheid. Hij had ze gestolen. De dro
+
+gist echter lachte hartelijk. Hy geloofde er
+natuurlyk niets van.
+Nu dan wou ik, dat u er voor mij ook
+eens wat stal!" zei hij. Peace beloofde het
+en kwam na eenigen tijd met een fijn kistje
+Havana sigaren.
+Kijk eens, meneer," zei hy' tot den dro
+
+gist, die heb ik nu voor u geatolen! Ik hoop
+dat ze u zullen bevallen." De drogist nam
+ze dankbaar aan, en lachte alweer uitbundig
+om de grap. Maar wederom had de ander
+de waarheid gesproken, want hij had ook deze
+sigaren van een klein inbraakj e thuis gebracht.
+M. C.
+tawe Uivaren.
+Om de Ou.de Wereldzee, door Dr. A. KUYFER,
+deel II, geïllustr., Amsterdam, Van Holkema
+&amp; Warendorf.
+Een jaar van Ut f de, Verzen van JAM WALCH.
+Amsterdam, W. Versluijs.
+De ichoone jacht, door ARTHÜR VAN SCHENDEL.
+Amsterdam, W. Versluya.
+Mijnheer J. B. Serjanizoon Orator Didaeticu»,
+door HERMAN TBIRLINCK. Buseum, C. A. J. van
+Dishoeck.
+A manie en Bnodo, door NINE VAN DEB SCHAAF.
+Amsterdam, Maas &amp; Van Suchtelen.
+Ida Weiterman, door GEKARD VAN ECKEREN.
+Amsterdam, P. N. van Kampen &amp; Zoon.
+tiet volle leven, door CYBIEL BUYSSE. Bussum,
+C. A. J. van Dishoeck.
+Zielestrijd, door A. S. C. WALLIS. Haarlem,
+H. D. Tjeenk Willink &amp; Zoon,
+Smcder &amp; Zoon, Roman door HENRI VAN
+WERMESKBRKEN. Amsterdam, Van Holkema &amp;
+Warendorf.
+Portretstudiet en silhouetten, door JAN VETII.
+Amsterdam, Scheltema &amp; Holkema's boekh.
+GÜIDO GEZELLE, Gedichten. Bloemlezing,
+samengesteld door dr. ALEIDA NIJLAND. Am
+
+sterdam, L. J. Veen.
+Opstellen, door M. H. VAN CAMPEN. Bussum,
+C. A. J. van Dishoeck.
+Het studentenleven in de literatuur. De mede
+
+werkers van Klikspaan, door dr. JOHS.
+DYSBRIKCK. Amsterdam, Meuleahoff &amp; Co.
+De blinde loods, door GIOVANKI PAPINI, door
+ELISE GOSSCHALK, met een inleiding van
+ALBEET VERWET. Amsterd. Maas &amp; v. Suchtelen.
+Vaderschap, Eensnaaksche roman, door JOH.
+STEUNEN. Rotterdam, Ny'gh &amp; Van Ditmar's
+Uitgevers Maatschappij.
+Wat niet kon, door HEBMAN HEYERMANS Jr.
+Amsterdam. H. J. W. Becht.
+SAMÜEL FALKLAND (Herm. Heyermans Jr.).
+Gevleugelde daden, A vonturen der eerste
+Hollandsche luchtschippers. 2e goedkoope druk.
+Bussurn. C. A. J. van Dishoeck.
+Sou und Haben, Roman in sechs Büchern,
+von GLSTAV FREYTAO. Vom Verleger
+antorisierte ausgabe für Holland, Belgien nnd Kolo
+
+niën, mi t erklarenden Notizen von I. VAN AAI.S
+Lzn. Verlag von L. J. Veen, Amsterdam
+Lachjes en Traanljet, een prentenboek van
+G. CASPARI, met rijmpjes van 8. MAATHUIS
+ILCKENS. Baarn, Hollandia-drnkkery.
+Flindertjet, Teekeningen van KIE CRAMER,
+Versjes van A. SÜTORIUS.
+Ak't regent en sneeuwt, Versjes en prentjes.
+Geteekend door GERTRUD CASPARI,Amsterdam,
+P. N. van Kampen &amp; Zoon.
+Wijsbegeerte der openbaring. Stone-lezingen
+voor het jaar 1908, gehouden te Princeton N.
+J., door dr. H. BAVINCK. Kampen, J. H. Kok.
+Van de Revolutie tot de Restauratie, door
+JOHANNA W. A. NABER, 2e druk. Haarlem, H.
+D. Tjeenk Willink &amp; Zoon.
+Nagelaten studiën, door dr H. J. POLAK.
+Haarlem, H. D. Tjeenk Willink &amp; Zoon.
+Princes Wilhelmina, gemalin van Willem V,
+prins van Oranje, door JOHANNA W. A. NAÜER,
+geïllustreerd onier toezicht van E. W. MOES.
+Amsterdam, Meulenhoff &amp; Co.
+Paddeltje, De scheepsjongen van Michiel de
+Ruijter, door Jon. H. BEEN, geïllustreerd door
+J. H. LSINGS Jr. Alkmaar, P. Kluitman.
+Ome marine-glorie (1639—1673), Episoden
+uit het zeehelden tijdperk, door A. WERUMEUS
+BÜNINO, met een inleidend woord van prof. P.
+J. BLOK, met 55 illustraties. Leiden, A. W.
+Sythoff's Uitgevers maatschappij.
+Het Woord, zijn oorsprong en zijne uitlegging.
+Rede gebonden bij de overdracht van het
+Rectoraat aan de Vrije Universiteit 20 October
+1908, door dr. J. WOLTJER. Amsterdam, J. W.
+A. van Schaïk.
+
+(Vervolg op pag. 12.)
+l/ MATUUR
+WOLLEN
+OnDERGOEDEREn
+
+N.W.O.
+VoorElKJAARGETIJDEen
+ELKKLIMAATgeschikt
+Geïll: prijscourant
+francoopaanvraag
+verkrijgbaar.
+Verkoopersnamen
+worden gaarne
+opgegeven.
+Verweegen&amp;Kok,
+Zadelmakerij,
+Kalverslr. 88 90, Amsterdam.
+REISARTIKELEN
+LEDERWAREN.
+Oudste .Merk.
+, ST. NICOI^AAS-CADEAUX.
+| A. t el i er tot het vervaardigen van
+i diverse Kunstvoorwerpen.
+Oud-Hollandache en Hindelooper Meubelen.
+Binnen-Amstel 182. J. GOSSCHALK.
+Nieuwste Systeem.
+de CAW'S Vulpenhouder
+van BUKMAN &amp; SARTORIUS, A'dam,
+is liüallo Boekhandelaars en Ferry Magazijnen waanden,
+INo. 311 is de Courantste. ƒ8. ; franco p. p. ƒ 8.2O. •
+U E, I 14. M A X &amp; * A II T O Hit*. A W X» T K II l» t 31. •
+P. SLUIS' Ochtendvoer
+voor Mloemlers
+
+wordt thans het meest gebruikt.
+
+Volgens den hedendaagschen stand der
+wetenschap proefondervindelijk bet beste en
+• s~r- • -'- ** • goedkoopste Kippen voeder der wereld. Meer
+Handelsmerk. eieren dan met eenige andere voedering.
+Geheele voederkosten per Kip hoogstens l cent per dag. Postwissel a ƒ 1.
+5 Kilo franco thuis, met brochure 40 pagina's en desverlangd opgave van
+naastbJjzijnd depot.
+P. SL.UIS, N. Z. Voorburgwal 258, Amsterdam.
+Gevestigd sedert 1823. Telefoon 3006. Bekroond met 262 medailles.
+Gelukkig:
+zijn de kindr. waar m. voor koopt, l
+wonderschoon ijzerst. poppen ichommel,
+praalwieg, 65 c.M. Ig. bij 22 c M. etyl
+zwaan model, heeft lint in den bek,
+geh. compl., ook statiekleed, rose of
+blauw m. kant, l snoezige pop in
+bakerpak, l wit gel. toilettafel m. toeb. het
+intresante Duzaspel, l pop. ameubl.
+2 stoeltjes, l tafel, l eopha, l kast, l
+prachtig prenteb. met gekl. platen en
+yerb., 35 c.m. Ig. en 27 br.. 50 appar.
+tot het zelf verv. Pr. b. vogels, huizen,
+vlinders enz. Aangen. en leerz. bezigh.
+l graaf, Z. bestuurb. salonluchtschip m.
+6 H. en D , welke mede de lucht ingaan.
+Alles te zamen, goed verp. overal heen
+verz. op ontv. van postw. ƒ 1,50, vlugge
+bed. Speelg.fabr. de Kindervriend",
+Prinsengr. 146, A'dam.
+LOTJSICO.
+Het welbegrepen eigenbe
+lang van iederen lezer
+dezer Advertentie gebiedt
+het aanschaffen eener POLIS
+van LOTISICO.
+MT Op schriftelijk ver
+
+zoek aan het adres van
+LOTISICO, Julia.na van
+Het lederlandscll Accountants-kantoor onder
+Directie van A. v, d. STEMPEL Jr., belast zich
+met alle voorkomende
+Accountants-werkzaamheden, Telefoon 3425. - Weteringplantsoen 10.
+In de onmiddellijke nabijheid van het Vondelpark
+wordt met l Mei TE HUUR AANGEBODEN een fraai,
+uitstekend onderhouden HEERENHÜIS met TUIN.
+Huurprijs f1400.—. Br. onder lett. L R, bur. v. d. blad.
+Het nieuwste werk vanTOP NAEFF
+Oogst" is zeker het meest geschikte
+feestgeschenk voor Dames. De prijs
+f 2.90.
+in prachtband is
+Maar dit weet ik wel, als ik met 5 December
+een verlanglijstje mocht geven van toeken, die
+ik het liefst zou willen hebben, dan stond Oogst"
+van TOP NAEFF bovenaan."
+W. GRAADT VAN ROGGEN in de
+Uitgave van VAN HOLKEMA &amp; WARENDORF, Amsterdam.
+Verschenen: Muzikaal Woordenboek, bewerkt door Jacques Hartog,
+prijs in linnen Band ƒ 1.9O, Blom &amp; Olivierse. Uitg. Culemborg.
+Stolbergplein No. 11, te
+'s-Gravenhage, worden
+prospectussenmetbpehoorende
+documenten gratis en franco
+per post toegezonden.
+ERVEN KRAMER
+Wijde Kapelsteeg 4 bij het Rokin
+Amsterdam ,
+Fabriek van Kantoorboeken
+Telephoon No. 266.
+Uitgaven van H. A. M. ROELANT3
+te Schiedam.
+Fr.lliiviTsrliiiiiilt.
+(PIET PAALTJENS)
+door DR. JOHS. DY3ERINCK.
+Met Portretten en Illustraties.
+Prys ingen. ƒ 2.50; geb. ƒ 2.90.
+Volksuitgaaf van
+Poëzie uit den Studententijd van
+PIET PAALTJENS.
+Met Portret. Negende druk.
+Prijs ingen. ƒ0.60; geb. ƒ 0.85.
+GtillnstreerilBVottsiiitgaafTan
+
+FAMILIE M KENNISSEN,
+DOOR
+F. HAVERSCHMIDT.
+Met Illustratiën naar teeken ingen
+van J. HOYNCK VAN PArENDREcni en
+een portret door THÉRÈSE SCHWARTZE.
+5e druk.
+Prijs ingen. ƒ 0.60; geb. ƒ 0.85.
+Het meest gevraagde
+Damesboek is:
+
+SILHOUETTEN
+Met Inleiding:
+•van
+Dr. J°. DE VRIES.
+Heden verscheen reeds de 3 a druk.
+Pry's ingen. f2.90. In prachtb. ƒ3.50.
+Uitgave van VAN HOLKEMi &amp;
+WARENDORF, Amsterdam.
+Gebr. KUS TER S,
+B54Ötelefoon SS4S.
+
+m
+PEUctrische Limeerinrichting,
+BOEKBLNDERIJ
+euwe Achtergracht
+lerinrichting, |"T
+fDEBIJ. LL
+'acht l en l ATI
+R P A MC. l
+
+</text>
+<image timestamp="2002:08:15:08:00:33.00" size="452913">000001NT.TIF</image>
+</page>
+</document>

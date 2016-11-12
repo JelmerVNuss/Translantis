@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230505</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+5 Mei '23. No. 2393
+DE VERLIEFDE MOOR
+
+door
+
+FELIX TIMMERMANS*
+
+(Met teekenïng voor De Amsterdammer"
+van den schrijver.)
+Het is maar als de nacht zijn sterren, als
+gulden kevers, op zijn kleed laat kruipen, en
+als de torenwachter het midden van den
+nacht in den horen blaaskaakt, dat de O.L.
+Vrouwen op de hoeken der straten, de heiligen
+in hunne nissen, en de uithangborden boven
+de winkels, beginnen te verroeren, te leven
+en te werken.
+De O.L. Vrouw van zoeten Troost zweeft
+dan op haar steenen wolk, die echten damp
+wordt, op de straatsteenen, en gaat, met
+heur Jezuskind, van deur tot deur luisteren,
+en door de sleutelgaten zien, of er geen be
+
+traande moeders en gekwetste harten te troos
+
+ten zijn.
+Zij heeft een trotschen fluweelen mantel om,
+en buigt moe haar hoofd van de al te zware,
+zilveren kroon. Ook de andere Lieve vrouwen
+doen heuren barmhartigen ronde. En als ze
+malkander tegen komen praten ze wat over
+hunne werken, geven elkander raad, en ver
+
+tellen ook hunnen nood; als ze niet op tijd
+geschilderd en versierd worden, en als ze
+geen kaarslicht krijgen.
+Zoo staan ze soms in een groepken van
+tien te praten, tot er een ster rijst, het God
+
+delijk teeken dat er te werken valt.
+De heiligen uit de nissen der Gothieke
+kerk, en die van boven de ouderling- en
+weeshuispoorten, blijven meestal roereloos in
+hunne contemplatie staan; slechts met volle
+maneschijn, mild als melk, komen ze allen
+bijeen aan de kerk, en gaan in processie naar
+het groot Kruis op de botermarkt.
+De Lievevrouwen gaan dan mee. Veel be
+
+drukte moeders van n zoon.
+Sint Cecilia speelt dan de luit, en koning
+David betokkelt de kleine harp, en zingt
+met zijne fluweelen Barytonstem de psalmen.
+Jezus zou willen bij hen blijven in den
+geur hunner vroomheid, maar Hij kan van
+zijn kruis niet af, daar de zonden der menschen
+niet ophouden, en hem aan zijn kruis genageld
+houden.
+En dan de uithangborden en
+uithangbeelden ! Wat maken die rumoer en vreugde
+in den nacht!
+G'hebt vooreerst De Blijde Speelman,"
+die al de burgerlijke uithangborden met zijn
+muziek vervroolijkt; en die op zijn
+mandolieneke spelend, met den gulzigaard uit De
+Zoeten inval", lekkend van honing, met den
+lustigen Keizer Karel", en met Den moe
+
+digen Duivenmelker" naar De groote Pint"
+en naar 't Patersvaatje" trekken, waar zij
+goeden cier maken en al de vrooolijke liedjes
+zingen, die zij bij dage van de menschen
+hebben afgeluisterd. De drie Koningen"
+gaan eiken nacht knielen voor Het stalleken
+van Bethlehem," ellegoedwinkel. Met volle
+maan gaan die natuurlijk mee in de processie,
+wat Den ouden Deken" van den saai
+
+winkel ook doet; die anders nevens de
+palmhaag van 't Sint Pieterskapelleken zijn brevier
+gaat lezen.
+Het Schaap", het Lammeken", Den
+Hert", van den apothekerwinkel, gaan met
+de varkens en koeien en kalveren, die boven
+de beenhouwerswinkels hangen, het gras gra
+
+zen in de kloosterstraat, dat er tusschen de
+steenen groeit.
+_En de Roode Leeuw", rood van honger
+(hij is wat te mager gebeeldhouwd) kuiert
+naar het veld hazen vangen; hij zou wel
+liever een malsch lam in de kloosterstraat
+gaan knabbelen, maar uithangborden eer
+
+biedigen elkander.
+De Gouden Haan" van den
+wijnverkooper, kraait heimweevol naar de grijze,
+schuwe hen, die bij 't Eierenboerinneke"
+'zit.—Doch de hen heeft alle nachten geen
+goesting om met den vurigen haan te vrijen,
+en blijft zitten. Zij kan zonder hem pok wel
+eieren leggen. Alleen in den Paaschtijd is zij
+haast nog zotter dan hij.
+De haan, als de hen niet komen wil, heeft
+dan de goeste om te vechten met een anderen
+haan; doch er is er geen; dan klaroent hij
+uitdagend naar de ekster" van den tabaks
+
+winkel, doch die haalt heur schouders op
+en vliegt met Den Blauwen nachtegaal"
+naar de Begijnenbosschen om te spelen
+en te fluiten. Als 't lente is en zomer, wel te
+verstaan, want bij wintertijd als het te koud
+is, en er sneeuw ligt, kruipt eikendeen, den
+ouden Deken en de Heiligen uitgezonderd,
+.(die blijven in hun biddend bedrijf) rond De
+lollepot" van den stovenmaker, warmen
+zich en vertellen hunne wedervarens van den
+zomer. Iedereen die vatbaar is voor kou
+komt er bijeen, zelfs de hongerige Leeuw, tot
+zelfs het Zonneken" van den kleermaker, en
+natuurlijk ook de dichterlijke halve maan."
+Z'hebben er dan allemaal het meest plezier
+van, te luisteren naar de grappen en de leugens
+van den moor, van boven den snuifwinkel
+der Weduwe Peeters.
+Och, die moor toch, hoe terriebel is die
+vent aan zijn mooreneind gekomen !
+Hoe zat hij genoegelijk met verbaasde
+witte oogen in zijn zwart gezicht, zijn pijp
+te smoren, gezeten op een baal tabak, en
+een tabakspot in zijn arm. De pluimen op
+zijn hoofd en om zijn zwarte lenden waren
+toch zoo schoon-schreeuwend van kleur, en
+de ring in zijn neus, en de ringen in zijn ooren
+blonken lijk echt goud.
+Hij had veel plezier van zijn leven, en zeker
+zou hij daar nog gezeten hebben, maar hij
+was verzot, lijk alle mooren, op blank
+vrouwenvleesch.
+En hadde hij maar van posturen- en
+uithangbordenvrouwenvleesch blijven houden,
+maar hij ging het in den kop steken echt
+menschenvrouwenvleesch te begeeren. En dat
+was zijn noodlot en zijn dood. Vroeger had hij
+de Herderin" van buiten de Molpoort lief
+gehad. Doch die was er opeens van door ge
+
+trokken. En om zijn verdriet zeker te ver
+
+smoren, begon hij er twee ineens lief te hebben.
+Het Zeemeerminneke" en Het Eieren
+
+boerinneke".
+Rookt HELGO SIGAREN
+SERIEMERK
+ging vertellen. En hij wierd kwaad op de
+Moeder Gods, en zou haar gaarne gewurgd
+hebben, doch hij dierf niet, want hij wist
+dat ze machtig was.
+En hij ook ging zijn liefde door 't sleutelgat
+fluisteren.
+Kom bij mij blank duivinneke ! Al ben
+ik zwart van gedaante, ik ben van binnen
+wit lijk slagroom." Hij loog niet want hij was
+van plaaster. Maar zij hoorde zijn
+posturentaal toch niet.
+De uithangborden lachten met zijn on
+
+mogelijke liefde. Hij had last van 't Eieren
+
+boerinneke." Zij bood gedurig hem
+verschgelegde eieren en zoete melk aan, en vroeg om
+gaan te wandelen; ruw stiet hij haar weg.
+Ook het poëtisch zeemeerminneken kon
+gestolen worden; en als 't niet regende, en
+de hitte blazen op haar lijf bakte, liet hij
+haar hangen.
+Hij moest dit bleeke meisje hebben, dat
+treurde om hem.
+In zijn wanhoop om haar zijn liefde te laten
+verstaan, leende hij voor een handvol tabak
+Hij wist niet van wie het meest houden het mandolieneke van den speelman. Het
+het eierenboerinneke liet hem alle nachten
+de verschgelegde eieren der grijze hen
+uitzuipen; maar ze was onhandig en lomp,
+terwijl daarentegen het zeemeerminneke
+meeslijpend, lenig, schoon, fijn, glijdend, ver
+
+nuftig, geïriseerd, spelend, rond en gezond en
+vroolijk was.
+Het zeemeerminneke kon van haar uit
+
+hangbord niet af, of het moest regenen.
+Dan daalde ze in een watervalleken van
+'t paneel, en zwom in de goot naarde Nethe,
+waar zij in 't klare water haar waterverlangend
+hert eens ferm uitvierde, en speelde met de
+Drie Snoeken", en de Dolfijn" (van de
+afspanning waar Mr. Pirroen zijn avonden
+doorbracht), die ook op zulke manier naar
+de Nethe gekomen waren. Telkens de Moor
+haar zag; hij ging dan onder den blikken
+regenscherm van den regenschermwinkel,
+orn zijn pluimen te sparen, en hij zag hare
+perelmoerige schoonheid, verwonderde hij zich
+over hare malsche borstekens. Zijn
+afrikaansche natuur ontwaakte, zijn oogen
+gloeiden. Hij sprak haar aan, hij wandelde
+mee, maar zij wou niet onder den regenscherm
+zij liet den regen mild over haar vleesch ei
+schubben stroelen, krinzelde zich vati d
+waterdeugd, en was haastig om in de Nethe
+te zijn. Maar zij vertelde van Indische zeeën,
+van de koralen en de parelen, en van de
+palmboomen op den oever. Dan beefde zijn
+zwart hart van heimwee naar de warme landen
+en hij wierd verliefd op haar en minde haar,
+geweldig !
+Zoo erg dat hij haar in den heeten zomer, als
+'t niet regende haar van 't uithangbord haalde,
+naar de Nethe droeg en daar samen zwommen.
+Doch een uur nadien zat hij het Eieren
+
+boerinneke te streelen, zoop de eieren leeg,
+en dronk de melkkan uit. Met wie zou hij
+trouwen? Zijn zwart verstand kon geen
+licht vinden. En 't was in die dagen van
+innerlijken strijd, dat hem iets bijzonders
+overkwam.
+Recht over den tabakswinkel stond een
+klein hoek-huizeken. Op den hoek hong de
+schoone O.L. Vrouw van zoeten Troost, in
+de glazen kast.
+Van die Lievevrouw zag hij slechts de pro
+
+fiel, en zeker ware hij in zijn domheid daar
+ook al op verliefd geworden; doch zij bezag
+hem, als hij haar 's nachts ontmoette, altijd
+zoo kwaad, omdat hij een Heiden was en
+niet geloofde.
+En in dat hoekhuizeken woonde een meisje,
+och zoo schoon en blank, dat men er ontroerd
+van wierd, lijk voor muziek van Beethoven.
+En dat hij zulks nu eerst zag ! Posturen letten
+niet veel op menschen, maar zij was eerst
+begonnen. Zij had de liefde wakker gekitteld.
+Op een schemer-avond zag hij, hoe zij hem
+weemoedig en belangstellend bezag, od weet
+hoe lang deed ze dit reeds! Van toen hield hij
+haar in 't oog, en ging denken dat zij ver
+
+liefd op hem was.
+Ze wierd bleeker van dag tot dag, aïvast
+om hem, en ze hield niet op van hem smekend
+te bezien. Och ware hij maar niet plaaster
+geweest, hoe zou hij geknikt hebben ! Zij
+zat veelal aan 't venster te droomen, had een
+boek dat ze niet las, en dan zag hij een traan
+uit haar oogen loopcn, en 's avonds ontstak
+ze een keers voor O.L. Vrouw van zoeten
+Troost, die 's nachts ingenomen aan de deur
+kwam luisteren, en iets door 't sleutelgat
+fluisterde.
+Zeker bad het meisje om hem, maar hij
+geloofde dat de Lievevrouw kwaad van hem
+viel wel wat klein, maar 't ging toch, en hij
+serenadeerde op de haarfijne klanken:
+
+O dagraad van mijn droomen
+kom buiten in den nacht.
+De maan schijnt door de boomen
+Uw zwarte jongen wacht!
+
+Doch ook de serenaden wierden niet ge
+
+hoord.
+Hij was radeloos, en toen nam hij zijn toe
+
+vlucht tot O. L. Vrouw van Zoeten Troost.
+Hij zag dat de menschen steeds voor haar
+kaarsen in haar glazen kast gingen aansteken.
+Daarom stool hij de kaars uit de Herberg
+Het nachtlicht". Doch daar O.L. Vrouw
+op ronde was, wist ze niet van wie die kaars
+kwam. Ondertusschen wierd het meisje
+treuriger, en zag steeds meer en meer naar
+den moor.
+Op een nacht, 't ging naar September,
+streek hij zijn pluimen recht, en ging O.L.
+Vrouw zoeken. Hij vond haar in een
+rijkstankig steegje, waar ze met het gelaat tegen
+een ruit geplakt, in een vuil kamerken zag,
+waar een moeder waakte bij heur kind.
+Hij trok aan haar fluweelen mantel. Mag
+ik u eens een woordeken spreken?" vroeg hij.
+Ge moet u eerst laten doopen," zei ze
+kwaad, en haar glazen oogen fonkelden.
+Met schrik omklemde ze vaster haar Jezusken
+en spoedde zich weg.
+,, Ik zal de kapotte vinger van uw hand
+maken !" riepen hij.
+Laat u doopen, dan zult ge alle gaven
+krijgen !" riep ze nog van achter den hoek.
+Daar dacht hij maar n nacht op na, e i
+hij trok naar den ouden Deken, die blij wa;
+om die bekeering. Eerst deed hij zijn biechl
+zijn zondige vrijagies, hoeveel keeren hij honing
+had gepikt in ,.de Zoeten Inval" enz!
+Dat was nog al iets dien doop aan 't water
+van de Nethe. 't Was een feest der beelden
+en der uithangborden. Alle de Lievevrouwen
+en Heiligen waren er. Die van Zoeten Troost
+was zijn peet, en die uit den Zoeten Inval zijn
+Peeter; die had er De nieuwen Rozen Hoed"
+voor opgezet. Iedereen was kontent, behalve
+het Zeemeerminneke, ook geen van ons geloof;
+zij kon haast zwemmen in haar tranen.
+Als de plechtigheid afgeloopen was, ging
+liet burgerlijk volk naar 't Patersvaatje''
+waar gedanst en gezongen en gedronken
+wierd tot aan den tweeden hanenkraai.
+De moor was er nu in verrotst, dat alles
+ging goed komen met het meisje, en hij bereid
+
+de zijn hart voor op den toekomenden nacht.
+In den morgen zag hij, hoe het meisje ineens
+zonder verdriet was, hoe ze lachte in zich
+zelf, en voor hem ! Dat was met dit doopsel!
+Hij snakte naar den nacht !
+Tegen de schemering ging ze weer een kaars
+aansteken, nu nog een grootere.
+Het begon te regenen en te waaien, en als
+de lampen waren aangestoken zag iiij een jonge
+matroos het huizeken binnen gaan.
+Op de neergelaten store, zag hij in schaduw
+hoe de jongeling en het meisje, als om te
+kraken, malkander omhelsden.
+Hij hoorde flesschen aftrekken,
+glazengerinkel. Het meisje zong, de vader zong, en
+de jongeling zong.
+Twee vrouwen, met den wind in hun
+kanmantels, zeien in 't voorbijgaan: De matroos
+is weer gekomen. Toen hij moorenland wou
+verlaten, hadden ze schipbreuk. Dezen morgen
+kreeg zij 't blijde nieuws uit Antwerpen. Haar
+verdriet is nu voorbij, en ze zullen weldra
+trouwen."
+.de uithangborden en de posturen
+De moor barstte haast in tweeën van ver
+
+bazing.
+Hij hoopte maar dat hij slecht gehoord,
+en de wind de woorden verwrongen had.
+Om elf uur blaasde de nachtwaker op den
+toren dat alle licht rnoest uitgedoofd worden.
+Dan zag hij de jongeling en het meisje bui
+
+ten komen. Zij vertelden stille woorden, en
+toen zag de jongeling den moor en zei: In
+moorenland, zijn het andere grooter kleppers,
+dan dit kaboutermanneken".
+Was het de stijgende wind of de gramschap
+van den moor, maar zijn pijp viel in stukken
+op den grond.
+O," zei 't meisje, Ik heb dit zot postuur
+
+ken altijd in 't oog gehouden, denkende
+God weet wordt mijn lief door die leelijke
+menschen niet opgegeten. Als ik dat beeld
+zag dacht ik steeds aan U en wierd dan altijd
+zoo verdrietig. Maar nu gaat mijn Lowieke
+niet meer op zee !"
+Met zoo een wind is ons schip veronge
+
+lukt...." en de moor hoorde nog veel ver
+
+tellen, van minnen en trouwen, en na een lange
+omhelzing, ging de jongeling weg en het
+meisje binnen. Het licht wierd uitgedraaid.
+Toen weende de moor uit zijn witte oogen.
+De Toekomst wierd nog zwarter dan zijn
+gelaat.
+En als 't twaalf uren sloeg; 't was geen
+wandelweer mi, ging eikendeen, buiten
+de waterelementigen, zich verschuilen onder
+de gevangenpoort waar ze met Het Dam
+
+bord" der Brouwerij zich amuseerden.
+Maar de moor wou zich wreken. Hij sprong
+van zijn pieterstaal, en danste van woede en
+gramschap. De dakpannen klepten lijk
+kastanjetten in den wind, en menige pan viel
+in scherven. De Lievevrouwen moesten tegen
+wind in vechten, en de deftige ouden Deken,
+had alle last om den blikken paraplu vast
+te houden. En tot O.L. Vrouw van Zoeten
+Troost, die juist passeerde riep de moor:
+Gij hebt mij bedrogen met uw doopsel;
+maar al durf ik tegen u niets doen, ik zal mij
+wreken op het meisje, want beleven zal ze
+niet, dat ze met een andere dan mij trouwt !"
+En daarmee liep hij naar den
+messenverkooper, haalde het blikken mes van boven
+de deur, en rende er mee door de straten,
+terug voor het huis van Fientje.
+Ze moet dood ! Ze moet dood !" huilde hij.
+O. L. Vrouw riep zoo hard zij kon om
+hulp, dat al het volk van onder de gevangen
+
+poort, de beelden van de kerk, de driekonin
+
+gen, 't zeemeerminneken en den Dolfijn kwa
+
+men toegeloopen; alleen Jezus bleef in den
+regen triestig hangen.
+Ze waren nog bij tijds, want de moor sloeg
+een ruit in, en kroop met het mes tusschen de
+tanden bij Fientje binnen. Doch op tijd kon
+de zwarte Driekoning nog de voet van den
+moor grijpen, en trok, en al de uithangborden
+trokken mee, den eenen aan den anderen,
+een volle straat lang. Keizer Karel gaf de
+bevelen.
+Zoo geraakte de moor niet alleen, niet
+binnen, maar ze trokken hem buiten. Hij
+spartelde zich los, en afrikaansch razend
+trapte hij in 't rond, en doodde en kwetste
+wie te dicht bij kwam.
+Het Eierenboerinneke was er een van de
+eersten aan, haar kop rolde weg, en toen ze
+viel brak ze even gemakkelijk vaneen als
+haar eieren. Hij sloeg de ouden Deken de
+regenscherm uit de handen. Keizer Karel
+kreeg een hap, Sint-Rochus geraakte zijn
+gebeten been kwijt, en de speelman, en de
+halve maan bestierven het in honderd
+stukskens. Toen wou hij O.L. Vrouw te lijf, hij
+trok haar mantel af, dat hij wegwaaide lijk
+een pluim. Van schrik sloeg iedereen op de
+vlucht, huilend en tierend, dat de menschen
+het in de schoorsteenen hoorden alleen
+O.L. Vrouw bleef, en zette zich opofferend
+voor de kapotte ruit, de armen uiteen. Zij
+straalde van 't licht, en wierd met goddelijk
+vuur om zich verdedigd. Dat sloeg den moor
+met vrees; hij dierf haar niet te lijf, maar
+hij was nu eenmaal begonnen met steken, en
+omdat hij niemand niét meer steken kon, stak
+hij dan maar zich zelve, en viel in witte stuk
+
+ken plaaster dood.
+
+Den anderen dag vond men menig uithang
+
+bord afgewaaid, menig postuur gebroken en
+beschadigd.
+Wat een storm dezen nacht!" zeien de
+menschen.
+En daar lag de moor in stukken.
+Wwe Peeters, had er groot spijt van; en
+als een relikwie zette ze de nog min of meer
+gave rnoorenkop, als aandenken op de schouw.
+Maar denzelfden dag stootte de kat hem er af,
+zoodat zijn hoofd ook in brokken ging.
+Zoo kwamen de restanten van den moor
+op de vuilnishoopen buiten de stad terecht,
+vergeten en verspreid.
+En den dag dat het meisje met den matroos
+trouwde, schilderde Neutcke boven den snuif
+
+winkel met zwarte letters: In den rookenden
+moor."
+Want voor een nieuw beeld vond Wwe
+Peeters de tijden te duur.
+
+IIIIIIIIIIIIIIIIIIIIIIIItlllllllllllllllllllllllMICIIMIIIMIIIItllMMIMIIIlmlIIIMII
+Duin en Daal"
+Centraal verwarmd. Vaste wnthtiMi, koud- en warm water
+riMlimillllffflfffllHIIllHllllllflIHIIIIIIIflIlllIIlIJJIIIIfimillII
+
+EEN PERKAMENTEN
+FANTAZIE
+IIII11 Illlltlllllltlll
+iiiiiiilimiiiiitiiiimiiiiiiiiiiniiiiiit
+Dezer dagen had ik in mijn handen—o, zoo
+kort maar, toch lang genoeg om de herinne
+
+ring daaraan voor altijd mee te dragen een
+uiterst kostbaar boekje. Het was een der
+vijf exemplaren, die van Frans Erens' Berbke,
+door Palladium uitgegeven, op perkament ge
+
+drukt zijn. Wat is, zuchtte ik, een boek op
+Hollandsch-Van Gelder, op Japan impérial,
+op papier pur fil Lafuma, vergeleken bij zoo'n
+velijnen wonderwerk? Dan eerst zie je, wat
+voor effekt een diep-zwarte letter maken kan,
+ja, zoo komt de letter, op zichzelf en in het
+verband der geheele pagina eerst tot haar
+recht. Of is er iets edelers denkbaar dan het
+gloeiend rood van het Palladium-stempel,
+zooals dat nu op het perkamenten omslag
+praalt?
+Mijn gedachten gingen terug naar den tijd,
+dat ik in de gastvrije Koninklijke Bibliotheek
+een twaalfde-eeuwsch handschrift bestudeerde.
+Toen ook was ik bekoord door het satijnige
+van het perkamenten-vel, hoe ook gehavend
+door lange rust en vocht en ouderdom. Er
+ging iets van een wijding uit die oude, bruine
+bladen, waarop zorgvuldig geteekend de
+sterke, sierlijke Gotische letters stonden.
+Het was handwerk: er had een mensch gebogen
+gezeten over diezelfde vellen, die ik toen met
+de vulpen in de hand doorlas, en die monnik
+want nietwaar, een middeieeuwsch hand
+
+schrift hoort thuis in een klooster, al is de
+inhoud nog zoo lichtzinnig had met zorg
+die regelmatige letters een voor een daar neer
+
+geschreven. Wat was er gemeen tusschen
+mij, die de letters la's en hem, die ze schreef?
+Wat anders, dan juist die zwarte teekens, het
+medium tusschen hem en mij?
+En ik mijmerde verder. Hoe zal het zijn,
+wanneer de menschen tellen van het jaar
+3000 af? Dan bestaat ditzelfde boekje nog
+altijd, wanneer geen katastrofe het vernietigt,
+'t geen ik inderdaad niet hoop. Misschien
+heeft het dan ook bruine vlekken, zijn de
+randen gekarteld en de hoeken gevouwen; op
+den omslag staan velerhande eigendomsmer
+
+ken en bibliotheekstempels, zelfs ontbreekt
+er wellicht een enkele bladzijde uit. Maar het
+is nog goed leesbaar en het rood is niet geheel
+verbleekt; een boekenwurm zouden die er
+nog zijn zoo ver in de toekomst? verstoort
+het een hoogst enkele maal in zijn stoffige
+rust en een wonderlijke glimlach plooit zijn
+dorren mond, als hij leest van Berkbe, die zoo
+simpellijk leefde en zoo stillekens stierf.
+Maar zal hij het begrijpen, peinsde ik verder.
+Hoe vreemd staan wij niet tegenover de wer
+
+ken van de 9de of lüde eeuw, wat een tekstuit
+
+leg en commentaar is er niet noodig, om bij
+
+voorbeeld door te dringen tot de schoonheid
+van een Eddagedicht. Wat is het moeilijk,
+den jubel der overwinning te hooren uit het
+Lodewijkslied, den zegezang van den slag bij
+Saucourt.
+Dus, ook Berbke zal eens een antiquiteit
+zijn. En denk eens: onze heele moderne lite
+
+ratuur na 1880, om maar iets te noemen, zal
+tot pulver vergaan zijn, dank zij het rommelige,
+vodderige papier, waarop het heden zijn
+literaire triomfen vereeuwigt. Wat een chaos
+en wat een leegte. Enkele gedichten, voortge
+
+sleept van bloemlezing tot bloemlezing, ein
+
+delijk begraven in de wetenschappelijke antho
+
+logieën, zijn nog bekend als staaltje van
+ouderwetschen pruikerigen stijl. Het begin van Mei
+is nog erger dan nu een gemeenplaats, of
+wellicht ook al weer lang vergeten. Geen
+Couperus, geen Van Looy, geen van Schendes
+is anders bekend dan bij name; hun oeuvre il
+denzelfden weg gegaan als het proza van
+Loosjes en Fokke Siemonsz; neen nog erger, er is
+geen vezel van hun boeken meer over.
+En ziedaar, terwijl de beoefenaars der
+vaderlandsche letterkunde den ouden, dat is: den
+onbekenden tijd rekenen tot ongeveer 2350
+na Christus, daar wordt ineens gevonden een
+perkamenten, bijna volledig werkje uit het jaar
+1923. Begrijpt gij de vreugde van die vondst?
+Is ze niet te vergelijken met die van den
+Egyptischen papyrus d'Orbiney, waarop het oudste
+sprookje der wereld aangeteekend staat?
+Berbke van den overigens onbekenden schrij
+
+ver Frans Erens zal uitgegeven worden in de
+verhandelingen van de Akadetnie der Weten
+
+schappen, en de vermaardste filoloog wordt
+met dat werk vereerd.
+Ik besefte de eer en de benauwenis tegelijk
+van dien toekomstigen filoloog. Ik zet het u
+te doen een werk uit te geven, dat geschreven
+is in een taal, waarvan uiterst weinig bekend
+is; de moeilijkheden der tekstinterpretatie te
+overwinnen bij het ontbreken van lexico
+
+grafisch materiaal. Sommige woorden zijn
+dialektisch getint, 't geen de taaigeleerde van
+het jaar 3000 nauwlijks kan onderscheiden,
+en als hij 't kan, hoeveel hoofdbrekens zal het
+hem kosten, om uit te maken welk dialekt het
+geweest is.
+De eerste bladzijde met de mooie roode
+letters is helaas verloren gegaan, zoodat hij
+niet weet, dat Berbke geboren is in het Zuiden
+van het land van Limburg. Zult gij het hem nu
+kwalijk nemen, wanneer hij meent de taal van
+dit boekje te kunnen bepalen als een eenigszins
+Geldersch gekleurd Nederlandsch?
+En dan de vele verouderde woorden.
+Hatvany spotte eens met het Schloss-und-Riegel
+Kommentar, dat een beroemd Duitsch pro
+
+fessor telken jare naar aanleiding van de
+Odyssee gaf. Maar heusch, onze filoloog komt
+in de verzoeking om bij den eersten regel van
+zijn tekst - - want bladzijde l was immers
+verdwenen een geleerde verhandeling te
+schrijven over de ambachten in de 20ste eeuw,
+naar aanleiding van de woorden: de vrouw van
+den notaris had plezier. Of zou het niet haast
+ondoenlijk zijn, het verschil te bepalen tus
+
+schen kapelaan en pastoor, waar er zoo bitter
+weinig teksten bewaard zijn, waarin deze
+bedienaren van den destijds algemeen beleden
+godsdienst vermeld worden. Indien een ander
+fragment de woorden dominee en predikant
+heeft bewaard, zal het welhaast een hopeloos
+werk zijn, ieders functie nauwkeurig te
+bepalen. Het dierke de luis zal hem dwingen
+tot moeielijke dierkundige nasporingen; slechts
+weet hij, dat dit dier alleen kon leven, zoolang
+de ongeloofelijk slechte hygiënische toestanden
+van die oude tijden nog bestonden omstreeks
+2500 wordt deze parasiet het laatst vermeld;
+betrouwbare afbeeldingen zijn niet bewaard,
+beschrijvingen ontbreken eveneens. De zaak is
+even intricaat, als nu die van den vogel Dodo !
+Dan wordt er gesproken van een vreemde
+teederheid, die Berbke voor die diersoort heeft
+de geleerde zal zeker vermoeden, dat hier
+een soort vereering achter steekt, waarvan
+de eigenlijke beteekenis hem echter verborgen
+blijft. Twee verklaringen staan open, maar
+beide bevredigen bij nadere overweging niet.
+Men zou kunnen denken aan den invloed
+van Boeddhistische godsdiensten, die in het
+bijzonder een grooten eerbied voor de dieren
+kenden; maar aangezien een belangrijke uit
+
+breiding van deze religie op zijn allervroegst
+in den loop der 23ste eeuw valt te constateeren,
+strookt dit niet met de dateering van den
+tekst. Verleidelijk is de andere verklaring: de
+luis was het totemdier van dit meisje. Indien
+dit zoo ware, dan zou deze tekst een gewichtig
+J.S.MEUWSEN, Hofl. A'DAM-R'DAM-ÜEN HAAG
+DE BESTE HOEDEN IN HOLLAND
+bewijsstuk zijn voor het bestaan van
+totemistische voorstellingen in het toenmalige
+WestEuropa, een veronderstelling, die men reeds
+gemaakt had op grond van overgeleverde
+familienamen, die eigenlijk een diernaam wa
+
+ren. Maar met den inhoud zou dit totem
+
+motief weinig strooken. Wel is het denkbaar,
+dat de luis als typisch parasitair dier de totem
+is van het arme, verschooierde Berbke, maar
+het feit, dat zij tegenover andere menschen
+dit dier verdedigt, eischt een nauwkeuriger
+verklaring.
+Daar valt het den filoloog van het jaar 3000
+op, dat de laatste door rubriceering onderschei
+
+den afdeeling verwonderlijk kort is. Terwijl
+de eerste drie hoofdstukken, indien men ze
+zoo noemen mag, tien a twaalf bladzijden
+groot waren, is het laatste stuk nog niet eens
+een pagina. Bovendien is dit gedeelte zeer
+vluchtig Verteld, zoo schetsmatig, dat men
+eerder denken kan aan een kort resumévan
+een langer verhaal, waarin de schrijver
+de geschiedenis van een nieuw jaar behandelde,
+aanvangende met het jonge voorjaar en eindi
+
+gend met Berbke's dood. De filoloog zal zijn
+meening verdedigen met een beroep op het
+gebruik in ouden tijd, zich van een zeer
+conventioneele symboliek te bedienen, waarbij men
+den dood vereenzelvigde met den winter.
+De reden van deze verkorting was
+Maar laat ons dezen filoloog der toekomst
+niet volgen op de wonderlijke wegen van zijn
+geschoold vernuft. Wat ik hier mijmerde, is
+minder fantazie dan menig leek zal denken.
+En de man van het vak zal in het verhaal
+van dezen perkamenten Berbke uit het jaar
+3000, een zekere gelijkenis kunnen zien met
+menige wetenschappelijke hypothese van het
+jaar 1900 over oude documenten, die onze
+scherpzinnigheid op de proef stellen.
+Arnhem.
+JAN DE VRIES
+
+</text>
+<image timestamp="2002:08:26:00:18:47.00" size="546190">D10003OP.TIF</image>
+</page>
+</document>

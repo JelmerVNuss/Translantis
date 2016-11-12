@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330916</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+p.''
+'ft,
+V
+K'
+Een schat van een kind, dat
+meisje van Waayen...... en
+knal-nette lui. Heusch weL..
+en goeie panje ook, 't !s
+toch we! goed, dat ik er
+naar toe gegaan ben.,., 'k
+voel me best op m'n gemak
+zoo...... met m'n nieuwe
+rok..., n m'n ARABESQUE
+
+Arabesque is een heerlijke
+import' cigarette, gemaakt van de
+uitgezochtste Egyptische tabakken. Een
+cigarette van klasse. Hef importzsgel
+van de Egyptian Customs
+Adminlstration" garandeert echf/ieiV.
+ARABESQUE RoimJ". . . P/4 cf*.
+ARABESQUE de L jxe" . , 2&gt;/4 tfs.
+
+</text>
+<image timestamp="2002:09:26:19:14:12.00" size="188838">D2006TN.TIF</image>
+</page>
+</document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910621</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+mjVOKGSKf, van de Amsterdammer, Weekblad voor Nederland, van 21 Juni 1891.
+De kunst te Amsterdam.
+j
+'
+f
+•&amp;
+
+i c H
+
+
+
+f
+Ji M: !
+'-?
+;-• tx &lt; •'' i' i
+Arnsi. iioek- en Htecnilrukkerij, v/h. Ellerman, Harms &amp; Co.
+Muss i denn, muss i denn zum Stadtele hinaus?"
+
+</text>
+<image timestamp="2002:08:19:10:16:38.00" size="247179">000002Y5.TIF</image>
+</page>
+</document>

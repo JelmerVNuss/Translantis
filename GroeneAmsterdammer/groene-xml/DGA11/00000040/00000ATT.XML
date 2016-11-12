@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321217</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 17 December 1932
+N o. 2898
+J. D. STRUUS &amp; Zn.
+Td. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C, Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2278
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N.V. Meubelmagazijn Eden
+Molsteeg *- Amsterdam
+SLAAPKAMERS
+Abonnementsprijs van
+DE GROENE"
+per jaar:
+Nederland. . . .
+Indië(Zeepost)
+(mail). .
+Argentini
+Belgi
+Duitschland
+Egypte
+Frankrijk
+Griekenland
+Oostenrijk
+Spanje
+Tsjecho Slowakije-*
+Zuid-Afrika "3
+Denemarken
+Itali
+Noorwegen
+Zweden
+Engeland
+Zwitserland
+Amerika
+Australi
+Azi
+f io.
+13.50
+•g
+o
+f 11.50
+f 13.50
+de uitki
+F
+l
+L
+M
+T
+H
+E
+A
+T
+E
+R
+Dageli]ks2.30,7.30,9.30
+FILM EN MODERNE
+MUZIEK
+prinsengracht bij
+de leidschestraat
+telefoon 3746O
+k
+WAT?
+BENT U NIET MET BLUE BAND
+GESMEERD?
+BB89-02014
+i—W. H. POLMAN TUIN
+l OVERTOOM S26 * Telefoon 82660
+l Begrafenissen - Transporten - Crematies
+D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN M A R M E R W E R K E N
+
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN W A S C H TA F E LS R E P A R AT l ES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+EEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:16:22:27.00" size="79265">00000ATT.TIF</image>
+</page>
+</document>

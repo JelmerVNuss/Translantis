@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280407</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+24
+DE GROENE AMSTERDAMMER VAN 7 APRIL 1928
+No. 2653
+D. OBERINK &amp; Co.
+INGENIEURS •
+SQ
+
+^
+Amsterdam, Prinsengracht 456. Tel. 37452
+
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+
+Complete Meubileering
+t.
+0.
+
+u
+
+u
+
+N
+
+
+U
+
+OL
+u
+o
+'lichéc/*
+f Voor alle doeleinden
+l NV
+l Oiefn.Kunstinrichting
+
+iDirkSchnabei
+Amsterdam. "*
+NADRUK VERBODEN
+^
+voorkomt
+dit door
+het gebruik
+VOOR
+
+TAFELZILVER
+
+(HANDWERK)
+
+EN
+
+IMITATIE ANTIEK
+
+ZILVERWERK
+
+
+IN DEN SILVEREN
+
+MOLENBEECKER"
+
+AMSTERDAM DEN HAAG
+Kalvers(rsat 32 Hoogst'raat 31
+l
+
+SCHOON M AAK-TUD
+is PALTH E-T'J D
+STEEDS WEER VOORAAN!
+
+
+In de Amerikaansche Automobiel-Industrie heeft
+Chandler steeds het pioniers-werk verricht. Het One
+Shot-systeem, waardoor met n enkelen druk de
+geheele wagen wordt gesmeerd, is een der bewijzen,
+dat Chandler in constructie-details vooraan gaat.
+
+
+En zoo is Chandler thans de eerste Amerikaansche
+automobiel, die Westinghouse Vacuüm remmen brengt
+als standaard-uitvoer ing.
+
+
+
+
+
+CHANDLER
+
+is een wagen, die gebouwd wordt door de meest vooruit
+
+strevende constructeurs, terwijl de prijzen van de 6 en 8
+cylinder modellen zeer aantrekkelijk zijn.
+U kunt reeds voor f 3800.—een modern uitgerusten 6-cylinder
+
+Chandler Sedan bekomen bij den Importeur voor Noord-Holland
+e ANCHEL
+Weteringschans - Telefoon 34353 - Amsterdam
+Voor IIILVKHSUM
+
+Garage Alberts
+V.)0f U KILO en OMSTHKKK.N
+
+Garage v. d. Kommer
+Yooi- HAAJiLF.M
+
+Garage Loba
+
+
+</text>
+<image timestamp="2002:09:04:10:52:09.00" size="126637">000006GB.TIF</image>
+</page>
+</document>

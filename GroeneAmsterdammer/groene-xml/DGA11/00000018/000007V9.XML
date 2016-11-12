@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300201</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+W WA', 'v*. &gt;,
+afe-^WvV *£.. .•" ... •
+ad voor Ncderfand
+AMSTERDAM C
+TEL. 37M4
+4
+t,»
+ADVERTEERT IN DE GROENE"
+' ' • ' '••':. '..-"••'•' • "&gt; . ' ' X
+is eeti %m dien ge dikwijls leest
+• Waarom juist in DE GROENE AMSTERDAMMER ......?
+Omdat DE GROENE in het geheele land gelezen wordt door het beste
+. publiek door het publiek dat iets te besteden heeft. De adverteerder
+behoeft niet te betalen
+voor een versprei
+
+ding, waarmee hij
+honderdduizenden
+bereikt, die juist niet
+tot het koopkrachtige
+publiek behooren,
+maar het betaalt
+hem om in dit blad
+te adverteeren, dat
+hem direct in contact
+brengt met het publiek
+dat hij zoekt. Hoe juist
+dit is, blijkt uit berich
+
+ten onzer
+adverteerders, waarvan wij er
+hier een afdrukken.
+Gevest iqd sedert IS56
+
+HAARLEM
+BARTELJORIS5TTOAT26 28
+BANKIERS
+HAARLEMSCHE BANKVEREENIQINO
+HAARLEM
+Postrekening No. 77345
+Aan de Directie van de N.V. "De Groene Amsterdammer
+Weekblad voor Nederland"
+Mijne Heeren, •
+
+In het nummer van 9 November j.l. plaatsten wij, op de
+voorpagina, een advertentie. U zult er zeker belang
+in stellen, dat wij naar aanleiding dier annonce reeds
+terstond uit Rotterdam een aanvrage kregen en een kost
+
+
+baren bontmantel leverden.
+Wilt U voor ons s.v.p. in het nummer van 18 Jaiï.30 deze
+advertentie nog eens plaatsen.
+Hoogachtend
+
+</text>
+<image timestamp="2002:09:20:23:53:29.00" size="214233">000007V9.TIF</image>
+</page>
+</document>

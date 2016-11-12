@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>33</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ACHINE
+ziek herinneren
+
+S TOK E
+Het onbevangen kind is immer dichter
+en het aanvaardt wat geen gestalte heeft.
+Wint het een wereld niet en zijn geschenken
+door er in goed vertrouwen aan te denken ?
+De dichters gaan vooruit en op hun wenken
+volgt de techniek die de gestalte geeft. . .
+
+
+Zoo staarden wij die de techniek beleven
+als kinderen "reeds in het beloofde land.
+Het wonderland waar wij den hals naar reikten
+en dat we nog bij levenstijd bereikten.
+'t Geen waar de dichter ons als kinderen mee verrijkte
+dient thans als technisch middel onze hand.
+De onderzee'ers en de lucht-kasteelen,
+de inmaak en transport van het geluid,
+de wonderen van de krachten die we wekken
+en waaruit wij weer nieuw gebruik ontdekken,
+. . .'t werd alles ons voorspeld en 't kindersprookje kwam,
+net als echte sprookjes, altijd uit.
+
+
+We spreken van de materieele tijden
+en van hoe goed het vroeger is geweest,
+maar niets verandert en we zien nog heden
+als kinderen uit naar nieuwe mogelijkheden,
+en voor de groote, blinde massa
+treden nog hand aan hand het Kind en Dichtersgeest. . .
+
+
+Ze gaan vooruit naar onbekende landen
+en raden 't wonder voor het is geschied
+Want grooter dan de materieele machten
+is nog de kracht der scheppende gedachte,
+en zij die critisch, zelfgenoegzaam wachten
+beleven 't sprookje van de toekomst niet.
+
+
+Dit is de lof der kinderlijke oogen
+en van 't geloof in 't wonder dat ons wacht.
+Hij, die zich slechts door de techniek laat
+dienen, is immers zelf niet meer dan een machine,
+Een willoos werktuig van het onvoorziene
+die geestloos werkt met niets dan eigen kracht.
+
+</text>
+<image timestamp="2002:09:27:06:04:35.00" size="80827">D20071M.TIF</image>
+</page>
+</document>

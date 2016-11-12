@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260515</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2554
+ONTVANG- EN
+BETAALKAS
+
+Nieuwe Doelenstraat 20-22
+AMSTERDAM
+Kapitaal . . f 5.000.000.
+Reserves. . f 1.068.623.89
+
+Renteverg. voor gelden a deposito
+
+Direct opvorderbaar.... l pCt.
+Met 10 dagen opzegging Ij
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit Inrichting
+N, V. De
+CredietHypotheekbank
+te 's-GRAVENHAGE
+Laan van Meerdervoort 62
+5Vs pCt. Pandbrieven
+a 98'/2 /0
+DE DIRECTIE
+Mr. H. Vaillant A. van Dam Jr.
+Rott. Hypotheekbank v. Nederland
+Opgericht in 1864
+Volteekend Maatschappelijk Kapitaal
+f 5.000.000.
+Verstrekt geld op eerste hypotheek.
+Voor inl. wende men zich tot het kan
+
+toor der Bank, Ged. Bierhaven 25 te
+R'dam of tot hare Agenten in de Hoofd
+
+plaatsen des Rijks.
+De Directie : Mr. W, v. Rossem,
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wijk.
+MAATSCHAPPIJ VOOR
+HYPOTHECAIR CREDIET
+IN NEDERLAND
+gevestigd te 's-GRAVENHAGE.
+Gelden beschikbaar •
+tegen concurreerende voorwaarden.
+DE DIRECTIE.
+
+LEVENSVERZEKERINGMAATSCHAPPIJ
+
+Zeer veilige grondslagen
+Stijgende extra-reserves
+Vraagt het jaarverslag
+RRNHEM
+ROTTERDAMSCH
+SCHEEPSHYPOTHEEKBANK
+WIJNHAVEN 94a
+UITGIFTE van
+
+5% Pandbrieven tegen 99
+De Directeur: Mr. W. C. MEES
+Nederlandsche
+
+Handel - Maatschappij
+
+Gestort Kapitaal	f 80,000,000. ~.
+Statutaire Reserve	£20,536,861. .
+Buitengewone Reserve	f 22,660,000.—.
+
+HOOFDKANTOOR: AMSTERDAM
+AGENTSCHAPPEN: te ROTTERDAM en 's-GRAVENHAGE
+
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China en Japan
+
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Administratie van Effecten en alle andere Bankzaken
+Utrechtsche Hypotheekbank
+
+UTRECHT
+Pandbrieven f
+41.000.000.De Bank stelt beschikbaar:
+4112 pCt Pandbrieven a 98!/2 pCt
+in stukken van f 1000. , f 500.—en f 100.~
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+Abonneert U op
+De Groene Amster
+
+dammer, Weekblad
+voor Nederland
+HOOFDKANTOOR.
+
+KEIZERSGRACHT 570,
+
+AMSTERDAM.
+OPGERICHT Ao.1894*
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert, behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE en TRANS
+
+PORT-, ONGEVALLEN- en WATERLEIDINGSCHADE.
+INSULAIRE
+Hypotheekbank te Zierikzee
+
+Aan PANDBRIEVEN
+in omloop voor
+ruim 16 millioen gulden.
+V e r k r ij g b a a r:
+
+5 ",', Pandbrieven a 101 "u
+De Holl Voorschotbank.
+
+HAARLEM, KRUISWEG 70
+De Bank verstrekt cjelden tot elk bcdrac
+met een minimum van f H'OO.—op zake
+
+lijk onderpand en onder borutocht. met
+in pandyevinc] cener polis van
+levt'nsvcr;ekenmj van ychjk bcdray, en verkoopt
+fi",j schuldbrieven in stukken van f liVX).
+f500, en f 100. u\jen don koers \v.:i 100%.
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie :
+Mr. H. II. C. CASTENDiJK c;
+I. MOSSELMAN
+
+</text>
+<image timestamp="2002:09:25:14:26:48.00" size="144170">D10007L2.TIF</image>
+</page>
+</document>

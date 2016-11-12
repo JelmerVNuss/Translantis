@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>40</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+POLIS
+VOOR INBOEDELS IN WOONHUIZEN omvat o.m.:
+BRAND
+BLIKSEMSLAG
+INBRAAK
+DIEFSTAL (ook zonder braak)
+WATERLEIDINGSCHADE
+STORM
+OVERSTROOMING (tengevolge van
+(dijkdoorbraak)
+SCHADE DOOR LUCHTVAARTUIGEN
+WASCHGOEDEREN
+REISBAGAGE IN NEDERLAND
+SPIEGELBREUK
+PROSPECTUS OP
+VOOR OPSTALLEN VAN WOONHUIZEN omvat o.m.:
+BRAND
+BLIKSEMSLAG
+WATERLEIDINGSCHADE
+STORM
+OVERSTROOMING (tengevolge van
+dijkdoorbraak)
+SCHADE DOOR LUCHTVAARTUIGEN
+SCHADE DOOR VOER- EN VAARTUIGEN
+DIEFSTAL VAN ZINK, LOOD EN KOPER
+BESCHADIGING BIJ INBRAAK
+HUURDERVING
+WETTELIJKE AANSPRAKELIJKHEID
+AANVRAAG KOSTELOOS VERKRIJGBAAR
+BREUK VAN GLASRUITEN KAN WORDEN INGESLOTEN TEGEN EEN BILLIJKE EXTRA-PREMIE
+BLOM &amp; VAN DER AA
+AMSTERDAM DEN HAAG ROTTERDAM
+EEN
+VERVALDAG
+t.
+i
+5.
+u
+DELFIA
+JSSAf
+DELFIA smelten,
+Vermenden met
+Veel voóeltjeszaad.
+
+Ijzerdraadje of haarspeld
+dient Voor ophangen
+'
+ANDEPE METHODE
+een halve cocosnoot
+teVuldmët DELFIA
+phangen.
+
+OLIEFABRIEKEN CALVÉ-DELFT
+CENTRAAL HOTEL
+
+Modern comlort
+Logies met ontbijt f 3.50 en 14.50
+Restaurant Centraal
+TEAROOM
+Compl. koffie lunch . . . f 1.15
+Quick lunch	11.25
+in verlangden prijs uitgevoerd
+
+
+Leidsche
+Boschje
+
+
+
+Moderne Zwem- en
+StortbadPrima keuken
+Onder voortdurende chemische
+en bacteriologische controle van
+Dr. lan Smit
+Amsterdam
+Tel. 82345
+Groote en kleine zalen
+beschikbaar voor verschil
+
+lende doeleinden
+Congres-zaal,
+tooneelen bioscoop installatie
+Pneumatisch Electriscn
+Kerk- en Concertorgel
+Behartigt CREdietbelangen
+van MEdici en
+TANDARTSEN.
+Amsterdam C. Lijnbaansgr. 231.
+
+Eigen middelen f
+376.000.
+VOORSCHOTTEN IN REKENING-COURANT.
+
+</text>
+<image timestamp="2002:09:22:12:08:52.00" size="119332">000008SH.TIF</image>
+</page>
+</document>

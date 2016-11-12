@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300111</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+A L. U Ai F L b Tb LIST OF BÜOKS
+PUBLISHED BY
+THE HALCYON PRESS (A. A. M. STOLS)
+MAASTRICHT
+ENGLISH BOOKS
+FRENCH BOOKS
+I. JOHN KEATS, ODES. 1927.
+Composed in Lutetia roman type (lOpt.) LetterJng by J. van Krimpen
+Printed at the Halcyon Press.
+125 copies on Van Gelder paper bound in parchment exhausted.
+
+II. WILLIAM BLAKE, THE MARRIA(,'E OF HE A VEN AND HELL.
+1928.
+Composed in Lutetia roman and italic types (14 pt.) Lettering I&gt;y -T- van
+Krimpen. Printed by Messrs Joh. Enschedéen Zonen.
+300 copies on Pannekoek paper.
+In parchment //. 24.
+
+III. DANTE GABRIËL KOSSETTI, HAND AND SOUL. 3928.
+Composed in the roman type designed by Peter Schoeffer of Gernsheim
+(1450—1502). Lettering by J. van Krimpen. Printed by Messrs Joh. Ensched
+en Zonen.
+5 copies on vellunï, bound in morocco-leather exhausted.
+25 on Japanese vellum, bound in chagrin-leather exhausted.
+300 on Van Gelder paper, bound in linen ;'l. 9.—•
+
+IV. EVEBYMAN. A Morality Play o/ the XVth Century. 1929.
+Composed in the type engraved by Henric de Lettersnider (XVth Century
+Black letter). Printed by Messrs Joh. Enschedéen Zonen.
+300 copies on Van Gelder paper, bound in linen 11. 12.50
+bound in morocco-leather by Louis Malcorps 11. 40.
+
+V. SIX HYMNS OF HOMER, the drcek iext jaeinf/ the Enr/Ush tmnsUitwn
+by Percy Bysshe Shelley. 1929.
+Composed in Antigone Greek and Lutetia Roman types (12 pt) both designed
+by J. van Krimpen. Initials by the sam&lt;&gt;. Printed by Messrs Joh. Enschedéen
+Zonen.
+5 copies on vellum, bound in morocco-leather i'xhuusled.
+25 on japanese vellum, bound in chagrin leather exhausted.
+400 on Pannekoek paper, bound in linen jl. 10.
+
+VI. JOHN MILTON, SONNET S, both English and Italian. 11)29.
+Composed in the italic type engraved by Christoffel van Dyck (l(H)l—1070).
+Lettering by J. van Krimpen. Printed by Messrs Joh. Enschedéen Zonen.
+5 copies on vellum, bound in chagrin leather c-xhnu 'ted. 4
+25 copies on japanese vellum, bound in chagrin leather jl.
+30.-300 copies on Pannekoek paper, bound in linen il. 10.
+
+VII. JOHN KEATS, SONNETS. 1930.
+With a portrait and 10 woodcuts by Jolin Buckla.nd Wright.
+Composed in Romanée-type (16 pt), designed by J. van Krimpen. Printed by
+Messrs Joh. Enschedéen Zonen.
+l copy on pearl-white japanese vellum, contaiiiing the original drawings, the
+artist's proofs, and 3 sets of supplemcnta.ry loose proofs of the portrait, the
+10 illustrations and 5 rejected woodcuts, signed by the artist (bound in
+chagrin leather) jl. l200.
+10 copies on pearl-white japanese vellum, containing 3 sets of
+supplementary loose proofs of the portrait, the 10 illustrations and 5 rejected wood
+
+cuts, signed by the artist (bound in chagrin leather) il. 200.
+25 copies on japanese vellum, containing a supplementary set of loose proofs
+of the portrait and the 10 illustrations (bound in chagrin leather) 11. 75.-
+300 copies on Pannekoek Halcyon paper, bound in lirieri 11. 25.
+
+VIII. EDGAR ALLEN POE. THE F ALL OF THE HO r S E OF USIIER.
+1930.
+With 10 aquatints by Alexandre Alexeïeff.
+Composed in a roman type engraved by J. M. Fleischrnann (1739). Printed
+by Messrs Joh. Enschedéen Zonen.
+7 copies on antique japanese vellum containing 3 supplement ary sets of
+the engravings (bound in cliagriii leather) jl. 120.
+25 copies on japanese vellum, conlaining a supplement ai v set o t' the en
+
+gravings (bound in chagrin leather) 11. 75.
+300 copies on Pannekoek paper, bound in linen II. 25.
+
+IN P REP AR AT] ON
+
+T. STURGE MOORK. .\I.\~K l'OKMS. (First Editiom.
+EPGAR ALLKX POK. TALKS.
+With woodcuts by John ISiickland Wriglil.
+PAUL MORAxn'. THE LIVI.\(S nu in ui A.
+With 15 aquatints in e.olours l&gt;y Ale\;mdre Aiexeïeff.
+WILLIAM KHAKESPEAHE. Til i: T I-J M /'/&gt;"/'.
+With woodcuts by .luim Uue.klnnd \V,iul-,l.
+THE COMPLFTK WOHKS OF SlIAKKsPi
+A new Folio-Kdit ion in one volume.
+JOHN KEATS. LETTE/f S TO I-'A\.\}' /-'/,
+Edited by J. F. Otten.
+I. RAIXER MARIA RILKE, LES ROS ES. 1927.
+With a preface TayPaul Valéry.
+Composed in a roman type engraved by J. M. Fleisehmann (1739).
+LetterinLby J. van Krimpen. Printed by Messrs Joh. Enschedéen Zonen. (First Edition .
+20 copies on antique japanese vellum exhnwtled.
+250 copies on Van Gelder paper r.xhamtti'd.
+
+II. AXDRE GIDE. LE VOYAOE D'URIEN. 192*.
+With woodcut decorations in two colours by Alfred Latour. Composed in Lu
+
+tetia type (16 pt.). Ixittering by Alphonse Stols. Printed at the Halcyon Press.
+20 copies on japanese vellum exhaunteit.
+250 copies on Pannekoek paper 11. 40.-
+
+III. FRAXCOYS VILLON, OEUVRES COMPLËTES. 1929.
+Composed in a XVth Century Black letter. letter-Ing by J. van Krimpen.
+Printed by Messrs Joh. Enschedéen Zonen.
+15 copies on pearl-white japanese vellum t'yhimnlfii.
+105 copies on Pannekoek paper, bound in half parchment f l. 50.
+
+IN PREPARATION
+
+ANDRÉGIÜE, LA SYMPHON1E PASTORALE.
+Composed in Romanée type, designed by J. van Krimpen.
+ARTHUR RIMBAUD, OEUVRES COMPLETEN.
+(Jompos(;d in Monotype-Garamond, hand-set.
+CHARLKS irOKLEANS, OEUVRES COMPL1ÏTES.
+RUTEBEUF. OEUVRES COMPLETE*.
+GERMAN BOOKS
+1. GEOKG BÜCHXER, J)A\TO\'S TOD. 1930.
+Lettering by A. A. M. Stols. Printed at the Halcyon IV.-s.
+Composed in Monotype (iaramond, hand-set.
+20(1 copies on Pannekoek a.ntique paper.
+In linen
+In chagriu-leathei'
+In parchment
+IN PREPARATION
+GOETIIE, WKST-ÖSTLICHER Dl VAX. 1930.
+Composed in Erasmus-type designed by S. H. de Kun.-. Initials by the
+Portrait engraved on copper by Th. Levigne. Printed at the Haleymi
+100 copies on Pannekoek Halcyon paper.
+SOPIIOCLKS. AXTICOXE. the Greek text iV:in- the (ierman trans
+by Hölderlin.
+Composed in Antigone Greek and Lutetia. roman type both designc
+J. van Krimpen.
+IC. TH. A. HOFFMAXN. DAS MA.1ORAT.
+With woodcuts by \V. J. Rozendaal.
+
+
+GREEK BOOKS
+
+L cf. EXCLISH BOOKS no. V.
+
+H. OMHPOY BATI'AXOMVOMAXIA. 1929.
+Composed in Antigone-t ype designed by .1. van Krimpen. Printed hy ,1
+.loh. Enschedéen Zonen.
+100 eopies on Pannekoek paper, bound in chagrin-leathei- ;,'.
+
+IN PREPARATION
+SOP1IOCLKS. Aidinm,,-.
+
+
+DUTCH BOOKS
+
+L P. ''. ROl'TKNS. (Jf)E\ /-.'.V /•'/.'. H/J//-.' .V TE X I',l A' .v, l l'l'n \, •;•&lt;
+voorafgcga-m dooi' diens O D l'] 1.1.V SAPI'O. I92S.
+('oni])osed in Luie) ia, roman and ilalie types ihiDt1-. Printed l&gt;v Mi'.-.-r
+lMisched(' en Zonen. 1^5 e.,])ie- .,n Pannekeek iiapi :.
+In pa,])ei' cover.-, •'/.
+In parchment /.'.
+
+TL A. K01.AM) HOLST. III-'.T i:i, l'.s7X&lt;'// l /;///,. i \i, !•'.\ •_,
+d.ior !&gt;!•: ZI-:I-:T(&gt;CHT \'.\.\ i!it\.\. zoo.x \'.\.x FKP&gt;\L. m-js.
+C	posed in i.ulelia l &gt; pe l Ui pii. L&lt; 'i 11' i- i 11 g l&gt;\ .!. \;:'i Kr:ij|..-,i. P-il
+t l i" l la Ie \, in Pri-,-. 2 (i, l c. .pie-. i •;: a'M i'M ie \'a'; &lt; ."ld, i '.-Mier.
+I M pa pe:'-; ei )\ , ! -•
+i n p;'.'vi'.iai-iu •'..
+l': ; • f i a'.;' i i; i • l e • i' t.. t •
+IN PREPARATION
+
+</text>
+<image timestamp="2002:09:20:20:19:56.00" size="145780">000007SY.TIF</image>
+</page>
+</document>

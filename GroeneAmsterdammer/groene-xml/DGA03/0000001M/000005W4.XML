@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250905</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2517
+Firma
+&amp; Zn. - Keizersgracht 447
+(voorheen L E l DSC H EST R A AT 69)
+SEHKIHG GASFORHUIZEH
+Bö^rtefjorfsstr.
+MODE SHOW
+op Dinsdag 15 Sept. a.s. te 21/4 uur gebouw Haarl. Kegelbond, Tempelierstraat 35
+Kaarten op aanvraag verkrijgbaar a fl.—per persoon incl. belasting.
+Bontmantels, Dameshoeden,
+Mantels en Costumes
+RENEE
+l
+[. G. MEIJER
+2 MARKTEN
+GRONINGEN
+In den Silveren Molenbeecker"
+BIJ ONS ALL,E KOSTEN
+(Inclusief de gerechtelijke), verbonden
+aan het behandelen Uwer
+UITSTAANDE VORDERINGEN.
+BIJ «EEN SUCCES... «EEN KOSTEN!
+
+VAN DER GRAAF i CO.
+Amsterdam Rotterdam Brussel
+Knippatronen
+*eor het ircrmirdlge* «••
+
+Kledingstukken
+en Handwerken
+OUDS :
+is niet alleen eetlust +
+opwekkend - OUDS *
+is niet alleen koorts- 4
+werend, doch is óók *
+een zeer ;
+bijzonder :
+fijn glas wijn ?
+Weet U dat al? *
+
+F^ OUD, *
+PURMEREND *
+Het ftiquft met
+den Volendammer
+In ieder huis
+His Master's Voice
+Importeurs:
+THE AMEBICiN IMPORT COMPANT
+Amsterdamsche Veerkade 22a
+DEN HAAG
+Geaccrediteerde agentschappen
+voor Amsterdam:
+GRAMOPHONE COMPANY
+AGENCY
+Reguliersbreestraat 42
+P. J. RICHTER
+P. C. Hoottstraat 125
+A. M. TUREL
+Willemsparkweg 67
+Kalverstraat 32
+G
+looistmt 31
+Gemonteerd
+Oud Holl.
+Kristal.
+Specialiteit In:
+lm. Oud Holl.
+Zilverwerk.
+TAFEL- en
+SERVIESZILVER.
+W. J. VOGEL Jr.
+2e JAN VAN DER HEIJDENSTR. 3 bh. Sarphatipark
+Telefoon 24747.
+Begrafenissen - Crematie - Transporten
+PHOENIXMEUBELEN"
+voor WONING en KANTOOR zijn GOED, GOED
+! OPGERICHT»» l KOOP en worden onder GARANTIE geleverd.
+Behangen Stoffeeren Beddenmakerij
+Magazijn Damrak 76 Tel. 48489 \ im.tp.Jïm
+Fabriek-ToonkamersWarmoesstr.141 Tel.42689) »lö4lllUini
+De LIMONADE van
+
+O-.A.LIIL &lt;3c G-.A-LUL
+zijn voortreffelijk !
+SINAASAPPEL- ORANJE- FRAMBOZEN
+ANANAS - CITROEN
+Vooral met
+SALZER BRUNNEN 16 ets. per Liter fi.
+FERD. BOLSTR. 85 - CEINTUURBAAN 235
+Illustratiedruk-papier van de Firma C. G. A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:17:56:48.00" size="217069">000005W4.TIF</image>
+</page>
+</document>

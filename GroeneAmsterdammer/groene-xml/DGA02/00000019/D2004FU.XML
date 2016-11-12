@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391111</Datum>
+<Pagina>23</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wat een November-weer ! Men
+hoeft maar even buiten te *$«,
+om kletsnat te worden.
+Fijne Kousen en schoentjes
+geven natuurlijk weinig be
+
+scherming.
+Ja, die overschoenen staan
+wel niet zoo mooi, maar van
+natte voeten word je verkou
+
+den."
+Weineen, vast niet hoor! Ik
+neem Wybertjes.
+Wybert-tabletten "beschermen
+tegen hoest en verkoudheid."
+IHIfUHIIlHflHNHHK
+
+l
+De Groene" gratis tot 1 Januari
+Wie zich thans voor den jaargang 1940 op
+DE GROENE AMSTERDAMMER7' a f
+10.abonneert, ontvangt alle nummers tot 1 Januari
+gratis. Zij, die zich voor f 1.50 op den
+loopenden jaargang geabonneerd hebben, be
+
+hoeven slechts f 8.50 te storten om
+DE GROENE" tot 1 Januari 1941 te ontvangen
+
+
+De Groene" is democratisch
+In een tijd waarin de toekomst van de democratie op
+het spel staat, hebt U behoefte aan een blad dat Uw
+democratische overtuiging levend houdt. Geen blad doet
+dat in sterker mate dan De Groene Amsterdammer"
+met zijn weloverwogen, inspireerende artikelen
+«
+
+De Groene" is afwisselend
+De mensch zal bij politiek alleen niet leven! - Dan
+jeze hij De Groene Amsterdammer". Hij zal er artikelen
+in vinden over kunst en litteratuur, over vrouwen- en
+vrouwenleven, over wetenschap en techniek, - hij zal
+er verhalen in aantreffen, caricaturen, puzzle's en
+prijsvragen en	,DE KLEINE KRANT"
+BON
+Ondergeteekende abonneert zich voor het jaar 1940 op De Groene
+waartoe hij een bedrag van
+f
+10.gireert op postgiroreiening 72880 vai
+De Groene Amsterdammer Amsterdam
+per postwlssel zendt aan de Administratie vai
+De G roene, Keizersgracht 355, Amsterdam-C
+Hij ontvangt alle in 1939 nog verschijnende nummers
+gratis, alsmede als premie het fraaie Lichtnummer
+Naam:
+
+Straat:
+umituiuMUiuiiiiuuiluuuniiuiuuiiiiuuuuiiHiiitiMiuiiuinuiuiniiiiiiiiiiiiiiiiiiiiiiiiiiil:
+Woonplaats :
+II-II--39.
+Handteekening..
+Abonnementen kunnen te allen tijde Ingaan, doch slechts bij het
+einde van een jaargang na opzegging voor l December eindigen
+
+</text>
+<image timestamp="2002:09:13:06:32:11.00" size="124663">D2004FU.TIF</image>
+</page>
+</document>

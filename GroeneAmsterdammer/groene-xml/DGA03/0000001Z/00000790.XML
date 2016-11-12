@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281229</Datum>
+<Pagina>5A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bij de wisseling van het jaar
+BIJVOEGSEL -oen De Groene Amsterdammer" Weekblad voor Nederland van 29 December 1928
+•sWERELDS SCHOUWTOONEEL
+\
+REPERTOIRE 1929
+HeRSTELKWESTlL
+ONTRUIMING RIJNLAND
+ONTWAPENING
+VERKIEZINGEN ENGELAND
+[VERKIEZINGEN NEDERLAND
+
+repertoire heeft mijn voorganger opgemaakt, maar ik zal het nog wel moeten aanvullen!
+Amst&lt; Boek' en Steendr, v/h. E Herman, Harms &amp; Co
+
+'99
+
+</text>
+<image timestamp="2002:09:05:23:23:48.00" size="200360">00000790.TIF</image>
+</page>
+</document>

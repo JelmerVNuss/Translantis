@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280317</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+:'p' 'f :ïf W :*{{!" ';!|j;' '!!j=! 'W "Ü!: 'W' W ';Üf "Ui1' 1=: "I~F
+RAT
+100
+RADIO-TOESTELLEN
+ELK TER WAARDE VAN fl. 325,
+HONDERD prachtige Radio-toestellen, fabrikaat
+Philips, als hierboven afgebeeld, worden geheel
+kosteloos geleverd - met inbegrip van volledige
+- installatie, gereed voor het gebruik - inclusief
+lampen, antenne, luidspreker en
+plaatspanningsapparaat, uitsluitend aan verbruikers van
+
+BLOOKERS
+DAALDERS CACAO
+VRAAG UW KRUIDENIER VOLLEDIGE INLICHTINGEN
+ER ZIJN GENOEGENS
+die ons naar buiten lokken, en andere,
+die ons binden aan den huisehjken haard.
+Maar niemand zal elders zijne vermaken
+zoeken, wanneer hem thuis de gezellig
+
+heid wacht. Wat toch is heerlijker, dan
+in eigen kring te kunnen luisteren naar
+een goed concert, een belangwekkende
+voordracht of een vroolijke operette, die
+achtereenvolgens door de Radio in de
+kalme atmosfeer van het woonvertrek
+weerklinken, onderwijl men geniet van
+een kop geurige Blooker's Cacao!
+Om dit ideaal te verwezenlijken, stellen
+wij geheel gratis beschikbaar: 100 prachtige
+Philips Radio-toestellen, compleet met
+antenne, lampen, luidspreker en
+plaatspanningsapparaat, elk ter waarde van fl. 325,-,
+welke uitgereikt worden aan degenen,
+die vóór 15 Juni 1928 de meeste Blooker's
+Daalders Cacao verbruikt hebben. De toe
+
+stellen worden, eveneens gratis, door de firma
+Philips ten huize van de winnaarsafgeleverd
+en geïnstalleerd, gereed voor het gebruik.
+U hebt dus 1OO kansen om zulk eene
+complete Philips Radio-installatie,
+ter waarde van fl. 325,—,, te winnen.
+Mededinging geschiedt door de etiketten
+der Blooker's Daalders Cacaobusoen te
+verzamelen en deze vóór 15 Juni 1928
+te zenden aan Blooker's Cacaofabrieken,
+Amsterdam. Hieromtrent verstrekt uw
+kruidenier gaarne alle inlichtingen, terwijl
+ook onze brochure Hoe krijg ik een Philips
+Radio-toestel gratis gejeverd en geïnstal
+
+leerd?" bij hem gratis verkrijgbaar is.
+Kleinere verbruikers kunnen hunne
+kans belangrijk vergrooten door de
+etiketten gezamenlijk in te zenden.
+Blooker's Daalders Cacao is, hare kwa
+
+liteit en bijzonder groote oplosbaarheid
+m aanmerking genomen, verreweg de
+voordeehgste, speciaal in groote gezin
+
+nen waar veel cacao gedronken wordt.
+Drink Blooker's Cacao en verzamel
+de etiketten voor uw Radio-toestel.
+HOLLACEN
+
+</text>
+<image timestamp="2002:09:04:08:31:18.00" size="185788">000006E5.TIF</image>
+</page>
+</document>

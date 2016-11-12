@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300419</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+MODERNE NEDERLANDSCHE LETTERKUNDE
+Om op de hoogte te zijn, móét U de volgende boeken gelezen hebben:
+
+J. SLAUERHOFF
+HET LENTE-EILAND (Chineesche Verhalen)
+- fl
+3-YOENG-POE-TSJOENG (Chineesche Gedich
+
+ten) fl 3.
+
+E. DU PERRON
+POGING TOT AFSTAND] (Gedichten)
+
+/*3-BIJ GEBREK AAN ERNST (Verhalen)
+fl 3.60
+NUTTELOOS VERZET (Verhalen) //3.6o
+PARLANDO (Gedichten) // 3.
+
+JO OTTEN
+VERLOREN VADERLAND (Proza) //Ja
+
+A. DEN DOOLAARD
+DE VERLIEFDE BETONWERKER (Ge
+
+dichten) // 5.
+
+JAN R. TH. CAMPERT
+DE BRON (Gedichten) // 3.90
+HET VERLIEFDE LIED (Gedichten)- //2.5o
+
+ANTON VAN DUINKERKEN
+DE RAVENZWARTE (Korte Roman) //1.50
+J. CRESHOFF
+CONFETTI (Kleine Gedichten) -- //2.50
+BIJ FEESTELIJKE GELEGENHEDEN
+(Gedichten) // 2.50
+CURRENTE CALAMO (Proza) //3
+
+A. J. M. VAN MOORSEL
+DE KINKHOOFN (Verzen, met teekeningen
+van Jan Toorop) // 3.
+
+JAN VAN MIJLEN
+DE LOKSTEM (Gedichten) - //5.25
+DE VOGEL PHOENIX (Gedichten) //2.5&lt;»
+
+MAURICE ROELANTS
+DE JAZZ-SPELER (Korte Roman) //2.50
+
+A. ROLAND HOLST
+HET ELYSISCH VERLANGEN (Proza en
+Poëzie) -—// 10.
+SHELLEY, Een Afscheid (Proza) //2.50
+
+ARTHUR VAN SCHENDEL
+FR ATI L A M U R (Proza) //4.50
+\
+HENRIK SCHOLTE
+INTERMEZZO (Gedichten) // 3,5"
+ONZE SHAKESPEARE-VERTALINGEN
+I: RICHARD III, vertaald door A. Rolund Holst
+Ingenaaid fl i.50; gebonden // 2.75
+11: STORM, vertaald d....r .W. Mjho/f
+Ingenaaid // 1.50: gebonden // 2.75
+VRAAGT ONZE CATAOGLI EN PROSPECTUSSEN
+A. A. NI. STCLS - UITGEVER - MAASTRICHT
+
+</text>
+<image timestamp="2002:09:25:10:49:52.00" size="63014">0000094P.TIF</image>
+</page>
+</document>

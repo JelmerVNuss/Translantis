@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280609</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER VAN 9 JUNI 1928
+No. 2662
+MEI-15 S
+EPTENBER
+TOEGANG: 6O CENT. NA 8 UUR 3O CENT B.t.
+BEWIJZEN VAN DOOR L. TOEGANG F 15,- B.l.
+Vertellingen uit den Bijbel
+DOOR
+A G A T H A
+GEÏLLUSTREERD MET 16 PLATEN
+Ingenaaid f 1.90 Gebonden f 2.50
+In Nieuw Vrouwtnl"vtn lazen wij:
+.... geef (Uwe kinderen) deze verhalen en ge geeft ze iets
+mee voor hun leven en herlees zelf cl o verhalen ook eens:
+want uw kinderen zullen \ van alles en nog wat er over vragen.
+Dr. H. G. van Wijngaarden schrijft o.a.: ..Hij herlezing van
+den Kinderbijbel van Agatha ben ik in mijn. oordeel bevestigd,
+dat deze minste..s zoo goed is als anderen, die in de laatste
+jaren verschenen. Met het gemoderniseerde uiterlijk en de
+nieuwe, illustraties is de herdruk alleszins verdiend."
+r m;.WK VAX:
+VanHolkema &amp; Warendorf's U.-M., A'dam
+A. N. W. B.
+UITGAVEN
+D'
+BIJ ONS
+VERKRIJGBAAR
+koor een overeenkomst
+met de A N W. B.
+zijn wij in staat gedurende
+de Olympische spelen en wel van l 5 Mei
+tot l 5 Augustus,
+ALLE UITGAVEN VAN DE A. N. W. B.
+in den verkoop te brengen. Zooals alge
+
+meen bekend, zijn deze uitgaven tot nu toe
+alleen verkrijgbaar geweest voor de leden
+van de A. N. W. B. Ook na 15 Augustus
+zal dit weder zoo zijn. Iedereen kan dus
+gedurende 3 maanden deze schitterend
+verzorgde werken tegen dezelfde prijzen
+verkrijgen als de leden Een uitgebreide
+lijst van alle artikelen, door de A. N. W. B.
+in den handel gebracht, is gratis in onze
+magazijnen te Amsterdam en Den Haag
+verkrijgbaar, ook op aanvraag per post.
+Van 15 Mei tot 15 Augustus zullen wij
+alle A. N. W. B. artikelen tentoonstellen
+in onze afdeeling Boekhandel (2e etage).
+Vaa bovenstaande uitgaven hebben wij, buiten
+het A. N. W. B. secretariaat de
+ALLEEN-VERKOOP
+DE
+BIJENKORF
+AMSTERDAM - DEN HAAG
+VOOR DE VACANTIE
+Uw goederen even laten
+Stoomen of Verven bij
+
+PALTHE
+W. J. VOGEL Jr.
+2e Jan van der Heijdenstr. 3
+b. h. Sarphatipark
+Telefoon 24747
+BEGRAFENISSEN
+CREMATIE
+TRANSPORTEN
+Fijnste, dik, blank, fiïsch, franco huis,
+postw, kistjes stevig verpakt 4 pd.
+f 3.60: 6 pd, f4.60: 8 pd. f5.60.
+Sliorasp. 25% meer. Lengte steril. 75%
+juiste glasmaat.
+FIRMA ISIDORUS, Bergen op Zoom
+Tel. Intere. 119.
+Abonneert U op De Vrouw
+en haar Huis"
+Prijs per jaar f 10 Franco p.p.
+f 10.75 Proefnr. op aanvraag
+Uitgave Van Holkema &amp;
+Warendorf's Uitg. Mij. A'dam
+Het papier ten behoeve van dit blad f* f% A ^I^DWETV
+-wordt geleverd door de firma W» %•• «• V^\^I^VEiY g
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO
+
+</text>
+<image timestamp="2002:09:04:17:59:23.00" size="112780">000006N4.TIF</image>
+</page>
+</document>

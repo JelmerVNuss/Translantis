@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150404</Datum>
+<Pagina>12B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+PASCHEN.
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 4 April 1915.
+Ach, dat het feest der herleving van de natuur aldus mocht ingeluid worden!
+Deze plaat werd Koperdiepdruk (Rotogravure) gedrukt door de Ned. Rologravure-Mij., te Leiden.
+
+</text>
+<image timestamp="2002:08:21:10:28:02.00" size="188753">D40001P2.TIF</image>
+</page>
+</document>

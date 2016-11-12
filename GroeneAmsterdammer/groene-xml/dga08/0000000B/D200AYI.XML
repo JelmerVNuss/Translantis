@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340609</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 9 Juni 1934
+N o. 2975
+, In-rubber-opgehangen" is nog lang
+geen
+F/odf/ng Power" (Chrysler patent)
+permitteert den motor om zijn eigen
+natuurlijke as te bewegen. Boven en
+onder de schuine stippellijn bevindt
+zich een gelijke hoeveelheid
+gewicht. Alleen op deze manier is de
+motor volkomen uitgebalanceerd.
+Zwevende Kracht" werd niet door Chrysler uitgevonden om
+de trillingen in het chassis te verminderen, doch om ze op te
+heffen i Let eens op dezen draaienden Plymouth motor en dit
+met water gevulde glas. Geen druppel wordt over den rand
+gestooten. Stapt U eens in dezen 1934 Plymouth, rijdt hem eens
+en U voelt direct wat dat zeggen wil. Maar U'zult nog meer
+voelen: de prachtige rijhoedanigheden, de groote ruimte, de
+soepele bestuurbaarheid, kortom, U voelt dat U in een
+Chryslerproduct rijdt. Maar alleen een eigenaar kan meespreken over
+P!ymouth-veili?heid&gt; levensduur en last not least Plymouth-service.
+Deze Plymouth wordt door experts het meest perfecte
+Chryslerproduct geacht dat ooit naar Holland gebracht werd.
+PLYMOUTH
+0 Eischt bij aankoop van een nieuwen Plymouth steeds het officieele Export-Certifi
+
+caat, hetgeen U de zekerheid geeft, dat de wagen speciaal voor export gebouwd
+is en U service door de geheele Nederlandscne Cnrysler-organisatie waarborgt.
+Importeur voor Nederland:
+ANDRÉJ. H. CEURVORST - Alb. Cuypstraat 264-276 - Tel. 28300 - AMSTERDAM
+^••m^^^^H Vertegenwoordigd door 50 dealers over geheel Nederland ^^•••^^•^•M
+N.V. Meubelmagazijn Eden1
+Molsteeg ~~ Amsterdam
+
+BUREAUX
+Baden, Geysers en Waschtafels
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 32457 Keizersgracht 447
+
+</text>
+<image timestamp="2002:10:28:14:53:45.00" size="208486">D200AYI.TIF</image>
+</page>
+</document>

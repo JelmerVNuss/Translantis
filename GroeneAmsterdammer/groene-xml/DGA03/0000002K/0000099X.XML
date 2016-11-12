@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300607</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2766 van 7 Juni 1930
+25 et
+roene
+cckblad voor Nederland
+KEIZERSGRACHT 355 - AMSTERDAM - CENTRUM
+KélMtifraeht SBB AnutortM»
+
+POLISSEN
+MM • VAT IO NS «m BEISBVBEA17X direct T
+* * «
+/n geval van schade kan men zich wenden tot de
+EUROPEESCHE"
+toAmitoftoiiL Athene, Bareolona, BelcrMlo. B.rlijn, B«rn, Botdapnt, Botkamt, Brast*!,
+WMiuaiepei, HaUlngton, Keulen, Kopj»nhac«D&gt; uuabon. LonAn, Loitmburf, Ha4rl&lt;,
+MBB«h«i, Otle, Parijs, Praag, Riga, Rome, Btoekholm, Wanehai en Weenen.
+ONB
+VOOR DE TOEKOMST
+VAN U,
+VAM UW KINDEREM,
+VAM UW NABESTAANDEN .
+
+HOOFDKANTOOR KORTENAERKADE
+DEN HAAG,
+BIJKANTOOR VOOR m DIE
+VOORRIJ ZO\ D. BATAVIA.
+ERRES-TOESTELLEN
+worden gemaakt voor ver-]
+
+wende luisteraars; U zoud
+
+xo niet anders wenschen. Oe
+
+geluidsweergave is vol en!
+
+krachtig, van onderhoud i
+
+geen sprake en de bedie
+
+
+ning is buitengewoon een
+
+
+voudig. Toch zijn de prijzen
+
+werkelijk billi jk.Wij noodigenj
+
+U uit, de Erres-toestelle
+
+•» de beroemde serie
+i
+l
+zonder eenrge verplichting
+te komen beluisteren.
+RRES
+RADIO
+N.V. HANDELMIJ. R. S. STOKVIS &amp; Zonen
+ROTTERDAM
+AMSTERDAM CKONINCEN
+
+</text>
+<image timestamp="2002:09:25:17:58:51.00" size="113457">0000099X.TIF</image>
+</page>
+</document>

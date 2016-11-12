@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330325</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 8912
+De Groene Amsterdammer van 25 Maart 1933
+15
+Technocratie
+Evert Straat
+
+*.
+Professoren voor !
+'Ongeveer twaalf jaren geleden begon een aantal
+sociologen, economen en technici, allen als docent
+^erkzaam aan de beroemde Columbia University,
+in nauwe onderlinge samenwerking een reeks onder
+
+zoekingen, ten doel hebbende vast te stellen,
+-Welke verhouding en welke wisselwerking er be
+
+staat tusscheïx techniek en maatschappij-vorm.
+Uitgaande van de overweging, dat de machine
+pas is verschenen toen de structuur der
+Westërscbe maatschappij in alle hoofdlijnen reeds
+was bepaald, en overtuigd, dat de verbluffende
+groei der techniek^ de fabelachtige vruchtbaar
+
+heid der machine een der pijlers dier maatschappij,
+K'.l. de menscheHJke arbeidskracht als grondslag
+der productie, ondermijnt en uiteindelijk zal ver
+
+nielen, achtten de professoren den tijd gekomen,
+althans theoretisch een samenleving te ontwerpen,
+waarin productie en distributie niet meer in be
+
+ginsel op spierkracht, maar op technisch
+beheerschte en dienstbaar gemaakte natuurkracht
+zouden steunen: een technocratische maatschappij
+-waarin de machine een overheerschende, de arbeid
+een quantitatief zeer bescheiden rol zou spelen.
+De technocraten van Columbia University gingen
+terug naar het oude geloof, dat de machine den
+menscb. van de last vanden arbeid zal verlossen; zij
+meenden, dat de moderne techniek reeds thans een
+stadium heeft bereikt waarin dit geloof in eere
+kan worden hersteld zonder opnieuw tot de bittere
+ontgoochelingen der 19e eeuw te leiden. Zij grond
+
+den hun meening op een intieme kennis der Ameri
+
+kaansche techniek, die ze in steeds sneller tempo
+machines met steeds grooter arbeidsbesparend ver
+
+mogen zagen produceeren: de sesmograaf, die de
+zetmachine automatisch en den typograaf over
+
+bodig maakt; de Westinghouse-card-distributor,
+die met zijn photo-electrisch oog" duizenden
+kaarten, facturen en andere papieren kan lezen"
+en ze in uiterst snel tempo over 100 vakken ver
+
+deelt; de Botolactor" waarmede in 12 minuten
+60 koeien worden gewasschen, gedroogd en ge
+
+molken; de Cobbler, die met n draai van zijn wiel
+300 paar schoenen zoolt.... Hun geloof in de
+,,ontmenschelijking" der industrie zagen de Tech
+
+nocraten bevestigd door het verschijnsel der
+werkloosheid, die niet meer uitsluitend ten tijde
+van crisis en malaise optrad, doch ook in de
+prosperity"-jaren gestadigjbleef groeien. En kort geleden
+verklaarden zij te hebben berekend dat de geheele
+Amerikaansche productie van 1929, die een record
+beteekende, reeds dit jaar zou kunnen worden
+overgedaan" met een millioen arbeiders minder.
+Doch dit merkwaardige feit was niet het eerste
+dat de Technocraten hadden mede te deelen. Toen
+zij in 1922 hun werk begonnen, waren zij over
+
+tuigd, dat er tusschen de moderne techniek en de
+structuur onzer maatschappij groote wrijving be
+
+staat, een gemis aan evenwicht en coördinatie,
+ontstaan doordat een oude maatschappij onder
+invloed der techniek wel in honderd jaren veel
+sneller was veranderd dan in alle voorafgaande
+eeuwen tezamen, doch niet snel genoeg om van die
+f techniek de rijpe vruchten te plukken. Een maat
+
+schappij, gebaseerd op privé-eigendom van grond
+en kapitaalgoederen, die haar productie overliet
+aan particulier initiatief, die haar distributie
+bewerkstelligde door middel van een uiterst
+ingewikkeld stelsel van prijzen en loonen en munt
+
+en banksystemen, een maatschappij tenslotte,
+welke de prikkel van winst te maken" wettelijk
+erkende als het doel der industrie dat leek den
+Technocraten een zonder doelbewuste leiding ge
+
+groeid, achterlijk complex van zinloos geworden
+gewoonten en uitgeholde begrippen, een stelsel dat
+door zijn roekeiooze verspilling van energie en stof
+«n zijn ontstellend gebrek aan organisatie de
+voordeelen der techniek weer verloren deed gaan.
+Intusschen lieten zij het niet bij deze bloote
+meening, welke trouwens, zooals zij zich bewust
+waren, niet bepaald origineel kon heeten. Als
+modern geschoolde scientisten" plaatsten zij als
+eerste punt op hun programma de taak to find
+out the f acts". Met velerlei doel. In de eerste plaats
+hadden de Technocraten, alvorens aan den bouw
+van een nieuwe, technocratische wereld te kunnen
+beginnen, een alles, althans al het materieele om
+
+vattende, in alle onderdeelen sluitende analyse
+der bestaande noodig. In cijfers en curven en dia
+
+grammen moest worden vastgelegd, wat de wereld
+heden ten dage doet met de energie en de materie
+waarover zij beschikt.
+In de tweede plaats moest op grond der huidige
+techniek het theoretische optimum van productie
+en distributie worden bepaald, het verschil met
+wat inderdaad wordt bereikt, aangetoond en de
+oorzaken van dit verschil opgespoord.
+En in de derde plaats moesten de feiten dienen
+om den gemiddelden Amerikaan te bewijzen, dat
+de maatschappij waarin hij leefde, niet meer
+deugde. Want de professoren der Columbia Uni
+
+versity hadden een groot vertrouwen in de kracht
+der rede; zij hoopten zonder iemand verantwoorde
+
+lijk te stellen voor de gebreken van het heerschende
+stelsel, zonder het kapitalisme" te brandmerken
+als een boosaardige uitvinding van een of andere
+klasse, hun medeburgers te kunnen overtuigen
+dat het in alle opzichten beter en voordeeliger was,
+de zaak grondig te veranderen. Zij maakten voor
+hun werk dan ook geen reclame. ,,To find out the
+f acts" was ook na noodzakelijke beperking van het
+arbeidsveld tot de Vereenigde Staten een enorme
+taak, die al hun krachten in beslag nam. Bovendien
+waren de rapporten die zij publiceerden, naarmate
+hun onderzoek voortschreed, zóó technisch en
+dermate met voor leeken al te moeilijke formules
+doorspekt, dat ze slechts onder vakmenschen
+opzien baarden.
+Geen wonder, dat in de roes der prosperity"'
+toen elk rechtgeaarde Amerikaan in God's own
+country" het paradijs weergekeerd waande; op de
+manende stem der Technocraten geen acht werd
+geslagen. Hetgeen te betreuren was, want in de
+publicaties der technocratische groep waren uiterst
+merkwaardige dingen te vinden. Een Energy
+Survey" van Amerika, eindigde met de con
+
+clusie, dat de bestaande technische uitrusting
+van voldoende capaciteit was om, mits ratio
+
+neel georganiseerd en gebruikt, eiken
+Amerikaanschen burger een aandeel in de jaarproductie
+toe te wijzen, gelijkstaande met hetgeen hij zich
+onder het heerschende regime kan verwerven met
+een inkomen dat dichter bij $ 10.000 dan bij
+$ 5000 ligt met als eenige tegenprestatie
+werk voor de gemeenschap gedurende wekelijks
+vier dagen van zes uren. Een rapport over de ont
+
+wikkeling der techniek toonde aan, dat deze in
+onze huidige samenleving schromelijk wordt tegen
+
+gewerkt; 50 pCt. der jaarlijks in de States ge
+
+patenteerde, nuttige uitvindingen wordt opgekocht
+en ongebruikt gelaten. Een studie over de verspil
+
+ling in de moderne industrie stelde aan de kaak, dat
+geen auto en geen schrijfmachine en geen lamp,
+kortom geen enkel gebruiksartikel gemaakt wordt
+voor den levensduur welke men het gemakkelijk
+zou kunnen geven. Ten behoeve van het heilige
+winstprincipe worden de producten zorgvuldig
+zoo slecht gemaakt als de onnoozele gebruiker
+maar tolereert. Een rapport over de reclame
+
+branche taxeerde dat hoogstens 10 pCt. der daarin
+gebruikte energie economisch nut had; de overige
+90 pCt. diende om koopers over te hevelen van den
+eenen fabrikant naar den anderen. En zoo nog
+allerlei curiosa meer, te veel om op te noemen.
+Zooals gezegd drong van dit alles jaren lang
+weinig door tot het groote publiek. Het werd snel
+anders toen aan de prosperity-roes een ruw einde
+kwam en er een kater volgde als de States
+nog nimmer hadden gekend. Heel Amerika
+stelde dra zoo'n hartstochtelijk belang in tech
+
+nocratie, dat technocrazy" een bijna even popu
+
+laire term werd. De ironie van het geval wilde, dat
+de professoren voorloopig geen enkel geneesmiddel
+wilden of konden aan de hand doen: zij waren eigen
+
+lijk nog steeds bezig met punt n van hun pro
+
+gramma, the finding of the facts". Zij prote
+
+steerden tegen het feit, dat men hen midden in hun
+werk stoorde en practische plannen verlangde, zij
+weigerden verdere interviews en dreigden kort
+geleden met staking van verdere publicaties indien
+ze niet met rust werden gelaten. Het heeft niet
+veel geholpen. De Amerikaansche kranten en tijd
+
+schriften puilen uit van technocratische" copie,
+waarin de Technocraten beurtelings als wereld
+
+redders en charlatans worden voorgesteld. Hun
+rapporten leest niemand; ze zijn voor den
+gewonen man nauwelijks te vinden.
+Intusschen is hun werk volgens betrouwbare
+bronnen ver genoeg gevorderd om, zeer schema
+
+tisch en met alle redelijke voorbehoud, de grond
+
+beginselen aan te geven waarop huns inziens een
+maatschappij moet rusten, willen wij de zegeningen
+en weldaden der techniek van heden en morgen
+in vollen omvang genieten. Ik volg bij het onder
+
+staande in hoofdzaak het heldere, uiterst nuchtere
+exposévan prof. Graham A. Laing [The Angelus
+Press, Los Angeles].
+Technocratie berust, kort samengevat, op de
+volgende feiten":
+1. Door het stijgende gebruik van machines en
+niet-menschelijke kracht wordt de hoeveelheid
+arbeid, noodig voor de productie van een gegeven
+quantum goederen steeds minder.
+2. Een inventarisatie der U.S.A. toont aan dat
+de hoeveelheid geproduceerde goederen enorm kan
+worden uitgebreid en openbaart de mogelijkheid
+van een wijd-verbreide welvaart voor alle klassen.
+3. Het werkloozen-cijfer zal onder het huidige
+stelsel permanent blijven stijgen.
+4. Zoolang wij met prijzen en loonen werken,
+zal er geen evenwicht worden bereikt tusschen
+productie en koopkracht.
+De Technocraten bepleiten de volgende mid
+
+delen om uit de impasse te raken, zonder zich
+echter tot nu toe over het hoe en wanneer te hebben
+uitgelaten.
+1. De groote industrieën, alle verkeersmiddelen
+en het heele munt- en bankwezen moeten worden
+gesteld onder het beheer van ingenieuren, technici
+en experts, regionaal in Boards" georganiseerd,
+souverein wat de uitvoering van hun taak betreft,
+doch onderworpen aan een centraal gezag dat
+voorschrijft welke productie- en distributie
+
+resultaten bereikt moeten worden.
+2. De distributie-methode moet radicaal worden
+gewijzigd. De begrippen dat alles een prijs heeft
+en gekocht en verkocht kan worden moeten even
+goed verdwijnen als het maken van winst. In de
+plaats van ons heele ruilverkeer moet een daad
+
+werkelijk stelsel van distributie treden.
+3. Ons geld moet worden afgeschaft. Een zekere
+vergelijkingseenheid blijft noodzakelijk. Technocra
+
+ten hebben voorloopig een stelsel van energiede
+
+terminanten uitgedacht, gebaseerd op de bepaling
+van laat ons zeggen het aantal paardekracht.
+dat voor de productie van eenig goed is verbruikt.
+4. Welke vorm het technocratische geld" ook
+moge krijgen, het moet, om opeenhooping te ver
+
+mijden, aan een korte geldigheidsduur worden ge
+
+bonden. Een tientje, dat slechts zeven dagen geldig
+is, zal in die zeven dagen ook worden uitgegeven.
+Sparen, zinloos in een technocratische wereld
+waarin alle materieele behoeften overvloedig
+kunnen worden bevredigd, onmogelijk; het
+geld", kan nooit een depot van macht worden.
+5. In beginsel wordt elk lid der maatschappij
+gelijk bedeeld", hetgeen, gezien de overvloed,
+geen ernstige bezwaren kan hebben.
+6. Van elk individu wordt een hoeveelheid
+arbeid ten behoeve der gemeenschap geëischt.
+Organisatie van alle research-work" zal er toe
+bijdragen, deze hoeveelheid zoo gering mogelijk
+te maken. Twee of drie korte werkdagen per week
+zouden waarschijnlijk voldoende zijn.
+7. Wat moet er met de zee van vrijen tijd ge
+
+beuren waarin de technocratische burgers zullen
+zwemmen? Dat punt, reeds onder de oogen gezien,
+dient nader te worden bestudeerd. Vast staat dat
+het instinct om te spelen moet worden gestimuleerd.
+8. We must turn from the men who have been
+the guiding spirits o/ the world in which we live.
+Ik vrees, dat menige lezer, die deze punten van
+het voorloopige programma overdenkt, de term
+technocrazy" nog zoo gek niet zal vinden. Hem
+verwijs ik naar het slotwoord van Prof essoring: La
+Ail we need is care, thought, imagination and
+vision. For without vision the people perish".
+
+</text>
+<image timestamp="2002:09:26:19:44:41.00" size="281413">D10008FN.TIF</image>
+</page>
+</document>

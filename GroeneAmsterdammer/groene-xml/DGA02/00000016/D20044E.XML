@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241206</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2477
+POLLEH's Oude Genever
+Fijne Likeuren n Punch
+Ui. P. POLLEH A ZOOH - Rotterdam
+J. ». STRUIJS «fc Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+
+
+/te
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Speolalltolt In i
+WIEGEN • «LEDIKANTEN.
+Vraagt onze prijzen van
+luxevracht- en aanhangwagens.
+
+OFFICIAL DEALER:
+
+JAN LIMBACH &amp; Co., HAARLEM
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen.
+KËUKUIL
+Antiquiteitenhandel
+S, L KNHP
+VONDELSTR. 30
+TELEFOON 24683
+ZUIVER WOLLEN-,
+HALF WOLLEN-,
+KATOENEN-, TRICOT-,
+RAMEH- EN
+NETON DERGOEDE REN
+Fabrikaat W. JANSEN
+H.V. REFORM"
+Dir. E. Boerma
+GRONINGEN AMSTERDAM
+Heereetr. 8 Rokin TD
+Dames- en
+HeerenKleedermakerij.
+,Coupeun door het geheeli
+land to ontbieden".
+Stoomwasscherii Het Zuiden
+PIETER AEBTSZSTBAAT 68-74
+TELEFOON 22365
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIG &amp; VAN ELVEN
+AMERSFOORT
+YÜtelen' s
+M
+Snouckaertlaan 22-24
+TELEFOON 218
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+| P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250 l
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELENl
+ADR1AAN SCRAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bestelt een flesch
+
+WED. JOHN GAY'S PICCALELL1
+het mosterdzuur met de fijne pikante smaak. Bovendien is op elke flesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N .V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+Kleedermakerij naar Maat
+voor Damit
+en Meeren
+H. K E M IV K R
+voorheen Coupeur dor Firma P. M. BROEKMANS, Koningsplein, Amsterdam.
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+. .
+Mantetcostuums van af ..... «5. Prima arW8i"King.
+Stalen op aanvraag.
+UhMthNl t tmmt
+GIROKANTOORl
+GIJ HEBT BELANG
+BIJ EENE
+GIRO-AANSLUITING
+zoowel voor U,
+voor Uw zaak, als
+voor Uw vereeniging. Gemakkelijk, voordeelig en
+veilig. Gratis formulieren. Geen provisie.
+Binnenen Buitenlandsche verbindingen. Giro ook auto
+
+matisch voor belastingen, huren, waterleiding,
+gas, enz. Giro-, tevens chequeboekje in zakformaat.
+Afzonderlijke kantoorgiroboekjes op aanvraag.
+2O.OOO aangeslotenen.
+Saldo te goed der dag
+
+en jaarrekeningen
+25 MILJOEN guldens.
+RENTE 2&gt;.i en 4% pCt.
+Vraagt inlichtingen.
+INGANG
+l OUDE:
+BRUG
+STEEG l
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+•—. fL50'
+f2.00, f2.50, f3.—cu.
+Franco per post 50 Cents verhooging.
+B. J. flULDERS
+TUINARCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon. BO8IO
+
+</text>
+<image timestamp="2002:09:03:23:22:15.00" size="159813">D20044E.TIF</image>
+</page>
+</document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030104</Datum>
+<Pagina>12A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Lamsdorf's zending door den Czaar.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 4 Januari 1903.
+Amst. Boek- en Steendruklcerii, v/h. Ellerman, Harms &amp; Co.
+LAMSDORF (tot Ferdinand, Alexander en Draga): Nou, stil wezen, lieve kinderen;.... maak dien zieken man niet wakker.
+
+</text>
+<image timestamp="2002:08:19:00:32:32.00" size="658743">D2001O8.TIF</image>
+</page>
+</document>

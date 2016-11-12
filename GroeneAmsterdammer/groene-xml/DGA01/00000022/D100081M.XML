@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261023</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+4*4».')»•*••*• f
+UA&lt;**rtt«tllm ƒ«.75
+« voorailfcctalfalg
+regel
+KEIZERSGRACHT 333
+AMSTERDAM
+LOSSE NUMMERS 25 GTS.
+3f»«J
+V
+A A O T
+VAN
+'S
+ADVOCAAT
+^VAN BIJSTEfiVELD
+AM
+p o
+Een mofti gebit en geve tanden
+geven een bekeorlijke introductie.
+Gebruikt daarom steeds
+POOL'S ATOL
+tandpasta
+de allerbeste
+omdat deze tandpasta bestaat uit
+zachte en onschadelijke
+b&amp;taiufdeelen, die wel den tandaanslag wegne
+
+men, maar de tanden niet aantasten.
+.af...'..
+A: F. ZURCHER{
+CA&amp;TQNNAGBPABRIEKenDRUKKERIJ
+WO1BRSGRACHT64-66-68-70-72.AMSTERDAM
+i STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER U EER HET
+TE LAAT IS!
+l
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN.
+N. V. Aleutelmagazijn EDE^NT
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+Behangerty - Ameublementen - Stoffeerder^]
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+Het INDISCH RESTAURANT J. van Geemert
+
+wordt VERPLAATST
+van Laan van Meerden/oort 68 naar
+LAAN VAN MEERDERVOORT 12
+DEN HAAG Telefoon 34516
+05CO
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+Speciale inrichting !
+
+CAPI
+115 KALVERSTRAAT
+IS MAAR
+
+KARELI
+EURYTHMIE.
+Rythmische
+bewegingskunst,uitg. v.h.Goetheanum
+te Dornach (Zw.). LESSEN
+(beweging op gespr. woord
+en rnuz.) aan volwassenen
+en kinderen, door PAULA
+WAGNER. Inlicht.
+Anthroposofische Ver.
+Hobbemastraat 6 ; aanm. Woensdags
+8—10. Prijs 12 lessen f 15.—.
+Tl MTU R
+KINDER
+iCHOENENI
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stijle*
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amsterdam
+
+m
+NAAML. VENN.
+EUROPEESCHE
+Goederen- en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+
+POLISSEN dekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+stations der NËDÉRLANDSCHE
+SPOORWEGEN verkrijgbaar
+8*" Schade kan ook worden 'geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, München, Oslo, Parijs, Praag,' Rome, Stockholm,
+Warschau en Weenen.
+m
+m
+m
+
+</text>
+<image timestamp="2002:09:26:07:03:51.00" size="193237">D100081M.TIF</image>
+</page>
+</document>

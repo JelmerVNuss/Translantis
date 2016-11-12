@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320604</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 4 Juni 1932
+No. 2870
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N»V» Meubelmagazijn Eden"
+MOLSTEEG AMSTERDAM
+BOEKENKASTEN
+i-W. H. POLMAN TUINH
+l OVERTOOM 526 - Telefoon 82660
+j Begrafenissen - Transporten - Crematies
+
+*:BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tal. 20341 24250
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+t*
+v
+D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN M A R M E R W E R K EN
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN WASCHTAFELS—REPARATI ES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+AUG. KAUPMAN
+Telefoon 23308 - P. C. Hooftstraat 113 - Amsterdam Z.
+Bed-, Tafel- en Huishoudlinnen
+Nieuwe Collectie Nachthemden, Pyama's
+Baddoeken, Ontbijtstellen
+Zakdoeken
+Zichtzending franco.
+. LChécS*
+'Voor «lle doeleinden
+[ChemKunginrichtfng
+iDirkScliiKibel
+• Amsterdam.
+S
+Er bestaan faciliteiten voor
+het bezoeken van de ver
+
+schillende toeristenplaatsen
+in Engeland vanuit bepaalde
+centra. Deze vormen een
+goedkoope manier om dit
+land met zijn onvergelijkelijk
+landschap te leeren kennen.
+De retoarprijs van een goed
+
+koop biljet van Rotterdam
+naar York (geldig 21
+daa d
+gen) bedraagt 57/6, Ie kl.
+boot, 3e kl. spoor). *) Een
+reisje b.v. met York als
+uitgangspunt, bezoeken aan
+Harrogate, de bekende bad
+
+plaats, twee interessante
+Abdij-ruïnes te Fountains
+en Rievaulx, verder een
+autotocht over de
+Yorksbire heide en eindigend met
+bezoeken aan Whitby,
+Scarborough, Filey en
+Bridling8 d
+ton kost 22/3, terwijl de
+reis overal onderbroken
+mag worden.
+*) III kl. spoor m Engeland lomt
+ot ereen met II kl. in Holland.
+Reist via
+Rotterdam - Huil
+De goedkoopste route.
+Bijzonderheden betreffende deze toeren,
+geïllustreerde brochures, hotellijsten en
+volledige inlichtingen worden verstrekt
+door de voornaamste
+Passage- en
+Reisbureaux.
+C. K. ELOUT, Indisch Dagboek, ing.
+
+f 6.—t geb. f 7.50, formaat 23x25 c.M.,
+
+240 blz., 150 reproducties, een boek,
+
+dat alom met groote waardeering
+
+ontvangen is. Uit de vele besprekingen
+
+halen wij het volgende aan:
+
+
+Mede door de fraaie uitvoering van dit overvloe
+
+dige illustratiemateriaal, den duidelijker! druk, alsook
+door den solieden band is het boek van Elout o.i.
+een der meest begeerlijke uitgaven van den laatsten
+tijd over Indië". Koloniaal Weekblad".
+
+
+Want wie dit kloeke, buitengewoon fraai uitge
+
+geven boek doorbladert en men wenscht het ook
+in Indiëvan harte in veler hand die zal daarin
+veel, zeer veel van waarde vinden".
+De Locomotief".
+
+
+Groot is de verleiding uit dit werk te gaan
+citeeren: doch de ruimte voor deze korte beschouwing
+beschikbaar, laat dit niet toe. Men leze zelf dit fraaie
+werk en herleze het".
+De Groene Amsterdammer".
+Verkrijgbaar bij den Boekhandel.
+
+En UITGEVERIJ C. A. MEES.
+
+= SANTPOORT. =
+Een succes voorVerkade,
+die origineele Minta
+Keps! leder, die ze kent,
+is enthousiast! Hebt U
+ze al geprobeerd? Geef
+ze eens na het eten, of
+bij de thee. U hebt óók
+succes met deze heer
+
+lijke, verfrisschende ver
+
+snapering.
+16 et. per ons
+en in doozen van 50 et.
+VERKADE
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100—tegen Beurskoers.
+
+</text>
+<image timestamp="2002:09:27:01:06:01.00" size="162324">00000AB5.TIF</image>
+</page>
+</document>

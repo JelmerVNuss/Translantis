@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270122</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk verboden
+HET RAPPORT VAN DE COMMISSIE-KRAUS
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 22 Januari 1927
+(De Commissie-Kraus is tot de slotsom gekomen, dat de oorzaak van het
+ongeval moet worden gezocht in den toestand, waarin de baan, heeft verkeerd.)
+Amst. Boek- en Stetndr. v|h. EUerman. Harmi 6 Co
+DE SEINEN STAAN VEILIG, DE BOOMEN ZIJN GESLOTEN, ~ MAAR IK HEB NOG DE BAAN l"
+
+</text>
+<image timestamp="2002:09:20:21:52:19.00" size="138594">D100065I.TIF</image>
+</page>
+</document>

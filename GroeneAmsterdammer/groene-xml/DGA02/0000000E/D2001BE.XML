@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020406</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1203
+DE AMSTERDAMMER WEEKBLAD YOOR NEDERLANR.
+Blijde verwachtingen.
+De deugdelijkheid van de blokhuïzen. (l'Actualtté).
+REPOKTEB (tot den ooievaar): aKom, vertel me nu eens of het een prin.»je of princesje zal zijn.,, ik zal het aan niemand zeggen."
+
+
+
+Een koning in spe, (Noterdie).
+Weldra zal Alfonso van Spwjs den troon bestegen ... en dan wè,j 'c kinderspaelgoed, dan zal hy andere poppen hebben.
+De Muildieren. (Le Rire)
+LOSD KITCHESEB: »G3neraal de Wet,
+WACHTHEBBEM)E BOEE : »Dat treft u niet, hij is alweer nit."
+
+
+Na het bezoek v*»n Prins Heinrich (L;fe).
+USCLE SAM: »'t Is mode tegenwoordig, om ja te germaniseeren maar ik geloof
+niet, dat 't me goed afgaat."
+
+De nieuwe muilezel. (Le Rire).
+De ezels, die in den oorlog zooreel onheil stichten, zijn niet uitsluitefld in Z -Afrika te vinden.
+Ean zonderling dier, een kruising van de haas en dan zondebok komt alleen in.
+Zuid-Afrika voor."
+Dr. A W. lUEUWENHtlS.
+Na de verbroederingsfeesten, (ï'lk).
+Anglo-Boer Regelspel. (Ftsehietto).
+Alweer een poedel! Gaeie heael, wanneer zal ik nu beginnen
+te winnen ...
+Als u niet meer speelt, Majesteit; luister naar mjjn goeien raad.
+OOM SAM en MICIIUL tegelyk : »Nu zullen we eens kgken,
+wat we er uitiwen."
+
+</text>
+<image timestamp="2002:08:17:15:02:36.00" size="405129">D2001BE.TIF</image>
+</page>
+</document>

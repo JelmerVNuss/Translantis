@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230818</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROOTE COALITIE IN DUITSCHLAND
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer". Weekblad voor Nederland van 18 Augustus 1923
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co.
+Hou Mie, hou Jan,
+Hou al, wat houen kan.
+
+</text>
+<image timestamp="2002:08:26:09:32:44.00" size="210549">D10003T4.TIF</image>
+</page>
+</document>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260501</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Degelijkheid bovenal!
+
+Als Grootvader vóór 50 jaar een nieuw pak kocht, was
+zijn voornaamste eisch, dat het degelijk moest zijn van
+stof n bewerking vooral. En toch was Grootvader
+een zuinig man, die de dubbeltjes sparen kon!
+Wat sinds Grootvaders tijd ook moge veranderd
+zijn, de voornaamste eiscb is nog ten huldigen dage:
+Degelijkheid bovenal!
+Werkelijk zuinige menschen eischen daarom Kleeding
+met Waarborg. Waarborg voor goede coupe, sterke
+stof en solide bewerking.
+Spaart de dubbeltjes zooals Grootvader
+deed door Kreymborg's kleeding
+te koopen, die beter is van coupe en
+bewerking en daardoor langer meegaat.
+Postzegels - Geldbelegging
+Wie goede oude postzegels wenscht te
+koopen, zende zijn manco-lijst naar ons»
+Wij kunnen steeds completeeren»
+Tegen deposito of goede referentiën maken
+wij zichtzendingen van elke verlangde soort»
+A. L. SMITS
+,,Vredeburg"
+HEIDE (bij Antwerpen).
+Algemeene Friesche"
+
+Levensverzekering-Maatschappij
+De grootste zuiver ONDERLINGE
+Maatschappij in Nederland
+OPGERICHT 1844
+LEEUWARDEN, AMSTERDAM ROTTERDAM
+Burmaniahuis.
+Verzekeringen van kapitalen bij overlijden en
+bij leven. Gemengde', Studie' en
+Uitzetverzekeringen. Lijfrente en Pensioenverzekeringen.
+Collectieve Verzekeringen.
+A, van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd sedert 1810
+Prinsengracht 951
+TELEFOON 37706
+Vraagt Prijscourant
+VERZEKERING
+cKlao Wittlom W
+O SCOTS WHISKY
+VERTEGENWOORDIGERS:
+N.V. Hoogewerff, Chabot 6 Visser's
+
+WIJNHANDEL
+Den Haag - Rotterdam - Arnhem
+/heeft V
+WAAROM
+heeft Van Rijn's Mosterd weer zoo'n overweldigend
+SUCCES?
+OMDAT roor ieder gastronoom QUALITEIT dea doorilag geeft
+Utrechtsche Assurantie-Mij,
+UTRECHT \-\ Westerstraat 5
+Ziekte- en
+OngevallenVerzekering en
+CENTRALE VERWARMING
+volgens elk systeem
+WARMWATERVOORZIENING
+door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+HUNCK &amp; ZOON
+•uffluiauuuuuuuuttuiuuiiimiiiiuiuniuiuuuuumuummnni!
+nimmn«
+imnnniimima
+Begrafenis-Vereeniging
+HEERENMARKT 17 TEL. 42317
+Lij k-Automobiel disponïbel
+Nuttige Geschenken
+Ruststoelen met 2 kussens 32.50
+Clubfauteuils	42.50
+Divans	18.50
+Divanbedden, nieuw! nieuw ! 75.
+Divankleeden	17.50
+Tafelkleeden, moquette 180
+bij 160	24.50
+Schemerlampen	14.50
+Kussens voor divans . . . 2.50
+Kapstokken	5.20
+G. J. v, Bennekom, Amsterdam, Huidenstraat 28, Tel. 309C
+MEUBELFABRIEK - WONINGINRICHTINGEN
+PARAFiU
+VUURVAST AARDEWERK
+H.V.DE SPHIHX MAASTRICHT
+VERKOOP VOOR HAARLEM EH OMSTREKEN.
+VERKOOPHUIS J.R KARTHAUS.
+H A AJE» l_ B. N*.
+
+</text>
+<image timestamp="2002:09:25:12:22:48.00" size="211339">D10007JV.TIF</image>
+</page>
+</document>

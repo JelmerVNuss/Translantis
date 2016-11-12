@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270924</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE TROONREDE
+
+iBIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 24 September J927
+Nadenk verboden
+WASZINK
+DE GEER
+DONNER KAN
+
+DE FAVORIET VAN DE MODE-SHOW
+Amst. Boek- en Steendr. v{h. BUennan, Harms &gt; Co
+
+</text>
+<image timestamp="2002:09:25:21:40:39.00" size="229899">D2006EJ.TIF</image>
+</page>
+</document>

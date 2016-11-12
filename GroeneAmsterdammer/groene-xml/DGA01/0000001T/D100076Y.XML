@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260102</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2535
+Goede Radio Ontvangst
+
+allén mogelijk met goede Toestellen n.l.:
+
+
+STERLING" Ontvangtoestellen
+
+
+ERRES" Ontvangtoestellen
+
+
+Vraagt Inlichtingen:
+
+
+
+Handel-Mij. R, S. STOKVIS 6 ZONEN
+
+Afd. Radio
+
+AMSTERDAM - ROTTERDAM - GRONINGEN
+AMERICAN-HOTEL
+
+AMSTERDAM
+HOTEL 6 CAFÉ-RESTAURANT VAN DEN len RANG
+Groote en Kleine Zalen voor Vergaderingen, Diners enz.
+D, OBERINK 6 Co.,
+&lt;*&gt; INGENIEURS ™
+Amsterdam, Prinsengracht 456. Tel. 37452
+
+ELECTRISCHE VERWARMING
+Volgens nevenstaande foto leveren wij prima Ledikanten met
+
+Spiraalmatras en verstelbaar peluw, zwart gelakt f 11.50, wit
+
+gelakt f 13.50, goed verpakt onder rembours door geheel Nederland
+
+
+N.V. Beddenfabriek DE ZWAAN
+
+Goudscheweg 140—142 ROTTERDAM
+
+Telefoon 10345 Giro 13286
+
+Vraagt prijs bij grootere afname voor Hotels en Pensions
+l Fijnhouthandel - Haarlem
+
+
+f F. G. J. BEERKENS
+
+$ Burgwal 76-88 - HAARLEM Telefoon 13789 |
+0 0
+MAANDAG A.S.
+
+BEGINT ONZE GROOTE
+
+
+
+INVENTARIS
+
+UITVERKOOP
+
+EXTRA AANBIEDINGEN
+IN ALLE AFOEELINGEN
+
+
+
+i BIJENKORF
+AMSTERDAM
+0
+0
+0
+0
+0
+0
+* Slavonisch Eikenhout
+0
+% Mahonie Beuken Linden Noten Teakhout
+
+
+l - - Cawit Triplex -
+
+0 OcouméElzen Berken Eiken Triplex
+
+00000000000000000000000000000000000000000000000000
+Hotel CaféRestaurant DE WITTE"
+
+
+AMERSFOORT, Utrechtscheweg 2 bij de brug
+
+
+Het mooiste terras ter plaatse
+
+Ie klas Inrichting Directie C. J. HASTRICH
+0
+0
+0
+0
+0
+©©©©©©©©©©©©©©©©©©©©©©©©©©o©©©©©©©©©©©©©©©
+
+
+l Hotel Pension HET JACHTHUIS" |
+
+| WARNSVELD |
+
+© Prachtige ligging in boschrijke omgeving. ©
+
+© Uitstekende keuken. Electr. verlichting. Ruime slaapkamers, ©
+
+@ TELEFOON 226 ZUTPHEN. @
+
+©©©©©© ©©©©© ©©©©©©©©©© ©©©©©©© ©©©©©©© ©©©©©©©
+
+</text>
+<image timestamp="2002:09:24:19:29:05.00" size="90818">D100076Y.TIF</image>
+</page>
+</document>

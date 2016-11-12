@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170512</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+12 Mei '17. No. 2081
+Gelder&amp;C0
+Tel.
+H.2997
+Amsterdam
+Tel.
+N. 2997
+Eetserviëzen
+
+l
+Alleen in deze Verpakking.
+voor fijnproevers
+KUNSTHANDEL
+S. J. SALA, • DEN HAAG.
+AQUARELLEN EN SCHILDERIJEN.
+Restaureeren van Schilderijen.
+JfOOEDEUfDE S7a.
+TEL. 7091.
+11-unli
+uitsluitend verkrijgbaar bij
+Directeuren: IACS.S. WAISVISZ k Co.
+Wagenstraat 167, Den Haag.
+Tel. 1119.
+
+Kantoor te A'dam Singel 188
+Tel. 5259.
+Deze belegging kan worden
+uitgevoerd geheel volgens
+teekening van H.H. Architecten.
+Op aanvrage zenden wy gratis
+onze Catalogus.
+KOK
+
+1ULMSNUTS-UITGEVERIJ
+ZALT-BOMMEL.
+Verschenen en in alle boekhandels verkrijgbaar:
+OP RANTSOEN
+Wenken (en recepten) voor de huisvrouw
+door
+MARTINE WITTOP KONING
+Prijs f 0.35.
+• N.V. Keiler &amp; Macdonald's
+
+y Technisch-Bureau
+g Overveen
+
+EIectrische Licht- en Krachtleidingen, Schel/
+leidingen en Huistelefoons.
+• MOTOREN uit voorraad leverbaar.
+Kunsthandel ELLEN FOREST
+ROKIN 42 - AMSTERDAM
+OPENING TENTOONSTELLING
+
+SCHILDERIJEN en ETSEN
+van W. VAN LEUSDEN
+KBUSSUMix!
+K HOUTMAM--MASSAULAAN.15*
+• TELEFOON INTERC.16-* •
+BEHAMGERU • MEUBELMAKERIJ •
+, BEDDEMMAKERIJ •
+J. H. DE BOIS
+KUNSTHANDEL
+SCHILDERIJEN
+PRENTKÜNST
+Kunstuitgaven
+
+HAARLEM
+KRUISWEG 68
+
+AMSTERDAM
+Filiale open dag.
+van 2 tot 5 uur
+HEERENGE 444
+MMgTWAPgNVAM SINT LUCA
+BIDDINGSZONE^
+ROTTERDAM
+CACTEËN KWEEKERIJ
+ACTEËIV'"teg-e:n bflUJken prijs. J
+Amstelveenscheweg 23, W. A instel.'
+CHEM1GRAF1SCHE KUNSTINRICHTING
+
+% DIRK SCHNABEL
+CLICHÉ'S
+VOOR /.WART EN KLKURtNORUK
+ONS NIEUW PROCÉDÉIS
+
+KOPERDIEPDRUK
+GESCHIKT V(_X3H ELK PAPlER.
+LOUIS
+Ie coiffeur pour Ie
+monde chic.
+Ses coiffures d'art
+et 363 postiches.
+
+UTRECHT
+NOBELSTRAAT 1.
+Téléph. 2462.
+9»
+,
+/Wasiae/
+/ /aarden
+«^..KOGELS 6 ZOON
+DEN HAAG
+PRINSENSTRAAT. 52-56
+AMSTERDAM - LEIDSCHESTRAAT 13
+GOOSEN «, 5WAGERMAN
+
+- K PIANO'S
+IN ALLE STIJLEN:
+, EN HOUTÓCORTEN
+Dl V-BERDUX
+BE • KAPSex,
+CATALOGI FRANCo
+,OP AANVRAGE .'
+!\OtKHOk^T6TH. H9. TLL. 2O5I.
+VAH DUREM'S __
+
+
+Korsetten-Magazijnen
+
+.„,„,&gt;,„( Kalverstraat 186, Telef. 8178 N.
+AMSTERDAM j Leld8che8traat 78, 7851 N.
+EOTTEEDAM. . Hoogstraat 243, 679.
+UTKECHT, NIJMEGEN, HAARLEM, TILBURG,
+BREDA, ALKMAAR.
+CORSETTEN OP MAAT.
+Voorhanden een prachtige keuze Stoffen,
+Indien gewenscht kunnen de modellen waarna het maatwerk
+geleverd wordt, eerst worden gepast.
+5 Mei tot en. met 27 Mei 1917
+PANORAMA
+Plantage tegenover Artis
+
+TENTOONSTELLING
+A. DIRCKX • C. KUYPERS
+Toegang 26 Cent
+DE BOST «LETTEN!
+FUIE CHOCOLADE
+El SDIKEBWERKEI.
+BOURGOGNE PUNCH
+B. &amp; Co.
+De Fijnste AVONDDBANK.
+per fl. f 1.80 (vold. voor 15 glazen)
+Eenigste fabrikant:
+BOL/TEW £c Co.
+Heerengrachl 597, Amsterdam.
+Telefoon: Noord 1797.
+AANNEMER
+OUDCIÖ,
+WAAL /21.
+AMSTERDAM.
+--
+-TE.L NOOHD
+STRAAT '/9
+Firma J. A. H. WAGENAAR, Utrecht, Oudkerkhof 30
+prm^
+COMPLETE
+UITRUSTINGEN
+
+BÉDÉARTIKELEI
+
+FRAN5CHE
+LINGERIES/
+Muziek—Piano's	Strijkinstrumenten
+Tf
+Sanitair Technisch Bureau
+AMSTERDAM
+
+Centrale Verwarming
+Warmwater-voorziening
+Koudwater-voorziening
+Drooginrichtingen
+Sanitaire Inrichtingen, enz.
+
+</text>
+<image timestamp="2002:08:23:13:15:34.00" size="280143">D2002VL.TIF</image>
+</page>
+</document>

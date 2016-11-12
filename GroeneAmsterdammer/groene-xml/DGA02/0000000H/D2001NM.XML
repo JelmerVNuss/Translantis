@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021221</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1330
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+l O dubb. Capsules
+«MMT
+roote
+timimmiiimmiiiiimi	MmmTimiiiiiiiiiiliimiiiiimmMiiimMirniniiiimmm	IIIIIIMHMMIIMMIIIIIIIII	iiiiiiiimiiiiiiiiiiiiiimiiiimiiiiiiiiiiiiiiiiiiiiii	iiittiiiiiiiiiiiiiiiiiiiiiiniiniiiii	i	iiiiiiiiiiiinniiHiiiiiittimiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiuiiiiimiimmiiiiiimiiiiiiiii	IIIIIIIIIIIMIIIIIII	iiiiiiiiniiiniiiiiiiiii	iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiinii.
+De strijd om de Reformkleeding.
+BECTOR (TEEUB) tot Andromaché: .Uit myn oogen, hobbezak! Bjj Aescupalius, trek een cornet aan, .f... of	een ander zal de myne zijn, mismaakte schoone...!"
+HimtHINIIUlHIIIIItlllllMlllllllllllllllllllllllllllimillulllMIIMIIIIIIIIinilllllUlinillllllltlMIIIIIIIIIHIUIIIIIIinillllllllllllllllllHIIIIIMIIIIIIIIIIMIMIIIIMtllllltlMnilMIMinillllMnill^
+
+KOLDEWEIJ en CORBIÈRE. 30 Leidschestraat, Amsterdam.
+)" geel Mandenwiegje opgemaakt in alle
+kleuren Satinet,met afgepast gevoerd tallen Overgordijn,
+Bed en Kussentje, compleet ... .f #&amp;.
+en COHtl i UK K is de
+grootste specialiteit 'in Wiegen, Kiuderledekanten,
+Luiermanden en verdere Babyartikelen.
+bruin Mandenwiegje, opgewerkt in
+alle kleuren Satinet, met afgepast gevoerd tnllen Over
+
+gordijn, Bed en Kussentje, compleet . . . f
+
+</text>
+<image timestamp="2002:08:18:23:12:40.00" size="440360">D2001NM.TIF</image>
+</page>
+</document>

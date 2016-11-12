@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251226</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2534
+SCHAAKPROBLEEM 49
+van T JACKSON
+t-'
+Wit: Kgl, Del, Te5, La2, Pe4, pionnen: a3,
+f4 en g2.
+Zwart: Kd4,Td5, Pa5, pionnen: c6,d3,d7 en g3.
+Wit geeft mat in twee zetten.
+Oplossing in het eerstvolgend nummer.
+
+Oplossing probleem No 48 van S. A. Sörensen:
+l Td8—e8, Le5xh2, 2. Dh3—d3f, Le4 x d3,
+3. e2—e3f.
+1..., Le4—g6,2. Dh.3—g3, Le5 x g3,3.Ph2—f3f.
+(2... Lg6—e4, 3. Dg3—gif.)
+' Correspondentie-adres: Dr. A. G. Olland, A. R.
+Falckstraat 5, Utrecht.
+
+
+DAMPROBLEEM 51
+
+van ?
+Zwart 14 schijven
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit 14 schijven.
+Stand Zwart: 2, 4, 6, 8/10, 12/14, 17/19, 22,26.
+,. Wit: 16, 21, 24, 29, 30/32 34 37/39,42,
+43, 50.
+Oplossing probleem Nr. 53.
+Wit: 37-31 34-30	32-27, 43-39, 44-40,
+Zwart: 33:42, 23:45 ofl2574!T25~:34 34:43, 45:34,
+24^20. 31-26 26:6!
+15:24, 22:31.
+Correspondentieadres: K- C. de Jonge, Van
+Woustraat 112n, Amsterdam.
+
+
+BRIDGEPROBLEEM 49
+Ki.
+b.
+6.
+3.
+B(linde)
+R. H.
+h. 10.
+3.
+8.
+V.:
+Sch,
+h.
+v.
+7.
+4.
+3.
+2.
+A.:
+L(eider)
+KI. R. H, Sch.
+a. v, h. a.
+9. 9. v. 8.
+7. 7. 9. 5.
+4.
+L moet a in S. A. maken.
+V komt uit met R. 4.
+Hoe moet L spelen om zoo groot mogelijke kans Ie
+hebben zijn spel te winnen?
+OPLOSSING PROBLEEM 48.
+L moet in ieder geval l KI., l R. en l troefslag ver
+
+liezen, als hij gewoon speelt. Zitten de troeven hem slecht,
+dan zou hij down gaan. L speelt dus niet gewoon.
+Hij begint direct met Sch. te spelen. Sch. a, Sch, h,
+en Sch. v.
+Daarop gooit L al vast KI. 3 weg. Die zou dus alleen
+afgetroefd kunnen worden, als A 5 Sch. heeft. Heeft
+V 5 Sch dan moet A aftroeven en kan L overtroeven.
+Komt S. . v binnen, dan speelt B Sch. 10 na ; troeft
+A, dan chcoupeert L, bekent A, dan gooit L KI. 2 weg.
+Zu moesur introeven.
+t V
+Zoo heeft L het voordeel, dat al zitten
+de troeven 3 a l L er toch komt, mits
+er maar door hem afgetroefd wordt,
+die de 3 troeven heeft. Immers nu
+verliest hij wel 2 troefslagen, maar
+geen KI. slag. Had hij het gewone spel
+gespeeld, dan had hij toch ook twee
+troefslagen verloren n een K', slag
+en nog een R. slag.
+B. M.
+Correspondentieadres: Secreta
+
+riaat v/d Amsterdammer, Motto
+.,Bridge" Keizersgracht333, Am
+
+sterdam.
+BRIDGE
+REGEL VAN ELF
+Bij ettelijke Bridgeproblemen kwam
+de Eleven Rule (Regel van elf) te pas.
+Zooals mij van verscheidene kanten
+bleek, is deze sommjge spelers nog
+niet • of onvoldoende bekend. Ik
+zal derhalve trachten u dezen zoo nut
+
+tigen regel uiteen te zetten.
+Deze regel gaat alleen op, indien
+degeen, die uitkomt dus de eerste
+speler in elk spel met de vierde van
+boven uitkomt. Vandaar dan ook, dat
+men steeds met de vierde van boven
+uitkomen moet.
+Gebeurt dit, dan kan de partner
+van hem, die uitkomt, uitrekenen hoe
+
+vele kaarten de Leider in die kleur
+boven de uitgekomen kaart heeft. Hoe?
+Dit is hfcvl eenvoudig.
+EEN NIEUWE BEZIENSWAARDIGHEID
+Teekening voor de Groene Amsterdammer" door W Heskes
+L
+Stel, V komt uit met H. 5. Men
+mag aannemen, dat hij drie boven de
+5 heeft; immers hij is met de vierde
+van boven uitgekomen V + B + A + L
+hebben met hun vieren samenSHarfens
+boven de vijf. Hoe vindt men dit
+getal? Men trekt eenvoudig j af van
+14. (Immers er zijn 13 kaarten, maar
+men begint niet met de n maar met
+de twee te tellen; dus boven de 5 : 14
+5 kaarten). Maar als V + B + A
+-j- L 14 5 Hartens boven de vijf
+hebben en V er drie boven de vijf
+heeft, dan hebben B + A + L er
+14 3 -5 boven de vijf, of wel
+11 5 boven de vijf.
+De drie overige spelers hebben •
+indien er met de vierde van boven
+uitgekomen wordt, dus steecis 11 de
+uitgekomen kaart boven de uitgekomen
+kaart.
+Speelt V, de 7, dan hebben B, A en L
+er dus 11 7 =4.
+A ziet, hoeveel B (de Blinde) boven
+de uitgekomen kaart heeft. Hij weet, ^—^
+hoeveel iiij er zelf heeft; hij kan dus
+door een buitengewoon eenvoudig sommetje steeds te
+weten komen, hoeveel L boven de uitgekomen kaart heeft.
+Voorbeeld.
+V komt uit met de 6; B heeft er 3 boven de 6, A
+heeft er n boven de G.
+A rekent dus als volgt:
+B 4- A + L hebben er 11 0 = 5, boven de .
+B _|- A ' hebben er 3 + l = 4
+L heeft er dus l ,, ,, ,,
+
+U ziet dus, dat A in sommige gevallen precies kan
+uittekenen, welke kaarten L van een bepaalde kleur in
+handen heeft.
+Dat dit in diverse gevallen van buitengewoon groot
+belang is, spreekt van z,elf.
+Nog een voorbeeld.
+V komt uit met R. 7. (Er wordt S. A. gespeeld).
+Op tafel ligt van die kleur, h. en 9.
+A heeft R. v. b. 2.
+11 7 =4. Blinde heeft er 2, boven de 7; A heeft
+er zelf ook 2, L heeft dus geen een boven de 7. A gooit
+dus direct R. b. bij, nadat door B de heer is ingelegd,
+om de serie van zijn partner niet te blokkeeren.
+
+Een tweede voordeel van de uitkomst met de vierde
+van boven is:
+A kan soms precies weten, van hoe lange serie V uit
+
+gekomen is. Stel V komt uit met H. 2. Hoeveel heeft hij
+er dan nog? Er boven 3; beneden de 2? Geen een natuur
+
+lijk. V is dus van een vierkaart uitgekomen. Zoo ook,
+als V met de 3 uitkomt en op tafel de 2 ligt.
+V is van een vijfkaart uitgekomen, als hij met de 3
+uitkomt en naderhand zelf de 2 bijgooit. Op ettelijke
+wijzen kan V zoo een waardevolle inlichting geven, die
+van veel belang kan zijn, als A aarzelt welke kleur hij
+naspelen zal, zijn eigen of die van V.
+
+Mochten er nog lezers zijn, die nog inlichtingen
+wenschen, dan ben ik, als steeds, gaarne bereid eventtieele
+vragen te beantwoorden.
+B. M.
+AAN DE MEDEWERKERS
+Brieven en bijdragen bestemd voor het redac
+
+tioneel gedeelte moeten worden geadresseerd aan
+het secretariaat der redactie, Keizersgracht 333,
+Amsterdam, zonder vermelding van persoons
+
+namen.
+Brieven voor den hoofdredacteur bestemd
+moeten eveneens aan bovenstaand adres worden
+gezonden.
+In Spanje is onder voorzitterschap van graaf Lopez Munaz een comit
+gevormd, dat zich ten doel stelt over de geheele wereld gelden in te
+zamelen voor de oprichting van een reusachtig standbeeld voor Don
+Quijote nabij Toboso in de vlakte van la Mancha.
+Volgens ,,Comoedia" zal Don Quijote gezeten op zijn Rossinant
+52 m. hoog worden. Naast den ridder van de droeve figuur komt
+Sancho Pancha op zijn ezel. In de punt van Don Quijote's lans, op
+een hoogte van 70 m. zal een vuurtorenlicht worden geplaatst. Twee
+terrassen, een op den kop van den Rossinant en een op Don Quijote's
+hoed zullen uitzicht bieden over de vlakte, terwijl in het inwendige
+van het standbeeld twee tentoonstellingszaaljes worden ingericht."
+J. S. MEUWSEN, Hofl. A'DAM-R'DAM-DEN HAAO.
+DE BESTE HOEDEN IN HOLLAND
+INHOUD; Een versnelde film, door Prof, Dr,
+G. W. Kernkamp 2, De Vereenigde Staten en
+het Intern. Hof van Justitie, door Dr, E. van
+Raalte Spreekzaal, door Dr. P. H. Ritter Jr.
+3. Cliam.berlain en Tsjitsjerin te Locarno, teekening
+door Joh. Braakensiek Een historisch museum,
+d. Dr. J. O. vanDillen 4. DePolitie te Amsterdam,
+door Prof. Dr. H. Brugmans 5. Wandplaten van
+Ned. post-Indiü, door Mr. H. O. Koster 6.
+Bijkomstigheden, door Annie Salomons 7. Uit de
+natuur, door Dr. Jac. P. Thijsse 9. Voor vrouwen
+red. Elis. M. Rogge 11. Nieuwe Fransche
+boeken, door Dr. Joh. Tielrooy 12 Muziek in de
+Hoofdstad, door Constant van Wessem • Onze
+Koloniën, teekening door J. . Sinia 13. Drama
+
+tische Kroniek, door Top Nacff 14. Kroniek van
+den Dans, door J. W. F. Wemmen s Buning •
+Boekbi spreking, door H. Middendorp 15.
+Schildc-rkunstkroniek, door A. Plasschaert •
+Engelenzang, teekening door Jordaan 17.
+Bioscopy, door L. J. Jordaan • Onze Kunste
+
+naars, teekening door P. P. Koster 19. Op den
+Economischen Uitkijk, door Jhr. Mr. H. Smissaert
+Dierstudie, teekening door H. Vcrstijnen •
+20. bit het Kladschrift van Jantje Uit het
+nachtboek van Aaltje, door Alida Zevenboom
+Telefoongesprekken, door Cel 2 21. Charivaria,
+door Charivarius • Rijm, door Kumgra Nosalis •
+liniwormpjes, door H. Veersema 22. Feuilleton,
+door Maurits Wagenvoort • 24. Problemen •
+Don Quichotterie, teekening door W. Heskes.
+Bijvoegsel: Kerstmis 1925, teekening door
+Joh. Braakensiek.
+TABA SIGAREN
+ZIJN TOCH DE BESTE
+Het boek van Uw voorkeur?
+Typ, Amst. Boek- en Steendrukkerij, voorheen Eüerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:04:01:18:26.00" size="386927">0000066G.TIF</image>
+</page>
+</document>

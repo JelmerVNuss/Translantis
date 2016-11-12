@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19381217</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+van
+kei licltt
+DE gewone mensch is geneigd, over de ver
+
+schijnselen van leven en wereld heen te
+loopen. Hij aanvaardt ze zooals ze zijn,
+zonder de vraag naar oorzaak of zin te stellen. De
+zon geeft licht; zijn lamp geeft licht; het vuur geeft
+licht; lichtreclames geven licht, en misschien geven
+de visschen in zijn aquarium ook licht. Dat alles
+neemt hij aan zonder er verder over na te denken.
+De voor de hand liggende vraag: wat is .dat
+licht toch eigenlijk? komt niet bij hem op. Hij
+poogt niet het licht te voegen in een gesloten
+theoretisch stelsel van het heelal. Hij poogt geen
+theorie van het licht te ontwerpen. Dat zou hem
+trouwens op het oogenblik moeilijk lukken, want
+er is een jarenlange voorstudie noodig om tot het
+wezen van het licht als onderdeel der natuurver
+
+schijnselen door te dringen. Men mag zelfs zeggen
+dat juist het licht den natuurkundigen altijd speciale
+moeilijkheden in den weg heeft gelegd. In haar his
+
+torische ontwikkeling is de theorie van het licht
+spannend als een roman een roman met twee
+hoofdfiguren, die in het begin op zeer gespannen
+voet leven, en elkaar pas na tweehonderd-vijftig
+jaar omzwervingen, eerst thans, gevonden schijnen
+te hebben.
+
+REEDS sedert de tweede helft van de zeventien
+
+de eeuw heeft er een diepgaand verschil in op
+
+vatting bestaan omtrent het wezen van het licht.
+Het was onze landgenoot Christiaan Huygens die
+het licht beschouwde als een golfbeweging, die zich
+in een overal aanwezige middenstof, de z.g. aether,
+voortplantte. Wat een golfbeweging is, weet ieder
+die wel eens een steen in het water heeft gegooid.
+De Engelsche natuurkundige Newton echter
+hield er een geheel andere opvatting op na. Het
+licht, zei hij, is geen golving van een tusschenstof,
+maar het bestaat uit deeltjes deeltjes die door
+een lichtbron uitgezonden worden. ledere lichtstraal
+zou dus volgens Newton's leer uit een aantal razend
+snel na elkaar weggeschoten deeltjes bestaan. Deze
+theorie die van Newton heette de emissie
+
+theorie, terwijl men die van Huygens de golf- of
+undulatie-theorie noemde.
+Welke theorie was nu de juiste?
+Wanneer de wetenschap tusschen twee theorieën
+kiezen moet, prefereert zij diegene die de meeste
+verschijnselen op de eenvoudigste wijze verklaart.
+Een simpel lichtverschijnsel was bijvoorbeeld de
+rechtlijnige voortplanting van een lichtstraal. Dat
+verschijnsel was al bijzonder eenvoudig te verklaren
+wanneer het licht uit een stroom van deeltjes be
+
+stond. Maar wie had ooit gezien, dat een golfbe
+
+weging zich rechtlijnig voortplantte?
+Newton had het klaarblijkelijk met zijn emissie
+
+theorie bij het juiste einde.
+Er waren echter meer lichtverschijnselen dan de
+rechtlijnige voortplanting van een lichtstraal, en
+waren die ook alle met Newton's theorie te verkla
+
+ren? Newton zélf had menigmaal aan zijn theorie
+getwijfeld, omdat hem reeds verschijnselen bekend
+waren, die men slechts uit de samenwerking van
+lichtgo/ocn verklaren kon. Wij bedoelen de inter
+
+ferentie, een verschijnsel dat men in het water kan
+zien optreden wanneer men twee steenen naast elkaar
+er in werpt. Newton's geest was ruim genoeg om op
+grond van deze interferentie het betrekkelijke van
+zijn emissie-theorie in te zien. Hij liet derhalve
+naast zijn voortbewegende lichtdeeltjes ook ruimte
+voor een golfbeweging in den aether.
+Hoe meer men nu die geheimzinnige interferentie
+
+verschijnselen ging onderzoeken, des te meer neigde
+men er toe om Newton's emissie-theorie te laten
+vallen en Huygens' undulatie-theorie weer te aan
+
+vaarden. Het was de Fransche natuurkundige
+Fresnet wien het zelfs gelukte voor de eerste maal de
+lengte van de lichtgolven te bepalen een nauw
+
+keurig werkje wanneer men weet, dat deze lengte
+varieert van acht-tienduizendste millimeter voor
+rood licht tot vier-tienduizendste millimeter voor
+violet licht. Ons licht het zonlicht is, zoo
+
+als b.v. de regenboog aantoont, een opeenvolging
+van zes verschillende kleuren licht: rood, oranje,
+geel, groen, blauw en violet, waarvan de golflengte
+tusschen de genoemde groof'heden ligt. Zoo klein
+de lengte van deze golven echter is, zoo snel plaatsen
+zij zich voort: zij doorhuiveren het heelal met de
+duizelingwekkende snelheid van
+driehonderd-duikruq brut....
+f A . /• i
+oen, uorstelj^Re champagne/
+zend kilometer per seconde....
+
+TOT aan het einde van de
+negentiende eeuw bleef
+Huygens' golftheorie triomfeeren;
+men meende al voor goed met
+de emissie-theorie van Newton
+te hebben afgedaan. Zij werd in
+de leerboeken nog slechts als
+een historische curiositeit ver
+
+meld. En plots stond zij weer
+midden in de aandacht der na
+
+tuurkundigen.
+Wat was gebeurd?
+In het jaar 1900 kwam Planck,
+die schier hopeloos verstrikt was
+in uiterst ingewikkelde theore
+
+tische onderzoekingen, die op
+een speciaal onderdeel der
+physica betrekking hadden, tot een
+even gewaagde als eenvoudige
+veronderstelling van veel wijdere
+strekking: de straling van een
+bepaalde kleur wordt niet ge
+
+leidelijk, maar bij kleine hoeveel
+
+heden tegelijk uitgestraald en
+geabsorbeerd. Met deze veron
+
+derstelling kon men ook op het
+gebied der lichttheorie veel be
+
+reiken. Planck nam namelijk
+aan, dat ook de golflengte niet
+geleidelijk werd uitgezonden door
+de lichtbron, maar bij kleine hoe
+
+veelheden, die hij photonen
+noemde. Het duurde zestien jaar,
+voor de Amerikaan Millikan vol
+
+gens een door Einstein aange
+
+geven weg op de schitterendste
+wijze Planck's theoretische ver
+
+onderstelling door een ingenieus
+experiment kon bevestigen.
+Planck's quantentheorie had een revolutie in het
+geheele natuurkundige denken ingeleid.
+
+IN de klassieke natuurkunde was men steeds uit
+
+gegaan van het beginsel, dat begrippen als: tijd,
+afstand, kracht, energie, electrische lading, massa
+enz. continu, d.w.z. geleidelijk en ononderbroken,
+konden veranderen. In dat beginsel was echter, ook
+vóór Planck, al menige bres geschoten. De
+atoomtheorie had immers geleerd, dat een hoeveelheid stof
+bestond uit kleine deeltjes, uit bouwsteenen. Wilde
+men die hoeveelheid laten toenemen, dan was dat
+slechts mogelijk door de toevoeging van nieuwe
+bouwsteentjes, hetgeen beteekende dat de aangroei
+
+ing van de hoeveelheid niet volkomen geleidelijk,
+maar met kleine sprongetjes geschiedde. Daarna
+bleek, dat ook de electrische lading niet continu
+veranderen kon. Immers, de electriciteit bleek te
+bestaan uit kleine eenheden (positieve en negatieve
+electronen), die een stoffelijk karakter hebben.
+Aangezien men nu gevonden had, dat dit beginsel
+der sprongsgewijze verandering óók voor de straling
+gold, ging men zich onwillekeurig afvragen: heeft
+een lichtstraal soms óók een stoffelijk karakter?
+Er waren verschijnselen die dat waarschijnlijk
+maakten.
+In vele gevallen blijkt een lichtstraal zich name
+
+lijk te gedragen als een bundel snelle projectielen.
+Een lichtbundel die op een metaal valt, is in staat,
+uit den bovenlaag van dat metaal a.h.w. electronen
+weg te slaan. Bovendien blijkt dat een lichtstraal
+onder invloed staat van de zwaartekracht. Het licht
+van een ster dat een ander hemellichaam passeert,
+wordt door de massa van dat hemellichaam afge
+
+bogen" !
+
+IS het te verwonderen, dat Newton meer en meer
+in eere werd hersteld ? Men maakte zich van het
+licht steeds meer een stoffelijke voorstelling: een
+licht-straal is een bundel licht-deeltjes, photonen.
+Helaas voor den eenvoud van deze theorie, kon men
+de andere lichtverschijnselen als interferentie, die
+men slechts met de golftheorie kon verklaren,
+moeilijk wegredeneeren.
+De kloof scheen onoverbrugbaar: aan den
+eenen kant lichtverschijnselen, die men uitsluitend
+begrijpen kon door aan te nemen dat het licht uit
+stoffelijke lichtdeeltjes bestond; aan den anderen
+kant lichtverschijnselen die slechts te verklaren
+waren met de veronderstelling dat het licht een golf
+
+beweging was van een bepaalde tusschenstof.
+Wat lag eigenlijk meer voor de hand, dan het
+schijnbaar-tegenstrijdige te verbinden?
+De spectogroof voor onderzoek vjn sterrenlicht te Potsdam
+Reeds Newton had, gelijk wij zagen, de moge
+
+lijkheid van deze verbinding niet buitengesloten.
+De eerste natuurkundige echter, die een bewuste
+poging waagde om de hier geschetste fundamenteele
+tegenstelling tusschen de beide lichttheorieën op
+te heffen, was de Franschman Louis de Broglie.
+Wanneer we, redeneerde De Broglie, een golfbe
+
+weging in den aether verbinden met bewegende
+deeltjes (Planck's quanten), waarom zouden we
+dan niet omgekeerd alle bewegende deeltjes (bij
+voorbeeld electronen) verbinden mogen met een
+golfbeweging? Het ei van Columbus! Inderdaadge
+lukte het De Broglie een zeer eenvoudige uitdrukking
+te vinden voor de lengte van de materiegolf",
+waarmee het bewegend electron verbonden zou zijn.
+Gelijk meer met baanbrekende theorieën geschied
+is, vond die van De Broglie oorspronkelijk niet
+de aandacht die zij verdiende. Twee jaar na de
+berekeningen van dezen grooten Franschman begon
+echter (het was in 1927) Schrödinger, gebruik makend
+van zijn inzichten, met het leggen van de grond
+
+slagen voor een universeele mechanica, die ook de
+lichtverschijnselen omvatte, de z.g. golfmechanica,
+die definitief het verband legde tusschen stof en
+straling. Stof en straling zijn volgens deze theorie
+geen tegenstelling, maar slechts twee aspecten van
+nzelfde feitelijkheid.
+Deze baanbrekende en eenvoudige veronderstel
+
+ling werd nog in hetzelfde jaar experimenteel be
+
+vestigd. Het licht was n golfbeweging n stoffelijke
+straling. Nu bewezen Davisson en Germer dat bij
+de electronen, wanneer men ze door kristallijn
+nikkel heen wierp, de interferentie verschijnselen
+optraden die men reeds bij het licht had leeren
+kennen. De electronen waren, onder een ander
+aspect bezien, blijkbaar óók een golfbeweging !
+
+ALDUS ziet men thans verband waar men vroeger
+uitsluitend een tegenstelling zag. Of hiermee
+alle problemen van het licht zijn opgelost ? Natuur
+
+lijk niet. Er zijn vele natuurkundigen die beweren
+dat de ware moeilijkheden eerst thans beginnen!
+Zoo is de gang der wetenschap.
+Dr. J. C. M. VAN DER PUTTE
+ALGEMEENE ETHNOGRAFICAen KUNSTHANDEL
+
+AALDERINK
+Spicgelgracht 15 Amstcrdam-C.
+KERST CADEAUX
+UIT Alil
+PAG. 10 DE GROENE No. 3211
+
+</text>
+<image timestamp="2002:10:03:01:17:26.00" size="332054">D100097U.TIF</image>
+</page>
+</document>

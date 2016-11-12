@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840720</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD'VOOR NEDERLAND,
+No. 339
+i 60 fl. 24 82 61 153 310 126 577 663 715 912 921 931 945 1034 079 362 653
+765 802 879 894 958 2020 136 174 358 374 534 600 696 703 791 803 932 94C 982 3093
+191 270 285 292 493 512 550 565 590 648 7C1 883 890 910 920 4054 147 253 530 Of O
+645 780 894 963 6020 060 096 205 400 598 811 845 866891 893 953 989 62G7 283487
+1 -tef 581 595 672 853 893 7287 438 549 630 733 746 8C1 8C56 808 332 401 416437450
+623 510 572 609 684 763 9140 345 456 693 730 735 750 766 963 985 10008 357 302
+•28 896 572 624 £43 663 792 11008 040 115 203 247 263 353 417 463 526 696 771
+888 12104 118 249 346 369 423 622 622 634 CO) 762 897 130G9 141 185 221 227 258
+989 466 563 675 688 712 791 846 149 913 14048 084 150 175 215 309 316 432 672
+«94 787 768 806 921 15231 847 881 649 651 670 713 845 914 939 953 969 16133 239
+969 684 601 681 712 929 963 989 17087 106 257 262 852 385 419 502 503 519 551
+779 111 92g 18058 087 157 190 201 311 345 892 449 451 513 577 693 695 713 720725
+769 853 999 19007 011 132 150 189 231 525 539 581 598 655 817 838 864 20011 101
+116 174 184 208 310 826 651 605 661 744 951 979 21251 278 336 538 584 770 789
+817 892 895 963 977 982 22053 190 280 311 385 443 154 601 612 799 822 871 959
+989 23110 132 240 246 818 356 434 186 712 779 24097 115 151 173 221 818 521 613
+618 773 35088 135 272 298 495 531 723 734 791 859 938 962 979 26138 183 399 508
+621 «85 711 37110 153 261 491 500 659 685 686 733 28050 066 201 469 478 577 700
+793 863 990 29041 115 215 302 390 521 612 627 776 915 30012 105 174 194 224 234
+318 352 260 268 271 873 129 5(14 564 690 614 C38 657 714 765 31153 334 347 515
+690 618 690 732 860 921 975 82154 167 305 332 369 3SO 579 694 791 33174 250
+864 891 892 155 739 748 790 936 961 84165 170 260 263 784 943 35169 240 271 281
+881 589 590 633 646 832 844 896 924 36135 323 340 449 489 510 602 613 633 775
+799 883 871 984 37027 147 232 262 299 427 437 175 500 616 665 716 878 885 925
+866 88034 075 821 462 493 622 704 798 861 39097 164 190 374 584 79283140229272
+809 700 861 901 11043 091 233 541 706 786 870 896 971 42188 341 262 284 287 365
+| 631 981 18030 137 268 283 455 477 855 872 44027 157 160 234 485 555 630 792 852
+[ 46007 015 103 139 294 305 308 344 401 701 711 893 923 861 4G089 138 139 149 241
+' 890 128 476 648 587 617 622 762 806 17035 053 226 326 411 SOI 516 579 697 741
+•45 18003 858 886 615 751 818 824 835 951 981 19096 112 120 153 318 590 622 685
+784847977.
+
+Brunatvljksclie Loten 1803.
+Serietrekkiag van l Juli de volgende Serioen:
+158 294 837 1072 1121 1808 1354 1483 1537 1770 19S1 2392 2486 2771 2842 2918
+8063 8090 3194 3334 3484 3871 4523 4805 6280 5358 5G84 5928 6066 6205 6261 6308
+6495 C543 6642 6783 C810 7017 7142 7243 7355 7557 7948 8645 8775 9003 9111 9183
+8210 9271 9280 9138 9517 9641 9679.
+
+Spaansche 4 pCts. amortisabele «clinld.
+Trekking van 2 Juni.
+Serie A. 2781-790 3001-010 071-080971-9800011-02011601-61013871-88014001-010
+15541-550 721-730 21321-330 24831-?40 30021-030 851-860 31451-400 32C41-650
+651660 37231-210 52001-010 54571-580 66261-270 61001-010 341-350 75871--880 91151
+160 901-910 93151-160 98351-360 99891-900111841-850114961-970115511-520116491
+600 118031-040 901-910 119411-420 881-890 120051-060 127941-950 13930i-310.
+Serie B. 2731-740 4491-530 6761-700 7041-050 11191-200 961-970 12781-790
+13531610 17301-310 311-320 18451-460 561-570 83691-700 37631-640 39531-540 50861-870
+52101-110 55351-300 58861-870 70161-170 73741-750 74641-650 84071-080 85771-780
+86341-350 94321-330 4U-420 99441-450.
+Serie C. 3611-620 4731-740 9271-280 25821-831 26661-670 21471-480 32651-660
+941-950 33071-080 38001-010 39171 180 491-500 43391-400 46841-850 49591-600
+53371-880 51491-500 63611-620 6G521-530 67281-290 77711-720 82901-910 89151-160
+581-590 90511-52') 91901-910 94091-100 101091-100.
+Serie D. 12141-150 631-640 1G961-870 19311-320 24111-120 25341-350 791-800
+26P41-050.
+Serie E. 8071-080 4111-120 5291-300 13731-740 18131-140 20971-980.
+
+Wecner Loten 1854.
+Serieëa-treiking van l Jali.
+De volgende Seiieën: 3 125 354 474 487 879 899 918 997 1037 1126 1133 1149
+1203 1S09 1C30 1C10 1796 1813 1875 1912 1918 2051 2092 2285 2402 2640 2673 2870
+, 2887 2913 2987 3014 30G2 3284 3602 3653 3711 8726 3923 2256 2520.
+
+Hongnarsche Boode Krnis Lotea ran ISS2.
+Trekking van l Juli. Betaalbaar l Aug.
+Hoofdprijzen: Serie .6583 N. 42 a fl. 50,000; S. 2729 N. l a fl. 5000; S. 1064 N.
+78, 8. 1785 N. 86, 8, 6136 N. 27 a fl. 1000; B. 1306 N. 29, S. 1401 N. 32, S. 1431
+N..«O, *. 1535 N. 31, S. 6096 N. 40, S. 5983 N. 78, 8. 6407 N. 53, S. C787 N. 6,
+B. 7552 N. 75, 8. 7811 N. 27 a fl. 600; S. 386 N. 20. 8. 574 N. 23, S. 694 N. 31, 8.
+1291 N. 7, 8. 1377 N. 77, 8. 1650 N. 96, S. 2009 N. 33, S. 2197 N. 28, S. 2305 N.
+85, 8. 8137 N. 48, 8. 3527 N. 71, S. 4150 N. 8, S. 4222 N. 68, 8. 4979 N. 88, 8. 4994
+N. 43, S. 5999 N. 47, S. 5836 N. 78, 8. 6028 N. 67, S. 6101 N. 73, S. 6231 N. 100, 8.
+0148 N. 12. 6418 N. 45, S. 7588 N. 62, S. 7726 N. 14, S. 7839 N. 90 a fl. 100.
+Voer amortisaüe werden getrokken de Seriën: 1115, 2428, 3320, 5423, 6269, 6911
+
+Horsnanclt—Sjrsran Sponrwcgm,
+Trekking vaa 6718 Juni, voor do amortisatie van 69 aandeelen.
+NOB. 9361 , 9370 18566 a 18570 17411 a 17445 2033C 21399 22527 23367 24128
+-243.10.24475 2461C 25188 25323 26345 2C920 27.17 27580 2Si21'28532 2058G 314G3
+. 82024 32C61 33G58 340C1 34715 35077 35S82 36243 8G2ÓO 3G331 36474 36733 36893
+87127 87J.12 38849 38875 38890 40622 40959 41024 41273 42265 42426 424G2 43364
+A3G74 44105 44141 44891 44892.
+Betaalbaar met ƒ 236.
+
+Hllaaoloten 18C1
+Trekking van l Juli.
+Betaalbaar 2 Januari a. B. Getrokken Seriün.
+fa. 57 98 198 227 276 861 480 514 582 650 879 945 1010 1011 1048 1152 1238
+,1240 1338 13C9 1390 1508 1597 1609 1699 1713 1787 1849 1859 1953 1992 2195 2250
+2371 2571 2751 3061 3128 3305 33G3 34193 439 3472 3405 3547 3085 3711 4021 1830
+4'JGH 4098. 4131 4211 4313 4391 4393 4106 3464 4724 4741 4865 4868 4884 4S94 5012
+6044 4218 5G93 5783 5815 5855 6097 C116 G188 C329 631S «103 6604 CG8G 675G 6803
+6824 7317.7237 7J56 7482 7516 75i2 7631 7050 7C70 7710 7707 777'J. Hoofdprijzen;
+Berii 108 X l', s.rlo 331 X 30, sirie 514 X 10, eeria 1240 M 11, serie 1787 X 20,
+•eriü1953 .v 43. «erio 2195 X i'j, serie 2371 .¥6, serie 2751 .V 15, serie 3419 x 48,
+ee ie 3123 X VG. sorie 3517 .V 12, seii-s 4021 x 8, 20. aeria 40C8 X 24, serie 4391
+- X 13 SOM-J 4.Ci X II, eerio 47U .Tl 43, serie 5012 -V 14, eerie 5693 X 33 &amp; 1000
+Fr. gene 21 «5 .V iS, aorie'4891 X 25 A 400 Fr. S?vi) 2193 X 47, serie 2250 X 21,
+B rie D041 M 22 d SCO Fr. SoiiJ 1041 X 20, Berio 1597 X l, swio 3305 X 20, eerie
+C" &gt;-j .V 33 A 200 Fr- S.iio 3IJS3 X 9, aeria 4093 .V 2!, serie 4131 X 13. eerie 578}'
+X 5. scr.u 7031 .v ) , !50 Fr. Ssrio 98 V 35, eerie 391 .v 12, serie 1338 X 33,
+eciie 2371 x 26, secio 4030 .V 43, serio 611C ,V 19, serie 6183 X 35, ssrie 6103
+V IC i 100 l'r.
+Jelez-Grlaat Spoorweg,
+Trekking van 22 Mei/3 Jnnl.
+Aai.deelen.
+i 100 Roebel. 1C9 383 686.
+&amp; SCO Roebel. 1748-730 9341-343.
+i 1000 Eoebel. 2131G-323 680-695 22S20-?05 376-385 886-89S.
+Obligatie*.
+&amp; 29 £ 885 2001 8110 671 4109 781 6914 961 7030 710 948 8179 9C51 10815
+519 853 11082 755 1238G 437 518 760 784 13092 175 871 14522 15422 16739 17048
+280 711 763 801 18391 784.
+a 80 £ 22110—113 23S54-357 394-397 26630-638 978—981 29414-417 480~4S3
+SS970—973 34691—697 37702—705 642-645.
+
+Rusland 5 pCt. Loten 1364.
+Trekking van 14 Juli.
+Fremiën: Serie 7874 X 17 B. 200,000 a. 8963 X 46 E. 75,000 B. 18143 X 19 B. 10.00C
+g. 16433 M 17 E. 25,000 s. 10339 «49 8. 19855 M 11 B. 4264 J» 7 B. 10,000 e. 777
+» 83 B. 13572'M 33 s. 18975 X 44 s. 1091 .V 44 8. 15026 X 20 B. 8000 s. 15C97
+X 10 s. 6554 X 50 8.19115 .TS.8 s. 17654 X 14 s.12360 X 34 s. 8248 X 20 ser. 11844 X 44
+«er. 1880 X 7 B. 5000 s. 14638 .V 28 s. 13837 X 35 g. 1281!) M 40 s. 16151 .V 45
+8.13555 X 49B.14G50 X 33 B. 7019 .V 31 B. 12374 V 29 8. 14387 X 87 B. 4131 A» 2
+B. 4179 X 48 s. 12858 X 13 g. 115 80 X 22 s. 13225 X 29 8. 4071 X 11 s. 12512
+X 47 B. 7137 X 20 s. E652 .V 11 B. 1225 X 89 B. 1000.
+OVERZICHT VAN DE EFPEGTENMARKT
+12-18 Juli. -.-... :
+Ternauwernood had de langdurige stilte weder voor eenige meerdere
+bedrijvigheid plaats gemaakt of wij zien ons in het gewone stille jaar
+
+getijde verplaatst. De dobberende Amenkaansche markt en de
+Juligeldbeleggingen bezorgden d&lt;» beurs gedurende eenige weken wat inoer
+leven. Do Juli-coupons zijn echter grootendeels geknipt, geïncasseerd
+en het bedrag daarvan ton doele belegd, terwijl de slingeringen der
+Amerikaansche Spoorwegmarkt plaats maakten voor eene stationaire stem
+
+ming, en ook voor eenige soorten voor een verderen teruggang. Afgaande
+op de berichten, die ons uit Amerika geworden, vertrouwt het
+meerendeel der speculanten don toestand der Amerikaa-nschëSpoorwegen nog
+niet. De fmancieele positie van Gould bluft nog steeds een punt van
+ernstige bezorgdheid. Men noemt zeer aanzienlijke bedragen, die dezer
+dagen door hem moeten worden voldaan.
+Doch zijn die berichten vertrouwbaar ? Zoude het zoo onmogelijk zijn,
+dat de zoo sluwe ex koopman in muizen vallen, die berichten zelf in de
+•wereld stuurt, om do koersen van do aandeelen in zijn South Western
+System nog meer te drukken? Ean ding staat vast, dat zijn eventueele
+val, rrogelijk gevolgd wordende door zijne verwijdering uit het bestuur
+van verschillende spoorwegondernemingen op den duur zoude blijken
+heilzaam to zijn, al zoude men daarvan oogenblikkehjk noodlotttige
+govolgen ondervinden.
+De Europe"sche markt levert weinig stof toC bespreking, daar da
+affaires, die daaiin tot stand kwamen zeer gering waren, en tot ongeveer
+de oude prijzen werden afgedaan.
+Onze nationale fondsen onderscheidden zich door eene bijzondere vast
+
+heid, ofschoon do 4% soorten weder een groot deel van hot pas behaalde
+avans moesten missen. Het kan zeker niet in het voordeel dor Consortia
+die de nieuwe leening wenschen over to nemen, zijn, wanneer do koers
+der 4% leeningen juist op het gewichtige oogenblik zoo hoog is.
+Ten slotte bïyvén Integralen •%% hooger, en de overige soorten als
+vóór acht dagen.
+Do Ministor van Financien heeft van verschillende groepen aanbiedin
+
+gen tot het overnemen van de nieuw uit te geven leening ontvangen.
+Niet alleen, dat bijna de geheele Hollandsche haute banque mededingt,
+doch ook dio van do ons omringende groote rjjken spant hare krachten
+in om die loenincr machtig te worden. Ofschoon de Minister natuurlijker
+wi'ze slechts heeft rekening te houdon met het hoogste aan hem gedane
+bod, zouden wij hot zoer betreuren, wanneer die u tgitte in vreemde han
+
+den viel. De groote concurrentie kan echter niet anders dan voordeelig
+voor de schatkist zijn, en zal zoker tot het bsdingen van een hoogeren
+prijs van overname medewerken. Daardoor zal pok ds prijs van uitgifte
+niet minder zijn, dan wanneer de Minister van Financien de leening direct
+bij publieke inschrijving aan het publiek had aangeboden.
+Vooral in deze tijdon van aanhoudend geldleenen, dat steeds verhooging
+van de jaariyksche rente- en delgingslast veroorzaakt, is het dubbel
+zaak 's lands middelen op de meest zuinige wn'ze te beheeren. Daarom
+is het misschien jammer, dat de Kamers op voordracht van den Minister
+het rentetype vaststelden. Voornemens zijnde deze leening met da een
+of andere bankiersgroep te contracteeren, ware het waarschijnlijk beter
+geweest de groep, die de leening te beurt viel in de wijze van uitgifte
+vr;j te laten. Da Minister toch had slechts te onderhandelen over de
+koopsom van eone annuïteit groot ƒ2,700.000 door den staat gedurende
+00 jaar to voldoen, en had daarbij een minimum-koopprijs van b. v.
+ƒ60.300.000 kunnen stellen.
+Wellicht had een der groepen, die geneigd zyn de leening over te
+nomen een hoogeren prijs geboden, wanneer, .het haar vergund was
+gaworden ook eene 8% Amortisabele leening uit te geven, die uit
+bovenganoomda anuïteit in hetzelfde tijdsverloop kon worden gedelgd,
+Voor den staat werd daardoor ook nog de verplichting bespaard, om
+tegen de uit te loten obligatiën, die reeds in inschrijving souden zyn ge
+converteerd, andere soortgelijke stukken tot den beurskoers te moeter
+doon inkoopen.
+Hongaarsche fondsen waren tamelijk onveranderd. Ook Italianen
+bleven op hun vorigen koers genoteerd. Oostemtjksche Meirente verbe
+
+terde /ó %, terwijl de overige soorten ongeveer op de koersen van voor
+acht dagen genoteerd bleven. Portugeezen noteeren % % hooger dan
+op 11 Juli. Russische fondsen over het algemeen iets hooger. De tegen
+
+zin, die zich hier gedurende eenige jaren, door de aanslagen der Nihilisten
+in Russische fondsen ope'.baarde, begint af te remen, en Holland neemt
+sedert eenigon tijd op nieuw de plaats van steunpilaar der Russische
+fondsen markt in.
+Spanjaarden gingen aanvankelijk weder eene kleine fractie achteruit
+doch blijven door Fransche kooporders gesteund % % hooger genoteerd
+De zoolang verdrukte Turken toonen ditmaal eenige verbeteiingr aan.
+De meeste soorten blijven XalA% hooger. Egyptenaren verbeterden % %.
+Mexicanen, die door telkens herhaalde conversiegeruchten aanzienlijk
+stegen, verloren echter weder een groot deel daarvan en blijven slechts
+ongeveer Y* % boven den koers der vorige week genoteerd.
+Brazilianen, Columblanen, Peruanen en Venozuelanen tamelijk onver
+
+anderd.
+Stedoiyke leeninfron steeds gevraagd; doch schaarsch ter markt. Do
+4 Obligatiën Rotterdam, dio verhandeld werden, % % hooger.
+Van industrieele on finruicieele ondernomingen stesen Aande3len Nieuwe
+Afnkaanscho Handels-Vennootschap %%, Handels-Vereeniging
+aAm
+</text>
+<image timestamp="2002:08:17:22:16:15.00" size="290461">000002HE.TIF</image>
+</page>
+</document>

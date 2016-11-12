@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240628</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'T, t'
+vDE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2454
+J. D. STRUIJS &lt;fc Zm.
+Prinsengracht 887 - P. O. Hooftstraat 140
+tBL. 37900 TEL. 29950
+Begrafenissen - Crematie - Transporten
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Pil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Meeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd.
+
+Gez. VAN HUIDEN - Zwolle
+f Naaml. Vennootschap .
+Naaml. Vennootschap
+
+f„REFORn",
+Directeur E. BOERMA.
+DMIM- «n HeerenkleedermakerIJ
+
+i Dl Coupe in nieuwe banen,
+• wil zeggen;
+De totnog toe onopgeloste moeilijkheid
+door film en projectie opgelost, omdat
+f de coupeurs, tijaens het snijden
+rekeining kunnen houden met den
+individueelen lichaamsvorm.
+f Groningen, Heerenstr. 58. Tel. 755.
+| Amsterdam, Bokin 70. Tel. 85:
+Stooniwissclierij Hat Zuiden
+PIETER AERTSZSTRAAT68-74
+TELEFOON 22865
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIOI8 &amp; VAN ELVEN
+STOPPAGE
+VAN ALLE
+i- en
+Costuum Model Persan f 1.25
+
+My VALET ffom London
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 - Tal. 20333
+AMSTERDAM
+DapOt ALKMAAR, Bergerweg 5
+
+JlnlInllDlIöIJDl 11 IöIlHl]nIInIl5llJ
+
+AMERSEOORT
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftitratt 38, Amsterdam Tilif.: 20341, 24250)
+REGELING VAN BEGRAFENISSEN EN
+| CREMATIES VAN UIT ALLE PLAATSEN |
+l—EIGEN LIJKKOETSAUTOMOBIELEN
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+
+De LIEVEOOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT UW LEVERANCIER ! !
+Snouckaertlaan 22-24
+TELEFOON 218
+DniÊIIËIIËlIËIIJSl |i| 00151101151101
+B. J. MULDERS
+TUINARCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon Sch. 8IO
+l Uw vacaotie een ontspanning dooreen reis met LISSONE
+:—: AMSTERDAM :—:
+
+LeidschestraatS - Dam 10
+DR05TE*
+PA5TILLE5
+&lt;riOCOlAPE BONBON*
+Gebr. BREEN
+
+NIEUWENDIJI172. • Tel. 49861
+ROZEHGRJICHr 53. - Tel. 30345
+NMRLEMMERSTR. 64 - Tel. 30346
+Grootste sorteering Westm. Klok
+
+ken, Pendules, Horloges, Wekkers,
+Gouden en Zilveren Werken.
+Ie Qualiteiten. Lage prijzen.
+Gouden Ancre Horloges f
+65.Zilveren
+20.Nikkelen
+5.Wekkers van af f 2.—.
+G. i. D[ mm &amp; Zn. - Keizersgracht 447
+(voorheen LEIDSCHESTRAAT 69)
+SEHKIMG GASFORHUIZEH
+8
+RECLAME
+- DAGEN
+
+Bijzonder
+voordeelige
+PRIJZEN
+
+
+lacobson &amp; Manus
+(Maison de Blanc)
+Kalverstraat 128-130.
+A DR! A AM SCRAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+House for Gentlemen
+
+Ie Klasse Engelsche gemaakte Heerenkleeding
+ENGELSCHE KLEEDERMAKERIJ NAAR MAAT
+Weteringschans 45 :-: Telefoon 36845
+INDIEN GIJ uw
+LAND HOOG WILT
+HOUDEN, WACHT
+U DAN VOOR EEN
+BUITENLANDSCH
+
+CONFECTIE INT
+
+RIEUR EN LAAT UW
+HUIS INRICHTEN MET DE DEGELIJKE
+NEDERLANDSCHE MEUBELEN DER L. O. V.
+
+</text>
+<image timestamp="2002:09:03:11:12:10.00" size="176252">D2003OJ.TIF</image>
+</page>
+</document>

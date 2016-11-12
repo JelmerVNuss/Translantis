@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160319</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+BIJ HET BINNENHALEN VAN DE BELASTING OP DE OORLOGSWINSTEN
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 19 Maart 1916
+Nadruk verboden
+Van Gijn, Van Gijn
+Van Gijn, zijn naam is klein
+Zijn daden bennen groot
+Zijn daden bennen groot
+Hij heeft gewonnen
+De zilveren vloot
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+bis
+
+</text>
+<image timestamp="2002:08:22:07:14:25.00" size="402761">D4000292.TIF</image>
+</page>
+</document>

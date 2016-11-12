@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18921218</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De gang naar Canossa van het Amsterdamsche Gemeentebestuur.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 18 December 1892.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms ei Co.
+De Heer B.rgsm, tot den Heer V.n-ng M..H.SZ: «Drie ton boete, en vermindering van retributie va«
+on/e ^aslevering!"
+
+Mr. r. T.jih.r.n: »Uat koopje heb ik voor mijn opvolger overgelaten."
+
+</text>
+<image timestamp="2002:10:02:11:26:26.00" size="504902">D10008UK.TIF</image>
+</page>
+</document>

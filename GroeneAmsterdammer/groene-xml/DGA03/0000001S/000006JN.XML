@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280512</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER VAN 12 MEI 1928
+No. 2658
+- Lijmt ALLES
+IPNER
+JJ^ taste sigaret
+Verschenen bij N.V. Electr. Drukk. LUCTOR;ET,EMERGO" te 's-Gravenhage:
+De Komeet Salvator-Mundi" die 6 7000 /aar geleden
+de Oeraarde trof
+
+HET MAHNPROBLEEM OPGELOST.
+
+HET VRAAGSTUK DER OCEANEN EN CONTINENTEN
+
+ONZER TEGENWOORDIGE AARDE VERKLAARD.
+
+HET PROBLEEM DER KOMETEN EN HUNNER LOOPBANEN
+
+IN ONS ZONNESTELSEL EN DAT DER ZOOGENAAMDE
+
+VALLENDE STERREN VERMOEDELIJK OPGEHELDERD.
+
+door AËRO-DILETTANT.
+
+Met 23 afbeeldingen en 60 figuren.
+
+
+Men leze de Oranje-Blanje-Bleu raambilletten bij de
+Boekhandelaren en In de tljdingzalcn der dagbladen.
+
+PRIJS f 1.75.
+AMSTERDAM
+DEN HMG
+NDISCHE CATALOGUS
+FRANCO OP AANVRAGE
+GEORGE R LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H - AMSTERDAM - Tel. 42662
+
+MARMERWERKEN
+BJASP1BOMMB*
+BOEKBINDER
+KERKSTRAAT 55
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+Linnenmanden
+AUG+ KAUPMANN
+
+P. C. Hooftstraat 113. Amsterdam Telefoon 23308
+
+SpcC.ale aanbieding
+ONTBIJTSTELLEN - GEKLEURDE RAND
+m&gt;_t 6 ving-rdoekjes f 4,95 par stel.
+
+ZUIVER LINNEN TAFELLAKENS f 5,50
+bijpassend servet 90 c:.
+
+Ontvangen nieuwe collectie THKE rn GLASDOKKEN
+zeer ap^ite dessins ZICHTZEND1NG FRANCO
+Voornaamste Kleedinginrichtin
+;-p/%v?vip:Slk gebied " "• • -^l
+
+</text>
+<image timestamp="2002:09:04:14:24:20.00" size="142273">000006JN.TIF</image>
+</page>
+</document>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19221104</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+4 Nov. '22. No. 2367
+FEESTGESCHENKEN
+Oorspronkelijke Litteratuur
+
+
+Werken van Top Naeff
+VOOR DE POORT, 5de druk,
+ing. f 6.50 geb. f 7.90
+DE STILLE GETUIGE, met een
+titelplaat van Toorop, 5e dr.
+ing. f 3.50 geb. f 4.50
+OOGST, 3e druk,
+ing. f 3.90 geb. f 5.50
+DRAMATISCHE KRONIEK,
+3 bundels, per bundel
+ing. f 2.25 geb. f 3.25
+
+
+Werken van Marcellus
+Emants
+MENSEN, ing. f 4.50 geb. f 5.90
+LIEFDELEVEN, 2e druk,
+ing. f 3.90 geb. f 4.90
+INWIJDING, geb. f 3.90
+WAAN, ing. f 2-.50 geb. f 3.50
+DOMHEIDSMACHT, 2e druk
+ing. f 1.25 geb. f 1.90
+Werken van F. de Sinclair
+
+CLARA'S HUWELIJK,
+ing. f 2.90 geb. f 3.90
+LEUGENS, ing. f 2.90 geb. f 3.90
+HET NOODLOT VAN LUKAS
+ABSDALE, ing. f 3.50 geb. f 4.50
+DE RIDDER KNOL, 2e druk,
+ing. f 2.90 geb. f 3.90
+EEN PRIJSVRAAG IN DE HEL,
+ing. f 2.90 geb. f 3.90
+DE VAN BERKELS EN HUN VRIEN
+
+DEN. 4e dr. ing. f 1.90 geb. f 2.50
+DE GRIFFIER VAN PEEWIJK,
+4e druk, ing. f 1.90 geb. f 2.50
+MENEER FOCUS ALS HYPNOTISEUR,
+gec. f 0.90
+DE KROONPRINS VAN DZJIBOETI,
+gec. f 0.90
+MENEER FOCUS ALS GLOBE
+
+TROTTER, gec. f 0.90
+DE MAN DIE VERDWEEN,
+gec. f 0.90
+MENEER FOCUS ALS MEID-ALLEEN,
+gec. f 0.90
+SHERLOCK HOLMES Jr., gec. f 0.90
+Werken van
+
+JOZEF COHEN.
+
+KITTY OPTENBERG,
+ing. f 2.90 geb. f 3.90
+HET VERVLOEKTE GESLACHT,
+ing. f 4.50 g;b. f 5.50
+Werken van Herman
+
+Salomonson
+DE COLLAGE VAN FERDINANDVOLNAV,
+ing. f 4.90 geb. f 5.90
+MENSCHEN VAN HUN TIJD,
+rsa ing. f 3.40 geb. f 4.50
+BOMSTON, ing. f 3.50 geb. f 4.90
+
+Werken van Julia Frank
+HET ONVOLMAAKTE,
+ing. f 4.90 geb. f 5 90
+DE CIRKEL, ing. f 4.90 geb. f 5 90
+DE STERKE, ing. f 490 geb. f 5.90
+
+S. La Chapelle- Roobol,
+TWEEVRIENDINNEN, ing. f 3.25 geb. f 4.25
+S. La Chapelle Roobol, MOEDER EN
+DOCHTER, ing. f 5.90 geb. f 6.90
+Bernard Canter, NIEUW UTOPIA,
+ing. f 2.50 geb. f 3.25
+Louis Couperus, ANTIEK TOERISME,
+2e druk, geb. f 3.90
+L. E., SILHOUETTEN, 5e druk,
+ing. f 3.50 geb. f 4.90
+L. E., ONDER DE REPUBLIEK,
+3e druk, ing. f 3.50 geb. f 4.90
+Herman Middendorp, HET SCHOONE
+MYSTERIE, ing f 2.50 geb. f 3.50
+*
+Buitenlandsche Litteratuur
+
+Ing. Geb.
+HENDRIK CONSCIENCE,
+De Leeuw van Vlaanderen f 2 90 f 4.25
+HENDRIK CONSCIENCE,
+De Kerels van Vlaanderen f 2.90 f 4.25
+HENDRIK CONSCIENCE,
+Baas Gansendonck . . . f 1.90 f 2.90
+JEAN WEBSTER,
+De Tarweprinses ... f 2.90 f 3.90
+KARIN MICHAëLIS,
+De Groote Biecht . . .f4.50 f5.90
+KARIN MICHAëLIS,
+De nieuwe Vrouwen van
+Weinsberg	f 2.90 f 3.90
+RYD. KIPLING,
+Dieren in de Wildernis . f 1.90 f 2.75
+RYD. KIPLING,
+Soldatengeschiedenissen . f 1.50
+PETER ROSEGGER, Heidepeter's Gabriël	f 3.50 f 450
+PETER ROSEGGER, Mijn Zieleleven	, . . f 3.90 f 5 25
+PETER ROSEGGER, Het eeuwige Vuur en andere Werken,
+per deel	f 2.90 f 3.90
+KARL GJELLERUP, De Pelgrim Kamanita, 2e druk ... f 3.90 t 5.25
+KARL GJELLERUP, De Gedachtenlezeres	f 4.90 f 6.25
+JONAS LIE, De Loods en zijn Vrouw	f 3.50 f 4.90
+GUSTAV FRENSSEN, De Broeders	f 3.9J f 490
+GUSTAV FRENSSEN, Klaas Hinrich Baas	f 3 50 f 4.50
+OTTO ERNST, Asmus Semper als Jongeling, 3e druk . . f 2.90 f 3 90
+MAXIM GORKI, Mijn Jeugd	f 3.90 f 4.90
+MAXIM GORKI, Onder Vreemden	f 2.90 f 3.90
+^ PETER
+
+ÏABRIËL!
+&lt;O3ECCER_ _ J
+Onontbeerlijke Damesboeken
+
+BIBLIOTHEEK DE VROUW EN HAAR HUIS"
+In deze Bibliotheek verschenen reeds:
+Deel I. Patronen in Kruis- en Platsteek (3e druk).
+Met beschrijvenden tekst van Elis M. Kogga. Prijs f 2.50 in cartonoen bund.
+Deel II. Patronen voor Borduurwerk, ter versiering van huishoudelijke
+gebruikstukken en kleeding (2e druk).
+Met beechrijvenden tekst van Elis M. Ko^ge. Prijs f 2.5O in cartonnen hand.
+Deel III. Patronen voor Borduurwerk, Kichelieu borduurwerk, Engelsch
+borduurwerk, enz.
+Met beschrijvenden tekst van Elis M. Rogge. Prijs f 2.5O in cartonnen band.
+Deel IV. Patronen.voor Kloskant met 27 werkteekeningenenölosse bijlagen.
+Tekst van L. W. van der Meulen-Nulle en Elis M. Kugge. Prijs t' 2.50.
+Deel V. Egyptisch Vlechtwerk.
+Door K. Siewertsz van Reesema en Klis M. Rogge. Prijs f JJ.5O.
+Deel VI. Patronen voor Borduurwerk (3e serie).
+Met beschrijvenden tekst van Klis M. Rogge. Prijs f 2.5O.
+DE H EN W SERIE.
+
+Wil men een buitengewoon goed boek lezen, men neme een deel
+ter hand uit bovengenoemde serie, waarin dit jaar zijn verschenen:
+
+DEEL I.
+
+
+MIMIBLUETTE
+door GUIDO DA VFKONA. 4e druk.
+Uit bet Italiaansch vertaald door &lt;'hr. SIorcNco-Êrants.
+JPrU« In geïllustreerd omslag ingenaaid f 2.9O, gefo. t 3.75.
+De Hollandsche Revue schrijft over dit boek: Men had werkelijk geen betere keuze
+kunnen doen en wie Mimi Bluette gelezen heeft, zal ontroerd door den inhoud, bewon
+
+dering uitend voor den schrijver, ook erkentelijk zich voelen tegenover de uitgevers die
+dit werk in onze taal in een zeer zuivere vertaling het licht hebben doen zien.... Na
+het lezen van dit boek is er iets nieuws in onze wereld gekomen en vraagt ons nu een
+sterveling die ontroerd wil worden door de dingen van het leven en niet door dichter
+lijke visioenen welk boek hij lezen moet, dan zeggen wij met eeo vreemde schittering
+ia de oogen.... Mimi Bluette.
+DEEL II.
+
+
+DE VROUW DIE TROUW BLEEF
+door GUIDO BA VKHONA. Tweede cl r u h.
+Uit het Italiaansch vertaald door l-h r. Moresco-Brants.
+l* r U* in geïllustreerd omslag Ingenaaid f 2.9O, gebonden f 3.75.
+Het Haarlemsch Dagblad schrijft: Guido da Verona heeft dit levensdrama geschreven met
+eeo ongewoon talent; hij beschikt over een rijken stijl en een rijk klenrengamma. Beur
+
+telings is hij sarcastisch, romantisch, dramatisch, altijd boeiend.
+DEEL III.
+
+
+ALS DE WINTER KOMT
+door A« S. M. Hl TOHINSON. Tweede druk.
+III bet Kneelsch vertaald door Cbr. Morenco-Brants.
+Geïllustreerd omslag van J. Kon.
+Prijs ingenaaid T 2.9O, gebonden r 3.75.
+Van dit boek, waarvan in Amerika 425000 en in Engeland in een jaar meer dan iiSOÜOO
+exemplaren werden verkocht zegt de Engelsche pers o.a.:
+De beste roman die ik sinds langen tijd gelezen heb. J. M. Barrie.
+Een merkwaardig boek en een opvallend boek. Scotsitian.
+Kea werkelijk prachtig boek. Ckurcfi Ti/nt'.s.
+Dit boek toont de volle rijpheid van een groot talent. John O'London's Weeklu.
+Een boek van reusachtige oorspronkelijkheid en betooverende kracht. British Weekl/f.
+SHLOÏ1O
+HET
+LEVEN
+DOOR ,
+
+JONAS LIE
+De beste en onderhoudendste boeken voor op reis en thuis zijn in onze
+
+
+DAALDERS-EDITIE
+
+Prijs f 1.50.
+
+Ieder deel is gebonden en in fraai geïllustreerd omslag.
+l&gt;c niet een * gemerkte z^jn ook in een luxe uitgave :i f 3.S5 verkrijgbaar.
+
+Deel I* F. l&gt;l&lt;: SINtXAIR. Om Papa'* Principe. 4e druk.'
+.. S* M. VEKSTER—BOSCH REITZ, De drie Dame* Cnussewiiickel.
+Se druk.
+., 7* F. UK MX'I.AIIt. Baron Selderie. Se druk.
+S* 1*1. VKRSTER—BOSCH REITZ, -n Schat van'n Vrouw, Se druk.
+.. 9 I,OI'ISK B. B., Janiiekc de PionicrMter. He druk.
+., 11* &lt; AKKY v. Itltl 4J&lt;iK.V. Het Joodje, Se druk.
+., 12 «. v. HUI.ZKïr, I&gt;e Witte Tallei.
+, i:s* F. UK SIM'I.AIK, Het I.oon der Braven, :te druk.
+, 14* ,, .. ... De krach van Renwwoud, :Je druk.
+, 15 J AAK I!OO\i:\, Geldjan.
+, 1« F. DEJ*iISiCI,AIR, l&gt;e driedubbele Vrouw, "e druk.
+, 17* M. VERSIER B. REITZ, Olga Wurnatc'n schocnt.ji-s van
+Slangenhuid.
+IS* MARC. EMASTS, Een nagelaten Bekentenis. Se druk.
+., l'.t* BERN. «'A.VTKK, Een droomer ter HaringvungNt. Se druk.
+., SU* &lt;&gt;. II. PRIEH, Ue oode. Se druk.
+., 21* I.Ol'ISE B. B.. Eene IWiüdeelde. Se druk.
+., SS* TOP *AEFF, l»e Itoeliter, 4e druk.
+., s:t* HKRMAST KOl:l.VIMi. Freuleken.
+., 24* F. I»E M\«'I.AIK. Penwion Vink.
+., S5* HERMAN' .S \l,OMO\Si:\. Elvira en de kaïmtok.
+,. SC, 11UKMAN HOELVISTK, Mrs. O.
+,. S7 .. ., I^entewolken. Se druk.
+., SS, 39 F. M. DOSTOJEFSKI. &lt;Jebr. JUaramazow, s deelen. 4e druk.
+,, :tO. ::i .. l'it Siberië. S deelen. :Ce druk.
+S «.il .STAV FREKSSEX. Hilligcnlei, r&gt;e druk.
+:t:; .. ,, De ttrie Getrouneil, 4c druk.
+34 .. .. Jörn I'lil. 5e druk.
+:sr&gt; ., .. Ue Zandgravin, ."&gt;&lt;• druk.
+:&lt;6 Jl STl S v. MAl Itlli. Toen ik nog jong as.
+;;s &lt;;l 1 DE MAI t'AfSSA.V r. .Machtig als de dood.
+:t'.&lt; ,. ., l&gt;e Badpluat.s Mont-Oriol.
+ld ,. ., .. Een I.even.
+41 .. .. ,. Ons Hart.
+4S ,. .. ., Piet en Jan.
+i:; H. &lt;'. DIFERi:E. Van Schevenlngen tol Waterloo.
+41 PETER ROSEOMER, Uil'der Be.tcbavlng. :tc druk.
+47 ,. .. De Koon*, van den Houtvester, te druk.
+50* I. IS. TOERÖJE1VJEF. A.sja.
+51* F. M. DOSTOJEFSKI. De eerUjhe DieC.
+r S HERIMAK It \V«.. De vier Duivel».
+S:t F. M. DOSTOJEFSKI. De vreemde vrouw en de man ouder
+het bed.
+51 «Jl STAV l-|ti:\SSK\. Klaax Hlnrich Baas, Se druk.
+55 H. RIltER HAWOARIt, Itediamantmy neii van Uoiilif Salomo
+5(i I-OI'IS VOI'PKRUN, De Ongelukkige.
+57 I'KI.IV SAI.TIvK, Olga Welgemoed.
+5s JONAS l,IK. Een Slaaf van liet I.eveu.
+59 PETER ROSE««ER, Het eeuwige lleht, 5e druk.
+«O HERMAN SA1.OMO1VSON, I^liisterrijke dagen.
+LUWLWKt DAGEN
+
+VAN HCHKEnAcWARErtDORFJinjlERPAtl
+IOED!
+•BOOR
+TELTX
+SALTEN
+PRACHTWERKEN
+
+ALICE'S AVONTUREN IN WONDERLAND
+
+door LEWISS CARROLL
+Met 12 gekleurde platen, verscheidene zwarte platen en talrijke tekst illustraties van
+ARTHUR RACKHAM. Op fraai papier gedrukt in een genummerde oplage van 550 exempl.
+De prijs van dit prachtwerk in t'raaien band	f ll.OO
+
+BRITSCHE BALLADEN
+
+door ALBERT VERWEY
+Met een groot getal schitterende platen in kleurendruk van ARTHUR RACKHAM. Dit
+prachtwerk met een groot aantal illustraties in den tekst en in 2 kleuren gedrukt is in
+een genummerde oplage verschenen groot 550 exemplaren.
+Prijs in linnen band	t 2Ï.5O
+In geheel lederen band	f 4O.
+
+WASHINGTON IRVING, Rip van Winkle
+Geïllustreerd met 25 gekleurde en vele zwarte platen van ARTHUR RACKHAM.
+Genummerde uitgave	r 1O.
+R IJ N G O U D, door RICHARD WAGNER
+In Metrische vertaling van WILLEM KLOOS. - Geïllustreerd door ARTHUR RACKHAM.
+Genummerde uitgave. Prijs gebonden	r 15.
+
+KERSTVERTELLINGEN UIT VLAANDEREN
+
+Naverteld door ANDRÉDE RIDDER
+Geïllustreerd met platen in zwart en kleurendruk door JEAN DE BOSSCHÊRE.
+Gebonden in leer	t 27.5O
+Genummerde uitgave van 1—550, waarvan 10 exemplaren op Japansch papier in geheel
+lederen luxe band	• . . . ,	11OO.
+Het Complete werk van Dr. ALBERT VERWEY
+
+PROZA
+DOOR
+A.LJ3EItT VEÜ^VEY
+Compleet in 10 deelen
+Prijs bij inteekening per deel ingenaaid f 3.90, in linnen band f 5.25
+In geheel leer f 11.25
+P.
+STICHTELIJKE LECTUUR.
+.H. HUOENHOLTZ Jr., Levenslicht uit den nieuweren
+(Stichtelijke Bloemlezing voor onzen tijd) ing. f 2.QO, geb. f
+Levenslicht uit vroeger Eeuwen 3.25,
+, Levenslicht uit den Bijbel . . 1.90,
+, Innerlijk Leven (zeifbeschouwingen) 1.90,
+Dr. J. A. BEYERMAN, Een bundel Psalmen
+HENRY VAN DIJKE, De Vierde Wijze uit
+het Oosten	1.25,
+in leer
+, De Blauwe Bloem. .....„1.50,
+GUSTAV FRENSSEN, Het Leven van den
+Heiland	0.90,
+, Van Strijd en Vrede (2e Bundel) , 1.90,
+C. WAGNER, Jeugd. Met een inleidend woord
+van P. H. Hugenholtz Jr. 5e druk , ., 1.90,
+, Eenvoud	....„1.90,
+, Wat onmisbaar is	2.50,
+, Het wezen der dingen. . . . 1.90,
+tijd
+3.90
+4.25
+2.90
+2.50
+3.50
+
+1.90
+3.50
+2.25
+, 2.75
+
+2.50
+2.50
+2.90
+2.50
+UIT HET VOLK
+
+12 deelen. Per deel ingenaaid f 0.90, Geb. f 1.50.
+Meesterwerken van F. M. Dostojefski
+F^.DO/TOJEF^KI
+Zijn stijl voel je eerst
+na bladzijden en blad
+
+zijden gelezen te hebben;
+dan merk je eerst iets
+heel bijzonders te bele
+
+ven ! Zoo koester ik de
+hoop, dat nu D. einde
+
+lijk hier in ons land
+begint door te dringen,
+steeds meerderen dit heel
+bijzondere zullen gaan
+doorleven.
+Elk nieuw boek van
+Dostojefski is als een
+schoone rijpe vrucht van
+zijn rijk talent.
+Deli-Courant.
+
+DE GEBROEDERS KARAMAZOW
+2 deelen. Prijs compleet gebonden in geïllustreerd omslag f 3.
+HET LANDGOED
+STEPANTCHIKOWO
+ing. f 3.90, geb. 5.50.
+
+UIT SIBERI
+2 deelen. Prijs compl. gebonden
+in geïllustreerd omslag f 3.
+
+BOOZE GEESTEN
+2 deelen. Prijs in geïllustr. omslag
+compl. ing. f 9.50, geb. f 12.50
+
+DE EERLIJKE DIEF
+DE KLEINE HELD
+geb. f 1.50
+DE DUBBELGANGER
+ing. f 2.90 geb. f 3.90
+
+OOMPJE'S DROOM
+ing. f 2.90 geb. f 3.90
+
+DE VERNEDERDEN
+in herdruk
+EEN VEEL
+
+BEWOGEN JEUGD
+ing. f 2.90 geb. f 3.90
+
+DE VREEMDE
+VROUW EN DE MAN
+ONDER HET BED
+geb. f 1.50
+UITGAVEN VAN VAN HOLKEMA &amp; WARENDORF
+AMSTERDAM
+
+</text>
+<image timestamp="2002:08:25:23:42:16.00" size="515047">D4000493.TIF</image>
+</page>
+</document>

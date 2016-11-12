@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030614</Datum>
+<Pagina>13A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De eventueele verkoop der West-Indische Eilanden.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 14 Juni 1903
+VRIJWILLIGE
+Lu OPBOD en AFSLA
+'U
+AND EN
+Amst. Bock- en Stcendrukkeru, v/b. EUerman. Havms &amp; C\&gt;.
+MINISTER IDEM-JÜKO (de veilings-conditiën voorlezend):.... No. 4 Cura^ao vait uit..
+gegadigde zich verbindt een goed en vriendschappelijk buurman te zijn ....
+Voorts xai geen bod worden aangenomen ten/.ii de
+
+</text>
+<image timestamp="2002:08:19:18:31:37.00" size="300146">D2001WF.TIF</image>
+</page>
+</document>

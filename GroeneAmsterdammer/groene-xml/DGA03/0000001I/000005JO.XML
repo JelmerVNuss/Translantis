@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250425</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE ROËNE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2498
+SCHAAKPROBLEEM 19
+van A. ELLERMAN te Buenos Aires
+(Brit. Ch, Magazine, 1925)
+Wit: Kf3, Da7, Tc4 en gl, Lf4 en h3, Pe5
+en f5, pionnen: b7, d3, e4 en g6.
+Zwart: Kc7, D;7, Tc5, Ld8 en e8, Pa6 en b8,
+pion: d7.
+Wit geeft mat in twee zetten.
+Oplossing in het eerstvolgend nummer.
+Oplossing Probleem No. 18 van F. Fridlizius.
+1. Pd5—c3.
+Correspondentieadres: Dr. A. G. Olland, A. R.
+Falckstraat 5, Utrecht.
+DAMPROBLEEM 19
+
+van L. J. PARADIS.
+
+Zwart 10 schijven.
+l
+6
+11
+16
+21
+26
+31 j
+36
+41
+46
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Wit 10 schijven
+Stand Zwart: 5, 7, 8, 10,14,17,19,22,24,35.
+Wit: 23, 28, 31,33, 38, 39, 42, 44, 50.
+Oplossing probleem no. 18.
+Wit: 27-21, 37-31, 38-32. 39-34, 25:3, 3:2!
+Zwart: 16:27, 26:48, 27:29, 48:30, 14725T
+Probleem no. 17 laat nevenoplossing toe.
+Wit: 28-23, 19-14, 14:1! 23:5!
+Zwart: 18:20A 36:38. A.Z36.38
+Correspondentieadres: K. C. de Jonge, Van
+Woustraat 112n, Amsterdam.
+BR1DGEPROBLEEM 19
+B.
+KI. R. H. Scli.
+10.
+7.
+3. 3.
+KI.: h.
+TI R.: 9. 8.
+H.:
+Sch.: 9. 8. 7.
+KI.
+a.
+R.
+I..
+H.
+v.
+KI.:
+; R.: 6. 5.4.3.2.
+H.:
+Sch.: v.
+Sch.
+10.
+6.
+5.
+4.
+Kaus-Aloiit. L en B moeten van de resteerende
+Zes nog »'Uf trekken maken. L is aan slag.
+
+OPLOSSING BRIDOEPROBLEEM 18.
+V is uitgekomen met Sch. 7. Daar hij met de 4e van
+boven is uitgekomen heeft hij nog 3 boven de 7. Hier
+
+voor komen in aanmerking de v. b. 8. De overigen hebben
+B. en A. L heeft dus geen Schoppen boven de 7. A weet
+dus als hij direct H. a. in 111 neemt, dat L en B nooit
+drie van slag zullen kunnen halen; immers hij heeft al
+n" slag n de~drie Schoppens van V geven dan samen
+de zekere 5 slagen. Neemt hij H. a. niet dadelijk, dan is
+het best mogelijk, en zelfs waarschijnlijk dat L en B in
+R. en KI. de overige 7 slagen, noodig voor 3 aan slag
+zullen halen.
+.Door dit spelprobleem wordt nog weer eens duidelijk
+gedemonstreerd, hoe goed het is accuraat met de 4e van
+oven (Eleven-Rule) uit te komen.
+B.M.
+Correspondentieadres: Secretariaat v/d Amster
+
+dammer: Motto Brkjge" Keizersgracht 333,
+Amsterdam.
+BELOTTE.
+ET L'ON FAIT UN' P'TIT' BELOTTE '
+BELOTTE, hét modespel thans in Parijs. Vroeger
+een spel van Hollandsche beroemdheid
+smousjassen of ,,vijfhonderden".
+Toch veronderstel i&lt;, dat het zóó echt-H
+&gt;1landsch is, dat het moderne kaartende geslacht dit
+spel niet meer kent. En toch is het zoo aardig,
+speciaal als men maar met zijn tweeen is.
+Vandaar dan ook, dat ik het durf te wagen u
+een kort exposévan Belotte te geven.
+Het spel wordt door twee personen met 32
+kaarten gespeeld. De gewone volgorde der kaarten
+is: Aas, heer, vrouw, boer, tien, negen, acht,
+zeven.
+In de troef kleur is die echter anders, te weten:
+boer, negen (nel), aas, heer, vrouw, 10, 8, 7.
+De puntenwaarde van de verschillende kaarten is:
+Troef boer 20
+Troef negen 14
+Alle azen per stuk	11
+alle heeren ,, 3
+alle vrouwen	,, ,, 2
+Alle boeren voor zoover niet-troef l
+Alle tienen per stuk .... 10
+Negens, voor zoover niet troef O
+Achten, zevens O
+Het spel wordt dan als volgt gespeeld:
+De geen, die de hoogste kaart trekt, geeft.
+Hij geeft eerst zijn tegenpartij drie kaarten,
+dan zich zelf; dan weer de tegenpartij enz., totdat
+beide partijen negen kaarten hebben. De daarop
+volgende kaart, dat is dus de negentiende van het
+hoopje kaarten, wordt omgedraaid, en geeft aan,
+welke kleur troef is.
+We onderscheiden een voorspel, en een naspel.
+Onder voorspel verstaan we dat deel van het
+spel, dat gespeeld wordt, zoolang nog niet alle
+resteerende kaarten successievelijk opgenomen
+zijn. Naspel is natuurlijk dat deel, nadat er geen
+kaarten meer op het oorspronkelijke hoopje liggen.
+Tijdens het voorspel hoeft er niet bekend te
+worden, wel tijdens het naspel.
+Tijdens het voorspel mag er worden geroemd,
+tijdens het naspel alleen gedurende den eersten
+slag. Wat is roemen?
+Voordat ik dit behandel, wil ik even zeggen, wat
+precies het doel van het spel is.
+Wie het eerste 500 punten heeft behaald, heeft
+het spel gewonnen.
+Men kan die punten behalen, in de eerste plaats
+door de punten, die de diverse kaarten waard zijn,
+die men heeft genomen; maar in de tweede plaats:
+door te roemen.
+Roemen is het annonceeren van een driekaart,
+vierkaart, vijfkaart, vier van n soort, of stuk
+van troef.
+(drie opecnv. van dezelfde kleur)
+(vier opeenv. van dezelfde kleur)
+(vijf opeenv. van dezelfde kleur) \ OOp
+lOOp
+20p
+50p
+Driekaart
+Vierkaart
+Vijfkaart
+Vier azen
+Vier heeren	l OOp
+Vier vrouwen	l OOp
+Vier boeren	200p
+Voor vier tienen, negens, achten en zevens
+wordt niets verstrekt.
+Stuk van troef (heer en vrouw) 20p
+Degene, die de laatste slag van een spel be
+
+haalt krijgt daar ook nog 5 punten extra voor.
+N.B. Hut mag ook nog zes-zeven, acht-kaarten
+roemen.
+Hier krijgt men echter ook maar 100 punten
+voor. En Een achtkaart, gaat echter wel boven
+zevenkaart, zeven weer boven zes enz.
+Vier azen enz. gaat echter hier weer boven.
+Het roemen geschiedt aldus: Degene, die uitkomen
+moet, dus aan wien de vorige slag is gebleven,
+speelt uit. Als hij uitgekomen is, roemt hij daarbij,
+wat er voor hem te roemen valt b.v. n drie
+
+kaart van een vrouw, dat is dus
+vrouw-boertien b.v. van Sch. Dan krijgt hij daarvoor 20 pun
+
+ten, mits dit door de beginpartij geldig wordt
+verklaard.
+De tegenpartij kan een roem ongeldig verkla
+
+ren, als hij een hoogere roem in handen heeft
+(van grootere waarde) of een gelijksoortige roem
+maar van een hoogere kaart.
+Een driekaart van de vrouw kan dus ongeldig
+gemaakt worden door een vier of vijfkaart, vier
+van n soort, of door een driekaart van een heer
+of aas. Een driekaart van Schoppen vrouw kan
+ook ongeldig gemaakt worden door een driekaart
+van troef-vrouw van de tegenpartij. Immers een
+Troefkaart gaat altijd boven.
+N. B. Driekaart van een vrouw kan echter
+niet ongeldig verklaard worden door driekaart
+troefboer of lager.
+Als een driekaart (of andere roem) ongeldig
+verklaard is, dan kan men dezelfde roem mits
+nog volledig in de hand aanwezig bij een vol
+
+genden slag weer probeeren te roemen.
+Nu nog n ding over het roemen:
+Heeft men al van een vrouw een driekaart ge
+
+meld, dan mag men niet meer in diezelfde kleur
+een driekaart roemen van een lagere kaart, bij
+die driekaart van de vrouw betrokken (wel een
+vierkaart, als men een driekaart genoemd heeft,
+ook niet een vierkaart als men al een vierkaart
+genoemd heeft).
+Voorbeeld:
+Men heef t in handen 8, 9,10, boer, vrouw, van Sch.
+Begint men direct met een vijfkaart te melden
+van Sch. v., dan mag men niet meer een lagere
+kaart, 't zij van v, b. of 10 roemen. Ook mag men
+geen driekaart meer roemen van de b. of v., als
+men begonnen is met driekaart van de vrouw.
+Men begint dus zoo laag mogelijk, om zooveel
+punten als het kan te behalen.
+Eerst driekaart van de 10, dan driekaart van de
+b, dan van de v., dan vierkaart van de boer, dan
+van de vrouw, dan vijfkaart v. d. vrouw tesamen
+3 x 20 + 2 x 50 + l x 100 = 260.
+N.B. Een vijfkaart en zeskaart is door vier van
+n soorongeldig te verklaren, m. a. w. 4 azen
+enzgaat boven vijfkaarten enz. Wordt de roem geldig
+verklaard, dan kan men tegelijkertijd alles roemen,
+wat men wil, ook al zou de tegenpartij die andere
+roem wel ongeldig kunnen verklaren.
+Voorbeeld: Men heeft 4 boeren + een driekaart.
+De tegenpartij vier azen. Men roemt: 4 boeren.
+Dit kan de tegenpartij niet verhinderen; dus ook
+niet de driekaart.
+Ik wijs er in dit verband even op, dat het
+wel geoarloofd is twee driekaarten (enz.) tegelijk
+te roemen, mits maar niet beide en van die
+driekaarten in dezelfde kleur elkaar raken. Dus
+niet geoorloofd gelijk te rbemen: 8. 9. 10, 10.
+b. v. van Sch. of 8. 9. 10, b. v. h. van Sch.
+Wel geoorloofd: 8. 9. 10 v. h. aas. v. Sch. Hier
+raken de kaarten elkaar niet.
+De gewone gang van het spel is zeer eenvoudig,
+Degeen, die niet gegeven heeft, komt uit, met
+een willekeurige kaart. De andere mag nemen of
+niet, hoeft echter (voorspel) niet te bekennen;
+hij mag desnoods troeven. Hij, aan wien de slag
+gebleven is speelt weer uit, nadat ieder een kaart
+van het hoopje heeft genomen. Degeen, voor wien
+de slag is, neemt het eerste. Tijdens het voorspel
+blijft dus ieders aantal kaarten na eiken slag:
+Negen.
+Dit gaat zoo door, totdat het hoopje kaarten
+op is. De kaart, die aanwees, welke kleur troef
+was, wordt het laatst genomen; diegene, die troef
+zeven heeft, mag deze echter in ruil geven voor de
+oorspronkelijke kaart.
+Zijn alle kaarten op, dan begint het naspel. Nu
+moet er bekend worden. Alleen gedurende de eerste
+slag van het naspel mag er nog worden geroemd.
+Alleen stuk van troef mag altijd worden geroemd,
+zelfs als het spel afgeloopen is. Dit hoeft dus niet
+bij het uitspelen te geschieden.
+Als men er in slaagt alle negen trekken in het
+naspel te maken, krijgt men 100 punten extra
+z. g. voor kapok. Nadat ook het naspel afgeloopen
+is, worden de punten, die men met de kaarten
+verzameld heeft, opgeteld bij de andere punten
+van het roemen. Is door geen der partijen 500
+punten behaald, dan begint er opnieuw een spel
+totdat iemand er wel 500 in totaal heeft.
+Heeft iemand de 500 bereikt, dan mag hij de
+kaarten neerleggen, mits hij gedurende n trek
+daarna nog aan slag is geweest. Kan hij dit niet,
+en bereikt de tegenpartij de 500 en blijft dan wel
+aan slag, dan heeft deze gewonnen.
+Is ook het naspel uit, dan heeft hij gewonnen,
+afgezien of hij aan slag is gebleven, die de 500
+punten heeft bereikt.
+Hebben beide partijen 500, zonder dat n aan
+slag is gebleven, dan beslist de laatste slag. Wieden
+laatsten slag heeft gewonnen heeft dan eveneens
+de partij gewonnen en daarmee Belotte.
+Mochten eenige lezers nog vragen hebben, dan
+zal ik die gaarne beantwoorden. Vragen te richten
+Secretariaat v.d. Amsterdammer Keizersgracht
+333 Amsterdam: Motto: Belotte. B. M.
+
+INHOUD: 1. Beperkingvan het aantal studenten, door
+Prof. Dr. G. W. Kernkatnp 2. Tijdgenooten, door Dr.
+W. G. C. Byvanck 3. De Miranda en de motie
+Drabbe, teekening door Joh. Braakensiek De
+Bolsjewiki en Bulgarije, door Boris Raptschinsky 4. Twee
+dialogen van Diderot, door Dr. L. H. Grondijs 5.
+Hollandsche nuchterheid en Fransche gevoeligheid, door
+Mr. W. R. Kunnen Riedei—Het gevaarlijke rood,
+teekening door Joh. Braakensiek 6. Javaansche Sagen,
+door Mr. H. G. Koster 7. Uit de Natuur, door Dr.
+Jac. r. Thijsse 8. Bijkomstigheden door Annie
+Saloinons -- 9. Nieuwe Fransche boeken, door Dr. Joh.
+Tielrooy II. Voor Vrouwen, red. Elis M. Rogge •
+12. Dram. Kroniek, door Top Naeff Toekomstbeeld,
+teekening door G. van Raemdonck 13 Een boek over
+Francesco Guardi, door Mr. M. F. Hennus 15. Muziek in de
+hoofdstad, d. Constant v. Wessem De toekomst der mo
+
+derne muziek, door J. C. Campagne—SentM'Ahesa, teeke
+
+ning door B. van Vlijmen—16. De Oostinjevliegers, teeke
+
+ning door B. van Vlijmen Boekbespreking,door Prof. Dr.
+A. W. Byvanck—17. Toegepaste Kunst, door Otto van
+Tussenbroek Leekenspiegel 19. Op den Economischen
+Uitkijk, door Jhr. Mr. H. Smissaert—Dierstudie, teekening
+door H. Verstijnen—20. Ruize-Rijmen en Charivaria, door
+Charivarius 21. Telefoontje, door Cel 2 Henri
+Dekkingen het Diaconiehuismannetje, door WillemLandr
+Rijm, door Kumgra Nosalis Uit het Kladschrift
+van Jantje 23. Feuilleton: Het wassende water, door
+Herman de Man 24. Schaak-, Dam- en Bridgeprobleem
+Belotte, door B. M.
+Bijvoegsel: Minister '.'e Visser wil het aantal studenten
+beperken, teekening door Joh. Braakensiek.
+Typ. Amst. Boek- en Steendrukkerij, voorheen Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:03:08:51:07.00" size="236731">000005JO.TIF</image>
+</page>
+</document>

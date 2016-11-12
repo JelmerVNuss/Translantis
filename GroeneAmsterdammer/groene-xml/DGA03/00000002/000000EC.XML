@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060701</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1514
+Muzikale Bijdragen.
+
+N°. I.
+BRUIDSDANS.
+Woorden van J. C. VAN DOKKUM.
+
+Breed en Feestelijk J 88 M. M.
+Muziek van CATH. VAN RENNES.
+le stem.
+Piano. &lt;
+
+1. die U dan - ken, Groot ge - - Ink ver - - kondtl
+2. rij - ke Ie - - veu Jong wordt in - - ge	leid l
+La - chend groet en groet met
+Bloe - men strooi, en fris - sche
+
+1. die U dan - ken, Groot gs - lak ver - - kondt!
+2. rij • ke le - - ven Jong wordt in - - ge - - leid l
+*~~^ J
+EEE»=z.t=
+ril.
+Komtl
+Komtl
+
+'l
+
+a tempo
+
+3=
+L-P , , , , ,_
+-V- JS . -,&lt;- f- _fc j_
+1. La - chend groet en groet met
+2. Bloe - men strooi, en fris - sche
+--fl 1
+^1
+]
+
+
+frj+-*• s- l : £
+. Komtl
+&gt;. Komt!
+ƒ '
+
+
+t J
+zin gen
+mei en,
+LJP^ML_P."" r. '
+La - chend groet met zin - gen
+Bloe - men strooi, en fris - sche
+"^ * \ A
+ft f 1 :
+i—^
+Wie de lief- - de
+Voor de blij - - de
+^ 3 J J 1
+Wie de lief - de
+mei - en voor de
+pr^: ^ ^
+.e
+11
+-'. LJ—1
+r
+r
+r
+f
+
+1. zin ----- gen,
+2. mei ----- en,
+La - chend groet en groet met zin
+Bloe - men strooi en fris - sche mei
+gen,
+- en,
+1. La - chend groet en groet met zin - - - - gen,
+2. Bloe - men strooi - en fris - sche mei	en,
+La - chend groet met zin - gen
+Bloe - men strooi - en, fris - sche
+Si
+1
+
+Jl
+^ J
+-z '\
+-f-
+-f-'
+1jju _-•
+f
+JL
+t
+r?1 ?
+
+- -t' !• j« fl 5» fl
+fc K. 1* i K i
+r-* 1^t=3 \
+_^__ ^__L
+i i l
+r
+' 1. vond.
+2. bruid.
+zsdi^zi
+1. vond.
+2. bruid.
+Voert in hnp - pe - len - de krin - gen
+Ga in licht -ge -dans -te rei - en
+Komt!
+Gal
+i j ,Tï~é--=} -^=
+pe - len - de krin - gen, Voert in krin - gen
+ge - dans - te rei - en, Ga in rei - en
+voert in hnp - pe - len - de krin ,
+ga in licht - ge - dans - te rei - en, Ga
+1. Wie de lief - - de
+2. Voor de blij - - de
+vond -- --
+-bruid
+------Lief - de
+Voor de
+vond.
+
+m
+ft=^^
+=)=
+1. Wie de lief - - de
+'i. mei - en voor de
+vond
+lirnid,
+-hup - plend voert de bruid in 't
+fris - sche mei - - en voor de
+rond.
+
+
+
+£SEE£
+13= •-••
+1. rondl
+2. uitl
+Eo - zen vlecht in fris - sche ran - ken vriend - lij - ke oo - gen
+Glans en ju - bel moog' om - ge - ven Wie het nieu - we,
+
+~mf
+''•*••*•-»- _
+1. hup - plend haar in't rond! Eo - zen vlecht in fris - sclic ran - ken Vriend - lij - kc cio -gen
+2. dan - send haar voor - uit. Glans en ju - bel moog om - ge - ven Wie hot uien - \ve
+J. 4 ^__	j—3	|
+-tf-
+-f
+2 ,
+bruid.
+L_	T	~_ J	_J
+p
+"" '
+-f	Q	^-,1 _ _^	t-f-s;
+1
+
++• tr~
+Lachend groet en groet niet zingen,
+
+AVie de liefde vond.
+
+Voert in huppelende kringen,
+
+Haar in 't rond!
+
+•Rozen vlecht in frissche ranken,
+
+Vriendlijke oogen die U danken,
+
+Groot geluk verkondt!
+Bloemen strooi, en frissche meien,
+
+Voor de blijde bruid.
+
+(ïa in liehtgedanste rijen,
+
+Haar vooruit!
+
+(ilans en jubel moog' omgeven,
+
+Wie het nieuwe, rijke leven,
+
+.long wordt ingeleid!
+
+</text>
+<image timestamp="2002:08:10:20:44:40.00" size="154214">000000EC.TIF</image>
+</page>
+</document>

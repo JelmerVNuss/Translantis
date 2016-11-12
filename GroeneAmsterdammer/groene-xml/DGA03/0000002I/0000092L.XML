@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300329</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+PRA VOORH
+•, Ti&gt;~' rl * t
+(Tel. U)
+op alle karaets.
+Indisch Restaurant en Lunchroom
+Laa» van Meerdervoort 12 - DEN HAAG - Tel 12869
+Hotel C eo i l"
+Doorn
+I3&amp;*. Femion vandl f 5
+,,Met CENTRALE VERWARMING
+flt«omen&lt;l'wud «n rm wate-,,Me
+Op a!te,-J«ame«.-phH*t!g,en rüe g«&gt;egen midden in Tiet Bo.ch, schitterend
+mm rriW frW»ciw liwifcfs.
+C. ^ynmefs T«n Toorenburg.
+tut vtjrturan la ' bri«tomil»g «b dndtT«i* met l'/, cent
+Aan de Administratie van De -Groeine Amsterdammer"
+
+Keizersgracht 333' Aataferd^m C.
+Am sterdam
+A1 GmtfgdndMiaiO
+rienschl zich f e abonneeren
+
+op De Groene Affisferdammer" van l April ,
+
+,s, aj, met de nummers van' Maart gratis.
+De- abonnementsprijs van De Groene Amsterdammer
+
+js f 10.—per jaar. Yan l April—31 December f 7,50.
+
+Gironummers Ri/ks: 72880 Gemeente Amsterdam G7000.
+
+</text>
+<image timestamp="2002:09:25:07:42:48.00" size="664752">0000092L.TIF</image>
+</page>
+</document>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281124</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER VAN 24 NOVEMBER 1928
+No. 268t*
+J. D. STRUIJS!_g Zn.
+Prinsengracht 837 IjTdefoonj (37906J
+Begrafenissen - Crematie - Transporten
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in:
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+BJASPSBOMMEL8
+BOB^BINDER
+KERKSTRA AT 58
+AMSTERDAM
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+
+Plaids
+Voetenzakken
+AutO'Overschoenen f
+30*BEGRAFENISVEREENIGING
+
+N. SAX Ir.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers ^
+
+Bij ons verkrijgbaar g
+N. R. V. MONTA SCHOENEN l
+== H
+iiiiiiiiiiMiiiiiiiiiiiiniiiiiiiniiHiiiitiiiiiiiiiinnitiiiiiiiiniiiNiiiiiiiiiiiiiiiiiiiiiiiii
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H - AMSTERDAM
+Tel, 42662
+MARMERWERKEN
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+
+Half
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V, v/h. Gebr, BREEK
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+kost slechts f 2.75 per kwartaal of f l
+C.per (aar bij vooruitbetaling
+GERARD B. Rif K E ]r.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileer ing
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:16:58:25.00" size="135229">0000073P.TIF</image>
+</page>
+</document>

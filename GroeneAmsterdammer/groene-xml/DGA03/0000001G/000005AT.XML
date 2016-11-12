@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250124</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2485
+Kacheltje in het voorhuis van het Burgerweeshuis te Naarden. 1690.
+(Illustraties uit Sprokkelingen in Nederland door Mr. A. Loosjes)
+Toren der Ned. Herv. of St. Laurenskerk te Weesp.
+(Benedengedeelte pi.m. 1270—1310; bovengedeelte pi m. 1600)
+SPROKKELINGEN IN
+NEDERLAND
+De Nederlanders zijn gaandeweg steeds meer
+belang gaan stellen in de schoonheid van eigen
+land. Kon in een voorbericht van Henri Havard's
+La Hollande pittoresque" in 1876 geschreven
+worden: ,,Même dans les Pays Bas et jusquesur
+les bords du Zuiderzee, beaucoup de lecteurs
+Néderlandais ont fait certainement avec vous
+(Havard), comme les Francais, un véritable voyage
+de découverte",—nadien is er in die vijftig jaren,
+zooveel in beeld gebracht en zoo vaak geschreven
+over wat in ons land schoon en belangrijk is op het
+gebied van kunst en geschiedenis, dat men met
+een gerust geweten zou kunnen zeggen: ,,Nu is
+'t voldoende, laten de
+menschen 't nu maar
+een zelve gaan kijken."
+Desniettegenstaande
+kondigen wij met vreug
+
+de de verschijning aan
+van de Reeks Stadsge
+
+zichten, Woonhuizen en
+Kerken en Godshuizen
+in onze Steden, die
+uitgegeven wordt door
+Scheltema &amp; Holkema's
+Boekhandel.
+Het zijn de eerste
+series van de Reeks B.
+en C. der Sprokkelingen
+in Nederland, het groote
+plaatwerk dat ons de
+beschrijving in Beeld
+zal geven van het Ste
+
+den- en
+Landschapsschoon in ons land.
+In deze series worden
+behandeld Hoorn,
+Enkhuizen, Medemblik,Alk
+
+maar en Purmerend,
+Edam, Monnikendam,
+Naarden, Muiden,
+Weesp, Haarlem,
+Mr. A. Loosjes deelt
+in de korte beschrijving
+dezer steden menige be
+
+langwekkende bijzon- Qedeelte van een der
+derheid mede; bij de te
+lezing voelden wij het gemis aan een plattegrond
+der plaatsen, waarop wij de ontwikkeling in den
+loop de r tijden zouden kunnen nagaan. De A. N. W. B.
+heeft zulke keurig verzorgde plattegronden uit
+
+gegeven; deze zouden als aanvulling goede
+diensten kunnen bewijzen.
+Ijverig hebben de fotografen rondgeloopen en
+gekiekt alles wat maar geschikt zou kunnen zijn
+om in deze Sprokkelingen opgenomen te worden
+en dan is er misschien wel eens een sprokkeltje
+of sprikje te veel genomen, dat niet zoo belangrijk
+was of niet zoo mooi; maar over het algemeen, zijn
+zij geslaagd cm een goed fotografisch beeld te
+geven van wat deze steden bevatten op dit gebied.
+Eenigszins jammer is het, dat alles ons geboden
+wordt, gezien door de fotografische lens; soms zou
+men zoo gaarne teekenstift en penseel het toestel
+JAC URLUS
+HAVANA 12 CENTS SIGAAR
+Vraagt monster met adres van Uw winkelier
+bij FLEVO UTRECHT
+zien vervangen, al weet men ook, dat het in goede
+handen was en dat een schildersoog die handen
+bestuurde.
+Met vreugde kondigen wij desondanks deze
+nieuwe Reeks Sprokkelingen aan, omdat zij onze
+landgenooten wederom wat nader brengen tot de
+voor nog zoovelen onbekende schoonheden
+binnen onze grenzen. De platen zullen ook
+voor den vreemdeling een goeden wegwijzer vor
+
+men tot deze schatten; maar al te veel wordt onze
+rijkdom aan natuur
+en kunst beschouwd
+als bijeengebracht op
+enkele plaatsen.
+En als landgenoot en
+vreemdeling beter weten
+hoeveel schoons er is in
+ons eigen land, dan zal
+de waardeering van den
+eerste zich uiten in zijn
+medewerking om te
+behouden en voor ont
+
+siering te behoeden al
+wat recht heeft op onzen
+eerbied; dan zal de
+laatste op zijn reizen
+voortaan verder gaan
+dan het Rijksmuseum
+en Marken en langer
+blijven in dit land, zoo
+klein in zijn omvang,
+zoo groot in zijn kunst
+en zijn historie, zoo
+schoon in zijn steden,
+zijn bosschen en velden,
+zijn weiden, zijn meren
+en breede rivieren.
+W. J. L u G A R D
+;ebrandschilderde glazen in den zuidelijken beuk der Wester- of St. Bonifaciuskerk
+Medemblik, met voorstelling van Salomo's rechtspraak (1681)
+
+</text>
+<image timestamp="2002:09:03:01:16:07.00" size="267818">000005AT.TIF</image>
+</page>
+</document>

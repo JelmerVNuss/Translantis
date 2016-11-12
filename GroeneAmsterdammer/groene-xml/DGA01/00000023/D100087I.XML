@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261218</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KEIZERSGRACHT 333
+
+AMSTERDAM
+TELEFOON :
+Redactie . .
+Administratie
+37M4
+37*63
+v
+A A
+VAN
+IffBlfyn
+ADVOCAAT
+A,yAN BIJSTERVELD
+AMSTERDAM
+O R T
+kttas 42 jaar dragen wij er
+zorg voor.dat d« menschen een
+en gaaf geMttehouden
+HER
+ARNOLD HOUTSCHILT
+Amsterdaa»
+E I S ~
+I SI C O VS ! l !
+BAGAGE-, RMWIEU-.
+ONGELUKKEN*.
+AUTOe«A, VERZEKERINGEN
+opze concurree/ende' premiën
+A. D. BEERENDS 6 VEEREN
+.^ fc E EU WARDEN
+JMeuoelmagazijn
+CLASIE, CASPERS 6 Co.
+Behanger!] - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT13, Telefoon 37354
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichting!
+
+C AP I
+115 KALVERSTRAAT
+KARELI
+Anthroposoflsche Ver. afd. A'dam.
+OPVOERING VAN
+Middeleeuwsche Kerstspelen
+OD Zondag 19 December, 'sav. g o.,
+in Bellevue, Marnixstr. te Amsterd.
+
+Das Paradiesspiel
+
+Das Christgeburtspiel
+Miuiek van Leopold van der Pais
+Plaatsbew. f 1.20, incl. bel. a/d zaal
+WerefcLberoemd
+SCHAFFHAUSEN
+de voomaafola
+N.V.%
+HA-KLOOSTERHÜIS
+AMSTERDAM
+SNELBLUSSCHE]
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 AT
+VOLDOET AAÜDE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREM
+FABRIEK ESPA
+UTRECHT
+SPANJAARD &amp; Co.
+llp£5S2g8g
+6"
+l
+i
+i
+
+ABDUL
+f Mixed de Luxe . f
+»• CAB
+f 5,2;
+\GOLD CAB1NET F
+THE
+PRESENT FOR
+SANTA CLAUS AND CHRISTMAS
+173 New Bond Sfreet Lpndon.WJ
+Makers of Superb C.iqaret'l'es
+
+</text>
+<image timestamp="2002:09:26:12:21:48.00" size="262712">D100087I.TIF</image>
+</page>
+</document>

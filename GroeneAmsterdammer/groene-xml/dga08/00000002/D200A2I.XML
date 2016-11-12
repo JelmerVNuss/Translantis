@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19291116</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'f.''
+s
+
+!f\ '
+Z6
+DE GROENE AMSTERDAMMER VAN 16 NOVEMBER 1929
+No. 2737
+Radio en Grammofoon
+
+Het Radiotoestel en het lichtnet
+door L. J. van Looi
+Wat «lJ n wlsselstroomlampcn?
+DE radioluisteraar kent tegen
+
+woordig twee soorten toestellen.
+Eén voor aansluiting aan bet lichtnet
+en het andere met een accu". Wat
+het verschil tusschen beiden eigenlijk
+is, weet hij meestal niet alleen weet
+hg, dat de eerste soort duurder is en
+gemakkelijker, omdat er geen accu's
+gevuld behoeven te worden. -*^
+^ Het verschil zit in de lampen. Het
+toestel, dat voor aansluiting aan het
+lichtnet geschikt is, werkt met zgn.
+
+Af*. I Allo
+Olo*i£raad Roqttér Plaat tezamen
+in een gewone radiolany ti
+vloeden, teneinde op deze manier in
+den stroom die door de
+luidsprekerspoelt jes gaat verandering te brengen
+en de muziek weer te geven. Wanneer
+uu de stroom die normaal tusschen
+den gloeidraad en de plaat vloeit,
+wanneer er dus geen muziek ontvan
+
+gen wordt, zelf ook al ongelijk van
+sterkte was, en in den luidspreker een
+eigen geluid veroorzaakte, dan zou
+de muziek van het zendstation ont
+
+vangen worden met allerlei andere
+geluiden uit het toestel-zelf ertusschen.
+En dat is de bedoeling niet! Nu is
+de eigenaardigheid van een gloei
+
+draad, dat hij meer electronen
+uitzendt, naarmate hij feller wordt
+f verhit. Wanneer wij dus de
+gloeistroom, dat is de stroom van
+de accu die g bruikt wordt om
+den gloeidra d aan het gloeien
+te brengen, in sterkte doen
+varieeron dan zal de gloeidraad ook
+wisselstroomlampeii en het andere met
+gelijkstroomlampen. Ik kan me voor
+
+stellen, dat de leek daarmee nog niets
+wijzer is geworden en daarom volgt
+hieronder een poging .om de zaak dui
+
+delijk te maken.
+Een radiolamp is een ingewikkeld
+bouwsel van draadjes, spiraaltjes en
+plaatjes blik • ieder, die wel eens
+een oude lamp beeft stukgeslagen,
+weet dat. In een radiolamp zit een
+gloeidraad. gespannen tusschen twee
+staandertjes en om dien gloeidraad
+z\t een spiraaltje, eveneens tusschen
+twee staandertjes opge
+
+hangen, welk spiraaltje ech- Aft. 11
+ter met den gloeidraad
+geen kontakt heeft. En om
+dat alles zit weer een plaatje
+blik gebogen. De gloeidraad heet dood
+
+eenvoudig gloeidraad," het spiraaltje
+heet ..Rooster" en het plaatje blik
+plaat" of anode". Zie teekening I.
+De funktie van de radiolamp is
+het onderhouden van een zgn.
+electronenstroom tusschen gloeidraad en
+plaat. Een electronenstroom is niets
+anders dan een stroom electriciteit.
+Er moet dus een stroom gaan van
+den gloeidraad naar de plaat. Dat
+gebeurt, doordat een gloeidraad van
+een lamp, wanneer die gloeidraad
+wordt verhit, electronen uitzendt,
+van zich afwerpt. De gloeidraad van
+de radiolamp doet dat dus ook,
+wanneer wij hem verhitten door een
+electrischen stroom er doorheen te
+sturen. Die electronen komen op de
+plaat terecht en vormen daar een
+stroompje, dat van de plaat geleid
+wordt door de magneetspoeltjes van
+de telefoon of van den luidspreker.
+Verandert dat stroompje van sterkte
+dan verandert het magnetisme van
+de luidsprekerspoeltjes ook van sterkte
+en dan wordt de trilplaat van den
+luidspreker aangetrokken en in den
+luidspreker ontstaat geluid.
+De stroom tusschen gloeidraad en
+plaat moet heel rg gelgk van sterkte
+,zijn, want wij laten de energie van
+het zendstation dien stroom
+beinongelijkmatig worden verhit en een
+ongelijkmatigen stroom electronen uit
+
+zenden. Daarom gebruikten wij vroe
+
+ger algemeen den meest volmaakten
+gelijkstroom, die er is: die van een
+accumulator.
+Intusschen is een accumulator een
+ongezellig ding. Hij moet telkens
+geladen worden en geeft bij het
+toestel altijd een paar afhangende
+draden, die niet fraai staan. Het is
+dus te begrijpen, dat men heeft ge
+
+zocht naar een middel, dat een een
+
+voudiger verhitting van den gloei
+
+draad bracht. En vanzelfsprekend
+denkt men dan onmiddellijk aan den
+stroom, die tegenwoordig bijna ieder
+
+een in huis heeft: wisselstroom van
+het lichtnet. Daar zijn echter een
+paar moeilijkheden bij, het overwin
+
+nen waarvan langen tijd heeft ge
+
+duurd. Wisselstroom van het lichtnet
+heeft een voltage van 110 of 220. Dat
+is teveel voor een radiolamp, die
+maar ongeveer vier volt kan gebrui
+
+ken. Dat is echter niet het grootste
+bezwaar, want dat voltage kan met
+een transformator worden verlaagd.
+Het grootste bezwaar is echter het
+karakter van den wisselstroom zelf.
+Wisselstroom bestaat eigenlijk uit
+gelijkstroomstootjes, die afwisselend
+uit de eene en de andere richting van
+den draad komen' Het 'eene oogen
+
+blik loopt de stroom van links naar
+rechts en het volgende oogenblik
+wisselt zij van richting en stroomt
+van rechts naar links. Dat verwisse
+
+len van richting geschiedt bij den
+stroom van het lichtnet 50 maal per
+seconde. Men kan zich voorstellen,
+dat bij het verwisselen van richting
+een hél kort oogenblikje er heelemaal
+geen stroom is, terwijl bovendien de
+stroomstoot jes-zelf niet ineens op volle
+kracht zgn en ook na het toppunt
+Van sterkte bereikt te hebben weer
+afnemen tot niets. Als men dan
+ook grafisch wisselstroom moet voor
+
+stellen, geschiedt dat door een golflijn,
+die er uitziet als op teekening II.
+Voert men nu wisselstroom door
+een gloeidraad van een radiolamp,
+•Afb.llX
+Porc.touleje
+met oxydlaag
+V«rwar
+«ings«l«ment
+U«t binnenwerk van «en
+wieMlftroomlaap
+dan begint die draad te gloeien, maar
+btf zal zeer ongelijk gloeien. Want
+telkens als de stroom in sterkte
+vermindert, wordt de draad minder
+warm. Het gevolg zal zijn, dat er
+ook minder electronen worden uit
+
+gezonden en de electronenstroom tus
+
+schen gloeidraad en plaat van de
+radiolamp zal dus ook fluctueeren. De
+magnectspoeltjes van den luidspreker
+zullen dan ook door een telkens
+varieerenden stroom worden doorloopen
+en er ontstaat een krachtig brommend
+geluid, dat het aanhooren van muziek
+vergalt. Men noemt dat een wissel
+
+stroom-toon."
+De gloeidraad direkt met wissel
+
+stroom voeden gaat dus praktisch
+niet. De manieren, waarop het wel gaat
+behooren in het laboratorium thuis.
+Tenslotte heeft men echter het
+ei van Columbus gevonden. De gloei
+
+draad immers m$et verwarmd worden,
+tot gloei in g gebracht, om zijn functie
+van electronenuitzenden te vervullen.
+Welnu, dat behoeven wy' toch eigenlijk
+heelemaal niet te doen, door er stroom
+doorheen te sturen? Wij kunnen er
+als het ware een kacheltje bij zetten,
+die den gloeidraad verwarmt. En
+inderdaad is in die richting de oplos
+
+sing gevonden. Er is een soort
+electrisuh kacheltje gemaakt van eenr
+stevige gloeidraad. die flink wat warm
+
+te afgeeft. Daaromheen is een huisje
+gelegd van porcelein, dat tegelijkertijd
+isoleert en warmte kan verdragen en
+daaromheen is de vroegere gloeidraad
+gelegd. D.w.z. op dat porcoleinen
+buisje is de metaalsubstantie
+(metaaloxyde) gelegd, die vroeger den buiten
+
+kant van den gloeidraad uitmaakte.
+Zie teekening I U.
+Nu wordt het verwarmingselement
+met wisselstroom tot gloeien gebracht
+en die gloeiende draad brengt het
+porceteinen buisje op een temperatuur
+die zeer gelijk blijft. Als het buisje
+eenmaal warm is, blijft het zoo gelijk
+
+matig warm dat de veranderingen, die
+er eventueel nog in plaatsgrijpen,
+geen invloed op de
+electronenuitzending hebben. En daarmede is
+het doel bereikt: wij hebben welis
+
+waar geen met wisselstroom direkt
+gevoede gloeidraad, maar in ieder geval
+iets, dat electronen uitzendt, zonder
+dat de accumulator er aan-te pas
+moet komen.
+Door de wisselstroomlampen is de
+radio eigenlijk eerst pas tot de groote
+verbreidingsrnogelijkheid gekomen, die
+zij verdient. Met wisselstroomlampen
+kan een toestel gemaakt worden.dat
+niet meer een half-laboratorium-uiter
+
+lijk heeft, maar dat evenals een stof
+
+zuiger of een strijkijzer een gebruiks
+
+voorwerp is, waarvoor men geen
+speciale kennis behoeft te bezitten.
+
+
+Nieuwe Uitgaven
+Hekel, door CLssy van Marxveldt,
+met teekeningen van Is. van Mens,
+vierde druk.
+Toen Dik Trom een Jongen was,
+door C. Joh. Kieviet, geïllustreerd
+door Joh. Braakensiek, Achtste, druk.
+Uit n nezin, door Ella Vemor, met
+teekeningen van Henri Fieck.
+In den Otter", door C. Joh.
+Kieviet, geïllustreerd door Joh.
+Braakensiek, vijfde druk. _«______,
+Blind Hanske, door J.
+Faber, met teekeningen
+van Jan Lutz.
+Wowiloopers door J.
+De Meijer? Met teekenin- &lt;
+gen van T. Leezer.
+Hét vroolijke Trio, door
+C. Joh. Kievit. Met teeke
+
+ningen van Henri Pieck,
+derde druk.
+Pietje Bell in Amerika,
+door Chr. van Abkoude,
+illustraties van D. A*
+Bueno de Meaquita.
+CADILLAC
+Het telt dat de Cadillac dlkwyu voor
+veel duurder wordt cehoudeit, dan ie
+In werkelijkheid Is, pleit wel teer sterk
+voor de hoof e plaiU,dle de CADILLAC
+In de algemeene achting Inneemt
+K. LANDEWEER
+UTRECHT AMSTERDAM
+Blltstrut 74 Slnfel 430-432
+BIOSCOPY
+
+door L. J. Jordaan
+Bruid No. O8." Dultachf
+klankfilm Rembrandt-Thrater
+Deze Duitsche klankfilm geeft,
+na de Amerikaansche talkie's" slechts
+weinig aanleiding tot beschouwing.
+Zij heeft dit op Hollywood voor, dat
+er den hemel zij vurigen dank l
+tenminste geen negers en geen
+negerliederen in voorkomen. Want wij
+weten het uu welrt)»^?U wetenr^ret^
+nu wel, die eeuwige zwarte heeren
+in artistieke slavenlompen, met
+vjjgematten op het hoofd, dewelke onder
+weemoedig hoofdschudden en wui
+
+vende palmen liggen te liedertafelen,
+tot iemand het water achter de kiezen
+loopt. Ook bespaart Babelsberg ons
+de eindelooze reyue-potpourri met
+de mauwende, maar kuische
+dansjuffrouwen en de eenvoudige jonge
+
+lingen met nobele harten en nobele
+stemmen.
+Daartegenover vergast zij ons, .
+titre de revanche, op een der stuitend
+
+ste tafereelen, die de geschiedenis der
+film op haar toch reeds zoo zwarte
+geweten heeft. Wij wonen in optima
+forma een zenuwtoeval bij. die in een
+psychiatrische kliniek geen slecht
+figuur zou maken. Dit gaat werkelijk
+alle perken van zedelijkheid en goeden
+smaak te buiten en men vraagt zich
+af, of daartoe uu de klankfilm moest
+worden uitgevonden, om dergelijke
+walgelijke en volkomen zinnelooze
+imitaties van een ziekteverschijnsel
+voor een sensatiebelust publiek te
+accentueeren.
+Een enkel oogenblik schijnt er iets
+te willen doorbreken, dat op een ver
+
+sterking van het filmisch effect door
+het geluid gelijkt; het geroezemoes
+van een cowboykroeg, met de ver
+
+scheurde pianoklanken, het getinkel
+van glazen en de deinende go) ving van
+stemmenwirwar. Voor de rest is het
+een film, welke als zoodanig ver
+beneden het peil staat van de
+middelmatigste zwijgende film, waarin
+slechts een paar onnoozele woorden
+worden gezegd en de muziek de ver
+
+velende neutraliteit van den
+radioloudspeaker heeft.
+Dan is er natuurlijk nog de groote
+toekomst, die niemand voorspellen,
+kan, het begin waarover wij niet
+mogen oordeelen en de geniale vin
+
+ding van het menschelijk brein....
+Jawel!
+Smalfllm Amateur&gt;Klnematografie onder
+Kino-tec^inlsohe leiding van Jorl» Iven»
+FOTO-, PROJECTIE. EN KINO'HANDEL"
+115 KALVERSTRAAT AMSTERDAM
+GENERAAL ritllO AGENTSCHAP
+«II CAPI vakkundlo» raad «n »MHIotrttno._
+VAN 16 NOVEMBER
+DE GROENE AMSTERDAMMER
+t i
+HET AVANT-GARDE THEATER TE AMSTERDAM
+Eerst» programma der
+Filmliga. De Uitkijk"
+E Filmliga zette haar seizoen
+laat, maar^brillantjnmet^.,Jeanne
+door L. J. Jordaan
+d'Are" van Carl Th. Dreyer en twee
+HoUandsche premières respectievelijk
+van Ivens en Franken-Ankersmit.
+Over het meesterwerk van Dreyer
+schreef ik reeds een jaar geleden uit
+Parijs. Het is wel merkwaardig, dat
+de technische leiding der Filmliga, den
+fijnen neus of de gelukkige hand heeft
+gehad, de twee nobelste en ernstigste
+cinegrafische werken der laatste jaren
+hier naar toe te halen; te weten:
+,,De Moeder" van Pudowkin en
+Dreyer's Jeanned'Arc." Waar waren
+de vermaarde energieke" directies,
+waarwaren de heeren van de daverende
+reclame en de bewierookende inter
+
+views, toen het er op aan kwam de
+norico-herkauwers met hun geachte
+neuzen op iets anders te duwen, dan
+wat het publiek lust"? Men kan er
+niemand een verwijt van maken—zaken
+zijn zaken "—maar het kan evenmin
+kwaad dit feit nog eens met nadruk
+téconstateeren. Hier is een tekort
+
+koming begaan welke door geen
+luidkeels bewonderde installatie^van
+jank-apparaten kan worden te^niut
+gedaan.
+Wat nu het werk van Dreyer be
+
+treft ik heb aan mijn groote be
+
+wondering, destijds ten opzichte van
+deze film geuit, niets toe te voegen.
+Bij het terugzien heeft zich de
+overtuiging bevestigd, dat bij mijn
+weten geen oeuvre zóó zeer met den
+rug naar het geachte publiek is ge
+
+maakt en met zulk een stille, vrome,
+liefdevolle aandacht. Het spreekt van
+
+zelf, dat deze appreciatie niets te
+maken heeft met de lyrische of pieuze
+vervoering, die aan den algemeenen
+lof deze film toegezwaaid, zulk een
+betrekkelijk en vaak bedenkelijk
+ka.. rakter verleent. Jeanne d'Arc" is
+voor mij niet de uiting Van den vromen
+mensen, f noch van het groote, liefde
+
+volle hart—het is vóór alles de glorie
+van, een geadelden kunstvorm, van
+een kunstvorm, dien wij dagelijks
+zien vernederen tot het allergrofste
+variété*vermaak. Het zijn de films
+van zulk een edele, zuivere schoon
+
+heid, die eerst recht en diep doen
+beseffen welk een misdaad er door die
+profanatie wordt begaan aair eenr
+taal, die in kracht en innigheid voor
+geen andere behoeft onder te doen.
+Het zijn ook deze films, welke het
+streven vermogen duidelijk te maken
+de kleine groep enthousiasten,
+..Heien", naar het mij voorkomt iu
+montage wat gehaast on onvol.
+t j - - ».
+die fanatiek en hardnekkig de film
+aan het vermaaks-etablissement be
+
+twisten. Het proza leeft toch ook niet
+uitsluitend aan de bittertafel en op
+de straat •—waarom zou de film
+dan ten eeuwigen dage aan de
+varité-bioscoop gekluisterd • moeten
+blijven? Wij \willen scheiding!jt_
+scheiding scheiding l
+dragen. Maar het heeft ten volle de
+kenmerken van den vasten greep
+en de onbevangen visie, welke zoo
+karakteristiek zijn voor dezen
+aavts-cameraman. Ivens' groote, on
+
+schatbare verdienste is zyn oorspron
+
+kelijkheid: hij is door en door Hol
+
+landsen ! Noch de overweldigende
+dramatiek der Russen, noch het raffi
+
+nement der Franschen, noch de me
+
+lancholische lyriek der Duitschers
+vermochten dezen koppigen Hollander
+van de wijs te brengen: koel, klaar
+en vierkant staat hij op zijn beenen.
+klauwen van vereelte werkmans
+
+vuisten om den greep der houweelén
+het wentelen der machineraderen
+... .heel dit positieve, vreugdige lied
+van don ^arbeid ia het,_wat JLvens
+CUBNBBAAJL AGENT1GN VOOtt
+Of moet het
+nog met woorden
+gezegd, dat een
+werk als Jeanne
+d'Arc" niet aar
+
+den kan in het
+milieu der
+Broadway-Melody's"
+en Singing
+Fool's"?!
+•• .'. * • . *. .
+Van Joris Ivens
+bracht de Liga
+een fragment:
+AM ATKUR-K™ O-UITRUSTING
+FOTO-SCHAAP &amp; Co.
+«PUI 8 AMSTERDAM,
+Illustraties: Boven: Ivens'
+Heien Portret :C.Th.Dreyer.
+Onder: Jeanne d'Arc
+Hij associeert zijn
+kunst niet met
+zielsconflicten,
+psychopathologie
+of weltschmerz,
+die zijn ongecom
+
+pliceerde, ietwat
+nuchtere per
+
+soonlijkheid vol
+
+komen vreemd
+zijn. Voor het
+spel van lichten
+beweging, dat de
+film is, bracht hij
+het gevoelig oog
+en den zin voor
+de schoone rea
+
+liteit mee, die den
+Hollander van
+oudsher eigen
+zijn. Het zware
+paaikoppen het
+boeit en niet aflaat hem te inspireeren
+tot zijn beste werk. En dat hem naar
+mijn meening heel wat beter ligt,
+dan het peilen van menschelijke
+emoties, als in Branding" werd
+beproefd.
+M. H. K. Franken's talent wijst
+een gansch andere richting uit. Het
+is nog moeilijk te zeggen, wat wij
+van dezen zoekenden, grübelnden
+idealist mogen verwachten. Hij kop
+
+pelt zijn opvatting van de film nog
+al te zeer aan maatschappelijke en
+zielkundige problemen •—het is nog
+te duidelijk, dat zijn filmische visie,
+meeschommelend met de fluctuaties
+van een nog niet gevonden geestelijk
+evenwicht, sterk wordt beinvloed
+door groote voorbeelden. Dergelijke
+hoog-grijpende, moeilijke naturen vin
+
+den zich zelf slechts uiterst langzaam.
+Wat zich in Franken's ongelijkmatigen
+arbeid onmiskenbaar openbaart, is
+echter een zeer gevoelige filmische
+zin en een sterke inventie. Het is
+duidelijk, dat wat er aan den dichter
+en kunstenaar in Franken leeft,
+• ademt bij de gratie van de film
+dat zijn geestelijke groei en de schoon
+
+heid van het nieuwe materiaal in ge
+
+stadige wisselwerking arbeiden.
+Daarvan geeft zijn jongste opus,
+in collaboratie met den
+voortreffe1 ij ken cameraman H. J. Ankersmit
+vervaardigd, de treffendste bewijzen.
+Le Jardin du Luxembourg" is een
+doordacht en geacheveerd stuk werk.
+Met groote zorg en uiterst
+toegespitsten aestetbischen zin werd deze
+fijne musique des images gecompo
+
+neerd. In tegenstelling met Ivens'
+spontanen arbeid, voelt men overal
+achter dit precieuse werk den tasten
+
+den, zoekenden, overwegenden geest.
+Hij kan niet buiten symbolen en gees
+
+tige spitsvondigheden, die soms een
+zuiver visueel (filmisch) karakter
+hebben (het meisje dat zich poedert,
+onder aan den steenen kolos), ander
+
+maal "naar noujh smaak te litterair
+aangedaan zijn (de beeldgroepen en
+het vrijende paartje). Voortreffelijk
+is de overgang via het opgeheven
+masker naar het marionetten «theater.
+Van dergelijke trouvailles is de film
+trouwens vol; ztf maken van het ge
+
+heel een boeiend en bekoorlijk werk,
+dat de verdere ontwikkeling van dezen
+jongen cineast met groote belangstel*
+ling doet afwachten.
+
+</text>
+<image timestamp="2002:10:26:02:01:59.00" size="623513">D200A2I.TIF</image>
+</page>
+</document>

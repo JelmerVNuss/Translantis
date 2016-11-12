@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19281020</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 20 OCTOBER 1928
+No. 2681
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+.HmilllimiiimiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiimiiMiiiiiiiiiiiiiMiimiiiiiiiiii	iiiiiiKiitiiiiitiiimniiiin	1111111111111111111111111
+
+LIPS &amp; PETERS l
+Vraagt Catalogus
+met
+prijzen
+DORDT
+P.JOBERINK e GO»,
+Amsterdam, Prinsengracht 456. Tel. 37452
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ MM verkrijgbaar
+N. R. V. HONTA SCHOENEN
+BADKMEII1CIITINGEN
+igowel eenvoudige »Is betere uitvoering.
+G, J. DE KONINGS ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+alle doeleinden
+- NV
+Oiem. Kunstinrichting
+DirkSchnabei
+"•, Amstepdacn.
+iiiiiiiiiiiiiiiniiiiiiiiiiiiiifiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii	i	iiiiiiiiiii	iiniii
+JAEGER
+Ondergoederen
+Ia div* kwaliteiten
+Zuiver Wol
+Half
+Gemengdeff»
+Firma KRÖNER
+Nicowendijk 167, Amsterdam
+Cacao
+DROSTE'S
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+
+</text>
+<image timestamp="2002:09:05:12:26:59.00" size="105139">0000070U.TIF</image>
+</page>
+</document>

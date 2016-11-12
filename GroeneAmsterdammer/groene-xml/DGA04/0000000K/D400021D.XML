@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151107</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+7 Nov. '15. No. 2002
+KLEERMAKERIJ
+n. j. LOOK,
+Li j n markt 2, Utrecht.
+Nieuwe Engelsche Stoffen.
+PRIMA COUPE.
+Conditiën beslist contant
+Een Roman van Marjorie Boven,
+Het Leven vanOlMerCromfell
+
+MET IJZEREN HAND.
+Dingen, f .9O, geb. f 3.5O.
+Uitgave Tan
+VAN HOLKEMA&amp;WARENDORF,
+Amsterdam.
+RELIEFSTEMPEL-ATELIER
+Invitatiekaarten
+MENU'S. BAWBOEKJES. enz.
+Atelier B. van Mantgem
+'SINGEL 562 hoek Vijzelstr. "
+In den Silveren
+Molenbeecker
+CORWS. SCHOORL
+Al l FFN Kalverstr. 32
+MLLCLtli /if^STERDA^
+Telefoon Noord 2149.
+Damestasschen met
+zilveren beugel.
+Onverslijtbaar, daar de
+beugel steeds van een
+nieuwe tasch kan wor
+
+den voorzien.
+PRIJSCOURANT WORDT OP
+AANVRAGE TOEGEZONDEN.
+
+Ruime sorteering in: zilver werken pre
+
+senteerbladen, broodmanden, enz. enz.
+Bestel Uw Jacht bij de
+N.V. HAARLEHSCHE JACHTWERF
+Dir. H. W. DE VOOGT.
+Woord.ejr Spaar-iie, Haarlem.
+KÜNDIGSTE EN MODERNSTE UITVOERING.
+Ontvang-en de nieuwe
+HEIDEN
+PETER LUIKS *1 Co., Paleisstraat 4-41.
+EISENLOEFFEL'8 KUNSTHANDEL
+ROKIN 56 v/h. WED. C. DORENS &amp; ZOON, AMSTERDAM
+H. G. BBEITNER. Klenrets gedrukt in 200 exemplaren.
+N.V. TECHNISCH BUREAU v/h. MOENS &amp; BECK,
+AMSTERDAM, ROKIN 12 2.
+Importeurs van
+
+
+Haringgraatstaal.
+Brandvrfl [materiaal voor plafonds, vrijstaande
+wanden, trapbeschietingen, enz. in Eerken,
+Scholen, Kantoorgebouwen, Fabrieken, Schouw
+
+burgen, Woonhuizen, Boerderijen, Stallen, enz.
+Monsters en nieuwe prospectus-prijscourant
+worden op aanvraag gratis toegezonden.
+VOOR ECHTE BOLLAHDSCHE JOHGENS
+\
+die nooit op hun goed
+letten en Woensdag
+
+middag toch keurig
+gekleed met Moeder
+uitgaan, is het beste
+adres
+H. HQLLENKAMP &amp; Co.,
+Hoofdmag. Tijzelstr. lik. Keizersgr. Fil. Oude Doeleiistr.
+Verder Filialen in Rotterdam, Den Bosch, Breda.
+Abonneert U op
+
+Groot-Nederland,
+
+Letterkundig Maandschrift voor
+den Nederlandschen stam, onder
+Redactie van CYRIEL BUYSSE,
+FRANS COENEN en LOUIS
+COUPERUS.
+Prijs per jaargang ƒ 12.50
+Proefnummers zenden gratis de
+Uitgevers VAN HOLKEMA &amp;
+WARENDORF, Amsterdam.
+ny.pAERELS'
+lAVEUBILEERinG
+/AAAT5CHAPPIJI
+AAVSTERDAVA™^
+ilROKIM
+GED. OUDE GRACHT Q6
+TELEFOON INT. 2678
+
+A. PH. MEINSMA
+AMSTERDAM.
+MAGAZIJN VAN
+Echte Bronzen Pendule-Garnifuren
+in alle stijlen.
+Verlichtings-artikelen v. gas en elec. licht.
+Hooïfertegeiiwoortigers van let ORFEVRERIE CHR1STOFLE.
+VEERHOFF &amp; Co. 42 Kalverstraat.
+•wiiwwwfwfiiwwfiwfftwfa
+PERRY &amp; C°,
+PETROLEUMKACHELTJES
+REGENJASSEN
+REGENMANTELS
+KALVERSTRAAT 95, AMSTERDAM
+-
+INSTALLATlE-BUREAUvooR
+CENTRALE VERWARMING.
+
+Hinkelmann &amp; Zonen.
+PLANNEN EN BEGROOTING KOSTELOOS.
+ZEIST.
+DRAADLOOZE TELEGRAFIE
+(Examen voor Leerling-Telegrafist bij de S. A. I. T.)
+SINDS l JANUARI 1914 ZIJN VAN ONZE BENEN
+WKRTKw (81) CANDIDATEN .DERTIG (3O)
+GESLAAGD, TERWIJL l HEREXAMEN NOG MOET
+PLAATS VINDEN. OMTRENT TOELATING TOT ONZE
+SCHOOL, LEERJAAR 1915-1916 RAADPLEGE MEN
+ONS PROSPECTUS R. _-
+-AANVANG V/D NIEUWE CURSUS BEGIN SEPTEMBER
+THE ROTTERDAM WIRELESS
+TRAINING COLLEGE
+GE BOUW PLAN C, INGANG GELDERSCHESTRAAT 10.
+VRAAGT CATALOGUS
+
+
+</text>
+<image timestamp="2002:08:21:23:13:48.00" size="289987">D400021D.TIF</image>
+</page>
+</document>

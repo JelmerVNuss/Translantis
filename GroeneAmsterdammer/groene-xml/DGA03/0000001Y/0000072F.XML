@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281110</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 10 NOVEMBER 1928
+No. 2684
+Amstcrdamsche Hypotheekbank
+HEERENGRACHT 581, AMSTERDAM
+OPGERICHT l 882
+Geeft uit: 4'/2 pCts. PANDBRIEVEN
+
+HHZ in stukken van IZZZ
+
+f 1000.- en f
+500+en sluit Leeningen onder Ie Hypothecair verband op
+zeer billijke conditiën. DE DIRECTIE.
+ALGEMEENE
+BYPOTHEEKBAE
+Gepl. Maatsch. Kap. f 2.700.000.
+Reserves + 1.000.000.
+Pandbriefomloop + 25 millioen Gld.
+
+4112 pCt. PANDBRIEVEN
+' tegen beurskoers.
+Behooren tot de beleggingsfondsen
+der RIJKSPOSTSPAARBANK
+
+nir..i,lir,n.( Mr. L. l. Van Tou'on Van der Koog
+"'""'"""iHr.K.S.ÏanKappen.
+Rott Hypotheekbank v. Nederland
+Opgericht in 1864
+Voltcekend Maatschappelijk Kapitaal
+f 5.000.000.
+
+Verstrekt geld op eerste hypotheek.
+Voor Inlichtingen wende men zich tot
+het kantoor der Bank, Ged. Bierhaven 25
+te R'dam of tot hare Agenten.
+De Directie :
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wyk,
+Mr. B. van Rossein.
+
+
+d
+ti
+t.
+«
+5
+5,
+
+4'/2 /0
+PanÉieven INSULAIRE
+Hypotheekbank te Zierikzee
+99%
+
+STANDAARD
+HYPO TH E EK BAN K
+te ROTTERDAM
+Directie:
+Mt. H. H. C. CASTENDIJK en
+ƒ. MOSSELMAN
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+H%Pandbrie«en tegen beurskoers alt.
+LEVENSVERZEKERING MAATSCHAPPIJ
+Verzekert U volgens het fl H7 K l LJ C" hA
+Dubbele Voorzorgtarief HlXlN H LlY\
+Billijk Doelmatig.
+Nederlandsche
+
+Handel - Maatschappij
+AMSTERDAM.
+Gestort Kapitaal	f 80,000,000.—.
+Statutaire Reserve	f 40,000,000.—.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China, Japan en Arabi
+In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen .—Schriftelijke en Telegrafische
+Credieten .—Reiscredietbrieven .—Deposito's
+RekeningenCourant Aan- en Verkoop van Effecten Administratie
+van Vermogens Open en Gesloten Bewaarneming.
+SAFE-DEPOSIT. KOFFERKLUIS.
+Inrichting tot het plaatsen van brandkasten. Speciale gelegenheid
+tot het huren van afzonderlijke kluizen voor groote administraties.
+JDeXTaar
+aarlemscne
+Hypotheekbank
+Leden der Directie: vQ2ti_iS&gt;' Mr. A. S. M I E D E M A,
+
+P. H. CRAANDJJK en A. E. TH1ERRY DE BYE DOLLEMAN
+
+Kapitaal. . f 3.500.000.—Pandtrieven f 34.0100^5.
+Hypotheken f 34555.850.—Reserves . . f 867.1M3.
+
+4J pCt. PANDBRIEVEN TEGEN LAATSTEN AMSTERD. BEURSKOERS
+ROTTERDAMSCHE
+SCHEEPSHYPOTHEEKBANK
+HARINGVLIET 98
+UITGIFTE van
+
+5°|0 Pandbrieven tegen 100
+De Directeur: Mr. W. C. MEES
+HOOFDKANTOOR*
+
+KEIZERSGRACHT 570.
+
+AMSTERDAM.
+OPGERICHT Aa. 1B94.
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert, behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE en TRANS
+
+PORT-, ONGEVALLEN- en WATERLEIDINGSCHADE.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en cnder borgtocht, met
+In pand^eving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+5 % schuldbrieven in stukken van f 1000.
+500 - en f 100.- tpQpn den koers van 97°,^.
+
+o
+OBLIGAHEN
+/GDONDBdB'RXV
+DER
+1NBDEDLANDSCHL
+GIX^DÏMEFMNK
+ANNO 19O6
+
+</text>
+<image timestamp="2002:09:05:14:52:44.00" size="140375">0000072F.TIF</image>
+</page>
+</document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020427</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1296
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLANB.
+Vredesonderhandelingen van Engeland met de Boeren.
+De Russische spionage. (Der Floh).
+CHAMBEBLAIN : «Lekker smaakt die pjjp toch niet."
+De reis naar Oom Nicolaas. (Ulk).
+Engelsche taktiek. (La vie pour Sire}.
+en nu heel liet en aardig wezen te Petersburg. En als Oom
+Nicolaas wat van jou hebben wil, vergeet dan niet, hem te bedanken.
+DE FBANSCHE MINISTEB VAN OORLOG : »Het is zeer te bt-j «mmeren, waarde
+vriend en bondgenoot dat die ellendige verrader, Gritmn, d-e allergeheimste militaire
+plannen van Rusland san andere mogendheden heeft nu iedeeld."
+DE RUSSISCHE MINISTER VAN OORLOG : «Vadertje l vaderj&lt;i! maak je daar niet
+ongerust over. Wat Jietft hij verraden? Niets heeft hij verraden, de ellendeling!
+U weet toch vadertje, dat vestingen, kanonnen, waper.s, amiiunitie, voorraden en
+uitrustingen in Rusland alleen op het papier bestaan."
+Oah l geld weigeren om zyn land te verkoopen ?
+zullen nooit een beschaafd volk worden.
+Die Boeren
+Zauaerling l Ik heb er slfcg van om andermans pot te kuiü--j «n met
+eigen lukt het maar niet. ^. l u^iJ«»a .-,,; (Fiichietto).
+Het systeem der tegenwichten in Oost-Azië. (O(K).
+Pontet Vïiu
+gruul kti/.er.
+(Life).
+
+
+</text>
+<image timestamp="2002:08:17:17:26:54.00" size="374143">D2001CD.TIF</image>
+</page>
+</document>

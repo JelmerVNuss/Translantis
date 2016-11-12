@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920918</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Frankrijk en Italiëop de Columbusfeesten.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 18 September 1892.
+-J&amp;&amp;
+
+-: A'
+**,
+:g-.i- '•»*«^S^&gt;'«'^5;^.J^,1»"_
+cT^
+/ ; ,.-• / • ;
+' 3 '\ f-.- ' ' ^ * '' " ' ' * f
+AinM. r.ock- en 8teen&lt;irukkerij, v/h. Ellerman, Harms A: Co.
+
+
+COIAJMBUS. Die twee samen! Dat's nog sterker stuk dan mijn heelt; ei!
+
+</text>
+<image timestamp="2002:10:02:01:22:00.00" size="236331">D10008R4.TIF</image>
+</page>
+</document>

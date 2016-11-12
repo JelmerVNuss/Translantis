@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300809</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 9 AUGUSTUS 1930
+No. 2775
+l
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+1EGRAFENISSEN (naar VERKIEZING net RIJTUIGEN of AUTO'S]
+CREMATIE. - TRANSPORTEN.
+N. V. Meubelmagazijn Eden"
+MOLSTEEG ~ AMSTERDAM
+BOEKENKASTEN
+BJASPSBOMMEL'
+BOB^BINDER
+KERKSTRAAT 58
+AMSTHIOAM
+BEGRAFENISVEREENIGING
+N. SAX Jt.
+P .C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+G, J, DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+GASFORNUIZEN.
+Clichec/*
+Voor alle doeleinden
+k NV
+P Chem.KunMinrtchting
+JDirkSchnabei
+Amsterdam. *
+Koldewey &amp; Corbière
+Lcidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+PENSION IER RANG
+POUR JEUNES FILLES DE BONNE FAMILLE
+excellente nourriture
+Belle situation, chambres confortables
+Mademoiselles DE BROT
+Villa Grammont 14 Ave des Alpes LAUSANNE
+faculléde recevoir l'eiueignement du fraiifau et de
+L'anglau a la maison, ou. cle &lt;juu&gt;re lej courj de
+iUnweróde et deó colej de inusique.
+Réjérencej en HolLande:
+Mademoióelte N. Jf. Middelbeek
+Flatgeb. Zorgvliet LA HAYE
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinr
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:00:13:44.00" size="114249">000009GI.TIF</image>
+</page>
+</document>

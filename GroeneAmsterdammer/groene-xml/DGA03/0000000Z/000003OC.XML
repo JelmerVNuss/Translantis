@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970228</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De toepassing van het Volkenrecht.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 28 Februari 1897.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+KEIZER WILHELM (tot Griekenland): Kinderen eten niet mee met groote menschen, zoo zijn onze tafelwetten.
+
+</text>
+<image timestamp="2002:08:21:11:26:01.00" size="280509">000003OC.TIF</image>
+</page>
+</document>

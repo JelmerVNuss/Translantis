@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991112</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Engelsch-Transvaalsche Oorlog.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 12 November 1899.
+Amsi. Hoek- en Stecixlrukkcrii, v/h. Kllennan, liarnis &amp; Co
+(t(&gt;{ Jskt! HttU.j: Kan je hot: rr mee doen, of wiui je no&lt;/ meer hebben :
+
+</text>
+<image timestamp="2002:08:13:22:14:51.00" size="440538">D20009Q.TIF</image>
+</page>
+</document>

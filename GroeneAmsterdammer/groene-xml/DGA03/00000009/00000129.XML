@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19071006</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMEU WEEKBLAD VOOR NEDERLAND.
+No. 1580
+7;
+V, L
+'*rtf
+"i *r» \
+rr»-,»
+rrk
+[[MM*
+|TT1«»
+r^r||»
+rr»»
+j '	! !
+
+r,;4n r^ / •
+
+
+i' l 'r^' \"i
+; l l l l LTTMT» l l
+l i
+• i i
+
+
+p
+^»
+&lt;&amp;*?
+-*l
+iM 11
+
+i
+
+', ;
+'- V
+i.v\\
+'* \\
+lvAA
+; ik_Y\ V
+\
+
+/r»!*•'*' 1
+^
+'V n*
+,"T «,'lfc \
+'»-H*
+•rf '
+11»
+Jvrrf
+
+
+M n
+'\,
+TV
+V*
+1 '
+»:*
+i")
+_\,
+,1 , . 1
+
+|T»TTT»
+»!'»
+
+
+
+M**
+
+i»Tti»
+^
+'«tti» O n T;
+
+. . \ ' M
+.
+P
+
+
+CD'
+•»rti»
+
+i»HV
+! 'il
+
+-r [f1
+pn
+11
+rH*
+• »ii j«
+H'
+«rti»
+i,: /
+N
+
+
+P
+CQ
+o
+C3"
+?B
+
+P
+
+O
+ca
+K
+t&gt;
+w
+CD
+
+
+
+
+&lt;
+tn
+po
+PO
+tn
+
+
+w
+rn
+
+a
+m
+XJ
+z
+a
+
+o
+:c
+m
+H
+rn
+&lt;
+rn
+5 Z
+lij
+
+z
+(75
+
+H
+
+O
+
+O
+
+Z
+m
+£i*
+i *rj»
+TI W»
+/ P H
+P n
+
+si,ij'w^ x
+L,„\ i
+Tt&gt;» l
+
+
+Uri&gt;' x
+
+-r';»* \ X ^ H l
+. i : j
+
+
+
+~^~ ^ f
+
+^'«* |
+v&gt;
+l \vt^' . !';
+VVTT» / £-. v»
+VI m 4
+
+l l '
+-•il»
+
+n !*i
+
+
+'*!!'*
+f-nlX
+v;
+^* '
+s
+••ti&gt; s.
+
+-T—T-AJ. \
+-M h
+II
+
+/' R ^1
+
+ir
+11»_. i
+/
+
+</text>
+<image timestamp="2002:08:13:06:02:31.00" size="140422">00000129.TIF</image>
+</page>
+</document>

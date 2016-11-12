@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280825</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Qkrzoti
+A. KINDERJURK
+van zuiver wollen fantasiestof,
+met effen zakjes X^'TC
+en garnering ir^
+Maat 60	V? =
+75 ets. stijging p. maat
+
+B. KINDERJURK
+van prima wolten crêpe, biezen
+en kraag in bijpas
+
+sende kleur, moderne
+tinten. Maat 60 ...
+75 ets. stijging p. maat
+975
+MUZIEK- EN SCHOOLTAS
+Prima rundieder, riemen &amp; hand
+
+vat^ van extra solide
+cwaliteit, licht-&amp;
+doncerbruin, 33X23 cM.
+IDEM 40 X 31
+eentimeter
+IDEM 42 X 31
+timeter
+5.25
+VOOR DE SCHOOL
+KINDERHOED
+van prima duvetine,
+geheel soepel met
+doorgestikte rand
+222
+MEISJESHOED
+vem prima duvetine,
+m. ribslint-garneering
+en doorgeslikte rand
+4=
+MEISJESHOED
+prima duvetine met
+nappaledeten
+garnering,doorgestikte rand
+5=
+ONZE BEKENDE WOLLEN
+
+SCHOOLTRUI
+voorradig in beige, lila bleu,
+groen, - grijs, - marine. - wit
+en diverse mixed- 4 7 C
+kleuren, Leeftijd l / »&gt;
+2 jaar	X =
+25 cent stijging per maat.
+Voorradig tot leeftijd 12 jaar
+SCHOOLBROEKEN
+Manchester, geheel -^	•
+gevoerd, leertijd
+2JJ
+3 jaar
+15 ets. stijging p- maat
+IM. WILDLEDER
+de ideale schoolkleding,
+leeftijd van 7 £25 f OC?
+tot 12 jaar . . U =
+leeftijd van 5—6 jaar
+SCHOENEN
+JONGENS MOLIÈRES
+zwart bozcalf
+maten 36 39 6.50
+maten 32 35 5.90
+maten 28 31 . . .
+GYMNASTIEKSCHOENEN
+zwart, pr. kwaliteit,
+maten 36—42 1.90
+maten 29—35. . . .
+5=
+J55
+JONGENS BOTTINES
+zwart boxcalf
+maten 36 39 6.75
+maten 32 35 6.25
+maten 28 31 . . .
+IDEM, in bruin
+maten 36 39 7.25
+maten 32 35 6.50
+maten 28 31 ...
+57J
+Q&amp;raoti
+SPORTBLOUSES
+Flanel, effen en ge- &lt;"&gt;/"k["
+streepte dessins, M\J&amp;
+leeftijd 4 jaar .... «W ^Z
+15 ets stijging p. maat
+Voorradig tot leeftijd 14 jaar.
+
+ENGELSE
+SPORTCOSTUUMS
+nieuwe dessins,
+leeftijd 9 jaar . . .
+75 ets. stijg. p. maat
+Voorradig tot leeftijd 16 jaar.
+ONZE BEKENDE
+
+SCHOOLTAS
+donkerbruin leder - met twee
+mklc. sloten en extra
+versterkt handvat, af
+
+meting 40 X 27 cM.
+IDEM van prima
+vol rundieder, extra
+solide kwaliteit . . .
+
+
+</text>
+<image timestamp="2002:09:05:03:51:21.00" size="131608">000006V2.TIF</image>
+</page>
+</document>

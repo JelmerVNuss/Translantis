@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270521</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ZEI LI N G A
+NKANT 38 AMSTERDAM
+*. K AM PEERTENTEN
+VELDTENTEN
+STRANDTENTEN
+\*' TUINTENTEN.
+Vraagt onze geïllustreerde prijscourant.
+CAfiO's
+JACHT2EILEN.
+IfSTA-ARTIKELEN tegen sterk verlaagde prijzen.
+Een uitnemend boek
+HET OUDE HUIS
+. DOOR
+/i CECILE TORMAY
+-J ., PRIJS GEBONDEN FL 1.50
+Geïllustreerd omslag van B. VAN VLIJMEN
+' - D$fr;-trerk is een boek, dat men met spannende aandacht
+ten; einde leest en keurig mooi is uitgegeven.
+':•,'•• Nieuw Vrouwenleven
+Uitgave van V-ad Holkema &amp; Warendorf's Uitg.-Mij. Amsterdam
+* *.,
+IKIPS &amp; C2.!
+SCHIEDAM |
+Plaatijzeren Reservoirs, Blusleidingen, $
+Scheeps-Tanks $
+AUTOGENE LASSCHING
+Engelsch Plated (verzilverd)
+Groenteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+ZIJLSTRA &amp;RUPP
+PIÜKOsenllKEU
+110.-en 15-pei maand.
+Vraait iialis calalogus Ho. 83
+II.UBIh.KLFr
+MARIUS - Utrecht
+Iedereen zijn eigen
+
+WEERPROFEET l
+Geregeld gebruik van
+eenWEERTELEGRAAF
+behoedt U voor teleur
+
+stelling op komende
+uitstapjes.
+Offerte op aanvraag.
+J, P. KARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+&lt;~ RIJKE «*
+SORTEERING
+Verpakking 4. 10 en 100 stuks
+SOPLA-sigaren: pakje van S stuks 25 et.
+In alle sigarenwinkels.
+HOUBAER &amp; Co. AMERSFOORT
+g]
+U
+m
+Wed.H.RAHDER6Z«.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+•«N» VGravenhage &lt;*&gt;*•
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Pd)«couranten worden op aanvrage gaarne toegezonden
+VOOP EXPORT SPRCIAI.F CONDITIEN
+CENTRALE VERWARMING
+volgens elk systeem
+W ARMWATER VOORZIENING
+door middel van ketel, fornuis of gaoapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+HUNCK 6 ZOON
+King V/illiam iv
+SCOTS WHISKY
+VERTEGENWOORDIGD DOOR:
+N.V. HOOGEWERFF, CHABOT &amp; VISSER'S WIJNHANDEL
+DEN HAAG. ROTTERDAM. ARNHEM.
+BQOmOTOREH
+«Sterling* Crar
+'m Voorraad. VOM. 5 "500 p.k.
+kop tc^^-S^H wuxqtt^^t e*vzt U
+apecioi i X - at .\»:.C£..^A. j
+:. w apcc*a*M
+wüfbootttt
+•oiW -voor klewe jBciri/l
+iaat&amp; v a* t ^»tuJ"cntooï^
+
+GEBRf. WILLINK, ,03.,
+AMSTERDAM
+N.V. D* Hogenbirk 8 Zoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), TeL M42
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+: ffdtfUma Hekwerk» ei Dntubftclieidlngcii, Dircrac Vkebtwwfcn
+CHAMPAGNE BOUVIER FRÈRES
+Vin ouisse
+QualitéExcellente
+© © © ©
+VAN STRAALEN M.ONSIEUR &amp; ERKELENS
+DEN HAAG
+W1JNHANDELAREN
+ROTTERDAM
+Leuvekaven 34
+HELDER
+F IA T A U T O^M O B I E L E N
+Agent voor het geheele Gooi: Auto Garage Kroijmans
+Soestdijkèrstraatweg 66 HILVERSUM^—Tel. 306
+Bezoekt s»v.t&gt;. onze SHOWROOM en,.vraagt demonstratie
+PRIJZEN VANAF F 2200.—.
+LI P S &amp; PETERS
+Vraagt Catalogus
+mét
+prijzen
+voor uwejongens^ Meisjes
+tot 15 jaar
+Is het eenige s(peciaal-huis en best;: gesorteerd
+adres voor Jurken - Mantels I
+Kalverstr. 109-1 11
+Pakken - Jassen en Onderkleeding AMSTERDAM.
+
+</text>
+<image timestamp="2002:09:21:07:42:45.00" size="168957">D10006HT.TIF</image>
+</page>
+</document>

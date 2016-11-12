@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280407</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE 'GROENE -AMSTERDAMMER VAN 7 APRIL 1928
+No. 2655
+• IIIDKtMEilNIICHTINGEN
+nowel eenvoudige als betere uitvoering.
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+SLEIPNER
+Jje &amp;esie sigaret ix&gt;or3*
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+f 65.- af
+HOTEL-RESTAURANT
+
+PRINCESS HOUSE11 ZANDVOORT
+is heropend. Stroomend water op alle kamers.
+• va" Zaterdag vóór diner tot Dinsdag
+• na ontbijt f 10.—en f 12.50
+FAMIATE
+mJ V* R.v^NTniEL
+QROOTE rOlTSTF.101103
+PERZISCHE TAPIJTEPf
+EXPORT NAAR DUITSCtlLAND.
+SPECIALE CONDITIEN
+IIIIIIIIIIIIIIIIIIIIIIIIIT
+A. W EI L L
+Barteljorisstraat 26-28 ~ HAARLEM
+Tel. 10604
+BONTWERKER
+Repareeren
+Bewaren vanPelterijen gedurende den Zomer
+Vermaken
+Voornaamste Kleedininrichtin
+
+</text>
+<image timestamp="2002:09:04:10:31:43.00" size="104077">000006G0.TIF</image>
+</page>
+</document>

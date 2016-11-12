@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261127</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DÉGROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2582
+4
+1,
+K'
+iTMTTTTTTTTTTTT T T 'T T TT T T T T T T T T T T T T T T TTTTMMTiiiTliTTTTTTTTTT TT I TiMiiTTTTTTfi
+gij voorkomt dan teleurstelling! - de
+vraag naar Djroste-artikelen is groot
+Gij geeft toch graag iets goeds?
+Droste-artikelen genieten nu eenmaal
+onbegrensd vertrouwen, bij ver
+
+bruiker zoowel als winkelier.
+Vanaf de oprichting van onze fabriek
+hebben wij ons als doel gesteld: Het
+beste in alle opzichten. Dit doel
+hebben wij bereikt; die eens het merk
+Droste kocht, is en blijft een trouw
+verbruiker.
+Verhoogt de vreugde van het
+Sint Nicola'asfeest en de gezel
+
+ligheid der winteravonden
+door het schenken van
+DROSTE'S VERPLEEGSTER-CACAO
+VERKOOPPRIJZEN
+Gewicht ca 80 Gram 30 et p. st.
+Gewicht ca, 150 Gram 55 et p. st
+Gewicht ca. 250 Gram 95 et p. st.
+Letter I resp. 20, 40 en 75 et p. st.
+Letters M en W respectievelijk
+37i 75 en 115 cent per stuk.
+DROSTE'S CACAO-EN CHOCOLADEFABRIEKEN—HAARLEM =
+
+Ml l l 1111 illl Illl UMI l l l II l l l l l M l l M M l l i l II M l l l l l l l J l l l l U M l l l l J l l l l II l l l M l l l l l M l l l li l II N l U l l i H l III
+
+
+</text>
+<image timestamp="2002:09:26:10:39:20.00" size="135865">D100085N.TIF</image>
+</page>
+</document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19041009</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Drankwet in de Eerste Kamer.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 9 October 1904.
+Uk 5^T«* o» K v» s -'
+Amst. Hoek- en Steendrukkerij. v h.Kllerman, Harms &amp; Co.
+KUYPER (tot i'. Houten): En hoc vind je nu wel mijn eerste dochtertje, dat ik je presenteer? Ben je ook zoo verrukt als Lohman,
+toen hij haar zag? Wat een fijn snoetje, hèen dat jurkje... heelemaal mijn werk... oorspronkelijk, geen modeplaat bij geraadpleegd..."
+v. HOUTEN: Zeker... ze moeten het wel zien: dat is nieuwe plunje!"
+
+</text>
+<image timestamp="2002:08:16:00:28:55.00" size="246976">D10000JZ.TIF</image>
+</page>
+</document>

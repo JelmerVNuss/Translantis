@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2500
+VIJF JAREN LUCHTVERKEER
+
+clnor A. H. G. FOKKCR
+Het is thans 5 jaar geleden, dat de eerste
+Fokker-verkeersmachines, waarvan het eerste type
+in 1919 gebouwd werd, in het regelmatig lucht
+
+verkeer werden opgenomen, en waar deze
+5-jarige periode als het ware het eerste lustrum van
+het luchtverkeer afsluit, acht ik mij gelukkig in
+dit Jubileumnummer deze eerste periode van het
+verkeer te mogen overzien, waarbij ik dan con
+
+stateer, dat zich in dat tijdperk een bepaalde
+tegenstelling geaccentueerd heeft.
+Eenerzijds toch leverde dit tijdperk feitelijk
+een teleurstelling op voor velen, die kort na den
+oorlog vervuld van enthusiasme voor den enormen
+Vjoruitgang der avntiek in den oorlogstijd, doch
+als buitenstaanders onbekend met de groote
+moeilijkheden van het luchtverkeersvraagstuk,
+een zeer spoedigen schitterenden opbloei van het
+luchtverkeer verwachtten, terwijl anderzijds die
+
+zelfde periode voor de insiders, die de moeilijk
+
+heden zoowel uit een technisch als
+verkeersoogpunt konden overzien, een openbaring is geweest
+van het vele, waartoe het luchtverkeer eens in
+staat zal zijn, een bewijs, dat hun vertrouwen op
+een uiteindelijk succes gerechtvaardigd was.
+Wanneer ik mij daarbij aan een vergelijking
+mag wagen, dan zou gezegd kunnen worden, dat
+de eerste categorie te vergelijken ware met een
+tuineigenaar, die nadat hij in een vreemd land
+een schitterende plant had zien groeien , het daar
+
+uit verkregen zaad had gebracht in den killen
+grond van zijn tuintje en nu verwachtte ook wel
+
+dra zoo'n prachtige plant te bezitten, om dan tot
+zijn spijt te ontwaren, dat hij slechts met zware
+bemesting en groote voorzorgen de teere ontloken
+zaailing in het leven kon houden; terwijl de tweede
+categorie te vergelijken is met een beroepstuinier,
+die zich welbewust zijnde dat de nieuwe bodem
+waarop gezaaid moest worden een geheel andere
+was , voorbereid was op de noodzakelijkheid
+van de grootst mogelijke voorzorgen en die, spoe
+
+diger dan hij had durven hopen, in het jonge met
+zooveel zorg gekoesterde plantje een vitaliteit
+bemerkt, die hem als kenner doet verwachten, dat
+het beschuttend glas weldra kan worden wegge
+
+nomen en de extra bemesting op den duur niet
+meer noodig zal blijken.
+Op dit oogenblik is het luchtverkeer nog zulk
+een kasplantje.
+
+Verkeerstechnisch beschouwd schuilde er in den
+opzet om tot geregeld luchtverkeer te geraken
+aanvankelijk een groote speculatieve factor, im
+
+mers men wist ,,next to nothing" van de kosten
+van het bedrijf, van den levensduur van de machi
+
+nes, van de te bereiken regelmaat in het verkeer
+en van de te verwachten verkeersintensiteit, doch
+men had slechts n uitgangspunt: het luchtver
+
+keer is sneller dan eenig ander verkeersmiddel
+en waar de zucht naar snelheid het kenmerk van
+het moderne leven is, voelde men zich sterk door de
+overweging, dat al zou het luchtverkeer ook
+duur zijn , de tijdsbesparing voor den modernen
+zakenman zooveel waarde zou hebben, dat hij
+bereid zou zijn daartoe een hoogen prijs te beta
+
+len. In haar algemeenheid heeft die redeneering
+gefaald. Bij de betrekkelijk korte afstanden, waar
+
+mede het luchtverkeer in dit eerste
+experimenteele stadium z'n intrede deed, is de voortreffe
+
+lijkheid der reeds bestaande communicatiemid
+
+delen, spoorweg met nachtverbinding, telegraaf
+en telefoon, oorzaak, dat het voordeel van het
+luchtverkeer niet in zóó hooge mate als noodig
+zou zijn om het rendeerend te maken, tot den za
+
+kenman kon spreken.
+Wij leven daarom op luchtverkeersgebied thans
+nog in een tijdperk, dat geheel overeenkomt met
+de jaren na '30 uit de vorige eeuw, toen de eerste
+stappen werden gedaan, om te geraken tot het
+spoorwegverkeer. Evenmin als het spoorlijntje
+Amsterdam—Haarlem over een onbeteekenenden
+afstand van 18 K-M., die toen reeds met goede
+postpaarden binnen een uur werd afgelegd, op
+zichzelf beschouwd maatgevend kon wezen voor
+de toekomst van het spoorwegverkeer, evenmin
+mag men naar de resultaten der luchtlijntjes
+Amsterdam—Londen, Parijs—Londen etc., over
+in verhouding even onbeteekenende afstanden,
+een oordeel vellen over het luchtverkeer.
+Bij zulke kleine- en van goede verbindingen
+voorziene trajecten kan het voordeel van het snel
+
+verkeer, n.l. de tijdwinst, niet voldoende tot zijn
+recht komen, terwijl de nadeelen in financieelen
+zin overdreven hoog worden, omdat de kosten der
+exploitatie, grond-organisatie, berichtendienst etc.
+etc., welke bij langere lijnen niet in dezelfde
+verhouding als de lijnverknging stijgen, overeen
+te klein aantal machine-Kilometers moeten wor
+
+den omgeslagen.
+Doch een begin moet gemaakt^worden; slechts
+door ervaring leert men hoe de exploitatie moet
+worden en evenmin als men het spoorwegverkeer
+begonnen is met den aanleg van een lijn van
+Calais naar Konstantinopel of van Petrograd naar
+Wladiwostok, evenmin kon men het wagen zon
+
+der die ervaring de groote verbindingen, waarin
+de toekomst van het luchtverkeer ligt, direct tot
+stand te brengen. Met moeite en kosten wordt die
+ervaring thans verkregen.
+De verdere ontwikkelingsgang zal beheerscht
+worden cenerzijds door het streven om verbin
+
+dingen te scheppen, waarbij de tijdwinst belangrijk
+kan zijn en tevens algemeene waarde heeft, ander
+
+zijds door het zoeken naar technische verbeterin
+
+gen, die het rendement van liet luchtverkeer zul
+
+len verhoogen !
+Het eerste streven beteekent, dat men moet
+zoeken naar lange verbindingen, die punten ver
+
+eenigen waartusschen een intensief verkeer
+heerscht. Dit is noodzakelijk, omdat anders de
+tijdwinst niet voldoende waarde heeft en een
+geringe verkeersfrequentie anders de rentabiliteit
+van het verkeer weer in het gedrang zou brengen.
+Het bezwaar is echter, dat juist de punten, waar
+
+tusschen intensieve handelsrelaties bestaan, ook
+reeds gewoonlijk goede verbindingen van anderen
+aard hebben, zoodat het luchtverkeer, dat natuur
+
+lijk zich zeer gemakkelijk superieur kan toonen
+in streken waar geen goede verbindingen bestaan,
+door die bestaande verbindingen gehandicapt is.
+Toch moet men het daar zoeken en zich niet
+verkijken op luchtlijnen in streken, waar door
+gebrek aan verbindingen het nut van het lucht
+
+verkeer wel zeer zou spreken, doch waar ook, door
+ditzelfde gebrek, de verkeersfrequentie gering is.
+Wel is het een feit, dat verkeersmiddelen ook
+verkeer scheppen, doch vooralsnog zal het
+luchtvaartuig niet een massa-verkeersmiddel zijn,
+waardoor groote verschuivingen van economische
+belangen met het daaropvolgende verkeer te ver
+
+wachten zijn.
+Doch in de genoemde richtingen zijn ongetwij
+
+feld belangrijke verbindingen te vinden, zooals
+bijv. in zeer grove trekken:
+l. Engeland—Midden-Europa
+KonstantinopelBagdad—Engelsen-Indie—Nederlandsch Indi
+Australië.
+2. Rusland—Midden-Europa—Engeland
+New-York—San Francisco.
+3. Canada—Noord Amerika—Midden Amerika
+Zuid-Amerika (Buenos Airos) langs Oost- en
+Westkust.
+4. Amerika Westkust—Japan met vertakking
+SiberiëRusland, aansluitend bij 2 en China
+Engelsch Indië, aansluitend bij 1.
+Op deze hoofdlijnen zijn zijlijnen mogelijk,
+waarlangs voldoende verkeersfrequentie is. Zulk
+een is bijv. de lijn Manchester—Londen—Rotter
+
+dam Amsterdam Berlijn—Warschau—Moskau
+of ScandinaviëDenemarken—Berlijn—Praag
+Wecnen—Italië, of Noord-Afrika—Spanje—Parijs.
+Op de zeer korte trajecten heeft het
+luchtverkeer voor personenvervoer alleen
+dan beteekenis, wanneer de verkeers
+
+frequentie zóó groot is, dat men een
+verkeer kan doen ontstaan, waarbij men
+niet aan n bepaald vertrckuur gebon
+
+den is, doch op elk uur van den dag,
+met hoogstens de kans van een uur
+wachten, een toestel tot vertrek gereed
+vindt. Jammer genoeg zijn er slechts
+enkele groote centra,waartusschen eenzoo
+intensief verkeer zou kunnen bestaan.
+Ook op de korte trajecten echter heeft
+het luchtverkeer wel beteekenis, wan
+
+neer men zich slechts losmaakt van het
+idee, dat dit transportmiddel in hoofd
+
+zaak het personenvervoer moet dienen.
+Inderdaad is dit reeds thans niet het ge
+
+val. Men vergelijke slechts de volgende
+reeds meer dan een jaar oude cijfers:
+In het jaar 1923 werden op de ver
+schillende Fransche luchtlijnen vervoerd
+ca. 11.000 passagiers (die dus ongeveer
+850.000 Kg. last vertegenwoordigen) en
+tevens ca. n millioen Kg. goederen en
+330.000 KG- post, m.a.w. het goederen
+
+en mailvervoer was meer dan H maal
+grooter dan het personenvervoer.
+De beteekenis van het postvervoer per
+vliegtuig zou reeds thans veel grooter
+kunnen zijn, indiende postautoriteiten in
+verschillende landen geheel onbevangen
+tegenoverhet vraagstukstonden.De lucht
+verkeersmaatschappijen rekenen bij het personen
+
+vervoer per passagier op circa 90 Kg. te vervoeren
+gewicht (inclusief handbagage) en berekenen hier
+
+voor een passageprijs, die indien voldoende toe
+
+stellen steeds tot hun volle laadvermogen bezet
+werden , het bedrijf rendabel zou kunnen maken.
+Welnu, 90Kg. aan brieven vertegenwoordigt a 20
+gr. per brief 4500brieven ; d.w.z. f 900.—betaalde
+port. Voor die f900.—heeft het publiek recht op
+de werking van het geheele internationale
+post-apparaat, inhoudende buslichting, sortee
+
+ring, stempeling, afzending, transport, distributie,
+sorteering en bestelling, en het spreekt vanzelf,
+dat in dit geheel de transportkosten slechts een
+gering aandeel mogen vormen. Doch wanneer op
+trajecten als Amsterdam—Londen, Amsterdam
+Parijs, dit aandeel der transportkosten slechts
+5"u zou mogen zijn (en dit is toch waarlijk niet
+veel op zulke trajecten) dan zou daarmede reeds
+een betaling zijn geleverd, die equivalent was aan
+hetgeen de luchtverkeersmaatschappijen op die
+trajecten voor het vervoer van een passagier
+moeten rekenen. Het grootste struikelblok voor
+een meer algemeene toepassing van het vlieg
+
+tuig in het postvervoer zijn de uitzonderingsbe
+
+palingen en uitzonderingstarieven (om nog niet
+eens te spreken van bijzondere postzegels).
+De aangewezen weg ware om het luchtverkeer
+op te nemen in het officieele postvervoer op den
+
+zelfden voet als andere vervoermiddelen, zonder
+extra port of bijzondere aanwijzingen, eenvoudig
+op de basis, dat het vervoer steeds werd geleid
+over den sndsten weg, zoodat bijv. post voor En
+
+geland, die te laat gebust werd om met de
+nachtboot over te gaan, a.h.w. automatisch bestemd
+werd om den volgenden morgen per \liegtuig
+overgebracht te worden.
+Thans subsidieert de Staat in bijna alle landen
+het luchtverkeer, dat zich niet kan bedruiptn,
+omdat de machines dikwijls niet volbeladen zijn.
+en tegelijkertijd onthoudt de staat aan dat lucht
+
+verkeer zeer belangrijke ladingen, door aan de
+luchtpost allerlei verzwarende en beperkende
+bepalingen te verbinden.
+In Amerika heeft men dit ingezien en de trans
+
+continentale postlijn, die door den Staat geëx
+
+ploiteerd wordt, werkt volgens dit beginsel.
+Door het succes van deze lijn w'ordt verkregen, dat
+de practische Amerikaan, die voorheen zeer
+sceptisch stond tegenover het luchtverkeer, om
+
+dat het, volgens berichten uit Europa, geen
+,,paying proposition" zou zijn, thans een groot inte
+
+resse aan den dag legt, zoodat een spoedige ont
+
+wikkeling van het Amerikaansche luchtverkeer
+te verwachten is.
+Intusschen beginnen de hierboven ontwikkelde
+ideeën steeds meer algemeen door te dringen en
+ziet men eenerzijds in het bestaande luchtver
+
+keer duidelijk een streven naar lange aaneenslui
+
+tende verbindingen, terwijl anderzijds op de korte
+bestaande verbindingen naast het personenver
+
+keer, het goederen- en postvervoer een stijgende
+beteekenis verkrijgt.
+Ter illustreering van een en ander moge bij
+
+gaande afbeelding dienen, die niet alleen toont,
+welke luchtlijnen in Europa thans met
+f-'okkervliegtuigen worden bediend, doch ook voor de
+5 belangrijkste Maatschappijen, die
+f-'okkermachines bezigen, de verhouding aangeeft, waarin
+het verkeer is toegenomen, sedert de eerste jaar
+
+gegevens beschikbaar waren, en de verdeeling
+van den te transporteeren last illustreert.
+Deze gegevens zijn een bewijs van geregelden
+vooruitgang en naarmate de ideeën omtrent
+Luchtverkeer helderder worden en men door het
+bezigen van in gebruik en onderhoud zuinige
+machines (zooals onze types F 111, F VU e.d.
+ongetwijfeld zijn) de kosten van het bedrijf weet
+te verminderen, zal men nader komen tot het
+oogenblik, waarop het luchtverkeer geen subsidies
+meer noodig heeft; de ontwikkeling, in de eerste
+5 jaar bereikt, rechtvaardigt ten volle een
+optimistischen kijk op de toekomst.
+
+</text>
+<image timestamp="2002:09:03:10:58:03.00" size="232862">000005MD.TIF</image>
+</page>
+</document>

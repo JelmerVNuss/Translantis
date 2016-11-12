@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140118</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+,10 Jan. '14. No, 1903
+DE ,AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+Het Amsterdamsche Ijsvermaak en de zachte Winters
+VOORHEEN
+en
+THANS
+Het leelljke jongste stuivertje
+
+(Teekening van ALBERT HAHN in de Notenkraker)
+Het Betersche voorbeeld (Simplicissimus)
+Mona LJsa terug (Simplicissimus)
+ARMOEDZAAIER : Wat ? Schelden ze allemaal op jou ? Kom dan
+maar bij mij, hoor, en neem desnoods je heele familie maar mee!
+De appels (Jagend)
+DE DRIEKONINGEN: Tot het jaar 2000 doen we nog
+mee, maar daarna laten we onze civiele lijst verhoogen l
+Vie de Bohème (Le Rire)
+Ze heeft een vlezen trek om den neus!
+Geen wonder, als je twee jaar hebt doorgebracht in
+de vuile wasch van Perugia!
+De diva voorheen en thans (Simplicissimus)
+Eva
+Ik mag niet terugkomen bij mijn patroon, zonder
+dat de rekening betaald is.
+Arme jongen ! Begrijp je niet ? Dat is natuurlijk
+een nette manier om je je ontslag te geven !
+In het oude Rome lieten de voorname dames haar
+wagen door verscheurende dieren trekken ik heb twee
+reporters onder mijn minnaars!
+Schaakspel
+«HIIIIIIUIIIIIIIIIItllllllllllllllllllllHIIIIIIIIIIIIIIIIIIIIIHIIIKIIIII
+24e Jaargang 18 Januari 1914
+Redacteur: RUD. J. LOMAN
+36 Heathstreet, Hampstead, London N.W.
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+No. 1270 L. H. Salkind, München
+Mat in drie (3) zetten
+abcdefgh
+Wit Kg7, Da4, Rc8, Pb3 en e3; b5, c3, e2,
+e6, f6 en g3 = 11.
+Zwart Ke5, Tel, Rc2, Pel; b7, c5, c7, g5,
+h4 en h6 = 10.
+Oplossing van No. 1269 1. 0—0 enz.
+Opgelost door ds. R. de Haas, Winsum;
+J. G. Arnoldus, Middelburg; J. B. te Breda;
+W. Verschoor, Nijmegen; dr. M. B. Oerlemans,
+Heusden; H. Hoos Jr., A'dam; W. J. Kuipers,
+A'dam; J. C. Nijland, Middelburg.
+
+
+UIT DE SCHAAKWERELD
+Paul Krüger, die in 1901 aan 't Internat.
+Amateurtornooi te Haarlem deelnam, won 't
+Kampioenschap van Hamburg. Alle eerste
+spelers van genoemde stad namen aan dezen
+wedstrijd deel, daaronder ook een landgenoot,
+de heer J. v. Groningen.
+
+Te Petersburg, Moskau, Warschau en Lodz
+werden wedstrijden gehouden om te beslissen
+wie in 't hoofdtornooi te Petersburg, waar
+
+van de winner tot 't Internat. Meestertornooi
+wordt toegelaten, kan meedingen. De uitslag
+van den wedstrijd voor 't Hoofdtornooi (8 deel
+
+nemers) was dat Evenssohn uit Kiew den len
+prijs won. 't Hoofdtornooi nam nu op 3 Jan. te
+Petersburg een aanvang, deelnemers: Alapin,
+Aljechin, Bogoljubow, Eljaschow, Evenssohn,
+Flamberg, von Freymann, Gregory,
+Jewtifejew, Lebedew, Lewitzky, Löwenfisch,
+Niemzowitsch, Salwe, Snosko-Borowsky,
+Taubenhaus en Smorodsky.
+
+Snosko-Borowsky won den gouden beker,
+uitgeloofd voor 't beste resultaat tegen
+Capablanca. De bepaling was dat de beker
+Capablanca ten deel zou vallen in geval hij alle
+6 partijen won. De Cubaan won beide par
+
+tijen van Aljechin en van Dus-Chotimirsky
+en won en verloor tegen Snosko-Borowsky.
+Capablanca ontving 900 Roebel als hono
+
+rarium voor de 6 door hem gespeelde partijen.
+In 't geheel speelde hij op zijn Europeesche
+tournee 11 partijen om hoogen inzet met
+eerste rang spelers, met 't schitterend resul
+
+taat : 10 gew., l verl.! Hij won van
+Teichmann (2), Mieses (2), Aljechin (2),
+DusChotimirsky (2), Niemzowitsch (1),
+SnoskoBorowski (1) en verloor slechts n partij
+aan laatstgenoemde.
+
+Capablanca gaf 2 simultaan séances
+teRiga. 25 Dec. 21 gew. l verl. 6 rem. 26 Dec.
+18 gew. l verl. 4 rem.
+
+Aan 't a.s. Meestertornooi te Petersburg
+zullen drie veteranen uit Engeland deelnemen:
+Blackburne (74!), Burn (64) en Gunsberg(60).
+
+Op een conferentie tusschen 't bestuur
+van den N. S. B. en den redacteur dezer
+rubriek werd 't plan van een match
+HollandEngeland goedgekeurd. De secretaris van
+den N. S. B. is thans in onderhandeling
+getreden met den secretaris der British Chess
+Federation om te beraadslagen over de
+détails. De match zal in de Paaschweek te
+'s Hage plaats vinden. Behalve voor de 2
+laagste borden staat de samenstelling van 't
+Engelsche team reeds vrijwel vast, n.l. aldus:
+Atkins (captain), Yates, Thomas, Lawrence,
+Cole, Grifflth, Saunders en Sergeant. Voor
+de 9e en 10e plaatsen komen in aanmerking:
+Blake, Jacobs, Michell en Wainwright. Bij
+ons zal uit 't volgende twaalftal een keuze
+worden gedaan: Baudet, Dr. Esser, Mr. Fick,
+Fontein, Jhr. Dr. D. en Jhr. A. E. v. Foreest,
+Gans, Geus, Te Kolsté, Leussen, Dr. Olland
+en Speyer.
+
+De uitslag van 't 5e Leopold Trebitsch
+tournooi te Weenen (10 deelnemers) was:
+I. Schlechter 14 (geen enkel verliespunt!),
+600 kr.; II. Spielmann 13Vs, 400 kr.; III.
+Dr. Tartakower 13, 300 kr-; IV. Réti 12,
+200 kr.; V. Hrdina 10, 100 kr.
+
+Yates en Schories spelen te Sheffield een
+kleine match. De eerste partij werd door
+Schories in 78 zetten gewonnen.
+
+Onzen kranigen probleem-componist W.
+Korteling, te Deventer, viel de 3e prijs ten
+deel in 't Drie-zetten-tournooi der Magyar
+Sarkkvilag. Er waren 99 inzendingen, waarvan
+27 nevenopl. toelieten.
+
+Dr. Lasker gaf van 16 Oer.—19 Dec. 27
+simultaan sëances en voorlezingen in de
+volgende steden: Crefeld, Mainz, Neurenberg,
+München, Inn^bruck, Salzburg, Regensburg,
+Wiesbaden, Mannheim, Barmen, Mühlheim
+a/d R., Aachen, Bremen, Magdeburg,
+Chemnitz, Linz, Brünn, Weenen, Breslau, Praag,
+Koningsbergen, Berlijn, Stettin, Cassel,
+Pforzheim, Freiburg i. Br. en Stuttgart.
+De totaal-uitslag was 566 gew., 27 verl.
+75 rem. Gemiddeld dus 21 winst-, l verlies
+
+punt en 3 remises per séance. Daarmede
+kan zelfs een werelkampioen te vreden zijn!
+
+De stand der revanche-match te Utrecht
+is thans: jhr. A. E. v. Foreest 2V2, dr. J. F.
+S. Esser IVs- In 't geheel heeft v. Foreest
+tot dusver in beide matches 5 partijen ge
+
+wonnen tegen Esser l, bij 3 remises. Een
+overwegende meerderheid.
+
+In 't Januari-nummer van 't Strand Magazine
+verscheen een interessant artikel over Capa
+
+blanca, met uitstekende portretten van den
+jongen maestro en eenige van zijn meest
+brillante partijen.
+
+In een clubmatch te Londen deed zich 't
+volgende schitterende slot voor:
+H. Saunders
+ZWART
+abcdefgh
+WIT
+
+C. Hammond
+29. Tbll Ka8 Rel: dan mat in 3
+Da6: dan 40. ReSff zetten. Rc6:f, ReSft,
+en Db8f. Tb8f.
+30. Rc8 Da2: 33. Dc2!
+31. Del Rh6 Dreigt wederom Re5:,
+32. Rd7:! met winst der dame.
+Een tweede ver- 33. Re6
+rassing. , 34. Dd3 en wint.
+32. Rd7:
+
+
+</text>
+<image timestamp="2002:08:20:12:28:43.00" size="538802">D400013E.TIF</image>
+</page>
+</document>

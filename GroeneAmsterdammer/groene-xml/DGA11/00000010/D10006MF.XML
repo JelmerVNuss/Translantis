@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270702</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TSCHARISLEIPNER
+NIEUWE
+VERPAKKING
+DE GROENE AMSTERDAMMER VAN 2 JULI 1927
+No. 2613
+VEILINGGEBOUW DE ZON"
+Gevestigd sedert 1823
+Fa L. GIJSELMAN &amp; ZOON
+Singel 118—120 en Blauwburgwal 15, AMSTERDAM.
+Heden, Zondag en Maandag KIJKDAGEN van
+KOSTBARE INBOEDELS
+VEILING: DINSDAG 5 JULI en vele volgende dagen.
+Catalogus a 25 cent verkrijgbaar.
+D. OBERINK 6 Co.,
+.~^~&gt;~~~~ INGENIEURS
+Amsterdam, Prinsengracht 456. Tel. 37452
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+DEN HAAG FERD.vVL.IET ARNHEM
+MANDEN ROTTINGENHOUTEN TUINENSERRE MEUBELEN
+EIGEN STEENSTRAAT 11
+w man heeft...
+het in de rol van gastheer meestal
+heel wat gemakkelijker dan U in
+de rol van gastvrouw.
+
+Komt deze of gene goede bekende
+even aanwippen" dan komt de
+gastheer dadelijk met sigarenkist
+of sigarettendoos te voorschijn en
+zoo'n kleine attentie is een prettige
+vertaling van het woord: welkom.
+
+Als U tegenover degenen, die U
+welkom zijn even gemakkelijk
+eene smakelijke attentie bij de
+hand wilt hebben, zorg dan dat U
+Droste's bonbons of pastilles in
+huis hebt. Ze zijn altijd welkom".
+8l
+AMANDELTJES
+MET GBATIS GKEffADIPfESAUS
+- Lijmt ALLES
+VOOR
+TAFELZILVER
+(HANDWERK)
+EN
+IMITATIE ANTIEK
+ZILVERWERK
+IN DEN SILVEREN
+MOLENBEECKER"
+AMSTERDAM DEN HAAG
+Kalventraat 32 Hoogstraat 31
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:12:02:39.00" size="131630">D10006MF.TIF</image>
+</page>
+</document>

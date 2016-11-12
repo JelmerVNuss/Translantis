@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400406</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+UIT DE KEUKEN DER BEELDENDE KUNSTEN
+n
+PIET Wiegman woont aan een zij weggetje van den
+hoofdweg, die door het dorpje Groet loopt. Het
+dorpje Groet in het vlakke grasland gelegen vlak
+achter de zee, ongeveer daar waar de duinenrij
+overgaat in het Hondsbossche Zeewering, is het Laren
+van dezen tijd; er wonen schilders, dichters, beeldhouwers.
+De duinen, beplant met groen en bruinachtig helm,
+krommen zich moeizaam, het landschap is haast stug en
+openbaart zijn schoonheid met tegenzin. Hier, aan dit
+zandweggetje, woont Wiegman, met opzet wat ver
+
+scholen in zijn witte huis. Ik ben eigenlijk een werkman
+van nature", zegt hij. Hij voelt zich buitenman, boer en
+hij leeft het liefst temidden der boeren. En bovendien is
+het noodig voor mijn werk, dat ik hier woon; als ik een
+boer schilder, dan schilder ik hem het liefst in zijn eigen
+omgeving, niet in het atelier. Dan ben je veel inniger
+met je onderwerp verbonden, wat licht en omgeving
+betreft".
+En verder voelt Wiegman zich hier ver van het drukke
+Rembrandtsplein, waar hij vroeger zijn atelier had, en
+waar hij midden tusschen zijn collega's zat allemaal met
+hun geweldigheidjes". Hier loopt hij niet het gevaar van
+arrivéte worden". Hier kan hij werken,,zonder pretentie"
+en hoeft hij geen gekke overdreven onzin over schil
+
+deren" aan te hooren. Je mist wel even de stad", zegt
+hij, maar je went wel. Je isoleert je voor je werk. Je
+bent je ook niet meer bewust, dat ze aan je denken,
+en als je dan iemand tegenkomt, die nog wel iets van
+je weet, en je dat met waardeering zegt, dan doet je dat
+toch wel weer goed".
+Hoe ouder ik word, des te gemakkelijker ga ik aan
+het werk. Ik neem nu genoegen met mezelf en ik weet,
+dat ze toch niet boven jezelf uit kan stijgen".
+En zoo woont hij met zijn vrouw en hun drie kinderen
+buiten-kinderen ver van alles af. Als hij niet schil
+
+dert, omdat er geen licht is, of omdat hij geen werk wil
+of kan doen, gaat hij aan het knutselen. Het belang
+
+rijkste van dat werk is zijn pottenbakkerij. In een apart
+aanbouwt j e van zijn atelier staat een wiel en daar draait
+hij borden of kommetjes; hij glazuurt en kleurt, of hij
+werkt in verschillende kleuren klei en in zijn oventje
+bakt hij de voorwerpen; het is eenvoudig, en van een
+primitieve schoonheid wat hij maakt. Nu is hij bezig
+met een nieuwe techniek, met het leggen van mozaiekjes
+van eigen gebakken steentjes. Hij timmert meubelen,
+zware stoelen, hij metselde zelf een kachel van oude
+tegels met een vernuftig ventilatiesysteem, waarop hij
+erg trotsch is. Hij teekende en bakte tegels, die den gevel
+van zijn huis sieren en die hij in den schouw in de huis
+
+kamer inmetselde.
+In het wit-steenen atelier laat Wiegman mij later zijn
+werk zien. Boerderijen, paarse donkere tulpen in een
+vaas, zatte, gloeiende kleuren, ,,'k Zit in een periode dat
+ik wil uit die zware kleuren", zegt Wiegman, en hij laat
+mij een licht landschap zien, een schets" en zijn laatste
+werk, landschappen in een kleur, die zich uit het zwarte
+en volle naar het lichte en ijlere wil ontworstelen. Ik
+ben blij", zegt hij, dat ik weer naar de koppen terug ga,
+als in mijn Limburgschen tijd", en hij toont mij een
+meisjesportret met een gedekt rood, met een heftiger
+blauw en met een teer licht op de vingers van een ge
+
+bogen hand.
+En steeds weer halen zijn stevige handen uit de rijen
+schilderijen er nieuwe te voorschijn.
+H. B. F.
+
+
+BIJ DE FOTOS
+
+Boven : de schilder Piet Wiegman voor het groote
+schilderij, waaraan hij reeds vijf jaar, bij
+tusschenpoozen, werkt; een groot tafereel met typen uit
+het dorp Groet waar hij woont.
+
+Hiernaast: Behalve schilder, is Piet Wiegman
+ook pottenbakker. Met het ceramiek uit eigen oven
+staat hij hier voor een zelfgetimmerd kastje,
+waarin de pronkstukken zijn opgesteld.
+
+Onder: P/et Wiegman en Mevrouw Wiegman
+met het jongste dochtertje in de huiskamer. Net
+als in Zweedsche huisgezinnen" wordt er in lange
+winteravonden huisvlijt beoefend. Mevrouw Wiegman
+ontwerpt, weeft, spint haar eigen wol.
+Foto's Eva Besny
+
+</text>
+<image timestamp="2002:09:13:03:29:06.00" size="576332">000007FV.TIF</image>
+</page>
+</document>

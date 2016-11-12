@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020525</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ne. 1300
+DE AMSTERDAMMER WEEKBLAD V O O R N ED E RL AND.
+Een standbeeld van Frederik den Groote voor de Vereenigde Staten.
+Niet naar den smaak. (Moonsbmt).
+BROWEK JONATHAN (tot Keizer Wdhelai): AVell, Sir, daik voor uw cadeiu; w'j zullen dan onden heer met genoegen een plaitsp geven; maar dat
+korporaalstokji moet by in Pi-uisen laten."
+De vurig verlangde vredesbode.
+t- "
+-.TBrittarr.ia .. . Brittarn^a, ziet ge nó^ niets komen ? ?
+(Tsekening ran L&gt;iit. BrttiJinciiler),
+Een Enge'sch misverstand. (Der F oh}
+Vrede?
+DE GOOCHELAAR HICKS BEACH : »Ik neam de check in de
+eere hand zoo-, ik leg den ex'ra-stuiyer erop, zoo! Als
+r,u een der heeren toeschouwers ZOD beleefd wil zyn en er
+mee naar 't postkantoor gaat, dan ..."
+MANAGER BL-LL : »Neen, neen, waarde heer, dat bevalt myn
+publiek zeker niet. Doa a v. p. een andere toer !"
+Etn m o r g a nistisch huwelnk. (Pumh).
+Cas-'a reketürig. (I-'i cliï&lt; {&gt;&lt;&gt;),
+Do AmKrikaar.sche Bjottrnst huwt den Atlantischen oceaan.
+Kroning. (l'K).
+Den koriii,^ «.ullon in de aVdij bioeiaenstrooiptdo pages voorafgaan.
+DK BOER: »S:op, btop, menesr de thneraal, als u c w
+we nooit over den vrede kuuen onlerhandelen."
+niet tll^ert, zullen
+Majesteit, 't r.y'n :-:-.:u.s •1±&gt; er. O t l ...iiiHiön Lire,
+die wij te iietul-: i; bftbb»;r,. .
+... ongirti rd da Ei.gelschi; i o , ..in alleen vier
+maal zoovoel waurj 13.
+OOM SAM : »Hola. j •: gvheer Cuads ! wil je wel eens van dien steen
+afblyven, anders krijgt ja papa or.aanger.aaaiheden." (Life).
+
+</text>
+<image timestamp="2002:08:17:21:13:39.00" size="393907">D2001DP.TIF</image>
+</page>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270723</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 23 JULI 1927
+No. 2616
+J* D. STRUIJS &amp; Zn*
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+VERWEEGEN &amp; KOK
+AMSTERDAM
+DEN HAAG
+Wardrobc Trunks
+
+24 modellen
+prijzen van
+
+f 65.- af
+te WASSENAAR»
+
+geeft inlichtingen voor aankoop VI L L A' s en
+VILLATERREINEN in de parken te Wassenaar.
+
+- Inlichtingen J. TH. WOUTERS. ~
+Telef. 71471 Leidschestraatweg 648.
+i
+i.
+f
+
+L
+*&gt;
+*
+r.
+iBJASPIBOI^MB*
+BQB^BNDER
+KOESTRAAT 53
+&gt;AM
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LÏJKKOETSAUTOMÖBIELEN
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+Overhemden naar maat I
+Vervaardigd op eigen Ateliers \
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN I
+i • =
+^iiimmiiiiimiiiiiiiiiniiimiiiiiiiiiiiiiiiiiMiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiniNiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniMiiiiMmiiiiiiiiiiiiiiiiiiiiiiiiiiiiiM
+
+Wed JOHN GAY'S PICCALILLl
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.v. DE HOUTTUINEN". AMSTERDAM
+NOLIN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+W. HL POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H ~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in:
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overvecn, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+aan de electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie' Maatschappij van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:14:28:10.00" size="142220">D10006P3.TIF</image>
+</page>
+</document>

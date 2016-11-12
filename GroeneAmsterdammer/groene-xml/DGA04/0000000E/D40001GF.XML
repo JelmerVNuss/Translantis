@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141011</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11 Oct. '14. . No. 1C4
+De Belg die te Ostende zijn vrouw en kind vindt
+IIIII1HIIIIIIIIIIIIIIII1	l	mllMII	Illllllllll	II	MIMI
+
+Voile huit ans
+Que vous est nee a Paris
+Digl Ding! Dong! Balaban! Ban! Ban !
+Votre petit' Vosgienne et Picarde Sylvie.
+
+Oolencourtl Carrépuis!
+Solente de Picardie!
+Chervogne!
+Chervogne!
+
+Tous les noms de France sont beaux!
+Noms de villes, noms de cöteaux,
+Noms de forêts, noms de hameaux,
+Noms de chênes et noms d'ormeaux,
+Noms de gens et noms de pays,
+Noms de vins, noms de cidre aussi,
+De Bretagne ou de Normandie,
+D'Ile-de-France ou Picardie!
+
+Quertancourt, Lassigny!
+Noyon, Guiscard et Coucy!
+Compiègne!
+Compiègne!
+
+Buvons a la santéde la France, mes amis!
+Et Bordeaux et Bourgogne, et Champagne
+et Cléry!
+Amis de l'Angleterre, amis de la Russie,
+Amis de Cracovie, amis de Varsovie!
+Que chaque coin de terre, repris a l'ennemi,
+Lavépar notre sang, nous devienn' plus chéri!
+
+Montmirail! Luzancy!
+Meauxl Nanteuil! Chateau-Thierry!
+Pologne!
+Pologne!
+
+Comme nous, verre h verre,
+Cceur contre cceur,
+Sonnez! cloches! Canons, tonnez dans l'air,
+Sans reproche et sans peur!
+
+Sonnez pour nos parents, sonnez pour nos
+amis!
+Sonnez pour ceux qui naissent, pour 9eux
+qui se marient!
+Sonnez seconde et quart', tiercéde Picardie!
+Sonnez pour ceux qui meurent au front de
+la Patrie!
+Pour Liège et pour Louvain et pour Bruxelles
+aussi,
+Pour Compiègne et Maubeuge, pour Reims
+et pour Nancy!
+
+Saint-Quentin! Saint-Denis!
+Senlis! Soissons et Corbiet
+Péronne!
+Péronne!
+
+La France est en danger!
+Si Ie bronze vient &amp; manquer,
+Clochts et carillons,
+Sortez de vos clochers,
+Devenez des canons!
+Quand la Patrie sera ressuscitée,
+Les nouvell' Paques quand il faudra chanter,
+En cloches nous vous refondrons!
+Blérancourt! Carlepont!
+Sens! Tonnerre! Clermonti Dïjon!
+Argonnel
+Argonne!
+
+Chateaudun! Domrémy!
+Lyon! Rennes! Strasbourg et Paris!
+Versailles!
+Versailles!
+
+SYLVAIN PITT
+Allerlei
+Zelfbewust
+In Engeland is de oorlog wat men noemt
+populair". De Engelsche beau monde in een
+weldadig gevoel van persoonlijke veiligheid,
+isambitieus genoeg.om al dit moorden en bran
+
+den met sportieve belangstelling aan te kijken,
+en wie gelukkig of behendig is in 't wedden,
+kan thans z'n slag slaan. En vooral tijd
+
+schriften als The Graphic" en Londen
+News" zweepen de nationale stemming op,
+door hun fraai geteekende scènes van En
+
+gelsche heldendaden". Reeds eenige jaren
+geleden, toen de Engelsche luchtvloot met
+een bestuurbaren ballon van eigen fabrikaat
+eens een aardig succesje had behaald, een
+afstandsrecord of zoowat, dat nog lang niet
+tegen de kolossale Duitsche of Fransche
+praestaties op dit terrein, opwoog, gaf de
+Graphic" een twee bladen groote afbeelding
+van het zegepralende luchtschip in full
+flight" en schreef er de brallende woorden
+onder: Great Britain rules the air!" Be
+
+scheidenheid is wel niet de grootste deugd
+van onze vrienden van over zee.
+* * *
+Duur
+De zeeoorlog is misschien nog duurder
+dan die te land. Ziehier enkele cijfers. In
+
+dien een smaldeel van acht slagschepen
+van het grootste type, gedurende 24 uur
+stoomt in volle kracht, en gedurende deren
+tocht elk der kanonnen en lanceerbuizen
+slechts nmaal afvuurt, kost dit aan de
+oorlogvoerende natie ongeveer 2Va millioen
+gulden.
+* *
+Namen
+In Frankrijk en in Engeland worden de
+kinderen, die in deze woelige tijden ter
+wereld komen, gedoopt met eigengemaakte
+voornamen, die de glorierijke daden der
+vaderlandsche legers in herinnering brengen.
+Niet een, maar meerdere doopelingetjes
+in Frankrijk zijn er, die vereerd werden
+met den naam van Alsace-Lorraine. Een
+ander Fransch jongetje heeft ter eere van
+het ongelukkige Leuven den voornaam
+Louvain ontvangen, en een klein fijn
+Parisiennetje in windselen, zal zich haar heele
+leven gesierd zien met den welluidenden
+klank van het woord Aisne'1. Beter nog is
+haar neefje er aan toe, die Jean Verdun
+Brion gedoopt werd.
+Bij de Engelschen is het in de mode om
+de kinderen te noemen naar beroemde sol
+
+daten. In de bevolkingsregisters van Londen
+werden kort geleden ingeschreven Joffre
+Smithson, Kitchener Mac Millan, French
+Jones, Gellicoe Whistler.
+Arme kleinen overigens, die voor altijd
+het merk meedragen van den bitteren,
+misdadigen tijd waarin ze geboren werden.
+* *
+*
+Heersen ersmoraal
+Onderden indruk der gruwelen van den dag,
+spreken we thans misschien ongunstige mee
+
+ningen uit over personen, die de tijden na ons,
+welke het leed en de ellende niet zien, zul
+
+len vereeren als helden en groote mannen.
+Ik wil u er maar eens even aan herinneren,
+dat uw vrienden van thans Napoleon,
+Frederik de Groote, Bismarck, Czar Peter, geen
+snippertje beter waren dan de rest, ook al
+vertelt men nog zulke aardige anecdoten
+van hen. Peter de Groote o. a. de Zaansche
+heilige, wiens huisje in Zaandam als een
+reliquie wordt bewaard, en die als Pieter
+
+baas" de scheepstimmerman, misschien
+de allerpopulairste persoon is uit de
+vaderTeekening van H. v. d. Velde
+V\H
+(J l'T D C_ $U
+iimiimiMiMiimiiiiiMiiiimiiiMiitiM
+landsche geschiedenis, was in werkelijkheid
+een geduchte potentaat, die een
+menschenleven evenveel telde als niets. Zijn idee
+fixe was, dat Rusland een wereldrijk moest
+worden, en daartoe liet hij zijn beroemd
+politiek testament" na, waaruit ik u hier
+twee clausules wil afschrijven, die een tamelijk
+juist beeld geven van de wenschenen meenin
+
+gen van uw gemoedelijker! Pieterbaas". Zie
+hier, wat hij zijn volk als duren plicht
+voorlegt:
+l o. De Russische natie in een staat van
+voortdurenden oorlog houden, om de krijgs
+
+lieden, ten strijde geoefend en vaardig te doen
+blijven; haar allén tot verademing te laten
+komen, om de finantiën van den staat te ver
+
+beteren, de legers weder aan te vullen, en de
+gunstige gelegenheid tot den aanvatte kiezen.
+Aldus den vrede dienstbaar maken tot den
+oorlog en den oorlog tot den vrede, in het
+belang van de uitbreiding en toenemenden
+bloei van Rusland."
+2o. Polen in verdeeldheid houden door er
+onrust en voortdurende ij verzucht te kweeken,
+de machtigen door kracht van geld winnen,
+invloed uitoefenen op de rijksdagen, door
+omkooperij vooral, ten einde mede te werken
+op de verkiezingen der koningen; er doen
+benoemen lieden, die tot zijn partij behooren,
+hen beschermen, Russische troepen doen
+binnen rukken en deze daar doen verblijven
+tot zij er vasten voet hebben. Als de naburige
+mogendheden zich hiertegen verzetten, deze
+voor een oogenblik tot zwijgen brengen
+door het land met hen te verbrokkelen, totdat
+men zal kunnen terugnemen wat men afge
+
+staan heeft.
+Dit zijn slechts twee van de 14artikelen;
+maar wat zegt ge lezeresje of lezer van dit
+levensprogramma van moord, diefstal, leugen.
+En dit dacht en schreef uw Pieterbaas"?
+die zoo gezellig en eenvoudig leefde in het
+knusse huisje te Zaandam. Valt hij u tegen
+of niet?
+ALLEGRA
+
+* e *
+
+Recepten
+
+PREI-SOEP
+Een gezonde en heerlijke soep is de vol
+
+gende. Reken per persoon l dikke prei, l
+lood boter, ruim 2 deciliter'water. Maak de
+prei schoon, snijd ze over langs door, en in
+kleine stukken, laat de prei een kwartier in
+het water staan tot het zand gezakt is, doe
+ze op een vergiet en wasch ze nog eens,
+bruin de boter in de pan, doe er de op een
+vergiet uitgelekte prei in, voeg er zout en
+peper naar smaak bij, en laat de prei op
+een zacht vuur ongeveer 10 minuten smoren,
+voeg er langzaam het water bij, laat dit
+alles koken, doe er koude fijn gemaakte
+aardappelen bij en laat de soep koken tot
+zij gebonden is. Bij gebruik van de hooikist
+behoeft ze met de aardappelen maar even
+door te koken, de hooikist maakt de soep
+verder gaar. A. H.
+- APENZEEP.
+Maakt de koekepan als een
+spiegel.
+Zal Uw vaatwerk en
+kachelzink doen glinsteren.
+Siypt de messen zonder kras
+
+sen blank en scherp.
+DE
+BEGRAFENIS-ONDERNEMING
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837. Telephoon No. 906.
+H. A. PASSENS,
+THANS ALLEEN
+Begnliersgracht 81,
+AMSTERDAM, Tel. 8393.
+Speciaal adres voor
+Corsetten naar maat
+. Ateliers voor reparatiën.
+HABGARETHA BOAS,
+Ooaterpark 29.
+Telefoon Z. 5007.
+Péfare et Manicnre.
+Dagelijks te consulteeren
+Opelke gracht, in elke straat,
+Wanneer de deur maar open
+Ziet gij het prachtig resultaat
+
+Van LIEVEGOED's
+
+Schuurpreparaat
+(voor houtwerk, marmer en
+steentjes).
+In Irissche carlons overal
+verkrijgbaar.
+Mevr. G. v. d. BRINK,
+Corsetière,
+Keizersgracht 717.
+A'DIM. IRl. 1151. ATELIERS VOOR REPARATIES.
+IOM1JIKLIJKB LUIE HAm H W A TCmi) AISTEUAI.I
+IBBOODBAKKKRIJ f AUL U, AAlDMi, R01TERDAI,
+levert BROOD bereid uit de BESTE GRONDSTOFFEN,
+Vlechtsysteem De Cockl
+De Handenarbeid bij uitnemen
+heid voor jong en oud, vo&lt;
+school en huisgezin.
+Handel in geverfd en ongeve
+Hennepgaren-, Pitriet
+Raffia enz.
+MAGAZIJN en MODELKAMER
+
+H, MEIJER, Katoenbaai",
+HAARLEM, Telefoon 5«8
+ÏERVEN KRAMER
+• WIJDE KAPELSTEEG 4 D AMSTERDAM •
+H TELEPHOON N°266 (
+FABRIEK VAN KANTOORBOEKEN
+•M andere dubbel fijne Likeuren
+BIJ
+ff. P. POI*LCM «S? ZOOM, Rotterdam
+RAGANT Automobielen
+fitnerale Agentuur voor Nederland en Koloniën
+AUTO-GARAGE CENTRAL.
+Telefoon 498. Maastricht.
+ALLEN DRAGEN
+Kousen en Sokken van
+
+WICHER JANSEN
+
+UTRECHTSCHE TRICOTA6E FABRIEK
+UTRECHT.
+AVIATA" Garantie Kousen en Sokken
+Gegarandeerd voor 6 maanden.
+Wij verstrekken gaarne adressen van wederverkoopers.
+BEGBAFENISVEREENIG1N6
+TE AMSTERDAM
+SAX Jr.
+P. C. HOOFTSTRAAT 38. Telef. Zuid 341.
+De drie Magazijnen voor Horlogerie van
+
+Gebr. BREEN, Amsterdam,
+Rozengracht 53, Nienwfuift 172, Haarlemmerstraat 72
+HORLOGES, PENDULES, KLOEKEN.
+GOUDEN EN ZILVEREN WEBKEN.
+PI MXTER-BOTER
+STEUNZOLEN
+
+(systeem Prof. HOFFA)
+met opstaanden buitenrand, die
+de ronding van den hiel omvat,
+herstellen den platvoet. J. A.
+M A SS ING, O. Z. Voorburgwal
+334, Amsterdam, tegenover het
+Binnen-Gasthuis.
+VAN RUN'S
+EBESTE
+DE BONT &amp; LEYTEN'S
+BORSTPLAAT
+is DE BESTE.
+
+</text>
+<image timestamp="2002:08:21:02:26:45.00" size="342717">D40001GF.TIF</image>
+</page>
+</document>

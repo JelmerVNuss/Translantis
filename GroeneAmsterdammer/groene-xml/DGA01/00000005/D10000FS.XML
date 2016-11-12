@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040710</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een bedenkelijk geval voor den bondgenoot.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland v?n 10 Juli 1904.
+! o ^ *&gt;t » » iy* * &gt; «' e X.
+Amst. Boek- en Steendrukkerij, v;h. Ellerman. Harms &amp; Co.
+JAPANNER (tot John Buil): Vriend John, ik vrees dat Wilhelm en Nikolaas een leelijk stukje gaan uithalen. Als Wilhelm den Rus gaat
+helpen, dan ben jij er bij, vriend; dan moet jij met mij meevechten!"
+
+</text>
+<image timestamp="2002:08:15:13:36:23.00" size="228843">D10000FS.TIF</image>
+</page>
+</document>

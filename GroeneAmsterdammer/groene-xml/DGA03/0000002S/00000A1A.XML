@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320227</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2856 van 27 Februari 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro G. 1000
+KERKSTRAAT58
+AM5TS3DAM
+N.VV/M.
+ItA-KLOOSTERHUIS
+jHL
+KALVERSTR.I78 föS AMSTERDAM
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+TELEFOON 35533
+-Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+PENSION 1er RANG
+
+POUR JEUNES FILLES
+
+DE BONNE FAMILLE
+
+E x,c E L L E N T E : NOURRITURE
+BELLE SITUATION '_- CHAMBRES CONFORTABLES
+
+M ADEMOISELLE DE BROT
+
+VILLA GRAMMONT 14 AVE DES ALPES
+
+LAUSANN E
+Facultéde recevoir l'enseignetrmnt du franfaüct^dt l'anglais
+
+a la maison, ou de suivrc les cours de l'Universitéet des
+
+coles de musiquc.
+
+Renseignements;
+
+Mademoiselle 'A'. M. Middelbeek
+
+Fhitgeb. Zorgvliet LAKHAVE
+
+</text>
+<image timestamp="2002:09:26:17:44:41.00" size="98236">00000A1A.TIF</image>
+</page>
+</document>

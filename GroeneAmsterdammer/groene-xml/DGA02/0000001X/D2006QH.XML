@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330729</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het geslaagde experiment
+Teekening door 1. J. Jordaan
+&gt;m
+{ ••"
+1 l! M Uil.
+;•! i ;? /.'ff ;;•/,• j ;
+
+I'IU'I III il. !
+i'i:Uf ,j'fni.n-'
+; • /'j
+.*, -\ t B
+
+\ -l t V,
+m v^\
+Roosevelt laat den dollar vallen
+
+</text>
+<image timestamp="2002:09:26:15:17:27.00" size="159347">D2006QH.TIF</image>
+</page>
+</document>

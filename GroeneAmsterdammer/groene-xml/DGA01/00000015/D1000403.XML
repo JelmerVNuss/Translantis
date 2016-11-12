@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400417</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het tractaat met Frankrijk.
+BIJVOEGSEL van de Amsterdammer. Weekbla'd voor Nederland van 17 April 1904
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Harms iv Co.
+MARIANNE.
+V. LIJNDEN (tot de Ned. Maagd}: Marianne was charmant...! 't Is toch een lust om zoo trère compagnon met groote mogendheden om te
+gaan.... Wie zal ik nu nemen?
+DE NEDERLANDSCHE MAAGD: Ja maar het kan ook gevaarlijk zijn. Als je nu na Denemarken, eens Zwitserland, Rumenië, Montenegro
+en Monaco bezocht. . . .
+WILHELM.
+
+</text>
+<image timestamp="2002:08:26:23:31:30.00" size="382784">D1000403.TIF</image>
+</page>
+</document>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 29 NOVEMBER 1930
+No. 2797
+L
+
+ir
+HET EVIUNIS
+WITTEBROOD,
+dat hygiënisch verpakt
+afgeleverd wordt, heeft
+in den korten tijd, dat
+het verschenen ist een
+dergelijk succes gehad,
+dat het aantal bakkerijen
+in de bekende annoncen
+genoemd dat
+EviunisBrood levert, verdub
+
+beld is*
+•
+Het toevoegen van
+EVIUNIS aan meel in het
+Nederlandsche
+Bakkerijbedrijf is toegestaan bij
+Koninklijk Besluit van
+30 Mei 1930 (Staatsblad
+No. 48).
++
+Het artikel van Dr* Van
+Raalte in dit nummer van
+De Groene Amsterdammer
+zal door ons in het volgend
+nummer afdoende weer
+
+legd worden* Wij hebben
+met verlangen naar een
+artikel als dat van Dr* Van
+Raalte uitgezien*
+Crystallo S. A. Thusis (Zwitserland)
+
+NIEUWE BOEKEN VAN J. M. MEULENHOFF
+
+PRINS WILLEM III
+DE STADHOUDER-KONING
+door Dr. N. JAPIKSE
+Prijs 19.50 ingenaaid, f 11.75 gebonden
+DEEL I
+Met vele afbeeldingen
+Dit is het eerste volledige werk dat over Willem III verschenen is.
+VROUWENKRUISTOCHT
+Roman van JO VAN AMMERS-KÜLLER
+Vierde druk
+l 5.9O gebonden
+Mevrouw Jo van Ammers-Kü'ler heeft op den ondergrond der Engelsche suffragette
+
+beweging in den aanvang van dezen eeuw een boeienden roman gebouwd, hoe
+belangwekkend en tragisch is het niet wat zich daar over het watei in het jaar
+1900 afspeelde.
+In dezen roman is de romancière op haar best, zij geeft zich zelfvergeten naar
+haar gevoel. Groot-Nederland.
+
+HET FREGATSCHIP JOHANNA MARIA
+door ARTHUR VAN SCHENDEL
+Prijs f 3.90 ingenaaid, f 5.5O gebonden
+Van Schende heeft het eerste Europeesche Nederlandsche boek gegeven. Vrije Bladen.
+OLAF AUDUNSZOON OP HESTVIKEN
+door SIGRID UNDSET
+Uit het Noorsch door A. SNETHLAGE
+Prijs « 4.45 ingenaaid, « 5.90 gebonden
+Als men dit werk gelezen heeft, heeft men meer dan een roman gelezen, men heeft
+een liefde leeren kennen die alle tegenslagen weet te overwinnen: werkelijk Olaf
+Audtinszoon is een det romans die mij het meest ontroerd hebben, het is
+diepmenschelijk en indrukwekkend. Kölnische Zeitung.
+
+HET LEVEN GEEFT EN NEEMT
+Uit het Noorsch door K. EtSTER
+Vertaling van N. BASENAU-GOEMANS
+Prijs f 3.5O ingenaaid, f 4.9O gebonden
+Een van de allerbeste werken die in den laatsten tijd verschenen zijn. Aflenposten.
+DE LIEFDE VAN JEANNE NEY
+Roman uit het Russisch door ILYA EHRENBURG
+Vertaald door S. VAN PRAAG
+Prijs f 3.5O ingenaaid, f 4.90 gebonden
+In de liefde van Jeanne heeft Ehrenburg ons in modernen vorm het ROMEO- en
+JL/MA-probleem geschonken. Het is het beste boek van het jaar. New York Herald.
+GISTEREN
+door M. SCHEIJER
+Vertaald door M. P. C. DE GRUIJTER
+Prijs » 2.&lt;5 ingenaaid, f 2.9O gebonden
+Dit boek Gisteren is vervulling. Het is lectuur voor de blijde uren,
+uitspanningslectuur, meer dan de waardelooze prullen, waarmee velen hun leven vullen.
+Tony de Ridder in de N. Rolterd. Crt.
+In iederen boekhandel verkrijgbaar.
+
+J. M. MEULENHOFF-Uitgever- AMSTERDAM
+Abonneert U op:
+De Groene Amsterdammer
+icccccccccccccc^
+3JASP1BOMMEL!
+BOEKBINDER
+KERKSTRAAT 58
+AM5TBIOAM
+
+</text>
+<image timestamp="2002:09:22:09:58:47.00" size="127582">000008PN.TIF</image>
+</page>
+</document>

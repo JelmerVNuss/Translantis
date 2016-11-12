@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260814</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk verboden
+DE BRIEF VAN CLEMENCEAU
+B1)VOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 14 Augustus 1926
+(Shakespeare's Koopman van Venetië, Derde bedrijf;
+derde tooneel; Vertaling Dr. L. A. J. Burgersdijk)
+A N T O N I O CLEMENCEAU : IK BID U, HOOR EEN WOORD!"
+S H Y L O C K—UNCLE SAM: IK WIL MIJN SCHULDBRIEF; 'K WIL VAN U GEEN WOORD !"
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:26:00:47:04.00" size="157418">D10007UI.TIF</image>
+</page>
+</document>

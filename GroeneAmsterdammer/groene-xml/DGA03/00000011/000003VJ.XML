@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970808</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Serenade'
+gezongen door Mr. N. A. Calisch bij het vertrek van Mr. S van Houten.
+f. \
+*~**pm$W*i»
+\ • iiL-1 &lt;
+[Sul!' ari.i • IM, vjei]i alln finestra."]
+
+Lite
+i»I H ,' i ''•' ;1:M*-1% . *ii'%5i'»'. " *', 'f%v»^..;ji
+|p^'V::'!5ltï/*.^tl '\ '"'-V -|
+II 'l-' ' - V *' * s \ i . . /
+«^•s'f \ ' t, /*,*a'^ - »l &gt;'**' *i '^ ' ' ' /*'
+»^;&gt;-* ^-i-T^;-1 f.:*,\\ ^;4' -'/i
+*liiR . f - ji } , t, f. , . &lt;• *» t . j J' . ' f y
+•*r».
+&lt;t »•
+? i»
+'( S
+«
+'/
+.x^
+•&gt;•
+^
+/*'
+T
+-'^^'
+O gun een lasitsten blik mij,
+Die eertijds waart een schrik
+Dien renegaat ik doopte,
+Van wien ik niets meer hooplo.
+Gij, dien als radicaal ik
+Den minsten draai nam kwalijk,
+Gij koeldet door uw goedheid
+Mijn jeugdige volliloedheid.
+--«SP
+, &gt;. *f-
+
+**. &gt;* •* v.
+"•.iaSstó: '«*»
+rf5«SK »l-Aio.\
+"^^l)ftM!RftA VKMJ**
+'"'
+
+«
+ar'?
+•if ^
+~*
+*ï/;
+Ons politieke jasje
+Is nooit ineens een pasje:
+Voor velen maakt de snijder
+liet nauwer eerst, dan wijder.
+Ons heeft het rood verdroten,
+Wij zijn van kleur verschoten ;
+Sints ik iu te .s*;vm&lt;v' 1)
+Zeg 'k nederig: pcfn/r/l 2)
+1) Mijn vertrouwen op u stelde.
+LM Ik hoh gezondigd, ('/.ie HtiHfJi'Jhl. v:m l Aujr )
+Amst. lïonk- en Stecndrukkorii, v/h. Kllermnn, lliirms i\- Co
+
+() Samuel, (iij ei'd'le,
+/ie hoe ik smeek en heed'le,
+Ni c l, om uw gunstbewijzen,
+Om u re mogen prijzen!
+Met mandoline-k la n ken
+Wil ik u staamlend danken
+(iij in'tmi, eharmieleontiseh;
+Gij l&gt;/ij/'/ Napoleontisch!
+
+</text>
+<image timestamp="2002:08:21:22:46:22.00" size="665983">000003VJ.TIF</image>
+</page>
+</document>

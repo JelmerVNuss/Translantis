@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>29</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'"*&amp;£' ~'
+r/
+
+ft•f'-h
+de
+leiding heb
+
+ben, bij pioniers en
+Oktober kinderen, in de kinderstad
+en in de kampen, behoort tot hun officieele opgaaf.
+Dat ze ook buiten, in de bosschen en langs de riviertjes,
+waar de arbeiders op hun uitgangsdag in de grootst mogelijke
+vrijheid en vroolijkheid uitrusten, bijna altijd de leiding van gemeenschapszang
+en onderling vermaak hebben getuigd van hun populariteit.
+Dat, op straat, niemand het gek vindt wanneer een herrie of druktemaker plotseling door
+een paar pootige komsomolzen opgepakt wordt om hem aan de militie over te leveren, spreek'
+voor hun natuurlijke autoriteit.
+En dat, reeds sedert 10 jaar, de vloot officieel onder protektoraat van de komsomolzen. '
+beweging gesteld is, is wel het beste bewijs van de waarde die officieel aan de jeugd
+
+beweging toegekend wordt. i
+Als de komsomolzen op den internationalen jeugddag naar het roode plein marcheeren
+staat het tram verkeer in Moskau stop en van Lenin's mausoleum worden zij
+begroet door Stalin, Gorki, Woroschilof, Kalinin, Molotow en de andere leiders.
+De Prawda is het voornaamste staatsdagblad, maar de komsomolskaja Prawda
+•is niet veel minder belangrijk. ,
+Wanneer de kritiek hier een film, drama of boek aanvalt, dan is het telkens
+weer omdat de rol der jeugd daarin niet genoeg naar voren gebracht is.
+Dat het ontzaglijke werk der komsomolzen, ten opzichte der verwaarloosde kinderen niet tot
+zijn recht kwam, was o. a. hetgroote ideologische bezwaar tegen de film: de weg naar het leven.
+Voorhoede en traktor. De voorbeelden die ik noemde zijn wellicht de eerste die een buitenlande;
+opmerkt, juist omdat zij aan de oppervlakte liggen en .van een zoo geheel andere instelling ten
+opzichte der jeugd getuigen als die welke bij ons heerscht. Zij zijn echter zeker niet de belangrijkste
+die men kan geven. Joris Ivens deed er goed aan toen hij, om zijn film komsomol" te maken
+naar Magnitogorsk trok, het technische wonder der Sowjet Unie, de ne pool van het
+KusnetzMagnitstroy kombinaat dat. het land een 2e basis voor erts en kolen zal geven. Daar in de verre
+Siberische vlakte waar niets was, in de stoffige steppe met zijn tropische hitte en millioenen vliegen
+in den zomer, zijn modderpoelen in herfst en lente en 45°vorst in den winter, naast het kooks
+kombinaat en de elektrische centrale, naast de 8 schoorsteenen der
+omhoogstrevende Martinovens.
+kal
+^^BB^^k
+&gt;fl
+/LI
+
+
+</text>
+<image timestamp="2002:09:27:16:43:02.00" size="443042">00000AUI.TIF</image>
+</page>
+</document>

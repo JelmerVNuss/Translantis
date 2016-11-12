@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151024</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+20
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+24 Oct.-'15. No. 2000
+
+Alle Bontsoorten
+Zooeven verscheen:
+PETER ROSEGGER
+ALASKA
+PETIT GRIS
+Billijkste prijzen,
+Prijs gebonden 90 cent.
+
+Met omslagteekening van G. van Raemdonck.
+
+
+Peter Kosegger, HET EEUWIGE LICHT,
+is deel I der
+
+
+Meesterwerken van Peter Rosegger.
+
+In deze editie zullen verschijnen:
+
+I. HKT-JEEUWIGE LICHT, bewerking van
+W. ZAALBERG.
+{II. DE GEDENKSCHRIFTEN VAN DEN
+WOUDMCHOOL.mEE$TER, bewerking
+van W. ZAALBERG.
+III. PETER MAYIt, bewerking van W. ZAALBERG.
+
+IV. HUT EEUWIGE VUUR, bewerking van
+W. ZAALBERG.
+V. HET GIF DER BESCHAVING, bewerking
+van LOUISE ZAALBERG.
+
+VI. LANDZEGEN, Roman van een boer geworden
+kranteuselirrjver, bewerking van W. ZAALBERG.
+
+w[F&gt;rjj3 per deel aleohta 9O cent.
+
+Uitgaven van
+
+VAN HOLKEMA &amp; WARENDORF, AMSTERDAM.
+Sprookjes van Grootvader
+GEÏLLUSTREERD DOOR
+HEIIIIIW HOERHLE2RK.
+Prijs Ingenaaid f 1.10, Gebonden f 1.50
+in ellïen. boekhandel
+
+Uitgave: VAN HOLKEMA &amp; WAREM)ORF,\AMSTERDAM.
+CLOBUS
+FINEST
+LADIES' &amp; GENT'S TAILORING
+
+N. S P l E G E L S T R. 20
+b. KONINGSPLEIN,
+TEL 9559.
+HIGH CLASS FIT
+
+SUPERIOR WORKMANSHIP
+MAANDAG A.S. VEKSCHIJJÜTT:
+Haart &amp; lever's Officieele Reisde
+t/ ' O
+Met KAART van de Spoor- en Tramwegen in Nederland,
+
+Prijs . . . 12'/2 cent.
+
+Uitgave van VAN HOLKEMA &amp; WARENDORF te Amsterdam
+Modern-Bibliotheek.
+
+Een serie van de beste hedendaagsche Romans.
+
+In eiken Boekhandel verkrijgbaar:
+
+II. DE DRIE DAMES ONUSSEWINOKEL, door Minca
+Verster—Bosch Reitz.
+III. DE ZWALUWEN NEERGESTREKEN, door Louis
+Couperus.
+IV. ZUSTER LINDA, door Thérèse Hoven.
+V. DE GEZUSTERS MEIENHOF, door Suze la
+Chapelle Roobol.
+VI. ALS HET HART JONG IS, door Eline van Stuwe,
+VII. BARON SELDERIE, door F. de Sinclair.
+VIII. 'N SOHAT VAN 'N VROUW, door Minca Ver ster
+Bosch Reitz.
+IX. JANNEKE DE PIONIERSTER, door Louise B. B.
+X. HET HOOGSTE HUWELIJK, door Jean Stapelveld.
+XI. HET JOODJE, door Oarry van Bruggen.
+XII. DE WITTE VALLEI, door G. van Hulzen.
+XIII. HET LOON DER BRAVEN, door F. de Sinclair.
+
+Ieder tel met oilaiteeleÉir van f illy Sluiter of P, van ier Hem.
+
+Prijs per deel gebonden 90 Cent.
+
+
+Uitgave van VAN HOLKEMA &amp; WARENDORF, Amsterdam.
+
+</text>
+<image timestamp="2002:08:21:21:57:43.00" size="241534">D4000204.TIF</image>
+</page>
+</document>

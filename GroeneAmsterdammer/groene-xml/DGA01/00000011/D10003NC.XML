@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230407</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer'1, Weekblad voor Nederland van 7 April 1923
+HET CONFLICT AAN DE RUHR
+Nadruk verboden
+G e r m a n i a: Zie je dat nu niet ?"
+Brandwacht: Het gaat me niet &amp;n, mij is niets gemeld."
+Amst. Boek- en Steendrukketl), v'h. Ellerraan, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:25:21:43:22.00" size="183403">D10003NC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19211119</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+19 W.
+2317
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+Teekening van Arthur Rackham (Uit de Britsche Balladen)
+
+
+GEÏLLUSTREERDE BOEKEN
+BRITSCHE BALLADEN, platen van Arthur
+Rackham, vertaling Albert Verwey.
+Uitgever: v. Holkema en Warendorf.
+
+Als een weldaad ons innerlijk wezen nade
+
+rend, is het oude volkslied.
+Het is een groet van die voor ons gingen,
+het tast naar onze ziel en wij tasten terug
+naar dat ons onbekende leven, waarvan ons
+een kern geboden wordt.
+Het oude volkslied komt van diepe eeuwen
+ver, wie zal zeggen, hoevele! Vele
+menschengeslachten hebben het ongeschreven elkaar
+overgereikt. De eeuwen hebben het gevijld;
+alle woordenpraal viel weg als onnutte erts
+en als een geslepen steen, afgerond en gaaf,
+fonkelt eindelijk zijn krachtig licht op in
+de eerste bekende geschriften.
+Het lied van mond tot mond, niet door een
+mensch doch door opeenvolgende geslachten
+gemaakt, verkreeg eindelijk zijn stabiliteit.
+Van toen het eenmaal geschreven werd was
+het veilig bezit. Eenigszins, want heel veel
+liederen moeten zijn verloren gegaan.
+Sedert het midden der vijfde eeuw ont
+
+stond een zich snel ontwikkelende
+Mariadienst als hulde aan de Moeder-Qods; van
+dien af ontstonden de Maria-legenden.
+De sproke van Beatrijs werd omstreeks
+dertien honderd te boek gesteld maar een
+mondelinge mededeeling; de taal heeft de
+volkomen zuiverheid van het alleen-noodige,
+doch die in ongerepte kracht. Eeuwen na het
+ontstaan der Maria-vereering werd deze als
+een allerpuurst kristal in de Beatrijs-legende
+afgescheiden.
+Zelfs Boutens kon dien oorspronkelijk
+schoonen vorm niet vaster leggen, niet dieper
+beelden. Een schat van liederen bezitten
+we uit de vijftiende en zestiende eeuw, die
+naar alle waarschijnlijkheid eeuwen daarvoor
+door den volksmond reeds werden gevormd.
+Bisschop Thomas Percy legde in 1765
+onder den titel Reliques of ancient English
+poetry", de nog bekend gebleven volksliederen
+van Engeland vast. Hij gaf deze
+oud-Engelsche en oud-Schotsche liederen den naam van
+balladen; het zijn echter liederen dikwijls
+half lyrisch, half episch.
+Eenvoudige rondreizende minstreelen trok
+
+ken ermee de ruwe natuur der Schotsche
+landen in en zorgden voor hun verbreiding.
+Koningen, koningsdochters, prinsen, hertogen,
+graven, princessen en lords zijn de personen
+waarom en waarover 't gaat.
+De liederen, hebben denzelfden
+onnavolgbaren eenvoud van onze liederen, zij zijn
+misschien wat sprookjesachtiger, doch hebben
+het even diepe gevoelsleven in weinige woorden
+gevat. En kenmerk van de echte ballade
+hebben -zij het abrupte, dikwijls droevige
+einde.
+
+Een voorbeeld..
+
+O waar ben je geweest, lord Randal, mijn zoon?
+O, waar ben je geweest, mijn kloeke jonge man?
+Ik ben in 't wilde woud geweest; moeder, maak mijn
+bed Bereed
+Ik ben moe van het jagen en wou dat ik lag."
+
+Waar heb je gegeten, lord Randal, mijn zoon?
+Waar heb je cegeten, mijn kloeke jonge man?"
+Ik at met mijn liefste; moeder maak mijn bed gereed
+Ik ben moe van het jagen en wou dat ik lag."
+Wat kreeg je te eten, lord Randal mijn zoon?
+Wat kreeg je te eten, mijn kloeke jonge man?"
+Ik kreeg alen in vleeschnat; moeder, maak mijn bed
+gereed
+Ik ben moe van het jagen, en wou dat ik lag."
+Wat werd er van je honden, lord Randal. mijn zoon?
+Wat werd er van je honden, mijn kloeke jonge man?"
+O, ze zwollen op en stierven ; moeder, maak mijn
+bed gereed
+Ik ben moe van het jagen en wou dat ik lag."
+,,O, ik vrees je bent vergeven, lord Randal mijn zoon
+O, ik vrees je bent vergeven, mijn kloeke jonge man l'
+O ja ik ben vergeven; moeder, maak mijn bed gereed
+Ik ben moe van het leven en wou dat ik lag!"
+
+Albert Verwey heeft voor de vertaling
+dezer Engc'sche verzen zorg gedragen. De
+gevolgde teksten komen voor in: some
+British ballads, illustrated bij Arthur Rack
+
+ham," uitgegeven door de Constable &amp; Co.
+Ltd. te Londen. Verdere aanwijzing wordt in
+deze korte inleiding, die niet meer dan een
+voorwoord is, niet gegeven. Slechts heeft
+Verwey eraan toegevoegd: De vertaler heeft
+zich de vrijheid, zelfs de speelschheid
+veioorloofd die nadichters van volksliederen te
+allen tijde eigen was." Van den nauwkeurigen
+tijd der herkomst weten wij dus niets. Wel is
+er een duidelijk verschil te voelen wat betreft
+den tijd waarin de verschillende
+balladen ontstonden. In De jacht
+in Cheviot" wordt Hendrik de vierde
+genoemd; in de meeste verzen
+tasten we zoowel naar afkomst,
+naar tijd van ontstaan in 't duister
+en wijst slechts een zeer groote
+simpelheid van vorm en gedachte
+een zeer ouden datum aan. Geen
+enkel religieus lied is er bij de
+balladen.
+Liefde-liederen zijn verreweg de
+meeste verzen en in deze liefde
+
+zangen is het het telkens terug
+
+keerend motief van den ontrouwen
+man, den wreeden vader en mans
+
+vader, de wre'ede moeder en schoon
+
+moeder. Een andere maal is het
+de ongehoorzame zoon, de onge
+
+hoorzame dochter, die tegen moe
+
+ders wil in gaat jagen of een
+ridder volgt en dan zonder missen
+den dood vindt. Aandoenlijke
+klaagzangen zijn het af en toe en een uit
+
+zondering is het guitige liedje van de oude
+jas dat wel eeuwen later moet zijn ontstaan.
+Albert Verwey heeft de volle naïeviteit der
+balladen bewaard, geheel den eentonigen
+cadans weergegeven en al missen we de
+eigenlijke zoetheid van onze taal, zooals die
+klinkt in de liederen van de non
+Hadewych, in Wapene Martijn, in Floris ende
+Blanchefloer, in: Van den Vos
+Reynaerde, missen we heel die geurigheid
+van oud taaleigen, die in vergelijking met
+andere talen aesthetisch hoog staat aange
+
+schreven, er blijft nog heel wat over: de
+kennisname met de fijne zinnelijkheid, met
+het ruwe cynisme dier oude Schotsche bal
+
+laden, die onthullers toch altijd zijn eener ons
+onbekende volksziel.
+Met mooie kleine houtsneden het equivalent
+der pittigheid van den tekst, zoude deze uit
+
+gave uitsluitend verlucht hebben kunnen
+zijn.
+^ Schilderijen Restaureeren
+is geen zaak om toe te vertrouwen aan den
+eersten den besten verver, lijstenmaker, winke
+
+lier 'm schilderbenoodigdheden, noch aan win
+
+keliers die schilderijen verkoopen, maar aan
+hem, die er allén zijn vak van maakt, die
+van jongs af aan in het vak is opgegroeid,
+met wetenschappelijke, geoefenden ervaring.
+Wendt U voor het vernissen, schoonmaken
+en verder onderhoud uwer schilderijen tot
+den erkenden schilderijen-restaurateur: H
+C. B. VAN BOHEMEN, (Adv.)
+Helmersi&gt;traat 57, DEN HAAG.
+Ilillllimiililllllllllllllll
+De uitgave is, behalve door deze, gesierd
+met gekleurde platen van Rackham. En da;;r
+dit boek zooals het m vertaling voor ons ligt
+een middel is om den geest der middeleeuwen
+nabij te komen, mogen we deze precieuse
+platen eenigszins aanvaarden als miniaturen.
+Zij hebben er de verfijning van, zij het niet de
+fnssche kracht.
+De houtsnede is door Rackham in zijn
+verluchting van den kostelijken stof en ge
+
+lukkig niet versmaad. Op het titelblad al
+dadelijk het mooie teekeningetje : een voor
+
+beeld van teekenkunst, waaraan Walter
+Crane, wat boekillustratie betreft,in Engeland
+den stoot heeft gegeven. Het is het type ver
+
+siering dat van Crane kon zijn; verderop volgen
+tusschen den tekst, aan 't eind van een vers,
+teekeningetjes in inkt die kleine invallen
+schijnen; bij beknoptheid zijn zij niet eenvou
+
+dig en streng genoeg om den geest der
+houtsneden vast te houden. In het lange, onge
+
+twijfeld zeer vroege vers: de jacht in Cheviot"
+heeft het houtsneetje, dat de geschiedenis
+inleidt, de allure een oud prentje te zijn.
+Wellicht is het een bewerking naar een oude
+houtsnede; zeer aantrekkelijker is inderdaad
+het volgende zwart en wit prentje dat de
+boogschutters voorstelt en waarvan het in
+het gedicht luidt:
+
+De Engelsche mannen spanden hun bogen
+Sterk van hart en van hand.
+De pezen trilden, pijlen vlogen
+Honderdveertig sneren zonken in 't zand.
+
+De ballade van: De twee raven wordt door
+een origineele inktteekening ingeleid, geen
+stylnabootsing, doch het werk van den tee
+
+kenaar zelf in ongekunstelden vorm. De ge
+
+schiedenissen van graaf Richard en graaf
+Brand zijn met teekeningen eveneens fraai
+versierd.
+Teekening van Arthur Rackham (Uit de Britsche Balladen)
+Teekening van Arthur Rackham (Uit de Britsche Balladen)
+De raadsiidder" met het refrein
+Junipcrus, thym en gentiaan
+Daar de duif vliegt over de moerbeibaan,
+heeft tot vignet een der fraaiste kleine tee
+
+keningen, beknopt en volledig: de drie zusters
+onder den boom, de ridder die opdoemt en de
+duif van het refrein, die in zijn grooten om
+
+vang zijn belangrijkheid doet gevoelen.
+Waar de oogen in de eerste plaats in dit
+prachtwerk naar toegaan zijn de kostbare,
+inderdaad af en toe als handschilderingen
+aandoende platen van Rackham. Het is
+niet mogelijk dat deze teekeningen in kleur
+veel hebben verloren van het origineel. De
+overbrenging van het handwerk naar den
+druk is volkomen. De kleinste finesses zijn
+zelfs tot haar recht gekomen.
+Een sprekend bewijs van dit feit levert de
+eerst plaat in het boek bij het gedicht: Heer
+Olof.
+Heer Olof rijdt tegen de waarschuwing
+van zijn lief in langs de bronnen van een ri
+
+viertje.
+Aan 't wasschen was daar een zoete meid.
+Wasch door, wasch door mijn zoete meid,
+Zoo'n zijden hemdje wascht niet elk."
+Gegroet, gegroet, mijn schoone Heer,
+Met je lichaam, witter dan melk."
+Het wasschende meisje is een meermin, die
+hemeen vergiftigdendoekrond het hoofd doet.
+Op het pijnkrijten van heer Olof antwoordt
+zij: erger, erger wordt de pijn, tot je dood zult
+zijn."
+Toen om haar eerst de dood te doen
+Trok hij zijn flikkerend rapier
+Maar eensklaps veranderde ze in een visch
+En sprong vroolijk in de rivier.
+De laatste regels geven de voorstelling der
+plaat. Het riddertje gaat vlug terug naar zijn
+moeder en sterft.
+Het buitengewoon fijne van de voorstelling
+is de uitdrukking in het gelaat van het rid
+
+dertje. Onder den witten vergiftigden doek
+sterven duidelijk de oogen. Zijn hand heft
+onmachtig het rapier om de speelsche meer
+
+min te dooden, de andere hand
+grijpt naar het smartelijke aan
+
+gezicht, waarin duidelijk de oogen
+verbleeken.
+Het is een fijnheid van detail
+waarin Rackham uitmunt. Weer
+
+galoos virtuoos, voor wien geen
+moeilijkheden in het teekenen be
+
+staan, zoekt hij in details en kleu
+
+ren steeds naar de grootste ver
+
+fijning. Decoratief zijn zeer stellig
+andere platen, doch sfeerstem
+
+ming is er toch evenmin aan te
+ontzeggen. Hoe desolaat kan een
+bergland van eentonige heuvelen
+aandoen, hoe stemmig rijzen de
+berkeboomen, welk een bronzen
+kleurpracht is er in de plaat van
+'t gedicht van Johnnie van
+Cockerslie. Prachtigeenvoudig ook
+de plaat van lord Randal, die,
+bleek van 't vergif zelf reeds, naar
+zijn vergiftigde handen kijkt. In
+pralenden rijkdom van kleur, is de konings
+
+dochter die, met Hindhorn, in
+beedlaarskleeren vermomd, trouwen gaat.
+En hoe voortreffelijk tot slot, hoe artistiek
+van behandeling is de plaat van de raven, die
+in de verlaten natuur neerzien op het lijk
+van een jongen ridder, dat zij de oogen willen
+uitpikken en de gouden lokken rooven voor
+hun nest. Gestoord in hun werk zullen zij
+niet worden want:
+Zijn hond is alweer gaan loopen
+Zijn valk in rfe lucht de vogels stroopen
+Zijn vriendin nam een andre' man
+
+AL B. DRAAYE R—D E HAAS
+
+iitiiiMiiiiiiiiiHMiiiiiii;iiiiMiitiiiiiiiiii)iiiiiiiiiiiiiiiii!inii jtiiiniiiiiiini
+Grand Hotel Funckler
+HAARLEM
+•:- LE MEILLEUR RESTAURANT EN VILLE
+-:Gulliver's Reizen door JONATHAN SWIFT,
+vertaald naar de nieuwe uitgave van
+PADRAIC COLUN. Geiillustreerd door
+Willy Pogany. Zutphen. W. J. Thieme
+en Cie.
+
+Er is iets opmerkelijks met Swift. Terwijl
+wij veel dat de vroegere eeuwen ons hebben
+nagelaten, en dat als spotternij of oolijkheid
+bedoeld was, nu niet meer als zoodanig
+kunnen waardeeren, doch maar liever als
+cultuur-document aanvaarden, is zijn giftig
+satiriek werk voor ons amusante lectuur, en
+zelfs kinderlectuur geworden. Althans dat
+Rabelais-achtige Gulliyers Reizen."
+De biografie van Swift die hier aan het
+eigenlijke werk voorafgaat, en ook de uit
+
+voerigheid van de bewerking, schijnen er
+intusschen op te wijzen, dat deze uitgaaf niet
+als kinderboek bedoeld is. Toch blijft het
+verschijnsel het zelfde: wij lezen deze ver
+
+halen met grooten schik, hebben plezier om
+de kleinzieligheid der Lilliputters en hun
+intriges, en om de naieviteit der
+Brobdingnaggers, en moeten ons zelf dan toch telkens
+even voorhouden, dat op deze indirecte wijze
+de gewone menschenmaatschappij om den
+schrijver heen gehekeld wordt. Tot wij in het
+land van de paarden komen, waar de bitter
+
+heid toch wel heel sterk te proeven is'.
+Van Gulliver's Travels" (dat van 1727
+is) verscheen ongeveer 1870 een uitgaaf,
+geïllustreerd door T. Morten. Ik releveer dit
+feit, omdat de knappe teekenaar, naar wien de
+mooie houtgravures werden gemaakt, naast
+veel voortreffelijke prenten van eigen vin
+
+ding, andere op zeer vrijmoedige wijze eenigs
+
+zins veranderd had overgenomen uit Gustave
+Doré's illustraties voor Pantagruel, een
+hulde aan den Franschen meesterillu^trator,
+die niet van den besten smaak schijnt.
+Wij zijn thans ver af van de methode van
+illustreeren door houtgravures. Willy Pogany
+geeft eenige gewone zwart- en witteekeningen
+en verder aquarellen, in kleurendruk gere
+
+produceerd. De eerste zijn niet kwaad, doch
+niet erg belangtijk. Onder de gekleurde
+prenten zijn eenige zeer goede. De Hongaar
+Pogany heeft een sterker kleurgevoel dan wij
+gewoon zijn van deEngelsche of Amerikaansche
+teekenaars, die zich op de kleurprent toe
+
+leggen. Hij weet in al zijn prenten enkele
+onvermengde lokale kleuren te brengen,
+die het geheel voor slapheid hoeden. Een
+geestig prentje is dat, waar de keizer de
+candidaten voor onderscheidingen over zijn
+stok laat springen, of daar onderdoor krui
+
+pen, en werkelijk heel mooi is het plaatje
+met het boerenmeisje, dat den kleinen
+Gulliver haar taal leert. Haar boersch, rossig
+type, haar bonte jurkje en de
+sterk-roodgeverfde landelijke meubelen tegen den grijzen
+grond geven een kostelijk geheel. Het paard
+op het laatste prentje is fijn geteekend, en
+ook hier is een aantrekkelijk kleurensemble
+verkregen.
+
+CORNELIS VET n
+Teekening van W. Pogany (Uit Gullivers reizen)
+
+HIIIIIIIII1IIII1IIIMIIIIIIII	III	IIIIIIIIIIMIIIIIIIIIIIItllllllllltllllllllllllllllllllllllHlllilllll
+Teekening van Arthur Rackham (Uit de Britsche Balladen) J
+Reserveberekening bij Levens
+
+verzekering-Maatschappijen
+
+In een tweetal nummers van dit veelgelezen
+blad hebben de heer Mr. J. Kist en
+ondergeteekende in het belang van het publiek hunne
+meening geuit in zake de reserveberekening
+bij levensverzekering-maatschappijen. Op
+mijne bedenkingen tegen de inzichten van Mr.
+Kist heeft hij de zijne zeer in het kort tegen
+die van mij gesteld.
+Nu kan het inderdaad ook niet in onze be
+
+doeling liggen in dit blad het debat voort
+te zetten (de redactie zou—terecht het
+niet toestaan k) en daarom volg ik hier het
+voorbeeld, mij eens gegeven door een kolos
+
+salen K'undertschen boer op het
+landhuisKUHSTHAHDEL
+JACK HIEKERK v l h Chef Goupil A Co.
+23 &amp; 25a Lange Houtstr. 's-Grannhage
+MEESTERWERKEN VAH DE
+17e EEUWSCHE, HAAGSCHE
+EU FRAHSCHE SCHOOL
+houdkundig congres van 1888 te
+Bergen-opZoom.
+De pachters en boeren van Noord-Brabant
+werden in dien tijd door de
+beetwortelsuikerfabrikanten te goeder trouw gedupeerd, zoo
+
+als reeds zoolang de verzekerden bij vele Ned.
+Levensverzekering-maatschappijen door de
+directies worden gedupeerd, te goeder trouw.
+Die boeren en pachters contracteerden met de
+fabrikanten het verbouwen en leveren van
+suikerbieten; zij kregen een voorschot en
+ontvingen gratis het zaad er voor, maar waren
+dan ook verplicht dat zaad en gén ander te
+gebruiken.
+Uit dat fabrikantenzaad nu groeiden kleine
+bieten met hoog suikergehalte, en die bieten
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+werden door de fabrikanten betaald naar
+het gewicht.
+Eindelijk gingen de landbouwers inzien,
+dat zij op deze wijze gefopt werden; hunne
+woordvoerders verlangden betaling naar ge
+
+wicht en gehalte.
+Die eisch werd aanvankelijk zeer geleerd
+en breedvoerig bestreden in dien kring van
+eenvoudige menschen, die wél gevoelden dat
+er iets niet in orde was, doch de uitvoerige
+betoogen moeilijk konden volgen.
+Toen kwam de reus uit Klundert op het
+podium.
+Ik ben geen redenaar," zei hij: maar"
+TH. FM-:1. MM [D
+Hofleverancier - Amsterdam
+UIVERSÏRW HB •:- WILLENSPARIWEG i
+TEL. NOS. 2040-1881 TEL. No. 1793 Zuid
+KOUDE EN WARME SCHOTELS
+Teekening van W. Pogany ((.'it Gullivers reizen)
+
+IIIIIIIIIIMNIIIIIIIItlllllll iiiHlIllllllllllllllPtlllllllllllillillllllllllllllllllllllllllllllllllliiiiiiiiiiiiiiiiiiiinii
+Levensverzekering Maatschappijj
+H A A R L E M"
+Wllsonspieln 11
+DE VQORDEEUQSTE TARIEVEN
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMMIMIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+(hij haalde uit den linkerzak van zijn
+ouderwetschen wijden pantalon een bietje als een
+rammenas) dit krijg ik van jelui zaad en"
+(uit zijn rechterzak kwam een biet als een
+Edammerkaas) dit krijg ik als ik m'n eigen
+zaad gebruik. Nou weten jelui het wel!"
+De landbouwers hadden het verstaan en de
+betalingsmethode werd gewijzigd.
+Welnu, zoo is het precies, geachte lezer,
+met de zekerheid die ge koopt van levens
+
+verzekering-maatschappijen.
+Waar sterk wordt gezillmerd of waar de
+gewijzigde bruto-methode wordt toegepast,
+is de zekerheid van Uw polis als een rammenas
+zoo klein.
+Doch waar de netto-methode wordt
+gehuldigden overigens het beheer en de grond
+
+slagen ook goed zijn, _daar is Uw zekerheid
+groot en vast en stevig als een Edammer
+
+kaas.
+Nu weet ge het wel !
+
+G. L. JANSSEN (P E R i o)
+Rotterdam, November '21.
+iPADOX
+LtVCIT K/VtVLAMC»WZCC* K.O9TCN
+TU»AU.C H*UTC«M/Tf»UCTtCy
+ACX
+LANDHUIZEN
+
+StHOOLCCBOUWCN
+
+«JACHTHUIZEN
+ZIEKENHUIZEN __
+INLICHTINCEN Of AAMVVAAC
+
+</text>
+<image timestamp="2002:08:25:01:23:08.00" size="437748">D40003SA.TIF</image>
+</page>
+</document>

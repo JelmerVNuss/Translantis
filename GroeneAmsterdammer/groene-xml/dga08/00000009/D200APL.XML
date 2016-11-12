@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340217</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ho., 2959
+De Groene Amsterdammer van 17 Februari 1934
+Wetenschappelijke varia
+Getijdenpeilschaal in volle zee
+Dr. P. van Olst
+Onder-water instrument
+Eb en vloed, de getijden die door den invloed
+der maan vooral, maar ook van de zon en in nog
+geringer mate van de overige hemellichamen
+in de zeeën en oceanen optreden, zijn in theorie
+een hoogst regelmatig, maar in de praktijk door
+allerlei plaatselijke storingen een zeer variabel
+verschijnsel. Voor de scheepvaart is de kennis
+van deze variaties natuurlijk van het hoogste
+belang. Vandaar dan ook dat men zijn uiterste
+best doet deze variaties zoo nauwkeurig te
+bestudeeren dat men ook in deze schijnbaar onregel
+
+matige variabiliteit de erin verscholen regelmaat
+ontdekken kan, waarvan men dan
+gebruik kan maken om
+getijdentabellen te publiceeren voor de
+toekomst, zoodat een zeeman met
+deze tabellen precies uit kan maken L
+met welken getij-toestand hij op
+zijn reizen rekening moet houden.
+bijv. bij het binnenloopen van
+havens. Reeds jaren geleden heb
+ik in deze rubriek de zeer
+ingewikkelde en omvangrijke machines ]_
+beschreven waarmee automatisch
+de getijden berekend worden voor
+bepaalde plaatsen. ledere factor,
+die het getij kan beïnvloeden is
+door een eigen raadje
+vertegenwoordigd. Voordat de machine be- j
+gint worden eerst alle raadjes zoo
+gesteld als overeenkomt met de
+plaatselijke toestanden in een be
+
+paalde haven. Begint dan de ma
+
+chine te loopen dan komen er,
+automatisch opgeteekend, alle 'ge
+
+gevens uit van hoog en laag water
+in. het volgende jaar, en die, als
+men hen door rekenaars moest
+laten v uitrekenen, zeeën van tijd
+en geduld en accuratesse zouden
+eischen. Deze machine maakt geen fouten, zooals
+de beste rekenaar wel eens doet en heeft dus de
+vaardigheid die een der hoogleeraren onlangs
+voorstond als voornaamste eisch voor de studie
+te Delft/.
+Deze toestellen, die in later jaren steeds verder
+volmaakt zijn, vooral door de eischen die in de
+oorlogsjaren gesteld werden door de gebruikers
+Tan duikbooten, zijn echter alleen te gebruiken
+n
+w////////////,
+-ïrd. •EIH-I
+- .. ...
+n
+'
+
+.C
+l
+l
+i
+i
+U
+l
+l
+Alle kamers fl. 3.50 per
+pers. - zonder - en fl.
+5.per pers. m. badkamer
+Uitgebr. ontbijt fl. 1-.
+hetzij voor een
+of voor langeren tijc
+Hotel
+Amsterdam - Leidscheplein
+Tel. 31600 (10 lijnen)
+als men een flinken voorraad metingen heeft van de
+getijden-standen op de plek waarvoor men de
+toekomst der getijden voorspellen wil. Vandaar
+dat men in alle havens peilschalen aantreft, waar
+gewoonlijk automatisch, dag in dag uit de water
+
+standen opgeteekend worden, jaren achtereen
+om voldoende cijfermateriaal te leveren waaruit
+men de noodige gegevens kan afleiden door
+mathematische kunstgrepen. Nu is het aanbrengen
+van een automatische peilschaal, aan den vasten
+wal bevestigd, een kleinigheid. Moeilijker wordt
+het echter als men de studie der getijden ook wil
+uitstrekken tot de volzee, d,us tot de groote open
+en diepe watermassa, waarin de
+getijden eigenlijk normaal ontstaan
+om dan bij de kusten vervormd en
+beïnvloed te worden tot rariteiten,
+een soort caricatuur der
+volzeegetijden. Men kan echter moeilijk
+in honderden meters diepte en
+dikwijls stormachtig water een
+vaste peilschaal bouwen! Na veel
+proeven heeft Dr. Rauschelbach
+thans een practisch apparaat ge
+
+bouwd dat in gebruik blijkt te
+voldoen en waarmee men werkelijk
+in volzee het verloop van eb en
+vloed kan opteekenen met verras
+
+sende groote nauwkeurigheid. Het
+toestel is te gedetailleerd om hier
+uitvoerig beschreven te worden,
+maar ik kan wel het principe ervan
+aangeven.
+* *
+
+Stel. men zet een buis A, die
+van boven dicht is, en lucht bevat,
+in een bak B met water, die door
+den goed sluitenden zuiger Z is
+afgesloten. Oefent men nu een druk
+uit op dezen zuiger, dan zal het
+water uit den bak opgeperst worden in de buis A.
+Door de stijgende waterzuil wordt de opgesloten
+lucht boven in de buis steeds meer samengeperst
+en krijgt dus steeds grooter druk. Is deze druk zoo
+groot geworden dat zij evenwicht houdt met de
+druk die op zuiger Z wordt uitgeoefend dan stijgt
+het water niet verder, bijv, tot b. Drukt men
+harder dan stijgt het dus hooger bijv. tot d; bij
+minder druk daalt het bijv. tot e.
+Laat men dit heele apparaat in zee zakken dan
+drukt er bij toenemende. diepte steeds grooter
+zee-waterdruk op zuiger Z,. dus de waterzuil in A
+stijgt voortdurend tot het toestel op den zeebodem
+ligt. Wanneer nu bij vloed de waterlaag, die boven
+den zeebodem staat, dikker wordt, neemt de
+zeewaterdruk toe, dus de zuil in A stijgt. Neemt
+echter bij eb de waterlaag af, dan vermindert de
+zeewaterdruk en de zuil in A daalt.
+De stand van de waterzuil in A moet nu nog
+automatisch afgelezen worden want op 300 nieter
+diepte kan geen waarnemer 't uithouden! Dit
+aflezen geschiedt fotografisch. De lichtbundel LL
+valt door de buis A heen op n gevoelige film
+die door een uurwerk met constante snelheid
+voortdraaid (hier niet .geteekend). Voor zoover
+de buis A met water gevuld is, is zij zóó lichtbrekend
+dat het licht geconcentreerd wordt en een duidelijke
+inwerking heeft op de film, terwijl de buis, voor
+zoover er alleen maar luchi in zit, deze
+lichtconcentratie niet geeft en daardoor in het korte
+moment dat de lichtbundel schijnt, de film niet
+aantast. Op de film zal dus bij waterzuilhoogte l
+een zwarte streep van de lengte a—b ontstaan, bij
+hoogte 2 een langere streep a—d, bij hoogte 3 een
+kortere streep a—e. ledere vijf minuten passeert
+het licht en de opname wordt gemaakt; de
+film draait met zoodanig tempo dat zij in vijf
+minuten drie millimeter verder schuift. Men krijgt
+dus een serie zwarte strepen van veranderlijke
+lengte, naar gelang het getij verloopt, met onderlinge
+afstanden van 3 mm. Het toestel is in werkelijkheid
+veel ingewikkelder en bevat bovendien allerlei
+hulpapparaten, zooals een accumulator voor liet
+belichtingsapparaat, denregelaar voor liet belichten
+om de vijf minuten, de film met het d rij f werk
+ASTORIA
+DE WEENER-STEMMINGMAKERS
+ZIJN WEER TERUG
+Hier heerscht sfeer en vroolijkheid
+ervoor, dat ingericht is voor een periode van
+35 dagen !, en ook een thermometer met auto-:
+matische opteekening. Zoodra de omgeving nl.
+warmer wordt, krijgt de lucht boven in de buis
+A een grooter spanning en eenzelfde zeewaterdruk
+zou dan de waterzuil in A minder hoog kunnen
+oppersen, wat misleidend zou zijn, daar men dan
+uit de streeplengte een geringer zeediepte zou
+aflezen dan in werkelijkheid het geval was. Kent
+men echter de temperatuur, dan kan men uit de
+afgelezen zeediepte gemakkelijk de werkelijke
+zeediepte berekenen; vandaar dat het noodig' is
+het temperatuurverloop ook automatisch te
+registreeren.
+Alles zit keurig en veilig verpakt in een metalen
+doos, die volgens de bekende Cardanus-rnethode
+opgehangen is (zooals een kompas !) in een stevig
+stalen krat, dat men voorzichtig op den zeebodem
+laat zinken. Hoe het krat ook komt te liggen, de
+Cardaixus-ophanging maakt dat het eigenlijke
+apparaat steeds zonder storingen kan werken.
+Vóór men het laat zakken moet eerst nauwkeurig
+de zeediepte gemeten worden. Deze meting leert
+welke druk ongeveer heerscht op den zeebodem
+en nu wordt boven in buis A samengeperste lucht
+gebracht, overeenkomend met dezen druk, zoodat
+het toestel alleen de betrekkelijk kleine
+drukverschillen bij eb en vloed behoeft op te teekenen. Groote
+gevoeligheid, dus flink meetbare
+streeplengteverschillen, wordt namelijk alleen verkregen met
+een nauwe buis, en als men den geheelen druk
+van tientallen atmosfeeren ermee wilde
+afteekenen, moest de buis onbruikbaar lang zijn, wat
+thans echter vermeden is. De nauwkeurigheid
+waarmee het toestel werkt is verbluffend grootj
+bij zeediepten tot 55 meter kon men er een
+diepte
+verandering van slechts 3 millimeter reeds mee
+constateeren. **&lt;
+Het volzee-peilapparaat wordt door een drijvende.
+boei aangegeven om het geregeld weer terug te
+vinden, op te halen en de film te vernieuwen.
+Liefst wordt nl. de meting voortgezet over een
+400-tal dagen, om den invloed van verschillende.
+winden, luchtdruk, zeestroomen e. d. te vereffenen.
+Ook aan de kust en bij havens waar ijsgaiig,
+stormvloeden enz. een gewone peilschaal met
+vernietiging bedreigen, is een dergelijk onder water
+liggend toestel prachtig te gebruiken.
+
+
+Tentoonstellingen
+Indanthrenhuis, Leidschestraat, Amsterdam.
+.,Expositie 1934", van gordijnen, en
+bespanningsstoffen.
+Kunsthandel de Boer, Amsterdam.
+Brev.gheltentoons telling.
+Gebouw B.A.I., Amsterdam. Automobielten
+
+toonstelling. Tot 19 Februari.
+Rotterdamsche Kunstkring, Reclameplaten, in
+
+gezonden naar aanleiding van de door de Nationale
+Levensverzekeringbank N.V. te Rotterdam uit
+
+geschreven prijsvraag. Tot 22 Februari.
+Kunstzaal W. Wagenaar, N. Gracht 25, Utrecht,
+Werken door H. Chabot. Tot 23 Februari.
+Kunstkelder 't Center, Torenstraat 140, Den
+Haag. Schilderijen stadsgezichten uit Frankrijk
+en Spanje. Tot 23 Februari.
+Museum voor ouders en opvoeders,
+'s-Gravendijkwal 20, Rotterdam. Tentoonstelling: liet Mid
+
+delbaar en Voorbereidend Hooger Onderwijs en de
+veranderde Maatschappij, Tot 25 Februari.
+SANTEE LANDWEER
+KEIZERSGRACHT BIJ LEIDSChESTtAAT
+SCHILDERIJEN VAN DEN
+VLAAMSCHEN SCHILDER
+JAAK SCHAEPhERDERS
+UITIMOODIGING TOT DE OPENING OP
+ZATERDAG 17 FEBRUARI TE 3 UUR
+
+</text>
+<image timestamp="2002:10:28:07:00:48.00" size="218413">D200APL.TIF</image>
+</page>
+</document>

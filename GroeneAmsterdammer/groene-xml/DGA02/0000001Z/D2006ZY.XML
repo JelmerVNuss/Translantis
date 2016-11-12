@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331202</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+«o. 2948
+De Groene Amsterdammer van 2 December 1933
+19
+Radio en grammofoon
+
+r/i:
+Radio-uitzending
+van muziek
+Karel Mengelberg
+Artlstlek-technische eischen
+De omroepkunst is, na de meer
+dan tienjarige technische ontwikke
+
+ling, geen technisch probleem meer,
+doch een technisch-artistieke vraag
+geworden. De hooge stand van de
+huidige radiotechniek zou de basis
+kunnen zijn van een autonome
+omroepkunst, indien het, door de tech
+
+niek verworvene, artistiek gebruikt
+werd.
+Wanneer men zich nu afvraagt,
+wat men van de artistieke qualiteit
+van een luidsprekerklankbeeld ver
+
+wachten mag, zoo moet men eerst de
+vraag behandelen, wat er met -de
+technische mogelijkheden van de
+radiomuziekuitzendingen bereikt kan
+worden. In verband met de behande
+
+ling van deze laatste vraag kunnen
+beschouwingen over het
+uitzendingsen ontvangstproces achterwege blijven
+en er kan direct ingegaan worden
+op het opnameproces. Door dit
+ópnameproces immers wordt het
+origineele klankbeeld in de concertzaal of
+in de studio omgevormd tot de
+acoustische fotografie daarvan: het luid
+
+sprekerklankbeeld, terwijl het tech
+
+nisch juiste uitzend- en ontvang
+
+proces in dit luidsprekerklankbeeld
+geen wezenlijke veranderingen aan
+
+brengt.
+Met de technische middelen van
+het huidige opnameproces is men in
+staat klank en klankkleur tot op
+een hoogen graad van evenredigheid
+weer te geven. Dientengevolge be
+
+hoeft het geen vrome wensch te zijn,
+dat men zonder meer in het
+luidspreHet mooiste cadeau, dat steeds
+vreugde brengt, Is de
+ZEISS IKON
+NETTAR-CAlilERA
+Iedere fotohandelaar toont
+B gaarne de smaakvolle ge
+
+schenkverpakking
+ZEISS IKON N.V.
+kerklankbceld een viool van een fluit,
+een guitaar van een piano of een
+hoorn van een saxophoon vermag te
+onderscheiden, daar de opname en
+reproduceering van die hooge tonen,
+welke karakteristiek voor de klank
+
+kleur zijn; in het bereik van het thans
+mogelijke liggen. Om dezelfde reden
+hoeft dus geen instrument dof" of
+stomp" te klinken. Het is vanzelf
+sprekend dat rhythme en
+rhythmeveranderingen niet de geringste moei
+
+lijkheden bieden- Deze drie muzikale
+uitdrukkingselementen, klank, rhyth
+
+me en agogiek, zijn dus zonder voor
+
+behoud opneembaar en te
+reproduceeren.
+Een restrictie moet echter voor de
+muzikale dynamiek gemaakt worden:
+de technische gegevens laten een
+weergave van de natuurlijke
+geluidsterkte-verhoudingen niet toe. Het
+kleinste piano van een muziekstuk
+moet zóó versterkt en het grootste
+forte moet zoodanig verzwakt worden,
+dat zij in de juiste, technisch-mogelijke
+verhouding den zender in den vorm
+van electrische spanningsverschillen
+kunnen worden toegevoerd. Dit ver
+
+sterken en verzwakken, dit regelen,
+moet door een deskundige zoodanig
+geschieden, dat aan de intenties van
+componist en uitvoerenden zoo min
+mogelijk afbreuk gedaan wordt. Hoe
+beter deze deskundige zijn taak ver
+
+vult, hoe minder de luisteraar van
+zijn medewerking merkt. De ken
+
+merken van onvoldoende
+geluidsterkteregeling zijn: het teveel geluidsterkte
+aan den zender geven (waardoor het
+klankbeeld gedeformeerd wordt en de
+luisteraar het gevoel van een dof en
+dreunend geweld" constateert), of
+het te weinig (waardoor het klank
+
+beeld vaag wordt). Zeer verkeerd en
+hinderlijk is het plotselinge reguleeren
+in een crescendo of decrescendo.
+Hieruit blijkt, dat de deskundige
+het uit te zenden muziekwerk en de
+interpretatie daarvan door de uit
+
+voerenden dus volledig moet kennen;
+bovendien, dat hij groote manueele
+vaardigheid en ervaring op
+electrotechnisch gebied moet bezitten.
+Er moet zeer sterk rekening ge
+
+houden worden met het principieele
+verschil in de geluidsindrukken van
+den toehoorder in de concertzaal en
+van den luisteraar aan den luidspreker,
+die dit concert via de radio hoort.
+De eerste hoort het origineele klank
+
+beeld, de ander de acoustische foto
+
+grafie daarvan. Enkele
+karakteristika van het wezen der acoustische
+fotografie volgen hier. Bij het directe
+hooren spelen der werkwijze van ons
+gehoorvermogen en ons acoustisch ge
+
+heugen een groote rol; wij hooren bij
+direct-hooren afstand en richting der
+geluidsbron ten opzichte van ons.
+Anders is dit hooren via de
+microphoon. De microphoon registreert op
+andere wijze den afstand ten opzichte
+van de geluidsbron en afstandsver
+
+schillen van meerdere geluidsbronnen
+ten opzichte van de microphoon
+brengen een sterker effect in het
+luidsprekerklankbeeld dan diezelfde
+afstandsverschillen voor het
+menschelijke oor zouden hebben. Ons ver
+
+mogen, de richting van een geluids
+
+bron te herkennen, is het resultaat
+van een psycho-physisch proces; de
+microphoon is weliswaar een uitste
+
+kende geluidsopnemer, doch geen le
+
+vend wezen, zoodat richtinghooren
+via microphoon en luidspreker niet
+mogelijk is. Om het plastisch voor te
+stellen. In de concertzaal hoort men
+het muziekstuk met beide ooren, door
+de radio hoort men het gelijk het
+gehoord wordt door het ne oor der
+microphoon en de ne geluidsbron
+van den luidspreker, welke een zeer
+kleine klinkende" oppervlakte heeft
+in vergelijking met het orkest.
+De karakteristika der acoustische
+photografie moeten bestudeerd en
+aan de uitzending dienstbaar gemaakt
+worden. Juist door de opname met
+verschillende, op ongelijke afstanden
+van de klankbronnen geplaatste
+microphonen, het gedurende de een of
+andere muzikale phrase doen plaats
+
+nemen van een instrumentalist nabij
+een microphoon of verwijderd daarvan
+is men in staat om de kenmerken
+van het muzikale onderwerp te
+accentueeren.
+Voorwaarde voor iedere goede
+muziekuitzending is dus een goede op
+
+name, dat beteekent, dat de deskun
+
+dige, die het luidsprekerbeeld be
+
+werkstelligt, eenerzijds het uit te
+zenden werk tot in de perfectie moet
+beheerschen en anderzijds met artis
+
+tieke phantasie de juiste
+electroacoustische middelen waarmee de uit
+
+zending te realiseeren is, weet uit te
+kiezen. Dit veronderstelt dus van
+den deskundige groote kennis van
+van zaken op muzikaal n op
+radiotechnisch gebied. De groote
+Europeesche en Amerikaansche radio-genoot
+
+schappen zijn er toe overgegaan dezen
+deskundigen (toonmeester,
+toonmixer, maneger, sound-man,
+balancemaster of volume-controler genoemd)
+de verantwoording voor de uitzen
+
+dingskwaliteit en de daarbij
+behoorende bevoegdheden in de hand te
+geven. De grammofoon-industrie
+werkt reeds veel langer met zulke
+speciaal opgeleide kunstenaar-opna
+
+meleiders. Het is geen toeval, dat
+juist
+grammofoon-platenuitzendingen van serieuze muziek zulk een
+groot succes bij het publiek hebben;
+het artistieke en electro-acoustische
+werk daaraan is met groote ervaring,
+kennis van zaken en zorgvuldigheid
+in goede voorbereiding gedaan. De
+werkwijze, de repetitiearbeid bij het
+opnameproces van de radio stelt de
+gelijke problemen, eischt ook dezelfde
+ervaring, hetzelfde geduld, dezelfde
+offers aan tijd.
+Luidsprekermuziek, radiomuziek
+kan zonder twijfel autonome kunst
+worden, mits zij zich ontwikkele onder
+de auspiciën van daartoe bevoegden.
+Naar het luidsprekerklankbeeld, dat
+eenige Europeesche stations ons da
+
+gelijks zenden te oordeelen, schijnt
+het, dat het uitzendproces nog steeds
+te uitsluitend aan mogelijk wel knappe
+technici wordt toevertrouwd, echter
+aan menschen met geen of te weinig
+artistieke phantasie. Uit hoofde echter
+van hun zin voor het reëele welken
+zin zij vóórhebben op zoovele artisten,
+die maar al te snel meenen verstand
+van zaken te hebben, welke te be
+
+heerschen meer aandacht en tijd
+
+offers vergen dan het leeren van de
+tafels van vermenigvuldiging of het
+dagelijksche anderhalf uur
+pianoNieuwe toestellen
+K r r e* K Y IStt
+De grammofoon- en radio-industrie
+kenmerkt zich door het in den handel
+brengen van goede producten, waar
+
+bij zoowel aan het inwendige als aan
+het uiterlijke alle mogelijke zorg is
+besteed. Wij kunnen dit eveneens
+neerschrijven van een toestel van
+de firma Stokvis, de Erres K.Y. 126,
+dat wij eënigen tijd hebben beproefd.
+Wat het uiterlijk betreft: dit is ver
+
+zorgd door Otto van Tussenbroek,
+die er in geslaagd is een smaakvol
+meubeltje te ontwerpen. De mooie
+bruine kleur van het notenhout zal
+met welhaast ieder interieur harmo
+
+nieeren uitgezonderd dan de binnen
+
+kamer die op de beton- en staalkaart
+is afgestemd; wanneer krijgen wij
+eens een toestel dat daarin past?
+de lijn is statig en loopt in een zachte
+ronding naar den top uit. Door de
+soberheid van de versiering der front
+
+plaat wint het geheel.
+Het geluid is voortreifelijk; zoowel de
+hooge als de lage tonen komen goed door
+en neg wel, zonder dat er een apparatuur
+voor stroomverandering op den, in het
+toestel gebouwden, electro-dynamischen
+luidspreker is aangebracht. Ook de se
+
+lectiviteit is te roemen, evenals het ver
+
+mogen om een groot aantal stations
+zonder bijgeluiden door te krijgen.
+De antenne is bij dit toestel los ge
+
+koppeld met den roosterkring van
+de eerste hoogfrequent-versterkerlamp.
+(E. 455) De schermroosterlamp is van
+variabele steilheid, die eerst bij 30 volt
+negatieve roosterspanning geheel tot
+nul gereduceerd is, waardoor een zeer
+soepele en geheel vervormingsvrije volu
+
+meregeling verkregen is. In den plaat
+
+kring van deze lamp bevindt zich een
+hoogfrequent-transformator, welks afge
+
+stemde secundaire wikkeling gevolgd
+wordt door de tweede hoogfrequentlamp
+E. 462. Deze lamp is door middel van
+een smoorspoeltje gekoppeld aan de de
+
+tectorlamp. Daar de versterking van de
+eerste lamp aan het eind van het bereik
+geringer wordt, doch de versterking
+van de tweede lamp in dat geval toe
+
+neemt, is dientengevolge de gevoeligheid
+van het apparaat over het geheele bereik
+vrijwel constant.
+De detectie wordt verkregen door
+plaatgelijkrichting met de nieuwe de
+
+tectorlamp E 499. Deze lamp is met
+weerstanden gekoppeld aan de eindlamp
+E 443 H., welke royale, zeer moderne
+penthode een anodedissipatie van om
+
+streeks 5 Watt heeft, waardoor een
+groot geluidsvolume onvervormd ver
+
+werkt kan worden.
+De bediening is eenvoudig. Met den
+middelsten knop stemt men het apparaat
+op de verlichte, in golflengten geijkte,
+schaal af. Links is de volume-regelaar.
+die tevens als aan- en uitschakelaar dienst
+doet, en rechts de knop voor overscha
+
+keling van lange naar korte golf of om
+
+gekeerd. Een aansluiting voor een tweeden
+luidspreker en een voor grammofoon
+behoort bij de moderne uitrusting van
+dit toestel.
+studeeren preteudeeren dan ook
+de meeste technici niet eens een mu
+
+zikale dispositie te bezitten, en zij zijn
+voor den toonmeester, wanneer deze,
+gewapend met kennis van zaken, hen
+schappelijk en zonder ..artistieke ver
+
+wardheid" of aanstellerij bejegent,
+ideale arbeids-kameraden.
+De omroepluisteraars, wier ooren
+beginnen een goed en verzorgd klank
+
+beeld van een scheef en ordinair te
+onderscheiden, zullen binnen korteren
+of laiigeren tijd scherpere eischen aan
+de kwaliteit van dit klankbeeld gaan
+stellen. Slechts met hulp van de
+kunstenaars-electro-acousticus zal aan
+hun rechtmatige eischen voldaan
+kunnen worden.
+
+</text>
+<image timestamp="2002:09:27:03:59:05.00" size="256036">D2006ZY.TIF</image>
+</page>
+</document>

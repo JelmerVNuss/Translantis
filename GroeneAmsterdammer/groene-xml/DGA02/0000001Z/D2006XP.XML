@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331104</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TRAINING
+Teekening door L. J. Jordcan
+l»,
+s
+KAMP1OEM5CHAPPEN
+WORSTELEN MET
+
+
+
+
+.BOK5EN TÉGEN
+COMMISSARIS
+De coach Abrahams: Doorzetten, kindje, je bent nog altijd
+
+
+watlte zwaar voor de groote match !"
+
+</text>
+<image timestamp="2002:09:27:00:43:42.00" size="790741">D2006XP.TIF</image>
+</page>
+</document>

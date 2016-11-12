@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18931105</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weoltbrad voor Nederland, van J November 1893,
+r™
+Een consult van de Amsterdamsehe politie op het bnrean van het Nieuws van den Dag",
+' "~/; ' f-;
+/!£&lt;-. Vening Mdnesz: »U' beeft in de Vrije Gemeente gezegd, Dominee, dat n predikant zooveel uitwerkt als vier politieagenten;
+zou U aan mijn hoofdcommissaris Steenkamp niet eens een lesje kunnen geven,... r"
+Dr. R. M Steenkamp: «Kent U mijn «Ethische fragmenten" al'?
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Hartos &amp; Co.
+
+</text>
+<image timestamp="2002:08:22:04:00:12.00" size="622329">D10002GO.TIF</image>
+</page>
+</document>

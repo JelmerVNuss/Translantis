@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280526</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER VAN 26 MEI 1928
+No. 2660
+BADKAMEKIMBICHTINGEII
+loowcl eenvoudige alt betere uitvoering,
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 48688. Opgericht Ao. 1789.
+JAEGER
+Ondergoederen
+In div* kwaliteiten
+Zuiver Wol
+
+Half
+
+Gemengde
+Firma KRÖNER
+Nieowcndijk 167, Amsterdam
+Fijnste, dik, blank, frisch, franco huis,
+postw. kistjes stevig verpakt 4 pd.
+f 3.60: 6 pd, f4.60: 8 pd. f5.60.
+Slierasp. 25%meer. Lengte steril. 75%
+juiste glasmaat.
+
+FIRMA ISIDORUS, Bergen op Zoom
+Tel. Interc. 119.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering.
+Goedkoopste Prijzen
+
+N.V. v/L Gebr, B RE EN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+VRIENDINNEN
+Waar de leukste en gezelligste nieuw
+
+tjes verteld worden, waar er ernstig
+over geboomd wordt of het verhaal
+van Loe, dat er haaien zwemmen in
+de Middellandsche Zee, werkelijk
+waar sou zijn, waar de nieuwste crea
+
+ties van Poiret en Hirsch een onuit
+
+puttelijke bron van conversatie vor
+
+men en men gezellige kopjes thee
+ronddient in een intiem boudoirtje,
+daar mag zeker het allerlaatste nieuw
+
+tje niet ontbreken, de heerlijke
+Pinguin Bonbons van Van Houten.
+Van Houten's Pinguin Bonbons geven
+iets bijzonder fijns in een aardig doosje.
+
+
+VAN
+
+HOUTEN'S
+
+PINGUÏN
+
+^Bonbons
+
+In drie verschillende assortimenten .
+3 Pinguïns
+2 Pinguins
+l Pinguin
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubeleo Matrassen Dekens
+l KIPS 6 C2.
+o
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:16:18:09.00" size="87763">000006LD.TIF</image>
+</page>
+</document>

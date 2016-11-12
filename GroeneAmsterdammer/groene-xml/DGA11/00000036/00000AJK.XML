@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320903</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NAAR ZWITSERLAND
+Inlichtingen en prospectussen van onderstaande plaatsen
+en hotels bij alle reisbureaux gratis verkrijgbaar
+en bij de Zwitsersche Verkeerscentrale, Joh. Verhulststraat 147 Amsterdam
+BERNER
+OBERLAND
+(ZWITSERLAND)
+
+1356 M. BOVEN ZEE
+
+. Ideale, hoog in de Alpen gelegen badplaats en sportterrein.
+NIEUW ZWEM- EN ZONNEBAD, RUST GENE
+
+ZING TALRIJKE WANDELWEGEN.
+Prospectussen en hertellijst bij alle Verkeersbureaux.
+A ROS A. SPORT-HOTEL,,VALSANA"
+Het beste Hotel voor U. Modern comf., Ie kl. leiding.
+Matige prijzen. H. C. ARM I, Dir.
+BAZEL. HOTEL CONTINENTAL.
+Tegenover Centraal Station. Modern comf. Matige prijzen.
+
+
+
+
+
+BEATENBERG.
+
+HET UIT2ICHTSTE1US VAN HET BERNER OBERLAND
+
+1200 M. b. Zee.
+
+Gelll. prosp. bij de Reisbureaux gratis verkrijgbaar.
+
+
+
+HOTEL VICTORIA aan het Meer
+T TTfTJ A ]VO Rust'S 8elegen HM* vriJ uitzicht op het
+-1-4 *-* v* .cl. 11 \J meer. Nabij bad aan meeroever.
+Zuid-Zwitserland Modern comfort. Pension inclusief
+kamer van frs. 12.—af. Prospectus.
+Eigenaar C. Jannet—Tanner.
+BEZOEKT HET
+MET ZIJNE
+
+^ROTSEN, GLETSCHERS,
+
+RAVIJNEN EN WATERVALLEN.
+~:A~tÖMT5EKENDE ZOMERVERBLIJFPLAATSEN
+IN HET GEBERGTE, ALSMEDE AAN HET
+
+THUNER- EN BRIENZERMEER
+
+BERGSPORT - TENNIS - GOLF - WATERSPORT
+HOTELGIDSEN, PROSPECTUS ALSMEDE ALLE
+INLICHTINGEN WORDEN VERSTREKT DOOR
+DEN VERKEHRSVEREIN DES BERNER
+OBERLANDS". INTERLAKEN. ALSMEDE DOOR DE
+PLAATSELIJKE VERKEERSBUREAUX.
+
+
+
+BRUNNEN
+
+
+HOTEL WALDSTATTERHOF
+220 bedden. Pension vanaf frs. 13.50.
+
+
+
+INTERLAKEN
+BEAU RIVAGE GRAND HOTEL, in alle opz. Ie kl.
+Fam.-hotel, meest mod. comf. Gr. tuin. gar. pens.
+v.a. frs. 16. Uitst. keuken.
+ALB. DOEPFNER, eig. en leider.
+PAL
+LUZERN
+ACE HOTEL
+Modern Familie Hotel, prachtig en
+rustig gelegen aan het meer. Modern
+comfort. 250 Kamers met
+ineenloopende badkamer of str. koud en
+warm water. Chique Restaurant.
+American Bar. Orkest. Auto Garage
+CELERINA bij ST. MORITZ, 1750 Meter.
+
+HOTEL CRESTA PALACE
+
+Engadin.
+Pension vanaf Zw. Frs. 18.—.
+
+
+
+
+ENGELBERG.
+
+
+Hotel Bellevut - Terminus.
+Boven Luzern. 1050 tot 1800 Meter.
+Ie rang. 150 bedden. Str. water, orkest en balzaal.
+Matige prijzen. Pension van 13—16 Zw. Frs.
+
+
+FNfiFI RFRft VILLA FORTUNA. Mooie
+l-llUul.UUI\U. appartementen met bad. Keuken
+en centr. verw. Aanbev. AMSTUTZ—MULLER.
+
+
+MONTANA-VERMALA
+
+Parkhotel
+Rustig familiehotel met groot eigen bosch.
+Teder comfort.
+
+
+ST. MORITZ
+
+
+HOTEL WALDHAUS
+
+Ie klas. Voll. pension v. af frs. 17.—. O. ROCCO.
+
+
+PONTRESLNA (BERNINA) ENGADIN
+
+SCHLOSS HOTEL 200 KAMERS
+PARKHOTEL . 180 KAMERS
+
+Bergsport Tennis Golf Garage
+Zijt Gij nog niet geabonneerd?
+
+Vul dan den bon in op pagina 3 van het ontslag
+Wanneer U De Groene Amsterdammer"
+
+aan uw vacantieadres ontvangt, wil ons dan bij
+
+terugkeer op uw vast adres tijdig mededeeling
+
+doen, opdat U het weekblad den
+daarop
+volgenden Zaterdag weder thuis ontvangt.
+
+DE ADMINISTRATIE
+
+</text>
+<image timestamp="2002:09:27:07:28:01.00" size="106119">00000AJK.TIF</image>
+</page>
+</document>

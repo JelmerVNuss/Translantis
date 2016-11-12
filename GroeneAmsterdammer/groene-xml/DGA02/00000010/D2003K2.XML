@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240510</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+22
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2447
+TJTT KCBT
+"VA.N J-AJÊTTJE
+CHARIVARIA
+Charivarius ondervindt nog dagelijks de harte
+
+lijkste belangstelling in zijn charivarium over
+Zwolle bij Groenlo 't ligt er! zich uitende
+in een niet te stuiten stroom van briefkaarten.
+De 15,000ste inzender ontvangt geen fraay
+boekwerk en den inzender van het knipsel treffe
+Charivarius' vervloeking.
+HISTORISCHE MOMENTEN
+De Koning van Zweden te Rozendaal. De Koning
+bezichtigde het station en ging vervolgens met zijn ge
+
+zelschap het plaatsje in. Hij was gekleed in grijs-zwarte
+jas en dito broek en had een grijze deukhoed op. Nabij
+het station liep het gezelschap een banketbakkerij binnen,
+en de Koning vroeg naar een speciaal Hollandsch pro
+
+duct, waarop de bakker hem Haagsche hopjes aan
+
+prees. Hij moest den Koning er een laten proeven
+(sug-sug-sug, smak-smak-smak, lik-lik-lik l C/iar.;
+die daarop zei: c'est caramel ! en deze bijzonder lekker
+vond." (Handelsblad)
+Deutfctjlonb, DeiitfchLanb ueber 2lIlcS!
+Dit bracht ons in begeestering." (Eis. Maandscltr.)
+Sopetijt zal nu althans met meer beleid dit toezicht
+worden uitgeoefend." (O, H. C.)
+,,Hij bevuëtigbe de koeien."
+(Schorten- AntinK. Het geluk hangt als een druiventros)
+Toch wordt nog in bebuibenbe mate de Katholieke
+charitas beoefend." (De N. Eeuw)
+OP DE GLIBBERIGE PADEN
+,,In de wieg gelegd door de Kroon als nationaal
+orgaan, om den handel van Nederland, in het bizonder
+dien met Oost-Indië, te doen herleven en weldra bemid
+
+delaarster ' geworden tusschen het Indiêche bestuur als
+voortbrenger van producten en de Nederlandsche markt,
+zag zij toen een gouvernementeelen inslag zich in liarc
+particuliere schering mengen." (Vcrsl. Bat. NM.)
+AANEENLIJMSELS
+De Carmen-uitvoering." (Hbl.)
+Amerikaansclie olie-belangstelling." (N. /&lt;. C.)
+ONZE TOONEELSPELERS
+,,De karaktereigenschappen spelen een voorname rul
+in de keuze van beroep." ( Vcrsl. V. D.)
+Behalve de wisselvalligheidj van den koers van den
+minister speelt hierbij nog een rol het tijdelijke karakter,
+dat hij aan die maatregelen wenscht toegekend te zien.
+Het geld speelde geen rol." (N. R. C.)
+(Le tableau de la troupe: De Karaktereigenschappen,
+de Wisselvalligheid, liet Tijdelijke Karakter. Non-actief:
+Het Geld.
+BETREFFERS
+,,Hij schrijft de betreffende nummers op een strookje
+papier." (Ing. Hbl.)
+Leden van amateurs-vereenigingen kunnen een ver
+
+gunning krijgen en is (dag tante ! Char.) de presi
+
+dent der betreffende club voor de leden verantwoor
+
+delijk." (Radio-wereld)
+ONZE ADVERTEERENDE 11UMORISTEN
+De tijden zijn niet slecht, als mende adressen maar
+weet van hen die willen koopen. Wij leveren de namen
+en adressen van de geborenen, gehuwden, overlede
+
+nen	" (Adv. Tel.)
+CORRESPONDENTIE
+A te A. U wilt mij wel toestemmen, dat de tlians
+zooveel voorkomende overtolligheid in onze taal, ,,-wijze",
+een afkeuring wettigt. Mogelijkerwijze is liet u ontsnapt,
+maar het zal u natuurlijkerwijze hinderen, dat het
+opmerkelijkerwijze zoo dikwijls wordt aangetroffen,
+waarschijnlijkerwijze onnadenkenderwijze uit het Duitsch
+overgenomen.
+Antiv. Inderdaad is het monster toevalliger
+
+wijze aan' mijn aandacht ontsnapt, maar ik zal
+begrijpelijkerwijze zeer dankbaar zijn als u en
+anderen mij vriendschappelijkerwijze knipsels
+met het gedrocht wilt zenden.
+
+</text>
+<image timestamp="2002:09:03:07:45:18.00" size="169305">D2003K2.TIF</image>
+</page>
+</document>

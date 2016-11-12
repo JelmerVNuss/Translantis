@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+S,'»»'
+COELINGH'S
+in Cellopbfl verpakt
+20 CENT.
+CSAURHm
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A -F. Z URCH ER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT64-66-68~70-72,AMSTERDAM
+EENHEIDS-POLIS
+(IDEALE INBOEDEL- EN OPSTAL-POLIS)
+INBOEDELS in woonh. 2'/2°/oop.a.
+OPSTALLEN van I1/i°|oo
+(Brand, Diefstal, Waterl. schade, Storm,
+Bagage, Verhuizing enz.)
+Vraagt prospectus
+..UNION", , Ag A» P. BEERENDS &amp; VEEREN
+Ao 1714
+AMSTKK1JAM
+VOOR BETERE MEUBELEN
+
+ARNOLD HOUTSCHILT
+AMSTERDAM
+BAU'S OLIJF-OLIE
+Onontbeerlijk bij de bereiding van slaatje»
+mayonaises, enz. in blikken van l en 15 kilo.
+Prijs voor particulieren f 2 en f27.50
+Voor H.H .Winkeliers ruime verdiensten.
+IMPORTEURS:
+N.v. Hoogewerff, Chabot &amp; Visser's
+Wijnhandel
+DEN HAAG ROTTERDAM ARNHEM
+WeiERAHDERëZo.
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+**~ 's-Gravenhage ™&gt;*
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Hofleverancier*
+N.V. GOEDEWAAGEN-GOUDA
+'n 33-jarige gunstige reputatie.
+De meest betrouwbare tandpasta
+in de bekende doozen en tuben.
+Zeer frissche pepermuntsmaak.
+Goed en toch zeer goedkoop.
+BEGRAFENIS QMDErUlEnmG
+nJ%S" G.KONIN&amp;. JrVï&amp;r
+H»)iR/kl.LC.FlA*TiLM
+AUG. UILKEMA
+
+Grootste Hokken Magazijn
+Moderne, f 20 tot f 60
+Carillon. .„40 150
+Halklok .„69 875
+Controleklok
+6 stations	f48
+12 stations	60
+Alteen &lt;fo fijnst» werken
+Reguliersbreestr.39
+Geopend tot 8 u., Zat. tot 11 u.
+A, van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd sedert 1810
+Prinsengracht 975
+
+Rid&amp; White Port COCKBUXN
+Pale Sherry Gwey
+ITIMTURJ
+J. P. KARTHAUS
+Or. Markt - Haarlm
+TELEFOON 10652
+OP DE ETAGES BOVEN
+KONINKL. BEGEER - A'DAM
+HOEK LEIDSCHESTRAAT
+
+PRINSENGR. 707A
+DEUR ONDER PIJL TRAP OP
+EERSTEKLAS WERK
+BILLIJKE PRIJZEN
+»
+
+</text>
+<image timestamp="2002:09:22:05:42:19.00" size="162697">D100072K.TIF</image>
+</page>
+</document>

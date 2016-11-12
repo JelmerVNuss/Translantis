@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320116</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 16 Januari 1932
+No. 2850
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N* V* Meubelmagazijn Eden0
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+WEGENS OPHEFFING
+FILIAAL ARNHEM
+ENORME
+UITVERKOOP
+l
+Orfèvrerie Christofle
+Luxe voorwerpen bronzen beelden
+marmeren schrijfgarnituren
+VEERHOFF &amp; Co.
+RO K l N 56
+AMSTERDAM
+VERWEEGEN&amp;KOK
+AMSTERDAM
+KALVERSTR. 86—90
+DEN HAAG
+NOORDEINDE 64c
+Plaids, Voetzakken, Auto-Overschoenen
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+IP. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2276
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+v D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN MARMERWERKEN
+GRAFMONUMENTEN - SCHOORSTEENMANTELS
+MARMEREN WASCHTAFELS - REPARATIES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+-W. H. POLMAN TUIN
+OVERTOOM 526 - Telefoon 82660
+Begrafenissen - Transporten - Crematies
+q
+es l
+HOTEL - CAFÉ- RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+^Modern Comfort- Lift -Stroomend water ^enz. ^
+^^ Logies met ontbijt f 3.50 per persoon .=
+Pendules - Horloges
+Stijlklokken - Wekkers
+Barometers - Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. Breen
+N i eu we n d ij k 172
+Haarlemmerstraat 64
+Rozengracht 53
+Ateliers voor reparatien aan
+Uurwerken, Goud en Zilver
+Voor alle doeleinden
+N.V
+Cnem.Kunstinrtctiting
+DirKSchnabel
+Amsterdam.
+CAfcAMEL
+
+D'AMANDES
+
+Carame!- en mar
+
+
+sepeinvulling. Fijn
+
+van smaak, geurig
+
+aroma.
+ZIET TOE D Al GE
+DROSTES KRIJGT
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinr
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:14:39:14.00" size="143443">000009XH.TIF</image>
+</page>
+</document>

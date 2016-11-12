@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280225</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+«o. 2647
+DE GROENE-AMSTERDAMMER VAN 25'FEBRUARI 1928
+15
+DE 18E NEDERLANDSCHE JAARBEURS
+door W. GRAADT VAN ROGGEN
+Secretarie-Generaal der Nederlandsche Jaarbeurs
+'IXT'ANNEHR dit artikel verschijnt, zal het, op
+den dag af, tien jaren geleden zijn, dat bij de
+opening der Tweede Nederlandsche Jaarbeurs aan
+H. M.-de Koningin werden voorgelegd de plannen
+tot den bouw van het eerste Jaarbeursgebouw en
+tevens bekendheid gegeven werd aan het voor
+
+nemen van het Jaarbeursbestuur om te eeniger tijd
+bedoeld werd: zoodra de wereldoorlog geëindigd
+zou zijn de beurs ook voor buitenlandsch
+fabriiaat open te stellen. Beide plannen zijn eenige
+jaren later verwezenlijkt: het eerste Jaarbeurs
+
+gebouw werd in September 1921 in gebruik ge
+
+nomen en de eerste beurs, die in dit gebouw ge
+
+houden kon worden, was internationaal.
+De permanente huisvesting waardoor, in
+oorlogstijd nog, vastgelegd werd, dat men het
+Jaarbeursinstituut nè. den oorlog wenschte en
+meende te kunnen handhaven en de internatio
+
+nalisatie niet eer tot stand gekomen dan nadat,
+industrie en handel gehoord, de tijd daarvoor rijp
+"was geacht hebben beide veel bestrijding ge
+
+vonden: het voor den bouw, voornamelijk door
+induetrieelen en zakenmenschen, met medewerking
+van Rij k en Gemeente bijeengebrachte kapitaal werd
+als nutteloos besteed beschouwd, omdat, naar het
+op zeer uiteenloopende motieven gebaseerde oor
+
+deel der oppositie, een Jaarbeurs in Nederland in
+normale tijden geen reden van bestaan zou hebben,
+en in vredestijd even snel zou verdwijnen als zij
+tijdens den oorlog uit den grond was gestampt; het
+toelaten van buitenlandsch fabrikaat ter beurze
+•zou de belangen der inheemsche industrie ernstig
+schaden; het paard van Troje zou er door worden
+binnengehaald. De oppositie is op beide punten
+door de feiten geloochenstraft: er zijn in het ge
+
+bouw de thans in actie zijnde 18e beurs inbe
+
+grepen 14 internationale beurzen gehouden, de
+twee oorlogs-Jaarbeursjaren zijn door negen
+vredesjaren gevolgd en gegronde klachten, dat door het
+internationaal karakter der Jaarbeurs het Neder
+
+landsch fabrikaat zou zijn geschaad, zijn niet ver
+
+nomen.
+Het Jaarbeursinstituut heeft alle misère van de
+malaise en de heele malaise van de misère meege
+
+maakt; doch het heeft zich in de ergste tijden
+staande weten te houden en is met de algemeene
+opleving ook weder mede omhoog gegaan. Totdat,
+eenige beurzen geleden, de opgaande lijn van het
+Jaarbeursinstituut sterker stijging begon te
+vertoonen dan de curve van het economisch herstel
+aangaf. Driemaal achtereen: met de
+voorjaarsbeurs 1927, de daaropvolgende najaarsbeurs en nu
+weer met de voorjaarsbeurs 1928, heeft het Jaar
+
+beursinstituut een sprong gemaakt, die, als zoo
+
+danig, zijn verklaring niet vond in de ingetreden
+verbetering van den toestand van handel en
+industrie. Er was een andere kracht blijkbaar in
+^erking getreden: het Vertrouwen. Het ver
+
+trouwen in den blijvenden aard van het Jaarbeurs
+
+instituut, gebaseerd op het meer en meer opklarend
+inzicht, dat de Jaarbeurs in een economische be
+
+hoefte voorziet. Het permanente karakter der
+Jaarbeurs was erkend. En deze week zijn de
+plannen voor een belangrijke uitbreiding van het
+Jaarbeursgebouw handel en industrie voorge
+
+legd ....
+Welke beteekenis heeft de Nederlandsche Jaar
+
+beurs voor het Nederlandsche fabrikaat?
+Het jaarbeurswezen in alle landen vertoont zeer
+•duidelijk een nationaal karakter, niettegenstaande
+bijna alle buitenlandsche beurzen internationaal
+:zijn. De overgroote kern van deelnemers op elke
+Jaarbeurs, waar ook en zeer zeker op de grootste:
+•de Leipziger Messe, vormen de industrieën uit
+eigen land; het buitenlandsch fabrikaat is bij alle
+verre in de minderheid. Bij de Nederlandsche
+Jaarbeurs is dit, niettegenstaande ons land toch
+door buitenlandsch fabrikaat overstroomd wordt,
+eveneens het geval. Verschillende factoren werken
+daartoe mede. Wat zijn de voordeelori daarvan
+voor de Nederlandsche nijverheid? Door
+exposeeren op de Jaarbeurs dringt het nationale karakter
+van het Nederlandsche fabrikaat sterker tot don
+inkooper dóór; het persoonlijk contact met den
+fabrikant brengt den wederverkooper nader tot de
+kennis van de productiewijze en de omstandig
+
+heden, waaronder de Nederlandsche industrie
+werkt; vergelijking met het ter beurze aanwezige
+buitenlandsch fabrikaat verhoogt in de meeste ge
+
+vallen de waardeering voor het inheemsche; de,
+den Nederlander van nature eigen, overschatting
+van hetgeen uit den vreemde komt, kan, door
+persoonlijke aanraking van den wederverkooper
+met den Nederlandschen fabrikant, tot hare ware
+proporties worden teruggebracht en de invloed
+daarvan strekt zich via den wederverkooper uit
+tot den consument. De gemakkelijke wijze om over
+het product, zijn voortbrenging en distributie met
+den producent van gedachten te kunnen wisselen,
+verruimt den gezichtskring van die zakenmenschen,
+die, in kleinere gemeenten en dorpen wonende, vóór
+de oprichting der Jaarbeurs dit contact misten.
+Onjuiste opvattingen, onderschatting en
+vooroordeelen, waaronder het inheemsche fabrikaat vooral
+te lijden had en nog heeft zijn door dit
+contact opgeheven, weerlegd of begrijpelijk ge
+
+maakt kunnen worden. De totale aanblik van
+Nederlandsche voortbrengselen in telkens wisse
+
+lende samenstelling op n plaats bijeengebracht,
+verhoogt de waardeering, voor wat Nederland als
+industrieland gaat presteeren. Een wijziging te
+dien opzichte in de communis opinio kan het
+Nederlandsch fabrikaat niet anders dan ten goede
+komen.
+* *
+#
+Bij toenemende internationaliseering der Jaar
+
+beurs zal het Nederlandsche fabrikaat winnen.
+Mits het zelf op de bres en aan de spits blijve. Bij
+alle beurzen in het buitenland heeft zich in de
+laatste tien jaren, dat het Jaarbeurswezen zich in
+Europa snel misschien te snel heeft kunnen
+ontwikkelen, hetzelfde verschijnsel voorgedaan:
+het buitenlandsch fabrikaat laat zich niet gemak
+
+kelijk voor een buitenlandsche Jaarbeurs winnen.
+En toch zijn buitenlandsche deelnemers noodig om
+te bereiken, dat buitenlandsche inkoopers in een
+beurs belang gaan stellen. Beurzen in wereldsteden
+en centra van wereldverkeer gevestigd mogen in
+de aantrekkingskracht eener wereldstad een sterk
+propaganda-element voor het bezoek hebben, zij
+loopen daardoor het groote gevaar een gevaar,
+dat inderdaad voor eenige buitenlandsche beurzen
+lang niet meer denkbeeldig is van te ontaarden
+in tentoonstellingen. Dergelijke propaganda, die
+met het zakelijk element geen verband houdt,
+moge in den aanvang een voordeel schijnen voor
+een Jaarbeursinstituut, ten slotte zal de bestaans
+
+mogelijkheid eener beurs toch uitsluitend bepaald
+en beheerscht worden door het economische nut
+der Jaarbeurs zelf. Het eigen zakelijk voordeel, dat
+ook den binnenlandschen zakenman zijn schreden
+naar de Jaarbeurs doet richten, zal alleen den
+buitenlandschen inkooper tot bezoeker eener
+buitenlandsche beurs kunnen maken en om dat
+nut en het speciale nut eener bepaalde beurs voor
+den zakenman van een bepaald land in buiten
+
+landsche handelskringen bekend te doen worden
+is deelneming aan de beurs door buitenlandsche
+industrieën de beste, meest direct werkende pro
+
+paganda. Onze Nederlandsche industrie heeft voor
+alles noodig: export; buitenlandsch bezoek aan de
+Jaarbeurs kan dien export bevorderen en bezoek
+van buitenlandsche inkoopers zal des te talrijker
+worden en des te sneller toenemen, naarmate het
+internationaal karakter der beurs in het buitenland
+krachtiger tot zijn recht zal komen. Het buiten
+
+landsch fabrikaat zal daar evenzoo van
+profiteeren, maar het Nederlandsche fabrikaat, dat als
+export-artikel nog zijn naam moet maken, zal er
+het grootste profijt van trekken.
+Mits het kan niet genoeg herhaald worden
+het Nederlandsch fabrikaat slechts zorge zelf op
+de bres en .... aan de spits te blijven.
+# *
+*
+De 18e Nederlandsche Jaarbeurs kenmerkt zich
+door een in geen jaren gekende levendige
+stemming. Het aantal deelnemers is gestegen tot
+bijna 1100. Uit het eerste; Jaarbeursgebouw is de
+Jaarbeurs uiitgegroed. Noodig is gebleken: uit
+
+breiding van permanente huisvesting. De eisch is
+daarom zoo dringend, omdat bet afwijzen van
+industrieën, die willen deelnemen, vele gevaarlijke
+kanten heeft, (ieen enkele groep van industrieën
+ter beurze kan nog aanspraak er op maken een
+ook maar eciiigeraiate volledige
+vortogonwoorBeurs-spiegel
+Donderdag, 23 Februari
+
+T"~\ E locale geldmarkt kenmerkte zich door een
+gemakkelijke stemming, die het particulier
+disconto tot 3^ pCt. terugbracht, en daarmede de
+marge tusschen de markt- en bankrente verruimde.
+Dat ondanks het opnieuw toevloeien van
+remboursaccepten naar ons land, nu het disconto aanzienlijk
+beneden dat van Londen is gedaald, de
+discontomarkt zoo gemakkelijke gedisponeerd blijft, pleit
+wel voor het weerstandsvermogen, dat deze
+afdeeling der geldmarkt meer en meer krijgt, nu
+ook belangen die zich vroeger meer afzijdig hielden,
+en bij voorkeur hun middelen op prolongatie uit
+
+zetten, zich in deze richting orienteeren. De flauwe
+stemming van den guldenkoers, gevoegd bij het
+feit dat te Londen minder op verlaging van het
+disconto wordt gerekend dan voor eenigen tijd,
+en dat in de Ver. Staten juist de rentetarieven der
+meeste reservebanken zijn verhoogd, maakt een
+verlaging van het disconto door de Nederlandsche
+Bank minder waarschijnlijk dan voor enkele weken,
+toen de deviezenvoorraad nog steeds toenam en de
+binnenlandsche wisselvoorraad daalde. Toch is
+zulk een rentereductie binnen afzienbaren tijd te
+
+gemoet te zien, indien de teruggang van de
+wisselportefeuille nog enkele weken aanhoudt in het
+tempo van voorheen.
+Op de fondsenbeurs waren deze week
+kunstzijdewaarden favoriet, nadat deze sedert eenigen tijd
+weer minder op den voorgrond waren getreden.
+Vooral aandeelen Maekubee konden van de willige
+stemming profiteeren, en een aanzienlijk avans
+boeken.
+Kon ik voor geruimen tijd hier ter plaatse reeds
+gewag maken van een onregelmatige stemming ter
+New-Yorkschen beurze, inmiddels heeft zich die
+tendens geaccentueerd; van een uniforme tendens
+is meestentijds nauwelijks sprake, en zoo die er is,
+dan is zij eerder neerwaarts gericht. Op Maandag j.l.
+nam het minder gunstige koersverloop plotseling
+ernstiger vormen aan; als een der voornaamste
+baisseargumenten werd genoemd: de wensch van
+de Federal Reserve Board om de speculatie te
+beperken door reductie der brokersloans, hetgeen
+nog niet in voldoende mate was tot stand gebracht.
+Daarenboven werden minder optimistische stem
+
+men vernomen omtrent de toestand der bedrijvig
+
+heid. Wel is de bezitting der basisindustrieën zeer
+voldoende, doch men spreekt van voorraad
+
+vorming bij den handel, die daardoor voor het vol
+
+gend kwartaal minder tot afneming instaat zou
+zijn.
+De Duitsche volkshuishouding zal binnenkort een
+aanzienlijk quantum kapitaal uit het buitenland
+toegevoerd krijgen door het van kracht worden
+der vrijgavewetten in de Ver. Staten. Een bedrag
+van niet minder dan K.M. 700 millioen is daar
+
+mede gemoeid; de Duitsche betalingsbalans kan
+zulk een buitenkansje best verdragen, vooral nu de
+nog immer geldende zoo al naar den geest wel
+
+licht niet strikt uitgevoerde bepaling omtrent
+het opnemen van leeningen in het buitenland een
+rijkvloeiende bron van vreemd vermogen heeft
+gestopt.
+C. K.
+
+diging te zijn van de desbetreffende bedrijfstak.
+Naar die volledige vertegenwoordiging dient te
+worden gestreefd in het belang van den handel.
+De keuze is momenteel nog te zeer beperkt; bij
+uitbreiding der keuze stijgt de kans op de beste
+keuze.
+liet Jaarbeursbestuur heeft den eisch naar uit
+
+breiding verstaan en meent liet oogenblik gekomen,
+daa.i thans toe t e moeten overgaan. Een uitbreiding
+is geprojecteerd, welke een voortzetting der groeps
+
+gewijze indeeling der industrie-takken
+beganegronds en over de verdiepingen van hot
+Jaarbeursgebouw mogelijk zal maken. De architect. Ir. J. de
+Bit; Leuveling Tjeenk. heeft gemeend voor dezen
+bouw niet te moeten aanhouden dit; van het
+bestaande gebouw, doch hoeft oen gevel ont
+
+worpen, \velUe een grootere mogelijkheid biedt op
+een mooiere pleinoplossing van hot Vroderiburg bij
+verderen uitbouw van hot .laarhpursinstituut.
+Bij do l Se Jaarbeurs treedt hot
+Jaarboursinstituut te Utrecht oen nieuwe phiise van
+o?itwikkoling in. Do propagandaplaat typeert den
+toestand van hot oogenblik: Do IS'odorlandsche
+Jaarbeurs noemt huogor vlucht.
+
+</text>
+<image timestamp="2002:09:04:06:12:50.00" size="254397">000006BU.TIF</image>
+</page>
+</document>

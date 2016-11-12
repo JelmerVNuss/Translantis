@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19091024</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland Tan 24 October 1909.
+De losgebroken storm.
+, .-, .J
+£*;^X'"^&amp;'
+x--i '&lt;%"$% •*js!j^3BafïS^
+
+W O &lt;^* J^
+*»'&gt;*«E"saj?V,^
+&amp;. ^r5"4&gt;*^
+Cir^feö:
+--"•"&gt;-,'&gt;. J% J v»rr^ïKfc ?,
+^^^T^^f^
+•HC^gG^jy
+::••• "-'-rSttriöPfc?:
+-^W*-1 !*'«»»'• if&lt; i * ^e »
+"•' •^p^i- •:s*-.r fe^iS'' /^^
+
+•••''l*^"-#6. '^u-"«*-»iWi.'''"^
+«.% -.^jfcf^,. I4-¥V-^
+CÏK*/% 2^ fP|J a&gt;'*&gt;
+w^ia^ssi'V^
+in stilte gedaan! Ik maakte
+PHILIPS II (tot Alfonso): Had het dan ook niet i
+Amst. Boek- en Steendrukkerij,
+
+
+groote feesten van mijn autodafé's.
+v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:08:22:11:05:57.00" size="565109">00000439.TIF</image>
+</page>
+</document>

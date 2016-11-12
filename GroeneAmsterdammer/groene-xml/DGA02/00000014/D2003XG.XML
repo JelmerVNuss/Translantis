@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240927</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+rvS.'l
+l, WEEKBLAD VOOR NEDERLAND
+No. 2467
+f. D. STHUJUS Ai Zm.
+887 - P. O. Hooftstraat 14O|
+tBL. 37900 TEL. 29990
+lissen -Crematie - Transporten l
+iiriaao Schakel
+Heiligeweg 11-17, A'dam
+;UNSTSPEL-PIANO'S
+
+UITSLUITEND Ie KLAS FAB BIKAAT
+GARANTIE BILLIJKE PRIJZEN
+
+'. SLIKKER
+•RTOOn 279 - AMSTERDAM
+ikerij naar Maat ™JSS
+H. K K M N K R
+• &gt;M»ur &lt;*r FtaM P. M. MOEMANS, KMln|ipteln, ABStenta».
+JKPAHK 9 b/d. de dercqitr. Telefoon No. 29891
+r co.tumB* van af . . . . t «s.- Modirne «oup«.
+n af ........ 50.—-. . . JT,
+i van af. . . . . " «s.—Prima afwerking.
+Stalea op aanvraag.
+KAMERJAPONNEN»
+HUISJASSEN
+WOLLEN VESTEN
+DE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 3.—per kwartaal
+of f 10.—p. jaar bij vooruitbetaling
+DROSTE S
+
+CfcocofadeGroot is het aantal verzoeken om
+toezending van het door ons aan
+
+geboden en door Mevr. Wittop
+Koning samengestelde
+
+Gratis Receptenboek
+voor 52 verrukkelijke
+chocoladegerechten, bereid met Droste's
+Verpleegster Cacao. Duizenden
+aanvragen komen binnen; met
+alléhens aan dek worden deze
+zoo spoedig mogelijk behandeld.
+Alles kan echter niet tegelijk ver
+
+werkt worden, zoodat het dus
+niet. uitgesloten is, dat men een
+paar dagen geduld moet hebben
+•alvorens het te ontvangen.
+
+Bij inzending van deze advertentie als
+drukwerk, met duidelijke adresvermel
+
+ding op het couvert, zenden wij U alsnog
+per post gratis het receptenboek toe.
+CACAO
+BEGRAFENISVEREENIGINGl
+N. SAX Jr.
+[P.C. HaaftstrMt38,AmsterdM.Ta|lf.: 20341, 242601
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS!
+De LIEVEOOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen,enz.)
+VRAAGT UW LEVERANCIER 11
+DE OÏTBUTTAFEL
+zal er mee winnen, als er een
+DEVENTER
+ONTBIJTKOEK
+VA/Y
+op aanwezig is, want deze koek
+is zoo lekker, dat jong en oud er
+steeds weer naar vragen-, wanneer
+ze ontbreekt.
+^Vraagt Uw winkelier ontbijtkoek
+l ANNO/
+R. L. ELZIMGA s
+Tapijt- en Meubelhandel
+Utrechtschestraat 62-64 - Gommellnstraat 62-64
+Dekens
+Wollen
+Gestikte
+Molton
+Groote Sortearing Eerste Kwaliteiten Lage Prijzen
+TUINARCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO81O
+
+</text>
+<image timestamp="2002:09:03:18:08:52.00" size="204487">D2003XG.TIF</image>
+</page>
+</document>

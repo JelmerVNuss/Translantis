@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>46</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+46
+Kerstnummer
+HEEPEN-EN
+
+KINDERKLEEDING
+AMSTERDAM HOORN LEEUWARDEN
+sG RAVEN MAG E GRONINGEN HILVERSUM
+UWWASCH
+IN//DE RIJZENDE ZON'
+wordb helderen fri/cli
+
+DAAL
+KOMIMKL. •jBan"!üiBi 5TOOM
+WA55CHERJJ EN BLEEKERJJ
+GOUDA TEL-95. AMSTERDAM TELEF.
+DEN HAAG TEL.7233O I3334O
+DE AMSTERDAMSCHE
+
+Mij. van LEVENSVERZEKERING
+
+
+AMSTERDAM, N. Spiegelstraat 17.
+
+verzekert aan iemand, oud 30 jaar, tegen betaling van een
+premie van j 298.—'s jaars, een bedrag groot/ 10.000.
+uit te betalen bij zijn overlijden binnen 35 jaren. Bovendien
+wordt vanaf dat overlijden een rente, groot/ 100—per
+kwartaal, uitgekeerd aan zijn nabestaanden, totdat de
+termijn van 35 jaren verstreken is.
+
+Is de verzekerde na 35 jaren in leven, dan heeft hij
+het recht een der volgende keuzen te doen:
+
+Ie. de verzekering beëindigen en in contanten ontvangen
+een bedrag groot ƒ 13,360. ;
+
+2e. zonder verdere premiebetaling verzekerd blijven vooi
+ƒ 5000. , uit te betalen onmiddellijk na zijn over
+
+lijden, en in contanten ontvangen een bedrag groo:
+ƒ 10.000.-;
+
+3e. zonder verdere premiebetaling verzekerd blijven voor
+ƒ 5.000. , uit te betalen onmiddellijk na zijn over
+
+lijden, en een levenslange lijfrente ontvangen van
+ƒ 250. per kwartaal;
+
+4e. een levenslange lijfrente ontvangen van ƒ 334.—per
+kwartaal.
+
+</text>
+<image timestamp="2002:09:05:22:08:55.00" size="87763">0000077Q.TIF</image>
+</page>
+</document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180907</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+L EN I N IN HET KREMLIN
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 7 September 1918
+Amst. Boek- en Steendrukkeri], v/h. Ellerman, Harms &amp; Co
+
+
+
+
+De Geest van Czaar Nicolaas: Vandaag ik, morgen gij!"
+
+</text>
+<image timestamp="2002:08:23:18:46:27.00" size="606271">D1000305.TIF</image>
+</page>
+</document>

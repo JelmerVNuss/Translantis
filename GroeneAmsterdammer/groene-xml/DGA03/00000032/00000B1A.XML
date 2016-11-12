@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18870522</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 22 Mei 1887.
+vo&amp;i be oflmtw, Q&amp;Q/MM op faoA Qibwwpfa
+rrrrrrrrrrrrrrrrrrrrrrrrTrrrrrrrr
+Verklaring van den Plattegrond:
+I. Entrees.
+2. Vestibules.
+3. Vestiaires.
+5. Lokaal Effectenhandel.
+6. Noteerzaal &gt;
+7. Schrijfkamers.
+9. Graanbeurs.
+10. Niet betalenden.
+11. Monsterzalen.
+12. Café.
+13. Buffet. | 17. Telegraaf kantoor.
+14. Beschikbaar, j 18. Retirade.
+15. Postkantoor, l 19. Tele] honie.
+16. Bestellers. ' 20. ^o»a \g naar d»
+v
+</text>
+<image timestamp="2002:10:02:05:36:56.00" size="337160">00000B1A.TIF</image>
+</page>
+</document>

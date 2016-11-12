@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280128</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE GROENE AMSTERDAMMER VAN 28 JANUARI 1928
+No. 2643
+ONTVANG- EIN
+BETAALKAS
+Nieuwe Doelenstraat 20*22
+
+AMSTERDAM
+Kapitaal . .f5.000.000.
+Reservefonds f 1.000.000.
+
+Renteverg. voor gelden a deposito
+
+Direct op vorderbaar.... 2 pCt.
+Met 10 dagen opzegging 2{
+
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit
+WAT
+NILLMIJ
+AAN VERZEKERINGEN VOOR
+
+KINDERVERZORGING
+REEDS UITGEKEERD
+RUIM f.7 MILLIOEN
+'s-GRAVENHAGE
+AMSTERDAM • UTRECHT
+Koopt voor Belegging:
+PANDBRIEVEN
+
+Bataafsche
+Hypotheekbank
+AMSTERDAM
+4'/2
+Pandbrieven INSULAIRE
+Hypotliiekbk te Zierikzit
+99'/2
+ZUIDER
+HYPOTHEEKBANK
+4'/2 pCt,
+Pandbrieven
+a 99 pCt.
+Directie :
+Mr.AUG. L. HEIJBROEK
+"Mr. K. A. NEDERLOF
+LEÏENSVERZEKERIII6 MAATSCHAPPIJ
+Verzekert U volgens het PI C? KI LJ C" M
+Dubbele Voorzorgtarief HlVlN M L/Yl
+Billijk Doelmatig» miuiiiiiiiniiiiiiiiiiiiiiiii
+Utrechtsche Hypotheekbank
+UTRECHT
+Pandbrieven pLm* f 45.000,000.
+
+De Bank stelt beschikbaar:
+
+4% pCt Pandbrieven a 99 }/2 pCt
+in stukken van f 1000.—, f 500.—en f 100.
+De Directie:
+Mr. A. J. S. VAN LIER Mr. P. R. HOORWEG
+ACCOUNTANTSKANTOOR
+
+A. L. DE LEAO LAGUNA
+LID V/D NEDERLANDSCHEN BOND VAN ACCOUNTANTS
+Wouwermanstr. 27 AMSTERDAM Telefoon 20968
+ROTTERDAMSCHE
+SCHEEPSHYPOTHEEKBANK
+HARINGVLIET 98
+UITGIFTE van
+5% Pandbrieven tegen 100%
+De Directeur: Mr. W. C. MEES
+j}j Maatschappij voor Hypothecair Crediet in Nederland
+l\ Maastrichtsche Hypotheekbank voor Nederland
+•
+g Verkrijgbaar:
+41/2 % PANDBRIEVEN
+tegen Beursnoteering
+
+Deze Pandbrieven zijn aflosbaar door uitloting
+binnen 25 jaar.
+HOOFDKANTOOR!
+
+KEIZERSGRACHT 570.
+
+AMSTERDAM.
+OPGERICHT Aa. 1894.
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert, behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE en TRANS
+
+PORT-, ONGEVALLEN- en WATERLEIDINGSCHADE.
+Rott. Hypotheekbank v, Nederland
+Opgericht in 1864
+Volteekend Maatschappelijk Kapitaal
+f 5.000.000.
+Verstrekt geld op eerste hypotheek.
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Ged. Bierhaven 25
+te R'dam of tot hare Agenten.
+De Directie:
+Mr. Th. Reepmaker, Mr. N. P. C. v. W(jk,
+Mr. B. van Rossem.
+
+De HolL Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+6% schuldbrieven in stukken van f 1000.—.
+500.- en f 100.- tegen beurskoers.
+STANDAARD
+HYPO THE EK BAN K
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTBNDIJK en
+L MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+4l%Pandbrieven tegen beurskoers uit.
+
+</text>
+<image timestamp="2002:09:04:03:30:41.00" size="139373">00000691.TIF</image>
+</page>
+</document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241018</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2470
+Vraagt onze prijzen van
+luxevracht- en aanhangwagens.
+
+OFFICIAL DEALER:
+
+JAN LIMBACH &amp; Co., HAARLEM
+J. D. STRUIJS * Zn,
+Prinsengracht 887 - P. Q. Hoofdstraat 140
+k VBL. 3790C TEL. S9950
+Begrafenissen - Crematie - Transporten
+NV. HFOIM"
+Dir. E. Boerma
+GRONIIIGEN AMSTERDAM
+Hetreitr.H lokin 10
+Dames- en
+HeerenKleedermakerij.
+.Goupeuri door het geheela
+•land te ontbieden".
+i DAMES!
+i Laat uw wasch behandelen
+i door de wasscherij
+! Eiriki",TiUiintti.&amp;-Z4. Til. 23725
+' zoowel droog toegeslagen als
+opgemaakt.
+: Vraagt prijsopgave.
+Aanbevelend B. NEID10 &amp; Co.
+Bonilloublokjes
+
+geven in kokend water opgelost, een bouillon
+voor gebruik gereed. Zeu ik er zelf zoo een van
+denzelfden fijnen smaak trekken, dan zou ik
+vleesch, groeten en kruiden eenige uren moeten
+laten koken. Een krachtige Maggi- Bouillon
+echter, is in een paar minuten bereid." Zoo rede
+
+neert de verstandige, overleggende huisvrouw!
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. G., Keuken,
+Voor- en Achtertuin.
+Boven: 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+9 0
+'//A
+In vele gezinnen eet men
+thans zeker nmaal per
+week n der verrukke
+
+lijke
+chocoladegerechten, klaargemaakt met of van Droste's
+Verpleegster Cacao. Men had er zich
+nimmer rekenschap van gegeven, dat van
+
+DROSTE'S
+zoovele heerlijke chocoladespijzen bereid
+konden worden. Ons gratis receptenboek,
+samengesteld door de bekende deskundige,
+Mevrouw M. Wittop Koning, was voor
+velen een openbaring.
+
+Bij inzending van deze advertentie als drukwerk,
+met duidelijke adresvermelding op het couvert,
+zenden wij U alsnog per omgaande post gratis
+het receptenboek toe.
+'/S
+BEGRAFtNISVEREENIGING
+N. SAX Jr.
+l P. C. Hotftitraat 38, Anstird». Tilif.: 28341, 24260
+REGELING VAN
+CREMATIES VAN UIT
+EIGEN
+BEGRAFENISSEN E
+LLE PLAATSEN
+LIJKKOETSAUTOM OBIELBN
+Bestelt een flesch
+WED JOHN GAY'S PICCALILL1
+het mosterdzuur met de fijne pikante smaak. Bovendien is op elkeflesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N.V. DE HOUTTUINEN - AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+
+STEENHOUWERIJ D. WEEGEWIJ S
+RAPENBURG 14, AMSTERDAM TEL. 42662
+
+MARMERWERKEN
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+corseis
+Spuistraat 36 DEN HAAG Piet Heinstraat 107
+ROTTERDAM ARNHEM GRONINGEN
+Hoogstr. 344 Ketelstr. 24 Heerestraat 11
+LEIDEN DORDRECHT DELFT
+Maarsmanssteeg 23 Voorstr. 289 Hyppolitusbuurt 35
+C. P. a la Sirene Paris
+de nieuwste Fransche
+modellen w. o. Corsets
+geheel en half elastiek
+met en zonder
+rugsluiting.
+Prijzen f 4.75 £25.—.
+Corsets met breed elastiek
+binnenband f4.50—f20.—.
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon No. 81 En detail
+Kreeftenpark Belderbos", Bergen op Zoom
+B. J. MUI DKRS
+TUIN ARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:19:42:07.00" size="173997">D2003ZJ.TIF</image>
+</page>
+</document>

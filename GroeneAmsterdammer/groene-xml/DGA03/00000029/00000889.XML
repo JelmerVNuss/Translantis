@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300607</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KAAP IKDiE
+QNZE GEÏLLUSTREERDE PRIJSCOURANT
+WORDT GAARNE OP AANVRAAG KOSTELOOS
+TOEGEZONDEN
+
+ALLE IND. COSTUUMS WORDEN VOLGENS 'T
+JUISTE MODEL DOOR BEKWAME COUPEURS
+OP EIGEN ATELIER VERVAARDIGD
+WITTE COSTUUMS
+vanaf
+WOLLEN
+PALMBEACHCOSTUUMSi.vanat . .
+COMPLETE INDISCHE
+UITRUSTINGEN vanaf
+16.50
+29.75
+99.50
+ONZE VERTEGENWOORDIGER IS MET COMPLETE
+COLLECTIE ZONDER EENIQE VERPLICHTING
+DOOR H£T GEHEELE LAND TE ONTBIEDEN
+HkDPF
+Ni UTRECHTSCHE ASSURANTIE-M IJ.
+UTRECHT w Westerstraal 5
+IIIIMlIIIIIIIHIIIIHIIIIIIinill
+Ziekte- en
+OngevallenVerzekeringen
+Cigarros Cadena
+IW DB VOOKNAAMBTB
+SIGARENWINKEL»
+COELINGH'S
+h bllopbi mpikl
+20 CENT.
+CKUIATIC
+A. van Kempen
+WIJNHANDEL
+Amsterdam
+GevabgdMdert 1810
+Prinsengracht 975
+
+Itd^iti PortCOnN
+Palo Sherry Gmey
+N.V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 13416.
+Door het geheele LAND te ontbieden
+Zoo juist
+
+verschenen:
+
+
+
+MUZIEK IN
+
+OPVOEDING EN
+
+ONDERWIJS
+EEN
+MUZIEKPAEDAGOGISCHE STUDIE
+DOOR
+
+WILLEM GEHRELS
+MEDEDELINGEN VAN HET
+NUTSSEMINARIUM VOOR PAEOAGOGIEK AAN DE UNI
+
+VERSITEIT VAN AMSTERDAM No. 12
+
+PRIJS, GEB. F 2,25
+UITGAVE VAN
+J. B. WOUTERS
+GRONINGEN - DEN HAAG
+HinwiiM
+Firma Claus 6 Fritz
+(Gebrt. VAN MAARE)
+
+Heerengrachlt 341
+TEL, -16885
+
+FABRIKANTEN VAN
+| Olie- en Waterverf
+Schilderpapler, linnen
+i enz» sss eva eva c\9 «^
+IVRAAGT ONZE
+ISTUDSEVERF
+luilUUNIINfflllllflffllUlffllll
+AUG. UILKEMA
+Grootste Klokken Mag.
+MODERN fl. 20 tot fl.50,
+
+Reguliersbreestraat 39
+EN NU GIJ!
+
+In deze week boekten wij onzen
+
+DUIZENDSTEN ABONNÉIN 1930
+Dat De Groene Amsterdammer" steeds meer wordt
+gewaardeerd bewijst deze aanwas
+in den tijd van vijf maanden.
+Ga met Uw tijd mede en
+abonneer U nog heden door mid
+
+del van bijgaande coupon.
+Of bel ons op: 3-7-9-6-4
+Uitknippen en versturen In briefomslag als drukwerk met l1/» cent.
+
+
+Aan de Administratie van ,.De Groene Amsterdammer
+Keizersgracht 355 Amsterdam C.
+
+Ondergefeekende wenschf zich Ie abonneeren
+op ..De Groene Amsterdammer" van l Juni af.
+
+Abonnementsprijs l Juni~31 Dec. :ƒ
+6.
+</text>
+<image timestamp="2002:09:21:18:00:01.00" size="193593">00000889.TIF</image>
+</page>
+</document>

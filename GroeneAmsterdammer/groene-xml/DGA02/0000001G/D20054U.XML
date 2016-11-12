@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320716</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+W*
+--": --^-..-••• ..•:.-.- .--.,-, prijs 20 cent
+AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam C. - telefoon 37964 - postgiro 72880 - gem. giro CL
+***,
+Leidschestraat 106^108 Amsterdam &gt;
+POLISSEN
+aan STATIONS en KEISKUKEAUX diyect verkrijgbaar.
+* * ^^^~
+*
+In geval van schade kan men zich wenden tot de
+EUROPEESCHE"
+te Amsterdam, Athene, Barcelona, Belgrado, Berlijn, Bern, Boedapest, Boekarest, Brussel,
+Constantinopel, Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg, Madrid,
+MUnenen, Oslo, Parijs, Praag, Riga, Rome, Stockholm, Warschau en Weenen.
+N.V. VH
+H.A.K100STERHUIS
+KALVERSTR. 178
+
+UIT ONZE VOORJAARS *
+COLLECTIE
+AMSTERDAM
+
+NIEUWE MODELLEN
+NIEUWE LAGE PRIJZEN
+OUD KOPER DIAMETER KAP 75%. PRU5fö4r
+N.V.lOGEWMABOÏ&amp;Vra'SWIJNWEL
+DEN HAAG
+Stille Veerkade 25/27
+Tel. Na. 110938
+ROTTERDAM
+Jufferstraat 27
+Tel. No. 51155
+ARNHEM
+Euseblusbinn.s. l
+Tel. No. 24084
+Importeurs van:
+WHISKY
+Hing William iv
+Prima Schotsch product van het Huis
+John Gillon 6 CQ Ltd. te Leith.
+Deze whisky munt uit door vol
+
+komen rijpheid en een bizonder
+zachte flavour.
+De echte whisky-kenners geven aan
+dit oude distillaat de voorkeur.
+
+
+Prijs f 5.25 per fflesch
+AihtinUdt
+BOB^BINDER
+KERKSTRAAT 58
+AMSTB^AM
+
+</text>
+<image timestamp="2002:09:21:11:22:24.00" size="121835">D20054U.TIF</image>
+</page>
+</document>

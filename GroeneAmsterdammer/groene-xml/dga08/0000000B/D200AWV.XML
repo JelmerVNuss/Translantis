@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340519</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r i
+..
+.y 'f s* ' •'. • / '
+' " - •
+U
+V'
+Bezing, o Muze, mij de bloem der baardeloozen,
+Getogen in den hof der masculijne rozen,
+Door 't Alma Mater zelf geplant, gesnoeid, geënt,
+Begoten en bemest bezing mij den student.
+Zijn lichaam is nog jong, inaar oud zijn zijn gebaren,
+Zijn voorhoofd is omlijst door dichtgeplante haren,
+Een trek van levenserns^ zwoeft zwervend om zijn mond,
+Maar zijn gebit is blank als van een jongen hond.
+Gewichtig in zijn gang, met iets te groote schreden,
+Neemt hij de vrouwen op, van boven tot beneden.
+Hij komt als kind,.wordt, als noviet, ontmenscht tot dier,
+Is dan weer plotsling man, en leeft voor zijn pleizier
+Tenzij hij zich op 't juiste' tijdstip mocht bedenken,
+Dat ook de studie hem profijt zou kunnen schenken.
+Maar de verleiding dringt van alle kanten aan,
+En wee den muzenzoon,1 die faalt haar te weerstaan;
+Doch hij die wakker weigert voor haar macht te bukken, '
+En dezen wedstrijd wint, zal later nooit mislukken.
+Maar menigeen studeert; als 't standsvooroordeel spreekt, .
+Schoon alle wetenschappelijke zin ontbreekt. '
+Dat is bedenkelijk. Want, staan de kansen hachlijk,
+Dan repeteert hij maakt de wetenschap belachlijk:
+Geleerdheid, door den fepetitor ingepompt,
+Is dood machine-werk. Het scherpt niet, maar verstompt.
+Het dondren doet hem góéd. Hij leert zich te bedwingen,
+Bescheidenheid, geduld, eri tal van andre dingen;
+En hoe veel vuur het volk ook op den groentijd richt', i
+Die blijft omdat hij in den aard van 't beestje ligt.
+De corpsstudent werkt laat, als wijze burgers droomen;
+Dan gaat hij op de kroeg een poosje zitten boomen. '
+Zijn woordenkeus is frisch, hij schept een eigen taal,
+Maar wat hij daarin zegt, is iet of wat banaal.
+Schoon hij den makrokosmos op den tweeden rang stelt, ,
+En in zijn mikrokosmoa meestal meer belang stelt,
+Hij weet van alles af, en spreekt zijn oordeel uit,
+Dat geestig wordt gezegd, en niemendal beduidt.
+Zijn speeches, uitgegalmd, doorspekt met aardigheden, i
+Zijn even erg als die van vijftig jaar geleden. •
+Zijn kout mist veelal pit, op bijkans elk gebied, '
+Maar in zijn repartie ke^t hij zijn weerga niet.
+Zijn oordeel schijnt spontaan, maar 't is hem opgedrongen:
+Hij piept en kwettert na, hetgeen zijn ouders zongen;
+En als hij debatteert, verdedigt hij met kracht
+De theorema's, die een ander heeft bedacht. ,
+Hij 's zeker niet het tiep, waarvoor hij wordt versleten,
+Dat is bedacht door menschen, die er niets van weten;
+Hij spreekt nooit van de soos, een stud, zijn kast, een groen,
+En schuwt niets erger dan studentikoos te doen.
+Hij is een speelgoed-mensch, een vlinderpop, een kuiken.
+Een eendje, versch van 't ei, dat zwemmen kan en duiken
+Gelijk de moedereend, ntaar 't slachten nog niet waard
+Hij is geen visch, geen vleesch, geen veulen en geen paard.
+En toch, ik heb u lief, mijp onversaagde knapen,
+Zoo vrij, zoo zonder zorg.j zóó tot geluk geschapen,
+Die, met de hoop in 't hart, de blijheid in den blik,
+Schier onverschillig schijnt, voor wat u 't lot beschikk'.
+En als ik over deze dingen Joop te peinzen,
+Dan kan ik mij een vaag verlangen niet ontveinzen,
+Een ver verzonken wentjpft ('k erken, de kans is klein)
+Om nog n enklen dag weer jong student te zijn.
+: CHARIVABirS
+*. ••ï'S^ViflVl».!''
+'•'i s«:.*s.".«"::;;:=iii,''":-.-i:;1i.
+•• -«;.u^t;;;:;	•-:.»
+
+</text>
+<image timestamp="2002:10:28:13:33:13.00" size="183212">D200AWV.TIF</image>
+</page>
+</document>

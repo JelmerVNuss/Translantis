@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960621</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amsterdamsche Enakskinderen.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 21 Juni 1896.
+"V.
+\
+i
+\
+In die dagen waren er reuzen op de aarde, en/.ij zeiden: »Wij zullen
+
+
+
+een ondcrgrondschc telefoon aanleggen, met enkele op stijgpunt en."
+
+
+
+Ku cle boosheid des mcnschen was menigvuldig op de aarde, en al
+
+
+
+het gedichtsel zijns harten te allen dage was alleenlijk boos.
+-/
+^•^\fil H
+j^s^i k^ -fe j^v
+w,...
+A &gt;r
+• * 's
+Auist. Hoek- en Steendrukkerij, v/li. Klierman, Ilarms iv Co.
+
+</text>
+<image timestamp="2002:09:04:16:13:32.00" size="100953">D10004L8.TIF</image>
+</page>
+</document>

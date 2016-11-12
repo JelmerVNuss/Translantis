@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400921</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'rouwen en vrouwenleven
+I. Avondhoedje van kleurige veeren, vol luchtgaatjes, wordt geheel boven op het
+hoofd gedragen; perfect verzorgd kapsel en beeldschoone gelaatstrekken vereischt!
+2. W/ten toque met cellophaan strick. Een chic mzdelletje, oik voor U.
+3. Mutsje van groen fluweel, hierbij dient op de zuivere lijn der haar inplanting
+gelei te worden.
+e me
+^•USSCHEN een hoed-met-rand en
+
+een klein dopje, mutsje of toque
+
+bestaat een essentieel verschil. De
+
+vrouw die dolgraag zoo'n malligheidje
+
+dragen wil, de hoedenwinkel binnen
+
+
+stapt, alle rare modehoedjes opzet
+
+en tenslotte toch maar besluit tot een
+
+gewone sportieve vilthoed, geeft blijk
+
+van zelfkennis of van gebrek aan
+
+durf. Het eerste is, in de mode, uit
+
+
+stekend, het tweede onvergeeflijk !
+
+De hoed met rand is, inderdaad, spor
+
+
+tief, en meestal flatteus; de toque kan
+
+coquet zijn, brutaal, onzinnig en
+
+geraffineerd.
+
+Aan ons de keuze !
+
+Maar bij het koopen van een nieuwe
+hoed moet men rekening houden met
+
+enkele vaste regels. Een randloos hoed
+
+
+je past alleen boven een zuiver ovaal
+
+of naar de kin spits toeloopend gezicht;
+
+wie dus eenigszins breede kaken heeft,
+
+zij voorzichtig ! Men kan de hoed
+
+achter op 't hoofd dragen wanneer
+
+het voorhoofd laag en rimpelloos is.
+
+Een geprononceerde neus vraagt om
+
+een hoed met rand. En in 't algemeen
+
+bedenke men, dat die hoeden het
+
+meest flatteeren, die door vorm of
+
+garneering ergens breeder zijn dan
+
+het breedste deel van uw gezicht. Hier
+
+
+tegen wordt veel gezondigd, en toch
+
+is het een zeer voorname regel bij den
+
+aanschaf van den Nieuwen Hoed !
+MARS KN LI Cl 1,1,1 S
+Heeft U wel eens Kastanjepap ge
+
+geten, Kloosterstoofpot of Heete Be
+
+delaar? Na lezing van het boekje:
+Ons Dagelijksch Brood Goede
+Maaltijden in Oorlogstijd" door C. J.
+Ooms-Vinckers met recepten van A.
+J. Reiding ben ik bereid tenminste
+zonder vooroordeel van deze spijzen
+te proeven.
+Dit optimistische werkje, dat op bij
+
+zonder aantrekkelijke wijze het licht
+heeft gezien te Zwolle bij La Rivière
+en Voorhoeve, lijkt mij voor de huis
+
+vrouw, wier taak in dezen tijd alles
+
+behalve benijdenswaardig genoemd kan
+worden, een uitkomst. Opgemerkt zij,
+dat dagelijksch brood hier opgevat
+dient te worden in een bijbelsche uit
+
+gebreidheid van woordbeteekenis. Het
+gaat dus over Gortebrij zoowel als over
+Champignons met kaassaus; de berei
+
+ding van Gulasch wordt U uiteengezet
+even smakelijk als die van Hutspot.
+Het houdt rekening met de wisseling
+der jaargetijden en vooral met de be
+
+perkingen in de verschaffing van al
+hetgeen wij noodig meenen te hebben
+voor onze tafelgeneugten. Bij dit alles
+is het duidelijk, overzichtelijk en be
+
+knopt, zoodat de fantasie onzer
+kookartisten niet aan banden gelegd wordt.
+De professoren: Dr. H. W. Julius en
+Dr. F. J. J. Buytendijk schreven een in
+
+leiding. Het komt mijvoor dat hun na
+
+men een waarborg zijn, dat de gouden
+standaard van onzen vitaminenrijkdom
+in deze leiddraad niet aangetast wordt.
+PAG. 12 DE GROENE No. 3300
+
+</text>
+<image timestamp="2002:09:13:09:33:00.00" size="559174">000007PU.TIF</image>
+</page>
+</document>

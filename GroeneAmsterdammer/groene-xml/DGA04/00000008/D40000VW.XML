@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130824</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VREDE GEBOREN
+DE GESCHIEDENIS VAN EEN LIEVE JONGGEBOREN PRINSES, D(E LANGE JAREN SLAPEN ZAL VOOR ZE IN DE WERELD SCHITTERt.
+SPROOKJE VOOR GROOTE KINDEREN.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 24 Augustus 1913
+Nadruk verboden
+BAATZUCHT
+RllKDOvj CARNEGil:
+De booze fee: Dat denk je maar'
+DEUGD SCHOONHEID
+
+Amst. Boek- en Sleendrukkerij, v.h. ElU-rnian. Harms &lt;\ Co
+
+</text>
+<image timestamp="2002:08:20:04:45:08.00" size="318304">D40000VW.TIF</image>
+</page>
+</document>

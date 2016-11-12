@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950203</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 919
+melomaan Gagnière (l'Oeuvre), waarbij echter Bach,
+Mozart, Gluck vergeten zyn, en op echt
+fransche wys Meyerbeer een der eerste plaatsen
+bekleedt. Ook het geheel in Berlioz's, Wagner's
+en Liszt's geest behandeld, d. i. volgens hun
+opvatting en methode steeds gewyzigd, 1) pano
+
+rama van Parijs (One Pvge A'amour) een let
+
+terkundig leidmotief in optima forma mag
+hier niet vergeten worden. Voor een studie als
+de hier bedoelde dus men ziet 't gegevens
+te over, zoo maar voor 't grijpen: embarras de
+choix of de richesse!
+Sedert ruim een jaar bezitten wij zelfs eigen,
+persoonlijke beschouwingen van dtn médanschen
+kunstenaar over het wezen der moderne opera,
+de eischen aan het hedendaagsch lyriesch drama
+te stellen. Die in z\jn verhandeling over Le drame
+lyrique 2) uitgesproken oordeelen munten wel-is
+waar geenszins door oorspronkelijkheid van op
+
+vatting, door nieuwheid, zelfstandigheid van
+zienswyze uit; ze zyn echter met die heldere frischheid
+opgesteld, met die verve van voorstelling ont
+
+wikkeld, waarin Zola's esthetiesch-theoretiesche
+opstellen uitmunten.
+Hoe verleidelijk 't mjj ook toeschijnen moge,
+er hier eenige hoofdplaatsen uit aan te halen,
+verbiedt de my ter beschikking gestelde ruimte,
+dit plan te volvoeren.
+I.
+Hoe Alfred Bruneau's opera-samenwerking
+met Emile Zola nu eigenlijk ontstond ? Zij
+dagteekent van bijkans 'n zevental jaren herwaarts.
+Omstreeks Juli '88 maakte de chroniqueur
+H. Chrispin in het Parijsch dagblad Le Siècle
+het plan -eener opera-bewerking van een
+Zolaroman voor 't eerst wereldkundig, 't Betrof het
+toenmaals dertien jaren oud vijfde deel van
+den Rongon- Macquart cyclus, de
+godsdienstwaanzin-studie La Faute de V&lt;MéMouret, die door
+geen geringere dan den beroemden Manin
+Lescaut en Werthère- componist op muziek zou wor
+
+den gebracht. Jules Massenet had, zoo heette 't,
+reeds jaren geleden, opgewonden na het lezen
+van La Faute de l'abbéMouret, Emile Zola om
+vergunning gevraagd, sommige tooneelen uit diens
+roman-schepping te mogen componeeren.
+Voorloopig dacht hij slechts over muzikale
+tusschenspelen-intermezzi, gelijk hij die indertijd voor
+Leconte de Lisle's drama Les Erinnyes had
+gecomponeerd. De Parado-tooneelen, met hun
+Edenhof-symbolisme, schenen hem zoo
+rhythmiesch en muzikaal geschreven toe, dat hij het
+overtollig achtte, voor de voor zang te componeeren
+gedeelten den versvorm, de versmaat, het rijm aan
+te wenden, en er de voorkeur aan zou geven,
+de uit te kiezen text-fragmenten uit het boek
+zelf zonder eenige verandering hoegenaamd op
+muziek te zetten. Kort daarop had bij Zola's
+uitgever Georges Charpentier een bijeenkomst
+tusschen den woord- en den toondichter plaats,
+waarin eerstgenoemde zijn volle goedkeuring aan
+het plan van laatstgenoemde schonk. Sedertdien
+bleef de zaak echter in statu quo ante
+en nog steeds schijnt het plan in onzeker
+
+heid te zweven, nog steeds schijnt de definitief
+besliste vorm voor het geprojecteerd werk
+niet gevonden, niet vastgesteld te zijn.
+Voorkmpig heet 't hieromtrent dus nog: mystère !
+Van toen af aan bleef de pers over dat voor
+
+nemen een absoluut stilzwijgen bewaren. Tot
+heden echter schijnt Massenet zijn
+Serge-enAlbine-plan niet te hebben opgegeven, hoewel't
+hem voor zoover der buitenwereld althans
+bekend is geworden nog niet geheel duidelijk is,
+in welk gewaad hij zyn muzikale herschepping
+van Zola's onvolprezen meesterstuk zal steken.
+In den zomer of herfst van '88 nu vatte een
+toenmaals 28jarig parijsch toondichter, een leer
+
+ling van Massenet, Alfred Bruneau van wien
+reeds in Mei '87 in de »0péra Populaire"
+(EdenThéatre) een opera in drie bedrijven: Kérim
+(libretto van Henri Lavedan) was opgevoerd
+hetzelfde plan op: de idee tot op-muziek-zetten
+der realistiesch-fantastiesche liefdesidylle in Ie
+Parado bij Les Artaud (omstreken van
+AixPlassans). Tel maïtre tel valet: zoo de leeraar
+zóó ook de leerling, 't Behoeft nauwelijks ver
+
+zekerd te worden, dat hij niet de minste kennis
+van Massenet's voornemen droeg.
+(Slot volgt). J. v. SANTEN KOUT.
+1) Hector Berlioz ging hierin trouwens op
+het voetspoor van Beethoven in zijn laatste schep
+
+pingsperiode (zie vooral de Finale der negende
+symphonie) allen vóór. Men bedenke, dat de
+idée fixe" der Symphonie fanta&amp;tique, met haar
+tallooze gedaante-verwisselingen, van het
+Hernanijaar 1830 dagteekent.
+2) In Fernand Xau's dagblad Le Journal van
+22 November '93 (drame lyrique = opera).
+
+
+Hiiiiiimmnninmmiiiirinmiiimiiiiimiiiiiiiimiiiiiiiiiiiiiiiiiiiniiimiinii
+
+
+MüM in de Hoofdstad.
+
+Hoezeer ieder menscli ook naar verscheidenheid
+haakt, kan men toch niet zeggen dat liet publiek
+spoedig geneigd is nieuwe werken op symphonisch
+gebied met sympathie te ontvangen. Daarvan
+heeft de heer Kes vaak de ervaring opgedaan.
+Gelukkig ontmoedigt dit hem niet, en gaat hij
+voort met het nieuwste dat in den vreemde ver
+
+schijnt aan ons bekend te maken, al is ook al de
+moeite van het instudeeren voor n, hoogstens j
+tweemalen. Charpentier's Impressions (f f talie bewezen j
+dit alweer. Bij de tweede uitvoering van dat werk
+was de zaal tamelijk leeg en toch zijn die avonden
+dat het orkest alleen aan het woord is waarlijk
+niet de minste. De vorige week toen de violist
+Ondriceek en de zangeres Mej. Nathan zich deden
+hooren was er bijna geen plaatsje te veroveren,
+en thans zou een kanonskogel weiuig schade hebben
+aangericht. Dat pleit het zij met alle respect
+gezegd niet voor een groot deel van de
+leden van bet Concertgebouw, of men moet uit
+protest tegen de herhaling van Cliarpentier's werk
+weggebleven zijn, wat ik niet geloof, want demon
+
+stratief is het concertbezoekend publiek over liet
+geheel niet.
+Wanneer wij nu het gehalte van solisten en
+orkest-uitvoeringen met elkander vergelijkt, dan
+valt dit niet altijd ten voordeele van de
+solistenconcerten uit. Ook thans was dit niet het geval,
+want hoewel Mej. Nathau's zang een aangename)!
+indruk maakte en de violist ons onthaalde op
+zijne onvergelijkelijke octaven, trillers en
+decimengangen en hij met onovertroffen vlugheid van de
+hoogste naar de laagste verdiepingen (posities)
+voltigeerde, kan ik toeh niet zeggen dat zijn spel
+uit een muzikaal oogpunt mij bijzonder geboeid
+heeft en daaraan schrijf ik het dan ook toe. dat
+de Siegfriecf-Icfyll, door het orkest zoo schoon
+uitgevoerd, voor mij het glanspunt van den avond
+was.
+Men heeft er van af moeten zien, zooals altijd
+te doen gebruikelijk was, een solisten-concert
+met een ouverture te besluiten, want het is niet
+aangenaam het publiek te zien wegvluchten vóór
+zulk een stuk begint met eene agitatie alsof
+er eene paniek ontstond door brandalarm ver
+
+oorzaakt.
+Tegenwoordig laat men een solist liet concert
+besluiten en nu blijven de toeschouwers niet alleen,
+doeh zij vragen ook nog een toegiftje.
+Mevrouw! bezoikt ge trouw de concerten in het
+concertgebouw? wordt op menige soiree gevraagd,
+en dan zal onveranderlijk htt antwoord luiden:
+O zeker! maar natuurlijk alleen de buitengewone
+concerten.
+En waarom niet de gewone? roept dan vïel eens
+een zeer nieuwsgierig mensch.
+Wel dit is imn.ers geen usance iii onzen kring
+en dan: zoo'n lange symphonie en geen zangeres.
+O foei! dat is niet te doen.
+Doch behalve die hulde aan de usanee, schijnt
+men nu eenmaal de orkestuitvoeringen als bij
+
+zaak te beschouwen, hoewel men toch geleerd
+moest hebben dat de uitvoeringen van dit orkest
+altijd van superieur gehalte zijn, wat men van de
+sohstenconcerten waarlijk niet altijd zeggen kan.
+Die orkestrale uitvoeringen—door de spraakma
+
+kende bevolking de muziek'' genoemd, (in opera
+of concertverslagen leest men zelfs wel eens o. a. :
+de zang was mooi, maar de muziek was te hard.
+Men schijnt dus zang niet als muziek te be
+
+schouwen) hebben recht op de onverdeelde belang
+
+stelling van de leden van het Concertgebouw en
+ik hoop dus dat er nog eens een tijd aan zal
+breken, dat er ook op de Donderdagavonden zonder
+solisten geen plaatsje onbezet zal zijn. Een interes
+
+sant programma geheel uit nieuwere werken samen
+
+gesteld, zooals de vorige vrek werd ton gehoore
+gebracht, had zulks ten volle verdiend.
+
+De Ned. Opera van Van der Liudtn heeft deze week
+lïoméo en Julia van GounoH opgevoerd Deze Opera
+voor het eerst 27 April 1807 in de Opéra Comi(|&gt;ie
+te Parijs opgevoerd is in liet laatst van 1889 naar
+de Groote Opera verhuisd, zoo is htt met Fuast
+ook gegaan. 19 Maart 1859 werd dit wc rk in de
+Opéra-Lyrique opgevoerd en 3 Maart 1SG9 m de
+Groote Opera.
+De Groote Opera is dus steeds het ideaal ge
+
+weest dat Gouuod voor oogen zweefde. Nu daar
+was ook wel reden voor, want een zanger als
+Faure voor Hephisto te winnen was w'el wat waaid
+al miste hij toen Mme Cttnalho als Marguerithe.
+En nog meer kou Gounod zichzelf geluk
+wenschen dat Romeo naar de Groote Opera verhuisde,
+waut de eerste voorstellingen in 1889 van d,t
+werk zullen nog lang in de herinnering van de
+Parijzenaars blijven. Zelden zijn de bureaux de
+location zoo bestormd als toen, want niemand
+minder dan : Adeline Patti zong Jidiulle, de ge
+
+vierde tenor Jeau de Reskézong Romeo en Edouard
+de Reskéde partij van Frère Lti-ureiil. Dat is een vau
+de laatste groote triomfi n die Gounod gevierd iieeft;
+en zelfs na Adeline Patti's vertrek hield de belang
+
+stelling stand, want de gebroeders de Reskébleven
+op hun post en de geheele vertolking van dit, werk
+was eene buitengewone schoone ook met de dames
+Darclc, Eamnes of Melba als Julietti1.
+Gounod is genoemd door een van de Fransche
+literatoren //une a in e qu'envahit Ie mysticisme et
+que teute encore la volupié." Ik zou geneigd
+zijn deze uitspraak om te keeren, want, m. i. is
+Gounod meer //envahi" door : la voluptc dan door
+het mysticisme ; en waar hij zich in liet mysticisme,
+begeven heeft daar treed la voluptézoo sterk op
+den voorgrond, dat men o. a. in Jlors et //^/aan
+
+houdend meent een zeer wereldsch liefdeduet te
+hooren en in de werken voor en na Fu/ixl ge
+
+schreven boeit hij ons vooral daar, waar de liefde
+aan het woord is.
+Hoe ver toch staan het, eerste tableau van de
+vierde acte en de vijfde acte boven al het andere
+zelfs de tweede acte niet, uitgezonderd. De eerste
+acte, alleen opmerkelijk door den wals, (een hoogst
+dankbaar efl'ectstuk, doch dat geheel den ii.druk
+maakt ingeschoven te zijn ten einde de
+coloratuurzangeres gelegenheid te geven als zoodanig te
+brilleeren, hetgeen dan ook ongeveer juist is) is
+muzikaal zeer leeg en zelfs de derde acte met het
+woelige straattooneel maakt dat men vaak op de
+muziek geen acht slaat en alleen de handeling
+volgt. Het lichte serenadetje is ook hier de oase,
+hoewel het lichter vnoet worden gezongen dan nu
+het geval was. (Die aanmerking geldt, echter in
+hoofdzaak het tempo).
+Doch in de eerstgenoemde tafereeleu is Gounod
+zoozeer zichzelf en weet hij zijne hoorders zoo te
+boeien, dat men hier gevoelt, Gounod te hooren
+zooals hij in zijne beste oogenblikken zich vertoont.
+Deze uitvoering verkreeg vooral relief door de
+vertolking vau de twee hoofdpersonen, nu j. Louise
+Ileijmannen den heer Pauwels. Dat onze helden-tenor
+in dit werk zooveel goeds gaf, is voor hem grooter
+overwinning dan de vertolking van een zijner
+helden partijen, want hier moet hij zichzelf geweld
+aandoen en zijne liefde voor Julia in teedere kl. n';en
+uiten. Dit. nu gelukte hem op eene wijze zooals
+ik nog niet van heiu hoorde en daarom releveer ik
+deze overwinning van den heer Pauwels met groote
+ingenomenheid. Mej. Heijmanu en hij wisten een
+zeer schoon geheel te verkrijgen en daarom moeten
+beiden in een adem gemeld worden. Ook deze dame
+wist de poëtische zijde vau hare partij zeer uit te
+doen komen, wat ik eene even groote overwinning
+voor een colorat uurzangeres acht.
+In een kroniek zooals deze is het niet mogelijk
+alle kleinere rollen uitvoerig te vermelden, ik stip
+daarom alleen aau dat de heeren Poous en Urlus
+op bevredigende wijze hunne partijen vervulden;
+dat mevr. Orelio, behalve het te langzame tempo,
+toonde weer beter over hare middelen te kunnen
+beschikken en z'ch blijkbaar oefent om eeiiige
+ongelijkheden in haar stem te verbeteren; dat de
+heer Judels vooruitgaat en dat de heer Engelen
+verdienstelijk zong, doch wat veel de heer Engelen
+bleef, cu dat d« overige partijen voldoende, tamelijk
+slecht waren. Het koor deed zijn best zacht te
+zingen, doch was er soms gehec l uit, o a. in het
+aardige mannen-koortje in de 2e acte, dat daar
+
+door geheel mislukte. Dit, werk is niet, forsch ge
+
+nstrumenteerd en dus was het orkest niet te
+domineerend, doch nog veel te dikwijls klonk het
+ss-t van den heer Van der Linden door de geheele
+zaal.
+Vooral wat de vertolking van mej. Heijmann
+en vau den heer Pauwels betreft is deze opera dus
+een bezoek zeer wa'ird.
+
+Ik heb de vorige week eene uitvoering bijge
+
+woond van de Ivedertafel Kunst door Oefening onder
+leiding van den heer II &gt;eske waar eenige Ned.
+koorwerken o. a. Scheim-riag en Muskerdans van
+Bern. Xweers op het programma stonden. Met
+veel genoegen hc'i ik die uitvoering bijgewoond
+omdat er op goede wijze gestudeerd en gezongen
+werd. De jonge leider voert, zijne schare met
+zekerheid aan en maakt veel werk van eene goede
+wijze van zingen. Alleen zou ik op de eigenschap
+willen wijzen die vele liedertafelseenigszinsaankleeft
+n.l te scherpe en plotselinge contrasten van p p
+naar f f en vicc versa en minder aandacht voor
+wa*. daar tu-schen ligt.
+Ik twijfel niet of de leden van deze nog zoo
+jonge vereeniging zullen dit leereu overwinnen
+waut ik heb zeer veel goeds in de uitvoering
+opgemeikt.
+De heeren van der Bruijn (viool) en Mecrloo
+(violonccl) beulen leden van het concertgebouw
+behaalden als solisten een groot, en hoogst ver
+
+diend succes en ook een dilettant baritonzanger
+die een schoone stem hex.it, en over het, geheel
+duidelijk uitspreekt, belooft bij voortgezette studie
+iets goeds.
+VA^ MILLIOKX.
+UIllllllMMnlIIIIIIIIIIMIIIMIMIIHIIHIIIIMMIIIimlIIMHIMIIlHIIIIIIIIlllIlUIIUII
+Henri Tle.
+1803-189,").
+Met droefheid in het lnrt schrijf ik eenige
+regels ter begeleiding van bovenstaand port'et.
+De jonge talentvolle kunstenaar Ilenri Tibbe
+is 'Jx Januari op 31 jarigen leeftijd aan eene kwaal
+bezweken wier vonnis nog in zoovele gevallen
+onherroepelijk is.
+Sedert eenige jaren in onze stad gevestigd nis
+leeraar in de hoogere piaroklasse aan de Muziek
+
+school van de Maatschappij tot bevordering der
+Toonkunst, heeft hij zich in die betrekking doen
+kennen als een man, begaafd met buitengewonen
+paedagogischon tact en met nooit
+verllauwenden ijver in het vervullen van zijn plicht. Doch
+behalve die eigenschappen bezat hij dat zeker iets.
+dat er zooveel toe bijbrengt van d n leerling alles te
+maken wat er van temaken is: hij had /K /t/e en
+Jtnrt voor de ontwikkeling van de talenten aan hem
+toevertrouwd. Dut maakt dat de leerling geen
+moeite, geen inspanning ontziet, wanneer bij of zij
+daarmede een woord van tevredenheid
+ofaanmoodiging kan verkrijgen van den wel gostrengen,
+doeb tevens zoo sympathiek™ leermeester.
+Op de uitvoeringen van de Muziekschool heeft
+men vaak leerlingen gehooid wier spel een schit
+
+terende getuigenis van Tibbe's voortreffelijk on
+
+derwijs aflegde. Hoewel een buitengewoon ont
+
+wikkeld pianist, trad bij in de laatste jaren slechts
+nu en dan als solist op. Meermalen heeft hij j
+echter gelegenheid gehad zijn spel te doen waar
+
+deeren en voor anderhalf jaar heeft hij op eene
+soiree ten llove zeer groot succes behaald.
+Hij heeft zich echter vooral met hart en ziel
+aan het onderwijs gewijd. Welsprekender getui
+
+genissen daarvan dan de droefheid van zijne
+leerlingen, die hedenmorgen aan het graf een
+laatsten groet aan hunnen meester kwamen bren
+
+gen, is niet denkbaar.
+Doch niet alleen zijne leerlingen, ook vele
+kunstbroeders waren opgekomen om wijlen den
+begaafden jongen kunstenaar een laatst vaarwel
+te brengen en voorzeker hebben allen toegestemd
+toen namens de diep bedroefde jonge weduwe en de
+familie aan allen dank werd gezegd voor de laatste
+hulde aan dien goeden, besten Henri bewezen.Want
+allen, die hem van nabij kenden, hielden van
+hem, om zijn goed hart en karakter. Altijd ver
+
+heugde hij zich in het succes van een kunstbroe
+
+der, altijd toonde hij belangstelling in bet streven
+van anderen.
+Tibbe's levensgeschiedenis is in korte woorden
+te schrijven. Hij was de zoon van den muziek
+
+directeur Tibbe te Brielle en toonde reeds vroeg
+grooten aanleg voor muziek.
+Goed voorbereid, eerst door zijn vader en la
+
+ter als leerling van de Kon. Muziekschool te
+'s Gravenhage, bezocht hij het Conservatoire te
+Brussel waar hij vooral het onderricht van den
+beroemden pianist Zarembski genoot. (Zijn leer
+
+meester is aan dezelfde kwaal, op bijna even
+jeugdigen leeftijd gestorven. Ook hij kon, ondanks
+zijn verblijf te Davos, niet van zijn lijden gene
+
+zen worden).
+Met veel lof ontving hij niet alleen het eind
+
+diploma van het Conservatoire, doch hij dong ook
+met succes naar de gouden medaille. Dit is eene
+zeer groote onderscheiding. Daarna werd hij te
+Hasselt tot muziek-directeur benoemd.
+De liefde tot zijn land een ieder aengheboren
+zooals Vondel zegt noopte hem naar de open
+
+gevallen betrekking aan de Muziekschool alhier
+te solliciteeren. Uit een zeer groot aantal mede
+
+dingers werd Tibbe benoemd en dat die keuze
+eene hoogst gelukkige geweest is, behoeft niet
+meer te worden uiteengezet.
+Te Amsterdam heeft hij zich als kunstenaar
+nog zeer ontwikkeld en ieder die hem in het
+begin en later heeft hooren spelen, zal kunnen
+getuigen dut zijn spel aan rijpheid en diepte
+steeds won.
+Tevens speelde bij zeer goed viool en alt en
+ook als componist van kleinere klavierwerken
+doch vooral ook door enkel paedagogische werken
+voor klavier is hij zeer bekend geworden.
+liet standpunt dat hij in ons muziekleven heeft
+weten in te nemen zal hem niet spoedig doen
+vergeten.
+Het was mij eene behoefte den kunstbroeder
+dien ik ook onder mijne vrienden mocht rekenen,
+openlijk te herdenken. Hoeveel goeds had men
+in de toekomst nog van bein mogen verwachten.
+De muziekschool verliest veel in hem, en het
+zal voor zijn aanstaanden opvolger eene zeer
+groote hulde zijn, wan: eer nien hem later mag
+toeroepen : ('ij hebt Tibbe's arbeid op waardige
+wijze voortgezet.
+v. M.
+Het cosluum en de gelaatskleur van
+Othello.
+De interessante figuur: Othello blijft meer dan
+de meeste Shakespeare helden de aandacht van
+het schouwburgpubliek bezig boude;', niet al
+
+leen door de tragedie van bhakespeare zelf, doch
+ook later door Uossini's opera en daarna door die
+van Verdi.
+Er i&gt; voorzeker geen tooneelheld wiens grime
+en gelaatskleur zooveel wijzigingen heeft onder
+
+gaan als die van Otlullo en daarom is het niet
+onbelangrijk die eens de revue te laten passeeren.
+Er zijn vaak hevige kwesties over ontstaan, en
+het zou niet onmogelijk zijn dat die weer te
+berde werden gebracht.
+Vroeger, onder de regeering van Karel II en
+later door l^iiiu, Garrick en ook Kemble werd
+Otliello als neger voorgesteld. Die acteurs deden
+dit naar aanl iding van Hmlcrif/o'n woorden die
+spreekt van den man met de dikke lippen, doch
+zooals door Alexandre Beljame, in een zijner
+lessen aan de Sorbonne te Parijs is opgemerkt,
+heeft die uitdrukking niet mee waarde dan wat
+men wel eens meer van iemand zegt. die wat
+donker van tint is: die neger! of: die kaffer !
+(t)uin rnoet er heel gek uitgezien hebben met
+zijn groote gepoederde pruik, zwarte huid on
+witte handschoenen, doch de anderen waren neit
+minder belachelijk, liarry droeg een rood met
+goud gestikt kleed, een korte broek en zijden
+kousen, en Kemble zou men voor een Engelsch
+generaal hebben gehouden, (larrick droeg een
+roode officiersuniform en daarbij op het hoofd
+een tulband met groote veer om forscher te
+schijnen. Irving droeg een Venetiaansch costuum
+doch in de derde acte (scène met JKI/O) was hij
+geheel in het rood, waardoor hij veel op ]\f&gt;/i.'t^tn
+leek. (Saléza in de opera te Parijs kleedde zich
+ook zoo.; Uossi en Hooth (de Amcriknanscho
+acteur) hadden de gelaatskleur van een Moor on
+Salvini in zijn blauw met zilver gestikt costiiiim
+en langen Harderenden mantel zag er uit als een
+Spahi.
+Er worden belangrijke details aangehaald uit
+een Engelsch werk: &gt;(iarrick of de Kngelsche
+tooneelsjielcrs ', in de vorige eeuw verschenen.
+Daarin komt o. a. bet volgende voor:
+"\Yann er Shakespeare den Moor van Venetië,
+die den vermeenden verleider van zijne \ruuw
+heeft doorstoken, laat zeggen: Al had bij duizend
+harten, mijn onverbiddelijke wraak zou ze allen
+hebben gedood, zag men liarry blozen onder bet
+zwarte gaa&gt; dat over zijn gelaat hing.
+Uit die frase blijkt dat de Eiigelsche acteirs
+vóór Garrick, die nog weinig ervaren waren in
+
+</text>
+<image timestamp="2002:08:20:05:47:01.00" size="409864">0000036K.TIF</image>
+</page>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321015</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+K AC C BII
+ir en hare Mogelijkheden
+AG U E Z
+l* v *X
+•:-tV-«
+,-a.-» ,. :
+i"
+*
+eene hand over
+
+houdt. Blauwe drui
+
+ven, witte druiven,
+muskaatdruiven en
+Frankenthalers.. .., en
+onwetendheid •
+Een druif is een druif, zegt
+men, hetgeen ten eenenmale onjuist is.
+Wanneer een druif een druif ware zou de
+wijn het drinken niet waard zijn.
+Er zijn duizend wijnen, die het wel zijn en dat ze
+het zijn, ligt aan de kennis des onderscheids in zake de
+duizend- en een druivensoorten en variëteiten. Een
+wijngaard in Frankrijk, beplant met zekere soorten,
+levert anderen wijn, als een wijngaard, gelijk beplant, in
+Catalonië.
+Aarde, zon, wind, gesteente, maken de druif anders van
+smaak. Ouderdom, variëteit, adel van ras en duizend onder
+
+scheidingen doen hun invloed gelden. Kortom: de wijnboer heeft
+zooveel eeuwen lang en in zooveel landen in den wijngaard
+des Heeren gewerkt, dat hij de druif veredeld heeft in vele
+rassen en kruisingen, die pveral weer anders aarden. Vandaar de
+onderscheiden wijnen, en de domheid van hen die meenen dat
+een druif een druif is. Zelfs de druifluis weet het beter, zij heeft
+haar voorkeur....
+Er was eens een Eussisch grootvorst, die gelijk dit een Russisch
+grootvorst past, een goede Bordeaux beminde, van een bepaald
+kasteel. Hij bezat wijnbergen in de Krim en nam zich voor
+daar dien wijn te verbouwen. Hij kocht dezelfde druivestokken.
+De wijn werd anders. Het moest aan de wijnboeren liggen. Hij
+huurde de wijnboeren van het kasteel. De wijn werd anders.
+Het moest aan den bodem liggen. Hij kocht een schip vol van den
+authentieken bodem. Het baatte niet. Het moest aan de gesteenten,
+diep onder den bodem liggen. Hij kocht er een schip vol van. Hij
+kocht mettertijd eigenlijk denheelen wijngaard van het kasteel, meters
+diep uitgegraven met alles wat er op en er in was. Maar de wijn
+in de Krim was anders, en hij vroeg tenslotte op een goeden dag
+aan een ouden wijnboer, waarom hij anders was. *
+Omdat de zon, de wind en het water niet te koop zijn, die God over
+de aarde verdeelt, zei de oude wijnboer. En hierna kocht de grootvorst zijn
+wijn maar weer per okshoofd en flesch, en niet per schip met wijngaard.
+Ziedaar een leerzame geschiedenis voor die slechte communisten en anderen
+die ons allen gelijk en evenveel willen geven en uitgaan van het beginsel dat een
+mensch een mensch is. De vloo weet het beter, zij heeft haar voorkeur.
+Hieruit leert men dus hoe nuttig het ismeerdan vier soorten druiven te leeren eten, als
+
+mede meer dan vier soorten wijn te kennen. De druif is de pil uit .Bacchus' apotheek, die
+geneest van vele dwaze vergiftigingen als daar zijn de gedachten dat n leer, n politiek, n
+wat dan ook voor heel de wereld deugt. De druif schenkt den drank uit Bacchus' apotheek die ons
+nog beter van dat alles geneest, omdat hij duurzamer is, geestrijker en edeler, en met de jaren rijper
+en rijker.
+In een schotel jonge druiven en een flesch ouden wijn kan men de menschheid spijs en drank
+voorzetten gelijk er geen betere is, omdat beide afkomstig zijn van den waren boom der kennis des
+goeds en des kwaads, zoodat zij wijsheid en onderscheiding leeren. Maar ja, er zul
+
+len altijd menschen zijn en blijven, die zeggen dat een boom een ^^^^^^^ boom is, een
+mensch een mensch en een druif een druif; niet- ^^f^^^f^^^^ tegenstaande de
+natuurlijke en
+onbetwist
+
+bare kennis
+des onder
+scheids van
+lagere dier
+
+soorten als
+vloo en
+druif
+luis.
+m?.
+
+</text>
+<image timestamp="2002:09:27:10:23:49.00" size="230102">00000AN7.TIF</image>
+</page>
+</document>

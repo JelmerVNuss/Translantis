@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840629</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMME-R, WEEK BLAD'VOOR NEDERLAND.
+No. 306
+De gemeenteraad van Rotterdam heeft met 29 tegen ne stem besloten,
+B. en W. te machtigen stappen te doen tot voorbereiding der
+vereeniging van de gemeenten Rotterdam en Delfshaven.
+Uit het debat bleek, dat de vergadering thans niet meer deed dan het
+beginsel uitspreken, zich voorbehoudende de voorwaarden nader te bepa
+
+len.
+Be verdere plannen tot verbetering van den toestand en tot
+uitbreider gemeente werden door dit besluit niet gepraejudicieerd.
+De ingenieur-architect Bert Brouwer, zal naar men aan de N. B. Ct.
+meldt, Nijmegen wederom met eene inrichting verrijken, waaraan men
+«cedert de ontmanteling der vesting en de snelle ontwikkeling der stad
+^behoefte gevoelde. Hij zal namelijk in den Planten- en Vogeltuin,
+gele.gen naast de sociëteit De Vereeniging, eq nabij de groote wedrenbaan,
+cea clubgebouw met hötel-garni bouwen.
+
+De Fransche Senaat heeft het crediet van 80,000 francs voor Fransche
+Inzendingen op de Internationale Landbouwtentoonstellinjr alhier, aange
+
+nomen.
+
+De N. S. Ct. verneemt uit Londen, dat het leggen van den nieuwen
+graafkabel tusschen Lowestoff en Zandvoort geëindigd is.
+
+Tot het afleggen van het examen, bedoeld bij art. 11 der Wet op het
+Kotarisambt, hebben zich aangemeld 340 adspiranten, welke over de ver
+
+schillende gedeelten van het examen verdeeld zyn, als volgt: voor het
+lite gedeelte 121, voor het 1ste en 2de gedeelte 26, voor het geheele
+examen 13, voor het 2de gedeelte 33, voor het 2de en 3de gedeelte 57
+en1 voor het 3de gedeelte 90.
+
+Blijkens mededeeling van Zr. Ms. gezant te Brussel, is in de Belgische
+£amer van Afgevaardigden een wetsontwerp ingediend, waarby het navol
+
+gend gewijzigd invoerrecht op cacao wordt voorgesteld: Cacao in boonen,
+CacaoBchillen en Cacaoboter 50 francs en bereide Cacao 70 i'rs. per 100KG.
+
+De eerste haringjager is deze week te Maassluis binnengekomen.
+
+Op het 16de Ned. Nat. Zangersfeest te Rotterdam zullen als solisten
+optreden: Mevrouw Degève-Ledelier van Antwerpen, mezzo sopraan, eu
+de heeren: Ernest van Dijck, van de Concerts Lamoreux te Parijs, tenor,
+Blauwaert van Brussel, bariton, en Henry Fontaine van Antwerpen, bas.
+
+De uitslag van de verkiezing van een lid der Tweede Kamer in het
+district Zevenbergen is, dat er herstemming moet plaats hebben tusschen
+den heer Mr. R. Van de Werk, die 519, en baron Van der Borch van
+Verwolde, die 509 van de 1087 geldige stemmen bekwam.
+
+Tengevolge van den dood van Prins Alexander is het 37e
+Landhuishoudkundig Congres, dat Dinsdag en volgende dagen te Amersfoort zou
+plaats hebben, vier weken uitgesteld.
+Ook de daaraan verbonden feestelijkheden zullen nu 22 Juli aanvangen.
+De eerste internationale tentoonstelling van pluimgedierte, georgani
+
+seerd door de Vereeniging Ornis, is echter op 25, 26 en 27 Juni doorge
+
+gaan, en zeer goed geslaagd.
+
+Mr. O. J. F. Mirandolle, sedert 1869 lid van de Tweede Kamer der
+Staten Generaal voor het district Haarlem en lid van den raad dier ge
+
+meente, is deze week overleden.
+Haarlemmer van afkomt, studeerde de heer Mirandolle aan de univer
+
+siteit alhier. Als doctor in de rechten ging hij naar Ned.-Indiëwaar hg
+te Sttnarang de adrocaats-praktijk :van inr. Van der Hoeven overnam en
+in het huwelijk trad.
+Hier teruggekeerd, vestigde hu zich wederom te Haarlem. Reeds sedert
+geruimen tijd was hg lijdende aan een leverkwaal; het was dan ook zijne
+gezondheid, die hem dwong, slechts zeer korten tijd president der Tweede
+Kamer te blijven, en die den laatsten tijd van z\jn leven vergalde door
+een dikwjjls zeer smartelijk lijden.
+Naar de Si.-Ct. bericht, is de verkiezing van een lid der Tweede Ka
+
+mer in het district Haarlem (vacature-Mirandolle) bepaald op 15 Juli ek,
+Herstemming, zoo noodig, den 29 .d- a. v.
+
+De officieele bescheiden gewisseld tusschen de Engelsche regeering en
+de Transvaal in zake de Conventie van Londen, den 27sten Februari
+dezes jaars gesloten, zijn door de Deputatie openbaar gemaakt.
+De bundel (gedrukt en verkrijgbaar bij J. H. Kruijt alhier), bevat: lo.
+bet Zandrkier-tractaat van 16 Januari 1852; 2o. de Pretoria-Conventi»
+van 3 Augustus 1881 en 3o. de Conventie van 27 Februari jl. Een reeks
+van stukken tusschen de Deputatie en Lord Derby gewisseld zijn voorts
+opgenomen en geven gelegenheid den loop der ouderhandelingen te vol
+
+gen. Een groote kaart geeft zoowel de, door Lord Derby, als de, door
+de Deputatie, voorgeslagen grensregeling en ten slotte de vastgestelde
+lijn ten duidelijkste aan.
+
+De prijsvraag voor de nieuwe Beurs alhier is uitgeschreven. Het pro
+
+gramma zal den 30 Juni verkrijgbaar zijn.
+
+Naar wij vernemen moet bij het wetenschappelijk onderzoek der
+geneesheeren gebleken zijn dat de Kroonprins leed aan eene reeds jaren geleden
+tengevolge van eene pleuria ontstane aandoening der beide longen.
+Overigens bleek dat de Prins lijdende was aan gebrekkige bloedformatie
+«t overmatige vetvorming.
+De dag der begrafenis is nog niet vastgesteld. Misschien heeft zij eerst
+in de tweede helft van Juli plaats. Ook aangaande de terugkomst van
+H.H. M.M. den Koning en de Koningin is nog niets bepaald.
+Het lijk van den Kroonprins is deze week tentoongesteld geweest;
+duizenden uit den lande gingen het zien.
+Een belangrijke aankoop. De beroemde Parijsohe humorist Vivier, die ook
+bekend is om zijn luimige invallen, trad een rnodemagazyn binnen. Ik moet
+een roode stof hebben", voerde h\j den bediende, die hem vroeg wat er van
+zijn dienst was, toe.
+Welke soort en welke prijs?"
+Dat is mij eender, het komt voornamelijk op de kleur aan.
+De bediende haalde het eene stuk voor, het andere na voor den dag:
+flanel, zijde, sammet, brocard, laken, linnen van alle nuancen en alle soort.
+Eindehjk bepaalde Vivier zijn keus tot een scharlakeu-stof. Wat kost de
+meter daarvan?"
+120 francs!" Nu geef m\j dan twee centimeters, want ik gebruik
+het goed om naar kikvorschen te hengelen."
+
+Verspeeld. Een gezelschap toeristen, blijkbaar behoorend tot de beste
+kringen, was in de speelzaal van Monaco bij de roulette vereenigd.
+Ouder de toeschouwers bevond zich ook Mevr. v. B. met andere beken
+
+den. Zij volgde het spel met groote belangstelling. Plotseling scheen
+haar een denkbeeld in te vallen. Wat zou je er van deuken", vroeg zij
+lachend aan haren echtgenoot, aan wiens arm zij stond te kijken als ik
+eens een enkele maal op mijn ouderdom zette? Je hebt me zelf dat eens
+gezegd".
+Ja", antwoordde de Heer v. B., het is vast en zeker dat de dame, die
+op het nummer harer jaren zet, de eerste maal wint." Dat zullen we
+eens zien" zei Mevr. v. B. plagend, opende haar beurs en nam er twee
+goudstukken uit. Allen rekten den hals uit om te zien op welk nummer
+de dame haar goudstukken zou zetten. Bevallig boog zy zich voorover
+en koos nummer 30 uit. Mevr. v. B. was zeer schoon, zeer elegant, en
+het nummer scheen te goeder trouw uitgekozen. Eien ne v a plus" klonk
+het op dat oogenblik. Het balletje rolde en viel, rolde nog een vak verder
+en bleef ten laatste op 36 staan.
+Zie je" dus sprak de heer gemaal niet weinig verstoord, dat mijn raad
+goed was? Had je de waarheid gehuldigd, dan had je nu reeds90 Louis
+d'or gewonnen." De dame was ontsteld, doch niet daarover dat zij niet
+gewonnen had.
+
+Mensclielylt hoornoee. Onder de brieven, door het comitéder tentoon
+
+stelling te Calcutta ontvangen, uit Rajshahaïgeschreven, verdient de
+volgende vermeld te worden: Sir, ik heb de eer u mede te deelen,
+dat ik een man bezit, op wiens voorhoofd een rechte hoorn is gegroeid.
+Ik ben van plan hem op de tentoonstelling te Calcutta te laten kijken,
+en verzoek u mij te berichten welke belooning ik daarvoor zal beko
+
+men." De commissaris Joubert kwam echter tot het besluit, dat het be
+
+doelde individu onder de rubriek Hoornvee'' viel en derhalve op een
+tentoonstelling van voorwerpen van kunst en nijverheid niet thuis be
+
+hoorde. Zooals men weet, verhaalt ook Miss Isabella Bird, de beroemde
+reizigster, dat zij een bedelaar op de Schanin-brug te Kanton heeft gezien,
+die met den hoorn van zijn voorhoofl, op den grond sloeg en hoor
+
+baar geluid voortbracht.
+
+B$ een huwelylcs-vereenigïng. Het volgende aardige tooneel is dezer
+dagen voorgevallen bij het sluiten van een huwelijk op een dorp in de
+nabijheid van Hoya:
+Een vijftigjarig daglooner en een 55jarigèeerzame jonge dochter waret
+tot het weldoordacht besluit gekomen zich in den echteljjken staat te
+begeven. Op schoonheid kon geen van beiden aanspraak maken, en de
+gelukkige bruid was ten overvloede stokdoof. De plechtigheid had plaats.
+De eerwaaxdige prediker vermaande het paar lief en leed samen te deelen
+en hun trouw nooit te verzaken, en deed daarna de gebruikelijke vragen.
+Johann Christiaan Diedrich Kr.. -.. verklaart gij enz..." Een duidelijk
+hoorbaar 3ja" klonk door de kerk. Hierop wendde de geestelijke zich tot
+de bruid. Op zijn vraag kwam echter geen antwoord. Hij herhaalde de
+vraag nog eens geen antwoord! Verlegen keek de prediker de bruide
+
+gom aan. Ja, dominé! zij hoort een beetje moeilijk," sprak deze, en terwjjl
+hij de lieftallige bruid een vriendschappelijk ribbestootje gaf, schreeuwde
+hij haar iu het oor: Liesje! de dominéverlangt te weten of je mij
+hebben wilt". Daar sloeg zij de godvruchtig naar den grond gerichte
+oogen tot hem op en riep op gelukzaligen toon uit: O, Karel o zoo graag l"
+
+Vrooli/ke opvatting. Iemand werd vermoord gevonden, met gekneusd
+en bijna verpletterd hoofd. Een gerechtelijk onderzoek wordt ingesteld.
+De rechter van instructie vraagt aan den geneeskundige, die de lijkschou
+
+wing verrichtte:
+Zoudt u niet denken dat die vreeselijke verwonding was veroorzaakt
+door middel van een zwaar werktuig!"
+Ja," dus luidde het bescheid, dat zou inij nog al toelachen."
+
+Knapen als helden van een liefdesdrama. Onlangs stierf te Revai
+Noordelijk Rusland) de 17jarige kweekeling van het daar gevestigde
+gymnasium Leszuikaff aan de gevolgen van zware schietwonden in het
+hoofd, die hem kort te voren door zijn löjarigen makker baron Kossinsky
+waren toegebracht. Bij de lijkschouwing vond men in de hersens van den
+overledene twee revolverkogels. Toen men de aanleiding tot den moord ta
+weten kwam en de moordenaar, baron Kossinsky tot verantwoording
+riep, gaf deze het bescheid: Ik en LesznikofT hebben hetzelfde meisje
+bemind. Dat hij zich op n lijn met mij plaatsen durfde, ergerde mij zeer
+en ik nam het besluit hem te dooden. Op een goeden dag stak ik den
+geladen revolver van mijn vader in mijn zak ging naar Lesznikoff, en
+daarna met hem 's avonds naar het meisje. Toen wij op den Boulevard
+waren gekomen, haalde ik miju revolver voor den dag en wafc er verder
+gebeurd is, kan ik mij niet moer herinneren." Een paar dagen later stierf
+plotseling de vader des jeugdigen moordenaars, baron Kossinsky. Deze
+had uit verstoordheid oyer de daad zijn zoons zich zelven vergeven. De
+zelfmoordenaar laat een joage vrouw en acht minderjarige, onverzorgde
+kinderen ua. De vermoorde Leszuikoff was een eenige zoon.
+
+</text>
+<image timestamp="2002:08:17:19:01:14.00" size="246006">000002G0.TIF</image>
+</page>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110212</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Knoopen tellen.
+BIJVOEGSEL, van L- Amsterdammer, Weekblad voor Nederland, van 12 Februari iQti.
+In den loop van Februari bezoeken groepsgewijze een 500-tal letterkundigen,
+architecten, leden van Amstelodamum en genoodigden, het Paleis Raadhuis
+op den Dam.
+Amst. Boek- en Steendrukkerij, v/h. Ellermau. Harms &amp; Co.
+Kom, Burgemeester! waar wacht je op? Treed hier binnen!
+Stoor mij niet! Ik ben juist bezig die zaak te bestudeeren.
+
+</text>
+<image timestamp="2002:08:24:16:05:51.00" size="227400">000004R7.TIF</image>
+</page>
+</document>

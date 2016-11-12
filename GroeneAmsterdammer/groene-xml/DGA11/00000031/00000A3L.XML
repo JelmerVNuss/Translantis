@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320319</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 19 Maart 1932
+No. 2859
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N, V, Meubel m a g azijn Eden"
+MOLSTEEG AMSTERDAM
+BOEKEN KASTEN
+BEGRAFEIMISVEREEIMIGING
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tal. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+HOTEL - CAFÉ- RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+L Modern Comfort- Lift -Stroomend water-«enz. ^
+H=. Logies met ontbijt f 3.50 per persoon .=
+PAASCH
+EITJES
+van Droste zijn iets
+bijzonders. In diverse
+exquise smaken, o.a.:
+NOUGAT
+MONT
+LIMARTeitjes; een vulling van
+heerlijke nougat met
+amandel en pistache pit
+Ziet toe, dat ge
+Droste's krijgt.
+//ALTIJD WELKOM»
+«Sc!*»
+C. J. de Koning &amp; Zn.
+Keizersgracht 447
+Opgericht Ao. 1739
+Waschtafels
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts ƒ 2,jo per kwartaal (f 0.20
+voor incassokosten) of f 10.—per
+jaar bij vooruitbetaling
+Moeder loopt geen risico!
+Zie hoe het reinigen van hun tanden een plezier
+voor hen is - ze wéten dat Colgate's lekker
+smaakt ! Wat zij nog niet beseffen is hoe moeder
+door eigen gebruik van Colgate's tandpasta over
+
+tuigd werd, dat geen andere pasta het gebit zóó
+grondig kan reinigen, 's Morgens en 's avonds,
+beter nog na eiken maalti'd : tanden poetsen met
+Colgate's. Dan ;s er geen gevaar meer op het ont
+
+staan van, vaak microscopische, haarden van
+tandbederf uit restjes van snoeperi^en en voedsel.
+Of de kinderen het met moeders methode eens
+zijn? Kijk ze maar eens glunderen!
+Groote Tube
+70 cent
+H-32-58 AB
+TANDPASTA
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:19:22:00.00" size="173687">00000A3L.TIF</image>
+</page>
+</document>

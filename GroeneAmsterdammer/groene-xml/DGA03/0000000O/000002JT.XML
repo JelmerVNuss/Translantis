@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840824</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAMMER,
+humor, die lichtende vonkjes strooit door hare werken, niet minder groot
+baar vermogen om liefde te geven en te wekken, om zich kleine genoe
+
+gens en kleine plichten te scheppen, die haar hart bevredigen. Haar
+geest leeft inmiddels zjjn eigen leven: vermeit zich in die fijnheid van
+opmerking, die vaardigheid van uiting, la joie de créer" zooals Balzac
+het noemt, op zioh zelf een genot voor den bezitter. Zij heeft er ons de
+vrachten van nagelaten in zes boeken, meestal geschreven in de jeugd
+van het leven, dat niet lang is geweest, en waarvan Sense and Sensibility
+ea Pride and Prejudice de bekendste zijn. Onlangs beeft men tweehon
+
+derd brieven ontdekt van Jane Austen, die zullen worden uitgegeven
+en zeker nog meer licht zullen werpen op the woman of whom
+England is justly proud" zooals Macauley haar noemde.
+Tusschen de beide vrouwen zooeven beschreven, en de romanschrijfsters
+van onzen tijd ligt een groote afstand. Beiden leefden zij in de dagen
+toen de koorts der Fransche Revolutie doordrong in alle vertakkingen
+van het maatschappelijk leven. En echter, hoe rustig is haar in- en uit
+
+wendig bestaan, hoe weinig bewogen door wat toen de gemoederen in
+•panning hield. Eensdeels moet de reden hiervan zeker gezocht worden
+in het isolement van Engeland tegen over het vasteland in die dagen.
+Maar toch aan den anderen kant ook in het vermogen, laat mij liever
+zeggen de gewoonte van de menschen van voorheen en van de
+Engelschen in het bijzonder om zich te bepalen tot hun eigen kring
+enteverdiepen in hun eigen leven. Es liegt ein tiefer Sinn in dem geringfügigen
+Umstand dass der Engliinder das Fürwort der ersten Person(I) grosz und das
+der zweiten (you) klein schreibt," zegt Johaimes Scherr. Voor ons die leven in
+dagen nu boeken als Progress and Poverty en feiten als dynamietaanslagen
+teekenen des tijds zijn, voor ons is het bijna onmogelijk ons te onttrekken
+aan de onrust en ontevredenheid, die woelt in de aderen van al wie van
+de vrucht der hedendaagsche beschaving heeft gegeten. Ook in den stroom
+der Engebche romanlitteratuur, gevoelt men hier en daar de uitwerkselen
+hiervan. Ik wensch van de menigte der hedendaagsche schrijfsters er
+slechts twee te behandelen, omdat zij mij toeschijnen het best twee typen
+te vertegenwoordigen: tot de minst en tot de meest populaire, tot George
+Eliot en tot Ouida.
+Beiden richten zich tot twee verschillende klassen van lezers: George
+Eliot tot de weinigen, die, bij al wat hen dagelijks in beslag neemt, geleerd
+hebben zich tot zichzelven te bepalen en met ziehzelven bezig te houden,
+Ouida tot de groote schare, die leest om zich aan zich zelve te onttrekken.
+Twee zeer ongelijke persoonlijkheden, zooals zij door hare werken tot ons
+spreken; de eene vol Noordelijke kracht en rust, de andere vol Zuidelijke
+weelderigheid, de eene ons het eenvoudig, maar aangrijpend drama van
+het menschelijk lijden en strijden toonend, de andere ons telkens weer
+sprekend van den nen hartstocht der liefde, de eene afdalend tot de
+diepten van het gemoedsleven en opklimmend tot de hoogten van het
+menschelijk denken, de andere hare kracht zoekend in de beschrijving
+van de uitwendige pracht en de inwendige verdorvenheid van het leven in
+de groote wereld; de eene vol beproefde levenswijsheid, de andere vol op
+
+pervlakkige wijsbegeerte, de eene de zielen beheerschend door zelf
+beheersching, de andere meegesleept door de overspannen verbeelding, in wier
+dienst zij haar talent heeft gesteld.
+Johannea Scherr betoogt ons in zijne uitnemende Geschichte der
+Englischen Literatur, dat in geheel de Engelsche letterkunde, evenals in het
+volkskarakter, de Germaansche geest der Angelsaksische voorvaderen,
+slechts weinig gewijzigd door de samensmelting met de Normandiërs,
+duidelijk op den voorgrond treedt. Bij geen der romanschrijvers is dit
+zoo waar als bij George Eliot. Ook heeft zij, evenals Carlyle, hare onge
+
+wone gaven in de school der Duitsche philosophie gevormd. Wat moest
+voor eene vrouw wel het gevolg zijn van dergelijke studiën in eene maatschappij
+waar, meer dan in eeaig Protestantsch land, de kerk hare macht heeft
+staande gehouden? Wat moest men daar, waar de staatskerk een predikant
+die'niet aan de drieëenheid gelooft, voor hare geestelijke rechtbank daagt,
+wel denken van een jong meisje, dat Strauss' Leven van Jezus en
+Spinoza1: Ethica vertaalt 'f Wel machtig moet de drang naar de vrije
+gedach',0 zijn, als zij een zoo godsdienstig gemoed als dat van Marian
+Evans zich doet losmaken van de kerk; als iemand aoo vol behoefte aan
+" liefde de genegenheid van vrienden en verwanten opgeeft voor hare
+overtuiging. De dorst naar kennis, hoe rijk zij in zeker opzicht het een
+
+voudig landelrjk leven, dat zij in hare jeugd leidde, gemaakt heeft, werd
+de oorzaak van eene verwijdering tusschen haar en haar vader en broeder,
+waaronder zij zeer heeft geleden.
+Als Savonorola tot Romola spreekt: Hoe, gij zegt dat de liefde voor
+uw vader u niet langer dwingt in Florence te blij ven? Dus omdat die band
+verbroken is, zijt gij zonder wet en zouder godsdienst, niet beter dan de
+beesten des velds, beroofd van hunne jongen ? Als het smachten naar
+vleescheljjke liefde voorbjj is, hebt gij geen liefde en geene verplichtingen
+meer? G\j moet den gloed voelen van een samenleven met de menigte en
+de geschiedenis der wereld beschouwen als de geschiedenis eener verlos
+
+sing, waarin gij zelf medewerker zjjt," dan hooren wij de stem van Marian
+Evans-zelve, worstelend om haar eenzaam hart, beroofd van zijne na
+
+tuurlijke banden, een voorwerp te geven, waaraan het al zijne teederheid
+en al zijne toewijding kan schenken. Het leven is niet zoo wreed geweest
+haar dat te onthouden; na eene jeugd, arm aan al de vreugde der jonk
+
+heid, heeft da rijpere leeftijd haar vergoeding geschonken.
+Door eene verbindtenis met Henry George Lewes, den schrijver van
+,bet leven van Goethe, door beiden tot het einde als een huwelijk be
+
+schouwd, werden al hare behoeften van hart en verstand bevredigd.
+Misschien waren het de moeilijkheden, die wat haar maatschappelijk leven
+aangaat, aan deze samenleving waren verbonden, die George Eliot in
+een harer latere werken doet zeggen: het is niet waar dat de liefde
+alles gemakkelijk maakt; zij leert ons kiezen wat moeilijk is". Hoe het
+ook zg, van hare vereeniging met Lewes af, begint dat leven van
+intellectueele krachtsinspanning, dat zulke rijke vruchten droeg; gesteund
+door een geest, die haar begreep, een hart dat haar liefhad en waar
+
+deerde, bereikt Mariau Evans' talent zijn hoogsten bloei.
+l
+Bijna onmiddellijk bij haar optreden ais i jWiwiHr ice&gt;ct neemt zjj den
+hoogen rang in de litteratuur in, dien nu niemand haar meer betwist»
+Nadat de Scènes of Clerical Life in tijdschriften waren opgenomen, ver»
+scheen Adan Bede. Wel werd het niet met onverdeelden lof welkom
+geheeten, maar het gevoelen van het ontwikkeldste en beschaafdste deel
+der natie, bracht weldra de enkele ongunstige oordeelvellingen tot
+zwjjgen en van toen af wordt elk nieuw boek van George Eliot eene gebeur
+
+tenis in de geschiedenis der letteren. Maar niet minder eene gebeurtenis
+voor de schrijfster zelve, die, haar eigen kracht niet kennend en verre van
+dat volkomen zelfvertrouwen, dat alleen het deel is der zeer beperkten,
+met moeite wordt overgehaald tot elke nieuwe openbaring harer gaven,
+die haar zelve verbaast en verheugt. Het is Mr. Lewes' invloed, die haar
+talent leidt in het rechte spoor en haar steeds prikkelt tot voortgaan.
+Van eene geregelde ontwikkeling kan hier echter geen sprake zyn. oea
+Marian Evans romans begon te schrijven, heeft zij den leeftijd van de
+hoogste intellectueele kracht bereikt: door genot en ontbering, door
+studie en waarneming hebben hare gaven den vollen wasdom bereikt en
+Adam Bede is het rijpe voortbrengsel van een rijpen geest.
+Adam Bede tegenwoordig in Londen tot tooneelstuk misvormd, is het
+meest bekend en wordt door velen haar meesterwerk genoemd. Misschien
+omdat het het best geschikt is om door het algemeen genoten te worden,
+omdat er actie en levendigheid in is, omdat er wat in gebeurt." Zeker
+ook hier merken wij de eigenschap op, die door velen als een gebrek in
+een kunstwerk wordt beschouwd: dat namelijk de schrijfster telkens de
+handeling zelve laat rusten om hare eigen beschouwingen aan het woord
+te laten komen. Het valt niet te ontkennen dat, om dergelijke uitwei
+
+dingen te kunnen genieten men behagen moet scheppen in dat leven in
+het afgetrokkene, waarvan zij zelve de gevaarlijke zyde aldus beschrijft.
+Al kon ik het, dan zou ik toch niet een zoo bekwaam romanschrijver
+willen zyn, dat ik eene wereld kon scheppen, zooveel beter dan deze
+wereld, waarin wij 's morgens ontwaken om ons dagelijksch werk te vol
+
+brengen, dat gij wellicht kouder en onverschilliger zoudt worden voor
+de stoffige straten en gewone groene velden voor de werkelijk levende
+mannen en vrouwen, die den verkillenden invloed uwer onverschillig
+
+heid, of den nadeeligen invloed uwer vooroordeelen kunnen ondervinden
+die opgewekt en gesteund kunnen worden door uw medegevoel, uwe toe
+
+gevendheid, uw moedig, billijk oordeel." Maar juist door die gewoonte
+om steeds haar eigen zieleleven, haar eigen ervaringen voor ons bloot
+te leggen, wordt de schrijfster voor ons eene persoonlijkheid, die ons
+nabij schijnt te zijn in ons dagelijksch leven, evenals onze beste vriend. In
+Adam Bede wordt die gewoonte eenigszins geneutraliseerd door het belang
+dat de handeling opwekt en dat is niet in al hare boeken het geval. Het
+heeft in hooge mate de verdienste, die mij altijd de meest wonderbare zijde
+van haar wonderbaar scheppingsvermogen heef t toegeschenen: de gave om
+ons zoovele volmaakt verschillende naturen te schilderen, dat zij bijkans
+de eeuwige verscheidenheid der natuur evenaart. Geen van de personen
+uit hare romans lijken iets op elkaar, met uitzondering misschien van
+het type, dat zij inbare latere werken teekent, waartoe Dorothea en
+Lydgate en Eomola en ook eenigszins Maggie Tulliverbehooren.Maar hoe ver
+
+schillend is Dina Morris, het Methodisteri-preekstertje in wie wjüde streng
+Kalvinistisehe opvattingen herkennen, waarin Marian Evans werd opgevoed,van
+Hetty Sorrel, wier schoonheid wij schijnen te zien, wier innemende manieren
+en schuwe beminnelijkheid even zeker ons hart verovert als dat van Adam
+Bode en Artliur Donnithorne, ons even geneigd doet zijn als de wereld
+in het algemeen, om zelfzucht en ijdelheid in zulke vormen te vergeven
+of liever nog te ontkennen. Hoe verschillend is de luchthartige, onbe
+
+zorgde genotlievende natuur van Arthur, in wien eergevoel en ridderlijk
+
+heid te vergeefs worstelen om de oppermacht, van het sterke plichtsge
+
+voel, het krachtig handelen van Adam. En is de natuur niet op
+heeterdaad betrapt in de schildering van Mrs. Poyser, in hare kernachtige ge
+
+zegden schatten van gezond verstand en praktischen zin samenvattend ?
+(Slot volgt.) Agnes van Egmond.
+XlXe TAAL- EN LETTERKUNDIG CONGRES.
+
+Wij vestigen de aandacht op eenige onderwerpen welke Maandag en
+volgende dagon te Brugge zullen worden behandeld.
+Koor de regelings-commissie werd o. a. aan de orde gesteld:
+Het tot stand brengen lo eener lijs* van al de namen der steden, dor
+
+pen, heerlijkheden, gehuchten, wijken, leenen, hoeken enz. Deze namen
+zouden opgegeven worden in hunne oudere en nieuwere spellingen, daar
+
+enboven met de juisto opgave van de wijze waarop men die namen ter
+plaatse zelve gewoon is uit te spreken;
+2o Eene naamlijst van al de stroomen, rivieren, beken, waterloopen,
+poelen, vijvers, grachten, slooten, dijken, veenen en peelen, stukken akker
+
+land en meerschen, bosschen, enz.;
+3o. De namen en bijnamen van buurtwegen en bannen, wegels en voet
+
+paden ;
+4o. De namen van stadsstrateu, wijken, gebuurten, openbare plaatsen,
+zoo oudere als nieuwe, met aanduiding dergeneu welke niet meer bestaan,
+en met chronologische opgave der spelling van de nog bestaande;
+5o. De namen der plaatsen waar huisbeelden, kapellen of andere tee&lt;
+kens van godsdienstoefening bestaan of eertijds bestonden, of waar
+bedevarrten of minder openbare uitingen van godsdienst of bijgeloof plaats
+grijpen;
+60. De namen, toenamen en scheldnamen heden of voortijda in gebruik,
+met, zooveel ale heden vindbaar is, huu historischen oorsprong of bijzon»
+dere plaatselijke beteekenissen.
+Dergelijke lijsten zouden alle, zooveel mogelijk, behooren opgemaakt
+te worden bij demographische of beter nog, bij dialectische omschrijvin
+
+gen, b. v. West-Vlaanderen, in twee dialect-gewesten; Zeeland in twee
+of drie zulker groepen, enz.
+Eene wetgeving voor de bewaring van bijzondere gebouwen vaa kunst*'
+
+</text>
+<image timestamp="2002:08:18:01:30:45.00" size="278012">000002JT.TIF</image>
+</page>
+</document>

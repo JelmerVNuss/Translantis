@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240517</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2448
+POLLEN'! Oude Eeoever
+Fijne Likeuren en Punch
+m. P. POLLEH A ZOO* - Rottordm»
+J. Dm STRUXJS &amp; Zm.
+Prinsengracht 887 P. O. Hooftstraat 140
+f EL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+KLEIN KOPEEWEEK, gedraaid of gestamt, blank
+of veraikkeld levert tegen zeer lage prezen
+nWENlEUBSBOBEAU VAN fflSPEH, ZWOLLE.
+Rotterdam, Hoogstraat 218,
+Hotel-Restaurant A. Schneider".
+Kamers met stroomend water. i Hulstelefoon.
+Uitpakkamers'. Vergaderzalen.
+Koldewey&amp; Corbière
+Leidschestraat 30, Amsterdam
+Speoimlltult in s
+WIT LACQUE MEUBELEN voor
+Slaap-, Logeer- en Kinderkamer
+Gebr. BREEN
+
+IIEÜWENDIII172. • Tel. 49161
+ROIEH6WHÏ53. - Tel. 30345
+HURLEHMEISTI. 64 - Tel. 30346
+Grootste sorteering Westm. Klok
+
+ken, Pendules, Horloges, Wekkers,
+Gouden en Zilveren Werken.
+Ie Qualiteiten. Lage prijzen.
+Gouden Ancre Horloges f
+65.Zilveren
+20.Nikkelen
+5.Wekkers van a! f 2.—.
+E
+»,
+l
+j
+
+l
+i
+DROS
+CACAO
+VERPLEEGSTER
+PIETER AERTS/STRAAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIOIQ &amp; VAN ELVEN.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+.A.via ui j wielen
+r» 12 BESTE
+J. DE JON8 &amp; ZONEN - A'DAM
+BAARN
+Woningbureau van dan Makelaar
+J. D. F. v. d. VEEN
+Nieuw-Baarnstraat 59
+STOPPAQE
+VAN ALLE
+:- en
+Costuum Model Persen f 1.25
+
+My VALET trom Londen
+Beurspassage 14. - Tel. 44915
+Wlllemsparkw. 175 -Tel. 20333
+AMSTERDAM
+Depot ALKMAAR, Bergerweg 5
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P. C. Hooftttratt 38, Amiterda». Telef.: 20341, 242501
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+- EIGEN LIJKKOETSAUTOMOBIELEN
+ADR1AAM SCBAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+LIEVEGOED'S
+Visch- en
+Tafelmosterd
+House for Gentlemen
+Ie Klasse Engelsche gemaakte Heerenkleedlnft
+ENGELSCHE ELEEDERMAKEBIJ NAAK MAAT
+Weteringschans 45 :-: Telefoon 36845
+COS
+TKR
+INDIEN G IJ UW
+LAND HOOG WILT
+HOUDEN, WACHT
+U DAN VOOR EEN
+BUITENLANDSCH
+CONFECTIE INT
+
+RIEUR EN LAAT UW
+HUIS INRICHTEN MET DE DEGELIJKE
+NEDERLANDSCHE MEUBELEN DER L. O. V.
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen. Transporten. Crematies.
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Meeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd.
+
+Gez. VAN HUIDEN - Zwolle
+B. CT. IJUCTTLIDIEiRS
+TUINARCHITECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon Sch. 810
+Illustratiedruk-papler van de Firma C. G. A. CORVEY Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:07:56:14.00" size="162598">D2003KD.TIF</image>
+</page>
+</document>

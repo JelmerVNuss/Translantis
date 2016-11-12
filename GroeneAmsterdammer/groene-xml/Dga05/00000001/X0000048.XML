@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18780210</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+, v
+AMSTERDAM.
+Suriname. Adn»»* Jok»»»». Mulder.
+191 r., 493 vtj. Suiker, «6 ». Mei*»», N.H.M.; 42 ». 87 tij
+dito. £ P. L MdUinger. 84 b. Cirao, Ord.r.
+Java, CktMtl. Batehelder.
+1040 kr. Suiker. KKglingcr &amp; Co.; 866. kr. dito. H. 4 D
+RahuMm 19 ki. dito. Lens &amp; Bergnnn, 1000 Koe-, 1000 Buffel.
+buiden, Dviehmanu &amp; rum Rath; 1023 kr. Suiker, 391 bm*.
+RottiBft. Order.
+Java, De/u»t. C. G. A v. Lindrrn.
+4272 b. K.ilfie, 1041 kr. Suiker. N. I. Haiülelsb.; 1S70 kr.
+dito. H. &amp; D. Rahnseu; 212» Huiden. H.ipe &amp; Co.: 190 p. ('nsii*
+Rntgen &amp; Huaink) 107 p. Kapok. H. G. Til. Crone: 148 k.
+&gt;Thee. Kerkhoven &amp; Coutinho; 25 k. Koelie, krpgliuger &amp;
+Ca.20 kr. ButTelhoorut. 7 kr. Gutta Perrha. -SI b. Koffie: 100 b.
+?f per. Gebr. HarUen; 134 b. dito. J. C. Bmndt Jr.: 4129 VMS
+Bottine:. vin Heckeren t ('o.-, 413 k. Thee. Order — Voor
+Reit. 16,000 b. Koffie. N.H.M.
+Bergen. Maria Hiirirti., S. He*
+3000 waag Viieh, 30 Ion Tratn, A. Smit X- 7n.
+JaT*. A»le»a, R. Bont.
+1000 b. .Koffie, R. i- D. RahUHU; 13: v. dito, Kirard &amp;
+Vreiwild: 2aï kr. Cauia r'iHul». 1247 Huidtn. vanEeghenfc Co.:
+• 1710 .dito, Muller &amp; CalWn; 2706 boss, Rixtinü. van
+Heekeren &amp; Co: 2790' kr. Suiker, 2000 b. Koffie, 78 h. Kap.&gt;k. 4&lt;l
+Djittiebulken, Order. — Voor Kalt. 8000 b: Koffie, N.H.M.
+ROTTERDAM.
+Java, Grift*, v. Maten.
+10.000 Koe-, 900 Buffelhuiden. 3S7 If.ejt. Arak. A. C'.
+rre«r i; C»; 559 kr. Suiker, Suermond * Co; 33.U kr. dito,
+\T. Svhötter &amp; Co.: 116 kr. dito, Philippi X- O.: 88*9 b*i.
+RoUitie. Order. — Voor .fuut. 181 Icsg. Amk. va» Ei-iihcn &amp; Co :
+Cbjurleoton, Temut firoiuaiti. Eilert«eo.
+Ï792 v. Harst. 2400.Pijpdui|{i-n. Srhmiu * Fassbeoder.
+Indlë, van de Stoomv.-MaaUoh. Nederland.
+18 Pebr. Print tam Oranje..
+ï« Febr. Sla» Httrln,
+9 Mrt. roemttflt
+SO Mrt. Co»rarf.	;...
+ÏO April friiu Hendrik
+11 Mei Cffftu
+l Juni Kofiy dtr \ederla
+i'i Juni Privn Amnlia ...
+Schepen iu lading.
+
+K 'V;
+Te Amsterdam naar r
+Batavia, Amer.ik. Bark _./,.*» M. Clnt. kapt. J. T. ('oiiaut.
+Adre* Ool^tardt &amp; Bruinier eu Tb. Breuker.
+Batavia, Xed. Bark Mr. Jgraf ra» Unf/i. kapt. H. J.
+Brrkmah. Adn-s de Vvic» &amp; ('o.
+Batavi», N'ed. Kregut Tt'anat. kapt. J. li. I.uiiuk. \Jtrn
+B. J. Cant i Co1. '
+Bremen, Uuitsrhe -chip J'*ita fattmrina. kapt', fi. Siriiur-,
+Adres J. C. van Oven i Zoon.
+Buenos AJTOB, Uuitiche llark S-&gt;p,t/r .(• f.tieif, kapt. Haiufn
+Adre» B. J. Carst X Co.
+~ Curac,aO, Xcd. Sfhooner-Hrik Hemmaa Ifiat. kapt. \V. TV.
+Kcenitra, Adre» E. Windhonw^r.
+Curacao. Ned. Sehooner-Br'k Göurerncnr r/t Kuurittt. kapt. .
+P. A. TVolking. Adres K, TVindhouwcr.
+Hamburg, St. alle 5 da^en. Adres 'v.in Es &amp; rail Ommeren
+Buil. St, Woemd ig eu 7. itcnliig. Adn^ fiebr. Sfheiie.- en'
+.Gemmenin;; St Prnnuiy.
+1 .Leitht St. Zaterdags.. Adres Gewmeuing &amp; Penninp,
+LÏTerpool» St v'd. Cork 3team*hïp.Co'mpv. Ailrc;» vau £• k '
+van OmraTen .'''.,
+Londen, St. Diu^d.iir en Vrijdag. Ailre» \obpl &amp; HoltxaplV'l.
+XacaBsar '(dir.), Ned. Bark Grrreitita irifht?tni»ff, kapt.
+F. W. SpieT. Adret Ooleaardt &amp; Bruiuii-r.
+Macasaar, Me,l. Brik 2 GtbrofArrt, kapt. R. H. G. Srhmidt.
+Adre» Canne t. Bilné en B. J. Cant J£ Co.
+Macasaar. Xed. Srhooner -V. .V., kapt. J. van Duijvenbode.
+Adre» Wed. Jan van Wesel'i Zn.
+Macassar, (dir.) Xed Schoon*r Trifit, kiiut. K. TV. Schenk.
+Adn» DL- Vrie» &amp; Co.
+, Padang, (dir.) Xed. Barii Anloinettt, kapt.1 D. OuwelmudSzn.
+Adre» Osknardt &amp; Bruinier.
+St. Petersburg, "ed. Scbooner Pic! Hein, kapt,.....'Adres
+Sob.el 4 HoltlapTel.
+St Petersburg, XVd Galjoot Laaler/a. kagit J. G Kar«t
+Adn» Wed. Jan Salm ï Meijer.
+Samarang 'dir.), Xed. Bark Jtwtnetft \tmianae Lot.&gt;M.
+kapt J. P P. Jurrjen». Adrr» Ojlmardt 4: Bruinier.
+Sainarang (dir.) N'ed. Bark T/iorirckc II. kapt.' T. D'. Golt.ird-.
+Aditw d-.- Vrie» i Co. V . , .
+. Samarang. Noi B ir k Aaafrrdamrr kapt. J. Kr'ui-iagn. Adres
+d'Arnand t Co.
+Samarang, XeJ. Fr-gat Aaattl, kapt. H. C. Hatrke. Adres
+d'Arnaiiil, de Co.
+Soerabaya idir). Xfd. Bark, 4 ijr'orordert. kapt. C. v. d, Zee,
+Ailrd&lt; Oolgaardt t Bruinier. •
+Soerabaya idir.), N'ed. Birk Catktriiui, k»|it. M. Kitnmcrer,
+Xdre» B. J. Carst. S Co. en O. W. van Birneveld Kooy en
+P. A van E» t Co, Rolt. . .
+Soerabaya (dir.), Zweedsehc Bark IJind^erg, ,kapt. A. S.
+Jobanisou. Adre» de Vries &amp; Cb. en Meijer i Co.
+Soerabaya, Xed. C4ipp?r Tkorfaeke, kapt. H. J. Klasen.
+Adre» de TVéd. Jan. van'TV Mei, i Zoon.
+—Soerabaya, Xed. Fregat Amitel. kapt. H. C. Haacke. Adre»
+d'Arnaud &amp; Co.
+• 'Suriname, Ned. Brik Cornelia $• Gr'r/ntiJa,'itapt. G. G. A.
+TVielema. Adre» van der Wonden &amp; I.uber.
+Suriname, Ned. Brik rorneliaS-Jfaria. kapt. J. F. van Doest.
+Adres v. Tubergen &amp; Da»n.
+Suriname, N'ed. Brik' Adriana Johaniu, kspt. P. D. Mulder.
+Adn» van Tiibergrt &amp; Dsnm.
+Te Rotterdam tiaar •
+. Batavia, Ned Fregat Xtitor, kapt. L. van Roozendaal. Adres
+Knijper. Vin Dim £ Smeer en HuJiï &amp; Blokhnijzen.
+Belfort. St. Jtnliaa. kapt M. Walsh. Adres Hudijr4 ijlokh'uijzen.
+Bordeaux, St. Bollmt/er, kapt,van den Toorn. Adre» Sinith l Co.
+Hamburg, St. Okdine. Adre». Ch. Cornelder Jt JZo'nen.
+Hamburg. St. S/eomraart, kapt. P. T. Hansen. Adres P. A.
+van Ea &amp; Co. . • •',',. ' . .
+Huil «tt Ooole, St. T d. Gooi e Steam Shinping CT. lederen
+Dinidag en Zaterdag.- Adres Hudig &amp; Piete'r'. , '•
+Lissabon, Famtlalntm, kapt. H.Woortrain. AdresSefuweniCo.
+• Londen. Gen. Stei\m Nav. Cv., eiken Dintdaft en Zaterdag.
+Adres' Gebr.' Smith. • •
+. 'Londen via Harwirh, St. dagelijks behalve Zondags 2.30 nm,
+.Adret Hudij &amp; Pieten. ' . '
+Manchester, Sheffleld, Lincoln enz. vin Kninsbi. St. Dinsdag-.
+en Ziterd»nvond. Adre» Rujr», &amp; Co. . ,'
+Plymonth, Bristol en CardUT, St. Coxi/ance, kapt. S. Thomas
+Adres Boutmv Se Go. ' • &gt;
+&gt; Porto, Ned. Schip Mina, kapt H. Hértman,_Adres P.
+Varkeïliiér fc Zonen.-' ;, •..•"•'
+**»tnmraTlgi (dir.) Ned. Clipperfregst Knntmsr/md tapt. P. de
+Jon«. Adrej Knijper, van Dam i Smesr, Hudiuh&amp; Blokhnljitn.
+Bamamng,' Noordich Clipperfregat Cletilaxd, kipt. C. Knudsen.
+Adres Knijper, vu Dam &amp; Smeer eu TYimbenie il Zoon. ^
+Samarang, 'O*nat, ïipt. J. H. Paal». Adre» Hudigh.&amp;
+Blok* huijnn, Kuijptr vau&lt; Daui fc Smeer, 'Kutterdim. Oolgurd ti
+1 : Bruinier. Amsterdam. , , .
+Singapore, N.Duit«ch'Clipperb»rkJtfaM&gt; «.&gt;««*, kapt. A.Oarcke.
+, ' Adres t. A. van E» S; Co., Rott. en B. J Cint &amp; Co., Amit'.
+Soerabaya, (dir.) Ned. Clipperfrejtit Conttia, kapt. S. Ie Clercq.
+Adre» Vnwge &gt; de Wij». • ', . .
+R. Berkelbaeh v.d. Spronkcl.
+P. A. d.- Boer.
+T. J. Auke».
+... J. F Gnudt T. Roggen
+.. M. C. Brut
+— C. A. Bikker
+\de*. A. O. M. Brujus.
+K. \V. Fabritiüs,
+Indië, van de Kotterdamsohe Lloyd.
+l» Febr. .irwrfw	(j. J. Met»
+IS .Mrt. Itamptn,.,.	'\v. 1„ M. Moutr.-.
+10 April B,fH*e	'...,.	\V. S. kramer».
+S Mi'i Orrrijtw/	X. X.
+5 JilüT ll'ijllrrto*	R. J, Blacklill.
+3 Juli Turnen,.	R. Chittam.
+NewTort, .van de Rotterd. Stoomv..Maatsch.
+t« Febr. H: A. Sekait,»	J. J&gt;„z,.n.
+» Mrt. .V,«..:.. p. Ï4., 4e'r Hoeven.
+18 Mrt. P. Ca/avt.	R. |),dde».
+30 Mrt. Mirjam	K. M. Chevalier.
+Amsterdam. » Frbr. 12 u. Hme» t&lt;yr,u. \Vri- r,i Hooilandeu.
+lulaai;- e,i VL'ieeui.tfdrn Kiiiin-tipoUlrr.
+tin. Brallcftinmf. .\Viuki'!hn 9 ,u Krf. St..hu-ubiinut 24: Wiu.
+kelhiliseu Krl° kart:.ni&lt;er&gt;traat l(i; lluisen Krr.VoetlmojntraalKI;
+Huia eu Krf. Prinseuamdit 3S2: Wiukelhuiseii Erf. XZ.
+Armsteeg 3; TViukrllinU ld Krf. Bouuitraat Ut: Huis-ra Krf.
+Priil«&gt;njrnu-lH 6M: Auioti.-. Hui», Sehnnteiinn-ji 2: Huis.
+l)nifji'tlt&lt;v|c i
+6 Febr. 3 u. .143 pu. Tulwk: 19S pn. j,l.. o-J pn. jj.
+•Apeldoorn. 4 Frbr. 11) u. F. Cl, narri,, luboe.lel. wijnni enz.
+Assen. 4 1-Vbr. 7 u. WW. H. K,.i^r,. HniM-.i Tuin. O. Sin-jel;
+Hi-,'rcii mij*, fïroniii&gt;ri'r#tiMat.
+Arnhem. T Febr. lo u. l.l.-„. r„ Kaftr.,;,r„ij. ;/&gt;,/w.,wr&gt;^„
+rfy*. C'iiiupleleu luvrntilri' vau Km. gieterij,
+Delft. 4 K, l,r; li u. r™,/»i,/«.. TVinkelhili». lliilu.&gt;unater&gt;laot .17
+P.ikhni*. Oud.' Delft iu:t. K)*.,
+Deventer. U Febr. s u. /)„,&gt;. Pakbui». Spijkerboorstee,:; Tuin
+.uu Tuinhuis. overJ.,1 lJ,,rl; K.io[iiiuiiihiiia..I„ Biwliopsjtraat.
+Uer'iiplnats m/t .1 »u,iiiiïru. il : .( llui^j^. Pouutc.'g.
+Franeker. 4 F&gt;br,7 u.C„,-„,'.-„„/^Ie,.,Vnhui«. Korei.dr'igersbrujf.
+^e Gravennage. t l'Vbr. s ii./'.W«S«.rllui«rii BrÓV.1({fi„tr.69.
+7 u. Hui*, llrf.lrriiiueii'traat 3. Huis. id ïö: Huis L.
+fleentnmarkt 5n: r«féd'ilnifS*.- Selievmin^en 78.
+Groningen, l Kebr. 10 u. J'tttt,i^iai. O.u/.-rt'r. Mauirfarturni
+5 Febr. 7 u. /ƒ. Pif/. \Viiikellmis, Oud- Kijk 5: Hui», Üriei
+.molendrin i'SS; Huis. Jonkvwtr. 317: Grondpielit huis, Visebm
+!••_«. »'•''. J.H.Kkhoff. -'191.W l,„,d, R-vulrs-hoii!; 16.531(1
+liind. Middelstum: Hrcuuti-dr en land, TVestrrn i'itwrrd. :
+Haarlem. 4 Febr. //'. t'. ,1, C.ranf. Bib'iolherli Dr Siiree
+9 Febr. lï u. rfrtMf'„taat lit^j^f. Winkel hui*.
+Znidestraat. i T: Huis. i,l. «; Huis. Parkiaau Afin.
+Helder. 7 K,br. 7 u. Tir.,l,. Oiwo Vumdviie brik Paünt.
+'sHertogenboacii. 4 F.br. l u. o«d, w,.rf. KU(Ü,M,.
+stoomb.ujci'1 m..leu uu-t Mai'UMle. i'") l'.K.
+'7 u. l'aa ti,jk. Huis, L.ngc TnlbnigstiMnt i'OO.
+Kapelle 7 F&lt;r:.r. 10 u. A. '.VyiW. 50 Se.,a^ u, T Paarden.
+.6 Koeien; 3 Vannen, S Rand.T». J.yark.'tH.'U.n'dlw.iwpi-eeJ», b.
+Katwijk a R. (i Febr II u. La, dt Ra,ka*. Kaikbrarderij m
+Eif: He ren:mi-, 2 Wo'inhuizeiL
+Leiden. S» Febr. 7 u ltf„„ L:,,fm H er uhui. met tuin,
+Mi-uw.: Hij.i iS: H.iU, lleureu,'i-a lit lij.
+Midde^urg. ? F bi- lï.30 u /&gt;.;,&gt;-,•,„• Jl.l. p,n-den. Hijtniavu.
+"
+werk TOOT de fundminf ijwren lran»tliehrta»wi «mi je Tukken
+ho.-k, Z -TV. punt van Sumatrt.
+Haarlemmermeer. 5 Febr. 10 u. Oea,et»iit»n. Bouweu
+$i hooi in Oude nijiersnoninx bjj de L'uerbrvek.
+Harlingen. 5 Febr. Uu DfjMat. KeJFt».d*.
+AanleRjen 8te«B)(looin(« v.u bai.lt en vmwir» wed ij k ten Zuiüeu
+van d» Roptaiijl orer 100 M. lengte. Stteu 48 wederfjjd».
+Hoorn. 8 Fekr. 7 u. R.K,K„Uut Si. Cfriiru. Loytm. *.t
+onro/aaattt .%•»/;,. Bou»eu eem-r Hulpkerk aau hrt Achterom.
+Leiden. U Febr. 2 u: (W». Oajfatr. BonwenDirectnurwou ng.
+Onderdendam. 6 Febr. 11 u. Ba/mr Ifatertct. Uinrinyo.
+Bouncu van i nieuwe viltc •Bmtge», over de Dtlthe bg
+Onderilrnduu «n o»rr 't Kardinjiarniaar bg Xooiddyk.
+Rotterdam. 5 Frbr. l i u. Ih.yttmraa: Sf»it/aii&lt;&gt;.Gt«,.Mt.
+veriiii- 1600 elie Heipalen voor Mus--en IJatrlhoofdt-n.
+Sneek. 8 Fvbr. 8 u. Artaitvt A. Brnniae*. Verbouwcu
+Koftieh. De'Nieuwe IKielea.
+'Utrecht. 5 Febr. ? u. StaalaipnorKef-Mi.), .Woreiltctt laat.
+Leveren eu stellen v d tweeden bovenbouw 'op.. 14 bruggen es
+£ [worteli, S|kior*t|5 lJ»*-linoude—\V\llemsdurp.
+Vlissingen. 6 Febr. Ctmm. Oufabr. Mi'keu uieiuveGashoudir.
+Zwolle, (i Febr. l u. Koffth. BlanUarl. Buuweu Pakhuis.
+l H. &lt;l,**-»ltl&gt;e*t. Raadkui,. Levering 37000 Faueonvalkeien,
+3200(1 Oiirthu k-ieii. 200 slri-kkende Jl. kautkeiei en 200 idem
+tmttoirbandeu; Levering WOÜO vlakke en 90000 balfgetrokkcu
+l.lssel-»tr:iitkliukers. Waalvurm.
+Publieke VermakelUkheden.
+Zond.
+M:.:.Ud.
+Diusd.
+Woeii»d.
+Zaterd.
+8 febr. Zege n» «trijd. Orao». S taf. 8 u.
+* &gt; Dor», L)r»mi. 5 pwlr. 7 n.
+5 ^ La Tronrer». Fransebt Ofe». 71^ uur.
+8 , Oora, Drama, 6 bedr. 7 n.
+„ D
+«8. Boviuhuit, / 3SO per jur. l
+r», sa.
+ZONDAG 10 FEBRUARI.
+A°, 1878.
+Zond.
+M«and.
+Zomi.
+VKRPAt HTI\tJK\.
+Almelo. 7 Kebr. 10.30 u. Kamiaissurine» teef
+J/melv—Oalmurtum. Kaaitlinit 3 jr, De drie Tollen op (een. «eg.
+Baflo. S Kebr. 5 u. J, Fahrr. D jr. Uoereniilaat» Kieve«t.
+met groen- en bouwland (tr. 58 U.7i te'Rnsqm-rt. 5
+Brielle. 4 F.br. 12 u. .Va', rait A*iM; 14 jr. Bouwman».
+woning niH biiuw- eu Weiland, jtr. 47 h«t. eudfr Itarkiiije.
+Grouw. 4 F.-br. l u. .Vat. Bultiei bij .f„A. Riemtrsma. 5jr.
+Weid- êh Honilaiid. gr, 3'. heet.
+Hoogezand. 7 rïhr. »'o 0&lt;ivet»lebetl. Raadtxit. Ijr. ToU
+jCeMüi. tiilu'niiiir-u .lIoiiirrzHiiilsterliruL'. Kiel-\Vinde«eer mi'two-;
+niug. k.»lk«ijkitcrdii'pmetnuuiugeu tuin. UraaibruK Kielsterdiep;
+Stcimle Ornisri-iva» op de bernieu der straat- en Orind»e;tn.
+Kapelle. 9 u, fat. m t dn Btu*r/i'r. tiemefH/e*. 7 jr. 135
+penBouwland eu \Veidi-.oud. K»peili-, Kloi&gt;tiiijre. Katti'U'iyke. Yirsejie.
+Schi)r*Tii Vlake, t'r 9(1.53.36; Hjr. id. uud. Kap en Kaltèudijke.
+. Rotterdam. 6 Frlir 11 u TlntairrA, 6 pen-, land. gr. 26.52.S5.
+Stedum. &lt;ïemf?»lfl)if,it llaadAuif. 2 jr. TolKi'ldeu, Tolhui» eu
+Tuin, wee Stedum —Bedvm.
+Postkantoor Amsterdam.
+IM,
+7 u. .ïcl.il *rtli„i' Uil.. !&lt;r,k.!ri:i| i'&lt;\'. l'ikiu\:il J1
+
+. l'.lkll'ii&gt;. b.lOM k,1(2; f.U ui .DJ; l' kil Vule ijk «l.
+-Vieuwe Pekel-A. 4 l-'eb-, ü'« ./ it: , a-un',:-. Hu-. St-nuur
+eu l'uiu, K!I ,k«rw g: \.,,i lh,.t' id. L ud. /.u idku.it. gr. O i9.90
+5 Febr. (! u. ff. U', de (Iraa/. Huis. Sc'iuur.m fiilu. .NuurJkaut;
+Heemilede. id. ff. li i.; Lairl. iil «r. L'.i!) liO.
+S Febr. G n. A..4. Z.tldirify. 2 Ui;i&lt;jr» iui-i Ukiii*,- eu Dalgrond.
+Nu-cwou. Zuiiler.iauliif. «r 5.7100 • •
+9 Febr. O u. /{. H' de Groot. ItiU met .l'iiin. Klinki-nv, g
+Nijmegen, l Febr 7 u. • IKf r u B.-.t'n-'. II.-èr..U!mnT im-t
+Tuin. Grocucimuii.l.rli, n «-ra: Huis met Tuin, Grinten- weit.
+Roermond., l Fe'ir. 9 u. .Vee'ma'tg. 4-OTW Zikk n.
+Boaendaol., 7 Kebr: ii u. L. r. d. Brm-t. Stuiiiui.dftirick. enz.
+Rotterdam. 4 Kebr, Ifln. fe*d*lutis Klorcutijufcli m .nu. vourw.'
+101/3 n. Knoiia-tHtbeitri. 100 last Araerik.. Mail.
+5 Kebr. 2 n. 'tfntariihuii. Verichillemle AandeeleB. '
+6 Kebr. S.n. Dubbel: pand, 'JufTerJiraat, 42,44; iluia ui,'Tuinen.
+'• Crispijnlaan 73: Huis met pakhiii». Xieuwe Haven 69 ;
+Winkelhui», Aert, vau Xesstraat 18S; Winkelbui» Pfinwnstraat 9;
+Pikbuis met Stal. Korenstraat 15, Huis, Witte d* Withstr. 38.
+ï Febr. 10 u. Et»tl&gt;aeMsilr*itl 72. Inbordcl.
+Sappemear. 6 hbr.' 6 n. Hotel Slruré. Xed. SchooWachip
+FenHtekünit. gr. 179 ton, met Inventaris.
+Utrecht, 9 Febr. 3 n. X'ofanttuu. Heercnhuii, Breestraat 235.
+Wateringen. 6 Kebr. '11 u.' llaü tor ffoei. Vraruioezierstuin
+m. Woning jn 2 Schuren, Dorpstnat,. gr. 2.43.41: Tuinitrond.
+id. gr. 0.1S.30; Tuingrond, Zweéreslaa'a. gr. O.ia IS; Tu!n«roud
+id. KT. 0.42.20: We»tlandschi; Koffiehuis. iil:: Huis, id.; iluis,
+^iiteringrMhèvanr!,)4;liiua.H&gt;irn!ischpolder..er.0.i2.iïOen2!20,UO
+Zwolle.' 5 Feur. '12 ui OittaiT Hui». Waler'jruz- llnij. Xijitad;
+Hui». TJiorbcck"grai-ht; Pakhuis, id.; i Huizen,
+Poithoonibreeb«;k; 2 Huisjes, Jozefplaat..
+BRIKl'RX.
+Verzouik-n uit AMSTERDAM in Jt idt ht-.lft der maand DreembiT.
+Lonberü. Srhidtr, A. Sti:in, F. II, Wi-1»ink, J Visser, W. van
+ViiTneu. van Ruuyvu. J k'ailting, Si-hi|]p. r, TV. Srhulpznrid.
+Hu»epnlli&gt;, J. H-en'. Iliele, .lansfni. I), ran Kliiikenberj;.
+'i. Krij'eiilnirL',' Hi-kk-'i-, van d»'ii Mosrli, C. C'. Corijii, ni-uiiiger,
+(•. Diimmira.h W. Pulth.if,. H l'i. [rrsril, Pofil'. J Liliidliuit ifo ,
+F. J. O. l.r MUÜ'T.-II. Onaa, M. Mi.|. J. S.-hipiwrs, K. d.-JIMIK
+A P.il. J; P„l. G .1'Pol m n.'Priiu-r.B tl.&lt;nilril«, Hrijin»ii. Mrvr.
+Ha rrt. M -j. Gn)|.||Vr],l. Mej. K. rlliir. Mrj P. l.',niif«. Mej. Smit,
+M i'j. I.:iiiüi.. Mi-j. kortman, Mej. van Iliiorn. M.-j M. H Cqin'n.
+M rj. d. Bruin. Mej F. Buscü. M.j Hoori-nsmn. .Mi-j. Ri-iia'rd,
+Mij. \Vilkbraud n! \'ej. A. Stork. alleii te Almtl-rdiim.
+Keet 'Alkmaar A. Mar'kmaa Xleuweiliep.
+A. Brkkerini; Akknim. K. G. Eijer üusterlitteu»
+C', stieiii.npru Atji'h. &gt;mit Omlcrlits.
+S. J Tuitni , „ C. lioleuder Omui rschans,
+
+H. K. \Yt' uiuk Hi;nvia. K. Pust OuJilru- t
+TI-U il ine. Bi-aen. )!-j A. J Lni,d U..lt.r,lain
+" ipl|"r-l Itlo ni -lidlial. Jlij. tnn Knnluirli „
+.•' M d'- Vri,. Hrnfii.' 51.j r;, Kramer ,
+U ;.lill diiiU IU II. V uu-r lhn»jliÉ „
+',1'j. '.II.- , 's.(,l:iH-!ill pe. K. Itin.ï \ O.. . „
+R M K- iillill)! „ II C. l'l»tllllUIII9 n
+
+i». J;i'(&gt;iTH I./u '-Gr..u-bn(l. J Koit , S:ts&gt;eulit;im.
+\V. tlt- Vr.:$ ,(&gt;rouiügi;n. MI v. rtiujr m»n* Tifl
+H P Je Ri;!der Itieclit.
+
+Il SL|dé"waul "..
+\V il V, rl„„. ln .,
+K • KTÏ,- Vrerswijk.
+Tmeatrf *. van tier Jmttiütra»*.
+S Kebr. Le Toyage de HOM Perriohon. Com. 4 Act.
+4 ,, Le Roman d'un jenne ho me panyre. 8 u.
+f-'ratfatl, .Vet. Uirei-tie PBOT en Kisrr.M^KEK.'
+3 Kebr,iCatharina Howard. koningin Tan
+Enw,. , ,° " l Un&lt;J&gt; of Ö8*»8* Soh^Sooden. draii.
+?»terd. 9 . DelïachtvandenlSNov«mber.dnnu-.8ti.
+Salon aft Vmrfftf». AmiteMr. (JioruS Bol'wnun&gt;Ki.
+Xond. 3F''br.lOnie Jongens, blijsp. S Mr., daarna De
+Maand.' 4 . ƒ Hulpmiddelen van Jonatotj. blysp. l bdr.
+Tatatre Tivolt ,V«. Direetic W, PIER»B DE Bom.
+Zond. 3 Krbr. De Wandelende Jood. dram», 7 uf. 8 n. 00 c.
+Maauil. 4 „
+*' ' • ..
+8 * „ „ . ,
+* » Grande Fête de Nuit. 12.uur: 99 Cta.
+Park.
+3 Kebr. Matinee. H'j uur. Concert 8 uur.'
+•l . PhUharmeuiich Concert. 6 uur. ,
+9 ,. Concert van Jargbsun. 8 uur.
+I*aleit voor folmtvlfft.
+3 Febr. Matinee Musicale, 1-i'j unr. 4» Ct.
+Groot Concert. 8 uur. 49 Ct.
+Volksvooist.. Balkt Paul enVirginie. «u. Ï5C.
+Vocaal en Inatmmentaal Concert 8 u. 99 e.
+AU Maumlag 49 Cts.
+Clasaiek Concert. 8 nnr. 99 Cts.
+Dnitsche Opera.
+Ballet Paal eu Virginie. 8. uur, 49 Ct.
+Xederl. Circttt Otcar Carré.
+i B. L • «
+5« S"".'" .T * .
+M8. Huis, I kamers, / UOO.- per j«v. l M«i.
+
+}«' S""* f **¥*!• S' *" £/£•* 'l M«.
+U8. Bmrtk.h. « kanen. / «j ^, jt„. j y#.
+fi! S""' / ,**S *" *"•' l *"•
+*SS. Hun,, 7 kamera, /• 800 pi r jaar. l Mei
+878. Hui., S ,..».„. f m £r jW. TentoBd.
+„. ., f •t^»«'«i-**«rr»«t)«|.
+« *'?£' i»"?1*!» / ^ P* n»»»*- Ten*ona.
+ÏJ-Kutoffl-erdl Knmer. ƒ ÏÓ per maand. Tentend.
+«8. gtitoflcerde Kamer. /IS per maand. Tenttud.
+
+4». Borenhuis. / 17.60 per maand, l "ïl«i.
+85. Hui», ƒ 780 per ja»r. l Mei.
+101. Boveulmi», / 280 per jair. Tentond.
+/aterd.
+
+
+Zond.
+Slaand.
+Zate r'.
+
+
+Zond.
+4
+5
+8
+Maaud.
+Uiusil.
+Woen»d.
+Uouderd. 7 „
+Vrijd. 8 „
+Zaterd. 9 „
+KoMnlcl.
+r»a.
+1. Bovenhuii. S kamer,, ƒ 600 per jur. l M«i.
+7. Bovenhuis, 3 kamer», ƒ 450 |*r jair. l Mei.
+... „ ' .
+,„!' £eB&gt;el»°'l«ra« Kamcnnet.leoof/SSpermiund Teralond
+108. Twee gestolfwrde Kamen. / 80 i*r inWd.Tent.Qd
+• * .n*
+uia, ƒ 500 per ja«r. Teralond.
+Danelgk» jjevaricerdc Voontellingeu in de Hooge RijktUlit,
+PaardendresBuur. Qymnaatiek én Pantomime. 8 uur.
+Dagelijks Skatingrink, 10—1 en 2.3Q— 5 uur. 49 .Cta.
+Zond.
+Maaud. 4 Febr. Lezing van Da. Ten Kate. 7Vs uur.
+Sociëteit Matton litromftem. Setant.
+3Febr.MatineeMttsicale.il/26.
+T K HUUR.
+S. Sijts, in1
+A * u, ,1. i,,l!,.ij i et. ,
+il JA M C'llo..i'iill„arl.-m.
+A- J. &lt;' -ttili
+A. T.IIII. • Hardl-rnük.
+P. d-
+J,,,,Jlfj.P.O.Xiiltlii
+A. do Groot'
+.[-V:ui I-ülllp
+l(. \V. Snapper
+H'. Ti'iniuiuk
+J. Grood
+L.(iroeii' udijk. J. Trni|itiiT
+P. TiÜMi-g Viuiiidi-u.
+--Mi-awliii». K.. Ouk.n" , Zflr'l.
+MntiT:uiirl. ' A. Krueze. ' Xiudhurii.
+N:l:il-|lfli.
+•N™. .
+Nieuwedicp.
+A. kroeze.
+.1. .latifi^rn
+FAïf.. v; (tin^nckeu uietvcruitjld,
+K. Katter „
+Burgerlijke Mand.
+reiult, (Z.)
+X. van Praan— Muller, (P. } ; C. B. He»—
+Hen: C. W. Meuriny— Konl'. (D.): M. l'iiili|fc— Beiidien,
+Amsterdam. 9 Febr. 12 u, Ta/V' Sr/rtJïrt. Bouwen
+Borri-hhofuteile met woniog en 2 Arbeidenwoningen, firootep Ypoldrr.
+Aaten.4 Kebr. 11 u. Gtméenlebtit. Bouwen Onderwijzrrwoning.
+B*lk. 6 Kehr. 12 H. OnnmtMitluur. Bouwt-u School.
+•Breakelen St Piotera. 6 Febr. 12 u. Bet/uur irattnr.li.
+Srfu/tefmfttn t* TiexAom. • Opruimen houten Srhiitsluia al b.
+.K rank'n n e* t;' BoUwen gi*metseldeSèhiitsl.t. Bouwen houten iSchntfti.
+Delfahaven. 6 Kebr. t u. Hjuu&gt;a«it. Vernieuwen rn
+onderhoudtn van Rijspakwerk op ile Ruige, plaat. ,
+' Erp. .5 Febr. ,11 n • Gimetxttieil. Bottvren ijiereii Ophaalbrug,
+SluU.N'o. 9 der ZuiJ-Willemnviart. . .•'•'. ••
+'B Gravenhage 0 Febr. 11 u. Winitt. Walenleal tle. Levering
+. 1734 ton Zetsteen; Lev. 1480 ton ZcUteen en 400 ton StorlfltefD,
+tot onderhoud der riviertfcrke'n op den Gelderscben IJzel; Levrr"n
+Voorwerpen van verK-hilleu Je metalen; Beio.gi-n ovan Stncdi-n en
+andere « erklieden tot beratelliug«o ann de Rijk-i Stoom- en *n lire
+vaartulg.b h baftgwfw.ó'pdeMerw.deén Killen.IA|.r.'7l*-aiM'rl.'7S '
+. 12 u. I^vtrinjt vno stal.en spoorstaven met ijzrrrn ei nilverbin.'
+diugen 'ten dienste der StMtupourwegen.
+. 12 n, Ganimfxiiatlerij. Levering 430 bi:ct. jurige node of
+Rbijntar*», 1350 heet, jarige witte of !5eeW6che Tarwe.
+7 Febr. 11 n! Minul. Jfanme. Maken en Leveren
+hndateen(Z.).; M. Kniteicueil — IloiiK.-iid&lt;irp, Z)-; J. WesthotF— Feij, (Z.)
+J. U.rk.r— Srhi&gt;.tlVr, (!).): \V. • Juuckrr— Hi-rgl, (Z.) ; J. i),
+Ocigfr— Hill. (Z); t. HliU— Manupiin. (Z.) • J. C. W. K.
+Diivyt — Keuclieniii9.,(D.): M. J. Xi&gt;m»&lt;nhuij9 — Rilhuii, (D.) j
+Anti!! C; M. Nummer- — Adams, (7..,: A. S. M, VBU TH-'nhoven —
+'lluckp, ,,C.) i \V. Wallmiijir—v. d. Dries, (D.) ' &gt;
+.Ondertrotticd J. A.' van Zilijkn en P. A. Lnubershclmer ;
+J. J. Puiak en !s. Frauro Mriuh-s : P. 'Van Bruukliurst Jzü en
+H. B:,khuM: J II. Graocken-it Jr; en, F. M. H. l'. Knpp van
+Don-r ; G. de Witte en .M. Nnnntiir.
+Otlrauierf. J. G. ^uiiriimn en H. M. Riippange : . K. F, B,
+C. van Ziu-t .eu J.' (,' i). HupluM- Marie .Vi kreukuicl eu
+Anna M. M. van Overrem -.' A: E. Perrin en K. II. Coops : W.
+N. J. v:m nitm.ir rii II. Hiuolen;,L. Hi-*ta m M; Vu». '
+,0tir/è&lt;lta. Cii-uclu» Markus, 23 j. : Margaretha Ui liouten,
+25 j. ; Afie ruil (Ier \VVrf,i6i j. ; Ciieretia dr Rr'oot. öl j. ;
+Jainje Kuuljt.-J.i 'j.; Mevr; W.. C. Ko.-k \Ved. C, J. &gt;vn
+Coütli, 63 j.: Anna Sehotte, 7S- j -, Jl.-ndrik N'ieptiw Sautijn
+Ha«L-lacr. ai j. : ' Duruthra A|i|)i:iiZiller, 7S j. ; Dur.ithia
+M«r(Mn-etba Kasine', 70 j.: Mevrou» l. Moerman, 71 j.; Willem
+Brarajeij. _SO j. ; Fredi-riknc JehaJini's' Seliutte, 52 j.; Anna
+r.eertruidi van den liriuk, 89, j.; Johan Jowphua Mniinus
+.rivnr. as j. ....'• :; ' • , . :
+• : '« ItBk» Jlu.cmu vu üehllilergpii. •K/atmiiTlttirywa/, M.
+Te bezichtigen : Dagelijks vim 10'-1-! n.' Zotidügs .van 121/2 — 4 U:
+• • Mnfleam van 'der. llonpr Qvdf Maimtntittü.
+Te bezichtigen ' Dap-lijks van 10— 3ji. Zondag» van 12-^3. u.
+MÜWUIH FnJnr. Keifrftyïarht £09. ',
+Te bezichtigen: Dn^elijks. b'ehalvc Dinsdn^ vnn.ll — ^3 u.
+•MiiMin »an Oadheden. , Sfuütroat 135.
+Tt bciirhti.'i-n: ljii|ii-]ijk'ii vau 10— 4 n. Entree la et. Tonikjr» 10 et,
+Z&lt;i51o»iMthf Tuin: Nalnn .Ir'tln Mu|nlni. Plan'ngf. ..
+Té bezii-hl iiri'n,: Da^i-lijks voor VmimduUiwtu. Kntrée 50 et.
+Te bezichtijcen : Ungi-lijks voor \7eerodeliiigen. Entree 50~rt.
+Hflrto» Botanliyi. P/an/ffe Diijrelijk» te lipzic-liti.lfin. EtHrfc 25 ft.
+.•P*leli dei-Koninéi. Dam. Te bezichtigen dajielgTis.
+«.Z. AchterburgHMl.
+139. Huis. ƒ 1000 per jaar. Terstond.
+163. Gestottcerdc- kamer, / 22 per maand. Terstond.
+169. Twee Kamers, ƒ 150 per janr. Terstond.
+Amttet,
+171. Bovenliui., 7 kamers, ƒ 900 PLT jaar. l Mei.
+2S8. Boveiihuis. 2 kamera, / 250 |wr jaar. l Slei.
+Amttelveld.
+1. Bovenhuis, 4 kaïn tra, / JOO per jaar. Terstond.
+• tlromvfrngracM.
+30. Bovenhuis, 2 kuiai-rs, /' Ï25 |,cr jaar. l Mei.
+30. Buvi-uhuis, 2 k:imers. f 275- per j««r. l Mei.
+45.; Hui», 6 Kamers, ƒ 700 p r jaar. l Mei.
+65. Boieuhuis, 2 krimerü, / ;)CO per jaar, Terstond.
+6!. rhiwuhuii, 2 knmi-rs, ƒ 250 pur jaar. l Mei.
+S4. Boreunui., 4 kanu-n. ƒ 350 j,er jaur. Turxond.
+1(19. Huis, ƒ ,'8 per m:iHMd T. ratonil.
+l«4fl. Btivinhui». 2 ka.ners, / 200. Terstond. :
+Kinnen Brouicrrttraat. •
+42. Ge-tofTi-t-rd KHUUT, y' iO per nu.itid. 'l'er.-toud.
+JacHh fan rampenttrnat.
+5S. Twn (ie«t.ii iT.lé l\:&gt;uierr. ƒ 15 p. iiiüiind Terstuiid
+t'.fli'lanlii'i-* i f acht^
+l.'il. Huil. ƒ l» pi-r ili:i.ii].| rir-lniii],
+l-'fl'tlin'tnd Holstraat.
+Hl. BoïL'iihuK, :) k:nii r«,/fliio pn-j-ar. l'erstuud.
+fjelitprtcbe Kade,
+\. IfaiFDhuig,. 'A kn.mr». / -t.,11 |«.r j^ui' 'IVr..tond.
+11. HMV n!ini&gt;&gt;, ;) k:&lt;!in-r« /' 2'&gt;0 |&gt;t&gt;r jxitr. 'IVfMond.
+17. IJijvi.iilt'H&gt;r -'* ki:iTiifk / :&lt;tl(' p.-r janr. l Ai«'i, '
+7t: lliii«.;3 k»	-luk^kn /H0n |.i-r j,,ar. Terstond.
+&lt;~i7- l'akki:U]ri- lui-l üinil' f yn-ir' Kantuiir.
+&gt;H. Hin-iiilmi». s kumrni. /':&lt;i'") pi'T jaarj. l Mei.
+1114. lluis, 8 kiiHH-rs. /' 7."iO pi-r juur. l Mei.
+Ilaarlemmei-dfik.
+22 lloveflhtns. / :IOO per jnar. Terstond.
+S7. Huis .:ii Tuip, (5 kamers, ƒ 400 jx-r jaar. l Mei. •""'
+57. Bovriiliuif. ƒ 225 per jnar.. Trrstond.
+70. Doveuliuii, / 250 per jaar. Terstond,
+77. Bovenhuis. 2 k.imers / 300 per janr. Terstond.
+78. Boveuhuis,/: 18 per maand. Terstond.
+180. Bovenhuii. 2 kamen. / 25D per jaar. Terstond.
+1.11. Hui», 3' kamurs. / SOO per jaar. l Mei. '
+139. Bovenhuia, ƒ 200 p.T jaar. .Terstond. ,
+141. Bovenhuis, 2 kamers, ƒ 250 per JQar. Terstond.
+166. Borenhuii, 4 kamers, ƒ 350 per jaar. l Mei.
+Haarlemmer Houttulttei».
+7: Bovenbuis, 2 kamers, ƒ 250 per jaar. l Mei. ..
+7. Boveiihiiis 2 kamers, ƒ 200 pe? jaar. l Mei.
+. 19. .Huis, S kamer», ƒ 800.per jaar. l-Mej.
+77. lluis, 3 kamers, ƒ 214 per jaar. Terstond.
+13». 'Huis,'/.300 per jiar,. Terstond. , ' !
+IS7. Bovenhuis, 3 kamers, ƒ 350 per jaar. Teritond.
+145. Bovenhuis, 2 kamers. / 240 ptr jaar. Tentond.
+Haarlemmer.ttraat,
+25. Bovenhuis, 2 kamers, ƒ 250 pt-r jaar. Tentond.
+71. Hovenhuis, 2 knmiTS. / 250 per, ju-r. l Mei.
+79. Huis, 8 kiiher». ƒ 400 'per ja.r.' l ;Mei.
+103. Bovenhuis, / 10I1 ipi-r jii;ir. Terstond. ' . .
+Heerengracht.
+24, Jliiis, / 1200 (l' r ja", l Mei.
+25. Huis, ƒ H)0il per jaar. Terstonfl.
+•96'. Huis en Tuin, ƒ 3300 per jaar. l 7Tei a.s. , . •
+99. Twee pemeubeluiTde Kamen. / 500 per jaar. .
+U». Huis, / 800 per jiiar. l Mei. , '
+1»7. Huis. 8 kamers, ƒ 1050 prr jaar. l Mei. :'
+2*9. .Bovenhuis, 3 kamen.'/400. Teratond.
+304. Huis, ƒ »00 |«'r jaar. I Mei. ..'..''
+31.3. Huls, 5 kamers, y 550 per jaar, l Mei.
+338. Een Huis. / 750 n" j«"r- l 'Meï ' '
+343. Huia ƒ 900.' l Mei. • "
+367..Bovenhui» ƒ BOÓ. Direct.
+'f. C.llooftttraat. .
+06. ..Huis. ƒ 450 per jaar. TI ritond;.. •
+139, Twee: gemeulirleenle Kamers, l Maart. i .
+: - IVfeume Itoorrttraat.
+23. Bovenhuis. 2 kamen; ƒ 350 per jaar. l Mei.
+Hooate van de Kad^le.
+Ifll. Bovenhuii. y 325 per. jaar» Ténlond. ' • ' r
+163. Huis, •ƒ 400 per jaar. l Mei&gt;- "'•; •
+183..Muvenlinla,'/l»0 pw jwrl l Mei. . .
+i • Huidettooperttraat. '
+.8. Hui», S-kamer», ƒ 900 per jaar. 'Tentond. . - ' ':
+9. BovenHuii. 2 klm-n,:/ |25 per jaar. Teritond.
+Comttamtetm. Httygenttraat. • •
+20. Bovenhois, 6 kamen, y 1000 per jaar. Tentond.
+„„ „
+88, Bovenhuis, ƒ 3JS per jaar. l Mei.
+aa?' Ü!'"V,.l?"«A!Mot ' S0 f" mlu""1- Terstond.
+227. Bovenhni», 8 kamen. / 750 per jaar. l Mei.
+S89. Twee gestoffeerde kamer», ƒ 80 per maand. Terstond
+. falettttraat.
+4. OngemeubelKrde Kamen. ƒ 60 per. maand
+. _ • ' , Plantage JKeritlmam. '
+H.rBOYenhmi, 4 kamen. / 450 p. r jaar. l Mei.
+Mei..
+„ u" 'S ,Tuin' 7 """"'"' f 100° P"
+J"r83. Hui», 8 kamera / 450 per jaar. l Mei
+88. Bovenhni., 4 kamen / 3*5 per jaar. l Mei.
+102. Boveiihuis 2 kamer». / 225. per jaar. Tentend,.'
+'IjS. Bovcnhui», ƒ 875 per jaar. l Mei 1S78.
+194. Huis, 4 kamen, ƒ 500 per jaar.' l .Mei.'
+210. Bovenhui», 2 kamen, / £25 per jaar. l Mei
+214. Boveuhui», S kamen, ƒ 220 per jaar l Mei.
+ZZO. Bovcnhui», 2 knmers. / 300 per jaar. l Mei.
+288. Hui». / 240 per jaar. 1. Mei.
+288. Bovenhui», / 425 per jaar. l Mei. ,
+289. Huia e, Tuin, 14 ka mm, / 1400 per jaar. l Mei.
+401. Bovcnhuit, 4 kamersrT1 000 per jaar. l Mei
+483. Boïcphui», 7 kumen, / ?50 per jour. l Mei.
+853. Burcnhui», 4 kamera, ƒ 550 per jiiar. l Mei
+786. Hai», 8 kamen/ ;;200. l Jlei 1878.
+814. Hui». 6 kamen, ƒ 800 per jaar. Tentond.
+884, Bovcuhuis, 3 kamer», / 500 per jnar. Ter.lond
+983. Bqrenhui», 4 kamen, ƒ 600 per ja,ar. l Mei..
+'98». Huia, / 1000 per 'jaar; l Mei. /
+1058. Hui», B ïamen, ƒ 6SO per jaar, Tentond.' ,
+10SS. Hnia, 6 k»taer», / 1000 per jaar. Tentond
+1086. Huia, 12 kamtr». / 1200 per jaar. l Mei.
+1087. Hui» I&gt;B Tuin, 7 kernen, ƒ 1200 iwr jaar l Mei
+1117. Hni», 7 kamer», ƒ 900 per jaar. l Mei.
+Raatngracht.
+S. Hui», ƒ 800 per jaar. l Mei.
+42. Bovenbuis, 5 kann-ra, / 750 per janr. l Mei.
+42. Bov.'nhura, 5 k'iimi-r». / 600 \,tt jaar. l Mei.
+44. Twee Kamers, / 50 |«r mimiiil.. Ti-rstond,
+34. Boveuhui», ƒ 1000 prr j«,ir.
+üiÉi-filtatffti-aat.
+93. Huis cuTiiin, 5 k-uirrs. /" lOliO.— |»-r j^nr. l Mei
+95. Kbveiihu», 4 kii,..fr&gt;, f 700. _ prr.janr T, r&gt;iond
+121. Hm». 9 k.,m-rs. / I0i(l p i j ;.r 'l'i-r-i..i:d
+,
+SI Hui», d li:,iiirr«. f i d p • r!m. (•' M'1
+On Miei-, B k u,.r- / ij" r , , ' \|r
+l»\ Hun. ? k. tn, r-. / idrtll ,. r i. :.|- l Mri.
+Ml. • xi*i.iiiindr K:.'nirr. /' KI |.e r ' ur .:.iin. 'fiiritond.'
+•UZ. iloMiilmis.; C. kniiii-i&gt;, / (Om) JUT jniir. 'l'cr»lond.
+i-l. Hui», » lum,-tf. ƒ ISHO (,er j»Hr. l Mi-i.
+4SB ||„i,, x k,„0 „. , U(i()._ p. r jaBr 'fe-ntiind.
+510 Hm- uh:ii- 5 kiiuii'f*. / Mill. - |&gt;. r j»ar, l .Mei.
+K mr-i&gt;. /• Sfl PIT ninuud. !PiTH"Bd.
+5BÜ. \ 'irr
+40. Hui», .n k.inir
+5j. 1 1 in,, 4 kamers,
+Uu.ir|inj&gt; /'{Ml per jn.ir. l Mei.
+huiirj nj» / 425 |*r jatir. l Mei.
+lOt. Boveuhuis, i kiinurs, / ;t.|l&gt;_pif ja«h. Tcritonil.
+. n, Z. l'ooi-lturgwal.
+. 1. Hui». / 550 per j:mr. l Alri.
+1. '.Bovr'nuiiU, 3 kamt-r», f 300 lier ja«t. l Mei.
+17, Huis, / 800 per jaar, 1-Moi.
+38. Bovenhui», 3 k-mier», / 2«0 per jp»r, l Mei.
+89. Hui», / 700 per jaar. l Mei. .
+136. Boveuhui», 6 kamiTl, ƒ 600 per jaar. l Mei*
+214. Bovenbuia, 2 k»mers, ƒ 275 -lier jaar, l Sl.&gt;i.
+328. Hui», ƒ 275. l Mei. '
+266. BoTcnhuis / 250 per jaar: Tentoud. . .
+81. Hui», ƒ 575 per jaar. Terstond.
+189, Hui», ƒ 3.50 per week. Tentond. .
+169. Bórenhni» ƒ 275 per jaar. .Turttond. .
+171. Borenhui», ƒ 275 per jaar. Tentond.
+5. Bóïenhui». / 325 per jaar. L 'Mei.
+36. Bovenhui», / 600 per jaor. Terstond. ,
+64. Borenfani», f 2CO per. jaar. Trrttbnd.
+ttttae Waal.
+9. Hnis, / 400 per jaar. l Mei.
+10. Boveuhui», ƒ 250 per janr. Tentond,
+34. Bovenhui», 3. kara&gt;r«, / 350 per janr. l Mei.
+38. Bovenhui». S kamen. / 300 per jaur. Tentond.
+12. Bovenhuii, 2 kamen, / 260 jier'jaar, l Mei-.
+51. gMtulleerde kamer. J 1.5,0 per week. Tentond.
+82. Twee gcitoffi-erde Kufflm, ƒ 30 per main.d. Tentorfd,
+82. Kantoorlukaal, / 20 piT maand. Tentond.
+91. Groute Kantóorlókilen, ƒ 300 per jaar. Teaatond.
+107. Hui., ƒ 800-per jaar. Terntond. ,
+153. Knntoor en Maffizijn.
+176, Winkrlhiii». 15 Maart. .
+177. Bovenhui», S Ifami-ri, ƒ 700 per jur, l Mei.
+,4: Hui», ƒ 225 per jaar. T-mond;.
+WltrtHgerttraat f Hutten).
+, 4. Borenhnit 2 ktmcrs / 240 por jur, Terstond
+8. Borenjraia, 3 kamer», / 350 per jav. Tentond. .
+&gt; '!. . , ; Za*o*traat. •
+'1. Hui» en Onderbaiï, jfheel, f 208 per jur. l Mei.
+'
+.
+7. Twee Kamer», / 3.80 per week. Tentond.
+15. .Twee gestoffeerde. Kamera V 16-per mund, Tentond.
+El. Buvcohuiv 2 karacr». /'ZOO per jaar, Ténlond. ' •
+64 Twee Kamer», /:). 50 per werk. Tentand. '
+103. Bovenini»,. 2 kaïnem,' ƒ.200 per"j«»r.' Tentond. «' .
+115. geatofleerde Kamer. / 12 per m.aiud. Tentond. '
+12.1. Twee geatoBterde Kamen, / 25 per ma»ad. Tcratoiid.
+' ' ' '
+68. Bovanhaii, A knoen, ƒ 500 per jur. l Mti.
+StooMdrukkerij 11XBRMAN, B ARM b i. C&gt;., Am»terd&lt;m.
+DE AMSTElDiHMEH
+Verschijnt iederen Zondagochtend.
+Uitgever*: BLLERMAN, HAUMS &amp; C?.
+Kantoor: Rokin 2.
+Nieuws- en Advertentieblad
+voor HANDEL, NIJVERHEID en KUNST
+Abonnement per S/m. . . 60Cts. fr.p.p. 75 CtB.
+Afzonderlijke Nummers. . ... . . 5 „
+Advertentiëii per regel ,.'.'. . . 10 „
+Utrecht (H»p)7 Ï0(4). H.!*(&lt;•). ».-(«), l».lO(«j, \\ï\
+Sicltreinin lij u aangeduid «tl vette r-.fi-r-i; treimn gni-tkei
+n naar: noii«ra«m e« nen Hamit (Ryntpour) 6,40,
+lK.m.—(fc).4..10.*.—(4),7.-(*).S.40i Ktraclal(OiMtmp)
+'..r,i.|«iii,iti-n-u up Breda vi;i Uunlruhl. (i) Afubeiu. (f) Veulu via
+INHOUD.
+De Wapenstilstand. — Staatkundig Overzicht. —
+[Feuilleton. — Ingezonden. — Btadscakeo. — Kunst:
+Tuon&amp;'lvenligeu; Kuustnieuwi. — Letterkunde:
+Horkaankondiginy en Deriehti-ii. — Handelsberichten. — Adver
+
+tentie*.
+BUVORRSKL: Priesche Letterkunde. — Statistische
+en Indnstrieéle mededeelingen. — Allerlei. — Beur».
+nieuw». — Cargalijjli-n. — Sdiujxn in ludiii|{. — Vcilin|.'rii. —
+AanbntediuKcn. — Verpiuliliii([rii. — l'oslknnluor. — llurjierl.
+Stand. — Mvaw. — Publieke Vtrinal,u!(jkhi-dtii. — IV .limir
+lijude woDiu|ien. , '
+DE \VAIMv\MILSTAM).
+Eiiidclyk U de duif met den olijftak neergestreken
+in het Oosten. _ . ' •
+Het scherpe lenimet ia in de ^uheeile Rostoken. Van
+den DonaU tot den Kaukastis slauii de wapens si il eu
+de helden waaschen hun hauilen inf oiischulil, hy hft
+tellen van do doodeu,.onder 't8chreièinlcrell«nJij!en,
+te midden der vervloekingen, die' Europa'» lust(iul'
+d(wu sidderen en beven.
+• Bloedrood is de Balve Miian ondei'Koiiaan. Allah
+die groot ia, zag haar xinken, leverde zijn vrien
+
+den over aan de jremvde en do ongenade vun het
+Grieksche Kruis, en bereidde hun l&gt;ü dut ullc* Reon
+tudere verkwikking, dnn de .lympathie v»n
+lietYatiraan, dat in.B\ju papieren hullmi nog altijd de wereld
+beheertcht, den welmcenenden groet van het.
+vrijhcidlieVend Magyarendom, en, wat steeds ei'ii hijzoudcré
+vertroosting geweest is voor naties, die in. doodsge
+
+vaar verkeeren — de nahyheid van de Uritsehe vlag.
+Nu had het lot van den zieken man nog tieurigcr'
+kunnen z(jn, dan het go val is. 't IswaHl-.zgn hunden
+zyn gebonden, de voet is hem op-de keel gezet en
+torwijl h« ternauwei'nood adem kun hnlen, ilikkert
+het opgeheven zwaard hem in do matte oogen. Mnar
+zijn heul is ee&gt;i man .der humaniteit, i» den grond dc§
+harten een vriend dos vrcdf B. Xult gü v ui nu at' niet
+ineeri aau Bumenic .deuken.? vraagt hij.... Wilt gij
+Servië vrvj verklaren ? Zult gu door Montenegro »
+laten.bestelen?. Neemt gü u voor, aau Oostenrijk en
+roü tco te staan u to Iwvelcu hoe go met Uosnië uu de
+Herzi-gowin» hebt to handeluu? Üulgarge schenkt gij
+zelfstandigheid ?Jn Aziö geeft ge ing llatum, Kars c'i
+Erzernm? Voorts, vergoeding van oorlogskosten, vryen
+doot'tocht door don ÜQ-poruë en Dardancllen...? Gij
+vindt dat alles billyk nietwaar? — Ja, kreunt du zieke
+man. En op dat woord legt Rusland 't zwaard, uit
+de vuist en zegt: „zoo, dan wemrh jk u en myxeh'en
+geluk met deze'.vreèd/nnie oplossing"!
+Men beweerr, dat de Czaar een lelejjrain met boven
+
+staande woorden aan don Sultan heeft, gericht, en et'
+hestaat weiuig reden om het te hctwyfelen. De vol
+
+keren en vooral de Europeescho Hoven zjjn in onze
+eeuw zoo overvloedig gezalfd met de olie dor huma
+
+niteit, dat, wat ztf ook verrichten, eeu welriekunde
+geur zich laat waarnemen.' De lievo, innige,- zelfa
+vrome woorden, die de Europeesche'kabinetten en
+vorsten, gedurende 50 jaar verspild hebben, wieden.
+in aantal nog veel sterker," dan de sommen op
+hun ooflogsbudgot. Voor hen die zich ovor
+deteeneihende uitgaven voor lerfcrs en vloten verontrusten,
+moet hot bijzonder aangenaam zyn i» dit verschijnsel
+etu tegenwicht voor''huh vrees to vinden, een reden
+waarom wfl het bejammeren zfeuden, als wij niet dit
+Czarcnwoov naast zoovele andere op de lyst der
+koninklijke en keizerlijke gevoelsuitingen konden in
+
+schrijven. ,;.'.'''•
+
+Ondertussehen de vrede zelf is-uog.iiietKftteekend,
+'t zyn slecht» de vrcdespracliminairen. Wij verkregen
+een wapenstilstand.. De diplomatie tijgt «u -eerst
+recht aan 't werk. De onderhandelingen worden
+voortgezet, , de niachinatien door de vele belangheb
+
+benden in 't verborgen gesponnen, zullen uit alle
+hoi'ken te voorschijn komen, de conferentie wordt
+vniorliurcid, weldra belegd, eu wy wachten een nieuw
+tiiii'lnat, wuiuïn het evenwicht van 't geschokte Europa
+uaiuurlyk- weör een, onvergankelükcn grondslag zal
+vinden. _
+'t /u» ondnnkbnnr zyn, wanneer wu dat alles niet
+op .|irij-i stelden. Euruua heeft rednn tevreden te
+ztjn', ula or althans eniiijje verailoming komt, Siii' 3
+het vierde cener eeuw heeft het in voortdurende
+srKinning verkeerd. Onder 't aangroeiend militairisme
+.der gruötu Stilten eu te .'midden van eeiie reeks oor
+
+logen zijn tclutten verslonden,- honderd duizenden
+gt'dood, en werd zijn welviturt onophoudelijk bedreigd
+en ondermijnd. De dng, dat het nieuwe tractaat
+geteekfiid wordt eu de Kozakken naar hun vaderland
+terugtrekken, wordt met. ongeduld verbeid „want de
+behoefte aan rust spreekt zich duidelijk uit.
+Aan r» s/; — ' nnn vrcih zoudon wq niet kunnen i
+beweren. Tenzij men hot neerleggen der wapenen, r
+tot vn\ gunstiger oogénblik om zijn doei te bereiken
+zich vovrdoer, vrede zou willeo noemen.
+l)o vrede, dien wy zullen zien tluiten kan niet veel
+nndei-R dan «e» waiienstilstaml zijn; het groote doel,
+dat de nunvtillcrs beoogen, ligt verder, het vindt zijn
+uitdrukking zeker niet in cenig tractaat, al wave het
+ouk het kort-l&gt;egfip vau alle diplo:iiatiüch beleid en
+0.1*. IAOK. I1*S. 12.45, D.—, f.—. 7.— . 8.40. -. RottenlMm via den Hnag (lloll.sp'wr) 6.50. 8.1 ft (,i). 8.S5, 041 0. 10.40 («). 11.45 («), 305, 8.33. «.•»(«). 7.10, 8,45. •
+740, CM», 8.*O. 10.3J, 18.10 ».*«» 4.83,1. IO. ««O.V.5J; Katphfn &gt;u Aiiientroort (Osp) 7.20, H.«O(A li.l«(rf).*.lO(^.,7.40. -. den Helder (H»p) 6 50. 10.0S.4 SB «Ai.
+6.— iJPyrineriBIld 7.—. 10.—. 10.4J. 8.- . 4.—, t U
+. .. ., . .
+(rfwiwarden en Groningen — jj t£o_mboo Ua "ar ; K»HHld»&gt;pi 7.30. i.—, 9.4i. 1 1.—. 12.—. i.3ü. 3.—.' 4.—.
+MIK «K LOBSTER.
+
+
+Schut* uit'.M Amtlcrdaintclie Volksleven,
+
+• ' • , OOOB
+
+JÜSTÜS VAX JtAUBtK Ji'sion.']
+Zachtkena gaat Mie poir de kachel, die, zoo al» zy
+het .noemt, „op een .tiirlje teori" pookt z» «onder
+veel gèroa» té uaken w«t op, doet;er een paar hout
+
+jes in, en zet e^n aurden pan met gort op hetgatm
+d. platte pijp. . ' . :
+Enkel gprt met wat. stroop zal haar middagmaal
+zijn. 'óort is goedkooper dan aardappelen on voed
+
+zaam, zóti heoft zo zeker gedacht toen ze gisteren
+eon dubbele portie kookte, om vandaag gauw klaar
+:te zUn ert weinig brandstof noodig te hebben; ;w»pt.
+al heeft Mie veel klanten die 'd morgens gewekt moe
+
+ten worden; «n van zeven tot tien uur andere, klan
+
+ten wièi* BChoeöen zjj poetst, toch komt zé ternauwer
+
+nood rond eri kan ze zóóteel, «pareri; da;t ze apteker
+en doctor voor „haar liet" betalen kau.
+N&gt; z'i«h nog één» oyertuiffd te Urtben1, -dat de
+kachel „het doof' zet de oude vrouw zich aan de ta
+
+fel, neemt eeno lei-nit de .lade en begint t« scht-yvcn.
+Niemand zou uit de hieróglyuhen, die &lt;le lei bedek
+
+ken wü» kunntó worden dun zü -«elf — en «och i»
+het niet meer of minder ilan haur grootboek dat zé
+in haar handen heeft; langzaam schi'Üft üe: ,
+„Meheer de Vries, 'Agterburgwal, 7 uur porre an
+d» niydeuchel".' 't Ia eet) nieuwe klant die ze eeu
+hoofd in haar bock geeft — een roiale klant vau
+liet Weener document ligt in flarden. Het Pai-jjzer
+ia voor goed verscheurd en wordt er nu veder een
+ontwoi pen, gealo'eu iu d»u naam . van Vader, Zoon en
+Heiligen Ueett, de 'heilige formule zal het niet waar
+
+borgen tc-geit schending eu oudergang&lt;
+Voor de toekomst bieden dergelijke stukken even.
+weinig zekerheid aan, al.* Don Antonio's
+weêrvoorspcllingen, en de goede trouw, wnarmee de gekroondeu
+de artikelen met hun naamteekemng befcraehtigon gaat
+Züker ili6 van den geiioeimlen profeet niet ver te boven;
+Dit .iu te begrypen. Een trnctatit kan niet anders
+zijn dan de formule, waarin de verscIiiUeude
+bekngen in verhouding tot de machten, die bon voorstaan,
+vóór het oogunbliic worden saamgevat. Doch terwijl
+hot geschrevene onveranderd blijft, wijzigen zich die
+'belangen en machten. En een traciaat dat heden de
+juiste uitdrukking is randen rechtstoestand, zal eenijre
+jaren later evenmin van kracht kunnen blij yen, uls
+het portret van eten jongeling een welgelijkend beeld
+v,m den man kau veitoohen. In do wereld der vol
+
+keren gaat het als in din der iintuur, &lt;\u sterke wor
+
+den zwak, eu de zwakken krachtig. Een eeuwige
+wisseling drijft den spot met de illusie van hen, die
+door den schijn yan ru«t misleid worden. De ^trijd
+pin 't bestaan houdt den hartstocht gnande in vrede
+en oorlog.
+Rusland stunt aan do ff ren* vau 't geen hy op dit
+oogénblik bereiken kan. .Wat de Kritnoorïog hem
+heeft, afgeperst zal hij terug winnen. Oude grieven
+vonden herstel. Titrkyo 'a aU mogendheid vernietigd.
+De geloyfugeiiooten hebben aan deu Czaar hun bevrij
+
+ding te danken. In Azië breidt hij zijn macht in spijt
+van zijn aartsvijand uit. Verder kan hij niet gaan.
+, Doch do Oostersche Kwestie? Meer dan ooit !&lt;• in
+deze dagen het licht op haar gevallen, men ziet dui
+
+delijker dan weleer haar omvang en begrijpt, dat de
+eeuwen alleen den khoop on warren kunnen.'
+Terwyl het Turkscho ryk Sneenzakt, en
+Konstantinopel voor den Mahomedaitri gespaard blijft,
+als een prys voor een volgende .worsteling of triomf1
+tocht, verrijzen een onafhankelijk Rumeriie, Servië en
+Montenegro. Daarneveuii en ónder buitenliindjehen
+invloed geadnünistreeiil en beheerd Bosnië er*
+Herzegowinn, een vorstendom Bulgarije, een verminkt
+Turkse met eeu gedeeltelijk Orieksche bevolking,
+&lt;ii« nnar vereeniging niet ha°hr xtatngeaoot^n uitziet.
+En aan de overzijde vnn den Donsu Rpiegelt het
+kranke, kunstronti^ tezaam 'fohoudi-n Oo^tenryk
+/ich in 'het leerrijk voorbeeld Van den zieken man.
+Daar zenden de Italianen hun broederen in 't Zuiden
+t-hmuehtigo blikken toe. Daar droomeu de Crontcn
+van vrijlmid, do Zechen denken aan zelfütandigheid,
+de Hongaren trachten naar oyperheerschiippij, de
+Slaven dweepen met cc n ryk der toekomst en de
+Polen- Rprekel) over den goedpa 'ouden tijd.
+{Iet ontbmdiiigK-Lroces door RuMnnd in Turkye
+bevorderd, thans in vollen gang, laat zich niet kunst
+
+matig perken «tellen, werkt langzaam, maai- zeker
+voort. Rn evenmin kan ecnig diplomatiek beleid,
+of wapen geweld, wanneer &lt; e eenheid is verbroken,
+op den duur de deelen beletten aan de wetten der
+stamverwantschap te gehoorzamen, eu nieuwe ver
+
+bindingen iu 't aanzijn, te doen treden. Wanneer
+men bedenkt hoe Oostenrijk zyn kracht zul inspan
+
+nen om wat elkander, nfstoot vereenigJ te houden,
+:eu Ruslnud aan 'den anderen kant zich gedwongen
+ziet de verdeeldheid 'aan .deze en gene zijde vnn
+den Balkan te bevorderen om te kunnen heerfchcu...
+dan is hét moeilyk te-gelooven, dut dit tractflat hot
+laatste zal zyn, dat over 't Oosten wordt gefloten.
+De chaos, tüé niet op onnatuurlijke wys geordend,
+reeds laugen tijd zou noodig hebben, zich tot een
+eenigozins hunnoni-clie wereld te ontwikkelen, zal
+nog menige' herschepping moeten ondergaan. En
+zeker zal de politieke don Antonio nog geboren
+moeten worden, die ons weet te zeegen, wanneer er
+iu de DónauUnden een vrede zal g«t«ckend zijn,
+die niet. het karakter van een wapenstilstand draagt.
+l
+Het blijkt hun thans dut zij te lang gewacht
+helben met Turkije aan te vallen. Nu de wapenstilstand
+gesloten irf, k rijpt d&lt;- Sultan genoeg schepen en
+troepen vrij om het Schiereiland aan te tasten. De
+beschermer» der verdrukte Grieken in The?sftlie
+Irekpolitiek, zy brachten Cross, en ISeaconsfield hun hulde.
+De troonrede van DuittcMands keizer kan den
+naiidachtigen lezer bevestigen in de overtuiging, dat
+Rusland op het aanstaande congres van déze zijde
+geen gevaar te vreezen heeft, en het behoud van den
+ken nu op ra«d der groote mngendhedm hun Icgertjevj vrede in Europa voor een goed deel van Bismarks
+ternjt i-n vragen zelf bescherming tegen „Turksch i invlo-d afliantrt. Tot troost voor Turkije en
+gerustg«\yeld." Engeland noch Rusland zijn bet kleine j stelling van Europa wordt er in gezegd, dat de vrede.
+land gutiütig gezind. Zelf* de Crctenseri die zich i «au de besluiten der Conferentie van Cpnstantinopel
+vrijverklaarden om'deel van 't Griekach« Rijk uit, te j uitvoering zftl geven. De Rykitdag evenwel is niet
+STAATKUNDIG OVERZICHT.
+De wapenstilstand, voor onbepaalden tijd gesloten,
+is een feit. De groote en kleine sln.ders tegen T.ur*.
+kij° zijn tot rust gekomen. Juist werd in Azië en
+Europa .op een'paar punten de.n Kussen .en Serviërs
+een nederlaag bereid,. — doch zy was van te weinig
+beteekeuis, dan «lat het pntredderd Turkije rjofjeeniif
+vertrouwen op de kracht zifnii'wapenen kou stellen. De
+Donau-ve-tinfren en Erzerum worden untrüinnl en
+miildeierwgl do vredesonderhandelingen voortgezet. Xijn
+in 't algemeeij Ruslatids eischen bekend,, de bijzon
+
+derheden blijven ontbreken en zt&gt; zullen mi*«chicn
+eerst aan 't licht komen, wanneer de vrede tusschen
+de beide volkeren geteekend is.
+Een nieuwe wisseling yun ministerie schoen den
+Sultan' nuttig. De betrekking van Groot-vizier werd
+opgeheven. Naar men meent, zullen de benoemde
+randslïeden der Kroot), een wnurhoi'g zijn voor de
+toepnstmig der constitutioneele Ijegiiiselen.
+Oudertussclieh jiiankt de trouwe bondgenoot vitn
+den Cznar, Rnmenië, zich' niet weinig ongerust, [let
+fchynt het vaste, voornemen van Ruslund te zyu.
+Bessarabii1 terug te eischen, iets wat. het Vorstendom
+zelfs iiie wil afstaan, te/en vergoeding in Turksch
+grondgebied. Do Senaat en Kamer namen een mot ie
+nnn, v.narby de iutegriteit van ivumenie
+gehaiul•huafd werd, en men tegen elke ruiling van territoir
+ten plechtigste protesteerde.
+Groote neerslachtigheid heerselit in de diplomatieke
+wereld to Buclmrest, en nut is te vreezen, dat zij
+Re)ijk Kullen hebben, dl« mceuen, dat
+boudg'enaotsch;ip]ien tusschen kleine eii zéér groote Staten zelden
+tot iets goed^voor de eersten leiden kunrjeii.
+, De. Grieken Verkeereii om aivlvre redenen, in ge'
+drukte stemming. . '
+intiken loopen gevuar weer. n,in hun uud«n weester
+t u worden uitgeleverd.
+Doch d'e Kurupeesclie Hoven heblien: gewichtiger
+zaken te liedcuken, dan dat zij veel zouden kunnen
+letten op den angüt vun Rumenië en de teleurstelling
+vun Griekeulaud. De vraag in' hoe ver zal de over
+
+winnaar gaan 't Weenen : eu Londen verkeeren ^'n
+spanning. Oostenrijk heeft een welwillend antwoord
+van Rusland op zyn pchryvon ontvangen, en in allerijl
+de uitnoodiging tot een congres de u ernld ingezonden,
+opdat de geruststeHende woorden, niet ydei zouden •
+blijken te zijn. De trrooto mogendheden, 't laat-t
+ook Ru.sla'nd, hebbeiL zich bereid -verklaard' gehoor
+té leenen uan die roepsten', en één of twee gevolmach
+
+tigden naar de uit verkoren stad te zenden. .Do
+Czaar echter onder voorbehoud, dut Weeuen ^liet de
+plaats vnn samenkomst zou zyn. — '
+Waar nu de diplomaten te samen zullen komen
+ligt nog in 't duister. Berlijn, Rome, Urussel
+Laussatme worden genoemd. Hierover wordt th.ins
+vun gedachte gewisseld. Men weet voorts te verhalen.
+dat Graaf Audrassy voorzitter zal zijn, dat Engeland
+Lord Lyorjs of 'Lord Cowfey'cu niet een der leden
+vau het kabinet ah gevolmachtigde zenden eu het
+congres op den liOsten de/er geopend worden zal.
+Ondertusschea zet men t o AJrianopel de
+onderbnudtlingen voort. ^Misschien in de hoop gereed
+te zijn vuur het Congres zijn eerste woord kan
+.spreken.
+Het hoojreroetade Driekoizersbond kreeg in de laatste
+dageu een schok, indien iets zoo zwerends althans
+geschokt kan worden. Alsof Oostenrijk Rusland ooit
+vertrouwd had, leest uieu, dat zyu wantrouwen ont
+
+waakt i», en men brengt in herinnering, (jat de Rus
+
+sische diplomatie sluw en. li.-tig H. /uoveel blijkt
+uit alles, dat de belanghebbenden inzien, dat zy de
+meeste hartelijkheid bij elkunder zullen vinden, wan
+
+neer zij geharnast verschijnen. In de
+Donau-vOrstenduinmen concentreert H island tlO.OOp ninn en 44 uieuwe
+reserve, bataljons worden gemóliilijicerd. Men meldt
+dat het met Turkye oudcrtmmjelt om'een geaeelte
+van zijri gepantserde vloot overtenemeu.
+EfigtlattH, is een en al agi'ntie. Nadat de libe
+
+ralen stroome» vau woorden hebben verspild om dui
+
+delijk te miiken, dat de cro.lict-n&lt;invrafte der
+Rc^eering de meest onstaatkuudijfe daad ft, waartoe zy
+kou overgaan, trok Forster zijn motie tot
+verwcr..ping in, op 't gerucht dat Russische troepen
+Con'stan«.'eru.st. De liberalen en conservativen zullen den
+Rijkskanselier interpelleeren-over de Ooatentche kw«st e
+en Duit«clil:inds houding in dezen. Bismarck komt,
+naar men beweert, in 't midden der volgende week
+te Berlijn terug.
+Ten opzichte van de venjflchte Rijksministeries
+po.tfütteu de nationa U-liberalen op nieuw teleurstelling.
+Kict onduidelijk werd te verstaan gegeven, dat op
+dez« hervorming niet te rekenen viel.
+Over "de voorgestelde tabaksbelasting wordt nog
+veel geschreven en gesproken. Baden belooft zjch
+te verzetten, indien de verhooging niet aanmerkelijk
+'vorlnngd wurdt. Wur'enburg stelt het monopolie
+V.OOF, 't welk knns1 van slagen echynt te hebben. Een
+wetsonl werp tegen vervahching vari levensmiddelen
+is aangekondigd '
+De Pruis'sche landdag zal zyn best doen nog vóór
+de sluiting het lot der rechterlijke wetten te beau'saen.
+liet Ooitenrjfkschc ministerie is op nieuw bevestigd.
+De Honsaren vaven in de Kamer hun wantrouwen
+jegens Rusland lucht, een der leden richtte naar aan
+
+leiding vnn ileze zaak een interpellatie tot het ministerie.
+De Ffiint-he Kamer vernietigde weder oenige ver
+
+kiezingen van auti-republikeinsche ledeu. Nu, en dan
+geeft deze werkniiamheid tot onordelyke tooneelen aan
+
+leiding. De reactionaire party schijnt, ook den maar
+
+schalk nog tot bondgenoot te hebben, alth*n» zij
+wist zijn ontevredenheid jegens de republikeinen te
+wekken. Mac-Mabon moet zeer ernstig vertoornd zyn
+over de wy'zp. waarop de Nationale Vergadering haar
+tijd. besteedt. Hij heelt met kraase woorden aange
+
+drongen op een spoediger behandeling der hegróoüng.
+De republikeinen hebben aan dezen: weusch in;
+zopv. r toeflegeveh. dat vnn du af Ie twee eerste dagen
+aan de begrnoting, de dr.e laatste aan het onderzoek
+der geloofsbrieven zullen gewijd worden. Men acht
+het thans zeker, dat de liozrooting tydig genoeg door
+de Kamer zal goedgekeurd wórden, zoodat het
+aanvragen van voorloopige kredieten niet noodig zal zyn. _
+Dé heide hoofdstukken, van ;het budget van oorlog'
+ovr de re«ervo Werden aangennmen.
+De minister van financiën, L^on Sny, vraagt 331
+milliócn fr?. voor de-n aankoop van spoorwegen.
+De'nieuwe koning van Itatic heeft een proclamatie '
+gericht tot de bevolking der hoofdstad, waarin Rome
+„de onvcrbreekbare band der eenheid van Italië"
+licef en Z.M. belooft nimmer den, eed te vergeten,
+j dif'n hy op zyu vaders grat gezworen heeft.
+tinopet zijii binnengetrokken, of duarhwti en u«ar | Ook in Italië w de tabaksbelasting verhoogd.
+Gallipoli op niarich zich bevinden. j De dood van Pins den negende is den vulke
+ver'Lutei' heeft de uiinjster Xortlicotc, meldingtniakende j koudigd, .Rpeds is het Conclave bijeen geroepen. De,
+van eon der voorwaarden voorden wapenstilstand, de vreemde kardinalen zijn op reis naar dé'stad der
+nntruiuiitig dor•rcvdediging-liniên van Konstanthropel, zeven heuvelen.
+kan geven
+hetwelk aanleiding kan geven 'Ot vreea voor
+rtistverstoriiigeu -in de stad, medegedeeld, dat de Rege
+
+ring aan eenige schepen lievel heeft gegeven'naar j
+Kcinatantinopcl te i&gt;tcveneii, -• niet als. eeii eerste
+stap tot den oorlog, maai'ter beveiliging der personen
+en eigenilommen.
+Lord Loftu*,' Engehituls ambassadeur te St.
+Petersr• bui'p, zal terutf'jft'roepen wordan, wil het gorticht.
+Dat de Kngelsrlïe natie hnar tcrornip hart ap vele
+verguderingen lucht geeft, behoeft nauwelijks gezegd
+te worden. Zelfs de studenten doen ditmaal aan de
+Zweden denkt aan de reorganisatie van zyn leger.
+De ' boerchpnrtij in de Eerste Kameï van' den
+Ryksdag heeft, een wetsontwerp .omtrent dit punt,
+en in verband "daarmede een tot herziening van het
+belangstebcl ingediend. In dat stuk wórdt de sterkte
+van het leger gesteld op 100,000 man. Men wil eene
+algemecne dienstplichtigheid voor mannen van hun 22e
+tot hun-lfie jaar, met dien verstande, dat deze uitslui
+
+tend zullen worden ingedeeld by de infanterie, terwyl
+de overige wapens* grootendeels uit vrijwilligers zullen
+bestaan. Voor de-infanterie wordt de tyd van
+oefel!0 cents iii de week — de anderen betalen, van Uf
+71,*: cent tot lö cents; eu willen om half zes al -T-ediend
+worden —: waren ze maar allen zóó, denkt Mio, ter
+
+wijl ze uitrekent, dat zo inet die nieuwe jianwinst-!
+bgna acht gulden iu de week halen kan, ongerekend
+de exti a'tjcs met 'nieuwjaar, want nu de kermii is
+afgeschaft, hebben de meeste mensuheii ook het
+kerjnisfooien geven doen ophouden. ' .'
+De lui wordt omgekeerd en wy zien liet
+reken'mgcourantbock van Mie -^ ze neemt het «tukje .gritfel
+in de hand en gaat met dan voorsten vinger van bo
+
+ven af" langs de hieroglyphen... • ;
+Merkens 12'&lt;j cent, betaald; zegt zé in zich zei ven.
+De 'wysviugar wordt aan de lippen gebracht en Mer
+
+kens uitgeveegd— Dolderraan 10 et. betaald; weer
+gaat de vinger naar den mond en crediteert met
+ééne «treek Dolderman voor de somma van 10'et.
+'/MÜ gaat. zo voort met de rekening-courant hurer
+klanten in 'orde te brengen, hier én daar blijft een
+enkele debet Blaarrrwant..al schijnt hét ongclonfelyk,
+er zyn klanten die deporster „tegoed laten houden"1,
+'t. ia ook zoo'h' bagatel, 10 of 15 centen, wie zou daar
+
+om verlegen kunnen zyu V Gelukkig dat niet iedereen
+zóó denkt want dan zou 't met de balans dor
+porster slecht: geschapen staan. . • .' '.
+Eensklaps doet een~sigsend geluid de boekhoudster
+opschrikken —de gort kookt óver, de lei verdwijnt
+in de Indo en bet meubel, zoo even nog lessenaar,
+wordt .wéér tafel — een witte doek* bord en lepel
+er op gelegd, en de -pan, voorzichtig op een bord
+gezet om den- zindelykeu doek niet te Ixismttten; De
+tafel in gedokt en 5Ito gant ctpn; • .
+Ze schept een bord vol dampendcn gort op, zit een
+oogénblik met gesloten ougen en geyouwen Handen,
+en zegt hoorbaar amen. Smakelijk'eet ,zy den
+eeuvoudigen kost; geen .wonder, want zo ia:vroeg op
+geweekt en morgeniuciit geeft honger. ' Bovendien is
+gort eon kost, die voor: ouden vnn dagen zekere
+aantrekkelijkheid bezit om don weinigen wederstand
+die ?.y by het verorberen' biedt, ten minste nis ze
+goed gaar irf .gekookt en dat. was de gort .van Mie
+zeker, ze had zeil' twee malen dut scheikundig proces
+oudorgaan. ' -.'.:•'
+Snel vordert ze uiet, want af on toe moet ze op
+
+houden om op den lepel te blazen, .maar toch is
+chrdolijk de taak volbracht en vouwt ze nog eeua
+do halnleh te'rwyl ze het.. hopf4 neigt. ,'t.Dinel' ia.
+afgeloópen, do tafel wordt, afgenomen en*^Iie bi-engt |
+hord, pan en • lepel in het portnalj waar de water
+
+leiding is, om ze af te wasschen. ,
+'t' Ia hchagelyk warm in het knmertje, dat merkt
+ze cei'st recht nu ze weer binnenkomt, waut op't
+portnaltje is 't kil. Znchikens, om Bet niet wakker
+te mukert, schqift ze een stoel'naast de kachel, doet
+een kooltje in de stoof en zet zich pp haar
+gemakneder met h'et hoofdjegen den muur geleund".
+Peinzend staart ze nuur 'buiten, waai' de regon
+nog steeds tegen de ruiten ,vnn het venster klettert. '
+Jaren' van kommer en zorgen, van ontbering en
+harden arbeid zweven haar voor den geest...
+Xte herinnert zich den dug waarop ze vader en
+moeder, slachtoffers der cholera, zag grafwnarta
+dragen,' deu dug, waarop ze in eeu groot, somber huis
+werd opgenomen, waar zó opgroeide, ondcv at rouge
+tucht eu 'orde, nmor zondeT die zuoht-e, verkwikkende
+warmte te gevoelen,, die alleen het rnoodorhart-en de
+liefde'eens vaders kau fteveii.. Toch had ze zich aan
+dat fmU gehecht en deed hét. haar aan tóen ze op
+achttienjarigen leef tyd' onder de .mcnschen moest en
+van het «weeshuis nt'schoid nam. ;..•-,
+In . gedachten 'doorleeft ze jaren vol ontlwritig,
+b-leur^tellipge'n on di'ocfhcid, innar ook vun J[,'uluk
+in de toewijding nnn haar kind, hot ennigc wat 'de
+onverliiddelyke duod haar gelaten, had. Ecu traan
+die in het oog der oude blinkt ü de wel^reke.nda
+hulde aan de nagedachtenis van een: braven man,
+dien ze slechts kort mocht liefhebben. Wel heeft do
+dood van die vroirw /ijn deel gecischt eu
+ouveri.iddelijk de hand 'geslagen aan alles wat haar lief
+KD dierbaar was, wnnt ook lint, haar oenig kin,d
+.heeft hij hnnr, van 't hart gescheut-d, en daarmêC' deu ' gehoorzenuwen scherpt en ons het gegons der bedrij-,
+iaaUtcn batfd verbrokem, die haar aait 't léven hechtte; S vigheid in de stad van uit de verte doet'booren.
+neen, niet de lilufste,' er wus'imwers nog een arm, ! Langzamerhand* omsluiert zich het denkvermogen ;
+ongelukkig^chepsél overgebleven, dat zonder do ; de verschillende geluiden smelten : samen tot een
+oude Mie naar 't Weeshuis had moetengaan. Dat j vrèënulsooi'tigeri tooü,' die allengs uitsterft'en de toe
+
+wilde de oude niet,. ze.hueft het /.oo.gaarue opge- ; »t«nd tusschon wakcii. en droomen is'geboren. In
+nomen 'en grootgebracht, 't was Uan'r een hekoel'te i die" oogenblikktn ie de sla»p zoo licht, dat het minste
+Helde te gevi-n, misschien wel omdüt ze zelf in-'haar j gedr.uisch haar doet eindigen dn den ontwakenden
+leven zoo weinig liefde li'-.dondervonden, en heette ] eeu . schrik op 't, lijf jaagt. Dieper en dieper wordt
+ze niet Bot, even. atn haar eigen- dochter', j van lieverlede de slaap en. dikwijls droomt meu dan
+I&gt;e oude, die tot dusverre in gedachten naar def in enkele minuten gebeurtenissen en voorvalUn, die
+vailende regenilroppél's buiten heeft gestaard, wendt '— '- •--•-•-•--ij A. .«j ..-.—^ .^-,.._
+uu honr óógen peinzend nnar de bedstede, en '
+..... . .. . .... 't is
+haar .alsof ze weer de iiahylièid gevoelt van den dood,
+die zyn prooi nadert, oügevocliff voor de smart der.
+arme. oude vrouw-, die het jeufrdig leven \an haar
+pleegkind voet voor voet anu hem betwist, 't Is
+voor liet dat ze op haar ouden dag, toen ze niet
+meer uit naaien kon gftan, omdat hnar oogen te zwak
+werden,- het l oroep van poi-üter heeft gekozen, 't U
+&gt;-oor httóv dat ze slooft en z\vo«at en zk-h,»lechts
+hut allernoodigste gant, en dat alles, zou te vergeefs
+zijn geweest. ....... . !
+Gelukkig voor de oude Mie liebben langzamerhand
+kachel eu. stoof hun plicht gudaau en is ne zacht kene
+ingedommeld. Zo doet een middagsloapje, 't is de
+eetuRe weelde, die zij niet de r\j'ken°Keuieon heeft,
+het eeltige genot, dat zy zich veroorlooft. Maar
+niet alléén is het voor haar ucn genot, 't iihehoofte,
+want zo staat 'vroeger op dan haar klanten eu ze U
+zeventig üüiïr.
+•Er is ïets eigondouinielijk-: in het {(onot van een
+jnt^t gehce*! nndfi's dan in den gewonen
+slaap, di: 's u-ichts het ranode lit-lumm verkwikt en
+tot nieuwe werkzaamheid geschikt iuu:»kt.
+Men zet zich met hot Itewustzijii iicder Om eren' in •
+te dommelen, men 'hoort, het predi-ui-ch in du «tratep,
+hi-t rollen der rytuiflen, de toep der vent ci-«, die hun
+vranr aan den' ruixn willen .hrencten en 't ia nUof de
+stilte, die rondom una heen in 't vertrek lieeisclitde
+in de wüi-kclykheid een groote tyd ruimt* heklaan.
+Zoo gaat het ook Mie, koude, en nattigheid. ig'n
+vergeten en -haar geregelde ademhaling toont,: dat ze
+"rustig- js ingedommeld. Dohagelük rekt ze zich in
+den sloiip eu om haar mond «peelt een glimlach —;
+ze droomt, '-.•'..
+Lachende'weiden, heldere beken en groene boomen
+vertoonen iivh aan haar oog. Ze wandelt door een
+beukenlaan en ziet vroolyk op naar de blauwe lucht,
+nuar de /.onnige plekjes tuischen het zware geboomte,
+naar e schitterende kleuren der bloemen, die tiuschen
+het koren bloeien.
+Vreemd genoeg is zo niet' meer oud en beeft za :
+geen zorg. . '
+Ze nadert een boerenhuis, dat aan 't einde der
+beukenlaan halfin 't geboomte verscholen, haar,zoo
+vriendelijk bekend voorkomt. \ •. ,
+Voor haar bestaan geen gesloten deuren; ongehin
+
+derd treed .zé er binnen en ziet de1 boer en de boerin
+niet twrb kleinen aan het lande^jk'maal.
+Hoe • welvarend ziet. alles er uit. Hoe1 gezond en
+vroolijk zijn die kinderen,'hoe dapper tasten tt toe,
+daür heerscht géén armoede, dnar nüpt het gebrek
+.niet. Komaan, Mietel hoort ze: de. boerin tot de
+oudMte der twee kleinen zeegen, ge hebt nu genoeg,
+zet je hoed op, ge moet naar de middagschool, wat
+h'« jong leert komt uud- ie pa«. Xeg vader goeden
+dag. Vader neemt Miei e ;op, kust haar op de roode
+koouen eu brengt ze een eind deu straatweg op.
+
+m
+
+</text>
+<image timestamp="2002:11:05:20:01:45.00" size="971532">X0000048.TIF</image>
+</page>
+</document>

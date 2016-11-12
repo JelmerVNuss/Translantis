@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260828</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+28 Aufc. 1936
+VRAAGT
+
+VAN BIJSTERVEUXS
+
+ADVOCAAT
+Wilt gij een mooi en gaaf gebit
+behouden, verzorgt dan steeds Uw
+tanden met de betrouwbare
+
+Pool's Atol tandpasta
+dan_voorkomt jij tandbederf.
+~ pepermojitWmiak.lM*
+A F, ZURCHER
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOO1ERSGRACHT64-66-68SIO-72.AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+BRAND-, INBRAAK^
+
+NERING
+
+EN ANDERE
+VERZEKERINGEN
+Vraagt offerte!
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN
+N.V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+Behangerij - Ameublementen - Stoffeerder!]'
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELSTRAAT 110 en 126 TELEFOON «739 «37354
+de heerlijke Cacaodrank
+wordt gedronkcn'^net Melk of Spuitwater
+
+Benige Fabrikanten F. KORFF 6 Co., Amsterdam
+Jaarbeurs Utrecht.
+Foto-, Projectie- en
+
+Kino-apparaten.
+Kamers 1011,1013 en 1015
+Ie tage (naast de inzending
+Ned. Koloniën).
+Jaarbeurs te UTRECHT,
+6—16 September 1926.
+HET NEDERL. FOTO- EN
+KINO-TECHN. BUREAU"
+
+C A P l
+AMSTERDAM
+115 Kalverstraat.
+IS MAAR EEN
+
+KARELI
+|TIMTUR|
+NVYrl.
+
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijle»
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amsterdam
+u /tcuxA/, /Ó/C^AA
+Fabrikaat MAX KRAUSE Berlijn
+Verkrijgb. in eiken goeden Papierhandel
+5
+]UJoppe
+Jlight cape»
+fijne hheuren
+
+</text>
+<image timestamp="2002:09:26:01:49:57.00" size="151303">D10007VP.TIF</image>
+</page>
+</document>

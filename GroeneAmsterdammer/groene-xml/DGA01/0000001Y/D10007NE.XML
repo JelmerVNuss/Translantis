@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260605</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KOFFIE
+ENTHEB
+VerfcgenwoortHgerJ
+SWSTERCWM-AMSTËLSOó
+TEL.N.1O14
+CADILLAC
+De schitterende qonstructie en afwerking der nieuwe
+C.ADILLAC V 65 bewijzen, dat Cadillac Kaar
+leidende positie op zeldzame wijze weet te handhaven.
+
+K. LANDEWEER - UTRECHT
+uttige Geschenken
+&gt;elen met 2 kussens 32.50
+fauteuils	42.50
+Divans	18,50
+Divanbedden, nieuw! nieuw! 75.
+Divankleeden. ..... 17.50
+Tafelkleeden, moquette 180
+' bij 160	24.50
+Schemerlampen ..... 14.50
+Kussens voor divans . . . 2.50
+Kapstokken	5.20
+. J. v. Bennekom, Amsterdam, Huidenstraat 28, Tel 30913
+MEUBELFABRIEK - WONINGINRICHTINGEN
+VERZEKERT
+BIJ ONS ALLE KOSTEN
+(inclusief de gerechtelijke),
+verbonden aan het behandelen Uwer
+UITSTAANDE VORDERINGEN
+
+VAN DER GRAAF &amp; Co.
+AMSTERDAM - ROTTERDAM - BRUSSEL
+Wed.ERAHDER6Zo.
+\YIJNHANDELAREN
+Amsterdam, Arnhem,
+6NSOV3 's-Gravenhage ™™
+Hofleverancier»
+Hoofdkantoor: Binnenk^t 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Alg. Assurantiekantoor
+
+P. ROT Jzn.
+Prins Hendrikkade 159—160
+AMSTERDAM
+
+Bezorgt Verzekeringen
+op elk gebied.
+Inlichtingen, premie^
+opgave worden gaarne
+verstrekt»
+/D KAPITAAL. =s
+T 4-000-000
+VERZEKERING
+Zooeven verschenen:
+TO WASSENAAR
+ROMAN door
+
+N ET HOUWIN K
+Prijs ingenaaid 3.50; gebonden f 4.50
+
+Em» Qüerido's Uitgevers-Mij., Amsterdam»
+..
+Waarom zou U zich zoo
+
+veel moeite geven om Uwe
+messen blank te schuren
+en te poetsen, als er
+ROESTVRIJE zijn, die
+steeds blank blijven.
+Waarom U ergeren, omdat
+ze toch niet zoo blank
+worden als U wel wenschte
+ROESTVRIJE MESSEN
+zijn verkrijgbaar bij;
+ZWOLLE
+A.Dri
+niet ie DÜier,niet ta
+niei ie vci-* juist go^d.
+
+^(DE diocolxmd oSs RBzlae vcrsnopeiing: &amp;^ deTFiee, op deWündefing,Dy Sportcnz.
+Kamp ee ren
+Al onze kampeertenten
+zijn beduidend
+IN PRIJS VERLAAGD
+Onze nieuwe prijs
+
+courant van Kam
+
+peertenten,
+Kampeerartikelenenz.is gereed
+en wordt op aanvraag
+gratis toegezonden
+ZEILINGA
+Kantoor:
+Binnenkant 38
+M a g a z ij n :
+Prins Hendrikkade 120
+Telefoon 41709—40717
+AMSTERDAM.
+
+</text>
+<image timestamp="2002:09:25:17:40:51.00" size="154183">D10007NE.TIF</image>
+</page>
+</document>

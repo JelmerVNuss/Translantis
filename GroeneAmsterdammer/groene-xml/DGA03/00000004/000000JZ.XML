@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19061021</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Belastingplannen.
+lilJV' &gt;E(ïSEI, van T)e Amsterdammer, Weekblad voor Nederlpnd van 21 ' io&lt;i;&gt;i r
+DocroK LM-: MKK&gt;TKK: In elk geval moet er gepurgeerd worden.
+DOC.TOR PiKkSf &gt;N • \'A\ adergelaten.
+DncioK TI;KI ;-; • KÜdan nog met bloedzuigers behandeld.
+!)(&gt;("!•&lt;&gt;!•: L1;. '..iiiKS'l'KK : Maar in geen geval tariefpülen . . .. dan vee! liever een flinke klont suiker toe!
+
+</text>
+<image timestamp="2002:08:11:08:40:17.00" size="245599">000000JZ.TIF</image>
+</page>
+</document>

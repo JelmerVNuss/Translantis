@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340428</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.„&gt;-.
+
+AM.
+Hij is een amphibie. De helft is ambtenaar,
+De helft is handelsman = notaris bij mekaar.
+Als dienaar van den staat moet hij gebiedend kijken,
+Als koopman moet hij zeer voorkomend zijn, of lijken;
+Hij zoekt den juisten weg, en vindt dien aan de grens
+Zoo wordt hij door de bank een hoogst bekomzaam merisch.
+Hij is wat ouderwetsch, zeer degelijk en deftig,
+Beschaafd, maar niet gemaakt, doortastend, maar niet heftig.
+Schoon hij eenvoudig is, en zonder zweem van air,
+Verkiest hij 't zwarte pak toch boven het colbert.
+Zijn uitspraak is correct, maar vrij van affectatie.
+Zijn zinsbouw in 't gesprek toont vaak klassieke gratie,
+Maar als hij akten leest, negeert hij zijn gehoor,
+En leest ze in een vaart, en onverstaanbaar voor.
+Op straat wordt zijn betrekking gauw genoeg verrader!
+Doordat hij, met een dikke aktentasch beladen,
+Met twee getuigen loopt. Hij draagt geen hoogen hoed.
+''Dat deed hij vroeger wel. En 't stond hem toch zoo goed!
+Wie zijn kantoor betreedt, wordt aanstonds sterk getroffen
+Door d'orthodoxe kleur van kleed en mcubelstoffen;
+Het oog wordt door oud blauw en koperwerk verkwikt,
+Die heeft hij voor een krats op veiling' opgepikt.
+Hij pleegt zijn taal met tal van termen te lardeeren
+Als intestaat, minuut, passeercn, compareeren
+Zoo wordt de kwestie kort en klaar uiteengezet,
+Terwijl zijn rechterhand speelt met zijn lorrienjet.
+Hij inventariseert, hij regelt erfenissen.
+Hij heeft een broertje dood aan fidei-commissen,
+Maar dweept met vruchtgebruik waarom, begrijpt geen leek
+x Hij boedelscheidt, hij veilt en levert hypotheek.
+Hij heeft van zijn cliënten veelal vol vertrouwen,
+Zoodat ze 'm ook als geldlijk adviseur beschouwen:
+Dan want hij is een door-en-door goedaardig dier
+Aanvaardt hij zelfs den post van substituut-bankier.
+Zijn boezem bergt als 't graf 't geheim der testamenten
+Van kleine klantjes en vermogende cliënten.
+Daar heb je Jonker Jan, die stiekum is onterfd,
+En 't onbehoorlijk vindt, dat oom maar steeds niet sterft;
+Als hij ze samentreft, den jongen en den ouden,
+Weet hij zijn aangezicht strak in de plooi te houden,
+Hij ziet de hartelijkheid, hij hoort de vleierij,
+En denkt: neen, Janneman, dat gaat je neus voorbij.
+Wanneer hij ouder wordt, en al die nieuwe wetten,
+Bij 't vele werk, dat hij voortdurend moet verzetten,
+Niet goed meer volgen kan, dan is zijn toeverlaat,
+Zijn rechterhand, zijn steun, zijn stut: zijn candidaat.
+O, candidaat, gij die, na menig zwaar examen,
+Vol kennis, uitgebreid en nauwelijks te vamen.
+Het hoogste dat u wacht, schier nooit bereiken kunt
+Voordat uw vel vervaalt, uw dichte haardos dunt,
+Gij zijt een stille kracht. Houd hoop op uw belooning;
+De zeeper wordt barbier, de kroonprins wordt een koning,
+Thans zinkt g' in 't hoekje weg bij testament of ceel,
+Geduld ! Eens valt ook u een protocol ten deel.
+Dan spruit een trotsch gewas uit den gedrongen heester,
+Dan zegt gij jij en jou tot uw voormalig meester,
+Dan veert gij op, in blik, in houding en in toon
+Gij hebt den sprong volbracht van loonslaaf tot patroon.
+Ten slott' een ernstig woord, tot u gericht, notaris:
+Ofschoon uw levenslast, van zorgen zwanger, zwaar is,
+Bedenk: als gij uw werk met hart en hersens doet,
+Veredelt gij uw ambt. En dan verdien je goed.
+CHARIVAKIUS
+
+</text>
+<image timestamp="2002:10:28:11:47:15.00" size="204559">D200AUS.TIF</image>
+</page>
+</document>

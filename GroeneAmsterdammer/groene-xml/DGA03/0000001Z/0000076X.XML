@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281222</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+24
+Kerstnummer
+nog vuriger, en zie toch hoe de schotels blinken.. . . ! Else eet
+van alles eet ze, oh, heel weinig, maar ze eet toch....
+Wat ongewoons is daar wel bij, ze hijgt een beetje onderwijl, en
+haar wangen worden vochtig-warm.... In haar schoot ligt een
+kanten zakdoekje met gaten.
+Maar niemand die het merkt.
+Hans leest wat voor uit den Bijbel. En nooit te voren is hetgeen
+hij leest, zoo dicht genaderd tot ieders hart.
+Een kleine stal zien ze, en een pasgeboren kindje en een liefhebbende
+Moeder, ook zien ze de Herders in het veld van Bcthlehem, bij de
+slapende kudden, en bij de drie Wijzen zijn ze zelf ook, en volgen de
+ster door den feestelijken nacht.. . .
+In de kamer wordt het dan nog wonderlijker.
+Het is of uit elke diepe plooi in de gordijnen en uit eiken fluistertik
+van de klok een lieve goede gedachte te voorschijn komt.
+Hans zucht, en die zucht heeft wat juichends. Harry's zijden
+kleedje ritselt fijntjes, er is wat blij ds in dat ritselen. Erica wrijft
+zacht haar handen tegen elkaar. ... en ook dat kleine geluidje klinkt
+verheugd.
+Doch dan komt er een oogenblik dat ook het nietigste gerucht wijkt.
+De wereld wordt zoo ijl als een zwevende sneeuwvlok, zoo ontastbaar
+als een manestraal.
+De kamer-dingen vervagen tot lieve herinneringen, de daagsche
+dingen schuiven naar een wazige verte, en het léven-zelf lijkt weg te
+glijden op een glanzende ster.
+De blanke stilte is als een kristallen brug, een brug waarover de
+zielen gaan van lieve afgestorvenen: en zij brengen allen een lieflijke
+boodschap van vrede en heil, uit de eeuwigheid mee.
+Het is Else of ze uit zich-zelf treedt, en uit haar pijn. . . . En dan
+weet ze niet goed meer waar ze is. Het geluk in haar wordt zoo groot.
+zoo onaardsch. ... Ze moet er haar handen van vouwen, en
+vredigverzonken als door een afstand van jaren heen kijkt ze naai
+Hans en de kinderen....
+Vager dan Else, voelen ook zij iets van een heilige saamhoorigheid..
+Later zullen ze het zich te binnen brengen....
+Hebben ze God niet ontmoet, dien avond? Hebben ze niet van
+aangezicht tot aangezicht de liefde gezien?
+Else weet nu dat een mensch ook van vreugde als verstijven kan.
+Een droom zweeft voorbij de avond-zelf. . . .
+Toen de kaarsen-lichten klein werden en uitdoofden, heeft
+Hannog trachten te /eggen wat hij gevoeld heeft: Het is of hier in d&lt;
+kamer het Kerstkind geboren is, lilse."
+Else antwoordde niet.
+Doch later als ze de trap opgaat naar haar kamer, loopt ze /-«K
+feestelijk-luchtig en zacht of ze nog de ster van de Wijzen ziet. ,,Wanf
+dit jaar is Kerstmis een heel bijzonder feest geworden, een feest
+zooals er nog nooit geweest is. ..."
+En een glans lijkt er uit te gaan van Else's verheerlijkt gezicht.
+als ze fluistert: Vader. . .. Vader, ik dank U, dat U mij dit no^
+hebt willen geven."
+
+</text>
+<image timestamp="2002:09:05:21:41:37.00" size="86299">0000076X.TIF</image>
+</page>
+</document>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260130</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+. AMSTERDAM •
+NIEUWEN Dl J K 184 tegenover de Beurspassdge
+HOORN - LEEUWARDEN ~
+VGRAVENHAGE - GRONINGEN - HILVERSUM
+Teneinde onze bekwame Maatkleermakers gedurende
+den stillen tijd van werk te voorzien, bieden wij aan
+-t- RECLAME
+-tMAAT-COSTUMES
+van de nieuwste ENGELSCHE
+STOFFEN van 1926 voor
+EL 65.
+RUIM 100 VERSCHILLENDE DESSINS
+Onberispelijke Coupe en Afwerking
+" Geen Stalen '
+NV.^ETNA"
+CACAO.. CHOCOLADE MACHINES
+PETER DAWSON'S
+WHISKE Y
+BEST OF ALL
+^V an otraalen ^lonsieur tx ILrkelens
+WIJNHANDELAREN
+Den Haag ROTTERDAM Den Helder
+Leuvehaven 34
+Verkri)&lt;$bïiAr Vn &amp;llc plaateen bij de
+Ver tége nwoord icjerj
+Engelsch Plated (verzilverd)
+Groenteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+Arnhem - ZIJLSTRA 6 RUPP
+Soeplepels
+HET ADRES voor
+Kampeer ten ten,
+Jachtzeilen,
+Scheepsbehoeften
+IS
+FIRMA
+F. mm
+Binnenkant 38
+AMSTERDAM
+TELEFOON 41709 40717
+Toezending Prijscourant
+op aanvraag
+iOOIAlOTOREN
+«Sterling* Grav
+InVoorrc &lt; '
+InVoorracuL &lt;MM 5 '300 f. k.
+Vnf'aatt
+GEBRf.WILUNK ,
+AMSTERDAM
+-MfHf
+%%**
+©©©©© ©©©©©©© ©©©©©© ©©©@© ©©©©© ©©©©©©®@©
+T. BERKEMEIJER
+v/h PAUL MICHE.
+HORLOGES PENDULES
+ROKIN 32 - TEL. 47592.
+©©©©©© ©©©©©©© ©@© ©@©© ©©©©©©©© ©©©©©© ©@©
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+F a m i l i e - H u i s
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GEBR. RADEMAKER
+iji
+• •
+?fc
+•
+' •
+s
+H
+H
+•
+£
+i
+•
+•
+
+^
+Dezer dagen verschijnt compleet:
+•l
+«l
+HET ZILVEREN GETIJ i
+GEDENKBOEK UITGEGEVEN BIJ HET 25-JARIG HUWELIJK VAN
+H. M. DE KONINGIN
+ONDER REDACTIE VAN PROF. DR. H. BRUGMANS
+BAND- EN TEKSTVERSIERING VAN T. NIEUWENHUIS
+GEILLUSSTREERD MET TAL VAN PLATEN EN PORTRETTEN
+INHOUD)
+Portret van H. Mj de Koningin in drie kleurendruk, door B. VAN VLIJMEN
+Oorkonde
+Facsimile der huwelijksacte
+De Prinsessen van Oranje, door Prof. Dr. H. BRUGMANS
+Koningin Wilhelmina, door J. F. L. DE BALBIAN VERSTER
+Prins Hendrik, door Jhr. A. W. G. VAN RIEMSDIJK
+De Koningin-Moeder, door Jhr. JAN FE1TH
+Prinses Juliana, door MARIE C. VAN ZEGGELEN
+De Oorsprong van het Huis Oranje, door Prof. Dr. F. J. L. KRAMER
+Willem III, Een godsdienstig karakter, door Prof. Dr. J. W. PONT
+Prinses Anna, door Prof. Dr. P.T J. BLOK
+De Jeugd van Prins Frederik, door Prof. Dr. A. A. VAN SCHELVEN
+De Haagsche Paleizen van H. M. de Koningin, door Dr. W. MOLL
+De Prinsen van Oranje en de buitenlandsche kunstenaars, door Mr. A. STARING
+De Penningen der Oranjes, door W. F. K. ZWIERZINA
+Naamlijst der inteekenaren
+
+Prijs compleet in stukken f 12, in linnen stempelband f 15. Luxe-editie bestaande
+uit 250 genummerde exemplaren in leeren jband f 40, in halfperkament f 50.
+!• Uitgave van Van Holkema 6 Warendorf's Uitgevers Maatschappij Amsterdam.
+•i?
+•f*
+
+</text>
+<image timestamp="2002:09:24:22:18:00.00" size="155849">D10007AA.TIF</image>
+</page>
+</document>

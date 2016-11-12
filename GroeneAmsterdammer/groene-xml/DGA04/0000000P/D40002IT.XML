@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160902</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, WeefcWad TOOIS.Nederland».van,.2. September 1916
+ROEMENIE ZET ZICH IN BEWfcülNU
+Nadruk verboden
+'. --"-_
+rp^Jiv, ^WrAy'«'7jfi:
+%f:vf&gt;^ &gt;w%
+Macbeth ziet den opmarsch van het bosch, hem door het noodlot voorspeld
+Arnst. Boek- en Steendrukkerij, v/h. Ellennan, Harms &amp; Co
+KRIJGSKNECHT (Frans Jozef):
+Edele Heer! Ik kan U nauwlijks zeggen
+Wat ik zag! Ik stond op gindschen heuvel
+Op wacht, te turen naar het bosch, en ziet...
+Op eens is 't, of de hoornen gaan bewegen
+En op ons aanmarcheeren!
+MACBKTH (Wilhelm):
+Zoo ge goed zaagt,
+En 't bosch dan waarlijk op ons aan komt rukken,
+Dan vrees ik, is het uit met hopen en vertrouwen
+Want zeiden niet de heksen: Dan eerst hebt ge
+Te vreezen, als het bosch zich in beweging zet".
+'k Begin nu bang te worden voor het zonlicht,
+En wilde dat de wereld maar ineenzonk!
+De klok moet luiden, en de storm mag blazen,
+Wij zullen toch in 't harnas ondergaan!
+SHAKESFEARE'S Macbeth, 5e Bedr„5e Tooneei.
+
+</text>
+<image timestamp="2002:08:22:18:58:35.00" size="756043">D40002IT.TIF</image>
+</page>
+</document>

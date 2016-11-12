@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300607</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 7 JUNI 1930
+No. 2766
+J. D, STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZING met RIJTUIGEN o! AUTO'S)
+CREMATIE. - TRANSPORTEN.
+N. V. Meubelmagazijn EderT
+MOLSTEEG ~ AMSTERDAM
+
+BOEKENKASTEN
+fijnste, dik, blank, frisch, franco huis
+postw. Kistjes stevig verp. 2
+K-Gƒ 2.75, 3 K.O. ƒ 3.75, 4 K-O. ƒ 4.75.
+Slierasperges 25% meer. Lengte steril.
+75% juiste giasmaat.
+
+FIRMA ISIDORUS,
+Bergen op Zoom. Tel. Interc. 119
+Giro No. 14988,
+CL J* DE KONING 6 ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+COMPLETE BADKAMERS.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h, Gebr, BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+
+Ateliers voor reparatlën aan
+Uurwerken, Goud en Zilver
+AUG* KAUPMANN
+
+P. C. Hooftstraat 113, Amsterdam Z., Telefoon 23308
+
+Ontvangen nieuwe Collectie Serre- en Tuintafelklecden
+Ontbijtstellen t Iilngerie Zakdoekjes
+Speciale aanbieding Bedlakens en Sloopen
+H. Iiinnen Sloop m. ajour F 1,65 H. Linnen Bedlaken m. a jou r F 5,75
+160 X 25» c.M.
+Xichtzendïng franco.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D, WEEGEWIJS
+Rapenburg 44 AMSTERDAM Tel. 42662
+
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+
+Complete Meubileering
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+KEK l CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+EEN NIEUWE, WAARDEVOLLE PREMIE
+
+aangeboden op verzoek van
+
+honderden huisvrouwen
+Deze moderne groentelepel
+
+is in werkelijkheid 21/2
+
+maal zoo groot als op deze
+
+afbeelding
+Om zeker te zijn, dat U de
+beste kwaliteit havermout
+ontvangt... let op dit Quaker
+handelsmerk
+DEZE zwaarverzilverde, moderne groentelepel is thans voor
+
+iedere huisvrouw verkrijgbaar, die Quaker Havermout gebruikt.
+
+48 der bons geven U recht op deze premie. De naam Quaker
+
+staat borg voor zuiverheid, kwaliteit en verrukkelijken
+
+smaak ... de hoogste waarde voor Uw geld. Eisch altijd
+
+QUAKER Havermout. Ieder pak wordt gegarandeerd.
+Iuaker
+ts hel beste Havermout
+
+</text>
+<image timestamp="2002:09:25:18:15:26.00" size="161294">000009A9.TIF</image>
+</page>
+</document>

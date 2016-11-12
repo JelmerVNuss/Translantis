@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18851018</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 434
+OE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+Nog vele andere bewijzen zoude ik kunnen bijbrengen, doch er zou te
+veel plaats voor vereischt worden. Mijns inziens echter gaat men het
+leven blijmoediger en hoopvoller door, met zulke gedachten voor oogen,
+als met die van onbekende grootheden, die met den godsdienst spotten.
+Laat ons liever met Hoaigh uitroepen, toen hij de passiespelen te
+Oberamsmergau had bijgewoond: Merkwaardig! Achttien eeuwen geleden
+stierf in een hoek der wereld een schijnbaar arm en vergeten man en
+nog wordt zjjne lijdensgeschiedenis aan de g'eheele beschaafde wereld
+verhaald. Profeten onzer eeuw, wat is machtiger, zijn idealisme of uw
+realisme? Mevr. M. M.
+
+DE REVUE COLONIALE INTERNATIONALE.
+Hiervan ia thans de vierde aflevering verschenen. Gaf de indertijd
+verspreide prospectus van dit tijdschrift alle reden om groote verwach
+
+tingen te koesteren en werd het vooruitzicht van eene degelijke aanwinst
+der koloniale litteratuur geopend door der zake kundige mannen, gesteund
+door een schitterenden staf van medewerkers wat tot heden door de
+redactie in de wereld werd gezonden, beschaamde die verwachtingen niet.
+Integendeel, de inhoud der vier eerste afleveringen vestigt de overtuiging
+dat het der redactie ernst ia zich overeenkomstig, en binnen de grenzen
+van, het breed opgezette programma te bewegen. Eene enkele geringe
+afwijking daarvan is, met het oog op den veelzijdigen aard van het
+koloniaal-litterarisch gebied, bijna onvermijdelijk en kan billijkerwijs tot
+geene bedenking aanleiding geven.
+Daar de nieuwe Remie nog niet besproken werd in dit blad, achten wij
+het van belang niet ontbloot, genoemd program althans in hoofdzaak
+weer te geven.
+Het tijdschrift omvat drie afdeelingen, nl. voor Jiandel, nyverheid en
+scheepvaart, voor koloniaal lestuttr, en voor geographie en cihnograpliie.
+Het voornemen der redactie ten aanzien van de eerste afdeelingisniet
+om haar het karakter te geven van een internationaal handelsorgaan,
+maar om daarin plaats te verleenen aan studiën die in verband staan
+met de groote vraagstukken van handel, nijverheid en scheepvaart; zoo
+
+als o. a. studiën betreffende de resultaten van het stelsel van differentieele
+rechten en andere protectionische maatregelen; het subsidieeren van ge
+
+regelde stoomvaartlijnen en de gevolgen daarvan; de ontwikkeling van
+verkeersmiddelen in koloniën en inzonderheid den aanleg en de exploita ie
+van spoorwegen; het emigratie-vraagstuk en dat der arbeidskrachten in
+koloniën. Wijders het volkenrecht, in zooverre het in betrekking staat
+tot de beginselen der laatste conferentie te Berlijn; de vrijheid van trans
+
+acties en het recht van stichting van handelsinrichtingen in de koloniën
+van andere naties; statistieken, vergelijkende tabellen en andere belangrijke
+gegevens, ontleend aan offieieele koloniale bescheiden, consulaire rappor
+
+ten enz.
+De tweede afdeeling koloniaal bestuur bestemd voor vergelijkende
+studiën der verschillende betrekkingen tnsschen moederland en koloniën,
+de beperking der vraagstukken betreffende het beheer van koloniën, het
+koloniaal recht en koloniaal gezag, is de voornaamste raison d'éire van
+het tijdschrift. De bespreking in een internationaal orgaan, van
+koloniaalpolitieke vraagstukken zal zoo meent de redactie voor vele
+regeeringen een krachtiger prikkel zyn dan de openbare meening in het moe
+
+derland alleen. De afdeeling geographie en ethonographie werd in een
+internationaal koloniaal tijdschrift onmisbaar geoordeeld. Daardoor ia
+haar bestaan voldoende gerechtvaardigd; maar bovendien zal deze afdee
+
+ling dienstbaar gemaakt worden aan de behandeling van practische
+koloniale belangen.
+Voorts bevat de Revue eene rubriek voor mededeelingen van verschil
+
+lenden aard; eene beknopte beschrijving van feiten en gebeurtenissen op
+koloniaal gebied, benevens eene bibliographisehe kroniek en eene
+maandelijksche bibliographie.
+De NederlandscJie Koloniale Vereeniging die de Eevue in het leven
+riep en haar bestaan voor de eerste jaren verzekerde wenscht door
+middel daarvan de goede vruchten van de Koloniale Tentoonstelling van
+1883 te bestendigen, mede te werken tot instandhouding van de betrek
+
+kingen, aangeknoopt tusschen de dragers der koloniale wetenschap en d
+belangstelling in koloniale vraagstukken levendig te houden. Indien
+tegen de hoop en de verwachtingen der Redactie in, de voortdurende
+Steun van technisch-koloniale medewerkers van verschillende naties haar
+mocht gaan ontbreken, dan zal zij, noch de Ned. Kol. Vereen, trachten
+het kwijnend voortbestaan der Eevue op kunstmatige wijze te verlengen."
+Welnu, daarvoor bestaat o. i. niet de minste vrees. De redactie is er in
+geslaagd zich van de medewerking te verzekeren van vele
+wetenschappelijke mannen.
+Op de lijst der medewerkers vindt men o. a. de namen van dr. R. An
+
+dree, prof. F. Blumentritt, dr. Fabri, dr. A. Kirchhoff, dr. A. Lehmann,
+dr. Philip Patilitsehke, dr. Karl von Scherzer, Von Neumann Spallart,
+Commr. Verney Lövett Cameron, Sir G. Campbell, Henry O. Forbes,
+G. Fitz Gerald, Sir Richard Temple, H. A. Webster, Brau de
+Saint-PolLias, Désiró Charnay, .Felix Fauia, G. Gerville Réache, Paul
+LeroyBeaulien, prof, E. Levasseur, prof. A. de Quatrefages, prof. A. Brunialti,
+prof. Guido Cora, prof. J. Dalla Vedova, prof. A. Woeikoff. Het buiten
+
+land is dus uitnemend vertegenwoordigd; terwjjl voor ons land een 30tal
+welbekende namen op de lijst voorkomen.
+Uit den aard der zaak en om der ruimte wille kan het volgend
+overeicht van den inhoud der verschenen afleveringen slechts beknopt en
+oppervlakkig zyn. Later zal de gelegenheid om enkele artikelen breeder
+te bespreken, zich meermalen voordoen.
+De eerste aflevering wordt geopend met een opstel van sir Kichard
+Temple, over Imperial Federation. In een zeer lezenswaardig artikel,
+getiteld: Deutsche Colonialpolitik, behandelt dr. Fabri de oorzaken, de
+ontwikkeling en de gevolgen der koloniale beweging in Duitschland. Eeno,
+door niemand in het leven geroepen, maar van zelf geworden beweging,
+voortgevloeid uit zuiver economische oorzaken, en waaraan politieke be
+
+weegredenen vreemd bleven. Tot het actief optreden van Duitschland op
+koloniaal-politiek gebied gaf do onbeholpen houding van de Britsche Re
+
+geering gelegenheid. Weinig bemoedigend is de schets, welke schrijver
+geeft van den tegenwoordigen en toekomstigen toestand van Duitschland,
+zonder koloniën.
+Hoewel het bezit van koloniën voor Duitschland, vooral met het oog
+op de voortdurende vermeerdering van bevolking, van groot gewicht is,
+zou schr. elke te snelle en te ver gaande koloniaal-politieke beweging
+een fout en het streven om vóór alles eens koloniale macht te worden,
+eene gevaarlijke domheid achten.
+V. Lövett Cameron geeft in zijn Mr. Stanley's Congo-International" van
+het werk van den wakkeren Afrika-reiziger een overzicht, waaraan eenige
+critische beschouwingen zijn vastgeknoopt.
+In de tweede aflevering bespreekt E. J. Payne (On colonial progress;)
+het belang van koloniaal bezit voor verschillende naties, op eene wijze
+die het innemen van al te Engelsch standpunt vergeeflijk maakt.
+Die politische Bedeutung des Islam in Niederl. Indien" is de titel van
+een belangrijk opstel, waarin dr. Schreiber het Mahomedanisme aanwijst
+als: verreweg het grootste gevaar dat het Nederlandsch gouvernement
+bedreigt. Volgens den schr. zou de Islam nimmer de tegenwoordige be
+
+denkelijke verhoudingen aangenomen hebben, indien het Nederlandsch
+bestuur van den beginne af zich aan de uitbreiding van het christen
+
+dom had laten gelegen liggen. Het hand over hand toenemen van be
+
+lijders van den Koran, moet tegengegaan worden. Als middel daartoe1
+moet o. a. de pelgrimage naar Mekka tegengewerkt, het verbreiden van
+het christendom bevorderd en moeten de christen-inboorlingen met Euro
+
+peanen gelijkgesteld worden.
+In A naturalists wandering in the Eastern Archipelago," beoordeelt
+Emil Metzger het dusgenoemde werk van Henri O. Forbes. Hoewel de
+schrijver den arbeid voor den onderzoeker wuardeert, als getuigende van
+diens blakenden ijver van de wetenschap, trekt hij onderscheidene zijner
+mededeelingen in twijfel en tracht hij aan ts toonen waarom Forbea
+niet als een in alle opzichten vertrouwbare gids moet beschouwd worden,
+zoolang deze niet zijn eigene waarnemingen relateert.
+In de derde aflevering treedt V. Lövett Cameron in zeer belangrijke
+beschouwingen omtrent den Congo-Vrijstaat en zijn toekomstigen
+economischen toestand. Volgens den schr. behoort de nieuwe regeering in de
+eerste plaats met alle krachten te streven naar verbetering van den
+materieelen toestand van den inboorling, ontwikkeling van den handel en
+opheffing van den slavenhandel. Hoewel hij repressieve wetten noodig acht,
+komt het hem het meest doelmatig voor den slavenhandel tegen te gaan
+door den arbeid van den neger, als landbouwer, of voortbrenger van na
+
+tuurlijke producten, te bevorderen. Langs dezen weg zullen de hoofden,
+wier voordeel bij dien arbeid betrokken moet worden, vóór de afschaffing
+gewonnen worden. Van groot belang acht schr. het plaatsen en doen
+resideeren van eerlijke, krachtige, Europeesche testuurders in de verblijf1
+plaatsen der inlandsche hoofden, en den aanleg van spoorwegen.
+Prof. F. Blumentritt doet in een artikel (4de afl,) over Die Mestizen
+der Philipinen-Inseln" interessante mededeelingen aangaande dit onder
+
+werp, terwijl J. A. B. Wiselius de opium-cultuur in Bengalen op uitvoe
+
+rige wijze beschrijft. J. G. F. Riedel geeft een
+geographisch-etnographi8che schets van de Sawu-groep.
+Vermelden wij nu nog dat in verschillende afleveringen behandeld wor
+
+den Les forces productives de l'Australosie Britannique," door E. Levasseur,!
+eene beredeneerde compilatie naar het schijnt uit de Yearbooks,
+en La Martinique en 1789—1790," door Hurard (afgev. voor Martinique)
+een boeiend verhaal van de omwenteling op dat eiland.
+De rubrieken voor gebeurtenissen op koloniaal gebied, Chronique biblio*
+graphique trimestrielie, en mededeelingen (notices) worden op uitstekende1
+wijze bewerkt door de hh. prof. v. d. Lith en prof. Kan, terwijl de
+maandelijksche bibliographie eveneens in goede handen is; hiervan is redacteur
+dr. H. C. Rogge, conservator aan de Universiteits-bibliotheek.
+En wat de technische uitvoering der Eevue aangaat; de ijverige firma
+De Bussy zorgt er voor dat zij voortreffelijk mag genoemd worden.
+Zoo is dan het aantal wetenschappelijke periodieken met een vermeer
+
+derd. Het aanvakelijk succes dat der Eevue ten deel valt, vermag nu
+reeds te bewijzen dat zij in een wezenlijke behoefte voorziet. Waaneer
+de Redactie op den ingeslagen weg moedig blijft voortgaan, dan zal zij
+voorzeker den dank van elk belangstellende in&lt;koloniale vraagstukken
+en een blijvend succes oogsten.
+Onnoodig te zeggen dat wij de kennismaking met de Eevue coloniale
+internationale ten zeerste aanbevelen.
+
+GEVIERDE AUTEURS.
+De heer Huet verheft zijn methode tot de hoogte van zijn talent, hij
+daalt niet tot haar af."
+Dit kompliment wordt door den heer Van der Goes aan Huet gebracht,
+en indien het iets beteekent kan het alleen dit beteekenen, dat Huet,
+hoewel een gebrekkige methode gebruikende, toch uitstekende resultaten
+verkrijgt, dat zijn talent, ia dit geval, uitstekende pyschologische
+kritieken levert.
+Deze uitspraak behelst zeker meer lof, dan de vergelijking met eene
+kwaadsprekerige oude juffrouw, en toch richt de heer Van der Goss n
+lofspraak n vergelijking tot n persoon, tot Huet.
+*
+* *
+Aldus luidt de aanhef van mijn vriend G. v. S. in het vorig nummer,
+waarmee hij te velde trekt tegen een mijner artikelelen Gevierde Auteurs",
+Zijne praemisse is onjuist.
+Door te zeggen dat de Heer Huet zijn omvangrijk talent gebruikt bij
+het volgen vau een verkeerde methode, is niet gezegd dat de resultaten
+die hij verkrijgt, deugen.
+Integendeel valt het te bejammeren, dat zijn gaven geen andere ma
+
+nier van kritiek hebben opgeluisterd.
+Ten tweede heb ik den Heer Huet niet vergeleken bij een
+kwaadsprekerige oude juffrouw, maar alleen gezegd dat dese wijze van lirtiiék de
+
+</text>
+<image timestamp="2002:08:18:18:48:06.00" size="265203">D10001E7.TIF</image>
+</page>
+</document>

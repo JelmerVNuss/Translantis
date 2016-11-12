@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241025</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Mo. 2471
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+X AU EN, MET HET OUDE KASTEEL, EEN VERSTERKING
+" UIT DEN TIJD DER BERBERS.
+HET LAND, WAAROM RAISOENI ZOOVELE JAREN GESTREDEN HEEFT.
+Boekbespreking
+ROSITA FORBES, Ralsoenl, de Sultan van de
+bergen. Vert. v. H. J. van Balen,
+Ams'terdam 1924: Em. Querido.
+
+Wie Moelai Ahraed el Raisoeni is? In de inlei
+
+ding noemt de schrijfster hem krijgsman en
+philosoof, heilige, tyran en psycholoog". Op het
+eerste gezicht vraagt men zich af, of die kwaliteiten
+wel allemaal met elkaar te vereenigen zijn, en de
+lezing van het boek heeft mij den stelligen indruk
+gegeven, dat de heiligheid zoowel als de filosofische
+begaafdheden van Raisoeni in eenigszins beperkten
+zin moeten worden opgevat. De schrijfster bezocht
+den Sultan van de bergen" in zijn Marokkaansche
+eenzaamheid, en zij wist hem, blijkens den flinken
+omvang van haar boek, aardig over zijn leven aan
+het praten te krijgen. Hij vertelt van zijn jeugd,
+van zijn leven als rooverhoof dman, van zijn ge
+
+vechten tegen de Europeanen, en een massa in
+
+teressante dingen meer. Over 't geheel is het boeien
+
+de lectuur hier en daar wat
+Indianen-verhaalachtig en het is ongetwijfeld van waarde voor
+de kennis van het Marokkaansche leven en die van
+het tegenwoordig weer zoo actueele vraagstuk der
+verhouding_tusschen'Mgrokko en Europa,
+De pftratj?$ op deaj^agina zijn aan het boek
+ontleend. ' "'f7.'
+
+H. COLLINSON OWEN, De verdwenen diamant.
+Vert. v Ellen Eek. Amsterdam, z.j. Van
+Holkema en Warendorf.
+
+In alle detective-romans, waarin het gaat om
+gestolen miljoenen, is het natuurlijk regel,
+dat de bestolene zijn miljoenen graag zoo gauw
+mogelijk terug wil hebben. Deze amusante roman
+geeft op dien regel een merkwaardige uitzondering.
+Een Engelsch aristocraat erft van een ouden oom
+een fortuin plus kokkert van een diamant, met
+de zonderlinge bepaling, dat hij den diamant als
+overhemdsknoop moet dragen zoo vaak hij in
+evening dress verschijnt, op straffe van de heele
+erfenis te verbeuren. De Engelschman accepteert
+de erfenis plus de bepaling, ofschoon hij aan niets
+meer het land heeft dan aan O-Weeërsvertoon, en
+waagt het er op, zich in 't openbaar belachelijk te
+GRANDS VINS DE CHAMPAGNE
+POL ROGER &amp; Cie.
+Agent General: JABER SERUMS, Haarlem
+maken. Onmiddellijk wordt de diamant gestolen,
+maar voor de bestolene van zijn eerste vreugde
+bekomen is, heeft hij hem terug.. De steen wordt
+opnieuw gestolen, komt opnieuw terug; de pogin
+
+gen van Rockingham om den steen niet terug te
+krijgen, zijn werkelijk vermakeiijk, en de schrijver
+heeft in al de verwikkelingen een spanning weten
+te brengen, die door de liefhebbers van het genre
+op prijs zal worden gesteld.
+HERMAN MIDDENDORP
+DE BIJENKORF"
+WAQENSTRAAT 45—45a DEN HAAG
+ZALEN
+voor VERGADERINGEN, EXPOSITIE'S, etc.
+CENTRUM DER STAD TEL 14228
+EEN STRAAT IN AL KASR.
+MOELAI AHMED EI. RAISOENI, DE SHERIFF,
+
+</text>
+<image timestamp="2002:09:03:20:16:39.00" size="226722">D20040F.TIF</image>
+</page>
+</document>

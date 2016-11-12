@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320806</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+de uitkiik
+M D«g«IIJIw2.30,7.30,9.2
+T FILM EN MODERN)
+H MUZIEK
+E
+A
+T- prinsengracht b||
+g d* Uidschcctraatj
+R Ulafoon 374
+HUI B SLAGER
+Tolhuislaan 71»
+ROTTERDAM
+
+
+bindt Uw boeken
+en jaargangen keu
+
+rig en zeer billijk in
+
+van f 1.25 af
+per boek
+N.V. GOEDEWAAGEN's Kon. Fabrieken - Gouda
+Wed.H.Rahder&amp;Zn.
+
+WUNHANDELAREN
+Amsterdam Arnhem
+iiiiiin 's-Gravenhaqe nmn
+Hofleverancier»
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SP E C l A L E CONDITIËN
+Goede Hotels in Nederland.
+HOTEL PABST. 'Doorn.'Telef. 123
+CAFÉRESTAURANT
+Oudste Huis ter Plaatse.
+Geheel verbouwd en voorzien van alle moderne
+comfort. Ligt in de onmiddellijke nabijheid
+der bosschen. Bekende keuken.
+Zelfde directie als Hotel Lager we Ij
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+Hotel Pension FLIP HULL"
+Bondsbotel der A. N. W. B. 't Geheele jaar
+geopend. Kamers met stroomend, koud en
+Teleph. 22 warm water. Elec. licht. Centrale verwarming.
+Otg-mnii*tr*rttii«iifl. Auto-garage. H. G. HABMSEN.
+mm
+is een onmisbare
+reiskameraad:
+Wij zenden U gaarne
+prospectus en
+voorTAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+l l
+VRAAGT BROCHURE AAN
+
+BUREAU WITTEVEEN
+
+Paramarlboplein 58
+
+A'DAM Tel. 84751
+VAN RIJN S
+KIMOSFERD
+BATIKKEN.
+
+Bekend atelier werkzaam voor
+
+eerste klasse firma's
+
+is nog in de gelegenheid werk
+aan te nemen.
+
+ZfCHTZENDING op aanrraga.
+Tevens gelegenheid tot het geven
+van Batiklesseu.
+Brieven Letter G, De Groene.
+» -*w
+
+
+VAN 85 TOT 115 UUR
+
+
+Kop Koffie met Amandel- of _ _ _
+Saucijzenbroodje	0.25
+Kop Thee met 4 diverse _ _
+Sandwiches	0.25
+'S-HERTOG EN BOSCH
+
+HOTEL GOUDEN LEEUW"
+(Q R O E N H U l S)
+Electr. Licht - Centr.Verw.- Stroomend water. P. G. BAARS
+Hotel - Pension - Café- Restaurant
+
+'T JACHTHUIS" depeTance
+
+WARNSVELD (Telefoon 226 ZUTPHEN)
+In onmiddellijke nabijheid der bosschen, uitgebreid en naar are eischen des tijds
+Ingericht. Groote serre, waranda's en tuin met pracht uitzicht. Tennisbaan. Garage.
+Aanbevelend, W. T. GROENHOFF.
+Reclame Bureau
+
+ARU"
+Warmondstraat J*i
+AMSTERDAM (W.)
+TELEFOON 847O8
+Ontwerpt Uw
+Advertenties
+Affiches
+Folders
+Etalages
+enz. enz.
+LAAT ONS UW RECLAME
+VERZORGEN.
+Kop Thee of Koffie m. Krenten
+
+brood
+
+Thee of Koffie met Pasteitje
+of Croquette
+
+Koffie met Nierenbroodje
+
+Thee met Cake
+
+2 Spiegeleieren Brood en Thee
+
+Koffie of Thee met Garnalen-,
+Huzaren- of Zalmsalade, Toast
+
+Thee of Koffie met warme
+Toast, Boter
+0.25
+0.25
+0.25
+0.45
+ONTBIJT a 0.40
+Koffie of Thee, 2 Broodjes,
+1 Spiegel Ei of 1 Gekookt Ei,
+Kaas of Vleesch, Beschuitje,
+Boter
+DE BIJENKORF
+AMSTERDAM
+
+</text>
+<image timestamp="2002:09:27:05:29:16.00" size="128112">00000AGW.TIF</image>
+</page>
+</document>

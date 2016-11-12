@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241122</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zaterdag 22 Hovember
+A°. 1981
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van G. W. K E RN KAMP
+Redacteuren: H. BRUGMANS, HERMAN HEYERMANS, TOP NAEFF en G. NOLST TRENIT
+Secretaris der Redactie: C. F. VAN DAM
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+ALGEMEEN VORMEND- EN VAKONDERWIJS
+Toen ik hier indertijd over den nieuwen tak van onderwijs
+schreef, die op den ouden stam van de H.B.S. zou worden geënt
+de zoogenaamde litterair-economische afdeeling of de H.B.S.A.
+•—heb ik gewezen op een gevaar, dat daarbij dreigde.
+De bedoeling van deze afdeeling is, een grondslag van
+algemeene ontwikkeling te leggen voor hen, die niet ingenieur of
+arts of scheikundige verlangen te worden en dus niet in de eerste
+plaats de wis- en natuurkundige vakken moeten beoefenen. Zij
+geeft een opleiding tot een groot aantal maatschappelijke beroepen
+en ambten, d.w.z. zij biedt geen vakopleiding daarvoor, maar
+verschaft de algemeene vorming, die het bezit behoort te zijn
+zoowel van verschillende categorieën van ambtenaren als van hen,
+die in het bedrijfsleven een plaats van eenige beteekenis zullen
+innemen.
+Er waren reeds scholen, die voor een goed deel hetzelfde doel
+nastreefden, nml. die handelsscholen, waar niet het vakonderwijs,
+maar het algemeen ontwikkelend onderwijs op den voorgrond
+stond. Zonder noemenswaardige verandering van leerplan konden zij
+omgezetworden in eenH.B.S.A. en de rechten daarvan verkrijgen.
+Maar daarnaast bestonden handelsscholen, die als zuivere vak
+
+scholen waren ingericht, wier leerlingen een lager peil van alge
+
+meene ontwikkeling bereikten dan die van de zooeven bedoelde
+scholen. Ook voor deze handelsscholen werd de gelegenheid ge
+
+opend, haar programma in overeenstemming te brengen met de
+minimum-eischen voor een H.B.S.A. en de rechten deelachtig te
+worden, die aan het eindexamen van deze laatste school werden
+verbonden.
+Dit was te betreuren, omdat deze handelsvakscholen in het we
+
+zen der zaak vakscholen bleven en geen algemeen vormend onder
+
+wijs gaven. Dat zij, al of niet met behoud van den naam handels
+
+school, omgezet werden in een H.B.S.A., geschiedde niet met de
+bedoeling, om een bona fide H.B.S.A. te worden, die algemeen
+ontwikkelend onderwijs geeft, maar alleen om de rechten te
+verkrijgen, die aan de bezitters van het einddiploma werden
+toegekend; ook moeten • als ik wel ben ingelicht financieele
+overwegingen, nml. de mogelijkheid om aldus een hooger subsidie
+te verkrijgen, zich hierbij hebben laten gelden. Maar deze scholen
+bleven vakscholen; dat het voor haar mogelijk was, den schijnvan
+eenH.B.S.A.aan te nemen, sproot voort uit de soepele voorschrif
+
+ten voor het programma van zulk een school. Terecht had men
+daarbij een ruime mate van vrijheid gelaten; een nieuwe school moet
+niet in een keurslijf worden geperst, zij behoort te kunnen groeien;
+vandaar dat er speling was gelaten bij de keuze van vakken, waarin
+wel geëxamineerd kon, maar niet bekoelde te worden. Daarbij
+was echter uitgegaan van de gedachte, dat zij, die het programma
+zouden opstellen, nooit uit het oog zouden verliezen, dat het doel
+van het onderwijs behoorde te blijven: algemeene ontwikkkeling.
+Ter wille van de zuiverheid der grenzen ware het te wenschen
+geweest, dat men voortaan bij het middelbaar onderwijs, buiten
+de gymnasia en lycea, drie duidelijk afgebakende richtingen
+had gehad: de oude H.B.S. met 5-jarigen cursus, die algemeen
+ontwikkelend en tevens voorbereidend onderwijs geeft voor a.s.
+ingenieurs, natuur- en scheikundigen en artsen; de nieuwe
+H.B.S. met 5-jarigen cursus of de H.B.S.A., die de algemeene
+vorming biedt voor een groot aantal maatschappelijke beroepen
+en ambten en daarbij den nadruk legt op het aanbrengen van ken
+
+nis der maatschappij; en de handelsscholen, die zuivere vakscholen
+blijven en de kennis verschaffen, die zij moeten bezitten, die ter
+
+stond na het verlaten van die school een betrekking in den handel
+willen krijgen.
+Deze zuiverheid van grenzen dreigt echter verdoezeld te worden,
+nu verscheiden handelsscholen zich uitgeven voor een H.B.S.A.,
+zonder dit in werkelijkheid te zijn. Aan het Departement van
+Onderwijs schijnt men de wenschelijkheid niet in te zien, om de
+grenzen principieel te trekken. Men heeft daar al dadelijk een stap
+in de verkeerde richting gedaan, door te bepalen, dat alleen die
+litter.-econom. afdeelingen, die naast een gewone, een oude
+H.B.S. met 5 jar. cursus worden opgericht, onder het toezicht der
+inspecteurs van het M.O. zullen staan; alle overige echter, de op
+zich zelf blijvende, de vroegere handelsscholen dus en de los van
+een bestaande H.B.S. nieuw opgerichte, komen onder de inspectie
+van een inspecteur van het vakonderwijs! Zoo bevordert men de
+onjuiste gedachte, dat de litterair-economische afdeeling direct
+opleidt voor den handel en vakonderwijs geeft; zoo veroorzaakt
+men verwarring; zoo onthoudt men aan de nieuwe H.B.S. de zoo
+noodzakelijke eenheid van leiding.
+Op al deze gevaren heb ik vroeger gewezen. De uitkomst heeft
+getoond, dat het geen onnoodige schrikbeelden waren. Nu het
+instituut van de litterair-economische afdeeling in werking is
+getreden, doen zich in de practijk allerlei moeilijkheden op, die
+voortvloeien uit de onvastheid van lijn, welke door het Departe
+
+ment van Onderwijs wordt gevolgd. Er is thans nog meer redenen,
+dan toen ik de eerste maal over dit onderwerp schreef, om er op
+aan te dringen dat de grens tusschen vakonderwijs en algemeen
+vormend onderwijs niet worde verflauwd.
+Over de resultaten van beide soorten van onderwijs heeft
+prof. Verkade, in de redevoering, waarmede hij in September 1.1.
+het rectoraat van de Nederl. Handelshoogeschool overdroeg, een
+oordeel geveld, dat de aandacht verdient.
+Naar aanleiding van het ingediende wetsontwerp betreffende
+de Handelshoogeschool te Rotterdam en de handelsfaculteit aan
+de Gem. Universiteit te Amsterdam, waarbij tot het afleggen van
+examens worden toegelaten zij, die een diploma eindexamen
+H.B.S. hebben, hetzij voor de wiskundige, hetzij voor de litte
+
+rair-economische richting, en ook zij, die het diploma cener
+erkende handelsschool hebben, merkte hij op, dat er van de zijde
+der Handelshoogeschool- niet het minste bezwaar bestaat tegen
+het verleenen van dit recht aan de bezitters van het einddiploma
+H.B.S., litterair-economische afdeeling. Een vraag is het echter,
+of op den duur dit recht aan de bezitters van het einddiploma
+eener erkende handelsschool mag blijven toegekend. De onder
+
+vinding toch heeft geleerd, hoe vreemd dit op het eerste gezicht
+moge schijnen, dat juist de door deze inrichtingen afgeleverde
+studenten op de Hoogeschool een minder goed figuur maken.
+Dit kan ons intusschen niet bevreemden, indien wij bedenken,
+dat het onderwijs aan vele dezer scholen veel minder algemeen
+vormend is dan het op de H.B.S. en veel meer aan vakonderwijs
+doet denken."
+Ik ben in de gelegenheid, deze opmerking met statistisch mate
+
+riaal te staven. In de studiejaren 1922—'23 en 1923—'24 slaagden
+er bij het examen handelseconomie aan de Handelshoogeschool:
+zonder eenige afwijzing, na een goed examen, 12 pCt. van de
+examinandi, die einddiploma-H.B.S., 6 pCt. van de studenten, die
+einddiploma-Handelsschool hadden;
+voor hen, die slaagden zonder eenige afwijzing, na een ruim
+voldoend examen, bedraagt het percentage voor de beide genoemde
+categoriën resp. 13 en 9 pCt., voor hen, die slaagden zonder eenige
+afwijzing, na een voldoend examen, resp. 13 en 11 pCt.
+Van de bezitters van het einddiploma H.B.S. slaagden dus,
+bij eersten aanloop, voor het examen handelseconomie 38 pCt.,
+van de gewezen handelsscholieren slechts 26 pCt.
+Bij het doctoraal examen, waarbij de geschiktheid voor weten
+
+schappelijke studie uit den aard der zaak nog meer den doorslag
+geeft dan bij het examen handelseconomie, slaagden, in eersten
+aanloop, van de bezitters van een einddiploma-H.B.S. 87 pCt.,
+van de gewezen handelsscholieren slechts 54 pCt.
+Deze cijfers hebben wel is waar alleen betrekking op de twee
+laatste studiejaren, maar zij zijn opgemaakt uit ruim 400 examens
+en wettigen dus de conclusie, dat het onderwijs aan handelsscholen,
+dat voornamelijk gericht is op de behoef ten van de kantoorpractijk,
+een minder goede basis voor verdere studie vormt dan het onder
+
+wijs aan een H.B.S.
+Nu zijn er handelsscholen van verschillende kwaliteit; bij de
+hierboven medegedeelde statistiek zijn alle over n kam geschoren.
+Ook te Rotterdam maakt men, blijkens de rede van prof. Verkade,
+geen bezwaar er tegen, dat de toegang tot de examens aan de
+Handelshoogeschool wordt opengesteld voor hen, die het diploma
+bezitten van een handelsschool, welke omgezet is in een H.B.S.A.,
+omdat deze laatste scholen aan strenge eischen hebben te voldoen
+en daardoor betere waarborgen opleveren voor de geschiktheid
+der door hen afgeleverde jongelieden voor een
+hooger-onderwijsopleiding." Maar dan moet de omzetting van een handelsschool
+in een litterair-economische afdeeling, ook bona fide zijn geschied
+en de school niet langer een vakschool blijven.
+Zoo spoort dus ook de Handelshoogeschool aan: trek de grens
+zuiver. En het belang dezer inrichting van hooger onderwijs valt
+hier samen met het hooger belang van het gedijen van den nieuwen
+tak van onderwijs, die litterair-economische afdeeling heet. De
+laatste geve algemeen vormend onderwijs, de handelsschool alleen
+vakonderwijs. En wie niet opzettelijk verwarring wil stichten,
+zal van dit onderscheid ook door den naam der school doen
+blijken.
+KERNRAMP
+
+</text>
+<image timestamp="2002:09:03:22:11:04.00" size="222230">D20042Z.TIF</image>
+</page>
+</document>

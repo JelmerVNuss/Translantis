@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240503</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSfÊftDAMtóER, WEEKBLAD VOOR NEDERLAND
+' No. 2446
+
+f5 cent
+inuis:
+levert niet franco door
+het geheele land. .
+
+
+• is niet goedkoop maar
+Bmnenkuis: berekent wat &gt;tmaakfc
+'t JjinnenJ
+
+'t
+
+
+'t -Dmnenhuis: zoo billijk mogelijk en
+
+,. T&lt; * 1 * levert daarvoor het
+t JJinnenhuis: aiierbeste
+
+-i-» A.C U D C J. en wat meer noodig is voor
+
+
+W oninginrickting.
+nergens fraaier en billijker dan bij
+
+fa. Wed. P. VAN DER HERT
+
+Nassaustraat 2, BUSSUM.
+
+Vraagt monsters en prijsopgave l
+
+Telefoon BUSSUM ........ 923
+AMSTERDAM C. 2776
+UTRECHT
+BILTHOVEN
+)
+i BAARN
+Bouw- en Woningbureau van de
+N.V.Woningbureau v/h J.D.F. VAN
+DER VEEN, Kantoor van Vaste
+Goederen, Teding v. Berkhoutstr.3.
+,.
+t
+
+
+B
+Verol
+is opgericht in 1900 en
+: wasPnet eerste
+waar naar zoo vele misleidende
+namen gevolgd zijn.
+
+.« * • is door verhuizing niet
+
+; verd\venen als velen
+meenen, maar
+erpaatst naar
+UIH KEMPEN
+WIJNHANDEL
+AMSTERDAM
+Gevestigd sedert 1810
+
+Prinsengracht 951
+TELEFOON 37706
+taajt Prijscourant
+otacüiouaerskaae 80 boven
+
+Beckt &amp; Dyserinck
+
+Lijn 4 en 16 vanaf C. S.
+!n den Silveren Molenbeecker".
+Kalverstraat 32
+HUB
+Hoogstraat 31
+
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit in;
+lm. Oud Holl.
+Zilverwerk.
+VOORMALIG
+Landgoed Birkhoven
+NU
+100 H. A. Bosch
+
+Vaste Waschtafels
+Parterre Kamers
+
+M. L. JORRITSMA
+Koldewey &amp; Corbière
+laldschastraat 30, Amsterdam
+Spoolalltelt lm
+Kinderbiilkuipeii, Badtafels, Baby Bascules, Linninmanden.
+ALS GIJ
+BUITENLANDSCHE
+ARTIKELEN KOOPT,
+VERHOOGT GIJ
+AUTOMATISCH
+UWE BELASTING.
+BEZOEKT DE 25 MODELKAMERS DER
+L.O.V. EN BESTELT DAAR UW INTÉRIEUR.
+Levende Kreeften en Langousten
+met kookrecept, desgewenscht gekookt geleverd
+En gros Telephoon TSo. 81 En detail
+Kreeftenpark Belderbos", Bergen op Zoom
+OUDWIJK"
+FIRMA VAN WIJK &amp;
+VAN DEN WIJNGAARD
+Otnelit-BudiükitiRinitiutl04-110
+(voorheen Jansveld 19)
+TELEPHOON 2957
+PARTICULIER BINDWERK ENZ.
+SPECIAAL INGERICHT
+VOOR 8ROOTE OPLAGEN
+
+• LINNEN STEMPELBANDEN •
+- VOOR H. H. UITGEVERS
+IMPORTEURS:
+NlAutohndelv/hFaGIIUND&amp;Co.Utreclit
+TELEPHOON 1886 en 3177
+Lunchroom Franken"
+Groote Houtstraat bij de Markt
+= HAARLEM =
+TAFEL- en
+SERVIESZILVER.
+DE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 10.—p. j.
+Rotterdam, Hoogstraat 218,
+Hotel-Restaurant A. Schneider". |
+Kamers met stroomend water. (Huistelefoon. J
+Uitpakkamers. Vergaderzalen. J5
+FEEST-VVV&amp;WE RK.
+Vuurwerk is steeds een ™ote attractie indien betrokken uit de KON. NED. KUNSTVUURWERKFABRIEK
+A. J. KAT vb. JOHN LOEFF te LEIDEN, tel. 1110. Schitterend vuurwerk met steeds de nieuwheden welke
+bij geen andere firma zijn te verkrijgen, worden tegen scherp concureerende prijzen geleverd.
+Grootste Fabriek in Nederland, opgericht 1826. Vraagt programma's en prijzen.
+
+</text>
+<image timestamp="2002:09:03:06:56:42.00" size="175850">D2003J1.TIF</image>
+</page>
+</document>

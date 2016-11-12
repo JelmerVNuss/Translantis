@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970829</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1053
+Het bezoefc te St. Petersburg.
+(Caran d'Ache in den Figaro.)
+De stoet in de zaal der borstbeelden (op den voorgrond de
+buste van Louis XIV.
+ie grens na de badreis.
+(ülk.)
+Dames-Mening,
+(Scraps.)
+Halve biefstuk geen
+fooi.
+Plat du jour vijf
+centen fooi.
+Wedstrijd van caricaturen op sport betrekking hebbende.
+
+Teekening door CHK. VAN NIFTRIK, te Petersburg, met den derden prijs bekroond.
+Diner van een daalder
+drie stuivers voor de
+bediening!
+Diner van een riks
+een kwartje voor Polly !
+SCHETSJES.
+Chloroform,
+Naar het Fransch.
+
+Lolotte, z\j heet eigenlijk Clémentine, maar Paul, haar echt
+
+genoot, noemt haar altyd Lolotte, omdat hij beweert, dat zij en
+profil op Charlotte Corday gelijkt, Lolotte is erg ziek.
+Zy heeft een groote, witte vlek aan haar pink en daaronder
+Ijjdt z\j vreeselyk, en haar lief klein gezichtje is bleek en door
+p\jn verwrongen, en haar arme kleine zenuwtjes zijn zoo strak
+.gespannen als de snaren van een mandoline.
+Terwijl z\j op den dokter wachten want er moet een operatie
+De beste stuurlui staan aan wal.
+gedaan worden ! doet Paul zijn best, het arme kleine ding te
+troosten.
+Lolotte: »Zeg, zou de dokter me erg pijn doen?"
+Paul: »Welneen, schatje. volstrekt niet. Een klein prikje
+met een lancet en pst! alles is voorbij."
+Lolotte (huiverend van ontzetting): »0 ! .. .. dat is ver
+
+schrikkelijk ! Het denkbeeld alleen al.... Maar, zeg, hij zal me
+toch zeker wegmaken?"
+Paul (min of meer geërgerd): »Wat een onzin ! .... Voor een
+prikje, dat nog geen seconde lang pijn doet! .. . . Wees toch een
+beetje moedig!"
+Lolotte (pruilend): »Neen, ik wil niet moedig zijn, ik
+wil niet! Ik ben maar een arm, klein vrouwtje, en meer niet !
+Ik ben niet een van Napoleon's grenadiers, die niets dan »0ef!"
+zeiden, wanneer hun hoofd door een geweerkogel werd afgeschoten!"
+Paul (ernstig) : »Luister nu eens naar me, lief klein poesje.
+Ik verzoek je vriendelijk, je niet te laten wegmaken !"
+Lolotte (huif schreiend') : »Maar waarom niet'/..., Je bent
+zeker bang, dat de dokter je dan meer zal laten betalen ?"
+Paul (verontwaardigd): »Maar Lolotte!"
+Lolotte: »0f vindt je het soms prettig, mij te zien lijden en
+my te hooren kermen ? .. .. Je bent een ongevoelige, slechte,
+wreede man !"
+»P a u l: »IIoe kan je nu zoo iets zeggen ! Als het maar
+kon, zou ik het immers graag in jou plaats willen doen !"
+Lolotte: »Nu, waarom wil je dan niet hebben, dat ik wordt
+Paul: »Wel, omdat sommige menschen geen chloroform kun
+
+nen verdragen .... Dan hebben ze na de operatie nog een tijd
+lang erge hartkloppingen.1'
+Lolotte: »Nu ja, maar dan hebben ze niets van de pijn
+gevoeld."
+Paul (aarzelend): »Het kan ook nog wel slechter afloopen. .. .
+Het is wel eens gebeurd, dat menschen, die bedwelmd waren,
+heelemaal niet meer wakker geworden zijn".
+Lolotte (onrustig): »Dat zeg je toch zeker alleen maar om
+mij bang te maken ?"
+Paul (ernstig): »Neen, werkelijk niet, dat bezweer ik je. En
+daarom wil ik niet hebben, dat je wordt weggemaakt!
+(Opaangedanen toon). Stel je eens voor .... ik zou immers zoo onge
+
+rust zijn ! Ik zou den heelen tijd door moeten denken : Als mijn
+kleine Lolotte nu eens niet meer wakker werd, als zij haar
+armen Paul nu eens alleen op da aarde achter liet! Wat zou
+er dan van Paul worden 'i Hij zou ook sterven ... ."
+Lolotte (zenuwachtig): »0ch neen, neen, zeg toch niet
+zulke dingen ! Dat is allemaal onzin.... Wat is dat nu voor
+een idee, om zóó tegen mij te spreken. En bovendien zul jij er
+toch bij blijven, als ik in slaap word gemaakt, en als je dan
+ziet, dat ik ziek ben, dan maak je me maar wakker, dat is
+immers heel eenvoudig."
+Paul: »Maar, lieveling, dat zou ik dan misschien niet
+meer kunnen."
+L o lo 11 e : »0ch ja, dat zal wel gaan .... In ieder geval w
+ik chloroform hebben."
+(Er u-ordt gescheld; de dokter komt linnen.)
+Dokter (vroolijk): »Goeden morgen, mijn klein patientje."
+Lolotte: »0, dokter, u zult me toch immers chloroform
+geven ?"
+Dokter: »Zeker kind, als ik je daarmee pleizier kan doen."
+Lolotte: »En belooft u me, dat er geen gevaar bij is ?"
+Dokter: »Gevaar ? Waarom zou er gevaar bij zijn?"
+Lolotte (triomfantelijk tot Paul) : »Daar, zie je nu wel ?
+(Tot den dokter) Paul heeft namelijk beweerd, dat ik niet meer
+wakker zou worden ...."
+Dokter (een sponsje, ziuachtels en chloroform te voorschijn
+halend): »Neen maar! hoe kom je er bij !"
+Paul: »Ik heb gezegd, dat het dikwijls ernstige gevolgen
+kon hebben . . .."
+Dokter: »Ja, bij zieken, die den dokter onbekend zijn of
+die een hartkwaal hebben waarvan de geneesheer niets afweet...
+Maar bij mevrouw, die ik om zoo te zeggen in de wereld gezet
+heb, die ik van haar jeugd af heb behandeld, e"n die ik net zoo
+goed ken, als mij zelf .. ."
+Lolotte (blozend) : »Maar, dokter"!
+Dokter (joviaal). »Nu, je hoeft heusch niet bang te zijn,
+kindlief; ik heb gisteren nog een patiënte gechloroformiseerd ....
+(tot Paul) Wilt u de spons vasthouden ? . .. . Dat was zelfs heel
+amusant! Stel je voor, het was een weduwe, een preutsch oud
+mensch, in wier tegenwoordigheid je de onschuldigste woorden
+niet kunt zeggen, zonder dat ze moord en brand schreeuwt....
+En toen ze gechloroformiseerd was, begon ze te vertellen:..."
+Lolotte: »Wat ? ! sprak ze hardop ?"
+Dokter: »Ja, zoo iets gebeurt dikwijls."
+»Maar wat zei ze dan ?"
+»Ze zei maar aldoor: »Geef me nog een kusje.
+Lolotte:
+Dokter:
+Edgar!"
+Lolotte:
+Dokter:
+»Edgar ? Heette haar man zoo ?"
+&gt;Wel neen !	Dat was juist het grappigste van
+het geval.... Haar man heette Anatole .... Ja, ja, dat behoort
+tot de kleine aangenaamheden van ons beroep."
+Lolotte (onrustig) : »Zij wist zeker, dat alleen u en
+misschien uw assistent er bij waren "
+Dokter: »A1 was de heele stad er bij geweest, dan zou ze
+het toch gedaan hebben !	(hij geeft Paul de spons) Wilt
+u nu maar zoo goed zijn.. . ."
+Lolotte (rerschrikt): »Maar .... ik .... Doet zoo'n prik met
+een lancet erge pijn?"
+Dokter: »0ch hemel! Wanneer je moest kiezen tusschen
+een kus en zoo'n prik, dan zou je geen oogenblik aarzelen ....
+Maar gelukkig zal je er niets van merken, ik za) je immers
+becfwelinen."
+Lolotte: »Ja,.... maar .... als ik nu eens mijn best deed . ..
+het zonder chloroform uit te houden	"
+Dokter: »Ik zou het je niet aanraden.... Je bent veel te
+zenuwachtig en zoudt misschien flauw vallen
+Paul: «Bovendien staat de dokter immers er voor in. dat er
+geen gevaar bij is ...."
+Lolotte (op vastbesloten toon) -. »Neen, neen, ik wüniet!
+Ik zal dapper zijn. U zult het zien, dokter!"
+Paul (cerb/tasd): »Maar mijn kleine Lolotte, hoe kom je daar
+nu bij ? .... Zooeven wou je je immers met alle geweld laten
+ehloroformiseeren ?"
+Lolotte: »Ja, lieve man, maar ik heb me bedacht
+Zie je, ik doe het om jou, omdat jij er bij zoudt blijven, als
+ik bedwelmd was	(op teederen toon) Je zoudt je veel te
+ongerust maken !"
+
+</text>
+<image timestamp="2002:08:22:00:26:22.00" size="344406">000003WN.TIF</image>
+</page>
+</document>

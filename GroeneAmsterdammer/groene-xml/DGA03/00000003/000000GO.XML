@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060819</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na 1521 .
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+De ontmoeting van koning Edward en keizer Wilhelm.
+ELSA—WIKHELM : In lichter Waffen Sjheine
+ein' Ritter nahet da,
+so tugendljcher Beine
+ich keinen noch ersah.
+LOHENGRIX—EDWARD: . . . . In deiner Hand,
+in deiner Treu liegt alles Glückes Pfand.
+Laszt nicht des Zweifels Macht dich ruh'n?
+Eerste vruchten. (The Tribune.]
+LANDHEER JOHM BDLL : Voor een eersten oogst niet kwaad, vriend
+Eannerman l"
+Ce gefopte Michel. (Der NebeUpaller.)
+Opa's eerste lessen.
+Ik" en Wilhelm I.
+BescheiJenheit ist eine Zier, doch...
+
+(De Ware Jacob.)
+Stössel's laatste oogenblikken. (UU:}
+En onthoud dit, mein Enkel" : Wij
+beiden zijn de kleinzoon van den groitsten
+inun van z'n tijd...!
+Bismarck feest. (Juumi.}
+Daar broeit die kip na al jaren lang op, en per slot van rekening ia
+het ei rot en blijf ik met den vullen boel zitten!
+Zoo rijze dan de vlam ten hemel!... Alsjeblieft,
+heeren, komt wat dichter bij staan, anders zouden ze
+het mogelijk te Berlijn kunnen zien l
+Hebt gij nog een wensen, generaal Stüssel ?
+Ik zou de orde I'our Ie Mérite in het graf willen medenemen.
+'t Spijt me, die is al verkocht aan Barnum.
+De optimist. (P«nc7i.)
+a:J*^ ' ir f' &gt;' r1' • P ' i-ïis'i-ü'-=-"T - icS?!3'
+MINISTER-I-'KESIDI;XT CAMFKELI.-BANXERMA.S (iot den jonffenheer John
+Bul!) : Kom maar mee, ventje, we zullen het goedkoope Haagsche
+pakje koopen. Er is in langen tijd geen slecht weer te verwachten.".
+
+</text>
+<image timestamp="2002:08:11:01:32:48.00" size="415655">000000GO.TIF</image>
+</page>
+</document>

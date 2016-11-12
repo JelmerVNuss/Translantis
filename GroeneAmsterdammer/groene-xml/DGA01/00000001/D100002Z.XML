@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980904</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ter Inhuldiging.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 4 September 1898.
+Arns:. lioek- en Steendrukkerii, v/h. KUerman. Harnas &amp; Co
+Prins VVillem de Zwijger tot Koningin Wilhclmina : &gt;lk gaf ons Volk miin krachten, mijn fortuin, mijn leven. Geef Gij, hop"
+des Vaderlands, het Uw hart, en Gij zult millioenen ten zegen xijn."
+
+</text>
+<image timestamp="2002:08:14:00:05:23.00" size="254798">D100002Z.TIF</image>
+</page>
+</document>

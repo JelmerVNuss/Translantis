@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250110</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2483
+Volgens nevenstaande foto leveren wij prima
+Ledikanten met spiraalmatras en verstelbaar
+pel uw, zwart gelakt ƒ 13.50, wit gelakt/14 50, goed
+verpakt onder rembours door geheel Nederland.
+
+NV. Beddenfabriek DE ZWAAN,
+
+GOUDSCHEWEG 138—140—142, ROTTERDAM.
+Tel. 10345. Giro 13286.
+Vraagt prijs bij grootere afname voor Hotels en Pensions.
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Spoolalltslt Int
+GEORGE H. LAGAS
+AMSTERDAM - Tel. 24611 - Andreas Bonnstraat 40
+Electrische Luxe Brood bakkerij
+Specialiteit in alle Broodsoorten
+HET PARAPLUIE-MAGAZIJN VA.N DE FIRMA
+
+-:- B I E G E L A A R
+-:
+VEENESTRAAT 31 IS VERPLAATST NAAR
+
+P A P E S TR AAT 18
+
+DEN HAAG TELEPHOON H. 2502
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+BERARD B. RIJKE J r.
+Binnon Architectuur
+M MM TE L 122 - Tolof. 46815
+Complote Moubiloorlng
+TELEPHONE
+
+Rij w iel'Sloten
+Absoluut niet op het gevoel
+te openen, daar een speciale
+sper inrichting is aangebracht.
+Net/. Oct. W671
+
+O. R. P. 393314
+Telephone Lock Cy.
+Prijs f 5.% - - ZEIST
+DAHES!
+Laat uw wasch behandelen
+door de wasscherij
+
+Einki",TiUii[mr.2Z-H. Til. 23125
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEIDIGdtCo.
+G. J. DE KONING 4 h • Keizersgracht 447
+(voorheen LEIDSCHESTRAAT 69)
+- SANITAIRE INRICHTINGEN
+Ni .REFORM
+Djr. E. Boerma
+GüONINGEN AMSTERDAM
+Heerestr. 8 Rokin 10
+Dames- en
+HeerenKleedermakerij.
+.Coupeun door het geheele
+land te ontbieden".
+B.Y. D. HOGENBIRK &amp; ZOON's
+
+IJzer- en Staalindustrie
+
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN)
+TELEFOON 1442
+
+Conslrnctiewerkiilaatsen, Machinefabriek, Uzeren Geoonwen,
+Overkappingen, Bruggen, Kolommen, Reservoirs, enz.
+Speciale afdeeling Hekwerken en Draadafscheidingen. Diverse Vlechtwerken
+N A A l M A e H l NES
+LEEUWARDEN V/H FIRMA NAUTA
+AMSTERDAM. N.Z. VOORBURGWAL 75A-77
+ERKRIJGDAAR BIJ
+
+DE VOORNAAMSTE
+
+
+NAA1MACHINE
+HANDELAREN
+
+IN NEDERLAND
+AGENT VOOR AMSTERDAM P. BOBELDIJK ROZENGRACHT 63 TELEF. 34212
+REKLAME VERKOOP
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiin
+WOLLENVESTEN
+
+RECHT- EN VESTMODEL
+
+MET OF ZONDER MOUWEN,
+IN DIVERSE UNIE-KLEUREN,
+FANT. STREPEN EN RUITEN
+10.50 9.50
+8.50 7.50
+6.50 4.50
+32
+
+GERZON
+HERENMODEMAGAZIJN
+KALVERSTRAAT 80—82
+KIPS &amp; C°.
+SCHIEDAM
+Plaatijzeren Reservoirs, Buisleidingen,
+Scheeps-Tanks
+Autogene Lasschinij
+BJASPIBOMMB:
+BOEKBINDER
+KBRK5TRAAT55
+==^==___=_ AMSTBDAM
+Illustratiedruk-papier van de Firma C, G. A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:02:23:47:28.00" size="144787">00000591.TIF</image>
+</page>
+</document>

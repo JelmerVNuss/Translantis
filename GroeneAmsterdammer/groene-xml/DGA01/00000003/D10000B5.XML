@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040320</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD YOOR NEDERLAND.
+No. 1395
+gegeven op alle vragen, die nog te doen
+waren.
+De vorige maand werd de inrichting
+voor iet eerst in werking gesteld in
+tegenwoordigheid van dea Hoofdinspec
+
+teur eter Volksgezondheid te 's
+Hertogenbosch en van de leden der Gezondheids
+
+commissie voor Ginneken e. O.; de leiding
+is bestemd voor de levering van 3000
+kub. M. water per etmaal, doch voors
+
+hands slechts ingericht voor de helft
+dier hoeveelheid, omdat aanvankelijk de
+behoefte der bevolking daaraan genoeg
+heeft. Het water der rivier de Mark"
+wordt na snelle zandfiltratie opgepompt
+en in de cylindervormige reservoirs in
+den toren zoo innig met ozon vermengd,
+dat alle voortbestaan van organische
+stoffen van welken aard ook onmogelijk
+wordt.
+Een eigenaardig voordeel van het
+ozonsysteem boven elke andere wijzen van
+waterzuivering is nog, dat van te voren kan
+worden bepaald hoeveel ozon noodig is om
+het verontreinigde water te zuiveren. Bij
+eenvoudige zandfiltratie zal weliswaar
+ook de graad der onzuiverheid van het
+water der prise d'eau den meer of
+minderen duur en de intensiteit bepalen,
+waarmede de zandfilters moeten werken,
+maar constante verhoudingen zijn
+moeielijk vast te stellen. Bij de
+ozonzuivering kan worden nagegaan hoeveel
+onzuivere bestanddeelen vernietigd
+worden door het invoeren van bepaalde
+hoeveelheden ozonlucht en kan men de
+zekerheid verkrijgen van algeheele ver
+
+nietiging, wanneer slechts zorg wordt
+gedragen, altijd iets te veel ozon door
+het water heen te voeren.
+Ifu de eerste complete inrichting op
+groote schaal is tot stand gekomen, is
+het gebleken, dat zelfs deze overmaat
+van ozon, die voor de zekerheid der
+reiniging wenschelijk is, de kosten niet
+bezwaart. De prijs van het drinkwater
+wordt bij oordeelkundige aanwending
+van ozon slechts met de fractie van een
+cent per kubiek Meter verhoogd boven
+hetgeen thans voor leidingwater op de
+meeste plaatsen moet worden betaald.
+Heeft men dan ook al vele jaren lang
+het ozonwater als het leidingswater
+der toekomst bestempeld, toch stuitte
+men tot heden steeds op praktische be
+
+zwaren; nu het bewijs geleverd is, dat
+deze te overwinnen zijn, staat niets de
+verdere toepassing in den weg.
+Toen wijlen Tindal bij Parijs zijn wel
+
+geslaagde proefnemingen deed met de
+nieuwste ozon-installatie, die een produc
+
+tievermogen bezat van 9000 kub. M.
+drinkwater per etmaal en die alleen ten
+gevolge van financieele moeielijkheden
+geen voortgang hebben gehad, schreef
+het Journal des Débats op 6 Aug. 1896
+aan het slot van eene warme aanbe
+
+veling dezer methode: Nous pourrons
+dans quelque temps, goilter Ve.au ozonisée
+et juger nous-mêmes de l'efficacitédu
+tratteinent lectrique. Il va de soi que
+qui peut Ie plus, peut Ie moins", et qu'il
+faut s'attendre a voir pénétrer aussi dans
+les nwisons particulières Vozoniseur
+domestique. On prendm Télectriciténécessaire
+au réseau lectrique de la rue et, en
+quelqufs minutes, Vozoniseur transformera
+T eau cnargée de microbes en eau excellente.
+Et voiiïi comment Tozone, dont on parlait
+si pau, est appeléu avoir une brittante
+destinée et comment notre génération aura
+assktéa la grandeur et a la décadence
+der fcltres.
+Zoover is het nu nog wel niet, dat in
+ieder huis aan den watermeter een
+ozonapparaatje kan worden aangebracht, dat
+aangesloten aan een electrische centrale
+het water uit een leiding afkomstig van
+mogelijk achtergebleven bacteriën vrij
+maakt, maar toch mag deze mogelijkheid
+in de toekomst niet worden ontkend en
+dank zij de thans in ons land door de
+hierboven aangegeven drinkwaterleiding
+te Ginneken verkregen resultaten, is
+proefondervindelijk en op groote schaal
+bewezen, dat iedere gemeente in staat
+is absoluut zuiver en niet te duur drink
+
+water te verkijg'ren.
+Tot geruststelling van enkelen, die,
+zooals een vegetariër op het laatste
+Nederlandsen hygiënisch congres, beducht
+zijn, dat achterblijvende ozon in het water
+de spijsvertering zou kunnen benadeelen,
+of anderen, die vreezen voor aantasten
+van de loodsoldeeringen der leidingbuizen
+door deze actieve zuurstof, kan worden
+medegedeeld, dat de overmaat van Ozon,
+die voor de zeke.rheid der werking
+wenschelijk is, onmiddellijk uit het water
+verdwijnt bij het aftappen.
+Dr. G. W. BRTJINSMA.
+NOT A.
+
+uu de ozondrinkwatervoorziening zich on
+
+getwijfeld van Nederland uit zal verspreiden,
+is het wenschelijk het aandeel en de
+verdieasten vast te stellen van allen, wier namen
+' in ons land met deze uitvinding en haar
+exploitatie gemoeid zijn, zooals dit uit vol
+
+komen zekere bron kan geschieden.
+Irr het jaar 1893 is de heer Sehneller,
+toenmaals te Keulen woonachtig en onder
+wiens onmiddellijk toezicht de geheele in
+
+richting te Ginueken thans is tot stand ge
+
+komen, op aansporing van den heer Tindal
+naar Holland gekomen, om te Oudshoorn de
+sterilisatie van water door ozon praktisch in
+werking te brengen. Reeds 6 a 7 jaren lang
+had dezelfde heer Sehneller zich bezigge
+
+houden met dit procédéen met de toepas
+
+sing van ozon voor andere doeleinden. De
+ozonisatie van water wasvoor hem reeds lang
+tot klaarheid gekomen, doch de middelen
+voor practische toepassing ontbraken hem,
+waarom hij het aanbod van deii heer Tindal
+volgaarne aanvaardde, die deze middelen te
+zijner beschikking stelde.
+Tengevolge van allerlei omstandigheden,
+die echter met de methode niets te maken
+hadden, vlotte de zaak minder gemakkelijk
+dan de uitvinder gemeend had te mogen ver
+
+wachten. Intusschen was op aanwijzing van
+den heer Tindal in 1895 de heer Vosmaer
+insgelijks aan de inrichting verbonden en
+vertrok deze mede naar Parijs, waar de
+Commission de l'hygiène op haar tentoonstelling
+op het Champ de Mars voor den heer Tindal
+een plaats ter demonstratie had baschikbaar
+gesteld. Het gevolg was dat op zeer
+voordeelige voorwaarden een overeenkomst tot
+ozonwaterlevering voor Parijs werd verkregen,
+en dat de heer Sehneller opdracht ontving
+eene aansluiting tot stand te brengen aan
+eene voor de watervoorziening van Parijs
+bestaande priae d'eau te St. Maur, Deze ge
+
+heele onderneming leed langen tijd aan bloed
+
+armoede en kwam weliswaar eindelijk tot
+stand, doch lang nadat de heer Sehneller
+zich had afgescheiden van don heer Tindal.
+Deze laatste had namelijk het door den heer
+Sehneller aan hem overgedragen patent ver
+
+kocht aan eene Maatschappij, die weldra
+bleek aan haar verplichtingen niet te kunnen
+voldoen. De heer Vosmaer luid zich reeds
+vroeger genoopt gezien zich terug te trekken,
+en trachtte na dat tijdstip de opgedane
+wetenschappelijke ervaringen zelfstandig in
+de praktijk toe te passen. Hij w ir t eenige
+mannen van naam om zich te vereenigen,
+en eene Maatschappij te vormen, en kan
+thans wijzen op een inrichting ter proef
+
+neming, welke hij dezer dagen aan het
+Rotterdamsch Gemeentebestuur heeft aangebo
+
+den om onderzoekingen te doen; hetzelfde
+aanbod is ook geschied door de ondernemers
+der installatie te Ginueken.
+In 1897 zond de heer Tindal den heer
+Sehneller naar Brussel om voor de tentoon
+
+stelling aldaar een proefinstallatie in orde te
+maken, die 30 kub. meter door ozon gesteri
+
+liseerd water per uur zou moeten leveren.
+Rcgeering en deskundigen gaven openlijk
+getuigenis van het welslagen dezer proef en
+beloofden medewerking voor de toekomst;
+aan de gemeente Blankenborgh werd reeds
+een rijkssubsidie toegezegd, indien zij een
+drinkwaterleiding volgens dit stelsel weuschte
+tot stand te brengen. Allerlei omstandig
+
+heden brachten echter een kink in den
+kabel, waartoe zeker niet het minste bij
+
+droeg, dat de heer Sehneller weder naar
+Parijs werd teruggeroepen door den heer
+Tindal en de onderneming te Rhinkenbergh
+in handen werd geg'eveu van een
+jongmensch, die nimmer ernstige studie had ge
+
+maakt van electro-technische wetenschap.
+Sedert het jaar 1900 ongeveer is de uit
+
+vinder Sehneller voor goed weer naar Neder
+
+land teruggekeerd en ijverig ter zijde gestaan
+door den heer Siinon, heeft hij alle krachten
+ingespannen om voor «Ie gemeenten (finneken
+en Teteringen bij Breda een rivienvaterleiding
+tot stand te brengen, waarbij tevens gelegen
+
+heid bestaat aan deze gemeenten, tot nog
+toe zonder gas, electrische verlichting te
+verschaffen.
+Nieuwe patenten stellen den heer Sehneller
+reeds in staat om ook in het buitenland
+zijn systeem in toepassing Ie brengen.
+Indien, wat thans nauwelijks meer be
+
+twijfeld mag worden, Nederland het voor
+
+beeld geeft van practische toepassing der
+waterozonisatie, en het buitenland dit weldra
+zal navolgen, komt dus voor een groot deel
+de eer daarvan toe aan den heer Tindal, die
+aanvankelijk de zaak heeft durven onder
+
+nemen en gelden daarvoor heeft weten te
+vinden; den heer Yosmaer die steeds ijverde
+voor de watorozonisaitio en een inrichting
+tot proefneming heeft gesticht; doch vooral
+in niet minder mate aan de volharding van
+den uitvinder den heer Sehneller en den
+heer Simon, die genoegzaam vertrouwen in
+de uitvinding bleek te bezitten om dezen
+bij te staan met alle hem ten dienste'
+staande middelen. G. W. B.
+De ftrinïwater-iffestie te Rotterdam
+Geachte Eedactie,
+Het spijt me, u nogmaals lastig te moeten
+vallen, na mijn uitvoerige uiteenzetting van
+de typhus-geschiedenis te Rotterdam, in het
+vorig no., om nog een kleine plaatsruimte
+ten einde, nadat mij van volkomen bevoegde
+zijde enkele inlichtingen zijn gegeven, mijne
+conclusiën in deze belangrijke zaak
+eemgermate te wijzigen ;
+1. is mij gebleken, dat dr. Van 't Hoff
+reeds vroeger, vóór deze jongste
+typhuskwestie aan de orde kwam, zijn ontslag had
+aangevraagd, en hem dat ook reeds vroeger,
+met ingang van l Mei was gegeven;
+2. Dat de burgemeester zijue, wat ik zacht
+noemde ongeloofelijke", mededeelingen, over
+het niet bij vloed inlaten van water in de
+bassins, terwijl toch n door B. en W., n
+door de Directie schriftelijk was erkend, en
+ook op de curve was te zien, dat dit wél
+geschied was, ontleende aan de
+mededeclmgen van.... dr. Van't Hoff, die waarnemen'!
+directeur was; en die cerxt verklaarde, wél
+water bij vloed te hebben ingelaten, en later
+aan de Commissie van de Drinkwaterleiding
+schreef, dat dit eene vergiftiging" was
+geweest.
+De zonderlinge figuur die de burgemees
+
+ter maakte, tegenover de mededeelingen van
+dr. Dutilh, komt dus op dat punt voor reke
+
+ning van hern, op wiens gezag hij zulks
+deed, n.l. dr. Van 't Hojt';
+3. dat reeds half November, toen hot kind
+op den toren aan typhus ziek lag, dr. Van
+'t Hoff waarn. directeur was. en dus toch in
+die kwaliteit wel degelijk de autoriteiten, of
+de Gczondheids-Commissie daarvan op de
+hoogte had moeten stellen.
+Uit deze medodeelingen blijkt dus m. i.
+maar mér ook niet dat bij degenen, aan
+wien plicbts-nalatigheid moet verweten wor
+
+den, óók ter doge dr. Van 't Hou' genoemd
+moet worden.
+Ik voeg hier bij, dat deze rectificatie allén
+plaats kon vinden door eenige mededeelin
+
+gen, die tot nu toe niet gepubliceerd zijn, en
+ik, vooral wat het onder 1. genoemde betreft,
+dat bij het schrijven van mijn artikel onmo
+
+gelijk kon weten.
+Te wenschen is het, dat. indien er weer
+een bacterioloog benoemd wordt, dezen wet
+vergund wordt, buiten zijn zoo verantwoor
+
+delijke betrekking nog zooveel andere op
+
+drachten en baantjes voor derden te aan
+
+vaarden, dat nonchalance in zijn gemeente
+
+betrekking daarvan het noodzakelijk gevolg
+moet zijn.
+Dankend voor de plaatsing, S.
+Het Damplein.
+Woensdagavond heeft de Algemeen»
+"Winkeliersvereeniging onder voorzitterschap van
+den heer Meuwsen, met den heer Fiedeldy
+Dop als inleider, eene vergadering gehou
+
+den, waarin de volgende motie is aan
+
+genomen :
+De vergadering, gehoord de beraadsla
+
+gingen en overtuigd van de
+wenschelijkheid om het vrijgekomen terrein der oude
+Beurs niet te doen bebouwen, en, mocht
+bebouwen onvermijdelijk zijn, dan aller
+
+minst met een warenhuis; besluit eene
+commissie te benoemen, die in opdracht
+heeft, plannen te ontwerpen en maatregelen
+te treffen, waardoor een gewenschte oplos
+
+sing verkregen kan worden in het algemeen
+belang van Amsterdam.
+De werkzaamheden dezer commissie zijn
+als volgt omschreven: 1. op touw zotten
+van een algemeene petitie, waarin bij den
+gemeenteraad wordt aangedrongen op
+nietbebouwing; 2. commissies te benoemen uit
+haar midden, ter verkrijging van een fonds
+om het terrein eventueel aan te koopen;
+3. verhoogd straatgeld te verkrijgen voor
+de huizen aan de stille zijde van het
+Damrak; 4. plannen te ontwerpen ter verdere
+uitbreiding der verfraaiingen in verband
+niet het eventueel aan te leggen
+Beursplantsoen en demping van het Rokin; 5. bij
+de regeering aan te dringen op tijdige
+tusschenkorast, in geval van verkoop van het
+terrein aan particulieren."
+De motie werd bij zitten en opstaan aan
+
+genomen. Medegedeeld werd dat de vol
+
+gende hoeren zullen worden aangezocht,
+om zitting te nemen in bovengenoemde
+commissie: Bart van llove, voorzitter van
+Arti et Amicitia; Himon Maria, voorzitter
+van St. Lucas; Kil. Cuypers, voorzitter der
+Maatschappij voor Bouwkunst; H. P.
+Berlage, voorzitter van Architeotura et
+Amieitia; Kromhout (architect), Ijzerman (raads
+
+lid), mr. Sehoelvinek, Wackers, Tutein
+Nolthenius, Fiedeldy Dop, mr. van Xierop,
+J. Schmitz, mr. II. P. van Ogtrop, mr. Th.
+•Stuart, dr. J. Th. de Visser, dr. llubrecht,
+prof', mr. Josephus Jitta, W. llovy, S. .P.
+van Keghei], mr. C. Friokers, A. .). van
+Laar, G. Muller, C. H. van do Velden,
+Sigmund Eiohette, Meuwsen en Moen.
+Hiermee is ook o.i. een goed werk verricht.
+Natuurlijk zullen de omlerdeeleu van de
+opdracht aan de commissie gedaan, stof'
+genoeg tot besprtkin» geven! Alleen
+meenen wij te moeten verklaren, dat een ge
+
+meente als Amsterdam, die in t hart van
+de stad ecu terrein bezit, dat voor velerlei
+stedelijke inrichtingen, waaraan later de
+behoefte zich kan doen gevoelen, geschikt
+bouwterrein zal kunnen zijn, niet zoo kort
+
+zichtig zich. mag aanstellen, om dat te
+verkoopen.
+Tegen een r"Waarenhaus", op to trekken
+anders dan op de wijze, waarop de heer
+Waterpasman in dit Nr. daarover aan den
+heer Hellingman schrijft d. w. z. er den
+draak mee stekende achten wij overbodig.
+iiiiiimMiiiMiiir.imuHiiiiiiiiiiiiiimiiHiiiiiii
+iMtiiiiiiiiiiiiiiiiiiiiiiii»
+Sociale,
+iiititiiitiiiMKiiintiiiiiiiMiiitiiMiii
+VermMerüi Tan oen arMstfld voor vrouwen
+ia de
+Kot vorige jti.iv is aan de Inspecteurs
+van den Arbeid iu Pruissen de bijzondere
+opdracht verstrekt hunne meening te doen
+kennen over den duur van den dagelijksohen
+werktijd der in fabrieken werkzame vrouwen
+boven de 1G jaar, en over de doelmatigheid
+on de uitvoerbaarheid van een vermindering
+van den tegenwoordig wettelijk
+vastgestelden werktijd. Op grond van deze onder
+
+zoekingen moet de vraag beantwoord wor
+
+den of het doelmatig en uitvoerbaar wordt
+geacht den dagelijkschen arbeidstijd van
+vrouwen boven de 1G jaar van 11 op 10
+uur te verminderen. Deze oVi'ïPJ'KOckiiigen
+zijn neergelegd in een rapport, góuiolu:
+Arbeitszeit der Ar'oeiterinnen ber 1G Jahro
+in Fabriken und diesen gloichgestollten
+Anlagen riach den Krhebungon der K
+uiglich Preussischen Gewerbeaufsichtbcambten
+und Bergbehörden im Jalire 1902."
+Ook bij ons te lande is het vraagstuk
+van verkorting van den Arbeidstijd meer
+
+malen ter sprake gekomen zonder dat een
+algemeen gevestigde opinie zich daaromtrent
+gevormd heeft. Terwijl eenerzijds de stel
+
+ling wordt verkondigd, dat verkorting niet
+alleen is in het belang van den arbeider,
+maar ook in dat van den patroon ten
+gevolge van meerder productieverniogen
+van het personeel op dit verschijnsel
+hebben do Inspecteurs ton onzent dikwijls
+gewezen, zijn anderen huiverig op dit
+punt, zoodat deze niet een proefneming
+durven te wagen. Daarom kan bij liet
+uiteenloopen der ineeningen het allicht zijn
+nut hebben eens stil te staan bij de oordeel
+
+vellingen der Pruisische Inspecteurs.
+Het is dan gebleken, dat in Pruissen
+bijna 71.3 pet. der bedrijven met bijna Gl.8
+pet. dor vrouwen reeds een werktijd van
+ten hoogste 10 uur hebben ingevoerd.
+In West- en Xuid-Duitschland is de ver
+
+houding nog eerder gunstiger dan onguns
+
+tiger.
+Op grond van deze ervaringen spreken
+21 van de 28 Inspecteurs zich uit ten gunste
+van do wettelijke invoering van den
+10urigen maximalen arbeidstijd voor volwassen
+arbeidsters. Vermeld dient echter te worden,
+dat ook van degene, dio voor de verkorting
+zijn, velen beweren, dat de wettelijke in
+
+krimping van den arbeidstijd slechts uit
+
+voerbaar is, wanneer bepaalde
+overgangsen uitzonderingsbepalingen gelijktijdig in
+het loven worden geroepen.
+De moeilijkste regeling betreft evenwrel
+de textiel-nijverlieid.
+Do statistiek leert, dat iu Pruissen 52.5
+pet. van de bedrijven met bijna 60.3 pet.
+der arbeidsters een arbeidstijd hebben van
+10 tot 11 uur.
+De Inspecteurs zijn over de vraag of do
+invoering van den 10-urigen maximalen
+arbeidstijd voor arbcidgovors en
+arboidncmors wenschelijk is, zeer verdeeld.
+De Inspecteur in liet district Potsdam
+meent, dat het aan geen twijfel onderhevig
+is, dat de invoering van den 10-urigen werk
+
+dag voor de vrouwen, die voor de mannen
+ton gevolge moet hebbeu; want eenerzijds
+werken mannen en vrouwen dikwijls ge
+
+zamenlijk en hangt de arbeid van den een
+te nauw samen met dien van den ander,
+en anderzijds bestaat bij de arbeiders zelven
+een te sterk streven naar verkorting van
+den werktijd. Dit streven heeft reeds in
+zooverre gevolg gehad, dat reeds overal
+waar geleerde arbeiders in grootere massa
+aanwezig zijn en door de vakorganisatie
+sterk geworden zijn, alzoo voornamelijk in
+de groote steden en de nijverheidscentra,
+een noemenswaardige verkorting van den
+werktijd bereikt is en -wel zonder dat de
+Iconen zijn gedaald. De Inspecteur meent
+ten slotte, dat de invoering van den ar
+
+beidstijd van 10 uur voor vrouwen geene
+moeilijkheden zal teweeg brengen,.wanneer
+aan de fabrikanten een voldoende over
+
+gangstijd wordt gelaten en hun, vooral in
+den eersten tijd vergund wordt tijdelijk
+van den regel af te wijken.
+In aansluiting hieraan gaat deze Inspec
+
+teur in het bijzonder de verhoudingen in
+de doek- en tapijt-industrie na en betoogt,
+dat inderdaad in de doekfabrieken een in
+
+korting van, den arbeidsduur een vermeer
+
+dering van personeel en machines eischt.
+Men zal derhalve aan deze industrieën tijd
+moeten laten tot het aanschaffen van
+meerder personeel en machines, lipt eerste
+zal echter in sommige streken moeilijkheden
+ten gevolge hebben door h t ontbreken van
+voldoende en goede werkkrachten. Ander
+
+zijds is het duidelijk, dat do loonen bij
+gebrek aan werkkrachten zullen stijgen,
+Deze kunnen echter door do fabrieken niet
+betaald worden, waar zoowel het eigen als
+het buitenland scherp concurreert, indien
+niet de toevlucht wordt genomen tot
+Sehnellstühlcn" en Doppelstuhlarbeid".
+Het laatste is slechts bij een deel den ma
+
+chines mogelijk en bovendien eischt deze
+arbeid mannelijke kracht en is deze bij de
+arbeiders zelven niet geliefd. De fabri
+
+kanten zelf hebben geen gevestigde meenirig
+over de gevolgen van do invoering van den
+10-urigen werktijd. De Inspecteur besluit
+aldus: dr.ss in den verschiedonen
+Tuchfabriken die Einfnlmmg des
+/nhnsttmdcntages recht versvhieden einwirken dürfe,
+da der Verlust an Arbeitszeit nicht berall
+und nicht vollstiindig durch sclmelleve
+Arbeit der Maschinea würde ausgegliehon
+werden können." Ongunstig vooral y,al de
+toestand worden voor du exportfabrieken.
+Eveneens zijn de verhoudingen in de
+tapijtfabrieken en de kamgarciispinnerijen. Trots
+deze bedenkingen komt de Inspecteur tot
+de conclusie dat zij niet zoo groot zijn of'
+zij kunnen door gepaste maatregelen uit
+don weg geruimd worden, in de volgende
+bewoordingen geeft hij deze, maatregelen
+aan : Zunaehst würde man zwischen dein
+Tag, an dein das Oesetz erlasseu werden
+wird, und de m Tag des lukrafttvetons eiueii
+genügend langen /wisohenrauin logen mus
+
+sen, damit die Fabriken sichauf'die kürzere
+Arheitszoit einrichten können, ohne die
+Maschinenfabriken in eine verhiinguisvollo
+liochfint zu bringen. "\Veiter würde im
+(tosetz die Möglichkeit vorgoselien werden
+mussen, dass besonders ungiinstig
+gestcllten Industrien und Hetrieben Ausnalinien,
+wenigstens fiir einige Jalire gewaiirt werden
+kimnten, und denselben den bergang zu
+zohnstiindigen Arbeitszeit zn erloichtern.
+Sodnnn würde man den Fabrikanten eine
+scrössere Bewegungsfreiheit bezüglich der
+L'eberarbeit gcben mussen."
+De ambtenaar in Frankfort aan de Odor
+in wiens district de verhoudingen iu de
+textielnijverheid vrij wel gelijk zijn aan
+die in Potsdam, komt tot een tegenoverge
+
+stelde meening. Volgens hem zal de invoe
+
+ring van den lO-urigeri arbeidsdag voor
+vrouwen tengevolge hebben, dat de
+doekfabricage moeilijk zal kunnen concurroeren,
+tenzij met opoffering van groote kosten en
+verlaging der loonen. In de linnenweverij
+kan wel de 1(}1A urige werktijd of ook de
+60 urige arbeidsweek vvovdeu ingevoerd,
+maar voor den 10 uvigen werktijd is het
+oogenblik nog niet gekomen. Hij is voorts
+van meening, dat door een verkorting van
+den arbeidstijd de gezondheidstoestand in
+het algemeen niet verbeterd zal worden.
+Hem werd, door de. wevers meermalen ver
+
+zekerd, dat die 12 en 13 urige arbeid in
+clou langzaam werkende weefstoel hen niet
+zoo vermoeid hêci't als thans de 11 urige
+en dat zij daarom ook van den langeron
+vrijen tijd weinig genot hebben. Ook in
+zedelijk opzicht zouden zich de verhoudingen
+sedert de invoering van den verkorten
+werktijd niet verbeterd hebben. Het is
+buiten twijfel, dat het getal der onwettige
+geboorten toegenomen is sedert 1892 met
+de verkorting van den arbeidsdag aldus
+laat de berichtgever zich uit en hij komt
+dan tot deze slotsom :
+De wettelijke invoering van den 10 urigcn
+werktijd voor do vrouw is in de meeste
+takken van industrie uitvoerbaar, in de
+textielnijverheid evenwel zal deze maatregel
+voor arbeidgcvers en arbeidnemers groote
+nadeelen ten gevolge hebben. De invoering
+is echter niet doelmatig en niet aan te
+bevelen, daar de gezondheidstoestand der
+arbeidsters door andere invloeden meer
+nadeel ondervindt dan door den langen
+werktijd. Wel is de invoering van een
+arbeidsdag van 10 uren voor de getrouwde
+vrouw noodig, opdat zij tijd heeft zich meer
+aan hare huishouding en hare kinderen te
+wijden. Daarnevens moeten de wetten ter
+bescherming van de gezondheid der arbeid
+
+ster nog zooveel verscherpt worden als
+noodig is om haar uit te sluiten van hot
+verrichten van die werkzaamheden welke
+voor hare soxe niet geschikt, zijn.
+De Berlijiische rapporteur, die gestemd
+is voor do invoering van den verkorten
+arbeidsduur in Berlijn is de 10 urige
+arbeidsdag reeds thans vrijwel ingevoerd—,
+merkt evenwel op, dat menige industrie den
+langeren arbeidsduur behoudt ten gevolge
+van de scherpe concurrentie met liet
+buitenland, zoo de textielnijverheid; door
+deze wordt verlangd een internationale
+regeling.
+Do Breslausche Inspecteur meent, dat de
+cventueele vermindering van den arbeids
+
+tijd aan do arbeidsters in do spinnerijen
+geene of ten hoogste weinig beteekonende
+geldelijke nadeelen zal berokkenen, terwijl
+anderzijds de zegeningen van een lichame
+
+lijke ontlasting haar deel zullen worden.
+Daarentegen is zijn ambtgenoot voor
+Oppcln gekant tegen de verkorting. Betreffende
+do spinnerijen merkt hij op: Ingeval de
+arbeidsduur in dit bedrijf tot op 10 uur
+wordt verminderd, zoo zal do reeds tot het
+uiterste opgevoerde productie afnemen. De
+gevolgen daarvan zouden zijn een
+heenzouden der vrouwelijke arbeiders of een
+kostbare uitbreiding der inrichtingen. "\Yaiit
+over het algemeen is het niet aan te nement
+dat bij een vermindering vanden 11-urigen
+tot een 10-urigen arbeidsdag de productie
+op dezelfde hoogte zal blijven. Ook de
+concurrentie met het buitenland zal nadee
+
+len en moeilijkheden veroorzaken. Evenzoo
+oordeelt de Magdeburger rapporteur.
+De berichtgevers in Merzeburg, Erfurt,
+Hannover, Hildesheim, Munster, Minden en
+Arnsberg zijn voor de verkorting, al ont
+
+kennen eenigen hunner niet, dat wel eens
+moeilijkheden te duchten zullen zijn en dat
+het geweascht is voorzichtig te werk te gaan.
+Enkele Inspecteurs pleiten bij de invoe
+
+ring van den verkorten arbeidsduur voor uit
+
+zonderingsbepalingen voor enkele industriën,
+zoo de . Inspecteurs te Lïineburg, Kassei,
+Wiesbaden, Coblenz, Düsseldorf, Keulen en
+Aken, al zouden zij in het algemeen de
+verkorting toejuichen en al verwachten zij
+daarvan groote voordeelen.
+Ziehier dus een staalkaart van meeningen.
+"Wist men het nog niet, dan zal thans wel
+gebleken zijn, dat het vraagstuk van de
+verkorting van den arbeidsduur niet zoo
+gemakkelijk is op te lossen, omdat zij met
+vele omstandigheden samenhangt en ook
+de buiteulandsche concurrentie een woordje
+medespreekt. Ware het juist, dat een ver
+
+mindering van den werktijd steeds de
+prodructie op dezelfde hoogte zou houden, dan
+waren wij voor een groot deel klaar, maar
+aan alles is een grens en zoo ook aan het
+productie-vermogen. De ondervinding zal
+in deze een leermeester moeten zijn en de
+werkgevers zouden verstandig handelen.
+indien zij steeds voortgingen met het doen
+van proefnemingen. /
+Kampen. Mr. Dr-II. S. VELDMAN.
+Mnzieïin de Hoofdstad,
+
+Van de vier symphoniën, die door
+Schumann gecomponeerd zijn, heeft de tweede
+zich nooit mogen verheugen in de populari
+
+teit die aan de andere is te beurt gevallen.
+Mijns inziens niet ten onrechte. De eerste
+Satz, het Allegro, waaraan men bij een
+symphouie in den regel de grootste beteekenis
+toekent, het deel dat meestal zijn stempel
+drukt op het geheele werk, staat hier bij
+Schuuiaim op verre na niet zoo hoog als in
+zijne andere symphonieëii. Niet alleen neemt
+de phantasie hier geen hooge vlucht, ook
+de instrumentatie, met haar voortdurend
+overheerschende en opdringerige tonica- en domi
+
+nant-trompetten, biedt al zeer weinig
+bekoorlijks, terwijl de bewerking evenmin zich
+onderscheidt door dat pittige en persoonlijke,
+hetwelk men meestal bij Schumaun's muziek
+aantieft.
+Ken gelukkig contrast hiermede vormt het
+tweede deel: Het is een Allegro vivace in
+het karakter van Scherzo" doch niet, zooals
+gewoonlijk in %, maar in '2/4 muat. Zeer
+bekoorlijk zijn de dartele en speelsche
+vioolrassages die het geheele eerste gedeelte van
+het Scherzo doorloopen ; evenzoo de
+triolenfiguren van het eerste Trio. liet tweede Trio
+staat m. i. volstrekt niet achter in belangrijk
+
+heid bij het eerste. WèPheeft het een anderen
+geest; liet is veel rustiger, maar juist daaraan
+heeft men behoefte na al die bewegelijke
+passages.
+Het Adagio mag men mede beschouwen
+als een der gelukkigste en melodierijkste
+inspiraties van Sehumann. Vooral het
+Zwiegesprach" tusschen clarinet en oboëia vol
+poëzie.
+Het Finale staat met deze beide deelen
+niet op gelijke hoogte; toch acht ik het be
+
+langrijker dan het eerste deel.
+In ieder geval deed het mij genoegen
+Sclmmann's tweede symphonie op het pro
+
+gram ma van het laatste abonnementsconeert
+iu het Concertgebouw te kunnen ontmoeten,
+te meer omdat Je uitvoering in ieder opzicht
+voortreffelijk was. Dit was niet minder het
+geval met Brahm's Akademische
+Pestouverture, een kernachtig stuk, waarin verschillende
+studentenliederen met groot meesterschap
+zijn bewerkt en dat zeer brillant en enthou
+
+siast eindigt, zoodat het begrijpelijk is, dat
+het stuk, pas na zijn verschijnen, niet alleen
+te Breslau furore maakte (Brahms heeft de
+ouverture opgedragen arm de Universiteit
+te Breslau, waar men hem het eeredoctoraat
+had aangeboden) maar over de geheele wereld
+een schitterenden triompbtocht volbracht.
+Do solist van den avond was de ook hij
+ons wel bekenden pianist Eduard Risler.
+Hier en daar, vooral te Berlijn, wordt
+Risler als de eerste onder de pianisten van den
+tegenwoordigen tijd vereerd. Dit uu, dunkt
+mij, is wel wat koen en gevaarlijk, aangezien de
+qualiteiten die bij zulk een classificeeren in
+het spel komen, zoo enorm uiteenloopend
+zijn. Voor den een is opvatting en stijlgevoel
+alles, terwijl slordigheden in technisch opzicht
+in het geheel niet in rekening worden ge
+bracht. Voor den ander is een correct en
+geacheveerd spel met fraaie nuanceeringen in
+den aanslag (genre Kleeberg) liet non plug
+nllra. Een derde acht de technische vaardig
+
+heden wederom van zoo groot belang dat
+een pianist die niet spot met fabelachtige
+moeilijkheden (genre Rosenthal), voor hem
+niet onder de grooten der aarde kan worden
+gerangschikt. Het komt slechts zelden voor
+dat n pianist al deze eigenschappen in zich
+vereenigt. Misschien i-? er tot dusverre nog
+slechts n zoo geweest, n.l. de nog niet
+overtroffen Franz Liszt. Nu is het voor mij
+uitgemaakt dat Risler als pianist niet met
+Liszt vergeleken kan worden; maar tevens
+wil ik gaarne erkennen dat Risler voor imj
+een der meest sympathieke kunstenaars is
+van den tegenwoordigen tijd en wel door zijn
+grooten eenvoud en zijn zelfverloochening,
+ten gevolge waarvan bij hem zijn eigen per
+
+soon op den achtergrond treedt, ten gunste
+van den meester, dien hij vertolkt. Reeds
+het programma dat hij Donderdagavond had
+uitgekozen, pleit voor zijn artistieken zin,
+wars van alle effectbejag. Het G-dur concert
+en de sonate opus 111 van Beethoven richten
+zich niet tot den wuften genotzoekor. Zij zijn
+van te ernstige natuur en slechts degenen
+die in hooge kunstuitingen bevrediging vinden
+voor hun dorst naar muziek, kunnen volop
+daarvan genieten.
+Het hoofdmotief van Beotboven's concert,
+die paar maten, waarin de groote meester
+
+</text>
+<image timestamp="2002:08:14:23:01:14.00" size="603298">D10000B5.TIF</image>
+</page>
+</document>

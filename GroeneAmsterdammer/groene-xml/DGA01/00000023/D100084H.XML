@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261120</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+UIT HET KLADSCHRIFT VAN JANTJE
+
+GESCHIEDENIS DES VADERLANDS
+ZEVENTIENDE ZANG, II
+Maar zuinig, dat hij was ! Eens, toen een zware regen
+Hem plotseling overviel daar kon zijn muts niet tegen,
+Zijn Zondagsche baret nam hij die haastig af,
+Hield 't pronkstuk onder d'arm, en liep naar huis in draf.
+KARAKTERTREKKEN VAN KAREL V ANECDOTES
+
+Was Karel geen genie, 't wordt algemeen erkend,
+Dat hij zijn zware werk verricht heeft met talent.
+Hoewel hij goed kon slaan, en meestal wist te raken,
+Hij had de handigheid om zich bemind te maken
+Hij deed zijn best den geest der volken te verstaan,
+En sloot zich met gemak bij zijn omgeving aan.
+In Duitschland was hij stram, in Spanje hoog en deftig,
+Maar met de Vlamingen luidruchtig, vlot en heftig.
+En wat men dan ook van zijn Inquisitie dacht,
+Hij heeft hier toch maar orde, rust en bloei gebracht.
+Zijn levensdoel was hoog, zijn ziel was zonder boosheid;
+Hoewel hij vlagen had van loome lusteloosheid,
+Was hij gewoonlijk vlug en vaardig van besluit,
+En voerde, wat hem plicht scheen, met gestrengheid uit.
+En was het niet zijn plicht zichzelven te verheffen?
+Pleegt vorstenmacht en volkrenvreêniet saam te treffen?
+Zoo zag hij 't leven in; zoo streed hij eiken strijd,
+Schoon schijnbaar voor zichzelf, in dienst der Christenheid.
+Hij zocht in geen gebiedsverruiming ooit bevrediging,
+Hij vocht alleen, als 't moest; 't was altijd ter verdediging;
+Hij was geen duif, dat 's waar, maar ook geen nimmerzat,
+En heel tevreden met het beetje dat hij had.
+Zijn aard wordt negatief misschien het best beschreven:
+Hij was niet wreed, maar kon niet makkelijk vergeven.
+Pedant was Karel niet, maar menig oogenblik
+Tevreden niet zichzelf precies als u en ik.
+En, schoon hij niet graag had, dat men zijn deugden roemde,
+Het was hem aangenaam als men hem Caesar" noemde.
+Eerst was zijn trotsch devies Plus oultre" (steeds vooruit !)
+Daarna Nondum", (nog niet), wat wel zoo needrig luidt.
+
+Hij hield veel van de kunst, vooral van schilderijen,
+En mede dank zij hem kon Titiaan gedijen
+In 't onvolprezen werk, dat hij de wereld schonk;
+Te Weenen hangt Titiaan's portret van hem te pronk.
+Ook was hij muzikaal; dat zal ik je bewijzen:
+Hij nam een orgel mee zelfs op zijn verste reizen,
+En 't koor, dat voor hem zong, was altijd doodsbenauwd
+Voor 's keizers^kunstcritiek; hij hoorde iedre fout.
+Ook was hij humorist; hij mocht heel graag een grapje,
+En soms hield hij zichzelf zoo'n beetje voor het lapje.
+Bijvoorbeeld zoo. Hij wist, dat hij geen schoonheid was,
+Maar hoe z' 'm schilderden, het was hem nooit te kras.
+Zwijgt!" sprak hij eens, toen hij zich had doen conterfeiten,
+En 't hof den schilder overlaadde met verwijten,
+Hoe leelijker, hoe liever in effigie,
+Dan val ik in natura, nog allicht wat mee."
+En nog zoo'n aardigheidje kan ik u verhalen:
+Hij werd, al jong, gekweld door allerhande kwalen,
+Zijn vingers stonden krom, gekronkeld door de jicht,
+Geknobbeld en geknoest, verstijfd in elk gewricht,
+In alle kooten stram en stroef als roestig ijzer,
+En eens, toen een gravin haar hoogvereerden keizer
+Een doos geparfumeerde handschoenen van zij
+Gezonden had, met fraaie poëzie daarbij,
+Liet hij met schampren spot de schoone schenkster vragen,
+Er handen bij te doen, om al dat moois te dragen".
+Ook vond hij 't opperbest wanneer 't hem overkwam,
+Dat hem een ander goedig in het ootje nam.
+'t Menu verveelde 'm gauw; hij hield van variatie,
+En iedre kok was na twee maanden uit de gratie;
+Historisch nu is 't woord van een zoo'n keukenheid,
+Die wist, hoe Karel op horloges was gesteld:
+Is mijn menu niet goed, dan weet ik wel wat beters
+'k Serveer Uw Majesteit pastei van chronometers !"
+De keizer lachte luid, hetgeen alweer bewijst:
+Voor lachsucces wordt niet veel geestigheid vereischt,
+Dus ben je soms van plan een grappig stuk te schrijven,
+Dan raad ik je, maar dicht aan 't oppervlak te blijven.
+'t Theater-répertoire leert daaglijks deze les:
+Alleen de grofste gijn heeft bij ons volk succes;
+Wat speelt men ooit van Shaw, der humoristen koning?
+En Tropenadel had zijn dliizendste vertooning.
+
+De jacht liet Karel koud, schoon hij uitstekend schout,
+Daar hij de dieren liever levend zag, dan dood.
+Denk hier eens over na, hartstochtelijke jager,
+Gevoelt ge niet wat zielsverwantschap met een slager?
+CHARIVAR1US
+
+</text>
+<image timestamp="2002:09:26:09:35:05.00" size="170338">D100084H.TIF</image>
+</page>
+</document>

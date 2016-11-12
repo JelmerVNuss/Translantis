@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270924</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 24 SEPTEMBER 1927
+Nö. 2625
+-.-,„.
+
+DELFTSCHE POS?
+ONOVERTREFBAAR
+DE GROENE AMSTERDAMMER
+
+Weekblad yoor Nederland
+
+kost slechts f 2.70 per kwartaal of
+
+10." per jaar bij vooruitbetaling
+GEORGE H. LAGAS
+AMSTERDAM • Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+FIAT AUTOMOBIELEN
+Agent voor het geheele Gooi: Auto Garage Kroijmans
+Soestdijkerstraatweg 66 HILVERSUM Tel. 306
+Bezoekt s.v.p. onze SHOWROOM en vraagt demonstratie
+PRIJZEN VANAF F 2200.—.
+Een nieuw boek van ANNIE SALOMONS
+BALLINGEN
+DOOR
+Annie Salomons
+Ingenaaid f 2.50 Gebonden f 3.25
+VAN HOLKEMA &amp; WARENDORF'S Uité.-Mij. Amsterdam
+Hier is de Kachel U l
+een vulkachel,
+U kent toch het nieuwe systeem
+
+CENTRALE VERWARMING.
+Zoo niet, vraagt nog heden onze brochure:
+IN DEN WINTER	DE ZOMER IN UW HUIS
+HERINGA &amp; WUTHRICH, HAARLEM. Tel. 11966
+Voor den Haag: C. OLDENBURO Ir.. Rijswijk. Tel. Den Haag 18970
+Veor 't Dooi: W. SEIBERT, Oranjelaan 3A, Bussum. Tel. 1515.
+BJASPlBOI^Bf
+($E*K5TRAAr53
+A B ^.^^k^H^^MMBMMM^kM^^^ ^ A ^
+B» Wcstenburg
+Pianoleeraar,
+VERHUISD NAAR
+
+P.C» HOOFTSTRAAT19
+REEDERS'
+Veilige, Zuinige
+Petroleum Kachels
+
+Orootate
+Sorteering
+
+Electrische
+en
+G as-kachels.
+
+EENIQ ADRES;
+
+N Z. KOLK 17
+
+AMSTERDAM.
+
+Reparatie-Inrichting.
+NIEUWSTE MODEKLEUREN
+VOOR
+MANTELS
+STALENBOEKEN IN ALLE DEPOTS TER INZAGE
+PALTHE
+ALMELO
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:19:53:17.00" size="167108">D10006US.TIF</image>
+</page>
+</document>

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170908</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+8 Sept. '17. No. 2098
+28. Te8: Ke8: 29. Ph5, Dh6, 30. g4, Kd8,
+31. Pe3, g6, 32. Pg3, Dg5, 33. Pe2, Df6, 34.
+Df4, g5, 35. Dg3, De7, 36. Kgl, Lc6, 37.
+Kf2, Kc8, 38. Df3, Dd6, 39. Pfl, Pf6, 40.
+Pfg3, Kd7, 41. h3, La4, 42. b3, Lb5, 43.De3,
+h6, 44. De5, eb3: 45. Dd6:f Kd6: 46. cb3:
+Le2: 47. Ke2: Kc6, 48. Ke3, Kb6, 49. Pe2,
+Pe4, 50. Pel, Kc6, 51. Pd3, Kb5, 52. Pe5,
+Pd6, 53. Kd3, Ka5, 54. Pc6f Kb5, 55. Pe7,
+Pe4, 56. Pd5: Pf2, 57. Ke3, Pdlf 58. Ke2,
+Pb2, 59. Pf6. Zwart geeft op.
+ZESDE MATCH-PARTIJ
+1. e4, e5, 2. Pf3, Pc6, 3. Pc3, Pf6, 4. Lb5,
+Lc5, 5. Pe5: Pd4: 6. Le2! 0-0, 7. d3, d5,
+8. 0-0, Te8, 9. Pf3, de4: 10. de4: Pe4: 11.
+Pe4: Te4: 12. Ld3, Te8, 13. Pd4: Ld4: 14.
+Df3? Df6, 15. Df6: Lf6: 16. c3, Lg4, 17. f3,
+Le6, 18. Le4, Tae8, 19. Le3, Ld5, 20. Ld5:
+Td5: 21.Kf2, Tb5, 22.Tabl, Ted8, 23.Tfel,
+g6? 24. c4! TH5, 25. h3, c5? 26.Tedl, Ld4,
+27. Ld4: cd4: 28. b4! Te5, 29. Tb3, Te7,
+30.Tbd3, Ted7, 31. Ke2, f5, 32. Tdld2, Kf7,
+33. Kdl, Kf6, 34. Kc2, h5, 35. c5, h4, 36.
+Kb3, g5, 37.' Kc4, Ke5, 38. a4, Td5, 39. Te2f
+Kf6, 40. b5, Td5d7, 41. a5, Td5, 42. a6,
+ba6:? 43. ba6: Td5d7, 44.Tb2, Ke5, 45.Tb7,
+Ke6, 46. Td7: Td7: 47. Td4: Tc7, 48. Td6:f
+Ke5, 49. Tg6: Kf4, 50. Kd5, Td7, 51. Td6,
+Te7, 52. c6, Te5f 53. Kd4, Te2, 54. Td7,
+Tc2, 55. Kd5, Tg2: 56. Ta7: Td2f 57. Ke6,
+Tc2, 58. c7, g4, 59. fg4: fg4: 60. Tb7. g3,
+61. Tb4f Kg5, 62. a7, Te2f 63. Kd7, Td2f
+64. Kc6. Zwart geeft op.
+
+ZEVENDE MATCH-PARTIJ
+1. e4, c5, 2. Pf3, Pc6, 3. d4, cd4: 4. Pd4:
+Pf6, 5. Pe3, d6. 6. Le2, g6, 7. Le3, Lg7, 8.
+0-0, 0-0, 9. Lf3, Pe5, 10. De2, Ld7, 11.
+Tfdl, Tc8, 12. Tabl, a6, 13. Pd5, Pf3:f 14.
+Pf3: Pd5: 15. ed5: Lf5, 16.Td2, Da5, 17. a3,
+mimillimillljmillllll) Illlll illlllMIIIHIIIIIIIllllllllllMIIIIIIIIIIIIIMItllMIIIIIIIMHIII
+Da4, 18. Pel, Dc4, 19. Ddl, Tfe8, 20. h3,
+h5, 21. Ld4, Lh6, 22. b3, Dc7, 23. Te2, e5,
+24. Lb2, Ld7j 25. Pf3, Tf8, 26. Lel, Lg7,
+27. Dd2, h6, 28. Lb2, Kh7, 29. Tbl, Db6,
+30. Te4? f5, 31. Tel, Lf6, 32. Tcdl? Tg8,
+33. Lc3, g5, 34. Tdcl, g4, 35. La5, Da7, 36.
+hg4: Tg4: 37. De3, Db7, 38. Ld2, Tg6, 39.
+c4, Tcg8, 40. Kfll e4, 41. Pd4, Lg5, 42. Dc3,
+Lf6, 43. g3, Tg4, 44. De3, Tg8g6, 45. cb5!
+ab5: 46. Pc6, f4, 47. De4: fg3: 48. f4, g2f
+49. Ke2, Da8, 50. Pe7? Le7:? 51.De7:+ Tg7,
+52. De4f Kg8, 53. Tgl, Dd8, 54. Kdl, Te7,
+55. Dd4, Lf5, 56. Lc3, Th7, 57. Lb4! Tg6,
+58. Tc6, h5, 59. Dd2! Df6? 60. Ld6: Da 11
+61. Tel, Lg4f 62. Kei, Df6, 63. Le5, Dh4f
+64. Df2, Dd8, 65. Dc2, Dh4f 66. Df2, Dd8,
+67. Tg2: Td7, 68. d6, Da5f 69. Dd2, Dd8,
+70. Dc2, Kf7, 71. Dc6, Da5f 72. Tc3, Dd8,
+73. Db5: Td6:l 74. Ld6: Td6: 75. Dc4f Te6f
+76. Kf2, Dd2f 77. Kgl, Dflf 78. Kh2, Dh4f
+79. Kgl, Delf 80. Kb2, remise.
+MiiiiiMHiiiiiiiniiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiMiiiiiiiiiininMiiiiiiiiiuiiii
+14e Jaargang 8 September 1917
+Redacteur: K. C. DE JONGE
+Van Woustraat 112', Amsterdam
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+PARTIJ-FRAGMENT
+In een onlangs gespeelde partij was de
+stand als volgt:
+Zwart (17 schaven)
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46|
+v
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (17 schjjven)
+
+Stand. Zwart: 2, 3,- 7, 8, 11 16, 18 21, 23,
+24, 26.
+Stand. Wit: 27, 28, 31 33, 35/43, 45, 46, 48.
+
+Wit in deze stelling aan zet zijnde, heeft
+niet veel keus van zetten en meende te
+kunnen spelen
+27-22 1. 18:27
+31:22 2,
+zonder gevaar van een schijfverlies. Zwart
+vervolgde met
+2. 12-18
+waarop wit weder speelde
+37-31 3. 26:37
+42:31 4. 18:27
+31:22 5.
+Nu maakte zwart dam, aldus:
+5. 13-18
+22:13 6. 21-27
+32:21 7. 23:32
+38:27 8. 24-30
+Het blijft gelijk welke wit slaat
+13:24 9. 20:49
+35:24 10. 49:31
+36:27 11.
+en zwart heeft een schijf gewonnen!
+Wanneer wij dus den stand nog eens
+opzetten na 12-18 van zwart, dan heeft
+wit dit schijfverlies kunnen coupeeren door
+eerst te spelen
+39-34 18:27
+34-29 23:34
+40:29
+en daarna 37-31, 42:22 en wit heeft de
+betere stelling.
+Dergelijke voorbeelden van een schijf
+
+verlies komen in het praktische spel her
+
+haaldelijk voor, men spele dus voorzichtig!
+
+PROBLEEM No. 166
+VAN DEN AUTEUR P. VISSER, UTRECHT
+(Eerste publicatie)
+
+Zwart (11 schijven)
+11
+
+16
+21
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (11 schrjven)
+Stand. Zwart: 9, 12, 13, 15, 18/20, 22, 23,
+25, 35.
+Stand. Wit: 24, 29, 30, 32/34, 38, 39, 44, 48,
+50.
+PROBLEEM No. 167
+VAN DEN AUTEUR M. DEKKER Jr., A'DAM
+(Eerste publicatie)
+
+Zwart (13 schaven)
+l
+
+6
+
+11
+
+10
+
+21
+
+20
+
+31
+
+36
+
+41
+
+46
+&amp;
+%ait.
+M
+
+35
+
+40.
+
+45
+
+50
+Wit (13 schaven)
+Stand. Zwart: 10, 12, 13, 18/23, 25 27, 29.
+Stand. Wit: 30, 34/38, 42, 43, 46/50.
+
+Oplossingen binnen 14 dagen in te zenden
+aan bovenstaand adres.
+e
+De Makelaars L. E. DUPORT,
+W. C. DEENIK Zzn. c.s., zullen op
+IHaandag
+des avonds
+October 1917,
+na zes uur in het
+Verkooplokaal Frascati" in het
+openbaar verkoopen ten overstaan
+van den Notaris J. TH. BRUGMAN:
+Een complex Huizen,
+Winkelhuizen met Bovenwoningen
+en Erven, gelegen aan de
+
+
+Stroomarkt
+onmiddellijk bij Singel
+en Prins Hendrikkade, ter
+gezamenlijke grootte van
+5 Aren 36 Centiaren.
+No. 1. Een Hoekhuis en
+Erve, aan de
+
+Stroomarkt 15
+hoek ftJonwenaarsteeg 8,
+groot l Are 11 Centiaren.
+No. 2. Een Hoekhnis en
+Erve, aan de
+
+Stroomarkt 17
+hoek Gouw en aai steeg,
+groot 32 Centiaren.
+No. 3. Een Huis en Erve,
+aan de
+GOUW EH AARSTEEG 13
+groot 27 Centiaren.
+No. 4. Een Winkelhnis en
+Erve, aan de
+
+Stroomarkt 19,
+groot 57 Centiaren.
+No. 5. Een nieuw gebouwde
+constrnctiewerkplaats en
+elektrische smederij en
+Erve, aan de
+
+GOUWENAARSTEEG 9-H en
+
+SMAKSTEEG 10-12-16-18-20-22
+ttzamen groot l Are 98 Centiaren.
+No. 6. Een Huis en Erve,
+aan de
+SMAKSTEEG 8,
+groot 44 Centiaren.
+No. 7. Een Huis en Erve,
+aan de
+SMAKSTEEG 24,
+groot 24 Centiaren.
+No. 8. Een
+Winkelhoekhuis en Erve, aan de
+
+Stroomarkt 23
+hoek Smaksteeg groot 43
+Centiaren.
+Deze perceelen zullen ieder
+afzonderlijk bij opbod en afslag
+worden geveild en daarna als volgt
+gecombineerd in afslag worden
+gebracht :
+Ie: NOS. 2, 3, 4; 2e: NOS. 5, 6,
+7, 8; 3e: NOS. 2 tot en met 6 en
+ten slotte NOS. l tot en met 8.
+Het perceel Stroomarkt 21 ter
+grootte van 40 Centiaren, hetwelk
+met de NOS. 2 tot en met 6' een
+aangesloten complex vormt ter
+gezamenlijke grootte van 4 Aren
+65 Centiaren is uit de hand
+te koop op voorwaarden, die bij
+de veilconditiën nader zuHenwordeh
+bekend gemaakt,
+MAASTRICHT.
+
+GRAND HOTEL
+
+Du Lévrier et
+de l'Aigle Noir".
+Centrum der Stad.
+Hotel late Hang.
+Telefoon Interc. 14.
+D. R. N1ENABER, W. C. DEE
+
+NIK Jr., c.s., Makelaars, zullen
+op Maandag 24 Septem
+
+ber a.s., des avonds na zes uur,
+in het Verkooplokaal Frascati",
+in publieke veiling brengen, ten
+overstaan van de Notarissen A.
+BEDUIN &lt;S K. W.
+BEVERWIJK te
+SCHELTEMA
+J. K. VAN
+Amsterdam,
+Het Woonhuis met het af
+
+zonderlijk verhuurd Bovenhuis en
+daarnaast gelegen Pakhuis met
+Kantoor, Open Plaatsen, Achter
+
+huizen, Tuin en Erve te Amsterdam,
+aan de
+
+
+Prinsengr. 417-419,
+
+te zamen groot
+
+4 Aren 26 Cent.
+Het Benedenhuis van perceel
+417 is verhuurd tot l Mei 1918
+en het Bovenhuis tot l Nov. 1917,
+terwijl het Pakhuis geheel in eigen
+gebruik is en l Nov. a.s. kan
+worden aanvaard.
+Bezlchtigingsdagen Dinsdags,
+Donderdags en op den
+Verkoopdag van 2 tot 4 uur.
+De Makelaars W. C. DEE
+
+NIK Zzn. c.s., zullen op Maan
+
+dag l Oetober 1917, des
+avonds na zes uur, in het Ver
+
+kooplokaal Frascati", ten over
+
+staan van den Notaris HENDRIK
+WERTHEIM, in het openbaar
+verkoopen:
+Het bijzonder gunstig gelegen
+IIEERENIIUIS met vrij Bo
+
+venhuis, grooten Tuin en Erve
+aan de
+
+
+VEESPERZUDE30
+b d Nieuwe Amstelbrug
+Kad. Sectie S, NOS. 275-2734
+4e zamen groot
+
+3 Aren 92 Cent.
+Huis zoowel als Bovenhuis
+zijn verhuurd tot l Mei 1918.
+Bezichtiging Dinsdag en Don
+
+derdag alsmede op den
+Verkoopdag van 2 tot 4 uur met
+bewijs van toegang.
+BUNSCHOTEN &amp; DE GOOYER
+Hofleveranciers.
+Indische Uitrustingen.
+UTRECHT, Oudegracht bij de Jaosbrug, SI, 53,
+EEN1G ADRES. Geen Filialen.
+HOTEL GROOT-BADHUIS
+ZANDVOORT
+Dagelijks Concerten
+WINDSHEIMER MINERAAL WATER
+Prima Tafelwater met erkende geneeskrachtige eigenschappen tegen
+JICHT -HHKUMATIEK SIJECHTE
+SPIJSVJBRTEER1N6 SUIKERZIEKTE XÏEHLIJDEN
+Alg. aanbev. door H.H. Doktoren. Verkrijgt). bQ eiken l e kl. Detaillist.
+Hoofddepöt voor Nederland: A. L E BELLE,
+Vrolikstraat 128, A'dam. Tel. Zuid 4365.
+OPENBARE VERKOOPING.
+De .Makelaars W (. UEENIK
+Zzn. c.s. zullen op &gt;Iaaii«!a^
+15 October 184.7, ten
+overstaan van de Notarissen J.
+P. SMITS. F II. VAX DEN
+HELM en E Til. KOOPMAN,
+in liet openbaar verkoopen :
+Het byzonder punstiji se"
+legeuen uitstekend gebouwde
+Heorcnhui», niet Tuin eii
+Erve. aan de
+T o
+e n
+Te koop.
+Heerenhniy.cn, Woon- en
+Winkelhuizen, Fabrieks
+
+panden, Terreinen voor
+Handel en Industrie,Bouw
+
+grond, enz.
+Inlichtingen verstrekt de makelaar
+8. C. \AH WAALWIJK
+VAK DOORN, Singel64, (A.
+Tweede Tuinsingel), Schiedam.
+jMr Steeds Particulier- en
+Bank kapitaal tot elk bedrag
+beschikbaar voor eerste
+Hypotheek, tegen billijke rente.
+5
+Sarphaiade
+hoek Sarphatistraat,
+Kad. Sectie l, No. 58(&gt;», groot
+
+3 Aren 58 Centiaren,
+met ruim uitzicht over den
+Amstel en Hoogesluis.
+Hetzelve verkeert in
+m'tstekenden staat van onder
+
+houd, bevat smaakvol inge
+richte zalen en is (e aan
+
+vaarden na de betaling op
+l Nov. a. s.
+Bezichtiging, met bewiys
+van toegang, op Dinsdag eu
+Donderdag, alsmede op den
+verkoopdag van •i tot 4 uur.
+Vrijwillige Verknoping.
+
+W. G. SCHIJEEELEN, c. s.,
+Makelaar s,zullen ten overstaan van
+den Notaris A. L. HAREM AKER
+op Maandag 24- Septem
+
+ber a.s,, des avonds na zes
+aar in het Verkooplokaal
+Frascatï" in veiling brengen:
+
+Het kapitale in- on uit
+
+wendig zeer fraai ge
+
+bouwde Huis
+bestaande uit Benedenhuis met
+belétage, grooten tuin, 2 vrije
+bovenhuizcn en erve aan de
+
+
+Swammerdamstr. 17
+
+Kad. Sectie S. No. 4(i, groot
+
+\ Are 5 Centiaren,
+
+Te bezichtigen des DINSDAGS,
+DONDERDAGS en op den
+VERKOOPDAG van 2-4 uur.
+
+Nadere inlichtingen bij den Ma
+
+kelaar W. G. SCH1JFFELEN,
+Van Rijnstraat 4 b'd Adm. de
+Ruyterweg.
+IDEAAL-TARIEF.
+Maatschappij van
+Leeftijd
+30 jaar
+40 .
+50 ,
+Vooraf bepaald aantal jaren.
+10 jaar 15 jaar
+/ 9.27
+. 9.63
+10.38
+f6.09
+,6.60
+.7.65
+20 jaar j
+ƒ4.61
+.5.25
+6.73
+25 jaar
+ƒ3.86
+.4.70 !
+30 jaar
+/•S.42
+,4.51
+Levensverzekering
+Haarlem - Opgericht 1870
+VOORBEELD.
+Iemand oud 30 jaar verzekert zich volgens dit tarief voor
+f 10.000.—uit te keeren na 25 jaar voor een jaarpremie groot
+f 386.—. Indien hij overlijdt eindigt bij zijn dood de premie
+
+betaling, wordt op den bepaalden datum f 10.000.—uitge
+
+keerd en ontvangt de weduwe bovendien vanaf het over
+
+lijden tot den vastgestelden datum per jaar f 1000.—in S
+maandelijksche termijnen van f 250.—.
+KUNSTTEGELFABRIEK
+DE MERCUUR"
+TE HAARLEM
+HOOI MARKT 8
+TELEF. 1336
+DE
+MERCUUR
+TEGEL
+KRAAIT
+VICTORIE
+GEOCTROIEERD
+FABRIKAAT
+GEDEPONEERD
+FABR1EKSMERK
+VOLKOMEN BESTAND TEGEM VOCHT, HITTE EN KOUDE
+Maatschappij
+firnbem
+ia&amp;tschappelijk kapitaal EEN MiLLIOEN GULDEN volteekend
+Sluit LEVJBHHVEBaEKKEBOrQKH ©a
+3LIJFop
+ve»«rws»rden togen «eci- BIIJLUIOS
+WARMOESSTRAAT.
+Restaurant den geheelen dag :-:
+-:- :-: -:- Dagelijks Concert
+Zalen voor Vergaderingen.
+Drukkerij SCHILT
+Utrecht- Amsterdam.
+CATALOGI - TIJDSCHRIFTEN EWZ.,
+- - tot in de fijnste uitvoering -
+Speciaal voor groote werken ea voor groote oplagen
+Zooeven verscheen:
+Oe Nieuwe Vrouwen
+van Weinsberg
+DOOR
+KARIN MICHAELIS
+
+Prijs lngenaaid *2.9O
+Gebonden f3.5O
+Uitgave van :
+VAN HOLKEMA&amp;WARENDORF
+AMSTERDAM
+
+XKXKXKIIKKKXKX
+llhistratiedrufc-papier van de Firma C. G, A. CORVEY, Keizersgracht 255, Amsterdam, Tel. H. 1202 en 5S5
+Typ. Amsi. Boek- en SteendrukKcrij, voorheen Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:24:00:59:20.00" size="400587">D200327.TIF</image>
+</page>
+</document>

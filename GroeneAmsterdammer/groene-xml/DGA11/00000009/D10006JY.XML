@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270611</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN. II JUNI 1927
+No, 2610
+H
+
+
+w/
+j. a STRUijs e
+Prinsengracht 837 - Telefoon 37906
+Begrafenissen - Crematie - Transporten
+HAMBURG-AMERIKA LINIE
+
+HAMBURG
+Geregelde Passagiersdiensten naar Oost-Indi
+(rechtstreeks en via Mngapore)/ (Jost'Axië,
+INoordAmerika, West-Indiëen Centraal-Amerika/ ^uicl»
+Amerika/ Australiëen Afrika
+Plexf er* en touristentodif en, xooalt
+veixen naar de Fjorden en Poolf treken,
+Wereldreixen, Werf »Indfö. reizen
+Inlichtingen en prospect! gratis verkrijgbaar
+bij de Hoofd-Agenten voor 'Passage, de firma
+
+WAMBERSIE&amp;ZOON
+
+AMSTERDAM, DE RUyTERKADE o8
+
+en REISBUREAUX.
+te WASSENAAR,
+
+geeft inlichtingen voor aankoop VI L L A' s en
+
+VILLATERREINEN in de parken te Wassenaar.
+
+Inlichtingen J. TH. WOUTERS,
+Telef. 71471 Leidschestraatweg 648.
+EUASPIBOMMB:
+BOEKBINDER
+I5BKSTRAAT53
+AM5THRDAM
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+IpiiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiNiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiN
+
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers I
+Bty ons verkrijgbaar |
+
+N.R.V. MONTA SCHOENEN l
+s • . =
+iiiHiiimiiiiinnuiiiinnnminiiiuiiiiiniiniNiiiiiummiiiiiimiiiiiiNuiimNiM^
+Wed JOHN GAVS PICCALILLI
+•UJFT HKTMOSTBRDZUUR MBT I» FIJNE PIKANTB SMAAK l
+ENCaOS BIJ DB UBVBGOBDV FABRIEKEN
+H.V...DEHOUTTUINEN". AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+W. H. POLMAN TUIN
+OVERTOOM 526 &lt;- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M _ AMSTERDAM - Tel. -12662
+MARMERWERKEN
+AUG* KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+
+Speciale aanbieding Linnen Goederen
+Zwaar linnen gerstekorrel droogdoek .... 65 cent
+Zuiver linnen handdoek	65 cent
+Zuiver linnen Tafellaken, maat 130 x 165 c.M. f 4.50
+Bijpassend Servet	75 cent
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+C. G. A. CORVEY, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO.
+
+</text>
+<image timestamp="2002:09:21:09:51:25.00" size="136853">D10006JY.TIF</image>
+</page>
+</document>

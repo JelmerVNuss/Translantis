@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141213</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+13 Dec. '14. No. 1955
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+De invloed, dien de gebeurtenissen der
+laatste maanden op het zakenleven in het
+algemeen en op de fondsenmarkten in het
+bizonder uitgeoefend hebben, is van zoo
+overweldigenden aard geweest, dat wel eens
+mag nagegaan worden, of ook andere om
+
+standigheden hebben medegewerkt om het
+effect zóontzettend te maken. Terwijl toch
+bij den oorlog van 1870, bij de meer of
+minder belangrijke volkerenstrijden op an
+
+dere tijdstippen van de negentiende eeuw
+ondanks de groote tijdelijke verliezen,
+die toen ook geleden werden het zaken
+
+leven niet gestremd werd en de beurs
+met uitzondering van enkele dagen in het
+revolutiejaar 1848 geen enkele dag be
+
+hoefde gesloten te blijven, is dit thans reeds
+meer dan vier en een halve maand het geval
+en worden er schijnbaar nog weinig vorde
+
+ringen gemaakt met de pogingen om haar
+weder te openen.
+Vrij algemeen wordt beweerd, dat het
+verschil tusschen de uitwerking van dezen
+oorlog en vroegere op het zakenleven moet
+worden toegeschreven aan den ontzachelijken
+omvang, dien de krijg verkregen heeft.Men ziet
+daarbij echter over het hoofd, dat niet alleen
+te Amsterdam, maar.ook te Londen en
+NewYork tot sluiting van de beurs werd over
+
+gegaan in de laatste dagen van Juli, toen
+nog alleen door Oostenrijk aan Servië de
+oorlog verklaard was en er nog geen zeker
+
+heid bestond, dat Duitschland, Rusland,
+Frankrijk, Engeland en België erbij betrok
+
+ken zouden worden. Wel had men toen al
+rekening te houden met de waarschijnlijk
+
+heid, dat dit laatste zoude geschieden, maar
+was dit ook niet in 1870 het geval? In het
+begin van Juli van dat jaar bestond er toch
+evenmin zekerheid, dat de oorlog tot Duitsch
+
+land en Frankrijk zoude gelocaliseerd blijven
+en zag het er aanvankelijk zeer dreigend uit.
+Waaraan is het dan toe te schrijven, dat
+thans reeds dadelijk bij de eerste alarmkreet
+het geheele bedrijf moest stop gezet wor
+
+den en na vier en een halve maand nog niet
+geregeld aan den gang gebracht kan worden ?
+Alvorens een antwoord op die vraag te
+geven, kan het van belang zijn, eenige cijfers
+mede te deelen, die het verschil tusschen
+hetgeen in 1914 heeft plaats gegrepen en
+den toestand in vroegere groptendeels ge
+
+lijksoortige omstandigheden scherp in het
+licht stellen.
+Den 25sten Juli 19H, enkele dagen vór
+het stellen van een ultimatum door Oosten
+
+rijk aan Servië, was de positie van onze
+centrale credietinstelling, de Nederlandsche
+Bank. nog zeer sterk. Bij eene
+bankbiljettencirculatie van f 310Vs millioen, te samen
+met ca. f 6millioen rekening-courantsaldo's
+en bank-assignatiën, bedroeg de opeischbare
+schuld der Bank ca. f 317 millioen. Daar
+tegenover stond, afgezien van eene
+buitenlandsche wissel-portefeuille van ruim 20
+millioen, een metaalvoorraad van ruim f 170
+millioen dus eene metaaldekking van meer
+dan 53*^ pCt. Het opereerend kapitaal be
+
+droeg toen f 129Vümillioen, waarvan f67.9
+millioen disconteeringen en f 61.6 millioen
+beleeningen.
+Den l sten Augustus, toen nog alleen
+Oostenrijk en Servië in staat van oorlog
+waren, was het opereerend kapitaal reeds
+tot f 268&gt;* millioen geklommen (waarvan
+f 1441/»millioen disconteeringen en f 124
+millioen beleeningen), eene toename dus
+van f 139 millioen of circa 108 pCt. De
+opeischbare schuld was met f 130 millioen
+toegenomen en daar de metaalvoorraad,
+bijna uitsluitend door de afvloeiing van
+f 5K millioen zilver in de circulatie, met
+ca. f SVV millioen verminderd was, daalde
+de metaaldekking tot 37 pCt.
+De daarop volgende week (den Ssten
+Augustus) was het opereerend kapitaal tot
+f 315.800.000 gestegen, zijnde f 186 millioen
+of 144 pet. meer dan op 25 Juli. De opeisch
+
+bare schuld steeg in diezelfde periode met
+f 175 millioen, terwijl de metaalvoorraad met
+ca f 8 millioen (nagenoeg uitsluitend zilver)
+afnam, zoodat de metaaldekking tot onge
+
+veer 33 pet. daalde tegen 53Vs pet. op 25 Juli.
+Vergelijkt men hiermede de cijfers van
+1870, dan valt het groote verschil dadelijk
+in het oog. In het begin van Juli, toen de
+staatkundige hemel nog onbewolkt scheen,
+bedroeg het opereerend kapitral f 87y/2 mil
+
+lioen; den 18den van die maand was het
+tot f97 millioen of met ca. 11 pet. en den
+l sten Augustus (toen het hoogste punt be
+
+reikt werd) tot f 118Vs millioen of met nog
+geen 35T/2 pet. gestegen. In overeenstem
+
+ming daarmede bleven de veranderingen in
+de opeischbare vorderingen en de metaal
+
+dekking binnen veel engere perken begrensd
+dan thans en daalde de metaaldekking van 61
+tot 46 Vs pet.
+En in 1866 tijdens den oorlog tusschen
+Oostenrijk, Pruissen en Italië bleef de ver
+
+houding nog gunstiger, niettegenstaande men
+toen nog te midden van eene ernstige
+financieele crisis verkeerde met hare Black
+Friday van 11 Mei en de susphorsie van
+de Engelsche Bank-Act In het bankverslag
+over 1866/67 wordt daaromtrent o.a. aan
+geteekend. Immers toen ons opereerend kapi
+
+taal zijn hoogsten stand bereikt had, van
+meer dan f89 millioen, en de metaalkas
+gelijktijdig het laagst afgeloopen was tot
+beneden de f70.000.000, bleef de opeischbare
+schuld toch nog voor de helft, in juiste
+cijfers tusschen de 49 en 50 pet., door metaal
+gedekt," Hoe gunstig deze verhoudingscijfers
+ook bij de tegenwoordige afsteken, de toen
+
+malige president der Nederlandsche Bank
+meende toen in zijn verslag te moeten
+constateeren: Nog nimmer was bij onze Instel
+
+ling de verhouding tusschen metaalkas en
+opeischbare schuld zoo ongunstig geweest,
+als in de eerste dagen van Juli des vorigen
+jaars (1866)."
+Het verschil is ontzachelijk, niet alleen in
+absolute cijfers, maar ook in de relatieve
+verhoudingen. Dat tengevolge van de belang
+
+rijke uitbreiding van handel en verkeer in
+de laatste helft der negentiende eeuw de
+crediet-eischen zeer aanzienlijk gestegen
+zijn en men daarom thans met hoogere
+totaal-cijfers moet rekenen dan in 1870 en
+1866, behoeft geene bevreemding te wekken.
+Op zich zelf zoude het feit, dat het operee
+
+rend kapitaal der Bank thans ongeveer
+driemaal zoo hoog is als op het ongunstigste
+moment van 1870 dan ook geene aanleiding
+tot commentaar geven. Wel echter verdient
+het opmerking, dat terwijl in de vroegere
+oorlogsjaren de credietvraag bij onze cen
+
+trale instelling met slechts 35 pet. toenam,
+thans reeds in enkele dagen eene
+vsrmeerdering met 108 percent en na iets meer dan
+eene week met 144percent valt te constateeren.
+Dit groote verschil kan niet enkel en alleen
+verklaard worden door den oorlogstoestand,
+maar andere omstandigheden moeten daartoe
+medegewerkt hebben. In de eerste plaats moet
+er op gewezen worden, dat, in tegenstelling
+met thans, waar het Rijk reeds vór den
+oorlogstoestand door disconteering van
+schatkist-papier en door gebruik making
+van het renteloos voorschot, ongeveer f 40
+millioen bij de Bank had opgenomen, zoo
+
+wel in 1870 als in 1866 de Staatskas ruim
+van middelen voorzien was en een te goed
+van ca, f 30 millioen in rekening-courant bij
+de Bank had. Het gevolg hiervan was, dat
+terwijl de schatkist toen voor hare buiten
+
+gewone uitgaven over hare saldo's bij de
+Bank kon beschikken, zij thans voor de
+ontegenzeggelijk belangrijk grootere buiten
+
+gewone uitgaven telkens voor aanmerkelijk
+hoogere bedragen op de middelen der Bank
+moest beslag leggen.
+Dit kan echter niet dienen ter verklaring
+van het zooveel hoogere percentage der
+crediet-eischen bij de Bank in het begin
+van den oorlogstoestand in 1914, vergeleken
+bij 1870 en 1866. Integendeel trekt men van
+het opereerend kapitaal (eenvoudigheidshalve
+wordt in deze beschouwingen het renteloos
+voorschot aan den Staat buiten beschouwing
+gelaten) de schuld van de schatkist aan de
+Bank af, dan blijkt de credietvraag van het
+publiek in nog sterkere mate te zijn toegeno
+
+men dan boven aangegeven. Immers op 25 Juli
+bedroeg de crediet-vraag van het publiek
+ca. f 110 millioen en op 8 Augustus meer
+dan f 275 millioen, dus ruim 150 pCt. meer.
+Maar, waaraan is die percentsgewijze zoo
+
+veel hoogere crediet-behoefte dan toe te
+schrijven ? Wijst dit er niet op, dat reeds
+vór den oorlogstoestand eene ongezonde
+positie bestond ,en men daardoor genood
+
+zaakt werd in veel grootere verhouding dan
+in vroegere analoge omstandigheden van de
+hulp der centrale instelling gebruik te ma
+
+ken ? Dat de oorlogstoestand, meer bepaal
+
+delijk wat de fondsenmarkt betreft, de markt
+verrast heeft en haar getroffen op een mo
+
+ment, dat zij te zwaar geëngageerd was,
+schijnt niet zeer waarschijnlijk. Althans
+voor zooverre op uiterlijke teekenen valt
+af te gaan, bestond er geene noemens
+
+waardige overspeculatie. Reeds maanden
+te voren, na eene kortstondige opfiikkering
+in de eerste weken van het jaar, stagneer
+
+den de zaken aan de beurs en was de
+algemeene klacht, dat zij hoe langer hoe meer
+inkrompen. Wel zat er vermoedelijk nog
+veel oud zeer", afkomstig uit den
+kortstondigen Januari-„boom", maar in het verder
+gedeelte van het eersle halfjaar is de spe
+
+culatie ter beurze niet toegenomen, maar
+veeleer verminderd.
+Geheel anders was het in 1870 en 1866.
+In de financieele Kroniek in het
+September-nummer van De Economist vah dat jaar
+kan men o. a. opgeteekend vinden :
+Devredelievende gezindheid, die in den aan vang van
+het jaar scheen te heersenen, de aanlokkende
+aanbiedingen van vreemde gouvernementen
+en spoorweg-maatschappijen hadden menig
+
+een verleid, zich naar de beurs te begeven
+om zijn vermogen of jaarlijksche inkomsten
+te vermeerderen. Niets scheen gemakkelijker
+dan dit. Daartoe was weinig kapitaal noodig,
+want tegen onderpand der fondsen was
+dadelijk geld te bekomen, om den koopprijs
+te betalen."' En iets verder in dezelfde
+kroniek" wordt gezegd:
+Van daar eene slachting, die, zoo het
+waar is, dat het bedrag der in die dagen
+ter Amsterdamsche beurze loopende
+prolongatiën f 50 millioena 1) beliep, aan menig
+huisgezin zware verliezen heeft berokkend.
+De rekeningcouranten, door de
+Amsterdarasche commissionairs in de laatste dagen aan
+hunne committenten gezonden, zouden be
+
+langrijke bouwstoffen kunnen leveren voor
+eene studie van de wijze, waarop in Neder
+
+land een groot deel van het nationaal ver
+
+mogen te gronde gaat, en geen gunstig
+getuigenis geven van het overleg van onze
+middenklasse. Mogen de laatste gebeurte
+
+nissen, hoe droevig ze ook zijn, althans eene
+herhaling voorkomen?"2)
+En in 1866 was de algemeene toestand
+vór het uitbreken van den oorlog nog
+ongunstiger. Toen trof de slag de beurzen
+op een moment, dnt zij zwaar geëngageerd
+waren. In het verslag der Nederlandsche
+Bank over 1865,66 vinden wij daaromtrent
+aangeteekend. En die levendige crediet
+
+vraag had een eigenaardig karakter. Zij had
+namelijk blijkbaar hoofdzakelijk haren grond
+in de sterke en over ons geheele land ver
+
+breide zucht tot speculatiën in buitenlandsche
+effecten, op welker bestaan ik u reeds ten
+vorigen jare opmerkzaam maakte, en die na
+eenigen tijd van meerdere kalmte, in de
+laatste helft des afgeloopen jaars met vroeger
+ongekende kracht zich openbaarde."
+Waar dus de oorlogsverklaring van 1914
+de beurzen trof op een moment, dat zij
+schijnbaar minder wondbaar waren dan onder
+gelijksoortige omstandigheden van vroegere
+jaren, moet het aan iets anders liggen, dat
+thans de credietvraag in eene zooveel sterkere
+verhouding is toegenomen en dat men, om
+nog erger te voorkomen, zich genoodzaakt
+heeft gezien, de beurzen te sluiten en het
+geheele zakenleven stop te zetten.
+Waaraan het groote verschil tusschen het
+heden en het verleden m.i. dan wel te wijten
+is, zal ik trachten in een volgend artikel
+uiteen te zetten.
+J. D. SANTILHANO
+
+1) Hoe belachelijk klein lijkt dit cijfer, ver
+
+geleken met wat volgens het rapport van
+Mr. Vissering thans op prolongatie uitstaat.
+2) De geschiedenis heeft geleerd, dat de
+les van 1870 weinig ter harte genomen is.
+* * *
+Amerika's export-handel en de oorlog
+Noord-Amerika is de voornaamste leve
+
+rancier van een aantal der door Europa meest
+benoodigde levensmiddelen en grondstoffen,
+zoodat het tot contrabande verklaren daar
+
+van door de oorlogvoerende landen voor de
+Amerikaanscrfe regeering begrijpelijkerwijze
+iimiiiiiiiiiiii
+De Twentsche Bankyereefliging
+
+B.WJlijdenstein&amp;Co,
+KAPITAAL: f 15.165.O52,5O RESER VEN: f 6.729.497,14
+HOOF K ACTOOR :
+AMSTERDAM, Spuistraat 138/144.
+(voor wier verbintenissen De Twentsche Bankvereeniging
+B. W. Blijdenstein Sc Co., ten volle aansprakelijk is)
+AMSTERDAM, Prins Hendrikkade 139:
+LONDEN, B. W. Blpenstein &amp; Co., 55-56 Threadneedlestr.;
+ENSCBEDE. B. W. Blijdenstein Junior;
+ALMELO, Lcdeboer &amp; Co.
+
+RENTE VOOR DEPOSITO'S:
+Direct tpvorderbaar .................. 3 pct.
+TIen dagen opzegging ................. 314
+Een Maand vast Gemiddelde prolongatie-koers met een maximum van 4
+Drie Maanden opzegging .... 3 pCt. ) Van den dag der opzegging
+Zes Maanden ...... 3^ af wordt Vs pCt. minder
+Een Jaar .... 4 ] rente vergoed.
+SAFE DEFOSIT
+
+Heerengracht 531—537,
+Weesperplein 2,
+Overtoom h/Ie Const. Huygensstr.,
+Willemsparkweg 80,
+
+verhuurt aan bij haar geïntroduceerde personen SAFE
+
+LOKETTEN in hare Brand- en Inbraakvrije Kelders.
+
+Reglementen zijn aan bovenstaande kantoren verkrijgbaar.
+Ontvang- en Betaalkas,
+Vergoeding der Depositorente.
+Met ingang van heden wordt de
+rente-vergoeding vastgesteld als volgt:
+Met n dag opzegging ... 3 pCt
+(Bedragen tot ƒ20.000 zijn terstond
+betaalbaar)
+Met 10 dagen opzegging . . 3K pCt
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving vol
+
+gens reglement.
+SAFE DEPOSIT-INRICHTING,
+geopend:
+op werkdagen van 8M tot 5 uur.
+, beursvacantiedagen 85i 4
+Loketten van ƒ2.50 per maand (ƒ10.
+per jaar) en hooger te huur voor bij
+de Directie bekende of geïntroduceerde
+personen.
+Amsterdam, l Nov. 1914.
+De op l Januari c.k. ver
+
+schijnende coupons der 4 pCt en
+4Vs pCt Pandbrieven zijn van
+16 November 10(4 af betaal
+
+baar te Amsterdam bij de
+AssociatieCassa en in de Provinciën bij H.H.
+Correspondenten. De Directie:
+A. C. VAN DUSSELDORP.
+Mr. L.VAN CRANENBURGH.
+II De iaarl
+\ Stand l M1914;
+IAP1T.
+Koers van uitgifte
+Te Huur of* te Koop:
+Heerenhuis, JOH. VERMEERSTRAAT 28, bevattende
+7 kamers, spreekkamer, badkamer, garderobe en 3
+zolderkamers, enz. Direct te aanvaarden.
+PRINS HENDRIKLAABT 3 en 5, dubbele Villa, bevat
+
+tende ieder 7 kamers, groote hall, badkamer, dienst
+
+bodekamers, enz.
+Een Vrfi Bovenhuis JOH, VERMEERPLEIN 14.Huur
+
+prijs f800.—per jaar, bevattende 7 kamers, badkamer,
+dienstbodekamer, enz.
+Te bevragen bij: GUUR. B. H. &amp; H. KOOLHAAS,
+14. Telefoon
+De RENTE-CASSA,
+Heereagracht 179, (geb. Assoc.-Cassa),
+AMSTERDAM.
+Kapitaal .... ƒ 1,000,000.
+Reservefonds . . 1458,713.37.
+Rentevergoeding voor gelden a Deposito
+Met l dag opzegging (bedragen tot
+ƒ5000 direct te ontvangen) 'i pCt.
+10 dagen opzegging .2%
+Voor l maand fixe . . . SSVs
+2 en 3 maanden fixe 8V
+l jaar fixe .... 3%
+Amsterdam, 12 Sept. 1914.
+.UflO,, 4JU,iJU
+HIP. i/.0il!l.!i23 i&gt;6
+PANLBU6.!i:!8.350
+
+41. / pandbrieven
+«B l^ïo. stukken
+. /0van f 5000,
+f 1000, f 500, f 100, f 50,
+a pari uitlotende
+Thans tegen 97 pCt.
+verkrijgbaar ten kan
+
+tore der Bank en door
+alle commissionnairs
+in effecten.
+Standaard Hypotheekbank, te Rotterdam
+Directie: Mr. H. H. O. Oastendljk en Jhr.
+H. F. Schuurbeque Boeye.
+De Bank verstrekt gelden onder
+eerste hypothecair verband en
+geeft 4Vs en 4% PANDBRIEVEN
+uit onder controle van het
+Algemeen Administratie
+enTrustkantoor te Rotterdam.
+NI. PIMENTEL,
+
+Accountant.
+JLeeraar Bockfeonden
+f.OHondecoeterstraat 7,Amsterdam
+TELEFOON Zuid 2422.
+Geeft uit4Vs pCt.PA KDBBIE VKN
+in stukken van ƒ1000, ƒ500 en f 100.
+Jaarlijksche conversie van 3H en
+4 pCt. Pandbrieven in 4Vs pCt. stukken
+en nitloting a pari van 4Vs pCt.
+Pandbrieven.
+DE DIRECTIE:
+
+I. JOH.VERWER, Mr. K. A. NEDERLOF.
+BIJ-VERDIENSTEN
+Ieder, die hetzij toevallig,
+dan wel geregeld adressen kan
+opgeven van Meeren, die een
+REIS BUITEN EUROPA |
+gaan ondernemen, kan zijn inko
+
+men aanmerkelijk verhoogen door
+on* hun adres op te geven.
+NIETS ANDERS WORDT VERLANGD.
+GEHEIMHOUDING GEWAARBORGD.
+Opgaven franco onder motto
+Abroad" Bureau van dit Blad.
+ie
+verstrekt credieten op billijke voor
+
+waarden. Geeft Schuldbrieven uit ren
+
+tende 41/2 pCt. in stukken van ƒ1000,
+ƒ 5OO en ƒ 1OO. Koers van uitgifte
+98 pCt. De Directie
+CORNS. LOEFF.
+Rott, Hypotheek-bank v. Sedert.
+Volteekend Maatsch. Kapitaal ƒ 5.000.000
+Reserve ƒ609.920.16
+Geeft geld op eerste hypotheek zon
+
+der vooruitbetaling van rente. Inlich
+
+tingen te bekomen ten kantore der
+Bank, Gedempte Bierhaven 25, of bij
+hare Agenten.
+De Directie:
+Mr. W. v. ROSSEM, Mr. TH. REEPMAKER
+Gebouw der Bank.
+aflosbaar a pari bij jaarlijksche
+uitloting in 25 jaar, in stukken
+van ƒ 100.-, ƒ 500.—en ƒ1000.—,
+worden tegen den koers van
+100 pCt. uitgegeven door de
+
+Utrechtsche
+
+Hypotheekbank,
+
+UTRECHT Tel. 241. Drift 17.
+De Hollandsche Voorschotbank
+HAARLEM, JANSWEG 42.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnhaven 129a.
+'s-Gravenhage,Ged.Burgw.38
+Maastricht, Breedestraat 24.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van ƒ 5OO
+en verkoopt 41/»pCt. schuldbrieven in
+stukken van ƒ 1000, ƒ 500, ƒ 100 en ƒ50.
+6% Pandbrieven BYPOIHEEKBANR VOOB AMEBIKA.
+A LEVENSVERZEKERING - BANK
+
+HAMSTERDAM"
+Directeuren: M" N.C.M.SMITS wn OIJEN. - J LJ BON NIKE. Adj -Oir DA.AEIJELTS
+Het Goederenvervoer per Spoorweg,
+Iiilicliingeii ten «Heuste van het publiek.
+Met tal van Bijladen
+door U. J. BOT Jl A X
+Commies H. IJ. S. M.
+P K IJ N «O C E M T S.
+Uitgave van VAN HOI.KHMA &amp; WARENDORF, Amsterdam.
+5°/0 PANDBRIEVfiN
+der K.V. 1»E CKEDIET-eYFOTHEEKBAÏIK te 's-Gravenhage
+(Noordeinde 43) zijn verzekerd voor rente en aflossing door de assurantie
+
+maatschappij Kederlandsche Lloyd te Amsterdam.
+Verkrijgbaar a 90 /0
+De Directie:
+G. J. VAN INGEN. Mr. H. VAILLANT.
+
+</text>
+<image timestamp="2002:08:21:05:10:49.00" size="473642">D40001JB.TIF</image>
+</page>
+</document>

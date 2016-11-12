@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010505</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ko. 1245
+DE AMSTERDAMMER WEEKBLAD V O O R N E D E R L A N D.
+Europa en China.
+De groote Beer in velerlei gedaanten. (TJlk).
+EUROPA (tot WALDEBSEE) : »Wie is nu eigenlyk de baas, jjj of die gans ?"
+WALDEKSEE : »Ik ... zoo lang ik ze niet loslaat..."
+In China. (De schade'oosstelling.)
+(Caran d'Ache 'm den Figaro).
+De overeenstemming der Mogendheden is geen ydele klank meer !
+Betalen, betalen, betalen ! (Punch).
+Zalig zjjn de bezitters. (Mhj Slopers hal/ Jlólulay).
+DE BEKR : »Hé, Pff l 'k ben er benauwd van ...
+Dn OVKKJGE MocESJiiiEJJEx: «Wat 'n vreetzak."
+uni \fKlt no
+
+Vraatzuchtig, ruw, wreed treedt toch nog als cavalier op.
+
+i
+
+
+
+Koppen	tellen. (Der wahre Jacob, Stuttgart).
+
+
+___
+De IIII. Yu-Sien, Sing-, Sang-, Tchang en Wang kijken met genoegen,
+door de vensters der vergaderzaal van den krijgsraad, naar hun hoofden,
+die den generaals der mogendheden worden aangeboden.
+De nota om te betalen. (Slkoaitlc).
+JONGEHEEE JOHN BULL : »Ik heb een hoop pennies in de machine gedaan en nog niets
+gekregen maar (vastbesloten) ik stop er net zoolang geld in tot dat er wat uit komt.
+Suiker, kolen, pudding, alles wordt belast, en Chamberlain-Mammon
+belooft, dat dit nog niet alles is ; er komen Log meer verrassingen.
+
+</text>
+<image timestamp="2002:08:16:00:44:17.00" size="468000">D2000WE.TIF</image>
+</page>
+</document>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>28</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i
+Nederlanders !
+«.
+
+Waarvoor gaven wfans leven f
+
+Onze voorvaderen offerden zich op om ons, hun
+nageslacht, een vrij leven op vrijen bodem te
+verzekeren.
+Wij allen hebben de heilige plicht naar ons beste
+vermogen te zorgen voor de vrijheid van ons
+nageslacht.
+
+Het Verdrag met Belgiëschrijft voor, dat de
+Wester-Schelde niet meer zal staan onder de
+Nederlandsche Justitie en Politie. Een dergelijke be
+
+paling voor een stuk Nederlandsch grondgebied
+belet Nederland zijn internationale verplichtingen te
+vervullen en doet afbreuk aan Nederland's aanzien.
+
+De bepalingen omtrent de loodsgelden en die
+omtrent nieuwe kanalen, gedeeltelijk zelfs voor onze
+rekening te graven, zullen onze havens verzwakken
+en onze welvaart ondermijnen.
+
+Ieder Nederlander moet begrijpen, dat dit Verdrag
+nooit en nimmer mag worden goedgekeurd.
+
+Kiezer» hoe stemt UW vertegenwoordiger in de
+Tweede Kamer ? ?
+Complete Badkamer
+van af f 285.—.
+Prima drukautomaat, Bad, Kranen, Bidet,
+Waschtafel met marmer en spiegel.
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+Purol bij Ruwe en Schrale Huid
+No. 2576
+Aug&lt; Uilkema
+HORLOGES
+850 in voorraad
+Nikkel Fl. 5 tot 25.
+Zilver ,, 8 tot 40.
+Goud ,, 14 tot 400.
+Platina en Brillant.
+Reguliersbreestraat 39
+REEDERS'
+Veilige, Zuinige
+
+Petrolcum-Kachcls
+GRO OTSTE
+SORTEERING
+in
+alle prijzen
+van af
+f8.50 tot f 11.70 enz.
+Eenig adres
+N.Z. KOLK 17
+AMSTERDAM
+REPARATIE- INRICHTING.
+maakt voor de huisvrouw
+door de mooie modellen
+en den fraaien zilvergla n s
+het dekken van haar tafel
+tot een genot, dat met
+bescheiden middelen
+verkregen kan worden.
+Elk artikel draagt het
+Garantiemerk:
+
+</text>
+<image timestamp="2002:09:26:06:23:08.00" size="159332">D100080U.TIF</image>
+</page>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19291221</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16? eeuwseh Marialied
+[Een deuoot ende Profitelyck Boecxken, 1539]
+WILLEM PIJPER
+And ante (J&gt;= 1108-120)
+rit.
+a tempo
+ZANG
+PIANO
+God groet v co - - ninghin
+God groet v. suy - - ver ma
+sempre p e
+legatonp molt o dolce
+m.s. non leg-ato
+con fcjzA}. sempre ••
+- ne .Ma
+- ghet O
+n
+soe
+- a
+- te
+soet io
+me - de
+- lijt
+- cijn
+Ghi sijt een
+O dach die
+(espr.)
+vat
+ee
+vol
+wich
+min
+da
+• nen
+ghet
+Al
+Ie
+tijt
+waer
+ghe
+so
+• be - ne
+gaerrfbi
+dijt.
+dijn.
+a tempo
+rit.
+a tempo
+God groet v
+God groet v
+p
+"P
+moral
+- ghenster
+- der-claer
+piu espr. ma dolce
+la seconda volta piu ƒ
+(espr.)
+I ie
+on-beeen ee-wich
+schoon • ste
+ri - - a
+'l-':
+
+</text>
+<image timestamp="2002:10:26:05:36:47.00" size="279441">D200A3V.TIF</image>
+</page>
+</document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060401</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1501
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+ALBERT CUYP. Dordrecht 1(520—1691.
+Een groot gebouw, vermoedelijk een klooster of kerk. Misschien het Sint Maria-klooster te utrecht.
+W. HUMPHREY.
+D. VINCKEBOONS. Mechelen 1578—Amsterdam 1029.
+Arme ouders hunne rijke kinderen herkennend.
+«IIIMIIiniliMIIMMIIIIMIMnMinilMIIHIMItlMIIIIHHMIIinHIHIUflHIMIiniMlinll1tlUIMMMIIMMIMHniMnUlMII|MinilllMHnlHIIIHIMIIlMIHlnMnHIIMinilllUHU|i
+In De Brakke Grond."
+
+Kostbaarheden, Zilverwerken. Munten en
+Medailles, Kristal, Kleinodiën, Porcelein,
+Delftsch aardewerk, Antieke en Moderne
+Meubelen, Koperwerk, zoogen. Dinanderie,
+Beeldhouwwerk, Indische Wapens, Schilde
+
+ryen van Oude Meesters, Voorwerpen met
+herinneringen aan het Huis van Oranje, Meu
+
+belen, Violen, Metaalarbeid, Wapenen,
+Schilderijen, ent., alles afkomstig uit de nalaten
+
+schappen van Mevrouw G. Pander Maat geb.
+Keuter te Blokzijl, en van M. Jacob
+Aakersmit, overleden te Baarn, brengt de directie
+C. F. Roos en Co., Dinsdag 3, Woensdag 4
+en Donderdag 5 April in het Verkooplokaal
+De Brakke Grond" in de Nes, onder den
+hamer, nadat alles particulier is te zien geweest
+Zaterdag 31 Maart en Zondag l April en
+Maandag 2 April voor het algemeen.
+Onder de schilderijen van oude meesters
+komen er voor, van: A. C. Beeldemaker,
+Abraham Bloemaert, 'J. Brueghel en ,T. de
+Momper, Van den Eeckhout, A. Elsheimer,
+C. DÜSAUT. 1660 Haarlem. 1704.
+Een boerenwoning met drinkebroers.
+
+iimmmiMiiiiiiiiiMuii	iimmmiMiuiiimimiuimnuiimniiii iiiininiiiiiMiniiifiiiiniiiillilMiMtniiiitiiiiiiiiiiiiiiiiHtiMiMiilllitlllilliitniiMiiiiiiiiMHiiiiMiifMiiniiiMiiiiiMii
+Is. van Ostade, P. J. Eink, Aart Schouwen,
+Adriaan van Utrecht, Abraham Willaerts,
+enz., benevens een groote verzameling van
+de beste gravures, prenten, enz.
+Afbeelding van enkele voorwerpen, van
+een antiek kastje en van een paar vazen met
+pul, van veelkleurig porcelein, geven een
+flauw denkbeeld van al het kostelijke en
+kostbare, dat op de verkooping bij Roos
+onder den hamer komt.
+Schoorsteenstel. Veelkleurig porselein.
+Gesneden eikenkast.
+
+</text>
+<image timestamp="2002:08:10:10:16:26.00" size="434397">0000009O.TIF</image>
+</page>
+</document>

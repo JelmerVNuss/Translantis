@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18930205</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het debat over Staatsarmenzorg in de Eerste Kamer.
+',!. van &lt;le AmstfH:immer. Weekblad voor Nederlan-1, van 5 februari 189;.
+--*-•;;
+3T1n III l n llliOTU Btfti iim nj
+Amst. Boek- en Stcendrukkeni, v h. Eücrman, Harm?. iS (-.o.
+DE HEER WERTHEIM: .,Douwen, jongens! De kar zit al veel te lang vast."
+MINISTEK TAK (goedkeurend tot Mr. Pijnappd'): ..Houwen, jongens! Ik heb geen haast."
+
+</text>
+<image timestamp="2002:08:21:08:39:00.00" size="325709">D100026I.TIF</image>
+</page>
+</document>

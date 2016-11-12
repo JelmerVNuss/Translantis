@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240322</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2440
+15 cent
+met Zuidvruchten.
+POllEli Oude (enever
+Fflne Likeuren en Punch
+M, P. POULE* « ZOOH - Rotterttm»
+Onze Hygiënische Onderkleeding
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Heeren en Kinderen.
+Verder alle soorten jKousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren 'en diverse modellen vervaardigd.
+
+Gez. VAN HUIDEN - Zwolle
+HET KANGELSBUD GRATIS
+TOT 1 APRIL
+Zij, die onderstaanden bon invullen en ons toezenden,
+ontvangen tot 1 April het HANDELSBLAD" GRATIS.
+ABONNEMENTSPRIJS per kwartaal f 5.5O, per
+maand f 1.9O bij vooruitbetaling. Buiten Amsterdam
+wordt voor bezorging en frarikeering nog 20 cent
+per maand in rekening gebracht.
+UITKNIPPEN
+BRIEF
+Aan de Administratie van het
+ALGEMEEN HANDELSBLAD
+N.Z Voorburgwal 234—240
+Amsterdam.
+Datum.
+.Maart 1924,
+Mijne Heeren,
+Hiermede verzoek ik U mij in ie schrijven als ,
+abonnéop uw blad, volgens bovenstaand tarief. Ik verzoek
+U mij het Handelsblad gratis toe te zenden van heden
+af tot l April a.s. (12240)
+Hoogachtend,
+Naam:.
+
+Adres:.
+Uit de hand te Koo?
+
+Groote Villa in Cannes
+(Gelegen i/d wijk Californië) groote
+salons, 45 woonvertrekken, Rijk
+gemeubileerd, Modern confort.
+Stoelen, Garages, Bijgebouwen.
+Schitterend uitzicht. Park van
+8000 meter. Rozengaard. Voor alle
+gewenschte inl. en onderh. zich te
+wenden tot Mr. VIA L, Notaris
+te Cannes (A. M.).
+rrVACANTIEREIZEN NAAR
+i
+nOORSCHE
+FJORDEH
+Abonneert
+U op:
+Geïll.
+Maandschrift
+onder redactie nn
+Mej. ELIS.
+M. ROGGE
+De prijs is
+per jaargang
+f 10.—franco
+per post
+f 10.75, Bui
+
+tenland f 13.
+Proefnum
+
+mers op aan
+
+vraag gratis.
+Men abon
+
+neert zich bij
+iederen
+solieden boekhan
+
+del.
+m mm
+AMSTERDAM
+KONINKLIJKE
+HOLLANDSCHE
+LLOXD
+5.S...FLANDRI/C
+19 J U LI t/m 3 AUG.
+3AUG.t./m.20AUG.
+INLICHTINGEN:
+HOOFDKANTOOR AMSTERDAM
+EN ALLE NEDERLANDSCHE
+RE1SBUREAUX.
+Landhuisjes te Koop
+gelegen aan bosch en heide,? min. van tram en
+autobus, eventueel ook te huur. Te bevr. aan het
+Woningbureau van HERMANN H. WARK J.Hzn.,
+Makelaar en Bouwkundige te Leersum.
+KLEIN KOPERWERK, gedraaid of gestamt, blank
+of veruikkeld levert tegen zeer lage prgzen
+INGENIEURSBUREAU VAN NISPEN, ZWOLLE.
+BILLIJK TE KOOP
+Het Landgoed DE KONIJNENBERG te
+HATTEM. Gunstig gelegen nabij Kanaal
+en Bosch. Ook bij uitstek geschikt voor
+Hotel Pension of andere onderneming.
+Franco brieven lett. K. H., Bur. v. d. blad.
+Lunchroom Franken"
+Groote Houtstraat bij de Markt
+===== HAARLEM =====
+IMPORTEURS:
+HlJkutoMelv/hFaGRUND&amp;Co.Ubecht.
+TELEPHOON 1886 en 3177
+
+</text>
+<image timestamp="2002:09:03:04:05:42.00" size="154167">D2003F4.TIF</image>
+</page>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271231</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Oudejaarsavond
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 31 December 1927
+-'-7 ,-* "*
+' *Sji-- a'^i'1*^*^*-"*:
+Nadn*
+Aratt. Boek' ca Stcendr. »(h. Ellcrmu. Hanu 6 Ce
+
+Het Oudejaar tot den Vrede: Ik hoop, dat mijn opvolger je een beter onderkomen kan bezorgen!"
+
+</text>
+<image timestamp="2002:09:22:09:46:40.00" size="217285">D100076K.TIF</image>
+</page>
+</document>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910215</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 712
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+Belgische arbeiders bij hun koning.
+KONING LKOPOLD : Kccmt me niet kiDalijJc, mijne vrienden, ik kan Jteusch niets roor u doen: ik 1&gt;en maar een Constitutioneel vorst...
+INGEZONDEN.
+MijnJicer de Redacteur.
+U zal liet mij wel permitteercn op te komen
+tegen de manier ^yaarop uw teekenaar in u\v
+vorig nummer mijn portret gegeven hoeft;
+dat gaat naar mijne meening veel te ver; ik
+had niet durven denken dat de Heer
+Braakensiek, dien ik als een bescheiden
+mensch ken, zoo diep in het private leven
+van een vrouw zou willen ingrijpen en de
+verhouding, waarin ik tot mijn intiemste
+vrienden sta, publiek maken. Wat mr. Treub
+betreft, die had allerminst recht om over mij
+te spreken, zooals hij te Delft gedaan heeft.
+want ik heb hem gezoogd en als kind was
+hij een aardige jongen, maar later kwam liet
+uit, dat hij een onverzaYlelijke maag had. hij
+was letterlijk niet te voeden, en na zijn studie
+te Leiden is hij ten slottemeteen boozjn kop
+mijn huis uitgeloopen, omdat hij niet van
+water en melk hield want, ziet u. ik ben
+afschafster van wijn en sterke dranken,
+danrom bon ik zoo gezond. Xu wilde ik
+vorder zoggen, dat de heele voorstelling van
+mijn persoon niet deugt, ik heb volstrekt geen
+aanleg tot corpulentie; ik ben vroeger eens naar
+Mariënbad geweest, hot was na mijn eerste
+bevalling, want n moet weien, dat ik nou een
+lief' jong.-ko gehad heb. maar dal is nu dood;
+hol ligt in den Haag begraven : 'l was een
+O"g druk kind, dat do gewoonte had op zijn
+buik te liggen, on 't, had een heel groot hoofd,
+on daar is 't op gevallen en toon hoefl hel
+de ho'.'senzioklègekregen. L1 m.iel er
+(iieichman maar eens naar vragen, die heeft het
+opgepast	en zoo wil ik u nu maar laten
+welen, toen leek het een moment of ik wal
+in de breedte groeide, maar 't. was ziekelijk
+
+heid Mijnheer; de professor hield het voor
+vetvorming, maar die is nu wou. de
+votvorming. niet de professor, die loeft nog, en sinds
+dien tijd ben ik wol gezond, maarzoo mager
+als oen talhout. En waarom moest ik nu
+inlgoteekond worden, alsof ik een rentenierende
+baker was, die dag en nacht uit den
+suikerpot heeft gesnoept en zich te builen is
+gegaan aan kaudool'.' 't Is, hoero-bowaar-ine
+dat ze 't zoo durven maken ! een
+door-en-doorlougenachtig portrei, en ik gebruik nooit een
+stoof mol een tost, e.n oen kooltje, want hel is
+van wege de villen pantoii'oN niet noodig,
+daar ik altoos op mijn kamer zit. behalve
+Zondags als ik te kerk ga. waar ik bij hol
+toenemen mijner jaren, hoe langer hoe meer
+schik in krijg; bovendien Mijnheer, hooft nu
+oen jaar of' vier ".vloden onze krans, do l n ie,
+me een vulkaehel pn^enl gedaan en daar
+
+mede bon ik er heeiemaal uit. dat geeft voor
+weinig gold een geinod"roerde temporatuur,
+on zoo gemakkelijk, je gooit er 's morgens of
+'s avonds. maar altijd geregeld ziet U, want
+anders zou hij uit wezen als je hem moo&gt;t
+aan hebben—. wat brandstollen in on nu zegt
+ieder die bij me komt. on ik krijg voel voor
+
+naam bezoek, wat hoeft, u het, hier lokker
+warm !
+Hopende dat, U deze opmerkingen mij niet
+kwalijk zult nemen, gedachtig als ikbenaan
+Uwe mij steeds betoonde welwillendheid, heb
+ik de eer met de meeste hoogachting mij te
+(eekenen,
+Uwe dw. dienaresse,
+d. L. P.
+DJ J'jdactie heeft gemeend dit schrijven
+haren lozers niet te mogen onthouden, al is
+niol alles., wat, daarin voorkomt, haar even
+duidelijk.
+
+('ORI1ESPONDEXTIE.
+ANNA. DI;N II.\.\&lt;;. Waar moeten de
+exemplaren gezonden worden, gaarne zenden
+we U die. Apropos, ge /ijt toch geen
+daltoniste, wel? 't Omslag is //rorit, niet blauw.
+
+I i. Ir A. l we bijdrage minder geschikt.
+
+A". .Y. liet gezondene moet blijven liggen
+lol een volgende week.
+Terugkeer tot het ambteloos leven te Rome, voorheen en thans.
+Cincinnatus 458 v. C. Crispi 1891.
+
+</text>
+<image timestamp="2002:08:18:20:40:23.00" size="301583">000002TK.TIF</image>
+</page>
+</document>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AVONDKLEEDING
+
+Smoking Costumes
+gemaakt voorhanden . . . £55—85
+Smoking Costumes
+naar maat	£75—125
+AMSTERDAM
+Nieuwendijk 184, tegenover de Passage
+;*'
+J. B. WOLTERS - Groningen - Den Haag
+Dr. OERARD BROM
+BAROK EN ROMANTIEK
+Prija, gebonden	f 2.50
+ROMANTIEK EN KATHO
+
+LICISME IN NEDERLAND
+EERSTE DEEL: KUNST
+TWEEDE DEEL: WETENSCHAP
+EN STAATKUNDE
+Gewone uitg., geb. in linnen.
+Prijs per deel f 7.90, twee
+deelen tezamen	f 15,80
+Luxe uitgave, geb. met perka
+
+menten rug, kop verguld,
+uitsluitend twee deelen
+tezamen	f 19,80
+Dr. O. KALFF Jr.
+FREDERIK VAN EEDEN
+PSYCHOLOGIE VAN
+DEN TACHTIGER
+Met 6 portretten en caricaturen
+Bandteekening van
+C. A. LION CACHET
+Prijs, gebonden	f 11,50
+Dr. O. KALFF
+GESCHIEDENIS DER
+NEDERLANDSCHE
+LETTERKUNDE
+COMPLEET IN 7 DEELEN
+Prijs per deel, gebonden f7.90
+
+WESTEUROPEESCHE
+LETTERKUNDE
+DER 15DE en 16DE EEUW
+Eerste deel, gebonden f 8,90
+Tweede deel, gebonden f 8,25
+Dr. J. PRINSEN J.Lzn.
+DE ROMAN
+IN DE I8DE EEUW IN
+WESTEUROPA
+Prijs, gebonden	f 15,00
+
+M. A. P. C. POELHEKKE
+LYRIEK
+Bandteekening van
+JOHAN DIJKSTRA
+Prijs, gebonden	f 5,90
+Dr. C. O. N. DE VOOYS
+MIDDELNEDERLANDSE
+LEGENDEN EN
+EXEMPELEN
+Bijdrage tot de kennis van de
+prozalitteratuur en het volks
+
+geloof der Middeleeuwen
+Herziene en vermeerderde uitgave
+Prijs, gebonden	f 5,90
+M. A. P. C. POELHEKKE
+en Dr. C. O. N. DE VOOYS
+
+PLATENATLAS
+bij de Nederlandsche Literatuur
+
+geschiedenis
+Prijs, geoart. f 4.50.
+geb. 3e druk f 4,90
+Dr. A. J. VAN DER MEULEN
+en M. TEN BOUWHUYS
+
+PLATENATLAS
+voor de Vaderlandsche Geschiedenis
+Bezorgd door Dr. N. B.TENHAEFF
+
+Prijs, geb.... 4e druk f 4,50
+Uitgaven van J. B. Wolters Groningen, Den Haag
+Keizersgracht 447
+AMSTERDAM
+OPGERICHT
+1739
+TELEFOON
+43688
+"' Een onzer monsterzalen
+Badkamerinrichtingen
+Warmwatervoorziening
+Centrale Verwarming
+f
+f&lt; 1.
+
+</text>
+<image timestamp="2002:09:22:06:03:20.00" size="134891">D1000738.TIF</image>
+</page>
+</document>

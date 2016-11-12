@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200103</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJ HET UITEENGAAN DER VREDESCONFERENTIE
+
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 3 Januari 1920
+Nadruk verboden
+Amsf. Boek- fn SteerulnikUerij. v h. Kllerman, Harms &amp; Co
+V on Gehtz, (tot den Oppersten Raad): Erg oorspronkelijk zijn de heeren niet, in 1815 spraken wij
+ook al van eeuwigen vrede en samenwerking der volken"
+
+</text>
+<image timestamp="2002:08:16:09:43:01.00" size="224279">D10000O6.TIF</image>
+</page>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010721</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Pers en de Kabinetsformatie.
+BIJVOEGSEL van de Arasterdammer, Weekblad voor Nederland van 21 Juli 1901.
+Amst. l!oek- en Steemlnikktrij, v/h. &lt;,lK'rn.i;:;i. tïarms '.\: Co.
+A.: Ik heb ze gezien, ze zijn met 'er drieën
+B.: Ik hoor alles wat ze zeggen . ..
+C.: Het heele koepeltje zit vol...
+D.: Kuyper had het lijstje in zijn hand.
+EEN JUFFROUW: Heere, Heere, hoor me die menschen
+daar in dat hokje eens aangaan. . . 't Wordt, nog moord en
+doodslag!
+
+</text>
+<image timestamp="2002:08:16:08:57:14.00" size="119610">D2000ZN.TIF</image>
+</page>
+</document>

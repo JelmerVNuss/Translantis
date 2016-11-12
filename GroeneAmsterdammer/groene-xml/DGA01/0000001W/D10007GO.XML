@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260403</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\ t M^^^M ^ ^-. ^^^^^^1 ^
+GSAURHzn.
+HOFLEVERANCIER
+
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A F. ZURCHER
+CARTONNAGEFABRIEKenDRUKKERlJ
+LOOIERSGRACHT 64-66-68-7 0-72,AMSTERDAM
+ARNHEM (Groole Markt)
+HOTEL DES PAYS-BAS
+ALBINGIA
+Verzekering-Mijen., Ao 1901.
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+30 CENT PER HALF ONS
+N.V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+N.V.
+- GOUDA
+T"""""1	:	Restaurant HOEK
+Amsterdam: sprUIP230
+- Oesters - Kreeft - Caviar
+IIMIHItllllllllllllllllllllllllitltlllllll
+PROJECTIE LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+AMSTERDAM DEN HAAG
+1)5 KALVERSTfV 124 NOOROEINDE
+NIJMEGEN GRONINGEN
+I3-I9V,BERCHENSTR- 3 KL
+PELSTERSTRt/o LIBERTY
+OilMT
+|TIMTUR|
+HAKLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- ttHOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE,
+CDA M TA ADH T, r~ FABRIEK ESPANA
+rAJNJAAKD O U), UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Amsterdam
+Singel 283
+BELRAFENfi ONDERNÊMlHB
+NICUWE SPIEQtLSTRAAT SI
+BtüRAFtnlSaLM MAARALLEPUAT5EM
+CRLMATIE
+NAAML. VENN.
+EUROPEESCHE
+Goederen- en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+POLISSEN d'ekkende zoowel
+ingeschreven^ als handbagage, geldig
+tijdens REIS- en VER B L I] F~in
+GEHEEL EUROPA, direct aan de
+stations d'er NEDERLANDSCHE
+SPOORWEGEN verkrijgbaar
+BW Schade kan ook worden cieregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Heixmglors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, Münchcn. Oslo, Parijs, Praag, Rome, Stockholm,
+\Varschau en \Veenen.
+
+l
+
+m
+
+
+m
+m
+^«jjKMB
+«S«&gt;S&lt;S'S&lt;JS^!K^S'SwS«S«S&lt;»S5^&gt;S*
+Dit weekblad wordt gedrukt op papier van de Trapeha» papiergroothandel ~ Amsterdam
+
+</text>
+<image timestamp="2002:09:25:07:15:37.00" size="164420">D10007GO.TIF</image>
+</page>
+</document>

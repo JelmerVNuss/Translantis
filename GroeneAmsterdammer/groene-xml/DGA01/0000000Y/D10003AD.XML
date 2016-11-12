@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200731</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE ENTENTE EN S O VJ ET - R U S L A N D
+Nadruk verboden
+R.f;VOKOSi:J vr.n De Amsterdammer". Weekblad voor Nederland, van 31 Juli 1920
+f *v":~'k
+l %:;;, .;:nilii x%
+
+. ,*» '«i;? .«/rafelgf.-^....^
+• ; • " '• " ~ - a? '«(s^
+!!*/•• «*.",•• . &gt; * /
+* i, r&gt; f- -• "r tv ?.'i&gt; k' $&gt; rrv~ïq
+i ' *
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co
+t»
+
+John Buil: Om onze dreigementen geeft hij niet, laten we het met honing probeeren.'
+
+</text>
+<image timestamp="2002:08:24:18:02:23.00" size="297832">D10003AD.TIF</image>
+</page>
+</document>

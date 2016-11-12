@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18981023</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Frankrijk en de pretendenten.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 23 October 1898.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, llarms &amp; Co.
+DE RÉPUi'.uouËFRAN&lt;,;AISE:
+»Ich denke einen langen Schlaf zu thun,
+Denn dieser letzten 'l'age Qiial war gross.
+Sorgt, dass sie nicht zu zeitig mich erwecken."
+(SCHILLER. Wallenstein's Tod. V. 5.)
+
+</text>
+<image timestamp="2002:08:14:05:14:36.00" size="554085">D100004U.TIF</image>
+</page>
+</document>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260220</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2542
+J. D. STRUIJS Zn.
+Prinsengracht 837 P. C. Hooftstraat HO
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+EDAMMER KAAS
+JTEEDJHErfunSTÊIM
+KWALITEIT
+FIRMA KRONER
+
+Nieuwendijk 167, Amsterdam
+OPGERICHT 1847 - Telefoon 43186
+
+Tafel- en Servetgoederen
+Handdoeken, Theedoeken en
+Glazendoeken, in half en geheel linnen.
+Badhanddoeken.
+Prima kwaliteiten, aan de laagste prijzen.
+U
+DOG
+a
+a
+D
+DE CHEMISCHE:
+W&amp;SSCHERIJ
+TECHNISCH LEIDER A.PAPEREL.
+0^ FIRMA J. G. MEIJER
+^^^ 2 Markten - GRONINGEN - Opgericht 1706
+SPECIALITEIT IN
+
+
+ECHTE GRONINGER KOEK
+van f l,.—t f 1.50, f 2.—f 2.50, f3,—enz.
+
+Franco per post 50 Cents verhooging
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 11-17 ~ AMSTERDAM
+
+Overhemden naar Maat
+VERVAARDIGD OP EIGEN ATELIER
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOEIEN
+
+Wed. JOHN GAY'S Piccalilli
+blijft het mosterdzuur met de fijne pikante smaak!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+NLV, DE^HOUTTUINEN" - AMSTERDAJM
+
+STEENHOUWERIJ 7 WEEGEWIJS
+Rapenburg 14 AMSTERDAM ~ Tel. 42662
+
+ARMERWERKEN
+W. FL POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+«
+«i
+«i
+49
+«i
+*(
+«i
+*i
+*i
+«i
+«i
+T BINNENHUIS
+GXS GV-) ONS OPGERICHT 1900 0.3 ^ c-a
+V. D BOSCH' MEUBELS TAPIJTEN
+POTTERY GLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: PRINSENGRACHT 707A
+!*
+!*
+b*
+*
+f&gt;
+J*
+&gt;*
+»*
+!*
+i»
+N»V» Haarlemsche Sodafabrick
+HAARLEM - TELEFOON 30
+H, S. F.
+Zuivere Kristalsoda in Kristallen en in Poedervorm
+
+Dubbel Koolzure Soda Natriumsulfaat
+(Water
+vrij) Glauberzout voor Technische doeleinden
+B. ]. MULDERS
+
+TUINARCHITECT
+Gevers Deynootweg 117 Schevcningen
+TELEFOON 50S10
+
+</text>
+<image timestamp="2002:09:25:01:27:02.00" size="130912">D10007CP.TIF</image>
+</page>
+</document>

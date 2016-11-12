@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300412</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 12 APRIL 1930
+No. 2558
+ERVACO
+ET heele huis
+gelijkmatig verwarmd
+uiten kan het nog
+koud en guur zijn, maar
+binnen is het altijd zomer
+in huizen met Braat's
+Centrale Verwarming...
+Altijd dezelfde behaag»
+lijke warmte in elk hoekje
+van elke kamer.
+Deze gelijkmatige temperatuur
+beteekent behalve grooter com
+
+fort, bescherming tegen ver
+
+koudheid opgedaan in een huis,
+dat gedeeltelijk goed verwarmd,
+gedeeltelijk koud is.
+Bovendien is Braat's Centrale
+Verwarming economisch n
+kachel verwarmt het heele huis
+zindelijk en hygiënisch. Geen
+kolen en asch in de kamer.
+Minder werk. Slechts n vuur,
+waarop moet worden gelet. *)
+Als gij eenmaal in een huis
+met Braat's Centrale Verwar
+
+ming hebt gewoond, zult gij
+nooit meer terug verlangen
+naar de oudervvetsche kachel.
+Vraagt onze brochure
+. Centrale Verwarming
+van Wtivii/iiiizcn"
+w-iariii alle systemc-n
+van Centrale Verwar
+
+ming worden bespro
+
+ken, aan bij Aid. C.V
+Koninklijke Fabriek
+!•'. \V Kram. N V
+Dl l f i
+e E M T
+A i.
+V E R W A R
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+N. V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+
+</text>
+<image timestamp="2002:09:25:09:22:58.00" size="121761">0000093S.TIF</image>
+</page>
+</document>

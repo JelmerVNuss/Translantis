@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19191129</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+38 $ov. '19. - No. 2214
+N v MACHINEFABRIEK HOOGENLAUDE
+v H. PAMNEVIS&amp;ZN. UTRECHT
+'-:p':"-,: IJZLR tn MtTMLGIETERIJ
+TYPE IOO IOOO PK
+F;
+l
+
+ri
+• 5 GELIJKSTROOM STOOMMACHINES
+•g TANDEM COMPOUND MACHINES
+•ïSTOOM DYNAMO MACHIMES
+;, l STOOM CEhFRiFUGAALPOMPm
+i.' T COMPRESSOREN VACUUMPOMPEN.
+:• J GiETWERKEN m IJZER EM METAAL
+l NAAR TEtKffltnG OF WODIL
+........ C1ICH&lt; • vervaardigd door
+Nieuw Electrisch Alarmapparaat
+tegen
+INBRAAK en BRAND
+Systeem
+Prospectus op aanvraag gratis.
+Beveiligt Deuren, Wanden, Zolders.
+Specialiteit
+Verzekering van Winkelruiten
+volgens afzonderlijk Patent.
+'N
+Inbraak, zelfs door den vakman, onmogelijk, daarom
+zonder concurrentie.
+
+Alleenverkoop voor Nederland en Koloniën;
+Technisch Handels- en Adviesbureau
+S. J. MULDER. - UTRECHT.
+CROESELAAN 153.
+J11M 1111 M 1111111 M l
+: OP055UM KRAAG.
+
+195.BONTVOE.RING EM KRAAG.
+
+J2Z5.OOSTERBEEK
+MEUBILEERINGEN
+MODELKAME.W VOOR BELANG
+STELLENDEN TER BEZICHTIGING.
+&gt;r
+#
+G root e s
+Heerenflikken
+Grootes
+Menagerie
+Grootes
+Caraque
+Grootes
+Roode
+Rollen
+Grootes
+Crêmolat
+(Melk-chocolade)
+CACAO GROOTES
+IN FANTASIE-BUSSEN
+Gegarandeerd Zuiver!
+Voedzaam! Eiwitrijk!
+Licht Verteerbaar!
+Fabrikanten
+D. &amp; M. GROOTES GEBR
+TE
+Westzaan
+Grootes
+Crêmolat
+Flikken
+Grootes'
+Tabletten
+(spelende kinderen)
+Grootes
+Paradijsreepen
+Grootes
+Goudtabletten
+Grootes
+Melktabletten
+
+</text>
+<image timestamp="2002:08:24:01:17:27.00" size="187129">D400038Q.TIF</image>
+</page>
+</document>

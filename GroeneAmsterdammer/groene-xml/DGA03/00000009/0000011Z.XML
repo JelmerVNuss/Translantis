@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070929</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1579
+DE AMSTERDAMMER WEEKBLAD YOOR NEDERLAND.
+Finacieele ei necoBOiscle WeL
+Het is langzamerhand rustig geworden op
+de fondaenmarkt en de dagen gaan saai,
+eentonig voorbij, zonder dat bijzondere koers
+
+beweging of nieuwe factoren de aandacht in
+beslag komen nemen. Al is deze stilte, van
+een takenatandpunt beschouwd, niet bepaald
+aangenaam, toch is het onder de gegeven
+omstandigheden maar het beste, dat men
+zich gelaten aan de gedwongen rustkuur
+onderwerpt in de overtuiging dat na de
+vroegere groote fluctuaties een dergelijke tyd
+van kalmte onvermijdelijk moet worden ge
+
+acht. Niet alleen dat de velen, die zoo gevoelig
+door de daling zyn getroffen, thans -den tijd
+hebben om orde op hun zaken te stellen,
+maar de geringe om rang der engagementen
+heefc tevens het goede gevolg geld zeer goed
+
+koop te doen blijven in den tyd, waarin ge
+
+woonlijk h ooge eisenen voor de k wartaal wis
+
+seling, het voldoen van rente en dividenden,
+alsmede voor de oogatbeweging worden gesteld.
+Zoo wordt thans b.v. reeds uit Londen bericht
+dat overvloedig aanbod van ultimo geld be
+
+staat, hetgeen wel een scherp contrast vormt
+met de situatie in het vorige jaar omtrent
+dezen tijd, toen slechts de hulp der Fransche
+Bank instaat was een ramp op de
+Londengche Credietmarkt te voorkomen.
+Ook in New-York is de positie een soort
+
+gelijke. BÜomzetten van nog geen 300,000
+ehares per dag is hei niet te verwonderen
+dat aan de geldmarkt geen booge eischen
+worden gesteld, zoodat niet alleen call money,
+maar ook geld op langen termijn aanmerkelijk
+ruimer is geworden. Nu is dat wel voor een
+gedeelte slechts een verschijnsel aan de opper
+
+vlakte, want handel en industrie moeten nog
+steeds een buitengewoon hoogen tol aan het
+kapitaal voldoen. Zoo werd enkele dagen
+geleden gemeld, dat de Chaflin Company, een
+der be-te en hoogst aangeschreven maatschap
+
+pijen te New-York haar driemaandsch papier
+slechts tot een disconto van 7 pCt. van de hand
+kon doen, zoodat kleinere geldnemers wel 8 of
+9 pCt. zullen hebben te voldoen. Zoolang in dit
+" opzicht geen verbetering intreedt, kan van
+werkelijke geldruimte niet worden gesproken
+en blijft de innerlijke toestand gespannen,
+zoodat er slechts weinig toe noodig is, ook
+op de open markt plotseling weder zeer on
+
+gunstige toestanden in het leven te roepen.
+Intusschen is het op het oogenblik al be
+
+vredigend, dat tenminste een paar lichtstre
+
+pen aan de kim zichtbaar zijn en zoo de
+stagnatie op de effectenbeurs lang genoeg
+duurt, om de geldmarkt o Ter de gevaarlijke
+najaar sk lippen heen te helpen, dan mag men
+hopen, dat 1908 gunstiger toestanden zal
+bieden, dan die waarvan wij in 1907 bijna
+onafgebroken getuigen zijn geweest.
+Niet alleen op het gebied der geldmarkt
+trouwens, liggen nog steeds voetangels en
+klemmen. Ook de industrieele positie
+vereischt nauwlettend te worden gadegeslagen,
+aangezien nog immer de vrees moet worden
+gekoesterd, dat een kalmere gang van zaken
+ter beurze, voor de nijverheid een aanmer
+
+kelijke inkrimping in zaken met zich zal
+brengen.
+Voor zoover het grondstoffen betreft, is
+•dit reeds thans vrijwel zeker. Op
+demetaalmarkt valt reeds sinds eenigen tijd een ge
+
+weldige inkrimping te constateeren. De
+voornaamste koperproducenten hebben hun
+productie met 50 pCt. verminderd; enkele
+mijnen zijn in verband daarmede tot divi
+
+dendverlaging overgegaan en het is waar
+
+schijnlijk, dat de anderen dit voorbeeld zul
+
+len volgen. Tot ongerustheid behoeft dit
+geen aanleiding te geven, daar de tegen
+
+woordige koersen deze verwachtingen reeds
+in voldoende mate disconteeren.
+Amalgamateds b. v. zouden thana niet op 60 pCt. staan,
+indien men verwachten kon, dat het divi
+
+dend op een 8 pCt. basis zou worden ge
+
+handhaafd, en het is zeker verstandig gezien
+thans de productie te beperken, teneinde
+zoo spoedig mogelijk een herstel te bewerk
+
+stelligen, liever dan de markt door verdere
+accumulatie van voorraden gedurende
+geruimen tijd te blijven drukken.
+De overtuiging, dat het huidige niveau
+veel slechter kansen verdisconteert, heeft de
+markt in den laatsten tijd beter bestand
+gemaakt tegen berichten omtrent inkrimping
+van bedrijvigheid in de verschillende branches
+en de grpndstemming blijft dan ook in
+NewTfork vrij vast. Te Londen is dit in mindere
+&lt;mate het geval, daar binnenlandsche factoren,
+.zooals de dreigende spoorwegstaking, ongun
+
+stig op de markt werken. Toch heeft men
+•er de kans schoon gezieïi, een aantal fondsen
+•omhoog te werken. Zoo waren Braziliaansche
+obligatiën er zeer vast gestemd, waaraan de
+^spoedig verwachte uitgifte der nieuwe leening
+-van £ S.OOO.oOO door de firma Kothschild
+wel niet vreemd zal zijn. Deze uitgifte etaat
+in verband met de bekende
+koffievalorisatieplannen. Men herinnert zich wel, hoe sterk
+deze speculatie in koffie in de pers is afge
+
+keurd en hoe ongeloovig men eenige maanden
+geleden het bericht opnam, dat de firma
+othschild haar naam aan een dergelijke
+zou verbinden. Latere berichten hebben de
+zaak wel in een eenigszins ander licht ge
+
+steld. Er is n.l. op gewezen, dat de koflieoogst
+in Braziliëslechts om de 2 of 3 jaar een zeer
+overvloedige opbrengst pleegt op te leveren,
+terwijl in de tusschenliggende jaren de uit
+
+putting der boomen, slechts een klein gewas
+plaegt te doen rijpen. Indien men hierop
+met stelligheid mag afgaan is het natuurlijk
+beter verdedigbaar, dat de staat, door het
+opkoopen van het surplus in de jaren van
+overvloed, reguleerend op de prijzen tracht
+te werken. Met dat al blijft het echter een
+financieren langs het kantje af, aangezien de
+natuur nu eenmaal grillig is en men niet
+met zekerheid vooraf kan zeggen, of niet
+gedurende een reeks van jaren regelmatig
+groote oogsten zullen voorkomen, waarbij
+ten slotte het vasthouden van het surplus,
+de fiaancieële krachten des lands te boven
+zal gaan.
+Hier ter beurze is het zoo mogelijk nog
+stiller dan eldera. Van Amerikaansche waar
+
+den blyft de handel alleen in Steels van
+eenigen omvang. Het Nederlandsch belang
+bij dit fonds is trouwens zoo groot, dat zelfs
+op de stilste dagen affaires moeilijk kunnen
+uitblijven. In de meeste andere hoeken is
+de handel nauwelijks van noemenswaardige
+beteekenis. '
+Binnenlandsche fondsen maken het ook al
+niet beter dan Amerikaansche. Zoo al gemeen
+is de heerschende lusteloosheid, dat b. v.
+Tabakken ondanks het uitstekende resultaat
+van de j.I. Zaterdag gehouden inschrijving,
+eerder in koers zijn afgebrokkeld. We hebben
+thads nog slechte enkele najaarsveilingen
+voor den boeg, en met zekerheid kan thana
+wel al worden geconstateerd, dat de verwach
+
+ting in het begin des jaars in den Groene
+uitgesproken, dat de veilingen in 1907 een
+zeer bevredigend verloop zouden hebben, ten
+volle verwezenlijkt 13. Dat zich dat T\iet op
+sterker wijze in het koersniveau heeft afge
+
+spiegeld, ligt deels aan de algemeene
+marktgesteldheid, ten deele aan het vooruitzicht
+op een slechter gewas uit den nieuwen oogst,
+die in 1908 ter inschrijving komt.
+Het levendigst bleef de omzet nog in
+Kimberley's, die zich op een koers van on
+
+geveer 20 pCt. konden handhaven. Men voedt
+zich thans met de hoop, dat de mijn op
+dieper niveau beter rendabel zal blijken,
+maar de verwachtingen te dien aanzien
+kunnen zeker niet hoog worden gespannen,
+terwijl het bovendien de vraag is, of de
+maatschappij over voldoende geldmiddelen
+beschikt, om deze kostkare exploratie voort
+te ze eten.
+ALEX. J. HKNDBIX.
+De stijging van den Cacao-prjjs.
+Sedert men, zoowel in binnen- als buiten
+
+land, aan ieder station, langs elke spoor' of
+tramlijn, aan den openbaren weg, zelfs bij
+het kleinste dorpje heeft kunnen lezen: Van
+Houten's Cacao is de beste", waarbij zich
+Bensdorp's, Blooker's, Driessen's, De Jong's
+cacao, ieder op zijn beurt de beste, aansluiten,
+kan men cacao-poeder niet meer als een
+zuiver genot-middel beschouwen, maar heeft
+deze zich allengs een plaats onder de
+dagelijksche voedingsmiddelen weten te veroveren.
+Nu is reeds sedert eenigen tijd op de
+cacaomarkt een hausse-beweging ontstaan,
+die meer dan gewone afmetingen heeft aan
+
+genomen en zoowel omtrent de oorzaken
+van die duurte, als omtrent het verdere ver
+
+loop van deze beweging verschillen de
+meeningen.
+De ruwe cacao heeft thans een prijs-niveau
+bereikt van ƒ63 tot ƒ66 per 50 kilo, een
+prijs, volgens de groote chocolade-fabrikanten
+in het buitenland veel te hoog, daar naar
+zij beweren de planters van St. Thom
+reeds bij een prijs van ƒ 36 voor hun product
+goede zaken maken. Volgens deze vak
+
+mannen zou een noteering van ƒ 57 f 60
+voor de goede soorten al ƒ 9 a ƒ 12 te duur
+zijn en geven zij den producenten in over
+
+weging, zich in hunne eischen te matigen en
+niet 't onderste uit de kan te verlangen.
+Volgens deze boordeeling moet dus worden
+gedacht aan een willekeurige opzetting van
+den prijs door de planters, waarmede de
+groote import-huizen van cacao het niet eens
+schijnen te zijn.
+Van die zijde toch wordt de hausse van
+de cacaomarkt beoordeeld als te berusten op
+een gezonde basis, als een zeer natuurlijke
+omstandigheid, en is 't onjuist de stijging der
+prijzen toe te schrijven aan geheel wille
+
+keurige manipulatie's of aan een soort
+trustbeweging van speculatieve planter?.
+Zelfs, betoogen zij, al zouden eenige groote
+importeurs te Lissabon met de planters van
+St. Thomézijn overeengekomen door onder
+
+linge samenwerking de prijzen te forceeren,
+dan zouden dusdanige afspraken op het ver
+
+loop van de wereldmarkt voor cacao slechts
+weinig invloed kunnen uitoefenen. Bij het
+beoordeelen van de tegenwoordige positie
+der markt, moet men echter begrijpen, dat
+'t hier niet geldt een sporadisch verschijnsel,
+maar den algemeenen toestand van de wereld
+
+markt.
+Volgens hunne redeneering is de oorzaak
+van de tegenwoordige duurte der cacao een
+gevolg van de economische omstandigheden,
+waarin da markt zich bevindt en waarbij in
+de eerste plaats dient in aanmerking te
+worden genomen de enorme -toename van
+het verbruik tegenover geen of niet belang
+
+rijke toename der productie. En het ver
+
+bruik zal,, naar hunne meening, nog meer
+toenemen, zelfs al zou de prijs nog hooger
+worden.
+Dit laatste argument wordt verdedigd door
+bet feit, dat in den laatsten tijd, niettegen
+
+staande de voortgezette rijzing van den prijs,
+geen vermindering, maar integendeel ver
+
+meerdering van de vraag voor consumptie
+werd geconstateerd. Zelfs de zeilende en
+stoomende aanvoeren werden grif verkocht
+llmlIlHHIHIIIIIHMKth/mmlIMIIIIIIMlIMIII
+Rentevergoeding voor gelden deposito:
+Met n dag opvragens	4 pCt.
+(Bedragen tot/1O.OOO terstond betaalbaar).
+Met tien dagen opvragens . . . 4% pCt.
+Voor n jaar fix	4 pCt.
+Voor andere termijnen op nader overeen
+te komen voorwaarden.
+Open en gesloten bewaargeving volgens
+reglement.
+SAFE DEPOSIT-INRICHTING.
+Loketten van ƒ 2.50 per maand (ƒ 10,—per
+jaar) en hooger te huur voor bij de Directie
+bekende of geïntroduceerde personen.
+Beglementen gratis ten kantore verkrijgbaar.
+Mij. HAMBURG",
+Levens-, uitzet- en Bente-Terzekeringen.
+(Onderlinge Maatschappij te Hamburg).
+Kantoor voor Nederland in bet gebouw dei
+Mij.: Amst., Heerengracht 450.
+De Mij. sluit op voord. cond. verzekeringen op
+het menschelijk leven met uitk. bij overl. of bij
+het bereiken van een bepaald levensjaar.
+Prospectussen en inlichtingen worden dooi
+H.H. vertegenwoordigers gaarne verstrekt.
+X
+LEVENSVERZEKERING -BANK
+A
+AMSTERDAM"
+Directeuren.. M? N.CMSMITS m OIJEN.- JLUBONNIK^, Adj.-Dit D.A.AEIJELTS.
+en ook de tweede hand vindt gemakkelijk
+afnemers, zoodat de handel bijzonder
+levendig is.
+Wat nu de productie betreft, in,
+ZuidAmerika is zij niet merkbaar toegenomen
+en dit wordt ook in de toekomst niet ver
+
+wacht. Wel is dat het geval in West-Afrika,
+waar de opbrengst reeds wat grooter is ge
+
+worden. Maar voor Afrika zal de arbeiders
+
+kwestie de productie-kosten niet doen stijgen,
+aangezien in dat werelddeel, in tegenstelling
+met de plantages ia Amerika, steeds voldoende
+arbeidskrachten aanwezig zijn.
+Maar, altijd volgens het oordeel vaneenige
+groote importeurs, bij een merkbaar grootere
+productie in West-Afrika zullen de ter
+markt komende partijen evengoed gemakkelijk
+koopers vinden. Hamburg is voor cacao de
+meest beteekenende markt, waar Engeland
+zelfs zijn product verkoopt; de Hambnrgsche
+importeurs hebben op 't oogenblik in't ge
+
+heel geen voorraad en die van de tweede
+uuiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiMiiiiiiiiiiiiiiHiiiiiMiiiuiiinniiiiiiiiiiiiniiiiiniiiiiiiii
+
+De Twentsche Bankvereeniging
+B. W. BUjdenstein &amp; C°.
+BIJKANTOOR: Prins Hendrikkade 139.
+Beserven f 3.745.299.3O,
+HOOFDKANTOOR: Spuistraat 138/114.
+Kapitaal f 12.646.445.—,
+Rckeulag-Courant met Rentevergoeding.
+In- en Verkeop Wissels in Binnen- en Buitenland, Vreemde Munt, Conpens.
+Inoasseerlng op Binnen- en Buitenland.
+Relswlssels en
+CredletbrievesIn- en Verkoop Effecten. Sluiten van Prolongatie.
+Uitzetten van fielden op Prolongatie met bewaring van het onderpand bfl de Twentseho Trntt Mg.
+Bewaring van Waarden. Safe Deposlti.
+Voorschotten op Fondsen, Goederen, tegen borgstelling, Crediethrpotheek of andere zekerheid.
+Crodletei aan kandelaren en Industriëlen bij hare afdeeling CREDIETVEREENIfilNfl.
+Rente voor DEPOSITO'S.
+Een dag opzegging *)	4K pCt
+Tlon Dagen opzegging	4fc
+Een maand vast	Vs pCt. beneden den gemiddelden prolongatie-koers.
+Drie Maanden 4 pCt.
+Zes Maanden 4
+Een Jaar opzegging	4
+*) Bedragen tot ƒ 50.000 zijn zouder voorafgaande opzegging betaalbaar.
+f Vanaf den dag der opzegging wordt X put. minder rente vergoed.
+JLtnster «lam Rotterdam Altnelo.
+Volgestort Kapitaal ƒ S,OOO,OOO.—. Reserve ƒ1,037,589.12
+DEPOSITO-RENTE.
+Met l dag opzegging (Bedragen tot ƒ25,000 zonder opzegging) 4J4 pCt. 'sjaars
+10 dagen ,	4K
+l maand ,	5
+6 maanden 454
+» l* » n •	....4 n n
+Accountant, De Directie,
+Amsterdamsen Accountants- K. G. GOEDEWAAGEN.
+Kantoor Mr. F. FOEKENS.
+onder Directie van Mr. E. J. KORTHALS ALTES. C. T. GOEDEWAAGEN
+Kas-Vereeniging
+19G.
+
+Kapitaal ƒ5,000,000.—. Reservefonds ƒ1,000,000.—.
+Neemt Cïel tien a Deposito.
+Met n dag vooraf opvragens tegen een rentevergoeding van ...... 4 pCt.
+Mits het geteekend opvragingsbiljet wordt overgelegd, zijn bedragen tot
+/58O,OOO op vertoon betaalbaar.
+Met tien dagen vooraf opvragens tegen een rentevergoeding van ..... 4M
+Deposito's voor n jaar .................. 4
+Andere termijnen op overeen te komen voorwaarden.
+Plaatst voor rekening van hare lastgevers gelden op Prolongatie, onder
+hare verantwoordelijkheid,
+Belast zich niet de Bewaring van Onderpanden van Prolongattën
+en in het algemeen met Open en Gesloten Bewaarneming.
+Tarieven en Voorwaarden op aanvraag verkrijgbaar.
+Amsterdam, 26 September 1907.
+Gevestigd te Amsterdam»
+I&gt;e KAXK geeft uit :
+41/* pCt. Obligatiën tegen den koers van 1OO p€t.
+in Stukken van ƒ1000.—, ƒ500.—, en ƒ100.—.
+Te Amsterdam verkrijgbaar ten Kantore der Baak N. Z. Voorburgwal 156 en bij de
+H. H. LEEMBEUGGEN, GUÉPIN &amp; MUIJSKEN; te Rotterdam, ten Kantore der Hoofd
+
+vertegenwoordiging: de DEPOSITO- &amp; ADMINISTRATIE BANK; te 's-Gravenhage ten Kantore
+van idem : de NATIONALE BANK; te Hilversum bij de H.H. VAN LEEUWEN &amp; OYENS
+en elders bij H.H. Agenten en Correspondenten. OE
+'s-Gravenhage, Leiden, Utrecht,
+Lange Poten No, 41, Breestr,No,114. Nachteg.str, No. 47,
+Koopt en verkoopt: Effecten, Wissels, Coupons en Vreemde Banknoten.
+Opent Eekening-Courant met rente vergoeding.
+Ml ui t Prolongatiën.
+Incasseert op Binnen- en Buitenland.
+Neemt gelden a Deposito.
+Kortenaerkade 3, 's-Gravenhage.
+Agentschappen: Amsterdam Ilokin 99; Rotterdam, Sleepersvest 1.
+Verleent op billijke voorwaarden:
+Voorschotten op langen termtyn met 2 borgen en eene polis van levens
+
+verzekering ;
+Handelseredieten; Hypotheken.
+Levensverzekering-Maatschappij te LONDEN.
+OPGEEICHT IN 1848.
+
+Merlantt A&amp;teelin: AMSTERDAM, SPCII 23-27.
+Directeur: M. JÜDELL.
+STAND 31 DECEMBER 1903 :
+Actief	ƒ 104,258,905.
+Jaarlijksche inkomsten	15,985,560.
+EST B.. 1848. Uitbetaald aan de verzekerden	234,588,672.
+Residentie Hypotheekbank,
+aeresligtl te 's-Gravenltage,
+Directie: R. E. ABBtNG. Jhr. V. BOREEL.
+Verkrijgbaar: 4i/2 pCt. HYPOTHEEKBRIEVEN a	100 pCt,
+iiiteAasterüai
+UM.
+KelierMgraeht 377*
+Hemonylaan 2*
+Verleent credieten tegen eene rente in
+verhouding tot het disconto dei Nederl. Bank.
+Neemt gelden * deposito, rente thans:
+met l dag oplegging ..... 4 pCt.
+voor l maand vaat ...... 4J£
+3 maanden vaat	4Ji »
+langer volgens overeenkomst.
+Belastrichmetincasseering,uitbetalingen»
+Yerhuurt Safes Toor berging van waarde»
+la hare bramdklnizen. De Directie.
+De Hollandsche Yoorscholbanl
+JAU8WEG «.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnstraat 50.
+Nijmegen, Berg-en-Dalscheweg 61.
+De Bank verstrekt gelden tot elk bedrag,
+met een minimum van ƒ 5OO en verkoopt
+4 H pCt. Schuldbrieven in stukken van
+ƒ 1000, ƒ 600, ƒ 100 en ƒ 50.
+BaitenlaüdsclieBankvereenigiDi
+bworgt den IN- en VERKOOP V AH
+EFFECTEN op de bennen van
+Amsterdam, Londen, Parjjs, Berlijn.
+Frankfort, Brussel en New-York.
+Premieaffaires
+BEURSSTRAAT•S.SÏftgif
+REGÜL1ERSBR:STR.47.
+Rolt. Hypotheekbank v. Nederl
+Yolteekend Maatech. Kapitaal ƒ5.000.000
+Reserve ƒ 502.487.42X.
+Geeft geld op eerste hypotneek zonder
+vooruitbetaling van rente. Inlichtingen to
+bekomen ten kantore der Bank, Gedempt»
+Bierhaven 25, of bühare Agenten.
+De Directie:
+Mr. B. Mms, ED. HOYBB, Mr. W. v. Beaam.
+HEO.-INDISCHE
+CREOIETen BANKVEREENIBIIII.
+HOOFDKANTOOR AMSTERDAM,
+DEPOSITO-RENTB
+voor bedragen met l dag opzegging Z po».
+n n l maand 6 K
+gedurende 3 maanden 4%
+« n n 6 4 M
+, n l Jaar 4 .
+(gelden op langen termtfn ge
+
+deponeerd kannen elfeen dag tas*
+Rebenttfdg worden teruggevraagd,
+In welk geval correspondeerendc
+renten vergoed worden.
+
+
+Ie RENTE-CASSA
+Heerengracht 179 (geb. Associatie-Catta),
+AMSTERDAM.
+Kapitaal .... ƒ1,000,000.—.
+Reservefonds • 1,050,367,93.
+De Rentevergoeding voor gelden &amp; Deposito.
+Met l dag opzegging (bedragen
+tot ƒ 5000 direct te ontvangen). . -4 pCt
+Met 10 dagen opzegging
+Voor l maand fixe
+2 en 3 maanden fixe
+l jaar fixe
+
+
+Prolong.-conditie (tot beperkte bedragen)
+% pCt. onder den prolongatie-koers.
+
+
+
+IMF
+verstrekt op billijke conditiën en tegen elk»
+goliede waarborg DE NEDERLAND»
+SCHE CREDIETBANK, Haarlem,
+Nieuwe Gracht U.
+Agentschap te Amsterdam, Keizersgr. 478.
+Zuider Hypotheekbank
+te Breda.
+Directie:
+Mr. H-K.V.MAASDIJK en E. J. M. DE BRULT».
+Gelden onder Eerste Hypothecair verband
+en 4 pCt. PANDBEIEVENin stukke!
+ƒ1000.—, 500.—en 100.—.
+
+
+Oranje -toau-Hypotheekbank.
+Kettingstraat 16, 's-Gravenhage.
+Maatschappelijk Kapitaal . ƒ3.000.000.
+waarvan uitgegeven 2 serieën - 1.200.000.
+Reserves	122.536.02 X
+Verstrekt gelden op Eerste Hypotheek op
+concurreerende voorwaarden en geeft 4 pCt
+en 4X pCt. Pandbrieven uit.
+
+Hypotheekbank voor Nederland.
+Opgericht l SS». Atn*t. Singel 519,
+Koers 4 pCt. Pandbrieven.. .98 pCt.
+Behalve door de hypothecaire verbintenis
+
+sen, ten behoeve der Bank gesloten, zijn d»
+Pandbrieven nog bovendien onvoorwaardelijk
+voor renten en aflossing gewaarborgd door d«
+Algemeene Waarborgmaatschappij,
+Mr. A. H, VAX NIBROP	Mr. P. PEKLEN, Direct,
+Maatsch. Kapitaal (geheel gepl.) ƒ 2,000,000
+Reserves	ruim 179,000
+Pandbrieven in omloop . 14,600,090
+l
+
+</text>
+<image timestamp="2002:08:13:05:28:40.00" size="446572">0000011Z.TIF</image>
+</page>
+</document>

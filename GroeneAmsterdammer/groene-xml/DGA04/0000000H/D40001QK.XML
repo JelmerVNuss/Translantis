@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150502</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nadruk verboden
+DE ZENDING VANWEGE DE NEDERLANDSCHE REGEERING AAN DEN PAUS
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 2 Mei 1915
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Cc
+Aan de Poort van het Vaticaan: Wel, Mijnheer, dat is al wel veertig jaar of langer geleden, dat
+wij die Nederlandsche liverei hier voor het laatst hebben gezien! Maar dat komt wel goed,
+wij hier weten te wachten; wij hebben den tijd.
+
+</text>
+<image timestamp="2002:08:21:11:53:02.00" size="151441">D40001QK.TIF</image>
+</page>
+</document>

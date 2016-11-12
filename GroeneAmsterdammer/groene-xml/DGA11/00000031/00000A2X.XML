@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320312</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 12 Maart 1932
+N o. 2858
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+VERWEEGEN
+&amp;KOK
+AMSTERDAM
+J] DEN MAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tal. 20341 24250
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+
+
+
+" D. WEEGEWIJS' ~~~
+STEENHOUWERIJ EN FABRIEK VAN MARMERWERKEN
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN WASCHTAFELS R EPAR ATI ES
+
+RAPENBURG 44 AMSTERDAM TEL.EF. 42662
+HOTEL -CAFÉ-RESTAURANT
+HET GOUDEN HOOFD
+REMBRANDTPLEIN AMSTERDAM
+^Modern Comfort-Lift-Stroomend water -enz. ^
+|^ Logies met ontbijt f 3.50 per persoon ^g
+i—W. H. POLMAN TUIN
+l OVERTOOM 526 * Telefoon 82660
+l Begrafenissen - Transporten - Crematies
+C. J. de Koning &amp; Zn.
+
+Keizersgracht 447
+Opgericht Ao. 1739
+
+6 a d e n en G e y s e r s
+Pendules - Horloges
+Stijlklokken - Wekkers
+Barometers - Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. Breen
+N i e u we n d ij k l 7 2
+Haarlemmerstraat 64
+Roze H'gracht 53
+Ateliers voor reparatlen aan
+Uurwerken, Goud en Zilver
+
+
+de uitki k
+F
+1
+L
+M
+T
+H
+E
+A
+T
+E
+R
+Dagelijks?.30,7.30,9.30
+FILM EN MODERNE
+MUZIEK
+prinsengracht bi
+de leidschestraat
+t*l°foon 3746O
+ROOKERS!
+Doet als volgt om Uw tanden1 wit te houden. Tandaanslag absorbeert
+rook. Verwijdert den tandaanslag en Uw tanden zijn blinkend wit.
+
+D OOK is niet de oorzaak van doffe
+tan1 *• den maar kleurt slechts den tand
+
+aanslag waarmede de tanden bedekt
+zijn. Om deze vlekken te verwijderen
+moet eerst de tandaanslag verdwijnen.
+
+Tandaanslag hecht zich aan het
+glazuur vast. Gewoon borstelen helpt
+hier niet tegen. In tandaanslag bevin
+
+den zich bacteriën, die bederf veroor
+
+zaken Pepsodent heeft uitsluitend ten
+doel dezen tandaanslag te verwijderen.
+De werking van Pepsodent is abso
+
+luut onschadelijk, doch de tandaan
+
+slag wordt op een grondiger wijze
+verwijderd dan bij welke andere
+tandpasta ook.
+
+Duizenden menschen, die dachten,
+dat hun tanden van nature verkleurd
+waren, gebruikten Pepsodent en zagen
+hun landen weer blinkend wit wor
+
+den. Pepsodent zal U weer fraaie, ge
+
+zonde tanden geven.
+5000
+
+De nieuwe
+hedendaagsche Amerikaansche Tandpasta.
+PAASCH
+
+EITJES
+
+van Droste zijn iet»
+bijzonders. In diverse
+exquise smaken, o.a.:
+GIANDUJ A-EITJES.
+een vulling van vloeiba
+
+re Gianduja-chocolade
+Ziet toe, dat ge
+Droste's krijgt.
+«ALTIJD WELKOM»
+.
+
+f
+4
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinq
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:18:54:31.00" size="205132">00000A2X.TIF</image>
+</page>
+</document>

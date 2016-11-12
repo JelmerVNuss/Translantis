@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960105</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BT|VOK(JSKI, van de Amsterdammer. Weekblad voor Nederland, van 5 Januari 1896.
+Oom Paul en de uitlanders.
+^^^
+\
+\ui-l l'ii.ick- ci) Mccinir'-il-Ki-rr, v li. lillernian. liarins ^S; Co.
+^rctidcnt ]\i'ïtirc&gt;-; - Zoolausj hulle an 't kibbelen is, hoef ons nos/ niet bantr te \vezen .
+&lt;-&gt; O ?~» O
+
+</text>
+<image timestamp="2002:09:04:03:55:09.00" size="218463">D10004DN.TIF</image>
+</page>
+</document>

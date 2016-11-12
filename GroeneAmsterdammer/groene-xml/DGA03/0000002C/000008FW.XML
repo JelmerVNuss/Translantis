@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300823</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+U^EN
+OEDEWAAGEN'S
+
+KROONPUPEN
+
+IN GESLOTEN DOOZEN
+VAN 6 STUKS
+
+Houbaerillos 2% et
+Sigaren .i . 5 «4
+
+Met bons voor fraai*
+geschenken
+HOUBAER * G»
+Ad verteert i n:
+De Groene Amsterdammer
+WIA DE ROOK
+
+gedipl. leerares Piano
+
+David Blesstraat 9"
+
+AMSTERDAM (Z).
+A U G. UILKEMA
+GROOTSTE
+HORLOGE MAG.
+
+«eis wekkers
+
+tl. 12.50 tot fl. 35.
+Reguliersbreestraat 39
+VAN RIJN'S
+±::MOSTERD
+FRED DONDERS
+
+
+onder de JUUeiEREN
+
+door C. F. VAN DAM
+met teeken, door IS.
+VAN MENS en ELCO
+TEN HARMSEN VAN
+BEEK
+
+
+f?-, gebonden f 2.80
+Een kostelijk jongensboek ligl
+voor ons, dal wij mef eanige
+signa/eeren omdat het atwijkf van
+het gewone genre, zeer vlot ge
+
+schreven is met veel fantasie en
+omdat het zich volkomen bij onzen
+tijd aanpast. Wij kunnen zonder
+aarzelen dit boek van Fred. Don
+
+ders aanbevelen. Het draag! een
+cachei. dat vele jongensboeken
+missen {HaagsehèC r t.)
+Dit alleraardigste jongensboek
+zal ongetwijfeld gaan behaoren
+tot een der knal-boeken" van
+dit seizoen. (Holl, Revue).
+Zoo krijgen de' jeugdige lezers
+aardige kijkjes op hel leven der
+Arabieren met eenige mooie
+teekeningen. (De Telegraaf).
+U moet toch eens proeven... Patria Carltons...
+
+het nieuwe Engelsche bakwerk... verrukke
+
+
+lijk van smaak	en zoo licht... heerlijk bij
+
+de thee... vooral die Corona" of de Butter
+
+Sprits"... Patria overtrof zichzelf ermee en dat
+
+wil wat zeggen(!).... wat ruikt dat heerlijk als
+
+zoo'n blik opengaat... hè, geef eens gauw,
+
+laat eens proeven	U moet ze óÖk eens
+pro
+beeren... vandaag riog... Carltons"... 18 cent
+
+per ons; blik no. l f 1.--.
+*..,;.
+'*^ &lt;• ' '•
+
+
+^«**.
+'f
+
+PATRIA BISCUITS
+Handelsdrukwerk- Periodieken -Catalogi
+
+
+
+JJrukkerij Jrlantijn
+
+
+Amsterdam
+
+
+Reclamedrukwerk - Geldswaardig Papier
+
+."' **•	TT-rrr.-n-r.na
+N. v. D, Hogenbirk 6 Zoon's
+
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. 1442
+Constructiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen*
+Kolommen, Reservoirs, enz.
+8v«cUl«
+Hekwerken e&gt; DrMilUfKbelilUg«, Dixn*
+
+</text>
+<image timestamp="2002:09:22:01:08:59.00" size="333474">000008FW.TIF</image>
+</page>
+</document>

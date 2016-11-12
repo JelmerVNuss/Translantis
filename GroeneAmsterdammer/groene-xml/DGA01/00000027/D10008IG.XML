@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330429</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+De Groene Amsterdammer van 29 April 1933
+No. 2917
+Radio en grammofoon
+Goed voorbeeld.
+
+i
+C-*..
+w:
+Hexoden
+In Zuid-Frankrijk is een automobielwedstrijd gehouden,
+waarvan het parcours o.a. dwars door Monaco liep.
+Kienwe radlolampen voor
+nieuwe toestellen
+
+De radio-techniek is sinds het ont
+
+staan van deze wetenschap nog geen
+oogenbliktot stilstand
+gekomen.Voortdurend worden nieuwe methoden,
+nieuwe onderdeelen en nieuwe scha
+
+kelingen uitgevonden. Niemand kan
+op het oogenblik zeggen, waar wij met
+de radio nog zullen belanden en degene
+die durft te voorspellen, dat wij te
+eenigertijd allemaal met een klein
+zendertje en ontvangertje in de vest
+
+zak zullen rondloopen, waarmee" wij
+met iedereen op de wereld in verbin
+
+ding zullen kunnen treden, zal door de
+wetenschapsmenschen niet voor een
+dwaas worden versleten. Voorloopig
+ajjn wij daar nog lang niet aan toe en
+de nieuwigheden beperken zich tot de
+verfijning en verbetering van de be
+
+staande methoden en onderdeelen en
+de veralgemeening van methoden, die
+tot dusverre slechts voor bijzondere
+doeleinden gebruikt werden. Een voor
+
+beeld daarvan is de superheterodyne
+ontvanger, die sinds een jaar in
+radioluisteraarsbereik is gekomen. Deze
+ontvanger, vroeger een kolos met een
+groot aantal lampen, in stalen ramen
+gebouwd, en gebruikt voor het be
+
+luisteren van de groote commercieele
+stations, die in Amerika en op derge
+
+lijke groote afstanden zijn gevestigd,
+is door de verbetering der onderdeelen
+in vele luisteraarswoningen gekomen.
+De , .super'' is echter nog geen algemeen
+goed geworden, want daarvoor is dit
+toestel met zijn vijf of zes lampen nog
+veel te duur. De constructie is moeilijk,
+het aantal onderdeelen groot, boven
+
+dien is het toestel 'een nieuwtje, dus
+is de prijs gepeperd.
+De ontwikkeling staat niet stil. Ook
+de super", dit universeele toestel,
+dat voor een tamelijk langen tijd het
+beste toestel kan blijven, moet alge
+
+meen gekocht kunnen worden. De
+Super", die geschikt kan worden
+gemaakt om golflengten van 5 tot
+2000 meter téontvangen en dat alles
+met n enkele afstemknop, is een
+ideaaltoestel. Te duur !
+Er schijnt voor een deel een remedie
+gevonden te zijn tegen de financieele
+gebreken van de super. In de
+Telefunken-laboratoria zijn een tweetal
+nieuwe lampen gemaakt, die een
+omwenteling in het bouwen van
+superontvangers kunnen beteekenen. Deze
+nieuwe lampen zijn hexoden", het
+
+geen natuurlijk den technisch niet erg
+goed ontwikkelden lezer niets zegt. De
+lampen worden tegenwoordig vrij al
+
+gemeen gedoopt naar het aantal
+electroden, dat de lamp bevat. De hexode
+bevat vier roosters, gloeidraad en
+plaat, en heeft dus n rooster meer
+dan de reeds bekende pentoden. Ver
+
+dere technische bijzonderheden zal ik
+er maar niet van vertellen, want dan
+geraken wij spoedig op een terrein,
+fc
+Zie den bon op
+pagina 3 van
+het omslag
+dat buiten het raam van dit artikel
+ligt. Beter is om mede te deelen, wat
+deze nieuwe lampen moeten doen.
+Er komt in de eerste plaats een z.g.
+meng-hexode op de markt. In de
+superheterodyne ontvangers wordt
+aan de energie, die door de draaggolf
+van het ontvangen station in de an
+
+tenne van den ontvanger wordt ver
+
+oorzaakt, energie met een andere golf
+
+lengte toegevoegd. Dat toevoegen ge
+
+schiedt met een gewone radiolamp.
+In het toestel zit een lamp, die.men
+laat genereeren doordat een
+vastingebouwde terugkoppeling te sterk is
+aangehaald. Die lamp genereert dus
+voortdurend en wel op n bepaalde
+golflengte. De energie van deze
+geiiereerende lamp wordt aan de
+detectorklamp toegevoegd en daardoor bij de
+golflengte van het te ontvangen sta
+
+tion gevoegd. Daardoor wordt de
+golflengte van het ontvangen station
+veranderd een en ander dient om
+de selectiviteit van het toestel te
+vergrooten. Voor deze twee afzonderlijke
+lampen treedt nu de hexode alleen op.
+Het voordeel hierbij ligt niet alleen in
+het feit, dat een hexode niet het dub
+
+bele zal kosten van een normale lamp,
+doch vooral in de mogelijkheid om
+daardoor de superheterodyne toestel
+
+len eenvoudiger te bouwen. Volgens
+de verklaringen van het
+Telefunkenlaboratorium, die ik nog niet heb
+kunnen controleeren, omdat ik de
+lamp niet bezit, moet ook de selecti
+
+viteit door deze nieuwe constructie
+verbeterd zijn.
+De tweede hexode is speciaal ont
+
+wikkeld als hoogfrequentversterker en
+wel als vervanger voor de z.g.
+exponentiaallampen, of te wel
+anti-fadinglampen. In de practijk hebben deze
+anti-fadinglampen getoond, dat zij
+inderdaad een zeer groot gedeelte van
+de fading weten aus zu gleichen"
+glad te strijken. Dat gebeurt, doordat
+deze lampen in een daarvoor geschikte
+schakeling bij intredende fading meer
+versterken, dan wanneer het binnen
+
+komende geluid normaal is. De nieuwe
+hexoden kunnen verschillen in
+geluidsterkte van l tot 10.000 normaliseeren
+tot een gelijkblijvende sterkte.
+Practisch zal dit echter niet gaan, omdat
+dan andere onaangename dingen ver
+
+sterkt worden, die wij liever niet
+hooren, zooals b.v. de allerzwakste
+luchtstoringen. Toch zullen deze nieuwe
+lampen, die een eenvoudiger schake
+
+ling mogelijk maken, hun
+anti-fadingwerk nog beter kunnen doen dan de
+vroegere exponentiaal-lampen.
+Voor de verbetering van bestaande
+toestellen beteekenen deze lampen
+niets. Rr is namelijk voor beide hexo
+
+den een geheel andere schakeling
+noodig en de constructie is bovendien zoo
+gehouden, dat zij niet in een besteand
+toestel kunnen worden geplaatst. De
+radio-industrie houdt er nu eenmaal
+van om de nieuwe dingen zóó te ma
+
+ken, dat een aantal menschen, dat
+weliswaar goede, doch niet meer ge
+
+heel moderne toestellen bezit, te ver
+
+leiden om een geheel nieuw toestel te
+koopeii. De hexoden hebben, zeven
+pootjes en bovendien een aansluiting
+boven op de lamp.
+Dit zijn de eerste nieuwigheden
+voor het komende seizoen. Kr zijn er
+nog meer op komst !
+
+L. J. VAN LOOI
+Hoe het Damrak er zou uitzien, wanneer het voorstel van onzen teekenaar
+Van Vlijmen, om een dergelijken wedstrijd door Amsterdam te houden,
+werd aangenomen
+Taalcursussen op de grammofoon
+Fry's Phono Method
+Ken uitstekend leermeester in de
+vreemde talen heeft de techniek ons
+gebracht. De grammofoon blijkt een
+der geduldigste en beste onderwijzers
+op dit gebied te zijn. Wij kennen de
+cursussen vau de Linguaphone. van
+de His Masters Voice en van de
+Columbia. Daarbij /,al in den vervolge
+ook moeten worden genoemd de
+voortreffelijke grammofonische leer
+
+gangen voor Fransch, Kngelsch en
+Duitseh van Fry's taaiinstituut te
+Amsterdam, dat in samenwerking met
+de Odeon voor elk dier talen een
+begincursus van 24 lessen en een
+vervolgcursus van 12 lessen in den
+handel brengt. Bij de/e cursussen
+behooren respectievelijk 12 en (i groote
+platen (30 cM.) van de Odeon, die
+aansluiten aan het leerboek. Itet
+leerboek voor eiken begincursus is
+verdeeld in korte brochures, zoodat
+ge niet een dik studieboek behoeft
+mede te dragen en uw ,,les" in den
+zak kunt meeiKinen.
+Elke les bevat /.innen, vragen en
+antwoorden in de betreffende taal,
+die correspondeeren met den tekst van
+de plaat. Onder die woorden iri een
+vreemde taal is de Flollandsche ver
+
+taling gedrukt en bovendien zijn de
+meeste zinnen nog verduidelijkt door
+kleine, geestige teekeningon. Verder
+een conversatie of een herhaling van
+moeilijke gedeelten. Daarna volgt, in
+het Nederlandsch, de toe ichting van
+het iri de les en op de j laat behan
+
+delde gedeelte van de grammatica,
+die de leerling zonder gebruik van
+plaat zich eigen kan maken.
+liet is een verdienste van den
+samensteller, dat hij de lessen niet
+droog" heeft gehouden en de ver
+
+velende themazinnetjes zooveel mo
+
+gelijk heeft vermeden. Hij brengt hiel
+
+en daar zelfs een glimlach aan de
+leerlingen. Als mevrouw Uraun zich
+aan de piano zet en begint te
+ziug'eri, waardoor mijnheer lïraun zich
+naar den tuin begeeft, omdat hij daar
+het /.ingen niet hoort, en Tommy, de
+hond. onder de sofa kruipt eri hard
+begint te janken, alles vanwege het
+zangnummertje van mevrouw Braun.
+dan ervaren wij dat de leerstof wel
+eenigszins prettiger is dan die, welke
+in de meeste taaiboekjes wordt ge
+
+geven.
+Wanneer met ernst de eerste 24
+lessen zijn gevolgd, dan is de leerling
+werkelijk al een heel eind op dreef.
+De mogelijkheid om den geheelen dag,
+'s ochtends, 's middags en 's avonds,
+wanneer een leerling vijf of tien mi
+
+nuten over heeft die toch verloren
+zouden zijn, telkens weer den leeraar
+aan het woord te kunnen laten, is van
+niet te onderschatten waarde.
+Voor hen die een taal al kennen is de
+vervolgcursus. Daarin wordt ook ge
+
+deeltelijk de litteratuur van het land
+betiokken. Zelfs zij, die meerien
+..uitgeleerd" te zijn, zullen toch nog
+wel wat kunnen opsteken van deze
+vervolgcursussen. Men mag bijvoor
+
+beeld uitstekend in zijn Engelsch zijn,
+van een juist gesproken Kngelschen
+tekst, zooals hieronder volgt, is naar
+onze meening nog wel iets wijzer te
+worden.
+In promulgating your esoteric
+cogitations, or articulating your
+superficial sentimentalities and amicable,
+philosophical or psychological
+observations, beware of platitudinous
+ponderosity. Let your conversational
+Communications possess a clarified
+coticiseness. a compacted
+comprehensibleness, coalescent consistency, and
+a concatenated cogency. Eschew all
+eonglomerations of flatulent garrulity,
+jejune babblement, and asinine
+affectations. Let your extemporaneous
+descantings and unpremeditated
+expatiations have intelligibility and
+veracious vivacity. without
+rhodomontade or thasonical bombast,
+Sedulously avoid all polysyllabic
+profundity, pompous prolixity.
+psittaceous vacuity, venriloquial verbosity
+and vaniloquent vapidity. Shun doubl
+entendres, prurient jocosity. and
+pestiferous profanity. obscurant or
+apparent.
+v, D.
+
+</text>
+<image timestamp="2002:09:26:22:23:10.00" size="259705">D10008IG.TIF</image>
+</page>
+</document>

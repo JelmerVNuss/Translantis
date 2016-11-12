@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130720</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AANBOD VAN MACHT
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 20 Juli 1913
+o Nadruk verboden
+Dr. D. Bos, tot Kabinetsformateur benoemd, heeft den Heer TROELSTRA voor *•*
+zijne fractie drie portefeuilles aangeboden.
+''"H-SMH&amp;I?'
+
+-*&gt;\ i-1
+
+!lir&gt;i~M; *• ?*
+Ifl A 4L s &lt; .1"
+Toen ik eens
+Was ingesJapen in den tuin te Wilstadt,
+Verscheen me een engel, schitterend van licht,
+En schoon... o moeder, hemelsch! In z'n hand'
+Droeg hij twee kronen, de een van doornen,
+En d' ander scheen van goud	,,Kies!"
+Zoo sprak hij... Maar ik sidderde in mijn droom,
+En nog eens riep hij dat ik kiezen zou.
+Toen koos 'k dien een',
+En drukte mij den doornenkrans op 't hoofd,
+En voelde 't bloed mij bigglen langs de slapen:
+Door dat tot dit" sprak ik.... Door déze kroon
+Van doornen tot dien andren."
+
+(Vrij naar Multatuli's Vorstenschool)
+DR. Bos
+Amst. Boek- en Steendrukkenj, v h. Hilennan, Harnis &amp; Co
+
+</text>
+<image timestamp="2002:08:20:02:56:26.00" size="409430">D40000U3.TIF</image>
+</page>
+</document>

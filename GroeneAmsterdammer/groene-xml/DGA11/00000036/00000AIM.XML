@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320827</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 27 Augustus 1932
+No. 2882
+i
+H
+
+S'
+Een polls der
+
+LEVENSVERZEKERING
+
+M«. ARNHEM"
+Is de beste geldbelegging.
+GEMEENTE HAARLEM.
+UITGIFTE van
+ƒ 1.500.000.-5 pCt.Obligatiën,
+TWEEDE LEENING 1932,
+in stukken van fOOO.
+Ondergeteekenden berichten, dat de inschrijving op
+bovengenoemde obligatiën zal zijn opengesteld op
+
+DINSDAG 30 AUGUSTUS 1932,
+van des voormiddags 9 uur tot des namiddags 4 uur,
+ten kantore van de INCASSO-BANK N.V. te AMSTERDAM,
+ROTTERDAM en 'S-ÖRAVENHAGE en ten kantore van
+de Meeren R. MEES &amp; ZOONEN te ROTTERDAM en
+'S-QRAVENHAQE, alsmede ten kantore van den GEMEENTE
+
+ONTVANGER te HAARLEM, tot den koers van 99 pCt.,
+op de voorwaarden van het prospectus d.d. 25 dezer,
+waarvan exemplaren, benevens inschrijvingsformulieren, bij
+bovenvermelde kantoren verkrijgbaar zijn.
+
+INCASSO-BANK N.V.
+
+R. MEES &amp; ZOONEN.
+AMSTERDAM,
+ROTTERDAM,
+25 Augustus 1932.
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en VGRAVENHA8E
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+NI DE HUILEn
+HYPOTHEEKBANK
+Leden der directie: ^SUS-" Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. THIERRY DE BYE DOLLEMAN
+
+Pandbrieven f 40.583.700.
+Hypotheken f 41.152.862.
+Reserves
+979.170.
+Hl Insulaire Hypotheekbank
+
+te ZIERIKZEE.
+Uitgifte van
+
+5% Pandbrieven a 39%
+MAR RAKECH
+
+door
+
+C. F. VAN DAM en IS. VAN MENS
+
+DE AAN- EN INKLEEDING VAN DIT BOEK ZIJN ZEKER EVEN BELANGRIJK ALS
+het reisverhaal en de teekeningen. Tezamen maken zij het tot een heugelijk en
+allerpleizierigst harmonisch staal van huidige boekkunst.
+Frans Coenen, Gr. Nederland
+
+Buitengewoon goed bevalt de levendige kort-aangebonden verteltrant van den
+Marrakech-bezoeker, zijn korte maar zeer rake beschrijving van honderden
+kleinigheden. Op sommige plaatsen is de verteltrant zelfs zeer origineel en
+tegelijkertijd zeer beeldend. Albert Heiman, De Groene Amsterdammer
+
+Prachtig is de druk, waarbij van roode letters een sober gebruik is gemaakt;
+het titelblad is waarlijk een !ust voor het oog. Niets dan goeds is er ook van de
+mooie illustraties van Is. van Mens te zeggen: uiterst knappe teekeningen in zwart
+krijt. Het korte vroolijke reisverhaal is gemakkelijk leesbaar.
+Nieuwe Rotterdamsche Courant
+
+Op een smakelijke en amusant-nonchalante manier vertelt hij zijn wedervaren
+bij zijn bezoek aan Marokko en den tocht naar de oase van Marrakech.
+Telegraaf
+
+Prijs F 6.—; gebonden f 7.50.
+
+In iederen boekhandel verkrijgbaar
+
+
+L E l T E R-N IJ P E L S, MAASTRICHT
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+Dt Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+
+HAARLEM, KRUISWEG 70.
+
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+RUST IN UW SLAAPKAMER
+De geruischlooze wekker
+Donkerrood emaillelak F. 6, radiutn F. 7.
+Direct uit voorraad leverbaar,
+Verzending door het geheele land.
+Zendt nog heden uw bestelling.
+Absoluut geluidlooze gangconstructie.
+
+N.V.v/h.Gebr.Breen
+Nieuwend ij k 172
+
+Haarlemmerstraat 64
+
+Rozengracht 53
+
+AMSTERDAM
+
+</text>
+<image timestamp="2002:09:27:06:41:25.00" size="156023">00000AIM.TIF</image>
+</page>
+</document>

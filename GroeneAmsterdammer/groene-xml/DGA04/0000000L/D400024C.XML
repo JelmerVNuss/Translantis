@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151226</Datum>
+<Pagina>24A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 26 December 1915
+Nadruk verboden
+KERSTLIEDJE
+Woorden van ABEL CROON
+. Langzaan,
+Muziek van JOH. F. KEJA
+Wij dur - ven niet Uw feest te vie - ren Heer Je - zus Die de Vre-de
+
+-S"-'
+zijt Waar U - wer we - reld toom-loos tie - ren Om-hoog klinkt tot Uw ecu - wig-heid.
+!
+De noot tusschen haakjes wordt bij gedithije III gezongen.
+1. Wij durven niet l'w feest te vieren...
+Heer Jezus, Die de Vrede zijt.
+Waar Uwer wereld touniluos tieren
+Omhoog klinkt tut l'w eeuwigheid.
+
+II. Wij wagen 't niet de vlam t'ontsteken,
+Die 't Christuskind beschijnen moet;
+Wij mijden van Zijn komst te spreken
+Kn zwijgen on/en welkomstgroet.
+
+111. Want niemand on/er weet een woning
+Op aarde, een huis, een veilig hart,
+Waar hij der menschen Vredekoning
+Onttrekken zoude aan oor'ogssmart.
+
+IV. Wij bergen 't hoofd in onze handen,
+Bij 't naad'ren van den heiligen nacht,
+Want aan de bloeddoordropen landen
+Ontstijgt een bange stervensklacht.
+
+V'. Ontzeg Uw eng'len 't recht te zingen
+Van hoog'ren Vrede, 'l heilig lied,
+Xuolang n Uwer stervelingen
+Ken vijand in zijn broeder ziet.
+
+</text>
+<image timestamp="2002:08:22:02:08:42.00" size="47979">D400024C.TIF</image>
+</page>
+</document>

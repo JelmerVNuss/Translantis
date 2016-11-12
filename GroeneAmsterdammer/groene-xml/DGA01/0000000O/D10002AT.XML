@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18930528</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van di- Amsterdammer. Weekblad voor Nederland, van 28 Mei 1893. JrrOI. i eKelnaring Op QC pljnDanK.
+
+
+
+
+
+
+;: .;&lt;••••;•••"••••	^'•:^y:-:i;^y!^^^È^^^^i^j^igëfj;^^^^:i^'~ \
+
+• ." . ' : '"•-.-!ï":3:i;vft;v;s:;-?ïu''"ï,Sj^^r''
+. •.. --•.-•' '-•'. •'••- •-"•:'-..-.-i.;-v-1--'-".-ji'-.--.~;'&gt;i-^ ;,.
+L....
+Min. SMIDT tot Mr. VAN HOUTEN: Geeft hij nog niet toer
+
+
+Mr. VAN HOUTEN: Geduld maar; ik zal hem het vuur wat nader aan de schenen leggen.
+Amst. Hoek- en Sieendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:21:16:57:14.00" size="364791">D10002AT.TIF</image>
+</page>
+</document>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19001125</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ff.
+12)32
+DE AMSTERDAM M ER WEEKBLAD VOOR NEDERLAND.
+De ziekte van den Czaar.
+Het allerlaatste portret van Krüger.
+Terugblik. (Caran d'Ache).
+MAEIANXE (ïoi Victoria): »Ga toch heen, je maakt hem nog zieker dan hij al is ..
+Gevangen door de Boeren. (Caran dAche).
+De Heilige der laatste dagen.
+
+(Uilenspiegel).
+
+De Hel is losgebroken.
+Poging tot inbraak, genaamd : The raid Jameson.
+Lord Kitchener of Khartoum zal het opperbevel van mij overnemen.
+(Pioberts).
+Vrouw! maak het bed op van onzen jongen, ik breng
+je een gast.
+Welkomst aan Krüger. (ï'lllustration).
+»President Krüger behoort tot degenen, die reeds bij hun leven historische figuren zijn geworden. Op dit zeldzame
+voorrecht heeft hy tweeërlei aanspraak: Zy'n persoonlijke verdiensten in zijn hoedanigheid van verkozen hoofd, dier
+wakkere kleine republiek, die volgens zijn eigen uitdrukking, »de wereld zou verbazen," en die deze trotsche voorspelling
+zoo volkomen heeft vervuld. Den ouden Boer is reeds nu z\jn plaats aangewezen in het Pantheon dt r groote Vaderlandera.
+•Ziedaar het denkbeeld, dat de teekenaar Willette heeft uitgedrukt in een vorm, die tegelijkertijd concreet en sym
+
+bolisch is. Met zyn.gewone fantasie in oorspronkelijkheid stelt hy ons Krüger voor, bij zijn aankomst te Parijs begroet
+door een gehèele phalanx van standbeelden Jeanne d'Arc, generaal Daumesnil, generaal Moncey, Ilenri IV, Gambetta
+enz. plotseling in het leven teruggekeerd en van hun voetstukken afdalend om hem te verwelkomen.
+Het is eene zeer suggestieve manifestatie, die hulde door deze bronzen of marmeren figuren gebracht aan den
+eerwaardigen reiziger, dien zy als een mede-onsterfelyke erkennen, aan den man van bijna boerschen eenvoud, in wien de
+heldenmoed, het geloof, de hoop z\jn verpersoonlijkt van een geheel ijverig en arbeidzaam volk, dat alles veil heeft voor
+zjjn goed recht en zyne vrijheid."
+Eindelijk overwinnaar. (Caran dAche).
+De verrassing. (Caran dAclte).
+En ons &gt;AVar Ofüce" wist zeker, dat ze nog met pijl
+en boog schoten !
+
+</text>
+<image timestamp="2002:08:15:07:53:27.00" size="455789">D2000PG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140719</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+19 Juli '14. - No. 1934
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+Nadruk verboden
+De Nederlandsche leeuw in actie
+(ALBERT HAHN in de Notenkraker)
+DE NOTENKRAKER : Wees jij nou verstandig, wind je niet op
+en ga weer kalm op de halve stuivers staan.
+Onverwachte vraag (Punch)
+DE FRANSCHE GENERAALS : De Rapporteur in den Senaat vermeldt: Twee millioen soldatenschoenen, die er zijn moeten, zijn er niet.
+DE DOODE VAN 1870/71: Ik hoor een bekend geluid...
+Van het goede te veel (Punch)
+In den avondtrein (Punch)
+Wat scheelt jou, ouwe jongen. De zee is zoo glad als
+een spiegel. Ik weet niet... ik heb zes verschillende
+middelen tegen zeezjekte ingenomen.
+iiiiuilliiiniiiiiiMiiiiiimiiiMimitmmtiiiiMMMiiMii
+Altruïst tegen wil en dank.
+Schaakspel
+WNIIUIIIIIIIIIUIIIIIIIIIIIIIIIItlllllllllllllllllMIIIIIIIIIIIIMIIIIIIIIMIIIIMIIII
+
+24e Jaargang 19 Juli 1914
+Redacteur: RUD. J. LOMAN
+74 Broadhurst Gardens, Finchley Road,
+London N.W.
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+No. 1291 P. F. Blake, Li verpool
+Mat in drie (3) zetten
+abcdefgh
+Wit Kei, Da8, Td5, Pg4; a7, c3 en g2 = 7.
+Zwart Ke4, Ra4, Pdl; a6, c7, e6, f4 en g5 8.
+Oplossing van No. 1290 1. Pf5 enz.
+Opgelost door: ds. R. de Haas, Winsum;
+T. v. d. Herberg, Anjum; W. Free, Doorn;
+J. v. d. Hoeven, Zierikzee; J. B. te Breda;
+W. Verschoor, Nijmegen; H. Hoos Jr., A'dam.
+
+
+UIT DE SCHAAKWERELD
+Maandag a.s. nemen de Internat, wedstrij
+
+den van den Duitschen bond te Mannheim
+een aanvang, 't Meestertornooi, waaraan o.a.
+Rubinstein, dr. Tarrasch, dr. Vidmar,
+Spielmann, Aljechin, Teichmann, Marshall, dr.
+Tartakower, Duras enjanowski deelnemen, staat
+wat sterkte der spelers betreft boven dat
+van Petersburg, al ontbreken ook twee der
+sterren eerste grootte, Lasker en Capablanca.
+Na 't'meestertornooi zal bij ons te lande
+Hauptturnier B 't meest de aandacht trek
+
+ken, daar in dezen wedstrijd drie Nederlan
+
+ders meedoen. Fontein ('s Hage), Geus
+(Helder) en v. Gelder (Utrecht). Waarom
+een sterk speler als Marchand uit A'dam
+niet toegelaten is in B, is ons niet duidelijk.
+Dergelijke willekeurigneden behoefden niet
+'voor te komen; indien de
+wedstrijdcommissies behoorlijk ingelicht waren omtrent
+den sterkte der sollicitanten.
+
+'t V. A. S. heeft 't zeer loffelijke plan op
+
+gevat gedurende 't a.s. winterseizoen een
+wedstrijd te houden om 't kampioenschap
+van Amsterdam. Met 't oog op de revanche
+
+match tegen Engeland, die vermoedelijk
+Paschen 1915 te Londen zal plaats vinden,
+is 't zeer te hopen dat t goede voorbeeld
+van Amsterdam te 's Hage en Utrecht na
+
+volging zal vinden. De match Paschen j.l.
+is een eye opener" geweest en wij dienen
+met de opgedane ervaring ons voordeel te
+doen. 't Ligt op den weg van den N. S. B.,
+die hier als organisator optreed, zorg te
+dragen dat onze upper ten" gelegenheid
+tot onderlinge oefening verschaft wordt en
+zoodoende fiasco's als die tegen Engeland
+in 't vervolg vermeden worden. Ieder drage
+daartoe 't zijne bij.
+Hauptturnier A te Mannheim draagt een
+niet minder internationaal karakter dan 't
+Meisterturnier. De deelneming zal bestaan
+uit: Ahues en Tenner (Berlijn), Schönmann,
+Schapiro en dr. Wolfrum (München), Studt
+(Hamburg), Hilse (Bremen), Duhm
+(Strassburg), Hrdina (Weeneh), Opocenzky (Praag),
+dr. Asztalos (Pest), Herland (Bukarest),
+Dominik (Krakau), Henneberger (Glarus),
+Bogatërtschuk (Kieuw), Sselesniew (Moskau),
+Maljutin en Rabinowitsj (Petersburg).
+Gundersen (Melbourne) en.... ein Hollander!
+Waar wie ? ?
+De schoonheidsprijzen voor de matsch
+Holland—Engeland zijn door mr. Tresling
+en Amos Burn toegekend aan jhr. dr. D. v.
+Foreest (partij met Waltuch) en aan R. P.
+Michell (partij met Geus).
+GEWEIGERD DAME GAMBIET
+(Petersburg)
+Wit Zwart
+
+Frank J. Marshall Dr. Ossip S. Bernstein
+1. d4 d5
+2. c4 c6
+3. Pc3 Pf6
+4. cd5: cd5:
+5. Pf3 e6
+6. Rg5 Db6
+7. Dc2 Pc6
+8. e3 Rd7
+9. a3 Tc8
+10. Rd3 Rb4f
+11. 0—0
+ab4: dan Pb4: 11.
+Dd2, Pd3:f 12. Dd3:,
+Db2:. De tekstzet
+weerlegt zwart's gees
+
+tige idee (Rb4),daar
+zwart nu tot afruil
+of tempo-verlies ge
+
+noodzaakt is.
+11. Rc3:
+Rd6 was o.i. sterker.
+Op 12.Pb5?zoudan
+volgen Pd4:!
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+bc3:
+Tab l
+Tfcl
+Da2
+Re4:
+Pe5
+Tb4
+Pa5
+Dc6
+Da4
+Pe4
+de4:
+f6
+Tr3:?
+Deze aardigheid
+kost de partij, wit
+heeft een voor de
+hand liggende weer
+
+legging.
+19. Dd2! Tcl:f
+20. Del: 0-0
+Pb3 dan 21. Dc7.
+De zwarte D. is ge
+
+vangen en daarmede
+is 't pleit beslecht.
+Damspel
+fllmiIllllllllllllllllllllllUIIIIIIIIIIMIIIIIIlMIIMIrf-llltl	II
+
+lle Jaargang 19 Juli 1914
+
+Redacteur: J. DE HAAS
+Graaf Florisstraat 15-, Amsterdam .
+
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+ONZE CURSUS
+Typeslagen uit den omsingelingsstand
+De slagzet, die nu volgt, is niet zoo een
+
+voudig als de voorgaande. Gij moet eens
+trachten dezen te vinden zonder de oplossing
+te raadplegen. Een uitmuntende oefening
+voor het voorstellingsvermogen, en de vondst
+zal u genoegen doen. Alle krijgers dus in
+slagorde opgesteld en gespeeld als volgt.
+
+Wit Zwart
+1. 31-26 16-21
+2. 36-31 11-16
+3. 31-27 20-25
+Tot nu toe is deze opening op de gebruike
+
+lijke wijze gespeeld. De textzet is echter
+zwak en aangewezen was 7-11, 18-23 enz.
+4. 4r-36 19-24
+Dit prijsgeven van het centrum is niet
+aan te bevelen. Sterker is 18-23.
+5. 34-30
+Hiermede ruilt wit de voor zwart nadeelige
+schijf op 25 af, hetgeen niet sterk is. 33 28
+is de zet. Ruilt zwart uit met 18-22, 13:33
+dan wit 38:20, zwart 15:24, wit 36-31 en
+vervolgens 3'-27, zwart blijft dan in den
+omsingelingsstand en behoudt bovendien de
+nadeelige schijf op 25.
+5. 25:14
+6. 40:20 15:24
+7. 39-34 10-15
+8. 44-39 4-10
+9. 37-31 13-19?
+Een niet te verklaren zet. 14-19 was noodig.
+
+(Stand na den 9den zet van zwart)
+ZWART
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+WIT
+Men trachte den damzet nu eens te vinden.
+Dit is niet zoo gemakkelijk.
+LANDLOOPER (plotseling hij een pic-nic aan den waterkant ver
+
+schijnend) : Pardon, meneer, hebt u misschien een zwembroekje
+voor me te leen ?
+IIIIIIMIIII	HUI miiiiiiiiiiiiiiMmiimmmiiiiiiii	minimi	n
+10. 27-22 17:37
+11. 26:17 12:21
+Het maakt geen verschil of zwart eerst
+37:26 slaat.
+12. 38-32 37:26
+13. 36-31 26:28
+14. 33:4
+Een aardige damslag hoewel niet winst
+
+gevend. Zwart speelt 7-12 en de dam wordt
+altijd voor 2 schijven gevangen.
+
+
+OPLOSSING VAN HET VRAAGSTUKJE
+van D. van Nieuwkerk te Rotterdam
+Zwart 3 schijven op 7, 14, 38.
+Wit 5 schijven op 17, 23, 28, 30,
+Wit
+39.
+Zwart
+1. 39-33 38:18
+2. 30-24 . 18-22
+De eenige zet.
+3. 24-19 14:32
+4. 17:37 Gewonnen.
+Een fijn eindspelletje. Wij vermoeden dat
+enkelen uwer de oplossing gezocht hebben
+door wit 39-33, zwart 38:18 en dan wit 17-12,
+doch dit geeft beslist remise. Dat het de
+meesten uwer niet gelukt is, de oplossing
+te vinden, kunnen wij ons best voorstellen.
+Doch leerzaam is dit stukje ongetwijfeld.
+Een goede oplossing ontvingen wij van
+Lucas Smid te Amsterdam.
+
+
+DAMZETTEN
+Nu, met het oog op den aanstaanden
+vierkamp, den naam van dr. Molimard weer
+op de lippen der dammers komt, volge hier
+weer eens iets van dezen meester en wel
+een damzet die voorai boeit door de eigen
+
+aardige verwikkeling aan wit's langen vleugel.
+ZWART
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+2P&gt; ?
+
+J&amp;
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+XV IT
+Zwart 3, 69, 11, 13H9, 21, 29.
+Wit 26,28, 31, 32, 35, 38, 40, 42, 43, 45,
+47/50.
+Wit dr. Molimard aan den zet maakte als
+volgt dam.
+Wit Zwart
+1. 28-22! 17:37
+2. 26:17
+Zwart kan nu op 2 manieren slaan, doch
+hoe hij ook slaat den dans ontspringt hij niet.
+2. 11:22 (A)
+3. 43-39 A 37:26
+4. 39-34 22:31
+5. 34:1
+Indien zwart bij den 2den zet slaat
+2. 37:26
+3. 40-34! 11:31
+4. 34:1
+Interessant, die verwikkeling aan den langen
+vleugel in den insluitingsstand. Wij plaatsten
+dezen damzet ook omdat die zoo uitstekend
+aansluit bij de verhandeling over den inslui
+
+tingsstand in Onze Cursus"'.
+Wat is nu eigenlijk natuurlijker, dan, in
+aansluiting aan het bovenstaande, een damzet
+van Molimard's boezemvriend en leermeester
+Marcel Bonnard.
+In dezen damzet wordt het voorstellings
+
+vermogen nog al op de proef gesteld, men
+trachte den damzet maar eens te vinden
+zonder de oplossing te raadplegen of schijven
+aan te raken.
+ZWART
+l
+
+6
+
+11
+
+IC
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+WIT
+25:34
+18:29
+Zwart 3, 8 10, 12, 16, 18, 20, 24'26.
+Wit 23, 32,34, 36, 37, 42, 44, 48/50.
+Wit Zwart
+1. 33-29 24:33
+2. 34-30
+Zwart slaat naar verkiezing.
+2.
+3. 48-43!!
+De vereischte tempozet.
+3.
+Thans is ruit 24 ontruimd en is er een
+zwarte schijf op 29 gebracht.
+4. 37-31!
+Moet 3 slaan naar 39.
+4. 26: 39
+5. 32-28! 33:22
+6. 42:21!
+Een fraaie damzet.
+
+CORRESPONDENTIE
+D. v. N. U hebt volkomen gelijk dat de
+aangegeven oplossing geen problematieke
+oplossing, doch meer een'spelgang is. Wij
+waardeeren uw werk, dat bepaald correct
+is en zullen het stukje plaatsen.
+
+</text>
+<image timestamp="2002:08:20:22:58:06.00" size="632258">D40001D1.TIF</image>
+</page>
+</document>

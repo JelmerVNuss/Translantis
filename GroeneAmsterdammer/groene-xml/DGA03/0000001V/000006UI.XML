@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280818</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2672
+DE GROENE AMSTERDAMMER VAN 18 AUGUSTUS 1928
+REVELLERS
+door C. van Wessem
+Teekeningen voor de Groene Amster
+
+dammer" door Karel van Seben
+Eerste tenor
+
+De liefhebbers van een enthousiaste concertzaal
+zullen hun hart hebben kunnen ophalen bij de ware
+ovatie, die staande en schreeuwend aan deze Ame
+
+rika insch' .,gramnr&gt;foonplaat"-heldeii is gebracht
+bij hun optreden in de O root e zaal Concertgebouw.
+Deze ovatie, die ongetwijfeld wat ..nationaal" was
+bijgemengd door de talrijke in de zaal aanwezige
+Amerikanen van de Olympiade. die met een
+sportieve geestdrift de successen van hun land
+
+genoot en mede leefden was ontegenzeggelijk
+verdiend. Het onsterfelijke ..Dina.h" b.v. van de
+grammofoon in de vertolking van het jazz-kwartet
+der RevcIIers maar al te bijna zei ik: vervelend
+bekend, won door de vertolking met de levende
+stem. liet levende accent, de levende actie een
+bekoring, die ons met een nieuwe aandacht naar
+dit lied deed luisteren. Kn zoo ging het feitelijk met
+alle meer of minder bekende liederen, die de
+Kevellcrs ons voor zongen, voor floten en voor
+acteerden, met die soort lakonieke en. droog
+
+komieke actie, die aan de zwevende gebaren uit
+de vertraagde film deden denken. Deze kunst is
+wel /eer Amerikaansch. maar zij wordt aangewend
+met een virtuositeit, een kundigheid van samenzang
+en stern-voering, (Ue respect en bewondering af
+
+dwong. Ook de pianist die soms saxofoon zong
+paste zich met zijn spel en zijn voordracht verbluf
+
+fend goed aan bij den geest van het geheel en
+Bariton
+Dr. De Koos, impressario
+Tweede tenor
+bewees, dal bij ..anmsenientskuns!" het accent wei
+degelijk kan vallen op ..kunst" en d.'ii alleen een
+valsche padeur zich over deze muziek verontrust
+kau tooiien. Vermelding verdient nog zijn schitte
+
+rende solo in de ..Hlripsodie in blue", prachtig
+eveneens door de ;:angers vertolkt, me', hun bijna
+ins runieiitaal klinkiiiie s.enniicn.
+liet \v;;s tegenover de talrijke a:t.n\\"ezige buiten
+
+landers wel een goed idee om het concert (Ier
+lievellei's te laten inleiden en besluiten dool' de
+kapel van de ('1'ena.diers en .laigers. die onder
+leiding van luitenant Louis Hoer toonde wat onze
+militaire muziek kan presteeren. al v&lt; rleidt de uit
+
+voering van voor een blazerskorps getransponeerde
+orkest-muziek wel eens te zeer (o&lt; liet vertoonen
+van overigens zeer knappe hravoui'e-st nkjes
+(het te ra.zend snelle slot va.n (irieg's ..In der Ilalle
+des Bergkonigs").
+Pianist
+Bas
+
+</text>
+<image timestamp="2002:09:05:03:01:48.00" size="122406">000006UI.TIF</image>
+</page>
+</document>

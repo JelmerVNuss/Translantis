@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19401012</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Uit de geschiedenis der bloedtrati'
+HET vraagstuk van de bloedtrans
+
+fusie is in de dagen voor en tij
+
+dens den oorlog weer eens in het cen
+
+trum van de belangstelling gerukt,
+zoodat het wel aardig is zich eens te
+verdiepen in de voorgeschiedenis van
+dit belangrijke hoofdstuk uit de ge
+
+schiedenis der geneeskunde.
+Met de verschillende voorstellingen,
+die men zich in den loop der tijden om
+
+trent sommige levensverrichtingen van
+den mensch vormde, wisselde ook de
+indicatie tot bloedoverbrenging. Daar
+men herhaaldelijk had kunnen waar
+
+nemen hoe bij een zwaargewonde tege
+
+lijk met het wegstroomende bloed het
+leven uit het lichaam wegvloeide ver
+
+bond men in gedachte aan dit bloed
+het essentieele levensprincipe, de eigen
+
+lijke levenskracht en voor de hand lig
+
+gend was dus de veronderstelling, dat
+het leven niet zou zijn opgehouden ware
+het verloren gegane bloed vervangen
+door ander.
+De bloedtransfusie stamt reeds uit
+de grijze oudheid. Ovidius verhaalt hoe
+Medea deze geheimzinnige kunst van
+Egyptische priesteressen zou hebben
+geleerd en den ouden Aeon een
+verjongingskuur zou hebben doen onder
+
+gaan door zijn bloed uit de halsaderen
+te laten wegstroomen en te vervangen
+door jong bloed.
+Het spreekt eigenlijk vanzelf, dat
+om tot de uitvoering van een bloed
+
+transfusie over te gaan, het inzicht
+aanwezig moet zijn omtrent het aan
+
+wezig zijn eener bloedcirculatie, doch
+juist dit inzicht ontbrak langen tijd;
+men nam aan, dat het bloed in het
+hart werd gemaakt en vandaar via de
+aderen naar alle deelen van het lichaam
+werd getransporteerd alwaar het dan
+verteerd werd, dus nooit naar het hart
+terugstroomde.
+De Alexandrijnsche school (300 jaar
+voor Christus) leerde dat alleen de
+aderen bloed bevatten, welk bloed uit
+het hart kwam; de slagaderen daar
+
+entegen vervoerden lucht afkomstig
+uit de longen. Deze leer heeft zich 500
+jaar lang kunnen handhaven, totdat
+Galenus 150 jaar na Christus aan
+
+toonde, dat ook in de slagaderen bloed
+aanwezig was. Gedurende 15 eeuwen,
+waarin de geneeskunde elk proefonder
+
+vindelijk onderzoek als overbodig ver
+
+smaadde werd deze leer gehuldigd.
+Eerst ten tijde der Renaissance trachtte
+men zich ook op dit gebied van oude
+dogma's los te maken en ging men de
+natuur aan de natuur zelve
+bestudeeren. Wij zien hoe de ontleedkunde een
+voortreffelijke vertegenwoordiger krijgt
+in den Hollander Andre Vesalius, die
+ontdekte dat het hart door een schei
+
+dingswand in twee helften is verdeeld,
+welke geen communicatie met elkaar
+hebben. Ter zelfder tijd ontdekte de
+Franschman Servet wat wij thans de
+longcirculatie noemen, namelijk dat
+het bloed, dat naar de longen stroomt
+tot een heel ander systeem behoort dan
+het bloed dat de rest van het lichaam
+verzorgt. Ten gevolge van deze ver
+
+lichte ideeën eindigde overigens Servet
+zijn leven als ketter op den brandstapel.
+Afzijdig van deze geestelijke stormen
+in het overige Europa, stond Engeland
+dank zij zijn isolement. Te dien tijde
+leefde daar William Harvey, professor
+in de anatomie en chirurgie, te Londen,
+lijfarts van Jacobus I en Karel I. Na
+zeventienjarige studie van de anatomie
+der menschelijke bloedvaten, conclu
+
+deerde Harvey op onweerlegbare wijze,
+dat het bloed in het lichaam moest
+circuleeren, welke conclusie hij in 1628
+publiceerde. Hoe logisch zijn denk
+
+beelden ook waren, zij werden niet
+zonder slag of stoot aangenomen,
+kostten hem een groot gedeelte van
+zijn practijk en bezorgden hem met een
+Engelsche woordspelling den naam van
+circulator (kwakzalver). Bewezen wer
+
+den zijn theorieën eerst later toen men
+het bloed had zien rondstroomen, het
+
+geen in 1661 gelukte aan Malpighi
+te Pisa en korten tijd later aan Van
+Leeuwenhoek te Delft.
+Niet iedereen twijfelde echter aan
+Hervey's theorieën, daartoe behoorden
+o. a. de leden van het invisible Col
+
+lege", weliswaar was men in Engeland
+iets vrijer in het uiten van nieuwe denk
+
+beelden dan in het overige Europa,
+doch ook hier kon men er gevoegelijk
+door aan de galg komen, zoodat zich
+enkele verlichte geesten vereenigden
+tot een gezelschap dat in diep geheim
+bij elkaar kwam en waartoe o.a. Isaac
+Newton, Robert Boyle enRobertHook
+behoord hebben. Ten tijde van Karel II
+is uit dit Invisible College gegroeid de
+ook thans nog wereldberoemde Royal
+Society.
+Over vreemde dingen werd in het
+invisible College gediscussieerd. Zoo
+wierp een der leden, Potter, in 1638
+de vraag op of, wanneer die Harvey
+eens gelijk mocht hebben, het niet
+mogelijk zou zijn het bloed van een dier
+te vervangen door dat van een ander
+en zoo ja of het eene dier dan eigen
+
+schappen van het ander zou verkrijgen
+en of de ziel tegelijk met het bloed zou
+overgaan. 30 Jaar later is dit experi
+
+ment door den Engelschman Lower
+verricht, die in 1665 de transfusie toe
+
+paste van den eenen hond op den ande
+
+ren. Zooals Lower meedeelt: Bij een
+hond werd zooveel bloed afgetapt dat
+hij krampen kreeg ten teeken dat de
+verstikkingsdood naderde; op dit
+oogenblik werd van een ander dier weer net
+zooveel bloed ingespoten. Direct na
+deze ingreep sprong de hond tegen zijn
+meester op alsof er niets gebeurd was".
+Een jaar later werd deze methode op
+een mensch toegepast, namelijk bij een
+student in de theologie, waarbij de
+zonderlinge diagnose gesteld was dat
+,,his brain was him alittle too warm".
+Eerst werd hem een hoeveelheid bloed
+afgetapt en deze hoeveelheid vervan
+
+gen door schapenbloed; de historie
+vermeldt niet of hierdoor zijn hersens
+voldoende werden afgekoeld. Deze
+proefneming was niet de eerste bloed
+
+transfusie bij den mensch, want drie
+maanden te voren was zij verricht door
+Denis te Parijs.
+Er bestond in dien tijd een medische
+ingreep, die succes bij alle mogelijke
+kwalen had: de aderlating, die dikwijls
+bij een patiënt herhaaldelijk werd toe
+
+gepast. Zoo was er dan in Parijs een
+jongen, bij wien met korte
+tusschenpoozen twintigmaal deze ingreep was
+verricht, zoodat de jongen in plaats
+van beter te worden aan den rand van
+het graf was gebracht. Denis kwam op
+het niet ongeslaagde denkbeeld den
+slechten toestand van den jongeman
+toe te schrijven aan de herhaalde ader
+
+latingen en onder den indruk van de
+experimenten van Lower op honden
+besloot Denis om als eerste op een
+mensch de bloedtransfusie toe te pas
+
+sen. Bij dezen jongen werd 9 ons scha
+
+penbloed ingespoten, met het gevolg
+dat 4 uur na de bewerking de jongen
+opstond en vroolijk opstond en rond
+
+liep. Wie nu meent, dat met dit succes
+een groote toekomst voor deze methode
+zou zijn aangevangen, blijkt weinig
+inzicht te hebben in de wijze waarop
+wetenschappelijke successen ontstaan
+en wetenschappelijke nieuwigheden
+plegen ontvangen te worden. Denis
+trof het namelijk niet, dat zijn tijd
+
+genoot Guy Patin, een zeer invloedrijk
+man in de Parijsche faculteit, nu juist
+een enthousiast voorstander van de
+aderlatingen was, volgens hem was het
+heelemaal niet erg om dertig ader
+
+latingen bij denzelfden persoon te ver
+
+richten en zelfs zuigelingen kwamen
+voor deze therapie in aanmerking.
+Waar nu Denis niet eens" medicus
+was, doch maar" hoogleeraar in de
+philosophie en mathesis en dus" geen
+verstand kon hebben van medische
+vraagstukken en waar de transfusie
+in zekeren zin het tegenovergestelde
+van de aderlating genoemd kon wor
+
+den, moest, indien de aderlating zoo
+buitengewoon weldadig was, de trans
+
+fusie wel uiterst nadeelig zijn. Er ont
+
+wikkelde zich dan ook onder aanvoe
+
+ring van Patin een heftige oppositie
+tegen de transfusie, totdat de bom
+barstte in den vorm van het beroemde
+geval Mauroy.
+Mauroy was een mijnheer die al 7
+jaar krankzinnig was. Af en toe had
+hij kortdurende vlagen van helderheid
+en in een dezer perioden had hij een
+jonge vrouw gehuwd. Daar deze periode
+maar kort duurde was de jonge bruid
+al heel spoedig gedesillusionneerd. Het
+is dan ook begrijpelijk, dat zij, toen
+Denis openlijk werd uitgedaagd de
+resultaten van zijn methode in het
+openbaar te demonstreeren welwil
+
+lend haar man ter beschikking stelde",
+misschien in de hoop zich weer een
+normalen echtgenoot te kunnen ver
+
+werven, doch in elk geval zich dit
+groote offer getroostend tot heil der
+wetenschap en tot glorie van Frankrijk.
+En zoo werd dan op 19 December 1667
+in bijzijn van een groot aantal artsen
+en professoren tot bloedtransfusie over
+
+gegaan, met het resultaat dat het slacht
+
+offer prompt overleed. Bij het daarop
+volgend gerechtelijk onderzoek bleek
+weliswaar, dat het aandeel der jeug
+
+dige echtgenoote in het experiment
+grooter was dan men had kunnen ver
+
+onderstellen, daar zij aan de theorieën
+van Patin een handje had
+medegeholpen door haar man een dosis
+arsenicum toe te dienen, doch zelfs deze ont
+
+dekking heeft niet kunnen verhinderen,
+dat de bloedtransfusie als directe doods
+
+oorzaak werd aangemerkt en dat van
+staatswege de transfusie als levens
+
+gevaarlijk verboden werd. Daarmede
+was in Frankrijk althans het vraagstuk
+voorloopig van de baan.
+De geschiedenis der geneeskunde
+kent tallooze voorbeelden als het boven
+
+staande, waar een toevallige omstan
+
+digheid bij een fundamenteel experi
+
+ment den vooruitgang der wetenschap
+hetzij eeuwen heeft tegengehouden,
+hetzij sprongsgewijze voorwaarts heeft
+gebracht.
+Eerst in 1824 werd het vraagstuk
+der transfusie opnieuw ter hand ge
+
+nomen en wel in Engeland door den
+verloskundige Blundell. Hij is de eerste
+geweest die de transfusie van mensch
+op mensch toepaste. Naast mislukkin
+
+gen en gevallen met doodelijken afloop,
+waren zijn uitkomsten gemiddeld zoo
+gunstig, dat opnieuw de aandacht van
+Europa op het vraagstuk gevestigd
+werd en men allerwege deze proeven
+herhaalde. De zeventiende eeuw had
+plaats gemaakt voor de negentiende
+en een uitspraak van de Parijsche
+Faculteit kon thans niet meer verhin
+
+deren, dat de experimenten overal op
+groote schaal ter hand werden geno
+
+men. Een enthousiast voorstander was
+de Duitsche chirurg Dieffenbach. In
+den Fransch-Duitschen oorlog bleek
+de groote moeilijkheid om op de slag
+
+velden te komen aan menschenbloed,
+daarom werd door Eckert zelfs de
+raad gegeven, dat de soldaten een
+schaap met blootgelegde slagaderen
+op de ransels moesten medevoeren om
+onmiddellijk het levensreddend vocht
+bij de hand te hebben. Een raad die
+meer goed bedoeld dan practisch was.
+De resultaten met de bloedtransfusie
+waren in het algemeen zoo weinig
+bemoedigend, dat in 1883 de groote
+Duitscher Von Bergmann, een chirurg
+die 4 oorlogen achter den rug had, op
+het internationale Chirurgencongres
+de grafrede bij het transfusievraagstuk
+hield. De autoriteit van Von Bergmann
+was zoo groot, dat de belangstelling
+voor het transfusievraagstuk weer
+voor eenige tier
+dween.
+Tot het jaar
+Landsteiner is .
+proeven op mens
+een ontdekking
+menteele beteeker,
+geheele transfusieu ..as,
+dat bloed van een bepaalde diersoort
+voor een andere diersoort niet onge
+
+vaarlijk is. Tot 1900 had men evenwel
+aangenomen, dat het bloed van een
+diersoort voor elk exemplaar van de
+
+zelfde diersoort ongevaarlijk zou zijn
+en dat dus ook bloed van den eenen
+mensch gelijksoortig zou zijn aan dat
+van den anderen mensch. Landsteiner
+nu ontdekte dat bloed van den eenen
+mensch dikwijls, maar niet altijd, giftig
+is voor een ander mensch. Bijvoorbeeld
+het bloed van een persoon P is giftig
+voor Q maar niet-giftig voor R, terwijl
+het bloed van Q weer niet giftig was
+voor R maar wel voor S en S geheel
+ongevaarlijk bleek voor P, Q en R.
+Door proefnemingen van Landsteiner
+op enorme schaal bleken nu alle
+menschen ter wereld, wat de giftigheid van
+hun bloed ten opzichte van elkaar be
+
+treft, in vier groepen te verdeelen te zijn.
+De giftigheid uit zich hierin dat bloed
+van den eenen persoon of liever de
+roode bloedlichaampjes van den eenen
+persoon door de bloedvloeistof (het
+serum) van den anderen worden
+samengeklonterd of met een aan de bacterio
+
+logie ontleende term: geagglutineerd.
+Wanneer een serum in staat is be
+
+paalde bloedlichaampjes te
+agglutineeren moet in het serum een zekere stof
+zijn opgelost die deze werking veroor
+
+zaakt. Laten wij deze stof a noemen.
+Nu is deze stof a slechts in staat de
+roode bloedlichaampjes te doen
+samenklonteren wanneer zich in de bloed
+
+lichaampjes een andere substantie be
+
+vindt waarmede de stof a in reactie
+kan treden. Wij illustreeren dit met
+een beeld van Paul Ehrlich afkomstig:
+om een gesloten deur te openen moeten
+wij een sleutel hebben d. i. de stof a;
+deze sleutel alleen is echter niet vol
+
+doende, de deur moet een slot bevat
+
+ten waarin deze sleutel past, d. w. z.,
+de roode bloedlichaampjes moeten een
+stof A bevatten (het slot) waarop stof
+a past. Aan Landsteiner is nu gebleken,
+dat onder alle menschen slechts twee
+sleutels voorkomen: a en b, met de
+daarbij passende sloten A en B, zoodat
+op grond hiervan alle menschen zijn te
+verdeelen in vier groepen, te weten:
+Stof in het Stof in de Bloedgroep
+serum bloedlich.
+a B III
+b A II
+ab O I
+O AB IV
+Wanneer in een bepaald serum de
+stof a aanwezig is, dan bevatten de
+roode bloedlichaampies noodzakelij
+
+kerwijze B, want wanneer zij A be
+
+vatten zou direct agglutinatie ont
+
+staan en het leven onmogelijk worden,
+omgekeerd kan de stof b slechts te
+zamen met A bij een persoon voor
+
+komen. Passen wij dit toe op het pro
+
+bleem van de bloedtransfusie, dan is
+het duidelijk, dat een stof B niet inge
+
+spoten mag worden bij iemand die b
+of ab in het serum heeft en zoo kan
+men alle mogelijkheden uit de tabel
+afleiden. Groep I is de zoogenaamde
+universal donor" zijn bloed kan bij
+iedereen worden ingespoten, daar zijn
+roode bloedlichaampjes A noch B be
+
+vatten en dus niet geagglutineerd kun
+
+nen worden, dat zijn serum ab bevat
+is niet erg, daar deze agglutinen ab
+slechts in bepaalde concentratie werk
+
+zaam zijn en in het geval van bloed
+
+transfusie de verdunning zoo groot is
+dat geen agglutinatie meer kan plaats
+vinden. Door de ontdekking van de
+bloedgroepen zijn de voornaamste ge
+
+varen der bloedtransfusie weggevaagd.
+PAG. 15 DE GROENE No. 3303
+
+</text>
+<image timestamp="2002:09:13:10:33:22.00" size="264242">000007RL.TIF</image>
+</page>
+</document>

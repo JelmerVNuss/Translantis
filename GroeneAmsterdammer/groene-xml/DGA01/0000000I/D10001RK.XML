@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18861226</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 496.
+Het eerste fragment, de zang van den bard
+(rhapsode staat er eigenlijk, dat is eem rondtrek
+
+kend zanger, dio vooral gebeurtenissen uit de
+geschiedenis van het land bezingt) behandelt de
+umeming van Konstantinopel door de Kruisvaar
+
+der» in 1204. De dichter heeft zich hier
+klaar*„blijkelijk door de geschiedschrijver Nicetas
+Choxiates laten inspireeren, waar deze in zijne historie
+den val van de oostersche keizersstad beschrijft
+Historia ex recensione J. Bekken, in het corpus
+scriptorum historiae Byzantinae. Editio emendatior
+et copiosior consilio B. J. Niebuhri C. F. Instituta.
+Bonnae 1835. 80 bl. 757). Onze westersche ge
+
+schiedschrijvers hebben dikwijls getracht die
+kruisvaarders schoon te wasschen van het bloed
+waarmee zij zich toen bezoedeld hebben, maar te
+vergeefs! de schat van den St. Marcus te Vene
+
+tiëis nog altijd daar om tegen hen te getuigen,
+met de woorden van den ooggetuige Villehardouin.
+die eigenbjk eene apologie op de inname schreef:
+Ei uns aporta bien, et li autre mal (in de 3 ker
+
+ken, welke men na eerst in het wild er op
+losgeplunderd te hebben, ter verzameling van den buit
+aanwees) car covoitise, qui est racine de tous
+. maus ne leur laissa, ainsi commenciérent li
+conToiteurs de la en avant a retenir les choses.";
+De waardige en geleerde schrijvers van l'art
+de vérifier les dates, Benedictijner monniken, ge
+
+tuigen dan ook: la ville fut pillée avec une
+barfcarie et des empiétés dont Ie récit fait horreur,
+Geen feit komt er in het volgend gedicht voor,
+dat niet door Nicetas wordt gestaafd, hij, die kon
+zeggen quorum ego pars maxima fui, die zoo on
+
+partijdig is dat hij de Grieksche keizers welke
+de kruisvaarders misleid hebben zonder omwegen
+óók daarvan beschuldigt. Moge deze zang van
+den Griokschen dichter als een echo uit het Oos
+
+ten zgn op den Aya Sofia van Prof. Schaepman,
+wij vertalen zoo letterlijk mogelijk en behouden
+de oorspronkelijke versmaat.
+
+Het gezang van den bard.
+
+Treur Westen, treur te zamen met het Oosten,
+Verberg, o maan, uw zachte zilvorglanzen,
+Gij zonne, doof uw licht en treur alomme
+Natuur en breek nu uit in jammerklachten!
+O, weent gij allen, volkeren der aarde,
+Gjj Hellas mijn, treur nu in zak en assche,
+Zij viel, zij viel, wee! wee! de stad der steden,
+En binnen zijn thans meester de Latijnen!
+
+Verduistert nu, gij luchters aan den hemel,
+Gg dalen allen, weeklaagt nu en treurt!
+Draag, Hellas mijn, liet donker kleed der rouwe,
+Wee mij! geen spoor, ach, rest er van uw glorie!
+
+Weent vuurge tranen, Hellas' maagdenreien,
+Treurt kindren, ouders, van uw kroost beroofde,
+Gij, heuvlen, treurt met bosschen en met bergen,
+Schreit, slaaf en buitgemaakte Grieksche landen!
+
+In bloed verdronken is het nieuwe Rome,
+In bloed is, ach, Byzantium gedompeld,
+In bloed verdronken liggen al haar straten
+En kerken en de drempels van haar huizen!
+
+In een onreine slachtplaats is herschapen,
+Het heilig offeraltaar in den tempel,
+Vervuld is 't al van moordenaars en geslachten;
+Elk Frank, een moord'naar, offer elk' onnooz'le.
+
+Wee, wee de tempel van de Hagia Sofia
+Hij is geworden 't muildier \) tot een stalling,
+Waar zij 't gewin der rooverij bewaren,
+Den buit ter markte brengen van hun moorden,
+
+Den heil'gen zetel der Chrysosthomussen (2),
+O Allerhoogste hoe lankmoedig zijt Gij!
+Besteeg een veile deern, een maagd der helle
+En hief daar aan haar schaamtelooze lied'ren.
+
+En weenend liepen rond verweeuwde moeders
+En vluchtend liepen zij al jammerklachtend,
+Met hangend haar, de maagden, schreiend,
+dwaalden
+De grijze vaders eenzaam door de straten.
+
+Vergeefs, ach riepen maagden om bevrijders,
+Vergeefs, ach, uit der boozen roovers boeien!
+Alleen, verlaten gaven zij al snikkend
+In 't eind den geest in der geweld'naars handen,
+
+Bukoleoon's paleis, (3) ook uwe muren
+Slechts blijven droog en storten geen tranen
+Alleen de koninginne Agnes (3) weende
+•Daar binnen u en jammerklaagde bitter.
+
+En eenzaam staat de vorstenwaan, daar weven
+De spinnen thans hun lichte fijne webben
+Of houdt eed1 rooverstroep zijn drinkgelagen
+Weent, weent, oen bitter lot staat u te wachten!
+II.
+Het lied van S a f o. 5)
+
+Vlecht nu kransen, Mytilcensche Maagden
+Schoon van kleur met sombre doodenbloemen 6)
+Brandt welriekend hout van myrtetwijgen
+En werpt kronen, bloemen op het leger
+'t Laatste leger van de dieprampzaalge !
+
+Eenmaal zag van 's eilands hooge bergen
+Onloeganklijk, eenzaam en verlaten,
+Een in 't wit gehulde maagd ter neder
+Op 't noodlottig voorgebergt van Leukas
+Met een oog van tranen nat, ach arme !
+
+Eene kroon van sombre chrysanthemen
+Droeg zij, ach zoo jong, om haar lokken;
+Met haar lokken door den wind ontstrengeld,
+Daalde zij ter neder van de bergen
+Bevend was haar stap bij 't nader treden.
+En geen droefheid sprak er uit de blikken
+Van de maagd, geen hooggestegen smarte
+Van het hart. Een enkle traan, der glinstrend
+Stil haar oog ontglipte, was het teeken
+Van 't verborgen diepe zielelijden.
+In haar hand houdt zij do lier omstrengeld,
+In de golf werpt zij de lier ter neder,
+Naar de golf buigt zich haar lichaam over,
+Met de handen dekt zij zich de oogen
+Golf, ontvang mij, zegt zij, en zinkt henen.
+
+
+Diep rampzaalge! snel wordt zij verzwolgen
+Door de golven, slechts een enkle stonde
+Werd aldaar een licht gebruisch vernomen,
+En gcbluscht was nu haar hevig smachten
+Met het smachten ook gcbluscht haar liefde.
+(1) Muilezels en beladen lastdieren werden
+tot in het heilige des tempels gevoerd, eenige
+daarvan gleden uit, daar zij wegens het gladde
+plaveisel niet voort konden gaan en werden
+met messen afgemaakt." Nicetas Choxiatas t. a. p.
+(2) Chrysosthomu s de bekende redenaar en bis
+
+schop van Konstantinopel.
+(3) Een der paleizen van Konstantinopel, een
+ander heette Blachernon.
+(4) Agncs, dochtervan Lodewijk VII van Frank
+
+rijk, verloofd aan Alexander II Comnenes en na
+diens dood gehuwd met zijn moordenaar, keizer
+Andronicus, na den dood van dezen laatste met
+Branus.
+5) In dit lied wordt het rampzalig einde der
+beroemde lierdichteres Safo (omstreeks (iOO voor
+Chr.) bezongen, die, volgens de legende, zich van
+de Leukadiüche rots op Lesbos in zee stortte,
+om van hare hoopeloozo liefde voor Faon genezen
+te worden.
+6) Nekranthema staat er in het Grieksch, dat
+zijn de Chrusanthema der klassieken, bij ons
+goudsbloemen, waarmede mcndoodenkransen vlocht
+bij de Grieken.
+TWEE LITTERATUUR-DRAMA'S
+
+Lord Hyron von Karl Bloibtreu (I. Lord
+Byrons letzte Liebe. Drama in flinf
+Akten. II. Seine Torhter. Drama in
+iïinf Akten). Leipzig 188(5. Verlag von
+Wilhelm Fricdrich. 3 Mrk.
+
+Men behoeft do verschillende werken van Karl
+Bleibtreu (sinds cenigcn tijd ook in ons land
+meer bekend door zijne brochure: Revolntion der
+Littcratur) maar op te slaan, om tot het besef
+te komen dat Byron ten allen tijde een grooten j
+invloed op deze Duitschen schrijver heeft uitgo- \
+oefend. Niet alleen dat hij in een roman: Der j
+Traum" do ontwikkeling van don dichter (in het t
+bijzondere geval: Byron) in den strijd met de |
+wereld schetste, maar ook zijne novelle en ge- &lt;
+dichten vloeien over van herinneringen aan, en
+aanhalingen uit Byron. In het door hem gerc- )
+digeerde weekblad : Das Magazin t'iïr die Litte- i
+ratur des In- und Auslandes" geeft hij van tijd
+tot tijd min of meer belangrijke opstellen over
+Byron's dramatische en lyrische poëzie. We
+kunnen ons volkomen voorstellen dat Dr. Ed.
+Engel waarheid spreekt, wanneer hij zegt dat
+Bleibtreu de grootste Byron-kenner in
+Duitschland is hij kon er bijvoegen : do grootste
+Byron-vereerder.
+Van deze Byron-voreering (reven de beide hier
+
+boven genoemde drama's, die aan Ernst Possart
+zijn opgedragen, ook weder blijk. Het eerste stuk
+is een herdruk van Bleibtreu's eersteling op dra
+
+matisch gebied doch geen slaafsche herdruk.
+Bleibtreu is een onvermoeid werker, en rusteloos
+tracht hij ook datgene wat hij vroeger schiep te
+polijsten en volkomen te maken, liyrons letzte
+Liebe" is gansch en al omgewerkt het was
+eerst niet afgerond genoeg en te lang om opge
+
+voerd te worden, een der dramatis pesonae,
+Shelley, verdween.
+Litteratuur-drama's, toor.eelstukken waarin de
+hoofdrol vervuld wordt door de dii maiores of
+minores in de letterkunde, zullen het groote pu
+
+bliek slechts belang inboezemen, wanneer niet
+slechts het onderwerp, doch ook de behandeling
+in staat is de toeschouwers te boeien. Van
+daar dat dergelijke drama's zoo dikwerf niet
+bühnenwirksam" bleken te zijn. Of deze dra
+
+ma's dat wél zullen, zal nog moeten blijken, daar
+de opvoering er van nog niet heeft plaats gehad.
+Wij gelooven echter dat Bleibtreu's stukken lan
+
+ger dan l'espaco d'un seul jour •—of liever d'un
+soul soir zullen leven. Toch is het niet on
+
+mogelijk dat de regisseur vele citaten die minder
+ter zake doen en de handeling bijwijlen doen
+stokken, zal schrappen. Sommige echter heeft de
+schrijver met zeldzaam talent weten in te schui
+
+ven en tot het dramatische der handeling laten
+bijdragen zoo b.v. de vertaling van de be
+
+roemde stanza's Italia ! oh Italia !" ofschoon
+men bezwaar kan hebben tegen de wijze waarop
+de dramaticus deze en de volgende stanza ineen
+laat vloeien •—niet uiteen artistiek oogpunt,
+doch uit het oogpunt van waarschijnlijkheid.
+Byrons lotzto Liebe" speelt natuurlijk in 1821
+in Ravenna de laatste twee bedrijven ver
+
+plaatsen ons in Livorno. De liefde van Byron
+tot gravin Tcresa Guiccioli is, gelijk de titel reeds
+aanduidt, het ouderwerp van dit drama. Het is
+de vraag of een ander er in zal slagen deze
+korte periode in Byron's leven zoo uitnemend uit
+te werken als Bleibtreu het deed; ook bij lezing
+boeit het drama even als het volgende, zeer.
+Bleibtreu vond het noodig in Das Magazin"
+eenige opmerkingen ten beste te geven naar aan
+
+leiding van enkele vragen, hem ten opzichte van
+het tweede drama gedaan. Bleibtreu heeft, waar hij
+Adah Byron tot de hoofdpersoon van een drama
+koos, niet de geschiedenis doch de verdichting
+gevolgd. Het is bekend, hoe velen nog gelooven
+dat Adah Byron is opgevoed in den afschuw voor
+haar vader dat zorgvuldig Byron's werken voor
+haar verborgen werden, dat zij eindelijk Byron's
+portret en zijne gedichten heeft leeren kennen
+en hoe ze gestorven is, geschokt door wat ze las
+en door een ongelukkige liefde. Dit alles is
+eene mythe, al vond Disraeli het goed om zijn
+roman Venetia" er op te laten steunen. Adah
+Byron is op haar 37ste jaar om met het eind
+te beginnen gestorven aan gewone koortsen.
+Adah Byron is volstrekt niet door hare moeder
+verwijderd gehouden van Byron's gedichten
+integendeel. Bleibtreu brengt in herinnering dat
+Lady Byron gelijk bekend is een zeer ont
+
+wikkelde vrouw •—eens aan eene vriendin mee
+
+deelde dat Adah bekeerd was van haar tegenzin
+in gedichten. Op de vraag, welke gedichten dat
+bewerkt hadden, luidde hot antwoord: welke ge
+
+dichten anders dan die van haar vader?"
+Toch scheen •—en terecht deze mythe
+Bleibtreu geschikter 'toe om het onderwerp van
+een drama uit te maken dan de historie. Lady
+Byron is natuurlijk ook in het drama de persoon
+zooals velen ze zich voorstellen en ze in werke
+
+lijkheid niet geweest is. liet bekende boek
+van Harriet Beccher Stowe: The Byron
+Controversy" heeft er niet weinig toe bijgedragen de
+verkeerde voorstelling van Lady Byron in de wereld
+te helpen: bij haar was ze do vervolgde martelares.
+Bleibtreu teekent in de hierboven aangehaalde
+toelichtingen in Das Magazin" haar zooals uit
+vertrouwbare mededeelingen harer bloedverwan
+
+ten, uit haar eigen onuitgegeven Diary" blijkt
+dat ze geweest is. Zij was eene fijnbeschaafde
+femme savante, die een goed hoofd had voor
+wiskundige studies en ook, wat daarmee niet
+altijd pleegt saam te gaan: zin voor poëzie.
+Byron zei zelf eens tot haar: gij zoudt even goed
+gedichten kunnen maken als Mrs. Hemans, en het
+is bekend, dat hij deze zeer hoogschatte. Het
+verhaal, als zou zij hem eens gevraagd hebben
+wanneer hij toch dio slechte gewoonte van
+versjesmaken zou arteeren, is te dwaas om er geloof aan
+te slaan: men weet dat zij verscheidene gedichten
+copicerde. 't Is waar, dat het huwelijk van
+Byron met Miss Milbanko niet uit vurige liefde
+is gesloten, doch do scheiding is niet zoozeer
+haar wensch als die harer moeder geweest
+deze dwong haar er toe. Lady Byron verklaarde
+zelve, dat haar man al de eigenschappen van oen
+goed echtgenoot bezat; ook verblijdde het haar,
+dat hunne godsdienstige inzichten zoo overeen
+
+stemden. Byron was, gelijk men weet, Calvinist.
+Een aangenaam karakter had Lady Byron niet
+hare familie stemde toe. dat zij verwaand was.
+De opmerkingen van Bleibtreu dachten ons
+belangrijk genoeg toe, om hier eene plaats te
+vinden. Doch ze deden ons afdwalen van het
+drama. Ook dit is voortreffelijk in elkaar gezet
+on uitnemend is do preutsche Engelsche aris
+
+tocratie geschetst niet minder het gefingeerde
+beeld van Adah. Bleibtreu beschikt over een
+uitncmendcn stijl en de gesprekken zijn uitermate
+vloeiend. Dat hij in dit drama partij zon trekken
+van het fraaie einde van Canto III in Childe
+llarold's l'ilgrimage de fijngevoelde stanza's
+door Byron aan zijne dochter gewijd, was te den
+
+ken slechts de hand van den meester kan het
+doen gelijk Bleibtreu het deed.
+Ook deze drama's hebben ons niet geschokt in
+de overtuiging, dat Bleibtreu ecu van de beste
+tegenwoordig levende Duitsche schrijvers is.
+ONZE OUDJES".
+
+Als wij vroolijk of droevig omdwalcn op de
+groote maskerade van het leven, strevende naar
+eene goede plaats in de quadrille van het noodlot
+of naar goed gezelschap aan het buffet van het
+geluk, als wij, vergeetachtig voor al hetgeen achter
+ons ligt, ons slechts uitstrekken naar al het
+verIcidelijite, dat ons toewenkt in het verschiet, dan
+volgen ons, getrouwd, bezorgd, hoopvol, twee paar
+oogen van achter de verborgen, donkere
+tooneelschermen, waar het leven schijnt opgehouden te
+hebben, waar het stof toeneemt en de stilte
+heerscht.
+Langzamerhand worden ze meer verduisterd,
+die twee paar oogon, de gezichtskring wordt meer
+begrensd in do verte, maar breidt zich uit naar
+boven en eindelijk zijn ze uitgedoofd, eerst het
+eene paar en dan het andere, en als gij u dan
+juist midden in het meest luidruchtige spel be
+
+vind, daarbuiten op het groote tooncol, dan voelt
+ge toch plotseling iets kouds en ledigs in het
+harte cu iets vochtigs in het oog en daarna
+danst ge weder voort, alsof er niets gebeurd ware,
+maar als go nauwkeurig naar boven blikt in het
+onmetelijke blauw, dan zijn daar twee nieuwe
+sterren opgestoken, die slechts schijnen te stralen
+voor u.
+Maar in do oude tooneelschermen, waar het
+stof toeneemt en de stilte heerscht, daar is het
+zoo ledig en koud geworden, want de oudjes
+zijn weg."
+Dierbare, oude, grijze hoofden, die van de plaats
+waar ons levenslicht ontstoken werd, onrustig zijt
+uitgestrekt om ons te volgen op den kronkelendeu
+weg, draal nog lang, lang bij ons hier beneden !
+Dierbare, oude. verduisterde oogen, kijk ons nog
+lang na op den levensweg !
+Daarbuiten, in het snel wisselend leven, heet
+het: uit het oog, uit hot hart," en als wij slechts
+een paar jaren wegbleven van eene plaats, daar
+wij meenden, dat allo deuren voor ons openston
+
+den, alle harten warm voor ons klopten, dan
+ontwaren wij niet zelden bij onze terugkomst ver
+
+getelheid in de blikken en ijskeldor-atmosfeer aan
+den vrienden haard.
+Maar als gij na vijf, tien, twintig jaar hen ver
+
+geet, die elkander eens met jubelende vreugde
+omarmden over uw wiegje en dan terugkeert met
+een beetje zonneschijn in uwen lach en cenigo
+graden warmte in uw stem, dan zijn zij altijd
+dezelfden, hunne harten hebben hetzelfde gevoel
+voor u warm gehouden en als gij des avonds in
+uw eigen, oude bed van vroeger insluimert, is
+het u te moede of gij het eerst gisteren verlaten
+had. Dierbare oude trouwhartige harten in ver
+
+welkte, gerimpelde borsten, wordt niet moede
+nog eenigen tijd te kloppen, houdt de oude
+tecderheid nog eenigen tijd warm, want wij hebben
+soms behoefte er uitterustcn van onrust en kommer
+in den strijd des levens'.
+Overal elders in de wereld worden wij ontvan
+
+gen, al naar gelang het geluk ons gunstig is, met
+geld op zak, goeden wind in het zeil en
+Fortunaaan boord, zijn wij er zeker van met bijval be
+
+groet en ontmoet te worden door vrienden, naar
+welke kust der aarde wij den koers ook stellen
+mogen.
+Maar slechts in een enkele haven in de geheele
+wereld kunt gij binnenloopen met gebroken mast
+on gescheurde zeilen, met versleten boeg en ver
+
+pletterde kiel, ja, met den dood zelf aan boord,
+en toch een goede ankerplaats vinden en geopende
+armen; dio haven heet het ouderhuis" en die
+ankergrond ouderliefde" en lij" is daar aan
+des vaders borst en stille wateren" vindt ge daar
+in moeders tranen; daarvan kunt ge verzekerd
+zijn. En bestaat er nog eenige mogelijkheid voor
+den schipbreukeling naar den geest" om nog
+eenmaal eigen dek te betreden op den levens
+
+vloed en met voordeel de onstuimige baren te
+klieven, dan is het als hij in die haven heeft
+gerepareerd".
+Er zijn vervelende oude hoeren en dames, dio
+er uitzien als ingckankerde egoïsten, die in niets
+belang stellen, die vergeten zijn wie Lucca is eu
+er zich niet om bekommeren wie koning van
+Bulgarije wordt, rechte oude vogelverschrikkers,
+echte gepleisterde graven, knorrig, slecht ge
+
+luimd, stijf.
+Wilt gij den sleutel tot hunne harten kennen V
+Wilt gij met n tooverslag hun ijs ontdooien?
+Wilt gij deze egoïsten zien stralen en glimlachen ?
+Niets is eenvoudiger.
+Gij behoeft U slechts tot den dwarskop of
+tot de oude, vervelende dame te wenden en
+losweg te zeggen: Ik kom van Lyse Kyl on breng
+U de hartelijke groeten van mejuffrouw uwe
+dochter; zij is eene der sterren van het saizoen
+daar", of: Ik heb nog nooit zoo'n klaveroogst
+gezien als op tuvs zooifs landgoed dit jaar, rla(:
+verzeker ik U, mijnheer", of slechts: Ik dronk
+gisterenavond een glas punch met uw zoon in
+het koffiehuis bij het Ilótcl, mijnheer de majoor,
+en toen zeide hij	" meer is er niet noodig
+dan zulk banale phrase om deze oude lieden ge
+
+heel te doen veranderen, om ze dadelijk aange
+
+naam en medcdeelzaam te stemmen.
+Voor aardsche liefde is het bezit eene levens
+
+voorwaarde, maar de menige liefde, waarmede de
+groote Nazarcncr. zijn eigen liefde tot ons wilde
+vergelijken, kan zonder (ïat bezit leven en bewijst
+reeds daardoor hare hemelsche afkomst. Zij
+werd daar aangestoken maar brandt op aai-de.
+De zoon groeit op in een huis. waar mogelijk
+ieder zijner behoeften moet vervuld worden door
+ontbering. De moeder is voor hem de eerste
+vrouw op aarde en zelve heeft zij hem meer dan
+haar eigen leven lief. Twintig, vijfentwintig,
+dertig jaren van tcederhcid, waakzaamheid, smart
+en onrust, moesten hem tonh immers tot haar
+eigendom gemaakt hebben en haar de eerste
+rechten hebben gegeven op zijn hnrt.
+Maar daar komt hij op een goeden dag tehuis,
+ontroerd, verward, blozend en gelukkig, neemt
+de oude vrouw in zijn armen en vertelt haar. dat
+eene andere vrouw, die hij sedert n twee, drie
+maanden, mogelijk een half jaar kent, nu voor
+altijd hare plaats in zijn hart heeft ingenomen,
+dat zij zich moet tevreden stellen met de
+krniinkens, die mogelijk vallen van de rijke tafel van
+zijn echtelijk geluk en hij vordert als de natuur
+
+lijkste zaak der wereld, dat '/.ij zich met hem
+verblijden zal.
+En zij doet het. Zeker, het kan gebeuren dat
+een restje eigenliefde zich in haar hart laat gel
+
+den, dat voelt alsof het barston zal bij de vrees
+om een zoon te verliezen, mrar haar hart komt
+dat altijd te boven en zij wijdt er zelfs een
+plaatsje in voor de nieuwe dochter.
+En die oude dame, die zoo welwillend werd,
+toen gij slechts van baar lei u d spraak t, zij staat
+gereed u in hare armen te sluiten, als gij een
+vriendelijk, prijzend woordje over hebt, voor hot
+kind van hare dochter. Want zie, de moeders
+staan in liefde zoo ver boven de vaders, als de
+vaders boven het overige nienschengeslacht, en
+een grootmoeder van moederszijde, die het klein
+
+kind in hare armen wiegt, is de geïdealiseerde
+moeder, met Gotls eigen: merktceken voor lang
+
+durige en getrouwe dienst" drukt op zijn eigen
+werk.
+Niets is in 't algemeen meer stuitend dan
+pronkerij, maar er is n soort pralerij, waarbij wij
+zonder scherpte onzen besten lach lachen, dat is
+het pronken der ouderen met hunne kinderen.
+Wij hebben het hart niet om de verblinde
+mama onbarmhartig te honen met den
+scliimpnaam van domme gans" als zij er xich over be
+
+klaagt dat: de meisjes kompleet gek zijn op
+haar zoon." Wij hebben den moed niet om een
+van trots stralende grootmoeder te beduiden dat
+alle kinderen op dien leeftijd zóó zijn !" als zij
+ons vraagt of de kleine ziellooze vetklomp, dio
+zij in do armen draagt, niet een wonderkind is.
+En het zou ook nergens toe dienen, want zij zou.
+ons in elk geval toch niet gelooven.
+Veel beter dan met zoo iets te spotten is, om.
+er alleen een weinig naar te streven om zooveel
+mogelijk de plannen te verwezenlijken die ergens
+in een hoekje van de wereld worden gekoesterd
+voor onze toekomst, door een paar welbekende,
+in hunne verwachting en hoop zoo halstarrigo
+hoofden.
+Dierbare, oude. grijze hoofden, rijpt slechts
+langzaam ten oogst! Sujrnx
+
+
+V A II I A.
+
+Jbsen's drama Gespenster, dat dezer dagen te,
+j Meiningen gegeven zal worden, beeft reeds een
+i hecle geschiedenis. Het werd in 1881 gedrukt en
+tegelijk aan de vier groote schouwburgen te
+i Christiania, Bergen, Kopenhagen en Stockholm
+! aangeboden, maar door allen afgewezen. Twee
+i jaar later, in 188.'!, kwam een nog onbekend
+| Zwecdsch acteur, uit de provincie, August
+Lind| berg, met een /wecdschc troep te Kopenhagen;
+hier, in do voornaamste tooneelstad van het
+Noorden, gat' hij Handel, dien hij binnenkort; tot,
+een Dcensche beroemdheid maakte. Hij keerde
+naar Zweden terug.
+Eenige maanden later vernam men, dat hij
+(7espenster spelen zou, en wel te llelsingborg, een klein
+
+</text>
+<image timestamp="2002:08:19:23:02:24.00" size="416547">D10001RK.TIF</image>
+</page>
+</document>

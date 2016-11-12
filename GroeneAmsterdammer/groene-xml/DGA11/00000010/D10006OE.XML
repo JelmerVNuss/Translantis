@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270716</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 16 JULI 1927
+No. 2615
+L
+?
+J. D. STRUIJS 6 Zn.
+Prinsengracht 837 ~- Telefoon 37906
+Begrafenissen - Crematie - Transporten
+jJimiimiliimiltifiifiiMiuimiiiiiiMimiiimiiimiiimiiiiitiiimiiiMiMim
+
+
+LIPS &amp; PETERS l
+Vraagt Catalogus
+met
+prijzen
+DORDT
+iilliiiiiiiiiliiiiiiiiiiiiimiiiiiiiniiiHiiiiMiiiiiiliiiiiiiniiiiiiiiiiiiiiiiiiiimjMiiHiiiiiiiiiiiniiiP
+Tot de meest gelezen boeken van den laaisten tijd
+behooren de werken van
+
+G. VAN NES-UILKENS
+
+DUIKELAARTJE
+3e DBTJK
+Prijs Ingenaaid f 3.25; gebonden f3.90
+
+UIT DE RECENSIE'S:
+Een mooie, goed geschreven, ernstige roman. Het Vaderland.
+Een mooi boek, waarvan men gaat houden, terwijl men het leest.
+Rotterd. Nieuwsblad.
+Dviikelaartje" zal om meer dan n reden zeker een graag
+gelezen boek worden. " Twentsch Dagblad.
+Ik vertrouw, dat Duikelaartje" in vele woningen een vriend
+zal worden. De Stroom.
+Een boek, zóó fijn en groot van teekening, dat het een intens
+genot wordt, het leven van Theo mee te maken, waarin we
+geheel opgaan, daar het tot ons spreekt met groote kracht
+en ons binnenste vaak heftig beroert. Amersfoortsch Dagblad.
+HET
+
+VERLATEN EIBERSNEST
+2e DRUK
+Prijs ingenaaid f 3.25; gebonden f 3.90
+
+Oordeel der Pers bij de eerste druk:
+Een boek van edele harmonie en groote eenheid. Het verlaten
+Eibersnest", dat een vervolg is op De jonge jaren van de
+Bergmannetjes' . Van dit boek moet per se een goeden invloed
+uitgaan. Prov. Geld. en Nijmegensche Crt.
+Een vriendelijke en opgewekt geschreven familieroman, die het
+gezin van een gezond denkend en moedig domineespaar beschrijft,
+met al zijn lief en leed, dat het groot worden en uitvliegen
+van zulk een gezellig nest jongen meebrengt. Ben prettig en
+prachtig-gezond boek. De Deli-Courant
+Ook de verhouding van de beide ouders, hun sterke, zuivere
+liefde, is een belangrijk gegeven in het verhaal. De Telegraaf.
+VERKRIJGBAAR IN IEOEREN BOEKHANDEL en bij de UIT
+
+GEVERS VAN HOLKEMA &amp; WARENDORF's U.-M., - A'DAM.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LÏJKKOETSAUTOMOBIELEN
+f1
+iiiiiiiiiiiiiiimiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiNiiiiiiiiiiiiiiiiii^
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+Bty ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+
+iiiummiinimiiiiiiiiiiniiniiimiiiiiiiiiimiiiiiimiiniuiiii^
+
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. DE HOUTTUINEN", AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+FIAT AUTOMOBIELEN
+Agent voor het geheele Gooi: Auto Garage Eroijmans
+Soestdijkerstraatweg 66 HILVERSUM Tel. 306
+Bezoekt s.v.p. onze SHOWROOM en vraagt demonstratie
+PRIJZEN VANAF F 2200.—.
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+BHOKAMEfillCHTIIiEEH
+zoowel eenvoudige als betere uitvoering.
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:21:13:50:13.00" size="155365">D10006OE.TIF</image>
+</page>
+</document>

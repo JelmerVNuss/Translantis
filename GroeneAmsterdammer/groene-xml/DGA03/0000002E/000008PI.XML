@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De cacaodrank.
+Wordt gedronken met melk of spuitwater.
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaorant
+Telefoon 200
+GBBR. RADEMAKER
+N.V
+- GOUDA
+WeiERAHDERöZn,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+*«*&gt; VGravenhage *&lt;**
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+HoubaeriÜoa 2%
+Sigaren . ; r*$
+Met bons voor fraaie
+geschenken
+AUG. U1LKEHA
+Grootste Klokken Mag.
+MODERN fl. 20 tot fl.50.
+Reguliersbreestraat 39
+MNRIJN'S
+SMOSTERC
+Adverteert
+in
+DE GROENE"
+UITOAVEN VAN
+'J. B. WOLTERS
+GRONINGEN
+DEN HAAG
+Dr. J. B.BESANQON
+EN W. S T R U I K
+PRÉCIS HISTORIQUE ET
+ANTHOLOGIE DE LA
+LITTÉRATURE
+F R ANQA ISE
+Avec de nombreuses illustrations
+Twee deelen Derde druk
+Prijs der twee deelen, ing. f 8.50
+gebonden	- 9,50
+Elk deel afzonderlijk, ing.- 4,25
+gebonden ... . - 4,90
+B. E. BOUWMAN en
+TH. A. VERDENIUS
+DEUTSCHE
+LITERATURGESCHICHTE
+NEBST LESEBUCH
+Mit Abbildungen und Portrats
+Twee deeten Achtste druk
+Prijs der twee deelen, geb. in l
+band f 6,25, in 2 banden f 6,75
+Elk deel afzonderlijk,ing. - 2,75
+gebonden	-3,50
+HAUPTPERIODEN
+DER DEUTSCHEN
+LITERATURGESCHICHTE
+NEBST LESEBUCH
+Mit Portrats und
+kulturgeschichtlichen Bildern
+Prijs, ing. f 4,25, geb. f 4,75
+
+J. H. SCHUTT
+AN INTRODUCTION TO
+ENGLISH LITERATURE
+Geïllustreerd
+Eerste deel,ing. f 4,25,geb.f 4,90
+Carltons? O, wat zien die er lekker uit... is
+dat nu dat nieuwe Engelsche bakwerk van
+,(Patria" i... verrukkelijk zeg... en wat heer
+
+lijk bros en geurig . .. hmm ... om nooit meer
+mee uit te scheiden (!)... zoo'n rond mopje met
+zacht-bruine randjes (Butter Sprits) of een Tit
+Bits", waaruit men de zuivere grondstoffen
+proeft. Het is beslist iets aparts, die Carltons".
+U moet ze eens nemen als u visite krijgt. Carl
+
+tons", het nieuwe Engelsche bakwerk van
+Patria" . .. 18 ets. per ons, blik no. l ƒ l, .
+PATJRm BISCUITS
+
+</text>
+<image timestamp="2002:09:22:09:52:52.00" size="261484">000008PI.TIF</image>
+</page>
+</document>

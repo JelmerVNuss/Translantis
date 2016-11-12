@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19231215</Datum>
+<Pagina>2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+15 Dec. '23. - No. 2425
+a,
+.
+DE VRAAG VAN DEN DAG
+
+Teekentng voor de Amsterdammer" door Jordaatt
+. toegevoegd, dat, wanneer men principieel
+op het eerste standpunt staat, daarmee niet
+is uitgesloten, dat men voor bijzondere ge
+
+vallen de tweede opvatting huldigt.
+Nu behoeft er nauwelijks op gewezen te
+worden, dat, ook als de eerste opvatting,
+die van een objectieve" koopkracht van
+het geld, juist zou blijken te zijn.de bewe
+
+gingen der prijzen van verschillende artikelen
+over eenzelfde tijdsverloop toch zouden
+uiteenloopen, niet alleen in intensiteit, maar
+zelfs in richting. In een tijd van algemeene
+stijging der prijzen zullen sommige sterk,
+andere minder omhoog gaan en het is zelfs
+niet buitengesloten, dat sommige prijzen dalen,
+en het omgekeerde heeft ook plaats. Hier
+
+onder zijn eenige cijfers gegeven, die de be
+
+wegingen van de prijzen over verschillende
+tijdvakken karakteriseeren. Zij zijn deels
+ontleend aan de prijzen waaruit het indexcijfer
+van The Statist (de opvolger van het index
+
+cijfer van Sauerbeek) is berekend, deels
+uit die waarop het Nederlandsche indexcijfer
+der groothandelsprijzen gebaseerd is. De per
+
+centages, waarmee de prijzen in de beschouwde
+tijdvakken zijn gestegen of gedaald zijn daar
+
+toe eerst naar hun grootte gerangschikt,
+daarna is bepaald, welke stijging (of daling)
+in het midden van de reeks ligt (mediaan),
+welke de reeks in vieren verdeelen
+(kwartilen) welke in tienen (decilen).
+Men zou den eisch kunnen stellen, dat alleen
+die prijzen in het indexcijfer werden verwerkt,
+die den invloed van de veranderingen in die
+koopkracht zoo zuiver mogelijk ondergaan,
+maar daarmee is de beperking van de keus
+der artikelen ook afgedaan. Binnen die perken
+is de keus vrij. Vervanging van een artikel
+door een ander mag dus slechts een geringen
+invloed op het indexcijfer hebben. Daartoe
+moet de dispersie gering zijn, vooral in de
+omgeving van het indexcijfer. Het blijkt dat
+daaraan het best voldoen indexcijfers, die
+slechts over korte perioden loopen, wanneer
+de beweging der prijzen rustig is.
+Daarom zijn weieens z.g.n. kettingindex
+
+cijfers voorgesteld, waarbij voor ieder jaar het
+onmiddellijk daaraan voorafgaande als basis
+wordt gebruiktMaar ook de gewone indexcijfers
+cijfers, waar de basis maar zelden wordt ver
+
+legd, geven over korte perioden wel een indruk
+van den loop van de koopkracht van het geld.
+En wat lange perioden betreft: de recht
+streeksche vergelijking van twee ver uiteen
+liggende jaren moge het voorwerp van eenigen
+twijfel zijn, de algemeene gang, die toch
+eigenlijk een aaneenschakeling is van verge
+
+lijkingen van jaar op jaar, is gewoonlijk
+wel te vertrouwen. Het blijkt dan ook meestal
+dat de verschillende indexcijfers, die voor n
+land bestaan, in hun algemeene allure veel
+overeenkomst vertoonen, al wijken de
+spronCijfers ontleend aan The Statist:
+
+periode .................... ' 1896—1913 1906—1907 1913—1919 1919—1920
+gemiddelde stijging (+) of
+daling (—) .............. -i- 39 + 3 +154 +17
+mediaan .................. +40 +4 +132 +17
+kwartilen .................. -t 19, -i- 57 O, -! 10 + 100, + 194 O, -i 47
+(omvattende de helft der
+prijsbewegingen.)
+uiterste decilen ............ 10, ^65 8, +15 + 76, +260 3, +59
+(omvattende 4/5der
+prijsbewe• gingen)
+uiterste cijfers ............ 35, + 236 20, -i 38 + 27, + 304 30, + 72
+Cijfers ontleend aan de Nederlandsche groothandelsprijzen.
+periode
+gemiddelde
+mediaan
+kwartilen
+uiterste decilen
+uiterste cijfers
+1906—1907 1913—1919 1919—1920
+-r 4 + 206 l
++ 2 + 174 7
+4, f 10 +119, + 233 16, +12
+12, -21 + 86, + 342 24, +22
+17, +26 + 44, +1120 48, +94
+1921—1922
+16
+12
+-21, - 4
+31, + 19
+38, + 40
+illliMMiitiiiiiiiiiiiirtiiliiliilllllliiiHllllllllllllllllllllllllllllllllimillllllllll
+
+IETS OVER INDEXCIJFERS
+VAN PRIJZEN, IN HET BIJ
+
+ZONDER DE NEDERLANDSCHE
+INDEXCIJFERS
+De prijzen der goederen zijn aan voortdu
+
+rende schommelingen onderhevig, sommige
+meer, sommige minder; er zijn er die geruimen
+tijd vast blijven, maar op den duur blijkt
+ook op dit gebied niets bestendig te zijn. Het
+gevolg is dat men op verschillende tijden
+voor dezelfde som geld een geheel verschil
+
+lende hoeveelheid van dezelfde waren kan
+koopen.
+Uit te wijden over de moeilijkheden, welke
+hiervan het gevolg zijn, is overbodig; een blik,
+reeds op de toestanden in ons eigen land
+in de laatste tien jaar, maar in veel grooter
+mate op die in de ons omringende landen,
+geeft een lec.on de choses, waartegen alle
+theoretische overwegingen het aan duidelijk
+
+heid moeten afleggen: inkomens, voorheen
+ruim, worden onvoldoende, verbintenissen,
+korter of langer tijd geleden aangegaan,
+kunnen niet meer nagekomen worden, aan
+berekeningen, waarnaar men zijn handelingen
+zelfs voor niet verre toekomst zou willen in
+
+richten, ziet men eiken grond ontzinken.
+Een eerste vraag is wel: is die verandering
+in de koopkracht van het geld tusschen twee
+bepaalde tijdstippen in cijfers uit te drukken?
+Deze vraag doet aanstonds een andere
+rijzen:
+Kan men de koopkracht van het geld
+waar deze toch slechts gemeten kan worden
+naar hetgeen men voor dat geld verkrijgt
+als iets algemeens, objectiefs opvatten, onaf
+
+hankelijk van bepaalde waren ten aanzien
+waarvan men die koopkracht denkt, of moet
+men niet veeleer die koopkracht steeds be
+
+schouwen ten aanzien van bepaalde artikelen?
+Deze vraag is niet afdoende te beantwoorden.
+De prijzen komen voort uit de wisselwerking
+van vraag en aanbod van goederen en geld,
+de overvloed of schaarschte der goederen
+maakt hen goedkoop of duur met betrekking
+tot andere, wijzigt het beroep op het ruilmiddel.
+Al de impulsen die op deze wijze van de ruil
+
+verhoudingen der afzonderlijke goederen uit
+
+gaan, vereenigen zich tot resultanten, die van
+den eenen kant de koopkracht van het geld
+beïnvloeden; de hoeveelheid ruilmiddel, dat in
+omloop is, en de snelheid waarmede die om
+
+loop geschiedt, werken er van den anderen kant
+op in. Het is nu de vraag: komen die impulsen
+ten slotte tot n enkele kracht samen,
+zoodat men op een bepaald oogenblik in
+het algemeen van een objectieve koopkracht
+van het geld kan spreken, of blijven zij naar
+verschillende groepen, gebieden, behoeften,
+gescheiden en zou men ten slotte van de
+algemeene koopkracht van het geld" alleen
+mogen spreken als men al de transacties,
+waarbij het geld een rol speelt, op zeker
+oogenblik samenneemt en de verhouding
+van de totale hoeveelheid geld met het totaal
+van hetgeen daarvoor wordt omgezet verge
+
+lijkt? Beide opvattingen hebben haar
+vooren tegenstanders. De onderscheiding is van
+belang, omdat de twee opvattingen princi
+
+pieel tot twee verschillende wijzen van be
+
+rekeningvoeren. Aanstonds zij hier echter aan
+Hieruit blijkt duidelijk, hoe sterk de cijfers
+voor elke periode uiteenloopen, maar tusschen
+de verschillende perioden bestaan weer groote
+verschillen. Betrekkelijk gering is de ver
+
+spreiding over korte tijdvakken en vooral in
+het tijdvak 1906—1907, dat in een periode
+van rustige ontwikkeling ligt. De helft van
+de stijgingen en dalingen ligt daar tusschen
+nauwe grenzen. In het tijdvak 1921 1920
+is de dispersie wat grooter, en vooral in 1919
+1920; veel belangrijker is die intusschen
+over lange perioden. In de periode 1896 1913
+ligt de helft der stijgingen en dalingen ver
+
+spreid over een ruimte van 38 punten, tegen
+10 en 14 in 1906—1907, 28 in 1919^1920
+(Nederland) en 17 in 1921—1922, maar vooral
+bij de uiteinden is de grootere verspreiding
+duidelijk te zien. Nog sterker loopen de prijs
+
+bewegingen in de hoewel kortere
+oorlogsperiode uiteen, waarbij voor Nederland
+zelfs een uiterste verspreiding van meer dan
+1000 punten bestaat.
+Wil nu die objectieve koopkracht van
+het geld" een bruikbaar begrip zijn, dan moet
+het in zekeren zin onverschillig zijn aan welke
+prijzen men ze meet.
+loninklijki HeubiltianspoiI-Haatscliappïi
+
+IDEGRUYTER&amp;CO.
+DEN HAAQ
+AMSTERDAM ARNHEM
+l Verhuizingen per Auto-Trein
+ISRAËL'S WEZEN EN WILLEN
+ning voeren. Aanstonds zij hier echter aan ^i^^^^^^^^^^^^^^^^^^^^^™^
+
+umi	MUI,n	m	i	l	"»»	•»"'	"	'	""'	'	"	'"	'
+Rrpt^-icraöi nu rrph.^i hpt Wpnswprk kowskv ! De een. de sterke mannelijke dragei
+gen in grootte nog wel eens van elkaar af.
+Voor Nederland worden de indexcijfers
+voor de groothandelsprijzen samengesteld
+door het Centraal Bureau voor de Statistiek
+te 's-Gravenhage, uit de prijzen van 48
+artikelen die hier een geregelden afzet vinden.
+Zooveel mogelijk worden marktprijzen ge
+
+bruikt, of anders gemiddelde maandprijzen
+verstrekt door bekende makelaars enz.
+
+Tot zoover de indexcijfers der groothandels
+
+prijzen. Eenigszins anders staat het met de
+indexcijfers van de kosten van het levensonder
+
+houd". Hierbij gaat het om de concrete vraag, de
+veranderingen in de kosten van een bepaald
+budget door een cijfer voor te stellen. Hier zijn
+bepaalde artikelen gegeven, die in bepaalde hoe
+
+veelheden gebruikt worden. De opgaaf is nu, de
+waarde van dat budget op verschillende
+tijdstippen te vergelijken.
+Individueele beteekenis kan zoo'n index
+
+cijfer natuurlijk niet hebben; het budget
+kan slechts een gemiddeld budget zijn, een
+normaal budget, in elk geval een budget
+dat als typeerend voor een groep kan worden
+beschouwd, zonder daarom wellicht op n
+geval nauwkeurig te passen. Maar wel moet
+men onderscheiden naar de groep, waarvoor
+het indexcijfer zal gelden. De levenswijze der
+arbeidersklasse verschilt van die der meer
+gegoede, in de stad is zij anders dan op het
+land, ook wijzigt zij zich van streek tot streek.
+In een klein land, zooals het onze, zijn de
+geografische verschillen minder groot dan in
+grootere landen; het doordringen van het
+verkeer tot in de uiterste hoeken, het toenemen
+van de nijverheid op het platteland, de
+industrialiseering ook van den land- en vooral van
+den tuinbouw, het afnemen van de
+Eigenwirtschaft", naarmate landbouw- en veeteelt
+meer en meer voor export gaan werken en
+het gebruik van uitheemsche voortbrengselen
+ROOKT
+
+Si-FA-Ko's
+
+El Gusto"
+SUMATRA 10 cent
+Jozef Israels"
+VORSTENLANDEN 8 cent
+AMSTERDAMSCH
+HANDWERK.
+Verkrijgbaar bij alla voorname Sigarenwinkeliers.
+tot in de meest bescheiden gezinnen en in de
+verste uithoeken doordringt, leiden er toe
+om die verschillen nog te verminderen. Dit
+geldt echter alleen voor de groote posten:
+voeding, kleeding, huishoudelijke uitgaven;
+in woning en belasting, om nog twee zeer
+belangrijke categorieën te noemen, heerschen
+zeer groote plaatselijke verschillen. Voor een
+werkelijk principieel onderzoek, dat de ver
+
+schillen in de kosten van het levensonderhoud
+in onderscheidene deelen des lands duidelijk
+zou vaststellen, zooals dat b.v. reeds eenige
+jaren geleden in Zweden is ingesteld, konden
+bij ons de benoodigde gelden nog nimmer
+worden gevonden, alleen voor den belasting
+
+druk worden thans vergelijkende cijfers ge
+
+publiceerd. Hoever de uniformiseering van
+de levenswijze reeds is doorgedrongen, en
+welke verschillen er daartegenover bestaan
+in uitgaven voor huishuur enz. is dus thans
+niet na te gaan.
+Het overzicht der kleinhandelsprijzen van
+een aantal voedingsmiddelen en huishoude
+
+lijke artikelen in een aantal plaatsen, waar
+coöperatieve verbruiksvereenigingen zijn ge
+
+vestigd, voorts van de prijzen van cokes,
+van zuivelproducten en van brood in een
+kleiner of grooter aantal plaatsen vermag
+slechts voor een klein deel in de leemte te
+voorzien: omtrent het verschil in levensge
+
+woonten in verschillende streken tast men
+toch nog in het duister.
+Wat wij thans van indexcijfers van de
+kosten van het levensonderhoud hebben,
+beperkt zich tot de cijfers voor arbeiders
+
+gezinnen te Amsterdam en voor gezinnen van
+arbeiders en van ambtenaren te
+'s-Gravenhage. Deze drie indexcijfers worden door de
+statistische bureaux van die gemeenten
+samengesteld. Het Amsterdamsche bureau be
+
+rekende vroeger twee indexcijfers, het eene
+op grondslag van de levenswijze en-het prijspeil
+van 1911, het andere op dien van de maand
+waarvoor het indexcijfer berekend was, ten
+
+einde door het verschil der beide cijfers de
+wijzigingen in de levenswijze te doen uit
+
+komen, welke df abnormale jaren van den
+oorlog en nog daarna noodig maakten; sinds
+Maart 1920 is hiermede gebroken, en wordt de
+levenswijze van die maand als grondslag
+aangenomen. Een verschil tusschen de
+Haagsche en de Amsterdamsche cijfers is verder,
+dat eerstgenoemde de belasting meetellen,
+laatstgenoemde niet. Opgemerkt dient nog,
+dat het Amsterdamsche bureau getracht heeft
+tusschen de beide reeksen van indexcijfers,
+met basis 1911 en Maart 1920, verband te
+leggen, door de cijfers van de laatste reeks te
+vermenigvuldigen met het indexcijfer van
+Maart 1920 (de basismaand van de nieuwe
+reeks) in de oude reeks. Hierdoor is een,
+zij het ook ruwe vergelijking ook met jaren
+vóór 1920 mogelijk geworden.
+
+JHR. W. M. J. DE BOSCH K E M P E R.
+iiiiiiiiiiimmiimiiiii	m"	i	i
+DE HERLEVING VAN HET HEBREEUWSCH
+
+Een van de merkwaardigheden der
+Joodsche renaissance onzer dagen, en zeker niet
+de geringste harer wonderen is de herleving
+van het Hebreeuwsch. Heb ik hier niet zóó
+maar voor mij liggen, door een
+Jerusalemsche firma in het Hebreeuwsch uitgegeven,
+iets zoo kostbaars als een paar klassieke kinder
+
+boeken: Halord Fauntleroy hakatan" en
+Ivanhoe" ter verheugenis van de
+Palestijnsche jeugd, zooals wij in onze jeugd met
+die boeken rijk waren? En de Hebreeuwsche
+prentenboeken, en de leerboeken en de dag
+
+bladen, die wij uit Palestina ontvangen, ja de
+Hebreeuwsche touristen-advertenties: bezoekt
+Palestina, aan onze Europeesche stations?
+Het is waar, dit alles is nog slechts een begin.
+Dagbladen en tijdschriften zijn nog geen kunst
+
+werken, nieuw-vertaalde romans zijn nog geen
+eigen nieuwe litteratuur. Toch is het al een
+onschatbaar ding, dat de eerste voorwaarde
+voor het ontstaan eener eigen litteratuur, dat
+hechtste cement van een volksgemeenschap,
+zoo onbetwistbaar, zoo
+niet-meer-te-vernietigen sterk aanwezig is: dat namelijk het He
+
+breeuwsch als dagelijksche spreektaal eener
+groeiende volksgemeenschap wordt gebruikt.
+Voor welk een groot deel is dit te danken aan
+den onlangs gestorven Ben-Jehoeda, dien
+fanatieken ijveraar, die als jong medicus
+uit Rusland naar Palestina getogen nog vóór
+
+dat de nieuwe joodsche kolonisatie daar een
+aanvang nam, nog vóórdat er een
+Hebreeuwschsprekende kring in het land bestond,
+zijn geheele leven van bezielde geleerdheid
+aan de zaak van het Hebreeuwsch gewijd heeft.
+Hoe heeft hij gestreden tegen het Jiddisch,
+die onaanzienlijke bastaardtaai der balling
+
+schap; en tegen de overheersching van vreem
+
+de talen, het Engelsch, en vóór den oorlog
+het Duitsch. Van het Hebreeuwsche leven is
+hij het middenpunt geweest, in den feilen,
+sterk politiek getinten taalstrijd
+HebreeuwschDuitsch, kort vóór den oorlog, was zijn kring
+de ruggegraat van het verzet; van de Waad
+Halaschoon (den Taai-raad) en het Hebreeuw
+
+sche purisme was hij de ziel.
+In zijn levenswerk, zijn Woordenboek,
+heeft hij den woordenschat van het
+nieuwhebreeuwsch nauwgezet gekatalogiseerd. Want
+die woordenschat was er ! Heel dat plotse
+
+linge opbloeien van het gesproken Hebreeuwsch
+in Erets-Isracl en geheel het levenswerk
+van Ben-Jehoeda ware niet mogelijk geweest,
+als niet de nieuwe spreektaal voor haar
+ontwikkeling had kunnen putten uit den rijken
+woordenschat van een moderne litteratuur.
+
+En deze litteratuur op zichzelf, de
+Hteeeuwsche Oost-Europeesche Hebreeuwsche litte
+
+ratuur, is ook weer zulk een wonderlijk ver
+
+schijnsel, waarvan men in West-Europa weinig
+weet 1). Ze berust niet op een Hebreeuwsch
+sprekende massa die was er toen niet
+en ze is toch volkskunst.
+Ze is ook daarin volkskunst dat zij geen be
+
+wust litterair streven kende: l'art pour l'art",
+aan die luxe was zij niet toe. Daarvoor was
+de gemeenschap waarin deze litteratuur ont
+
+stond veel te zeer verdrukt, de nood te schrij
+
+nend. Ook zelfs geen nationale motieven be
+
+zielden deze Hebreeuwsche dichters en schrij
+
+vers der 19de eeuw. Maar het licht der moderne
+ideeën inde duistere ghetto's te brengen, en de
+massa te bevrijden van wat zij als haar boeien
+beschouwde: het star-dogmatisch rabbinisme,
+dat was het ware Atifklarungs" ideaal, dat
+deze Oost-Europeesche schrijvers in het
+WestEuropa der 19de eeuw zoo vurig bewonder
+
+den en zoo fanatiek wilden navolgen. Ge
+
+heel een school van humanistische schrijvers
+wijdt zich, vele generaties lang, aan deze taak
+met toewijding en vurigen ijver. In hunne
+handen verliest het Hebreeuwsch, de eeuwen
+
+lang niet meer gesproken profetentaal, al
+
+reeds de stroefheid van den ouderdom, en
+wordt soepeler en leniger in het streven, de
+moderne denkbeelden tot in fijne nuances
+weer te geven. Zoo vormt zich deze litteratuur
+zonder eenige aanmoediging van buiten af,
+zonder n Maecenas, zonder academie noch
+salon, en ondanks een hevige vervolging van
+den kant der niet minder fanatieke tegenstan
+
+ders. Ook zijn daar niet alleen de vurige
+Maskiliem ( = rationalisten), zooals Cordon.
+Er zijn de romantischen, de lyrischen, zooals
+Dolitzky, die' in zijn weemoedige Zionsliederen
+zijn eeuwig lief: de maagd van Zion, bezingt.
+Of zooals Maiiee, en de populaire J. L. Perez.
+En, in dezen tijd levend, de meer epische,
+breedere Bialik, wiens gedichten reeds in
+vele talen zijn vertaald. Tscliernikowfky is
+niet opgegroeid in het enge ghetto, zijn jeugd
+doorleefde hij in het schoone en milde land van
+de Krim, waar van oudsher een vrije Joodsche
+boerenbevolking leefde; daardoor wel is hij
+de dichter der levensvreugde, de Griek onder
+de Hebreeuwers, Bialik en
+Tschernikowsky ! De een, de sterke mannelijke drager
+en bepeinzer van het schrijnende leed van
+millioenen, de ander de bazuin van hun onver
+
+woestbaar geloof in het leven en iu de toe
+
+komst ...." 2).
+
+Maar de werkelijkheid van de toekomst
+die blijkt altijd oneindig moeilijker en
+armelijker! Ook voor het Hebreeuwsch. Het
+wonderlijke gewas der Oost-Europeesche ty
+
+pische galoeth-litteratuur kan niet wortel
+schieten in den vrijen bodem van Palestina,
+kan zich niet handhaven in die nieuwe, van
+geheel andere problemen vervulde, door geheel
+andere natuur en menschen omringde gemeen
+
+schap. Er moét daar een nieuwe litteratuur,
+met nieuwe vormen van voelen en denken ont
+
+staan. Die dan wel de twee genoemde gegevens :
+een Hebreeuwsch sprekende menschengroep,
+en den woordenschat, al bezit. Maar nog niet
+het subtielste en moeilijkste: de wederzijdsche
+aanpassing van het moderne denken en voelen
+aan de oude taal, waarvan elk woord boorde
+
+vol is van begrip dat er sinds eeuwen in ge
+
+vangen is. Dit geldt natuurlijk niet alleen het
+dichterlijk voelen, het geldt misschien nog
+sterker voor het wetenschappelijk denken.
+Het is wel uitgesloten dat dit geslacht, dat
+eerst later Hebreeuwsch leerde, daarin origi
+
+neel zou kunnen denken. En omgekeerd, die
+uit het Galoeth komen, uit het gehebraïzeerde
+Galoeth dan, en die wel origineel Hebreeuwsch
+denken, die bezitten een stijl als b.v. Achad
+Haam, de grootste Hebreeuwsche essayist van
+onzen tijd. Voor een schrijver als Achad Haam
+is het ideaal, dat hij wonderwel bereikt
+een taal te-schrijven waarvan ieder woord,
+elke uitdrukking, iedere zinswending liefst
+een citaat is uit of minstens denken doet aan
+een uitdrukking uit den Bijbel of uit de ont
+
+zaglijk omvangrijke Talmoed-litteratuur. Als
+de ware fijnproever geldt hij die elke woord
+
+speling genieten kan, die elke uitdrukking op
+zijn herkomst savoureert!Toch is Achad Haam
+een der overtuigdste toepassers van modern
+denken zij het modern van voor twintig
+jaar , op de Joodsche problemen. Wie zijn
+schitterende essays kent over de onbewuste
+evolutie in de zich onveranderlijk wanende
+Wet, zal aan zijn ontledingsvermogen en
+denkkracht niet twijfelen. Maar hoe omslach
+
+tig en haast absurd doet ons dan een stijl aan,
+die in den lezer deze bij elk woord wisselende
+associaties oproept welke met het onderwerp
+niets te maken hebben, die hem vermoeit met
+het aanduiden van moeilijkheden, hem ver
+
+blindt met het oproepen van schoonheden die
+niets ter zake doen? De moderne Hebreeuw
+
+sche stijl zal zich moéten ontworstelen aan een
+schrijfwijze waarbij men telkens opnieuw wordt
+ondergedompeld in den casuïstischen denk
+
+trant van Middeleeuwsche geslachten. Zóó
+valt er geen wetenschappelijk, exact betoog
+te voeren.
+
+En toch is het Hebreeuwsch zelf een uiterst
+exacte taal. Exn taal die zonder hulpwerk
+
+woorden, alleen door een uitgebreid stelsel
+van vervoegingen, alle nuances van het werk
+
+woord,—actief, causatief, iteratief, intensitief
+enz., en dit alles nog met zijn passief, kan
+uitdrukken, eischt een sterk formalistisch
+denken, en staat geen Noordelijke vaagheid
+,toe, evenmin als het Latijn. Maar de Latijnsche
+talen bezitten een geheel anderen zinsbouw dan
+het opdat punt hoogst primitieveHebreeuwsch.
+De concisie, de Westersche geordendheid van
+het denken drukt zich wel in de lenigheid en
+fijnvertaktheid van de Latijnsche syntaxis het
+sterkst uit. Het Hebreeuwsch daarentegen
+stamt uit een kring waar niet zoozeer het
+ordenen en wetmatig rangschikken van
+kennis, als wel het opeenstapelen, het
+compileeren als wetenschap geldt; waar hij die het
+meest van den Koran en van de commen
+
+taren op den Koran uit het hoofd kent, res
+
+pectievelijk hij die den Pentateuch en diens
+commentaren en de commentaren op die
+commentaren het best in zijn hoofd paraat
+heeft,alsdegrootstegeleerdegeldt. 3) De syste
+
+matiek van dit denken is een systematiek
+van het opstapelen meer dan van het
+naarzijn-beteekenis rangschikken; een formeele, om
+zoo te zeggen uitwendige, systematiek. En de
+primitieve Hebreeuwsche syntaxis kent dan
+ook geen mogelijkheden als de Latijnsche
+ablativus absolutus, de accusativus cum
+infinitivo, geen eenvoudige, vergrootende en
+overtreffende trappen, niet al die grammatische
+figuren die ons spreken verduidelijken en
+vergemakkelijken doordat zij ons denken
+ordenen. Het Hebreeuwsch plaatst alle
+zinsdeelen naast elkander en geeft slechts een
+stroeve mogelijkheid tot het allernoodigste
+subordineeren.
+Waar taal en denken zulk een wisselwerking
+op elkander uitoefenen, de woorden evenzeer
+de begrippen stempelen als de begrippen de
+woorden vullen; de ordening van het denken
+evenzeer de ordening van het spreken, den
+zinsbouw, bepaalt als omgekeerd de bouw der
+taal de mogelijkheden van het denken begrenst
+hoe zal het Hebreeuwsch zich dan aanpas
+
+sen aan het Westersch-wetenschappelijk den
+
+ken, en dit denken omgekeerd aan de taal,
+zonder dat beide hun kenmerken verliezen? 4)
+Het zal moeilijk zijn, maar het zal gaan. En
+de kostbare bijdrage van dit geslacht reeds:
+de spreektaal, de dagelijksche omgangstaal,
+zal de rol vervullen van de omzwervingen der
+kinderen Israels in den woestijn, die periode
+van afleeren, ómdenken, zich aanpassen, die
+overgangstijd tot zelfstandig vruchtbaar
+leven.
+J. O K N S 'l' E I N—H O O F I K N
+1) In den laatsten tijd zijn enkele namen
+als Lifschiitz, Oordon, Schapirah, bekender
+geworden doordat Darius Milhaud op texten
+dezer dichters, door Nahoum Slousch in het
+Fransch vertaald, liederen gecomponeerd heeft.
+2) Van Campen, ,,Over litteratuur", in
+een critiek op het belangrijke werk van dr.
+Slousch La Poésie lyrique hébraïque con
+
+temporaine".
+3) Voorbeelden die dit aardig illustreeren:
+l'Histoire de la docte Sympathie (Deel VII
+van Mardrus' vertaling der 1001 Nacht);
+of de geleerde Cheik-el-Zaki uit het volgens
+kenners van het Oosten zoo juiste Livre
+de Goha Ie simple"; een geestige charge
+van deze soort geleerdheid vindt men ook
+in Gronemann's boek Tohu Wabohu".
+4) Een stap van heteekenis op dezen weg
+is een allerbelangrijkste nieuwe instelling:
+de uitgave der Scripta Universitatis atque
+Bibliothecae Hierosolymitanarum". Zooals
+elk land zijn Akademi'e van Wetenschappen
+heeft, die periodiek de nieuwe studiën harer
+leden en die van andere geleerden van dat
+land publiceert, zoo zijn deze Scripta" als
+'t ware de voorlooper der Jerusalemsche
+Akademie van Wetenschappen, die met de
+Jerusalemsche Universiteit zal ontstaan.
+Voorloopig verschijnen alleen een
+mathematischphysfsche afdeeling welke onder redactie
+staat van de professoren Einstein, Hadamard
+(Parijs), Landau (Göttingen), Levy-Civita
+(Rome ) en Ornstein (Utrecht) en een
+voor Orientalia en Judaica, waarvan de
+redactie nog niet vaststaat. In beide
+afdeelingen publiceeren geleerden van grooten
+naam. Elk der bijdragen verschijnt in de taal
+waarin zij geschreven is en in het Hebreeuwsch.
+
+</text>
+<image timestamp="2002:08:26:20:09:50.00" size="506962">D10003YH.TIF</image>
+</page>
+</document>

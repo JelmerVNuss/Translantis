@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280505</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r "••
+iroene
+sekbl
+voor- Ncdcrfond
+AbonnementapriÏB per jaar f 10.
+Advertentien f 0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+Loase n u m m e r a 25 cents
+In geval van schade kan men zich wenden tot de
+
+EUROPEESCHE"
+te Amsterdam, Barcelona, Belgrado, Berlijn, Bern, Boedapest, Boekarest, Brussel,
+Constantinopel, Helsingfors, Keulen, Kopenhagen, Lissabon. Londen, Luxemburg, Madrid/.München,
+Oslo, Parijs, Praag, Rome, Stockholm, Warschau en Weenen.
+POLISSEN
+aan STAT I O XS en II EI S B V K E A U X direct verkrijgbaar.
+a. &amp;. A. C. VAN RÖSSEM,
+ROTTERDAM,
+N.V.VM.
+HA-KLOOSTERHU1S
+AMSTERDAM
+baar by cU ivorvacwste.
+
+</text>
+<image timestamp="2002:09:04:14:03:27.00" size="109649">000006J9.TIF</image>
+</page>
+</document>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100313</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 13 Maart 1910.
+
+
+Vrij naar Gustave Doré.
+De leeuw oud geworden,
+&gt;Ik kan mij best begrijpen, dat iemand, die de herhaaldelijke
+onjuistheden en de onderlinge tegenspraak (van Dr. Kuyper) ziet,
+met name als het geen geestverwant (van hem) is, zegt: &gt;hij liegt en
+verdraait alles	" "
+Mr, A. de Jong, hoofdredacteur van de anti-revolutionaire
+' Rotterdammer''.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+Dr. A. Kuyper.
+Zeekre leeuw, eens schrik van 't woud,
+Treurde nu, verstramd en oud,
+Dat zijn glorie dus moet tanen;
+Al zijn eigen onderdanen,
+Door zijn zwakte sterk en stout,
+Kwamen om hem aan te randen:
+Eerst een trap der paardenpoot,
+Toen een beet der wolventanden,
+Straks van de os een horenstoot!
+De oude leeuw, van smart aan 't hijgen,
+Brult niet eenmaal maar blijft zwijgen,
+En verwacht getroost den dood.
+Mr. A. de Jong.
+
+
+Maar als de ezel ook durft naadren,
+Kookt hem eensklaps 't bloed in d' aadren.
+Zulk een hoon kan niet verkropt:
+Willig zal ik 't leven derven,"
+Roept hij, maar dat hij mij schopt,
+Dat is meer dan tweemaal sterven!"
+(Vert. /. /. L. ten Kate).
+
+</text>
+<image timestamp="2002:08:22:23:39:23.00" size="165846">00000491.TIF</image>
+</page>
+</document>

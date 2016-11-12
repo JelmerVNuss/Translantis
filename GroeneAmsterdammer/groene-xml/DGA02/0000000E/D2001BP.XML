@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020413</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1294
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLANDS.
+Z. M. de Koning van Portugal en de begrafenis van Rhodes.
+t LJ&gt;T a. A Kc ^ •&gt;! e
+In afwachting der kroning in Spanje. (ritchü.(to).
+DR JAMESOX tot Koning Cirlos: »Hiast u maar niet, M ij natelt, niettegenstaande uw gadienstigheid, staat u heelemiai niet in het testanent."
+
+
+Vredes-verschijnselen. (Ciran d'Aohe in den Figaro).
+
+
+^jf^y /~"
+Hé, hé, kleiiï'je, ik zou tnaar zco'n pret niet maken; 't z:et er
+nog'niet tes' uit in den manetchjn.
+in Zuid-Afrika.
+(Uik).
+Oom Sam, kooper van kleine eilanden.
+7, M. Eilward VII heeft in warme bewoordingen gesproken over:
+de Wwt, Wapenstilstand en Vrede.
+LAATSTI^ F.KK-HT: M&lt;:n rcrneemt, dut met deze namen waarschijnlijk
+renpaarden 1/jdoeUl waren.
+De alliantie van het uiterste Oos'en.
+Da laatste sankojp van let II)'.' r Arn ;ikaansche Rijk.
+l' DiTj-f.iu-; r.E'xiGKi;: sEn nu kur/nen we rustig overgaan tot de verovering van China."
+
+
+</text>
+<image timestamp="2002:08:17:15:48:13.00" size="327329">D2001BP.TIF</image>
+</page>
+</document>

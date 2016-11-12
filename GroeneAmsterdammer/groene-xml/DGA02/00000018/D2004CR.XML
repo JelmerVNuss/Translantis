@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390930</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ONZE NATIE IN DE MOBILISATIE
+•b
+De oorlog duurt nu al vier weken
+Dat het niet meeviel, is gebleken;
+Want minder suiker en mér staal
+Zelfs hier: al is ons land neutraal.
+Dat wordt door iedereen verkondigd
+Al wordt er wel tegen gezondigd,
+Want keer op keer moet men zich wenden
+Tot vliegers, die hun kaart niet kenden.
+Wat 'k liefst te vroeg en niet te laat zie
+Is Nederland's mobilisatie.
+Het gaat in rust en waardigheid
+Al is het heusch geen aardigheid.
+
+Het uniform beheerscht de straten
+Waar je ook komt, 't zijn steeds soldaten.
+Wilt, vrouwen, met uw lof niet schriel zijn;
+Zij zouden liever in civiel zijn.
+Ter afleiding van onze mannen
+Probeert men hen wat te ontspannen.
+Maar elke ontspanning is slechts schijn
+Zoolang d'Ontspanning er niet zal zijn.
+De autos rijden niet meer snel
+En dan nog liever niet dan wel.
+Want de benzine moet gespaard,
+De kracht der wagens wordt: i paard.
+Je ziet ze door de steden loopen
+Op zoek naar kroeg en bioscopen.
+Maar, lezer, 't valt ze heusch niet mee;
+Toe, vraagt soldaten op de thee!
+Heel zwaar hangt thans ook de bewolking
+Voor, wat men noemt: burgerbevolking.
+Een elk loopt met een lang gezicht
+En loert op ieder nieuwsbericht.
+Wijl kunstschatten zijn opgeborgen
+Kijkt men musea zonder zorgen.
+De kinderen loopen pappa na,
+En vragen niet: Wat is dat Pa?"
+Een halve maand eet hij 's Rijks kuch
+Dan mag hij twee dagen weer terug.
+En als hij net is uitgerust
+Wordt hij al weer vaarwel gekust.
+De prijzen van de waren stijgen
+Maar niemand hoeft nog angst te krijgen
+Want 't hoogst van prijs werd in ons land
+Een doodgewone zak met zand.
+Met goeden moed doet elk zijn plicht.
+Na ieder duister komt weer licht.
+Tot zoolang dus (als schrale troost)
+Tekst van Fortuin, plaatjes van Boost.
+PAG. 17 DE GROENE No. 3252
+
+</text>
+<image timestamp="2002:09:13:03:49:09.00" size="133353">D2004CR.TIF</image>
+</page>
+</document>

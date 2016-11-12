@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300531</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ilnvLBIIIIER, HAARLEM
+Filiaal: Krommewaal 22, Amsterdam
+,, Lulkenieuwstraat 29, Groningen
+NEERLANDIA SLANG
+DE SLANG VOOR TUIN ENGARAGE.
+HAAR IHDiE
+ONZE GEÏLLUSTREERDE PRIJSCOURANT
+WORDT GAARNE OP AANVRAAG KOSTELOOS
+TOEGEZONDEN
+ALLE IND. COSTUUMS WORDEN VOLGENS 'T
+JUISTE MODEL DOOR BEKWAME COUPEURS
+OP EIGEN ATELIER VERVAARDIGD
+WITTE COSTUUMS
+vanaf
+WOLLEN
+PALMBEACHCOSTUUMS vanaf . .
+COMPLETE INDISCHE
+UITRUSTINGEN vanaf
+16.50
+29.75
+99.50
+ONZE VERTEGENWOORDIGER IS MET COMPLETE
+COLLECTIE ZONDER EENIGE VERPLICHTING
+DOOR HET GEHEELE LAND TE ONTBIEDEN
+WeiERAHDERSZ».
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+*&gt;&gt;™ 's~Gravenhage &lt;*«*»
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Hofleverancier!
+EERSTE RANGS HOTELS
+(in Alphabetlsche Volgorde),
+LANDGOED BIRKHOVEN
+BIJ AMEK8FOOBT
+
+HOTEL PENSION-RESTAURANT
+100 H.A. BOSCH.
+HOTEL-RESTAÜRAWT NAEFF"
+HET HEERENLOGEMENT
+VELP b ij ARNHEM
+Van af ZATERDAG 24 MEI dagelijks Middag
+
+en Avondconcert door het Orchestre Daved Carels
+DANCING.
+Teleph. 32152 en 32153.
+B. BEIJER.
+Bergen. Pension Het Huis De Haemstede"
+TELEFOON 10.
+Ruim geriefelijk huis. Groote slaapkamers met balcon «o
+stroomend koud en warm water. Centrale Verwarming.
+Heerlijk voorjaarsverblijf.
+EDE (Geld.): HOTEL PENSION BUITENZORG"
+Tel. 4. Auto-Garage. Oravel-tennisbaan.
+J. G. PIETERSE, Cuislnier.
+-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GEBR. RADEMAKER
+OOSTERBEEK.
+HOTEL-CAFÉ-RESTAURANT BEAU SÉJOUR"
+TEIi. 5325?.
+STROOMEND WARM EN KOUD WATER OP ALLE KAMERS.
+HET GEHEELE JAAR GEOPEND. N. STEVENS.
+OOSTERBEEK: PENSION EIKENHORST"
+Tel. 52502. stroomend water. Garage.
+WEEK-END fl. 10.—.
+RUURLO: Hotel 't WAPEN VAN RUURLO met dependances
+Centr. verw. Koud en warm str. water, telef. 3, (dag- en nacht
+
+dienst). Tennisb. Garage. JOH. F. AVENARIUS.
+BEZOEKT HET THEEHUIS SOESTERDAL TE SOESTERBERG
+t.o. het militair vliegkamp, van waaruit U een geheel vrij uitzicht
+op de vliegheide heeft. Passagiersvluchten der K.L.M. 2-6 Juli.
+RESTAURANT a LA CARTE. LUNCH 12—2 UUR.
+Telefoon 31.
+Soesterberg dag en nacht verbinding.—Groot parkeerterrein.
+(Zwitserland),
+PARK HOTEL, het meest moderne Hotel
+in Spiez. Pension van af frs. 12 . Privébad
+frs. 4.—.
+KASTEEL DE CANNENBÜRGH
+VAASSEN (ïolm)
+Tel. Nr. 20
+Oudheidkundig natuurmonument, gelegen in heerlijke omgeving te
+midden van uitgebreide bosschen en vijvers.
+(Niet te verwarren met het Dorpshotel).
+Pensionprijs F 4.—tot F 6.—Kamers per nacht van F 2.50 al.
+Leden van de Ver. tot Behoud van Natuurmonumenten e.d. 5% reductie.
+Uitstekende autobus- en treinverbinding met Apeldoorn.
+Brieven te richten aan: Directie Kasteel de Cannenburgh' '(niet Hotel).
+HOTEL RESTAURANT DE
+WAOENINOSCHE Bi-RQ"tei33.
+Stroomend koud en warm water. Rijn-terras.
+ZEIST
+Hotel Het Wapen van Zeist"
+S T V T f O &gt;T ttl&gt; L K I \ Te lof. 792
+Alle kamers stroompul water. Centrale v; rw.'inniiig.
+Prima keuken. - Oezeilii'e Surrt; en terras. P. BRAM). F.ig.
+
+</text>
+<image timestamp="2002:09:25:17:26:32.00" size="221577">0000099B.TIF</image>
+</page>
+</document>

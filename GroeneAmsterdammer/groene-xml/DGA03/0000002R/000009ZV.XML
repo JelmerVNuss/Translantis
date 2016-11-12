@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320213</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+W.V. Amsterdamsche Garage
+
+V'C-L. DE GROOT
+OVERTOOM 197-2O5 - Tel. 82526 - AMSTERDAM
+Chevrolet - Buick - Oldsmobile
+G.M*C.'Trucks
+Stalling
+l •
+|,
+
+iEngelsch Plated
+(verzilverd)
+Groenteschalen
+
+Saucekommen
+
+Groentelepels
+
+Saucelepels
+
+Soeplepels Tafellepels en Vorken enz.
+
+Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA &amp; RUPP
+CIVIELE EN MILITAIRE KLEERMAKERIJ
+
+DEKKER &amp; DIJKSTRA
+voorheen de erven H. van Dijk
+*•', | Leverancier» van Indische Uitrustingen
+UTRECHT, Nieuwe Gracht 6
+TELEFOON
+OOOR HET GEHEELE LAND TE ONTBIEDEN 13416
+,1
+f:
+i?1
+(MOfCHLIS), De 1001 Dag. Perzische verhalen.
+Noor de eerste uitgave van Pétis de la Croix,
+vertaald door C. F. van der Horst. Deel l—IV,
+8°, 1044 bladz. met illustraties naar Perzische
+miniaturen, inleiding en register; in 4 deelen
+!«§*«. f 11.60, geb. f 15.60.
+
+Toen ik deze boeiende vertellingen had gelezen,
+fob ik mij er over verbaasd, dat er al niet sedert
+lang een Nederlandsche vertaling van bestaat...
+Dit eerste deel was een. openbaring voor me,
+en ik zie vol verwachting uit naar het volgende ...
+Gaarne vestig ik opnieuw de aandacht op
+dezen merkwaardigen verhalenschat. Ook in de
+•', • vertellingen van dit deel kan de beminnaar van
+het ongebreideld-fantastische bekoord onder
+
+duiken ; ze zijn verrassend van vinding en boeiend
+meegedeeld...,
+'i • HERMAN MIDDENDORP in
+De Groene Amsterdammer"
+
+
+Verkrijgbaar bij den Boekhandel.
+
+En UITGEVERIJ C. A. MEES.
+
+= SANTPOORT. =
+BEGRAFENIS OUDERNEMING
+T5VVrr 6.KQMIMG. JRTiLrV,r
+NIEUWE 5PIEGEU5Tr\AAT 61
+BE.CiRAFtMI55E.t1 MAARALLE. PLAATSEN
+CREMATIE.
+KIPS &amp; Co.
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+'s-HERTOG EN BOSCH
+HOTEL GOUDEN LEEUW"
+Electr. Licht
+(G R O E N H U l S)
+
+Centr. Verw. - Stroomend water. P. G. BAARS
+Doom TELEFOON ias Hotel Cecil"
+PENSION-CAFE-RESTAURANT
+Logies Ontbijt f 3.—Pension vanaf f 5.
+Stroomend koud en warm water, met CENTRALE VERWARMING
+op ar.e kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+mlnu^n v^Um56^6 ^""^ c- Lammers van Toorentairg.
+Sea*Horse
+de allerbeste
+Moutwyn Jenever
+M.P.POLLEN £ ZOON ROTTERDAM
+Cigarros Cadena
+IN DE VOORNAAMSTE
+SIGARENWINKELS
+VANRIJN'S
+Hieüwepidiascoop
+van grootere lichtsterkte
+hetgeen vooral van belang
+is bij de projectie van
+ondoorzichtige platen
+BILLIJK IN PRIJS
+VRAAGT OFFERTE
+Demonstratie
+in onze toonzaal.
+AUG. UILKEMA
+Grootste Uurwerk Mag.
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+Amsterdam (C ) • Rotterdam
+Keizersgracht 41 0 • Wijnhaven 100
+TARIEVEN OP AANVRAGE.
+Klokken .... il. 6 lot II. 40O
+Pendules . . . ,, 16 ,, ,, 25O
+Horloges . . ,, 4 ,, ,, 575
+| Portefeuille Horl.7.50,, ,, 40
+Electr. Klok	,, 25
+Wekker best. . fl. 2 tot II. 1O
+Eterna Omega Zenith
+Reguliersbreestraat 39.
+GEBRUIKT
+
+COELINGH'S
+DEVENTER- en
+ONTBIJTKOEK.
+Met de plaatjes voo r
+het PRACHTALBUM :
+
+SPOORWEGWONDER EN
+DER WERELD"
+
+</text>
+<image timestamp="2002:09:26:16:36:04.00" size="183147">000009ZV.TIF</image>
+</page>
+</document>

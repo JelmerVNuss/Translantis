@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>47</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+47
+U moet toch eens proeven... Patria Carltons...
+het nieuwe Engelsche bakwérk... verrukke
+
+lijk van smaak	en zoo licht... heerlijk bij
+de thee... vooral die Corona" of de Butter
+Sprits"... Patria overtrof zichzelf ermee en dat
+wil wat zeggen(!)... wat ruikt dat heerlijk als
+zoo'n blik opengaat... hè, geef eens gauw,
+laat eens proeven.... U moet ze óók eens
+probeeren... vandaag nog... Carltons"... IScent
+per ons; blik no. l f 1.-.
+,*
+V
+H06 STEEDS SLANK
+De ontwerpers der
+NIEUWE MODE
+hebben weinig reke
+
+ning gehouden met
+gezette figuren.
+Daarom is het parool
+slanker te schijnen om
+de mode te kunnen
+volgen.
+Een Ski
+Corselet
+helpt aan
+het
+gewenschte
+silhouet.
+DECOLTE
+5109 BPOCh
+ROS8/ROS8
+
+
+122.SKI CORSELETS voor eik figuur
+f 12 50, f 13.50, f 15.-, f 17.-enz.
+AMSTERDAM:
+£alverstiaat 136, Leidschestiaat 78, Rozengracht 60.
+ROTTERDAM - UTRECHT • NIJMEGEN • HAARLEM
+BREDA - TILBURG.
+MEUBILEEBINEEN
+_BCTinnERINGEN
+_5TDFFEEHINIiEN
+.VEDSIEDIMGCN
+TAPUTEH
+JALDEUS
+DMUMftli
+
+LDV.DDSTERKEK
+FILIALEN
+'HDBBEMAKADE
+_AN5TEQDAM
+5TDELDRAAIED5TR
+.GRONINGEN
+KDRTENIEUW5TR
+.UTRECHT
+JANSSINGEL
+.ARNHEM
+PLANTAGEWEE
+_ ROTTERDAM
+UITGAVEN VAN
+J. B. WOLTERS GRONINGEN, DEN HAAG
+Dr. W. J. AALDERS
+DE GROND
+DER ZEDELIJKHEID
+Prijs, gebonden f 7,50
+MYSTIEK
+HAAR VORMEN,WEZEN,WAARDE
+Prijs, ingen. f 8,50, geb. f 10,00
+Dr. H. J. F. W. B RUG MAN S
+OM HET
+WAARHEIDSPROBLEEM
+Positivistische denkvormen,
+hun zin en hun tekort
+Prijs, gebonden	f 3,50
+Dr. T. S. VAN DER BIJ
+ONTSTAAN EN EERSTE
+ONTWIKKELING VAN
+DEN OORLOG
+Prijs, gebonden f 5,90
+VAN
+K. J. PEN
+KANT NAAR
+HEGEL
+Benige hoofdlijnen in de ont
+
+wikkeling der philosophie
+Prijs, gebonden	f 2,90
+S. VAN WILLIGEN
+ONTWIKKELINGSGANG
+DER MUZIEK VAN DE
+OUDHEID TOT
+ONZEN T IJ D
+Met vele illustraties betreffende de
+ontwikkeling der instrumenten en van
+het notenschrift, benevens noten
+
+voorbeelden
+Met medewerking van SEMDRESDEN
+Prijs, geb. in heel linnen f 12,SO
+in half leer	3e druk f 14,00
+E. J. HUIZENGA—ONNEKES
+GRONINGER
+VOLKSVERHALEN
+bewerkt door K. TER LAAN
+Met foto's van F. G. Knol
+Prijs, gebonden	f 3,99
+K. TER LAAN
+NIEUW
+GRONINGER
+WOORDENBOEK
+Met kaarten en ruim 400 illus
+
+traties van Johan Dijkstra e.a.
+Prijs, gebonden	f 15,00
+W. L. M. E. VAN LEEUWEN
+EPIEK EN LYRIEK
+Met 8 buitentekstplaten
+Bandteek, van Otto van Tussenbroek
+Prijs, ingen. f 3,50, geb. f 3,90
+DE NEDERLANDSCHE
+DICHTKUNST
+SINDS 1880
+Prijs, ing. f 3,50, geb.... f 3,90
+
+NATUUR EN DICHTER
+MET BLOEMLEZING
+Met 8 buitentekstplaten
+Prijs, ing. f 3,90, geb	f 4,50
+WILLEM GEHRELS
+MUZIEK IN
+OPVOEDING EN
+ONDERWIJS
+Een muziekpaedagogische studie
+Prijs, gebonden	f 2,25
+
+</text>
+<image timestamp="2002:09:22:12:15:10.00" size="203546">000008SO.TIF</image>
+</page>
+</document>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020727</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1309
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Na de debatten over de prise d'eau der Amsterdamsche Waterleiding.
+Dankbare vrienden. (Di qua e la).
+SALISBURY : &gt;Waarde Chamberlain, ik b«o je innig
+dankbaar voor het mooie lijnur dat je rry in den laatst en
+tijd hebt laten slaan ..."
+Cn \MBERLAIN: »Ja hebt gp-'y'k, waarde Salisbnry. w\jt
+bet aan onze onbaatzuchtigheid ! Maar de mooiste figuur
+hebben wy toch ons dierbaar vaderland laten slaan..."
+LORELY (*ympathiek): Ich weiss nicht, was soll es bedeuten
+Das ich so tranrig bin;
+Ein Ma'chen aus alten Zsiten
+Das kommt mir nicht aus dem Sinn.
+VADER RHIJN : «Sprookjes? Oude tydan ? Oizin! Die miserabele Amsterdammers zeggen, dat ik besmet ben!"
+De Diplomatie. (Di g»a e la).
+H:t St Marcus-plein te Venetië, met den Dom en de Campanile.
+(Naar eene g-acure van Kuuargue, omstreeks 1S40).
+Zig, de czar bestudeert tegenwoordig de constituties !
+Arme czar l Ah hy by' die afgetrokken studie maar
+gezond blijft... (Fischietto).
+De Engelsch3 schendtong. (Lut'ige B'iiiter).
+Hou ja oogen opfin, ouoj \ de jonge konirg van
+Italiëis riet alleen in lia.-laiid gekomen om een
+luchljs te scheppen.
+Z'io'n oud, vies wijf. z" h^eft geen tar.den meer orn te byten,
+maar schelden kan ze verbazend go;d !
+Engelsche zeden (ZXr F tuit)
+L^rd Siliabuiy gaapt zyn wapenrusting af. (Moonshïne).
+DE BOOKMAKER: »Ik houd 2'/3 : l dat de koning in deze maand nog gezond wordt 2:1 dat hy' van nacht goed slaapt."
+
+</text>
+<image timestamp="2002:08:18:04:43:46.00" size="654979">D2001GM.TIF</image>
+</page>
+</document>

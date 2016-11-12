@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270514</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+roene
+14 Mei 192?
+voor
+Abau*meatipr|i per J»«r ƒ 10.—Per uirawr 25 cent
+* f Mi ft* reg«l.
+KEIZERSGRACHT 333
+
+AM STERDAM
+TELEFOON :
+Redactie . .
+
+AdminlMtatte ( '
+379M
+COËLINGH'S
+il CtiMum f irpikt
+2O CENT.
+CSAURHziL
+HOFLEVERANCIER
+ROK3N 134 over de Ned. Brak
+Telefoon «240. 49971
+Vischrcstaurant
+en Vischhandel
+F. ZUHCHER
+'AGEPABRIBKenDRUKKBRIJ
+CHT64-66-68-70-T2JWSTERDAM
+1INION"
+London, Ap 1714. Verzekering tegen
+«INBRAAK-.
+.WATERLEIDING- EN
+STORMSCHADE
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM LEEUWARDEN
+W CENT PER HALF ONS
+UW* Aieubelmagacijn
+MÖLSTEEG-AMSTERDAM
+BOEKENKASTEN
+KROONPIJPEN
+IN GESLOTEN DOOZEN
+VAN 6 STUKS
+HanoeLsdrukwerk- PeriooselLen «Catalogi
+Drukkerij Plan tij n
+
+Amsterdam
+
+Reclamearuk^erk - Qelaswaaroig Papier
+.„,,, ,"„'.:«*•	l
+ook voor
+
+U!
+Vraagt U even (gratis) onzen
+nieuwen Catalogus No. 41
+aan, van Camera's en
+Poto-benoodigdheden enz.
+Het is de moeite waard!
+
+» CAPI
+-115 Kalverstraat, A'dam.
+t/o LIBERTY
+|¥8IWTieiWI5T|
+ITIMTUR]
+PROF.
+
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOH. H. v. d. MEIDEN - Amersfoort
+\
+N.V.
+H.A.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+~ HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DB PREMIE.
+SPANJAARD &amp; Ca
+FABRIEK ESPANA
+UTRECHT
+muur «igem •atwtipcm «S
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+i
+m
+•
+EUROPEESCHE
+
+Goederen' en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REI&amp;- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+stations der NÊDERLANDSCHE
+SPOORWEGEN, alsmede bij IN
+
+
+FORMATIE-en REISBUREAUX
+
+verkrijgbaar.
+W Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg,
+Madrid, München, Oslo, Parijs. Praag, Rome, Stockholm,
+Warschau en Weenen.
+
+</text>
+<image timestamp="2002:09:25:07:12:51.00" size="180703">D200603.TIF</image>
+</page>
+</document>

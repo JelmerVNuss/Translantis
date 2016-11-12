@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250214</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2488
+MY VALET FROM LONDON"
+WETTIG GEDEPONEERD
+COSTUUM CHEM. REIMGEN en PERSEN	f 2.50
+COSTUUM MODEL PERSEN	1.25
+COSTUUM 1ste KLAS KEEREN	22.50
+DEMI SAISON 1ste KLAS KEEREN	, 16.50
+WINTERJAS 1ste KLAS KEEREN	18.0D
+H
+HOOFDKANTOOR BEURSPASSAGE 14. . AMSTERDAM. TEL. 44915
+FILIAAL WILLEMSPARKWEG 175 ... 20333
+FILIAAL HAVENSIRAAT 57	HILVERSUM 1506
+DEPOT BERQERWEG 5	ALKMAAR
+DEPOT KERKSTRAAT 37	LEERDAM
+SPECIALE STOPPAGE INRICHTING VAN ALLE DAMES- EN H EEREN KLEEDING
+HET PARAPLUIE-MAGAZJJN V4N DE FIRMA
+
+-:- B I E G E L A A R
+-:VEENESTRAAT 31 IS VERPLAATST NAAR
+
+P A P E S TR AAT 18
+DEN HAAG TELEPHOON H. 2502
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+Specialiteit rSLAAPKAMERMEUBELEN, MATRASSEN, DEKENS
+Vraagt onze prijzen van
+luxevracht- en aanhangwagens.
+
+OFFICIAL DEALER:
+
+JAN LIMBACH &amp; Co., HAARLEM
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+fl.—, !L50,
+f 2.00, f2.50, f S.—en.
+
+Franco per post 50 Cents verboogiiig.
+Verweegen &amp; Kok
+AMSTERDAM - DEN HAAG
+DAMESTASSCHEN
+van de eenvoudigste tot de meest
+luxieuse uitvoering
+and
+WHITE&amp;QOLD
+SCOTCH WHISKIES
+Sole aytnf
+450!
+VAN BEUNINCENSTRAAT 5O
+OEN HAAG TEL. 52681
+__ _ i _
+Clictiéc/
+'Voor alle doeleinden
+i NV
+F Oiem. Ku nstin rich ting
+iDirKScftnabel
+AmMerdam.
+REKLAME VERKOOP
+IIIIIIIIIIIIUIIIIIIIIIIIIIIIIIIIIllllllllllllllllllll
+WOLLENVESTEN
+RECHT- EN VESTMODEL
+MET OF ZONDER MOUWEN,
+IN DIVERSE UNIE-KLEUREN,
+FANT. STREPEN EN RUITEN
+10.50 9.50
+8.50 7.50
+6.50 4.50
+32
+
+GERZON
+HERENMODEMAGAZIJN
+KALVERSTRAAT 80-82
+fi. J. DE KONING J Zn. - Keizersgracht 447
+(voorheen LEIDSCHESTRAAT 69)
+SEHKiHG GASFORHUIZEH
+'T BINNENHUIS
+_ _ OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY GLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: P K l N S E N G R A C H T 707A
+POUEN's Oude Cenever
+Fijne Likeuren en Punch
+m. P. POLLEN A ZOOH - Rotterdam
+AMERSFOORT
+Snouckaertlaan 22-24
+TELEFOON 218
+WIJNHANDEL
+TEL. 21367
+Speciale aanbieding
+Org. Chateau Wijnen
+Ch" Palmer . .
+Ch'u Margeaux. .
+Cn" Léovllle . .
+Ch&gt;" Vedrines 1918
+Ch'u Armand Jouan'18
+Ch'u Montrose. . _
+
+Bourgogne Wijnen
+Macon M&amp; B . f 1 50 p fl.
+Beaujolais . 1.65
+Per 12 fl. 5% korting.
+TRUTHINADVERTISING
+IS ONS MOTTO.
+SCHOOLPAKKEN
+model 1925, van Engclsche wollen
+Twecds, coupe en afwerking
+onberispelijk. Kunnen voor dezen
+enorm Ini^en prijs, wanneer uitver
+
+kocht, niet meer worden
+geleverd - Leettijd ca.
+i) tot ui jaar... .
+met 30 et stijl;', per maat •
+.152
+A'DAM
+KONINGSPLEIN
+Illustratiedruk-papiar van de Firma G. G. A. CORVLY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:02:49:40.00" size="133046">000005CI.TIF</image>
+</page>
+</document>

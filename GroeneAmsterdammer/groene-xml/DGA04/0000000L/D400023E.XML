@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151212</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+12 Dec. '15. No. 2007
+Nieuwe boeken van deze week:
+Dr. J. ENDTZ, Het Geestesleven, proeve
+van een verkalring, 26 pag. Schiedam, H.
+A. M. Roelants.
+WILLEM DE MÉRODE, Gestalten en Stem
+
+mingen, 83 pag., f 1.25, geb. f 1.75. Gronin
+
+gen, P. Noordhoff.
+JAAP KUNST, Terschellinger Volksleven,
+Gebruiken, Liederen, Feesten, f 1.90, geb.
+f2.40. Uithuizen, H. M. Fongers.
+JAN WIEGMAN, De Oorlog in Silhouet, f l.
+Amsterdam, S. L. v. Looy.
+T. VAN DEN BLINK, Op Zonnige Wegen,
+(vierde deeltje, tweede druk), f 0.60. Gronin
+
+gen, J. B. Wolters.
+J. M. VAN DEN BROEK en P. J. SCHENK,
+Dierlijke en plantaardige parasieten, 382
+pag., f 1.75. Groningen, J. B. Wolters.
+Inhoud van de December-Tijdschrlften:
+
+Gvoot-Nederland: Helene Swarth, Verzen. Lode
+Baekelmans, Liefde en andere onrustigheid. Edw.
+B. Koster, Gedichten. J. W. F. Werumeus Buning,
+Gelijkenis der Vorsten. J. Dijkstra, Langs de Vaart.
+Diepo Damster, Heilige Stille Zonnedag. Twee
+Herfstliedjes. Oudjaar. L. Goerevitsj, Herinneringen aan
+Tolstoj. J. van Rossem, Verzen. Literatuur.
+Dram. Overzicht. Dram. Bijlage.—Elisabeth Couperus,
+Nacht van Laag en List.
+Vragen van den Dag: E. v. Raalte, Het kabinet ia
+Engeland. P. J. Bolleman van der Veen, Staat het
+instinct als natuurverschijnsel niet hooger dan het
+verstand. J. Rietema, Het land van terpen en pol
+
+ders. Dr. H. Blink, De Rus-ische ostzee-provinciën
+en bun bewoners in het verleden en heden. Otto van
+Tussenbroek, De Larensche schilders in hun omgeving..
+Van maand tot maand.
+De Vrouw en haar Huis: Riet Beijerman, Gedachte.
+G. te Winkel, Middeleeuwsche Kerstliederen. C.M. v.
+Hille-Gaerthé, Onze huiselijke feesten. Tine A., Ma
+
+retak. E. Heijmmans-v. Beek, Kerstmis. H. B. de
+la Faille-Wichers Hoet, Kerstzang. Martine Wittop
+Koning, Ons Kerstmaal. Lucie Kroese, Welk bont zal
+ik drageu? Kerstkleedje. Kinderkraagje.
+Gekleede Toiletten. Kinderkleeding. Elck wat wils.
+De Gids: Mr. C. Th. van Deventer-}-, Indië na den
+Oorlog. Augusta de Witt, Een Javaan. Prof. dr.
+C. Snouck Hurgronje, Van Deveuter's werk voor Indië.
+Mr. P. W. de Koning, Aanroeping. Prof'. J. Vüitheim,
+Hymne aan Demeter. J. E. Jasper, Een handelsschool
+n Indië. J. P. van Rossum, De onvrijheid van de
+open zee. Dr. H. T. Colenbrander, Frankrijk op zijn
+best Dr. J. D. Bierens de Haan, De Toeschouwer.
+H. J. Westerling, Overheidsmaatregelen in zake
+brooden korenprijzen. J. Mathijs Acket, De Leeraar in het
+Nederlandsch. Buitenlandscn Overzicht.
+Bibliographie.
+Nederland: K. G. van Bolhuys, Bart Brouwers' schat.
+A. van der Meer-Brondgf-est, El Dorodo. J. van Melle,
+Naar andere landen. J. Eigenhuis. De Melkmeid.
+J. Breemer, De Onderbaas. Kroniek.
+De Nieuwe Gids: Louis Carbin, Ean gevaarlijk (.')
+Experiment. C», van Hulzen, Aan 'luchtende strand.
+Juc. van Looy, Nieuwe bijlagen. Mr. C. Bakker van
+Busse, De terechtstelling' van Miss Cavell. Maurits
+Wiigenvonrt, De vreemdelingen in het
+Rocoi:ogezelschapsleven te Rome. Frans Erens, Een historisch
+vraagteeken. Cornelis Veth, Kunstnotities. Jules
+Schürmann, Mijmeringen van een mandarijn. G. H.
+Panneïock, Naderende Herfst. Herman Middendorp,
+Allerzielen Jnannes Reddingius, In 't heidekruid.
+Literaire Kroniek. Binnenlandsche Staatk. Kroniek.
+Buitenlandsche Staatk. Kroniek. Bibliographie.
+De Beweging: Alb. Verweij, Voor de Dooden.
+Erans Wervel. Boeken. Menschen en Stroomin
+
+gen. Boekbeoordeelingsn. Izac Prins. De Juden
+en de Oorlog. P. N. van Eijck, Gesprek opdeMonte
+Mario. Karel Wasch. Overgave Jac. Isr de Haan,
+De Roem van Holland. Paul Crunheim, een beznec
+aan Duitschland. De Vries Reylingh, Gedichten.
+Natuur en Vernuft, V en VI: De Inktvisch. Een
+ondergrondsche zoutstad. Scheepsgeschut. Drij
+
+vende dokken. Pleiziertochtjes in de lucht • Ge
+
+balsemd door den Vesuv.us.. Een mniorpomp zonder
+zuiger. Vloedgolven. Vivisectie van Planten.
+Reidingsklokken, de beste mistsignalen. Hetraadsel
+der Pygmeet;n.
+Elaener's Geïllustreerd Maantlschri/l: J. R van
+Stuwe Hzn , Tijl Rinmenschneider. ()tto van Tussen
+
+broek, Verdwijnend Montmartre. Laurens v. d. Waals
+iiiiiiiiiiiiiiiiiiiii
+Na den Regen. Herman Robbers, Klsevier's vijfen
+
+twintig jaar. Karel vau de Woesteyne, De vijf zin
+
+nen. F. I. Steenen, 'n Decennium. J. J.
+Xeldenthuis, In den boomgaard. Aan de Zuiderzee. M.
+H. Werkman, Vroege avonden. Boekbespreking.
+Vragen des Tijds: G. W. Kernkamp, De Europeesche
+Oorlog. Dr. G. Kalir, Uit de geschiede is der
+Xederlandsche Vrouw. Mr. E. van Ketwich Verschuur.
+Nederlandsch Imperialisme. Mr. H. P. Marchaut,
+Staatkundig Overzicht.
+Oude Kunst: Miniaturen I, door Krits I.ugt. Sint
+Nicolaas, door D. van Adrichem, o. f. m. Tentoon
+
+stelling van Buddhistische Kunst in het Kijks
+Ethnograüsch Museum te Leiden: Algemeene inleiding over
+het wezen dezer kunst foor T. B. Roorda. II. De
+beteekenis der tentoongestelde Buddhistische beelden
+en schilderijen, II(schilderijen).doordr M. W,de Visser.
+H t wetsontwerp t'reulj op de k'uren. door A. P. M.
+Moussault. Een teruggevonden schilderij van Hercules
+Seghers, door dr. C. Hofstele dellroot. De stilleven
+
+schilder Abraham (van) Calraat, door dr. A Bredius.
+Ken belangrijke schr&gt; efmedaille. door prof. dr s D. van
+Veen. De klokken luiden I. door ,1. D. van der Yen.
+Uit den uandel. Vraagbaak. Bibliografie.
+IIIMIIII1IIIIIIIIUIIII
+[HOOG FIJNE LIKEUR
+Wacht U voor onedele imitatie of misleidende merken.
+OVERAL VERKRIJGBAAR.
+[Generaal-Agent: J. A. VERBUNT, Tilburg.l
+Keizersgracht 792 b/d. l Ir.slr., Amsterdam.
+
+
+TENTOONSTELLING
+VAN WEEZEN DOOR
+
+GEORGE VAN RAEMDONCK,
+(OOKLOGSTEEKEN1NGEN)
+
+DIRK ROGGEVEEN,
+
+JAN WlTTENBERG.
+GEOPEND GEDURENDE DECEMBICR
+DAGELIJKS 10-5, ZONDAGS 2-5 UUR.
+BEZICHTIGING VRIJ.
+AMSTERDAM.
+MAGAZIJN VAN
+
+Echte Bronzen Pendule-Garnituren
+in alle stijlen.
+Verlichtings-artikelen v. gas en elec. licht.
+Hooftertegenwooriligers m let ORFE7RERIE CHRlSTOFLE.
+VEERHOFF&amp;Co. 42 Kalverstraat.
+•wwwwwwwwfwwwffw
+Perry&amp;C0
+Kerst- en
+Mieuwjaars-Cadeaux
+GOEDKOOPE
+oor H,H, postzegel-verzamelaars,
+
+Oorhi's f ostzjgels, allen ersdiirende.
+20 stuks f 1.—, 50 f 2.50, 75 f 10.—,
+100 f 15.—, 125 f20.-, 150 f 45.—,
+diverse pakketten der geheele
+wereld, 100 allen verschillende
+f 0.50, 200 f 0.75, 500 f2.—, 1000
+f7.—, 2000 f20.-, 3000 f50.-.
+Spanje 50 stuks verschillende 85 ets.
+Venezuela 75 stuks f2.25.
+SCHAUBECK'S Postzegelalbums
+van 1915 f 6.—, alsook
+SCHWANENBERGER'Sinalle prijzen voorhanden
+van af 25 et. tot f 100.—en hooger.
+
+
+ROOTLIEBKo.
+
+ROKIN 42, AMSTERDAM.
+INTERC. TEL. 3273 N.
+Apparaten en Onder
+
+deden. - Sounderlessen
+FERWERDA A TIEOTAN
+
+U U !¥ II A N l) K l, A K K N.
+
+Hoofdkantoor: DA COSTAKADB 102, AMSTERDAM.
+
+Aanbevolen Merken.
+IMMimilllltlllMMMHIIIIIIIIIimillllllllllllMmillllllMttimilllllimiMMMIIItlM Mlllltlllllli: III H l lllll 1111 lllll l II11111IMH 1111 M IIIIHI111IMII11111 (l Ullll 111111 IMMIIJ_
+
+i Ori Koode Bordeaux Wjjnen I f Macon- en Bourgogne Wijnen |
+Per flesch = per flesch
+Palus de Medoc. . . / 0.69 f E Macon	/ 0.84 i
+St. Estèphe Medoc. . 0.74 E Petit Bourgogne	1.24
+St. Julien Medoc . . 0.79 i Pommard	1-34 E
+La Rose Ludon . . . 0.89 E E Volnay	, 1.64
+Cru Balardin . . . . 0.89 i l
+Medoc Supérieur . . 0.94 i = Rijnwijnen
+Dulamon Blanquefort. 0.99 E E J §
+St. Seurin de Cadourne 1.04== Wachenheimer	/'0.84 E
+St. Ernilion . . . . 1.09 E Niersteiner	0.94
+E = Hochheimer	1-04 E
+^;^ J, CHATEAU MALLEKETËMarcobrunner	1.14
+per flesch ƒ 0.94 E Rauenthaler	1.24 =
+per anker (45fl.) slechts/'38.- | f Rüdesheimer	1.34 j
+
+Witte Bordeauxwijnen l j Moezelwtfnen |
+Graves blanc. . . . f 0.89 \ l Zeltinger	/ 0.94 |
+Loupiac	1.09 Brauneberger	1.14 E
+Haut Sauternes	1.54 = = Moselblümchen	1.64
+H	n	imi	in	in	n	in	nu	'~ M	mi	IIIIIIIIMII	i	i	i	IIMIII	i	il
+iMiMnimiiiniimiiiHiiiiiiiiiimiiiMiiutmiiiMiiiiiMiimmmn mHiiiiimiiiimiiiiiimiiH uiiiiiiiiiiiMiiiiiiiiMniiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiitiiniiiiiin
+
+11 Sherry |
+| | per flesch
+Fine Old Pale	f 1.14 =
+dito 1.39 i
+dito 1.84
+E dito , 2.04 E
+i Fine Old Gold	1.04
+"I ,- U4I
+1-39
+i Koode Portwgnen l
+= per flesch |
+i Oude Tarragona Port . . f 1.04 i |
+Oude Roode Portwijn . . 1.24Ë=
+| dito 1.39f E
+= Extra Oude Roode Portwijn. 1.64=
+= dito 2.041 |
+
+Witte Portwö'nen i |
+i per flesch §
+I Oude Witte Portwijn. . . /' 1.24 l
+= dito 1.541 E
+i Extra Oude Witte Portwijn 2.04 l =
+= dito . 2.54 i |
+
+l WITTE SAMOS (Orieksche Wijn) j f
+| Zeer aanbevolen bij visch !
+f 0.84 en /' 1.04 per flesch l E!
+i l
+Madeira
+Extra Oude ' E ^
+WITTE PORTWUN. | f per flesch
+I Goede Madeira	f'1.04 i
+E Fine Madeira	1.24
+'&amp;" \ | Superior	1.64 |
+
+l Spaansche Wjjn l
+E E per flesch i
+l Spaansche Wijn	ƒ1.241
+E E Pedro Ximenes	, 1.64
+E Oude Malaga	1.54 =
+••
+
+i
+niMHIIIIIIIIMIIIIHIIlnlIIIIIIIHIIMIIMIIIIIIIMIIIIIIMIIIIIIIIIIMIlT M Illlll 111111 HM Illlllltl II MM Tl l IMIMln 11II MUI II11IMMMII l MMMMHII l IMMH 111 MIIMI11IMMIII l iT
+IMIKflIIIMIIIIIIIHIIIIIfltllllIJtlMNIIIIIIMIIIIIIJIIMIIIIIIIMIIIMIIIIIIIIIJMIIIIIIIn IIMIIIIIKlItlMtllllllllMlllf III lllllf flIllllllMftllKlllllllllltlMIIIIIIIIf IIIIIIJ1I1MIII
+
+l Punch Siropen l \ Cognac
+E Per flesch E Cognac Vieux Per flesch
+Prima Rum Punch	f 1.58 ƒ 1.45, f 1.60, f 1.75 en ƒ 1.90
+E Prima Citroen Punch	1.68 E | Cognac Royal 1.95 245
+Oude Jamaica Rum	158 Fine Champagne f 2.25,, ƒ2.70
+l Ie kwaliteit. 2.13 = Wliislrv
+= Prima Arak Punch	1.68 E = WniSJty
+l Oude Batavia Arak	1.78 !!_..„... . ..... P.cr ]le„s^
+E E Old Highland Whisky f 2.10
+i Bisschop Essence \ Hai§ &amp; Ha'g.-Special" 2.35
+l r E E Dewar's Special . 2.?0
+E Prima Bisschop Essence f 0.70 en / 0.30 | E Lorne Highland Wisky 2.50
+E per flacon. = l rjewar&gt;s white Label 2.55
+= (Gebruiksaanwijzing op het etiket). 1=
+
+l De eenvoudigste bereiding van warmen | I -.t,
+= Bisschopwijn geschiedt met onze welbe- E E JKLUirt S
+kende Essence. l Per flesch
+Wij bevelen voor het bereiden van = E Perfection" . . . . / 2.
+- warme Bisschopwijn speciaal aan de House of Lords". . 2.20
+l merken: i White &lt;S Gold" . . 2.50
+E Palus de Medoc .... per fl. ƒ0.69 = ^ Milord's Special
+en St. Estèphe Medoc. . . 0.74 | Liqueur" 2.85
+MMIIIIH	IIIIIMMMIIIMI	II	ltHIHIIIMMMIIIII.mil	IllliïMIMI	MIMI	IIMIII 111 IIMIII 111 MIIMI l MIIMI	l	l	MIMI
+IIMMnlMII	MIMI	III	l	II	IIHIMIM	M	Illlll	UMI	MMIMMIMIM	HIMMHMtM	11111111111111III l M l M
+E liy iirdcrit viin minsUus 12 fl. H(JD (welke niet van eenzelfde merk behoeven te zjjn) verleenen wg
+= 5 pCt. korting, mit»de betaling a contant gescliiedt. E
+E De korting i&lt; niet»an toepassing op Champagne of op het merk Chat. Malleret en evenmin op gedistilleerd. =
+fmiiiinimiHi	m	MM	m	MIMI	MUI	IMIMMMI	MM	IMMIII	IIIIIIM	MMMMMMII	IIMIII	i	MIMI	M
+GEBR. B. H. 6 H. KOOLHAAS
+Makelaars en Aannemers
+ELANDSGRACHT 14 :: TEL. N. 7800
+Agenten der Centrale Hypotheekbank te Den Haag
+
+Bijkantoor van de Mij. van Brandverzekering voor
+het Koninkrijk der Nederlanden te 's-Hertogenbosch.
+
+BOUW-CREDIETEN
+Bestel Uw Jacht bij de
+
+N.V. HAARLEMSCHE JACHTWERF
+Dlr. H. W. DE VOOGT.
+]Vooi*d.er Ssipaarrie, Haarlem.
+KUNDIGSTE EN MODERNSTE UITVOERING.
+U spaart Gelden Tijd
+
+
+indien ge uitsluitend
+uw Costuum, Demi*
+* sa/'s on of Winterjas
+chemisch laat reini
+
+gen, persen, koeren
+of veranderen door
+
+MY VALET
+
+FROM LOHDON"
+(wettig gedeponeerd)
+
+waaralle werkzaam
+
+heden door Speciaal
+P{e klas werklieden
+worden uitgevoerd
+
+
+wén gevestigd: Beurspassage 14. Te/49Hj°5ord
+
+Geen Filialen. Opgericht 1903. Prospectus gratis.
+l^" Opzetten van Fluweelen Kragen, onder garantie.
+DRAADLOOZE TELEGRAFIE
+
+(Examen voor Leerling-Telegrafist bij de S. A. l.T.)
+SINDS l JANUARI 1914 ZIJN VAN ONZE F. B N K JJ
+J»K KT l (i &lt;31) CANDIDATEN DKRT1« &lt;3Oi
+GESLAAGD, TERWIJL l HEREXAMEN NOG MOET
+PLAATS VINDEN. OMTRENT TOELATING TOT ONZE
+SCHOOL, LEERJAAR 1915-1916 RAADPLEGE MEN
+ONS PROSPECTUS R. _ _ _ _
+AANVANG V/D NIEUWE CURSUS BEGIN SEPTEMBER
+THE ROTTERDAM WIRELESS
+TRAINING COLLEGE
+GEBOUW PLAN C, INGANG GELDERSCHESTRAAT 10. '
+D. OBERINK &amp; Co.. AMSTERDAM
+PRINSENGRACHT 456 •/&lt; LSOSCHESTWUCT
+TELEFOON NOORD 1452
+TOKPASSIMGDERELECTR1CITEITOP ELK GEBIED
+6IDDING&amp;ZONEN
+: 5CHILDER6 !
+ATELIERS • VOOR '
+DEC-SCHILDERWERK
+ONTWERPEN-VOOR |
+KUNSTNUyERM El D
+
+OUDEKUNST- HANDEL
+
+ROTTERDAM *
+AERT VAN NESSTR.13O '
+Hl- KliNVriNHICHTlNC.
+% DIRK SCHNABEL
+CLICHÉ'S
+VOOK /WAR'
+ONS NIKUW PROCÉDÉIS
+
+KOPERDIEPDRUK
+(,I.M HIK l VlH&gt;U hl.K PAHltK
+DE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts ƒ 1.65 per kwartaal.
+RELIEFSTEMPEL - ATELIER
+Invitatickaarten
+MENU'S, BALBOEKJES, enz.
+Atelier B. van Mantgem
+'SINGEL 662 hoek Viizelslr.
+deUi\iversede
+
+</text>
+<image timestamp="2002:08:22:01:12:17.00" size="363099">D400023E.TIF</image>
+</page>
+</document>

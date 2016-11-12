@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320806</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+van de 00 leerlingen van de
+
+huishoudschool konden Blue Band
+
+niet van natuurboter onderscheiden
+Wij noodigen iedereen gaarne uit
+de Blue Band fabrieken te komen
+bezichtigen. Ge kunt U dan zelf
+overtuigen van het ongeëvenaarde
+karnproces, van de uiterste reinheid
+bij de bereiding, van de wijze hoe
+de allerbeste grondstoffen met 25°/o
+allerf ijnste Roomboter onder Rijkscon
+
+trole tot Blue Band worden verwerkt.
+Koopt Hollands beste Standaardmerk.
+VERSCH GEKARND
+BLUE BAND
+Nog altijd £ücent per half ponds-pakje
+BB 55-018 H
+Abonneert U op:
+
+De Groene Amsterdammer1
+UUR ZWITSERLAND
+
+Inlichtingen en prospectussen van onder
+
+staande plaatsen en hotels bij alle
+reisbureaux gratis verkrijgbaar
+en bij de Zwitsersche Verkeerscentrale,
+Joh. Verhulststraat 147, AMSTERDAM
+
+""BERNER
+
+OBERLAND
+(ZWITSERLAND)
+1356 M. BOVEN ZEE
+Ideale, hoog in de Atpen gelegen badplaats en sportterrein.
+NIEUW ZWEM- EN ZONNEBAD, RUST—GENE
+
+ZING TALRIJKE WANDELWEGEN.
+Prospectussen en hotellijst bij alle Verkeersbureaux.
+\ ,-_ • _
+AROSA. SPORT-HOTEL VALSANA"
+Het beste Hotel voor U. Modern comf., Ie kl. leiding.
+Matige prijzen. H. C. ARNI, Dir.
+
+
+BAZEL. HOTEL CONTINENTAL.
+Tegenover Centraal Station. Modern comf. Matige prijzen.
+
+
+
+BEATENBERG.
+
+HET iiintiniaus ui HEI mm OBERLAND
+1200 M. b. Zee
+Gelll. prosp. bij de Reisbureaux gratis verkrijgbaar.
+HOTEL VICTORIA aan het Meer
+
+T TT/^ A IVO Rustig gelegen met vrij uitzicht op het
+•*-"-'"•£»• i™ v/ meer. Nabij bad aan meeroever.
+Zuid-Zwitserland Modern comfort. Pension inclusief
+kamer van frs. 12.—af. Prospectus.
+Eigenaar C. Jannet—Tanner.
+BEZOEKT HET
+MET ZIJNE '
+
+ROTSEN, GLETSCHERS,
+
+RAVIJNEN EN WATERVALLEN.
+ALOM BEKENDE ZOMERVERBLIJFPLAATSEN
+IN HET GEBERGTE. ALSMEDE AAN HET
+
+THUNER- EN BRIENZERMEER
+
+BERGSPORT - TENNIS - GOLF - WATERSPORT
+HOTELGIDSEN, PROSPECTUS ALSMEDE ALLE
+INLICHTINGEN WORDEN VERSTREKT DOOR
+DEN VERKEHRSVEREIN DES BERNER
+OBERLANDS". INTERLAKEN. ALSMEDE DOOR DE
+PLAATSELIJKE VERKEERSBUREAUX.
+
+
+
+BRUNNEN
+
+
+HOTEL WALDSTATTERHOF
+220 bedden. Pension vanaf frs. 13.50.
+
+
+INTERLAKEN
+BEAU RIVAGE GRAND HOTEL, in alle opz. Ie k).
+Fam.-hotel, meest mod. comf. Gr. tuin. gar. pens.
+v.a. frs. 16. Uitst. keuken.
+ALB. DOEPFNER, eig. en leider.
+
+PALACE HOTEL
+Modern Familie Hotel, prachtig en
+rustig gelegen aan het meer. Modern
+comfort. 250 Kamers met
+ineenloopende badkamer of str. koud en
+warm water. Chique Restaurant.
+American Bar. Orkest. Auto Garage
+
+
+CELERINA bij ST. MOR1TZ, 1750 Meter.
+
+HOTEL CRESTA PALACE
+
+Engadin.
+Pension vanaf Zw. Frs. 18.—.
+
+</text>
+<image timestamp="2002:09:21:13:06:03.00" size="167048">D20056Z.TIF</image>
+</page>
+</document>

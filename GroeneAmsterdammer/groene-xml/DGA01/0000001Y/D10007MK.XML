@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260529</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\
+CSAURHzn.
+
+HOFLEVERANCIER
+
+ROKIN 134 over de Ned. Bank
+
+Telefoon 40240, 49971
+Vischrestaurant
+
+en Vischhandel
+K ZURCHER
+CA&amp;TQNNAGEFABRIEKenDRUKKERIJ
+
+WOIERSGRACHT64~66~68~70~72,AMSTERDAM
+ARNHEM (Groote Markt)
+
+
+HOTEL DES PAYS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+J
+A. D. BEERENDS &amp; VEEREN
+
+BRAND-, DIEFSTAL-, STORM-,
+
+WATERLEIDINGSCHADE ENZ.
+
+IDEALE
+
+INBOEDEL
+
+OPSTALPOLIS
+ijaarpr. Inboedels . . . 2.50 O J 00
+
+Opstallen (woonh.) . . 1.25 0/00
+
+AMSTERDAM ~ LEEUWARDEN
+30 CENT PER HALF ONS
+KT.V. Meutelmagazijn EDEN"
+
+';'.V MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+IS.V.
+- GOUDA
+, "":	Restaurant HOEK
+
+Amsterdam: S^UIP23
+•••—'«"	* Oesters - Kreeft - Caviar
+PROJECTIE-LANTAARNS
+
+EK BIOSCOPEN
+
+
+
+CAPI
+
+
+AMSTERDAM DEN HAAG
+115 KALVERSTR. I2« NCXDRDEINDE
+
+NIJMEGEN GRONINGEN
+l3^V.BERCHENSr&amp; 3 KL
+PELSTERSTRt/o LIBERTY
+DE BESTE EN GOEDKOOPSTE
+
+OVERAL VEPKRYGBAAH
+
+ADRES Vo MANDEL
+
+JOH.M.VAN OER MEIOEN.
+
+AMERSFOORT fr
+ITIMTUR]
+IKENDERI
+ISCHOEHEHI
+InKSB^IBHIBlHHBI^HB^BI
+N.V.7«
+
+HA-KLOOSTERHUIS
+
+AMSTERDAM
+SNELBLUSSCHER
+
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amfeterdam
+SUPERB
+
+CIGARETTES
+173.NEWBOND STREET,
+
+LONDON.W1.
+TO
+ijs
+
+
+BOEWU5TER5.
+MEEST GESCHIKTE BlttDERIJ VOOR H'H'UITGEVERS
+STVILUBRORDUSSTRAAT S3-55ADAM TELa.'«^6
+'t weekblad wordt gedrukt op papier van de Trapeha, papiergroothandel ~ Amsterdam
+
+</text>
+<image timestamp="2002:09:25:16:37:28.00" size="166922">D10007MK.TIF</image>
+</page>
+</document>

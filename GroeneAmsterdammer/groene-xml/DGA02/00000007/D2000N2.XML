@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000930</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+1214
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Minister de Beaufort's aanbod aan Krüger,
+LI-HUNG-CHANG (tot Waldersee): »TT komt wel een beetje laat, beste
+graaf maar 't doet me toch pleizier dat u komt een heel eind
+van hui?, hè!" (Kikeriki, Weenen).
+
+Oorlogsberichten. (Life N. Y.).
+JOHN BULL: «Hallo ncle Sam, hoe zie ik er uit?"
+UNCLE SAM: »Als een geest!"
+JOHN BULL : »Jij ook!1'
+UNCLE SAII : »Best mogelyk, maar ik trek geen attentie door eens
+andermans diamanten te dragen."
+
+Na de lunch. (Moonshine).
+MINISTER DB BEAUFORT : »Nu heb ik m\jn jasje omgekeerd, doe jullie me dat eens na !
+
+
+Het Peking-concert. (Fan).
+De tegenwoordige theorie van de open deur.
+(Juyend).
+'' "* (Admiraal Seymonr'x lof-telegram over de Fransche Marine is in
+5j** Frankrijk met gtettdrift ontvangen).
+ADMIKA.U. SEYMOIR: «Men mag zeggen wat men wil, maar ik weet
+i_" zeker dat ze dol op elkaar zyn!"
+
+Europa en Japan. (NovoiéVremia, St. Petersburg).
+RCSLANII : »\Vel bedankt vrienden voor de bewezen diensten, nu kan
+ik 't verder alleen wel af." Hoe Rusland Japan bekijkt
+
+Uit Zuid-Afrika. (Der l'lok).
+(XoroiéVremia, St. Petersburg).
+•&gt;-,
+De keizer van Duitschland heeft beslolen bet deuntje «Prestige
+is 50 pCt. van de macht", verder te spelen.
+r/*^ •
+* ~ v^iA ^/f/ïi
+» •"^ ;:• l:li../.v.-.'-/; •••l	&lt;^_	"ZS/U i\
+^^fi^-^f
+^ vg-y
+E.M.EI.SOII OFFICIKR: -.T'w zuigeling is or.s als samenzweerder
+aangegeven. Hier ! met zijn luiers, we moeten onderzoeken
+of hij daar ook geheim schrift in heeft."
+Een mesalliance.
+Een jongen die zijn wieg uitgroeit! Bij de Chineesche muur. (Wiener Iliimoriït).
+Geen Engelsen, werkvolk ncodig. (Mornimj Leader).
+GENERAAL BOEJI—WALDERSEE : »Da vyand ! Waar is de vijand !"
+LI-HUNG-CHAKG: »In de restauratie generaal, h\j drinkt een
+potje bier met de geallieerden ..."
+(Humoristische Bldtter, Berlin).
+EXCIEI.SCII .MijN\vKr,Ki'.K : &gt;Zeg eens baas, vechten wij daarvoor?"
+CKCII. RHODES : »Wat jij doet raakt my niet, ik weet alleen wat
+ik doe !"
+DE VEHEENKIDEX : »IIola ! waar ga jelui heen ? 't Werk is nog
+lang niet gedaan."
+DB Rus: »Beste vrienden, de Japanees en ik nemen voorlief met't
+weinige wat we eruit gekrabbeld hebben. Werk jullie maar rustig door."
+
+</text>
+<image timestamp="2002:08:15:02:56:05.00" size="426436">D2000N2.TIF</image>
+</page>
+</document>

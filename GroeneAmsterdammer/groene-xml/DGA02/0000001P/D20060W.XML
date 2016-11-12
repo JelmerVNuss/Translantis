@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270521</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Iroene
+cckbl
+
+voor_ ammer
+Nederland
+Uprif* per jwr { W.—Per nummer 25 cent
+
+JLdvertevtlta ƒ«-» pee «egel
+KEIZERSGRACHT 333
+
+AMSTERD A M
+TELEFOON :
+4«ê} ••..•••
+S196t
+VRAAGT
+VAN
+BÜSTEIÏELK
+ADVOCAAT
+iVAN BIJSTERVELD
+AMSTERDAM;
+v x x P o R T
+Indien gij er prijs op stelt, een mooi
+en gaaf gebit te behouden, verzorgt
+dan steeds Uw tanden met het be
+
+trouwbare Nederlandsche Fabrikaat
+
+POOL'S
+ATOL
+Prlssche pepermuntsmaak
+foed en toch zér goedkoop,
+A. F. ZURCHER
+GAKTONNAGEFABRIEKenDRUKKBR!)
+LOOIBRSGRACHT64-66-66-70-T2AMSTERDAM
+STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER JU EER HET
+TE LAAT IS!
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN.
+JÏ. V. ,JMLeuDelm«5*ztjn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+CLASIE, CASPERS 6 Co.
+Behanger^ - Ameublementen - Stoffeerder^)
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+Td. 42940 GEBR» FORMA Ufrechfschestr. 85
+
+WONINGINRICHTING
+Bijzondere aanbieding pluchette zware qualltelt
+voor overgordijnen in goud- en toopkleur,
+127 c.M. breed f 2.85 per M., franco huis.
+Belangrijk
+ook Voor
+
+U!
+Vraagt ~O even (gratis) onzen
+nieuwen Catalogus No. 41
+aan, van Camera's en
+Foto-benoodigdheden enz.
+Het is_de moeite waard l
+
+- C A PI
+-115 JCalverstraat, A'dam.
+MAAR
+
+KARELI
+1781 "«ar- 1927
+
+Henorik vruimel
+Wijntandelaar Amsterdam
+ig opvolger T&amp;
+i&gt;ennin£k&amp;' Kntimei
+Kantoor: Keizersgracht 325
+
+Telefoon 40647
+NV
+HA.KLO05TERrfUI5
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DB EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DB PRBMIB.
+SPANJAARD &amp; Co.
+FABRIEK ESPANA
+UTRECHT
+Meubele* M*r etg*» •atwerpo «f
+
+ARNOLD HOÜTSCHILT
+
+Singel 285 Amsterdam
+DC BESTE ENGOEDROOMTI
+OVERAL
+AORCS &lt;/r&gt; HANDEL
+JOM.M.VAN OER MEIOEN.
+AMERSFOORT
+GA5FDRNUIZEN EN COMFOREN
+OVERTREFFEN ANDERE EN...
+....	ZÜN GOEDKOOP.
+Let op onze Spaarbranders
+van MASSIEF KOPÈiPïnet
+automatische lucntregeling
+Gasfornulzen vanat i 62.»
+|TIMTÜR|
+Abonneert LI op i M ^ ^ ** *•
+
+De Groene Amsterdammer
+
+</text>
+<image timestamp="2002:09:25:07:55:17.00" size="168329">D20060W.TIF</image>
+</page>
+</document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18880729</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland
+van 29 Juli
+1888ia
+j&amp;ux b&amp; ptwca. . . .
+•.IH.IÜ^ l, .!•	«W
+
+J
+EK. -Nu, jongens, wai zeg-je van mijn sol^uatjes? Zijn ze
+njtt mooi? Uier heb je elk een doosje, dan rnag-jeook meespelen.
+WILHELM. Dank-je wel l Jk hoop dat je nu ook eens bij ons komt.
+Ik heb ook prachtige soldaatjes, haast nog mooier.
+Eilerman, Harms &amp; Co. Amsterdam.
+UF.INRICH. ITe ja! En breng &lt;!an ook je scheepjes mede.
+
+</text>
+<image timestamp="2002:08:20:14:45:45.00" size="439160">D10001ZC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170728</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+28 Juli '17. No. 2092
+De geboorteplaats van Dodonaeus
+door Dr. F. W. T. HUNGER
+In het Tijdschrift voor Geneeskunde van
+7 Juli j.l. wordt op blz. 114 gewezen op de
+volgende tegenstrijdige beweringen omtrent
+de geboorteplaats van DODONAEUS.
+Dr. F. W. T. Hanger schreef in De
+Amsterdammer van 30 Juni 1917, blz. 10:
+Waar Rembertus geboren werd, is nog steeds
+niet met zekerheid uitgemaakt...; Prof.
+E. C. van Lee r* u m schreef in dit Tijd
+
+schrift, 30 Juni 1917, blz. 2109 .•„... en het
+is in deze oude Vlaamsche stad (Mechelen),
+dat Rembert het levenslicht heeft aan
+
+schouwd".
+De vraag werd nu gesteld, welke opvat
+
+ting de juiste is ? en naar aanleiding daarvan
+wil ik ter zelfder plaatse mijn bewering
+nader toelichten. Wegens de plaatsruimte
+moet ik mij beperken tot hoofdpunten.
+DODONAEUS' beste biograaf VAN
+MEERBEECK is destijds in zijn monographie 1)
+tot de slotsom gekomen, dat onze beroemde
+kruidkundige te Mechelen zou zijn geboren.
+Hij grondde die conclusie op de volgende
+drie feiten:
+1. Le témoignagedeDodoens lui-même,
+qui dans Ie titre du premier et du dernier
+des ouvrages qu'il publia, fit suivre son nom
+dt la qualification de: Malinois.
+2. La déclaration de son flls, qui ajouta
+ce même mot au nom de son père, dans V
+pitaphe du monument funèbre qu' il lui fit
+riger dans l'église de Sr. Pierre a Leyden.
+3. L'opinion des auteurs contemporains
+de Dodoens: Suffridus Petrus,
+Schenkius, Meursius, Egbertz,
+CastellanusetMelchiorAdam,qui
+publièrent leurs ouvrages de 1598 a 1620
+(par conséquent peu d'années après la mort
+de notre auteur), et qui tous s'accordent a
+dire, qu' il naquit a Malines.
+Deze drie bewijzen van v. MEERBEECK zijn
+toen als afdoende erkend en sindsdien (1841)
+stond Mechelen als DODONAEUS' geboorte
+
+stad geboekt.
+Totdat in 1863 een ontdekking plaats had,
+waardoor genoemde kwestie opnieuw twijfel
+
+achtig kwam te staan. In dat jaar heeft
+n.l. de heer PROSPER CUYPERS VAN
+VELTHOVEN in de Rijksarchieven te Brussel het
+oorspronkelijke inschrijvings-reglster van de
+leerlingen der Leuvensche hoogeschool,
+loopende van de jaren 1529—1569doorgesnuffeld
+en daarin op den 9den Augustus 1531 de
+volgende inscriptie aangetroffen:
+
+Rembertus Do do nis,
+de Lewardia, filius Dionysli.
+Cornelius A Iman,
+de Mechlinia, filias Henriet.
+Pro istls duobus minoribusjuravit magister
+Lucas Neyt. 2)
+
+Dat wil dus zeggen, dat de 14 jarige
+DODOENS bij zijn opname als leerling der
+Alma Mater te Leuven, zelf verklaard heeft
+herkomstig te zijn uit Leeuwarden.
+De Bibliotheca Belgica vindt deze ver
+
+klaring meer afdoende dan de bewijzen door
+VAN MEERBEECK aangevoerd en schrijft dien
+
+aangaande het volgende:
+La Ir e de ces preuves, celle que Do
+
+doens lui-même se dit malinois", est tres
+faible parce que dans ces sortes de
+dósigrfations tous les auteurs ne suivent pas la
+même régie. Si les uns citent Ie lieu oülis
+sont nes, d'autres rappellent celui de leur
+origine, ou celui qu' ils habitent. Bon nombre
+d'auteurs enfin, nes dans un village situéa
+proximitéd'une ville, preferent citer Ie nom
+de cette ville, plutot que de rappeler Ie nom
+du village qui les vit naitre.
+1) Recherches hist. et crit. sur la vie de
+REMBERT DODOENS, 1841.
+2) Messager des sciences historiques, 1863,
+pag. 454.
+TECHNISCHE R.UBRIE
+Het fotografeeren van kogels
+in hun vaart
+
+Voor het verbeteren van kanonnen en
+geweeren is het van groot belang om het ge
+
+drag te kennen van een afgeschoten kogel
+tijdens de vaart. Het ligt voor de hand om
+dit na te gaan door den kogel te fotogra
+
+feeren, al toont een eenvoudige berekening
+aan, dat dit niet gemakkelijk te doen is.
+Willen we b.v. een opname nemen in het
+Fig. 1. Projectiel afgeschoten uit mortier.
+l, Snelheid 380 M. per sec. Van boven en
+• onder is het beeld niet scherp wegens
+de verplaatsing tijdens de opname
+Om deze laatste bewering te staven wor
+
+den verscheidene voorbeelden aangehaald,
+o.a. wordt in herinnering gebracht, dat P. P.
+RUBENS en zijn broeder Philip zich
+Antverpiensis" noemen, ofschoon ze toevallig
+te Siegen in Westphalen ter wereld kwamen.
+De Bibl. Belg. schrijft nog: Peut-eire
+DODOENS est-ll néa Leeuwarden quelques
+semaines ou quelques jours seulement avant
+Ie dèpart de ses parents pour Malines." Daar
+
+tegenover zou ik met een speciaal oogmerk,
+dat hier niet nader kan worden ontwik
+
+keld, de veronderstelling willen maken,
+dat zijn eventueele geboorte te Leeuwarden
+zou hebben plaats gehad, gedurende een
+tijdelijk verblijf zijner ouders van uit Mechelen
+aan Friesland.
+
+Verder lezen wij in de Bibl. Belg. Les 2e et
+3e preuves de van Meerbeeck, celles tirées
+de Cépitaphe de Dodoens et des crits de ses
+premiers biographes, ne sont pas plus d
+cisives: on se sera probablement bornéa
+reproduire la qualification que Dodoens
+s'étalt donnélui-même sur les titres de
+quelques-uns de ses ouvrages. En revanche la
+déclaration de Louvain nous parait tre bien
+plus concluante; car l o, elle dolt avoir t
+faite par Dodoens personnellement, et a
+un age qui ne permet pas de supposer chez
+M quelque préférence pour l'une ou l'autre
+des deux villes; 20, elle s'est produite pro
+
+bablement en présence de quelque témoin, ne
+füt-ce que Ie maitre LUC. Neyt, qui lui
+servit de parrain, et qui devait connaitre la
+familie de Dodoens. Le même jour LUC.
+Neyt présente un autre lève quisedéclare
+natif de Malines. Il nous semble que la
+distinction que Dodoens fatsait en ce moment
+solennel entre la ville oüil tait néet celle
+qu' il habitait, doit tre admise comme
+l'expression de la vérité.
+Ajoutons qu'en 1548, date de la
+publication de son premier ouvrage
+(Cosmographica in astronomiam et geographiam
+isagoge), dans leqml il se dit malinois, la
+situation n'était plus la même. Il avait alors trente
+ans, et ces trente années, il les avaitpassées
+a Malines, a l'exception peut-eire des tput
+premiers jours de sa vie. C'etait a Malines
+qu' il avait recu son ducaüon, et oüil
+s'était tabli médecin en 1545 (ou en 1546),
+au retour de ses voyages d'étude. C'est dans
+cette ville encore qu' il composa ouvrage
+cuédédiéa son cousin Hopperus deja
+arrivéa de hautes dignilés a la Cour de
+Btuxelles. De plus, l'année même de la
+publication (1548), Dodoens avait ténomm
+par Ie Magistrat médecin de la ville de
+Malines".
+Hiermede heb ik deze kwestie aan de
+hand van de beste bronnen nader toegelicht
+en dan komt het mij voor, dat hoe uiterst
+belangrijk die aanteekening in het
+inschrijvings-register ook zijn mag, zij historisch
+nochtans onvoldoende is, om daarop a priori
+met zekerheid te beslissen, dat DODONAEUS
+te Leeuwarden zou zijn geboren. Aan den
+anderen kant behoeft hierna nauwelijks meer
+gezegd, dat een absolute bewering ten
+gunste van Mechelen als geboortestad van
+DODONAEUS niet zonder voorbehoud mag
+worden gemaakt, als zijnde volkomen
+ongedocumenteerd. Vandaar dat het mij 't meest
+nauwkturig voorkwam, om in mijn artikeltje
+van 30 Juni j.l. de kwestie van DODONAEUS'
+geboorteplaats voorshands als nog onzeker
+aan te duiden.
+- Ten slotte wil ik hieraan nog toevoegen,
+dat ik voor deze aangelegenheid, die mijzelf
+hoogstelijk interesseert, persoonlijk
+navorschingen ben gaan doen in de
+stedelijkeen provinciale archieven te Leeuwarden,
+doch met een negatief resultaat; de geboorte•
+boeken zijn uit dien tijd niet meer aanwezig
+en uit andere bronnen heb ik dit vraagpunt
+niet tot oplossing kunnen brengen. Evenmin
+zijn in het stedelijk archief te Leiden nog
+doodboeken uit 1585 voorhanden en het
+Fig. 2. Geweerkogel met snelheid van
+680 M. per seconde
+gewone licht, dan dient de belichtingstijd
+ongeveer l 5000 sec. te bedragen. Het pro
+
+jectiel mag in dit tijdsverloop niet zooveel
+van plaats veranderd zijn, dat de foto on
+
+scherp zou worden. Hieruit volgt, dat de
+snelheid van den kogel al zeer klein moet
+zijn, wil een opname in het daglicht eenige
+waarde hebben. Dit is duidelijk te zien in
+fig. 1. Het is een reproductie van een
+Amerikaansche opname van het beproeven van
+een mortier, waarbij de kogel een snelheid
+heeft van ongeveer 380 M. per sec., zoodat
+de kogel in de belichtingstijd ruim 7 centi
+
+meter verder gevlogen is en daarom het
+onscherpe beeld opleverde, dat de figuur
+vertoont.
+De kamera, die voor deze opname gebruikt
+is, werd speciaal ervoor gebouwd en heeft
+de aanzienlijke afmetingen van ongeveer
+1,20 X 1,20 X 1,20 Meter; ze is voorzien
+van een speciale lens en van een afsluiter,
+die bewogen wordt door middel van een
+electromotor met groote
+omwentelingssnelheid. Deze motor wordt ingeschakeld
+in een stoomkring, die op n plaats
+onderbroken is. Hier is de positieve pool
+verbonden met een aantal evenwijdige
+metaaldraden, waartusschen zich andere be
+
+vinden, die verbonden zijn met de negatieve
+pool. Dit dradenstelsel vormt een klein
+schermpje, dat in het stuk geschut, of er
+buiten, opgesteld kan worden, zoodat de
+wegvliegende kogel de verschillende draden
+aan moet raken, waardoor de stroom geslo
+
+ten wordt, en de motor een impuls ontvangt,
+die hem met groote en te voren berekende
+snelheid doet ronddraaien, zoodat de afslui
+
+ter van de kamera juist gedurende den ver
+
+langden zeer korten tijd geopend wordt.
+Hoe onzuiver de verkregen resultaten ook
+waren, toch bleken ze reeds voldoende om
+archief van de Pieterskerk aldaar kon ook
+geen inlichtingen verschaffen.
+Laat ons hopen, dat t. g. t. nog eens zulk
+een waardevolle ontdekking wordt gedaan,
+als die van het inschrijvings-register, waar
+
+door ook de laatste onbekende factor van
+DODONAEUS' leven tot volle klaarheid zou
+kunnen worden gebracht.
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiMiiiiiiiiiiinuiii
+JUIST NU
+(Roeiwedstrijden te Rijswijk)
+Juist nu" was het spontane antwoord der
+aanzittenden aan een middagmaal, dat ver
+
+leden Zondag een roeifeest te Rijswijk be
+
+sloot op de vraag van den voorzitter of er
+in dezen tijd wel reden was een roeifeest
+op touw te zetten en zij sloegen daarmee
+den spijker op zijn kop. In waarheid feesten
+en gevaren zijn de machtigste hefboomen
+voor nationaal enthousiasme, voor concen
+
+tratie van aller aandacht op eigen wezen,
+eigen grootheid, eigen kracht; in zoover
+moeten juist nu alle volkeren op de wereld
+zich op zich zelf concentreeren, niets worden
+nagelaten om ook Nederlandsche instincten
+aan te wakkeren. En wat kan er
+Nederlandscher zijn dan een waterfeest.
+De Roeibond, in Januari van dit jaar op
+
+gericht, had alle watersportliefhebbers
+bijeengeblazen naar Rijswijk voor een roeifeest,
+gansch eenig in zijn soort en nog nooit hier
+te lande gevierd. Het was om zoo te zeggen
+de inauguratie van een nieuwen koers.
+Roeiwedstrijden, groote, klassieke, kennen
+wij allang, ze wekken onze belangstelling
+en bewondering, maar zij zijn alleen voor
+de besten, de volleerden. De Roeibond heeft
+dit beseft en wil meer, wil dat iedere
+Hollandsche jongen, iedere Hollandsche vrouw
+op 't water vertrouwd is, met een boot kan
+omgaan, de gevaren van het water kent
+zonder ze te vreezen, de genoegens van de
+forsche roeibeweging ondergaat zonder dat
+ze schaden en hij is druk bezig de
+roeigedachte in ons volk te wekken. In Amster
+
+dam, Rotterdam, Wageningen, den Haag,
+Leiden zijn thans cursussen op touw gezet
+tot vorming van roeiïnstructeurs, die op hun
+beurt onze jongeren scholieren, padvin
+
+ders, jongens van zeevaartscholen, van bon
+
+den voor lichamelijke opvoeding het
+roeien zullen leeren op oordeelkundige wijze,
+zoodat 't mede strekken kan tot hun licha
+
+melijke en geestelijke vorming. In Rijswijk
+wilde men die jongeren, die instructeurs,
+die vrouwen laten zien wat ze konden in
+de kalme eenoegelijkheid van een landelijk
+feest, 't Was er wel zomers tusschen die
+twee schilderachtige bruggen, aan de met
+zwaar hout beplante oevers, waartusschen
+de Vliet zich sierlijk slingert, het was er
+een vroolijkheid van wherries, gieken, sloe
+
+pen binnen eng bestek, de jongelui in de
+keurige trui's van hun vereenigingen zich
+aanpassend aan de groenende zonnige om
+
+lijsting.
+Stijlwedstrijden, snelheidswedstrijden op
+korten afstand, ringsteken vormden het pro
+
+gramma van den dag, dat zeldzaam ge
+
+slaagd was.
+Er is in de mentaliteit van onze autori
+
+teiten veel veranderd in de laatste jaren.
+Kwam vroeger aan een burgemeester in een
+kleine gemeente vragen om op Zondag een
+wateifeest te geven. Honderd tegen n kreeg
+je nul op 't rekest, en nu: de burgervader
+van Rijswij!'; een en al voorkomendheid, zich
+beijverend om alles goed te laten loopen,
+zelf een prijs uitlovend voor een der
+vooreenige gebreken in de gebruikte mortieren
+te vinden.
+Zuiverder resultaten worden bereikt vol
+
+gens de methode van Mach, die echter alleen
+toegepast kan worden in een donkere kamer,
+omdat geen afsluiter gebruikt wordt en de
+kamera geopend blijft om de plaat te doen
+belichten door een vonk, die slechts zeer
+korten tijd duurt. Hievoor wordt gebruik
+gemaakt van de vonk van een Leidsche
+flesch, waarvan de duur een tienmillioenste
+van een seconde bedraagt en die voldoende
+lichtsterkte heeft om op de gevoelige plaat
+in te werken.
+De kogel, die gefotografeerd moet worden
+verbreekt in een bepaald punt een paar
+glazen buizen, die draden bevatten in ver
+
+band staande met de beide bekleedsels van
+de Leidsche flesch, waardoor de
+ontlad/ngsvonk kan overspringen. De camera is tevoren
+ingesteld op de plaats, waar de kogel zich
+moet bevinden, als de vonk overspringt.
+Fig. 2 tot en met fig. 5 zijn reproducties
+van aldus genomen foto's.
+Fig. 2 is genomen van een kogel (Duitsch
+model) met een beginsnelhetd van 680 meter
+per seconde, terwijl die van fig. 3 een snel
+
+heid had van 880 meter per seconde.
+Deze figuren vertoonen eenige zeer bijzon
+
+dere dingen, die het bestudeeren overwaard
+zijn. Ten eerste zijn eigenaardige golven
+op te merken in de omgevende lucht, die
+straks verder besproken zullen worden. Ver
+
+der ziet men direct achter het projectiel een
+hoeveelheid lucht, die met dezelfde snelheid
+als het projectiel vooruitgaat en hierachter
+een veel grootere hoeveelheid, die flink door
+elkaar dwarrelt. Het arbeidsvermogen hier
+
+van wordt natuurlijk van dat van den kogel
+i2f^
+f 7
+V r»*'^ ,
+*-%V
+,'T t-,
+Fig. 3. Geweerkogel met snelheid van
+880 M. per seconde
+HANDSCHOENEN
+OH ,
+MARCHE
+IIIMIIIIIII1IIIIIIIII1IIIIIII
+Illllllllllllllllllllini	HUM
+naamste nummers, een hoffelijk gastheer, die
+er zichtbaar schik in had. 't Schijnt dat
+Gedeputeerde Staten van Zuid-Holland een
+oogenblik kapsies hebben gemaakt, wellicht
+als een atavistisch verschijnsel aan te merken.
+De Roeibond is voornemens telken jare
+een of meer propagandadagen op touw te
+zetten in verschillende deelen des lands,
+eendeels om de roeisport, waar ze nog niet
+inheemsch is populair te maken, anderdeels
+om de roeimenschen tot tochtjes aan te zet
+
+ten en ze de gelegenheid te geven aan wed
+
+strijden en spelen deel te nemen. Voor dit
+jaar zijn Rijswijk en Paterswolde gekozen
+en Rijswijk ligt nu achter ons.
+Het was een eerste poging en in zoover
+geslaagd, al had de deelneming grooter
+kunnen zijn. Vele kleinere vereenigingen, die
+aan de eigenlijke roeiwedstrijden niet mee
+
+doen, zouden nog meer bij dergelijke gele
+
+genheden kunnen uitkomen in wherries,
+overnaadsche gieken. Een juniorploegje is
+toch gauw gevormd. Ook onze hoofdstad
+met haar vijf vereenigingen had actiever
+kunnen zijn, zij had niet multa, wel multum
+gezonden in de darnesvier van de Hoop, die
+het nummer stijlroeien heeft gewonnen. Het
+was een clou en in waarheid een genot.
+Alles werkte hier samen, gratie en flinkheid
+van beweging, eenvoud en ongekunsteldheid
+van kteeding, een vreugde voor het oog, die
+vijf Hoopdames over 't water te zien glijden.
+Ik heb iets tegen veel roeiende dames: Ze
+beginnen in uiterlijk en manieren, houding,
+kleeding het specifiek atractieve der vrouw
+te veiliezen en vermannelijken, zij over
+
+drijven het sportieve en brengen daaraan de
+gratie ten offer. Dat was met die Hoopploeg
+zoo heelemaal het geval niet, het was een
+soepel, sierlijk roeien in een uitgezochte
+kleeding. Naast haar zagen wij de
+damesploeg van de Laak, die haar zoowat op zijde
+streefde en de jury veel moeite heeft bezorgd.
+Voor het eerst zagen wij verder de
+roeiinstructeurs op de baan: twee ploegen uit
+Leiden, n uit Den Haag. Het was goed
+werk, maar nog niet volmaakt. In Februari
+zijn de theoretische roeilessen voor deze
+leerlingen begonnen, waarvan velen reeds
+boven 40 jaar zijn, maar zij hebben in Rijswijk
+twee dagen gedemonstreerd: vooreerst dat
+men ook oudeven nog heel best roeien kan
+leeren en dat er bij velen de geestdrift wel
+in zit. Laat ons hopen in Paterswolde de
+ploegen uit Rijswijk terug te zien en daar
+
+naast andere uit de hoofdstad. Er bestaan
+reeds plannen voor. Daar zullen ook pad
+
+vinders uit Amsterdam debuteeien, zoo dat
+wie voor deze nieuwe beweging op
+roeigebied gevoelt, goed zal doen zich 26 Aug.
+naar het Meer in onze Noordelijke provincie
+te begeven.
+Ik laat het hierbij voorloopig. Wie van
+den roeidag in Rijswijk wil genieten, moet
+maar eens naar de bioscoop gaan. Albert
+frères heeft den geheelen dag gefilmd.
+FRI so
+jmuiiiiimuJi iiiiJiiiiiiiiiiiriiJimiiimiiiiiiiiiimiiiiifiijiiiiiiiiiiiiiiiiiii
+
+Nieuwe boeken van deze week:
+Adressen van Fabrieken in Nederland.
+No. 17 : Timmerfabrieken, No. 18, Fabrieken
+van houten meubelen, No. 19,
+Hoepelmakerijen. Uitgaven van de afd. Handel van het
+Departement van Landbouw, Nijverheid en
+Handel.
+Negende Jaarverslag van de Nederlandsche
+Kamer van Koophandel te Johannesburg
+(1916). 's Gravenhage, drukkerij de Atlas."
+H. BERSSEMBRUGGE,
+PORTKETFOTOUBAAF
+ZEESTRAAT 65, naast Pan Meslai
+DEff HAAG. - Tel. 1538.
+Fig. 4. Geweerkogel met snelheid van 880 M. per seconde
+treedt juist uit een buis, die van boven en van onder
+dootboord is. Er ontstaan dan verschillende luchtgolven
+afgenomen, zoodat het geen wonder is, dat
+deze veel in snelheid verliest.
+De merkwaardige golven, die den kogel
+begeleiden, ontstaan tengevolge van inter
+
+ferentie van geluidsgolven, door den kogel
+opgewekt. De kogel drukt n.l. telkens de
+lucht opzij en deze evenwichtsverstoring
+plant zich door de lucht voort met een snel
+
+heid van het geluid (330 meter
+per seconde), zoodat golven
+ontstaan, die zich als steeds
+grooter wordende bollen uit
+
+breiden mtt genoemdesnelheid
+en die tot centra hebben de
+punten van de baan van den
+kogel. Al die golven stellen
+zich ten slotte samen tot een
+onhullende kegelvormige golf,
+waarvan de foto's een afbeel
+
+ding geven. Deze vormen dus
+een heele mooie bevestiging
+van de theorie (reeds door
+ChristiaanHuyghens gegeven).
+Door een eenvoudige meting
+en berekening kunnen die
+foto's ook dienen om telkens
+de veihouding tusschen de
+snelheid van den kogel en
+van het geluid te meten, zoo
+
+dat de snelheid van den kogel
+in eik punt van zijn baan,
+waar hij gefotografeerd kan
+worden, berekend kan worden.
+Vooral de figuren 4 en 5
+zijn mooie voorbeelden voor
+de bevestiging van de theorie
+van Huyghens. Zij stellen voor
+hoe de kogel een buis door
+
+loopt, waarin op telkens
+gelijke afstanden onder
+en boven gaten geboord
+zijn, zoodat slechts van
+uit die plaatsen geluids
+
+golven uitgezonden kun
+
+nen worden. In fig. 4 is
+de kogel met het uiteinde
+tot halfweg die buis ge
+
+komen en in fig. 5 heeft
+hijdiebuis juist verlaten,
+zooals de sterke bewe
+
+ging in de lucht doet
+zien. Vooral de laatste
+figuur doet duidelijk
+uitkomen hoe de grenzen
+dier golven telkens lig
+
+gen opdenomhullenden
+kegel, waarvan aan den
+linkerkant duidelijk een
+gedeelte opgenomen is.
+De studie van derge
+
+lijke fotografische op
+
+namen is van groot be
+
+lang voor het bepalen van vorm en afmetingen
+van kogels en voor het opsporen van fouten
+in geweren, terwijl ze voor de natuur
+
+kundigen groote waarde hebben voor het
+toetsen der verschillende theoriën aan de
+werkelijkheid.
+v. O.
+Fig. 5. De geweerkogel heeft juist de buis (zie fig. 4)
+verlaten, zoodat een stel golven ontstaan is,
+correspondeerend met de lucht vóór en achter de buis en
+met de vijf openingen
+
+</text>
+<image timestamp="2002:08:23:21:29:56.00" size="644057">D200305.TIF</image>
+</page>
+</document>

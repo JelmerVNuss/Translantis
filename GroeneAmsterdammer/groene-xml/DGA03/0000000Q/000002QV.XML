@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18841214</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 590"
+KUNST.
+HET AMSTEKDAMSCH TOONEEL.
+Tentement Juliette Anx grands do la terra
+Dit 4 Boméo: Donntna «n bravo;
+Ca n'est pas l'alonette, Vi?' Ie lüinistère!
+On dirait du vean t On dirait dn veau.
+Zoo Bingt Baron op 't oogenblik in de Variétés te Parijs. De gewone
+jaarlijksche Revue, waarin de meest geruchtmakende gebeurtenissen der
+laatste twaalf maanden in een lachwekkend licht worden voorgesteld, is
+daar weder aan de orde van den avond. Sarcey geeft er verslag van;
+hu en alle reporters en alle toeschouwera hebben zich erg vermaakt. Nu,
+zoo'n Revue ia ook altijd een succes. Te Brussel heeft men er verleden
+jaar ook veel genoegen van gesmaakt. Zoude het niet aardig wezen, indien
+een onzer tooneelbestureu voor Amsterdam ook eens met zoo iets de
+proef wilde nemen? Verbeeld u, of neen, verbeeld het u niet, want het
+ware ondeugend en oneerbiedig, dat de heer J. de Boor, of de heer Bigot
+of Kreeft minister Heemskerk'a gouverneroentalen handel en wandel eens
+in proza en rijm op de planken bracht, of dat wij den heer Keucheniiis,
+Schaepman of dr. Abraham Kuyper, welke laatste nog wel zoo'n stichte
+
+lijk boekje heeft geschreven: Eehoort een christen indekomedie? stelt
+u voor dr. Kuyper uit de decoratie te voorschijn tredend, uit een fraai
+bosch of nit een tooneel-porte-brisée,... zou het niet zijn: on dirait du
+veau!
+Doch, in ernst, de schouwburg-directeuren moesten er over nadenken.
+Heeft de Millioenen-juffromv en enkele andere uit de zaken van den
+dag gegrepen blijspelen dan niet een flink welslagen genoten? Wanneer
+men hieraan begon, en aan waarlijk met geest bedeelde schrijvers het
+vervaardigen der teksten opdroeg, legde men den grondslag eener nieuwe
+nationale staatkundige en maatschappelijke volksklucht. De heeren der
+Variétés in de Amstelstraat zouden er een begin mee kunnen maken.
+Een aan het karakter van hun lokaal zeer voegende bezigheid ware het
+exploiteeren der actualiteit ten bate van iederen goedlachsche. Indien
+zij een nederlandsche broeikast van comische tooneel-literatuur wilden
+helpen stichten, zouden zij als bloemisten in de gaarde onzer dramatische
+kunst, met eere genoemd kunnen worden. Het behoeft niet hoog en
+en wonderlijk" te zijn, alleen maar niet vervelend, maar aardig, maar
+hollandsch, maar nieuw, actueel.
+Tot heden toe verricht men echter weinig soortgelijks in Amstel's tooneel"
+wereld. Mot Nieuwe Jaar zullen Thomasvaer en Pieternel weder min of meer
+aanhoorbare verzen opzeggen, bevattende toespelingen op gemeente- en
+landszaken. De Bruiloft van Kloris en Roosje zal zes of achtmaal worden
+opgevoerd, en daarmede is het laatste woord gezegd. Van tooneelver.
+tooningen, die deelnemen aan het sociale openbare leven, verder geen sp?or.
+Men bereidt zich ook volstrekt op de wisseling der jaarkringen niet voor.
+Eenige goede bekende stukken worden gegeven, een enkel nieuw fransch,
+voorta spreekt men over het ontbinden der Rotterdamscha afdeeling van
+het Nederlandsen Tooneel", dat wordt aangekondigd, over den heer van
+Zuylen, die gezegd wordt zich aan het Parkschomvb.-gezelsehap te zullen
+engagseren, over het aanhangige proces tusschen den heer van Hamme
+en de Koninklijke Vcreeniging, en daar blijft het bij.
+De Stads-Schouwburg geeft nu herhalingen van de twee aangenaamste
+Nederlandsche tooneelstukken, die gedurende de laatste vijf jaren ver
+
+schenen: Zijn meisje komt uit, door Mr. P. Brooshooft en Het Sonnet,
+door Frederik van Eeden. De inhoud ia den lezers bekend, de
+rolverdeeling onderging geene verandering. Toch wilden wij nopens het stuk
+des heeren Brooshooft hier nog eene opmerking inlasschen. Men heeft
+den schrijver o. a. geprezen om de getrouwe kenschetsing van Indische
+toestanden", welke in het tooneelspel aangetroffen werden, ja, men heeft
+deze bijzonderheid zijn eerste verdienste geprezen. Dit was, schijnt
+ons, een verkeerd denkbeeld. Want, wat verstond men bij deze gelegen
+
+heid onder toestanden"? Niet het leven der hartstochten en karakters,
+zooals zich dat eigenaardig in Indiëmag openbaren, zooals slechts onder
+dien hemel en op dien aardbodem mogelijk mag zijn, maar slechts uiter
+
+lijke gebruiken en zeden, speciale gewoonten van het dagelijksch huis
+
+houdelijk leven: officieren en burgers, die zoo en zoo aan tafel zitten,
+zich met dat en dat kaartspel onledig houden, in een dus en dus ge
+
+meubelde woning, op zulk en zulk uur; gezelschappen, die op deze wijze
+eten, jonge dames, die naar gene manier reizen en geldeed gaan, enz. Zulko
+afbeelding nu ia het streven van een panopticum, van een tableau vivant,
+van een pantomime misschien, niet dat des tooneels. Alleen het inner
+
+lijke leven, dat ons door zijn uitwendige openbaringen geschilderd wordt
+heeft waarde, niet die uitwendige openbaring als zoodanig. Het zijn niet
+de gebruiken der Indische samenleving, het zijn Indische zielen, waar
+
+mede men ons in kennis heeft te stellen ; de teekening der gebruiken
+kan slechts als stoffeering der hoofdzaak in aanmerking komen. Wij
+bekennen ons nu hoegenaamd niet van gevoelen, dat dus 'a heeren
+Brooshooft's stuk verwerpelijk zij ;falleea heeft men hem averechtsclien lof ge
+
+boden, en werkelijk te weinig de fraaie trekjes, waaruit fijne
+opmerkinggave en een kunstvaardige hand ter weêrgeving der ontvangen indruk
+
+ken blijkt, geteld. Minder dus ten gevolge van het gebruik sommiger
+Nederlandseh-Indische termen, spijzen of meubelen, door den auteur zijn
+personen voorgeschreven, dan wel om het, bedrijf-einde b. v., dat stoornis
+tusschen de vrienden brengt en voor de volgende bedrijven een heel
+drama belooft te veroorzaken, en oin den hier en daar niet ouaardigen
+conversatie-toon, waardeeren wij het stuk. Bemint en haat de neder»
+landach sprekende bevolking van ludiüanders als Europeesche
+menschen, is zij jaloersch op een van de onze verscheiden wijze, Zijn meisje
+komt wt leert dat niet, doch hij, die maar n waren meuschnlijken harts
+
+tocht-klank heeft opgevangen, hij, die maar n karakter kenmerkend
+woord heeft gevonden, verdient daarvoor erkentelijkheid.
+De Brave Hendrik, eerste voorstelling Leidsohs Plein heden-avoml,
+ia een blüscel in vijf bedrijven vau den hier te lande nog weinig bekenden
+auteur M. von Pnrenwald, vertaald door me,j. Stnmpf. Bij loven en
+welzijn hopen wij er a.-st. week de kern en pit van te hebben kunnen
+genieten.
+Het Grand Théiitre zwom deze week in don goudgroenen vijver der
+middelmatigheid, in wiens diepte geen kostbare gewassen of zeldzame
+planten te bespeuren zijn, maar aan wiens oever ook geen adders onder
+het gras schuilen. Speel Pailjas, speel Gltmde Stock, speel vooral Ilaa
+Korporaal, en geen leed zal u deeren. Ja, ja, Donderdag ging t4
+vijftigste opvoering van Haar Korpoi'aal! 't Zijn geen onaardige cijfe;,
+die liet getal opvoeringen van eenigo stukken in het Grand Théiitr
+bereikt: Fédora honderd, Door tantes opgevoed tachtig, De Kor por a \
+brengt het minstens tot zestig. Faitst noch Mcdea gingen twintig ui ;&gt;.*:,
+Zou hot tijd worden om ons te verzoenen met liet oude fransche nieJ&lt;&gt;'
+drama en het nieuwe duitsche blijspel?
+Pailjas nu, blijft altijd nog een type van belang. Het contrast tusschen
+het noodzakelijk-laehende en vreugdevolle gelaat des straat-kunstemakers
+en zijn bloedend binnenste betoont zich bij voortduring de hartedief der
+medelijdende schouwburgbezoekende gemoederen. Zooveel ongeluk bij
+zooveel uit plicht voorgewend» blijmoedigheid speculeert niet te vergeefs
+in da fondsen van barmhartigheid en meewarigheid, die elk publiek in
+de comedie-zaal vertegenwoordigt. Pailjas is van eene ietwat vrouwlijl'.e,
+weeke geaardheid, doch men houdt hem alles ten goede om zijn groot
+verdriet. Claude Stock ia esn ander hoer. Ha ha, de man met het roode
+masker", bij ons ingeleid door Capa.... Capadose! Een hevig melodrama,
+met voorspel. Stock moest echter voor den Korporaal wijken, en zoo zal
+het vooreerst wel altijd wezen. Ziet gij, noem wat ge wilt, noem zelfs
+het melodrama met zijn moorden en brandstichtingen, ziet ge, daar ia
+toch maar n duitsch blijspel; dat staat bovenaan.
+In Frascati kwam de vroolijke Babolin ons op zijn zangen ontha
+
+len, of eigenlijk niet Babolin, deze blijft zelfs ongezien, maar hy die er
+zich voor uitgeeft, de schoone zanger Lorenzo, door vele vrouwen be
+
+mind en vele terugbeminnend, die eindigt met prinses Mirane te mogen
+liefhebben, na eerst hot jonggetrouwde boertje Melissen een bittere kool
+te hebben gestoofd, welke echter toch ten laatste gezond werkt. Voor
+Lorenzo, de roode gestalte, welke te midden eener donderbui op 't tooneel
+komt vallen, speelde en zong, met zijn bekende opgewektheid, de tenor
+van Beem. Wij onderstaan ons dezen acteur, wien zooveel goede hoe
+
+danigheden eigen zijn, in overweging te geven de gebaren van beide
+handen op de borst houden en van het met zakdoek of hand de bovenlip
+aanraken, niet te veel te herhalen.
+Mevr. Büdermann speelt Elvérine, des beertjes vrouw, heel lief. Zij
+spreekt een zoo zuiver hollandsch; gemeenzame taal wordt bij haar niet
+plat, en wanneer zij woorden te gebruiken heeft, die niet tot het
+allergewoonste van den dagelijkschen omgang behooren, verliezen die op haar
+lippen wat zij anders te gemaakt of te stijf mochten hebben. Een heel
+eenvoudig voorbeeld: wanneer zij zegt, in plaats van laten we klinken!''
+(Amsterdamsche spreekwijze): laat ons klinken!" dan bemerkt men niet,
+dat zij niet gewoon spreekt, maar blijft het zinnetje natuurlijk. Dit, en.
+ook de fraaie klankvorming, die haar orgaan kenmerkt, komt haar zang
+ook zeer ten goede. Zij houdt er een bekoorlijke stem op na. De heer
+Kreeft, in de rol van generaal Karamatoff, leverde wederom een potsierlijk
+type en voldeed den toeschouwers buitengemeen.
+De hr. Kelly gaf een even guitig en nuchter boertje Melissen te ziecj
+als rnej. Coersen eene beminnelijke JSagatdla Karamatoff'.
+13 December 1831. K. J. W
+
+HET TOONEEL TE ROTTERDAM.
+Köpnicker straat 120.
+Voor niet veel meer dan honderd toeschouwers gaf het gezelschap der
+maatschappij de tweede opvoering van de nieuwe Posse der heeren
+Moser en Heiden, getiteld: KöpnicJccrstraat 120.
+Karel llciner bewoont do benedenverdieping van zijn huis in de
+Kupnickerstraat en heeft de bovenverdieping aan verschillende families ver
+
+huurd. Reeds bij het begin van het stuk zien wij, hoe groot de last van
+Heiner is; de een wenseht een nieuwe gaspit, de andere een badkamer,
+een derde komt met vrouw en zes kinderen naar beneden, omdat de water
+
+leiding stuk is en alles onderwater staat; in n woord: het huis ia een
+ware plaag voor den bezitter. Gaarne neemt hij dan ook het voorstel
+vaa zijn neef Kolder aan, om het huis te verruilen tegen het landgoed
+Lammersdorf van den grondbezitter Krafft, die dit buitenverblijf gaarne
+wil kwijt zijn.
+De ruil komt tot stand door tusschenkomst van Holder; wanneer ech
+
+ter beiden in het bezit zijn hunner nieuwe woning, zien zij, hoe zij be
+
+drogen zijn, daar het landgoed al even slecht is als het huis. Omdat
+het huis zal worden onteigend ter wille van een nieuwe straat, is de
+geI dienstige Holder bij de hand om er Kraftt, dia het heel gaarne weer
+kwijt wil zijn, van af te helpen. Hij koopt het zelf, om het natuurlijk
+tegen groote winst aan de stad af te staan. Ongelukkig echter wordt
+No. ll'J onteigend en Holder zit nu met 120, dat hij niet kan betalen.
+Intusschen is een huwelijk tot stand gtkomen van den zoon van Kr.afff.
+met de dochter van Heiuer; het jonge paar zal het landgoed gaan bewo
+
+nen eu de familie Heiner met den ouden Krafft zullen bij Holder in de
+Köpnickerstraat 120 komen inwonen. Behalve het genoemde huwelijk
+komt er ook nog een tot stand van de nicht van Holder met een aan
+
+staand houtvester en van een Inspecteur van het landgoed met de huis
+
+houdster vaa Ileiner. Drie paartjes in n stuk... dat 's voldoende.
+De nieuwe Posse van Moser en zijn compagnon ia mij erg tegenge
+
+vallen. Grappige tooneeltjes vindt men er maar zelden in en de onmoge
+
+lijkheden zijn zoo sterk, dat een blinde ze doorziet. Yan de flauwste
+theatretrucs is gebruik gemaakt en de conventie is er ten top in geheven.
+Otn dit oordeel met een voorbeeld te staven, wil ik alleen het volgende
+aanhalen. l)e grondbezitter Krafft komt bij Heiner, om het huis eens te
+zie;i en het contract te sluiten.-. Het water druipt zoo aard;doorthet
+
+</text>
+<image timestamp="2002:08:18:13:51:48.00" size="270421">000002QV.TIF</image>
+</page>
+</document>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400217</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Vetenschap
+Hoe telt en merkt
+men atomen?
+HET was ongetwijfeld een sensatie,
+zelfs in een tijd, dat de
+atoomleorie zoo stevig gefundeerd was,
+it zelfs de meest doorgewinterde
+:epticus niet meer kon twijfelen aan
+3 atomistische structuur der materie,
+&gt;en men er in slaagde met behulp
+in een apparaatje, dat naar den
+nponeerenden naam spinthoroscoop
+dstert, doch slechts bestaat uit een
+&gt;upe, een zinksulphideschermpje en
+ai spoortje van een radiumpreparaat,
+st effect van afzonderlijke atomen,
+jor hun kleinheid verre buiten het
+;reik van de beste microscoop,
+aan:houwelijk te maken. Elk
+radium:oom zendt namelijk, bij het
+uiteenillen, een alpha-deeltje uit en dit
+tovert een groene flikkering op het
+:hermpje ter plaatse, waar het
+ordt getroffen.
+Nog frappanter echter is het, dat
+,en er in geslaagd is, atomen te
+mersn en naderhand weer op te sporen:
+&gt;oals men uit een vlucht trekvogels
+• enkele vangt, ze van een ring aan
+&gt;n poot voorziet, en weder in vrijheid
+elt, teneinde, nadat zij in een ander
+itid weder gevangen zijn, zich een
+•eld te kunnen vormen van den weg,
+en de geheele schare genomen heeft
+ar het zonnige Zuiden, zoo merkt
+ten ook atomen. Wanneer deze dan,
+:mengd met een groot aantal gewone
+?men, waarvan zij zich chemisch
+iet ond.r&lt;&gt;cheiden, aan een
+plantudig of ei rlijk organisme worden
+«gediend, kan men nagaan, hoe zij
+i dat organisme zijn opgenomen en
+srdeeld, of daaruit weer" afgescheiden,
+dus een indicatie vormend voor alle
+:omen of de verbinding, waarvan zij
+:el uitmaken.
+De groote detective van dit
+atomisSCh-^peurderswerk is de Hongaar
+on Hevesy en zijn methode berust
+&gt;' het radio-a'i&gt;ief maken van een
+tel der atomen. Zooals bekend,
+iderscheidt een radio-actief element
+ch van de stabiele soort, doordat de
+ding te groot is ten opzichte van
+:t gewicht der atoomkern of,
+omgeserd, het gewicht te groot ten opzichte
+m de lading. Van het element
+phoslorus, waarmede de proeven vooral
+jn uitgevoerd en dat zoowel in de
+erlijke als in de plantaardige
+stofsseling een groote rol speelt, zijn
+«de radio-actieve soorten bekend.
+'j P de gewone, stabiele phosphor,
+aarin dan 31 het gewicht aanduidt
+i 15 de lading, dan is ™ P de
+radioTwee Geigertellers met
+het schema van een
+dezer
+actieve soort met het te groote gewicht,
+* P die, met de te groote lading.
+Eerstgenoemde soort leent zich echter
+beter als indicator, aangezien zij haar
+straling langer behoudt: na 14 dagen
+is die pas tot op de helft verminderd,
+terwijl dat bij de andere reeds na drie
+minuten het geval is.
+De laatste soort bezit intusschen
+een zekere historische beroemdheid:
+zij is het eerste kunstmatig radio
+
+actief gemaakte element, in 1934
+bereid door het echtpaar Joliot-Curie,
+dat aluminium met alpha-deeltjes
+beschoot. De gevormde radio-actieve
+phosphor ging dan onder uitzending
+van positronen in silicium over.
+
+ZOOALS men weet is het rendement
+van kunstmatige kernreacties
+nooit zoo bijster groot: hoewel elke
+bullet" ook hier zijn billet" heeft,
+bereiken de meeste nimmer hun doel
+door de goede bescherming, die de
+kernen van haar electronensysteem
+genieten, en door haar kleinheid.
+Zoolang men radio-actieve preparaten
+als neütronenbron gebruikte, was het
+dan ook niet mogelijk, wanneer men
+uitging van zwavel voor de bereiding
+van radio-actieve phosphor en daartoe
+10 liter zwavelkoolstof 14 dagen lang
+bestraalde met een toch vrij sterk prepa
+
+raat, bevattende i/io gram radium,
+mér dan het honderdste deel van n
+millioenste milligram phosphor te
+bereiden, zeer weinig, hoewel toch
+nog net voldoende voor de experi
+
+menten. Ook hier echter bracht
+Lawrence's cyclotron redding door het
+rendement meer dan te
+verduizendvoudigen en de proeven zoodoende
+effectiever te maken.
+De verkregen radio-actieve phosphor
+werd dan gebracht in een verbinding, die
+het organisme kon opnemen, gemengd
+met dezelfde verbinding, waarin niet
+radio-actieve phosphor voorkwam en
+de proef kon beginnen. Zij kon echter
+uit den aard der zaak niet eindigen,
+wanneer men geen middel had, de
+gemerkte atomen weder te vangen;
+dit nu wordt geboden door het uiterst
+listige instrumentje, dat den naam
+Geigerteller draagt. Geiger naar H.
+Geiger, die het reeds in 1913 uitvond
+en teller, omdat het, zooals de spint
+
+horoscoop de werking van afzonder
+
+lijke deeltjes zichtbaar maakt, dit
+instrument ze gemakkelijk telbaar
+maakt, doordat zij een tik geven in
+een luidspreker of zelfs een gewoon
+telwerk in beweging brengen.
+Men realiseere zich: een electron,
+dat minder weegt dan het millioenste
+deel van het millioenste deel van het
+millioenste deel van het millioenste
+deel van een milligram en dat ge
+
+dwongen wordt, een teller aan te slaan
+zooals die op den rand van een biljart
+zit!
+Toch is dit instrument niet zoo
+bijster gecompliceerd: het bestaat in
+hoofdtrekken uit een met verdunde
+lucht gevulde cylindrische koperen
+buis, waarin volgens de lengteas een
+geïsoleerde draad is gespannen, aan
+welke een spanning van een paar
+duizend volt wordt aangelegd. Een
+snel bewegend electron of ion, dat
+in een buis komt en tegen de moleculen
+van het verdunde gas botst, stoot daar
+
+uit de buitenste electronen los. Er
+ontstaat dus een ionenwolk, de lucht
+is geleidend geworden en vlak bij
+den draad, waar het electrische veld
+het sterkst is, treedt doorslag op. De
+stroomstoot behoeft nu nog slechts
+versterkt te worden in een apparaat,
+dat het meest op een gewoon radio
+
+toestel lijkt, om in een luidspreker hoor
+
+baar te worden, of een mechanische
+teller aan het werk te zetten.
+
+ALDUS achterhalen wij onze radio
+
+actieve phosphor-atomen wear:
+waar zij zich ook bevinden, zij zenden
+bèta-stralen uit, die ionen vormen, en
+den Geigerteller doen functionneeren.
+Van de 4; l gram phosphorus, die
+de mensch per dag gebruikt, bleek bijv.
+1/300.000 deel in een tand terecht te
+komen. Overigens kreeg het element
+daar nog geen rust; evenals o.a. in
+het beenderstelsel bleek een regel
+
+matige afbraak van reeds aanwezige
+phosphorverbindingen plaats te hebben;
+de oude phosphoratomen werden dan
+vervangen door nieuwe. Het skelet, dat
+wij zoo gaarne als het duurzaamste
+deel van ons lichaam beschouwen,
+omdat het, na het vlieden van het
+leven, het langst den tand des tijds
+weerstaat, blijkt dus niet het geraamte
+te zijn, dat eenigen tijd geleden als
+kapstok voor onze, nog sneller ver
+
+vangen, weeke deelen diende. Van
+degenen, die wij eens waren, zijn nog
+slechts de herinneringen en de idealen
+over !
+Ir. B. SwANENBURG
+Was DE GROENE juist
+toen u er naar vroeg?
+Een goede raad:
+neem een abonnement
+De dichter als geheelonthouder
+AT een geheelonthouder zich boos maakt, wan
+
+neer dorstige dichters de alcohol bezingen,
+;e vergeeflijk zijn; dat hij de perken van de
+bejorlijkheid overschrijdt, komt niet te pas. Dr. Garmt
+iuiveling heeft in De Blauwe Vaan" der
+geheeltthouders een aanval ondernomen op een
+bloemfing door Han G. Hoekstra, genaamd De Dorstige
+Ichter". De onhebbelijkste opmerking uit deze
+iritiek" is de vraag, of deze bloemlezer met de
+urnalistieke arbeid, waarvan hij bestaat, grootse
+estaties verricht ten behoeve van onze
+beschapg". Het onhebbelijke antwoord, dat hierop dient
+; worden gegeven, luidt: vermoedelijk evenzeer
+'-evenmin als de leraar van het Nieuwe Lyceum
+Hilversum, die dr. Garmt Stuiveling heet. Want
+; poging, om het baantje" als argument in de
+itiek binnen te smokkelen, moet resoluut worden
+gewezen.
+;Als heimelijk doel" van den bloemlezer heeft
+j, Garmt Stuiveling onbeschaamde reklame"
+itdekt, hoewel de drankhandel met deze uitgave
+ets van doen heeft, maar een bekende uitgeverij
+i N.V. Bigot en Van Rossum te Amsterdam het
+'sluitend zoals trouwens voor boeken
+gebruitijk—bij de boekhandel introduceerde. Hoekstra's
+voorkeuren voor poëzie en alcohol hebben dus niets
+met reclame" te maken, maar de drankbestrijder
+dr. Garmt Stuiveling maakt propaganda" voor zijn
+liefhebberij met het allesbehalve kieskeurige middel
+der insinuatie.
+De criticus verwijt den bloemlezer .voorts, dat hij
+geen melding heeft gemaakt van een oudere bloem
+
+lezing uit de alcoholische hoek van de poëtische hof:
+Hoog het glas !" door Gustaaf van Elring, hoewel
+meer dan een dozijn gelijke verzen" in deze beide
+boeken staan. Bij Van Elring vindt men ruim 175,
+bij Hoekstra ruim 75 verzen. Dat daaronder slechts
+veertien verzen gelijk zijn, behoorde eerder verwon
+
+dering te wekken, omdat het er zo weinig zijn, dan
+een commentaar als dit van dr. Garmt Stuiveling
+uit te lokken, tenzij het heimelijk doel" heeft voor
+
+gezeten, door onbeschaamde reklame" voor de
+eigen geheelonthouderszaak morele afbreuk te doen
+aan de naam van den winkelier aan de overzijde.
+Dat dr. Garmt Stuiveling van weinig ingenomen
+
+heid met beide bloemlezingen getuigt, wijl zij geen
+wetenschappelijke standaardwerken zijn, zou er als
+argument mee door kunnen, zo ook dr. Garmt Stui
+
+veling zich aan deze stelling hield. Maar deze felle
+liefhebber van standaardwerken gaf in eigen per
+
+soon enkele kleine bloemlezingen in het licht, welke
+slechts voor middelbare scholieren bestemd zijn,
+dus evenmin standaardwerken.
+Zover gaat het vooroordeel van den criticus, dat
+hij de mogelijkheid verondersteld, als zou de bloem
+
+lezer zijn kennis van den dichter Hennebo zonder
+dankje te zeggen" hebben ontleend aan een paar
+artikelen van dr. Garmt Stuiveling in De Blauwe
+Vaan" van het voorjaar 1938. Eerstens echter is
+er in de laatste jaren nog wel eens door een ander
+mens in een ander blad over Hennebo geschreven
+en voorts kan een ieder, ook zonder dr. Garmt
+Stuiveling, nog wel zijn eigen weg vinden in hand
+
+boeken en bibliotheken: zó onmisbaar is deze gids niet.
+Tenslotte schakelt dr. Garmt Stuiveling ver-'
+alcoholiseerde" poëzie gelijk met een soort cultu
+
+reel landverraad", dat hij nauwelijks minder ern
+
+stig acht dan het politieke en militaire". Het zijn
+grote woorden in een debat over De Muze als
+kroegmeid" gelijk dr. Garmt Stuiveling met
+weinig eerbied voor de Muze zijn stuk noemde ,
+maar zij geven ons de vrijmoedigheid, deze grote
+woorden ook te gebruiken in de vraag, of dr. Garmt
+Stuiveling zijn critische methode, welke zoveel
+dichter bij het subjectieve schelden dan bij het
+objectieve beoordelen staat, wellicht ook begrijpt
+onder een soort cultureel landverraad"? Ik voor
+mij ben althans op dit terrein liefst geheelont
+
+houder". HALBO C. KOOL
+PAG. 17 DE GROENE No. 3272
+
+</text>
+<image timestamp="2002:09:13:00:43:42.00" size="235922">000007C5.TIF</image>
+</page>
+</document>

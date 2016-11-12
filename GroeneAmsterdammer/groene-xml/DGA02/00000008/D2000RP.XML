@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010120</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Roberts de feesten afzeggend.
+BIJVOKGSKL van de Amsterdammer, Weekblad voor Nederland van 20 Januari 1901.
+.\rnst. Boek- en Steejulrukkerij, v,h. Ellerman, Ilarms it Co.
+SAUSIU/KV en CHAMBKKLAIX : Kom Bobs, zij wachten je ...,
+RoBKHJS : Neen .... zie je die de Wet daar niet ....
+
+</text>
+<image timestamp="2002:08:15:12:31:25.00" size="1000174">D2000RP.TIF</image>
+</page>
+</document>

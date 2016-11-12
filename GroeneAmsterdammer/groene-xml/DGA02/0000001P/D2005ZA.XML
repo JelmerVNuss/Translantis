@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270507</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+rocnc
+cekblo voor
+Nederland
+ftM
+KEIZERSGRACHT 333
+
+AMSTERDAM'
+TELEFOON:
+Redictle . .
+AdmUüermlle
+yntt
+ma
+VRAAGT
+VAN
+ItiTEIIEin
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+EXPORT
+Een betrouwbaar merk.
+Gebruikt steeds
+POOL'S ATOL
+tandpasta bestaat uit bestanddeclen, die den
+aanslag volkomen verwijderen, zonder eenige
+schadelijke inwerking op tandglazuur of
+tandvleesch.
+Frissche pepermuntsmaak
+Goed en toch zér goedkoop.
+A R Z URCHER
+CAKTONNAGEFABRIEKenDRUKKERJJ
+LOOIERSGRACHT64-66-6S-70-72JIMSTERDAM
+BRAND-, INBRAAK-,
+
+NERING
+
+EN 'ANDERE
+VERZEKERINGEN
+Vraagt offerte!
+
+D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+. V. AleuDelmagazijn
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS &amp; Co.
+Behangerij - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+Yvory Cotton Fish Net (voor glasgordijnen)
+95 c.M. breed fl 1.35 per Meter
+125 ,, ,, ,, 1. 5 ,, ,,
+160 2.50
+Zwarte kralen franje a 0.60 ,,
+FRANCO HUIS
+
+Gebr. FORMA. Woninginrichtingen.
+Utrechtsche straat 85, Amsterdam
+05CO
+\ -A
+Juist Verschenen!
+
+De nieuwe Catalogus
+N o. 41 van Camera's
+foto- benoodigdheden
+enz. •
+Ook belangrijk
+VOOR U!
+Gratis op aanvrage bij:
+
+- CAPI
+115 Kalverstr. - A'dam.
+/ ~\
+MAAR
+KAKEL I
+DE BESTE EN GOEDKOOPSTE
+OVEPAL VEPKRYGBAAP
+ADRES "/D MANDEL
+JOH.H.VAN DER MEIOEN
+AMERSFOORT
+GA5FORNUIZEN EN COMFOREN
+OVERTFIEFFEN ANDERE EN...
+ZIJN GOEDKOOP.
+Let op onze Spaarbranders
+van MASSIEF KOPER met
+automatische luchtregeling
+Gasfornuizen vanaf f
+62.N.V.
+H.A.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DB EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Menbele» MAT eigen ontwerpen «f M*T oo&lt;U
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+TIMTUR
+DE GROENE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+.kost slechts f 3.—per kwartaal of
+|0. ~~ ™&gt;r 99f&gt; Kii \jrM^rMi*Kotnlitin
+per jaar bi) vooruitbetaling
+KINDER
+CHOENEN
+WEDT
+NKOIAAS
+
+STOtl-ALK
+DIREGIEMOTORBOOTEH
+
+</text>
+<image timestamp="2002:09:25:06:29:52.00" size="160428">D2005ZA.TIF</image>
+</page>
+</document>

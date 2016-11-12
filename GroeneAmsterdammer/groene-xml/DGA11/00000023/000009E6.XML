@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300719</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NAAD IHDi
+ONZE GEÏLLUSTREERDE PRIJSCOURANT
+WORDT GAARNE OP AANVRAAG KOSTELOOS
+TOEGEZONDEN
+ALLE IND. COSTUUMS WORDEN VOLGENS 'T
+JUISTE MODEL DOOR BEKWAME COUPEURS
+OP EIGEN ATELIER VERVAARDIGD
+WITTE COSTUUMS
+vanaf
+WOLLEN PALMBEACH
+COSTUUMS vanaf . .
+COMPLETE INDISCHE
+UITRUSTINGEN vanaf
+ONZE VERTEGENWOORDIGER IS MET COMPLETE
+COLLECTIE ZONDER EENIGE VERPLICHTING
+DOOR HET GEHEELE LAND TE ONTBIEDEN
+Wie zich op ,,De Groene" abonneert, neemt
+
+•een besluit, waarvan hij in de toekomst geen
+
+spijt zal hebben!
+
+Bedien U daartoe van onderstaande bon:
+(7ItknIpp«n en verstoren In brletonuUg als drukwerk met l1', cent.
+Aan de Administratie van De Groene Amsterdammer"
+Keizersgracht 355 Amsterdam C.
+
+Ondergefeekende wenscht zich fe abonneeren
+op De Groene Amsterdammer" van l Aug. af,
+Abonnementsprijs l Aug.—31 Dec.:/4.—.
+
+
+Naam:
+
+Adres:
+N.V.voorh.GEBR.MERENS-HAARLEM
+Filiaal: Krommewaal 22, Amsterdam
+,, Lutkenieuwstraat 29, Groningen
+NEERLANDIA SLANG
+DE SLANG VOOR TUIN EN GARAGE.
+EERSTE RANGS HOTELS
+(in Alphabetische Volgorde).
+KAMERS «
+VOORZIEN VAN 40965
+TELEFOON EN WABMS KOUD WATER
+Doorn TELEFOON m Hotel Cecil"
+PENS ION-CAFÉ-RESTAURANT
+Logies Ontbijt f 3.—Pension vanaf f 5.
+Stroomend koud en warrr. water, met CENTRALE VERWARMING
+op alle kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+natuurschoon met ruime frissche kamers.
+Garage 2 minuten van tram. C. Lammens van Toorenburg.
+«i
+Indisch Restaurant en Lunchroom i:
+J. VAN GEEMERT *
+Laan van Meerdervoort 12
+DEN HAAG - Tel 12869
+Hotel Pension FLIP HULL"
+Bondsticsei der A. N. W. B. 't Geheels jaar
+geopend. Kamers met stroomend, koud et
+Teïeph. 92 warm water. Elec. licht. Centr. verwarming.
+Dafl-en naohtverbmOinfl Auto-gaiage, H. G. HARMSEN.
+HI1TTEM
+Hotel KIENTALERHOF
+KI E N TAL (Schweiz)
+Vnüi-diüIVnsion. 8 10 Frs. IHT &lt;)au'.
+Prii^Iit100 Bedd.-i,,
+tochtrii &lt;/n '«'k - ••!.•(, i
+Hef. van H.&lt;Ü:iu.i-. h
+"v;ni[l''lin;_ri'n. ( 'iiM'ii auto-v.-rkf
+, II. THÖ.\KN. E„.i&lt; n-i
+OISTER\YUK(N.Br.j: HOTEL BOSCHRAND" Tel. 87.
+Onm. bij bosschen en vennen. Badkamer. Op alle
+kamers str. \v. &amp; electr. licht. J. M. G. ROMPEL.
+OOSTERBEEK: PENSION ,,EIKENHORS T'
+Tel. 52502. stroomend water. Garage.
+WEEK-END f!. 10.—.
+RUURLO: Hotel 't WAPEN VAN RUURLO met dependances
+Centr. verw. Koud en v/arm str. water, telef. 3, (dag- en nacht
+
+dienst). Tennist). Garage. JOH. F. AVE.NARIUS.
+HOTEL TRI ER SOEST DIJ
+Tei. ao:se.
+Riant gelegen tegeno'.er het Paleis van H.M. de Koningin Moeder.
+Stroomend koud en warm water op alle kamers. Schitterend Tsrr
+Lunch en Diner a prix [ixe. a la Carte den ^ehcelea dag.
+Tennisbaan. Garage. Eigen Parkeerterrein.
+NOL l N 'T BOSCH
+HOTEL-RESTAURANT bj
+Mi d p ui
+en .) K' 11 t
+s n uu i i
+T li
+'e i t i
+, ^ LI
+t n ' i. ti j ti
+l i
+J
+
+</text>
+<image timestamp="2002:09:25:22:05:30.00" size="209427">000009E6.TIF</image>
+</page>
+</document>

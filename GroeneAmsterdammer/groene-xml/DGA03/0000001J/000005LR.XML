@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>46</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+46
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2500
+FERD. BOLSTRAAT 85
+
+le JAN STEENSTR. 87-89
+GEM. GIRO No. G. 621
+TELEFOON 21198
+GALL &amp; GALL
+WIJNHANDEL
+OPGERICHT 1884
+VOORHEEN FIRMA'S
+WED. H. J. T. GALL - COMM. VENN. H. GALL - COMM. VENN.J.GALL
+CEINTUURBAAN 235
+
+HEMONYSTRAAT 53
+GEM. GIRO No. G. 621
+TELEFOON 22852
+Groote voorraad Goede Oude Wijnen
+JJ
+Fronsac fl. 1.10 per flesch
+Douro 1.50
+. . . 2.00
+. . . 160
+. . . 1.60 per Liter
+55
+5)
+BORDEAUX WIJNEN
+PORTO
+SHERRY
+MADERA (origineel van het eiland) . .
+VERMOUTH
+GENEVER (Schiedamsche en Engelsche)
+COGNAC - WHISKY - LIMONADE enz. enz
+SALZER BRUNNEN TAFELWATER, per Liter flesch 16 Cents
+ECHT DORTMUNDER KRONEIMBRaU PAULANERBRaU
+op flesschen en biersiphons.
+Correcte uitvoering van uwe orders.
+m
+mm*mm*m&gt;mm*mm!®mtm!mim*m'mm
+De BESTE" en onderhoudendste
+Boeken zijn de Werken van
+F. DE SINCLAIR
+EN HUN
+Prijs
+Ingen. Geb.
+f I.9O f 2.5O
+
+1.90 2.50
+
+2.90 3.90
+
+2.90
+
+2.90
+3-90
+
+3-90
+2.90
+DE VAN BERKELS
+VRIENDEN
+DE GRIFFIER VAN PEEWIJ K .
+LEUGENS
+DE RIDDER KNOL
+CLARA'S HUWELIJK
+HET NOODLOT VAN LUKAS
+ABSDALE
+DE ONTDEKKING VAN JOOST
+GELDEROP	1.50
+OM PAPA'S PRINCIPE	1.50
+DE KRACH VAN RENSWOUD	1.50
+BARON SELDERIE	1.50
+DE DRIEDUBBELE VROUW	1.50
+HET LOON DER BRAVEN	1.50
+PENSION VINK	1.50
+MENEER FOCUS ALS HYPNO
+
+TISEUR , 0.90
+DE KROONPRINS VAN
+DZJIBOETI	0.90
+MENEER FOCUS ALS GLOBE
+
+TROTTER 0.90
+DE MAN, DIE VERDWEEN	,, 0.90
+MENEER FOCUS ALS MEID
+
+ALLEEN 0.90
+SHERLOCK HOLMES Jr	0.90
+UITGAVEN VAN:
+VAN HOLKEMA &amp; WARENDORF - AMSTERDAM
+
+J Womans smeet est attribute
+gaat uit van de vrouw, welke
+haar teint verzorgt en daarvoor
+geregeld Pond's Creams neemt.
+Cold- en Vanishing Cream
+dienen voor verschillende doel
+
+einden, doch vult de eene de
+andere cream aan.
+Pond's Vanishing Cream ge
+
+bruikt men overdag, daar zij
+direct door de huid geabsor
+
+beerd wordt en aan gezicht en
+handen de zoo geliefde matte
+teint geeft; Pond's Vanishing
+Cream beschermt U verder
+tegen de inwerking van stof
+en vuil.
+Pond"s*Cold Cream wordt ge
+
+bruikt, voordat men zich ter ruste
+begeeft, ze zuivert de poriën geheel
+en maakt de huid soepel, zoodathet
+ruw worden en ontstaan van rim
+
+pels voorkomen wordt. Masseert
+zachtjes met de vingertoppen en
+verwijdert daarna de overtollige
+cream met een_doekje.
+
+VERZORGT DW IEIS1
+Verkrijgbaar in alle goede zaken
+in potten a ƒ 1.—en / 2
+en in tubes van"/0-5" en /O.SO.
+Y\ l- Cold Creatn and
+KOtYCl S Vantshinq Creatn
+
+</text>
+<image timestamp="2002:09:03:10:28:01.00" size="152176">000005LR.TIF</image>
+</page>
+</document>

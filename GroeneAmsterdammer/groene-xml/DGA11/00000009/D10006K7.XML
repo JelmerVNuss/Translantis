@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270611</Datum>
+<Pagina>19</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2610
+DE GROENE AMSTERDAMMER VAN 11 JUNI 1927
+19
+Radio -Rubriek
+
+De Ontwikkeling van de Moderne
+RadioTelegrafie speciaal over Lange Golven
+Eduard Cuypers
+door H. J. M. WALENKAMP Gz.
+door Dr. A. DUBOIS
+Directeur der Ned. SeintoesteUen/afmek
+II.
+
+f~* EDURENDE geruimen tijd heeft de
+radiotech^^ niek gezocht naar middelen om groote afstan
+
+den op betrouwbare wijze te kunnen overbruggen.
+Aangezien men nu opgemerkt had, dat de
+electromagnetische golven, naarmate hun golflengte toe
+
+nam, een grooter doordringingsvermogen kregen,
+heeft men, naarmate de afstand toenam, steeds
+grootere golflengten toegepast. Die golflengten
+zijn zoo ver opgevoerd, dat men in den laatsten
+tijd tot ca. 30.000 M", golf ging uitzenden.
+Aangezien dit middel bij langena nog niet vol
+
+doende was, heeft men tegelijkertijd het vermogen
+der stations opgevoerd. Aan dit streven danken
+wij dan ook de bekende groot vermogen stations
+als Bandoeng, Kootwyk, Nauen, Rugby, Saint
+Assize.
+De bouw en aanleg van deze stations vorderde
+niet alleen enorme tosten voor installaties, masten
+en dergelijken, doch ook enorme terreinen waren
+noodzakelijk.
+Om eenig idee hiervan te geven, moge vermeld
+•worden, dat masthoogten van 250 a 300 M. nor
+
+maal waren, terwijl de antennes soms meerdere
+kilometers lang waren. Voegt men nu hierbij nog,
+dat deze stations een enorme energie verwerkten,
+dan is het wel te begrijpen, dat een dergelijke in
+
+stallatie soms ƒ 5.000.000,—a ƒ 10.000.000,—in
+aanleg kostten.
+Ondanks deze enorme bedragen en de geweldige
+hoeveelheid energie, welke met het bovengeschetst
+project gemoeid waren, was de verbinding nog
+geenszins betrouwbaar. Van een 24-uurs commu
+
+nicatie is allerminst sprake en ieder, die wel eens
+de verbinding Holland-Indiëop de lange golf be
+
+studeerd heeft, weet, dat nog ca. gedurende het
+halve etmaal geen verbinding mogelijk is.
+Een andere kwestie welke bij deze groote sta
+
+tions nog onopgelost bleef, was die van de
+seinsnelheid. In het algemeen is het buitengewoon
+lastig om bij dergelijke groote vermogens op vol
+
+komen betrouwbare wijze den seinstroom te onder
+
+breken. Bij iedere verbreking toch treedt min of
+meer vonkvorming op, waardoor bij het groote te
+onderbreken vermogen een sterke plaatselijke ver
+
+hitting optreedt, die de contacten van den onder
+
+breker ernstig beschadigt. Wil men nu op het
+moment dat de stroom mag doorgaan, den weer
+
+stand van de contacten voldoende laag houden,
+dan dienen deze een groot oppervlak te hebben en
+dus zwaar geconstrueerd te worden. Deze zware
+onderbrekers brachten nu noodwendig mede, dat
+de snelheid van onderbreking door de mechanische
+traagheid zeer beperkt was. Seinsnelheden van
+ca. 100 woorden in de minuut behoorden dan ook
+tot groote uitzonderingen. .Natuurlijk heeft men
+ook hier niet stilgezeten en zijn tal van eenvoudige
+oplossingen bedacht om de stroomonderbrekers
+aan te brengen op plaatsen waar de stroom gering
+was of waar zij op een eenvoudige wijze kon worden
+beïnvloed (relais).
+De mogelijkheid voor snel zenden werd aanmer
+
+kelijk grooter door de toepassing van z.g.
+lampenzenders. Deze toch bieden de mogelijkheid om op
+een eenvoudige wijze het z.g. genereeren of slin
+
+geren van de lamp te stoppen. De methode welke
+hier algemeen voor toegepast wordt, is het aan
+
+brengen van een groote negatieve roosterspanning.
+Aangezien normaal in het rooster van een zend
+
+lamp slechts een geringe stroom loopt, was hier
+
+door de mogelijkheid geschapen om met veel
+lichter en dus sneller relais seinteekens uit te
+zenden.
+Werd aldus al het mogelijke gedaan om aan de
+zenderzijde de uit te zenden teekens zoo krachtig
+mogelijk te maken en de golflengte zoodanige
+waarde te geven dat de gunstigste omstandigheden
+voor overdracht geschapen waren, ook aan de
+ontvangerzijde werd niet stil gezeten. Het was ook
+hier weer, dat de 3- en meer electrode-lamp uit
+
+komst bracht. Hierdoor werd het toch mogelijk de
+aan de ontvangzijde aankomende teekens zeer
+belangrijk te versterken. Ofschoon hiermede op het
+eerste gezicht de moeilijkheid opgelost schijnt, is
+dit in werkelijkheid geenszins het geval. Het
+struikelblok is aanwezig in den vorm van de alom
+gevreesde luchtstoringen. Deze luchtstoringen die,
+naar men thans aanneemt, in het algemeen af
+
+komstig zijn van onweders, waarvan er niet minder
+dan 3 a 400 voortdurend gelijktijdig om de aarde
+woeden, treffen eveneens de ontvangantenne. Wan-,
+neer men nu de ontvangen teekens gaat versterken,
+versterkt men automatisch de luchtstoringen mede.
+Door de versterking wordt dus wel verkregen, dat
+men een veel grooter geluid krijgt, doch vermin
+
+king door luchtstoringen blijft vrijwel dezelfde.
+De middelen welke men heeft uitgedacht om de
+luchtstoringen te verzwakken ten opzichte van de
+binnenkomende teekens, hebben in den laatsten
+tijd, hoewel niet volledig, toch gedeeltelijk succes
+gehad.
+Een van de krachtigste middelen tot beperking
+van de storingen door de atmospherische ontla
+
+dingen, is wel gebleken de z.g. gerichte ontvangst.
+Het is n.l. mogelijk om ontvangers te bouwen, z.g.
+richtingzoekers, welke de eigenschap bezitten, dat
+zij slechts in n richting teekens kunnen ontvan
+
+gen, terwijl zij in alle overige richtingen geen of
+zeer veel verzwakte ontvangst hebben. De
+richtingzoeker is nu zoodanig gebouwd, dat men de rich
+
+ting welke men ontvangen wil, steeds willlekeurig
+kiezen kan. Waar het nu gebleken is, dat lucht
+
+storingen veelal uit een bepaalde richting komen,
+voor Europa bijv. komen luchtstoringen hoofd
+
+zakelijk uit de richting Noord-Afrika, is het mo
+
+gelijk om deze luchtstoringen belangrijk te ver
+
+zwakken voor alle seinstations, welke niet in
+bovenbedoelde richting liggen. Dat zijn dus bijv.
+de Amerikaansche stations, Japansche stations,
+Nederl. Indische stations, enz.
+Met dit al toch was de radioverbinding tot voor
+korten tijd nog verre van betrouwbaar en was dan
+ook het commercieele nut gering. Het verkeer met
+deze stations had altijd iets geforceerds en werd
+in stand gehouden of bevorderd om redenen van
+politieken of radiotechnischen aard, eerder dan
+vanwege het klaarblijkelijke nut en de klaarblij
+
+kelijke superioriteit.
+
+
+Nieuwe Lampen
+
+Telefunken brengt eenige nieuwe radiolampen
+in den handel.
+De Superversterkerlamp R.E. 354 is te gebruiken
+als Ie en 2e L.F.-lamp. In het eerste geval kan
+met 150 Volt anodespanning worden volstaan;
+in het tweede geval is vooral, wanneer natuurlijke
+geluidssterkte wordt verlangd, 200 Volt anode
+
+spanning gewenscht. Bij zeer groote eindgeluiden
+moet echter als 2e L.F. lamp de B.E. 504 ge
+
+bruikt worden.
+Gelijkrifhtlamp R.G.N. 1503. Vele
+gelijkrichtlampen hebben het gebrek, dat bij groote
+anodestroom-afneming, de spanning te veel daalt, zoodat
+vervorming ontstaat en het niet mogelijk is,
+daarmede, ook wat geluidssterkte betreft, natuur
+
+getrouwe radio-weergeving te verkrijgen.
+De R.G.G. 1503, welke Telefunken thans uit
+
+brengt, voorziet in de behoefte aan een dergelijk
+zware gelijkrichtlamp. Zij is geconstrueerd volgens
+dezelfde beginselen als de zware gelijk-richtlampen
+der Telefunken-zenders; zij kan een vermogen van
+75 milli-Ampère bij 200 Volt ontwikkelen.
+Dubbellamp R.E.Z. 124 s. Nu de fabrikan
+
+ten van radio-toestellen zich steeds meer op
+de vervaardiging van goedkoope toestellen gaan
+toeleggen, is er vraag naar een lamp, welke de
+functies van 2 normale lampen in n toestel kari
+verrichten. Om aan deze vraag te voldoen heeft
+Telefunken de dubbellamp K.E./. 125 s. uitge
+
+bracht. Deze lamp bezit twee gescheiden lamp
+
+systemen, ieder bestaande uit gloeidraad, rooster
+en plaat; zij heeft dus 6 stiften.
+TWT EN behoeft zijn portret er maar op aan te
+zien, om te onderkennen, welk bijzonder
+type van karakter het uitbeeldt.
+Het spreekt tegelijk van talent en schranderheid.
+Eduard Cuypers behoorde tot de groote inter
+
+nationale bent dier talentvolle architecten
+derlaatste halve eeuw door wier geestkracht en onder
+wier leiding de belangrijkste moderne bouwwerken
+over heel de wereld tot stand gebracht werden.
+En deze in alle cultuurlanden verspreidde bouw
+
+gewrochten (hoe zou dat ook anders kunnen !)&gt;
+teekenen helder, ja zoo klaar als de dag, den geest
+hunner ontwerpers en oprichters.
+Ongetwijfeld talentvol zijn de meeste dezer
+werken, want wat het materiaal-maatschaplijke
+betreft, leidden zij de architectuur in geheel
+nieuwe banen.
+Denk U de tegenwoordige wereld zonder
+haarhotels en bankgebouwen, spoorwegstations eix
+postkantoren, haar laboratoria, klinieken, zieken
+
+huizen enz. Onmooglijk is dit immers. Hoogst
+talentvol ontworpen zijn deze werken ongetwijfeld ;
+n ding echter ontbreekt hun; slechts
+enkelewerken schuilen er onder van waarachtige schoon
+
+heid.
+Bij Eduard Cuypers was het gedurende heel zijn
+leven meer een tasten, een springen van den hak
+op den tak. Geen enkel minderwaardig werk werd
+door hem tot stand gebracht, maar ook geen enkel
+waarlijk geniaal. Bij hem was het meer een talent
+
+vol volgen der onderscheiden kunststroomingen
+dan een zelfscheppen of voorgaan. Hij was talentvol
+epigoon, geen pionier.
+Afgescheiden van dit feit was hij een bekwaam
+en energiek architect, die een groote verscheiden
+
+heid van belangrijke bouwwerken in 't leven riep,
+zoo hier in Holland als in Indië. Steeds waren zijn
+werken doeltreffend, nimmer aesthetisch minder
+
+waardig. Behoorde hij niet tot de enkele grootsten,
+dan toch zeker tot de grooten die veel hebben
+bijgedragen tot de verheffing der zoo diep gezonken
+vaderlandsche bouwkunst. Een belangrijk aantal
+later bekend geworden jonge architecten zijn hem
+verplicht; daar zij op Cuypers bureau in staat
+gesteld werden hun talenten ongedwongen te
+ontplooien. Eenigen der besten onder hen ver
+
+tegenwoordigen op 't moment de jongste stroo
+
+ming in de Hollandsche bouwkunst.
+Wat ten slotte evenmin onvermeld mag blijven,
+is, dat Eduard Cuypers de oprichter on
+instandhouder van twee onzer beste architectonische tijd
+
+schriften was, naamlijk: Het Huis Oud ett
+Nieuw" en het Bouwkundig tijdschrift voor Ned.
+Indië". Deze beide uitgaven behooren van dei)
+aanvang af, zoo naar inhoud als vorm, tot de
+voornaamste in Holland verschijnende Kunsttijd
+
+schriften.
+In gedachte breng ik een eerbiedigen groet aan
+een architect, die, al vermocht hij ook niet het
+hoogste te bereiken, vél tot stand bracht.
+
+</text>
+<image timestamp="2002:09:21:10:02:45.00" size="249462">D10006K7.TIF</image>
+</page>
+</document>

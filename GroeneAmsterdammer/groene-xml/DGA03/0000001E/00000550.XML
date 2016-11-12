@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19111105</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het stukkende China.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 5 November 1911.
+Amst. Boek- en Stcendrukkerij, v h. Ellerman, Harms &amp; Co.
+Het Keizertj e:
+Yoean Sji K a i:
+Oom Joean! mijn Drakepaard!
+Ventje, oom weet heusch niet of zelfs deze lijm hiervoor voldoende kit!
+
+</text>
+<image timestamp="2002:08:26:01:47:52.00" size="122712">00000550.TIF</image>
+</page>
+</document>

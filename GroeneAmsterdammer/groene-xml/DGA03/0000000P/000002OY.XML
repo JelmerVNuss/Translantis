@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18841116</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 336
+Be -fondsen der bank bedroegen ƒ 1.038,393,39V3 tegen ecne schuld aan
+dédeelnemers van f 800,275,231/3.
+Batig saldo alzoo f 178,118.11.
+
+Er heerseht groote teleurstelling onder de schipperij in Friesland,
+•voornamelijk onder hen, die gedurig de Zandvaart in de gemeente
+tingeradeel moeten passeeren. Langen tijd is hen voorgespiegeld dat in 1885
+cou worden begonnen met de vaart de noodige verbetering te doen onder
+
+gaan en thans is besloten, die verbetering tot 1888 te laten rusten. Een
+aantal belanghebbenden hebben zich vereenigd om zich en corps tot de
+Provinciale Staten te wenden, met het verzoek om verandering in dezen
+toestand.
+
+Door commissarissen van de Stoomtram-maatschappij Oldamlt, is de
+concessie tot aanleg van een stoomtram Winschoten-Stadskanaal van den
+heer T. Dalhuisen overgenomen.
+
+De heeren Yan der Made en Bikkens, te Dordrecht, hebbeu concessie
+gevraagd voor een tramlijn Zevenbergen-Klundert-Willemstad.
+
+Het stationsgebouw van den Géldersch-OverysëlscJten Locaalspoonveg
+te Zelhem is bijna voltooid; de aanbesteding van dit gedeelte der lijn wordt
+eerstdaags verwacht.
+'Met twee grondeigenaren in die gemeente schijnt de Maatschappij no»
+niet tot een overeenkomst te kunnen komen. Men hoopt echter, dat zij
+den aanleg der lijn niet langer zullen vertragen.
+
+Het Stieltjes-kanaal is op feestelijke wijze voor het openbaar verkeer
+' toegankelijk gesteld.
+
+De halte Grubbenvorsterklooster op de lijn Maastricht-Nijmegen zal
+heden, Zaterdag, voor het publiek verkeer worden opengesteld.
+
+Amerongen en Eist zijn thans door den Oosteratoomtramweg verbonden.
+
+De verbouwing van het badhuis te Scheveningen gaat met
+ongelooflijken spoed vooruit. Het metselen wordt tot des avonds 10 voortgezet,
+hetgeen mogelijk is, daar het terrein electrisch verlicht wordt. De fun
+
+damenten zijn reeds opgetrokken en men is tot de eerste bintlang gekomen.
+
+Het Museum van Kunstnijverheid te Utrecht zal den 19den November
+feestelijk geopend worden.
+
+Gedurende het halfjaar, loopende van l Mei 1884 tot en met ultimo
+October d. a. v., zijn per stoomtram Don Haag-Scheveniugen 708,563 per
+
+sonen vervoerd.
+
+Te Tzummarum zal vanwege het burgerlijk armbestuur ten behoeve
+der lagere volksklasse eene volksgaarkeuken worden opgericht.
+FAILLISSEMENTEN.
+Arrondissement Amsterdam: C. van Asselt, broodbakker te Weesp,
+recht-comm. mr. A. M. Pareau, cur. mr. L. Rinkel, te Hilversum; L.
+Kroonen, timmerman en aannemer te Uithoorn, recht.-comm. mr. J. A.
+de Bas, cur, mr. J. Schouten, te Nieuwer-Amstel, Overtoom 77; S. de
+Beer, tapper, Zwanenburgwal 28, recht.-comm. mr. H. N. Teding van
+Berkhout, cur. mr. P. J. J. Ras, P. C. Hooftstraat 44; P. L. J. Larink,
+commUsionnair in manufacturen, firma F. Larink, recht.-comm. mr. J. van
+Eik Jz., cur. mr. K. Zwaardemaker, Keizersgracht 160; J. M. Brants,
+logementhouder en tapper, Raamskooi, recht.-comm. mr. D. Binger,
+cur. mr. J. F. Backer, Keizersgracht 567.
+Arrondissement Alkmaar: C. Bakker Azn., koopmanln granen en
+lijnkoeken, recht.-comm. mr. J. G. Vogel, cur. mr. E. Ruiter, deurwaarder
+te Hoorn; P. Vriesman, winkelier in manufacturen en kruidonierswaren,
+recht.-eomm. mr. F. A. van Leeuwen, cur. mr. B. van der Feen; G. J.
+Spruijt, winkelier in kruidenierswaren, recht.-comm. mr. T. A. Sannes,
+cur. mr. W. F. A. Verhoeff; J. van Leeuwen, veehandelaar en landman
+te Heiloo, recht.-comm. mr. G. Wttewaal, cur. mr. J. Verdam.
+Arrondissement Arnhem: L. A. Hoebink, koopman in spiegels en win
+
+kelier, recht.-comm. mr. B. P. baron van Verschuer,cur. mr. W. Ch. Thomas.
+Arrondissement .'s-Gravenhage: J. P.Th. van Wijk, winkelier,
+Boekhorststraat 116, recbt.-comm. jhr. mr. J. J. de la Bassecour Caan, cur.
+Dir. G. van Rossem, Nieuwe Havenstraat 34; P. Prins, huisschilder on
+glazenmaker, recht.-comm. mr. W. C. D. Olivier, cur. mr. \V. Bidder
+van Rappard; M. HoutkruMer, wed. S. van Schaak, winkelierster en
+koopvrouw, firma S. v. Schaak, recht.-comm. mr. Ph. "W. van Heusde,
+cur. mr. G. A. P. Bax, Noordeinde 87b.
+Arrondissement Rotterdam: J. de Lange, confiseur, recht.-comm. jhr.
+mr. J. B. J. N. ridder de van der Schueren, cur. mr. B. C. J. Loder.
+Arrondissement Zwolle: A. Schouten, koopman te Nijkerk,
+recht.comm. mr. "V7. D. Coninck Liefsting, cur. mr. J. F. Neeb.
+Opheffing van faillissement Leeuwarden, 6 Nov. J. Sangers, stoomboot
+
+kapitein en koopman te Bolsward, proc. mr. J. van Leeuwen.
+OVERZICHT VAN DE EFPEGTENMARKT
+8-14 November.
+Voor menigeen -werpt de geschiedenis der afgeloopsne week eena
+schaduw temeer op de mistroostige tijden die wij beleven. Men is sedert
+geruiinen tijd sewoon van uit het verre Westen door teleurstellingen te
+worden getroffen, doch ditmaal zoude Amerika er zich op kunnen be
+
+roemen oor vastere koersen voor de Spoorweg waarden eenigen steun
+aan de Amsterdamsche beurs te hebben verleend. Alsof de maat voor
+Holland nog niet was volgorneten, zag men ditmaal eenige onzer Koloniale
+waarden, die zich voor het grootste gedeelte in handen van geldbeleggers
+bevonden, vele tientallen poiceuten dalen. De moeieliikheid waarin zich
+de Koloniale en Ned. Indische Banken bevinden, wordt dageliiks in de
+couranten besproken. Daarover kunnen -«-ij dus zwijgen. De aanleiding
+tot die omstandigheden is echter eene bespreking ovenvaard.
+"W8 hebben voor ons lip-gen de balans der Koloniale Bank over het i
+derde boekjaar geëindigd ulto. Juni 1804. Daaruit blijkt, dat zooals be- '
+kend Was het uitgegeven maatschappelijk kapitaal ƒ 5 millioen be- i
+draagt. Docütevens blijkt daaruit, dat de Maatschappij die slechts
+5 millioon kapitaal ter harer dispositie heeft, meer dan ƒ S millioen
+aan voorschotten heeft godaan. In gunstige of gewone tijden levert
+zulk een aanzienlijk bedrag aan voorschotten geen direct gevaar op,
+daar men vooral wat Indische zaken betreft over tal van cr
+djuoperatiön te beschikken hoeft, om in de noodige kasruimte te voorzien.
+Doch breken slechte tijden aan, zooals nu door do daling in de
+suikerprijzen, dr.n worden dio Maatschappijen niet alleen door vsrlieEen op
+hunne voorschotten, doch tevens in hun crediet getroffen. De verkoop
+van wissels zoowol in Indiëals in het moederland, die steeds aan beide
+zijden de kas doet stijven, neemt af, terwijl de loopend» bier en daar
+moeten worden voldaan.
+Da credieten pp buitenlandscho plaatsen aan de Bankinrichtingen
+geopend, worden ingetrokken, terwijl eene Bank allicht zwarigheden
+oppert wissels door de betrokkene Maatschappijen aangeboden te
+disconteeren. Men ziet hieruit dat een enkel slecht jaar voldoende kan z\jn
+om de met crediet gevulde zeepbel uiteen te doen spatten.
+De Koloniale Bank vroeg voorloopige surséance van betaling, die,
+naar wij vernemen, werd toegestaan en de heeren Heidring, Zeveriju
+en Rahusen werden tot bewindvoerders benoemd. Bij geruchte vernemen
+wfl, dat men voornemens zoude zijn spoedig eene regeling aan de ver
+
+schillende crediteuren voor te elaan, die ten deele uit het beschikbare
+kassaldo, ton dooie in schuldbekentenissen zoudo worden voldaan. Deze
+regeling heeft het voordeel iedereen onmiddellijk in het bezit van eene
+verhandelbare of beleeribaro waarde te stollen.
+Men vernoemt dat do Ned.-Indische Handelsbank zoowel bij do Regeering
+als langs anderen weg getracht heeft lïnancieelen hulp te vinden, doch
+daarin niet is geslaagd en eene spoedige aanvrage om surséance ver
+
+wacht wordt.
+De toestand der boide bovengenoemde banken werkte ook zoer on
+
+gunstig op de meeste locale financioele en industrieele waarden. Vooral
+ook in Aandeelen Ned. Handel-Maatschappij was de stemming zeer
+gedrukt. Niet alleen dat voor rekening eenor in gebreke gebleven firma
+eene aanzienlijke partij dier Aandeeien ter markt kwam, doch tevens
+viel de 2 maandolijksche rescontre in die Aandeelen juist met dit aanbod
+samen. Vele geldgovers waren ongeneigd de Aandeelen in hun bezit
+anders dan tegen hopge prolongatie te coatinueeren. Het gevolg daarvan
+was dat menigeen zich. genoodzaakt zag de door hem op de rescontra
+gekochte aandeelen op de markt te werpen.
+Nog andere binneulandsche waarden ondervinden eeno krasse daling,
+ten deele veroorzaakt door het ter markt brengen van een uit
+solidewaarden bestaand reservefonds.
+De Amerikaansche markt gaf ditmaal geen reden tot ontevredenheid.
+Hoewel men verwachtte dat de verkiezing van den heer Cleveland tot
+president eenigen verderen teruggang zoude veroorzaken bleek het tegen
+deel waar te zon. In vele soorten werd voor Amerikaansche rekouitis
+aanzienlijke bedragen gekocht. Hoofdzakelijk betrof c dit de Missouri
+Kansas—Texas waarden. Terwijl wij naar de bekende gegevens geen
+reden vinden om de stipte voldoening van cle coupon dor 5%
+Obiigatiön per l December a. s., in twijfel te trekken, schenen vele houders
+de tegenovergestelde meening te zijn toegedaan, en kwamen er aan
+
+zienlijke posten 5?i Obligatiön ter markt. Het feit echter dat Amerika
+zoo kort voor den verschijadag der coupon tot stijgende prijzen koopt,
+versterkt ons in de meening dat de couponbetaling behoorlijk zal plaats
+vinden.
+Europeesehe waarden hielden zich voor het meerendeel goed. Parijs
+was echter in eene flauwere stemming, die ook hier voor eenige fonds
+
+soorten werd nagebootst.
+Hollandscho fondsen toonen voor alle soorten eenigen teruggang aan;
+het verlies bedraagt 1A a Vi %.
+Hongaarsche staatsfondsen liepen fractioneel terug, Italianen sluiten
+ongeveer onveranderd. Oostenrijkers daalden K Y.. In Portugeezen hield
+do groote aandrang tot verkpopen op, de prijs verbeterde VA %.
+Na eenige geringe fluctuatiön blijft, de prijs van Russische
+staatssfondsen ongeveer onveranderd.
+Spanjaarden daalden ton slotte 1A %, Turken verminderden % i K }&amp;,
+Egyptenaron gingen Y* % vooruit.
+Do beide soorten Mexicanen herwonnen l % van bet onlangs geloden
+verlies. Hoofdzakelijk door vraag door Londen werd dit avans behaald.
+Brazilianen verbeterden 14 u IJi %. De slechte berichten over den
+innerlijken toestand van Columbia deden dit fonds 2Ji % dalen.
+Voor Peruanen was de week gunstig. De C% stegen % 6, de 5 %
+lla %. Venezuela onveranderd.
+Stedelijke loeningen onveranderd.
+Door hierboven uiteengezette redenen daalden van industrieele en
+financiëolo ondernemingen, Aandeelen Amstordamscha Bank 7:4 %,
+Lens &amp; Borgsrna 4% %, Intern Crediet &amp; H. V. 3J4 %, Kas Vereeniging
+10%, Koloniale Bank 17?« ?», Handel-Maatschappij 4M ?•«, Ned.-Ind.
+Handelsbank IQ1A %, de 5 % Obligatiön 25'/« %, de 4 % 22 %, Aandeelun
+Ontvang &amp; Betaalkas 11 %.
+Aandeelen Handels-Vereeniging Amsterdam" stegen 4 ?ó,Stoomvaart
+Insulinde" 2/s ?ó.
+Nederlandsche Spoorwegwaarden waren voor bijna allo soorten flauwer.
+Aandeelen Exploitatie-Maatschappij verloren l %, Centraal Spoorweg en
+gestempelde Obligatiün 1% ?ó, Ui'gest. Schuld VA %, Indische
+Spoorwegaandeelen 42S %, 3 % Obligatiën VA %.
+Van Tramwegmaatscbappijen daalden Aandeelen Sarnarang—Joana
+1% %, en stagen Aand. Noord- on Zuid-Holl. Tram 2% %.
+De toongevonde soorten op do Amerikaanscho markt toonon bijna
+alle eenige verbetering aan. Van Denver Rio-Grande waarden stegen
+de Aandeelen VA %, de 5 % Obligatiën l %, de gecons. dito 4% % en
+de 1ste hyp. Oblisr. 5JA %. Aanvankelijk bleef Frankfort in laatstge
+
+noemd fonds als kooper optreden. Lator deed het gerucht dat de coupon
+per l dezer spoedig zoutlo worden voldaan, eonige locale vraag
+ontfctaan, dio echtor op het tegenspreken daarvan ophiold. Al gelooven wij
+niet dat or spoedig kans op het uitbetalen der coupon bestaat, zoo
+ineenen wij toch dat die betaling na eenigen tijd wel zal volgen.
+Missouri Kansas on Texasaandcelen stogon ?i %,1 % Obligatiön l&gt;a %,
+5 % Obligatiën 4K %, Incomo-Bonds 3 %.
+Verder stegen nionsharos 4&amp; %, 5 % Florida V/a %, Illinoisshnres
+V/t %, Commoa Oregon ?ï%, preferred 2%, Manitobashares 3 %,
+Wabash l %.
+Daarentegen daalden Atlantic Pacific 3 %, Centralsharos l'4 %,
+Ca.llfornia Oregon 3 %, ChesapoakeOhio4%,5% Grandïrunk7% %, Al-rons
+2 %, Missouri Pacificshares 81A %, New-York Penns. en Ohio l/a %,
+Southern Pacific 2% %, 5 % Union Pacific 1% %.
+De geldmarkt bleef redelijk goöd voorzien. Prolongatie daalde van
+4 tot 3/4 %. Heden was echter tot laatstgenoemden koers eenige vraag.
+Uit do verkorte balans der Nederlandsche Bank, opgemaakt 8 Nov.,
+blijkt fiat do goudvoorraad opnieuw met l mülioon gulden afnam, en de
+discontorekoning mot ƒ 3,300,000 vermeerderde. De beleeningrekening
+, breidde zich slechts mot circa 2 ton uit. S.
+
+</text>
+<image timestamp="2002:08:18:10:00:43.00" size="292227">000002OY.TIF</image>
+</page>
+</document>

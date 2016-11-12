@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050910</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Czar Nicolaas na het sluiten van den vrede.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 10 September 1905.
+L L (P^«« ^« k t h s •' e i
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Harms &amp; Co.
+CZAR NlCOLAAS (M Marianne]: Hoe vind je nu, dat ik er uitzie? -—De Japanners hebben mij den vrede letterlijk afgesmeekt. Al zeg
+ik het zelf, Witte lijkt wel een kwajongen bij mij, en wat betcekent nu dat nieuwe vriendje van je; zou je hem nog aan
+mij durven vertoonen?
+
+</text>
+<image timestamp="2002:08:22:10:03:51.00" size="421888">D2002IH.TIF</image>
+</page>
+</document>

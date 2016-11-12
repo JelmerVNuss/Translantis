@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18870424</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL vaöde Arasterdammer, Weekblad
+voor Nederland, van 24 April 1887.
+Mevrouw. Mijnheer, mijn jongetje wou graag war nieuwe
+poppetjes voor zijn kamer hebben. Die dukaten ... hm \ .. .
+mannetjes beginnen hem te vervelen. Kunt u mij aan wat
+anders helpen?
+Koopman. Wat anders? Zeker, mevrouw! Dat ezeltje is
+een gewillig beestje. Óók niet? Dan heb ik hier nog de heeren
+van de hooge ambten en bedieningen. Alles eigen fabrikaat.
+Mevrouw. Ja, maar dat is nog niet precies wat hij bedoelt.
+'t Is zoo'n lastig ventje l Dan zal ik nog eens bij een
+ander kijken.
+Koopman. Zoo als u wilt, mevrouw. (.Ter zijde) Ze komt
+toch bij mij terug l In de Arke Noach's worden alle stoute
+kinderen zoet.
+
+</text>
+<image timestamp="2002:10:02:03:44:29.00" size="531490">00000B0A.TIF</image>
+</page>
+</document>

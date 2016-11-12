@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kemnummer
+i.'
+t:HRYSLER &amp; OLDSMOBILE
+AUTOMOBIELEN
+
+
+
+
+!
+PFRRS Wil l INK WETER|NGSCHANS 109/111
+AMSTERDAM
+KIPS
+l SCHIEDAM $
+J Plaatijzeren Reservoirs, Blusleidingen, ^
+4 Schceps-Tanks 4
+AUTOGENE LASSCHING
+WAAROM heeft
+
+VAN RIJN'S
+MOSTERD
+zoo'n overweldigend succes?!
+OMDAT qualiteit altijd den doorslag geeft
+PETER DAWSON'S
+WHISKY
+
+BEST OF ALL
+Van ibtraalen «Mionsieur Cx rkeletu
+WIJNHANDELAREN
+Den Haag - ROTTERDAM - Helder
+Leuvehaven 34
+
+&lt;§&gt;®©o®@®© @®© @ @®©@®&lt;s
+
+StocFs Woningbureau
+Bloemendaalscheweg No. 161
+BLOEMENDAAL
+ZEILINGA
+BINNENKANT 38 - AMSTERDAM-C.
+Telefoon 41709 en 40717
+
+
+DEKKLEEDE
+EN
+
+AUTOKLEEDEN
+Utrechtsche Assurantie-Mij,
+UTRECHT x Westerstraat 5
+Ziekte- en
+OngevallenVerzekering en
+JUfUJUL
+OE WAARDE, die aan een goed
+
+horloge gehecht moet worden, is veel
+
+hooger dan DE PRMS, dien gij
+
+uw horlogemaker er voor betaalt.
+fen goed fiorlotfe bijden JUfÜtld. Deiiegenn&gt;oordiger
+
+Jllpina ftntef*n*mmU£m x||n fc •txficnnai a.
+N. V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+KAMERS ^f"' TELER
+VOORZIEN VAN ^0965
+TELEFOON EN WA DM X KOUD WATER
+SPECIALE AANBIEDING
+Zilverblank Vertinde Zweedsche
+yieescli- en Groente- Haknrcchiiies,
+in 4 maten, resp, f 4,50, f 5,50, f 6.-, f 9.-.
+RASP
+3NUPIAAT
+3MUPUIC»
+snune»
+Bij elke machine wordt ge
+
+leverd: een ondermes, dat
+STEEDS GEBRUIKT
+WORDT, vervolgens l
+snijmes voor soepgroenten,
+sucade of voor vet, 2
+snijplaten voor vleesch en l rasp
+voor brood, amandelen etc.,
+DEZE WORDEN DUS
+BEURTELINGS GEBRUIKT.
+De stalen platen en ook het
+mesje en de rasp zijn alle
+aan beide zijden te gebruiken,
+zoodat deze nooit stomp worden en ONEINDIG lang
+meegaan.
+
+EEN UITERST PRACTISGHE MACHINE
+
+VOOR EEN ZEER LAGEN PRIJS.
+
+Na ontvangst van postwissel of girostorting volgt franco
+toezending (postrekening No. 34436).
+
+
+.V. STROINK
+Diezerstraat
+ZWOLLE
+
+</text>
+<image timestamp="2002:09:22:06:27:12.00" size="118520">D100073V.TIF</image>
+</page>
+</document>

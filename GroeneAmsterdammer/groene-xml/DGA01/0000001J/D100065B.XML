@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270122</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+22 Jan. 1927
+i ' . . &lt; - , "
+•.,•.
+Me Groene
+il&gt;c_ywceM&gt;Iad voor Nederland
+)*ar ƒ U.—. P*r «onuner 25 cent
+
+Adv«rt«»tli&gt; f0.75 pir regel
+KEIZERSGRACHT 333
+
+AM S TE R D A M
+TELEFOON :
+Redactie	379*4
+
+Admini.lratlc	37961
+CSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 4Q24Q, 49971
+Vischrestaurant
+
+en Vischhandel
+A. F. ZURCHER
+GARTONNAGEFABRIEKenDRUKKERIJ
+OQ1ERSGRACHT64-66~68~70-72,AMSTERDAM
+LBINGIA
+Verzekering-Mijen., Ao 1901.
+
+ONGELUKKEN
+AUTOMOBIELEN
+MOTORRIJWIELEN
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+M CENT PER HALF ONS
+. V. JMcubclmagazijn'
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+£OEDEWAAGEN'S'
+^ t*sssiissi HROONPIJPEN
+«W 6 STUKS
+PETER DAWSON'S
+
+WHISKY
+
+BEST OF ALL
+
+v an Straalen JMonsieur &amp; ILrkelero
+WIJNH ANDELAREN
+Den Haag ROTTERDAM Helder
+Leuvehaven 34
+Abonneert tl op: *» ~ * &lt;*&gt; «^
+
+De Groene Amsterdammer
+TM?
+PROJECTIE LANTAARNS
+EIM BIOSCOPEN
+
+
+CAPI
+
+AMSTERDAM DEN HAAG
+MS KALVERSTR- 124 NOORDCINDE
+NIJMEGEN GRONINGEN
+3 KU
+PELSTERStRt/o LIBBKTY
+Openbare Lezing door Dr. W.
+
+J. Stein, Die Figur des Faust
+
+in der Weltgeschichte]
+
+Maandag 7 Febr. ó u. in de School
+voor Maatsch. Werk, P. de
+Hooghstraat 78. Toegang f 0.75.
+J. P. IURTH AUS
+Br. Markt - Haarlem
+TELEPOON 10652
+Tl M TU R
+NrU.KLOO5TERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+HOLLANDIA"
+~ tt
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen «f naar oode
+
+ARNOLD HOUTSCHILT
+
+Singel 283 Amsterdam
+MULLER, SIEGMUND en SCHOGT c.s. makelaars
+zullen op Maandag 7 Februari 1927 des avonds na
+zes uur in het Verkooplokaal Frascati" ten overstaan
+van de notarissen J. P. SMITS, F. H. VAN DEN HELM
+en E. TH. KOOPMAN in veiling brengen:
+
+Het kapitale zeer gunstig gelegen
+
+HEERENHUIS'
+
+te AMSTERDAM
+
+ter dubbele breedte, met Binnenplaats, Achterhuis,
+grooten tuin en Erve, staande en gelegen aan^de
+
+
+HEERENGRACHT 436
+
+bij de Leidschestraat en tegenover het Koningsplein
+Kadaster Sectie I No. 7681 ter grootte van
+
+
+
+9 AREN.
+
+Dit perceel, op een der beste standen gelegen, is uit
+
+nemend geschikt voor KANTOORGEBOUW of andere
+ruimte behoevende inrichtingen en is te bezichtigen
+des Dinsdags, Donderdags en op den verkoopdag des
+middags van 2 tot 4 uur.
+
+</text>
+<image timestamp="2002:09:20:21:42:47.00" size="163206">D100065B.TIF</image>
+</page>
+</document>

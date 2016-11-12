@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320723</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2877
+De Groene Amsterdammer van 23 Juli 1932
+17
+Godengesprekken
+naar Lucianus
+door Charivarius
+1. DE KETTINGHANGER
+Personen: Jupiter (Zeus), Prometheus
+(Prometheus, de schepper en beschermer der menschen. die Zeus wilde bedriegen, wikkelde het vleesch van een
+geslachten stier in de huid, maakte een anderen hoop van de met het vet bedekte beenderen, en liet Zeus kiezen. Deze
+koos het slechtste en ontnam in toorn den menschen het vuur. Prometheus bracht een sprank in een uitgeholden
+vliertak volgens anderen in een rietstengel op aarde terug, waarop Zeus hem aan een hoogen rots klonk. Een
+gedaan. Uit dankbaarheid beval Zeus Herakles Prometheus te ontketenen, en den arend te dooden.)
+• P. Wee mij, rampzalige, geketend aan de rots,
+Op 't wreed, wraakgierig woord eens onvermurwbren gods !
+Mijn spijz' is lucht en licht, mijn aanspraak is de donder;
+Gekluisterd en geprangd, van boven en van onder,
+Wordt nog mijn lijf beknaagd door arend of door gier,
+En duldt zijn marteling gelijk van ding en dier.
+Ik galm een jammerzang, mijn stentorstem verhef ik,
+En smeek mijn god gena. Daar komt hij net, dat tref ik.
+Als 't nu niet lukt naar d'ouden, theatralen trant,
+Dan heb ik nog een aardig troef je in de hand....
+
+Gegroet, o Jupiter ! Gij komt mij dus bevrijden
+Na zooveel duizend jaar van schier onduldbaar lijden?
+J. Nu overdrijf je weer. Na zooveel duizend jaar?
+'t Is ruim geteld zoowat vierhonderd bij mekaar.
+P. Nu goed, laat ik me dan een eeuw of wat vertellen,
+De hoofdzaak is: je komt me toch in vrijheid stellen?
+J. In vrijheid stellen, neen, daar denk ik nog niet aan.
+P. Maar ben je dan niet met mijn gruwzaam lot begaan?
+J. Nee, niet bijzonder, nee. Blijf jij maar rustig hangen.
+Je zit daar hoog en droog. Wat kun je meer verlangen?
+P. Onmenschelijke beul, die met mijn smarten spot !
+J. Onmensjhelijk? Ik ben geen mensch. Ik ben een god.
+P. Daar zou ik me maar niet zoo bijster op beroemen.
+Als Juno alles wist! Ik wil geen namen noemen,
+Maar menig sterveling, 't is algemeen bekend,
+Heeft ondervonden, dat je soms heel menschlijk bent.
+J. Ziezoo. Nu is het uit. 'k Verdraag dien toon niet langer;
+Moet ik me laten hoonen door een kettinghanger?
+P. Nou ja, je hebt gelijk. Ik ging een beetje ver.
+Maar laat me nou ook los. Toe, doe je 't, Jupiter?
+J. Je hebt nog niet de helft, wat zeg ik, nog geen tiende
+Van wat je voor je slinksche schelmerij verdiende;
+Je straf is veel te licht. Je moest me dankbaar zijn.
+P. Te licht? En eiken dag die folterende pijn?
+Mijn lever strekt tot voer van dien gevloekten arend.
+J. Dat doet je niets geen kwaad. Je lijkt nog heel welvarend.
+P. Hoe kan men zonder lever blijven voortbestaan?
+J. Dat weet je weergaasch goed. 't Groeit eiken nacht weer aan.
+P. En toch begrijp ik niet, waarom ik dit moet dulden.
+J. Hier is een lijstje van je zonden en je schulden:
+Je schiep het menschenras, verdorven en gemeen
+De vrouw in d'eerste plaats. Daar heb je nummer n.
+Dan heb je 't hemelvuur Hephaestus afgestolen;
+Je bracht het, in een vochtig stukje riet verscholen,
+Of vlier, of wat het was, heel handig naar benee.
+Dit maakte 't menschdom sterk. Daar heb je nummer twee.
+Je hebt me verder eens zoo gruwlijk beetgenomen,
+Als mij, den oppergod, nog nooit was overkomen.
+Je had twee porties vleesch (naar 't heette) overdekt.
+We lootten. Ik mocht kiezen. ,.Als je 't beste trekt,
+Ben jij de wijste", zei je, om me te bedotten.
+Ik kies, en krijg een stapel stinkend vet en botten !
+Een walgelijk gezicht, 't Is of 'k 't nog voor me zie.
+En jij kreeg heerlijk vleesch. Daar heb je nummer drie. . . .
+P. Goed, hou maar op. Ik merk, ik zal niet kunnen hopen,
+Dat jij me vrijheid schenkt. Ik zal ze moeten koopen.
+J. Wat zeg je. koopen? Zoo. zit jij d'r zoo goed bij?
+Maak dat je grootje wijs. P. Nee, luister nou naar mij,
+Ik weet J. Je raaskaalt, man. Ik ga. Tot kijk, Prometheus !
+P. Toe, blijf nou toch. J. Nee, Juno wacht me met de thee thuis.
+"P. Hei, loop nou nog niet weg ! Je kent me als profeet.
+Ik zie wat jij niet ziet. ik weet wat jij niet weet.
+J. Daar dien je me toch eerst bewijzen van te geven.
+P. O, best. 'k Zal iets voorspellen uit je eigen leven.
+En als ik zoo bewijs, dat ik voorspellen kan.
+En straks 't geheim verklap, ontketen je me dan?
+«7. Daar moet ik nog eens even rustig over denken. . . .
+Nou goed. Voor dezen prijs zal ik je vrijheid schenken.
+P. 'k Voorspel dan: jij gaat niet naar huis, maar naar je bruid,
+Naar Thetis. Ja of nee? J. Het komt toevallig uit.
+Maar goed, kom voor den draad nou niet je openbaring.
+P. Hier heb je mijn geheim, maar denk aan je verklaring.
+(ia niet naar Thetis toe. Straks komt de ooievaar.
+J'. Ja. dat voorspel ik ook. Maar dat is geen bezwaar.
+P. Ja. wel in dit geval. Dat zal je daadlijk hooren.
+Er wordt na zeekren tijd een jongetje geboren,
+En. is dat opgegroeid, dan stort je eigen zoon,
+Precies als jij dat deed. zijn vader van den tioon !
+.ƒ. Die schurk ! Zoo zou ik vallen, argeloos, onwetend. . . .
+Prometheus, dank je wel. Je wordt subiet ontketend.
+Hier, Hercules ! H. Present. J. Maak dezen makker vrij,
+Ik dank aan hem 't behoud van troon en heerschappij !
+Doorsteek dien arend voorts met een van je floretten.
+Ik denk erover om hem op te laten zetten.
+Al ben ik zacht van zin, en amoureus van aard,
+De opperheerschappij is Thetis mij niet waard.
+Ik /al haar bij den beker trachten te vergeten,
+En wij gaan met z'n drieën samen ergens eten.
+Witte Tanden: Chlorodont
+o
+de heerlijk verfrisschend smakende pepermunt tandpasta Tube 35 cent en 6O cent
+
+</text>
+<image timestamp="2002:09:27:04:19:40.00" size="148122">00000AFD.TIF</image>
+</page>
+</document>

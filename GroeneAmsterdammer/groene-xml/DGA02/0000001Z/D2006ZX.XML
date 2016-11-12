@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331202</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 2 December 1933
+No. 294»
+[••
+t
+Nieuwe uitgaven
+1733-1933. Jacobus Boelen, Am
+
+sterdam. Bijdrage tot de geschiedenis
+Tan den wijnhandel in Nederland in
+de laatste twee eeuwen. Druk de
+. Busey, Amsterdam.
+Schoolatlas van Nederlandsch-Indi
+door W. van Gelder en C.
+Lekkerkerker. J. B. Wolters,
+GroningenDen Haag-Batavia, 1932. 20e herziene
+en vermeerderde druk.
+Zeist en de Stichtsche lustwarande.
+Met rijwiel- en wandeltochten en meer
+dan 150 illustraties, door Jan W.
+Kraal, Zeist.
+De verhouding van mensch tot God
+en wereld, door Prof. Dr. J. Boeke,
+Ds. W. Banning, Ds. H. Faber, P. H.
+Bonge. Uitg. Vrijzinnig Christehjke
+Jeugd Centrale, Utrecht 1933.
+Leerboek der Nederlandsche
+Handelsoorrespondentie, door G. Dekker.
+P. Noordhoff N.V., 1933,
+GroningenBatavia.
+Oefeningen bij de Pransche spraak
+
+kunst, door Dr. J. Fransen en Dr. H.
+G. Martin. 2de deeltje. J. B. Wolters,
+Groningen-Den Haag-Batavia.
+Le Commercant dans la Littérature
+francaise du Moyen Age, par G.
+Schilperoort. J. B. Wolters,
+GroningenLa Haye-Batavia.
+S.O.S. Open letter to all the rulers, all
+the industrial leaders, and to all the
+people of the world, by J. E. H.
+Libourel. A. W. Sijthoff's Publishing
+Oompany, Leyden.
+De nood der menschheid en de weg
+tot leniging, door J. E. H. Libourel.
+N.V. Drukkerij en Uitgeverszaak ,,De
+Mercuur", Hilversum.
+Kerk en maatschappelijk geweten,
+door B. Spiele. Van Gorcum &amp; Comp.
+N.V., Uitg., Assen, 1932.
+De criminaliteit der katholieken in
+Nederland, door Mr. G. H. A. Peber.
+J. J. Bomen &amp; Zonen, Roermond
+Maaseik.
+Grondbeginselen der economie, door
+Dr*H. W. C. Borderwijk. J. B.Wolters,
+Groningen-Den Haag-Batavia.
+Het parlementaire stelsel en de
+vrijheid van den kiezer, door Jhr. Mr.
+Dr. W. D. de Jonge. Haarlem, H. D.
+Tjeenk Willink &amp; Zoon N.V., 1933.
+Tolvrij toerisme- in Nederland, met
+medewerking van de K.N.A.C, •—bij
+elcbior, uitg., Amersfoort.
+
+Arbeidsorganisatie-TechnocratieWelvaart, door van der Lely. Van
+Gorcum &amp; Comp. N.V., Uitg., Assen,
+1933.
+Het hooger recht, door J. A. F.
+Mörzer Bruyns. A. W. Sijthoff's Uit
+
+gevers Mij. N.V., Leiden.
+Indische reisbrieven, door Ds. A.
+Trouw. Van Gorcum &amp; Comp., 1933,
+Assen.
+Gewijde geschiedenis, door H. van
+Dijk en I. Nauta. Oude Testament.
+P. Noordhoff N.V., 1932,
+GroningenBatavia.
+Beknopt leerboek van het
+handelsrekenen, door H. L. C. Kok. 3de deel.
+J. B. Wolters,
+Groningen-Bataviaden Haag.
+Handelsrekenen, door E. Smit en
+W. Speerstra. J. B. Wolters,
+GroningenrDen Haag-Batavia, 1932.
+Heerlen, mijn-, industrie-, winkel
+
+en woonstad. Officieele uitgave der
+Ver. voor Vreemdelingenverkeer voor
+Heerlen. Uitgave N.V. Mij. tot Ex
+
+ploitatie van het Limb. Dagblad,
+Heerlen, Nobelstraat 13.
+Palestina, geteekend door Leopold
+Krakauer. De Spieghel, Amsterdam,
+Het Kompas, Mechelen.
+Naar een internationale werk
+
+gemeenschap, een plan met 16 illustra
+
+ties, door H. Th. Wijdeveld. Uit
+
+geverij C. A. Mees, Santpoort, Hol
+
+land, 1931.
+STEUNZOLElf
+SYST. PROF. HOFFA/
+NAAR MAAT
+Fa. J. A. MASSING
+
+O. Z. Voorburgwal 334
+
+Amsterdam C.
+
+over het Binnengasthuis
+w
+w&amp;szf:&amp;*
+£«£*£££
+f-Slfc^i-1!;
+n unjs
+U"
+Huygenspark
+Prijs:
+T 330 WL fl. 145.—) fine/, lampen, excl.
+omzetT330GL fl. 152.50 \ en weeldebelasting.)
+NEDERLANDSCHE SIEMENS MAATSCHAI
+N.V. - 's-GRAVENHAGE
+.
+
+</text>
+<image timestamp="2002:09:27:03:56:36.00" size="321305">D2006ZX.TIF</image>
+</page>
+</document>

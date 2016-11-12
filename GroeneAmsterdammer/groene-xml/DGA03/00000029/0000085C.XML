@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300510</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f iui|hii»(im:i
+fRRES-TOESTEUEN
+worden gemaakt voor ver
+wende luisteraars; U zoud
+z* niet anders wenschen. D
+geluidsweergave is vol
+krachtig, van onderhoud i
+sprake en de bedie
+
+ning is buitengewoon ee
+voudig. Toch zijn de prijzen
+werkelijk billi jk.Wij noodige
+U uit, de Erres-toestelle
+de beroemde serie
+i '•&amp;..«,
+zonder eenige verplichting
+te komen beluister
+en bij ons in bewaring
+':•' .
+brandschade
+* en inbraak verzekerd.
+RADIO
+N.V. HANDELMIJ. R. S. STOKVIS &amp; Zonen
+ROTTERDAM
+AMSTERDAM GRONINGEN
+
+</text>
+<image timestamp="2002:09:21:15:10:02.00" size="558872">0000085C.TIF</image>
+</page>
+</document>

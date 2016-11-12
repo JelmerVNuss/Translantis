@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300816</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 16 AUGUSTUS 1930
+No. 2776
+;
+f
+
+f"D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+BEGRAFENISSEN (naar ERliEZING nit RIJTUIGEN ol AUTO'S)
+CREMATIE. - TRANSPORTEN.
+N» V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkttipen ~- Badtafels Baby bascules
+^- Linnenmanden *
+G,), DE KONING 6ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+LOOD- EN ZINKWERKEN.
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+N.V, v/L Gebr, BREEN
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRAGHT 53
+Ateliers voor reparatlfin aan
+Uurwerken, Goud en Zilver
+ADVERTEERT
+
+IN DE GROENE"
+
+Dat is een zin dien ge dikwijls leest.
+
+WAAROM?
+Omdat DE GROENE in het
+geheele land gelezen -wordt
+door het beste publiek .—door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij honderd
+
+duizenden bereikt, die juist niet
+tot het koopkrachtige publiek
+behooren, maar het betaalt
+hem om in dit blad te ad ver
+
+teeren, dat hem direct in
+contact brengt met het publiek
+dat hij zoekt.
+
+
+mminaiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiM
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telcf.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D, WEEGEWIJS
+Rapenburg 44—AMSTERDAM Tel. 42662
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -t- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+meer dan 70 modellen
+Prijzen van f 60,-af
+PENSION IER RANG
+POUR JEUNES FILLES DE BONNE FAMILLE
+excellente nourriture
+Belle situation, chambres confortables
+Mademoiselles DE BROT
+
+Villa Grammont 14 Ave des Alpes .
+LAUSANNE
+faculléde recefoir i etueigtiemcnt t)u fratifau el de
+ianglaiii a ia maison, ou de daicre lej coaró de
+l'Univerdiléet &lt;)eó coleó de miiJique.
+Réjérencej en HoUande:
+Mademoijdle N. M. Middelbeek
+Flatgeb. Zorgvliet LA HAYE
+PEEK &amp; CLOPPENBÜRG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:26:00:48:14.00" size="112300">000009H7.TIF</image>
+</page>
+</document>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240105</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+j, e
+'DE AMSTERDAMMER; WEEKBLAD VOOR NEDERLAND
+No. 2429
+Redacteur: ;Dr. A. G, OLLAN£&gt;
+
+. A. R. Falckstraat 5, Utrecht
+
+Alle berichten, deze rubriek betreffende, gelieve
+men te adresseeren aan bovenstaand adres
+
+Januari 1924.
+
+PROBLEEM No. 157 van V. MARIN te
+BARCELONA.
+. .(Ie-prijs Chess Monthly" 1895)
+
+Zwart
+Wit: Kdl, Df7, Ta5 en c 8, La7 en c4, Pc3
+en c5, pionnen: c 2, f5 en g4.
+Zwart: Kd4, Dd6, Pg7, La2, pion 56.
+. Wit geeft mat in twee zetten.
+Oplossing in de volgende rubriek.
+OPLOSSING PROBLEEM NO. 155
+van O. KARLSSON
+
+1. Ld4—f2 (dreigt De4f), Kd5—e6,
+2. Tc4—e4f enz.
+OPLOSSING PROBLEEM NO. 156
+van P. J. G. STUIVER.
+
+Wit: Kg7, Da5, Lc3 en h5, pion d6.
+Zwart: Ke4, pion f4.
+1. Lc3—f6, Ke4—d 3, 2. Da5—d5f Kd3—c2 (e3)
+3. Dd5—dlf (d4f).
+1.-..... f4—f3, 2. Lh5—g6f, Ke4—f4 (e3)
+3. Da5—e5f (Del=f).
+DE GESCHIEDENIS VAN HET SCHAAKSPEL.
+(De ontwikkeling van het Arabische schaakspel
+tot het Europeesche).
+
+( Vervolg).
+
+Cessoles, een dpminikaner monnik, nam het
+schaakbord met zijne stukken tot tekst voor een
+reeks van leerredenen, in welke achtereenvolgens
+behandeld werden de plichten der edelen, zinne
+
+beeldig voorgesteld door de groote stukken van
+het schaakspel (koning, koningin, raadsheer,
+paard en kasteel) en die van het volk, voorgesteld
+door de. pionnen. De geestelijkheid laat Cessoles
+met rust. Tiij werkte later zijn preken om tot
+een boek, vol van middeneeuwsche geleerdheid.
+Het boek werd algemeen vertaald en maakte
+grooten opgang. Dit succes pleit zeker ook
+voor de belangstelling, welke het schaakspel
+in het tijdvak van 1250—1500 ondervond, maar
+toch niet geheel, want het waren volgens Dr. A.
+van der Linde 1), vooral de ingevlochten ver
+
+tellingen en citaten, die het boek van Cessoles
+tot een geliefkoosd volksboek maakten.
+Schaken heeft men er stellig zelden of nooit
+uit geleerd. Vooral niet in ons land, want de
+tractus quartus, zeven hoofdstukken bevattend,
+die juist over den loop der stukken handelen,
+is in de dietsche vertaling weggelaten. Het vol
+
+gende vertelsel uit het boek van Cessoles moge
+verklaren waarom het in de middeneeuwen zoo
+populair was,
+Wi lesen van eenen dobbelaer, die al zijn goed
+cuerghebracht hadde. Ende doen S. Bernaert
+hem op eenen wech teghemoete quam rijden,
+doen seyde dese dobbelaer vol verwoetheyt sijns
+herten. Och, oft desen man woude dobbelen teghen
+mi om zijn paert ende om mijn siele." Doen seyde
+S. Bernaert: wildy my u siele gheven, eest dat
+ie meer ooghen werppe op den dobbelsteen
+dan ghy? ie sal mijn paert gheven, eest dat ghi
+meer ooghen werpt dan ick. Doen dye dobbelaer
+dat hoorde, verblijdde hij hem sere, ende werp
+achttien ooghen op die drye dobbelsteenen,
+ende seyde: Ick hebbet ghewonnen, gheeft mij
+dat peert. Doen seyde sinte Bernaert: soon
+best, laet my werpen, want daer syn meer ooghen
+opten steen," die ghij niet en siet. Ende altehant,
+doen sinte Bernaert werp, spranck dye eenen
+dobbelsteen onttwee ende thoonde op die eene
+helft ses ende op die ander helft een ooghe, ende
+op die twee heele steenen stonden twee sisen.
+Aldus werp sinte Bernaert een ooghe meer dan
+hij. Doen die dobbelaer dat sach, sette hij syn lijf
+ende siele in sinte Bernaerts handen ende werdt
+een goet heylich monnick."
+In Cessoles' boek droegen de officieren op het
+schaakbord de volgende namen: In het Latijn
+rex, regina, alphilus, miles en rochus, in het
+Neder-Duitsch: coninc, coninghin, oude (raet)
+ridder, rock; de pionnen hadden allen verschil
+
+lende namen, die op a2 (respectievelijk a7) heette
+ribaldus in de Nederduitsche vertaling: dobbelaer,
+die op b2 (b7) custos civitatis (Ned. burghemeester)
+die op c2 (c7), tabernarius (Ned. tauernyer) die
+op d2 (d7) medicus (Ned. medicijn), die op e2 (e7)
+mercator (Ned. coopman) die op.f2 (f7) notarius.
+(Ned. drapenier), die op g2 (gfl) faber (Ned.
+smet), die op h2 (h7) agricola (Ned. akerman).
+Terwijl in de zuidelijke landen de invloed van
+Cessoles geen spoor heeft achtergelaten in de
+benamingen vsn het schaakspel, ziet men dat
+in Duitschland en Nederland de schaaktaal wel
+degelijk den invlced van Cessoles' boek heeft
+oncervonden.
+De rad, raadsman des konings staat nog
+tegenwoorcig als ra£dsheer op het Nederlandsche
+schaakbord.
+In het vierc'e hoofdstuk van zijn boek behan
+
+delt Cessoles de rechtenen plichten van den raet.
+Des Conincs rael" (zoo lezen we in een der
+Vlaamsche vertalingen van het boek) sal aldus weeën
+gheformeert: Mannen out van jaren, sittende
+met opgheloken boecken voor hen legghende
+Dese voors. Conincx raetslieden sullen studeren,
+ende die bcecken wel ouercien.... Hier om
+eest dat die rechter oud is, ende als hij eerst wt gaet,
+soo mach hij van synen eyghen velde over hoeck
+rr.et rechte op dat derde velt vcor den ackerman
+gaen staen	2) Die selve rechter mag van zijn
+oer eighender stede gaen staen voor den medicum
+.... (d3 of d6). Desghelijcx mach dye slincker
+oude (raet) tot syn eyghen stede aen a ie rechter
+sijde voor den 'coopman gaen staen (e3 of e6),
+want die coopman dicwils raets heeft te doene,
+ende die coopluyden somtijt schelinghe oft twiste
+onder een hebben. Soo is wel reden, dat den raet
+hen bij sij, op dat hij te badt raden mach. Dese
+selve oude (raet) mach tot zijn eyghen staet (d.i. cl
+resp. c8) gaan staen aen die luchter sijde voor
+den rabaut (= ribaldus, dobbelaar, dus op a3,
+resp. a6)	Een yeghelijck heere voorsie hem
+wel, dat hy alsulcken raet kiest, die hem also
+rade, ende dat hij int laetste eynde van God
+goeden loon ontfanghe ende, doense soo, soo is
+daer seer wel gheraden".
+Niet alleen in den raadsheer, maar ook in den
+Duitschen Bauer en (ofschoon nooit algemeen
+gebruikelijk) in de Hollandsche boer (voor pion)
+bemerken we den invloed van Cessoles opde schaak
+
+taal. De akkerman of landbouwer, die volgens
+Cessoles' symboliek op h2 (resp. h7) stond, werd
+langzamerhand ook als naam gebruikt voor de
+overige venden en bleef straks als boer niet alleen'
+in Duitschland maar in alle Noordelijke landen
+(Denemarken, Zweden, Noorwegen en Rusland)
+bestaan.
+Wat nu onze raadsheer betreft, terecht mrrkt
+Dr. van der Linde in het hierboven door ons aange
+
+haalde boek op, dat deze kwalijk past in het
+moderne schaakspel (d.i. na + 1500) en dat het
+woord looper beter past bij ce snelle beweging
+welke dit schaakstuk na ± 1500 is tcegestaan.
+Ook de Fransche pion (voetganger) die gelukkig
+in ons land den boer heeft op zijde georongen,
+past beter in een leger dan de Duitsche Bauer,
+al zijn ook boerenoorlogen in alle tijden voorge
+
+komen.
+Van groot historisch belang is" wat Cessoles
+zegt van den loop der schaakfiguren. Immers
+hieruit blijkt, dat reeds in 1275 de spelregels
+van het Arabische schaakspel eenige wijziging
+hadden ondergaan. Deze wijzigingen betrotfen
+de beweging van den koning, van de koningin
+en van de pionnen. Cessoles beschrijft duidelijk
+daf de koning, indien hij nog op zijn oorspronke
+
+lijke plaats zich bevond, behalve n veld in alle
+richtingen mocht gaan naar het derde veld en
+wel ten eerste als een toren, dus van el naar gl,
+cl en e3, ten tweede .als een raadsheer, dus naar
+g3 en c3 en ten derde als een paard naar d3 en f3
+en ook naar c2 en g2. Wanneer die velden vrij
+waren, zooals Cessoles uitdrukkelijk er bijvoegt.
+Ja het schijnt zelfs geoorloofd geweest te zijn, den
+koning naar het vierde veld te brengen in casu
+naar b2, wanneer hij daarbij de koningin mee
+
+voerde, want hi met zijnre coninghinnen
+vereenicht is, so mach hi van zijn eyghen stede gaep,
+recht oft hi van der coninghinnen stede ghinghe
+staen op des wachters (= custos civitatis = burghe
+
+meester) stede." Zoo luidt het in een der
+Vlaamsche vertalingen van Cessoles' boek. Vermoedelijk
+vond deze nieuwigheid haar oorsprong in de be
+
+geerte de legers sneller bij - elkaar te brengen.
+Het deelnemen aan den strijd werd den koning
+veel gemakkelijker.
+Ook de koningin, die zooals men zich herinneren
+zal, slechts n veld in schuine richting mocht
+gaan, zoowel vóór- als achteruit, kreeg in Cessoles'
+tijd meer vrijheid van beweging. Zij mocht mits nog
+op haar oorspronkelijke standplaats twee velden
+in schuine of rechte richting doorloopen, dus
+den sprong eens raadsheers of van een toren doen,
+niet dien van het paard, dus nimmer van dl
+neer c3, wel naar d3, bl of fl. Een manuscript
+uit Picardiëvermeldt den spelregel, dat het ge
+
+oorloofd is den sprong van den koning en der
+koningin, tegelijkertijd te doen, dus voor n
+zet te laten gelden. In een en ander ziet men
+duidelijk de voorbereiding tot de rochade, welke
+in Cessoles tijd nog niet bestond.
+Veel grooter gewicht dan de genoemde
+verandederingen had voorde ontwikkelingvan het schaak
+
+spel, het feit, dat de pionnen van hun oorspron
+
+kelijke plaats twee passen vooruit mochten.
+Ook deze nieuwheid had klaarblijkelijk ten doel
+de legers vlugger tegenover elkaar te brengen
+De geheele openigsleer der Arabieren werd hier
+
+door te niet gedaan, met het gevolg, dat niets van
+de Tabij'.n in de Europeesche schaakliteratuur
+is overgegaan. Van hoeveel belang deze veran
+
+dering was, zegt J. Kohtz in Bilguers' Handbuch
+kan ieder schaakspeler zich indenken, als hij
+eens probeert een'partij te spelen zonder de dub
+
+bele schreden der pionnen. Geen enkel gambiet,
+ja zelfs geen enkele der bestudeerde openingen
+kan hij meer spelen. Alles, wat we theorie noemen
+houdt op. Ook op het eindspel had de dubbele
+schrede invloed, daar hierdoorde pion gelegenheid
+kreeg een tempo te winnen en zoodoende menig
+eindspel gewonnen kon worden, dat anders remise
+was. De dubbelschrede der pionnen heeft dus de
+mogelijkheid van het remise verminderd, en
+daardoor de waarde van het schaakspel verhoogd.
+Ook het feit, dat in Cessoles' boek de nieuwe
+koningin, die op de achtste rij uit een pion
+ontstaan was, bij zijn eerste zet een veld mocht
+overspringen, dus een tempo kon winnen, was
+van groot belang, immers de 'oude ferzan kon
+geen tempo winnen. Vele pionnen-eindspelen,
+oie bij de Arabieren onbeslist bleven, konden
+nu gewonnen worden.
+(Wordt vervolgd)
+
+1) Dr. A. van der Linde. Het Schaakspel
+in Nederland.
+2) Dus op h3, resp. h6.
+INHOUD: 1. Een horoskoop voor 1924, door
+Prof. Dr. G. W. Kernkamp, 2. Tijdgenooten, d.
+Dr. W. G. C. Byvanck 3. Het ontslag van de
+gehuwde ambtenares, teekening door Joh.
+Braakensiek De ministercrisis, door Prof. Dr. H.
+Brugmans 4. Internationale Puzzle, door
+Brandaris 5. Israëls wezen en willen, door J.
+Ornstein—Hoofiën Spreekzaal 6. Vol au
+Vent 7. Uit de natuur, door Dr. Jac. P. Thijsse
+8. Bijkomstigheden, door Annie Salomons 9.
+Nieuwe Duitsche boeken, door Chr. de Graaft
+11. Voor Vrouwen: Frisch beginnen, door Elis.
+M. Rogge Vrouwenbelangen, door W. Wijnaendts
+Francken-Dyserinck 12. Schilderkunstkroniek,
+door A. Plasschaert De Scandinaviërs te Parijs,
+door Conrad Kickert 13. De Noormannen in
+Nederland, door Prof. Dr. A. G. van Hamel 14.
+Dramatische Kroniek, door Top Naeff Het
+nieuwe kleed van de Groene, teekening doorGeorg
+van Raemdonck 15. Muziek in de hoofdstad,
+door Constant van Wessem Boekbespreking,
+door C. M. van Hille-Gaerthé17. Van schrijvers
+en geschriften, door Mr. Jacob Israël de Haan
+19. Op den Economischen Uitkijk, door Jhr. M. H.
+Smissaert Dierstudie, teekening door H.
+Verstijnen 20. Van Marionetten en Sprookjes, door
+Samuel Falkland De ministercrisis, teekening
+door Jordaan 21. Charivariaen Buitenl. humor,
+door Charivarius Brieven uit Soetoekoekianda,
+door Barbarossa 22. Uit het Kladschrift van
+Jantje 23. Brieven van een ter dood veroor
+
+deelde, door G. Alexinsky 24. Schaakrubriek,
+red. Dr. A. G. Olland.
+Bijvoegsel: Het vermoedelijk einde van de crisis,
+teekening door Joh. Braakensiek.
+
+</text>
+<image timestamp="2002:09:05:09:20:45.00" size="290517">D10004U6.TIF</image>
+</page>
+</document>

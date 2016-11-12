@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130622</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+6
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+. 22 Juni '13. No.. 1878
+DE OP 17 JUNI BIJ EERSTE STEMMING GEKOZEN TWEEDE KAMERLEDEN
+Concentratie en Sociaaldemocraten
+
+Teek. Joh. Braakensiek Foto Reissig
+De Coalitie: Christelijk-Historischen, leden van de Anti-Revolutionaire partij en Roomsch-Katholieke afgevaardigden
+
+Teek. Joh. Braakensiek
+Mr.H.Ooeman Borgesius,(U.L.), Mr. M. Tydeman, (V.L.), Jhr.Mr. A. F.deSavornin L.F.Duymaerv.Twist,(A.R.), N. Oosterbaan, (A.R.),
+afgev. voor Emmen] afgev. voor Tiel Lohman,(C.H.)afgev.v.Goes afgev. voor Steenwijk afgev. voor Enkhuizen
+Dr. W. H. Nolens, (Kath.),
+afgev. voor Venlo
+Mr. J. Loeff (Kath.),
+afgev. voor Waalwijk
+r. P. J. M. Aalberse:(Kath.),
+afgev. j voor Almelo
+Prof. Mr. a A. v. Hamel (U.L.),
+afgev. voor Amsterdam IV
+
+
+Foto de Louw
+Mr. R. J. H. Patijn (U. L.), Mr. J.W. H. M. v. Idsinga (C. H.),
+[afgev. voor Zierikzee afgev.^voor Bodegraven
+
+Foto Wentzel
+J. v. d. Molen (A. R.),
+afgev. voor Sliedrecht
+Mr. V. H. Rutgers (A. R.),
+afgev. voor Hilversum
+B. R. F. van Vlijmen, (Kath.),
+afgev. voor Veghel
+Mr. F. Jansen,
+afgev. voor Maastricht
+P. F. Fruytier, (Kath.),
+afgev. v. Hontenisse
+
+
+Foto Schreurs
+J. C. lansen (U. L.) afgevaar- Mr. W. H. de Beaufort (V. L.) Mr. R. van Veen (C. H.)
+d i gel e voor Den Haag III afgev. voor Amsterdam VI afgevaardigde voor Dokku
+Mr. R. van Veen (C. H.) P. van Vliet (A. R.) afge- Ds. C. van der Voort van Zijp Mr. A. J. M. baron van Wijn- Jhr. mr. O. F. A. M. van Nispen Mr. Th. J. A. Duijnstee (Kath.)
+afgevaardigde voor Dokkum vaardigde voor Doetinchem (A.R.) af g. v.Tietjerksteradeel bergen (Kath.) afg. voor Eist tot Sevenaer (Kath.) afgev. v. afgevaardigde voor Druten
+Nijmegen, Voorzitter
+Foto Büttinghausen
+Charge mevr. de Roode
+Foto Francis Kramer
+Foto De Lavieter
+Foto Schreurs
+Mr. H. Smeenge (U. L.),
+afgevaardigde voor Meppel
+Mr. C. Th. v Deventer(V.D.),
+afgevaardigde voor Assen
+Mr. dr. J. Ankerman (C. H.), Jhr. mr. D. J. de Geer (A. R.), Ds. A. Brummelkamp (A. R.), Mr. D. A. P. N. Kooien (Kath.),
+afgevaardigde ivoor Harlingen afgevaardigde voor Schiedam afgev. voor Loosduinen afgevaardigde voor Grave
+Foto Zimmermans
+Foto Stutz
+Jhr. I. B. D. v. d. Berg van
+Heemstede (Kath.),
+afgev. voor Oosterhout
+
+Foto de Louw
+W. H. Bpgaardt (Kath.),
+afgevaardigde voor Breda
+Jhr. R. de Muralt (U.L.)
+afgev. voor Oostburg
+
+Foto Miedema
+Mr. H. P. Marchant (V.D.) Mr.O.J.E.baronv.Wassenaer v. F. H.de MontéverLoren(A.R-) Jhr.mr.Ch.J.M.Ruys deBeeren- F. H. van Wichen (Kath.) Jhr.J.W.J.C.M.v. Nispen tot Se- Jhr. VictorJJde Stuers (Kath.)
+afgev. voor Deventer Catwijck (C.H.) afg. v.Katwijk Jafgev. voor Breukelen brouck (Kath.) afg. v. Gulpen afgev. voor Haarlemmermeer venaer i(Kath.) afg. v. Rheden afgevaardigde voor Weert
+
+
+Foto Schreurs
+J. H. Lasonder (U.L.),
+afgev. voor Rotterdam III
+Mr.P.J.Troelstra(S.D.),
+afgev. v. Amsterdam III
+Jhr.G.J.A.Schimmelpenninck
+(Vrij C.H.), afgev. voor Ede
+Mr. H. A. v.d.Velde(A.R-),
+afgev. voor Delft
+J.H.J. Beckers (Kath.),
+afgev. voor Sittard
+Jhr.Mr.A.F.O.v.Sasse v.IJsselt
+(Kath.), afgev. v. Den Bosch
+A. H. A. Arts (Kath.),
+afgev. voor Tilburg
+A. C. A. van Vuuren (Kath.),
+afgev. voor Zevensbergen
+
+</text>
+<image timestamp="2002:08:20:01:18:33.00" size="481910">D40000SQ.TIF</image>
+</page>
+</document>

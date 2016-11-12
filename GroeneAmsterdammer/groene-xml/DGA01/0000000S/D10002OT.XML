@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180202</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+OOSTENRIJ K—A M E R I K A ....(?)
+Nadruk verboden
+BIJVOEGSEL van cDe Amsterdammer". Weekblad voor Nederland, van 2 Februari 1918.
+VREDES VOORWAARDEN
+De Duitsche
+dril-sergeant: Kijk recht voor je uit, Oostenrijk! n - tw
+Allén op mij letten!"
+Amst. Boek- en
+
+n - twé....
+Steendrukkerij, v/h. Ellerman Har nis &amp;
+Co
+
+</text>
+<image timestamp="2002:08:22:18:48:43.00" size="179313">D10002OT.TIF</image>
+</page>
+</document>

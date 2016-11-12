@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260626</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2560
+J. D. STRUIJS &amp; Znu
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+PHOENIX-MEUBELEN"
+
+Voor WONING en KANTOOR zijn GOED, GOED
+
+KOOP en worden onder GARANTIE geleverd &lt;*» &lt;*&gt;
+
+BEHANGEN - STOFFEEREN - BEDDENMAKERIJ
+
+A atn
+UdUl
+| OPGERICHT myt
+Magazijn Damrak 76 Tel. 48489 &lt;*s eo w cv cxs cvs
+Fabriek-Toonkamers Warmoésstraat 141 Tel. 42689
+iü'
+BONBCNS
+EUASPIBOMMB:
+BOS^BINDER
+KERKSTRAAT 53
+AMSTBRDAM
+BEGRAFENISVEREENIGING
+
+N. SAX }r.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers l
+Bij ons verkrijgbaar
+
+N. R. V. MONTA SCHOENEN
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+
+N.v. ,,DE HOUTTUINEN", AMSTERDAM
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H AMSTERDAM TeL 42662
+
+MARMERWERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+Standard
+De populaire
+EngelscheAuto
+die iedereen voldoet
+DIRECT LEVERBAAR.
+
+Hoofdagent: J. WITMONDT
+
+21 Westermarkt Amsterdam.
+ASPERGES.
+
+Fijnste, dik, blank, frisch, franco
+huis, postw., kistjes stevig verpakt,
+4 pd. f 3.50, 6 pd. f 4.50, 8 pd.
+f 5.50, S lier as p. 25% meer.
+Lengte steril. 75% juiste glasmaat.
+FIRMA ISIDORUS
+Bergen-op-Zoom. Tel. Interc. 119
+Kolcfewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badfafels Baby bascules
+. . Linncnmanden • • .
+
+</text>
+<image timestamp="2002:09:25:20:01:06.00" size="139011">D10007PO.TIF</image>
+</page>
+</document>

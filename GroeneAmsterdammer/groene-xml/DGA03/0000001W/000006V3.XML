@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280825</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMED/FOODT
+(30EDKOOPBBOUWGBQND
+voon.
+Inlichtingen:
+
+Gemeente Grondbedrijf
+Westsingel 45
+AMERSFOORT
+(Telefoon 15 en 406)
+
+Rljfc geïllustreerde brochure
+wordt op verzoek gratis en
+franco toegezonden.
+LANDGOED
+BIRKHOVEN
+HOTEL-PENSION
+RESTAURANT
+
+100 H.A. Bosch
+
+5 Sept.
+
+NAJAARSTARIEF
+M. L. JORRITSMA,
+Amersfoort Directeur
+NARAG-CLASSIC
+meest eenvoudige en beslist spaarzame
+
+CENTRALE VERWARMING
+voor
+KLEINERE HUIZEN, ETAGE-WONINGEN,
+KANTOREN, WINKELS, enz.
+
+Geen Kelder noodig. Overal te plaatsen.
+Inlichtingen gratis.
+
+Met slechts n toestel van geringe afmetingen, opgesteld in
+keuken, hall of kamer, worden meerdere vertrekken verwarmd
+en BELANGRIJK aan brandstoffen, tijd en werk BESPAARD.
+
+Aanleg uitsluitend door Installateurs van
+Centrale Verwarmingen
+
+Fabrikanten: NATIONAL RADIATOR COMPANY
+Alleenvertegenwoordigers voor Nederland:
+
+PECK &amp; Co., AMSTERDAM
+,OEDEWAAGEN'ST
+
+IKROONPIJPEN
+•i	»»»
+u GESLOTEN DOQZCN;
+VAN 6 STUKS
+BOEKENKASTEN
+volgens afb. eikenhout
+met verstelbare borden,
+afm. breed 130 cM.
+hoog 110 cM. franco
+huis zonder gordijn ƒ 27.
+Vraagt foto's en prijzen.
+l
+5 DEN"
+Barestraat - Groningen
+Handelsdrukwerk- Periodieken - Catalogi
+
+
+Drukkerij x lantijn
+
+
+Amsterdam
+
+
+Reclamedrukwerk - Geldswaardig Papier
+Wed-ERAHDERöZ-u
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+
+~~ 's~Gravenhage
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+PdjKooranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIÊN
+LangftM. Ruime cockpit,8-9pers.
+s Vraagt prospectui.-Üit voorraad.
+I" WERF//MICOLAA5 WIT5EN"
+STOEL-ALKMAAR
+Een mooi Meisjesboek
+
+J. P. ZOOMERS-VERMEER
+
+Stormvogeltje
+
+Oorspr. meisjesboek, met
+illustraties van Freddy
+Langeler en omslag van Eelco
+ten Harmsen v. d. Beek.
+
+Ing. f 1.75; Geb. f 2.50
+
+Uitgave van v. Holkema &amp;
+Warendorf's Uitg.-Mij., A'dam.
+
+</text>
+<image timestamp="2002:09:05:03:52:25.00" size="124699">000006V3.TIF</image>
+</page>
+</document>

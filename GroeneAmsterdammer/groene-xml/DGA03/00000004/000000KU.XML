@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19061104</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+No. 1532
+Pieter de Josselin de Jong
+en zijne nalatenschap.
+
+Pieter Josselin de Jong werd in 1861 te
+8t. Oedenrode, in Noord-Brabant, geboren en
+overleed te 'gGravenhage den 4den Juni
+1906, in de kracht van zijn artistiek kunnen.
+Ala jongen schilderde hij reeds en zag men
+aanleg in hem. Daarom deed zijn vader,
+notaris te St. Oedenrode, hem op de Konink
+
+lijke School voor beeldende Kunsten te
+'s Hertogenbosch, waar hij veel leerde van
+den schilder Slager.
+Van 's Hertogenbosch ging bij naar Ant
+
+werpen om aan de Akademie aldaar, tegelijk
+met Bastert, Dake, Haverman en Voerman,
+verder te studeeren. Aan het einde van
+het eerste studiejaar verwierf hij er den
+prijs van uitnemendheid.
+Na den dood van zijn vader zorgde Koning
+"Willem III en Koningin E m ma, dat hij te
+Parijs verder kon studeeren. Door het
+schilderstuk De Inquisitie", dat hÜdaar
+schilderde, verkreeg hij naam en bekendheid.
+Uit Parus verhuisde Josselin de Jong
+naar 's Gravenhage. Daar schilderde hij
+een zijner beste werken: Kaïn vluchtende
+na de moord op zijn broeder", (zie de
+afbeelding).
+Al spoedig drong zijn naam, en de faam
+van zijn talent door in de hofkringen.
+Koningin Emma droeg hem op het portret
+te schilderen van Prinses Wilhelmina, toen
+vijf jaar oud.
+In het portretschilderen heeft P. de Jos
+
+selin de Jong groote bekwaamheid getoond.
+Dit bewijzen zijn portretten van Prof. Tiele,
+van den oud-burgemeester Mr. S. A. Vening
+Meinesz, van Mevr. Mann-Bouwmeester,
+van Jhr. Mr. Victor de Stuers, van Charles
+Kochussen, e. a.
+Bij voorkeur schilderde hij menschen, ge
+
+doemd tot harden arbeid, tot zwoegen en
+slaven. Zoo ontstonden zijn puddlers"
+kolenscheppers, sjouwers, gravers, enz.
+Met den ook reeds verscheiden Th. de
+Bock richtte hij de Haagsche Kunstclub op.
+Koningin Wilhelmina heeft hem benoemd
+tot Ridder in de orde van Oranje-Nassau.
+Van al de portretten, door hem geschil
+
+derd, is het portret zijner moeder het voor
+
+treffelijkste.
+Niet ouder dan 45 jaar is Pieter Josselin
+de Jong geworden.
+Al zijne kunst, die niet in particulier be
+
+zit is, wordt weldra, Zondag 11 tot Woens
+
+dag 14 November a. s., door H. G. Tersteeg
+en J. Tersteeg in de kunstzaal van het
+genootschap Pulchri Studio", Lange Voor
+
+hout, te 's-Gravenhage, tentoongesteld en
+aldaar 15 en 16 November verkocht.
+Pieter Josselin de Jong's nalatenschap
+bestaat uit schilderijen, studies, teekeningen,
+schildersbenoodigdheden, oude meubelen,
+o.a. enkele oud-Hollandsehe kasten, (zie
+afbeelding), enz.
+Onder de tentoongestelde schilderijen
+komen e. m. voor: Zwarte Ploegpaarden,
+In. de Gieterij, IJzergieterij,. Salomé's
+dans, Werkman, Drinkende paarden,
+(Gouden medaille tentoonstelling St. Louis
+1904. Zie de afbeelding), Puddler, Het gieten
+met den handlepel, Tusschen de heuvels,
+Paus Leo XIII in de Kerk van St. Pieter
+den zegen gevende, Tulpenvelden, Arbeiders
+in een gieterij, Drie Seheveningsche meisjes,
+Japansch meisje, Arenlezende vrouw, Dorp
+in Limburg, Een zware vracht, enz.
+P. DE JOSSELIN DE Joso.
+Oud-Hollandsehe kast.
+Oud-Hollandsche kast.
+Drinkende Paarden (Limburg).
+Kaïn, vluchtende, na de moord op zijn broeder.
+Bloembollen velden.
+Paddier.
+
+</text>
+<image timestamp="2002:08:11:10:56:35.00" size="361029">000000KU.TIF</image>
+</page>
+</document>

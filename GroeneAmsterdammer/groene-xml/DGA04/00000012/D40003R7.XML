@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19211029</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+29'0ct. '21, No. 2314
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+E. K. DLHRING
+(In memoriam 1833—1921.)
+Met enkele woorden zullen wij trachten
+D's beteekenis als denker, hervormer en
+onderzoeker te schetsen. Wij stellen hierbij
+voorop, dat een volledige schets, als gaande
+boven onze krachten niet. is beoogd. Want
+D. was behalve oorspronkelijk philosoof en
+econoom, mathematicus, natuurkundige,
+jurist, propagandist, literatuurkenner en
+rassen-theoretikus, en onderscheidde zich op
+alle deze terreinen door baanbrekende onder
+
+zoekingen. Onder deze omstandigheden is het
+duidelijk, dat slechts een man van Dühring's
+kennis en veelzijdigheid, wetenschap
+
+pelijke prestaties juist zou kunnen schetsen.
+Das Bessere is echter dikwijls der Feind
+des Outen. Wij meenen een goed werk te doen,
+indien wij trachten een indruk zij het ook
+een oppervlakkigen indruk te geven van
+de oorspronkelijkheid, diepte en
+gedachtenrijkdom van D's werken, waarbij wij ons
+noodgedwongen vooral beperken tot die
+terreinen zijner werkzaamheden (economie en
+recht), waarin wij eenigermate deskundig
+zijn en overigens tot die punten, welker kennis
+voor eene juiste waardeering van zijn persoon
+en denkbeelden noodzakelijk zijn. Daar D.
+in hooge mate concentrisch denker is, levert
+deze beperking betrekkelijk weinig bezwaar
+op. Want in bijna elk onderdeel van D's
+systeem weerspiegelt zich zijn gansche
+gedachtenwereld.
+Het eigenaardige van D's persoonlijkheid
+bestaat in het samengaan van een begaafd
+en kritisch denkvermogen mét een krachtig
+en fijn gevoel voor moraal en recht.
+,,Verstandesgemasz und gerecht" is D's devies.
+Het verstand is hem hoogste instantie, het
+begrijpelijke poolster voor zijn
+gedachtenleven. Alles zooveel mogelijk begrijpen, het
+onbegrijpelijke als zoodanig scherp omlijnen,
+het tegen ons verstand indruischende als
+gif bestrijden en verdelgen was steeds D's
+streven. Uit dezen wortel is zijn
+logomathisches System", dat nauw verband legt
+tusschen het logische en het mathematische
+opgegroeid; hieruit moet zoowel zijn vijand
+
+schap tegen godsdienst, bijbel en Jodendom
+als zijn afkeer van spiritisme, magnetisme,
+mysticisme, scepticisme, meer dan driedi
+
+mensionale meetkunde en
+onsterfelijkheidsgeloof enz. worden verklaard. Zijn Ersatz
+der Religion" en zijne Literaturgrössen"
+staan in het teeken eener uitzuivering van
+de z.i. verderfelijke, anti-verstandelijke,
+Semitiesch-Aziatische invloeden. De
+niet-Semitiesche rassen en inzonderheid het
+Germaansche ras, moeten zichzelf worden op zedelijk,
+religieus en literair gebied.
+Hoewel denker bij uitnemendheid stelt
+D. den goeden wil nog boven het jui„ste denken.
+Sterk komt dit uit in zijn Geschichte der
+Philosophie", die zoowel de gezindheid der
+wijsgeeren als het waarheidsgehalte hunner
+stelsels bedekt, maar aan de goede gezind
+
+heid hoogere waarde toekent. Willenen denken
+moeten elkander aanvullen en in voortdurende
+wisselwerking staan. Maar in laatste instantie
+is het de goede wil, die ook aan ons denken
+en wetenschappelijk streven ware stuwkracht
+en juiste richting geeft. D's gansche willen
+en denken is met opoffering van lagere
+belangen, in dienst gesteld van een diep door
+hem gevoelde roeping. Hij heeft het als zijne
+persoonlijke hoofdtaak gevoeld, onechte we
+
+tenschap en kunst, religie en zoogenaamde
+philosophie te bestrijden en daarvoor in
+de plaats de grondslagen te leggen van eene,
+alleen op de werkelijkheid steunende, wereld
+
+en levensbeschouwing, die hoofd en hart
+bevredigde en door ware gerechtigheid en
+beter moraal een edeler maatschappij zou
+mogelijk maken. Dit dorsten naar gerech
+
+tigheid en echte degelijke wetenschap heeft
+zich in D's leven en werken nimmer verloo
+
+chend. Meermalen trad hij met woord en
+daad. op voor z.i. miskende persoonlijkheden
+(R. Mayer), steeds was het zijn ernstig streven
+ware inteltektueele en moreele grootheid te
+eeren (Christus, Spinoza, Giordano Bruno,
+Galileï, Burger, Byron, List, Carey),
+schijnverdienste (Goethe, Schiller, Lessing, Heine).
+plagiaatplegende professoren, Deine Wissen
+
+schaft" en Metze Kunst te ontmaskeren.
+Het leven is voor D. iets Einmaliges",
+dat met de geboorte begint, met den dood
+eindigt. D's Wirklichkeitslehre" is een leer
+van den levensmoed, die de uitersten van
+levensvertwijfclend pessimisme en overdreven
+optimisme met nuchter kritischen zin ver
+
+mijdt. In zijn Wert des- Lebens" waardeert
+D. op populaire wijze de onderscheidene ge
+
+bieden en stadia des levens.
+Da grondwaarheden van moraal en recht
+hebben voor D. absolute geldigheid, als de
+axiomata en toepassing der wiskunde. Deze
+grondbeginselen zijn boven de wisselingen
+van plaats en tijd verheven; de principia van
+richtig recht en juist willen zijn onwankelbaar
+in de menschelijke natuur verankerd, Tegen
+
+over den nihilistischen twijfel aan de waar
+
+heden van het natuurrecht stelt D. een diepere
+fundeering van het recht. Bezonnen en gere
+
+gelde wraak is hem de sleutel tot alle straf
+
+recht. En alle overig recht heeft slechts ten
+doel gedragingen te bevorderen, welke wraak
+onnoodig maken. De wraaktheorie is het
+fundament van alle juridische en moreele
+gerechtigheid. De kern van moraal en recht
+is dezelfde; het verschil van beide gebieden
+betreft slechts de wijze van handhaving
+hunner wetten.
+D's wraakprincipe gaat boven staat en
+maatschappij uit en heeft de souvereiniteit
+van het individu tot onmisbare voorwaarde.
+Dit principe is een middel, niet alleen om
+de historische gerechtigheid te begrijpen, maar
+ook om haar uit te oefenen. Van buitengewoon
+belang is dit principe op het terrein der ver
+
+deeling in de economie; het is een middel de
+verdeelingswijze der tegenwoordige maat
+
+schappij aan de eischen der gerechtigheid
+te toetsen en de politieke stroomingen in de
+richting eener juiste verdeeling te beïnvloeden.
+Het verband tusschen economie en moraal
+legt D. door in zijn Cursus" tusschen
+Eigennutz"(het recht van anderen krenkend egoïsme)
+en Interesse" (geoorloofd eigenbelang) te
+onderscheiden. De gerechtigheidsidee is voorts
+de wortel van D's kritiek op de Manchester
+economie en het Marxisme.
+Men ziet het Ve'rstandesgemasz und
+gerecht" verloochent D. ook bij de behande
+
+ling der sociale wetenschappen niet. Politiek
+recht en economie hangen onafscheidelijk en
+innig en onderling en met het geheel van D's
+wereld- en levensbeschouwing samen. Zoo
+heeft b.v. zijn mathematische kennis op zijn
+behandeling der sociale wetenschappen een
+gunstfgen invloed geoefend.
+Ter verduidelijking zijner politieke, juri
+
+dische en economische denkbeelden maakt D.
+gebruik van een Robinsonade en een schema
+van 2 personen. A. en B. kunnen maatschap
+
+pelijk tot elkander in de verhouding staan
+van heer en slaaf, heer en lijfeigene, grond
+
+eigenaar en loonarbeider, ondernemer en
+loonarbeider en van twee economisch gelijk
+
+waardige persoonlijkheden. Deze laatste ver
+
+houding alleen is typisch voor D's vrije
+maatschappij der toekomst, waarvan alle
+leden in koöperatieve samenwerking hunne
+krachten tegen de natuur zullen aanwenden;
+tot dusver zijn alle maatschappijen op po
+
+litieke, juridische en economische onder
+
+drukking gegrond geweest; veel menschelijke
+kracht is niet ter versterking van de,heer
+
+schappij over de natuur aangewend, maar
+in onderlinge geweldpleging misbruikt. Deze
+schema's dienen D. ook tot verheldering
+zijner moraal-theorie en tot uiteenzetting
+van de economische produktie- en
+verdeelingstheorie. Zij getuigen van een groot me
+
+thodologisch inzicht en van een uitnemend
+doceerend talent. Het is dan ook geen toeval,
+dat D's leerboeken door een eenvoudige,
+overzichtelijke ordening der stof ver boven
+de gebruikelijke uitblinken.
+In dit verband zij vermeld, dat D. niet
+alleen als zeer gezocht praktisch docent en
+als kundig schrijver van systematische en
+historische leerboeken, doch ook als door
+
+tastend onderwijshervormer is opgetreden.
+Het zou te ver voeren, hier van D's eco
+
+nomische denkbeelden een uitvoerige uit
+
+eenzetting te geven. Men vindt in D's
+sys• teem de beste elementen van vroegere en
+latere stelsels tot n imposant geheel
+vereenigd. In het kort komt zijn
+economischsociologische gedachtenwereld hierop neer,
+dat hij de doeleinden van het socialisme
+door een rechtvaardiger eigendomsrecht langs
+liberalen vrijheidsweg wil verwezenlijken.
+Zijne desbetreffende ideeën leven in de stelsels
+van Hertzka en Oppenheimer, in het libe
+
+rale Socialisme voort en hebben ongetwijfeld
+nog een groote toekomst.
+Vooral wat zijn anti-godsdienstige en
+rastheoretische beschouwingen betreft, is
+er in D's grootsche gedachtenwereld veel,
+wat ons tegen de borst stuit, van negatieve
+of voorbijgaande waarde toeschijnt. Dit belet
+ons echter niet een man te eeren, die onder
+iiiniiiiniiiiiilmilliilliiiMilllllilllllllllllllllllllillllllllllllllll
+Erna
+Het is juist een jaar geleden, dat Erna
+Rubinstein voor 't eerst in ons midden was.
+Zij gaf een drietal concerten in de Kleine
+Zaal, en het was naar aanleiding van het
+tweede, dat ik in het nummer van 16 Oct. '20
+uitvoerig en enthousiast over" haar schreef.
+In de pauze van het concert had ik het aan
+den stok kunnen krijgen met een onzer geac
+
+crediteerde violisten, die mij over Erna en
+haar spel niets anders had te zeggen dan deze
+zes woorden: Daar is de knoet bij geweest."
+Ik heb mij omgedraaid, en liet dezen man
+van 't vak met zijne bedenkingen tegen Erna's
+tempo in het Allegro molto vivace" van het
+Mendelssohn-concert gaarne alleen.
+Wat den knoet" aangaat, ik schreef
+onder meer het volgende:
+Een wonderkind zie ik voor mij in Erna
+Rubinstein in 't geheel niet. Veertien of reeds
+zeventien, gelijk wordt rondgefluisterd,
+zij is geen kind" meer. Een piepjonge
+musicienne is zij, begaafd met een
+oer-krachtigen muzikalen aanleg, en zeg gerust: gedrild
+door een geboren paedagoog, een kenner der
+waarde van de oefening, een, die intuïtief en
+voorts uit veeljarige ondervinding weet, hoe
+den discipel het zich-oefenen kan worden
+bijgebracht. Drillen kan beulswerk worden,
+namelijk in het geval, dat men de pretentie
+heeft, het middelmatige in superioriteit te
+kunnen omtooveren. Muzikaal is Erna Rubin
+
+stein van huis uit supérieur. Laten wij haar
+niet beklagen. Ze heeft zonder twijfel hard
+moeten ploeteren, dag aan dag, maar het
+noodige inzicht was haar geschonken, om te
+kunnen beseffen, hoezeer haar werken vruch
+
+ten droeg. Laten wij haar vooral niet beklagen:
+voorwaar, eene als zij moet de vreugde van
+den arbeid kennen! Is ze niet een koningin
+boven zoovele zusteren, die dag aan dag
+urenlang achter de boeken zitten, met de
+zekerheid, dat het toch allemaal niets
+geeft?"
+Als een koningin is Erna Zondagmiddag
+gehuldigd. De heele zaal, het balcon, alles
+stond op, en het applaus had den echten
+jubel-klank.
+Laat Nurks nu maar weer wat uitvinden,
+wij willen volop bewonderen, wat volop
+bewondering verdient, volop bewonderen,
+naar de inspraak van ons hart. Het is maar
+zoo zelden, dat wij het mogen doen.
+Het was weer het Mendelssohn-concert,
+dat de kleine Rubinstein speelde, en wér
+heeft haar tempo in den slot-satz, naar het
+verhaal gaat, een kenner aanleiding gegeven
+tot een opmerking, in dit geval Mengelberg,
+die op de repetitie, onmiddellijk na den inzet,
+moet hebben afgelikt, zeggende : Hoho,
+SCHILDERIJEN RESTAUREEREN
+is geen zaak om toe te vertrouwen aan den
+eersten den besten, maar aan die er allén
+zijn vak van maakt
+C. B. VAN BJHEMEN - L EN HAAG
+P E VA L U.T A-S PECULANT
+
+Teekening voor de Amsterdammer" van Jordaan
+IIIIIIIIIIIHIIMII
+ongelooflijk moeilijke omstandigheden en
+niettegenstaande hardnekkige tegenwerking
+van overmachtige en weinig skrupuleuze
+vijanden, den strijd voor wat hem waarheid
+en recht toescheen, tot het einde toe heeft
+volgehouden. In een boek over Einstein, dat
+D. als natuurkundige ter sprake brengt,
+verklaart de ontdekker der algemeene rela
+
+tiviteitstheorie, dat de vraag of ook D. in
+de Walhalla der gröszten Geister gehort"
+niet zonder meer ontkennend kan worden
+beantwoord. Voor de ons meer bekende ter
+
+reinen van economie en recht durven wij
+beslister te spreken. Wij zijn overtuigd, dat
+D. door zijn optreden voor het natuurrecht
+en abstracte economische theorie in dagen
+toen het historisme hoogtij vierde, zeer groote
+verdienste heeften dat aan de grondgedachten
+van zijn liberaal-socialistisch systeem de
+toekomst behoort.
+Den Haag, 22/10 1921.
+
+Mr. Dr. A. S p A N j E K
+llllllllllllllllllllllllllllllllllMIIIIIHMIinillllllllllllll
+FRANSCH TOONEEL
+Amants. Tournee Jeanne Provost. Stads
+
+schouwburg, Amsterdam 21 October
+1921.
+Een waarlijk voortreffelijk denkbeeld van
+de Directie van onzen Stadsschouwburg om, te
+midden van het meerendeels ondoelmatig
+geëxperimenteer dat tusschen de muren van
+onze stads-kunst-tempel plaats vindt, door
+het geven van buitenlandsche voorstellingen
+ons een welkome verademing te schenken.
+Doch wanneer deze opzet tot goede, daad
+
+werkelijke resultaten wil leiden, dan zijn
+drie factoren noodzakelijk: een goed stuk,
+een alleszins voortreffelijke uitvoering en
+abordabele prijzen der plaatsen.
+De keuze van Maurice Donnay's: Amants",
+mag geen gelukkige worden genoemd. Door
+de vijf lange bedrijven wordt de gladde, een
+enkele maal slechts geestige, dialoog heen
+getrokken zonder dat noch intrige, noch
+conflict de belangstelling tot spanning weet
+op te voeren. Er is voor onze Hollandsche
+levenspheer iets onbelangrijks in deze
+milieuschildering en dit gegeven waar tegenover
+wij vreemd staan; er is in dit stuk een gebrek
+aan psychologische diepte, aan
+levensmogelijkheid, die ons de situaties «n feiten niet
+voetstoots doet aannemen. Het is dan ook
+jammer, dat men niet liever een meer bekend
+stuk, en dus voor het publiek gemakkelijker
+te volgen, uit het repertoire van deze tournee
+koos. Bersteins: Le Secret", dat wijeenige
+weken geleden van Jeanne Provost en haar
+gezelschap, in het Théatre du Pare" te
+Brussel zagen, had hier beter voldaan. Sterker
+van structuur en spannender als stuk, geeft
+de vrouwelijke hoofdrjjJ-Wer aan de
+vertolkster meer gelegenheid tot sterk spel en ont
+
+plooiing van haar talent. Wanneer men niet
+met zeer bijzondere noviteiten kan komen,
+zal het voor onze schouwburgbezoekers een
+dubbel voordeel opleveren, hier reeds gespeeld
+werk te krijgen, men kan dan beter het stuk
+begrijpen en de speeltrant vergelijken. De
+uitvoering had veel prijzenswaardig. Jeanne
+Provost is een zeer verdienstelijke com
+dienne uit de school van Rejane, d.w.z. met
+voor de Fransche speelwijze realistisch
+temperament en waarheidszin. Haar menig
+
+maal onschoon hand- en armgebaar doet
+somwijlen afbreuk aan den totaalindruk. Een
+mooie stem en duidelijke dictie redden niet
+altijd het wat vulgaire in de figuur, een
+gebrek dat in de Claudine-rol zeer goed op
+haar plaats was, doch in nobeler werk tot
+conflict moet leiden. Toch valt er uit dit
+spel te leeren en de Hollandsche
+confrateressen en confraters hebben niet vergeefs
+hun belangstelling getoond, want al was het
+eind van drie b.v. speel-zwak, de manier van
+zó'n dialoog te zeggen, vindt hier weinig
+gelijkwaardige vertolksters. Onder het gezel
+
+schap bevinden zich goede krachten, vooral
+AndréVarennes (Ruyseux) is een eerste
+klas tooneelspeler, terwijl Jean Ayme
+(Vétheuil) een verdienstelijke partner was.
+De rest der dames en heeren vervulde met
+goed begrip de kleinere rollen. Jammer dat
+de aankleeding zoo weinig aansloot bij de
+TRIPLE SEC. COMBIER"
+Inportépar SCHMITZ &amp; Co., Utrecht
+Nebbisj! Nog 'n slachtoffer van de kroon!"
+iiiniim iiilillllllllinil
+H&amp;d&amp;rl. Munt
+Hollmndm bomto tO oont
+SCHILDERKUNST-KRONIEK
+bedoeling van het stuk. Niet dat men de
+gasten stiefmoederlijk had behandeld, integen
+
+deel, men had zelfs al het goud" ter beschik
+
+king gesteld en het is voorzeker aan de
+metteur-en-scène" van het gezelschap te wijten
+dat men niet oordeelkundiger de touneclen
+had gebouwd. Er was nu wel wat weinig
+stemming en inplaats dat de omgeving de
+slappe handeling ondersteunde, deed de
+spheer afbreuk aan de intenties van auteur
+en uitvoerenden. Geboren acteur, is de tech
+
+nische zijde van het tooneelvraagstuk voor
+den Franschman nooit de meest sterke
+geweest en het is verwonderlijk met welke
+nonchalance vooral de reizende gezelschappen
+het er maar op aan laten komen".
+Een voorstelling als de hier gebodene heeft
+zeker interesse voor ons publiek, doch
+men zou beter doen een volle zaal aan de
+vreemde gasten voor te zetten tegen matiger
+prijzen dan een half gevulde schouwburg
+met fancy-entrées.
+Er is in Nederland veel belangstelling voor
+de Fransche litteratuur en ook voor de
+tooneelkunst van het volk waaraan wij ons
+op zoo menig punt geestelijk verwant voelen
+en dankbaar zijn velen voor een avond van
+goede Fransche-dramatiek. Zou er nu geen
+mogelijkheid bestaan om, op de wijze zooals
+vór den oorlog de Kuristkring" zoo ver
+
+dienstelijk deed tegenover de Duitsche tooneel
+
+kunst, des winters, hier en in de voornaamste
+steden van Nederland een vijftal Fransche
+modelopvoeringen te doen geven, waarvan
+zoowel de keuze der stukken als de vertooning
+beantwoorden aan hooge eischen en die door
+serie-abonnementen voor iedereen toegan
+
+kelijk zouden kunnen zijn? Is het geen tijd
+om voor het Fransche-tooneel een instituut
+te vormen dat, in een richting als de
+Wagnervereeniging" weleer met zooveel roemruchtig
+
+heid deed, de propaganda voor de latijnsche
+dramatiek in handen neemt?
+FRANK LUNS
+AMSTERDAM; ARTI, TEEKENINGEN ETC.
+
+Arti heeft op zijn tentoonstelling van dit
+oogenblik niet twee zulke goede werken
+als de Moeder van Sluyters en het stilleven
+van Coba Ritsema in den Haag. Ofschoon
+deze twee schilders ook op Arti te vinden zijn,
+overtreffen de twee teeke,ningen daar zeker
+niet de schilderijen in den Haag. Anders,
+maar van ongeveer gelijke waarde, is Jacob
+Ritsema in de twee steden vertegenwoordigd.
+In den Haag heeft hij een Hofje, zuiver, vol
+geschakeerde witten; fleurig is zijn teekeninj
+op Arti (Alleen zijn de figuurtjes niet
+geheelen-al precies van kleur ten opzichte Van het
+overige.) Over dat andere kan ik met korte
+notities volstaan. Sam van Beek is het meest
+illusie-rijk in zijn goudkarpers; Mej. van den
+Berg's Rozen zijn goed. Van Van Blaaderen
+verkies ik La Casa"; Boot's Stilleven van
+schelpen is nuchter en eerlijk. Mej. Broers'
+ets (zonnebloem) is het overtuigendst wat
+ik van haar ken; van Colnot noem ik een stil
+
+leven; van Gestel zijn bloemen en vruchten"
+Isaac Israëls' Londensche meiskens, Jurres
+Brug (No 1) zijn te vermelden. De Begrafenis
+van Monnickendam is een vlotte opteekening;
+de bloemen van Reicher (hij heeft er ook op
+Pulchri) en Surie's Stilleven (III) onthield ik.
+evenals Wouters Geertje. Van de twee
+teekeningen van Wolter (uit een confectieatelier)
+is No. 124 het meest aantrekkend door licht
+en door
+groepeering.Ten siotte blijft mij van het beeldhouwwerk
+de Maraboe van Tjipke Visser bij dit alles
+op te nemen.
+Grand Hotel Funckler
+
+HAARLEM
+
+-:- LE MEILLEUR RESTAURANT EN VILLE
+-:Illlllllllllllllll
+Illlllll IIII1HI|II||HIIMIIIIIIIIII1IIIIIIIIIIIIMIIIIII1I»UIIIIII1IIIIIIHI1IIIIII1IIIIIIIIIIII|IIIIII1IIIIIIIIIIIIIIIIIIIII IIHIM
+iiliiiiiiiiiiiiiiiiiiiiiiimillilililiiiiliiliiiiiiiiiiimi
+IIIIIIIIIIIIIIIIIM
+jongejuffrouw, denk erom: wij allemaal hier
+zijn al een beetje oud."
+Ja, ze is zoo heerlijk jong, Erna, ze heeft
+Erna Rubinstein
+zoo in 't geheel niet het vroeg-oude van een
+wonderkind, ze is zoo heerlijk jong, en ze
+speelt zoo verrukkelijk natuurlijk. En, om
+nu nog even bij het tempo van het Allegro
+molto vivace" te blijven, men krijgt, als zij het
+stuk begint, geen oogenblik den indruk, dat
+zij zou-Avillen zeggen: Kijk, zoo razend vlug
+kan ik het nu wel". Neen, het is al weer haar
+zin voor f rissche natuurlijkheid, die haar dezen
+satz zó, en niet anders, niet wat bedacht
+
+zamer doet aanpakken. Voelt ge u hier niet
+met Walter Dahms, die de
+Mendelssohnliteratuur met een voortreffelijk boek verrijkt
+heeft, ruitten i in blühendsten Glanz"? En
+zegt hij het, dit meesterlijk slot der meester
+
+compositie karakteriseerend, niet hél raak:
+Ein phantastischer (ieistertanz schwebt,
+hastet, singt, k'.ingt, stolpert, stürzt, jagt
+und jauchzt an uns vorüber"?
+Und der Virtuose feiert seinen Sieg",
+voegt hij erbij, en terecht. Concerten schrijft
+men voor virtuozen, en Mendelssohn heeft
+allereerst de virtuositeit van Ferdinand David
+van het Leipziger Gewandhaus, die het stuk
+creëeren zou, de haar van rechtswege toe
+
+komende kansen willen geven. Doch, vór
+alles: het zou muziek zijn, muziek met een
+harteklop, deze satz, dien de virtuositeit
+zou krijgen, om er zich in uit te leven
+Stel u voor, dat Mendelssohn op aarde
+terugkeerde, hij, die de onsterfelijke
+Sommernachtstraum"-ouverturc schreef, toen hij
+zoo ongeveer Erna Rubinstein's leeftijd had,
+en hoorde haar het slot-deel van zijn concert
+spelen, hij zou niet spreken van den knoet",
+hij, die volop reden had, om er tot zijn dood
+toe dankbaar voor te blijven, dat Zelter hem
+met zooveel onverbiddelijkheid had gedrild,
+neen, hij zou als Mengelberg doen, en
+vestigen Erna's aandacht.met een grapje op
+de belangen der blazers, die niet alleen moeten
+kunnen meekomen, maar ook hun partijen
+moeten kunnen maken tot muziek
+De jonge kunstenares mag er trotsch op
+zijn, dat een Mengelberg, hoewel op zijn
+hoede tegen wat met technische mogelijk
+
+heden niet voldoende rekening houdt, haar
+toch zooveel vrijheid heeft willen laten, als
+maar even kon. Ziedaar het respect der
+gerijpte genialiteit voor de ontluikende, zie
+
+daar tevens het opengaan van het
+muzikantenhart voor al wat waarlijk muziek is.
+Of het ontroering was, die Erna's spel ons
+bracht, dan wel een zeldzaam-zoete bekoring
+alleen nog maar, ik weet het niet. Wij luister
+
+den, en hielden den adem in. Hoe wist zij
+ons gevangen te houden, zij, die daar voor
+ons stond, uiterlijk zoo volkomen rustig, zoo
+wèlbeheerscht, innerlijk vol bewogenheid.
+Een nadenken over wat wij hoorden, een ons
+verdiepen in détails van techniek werd ons
+niet vergund; wij luisterden; de muziek
+kwam over ons, die daar van die viool ruischte
+en bruiste, uit die viool opzong, klaar en
+liefelijk en levensblij
+Zoo moge het velen gegeven zijn, haar
+te hooren.
+
+H. J. DEN HERTOG
+
+</text>
+<image timestamp="2002:08:25:00:04:41.00" size="472078">D40003R7.TIF</image>
+</page>
+</document>

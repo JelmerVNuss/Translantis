@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840302</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 349
+Zeeland: «r. tot lid en vuorz., den inspecteur van het lager onderwijs in de tweede
+inspectie;' b. tot leden, de echoolopz. in het district Oues «n m de arroiulissem.
+Middelburg, Oostburg en Aksel; c. tot loaen-plaatsvervan^ .rs, de schoolopz. in de
+araondüsem. Goos, Zioriksee en Tolen:
+Utrecht: a. tet lid en voorz.: den schoolop* in het district Utrecht; b. tot leden
+de schoolopz. in de «rroflo. Utrecht, Amersfoort, IJselstein en Beeneu; e. tot
+lidplaatsverv.: den sclioolopz. in hel arrond. Loonou;
+Friesland: o. tot lid en voorz.: deu schoolopz. in het distr. Lt-euwarden; b. tot
+leden: de schoolopz. in de arrond. Hariingen, Dokkum, Bneak en Bolsward; e. tot
+leden-plaatsverv.: do schoolopz. in du arrond. Leeuwaden, Veenwouden, Heereveen,
+Beetsterzwaag en de Lemmer;
+Overijsel: a. tot lid en voorzitter: den schoolopziener in het district Zwolle; 6. tot
+leden: de schoolopzieners in de arrondissementen Zwolle, Kampen, Ommen en En
+
+schedé; e. tot leden.plaatsvervangera • de schoolopzieners in de arrondissementen
+Steenwijk, Deventer, Almoloo en Ootmareum.
+GroniLgen : a. tot lid en voorzitter: den schoolopziener in het district Groningen ;
+6, tot leden: de aohoolopz. in de arrond. Zuidhorn, Onderdendam, Winschoten en
+Onstwedde; c. tot leden-plaatsvervangers: de schoolopzieners in de arrondisse
+
+menten Groningen. Appingedam, Hoogezand en Veendam.
+Drente: a. tot lid en voorzitter: den inspeo, van het lager on der w. in de derde
+inspeoüe; b. tot leden: de schoolopz. in in de arrond. Assen, Borger, Hoogeveen
+en Meppel; c, tot leden-plaatsverv.: de echoolopz. in het district Assen en in het
+arrond. Emmen.
+De luits. t/z. 2e kl., G. L. Goedhart en G. O. D. baron van Hardenbroek, uit
+OostIndiëin Nederland teruggekeerd, zgn op non-activiteit gesteld.
+Ter vervanging van wijlen jhr. J. Mock, is tot voorz. van den militieraad in
+bet 1ste müitiedistrict van Znid-Holland benoemd: mr. J. D. G. O. W. baron De
+Constant Eebecque, lid der Prov. Staten.
+• Aan mr. A. De' Euyter de Wildt U op zijn verzoek eervol ontslag verleend als
+burgemeester van Herwgnen.
+De heer B. Bossert, laatstelijk hulpprediker bij de Inlandache Ghriatengemeenten
+op het eiland Hoeroekoe (Amboina), thans met verlof hier te lande, is op zijn
+ver•oek eervol uit 'e lands dienst ontslagen, met toekenning van pensioen.
+Bij Kon. Besl. is aan jhr. mr. A. F. de Savornin Lohman, op zfln daartoe gedaan
+Verzoek, met ingang van l April 1884, eervol ontslag verleend als raadsheer in het
+gerechtshof te '8-Hertogenbosch j is T. Slagtor benoemd tot burgemeester dor
+gen: een te Berkhout; is, met ingang van l Maart a.s., aan J. P. Bprenger Van Eyk,
+op zijn verzoek, eervol ontslag verleend als burgemeester van Enschede; is aan
+mr. B. J. Gratama, met ingang van l April a.s. op zijn verzoek, eervol ontslag
+verleend als hoogleeraar aan de Bijka Universiteit te Groningen.
+Bij Kon. BesL is de adolb. dor Ie kl. H. P. J. Tutoiu Nolih.-nics met den laatston
+dezer, op gijn verzoek, eervol uit den zeedienst ontslagen; is E. Hamstra, ontv.
+der dir. bel. en aoc. te Geldermalsen c. a,, benoemd tot ontv. derzelfde middelen
+, te Schermerhorn c. a.
+De luit. ter zee der 2de kl. 3. M. Phaff wordt met lo Maart a. e. geplaatst in de
+lol van Zr. Ms. wachtechip te Amsterdam.
+Met ingang van 15 Maart eerstkomende, is benoemd tot kantonrechter-plaats
+
+vervanger in het kanton Harderwp, jhr. mr. B. Sandberg tot Essenburg, advocaat
+te Harderwijk.
+Met ingang van l Maart eerstkomende, ia benoemd tot notaris binnen het arron
+
+dissement Hoereuveen, ter standplaats Oosterwolde, gemeente Ooststellingwerf mr.
+, J. G. Tad-m», oandidaat-notaris en advocaat aldaar.
+Benoemd tot H» gemeester der gemeente Zaltbommel, C. P. Lenshoek; en tot burge
+
+meester der *4*o.nti Beegden, M. Evers.
+Aan A. J. • ,'iggerman, ia mot ingang van 4 Maart 1884, ontslag verleend als leeraar
+aan de Eijks hoogere burgerschool t9 Warfum.
+. Iirj Zr. Jf?. besluit zijn, met ingang van l Maart 1884;
+lo. de luitenant ter zeo der 1ste klasse J, H. Wouters, ter Ka ie van in doch niet
+door in diens; ontstane lichaamsgebreken, op pensioen gesteld, onder toekenning:
+van eei jaarlijksch pensioen van ƒ873; en van eene verhooging van dat pensioen
+van ƒ 6'J5 'sjaa -&gt;t voor werkelijk verblijf in militairen dienst m 's Eijks overzoesche
+bezittingen eu koloniën rn tuaochen de keerkringen;
+2o. bevorderd tot luitennnt-ter-zee der Iste klasse, de luitonants-ter-zee der 2do
+klasse C. F. A. Gregory on A. G. J. Kroef.
+Bij Koninklijk besluit is bepaald, dat de bouwkundigen voor de landsgebouwen C,
+B. Peters en jhr. J. P. E. Hoeufft, voortaan den titel zullen voeren van Eijksbonwmoester.
+Do heer B. Schagen van Boeleu, lid der Algemeene Bekenkamer van
+NederlandschIndië, is op zijn verzoek, met ingang van D Maart 1S84, eervol uit 's lands dienst
+ontslagen.
+Bij Kon. Besl. j», aan jhr. W. Van Loon en O. Ounaeas, op hun verzoek, eervol
+ontslag verleend als leden van de commissie van toezicht van 's Eijks musosm
+te Amsterdam; en zijn, met ingang van denzelfden dag, tot leden van gemelde com
+
+missie benoemd: mr. J'. A. Sillem en J. H. Maschhaupt, beiden te Amsterdam.
+Benoemd tot directeur van een der Eijkstelograafkautoren J, Van der Linden,
+thans telegraphist der tweede klasse bij de Bijkstelegraaf.
+O N D E R W U S.
+Hooger Onderwijs.
+UTBECHT. Ds. Tellegen, wien door curatoren het lectoraat in de Psychiatrie was
+Aangeboden, heeft voor die betrekking bedankt. Bevorderd tot arts D. liorneijn,
+doctorandus, en toegelaten tet het eerste gedeelte J. 1\ Brast, cand.-arts. Aan de
+Btjks-univereiteit legden met gunstig gevolg het examen in dier- en dolfutofkixnde
+af: de heeren A. Goels en A. Groothoff.
+GBONINOEN. Alhier is tot doctor in do rechtswetenschap gepromoveerd met
+proofBchrift: Delegatie van wetgevende macht," de heer H. N. Addena Czn., geboren te
+Winechoterzijl.
+
+middelbaar Onderwijs.
+B e n o e ia d tot directeur van de Teeken-Academie te Eoermond, de heer Bercns,
+leeraar a/d H. B. 8. te Deventer.
+Eervol ontslag verleend aan A. J. Wiggerman als leeraar aan de B. H. B.
+B. te Warfum; gevraagd wegens ziekte door II. Blink als leeraar aan de H. B. S.
+met 3-jarigen cursus te Rotterdam.
+Eervol ontslag verliend op verzoek aan mevr. M. C. C. Lieruur Worrell, ala
+loftrares in het andteekenen en de schoonheidsleer a/J. H. C, S. voor meisjes te 's-Ifago.
+
+langer Onderwijs.
+Benoemd tot hoofd d. nieuwe 8. te Zaandam WtóBlonberg h. e. B. aldaar; tot
+leeraar a/il. Eijksnormaalsohool to Aksel, F.van Di:;hoorn en H. J. Vooren, beiden h,
+o. B. te Tor-Neuzen ; to Katwijk aan deu Ilijn H. J, Eoekhout alhier: tot h. d. chr.
+a. te Goes J. C. Wirtz Cz, alhier; te Veenendaal de heer O. van Wijngaarden, te
+Hbogeveen; tot h. d. «. op het Abstederpad te Utrecht, Heineke te Utrecht no. 1de»
+voordracht, Wolbers te Groningen kreeg 10 stemmen.
+Tot onderwijzer a/h. doofstoinmeninstitnut te Botterdam, 3. Cappon te Oostzaan;
+te Zaandam H. Hildebrand to Buinerwold; te Makkam G. Kingma te Arnhem; te
+Pingjum J. de Bruin te Zurig; a/d. normaalschool te Hoogeveen G. Ymker aldaar;
+a/d chr. s. te Zaandam (Westzijde) Kastelein te Velzen; te Bchildwolde H. Goustra
+te Kolbam; te Polsbroek H. Voogegeerd te Oostzaan; te Goud» O. van Montfoort
+te Zevenhuizen en N. Vlasveld aldaar; te Buitenpost J. Hoeksema te Diemen; te
+'Dijkhuizen B, Henkei to Diever; te Deventer Immink te Lemele; a/e. bijz. s. voor m.
+u. 1. o. te Haarlem G. L. Sanders te Batterdam; a/d chr. s. te Goes P. Boon; te
+Oosterhout H. J. Kloppenburg te Huisen; te Baalte B. K. Huitinde te Blokzijl; te
+Zandwrjk G. Splietelhof te Hattemerbroek; to Goes P. Boon te Den Bosch; tot id. Ie
+kl. te Den Haag H. Sellemans te Schiedam; te Haarlem M. A. Heysmans; tot onder
+
+wijzer in de wiskunde en het teekenen aan een bijz. s. voor m. u. 1. o. te 's-Hage
+W. J. E. de Jong te Ectterdam; tot id. te Dordrecht J. Elieh alhier; tegen l April
+a. s. tot onderwijzer bij 'e Erjka nornuallosson te Workum P. C. J. Lapidoth, aldaar;
+te Haarlem aan de opleidingsschool M. A. Huijsman te Poeldijk.
+'fdt hoofd d. e. to Katwijk a/d Kijn B. J. Bokhorst alhier; te Vlaardingen H. E,
+A. Vosbergon te IJaelmonde.
+Tot ondencijztr to Groningen J. Woeteling alhier; a/e chr. S. te Zaandam A. O,
+Oastelein te Velzen; a/d. burgerschool te Hilversum J. van der Smit te Utrecht; te
+Diemen J. O. A. Croin te Zutózande; te Botterdam a/e. chr. s. A. v. d. Bloijs te
+Gorlmm; te Dijkhuizen B. Henkei te Diover.
+Tut onHerwijzn-es te Oostzaan, mej. A. M. F. Bllrhoven Junius te Arnhem; a/e bijz.
+school voor voorber. 1. o. te Delft, moj. G. van Dalen te Botterdam; te Haaften mej.
+Groc4hof to Zaltbommel; te Hollouw mej. Tijsseliog te Nederlangbroek; in de n. h.
+te Sneck mtj. M. G. Leitz te Zeist en K. Schijfema aldaar; tot id. aaude Meisjes
+
+school to Deventer Mej. Honrard te Aalsmeer; to Halfweg bij Haarlem mej. J. F.
+Eappold te Zwolle; te Odoorn in de D. h. mej. A. Komdaar; te Lcidschendam mej,
+C. van Lochem aldaar; te Zwolle Mej. J. Weijeuburg te Voorst.
+Voordracht: voor hoof J eoner school te Utrecht C. H. Wolbers, te Groningen ;
+D. Heineke, te Utrecht; J. D. Knoop, to Groningen; O. W. Klarenbeek, te Amster
+
+dam, en J. van Lingon, to Beverwijk.
+Voordracht voor hoofd dor gesubsidieerde meisjesschool te Doesburg: mej.
+M. J. Van dor Veen to Haarlem, E. M. H. Hallo te Utrecht en B. M. Bpit te Vianen,
+Voordracht voor onderwijzeres te Botterdam, Mej. J. H. Webor, te Schiedam,
+en H. J. van Binncndijk to Numansdorp.
+Overgeplaatst to Zv,-ollo op voorstel van den Districts-Schoolopziener en o$
+zijn eigen verzoek A. H. Hofkamp, als h. d. s. van de eene op eene andere s. in ile
+gemeente.
+Eo r vol ontslag verle/snd aan den heer P. C. Kool, onderwijzer in het
+teekeneii aan do rijksnormaalschool te Warfum, in diens plaats is als zoodanig benoemd
+do heer Henri Leeuw te Nijmegen, benoemd tot leeraar aan de B. H. B. school,
+aan dr. J. W. Steenhuis als onderwijzer aan de normaalschool te Hoorn en als
+idem te 'Warfum P. J. Koot; aan B. Iloosondaal als onderwijzer te Delft; aan J. M.
+Veltmeijor als onderwijzer to Paterswalde gam. Eelde; aan G. Mars en Hildebrandt
+als onderwijzers te Beemster; aan G. A Schlenkol sla onderwijzer te Haarlem; ge'
+vraayd door B. Frielink als onderwijzer te Kampen,
+Eervol ontslag verleeni aan mej. Van der Vaart als onderwijzeres te Eenkum;
+aan mej. F. Eappold als onderwijzeres te Zwolle. .--•_
+Ontslagen op verzoek hot h. d. s. te Wijk, Heille, gern. Sluis.
+Bedankt voor de benoeming tot h. d. s. te Berlikum door Vcltman Ja Welsrijp,
+Bedankt voor de benoeming tot onderwijzer a/e. E. C. 8 Ie 'e Hago door A, M.
+Jansen te Botterdam.
+Bedankt voor de benoeming tot onderwijzere» a/e, R. K. S. alhier mej. G, Y^
+Btarus te Eotterdam.
+KERK.
+Hervormde Kerk,
+Beroepen te Gvamsbcrgen da. v. d. Veen to Eoasum; te Niouw-Lekkerland ds.
+F. A. Lazondcr to Zegveld; te Kolder- en Dingsterveen ds. C. van Koetsveld te
+Zwartsluis, bij do vrije gemeente to Lommer B. Spoel te Briello; to Oud-Beierland
+ds. W. v,iu den Beryh, te Schaarabergen; to Gramsbergen de. J. v. d. Veen te
+Bossuru; te liijncrkcrk bij Leeuwarden ds. T. Oberman te Ommen; to St.
+Anthoniapolder ds. L. A. F. Oreutzberg to Ooatorland op Duiyelaud ; t9 Haulerwijk (bij toez.)
+ds. van Kooi to Pesso; te Oorschot ds. H. Brouwer to Zwolle; t9 Vorchton ds. jb.r,
+J. van Geseoler te Purmer; te Karnpsreiland ds. J. ton Oever te Bhoden.
+Drietal to Vreeswijk : ds. J. Vonk te De Mearn ; da. A. van Veelo te Waardal
+en ds, Y. II. Herfkens to Eeenon.
+Zestal te Leeuwarden, voor de vacature-Vethake ; Ds. D. Joolpeldoor
+te Enter; G. J. da Hoest to Barneveld; dr. mr. W. van den Berg te Schaarsborgen ; P
+Battra to Wassenaar; F. H. Herfkens te Bonen en G. J. Barger te Driebergen.
+Aangonoinon hot beroep naar Wadenooien door ds. H. van Veen Jr., t
+Avezato; hot boroop naar Buiol in N. -Br. door ds. J. H. Krol Lz., te Ter Neuzen.
+Bedankt voor het beroep naar Nieuw -Lekkerland door ds. E. A. Lazondsr,
+to Zegveld. ; voor het beroep naar Wetsiiige-Sanwerd door ds. C. C. Schot te Tolen ;
+voor bot beroep naar Zierikeee door da. Btenfert Kroese, te Tilburg; voor dat naar
+Heilouw door J. J. de Kat Angolino, te Yarik; voor het beroep naar Leidon door
+dr. W. van den Borgh te Bchaarsbergen ; voor het beroep naar Giesen door ds. G,
+Bosman to OuJ-Alblas; voor het beroep naar Dalfsen door dr. W. v. d. Bergh ta
+Bchaarebergon ; voor hot beroep naar Schoonhoven door ds. Bartstra te Wassenaar.
+Emeritaat aangevraagd door ds. E. Cats te Enkhuizeu on ds. H. P, chuuriug
+te Etturloo, beiden wegens meer dan 40-jwigen dienst.
+
+Chr. Geref. Kerk.
+Beroepen te {Wolfaartsdijk ds. B. de Jager te Eerooskerken,
+
+
+Herst. vaiig. Lutb. Kerk.
+Aangenomen liet beroep naar Den Eolder door ds, J. 0. Geelhnjjsen, te
+Middelburg.
+Iterït.
+Beroepen te Baraingerhorn c. a. ds. J. Westerman Holetyn te Westzaan a/d Zuid»
+
+Israëlitische Merk.
+Do licor L. Italiëts Meppel heeft thans voor zijue benoeming tot hoofd
+ilo;school en als voorzanger tij do sraötische gemeente te Hoorn bedankt.
+
+</text>
+<image timestamp="2002:08:17:07:36:51.00" size="261886">0000028O.TIF</image>
+</page>
+</document>

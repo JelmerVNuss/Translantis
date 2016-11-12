@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141227</Datum>
+<Pagina>12B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 27 December 1914
+Nadruk verboden
+KERSTMIS 1914
+Klein Kindeke van 't Winterfeest,
+gij leeft nog wel, schoon ieder vreest,
+dat gij zult zijn geschonden,
+bij zooveel Dood en Wonden.
+
+Uw heil'ge zachte kracht volhardt
+al wordt ze t' allekant benard.
+ij blijft een lichtend wonder
+in 't duistere gedonder.
+Uw teederheid is veel te sterk
+voor 't grof en bloedig beulenwerk.
+De woesten en de kwaden,
+ze kunnen u niet schaden.
+
+Uw fijn en eedel weezen stut
+de macht van 't grimmige geschut.
+De haters en verblinden,
+ze zullen u niet vinden.
+De helglans der granaten kwijnt
+voor't Licht dat rond uw hoofdjen schijnt.
+Verwoesting aller weegen
+ontneemt ons niet uw zeegen.
+
+Al komt ge nu in glans van bloed,
+als Dageraad in purper-gloed,
+wij blijven vast vertrouwen
+uw blanke Dag te aanschouwen.
+VAN EEDEN
+
+</text>
+<image timestamp="2002:08:21:05:38:12.00" size="296784">D40001JU.TIF</image>
+</page>
+</document>

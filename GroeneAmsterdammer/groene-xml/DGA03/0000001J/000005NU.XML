@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250530</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2503
+Nieuwe Fransche Boeken
+
+ANTHOLOGIE DÉLA NOUVELLE POÉSIE
+FRANC.AISE (Kra, 1925).
+
+De Fransche poëzie van de laatste tientallen
+jaren is rijk; er verschenen, en verschijnen nog
+steeds, zooveel bundels dat het, zeker voor een
+vreemdeling, ondoenlijk is er het oog op te houden.
+Wij zijn echter goed voorzien van bloemlezingen,
+en wat mij betreft, zal ik altijd dankbaar blijven
+aan onzen landgenoot O. Walch, wiens driedeelige
+Anthologie des poètes franfais wntemporains
+(Delagrave en Sijthoff) een van de eerste Fran
+
+sche boeken die ik bezeten heb mij nu al jaren
+vergezelt: «telkens doorbladerd breviarium van
+schoonheid. Deze verzameling is mi wat verouderd
+(al blijft het goede dat er in staat natuurlijk altijd
+goed); de heer Walch heeft ze door latere
+bloem.lezingen willen aanvullen, maar, ofschoon hij ook
+toen veel moois gaf, bleek hijzelf met zijn smaak
+(het is begrijpelijk) niet geheel meer bij." Veel
+overeenkomst met zijn groote anthologie vertoont
+die van Van Bever en Léautaud, Poètes d'aujourd'hui
+(2 dln, Mercure), het" standaardwerk voor de
+kennis der symbolistische periode. En weet men
+dat onze Amsterdamsche lector K. R. Gallas
+indertijd een kleine Choix de poésies franfaises
+heeft uitgegeven, waarvan het tweede deel spe
+
+ciaal aan de Poètes modernes gewijd is?
+(Meulenhoff). Men Weet het, geloof ik, niet algemeen ge
+
+noeg; er staat anders veel zuiver werk in, en de
+toelichtingen van den samensteller zijn bijzonder
+«goed. Niet lang geleden zijn een bloemlezing van
+R. de la Vaissière (Anthologie poétique du XXe
+siècle, 2 dln, Crès) en een critisch overzicht van
+H. Clouard (La poésie frangaise moderne,
+GauthierVillars) uitgekomen, die ondanks zekere tekorten
+veel te genieten en te leeren geven. Kortom, indien
+.het litteraire Nederland zichzelf mocht schaden
+door onvoldoende contact met de Fransche poëzie
+te onderhouden, is dat aan uitgevers en verza
+
+melaars niet te wijten.
+Er heeft zich in den loop der jaren door boven
+
+staande en andere werken bij het geletterd pu
+
+bliek een soort communis opinio gevormd omtrent
+de waarden der Fransche dichtkunst in de laatste
+halve of drièkwart-eeuw. Zonder het te willen,
+enkel door de macht van het dankbaar geheugen,
+heeft men bij zichzelve vastgesteld dat
+BaudeIa»re, Rimbaud, Verlaine, Laforgue, Mallarmé,
+Maeterlinek, Moréas, Verhaeren, Régnier, Clau
+
+del, Paul Fort, Jammes, Mme de Noailles,
+Samain, Ch. Guérin, wel de belangrijksten uit dit
+tijdvak geweest zijn. Ik voor mij acht deze dich
+
+ters natuurlijk lang niet allen even groot en bo
+
+vendien zijn er bij, die mij veeleer doen gevoelen
+Wat het wezen der dichtkunst is, dan dat ik een
+
+voudig van hun Werk zou genieten; het is echter
+hier jiiet de plaats daarover uit te weiden.
+Dit tableau de la troupe, weliswaar, was nog
+vóór den oorlog ontstaan: sindsdien drong heel
+wat nieuws tot ons door. De school der Abbaye
+kreeg bekendheid, met den machtigen Romains,
+met Arcos, Duhamel, Vildrac, Jouve; cubisten,
+dadaïsten, fantazisten spraken, behaagden en
+verbaasden (Apollinaire, Jacob, Cendrars,
+Cocteau, Toulet); Jarry werd tot voorouder" be
+
+noemd wegens Ubii-Roi en enkele verzen;
+neoclassici (Maurras) imiteerden nog vroegere voor
+
+ouders; Péguy, Valéry bleken groot op zichzelf.
+Persoonlijk waardeer ik al deze nieuwe dichters,
+Romains, Cendrars, Péguy, Valéry misschien
+wel het meest.
+Zoo was dus de toestand, toen eenige maanden ge
+
+leden op eens de boven vermelde, door een onge
+
+noemde vervaardigde bloemlezing verscheen,
+die met zijn rooden, omslag om aandacht vroeg
+(dat is uitgeversrecht) en die ook aandacht vond,
+in Nederland zoo goed als elders. Deze hierna te
+noemen anthologie van Kra" (bij gebrek aan
+betere benaming) is een gebeurtenis. Of is het geen
+gebeurtenis wanneer nieuwe publicaties een zoo
+wel gevestigde, een zoo geletterde, zoo deftige
+communis opinio als de boven beschrevene zon
+
+der schaamte bruskeeren? Baudelaire en Rimbaud
+komen voor in de anthologie van Kra; de meesten
+der liet laatst genoemden ook; maar Verlaine
+niet, Régnier niet, Paul Fort niet, Mme de
+Noailles evenmin als Verhaeren.
+Hoe is deze glorieuze lijst van versmade dich
+
+ters, deze salon des refusés" tot stand gekomen?
+Hebben deze kunstenaars soms, desnoods voor
+
+treffelijke, qualiteiten gemeen die hen niettemin
+voor een hedendaagse!» lettre ongenietbaar
+ma, ken? Volstrekt niet. Geen grooter contrast dan
+', tussehen Verlaine en Mme de Noailles, tusschen
+; Régnier en Verhaeren. Zijn ze soms, bij alle
+ver; schii; toch stuk voor stuk onecht, rhetorisch,
+zwak, onbeduidend te noemen? Niets ook daarvan.
+i Ze behoeren tot de zuiverste, de belangrijkste
+! dichters van onzen tijd. Zoo sta hier een
+voor[ lebpig,' maar reeds veelzeggend vraagteeken.
+Gelukkig brengt'deanthulogiepyanKraeeniggoed
+nog niet of-zeer onvolkomen.bekend was.
+Arland, Drieu la Rochelle, Fargue, Gabory, J.
+Pellerin, Radiguet, Reverdy, blijken aanwin
+
+sten voor het poëziere-pertoire van onzen geest.
+Montesquino valt toch wel mee; vele anderen zul
+
+len we moeten overlezen en langzaam tot de onzen
+maken, nu ze bij eerste lectuur wat willekeurig,
+onbeduidend, onbegrijpelijk schenen; bij eenigen,
+helaas zal zelfs dat overlezen niet helpen. Van
+verscheiden dichters zijn inédits" verkregen.
+De notices" zijn goed (Baudelaire !), niet zelden
+diepgaand, altijd prijzend, n enkele maal wel
+wat haastig geredigeerd. Veel valt dus te loven;
+maar veel is nog zeer twijfelachtig en met name
+blijft het onzeker of de anthologie van Kra eigen
+
+lijk wel talrijke en schitterende openbaringen brengt.
+Dat is dan een tweede belangrijk vraagpunt.
+Het is de reeds eenige malen genoemde com
+
+munis opinio" die mij deze twee vragen—waarom
+versmaadt gij die enkele grooten, en: brengt ge
+wel veel nieuws? heeft ingeblazen. De veron
+
+derstelling ligt echter voor de hand dat deze com
+
+munis opinio ietwat verouderd en dat er onder de
+allerjongsten van onze dagen een nieuwe ontstaan
+is. Dat beweert dan ook ongeveer de préface.
+Er bestaat, zegt deze, een esprit moderne" die
+wel niet omschreven maar ook niet ontkend kan
+worden. Door dezen esprit moderne" zijn keus en
+toelichtingen geïnspireerd.
+Het zij zoo. Verlaine weglaten, en twee van zijn
+zwakkere discipelen opnemen: esprit moderne !
+Fijn gestileerde verzen, regelmatige sonnetten en
+stances plaatsen naast cubistische onduidelijkheid
+en week vers-librisme: esprit moderne. De leven
+
+digste, hartstochtelijkste geesten het woord geven
+en een bladzijde verder plaats inruimen aan
+vernuftsspel of verwijfde vaagheid; gedichten op
+
+nemen van mannen die toevallig in de laatste jaren
+als romanschrijvers opgang maken maar geen
+eigenlijke groote dichters zijn; oprechtheid
+confronteeren met willekeurig ge jongleer; een complete
+tentoonstelling van fantazisten" inrichten, en
+Banville vergeten; den soms wel indruk makenden
+maar toch ietwat jongensachtigen romanticus
+Lautréamont bijna als gelijke van Rimbaud voor
+
+stellen, en dan Corbière overslaan alles es
+
+prit moderne."
+Het geheimzinnig wezen dat aldus genoemd
+wordt, heeft tot waren naam dus	chaos?
+Het bestaat natuurlijk, dat zal ik niet ontkennen;
+maar waar is zijn kenmerk? Het chaotische kan
+zich op honderd manieren vertoonen; waar is
+het gemeenschappelijke dat alle verschijnselen
+bindt?
+De bloemlezer zelf meent dit te weten. Wij zijn
+tegen alle verbalisme, zegt hij; wij zijn niet langer
+slaven van de woorden, de syntaxis, de
+beteekenis: wij domineeren deze, wij maken deze zelf
+tot slaven van de poëzie ! Vroegeren deden dat
+niet, romantici, symbolisten lieten zich leiden door
+den vorm. Ik geloof echter dat dit domineeren"
+over de syntaxis b.v. ten eerste een gevaar is,
+en ook lang niet bij alle hier vertegenwoordigde
+dichters voorkomt; bovendien wordt door deze
+uiting aan romantiek en symbolisme onrecht ge
+
+daan.' Verbalisme is ten allen tijde een fout, niet
+van scholen of richtingen, maar van
+schijndichters, en harmonie tusschen de eischen der taal
+en die der inspiratie onderscheidt goede schrijvers
+van de minder goeden, ze mogen allen te zamen
+romantici heeten of esprit-modernisten."
+Antiverbalisme kan dus m.i. het ware kenmerk van
+dezen esprit moderne" niet wezen.
+In een mooi opstel over deze anthologie (N. R.
+Ct 4 April) zegt de dichter Nijhoff het kenmerk te
+zien in de behoefte tot programma zelf," in
+het feit dat een dichter zich nog geen dichter
+Weet als hij een volleerd prosodist is, maar zich
+reeds dichter voelt als zijn poëzie, hoe onvolko
+
+men ook, een geestelijke houding aanneemt,"
+hierin dat de dichter niet slechts in zijn poëzie
+een uitstorting des harten meedeelt, maar tevens
+doet gevoelen, op welk plan van verhoogde bewust
+
+heid hij tegenover dit hart en deze poëzie stond en
+staan bleef." Mij schijnt het toe dat dit inderdaad
+bij vele jongeren voorkomt; het ongeluk is alleen
+maar, dat het ook vroeger zeker zal zijn voorge
+
+komen (Vigny, vermoed ik), terwijl het juist bij
+sommige hier opgenomen dichters niet of niet
+klaarblijkelijk aanwezig is (Jarry e.a.). Toch is hier
+een begin van karakteristiek.
+Discretie in de aanduiding van emoties en van
+groote gedachten, ingehouden toon dus, heeft
+men nog geopperd; en zeker, ook hier is iets van
+aan (Giraudoux). Maar toch: Baudelaire, Claudel,
+Valéry, Romains? Die zijn niet discreet, niet fijn,
+niet ingehouden: die zijn evenwichtig. Dat is
+iets anders.
+In werkelijkheid zal dus ook deze bloemlezing
+ons slechts onvolkomen leeren wat de esprit
+moderne" eigenlijk is. Laten wij het boek maar
+dankbaar aanvaarden als een verzameling die
+talrijke mooie gedichten bevat. Als zoodanig heeft
+het groote praktische waarde, al was dan ook veel
+van het gebodene reeds min of meer bekend.
+
+. '.r ''.,! ;•:• r • " .*•-:'.' " . .' J- T I E L RO O Y
+BERICHTEN EN AANTEEKENINQEN
+
+NOG IETS OVER POËZIE. Jean Hytier, discipel van Jules
+Romains, teerder dan hij misschien, maar evenzeer een
+geboren dichter, en beoefenaar van dezelfde prosodie (een
+nieuwe vaste vorm, die de winsten van het vers-libre wil
+veteenigen met de dwingende bekoring van het
+traditioneele vers) is hier zoowel als in het eigen land nog nauwelijks
+bekend. Zijn verzen verdienen niettemin aandacht, Zij 't
+voorloopig om ongeveer dezelfde redenen als die van zijn
+meester (La Helle sorcière, uitg. Mouton blanc, Maupré,
+l fr.) Hij heeft den doctorsgraad in de letteren behaald
+met een degelijke, zeer oorspronkelijke studie over den
+aard van de poëtische genieting en een kleinere over
+moderne prosodie. De eerste is zeer belangiijk. De poëtische
+genieting scherp te onderscheiden van de louter
+aesthetische • ontstaat, zegt Hytier, wanneer de dichter een
+nieuwe wereld-van-beelden schept in waarheid een
+ongehoorde wereld en wanneer deze beelden dan een
+verklaring van den cosmos, dus een metaphysische wereld
+
+verklaring suggeteeren wel te verstaan op a-rationeele,
+niet-wetenschappelijke wijze. Deze beelden kunnen van
+den eenvoudigsten aard zijn maar mogen er zich niet
+toe bepalen sentimenteele, stichtelijke, of enkel-realistische
+beschrijvingen te vormen. Een geheimzinnig iets moet
+deze beelden hun hoogere verklarende kracht verleenen.
+. Dit sluit aan bij de uiteenzetting van Mr Nijhoff in
+bovengenoemd artikel: lyriek is, althans in aandrang,
+gelijk aan mystiek. Zou dit laatste intusschen niet van
+alle kunst gezegd kunnen worden? (Le plalsir poétique,
+tude de psychologie, Piesses Univ., 10 fr., en Les
+techniques modernes du vers francais, ib., 4 fr.).
+P. J. Jouve doet soms klanken hooren die aan Romains
+en Claudel herinneren, maar heeft ook wel een korte,
+bitteren, fermen toon die van hemzelf is. ,,Un pessimisme
+joyeux", een.... wanhopige, helderziende menschenliefde
+vormen zijn poëtische subjectiviteit. Waar hij pacifisme
+prijst, enz., is hij misschien meer menschelijk-welmeenend
+dan eigenlijk dichterlijk te noemen. Eenige veizen op de
+vriendschap, de liefde, eenige landschappen verschaffen
+echter wel degelijk poëtische genieting zooals Hytier deze
+terecht verstaat. (Tragiques, suivis du Voyage sentimental,
+Stock, 9 fr.).
+Iets overeenkomstigs valt te zeggen van Ch. Vildrac, met
+dien verstande dat deze minder tragisch is, zachter,
+weeker ook in den vorm tot het sentimenteele toe,
+een enkele maal. Een nobel dichterlijk gemoed meer nog
+dan een dichterlijk talent, (ofschoon dit hem toch niet
+ontbreekt) en een goed mensen. Zijn jongste uitgaaf
+is mooi gedrukt op goed papier, bevat een portret door
+hemzelf, een houtsnede van Mahn die de vermaarde
+Abbaye voorstelt, is door Duhamel van een préface voor
+
+zien kortom, het is natuurlijk een Sablier-uitgaaf,
+men heeft 't al geraden. Deze heeft litterair-historische
+waarde, om de aangeduide redenen. (Poèmes de F Abbaye
+suivis de Esquisse d'un Pégase, d. du Sablier, 12, rue du
+Ruisseau).
+DE COLLECTIE ,,LES CAHIERS DE PARIS". Keurige
+boekjes, uitgegeven onder leiding van Claude Aveline
+en Joseph Place. Ditmaal: P. de Nolhac, Erasme et l'Itali
+en S. Lauzanne (de bekende journalist), La table qai porie.
+Het eerste is een levendige, kleurrijke schildering van het
+Italiëder late Renaissance; schr. betoogt met nadruk dat
+Erasmus in zijn hart volkomen katholiek is gebleven.
+Prof. Huizinga's voorstelling dienaangaande is iets meer
+genuanceerd. Het tweede is superieure, geestige jour
+
+nalistiek, met poincaristische strekking.
+DE GEEST VAN HET JODENDOM. Judaïsme, UuatS
+pubtiées sous la direclion de P. L. Couchouit (tevens leider
+van de bekende serie Christianisme). No l: I. Abrahams,
+Valeurs permanentes du Judaïsme. Over den Bijbel, over
+Philo, over het judaïsme te Alexandrië, den Talmoed.
+(Rieder, 6 fr. 50).
+Staaltjes van Joodschen humor: R. Geiger, Nouveltes
+histoires juives. (N. R. F., 7 fr.).
+TER TIJDPASSEERING. L. Treich, Histoires enjantines.
+Alleraardigste kinderanecdoten en -gezegden. (Galllmard,
+5 fr.).
+G. Leroux, Lajarouche aventure. Nieuwe roman-feuilleton
+van den vermaarden schepper van Rouletabille. (Galli
+
+mard, 7 f r.).
+M. Renard en Albert-Jean, Lesinge. /.Wetenschappelijke"
+roman, niet zonder verdiensten.( Crès, 7 fr. 50).
+( Tristan Bernard (de bekende humorist), Autour du
+Ring. tableau de la Boxe, (N. R. F. 7 fr. 50).
+VOORTS ONTVANGEN: Gorki, Lénine et Ie paysan russe
+(Kra). Bonjean en Ahmed Deif, Mansour. Over Egypte.
+(Rieder, 7 fr. 50).
+Emile Baumann, La Josse aux lions. Portret van den
+schrijver, die o.a. in Duitschland veel gelezen woidt.
+Stichtelijke roman a la Bourget. Den avond na de huwe
+
+lijksvoltrekking wacht de jonge vrouw haar man in haar
+kamer. Hij komt. Dormez-vous?" -—• Non, Philippe,
+je ne dormais pas, je vous attends pour notre prière du
+soir". (Royale uitgave, Crès).
+DUHAMEL OVER NEDERLAND. Men leze in het tijdschiift
+Europe (15 Mei) een aantal proza-gedichten en schetsen,
+waarin Duhamel ons Hollanders een hartelijke
+vriendschapsveiklaring doet. Bij de verschijning in boekvorm
+volgt er h.t.p. meer over.
+Duhamel's persoonlijkheid en werk worden met het
+vereischte, warme doch wei-onderscheidende enthousiasme
+besproken in het zooeven verschenen boekje van César
+Santelli: Oeorges Duhamel (Mercure, 6 fr. 50). Hoofd
+
+stukken: Duhamel et la littérature de guerre. • Le peintre
+de la douleur. Le justicier. Le peintre de la détrésse
+humaine. Le consolateur. Poétique et poésie de Du
+
+hamel. Duhamel dramaturge. Le style de Duhamel.
+
+J. T.
+Mist
+
+Eentoon'ge grijze lucht verdoft de steenen
+En d'oude huizen van de stil-verlaten straat,
+Waar kille regen drupt in triestig weenen
+En waar sinds lang geen mensch'lijk wezen gaat.
+
+Het donkert troosteloozer dan tevoren
+Lijkt nu de straat een zwart luguber graf
+Tot plots in de lantaarns de zachte lichten
+gloren,
+En stralen als een troost van hunne hoogten af.
+
+E. JACOBS
+GRANDS VINS DE CHAMPAGNE
+POL ROGER &amp; Cie.
+Agent General: JAGER GERLINGS, Haarlem
+
+</text>
+<image timestamp="2002:09:03:12:03:16.00" size="321381">000005NU.TIF</image>
+</page>
+</document>

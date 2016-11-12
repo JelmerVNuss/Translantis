@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19041120</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Roosevelt op nieuw verkozen.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 20 November 1904
+Ie l&gt;K&gt;e.ok«M&gt;C,:
+Amst. Koek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+JONATHAN (tot Roosevelt): Zeg eens, nu heb je vier jaar vóór je en je kunt niet u eer herkozen worden .... zou je nu niet den
+Wereldvrede maar aan x.ijn lot overlaten, en je toeleggen op je eigenlandsvrcdc. . door dat trustmonster te vermoorden.. ?
+
+</text>
+<image timestamp="2002:08:16:04:41:52.00" size="273931">D10000LS.TIF</image>
+</page>
+</document>

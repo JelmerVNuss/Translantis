@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19131228</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE-AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+28 Dec. '13. - No. 1905
+Hypotheekbank voorNederland
+Opgericht in 1889.
+Gevestigd te AMSTERDAM, Singel 512.
+
+UITGIFTE van ƒ 5OO,OOO
+41/»pCt. Pandbrieven tegen den koeFS van 99V2 pCI.
+
+Behalve door de hypothecaire verbintenissen, ten behoeve der Bank gesloten,
+zijn de Pandbrieven nog bovendien onvoorwaardelijk* voor renten en aflossing
+gewaarborgd door de Alijemf*»«m W a «r borg m «at* c h H* p ij
+Mr. A. H. VAN NIEROP Mr. P. PEELEN,
+Directeuren.
+Maatschappelijk Kapitaal (geheel geplaatst)
+Reserves	ruim
+Uitstaande hypotheken op l December 1913
+f
+2,000,000
+260,000.
+15,827,297.75
+De inschrijving is opengesteld op Zaterdag 3 Jan. 1914 van l u
+te Amsterdam
+-4 uur
+Alkmaar
+, Almelo
+, Amersfoort
+
+, Apeldoorn
+Arnhem
+Assen
+Breda
+, Delft
+Deventer
+, Dordrecht
+, Eindhoven
+, EDschede
+, Gormchem
+Qonda
+, 'sGravenhage
+Groningen
+, Haarlem
+, Harliugen
+Heereaveen
+Heerlen
+, Helder
+, Helmond
+'s Hertogenb.
+, Hoorn
+, Hulst
+, Kampen
+, Leeuwarden ,
+Leiden
+Maastricht
+, «eppel
+,, Middelburg
+Nijmegen
+
+Purmerend ,
+, Rosendaal
+, Rotterdam
+Schiedam
+St. Annaland
+Steen wjjK
+Utrecht
+Venlo
+
+Wageningen
+Zaandam
+Zntphen
+Zwolle
+ten kantore van de Heeren LANGERHUIZEN &amp; Co.;
+, , Wed. GERBERT REBEL :
+, , i WERTHE1M &amp; GOMPERTZ;
+, , , WURFBAIN &amp; ZOON;
+,',.,, DE LANGE* &amp; DE MORAAZ;
+, . , LEDEBOER &amp; Co;
+HET A MERSFOORTSCH WISSEL
+
+EN EFFECTENKANTOOR;
+, , , VAN DIJK &amp; ZOON;
+, . . VAN RANZOW &amp; Co;
+den Heer E. A. SMIDT ;
+, de HeerenINGENI10ÜSZ &amp; ZOON;
+, SCHEURLEER &amp; ZOONEN;
+, SALLANDSCHE BANK;
+SIMON ZADOKS' BANK;
+,. AMSTERDAMSCHE BANK;
+., den Heer B. W. BLIJDENSTEIN Jr. ;
+de Heeren C. DE G1JSELAAR &amp; Co.;
+, M. J. OG1ER &amp; Co.;
+. . , SCHEURLEER &amp; Z.OONEN:
+, den Heer N. A. WICHERS;
+de HAARLEMSCHE BANKVEREENIGING ;
+, den Heer J. VAN HULST ;
+, de Heeren BOSCHLOO &amp; POTHAAR ;
+, , HEERLENER BANK:
+, P. GROEN &amp; ZOON ;
+HELMONDSCHE BANK;
+, ' , Wed. JOH.F.VANRIJCKEVORSEL&amp;ZN.;
+, den Heer P. VAN DIJK;
+. Ls. v. WAESBERGHE-JANSSENS;.
+de Heeren W. DIK KERS &amp; ZOON;
+, A.BLOEMBERGEN&amp;ZONETsBANK;
+, LEIDSCHE BANKVEREENIGING;
+, , , HERING VRIJTHOFF &amp; Co.:
+, den Heer JAN BLOM;
+. de Heeren J. A. ZIP &amp; VAN TEIJLINGEN:
+, , NIJMEEGSCHE BANKVEREENIGING
+v. ENGELENBURG &amp; SCHIPPERS:
+, den Heer J. J. 't HOEN:
+. , J. LÜIJKX;
+, de ROTTERD BANKVEREENIGING:
+, , Heeren H. C. VOORHOEVE &amp; Co.;
+. . H. J. VAN OGTROP &amp; ZOON;
+. den Heer J. POLDERMAN;
+, , , BOSCHLOO &amp; POTHAAR;
+ST1CHTSOHE BANK;
+. BANK-EN HANDELSVEREENIGING
+voorheen P. J. BERGER;
+den Heer S. A. VAN MINDEN;
+de Heeren K. VIS JANSZ. &amp; Co.:
+, , P. F. C. BKÜNINGS &amp; Co..
+, , , A. VAN DEVENTER &amp; ZONEN:
+alwaar ook prospectassen en inschrijvingsbiljeten te verkrijgen zijn.
+Wij laten hier de noteeringen van enkele
+soorten volgen: 18 Dec. 24 Dec.
+1913 1913
+Amalgaraated Copper 69 * 727/«
+Amer. Can Cy. 26% 29 K
+Car &amp; Foundry 44%; 45l/t
+Hide &amp; Leather 22 22 'w
+Central Leather 25Vs 27 Vs
+Amer. Smelling &lt;&amp; Ref. 624 64V8
+United Cigar's 44}s 457/8
+States Steel 57 K 60'4
+Atchison Topeka 93% 94!i
+Denver &amp; Rio 18Va 17Va
+Erie 2iy4 28*4
+Kansas City &amp; Southern 23l/2 24V8
+Missouri K. Texas 20 20%
+Rock Island 14 14
+Southern Rails 22% 23 Vs
+Pacific 87:li 90
+Union Pacific 15334 157'/s
+Eene uitzondering op de algemeene
+tendenz maakten de Gouldwaarden, Wabash,
+Mfssouri Pacific en Denver &amp; Rio Grande,
+die eene zeer zwakke houding aan den dag
+legden.
+Central Leather's vast; op deze zal 2 pCt.
+dividend worden uitgekeerd.
+De kentering in de stemming der
+NewYorksche markt bracht onmiddellijk een der
+
+gelijke tendenz in de locale afdeelingen te
+weeg.
+Van Petroleum waarden konden aandeelen
+Koninklijke, die tot circa 580 pCt. vielen,
+in snel tempo' weer tot boven de 600 pCt.
+opkomen; Tabaksaandeelen waren eveneens
+aanmerkelijk vaster van houding en ook de
+overige soorten ondervonden min of meer
+den. terugslag van die betere stemming.
+Slechts rubberaandeelen hadden eene
+wankelende houding, met name de Amster
+
+dam Rubber, waarvan de oude op circa 123
+pCt. blijven.
+Overigens blijft de handel, die zich in de
+Amerikaansche waarden wat heeft uitgebreid
+ten aanzien van locale'soorten zeer beperkt.
+Peruvians iets beter in verband met het
+bericht, dat de Peruaansche regeering de
+maatschappij weer heeft veroorloofd guano
+op de Ballestas eilanden te winnen, echter
+onder beperkende voorwaarden.
+De geldkoers, tot ongeveer 4 pCt. gedaald,
+steeg in den loop der week weer tot bijkans
+5 pCt; ook elders is dit aantrekken van het
+geld, een gewoon verschijnsel in de laatste
+dagen des jaars, merkbaar.
+Niet onvermeld willen we hier het feit
+laten, dat de Vereeniging voorden Effecten
+
+handel primo Januari haar nieuwe gebouw.
+een eigen beurs, gaat betrekken.
+Na de inwijding op Maandag j.l. was het
+gebouw Dinsdag-avond voor genoodigden
+ter bezichtiging gesteld, waarvan zeer ruim
+gebruik is gemaakt.
+Het is in bijna alle opzichten een comfor
+
+tabele gelegenheid, die tevens een rijken
+en statigen indruk maakt; de nieuwste vin
+
+dingen op technisch gebied zijn aangebracht
+om het den leden tijdens hunne, hopelijk
+i eerlang weer drukke bezigheden, dragelijk
+te maken.
+De feestredenaar heeft uitvoerig stil ge
+
+staan bij wat de Amsterdamsche beurs eens
+was; laten wij hieraan den wensch toevoegen,
+dat zij niet in den schaduw van haar ver
+
+leden blijve staan.
+24 Dec. v. D. M.
+
+P.S. De Rotterdamsche Bankvereeniging
+zal in den aanvang van het volgende jaar
+ƒ 5 millioen nieuwe aandeelen a 140 pCt.
+uitgeven te Parijs, Amsterdam en Rotterdam.
+Deze aandeelen zijn reeds eenigen tijd
+geleden door een syndicaat onder leiding
+der SociétéGenerale overgenomen.
+Jubiié-statistiek
+Naar aanleiding van de 65-jarige regee
+
+ring van Keizer Franz josef, in het begin
+dezer maand, beschouwt de Wien.
+Abendpost" de ontwikkeling van Oostenrijk in die
+jaren in het licht der statistiek.
+Het blad herinnert aan de geweldige ver
+
+anderingen, voorgekomen in dit tijdvak van
+twee generatiën, op cultuurgebied, verande
+
+ringen, die plaats vonden in een tempo, tot
+dusver ongekend in de ontwikkeling van de
+economische krachten der volkeren, ge
+
+steund door de verbazingwekkende vor
+
+deringen der wetenschap, die het maatschap
+
+pelijk leven met nieuw bloed doorstroomde, j
+Gestadige toename der productieve kracht
+maakte een sterke toename der bevolking,
+als in vorige eeuwen nooit gekend, moge
+
+lijk, terwijl de groote intensiteit van het
+modern verkeer de breede grondlagen be
+
+vestigde, waarop het bestaan van die grootere
+menschenmassa berust.
+Het gebied van de koninkrijken en landen,
+de vroegere Duitsch-Slavischc erflanden, in
+den rijksraad vertegenwoordigd, werd in
+1850 bewoond door ongeveer 17M. millioen
+menschen of gemiddeld 58 per v'erkante K.M.
+Thans heeft Oostenrijk een bevolking van
+meer dan 28V9 millioen zielen, d. i. 95 in
+
+woners per vierkante K.M., in geheel ver
+
+schillende verhouding echter verdeeld over
+de steden en het land.
+De concentratie der bevolking, hel samen
+
+vloeien in de steden is ni. enorm toegeno
+
+men, want terwijl ruim 60 jaren geleden
+Oostenrijk slechts 35 steden telde met een
+grootere bevolking dan lOOOO inwoners, be
+
+droeg dit aantal in 1910 reeds 152, waarvan
+41,-die volgens de telling van dat jaar meer
+dan 25000 inwoners hebben en in 1850 te
+1.152.000 ingezetenen telden, thans een zie
+
+lental bevatten van 4.470.000, d. i. bijna het
+4-voudige.
+En terwijl in de jaren 1851-56 op de
+10000 inwoners 370 geboorten- en 354 sterft
+egevallen voorkwamen en het geboorte-surplus
+dus tot het bedenkelijk klein getal van 16
+was gedaald, geven de jaren 1907—11 met
+331 geboorten en 223 sterftegevallen een
+surplus van 108 per 10000 inwoners.
+Eigenaardig is het, dat vergeleken met
+de gegevens van 1900 de bedrijven, tot
+den landbouw in betrekking staande, van
+52.4 op 48.4 pCt. zijn teruggegaan, terwijl
+daarentegen het percentage van de vakken,
+aan handel, nijverheid, fabriek wezen en
+middelen van verkeer verwant; van 36.7 tot
+38.9 is gestegen.
+Maar het dalend percentage der bij de
+landbouw-bedrijven betrokken bevolking
+ging geenszins gepaard met een vermindering
+van de landbouw-productie. Integendeel is
+deze in elk opzicht vooruitgegaan. De op
+
+brengst van rogge- en tarwe-oogsten is in
+de laatste jaren meer dan 40 pCt. gestegen.
+O'ik de veestapel is vooruitgegaan, zij't dan
+ook in minder belangrijke mate, n.l. van
+292 runderen per 1DOO inwoners in 1850,
+tot 320 stuks in 1910. Grooter is de toename
+van het aantal varkens, dat in hetzelfde
+tijdsverloop wordt opgegeven als nagenoeg
+verdubbeld, n.l. van 123 tot 225.
+In zeer snel tempo ontwikkelde zich de
+industrie van mineralen en dergelijke, vooral
+die van steen- en bruinkool, die thans het
+20-voudige heeft bereikt van de opbrengst,
+60 jaren geleden, terwijl de ijzer-produciie
+meer dan het 8-voudige bedraagt, waarmede
+een levendige toename van de aanverwante
+bedrijven ging gepaard, die echter meer en
+meer van een aantal verspreide kleine onder
+
+nemingen in een beperkt getal groote maat
+
+schappijen werden geconcentreerd, Zoo zijn
+de 731 steenkolen-mijnen van 1872 thans in
+306 maatschappijen en de 112 ijzermijnen
+in 13 groote ondernemingen saamgevoegd.
+Omtrent de ontwikkeling der textiel
+
+nijverheid geven de volgende cijfers een
+denkbeeld: Van 1830 tot 1850 was het
+katoen-verbruik verdrievoudigd, 20 jaren
+later was het op nieuw meer dan verdub
+
+beld, nl. 50 millioen K.g., van 1870 tot 1905
+is het verbruik van deze grondstof tot 150
+millioen K.g. gestegen om in de laatste j'ren
+verder, nl. -tot meer dan 200 millioen K.g. per
+jaar te stijgen.
+Maar vooral de concentratie .van kapitaal,
+zooals de moderne maatschappij van onzen
+tijd haar kent, geeft in vergelijking met het
+begin van de regeering des Keizers enorme
+cijfers te zien.
+In 1850 kende men 35 maatschappijen, in
+de jaren 1871 1873 nam dit aantal tot 700
+toe, waarop eenige teruggang volgde, terwijl
+het in de laatste 10 jaren weer is toegenomen
+en wel tot 736, zonder de spoorwegmaat
+
+schappijen mee te rekenen.
+Het gestorte aandeelen-kapitaal. in 1850
+450.000.000 kronen, bedroeg in 1911 in rond
+bedrag 3894.000.000 kronen.
+Behalve de Oostenrijksche Nationalbank"
+had men in 1848 in Oostenrijk geen bank
+
+instellingen met aandeelen-kapitaal, in 1857
+waren er 2 met 124000.000 kronen, in 1911
+behalve de Oesterr. Ungar. Bank 88
+met 1295 millioen kapitaal.
+De toename van het goederenvervoer, in
+verband met de gestadige belangrijke uit
+
+breiding van handel en nijverheid, eischte
+natuurlijk een evenredige toename van
+kredietwezen en betaalmiddelen. De omzet
+der Oesterr. Ungar. Bank", die in 1852 747
+millioen bedroeg, is in 1912 tot 15'-^
+milliarden kr. gestegen. De biljetten-omloop, in
+1862 nog slechts 552 millioen, bereikte in
+1911 het cijfer van 2540 millioen kronen.
+In het moderne bedrijfsleven zijn voor
+handel en nijverheid de middelen van ver
+
+keer een juiste maatstaf. Wat de
+handelsomzet met het buitenland betreft, blijkt de
+toename sedert 1852 ten bedrage van 300
+millioen, tegenover 3 •milliarden kronen in
+1911; de invoer is sedert 1867 meer dan
+15 maal grooter geworden.
+De tonnen-inhoud van de schepen, in
+Oostenrijksche havens binnen geloopen, in
+1852 l' •-• millioen, was in 1911 ruim 24
+millioen tonnen.
+Door den aanleg van een uitgebreid
+spoorwegnet zijn de cijfers van het verkeer j
+in het binnenland in nog grootere mate geste
+
+gen. De lengle der Oostenrijksche spoorlijnen
+was in 1852 ca. 1400 Km., in 1911 22.700 Km.
+Het aantal passagiers, in 1877 vervoerd, was
+33 millioen, dat van 1911 276 millioen; het
+gewicht der transport-goederen is in den
+
+zelfden tijd van 43.8 millioen tot 146 millioen
+tonnen toegenomen.
+Ter beoordeeling der volkswelvaart, spaar
+
+en koopkracht diende het volgende: In 1847
+waren er 19 spaarkassen met totaal 248000
+boekjes, waarop 116 millioen kronen inge
+
+schreven. In 1911 was het aantal spaarbanken
+tot 675 gestegen met 4.385.000 inleggers voor
+een totaal van 6.360.000.000 kronen, d.i. ge
+
+middeld 1450 kr. tegen 518 kr. per boekje
+in 1847.
+Het aantal onderwijs genielende kinderen,
+dat van 1.6 millioen of 8 pCt. der bevolking
+in 1861(1862 tot 4.5 millioen of 15 pCt.
+thans wat de volksscholen betreft is
+toegenomen, zal te onzent geen bewondering !
+wekken. Om het echter naar waarde te kunnen
+beoordeelen, zou men moeten weten, welk i
+percentage van alle in den leeftijd vallende \
+kinderen onderwijs -geniet. Het onderwijs '
+aan die volksscholen, in 1861/1862 door j
+27000 onderwijzers gegeven, eischt thans |
+ruim 4 maal zooveel leerkrachten. j
+Het aantal' toehoorders aan de hooge- j
+scholen, dat in ditzelfde jaar 5300 bedroeg, i
+was in 1911;1912 29.749, terwijl het aantal •
+vereenigingen tot bevordering van weten- |
+schap en beschaving in die jaren van 1026 j
+tot 18000 is toegenomen. j
+Sedert 1873 is het aantal openbare t:n
+particuliere ziekenhuizen van -1C&gt;7 tol 084 j
+gestegen; voor de openbare gasthuizen is in
+dat tijdsverloop het budget van 6.8 millioen
+tot bijna 37 millioen kr. toegenomen. Bij
+het begin van de regeering des Keizers was
+de verzekering in hare verschillende vormen
+nog weinig bekend, in 1910 echter telden
+de in Oostenrijk bestaande instellingen tot
+verzekering bij ziekten 3.300.000 leden en
+waren 3.800.000 personen tegen ongelukken
+verzekerd.
+27/12-'13 • . v. D, S.
+IIIIIIIIIIIIIIMIIIIIIIIIMIIIIIMIIIIIIIIIHIIIIIIIIIIIIIIIIIIIMIIIMIIMIIIIIIIIIIIIIH
+
+Deli
+De assistent in Deli, practische opmer
+
+kingen met betrekking tot den omgang
+met koelies door C. J. DIXON. Amster
+
+dam, J. H. de Bussy. 1913.
+Conclusie van dit boek, tevens slotzin:
+Deli is een goed land!"
+De schrijver beziet het leven van den
+materieelen kant, dat is duidelik. Hij is het
+type van den Deliaan van zijn tijd, let wel.'
+Mensen als hij aarden het best in Deli en
+de Deli Maatschappijen hebben in hen hun
+beste assistenten, waarmee niet gezegd is?
+dat het de beste mensen zijn.
+Dit boekje geeft, zoals z'n titel aanduidt,
+raadgevingen en opmerkingen, getoetst aan
+de practijk. 't Valt niet te lochenen, dat 'n
+toekomstig Deliaan practies nut zal hebben
+van de lectuur en bovendien zal hij enigzins
+'n voorstelling krijgen van het leven, dat
+hem daar wacht, maar de schrijver neemt
+onbewust aan, dat de aspirant-assistenten
+van hetzelfde gehalte zijn als hij, en dat is
+'n cardinale fout.
+Voor mensen met 'n
+luchtig-over-dedingen-heenglijdende aard is Deli 'n goed
+land, voor hen alleen.
+'t Gevaar schuilt in den leeftijd, waarop
+men gewoonlijk als assistent geëngageerd
+wordt en die meestal plm. 21 jaar (Dixon
+zegt 23) is.
+Is hij eenmaal in Deli, en merkt hij, dat
+hij voor z'n baantje te slecht is of te goed,
+kortom er niet voor deugt, dan is hij nog
+te jong om te bedenken, dat het beter is
+ten halve gekeerd dan ten heele gedwaald.
+'n Soort bravoure, valse schaamte weerhoudt
+hem dat dadelik te bekennen, bovendien zal
+werkelike flinkheid hem er toe brengen door
+te zetten, door den zuren appel heen 'te
+bijten, in de gedachte, dat het wel beter
+zal worden. En langzamerhand zal hij dan
+beginnen niet meer te merken, dat hij niet
+voor Ueli deugt en Deli niet voor hem.
+Wie gezond is, 'n vrolik karakter heeft, niet
+bespiegelend aangelegd is en vooral niet
+crities, wie geen sul is en niet denkt om
+de zorgen van morgen (zonder daarom
+zorgeloos te zijn, maar onbezorgd dus) wie
+houdt van 't buitenleven, en wie geen lief
+
+hebberij heeft in wetenschap, literatuur of
+kunst, laat zo iemand met 'n gerust geweten
+naar Deli te gaan ; zulke mensen kan Deli
+gebruiken en bovendien verliest Holland er
+niets aan, of hoogstens weinig.
+Daarop had Dixon moeten wijzen en dat
+hij het niet gedaan heeft is natuurlik omdat
+hij er uit den aard der zaak geen benul van had.
+De pruderie verbiedt blijkbaar den schrijver
+het geslachtsleven van den Deli planter zelfs
+maar aan te roeren: Holland behoort met
+Engeland nu eenmaal tot de landen, waar
+dit onderwerp geen onderwerp is. De invloed
+die het heeft op de Delianen, en de gevolgen
+ervan zijn anders zo belangrijk, dat de heer
+Dixon daarvoor tenminste de jonge Hollan
+
+ders had moeten waarschuwen, al was het
+dan alleen maar volledigheidshalve.
+Dat hij het niet deed, bewijst alleen, dat
+hij het met z'n geweten in dat opzicht niet heel
+nauw genomen heeft, ten ware dan 'n dergelik
+geweten hem ten enen male ontbrak.
+Dat de gelegenheid aan boord om Maleis
+te leren ontbreekt, is onjuist; uit eigen
+ondervinding weet ik, dat men met'n studie
+van een uur of 3 per dag uit Servaas de
+Bruyn zoveel opsteken kan, dat men er bij
+aankomst in Deli groot gemak van heeft;
+dit raad ik dus iederen Singkeh met over
+
+tuiging aan.
+Haarlem, 21 Nov. '13 A. P. PRINS
+
+* * *
+
+De hondjes van Joséphine
+
+Het was reeds heel laat in den avond van
+den 9den Maart 1796, dat in het gemeente
+
+huis van het tweede arrondissement van
+Parijs het huwelijk gesloten werd tusschen
+Marie Joseph Rose Tascher, weduwe De
+Beauharnais, en generaal Napoleone
+Buonaparte. Onmiddellijk na de plechtigheid reed
+het jonge paar naar het huis in de Rue
+Chantereine No. 6, door Joscphine van Julie
+Carreau, Talma's gescheiden vrouw, voor
+10,000 francs in assignaten of 4000 francs
+in baar geld gehuurd, om daar den nacht
+door te brengen.
+Wie zal de verbazing van den echtgenoot
+schetsen, toen hij in het huwelijksbed een
+leelijk, roodharig mormel, een echten straat
+
+hond, vond? Het was Fortune, hetzelfde
+dier, dat ten tijde van de gevangenschap
+zijner meesteres, in zijn halsband verborgen
+de briefjes naar Eugène, Hortense en haar
+vrienden overbracht. Juist daarom was Jos
+
+phine zoozeer aan het beest gehecht, dat zij
+het zelfs s nachts bij zich in bed liet slapen.
+Fortune kwam op een ongelukkige manier
+aan.zijn eind: tijdens den eersten veldtocht
+in Italië werd hij te Montebello door den
+grooten dog van den chef-kok doodgebeten.
+Joséphine kocht daar terstond een klein
+smousje. Waarschijnlijk kon het diertje niet
+tegen de verandering van lucht, want nauwe
+
+lijks te Parijs gekomen, werd het ziek.
+Joséphine ontbood nu den beroemdsten dok
+
+ter van Italië, dr. Moscati uit Milaan, die
+al zijn patiënten in den steek liet en per
+extra-gelegenlieid naar de Fransche hoofd
+
+stad vertrok. Smousje werd gelukkig beter
+en Moscati's fortuin was gemaakt: hij werd
+president van het Directoire Cisalpin, direc
+
+teur de l'lnstrtiction publique, graaf en sena
+
+tor van het koninkrijk!
+Onder haar talrijk dienstpersoneel had de
+keizerin later eene vrouw, zekere La Brisée,
+die speciaal met de verzorging van haar
+hondje was belast. Zij ontving daarvoor
+1100'francs.
+Dat het beestje een goed leven had, blijkt
+wel uit de jaarrekeningen: de kosten wis
+
+selden per jaar tusschen de 450 en 600 francs!
+Ingezonden
+Onze spoorwegrijtuigen derde klasse
+De gebrekkige toestand der waggons
+derde klasse onzer beide spoorwegmaat
+
+schappijen en de volmaaktheid dier rijtuigen
+van onze oostelijke naburen zijn bekend.
+Toch is het noodig hierop bij herhaling
+terug te komen, daar onze nieuwste rijtuigen
+wel de doelmatige inrichting van den
+Duitschen waggon hebben, maar in hechtheid
+van bouw ten achter staan. Hiervan kan
+slechts een oppervlakkig toezien bij keuring
+de oorzaak zijn, daar aan den goeden wil
+der directies noch aan de kennis der
+fabriekanten mag worden getwijfeld. Daar onze
+spoorwegmaatschappijen voor ongeveer vijf
+en twintig jaren den nieuwen tijd niet heb
+
+ben begrepen en daardoor in 't bezit zijn
+van een groot aantal onvoldoendeen slechte
+rijtuigen, rijst de vraag: zijn wij, publiek,
+veroordeeld om deze rammelkasten af te
+rijden tot op den toestand van geheel ver
+
+val ? Deze vraag aan de directies te stellen,
+hebben wij te meer recht daar de reizigers
+derde klasse tusschen 70 en 80 per honderd
+uitmaken. De Hollander, die dikwijls in
+omgang niet aTtijd beminnelijk en toeschie
+
+telijk is, maar uiterst duldzaam van karakter,
+zal eindelijk over dit verschiet gaan mop
+
+peren en gewis niet ten onrechte. Reeds nu
+verneemt men klachten over den gebrekkigen
+toestand onzer waggons. Verkoop op ruime
+schaal kan hienn alleen de gewenschte uit
+
+komst &lt;geven en het wordt hoog tijd, dat
+de directies dit niet overwegen, maar uit
+
+voeren.
+Dien hoop rammelkasten willen wij niet
+afrijden. Dit betoog lijdt niet aan de minste
+overdrijving. Hij, die de Lokalbahnen aan
+onze grenzen bereist, heeft aldaar nogmaals
+de ervaring van de deugd der Duitsche
+rijtuigen opgedaan; hoeveel meer bewondert
+hij de waggons welke op de groote lijnen
+dienst doen! Er moet door de directies
+ingrijpend gehandeld worden. Voor twee
+dingen moet worden gewaakt:
+l. Dat 1ot verkoop van het grootste deel
+der rijtuigen worde besloten, zoodot wij niet
+veroordeeld zijn dit gebrekkige materiaal te
+verslijten ;
+2. Dat elke nieuwe waggon in vorm en
+kwaliteit voldoet aan de eischen van onzen
+tijd, maar tevens in elk opzicht de volmaakt
+
+heid van den Dititschen waggon bereikt.
+* * *
+J. H. SCHORER
+
+J* * *
+Nieuwe Uitgaven
+
+Vondel's Spelen, ingeleid en toegelicht,
+door C. R. DE KLERK en L. SIMONS, deel III,
+Koning David in Ballingschap, Koning David
+hersteld, A domas (Nederl. Bibl. No. 252—254).
+Amsterdam, Mij. v. Goede en Goedk. Lectuur.
+Nico v. SUCHTELEN, De tuinderdroomen.
+Comedie der liefde in 5 bedrijven (Nederl.
+Bibl. No. 255). Amsterdam, Mij. v. Goedeen
+Goedkoope Lectuur.
+XENOPHON, De Geschiedenis van Abradatas
+en Panthea. Vertaling dr. M. B. MENDES DA
+COSTA (Wereldbibl.) Amsterdam, Mij. v.
+Goede en Goedk. Lectuur.
+HENRI BOREL, Een Droom. Nieuwe uitgaaf
+(Nederl. Bibl. No. 256 257). Amsterdam, Mij.
+v. Goede en Goedk. Lectuur.
+ANNA VAN GOOH-KAULBACH, De Sterkste,
+269 pag. Amsterdam, L. J. Veen.
+HUGO VAN WALDEN, Elooi in 't Woud,
+208 pag. Prijs ƒ1.90 ing. Antwerpen, Victor
+Resseler.
+Handelingen van het Genootschap voor
+zuivere Rede 1912-13.
+Handelingen van het XXXlIste Nederl.
+Taal- en Letterkundig Congres te Antwer
+
+pen 25-± 29 Oogst 1912, 720 pag, Prijs
+frs. 7.50. Antwerpen, V. Resseler.
+W. WIJNAENDTS FRANCKEN-DYSERINCK,
+Drie maanden in de West (Reisbrieven) 250
+pag. Prijs ing. ƒ1.90, geb. ƒ250. Haarlem,
+H. D. Tjeenk Willink.
+JOHANNA W. A. NABER, Van de Revolutie
+tot de Restauratie (Madame CAMPAN, EUGÈNIE
+DE CONCY, LETEZIA RAMOLINO) 3e druk, 240
+pag. Prijs ing. ƒ1.50, geb. ƒ1.90. Haarlem,
+H. D. Tjeenk Willink &amp; Zn.
+Onze Koloniën." Serie I, No. 4: Gerungan,
+S. S. J. RATU-LANGIE, Serikat Islam, 40 pag.,
+ƒ0.40. Baarn, Hollandia-drirkkerij.
+J. M. WOLFSON, Maarten Luther, 100 pag.
+Baarn, Hollandia-drukkerij.
+Het Kloosterwezen in Nederland. (Korte
+aanteekeningen) door C. v. D. POL, 70 pag.
+Den Haag, C. L. G. Veldt.
+Dr. J. L. B. VAN DER MARCK, Schets der
+Ontsmettingsleer, 76 pag. Prijs ƒ1.50, geb.
+ƒ1.90. Zutfen, W. J. Thieme &amp; Co.
+Mevr. A. TE LINTUM, Practisch
+Huishoudboek. Zutfen, W. J. Thieme &amp; Co.
+CATO NEEB, Knipboek. Zutfen, W. J.
+Thieme &amp; Co.
+Wenken over Zuigelingverpleging. Bewerkt
+naar de Duitsche uitgave van zuster ANTONIE
+ZERWER, door B. B. FEIKEMA. Met 'n voor
+
+woord van dr. J. G. GOHL, 67 pag. Leiden,
+A. W. Sijthoff, Uitg. Mij.
+Profeet en Volksfeest. Rede naar aanlei
+
+ding van het verzoek van de Algem. Synode
+der Ned. Herv. Kerk om den 16en Nov. 1913
+het onafhankelijkheidsfeest godsdienstig te
+vieren, door B. DE LIGT. Met voorwoord,
+bijlagen en een naschrift over de Beteekenis
+der Profetie voor Religie en Gemeenschap,
+120 pag. ƒ030. Amsterdam, A H. Kruyt.
+ETIENNE GIRAN, Sébastien Castellion et la
+Réforme calviniste, Les deux Réformes, 576
+pages, Prix 5 francs, Haarlem, J. W.
+Boissevain &amp; Co.
+Soorten en Variëteiten, hoe zij ontstaan
+door mutatie. Voordrachten gehouden aan
+de Universiteit van Californië door Huco
+DE VRIES. Naar den 2en druk in het
+Nederlandsch vertaald door dr. P. G. BUEKERS
+(2e herziene druk) 535 pag. Prijs ing.
+ƒ4.50, geb. ƒ4.90. Haarlem, H. D. Tjeenk
+Willink &amp; Zn.
+De Plant in Nijverheid en Handel, afl. X.
+Amsterdam, Uitg. Mij. Elsevier."
+STIJN STREUVELS, De Landsche Woning
+in Vlaanderen, 65 pag. Amsterdam, L. J. Veen.
+Dr. ALETTA H. JACOBS en F. S. VAN
+BALEN-KLAAR, Vrouwenkiesrecht (Handboekjes
+Elck 't Beste). Amsterdam, Mij. voor Goede
+en Goedk. Lectuur.
+Dr. J. v. D. BERGH VAN EIJSINGA-ELIAS,
+en mr. CLARA WICHMANN, De Vrouwen in
+Nederland voor honderd jaar en thans. (Hand
+
+boekjes Elck 't Beste). Amsterdam, Mij. v.
+Goede en Goedk. Lectuur.
+JACOB ISRAËL DE HAAV, In Russische Ge
+
+vangenissen (Handboekjes Elck 't Beste).
+Amsterdam, Mij. v. Goede en Goedk. Lectuur.
+
+</text>
+<image timestamp="2002:08:20:11:20:27.00" size="487532">D400012A.TIF</image>
+</page>
+</document>

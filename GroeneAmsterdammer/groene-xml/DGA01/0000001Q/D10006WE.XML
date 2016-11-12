@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271008</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+TÖctober
+IroOTic;
+JJ^ ^^fc^ ^^W^JB» JH» ^^B^ •*•• - •^^^^••^^ ^^^^ ~^^ •• ^^ ~ •—^—•—i^m
+feefcblcid voor Nederland
+KEIZERSORACHT 333
+AMSTERDAM - CENTRUM
+TBtBFOON J7»6*
+Lau* • «•*«» M ccatl
+PI A A G T
+VAN
+BÏJSTERVELD
+AMSTERDAM
+.^n x P o R T
+POOL'sATOL
+Hiet meest Betrouwbare merk.
+Maakt Uw tanden gezond en sterk.
+Goed en toch zeer goedkoop.
+R ZURCHER
+TONNAGEFABRIEKenDRUKKERIJ
+VERSGKACHT64~66~68-70-72,AMSTERDAM
+ORMRAMPEN 1925-27
+Verzeker Uwe eigendommen t
+" , Fabrieken» Woon- en Winkelhuizent
+y Inboedels en Goederen*
+f Vaagt onze concurreerende tarieven»
+
+lïNION 1714 A.anBEERENDS6VEEREN
+AMSTERDAM
+r. 29| millioen Golden. LEEUWAKDEN.
+4.V. Meubelmagazijn EdenM
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+Wed.ERAHDER6Zn,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+VGravenhage
+E«&gt;fdkantoor: Binnenkant 25» Amsterdam
+e£ INTERC. TELEFOON 40389
+^couranten worden op aanvrage gaarne toegezonden
+[ VOOR EXPORT SPECIALE CONDITIËN
+FOTO's afwerken
+in 12 uur!
+zorgvuldig.
+
+Houdbare foto's.
+Blijvende b ruïnering!
+
+
+CAPI
+115 Kalverstraat
+AMSTERDAM
+IS MAAR
+KARELI
+rTA.HILI.ENs
+DEIFTSCHE POST
+3 KWALITEITEN:
+VORSTENLANDEN 8 CT
+DELI ZXXNDBLAD 1OCT
+ONOVERTREFBAAR
+SNELBLUSSCHER
+HOLLANDIA"
+" n
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stalen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meerdervoort 12 - DEN,]HAAG - Tel 12869
+j Tl M TU R j
+i
+SM
+s
+i
+SUPERB
+CIGARETTES
+173. NEW BOND STREET,
+LONDON,W1.
+
+</text>
+<image timestamp="2002:09:21:21:31:12.00" size="177827">D10006WE.TIF</image>
+</page>
+</document>

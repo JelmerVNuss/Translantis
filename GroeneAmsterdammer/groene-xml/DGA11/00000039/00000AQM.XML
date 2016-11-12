@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321119</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+DAT IS FORD-PRESTATIE!
+In 10 maanden 320.000 kilometer
+Ford-estafettedienst voor
+couranten-transport.*)
+Nachtritten van 1200 kilometer
+bij weer of geen weer, zonder
+de geringste hapering! Dat is
+Ford-prestatie!
+')Door de slechte treinverbinding
+kon het ochtendblad van de N.R.C.
+in de noordelijke en oostelijke pro
+
+vincies 's morgens niet tijdig bezorgd
+worden. De Ford bracht uitkomst.
+N.V N E D E R LA N D S C H E FORD AUTOMOBIEL FABRIEK AMSTERDAM
+
+</text>
+<image timestamp="2002:09:27:13:24:12.00" size="186491">00000AQM.TIF</image>
+</page>
+</document>

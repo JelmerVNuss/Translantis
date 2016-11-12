@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320917</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+de uitki
+F
+
+
+M Dagelijks 2.30,7.30,930
+T FILM EN MODERNE)
+MUZIEK!
+k
+prinsengracht" bi,
+de leldschestraa
+telefoon 3746
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+l l
+VRAAGT BROCHURE AAN
+BUREAU WITTEVEEN
+Paramaribo plein 58
+A'DAM Tel. 84751
+N .V. GOEDEWAAGEN's Kon. Fabrieken - Gouda
+Wed.H.Rahder&amp;Zn
+WIJNHANDELAREN
+Amsterdam Arnhem
+'s-Gravenhage
+iimn
+Uillll
+Hofleverancier»
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+HOTEL PABST. -Doorn.-Telef. 123
+CAFÉRESTAURANT
+Oudste Huis ter Plaatse.
+Geheel verbouwd en voorzien van alle moderne
+comfort. Ligt in de onmiddellijke nabijheid
+der bosschen. Bekende keuken.
+Zelfde directie als Hotel Lager we ij
+TELEFOON 647O6
+WARHOMD/TRAAT 121
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke organisatie uitsluitend voor
+Medici en. Tandartsen werkzaam is
+Amsterdam (C.) • Rotterdam
+Keizersgracht 410 • Wijnhaven 100
+TARIEVEN OP AANVRAGE.
+BATIKKEN.
+Bekend atelier werkzaam voor
+
+eerste klasse firma's
+
+is nog in de gelegenheid werk
+aan te nemen.
+
+ZICHTZENDING op aanvrage.
+Tevens gelegenheid tot het geven
+van Batiklessen.
+Brieven Letter G, De Groene.
+VAN RIJ N'S
+KMOSTÏRD
+Kiest voor de studie
+van Uw zoon of
+dochter
+EEN ZEISS'
+MICROSCOOP
+Kwaliteit speelt de
+hoofdrol.
+Een microscoop moet
+langer dienst doen,
+dan alleen gedurende
+den studietijd !
+Prijscourant zenden
+wij gaarne op
+aanvraag
+AUG. UILKEMA
+
+Grootste^ Uurwerk MagTj
+Ekc. iKeukenklük. . .. .
+| Kantoor ,, ....... , 11,50
+Horloges met
+versprin, gende cijfers
+'Anker.. f|. 12,50—15—28—60
+Stopwatch.. f|. 6—12—15—45
+WekkerHorl.,, 6—12
+Wekkers luid wekken, onhoor
+
+bare tik ....... f|. 6—7—8
+Eigen modellen Klokken en
+ma? meren Pendules
+OMEGA /KM IT1 1—ETERXA
+
+
+Reguliersbreestraat 39.
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 • DEN HAAG - Tel. 12869
+KUNSTHANDEL AALDERINK
+SINGEL, 348
+AMSTERDAM
+TELEFOON 35533
+(CENTRUM)
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+Boeken voor. kleine kinderen.
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd door
+
+R O K O P U l T
+Ro Kopuit heefteen snoepgoedje
+samengebracht, met suiker en
+honing, met koek en melk. Het wordt
+een feestgebakje voor de kleinen,
+heerlijk geurenden lekker smakend.
+Niet een zal den neus van over de
+bladen willen doen als hij niet alles
+weet wat er op verteld staat, van
+naaldeken tot draadje.
+Dagblad Vooruit, Gent
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+Prijs gebonden F. 1.50
+
+In eiken boekhandel verkrijgbaar
+
+</text>
+<image timestamp="2002:09:27:08:35:52.00" size="138129">00000AKX.TIF</image>
+</page>
+</document>

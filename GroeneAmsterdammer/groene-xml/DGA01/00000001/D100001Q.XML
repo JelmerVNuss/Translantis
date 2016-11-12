@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980731</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Geldleeningen voor Transvaal en Egypte in Europa.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 31 Juli 1898.
+Amst. Boek- en Steendrukkerii, v/h. Kllerman, Harms &amp; Co.
+PlERSON (als Portier van het Hotel de la Holland^: Logeeren'. Best, mijnebeeren, maar voor leenin;
+U hier niet zijn .... 't Kost me al moeite genoeg voor mezelf het iioudige te krijg
+De lui ziin zoo deun.
+leeningen moet
+en ....
+
+</text>
+<image timestamp="2002:08:13:21:03:48.00" size="436065">D100001Q.TIF</image>
+</page>
+</document>

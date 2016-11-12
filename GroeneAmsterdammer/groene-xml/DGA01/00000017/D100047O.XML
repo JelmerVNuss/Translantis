@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940805</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 893
+geschat, en in werkelijkheid zoo armzalig kortzich
+
+tig en oppervlakkig.
+Van humor is in deze verhalen van Thomas Hardy
+slechts hier en daar een spoor. Er is geen pogen
+om zich boven het leven te plaatsen, maar een stille,
+bescheiden inspanning om, staande midden in het
+leven, zich open te stellen voor de volle inwer
+
+king er van; goed op te letten en zoo getrouwe
+
+lijk mogelijk ervan te verhalen, zonder eigenwijs
+te zijn.
+Life's Little Ironies is een leesbaar boekje voor
+iedereen; en voor wie de Engelsche literatuur van
+den dag met eenige belangstelling gade slaat ook
+nog iets meer.
+
+Enffelsche Geschiedenis. De Engelsche letterkunde,
+die tegenwoordig zoo zelden iets sehitterends pro
+
+duceert, is rustig en voortdurend bezig een massa
+degelijk en eerbiedwaardig werk te doen. Over
+eenige maanden zal het eerste deel verschijnen
+van Gardiaer's .Commonwealth and Protectorate',
+om een begin te maken met de aanvulling van een
+der lacunen in de reeks der groote Engelsche ge
+
+schiedwerken van den nieuweren tijd. Om te zwij
+
+gen van J. R. Green's werken over de Angelsaksische
+periode, en van Preeman's Norman Couquest en
+History of William Rufus kan men nu de ge
+
+schiedenis van Engeland sedert de Reformatie voor
+het grootste deel op aangename wij'.e lezen in
+boeken van grootere of kleinere letterkundige
+waarde. De re.ks begint met Froude's History of
+Bngland from the Fall of Wolsey to the Defeat
+of the Spanish Armada, een buitengewoon onder
+
+houdend boek, dat vakgeleerden altijd boos maakt
+door zijn onnauwkeurigheid eu partijdigheid, maar
+waaraan een leek alle onnauwkeurigheid zoo gaarne
+vergeeft. Dan is er een lacune van 1588 tot 1603.
+Met de troonsbestijging van James I begiut
+Gardiner's groote werk, dat op het oogenblik de regee
+
+ring van de eerste twee Stuarts en den burger
+
+oorlog omvat, en dat nu staat te worden voort
+
+gezet. Mogelijk zal Gardiner mettertijd den draad
+voortspiflnen tot waar hij door Maoaulay opge
+
+nomen wordt. Macaulay gaat tot den dood van
+Willem III, en daaraan sluit zich Lecky's England
+in the Eighteenth Century aan.
+Dat is voor een halve eeuw een zeer respectabele
+hoeveelheid werk.
+
+Een liuskin-curiosum. De mensehen waren vijf
+
+tig jaar geleden toch wel anders dan tegenwoordig.
+Dit is de dagverdeeliug van den jongen Ruskin,
+zooals hij die in 1840 aan een vriend beschrijft.
+Men vindt den brief in de pas uitgegeven verza
+
+meling : Letters addressed to a College Friend
+during the years 1840—1S45 by John Ruskin.
+Zoolang de Aeademy geopend is en ik thuis
+ben, moet ik iederen dag naar de stad gaan om
+Turner te bestudeeren; dat neemt een groot stuk
+van den voormiddag weg. Dan moet ik opschrijven
+wat ik van hem heb geleerd. Dan houd ik ervan
+iederen dag als het mooi weer is, een tijdlang
+ingespannen en zorgvuldig naar de natuur te tee
+
+kenen; als liet buiten niet kan, breng ik een blad
+of plant binnen en teeken dat. Dat leidt noodza
+
+kelijk tot het opzoeken van botanische namen en
+een beetje miscroscopische botanie. Dan houd ik
+er niet van, een dag voorbij te laten gaan, zonder
+mijn kennis van historische schilderkunst wat uit
+te breiden, vooral van de oude Italiaansche school:
+dit brengt gewoonlijk eenig werk naar Raffaelle met
+zich en wat historische lectuur, hetgeen mij in het
+doolhof der oude Italiaansche lepublieken voert, en
+mij ook in kerkelijke questies verwikkelt; en dit
+maakt het noodig dat ik de kerkvaders lees (wat ik
+echter nog niet begonnen ben, maar ik ben op het
+punt het te gaan doen) en dogma en sentiment
+van al de takken van de oude kerk bestudeer.
+Dan is een beetje anatomie onmisbaar en veel stu
+
+die van technische zaken het omgaan met kleu
+
+ren, compositie, etc. Tegenover dit alles, wat mijn
+gedachten veel te veel vervuld zou maken met
+kunst, moet ik een correctief hebben. Dat komt
+in den vorm van geologie, die noodzakelijk leidt
+tot chemie; en dit laatste is niet iets om nu en
+dan een beetje van te lezen, maar vereischt in
+
+gespannen lectuur en veel van buiten loeren; en de
+organische chemie heeft in den laatsten tijd zulke
+vord.eringeu gemaakt, dat zij mij meer meesleept dan
+eigenlijk behoorde. Naast scheikunde en mineralogie
+moet ik eenig werk maken van vergelijkende ana
+
+tomie, vooral van visschen, om eenige kennis te
+krijgen van het fossiele karakter van rotsen. Dan
+'wou k graag mijn Grieksch niet heelemaal opge
+
+ven, ajiders vergeet ik het totaal. Daarom vind
+ik mijzelf heel slecht als ik niet iederen dag zeer
+nauwkeurig een stukje Plato lees; en de lectuur
+van Plato dwingt van zelf om te denken aan meer
+dan taalkundige dingen alleen. Eindelijk, daar ik
+voor mijn studie van de oude religieuze
+schilderschool noodzakelijk naar Italiëmoet gaan, is het
+absoluut noodig, dat ik goed Italiaausch ken;
+zoodat ik iederen dag een beetje Tasso moet lezen,
+hetgeen mij moeite kost, daar ik vóór een paar
+maanden geleden mij nooit met de taal had bezig
+gehouden; en ik mag ook mijn Fransch niet heele
+
+maal vergeten."
+Ik verzoek op te merken, dat deze jonge man
+zich geenszins aan den rand der krankzinnigheid,
+maar integendeel allergenoegelijkst gestemd voelt.
+R. A. H. en F. C. JR.
+Benvenuto Coronaro, de bekende componist
+van de fr'esta a marina (in het volgend saizoen
+zal de directie Sonzongo in de Scala te Milaan
+zijn Claudia opvoeren) vertelt in de Rivista
+Musicale eenige herinneringen uit zijn leven.
+Hij was bij het regiment; men zou een grooten
+marsch maken en hij moest mee. Onder den
+marsch viel hem plotseling een aardige origineele
+melodie in. Midden door de trompetmuziek hoorde
+hij de melodie; het gedruiseh der voetstappen
+scheen haar te accompagneeren; gaarne had
+hij ze opgeschreven; het scheen hem
+vreeselijk, dat hij ze misschien vergeten en ver
+
+liezen zou. Plotseling bleef hij staan; hij zou ze
+opteekenen. Hij nam zijn notitieboekje uit den
+zak en ging aan 't schrijven. Maar al schrijvend
+bleef hij staan, zoodat hij uit het gelid raakte.
+Een sergeant kwam op hem toe: »Wat beteekent
+dat? Allo in 't gelid!" »Ik kan niet," ant
+
+woordde Coronaro, »ik moet dit even opschrijven."
+Hij floot de melodie verder, zeer tot ergernis
+van den sergeant die den sabel trok en hem
+een slag met het plat op den rug wilde geven.
+Gelukkig kwam de kapitein aanrijden; de ser
+
+geant bracht rapport uit, en Coronaro schreef
+intusschen verder. Wat schrijf je dan toch?"
+vroeg de kapitein; Coronaro reikte hem het
+notitieboekje; hij sloeg het blaadje om en gaf
+het hem terug. «Schrijf maar verder," zeide hij,
+»maar als dit stuk niet morgen door de regiments
+kapel gespeeld wordt, krijg je wegens
+insubordinatie acht dagen provoost." Hij gaf zijn paard
+de sporen en reed voort; den volgenden dag
+speelde de kapel, die heel goed was, den nieuwen
+marsch.
+
+Te Madrid.
+De leiding van den stadsschouwburg te Madrid,
+(opera en tooneel), die door Staat en stad gesubsi
+
+dieerd wordt, is door den ministerraad aan den heer
+Rodrigo gegund. Deze heeft behalve het gewone ca
+
+hier des charges op zich genomen : lo. een tenor en
+eene contralto te engageeren buiten het gewone
+tableau de la troupe; 2. twee nieuwe stukken in
+ieder saizoen te laten opvoeren; 3. een nieuw
+voordoek te laten schilderen volgens advies der
+technische commissie; 4 de som van 50000
+pesetas voor het derde jaar van zijn contract te
+deponeeren, en voor den bouw van een nieuw too
+
+neel aftezonderen; 5 eene zangschool voor de
+opera te stichten; 6. een danscursus voor het
+ballet te vestigen ; 7. den prijs der plaatsen 14
+percent te verlagen; 8. aanzienlijke verbeteringen
+in costuum en decor aan te brengen ; 9. ieder
+jaar vier van de uitstekendste artisten te enga
+
+geeren. Dit alles wordt beloofd; of de Spanjaard
+dit alles even mooi houden zal als bij het belooft,
+is de vraag. De meeste zijner voorgangers heb
+
+ben er geld bij verloren.
+
+Men deelt ons een aantal uittreksels uit
+Amerikaansche bladen mede, waaruit blijkt dat
+de baryton Maurits de Vries in het eind van
+het vorig jaar te New-Orleans groot succes gehad
+heeft, als acteur zoowel als als zanger.
+
+Van B 12 Augustus zal bij de heeren Van
+Lier de echte Loïe Fuller, die den slangendans
+met de golvende kleeren onder electrisch licht
+gecreëerd heeft, optreden.
+Uit een curieus paar brieven van Alexandre
+Dumas père en zijn zoon, blijkt dat de oude
+heer een oogenblik het denkbeeld heeft gehad,
+met zijn zoon een tooneelstuk te schrijven. De
+brief van Dumas père is van 7 October 1S(J5,
+en luidt:
+Cher maitre!
+Na dertig jaren worstelingen, nederlagen en
+overwinningen, fiasco's en successen, meen ik,
+zooal niet een groote beroemdheid, dan toch den
+naam van een vruchtbaar romancier verkregen
+te hebben. Gisteren nog ontving ik uit Guernsey
+een brief van Victor Hugo, vol aanmoedigingen
+en gelukwenschen. Ik heb de eer, tot den schrijvers
+
+bond en de sociétédes auteurs dramatiqujs te
+behooren; mijne bescheiden aanspraken op den
+eersten titel zijn : (dan volgt eene lijst zijner meest
+succesrijke romans). Nu vraag ik u, clier maitre,
+om de eer, met u een stuk in vijf bedrijven te
+schrijven, waarvan ik u bij onze eerste ont
+
+moeting het idee zal meedeelen. Het is naar
+ik meen, in overeenstemming met den smaak
+van den dag. Zult ge er in toestemmen?
+ALEXANDRE Di MAS père.
+Het antwoord was:
+Cher Maitre! Uw brief is aan het rechte
+adres gekomen. De vriendschap, de liefde, de
+achting, de bewondering, die ik voor mijn vader
+koester, maken het mij tot een plicht en genoegen,
+blindelings uw vriendelijk voorstel aan te nemen
+Afgesproken dan : wij maken een stuk in vijf
+bedrijven, waaraan wij te samen zullen werken.
+Met u te werken is, onder ons gezegd, naar ik
+meen, ook geen slechte affaire.
+AI.KXANDRI-: DUMAS lils.
+Voorzoover men weet intusschen is er van het
+plan niets gekomen.
+
+Fritz Reuter.
+Te Jena in den Ringkeller, het bierhuis van
+de Burschenschaft »Arminia", waartoe Fritz Reu
+
+ter in zijn jeugd behoorde, hangt een portret
+van hem, waarvoor hij zelf het bijschrift heelt
+geleverd:
+»Die Welt ist anders geworden ich fühl's
+Der Ernst trat an Stelle des i'rühlichen Spiels:
+Wo einst ich gejübelt in jungen Jahren
+Hangt man mich jetzt aut' in ergrauteu Ilaaren
+Fritz Reuter."
+
+In een opstel over de -Magna Charta" in het
+archief der Enghth Record ticciety beweert dr.
+John Vincent, dat de tallooze schilderijen, waarop
+men Koning Jan zonder Land de Magna Charta
+ziet onderteekenen, op eene legende berusten.
+Koning Jan heeft misschien kunnen lezen, maar
+dit is niet zeker; schrijven kon hij niet, en
+het exemplaar van de beroemde oorkonde, den
+grondslag van Engelands vrijheden, in het liritsch
+Museum bewaard, is maar een ruw concept; het
+echte stuk is niet bewaard gebleven.
+SCHETSJES
+"i " - j
+
+Schrijverseigenaardigheden.
+
+Eugène Mouton heeft in de lïeriie Ii!cnc een
+artikel over Je eigenaardigheden van sommige
+schrijvers. Hot onderwerp is al vaak behandeld
+en toch nog aantrekkelijk.
+»Iemand dien ik intiem ken," schrijft hij, &gt;/.ou
+om alles tor wereld niet anders srlirijven dan
+met eene ganzenveder, omdat de stalen pen zijn
+stijl hard en de beelden mager maakt, llij moet
+inkt hebben »de la l'etite Vertu,'' omdat die
+alleen echt zwart is; geglaceml kwarto papier,
+.omdat daarop de pen nooit haakt; heel stevig,
+omdat de bladen dan by het heen en weer leggen
+niet kreukelig worden. Op zijn tafel mag niets
+liggen dan de inktkoker, heel netjes schoon
+
+gemaakt, een doos met deksel waarin een mes,
+potlood, gomelastiek, radeerijzer en vouwbeen."
+Vraagt men hem, waartoe dat alles, en hij
+weet u van ieder voorwerp uiteen te zetten, wat
+de onmisbare eigenschappen zijn; ge moet dan
+toegeven dat zonder die instrumenten, zijn hoofd
+nooit een regel proza, zelfs geen slecht proza
+had kunnen voortbrengen.
+Een van onze romanciers, tegelijk een rechter
+
+lijk persoon van hoogen rang, kan alleen schrij
+
+ven op kleine vierkantjes groenachtig carton;
+ieder van die blaadjes copiëert hij zoolang, tot
+er geen doorhaling meer in is."
+In een heel ander genre vei telt Eugène Mouton
+van eene schrijfster, die op papier van niet grooter
+dan twee visitekaartjes, in ns door, zonder adem
+te scheppen vijftig regels schrijft, met heel lange
+letters, die in elkaar sluiten. »Als het blaadje
+vol is, neemt ze een nieuw, en zoo verder, tot
+ze er 400, 500 a, 1000 vol heeft. Dan raapt zij
+ze bij elkaar, maakt er een pakje van en brengt
+ze ter drukkerij; zonder een blaadje, of zelfs
+een enkelen volzin te hebben overgelezen, of zelfs
+een woord. En het is er niet zooveel slechter
+om geschreven of gestyleerd, dan een aantal andere
+beroemde romans. Léon Gonzalès had voor zoo
+iets een woord, dat men niet goed kan neer
+
+schrijven, maar dat het vloeiende van zulk een
+stijl wel weergaf".
+Het tegenovergestelde van zulk een
+onuitputtelijken stroom van copie vindt men bij Mérimée,
+die zijne groote novelle Colontba tot zeventien
+maal overschreef, en van wien men ook al weer
+kon zeggen, dat het er niet te slechter om was.
+Jean-Jacques Rousseau las en schreef ook
+telkens zijn manuscript over; hij zegt het zelf
+in de Confessions ten opzichte van LM NouvMe
+lléloïie, en toen het klaar was, bond hij het met
+mooie gekleurde lintjes, blauw of rose dicht.
+Maar hij deed nog anders. Vóórdat hij iets
+opschreef, had hij geheele perioden klaargemaakt
+en schreef ze uit het hoofd op. Zijn stijl, zoo
+muzikaal, staat zeker in verband met dat
+componeeren; hij zong zijn bladzijden soms dagen
+achtereen in zich zelven. Vandaar ook, dat hij
+in de open lucht kon werken ; hij peinsde onder
+een boom, aan een vijver, en als hij het goed
+van buiten kende, ging hij het thuis overschrijven.
+Nu de oude Dumas. »Ilij had niet de honderd
+meesterwerken kunnen schrijven, die zijn naim
+dragen, wanneer hij gewerkt had als Rousseau.
+Aan zijn schrijftafel gezeten, kon hij zeventien
+of achttien uren achtereen schrijven zonder op
+
+houden, zonder een regel over te lezen, en zonder
+dat de stroom van zijn bewonderenswaardige ver
+
+beeldingskracht een oogenblik ophield te vloeien.
+Maar plotseling, midden in de dolle vaart, bleef'
+de pen steken. De meester keek schuins weg om
+zich te herinneren: »Mort et damnation !" . . . de
+persoon wiens avontuur Lij daar vertelde, was al
+drie hoofdstukken geleden doodgeschoten, of kon
+nooit op dien tijd uit Afrika of Indiëhier zijn.
+Dan was het een angst, een woede, totdat men
+den draad van de gebeurtenissen had terugge
+
+vonden en de onmogelijkheden hersteld had."
+Bij den zoon. Alexandre Dumas tils, is het heel
+anders. »Met heel lang nadenken, organiseeren,
+verwisselen en uitrekenen wordt de machtige
+machine ineengezet, waarvan ieder raadje en
+veertje zijn beteekenis heeft. Steen voor steen,
+woord voor woord, wordt het drama in zijn hoofd
+opgebouwd, ieder denkbeeld scherp geformuleerd
+op /ijn plaats gezet, weer onder handen genomen,
+omgekeerd, bekeken, en eerst als al de deelen
+klaar zijn, wordt het geheel ervan samengesteld."
+Meer aan den ouden Dumas verwant, is l'onson
+du Terrail; zijn vruchtbaarheid was even groot,
+maar zijn memorie niet zoo goed. liet was in al
+de inktplas-en verdronken. Er kwamen in zijn
+romans zooveel, en zoo zonderlinge personen voor,
+dat hij ze vergat zoodra hij ze niet meer voor
+oogen had, en ze niet meer herkende als hij ze
+weer vond. Hij had dus, om den draad niet te
+verliezen, op zijn tafel, in een halven cirkel, een
+heele reeks poppetjes staan, gecostumeerd zooals
+zijn helden en heldinnen' (zuu dool Ihsen ook,
+naar men beweert) »en zoodra er een dood
+was. werd hij liij den nek gepakt en in een lade
+gegooid ; de romancier kon dan met de overige
+marionnetten blijven doorspelen, zonder te vreezen,
+dat de een ot' andere doode opstond en de ver
+
+tooning in de war bracht."
+Eenige schrijvers, en zij zijn de plaag van
+zetter en uitgever, hebben, als zij hun «denk
+
+beelden" o]) het papier geworpen hebben, eigen
+
+lijk volstrekt niet gezegd wat -/.ij bedoelden ; eerst
+als zij het gedrukt zien, wordt hun gedachte hun
+helder. Dan beginnen de bijvoegingen, verbete
+
+ringen, strepen inkt, omzettingen, en alles kan
+opnieuw gezet worden. Een tweede proef lijkt
+hun even barlmarsch; na drie of vier proeven
+zweren zij dat alles in orde is, en men kan gaan
+•opmaken." Maar de &gt;opgomaakte'' proef vol
+
+doet hen weer niet, on alles begint opnieuw, met
+dat verschil dat telkens de zestien pagina's uit
+elkaar moeten genomen worden, en verloopen'1;
+hetgeen uren werk, correctie en ergernis kost.
+In Frankrijk komt dit ten koste van den schrij
+
+ver, en hot was de reden waarom Halzac, in
+plaats van rijk te worden, met ieder van zijn
+boeken die]»1!1 in de schuld kwam. Om de cor
+
+rectie van do vorige boeken te betalen moest bij
+nieuwe i-ehrijvon. De philosool' Cousin deed op
+die w ij', o zijn uitgever 5o.ooo francs aan correc
+
+tie betalen voor een betrekkelijk klein boek.
+vo
+l)e rroii/r ran on~c &lt;?«/en. liet
+itemrecht der vrtimc. jttud.
+UeniontIJ dun. Mode. Itecrptcn.
+Wanneer er van de vrouw onzer dagen kwaad
+gesproken wordt, is het niet de schuld der
+mannen, maar van haar zelve. Lady Jeune, Ouida,
+Lynn Linton en een menigte andere schrijfsters
+gaan als boetgezanten rond en schrijven wonder
+
+lijke artikelen over de verdorvenheid van haar
+sekse. In The Humanitarian heeft Lady Violet
+Grevüle een klacht, zoo overdreven, als er
+lichtooit een geschreven is. »De tevreden huiselijke
+vrouw behoort feitelijk tot het verledene, het
+eigenlijk huiselijk leven bestaat niet meer in
+Engeland"... »De zucht naar genot, naar op
+
+winding, vergiftigt het geheele jongere geslacht."
+»De oproerige dochter komt in opstand tegen
+arbeid, tegen plicht, tegen huiselijkheid, niet
+minder dan tegen de verafschuwde conventie"...
+»De moderne vrouw heeft zoowel tegen het huwelijk
+als tegen het moederschap." . . . »En als zij een
+man begeert, is zij niet tevreden met een eerste
+liefde; neen, de man van ondervinding is degene
+naar wien zij uitziet."
+Lady Violet Greville is zeker te beklagen; zij
+moet al heel onaardige vrouwen en meisjes tot
+kennissen hebben. In Scribner's Magazine is
+miss Agnes Repplier ook niet zachtzinnig, maar
+toch veel redelijker. »In Amerika nog meer dan
+in Engeland is er een misstand: men behandelt
+en bespreekt het werk van de vrouw heel anders
+dan dat van den man. Zij zelf moet eenvoudiger,
+bescheidener, oprechter over haar taak en haar
+streven spreken. Vrouwen willen gaarne hooren,
+dat zij alles goed en beter dan de man doen,
+en dat zij van niemand meer iets te leeren
+hebben. Naar mate er meer doctoressen en
+vrouwelijke architecten komen, zal dat wellicht
+beter worden; wij zullen ons zelf en de wereld
+zal ons kalmer opnemen. Het vrouwenwerk zal
+ook beter worden, wanneer het niet altijd weer
+begint met artikelen schrijven en speechen hou
+
+den, om onze verwondering en verrukking te
+betuigen dat wij toch waarlijk tot iets in staat
+zijn; wanneer wij niet meer geprezen en op het
+hoofd geklopt worden als wonderkindertjes."
+Misschien zullen dan ook de vrouwen-advokaten
+niet enkel aanvallend meer optreden; misschien
+zullen dan de vrouwen ook, wanneer zij het een
+of ander elementair feit van physiologie hebben
+opgediept, er niet dadelijk een ongezonden roman
+over willen gaan schrijven."
+*
+* *
+Wat de werking van het stemrecht der vrouw
+in Amerika betreft, zijn de getuigenissen niet
+zoo gunstig als men zou meenen De jVort/j
+American Rerieiv van Juni heeft twee artikelen
+van gouverneurs van Staten. De een, gouverneur
+Waite in Colorado, zegt (terwijl hij er vóór is):
+:Men moet toegeven dat de uitwerking, die gelijk
+kiesrecht hebben zal, nog op gissing berust. In
+Utah heeft het kiesrecht der vrouw nog niet tot
+het afschaffen der veelwijverij geleid; maar de
+veelwijverij was er eene Mormoonsche gods
+
+dienstinstelling, en een groot gedeelte der stem
+
+hebbende vrouwen waren polygarnisten door geloof
+of praktijk. In Wyoming en Washington is, naar
+mij bekend is, geenerlei vooruitgang in politiek
+opzicht aan het kiesrecht der vrouw te danken;
+en in Colorado is de maatregel nog niet lang
+genoeg ingevoerd om reeds over gevolgen te
+kunnen spreken. Zeer zeker is er weinig hoop
+voor de toekomst zoolang de vrouw niet meer
+dan de man, zich grondig toelegt op de kennis
+van politieke zaken, en tracht een eind te maken
+aan de treurigen toestand waarin ons volk tusschen
+het samenzweren van monopolisten en de misda
+
+dige onverschilligheid van de groote massa der
+kiezers verkeert."
+De gouverneur van Nebraska meent dat men
+in zijn staat wel niet tot het kiesrecht voor de
+vrouw komen zal: »Men kan, vergelijkingen
+makend, opmerken, dat de drankwetten in Ne
+
+braska veel strenger zijn en veel beter in acht
+genomen worden dan in den aangrenzenden staat
+Wyoming, waar de vrouw al vijf en twintig jaar
+het kiesrecht bezit". .. »ln de hoofdstad Wyoming
+zijn de speelhuizen talrijk ; open nalcons zijn er
+evenveel als eenige andere soort van winkels; nog
+onlangs is de beschuldiging uitgesproken, dat geen
+enkele wetsbepaling van humanitairen aard door den
+invloed der vrouwen is tot stand gekomen. Of
+dit geheel waar is, weet ik niet, maar wel, dat
+in Lincoln, de hoofdstad van Nebraska, een stad
+van (55,000 inwoners, er noch speelhuizen, noch
+huizen van prostitutie zijn, en dat de enkele
+saloons er onder het strengste toezicht staan."
+Opmerkelijk is het, dat in den staat
+NewJersey lang geleden, van 177(&gt; tot LSüT, de
+vrouwen het kiesrecht gehad hebben. Toen is het
+afgeschaft om de wonderlijke reden, dat de blanke
+mannen zich, na het stemmen, als vrouwen of
+negers verkleedden, en dan nog eens gingen
+stemmen! Ue nieuwe beweging dateert vanlSöO;
+de eerste staat die er aan gehoor gaf was
+Wyoming, in JSiüi. De qiiaestie wordt in de meeste
+staten nu en dan opgeworpen; een curieus argu
+
+ment is dat van den heer Matthew Hale te
+NewYork. Hij ber kent het aantal vrouwen van slecht
+levensgedrag te New-York op 50,000 en vreest
+den invloed van dezen als kiesgerechtigden, zon
+
+der te denken om het aantal onberispelijke
+vrouwen, dat natuurlijk veel grooter is, en het
+aantal mannen van verschillend levensgedrag, die
+nu reeds stommen.
+* *
+Na Ilosa Bonheur heeft nu weder eene Fransche
+schilderes het kruis van het Legioen van Eer
+gekregen, Virginie Demont-Breton. Sedert jaren
+zijn haar groote doeken, Les Loups de Mer, La
+l\m/r. Le Bain, Ij'llomme est en mer, lïetour
+de l'ccli", Jeurme d'Are, Lc Messie, -leun Varf,
+meest alle groote stnimlstukken en tafereelen uit
+het zeemansleven, de eer van den salon. Virginie
+is de dochter van den schilder Jules Breton en
+de vrouw van den schilder Adrien Demont. Hun
+atelier ligt in een kleine villa to Montgoron ;
+ieder jaar gaat zij zes of acht maanden op de
+krijtrotsen van Tas de Caluis, en aan de stranden
+stucleeren, en vult dan te .Montgeron, inde stilte
+van het atelier, ver van Parijs en den strijd van
+scholen en talenten, haar enorme composities aan.
+Mevr. Virginie Demont heeft twee dochtertjes,
+en een allergelukkigst familieleven.
+* *
+*
+Voor Ostendo en Trouville schijnen de groote
+couturiers, behalve wit, zwart en geel, vooral
+
+</text>
+<image timestamp="2002:09:03:13:20:37.00" size="440124">D100047O.TIF</image>
+</page>
+</document>

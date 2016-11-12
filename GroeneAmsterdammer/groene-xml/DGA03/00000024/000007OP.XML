@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400907</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Fluorescentie en fluorescentie microscopie
+ULTRAMICROCOSPIE
+polarisatiemicroscopie
+fluorescentiemicroscopie; waarlijk,
+het schijnt, dat men over de micros
+
+copie toch niet zóó gauw uitgepraat
+zal geraken !
+Beperken wij ons heden tot fluores
+
+centie en fluorescentie-microscopie.
+Onder fluorescentie wordt verstaan
+het vermogen van een stof om stralen
+van bepaalde golflengte te absorbeeren
+en deze weer uit te zenden als licht van
+andere golflengte. Zér veel stoffen in
+de levende natuur bezitten deze eigen
+
+schap, en het ligt dus voor de hand,
+dat de bestudeering van deze ver
+
+schijnselen zich niet beperkt heeft tot
+macroscopisch onderzoek, doch zich
+ook heeft uitgebreid tot microscopische
+waarnemingen.
+Zoo werd dan reeds jaren geleden
+door de Reichertfabrieken het fluor
+
+escentie microscoop geconstrueerd,
+direct daarop gevolgd door de con
+
+structie van het overeenkomstige lumi
+
+nescentiemicroscoop door de
+Zeissfabrieken.
+Om twee redenen nu genoten deze
+apparaten in den tijd, waarin ze uit
+
+gevonden werden, niet die belangstel
+
+ling, waarop ze recht hadden. In de
+eerste plaats door de geringe kennis
+omtrent de in de weefsels voorkomende
+fluoresceerende stoffen; eerst de uit
+
+voerige studie der thans in het brand
+
+punt van belangstelling staande vita
+
+minen en de hierbij veelvuldig voor
+
+komende fluorescentie (vitamine A,
+lactioflavine o.a. fluoresceeren) deed
+de behoefte aan
+microfluorescentieapparaten duidelijk gevoelen. Ten
+tweede was de technische uitvoering
+verre van volmaakt.
+Volgens den regel van Stokes heeft
+het uitgestraalde fluorescentielicht een
+grootere golflengte dan het geabsor
+
+beerde licht. Volgens de energiewet kan
+de energie van een photon van het
+uitgestraalde licht slechts kleiner of
+hoogstens gelijk zijn aan die van het
+invallende quant. Slechts wanneer (dit
+gebeurt bij uitzondering) de moleculen
+in staat zijn bij deze transformatie
+kinetische energie op te nemen, kan
+het fluorescentielicht stralen van klei
+
+nere golflengte, dus mér energie be
+
+vatten, en dan treden in het spectrum
+de z.g. antistokesche banden op. Voor
+
+beelden hiervan vormen de kleurstoffen
+magdalarood en rose-bengale.
+Het is dus zaak, voor herkenning
+eener eventueel aanwezige fluores
+
+centie, invallend licht te gebruiken, dat
+zooveel mogelijk naar den kant van het
+violet is verschoven, liefst in het ultra
+
+violette spectrum ligt.
+Wij verdeelen naar practische mo
+
+tieven, het ultra violette licht in 3
+deelen: het ultraviolet I van 400—300
+mmu, het ultraviolet II van 300—200
+mmu, en het Schumannsche ultra
+
+violet van 200—100 mmu. Hierop vol
+
+gen dan de respectieve gebieden der
+Röntgen-, der gamma- en
+ultragammaen der kosmische stralen. Het ultra
+
+violet I heeft nu in het bijzonder en
+mér dan het overige ultraviolet en
+violette of blauwe stralen, het vermo
+
+gen om sterk fluorescentielicht op te
+wekken. Wij zijn begonnen met te zeg
+
+gen: zér veel stoffen in de levende
+natuur fluoresceeren", thans gaan wij
+een stap verder en zeggen: bijna alle
+organische en de meeste anorganische
+stoffen fluoresceeren onder bepaalde
+experimenteele verhoudingen. Som
+
+mige stoffen lichten b.v. alleen in vas
+
+ten vorm, andere in vloeibaren toe
+
+stand, wér andere in vasten, zoowel
+als in vloeibaren toestand. Dan zijn er
+stoffen, die alleen in zeer verdunden
+toestand fluoresceeren, terwijl bij groo
+
+tere concentratie het lichten direct
+ophoudt. Ook de aanwezigheid van een
+tweede optisch indifferente stof, kan
+de fluorescentie doen verdwijnen; vele
+stoffen fluoresceeren eerst bij bestra
+
+ling met zeer sterk ultraviolet licht.
+Tenslotte heeft elke stof een voor
+haar karakteristiek 1.1. klein
+stralengebied, dat in staat is, haar fluores
+
+centie op te wekken, bevat de gebruikte
+lichtbron deze stralen toevallig niet,
+dan fluoresceert de te onderzoeken stof
+niet, hoewel zij wel tot de fluorescee
+
+rende stoffen behoort.
+Het fluorescentielicht hangt zeer sterk
+van de structuur van de betrokken stof
+af, en zoo kan men dan door middel van
+het fluorescentielicht, chemisch niet
+homogene voorwerpen onderzoeken.
+
+DAARAAN is het dan te danken,
+dat de fluorescentie-analyse een
+zoo wijd gebied van toepassing heeft
+gevonden. De criminologie,
+archaeologie, biologie, geneeskunde,
+palaeontologie, chemie, pharmacie, bedienen
+zich alle van tijd tot tijd van dit onder
+
+zoek. Bankbiljetten, schilderijen en
+tallooze andere voorwerpen worden op
+deze wijze onderzocht.
+De afbeelding geeft een prachtig voor
+
+beeld van een practische toepassing der
+fluorescentietechniek: een oeroud per
+
+kament is donkerbruin en daarmee
+onleesbaar geworden. In ultraviolet
+licht begint het perkament blauw te
+fluoresceeren het schrift in het ge
+
+heel niet, zoodat men, door middel van
+een fotografische opname, het geschre
+
+vene reconstrueeren kan.
+Hier wordt een stukje cultuur uit de
+klauwen van den tijd gered !
+Nog een ander feit heeft sterk de
+aandacht der geleerden getrokken: ge
+
+bleken is dat levend weefsel van een
+kankergezwel fluoresceerende eigen
+
+schappen heeft. Stelt men een kanker
+
+gezwel bloot aan ultraviolet licht, dan
+blijft het centrum donker, of vertoont
+hoogstens hier en daar een roode fluor
+
+escentie; meer naar de peripherie
+neemt het vermogen toe, waarbij het
+uitgezonden licht oranje of geel is,
+terwijl de peripherie zelf, waaraan mi
+
+croscopisch geen ziekelijke verande
+
+ringen meer zijn waar te nemen, een
+sterke, lichtblauwe fluorescentie ople
+
+vert.
+Het eigenlijk belangrijke van deze
+waarnemingen is, zooals de lezer reeds
+begrepen zal hebben, het feit, dat niet
+het zieke, eigenlijke kankerweefsel
+fluoresceert, doch wel het nog oogen
+
+schijnlijk gezonde, doch blijkbaar tot
+ontaarding voorbeschikte, zoogenaamd
+praecarcinomateuse" weefsel, terwijl
+normale huid weer hél weinig fluores
+
+ceert. Liggen hier in de toekomst moge
+
+lijkheden voor de vroegdiagnose van
+kanker ?
+De intensiteit van het fluorescentie
+
+licht is evenredig met het geabsorbeerde
+licht en dit laatste weer met de intensi
+
+teit van het invallende licht. Om dus
+microfluorescentie op te wekken, vooral
+wanneer het onderzoek zal plaats heb
+
+ben met sterke vergrooting, eventueel
+immersie is een zeer krachtige lichtbron
+noodig. Deze is gevonden in de
+booglamp met metalen- of metaal bevatten
+
+de kool-electroden, b.v. ijzer en nikkel.
+Alle optiek, lenzen zoowel als spie
+
+gels tot en met het voorwerpglas, van
+microscoop zoowel als lichtbron dienen
+te bestaan uit kwartsglas, daar
+gewoon glas het ultraviolette licht
+absorbeert. Op het voorwerpglas wor
+
+den de ultraviolette stralen
+gestransformeerd in die van het zichtbare spec
+
+trum en de rest van het optische sys
+
+teem, van dekglas, dus tot en met
+oculair kan bestaan uit het materiaal
+waaruit lenzen gewoonlijk worden ge
+
+slepen.
+Het oog ziet nu het fluoresceerende
+voorwerp vergroot op een donkeren
+achtergrond en.met behulp van zoo'n
+opstelling is het nu mogelijk het fluor
+
+escentieverschijnsel microscopisch te
+bestudeeren. Van nu af aan moeten we
+onderscheid maken tusschen
+primaireen secundaire fluorescentie; de eerste
+is de ware fluorescentie, die het onder
+
+zochte weefsel van nature bezit; het
+tweede is een kunstproduct, ontstaan
+door fixatie en vooral kleuring der
+microscopische praeparaten met fluor
+
+esceerende stoffen.
+Doel der fluorescentiemicroscopie is
+steeds: het herkennen van de chemi
+
+sche geaardheid der in de weefsels aan
+
+wezige stoffen. En hier schuilt een
+reuzenadder in het gras: immers, stof
+
+fen van zér uiteenloopende
+chemischen bouw kunnen een nagenoeg gelijk
+gekleurd fluorescentielicht uitstralen.
+De onderzoeker zal nu het subjec
+
+tieve begrip kleur" moeten vervangen
+door een objectieven maatstaf: ontle
+
+ding van deze kleur door middel van
+de spectroscoop.
+Voor de diagnose van een onbekend
+weefselbestanddeel is het dan nood
+
+zakelijk te weten welke bekende stof
+uit organische- of anorganische chemie
+een hiermee identiek lijnenbeeld geeft.
+Zoo werd door Quesnes in levercellen
+een onbekende fluoresceerende stof X
+aangetoond, die hij wist te
+identificeeren met vitamine A1. Voor de kliniek
+heeft de fluorescentiemiscroscopie
+reeds verschillende, schoon nog niet
+alle vaststaande resultaten opgeleverd.
+De belangrijke perspectieven bij het
+kankeronderzoek zijn reeds vermeld.
+Voorts bleken bij bepaalde ernstige
+bloedziekten, fluoresceerende cellen uit
+het bloed te verdwijnen.
+Ook hier schijnt dus de wetenschap
+
+pelijke winst die te boeken is, in den
+zin van een vervroegde diagnose uit
+alles. De fluorescentiemicroscopie
+heeft echter nog nauwelijks haar in
+
+trede in het klinisch laboratorium ge
+
+daan, slechts de toekomst zal leeren,
+of zij zich hier een blijvende plaats zal
+weten te veroveren.
+Door ultraviolette bestraling wordt
+een oud perkament leesbaar gemaakt
+'AG. 11 DE GROENE No. 3J98
+
+</text>
+<image timestamp="2002:09:13:08:57:31.00" size="527850">000007OP.TIF</image>
+</page>
+</document>

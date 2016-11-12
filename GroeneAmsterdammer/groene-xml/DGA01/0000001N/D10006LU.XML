@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270625</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+£t&gt; Juini
+Abooncmentipriji per )ur ƒ10.—.
+AdvertcatUa ƒ0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+COELINGH'S
+ii GiJIjphane iirpikt
+2O CENT.
+CSAURHziL
+HOFLEVERANCIER
+ROKIN 131 over de Ned. Bank
+Telefoon 402-W, 49971
+Vischrestaurant
+en Visckhandel
+A K' Z U R C H E R
+CARTONNAGEFABRIEKenDRUKKERIJ
+LOOIERSGRACHT64~66~68~70-72,AMSTERDAM
+.UNION"
+London, Ao 17 H. Verzekering tegen
+INBRAAK-,
+WATERLEIDING- EN
+STORMSCHADE
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+n CENT PER H ALP ONS
+N. V. Meubelmagazijn Eden
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+3Tnmeergchuimkleur?
+
+N.V. GOEDEWAACEN-GOUDA
+Handelsdrukwerk- Periodieken - Catalogi
+
+
+JDrukkerij Jrlantijn
+
+Amsterdam
+
+Reclamedrukwerk - Greldswaardig Papier
+Afwerken
+Amateur-opnamen
+Vlug, net, billijk.
+Speciale inrichting!
+CAPI
+115
+KALVEE8TBAAT
+115
+t/o LIBERTY
+•N|1.A.KLOOSTERHUIS
+AMSTERDAM
+'..LES TEMPS NOUVEAUX
+BRONZES c
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM..
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE,
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283
+Amsterdam
+TIMTU
+PROF.
+
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOH. H. v. d. MEIDEN - Amersfoort
+Stoel's Woningbureau
+Bloemendaalscheweg No. 161
+BLOEMENDAAL
+MOBACO
+Bouw Speeldoozcn
+Zeer leerrijk en onderhoudend Speelgoed
+N.V. BOSCH, HONIG 6 Co,
+DOMSTRAAT 6 - UTRECHT
+
+</text>
+<image timestamp="2002:09:21:11:33:17.00" size="149659">D10006LU.TIF</image>
+</page>
+</document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18891103</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De jongste bondgenoot der Nederl. Hervormde Kerk.
+
+Etteljjke leden van den Amsterdamschen gemeenteraad staan gereed om het voorstel te doen tot opheffing der theologische faculteit, en daarmede de
+schennende hand te slaan aan Neerlands glorie sedert de 17de eeuw: de Neder!. Hervormde Kerk. Gelukkig dat de reuzenbonw, die wel andere stormen
+heeft getrotseerd, tegen dien aanval nog wel bestand zal zgn, en er alle uitzicht bestaat, dat het rekest zal worden gedeponeerd ter plaatse waar het behoort".
+(Mr. 3. A. LEVY, in Burgerplicht.)
+BIJVOEGSEL van do Amsterdammer. Weekblad voor Nederland van 3 November 1889.
+Gy booze leden van den raad
+Die uwe handen schennend slaat
+Aan Neerland's hoogste glorie,
+Aan Nederland's Hervormde Kerk,
+Sints zestienhonderd groot en sterk
+Kraait niet te vroeg victorie!
+Bedenkt het, dat die reuzenbouw, j Zie, toen 't orakel en het licht,
+Dat monument van vrome trouw, j De tiere held van Burgerplicht
+Reeds menig storm trotseerde!
+Uw wensch wordt nimmer een decreet,
+Maar uw rekest gaat naar 't
+Op last van geavanceerden."
+Zoo streed voor 't eeuwig ware,
+Toen klonken stemmen in het rond
+Stoomdnikkerij Ellerman, Harms &amp; Co.
+
+Kom spoedig tot ons, Bronsveld, kom,
+En voer hem in het heiligdom,
+En laat den raad maar praten.
+Uw jongsten steun van ouden stam,
+Uit Nederlandsen Hervormden mond : Die zoo vol eerbied tot u kwam,
+Tu (ïignus es intrare!" Moogt gy niet buiten laten !
+
+</text>
+<image timestamp="2002:10:03:17:30:41.00" size="709548">00000BJW.TIF</image>
+</page>
+</document>

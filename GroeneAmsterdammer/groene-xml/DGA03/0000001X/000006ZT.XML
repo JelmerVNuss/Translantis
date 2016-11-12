@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281013</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Me. 2680 Van 13 October 192E
+25 et.
+KEIZERSGRACHT 333 AMSTERDAM CENTRUM
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+EENHEIDSPOLIS
+Inboedels P. . 2Vi %o p. jr.
+Woonhuizen . . l1/! /oo »»
+\ t
+HOFLEVERANCIERS VAN Z. K. H. PRINS HENDRIK DER NEDERLANDEN.
+VAN STRAALEN
+
+MONSIEUR
+
+6 ERKELENS
+
+WIJNHANDELAREN
+
+ROTTERDAM^LEUVEHAVEN 34- Tel. 2456
+FILIALEN:
+DEN HAAG - Anna Paulownastr. 36 - Tel. 32532
+HELDER Hoofdgracht 37 Telefoon 83
+
+VRAAGT ONZE PRIJSCOURANT
+JUNI 1928
+N.V.YH.
+RAMOOSTERIMS
+AMSTERDAM
+KALVER5TRAAT 178
+DE RESZKE
+The Aristocrat of Cidarettes
+ZACHT
+AROMATISCH
+Wherever the righi people meet, there
+also you will meet the right
+eid&amp;rette
+DE RESZKE,
+of
+course !
+J MILLHOPPCCo.lTt
+&amp;&amp;.
+PICCADILLV
+LONDOM W,l.
+
+</text>
+<image timestamp="2002:09:05:10:45:50.00" size="147661">000006ZT.TIF</image>
+</page>
+</document>

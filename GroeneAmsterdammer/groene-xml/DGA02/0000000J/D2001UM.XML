@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030510</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1350
+DE AMSTERDAMMER WEEKBLAD VOOE NEDERLARDl
+11
+De gift van Carnegie tot stichting van een huis voor 't Hof van Arbitrage.
+:*£*.*&amp;'&amp; ,
+-	'	r ^ • ^T*7^ «/Tii a \f * ^~ rf^A M * jST*
+* f^£ ^^-fi^ J&amp;
+^ *QL2è^ ^^\ ' ^^h*»
+-95 U^^.» '. \ ^-^ ^
+• !•&gt;£.
+MOGENDHEDEN (tot Carnegif): »Dat ja den Vrede een huls wilt ge?en, h tot daaraantoe; maar maak die schoone slaapster in Godsnaam niet wakker..."
+Let op Alexandertje ... (Fischietto).
+Het Chineesche spelletje. (Uilenspiegel).
+Van de reis terug. (Li Eire).
+Mr. LOUBET : «Ongelukkige Mr. Combes! Ik ga naar
+[r Algeriëen hij krijgt een zonneateek, grootheidswaaLzin !
+Hy denkt dat hy m'n schoonmoeder is . . .*'
+JOHN CniNAMAN: «Wat die lumoiels daar er toch aan hebben om
+ty en my'n varkentje steeds te dwarsboomen F ! ..."
+'t Grapja is kinderachtig... maar 't kan toch nog gevaarlijk worden.
+In Rusland (Ver Floh).
+Wellevendheid. (Le Eire).
+PAUL DÉHODLÈDE : »Sire I ik heb u niet
+uitgefloten..."
+; EEWARD: «Mr. Pau), u ia een man van de
+wereld, daar heb ik u altijd wel voor aan
+
+gezien I..."
+Hij loopt niet in den val.
+Ei: BHITSCUE LEEUW : »Hm ! 't ziet er hier niet secuur uit l ik zaïden andertn,
+kant omgaan."
+LIEVE KLKIKEN: «Vadertje, mogen we DU rö,j niet mfêioeE."
+
+</text>
+<image timestamp="2002:08:19:14:47:28.00" size="366923">D2001UM.TIF</image>
+</page>
+</document>

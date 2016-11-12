@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160916</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+ZFILI.A..A.T 3
+
+(zie vuz. 12 van het No. van w sept. /.g
+DE VROUWEN-NACHTWACHT OP HET BINNENHOF
+BIJVOEGSEL van De Amsterdammer, WeekWad voor Nederland, van 30 September 1916
+Nadruk verboden
+MEVR. v. BALEN-KL A A ^
+MEJ. KRAMERS
+MEJ. v. LANSCHOT HUBRECHT
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms i Co
+HET KORPORAALSCHAP VAN D*. ALETTA JACOBS
+
+</text>
+<image timestamp="2002:08:22:19:59:12.00" size="281477">D40002JQ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240906</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2464
+POLLEH's Oude Genever
+Fijne Likeuren en Punch
+1H. P. POLLEN A ZOOM - Rotterdam
+J. D. STRUIJS * ZEI*
+Prinsengracht 887 P. O. Hooftstraat 140
+VEL. 37906 TEL. 29930
+Begrafenissen - Crematie - Transporten
+N V, REFORM
+Dir. E. Boerma
+G80NIKGEN AVSTERDAM
+HetusU. 58 Rokin TO
+Dames- en
+HeerenK'.eedermakerij.
+Coupeurt door het geheele
+land te ontbieden".
+AU G. KAUPMANN
+P. C. Hooftstraat 113 - Telefoon 23308
+Gevestigd 1862 - AMSTERDAM - Gevestigd 1862
+COMPLETE BRUIDSUITZETTEN
+Vraagt gratis Prijsopgave
+LINGERIE, BED-, TAFEL- EN
+HUISHOUDLINNEN
+Levering rechtstreeks aan Particulieren
+•X
+Singel 118-120 en Blauwbuigwal IS
+AMSTERDAM
+belast zich met het verkoopen van
+DEFTIGE INBOEDELS.
+Fa, L Gijselman &amp; Zoon
+TELEFOON 40432
+BEGRAFENISVEREENIG1NG
+N. SAX Jr
+P.C. Hooftitrait 38, AmiUrdt». Til«f.: 20341, 24250
+REGELING YAW BEGRAFENISSEN EN
+! CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+In den Silveren Molenbeecker".
+Kalventraat 32
+Naamlooze Vennootschap
+Uurwerk, Goud- en Zilveihandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwerken metWestminster en diverse gongslagen
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+ADR1AAM SCHAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+1924!
+EEN VERRASSING VOOR FIJNPROEVERS !
+De LIEVEOOED's Fabrieken leveren thans ook heerlijke
+Limonadesiropen (Sinaasappel, Citroen, Grenadine, Frambozen, enz.)
+VRAAGT UW LEVERANCIER 11
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+MARMERWERKEN
+Hooptraai 31
+
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit in;
+l m. Oud Holl.
+Zilverwerk.
+maakt nw huid zuiver en zacfat met jeugdig frissch e rose, verblindendschoone teint, Terdnjtt zomersproeten, puisten
+enz en alle verdere buidonreinheden. Verkrijgbaar a 35 cent per Stuk bij Apothekers, drogisten, en coiffem.
+TAFEL- en
+SERVIESZILVER.
+LFRANSES&amp;.Z
+K.POTEh 27
+DEM HAAG
+Hole! Je Kampioen'
+Café-Restaurant
+NIEUWERSLUIS
+a/d VECHT
+Ruime Serre en flinke
+Tuin aan het schoonste
+gedeelte van de Vecht
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafeniseen. Transporten. Crematies.
+KUM5T5MEED- IJZEREN LAMPEh
+iJOSEF VEDRAL
+
+
+Atelier voor vakkundige repintlei.
+Groote collectie Oude
+Meesterinstrumenten hier
+te lande.
+Agentschap:
+Hu! &amp; Boaa iiondea.
+Oudste en bekendste
+i adres- voor echte Itallaanscht
+i Viool en Cello-snaren.
+l Filiaal voor instrumenten en
+: toebehooren:
+Amsterdam, Oacoataplalu lo. 12.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+Stoomwasscherij Het Zuiden
+PIETER AERTSZSTRAAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIQ &amp; VAN ELVEN.
+B. J. MULDERS
+TÜIISAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO8IO
+
+</text>
+<image timestamp="2002:09:03:16:31:04.00" size="212842">D2003VD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260123</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+23 Jen; 1926
+^ -^^ - ^- i •
+lod voor
+CSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+A F. ZÜRCHER
+. ^- Snelpersdrukkerij
+LOOIERSGRACHT 64-66-68 - AMSTERDAM
+RN H E M (Groote Markt)
+OTEL DES PAYS-BAS
+
+ONGELUKKENAansprakelijkheids- en Autoverzekering
+A F "RTtvTr^T A " GARANTIE
+,t/-VA^DilMVjrl/-V 26 Millioen Gld.
+
+A.D.M1BENDS 6 VEEREN
+- - AMSTERDAM -
+- AGENTEN GEVRAAGD _
+N.V, ,tMeubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+(jOEDEWAAGEN' S
+"="^HROONPIJPEN
+IN CESLOTEN DOQZO
+6
+'T	:	Restaurant HOEK
+Amsterdam: spui23
+•"	Oesters - Kreeft - Caviar
+IHIIHIIIIIIIIIIIIIIIIIIIIIII
+PROJECTIE-LANTAARNS
+EN BIOSCOPEN
+
+CAPI
+j
+AMSTERDAM DEN HAAG
+MS KALVER5TR- 124 NOORDEINDE
+NIJMEGEN GRONINGEN
+I3H9V,BERCHEN5TR. 3 KL
+PELSTER5TRt/o LIBERTY
+
+NyHARLOWERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+FABRIEK ESPANA
+UTRECHT
+SPANJAARD 6 Co.
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+S
+VAN HAAGEN'S Mosterd!
+DE FIJNSTE IN
+KWALITEIT
+TIMTUR
+MOBACO
+Bouw Speeldoozen
+m iiiiiii!
+v) : !i Mr fi |1
+.i»».- l •:!!' t ' l
+Zeer leerrijk en onderhoudend Speelgoed
+Ste^N.V. BOSCH, HONIG 6 Co.,
+DOMSTRAAT 6 - UTRECHT
+Dit weekblad wordt aedrukt OD navier van de Tranehn. r&gt;finif&gt;rnrnnfh^nr/(&gt;J ~
+
+</text>
+<image timestamp="2002:09:24:21:29:10.00" size="153010">D100079H.TIF</image>
+</page>
+</document>

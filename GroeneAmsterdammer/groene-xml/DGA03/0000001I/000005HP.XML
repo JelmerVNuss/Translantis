@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250404</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+:AND
+No. 2495
+OVER MIASMEN
+In zijn Lec.ons sur les effets des substances
+toxiques et médicamenteuses", een boek, dat in
+1857 verscheen en dat ook nu nog, na bijna 70
+jaren, den medicus imponeert door den schat van
+kennis dien het bevat en door het heldere doorzicht
+waarvan het getuigt, geeft de beroemde fransche
+physioloog Claude Bernard een kort overzicht van
+de vergiftige stoffen, die wij thans to.xinen noemen.
+Hij onderscheidt les miasmes, les virus et les
+venins".
+De venins" zijn normale secretieproducten van
+dieren, welke producten voor den mensch en
+andere dieren giftig zijn. Hieronder moet men dus
+b.v. de slangengiften rekenen.
+De virus" onderscheiden zich van de venins"
+door hun pathologische origine, b.v. het virus van
+de hondsdolheid, van de pokken enz. In deze
+definitie vindt men dus een voorlooper van de
+latere begrippen over bacteriën en de ultra-mi
+
+croben.
+Onder miasmen" verstaat Claude Bernard:
+manations d'origine organique végétale ou
+animale", uitwasemingen dus, van organischen,
+plantaardigen of dierlijken oorsprong.
+Onze opvattingen over de venins" zijn nog
+dezelfde als in Claude Bernard's tijd; de virus
+zijn door de ontdekkingen van Pasteur en zijn
+volgers scherper omschreven begrippen geworden;
+maar de miasmen zijn uit de wetenschappelijke
+literatuur verdwenen.
+Een typisch voorbeeld van een miasmatische
+ziekte was vroeger de malaria. Men had natuurlijk
+bemerkt, dat deze ziekte in moerassige streken
+voorkomt, vooral als er gegraven, gebouwd en in
+den grond gewoeld werd en het behoeft niet te
+verwonderen, dat de dampen die men uit vochtigen
+bodem zag opstijgen als oorzaak van de ziekte
+werden aangezien.
+Na de onderzoekingen van Laveran en Ross, die
+ontdekten dat de malaria wordt veroorzaakt door
+een dierlijke parasiet, die door tusschenkomst van
+bepaalde muggen op den mensch wordt overge
+
+bracht, bleef er van de miasmcn-theorie der malaria
+niet veel meer over. In ons land hoort men er dan
+ook weinig meer van. In Italiëis het min of meer
+mystische begrip van miasmen bij het publiek
+veel langer blijven hangen. Bij een bezoek aan een
+even buiten Rome gelegen Trappistenklooster
+deed men ons het volgende verhaal:
+Toen de monniken dit klooster betrokken, was
+de streek zeer ongezond, velen stierven aan malaria.
+Men begon toen Eucalyptusboomen te planten en
+na dertig jaren langen arbeid had men het succes,
+dat de malaria uit die streek verdwenen was.
+Volgens een Italiaansch bacterioloog, dien ik er
+naar vroeg en die het feit, n.l. het verdwijnen van
+de malaria door het planten van Eucalyptus, vol
+
+komen bevestigde,is de verklaring deze: De Euca
+
+lyptus zuigt het water uit den grond op zoodanige
+wijze op, dat de bovenste laag van den bodem
+geheel droog wordt; er zijn dus niet meer kleine of
+groote plassen met stilstaand water, waarin mug
+
+gen hun broedplaatsen kunnen vinden; daardoor
+verdwijnen de muggen en ook de malaria.
+Een niet-medische Italiaan had echter een heel
+andere verklaring: De malaria wordt veroorzaakt
+door de miasmatische dampen, die uit den bodem
+opstijgen. Deze miasmen worden door de wortels
+van de Eucalyptus opgenomen, doortrekken den
+geheelen boom en dus ook zijn producten, zoodat de
+Liquetir Eucalyptine" die door de
+patersTrappisten gemaakt wordt, deze stoffen bevat.
+Wie nu deze liqueur drinkt, wordt volgens het
+immuniseeringsprincipe onvatbaar voor malaria.
+Het komt mij voor, dat in het licht van onze tegen
+
+woordige kennis bezien, de verklaring van den
+bacterioloog, die trouwens zelf onderzoekingen
+daaromtrent had verricht, het in waarschijnlijk
+
+heid van de andere wint. Maar het verhaal illus
+
+treert hoezeer het begrip miasme bij het publiek
+nog is blijven hangen. Zooals vermeld, uit de we
+
+tenschappelijke literatuur is dit begrip verdwenen,
+maar er zijn teekenen, die er op wijzen, dat het
+zij het in eenigsziris anderen vorm er weer in
+binnen zal komen.
+.Juist in de laatste tien jaren is men tot de over
+
+tuiging gekomen, dat in de lucht die wij inademen
+dikwijls stoffen voorkomen, die ziekteverschijnse
+
+len kunnen teweegbrengen en die zeer goed vol
+
+doen aan de definitie die Claude Bernard voor de
+miasmen gaf. Het verschil tusschen de vroegere
+opvattingen en de tegenwoordige ligt hoofdzakelijk
+hierin, dat men thans weet dat dergelijke stoffen
+niet voor alle menschen schadelijk zijn, maar alleen
+voor diegenen die een bijzondere gevoeligheid er
+voor hebben. Men drukt het zoo uit, dat deze men
+
+schen lijden aan overgevoeligheidsziekten".
+Men weet reeds lang, dat sommige menschen
+niet tegen paarden, andere niet tegen katten of
+marmotten kunnen; zoodra zij in de nabijheid van
+die dieren komen, worden zij ziek, zij krijgen huid
+
+uitslagen, asthma-aanvallen, hoofdpijn, ingewands
+
+stoornissen. Anderen kunnen niet tegen de aan
+
+wezigheid van bepaalde planten (hyacinthen b.v.);
+nog weer anderen worden ziek als een bepaalde
+meelsoort in de lucht zweeft (b.v. in een
+broodfabriek). En in al die gevallen meenen we dat het
+niet tegen kunnen" zoo moet worden opgevat,
+dat kleine deeltjes of stof",afkomstig van paarden,
+katten enz. in de lucht zweven, in onze lucht
+
+wegen binnen komen en bij bepaalde overgevoe
+
+lige" individuen ziekte veroorzaken.
+Toen men een jaar of tien geleden uitgebreide
+onderzoekingen hieromtrent begon te doen, werd
+eerst gedacht, dat deze deeltjes" of dit stof"
+steeds eiwitten zouden zijn afkomstig van de dieren
+of planten in kwestie. En die opvatting is voor een
+deel nog als juist te beschouwen. Tevens bleek
+echter, dat dergelijk ziekteverwekkend materiaal
+veel veelvuldiger voorkomt en een veel belangrijker
+rol speelt dan men oorspronkelijk had gemeend.
+Men wist reeds zeer lang dat de bovenvermelde
+ziekteverschijnselen zooals huiduitslagen,
+asthmaaanvallen zich in de eene plaats veel meer plegen
+te manifesteeren dan in andere plaatsen, zonder
+dat men daarvoor een verklaring kon vinden. Door
+het werk van Italiaansche en Hollandsche onder
+
+zoekers uit den laatsten tijd is nu duidelijk gewor
+
+den, dat voor dergelijke invloeden van plaats"
+of Van klimaat" dikwijls een stoffelijke oorzaak
+kan worden aangewezen. Zoo deed een Italiaansch
+geleerde Ancuna de merkwaardige ontdekking,
+dat een geheele epidemie van asthma en huid
+
+ziekten, die in een dorp nabij Florence was voor
+
+gekomen, veroorzaakt werd doordat het graan daar
+bedorven was en vele parasieten bevatte; een
+dezer parasieten produceert een stof, die bij per
+
+sonen die er langeren tijd mee in contact komen,
+de genoemde ziekteverschijnselen teweegbrengt.
+Later werd in Holland gevonden, dat graan, waar
+
+in mijten voorkomen, eveneens dergelijke stoffen
+bevat. Verder bleek, dat ook in bedmateriaal
+(veeren, kapok) onder bepaalde omstandigheden
+zulke stoffen ontstaan,die bij daarvoor gevoelige
+personen ziekte teweegbrengen. In al deze gevallen
+en men zou gemakkelijk nog meer voorbeelden
+kunnen noemen ontstaan, hetzij door de aan
+
+wezigheid van bepaalde parasieten, hetzij door
+schimmels of andere organismen, wier aanwezigheid
+te wijten is aan invloeden van vochtigheid en tem
+
+peratuur (dus door klimaatsinvloeden") stoffen,
+die als kleine deeltjes in de lucht zweven en bij
+menschen ziekten teweegbrengen. Men moet er
+
+kennen dat deze stoffen zijn manations d'origine
+organique végétale ou animale" en dan is er ook
+niet veel tegen ze als miasmen te beschouwen en
+ook zoo te noemen. Het eenige dat er tegen zou
+pleiten dien naam te gebruiken is, dat men vroeger
+er mede aangaf stoffen, die voor iedereen schadelijk
+zijn, terwijl wij thans wéten, dat ze slechts voor
+bepaalde personen nadeelige gevolgen hebhen.
+Intusschen is dit slechts een gradueel verschil,
+ook vroeger werd niet iedereen ziek door de mias
+
+men !
+De naam doet trouwens niet veel terzake, maar
+het feit is belangrijk. De oorspronkelijke
+miasmentheorie moest voor het grootsche werk van Pasteur,
+Koch, Behring, Laveran en vele anderen wijken.
+Vele ziekten worden veroorzaakt door parasieten,
+die ons lichaam binnendringen en daar hun vergif
+
+ten produceeren en daardoor-—of op andere wijze
+onze lichaamscellen vernietigen ;dat weten we thans.
+En voor die ziekten waarvan we den parasiet nog
+niet gevonden hebbon, vermoeden we toch zijn
+aanwezigheid en trachten we hem te identificeeren.
+Dat alles is juist, maar daarnaast is plaats voor een
+nieuwe gedachte. De parasiet kan ook buiten het
+lichaam groeien en min of meer toxische producten
+vormen ; deze producten kunnen in de lucht zweven;
+die wij inademen en zoo ons lichaam binnentreden
+en ziek maken.
+Dat is een herleving van de oude
+miasmentheorie. Zij zal de tegenwoordige leer der infectieziekten
+niet kunnen verdringen, zij zal dat zelfs niet trach
+
+ten te doen, maar wel zal zij daarnaast haar recht
+van bestaan hebben en wellicht bovendien nog een
+aantal verschijnselen kunnen ophelderen, die door
+de tegenwoordige theorie der infectieziekten nog
+onverklaard bleven.
+STORM VAN L E E u \v E N
+TMNSFOIT Mij. H O L LI N D",
+WmperzIJde 94, AMSTERDAM
+
+Telefoon 51271. Tel.-Adres Transport'
+VERHUIZINGEN, ook per gesloten
+autoverhuiswagens met aanhangwagen. Binnen
+een rayon van 80 Km. bespaart men
+Hotelkosten.
+BEHANGERIJ en STOFFEERDERIJ
+Machinale Stofreiniging.
+Bewaarplaatsen voor Inboedels
+NIEUW JOODSCH
+NATIONALISME
+Ter bestrijding van mijn stelling, dat de Joodsch
+nationalistische beweging gevaarlijk dreigt te
+worden voor de positie der Joden in de landen waar
+zij toch verblijven willen, vraagt mevr. Ornstein
+Hoofieé'n: Heeft Nederland dan ooit meer van
+de Joden geë'ischt dan men in waarheid en trouw
+van vrije menschen eischen mag? Heeft
+Nederland soms gewacht met hun hunne vrijheid te
+geven, hen tot alle ambten in den staat te roepen,
+tot zij zich zelf in den doop verloochend en hun
+bloed in het gemengde huwelijk verzaakt(?)
+hadden?"
+Ziehier nu toch een bestrijdingswijze, die bij den
+lezer en de schrijfster, wat al te veel blindheid ver
+
+onderstelt.
+Nederland heeft dit alles gegeven en kon dit
+met gerustheid [doen, omdat immer? van
+Joodsch Nationalisme toen en later heel en al
+geen sprake was ! Dat is toch e'erst een groeisel
+van de latere 25 jaren ! En mijn brochure betoogde
+nu in het licht te stellen, hoe juist daardoor de
+positie der Joden, die niet naar Palestina konden
+of wilden trekken, bemoeilijkt werd. als zij, dóór
+dat Joodsch nationalisme, zich los maakten uit
+het nationale bestel, waarmee het ras in den loop
+der eeuwen vergroeid was, ook al onthield men zich
+van gemengde huwelijken.
+De Zionisten zuilen den toestand wat dieper
+moeten doordenken dan mijn geachte bestrijdster
+gedaan heeft.
+L. S I M O N S
+NIEUWE UITGAVEN
+
+No. IV van de serie Lycciim-Herdnikkcn is
+Vondel's Josi'pl; in Dothan en Jeptlin, in verkor
+
+ten vorm uitgegeven en van illustraties, bespre
+
+king en aanteekeningen voorzien, uuor Dr. P h.
+A. L a n s b e r g, Uitgave Wolters' Uitgevers-Mij.
+RINGER5'
+RROKANTE
+CHOCOLADE
+15 CT5.
+
+</text>
+<image timestamp="2002:09:03:07:05:07.00" size="245638">000005HP.TIF</image>
+</page>
+</document>

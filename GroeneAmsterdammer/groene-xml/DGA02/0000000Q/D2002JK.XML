@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19051001</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Voorziening in het tekort.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van i October 1905.
+Anist. Boek- en Steendmkkerij, v/h. EHcrman, Harms &amp; Co.
+Dr. KUVPKR (tot den lieer HARTE V. T.): Kijk zo eens pompen! Wat hebben we hun die schuit mooi lek achtergelaten!'
+
+</text>
+<image timestamp="2002:08:22:12:53:53.00" size="381033">D2002JK.TIF</image>
+</page>
+</document>

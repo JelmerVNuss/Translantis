@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920501</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een fatsoenlijk publiek bij het bezoek der Koninginnen in Artis.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van I Mei 1892.
+AmsL Hoek- en Steendrukkerii. v,h. Kllerman. Harms A Co.
+Eerste tijger. Kijk die herrie daar eens! Dat noem ik nu een beestenboel.
+Tweede tijger. Ze hadden ons maar commissaris van orde moeten maken.
+
+</text>
+<image timestamp="2002:10:03:21:52:00.00" size="332782">D2007N6.TIF</image>
+</page>
+</document>

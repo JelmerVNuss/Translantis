@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280225</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE GROENE AMSTERDAMMER|VAN 25 FEBRUARI 1928
+No. 264?
+ZEILINGA
+PRINS HENDRIKKADE 120 - AMSTERDAM-C.
+Telefoon 41709 en 40717
+
+DEKKLEEDEN
+EN
+AUTOKLEEDE
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+FAMIATE
+•J yn P.vvNTtllEL
+3ROOTE H O UT STK. 101103
+TCL.1O575
+HAARLEM
+PERZISCHE TAPIJTEN
+EXPORT MAAR DlilTSOILAND.
+SPECIALE COINCITIEN
+PATRONEN
+yenfcorr,
+AMSTERDAM
+DEN HAAG
+volgens tandartsen de aangewezen
+manier om blinkende tanden te krijgen.
+7~~\e moderne wetenschap leert
+•'—ons thans hoe beslagen tan
+
+den weder wit gemaakt kunnen
+worden en hoe het tandvleesch
+de gezonde bloedkorale kleur
+wee!er teruggegeven kan worden.
+Er is thans een nieuwe methode
+die door vooraanstaande tand
+
+artsen ten zeerste wordt aanbe
+
+volen. Met deze nieuwe methode,
+geheel verschillend van samen
+
+stelling, werking en resultaten,
+wordt datgene bereikt, waarin
+de ouderwetsche tandpasta's
+steeds gefaald hebben, nl. de
+bestrijding en verwijdering van
+den gevaarlijken tandaanslag,
+die Uw tanden bedekt.
+
+Strijkt eens met Uw tong langs
+Uw tanden. Gij zult dien tand
+
+aanslag voelen. Onder dezen
+bevinden zich de fraaie witte
+tanden, die gij anderen benijdt.
+Wanneer gij dezen tandaanslag
+bestrijdt zullen Uw tanden spoe
+
+dig weder blinkend wit worden.
+Vraagt Pepsodent aan Uw-'
+drogist. De resultaten zullen U
+verbazen.
+
+De vijand van tanden en van
+tandvleesch.
+Tandaanslag is een groote vijandi
+der tanden, en is tevens de:
+hoofdoorzaak van de meeste
+tandkwalen, hetgeen door tand
+
+heelkundige autoriteiten wordt
+bewezen. Hij hecht zich aan de
+tanden vast, werkt zich er
+tusschen en blijft daar vastzitl-jn.
+Bacteriën vermenigvuldigen zich
+er bij millirenen in. Tezamen
+met tandsteen zijn zij de hoofd
+
+oorzaak van Pyorrhea.
+
+Het is onmogelijk om fraaie witte
+of gezonde tanden te hebben
+wanneer gij dien tandaanslag.
+niet bestrijdt. Koopt nog heden
+Pepsodent. Gij kunt onmo
+
+gelijk dezelfde resultaten van
+ouderwetsche tandpasta's ver
+
+wachten. Begint nog heden Uw
+tanden te verfraaien.
+GEDEP.
+De nieuwe kwaliteit Tandpasta
+
+•wordt door tandheelkundigen over de gehecle wereld aanbevolen en is verkrijg
+
+baar bij alle apoth. en drogisten in groote en kleine tuben van f 1.25 en f 0.75.
+2404
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GEBR. RADEMAKER
+Handelsdrukwerk- Periodieken - Catalogi
+
+
+iJrukkerij i lantijn
+
+Amsterdam
+
+Reclamedrukwerk - Geldswaardig Papier
+o
+o
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+
+</text>
+<image timestamp="2002:09:04:06:13:40.00" size="122603">000006BV.TIF</image>
+</page>
+</document>

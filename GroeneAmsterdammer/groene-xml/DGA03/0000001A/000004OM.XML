@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19101225</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Zwarte Oorlogsmolen.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 25 December iqio.
+
+STAAL,
+VAN RAPrARU
+&amp;?&amp;ar(*PYïfc* A«T'i*ï*?ftX'S• -*i ^Y^wO* \ * /
+^Wi, ^&lt;4?4s„Wt^$%
+%S*_,&gt;t»«^-&amp;*.*ï^ VV* . .r 1* 3 * * *ï*-*^
+M4€Z^ '/KP^IA?'A *^*"&gt;ic w '*
+fefj"4iï7Kj- ' ^-^"^
+r^«^*-^^?
+f^&gt;^VJ?% "Aft,. ,^ *^«
+Dr. KUYPER DUYMAER VAN TWIST
+NEDERLAND: Ik wacht nog altijd op mee), molenaar!
+
+
+HEEMSKERK: Als m'n eigen vrinden van die zware generaals aan de wieken ophangen, hoe kan mijn molen dan malen?
+
+</text>
+<image timestamp="2002:08:24:10:20:36.00" size="1037781">000004OM.TIF</image>
+</page>
+</document>

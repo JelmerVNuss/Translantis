@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320305</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+De Groene Amsterdammer v^n 5 Maart 1932
+No. 2857
+Radio en Grammofoon
+
+Enkele nieuwe vindingen
+door Lou Lichtveld
+Snelheidscontrole
+Het is om velerlei redenen
+wenschelijk de omwentelingssnelheid van onze
+grammofoon voortdurend te contro
+
+leeren. Niet alleen omdat de weergave
+van de juiste toonhoogte alleen ge
+
+schieden kan wanneer men de juiste
+snelheid heeft, maar ook omdat
+toonkwaüteit, tempo-verhoudingen, slij
+
+tage en allerlei meer, daar sterk door
+beïnvloed worden.
+Men heeft reeds allerlei methoden
+en apparaten uitgedacht om de snel
+
+heid te controleeren, maar zij zijn geen
+van alle erg bevredigend en geen van
+alle zonder ernstige nadeelen. Behalve
+dan een tameirk recente vinding, die
+binnenkort wel algemeene toepassing
+zal vinden, omdat zij drie eminente
+voordeelen heeft: ze werkt zeer
+accuraat, kan tijdens het bespelen van
+de plaat gebruikt worden, en is zeer
+goedkoop, zonder aan stukgaan of
+slijtage onderhevig te zijn.
+'t Is geen machine, maar eeu een
+
+voudig cirkelvormig blikken plaatje,
+iets kleiner dan het etiket van een
+grammofoonplaat, en dat juist boven
+het etiket gelegd kan worden, ook
+terwijl men de plaat bespeelt. Het
+blikken plaatje, (dat ook v&gt;in ander
+materiaal kan zijn) is verdeeld in
+77 zwarte en evenzooveel witte sec
+
+toren, die even groot ziin. Wanneer
+de plaat draait, dan ziet men het
+schijfje als een troebel gi'ijs vlak. Maar
+zoo gauw men het beijkkt bij het
+Jicht van een wisselstroom-lamp ,het
+gewone lamplicht van oijna alle
+steden dus), dan merkt men, dat d
+ooieen optisch effect de 77 zwarte
+strepen of wel stilstaan, ofwel langzaam
+naar rechts of naar links bewegen.
+Staan ze stil, dan heeft de grammo
+
+foon gedurende het bespelen een snel
+
+heid van 78 omwentelingen, de goede
+snelheid dus, waarin men bijna alle
+platen die in den handel zijn, opneemt.
+Bewegen de strepen zich in tegen
+
+gestelde richting van de omwenteling,
+dan is het tempo te langzaam; gaan
+ze in dezelfde richting, dan is het
+tempo te vlug. Men kan dus bij het
+licht van de lamp zijn grammofoon
+eventueel voor iedere plaat nauw
+
+keurig instellen.
+Zoo'n plaat noemt men een
+stroboskopische schijf, en men kan ze door
+een eenvoudige berekening zelf ver
+
+vaardigen voor iedere gewenscht
+toeren-aantal. Er bestaan ook gecombi
+
+neerde schijven, voor 74, 7(i, 7S, 80
+en 82 omwentelingen.
+De werking ervan berust op liet
+zoogenaamde stroboskopische effect,
+waarover ik mij niet verder uitlaat,
+om mij niet te begeven op een gebied
+waar ik niets te maken heb, en dus
+licht domheden kan verkoopen. Alleen
+valt nog mede te deelen, dat door het
+feit dat bijna alle electrische centrales
+de wisselstroom-frequentie om tech
+
+nische redenen constant houden op
+50 perioden per seconde, het appa
+
+raatje altijd kan worden aangewend.
+Ons licht wordt honderd maal in de
+seconde heller, wat natuurlijk niemand
+kan zien. De grammofoonplaat moet
+78 toeren in de minuut maken, of
+1,3 omwenteling in de seconde. Daar
+het licht dus 100 maal verheldert
+wanneer de plaat zich 1,3 maal ge
+
+draaid heeft, moeten er 100 : 1,3 = 77
+zwarte strepen met evengroote
+tusschenruimten voorhanden zijn op de
+stroboskopische schijf, wil men het
+gezichtsbedrog van de stilstaande
+strepen krijgen.
+Deze methode is volkomen bevre
+
+digend, en is zelfs bij
+grammofoonopnamen onmisbaar, daar men in zulk
+een geval ook heeft te letten op een
+voortdurende, nauwkeurige hand
+
+having van de snelheid 78.
+Amateur-opnamen
+De mogelijkheden voor het maken
+van eigen grammofoon-opnamen van
+eenigszins behoorlijke kwaliteit worden
+dagelijks grooter. Voortreffelijke in
+
+lichtingen daaromtrent worden ver
+
+schaft in een zoo juist verschenen
+boekje van H. Kluth: ,,Teder sein
+eigener Schallplattenfabrikant". (Uit
+
+gave Weidmann, Berlijn).
+l et bevat niet alleen de noodige
+technische voorlichting- on goede raad
+
+gevingen aan amateur-platen-fabri
+
+kanten, maar ook een zeer groote
+schat van theoretische wetenswaardig
+
+heden, in eenvoudigen en bekiiopten
+vorm meegedeeld. Ken boek om ook
+dan te lezen, wanneer men alleen
+,.consument" is, terneer daar het
+bovendien sterk is in ,,aardige
+bizonderheden."
+Wist u, bijvoorbeeld, dat de spiraal
+
+lijn van een normale grammofoonplaat
+zoowat 200 Meter lang is ? Of dat bij
+de ,,werkelijke" muziek-uitvoeringen
+de verhoudingen tusschen het uiterste
+pianissimo en het uiterste fortissimo
+vaak 1:1000 en meer nog bedragen?
+Het zegt pas iets wanneer wij weten,
+dat deze verhouding op een grammo
+
+foonplaat nooit grooter is dan 1:100.
+Dat lijkt een enorm verlies, maar ook
+weer niet zoo erg groot, wanneer men
+bedenkt dat de Berlijnsche
+Reichsrundfunk alle muziekuitzendingen zoo
+
+danig dempt, dat de verhouding van
+de zwakste tot de luidste gedeelten
+nooit grooter is dan 1:25 Terwillo
+van de ontvangers met kleine
+eindlampen en luidsprekers.
+Waarschijnlijk is het aan deze ver
+
+kleining van de sterkte-verhoudingen
+meer dan aan de afwezigheid of ver
+
+zwakking van hoogere frequenties te
+danken, dat grammofonische orkest
+
+muziek niet zoo ..plastisch" klinkt als
+werkelijke.
+Voorts is het indezentijd
+vanzakenmalaise misschien niet onaardig te
+hooren, dat er in 1930 in de geheele
+wereld ongeveer .'?00 millioen grammo
+
+foonplaten gemaakt zijn. Dat men in
+1028 in Duitschland een
+aanmaakcapaciteit van 100000 platen per dag
+had, en dit aantal op het oogenblik
+heeft opgevoerd tot 200000 per dag.
+Wat een jaar-productie van 00 mil
+
+lioen platen beteekent.
+De uitvoer uit Duitschland was in
+1910 meer dan 14 millioen stuks, ter
+waarde van 20 millioen Mark. In 1930
+wTerd een teruggang van ongeveer
+17 % (tengevolge van de crisis meent
+men) geconstateerd.
+Wie nog meer allerlei" over de
+grammofoon wil weten, leze het boekje
+van Kluth. Men kan het doen met de
+zekerheid daarbij ook werkelijk een
+beetje wijzer te worden in alles wat
+er aan de reproductie van muziek, taal
+en andere geluiden vastzit.
+deze week in de uitkijk"
+de man, die zijn moordenaar zoekt
+regie: robert siodmak
+dagelijks 2.3O, 7.3O en 9.3O
+Met alleen
+roor oepen
+ook bij het stoven
+van groenten, voor
+de bereiding van
+sausen en jus, voor
+stamppot enz. ge
+
+bruikt U het
+voordeeligste
+PINKSTER
+WEEK-END CRUISE
+NAAR KOPENHAGEN
+MET HET DUBBELSCHROEF MOTORSCHIP
+
+DEMPO"
+18000 TON
+VAN: DONDERDAG 12 MEI 1932
+TOT: DINSDAG 17 MEI 1932
+VOOR 125, 11O, 1OO, 9O, 8O, 70, 6O OF 55 GULDEN
+EEN ZELDZAME GELEGENHEID
+VOOR EEN WEEK-END AAN BOORD
+VAN EEN MODERN MAILSCH.P
+INLICHTINGEN DOOR D l l V Q S. C*
+DE HOOFD-AGENTEN K U T O Ot \*r O.
+Rotterdam
+Delft - Deo Haag - Amsterdam - Antwerpen - Brussel
+alsmede door de plaatselijke Agenten en alle
+erkende Reisbureaux
+
+ROTTERDAMSCHE LLOYD - ROTTERDAM
+N» V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKEN KASTEN
+
+</text>
+<image timestamp="2002:09:26:18:08:30.00" size="174295">00000A1U.TIF</image>
+</page>
+</document>

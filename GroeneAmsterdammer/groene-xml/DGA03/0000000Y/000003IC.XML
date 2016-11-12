@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18951020</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 956
+Kijkjes op de Driejaarlijksche Schilderijententoonstelling te Amsterdam.
+door .A. 1P I.
+D. Wiggers, Nunapeet.
+Avondstemming.
+Het Spook van Nunspeet.
+S. C. Bosch Reitz, Laren.
+Zondagmorgen te Laren,
+Asperge-Tentoonstelling. Aantreden der exposanten.
+Pietro G. Calvi, Paris.
+Don Basile.
+R. P. C. de Bazel, Amsterdam.
+Gebrand glas.
+I.
+_J
+Beecham-pills. Vóór 't gebruik.
+N. van der Waay, Amsterdam.
+Octoberochtend.
+De ingezakte Keizersgracht.
+
+G. H. Breitner, Amsterdam.
+Schemer en Regen.
+De Watervigilant, patent Breitner opgedragen aan de stad Rotterdam.
+Hubert Vos, Maastricht.
+Portret van Marquis Testu de
+Palingcourt.
+H. Teixeira de Mattos, London.
+Studiekop.
+Beecham-pills. Na 't gebruik.
+H. Wouters, Nunspeet.
+Veluwe- tafereel.
+Mietje Mannheim en de Radja van Lombok
+v\jf ballen voor n stuiver.
+J
+Palingjan.
+
+Voor copie conform.
+'t Wonderbaarlijke kaasjaar.
+
+</text>
+<image timestamp="2002:08:21:02:08:31.00" size="420363">000003IC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960628</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Wethouder Treub na zijn benoeming tot Professor.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 28 Juni 1896.
+' w n O 7 Q (i *• ? M ' « \
+/ ^
+
+/t
+*"'/
+f
+/'""'
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+l
+'V
+Mu. TREUI: tot de Wetenscliafi. Eindelijk alleen!
+
+
+(Naar de schilderij van l.ord l.eighton: Knfm Seuls".)
+
+&gt;
+
+C
+
+</text>
+<image timestamp="2002:09:04:16:38:39.00" size="360388">D10004LJ.TIF</image>
+</page>
+</document>

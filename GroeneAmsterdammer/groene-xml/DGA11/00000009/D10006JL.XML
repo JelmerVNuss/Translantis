@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270604</Datum>
+<Pagina>34</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+34
+DE GROENE AMSTERDAMMER VAN 4 JUNI 1927
+No. 2609
+Uit het Kladschrift van Jantje
+TELEFOONTJE
+door CEL 2
+Nee, juffrouw. Niet interlocaal,
+maar interoceaan.
+Dat is toch een misverstand. Ah,
+komt de soes daar aan ?
+• Inter-Oceaan ! Ik wou met Indi
+spreken ! Begrijpt u me nog niet?
+
+Een nummer? Ik weet niet of ze
+daar al nummers hebben. Maar geeft
+u me maar den Soesoehoenan van
+Poeloe-Pandjang.
+
+Nee, snoes, de soes....
+
+Maar dat zeg ik niet tegen u. U
+zei tegen mij snoes". ...
+Hallo, Soes, hoe gaat het ?
+
+Met ,,de Groene". En wat zeg
+jullie daar in den Oost er nu wel van
+dat je met ons kunt praten net of wij
+bij je in de voorgalerij zitten?
+
+U zegt? Vindt u het niet zoo
+heel. . . .
+
+Al die slechte muziek die ze
+maken dat jullie die ook slikken
+moet?
+Maar vergeet, Soes, n ding
+niet en dat is dat jullie nu ook weldra
+al onze gereformeerde en afgescheiden
+en staatsgevaarlijke hervormde
+dominés van mond tot oor zult hooren !
+Soes, je weet niet wat je zegt.
+Er gaat niets boven mijn Woensdag
+
+avonden tegenwoordig. Vroeger ver
+
+deed ik die altijd met eenige zondige
+vrinden op zondige plaatsen maar
+tegenwoordig sla ik geen Woensdag
+
+avond meer over want het is de avond
+van mijn christelijk-gereformeerde ra
+
+dio-vrienden en ik zou het genot niet
+graag missen een van die hoeren te
+hooren voorgaan aan de onzichtbare
+maar niettemin aan hun lippen han
+
+gende gemeente.
+
+
+Soes, je bent lichtzinnig. Een
+zendeling daar bij jullie is heel wat
+Kenners zeggen:
+MIJ smaakt allén eea
+BROCHES
+Cigaret"
+
+anders dan een dominébij ons. Een
+zendeling moet bekeerlingen maken en
+gaat als mensch tot den mensch. Maar
+een dominébij ons moet zorgen, dat de
+anderen van zijn gemeente geen be
+
+keerlingen maken en dat is een groot
+verschil. Terwijl de zendeling onder
+eens anders duiven schiet, moet domi
+
+nézorgen dat er niet onder zijn duiven
+geschoten wordt.
+
+
+Nee, Soes. Maar jullie krijgt nu
+ook eerstdaags onze Kamerdebatten
+telefonisch op de korte golf tot in je
+voorgalerij....
+Zeg dat niet, Soes. Het is wel
+eens vervelend maar je hoort behalve
+het gesnurk van een paar oude leden,
+toch ook nog wel eens een frisch geluid.
+
+
+En zoo leerzaam, Soes, vooral
+voor politieke beginnelingen zooals
+jullie daar eigenlijk allemaal zijn.
+
+
+Ik bedoel daar niets hatelijks
+mee en als jullie dan als wederdienst
+ons laat hooren hoe de tabak en de
+suiker groeien en hoe de rubber uit de
+boomen siepelt, dan zijn wij al lang"
+tevreden en zullen wij, op onze beurt,
+de aandeelhoudersvergaderingen van
+onze groote cultuurmaatschappijen op
+een heel kort golfje uitzenden, zoo'n
+kort tantième golfje van een ton of
+wat.
+Afgesproken, Soes....
+Nee, juffrouw, het is waarachtig
+niet tegen u, maar als u het dan toch
+met alle geweld wilt u is een snoes !
+Daar dan !. . . .
+zenden wij van heden af
+
+DE GROENE'
+
+aan ieder, die zich met ingang
+van l Juli a.s. abonneert, ook,
+zoolang de voorraad strekt, dit
+PINKSTERNUMMER
+
+</text>
+<image timestamp="2002:09:21:09:30:46.00" size="122238">D10006JL.TIF</image>
+</page>
+</document>

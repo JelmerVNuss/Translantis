@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170630</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+30 Juni '17. No. 2088
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+HARE KONINKLIJKE HOOGHEID DE AARDAPPEL
+Teekening voor ,de Amsterdammer" van Joh. Braakensiek
+4IIIIIIIIIIIIIHIIIIMIHII
+MIIIIIIMI&gt;IIIIIIMmllMMU
+IIIMI!IIIIIIIIIIIIIMIIIIIIIII ....... IIMIIIIIIIII ....... II
+HAITO
+HOENEN
+AU
+BON ;
+MARCHE
+A de VRIES &amp; ZONEN
+Bovendien waren ditmaal vele oplossingen
+foutief.
+Probleem No. 70 werd nog juist opgelost
+door C. W. van der Leeden te Middelburg.
+iiiiiiiiiiiiiiiiitiiiiiiifiiiniiiiiiiiiiiiiiiuit t iiMiiiiMiiiiiiiiiiiiiiniiiiii IIIIIIHI iiuiiiii i in
+
+(Stelling na 17... f7Xe6)
+ZWART
+PROBLEEM No. 72
+VAN H. WEEN1NK TE AMSTERDAM
+(Eerste publicatie)
+ZWART
+d e
+WIT
+f g
+lltlHIIIIIIIIIIIIIIIItllllllllltHll
+IIIllltllllllllllllllllllltllllllllllllllllllllllll
+
+De wederzijdscne blokkade (Bulletin Sydney)
+Redacteur: Dr. A. G. OLLAND
+A. R. Falckstraat 5; Utrecht
+Alle berichten.deze rubriek betreffende.gelieve
+men te adresseeren aan bovenstaand adres.
+
+30 Juni 1917
+
+CORRESPONDENTIE
+H. de J. v. E. te Geaève. Uw driezet van
+Loyd in dank ontvangen. Veel moeite zal
+de oplossing, dunkt mij, niet geven. Om den
+aardigen sleutelzet geven we hem hier weer.
+Wit: Kf5, pionnen a7, b7 en f6.
+Zwart: Kf7. Wit geeft in drie zetten mat.
+G. A. C. te Antwerpen. Dank voor uw
+vriendelijk schrijven. Uw pseudoniem blijkt
+inderdaad een puzzle te zijn.
+M. L. te Naarden. Berger's zet 8. Lg5 is
+waarschijnlijk zeer goed, maar een weer
+
+legging van de Riga-variant kan hij niet
+genoemd worden. Bilguer zegt ook slechts,
+dat hij de Riga-variant schijnt" te weer
+
+leggen. De vier aangehaalde varianten
+leiden dan ook niet tot winst, maar slechts
+tot beter spel voor wit. Hoe weinig ook de
+meesters overtuigd zijn van de winnende
+kracht van 8. Lg5, blijkt wel uit het feit,
+dat Capablanca nog onlangs (tegen Ed.
+Lasker) de oude speel wijze (n.l. zooals
+Berlijn tegen Riga speelde) de voorkeur gaf.
+Na de ontdekking van Neale, heeft echter
+o.i. de Riga-variant afgedaan.
+
+OPLOSSING PROBLEEM No. 71
+VAN W. B. RICE
+Wit: Kh7, Dg7, La8, Lf6, Pc8, Pe6, Td2,
+Te8, pionnen b3, b4, b5, c5, e2 en f3.
+Zwart: Kd5, Dd3, Tb7, Td8, Lc2, Lh2,
+Pa4, Pa7, pionnen d7 «n f5.
+
+l- Dg7-g4 (dreigt Dc4f), f5Xg4f 2.
+e2—e4f.
+l	d7Xe6f 2. Pc8-e7f.
+l	f5-f4f 2. Dg4-f5f enz.
+Goede oplossing ontvingen we van:
+G. Buisman te Rotterdam, M. Dolman te
+Zeist, J. J. van Weering te Rotterdam, G.
+A. C. te Antwerpen, J. S. te Zeist, J. G.
+Arnoldus te Middelburg, J. Schoonbeek te
+Weiwerd, ds. H. Jonker te Middelburg, J.
+Torn te Waalwijk, C. J. Rietman te Nunspeet,
+J. Rietman te Dieren, L. O. te Utrecht, B.
+H. Snijders te Den Haag.
+Wit: Kf3, Pe4, Pg2, Lfl, pionnen c4, f4,
+f5 en h3.
+Zwart: Kh5, Pa2, Phl, pionnen e7 en h6.
+
+Wit geeft mat in drie zetten.
+Oplossing over 14 dagen.
+
+NOG EENS PROBLEEM No. 70
+In de rubriek van 9 Juni is bij het ver
+
+melden der oplossing van probleem No. 70,
+niet het juiste licht geworpen op de waarde
+van dezen tweezet van den heer Weenink.
+(Wit: Kei, Te2, Pd8, Pf8, pionnen c3, c5,
+d2, e3, f2, g3 en g5; Zwart: Ke5, De7,
+pionnen b4 en h4.) We verzuimden er op
+te wijzen, dat dit probleem is een z.g.
+rasAr-probleem. Deze task is n.l. een maxi
+
+mum aantal economisch-reine matstellingen.
+Zooals men gemakkelijk kan nagaan ont
+
+staan na 1. e4 zes(!) econ.-reine matstellingen,
+wat een record is. Vanwege de symmetrische
+wijze, waarop de varianten-vorming verloopt,
+heeft de componist de constructie van het
+geheele probleem (sleutelzet incluis) sym
+
+metrisch gemaakt. Het spreekt vanzelf, dat
+bij een task-probleem de fraaiheid van den
+sleutelzet van ondergeschikt belang is.
+We meenden bovenstaande rectificatie aan
+de zoo uitmuntende reputatie van den heer
+Weenink, als probleem-componist, ver
+
+schuldigd te zijn.
+
+De volgende partij ontleend aan de Revista
+del Club Argentino de Ajedrez
+(BuenosAires) door de British-Chess Magazine,
+geeft eenig denkbeeld van de speelkracht
+der schaakheroën in Zuid-Amerika.
+Rolando lila is de kampioen van Argentinië,
+dr. de Oliveira een van de sterkste spelers
+uit Brazilië.
+
+WEENSCHE PARTIJ
+Wit: dr. de Oliveira Zwart: R. lila
+1. e2—e4, e7—e5, 2. Pbl—c3, Pg8—f6, 3.
+f2-f4, d7—d5, 4. f4Xe5, Pf6Xe4, 5. Pgl—f3,
+Lf8—b4, 6. Lfl—bof? (De gebruikelijke zet
+is 6. Le2) c7—c6, 7. Lb5—d3 (7. Le2 zou
+nu beantwoord worden met 7... Lg4, 8.
+0-0? Db6f enz.) 7... Pe4-c5, 8. a2-a3,
+Pc4Xd3, 9. c2Xd3, Lb4—e7, 10. d3—d4,
+0-0. Il.d2-d3, Lc8—g4, 12.0—O, Pb8—d7,
+13. Ddl—el, Lg4-e6, 14. Del—g3, Tf8-e8,
+15. Pc3-e2, c6 - c5 (beter is Pf8) 16. Pf3—g5,
+c5Xd4, 17. Pg5Xe6, f7Xe6 (zie diagram),
+18. Lcl-h6, g7-g6 (18...Lf8,danl9.Tf8:t
+enz.), 19. Dg3-f4, Le7-f8, 20. Lh6—g5,
+Lf8—e7, 21. Df4-f7f Kg8--h8, 22. Lg5-f6f
+Pd7Xf6, 23. eSxfG, Lel—f8, 24. Pe2—f4,
+Lf8-h6, 25. Pf4 *-e6. Zwart geeft op (Pg5
+is niet te pareeren).
+de
+WIT
+fg
+14e Jaargang 30 Juni 1917
+
+Redacteur: K. C. DE JONGE
+
+Van Woustraat 112', Amsterdam
+
+Verzoeke alle mededeellngen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+
+PROBLEEM No. 155
+
+VAN DEN AUTEUR P. VISSER, UTRECHT
+
+(Eerste publicatie)
+
+Zwart (12 schijven)
+D
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (12 schijven)
+
+Stand. Zwart: 2, 7/9, 11, 13/15, 17/20.
+Stand. Wit: 22, 25, 27/30, 32, 33, 39, 40, 47, 49.
+PROBLEEM No. 156 (VOOR BEGINNERS)
+V AN DEN AUTEUR J. SCHEERES,DELFZIJ L
+(Eerste publicatie)
+
+Zwart (9 schijven)
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (8 schflven)
+
+Stand. Zwart: 5, 7, 10, 12, 15, 17, 18,20,26.
+Stand. Wit: 21, 27, 28, 30, 34, 38, 40, 43.
+
+Oplossingen binnen 14 dagen in te zenden
+aan bovenstaand adres.
+DAMZET
+ingezonden door den heer A. Roselaar,
+Amsterdam.
+Zwart (17 schijven)
+l
+
+6|
+
+11
+
+16|
+
+21
+
+26
+
+31
+
+36|
+
+41
+
+461
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Wit (17 schaven)
+Stand. Zwart: 2, 3, 5, 7/8, 11/13, 16, 18, 19,
+21, 23/26.
+Stand. Wit: 27, 30, 32/37, 39/46, 48.
+
+Zwart aan zet zijnde speelde
+5-10?
+waarna wit de volgende damzet ontwikkelde.
+37-31
+33:22
+42-37
+37:28
+36-31
+39-33
+34:5
+40:20!
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+26:28
+21:32
+18:27
+23:32
+27:47
+47:29
+25:34
+Een goed geplaatste dam, die winst gaf
+voor wit. Zeer mooi is de tempozet 42-37,
+waardoor schijf 28 verwijderd kon worden.
+NEDERLANDSCHE DAMBOND
+Hoofdklasse Tiental
+Zondag 24 dezer heeft Constant" R'dam,
+gespeeld tegen het V. A. D.", A'dam, met
+het volgende resultaat.
+
+Constant" V. A. D."
+2
+l
+O
+2
+O
+2
+O
+l C. G. Vervloet O
+2 H. J. v. d. Broek l
+3 L. Boas 2
+4 A. M. Olsen O
+5 P. Smaal Jr. 2
+6 P. C. Smaal O
+7 Cetripetaal 2
+8 D. Rijneke Wz. O
+9 J. Lindeman 2
+10 M. B. Braber 2
+J. de Haas
+A.C.v.Wageningen
+A. Visser
+I. Mijer
+A. van 't Schip
+J. Waaker
+M. Koperberg
+2 J. H. Vos
+S. de Jong
+G. L. Gortmans
+11-9
+AMSTERDAMSCHE DAMBOND
+Dinsdagavond heeft de ontmoeting plaats
+gehad tusschen twee tientallen van D.O.S"
+en Van Embden" met onderstaand resultaat.
+D. O. S. I"
+l L Presburg
+2 B. Springer Jr.
+3 I. Buitenkant
+4 B. Philips
+5 L. Onderwijzer
+6 J. Groenteman Jr.
+7 S. Waas J r.
+8 J. Ereira
+9 J. Pinto.
+10 S. Ereira
+l
+Van Embden I"
+H. Koperberg
+A. D. Querido
+J. Swart
+21.
+Hendrix
+O L. de Beer
+A. v. d. Heide
+2 L. Prijs
+A. J. Hakker
+A. A. Snijders
+O M. Boom
+5-5
+Worden arbitrair beslist.
+D.O.S. II"
+l S. Slier l
+2 J. de Paauw 2
+3 A. de Paauw 2
+4 F. Roodenburg l
+5 S. Bronkhorst O
+6 S. Vieijra O
+7 Em. Cardozo O
+8 K. v. d. Poorten O
+9 L. Vos l
+10 J. Davidson O
+Van Embden II"
+l W. Assou
+O H. Vos
+D. S. Nerden
+J. H. Meewezen
+A. J. Bartels
+J. Posener
+J. Polak
+S. Wijnberg
+A. Roselaar
+Is. Heertje
+7—13
+IIIIMIIMMIIMIMI
+MIIIMMMIIMMII
+OMTEVREDEN ROOKER5
+MEEMT DE PROER MET:
+AMSTERDAMSCH FABRMAAT-ZEöoUDE TABAK.
+
+</text>
+<image timestamp="2002:08:23:18:24:06.00" size="529631">D2002YE.TIF</image>
+</page>
+</document>

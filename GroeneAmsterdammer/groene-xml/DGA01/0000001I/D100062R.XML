@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18941202</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amtterdammcr, Weekblad vnc. X^lerland, v»n 2 December 1^94.
+De werkstaking-epidemie.
+«i KA »* M s l*-, .
+""" *-*^—i-rir*
+V^~ö^»w
+Amsi. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+DE KNECHT VAN SINT NIKOLAAS: Bezorg u zelf uw pakjes maar; nu is het mijn beurt om te werkstaken "
+
+</text>
+<image timestamp="2002:09:20:18:34:38.00" size="212199">D100062R.TIF</image>
+</page>
+</document>

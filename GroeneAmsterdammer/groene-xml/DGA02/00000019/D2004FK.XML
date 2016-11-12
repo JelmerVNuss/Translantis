@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391111</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Vrouwen en vrouwenleven
+De werkende vrouwen van Finland
+IN de Baltische staten neemt de
+vrouw een geheel andere positie in
+dan in vele Westersche landen op
+het oogenblik het geval is. Zij staat
+namelijk niet onder of boven, maar
+in alle opzichten naast den man. In
+Nederland zou het merkwaardig aan
+
+doen, een vrouw een tram te zien
+besturen of als stratenmaker bezig te
+zien. Niet aldus in landen als Letland,
+Estland en vóór alles Finland. Daar
+bestaat nauwelijks een scheiding
+tusschen typisch-mannelijke en
+typischvrouwelijke beroepen.
+Vraagt men zich af, wat van dit
+merkwaardig verschijnsel de oorzaken
+zijn, dan zal men deze in de eerste
+plaats moeten zoeken in den bloedigen
+oorlog die in deze landen gevoerd is
+tegen het Sowjet-bewind in de eerste
+jaren van zijn bestaan. Deze oorlog
+heeft de rijen der mannen, vooral van
+hen die in den bloei hunner jaren
+waren, sterk gedund. Tevens heeft deze
+oorlog ontzaglijke verwoestingen aan
+
+gericht. Het gevolg is geweest dat men bij
+den opbouw na den oorlog geen onder
+
+scheid kón maken tusschen man en
+vrouw. Beider arbeidskracht was even
+dringend noodig. De bevrijdingsoorlog
+leidde trouwens ook tot een groote
+solidariteit tusschen de geslachten.
+Deze solidariteit was wél noodig!
+Want er moest buitengewoon veel
+opgebouwd worden toen deze kleine
+staten hun onafhankelijkheid bevoch
+
+ten hadden. De Tsaren-regeering had
+voor deze grensgebieden nooit veel
+belangstelling gehad. Finland in het
+bijzonder was aan een vaak gruwelijke
+onderdrukking blootgesteld geweest.
+Toen dan ook in de twintiger jaren
+wegen moesten worden aangelegd,
+scholen gebouwd, ziekenhuizen opge
+
+richt, enz. enz. kon het verschil tusschen
+mannelijke en vrouwelijke arbeid niet
+gesteld worden.
+Geen wonder ook dat de vrouw,
+die in den arbeid de gelijke was van
+den man, ook in het openbare leven
+een gelijkwaardige positie innam.
+Dat was vooral in Finland het geval.
+De democratische grondwet gaf
+mannen en vrouwen dezelfde bevoegd
+
+heden. En deze grondwet bleef geen
+doode letter ! De staat maakt tusschen
+man en vrouw geen onderscheid, en
+talrijk zijn de vrouwen die benoemd
+worden op posten die men in het
+Westen veelal uitsluitend aan mannen
+toevertrouwd.
+Dat geldt ook voor het
+soldatenvak !
+Lang voor in een land als Nederland
+vrouwelijke weerbaarheids-corpsen zijn
+opgericht, had Finland reeds zijn
+Lotta Svard"-organisatie. De Lotta
+Svard" uit de ballade volgde haar
+man op, toen deze in den oorlog
+gesneuveld was. De werkelijke Lotta
+Svards" hebben zich in 1917, toen
+Finland zijn vrijheid veroverde, naast
+hun mannen gesteld. De organisatie,
+die zich met militaire werkzaamheden
+in engeren zin niet bezig houdt, draagt
+nog steeds een anti-communistisch
+karakter. Een kleine honderdduizend
+vrouwen zijn er lid van.
+Dat speciaal op het oogenblik het
+uiterste gevergd wordt van hun activi
+
+teit en uithoudingsvermogen, behoeft
+geen betoog. De Finsche vrouwen
+staan naast hun mannen paraat. Zij
+zullen de onafhankelijkheid van haar
+vaderland tot het uiterste verdedigen.
+
+S. M. NIIKKONEN
+Bij de foto's:
+Vrouwen die mannelijke beroepen uit
+
+oefenen : Barbierster, wisselwachtster,
+oppervrouw", autowaschvrouwen".
+
+Links onder een bijeenkomst van de
+Lotta Svard-organisatie"
+
+</text>
+<image timestamp="2002:09:13:06:18:38.00" size="880977">D2004FK.TIF</image>
+</page>
+</document>

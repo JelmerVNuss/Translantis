@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241227</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2481
+F. B. STRUIJS «&amp; Zn.
+sengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+irafenissen - Crematie - Transporten
+f
+Volgens nevenstaande foto leveren wij prima
+Ledikanten met spiraalmatras en verstelbaar
+peluw, zwart gelakt ƒ 13.50, wit gelakt /14 50, goed
+verpakt onder rembours door geheel Nederland.
+
+N V. Beeldenfabriek DE ZWAAN,
+
+OOUDSCHEWEG 138—140—142, ROTTERDAM.
+Tel. 10345. Giro 13286.
+Vraagt prijs bij grootere afname voor Hotels en Pensions.
+NLLEI'i Oude Genever
+Fijne Likeuren dn Punch
+«T. P. POLLEH A ZOOM - Rotterdam
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+9u9oimllt»lt in e
+WIT LACQUE MEUBELEN voor
+[Slaap-, Logeer- en Kinderkamer
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+HJASPIBOMMB:
+BOEKBINDER
+l
+KERKSTRAAT 55
+AMSTB=RDAM
+.A.via ui j wielen
+
+E BK8XE
+J. DE JONQ &amp; ZONEN - A'DAM
+Naamlooze Vennootschap
+
+Uurwerk, Goud- en ZNveihandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Qroote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwjrhn met Westminiter en divire» jongsljgsn
+RUIME KEUZE HORLOGES
+1ste Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+VAN DUREN'S
+AMSTERDAM
+Kalverstraat 136
+Leidschestraat 78
+HAARLEM- ROTTERDAM
+UTRECHT - NIJMEGEN
+TILBURG - BREDA
+
+
+RUBBER CORSETTEN
+
+Voorhanden Corsettc.i
+geheel van stevig Rubber
+
+m. vetersluiting pr. f 16,
+
+dito Bustehouder f 12..r.
+
+
+Rubber Cirsetten, van
+
+Rubberplaat doch van
+binnen en buiten met
+
+glanzende Tricot bezet
+
+in Rose	f 12.50
+
+
+Warners Rubb;r
+Corsetten van Rubberplaat
+bezet met ze;r fijn
+
+Tricot' en halfzijde
+brochestof	f20.
+
+dito Bustehouder f 16.
+Wij hebben bij deze
+corsetten en bustehouders on
+
+danks het groote risico
+verbonden aan het in voor
+
+raad houden ervan de prij
+
+zen even billijk gesteld als
+a! onze andere soorten.
+Stoonwasscbii Het Zuiden
+PIETER AERTSZ8TRAAT68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIQ &amp; VAN ELVEN.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+! P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250 l
+REGELING VAN BEGRAFENISSEN EN
+j CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LI JKKOETSAUTOMOBIELEN l
+ADR1AAN SCRAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden, naar Maat
+Vervaardigd op eigen atelier
+Bestelt een flesch
+
+WED. JOHN GAY'S PICCALILL1
+het mosterdzuur met de fijne pikante smaak. Bovendien is op elke flesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N.V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+
+ARMERWERKEN
+In den Silveren Molenbeecker"
+Kalventraat32
+6
+Hooptraal 31
+
+Gemonteerd
+Oud Holl,
+Kristal.
+Specialiteit In;
+lm. Oud Holl.
+Zilverwerk.
+
+J-AFEL- en
+SERVIESZILVER.
+B. J. MULDERS
+TU1NAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:04:01:14:48.00" size="240731">D20046H.TIF</image>
+</page>
+</document>

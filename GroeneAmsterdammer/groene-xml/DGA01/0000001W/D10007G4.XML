@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260327</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De zichtbare gloeiende draad van
+een ooedkoopc" lamp heelt een
+schaoelykerc ini/locd op Cliv oogcn.
+
+PHILIPS
+ARCENTALAMPEN
+hebben een.
+Van melkwit
+waardoor de
+onzichtbaar u;ordr
+
+BLYVEN
+ONOVERïROFFElf
+
+PHILIPS^, _....
+ooooNederlandsche Arbeidere
+EINDHOVEN
+'ƒ WAAROM "V
+/heeft Van Rijn's Mosterd weer zoo'n overweldigendN
+
+SUCCES?
+OMDAT voor ieder gastronoom QUALITEIT den doorslag geeft
+NVÜEETNA
+AM/TERDAM
+MACHINES VOOR DE
+PALMOLIE-INDUSTRIE
+VAN HAAGEN'S Mosterd
+UTRECHT
+DE FIJNSTE IN
+KWALITEIT
+Verkrij&lt;$bb&amp;r 'm sJIc ptasTöeri bij de
+Ver fcgenwoond i^crj
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Rcstaurant
+Telefoon 200
+GEBR. RADEMAKER
+c/c nieuwe
+WLtein
+\ R KARTHAUS
+Groote Markt
+HAARLEM
+
+Engelsch Aardewerk
+Tafelserviezen
+&lt;™ RIJKE
+SORTEERING
+Het beste leermiddel is
+een goed &lt;^ ^ ^
+Projccticapparaat
+
+Demonstratie ten
+allen tijde in onze
+Toonzaal
+MARIUS - Utrecht
+N.V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H, VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6,
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+[liiiinuiiiiiiiimiiiinniimiiniiiiiiiiiiiMiHuiiiiiiiiiiiiiwiiiiiiwiiiiiiiiiiiiwniiiiiiiiiiiiiiiiiiiiiiiiauiuiimnmnmniifflaifflij
+fCENTRALE VERWARMING
+volgens elk systeem
+I WARMWATERVOORZIENING
+i door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+I HUNCK &amp; ZOON
+^iiüiiiimumiimniinnin|mi||iiiiiiiiiiiiiMiiiiiinM(iiiiniiiiiiip;HnTiiin|irpn|iiin|iiii||||"nitlf'''" ""'''''""
+WedERAHDERSZn,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+&lt;™&lt;™ 's~Gravenhage &lt;***&gt;
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERC. TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Hofleveranciers
+
+</text>
+<image timestamp="2002:09:25:06:24:43.00" size="150327">D10007G4.TIF</image>
+</page>
+</document>

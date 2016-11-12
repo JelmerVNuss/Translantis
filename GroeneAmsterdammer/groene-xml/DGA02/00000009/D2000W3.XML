@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010428</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1244
+DE AM S T K 11 O A M M E U W E E K B L A D VOOR NEDERLAND.
+De Keizer. (Fan).
+Mr. LP' y's VPrkiezingsrerte op Vlielar.d
+
+Toch nog hoogmoedig. (Caran d'Ache in den Figaro).
+Wilhelm van Duitsehland is door geboorte een keizer, door
+keus een zeevaarder, door toeval een veldmaarschalk, door zijn
+smaak een journalist, door noodzakelijkheid een reiziger, door
+neiging een artist, en zyn »fort" is auteur te zijn. Hij preekt
+echter ook en schrijft gedichten. Maar behalve dat, is hij een
+echte lollige, goeie jongen.
+Twee beschavings- apostelen. (Lustige Nutter).
+De excommunicatie.
+
+(/•.'c/&lt;0j dn lii'c).
+(De oorlog kost tot op lieden reeds 3 miüiurd S.55 imlliueti francs i.n IHS, einde eicnn m, zoo/U* ,:. 'l'n,n • n-r.,n.i/
+zeyt, nog nuoit zou zoo ver virwtjdert gewen* ).
+TOMMY ATKINS : »Latm Zïi,u maar eei.s pen ander land aanwijzen, dat zoovr e' voor zijii phizier mi t !'
+
+De schoone dagen van Toulcn, of IVie's dan st-heeve gezichten. (JJi/,-t
+Toi.-iu'i: »Mij tui- ki, 'üi&gt; Krijg
+ik i- is van een ilöil^c.''
+i\.\]-i''Eh: »Xoo dat recht is, bionuer Cnari!t)cr;a:!), niks vrede maken!
+\ v • ;; "'' '!i;,r. l&gt;n&gt;girn, tlnn vrede maak. -—Later wij in vrede, wij
+Iv 11 •;• altijd fiteiiniii' als Engclsrhman en in oorlog, jij Eiigelsoh
+alty i vecbt als K'-tl^r !"
+Chineesche prent. (Le 7l,ir&gt;&gt;)
+I'tirlileu! Ze hebben me .\inu&gt;t,'llu t Niet oe,,&gt; i x ii*,, i ,m, , i ' V ui- &lt;; ,,/&lt;/,, .,.' ii;i,if ,• ,1'r.mK- I.'H"II; . • h /('K
+niet eens om eeii alliantie de vije hiitid ui &lt;ie Mid- iii ; brut..Ie H;t!i;m&lt; n ieb rij. ^Hiiicn kunnen mi) \&lt;m lïilov Or i:t b
+gevraagd! dellinutse .e Ze' heeïi ik mijn &lt;^oriüt,'ssrli&lt;;pen uit K^'ypte j igen i .iliiai u i^ IM- ,, \\ &gt;&gt; i
+rranbrijkuiij^ewaurburg'l! moett;u terugtrekken! i p \tilnr ri!
+
+
+Andere landen, andere z^-den. (Ver Floh).
+Na vele jaren.
+De Oostenrüksche student loen elt, de Hongaarsche student bengelt, de
+student bungelt.
+IJli..!,' '
+J 01.1 N .
+harü.
+•ri%""x.."^
+^•^,3'^M
+• 'gZ^T
+t-n, Johni y '
+\ je 'w h;&gt;(!, j' luift (!us niet zoo
+O
+:(•'• (J'.i. ••t.M.M' Iniek der wijrti i • -ai:
+Vr, •:-« i i^( om 'iuizend beloft-.n te d-i-'ii
+-!c vrM-mrt.^ir.g, maar -wacht - r u
+ui1 i'ién enkele t« houden."
+
+
+</text>
+<image timestamp="2002:08:16:00:06:55.00" size="384564">D2000W3.TIF</image>
+</page>
+</document>

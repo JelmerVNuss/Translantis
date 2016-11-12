@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18891201</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het adres Van Lier-Katz aan de Eerste Kamer tegen de Schoolwet.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van i December 1889.
+Stoomdrukkerij Eilerman, Harms &amp;
+De groote kindervriend tot zijn knecht; Breng haar dit maar, ze verdient toch niets beters."
+
+</text>
+<image timestamp="2002:10:03:19:33:20.00" size="564267">00000BKW.TIF</image>
+</page>
+</document>

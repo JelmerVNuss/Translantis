@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320813</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 13 Augustus 1932
+Wetenschappelijke Varia
+Een goede vacantie-bezigheid
+door Dr. P. van Olst
+IDEAAL VOOR DE REIS.
+LEICA II
+fabr. E. LEITZ-WETZLAR.
+De beste kleinbeeld-camera.
+\
+Alom verkrijgbaar.
+Vraagt prospectus bij den Hoofdvertegenw.
+N.V. CAPI - - Nijmegen.
+l' i
+ttr
+
+Boemerang werp.en
+Inderdaad, al is het haast ongelooflijk, ik heb
+natuurkundeleeraar gekend, die de praktijk
+belangrijker vond dan de theorie
+en die zijn uiterste best deed om
+alles zoo begrijpelijk mogelijk te
+maken, zelfs voor zijn leerlingen.
+Dit was Dr. N. P. Kapteyn.
+Nu heb ik een Duitsche natuur
+
+kundige gevonden, die een soort
+
+genoot is van dezen vroegeren
+leeraar, n.l. R. W. Pohl te G
+tftngen, ongetwijfeld een
+origineele natuur. Een van zijn onder
+
+werpen interesseerde mij bijzonder omdat ik er
+nooit iets van begrepen heb, vermoedelijk omdat
+het alleen uitgelegd kon worden in de
+Enzyklopaedie der Mathematischen Wissenhaften" waar
+mijn lezers de zaak kunnen naslaan in Bd. 4 blz.
+138—145 (ik heb 't niet gewaagd).
+Pohl beweert, en maakt het inderdaad ook aan
+
+nemelijk dat het eigenaardig gedrag van een
+boemerang., het Australische werpstrijdmiddel (dat
+nog niet te Genève ter sprake is gekomen I) dat ook
+als sport- en jacht-voorWerp gebruikt wordt, op
+betrekkelijk eenvoudige wijze zooal niet geheel te
+verklaren, dan wel voor een belangrijk deel te
+begrijpen is. Een boemerang (fig. l) is een stuk hout
+van ongeveer 60 cm lang, 5 a 10 cm breed, ge
+
+bogen in een hoek van ruim 90 graden (zoodat de
+twee beenen ongeveer een hyperbool vormen als
+men 't precies weten wil, maar men mag deze
+lapsus negeeren). Het stuk hout is aan de onderzijde
+plat, aan de bovenzijde rond. Het wordt met een
+flinke vaart vooruit gesmeten (uit horizontaal
+gehouden stand) en tegelijk in draaiing gebracht.
+De boemerang doorloopt dan een baan c ia eerst
+langs den grond gaat, dan plotseling omhoogstijgt,
+om dan weer in een open lus naar den werper terug
+te keeren.
+Pohl maakt er nu attent op dat alles wat
+voortgeworpen of geschoten wordt dus een steen of een
+kogel, een gebogen baan doorloopt, die eigenlijk een
+parabool moest zijn, maar door de luchtweerstand
+die remmend werkt, een steiler omlaag dalend
+verloop krijgt dan in een luchtledig het geval zou
+zijn. Zie hiervoor fig. 2, waarin de theoretische
+parabool en de werkelijk doorloopen baan (ge
+
+stippeld) zijn aangegeven.
+A
+Nu is er ook een geval denkbaar en zelfs ver
+
+wezenlijkt dat deze luchtweerstand de baan niet
+korter maakt maar langer dan de parabool zijn zou.
+Dit gebeurt namelijk bij het discus-gooien. De
+discus is een schijf, in het midden wat dikker dan
+aan de randen, die schuin omhoog wordt gekeild en
+tegelijk door een geschikte handbeweging in snelle
+draaiing wordt gebracht. Deze draaiing maakt dat
+de as waarom'de discus draait, op dezelfde wijze als
+bij een tol, hardnekkig dezelfde stand in de ruimte
+wil blijven innemen. De schuine stand die de discus
+zien wij dat van voren tegen den discus de lucht
+
+weerstand drukt als een soort tegenwind. Deze
+geeft aan het schuin staande vlak een opwaartsche
+druk, evenals bij een vliegmachine-zweefvlak. Deze
+opwaartsche kracht werkt de zwaartekracht tegen
+en brengt de discus tot een grooter hoogte dus tot
+een verdere baan dan als er geen luchtweerstand
+bij den aanvang van den worp had, behoudt hij dus
+tot het eind van de baan; zie fig. 3.
+Bekijken wij nu den discus eens wat nauwkeu
+
+riger tijdens zijn vlucht, zooals fig. 4 aangeeft, dan
+was. Dit verschil is in fig. 3 aangegeven; de
+discusbaan wint het van de parabool l Deze
+omhooggerichte druk zou de schijf zelfs achterover laten
+kieperen als niet juist de meer- vermelde draaiing de
+as dwong dezelfde stand in de ruimte te houden als
+bij een tol. Het is hetzelfde kunstje als dat men
+probeeren kan met een zeer slappen vilten hoed.
+Probeer maar eens deze hoed door de kamer te
+gooien naar een bepaald punt ; dit mislukt deerlijk
+tenzij men den hoed al wegkeilend tegelijk een
+snelle draaiing geeft met een geschikte polsrak.
+Wanneer men nu in plaats van den zwaren
+discusschijf een veel lichter schijf neemt, b.v. een
+taartkarton, dat men nog lichter kan maken door
+het midden eruit te snijden en dan weer met vloei
+dicht te plakken. Werpt men dit karton als discus
+schuin omhoog, dan ziet men hetzelfde verloop
+als bij den discus maar in het hoogste punt van de
+baan is de vaart van het lichte karton, dat juist
+door zijn lichtheid veel meer last heeft van de
+luchtweerstand, vrijwel gestuit. Dank zij dégegeven
+draaiing die hier nog steeds voortduurt, blijft het
+karton echter den schuinen stand houden. En
+vanuit het hoogste punt glijdt dit schuinstaande
+karton weer terug naar den werper in een glijvlucht"
+Zoo komt men dus reeds tot de mogelijkheid om
+een baan te verkrijgen die naar het uitgangspunt
+terugkeert zooals typisch is voor den boemerang.
+Men kan volgens Pohl's recept heel aardig ook
+boemerangproeven nemen met een strook karton
+van ongeveer 2.5 bij 12 cm. Deze strook wordt iets
+gebogen. Leg dit een beetje overstekend op een boek
+of plank, die men in de linkerhand houdt en geef met
+een stok een flinken mep tegen het overstekende
+einde, zooals fig. 5 aangeeft. Het kartonnetje
+vliegt dan voort, maar krijgt tegelijk een snelle
+draaiing. Met eenige oefening kan men het karton
+dan een baan laten doorloopen die de eigenaardige
+lus-vorm vertoont van de boemerang. Door de
+plank of het boek iets naar links of rechts te laten
+hellen krijgt
+men banen,die
+links of rechts
+omgebogen
+zijn. Dit nu is
+een prachtige
+
+vacantiebezigheid, wanneer
+men tenminste goed oppast tegen het karton
+
+netje te slaan en niet tegen den eigen duim !
+' Ik geef dadelijk toe dat dit kartonnetje niet
+precies hetzelfde is als een boemerang maar in ieder
+geval heeft Pohl toch wel gelijk dat het eigenaar
+
+dige baanverloop van dit werptuig niet een inge
+
+wikkelde verklaring vereischt maar met eenvoudige
+algemeen bekende verschijnselen te benaderen is.
+Desgewenscht kan men de kartonstrook een
+haakvorm geven als de echte boemerang en boven
+
+dien de beenen een beetje ombuigen als de bladen
+van een schroef, om hoe langer hoe meer het effect
+van een echte fcoemerang te benaderen.
+fy,
+Boekbespreking
+
+De Zigeunerin, door Jan van Epen
+N.V. C.A. J. van Dishoeck—Bussum 1932.
+Aan Jan van Epen, den medicus, den mensch,
+den literator, hebben wij wat fijne en teedere
+herinneringen: zijntooneelstuk,,. D 3 Akker schaamt
+zich niet", zijn roman Vervult de Aarde". En nu
+is er weer dit klein en aardig posthuum romannetje;
+eigenlijk een groote novelle, die een niemandalletje
+is, maar dat toch weer iets van die sfeer om zich
+heeft, die misschien wel het beste getypeerd wordt
+met: genegenheid-wekkend. De Zigeunerin vertelt
+van een aardig avontuur, een charmant meisje,
+een eenvoudigen gewonen" man en wat liefde.
+Er zijn daar banaliteiten over geschreven en mees
+
+terwerken. De Zigeunerin" is het eerste niet en
+het laatste nog veel minder. Het is een simpel
+verhaal van een simpel geval, verteld door een
+man. Dat deze man ons nooit meer wat verhalen
+kan, daarvan beseffen wij de tragedie, weer eens
+pijnlijk na het lezen van dit boekje en dat bewijst,
+dat het ons, bij zijn gemis aan pretenties, toch wel
+weer iets gegeven heeft. Zooals Van Epen altijd
+iets te geven had. Aan ons hart.
+
+De Heirbaan, door Ellen Russe. P. N.
+van Kampen en Zoon N.V. Amsterdam
+(z. j.)
+Er was eens een jonge man en die jonge man
+trouwde met een weduwe. Foei: uit hartstocht
+(heeft Ko Donker niet gezegd: Wat is vioolspel
+zonder hars toch?") En dat huwelijk gaat mis,
+want die weduwe was een schalk: zij huwde om
+zich te wreken op een vijandig geslacht. En de
+jonge man gaat weg van de weduwe en later ont
+
+moet hij een vrouw, die hij waarlijk liefheeft,
+maar dan denkt hij: ik mag geen bigamist worden
+en dan gaat hij terug naar zijn weduwe, nu zonder
+hartstocht, maar met innerlijken vrede, zooals dat
+geloof ik heet. En Ellen Russe heeft daar een dik
+boek over geschreven.
+Ik weet dat men met een critiek als deze ieder
+werk kan afmaken en dat die methode nogal
+goedkoop is. Maar als ge een dik boek doorge
+
+worsteld hebt en het is niet n oogeriblik bij machte
+geweest u niet te doen beseffen dat ge bezig waart
+een boek te lezen ge zit in een stoel met een boek
+en ge wét het iedere seconde; ik zit in een stoel
+met een boek en ik lees dat boek dan blijft er
+ook niets anders in uw gedachten dan het geraamte
+van het boek en geraamten zijn altijd een beetje
+koud en griezelig, al kunt ge dan verstandelijk
+den schepper van al die congruente botjes en ribben
+en pezen, die samen een lichaam vormen bewon
+
+deren. Maar de ziel, die onzichtbaar is en ontast
+
+baar, is er niet en er klopt geen hart meer en er
+kleeft zelfs geen druppel bloed meer aan den
+binnenkant van al die ingenieus-gebouwde been
+
+deren. Ellen Russe schreef een knap boek, dat
+speelt in de groote Italiaansche dagen der vijftiende
+eeuw. Zij heeft een massa kennis en kunde, en een
+breede visie op natuur en historie aaneengevoegd
+tot een benijdenswaardig-kunstig geraamte. Maar
+er is geen hart en geen bloed en het ademt niet.
+
+E. E LI AS
+
+</text>
+<image timestamp="2002:09:27:06:05:51.00" size="239427">00000AHQ.TIF</image>
+</page>
+</document>

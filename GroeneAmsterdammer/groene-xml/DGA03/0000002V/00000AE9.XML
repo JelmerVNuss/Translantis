@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320709</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Goede Hotels in Nederland,
+BERGEN (N.-Holland). - HUIS DE HAEMSTEDE
+Icte klas Famlllepenslon	Telefoon 1O
+Heerlijk voorjaarsverblijf
+HOTEL PABST. - Doorn. - Telef. 123
+CAFÉRESTAURANT
+Oudste Huis ter Plaatse.
+Geheel verbouwd en voorzien van alle moderne
+comfort. Ligt In de onmiddellijke nabijheid
+der boeschen. Bekende keuken.
+Zelfde directie als Hotel Lagerwal]
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+Hotel Pension FLIP HULL"
+Bondshotel der A. N. W. B. 't Geheele jaar
+geopend. Kamers met stroomend, koud en
+Telepb. 22 warm water. Elec. licht. Centrale verwarming.
+Dag- MI meht«trM*dbii. Auto-garage. H. G. HAEMSEJST.
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+VRAAGT BROCHURE AAN
+BUREAU WITTEVEEN
+Paramariboplein 58
+A'dam • Tel. 84751
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+
+Ckemeto
+welke organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+Amsterdam (C.) • Rotterdam
+Keizersgracht 410 • Wijnhaven 100
+TARIEVEN OP AANVRAGE.
+BEGRAFENIS GMDERriEniM
+rïf,T G.KÜMI M G. JKT^r
+hIEUWE 5PIEGEL5TRAAT G1
+BLLRAFEini55E:ri MAARALLE PLAATS EN
+QRLMATIL
+N.V. GOEDEWAAGEN's Kon. Fabrieken - Gouda|
+Wed. H. Ra h der &amp; Zn.
+WIJNHANDELAREN
+Amsterdam Arnhem
+mum VGravenhaqe «mn
+Hofleverancier»
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+KIPS &amp; Co.
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Tanks
+AUTOGENE LASSCHING
+WIJ SCHRIJVEN
+(met machines) uw brieven, bestekken,
+feestliederen, prijscouranten, jaarversla
+
+gen, statuten; zenden gratis onze tarieven
+I.R.O. copiëer-inrichting, Wolvenstr. 1—4
+b/d Heerengr. 3OO). Telefoon 334OO.
+•Bestu'
+de uitkijk
+M Deg«IIJk«2.30,7.30,9.30|
+T FILM EN MODERN!
+H MUZIEK
+E
+A
+' prinsengracht bijl
+g da leid*chestraat|
+•* telefoon 3746C
+Boeken voor kleine kinderen.
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd dooi
+
+R O K O P U l T
+Ro Kopuit heefteen snoepgoedje
+samengebracht, met suiker en
+honing,met koek en melk. Het wordt
+een feestgebakje voor de kleinen,
+heerlijk geurend en lekkersmakend.
+Niet een zal den neus van over de
+bladen willen doen als hij niet alles
+weet wat er op verteld staat, van
+naaldeken tot draadje.
+Dagblad Vooruit, Gent
+Deteekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+Prijs gebonden F. 1.50
+
+In eiken boekhandel verkrijgbaar
+C. K. ELOUT, Indisch Dagboek, ing. f 6.—, geb. f 7.50, formaat 23X25 c.M., 240 blz., 150 reproducties, een
+boek, dat alom met groote waardeering ontvangen is. Uit de vele besprekingen halen wij het volgende aan:
+Mede door de fraaie uitvoering van dit overvloedige illustratiemateriaal, den duidelijken druk, alsook door den solieden
+band is het boek van Elout o.i. een der meest begeerlijke uitgaven van den laatsten tijd over Indië. Koloniaal Weekblad"
+Want wie dit kloeke, buitengewoon fraai uitgegeven boek doorbladert en men wenscht het ook in Indiëvan harte in
+veler hand die zal daarin veel, zeer veel van waarde vinden". De Locomotief"
+Groot is de verleiding uit dit werk te gaan citeeren: doch de ruimte voor deze korte beschouwing beschikbaar, laat
+dit niet toe. Men leze zelf dit fraaie werk en herleze het". De Groene Amsterdammer"
+
+VERKRIJGBAAR BIJ DEN BOEKHANDEL
+
+En UITGEVERIJ C. A. MEES - SANTPOORT
+
+</text>
+<image timestamp="2002:09:27:03:32:10.00" size="142659">00000AE9.TIF</image>
+</page>
+</document>

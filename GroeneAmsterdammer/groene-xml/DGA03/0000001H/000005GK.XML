@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250328</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+10
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2494
+ZIJKAMER-AMEUBLEMENT
+r
+i
+EIKENHOUT: KAST MET OP HOUT GEBATIKTE
+PANEELEN, TAFELTJE, TWEE FLINKE ,- ^
+FAUTEUILS EN VIER STOELEN Cl ZLSI l
+ONS EIGEN FABRIKAAT	TL. TvJV/.
+
+J. J. Z1JFERS &amp; CO.
+P. C. HOOFTSTRAAT 47, AMSTERDAM
+J. D. STRUIJS &lt;&amp; Zn.
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+Begrafenissen - Crematie - Transporten
+Snel en zeker werkend tegen
+Rheumatiek Griep
+Influenza Jicht
+Verkoudheid Spit
+Hoofd- en Zenuwpijn
+Lossen het urinezuur op en gaan dus direct naar de bron
+der pijnen. Door vooraanstaande doktoren aanbevolen
+en klinisch beproefd. Verkrijgb. bij alle Apoth. en Drog.
+BUSSINICs
+(HONrGKOEKi
+bevat alleen de beste ]•
++
+bevat alleen de beste
+bestanddeelen. •
+Vraagt ze Uw |
+winkelier.
+Verweep S Kok
+AMSTERDAM
+DEN HAAG
+MACDONALD G. MUIR'S"-'
+and
+WHITE&amp;QOLD
+SCOTCH WHISKIES
+45°f	45°!
+Sole flyenf
+VAN BEUNINCENSTRAAT 5O
+OEN HAAG TEL. 52681 l
+t _ L	_L
+BEGRAFENISVEREEN1GING
+N. SAX Jr.
+P.C Hoottitraat 38 AMSTERDAM Telet.: 20341, 242501
+REGELING VAN BEGRAFENISSEN EN
+'CREMATIES VAN UIT ALLE PLAATSEN
+i EI GEN LIJKKOETSAUTOMOBIELEN l
+Halter Sigareo
+zijn het meest gewild, om
+prijs en kwaliteit
+N.V.„R[FOIM"
+Dir. E. Boerma
+mmm AMSTERDAM
+Heerestr. 8 lokin 70
+Dames- en
+MeerenKleedermakerij.
+pCoupeurt foor het geheile
+land te ontbieden".
+ADRIAAM SCRAKEL
+HEILIGEWEG 11—17 AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Btf ons verkrijgbaar ~~~~^~~
+N. R. V. nONTA SCHOENEN
+:orsete
+Elastiek Corsets
+met en zonder veter
+NIEUWSTE MODELLEN
+C. P. a la Sirene Paris
+in uni coutil en brcchéstof,
+met en zonder ela-.tiek.
+Prijzen f 14.50 - f125.
+DEN HAAG: Spuistraat 36
+Piet Heinstraat 107
+ROTTERDAM: Hoogstr. 344
+ARNHEM: Ketelstraat 24
+LEIDEN: Maarsmanssteeg 23
+DORDRECHT: Voorstr. 289
+GRONINGEN: Heerestr. 11
+DELFT: Hypulitusbuurt 35
+Lievegoed's Mayonnaisesaus
+smaakt verrukkelijk bij salade, visch, vleesch enz. Bovendien
+is op elke flacon een bon geplakt, zooals op alle artikelen van
+de Lievegoed's Fabrieken. 15 bons is o.a. l fl. Piccalilli,
+25 bons l fl. Kerry enz.
+N.V. DE HOUTTUINEN - AMSTERDAM
+&amp; Zn, - Keizersgracht 447
+(voorheen L E l DS C H EST R A AT 69)
+SENXIMG GASFORMUIZEH
+'T BINNENHUIS
+_ _ _ OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY LAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: P R l N S E N G R A C H T 70?A
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+SpoolalHolt In i
+WIEGEN - KINDERLEDIKANTEN.
+B. J. MULDERS
+TUINAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+Illustratiedruk-papier van de Firma C. G. A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:06:13:32.00" size="151653">000005GK.TIF</image>
+</page>
+</document>

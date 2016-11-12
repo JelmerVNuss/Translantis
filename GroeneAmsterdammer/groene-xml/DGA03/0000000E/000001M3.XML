@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081025</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het vonnis, dat weldra valt.
+BIJVOEGSEL van Ue Amsterdammer, Weekblad voor Nederland van 25 October 1908.
+Amst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co.
+.,De Hooge Raad van Europa, enz.;
+Gelet op het Wetboek van Internationaal Recht, A—Z;
+Overwegende, dat Abdul Hamid is de wettige eigenaar van Bosnië, Herzegowina, Bulgarije en Kreta;
+,,Overwegende, dat de beklaagden, voor een deel uiterst gevaarlijke recidivisten, bij nacht en door inbraak zich Hamid's goederen hebben toegeëigend;
+Recht doende krachtens de hoogste begrippen van Recht en Billijkheid;
+Verklaart I lamid met ontvankelijk in zijn eisch;
+Gelast ten spoedigste de genoemde bezittingen in handen te stollen van cle drie 'geachte hccren inbrekers."
+
+</text>
+<image timestamp="2002:08:15:04:01:59.00" size="158367">000001M3.TIF</image>
+</page>
+</document>

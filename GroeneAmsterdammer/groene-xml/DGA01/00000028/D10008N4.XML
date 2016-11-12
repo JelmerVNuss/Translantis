@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330701</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+P'!
+:i« ^.
+f
+
+'•-1
+CONSTANT \
+W^&amp;:'^'
+'"!$*:• "Si,
+.v;•».&gt;'••&lt; '.
+Tentoons
+collectie-Sch
+Stedelijk Mu
+In een vijftal beneden-zalen van
+het Stedelijk Museum is gedurende
+de zomermaanden tijdelijk de ver
+
+zameling muziekinstrumenten van Dr. D. F. Scheurleer, uit het Museum Scheurlee
+in den Haag, geëxposeerd.
+*"' Het is een wereld op zichzelf, wat men hier bijeen vindt. De zalen doorgaand, beleeft mei
+een geschiedenis van den mensch en het muziekinstrument, die voor den goeden beschouwe
+boeiend is als een cultuurgeschiedenis.
+Eerst vertoeven wij temidden van de horden der primitieve muziekinstrumenten, de muziekinstrurnentei
+der primitieve volken, opgesteld en opgehangen als exotische wapens, veel trommen,
+vooral trommen, kleine.en reusachtig groote, van kalebassen of van hout, met
+dierenvellen overspannen, lange en korte speeltuigen met snaren van boomvezels, tegen den
+wand opgehangen als waren het lansen of pijlenkokers. Het ia Afrika, wat men hier aantreft,
+een naakt, primitief Afrika, ook in zijn muziekbeoefening. De koning der instrumenten is de
+groote signaaltrom, de telegraaf van het Afrikaansche oerwoud, die over groote afstanden
+berichten" doorgeeft, doch ook de muziek vertegenwoordigt bij plechtige gelegenheden:
+de tamtam. Als een eerste muzikaal lichtpunt" merkt men in deze barbaarsche instrumenten
+
+wildernis de zanza op, het z.g. neger-piano'tje, het klankinstrument, dat vaste
+toonhoogteverschillen heeft, bestaande uit verschillende ijzeren staafjes, met de vingers neer te slaan.
+Ook het binnenste van Aziëbergt nog de meest primitieve muziek, doch van iets voornamer gehalte wat betreft de versiering
+'der instrumenten. Opvallend^ zijn de reusachtige Thibetaansche priesterhoorns, hier aanwezig en tegen de zoldering
+opgehangen. . -•#'-•-'
+In Indiëzijn slag- en snaren-instrumenten nog wel primitief; maar meer muzikaal genuanceerd. De Javaansche
+gamelan is, door inlandars bespeeld, een klankorkest niét een eigen betoovering, dat men in het landschap zelf
+moet ondergaan: het is geen podium-muziek. Voor-Indië, Arabië, Perzië: het is het strijkinstrument, dat hier tot
+grootere ontwikkeling komt, kemangeh, rebab, vina, enz. Maar nog altijd blijft de trom overheerschen. De fluit
+vindt in China een land van ontwikkeling. Maar ook hier domineeren de metalen slaginstrumenten, de gongs, met
+hun zware stem. i
+Eerst in Europa begint de werkelijke ontwikkelingsgeschiedenis van het muziekinstrument. Terwijl
+in Afrika en Aziëfeitelijk geen ontwikkeling voorkomt en de muziek door de eeuwen heen op een
+zelfde peil van beoefening blijft staan, valt het in Europa op, reeds
+in de Middeleeuwen, dat men de ontwikkeling der muziek wil door de
+ontwikkeling van het instrument. In het Europa van vroeger zijn het
+niet de slaginstrumenten, die naar den voorrang streven, maar de
+blaasinstrumenten, die in grooten
+getale en in groote variatie
+beginnen voor te komen.
+Daar het nog niet mogelij k
+was door ventielen de
+toon
+f
+
+
+</text>
+<image timestamp="2002:09:27:03:16:11.00" size="455463">D10008N4.TIF</image>
+</page>
+</document>

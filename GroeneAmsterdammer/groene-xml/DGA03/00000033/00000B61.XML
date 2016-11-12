@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18871002</Datum>
+<Pagina>4A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 2 October 1887.
+Extra, geregeleerde V olkaVQOf Stelling t !!
+De explicateur spreekt:
+De straatgeld-Hydra is een beest
+Door huisjesmelkers zeer gevreesd,
+Zijn koppen groeien b ij den dag,
+Voor zyn APTIJT heeft elk ontzag l
+Deze hyéna, geëerd publiek,
+Is nog een jonkie en daarby half ziek;
+Anders had de gulzigaard, zonder myn weten,
+Misschien zyn collega's al opgevreten.
+Dit Beertje is oud, maar volstrekt niet kieskeurig,
+HJj vreet zoo van alles en blijft daardoor fleurig,
+Al l^kt hjj caduc, een stumper, een stakker,
+Ik geloof: h^j leeft eeuwig, zoo taai is **. rakker!
+. EILUMAH, MUM * M., AMTUMtt.
+
+</text>
+<image timestamp="2002:10:02:14:28:56.00" size="419247">00000B61.TIF</image>
+</page>
+</document>

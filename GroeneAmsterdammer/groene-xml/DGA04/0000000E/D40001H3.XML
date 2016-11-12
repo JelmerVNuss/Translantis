@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141101</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+809*9
+Zondag l November
+A6.1914
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	/ 1.65
+Vbor bet Buitenl. en de Koloniën p. ]., bij vooruitbetaling fr. p. mail , 10.
+Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar 0.12'
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van l—5 regels/l.25, elke regel meer . .
+Advertentiën op de finantieele- en kunstpagina, per regel
+Reclames, per regel
+ƒ0.25
+.0.30
+0.40
+INHOUD
+Blz. 1: Aan België door Carel
+Scharten. Duitschland over Nederlands
+toekomst. Kroniek: Duitsche
+liberaliteit. Mr. E. A. van Ketwich Verschuur:
+Een gedwongen leening? 2: Frans
+Coénen over Wisselend Uitzicht door
+G. F. Haspels Niet jubileeren in 2014
+door Charivarius. Het gevaarlijke
+mes der Engelschen. De scheldnaam
+Mof" 3: Tjerk Bottema: Een reis
+door België. 4: Allegra. 5:
+P. H. Burgers over Houston Stewart
+Chamberlain. Mr. C. H. E. Reelfs:
+Gij en U. Th. van Huut: Iets over
+Montoya en de Chat Noir. 6: Fin.
+Kroniek door v. d. M. 7: Een
+Belgisch vluchteling aan het woord.
+Prof. Lasson's brief brengt 100 gul
+
+den op. Een leerling uit de school
+van Lasson. Een Visscher: Japan;
+teekening door P. de Jong. Natuur
+en Techniek: Rapunzelbloemen, door
+dr. P. van Olst. 8: Teekening van
+Joh. Braakensiek: Dante in de Hel.
+Bijvoegsel door Johan Braakensiek:
+De Oorlogsspinnen.
+AAN BELGI
+
+België, hoe wil mijn lied een maatslag vinden,
+Waar uw verwoesting mijn geest verwoest,
+Anders dan in de loeiende woestijn-winden
+Der vlammen waarin uwe steden vergaan?
+
+Hoe wil mijn stem, België, van uwe rampen zingen,
+Waar mij de tranen schroeien in de keel?
+Ik kan niet uit mijn ziel andere rijmen wringen
+Dan falende als de kranke klank van een gebarsten glas
+
+België, alreeds uw arme naam verwondt mijn hart,
+Wij zijn n bloed, en den dood uwer helden,
+Uwer vrouwen verschrikkingen en de smart
+Uwer moeders, sterf ik en lijd ik en haat mijn ledig leven
+
+België, uw landouw was een der zoetste oorden,
+Waar mijn droomen omgingen op hun liefdevollen tocht,
+Uw stadhuizen en hallen en kerken en belfoorten
+Hieven de rankste glorie in de nevels van mijn geest
+
+En uw volk, België, uw ronde, blozende Vlamen,
+Qns oude Dietsch hertooverend tot nieuwen bloei,
+En uw werkzame Walen, vaak woelig te zamen
+In onderlingen twist, maar toch n Belgisch volk,
+
+Uw volk, dat eeuwen van verdrukking had geleden
+En niet zóschaloos als de steenen droomen zijner ziel,
+Uw volk, zichzelf hervindend in een daadrijk heden,
+Werd weer ruim als zijn hallen en als zijn torens trotsch!
+
+Na langen stilstand bruischte uw versche leven,
+Herboren België, in een dubb'le mildheid uit!
+Bewond'rend staarden we op uw struische streven,
+Uw schoon vertier zong als een vrool'ke beiaard door ons hart!
+
+En plots een helsche werklijkheid heeft oord en volk bevangen,
+Uw dorpen branden, uwe steden storte' in puin,
+Uw jeugd stort in den dood o, dat mijn zangen
+Fluistren en schreeuwen, België, dit verbijsterend leed.
+* *
+*
+Luik, o vertrouwd geluid, Luik, waar eens minde
+Een lieve maagd, die nog in oude brieven leeft,
+Wij minden U in haar, Luik, *) wij werden trouwe vrinden
+Van uw hartelijk volk waar is die teed're tijd?
+
+De vijand kwam, en ik stond mét u aan uw ramen
+En schoot! het was ons recht! Of was het recht aan hem,
+Die schond zijn keizerswoord? O glorierijke namen,
+Die siere' uw wild verweer: vrij-schutter zijt ge, en geus!
+
+En geuzen-volk zijn uw prachtige wijven;
+Hun wraak laait op over het laf verraad
+Van die schamper verscheuren wat zij onderschrijven
+Wijven, giet uit de kokende olie van uw haat!
+
+Weerwraak zal u moorden mannen en zonen,
+Uw huis verbranden en al uw goed
+En teisteren allen die met u wonen
+Schoonen en roemen zal 'k uw rauwe razernij!
+
+Leuven, zoet is me ook Uw naam, 'schoon 'k nooit aanschouwde
+De schatten, verdorven door bot geweld,
+Uw ziel was aan mijn ziel de teer-vertrouwde
+Van verre eeuwen her wee! haar verwoest gelaat!
+
+Gefolterd uw schuld'looze burgers ten doode,
+Tot wanhoop, tot waanzin, en mijn bloed bonst
+Van dompen toorn en angst... o, waar zijt Gij gevloden,
+Lieve, oude Vriend, en léft ge, Hoogleeraar Verriest? **)
+
+Waar is uw oud gezicht, blozend en jong van vrede?
+Waar klinkt uw jonge stem, waarin Gezelle zong?
+Thands, oud zie 'k uwe^ blik, die zag dit al te wreede,
+Oud is uw fluisterstem, die dankt dat Hij 't niet ziet...
+t
+Maar waar 't Verleden leeft, onsterflijk, ook in 't Noorden,
+Bij ons, waar 't heilig is, o, welk een tóekomst-schoon bedreigt de Dood!
+Wee, jonge, eed'le koppen, die het stomme lood doorboorde,
+Waar ligt Uwe rijpende schoonheid verslagen?
+
+Waar zijt gij alle', aan wie ons hart verbonden is,
+Wier naam en werk bloeit in elk Hollandsch huis?
+Verloren in den bloedenden stoet der gewonden is
+Menig bemind gelaat misschien; misschien... voorgoed gebluscht?
+
+Streuvels, gij zult uw jamm'rend volk niet eenzaam laten?
+Gij zult staan, in het uur der herrijzenis,
+Te sterker, te grooter, en uw smart zonder mate
+Zal u doen buigen, dieper nog, naar hun berooide hart
+
+*) Deze passage doelt op Julie Simon, Een Levensroman van Bakhuizen van den
+Brink" door C. en M. Scharten-Antink. RED.
+* *) Gustaaf Verriest, broeder van den bekenden pastoor. RED.
+Waar zwerft uw moede gang, Karel van de Woestijne?
+Van de Woestijne, ay, profetisch was uw naam
+Zoo wees uws volks profeet, drenk met doordringende refreinen
+Hunner harten woestijnen verwoest is al hun bloei!
+
+Waar kunt gij nog leven, al gij Vlaamsche en Waalsche koppen ?
+In Brussel grijnst u aan het grimmig regiment
+Van moord-dreigenden dwang, Wie kan de schande kroppen,
+Dat Brussel enkel staat, wijl zijn bevolking bukt?
+
+Wie kan in Mechelen den schuwen dood verduren?
+Sint Rombout verloor zijn vertrouwelijke stem
+En nu storten van 't laatste bolwerk forten en muren,
+De brand woedt! en de Schelde bloedt van den vlammengloed harer Glorie.
+
+Antwerpen viel! en koning Albert, 't leger, weggetogen
+Naar zee, verlaten weer 't weerloos Ostende in aller ijl
+En binnen Havre's haven schuilt ge in Frankrijks mededoogen,
+Gijzelf een balling, België, uit eigen gewesten gevlucht
+
+En alles vlucht! Heel Holland is n honk van vluchtelingen,
+Het bergt uw duizenden aan zijn bewogen hart.
+Uw afgestreden heir week in de schemeringen
+Van een onzeek'ren tocht... Waarheen drijft hen het lot?
+
+Waarheen drijft het lot? Naar smaad'lijke overheering
+Door een vijand, die eeden noch edelmoed kent?
+Wacht u, onder zijn ijz'ren hak, de schamele ontbering
+Van eigen wil, en taal, en vrijheid? 't zal niet zijn!
+
+Niet voor niets zijn uw steden verwoest, en verbrand uwe dorpen!
+Niet voor niets is uw grond van het bloed der onschuldigen drassig
+Met eigen hand heeft hij d' onneembre veste opgeworpen,
+Waarachter uw verlossing en vrijmacht veilig is:
+
+Bouwvallen, bloedmoerassen en vertwijfelingen,
+Geen vijand zoo sterk, die ze overwint!
+Wie weerstaat hun bitter-zwarte wraakroepingen?
+Wie den dronkenmakenden walm, die 't bloedend onrecht ontstijgt?
+
+Het oproer zal altijd smeulen onder hun zolen,
+De verachting za! altijd hen bespuwen uit elk oog,
+De walgende herinnering blijft in geen stem verholen,
+En op den grooten Dag staat heel dit volk, n man.
+
+Zij houden 't niet! Uw dapp're koning, die zijn leven stelde
+Voor d'eer zijns lands, zoogoed als elk soldaat,
+Uw teed're koningin, die haar gewonde helden
+Deed binnendragen in 't paleis langs d' eeretrap:
+
+Langs d' eeretrap zullen zij naar hun troonzaal keeren,
+Brussel zal schoon zijn als geen ander lentetij,
+Brussel zal klappen met zijn vlaggen in het teêre
+Mei-licht, dat eender 'tjonge groen en grijze steen verguldt!
+
+Heldenvrouwen en heldenkinderen zullen weenen
+Van smart en van trots en van vroolijkheid
+Vruchtbaar als 't heldenbloed zijn de tranen dergenen
+Die zien den nieuwen dag en de blondheid der toekomst!
+
+Uw volk zal keeren tot zijn nijv're werken,
+De hooge vreugd hangt als een blijde beiaard in zijn geest,
+Minder rijk, zal 't aan t geleden leed zijn ziel versterken
+Grooter en eed'ler stijgt gij, België, tot uw herrijzenis!
+Oct. 1914
+CAREL SCHARTEN
+Illlllllllllllllllllllll	IIIIIIIIIIIIIIIMIIIIIMIIIIIIIIIIIllllllllllinilllllllllllllMIIIMMIIIIItllllMIIIII
+De Huid en de Beer
+
+Ongetwijfeld eenigermate tot verdriet
+van zekere personen en dagbladen in
+Nederland, heeft de heer Troelstra eene
+diplomatieke zending met beleid vol
+
+bracht. Het is van ouds kenmerk geweest
+van de burgerij, dat zij voor zulke be
+
+moeiingen liefst deftiger personen zag
+afgezonden dan de personen uit den
+eigen burgerstand men ziet gaarne
+van omhoog gewichtige woorden neer
+
+dalen en daarom was het niet aardig
+van den socialistischen afgevaardigde
+zoo ongevraagd zich tusschen de ge
+
+zanten in te dringen!
+Het antwoord, dat hij intusschen van
+den Duitschen onder-staatssecretaris
+Zimmermann ambtelijk" heeft gekregen,
+is, in zeker opzicht, zeer interessant.
+Niet omdat men nu ook maar eenigszins
+minder wantrouwend de toekomst zou
+mogen bezien, gelijk het de hardleersche
+N. R. Ct. zijn lezers ingeeft. Politiek", l
+zoo zegt dat blad, mogen wij dus aan
+
+nemen, dreigt ons land geen gevaar"!
+Maar omdat er in de woorden van den
+Berlijnschen diplomaat reeds nu, terwijl
+in 't oosten en in 't westen de Duitsche
+legers geen stap vooruitkomen, een nei
+
+ging wordt geopenbaard om ons op
+eenige nauwere economische" aanslui
+
+ting bij Duitschland voor te bereiden.
+De openhartigheid van dit streven is te
+waardeeren ook al komt zij nog wat
+vroeg.
+Ziehier nog eens het antwoord van
+den heer Zimmermann :
+
+Ik kan u de woorden van den heer
+Muller slechts bevestigen. De Duitsche
+regeering kent de Hollanders, zij weet,
+dat deze een zelfbewust en evenals
+mijne Oostpruissische landgenooten
+eigenzinnig volk zijn. Wat zouden wij
+met hen beginnen? Geen ernstig
+mensch bij ons denkt eraan, den Hol
+
+landers geweld aan te doen, om uw
+land bij het Duitsche Rijk in te lijven.
+Wat ook deze of gene privaatpersoon
+vroeger wel moge gezegd of geschre
+
+ven hebben, in de Duitsche regeering
+bestaat ten opzichte der onvoorwaar
+
+delijke erkenning der Hollandsche on
+
+afhankelijkheid en integriteit de meest
+volledige eenstemmigheid. Dat kan ik
+u niet slechts persoonlijk, maar ook
+ambtelijk verzekeren.
+Dit, wat de politieke onafhankelijk
+
+heid betreft, die u wel het eerst inte
+
+resseert. Over de ekonomische verhou
+
+dingen na den oorlog is thans nog
+niets zekers te zeggen.
+Ik zou mij kunnen voorstellen, dat
+zich in aansluiting aan den oorlog eene
+ekonomische toenadering tusschen ver
+
+schillende staten ontwikkelt en dat
+Holland het dan zelf in zijn belang zou
+achten, zich daarbij aan te sluiten. Maar
+ook in zulk een geval zou iets nieuws
+tusschen ons en Holland slechts op
+vriendschappelijke wijze tot stand komen
+Wij hebben pas gelezen hoe de op
+een na hoogste chef van den heer Zim
+
+mermann een plechtig gesloten tractaat,
+waarop de handteekening stond van een
+pruisisch koning, noemde een vodje papier.
+Dit is meegedeeld door den Engelschen
+gezant te Berlijn, tot wien door
+Bethmann Hollweg die uitdrukking gebezigd
+werd (met begeleiding van een verach
+
+tend gebaar), en het is nooit weer
+
+sproken.
+Wij hebben pas gelezen, hoe eenige
+jaren terug het Belgische grijsboek
+bracht het nieuws officieel aan de
+Duitsche Regeering gevraagd werd door
+de Belgische om toch eens, in antwoord
+op zekere uitlatingen van invloedrijke
+personen, nogmaals in 't openbaar te
+bevestigen, dat Duitschland, bij een oor
+
+log met Frankrijk, België niet zou bin
+
+nen dringen. Bethmann antwoordde toen,
+dat de Duitsche Regeering de stellige
+verzekering daarvan gaarne gaf, maar
+' dat zij ze niet in 't openbaar kon geven,
+omdat Frankrijk dan allicht de verster
+
+king van zijn noordgrens wat meer zou
+kunnen verwaarloozen om de oostgrenzen
+des te onneembaarder te maken. Deze
+mededeeling van het Belgische grijsboek
+is nooit weersproken.
+Wij hebben pas gelezen, hoe een
+Belgisch journalist den Duitschen gezant
+te Brussel vroeg of Duitschland van plan
+was zijn weg naar Frankrijk dór België
+te nemen. De Duitsche gezant gaf de
+stelligste verzekeringen, dat Duitschland
+nooit of te nimmer België's neutraliteit
+zou schenden. Vier en twintig uur later
+stelde dezelfde gezant uit naam van
+Bethmann Hollweg de Belgische Regee
+
+ring den eisch, dat zij het Duitsche leger
+vrijen doorgang zou toestaan. De authen
+
+ticiteit en het op elkaar volgen van 't
+interview en van den eisch werden nooit
+ontkend.
+En nu zegt de heer Zimmermann, op
+dit oogenblik dat van zegevieren voor
+Duitschland nog geen sprake is, dat de
+Hollanders zulke eigenzinnige kerels
+zijn (de Polen, de Elzassers, de Denen
+niet?) en dat hij onze politieke zelfstan
+
+digheid waarborgt!
+En de N. R. Ct. is een beetje opgelucht!
+En vele Nederlanders voelen zich
+rustiger!
+Het moest eer wantrouwend stemmen
+dat een man, die uit naam van de
+Duitsche Regeering spreekt, reeds thans
+met proefbalonnen werkt van
+oeconomische toenadering.
+De man had eenvoudig kunnen be
+
+vestigen, dat Duitschland er niet aan
+dacht ons kwaad te doen, dat Duitsch
+
+land onze volkomen onafhankelijkheid
+het meest begeerenswaarde vindt wat er
+op aarde bestaat, of iets van dien aard,
+wij zouden dan wel weten, datzoo'n
+uiting voor de toekomst niets beteekent,
+maar wij hadden dan tenminste de op
+
+merking kunnen maken, dat Duitschland
+jegens ons op dit oogenblik nog geen
+andere houding dan die van vroeger
+wenschelijk achte.
+In zooverre is het dus wel zeer belang
+
+wekkend, wat de heer Troelstra ons uit
+Berlijn meebracht.
+
+* •
+
+KRONIEK
+DUITSCHE LIBERALITEIT
+Er was onlangs in de Duitsche bladen
+een Keizerverheerlijkend bericht. Hoe ge
+
+nadig hij was, hoe schier moederlijk bezorgd
+voor de nooden zijner trouwe soldaten, hoe
+ruim van opvattingen en fijn van gevoel...
+Wat toch bleek het geval ? Aan de vele
+Joodsche soldaten der legers in Frankrijk
+had men officieel niet alleen toegestaan den
+Grooten Verzoendag te vieren, maar hen
+zelfs daartoe van het front geroepen om dat
+gezamenlijk te doen. En daar in
+NoordFrankrijk begrijpelijkerwijze niet zoo heel
+veel Synagoge's beschikbaar waren, had het
+legerbestuur vrijgevig de roomsche kerken
+der veroverde dorpen aangewezen om in
+die behoefte te voorzien. In die kerken was
+toen het feest plechtiglijk en dankbaar ge
+
+vierd ... zeiden de berichten.
+Is dit geval niet karakteristiek voor den
+Duitschen geest, ook van hen die het arge
+
+loos en eerbiedig bewonderend vermeldden?
+Wat de Duitsche aanmatiging beteekent,
+weten wij nu haast wel, maar hoe de
+liberaliteit, de neerbuigende goedheid der
+regeerende klassen er uitziet, lijkt door dit een-
+voudig verhaal treffend geïllustreerd.
+Van boven af wordt uitgemaakt dat aan
+zekere wenschen van lageren zal worden
+tegemoet gekomen, doch dan moeten de
+begenadigden dit ook waardeeren en geen
+eigenwijze meening toonen aangaande de
+wijze waarop dat geschieden zal. Men zou
+kunnen meenen, dat voor geloovige joden
+er niets zógruwelijks bestaat, als in een
+katholieke kerk, voor een altaar aan den
+dienst van Christus gewijd, hun ritueele
+handelingen te moeten verrichten. Men zou
+ook kunnen denken, dat wie er nog leven
+en wonen mochten in die bezette dorpen
+met woede en afschuw hun kerken misbruikt
+zien voor een geloofsplechtigheid, die zij
+allicht niet beter dan doodzonde achten
+Maar welke Protestantsch-Pruisische
+veldoversten zuilen zich aan zulke kleinigheden
+storen? Is het, eens voor al, niet een blijk
+van zielegrooiheid een dwaalgeloof toe te
+staan zich te manifesteeren, omdat de
+r^elijders immers ook onderdanen zijn? En
+als er dan toch kerken leeg staan van die
+andere dwaalleer, het roomsch-catholicisme,
+waarom zou men den kerels deze dan niet
+laten gebruiken? Kerk is toch kerk, en al
+
+</text>
+<image timestamp="2002:08:21:03:02:26.00" size="342549">D40001H3.TIF</image>
+</page>
+</document>

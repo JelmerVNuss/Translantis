@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301011</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ffo. 2784
+DE GROENE AMSTERDAMMER VAN n OCTOBER 1930
+Nog
+Wallstreet-verrassingen ?
+door G. A. Klaasse
+J N de laatste weken is de stemming in New-York
+weer allerminst gunstig, en af en toe komen weer
+scherpe koersfluctuaties voor, die altijd wijzen op
+een zekere nervositeit van de beurs. Nog steeds
+hebben de baissiers den strijd niet opgegeven; de
+voortdurend behaalde overwinningen zijn hun
+blijkbaar nog niet genoeg, zij willen meer
+bloedzien. En het valt niet te ontkennen dat de over
+
+macht nog steeds aan hun zijde is; het gemiddelde
+koerspeil is maar heel weinig meer verwijderd van
+&lt;lat in de crisisdagen van October en November
+van het vorige jaar. Het belaigrijke herstel in de
+«erste drie maanden van dit jaar is weer geheel
+verloren gegaan.
+Onder die omstandigheden valt het niet te ver
+
+wonderen dat velen zich afvragen of misschien
+nog nieuwe verrassingen ons wachten, of niet
+het koerspeil der Yankee-waarden, ondanks de
+enorme daling in de vorige herfst, nog te hoog is.
+In die meening wordt men niet weinig gesteund,
+•wanneer men de New-Yorksche beursindexcijfers
+Jegt naast die der andere beurzen. Weliswaar is
+naar verhouding de koersreactie sedert October
+1929 in Wallstreet veel sterker en vooral abrupter
+geweest dan elders, maar wanneer men de
+koerscurven over een reeks van jaren, zelfs maar over
+een paar jaren, bekijkt dan blijkt duidelijk hoe
+relatief hoog de Amerikaansche noteeringen nog
+zijn. De stijging in 1928 en 1929 is in New-York
+zoo enorm sterk geweest, dat de daling welke sedert
+dien plaats vond het niveau van begin 1927 bijv.
+nog niet heeft kunnen halen. Het ligt integendeel
+daar nog eenige tientallen punten boven. Terwijl
+bijv. in ons land de index juist twintig procent
+lager ligt dan het peil van aanvang 1927; in Duitsch
+land zelfs dertig procent. Nog veel sterker frappeert
+dit wanneer men de cijfers in verhouding tot het de
+
+pressiejaar 1924 bekijkt. Hier te lande is de beurs
+
+index thans aangeland op het niveau van 1924
+&lt;gelijk aan dat van het crisisjaar 1922); in Wall
+
+street daarentegen is de gemiddelde aandeelen
+
+koers nog het dubbele van die in genoemd jaar.
+En tot op zekere hoogte krijgt men ook uit de
+verhouding var&gt; de koersen tot het rendement de
+indruk dat het gemiddelde peil nog rijkelijk hoog
+is. Op de basis van de dividenden over het hausse
+
+jaar 1929 geven immers de meeste goede indu
+
+strieele aandeelen nog niet veel meer dan 5 pCt.
+rtnlement. De goede spoorwegwaarden hebben
+lager rendementscijfers. En wanneer men dan be
+
+denkt dat in het loopende jaar de winsten der
+meeste spoorwegmaatschappijen met ongeveer
+20 pCt. zijn teruggeloopen, dan kan men toch
+nauwelijks zeggen dat de depressie in de koersen
+verdisconteerd is. En hetzelfde geldt voor de
+prima industrieelen als Steels, American Tel &amp; Tel.
+Stelt men daarnaast bijv. H.V.A. dan blijkt wel
+de schrille tegenstelling. Op basis van de huidige
+koers (ondanks de vrij sterke stijging van de
+laatste dagen) beteekent het dividend over 1929
+een rendement van ruim 8 pCt. Aandeelen Konink
+
+lijke rendeeren 7 pCt. Nu is het waar dat bijv.
+voor cultuuraandeelen waar de rendementscijfers
+het hoogst zijn (bij Amsterdam Rubber bijv. is het
+zelfs 15 pCt.) een zeer sterke vermindering van
+winsten en uitkeeringen wordt verwacht, veel
+sterker dan de algemeene depressie voor de
+meeste industrieele bedrijven doet tegemoetzien.
+Maar toch ook de goede industrieele waarden
+staan bij ons op een zeer behoorlijke rendements
+
+basis (altijd op grond van het 1929-dividend).
+Men neme als voorbeeld de aandeelen Philips, die
+nagenoeg 7 pCt. rendeeren.
+Dit verschil in rendementscijfers is niet te ver
+
+klaren uithoofde van een verschil in rentestand.
+De intrestvoet voor goudgerande obligatien is in
+de V.S. niet veel lager dan hier. Is er dan aanlei
+
+ding om te verwachten dat de winsten der Ameri
+
+kaansche maatschappijen in de komende jaren ten
+opzichte van het hausse jaar 1929 minder sterk zul
+
+len terugloopen dan bij onze ondernemingen?
+Wanneer men alle aandeelen als categorie tezamen
+beschouwd dan is inderdaad die kans aanwezig.
+Onze beurs is nog steeds in zeer belangrijke mate
+georiënteerd op Indische aandeelen, en het valt
+niet te ontkennen dat het er voor de meeste be
+
+drijven uit onzen Oost bedroevend uitziet. De
+depressie in de cultures dateert reeds van geruimen
+tijd voor den aanvang van de industrieele malaise,
+en het ziet er wel naar uit dat zij een veel sleepender
+karakter zal dragen. Zoodat het alleszins gemoti
+
+veerd is dat in verhouding tot de dividenden
+deilaatste jaren industrieele papieren aanmerkelijk
+hooger gewaardeerd worden.
+Maar dit zou toch niet wegnemen dat een rende
+
+mentsbasis voor industrieele en spoorwegwaarden
+van 4.5 a 5 pCt. onder de heerschende conjunctuur
+
+vooruitzichten veel te laag zou zijn, indien er geen
+omstandigheden waren welke het dividendcijfer
+tot een mindei juiste basis maakten voor een
+zuivere rendementscalculatie. En dat is nu inder
+
+daad voor de meeste Amerikaansche aandeelen
+het geval. Ik heb hier niet het oog op de claims
+welke de goede Amerikaansche waarden niet
+eenige regelmaat afwerpen, nog minder op de
+split-ups, waarmee de aandeelhouder over-there
+in haussetijd herhaaldelijk wordt blijgemaakt.
+Maar wanneer men de ..income-account" van de
+groote Amerikaansche maatschappijen onder de
+loupe neemt dan blijkt onmiddellijk in hoe sterke
+mate men ginds gewend is geraakt om de ..spaar
+
+functie," de taak van de kapitaalvorming van
+het individu, van den aandeelhouder in dit geval,
+af te wentelen op het bedrijf. Het is geenszins een
+zeldzaamheid dat meer dan de helft van de netto
+
+winst in het bedrijf wordt gehouden om te worden
+toegevoegd aan de surplusrekening.
+Dat onder die omstandigheden de cijfers
+welke het dividendrendement" weergeven
+minder gunstig /ijn dan elders, behoeft geen
+verwondering te wekken. Ook deze groote
+maatschappijen houden een belangrijk deel van
+hun winst in, hetzij door toevoeging aan de reserve,
+Nederlandsche Munt
+Holland's beste 10 cents sigaar
+hetzij door extra-afschrijving op activa (zooals bijv.
+bij Philips). Maar in nagenoeg geen enkel bedrijf
+zijn de verhoudingen zooals in Amerika. Waar
+dit wel het geval is, zijn ook hier de koersen in
+verhouding tot het dividend hoog. Ik denk hier
+bijv. aan de aandeelen Nederlandsche Ford, waar
+
+van het dividendrendement maar 4 pCt. bedraagt,
+maar waar dan ook van de bruto-winst (na nor
+
+male afschrijving) slechts een vijfde deel van
+de winst werd uitgekeerd. Wanneer de
+Amerikaansche maatschappijen de aandeelhouders dwingen
+om een belangrijk deel van de hun toekomende
+winst weer in het bedrijf te investeeren dan mag
+dat geen reden zijn om de aandeelen zooveel lager
+te waardeeren.
+En hiermede komen wij tevens op het punt
+dat het eerst werd aangeroerd: de verhouding
+van de huidige koersindex tot die in 1922. Zelfs
+wanneer men zou aannemen dat de winstkansen per
+bedrijfseenheid er thans even bedroevend voor
+
+staan als in dat crisis jaar, dan nog zou de noteering
+der aandeelen aanmerkelijk hooger kunnen zijn.
+Juist omdat zooals hierboven werd uiteengezet
+het vermogen in verhouding tot het nominale
+kapitaal zooveel omvangrijker is geworden. Wan
+
+neer in 1921 een maatschappij $20 millipen kapi
+
+taal had en thans daarnaast een surplus heeft
+gevormd van 20 millioen dan kan de koers nu
+juist tweemaal zoo hoog zijn. ook al zijn naar
+verhouding de winstkansen even slecht getaxeerd
+als toentertijd.
+En dan de factor welke wij in verband met de
+rendementscijfers reeds aanroerden. In New-York
+gaan voornamelijk industrieele, public utility en
+spoorwegpapieren. Dat een indexcijfer van die
+aandeelen in verhouding tot dat van bijv. 1925
+er heel wat minder ongunstig uitziet dan een index
+waarin cultuuraandeelen een belangrijk contingent
+uitmaken, is heel begrijpelijk.En tenslotte moet men
+toch ook rekening houden met den eiiormen
+industrieelen vooruitgang welke in de laatste tien jaren
+de Vereenigde Staten hebben geregistreerd. De
+depressie die verleden jaar Juli haar intrede deed
+duurt langer dan velen in Amerika hadden ver
+
+wacht. Maar de industrie heeft een gezonde basis;
+indien ergens de economische verhoudingen in the
+long run gunstig zijn dan is het wel in Amerika.
+Zoodat een herstel binnen enkele jaren wel ver
+
+wacht kan worden. Of men datzelfde kan zeggen
+van onze Indische bedrijven, is zeer de vraag.
+Wanneer men hiermee rekening houdt, en tevens
+let op. de spaarpolitiek van de Amerikaansche
+industrie, dat in de rendementscalculatie ver
+
+werkt, dan lijkt er weinig aanleiding voor de
+meeniiig, dat het koersniveau in Wallstreet in verge
+
+lijking tot het onze nog te hoog is, en dat dus nog
+een aanpassing te verwachten is. Wat natuurlijk
+niet wegneemt dat misschien het laagste punt nog
+komen moet.
+Voor zwakken en.
+kersiellenaen . . .
+Een natuurlijk geneesmiddel!
+Voor iedereen . . :
+Een bron van levenskracht!
+.
+de gezonakeiasarami!
+
+</text>
+<image timestamp="2002:09:22:05:16:26.00" size="241090">000008KH.TIF</image>
+</page>
+</document>

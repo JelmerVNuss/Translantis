@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19091014</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De droeve afdwaling van broeder de Waal Malefijt.
+
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 14 November 1909.
+COUJN.
+TREUB. BORGESIUS.
+DE CHRISTENMANNEN: Politie! Politie! Wij hebben betaald voor een nette vertooning en
+niet voor deze onzedelijke tooneelen!
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, llarras &amp; Co.
+
+</text>
+<image timestamp="2002:08:16:22:03:43.00" size="239190">0000024K.TIF</image>
+</page>
+</document>

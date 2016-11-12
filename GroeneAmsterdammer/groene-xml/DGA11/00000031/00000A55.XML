@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320402</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+• f '. iT 1 ••
+
+
+
+M
+
+*
+
+
+
+L £ i
+
+" W) ^
+S- 2. a: S"
+» l|= f3 a i l
+S. w o 5
+
+£ s l •
+k PJ tt
+ft e «i- w
+
+
+
+.
+•
+*
+M. -^
+
+
+3* S
+
+
+l- "e-* i
+
+l S' - l
+£ a B
+9n C
+
+g r
+
+
+!' 3 O &amp; ^ ^ rT*
+1 2 o- a (p : w (^
+
+i gi S 3 P P-
+s^ 's' t S •» Si w »
+* -i s S g i ^ ~ S"
+
+s
+» r l
+s
+% O
+
+sf
+^ ^r ^^^
+n B
+Nf 0
+o G
+n
+
+K1
+
+
+g*
+w ft
+\v
+
+
+3J"i • 05
+
+2^-1
+
+C ^ N
+ZT' l—O)
+5 5- »
+ft s &lt;
+» c- o
+E. S
+•
+y. re
+
+» K
+C B
+
+g* -3
+
+s g
+
+£L s'
+» S
+B
+(D
+v
+9
+r - i M 1
+"
+Il * l
+'
+s
+_
+
+" 1 1 1 ? l ? 1= g- 1 il f :
+'-i—^k^—"-T—^t"--£~'(^! S^
+^r^^- -i "ct^^c ^ tr
+l f | f l r ^ ls l = i
+l =• 3 y &lt;
+
+3. SJ.
+
+'•*1* •" ^t--^'x'&amp;;~'!i^D
+Cc ~^"-;'^"-^r^----'*^
+tS
+hl
+
+
+i
+&gt;3
+o
+^ta
+
+
+
+
+
+J
+0
+1)
+a
+3
+3
+••
+
+X
+H)
+0
+•t
+M
+i+
+0
+3
+r+
+^
+C
+(D
+Q
+3
+3
+0
+
+
+
+
+3
+c
+N
+'
+jr
+"•
+^
+o
+v
+0
+ft
+o
+f
+
+
+
+
+
+•1
+(D
+IS.
+O
+
+N
+»
+&lt;
+0
+3
+&lt;"
+P
+-i
+•&lt;
+a
+(0
+
+**
+0
+^H
+^!
+^^
+a
+S
+s
+e
+S
+^A
+
+
+jjj
+(A
+V
+
+
+
+
+
+
+
+
+
+
+
+O IS W)
+
+ml o
+
+n1 zi
+_ O» H
+&gt; O T O
+
+
+i»™*
+
+S" -°5 2
+m
+s^ïl
+n z X m
+oiS
+ac 3
+SIS
+ZS r
+
+Indien gij nog niet geabonneerd zijt, vul dan
+
+den bon in op pagina 4 van het groene omslag
+
+</text>
+<image timestamp="2002:09:26:20:30:51.00" size="154766">00000A55.TIF</image>
+</page>
+</document>

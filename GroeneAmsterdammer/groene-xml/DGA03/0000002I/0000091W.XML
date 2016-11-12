@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300322</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•r "v t
+
+ra• weer het ook is!
+-,,i i rt
+) w,
+
+
+TISSUES y/
+'^'"^iCiS^"!"" --'""'"•Tr4*
+iv"* wi%p«w ^««w*!»»*-w*w]M'
+
+\Ainsfrrtfem C
+n •" - f1
+
+' zich JE aèoimeerèn.
+vr r *,
+
+r" van | j4pri/
+van Maarf gratis.
+
+itó™* t^"
+• ,
+Groene Amsterdammer"
+l Aj»ri/~- 31 December f 7.50.
+t tjcmeenle Amsterdam G 1000.
+
+irBEN IK
+"*' ood*/4- '
+ALFREDO PANZINI
+Dtt boek !• een zeer- _,,
+der boek, dat «p elkfe
+bladz^de getuigenis aflegt" van
+den scherpen, fijnen «n toch
+milden geestvan den auteur.
+Dit is geen roman tn den
+feenlijken zin van het Woord.
+Met it geen vast- «n
+ontkBpopingvangebeurtetüwen,
+nè^in geen tot in détails
+
+contouren. -De ge
+len- zfin sober
+^
+In -de fp«A»che
+maar van^groote
+e kradit; dat ze
+009 ycrtrouwdw _^&gt; f2"
+Vele andere fotnanfigureti,
+die met zórg ten voeten uit
+in, sprekende 'kleuren;
+ge«hilderd d]n.
+D&lt;r Courant.
+Ben boek vol zuidelijke gees
+
+tigheid....
+Zutphensctu Courant.
+KV.VAH HOLKQIA *
+WAfiEH
+DORfS
+pEKlBVraMIAAT
+«CHAPPU. A1UTIBDAM.
+Een mooi
+
+J. P. ZÖQMEfe-VERMEER
+
+Stormvogeltje
+
+Odrspr. n^eisjeaboek, met
+Olustratiea van Preddy
+Langeler en om«lag van Eelco
+ten Harmsen v. d. Beek.
+
+Ing. f 1.75; Geb. f 2.50
+Uitgave va? v. Holkema &amp;
+W«fenéoff'« Uitg^Mij., A'dara.
+to koop to Blarioum mot goed
+
+gekeurde 1 e e k e n i n g e n voor
+
+enkele on dubbele landhuizen.
+
+To bevragen Zonnekant"
+Eikenlaan 25 • Hilversum.
+VHERTOGENBOSCH
+ORANJEHOTE&amp;
+Pamilie-Hais
+telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GEBR. RADEMAKBR
+kX*
+GEEN J
+m earice.«...
+tutei dm
+Idadnur
+Hit /oownmw* la n, ,
+oco/aa'e-'p&amp;stet
+
+</text>
+<image timestamp="2002:09:25:06:46:15.00" size="688774">0000091W.TIF</image>
+</page>
+</document>

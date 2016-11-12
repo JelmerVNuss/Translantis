@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400209</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f, t-. ;•,&lt;*;
+&gt;AM CL, TELEFOON 87 W4 *
+f"
+w *
+ONAFHANKELIJK WEEKBLAD VOOB NEDERLAND
+OPGERICHT IN 1877
+fefe.
+Kf
+fe »te» VfcijliJi' W^kJlt^SB*-" - " 1!* .^ffl??*^'' . 4
+
+&lt;*&amp;*.(sm «
+«V *
+
+tóftC^W;
+i zal hem worden
+'., -"v; .-. .. ..•'''.''.4
+f/C«nwii6«-ieA/J!
+SVC-t^gy^A
+^.Siegfried-Idyll"
+
+</text>
+<image timestamp="2002:09:13:00:11:30.00" size="437749">000007BD.TIF</image>
+</page>
+</document>

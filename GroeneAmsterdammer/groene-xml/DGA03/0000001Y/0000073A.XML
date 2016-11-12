@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281117</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f* No. 3686 v*a 17 November 1928
+&gt; . / ': - .
+25 et,
+reene;
+cckblad -voor Nederiand
+KEIZERSGRACHT 333 - AMSTERDAM - CENTRUM
+TABAK
+Cm?
+y.v.i
+ROEM
+BLAUW
+ROOD
+GEEL
+Oct
+I5IWALITEIT!
+WHISKY
+Hing William iv
+Prima Schotsch product van het Huis
+John Gillon 6 Co Ltd. te Leith.
+Dezfe whisky munt uit door vol
+
+komen rijpheid en een bizonder
+zachte flavour.
+De echte whisky-kenners geven aan
+dit oude distillaat de voorkeur.
+'Prijs f 6.75 per flesch
+Achterzijde
+Importeurs;
+N.V. HOOGEWERFF, CHABOT &amp; VISSER'S
+WIJNKAN DEL
+DEN HAAG
+Noordwaf ""*•
+••Tel. No. 12461
+ROTTERDAM
+Jufferstraat 27
+Tel. No. 51155
+; l
+ARNHEM
+Ei4ebiusbinn.s. l
+' Tel. No. 195
+H.ULOOSTÊRHUIS
+AMSTERDAM
+KALVERSTRAAT 178
+OPBERICHT 1810
+Lustre
+Les Fougères'
+DE RESZKE"
+The Aristocrat of
+Cidarettesfr^
+ZACHT" tó^ AROMATISCH
+Wherever the ri^hi" people meet, there
+you will meet the ridht
+cid&amp;retteDE RESZKE,
+of eourse ! ,.„™..,™
+
+</text>
+<image timestamp="2002:09:05:16:21:00.00" size="140677">0000073A.TIF</image>
+</page>
+</document>

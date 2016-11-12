@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261225</Datum>
+<Pagina>44</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DB GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No, 2585
+
+•8(1
+V
+f'
+i
+AMSTERDAM
+r
+OS!
+80 VERSCHILLENDE VERKOOP-AFO.
+LUNCHROOM, LEESBIBLIOTHEEK,
+BIJKANTOREN VAN RIJKSPOST EN
+TELEGRAAF, DAMESKAPSALON '),
+BAGAGEDEPOT VAN DE
+NEDERLANDSCHE SPOORWEGEN, ENZ.
+l) alleen in Den Haag
+GE VINDT HET IN
+DE BIJENKORF
+NEERLAND'S GROOTSTE VOOROEELIGSTE EN BEST GESORTEERDE MAGAZIJNEN
+EIGEN AUTOD1ENST, OOK VOOR DE
+PROVINCIES, VOOR HET FRANCO
+HUIS" BEZORGEN DER GOEDEREN.
+ZENDINGEN BOVEN f 25.- FRANCO
+DOOR HET GEHEELE LAND. SPE
+
+CIALE VERZEND AFDEELING VOOR
+INDiË, POST- EN TELEF. ORDERS
+WORDEN MET SPOED UITGEVOERD
+DEN HAAG
+December
+1926
+| CHERRV BRANDY
+
+ORANJE CURACAO
+g Eiken dag
+n glaasje
+HALFOMHALF
+
+</text>
+<image timestamp="2002:09:26:13:31:10.00" size="171232">D1000891.TIF</image>
+</page>
+</document>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000624</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1200
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Het nut van een vorstelijk bezoek aan de Fransche Kamer.
+President DBSCHANEL (tot Kamerbode): »De Heeren zyn weer wat onrustig. Ga eens op den Boulevard kijken, mon ami, of je ook een Koning kunt vinden die wat in de loge wil komen zitten." ,
+Het nieuwste Chineesche caroussel. (Der Floh).
+An die Briten. (Zur Zeichnung von MAX SLEVOGT).
+De Zuid-Afrikaansche Napoleon.
+
+(Humoristische Blatter).
+, ^
+
+
+^» f-ff»V
+l
+»J'
+Maarschalk ROBEKTS: .Soldaten, honderden millioenen ponden sterling h Ia88t .e9 Senu8 8ein d«?
+zien van deze konies op u neer" Genug sein vergossenen Blutes,
+" '
+Instappen, Heeren ! we reizen naar Taku, misschien met 'n retour.
+
+Instappen, Heeren ! verzuim deze mooie gelegenheid niet.
+Het kaartspel van 't uiterste Oosten. (Caran d'Ache in den Figaro).
+TRÈFLE
+s* w &lt;f*
+
+MM'v .
+**..%? &gt;\ ^ \
+
+
+%£ 7
+!i i
+M -&gt;
+£w \
+iftè5*^'' ^ 'v
+,tó0
+^•&gt;\
+•-* v - »K x l ^
+t
+Spiels, Ihr Spruch wird gerecht sein, verlasst Euch
+darauf!
+Gebt auch einmal Proben des Menschengefühls Drum sucht, was Ihr könnt, noch zu rotten !
+Nach Proben des krieg'rischen Muthes. Ein Greis fleht um Frieden ! So hebet ihn auf,
+Und spart ihm Exil oder Ketten.
+Von schlimmeren Proben sage ich nichts
+Zu Eurer höheren Glorie, Auf dass man in Schlaf nicht die Kinderenen lull'
+Das laas ich dem Urtheil des Weltgerichts, Mit dem Marchen vom Gold und den Erzen
+Dem Urtheil der Welthistorie. Und dem tapferenBur und dem harten John Buil,
+Dem Man n mit dem odesten Herzen.
+K. T.
+Roof en moord in Zuid-Afrika. (Simplieissimus).
+VICTOKIA : »"Wees maar niet bang, Joe, die twee daarachter zijn van. de familie."
+
+
+Reizigers voor China. (Caran d'Ache in den Figaro).
+PIOUE
+John Buil tusschen de Transvaalsche bouillon en den Chineeschen pudding.
+
+
+</text>
+<image timestamp="2002:08:14:17:22:14.00" size="334863">D2000IZ.TIF</image>
+</page>
+</document>

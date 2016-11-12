@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240809</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f5 cent
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2460
+Fijne
+J
+7TJe/kc/7OCO/0€f
+met Zu/dvruc'frfj
+Koldewey &amp; Corbière
+Laidschestraat 30, Amsterdam
+Spoolalltolt In i
+Badtafels, Baby Bascules, Linnemnanden.
+AIX LES BAINS
+SAVOYE FRANKRIJK
+.Warme bronnen tegen RHEUMATIEK. Alle sporten. Twee Casino's.
+Mooiste en voornaamste touristencentrum der Fransche Alpen.
+Inl. en prosp. gratis:
+INTERN. VERKEERS BUREAU
+A'dam, Kalverstraat 168, den Haag, Noordeinde 31.
+QERARD B. RIJKE J r.
+Binnen Architectuur
+A M* T E L 122 - Tolof. 46815
+Complete Meubileering
+INDIE
+MET EEN UITRUSTING
+UIT DE BIJENKORF"
+ONZE SPECIALE AFDEELINQ
+GEEFT ALLE GEWENSCHTE
+INLICHTINGEN
+DE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 1O.—per jaar
+6EORGE H. LA6AS
+AMSTERDAM - Tttotoi 24611 - Aidr.a» Binnttnit 40
+Electrische Luxe Broodbakkerij
+Specialiteit in alle Broodsoorten
+ll.,jmr G. J. DE KONING i Zn. • Keizersgracht UT
+(voorheen LEIDSCHESTRAAT 69)
+SEHKIMG GASFORHUIZEH
+Dir. E. Boerma
+mmm mum»
+Heertstr. 58 Rohin 10
+Dames- en
+HeerenKleedermakerij.
+Coupeuri door het geheele
+land te
+ontbieden".A. via Rijwielen.
+D K BESTE
+
+J. DE JONG &amp; ZONEN - A'DAM
+DE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 10.—p.j.
+Naamlooze Vennootschap
+Uurwerk, Goud- en Zilveihandel
+
+v/K Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verlovings- en Zegelringen. Zilveren
+Couverts en diverse Schepwerk
+tegen scherp concureerende prijzen.
+Uurwerken metWestminster en diverse gongslagen
+RUIME KEUZE HORLOGES
+l*te Klas reparatie-inrichting voor
+Goud, Zilver en Uurwerken.
+KLEINE ROMANS
+JO VAN AMMERS-KÜLLER
+
+HET INZICHT
+
+Piijsingen. 11.50; gebonden 11.90
+
+...Hoe heerlijk doordringend
+warm is de to n van het zoo
+dn eve en zoo echt ware \
+erhaal!... Dez.' kleine roman is
+bijna een meesterwerk!
+Frits Lapidotli in
+De Nieuwe Courant
+
+LEONHARD FftANK
+
+DE OORZAAK
+
+Prijs ingen. f 1.50; gebonden 11.90
+...Dit is een roman, die van
+het begin tot het einde boeit...
+Diepe tragiek spreekt uit d.t
+verhaal dat een ontroerenden
+indruk achterlaat....
+De Bredasche Courant
+
+EUGÈNE DEMOLDER
+
+DE SCHAATSEN
+VAN DE
+
+KONINGIN VAN HOLLAK D
+
+PIN) ingen. 11 50; gebonden 11.90
+
+...Een mooi boeiend sprookje
+in c!e smeuïge Vlaamsche Taal
+welke ons Pallieter in herinne
+
+ring brengt...
+De Haagsche Courant
+Uitgaven EM.QU ERI DO, A 'dam
+Onze Hygiënische Onderkleeding
+
+is weer in alle kwaliteiten leverbaar, in Zuiver Wol,
+Katoen, Lahman en Fil d'Ecosse, (ook dunne
+Zomerkwaliteiten), modellen voor Dames, Heeren en Kinderen.
+Verder alle soorten Kousen, Sokken en Sportkousen.
+Gebreide Mantelpakken, Mantels, Jumpers, Kinder
+
+jurken, enz., worden op eigen ateliers (desverlangd naar
+maat) in alle kleuren en diverse modellen vervaardigd.
+
+Gez. VAN HUIDEN - Zwolle
+KLEIN KOPERWERK, gedraaid of gestamt, blank l
+of vernikkeld levert tegen zeer lage prijzen!
+INGENIEURSBUREAU VAN NISPEN, ZWOLLE.
+WATERTOCHTJES
+
+Stoomboot Mij. De Volharding"
+
+Amsterdam- Kalfje- Ouderkerk - Uithoorn
+Leiden - Alphen - Boskoop - Gouda
+Amsterdam - Vliegveld Schiphol - Aalsmeer
+Salonbooten te Huur voor Extra Reizen
+Te bevragen a/h Hoofdkantoor Leiden
+KIPS &amp; C°.
+SCHIEDAM
+Plaatijzeren Reservoirs, Buisleidingen,
+Scheeps-Tanks
+Autogene
+Een blijvend genot
+is een
+
+Piano, Kunstspelpiano,
+
+Vleugel, Orgel of
+
+"• - Kunstspelorgel. -
+waarvan Ge door eenvoudig
+liurcn in 3 jaar eigenaar zijt.
+met i uw i duizend instrumenten worden jaarlijks c'oor
+ons geleverd. Elk fabrikaat met 10 jaar garantie door
+geheel Nederland. Vraagt nog heden nieuwen catalogus
+
+60 C°ndHeÏEE"S &amp; Co. DELFT
+PIANO- EN ORGELFABRIEK
+lllustratiedruk-papier van de Firma C. G, A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:14:31:32.00" size="148760">D2003ST.TIF</image>
+</page>
+</document>

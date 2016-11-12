@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940401</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Uit den Verkiezingstijd.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van i April 1894.
+De Voorzitter van "Burgerplicht" (tot Mr. Levy): «Eten
+zul-ie ons menu, vriendje! eri zonder amendementensaus".
+De heer ZIJP (tot den grondwetgever ROËLL) : »Leg me nu eens
+uit, meneer, wat eigenlijk de bedoeling is van het amendement, dat
+ik met u heb voorgesteld".
+De heeren VAN DER KAAY, RUTGERS v. R., DE MEIJIER, VAN
+HOUTEN en BEELAERTS v. B. (snikkend):
+Wer weiss, ob wir uns wiedersehn?
+Katholiek werkman (een democratisch candidaat zoekend):
+»Ik geloof niet, dat ik er een vinden zal."
+Dr. SCHAEPMAN: »Zoo'n ezel, hij zoekt nog
+•**l7** i,*4r
+HERCUI.ES—SPRUVT op den tweesprong
+Arnst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:09:03:03:39:22.00" size="258201">D1000434.TIF</image>
+</page>
+</document>

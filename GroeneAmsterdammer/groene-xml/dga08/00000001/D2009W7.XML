@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19290706</Datum>
+<Pagina>3</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'
+o
+o
+o po
+1: II l 11
+c &lt;*• s- W «5
+a&gt;. » S
+M
+a
+o
+o
+t; B. p- o
+P (D (B *O
+&lt;§&lt;rs.
+-p * £
+o =
+""a,
+n
+
+-S
+!tR
+o
+g
+«l B
+
+gl Jf
+
+
+|-;|g'^
+BC
+n
+•§•
+2 ~ e ':
+•* • tf j± *c a; £_ p? pr1
+
+
+
+
+g ~ p- |' £' P" c. F
+£ c s.2.2 -p^S
+2 5 ~ 5' » «"pa.
+o.p, g.
+P f5 P $9
+P M- S
+ar er . P
+(ïC *f -O
+r* «
+P. ft e- r B
+«^ ^* - *•
+^ ^^ *—- - - **
+
+S. S.'S fr l E
+B e
+
+ut
+P K '
+
+*
+»s c « ^ c: "•
+
+^ 2- 2&gt; c' ^ pr =T
+(
+K g.«
+r^s
+£.? g
+"•&amp;.?
+C P «»
+** » et- e»
+•C g. P
+2 c er
+c*
+T = S N
+l * - «='•
+
+te P* -* 2
+
+•=:££ s
+g O'S ^^ trg
+SPccp'sSo'5
+p-ppoVtitt-p
+rs-g.::
+w C C
+10 ^ p
+S c c
+s r? c *
+
+l&lt;G PT
+J- C i&gt;
+i-. 3T S
+st' c *
+
+
+S 's'
+
+
+'S II
+
+B" 2.75
+
+| 5 |
+*-• ^
+£ J5 ^
+
+"£ 3
+^- ^ c
+O C N
+P O
+-1 t. p
+
+£ S B'
+
+S- jr ?
+
+
+5r ^
+
+p 11
+c
+
+2
+O
+S
+D3
+P
+o
+
+
+g
+l
+g
+s:
+
+Os
+U .pl§!
+gSHPÏ«||
+' ' l-j
+o. na B'
+R' O «-1
+
+i.g'W
+c&lt; o a&gt;
+Cf p
+
+
+2. S* g
+• • e- s 's. a
+&amp;9 P-S-E
+ss-s?t
+«sis
+l
+n^
+^ o
+vxg N^ &gt;*
+
+g1 g. CD
+CD
+"t
+05
+2.5
+•rt'
+rt
+
+CL
+CD
+(tl
+^
+M4
+d
+NB1
+| 5S
+&gt;
+&lt;ls&gt; o!^
+S"
+&gt;
+^WW^5
+
+WO " SS •• «T
+
+^ïhM •• fi
+
+S" gö!!
+
+5s Is i
+8
+
+o
+WA DEN VERKIEZINGSSTORM
+Teekening voor 3ide Groene Amsterdammer" door L. J. Jordaati'
+Zij schreeuwden een kras
+
+Zij kalkten een plas
+
+En lieten den kiezer zooals hij was!
+
+</text>
+<image timestamp="2002:10:25:08:30:15.00" size="618336">D2009W7.TIF</image>
+</page>
+</document>

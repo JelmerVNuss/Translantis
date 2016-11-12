@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300208</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 8 FEBRUARI 1930
+No. 2749
+J* D. STRUIJS &amp; Zn.
+Prinsengracht 837 *~ Telefoon 37906
+BEGRAFENISSEN (naar VERNEIG met RIJIÜIGEN of AUTO'S)
+CREMATIE. - TRANSPORTEN.
+niiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiniiii
+G. J. DE KONING S ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+Warmwatervoorzieninfl.
+•«••^
+ClichécS
+f Voor alle doeleinden
+| NV
+l Otem.Kunstinrichting
+IDirkSchnabei
+Amsterdam. *
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+Reii
+raiaiaKeine
+Een nieuwe bonbon
+van„Droste" De vul
+
+ling zal U een aange
+
+name verrassing zijn.
+Ael toe,
+datgeTirosles
+krijgt-:
+Z^^awe^om.'
+H«t papier ten behoeve van dit
+w*rdt geleverd door de \
+blad
+firma
+C/* A f*f\&amp;\tf\/ A miCTCDn AAJI ROTTERDAM—GRONINGEN
+. VI. A. OUKVEY, AmoTEKUAIVl UTRECHT - ALMELO,
+EEN VROUW VAN SMAAK
+gaaf af op de advertenties in De Groene Amsterdammer.
+De adverteerder is de eerste die dat bemerkt, wanneer hij
+in De Groene adverteert.
+Dat dit geen grootspraak is, bewijzen de vele
+tevredenheidsbetuigingen, die De Groene Amsterdammer van zijn
+adverteerders ontvangt.
+ADVERTEERT IN DE GROENE"!
+HET HELPT
+Voornaamste Kleedininrichtin
+
+</text>
+<image timestamp="2002:09:21:01:06:21.00" size="87981">000007W6.TIF</image>
+</page>
+</document>

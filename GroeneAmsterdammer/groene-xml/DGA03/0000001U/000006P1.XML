@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280623</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 23 JUNI 1928
+No. 2664
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie -• Transporten
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H
+AMSTERDAM - Tel. 43662
+MARMERWERKEN
+BADKAMEKINRICIITINGEN
+toowel eenvoudige als betere uitvoering.
+G, J, DE KONING S ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+'Fijnste, dik, blank, frisch, franco huis,
+•postw. kistjes stevig verpakt 4 pd.
+l 3.60: 6 pd, f4.60: 8 pd. f5.60.
+Slierasp. 25% meer. Lengte steril. 75%
+juiste glasmaat.
+FIRMA ISIDORUS, Bergen op Zoom
+Tel. Interc. 119.
+"* PROF.
+JUNKERS
+Overal verkrijgbaar
+Adres voor den handel
+JOU.H.v.D.MEIDEN - Amersfoort
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteermg
+Goedkoopste Prijzen
+N.V. v/L Gebr. B RE E N
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+Abonneert U op
+De Groene Amster
+
+dammer, Weekblad
+voor Nederland
+BEGMFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+iiiimiiiiM
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ ooi
+N. R. V. MONTA SCHOENEN
+mimnmmmmmmmmmmmmmimuiiimmmmmimmnmimminmmmmm*
+ei ne geschenken
+onderhouden de vriendschap",
+zegt een spreekwoord. Steeds
+ondervindt men evenwel de
+moeilijkheid een klein ge
+
+schenk te koopen, dat volko
+
+men in den smaak valt.
+
+De firma DROSTE maakt het
+U gemakkelijk deze moeilijk
+
+heid op te lossen. In een sier
+
+lijke verpakking bevinden zich
+de voortreffelijke Droste
+Pastilles of Bonbons, die zich er
+uitnemend toe leenen, het
+zegel te drukken op een vriend
+
+schappelijke verhouding.
+
+DROSTE'S pastilles of bonbons
+vormen den band tusschen
+gever en ontvanger.
+l
+
+firoste MttydweKom"
+
+</text>
+<image timestamp="2002:09:04:20:04:28.00" size="132103">000006P1.TIF</image>
+</page>
+</document>

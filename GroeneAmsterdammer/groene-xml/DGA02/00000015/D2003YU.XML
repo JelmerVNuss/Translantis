@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241011</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+J. D. STRUIJS * Zu.
+[ Prinsengracht 887 F. O. Hoofhstraat 140
+VEL. 37900 TEL. 29990
+[Begrafenissen - Crematie - Transporten
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2469
+[GEMEENTE
+KANTOOR
+GIJ HEBT BELANG
+BIJ EENE
+GIRO-AANSLUITING
+zoowel voor U,
+voor Uw zaak, als
+voor Uw vereeniging. Gemakkelijk, voordeelig en
+veilig. Gratis formulieren, Geen provisie.
+Binnenen Buitenlandsche verbindingen. Giro ook auto
+
+matisch voor belastingen, huren, waterleiding,
+gas, enz. Giro-, tevens chequeboekje in zakformaat.
+Afzonderlijke kantoorgiroboekjes op aanvraag.
+20.OOO aangeslotenen.
+Saldo te goed der dag
+
+en jaarrekeningen
+25 MILJOEN guldens.
+RENTE 2&gt;/s en 4&gt;i pCt.
+Vraagt inlichtingen.
+BEURSGEBOUW
+Koldewey &amp; Corblère
+Laidschestraat 30, Amsterdam
+9pmoimlitmM lus
+•: SIUPUMERMEÜBELEII, MATRASSEN, DEKENS
+ZUIVER WOLLEN-,
+HALF WOLLEN-,
+KATOENEN-, TRICOT-,
+fRAMEH- EN
+NETON DERGOED E REN
+Fabrikaat W. JANSEN
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+DAMES!
+Laat uw wasch behandelen
+door de wasscherij
+l&lt;ünki",TiUiifutr.&amp;-24. Til. 23725
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B.NEIDIGdtCo.
+in haar goede samenstelling, aromaenkwa
+
+liteit, heeft Droste's Verpleegster Cacao
+zich in steeds meer gezinnen een vaste
+plaats veroverd. De statistiek van onze
+verkoopafdeeling wijst telkens weer een
+grooter aantal geregelde verbruikers aan.
+
+DROSTE'S
+CACAO
+als drank onovertroffen, is tevens de beste
+om er vele verrukkelijke gerechten mede
+klaar te maken. Zij, die ons receptenboek,
+voor niet minder dan 52 cacaospijzen
+ontvingen, zullen U dit gaarne bevestigen.
+
+Bij inzending dezer advertentie als drukwerk, met
+duidelijke adresvermelding op het couvert, zenden
+wij U alsnog per post gratis het receptenboek toe.
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+j P. C. Hooftttraat38, Amitird.B. Ttl.f.: 20841, 242601
+REGELING VAN BEGRAFENISSEN El
+CREMATIES VAN UIT ALLE PLAATSEN l
+EIGEN LIJKKOETSAUTOMOBIELEN
+Bestelt een flesch
+
+WED. JOHN GAY S PICCALILL1
+het mosterdzuur met de fijne pikante smaak. Bovendien is op elkeflesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N .V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+Kleedermakerij naar Maat
+voor Dames
+on Heeren
+H. K E M TV K R
+voorheen Coupeur dar Firma P, M. BROEKMANS, Koningsplein, Amsterdam.
+BILDERDIJKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+
+Sïn^irir.1! : : : : lll^ "°derne
+•ouffMantelcostuums van af	«5.—rlïlTia afwerking.
+Stalen op aanvraag.
+KLEIN en GROOT
+houdt van
+DEVENTER
+OMTBIJTKOEK
+VAff
+Dit heeft natuurlijk zijn reden. Door
+den fijnen smaak en zuivere samen
+
+stelling is deze voorkeur verklaard.
+Vraagt ze Uw winkelier.
+ANNO
+093
+KOEK.
+POLLEN's Oude Genem
+Fijne Likeuren en Punch
+m. P. POLLEN A ZOOH - Rotterdam
+B. J. MULDERS
+TÜOAKCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:19:10:55.00" size="166389">D2003YU.TIF</image>
+</page>
+</document>

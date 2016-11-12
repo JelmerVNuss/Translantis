@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040501</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De onbewegelijke brug te Velsen.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van l Mei 1904.
+Amst. Boek- en Steendrukkerii. v/h. Ellerman, Harms &amp; Co.
+DE NED. MAAGD (tot Minister de Marez Oyens): Waar spoedt gij U heen, Excellentie ?
+MINISTER DE MAREZ OYENS: Naar die brug daar, Mevrouw! 15 maanden nadat zij gereed moest zijn, en 5 maanden nadat zij gereed
+is, bestaat er nog niet het geringste uitzicht op de noodige beweegkracht. . . Ik zal nu zelf de hand aan het werk slaan. . .
+Houd me niet op l ... 't geldt hier het welzijn van een havenstad; zij kan niet wachten . . . geen dag en geen nacht.
+NED. MAAGD : Zorg toch dat U geen ongeluk krijgt! Overijl U niet. . .
+
+</text>
+<image timestamp="2002:08:15:03:24:50.00" size="384429">D10000C5.TIF</image>
+</page>
+</document>

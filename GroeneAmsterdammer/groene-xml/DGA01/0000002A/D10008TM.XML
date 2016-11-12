@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18921127</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Ferdinand de Lesseps en de Panama-zaak.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 27 November 1891,
+
+Amsi. Boek- en Sleendrukkerij, v/h. Ellerman, Harms &amp; Co.
+.SW&lt;w. Niemand prijze zich gelukkig vóór iijn dood !
+J///;c tier geschiedenis: Maar //// heeft genoeg voor de onsterfelijkheid gedaan
+
+</text>
+<image timestamp="2002:10:02:09:04:11.00" size="211006">D10008TM.TIF</image>
+</page>
+</document>

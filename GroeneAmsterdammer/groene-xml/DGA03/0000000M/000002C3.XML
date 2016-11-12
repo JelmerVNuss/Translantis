@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840420</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"HlflfEi ft! A'Itill! "Wl 'E KB L Af) Y O O R N E BE RL A N B.
+Nd. 356
+
+ƒ1.25
+
+
+'„1.50
+
+0.60
+
+0.80
+
+
+3.
+
+2.
+n 0.50
+Séhora's Familieriblatt No. 15.
+Eén Gottesurteil TOB Ju. TPerwer; Historische anecdoten; Die
+.- Hemn van G«dö(Ballade aas dem Ung.); Waa int gesundes
+Trink«Tuwr? von 1, Moeller; Wie lebt man auf einer Afrikareise ? von
+Max. Buchner; Brayo rechts TOB Ossip Schubin; Die Kunst ira
+Handwerk; n.s.w.
+
+Eibliothique wivemlk et Revue suise. April,
+Qu'ert-ce que la philosophie? par Ern. Naville; [Le père Fehx
+' par T, Combe; L'Amerique du Snd depuis Panama jusqu'aucap Horn
+par V&gt; Floriant (dem. part.) Questions ouvrières par Afvède Sarine
+(dern. part); Madame d'Epinay a Genève 1757—59 par L. Perey et
+0, Maugros (dem part.); Un paya perdu: excursion au Spreewald
+par ff. van der Muyden; Variété»: A propos d'une collection
+d'autofraphea par PA. Qodet etc.
+
+Nieuwste uitgaven in Nederland:
+Be .i Boers, De tramwegen in Nederland ",'.'."•'&gt;
+M. B. G. Hogerwaard, De verdediging in Zeeland sedert 1860.
+Niet in den handel.
+Gnstaaf van Loon, Uit den vreemde '.:.'."..
+B. van Velzen, Verdediging en toelichting van eene zinsnede uit
+Artikel 36 der Nederlandsche Geloofsbelijdenis ....
+li, Wagenaar, De Talmud en de oudste geschiedenis van het
+Christendom .
+D». P. J. Blok, Eene Hollandsche stad onder de
+BourgondischOostenrjjksche heerschappij
+P. 15. Daniels, Un cao de Leontiasis ossea (Craniosclerosis) ohserv
+«t décrit
+Mr. Henri Viótta, Lexicon der toonkunst, met medewerking van
+vele voorname toonkunstenaren . , ' * . Per afl.
+Nieuwste uitgaven in Franftrffi.
+Kohn-Abcast, A propos des mémoires de Henri Heine
+G. de Maupassant, Au soleil ..&gt;&gt;••!
+&gt; C. Deba&amp;s, Cabanelle , ! . ', . 'i
+' Jauffret de Rambet, Christine 2 S \ l p
+Felor O'Sqnare, Chrétienne l l .
+Ernest Dótré, La comtesse Lnciene J . . &lt;
+G. d'Arcnssia, La conférence des Fanconniers . S
+Albert Batailje, La conquète de Lucy . , ', 'i
+A. Paer, Contes a Zola	l
+La Foniaine Champmeslé, La coupe enchantée | '
+V. Joly, Crre de Bleu	l \
+Baron de Nervo, La duchesse de Puerto Beal \ &gt;
+Bret Harte, Flip	, ,
+A. Lapointe, Feu Bobert Bey . . . . &lt;
+Lermontoff, Un héros de notre temps i ', , l
+G. Bodenbach, L'hiver mondain i ', • • *
+G. Schlumberger, Les Des des Princes j ; .' . .
+E. Benjamin, L'impure . . J • » . f
+M. Talmeyer, Madame Alphonse , . 3 .
+Edmond Bazire, Manet J ? i 8 »
+A. Pinard, Madame X . . ! ? 8 &amp;
+M. Uchard, Hademoiselle Blaisot .'.....
+Ch. Merouvel, Mademoiselle Jeane ......
+Mémoires du baron Vitrolles; Mémoires au marquis de la Farre
+La C'"' Marie, Monsieur Ie Cur
+A. Carcassonne, NouveDes pièces a dire . . . &lt; t
+G. de Villeneuve, Portefeuille de Mad. Dupin •
+G. Duval, Le qnartier Pigalle ......
+G. Fabre, Le roi Ramire ..•.•«&lt;
+Zénaide Fleuriot, La Rnstaude l . ',
+AndréTheuriet, Tante Aurélie ;.!!..
+Pierre Loti, Les trois dames de la Kasbah .',,',
+Johan Valter, Les Tuileries . ..;.?,
+Olympe Andouard, A travers mes souvenir! ,','',
+G. Koha, Voyage autour dn monde • l \ \ l
+
+Nkuwste uitgaven in Engeland.
+B. W. Churoh, Bacon (English Men of letters) ! J !
+L. Bousaenard, The goldseekers . . . i 3 I
+B. Bachanan, God and the man (new ed.) .",11
+H. Cockton, Stanley Thora ......?
+Mrs. J. Harcourt, A friend in ten thonsand. " S &lt;
+M. James, Anne Dynevor . *, » l
+G. P. Lattrop, Newport	. i
+E. Lawrence, Principles of the Common wealth . . ,
+Lords an Ladies bij Author of queen of the Counfy. ;
+G. L, Loved, a novel ....... i
+E. Lyall, We two, a novel i 3 l i l
+J. Midnlemass, Dandy, a novel l l l l
+L. B. St John, The daughter of the Sa, J i l l
+H. D. Thoreau, Walden	11}
+Tip-Cat, by the anthor of Miss Tooasey's misaion. i «
+Wordworth's, Birthdaybook	', .
+W. T. Webb, Indian lyrics	i
+2.6
+7.6
+2
+2
+21
+2
+5
+7.6
+2
+10.6
+31.6
+2
+2
+6
+5
+2
+7.6
+WACHTDIENST.
+Wanneer mon in de verschillende garnizoenen aandachtig nagaat, op
+Welke sterkte de verschillende korpsen uitrukken tot het houden hunner
+frs,
+M
+D
+r
+!&gt;
+n
+*
+B
+IJ
+n
+»
+»
+j)
+»
+n
+n
+B
+»
+»
+n
+n
+»
+n
+»
+M
+»
+B
+n
+n
+B
+9)
+»
+»
+n
+0
+1.
+3.50
+3.50
+2
+3.50
+3.50
+U.
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.50
+3.
+10.
+3.50
+3.50
+3.
+3.50
+2
+3.50
+7.50
+3.50
+3.50
+4.
+3.50
+5.
+3.50
+3.50
+3.50
+oefeningen, en die sterkte vergelijkt met het aantal onder de wapenen
+zijnde manschappen, dan zal men bemerken, dat de eerste de presente
+«terkte veel minder bedraagt dan de laatste de effectieve sterkte.
+Bij een onderzoek naar de oorzaken van dit groote verschil blijkt, dat
+behalve van corveeën en tal van bijzondere diensten, van welke laatste
+onzes inziens vele gelijk staan met vrijstellingen, de vermindering van
+het aantal aan de oefening deelnemenden hoofdzakelijk het gevolg ia
+van de verschillende wachtdiensten, welke door den troep moeten worden
+verricht.
+Met recht kan men dus zeggen, dat de dienst der verschillende wachten,
+welke bezet moeten worden, zeer nadeelig inwerkt op den geregelden
+gang der oefeningen en zulks te meer bij een leger als het onze, waarbij
+de sterkte dor korpsen zóó gering en de diensttijd der militie zóó
+kort is.
+Vooral met het oog op de omstandigheid, dat ons leger bijna geheel
+uit militie is samengesteld, is het derhalve zaak den wachtdienst tot een
+minimum te beperken, opdat zooveel mogelijk tijd beschikbaar blöve voor
+het doorloopen der verschillende oefeningen, welke den militieplichtige
+voor zijne tuak in oorlogstijd moeten voorbereiden.
+Wordt de wachtdienst stipt waargenomen, dan is hij zonder twijfel
+eene uitstekende oefening, om onze soldaten te leeren waakzaam te zijn,
+en daar juist voor ons land, met zijne lange verdedigingsliniën, het op
+een of meer punten verrassend doorbreken de nadeeligste gevolgen na
+zich zoude kunnen slepen, zoo kan niet genoeg de aandacht op de be
+
+hoorlijke uitoefening van dezen dienst worden gevestigd en aan onze
+soldaten worden voorgehouden, dat waakzaamheid in de allereerste
+plaats moet worden betracht en deze een der voornaamste middelen is
+waarmede de verdediging met eenigen kans op gunstigen uitslag is t
+voeren.
+Hoe nuttig ook de wachtdienst op zich zelven moge zijn, is echter niet
+elke dergelijke dienst even leerzaam. Alleen die dienst is de leerrgkste
+te achten, welke het meeste overeenkomt met dien, welke in oorlogstijd
+zal moeten wordon verricht, en daartoe is voorzeker de garnizoensdienst
+te rekenen. Men denke slechts aan den wachtdienst in eene vesting in
+staat van oorlog of van beleg en in een kantonnement in 's vijands
+nabijheid.
+Raadpleegt men nu het Reglement voor den Garnizoensdienst" en het
+Voorschrift op den Velddicnst", dan ziet men, dat in elke plaats, waar
+troepen gelegerd zijn, ne wacht moet worden verstrekt tot handhaving
+van de inwendige rust en de goede orde en dat verder de poorten en
+toegangen eveneens door wachten moeten worden bewaakt, waarvan de
+sterkte wordt geregeld in overeenstemming met de meerdere ot mindere
+kans aan overvalling, waaraan de vesting of het kantonnement is bloot
+
+gesteld. Zoo kan in een klein kantounement somtijds worden volstaan
+met aan de uitgangen diMelposten 2 schildwachten te plaatsen,
+die alsdan worden gegeven door de eerstgenoemde wacht politiewacltt
+geheeten welke in het midden van het kantonnement in een daartoe
+geschikt gebouw wordt opgesteld.
+In tijden van di pe rast en vrede kunnen natuurlijk ook die posten
+vervallen, en daar alsdan het onderwijs der troepen op den voorgrond
+moet staan, zoo is in Art. 22 der Instructie voor de Plaatse
+
+lijke Commandanten en Plaats-Majoors" bepaald, dat er geen meerdere
+wachten gegeven zullen worden dan volstrekt noodig is tot handhaving
+der politie en tot, bewaring van 's lands goederen en van de poorten
+en toegangen, van welke laatste ingevolge de Ministerieele aanschrij
+
+ving van 19 November 1860, No. 48 B. (B. U. blz. 847) in den regel
+alleen die poorten met wachten bezet behooren te worden, in welker onmid
+
+dellijke nabijheid kruitmagazijnen, arsenalen en andere gebouwen of
+Rijkseigendommen worden aangetroffen, welke bewaakt moeten worden.
+Verder is in Art. 30 en 31 van het Reglement voor den
+garnizoensdienst" voorgeschreven, dat in tijd van vrede de sterkte der wachten
+bepaald moet worden volgens het effectieve getal dienstdoende manschap.
+pen en naar gelang van het aantal schildwachten, die volstrekt vereischt
+zijn voor de rust, goede orde en veiligheid der plaats, en de dienst
+deikorpsen zoodanig in evenredigheid hunner sterkte moet worden gereild
+dat de onderscheidene wachten zooveel mogelijk uit officieren, onderoffi
+
+cieren en soldaten van hetzelfde korps of bataljon bestaan en elke soldaat
+ten minste drie nachten rust heeft.
+Blijkt alzoo uit het bovenstaande, hoezeer alles moet worden aangewend
+om het garnizoen zoo min mogelijk met wachtdienst te belasten dezelfde'
+leidende gedachte behoort onzes inziens ook voor te zitten bij de'regelinff
+van alle andere wachtdiensten, en dit nu heeft niet altijd plaats
+Zoo bijv. komt het ons voor, dat de sterkte der liatsernewachten gevoe.
+gelijk verminderd zoude kunnen worden tot n onderofficier n korro
+raal, n hoornblazer of trompetter en n soldaat (ordonnans) Wii zip "
+namelijk het nut niet in van den post voor 't geweer vóór de kazerne en
+de andere posten, welke aan de verschillende uitgangen der kazerne ia
+zelfs op de binnenplaats daarvan, zijn geplaatst, en aldus aan het tehuk"
+onzer landsverdedigers het uiterlijk van, eene gevangenis" geven Het toe
+zicht op de tenue, enz. kan - naar onze meening - zeer voldoende toever".
+trouwd geacht worden aan bovengenoemden onderofficier, die alzoo als vertier
+optreedt. Bovendien zijn de troepen van het garnizoen buiten de kazerne aan
+het onmiddellijke gezag van den Plaatselijken Commandant onderworp
+Art. 11 zijner Instructie), zoodat deze voldoende maatregelen kan nemen om
+degenen, die niet behoorlijk gekleed of zonder schriiteaike verjrunni™
+in de stad worden aangetroffen, te doen aanhouden en of aan de g-ar
+zoenswacht de IwofdicacJit in arrest te stellen óf naar de kazern»
+te doen brengen. Voor ons geeft het groote aantal posten bij eene ka
+ztrne geen hoogen dunk van de militaire waarde van het korps dat daarin
+gehuisvest is, daar wj voornamelijk het gevolg moeten zijn van veelvul
+oige overtredingen tegen de krijgstucht, zoodat het ook van dit stand-"
+punt beschouwd wenschelijk is dezen wachtdienst tot een minimum t«
+reduceeren. to
+Eveneens zouden verscheidene posten kunnen vervallen, iadiea de
+geld
+</text>
+<image timestamp="2002:08:17:13:13:15.00" size="252036">000002C3.TIF</image>
+</page>
+</document>

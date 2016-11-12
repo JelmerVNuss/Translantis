@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19090228</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een partij, die bij de pinken is.
+B][VO1:'GSKL. van De Amsterdammer, Weekblad voor Nederland, van 28 Februari ioo&lt;).
+Zijn er geen verkiezingen aanstaande?
+!
+r "t?
+Mc, daar i^ zckcT \vat bixonclcrs aan de hand, dat: i r ai
+
+.Mensch, dat Volk slaapt alleen wat lam.; .'
+
+</text>
+<image timestamp="2002:08:15:19:28:09.00" size="387143">000001SQ.TIF</image>
+</page>
+</document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18930305</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 5 Maart 1893.
+De ministerieele (w)etworst-molen.
+"&gt;•* **- *'
+Mr. VAN HOUTEN: Op die manier zul je toch wel aan de navraag kunnen voldoen, baas!'1
+
+Mr. DE KANTEU: Ja, meneer, u weet niet hoe vlug het den baas afgaat. Je zoudt er onvoorwaardelijk
+ministerieel van worden".
+Amst. P.ock- en Htecndrukkerij, v/h. PJllonnan, Hiirms &amp; Co.
+
+
+</text>
+<image timestamp="2002:08:21:11:02:46.00" size="539620">D100027L.TIF</image>
+</page>
+</document>

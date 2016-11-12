@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271001</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AANNEMING VAN HET VOORSTEL BÖ0LAERTS
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van l October 1927
+Nadruk verboden
+faut. Boek- on Stccoér. TJli. EUenuo. Hmu 6 Co
+Miriam (}hr. Beelaerts van Blokland): Ontferm U gerust bver 't kind, het is van goede huize.
+
+</text>
+<image timestamp="2002:09:21:20:59:42.00" size="194473">D10006VW.TIF</image>
+</page>
+</document>

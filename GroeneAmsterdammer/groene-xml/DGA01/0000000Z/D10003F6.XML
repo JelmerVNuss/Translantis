@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19201030</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+JS°.
+Zaterdag 30 October
+A°. 1990
+DE
+AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN K A MP
+Redacteuren: Prof. Dr. H. BRUGMANS, Mr. E. S. OROBIO DE CASTRO Jr., Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL en H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+Prijs per No. f 0.25. Per half jaar f6.25. Abnnn. loopen per jaar
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Advertentiën f 0.75 per regel plus 10 cent dispositiekosten
+INHOUD : Blz. l: De Burgermester van
+Cork, door Prof. Dr. O. W. Kernkamp.
+Tijdgenooten : Erzberger,. I, door Dr. O. W.
+C. Byvanck. Duurtebestrijding, door G.
+W. de C!ercq. 2. De Get»eentebegrooting
+van Amsterdam, door Dr. J. A. Schroëder.
+Twee Maatschappij-Hervormers, door Mr. N.
+Muller. Buitenlandsch Overzicht, door
+Prof. Mr. J. C. vzn Oven. Krekelzang,
+door J. H. Speenhoff. 3. Weeldebelasting,
+door Ds. F. W. Drijver. Het Roode
+Lampje, door Dr. Fred. van Eeden. 5.
+Voor Vrouwen (red. Eiis. M. Rogge) Zuster
+H. J. ter Meulen, door L. deBussy-Kruysse.
+Vrouwen in Noord-Amerika, door Dr. M. A.
+van Herwerden.—De Geheimzinnige stokjes,
+door E. C. v. d. M. Uit de Natuur: Van
+de nieuwe Jachtwet, door Jac. P. Thijsse.
+7. Muziek in de Hoofdstad: Concertgebouw,
+door H. J. den Hertog.
+Schilderkunstkroniek, door A. Plasschaert. Veiling Fred.
+Muller, door H. Liedereu uit het Boek
+der Liefde, door Renéde Clercq. Mucius
+Scaerola en de .burgemeester van Cork,
+teekeningvan George van Raemdonck. Dram.
+Kroniek: Felix Salten, door Top Naeff.
+9. In de Bergen, door Dr. N. F. Singels.
+Spreekzaal: De Nobelprijs vcor Letterkundi
+
+gen, door G. van Hulzen. John Bull's
+Zorgen, teekening van Jordaan. 10.
+Bretonsche Reisbrieven, door Prof. Dr. Z. W.
+Sneller. Financiën en Economie: Vrijhan
+
+del, Vrede, Vriendschap, foor Jhr. Mr. H.
+Smissaert. Boekbespreking, door J. D.
+Santilhano. Med. Kroniek: Rijksinstituut
+voor Pharmaco-Therapeutisch onderzoek,door
+Prof. Dr. W. Storm van Leeuwen. 12.
+Ruize-Rijm van Charivarius.—Charivaria.
+Dingen, die gebeuren, door Aorta. Uit het
+Kladschrift van Jantje. Feuillefon: De
+late Kans, door Karel Wasch. 13. Het
+Communistisch Congres te Rotterdam, tee
+
+kening van Joh. Braakensiek.—TJnze Puzzle.
+Hofstaden Hofstedelingen.door Nuchterling
+Het Zwaard en de Pen, door Melis Stoke,
+met teekeningen van S. L. Schwarz.
+Bijvoegsel: De Hoofdelijke Omslag voor den
+Volkenbond, leekening van Joh. Braakensiek.
+DE BURGEMEESTER VAN CORK
+John Bul! beleeft zorgelijke dagen.
+In het vorige jaar had Punch een plaat,
+die hem afbeeldde, in een gemakkelijken
+stoel gezeten, op h?t punt om in te
+sluimeren : hij had zich in den oorlog
+zoo moeten uitsloven en kon zich nu
+de weelde van een middagdutje wel
+veroorloven. Maar het lukte hem niet
+onder zeil te gaan ; een groote bromvlieg
+zoemde om hem heen en kwam op zijn
+neus zitten: dat was de lersche quaestie.
+Sedert heeft John Buil zelfs geen
+poging gedaan om zich wat meer rust
+te gunnen dan de strikt noodzakelijke.
+De eene moeilijkheid volgde op de
+andere. Hij kreeg zijn deel van de
+zorgen, die de vrede voor alle overwin
+
+naars medebracht, maar werd ook ge
+
+kweld door andere, die hij zijn privaat
+eigendom mocht noemen. In
+ZuidAfrika, Egypte en Voor-Indiëbegon
+het te rommelen ; en toen het leek of
+de bui daar niet zou doorzetten, betrok
+in Engeland zelf de lucht : spoorweg
+
+staking, nu weer de mijnwerkerssta
+
+king, bovendien de schrikbarend toe
+
+nemende werkloosheid.
+HiiiiiiiimiiiiiiiiiiiiiimiimiMiii	iiiiiiiniiiiimiiiiiiiiiiiiiiimiimiiiiiiHi
+En ondertusschen heeft een andere
+staking het bewijs geleverd, op welk
+een fanatiek verzet Engeland zal stui
+
+ten, als het de beweging der Sinn Feiners
+met geweld wil onderdrukken.
+Om de hongerstaking een zonder
+
+ling woord voor het staken, niet van het
+hongeren, maar van het eten ! van
+den burgemeester van Cork hebben
+we een tijdlang gelachen.
+We maakten er grapjes over, om ons
+toch vooral niet te laten beetnemen
+door Mc. Swiney; we verdachten hem
+ervan, dat hij in het geheim toch voed
+
+sel tot zich nam ; en wie den man niet
+voor een bedrieger hielden, veronder
+
+stelden dat de gevangenisdokter hem
+kunstmatig voedde, zoodat zijn leven
+toch geen gevaar liep.
+Maar de laatste week heeft bewezen,
+dat het geval bittere ernst was ; Mc.
+Swiney moge dan in de 74 dagen van
+zijn gevangenschap niet geheel zonder
+voedsel zijn gebleven, hij is toch be
+
+zweken ten gevolge van ondervoeding
+en heeft zelf zijn dood veroorzaakt.
+Het waren politieke motieven, die
+hem tot dit besluit hebben gebracht.
+Men heeft zijne hongerstaking een
+protest genoemd tegen de straf van
+twee jaren hechtenis, waartoe hij was
+veroordeeld wegens het bevorderen
+van de doeleinden van Sinn Fein ; hij
+loochende niet de feiten, die hem ten
+laste waren gelegd, maar betwistte het
+moreele recht van de Engelsche re
+
+geering om hem daarvoor te straffen ;
+niet Sinn Fein was schuldig, maar zij,
+de regeering die het lersche volk ge
+
+knecht hield ; zoolang zij bleef weigeren,
+dat volk in vrijheid over zijn eigen lot
+te laten beslissen, was verzet tegen haar
+een heilige plicht.
+Maar de burgemeester van Cork had
+kunnen 'protesteeren zonder zijn leven
+te offeren ; nog andere motieven moeten
+hem tot zijne daad hebben aangezet.
+Voordat hij zijn hongerstaking begon,
+zal hij zich er rekenschap van hebben
+gegeven, dat de Engelsche regeering
+voor de keus werd gesteld : óf hem in
+vrijheid te stellen, zoodra het bleek
+dat zijne weigering om zich te laten
+voeden het onmogelijk zou maken, hem
+in het leven te houden, óf hem te laten
+verhongeren.
+In beide gevallen zou de zaak, die
+hij voorstond, daarmede gediend zijn.
+In het eerste geval zou het voortaan
+aan de Engelsche regeering onmogelijk
+worden gemaakt, rebellie te bestraffen.
+Alle Sinn Feiners, die tot gevangenis
+
+straf werden veroordeeld, zouden het
+voorbeeld van Mc. Swiney slechts be
+
+hoeven te volgen ; de redenen, die tot
+zijne invrijheidstelling geleid hadden,
+zouden ook voor hen gelden ; de re
+
+geering zou machteloos staan tegenover
+dit lijdelijk verzet en dus ook tegenover
+Sinn Fein.
+Indien zij echter besloot om hem zijn
+hongerstaking te doen volbrengen tot
+het bittere einde, ook dan zou hij de
+zaak van Sinn Fein hebben gediend.
+Het bloed der martelaren zou het zaad
+ook van deze Kerk blijken te zijn ;
+het lersche volk zou hem het marte
+
+laarschap niet ontzeggen omdat hij
+dit zelf had gezocht; het zou
+heivropnemcn in de rij der helden, die hun leven
+voor Ierland hadden geofferd en door
+zijn voorbeeld worden aangezet tot
+volharden.
+Ook met de mogelijkheid, dat zijn
+besluit hem het leven zou kosten,
+moet Mc. Swiney rekening hebben ge
+
+houden. Die mogelijkheid moet zeker
+
+heid voor hem zijn geworden, nog voor
+
+dat lichaamszwakte zijn geestvermo
+
+gens aantastte ; met volle bewustzijn
+heeft hij zich ten dood gewijd.
+Tegenover iemand, zoo vast van
+overtuiging, dat hij er zijn leven voor
+veil heeft, past eerbiedig stilzwijgen
+ook van hen, die deze overtuiging niet
+deelen.
+Wat doet hat er toe, of gij en ik het
+ervoor houden, dat het doel, waarnaar
+Sinn Fein streeft : volkomen scheiding
+tusschen Engeland en Ierland, niet in
+het belang is ook van dit laatste land?
+Wat doet het er toe, of wij de midde
+
+len veroordeelen, c'ie Sinn Fein ge
+
+bruikt? Of wij sluipmoord sluipmoord
+noemen, ook al wordt hij gepleegd,
+niet uit persoonlijken wrok of
+roofzucht, maar in dienst van een ideëel doel?
+Wat doet het er ten slotte zelfs toe,
+of wij van meening mochten zijn, dat
+de Engelsche regeering, van haar stand
+
+punt, niet anders heeft mogen handelen
+dan zij deed? of wij voor hare houding
+tegenover den burgemeester van Cork
+hooger motieven weten dan die, welke
+b.v. in het buitenlandsch overzicht
+van Het Volk worden genoemd, waar
+men kan lezen: het is aan de vijanden
+van de lersche nationalisten en re
+
+publikeinen thans volmaakt onver
+
+schillig, hoe dezen aan hun eind
+komen."
+Niet voor de zaak, die Mc. Swiney
+voorstond, vraag ik uwc bewondering ;
+maar voor de toewijding, waarmede hij
+haar diende.
+En dit is het, waarom wij hem moeten
+benijden : dat hij een overtuiging
+bezat, zoo krachtig, dat hij alles, zelfs
+zijn leven gering achtte, indien Ir.11
+offer ervan de zegepraal kon helpen
+bevorceren van wat hij voor recht
+
+vaardig hield.
+KERNRAMP
+Verbetering.
+In het minimer van 16 October LI.
+schreef ik, dat van de candidaten, die
+zich aanmelden voor het examen voor
+de middelbare acte, geen enkel bewijs
+van algemeene ontwikkeling wordt
+gevorderd, maar dat Minister de Visser
+een wetswijziging voorbereidde, waarbij
+zulk een eisch zou worden gesteld.
+Het is mij gebleken, dat dit slechts
+ten deele juist is.
+Inderdaad wordt ook thans van hen,
+die het bedoelde examen afleggen,
+geen bewijs van algemeene ontwikke
+
+ling gevraagd en kan men nog altijd
+de bevoegdheid verkrijgen om in een
+bepaald vak middelbaar onderwijs te
+geven, zonder dat men b.v. behoorlijke
+kennis van moderne talen heeft.
+Maar op een wetswijziging, om hierin
+verandering te brengen, behoeft niet
+meer te worden gewacht.
+In de gewijzigde wet op het M.O.,
+die op l September 1.1 van kracht is
+geworden, leest men in art. 23 :
+Bevoegd tot het afleggen van deze
+examens zijn alleen zij, die bewijzen
+hebben geleverd van voldoende alge
+
+meene ontwikkeling als voorbereiding
+voor de beoefening der vakken, waar
+
+voor zij examen wenschen af te leggen."
+De algemeene ontwikkeling moet
+blijken uit overgelegde getuigschriften
+of akten van bekwaamheid. De aard
+dezer bescheiden wordt bij algemeenen
+maatregel van bestuur vastgesteld."
+(Die algemeene maatregel van be
+
+stuur zal dan tevens voorschriften
+bevatten over de wijze, waarop, zij,
+die de bedoelde getuigschriften of
+akten niet hebben, bewijzen kunnen
+leveren van voldoende algemeene ont
+
+wikkeling.)
+De wetswijziging, waarop ik aan
+
+drong, is dus reeds aangebracht
+maar zij heeft voorloopig nog geen ef
+
+fect !
+Immers, bij het in werking treden der
+gewijzigde wet op l September 1.1.
+'heeft de Minister gebruik gemaakt van
+de hem in art. 29 dier wet verleende
+bevoegdheid om niet alle artikelen der
+wet tegelijk in werking te doen treden.
+Krachtens deze bevoegdheid heeft
+de Minister het art. 23, dat ik hierboven
+aanhaalde, voorloopig buiten werking
+gesteld vermoedelijk om het reeds
+bestaande tekort aan leeraren nog niet
+grooter te maken, door hooger eischeu
+te stellen aan hen, die een middelbare
+acte wenschen te behalen.
+K.
+iiiiiiiiHiliiiiimiimiiiimnimiMMMM' iiiiMi:itiiiiiiiiiiiiiiiiii
+
+DUURTEBESTRIJDING
+
+Blijkens ecu communiqué, dat nopens een
+audiëntie, welke de minister van landbouw
+aan de permanente commissie inzake
+crisisaangelegenhcden uit de katholieke en
+christetelijke werklieden en vakbonden verleende,
+in de dagbladen is verschenen, heeft
+de minister de verrassende mededecling
+gedaan, dat hij ernstige plannen koestert
+voor het opnieuw in het leven roepen van
+een duurtewet. Gezien de urgentie van een
+deugdelijke duurtebestrijding, die voor een
+zoo spoedig mogelijk herstel van de koopkracht
+en dns van het geh'eele economische leven
+dringend noodzakelijk is, zal deze volharding
+van den minister, om reeds zoo kort na den
+val van het eerste met een nieuw ontwerp te
+komen, alleszins toegejuicht worden. Want,
+hoewel thans omtrent den opzet van de nieuwe
+wijze van duurtebestrijding niets bekend is,
+mag toch verondersteld worden, dat deze meer
+succesvol zal zijn dan het eerste ontwerp,
+dat wegens zijn onuitvoerbaarheid in de prak
+
+tijk bij de behandeling in de Tweede Kamer
+op zoo droevige wijze schipbreuk heeft ge
+
+leden. En niet ten onrechte. Uit de critiek,
+die er van alle zijden op is uitgeoefend, bleek
+ten duidelijkste, dat de Tweede Kamer met
+het ketsen van dit ontwerp jeheel in den geesr.
+van ons volk heeft gehandeld. Niemand, die
+ook maar eenigszins op de hoogte was van de
+werkelijke oorzaak der duurte, kon van dit
+ontwerp eenig heil verwachten. Immers, het
+erin vervatte, zoo ingewikkelde systeem van
+centalen duurteraad, duurtecommissics en
+subcommissies richtte zich in hoofdzaakjtegen
+een buitensporige prijsopdrijving door fabri
+
+kanten en winkeliers. En hoewel ,, Jan Pu
+
+bliek" in den beginne wel fabrikanten en
+winkeliers door de woekerwinsten, welke zjj
+op hunne artikelen zouden maken, voor de
+hoofdoorzaak der duurte aanzag, is heden ten
+dage de werkelijke oordaak der duurte, n.l.
+het sterk verhoogde prijsniveau over de
+geheele linie, algemeen bekend en aanvaard.
+De duurte begint alreeds bij de grondstof
+
+fen, die de fabrikant tegen veel hooger prijs
+moet koopen, en tijdens de verwerking van
+de grondstoffen tot gereed product worden de
+kosten van het fabrikaat abnormaal verhoogd
+doordat de benoodigde brandstoffen, gereed
+
+schappen en arbeidskrachten alle evenredig
+in prijs zijn toegenomen, terwijl ten slotte
+bij de expeditie van het product hierop veel
+hoogere transportkosten, ook weer een gevolg
+van dure kolen en arbeidskrachten, drukken.
+Tevens moet men hierbij in het oog houden,
+dat de invloed van de prijsstijging van eeii
+bepaald artikel meestal verder strekkende
+gevolgen heeft, dan men op het eerste ge
+
+zicht zou veronderstellen. Zoo zal b. v. wan
+
+neer een oliefabriek hare prijs verhoogt hier
+
+door tevens het product van een chemische
+fabriek, die olie noodig heeft voor het smeren
+der machines, duurder worden.
+Inderdaad hebben de talrijke enquêtes, die
+hieromtrent zijn ingesteld, dan ook geleerd,
+dat er maar heel weinig fabrikanten en win
+
+keliers zijn, die er iich op kunnen beroemen,
+dat ook hunne winst in gelijke mate met het
+verhoogde prijsniveau is toegenomen. Inte
+
+gendeel, de verminderde koopkracht heeft
+het afzetgebied dermate verkleind, dat tal
+van bedrijven niet dan met de grootste moeite
+nog loonend voortgezet kunnen worden. En
+dit laatste is in nog erger mate het geval met
+de exportindustrie, die door den lagen stand
+der valuta ook het buitenland als afzetge
+
+bied verloren heeft.
+Zoo beschouwd toont deze analyse ook de
+beide wegen, die tot een prijsverlaging leiden,
+t. w. doordat de grondstoffen, energie, ge
+
+reedschappen en arbeidskrachten in prijs
+dalen of doordat de fabrikanten erin slagen
+om per fabricage-eenheid minder grond
+
+stoffen, energie, gereedschappen en arbeids
+
+krachten te gebruiken-dan tot nu toe is ge
+
+schied. Dezen laatsten weg noemt men de be
+
+trachting eener maximale bedrijfszuinigheid.
+Wil men. dus van hoogerhand door middel
+van een wet op deze in den bekenden
+vicieusen cirkel gerangschikte oorzaken der abnor
+
+maal hooge prijsconstellatie eenigen invloed
+uitoefenen, dan zal men een der beide hier
+
+boven opgegeven wegen moeten volgen.
+De verlaging van de prijzen der grond
+
+stoffen, energie, gereedschappen en arbeids
+
+krachten kan maar ten deele geforceerd wor
+
+den. De grondstoffen en gereedschappen toch
+worden voor het meerendeel uit het buiten
+
+land betrokken. De arbeidsloonen kunnen niet
+omlaag gejaagd worden zoolang de prijzen
+van alle verbruiksartikelen abnormaal hoog
+zijn. Wel kan men hiertegenover van hooger
+
+hand invloed uitoefenen op den prijs van de
+gebezigde energie, die in den vorm van stoom,
+electriciteit, gas of derg. aan de brand
+
+stoffen wordt ontleend. Nog steeds impor
+
+teert ons land tegen abnormaal hoogcn prijs
+zeer belangrijke kwanta brandstoffen (ca. 2 a
+3 millioen ton per jaar) uit het buitenland en
+de hiervoor betaalde prijs is zoo hoog, dat
+men om dezen eenigszins te nivelleeren, d.w.z.
+te reduceeren tot den wereldbrandstofprijs,
+genoodzaakt is de in het binnenland gewon
+
+nen brandstoffen zeer duur te verkoopen.
+Hot gevolg hiervan is, dat de gemiddelde
+ERZBERGER
+i
+Het is maar over wat hij heeft gezien en
+beleefd in den grooten oorlog dat Mathias
+Erzberger het thans heeft.
+Erlebnisse im Welikrieg noemt hij zijn on
+
+langs gepubliceerde memoires.
+Wat zou het een lust zijn, om in de gedenk
+
+schriften van zijn geheele leven te kunnen bla
+
+deren en de loopbaan te kunnen volgen van
+dien armen Wurtembergschen jongen die,
+voor schoolmeester opgeleid en schoolmeester
+geworden, de wondervolste, afwisselingrijkste
+carrière heeft gemaakt, ooit een sterveling
+beschoren !
+
+Nu, in dit gedeeltelijk verhaal van zijn leven,
+krijgen wij alleen enkele gevallen van zijn leven,
+achtereenvolgens opgenoemd en afzonderlijk
+behandeld.
+Het is alsof iemand met een rijken schat van
+ervaring, terwijl hij zijn album opneemt, ons
+gaat vertellen van de gezichten van menschen
+en plaatsen waarmee hij heeft verkeerd, en
+waarheen zijn avonturen hem hebben gevoerd.
+Het middelpunt van het verhaal, de man zelf
+die heeft beleefd, blijft op den achtergrond.
+En toch, wij gevoelen het, die
+levensvroolijke Zwaab die zich uit kommerlijke omstan
+
+digheden door stoeren vlijt heeft opgewerkt,
+en, nauwlijks dertig jaar, lid van den Duitschen
+Rijksdag geworden, altijd klaar met de kennis,
+met het woord en met de daad, het
+Roomschkatholieke Centrum tot actie heeft gebracht,
+die man van alle markten thuis, met zijn op
+en neer, steeds teuk lachend op zijn voeten
+terecht komend, zou ons nog heel wat interes
+
+santere hebben kunnen meedeelen, wanneer hij
+zijn opkomst verklarend, zijn verbindingen
+besprekend, in een samenhangend tafereel het
+leven van zijn tijd met zijn hoogten en zijn
+diepten, zijn geheimen en zijn fouten had willen
+afschilderen als een ondervinding van zijn
+persoonlijk bestaan.
+In plaats van het in stukken te knippen en
+het ons in fragmenten op te disschen.
+
+Maar de brokken zijn ook niet te versmaden.
+Waar brengt het boek ons al niet heen?
+Het opent met een inleiding waarin wij
+hooren hoe,bij het begin van den oorlog in
+Duitsch!and, de propagandadienst voor het buiten
+
+land in 't geheel niet was georganiseerd. Eigen
+
+lijk was er voor den krijg totaal niets voorbereid
+als wij Erzberger mogen gelooven. Het was
+de reine onschuld die zich moest verdedigen
+Maar waar iets niet in orde is, daar biedt
+Erzberger zijn diensten aan, of zijn hulp wordt
+gevraagd, en de zaak komt dadelijk stevig
+op haar beenen te staan, hij krijgt zijn
+millioenen, bij besteedt ze spaarzaam en ziet hoe
+zijn werk vruchten draagt.
+Van terzijde bemerken wij dat de Jezuïeten
+zijn pogingen steunen, maar de Evangelischen
+weet de handige organisator ook in 't gelid
+te brengen ; hij verwaarloost geen krachten
+waarvan valt gebruik te maken. Al gaat zijn
+zorg en zijn streven naar het belang van het
+Vaticaan.
+
+Italië, - dat behoort tot zijn eerste bemoeie
+
+nissen.
+Daarin komt alweer de onhandigheid en de
+ongereedheid der Duitsche regeering voor den
+dag, dat zij zoo weinig zich er op heeft toe
+
+gelegd om de landen die haar hondgenooten
+moesten zijn en eigenlijk ook waren, Italië,
+Roemenië, Bulgarije naar zich toe te trekken
+en aan zich te verbinden.
+Inderdaad, het was noodig dat een man die
+de menschen kende en wist hoe men de dingen
+stuurt, zich de leiding aantrok, de verbin
+
+dingen knoopte en de nalatigen aandreef.
+
+Wel had het ministerie een goeden greep
+gedaan, toen het von Biilow naar Rome zond
+om de stemming van de Italiaansche regeering
+op de hand van Duitschland te brengen :
+maar, die keus eenmaal geschied, onthield
+men er zich van Bülow's werk te bevorderen
+en pressie te oefenen op Oostenrijk, dat het
+de menschen van Italiëzou tegemoet komen
+en afstand zon doen van het Trentsche gebied.
+Waarom?
+Uit vrees, zoo von Biilow in zijn missie
+slaagde, dat de Keizer hem wederom het
+Rijkskanselierschap zou opdragen.
+Hier moest dus wel iemand als Erzberger
+tusschen beiden komen die menschen en zaken
+onder den arm kon vatten.
+Was er niet zooveel tijd reeds te loor gegaan,
+hij zou zijn taak in Italiëzeker tot een goed
+eind hebben kunnen brengen ; hoorde men
+ook in Weenen niet naar zijn raad?
+Echter de tegenstrooming was te krachtig
+geworden, de vrijmetselarij had zich inge
+
+spannen, een revolutie zou zijn uitgebarsten,
+en Victor Emanue! 11 had zijn kroon verloren,
+wanneer Italiëzich niet bij de Entente aan
+
+sloot.
+Zelfs een Erzberger kan niet op tegen de
+omwenteling.
+
+In Roemeniëook, zoo Tisza de Roemeniërs
+van Hongarije wat toeschietelijker had behan
+
+deld en niet had gemeend dat een Roemeniëv
+het al voor een zaligheid moest rekenen
+door een Hongaar te worden geringeloord,
+zou op een verstandige wijze veel te bereiken
+zijn geweest, en Bulgarije, waarvan de Tsaar
+rotsvast aan het Centraal verbond was ge
+
+klonken, had veel eerder aan den oorlog tegen
+de Entente moeten deelnemen dan hij het in
+werkelijkheid heeft gedaan. Neen, er was te
+weinig gang in de Duitsche politiek.
+Er bestond, laat ons het eerlijk zeggen, in
+de verschillende landen geen groote neiging,
+ja, er was eerder onwil, om aan de zijde van
+'Duitschland en Oostenrijk den krijg te voeren.
+En moest dit dan zoo'n gewichtig bezwaar
+worden geacht? Hoe dikwijls behoort men
+niet de menschen den goeden weg op te drin
+
+gen !
+In Turkije rustte de Duitsche invloed slechts
+op vier steunpilaren, Talaat Pasha, Enver
+Pasha en een paar andere mannen. De Jong
+Turken waren natuurlijk Turkschgezind, dan
+echter kwam Frankrijk. Duitschland en Oos
+
+tenrijk, op den tweeden rang, hadden een
+geweldige taak voor zich om den Franschen
+invloed in het Oosten door het werk van
+Dnitsche missiën te vervangen.
+Erzberger, die geen moeilijkheden erkent,
+vond hier zijn terrein.
+Men ziet hem daar in het Oosten gedurende
+de jaren 1915 en '16, in betrekking met kar
+
+dinaal-aartsbisschoppen van
+Oostenrijk-Hongarije, met generaals van kloosterorden en
+van Jezuïeten, met liefdezuster-vereenigingen,
+scholen en hospitalen stichten, zonder al te
+zeer het Osmaansche fanatisme te kwetsen.
+Dan geeft hij zijn hart aan de heilige plaatsen
+in Palestina, hij tracht de Armeniërs te be
+
+schermen. . ..
+De duizendkimstenaar, nu hij zich een
+
+maal voor de propaganda heeft gespannen,
+doet zijn best op alle plaatsen tegelijk te wezen,
+en wil alles voor allen zijn.
+
+Zonder de eenheid en het gezag van de
+Kerk uit het oog te verliezen !
+Hij is een trouw dienaar van den Paus.
+Altoos staat hem gedurende deze jaren
+het herstel der wereldlijke macht van den
+Paus voor drn geest.
+Hij ontwerpt plannen, eerst nog in het
+ideevan een samengaan van Italiëmet de Cen
+
+trale Mogendheden ; later zoekt hij Oosten
+
+rijk en den vorst van Lichtenstein te winnen
+voor den afstand van een sonverein gebied
+aan den Kerkvoogd ; telkens zijti het nieuwe
+combinaties.
+Laat hem maar begaan; niet een weinig meer
+steun van de bevoegde autoriteiten, zon hij
+de geestelijke wereldorde nieuw hebben in
+
+gericht.
+Wat kon hij a! niet van het Vaticaan ge
+
+daan krijgen ! Waren de regeeringen te laat
+om de aandacht te vestigen op de keus van
+een kardinaal, Erzberger vond nog den weg
+om de hooge geestelijken tevreden te stellen.
+Hij wist raad.
+
+Paus Benedictus XV gaf hem particuliere
+audiënties tijdens zijn verblijf in Rome.
+De opdracht daar ontvangen bracht hem
+bij den Keizer.
+Het was het eerste onderhoud dat Erzberger
+met den heerscher had.
+De Keizer wilde van hem zijn indruk ver
+
+nemen over de stemming in Italië(l Maart
+1915).
+Voordat hij werd toegelaten moest Erzber
+
+ger van den dienstdoenden adjudant hooren :
+Gij zult toch niet anders dan goede tijding
+aan Z.M. brengen?" Dat was de vermaning,
+die gewoonlijk kwam : de Keizer moest in
+goed humeur worden gehouden.
+Erzberger had uit naam van den Paus het
+verzoek te doen of de Keizer zijn invloed bij
+den Keizer van Oostenrijk wou laten gelden,
+dat hij de wenschen van Italiëbevredigde.
+Wilhelm II stemde toe, omdat er nu eenmaal
+offers moesten worden gebracht, maar hij
+kon zijn humeur niet bedwingen. Voor den
+verrader", sprak hij boos, die hem zijn eere
+
+woord had verpand, moest hij dan opkomen bij
+den eenigen vriend die hem nog in de wereld
+was gebleven, den grijzen Keizer Frans Jozef,
+ofschoon hij wist hoe zwaar het hem viel om van
+zijn gebied afstand te doen !.. ..
+Maar had hij over Italiëen de bandieten der
+vrijmetselarij weinig goeds te zeggen, ook over
+het Oostenrijksche leger had de Keizer zijn
+klachten ; voor den Paus daarentegen had hij
+niets dan vriendelijke woordenen toezeggingen.
+Het onderhoud duurde een uur; telkens
+ging de Keizer tot een ander onderwerp over,
+zijn levendige aard liet hem niet goed luis
+
+teren : maar als men voet bij stuk wist te
+houden, meende Erzberger, zou men hem wel
+kunnen leiden.
+Het zou echter meer dan twee jaren duren
+voor hij den Keizer weerzag.
+En toen was zijn meening anders.
+W. G. C. B v v A N c K
+
+</text>
+<image timestamp="2002:08:25:04:54:28.00" size="478056">D10003F6.TIF</image>
+</page>
+</document>

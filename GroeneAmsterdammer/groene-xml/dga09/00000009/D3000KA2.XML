@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19361219</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\
+II
+l l
+
+Omslagteekening van W, Schuhmacher
+EERECOMIT
+
+
+ter gelegenheid van de verschijning van het
+
+
+
+JUBILEUMNUMMER
+
+
+bij den zestigsten verjaardag van De Groene"
+
+
+Dr. H. COLIJN, Afwwter van Koloniën en Minister van Defensie a.i.
+Mi. P. J. OUD, Minister van Financiën
+Prof. Dr. J. R. SLOTEMAKER DE BRUïNE, Min. v. Onderw., Kunsten en Wetenschappen
+Dr. W. DE VLUGT, burgemeester van Amsterdam
+Prof. Mr. P. J. M. AALBERSE, Minister van Staat, Voorzitter van de Tweede Kamer
+Ir. J. W. ALBARDA, lid Tweede Kamer
+Prof. Mr. A. ANEMA, lid Eerste Kamer
+Mevr. LIZZY ANSINGH, kunstschilderes
+W. BERDENIS v. BERLEKOM, Middelburg
+E. BOEKMAN, wethouder van Amsterdam
+Dr. MENNO TER BRAAK, letterkundige
+JOH. BRAAKENSIEK, kunstschilder
+Prof. Dr. H. BRUGMANS
+Mr. D. CRENA DE IONGH, President Ned. Handel Mij.
+G. H. CRONE, voorzitter van de Kamer van Koophandel en Fabrieken, Amsterdam
+ANTON VAN DUINKERKEN, letterkundige
+Jhr. Mr. D. ƒ. DE GEER, Minister van Staat
+JOAN GELDERMAN, lid Eerste Kamer
+J. TER HAAR Jr., voorzitter Chr. Hist. Raadsfractie, Amsterdam
+D. HANS, voorzitter Ned. Journalistenkring
+Prof. Dr. J. A. VAN HAMEL
+Me j. Mr. C. F. KATZ, lid Tweede Kamer
+Prof. Dr. G. W. KERNRAMP
+Mr. L. G. KORTENHORST, lid Tweede Kamer
+HILDO KROP, beeldhouwer
+Mr. G. C. J. D. KROPMAN, wethouder van Amsterdam
+Ir. W. H. VAN LEEUWEN, president-directeur Ned. Gist- en Spiritusfabrieken
+Dr. F. E. POSTHUMA, oud-minister van Landbouw, Handel en Nijverheid
+Mevr. TOP VAN RHIJN—NAEFF, letterkundige
+A. ROLAND HOLST, letterkundige
+Prof. Mr. F. G. SCHELTEMA
+ARTHUR VAN SGHENDEL, letterkundige
+JAN SLUITERS, kunstschilder
+Mr. L. J. A. TRIP, president van de Nederlandsche Bank
+Prof. Mr. J. A. VERAART
+Mr. Dr. L. E. VISSER, vice-president van den Hoogen Raad
+Mr. J. A. DE VISSER, procureur-generaal bij het Gerechtshof, Arnhem
+Mr. W. C. WENDÈLAAR, lid Tweede Kamer
+Dr. F. M. WIBAUTf
+AG.13 DE.GROENE No.3107
+7"
+
+</text>
+<image timestamp="2002:10:30:21:17:11.00" size="184903">D3000KA2.TIF</image>
+</page>
+</document>

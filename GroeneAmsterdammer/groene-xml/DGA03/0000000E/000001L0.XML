@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081004</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Dr. Kuyper wederom naar de Tweede Kamer....
+Vrij naar een onafgewerkte ets van Rembrandt
+in het Rijksmuseum.
+6IJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 4 October 1908.
+Amst. Boek- en Steeudrukkerij, v'h. Kllermau, Harms &amp; Co,
+2t' Kamer.
+|HK. ].O\IM.\N, Mr. HKEMSKF.RK.
+Lucas 15 : 20 24. ~ En opstaande ging hij naar zijnen vader, en als hij nog ver van hem was, zag hem zijn vader, en werd met
+innerlijke ontferming bewogen; en toeloopende viel hem om zijnen hals en kuste hem .... en zeide tot zijne dienstknechten .... brengt het
+gemeste kalf, en slacht het; en laat ons eten en vroolijk zijn. Want deze mijn zoon was dood, en is weder levend geworden; en hij was
+verloren en is gevonden I En zij begonnen vroolijk te zijn.
+
+</text>
+<image timestamp="2002:08:15:01:56:21.00" size="178264">000001L0.TIF</image>
+</page>
+</document>

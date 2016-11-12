@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010929</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1266
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+De voordracht tot het dempen van de Reguliersgracht.
+THORBECKE (t'H B trje &gt;i2eit;r 0,11 L'.:&gt;i'.i)!i e4 Wet'nuder Ulooïer) : »Nu baroavt hst mij toch, gezegd te hebben: Kunst is geen Regeeringszaal;... ik bid u, ontneem mij niet dat heerlijk stadsgezicht."
+De Alliantiefeesten. (Ciran d'Ac^ie in de Figaro).
+De Czar in Frankrijk. (Lutiiy? U'atter).
+Buffalo 6 September 1901. (F&lt;sc'Mt-&gt;).
+DE C/AH: «Ik hai u beloofd op de tentoonstelling te kompn, en zie .. . daar ben ik.''
+LottiET : »0 ! hoe ]arg wachten wy rneds op Ninolaas II.''
+DE C/AR: «Niet zoo lang als ik op Nicolaas III "
+
+De uitwerking der proclamatie. (Lustige matter).
+Zilveren woorden !
+Gouden woorden !
+
+Zaken zijn zaken. (Punch}.
+Oom Sam, door 01 dervir.ding wijs geworden, bpgrypt nu, dat zeker soort
+•i- lieve datuea niet aliceri voor t xpcrt werkt en dat het tijd wordt te zorgen dat
+'i\ de bandeloosheid niet de injlieid van fatsoerJyke lieden in den weg staat.
+l\"iK iii'i.M:!; : «Dezen vijand geen pirdon !"
+
+De Alliantie. (I-'udi tto).
+DE CZAR: «En nu vaarwel beste jongen, er wacht ie rund op me."
+KEIZER WILHEIM: »Toch geen geldschieter, hoop ik?"
+DE CZAR: »'k Beu bang van met!"
+Het ontwerp heeft wel iets artistieks, maar Don Josévindt zijn NIKOLAAS : »Zes jongere! Drommels Wilhelm, kun je me daarvan het
+positie niet erg pleizierig. recept niet geven ?" (Jugend).
+
+</text>
+<image timestamp="2002:08:16:15:29:46.00" size="456917">D20012D.TIF</image>
+</page>
+</document>

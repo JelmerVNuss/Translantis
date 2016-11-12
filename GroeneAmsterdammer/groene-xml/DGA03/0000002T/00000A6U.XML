@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320423</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ziet U aan of een lamp
+
+goedkoop is!
+Die paar dubbeltjes, die U
+voor een z.g. goedkoope lamp
+in den winkel misschien min
+
+der betaalt, bent U denzelfden
+dag alweer vergeten. Maar Uw
+meter vergeet ze niet. Hij
+vraagt ze tienvoudig terug!
+Week in week uit.
+
+Betaalt liever een paar
+dubbeltjes meer voor een
+werkelijk goedkoope
+stroombesparende
+lamp. Koopt Philips
+lampen.
+H.H. Medici en Tandartsen
+maken voor het incasseeren en rege
+
+len hunner achterstallige vorderingen
+steeds meer gebruik van
+welke .organisatie uitsluitend voor
+Medici en Tandartsen werkzaam is
+
+Amsterdam (C ) o Rotterdam
+Keizersgracht 410 • Wijnhaven 100
+
+TARIEVEN OP AANVRAGE.
+Sea^Horse
+de allerbeste
+Mouiwyn Jenever
+M.R POLLEN t ZOON ROTTERDAM
+N.V. CIVIELE EN MILITAIRE KLEERMAKERIJ
+
+DEKKER &amp; DIJKSTRA
+voorheen de erven H, van Dijk
+Leveranciers van Indische Uitrustingen
+UTRECHT, Nieuwe Gracht 6 TELEFOON
+DOOR HET GEHEELE LAND TE ONTBIEDEN 13416
+Doorn TELEFOON 133 H o te l Cecil"
+PENSION-CAFE-RESTAURANT
+Logies Ontbijt f 3.—Pension vanaf f 5.
+Stroomend koud en warm water, met CENTRALE VERWARMING
+op alle kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+'minuTn va™™6 kamers' C. Lammers van Toorenburg.
+Cigarros Cadena
+IN DE VOORNAAMSTE
+SIGARENWINKELS
+VANRIJN'S
+KMOSTERD
+GEBRUIKT
+
+COELINGH'S
+
+DEVENTER- en
+ONTBIJTKOEK.
+
+Met de plaatjes voor
+het PRACHTALBUM:
+
+SPOORWEGWON DEREN
+DER WERELD»
+HU1B SLAGER
+
+Tolhuislaan 71a
+
+ROTTERDAM
+
+
+bindt Uw boeken
+
+en jaargangen keu
+
+
+rig en zeer billijk in
+MAR RAKECH
+
+door
+
+C. F. VAN DAM en IS. VAN MENS
+
+DE AAN- EN INKLEEDING VAN DIT BOEK ZIJN ZEKER EVEN BELANGRIJK ALS
+het reisverhaal en de teekeningen. Tezamen maken zij het tot een heugelijk en
+allerpleizierigst harmonisch staal van huidige boekkunst.
+Frans Coenen, Gr. Nederland
+
+Buitengewoon goed bevalt de levendige kort-aangebonden verteltrant van den
+Marrakech-bezoeker, zijn korte maar zeer rake beschrijving van honderden
+kleinigheden. Op sommige plaatsen is de verteltrant zelfs zeer origineel en
+tegelijkertijd zeer beeldend. Albert Heiman, De Groene Amsterdammer
+
+Prachtig is de druk, waarbij van roode letters een sober gebruik is gemaakt;
+het titelblad is waarlijk een lust voor het oog. Niets dan goeds is er ook van de
+mooie illustraties van Is. van Mens te zeggen: uiterst knappe teekeningen in zwart
+krijt. Het korte vrooljjke reisverhaal is gemakkelijk leesbaar.
+Nieuwe Rotterdamsche Courant
+
+Op een smakelijke en amusant-nonchalante manier vertelt hij zijn wedervaren
+bij zijn bezoek aan Marokko en den tocht naar de oase van Marrakech.
+Telegraaf
+
+Prijs F 6.—; gebonden f 7.50.
+
+In ieder en boekhandel verkrijgbaar
+
+
+L E l T E R-N U P E L S, MAASTRICHT
+
+</text>
+<image timestamp="2002:09:26:22:00:09.00" size="120737">00000A6U.TIF</image>
+</page>
+</document>

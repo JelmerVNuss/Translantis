@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960126</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BI|VOEGSK[. van de Amsterdammer.
+\Veeicl&gt;!ad voor Nederland, van 26 Januari 1896.
+De Mogendheden en de (voor 't oogenblik vergeten) Armenische quaestie.
+^^ .
+Amst. Boek- en Steemlrukkerij, v/h. Ellerman Harms &amp; Co.
+(ÏLADSTONE (tot John Buil en de Mogendheden): Wal is er van uwe eensgezindheid
+geworden in den dienst eener rechtvaardige /aak?"
+
+</text>
+<image timestamp="2002:09:04:05:30:44.00" size="252912">D10004EN.TIF</image>
+</page>
+</document>

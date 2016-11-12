@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991105</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na den slag bij Ladysmith.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 5 November 1899.
+
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+JuilN BULI, (tot d c krijgsgevangenen): Dat wij naar Pretoria zouden gaan, ik heb er geen
+oogenblik aan getwijfeld, maar zoo spoedig al ... en zoo , . .'.
+
+</text>
+<image timestamp="2002:08:13:20:54:58.00" size="294008">D200099.TIF</image>
+</page>
+</document>

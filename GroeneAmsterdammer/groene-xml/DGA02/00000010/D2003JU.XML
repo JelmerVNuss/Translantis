@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240510</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2447
+Linoleui-OndeÉyd
+(ukmrPirkit-mlilibanrlMiiii)
+zonder wrijfwas (niet boenen)
+zonder water (niet dweilen)
+
+De O'Cedar Mop
+glanst en reinigt tegelijk.
+Moppen (= zwabber) in
+2 maten 3.50 en 4.50 Gld.
+ÓlieperfleschO.QOen l.SOGld.
+VRAAGT INLICHTINGEN
+fl.Y. GEBR. ALINK, Amsterdam
+Liiiicbeibaat i» Niemmlijk 13-16
+IN HET JAAR
+
+1812
+Leverden wij de eerste
+- EN VELE NADIEN
+
+Door onze nauw
+
+gezette { bediening
+en betrouwbare
+kwaliteiten zijn wij
+SPECIALISTEN
+bij uitnemendheid
+
+Prijscourant op aanvrage
+t
+MAISON DE BLANC
+
+KALVERSTRAAT 128—130
+kan heel wat
+Heertjes 'an,
+De Lelie" weet daar
+alles van.
+Binnen acht dagen
+hei f t U ze terug
+Blank als'n Lelie".
+MODELW
+
+DE
+De Drie Zwarte Penny's
+door
+
+JOSEPH HERGESHEIMER
+Uit het Amerikaansch vertaald
+door CL. BIENFAIT
+Geïll. omslag van IS. VAN MENS
+De H en W-Serie Deel VII
+Ingenaaid ƒ2.90 Gebonden ƒ3.75
+Uitgave van
+VAN HOLKEMA &amp; WARENDORF
+Amsterdam
+MECHANISEERT
+
+UWE ADMINISTRATIE
+
+DOOR MIDDEL VAN DE
+
+ELECTRISCHE ELL1S BOEKHOUDMACHINE.
+ELECTRISCHE WALES OPTEL- EN STAFFELMACHINE,
+ELECTRISCHE MERCEDES-EUKLID REKENMACHINE.
+ELECTRISCHE HOLLERITH TABELLEER- EN STATISTIEK MACHINE.
+ELECTRISCHE RONEO ADRESSEERMACHINE.
+GEÏLLUSTREERDE BESCHRIJVING,
+MODELLEN VAN WERK, EN
+:- VERDERE INLICHTINGEN -:
+ZONDER BENIGE VERPLICHTING.
+L. FLES &amp; Co.
+BJASPIBOMMB:
+BOEKBINDER
+MET GECONF'JTE VPUCHTEN
+AU G. KAUPMANN
+P. C. Hooftstraat 113 - Telefoon 23308
+Gevestigd 1862 - AMSTERDAM - Gevestigd 1862 j
+LEVERING VAN
+Complete Huwelijksuitzetten
+f325.—, f525.—, f850.—, f1200.—en hooger |-j
+VRAAGT PRIJSOPGAVE EN MONSTERZENDING jj
+Onze vertegenwoordigers zijn door het geheele land te ontbieden IQ
+KERKSTRAAT 53
+AMSTÖ3DAM
+Bij alle solide Horlogers
+verkrijgbaar
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen.
+DORDT
+De Rubbin Rubber vloeren, Eollandsch labricaat
+in de Incasso Bank en de Haagsche
+Verzekering Sociëteit zijn geleverd
+door de firma
+
+Jacs. S. Waisvisz &amp; Go.
+Wagenstraat 167 DEN
+HIAG
+</text>
+<image timestamp="2002:09:03:07:34:53.00" size="140512">D2003JU.TIF</image>
+</page>
+</document>

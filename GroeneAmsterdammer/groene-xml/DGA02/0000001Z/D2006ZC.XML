@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331125</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 25 November 1933
+N o. 2947
+:
+b»;*
+De veiligheid van ons
+radiotoestel
+Dr. W. Bleeker
+Bliksemgevaar
+Gemiddeld komen per jaar 310
+folikseminslaggevallen, waarbij 150 ge
+
+bouwen getroffen en 17 personen
+gedood worden, ter kennis van het
+Meteorologisch Instituut te de Bilt.
+Waarschijnlijk geven deze cijfers, die
+alleen op Nederland betrekking heb
+
+ben, het aantal werkelijk plaats
+
+vindende trefgevallen niet juist weer.
+Talrijke inslagen worden noch door
+•de dagbladen, noch door de
+onweerswaarnêmers gemeld; men mag dus
+verwachten, dat de in dit artikeltje
+vermelde getallen beneden de werke
+
+lijkheid blijven.
+Dat het gevaar van inslaanden blik
+
+sem uitsluitend in de zomer bestaat,
+bewijst wel de onweersbuien die zich
+in de herfst over ons land ont
+
+lasten.
+* *
+*
+
+Nieuwe tijden brengen nieuwe pro
+
+blemen ! De ontwikkeling van de
+«lectriciteit ging gepaard met den
+opbouw van talrijke bovengrondsche
+zwakstroom- en sterkstroomnetten,
+die een willig object voor het
+hemelvuur vormden (in Holland gemiddeld
+32 treffers per jaar). Vooral de fatale
+gevolgen, die een defect aan een
+hoogspanningsleiding dikwijls voor
+een geheele streek kan hebben, zijn
+voor de Amerikaansche
+electro-technische ingenieurs aanleiding geweest
+tot het opzetten van een onderzoek,
+dat ons eigenlijk voor het eerst een
+zuiver denkbeeld gegeven heeft van
+&lt;le geweldige electrische spanningen
+«n stroomsterkten, waarover de atmos
+
+ferische centrale" beschikt. Poten
+
+tiaalverschillen van millioenen Volts,
+stroomsterkten van vele duizenden
+Ampères zijn hierbij gemeten.
+Is het wonder, dat de radio-ama
+
+teur met respect tegen deze getallen
+•opkijkt en zich angstig afvraagt:
+Hoe moet mijn antenne in geval
+van inslag deze enorme electrische
+energie verwerken?" Men kan ten
+.slotte verwachten, dat de inslagkans
+op de hoog boven de omgeving
+uit.stekende ontvangdraden even groot
+of zelfs grooter is dan bij de gewone
+laaggespanuen electrische
+geleidingslijnen. Ondanks deze overweging acht
+
+te men in de kinderdagen van de
+•draadlooze telegrafie de trefkans van
+•de antenne vrij klein. Zelfs in 1926
+kon de toenmalige samensteller van
+het Jaarlijksche Onweersverslag van
+het K.N.M.I. nog schrijven:
+Een trefgeval op een antenne
+wordt nmaal genoemd. Het verliep
+zonder brand of schade van
+beteekenis. Wel geruststellend mag dit ge
+
+noemd worden, daar toch reeds in
+1926 het aantal der huizen van een
+antenne voorzien zeer groot was."
+Tengevolge van de enorme popu
+
+lariteit, waarin de radio zich thans
+mag verheugen, heeft zich sindsdien
+de situatie wel eenigszins gewijzigd.
+Juist het grootere aantal ontvangers
+maakt een beter overzicht mogelijk,
+•en het volgende staatje geeft een idee
+van het aantal gesneuvelde antennes
+sinds 1924, het jaar, waarop voor het
+eerst de antenne in de
+onweersannalen vermeld werd.
+1924 : 2 1928 : 3 1932 : 14.
+1925 : O 1929 : 4 1933 : 18
+1926 : l 1930 : 18
+1927 : 2 1931 : 20
+Men mag dus gerust concludeeren,
+dat uit de gegevens van de laatste
+vier jaar blijkt, dat de radio-antenne
+gemiddeld minstens 17 maal per jaar
+getroffen wordt door den bliksem.
+Een zeker niet gering aantal! Of
+de trefkans in de groote stad kleiner
+is dan op het platte land is moeilijk
+uit te maken. Wellicht geeft de statis
+
+tiek een wat grooter aantal tref
+
+gevallen buiten de steden aan, doch
+de vraag is, welke norm men nemen
+moet. Vertegenwoordigen plaatsen
+als Vlaardingen, Zwolle of Leiden
+al of niet een echtenstadstoestand
+en is niet een trefgeval aan de grens
+van Rotterdam een typisch voor
+
+beeld van plattelandsomstandigheden?
+Bovendien durven wij de verhouding
+van de aantallen antennes zelfs niet
+bij benadering te schatten. Aan de
+hand van ons materiaal kunnen wij
+zeker niet zeggen, dat de bezitter
+van een flinke stadsantenne zich
+ook zonder speciale maatregelen vrij
+veilig mag wanen, zooals wel eens
+beweerd is.
+De schade, die in de bovengenoemde
+80 gevallen aan het ontvangtoestel
+werd aangericht, was meermalen vrij
+ernstig. Reeds daarom verdient het
+thema Onweer en Radio" de belang
+
+stelling van den luisteraar.
+Vergeet u vooral niet uw antenne
+te aarden l" zoo luidt de welgemeende
+raad, die talrijke omroepers des
+avonds hun toehoorders meegeven.
+E enigen tijd geleden werd in dit
+tijdschrift de vraag opgeworpen, of
+dit advies eigenlijk wel zoo verstan
+
+dig is. Met andere woorden: doen
+de omroepers niet wijzer dit gewoonte
+
+zinnetje niet uit te spreken, en stellen
+brandverzekeringsmaatschappijen, die
+van hun verzekerden de aanwezigheid
+van een antenne-aarde schakelaar
+of anderen beveiliger eisenen, een
+gerechtvaardigden eisch 'i
+Het liefst zal men deze vragen
+natuurlijk beantwoorden met behulp
+van statistisch materiaal. Helaas zijn
+van de ruim 80 ons bekende gevallen
+slechts 10 voldoende uitvoerig be
+
+schreven, daar vele inslagen uit
+dagbladberichten verzameld zijn en de
+journalist niet altijd even objectief
+in zijn beschouwingen is. Doch zelfs
+uit deze weinige gegevens valt wel
+een conclusie te trekken. In de drie
+gevallen, waarbij de antenne niet
+beveiligd was, ontstond tweemaal
+brand, terwijl nmaal gemeld wordt,
+dat het toestel onklaar raakte. Op
+
+merkelijk is het, dat bij de 7 gevallen,
+waarin juiste maatregelen tegen inslag
+schade genomen waren, geen enkele
+keer brand optrad; vier keer werd
+geen schade, eenmaal weinig schade,
+opgegeven; eenmaal sloegen twee
+lampen stuk en eenmaal smolt de
+plaat van een condensator. Zelfs
+de leek kan hieruit de conclusie
+trekken, dat dit ongetwijfeld zeer
+onvolledige statistiekje, spreekt vóór
+het aanbrengen van beschermende
+apparaten. Het is er mee, als de jaren
+
+lange ervaring met bliksemafleiders
+geleerd heeft: een inslag op een
+goeden bliksemafleider veroorzaakt
+vrijwel nimmer brand, bij afwezig
+
+heid van een afleider zijn de kansen
+voor onaangename vuurverschijnseleu
+buitengewoon groot. Niet te ont
+
+kennen valt het, dat een gebouw,
+voorzien van een afleider, een iets
+hoogere trefkans heeft dan een onbe
+
+schermd gebouw. Niet alleen ver
+
+groot de afleiderspits de hoogte,
+doch zij vervormt ook het electrische
+veld. Waarschijnlijk kan zij zelfs door
+ioniseering van de omgeving de baan
+van een ontlading voorbereiden; doch
+geheel zeker is dit niet naar de laatste
+Zuid-Afrikaansche onderzoekingen be
+
+wezen hebben. Men neemt echter
+dit risico gaarne, als men weet,
+dat door den bliksemafleider de
+electriciteit een goede en veilige
+weg naar de aarde geboden wordt.
+Met den bliksemafleider is de antenne
+te vergelijken! Ook deze vergroot
+meestal de hoogte van het huis, en
+als zij het niet doet, dan vervormt
+zij toch het electrische veld
+onajhankelijk van het feit of zij al dan
+niet geaard is. Eigenlijk kan men
+zonder bezwaar beweren: een antenne
+is een bliksemafleider, we moeten
+dus bij ons pogen om gevaar voor
+lijf en goed zoo klein mogelijk te
+maken, zorgen, dat deze bliksem
+
+afleider in goeden staat verkeert.
+Wie dit nalaat, heeft wel een blik
+
+semafleider op zijn huis, doch een
+bijzonder slechte ! En hoewel het
+bekend is, dat een vrij slechte afleider
+het gevaar niet' vergroot, ja zelfs
+dat hij nog behoorlijk zijn plicht
+kan doen, zijn de middelen om van
+de antenne een goeden afleider te
+maken zoo eenvoudig, dat niemand
+verzuimen mag deze toe te passen.
+Wat kan en moet de radio-amateur
+doen, wanneer hij een onweer ziet
+naderen ?
+In de eerste plaats kan hij alles
+laten zooals het is. Het behoeft geen
+betoog, dat deze handelwijze voor
+het radiotoestel uiterst gevaarlijk is.
+Men biedt op deze manier den bliksem
+een prachtgelegenheid om door den
+primairen ontvangkring te gaan en
+tegelijk met de vernieling daarvan
+schadelijke inductie-spanningen op
+de andere kringen te induceeren. Waar
+
+schijnlijk zal de bliksem slechts ge
+
+deeltelijk van dezen weg gebruik
+maken, doch zelfs indien dit het geval
+is, kan de partieele ontlading, die
+haar baan via den ontvanger kiest,
+onaangename gevolgen hebben.
+Een tweede manier is, de
+antennedraad los te maken en eenvoudig bij
+het toestel te laten hangen. In dit
+geval heeft men de allerslechtste blik
+
+semafleider geconstrueerd, dien men
+bedenken kan. Van het einde van
+den draad zoekt de ontlading bij inslag
+haar weg naar het radiotoestel of
+een andere metaalmassa in de om
+
+geving.
+Beter is het binnenshuis de antenne
+direct met den aarddraad te verbinden.
+Wanneer buitenshuis dan nog een
+vonkenbrug wordt aangebracht, waar
+
+van de bekendste vorm de gasgevulde
+beveiliger is, kan men zich volkomen
+veilig voelen. Een zijde van deze
+vonkenbrug is aan de antenne en
+de invoerleiding bevestigd, de andere
+kant staat buitenshuis in electrisch
+contact met de aarde. Wanneer
+de spanningen in de antenne te hoog
+worden, zal de electriciteit liever
+haar weg door het gemakkelijk te
+doorklieven gas naar de aarde kiezen,
+dan de voor haar moeilijker bochtige
+baan via de invoerleiding binnenshuis
+naar den grond op te zoeken.
+Wil een gedeelte der ontlading
+toch de invoerleiding volgen, dan
+staat hiervoor, wanneer deze geleiding
+direct met de aarde van het radio
+
+apparaat verbonden is, toch een
+gemakkelijke weg open. Men voldoet
+bij deze manier van handelen ook
+aan het algemeene voorschrift voor
+den aanleg van gewone bliksemaf
+
+leiders: de metaalmassa's van het
+gebouw en de daarin loopende
+draadgeleidingen zooveel mogelijk aar
+
+den ! Indien men de aarding van den
+invoer verzuimt kan nog schade
+optreden; de doorgesmolten
+condcnsa torplaat (hierboven genoemd) is
+daar een bewijs van. Ongetwijfeld
+biedt de gasgevulde beveiliger of
+zelfs de eenvoudige vonkenbrug, bui
+
+tenshuis gemonteerd, zeer groote
+voordeelen. Hij is dag en nacht werkzaam,
+men behoeft hem niet in te schakelen,
+men mag zijn bestaan totaal ver
+
+geten ! v
+Een andere beveiligingsinrichting,
+eigenlijk de oudste, is die, waar bij
+nadering van het gevaar buitenshuis,
+de radio-antenne direct met de aarde
+verbonden wordt (antenne-aarde scha
+
+kelaar). De aardverbinding dient,
+evenals bij de bovenbeschreven appa
+
+ratuur, van stevig draad!^ uitgevoerd
+te zijn en mag in haar verloop slechts
+weinig bochten bevatten. ledere ont
+
+lading vloeit hierbij zonder dat zij
+eenige moeilijkheid behoef t te overwin
+
+nen, naar de aarde af. Natuurlijk moet
+men, wanneer de schakelaar zijn
+beschermende taak verricht, van radio
+
+genot afzien. Het nadeel van deze
+inrichting, die overigens uitstekend
+werkt, is, dat men zoo gemakkelijk
+vergeet haar in functie te- stellen,
+of uit angst voor het gevaar te vroeg
+omschakelt.
+Gelukkig is er wel een norm aan
+te geven, wanneer men wel en wan
+
+neer men niet mag luisteren. In het
+algemeen kan men n.l. zeggen, dat
+een voorwerp getroffen kan worden,
+als zich de onweershaard in horizon
+
+tale projectie binnen een afstand
+van 4 a 5 maal de hoogte van het
+object bevindt. Wanneer er meer
+dan 15 a 20 secunden verloopen
+tusschen donder en bliksem, zal men
+nog betrekkelijk veilig luisteren. De
+angstige, die zich 30 secunden als
+grens stelt, en zoodra de tijd korter
+is of zijn antenne-invoer op aarde zet
+of zijn antenne-aarde schakelaar om
+
+zet, is tegenover zijn huisgenooten
+en zichzelf volkomen verantwoord.
+Hij behoeft ook volstrekt niet bij
+vèrverwijderd weerlichten een einde
+aan een goed concert te maken.
+Ten slotte willen wij nog vermelden,
+dat bovengenoemde beschouwingen
+zoowel gelden voor directe treffers
+als voor z.g. geïnduceerde ontladingen,
+die zoowel van electro-statische als
+van electro-magnetische aard kunnen
+zijn. In vakkringen is men het over
+de gevaren van deze inductieverschijn
+
+selen nog niet eens. Simpson e. a.
+houden ze voor onbelangrijk; in
+Amerikaansche techni&amp;che kringen
+neemt men aan, dat vooral aan hen
+heel wat schade moet worden toe
+
+geschreven.
+Doch hoe het ook zij: hij, die zich
+mot een gerust geweten ter ruste
+wil begeven, treffe des avonds, wan
+
+neer de weersverwachting de
+011weerskans noemt, de bovenbesproken
+maatregelen, gehoor gevend aan de
+.werkelijk niet zoo slechten raad
+van den omroeper.
+
+De Bilt, November 1933.
+
+</text>
+<image timestamp="2002:09:27:03:02:59.00" size="274506">D2006ZC.TIF</image>
+</page>
+</document>

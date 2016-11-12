@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320507</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2866
+De Groene Amsterdammer van 7 Mei 1932
+17
+Radio en Grammofoon
+Nieuwe lampen
+door L. J. van Looi
+Bestaat een anti-fadinglamp?
+De radio-amateurs moeten in den
+laatsten tijd heel wat bijleeren. Br
+duiken telkens nieuwe namen op, die
+in zichzelf heele nieuwe begrippen en
+schakelingen beteekenen en die de
+amateur, die niet een vaktechnisch
+tijdschrift leest (of niet kan lezen,
+hetgeen door de stortvloed van tech
+
+nische termen geen wonder is) een
+
+voudigweg niet onder de knie krijgt,
+en zelfs niet goed snapt, waarvóór dat
+alles dient. Voor den gewonen radio
+
+amateur is het voldoende te weten,
+waarvoor de verschillende
+onderdeelen van zijn toestel dienen en hoe zij
+ongeveer werken diepzinnige bere
+
+keningen met karakteristieken en
+stroomcijfers interesseeren hem wei
+
+nig. Maar het is een vervelend gevoel
+als in je toestel een lamp zit, die
+Varitetrode of Exponential-lamp ge
+
+noemd wordt en je weet niet wat er
+mee aan de hand is. Verder gaan over
+deze lampen allerlei verhalen, die de
+beteekenis ver overdrijven.
+Eén van die verhalen is, dat de
+Varitetrode een lamp zou zijn, waar
+
+mee de fadingsverschijnselen, d ie on
+
+aangename golvingen in geluidster kte,
+die bij ontvangst van vér verwijderde
+omroepstations optreden, teniet zou
+
+den worden gedaan. De Varitetrode
+wordt dan als anti-fadingslamp voor
+
+gesteld. Een antifadinglamp is zij niet
+wat de lamp op dat gebied kan
+doen, zal ik hieronder uiteenzetten.
+In de eerste plaats moet ik de vraag
+behandelen: door welke behoefte is
+de Varitetrode ontstaan? Bij de be
+
+antwoording van die vraag krijgen
+wij natuurlijk het beste inzicht in de
+werking.
+De radioluisteraar, die een toestel
+met een of twee lampen
+hoogfrequentversterking bezit, zal wel bemerkt
+hebben, dat zijn toestel voor sommige
+stations eigenlijk te sterk is en dat hij
+het geluid moet verzwakken. Een
+
+deels kan hij dat door de terugkoppe
+
+ling doen, die dan teruggedraaid wordt
+en als dat ook niet voldoende helpt,
+of de selectiviteit vermindert door
+deze handeling, dan bevindt zich aan
+SCHRIJF-FACTUREER-EN
+BOEKHOUDMACHINES MET REKENWERK
+Europa Schrijfmacliinehandel H.V.
+Amsterdam
+
+Rokin 113 - Telefoon 55660
+Agenten door het geheele land
+de meeste toestellen een knop
+sterkteregeling" en door draaien aan dien
+knop kan men het geluidsvolume van
+het toestel regelen. Die knop regelt de
+waarde van een weerstand. En die
+weerstand is opgenomen in. de
+schermroosterleiding van de
+hoogfrequentlamp. Als het schermrooster van de
+hoogfrequentlamp minder spanning
+krijgt, wordt de versterking geringer
+en dus het geluid zwakker, doch ook
+vervormd.
+De hoogfrequentlampen met twee
+roosters dubbelroosterlampen,
+schermroosterlampen, type E 424
+(Philips) en Rens 1204 (Telefunken)
+zijn lampen met bijzonder groote ver
+
+sterking, die verkregen is juist door
+de toevoeging van een tweede rooster
+in de lamp, welk rooster, om de groot
+
+ste versterking te veroorzaken een
+positieve spanning moet hebben, die
+in een vaste verhouding tot de span
+
+ning van de plaat van de lamp staat.
+Overal, waar met n lamp hoogfre
+
+quent wordt volstaan, zijn deze lam
+
+pen de beste. Waar echter de ontvangst
+met meer hoogfrequentversterking ge
+
+schiedt, of zóó dicht onder een zender
+dat de spanning van het schermrooster
+moet worden verlaagd bij ontvangst
+van dit sterke station, daar is de Vari
+
+tetrode beter op haar plaats. De Vari
+
+tetrode is als het ware een combinatie
+van twee hoogfrequentlampen
+van een met groote en een met kleine
+versterking. De spanning van het
+schermrooster is niet zoo critisch als
+bij de andere lampen. Men kan de
+lamp laten werken met weinig en met
+veel schermroosterspanning. Met veel
+schermroosterspanning is de verster
+
+king bijna zoo groot als van de gewone
+schermroosterlampen,met weinig span
+
+ning wordt de versterking veel minder
+zonder dat het geluid ivordt vervormd.
+* *
+*
+
+De verandering van de spanning
+kan op de gewone wijze met de hand
+geschieden door het inschakelen van
+een weerstand. Het kan ook geschie
+
+den door een schakeling in het toestel,
+die automatisch de spanning van het
+schermrooster vermindert als de ver
+
+sterking groot is, en vermeerdert als
+de door de hoogfrequentlamp aan de
+detectorlamp afgegeven spanningen
+gering zijn. Het gevolg van zoo'ri
+schakeling is, dat inderdaad eenige
+verbetering te constateeren is als een
+station met fading ontvangen wordt.
+De ontvangst wordt in het algemeen
+tot een meer gelijkmatig peil neerge
+
+drukt of opgeheven. Daartegenover
+staat, dat men ook met een door de
+detectorlamp bestuurde Varitetrode
+niet betere ontvangst in de zwakste
+oogenblikken krijgt, dan met een ge
+
+wone hoogfrequentlamp, die met zijn
+beste spanning werkt. Het is niet on
+
+mogelijk, dat men, in de richting van
+de Varitetrode verder werkend, tot
+eert lamp komt, die een zoo groote
+versterking toelaat, dat inderdaad de
+zwakste oogenblikken van een fadend
+station nog tot goed hoorbare geluiden
+kunnen worden opgeheven. Wanneer
+deze lamp dan door de detectorlamp
+bestuurd" zou kunnen worden, zóó
+dat die ontzaglijke versterking voor
+het grootste gedeelte teniet werd ge
+
+daan bij aankomst van golven van
+normale sterkte, dan zou de anti
+
+fadinglamp geboren zijn. De bestaande
+varitetroden brengen ons dat ideaal
+helaas nog niet.
+Montparnasse in den avond
+L,a Rotonde, !.&lt;• Dóme
+Mont-Parnasse, La Rotonde, Ie
+Select, Le Dóme. . . . zijn voor
+ons, boertjes van buiten, iets bij
+
+zonders. . . . Hevig interessant !
+Behooren dat, tenminste, te zijn !
+Zij die er habitué's zijn, vinden
+dat niét. Vroeger, ja tóén had
+je nog. . . . Enfin, U kent dat!
+Maar laten introducés" niét
+iets mompelen van eigenlijk niets
+aan".... Het past hun niet de
+illusie te verstoren en de marionet
+
+ten, die hier, innerlijk verveeld, hun
+rol spelen, af te vallen. . . . Dat past
+volstrekt niet! Hun past 't, alles door
+rosse gloeden romantiek en artistieke
+dampen interessantigheid te zien en
+er. bij voorkomende gelegenheden,
+mondeling dan wel schriftelijk, liefst
+gedrukt, van te verhalen in termen
+waar de sappen van het volle, dende
+
+rende, bruisende, hevige, van alle
+menscbelijke, boven- en
+ondermenschelijke hartstochten, verrukkingen
+en bedwelmingen barstende léven,
+bij klodders van afdruipen. . . .
+lïn past 't geweldige verhalen op
+te hangen van de, alle excentrici
+
+teiten kloppende celeberiteiten, die
+zij daar, saamgeperst, rond de tafeltjes
+mochten aanschouwen; van, alle rare
+juffrouwen" den loef afstekende
+Hetearen, die er hun prooien met
+superhypnosebiologeeren; van alles slaande,
+wonderlijke gewaden van
+zwarterdan-zwarte Oosterlingen, of blonder
+
+dan-blonder Noorder-ditos; van,
+alle mogelijkheden van verwaarloozing
+en schilderachtigheid vér achter zich
+latende, straat-typen. . . .
+En het past niét te zeggen, dat je
+op een goeden avond, om en nabij
+de Leestafel van American, bij Schil
+
+ler, of, later, op De Kring, dingen en
+menschen ontwaart, die minstens
+even bijzonder en interessant zijn.
+(En zoo hél veel bijzonders en inte
+
+ressants is dat, ik fluister 't angstig
+terzijde, naar U weet, óók al eigenlijk
+niet !) Evenmin, dat wijlen Had-je
+me-maar minstens een even typisch
+type was als wat daar, op het
+MontParnassische trottoir, voor geïnte
+
+resseerde Missen en juf- en mevrou
+
+wen, als kampioen-,,engerd" fungeert.
+Maar góéd dan ! Het fameuse
+Mont-Parnasse, met zijn Rotonde en
+de Döme, nietwaar ! Waar héele
+Hollandsche volksstammen, de ar
+
+tistieke vooraan, zoo'n heimwee naar
+kunnen hebben; stammen waarvan
+men altijd wel enkele leden kan ont
+
+waren, 'n beetje bedviusd gezeten op
+de terrassen daar; even verveeld en
+tegelijkertijd even tuk op het Groote
+Avontuur, dat ook hier meestal
+nooit komt, als bij ons, in Amsterdam,
+thuis.... Nu zijn de terrassen bij ons,
+op een enkele na, dat is waar,
+'s winters niét verwarmd; en 's nachts
+blijven zij, bij ons, niét bevolkt. En
+zooveel taxis zijn er óók niet !. . . .
+Eén ding echter is ongetwijfeld
+ganschelijk anders ! De artisten heb
+
+ben er initiatief en weten, anders
+dan bij ons, de illusie-van-den-burger
+energiek en dikwijls ook artistiek"
+te exploiteeren !. . . . Loopen zij bij
+ons soms tusschen de tafeltjes door,
+met aanbiedingen van Uw portret
+in drie minuten"; of van, dikwijls
+zér geslaagde, verbeeldingen van de
+entourage zooals men die zoo graag,
+romantisch en vitalistisch
+angehaucht", wil zien als geïnteresseerd
+toerist ?. . . .
+De ets van Reynhold Kalunine,
+hierbij gereproduceerd, is een goed
+en knap voorbeeld van zulk een ver
+
+beelding.
+A. K. v. d. TOI .
+LIEFDE
+IN DE PORTIEKEN
+roman van
+JEF
+dezen tijd door
+LAST
+ZOOEVEN VERSCHENEN: F. 1.50 F. 2.25
+IN ELKEN BOEKHANDEL VERKRIJGBAAR
+N.V.SERVIRE - DEN HAAG
+
+</text>
+<image timestamp="2002:09:26:22:54:38.00" size="245302">00000A83.TIF</image>
+</page>
+</document>

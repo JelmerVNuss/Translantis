@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19231208</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer". Weekblad voor Nederland van 8 December 1923
+,
+* i ^ J ^** i "* *
+DE NIEUW E R IJ K SKA N S E LI ER IN I&gt; I-f 9 C fc4JÏ1*0
+Nadruk
+j 4 -» 11-r c* &lt;* k o. ..i ."". r
+^ \ .
+EBERT
+WlRTH
+MARX
+CUNO STRESEMANN
+
+
+Amst. Boek- en SteendrukkerQ. v'h. Ellerman, Harms &amp; Co.
+De onberijdbare ezel
+
+</text>
+<image timestamp="2002:08:26:19:37:16.00" size="281808">D10003Y5.TIF</image>
+</page>
+</document>

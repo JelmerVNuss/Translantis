@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300927</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 27 SEPTEMBER 1930
+No. 2782
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+mmmm (naar VERKIEZING met RIJTUIGEN of AUTO'S]
+CREMATIE - TRANSPORTEN.
+N. V. Meubelmagazijn Eden"
+MOLSTEEG ~ AMSTERDAM
+BOEKENKASTEN
+Waarborg voor de fijnste
+kwaliteit
+geven U Maggi's Bouillonblokjes. Zij zijn
+bereid uit de beste grondstoffen en bevatten alle
+bestanddeelen van zelfgetrokken vleeschnat.
+DKayqi's
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+BEGRAFENISVEREENIGING
+
+R SAX Ir.
+F.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24350
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 AMSTERDAM Tel. 42662
+MARMERWERKEN
+W. H* POLMAN TUIN
+OVERTOOM 526 -:- Tclcfooo 82660
+Begrafenissen - Transporten - Crematies
+Moccaboontjes
+De geuren van de
+koffie van Java in
+een bonbon van
+Droste".
+uel toe,
+datgeDrosles
+krijgt-:
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+meer dan 70 modellen
+
+Prijzen van 160.- af
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:04:18:51.00" size="221038">000008JK.TIF</image>
+</page>
+</document>

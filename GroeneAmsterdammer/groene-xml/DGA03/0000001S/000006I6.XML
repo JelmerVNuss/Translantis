@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280421</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE GROENE AMSTERDAMMER VAN 21' APRIL 1828
+No. 2655
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+GERARD B. RIJKE Jr.
+\ BINNEN ARCHITECTUUR
+\ KEIZERSGRACHT 559 - Telef. 30559
+| Complete Meubileering
+VOOR BETERE MEUBELEN
+
+ARNOLD HOUTSCHILT
+
+AMSTERDAM
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+wiiiiiNiiiiiiiiiiiuimiiiiiiiiiiiiiiiiimiraiiiiniuiiiiiiiwiiiiiiiiiniKiNn
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BU om verkrijgbaar
+N. R. V. MONTA SCHOENEN
+Deze zeldzame schoonheids-talisman stelt haar in
+staat om geheel haar lichaam dezelfde schoonheid
+te geven als haar gelaat. Haar handen, armen,
+hals en decolletéverkrijgen dezelfde onvergetelijke
+matheid en frischheid. Dit harmonisch geheel, die haar
+in schoonheid doen uitsteken boven anderen, dankt zij
+aan de VELOUTY de DIXOR, die zelfs haar meest
+delicate toiletten niet vlekt.
+» Terscheidenevorstinnen.de meest beroemde actrices
+kenV nen en gebruiken de VELOUTY de DIXOR. Verkrijgbaar
+in tuben van f 0.35 af, in kleuren Wit, Naturelle. Ivoire
+en Ocre, bij alle dameskappers en parfumerie-handelaren.
+Een doosje met proeftuben, In vier tinten, worden U toegez.
+na ontv. v. f 0.25 aan Dostz.,ond. lett. G., door den vertegenw.
+v.Ned.en Kol.N.E.v.d.Laaken,Leidschek.98,A 'dam.T.36372
+c/
+'G-K in
+l de wctfc
+nji 9
+LJaalmans (
+KON. STOOMWASSCHERLJ
+EN BLEEKER1J
+
+DAALMANS
+GOUDA TEL 95
+AMSTERDAM TEL3534O
+DEN HAAG TEL7233O
+OE BESTE ENCOtDKOORiTE
+OVEBAL VE.PKBYGBAAQ
+AORCi Vo HANDEL
+JOH M.VAN DER MEIOEN
+AME.RSFOOPT
+
+</text>
+<image timestamp="2002:09:04:12:50:15.00" size="236306">000006I6.TIF</image>
+</page>
+</document>

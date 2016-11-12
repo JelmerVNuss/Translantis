@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300315</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+t**£$* e. DEENIK Jr.,
+MAART ;t930 des avonds
+aris-HIDBE
+MEEKf^3Hf ;* lat- net'openbaar
+" -* * J
+M A NS H U IS
+niet tu^tf «^ iEfve, gutt«ttj| gelegen juin de •
+' ' * '' S;Yj&gt; 'i f? ,'j, '$ l* -.'"':' '•-	'
+
+" r^facht 700
+déRegullersgraeht, Kad. Sectia I. Nr. 6618, groot
+
+7 AREN 62 Cent.
+_ jr^ea^ van centrale verwarming en verdere gemakken,
+jaoal^"door gegadigtfen '- kan Ivorden bezichtigd des
+"ïgs «n B&gt;onderdag« alsmede pp den verkoopdag
+tot 4 «ór. t
+N.Vi.QWdt «i -Militaire Kleermal^er||
+DEKKER tlI||:STRA VOORHEEN
+ÓÈRV©^ •*£ VAN
+DIJKLeveranciers van Ifdijptche Uitrustingen
+MEtlWE GRACHT 6. ;
+^r.G.J.GEERS
+
+NAMUNO
+OiHETKARAKTERVAN
+HETSPAANSCHEVOLK
+wms .'. (0,75
+UITGAVE VAN&gt;
+J.6.WOLT5RS
+GRONINGEN, DEN HAAG
+Dóór , J)ct «cheele
+téontbieden
+
+r*'f, * :*7- ,- '^ - ,
+M^ir* t^'i ~ v H * * ; £* ^ t ""^ .**
+&amp;' ' ir'^'V "" " l ^ *"^"'T»*'1L , j ( ^ L
+S*&lt;N| JP jtff. »» -&gt;^n' ,.i l (-^'
+i-,,.i,,,„,.,.. ,1.1	.i-s ii*lmi.ii &gt;a'i.S
+^. , .rr,.,ra
+^ ^y^ ^ ', &gt; j ~&gt;
+OEGROENE AMSTEHDAMME».
+Weekblad voor Nederland
+kost slechts f 2,70 per kwartaal o)
+'O.—oer taar bH vooniftbetallno.
+te koop te Blaricum met goed
+
+gekeurde teekeningen voor
+enkele en- dubbele landhuizen.
+Te bevragen Zonnekant"
+Eikenlaan 25 - Hilversum.
+
+</text>
+<image timestamp="2002:09:25:05:54:54.00" size="633277">00000916.TIF</image>
+</page>
+</document>

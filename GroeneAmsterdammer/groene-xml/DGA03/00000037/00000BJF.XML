@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18891027</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 27 October 1889.
+Onze Reiziger.
+HOOF D DEPOTS
+DEPOTS,
+s. d*:: r A *•" i,: t r i
+BISMARCK SENIOR : Nu, jongen, hond vooral te Constantinopel een oog in 't zeil, en denk aan de botten
+van den Pommerschen grenadier.
+BISMARCK JUNMOR: Ik zal er voor zorgen, vader; en U bedenkt vast. waarheen de volgende reis zijn zal.
+Wij zijn haast rond geweest.
+Stoomdrukkerij Ellerman, Hanns i Co.
+
+</text>
+<image timestamp="2002:10:03:16:24:51.00" size="431543">00000BJF.TIF</image>
+</page>
+</document>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280721</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER&lt;VAN 21 JULI 1928
+No. ?
+Toen de pers Parijs regeerde
+door Dr. U. Huber Noodt
+TOEKANG AËR
+(Tekst en teekening door J. G. Sïnia)
+Pierre de la CJorce, Charles X
+
+VLUCHT in deze troebele jaren een groot
+deel van het Fransch lezend publiek opzette
+
+lijk naar het verleden? Vaststaat wel, dat de
+litteratuur, overvloedig, overstelpend als haar
+omvang is, in al haar verschillende aspecten
+nooit mér gedrenkt was met de nationale historie
+dan thans. En aangezien de centenaircs het
+menschdom van vandaag nu eenmaal in het bloed zitten
+(een merkwaardig verschijnsel, waar dieper op zou
+zijn in te gaan!) spreekt het vanzelf, dat men zich
+meer dan tevoren maar het teteekent niet
+veel interesseert voor het oogenschijnlijk wat
+rale tijdvak der Restauratie.
+Want 1930 nadert. Dus brengt diezelfde herden
+
+kingsgewoonte mee, dat het nu het ocgenblik
+wordt, ria te gaan, wat er een eeuw geleden ge
+
+beurde. Zoo verschijnen de werken over Karel X
+op de Parijsche boekenmarkt.
+Eén kies ik er uit: de beste studie over de re
+
+geering van den ouden vorst, die boette (vrijwel
+ten onrechte we weten het nu) voor de opeen
+
+stapeling van misverstanden, die zijn /es jaiig
+koningschap hebben kunnen doen beschouwen
+als een bespottelijk anachronisme. Misschien heeft
+de académicien De la Goree (de onsterfelijkheid
+geeft zijn zins-wendingen soms een statig cachet.
+maar het scnaadt niet, soms ook eens Fransch
+van den ouden stempel te lezen) misschien
+heeft de schrijver de anecdotische zijde van
+zijn onderwerp te veel verwaarloosd. Soms is
+het een bijna abstract-wijsgeerigo uiteenzetting,
+waar men de feiten, de werkelijke omstandig
+
+heden niet zonder eenige moeite in klasseert.
+Want in deze jaren en regeeriugslotgevalleri is er
+wel degelijk een plastische kant: de wonderlijke
+ceremonie der zalving te Reinis, bijvoorbeeld, de
+daverende politieke processen, de korte, hijgende
+revolutionnaire worsteling aan het slot, begeleid
+in Algiers door een Engeland trotsende, tot ver
+
+overing uitgroeiende strafexpeditie de geboorte
+van het Noordafrikaansche Frankrijk in een woe
+
+ling van gloeiend zand, hollende paarden, golvende
+ruitermantels, met bloed bespatte lelievanen,
+en het blaffend gebrul der bandieten, het snerpen
+der trompetten, dat klinkt zoowel in Sidi-Ferruch
+als langs de Seine. De beeldende kunst dier dagen
+toont ons deze romantische kruitdampatmosfeer,
+waar de persoon dea konings sterk op den achter
+
+grond blijft. Want hij is oud en niet bestand tegen
+deze rumoerigheid, die vooral te Parijs nauwelijks
+in verhouding staat tot het gewicht der gebeurte
+
+nissen.
+Daartegenover stelt De la Goree het sober ver
+
+haal der voorvallen, de beheerschende omstan
+
+digheden, de verkilling der partijen, de ongesta
+
+dige wijzingen der stemming, kortom de
+philosophie der staatkundige geschiedenis van het
+bewind van den laatsten Bourbon, die de Fransche
+kroon droeg. De vreeselijke ironie der historie
+maakt den erfgenaam van zooveel koningen slechts
+groot, door de waardigheid, waarmee hij weer
+
+stand bood aan een toomelooze oppositie.... van
+papier en drukinkt.
+De zeer groote verdienste van het laatste boek
+van De la Goree ligt in zijn schildering van de
+krachten, die den troon eerst aan het wankelen,
+toen ten val brachten. De beschuldigingen volgden
+elkaar op met een ongeloofelijke hardnekkigheid,
+steeds dezelfde, maar varieerend onder verschil
+
+lende namen. .. . Edicten van het ancien régime,
+decreten der Revolutie worden ingeroepen met
+een gelijke uitstalling van ontwikkeling, hetzij
+om het ultramontanisme aan de kaak te stellen.
+hetzij om een vermaarde orde te vernietigen.
+Dezelfde mannen, die, door het Katholicisme heen,
+den troon beoogen, doen net, of zij den troon
+verdedigen tegen de aanmatigingen der Kerk,
+zoodat de ongeloovigheid zich tooit met het
+koninklijk belang zelf. Vandaar verwarring en
+gevaar, vooral als de regeering even onhandig is
+als de oppositie perfide. ... Tegen de Bourbons
+'heeft de Oppositie de schim van twee groote
+doodeli doen verrijzen: Bonaparte eerst, daarna
+Voltaire. Gisteren onder Lodewijk XVIII was het
+schrikwekkend spookbeeld vooral Bonaparte; nu
+is het, meer nog dan Bonaparte, Voltaire." ,
+De ware zetel dezer oppositie bevond zich niet
+in de Kamers, niet in het leger, evenmin onder
+ambtenaren, adel, burgers of kleine luyden. Iri
+het maatschappelijk samenstel heeft n orgaan
+zich gansch van het verzet meester gemaakt:
+de pers." De ontstellende macht van de journa
+
+listen over de openbare meening, in zekeren zin
+zelfs inplaats van publieke opinie vond ik nog
+nergens zoo nadrukkelijk, haast verbijsterend,
+aangetoond.
+De pers onder de monarchie van Karel X is
+een kracht, die zichzelf pas ontdekt heeft, en eeri
+magischeii invloed uitoefent op haar lezers, die
+ook nieuw" zijn, ongewend, niet'op hun hoede,
+ongewapend; denkend, dat zij zich verlichten,
+worden zij slaal'sche werktuigen van een partij
+
+parool, vooral in de provincie, waar men de
+komst van de post met ongeduld verbeidde, de
+bladen van A tot Z las en besprak. In die dagen
+waren de gilden verdwenen, zekere stedelijke
+corporaties door de li evolutie weggevaagd, de
+parlementen bestonden niet meer. Voor de bena
+
+deelde belangen stonden slechts twee wegen open:
+een petitie aan de Kamers en de pers.
+liet koningschap, in de worsteling tegen de dag
+
+bladen haast verstikt, tracht op hot laatst door een
+buitengewone krachtsinspanning zich vrij te
+maken, maar bezwijkt bij die poging. Sinds het
+begin der Restauratie zijn er zes perswetten uit
+
+gevaardigd, is de eens-uur viermaal ingevoerd of
+afgeschaft. Xoch strengheid, noch lijdzaamheid
+heeft de journalisten ontwapend, dio toegeven
+bespotten als zwakheid en krachtige; maatregelen
+geeseleii als dwingelandij. De ordonnanties, ge
+
+publiceerd in den J\Ioriiteur van UU Juli 18150 geven
+den bladen der oppositie gelegenheid hot masker
+af te werpen: niet het miiiisterie-Poligriao be
+
+strijden ze, doch de monarchie. Do journalisten
+winnen eerst advies in bij Dupin. die als jurist
+verklaart, dat do decreten, onwettig zijn, maar als
+politicus zich niet uitspreekt. Een commissie
+bereidt een gemeenschappelijk protest voc.r; Thiers
+stelt het vermaarde document op, signaal en mani
+
+fest der revolutie tegelijk: zonder schikkingen,
+heftig, maar ernstig. Het stuk besluit: ..Vandaag
+heeft de regeering haar wettig karakter, dat gehoor
+
+zaamheid oplegt, verloren. Wat ons betreft, wij
+bieden haar weerstand. Het staat aan Frankrijk
+te oordeelen, hoever zijn eigen verzot zich moet
+uitstrekken."
+Vier-en-veertig journalisten onderteekenden deze
+regels, liet manifest verschijnt in den ochtend
+van 27 Juli in National, Temps en Globe. Als de
+politie de oplaag in beslag wil nemen, zijn de meeste
+exemplaren reeds in omloop. Bovendien wordt de
+oproep door middel van aanplakbiljetten verspreid.
+Het resultaat is verbluffend: den 2Gen is de orde
+nauwelijks verstoord; in den ochtend van den 27eii
+verschijnen de eerste teekenen van gisting; tegen
+den avond ontwikkelen zich de symptomen van
+oproer zóó, dat het bewind overstelpt wordt en
+dat de parlementaire oppositie genoopt is. eenbewe
+
+ging te volgen, die aan haar leicHng ontsnapt, indien
+zij daar al ooit aan heeft gehoorzaamd; in den nacht
+van 27 op 28 Juli komt de opstand tot organisatie
+en wordt zich zijn eigen kracht bewust. . . .
+De lozing vooral van de laatste bladzijden is
+bijzonder suggestief, leder, hoe oppervlakkig hij
+ook op de hoogte moge zijn van Fransche toestan
+
+den, wordt getroffen door een onmiskenbare ana
+
+logie tusschen toen en thans. Het is werischelijk
+het volslagen gebrek aan invloed van deri parle
+
+mentairen strijd" op de massa toe te schrijven aan
+verschillende oorzaken in heden on verleden.
+Maar als voorbeeld van de huiveringwekkende
+macht, die do Fransche pers op het zoo gretig
+lezende en heftig reageerende publiek kan doen
+gelden, mist de Juli-revolutie noch belang, noch
+actualiteit. In geen land van West-Europa is do
+gezindheid van alle lagen der bevolking zoo onder
+
+worpen aan denkbeeld of fantasie van den jour
+
+nalist als in Frankrijk. - s
+/Iet woord ,.foe/;iiity" du«lt in hei iflyemi'; ,* ,:-"ti
+beroep of ambacht &lt;inn en n:on!t altijd i/evolyd .'/&lt;,&lt;./• een
+woord, dat dor liet beroep of am'Ktc/it l/e/taalf. /.&lt;&gt;« /.s
+ce,n loekaiifj (t.e,r een 'tcrtlerdra'/er (aer = tJ'alej'j. &gt;i'e!!;e
+niMiije persoonlijkheid in Inili'. iri&lt;ur ../•,-/ »v/
+hier en daar primitieve, toestanden bestaan. &lt; &gt; t&lt; feit.
+voorkomende verschijn inr/ is. Hij ilraaat In-I
+dfitikcater aan, vultden mandibal', maar /reedt nol,- n-el u/i..
+in dienst der overheid, als siruleimiiroeicr. Mijn
+plaatje yeeft een (lerye.l ijken &lt;/e&gt;r!ehti&lt;/en JHiirtinmiris..
+
+
+
+Tentoonstellingen
+
+Stedelijk Museum, Amsterdam. Tentoonstelling;
+Olympische Spelen. Schilderijen, teukeniiigeii on
+beeldhouwwerk. Tot 15 Augustus.
+Art.i et Amicitiao, Amsterdam. Tentoonstelling
+van schilderijen OH beeldhouwwerken, tor
+gelegenhoid van do Olympische Spelen. Tot l") Augustus
+Nenijto, Rotterdam. Handel en Industrie.
+Tot l September.
+Atelier Blaricummertollaan Jll, Bla.rieum.
+Wer-ken van. LouLoebereri Dirk Koning. Tot. l September..
+E. J. van Wisseling!! on Co., Amstenlani
+Hollaiidscho en Franscho schilderijen uit do l'.'e en.
+lüo eeuw. Tot l September.
+J. II. de Bois, Haarlem. Moderne schilderij-u en
+toekeningen. Tot l September.
+Willem Brok. Hilversum. Schilderijen, teeki-nin
+gen etsen en houtsnedoii. Tot l September.
+Verbetering
+ArtÊstU'Si Kintlnv
+
+In mijne bespreking van het bij do firma Met/
+en Co to Amsterdam verkrijgbare artistieke
+kinderspeelgoed (zie do Groene Amsterdammer
+van 23 Juni 1.1.) hol) ik gesproken over vervaar
+
+diging in een ..fabriek vt.or houtbewerking ..Duin
+en Bosch" te Apeldoorn.
+Thans blijkt mij dat dit niet geheel jui.-! is ei;
+dat het speelgoed &lt;ip de n-erki&gt;laatsen ..ller/i en
+Jtosch" aldaar tot stand komt. Ook kan ik thans.
+don naam van den ontwerper der diverse modellen.
+vermelden, die ./ac. \'erzttn lieet. Ik &lt;(&lt;"• &lt;Ut.
+met des te moer genoegen, omdat hem inderdaad
+alle eer van zijn. werk toekomt.
+O. v. T.
+BRANDBLUSSCHER
+HOLL ANDIA"
+SPAN J AARD *C2
+• ' " - FABRIEK ESPAK1A
+UTRECHT
+
+</text>
+<image timestamp="2002:09:04:22:29:28.00" size="241360">000006R9.TIF</image>
+</page>
+</document>

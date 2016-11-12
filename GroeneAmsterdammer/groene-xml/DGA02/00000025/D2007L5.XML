@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920306</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het laatste slachtoffer van de pantoffelrede.
+HI1VOEGSE
+r
+GSEL van de .\-,=terdwmcr V&lt;"*&lt; hl r- N •rWkr/.. van 6 Maart 1802.
+dcrm^iila: M;iar Sire! Ik dacht, dat alleen de mopperaars pantoffels droegen.
+Keizer Wilhelm: Ja, lieve kind, ik ben zelf' de ergste inopperaar.
+
+</text>
+<image timestamp="2002:10:03:17:54:44.00" size="394115">D2007L5.TIF</image>
+</page>
+</document>

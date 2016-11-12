@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000923</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMM'EVR WEEKBLAD VOOR NEDERLAND.
+Chamberlam en Salisbury lezende déNederlandsche Troonrede.
+Vuile wasch! (Wahre Jaeób, Stuttgart);
+CHAMBERLAIN: »Zie je wel, die Hollanders houden nog evenveel van ons als vroeger!"
+
+De droom van John Buil. (Kladderadatseh). Sans adieux. (Xederl. Sp-ctator).
+De mogendheden draaien het spit en... ik eet later het
+gebraad op!
+
+Waldersee's uniform. (Lustige BKtter).
+Oosr PAUL : »Ken eerste klas, asjeblieft."
+DE IJKAMT.TB : «Enkele reis..."
+Oosi PAUL: »Neen, waarachtig niet! Retour!"
+
+Het alleenstaande Rusland. (De/r Floh).
+- ._... ._
+DE Rus : Ik ga heen, inbreken is zonde, wanneer iedereen maar
+zoo'n klein beetje kan krijgen. Ik kom later allén terug."
+De Record-dame. (Caran d'Ache in den Figaro).
+Zy is nog niet klaar, maar reeds geprojecteerd,
+Een beetje van alles, haal slim gecombineerd,
+Zóó moet iemand gekleed zyn die allen kommandeert.
+DE JUFPB'UW : «Helaas meisjes, de vlekken gaan er niet uit !"
+Uit Ie Journal de Parijs.
+Engelsche krygsdans.
+Uit Transvaal. (Der FloJi).
+&gt;Nog nmaal Roberts, voor wij scheiden!''
+
+
+Een luistervink. (Nnv-Yorl: *\\'orll).
+HALTEN: Transvaal—China.
+BELLONA : »En nu op weg naar liulgarye l"
+VADER NEPTÏNÜS (aan de onderzeesehe labels luisterend): »Goeie
+bemel, wat kunnen ze in die ouwe wereld toch liegen!"
+
+</text>
+<image timestamp="2002:08:15:02:22:46.00" size="422773">D2000MR.TIF</image>
+</page>
+</document>

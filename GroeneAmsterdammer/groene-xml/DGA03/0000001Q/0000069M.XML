@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280204</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De telefonische verbinding van Amerika en Nederland
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 4 Februari 1928
+Nadruk verboden
+Amerika: Ik versta je goed"
+
+
+
+
+Nederland: Maar wij zouden elkaar toch nog beter verstaan, als je niet achter dien muur zat!"
+Amat. Boek- tn Steendr. vjh. Ellerman. Harms 6 Co
+
+</text>
+<image timestamp="2002:09:04:04:12:27.00" size="169771">0000069M.TIF</image>
+</page>
+</document>

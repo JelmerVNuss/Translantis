@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18870424</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 513
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+Bij de woorden, .die uit vreemde talen in het
+cant en slang zyn ingeslopen, vermeldt Baumann
+ook (pag. LXVTII) boosx, verwant met ons wtsew,
+.zuipen. Suis voor jtronken komt herhaaldelijk bij
+onze blijspeldichters voor.
+Behalve booze geeft h\j ook op doxy (liefje)
+dat, volgens hem van het Hollandsche doketje
+«tamt. Hoe Baumann aan dit Holl. woord komt,
+is mg onverklaarbaar waarschijnlijker is het,
+dat doxy verwant is met docke, een min. woord,
+dat volgens het woordenboek van Verdam niet
+alleen wordt aangetroffen, maar wel in de samen
+
+stelling : doekenspul poppenspel. B.
+
+
+EEN ACADEMISCH GESPREK.
+
+Naar het Duitsch van Prof. KAHL VOGT.
+
+Ik weet niet" zeide onlangs een jong col
+
+lega tot my wat ik van onze jongelui moet
+denken. Ze z\jn erg vlijtig, slaan maar zelden een
+-college* over, letten verbazend goed op; houden
+hun dictaat bij alsof ze, als procureursklerken, per
+regel betaald werden, werken zeer behoorlijk in
+Jiet laboratorium en toch komt het mij voor,.
+-alsof bij hen de inwendige aandrift ontbreekt. Zij
+doen alleen • wat hun wordt bevolen; zij houden
+zich alleen bezig met die dingen, waarover htm
+op het examen vragen kunnen worden gedaan, en
+-zij schijnen t« meenen, dat men hun alles moet
+voorkauwen, of op een presenteerblaadje kant en
+klaar moet voorleggen. Het ontbreekt hun aan
+initiatief, aan lust tot een zelfstandigen arbeid,
+die zich buiten den kring van het voorgeschreven
+programma uitstrekt. Het komt mij voor, dat het
+in mijn studentenjaren anders geweest is. W\j heb
+
+ben misschien vaker een college overgeslagen, ge
+
+lukkig onze dictaten ook niet zoo vlijtig gehouden,
+en misschien velerlei zeken verzuimd, die wij
+hadden behooren te leeren; maar wij hadden onze
+liefhebberijen, waarop wij ons met ijver toelegden,
+en in plaats van ons er toe te bepalen, bekende
+zaken te leeren, deden wij ons best om onbekende
+zaken uit te vorschen en onze eigen denkbeelden
+uit te werken. Zooals ik u zei, ik mag niet kla
+
+gen en ik kan meestal met een goed geweten en
+met de stereotype uitdrukking getuigen, dat de
+"heer N. N. mijn colleges vlijtig heeft bezocht,
+maar dit onverstandige hengsten voor het examen
+schijnt mij meer en meer een teeken des tyds te
+worden.'1
+Ge zijt pas een paar jaar professor," zeide
+ik en spreekt ge nu al zóó! Begin niet te
+vroeg een lofredenaar op het verleden te worden.
+Maar laat ons aannemen, dat het is zooals ge
+^zegt, dan zult gij toch als man van initiatief en
+van zelfstandige denkbeelden, ook wel eens hebben
+nagedacht over de oorzaken van het verschijnsel,
+-waarover gij u beklaagt."
+Ik heb daarvoor dikwijls te vergeefs eene reden
+-zoeken te vinden," bekende hij openhartig
+Ik ben niet tot resultaten gekomen, ot althans
+slechts tot zulke, die mij onaannemelijk schenen.
+Onze nieuwere tijd heeft oneindig veel verbete
+
+ringen in het onderwijs aangebracht: wij hebben
+overal goede volksscholen, voortreffelijke middel
+
+bare scholen, gymnasia ...."
+Halt, waarde collega! Met uw welnemen zal
+ik u eene kleine anekdote vertellen. Het gymna
+
+sium van mijne goede vaderstad Gieszen was, zoo
+
+als iedereen weet, in den tyd toen ik het bezocht
+en ook nog later, het slechtste in het geheele
+land en mogelijk wel in het geheele rijk. Geen
+ander gymnasium kan wijzen op een zoo rijke
+literatuur over streken van allerlei aard, die daar
+zijn uitgehaald. Het boekje van Eckstein heeft
+zich immers een plaatsje in onze Duitsche letter
+
+kunde verworven. Welnu, ik heb vroeger een
+«enigszins paradoxaal vriend gehad, die ook dit
+gymnasium had doorloopen, en die met eenig
+zelfbehagen placht te beweren, dat het, juist om
+
+dat het volgens iedereen het slechtste was, het
+befte gymnasium was geweest. Uit geen andere
+school waren zooveel mannen voortgekomen, die
+later beroemd of ten minste bekend zijn gewor
+
+den; geen andere school had zooveel origineele
+koppen in den maalstroom des levens geworpen !"
+Gij bedoelt toch niet...."
+Ik vertol u alleen wat mijn vriend zei en ik
+spreek voorloopig geen eigen oordeel uit, maar
+mijn vriend was paradoxaal genoeg om zijne be
+
+wering te generaliseeren. Hij zei, dat hij bezig
+was met een werk onder den titel Dood aan de
+schoolmeesters, en onder schoolmeesters verstond
+hij alle ambtenaren bij het openbaar onderwijs,
+van de dorpsschoolmeesters tot de mannen van
+den katheder. Die allen, zoo beweerde hij, hadden
+geen andere bezigheid, dan de zelfstandigheid in
+het denken van het hun toevertrouwde jongere
+geslacht langzaam, maar des te zekerder, te doen
+afsterven, algemeene en voor allen geldige regels
+en patronen op te stellen en zoo de
+intelligentiën tot een en hetzelfde peil terug te brengen.
+Veel verwoestender in hare werkingen dan de
+revolutionaire guillotine, was, volgens hem. deze
+schoolmeesters-horizontaal-guillotine, die onver
+
+biddelijk elk denkbeeld, elke initiatief
+afsabelde, dat bij ongeluk een weinig boven de
+voorgeschreven normale maat uitstak. Vroeger,
+toen d« school ellendig was en het leeren
+moeielijk, was er overal overvloed geweest van menschen
+en zelfstandige denkers; thans ging het daarmede
+als met de nationale kleederdrachten, die steeds
+m»er en meer door de algemeene mode worden
+verdrongen. De nivelleering, zoo liet hij hier
+vergoelijkend op volgen, was eigenlijk het
+kenmerk van den tegenwoordigen tijd, en
+van onze gansene hedendaagsche beschaving;
+men kreeg geen macaroni meer in Italiëen
+.geen haaienvinnen meer in Hongkong; men at
+in Kaïro precies zooals in San Francisco, men
+droeg ronde hoeden en kachelpijpen, zoowel in
+Sierra Leone als te St. Petersburg. Maar deze
+uitwendige gelijkvormigheid was slechts de zicht
+
+bare uitdrukking van eene inwendige geestelijke
+eenvormigheid, en deze laatste had men aan de
+schoolmeesters te danhen,"
+Het komt mij waarlijk voor, dat er voor die
+opvatting wel iets te zeggen valt" ze;de mijn
+-collega.
+Niet slechts iets, maar zeer veel," antwoordde
+Jk. Herinner u maar eens uwe schoolkameraden!
+Als ik de mijne de revue laat passeeren, met
+welke ik (lang geleden, dat erken ik!) van de
+eene bank van het gymnasium naar de andere
+verhuisde, dan zie ik er maar zeer enkelen, die
+in hun later levensberoep die kundigheden nuttig
+hebben kunnen gebruiken, welke op het gymna
+
+sium alleen als maatstaf voor bekwaamheid dien
+
+den. Als ik zeer ruim reken, dan hebben mis
+
+schien vijf percent van ons in de klassieke studiën
+doorgewerkt en met de oude talen hun brood
+verdiend; alle anderen hebben ze aan den kapstok
+gehangen, zoodra zij eindexamen hadden gedaan."
+De oude talen" zeide mijn collega
+leverden op het gymnasium, dat ik bezocht, wel
+niet den eenigen, maar toch den voornaamsten
+maatstat voor de beoordeeling der leerlingen.
+Maar wat de latere loopbaan betreft, moet ik
+erkennen, dat ik volkomen dezelfde ervaring heb
+opgedaan als gij."
+Dat begrijp ik! Maar welke conclusie moet uit
+zulke antecedenten worden getrokken, niet door
+enkelen, maar door de opeenvolgende geslachten ?
+Gelooft gij niet, dat zich langzamerhand de over
+
+tuiging opdringt, dat niet hetgeen men zou willen
+doen tot het doel leidt, maar alleen hetgeen men
+moet doen? Gelooft gij niet, dat deze overtuiging
+door overerving steeds vaster wortel schiet en
+eindelijk tot een onbewuste noodzakelijkheid
+wordt? Hoe kunnen nu zulke, zich van geslacht
+tot geslacht voortplantende beschouwingen zich
+anders openbaren, dan in eene van alle zelf
+
+standigheid afstand doende onderwerping aan het
+voorgeschrevene,, zelfs wanneer zich dit als on
+
+doelmatig en nutteloos voordoet ? Brengt gij deze
+algemeenheden op den feitelijken toestand over,
+dan ziet gij een jongen man met (als ik mij zoo
+mag uitdrukken) met hersenen, die tot onderwor
+
+penheid gemodelleerd zijn, ter wereld komen, en
+deze hersenen slechts voor zulke zaken in wer
+
+king brengen, die hem door eene hoogere auto
+
+riteit worden voorgelegd. In de school leert hij
+alleen hetgeen de meester hem voorschrijft; op
+de Universiteit alleen datgene, waartoe het examen
+hem dwingt; en in zijn later beroep voert hij de
+bevelen van boven uit met die mate van ijver,
+die hem wordt ingegeven door de hoop op verdere
+bevoordeeling."
+Gij schildert den toestand wel wat al te don
+
+ker af," merkte mijn collega op. Maar al moet
+ik toegeven, dat hetgeen gij zegt veel waars be
+
+vat, toch zult gij mij moeten toestemmen, dat de
+oorzaken, die gij tracht aa»tewijzen, slechts zér
+langzaam kunnen werken, en dat zij juist daarom
+reeds de verschijnselen, waarover ik mij beklaagde,
+niet in het leven hebben kunnen roepen."
+Ik geef uwe tegenwerping des te eerder toe,"
+antwoordde ik, omdat ik reeds lang tot de over
+
+tuiging ben gekomen, dat noch in de natuur, noch
+in de maatschappij enkelvoudige oorzaken en enkel
+
+voudige uitwerkingen bestaan. Ieder verschijnsel
+is slechts ds resultante van een complex van oor
+
+zaken en krashten, die zich in do meest
+uiteenloopende richtingen bewegen, die elkander zelfs
+dikwijls verstoren en tegenwerken en die slechts
+in enkele punten elkander ontmoeten.
+Laat ons dus zoeken naar verdere oorzaken, die
+zich wellicht eerst in den laatsten tijd sterker
+doen gevoelen. En zouden wij daar wij nu
+toch op het chapitre van de schoolmeesters zijn
+gekomen niet misschien in de nieuwere
+schoolhervormingen verdere oorzaken kunnen vinden ?"
+Daar heb ik ook al aan gedacht", zeide mijn
+collega; maar daar ik het met die hervormin
+
+gen in het algemeen toch eens ben, heb ik. eerlijk
+gezsgd, die gedachte niet verder durven uitwer
+
+ken. Ik zou niet willen meedoen met hen, die
+het kind met het badwater willen wegwerpen.
+Maar toch is het mij dikwijls voorgekomen, dat
+de bonte samenstelling onzer schoölprogramma's
+velerlei nadeel medebrengt."
+Kom, zeg maar ronduit wat ge op het hart
+hebt! We zijn immers onder ons!"
+Wel nu dan," ging mijn collega voort
+ik heb die ondervinding bij mij zelven opgedaan.
+Het is niet zoozeer de overlading der leerlingen,
+waarover men zooveel spreekt, als de overlading
+der programma's, waaronder wij reeds hebben
+geleden en onze opvolgers op de schoolbanken
+nog meer zullen lijden. Het moet den jongens
+immers groen en geel voor de oogen worden, wan
+
+neer zij zich dag op dag nu op het eene, dan op
+het andere onderwerp moeten afbeulen: oude
+talen, nteuwere talen, geschiedenis, aardrijkskunde,
+natuurwetenschappen, wiskunde, en de hemel
+weet, wat nog meer; alles in n zak gestopt!
+Er zijn zeker heel goede worsten, die men met
+genoegen eet en ook goed verteert; maar alle
+dagen worst en nog eens worst, schijnt mij geen
+gezonde voedingswijze toe."
+Alles durcheinander. wie Miïusedreek und
+Coriander", placht de oude Nagel e te Heidelberg
+te zeggen en dan streek hij met zijn wijsvinger
+langs zijn grooten neus. Gij kunt wel gelijk hebben,
+collega. Afwisseling moet er zijn, dat spreekt,
+maar bij elke goedgeschikt menu behoort, zooals
+onze naburen plegen te zeggen te zoggen, une
+pièce de résistance. Vroeger waren de oude talen
+dat, en al het overige was maar bijwerk. Nu heeft
+men ze zooals de classicisten zeggen, tot eenmi
+
+nimum gereduceerd, maar men discht zo nog altijd
+op. In plaats van de hoofdschotels te verwis
+
+selen geeft men slechts entrees."
+Dat is waar. Maar in welk verband staat dit
+nu, volgens uwe meening, tot de verzwakking van
+het initiatief en van het zelfstandige willen en
+denken ?"
+Eenvoudig in dit verband, dat de jonge man
+op ieder gebied van kennis, waarop hij vroeger
+van zijn oude talen, naar gelang van zijn lust en
+zijn aanleg kon afdwalen, nu reeds een voorge
+
+schreven hoeveelheid vindt, die hij naar binnen
+moet werken, al heeft hij, daartoe niet den minsten
+lust.Vergun mij,nogeens op de jaren van mijne jeugd
+terug te komen. De meeste mijner schoolkame
+
+raden hadden, even als ik, een geweldigen hekel
+aan de klassieken, en waren blijde, als zij de op
+
+gegeven taak hadden afgewerkt. Maar wij hadden
+allen onze liefhebberijen, waarop wij ons met des
+te meer ijver toelegden, omdat zij uit onze in
+
+nerlijke aandrift voortkwamen. Als ik daarover
+nadenk, herinner ik mij, dat deze liefhebberijen
+dikwijls beslissend v erden voor de keuze van ons
+latere levensberoep. Zoo is het mij ten minste
+gegaan. Rupsen zoeken en opkweeken, kapellen
+vangen, dat was mijn liefhebberij en die van en
+
+kele mijner kameraden, en de meesten van dit
+troepje zijn natuuronderzoekers geworden. Deze
+liefhebberijen waren in zeker opzicht ons toevluchts
+
+oord uit den schooldwang, de veilige plek, waar
+wij onze eigen gedachten konden uitdenken. Waar
+moet thans een jonge, vooruitstrevende geest zulk
+eene toevlucht zoeken ? In de natuurwetenschappen,
+in de litteratuur, in de kunst? Overal vindt hij
+het keurslijf, waarin hij zich persen moet."
+Maar gij wilt toch niet tot de oude toestan
+
+den terugkeeren ?"
+Zeker niet! Dr erken het goed recht eener
+veelzijdige ontwikkeling, maar ik zou niet willen
+vervallen in de fout, die men overal heeft gemaakt
+door toe te geven aan de eischen van den nieuwe
+
+ren tijd, zonder het verouderde met beslistheid
+over boord te werpen."
+Ik begrijp wat gij bedoelt. Maar het bevre
+
+digt mij nog niet geheel. Het komt mij voor, dat
+nog andere oorzaken moeten medewerken."
+Ongetwijfeld. Maar daar gij, naar uwen leef
+
+tijd te oordeelen, waarschijnlijk officier van de
+reserve zijt en misschien wel een militairen titel
+op uw visitekaartje hebt, zooals zoovelen uwer
+ambtgenooten van uwe jaren	"
+Pardon, ik werd voor den verderen dienst af
+
+gekeurd en had niet de eer..."
+Dan kan ik ronduit zeggen, wat ik bedoel.
+Ik ben namelijk van meening, dat de algemeene
+dienstplicht, met alles wat daaraan is verbonden,
+langzamerhand de individueele zelistandigheid ge
+
+heel zal vernietigen, en juist uwe opmerkingen,
+met welke ons gesprek begon, versterken mij in
+de overtuiging, dat deze instelling, tegen welke
+van een ander standpunt principaal niets kan
+worden ingebracht, werkelijk verwoestend in de
+aangegeven richting werkt. Er is helaas niets
+absoluut voortreffelijks op deze wereld, en in de
+andere, als zij ten minste bestaat, wat ik zeer
+betwijfel, nog veel minder! Denk de zaak toch
+wat dieper door, waarde collega: Is niet alles, wat
+met onze school en onze opvoeding in verband
+staat, aangelegd op ons volksleger, zooals men
+het pleegt te noemen. Het leger is uit den aard
+der zaak gehoorzamend, zooals eene bekende de
+
+finitie zegt. Uitgaande van het examen voor
+Einjahrig Frehoilliger dringt deze instelling,
+waarin gehoorzamen de hoofdzaak is, door tot
+alle middelbare scholen, alle hooge scholen, alle
+verhoudingen des levens, tot in den rijpen
+mannelijken leeftijd: onder alle omstandigheden be
+
+houdt zij (even als bij de begrooting!) de eerste
+plaats.. De soldaat verwacht, welke zijn rang ook
+moge zijn, altijd bevelen van zijne chefs. Gelooft
+gij niet, dat de invloed hiervan zich ook op elk
+ander gebied doet gevoelen ? Gij zijt in
+wetenschappelijken zaken de chef van den onder u
+staanden vrijwilliger; van u verwacht hij, even
+als 'in den dienst van zijn luitenant, het wacht
+
+woord en de dagorder. Hij mag in den dienst
+niet zelfstandig denken ; waarom zou hij het in
+de stulie doen?"
+Veroorloof mij, hier ons gesprek af te breken,"
+zeide mijn collega, op zijn horloge ziende. Mijn
+studenten wachten mij."
+(Neue Freie Pi;
+[Naar het ons voorkomt, zou Prof. Vogt zich
+juister hebben uitgedrukt, wanneer hij, in plaats
+van den algemeenen dienstplicht, het eigenaardig
+Pruisisch militarisme verantwoordelijk had gemaakt
+voor de neiging, die zich bij zijne landgenooten
+schijnt te openbaren, om de dressuur uit het
+exercitie-veld op wetenschappelijk gebied over te
+planten. Overigens willen wij niet geacht worden,
+het met de boutade van den beroemden
+hoogleeraar geheel eens te zijn. Het kwam ons echter
+interessant voor, in deze veelbesproken quaestie
+ook het woord te geven aan een man, die door
+zijne scherpzinnigheid, zijne geleerdheid en zijn
+zelfstandig denken een welverdienden naam heeft
+verworven, on die reeds meer dan n geslacht
+op den weg der wetenschap heeft voorgelicht. RED.]
+VARIA.
+
+Ook te Zürich zal de Antigone van Sophokles
+in den Stadsschouwburg door studenten en gym
+
+nasiasten in het oorsponkelijke ten toonoele ge
+
+voerd worden. De koren zijn door den kapel
+
+meester Hegar op muziek gebracht, de directeur
+van de studenten-zangvereeniging laat ze
+instudeeren. Een paar der professoren houden zich
+met het teekenen van costumes en plannen voor
+de decoratiën bezig.
+Waarschijnlijk zal in den nazomer, ter gele
+
+genheid van het philologisch congres te Zürich,
+de voorstelling herhaald worden.
+
+Te Munchen is in het hoftheater een nieuw
+muziekdrama, de Faust van Zöllner, directeur der
+Keulsche mannenzang-vereeniging, in studie ge
+
+nomen. De Faust van Zöllner volgt de tragedie
+behoudens eenige verkortingen, op den voet. Toch
+is niet, gelijk men uit het woord muziekdrama"
+zou afleiden, Wagner's manier vooral gevolgd;
+eer doet de wijze van behandeling, die vol schoon
+
+heid en oorspronkelijkheid is, aan Schumann
+denken. Do titelrol is voor baryton geschreven,
+en Gura is er voor aangewezen ; de partij van
+Gretchen zal door Frl. Dreszler vervuld worden.
+Reeds in liet eind van den zomer, als de stroom
+van toeristen, op zijn bezoek aan de Koninklijke
+lustsloten door Munchen gaat, zal het werk worden
+opgevoerd
+
+Te Bernburg overleed dezer dagen de redacteur
+van het Bern burger Wochenblatt, Alexander Meyer,
+die eene unieke plaats onder de dagbladredac
+
+teuren vervulde. Hij schreef toch nooit een regel,
+en leverde toch zijn copie vlugger af dan eenig
+ander. Hij zette haar namelijk zelf. De
+redacteurletterzetter was spoediger met een artikel gereed
+dan een zyner collega's en zorgde wel dat er weinig
+cerrectie in was.
+Bij de steeds toenemende volmaking der schrijf
+
+machine en der zetmachine is het te verwachten,
+dat in de toekomst redacteur en zetter elkander
+zullen ontmoeten, maar tot nog toe was Meyer
+als bijzonderheid ver buiten de grenzen van
+AnhaltBernburg bekend.
+
+De heer Lamoureux, directeur van de groote
+concerten te Parijs, heeft een civiel proces inge
+
+steld tegen den heer Louis Peyramont, hoofd
+
+redacteur van het blad La Revanche. In de
+dagvaarding heet het dat de heer Lamoureux, sedert
+de opvoeringen van Lohengrin aangekondigd zijn,
+onophoudelijk het voorwerp is van de boosaar
+
+digste aanvallen van de zijde van den heer
+Peyramont." De heer Lamoureux vraagt van z^'n
+tegenpartij 25,000 francs schadeloosstelling voor
+het nadeel dat deze beproeft hem te veroor
+
+zaken."
+
+De directeuren van de Milaneesche Scala, de ge
+
+broeders Corti, hebben met Verdi's Otello een
+voordeelig seizoen beleefd. De gezamenlijke uit
+
+gave» van het tooneeljaar bedroegen 600,000 Ure.
+Daartegenover staan: 300,000 lire als subsidie
+der stad Milaan; 115.000 lire als bedrag der
+abonnementen; 113.000 lire als opbrengst der
+drie eerste voorstellingen van Otello; 242.000 lire
+als opbrengst der volgende 22 voorstellingen be
+
+rekend ; totaal 787.000 lire. Al had nu het ver
+
+dere seizoen, en van de 40 andere voorstel
+
+lingen waren de meeste zeer goed bezocht, niets
+opgebracht, dan hadden de gebroeders reeds 187,000
+lire te verdeelen.
+
+Sardou is bezig aan een drama a grand
+spectacle, dat gedurende de groote tentoonstelling
+van 1889 in de Porte-Saint-Martin zal worden
+opgevoerd. Het zal de verschillende gebeurte
+
+nissen der negentiende eeuw ten tooneele voeren
+en heeten Un siècle, of misschien Quatre-vingt
+dix-neuf.
+
+Van de Wandelingen door Nederland, bij H.
+D. Tjeenk Willink te Haarlem verschenen, is
+eene nieuwe reeks begonnen. De bekende wan
+
+delaars, de H.H. J. Craandijk en P. A. Schipperus,
+hebben besloten, weder, de een door zijne pen,
+de ander door zijne teekenstift, den Nederlan
+
+ders hun land te doen kennen, en ongetwijfeld
+zullen de verhalen dezer aangename voetreizen
+weder met evenveel belangstelling ontvangen wor
+
+den, als de vroeger verschenene.
+Ditmaal zullen het eerst worden beschreven de
+wandeltochten naar Barneveld, Twello, Valkeveen
+in het Gooi; de kasteelen Doornenburg, Rechteren,
+Eerde, Wychen e. a. zullen bezocht worden, en
+ook de omstreken van Haarlem, den Haag, Arnhem
+en Breda zullen stof leveren voor nieuwe zwerf
+
+tochten.
+
+De firma Frederik Muller &amp; Co., Doelenstraat
+te Amsterdam, heeft weder een harer belangrijke
+catalogen van geprijsde boeken doen verschijnen,
+welke door de bibliophilen in alle landen ge
+
+waardeerd worden. Ditmaal vermeldt de catalogus
+4300 werken, op het gebied van theologie en ver
+
+wante wetenschappen, Hebreeuwsch, Chadeeuwsch,
+Kerkgeschiedenis, Martyrologie, Dogmatiek, enz.
+waaronder zeer kostbare en zeldzame.
+De Wereldburger is de titel van een Orgaan
+ter bespreking van Nederlandsche belangen in den
+vreemde en Overzeesche bezittingen", dat bij de
+H.H. K. Spijkman &amp; Co. te Amsterdam uitkomt.
+Het eerste nummer bevat vier artikelen over
+Zuid-Afrika, en een over Amerika, benevens een
+premie-aanbod, bestaande in eene reis naar Ame
+
+rika, onder geleide van den heer Lissone. Omslag
+en illustratie geven niet den indruk van artistieke
+bedoelingen.
+
+Bij de H.H. Gebr. Braakensiek is ter herinne
+
+ring aan de koningsfeesten eene Feestplaat ver
+
+schenen, die afbeeldingen van een aantal der
+voornaamste eerepoorten, van de galjoot, de
+lampadaires aan de Kalverstraat, enz. bevat. Voor
+een groot deel bestond het schoon der eerepoor
+
+ten in de voreeniging van het groen met de vlag
+
+gen, de bloemen en de bonte kleuren, zoodat dit
+met het eenvoudige zwart niet tot zijn recht is
+gekomen, en men vaak meent, in.de plaats van
+de feestpoort, het geraamte er van te zien; toch
+zal het velen aangenaam zijn, deze plaat als
+souvenir aan de versiering en de geestdrift van
+Amsterdam, tijdens de April-feesten, te bewaren.
+CREDIET t
+
+Een schetsje door W i H A.
+
+Het was nog stil op de groote sociëteit zoo
+
+als men haar te D. ter onderscheiding der andere,
+die der burgers noemde.
+Trouwens om drie uur was 't er gewoonlijk
+stil. Eerst tegen half vier kwamen de
+hapjetwee's".
+Ik dacht er dikwijls over, wanneer ik Hent,
+den zetbaas, aldus het woord habitué's" hoorde
+verbasteren of dit duidelijker voor 's mans brein
+kon zijn: vaste klanten.
+Eens waagde ik de vraag: Maar Hent, wat
+versta jij toch onder: hapjetwee's"?"
+Wat ik daaronder versta, meneer?"'was Hent's
+verbaasde uitroep terwijl hij zyn borstelige wenk
+
+brauwen hemelwaarts trok wel, da's dunkt me
+nog al duidelijk; 't zijn de lui die vast alle dagen
+hier hun twee hapjes komen drinken".
+Thans werd 't mij klaar hoe Hent beter de
+woorden: hapje" en twee" begrijpende dan het
+vreemde: habitué" dit op zijne wijze had
+verhollandscht". Ja, met die Hent kon ik wan
+
+neer 'k met verlof over kwam en 't was zooals
+nu nog stil op de kroeg soms 'n aardig praatje
+maken. En hij was zijn gezelschap best waard,
+dat verzeker ik u.
+'t Was 'n juweel van 'n kastelein. Reeds vier
+en dertig jaar lang had hij jaar in jaar uit"
+de soosjeteit" gepacht. Hij had al meer glaasjes
+getapt meneer, als er straatkeien in D. lagen.
+En als men hem dan ongeloovig aankeek'dan
+zei hij ernstig: Ja en met God en met eere,
+en d'er zelf nog nooit ntje.,..." hier maakte
+dan zijn hand een bekende beweging naar zijne,
+mond en den zin compleet.
+'t Was sterk, maar waar.
+En als hij dan over 't crediet begon, dan eerst
+blonk zijn tronie van edele zelfvoldoening.
+Poffen, meneer!" heette het dan, poffen! 'k
+heb ze wel gepoft die jonge springers met 'r
+
+</text>
+<image timestamp="2002:10:02:03:46:43.00" size="479451">00000B0B.TIF</image>
+</page>
+</document>

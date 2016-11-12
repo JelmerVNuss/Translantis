@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840810</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 372
+,Arr. utrecht: M. "WÜlemse en J. E. de Hart, firma Willemse &amp; Co.,
+Verhuurders van paarden en rijtuigen en stalhouder, recht.-comm. mr.
+R. Melvil baron van Landen, cur. mr. F. J. Claringbould; W. A. Heeres
+commissionnair in sigaren, en ztjn huisvrouw Qt. E. Pieper,
+hoedenmaakster en winkelierster, beiden te Bodegrave, recht.-comm. mr. R. Melvil
+baron van Landen, cur. mr. A. W. Holsteyn; P. H. Hopper, vroeger
+gymnaBtiek-onderwjjzer te Assen, thans koffiehuis- en restauratiehouder
+te utrecht; recht-comm. mr. J. van Walré, cur. mr. F. A. J. A. Bidder
+van Rappard; W. Oosterbeek, winkelier te Baarn, recht.-comm. mr. H.
+Crommelin, cur. mr. M. J. van Oosterzee.
+Arr. Zwolle: J. Kollen Jzn., schoenmaker teLutten, recht-comm. mr.
+F. J. O. van Diggelen, cur. J. H. WickmetJer, deurwaarder te Hardenberg.
+
+
+ITLOTINGEN.
+8 % Loten eeufcv* 1868.
+Trekking T»B 16 Juli. Betaalbaar 16 Au»
+i 10.600 fr. 146183.
+i 1«00 fr. 63570 162815.
+'* 600 fr. 47343 97708 98710.
+» 360 fr. 99790 141687.
+'» 800 fr. 93366 169862.
+Betaalbaar 2 Januari 1885.
+l 116 fr. 943 1886 893 4666 5292 470 6072 280 7202 9958458 493 9364 470 613 750
+10769 11512 724 839 12379 13664 14651 15865 16026 163 655 17315 578 850 948
+18604 706 862 19126 447 20033 121 416 464 470 772 21036 014 10» 998 22088 837
+53666 694 836 24241 25115 821 26056 566 27769 926 28028 319 617 29029 30003 739
+81027 89fi 82518 681 33275 406 433 435 608 747 858 938 35311 405 609 819 36410
+«89 978 8928* 616 886 42168 794 45683 46437 473 561 793 47036 179 18» 800 986.
+48263478 773 60986 61210 62091 141 293 760 965 63018 097 51433 596 822 55145
+189 56387 789 67234 693 683 850 68094 375 59815 61233 62032 518 63114 61035 410
+754 967 65098 991 66480 67019 692 69906 985 70150 181 274 461 998 71134 932
+73141 186 624 73022 690 844 71016 472 994 75260 856 76908 77110 885 78010 79665
+«86 80400 81079 122 236 697 82854 914 83670 84291 t-47 85217 666 919 86095 89192
+689 90117 168 995 91371 628 638 972 92382 650 811 93003 710 91079 739 757 95261
+97067. 364 488 833 995 98507 937 977 92111 606 100351 620 101151 &gt;81 366 102117
+484 977108555 637 888 958 101105 187 777 105111 517 910 106812 107173 501 807
+852 108261 109179 775 817 990 110176 651 783
+111138 193 300 112781 113C26 696 111401 955 115372 3tJ3 407 521 116057 985
+117885:502 613 118180 178 560 818 119126 120177 838 121323 357 122081 667 123530
+682 982126139 904 127089 847 715 755 795 977 129037 391 130239 183 13,U5 721
+182417 456 719 812 875 133205 510 782 131007 909 135236 136697 981 139105 565
+694 140021 198 141016 112068 229 566 113918 111219 835 115182 965 116362 117102
+148842 149569 639 150308 324 151153 958 152051 682 808 861 153119 191 375 151671
+783 157410 510 704 158636 159301 977 160665 161026 186 162050 151 762 877 912
+1083074 880 165114 271 389 732 166101 515 921 168151 370 169223 426 515 584.
+
+
+5% Brazill»an*che Sp**rweg-obllff»tlen.
+(2e emiis.e.)
+• Trekking van 15 Juli.
+Hoe. 42 101 120 157 171 332 431 599 753 916 1182 197 209 277 617 635 675
+744 831 950 - 2284 S02 C5G 763 781 808 887 920 3055 226 219 907 917 348 959
+4115 846 540 595 fi70 706 710 898 5060 321 196 530 890 6077 123 llfi 800
+860;—7081 95 ISO 415 659 8'!2 86G 889 8118 y21 550 880 9171 210 5i:8 556
+638 769 10033 497 7H 782 959 961 lt()9« 196 380 409 581 716 813 819
+12019 181 331 683 712 938 91(1 130X5 190 113 '95 !'2?i - 14058 261 iïi «47 fi64
+831 960 985 15( li 60 1'iS 209 28* 407 BIS 565 597 670 797 b28 883 16390 102
+1756C 653 «95 SSti 18159 160 193 237 712 S67.
+Betaalbaar mtt fr. 500 (nutto fr. 198.50) l Sopt. a, a.
+
+
+5 pCt. fteprivOigcerde r.gyptinch* Scbnld.
+Trekking van 5 Juli.
+
+Betaalbaar 15 Omober.
+'•' I. Eraiea. Nr, 33651—700 45201 -60 59f&lt;01- 60 70401—50 850f&gt;l—50 118901—50
+147751—800 182901—50 213351 -ifiO 23595-232000 271451—500 i £ 20. Nr.
+,850261—70 852351—60 56:&gt;2t SO 357031-40 364141-50 368621—30 872.11—50
+»77281-90 381891—900 8Ü9251-6Üi £ 100.
+Kr, 393161 52 495 96 334241 42 51 52 881 82 395525 26 i £ 500. Nr. 397012
+987 398296 812 a £ 1000.
+Et EmiM. No. 40Ï-191—200 a £ 100. Nr. 426471 72 427367 68 428345 46 a £ 500,
+
+Keulen Mindemer 3 S pVti. lotea.
+
+Trekking van l Augustus.
+Premiën.
+No. 62549 Thr. 65000,62525 Thr. 10000. 133906 Thr. 4000, 133917 Thr. 2000,
+131106 189478 ieder Tbr. 1000, 131122 121118 ieder Tbr. 600.
+
+Loten Stad Bnchareet 1869.
+•'•-••• Trekking van l Augustus.
+De volgende seriën van 100 stukken elk. Betaalbaar l September.
+65 71 126 165 257 271 424 443 577 624 625 694 756 860 908 997 1003
+3073 1416 1468 1513 1621 1949 2219 2247 2382 2634 2697 2776 2928 2999
+8075' 3105 3179 3187 3224 3235 3296 3324 3387 3471 3510 3616 3763 3784
+3807 3819 3854 3887 3898 3956 4059 4081 4147 4170 4298 4461 4588 4777
+4810 4823 4856 4861 4890 4947 5002 5073 5128 5140 5204 5254 5313 5430
+' 5653 5559 5593 5624 5638 5663 5679 5691 5729 5863 5885 5924 5947 6098
+6216 6277 6356 6427 6493 6513 6530 6596 6682 6701 6713 6827 6933 6951
+7011 7134 7246 7331 7467.
+Serie 3235 no. 61 fr, 40,000, serie 3656 no. 39 fr, 5000.
+
+"r '•''"• Parijscbe loten I855/'GO.
+• Trekking van l Augustus.
+'~ 'ÈeZe' .trekking omvat 2161 obligatiën van elke serie, of totaal 6483
+obligatiën. Yan elke serie hebben de volgende nummers de daarachter
+genoemde prijzen.
+Betaalbaar l September.
+No. 112676 fr. 100,000, no. 149970 fr. 10,000, EO. 126904 fr. 10,000, no.
+108863 fr. 10,000, no. 93361 fr. 10,000, no. 147552 fr. 10QO, no. 109860 fr.
+1000, no. 69628 fr. 1000, no. 138903 fr. 1000, no. 138749 fr. 1000, no.
+48474 fr. 1000, no. 70204 fr. 1000, no. 32100 fr. 1000, no. 41293 fr. 1000,
+no. 141430 fr. 1000.
+OVERZICHT VAN DE EFFEGTENMARKT
+4-8 Augustus.
+, Ofschoon de afgeloopen week op eenige fluctuatiön kan wijzen, waren
+over het geheel genomen de affaires van geringe beteekenis. Ter beurze
+gevoelt men zoo geheel en al dat wy midden in het stille jaargetijde
+zijn. Toch hebben wy aan het einde der week op eenige gewichtige fei
+
+ten te wijzen. Ten eerste de inschrijving op onze nieuwe 4% leening,
+dan het mislukken der conferentie over de Egyptische aangelegenheden
+en eindelijk de dobberingen der koersen op de Amerikaansehe
+Spoorwegmarkt.
+De uitslag der inschrijving op de Nederlandsche leening, waarvan alle
+aanvragen tot deelneming ten volle zijn toegewezen heeft ons teleur
+
+gesteld. Wel vernemen wy dat de speculatie /ich grootendoels onthield
+en de ingekomen biljetten het karakter van inschrijvingen tot geldbelegging
+droegen, doch wy achtten den koers van uitgifte werkelijk niet te duur om
+ook ten deele op speculatieve inschrijvingen te hebben mogen rekenen.
+Velen meenden zelfs dat eenige Belgische huizen, die een betrekkelijk
+aanzienlijk bedrag in blanco deden verkoopen, een zeer gevaarlijk spel
+speelden. De uitkomst heeft die vrees gelogenstraft.
+De koers van het nieuwe fonds liep na het bekend worden der inschrij
+
+vingsresultaten, of liever bjj het vernemen dat alle inschrijvingen ten
+volle werden toegewezen, X % terug. Toch gelooven wt) niet dat het
+de contractanten zér onaangenaam is dat de inschrijvingen niet tot
+aanzieniyker bedrag geschiedden. Wij meenen te mogen veronderstellen dat
+zy, de overeenkomst met den Minister van Financiën in aanmerking ne
+
+mende, liever laugzamerhand de leening aan het geldbeleggend publiek
+plaatsen. Nog vernemen wy dat een groot deel van het publiek zich van
+inschrijven onthield, in de veronderstelling dat op de inschrijvingen
+aanzieniyk zoude worden gekort, en men zich niet aan het opvoeren zijner
+inschrijvingen wilde wagen.
+Het mislukken der over de Egyptische zaken te houden conferentie
+veroorzaakte aan de Londensche en Parijsche beurzen eene zér ferme
+stemming. Hoofdzakelijk betrof die de Egyptische fondsen, doch tevens
+werden vele andere soorten daardoor medogesleept.
+De vaste houding der Europeesche beurzen droeg er het hare toe by
+om de Amerikaansehe waarden, die aanvankelijk weder flauw van
+NewYork afkwamen, te Londen en hier meerendeels boven New-Yorksche pa
+
+riteit te doen verhandelen. • Waarschijnlijk maakte diezelfde willige stem
+
+ming dat in het midden der week New-York betere koersan zond, die
+echter in de laatste dagen weder voor lagere pryzen moesten plaats
+maken. Het komt ons voor na nat geen in den laatsten tijd plaats vond,
+dat er hier ongeveer geene baisse engagementen meer bestaan, euovor
+het algemeen goede krachten de Amerikaansehe poorwegmarkt in han
+
+den hebben.
+Als een gevolg dat de Wabash St. Louis en Pacific
+Spoorwegrnaatschappy in handen van receivers geraakte.betaalde de North Missoun pw.Aï.
+deeoupons per l Juli il harer eerste hypo heek-obligatië'nniet.
+Dienaarschappy genoot, en wellicht terecht, hier hot grootste krediet. WiJ
+twijfelen dan ook niet, of die staking zal slechts tijdelijk zijn, en da
+Maatschappij zich van het Wabash-concern kunnen losmaken. He; admi
+
+nistratie-kantoor, onder directie der heeren Stadnitski &amp; van Heukulom c. s.,
+riep de houders van 1ste preferrod Incomeboncis Toledo Peona en Western
+Spw. op in eene ve'gaderirig om over hunne belangen te beraadslagen.
+Zér valt het te betreuren dar, waar eenige heeren zich de njufrite en
+hun tyd goven in het belang der houders werkzaam te zyn, ons publiek
+steeds zoo weinig blijken gnnft, die zorg op prys te sullen. De vei
+gadering was zér slecht bezocht-. Besloten werd het administratiekantoor
+biivef'genoitiiK' uit te noodden iri Amerika de belangen der houders te
+doen byhanke.i, waartoe het zich bereid verklaarde, onder voorwaarde
+dat het grooosie bedrag der zich hier bevindende Incomefaonds zich
+aanlu'.il ide. De koster; zuilen on if e veer l % bedragen, en moet n t&gt;u de
+inievtniiig worden vol-;ann. Wrj achten het onnoodig ons pub iek opliet
+groote belang va» visreeidgd optreden te wilzen, en hopen dat moii m
+zyn eig«l'i belang spord'g het administratiekantoor in staat stelle zija
+uwniirtcit te aanvaardar).
+De toes'and der Tylodo Maatschappy schijnt niet slecht te zijn. Op
+een Irjn van 250 rohleii rust slechts e&gt;;i 1ste hypotheek, grout#4/i. m
+lioen en $ 2.9uO,000 Incomebonds dus nog geen f 3o,üOO per mijl Die
+schuld cuvjui &gt;:us tiiet te hoos Wy vreezen echter dat; men met
+moeieiykheden zal hebben te kampen, daar meer dan de helft der
+incomeiionds zich in handen der Wai&gt;abh Maatschappij bevindt
+Reels zijn de eerste hypotheekhouders opgeroepen maatregelen tot
+bescherming hunner iielaiigi-'n te nemen. Volgens The Chrouicie di-ed
+een der leden van het Ne^-Yoiksche huis dat de oproepii g dted, aan
+den jeponer van The Timts uitkomen dat wanneer het bestuur der
+Wabash Maatschappy begeerde, dat de Toledo Maatschappij de reate
+op den weg niet kon verdienen, zrj zelf den weg in bezit zoude iieniun
+en zoo zuu.le i-xploiteeren dat de opbrengst voldoende voor de rente
+
+betaling zoude zyn.
+Waarschijnlijk is het niet van belang ontbloot voor de houders der
+Toledo Incomebonds dat de he«r Gould, die reeds znn hamer als presi
+
+dent der Nashviile llaatschappy aan een ander moest afstaan, ook als
+president der Wabash Maatschappy is vervangi-n en wel door den heer
+J. T. Joy, die naar wy hopen, ernstig de belangen der Maatschappy zal
+behaitigen.
+Onze Naticnale fondsen toonen alle by de vorige week verlies aan.
+De Nieuwe 4% leenisg die eerst a 102%, later a 1Ü2K% werd Verhan
+
+deld, biyft ten slotte 101%%. Integralen verloren f&amp;%, dneëu z&amp;%, oude
+vieren 1%.
+Hongaarsche fondsen waren voor het meerendeel iets vaster.
+Oostenryksche en Italianen biyven een fractie boven hun vorigen koers.
+Portugeezen gingen V*% vooruit.
+Kussische fondsen zyn van tyd tot tü'd voor binnenlandscha rekening
+gevraagd en K a ^ % hooger.
+tópanjaarden stegen en navolging van Parys %%.
+Turkye Algemeene Schuld en 1869ers iets hooger. De affaires in da
+geregistreerde soorten zyn nog niet van groote beteekenis.
+E^yptenaren sluiten om de hierboven genoemde reden \% % hoog«r.
+Mexicanen, waarvan de houders telkens door uitzicht op
+converaieplannen gevleid worden, verbeterden de afgeloopen week %« % voor de
+ISülens en % % voor de 1864ers.
+Brazilianen gingen weder iets in koers vooruit. Columbianen % %
+lager.
+5 % Peruanen verloren % %, terwyi de 6 % zich ongeveer op hun vo
+
+rigen kos-rs konden handhaven. Venezuela oi.geveer onveranderd. De
+betaling der op 15 dezer vervallende coupon schynt Vorztkerd.
+Naar stede! yke leeniugon was steeds eenige vraag.
+
+</text>
+<image timestamp="2002:08:17:23:59:49.00" size="272828">000002IQ.TIF</image>
+</page>
+</document>

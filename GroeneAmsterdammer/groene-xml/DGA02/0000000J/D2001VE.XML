@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030524</Datum>
+<Pagina>13A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 24 Mei 1903.
+De opening der nieuwe Beurs te Amsterdam.
+JAN PIETERSZ. KOEN.
+r.IJSBREOHT VAN AEMSTEL
+HUGO DE rtRÜO'i.
+K STEDE\TAAGD : Majesteit, cie Stichter van deze stad, de Grondlegger van ons koloniaal bezit, de Kampioen van de Vrije Zee, zij wenschen U te begroeten.
+NINGIN WILHELMINA: Laat hen voorgaan, Mevrouw, wat zou voor een Oranje streeleuder zijn dan hen dd&amp;r binnen aan het hoofd hunner vereerders, ter huldigi
+Amst Kook- en SteeiidruUkerü, v/h. Ellerman, Harms &amp; Co.
+
+ing te mogen ontmoeten ?
+
+</text>
+<image timestamp="2002:08:19:16:23:02.00" size="555199">D2001VE.TIF</image>
+</page>
+</document>

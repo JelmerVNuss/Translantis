@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250228</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2490
+De oplossing van de Telmaeraeck-Puzzle uit het Kerstnummer
+Wij ontvingen van deze in de Kerstnummers
+van Di Groene Amsterdammer" en ,,de Vrouw
+en haar Huis" geplaatste cijferpuzzle een zeer
+groot aantal oplossingen, die alle zorgvuldig moes
+
+ten worden nagerekend, waardoor het niet moge
+
+lijk was den uitslag onmiddellijk na het sluiten
+van den inzendingstermijn te publiceeren.
+Het lot heeft als winnaar van den hoofdprijs
+een bedrag van honderd gulden aangewezen
+den heer G. E. Kiers, W. Beukelsznstraat 69,
+te Vlaardingen, wiens inzending als volgt was
+samengesteld:
+Van Mevr. S. B. Elings, Turfsingel 90 te Gronin
+
+gen en van den heer J. Gerritsen, te Uithuizen,
+ontvingen wij zeer uitvoerige en uitstekende toe
+
+lichtingen omtrent de oplossingsmogelijkheden.
+Als troostprijs zonden wij hun een boekwerk in
+lederen band: Kerst vertellingen in Vlaanderen
+door Andréde Ridder. Vervolgens zonden wij
+de 257 inzendsters(ers) van een goide oplossing
+een keurig gebonden boek.
+Correspondentie kunnen wij over den uitslag
+niet voeren. Wij hebben den samensteller van de
+puzzle bereid gevonden een toelichting van den
+uitslag te geven, die hier volgt.
+De Uitgevers:
+VAN HOLKEMA &amp; WARENDORF
+
+
+TOELICHTING
+Mocht uit tal van instemmingsbetuigingen
+aan veler antwoord toegevoegd, worden afgeleid
+dat het puzzle-spel een aangename
+geestesverpoozing heeft verschaft, meerdere zelfs begeleid
+van rekenkundige beschouwingen omtrent het
+aantal mogelijkheden waarop het probleem voor
+oplossing vatbaar was, het zoude te veel
+ruimte gevorderd zijn op elk dezer afzonderlijk in
+te gaan.
+Ik meen te kunnen volstaan'door in samen
+
+vatting van alle, mij te beperken tot dit tweetal,
+mevr. S. B. Elings en den heer J ih. Gerritsen,
+dat ter bepaling van dit mogelijkheidsaantal
+elk voor zich de verst strekkende perspectieven
+opent en hoewel ook die beide elk afzonderlijk
+beschouwd dit antwoord weliswaar niet volledig
+brengen, zoo geven zij in onderling verband ge
+
+trokken, niettemin een betrouwbare richtsnoer
+daartoe aan.
+Alvorens beide stellingen weer te geven, zij ter
+juist begrip daarvan de aandacht er op gevestigd,
+dat het ter vergemakkelijking bij het zoeken naar
+een oplossing van belang is, dat men zich vooraf
+rekenschap geve van het aantal getalsgrootheden,
+welke de 40 schijfjes ter beschikking stellen.
+Naar hun stand op het puzzle-blad gedrukt be
+
+staan zij uit 19 getalssoorten, waarvan 10 schijfjes
+zich niet voor dubbel gebruik leenen; er blijven
+dus 30 schijfjes van. J l keerbare getalssoorten over.
+Voor de standgroepeering der puzzle verkrijgt
+men dan de keuze uit 2 'x 30'+ 10 = 70 getallen.
+Mevrouw Elings,'tiie klaarblijkelijk evenzeer
+hiervan is uitgggaant.,wist nu aannemelijk te
+maken dat uit een enkel geslaagde oorsprongs
+
+oplossing, zonder verdere rekenkundige toepassing,
+door onderlinge standverwisseling der ringen
+eenerzijds, alsmede ook voor de kolommen ander
+
+zijds, met uitzondering van kolom 1925 en 1928
+de ring waarin het schrikkeljaar valt, automatisch
+960 nieuwe oplossingen kunnen voortvloeien,
+alle even correct aan de gestelde eischen beant
+
+woordend.
+Alsdan er van uitgaande dat het dagental van
+6 jaren en l schrikkeljaar 2556 dagen uitmaakt,
+weet zij dit grondgetal door weloverwogen keering
+van 8 schijfjes tot een gewijzigde getalreeks saam
+te stellen, waarin zij nogmaals weet te slagen
+zonder de vooraf terzijde gelegde 4 reserve schijfjes
+voor 1931, te wijzigen. Ook van elk dezer beide
+verwisselde reeksen weet zij een oorspronkelijke
+oplossing tot stand te brengen en ook daarop de
+voormelde standverwisseling toegepast, zal het
+voorzeker hare medespeurders belang inboezemen,
+dat mevrouw Elings, naar die methode tot 3 x 960
+= 2880 oplossingen in verschillenden stand als
+uitkomst kwam; niet uitgesloten achtend dat er nog
+meerdere konden bestaan, waartoe de tijd tot
+vorschen haar ontbrak. Dit is in zoover spijtig
+omdat haar scherpzinnig vernuft nog een spanne
+tijds er op gericht, haar ongetwijfeld het Columbus
+ei had doen ontdekken, hetwelk de heer Gerritsen,
+gepeld en wel met diens geraffineerd geesteszout,
+mevrouw wellicht niet ongevallïg kon serveeren.
+De heer Gerritsen n.l. belicht het vraagstuk
+weer van andere zijde. Ook hij doet uitkomen, dat
+uit n oplossing meerdere kunnen worden af
+
+geleid, onthoudt zich er van zich in het ramen of
+vaststellen van eenig aantal te begeven, doch
+doet uitkomen dat het cijfermateriaal voor een
+hoofdopstelling zich wijzigt, naarmate de getallen
+der 4 reserve schijfjes daaraan vooraf worden
+onttrokken. Terwijl ook hij de reservevorming
+aan de oplossingspoging doet voorafgaan, onder
+
+zoekt hij allereerst op hoevelerlei manieren een
+reserve van 365 in vier schijfjes zich uit het
+veertigtal laat uitschakelen en komt geheel over
+
+eenkomstig met mijn opbouw van het
+puzzlevraagstuk tot de gevolgtrekking dat dit voor 9
+reserves mogelijk is.
+Die reserve standen naar het laagste
+aanvangscijfer geclasseerd hierbij in tabel veraanschouwe
+
+lijkt, zijn 'voor elk inzender hierom van belang,
+omdat men er aan kan nagaan onder welke klasse
+diens oplossing behoort te worden gerangschikt.
+
+Overzicht der 9 reserve standen.
+kl. l kl. 2 k!. 3 kl. 4 kl. 5 kl. 6 kl. 7 kl. 8 kl. 9
+80
+88
+98
+99
+80
+90
+96
+99
+80 81
+91 i 89
+96 96
+98 99
+81
+90
+96
+98
+86
+89
+86 88 88
+90 89 j 90
+91 91 90 ; 91
+99 98 98 j 96
+365 | 365 ; 365 j 365 365 l 365 365 j 365 l 365
+
+Uit elk dezer 9 klassen geeft de heer Gerritsen
+een volmaakt correcte oplossing en ter staving
+der meerdere oplossingsmogelijkheden uit een
+reeds opgestelden stand, voegt hij er nog een drietal
+aan toe uit een dier klassen voortvloeiend.
+Ik geloof niet dat mijne beide geachte inter
+
+pretoren van het probleem met mij van meening
+zullen verschillen, wanneer ik beider uitgangs
+
+punten tot elkander brengend in dit verband
+doe uitkomen, dat, wat voor de eene reservegroep
+waarvan mevr. E. uitging mogelijk is gebleken,
+ook evenzeer voor de overige 8 reserve groepen
+toepasselijk is.
+De 2880 oplossingen door mevr. Elings. alle
+afgeleid uit kl. 6 der reserven, kunnen naar dit
+oogpunt bijgevolg uit elk der 8 resteerende klassen
+evenzeer worden geformeerd.
+Het aantal oplossingsmogelijkheden verhoudt
+zich. dan = 2880 x 9 tot het duizelingwekkend
+totaal aantal van 25920.
+De volgende oplossingstabellen uit dit aantal
+getrokken, geven de opstellingen weer uit drie
+der negen klassen, ter verduidelijking in meer
+overzichtelijke!! vorm aangegeven: de verticale
+richting stelt de straalkolommen voor, terwijl
+de cirkels in de horizontale lijn liggen.
+
+Een der oorsprongstoestanden
+van den ontwerper der puzzle.
+
+1925. 1926. 1927. 1928. 1929. 1930.
+O
+18
+89
+80
+98
+10
+19 81
+98 U5
+81 , 91
+365
+365
+03
+90
+69
+68
+80
+16
+66
+19
+90
+18 96 8()
+89
+96
+.-,65
+99
+07
+3b6
+16
+. 88 j
+365
+88
+60
+91
+66
+58
+02
+365
+365
+365
+365
+366
+365
+365
+
+E. J. VAN SCHAICK
+MAKELAAR
+Korte Jansstraat 25"" - Utrecht
+WONINGBUREAU
+ASSURANTIES
+TELEFOON 125
+Oorsprong stand
+Mevr. S. B. Elings, Groningen.
+
+1925. 1926. 1927.1928.1929.1930.
+61
+90
+96
+03 i 81
+80
+81
+02
+90
+69
+99
+88
+60
+86
+09
+91
+08
+01
+365
+365
+365
+18 98
+86 05 91 68
+3bb
+91 ' 07
+09 ! 96
+18
+88
+89
+16
+61
+58
+99 | 3öt&gt;
+98 \ 365
+365 .-165 ' 365 | 366 | 365 365
+Reserve KL 6.
+86—89—91—99 voor 1931.
+
+
+Een der 12 oplossingen
+van den heer Joh. Gerritsen, Uithuizen.
+
+1925. 1926. 1927. 1928. 1929. 1930.
+91 80
+18
+81
+16 86
+58
+66
+91
+6
+86
+07
+10
+16
+69
+60
+93
+96
+365
+365
+365
+68
+19 89 88 l 366
+60 19 80
+81 ! 96 02
+98
+90
+365 ) 365 1 365 | 366
+90
+91
+365
+18
+05
+365
+36t&gt;
+365
+Keserve KI. 8.
+88—89—90—98 vcor 1931.
+Gaat men uit van de overweging dat n reserve
+slechts tot drie oorspronkelijke standen kan worden
+opgesteld en alle overige slechts uit kolom- en
+kringverplaatsing voortvloeien, dan beperkt het
+groot aantal oplossingen zich slechts tot 3 x 9 of 27.
+Ten slotte er melding van makend, dat onder
+aller oplossingen slechts een enkele maal een
+dubbelganger voorkwam, mag het voorzeker niet
+minder merkwaardig heeten, dat ondanks het
+groot aantal bestaande mogelijkheden, nochtans
+aan den opbouw van een enkele goede oplossing
+niet geringe moeilijkheid verbonden bleek te zijn,
+want afgescheiden ervan dat menige inzending
+als foutief moest worden ter zijde gelegd, werd
+daarvan vaak uiting gegeven in begeleidende
+opmerkingen, als b. v. Het heeft mij weliswaar
+hoofdbreken gekost, maar ook veel genoegen
+verschaft".
+Ik meen hiertegenover te mogen stellen dat
+een puzzle eerst dan aan haar doel beantwoordt,
+wanneer het er zich toe zettend intellect er den
+stimulans in vindt tot waarlijke geestesverpoozing,
+gedragen en gevoed door den sterken wil de
+zelfvoldoening te kunnen smaken door het Eure
+
+ka" gcsuggesteerd.
+Dat met het cijferspel van Telmaeraeck" niet
+werd geboden een trick van Luk of raak", dit
+kan het spelelement er slechts om verhoogen.
+Wat mij bovenal tot verheugenis stemt, dat is
+de deelneming er aan door het Schoone Ge
+
+slacht, hetwelk voor \!.\ deel der goede oplossingen
+daarin vertegenwoordigd was.
+J o s. V AS DIA
+Amsterdam, Februari 1925.
+Keserve KI. 7.
+86—90—91—98 voor 1931.
+Door eenvoudige
+behandeling met ABIS
+garandeeren wij abso
+
+luut afdoende bestrij
+
+ding van Kakkerlak
+
+ken en andere schade
+
+lijke insecten,
+muskieten, wandgedierte,
+enz.
+Vraagt inlichtingen
+en prospectus voor
+schepen, gebouwen en
+p irticulier gebruik
+aan
+
+N.V. A.B.I.S.,
+Mij. ter Afdoende Bestrijding van Insectenschade,
+Heerengracht 281 Tel. 32281 Amsterdam
+
+</text>
+<image timestamp="2002:09:03:04:02:24.00" size="206063">000005DY.TIF</image>
+</page>
+</document>

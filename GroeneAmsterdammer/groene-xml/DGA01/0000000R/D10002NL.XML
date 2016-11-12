@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180105</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+5 Jan,'18. No. 2115
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+Candidaten voor de Verkiezing van Leden in het Vrouwenparlement.
+KIESKRING L
+Lijst van Vrouwen van
+den Ned. Bond voor
+Vrouwenkiesrecht.
+Lijst van Vrouwen van
+de Vereeniging voor
+Vrouwenkiesrecht.
+Lijst van Sociaal-Demo
+
+cratische Vrouwen.
+Lijst van de Vrije
+Vrouwenvereeniging.
+Lijst van Vrouwen in
+Vredesbeweging.
+de Lijst van
+zaam op
+1U,.. Al
+Vrouwen
+werkSociaal gebied.
+Lijst zan Vrouwen werk- Lijst van Vrouwen op 't
+zaam op het gebied van gebied van Wetenschap.
+levensmiddelenvoorzie
+
+ning en huishouding.
+Lijst van
+gebied
+Vrouwen op 't
+van Kunst.
+Lijst van Vrouwen op';het
+gebied van
+philantropische organisatie.
+.Mw. M. Boissevain
+
+FijnappelMw. W. WijnaenrUs
+Fran eken—D vseri n ck.
+M w. W. A «ei
+Thorbecke
+Mw. H. van
+RielSmeenge
+Mw. M. James
+Jjrandes.
+Mw. J. Westennan.
+Mw. F. S. van
+IjjlenKlaar.
+Mw J. G. van
+Lanse.liot -Hubrecht.
+Mw. H. Heiiieken
+Daum.
+M w. J. van B u uren
+Huijs.
+M w. S. Comperts
+van Ktnbden.
+nis van Berlekom.
+Mw. H. Ankersmil. \ Mw. J. S. K.Baerveldt
+Haver.
+Mw. M. Kramers. Mw. Nine Minncma.
+
+Mw. S. Groeneweg. Mw. D. Groot.
+
+M w. II. Verwey Me.jan M w. \Vellers
+di Guase.0.
+Mw. G. Pothuis-Smit., Mw. .1. Zwaan
+Takes,
+Mw, M.
+Sannes-•••Sannes.
+.M w. M. Wittop Ivoniii"
+Beek en Donk—Bosch.
+Kluvver. Ahv. C. F. van Aspcnvi1 Mw. M. van Dicma
+Mw. G. Hamondt van de Velde. Hi.jmans.
+l lirsclimann. Jiw. L. G. A. van M\v. L. K'nppeyne van
+Mw. Rosa Maiuis. Eeplie.n. do CopelKj—Wijders.
+Mw. E. Boddaert. M w. Tli. Hoven. "
+Mw. G. Kiipteyn
+Muijsken. Mw. Anna Folak. Mw. G. J. W. \an der
+Flor-- Dejitteller.
+Mw..M.\V.H.Rulger.s '
+Hoitsema.
+M\v. M.Gohen
+Tervaen.M w. Prof. Dr. ,1. \Ves-1
+terdijk.:
+.M w. Joh. W.A. A'aher.j
+
+M w. Dr. Gath van
+Tussenbroek.|
+M w Dr. G. Sei rurier.
+
+Ahv. .Mr. G.
+M.Werker
+Mw. .lae. F. U. MusseL
+
+.M\v. .Mr. l,, Schonleldl
+l'ulano.
+Mw. Th. M;\mi~- Mw. A. J. J. Tellepen
+l! )u\vmeesler.| Fock.
+.Mvv. Helene L'ipidotli-'Mw, A. Cremer
+Swarth. Hogan.
+M w. Géorgine 'M w. M. G. He Marex
+Si.-lmMrtzeJ Ovens - ]lei.jnvaan.
+Mw. A. iXoordewier—Mw. Josephus Jitta
+Keddingius. Werlheim.
+Mw. J. A. Simons—.Mw. J. Beukers—van
+Mees. Ogtrop.
+.Mw. W, L. B)idingh—M w. Koest v.
+Limburp;(ioem ins. Hojel.
+KIESKRING IL
+Lijst van Vrouwen van
+den Ned. Bond voor
+Vrouwenkiesrecht.
+Lijst van Vrouwen van
+de Vereeniging voor
+Vrouwenkiesrecht.
+Lijst van Sociaal-Demo
+
+cratische Vrouwen.
+Lijst van de Vrije
+Vrouwenvereeniging.
+Lijst van Vrouwen in
+Vredesbeweging.
+de Lijst van
+zaam op
+Vrouwen
+werkSociaal gebied.
+Lijst van Vrouwen werk
+
+zaam op het gebied van
+
+levansmiddelenvoorzieLijst van Vrouwen op 't
+gebied van Wetenschap.
+Lijst van
+gebied
+Vrouwen op 't
+van Kunst.
+Lijst van Vrouwen op het
+gebied van
+philantropische organisatier
+M w. M. Boissevain
+Fijnappel.
+Mw. \V. Wijnaendls
+Francken—Dyserinck.
+Mw. W. Asser
+Thorbecke.
+Mw. H. van Kiel
+Smeensie,
+M w. M. James
+Brandes.
+Mw. J. Westennan.
+Mw. V. G. van der
+Meer van Kui'feler.
+MA-. Th.
+Thto!Wehrbein.
+Mw. S. W. A. Wichers.
+
+Mw. G Mulder van de
+('iraal'—de B.uyn.
+Mw. M. Ketelaar- '
+van Goch.
+Mw.R.v.
+WuiirtenFalthc-l!roese v. Groenou.
+ning en huishouding.
+Mw. K. G. Knappert. Mw. II. van
+BiemaMw. M. Wibaul- Mw. W. Drucker. 'Mw. G.
+RamundtBerdenis v Berlekom.; Hirse.limann.
+Mw 11. Ankersmil. |M\v. S, .1. R. Baervc-idt—..Mw. W. van Itallie—Mw. Snze Groshans.
+Haver van K.mlxlen.
+Mw. M. Kramers. |Mw. .Nine Minnema. Mw. Mr. G. G. Bakker—Mw. E. IJaelde.
+'• van Bosse.
+Mw. S. Groeneweg. .M w. D. Groot. Mw. Th. do Vries- Mw. G. Sanileiv,
+\\'ijt. ! liinlekopei'.
+Mw. II. Verwey Mi-jan. Mvv. Welters—Mw. 1. Kooistra Mw. M. G. ]..am,ii-on
+: di Giusco. van Si'huuwenhuiir.
+Mw. G. Pothuis -Smit. ;Mw. J. Xwaan-Takes. Mw. S. Lci"biire.
+Mijinans
+Mw. J. Franco
+Ml'iidesCuliseli.
+M w. A. S. Tydeman-
+•\ i-rsehoor.
+Mw. M. Willup Iwnins:.
+M w. M. Sannes—[
+Sannes j
+Mw. .lol), ter Meiilen,
+Mw. Mr. Gl. Wiclnnann.
+
+Mw. Dr. M. .1. Haale.
+
+Mw. Dr. Git. van Manen.,
+
+M w. Dr. .1. van Restoren.
+
+M w. A. Mankes-- '
+Zcniike.
+Mw.Mr. F. Mi'ldendorp-j
+.\i'iiti-.tield
+M w. Dr, \.Grutterink.,
+.Mw. Th. van Uuyl—Mw. Loudon—Eustis.
+Sehwai'txe.
+Mw. 11. liuland Holst Mw. van Kaniebeek
+van der Schalk., Baisc van Wassenaar.
+Mw. Aug. de Wit. |Mw. Kruller—Muller.
+
+M w. Enny Vreedo. Mw. Labouchère
+van Weedu.
+Mw. B. Midderigh M\v. Heemskerck
+Bokhorst. De Zaremba.
+Mw. J. van Ammers ; Mw. Yerschuer—Bars';
+Kuiler, van Balveren.
+KIESKRING III.
+Lijst van Vrouwen van Lijst van Vrouwen van Lijst van Sociaal-Demo- Lijst van de Vrije Lijst van Vrouwen in de Lijst van Vrouwen werk- Lijst van Vrouwen werk- Lijst van Vrouwen op 't Lijst van Vrouwen op 't Lijst van Vrouwen op het
+den Ned. Bond voor de Vereeniging voor | cratische Vrouwen, j Vrouwenvereeniging. Vredesbeweging. zaam op Sociaal gebied, zaam op het gebied van gebied van Wetenschap.1 gebied van Kunst. j gebied van
+philantropiVrouwenkiesrecht. Vrouwenkiesrecht, i j levensmiddelenvoorzie- ! sche organisatie.
+i : ning en huishouding. !
+Mw. M. Boissevain Mw. Dr Aletla Jacobs. Mw. M. Wiliaut—.Mw. W. Unieker. Mw. Mr. G t'. Bakker- Mw. G. S Sikkcs-- Mw. A. S. Tydeman- Mw. l ),•. (;..ni. de l.ai^e'Mw. Top van Kliijn—Mw. Loudon -Euslis.
+Pijnappel Berdenis van Berlekom. \an Bosse. /everijn. Verschoor. : NuulT.
+Mw. W. Wijnaendts Mw. Dr. G. Doctors van M w. H Ankersrnit. J.Mw -l S. ll.Baerveldl Mw. G A. de .1,'iiir van Mw. M. G. Muller-- .Mvv, M. .1. llui/niiia.. M\\ •. Dr. -M ia Boissevain Mw. I. Sehrevi—Mw. van Kaniebeek
+Franeken—Dyserink. Leeuwen-v. Maarseveen i Haver Heek en Dunk-- Klu&gt; vi r l.nlols.j l.l/.erman. • Bai	v. Wassenaar.
+Mw. W. Asser—Mw. W. van Ilallie- Mw. M. Kramers. |\lw. Nine .Mi nema. M\\. M. Ketelaar-- Mw. 11. van Hierna—j.Mw. Th. Hoven. Mw. Dr. J. \ d. Ber^h M w. Annie Salmnoiis. Mw. Kruller—Muller.
+Thorbecke. van Kmbden ' van (lm h HUIKUIS.I van F\s&lt;npi -Flias
+M. II. van Kiel-- Mw. N. Mansteldt—M w. S. Groenewea. Mw. D. Groot. Mw, L. Lancelam M\\. A. !•'. Diuiuk van; Mw. J. Franco Mende-- .\I\\-. Fhs.' M. llo^-ie. ;Mw. M. Scliarten Mw. L;ibouchere
+.-..-» Smecnge.' de Wit Hnberts. Stoop. lied! G,di-cli ' Antink. van Weedc.
+Mw. M. James 'M*. Mr. I). Bakker—Mw. H. Verwey Me|,,ii. M w. Weltors Mw. (i. Smit. JMvv. G. .1. \\'. van der .Uw. .1. Sten-k Proost. M w. Li/,/.\ Ansin^h. Mw. Heemskerck
+Brandes. Nort. di (,u,i&lt;co. Ploc-,1. Dei;m-ller. de /.aremba.
+M w. J. Westennan. .Mw. J. van Diesen—Mvv. G. Postliuis—Mw. ,1. /waan- M v,-, .i. lliniist, Mw Mr. F. G. van Dorp M w. Galh. \an l'.ennes. Mw. Verscbuer—Bar""
+Oberink Smit Takes. van Balveren.
+Mvv. M. Salines-- M-.v. H. Goudsmit.
+Sannes.
+
+Zie het artikel Verkiezing volgens het Evenredig Kiesrecht van een Vrouwen-Parlement5' op pag. 1 en het bijgevoegde Stembiljet.
+
+IIIIIIIINIMIIKI lllllllllllmlIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIMIIIIIIMIItllllllllll
+
+personeel aan de instelling verbonden.
+Mevrouw Annie
+Lfgthartiseveneens
+door haar pas geslo
+
+ten huwelijk aan ons
+land gebonden en
+een financieel sterke
+opera is dan van
+
+zelf ook haar belang.
+
+Vatten wij in het
+kort het resultaat
+van ons onderzoek
+samen, dan blijkt
+dus, dat met voldoende subsidie de Ned.
+Opera als gevestigd kan worden beschouwd,
+het bestaan voor orkest, koor, solisten verze
+
+kerd is en de drie voornaamste vragen als hier
+
+boven vermeid bevredigend opgelost zijn.
+Het spreekt vanzelf, dat wij van harte hopen
+op een gunstige beslissing, want dan ook
+zullen componisten veel meer geinspireerd
+worden oorspronkelijke Nederlandsche wer
+
+ken te schrijven en voor jonge zangers en
+zangeressen zal de Ned. Opera een toekomst
+zijn. J. HAQENS JR.
+;	in	iimiiiiimiiii	IIIIIIIMHIMIIIIIIMIIMMIII!IIIIHIIIIIIIHIIII
+Liedje van den Levensavond
+Zacht valt de stille avond
+Over het meer,
+De rust op mijn schip keert
+Langzaam weer.
+De menschen zijn allen van
+Boord gegaan,
+Ik blijf in den stillen
+Avond staan.
+Als de nacht over 't water
+Zijn wade beurt,
+Dan glimlacht mijn mond om wat vroeger
+Is gebeurd.
+ui: s MOUSSAULT
+iiiiiiiiiimmiiniiiiit tiiiiiiiinimii
+SUBSIDIE VOOR DE
+NEDERLANDSCHE OPERA
+Onze gemeenteraad staat spoedig voor
+eene belangrijke beslissing. De heer G. H.
+Koopman, de ondernemende directeur van
+de Nederl. Opera heeft ƒ 15,000.—subsidie
+gevraagd. In zijn aanvraag om dit bedrag
+zegt hij een volgend speelseizoen niet te
+kunnen ingaan zonder dien gevraagden steun.
+Het vorige jaar stichtte de heer Koopman
+de Ned. Opera en ondanks hard weiken en
+een goede opkomst van het publiek was er
+een deficit van ongeveer j 10000.—Zelf
+ontving de directeur geen sa'aris, en paste
+het tekort uit eigen middelen bij.
+Een opera-onderneming kost zeer veel
+geld; orkest, koor en solisten, technisch
+personeel, reclame enz. verslinden groote
+bedragen en het is gebleken dat zonder
+subsidie een opera niet kan bestaan. Wij
+hebben nu in ons land van bijna 7 millioen
+Inwoners, n zegge n gezelschap, dat...
+niet bestaan kan zonder steun, 't Vraagt
+te veel plaats, wat breedvoeriger op andere
+landen te wijzen, waar iedere stad, iedere
+provincie-stad, hare gesubsidieerde opera
+heeft. Evenwel, de beslissing der vroede
+vaderen, zal niet van het buitenland af
+
+hangen en denkt men na, over het al of niet
+toestaan van het bedrag dan komt vanzelf
+de vraag naar voren: hoe zullen de heeren
+staan tegenover de instelling die Nederl.
+Opera heet? Er worden voor mér nuttige
+instellingen gelden gevraagd.
+Over het nut van een Nederl. Opera zullen
+wij niets zeggen. Onze gemeenteraad heeft
+tal van leden, die muziek in het algemeen,
+de Nederlandsche vocaal-dramatische kunst
+in het bijzonder welgezind zijn. Het College
+van Burgemeester en Wethouders heeft, dat
+is zeker, eenige leden die men vaak in
+concert- of operazaal ziet. Onze Burge
+
+meester, de heer J. W. C. Teilegen, heeft
+hart voor muziek. Wethouder H. J. den Hertog
+is zelf als musicus-componist-dirigent ge
+
+heel ingewijd en bevoegd en met deze
+heeren mogen ook de Wethouders Vliegen
+en Wibaut geacht worden, welgezind tegen
+
+over muziek te staan. En wie voor muziek
+voelt zal toch een opera in ons land, in
+onze hoofdstad geen overbodige weelde
+vinden. Maar... en nu komt als 't ware
+van zelf de vraag: wat zal dan doorslag
+geven? Drie punten vragen de aandacht:
+1. Zal de opera met f 15,000 geholpen zijn ?
+2. Zal het vermoeiende reizen en trekken
+vervallen ?
+3. Zullen de artisten na den oorlog in
+het land blijven?
+Wij hebben den
+heer Koopman een
+.kort oordeel
+ge•«rraagd en tevens
+we s&lt;i':9ten, die het
+t '-e?* t p den
+voorfe.^nd treden, en
+geacht kunnen wor
+
+den direct na den
+oorlog een goed
+engagement in het
+buitenland maar
+voor het grijpen te
+hebben. En tevens de drie kapelmeeslers.
+Het resultaat van ons onderzoek volgt
+hier:
+U vraagt mij", zegt de heer Koopman,
+of de Ned. Opera met f 15.0CO geholpen
+zal zijn. Natuurlijk niet, maar dezer dagen
+zal ik ook aan de gemeentebesturen van
+'s-Qravenhage, Rotterdam en Utrecht om
+subsidie vragen. De adressen zijn ongeveer
+gereed. Mijn voornemen is in 't algemeen
+die steden te vragen om subsidie, waar
+minstens (i voorstellingen per seizoen wor
+
+den gegeven. De kleinere plaatsen moeten
+vervallen. Operaliefhebbers te Gouda moeten
+de voorstellingen te Rotterdam maar bij
+
+wonen. Die uit Leiden gaan naar Den Haag
+en de Haarlemmers kunnen de
+Amslerdamsche voorstellingen bezoeken. Steden als
+Groningen en Leeuwarden zullen moeten
+vervallen. Ik zal U een voorbeeld geven.
+In de Kerstweek gaven wij in deze laatste
+steden een voorstelling voor zoo goed als
+uitverkochte zalen. Toch waren de kosten
+grooter dan de recette, alleen voor séjour
+was f700.—noodig. Ik stel mij voor, de
+weekdagen (usschen de groote steden te
+verdeelen, en den Zondag steeds te spelen
+in Amsterdam, Rotterdam of Den Haag. De
+salarissen van het orkest zijn reedszoo.dat
+de Toonkunstenaarsvereening daarover hare
+voldoening uitsprak. Bovendien hebben de
+orkestleden een aantal vacantiedagen. Mijn
+voornemen is, een koor- en balletschool aan
+de opera te verbinden. Korist moet een be
+
+roep worden en geen bijbaantje, zooals nu.
+Zooals ik in het adres aan den Raad mede
+
+deelde is een eigen gebouw noodzakelijk.
+Daarover zijn reeds besprekingen gehouden.
+Aldus de heer Koopman.
+Wij hebben den solisten ieder naar eigen
+meening gevraagd en geheel buiten den
+heer Koopman om natuurlijk. Opvallend
+sympathiek spraken allen, ook de kapel
+
+meesters over de Ned. Opera en de grond
+toon bij allen zonder onderscheid was:
+.Liever in Holland blijven". Deze dames
+en heeren zongen allen in het buitenland.
+De dirigenten hadden er allen een engage
+
+ment. In hoofdzaak kwam hun betoog op
+hetzelfde neer. Met waardeering spraken
+allen over den Directeur, den heer G. H.
+Koopman, zoodat van een uitstekende ver
+
+standhouding gesproken kan worden.
+Van onzen kant maken wij de opmerking,
+dat een instelling als de Ned. Opera niet
+staat of valt met het vertrek van een kapel
+
+meester of een der solisten, al is het gaan
+van goede krachten altijd een verlies. Alleen
+het ontslag nemen van de meeste der solisten
+van het eerste plan zou gevaar voor het
+voortbestaan opleveren. Ziehier het resultaat
+van ons onderhoud.
+Kapelmeester
+Albert van Paalte wil,
+als hij onder goede
+omstandigheden
+hier kan blijven,
+liever niet in het
+buitenland werken
+en geeft dus ons
+land de voorkeur.
+Een kort verlof om
+nu en dan in den
+vreemde
+tedirigeeren is hem welkom.
+Willem Hermans,
+die jarenlang in
+Duiischland diri
+
+geerde en er uit
+Hollandsche ouders
+geboren werd, heeft
+o.a. 9 jaar in Ham
+
+burgaan de Sted.
+Opera gewerkt, was
+te Fosen Ie kapel
+
+meester en studeer
+
+de aan de Univer
+
+siteit van Durham.
+Zijn portret is dat van Bachelor cf Music"
+dier Universiteit. Kan na den oorlog direct
+weer plaatsing krijgen, maar wil onder ge
+
+lijke omstandigheden liever in ons land
+werken.
+Gerritsen van
+Roekei, eveneens Ie
+kapelmeester, ver
+
+kiest verreweg ons
+land boven het bui
+
+tenland; bij behoor
+
+lijke gage en
+weikkring, alhier, denkt
+hij niet aan het
+buitenland. Aldus
+de kapelmeesters.
+En nu desolisten.
+
+Mevr. l'anit'lle
+Lohcff meent, dat
+het buitenland voor
+ioopig we! geen
+vreemde solisten zal
+vragen, al denkt zij,
+dat voor ons land
+de kans groot is.
+Toch zal in de eer
+
+ste paar jaren van
+een algemeen ver
+
+trek van solisten
+geen sprake zijn.
+Onder welke voorwaarden hier echter ge
+
+werkt zal worden, is van zeer groot be
+
+lang. Komt na een jaar of wat een aan
+
+bieding van een der allereerste theaters
+Monnaie Brussel, Opéra Comique, Parijs
+of dergelijke, dan zou de keus moeilijk
+worden. Dit komt echter niet direct als
+hoofdzaak. Behoorlijke gage, niet al te veel
+reizen en trekken, is noodig. Daarom hoopt
+zij van harte op een subsidie der Ned. Opera.
+De Kerstweek zong zij 7 achtereenvolgende
+avonden, groote partijen. (De andere solisten
+zongen trouwens ook veel; den tweeden
+Kerstdag gingen er 4 voorstellingen). Dat is
+al te vermoeiend. Haar aanblijven is tegelijk
+het behoud van haar echtgenoot, Willem
+Lohoff, den uitstekendenconcertmeester.
+Anton Dirks, de
+uitmuntende, en
+irtelligente bariton
+zegt: Ik voel mij
+als Hollander inde
+eerste plaats aan
+
+getrokken tot mijn
+land. Al is de kunst
+internationaal, on
+
+der gelijke politie
+zal hij veel liever
+in Nederland blij
+
+ver, zingen dan el
+
+ders. Voor de zekerheid der positie van
+de zangers hoopt hij ook zeer op
+subsidieering der Ned. Opera. En meer nog
+voor de vocaal-dramatische kunst, dan
+voor zichzelf. Dat de heer Koopman de
+rechte man is blijkt wel uit het feit, dat
+ondanks het deficit van het vorige jaar,
+toch desolisten belangrijke gage-verhooging
+kregen. Wat noodig is, daar er maar 7
+maanden gezongen wordt.
+
+Eigenaardig, dat
+Jules M les, de zeer
+verdienstelijke Ie
+tenor zich nage
+
+noeg op dezelfde
+wijze uitliet. Ook
+Moes is zeer ge
+
+negen hier te blij
+
+ven, ondanks zijn
+Fchttterend engage
+
+ment van voor den
+
+oorloginhetbuitenland, o.a. te Praag.
+Maar hij oordeelt 9 speelmaarden noodzake
+
+lijk, omdat men 12 maanden per jaar moet
+leven, en 't alaris dus zóó moet zijn, dat een
+seizoen van l September—l Juni behoorlijke
+bestaanszekerheid oplevert. Ook Jules Moes
+verlangt niet het onderste uit de kan", en
+meent eveneens, dat een Ned. Opera, en wel
+een gesubsidieerde, een volksbelang is. Vooral
+Amsterdam moet een vastverzekerde opera
+hebten.
+Mej.
+Horneman zal gaarne lid
+blijven van het ge
+
+zelschap en hoopt
+op subsidie, waar
+
+door vanzelf ver
+
+beteringen zullen
+komen, ook voor
+de solisten.
+
+Mej. Lie&amp;beth
+Meisner trad dezer
+dagen in het huwe
+
+lijk met den
+Haagschen
+muziekleeraar Poolman en zal
+dus vooreerst niet
+naar het buitenland
+gaan, maar zij hoopt
+natuurlijk op het
+voortbestaan der
+Ned. Opera en sub
+
+sidie zal de positie
+der solisten vanzelf
+ten goede komen.
+Zij hoopt daarom
+dat de Raad het niet-groote bedrag zal toestaan.
+
+De heer Richard
+van Helvoirt Pel,
+was in Dtiitschland
+een zeer bekend
+zanger. Hij heeft
+er echter geen kijk
+op, hoe de zaken
+na den oorlog zul
+
+len loopen. Daar
+
+om acht hij subsidie
+voor de Ned Opera
+een levensbelang
+voor het geheele
+NED. OPERA.
+Dir. G. H. KOOPMAN.
+Zondag 6 Januari, Paleis v. Volksvlijt.
+DE BRUILOFT VAN FIGARO.
+Avondvoorstelling: den Haag.
+CARMEN.
+
+Maandag 7 Jan. Paleis v. Volksvlijt.
+CAVALLERIA EN PALJAS.
+
+Dinsdag 8 Januari, Den Haag.
+A l DA.
+
+Woensdag 9 Januari, Leiden.
+MIGNON.
+
+Donderdag 10 Jan. Paleis v. Volksvlijt.
+CARMEN.
+
+Vrijdag 11 Januari, Nijmegen.
+WALKüRE.
+
+Zaterdag 12 Januari, Rotterdam.
+CAVALLERIA EN PALJAS.
+
+</text>
+<image timestamp="2002:08:22:16:28:48.00" size="411978">D10002NL.TIF</image>
+</page>
+</document>

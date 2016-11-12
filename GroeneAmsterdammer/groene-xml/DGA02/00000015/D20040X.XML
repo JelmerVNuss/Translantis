@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241101</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2472
+
+l"
+
+POLLEII's Oude Genever
+Fijne Likeuren en Punch
+u, P. POLLEN A ZOOH - Rotterdam
+J. D. STRUXJS Al Zn.
+Prinsengracht 887 - P. O. Hooftstraat 140
+WEL. 37900
+TEL 29990
+Begrafenissen - Crematie - Transporten
+Koldewey &amp; Corbière
+Leidschestraat 30, Amsterdam
+!n e
+liniierliadkflipen, ladtaiels, Babj Bascules, Linnenmanden,
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+Specialite
+In den Silveren Molenbeecker"
+Kalventraat 32
+G
+Gemonteerd
+Oud Holl.
+Kristal.
+Specialiteit In;
+lm. Oud Holl.
+Zilverwerk,
+TAFEL- en
+SERVIESZILVER.
+N.V. HAARLEMSCHE SODAFABRIEK
+HAARLEM - TELEFOON 30 - H. S. F.
+ZUIVERE KRISTALSODA IN KRISTALLEN EN IN
+POEDERVORM DUBBEL KOOLZURE SODA
+NATRIUMSULFAAT (WATERVRIJ)
+GLAUBERZOUT VOOR TECHNISCHE DOELEINDEN
+VEILHUULJEZOH"
+F"a LGijselman&amp;Zoon
+Singel 118-120 en Blauwburg w. 15
+AMSTERDAM - TEL. 40432
+IEDERE MAAND V El LI H B
+VAN INBOEDELS, ENZ.
+Stoomwasscherij Het Zuiden
+PIETEK AERTSZ8TRAAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDI6 &amp; VAN ELVEN.
+BEGRAFENISVEREENIGIN6
+N. SAX Jr.
+j P. C. Hooftstraat 38, Amittrd». Ttlif.: 20341, 24260
+REGEUNG VAN BEGRAFENISSEN EN
+| CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+ZUIVER WOLLEN-,
+HALF WOLLEN-,
+KATOENEN-, TRICOT-,
+RAMEH- EN
+NETON DER GOEDE REN
+- Fabrikaat W. JANSEN
+ADRIAAM SCHAKEL
+HEILIGEWEG 11-17
+- AMSTERDAM
+De nieuwste ENGELSCHE en SCHOTSCHE Stoffen
+ULSTERS DOUBLÉFACE 110.—,
+Bestelt een flesch
+WED. JOHN GAY'S PICCALILL1
+het tnosterdzuur met de fijne pikante smaak. Bovendien is op elkeflesch
+een bon geplakt, zooals op alle artikelen van de Lievegoed's Fabrieken.
+N .V. DE HOUTTUINEN AMSTERDAM
+VRAAGT UW LEVERANCIER 11
+NAAIMACHINES
+LEEUWARDEN V/H FIRMA NAUTA
+-AMSTERDAM. N.Z. VOORBURGWAL75A-77
+=
+50 MODELLEN IN NOTEN- EN EIKENHOUT
+VERKRIJGBAAR BIJ
+DE VOORNAAMSTE
+
+NAAIMACHINEHANDELAREN
+IN NEDERLAND
+AGENT VOOR AMSTERDAM P. BOBELDIJK ROZENGRACHT 63 TELEF. 34212
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. C., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM TEL. 42662
+ARMERWERKEN
+W. H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+Halter Sigaren
+zijn het meest gewild, om
+prijs en kwaliteit
+B. J. MULDERS
+TUOÏARCHITECT
+Badhuisweg 201 Den Haag—Scheveningeo
+Telefoon 5O81O
+
+</text>
+<image timestamp="2002:09:03:20:38:38.00" size="189710">D20040X.TIF</image>
+</page>
+</document>

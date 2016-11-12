@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190412</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+DE UITBREIDING VAN HET BOLSJEWISME
+Nadruk verboden
+v?n r&gt;f Amsterdammer", Weekblad voor Nederland, van 12 Apri! 1919
+m
+•.&lt;s£f- s/, -=Sï,
+Tt BE.VRAGEN BIJ
+LEKI)N.TROTZKYA
+CuAmst. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co
+REVOLUTIEBOUW
+
+</text>
+<image timestamp="2002:08:23:10:22:35.00" size="219118">D40002W8.TIF</image>
+</page>
+</document>

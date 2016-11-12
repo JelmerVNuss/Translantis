@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18850719</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+v
+'Xft
+^
+*
+"a*
+.(..•*
+M; s*
+421.
+DB AMSTERDAMMER
+A^. 885.
+WEEKBLAD VOOR NEDERLAND.
+Verschijnt eiken Zaterdagavond.
+uitgevers: ELLBBMAN, HABM8 te Co.
+Kantoor: Singel 211.
+Hoofd-Agenten: te Batavia, G. KOLFF A Co.
+Zondag 19 Juli.
+Abonnement per S/m.	f l.—. fr„p. p. f 1.15.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar i ,, 0.10,
+Advertentiën van 1—5 regels f 1.10, elke regel meer . . 0.20.
+t tuesehen den tekst per regel ....,„o 10
+3 N H O VD:
+
+BUITENLAND. «*• Onse Bladen. Warme Kadetjes, een Zaterdagavondpraatje,
+LXXXV, door Aquarius, Uit bet Haagje, XL, door Pasquino. Kun e t:
+Bene Feeetcaniate, door M. Kunst, door Dr. F. Uit Parijs, XXIX, door A. B.
+Letterkunde: Euphorion, II, een gedicht van Ferdinand Gregoroviue.
+Een late holde, door F. v. d. G. . Beinaert de Vos, beoordeeld door Alb. Th.
+Disticben. Inhoud van Tijdschriften. Militaire Zake n: E on vooretel tot
+regeling onzer levende atrijdkracbten, door Cambreaux. Schaakspel. Feuille
+
+ton: Ee( eklien-Kooeje" naar het Hoogduitsch van H. Billing. (Slot). uit
+de herinneringen v»n een Pennelikker, dóór Aquarius. (Slot). NIEUWS VAN DB
+WEEB. T- Owns&amp;bt w» de Effeetenmarkt, door 8, Veilipgeo van Vaste
+Goe«- Te huur. Advertentie».
+BUITENBAND.
+De verklaringen van Lord Salisbury, omtrent de buitenlandsche
+politiek van het nieuwe Kabinet, waarvan wij in ons vorig over
+
+zicht meer uitvoerig melding hebben gemaakt, zijn, voorzoover
+het Afghaansche vraagstuk betreft, door de feilen der laatste dagen
+volkomen bevestigd. Men zal zich herinneren, dat de Premier
+wel is waar de verzekering gaf, dat de onderhandelingen met
+Rusland in vriendschappelijken geest zouden worden voortgezet,
+doch overigens weinig of geen hoop kon geven op een spoedigen
+en gunsligeri afloop!, Vooral de berichten, die de telegraaf jl.
+Woensdag heeft gebracht, hebben de juistheid dezer opvatting
+maar al te duidelijk aangetoond. »Groote versterkingen van
+Russische troepen," aldus luidt eene dépêche uit Teheran dd. 15
+Juli, »Hjn te Merw en te Poel-in-Khisti aangekomen. In de
+jongste veertien dagen zijn vier regimenten Afghaansche infanterie
+uit Kaboel te Herat aangekomen. Vier regimenten vertrokken uit
+Herat naar het district Hazara." Tegelijkertijd gaf Lord Randolph
+Citurchill, minister voor Indiö, op cene in het Lagerhuis tot hem
+jerichte vraag, of het waar was dat de Russen legen Afghanistan
+oprukten, een tamelijk vaag en onbestemd antwoord. Hij zeide
+dat den overste Ridgeway een «gerucht ter oore was gekomen"
+omtrent eene vermeerdering der Russische strijdkrachten in de
+nabijheid van den Zoelfikar-pas, doch dat van eene » belangrijke"
+vermeerdering nog niets bekend was. Overigens werden door de
+regeering inlichtingen ingewonnen, terwijl aan den heer Ridgeway
+het bevel was gezonden, om Zoelfikar onverwijld te verlaten.
+Dit antwoord van den Engelschen minister staat vrij wel gelijk
+met eene bevestiging van de bedoelde geruchten; eene categorische
+ontkenning is het ia elk geval niet. Engeland zal thans de wrange
+vruchten plukken van het uitstel, dat Rusland's diplomatie met
+bewonderenswaardigen tact en geslepenheid van het ultra-vredeiievende
+en al te toegeeflijke Kabinet-Gladstone wist te verkrijgen. Beter dan
+ooit, ook door de verbazende uitbreiding der communicatie-mid
+
+delen met Gentraal-Aziö, is de Russische regeering thans toegerust
+om, zoodra zij zelf het oogenblik gekomen acht, haren slag te slaan.
+Moeielijk valt het te zeggen, welke houding de tegenwoor
+
+dige Engesche regeering zal aannemen tegenover deze ernstige
+wending, die de Afghaansche quaestie, tengevolge van de
+doorliet vorige kabinet begane misslagen, dreigt te nemen. Lord
+Salisbury heeft verzekerd, de gedragslijn van zijn voorganger te
+znllen volgen; of het hem echter mogelijk zal blijken aan deze
+verzekering in allen deele getrouw te blijven, mag minstens
+worden betwijfeld. Het oordeel van de Standard, waaraan sedert
+de Engelsche kabinetsverwisseUng tot op zekere hoogte een offi
+
+cieus karakler mag worden toegeschreven, is vrij kalm, doch
+wijst met nadruk op het voortdurend gevaarlijke en dreigende
+van den toestand. »Het gevaar voor een botsing tusschen Rus
+
+sen en Afghanen", zegt het blad, D of eene herhaling van het in
+
+cident bij Poel-i-Khisti moge niet onmiddelïjk voor de deur staan;
+de beteekenis van Ruslands voortgezette militaire toerustingen en
+operatiën achter zijne voorposten aan den Moerghab en
+denHeriRoed kan .echter niet worden ontkend, ofschoon voor
+eenoogenblikkjeltjken aanval geen vrees bestaat."
+De geruchten, deze week verspreid omtrent den dood van den
+Mahdi, zijn tot dusver niet bevestigd. Evenmin waren zij in staat,
+in politieke kringen veel sensatie te verwekken; men begrijpt daar
+zeer goed, dat voor de onlusten in Soedan een anderen, veel die
+
+peren grond beslaat dan het drijven en opruien van den Mahdi,
+die overigens van het fanatisme zijner talrijke volgelingen op uitne
+
+mende wijze weet partij te trekken. Mocht zelfs het gerucht omtrent
+zijn dood zich onverhoopt nog bevestigen, dan blijft het toch hoogst
+onwaarschijnlijk, dat dientengevolge het oproer in Soedan aan be
+
+denkelijkheid zal verliezen of in eenigerlei opzicht aan Engeland
+ten goede zal komen.
+De binnenlandsche politiek had gedurende de laatste week een
+vrij kalm verloop. Het Parlement, zoowel Hooger- als Lagerhuis,
+heelt verscheidene kleine wetsontwerpen goedgekeurd. De begroo
+
+ting fe ingediend en zal, naar het zich laat aanzien, weinig of geen
+principieelen tegenstand van de liberale oppositie behoeven te
+vreezen. De heer Gladstone houdt tot dusver eerlijk zijn woord
+en heeft zijn opvolger nog geenerlei moeielijkheden in den weg
+gelegd. Trouwens de nieuwe minister van financiën heeft alle
+voorstellen van zijn voorganger overgenomen, behalve die, welka
+voor eenige weken door de conservatieven werden verworpen.
+Hij behield dus de verhooging der inkomstenbelasting en der
+successierechten, maar schrapte de verhooging der accijogen op
+bier en sterken drank.
+**.
+De republikeinsche groepen uit de Fransche Vertegenwoordi
+
+ging (nl. de vroegere regeerings-raeerderheid van Jules Ferry)
+hebben, op het voorbeeld van verscheidene andere politieke par
+
+tijen, thans ook een verkiezings-programma samengeflanst en ais
+manifest in het licht gegeven. Vager en onbeteekenender, doch
+tevens onschadelijker programma kan men zich bezwaarlijk denken.
+Het is niets meer dan eene wanhopige poging om allen, die niet beslist
+monarchaal of clericaal zijn, te bevredigen en onder n hoed" te
+vangen. Het beveelt o. a. aan: vermindering van den krijgsdienst
+in eene verhouding, die vereenigbaar is met de behoeften van de
+landsverdediging; economische hervormingen, met name herzie
+
+ning der belastingen en herstel van een werkelijk evenwicht der
+begrooting.
+Over scheiding van Kerk en Staat (het onderwerp waaromtrent
+men het tot dusver onmogelijk eens kon worden) sprekend, zegt
+het manifest dat, indien er al in de republikeinsche partij
+uiteenloopende meeningen te dien opzichte bestaan, men het toch eens
+kon zijn omtrent eene politiek, welke de gewetensvrijheid moet
+eerbiedigen, maar met kracht het clericalisme moet bestrijden,
+daar dit, onder het masker van den godsdienst, niets anders is
+dan een bond van alle factiön, welke de Republiek vijandig zijn.
+Het manifest wil verder geen avontuurlijke buitenlandsche
+poli
+</text>
+<image timestamp="2002:08:18:08:00:43.00" size="240576">D1000181.TIF</image>
+</page>
+</document>

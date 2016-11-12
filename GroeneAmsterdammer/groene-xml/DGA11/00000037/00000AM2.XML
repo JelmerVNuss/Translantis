@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321001</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r!vv*
+'M
+v
+Electrische
+waakhonden
+door L. J. van Looi
+Een nieuwe toepassing van
+de foto-cel
+De techniek heeft, sinds de mensch
+bezit" kende, gezocht naar middelen
+om dat bezit te beschermen. Het is
+een lange reis van het gat, waarin de
+oermensch zijn primi tieve wapen bewaar
+
+de tot de geperfectionneerde brand
+
+kastsloten van 1032 en toch dienden
+al deze dingen hetzelfde doel. De be
+
+scherming van eigendommen bleef tot
+dusverre altijd een stukje achter bij
+de handigheid en het genie van de
+
+genen, die er op uit waren om zich
+het bezit van anderen toe te eige
+
+nen: er is bijna geen brandkastmodel
+bekend, dat niet een keer door een
+inbreker is geopend. Er is geen beveili
+
+ging van gebouwen bekend, waardoor
+inbrekers niet konden komen. Zelfs
+de beroemde onderaardsche schat
+
+kamer van de Bank van Frankrijk,
+die voor een normaal mensch zelfs
+door een leger niet in te nemen lijkt,
+Wordt stevig bewaakt. De kwestie
+is, dat men aanneemt, dat een inbreker
+in alle gebouwen kan komen en alle
+sloten kan verbreken of ontgaan,
+als hij er maar den tijd voor heeft.
+Een goed slot, een goede brandkast
+is dus nog niet een volkomen zeker
+
+heid men moet ook tijdig weten,
+dat er iemand probeert bij te komen
+Lichtbron
+foto c. o L
+\
+alarmkJLok
+of zijn inbreek-techniek er op toe
+
+past. In den loop der jaren zijn
+tientallen van beveiligingen uitge
+
+vonden, waarbij er waren, die wer
+
+kelijk goed functionneerden. Er zijn
+er, die bijna onfeilbaar lijken
+totdat de een of andere vindingrijke
+dief op de juiste idee kwam en er
+toch doorheen ging. De meest ge
+
+bruikte beveiliging is nog de methode,
+waarbij voor alle ramen en voor
+alle deuren touwtjes worden ge
+
+spannen, waarvan het aanraken langs
+electrischen weg een alarmbel aan
+het luiden brengt. Het vervelende
+daarvan is, dat die touwtjes te zien
+zijn en dat de inbreker er dus niet
+aan raakt als hij het vermijden kan.
+Hij komt in zoo'n gebouw liever
+door den vloer of het plafond.
+De absolute beveiliging van huizen,
+kamers, kantoren, ja zelfs van open
+ruimten als parken en grenzen !
+waartegen tot dxisverre zelfs nog geen
+theoretische mogelijkheid van door
+
+dringen is gevonden, is nog tamelijk
+jong het is de beveiliging met den
+electrischen waakhond, met het
+electrische oog. met de foto-cel.
+Een foto-cel is een instrument, dat
+ongeveer den vorm van een
+eloctrische lamp heeft. Er zit echter geen
+gloeidraad in, doch een kathode en
+een anode. De kathode is een plaatje
+De Groene Amsterdammer van 1 October 1932
+' N o. 2887
+Het boek kent U natuurlijk, maar kent U
+ook het land? Dat prachtige, zonnige,
+gastvrije land? Spanje, met z'n romantiek
+en eenvoud naast zakelijkheid en luxe,
+met z'n oude kunst en z'n moderne wegen?
+Leer dat land kennen, het is goedkooper
+dan U denkt.
+SPANJE
+Voor alle inlichtingen of reisplannen zich te wenden tot Patronato Nacional del Turismo
+(Nationaal Bureau voor Toerisme in Spanje), Madrid, Medinaceli 2, Parijs, Bd. de la Madeleine
+12, of tot de reisbureaux te Amsterdam, den Haag en Rotterdam: American Express Company,
+Lindeman's Reisbureau, Wagons Lits Cook en Wm. H. Muller &amp; Co
+blik waarop een oxyde is aangebracht.
+dat de eigenschap bezit om
+electrische lading af te geven als er licht
+op valt. De anode is als het ware
+de ontvanger van die lading. Als er
+nu licht op de kathod,e valt. springt
+een zwakke lading over naar de
+anode en in de leiding, die van de
+anode komt. ontstaat op deze wij/e
+een electrische stroom.
+/uik een foto-cel wordt ergens in
+de te beschermen ruimte aangebracht
+en op een andere plaats een lamp.
+die met een fijne lichtstraal do foto-cel
+beschijnt. Die lichtstraal wordt doof
+middel van een zeer klein motortje
+en een schijf met gaatjes zeer dikwijls
+onderbroken. De lichtstraal zal dvis
+in de fotocel, telkens als de straal
+door de schijf met gaatjes wordt
+doorgelaten, een stroomstootje ver
+
+wekken1. In de leiding der anode ont
+
+staat daardoor een zgn.
+intermitteerende stroom en zulk een stroom
+i&gt; in staat, als hij geleid wordt dooi
+
+de windingen van een electromagneet.
+om in de kern daarvan magnetisme
+op te wekken. Ken electromagneet
+is namelijk gén magneet, zoolang
+er geen stroom door de windingen
+vloeit. Pas de stroomstootjes wekken
+het magnetisme. Die magneet is dan
+in staat om een contact vast te
+houden, dat een stroomkring sluit
+wanneer liet wordt losgelaten. Laat
+dus iemand tusschen de lichtbron en
+de foto-eel staan en onderbreekt
+daardoor de lichtstraal, dan gaat liet
+magnetisme verloren doordat de foto
+
+cel geen stroom meer produceert.
+het contact valt en de stroomkring
+wordt gesloten: de alarmbel luidt.
+Deze toepassing is erg simpel.
+want de inbreker zou dan wel oppassen
+om niet met de lichtstraal in conflict
+te komen. Maar het wordt al moei
+
+lijker, wanneer men onzichtbaar licht
+gaat toepassen. Men kan namelijk de fo
+
+to-cellen voor alle soorten licht in het
+bijzonder gevoslig maken, óók voor
+ultra of intraroode violette-stralen. die
+de mensch niet kan waarnemen. In
+dat geval wordt de lichtbron van een
+rood gaasje voorzien, dat alleen die
+stralen doorlaat. Dan kan de inbreker
+de straal niet meer zien en wordt het
+al moeilijker om er niet inteloopen.
+Maar hoelemaal fataal wordt het geval
+als men boort hoe men dezen elec
+
+trischen waakhond inderdaad toepast.
+Daar is geen doorkomen meer aan !
+Tusschen de onzichtbare lichtbron en
+de onzichtbare foto-cel gaat niet meer
+regelrecht de afsperrende lichtstraal,
+maar men heeft die straal over een
+systeem van kleine spiegeltjes gevoerd.
+Door het instellen van de spiegeltjes
+kan men n enkele lichtstraal langs
+alle wanden over den vloer en langs
+het plafond en dwars dooi' de kamer
+laten gaan voordat hij eindelijk op
+de foto-cel belandt. Langs alle muren
+wordt op deze wijze een onzichtbaar
+vlechtwerk van stralen getrokken,
+waarvan de geringste onderbreking
+de bel aan het luiden brengt. Deze
+beveiligingsspiegeltjes behoeven niet
+erg geheimzinnig te worden aange
+
+bracht. De inbreker mag ze gerust
+zien als hij een verstandig man is.
+blijft hij er af. Want breekt hij een
+spiegeltje, dan is de straal ook onder
+
+broken. Afgezien van het feit. dat hij
+de straal al zal moeten onderbreken om
+bij het spiegeltje te komen.
+De foto-cel is tot dusver eigenlijk
+slechts alleen bekend uit de televisie
+
+techniek en de toonfilm. waar zij bij
+het optische geluidssysteem wordt ge
+
+bruikt. Ik vond het interessant om
+de toepassing' ervan te vernielden op
+een gebied, dat van deze beide zoo
+ver verwijderd ligt.
+
+</text>
+<image timestamp="2002:09:27:09:29:55.00" size="204039">00000AM2.TIF</image>
+</page>
+</document>

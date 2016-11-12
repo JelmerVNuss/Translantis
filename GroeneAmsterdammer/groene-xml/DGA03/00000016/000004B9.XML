@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19100424</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Jagershuis Holland".
+(Welkom aan den Staatsman van Hollandschen stam).
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 24 April 1910.
+-\inst. Boek- en Steendrukkerij, v/h. Ellerman, Jlarms &amp; Co.
+Roosevelt (na lange tochten) 't Is me.... of ik hier meer geweest ben ...
+De Hollandsche deern: Dat geleuf ik mijnheer, en wees welkom!
+
+</text>
+<image timestamp="2002:08:23:04:27:18.00" size="472593">000004B9.TIF</image>
+</page>
+</document>

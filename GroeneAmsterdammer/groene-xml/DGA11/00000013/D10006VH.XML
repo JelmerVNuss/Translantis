@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271001</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN l OCTOBEfcl927
+No. 2626
+l'.
+OTTVANG- EN
+1ETAALKAS
+Ntettwe Doelenstraat 20-22
+A M ST ER DAM
+Kapitaal . .f5.000.000,
+Reservefonds f 1.000.000.
+
+Rfnteverg. voor pelden A deposito
+
+Direct opvorderbaar.... l pCt.
+Met 10 dagen opzegging l J
+Voor andere termijnen op nader
+«vereen te komen voorwaarden.
+Open n gesloten bewaargeving
+volgens reglement.
+
+Safe Deposit
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+koat slechts f2.75 per kwartaal off
+10.per (aar bl) vooruitbetaling
+Koopt voor Belegging:
+PANDBRIEVEN
+Bataafsche
+Hypotheekbank
+
+AMSTERDAM
+- Algemeene
+Hypotheekbank
+HEERENGRACHT 416
+- PJMSTERDAM
+Geeft thans uitsluitend uit:
+
+4!/2pCt. Pandbrieven
+TEGEN BEURSKOERS
+met aflossing van minstens 4 % per jaar.
+Circulaires betreffende deze uitgifte
+zijn ten kantore van de Bank kosteloos
+verkrijgbaar.
+uiiscurru.
+•«ra extrapremie is verschuldigd voor reizen
+fftt Indlëvoor korteren duur dan l jaar.
+ffat risico verbonden aan de luchtvaart
+' &lt;VMr gelegenheldspassagiers wordt eveneens
+«rader vergoeding van extrapremie door de
+- Mutichappfl gedragen.
+flRNHEM
+DEAM1TEKEAMSCHE'
+De Amsterdamsche, met haar sterke reserves en
+
+gunstige verzekeringsvoorwaarden biedt aan polis
+
+
+houders groote zekerheid. Behalve dat de levensverze
+
+
+kering niet kan worden geroieerd zoolang de afkoop
+
+
+waarde grooter is dan de achterstallige premiën, moet
+
+de Amsterdamsche, N. Spiegelstraat 17, Amsterdam,
+
+alvorens tot roiement te kunnen overgaan den polis
+
+
+houder schriftelijk waarschuwen en hem gelegenheid
+
+geven de achterstallige premiën alsnog te voldoen.
+Nederlandsche
+
+Handel - Maatschappij
+AMSTERDAM.
+Gestort Kapitaal	f 80,000,000.
+Statutaire Reserve	f 40.000,000
+i
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-Indië, Straits-Settlements,
+Britsch-Indië, China en Japan
+~In- en Verkoop van Wissels en Telegrafische Transferten
+Incasseeringen en Financieeringen Schriftelijke en Telegrafische
+Credieten Reiscredietbrieven Deposito's
+RekeningenCourant Aan- en Verkoop van Effecten Administratie
+van Vermogens Open en Gesloten Bewaarneming.
+SAFE-DEPOSIT. KOFFERKLUIS.
+Inrichting tot het plaatsen van brandkasten. Speciale gelegenheid
+tot het huren van afzonderlijke kluizen voor groote administraties.
+INCASSO-BANK
+Volgestort Kapitaal f 25.000.000—Reserve f 6.611.700
+
+Heerengracht 531—537
+
+ADVIEZEN VOOR BELEGGING
+INLICHTINGEN OMTRENT FONDSEN
+
+Effecten-af d* voor particulieren
+
+(INGANG* SAFE-DEPOSIT)
+Amsterdamsch Accountantskantoor
+Steenveld, Maasdam &amp; van Bijden»
+(Opgericht door Mr. E. J. KORTHALS ALTES).
+Leden v/h Nederlandsch Instituut v. Accountants.
+Roemer Vlsscherstraat l, AMSTERDAM, Telefoon 21660,
+HOOFDKANTOOR.
+
+KEIZERSGRACHT 570.
+
+AMSTERDAM.
+OMdUCMT JU.1M4.
+De VERZEKERING-MAATSCHAPPIJ
+MERCURIUS"
+verzekert, behalve tegen
+INBRAAKSCHADE, ook tegen: BRAND-, ZEE en TRANS
+
+PORT-, ONGEVALLEN- en WATERLEIDINGSCHADE.
+De Holl Voorschotbank
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk bedrag
+met een minimum van f 1000.—op zake
+
+lijk onderpand en onder borgtocht, met
+in pandgeving eener polis van levensver
+
+zekering van gelijk bedrag, en verkoopt
+6% schuldbrieven in stukken van f 1000.
+500.- en f 100.- tegen beurskoers.
+STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie!
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trostkantoor
+4l%Pandbrieven tegen beurskoers alt.
+Rott. Hypotheekbank v. Nederland
+Opgericht in 1864
+Volteekend Maatschappel^k Kapitaal
+f 5.000.000.
+Verstrekt geld op eerste hypotheek.
+Voor inlichtingen wende men zich tot
+het kantoor der Bank, Ged. Bierhaven 25
+te R'dam of tot hare Agenten.
+De Directie:
+Mr. Th. Reepmaker, Mr. N. P. C. v. Wflk,
+Mr. B. van Rossem.
+
+</text>
+<image timestamp="2002:09:21:20:34:37.00" size="224149">D10006VH.TIF</image>
+</page>
+</document>

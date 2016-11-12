@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281027</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+P R O B L E M E N
+SCHAAKPBOBLEEM No. 174
+van W. LANGSTAFF
+(Brit. Ch. Mag. Oct. '28)
+abcdefgh
+Wit: Kd5, De4, Tc4, Ld2 en b7,
+Pbl en a8, pionnen: c2 en eö. h
+Zwart: Kb5, Da2, pionnen: a7, b2,
+c5 en e7. . ,a.
+Wit geeft mat in twee zetten.
+Oplossing in het eerstvolgend
+nummer* *,* |£| OHH^É^^
+Oplossing Probleem No. 173 van
+F. W. Nanning.
+l, Dg4—e6.
+"" Correspondentie-adres: Dr. A. G.
+Olland, A. B. Falckstraat 5, Utrecht.
+DAMPROBLEEM 178
+van BLIJDENSTEIN
+Zwart 12 schijven, 2 dammen
+l
+
+M
+16
+21
+26
+31
+36
+41
+46
+
+Wit 12 schijven
+Stand- Zwart: 2, 8, 11/14, 16,19,24,
+25, 29, 30, dammen
+op 6 en 17.
+Wit: 22, 26/28, 31, 32, 35,
+37, 40, 47, 48, 50.
+
+Oplossing probleem No. 177.
+Wit: 28-22, 11-7, 47-41, 39-34,
+Zwart: 18:36, 2:22, 36:47, 47:49,
+32-27, 16:7 35:2!
+40:21, 1:12.
+
+Correspondentie-adres: K. C. de
+Jonge, v. Woustr. 112ii, A'dam (Zuid)
+BRIDGEPROBLEEM 161.
+
+N
+K!. R. H. Sch.
+7. h. 10.
+6. 3.
+5.
+KL:
+w. R: a. b. 10. 9.
+W- H: 8.
+Sch.: 6.5.
+O:
+KI. 4, 3.
+R.:
+H.: a. 6. 4.
+KI.
+R.
+v.
+8.
+H.
+v.
+5.
+2.
+Sch.
+9.
+7.
+Z. en N. moeten van de resteerende zeven
+nog &gt;es trekken maken tegen elke ver
+
+dediging In.
+Z. is aan slag.
+Klaveren is troef.
+B. M.
+Correspondentieadres: Secretariaat
+v/d Amsterdammer, motto Bridge"
+Meer Licht
+Meer Gezelligheid
+Helder als de zon
+Zacht als de maan"
+De inrichting van Uw huis
+heeft veel geld gekost en U
+hebt Uw best gedaan het zoo
+gezellig mogelijk te maken.
+Waarom zoudt U door een
+te schaarsche verlichting die
+gezelligheid 's avonds ver
+
+loren laten gaan en boven
+
+dien te veel inspanning van
+Uw oogen eischen.
+Laat op meerdere plaatsen
+in Uw kamer
+PHILIPS ARGENTA LAMPEN
+branden en zorgt dat U door
+smaakvolle lampekapjes een
+aangename intieme stemming
+in Uw kamer brengt.
+PHILIPS ARGENTA LAMPEN
+met haar zacht en toch vol
+
+komen helder schijnsel sparen
+Uw oogen.
+'S ARGENTA
+MOBACO
+Bouw Speeldoozen
+Zeer leerrijk en onderhoudend Speelgoed
+N.V. BOSCH, HONIG 6 Co
+DOMSTRAAT 6 - UTRECHT
+Te ALKMAAR verkrijgbaar bij: l
+Simon Trybetz. in IHDlE vtrkrtlcbMr U):
+J. Bllttar. Hnntt!) Tb. l Tnka nniUrlln.. P.l.n, s«.&gt;.h.M
+Engelsch Plated (verzilverd)
+Groenteschalcn
+Saucekommen
+^ Groentelepels
+Saucelepels
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+Arnhem - ZIJLSTRA 6 RUPP
+Soeplepels
+
+</text>
+<image timestamp="2002:09:05:13:07:55.00" size="190850">0000071A.TIF</image>
+</page>
+</document>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321210</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 10 December 1932
+N o. 2897
+6
+v.
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - Amsterdam - Prinsengr. 837
+
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+
+Crematie en Transporten
+van uit alle plaatsen
+BEGRAFEIMISVEREENIGING
+
+N. SAX r.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N.V. Meubelmagazijn Eden1
+Molsteeg ~~ Amsterdam
+
+SLAAPKAMERS
+n
+$'
+t;
+t?
+frr'
+Adverteert
+
+in de Groene"
+
+Omdat DE GROENE in
+hetgéheele lan l gelezen wordt
+door het be: te publiek door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij hon
+
+derdduizenden bereikt, die
+juist niet tot het koopkrach
+
+tige publiek behooren, maar
+het betaalt hem om in dit
+blad te adverteeren, dat hem
+direct in contact brengt
+met het publiek dat hij zoekt.
+Boeken voor kleine kinderen.
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd door
+
+R O K O P U l T
+
+Ro Kopuit heeft een snoepgoedje
+samengebracht, met suiker en
+honing, met koek en melk. Het
+wordt een feestgebakje voor de
+kleinen,heerlijk geurend en lekker
+smakend. Niet een zal den neus
+van over de bladen willen doen
+als hij niet alles weet wat er op
+verteld staat, van naaldeken tot
+draadje.
+Dagblad Vooruit, Gent
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+Vereenvoudiging en directheid
+spreken ook uit de
+bandteekening, eveneens door de schrijfster
+zelve geteekend. De roode vos
+achter zijn bontgekleurde kippen
+aanjagend geeft een synthese
+van den inhoud van het
+wijdberoemde verhaal, dat door Ro
+Kopuit op rijm werd naverteld.
+Groene Amsterdammer
+Prijs gebonden F. 1.50
+
+In eiken boekhandel verkrijgbaar
+WEET
+WAT U EET
+3U ets. per
+l/2 pondspakje
+BLUE BAND
+VERSCH GEKARND
+met 25 o/o allerfijnste Roomboter onder Rijkscontrole
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:15:45:44.00" size="143286">00000AT5.TIF</image>
+</page>
+</document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300322</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+K
+DE GROENE AMSTERDAMMER VAN 22 MAART 1930
+Aft». 2755
+ONZE VERTEGENWOORDIGER
+IS MET COMPLETE CO.LECTIE
+ZONDER EENIGE VERPLICH
+
+TING DOOR 'T GEHEELE LAND
+TE ONTBIEDEN.
+Onze geïllustreerde
+prijscourant wordt
+gaarne op aanvraag
+kosteloos
+toegezonden.
+ALLE IND. C0STUUMS
+WORDEN VOLGENS
+HET JUISTE MOOEL
+DOOR BEKWAME
+COUPEURS VERVAARDIGD
+Wltt» Oostumvs
+vanaf
+Wollen Palmbcach M Q75
+Gestunt*» yanaf
+AM/TCRLV\M - DtN MAAG
+TOT HET VERRIJKEN ONZER MUSEA
+KAN THANS IEDER BIJDRAGEN DOOR
+HET KOOPEN VAN
+
+REMBRANDT- POSTZEGELS
+ZIJ BLIJVEN HET GEHEELE JAAR GELDIG
+EERSTE RAWGS HOTELS
+(in Alphabetische Volgorde),
+Wijk
+. BAD-HOTEL (Tel. sooe)
+. ZEE-DEPENDANCE(Tei.3G05&gt;
+Stroomend koud- en warm water op alle kamers.
+tjui v/uini-iiu is.u uu- tii w ai in w a L c i up au c t\.ai'
+
+ZanHwnr.rf- HOTEL D-ORANGE^TCL i)
+ArdnU Wll'l. HOTEL DRIEHUIZEN (Tel. 11)
+Stroomend koud- en warm water op alle kamers.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+G. J,DE KONINGS ZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+WASCHTAFELS.
+iiiiiiiiiiiiiiiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiB
+ICliché^
+Voor alle doeleinden
+l NV
+f Oiem.Kunstinrichting
+JDirkSchnobel
+Amsterdam. *
+SCHOONMAAK-T'JD
+isPALTHE-TUD
+PAASCH
+
+EITJES
+van Droste zijn iets
+bijzonders. In diverse
+exquise smaken, o.a.:
+ZACHTE CR
+MEeitjes gevuld met vloei
+
+bare crème, driesmakcn,
+'n nieuw Drostc-artikel
+Ziet toe, dat ge
+Drostc's krijgt.
+//ALTIJD WELKOM"
+^^Jg^^-syff^
+Voornaamste Kleedinginrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:25:07:00:27.00" size="141956">00000923.TIF</image>
+</page>
+</document>

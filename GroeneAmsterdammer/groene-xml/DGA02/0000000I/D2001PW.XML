@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030208</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1337
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLANIX
+11
+Per gevangen-wagen naar den ambtenaar van den Burgerlijken Stand.
+Alstublieft, Brnid en Bruigom ! Stap in, WQ staken niet, en met dit karretje heeft u voor niets bang te zyn ] ,..
+
+
+'s rede in den Irfcili^claa:. Voorbereidselen in Macedoni
+De Halve Maan, in afwachting v&amp;i de maatregelen die de Mogendheden nemen zullen.
+Een lekker gebraad aan 't spit (II Fischietto).
+BEBEL : »\u zal ik eens voor goed met ja afrekenen, mannetje. Dat zal je leeren om voortaan wat meer je
+•waardigheid in acht te nemen. .. Ja, doe nu eens wat tegen, als ja durft!" (uilenspiegel),
+
+-&gt;.. .. . ... . , .. .,... , Uit de rookkamer van Wilhelm. (Di r/na &lt;• ai la).
+By een nationaal-hbsrale Redactie. (Simphnssimus).
+j " ^' _J (SsJi
+Als ze maar niet lang Waren, zich te branden !
+Onvruchtbaar onderzoek (Fischietto).
+Er ii toch niets interessanter» dan het vuile linnea
+van hooge persotages l
+II\j zal den rook moeten verdragen, nu hy de sigaar eenmaal aan
+
+gestoken heeft.
+Vrijheid! zonderling, dat woordje schynt niet in ons woordenboek te staan!
+
+</text>
+<image timestamp="2002:08:19:04:33:27.00" size="398005">D2001PW.TIF</image>
+</page>
+</document>

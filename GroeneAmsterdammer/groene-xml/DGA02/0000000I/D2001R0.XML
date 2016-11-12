@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030301</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na 1340
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND,
+11
+Liefdadigheid in dagen van staking.
+MEPIIISTO : »Je hebt gelyk, oude heer, neem dat ding maar weg ; Wraak naar Vermogen behoort het nu te zijn .,
+
+Gallische ziekten. (De affaire). (Fischietlo).
+Een beste ruil. (Nederlandsche Spectator).
+Ik zou het je niet kunnen verbeteren."
+
+De nieuwe Dreyfus-zaak. (ülk).
+Sic ncuc Srevjfus-JiJfairc.
+f-, Frankryk bezoekt in haar hospitaal verschillende hooggeplaatste personen, door »de
+affaire" aangetast en lijdende aan nationalitifi, clericalitis, discorditis en indisciplinitis.
+Eerlijke handel (Fischietto).
+«5^
+/u, xr -^te--*
+/ X- ~""- M K ' r$\r~Y
+•/5^^'
+- {Aïi^^ '/• \^m^ v ,
+'-'$£^&amp;$&gt;' i ''b-f ^i/f J
+^•^^^r^^-^^iyvi ,^t
+c (&gt; ^f^^^^j^JM^^
+DJ: HKKKKN HER FKUKIUTIE : »Wii hebben je van dien last afgeholpen, ziehier nu de Vrijheid
+Vorstelijke maskerade. (Si
+Hoogere Politiek. (J)ir I&lt;loh).
+DE BEBLIJKE HANDEL: »'t Is toch moeilyk om aan de barbaren de beschaving te brengen.''
+Welk costuum beveelt Uwe Hoogheid
+voor 't gemaskerd bal ?
+Ik moet 't heele jaar me maskeeren
+geef me vandaag een gewoon pakje.
+DREYFUS : »Ik ben u ten hoogste dankbaar, Excellentie, voor de weder opname van
+m\jn proces en neem de vryheid nog eenig nieuw materiaal ter uwer beschikking te stellen."
+COMÜKS: »Wat, dankbaar? Waarvoor, meneer Dreyfus ? Bemoei u asjeblieft niet
+met zaken, die u volstrekt niet aangaan ; de opname van »de affaire" is niets anders
+dan een politieke actie van de partyen ! ..."
+
+</text>
+<image timestamp="2002:08:19:06:45:46.00" size="348202">D2001R0.TIF</image>
+</page>
+</document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940121</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De behandeling van de voorstellen betreffende Armenzorg
+en Kindervoeding uitgesteld.
+BIJVOEGSEL van ds Amsterdammer, WeeU-l-ul vonr Ne.lorland. vnn 21 Tarmari iMo.i
+
+••i
+/\ni-(. iJock- en .Stccmirukkeri', v \\. El'erman, Ilanns &lt;x Cc-,
+MR. V. M. Wij moeten over het voorstel-Armenzorg ons nog eens beslapen en het voorstel Kindervoeding kon niet meer
+aan de orde worden gesteid. Het was te laat geworden, het is nu etenstijd voor ons .... Kom over een paai
+weken maar terut,r.
+
+</text>
+<image timestamp="2002:09:02:22:33:03.00" size="557903">D100040M.TIF</image>
+</page>
+</document>

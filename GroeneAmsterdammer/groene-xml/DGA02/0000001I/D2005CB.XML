@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321001</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+de uitkijk
+•'F
+l mt
+L ^—"
+M Dagelijks 2.30,7.30,9.:
+T FH-M EN MODERNSl
+H
+MUZIEKE ••••'•
+A
+
+g prinsengracht bij]
+13 de leldschestraat
+telefoon 3746C
+Leest De Groene
+N.V. OOEDEWAAQEN's Kon. Fabrieken - Goud
+BEGRAFENIS ONDERNEMING
+T^r E.KÜMING. JRTïSSoh
+NIEUWE 5PIEGEL5TKAAT 61
+AT5EM
+LRLMATIL
+VAN RIJN'S
+lïMOSTtRD
+Wed.H.Rahder&amp;Zn.
+•'t WIJNHANDELAREN
+Amsterdam Arnhem
+•M 's-Gravenhaae w™
+Hofleverancier*
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten woorden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIEN
+KIP S &amp; Go.
+SCHIEDAM
+Plaatijzeren Reservoirs, Blusleidingen,
+Scheeps-Taaks
+AUTOGENE LASSCHING
+ONZE '
+MODEL
+FLAT-WONING
+MINERVAIAAN 83
+HUIS EN TWEEDE
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+'s-HERTOG EN BOSCH
+
+HOTEL GOUDEN LEEUW"
+(G R O E N H U l S)
+Electr. Licht - Centr. Verw. - Stroomend water	P. G. BAARS
+Hotel - Pension - Café- Restaurant
+
+'T JACHTHUIS" depe^ance
+WARNSVELD (Telefoon 226 ZUTPHEN)
+In onmiddellijke nabijheid der bosschen, uitgebreid en naar alle eischen des tijds
+ingericht. G root e serre, waranda's en tuin met pracht uitzicht. Tennisbaan. Garage.
+Aanbevelend, W. T. GROENHOFF.
+m
+Kjest voor de studie
+van Uw zoon of
+dochter
+EEN ZEISS'
+MICROSCOOP
+Kwaliteit speelt de
+hoofdrol.
+Een microscoop moet
+langer dienst doen,
+dan alleen gedurende
+den studietijd l
+Prijscourant zenden
+wij gaarne op
+aanvraag
+BURGERSDIJK &amp; NIERMANS
+Boekhandel en Antiquariaat
+Templum Salomonis - LEIDEN - Nieuwsteeg 1
+BOEKVERKOOPING10 en 11 October:
+Bibliotheek van het Genootschap
+
+Het Leesmuseum - Amsterdam
+i
+1e Gedeelte: PERIODICA
+Vraagt catalogus
+
+</text>
+<image timestamp="2002:09:21:17:40:42.00" size="123982">D2005CB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110205</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het was te verwachten!
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 5 Februari 1911.
+Nadat het Nederlandsche volk, uit misschien te groote vredelievendheid, maar
+is gaan zwijgen over de herhaalde droeve schennis van het openbare rechts
+
+gevoel in de Papendrechtsche affaire, hebben zekere elementen in de Eerste
+Kamer den onovertroffen moed getoond in haar Voorloopig Verslag de on besmette
+blankheid van de Justitie te verdedigen en zelfs het zenden van stenografen
+naar den Bosch en Arnhem op hoogen toon als iets ongepasts te veroordeelen.
+De misdadiger keert te eeniger tijd naar de plek van zijn misdrijf terug.
+
+</text>
+<image timestamp="2002:08:24:15:18:13.00" size="280172">000004QU.TIF</image>
+</page>
+</document>

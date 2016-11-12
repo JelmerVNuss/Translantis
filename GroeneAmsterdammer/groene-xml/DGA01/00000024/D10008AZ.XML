@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330121</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+r
+
+De Groene Amsterdammer van 21 Januari J933
+Na. 2903
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden
+Molsteeg ~- Amsterdam
+SLAAPKAMERS
+^ BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v/h Gooi)
+P. C. Hooftstraat 38 Brinklaan 138
+Tel. 2O341 2425O MM^IM Telefoon 2275
+
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+i—W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 82660
+Begrafenissen - Transporten - Crematies
+HEERENKLEEDING VOOR
+VADEREN ZOON
+TOT REDELIJKE PRUZEN
+"ADRIAAN SCHAKEL*
+. TELEFOON 37273
+PERZINA-VLEUGEL
+lengte 1.70 M. Houtsoort zwart.
+Aangefo. tegen aann. bod. Br. oud. lett.
+A. I&gt;. A. Nygh &amp; v. Ditmar's Adv.
+Bar.., Rotterdam.
+stu d io moro
+
+culture physique
+
+»• . . • en
+
+american step, tap
+
+&amp; eccentric
+
+voor dames en kinderen
+
+spreekuren:
+
+woensdag en donderdag:
+
+1O-11 uur
+
+vrijdag: 3-4 uur
+
+singel 3O9a
+
+amsterdam
+
+lijn 1 en 2 totst. luciënsteeg
+Och kom! . kijk U maar eens goed! Ja
+natuurlijk—zij is toch de bijzondere hulp
+in de huishouding, - het Blue Band-meisje!
+Let U eens op den eetlust van Uw
+huisgenooten als er gebakken, gebraden en ge
+
+stoofd is met Blue Band. U kunt hun dan
+bovendien vertellen, dat Uw huishoudboekje
+er niet extra door belast wordt. Integendeel
+- U houdt nog geld over! Dat alles komt
+8 door Blue Band - versch gekamd.
+ui
+«5U ets. per 1/2 pondspakje
+
+
+
+B1UE BAND
+VERSCH GEKARND MET 25 lo ALLERFUNSTE ROOMBOTER ONDER RIJKSCONTROLE
+i
+o
+01
+o
+
+</text>
+<image timestamp="2002:09:26:15:18:51.00" size="168264">D10008AZ.TIF</image>
+</page>
+</document>

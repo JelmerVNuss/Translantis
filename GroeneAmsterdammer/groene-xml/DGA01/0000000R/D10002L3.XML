@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980220</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"LHet Proces-Zola.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 20 Februari 1898.
+Amst. Boek- en Steendrukkerii, v/h. Kllermnn, Ilarms &amp; Co.
+ZOLA (tot de Fransche maagd): »Kniel slechts voor Haar Mevrouw; Gerechtigheid is meer dan het Leger".
+
+</text>
+<image timestamp="2002:08:22:11:25:53.00" size="251318">D10002L3.TIF</image>
+</page>
+</document>

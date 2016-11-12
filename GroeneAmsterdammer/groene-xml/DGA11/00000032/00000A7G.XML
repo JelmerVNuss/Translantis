@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320430</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+De Groene Amsterdammer van 30 April 1932
+No. 2865
+NAAR DUITSCHLAND
+Prosp. en inlichtingen over onderstaande plaatsen en hotels zijn gratis verkrijgbaar bij de voornaamste Reisbureaux.
+P, AD-HFIVTHFI VI HOTEL KAISERHOF (bij net Kurpark)
+****•••-' -i*AJ^ A I l L.I ITI a d ni£uwe autostraatweg
+Amsterd.Oldenz. Berlijn. Sterk verminderde pensionprijzen. Vraagt prosp.
+RA l)-E\m HOTEL ZUM LÖWEN
+1J-til '~AJiT.IO aan jen Kurtuin, naast de Staatskuurgebouwen.
+Vol(Rijnland) ",edig pension met uitst. verzorging. Mk. 7 10.
+O R F 1? H O F HOTEL WüNSCHER, het zonnige en stofvrij gel.
+vAJAJAtiAAWA hotel a. h. bosch. van ouds bekend. Pens. v. Mk. 8.
+(Thiir) tot 12.—. Vraagt prospectus.
+YH}\ ANIV'iF.rK' Run (en Zevengeb.) Hotel Decker, 50 b.
+Jl\f |j/\^1 1/Olj^lV, liljll voig. j. p. Spnv. Evk ))Een licfelijke
+verblijfpl. in 'n heerlijk oord". Kam. v.a. Mk. 2.—. Pens. Mk. 5.—6.50.
+rPAHAI?X Kurhotel Schiesshaus m. Dep. Zonnig en stofvrij gel.
+Fam. hot. a. h. bosch. 100 k. alle comf. Zwemb.,
+Ten(Thür) nisb. 10 Autob. Pens. f 5.—7.—Vr. prosp. Holl. refer.
+WIES R A IVE'V Hotel Schwarzer Bock, eigen badh. in verb. met
+iA-.kJU.tA i/jj^i de warme bronnen. 280 Bedd. Alle comf. Log.
+met ontb. v. a. Mk. 5.—. Pens. incl. Thermalb. v. a. Mk. 10.—.
+Een juichkteet in de keuken. ,,Vrij
+van poetsen! Mevrouw heeft Sola
+Massive gekocht! Sola Massive!
+Vorken, lepels en messen van een
+nieuw metaal! Net zilver!
+Onverslijtbaar! Het schilfert niet af, het
+springt niet stuk, het kan tegen
+mosterd en azijn en je hoeft het
+nooit te poetsen! Afwasschen en
+daarmee uit!"
+Sola Massive is wit als zilver, niet
+verchroomd, door en doot vlekvrij
+en wordt afgeleverd met garantie
+
+bewijs. Natuurlijk zal het wel weer
+worden nagemaakt. Let U dus
+vooral goed op het garantiemerk.
+Lepels of Voilten ( 7.80
+f 12.- prr dozijn. Complete
+cassettes vanat f 31.20.
+SOLA MASSIVE
+(vlekvrij tafelgerei)
+Verkrijgbaar bij: VEERHOFF &amp; Co. - Rokin 56 - AMSTERDAM
+NAAQLEM
+3.Q6-Q9
+
+MODERNE
+VOORJAJIIIS-BONTIASJES
+MOL .... f
+46.VEULEN ... f 59.50
+N.V. VERZEKERING-MAATSCHAPPIJ
+,,MERCURIUS"
+•Hl OPGERICHT A°1894 llilii
+AMSTERDAM, C. - KEIZERSGRACHT 570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+
+</text>
+<image timestamp="2002:09:26:22:27:17.00" size="167183">00000A7G.TIF</image>
+</page>
+</document>

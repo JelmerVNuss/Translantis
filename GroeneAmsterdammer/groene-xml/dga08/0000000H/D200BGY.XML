@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19371009</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+v,.
+r-r-f*^-.?'^-.-/ «&amp;&amp;
+SB». "-L.-!!
+Humor eii beroep
+N 00 B «
+D£ DiRiGENT
+(Caricatuur door A. Mo/kenboer van Wiliem Mengefberg. geteekend voor De Ware Jacob)
+T O VLA»;
+H£T KERSTMANNEJJE.
+,	en wot is ;e te/efoonnummer, k/eine boos ?" (Esqu/reJ
+W
+DE PRESIDENT VAN HET GERECHTSHOF
+(Caricatuur van HonoréDaumier)
+"ƒ••
+fdeo/e mode voor een onzichtbaar téte d tête
+(Fransche spotprent uit het begin der /9e eeuw)
+,,Afs je me voorzegt, laat ik je een kiekje zien van m ij'n zuster in badpak"
+(Caricatuur van Chancel)
+tlumor en lietcle
+NA D£ DIAMANTEN BRUILOFT
+,,/k heb eens een heel mooi meisje gekend Kcftcnen GrÖnen. Wat zou er van
+dat meisje geworden zijn ?"
+,,Maar m'n ouwetje, dat ben IK. toch".
+(Teekeningen van Thöny, typeerend voor de Simpiicissimus" von vó&lt;5r den oorfogj
+George, heb jij gevoei voor humor?"
+fjfeyjfÜQgj. waarom?"
+2r-"-- -'-^
+--^,. r./k hoc
+- Erw». -•*•
+BIJ DE DOUANE
+ns, rHij'nheec,jde douane, is
+^aX*&gt; '* vteerend /oor
+ti»fhebb*r;i"
+
+</text>
+<image timestamp="2002:10:30:19:02:25.00" size="633512">D200BGY.TIF</image>
+</page>
+</document>

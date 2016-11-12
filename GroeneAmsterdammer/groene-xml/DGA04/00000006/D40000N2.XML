@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130316</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+HET KATH. IE KAMERLID VAN DEN BIESEN OVER OPENBARE LEESZALEN
+IN BOEKENSCHOUW"
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 16 Maart 1913
+Nadruk verboden
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp;
+CoBoekenschuw
+
+</text>
+<image timestamp="2002:08:18:10:24:37.00" size="385338">D40000N2.TIF</image>
+</page>
+</document>

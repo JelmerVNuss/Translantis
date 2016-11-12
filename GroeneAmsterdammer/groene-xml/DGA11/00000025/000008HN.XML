@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300913</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Radio en Grammofoon
+
+Nieuws in de grammofoonfabrieatie
+door Lou Lichtveld
+W;MSilÊSMMMii!i:iii9§^^^^^ff!X ••
+4
+Li
+M*'
+ge'
+HET gebruik van grammofoonplaten voor
+filmbegeleiding heeft aan de fabricatie van
+platen en weergave-apparaten geheel nieuwe
+eischen gesteld. De practijk wees immers reeds
+spoedig uit, dat de gewone platen tal van nadeelen
+halden voor een absoluut-synchrone begeleiding.
+Ze waren te kort van duur, bij eenige slijtage kon
+de naald al te gemakkelijk van de eene groeve in
+de andere overspringen, kleine schommmelingen
+vooral in de begin- en eind-snelheid waren onver
+
+mijdelijk, en door dit alles werd de volkomen
+gelijktijdigheid onherroepelijk verstoord.
+Nu is juist ons waarnemingsvermogen voor de
+gelijktijdigheid van onderling afhankelijke
+gezichtsen geluidsbeelden zeer groot. Proeven met de
+klankfilm hebben aangetoond, dat verschillen
+van n twintigste seconde reeds vrij algemeen
+worden waargenomen; vooral bij de projectie van
+sprekers en zangers. En men is reeds tot de con
+
+clusie gekomen, dat ons waarnemingsvermogen
+in dit opzicht verscherpt naarmate beeld en klank
+in grootte en volume toenemen. Een close-up
+eischt nauwkeuriger gelijktijdigheid dan de opname
+van een volle straat bijvoorbeeld.
+Waar nu de normale toeschouwer zoo fijnge
+
+voelig bleek te zijn, werd het een eerste vereischte
+om den duur van een grammofonische reproductie
+waarmede men het tot nog toe nooit al te nauw
+nam, zoo nauwkeurig mogelijk te regelen. Daartoe
+•werden n in de platen, n in de speel-apparaten
+belangrijke verbeteringen aangebracht, die met
+verloop van enkele jaren' stellig wel algemeen
+zullen worden toegepast.
+'k^
+zn &lt;
+•tm
+CO
+vh
+Ly
+KJ
+i
+eei
+do
+ov
+te
+Br
+na
+on.
+ge1
+Ze.
+voi
+OBG
+res
+h
+to
+Grammofoon voor synchrone filmbegeleiding
+De motor, die zorgen moet voor een uiterst
+gelijkmatige draaibeweging van de plaat, is
+thans voorzien van een heel speciaal relais, dat
+bij de Duitsche fabrikanten Kurzzeitrelais"
+heet, en waardoor de motor onmiddellijk op volle
+snelheid wordt gebracht. Bovendien is het
+draaibord van de grammofoon niet rechtstreeks door
+kamwielen of een drijfriem aan den motor gekoppeld,
+maar heeft men door een ingenieuze inrichting
+veeren tusschen de koppeling aangebracht, waar
+
+door kleine schokjes, versnellingen of vertragingen
+van den motor direct worden geneutraliseerd.
+Hetzelfde relais dat zorgt voor een onmiddellijke
+maximum-snelheid, zorgt ook voor onmiddellijk
+stoppen wanneer de stroom wordt afgebroken.
+Heeft men nu twee van deze apparaten naast
+elkaar, dan is, wat het drijfwerk betreft, een
+nauwkeurig-gelijkmatige beweging wel gewaar
+
+borgd.
+Om nu den speelduur van de platen te vergrooten,
+is men er toe gekomen ze meer dan half zoo lang
+
+zaam te laten loopen. Terwijl het normale toerental
+vroeger 76 of 80 per minuut was, laat men de
+plaat tegenwoordig niet meer dan 33^ onwente
+
+ling in de minuut maken. Daardoor duurt een plaat
+van normale grootte reeds meer dan eens zoo lang.
+Om ook in staat te zijn nog steeds platen volgens
+het oude procédéte spelen, bouwt men de appa
+
+raten zóó, dat ze door een kleine omzetting zoowel
+•op 33^ als op 7(5 (of 80) omwentelingen kunnen
+loopen.
+Nieuwe veer-koppeling tus
+
+schen motor en draaischijf
+Aan deze verlangzaminèheeft men begrijpelijker
+
+wijze de voorkeur gegeven boven het vergrooten
+der toch al zoo moeilijk hanteerbare platen.
+Bovendien zou bij een ite groote diameter de
+groevenlijn zulk een flauwe golving hebben, dat
+de klank er in vele opzichten (en niet het minst
+in sterkte !) door zou worden geschaad. De ver
+
+traagde beweging maakt, dat de golfjes nu dichter
+bij elkaar liggen, wat eensdeels mogelijk is dooi
+
+de krachtigere en scherpere electrische opname,
+en anderdeels ook het beste is bij een vergroote
+diameter.
+Ben zeer groote verbetering is deze: dat men
+de naald niet meer in spiraalgroeven van buiten
+naar binnen, maar van binnen naar buiten laat
+loopen. Bij het begin van de plaat staat de naald
+dus het dichtst bij het middelpunt. Er zijn hiervoor
+twee redenen.
+Eerstens is het
+directe beginpunt
+van de plaat daar
+
+door gemakkelij
+ker aan te geven,
+hetgeen natuurlijk
+hoognoodig is, wil
+men absoluut syn
+
+chroon wezen. En
+tweedens komt dit
+de klank zeer ten
+goede. Immers de
+punt van een gram
+
+mofoon-naald is bij
+den aanvang aan
+
+merkelijk dunner
+dan na gebruik.
+Nu is de weg van een trilling van hooge frequen
+
+tie in een der binnenste spiralen van de plaat
+zeer veel kleiner dan in een der buitenste.
+Om die minieme golfweg nauwkeurig te kunnen
+volgen moet men dus een zeer veel dunnere naald
+hebben, dan om de ruimere zijwegen van de buiten
+
+ste spiralen te kunnen volgen. De nieuwe regel
+is logisch: de scherpste naaldpunt krijgt de fijnste
+groefjes te volgen, de afgesleten naaldpunt de
+grovere. Het kan alleen maar verbazen dat men
+aan zoo iets eenvoudigs niet eerder heeft gedacht.
+Dit alles is van des te meer nut, omdat heel erg
+dunne naalden ook niet bruikbaar zijn, daar deze
+door hun lichte bouw bij het opnemen van hooge
+frequenties zelf resonanstrillingen voortbrengen.
+Daarom zijn de zoogenaamde harde" naalden
+bijna altijd beter.
+Reeds sedert 1920 bestaat er een heele reeks
+Tri-Ergon patenten welke betrekking hebben op
+de fabricatie van grammofoonplaten. Hun groot
+
+ste beteekenis is: dat de klankfilm, die zooveel
+nauwkeuriger en directer de geluiden noteert dan
+welk ander middel ook, als intermediair wordt
+gebruikt tusschen de klankopname en de grammo
+
+fonische weergave.
+In het kort gezegd: men neemt een klankfi m op,
+en maakt aan de hand daarvan een grammofoon
+
+plaat. Of met andere woorden maakt men het geluid
+eerst zichtbaar," en daarna pas hoorbaar. Men
+heeft daarbij een tusschenstation tusschen de
+ouderwetsche („gewone") grammofoon en de
+fümgrammofoon (die films inplaats van platen
+gebruikt) willen scheppen. En wel omdat, volgens
+het zeggen van Engl, een der Tii-Ergon-manneii,
+esn zoo eenvoudig, verbreid en doeltreffend appa
+
+raat als de grammofoon het zoowel uit technisch
+als uit commercieel oogpunt aanlokkelijk maakt
+om de oude vormen en liet oude systeem der platen
+zoo lang mogelijk te handhaven.
+Het voornaamste werk is voorloopig de platen
+zelf te verbeteren.
+Belangrijke winsten kan men boeken, zoo gauw
+men een opname en weergave tot .stand kan bren
+
+gen, waarbij alle eifïen tri lingen van materiaal
+en apparaten uitgeschakeld zijn. Dit is bij een
+fotomechanische notatie natuurlijk veel meer het
+SPREEKZAAL
+Den Heer M. C. M. de Groot
+
+De consquentie, welke U uit mijn artikel over
+de Suikerwet wenscht te trekken is niet de mijne.
+Sparen is niet het tegenstelde van verkwisten,
+maar van uitgeven.
+Verkwisten, d.i. uitgeven om te vernietigen,
+is zeker verwerpelijk; maar uitgeven om te ge
+
+bruiken is economisch juist en de plicht van elk
+individu en elk bedrijf.
+In de tijden zooals wij thans beleven is het de
+plicht om het inkomen uit te geven en niet om het
+op te potten of te reserveeren zooals het in de
+plechtige terminologie van balansopmakers heet.
+Men versta mij wel, in tijden waarin er tekort aan
+arbeid is, zooals wij thans doormaken. Want juist
+als productiemiddel' dient het kapitaal (het
+overgespaarde inkomen) niet aan de circulatie t.e worden
+onttrokken.
+FLORIS VOS
+Protesteeren
+In uw nummer 2779 van 6 dezer heeft Melis
+Stoke op pagina 18 ons wel heel veel eer aange
+
+daan door den heer Kraak Steenmann een ver
+
+tegenwoordiger van den B.B.N, te noemen. Nu
+er toch van protesteeren sprake is, zouden wij wel
+mee willen protestoeren. De lieer Kraak Steemann
+is n.l. in het geheel niet bij onzen Bond werkzaam.
+geval dan bij welke andere ook. Dan is de moeilijk
+
+heid echter alleen: te zorgen dat bij de verandering
+van de fotografische opteekening in een
+grammofonische alle détails van de eerste worden over
+
+gebracht in de tweede.
+Men meent dit nu te kunnen doen, door middel
+der klankfilm en een foto-electrisch orgaan
+wisselstroomen op te wekken, die, versterkt,
+langs electromagnetischen weg een naald de
+wasplaat kunnen doen graveeren. De nauwkeurig
+
+heid is hierbij nog grooter dan bij de gewone
+electrische opname, en men heeft bovendien het
+voordeel met n film meer dan n wasplaat te
+kunnen maken. Practisch is er van slijtage van
+het origineel dan geen sprake meer.
+Door de buitengewone gevoeligheid van de
+foto-electrische cel kan men nu tevens platen ma
+
+ken waarop zelfs frequenties van 10.000 Hertz
+genoteerd kunnen worden.
+Intusschen kan ik, ondanks alle optimisme van
+de geniale uitvinders van dit nieuwe procédé, de
+gedachte toch niet van mij afzetten, dat een der
+
+gelijke methode alleen waarde heeft als tijdelijk
+overgangsmiddel. De toekomst behoort niet aan
+de brooze en onhandige schellak-plaat, zelfs niet
+aan de nieuwe onbreekbare en opvouwbare discus,
+maar aan de grammofoon-film, die stellig populair
+zal worden, zoodra de electrische apparaten geheel
+en al de andere verdrongen hebben. Wat geen tien
+jaar meer duurt.
+Kunstzaal van Lier
+Rokin 126 Amsterdam*
+Oostersche &amp; Europeesche antiquiteiten
+Oude en Modarne schilderijen en plastieken
+Negerkunst &amp; Ethnographlca
+-.
+
+</text>
+<image timestamp="2002:09:22:02:39:20.00" size="284341">000008HN.TIF</image>
+</page>
+</document>

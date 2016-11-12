@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281229</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+rocne
+eekbl
+..jammer
+voor- Nederland
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+INBRAAK-* STORM- en
+WATERLEIDINGSSCHADE
+
+VERZEKERING.
+WHAT IS IN A NAME?""
+
+Een ongerepte reputatie van zeer
+vele jaren.
+De tevredenheid en het vertrouwen
+van een groot aantal afnemers, die tot
+oordeelen bevoegd zijn.
+Het bezit van een ruim gesorteerde
+voorraad belegen wijnen van de beste
+gewassen.
+DIT ALLES VEREENIGT ZICH IN DEN FIRMANAAM
+
+
+VAN STRAALEN MONSIEUR
+
+
+&amp; ERKELENS
+HOFLEVERANCIERS VAN Z.K.H. PRINS HENDRIK
+DER NEDERLANDEN
+
+
+WIJNHANDELAREN
+
+
+F/L.IVLEN:
+HOOFDKANTOOR:
+Rotterdam
+
+Leuvehaven 34
+
+Tel. 2456
+Den Haag, \aita Pi-ulownastr. 36
+Tel. 32532
+
+H?lder
+Hoofdgracht 37 Tel. 83
+HAKLOOSTERHUIS
+AMSTERDAM
+
+
+
+
+
+
+
+
+
+
+
+v^MELLElS
+TABAK
+rf—"T"
+CITYBAAI
+GROEN 20 Cr
+BLAUWl5Cr
+ROOD 13 Cr
+GEEL lOCr
+PER^OM5
+IS IWALITEIT!
+
+
+
+
+(
+
+
+
+
+
+
+
+</text>
+<image timestamp="2002:09:05:23:13:41.00" size="125018">0000078W.TIF</image>
+</page>
+</document>

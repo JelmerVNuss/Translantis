@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261225</Datum>
+<Pagina>26</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2586
+TOKO BOGOR
+SUEZKADE 122 a/b D E N H A A G TELEFOON 33472
+IMPORT INDISCHE PRODUCTEN
+
+THEE, KOFFIE enz.
+IMPORT INDISCHE GENEESMIDDELEN, ALS
+TEMOE LAWAK, DAON REMOEDJUNG,
+OBAT SERIAWAN, BIDARE OEPAS enz.
+STEEDS VERSCHE AANVOER
+VOORDEELIGE PRIJZEN
+MEUBELEN
+AHORN R. 550
+MET GEMOESTEERDtFANEELEN
+NOTEN R. 590
+«tTWORTELHOUTENPANEELEN
+ÓPILGLLKAST l35ftBR
+TAFEL 2, STOELEN
+a NACHTKASTJES
+UTS-JUMEAUX
+
+L&amp;TKAMLO
+MAHONIL R. 415
+NOTEN n. 45O
+«4STOELEN jaARMSTOEUN
+BUFFET TAFEL
+LINDEN
+TEAKHOUT'ENZ
+RC.HOOFT5TR:47
+De groote FranscheWijnmerken
+G. SAIGNES FILS
+Kirbtnne (Ands) Frankrijt, gesticht in 1853
+Bij uitzondering leveren wij gedu
+
+rende de maanden November en
+December onze gerenommeerde, be
+
+legen wijnen, met volle garantie voor
+herkomst, zuiverheid en ouderdom
+(4 tot 9 jaar), franco huis in alle
+steden en dorpen van Holland voor
+den prijs variëerende
+van f 0.65 tot f 0.95 per flesch
+Minim.p.kist v.25f lesschen naar keuze
+
+j Betaling na ontvangst in controle v.d, goederen |
+Vraagt monsterzending, welke gratis
+en franco wordt geleverd door onzen
+hoofdagent voor Holland:
+S.-A. FOULIDI'S Exp.-Imp.-Corpor.
+3e Helmersstraat 27 hs., Amsterdam
+M O
+A C O'
+BOUWSPEELDOOZEN
+GEHEEL
+HOLLANDSCH
+FABRIKAAT
+UITERST
+ONDERHOUDEND
+EN MOOI
+,
+ZEER LEERRIJK EN ONDERHOUDEND SPEELGOED
+
+
+AL-UEENVERKOOP VOOR NEDERLAND:
+
+
+N.V. BOSCH, HONIG &lt;STCo., DOMSTRAAT e, UTRECHT
+
+
+</text>
+<image timestamp="2002:09:26:13:05:56.00" size="118764">D100088G.TIF</image>
+</page>
+</document>

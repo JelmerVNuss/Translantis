@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280623</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DENK ER AAN
+IN HET PROGRAMMA VAN UW ZOMERVACANTIE OPT
+NEMEN EEN BEZOEK AAN DE NENYTO TE ROTTERDAM
+DE NENYTO IS DE GROOTSTE EN BELANGRIJKSTE TEN
+
+TOONSTELLING, OOIT IN NEDERLAND GEORGANISEERD.
+
+ZIJ IS BUITENGEWOON INTERESSANT
+TOEGANGSPRIJS 60 GTS.
+NA 8 UUR 30 CENT B.I.
+BEWIJZEN VAN DOORL. TOEGANG F 15.—B.I.
+PRIJS VAN DEN OFFICIEELEN GIDS.... 50 CTS
+TE BEREIKEN-'
+van Station D.P. met lijn 12A, 15; buslijn A; van Station Maas met lijn 10; bus
+
+lijn B; van Hofplein met lijn 6, 15; buslijn A, B, C; van Station Beurs met buslijn B en C.
+Abonné's
+die hun ,.Groene" tijdens de zomermaanden
+aan andere adressen wenschcn te ontvangen
+dienen dit tijdig op te geven.
+BIJ opgave van^ adreswijzigingen wordt verzocht
+daarbij te melden of deze TIJDELIJK dan wel
+BLIJVEND zijn.'
+
+De Administratie
+DE GKOEXE AMSTERDAMMER"
+mm
+Teleph. 22
+Hotel Pension FLIP HULL"
+Bondshótel der A. N. W. B. 't Geheele Jaar
+geopend. Kamers met stroomend, koud en
+warm water. Elec. licht. Centr. verwarming.
+Auto-garage. H. G. HARMSEN
+HOTEL-RESTAURAHT NAEFF"
+
+HET HEERENLOGEMENT
+
+V E L P b ij ARNHEM
+
+Centraal verwarmd. Stroomend warm en koud water. Priv
+badkamers. Autogarage met aparte Boxen, ook centraal
+verwarmd en electrlsch verlicht. Teleph. Arnhem 98 en
+Velp 722. B. BEIJER.
+NOLIN'T BOSCH
+HOTEL-RESTAURANT »U WAPENINGEN.
+Met dependance Huize Harten". Te midden van bosch
+en helde met schitterende wandelingen. Koud- en warm
+stroomend water op alle kamers. Tennisbaan. Garage.
+Teleph. 314. A. BEIJER.
+ZANDVOORT.
+
+HoteUfestaurant PRINCESS-HOUSE"
+Pension vanaf fl. 5.50 per dag.
+Stroomend water op alle kamers.
+Bekende keuken. Prima referentiën.
+TELEFOON 72.
+Verschenen:
+W. C. SCHÖNSTEDT
+
+Regeering en Liefdcleven
+van Lodewijk XV
+Met een voorrede van Prof.
+H.Brugmans en 47 illustraties
+Ing, t 6.25, Ceb. l 7.50
+
+Uitgave van v. Holkema &amp;
+Warendorf's Uitg.-Mij., A'dam.
+A. van Kempen
+WIJNHANDEL
+Amsterdam
+Gevestigd sedert 1810
+Prinsengracht 975
+
+Red &amp;Whito Pori COCKBURH
+Pale Sherry Ganey
+Wij leveren den nu com
+
+pleten 22sten jaargang van
+
+
+DeVrouwenHiarHuis
+
+Geïllustreerd Maandschrift
+onder redactie van
+ELIS.M.ROGGE
+
+
+IMeil927-30 April 1928
+
+voor den prijs van
+
+Vijf Gulden
+
+Toezending onder rembonrs of na
+ontvangst van postwlssel.
+Aanvragen onder Letter B. B.
+bureau van dit blad.
+KAMERS */^" TELER
+VOORZIEN VAN «0965
+TELEFOON EN WA PM «KOU D WATER
+BOOTMOTORE
+STERLING, GRAY en HALLETT
+Vraag geïllustreerde catalogus
+P CD DS Ufll l HUI/ WETERINGSCHANS 109/111
+ULDlf . WILLINK _ AMSTERDAM _
+ZEILINGA
+C A N O'S
+KAMPEERTENTEN
+VELDTENTEN
+VRAAGT PRIJSCOURANT
+
+AM STER DAM
+PRINS HENDRIKKADE 120 - Tel. 41709-40717
+
+</text>
+<image timestamp="2002:09:04:19:52:13.00" size="185169">000006OT.TIF</image>
+</page>
+</document>

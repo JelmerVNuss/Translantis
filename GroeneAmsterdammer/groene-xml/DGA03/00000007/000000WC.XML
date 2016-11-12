@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070616</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Ministerie na de Staten-Verkiezingen.
+BIJVOEGSEL van De Amsterdammer. Weekbiad voor Nederland van 16 Juni 1907.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman. Harms &amp; Co.
+EERSTE BODE, (Treub): Het vuur Gods viel uit den hemel en heeft uw schapen lam geslagen!"
+TWEEDE BODE, (Roodhuyzen): ,,Kn zie, een groote wind kwam over de woestijn en stiet aan de vier hoeken van het huis en het viel op de
+negen jongelieden, en ik ben gekomen om het u aan te zeggen."
+Jon, (Goeman Borgesius). ,,De dag verga, waarin ik geboren ben, ca de nacht, waarin men zeide: Een jongsken is ontvangen...."
+/. DE TllEMANlE'r, (Pierson) naast ivien verslagen staan: BILIIAD (Tydeman) en ZOPHAZ (Marchant): Die ondeugd ploegen en moeite
+zaaien, maaien dezelve."
+
+</text>
+<image timestamp="2002:08:12:16:54:09.00" size="575226">000000WC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010203</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1232
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND,
+De Liberale Unie en de Urgentie van Grondwetsherziening.
+Een kostelijke grap. (Postiïon).
+De menschensl^ch^erij in alle eeuwen.
+De vijandelijke broeders. (Caran d'Ache in den Figaro).
+PEINS TUAN : »Hier, bloem des Hemels, zijn de vredesvoorwaarden
+der vreemde duivels."
+KEIZEBIN-TANTE : »Liat me toch zoo niet lachen!"
+Koning Edward VII. (Nedirtandsche Spectator).
+DE KONING : En waan niet, dat ik ben, wat ik eens was !
+De hemel weet, en zien zal 't nu de wereld,
+Dat ik den rug keerde aan myn vroeger ik.
+En 't hun zal doen, die eertijds met mij waren.
+Shakes^eare, Hendrik IV, He tooneel.
+John Buil, slachter der X\s eeuw, mnakt geen slecht li uinr in &lt;!t&gt;ii wililendar.s
+der beruchtste mensclienslaciiters als l'uarao, A'idnl Hamid en Timour Lerc;.
+Ronsseau's Droom. (Punch).
+&gt;,W -r- 'ftw wv'lc^""--ï:-- Vj^^Jytm.
+/;M j ;';««4^^Nt
+:-1^\'^' !r^f%djftW-^}'---^'-r-£~/Y$r\ . ?^»r^u.
+^^^,^MfM«-^7 v^^ö^.
+Een wapenstilstand.
+
+Goederen in de doode hand. ('Lustige Bliitter)
+\VAI,IÜ:I K- Hen
+:.u : -Wat i b zoo'n dooie hand moeilijk open te krijgen '.'•'
+
+Ontijdige storingen. /Ihr Vhlu.
+
+fo
+LM:S : ».Mij . ti • .,•
+van je probeert om hrfers.". .w
+BEITTANIA : «Wees ina»',r ge"
+houdt me wakker."
+. .;. maar e; n buurman
+•-•., pas dus op !"
+•k slanp niet, de schrik
+^•'V; U
+GRAAF WAI.UEUSV,,. •. I'ctz Strambach '. Als ik ieder oogenblik door
+dea een of ander wordt gestoord, kom ik nooit waar ik wezen wil."
+
+</text>
+<image timestamp="2002:08:15:14:30:11.00" size="384997">D2000SJ.TIF</image>
+</page>
+</document>

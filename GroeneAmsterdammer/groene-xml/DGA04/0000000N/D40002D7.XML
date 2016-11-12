@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160527</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ZAAD V OOR EEN NIEUWE TOEKOMST
+
+(Het Naturalisatie-Ontwerp aangenomen).
+
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 27 Mei 1916
+Nadruk verboden
+i
+, &gt;' 't A
+Amst. Hoek- en Steendrukkenj, v/h. Ellerman, Harms &amp; Co - n aandrang van den Minister van Justitie heeft, ondanks de ernstige
+bezwaren daartegen aangevoerd, de Tweede Kamer met 35 teyen
+25 stemmen aangenomen het Wetsontwerp, waardoor een aantal
+ingezetenen van Duitsche afkomst als Nederlanders worden
+aangenomen.
+
+
+
+Minister Ort (na de opneming van de kinderen in het Vaderlandsche gezin): En nu, lieve nieuwe
+
+landgenooten, stemt met ons tezamen in, ons geliefd:" Wien Neêrland's bloed door d'aderen
+
+vloeit; Van vreemde smetten vrij.""
+
+Uit het Koor van Genaturaliseerden (mezzo voce): Deutschland, Deutschland, ber alles."
+
+</text>
+<image timestamp="2002:08:22:11:43:27.00" size="278550">D40002D7.TIF</image>
+</page>
+</document>

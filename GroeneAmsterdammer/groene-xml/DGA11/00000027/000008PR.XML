@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>26</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l 26
+DE GROENE AMSTERDAMMER VAN 29 NOVEMBER 1930
+No. 2791
+l
+f
+
+l
+f
+i
+HOOFDKANTOOR:
+KEIZERSGRACHT 570,
+AMSTERDAM.
+OPGERICHT A9 1894.
+DE M v VERZEKERING-M A ATSCHAPPU
+
+MERCURIUS"
+' VERZEKERT, BEHALVE TEGEN
+INBRAAKSCHADE,ooK TEGEN
+BRAND,ONGEVALLEN-EN WATERLEIDINGSCHADE.
+ZOOEVEN VERSCHENEN
+Het laatste boek van de schrijfster van Menschen in 'i Hotel",
+VICKI BAUM
+
+Incident in Lohwinckel"
+In omslag Fl. 2.50, gebonden Fl. 3.50
+C. Z. KLÖTZEL
+
+
+Britsch-lndiëin de Smeltkroes
+met 55 platen
+in omslag Fl. 2.90 - gebonden Fl. 3.90
+Dit is een zeer boeiend en knap geschreven boek over
+Engelsch-Indiëdat op 't oogenblik in 't midden dep belang
+
+stelling staat. Een kennismaking met dit interessante werk
+zal voor iedereen, die zich interesseert voor wat in de
+wereld gebeurt, een verrassing zijn.
+
+Uitgever. W. DE HAAN - Utrecht
+** •« *4 M'
+Adverteert in:
+
+De Groene Amsterdammer
+ZOOEVEN VERSCHEEN:
+
+HET BOEK IN 1930
+
+en in de 20 daaraan voorafgaande jaren
+uitgegeven door
+J. M. MEULENHOFF
+Een letterkundig jaarboek en catalogus, groot 195 bladzijden met over
+de honderd portretten en afbeeldingen en 8 buitentekstplaten in twee
+kleuren.
+Prijs 35 Ct.
+
+Het is een lust in dezen catalogus te bladeren, men vindt hierin
+beschrijvingen en besprekingen van vele bekende letterkundigen en
+bovendien een groot aantal belangwekkende portretten.
+H. P. GEERKE
+Bij bestelling op n der boeken uit den catalogus, hoe gering ook,
+wordt het bedrag van den catalogus in mindering gebracht.
+De levering geschiedt uitsluitend door bemiddeling van den boekhandel
+waarvan de bestelling komt.
+In lederen boekhandel verkrijgbaar.
+Uitgave J. M. MEULENHOFF, Amsterdam
+Het aardigste, degelijkste en dankbaarste geschenk met
+Sint-Nicolaas voor kinderen is een abonnement op:
+ZONNESCHIJN", Maandblad voor de Jeugd
+leeftijd 8-12 jaar
+per 3 maanden Fl. 2.25, franco per post Fl. 2.55
+KIEKEBOE'1, Weekblad voor de Jeugd
+leeftijd 5—7 jaar
+per 3 maanden franco per post Fl. 1.60
+Proefnummers op aanvraag bij den Boekhandel of den
+Uitgever gratis ter beschikking.
+Inteekenaren voor den jaargang 1931 ontvangen van
+Zonneschijn" de December aflevering en van Kiekeboe"
+de 4 laatste nummers gratis.
+UITGEVER: W. DE HAAM - UTRECHT.
+UITKOMST VOOR ALLE MOEEB8!
+BET NIEUWE WEEKBLAD
+KLEÜTEUI2JD5CHRIJT
+» (5-8 JAAR.) Uh«ht
+
+</text>
+<image timestamp="2002:09:22:10:02:28.00" size="138992">000008PR.TIF</image>
+</page>
+</document>

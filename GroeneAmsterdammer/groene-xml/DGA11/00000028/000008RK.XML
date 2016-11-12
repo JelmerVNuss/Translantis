@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DIOSKUREN
+door Albert Heiman
+In de nagelaten -pa-pieren van mijn peetoom, den oud
+
+professor Ludolfs, vond ik den volgenden brief welke ik
+steeds bewaarde als een zonderling, en voor sommigen wellicht
+indruku'ekkend document. Hij luidde aldus:
+r
+G	19 February 1893.
+Edelgeboren en hooggeleerde Heer,
+ALS een uwer aandachtigste toehoorders op de jongste
+Nutsvergadering alhier, heb ik met stijgende belangstelling kennis
+genomen van uw voordracht over de Grieksche mythologie. Want
+wel ben ik, hulponderwijzer in een klein dorp nabij G...., zeer
+verstoken van al wat naar hooger onderricht, en zelfs een klassieke
+opvoeding zweemt, maar de wonderbare fantasieën van oude
+heidensche volkeren hebben zelfs voor ons, die sedert zoo vele eeuwen
+verlicht zijn door de waarheid des Christendoms, vaak eenongemeene
+bekoring, en interesseeren mij steeds bovenmate.
+Dit alles weet een zoo groote zoon onzer Natie als UEd. het voor
+
+recht heeft te zijn, stellig beter dan ik. Ik zou het dan ook niet gewaagd
+hebben met een brief beslag te leggen op uw kostbaren tijd, ware
+het niet, dat n punt in uw voordracht mij levendig een gebeurtenis
+uit mijne jeugd in het geheugen riep, waarmede kan bewezen worden
+dat niet alle fantasieën van de oude Heidenen berustten op een ijdele
+fictie en verblindheid des gemoeds. Het kan zeer wel mogelijk geweest
+zijn dat sommige hunner verbeeldingen betreffende de daden van
+goden en helden, ontleend zijn aan ware gebeurtenissen, even waar
+als hetgeen ik u in de volgende regelen hoop te verhalen.
+UEd. spraakt onder meerdere zaken ook over het tweelingenpaar
+Kastor en Pollux, dat verwekt bij Leda door een zwaan, zijnde de
+vermomming van den oppergod Zeus, opgroeide tot de bekende
+Dioskuren, welke ondanks de gelijkheid van hun afkomst, geboorte
+en. gestalte, in het wezenlijkste verschilden, daar Pollux met de
+onsterfelijkheid begiftigd, Kastor daarentegen aan het lot aller
+menschen, den dood, onderworpen was.
+Gelijk vervaarlijke ruiters over den aardbodem zwervend, nu eens
+hulp biedend, dan weer te vuur en te zwaard de kampementen hunner
+vijanden verwoestend, verbrachten zij hun bestaan, wilde schutters
+van de Kaleidonische jacht en machtige roergangers der Argonauten,
+tot plots door welken gril der Goden ? Kastor uit dit leven werd
+weggerukt en opgesloten in den duisteren Hades, zoodat Pollux, den
+vsede en de vreugde niet langer vindend in de blinkende zalen van
+
+In Amsterdam reed de paardentram ....
+B. van Vlijmen
+den Olymp, smeekte om met zijn broeder wisselend n dag in het
+opperste licht, en n dag.in het uiterste donker te mogen vertoeven.
+Het wil mij voorkomen, doch gaarne geef ik mijn meening voor
+een betere, zoo UEd. dit inzicht niet deelt, dat de oude filosofen
+die niet te wijs waren om deze fabulen te gelooven, daarmede een
+levendig besef toonden van de Voorbeschikking, die een der grond
+
+slagen is van ons geloof, daar immers buiten eenige bekende oorzaak
+de eene broeder tot de hel gedoemd, de andere tot de gelukzaligheid
+gepraedestineerd werd.
+Hoe gaarne ik ook zoude willen, ik waag het echter niet mij in
+theologische bespiegelingen te vermeien, wetende dat de godgeleerd
+
+heid een zaak is van het allergrootste belang, en dies de allergrootste
+omzichtigheid vergt. Datgene waar ik uw aandacht op wilde vestigen
+is veeleer een gebeurtenis uit het meest alledaagsche leven, omtrent
+wier waarheid ik geheel kan instaan, daar mijne familie van oudsher
+bekend is geweest met familie der personen over dewelke ik van zins
+ben te spreken, sommigen zelfs in de mate van oprechte huisvrienden.
+Ik heb haar zeer goed gekend, mejuffrouw P.., die in een straatje
+nabij het huis waar ik geboren werd en de eerste veertien jaren van
+mijn jeugd doorbracht, een kleine kruidenierswinkel dreef, waarin
+ik dikwijls als haar klant voor luttele duiten mijn zakken vol
+tooverballen, zoute drop en zoethout kocht, want mijne ouders waren
+welgestelde lieden, wijlen mijn vader was zelfs tweemaal candidaat
+voor den Kerkeraad.
+Dit zal wel de reden geweest zijn, waarom ik eerst heel veel later
+vernomen heb, dat mejuffrouw P., een minder onschuldige persoon
+was, dan mijn kinderoogcn, verblind door de zoete schatten harer
+kruidenierswinkel, het mij deden verbeelden. Weinig kon ik vermoeden
+dat zij, toenmaals nog geen veertig jaren oud, en bij niemands weten
+gehuwd, in het bezit was van twee zoons, beiden twintig jaren oud
+en tweelingen, die gelukkig voor haar, in Erankrijk vertoefden.
+Ofschoon sommigen in mijn geboortestad dit wel schenen te ver
+
+moeden, zweeg men steeds daarover, omtrent de wijze waarop zij
+tot dit schandelijk bezit geraakt was niet het rechte wetend, doch
+genoeg, om aan zulk een geschiedenis maar liever het zvijgen toe te
+doen. Met uw welnemen vermeldde het gerucht niets minder, dan
+dat zij op een avond, maagd en bijna kind nog, overvallen werd
+door een woesten onverlaat welke had gezien dat zij zich alleen
+tehuis bevond, en welke haar ondanks haar krijten en smeekcn bezat.
+Hoe schandelijk het is, tot zulk een lot gedoemd te zijn, men kan het
+clc overweldigde moeielijk verwijten. Doch zij. ... Terwijl de onver
+
+laat zijn vuige werk verrichtte, verminderden allengs haar kreten
+tot zachte snikken, tot een gesteun dat welhaast leek op het bronstig:
+kreunen van een dier. En toen de booze, bleek en ontdaan van de
+eigen wandaad zijn oogen opsloeg om het tooneel van zijn misdrijf
+te overschouwen, zag hij tot zijn ontsteltenis. . . . dat ze glimlachte.
+Ik meen te mogen veronderstellen dat hij heeft uitgeroepen: ,,Zijt
+gij een maagd. ... of zijt gij niet veeleer een dochter der MoabieteiK
+die nooit het maagddom kende?"
+Doch zooveel is zeker, dat zi| hem omstrengeld hield met hare
+armen en hem smeekte haar niet te verlaten: Zij had hem lief ge
+
+kregen !
+De man, als alle misdadigers, wist dat de gerechte straf hem
+opde hielen zat, en wilde zich /oo haastig hij kon verwijderen om niet
+op heeterdaad betrapt te worden. Doch zij hield hem vast, vleide en
+kuste hem, totdat hij bezweek, en zij nogmaals uit liefde en in zoete
+vcrzaliging verrichtten lu-.tgeen juist te voren den een het botvieren
+van zijn misdadige lusten, der ander een gruwel geweest was.
+Hierna verdween de man voorgoed; het schijnt dat mejuffrouw P..
+hem nimmer terugzag, zoodat het mogelijk de Hooze zelf, of een van
+Belial's afgezanten geweest is, van welke ik weieens zulke geschiede
+
+nissen las, mij afvragende of dit een dom bijgeloof dan wel een vreemd
+
+soortige werkelijkheid moet geweest zijn.
+
+</text>
+<image timestamp="2002:09:22:11:39:41.00" size="197066">000008RK.TIF</image>
+</page>
+</document>

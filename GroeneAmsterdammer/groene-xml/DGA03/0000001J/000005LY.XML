@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250509</Datum>
+<Pagina>52</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+\ék
+'"HO OUDSTE
+(«CAO (DOSTE
+itergaeren
+
+itoor- 't spaeren,
+
+Naast onzen steeds meer gewaardeerden chocolade-kop (als
+premie verkrijgbaar bij inzending van 50 bons) wordt nu ook
+voor de verbruikers van Droste -artikelen een bijpassende
+
+
+DROSTE CHOCOLADE-KETEL
+verkrijgbaar gesteld. Deze waardevolle ketel van Saksisch
+porselein, in bruin en crème met gevlochten rieten hengsel,
+wordt gratis en franco toegezonden na ontvangst van 250
+bons waarvan er in de meest gangbare verpakkingen van
+onze cacao en chocolade n of meer zijn bijgevoegd.
+Ofschoon de verzending eerst van l Augustus a.s. af kan plaats
+hebben, wordt het beschikbaar stellen van Droste's Chocolade
+
+ketel nu al aangekondigd, opdat U reeds thans met het
+vergaeren en spaeren" van de bons kunt aanvangen. Zijt gij een
+geregeld verbruiker van Droste's bonbons, pastilles en cacao,
+dan kunt gij wellicht reeds in den a.s. winter, met zijn vaak
+zoo gezellige avonden aan den huiselijken haard, Droste's
+Verpleegster-cacao schenken uit een Droste Chocolade-ketel.
+OVürune^ ofutiikond in,
+DROSTE'S Cacao-en Chocoladefabrieken, HAARLEM
+
+</text>
+<image timestamp="2002:09:03:10:34:48.00" size="181771">000005LY.TIF</image>
+</page>
+</document>

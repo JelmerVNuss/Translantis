@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050903</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het Engelsch Noord-zeeeskader voor Swinemunde.
+BIJVOEGSEL van De Amsterdammei, Weekblad voor Nederland van 3 September 1905.
+Amst. Boek- en Sleendrukkerij, v/h. Ellerman. Harms &amp; Co.
+KEIZER WILHELM (/of v on Biiloiv]: Och Bülo\v, wat heb je nu aan die schepen l Gaf ik niet heel zoo'n vloot voor n handdruk van mijn
+oom. . . ? Als ik er aan denk, hoe hij mij niet zien wil. . .
+Vo\' BüLOW: Ach, Majesteit... ik deel in uw droefheid... ook mij springen de tranen in de ooLjen.
+
+</text>
+<image timestamp="2002:08:22:09:10:21.00" size="311509">D2002I6.TIF</image>
+</page>
+</document>

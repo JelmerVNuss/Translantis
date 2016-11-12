@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19080913</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Marokko en Duitschland.
+BIJVOEGSEL van Ue Amsterdammer, Weekblad voar Nederland van 13 September 1908
+-:; S::* *$&amp;&amp;&amp;$/*•:^i^K- *
+- :&gt; *i-r-..' - ^-&amp;U;:tY&amp;&gt;~ «.,'$•&amp; *',.- -- ~,
+, v «"•&lt;-,«» , ~v '-^^.^^v--"- " -4;^b^x^ &gt;v ,Vv
+^, •"• ' - v •&gt; ^f-'-".^ "•»'?t» fe-H "VX^ . / * ' &gt;
+
+^]ê- - • =V," : ^^r^^WN&amp;S*^
+»*%*vï*, .,/&gt;la&gt;^-V?&lt;,rvs"x^ .i.*"*» "--^T^^V^vé?^
+"¥^*^/,r^
+* X *S &lt;*« s tT*
+•P- - &gt; -\ v
+&lt;-,V' V'
+*&gt;f«9^, •
+*£^
+y -«
+X,
+
+«^P^---&gt; ^fe
+8»»«i&amp;i»*i:VS5ux ." $^e^ J
+^ •' ^ "»«»5U,*t* •* ijggj.! •*&amp;), ^,f ^^ •&gt;•% * 4 "T, ( " -^ ** V-WV-^J&gt; 6 «pWiS^ffllI
+i?%&amp;r^Ë^'ïSA •'C^^N-1
+Hk' ^«i'Jv.^i^^'A v '' ".Vl^VN
+, _»%
+Anist. Hoek- en S t een il nikker i}, v 'h. Kllermnn, M ar m s £ Co,
+Nauwelijks is Abdul-Azis verslagen of een gulzige roofvogel kringelt al boven het slagveld.
+
+</text>
+<image timestamp="2002:08:14:22:11:01.00" size="602657">000001JX.TIF</image>
+</page>
+</document>

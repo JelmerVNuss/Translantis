@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270312</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ie
+reekb
+voor Nederland
+f 10.-. P«r amamcr M era*
+• * »«g«l
+KEIZERSGRACHT 333
+
+AMSTERDAM
+TFI FFOON •
+TELEI1 OUIN .
+Admlnl.lrllt,« ...... J7»6J
+V RAAGT
+VAN
+IKTEIIELrS
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+EXPORT
+Zoek niet in het Buitenland 't geen
+gij minstens zoo goed en billijker in
+Uw eigen land kunt vinden en ge
+
+bruikt dan 'tNederlandscheFabrikaat
+POOL'S ATOL
+in de bekende doozen en tuben.
+Frissche pepermuntsmaak
+Goed eq [toch zér goedkoop.
+A R Z U R C H ER
+CARTONNAGEFABRlEKenDRUKKERI)
+LOOIBRSGRACHT64-66-68-70-72AMSTERDAM
+R
+E I S - =
+I S I C O
+c l l i
+k./ * * *
+BAGAGE-, RIJWIEL-,
+ONGELUKKEN-,
+AUTOE.A. VERZEKERINGEN
+Vraag onze concurreer ende premiën
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN
+N.V. Meutclmagazijn EDEN*
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE, CASPERS 6 Co.
+Behanger^ - Ameublementen - Stoffeerder^)
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VIJZELGRACHT 13t Telefoon 37354
+Tljdeltjke aanbieding Afghanistan karpetten
+fl. 34i—per M2, en Perzische kleeden
+± 1.00 x 2.0O M. a fl. 48,—per stuk.
+
+GEBR. FORMA, Utrcchtschcstr. 85, TA42MO.
+osco
+TMT
+PROJECTIE-LANTAARN*
+EN BIOSCOPEN
+
+CAPI
+
+AMSTERDAM OEN HAAG
+115 HALVERST* IZ4 NOOROEINDE
+NIJMEGEN GRONINGEN
+l3-t9V.BERCHENSTR&gt; 3
+Kt'TELSTERSTBMAAR
+KARELI
+INTEPMTIOIULWiKIK'
+SCtlAFFMAUSEH
+WERf
+NK01AA5 WITSEN'
+
+STOEl-ALKMAAR
+
+VOOftAFLEVERIMO
+GEREED:
+WREOIE MOTORBOOTEN
+Our
+Spring Shoes
+CLUïctit your
+inspection.
+"n. A. KLOOSTER HUIS
+AMSTERDAM
+LES TEMPS NOUVEAUX"
+BRONZES
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelea naar eigen ontwerpen «f naar ood« ttijjltm
+
+ARNOLÏD HOUTSCHILT
+
+Singel 283 Amsterdam
+i
+
+m
+m
+m
+
+
+EUROPEESCHE
+Goederen- en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+stations der NEDERLANDSCHE
+SPOORWEGEN verkrijgbaar
+i*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, München, Oslo, Parijs. Praag, Rome, Stockholm,
+Warschau en Weenen.
+
+mm
+
+</text>
+<image timestamp="2002:09:25:01:49:07.00" size="148522">D2005TI.TIF</image>
+</page>
+</document>

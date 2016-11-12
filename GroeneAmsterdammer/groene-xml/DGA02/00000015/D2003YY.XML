@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241011</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i
+::
+Verweegen &amp; Kok
+AMSTERDAM - DEN HAAG
+OHBREEKBAAR
+
+Reis- of Bureau-Klokje
+Beschadigt of breekt niet, zelfs niet wanneer
+het op den grond valt.
+Prijs f 17.SO
+Uriaan Schakel
+Heiligeweg 11-17, A'dam
+AMSTERDAM
+PORTWIJN
+MÉDICO
+BRANCO TINTO
+(Wit) f 2.50 (Rood)
+SHERRY
+FINE OLD PAL.Ef1.70en hooger
+
+MADEIRA
+FINE f 2 30 - SUPERIOR f 2.60
+MEDOC
+fi.—.
+Een zeer goede Tafalwljn.
+Min vrage onze uitgebreide Prijscourant
+DE KORINt i Zn. • Keizersgracht 447
+(voorheen L El DSCH ESTRAAT 69)
+SEÜKIHG GASFORNUIZEN
+KAMERJAPONNEN»
+HUISJASSEN
+WOLLEN VESTEN
+Stoomwassciierij Het Zuiden
+PIETEB AERTSZSTBAAT 68-74
+TELEFOON 22365
+is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIB &amp; VAN ELVEN.
+STRIJDT TEGEN STIJL" NABOOTSING
+EN AMBACHTSBEDERF
+Afdeeling AMSTERDAM STADHOUDERS
+
+KADE 80 INGANG BECHT &amp; DYSERINCK
+Afd. BLOEMENDAAL VILLA SORGH-VLIET
+
+maakt ow huid zuiver en zachtmet jeugdig frissche rose, Terblindendschoone teint, verdrijft zomenproeten, ponten
+enz en alle verdere bnidonremheden. Verkrijgbaar i 5 cent per Stuk bij Apothekers, drogisten, en coiffenn.
+Firma J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+
+Specialiteit:
+i MEI IS HET PARAPLUIE-MAGAZUN
+
+V4N DE FIRMA BIEGELAAR
+
+VEENESTRAATgl VERPLAATST NAAR
+
+P A P E S TR AAT 18
+
+DEN HAAG TELEPHOON H. 2502
+TeKoepofinUoop
+nog eenige solied ge
+
+bouwde perceelen, be
+
+vattende: Kamer, Suite,
+Gang, W. G., Keuken,
+Voor- en Achtertuin.
+Boven : 2 of 3 Slaapk.,
+Balcon. Prijzen vanaf
+f 4750.—. Te bevragen bij
+KAMMINGA
+RIJKSSTRAATWEG 49
+SCHOTEN
+AKTEN
+TAS
+REKLAME PRIJS:
+PRIMA RUNDLEDER
+AKTENTAI H TBRVAAKDIOD
+TAK PRIMA VOL RUNDLEDER.
+HIT HANDVAT IS EXTRA VERSTERKT
+DOOR EEN MET LEER OVERTROKKEN
+«TALEN «AND
+GERZON
+KALVERSTRAAT
+DAMSTRAAT
+illustratiedruk-papler van de Firma C. G. A. CORVEY, Keizersgracht 289, Amste.dam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:19:15:36.00" size="174688">D2003YY.TIF</image>
+</page>
+</document>

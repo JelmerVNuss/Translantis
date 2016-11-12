@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270827</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 27 AUGUSTUS 1927
+13
+Radio-raïmefc
+
+Nieuwe lampen en onderdeelen
+• Telefnnken Wisselstroomlamp
+REN 110*
+Siemens en Halske A. G. bijkantoor
+voor Nederland, brengt twee nieuwe
+Telefunken-lampen op de markt.
+De .eerste, de BEN 1104, zal onge
+
+twijfeld een wijziging brengen in den
+bouw van toestellen. Zij is een
+universaal-lamp met een versterkingsfac
+
+tor van 10 en een steilheid van
+"l mill-Ampère per Volt. De
+verza«digings-emissie bedraagt ongeveer 40
+.mill-Ampère, zoodat. deze lamp ook
+als eindlamp gebruikt kan worden.
+De anodespanning kan tot 200 a 220
+Volt, zooals voor een prima
+luidsprekerweergeving gewenscht is, op
+
+gevoerd worden. Uit deze eigenschap
+
+pen blijkt, dat de REN 1104 bruikbaar
+is als H.F., Detector-, en Ie en 2e L.F.
+lamp. De gloeistroom, waarvoor zoowel
+gelijk- als wisselstroom kan gebruikt
+worden, wordt door
+tusschenschakeling van een transformator of
+weerstand uit het net aan de lamp
+toegevoerd, waarbij de spanning voor den
+gloeidraad 4 Volt moet bedragen.
+In de BEN 1104 is de gloeidraad,
+'•welke voor verhitting der kathode
+dient, van de kathode gescheiden.
+Bij het beproeven der lamp, bleek
+•ons, dat zij een zachten bromtoon
+opwekte, die vooral bij het gebruik in
+den vorm van detector zeer hinderlijk
+was. Dit euvel is echter gemakkelijk
+, te verhelpen en wel door het aarden
+van de secundaire van den voedings
+
+transformator.
+De lamp voldeed toen uitstekend in
+alle opzichten, zoowel bij gebruik als
+Tioogfrequentversterker, detector- en
+als' laagfrequentversterker. In den
+laatsfcen vorm zelfs als 2e L.F.lamp.
+Zooals bekend, is hiervoor een zeer
+ruime lamp noodig, welke
+qualificatie op de nieuwe Telefunken B.E.N.
+1104 mag worden toegepast.
+Met het verschijnen van de BEN 1104
+Zal een groote verandering plaats
+hebben in den bouw van toestellen
+en de constructie van
+radio-installatiea, daar thans de accumulatoren
+.kunnen vervallen.
+Met slechts zeer geringe wijzigingen
+in een bestaand' toestel, is het met
+'deze uitstekende Telefunken-lamp mo
+
+gelijk, een dusdanigen vooruitgang
+te bereiken, dat tot
+wisselstroomontvangst kan worden overgegaan
+•en dus de aansluiting van het geheel
+óp het lichtnet mogelijk is.
+De nieuwe lamp die begin Sep
+
+tember in den handel komt heeft
+5 pootjes; 4 hiervan staan op dezelfde
+wijze als bij den normalen
+Europasokkel, terwijl de 5e, de kathode, in
+; het midden geplaatst is.
+
+Telefnnken-Superversterkingslamp R. B. 131
+! x' De superversterkingslainp B.E. 354
+j (Telefunken), die het groote nadeel
+van hoog gloeistroomverbruik sterk
+vertoonde, wordt vervangen door
+«en nieuwe lamp, de B.E. 134. Deze
+lamp onderscheidt zich van haar
+voorgangster door j'beperkte gloei
+
+stroomverbruik enJipöt sfijrker
+steilheid en emissie. «&lt;j?-;'•*'
+De electrische gegevens zijn:
+T f = 3.5 Volt ~
+J.f = 0.15 Amp. l • '.
+Va = 40—220 Vfclt '
+J.B. -- 50 nï, Amp.
+S =2 m^ Amp/Volt.
+g = 9
+Philips' Edelgasveiligheid en
+houder
+N.V. Philips Badio zond ons ter
+aankondiging haar nieuwen houder
+van de Edelgasveiligheid 369. De
+nieuwe houder is onder nr. 369 S.
+geregistreerd.
+Deze veiligheid bewijst uitstekende
+diensten om de statische ladingen,
+die zich tengevolge van atmosferische
+invloeden op de antenne plegen te
+verzamelen, waardoor daarop zeer
+hooge, ongewenschte spanningen kun
+
+nen ontstaan, naar de aarde af te
+voeren. Zij moet bij voorkeur buitens
+
+huis, tusschen antenne en aarde,
+worden aangebracht.
+De houder is gemonteerd met een
+vonkenbrug. Het geheel is zeer ge
+
+makkelijk aan te brengen.
+
+Radio-litteratuur
+
+Bij Philipp Beclam junr. te Leipzig
+verscheen een Duitsch werkje van
+Dipl. Ing. G. Lillge, getiteld
+Badiotechnik, Wege durch Theorie und
+Praxis."
+Het doel van den schrijver: de
+voornaamste gezichtspunten in theo
+
+rie en praktijk der radiotechniek op
+gemakkelijk verstaanbare wijze te
+doen kennen, is in alle opzichten
+bereikt. Alle begrippen worden in een
+
+voudig Duitsch kort doch duidelijk
+omschreven en hieraan is het te
+danken, dat in een kort bestek (104
+kleine pag.) de radiotechniek in haar
+geheel behandeld wordt, waarbij zelfs
+nog ruimte is gebleven om aandacht
+aan ontvangst op wisselstroom te
+wijden.
+Teekening door W. Heath Robinson (Passing Show)
+MWHKAm HOeiNSON
+HOE IN DE STUDIO HET DUEL IN HET BOSCH BIJ
+STOBMWEEB" WOBDT GEMAAKT
+Tentoonstellingen
+r Metz &amp; Co., 's Gravenhage. Kunst-aardewerk van Chris Lanooy, tot
+l September.
+Atelier Loeber en Koning, Blai icum. Schilderijen van Lou Loeber en
+Dirk Koning. Tot l September.
+Kunstzaal Willem Brok, Hilversum. Schilderijen van verschillende meesters
+en krijtteekeningen door Mevr. Brok. Tot l Septembec.
+' Stedelijk Museum, Amsterdam. Schilderijen en Schetsen naar de drie
+Fratellmi's, door C. J. Maks. Tot l September.
+, Stedelijk Museum, .Amsterdam. Schilderijen, en Teekeningen van leden
+van De Brug". Tot L, September.
+Kunstzalen De Sirkel", 's Gravenhage. Modern tapijtwerk naar ontwerpen
+van Zadkine, Hassaerts, de Saedeleer, v. d. Voorde, Tytgat e. a. Tot 7 September.
+^ Friesch Museum, Leeuwarden. Antiek FriéschJZilverwerk. Tot 15 September.
+COMOEDIA
+door HENRIK SCHOLTE
+Alphen a. d. Rijn: Openluchtspel
+Het Teeken des Kruises"
+
+T~) ONKEB bedreigd door den
+Hollandschen polderhemel verrees uit
+de weiden een B ome, dat wel op n
+dag was gebouwd. Paleizen en cata
+
+comben, aardbeving-aehtig bewogen
+in den wind, waren het werk van vaar
+
+dige handwerkslieden uit Alphen ad
+Bhenum, waar ditmaal de Christenen
+vervolgd werden. Met de helsche mid
+
+delen eener geraffineerde techniek
+duizendvoudig versterkt een nieuwe
+wreedheid van Nero klonk hun ge
+
+jammer tusschen het gebrul der wilde
+koeien en ver weg, trans Tiberim,
+rumoerde de kermis van een stervend
+en diepzondig heidendom.
+Maar mocht dan al een oogenblik de
+primitieve entourage en de plaatselijke
+eigenaardigheden onvermijdelijk
+vroolijk werken, de totaalindruk van dezen
+zonderlingen middag blijft toch deze,
+dat werkelijk een paar uur lang het
+centrum van ons tooneel aan de oevers
+van den Ouden Bijn gelegen heeft. Er
+is gewerkt als in den besten schouw
+
+burg en een publiek van eenige duizen
+
+den plattelanders heeft dan ook een
+resultaat te zien gekregen, waar men
+in Amsterdam eer mee ingelegd zou
+hebben.
+In de eerste plaats is dit een mooi
+succes voor den regisseur Ad.
+Hooykaas, die dit welsluitend ensemble met
+uitteraard geringe hulpmiddelen en
+voorbereidingen, maar met de ernstige
+toewijding van een aantal goede be
+
+roepsspelers tot stand heeft weten te
+brengen. Men kent het stuk waarschijn
+
+lijk: een bekeerings-historie naar be
+
+proefd cliché, waarvan .,Geriesius" wel
+het beste product is. Maar overigens
+speelbaar en geschikt voor een opvoe
+
+ring als deze.
+L&gt;e buitenlucht en. de loudspeaker
+leenen zich mi eenmaal niet voor fi
+
+nesses in spel en stem. Toch had het
+spel van Co Balfoort in de hoofdrol
+den gloed eener overtuiging en een zeer
+sterke slotscène met Janny van
+Oogen ontroerde zelfs. Inniger nog en
+vooral tragischer van werking was de
+kleine rol van het christenknaapje door
+Willy Haak, een der gevoeligste ver
+
+rassingen van dezen middag. Het is
+alleen wel jammer dat men naar de
+binnenlanden van Zuid-Holland moet
+gaan om Willy Haak weer eens op
+volle kracht te zien.
+Ook Louis Vervoorn was zeer goed
+als een felle, reeds zieke Nero: harts
+
+tochtelijk spel met Bouwmeester-affi
+
+niteiten. Magda Janssens als Berenice,
+rijk en warm in haar paar kleine sc
+
+nes, en Pierre Myin, onverbeterlijk als
+een dronken bacchant, waren beiden
+in hun soort voortreffelijk en Kommer
+Kleyn, Jan Lemaire en Ben
+Groeneveld, als min of meer edele Bomeinen
+en aanvoerders eener soms wel aardige
+figuratie, droegen het hunne tot deze
+knappe opvoering bij.
+Experimenten, die men van
+Hooykaas misschien verwacht zou hebben,
+bleven uit. Het was alleen goed, deug
+
+delijk vakwerk wat hier gepresteerd
+werd. Met eenige verrassingen dan.
+JUWEELEN, PAARLEN, platina,
+goud, zilver enz. wordt tegen reëele
+waarde te koop gevraagd door H. L a tu
+
+rn er s, juwelier A. o. 1845 Oudegracht 149,
+Utrecht. Expert der Ned. Spoorwegen.
+Confldentiëele bediening.
+
+</text>
+<image timestamp="2002:09:21:17:08:59.00" size="282109">D10006S1.TIF</image>
+</page>
+</document>

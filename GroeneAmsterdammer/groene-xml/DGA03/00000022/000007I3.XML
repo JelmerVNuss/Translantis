@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400608</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+-*!ÏSf Wit-.**:
+WEEKBLAD VOO» NEDERLAND • O!
+1877
+ii
+M
+'m
+i.®••!*••]
+.Vi/'-.-'.'i-.-/
+uikeuA:
+
+iSwJji?
+
+iftsitó.
+
+m
+fcuw en arcMtectuu** B,
+«tó
+&gt;ili
+vrouvren in tij
+cl
+nood.
+
+l||ïv^-,;' - '';.'' • • ' .Jane oe long
+
+
+
+||b koeien ^rorden gemolken. M. J. B
+irusse
+n gr
+*~
+d.
+ond. C, J. Kelk
+*•
+;;*!l &lt;;
+. M.
+er
+P9^II«;W:
+
+?rd lire in Napels. A Virul
+MfS
+i'.'"..'a;"
+;fc?,Tt&gt;i;:
+^SS'll'
+
+|ï«ii;'
+''
+!«»;:;- •.•:.;:"--üi
+
+</text>
+<image timestamp="2002:09:13:05:07:01.00" size="412808">000007I3.TIF</image>
+</page>
+</document>

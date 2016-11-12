@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390715</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+EI S RE CEP TEN
+Verlaat de overvolle stad
+Waar 't heete asfalt brandt...
+Wanneer gy op uw kinderen past
+Houdt gy z' aan zee aan 'n touw.
+Wanneer gy gaat naar bosch en hei
+In 't Noord, Zuid, Oost of West
+Pak in uw koffer zeker bij
+Wat kleeren van asbest
+Het rasbeginsel heeft nu macht,
+Roodhuid te zijn is plicht,
+Wijl 't heele bruine volkje lacht
+Bij 't zien van 'n bleekgezicht.
+* _ " ' ^"S &gt;*. /\ /l *«l A.-'*
+. ..En reis naar 't frissche zonnebad
+Aan 't koele stille strand.
+Wanneer gij wandelen ambieert
+Neem goede schoenen mee
+Kies een hotel, dat adverteert:
+Slechts l minuut van zee!"
+...En hebt gij van uw man wat last.
+Doet 't ook met hem, mevrouw.
+En is er ergens een verbod
+Van blootigheid in zee,
+Neem dan, die zedelijkheid tot spot,
+Uw avondkleeding mee.
+Gij mist in Holland rouge et noir",
+Het kans-spel om het goud.
+Maar veel meer spanning schenkt de vraag;
+h 't morgen warm of koud?
+Tel steeds uw kinderen vóór het gaan
+En tel ze ook nadien
+Dan kan er geen tekort ontstaan
+Of een teveel misschien.
+Hoe lang g' ook met vacantie gaat
+Hoe lang 'g ook vrijheid mint,
+Nog langer trekt ge uw gelaat
+Als gij thuis nota's vindt.
+-_ , _ ,
+Hoe schoon ook 't meer, hoe hoog het Joch
+Hoe veel plezier en pret
+Het allerheerlijkst slaapt gij toch
+Weer in uw eigen bed!
+
+</text>
+<image timestamp="2002:09:12:22:41:03.00" size="161760">D200476.TIF</image>
+</page>
+</document>

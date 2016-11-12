@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271112</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bij het begin van de begrootingsdebatten
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 12 November 1927
+l KERST-RECES
+-.. .•••-•..•:•••:•.•,• ••-.%.-•'A-i.-iitó.-' ».«..•••• •* ' ^i "ifHTnr » n &gt;l''1 • "™*-j -•pJJ^JrTTr i It' &gt;iiaim&gt;uai^^ Vtf^Aöu'f^ri' '^f' 'r'(f^"'«'f ^tt&gt;f,-v,F' •• i»V~- .
+^»^-*^ '
+iv^=^^^?r?«C:::r^^^ ••-.:.-iTï'&gt;»v.-'-'ï-:»'.- :-• •-"-•"• :..^:*'ï^^?*&amp;V*^': -'•'• •
+^^.^^^'3^^^^.;»^^ ;&gt;.-. - . ...
+^^7^^^^^^ • ^ '" •---••- -s
+*.*" • •f. - i '^ • ••	.	*Vi5tM •. •
+- -• •-. - - •
+•••*•:• -«
+' " '•••• -•• ••"•' " ' :
+RUYS
+Amst. Boek- en Seeendr. vjh. Ellctman. Harms 6 Co
+DE VISSER MARCHANT DUYMAER VAN TWIST HEEMSKERCK ALBARDA
+
+NOLENS RUTGERS
+
+Koor der Kamerleden: ,,It 's a long way to Tipperary"
+
+</text>
+<image timestamp="2002:09:26:05:01:09.00" size="211521">D2006JI.TIF</image>
+</page>
+</document>

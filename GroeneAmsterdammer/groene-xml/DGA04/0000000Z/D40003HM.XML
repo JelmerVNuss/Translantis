@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19210507</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NAPOLEON-NUMMER
+S°. 2889
+Zaterdag 7 Mei
+A°. 1921
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN KAMP
+Redacteuren: Prof. Dr. H. BRUGMANS, Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL, Dr. G. NOLST TRENITÉen H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+[Prijs per No. f 0.25. Per half jaar f6.50. Abonn. loopen per jaar | | Redactie en Administratie: Keizersgracht 333, Amsterdam
+INNOUD: BIz. 1. De Amsterdamsehe raads
+
+verkiezing, door Prof. Dr. O. W. Kernkamp
+Napoleon en de Code Civil, door Prof. Mr.
+E. M. Meijers. 2. De stad der 14000 dwazen,
+door Dr. F. van Eeden. Elba-Steinamanger,
+teekening door Jordaan. Japansche Plaat
+
+sen, door Ellen Forest 3. Napoleon en
+Nederland, door Prof. Dr. H. Brugmans
+Napoleon's Macht en Onmacht, door Mr.
+J. A. van Hamel. 5. Voor Vrouwen (red.
+Elis. M. Rogge): Napoleon en de Vrouwen,
+door Dr. N. Japikse—Babbeltje,door Yvonne
+de Tcssan Nat. Ver. voor Vrouwenarbeid,
+door N. Mansfeldt—de Witt Huberts. 7.
+Feuilleton: Het Godsgeschenk, door Willy
+Pétillon. 8. Napoleon in de Caricatuur,
+door Cornelis Vetii Het valsch spelen van
+Napoleon, door Is. Querido. 9. Napoleon
+als veldheer, door Gen. A. N.J. Fabius. 10.
+Napoleon en het tooneel, door Frank Luns
+Dram. Kroniek, door Top Naeff. 11.
+Napoleon en de Joden, door Car. Eitje
+Boekbespreking, door Herm. Middendorp
+Napoleon, door Alb. Plasschaert. 12.
+Financiën en Economie, door J. D.Santilhano.
+14. Ruize-Rijm; Buitenl. humor,
+door Charivarius Uit het Klad
+
+schrift van Jantje. In het Rijks
+
+museum, door H. V.—15. Na de raadsver
+
+kiezing, teekening van Joh. Braakensiek
+Koreaansche Fabels, door Arn. Saalborn
+Het wetsontwerp-Had je me maar, teekening
+van Geerge van Raemdonck Uit de Natuur:
+Aan het water, door Jac. P. Thijsse.
+Bijvoegsel: Bijdeherdenking van Napoleon's
+sterfdag, teekening van Joh. Braakensiek.
+iiiiiiiiiiiiiiiiiinhiiii
+DE AMSTERDAMSCHE
+RAADSVERKIEZING
+De Amsterdamsehe vrouwen hadden
+vroeger den naam, dat zij danig met
+de pantoffel zwaaiden.
+Dat schijnt nu anders te zijn ge
+
+worden. Er is reden voor de veronder
+
+stelling, dat zij thans de leiding van
+den man volgen. In de politiek
+tenminste !
+Bij de gemeenteraadsverkiezing van
+de vorige week hebben zif zich zoo
+gedragen, als door sommige profeten
+voorspeld was. Door hen n.l., die de
+meening verkondigden, dat de toe
+
+kenning van het kiesrecht aan de
+vrouwen in de practijk neer zou
+komen op een verdubbeling van
+het stemmenaantal der verschillen
+
+de politieke partijen, omdat een
+gehuwde vrouw in den regel op den
+
+zelfden candidaat zou stemmen als
+haar man, en een ongehuwde op den
+
+zelfden als de mannen uit hare om
+
+geving.
+Volgens deze vrouwenkenners mocht
+men dus verwachten, dat de partijen
+wier crediet bij de kiezers sinds de
+laatste raadsverkiezing (Mei 1919)
+iiiiiiiiiiiiiiiiifiiiini
+NAPOLEON EN DE CODE CIVIL
+DOOR
+PROF. MR. E. M. MEYEKS
+
+Toen Napoleon naar St. Helena verbannen,
+voor zijn energie geen anderen uitweg had dan
+de overpeinzing, toen verklaarde hij :
+Ma vraie gloire n' est pas d' avoir gagn
+quarante batailles et d' avoir fait la loi aux
+rois. Waterloo cffacera Ie souvenir de tant de
+victoires. Mais ce que rien n' effacera et qui
+vivra ternellement, c' est mon code civil."
+,,Mon code civil". Daarmede doelde hij op
+het Franschc wetboek, welks officieele naam
+volgens het nimmer ingetrokken decreet
+van 27 Alaart 1852 ,,pour rendre hommage
+a la véritéhistorique" nog steeds moest zijn :
+Code Napoléon. Maar de moderne critische
+geest, die zoo graag schijn en wezen wil onder
+
+scheiden en daardoor meer doolt dan de naïef
+vertrouwende van vroeger tijden, heeft ge
+
+meend den naam van Napoleon niet mér
+met het wetboek te mogen verbinden. Waar
+
+om maakt echter dezelfde critische geest geen
+bezwaar om van den Codex van Justinianus
+te spreken, hoewel een ieder weet, dat Jus
+
+tinianus aan de samenstelling van den in
+
+houd part noch deel heeft gehad, doch dat aan
+Tribonianus en zijn medewerkers overgelaten
+heeft? Evenmin is de beroemde Carolina van
+Karel V, de Codex Maximilianus van
+Maximiliaan van Beijeren. Ja, wanneer men den oud
+
+sten bekenden codificator, den Babylonischen
+koning Hammurabi ter verantwoording kon
+roepen en hem zou vragen of hij zelf het wet
+
+boek dat zijn naam draagt gemaakt had, hij
+zou verontwaardigd met de wedervraag
+antwoorden, of ge dacht, dat hij daarvoor bij
+het besturen van zijn groot rijk tijd had
+gehad.
+Waarom dan niet van den Code Napoléon
+gesproken? Te meer waar Napoleon meer aan
+
+spraken kan doen gelden om zijn naam met
+het terecht beroemd en geprezen Fransche
+wetboek te verbinden, dan alle hier boven
+
+genoemde vorsten te zamen.
+Als iedere bouwer van een wereldrijk, was
+Napoleon sterk doordrongen van het nut en
+de beteekenis eener goede wetgeving ; deze
+was het cement waardoor het nieuwe gebouw
+bevestigd moest worden. De wet was voor
+hem de veredelde vorm van orde, regelmaat
+en discipline. Daarmede ging gepaard een
+zekere geringschatting voor de waarde der
+juristen. Deze geringschatting was sterker
+niet gedaald was, alleen door de invoe
+
+ring van het vrouwenkiesrecht ruim
+dubbel zooveel stemmen zouden krij
+
+gen als twee jaren geleden. Ruim
+dubbel, omdat er meer vrouwelijke
+dan mannelijke kiezers zijn.
+Verder zouden zij nog in stemmen
+
+aantal vooruitgaan, omdat het aantal
+mannelijke kiezers sinds 1919 alweer
+grooter is geworden.
+Eindelijk zouden zij ook stemmen er
+bij krijgen uit de gemeenten, die on
+
+langs bij Amsterdam zijn geannexeerd.
+Bij de verkiezing van de vorige week is
+gebleken, dat in deze aanwinsten van
+Amsterdam ruim 13.000 stemmen zijn
+uitgebracht. In Mei 1919 bedroeg het
+aantal bij de Amsterdamsehe raadsver
+
+kiezing uitgebrachte stemmen ruim
+121.000; als gevolg van de annexatie
+is het aantal stemmen dus met bijna
+11 % vermeerderd.
+Wanneer men lette op de genoemde
+omstandigheden, mocht men dus ver
+
+wachten, dat het aantal stemmen der
+politieke partijen, die door andere
+redenen niet achteruit waren gegaan,
+ongeveer 2\ maal zoo groot zou worden
+als in 1919, en dus zou toenemen met
+125 of 130 %.
+De volgende lijst doet zien, in hoe
+
+verre deze verwachting is uitgekomen.
+Wij hebben daarbij alleen de partijen
+opgenomen, die meer dan n zetel in
+den raad hebben gekregen.
+Ook hebben wij ons veroorloofd, de
+op den heer den Hertog uitgebrachte
+4000 slemn.en op te tellen bij die van
+den Vrijheidsbond, al heeft deze laat
+
+ste partij dan ook de fout begaan
+reeds om tactische redenen was dit een
+fout om genoemden heer van hare
+candidatenlijst te weren. Wij meenen
+dat de overgroote meerderheid van hen,
+die hebben voorkomen dat de heer
+den Hertog uit den gemeenteraad werd
+gewipt, uit vrijzinnigen bestaat, die
+op de lijst van den Vrijhei Jsbond zou
+
+den hebben gestemd, indien deze ook
+den naam den Hertog hadde bevat.
+Het aantal stemmen, dat wij hier
+
+onder gemakshalve in 1919 aan den
+Vrijheidsbond toekennen, hoewel deze
+toen nog niet geboren was, is het ge
+
+zamenlijk aantal stemmen, toen ver
+
+kregen door de vrijzinnige partijen,
+uit wier vereeniging deze Bond is
+ontstaan.
+Hier volgt dan het staatje, dat een
+overzicht geeft van de aantallen stem
+
+men, die resp. in 1919 en 1921 op de
+voornaamste politieke partijen zijn
+uitgebracht, en van de in procenten uit
+
+gedrukte vermeerdering van hare
+stemmen bij de jongste verkiezing.
+,	•»""	""	"'
+dan men bij iederen man van de daad
+tegenover den man van het zorg
+
+vuldig wegen van woorden aantreft.
+Het leek soms wel of Napoleon
+den juristenstand als parasieten
+beschouwde, die hij gaarne geheel
+overbodig had gemaakt, als hij
+daartoe een geschikt middel had
+geweten. Ue hem toegeschreven
+uitroep, toen de eerste wetenschap
+
+pelijke commentaar op den code
+verschenen was: Alors mon code est
+perdu," moge een anecdote zijn, zij
+typeert in ieder geval den man.
+Het is Napoleon's persoonlijke
+wensch geweest, dat een code civil tot
+stand kwam en zonder zijn energiek,
+alle zijn tijdgenooten imponeereiid,
+optreden, was deze ook nooit tot
+stand gekomen. Reeds vier ontwerpen
+waren tusschen de jaren 1793 en 1800
+gestrand, toen Napoleon, eerst e Consul
+geworden, op 13 Augustus 1800 een
+commissie van vier juristen benoemde
+om een nieuw ontwerp samen te stel
+
+len. Wat het besluit van instelling
+dezer commissie niet vermeldt, maar
+wat een der leden dezer commissie
+ons medegedeeld heeft, is, dat de
+Minister van Justitie in opdracht van
+den eersten Consul den heeren kennis
+gaf, dat dit werk in den kortst
+mogelijken tijd voltooid moest zijn. De/e
+wensch was een bevel. In vier maan
+
+den tijd had de commissie haar taak
+voltooid : een schitterend nieuw
+ontwerp voor een burgerlijk wetboek
+was gereed. Ter vergelijking diene
+dat de Staatscommissie, die in
+1880 bij ons ingesteld is, tot her
+
+ziening van het Burgerlijk Wetboek met
+korte onderbrekingen tot 1901 doorge
+
+werkt heeft en toen bij haar ontbinding nog
+maar voor de helft met haar taak gereed was.
+Napoleon's stuwkracht is ook bij de verdere
+lotgevallen van het ontwerp duidelijk merk
+
+baar. De zittingen van den Conseil d'Etat,
+waarin het ontwerp behandeld is, presideerde
+hij,wanneer hij in Parijs was,steeds in persoon.
+Met vuur nam hij zelf bij de behandeling her
+
+haaldelijk het woord. Hu toen het Tribunaal
+den Code wegens zijn weinig revolutionairen
+geest slecht gezind bleek en het Corps
+Législatif tot afstemmen der verschillende
+ontwerpen wist te bewegen, toen ontzag
+Napoleon zich niet, om door een soort staats
+
+greep de totstandkoming van den Code te
+S. D. A. P.
+R. Kathol.
+Vrijheidsbond
+Christel. Histor.
+Antirevolut.
+Communisten
+35.240
+19.361
+20.286
+5.403
+8.982
+1 4.290
+84.127
+45.021
+35.000
+26.084
+20.873
+18.133
+139 ",'
+133 ,
+72 "r
+383 /c
+132 ;
+27 ,
+Vrijz. Democraten 10.561 13.563 29
+
+Alleen de Roomsen-Katholieke en de
+antirevolutionaire partij hebben dus
+wat men zou kunnen noemen den nor
+
+malen aanwas van stemmen gekregen,
+of nog iets daarboven.
+De sociaaldemocraten winnen het
+van hen. Voor deze partij is de uitslag
+der verkiezing gunstiger geweest dan
+velen, zoowel in als buiten die partij,
+vermoed hadden. Ondanks de aanmer
+
+kelijke vermindering van leden, die de
+S.D.A.P. in het vorige jaar over het
+geheele land moest boeken, heeft zij
+onder het Amsterdamsehe kiezer
+
+korps geen terrein verloren, maar ge
+
+wonnen.
+Verreweg de meeste reden tot
+juichen over den uitslag der verkiezing
+heeft echter de Christelijk-Historische
+partij, wier aantal stemmen met niet
+minder dan 383% vermeerderde.
+Bij een normalen aanwas zou zij
+thans ongeveer 12.500 stemmen op
+zich hebben vereenigd.
+De 13.500 stemmen, die zij boven dit
+getal verwierf, kan zij alleen hebben
+gekregen van kiezers, die vroeger hunne
+stem uitbrachten op Vrije liberalen of
+Unie-liberalen, voor zooverre deze
+laatsten althans niet tot de vooruit
+
+strevende fractie van hunne partij be
+
+hoorden. Onder den invloed der ge
+
+beurtenissen op maatschappelijk ge
+
+bied van onzen tijd hebben klaarblij
+
+kelijk een groot aantal vrijzinnigen er
+de voorkeur aan gegeven, hunne stem
+uit te brengen op de partij, die als de
+incarnatie van het behoud" in so
+
+ciale vraagstukken moet worden be
+
+schouwd. Vermoedelijk heeft deze partij
+er in sommige kringen ook zijde bij ge
+
+sponnen, dat de eerste der namen van
+hen, die in verkiezings-advertenties
+hare candidaten aanbevalen, die van
+Dr. van Aalst was.
+In zooverre uit het overloopen van
+een aantal vrijzinnigen naar het Chris
+
+telijk-Historische kamp blijkt, dat de
+meest behoudzuchtige liberalen den
+Vrijheidsbond nog te veel vooruit
+
+strevend vinden, mag men dezen laat
+
+sten gelukwenschen met den uitslag
+der verkiezing ; hij zal immers alleen
+dan een rol van eenige beteekenis kun
+
+nen spelen, indien hij zich naar links
+richt. Waren de 13.500 stemmen der
+afvallige vrijzinnigen voor den Vrij
+
+heidsbond behouden gebleven, dan
+zouden zich 48.500 stemmen op zijne can
+
+didaten vereenigd hebben ; in dat geval
+ware de vermeerdering sinds 1919 bijna
+140% geweest, dus nog iets meer dan
+de normale ; thans bedraagt die ver
+
+meerdering slechts 72% en blijft
+zij dus ver beneden de norm. Men kan
+den Vrijheidsbond wel gelukwenschen
+met het f eit,dat hij niet voor conservatief
+wordt aangezien, maar de stichters
+van deze partij zouden vermoedelijk
+na de jongste verkiezing liever nog
+een anderen gelukwensch in ontvangst
+te nemen hebben gehad!
+Nog meer zijn de vrijzinnig-democra
+
+ten ten achter gebleven bij den aanwas,
+dien zij hadden kunnen krijgen, wan
+
+neer hunne partij sinds 1919 niet ge
+
+daald ware in de schatting der kiezers.
+Zij gingen slechts vooruit met 29%,
+wat dus feitelijk neerkomt op een
+geweldigen achteruitgang; zij behaal
+
+den zelfs nog minder stemmen dan de
+groep Had-je-me-maar!
+Het is een bijna tragische omstandig
+
+heid voor de vrijzinnig-democraten,
+dat de eerste verkiezing in de hoofd
+
+stad, waaraan ook de vrouwen deel
+
+namen, zulk een noodlottigen uitslag
+voor hen opleverde ; juist hunne partij
+toch heeft zich het vuur uit de sloffen
+geloopen om den vrouwen het kies
+
+recht te verschaffen.
+Er is echter geen enkele grond voor
+het vermoeden, dat de vrouwelijke
+kiezers uit vrijzinnig-democratische
+kringen niet, evenals de andere vrou
+
+wen, in den regel gestemd zullen
+hebben op denzelfden candidaat als
+haar man, of haar verloofde, of welke
+andere man ook uit hare omgeving.
+Die kringen zelve zijn intusschen klei
+
+ner geworden. Niet bij de vrouwen,
+maar bij de mannen schijnen de vrij
+
+zinnig-democraten het te hebben ver
+
+korven. Het moet hun hebben geschaad,
+dat zij in de gemeentelijke politiek
+gewoonlijk achter de sociaaldemocra
+
+ten aanliepen; alleen in de quaestie van
+de bestraffing der gemeente-werklieden,
+die injuni 1920 gestaakt hebben, scheid
+
+den zij zich van hunne voorgangers
+af .Velen van hunne vroegere kiezers is
+die volgzaamheid der vrijzinnig-demo
+
+craten ten opzichte van de rooden"
+blijkbaar te machtig geworden ; an
+
+deren zullen hebben gedacht: ik kan
+evengoed op een sociaal- als op een
+vrijzinnig-democraat stemmen.
+De communisten ten slotte zitten
+het diepst in den put ; de wijze, waarop
+deze heeren zich van het lidmaatschap
+van den raad hebben gekweten, en met
+name de verachtelijke aanvallen, die
+zij in hun krant tegen wijlen
+burgeiiiiiiiiiimifiiiiiiiiiiiiimiiiiiiiiiiiiii
+Illll MMI11IIIMM1
+Napoleon (Naar een schilderij van P. Delaroche)
+•verzekeren. Uit liet Tribunaal werden de las
+
+tige leden verwijderd en daarmede werd tevens
+de rol van het Corps Législatif tot die van een
+stommen figurant herleid. In 30 wetten vervat,
+kwam de Code in de jaren 1803 en 1804 tot
+stand en werd hijop21 Maart 1804afgekondigd.
+Veel is er geschreven over den invloed, dien
+Napoleon tijdens de beraadslagingen in den
+Conseil d'Etat op den inhoud der bepalingen
+heeft uitgeoefend. Vooral tijdens het Tweede
+Keizerrijk is hij uit dien hoofde in liet onein
+
+dige geprezen. Daartegenover hebben de voor
+
+standersvan het ancien régime zijne beteekenis
+tot een minimum teruggebracht en zijn juri
+
+dische opvattingen scherp gecritiseerd.
+Hen juiste beoordeeling van dit punt is
+hierom moeilijk, omdat de proces-verbalen
+van den Conseil d'Etat door den
+ijverigen Secretaris Locrésterk gere
+
+toucheerd zijn. Men kan zijn kennis
+aangaande de uitlatingen van Napo
+
+leon echter voor een deel aanvullen
+uit de geschriften van n lid van
+den Conseil : Thibaudeau. Uit een
+en ander krijgt men nu dezen indruk :
+directen invloed hebben Napoleon's
+uitlatingen bij belangrijke onder
+
+werpen slechts enkele malen gehad.
+Vooraan staan daarbij nog de erken
+
+ning van de echtscheiding bij onder
+
+ling goedvinden en de regeling der
+adoptie, beide instellingen door
+Napoleon gewenscht, omdat zijn
+huwelijk met Joséphine kinderloos
+bleef. Madame Bonaparte liet zich
+met niet minder belangstelling dan
+haar echtgenoot iederen avond van
+het in tden Conseil d'Etat omtrent
+het onderwerp der echtscheiding
+verhandelde in kennis stellen. Verder
+hebben we aan Napoleon eenige
+nuttige bepalingen te danken betref
+
+fende den burgerlijken stand van
+militairen, het bewind der goederen
+van afwezigen en de plaatsvervulling.
+Zijn invloed is.verder nog herken
+
+baar, - maar het is de vraag of het
+een invloed ten goede is geweest
+bij de hypotheek van de vrouw op
+de goederen van haar man, bij de
+vernietiging van den koop wegens
+benadeeling, bij de regeling der
+fideïcommissen en bij de regeling
+van het wettelijk erfdeel zonder
+mogelijkheid van onterving. Van
+de legitieme portie der kinderen
+verwachtte hij een groote verzwak
+
+king van de positie der aanhangers van
+het ancien régime. 5 Juni 1800 schreef hij
+zijn broer Joseph, koning van Napels : ,,11
+faut tablir Ie Code civil chez vinis ; il
+consolidera votre puissance, puisque par lui
+tont ce qui n' est pas fidéicommis tombe et
+qu 'il ne reste plus de graudcs maisons que
+celles que vous rgez en fiefs. C' est ce qui m'a
+fait prêcher uu Code civil et m' a portéa
+l'établir."
+
+\Ook bij zuiver juridische kwesties nam. Na
+
+poleon eenige malen deel aan het debat. En
+steeds met dezelfde vrijmoedigheid en beslist
+
+heid, die niet voortkwamen uit een bijzonder
+rechtsgeleerd iuzicht.dat heineigen was, maar
+wel uit zijn overtuiging, dat ieder burger met
+meester Teilegen plachten te richten,
+hebben hun vermoedelijk een aantal
+stemmen gekost; men kan zich daar
+
+over slechts verheugen.
+Toch is hun relatieve achteruitgang
+niet zoo groot, als zou volgen uit het
+op hunne partij uitgebrachte aantal
+stemmen. De candidatuur van
+Had-jeme-maar en zijn maat heeft hun veel
+stemmen gekost; het kenteekent de
+communisten en de kringen, die hen
+anders steunen, dat zij de helft van
+hunne zetels in den gemeenteraad
+hebben verloren hoofdzakelijk ten
+gevolge van de concurrentie, die aan
+hunne candidaten-lijst werd aangedaan
+door de lijst, waarop een bekend
+Amsterdamsch vagabond als nummer n
+voorkwam !
+Over dezen laatsten zullen wij geen
+woord verspillen. Alleen moet ons de
+bekentenis uit de pen, dat wij, toen
+deze candidatuur eenmaal gesteld was,
+aan haar succes" niet getwijfeld
+hebben. Een zeker deel van ons volk is
+nu eenmaal zoo ; het doet niets liever
+dan den boel in de war sturen, vooral
+als dit kan geschieden door middel van
+een reuzemop."
+
+Amsterdam is een belangrijke stad,
+maar het is Nederland niet. Naar den
+uitslag van de daar gehouden raadsver
+
+kiezing kan men niet reeds den uitslag
+voorspellen van de verkiezingen, die
+in het volgend jaar voor de Kamer
+zullen worden gehouden. Ook hierom
+niet, omdat in een jaar nog veel kan
+gebeuren en de stem van kiezers, die
+niet in het gareel van een kerkgenoot
+
+schap of een politieke partij loopen,
+gewoonlijk door recente indrukken
+wordt bepaald.
+Zooveel kunnen de vrijzinnigen van
+allerlei schakeering echter wel afleiden
+uit de nederlaag,die zij nu te Amsterdam
+hebben geleden, dat zij in den zomer van
+1922 eenige kans op een herhaling daar
+
+van zullen loopen, indien zij met hun
+gewone lauwheid bij de pakken blijven
+neerzitten en het laten aankomen op
+de actie van de verkiezingsweken.
+Alleen door van nu af alle krachten
+in te spannen, kunnen zij het verloren
+terrein herwinnen ; mocht die poging
+desondanks falen, zij zullen dan althans
+hun tegenspoed niet mede aan eigen
+schuld hebben te wijten.
+
+K E K N K A M P
+gezond verstand over rechtsgeleerde kwesties
+kan meespreken.
+Men kan nu al deze uitlatingen op de juri
+
+dische goudschaal wegen en menige daarvan te
+licht bevinden. Ja, ik geloof zelfs, dat als Na
+
+poleon door zijn moeder voor de rechterlijke
+macht bestemd was geworden, hij nimmer als
+jurist naam zou hebben gemaakt. Maar door
+hem en zijn werk aldus te beoordeelen, doet
+men hem onrecht.
+De taak,die Napoleon zich gesteld had, was
+te groot dan dat deze door n man iu alle
+ondcrdeelen kon uitgevoerd worden.
+Wilde Napoleon geen Philips II worden, dan
+moest hij zich helpers kiezen en aan deze
+veel overlaten. Wat wij nu in Napoleon ten
+aanzien van den Code als van zoovele andere
+zaken bewonderen moeten, dat is de zeker
+
+heid, waarmede hij op een groot doel afging,
+de uitstekende keuze zijner helpers en de
+energie,die hij van zichzelf op deze helpers wist
+over te planten.
+Wenscht men ten slotte iets meer
+persoonlijks, dat Napoleon ook onder de rechtsge
+
+leerden een eereplaats kan geven, dan moge
+daartoe de volgende,onsdoor Thibaudeau over
+
+gebrachte opmerking, dienen. Ook onze wetge
+
+ver kan hiermede nog zijn voordeel doen :
+,,L' inconvénient de trop préciser avait t
+senti par presque tous lespeuples. Ilsn'avaient
+mis dans leurs lois que des principesgénéraux,
+lumineux etféconds en conséquences. On avait
+compris que les combinaisons d'apptication va
+
+riant a l'infini, ontenterait en vain delesfixer
+toutcs, et que cependant, si on en omettait
+quelques-unes, les lois rédigées dans eet
+esprit de précision seraient nécessairement
+incomplètes, et souvent vicieuses dans l'
+application. Dans une foule de circonstances,
+on trouverait Ie code civil rebelle a l' quité.
+Sacrifier les interets des particuliere dans
+les cas non prévus, c' tait admettre que la
+loi pouvait tre injustc ; une telle maxime
+devait suffire pour l a faire proscrire. L'
+injustice pouvait se rencontrer dans les juges,
+parce que c' taient des hommes ; il tait
+contre ia nature des choses qu'elles se
+uiicontrat jamais dans la loi, et que la loi
+forc.at Ie juge a tre injuste malgrélui."
+_J
+
+</text>
+<image timestamp="2002:08:24:12:12:40.00" size="455038">D40003HM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19281110</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 10 NOVEMBER 1928
+No. 2684
+GEKARD B. RIJKE fr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+Koldewey 6 Corbière
+Leidschcstraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+Ik winti er geen doekjes om,
+Ik houd van kwaliteit en
+dus vraag ik niet de een
+of andere Saus van Jan
+alleman en Co., maar
+de onovertreffelijke . . .
+
+MAGGI*
+SPIJZEN-EN SOEPEN-AROMA
+QJASPIBOMMEL:
+BOEKBINDER
+KERKSTRA AT 58
+AMSTERDAM
+Boekverkooping te VGravenhage*
+Door Van Stockum's Antiquariaat (J. B. J, Kerling) zullen van 17—26
+November verschillende belangrijke Bibliotheken verkocht worden o.a. nage
+
+laten door de H.H. Mr. B. Ort, Oud-Minister van Justitie, Mr. E. C.
+Baron Sweerts de Landas Wyborgh, Commissaris der Koningin in
+Z.-Holland, Mr. C. S. Buys Ballot, lid v. h. Hooggerechtshof in Ned.-Indië:
+C. J. Polvliet, Gep. Generaal-Majoor d. Genie, Notaris H. Wertheim,
+Amsterdam, Dr. J. G. van Deventer, Oud-Directeur v. h. Gymnasium
+Willem III te Batavia, Dr. E. Th. Borlé, Prof. a. d. Handels-Hoogeschool
+te Rotterdam, C. R. L. E. Menges, VGravenhage, e.a,
+Hierbij ook eenige zeer goede Boekenkasten, 2 oude Globes, enz.
+KIJKDAGEN 14, 15 en 16 NOVEMBER.
+De Catalogus van ruim 3200 nos. is a f O.5O verkrijgbaar.
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86-90
+DEN HAAG
+Noordeinde 64c
+Plaid mei
+etui. welke
+ingepakt als
+kussen kan
+dienen.
+
+van 19—28 November
+bij BURGERSDUK &amp; NIERMANS
+Wetenschappelijke Boekhandel en Antiquariaat
+Templum Salomonis, Leiden.
+Bibliotheken van wij l on Mr. S. J. L. van Aalten, lid v/d
+Tweede Kamer, Rotterdam, dr. W. J. Lente, predikant,
+Leiden, dr. C. M. Hartog, specialist oor-, neus- en
+keelziekten, 's-Gravenhage, e.a.
+Boeken en Tijdschriften over alie
+Wetenschappen.
+fflUBg*' CATALOGUS verkrijgbaar tegen
+BJ^^ toezending van 25 cent. _
+Verschenen: Cat. 69 Zuid-Holland (3200 nrs.). Verkrijgbaar tegen toezending van 25 et. ^1
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:15:04:47.00" size="134828">0000072J.TIF</image>
+</page>
+</document>

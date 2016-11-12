@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300830</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Cl*
+feddb
+insterdammer
+voor Nederland
+KEIZERSGRACHT 355 - AMSTERDAM - CENTRUM
+BISCUITS DE LINDEBOOM"
+AMSTERDAM
+PRIMA KWALITEITEN,
+DE EDELSTE SMAKEN,
+DE HOOGSTE VOLDOENING
+VOOR OPNAMEN
+VAN UW KINDEREN
+VOOR SPORT OPNAMEN
+HLMO7S
+CAMERA
+Kino opnamen gemaakt
+met FILMO zijn van
+onvergelijkelijke" schoonheid
+FILMO 70D, het summum
+der amateurs kino's
+7 snelheden
+z.g. Slow motion" opnamen
+Revolver lens front
+FILMO films worde i gratis ontwikkeld!
+Het opnemen met FILMO is eenvoudiger dan elke andere mamer van fotografeeren,
+en geeft U opnamen in hare levende beweging.
+FILMO opnamen mislukken nimmer.
+Vraagt uitgebreide geïllustreerde prospect! bij de Generaal-Agenten
+
+FOTO SCHAAP &amp; Co. - Spui 8 - AMSTERDAM
+
+</text>
+<image timestamp="2002:09:22:01:37:35.00" size="142774">000008GG.TIF</image>
+</page>
+</document>

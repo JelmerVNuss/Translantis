@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260206</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2540
+Slotlijst van prijswinners van de prijsvraag W ELK B O E K"
+W. M. des Tombe, Fr. van Mierisstraat
+120, Amsterdam.
+A. Meyer Donker, 188 Kerkstraat,
+A. L. des Tombe, Zie Helmerstraat 53 n,
+J. C. F. v. Brakel, Bloemgracht 64,
+W. Aupers, Egelantiersgracht 86 n,
+L. Besselesn, Nassaukade 51 m,
+K. Boekman, Vijzelstraat 128,
+M. G. H. Warendorf, Koningslaan 36,
+Amsterdam.
+Mej. H. B. A. Heyse, 4 Fred. Hendrik
+
+laan, den Haag.
+D. C. de Witte, Emmastraat 54, Den
+Haag.
+Mej. Eise Fortuin, Stephensonstraat 46,
+H. J. Schouten, Fultonstraat 198,
+Mej. C. Kolstee, Herman
+Costerstraat176, Den Haag.
+Th. K. de Rochefort, de Carpentierstraat
+157, Den Haag.
+L. G. Royaards, Burnierstraat 24, Den
+Haag.
+W. C. Bruinwold Reidel, Laan van
+Meerdervoort 208-, Den Haag.
+M. Poons, Statenlaan 67, Den Haag.
+Harm Laurens van Zijl, van
+Bylandtstraat 64, Den Haag.
+F. van Bolhuis, Statenlaan 121, Den
+Haag.
+H. Nielsen-Vorrink, van Imhoffplein 18,
+Den Haag.
+Th. van Voorthuysen, Anna van
+Bueretistraat 6, Den Haag:
+S. Bruining^Köhlef, 2e Sweelinckstraat
+238, Den Haag.
+Mej. M. Coster, Rijswijksche weg 284,
+Den Haag.
+M. J. Gambon Burnier, Cornelis
+Speelmanstraat 49, Den Haag.
+Mevr. J. Tersteeg-Frank,
+Weissenbruchstraat 109, Den Haag.
+J. F. Gelbers, Beugelsdijk 14%, Rotterd.
+E.W. Schmidt, Beukelsdijk 25ö,Rotterd.
+C. G. Muis, Schiedamschew'eg 170o,
+Rotterdam.
+L. J. van den Toorn, Heemraadssingel
+303, Rotterdam.
+P. H. de Wit, Scheepmakershaven 61,
+P. J. Meylink, p. a. den heer Dooremans,
+Ie Lombardstraat 52, Rotterdam.
+L. van der Heym, Heemraadssingel 268,
+J. Linthuis, C.P. Tielcstraat 3a, Rotterd.
+Mevr. Maurice Son, Schiedamschesingel
+J. A. Dettmeijer, Mathenesserlaan 448a,
+R. van den :Borg, Bellevoysstraat 43b,
+L. W. van IJsselstein, Claes de
+Vrieselaan 1500, Rotterdam.
+H. J. P. Huizenga, 62 Aleidisstraat,
+J. Ph. L. Roder, Ochterveltstraat 29,
+b. KorteWeg,Hoevestraat 280,Rotterdam,
+Roodenburg, Jan Sonjéstraat 5«, Rot
+
+terdam.
+Mei. E. C. de Koning, van
+Oldenbarneveltstraat 124a. Rotterdam.
+P. C. van Heynsbergen, Bergweg 292b,
+A. J. Oerlemans, Berkelschelaan 19b,
+Rotterdam.
+Jetty Struyck, Prinses Julianalaan 88,
+Rotterdam.
+Jac. Jansen, 32 Westerstraat, Rotterdam
+D. M. E. Hooykaas, Esschenlaan 4,
+Rotterdam.
+W. J. C. Claus Moulijn, Roovalkstraat
+15a, Rotterdam.
+L. de Roode, Mathenesserlaan 275,
+Rotterdam.
+J. Weidema van Galen, Bergweg 2006,
+Rotterdam.
+W. A. de Ridder, Pompenburgsingel 25,
+Rotterdam.
+V. C. Kaptein, Oostmaasstraat 14a,
+Rotterdam.
+C. Frenkel-Wiener, Ecndrachtsweg 7,
+Rotterdam.
+Fr. E. Rijs, Beatrijsstraat lOa, Rotterd.
+Mevr. J. K. de Deugd—Prins,
+Vierambachtstraat 42a, Rotterdam.
+C. K. de Heer—Keeman, 's-
+ravendijkwal 32b, Rotterdam.
+Mei. B. Ros'jnbach, van Weelstraat 80,
+Rotterdam.
+J. M. Wolf, Beukelsdijk, 250, Rotterdam.
+A. Rademakers, Boergoensche Vliet 23,
+Rotterdam.
+J. Klaassen, Mauritsweg 12, Rotterdam.
+Reinier P. Sterkenburg, Berlaang 38,
+H. Heere—Rodenburg, v.
+Oldenbarneveltstraat 21, Rotterdam.
+K. Roodenburg, Samuel Muilerplein 8b,
+R. M. L. Rombach v. Vollenhoven,
+Vijvervveg 3, Rotterdam.
+Mevr. Baggerman, Mauritsweg 12,
+H. Croon, Esschenlaan 8, Rotterdam.
+Mevr. C. M. Dinger—de Kanter,
+Westersi'.igel 38, Rotterdam.
+A. Vuyk, Wattierstraat 14ö, Rotterdam.
+G. L." Blokliuis, v. d. Eijndestraat H),
+Den Haag,
+j. Simons—Visser, Statenlaan 67,
+Mevr. Oranje, Regentesselaan 299,
+F.J.Heeris Jr.', Dijkstraat 49, Den Helder.
+(j. B. Noothoven v. Goor, Willem de
+Zwijgerlaan 49, Den Haag.
+N. Witsen Elias, Koningin Emmakade
+199, den Haag.
+J. He lenfeld, Heerengracht 397,
+H. J. Brussc, Kinderdijk D. 243,
+M. Kozena, Heemraadschapaan 86,1
+Amstelveen'
+Mej. S. Dijk, Parkstraat 49, Arnhem.
+A. Nova, Raadhuisstraat 51, Amsterdam
+J. M. C. Lub, 2e Const. Huygenstraat 81,
+G. Hoogeweg, van Bossestraat 42,
+Amsterdam.
+L. Ruygenberg, Vinkenlaan 12, Wasse
+
+naar.
+E. Keuss, Hoogl. Kerksteeg 2, Leiden.
+J. Ligtvoct, Hoog. Kerksteeg. 2, Leiden.
+D. F. Ligtvoet, Hoogl. Kerksteeg 2,
+Leiden.
+Leo A. A. Coheti, Uithoornstraat 39,
+Amsterdam-Zuid.
+R. Bijl, Hoofdweg 139, Amsterdam.
+H. Iburg H/.n., Rodenrijschestraat, 85a,
+Rotterdam.
+J. B. Rodenburg, Frederik
+Hendrikplantsoen 84, Amsterdam.
+J. C. van Dusseldurp, Willebordusstraat
+380, Rotterdam.
+Marg. Konijn, Jan Luikeiistraat 9,
+Amsterdam.
+Alice van Nalmys, Valeriusstraat 274,
+B. C. Lammes, Blauwburgwal 13,
+Mej. M. Meijer, v. Eeghenstraat 43,
+]. M. Konijn, Jan Luikenstraat 9,
+J. F. S. Ornstein, J. J. Viottastraat 15,
+J. E. C. Gucrin, Joh. Verhulststraat
+160 b, Amsterdam.
+Jos. Joppe, Stad aan 't Haringvliet.
+L. van de Loo, J. Obreclitstraat 74,
+R. Brems, J. W. Frisostraat 7a, Leeuw.
+Mei. M. E. Sclnibart, Fred. Hendriklaan
+4, Den Haag.
+Mej. Jo Gerritsen, Snouekaertlaan O,
+Amersfoort.
+J. Jongbloed, Justus v. Effenstraat
+440/5, Utrecht.
+Dr. G. A. Brands, Kinderhuissingel 16,
+Haarlem.
+Hermina Zwart, Valeriusstraat 53, Amst.
+H. Nieuwcnhuyzen-Kniseman,
+Frederikspark 2, Haarlem.
+Mej. C. C. Strootman, Valkenboschiaan
+216, den Haag.
+B. Polak-Cohen, Zwijsenstraat 14, Tilb.
+J. Hageman, de Clercqstraat 552/,
+H. M. Fischer, Fred. Hendriklaan 4,
+den Haag.
+A. M. Beekhuis-Kranenburg, Bolsward.
+P. Posthumus, Dijk 23, Alkmaar.
+N. Posthumus-v. Bodegraven, Dijk 23,
+Alkmaar.
+S. Wit., p.'a. den heer Posthumus, Dijk
+23, Alkmaar.
+M. Hofstee, Staalstraat 14, Utrecht.
+W. J. Eeldsema, NieuW-Scheemda.
+Truus Beijersbergen, Breestraat 53,
+Leiden.
+J. Kapma, Oude Leliestraat ]5b(iven,
+A. L. van Scluiik, Breestraat 114«,
+Leiden.
+P. J. M. van Schaik, Breestraat 114i/,
+Leiden.
+E. van Puien, Buitensociteit Har
+
+monie", Harderwijk.
+E. B. van Delden, Burgsteeg 1. Leiden.
+A. N. Dommering, 11. \V. Mesdagplein 3,
+Groningen.
+NERACA
+Voor
+
+ZAKEN
+E?,
+Voor
+
+VERMAAK
+DE MACHINE VOOR IEDEREEN!
+ROTSVASTE LIGGING OP DEN WEG
+VOLKOMEN BESCHERMING TEGEN ALLE VUIL
+PRIJZEN; f 625,~, f 650,- en f
+800,Hoofdvertegenwoordiger; E. EKKER Jr. Technisch Handelsbureau HENGELO (O)
+
+</text>
+<image timestamp="2002:09:24:22:49:11.00" size="222657">D10007AR.TIF</image>
+</page>
+</document>

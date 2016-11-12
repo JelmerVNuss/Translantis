@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18990827</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De verwerping van het Middelland-kanaal.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 27 Augustus 1899.
+Amst. Boek- en Steendrukkerii, v/h. Ellerman, Hatms &amp; Co.
+VON MlQUEL: Wat nu Sire?
+KEIZER WILHELM: Wacht maar!
+Bij mijn kroon I die mij weerstaat, verpletter ik.
+
+</text>
+<image timestamp="2002:08:13:14:37:58.00" size="334869">D20006B.TIF</image>
+</page>
+</document>

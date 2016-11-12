@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19211105</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ff0. 8315
+Zaterdag 5 November
+A°. 1981
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN KAMP
+Redacteuren: Prof. Dr. H. BRUGMANS, Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL, Dr. G. NOLST TRENITÉen H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+[ Prijs per No. f 0.25. Per ha»jaar t 6 50. Abonn. loopen per jaar | | Redactie en Administratie; Keizersgracht 333, Amsterdam | [ Advertentiën 10.75 per regel plus 20 cent dispositiekosten |
+INHOUD: 1. Grondwetsherziening, door Prof.
+Dr. O. W. Kernkamp. Tijdgenooten: Léon
+Daudet IV, door Dr. W. G. C. Byvanck.
+Walther Rathenau, door Dr. Edward
+Stilgebauer.—2. De grondwetsherziening, teekening
+van Jordaan. Israëïs Wezen en Willen:
+Rasgemeenschap, door Henri Polak. Kre
+
+kelzang, door J. H. Speenhoff. Spreekzaal:
+Methode inde Koloniale Economie, door P. J.
+Willekes Macdonald; Reserveberekening bij
+Levensverzekering-maatschappijen,door Mr. J.
+Kist. 3. Amsterdams hulde aan een dronken
+Chinees, door Dr. Frederik van Eeden.
+5. Voor vrouwen (red. Elis. M. Rogge): De
+a. s. grondwetsherziening en de benoembaar
+
+heid der vrouw tot ambten, door Dr. Hans
+Hillesum. Bont, en wat mode is, door L.
+Kroese-Grégoire. Kleeding van de maand,
+teekening van Netty Heijligers. Uit de
+Natuur: Een en ander over 1921, door Jac.
+P. Thijsse. • 7. De getrouwen, door Mr. F.
+Pauwels. De nieuwe Fransche Opera
+te Amsterdam, teekeningen van B. van Vlij
+
+men. Het Boek, door J.
+KernkampMuyderfnan. 8. Nieuwe Engelsche littera
+
+tuur, door Willem van Doorn. Boekbe
+
+spreking, door Dr. Joh. C. Breen. De Ver
+
+loren zoon, teekening van G. van Raemdonck.
+Schilderkunstkroniek, door A. Plasschaert.
+10. Uit het K'adschrift van, Jantje. 'Ruize
+Rijm. Charivaria en Buitenl.. humor, door
+Charivarius. Onze Puzzle. 11. De con
+
+ferentie te Washington, teekening van Joh.
+Braakensiek. 't Schietgat; Rijmkronyck,
+door Melis Stoke. Feuilleton: Begrafenis
+door Enny Balting. Bijvoegsel: De
+erkenning der russische staatsschuld,/teeke
+
+ning van Joh. Braakensiek.
+GRONDWETSHERZIENING
+Wanneer de herinnering aan No
+
+vember 1918 bij sommigen dreigde te
+vervagen, dan zorgt de Tweede Kamer
+er thans voor, dat de gebeurtenissen
+van die maand weer m het geheugen
+terug worden geroepen.
+Soms neemt een minister de taak
+van het oprakelen op zich, soms zijn
+het leden der volksvertegenwoordiging,
+die in de asch roeren. Al naar het
+valt.
+Toen de vorige week de
+interpellatieDrion werd behandeld, achtte minister
+Aalberse het gewenscht, zijne hoorders
+terug te voeren in de geestelijke atmos
+
+feer van November 1918: een atmos
+
+feer met zooveel spankracht, dat som
+
+mige Kamerleden er ijl in het hoofd
+door werden en zich lieten vervoeren
+tot het goedkeuren van wetten, waar
+
+van ze thans niet meer begrijpen, dat
+ze er ooit vór hebben kunnen stemmen.
+Maar bij de algemeene beschou
+
+wingen" over de ontwerpen tot grond
+
+wetsherziening kwam de herinnering
+aan de omstandigheden, waaruit de
+wensch tot grondwetsherziening geboren
+was, niet van de regeeringstafel, maar
+van het spreekgestoelte der Kamer
+
+leden.
+Het waren de heeren Marchant eu
+Troelstra, die het verband legden
+tusschen November 1918 en de grondwets
+
+herziening van thans.
+De laatste sprak van de splinters
+van stuk geslagen tronen, die ons toen
+om de ooren waaiden en van den donder
+der internationale revolutie, die ook
+hier werd gehoord, ook door de re
+
+geering.
+De eerste gewaagde ervan, hoe ver
+
+sterking van den volksinvloed over de
+geheele linie ook hier toen noodzakelijk
+werd geoordeeld. De destijds gestelde
+eischen kwamen hierop neer: verster
+
+king van den volksinvloed.rechtstreeks,
+door invoering van het referendum,
+middellijk, door het verleenen van
+medezeggenschap in de buitenlandsche
+politiek aan de Staten-Generaal. Ver
+
+der wilde men aan de Kroon het recht
+tot oorlogsverklaring ontnemen en de
+bepalingen over de troonsopvolging
+wijzigen, opdat geen aan Nederland
+volkomen vreemde vorst of vorstin tot
+de regeering zou kunnen worden ge
+
+roepen. Eindelijk verlangde men het
+vrouwenkiesrecht en de opheffing van
+de Eerste Kamer; een vrij-liberaal
+Kamerlid sprak zelfs als zijne meening
+uit, dat alleen de boden van de Eerste
+Kamer er over zouden treuren, wanneer
+dit college ten doode gedoemd weid
+Dit verlangen naar een nieuwe
+staatsorde, zoo betoogden de heeren
+Marchant en Troelstra, had beviedigd
+moeten worden door een ingrijpende
+wijziging van de grondwet; de daartoe
+ingediende voorstellen waren echter
+verre beneden de verwachting gebleven;
+de heivormingsijver van de regeering
+vvas blijkbaar bekoeld; de berg had
+slechts een muis gebaard.
+Aan den ministei van
+binnenlandsche zaken viel thans de taak ten deel,
+November 1918 te verloochenen
+een taak, waarvan hij zich minstens
+even goed kweet als zijn ambtgenoot
+Aalberse had gedaan, toen deze onlangs
+het tegenovergestelde moest doen. De
+heer Ruys de Beerenbrouck is alevel
+geen geestdriftig redenaar; hij behoeft
+zich geen geweld aan te doen, wanneer
+de gelegenheid van hem eischt een zoo
+nuchter mogelijk betoog te houden.
+Verband tusschen November 1918
+en de grondwetsherziening zoo zou
+men zijn betoog kunnen samenvatten—:
+hoe komt gij er aan? Heb ik dan in die
+Novembermaand eenige mededeeling
+gedaan, eenige verwachting gewekt
+betreffende een herziening van de grond
+
+wet? Ik deed dit eerst in December
+1918, bij de algemeene beschouwingen
+over de begrooting. En waarom toen?
+onder den indruk van de revolutionaire
+bewegingen, die toen geheel Europa in
+beroering brachten? Dit zij verre
+van mij.
+Neen, de vork zit aldus in den steel.
+Onder het Kabinet-Cort van der
+Linden heeft een partieele grondwets
+
+herziening plaats gehad, die alleen tot
+iimiiittiiiiiiiiiiiiiiiiiiittimiiiiiiiiiiiiiiimtiiimiiiiiiiiiiiiiiitmiiiiiimiiimitiiiiitiimiiitiii
+•' ;JL- -..v-. -x. *; • :/• f 1
+M TUDGENCDTEN'
+k f l l , «^ l 1:1 1 l &gt; J
+LÉON DAUDET
+IV
+
+Het amusantste van Daudet's Souvenirs
+zijn de herinneringen aan de
+pfopagandatochten voor de groote zaak. Door Frankrijk
+ging het van het Noorden tot het Zuiden,
+van het Westen naar het Oosten.
+Reeds van het begin der eeuw af is er n.l.
+een liga gevormd van Maurras' aanhangers
+tot verspreiding van zijn ideeën. Enkele
+groote namen der legitimische partij, sloten
+zich daarbij aan: de marquise de Mac Mahon,
+de graaf de Lur-Saluces e. a.; een politieke
+geloofsbelijdenis werd opgesteld, door
+handteekening bekrachtigd, en een eedgenoot
+
+schap was daardoor in 't leven geroepen; ja,
+het was een soort van samenzwering, maar
+met een openbaar doel.
+De beweging breidde zich dan uit in de
+groote steden; maar ook op het land in de
+dorpen had zij haar vertakkingen.
+Léon is er trotsch op dat het eerst in een
+vergadering te Parijs onder zijn leiding de
+strijdleus met geestdrift werd uitgeroepen.
+
+Het was in een locaal, dat wel zesduizend
+menschen kon bevatten. Er waren er van
+allerlei slag, velen waren uit nieuwsgierig
+
+heid gekomen, maar de welsprekendheid
+had hoogtij gevierd onder de voorstrijders
+der Action Franc.aise.
+Naar gewoonte kwam Léon het laatst aan
+het woord, om de conclusie van den avond
+op te maken; hij profiteerde van de stemming
+door de voorgangers opgewekt, om als een
+bevrijdend woord het ,, Vive Ie Roi!" aan het
+publiek toe te roepen.
+Het was meer dan enthousiasme dat hij
+oogstte, het was een bijna waanzinnige geest
+
+drijverij. De menschen gooiden hun hoeden
+in de lucht en stormden op de estrade af om
+den spreker de hand te drukken, het is
+een wonder geweest dat zij niet instortte
+onder den aandrang.
+Maar de electrische stroom had plotseling
+zijn weg gevonden, hij ging door het geheele
+publiek. Zoo zou, meende men en droomde
+men, eenmaal dtiör een bijzondere omstandig
+
+heid de vonk ontspringen die de natie
+zelf vuur zou doen vatten. Zal men het dan
+een wonder moeten noemen? Maar hoe goed
+voorbereid zij ook moge zijn, een beweging,
+wil ze doorbreken, heeft altoos iets van een
+wonder noodig.
+
+Hij was heel prettig, die rondgang door het
+land en men deed veel ondervinding op,
+daarentegen was hij zeer vermoeiend, ofschoon
+de troep, zoo noemden zij zich, als zij in
+de provincie gingen dank zij de zorgen
+van Mevrouw Daudet meestal een goed
+onderkomen vond. O die oude herbergen
+waar men eerst een praatje gaat maken met
+de vrouw van het huis en kennis aanknoopt
+met den patroon voor zijn braadspit in de
+keuken en vraagt naar het menu, waar men
+geduldig wacht op het warme water dat men
+heeft besteld en op den kleêrenborstel,
+die niet wil komen, waar men het
+moderne" comfort mist, om zich heusch
+thuis te gevoelen en op zijn gemak te
+zijn, buiten het toezicht van volmaakt
+gestyleerde kellners die ceremonieel, volstrekt
+onverschillig zijn hoe het den gasten gaat!
+het onderwijs en het kiesrecht beperkt
+bleef; iedere poging om den genoemden
+minister tot een ruimere revisie te
+bewegen, om er b.v. ook de troon
+
+opvolging in op te nemen, stuitte
+bij hem op verzet; hij achtte het slagen
+eener herziening, die alleen de onder
+
+werpen: kiesrecht en onderwijs betrof,
+van zooveel beteekenis, dat hij die niet
+in gevaar wilde brengen door er andere
+punten aan toe te voegen.
+Maar eigenlijk was die herziening
+dus maar half werk. Vooral de troon
+
+opvolging behoorde anders te worden
+geregeld. In gewone omstandigheden
+zou het tegenwoordige ministerie, toen
+het in September 1918 optrad, reeds
+een nieuwe grondwetsherziening op
+zijn programma hebben kunnen zetten;
+want partieel werk, zooals het vorige
+kabinet had geleverd, vereischi aan
+
+vulling, niet waar? door ander partieel
+werk.
+Ik behoef de heeren echter niet eraan
+te herinneren, dat wij in September
+1918 nog in oorlogstijd verkeerden, en
+dat de regeering dus toen nog de handen
+vol had met allerlei aangelegenheden,
+die uit den oorlog voortvloeiden; aan
+grondwetsheiziening konden wij niet
+denken.
+Maar toen kwam, in November 1918,
+de wapenstilstand; de Europeesche toe
+
+stand was geheel veranderd; nu de
+vrede in zicht geraakte, zou de behan
+
+deling van crisis-aangelegenheden veel
+minder tijd kosten; de Tweede Kamer
+van toen maakte bovendien den indruk,
+dat zij snel wilde werken; vandaar dat
+de regeering in December 1918 voor
+het eerst eenige mededeelingen deed
+omtrent hare plannen tot een nieuwe
+gedeeltelijke herziening der grondwet.
+
+Is dit 'niet een knap betoog, wanneer
+men de taak heeft te vervullen, het
+verband tusschen de thans aanhangige
+grondwetsherziening en de democra
+
+tische strooming van de laatste maan
+
+den van 1918 te1 ontkennen en daardoor
+bij voorbaat het verwijt af te weren, dat
+die herziening niet de hervormingen
+brengt, die destijds verwacht werden?
+En het heeft bovendien dit voordcel,
+dat het toch contact legt tusschen No
+
+vember 1918 en de grondwetsherziening.
+Alleen maar: wanneer minister Ruys de
+Beerenbrouck dit verband erkent, dan
+bedoelt hij met November 1918 niet:
+de democratische bevlieging van die
+maand, maar: den wapenstilstand, het
+uitzicht op vrede, de mogelijkheid dus
+om onderwerpen aan de orde te stellen,
+die nog hadden moeten wachten, als
+de oorlogstoestand had voortgeduurd.
+De democratische bevlieging van
+Novemner 1918: met opzet gebruikten wij
+dit woord, want voor velen in Neder
+
+land is het niet anders dan een
+nevliegiiK* geweest.
+Daarom moet men zich er Ten slutte
+ook over verheugen, dat de grondwets
+
+herziening drie jaren noodig heeft gehad
+om rijp te worden gestoofd.
+Zoowel de heer Schaper in de nota,
+die hij als lid der commissie tot voor
+
+bereiding der '" grondwetsherziening
+schieef als de heer Troelstra, in
+het jongste Kamerdebat, heeft her
+
+innerd aan de vermaard geworden rede
+van Lassalle„Ueber Veifassungswesen",
+waarin hij betoogde: de feitelijke machts
+
+verhoudingen in de maatschappij vor
+
+men de weikelijke, de ongeschreven
+constitutie van een land; geschreven
+grondwetten zijn alleen dan van waarde
+en duurzaam,als zij die feitelijke machts
+
+verhoudingen tot uitdrukking brengen.
+Die laatste zinsnede willen wij hier
+onderstrepen. In November 1918 en
+volgende maanden heeft men de feite
+
+lijke machtsverhoudingen hier te lande
+verkeerd geschat. De vergissing" van
+den heei Troelstra is het meest bekend
+geworden; maar hij was niet de eenige,
+die zich vergiste in de macht van de
+arbeidersklasse; cok zijne tegenstanders
+hebben de beteekenis van de democratie
+toen overschat. Indien er destijds bin
+
+nen enkele weken een grondwetsher
+
+ziening tot stand ware gekomen, zou
+zij veel radicaler zijn uitgevallen dan
+thans het geval zal zijn; zij zou uit
+
+drukking hebben gegeven niet aan de
+machtsverhoudingen, die feitelijk in
+ons land bestaan, maar in overeenstem
+
+ming zijn geweest met de verkeerde
+voorstelling, die men zich er toen van
+vormde; daarom zou zij geen waarde
+hebben gehad en niet duurzaam zijn
+geweest.
+Maar zij zou zeker meer de aandacht
+hebben getrokken dan die van thans.
+Waarin de verschillende Kamerleden,
+die bij de algemeene-beschouwingen het
+woord voerden, ook mochten verschil
+
+len, hierover waren nagenoeg allen het
+eens, dat het Nederlandsche volk on
+
+verschillig staat tegenover de grond
+
+wetsherziening, die thans aan de orde is.
+Zelfs over de redenen van die onver
+
+schilligheid: de economische crisis, de
+materieele zorgen, waaronder de meeste
+menschen gebukt gaan, de ontnuchte
+
+ring, die velen sinds November 1918
+hebben ondergaan, bestond weinig ver
+
+schil van gevoelen.
+De herziening der regelen van ons
+staatsbestel heeft trouwens meestal
+slechts in engere kringen belangstelling
+gewekt. Maar zelfs in die kringen ont
+
+breekt tegenwoordig aan velen het ge
+
+loof, dat een verbetering van onze
+staatsinrichting veel mits kan uitwer
+
+ken. Men heeft vage voorstellingen van
+een op sociale en economische basis
+opgetrokken volksvertegenwoordiging,
+die naast de tegenwoordige, de politieke,
+zal moeten verrijzen en haar een deel
+van het werk uit handen zal nemen en
+dit beter zal vei richten dan zij, maar
+niemand kan die gedachten nog vast
+omlijnen. Men gelooft niet meer in het
+parlementarisme, maar weet er nog
+niets beters voor in de plaats te stellen.
+Voor diep ingrijpende hervormingen op
+dit gebied zijn &lt;Je tijden nog niet rijp.
+Daarmede is echter niet gezegd, dat
+de herziening, waarmede de Kamer
+zich thans bezig houdt, eigenlijk zonder
+belang is. Zoowel de ontwerpen zelve
+als de daarop ingediende amendementen
+stellen een aantal vraagstukken aan de
+orde, die de aandacht ten volle waard
+zijn. Misschien zullen wij enkele daar
+
+van ook hier onder de oogen kunnen
+zien. Wij vermoeden althans, dat de
+Kamer ons daartoe de gelegenheid zal
+laten; indien zij haar tempo niet ver
+
+haast, zullen er nog ettelijke weken met
+de behandeling der grondwetsherziening
+gemoeid zijn !
+
+
+KERNRAMP
+IIIIIIIIIIIIIIIIHIIMIIlllllllllHlllltlllflIIIIIIIIIIIItlllMlllllinillltlllllll
+WALTHER RATHENAU
+Daargelaten de enkele duitsche radikale
+pacifisten als Fried, Förster, Gerlach,
+Hohenlohe e.a., is Walther' Rathenau de
+man van het herstel, van den opbouw,
+eigenlijk de eerste met wien de open
+
+bare meening van het vijandelijk buiten
+
+land zich weer op vriendschappelijke wijze
+bezig houdt. Dat is veel, zoo niet alles
+gewonnen voor Duitschland, want op de
+openbare meening van de vroegere vijanden
+komt het nu juist aan en daardoor alleen
+reeds treedt de oud-directeur van de
+Allgemeine Elektricitats Gesellschaft te Ber
+
+lijn op den voorgrond der politieke belang
+
+stelling.
+Hij is het geweest die het plan tot weder
+
+opbouw heeft uitgewerkt, die de overeenkomst
+met Loucheur te Wiesbaden heeft geteekend
+juist op het oogenblik dat bij George Allen &amp;•
+Unwin te Londen zijn boek, dat voor den
+oorlog meer afgekeurd dan geprezen werd,
+V on kommenden Dingen, onder den titel:
+In days to come, verschenen is. Walther
+Rathenau, jood, zoon van een Gründer en
+zelf directeur van een der grootste
+industrieele ondernemingen ter wereld, althans wat
+uitgebreidheid van belangensfeeren betreft,
+heeft, nadat hij reeds veel op philosofisch
+en economisch gebied had geschreven, vroeg
+
+tijdig gezien den ommekeer die door den we
+
+reldoorlog gebiacht was en eerder dan menig
+ander man geweten wat daaruit voortko
+
+men zou. Hij had oog voor de macht van
+den arbeid die zoo niet als grootere faktor,
+dan toch zeker als gelijkstaande met het
+kapitaal opgetreden is en ook optreden moest.
+Niet omdat hij had geleerd door den nood
+van zijn tijd en van zijn volk, maar wel
+degelijk als gevolg van logisch denken (dat
+in zijn verbazingwekkende zuiverheid aan
+het nadenken van een Immanuel Kant her
+
+innert, op wien hij overigens ook gelijkt),
+kwam hij tot inzicht. Zoo ontdekte hij de
+formule van de uitwisseling van goederen,
+waardoor en waardoor allén de samenwer
+
+king van Frankrijk en Duitschland in dit
+tijdvak van verlaging der mark-waarde
+mogelijk gemaakt is. Want hij bracht in
+dezen tijd van verwarde denkbeelden op
+
+nieuw, slechts door rustig nadenken, de eigen
+
+schap van het geld als zuiver ruilmiddel naar
+voren, terwijl anderen zich nog altijd lieten
+verblinden door den schijn van macht, die
+het kapitaal eens had uitgeoefend door
+den traditioneclen rang aan het goud
+toegekend, dat men toch noch eten
+noch drinken kan.
+De woorden van lof die de engelsche refe
+
+rent in de litteraire bijlage van de Times in
+deze beslissende dagen, waarin het verstand
+weer zegevieren mocht, aan Walther Rathenau
+en de duitschere publiek wijdde, die woorden
+van een nuchter engelsch verstandsmensen
+zijn vermeldenswaardig.
+Hij schrijft: ,,Rathenau is een uitne
+
+mende, eerlijke denker die een maat
+
+schappelijk leerstuk heeft te verkondigen....
+een leerstuk van sociale, moreele en politieke
+beteekenis". Ik onderstreep met opzet het
+woord moreele omdat het vermelden daarvan
+iiliiliiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiliiniliiiMi
+iiiiiiiiiumiiiimiiiiMii"""!"111111111111111111111"1111111111*1111111111111"111111"11"1""11""11*"*
+En dan de oude steden waarin men loopt
+te dwalen door nauwe straatjes met trappen
+op die naar een pleintje voeren, verloren in
+zijn eenzaamheid en schilderachtig verzonken
+in het verleden ! Soms onder het dichterlijk
+waas van den avond dat alle gedachten van
+den hartstochtelijken strijd van het oogenblik
+in zich opneemt en doet vergaan, en soms
+onder het vroolijke, levenwekkende schijnsel
+van de zon, zooals in Pcrpignan, de hoofdstad
+van Fransch Catalonië.
+Perpignan, dat is de bevoorrechte stad.
+Het heeft de zee en het heeft het gebergte.
+Het heeft de dubbele schittering van water
+en sneeuw, wanneer de zon het een en de
+andere raakt. De Catalanen, maar dat zijn
+Daudet's broeders, zij gevoelen hetzelfde,
+en zij hebben dezelfde manier hun gevoel
+uit te drukken; vooral zij bezitten het goede
+humeur waarmee zij de kleine en grootere
+en zelfs de grootste ongeriefelijkheden van
+het leven van zich af kunnen schuiven.
+Wanneer ik een Catalaansch gehoor voor
+me heb," erkent Daudet, voel ik mij zoo
+op mijn gemak, dat ik moeite moet doen,
+om hun geen historietjes te vertellen, inplaats
+van over politiek te gaan spreken."
+
+Laat ons de ondervinding voorbijgaan bij
+al de menu's en bij de kostelijkheid der wijnen
+opgedaan en zelfs de heerlijke vischschotels
+niet vermelden, waarvan de tong het hoofdin
+
+grediënt was, een dier als men het zoo mag
+noemen, waarvan de onbevroede en onbe
+
+schrijfelijke verbeeldingsvruchtbaarheid zich
+bij alle sausen weet aan te passen. Laat
+ons dit niet zonder eenig heimwee voorbij
+
+gaan: er zijn nog meer ervaringen.
+Men denkt gewoonlijk dat het publiek
+van het Noorden steiler is in zijn ideeën en
+moeilijker te bewegen dan het publiek van
+het Zuiden met zijn snel opvlammend enthou
+
+siasme. Dit gaat toch niet op. Er is voor
+geheel Frankrijk maar n publiek, warm of
+lauw of koud, al naarmate men zijn gevoe
+
+lige snaar heeft weten te pakken. En het is
+niet wat de spreker zegt dat hem in aanraking
+brengt met zijn gehoor, maar het is de over
+
+tuiging, waarmee hij het zegt. Het is een
+quaestie van temperament.
+Luister daarom niet te zeer naar de
+menschen van de streek waar ge een rede gaat
+houden en die u komen waarschuwen:
+roer dit onderwerp aan en blijf vooral van dat
+onderwerp af. Het is hier niet als op andere
+plaatsen. Zeg dat ge u erg verplicht ge
+
+voelt voor hun raad, en dat ge u er aan zult
+houden; maar vergeet het zoo gauw mogelijk.
+
+Het verhaal van Jules Lemaitre's redevoe
+
+ring in Rijssel is niet onvermakelijk.
+Tot de royalistische partij overgegaan,
+was hij, ils lid van de Académie Franchise,
+het officieele hoofd. Men plaatste hem voor
+
+aan op de programma's; de naam van den
+beroemden man trok de menschen aan.
+Bij zijn komst legden een aantal Rijsselsche
+vrienden beslag op Jules Lemaitre en be
+
+duidden hem. dat hij zijn gehoor warm moest
+maken door een locaal-patriotieke herinne
+
+ring aan den strijd door de Vlamingen in de
+Middeleeuwen tegen hun belagers gevoerd,
+toen zij met hun beruchten strijdknods, den
+goedendag, de aanvallers ontzield deden
+buitelen.
+Hij was niet gemakkelijk, Lemaitre, en
+had er eerst veel tegen. Eindelijk gaf hij toe
+en ging raad vragen aan het kleine comit
+dat behalve uit Léon en zijn vrouw uit nog
+twee andere leden bestond.
+Ik vind .die zinspeling op den goeden
+
+dag" wel wat al te forsch," zeide hij, en
+weet ook niet waar haar precies te plaatsen."
+Wel, waarde peet," hij was de intieme
+huisvriend der Daudets, laat haar dan
+weg."
+Maar men zegt, dat zij een groot effect
+zal maken. Ik ken die zaal van vroegere
+gelegenheden. Zij is buitengewoon ruim en
+haar te ontdooien is des duivels. Dat woord
+zal haar ontdooien."
+
+Er bleven toch nog eenige tegenwerpingen
+bestaan. In den mond van een fijn kriticus
+was de allusie te brutaal. Men werd het eens
+over de volgende formule: Neemt uw ern
+
+stige toevlucht, mijn waarde vrienden, tot
+een moreelen goedendag l". De ernst en de
+moraliteit brachten het wapen op een ander
+plan van gedachten.
+Hoe gespannen zaten onze vrienden op de
+estrade te wachten naar de werking van den
+fameuzenzin! De orde in de zaal was uitste
+
+kend verzekerd door een geoefend corps van
+camelots du Roi. Lemaitre werd met don
+
+derend applaus ontvangen. Slechts een dozijn
+mannen begon als protest te fluiten. Maar zij
+werden door de commissarissen gegrepen en
+gingen van hand tot hand als een hoop vuil
+goed om eindelijk buiten te worden gedepo
+
+neerd. Lemaitre had de vrije ruimte voor
+zijn treffend woord. Hij nam zijn aanloop:
+Armee-vous, Messieurs, d'un serieux
+goudendag moral" \" Maar niemand maakte een
+miene. De hoofden gingen naar elkander
+toe om te vragen wat die barbaarsche term
+beteekende. Geen wonder, zij waren den
+strijdknods ontwend. Drie dagen lang,"
+zegt Léon, hebben wij tot tranen toe ge
+
+lachen over deze episode. Eerst voelde
+Lemaitre zich in zijn wiek geschoten door
+de teleurstelling, ten slotte lachte hij met
+ons mee."
+W. G. C. BYVANCK
+
+</text>
+<image timestamp="2002:08:25:00:10:50.00" size="480028">D40003RA.TIF</image>
+</page>
+</document>

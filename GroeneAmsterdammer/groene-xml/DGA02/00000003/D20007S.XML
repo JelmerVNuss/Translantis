@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18991001</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Leerplicht vóór een nieuwe Armenwet
+BIJVOEGSEL ran de Amsterdammer, Weekblad voor Nederland, van l October 1899.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+HUISVADER (tot Mr. Borgesius); Eerst kleêren en brood, mijnheer!
+BORGESIUS: Dat is een quaestie van voorkeur. Ik zeg: Eerst lezen, rekenen en schrijven,
+en dan een warme jas en voedzaam eten ....
+
+</text>
+<image timestamp="2002:08:13:17:33:45.00" size="465418">D20007S.TIF</image>
+</page>
+</document>

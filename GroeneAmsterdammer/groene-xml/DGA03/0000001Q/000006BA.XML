@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280218</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+wo;
+l» teoruari
+T\c Groene y\mst3^qammerw
+fec-AVêdkblad voor Nederland
+Abonnement»?!^» per jaar f 10.—.
+Advcrtentlën f 0.75 per regel
+KEIZERSGRACHT 333
+AMSTERDAM - CENTRUM
+TELEFOON 37964
+Ei o a s e n u m m e ra 25 cents
+AMSTERDAM
+KAL VERSTRAAT 136 LEIDSCHESTRAAT 78 ROZENGRACHT 60
+ROTTERDAM HOOGSTRAAT 243
+HAARLEM ~ UTRECHT NIJMEGEN
+TILBURG BREDA
+H,
+:oel
+.eupgori
+
+van prima Fransch Elastiek,
+maag ' insluitend, maar recht van boven,
+kleur rose, 35 centimeter lang, leveren wij
+onder GARANTIE
+tot heupwijdte 100 c.M. nieuwen prijs f 14.
+verder tot 115 c.M. 15.
+
+Bij schriftelijke bestelling gelieve men als maat
+op te f geven de wijdte over breedste deel van de
+heupen, over onderkleeding gemeten.
+Voorhanden een enorme keuze
+Jtvlastieken t±&lt;
+:oeL
+EXTENSIBLE"
+.eupgon
+
+in Engelsche kwaliteiten vanaf f 4.90
+idem in Fransche kwaliteiten vanaf f8.
+
+Alle door ons geleverde elastieken Heupgordels
+garandeeren wij.
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+BRAND-,
+BEDRIJFSZEE- en TRANSPORT
+
+VERZEKERING
+HA-KLOOSTERHUIS
+AMSTERDAM
+De Reszke'
+De beroemde en populairste sidaret der
+Engelsche uitgaande wereld
+Samengesteld uil de edelste tabakken
+TURKISH
+VIRBINIA
+PLAIN AND GOLD TIPPED
+; LT
+06 PICCADIULY
+l ON DO N W. l.
+
+</text>
+<image timestamp="2002:09:04:05:42:23.00" size="146070">000006BA.TIF</image>
+</page>
+</document>

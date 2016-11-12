@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19160715</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+15 Juli '16. - No. 2038
+DE AMSTERDAMMER, WEEKBL'AD VOOR NEDERLAND
+11
+EEN KNAP STUKJE
+(De Handels-onderzeeboot Deutschland" is in
+Amerika aangekomen. Dagbladbericht.)
+
+Teekening voor de Amsterdammer" van Joh. Braakensiek
+Naturalisatie (London Opinlon)
+Indien alle Zwitzers" in Zwitserland woonden...!
+De Pessimist (Punch)
+Job's trooster: Als dat zoo doorgaat hier, zal je
+je kleinen jongen wel niet terugzien—" •'•'••
+Job: Ach jawel, ik verwacht hem in 1934 aan het front"
+John Buil: Ik dacht, dat er geen gaatje open was. En nu kunnen zij er toch nog door."
+MMnhiftiniminiiiimiiiiiiiiiiHiiiiiiiiiiimitiiniiimiiiiim
+iiuiiiiiiiiiiniMiiiiiiiiniiiiiitiiiiiiiiiiiiiHiiiiiiiÉiHiiiiiiiiiiiiiiiiiiiiiuiiiiiiiiiitiiiiiiiiiiiitiniiiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiiiiiiiiiliiiiiiiii	immii
+iiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiliiiiMHiiiiiMiimiiMiiiiiiiiiiiiiiiiimiiMiiiiiiiiiimiiiiiiiiiiiiiiiiiiiiiiiiliiliiiiiiiiiiiiiiiiiiill
+NISCHE RUBR.I
+Een Merkwaardige Toepassing
+der Inductie
+Een der meest gebruikte en nuttigste ficties
+in de natuurkunde is die der magnetische
+krachtlijnen. Dit zijn gebogen lijnen, die
+men onderstelt te beginnen aan den noord
+
+pool van een magneet, zich om te buigen
+doof de lucht heen naar den zuidpool en
+daa door den magneet heen weer te ein
+
+digen aan den noordpool. Deze lijnen wijzen
+In elk punt de richting aan van de magne
+
+tische kracht, terwijl hun aantal per
+vlaktenheid zoo aangenomen wordt, dat het de
+sterkte van de magnetische kracht aangeeft.
+Wordt nu om een weekijzeren staaf een
+spiraal van leiddraad gelegd, waardoor een
+etectrische stroom gaat, dan wordt die staaf
+een magneet, zoolang de stroom duurt en
+wórden er dus magnetische krachtlijnen door
+die staaf uitgezonden. Draait men de rich
+
+ting van den stroom om, dan keeren ook de
+richtingen der krachtlijnen tegelijk om. Als
+nu die krachtlijnen, uitgaande van een noord
+
+pool, een stof moeten doordringen, dan heeft
+de aard van die stof grooten invloed op de
+snelheid en de manier, waarop dat door
+
+dringen plaats vindt.
+Voorzien we nu onze staaf van een tweeden
+spiraal van geleiddraad, dan zal hierin een
+induktiestroom opgewekt worden, als het
+aantal krachtlijnen, dat uitgezonden wordt,
+verandert en die net zoo lang duurt, als
+die verandering.
+Van de twee laatstgenoemde feiten is nu
+in Frankrijk een zeer vernuftige
+toepassinggemaakt voor het opsporen van onontplofte
+granaten in de akkers, waarvan de aanwe
+
+zigheid een gevaar voor den landbouw op
+
+levert.
+Er zijn naast elkaar aangebracht twee
+gelijke cylinders, die omgeven zijn van
+twee spiralen van geleiddraad. Door de
+eene spiraal wordt een wisselstroom geleid,
+die. vele malen per seconde van richting
+wisselt en die dus de magnetische kracht
+
+lijnen ook dwingt evenvele malen van rich
+
+ting te veranderen. Moeten die krachtlijnen
+door een homogene stof gaan, dan zullen
+de inductiestroomen in de tweede spiralen
+volkomen gelijk zijn en even lang duren;
+wanneer echter een
+der bundels kracht
+
+lijnen een stuk me
+
+taal moet doordringen
+en de andere niet,
+dan zullen de twee
+bundels niet even lang
+hiervoor noodig heb
+
+ben en in de tweede
+spiralen onstaan in
+
+ductiestroomen die
+verschillend zijn. Dit'
+verschil in die induc
+
+tiestroomen wordt nu
+als volgt hoorbaar ge
+
+maakt. De beide
+tweede spiralen
+(zie fig. 2 e en e')
+zijn verbonden
+met de omwik
+
+keling van twee
+electromagneten,
+die elk een ijzeren
+veerend plaatje
+kunnen aantrek
+
+ken. Deze plaatjes
+komen in trilling
+en veroorzaken
+twee volkomen
+gelijke toonen, als
+de veranderingen
+der krachtlijnen
+ook gelijk zijn. Zij n
+deze verschillend,
+dan verschillen die
+toonen ook. De
+beide toestelletjes
+zijn opgesteld vlak voor de mikrofonen van
+twee telefoontoestellen, zoodat in de twee
+telefonen een verschillenden toon gehoord
+wordt, als de bundels krachtlijnen ver
+
+schillende stoffen moeten doordringen. Is
+er dus in het veld, dat onderzocht moet
+worden, een onontplofte granaat aanwezig,
+of zelfs maar een scherf van een ontplofte,
+dan is dit direct te hooren, als het beschre
+
+ven toestel over het land heengereden wordt.
+Fig. l geeft eenigszins een voorstelling hoe
+het toestel gebruikt wordt. Het duurt een
+paar uur om een hectare geheel te onder
+
+zoeken en het toestel is zoo gevoelig, dat
+b.v. een blikken bus evengoed gevonden
+wordt, als een grooter voorwerp, terwijl bij
+eenige oefening de verschillende geluiden
+van groote en kleine voorwerpen en van
+stoffen op verschillende diepte afkomstig,
+gemakkelijk onderscheiden worden.
+Natuurlijk is hierboven het principe van
+het toestel slechts in hoofdtrekken mede
+
+gedeeld en wijkt het in details nog al af.
+Een andere toepassing van hetzelfde prin
+
+cipe met een bijna geheel overeenkomstig
+gebouwd toestel is die voor het onderzoek, of
+in gegoten groote metalen stukken ook
+gietfouten kunnen voorkomen. Gegoten voor
+
+werpen kunnen n.l. uiterlijk volkomen gaaf
+zijn, terwijl ze toch inwendig groote holten
+of verkeerde bestanddeelen bevatten, die ze
+ongeschikt maakt voor de eigenlijke bestem
+
+ming. Het onderzoek naar dergelijke fouten
+kan nu gebeuren met een klein toestel, bijna
+geheel ingericht, zooals hetgeen hierboven
+beschreven is (zie het schema in fig. 2.)
+De beide magneten worden naast elkaar
+bewogen over het gletsluk, dat onderzocht
+moet worden en ook hier zal een verschil
+in structuur van het metaal de snelheid der
+krachtlijnenbundels zoo beïnvloeden, dat ten
+slotte in de telefonen een verschillend geluid
+vernomen worden.
+v. O.
+Fig. 2. a, b, c, toestel om rondom de
+electromagneten d een wisselstroom te
+zenden; e en e' geleiddraden van de tweede
+spiralen; h, trillende plaatjes, die door
+electromagneten in g in trilling gebracht
+worden; i, mikrofonen, die het geluid van
+het trillende plaatje versterken en over
+
+brengen naar k, de telefonen, waarmee
+het verschil in geluid waargenomen wordt.
+Redacteur: Dr. A. O. OLLAND
+A. R. Falckstraat 5, Utrecht
+
+PROBLEEM No. 48 VAN C. MANSFIELD
+(British Chess Magazine)
+ZWART
+a b c d e f g
+WIT
+Wit: Kh8, Dh7, Tdl en f5, Lg7 en g8,
+Pd4, pionnen b2 en f3.
+Zwart: Kd3, Lbl en gl, Pa3 en d2.
+Wit geeft mat in twee zetten.
+Oplossing over 14 dagen.
+
+OPLOSSING PROBLEEM No. 47
+VAN R. KELLY
+Wit: Kh5, Db7, Tdl, Pg4.
+Zwart: Kf5, Lb4, pionnen e6, e7, f4 en f6.
+
+1. Tdl-d6, Lb4Xd6, 2. Db7-blf.
+l	e7Xd6, 2. Db7-h7f.
+l	, e6—e5, 2. |Pg4—h6f.
+l	, f4-f3, 2. Db7Xf3f.
+Namen der goede oplossers moeten, wegens
+plaatsgebrek, een week overstaan.
+
+WEDSTRIJD TE AMSTERDAM
+De volgende 14 spelers zullen aan dezen
+wedstrijd deel nemen:
+Mr. Fick, Fontein, Van Gelder, Geus, Van
+Hartingsvelt, Hoogeveen.Van Hoorn, te Kolsté,
+Marchand, dr. Olland, mr. Oskam, Schelfhout,
+Van Trotsenburg en Van 't Veer.
+Terwijl de oudere spelers haast niet ver
+
+tegenwoordigd zijn, missen we ook van de
+jongeren noode de namen van jhr. H. Strick
+van Linschoten, Baudet en vooral Davidson.
+De laatste is vermoedelijk verhinderd door
+den oorlog, welke het hem moeilijk maakt
+Engeland te verlaten.
+mi	Minimum	iiiimiii	iimiimmmmitmmtmnmmm
+13e Jaargang 15 Juli 19,16
+Redacteur: K. C. DE JONQE
+Van Woustraat 112", Amsterdam
+
+PARTIJ No. 10
+gespeeld in de competitie Ned. Dambond&gt;
+tusschen de heeren R. Hoogland, Utrech^
+met wit en H. Koperberg, A'dam, met zwart.
+ONREGELMATIGE OPENING
+Wit Zwart Wit Zwart
+33-28 1.18-221) 38-32 26.17-22
+38-332) 2.12-18 28:17 27.11:22
+43-38 3. 7-12 32-28 28.22-27
+42-3714)
+43-38
+47-42
+28-23 i5)
+23:14
+35-3016)
+40-35
+37-31 17)
+38:27
+49-43
+32-27 3)
+28:19
+4. 1-7
+5.19-23 4)
+6.14:23
+34-2915) 7.23:34
+40:29 8.20-256)
+37-32 9.17-21 7)
+45-40 10.11-17
+50-45 11.10-14
+31-268)12.22:31
+36:27 9) 13.18-23? 10)42-3718)
+14.13:31 36:47
+15. 9-13 33-28
+16. 4-9 11) 47-42
+17.21-27 28-2319)
+18.16:27 30:19
+19. 7-11 34-29
+20. 2-7 19:10
+21.11-16112)45-40
+22. 7-11
+23.17-21
+29. 6-11
+30.r6-21
+31.11-16
+32.14-1911
+33. 9:20
+34.13-191
+35.20-24
+36.27-3211
+37.21:32
+38.32:41
+39.16-21
+40.12-17
+41. 8-12
+42.19:28
+43. 3-9 20)
+44. 9-14
+45.15:4 21)
+46 17-22
+4Ö-34;29-24!) 4Ï. 28-3222)
+48-43 48.12-1723)
+49.
+29:18
+26:37
+32-28
+37-32
+32:21
+40-34
+41-37
+46-41
+44-40
+
+37-32 24!2i-26 42-3824)
+32:21 25.26:1713) Remise
+1) Wenscht een onregelmatige partij.
+2) Hoewel theoretisch 31-27 diende ge
+
+speeld, is de tekstzet op z'n minst zoo sterk.
+3) Met de bedoeling zwart's rechtervleugel
+werkeloos te maken.
+4) Belet de ontwikkeling van wit's plan.
+5) Ontneemt zwart de centrumruit om
+bovengenoemde redenen.
+6) Deze zet geschiedt om, als het
+oogenblik gunstig is, wit in den hekstand te nemen.
+
+</text>
+<image timestamp="2002:08:22:14:53:28.00" size="515208">D40002G0.TIF</image>
+</page>
+</document>

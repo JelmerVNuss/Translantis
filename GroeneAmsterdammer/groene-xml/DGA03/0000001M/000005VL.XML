@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250829</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENEJAMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2516
+
+JlEllHllHll
+AMERSFOORT
+s
+Snouckaertlaan 22-24
+' TELEFOON 218
+In ieder huis
+Masters Voice
+Importeurs:
+HE 1MEIIUKIMPQÜT COMPAIT
+Anuterdatnsche Veerkade 22a
+DEN HAAG
+Geaccrediteerde agentschappen
+voor Amsterdam:
+GRAMOPHONE COMPANY
+AGENCY
+Reguliersbreestraat 42
+* P. J. RICHTER
+P. C. Hooffstraat 125
+A. M. TUREL
+WUIemsparkweg 67
+ichéc/
+' Vbor «He doeleinden
+|o&gt;em.ttin»tinrlchtlng
+iDirkSchiuibel
+Amsterdam.
+Fa.LGijselman&amp;Zoon
+Singel 118 A'dam. Tel. 40432
+Gevestigd sedert 1823
+Veiling 22 Sept.a.s
+Inbrengen dagelijks
+, DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+r kost slechts f3.—per kwartal of
+f 10.—p. j. bij vooruitbetaling
+v*
+II
+MEVROUW AAN HET STUUR!
+Wat U noodig hebt, MeVrouW, is een Handige
+en toch flinke 'Wagen, een Wagen, die zonder
+eenige moeite te besturen en te behandelen is,
+een Wagen met Voldoende ruimte om hef er U
+gemakkelijk in te maken en zoo soepel, dat
+U geen den minsten last hebt in druk Verkeer.
+Touring
+Fl. 1.435
+l
+f.o.b. Rotterdam Het moet boVendien een Wagen zijn, die aan
+deze eigenschappen aantrekkelijkheid in lijn,
+i, zoovfel als in kleur paart.
+
+Zulk een Wagen, die als het Ware Voor U is
+gemaakt, is de Ford op zijn Verlaagd chassis en
+met zijn fraai uitgevoerde, naar keuze kobalt
+blauW, donker rood, grijs of standaard zwart
+gekleurde carrosserie.
+
+Vraag den dichtstbijzijnden Ojjflcial Ford
+Dealer om alle inlichtingen, die U Wenscht;
+hij zal ze U gaarne Verstrekken, zonder eenige
+Verplichting Uwerzijds.
+Tudor Sedan
+(2-deur)
+H. 2.125
+i-ordot Sedan
+(4-deur
+R. 2.275
+P r J z e n f. o. b.
+Rotterdam
+N. V. FORD MOTOR COMPANTf OF HOLLAND,
+VAN HELMONDSTRAAT, ROTTERDAM
+i
+m
+&lt;di
+Koldewey &amp; Corblère
+Leidschestraat 30, Amsterdam
+h: SlUPUIEIMEOBELEI. lilHSSEI, DUEIS
+G. i. DE KONING i h • Keizersgracht 44?
+(voorheen LEIDSCHESTRAAT 69)
+- MARINEREN WASCHTAFELS
+GERARD B. RIJKE Jr. - BINNEN ARCHITECTUUR
+COMPLETE MEUBILEERING
+VERPLAATST VAN AM ST E L 1 2O—1 22
+NAAR
+KEIZERSGRACHT 553
+IN VERBAND HIERMEDE IS ONS TEL.-NUMMER GEWIJZIGD IN 30559
+
+</text>
+<image timestamp="2002:09:03:17:36:06.00" size="145443">000005VL.TIF</image>
+</page>
+</document>

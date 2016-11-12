@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260227</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAM ROTTERDAM DEN HAAG UTRECHT
+Dam hoek Hoogstraat Spui hoek L. Viestraat 3
+Nieuwendijk h. W. Wagenstr. Spuistraat
+HAARLEM GOES ZIERIKZEE
+Gr. Houtstraat 36 L. Kerkstraat Post- en Meelstraat
+J. BERKEMEITER
+v/h PAUL MICHE.
+j| HORLOGES PENDULES
+(&gt; ROKIN 32 - TEL. 47592.
+&lt; j
+Knippatronen
+voor het vervaardigen van
+Kleedingstukken
+en Handwerken
+PARAFEU
+VUURVAST AARDEWERK
+KV.DESPHiHX MAA$TRICHT
+VERKOOP vooc HAARLEM EM OMSTREKEN.
+YERKOOPHUISJP.KARTHAUS.
+C&amp;K.MARKT, TEI-.1O652 HA.A.RUE.N4.
+GAAT MET UW TYD MEE !
+UITSLUITEND
+^.•M *••» -Zw* •*.••• %^r m&lt;mZ0?*t ^\&lt;tf • •; •*.•
+GEVULDE
+EDEL
+,VaWATT EN
+ARGENTA LAMPEN
+i
+j ZY GEVEN
+ƒ HELDER LICHT
+^ EN GEBRUIKEN
+t WEINIG STROOM
+BLYVEN
+PHILIPS 9OOO ARBEIDERS
+EINDHOVEN
+Abonneert U op
+De Groene
+Amsterdammer. Weekblad
+voor Nederland
+EEN
+VEE
+STAL
+of
+EEN AUTO
+Zeewaardig
+zeilmotorjacht
+of
+een woninginrichting
+Een motorrijwiel
+of
+een motorboot
+voor f 1.50 MM
+Uit zijn slechts 6 van de ruim
+1000 fraaie prijzen
+van de
+ORÜOTJi VERLOTING
+van de
+VEREEN 10ING VOOR
+OPENLUCHTSCIIOLEN"
+(Goedgek. bij K. B. van
+15 Sept. 1925 N r. 51)
+SLECHTS 25.000 loten af 1.50
+HAAST LM ! ! !
+Uitvoerig prospectus en
+luten verkrijgbaar bij:
+Propaganda-Hnreau J.P.
+Heyestraat 120, Amsterdam, en hij
+de Kantoren van I. SA JET,
+Rtiyschstraat 117, Binnen
+Oranjestraat 28 en ten
+Katesrraat 74, te Amsterdam.
+' WAAROM X
+heeft Van Rijn's Mosterd \wecr zoo'n over'weldigcnd &gt;
+SUCCES?
+OMDAT voor ieder gastronoom QUALITEIT den doorslag geeft
+N.V. Civiele en Militaire Kleermakerij
+DEKKER &amp; DIJKSTRA VOORHEEN
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+VAN HAAGEN'S Mosterd
+UTRECHT
+!
+aHmiiiHinnnniiiNiiiiiiniiiiiiniiiniiNiiiiiiHiiiiiniiiniiiHuiiiiiiiiiiiiiiiminiiiuiiimiiiiiiniiiiiiiMiiiiiiiiiiiiiniiiiiiiiiiiiiiiiiiijg
+(CENTRALE VERWARMING!
+| volgens elk systeem |
+| WARMWATERVOORZIENING I
+g door middel van ketel, fornuis of gasapparaat B
+| FORNUIZEN |
+l in alle afmetingen en uitvoeringen i
+HUNCK 6 ZOON
+'s-HERTOGENBOSCH
+HOTEL GOUDEN LEEUW"
+(G R O E N H U I S)
+Electr. Licht - Centr. Verw. - Stroomend water. P. G. BAARS
+
+</text>
+<image timestamp="2002:09:25:02:15:18.00" size="206794">D10007D7.TIF</image>
+</page>
+</document>

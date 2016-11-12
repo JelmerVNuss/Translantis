@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400615</Datum>
+<Pagina>20</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE
+EEN CULTUREEL
+LICHTBAKEN
+IN NEDERLAND
+WIE ZICH THANS ABONNEERT,
+BETAALT
+5 GULDEN
+VOOR HET TWEEDE
+HALFJAAR 1940 EN \
+' ONTVANGT DE IN
+| JUNI VERSCHIJNENDE
+Ondergeteekende	i i
+
+=	\ NUMMERS GRATIS \
+Plaats:	! f
+Abonneert zich voor het jaar 1940 op De Groene. ; |
+op girorekening 72880 '. \
+Hij stort daartoe / 5.—op Gemeente Giro G 1000 j |
+per postwissel aan j \
+De Groene Amsterdammer, Keizersgracht 355, Amsterdam C. i,,,,,,,,,	,	,„,„,„m.,„i,„.«	,n	.„.„,	,„,„,	,„j
+Onderteekening:	;
+i N. V. Amsterd. Boek- en Steendrukkerij
+i v/h. ELLERMAN, HARMS&amp;Co.
+
+</text>
+<image timestamp="2002:09:13:05:37:20.00" size="42465">000007IV.TIF</image>
+</page>
+</document>

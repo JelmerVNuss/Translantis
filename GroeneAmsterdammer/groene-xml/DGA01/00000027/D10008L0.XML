@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19330603</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•De Groene Amsterdammer van 3 Juni 1933
+No. 2922
+m
+T»- l!
+*
+u
+i i
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTEND1JK en
+1. MOSSELMAN
+
+De Bank geeft onder controle van het
+'Algem. Administratie- en Trustkantoor
+•*YiVo Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000;—op zakelijk onderpand
+en oader borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+'«W 'Verkoopt 5% schuldbrieven
+ktstukken van f 1000.—, f 500.
+. en t 100.—tegen Beurskoers.
+N.V. Bataafsche
+
+Hypo t b eek li ank
+AMSTERDAM
+Anno 1889
+. Oeeft uit tegen beurskoer»:
+4i % PANDBRIEVEN
+In stukken van
+f1OOO,-,f500,-en flOO,-.
+Coupoiw Januari en Juli
+Een polls der
+LEVENSVERZEKERING
+Mij. ARNHEM"
+Is een waarborg voor het welzijn van Uw gezin.
+GEPL. MAATSCH.KAP f 3.000.000,—PANC BRIEVEN EN HYPOTH.
+WAAROP GESTORT f 406.100.—pi.m. f 29.500.000.
+RESERVES pi. m. f 1.250.000.
+Ni DE RUILEU
+HYPOTHEEKBANK
+Leden der directie: ^S^jjag^ Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. THIfiRRY DE BYE DOLLEMAN
+
+Hypotheken f
+40.333.366.O. Insulaire Hypotheekbank
+te ZIERIKZEE.
+Uitgifte van
+£% Pandbrieven a 100%
+NVZUIDER
+HYPOTHEEKBANK
+41 pCt.
+Pandbrieven
+tegen beurskoers
+Directie:
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+N.V. Meubelmagazijn Eden
+Molsteeg ~~ Amsterdam
+SLAAPKAMERS
+N.V, UTRECHTSCHE HYPOTHEEKBANK
+t ^ UTRECHT
+
+tSf-. &gt;-.- -:r; r~—-. -. ;-
+;Pandbrieven f64.000.000. Reserves f 1.760.854.05
+
+DE BANK stelt beschikbaar:
+
+4i pCt. pandbrieven a 100 pCt.
+In •tukken van f 1OOO.—, f 5OO.—, en f 1OO.
+i' '• '•• : ' ' '-" '•'
+De Directie:
+Mr. A. j. S. VAN LIER. Mr. P. R. HOORWEG
+Verschenen de nieuwste Roman van
+
+Willy Corsari
+EN
+Jan Th. R. Campert
+
+
+KLOKSLAG TWAALF"
+
+Prijs f 1.25
+Verkrijgbaar in iederen boekhandel
+en bij de uitgevers
+
+N.V. LEITER NYPELS, Maastricht
+N.V. VERZEKERING-MAATSCHAPPIJ
+
+MERCURIUS"
+BB OPGERICHT Au 1894 IIII1
+
+AMSTERDAM, C. - KEIZERSGRACHT 570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+E? V
+
+</text>
+<image timestamp="2002:09:27:00:56:25.00" size="159814">D10008L0.TIF</image>
+</page>
+</document>

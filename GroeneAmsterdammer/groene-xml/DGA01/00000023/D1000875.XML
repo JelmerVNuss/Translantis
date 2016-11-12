@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261211</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2584
+Hfi
+J. R STRUIJS &amp; Zn,
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+Linnenmanden
+AUG+ KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Telefoon 23308
+
+Groote keuze Kerstgeschenken
+Zakdoeken, Kleedjes en Tafelstellen
+Lila Ontbijtstellen 140X140 met 6 vingerdóekjes f3.75
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hcoftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN UJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+~ Vervaardigd op eigen Ateliers |
+Bij ons verkrijgbaar
+N. R. V. MONTA SCHOENEN
+
+^iiiminnuiuiniiimmnnniiimiiiiiiiimiiiiiiiiiiiiiimiiiiiiiiiiiiH
+
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIINE PIKANTE SMAAK!
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ,.DE HOUTTUINEN". AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STOOMEN
+VERVEN
+Voor de a»s. Feestdagen
+
+
+Aflevering Stoomgoederen 7 dagen
+
+Verfgoederen 10
+
+
+
+P ALTHE - ALMELO
+^STINAAIMACHINES
+LEEUWARDEN &lt; V/H FIRMA NAUTA
+AMSTERDAM, N.Z. VOORBURGWAL 75A-77
+DETAILVERKOOP VOOR AMSTERDAM:
+P. BOBELDIJK, ROZENGRACHT 63 TEL. 34212
+1"AQENTSCHAPPEN DOOR
+HET OEHEELE LAND
+NAAMLOOZE VENNOOTSCHAP
+Uurwerk, Goud' en Zilverhandel
+
+v/h Gebr. BREEN
+NIEUWENDIJK 172
+ROZENGRACHT 53
+HAARLEMMERSTRAAT 64
+Groote sorteering in Trouw-,
+Verloving»en Zegelringen. Zilveren Couverti ea
+diverse Schepwerk tegen scherp
+coocureerende prijzen c\o ONO ovs »•
+UorwerkttA met Weatminster ca dHvcne gaag^Bgaa
+RUIME KEUZE HORLOGES
+1ste Klas reparatle-inrichting voor Goud,
+Zilver en Uurwerken c\o oso *•
+STOOMWASSCHERIJ
+,H E T ZUIDEN"
+PIETER AERTSZSTRAAT 68—74
+Telefoon 22365
+is uw adres voor het behandelen uwer
+wasch, zoowel droog toegeslagen als
+opgemaakt. Concurreerende prijzen en
+spoedige aflevering. Vraagt prijsopgave.
+NEIDIG &amp; VAN ELVEN.
+4 Lamps Radio Toestel
+
+met 3 jaar garantie l
+/J»Ook op gemakkelijke betalingsconditie»
+
+Andersen 6 Polak
+P. C Hooftstraat 40 - Amsterdam
+TELEFOON 26587
+
+</text>
+<image timestamp="2002:09:26:11:59:24.00" size="142280">D1000875.TIF</image>
+</page>
+</document>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020309</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+t*
+No. 1289
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Engeland, Rusland en Afghanistan.
+De Wet's ontsnapping. (Jitgend).
+Dit keer badt je me haast gehad,
+Roept Cnristiaan -vol pret.
+Maar onder is je zak riet dicht,
+Zóó vang je rooit &gt;DE WET".
+Het Duitsche Klavier. (Jugend).
+EDUADD : «Het instrument 'schijnt erg ontstemd
+te zijr, maar jslni hebt het ook erg mishandeld.''
+RUSLAND (toi den Enir lan Afgla tistan) : -Jjiin Ball heeft de haiden vol mjt dsn B «r. E)a mjo'e gsle^eihaii on hsn zya A;iiUa3-p333 d^r te
+Rodica en Doodika. (ülk\
+Wie eindelijk vrede maken zal. (Dar Floh).
+DB GEOEFESDB OPSRATEUB: »Die zal ik gauw van mekaar af brenger,!"
+
+
+Goed ge*pe3ld. (M?n beweert dst »1e Ksis^r" verzot is op Ping-Pong).
+(Moonihine).
+I'E KONING: »IIoe stant de P'&gt;nr, n-aiq^i
+MAiiyuKUB (Prins van Wd'ee) : »(^iitt-l"
+DE KFJZF.R: «Moge het «Itijd zoo zijn !'"
+Rusland en China. (FiscJiidto)
+Gezworen kameraden ! (Punch).
+RCSLA.XD : »IIum ! ik hou niet van die vertrouwelijkheid."
+Onverzadeljjk. (Lit?ti&gt;i&lt;: JlMtir).
+VIÏKDI-: I!i:i(TiiA: «Niks (e onderLa a arddenl"
+Engt lan d-Japan.
+Die dwaze Er'geisrher ! . . . Kirdf-rspfil l . . . Kijk eers Loe ik het
+nuttige met het aangename weet te verbinden.
+r**} vf!p!i&lt;vji ••[» T ir ij»T' Z "t-lppuw Tirpitz.
+1002: G Begrote M-ih'lzsit ! ! OOG : Verdasninte Zahlzeit !
+\Ve!ke']trotf zal wde beer uitspeie.i ?
+
+</text>
+<image timestamp="2002:08:17:11:14:07.00" size="409383">D2001A0.TIF</image>
+</page>
+</document>

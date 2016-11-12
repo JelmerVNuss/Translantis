@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050903</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1471
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+'t. t
+.i" -V*
+^',,
+_/ 't*
+
+Reersema-State, villa in Aardenhout, van W. G. SIEOYERTS VAX
+&lt;llllUttlllltllllllltlllltlUIHMIIHIMIIIIIIIIIIMHtlllllllllllllllllMIIMIIIIIIIMIMIIHIIIIIIIIHI&lt;IIIIIIHH|l M lltl HIIIIIHIH l IIMIIIIIII l MMIIMH l l MIMIH11IMIHH111 Mllll 111(11)11
+Bouwwerken van J. LONDON,
+Architect te Haarlem.
+f*'J. London behoort tot de jongere
+architecten. Zijne opleiding was eene
+practische. Zijn vader, de aannemer en
+metselaar London, hechtte daaraan. Door
+•diens i a vloed is hij in de leer geweest
+bij wijlen Jacq. Ley, gemeente-architect
+te Haarlem, en bij K. de Boer te Leiden,
+en later als teekenaar bij J. v. Lok
+
+horst , Rijksbotrwmeester. Ter zijner
+yerdere ontwikkeling heeft hij vele studie
+
+reizen in het buitenland gemaakt. In
+Mei 1897 heeft hij zich als architect te
+Haarlem gevestigd.
+Bouwwerken, naar zijn teekening en
+ontwerp opgetrokken, vindt men voor
+
+namelijk te Haarlem en omstreken,
+Aar.denhout en Bentvelt, als: Het Militaire
+Tehiiin, Jansstraat te Haarlem;
+Brooilbakkerij: Het Bakkeiije, Koningstraat
+te Haarlem; Dubbel landhuis, Heythuizer
+weg, Haarlem. Broodbakkerij zoowel
+als Dubbel Landhuis zijn bekroond met
+•den eersten prijs in twee wedstrijden,
+uitgeschreven door de maatschappij tot be
+
+vordering der bouwkunst. De medaille,
+als hoogste prijs, geschonken door jhr.
+mr. J. W. Gr. Boreel van Hogelanden,
+burgemeester van Haarlem, is een ver
+
+guld zilveren.
+Van de overige gebouwen naar de
+plannen van architect J. London, kun
+
+nen nog vermeld worden: Gebouw der
+Haarlemsche Rijtwigmaatschappij, met
+stallen, Houtplein, Haarlem; Villa Rijn
+semaaate in Aardenhout en Sonne- Vanck
+in Bentvelt; Woon- en Winkelhuis in
+de Zijlstraat, enz., enz.
+In wording naar ontwerpen van hem
+zijn: Raadhuis, Halfweg, ten dienste der
+Gemeente Haarlemmerliede en
+Spaarnwoude, en het Gebouw voor den Neder- .
+gom bij den tol van Aardenhout, Rer.r- [ landschen Jongelingsbo-nd, te Haarlem.
+Rijnegom, villa tegenover de tol in Aardenbout, van Jhr. A. W. G. v AS RIEMSDIJK,
+Hoofdredacteur der Opr. Haarlemmer Courant.
+Militair Tehuis in de Jansstraat te Haarlem, j
+Ketkauitr in Villa Rijnegom.
+Villa-hal
+Winkelhuis in de Zijlstraat te Haarlem, toebehoorend
+aan mr. H. J. D. D. Exsi •m-;i//;.
+Schrijfkamer van Architect LOXDON.
+
+</text>
+<image timestamp="2002:08:22:09:42:44.00" size="650861">D2002IC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280324</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 24 MAART 1928
+,No, 2651
+J...D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize» Harten" Te midden van bosch en heide met
+schitterende wandelingen. Koud- en warm stroomend water op alle kamers.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+1^,10*"'*^
+KLAAR voor d&amp;i
+linnenkast!
+a/r «DAAUyiANS*
+'twdscht
+KONINKLttOOrtWAHCHEUl
+GOUDA TELEF. 95
+AM5TERDOM TEL 3334Q
+'s CRAVENHAGE TEL. 7253O
+SENK'NG
+CiASFORHUlZEN EN COMfOREH
+OVERTREFFEN ANDERE EN...
+ZUN GOEDKOOP.
+
+Ziet op onze spaarbranders
+van MASSIEF KOPER met
+automatische lachtregeling
+Gasfornnlzen vanaf f 62.—.
+Overal verkrijgbaar
+Adres voor den handel
+JOH.H.v.D.MEIDEN - Amersfoort
+BADK.ME1INBICIITIN6EII
+zoowel eenvoudige als betere uitvoering.
+G. J, DE KONING 8 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+BEGRAFENISVEREENIGING
+
+N. SAX Jt.
+P XL Hooftatnat M AMSTERDAM - TeUf.: 20341. 242M
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+iiiiiiiiiiiiiifflmiinuuiniiiui™
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ en verkrflgbaar
+N. R. V. MONTA SCHOENEN
+iniuuiinirnnuininiiniiiiiimiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniinniiiiiiiiiniiminiii
+Wed JOHN GAY'S PICCALILL1
+BUJFT HET MOSTBROZUUB MET DB FIJNE PIKANTE SMAAK I
+ENGROS BIJ DE LIEVEGOED^ FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+\ferpleegst
+Cacao
+:ep
+DROSTE S
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+
+</text>
+<image timestamp="2002:09:04:09:36:30.00" size="109745">000006F2.TIF</image>
+</page>
+</document>

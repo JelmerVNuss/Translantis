@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ir
+r
+DE GROENE AMSTERDAMMER VAN 29 NOVEMBER 1930
+No. 279
+
+OOIE BOEKEN
+UITGEGEVEN DOOR
+W.J.THIEME&amp;CIE-ZUTPHEN
+BOEKEN VAN- EN OVER
+
+DE JODEN
+
+MARTIN BUBER, De Legende van den
+Baaisjëm, ing. / 3.90; geb. / 4.90.
+
+JAC. ZWARTS, Hoofdstukken uit de Geschie
+
+denis der Joden in Nederland
+ing. / 8.50; geb,/9.50.
+
+S. PH. DE VRIES Mzn., Joodsche Riten en
+Symbolen, 2de druk m. platen
+ing. / 3.90; geb. ƒ4.90.
+
+CHAJIM BLOCH, De Golem, Legenden uit
+het Ghetto van Praag, met 8 platen
+ing. ƒ 2.90; geb. / 3.90.
+
+SIEGFRIED VAN PRAAG, Het Ghetto. Een
+beschouwing en bloemlezing van West
+
+en Oost-Joodsche Ghettoschetsen, met
+vele platen ing. ƒ 3.90; geb. / 4.90.
+BOEKEN OVER ITALI
+
+Dr. G. J. HOOGEWERFF, De Ontwikkeling
+der Italiaansche Renaissance. Geïll. met
+80 platen ing. / 8.75; geb. / 10.
+
+Dr. G. J. HOOGEWERFF, Felix Roma. Uit
+het verleden en heden der zeven heuvelen,
+met ± 70 platen ing. / 5.90; geb. ƒ 6.90.
+
+ETHA FLES, Tien Jaren in Rome, bladzijden
+uit een dagboek, met ± 70 platen
+ing. /4.90; geb. ƒ6.50.
+
+MAURITS WAGENVOORT, Rococo Itali
+met 16 platen ing. ƒ 4.90; geb. / 5.90.
+
+TITIA en C. EASTON, Italiaansche
+Reisindrukken ing. ƒ 4.90; geb. ƒ 5.90.
+
+W. A. VAN LEER, Portretten uit de Italiaan
+
+sche Renaissance. (Julius II en de prin
+
+sessen d'Este) met 80 platen
+ing. ƒ 3.90; geb. / 4.90.
+BOEKEN OVER RUSLAND
+
+Dr. B. RAPTSCHINSKY, De Geschiedenis
+van het Russische Volk, met gekleurde
+en zwarte platen
+2 deelen a /7.50; geb. ƒ8.50.
+
+Dr. B. RAPTSCHINSKY, De Geschiedenis
+van de Russische Revolutie. Met platen en
+kaarten ing. / 4.50; geb. ƒ 5.50.
+
+S. P. MELGOENOV, De Roode Terreur in
+Rusland, met platen ing. / 3.90; geb. / 4.90.
+
+V. ZENZINOV, Verwilderde kinderen in
+Sovjet Rusland, met platen
+ing. ƒ 3.90; geb. ƒ4.90.
+PRINS FELIX YOESSOEPOFF, De dood van
+Raspoetin ing. ƒ 2.50; geb. ƒ 3.50.
+MYTHEN EN
+LEGENDEN
+Per deel ing. ƒ 4.90; geb. ƒ 6.50.
+GESCHIEDENIS
+
+Dr. H. M. R. LEOPOLD, Uit de Leerschool van de Spade,
+vier deelen, ieder deel met ongeveer 80 platen
+per deel ing. ƒ 8.75; geb. ƒ 10.—.
+
+F. GREGOROVIUS, Rome in de Middeleeuwen, voor Neder
+
+land bewerkt door P. Kat Pzn. Compleet in 2 deelen met
+platen per deel ƒ 3.90; geb. ƒ4.90.
+
+Dr. JAN ROMEIN, Byzantium, Een overzicht van de politieke
+en beschavingsgeschiedenis van het Oost-Romeinsche Rijk,
+(356—1453) met vele platen en kaarten
+ing. / 4.90; geb. / 6.50.
+
+F. MULLER LYER, De Ontwikkeling der Beschaving in tijd
+
+perken geschetst en ontwikkelingslijnen van den vooruit
+
+gang ing. / 5.90; geb. ƒ 6.50.
+
+Dr. K. E. W. STROOTMAN, Van Wasa tot Bernadotte, met
+6 portretten ing. ƒ 3.90; geb. / 4.90.
+
+H. B. COTTERILL, Oud Hellas, met ± 150 atbeeldingen,
+2e druk ing. ƒ 7.50; geb. ƒ 8.75.
+
+H. B. COTTERILL, Italiëin de Middeleeuwen, met 65 platen,
+2e druk ing. / 7.50; geb. / 8.75.
+
+H. B. COTTERILL, Italiëvan Dante tot Tasso, met 65 platen
+ing. ƒ 7.50; geb. / 8.75.
+
+THEODOR BIRT, Romeinsche Karakterbeelden, met platen
+ing. ƒ3.90; geb. ƒ4.90.
+
+THEODOR BIRT, Karakterbeelden uit het Rome van den
+lateren tijd en het ontstaan van het nieuwe Europa,
+Deel I ing. / 2.90; geb. ƒ3.90.
+Deel Hing. ƒ 3.90; geb. ƒ 4.SO.
+
+THEODOR BIRT, Van Homerus tot Socrates, met vele platen
+ing. ƒ 5.90; geb. ƒ 6.90.
+H. A. Guerber, Noorsche
+Mythen.
+H. A. Guerber, Mythen en
+Legenden van Grieken
+
+land en Rome.
+H. A. Guerber, Mythen en
+Legenden uit de Middel
+
+eeuwen.
+Woislav M. Petrovitch, Hel
+
+densagen en Legenden
+van de Serviërs.
+F. Hadland Davis, Mythen
+en Legenden van Japan.
+Jos. Meyboom-Italiaandcr,
+Javaansche Sagen, My
+
+then en Legenden.
+T. W. Rolleston, Keltische
+Mythen en Legenden.
+Dr. H. J. W. Salomons,
+Gewijde verhalen van
+Hindoes en Boeddhisten.
+E. T. Chalmers Werner,
+Mythen en Legenden van
+China I en II.
+Jos:f Cohen, Nederlandsche
+Sagen en Legenden I en
+II.
+Pol de Mont en Alfons de
+Cock, Wondervertelsels
+uit Vlaanderen.
+Pol de Mont en Alfons de
+Cock, Vlaamsche Volks
+
+vertelsels.
+
+WETENSCHAP
+
+EN TECHNIEK
+
+Dr. C. H. SLUITER, Bouw en wezen der
+Materie, met platen ing. ƒ 2.90; geb. ƒ 3.90.
+
+ELLISON HAWKS, Het Boek der Electrische
+Wonderen, voor Nederland bewerkt door Ir. J. A. Pennink,
+met 40 platen op kunstdrukpapier en vele afbeeldingen in den
+tekst ing. ƒ 4.90; geb. ƒ5.90.
+
+CAMILLE FLAMMARION'S WERKEN.
+
+Nog steeds de beste populaire boeken over Astronomie.
+
+De Wonderen des Hemels, met 300 afbeeldingen, kaanen en
+gekleurde platen, 3e druk ing. ƒ 10.25; geb. / 12.75.
+
+Het Rijk der Sterren, met 20 groote sterrenkaarten en talrijke
+kleinere kaarten en afbeeldingen, 3e. druk
+ing. ƒ 10.25; geb. ƒ 12.75.
+
+De Wereld voor de Schepping van den Mensch, met 300 zwarte
+en gekleurde platen, 3e druk ing. / 8.90; geb. / 10.50.
+
+Het Vergaan der Wereld, 3e druk, met platen
+ing. ƒ 3.90; geb. ƒ 4.90.
+
+Zijn de Hemellichamen bewoond, 3e druk ing. ƒ 3.90; geb. ƒ 4.90.
+
+Hemel en Aarde, populaire beschrijving van het heelal, met
+100 ill., 3e druk ing. ƒ 2.75; geb. ƒ 3.50.
+Prol'. Dr. A. Solymossy,
+Hongaarsche Sagen,
+Sprookjes en Legenden.
+Lewis Spencc, Mythen en
+Legenden van Egypte.
+Lewis Spencc, Legenden en
+Romances van Spanje.
+Dr. Jan de Vries, Volks
+
+verhalen uit Oost-Indi
+I en II.
+Dr. H. van Cappelle, Mythen
+en Sagen, van West-Indië.
+L. D. Staal, Verhalen eu
+Legenden van Israël.
+Dr. B. Raptschinsky, Rus
+
+sische Heldensagen en
+Legenden.
+Lewis Spence, De Mythen
+van Mexico en Peru.
+Lewis Spence, Mythen en
+Legenden der
+NoordAmerikaansche Indianen.
+Maya Tamminen, Finsche
+Alythen en Legenden.
+S. Troelstra-Bokma de
+Boer, Oud Fransche Le
+
+genden.
+S. Troelstra-Bokma de
+Boer, Oud Fransche Sa
+
+gen, volksoverleveringen
+en Sprookjes.
+TAAL- EN LETTERKUNDE
+
+Dr. JAN WALCH, Boeken die men niet meer
+leest ing. ƒ 2.90; geb. / 3.90.
+
+Dr. JAN WALCH, Uit de Levensgeschiedenis
+van Woorden ing. ƒ 3.90; geb. ƒ 4.90.
+
+J. VERDAM, Uit de Geschiedenis der Neder
+
+landsche Taal ing. / 4.25; geb. / 4.90.
+
+Dr. F. A. STOETT, Nederlandsche Spreek
+
+woorden, Uitdrukkingen en Gezegden,
+4e druk.
+
+Deel l ing. ƒ 12.—geb. ƒ 13.75 in half
+
+leer ƒ15.—.
+
+Deel II ing. / 12.75 geb. / 14.25 in half
+
+leer / 15.75.
+Beknopte uitgave 5de druk, ing. ƒ4.50;
+geb. ƒ5.50.
+FOLKLORE
+
+Prof. Dr. J. SCHRIJNEN, Nederlandsche
+Volkskunde, Deel I, 2de druk
+ing. ƒ 6.50; geb. ƒ7.50.
+
+K. TER LAAN, Groninger Overleveringen,
+houtsneden van J. Bulder, 2de druk
+ing. ƒ 2.50; geb. ƒ3.50.
+
+W. A. P. SMIT, Folklore, schetsen uit
+binnenen buitenland ing. ƒ 1.90; geb. ƒ 2.50.
+JONGENS- EN M
+LU1GI BERTELLI, Keizer Witlap de Eerste,
+De geschiedenis van een jongen die mier
+werd, met 8 gekleurde platen
+10—14 jaar. ing. / 3.50; geb. ƒ 4.50.
+A. SIXMA VAN
+HEEMSTRA-SCHIMMELPENNINCK, Uit het Grijs Verleden,
+Middeleeuwsche verhalen voor jongeren met
+gekleurde en zwarte platen (10—16 jaar)
+ing. / 3.50; geb. ƒ4.50.
+A. SIXMA VAN
+HEEMSTRA-SCHIMMELPENNINCK, Middeleeuwsche Verhalen,
+voor de rijpere jeugd, met gekleurde en
+zwarte platen (10—16 jaar).
+ing. ƒ 3.50; geb. / 4.50.
+EISJESBOEKEN
+S. D. LEFèBRE, Ascon de Fries, een Jongens
+
+boek uit den tijd dei Batavieren en Ro
+
+meinen, met l gekleurde en 17 zwarte
+platen van Pol Dom (10—16 jaar)
+ing. ƒ 2.90; geb. ƒ3.90.
+
+J. A. SLEMPKES, Hst Verhaal van de vier
+Heemskinderen 2de druk, met gekleurde
+en zwarte platen van Pol Dom (10—16 jaar
+ing./ 1.90. geb. ƒ2.90.
+
+J. A. SLEMPKES, De zinrijke Avonture van
+den Vos Reinaerde, met gekleurde en
+zwarte platen van W. Backer(12—18 jaar)
+ing. ƒ 1.90; geb. / 2.90.
+Deze advertentie is natuurlijk niet volledig
+Uw Boekhandelaar zal U gaarne gratis onzen catalogus
+MOOIE BOEKEN verstrekken, waarin deze en
+tal van andere boeken uitvoerig worden beschreven
+
+Al deze boeken zijn bij den boekhandel verkrijgbaar
+
+</text>
+<image timestamp="2002:09:22:10:00:27.00" size="167069">000008PP.TIF</image>
+</page>
+</document>

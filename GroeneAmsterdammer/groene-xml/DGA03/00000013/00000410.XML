@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18971205</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Keizer Wilhelm en zijn Israëlietische Soldaten.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 5 December 1897.
+H. i.wo;.^..j::.«^.^^..^.v,^;^J^r^i
+"wr K??SSSS£SlTï=~~"
+* &gt;«.«*«««*"&lt;;•?
+
+
+*r^.Y-,
+\
+***
+
+rf "«
+•v' »'*'
+
+
+&amp;i'^ f
+' •-"... J-1 -fc,J
+"••^-^
+,„0,
+/'
+y' -**: •'
+, ., .. f^-^C
+HV- "'^••4&gt;'1::.:-; A'V^
+^ .^-^.Vf
+'^"Vi?r
+, -^
+
+v^
+^v^ ,
+,1
+v.
+
+!,
+i ' ^O
+* y -^ v f
+\
+.&lt;^!»....,.ji}',**r*
+'-. ,„:-ül "
+r ,
+/ i'
+£ l
+^ ;. 4
+
+
+J^
+'"^•v,
+
+'"-.»,..«,.*fc ,
+JV-. '•
+.&gt;- AV
+^
+n&lt;^!I"^n"' e\
+Amst. Boek- en Steendrukkerii, v/h. Ellerman, Harms &amp; Co.
+KEIZER WILHELM.; Alleen een goed Christen kan een goed soldaat zijn....
+RECRUUT: Nu word ik zeker ook generaal, Majesteit?
+
+</text>
+<image timestamp="2002:08:22:06:54:47.00" size="316937">00000410.TIF</image>
+</page>
+</document>

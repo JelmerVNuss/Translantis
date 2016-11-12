@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000311</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1185
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De Leerplichtwet in de Tweede Kamer.
+Juffrouw BoRGEsirs : »Nu behoorlijk zitten n eter, jongens, en niet vragen; 't is wezenlyk zoet genoeg."
+'ailimïllllltlllllllllllllimill.lllllimillllllinimilllllimilllllllllllllllllll
+iiiiiiiiiiiiiimiiiiiiiiimiiiimmiiMiMiMiiiiimiiiiimiiiiiif
+In 't Privaatkantoor van den dood.
+(Lmtige Blatter).
+De weg naar Pretoria.
+(Caran d'Ache in den Fiyaro).
+JOHN BÜLL : »Good gednun Roberts, maar ik vrees dat 't
+«en groote teleurstelling zal wezen voor sommige lui."
+(Judy).
+Joux Bui.r,: Nu zullen we eens een Ei
+blad omblaan."
+(Black &amp; White)
+In Westminster abdij.
+
+(Limtige BI filter).
+TranHvaal met zijn goudv-M -n is een
+Paradijs. (I'it een Porti n cntn-rede).
+SuAKESi'BAEu'b GLLM : &gt;Sla 0,1, collega
+Milton, er valt EÜJ een «Verloren Paradijs"
+te schryven !"
+DE Doon (tot zijn techninchen duf KRUIT) : »Me dunkt de 45.OCX)
+bestelde staalgranaten, die tegen die hrave Boeren moeten dienen, zullen
+we uit humaniteit maar niet afzendt n."
+Ontwerp van een monument voor Cecil Rhodes.
+(Hermann Paul in den Fiyaro.)
+Kbodes, de KI000 dooden groeten u!
+Bilder ohne worte.
+(Her Scherer, Tirolermonatsbiatt).
+Joux BULL -. »IIoera!i ! r.u kom ik op de tweede sport."
+Tegenstrijdige oorlogsberichten.
+Moet ik nu per slot huilen of lachen 't
+A buil lljjht in Sauth Ai'rika.
+(Fl Almi:ote, Mexico).
+
+</text>
+<image timestamp="2002:08:14:08:19:59.00" size="406766">D2000EL.TIF</image>
+</page>
+</document>

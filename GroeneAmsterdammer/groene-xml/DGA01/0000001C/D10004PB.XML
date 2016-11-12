@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960927</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Heer Fransen van de Putte en de Atjeh-Oorlog.
+
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 27 September 1896.
+J- f'
+'^- VV * *. ,
+^ "y^B^
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+
+
+
+De Heer FRANSEN VAN DE PCTTE: »Voor de verantwoordelijkheid, die ik draag, deins ik geen oogenblik terug."
+
+</text>
+<image timestamp="2002:09:04:22:58:19.00" size="459384">D10004PB.TIF</image>
+</page>
+</document>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271105</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+1&gt;ËGROENE AMSTERDAMMER VAN 5 NOVEMBER 1927
+No. 2631
+
+DE AFLEVERING
+HEEFT WEER GEREGELD PLAATS
+
+Stoomgoederen in ca» 7 dagen
+Verfgoederen in ca+ 12 dagen
+
+(uitgezonderd hoeden)
+
+PALTHE
+DROSTE s
+VERPLEEGSTER.
+CACAO
+Rondom de
+Familietafel
+Op welk uur van den dag Ge Uw
+huisgenooten, jong of oud, ook Droste's
+schenkt, ze is altijd welkom"; smaak
+en aroma zijn voortreffelijk.
+Droste's Cacao, nimmer afwijkend in
+kwaliteit, is gezond, ver
+
+sterkend en voedzaam.
+Bestel nogheden een bus.
+DROSTE'S
+BONBONS
+PASTILLES
+CHOCOLADE
+Droste" op ieder
+artikel, waarborgt
+kwaliteit.
+zoowel eenvoudige als betere uitvoering.
+
+G. J, DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730.
+AMSTERDAM
+ichécS*
+'Voor alle doeleinden
+l NV
+l Oiem.Kunstinricriting
+loirkSchnöbel
+~ Amsterdam. »
+W» J. VOGEL Jr.
+2e Jan van der Heijdenstr. 3
+b. h. Sarphatipark
+Telefoon 24747
+BEGRAFENISSEN
+CREMATIE
+TRANSPORTEN
+EenWasscherij'l
+is een zaak van vertrouwen!
+De Stoom-Wasscherij
+DE PELIKAAN" te Gouda
+bestond l Juli 1925 Honderd Jaar!
+Hoe staat 't met Uw wasch!
+Vraagt eens om onze prijs
+
+courant No. 16
+MENDELS
+Kalverstr. 109/111
+AMSTERDAM
+Heteenigst speciaal-huis.
+Het beste adres in Ne
+
+derland voor Béb
+-jongens- en Meisjes-onder
+
+en boven U eed i n g.
+
+</text>
+<image timestamp="2002:09:22:01:28:11.00" size="186481">D10006ZM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301122</Datum>
+<Pagina>1A2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l'.ljl t&gt;!-&lt;.,.Sl:f. zan De Groene Amsterdammer" Weekblad vcor Nederland t-in .'_&gt; .Y,ir«.-wfer «,
+Groeiende radioverontwaardiging
+r V^
+; y\ ^ri.
+J II ' i 'l M,!
+L/ s ' ;A? , - ^ 'j (Wii[i
+:/*§ji;&amp;^ i^r^i^ '4
+i-=p ^ ^^**-^--&gt;-^ft^ f * ^-% * 5
+
+*r-|r%|5
+• . - i' - • i s
+••!•--( « .'.Ti,1//// /r lev
+ven
+
+</text>
+<image timestamp="2002:09:22:09:16:55.00" size="346621">000008OU.TIF</image>
+</page>
+</document>

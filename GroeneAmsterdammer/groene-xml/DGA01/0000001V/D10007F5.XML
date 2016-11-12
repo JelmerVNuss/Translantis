@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260320</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2546
+'WfSfsj'ffs.fiW - x
+^ isf^:-^1:^^
+!'!l i,j-'*J wfèSÏ']l Jlii-^L: i;'üi'i; S^N ••!,l;i':.!ii^B,v
+
+"\ aw * l •'&lt;&gt;.(•-"•&lt;'£';i|lj|i l 4^ %
+If'iW^'if1
+II; hipfeffli)»
+'"^'ïFr4» i.' H' (tuiuntmi NU i»1 :
+iï,atte! i
+^**wifia«iiliïmu v)-» • sv B.' . *
+^^iiipijiliiSÖ'?1.; !{•• m
+
+
+^jè. iL- '!»f(
+^W i ilj^^ï^r
+'"* ':^l||!l'^f|lp .fg f*'
+cdert de vestiging \'an De Bijenkorf',
+ruim 60 jaar geleden, als kleine
+Manu• faeturemvinkel te Amsterdam, mogen
+wij terugblikken op een tijdperk \'an on
+
+onderbroken sneces, hetwelk ons moed en
+kracht heeft geschonken om de vleugelen
+breeder te ontplooien en voort te bouwen
+op de fundamenten, waaraan wij ons wel
+
+slagen in de Hoofdstad des Lands te danken
+hebben.
+Wij willen met onze Haagsche onder
+
+neming onze reputatie niet alleen handhaven
+maar nog vergrooten en zullen alles in het
+werk stellen oni onze komst in de Hofstad
+te rechtvaardigen.
+
+</text>
+<image timestamp="2002:09:25:04:57:33.00" size="277194">D10007F5.TIF</image>
+</page>
+</document>

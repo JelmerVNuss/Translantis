@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19240705</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+H'. 8455
+Zaterdag B Juli
+A°. 1924
+DE AMSTERDAMMER
+
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van O. W. KERN K A MP
+Redacteuren: H. BRUGMANS, HERMAN HEYERMANS, TOP NAEFF en G. NOLST TRENIT
+Secretaris der Redactie. C P. VAN DAM
+UITGEVERS» VAN HOLKEMA &amp; WARENDORF
+VOORUITZICHTEN BIJ DE STUDIE
+
+Op de velden staat het koren nog te rijpen. Maar bij het middel
+
+baar en hooger onderwijs wordt de oogst al binnengehaald. Eiken
+dag zie je in de kranten lange lijsten van geslaagden bij acade
+
+mische examens of bij eindexamens van H.B.S. of gymnasium.
+Voor de laatste categorie komt nu de vraag aan de orde, of zij
+hunne studie zullen voortzetten aan universiteit of hoogeschool,
+en zoo ja, voor welk vak van studie.
+Althans voor velen van hen. Niet voor allen. Er zijn er, bij wie
+reeds in den H.B.S.- of gymnasium-tijd een zoo duidelijke voor
+
+liefde en aanleg voor een bepaalde studierichting zijn gebleken,
+dat hunne keuze is gevestigd. Deze gelukkigen behoeven zich ook
+het hoofd er niet over te breken, of de maatschappelijke vooruit
+
+zichten hun, na volbrachte studie, een behoorlijk bestaan beloven.
+Zij worden dokter of ingenieur of predikant, omdat zij niet anders'
+kunnen.
+Maar ik geloof niet, dat dit bij de meesten het geval is. Er zijn
+er meer, die met zekerheid weten, wat zij niet, dan wat zij wél
+willen worden. Geen leeraar of predikant: zulk een negatieve
+beslissing komt meer voor dan de positieve wil om scheikundige
+of advocaat of geneesheer te worden.
+Het zou de moeite waard zijn, eens een onderzoek in te stellen
+naar de redenen, waarom gestudeerde menschen om bij dezen
+nu maar te blijven het beroep hebben gekozen, waarin zij hun
+leven slijten. Menigeen is er zich vermoedelijk niet eens meer van
+bewust. En bij degenen, die er zich wél nog rekenschap van kunnen
+geven, zou misschien blijken, dat het toeval, of althans allerlei
+omstandigheden, die met het beroep zelf weinig te maken hebben,
+hun levenslot hebben bepaald. Van een eigenlijke keuze is misschien
+bij enkelen slechts sprake geweest.
+Zoolang wij nog niet in een maatschappij leven, waarin iemands
+geestelijke en lichamelijke eigenschappen den doorslag kunnen
+geven bij de keuze van een beroep, zullen f inancieele overwegingen
+een grooten invloed daarop uitoefenen. Voor menigeen is in de
+eerste plaats het antwoord op deze vragen van belang: hoe groot
+zijn de kosten van de opleiding? welke vooruitzichten heb ik
+om na mijn studietijd spoedig een betrekking te vinden, die mij
+een behoorlijk bestaan waarborgt?
+Nu valt het in onzen tijd niet te ontkennen, dat het antwoord
+op deze vragen velen van de studie moet afschrikken.
+De kosten van de opleiding zijn aanmerkelijk grooter geworden.
+De Staat heeft daartoe het zijne bijgedragen, door de college- en
+examen-gelden te verhoogen. Maar de voornaamste reden, waarom
+het velen ouders moeilijker valt, hunne kinderen te laten studeeren,
+is toch, dat de kosten van het levensonderhoud zoozeer gestegen
+zijn.
+Daarbij komt, dat in verschillende vakken de studie langer
+duurt dan vroeger. Het mag waar zijn, dat het wetenschappelijk
+gehalte van hen, die aan een Nederlandsche universiteit of hooge
+
+school hebben gestudeerd, dat van vele andere landen overtreft,
+de naar mijne meening ten onzent onmiskenbare neiging om den
+studietijd te verlengen heeft toch veel bedenkelijks. Vooral wan
+
+neer men in het oog houdt, dat de overgroote meerderheid der
+studenten niet uit liefde voor de wetenschap studeert, maar alleen
+omdat die studie de noodzakelijke voorbereiding is voor een
+beroep of ambt.
+Maar in meerdere mate nog dan de grootere kosten der opleiding,
+moeten de maatschappelijke vooruitzichten menigeen ervan
+afschrikken, de studie te beginnen.
+We kennen allen de verhalen van jongelui, die, met een
+ingenieurs-diploma in den zak, geen betrekking' kunnen vinden en,
+om maar niet ledig te loopen, een of ander baantje aanvaarden,
+waarvoor de studie te Delft waarlijk niet noodig was geweest.
+En niet alleen voor de ingenieurs zijn de tijden slecht. Voor de
+juristen, de biologen en de scheikundigen ziet het er, wel iets,
+maar toch niet vél beter uit.
+In het afgeloopen studiejaar is er een boekje verschenen, waarin,
+op verzoek der vereenigde faculteitsbesturen van de juridische
+studenten, een aantal deskundigen hunne meening hebben geuit
+over de vooruitzichten voor aanstaande juristen; mijn collega
+Simons heeft er in dit weekblad de aandacht op gevestigd (in
+het nummer van 29 Maart 1.1.).
+Hij vatte toen het oordeel van de verschillende schrijvers, die
+de studenten hadden voorgelicht over de vooruitzichten van een
+jurist, die advocaat wilde worden, of rechterlijk ambtenaar in
+Indië, of journalist, of een plaats hoopte te krijgen bij het
+assurantiebedrijf of het bankwezen, aldus samen:
+Wie thans de studie van de rechten kiest, wete dat hij zich niet
+gemakkelijk een goede loopbaan, een behoorlijk maatschappelijk
+bestaan zal kunnen verzekeren. The struggle for life kan ernstig
+wezen voor hem, die niet over voldoende middelen beschikt om
+zijne beurt te kunnen afwachten. Het is goed, zich daarvan in
+vollen ernst rekenschap te geven."
+En slechts kort geleden hebben de Utrechtsche hoogleeraren
+Went en Cohen een waarschuwing laten hooren aan het adres van
+hen, die mochten meenen dat, zooals voor enkele jaren nog het
+geval was, een bioloog of een scheikundige na volbrachte studie
+er op kan rekenen, een plaats in het bedrijfsleven te veroveren.
+Ook hier is het vet van den ketel. Zoowel in Nederland als in
+Indiëis de vraag van de industrie naar jongelui, die in de genoemde,
+vakken hebben gestudeerd, geringer geworden.
+Ook voor de studenten in de letteren zal het niet zoo gemakkelijk
+meer vallen, een aanstelling tot leeraar bijna het eenige beroep,
+waarop zij zijn aangewezen te krijgen. Een paar jaren geleden
+was dat nog anders. Door het steeds toenemend aantal
+hoogereburgerscholen en lycea overtrof de vraag naar leeraren verreweg
+het aanbod. Wie nog maar pas candidaats-examen had gedaan,
+kon reeds aangesteld worden en weerstond meestal deze verleiding
+niet. De behoefte aan leeraren was toen zoo groot, dat allerlei
+onbevoegden tot leeraar werden benoemd: op hoop van zegen,
+dat ze straks een acte M.O. zouden behalen.
+Maar nu is het anders. De bczuinigingswind is over het land
+gestreken. Nieuwe scholen worden er voorloopig niet meer opge
+
+richt, het aantal lesuren van de leeraren, het maximum-aantal
+leerlingen in de klassen is vermeerderd, de behoefte aan nieuw perso
+
+neel dus verminderd. Wie nu in de letteren studeert, heeft niet
+meer de zekerheid van een aanstelling, zoodra hij gereed is.
+
+Er bestaat dus eenige aanleiding om hun, die op het punt
+staan de studie te beginnen, aan te raden zich rekenschap te
+geven van wat zij gaan aanvangen.
+Vooral geldt dit hen, die even goed, d.w.z. zonder dat het hun
+eenig hartzeer kost, den steven ergens anders heen kunnen wenden.
+Voor wie, krachtens aanleg en voorliefde, een wetenschappelijke
+loopbaan kiezen, zal het toch reeds moeite kosten, een goede
+positie te verwerven; hoe minder mededinging zij daarbij onder
+
+vinden van anderen, die gingen studeeren omdat hun vader het
+ook deed, of omdat zij te weinig fut hadden een carrière te kiezen,
+die meer met hun eigenschappen strookte, des te beter.
+Maar laten omgekeerd ook zij, die aan een leven van studie de
+voorkeur geven boven een anderen werkkring, zich niet laten
+weerhouden door de ongunstige vooruitzichten.
+Want in de eerste plaats: alle tijden hebben hun weertijden.
+De cultuurondernemingen in Indiëbeginnen er al weer beter
+voor te staan; zij zullen straks weer wat royaler kunnen zijn
+bij de aanstelling van wetenschappelijk personeel. De industrie
+in Nederland heeft den slechtsten tijd misschien al achter den rug;
+voor scheikundigen zal over eenige jaren het bedrijfsleven weer
+betere kansen bieden. De bezuiniging bij het onderwijs, die niet
+slechts het overbodige afkapt, maar ook het wezenlijk noodige
+besnoeit, mag alleen als een tijdelijke maatregel worden aanvaard,
+die bestemd is te verdwijnen, zoodra 's lands financiën dit slechts
+eenigszins gedoogen.
+Maar dan ook, en vooral: wie lust heeft in de studie, late zich
+door niets daarvan afschrikken.
+Want het is honderd maal beter, in bescheiden materieele om
+
+standigheden te leven naar eigen aard, dan veel geld te verdienen
+en je zelf te verliezen.
+
+KERNRAMP
+
+</text>
+<image timestamp="2002:09:03:11:43:38.00" size="199988">D2003P7.TIF</image>
+</page>
+</document>

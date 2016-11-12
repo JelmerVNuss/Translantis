@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+feefcblad
+«ner
+voor Nedcrïcmd
+A A K E N S I
+
+CSAURHzn.
+HOFLEVERANCIER
+ROION 134 over de Ned. Buk
+Telefoon 40240, 49971
+Vischrestauraat
+en Visckhaadel
+A K ZURCHER
+CA^TONNJ^BFABRIBKenDRUKKBKIJ
+LOOIBRSGÜACHT64'66-68-70-72.AMSTERDAM
+London, Ao 17 H. Verzekering tegen
+
+INBRAAK-,
+WATERLEIDING- EN
+STORMSCHADE
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+30 CENT PER HALF ONS
+.V. MeuLelmagazijn
+MOLSTEEG-AMSTERDAM
+
+OEKENKASTEN
+N.V. GOEDEWAAGEN-GOUDA
+f.ljoppe
+rtightcapen
+Fijne likeuren
+s
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+
+Speciale inrichting I
+
+CAPI
+115 KALVERSTRAAT
+t/o LIBERTY
+.
+EEN KRUIS
+IN HUIS
+is het poetsen van den haard
+
+GLORIA" YoUen
+worden nooit gepoetst om
+
+dat het prachtige porselein
+emaille altijd mooi blijft
+PRIJZEN COMPLEET:
+
+f 45,125, 190,210,230
+
+Let op naam en fabrieksmerk
+Overal verkrijgbaar
+
+Gij kent toch onze O
+Gloria" Kachels!
+
+Adres voor den Handel:
+lOy.VJINDERMEIDEMMfRSFOORT
+DUWT j
+ITIMTUR
+N.V.%
+HA-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- ttHOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD &amp; Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stfflea
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amsterdam
+HEEST GESCHIKTE BlflDERIJ VOOR H H-UITOEVERS
+ST WILUBRORDUS5TR AAT 63-55 ADAM TEL 2 &lt;t46C
+
+</text>
+<image timestamp="2002:09:26:06:11:52.00" size="145685">D100080K.TIF</image>
+</page>
+</document>

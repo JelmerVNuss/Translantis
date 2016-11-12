@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19230210</Datum>
+<Pagina>10B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ta Strailen lonsieor t
+«MMkwrtMr: ROTTERDAM, LaHJvetiavon 34
+«•Juurttfw: DEN HAAG, Lloydf«bouw
+1&gt;J***ooii t*87-8B
+DEN HELDER, Hoofdgracht 37
+TELEPHONE
+
+Rijwiel-Sloten
+Absoluut niet op het gevoel
+te openen, daar een speciale
+sper-inrichtlng Is aangeoracht.
+Octrooien
+aangevraagd.
+Wacht U «por gelijkuitziende,
+doch minderwaardige sloten.
+
+Telephone Lock Cy.
+Prijs f5.-. - -. ZE 19 T -
+_ au.
+bevat vele illustraties en
+bijna alléartikelen zijn rflk
+geïllustreerd.
+Als gratis bijvoegsel ver
+
+schijnt 4xper jaar:
+Naaldwerk en Kant", een geïll.
+tijdschrift ter bevordering
+van naaldkunst enkantwerk
+in alle technieken.
+
+Vanaf l Mei 1922 Is
+de prijs per jaargang
+f 10.—franco per post
+f 10.75-Buitenl. f 13.-.
+
+Proefnummer op aan
+
+vraag gratis Men
+abon. zich bfj iederen
+solleden boekhandel.
+
+Oitgm «n: Kan Kelken» l lartndorl
+AMSTERDAM.
+Prima Huiahondzeep. Zeer aan te bevelen voor het wasscheo
+van flanellen en wollen goederen, 58K ets per pak van 4 stukken.
+
+Uitsluitend bij J. F. KJJBTHAUS, Gr. Markt, Haarlem.
+Drukt
+
+J aar ver
+
+slagen
+Vraag Uw arts
+•wat hij denkt van
+ROBURINE
+//// zal meer op 'fgebruik
+aandringen,dan vit.
+Firma L A. A. v. HAMERS VELD
+AMERSFOORT - Arnhemscheweg 6-8 - TELEF. 42
+Hoofdvortoffouwoordlglnff
+
+ARBENZ"
+De bette Zwltschenche CARDAN-VRACHTWAGENS.
+
+</text>
+<image timestamp="2002:08:25:17:18:20.00" size="92033">D10003KV.TIF</image>
+</page>
+</document>

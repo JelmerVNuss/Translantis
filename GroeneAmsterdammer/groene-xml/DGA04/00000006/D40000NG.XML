@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130323</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Afh. 1. De Sterke Uren. Af b. 2. De Diepe, Uren. Af b. 3. De Zachte Uren.
+Deze Reproducties, welke vervaardigd zijn naar de nieuwe Wandschilderingen van R. N. ROI.AND HOI.ST in het
+ebouw van den Alg. Ned. Diarnanthewerkersbülld te Amsterdam, behooren bij de bespreking door Ai.m.in VMKWKY
+in De Amsterdammer, Weekblad voor Nederland van 23 Maart HM3.
+Nadruk verbudeu.
+Ainst. Boek- LMI SU'i'iidi ukki-rij. \ 11.
+1111:111, Hanns
+
+</text>
+<image timestamp="2002:08:18:10:45:46.00" size="159098">D40000NG.TIF</image>
+</page>
+</document>

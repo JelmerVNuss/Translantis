@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010512</Datum>
+<Pagina>5</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1246
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Sijthoff s uitpe m Grietehe en Latijnsche
+
+Mscnriften in püotograpliisclie reproductie.
+
+(SM.)
+In het jaar 1788 gaf de Fransche geleerde
+d'Ansse de Villoison, met behulp van den
+waardigen directeur der Marcus-bibliotheek Morelli
+(1778—1819), te Venetiëde Ilias van Homerus,
+met de merkwaardige schollen, uit 12)- Zeven
+jaar later verschenen de beroemde Prolegomena
+op Homerus van F. A. Wolf, die in vele op
+
+zichten op deze editio princeps berusten.
+Volgen wij 't lot van ons handschrift. In
+het jaar 1797 werd het met een 500-tal an
+
+dere uit de bibliotheek van S. Marco naar
+Parijs gebracht, en eerst in 1816 kwam het
+weer te Venetiëterug. Terwijl het zich te Parijs
+bevond, is het in 1810 bestudeerd door den
+bekenden sneluitgever, Immanuel Bekker, wiens
+nieuwe scholiën-uitgave in 1825—1827 te Ber
+
+lijn is verschenen. De fout zoowel van Villoison
+als van Bekker is evenwel geweest dat zij slechts
+een uittreksel, een bloemlezing van de (volgens
+hen) beste kantteekeningen hebben gepubliceerd.
+Na het bekende boek van Lehrs (1833) over
+de Homerische tekstkritiek van Aristarchus is
+door Duitsche, Hollandsche, Engelsche geleerden
+als om strijd op een volledige uitgave der scholiën
+aangedrongen; voor ons land verwijzen wij al
+
+leen, naar de geschriften van Cobet, van Naber,
+van Herwerden, last not least bovenal van v.
+Leeuwen en Mendes da Costa. 13) Van
+buitenlandsche philologen moeten La Roche, Ludwich,
+Monro. e. a. worden genoemd 14) Eerst in het
+jaar 1875 verscheen een volledige uitgave door
+W. Dindorf te Leipzig, die daarbij van de col
+
+laties (tekstvergelijkingen) van Cobet en Monro
+gebruik heeft gemaakt. De Duitsche geleerde
+A. Ludwich evenwel, die zelf eene nieuwe editie
+van Homerus heeft gegeven, heeft de gebreken
+van Dindorf's arbeid aangetoond. Maar een
+nieuwe uitgave der schollen bestaat er nog niet,
+zij is een desiderandum: Editio textus cum
+scholiis desideratur, zegt Comparetti, die zijne
+voorrede op de volgende aardige manier besluit:
+De hoogste eer valt nu onzen codex te beurt
+door deze uitgave, voor welke de zorg van
+Scato de Vries gewild heeft, dat ik een voor
+
+rede schreef, en die dank zij den vader van
+alle licht, //het schitterende licht van Helios",
+de volmaakste is van alle die ooit tot stand
+zijn gebracht. 15) Italiëschonk de zon, het
+verlof om den codex door fotografie te ver
+
+menigvuldigen hebben wij Italianen gaarne ge
+
+geven, met toestemming van Salomon Morpurgo,
+den weiwillenden directeur der Marcus-biblio
+
+theek, een schets van de geschiedenis en een
+korte beschrijving van het handschrift gaf ik
+zelf; de uitgave is tot stand gekomen door het
+levendige en wakkere Hollandsche volk 16), dat
+nooit achterblijft bij den adel zijner voorouders,
+en hunne groote verdiensten in ons vak van
+studie." Met die woorden neemt Comparetti
+van zijne lezers
+afscheidVragen wij nu in 't algemeen, welke waarde voor
+de klassieke studiën SijthofFs onderneming heeft,
+dan antwoord ik: die van een onschatbaar hulp
+
+middel! Het -ware te wenschen dat door de
+fotografie de keunis van alle voorname hand
+
+schriften overal wierd verspreid en gemakkelijk
+gemaakt; immers het bezoeken van
+buitenlandsche bibliotheken ea het bestudeeren en
+copieeren van handschriften op de plaats zelve
+is aan allerlei, vaak groote bezwaren onderhevig.
+Onschatbaar is het, een volkomen betrouwbare
+photographischc reproductie te hebben, en als
+hulpmiddel bij de palaeographie, die zelve hulp
+
+middel is op het uitgestrekte gebied der
+philologie als kennis der Grieksehe en Latijusche
+oudheid, i? de Leidsche uitgave met instemming
+en dankbaarheid te begroeten. Veel waarheid
+schuilt er nog in Goethe's woord: //Moge das
+«Studium des griech und röm. Altherthums
+imirinerfort die Basis der höheren Bildung bleiben.
+(.Cbinesische, Indische, Aegyptische Altherthümer
+»siud immer nur Curiositaten, er ist sehr
+wohl»gethan, sich und die Welt damit bekannt zn
+machen, zu sittlicher und esthetischer Bildung
+aber werden sie uns wenig fruchten " 17) Men
+lette er echter op dat Goethe, en terecht, van
+zedelijke en aesthetische vormig spreekt, deze
+zullen wij nooit bereiken wanneer wij niet breken
+met de hedendaagsche versnippering van krachten
+en met de overdreven specialiseering van den
+arbeid. Niet alleen dat de handschriftenstudie,
+ongeveer gelijk aan paleeographie, tot een afzon
+
+derlijk vak van wetenschap is geworden, in de
+laatste jaren heeft men, vooral in Duitschland,
+aan een onderdeel daarvan, de papyrusstudie en
+papyrusliteratuur, een afzonderlijk orgaan gewijd,
+en de krachten worden al meer en meer ver
+
+snipperd. Ieder geleerde zoekt zich zijn gebiedje
+of terreintje uit, kijkt daarop met
+Argusoogen rond om ongenoodigde bezoekers te weren,
+en de blik op het groote geheel gaat helaas!
+maar al te veel verloren. Wel is een reactie
+in aantocht, maar de hedendaagsche specialitei
+
+tenmode moet eerst haar toppunt hebben bereikt,
+naar het schijnt, voordat beterschap mogelijk
+is 18) Doch keeren wij tot de uitgave van de
+firma Sijihoff terug.
+De palsDographie of de leer van het uit- en
+inwendig schriftwezen der Grieksche en
+Romeinscbe literatuurwerken kan natuurlijk door deze
+reproducties machtig worden bevorderd. Laten
+wij nog even enkele bijzonderheden hiervan na
+
+gaan. Tot het uitwendig schriftwezen behoort
+de kennis en studie van het schrijfmateriaal
+(papyrus waarvan ons »papier" , perka
+
+ment, charta pergamena, naar Pergamum zoo
+genoemd; later in de 10e en lle eeuw gebruik
+van linnen papier, papier uit lompen, enz.), van
+de schrijfgereedschappen (lineaal, inkt, bij de
+Romeinen atramentum, pen of veer, calamus,
+etc.)) en van den vorm der werken. De oudste
+vorm was, zooals men weet, de rol (volumen),
+en 't formaat gewoonlijk quarto. Zeer belangrijk
+voor de kennis der oudheid zijn de twee- of
+meermalen beschreven handschriften of z. g.
+pilimpsesten, waarvan de ontcijfering vaak met
+behulp van chemische reagentia gelukt is. Ein
+
+delijk behoort tot het uitwendig schriftwezen
+ook de kennis van de personen, die de hand
+
+schriften hebben vervaardigd (schrijvers, scriba,
+notarius, tabellio, librarius, enz. in de midden
+
+eeuwen voornamelijk monniken), en niet minder
+kennis van de afkortingen en van het snelschrift,
+dat reeds in de oudheid zeer volmaakt is ge
+
+weest. Het spreekt vanzelf dat door den aard
+van het overschrijven en door onkunde reeds
+zeer vrorg een groot aantal fouten in de hand
+
+schriften is ingeslopen, zoodat dan ook de emen
+
+datie der codices, die wetenschap waardoor onze
+Hollandsche school zoo beroemd is geworden en
+waarin boven allen Cobet uitblonk, een afzon
+
+derlijk vak van studie geworden is.
+Zoo komen wij, tot hetgeen men het inwendig
+schriftwezen noemen kan, dat vak van studie
+dat meer dan andere aan Sijthoff's onderneming
+de grootste verplichtingen heeft. De keunis van
+het Grieksche en Latijnsche schrift is alleen
+door bestudeering van allerlei handschriften
+praktisch te verkrijgen, en de thans begonnen
+fotografische reproducties maken tot zekere hoogte
+voortaan een reisje naar Londen en Parijs, naar
+de bibliotheken en archieven van Italië, Spanje,
+enz. overbodig. Nauw sluit zich bij de kennis
+der handschriften de hulpwetenschap aan, die
+men epigraphiek noemt, de ontcijfering en uit
+
+gave van de duizenden en duizenden Grieksche
+en Latijnsche in- en opschriften (inscripties), die
+natuurlijk ook een nauwkeurige kennis vereiseht
+van de alphabetten, of (wil men liever) de ont
+
+wikkeling van het alphabet uit de verschillende
+eeuwen. E a dit alles, vergeten wij het niet,
+moet natuurlijk gepaard gaan met scherpzinnige
+kritiek.
+De draagster dezer scherpzinnige kritiek is
+ten onzent het tijdschrift Mnemosyne 19). Cobet's
+artikelen daarin zijn ware modellen van fijne en
+geestige tekstkritiek. Naast en na hem komt
+alle eer toe aan van Herwerden, den grooten
+kenner der oud-Grieksche poëzie, aan Naber,
+v. Leeuwen, Hartman, Polak en zoovele anderen
+die een groot aantal teksten van klassieke of
+(somtijds) na-klassieke schrijvers hebben trachten
+te verbeteren. Alle hulde aan die geleerden en
+hun arbeid! Maar er is ook hier een //maar"
+bij. Ik kan mijne bedenkingen tegen het al te
+veel overwegen van de tekstkritische richting
+niet beter weergeven dan door te eindigen met
+de hierboven reeds aangehaalde, maar niet mede
+
+gedeelde woorden van den scherpzinnigen helle
+
+nist en philoloog, maar vooral van den grooten
+denker Friedrich Nietzsche, door zijne zuster in
+diens biographie medegedeeld 20). Hier en daar
+drukt Nietzsche zich wat scherp uit, maar in
+hoofdzaak geeft hij volkomen weer wat ik denk
+en voel. Hij zegt:
+Er wird allmahlich Zeit, nicht mehr ber
+»den Buchtstaben zu hoeken. Das Bestreben der
+uachsten Philologengeneration muss endlich
+//sein, abzuschliessen und das grosse Vermachtniss
+//der Vergangenheit anzutreten. Auch diese
+Wissenschaft muss dem Forlschritt dienen. Sein
+«Leben würdig anzulegen, muss das Bestreben
+//junger Krafte sein. Also stecke man sich
+ent//sprechende Aufgaben. Man nahere die Wissen
+
+schaft dem Streben der gegenwattigen
+Men«•schen, man ziehe, was in der Rumpelkammer
+steht, nicht wieder hervor. Das Wiederkauen
+«muss auf horen	Auch die litterarischen
+Studien werden bertrieben. Man lese Shakespeare
+//mehr als ber ihn. Man befördere die Lektüre
+Plato's. Er fehlt in der Philologie an grossen
+Gedanken, und daher in dem Studium an
+«hinreichendem Schwung. Die Arbeiter sind
+«Eabriksarbeiter geworden. Der Betrieb der
+Gan«zen schwindet ihnen aus den Augen. Unsere
+^Philologen sollen lemen mehr im Grossen zu
+//urtheilen, und das Feilschen um einzelne
+Stellen mit den grossen Erwagungen der
+Phi//losophie 2u vertauschen. Man muss nette Vragen
+stellen kannen, wenn man neue Antworten haben
+Hwill. Die vergangene Periode hat endlich die
+//Texte methodisch hergestellt. Das war eine
+Hülfsarbeit. Er bleibt der Gegenwart mehr zu
+//thun, als die Correktoren zu spielen.... Die
+l	MUI
+Rollen van 6 Tabletten.! Rollen van 6 Tabletten. • i o dubb. Capsules
+Ellen Key: 0?er conyentioneele
+
+Vrowelükbeiu.
+
+Conventie is een stilzwijgende overeenkomst
+om den schy'n te stellen boven het wezen, den
+vorm boven den inhoud, de bijzaak boven de
+hoofdzaak. Haar gebied is in zekeren mate dat
+der steeds wisselende mode; in dieperen zin
+valt het gedeeltelijk samen met het rijk der
+wetten en zeden, met de begrippen over de
+mate van zelfbeheersching en opoffering die.
+ieder individu zichf in'de samenleving met
+anderen op moet leggen. Hoe hooger de ont
+
+wikkeling komt te staan, des te minder macht
+zal men der maatschappij toekennen om te
+rechten over het denken en gelooven, de levens
+
+wijze en den werkking van het individu. Steeds
+meer dringt de overtuiging door, dat een ieder
+recht heeft zjjn eigen leven te leven, mits hij
+de anderen niet schaadt. De cultuur legt ieder
+nieuw geslacht de plicht op een aantal ver
+
+dorde en der conventie vervallen
+rechtsbegrippen op te ruimen, doode resten die de
+nieuwe kiemen in hun ontwikkeling hinderen.
+ledere t^d heeft zyn sterke persoonlijkheden
+die luide vragen om vrijheid tegenover de
+geldende zede en een eigen opvatting in zake
+geweten en temperament. In dezen
+voortdurenden strijd komt het er op aan te onder
+
+scheiden wat werkelijk nog levend is en wat
+conventie, dus een belemmering van heerlijke
+vrijheid, diepere waarheid, grootere oorspron
+
+kelijkheid, rijkeren levens-inhoud.
+'t Zijn echter niet alleen verouderde begrip
+
+pen, die soms uitgeroeid moeten worden. In
+iedere partij en «deren maatschappelyken
+kring vormen zich spoedig een aantal
+levenslooze vooroordeelen, kleingeestige beweegrede
+
+nen en onzelfstandige gebruiken. En het zyn
+telkens weer de vrouwen bij wie de conventie
+het weligst bloeit. Want de zucht tot behoud,
+als 't ware een instinct der vrouw, wordt dik
+
+wijls en jammer genoeg, ook een steun van het
+conventionalisme. Vrouwen zyn nog zelden
+persoonlijk genoeg ontwikkeld, om in hetgeen
+z\j behouden willen den schijn van het wezen,
+den vorm van den inhoud te scheiden; of indien
+zij het vermogen tot onderscheiden bezitten,
+dan ontbreekt hun nog de moed om de rechte
+keuze te doen, als de meerderheid zich voor
+vorm en schijn uitgesproken heeft.
+In de literatuur der laatste tien jaren over
+en gedeeltelijk ook door vrouwen, heerscht
+evenwel een sterke geest van verzet tegen de
+conventie. Deze oppositie heeft zich bovenal
+gericht tegen het verouderde beeld der ideaal
+
+vrouw, wier hoogste eigenschap zelfverloo
+
+chening heet, en tegen het verouderde
+moraliteits-begrip volgens hetwelk liefde zonder
+huwelijk onzedelijk, maar huwelijk ook zonder
+liefde zedelijk genoemd wordt.
+De vrouwen die het nieuwe ideaal: «zelfbe
+
+wustheid in de zelfopoffering" gekozen hebben,
+ontmoeten nu van den kant der moderne vrou
+
+wenvoorvechtsters dezelfde soort conventioneele
+bezwaren, die een vijftig jaren geleden tegen
+het toenmaals nieuwe ideaal der vrouwenbe
+
+weging geopperd werden.
+Wij weten dat de oudere emancipatie-strijd
+voornamelijk ten doel had, de rechten der
+vrouw als mensen te bepalen; de tegenwoordige
+beweging echter haar recht als individu, het
+recht dus om naar eigen opvatting te gelooven,
+te voelen, te denken en ook te handelen, zoo
+
+lang zij daarmede niemand in zyn rechten
+benadeelt. Daar het eerste doel van algemeenen
+aard was, kon het streven er naar ook ge
+
+meenschappelijk ondernomen worden ; de ver
+
+klaring daarentegen van de zelfstandigheid der
+vrouwelijke individualiteit moest de zaak van
+elk persoon op zich zelf worden. Dit begrijpen
+de vrouwen niet, die nog altyd voor het eerste
+idee, de menschelyke rechten der vrouw werken.
+Zy' zien niet in, dat iedere vrouw behalve hare
+rechten als merisch ook hare geheel individueele
+rechten moet verkrijgen als wezen van bepaalde
+hoedanigheden. Het recht op een temperament
+al wijkt het misschien nog zoo ver af van alle
+mogelyke theorien en idealen, dat is de kern
+van den strijd tusschen enkele vrouwen en de
+vertegenwoordigsters der vroegere vrouwen
+
+beweging.
+Dat iedere persoonlijkheid een nieuwe wereld
+\», deze ontdekking die in Shakespeare haren
+Columbus vond een Columbus die spoedig
+gevolgd werd door nieuwe scheepvaarders en
+nieuwe veroveringen, deze ontdekking der
+letterkunde is eerst langzamerhand door de
+ervaring als waarheid bewezen geworden. Maar
+dat daarmede een begin is gemaakt, dat de
+oude, onwrikbare opvatting van de
+menschely'ke natuur en hare vraagstukken plaats heeft
+moeten maken voor een betrekkelijke en per
+
+soonlijke beschouwing dat is vooral te danken
+aan de denkers en dichters, die doodsvijanden
+der conventie. Want dichters scheppen niet
+alleen nieuwe vormen, kenschetsend is voor
+
+namelijk hun gevoel voor oorspronkelijkheid
+en waarheid in het leven. En hoewel hunne
+navolgers ook alweer systematisch te werk
+gaan, is toch het oorspronkelijk scheppend
+genie steeds een protest tegen het conventi
+
+onalisme waarin de een of andere
+eigengerechtigde kunst- of levensopvatting vervallen is.
+De dichter die hier in het Noorden met
+een slag het verouderde ideaal der zich
+onder alle omstandigheden opofferende vrouw
+omvergeworpen heeft, was Ibsen, toen by' Nora
+man en kinderen liet verlaten om de plichten
+jegens zich zelf te vervullen; toen hij door
+Spoken de overtuiging uitsprak, dat de eerlijk
+
+heid eener vrouw tegenover haar eigen per
+
+soonlijkheid ook voor het welzyn van anderen
+meer beduidt, dan de trouw aan verdorde
+zedely'kheidsbegrippen.
+Ibscn is ten allen tijde de verkondiger der
+vrijheid onder eigen verantwoordelijkheid ge
+
+weest, dat wachtwoord van het individualisme.
+Langzaam ging het luisteren, want men be
+
+greep slechts ten deele. En geen bewustzijn
+is in dit opzicht zoo hermetisch gesloten als
+dat van een bepaald soort toongevende vrouwen.
+Dat alle vrouwen dezelfde rechten zullen
+verkry'gen als de man is alles wat zy bedoelen
+in hun spreken over de vrijmaking der vrouwe
+
+lijke persoonlijkheid. Zij vergeten dat het recht
+om te worden wat zy wil, de vrouw (even goed als
+den man) dikwy'ls zal dwingen juist datgene te
+onderdrukken wat zij volgens hare natuur en
+zienswyze is. Zij vergeten dat de persoonlijk
+
+heid diepere eischen heeft dan het recht op
+werk. Zij zien voorby' dat de eisch tot
+solidariteit in opvattingen en daden der
+pioniersters in de vrouwenbeweging ontaard
+is in onderdrukking der vrouwelijke indivi
+
+dualiteiten met hare eindelooze schakeeringen
+van gevoelens, gedachten en karakters. Wel
+
+iswaar is aaneensluiting nog noodig om de
+vrouw de rechten te doen verkrijgen die zy
+tot nu toe mist: toch moet hier nog meer dan
+elders voor kuddegeest gewaarschuwd worden.
+Voor de ontwikkeling der vrouwenzaak in
+dieperen zin is het juist noodig, dat de ver
+
+schillende vrouwelyke individualiteiten zoo vrij
+mogelyk hare bruikbare krachten toonen in
+groote verscheidenheid.
+Niet alleen in het overdreven solidariteits
+
+gevoel vertoont zich het conventionalisme der
+vrouwenbeweging, maar ook in de manier
+waarop zy' de tegenpartij bestrijdt. Het blijkt
+in het gebrek aan inzicht voor het feit, dat
+de vrouwenkwestie, wat het arbeidsveld betreft
+voortaan en overal de baan van de sociale
+kwestie kruist. Maar bovenal komt het te
+voorschyn, waar men niet inziet, dat de vrouwen
+
+beweging, hoe meer zy in ontwikkeling vooruit
+gaat, ook des te ingewikkelder wordt, en hoe
+het daardoor steeds moeilijker zal worden haar
+een afzonderlijk standpunt in te laten nemen
+temidden van de met haar samenhangende
+vraagstukken.
+Het is b.v. noodig dat er meer inrichtingen
+van onderwys voor vrouwen komen. Maar
+zullen alle deze ook de persoonlijkheid tot
+ontwikkeling brengen ? Hebben wy niet de
+fijnste,-verrukkelijkste vrouwelyke individuali
+
+teiten bij onwetende oude dames van zeventig,
+tachtig jaar aangetroffen, of by zulke vrouwen
+die nooit geregeld onderwijs genoten hebben?
+Het is b.v. rechtvaardig dat de loonen der
+vrouwen verhoogd worden, maar stijgt in ver
+
+houding daarmede ook hare arbeidswaarde ?
+Stelt men zich werkelijk voor, dat de meesten
+dier over den lessenaar gebogen vrouwen leven
+
+dig belang stellen in hare werkzaamheid, terwijl
+toch haar ware innerlyfr wezen eerst tot zyn
+recht zou komen -indierj"zfj zich bogen over.
+een wiegje? Het is b. v. goed dat ook ver
+
+mogende meisje een bezigheid hebbeu willen.
+Maar de keerzyde hiervan ? Daar zy zich met
+een kleine belooning tevreden kunnen stellen,
+ontnemen zy het werk aan dikwyks bekwamere
+arme meisjes of mannen, die geheel van de
+opbrengst van hun arbeid leven en daarom
+hoogere loonen verlangen moeten.
+Zoolang deze en nog vele andere vragen
+onbeantwoord zyn, ligt er nu evenveel
+conventioneels in om zich te verheugen over alle
+studeerende jonge vrouwen, als er in groot
+
+moeders tijd in lag om de sfeer der vrouw te
+beperken tot keuken, kinderkamer en salon.
+Nog weet men niet of de vrouw in den haar
+nieuwen strijd om het bestaan zich lichaam
+
+lijk en geestelyk beter zal ontwikkelen:
+zy is een nieuwe materie tot onderzoek en de
+tyden zullen het uitwijzen na jarenlange vol
+
+komen vrijheid van arbeidskeuze en ontwik
+
+keling. Tocb mag men wel haast aannemen
+dat een op physiek verschil berustende,
+onuitwischbare geestelijke ongelykheid tusschen
+man en vrouw zal blyven bestaan, die haar
+vermoedelijk het huisgezin, hem de wereld als
+werkplaats bly'ft aanwijzen.
+Bovengenoemde conventioneele gezichtspunten
+in de beschouwing der vrouwen-kwestie be
+
+lemmeren de volle ontplooiing der vrouwelyke
+individualiteit, doordat zy geen rekening houden
+met de verscheidenheid der natuur. Maar de
+overgeleverde opvatting der zelfverloochening
+als het kenmerk der vrouwelijkheid is de
+grootste hinderpaal. Met vreugde zich te kunnen
+opofferen voor een geliefd wezen is een schoon
+en onvervreemdbaar voorrecht van het vrouwen
+
+hart maar door dit steeds en onder alle
+omstandigheden als het Ideaal te beschouwen
+heeft de vrouw haar eigen opvoeding zoowel
+als die van den man in den weg gestaan.
+Wanneer men nu het huwelijk der oudere
+generaties met dat der jongere vergelijkt, dan
+ziet men bij de mannen een grooten vooruitgang
+in tederheid en geestelijke gemeanschap met
+hunne meer persoonlijk levende en eischende
+vrouwen. Beide deelen hebben er door gewonnen
+dat de vrouwen begonnen zijn de zelfverloo
+
+chening te beoefenen ten bate der zelfverdedi
+
+ging. Want voor de ware natuur der vrouw,
+geneigd tot toewijding, is het veel moeilijker
+haar recht te nemen dan het op te offeren.
+Post zegel-ver siimelmg en tuberculose.
+Vrede! Vrouwenkiesrecht in Engeland.
+Sieraden.
+
+Een Fransch officier van gezondheid kocht,
+bij wijze van proefneming, van een aan tuber
+
+culose lijdenden soldaat, die een ijverig post
+
+zegelverzamelaar was en de postzegels door
+bevochtiging met zyn speeksel in het album
+placht te plakken, ,'JOO exemplaren, bracht deze
+in een halven liter gesteriliseerd water en
+entte, nadat de postzegels 24 uren in het water
+gelegen hadden, daarmede 8 guineesche big
+
+getjes in.
+By al deze dieren vertoonden zich duidelijke
+teekenen van tuberculose terwijl de controle
+
+dieren gezond bleven. Deze ervaring is van
+groote waarde en er moge dus op gelet worden,
+dat kinderen die aan
+postzegel-verzamelliefhebbery doen, in deze voorzichtig zyn, te meer
+omdat kinderen er al zeer licht toe overgaan
+om gemakshalve de tong, als
+postzegel-bevochtiger in dienst te stellen.
+(Maandblad gewi/jd aan hygiëne en
+industrie, redactie dr. Van Hamel
+Roos en Harmens )
+* *
+*
+Wij leven in tyden van oorlog- en oorlogs
+
+geruchten. Het «Vrede op aarde" is nog niet
+in vervulling gekomen.
+Nu, meer dan ooit, valt het te pry'zen en te
+bewonderen, dat er vrouwen zyn, die haar
+geloof in een toekomstige wereld-vrede niet
+verliezen. Met eerbied volgen wij de handelin
+
+gen der vrouwen, die met taaie volharding
+zich vastklemmen aan haar vrede-ideaal.
+Haar vertrouwen, haar rustig voortstuwen in
+nzelfde richting wekt verwachtingen voor
+een schoener toekomst, zelfs bij hen, die
+dreigen te vervallen tot wanhoop en
+energielooze wankelmoedigheid. Mevrouw Selenka te
+München, heeft het initiatief genomen tot het
+instellen eener jaarlyksche internationale vrou
+
+wen-manifestatie op den datum der opening van
+de Haagsche Vredesconferentie (18 Mei.)
+Aan mevrouw Mary Wright, presidente van
+den Amerikaanschen Vrouwenraad, zond mevr.
+Selenka een telegram, waarin zij haar verzocht
+of zy instemde met het plan een internationale
+vrouwen-manifestatie op den datum der Vredes
+
+conferentie uit te lokken en of Amerika mee
+deed.
+Omgaande luidde het verblydend antwoord :
+»Doen gaarne mede."
+Op de jaarlijksche vergadering van den
+Nationalen Vrouwenraad 10 en 11 April jl. te
+Amsterdam gehouden, berichtte de secretares
+van den Vrouwenraad de ontvangst van een
+brief van mevrouw Selenka, waarin zy aan
+
+drong op een vrouwen-manifestatie voor den
+vrede op 38 Mei e.k.
+Mevrouw Selenka vertrouwt, dat de mani
+
+festatie met geestdrift zal gehouden worden in
+het land waar het Hof van Arbitrage zal zetelen.
+Wy hopen dat haar vertrouwen niet geschokt
+zal worden.
+Benige bedenkingen werden geopperd om
+de manifestatie van den Vrouwenraad te doen
+uitgaan.
+Zy zijn mij niet bekend, maar ik twijfel niet,
+of er zullen goede en gegronde redenen bestaan
+voor die bedenkingen.
+liet timmeren aan den weg is een werk, dat
+met oordeel en beleid moet worden uitgevoerd.
+Jan-Salie, Jan-en-Alleman, Jan Piet en
+Klaas geneigd Gods water over Gods akker te
+laten stroomen, liggen op de loer. Zij ontwa
+
+ken uit hun apathie, zetten zich schrap, steken
+de hoofden bij elkaar, zoodra zy een kansje
+zien, om ingrijpende maatregelen van vrouwen
+over den hekel te halen, belachelyk te maken
+of te ontzenuwen.
+Er is een comitégevormd van vereenigingen
+geneigd op 't voorstel van mevrouw Selenka
+in te gaan.
+Mevrouw Klerck—van Hogendorp, of mej.
+M. Jungius zou de protest-meeting in Den Haag
+op touw zetten ; dr. Aletta Jacobs in Amsterdam.
+-X-
+-X
+-XDe laatst bij het Lagerhuis ingediende petitie
+om invoering van het kiesrecht voor de vrouw
+in Engeland was door 257.000 vrouwen
+onderteekend. Een welsprekend cijfer, wanneer men
+bedenkt dat de eerste petitie in 18G7 ingediend
+niet meer dan 1499 handteekeningen van
+vrouwen droeg.
+(Belang en Recht,
+redactrice Ilenriette van der Mey.)
+»Poudre aux yeux" noemde Labiche zyn
+blijspel, waarin hy vol gemoedelijken,
+snaakschen zin den spot dreef met de belachelijke
+pronk- en praalvertooning door een
+doktersvrouw in praktijk gebracht om schrielheid van
+beurs en gemis aan patiënten weg te goochelen.
+Door blufterig gepraat en aanstellerig
+weeldevertoon wil zy doen gelooven in welvaart, met
+de hoop, aldus zand in de oogen strooiend,
+haar dochter een rijk huwelyk te doen sluiten.
+De laatste jaren zyn de sieraden met hun
+veelkleurig geflikker en geschitter meer nog
+dan vroeger bestemd om te verblinden.
+Lange, gouden kettingen, door paarlen en
+bonte steenen in vakken verdeeld, slingeren
+zich over de buste der vrouw ; ceintuur-gespen
+zwaar van steenen, flikkeren in gloed; een
+vrouwenhand komt niet in aanmerking, wanneer
+niet van minstens twee vingers het onderste
+lid bedekt is met ringen, stralend in dartel
+kleurenspel.
+Alles echt f
+Geen denken aan.
+Strasz maakte ten tijde van Lodewijk XV,
+fabelachtige zaken met zyn «similia". Toen
+was de behoefte aan pronk en opschik zoo
+groot, dat aan het onzinnig verlangen der vrou
+
+wen zich met brillanten te tooien door hun
+wanhopende mannen niet meer kon voldaan
+worden. Als een redder in den nood ver
+
+scheen Strasz en maakte «similis" zoo mooi,
+zoo verblindend door kleurengeschitter, dat
+slechts de geraffineerde kenner echt van onecht
+wist te onderscheiden.
+In dat vaarwater zijn wy allengs steeds meer
+verzeild. Het onechte dat nu in omloop is, doen
+verdwijnen, finaal opruimen, zou heel moei
+
+lijk zyn.
+Toch heeft zich onder vrouwen van goeden
+huize en verfijnden smaak een soort verbond
+gevormd, geen andere dan echte parures te
+dragen.
+Prachtige en artistieke sieraden vertoonen
+tot in de kleinste bizonderheden een sprookjes
+
+weelde.
+Echte schildpadhaarkammen worden versierd
+met brillanten en opalen, Opaleu zijn op 't
+oogenblik de lievelingssteen. Broches, kettingen,
+colliers, haarnaalden, ringen, alles even zeld
+
+zaam van pracht en monteering. Heerlijk om
+te zien. Om te koopen moet men een zwaarder
+beurs bezitten, dan de heldin van Labiche's
+blyspel.
+Oorknoppen en armbanden zyn weinig in
+trek. Van het heidensche gebruik de ooren te
+doorpriemen om er sieraden in te hangen,
+komt men zoetjes aan terug. Het dragen van
+lange mouwen, zelfa bij gekleede toiletten, is
+een tydelijk beletsel voor den armband om tot
+zijn recht te komen.
+CAI-RICK.
+
+
+Van By'sterveld's advocaat werd weder be
+
+kroond met de hoogste onderscheiding, Graal
+Kere-Diploma met Insigne en Gouden Medaille,
+op de Internationale Tentoonstelling van Voe
+
+dingsmiddelen en Hygiëne, gehouden te Para's
+1901. (Jardin des Tuileries).
+lltllMIIIIIIIIIIUIIIMlIIIIIMItlllllllHIMM
+dnazzonb&amp;n.
+Een lid van den «Nederlandsehe Vrouwen
+
+bond ter Internationale Ontwapening" verzoekt
+ons het volgende bericht in aansluiting van
+het door de tAlliance Unicerselle des Femmes
+pour la Paix" ingezonden stuk, (zie het
+vorig nummer van dit bladj te plaatsen.
+De «onjuiste en lasterlijke aantijging'', in
+het orgaan van den Ned. Vrouwenbond opge
+
+nomen, en waarvoor niet mevrouw Waszklewicz,
+maar het geheele bestuur n de redactie
+
+commissie aansprakelijk zyn, betreft het
+financieele beheer der Ligue des Femmes pour la
+Paix et Ie Désarmement International (waar
+
+uit sedert de tegenwoordige AUiance ontstaan
+is) en wel drie jaar gelede n, toen de
+tegenwoordige Hollandsche Vrouwenbond nog
+een afdeeling vormde vau de toenmalige
+Fransche Ligue.
+Deze toelichting is noodig voor het groote
+publiek, dat natuurlijk niet op de hoogte kan
+zyn van speciale Bondsaangelegenheden.
+&amp;
+GL et
+f r
+ss o la. o n d o d ir
+
+</text>
+<image timestamp="2002:08:16:01:07:03.00" size="542837">D2000WL.TIF</image>
+</page>
+</document>

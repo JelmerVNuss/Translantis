@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301115</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 15 NOVEMBER 1930
+i?.
+INSLAAT
+Viercylinder
+4 p. gesloten
+modellen, in
+luxe afwer
+
+king, uit
+
+gerust met
+talrijke ver
+
+beteringen
+invullen en verzenden in open enveloppe met l'/, ets, postzegel
+voor net ontvangen van uitvoerige gegevens over
+het nieuwe viercylinder Citroen model, type 1931.
+Naam : ............................................................. Adres :
+Woonplaats
+N.V. AUTOMOBILES CITROEN - AMSTERDAM
+No, 278
+SPREEKZAAL
+De Imperatief
+DE heer Klaasse schijnt niet te
+jegrijpen het groote verschil
+^..oschen een industrieele en
+beurscrisis aan de eene zijde en een land
+
+bouwcrisis aan den anderen kant. Ken
+industrieele crisis doet zich van tijd
+tot tijd aan ons voor: wij zijn er in
+zekeren zin op geabonneerd. Volgens
+economisten die van het crisisvraag
+
+stuk een studie maakten z.g.
+krisentheoretiker, kunnen we zoo ongeveer
+om de tien jaar een dergelijke crisis
+verwachten. Zoo'ii crisis is als regel
+van vrij korten duur, meestal is
+na ]l a 2 jaar weer een op
+
+leving te verwachten. Citheel anders
+staat het met een landbouwcrisis.
+De vorige crisis is begonnen om
+
+streeks 1880 en heeft pl.m, 15 jaar
+geduurd. Door den veel langeren duur
+is een landbouwcrisis in haar uitwer
+
+king veel iioodlottiger. Dat de re
+
+geering dan ook op maatregelen zint
+om de boerenbedrijven welke in meer
+
+derheid niet financieel krachtig y.ijn
+te steunen, is volkomen te begrijpen.
+De heer K. is tegen een maalgebod.
+omdat de stedelijke bevolking zich
+daardoor eenige opoffering zou moeten
+getroosten, terwijl bovendien het
+succes van een dergelijke maatregel
+twijfelachtig zou zijn. Dit laatste
+argument kan moeilijk ernstig worden
+genomen, nu toch in landen als
+Daitschland, Frankrijk en Zweden een
+maalgebod goed blijkt te
+functioneeren.
+Wat is er voorts tegen om de stede
+
+lijke bevolking, die als consument
+van de prijsdaling der landbouwpro
+
+ducten toch al belangrijke voordeelen
+trekt. een. laat ons zeggen, klein
+ongerief te bezorgen door haar voor
+te schrijven een bepaald laag percen
+
+tage in liet brood te gebruiken:1 De
+bakkersorganisatie heeft, voordat zij
+besloot haai' standpunt gezamenlijk
+met de meelimporteurs en meelfa
+
+brikanten te bepalen, uitdrukkelijk
+verklaard dat er in vakkringen tech
+
+nisch geen enkel bezwaar bestond om
+iri ons broodbloem zeker percentage
+bloem van inlandsche tarwe te men
+
+gen en dat daarom volledige mede
+
+werking aan een dergelijken
+regeeringsmaatregel kon worden verleend.
+Dat daardoor de, broodprijs be
+
+langrijk zoude stijgen gelooft geen
+enkel redelijk denkend mensch. die de
+ontwikkeling van de tarwe- en de
+broodprijzen de laatste jaren heeft
+gevolgd.
+De heel' K. wil de overheidssteun
+aan de boeren omlaag brengen tot
+het niveau van armenzorg of bedeeling.
+Maai' dan is hij bij de boeren aan
+het verkeerde kantoor ! /ij vragen
+regeeringssteun voor hun bedrijven.
+Tijdens de oorlogsjaren moesten
+zij hun producten afstaan tegen een
+prijs, welke ongeveer 2/:i van den
+wereldmarktprijs bedroeg. Op het
+platteland heerscht. o.i. terecht, de
+opvatting, dat de regeering thans
+niet werkloos mag aanzien, dat de
+boerenbedrijven door de crisis worden
+ontredderd.
+Hef. feit dat de tegenwoordige
+crisis nog zeer sterk wordt verergerd
+door maatregelen van buitenlandsche
+regeeringen, ter ondersteuning van
+haar landbouw genomen, geeft nog
+meer steun aan de overtuiging dat
+onze regeering het bedrijf dient te
+helpen.
+
+IK. H. (SMIT
+
+</text>
+<image timestamp="2002:09:22:08:22:04.00" size="171650">000008NZ.TIF</image>
+</page>
+</document>

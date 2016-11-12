@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060204</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Vrede-keizer.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 4 Februari 1906.
+
+Amst. Hoek- en Sieen.lriikkerij, \,li. KI.mimi. Ilanns .V C
+DE VREDE: O, lieve Wilhelm, als je met mij uit wandelen gaat, zag ik je toch liever in burgerkleeren en met een wandelstok.
+WILHELM: Ja, kind, maar de wereld is zoo boos; en ze zouden maar denken, dat ik niet goccl op je pa.ste.
+
+</text>
+<image timestamp="2002:08:10:02:30:17.00" size="328772">0000006H.TIF</image>
+</page>
+</document>

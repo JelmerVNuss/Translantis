@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+m.
+J»w
+SINT
+NICOL,
+zonder Droste
+aast niet d en kba a i
+Droste's Chocoladeletters ir
+de oorspronkelijke bloklettervorm, de ^
+overbekende Pastilles en Bonbons, 't is alles on
+
+afscheidelijk verbonden aan deze gezel
+
+ligste aller winteravonden. Devraag
+naar Droste's artikelen is
+groot; winkelt vroeg.
+VERKOOPPRIJZEN
+Gewicht ca 80 gram 30 cent p s' , ca. 150 gram 55 cent p st , ca. 250 gram 90 ceni p $t
+Letter l resp 18, 37'A en 75 cent p. st , letters M en W resp. 37'^, 75 en 110 cent p st.
+
+</text>
+<image timestamp="2002:09:22:09:39:56.00" size="199324">000008P9.TIF</image>
+</page>
+</document>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910301</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMEE
+A°. 1891.
+WEEKBLAD VOOR NEDERLAND
+Ieder nommer bevat een Plaat.
+Onder Redactie van J. DE KOO en JUSTÜS VAN MAURIK Jr.
+Het auteursrecht voor den inhoud van dit Blad wordt verzekerd overeenkomstig de wet van 28 Juni 1881 (Staatsblad No. 124).
+Verschijnt eiken Zaterdagavond.
+Uitgever: Tj. VAN HOLKEMA, te Amsterdam,
+Keizersgracht 436.
+Zondag 1 Maart.
+Abonnement per 3 maanden	/l.50, fr. p. post/1 1.65
+Voor Indiëper jaar	mail 12.
+Afzonderlijke Nummers aan de Kiosken verkrijgbaar . . . 0.12*
+Advertentiën van 1—5 regels ƒ1.10, elke regel meer . . . 0.20
+Reclames per regel	., 0.40
+INHOUD:
+VAN VERRE EN VAN NABIJ.
+FEUILLEFON: De Gast", een beeld uit het
+tooneelleven, door Julius Freund. (Uit het Duitsch door
+Bekenkamp). KUNST EN LETTEREN:
+Tooneel te Amsterdam, door Fr. Muziek in de
+hoofdstad, door Van Milligen. Drie miskenden
+door Herman Bogaerd. Rubinstein
+enhetGonservatoire te St. Petersburg, door Van Milligen.
+Een verloren werk van Aristoteles.
+Bibliographie door A. J. VARIA.
+Oud-Amsterdamsche verscheidenheden, door Mr. N. de Roever.
+Het verraad van eene manchet, naar W.
+Wernhardt. - Voor Dames, door E-e. SCHAAK
+
+SPEL. ALLERLEI. INGEZONDEN.
+RECLAMES PEN-EN-POTLOOD-KRASSEN.
+ADVERTENTIËN.
+
+Van verre en van nabij.
+«Keizerin Friedrich is heden (Vrijdag) te
+10 uur van de Gare du Nord te Parijs ver
+
+trokken. Er zijn geen ongeregeldheden
+voorgevallen. Eenige honderden nieuwsgie
+
+rigen woonden het vertrek der vorstin bij.
+Geen enkele kreet werd gehoord; vele per
+
+sonen groetten de vertrekkende vorstin eer
+
+biedig".
+Met een zucht van verlichting zal dit te
+
+legram, dat Vrijdag uit Parijs werd verzon
+
+den, in menige plaats van Europa zijn
+begroet. Want de zeer onwelwillende
+beschouwingen, die niet slechts door l
+venmakers als Déroulède en consorten, maar
+door bijna alle Fransche bladen over de
+reis van keizerin Friedrich waren gegeven,
+hadden eene buitengewone spanning doen
+ontstaan. De reis het valt niet te ont
+
+kennen heeft niet slechts haar doel volkomen
+gemist, maar veel, zeer veel bedorven. Zij
+heeft aan beide zijden der Vogezen aanlei
+
+ding gegeven tot uitbarstingen van een
+aanmatigend, luidruchtig, gevaarlijk chauvi
+
+nisme. Zij heeft doen uitkomen, dat een
+
+
+Feuiileton.
+
+
+DE »GAST".
+Een beeld uit het tooneelleven
+DOOR
+Julius Freund.
+(uit het Duitsch door Bekenkamp.)
+
+»Hij komt! Hij komt!" Eindelijk heeft het
+provinciale blad het voor vast medegedeeld.
+De kunstlievende bevolking der kleine stad
+springt op van vreugde hij komt! Her
+
+baalde malen had men in de laatste weken
+onder de rubriek »kunst" kunnen lezen:
+»Onze stad wacht een blijde verrassing. De
+groote karakterspeler Ludwig zal op zijn
+terugreis van St.Petersburg,waar hij natuurlijk
+op nieuw met eer en geschenken is overladen,
+eenige malen, als gast in ons midden op
+
+treden".
+Ludwig heeft den directeur van den stads
+
+schouwburg onder anderen geschreven, dat
+hij nergens liever optrad, dan juist bij ons;
+»reeds van af het eerste begin van zijn kun
+
+stenaarsloopbaan waardeerde en hoogschatte
+hij in 't bijzonder het fijne gevoel, den door
+n door beschaafden kunstzin van het publiek
+ten onzent."
+Ludwig schrijft deze phrase aan eiken
+directeur, hij weet zeker, dat ze in het ste
+
+delijk blad wordt afgedrukt en steeds een
+voortreffelijke uitwerking heeft. Dan begint
+Ludwig, de »kunstrubriek" in steeds grooter
+opgewondenheid te brengen ; morgen verlengt
+hij voorloopig, toegevend aan den drang van
+het publiek, zijn gastspel in S t. Petersburg,
+overmorgen «betwijfelt hij, of er van zijn
+gastspel in Triefelwitz wel iets zal kunnen
+komen1', een week later laat hij zich door
+»de bezorgde artsen een ontspanningsreis naar
+het Zuiden voorschrijven", veertien dagen
+later verklaart hij beslist, niet te kunnen op
+
+treden en eindelijk als de opgewondenheid
+op 't hoogste is, »laat hij plotseling alle be
+
+denkingen varen, volgt de innige behoefte
+van. zijn hart, om de lieve Triefelwitzers weer
+eens te kunnen begroeten" en... komt ten
+slotte toch!
+Van nu af aan spreekt het provinciale
+blad niet meer koud en vormelijk van mijn
+
+heer Ludwig, neen het voegt er het adelend
+predicaat »onze" bij: »0nze Ludwig zal den
+tijdsverloop van twintig jaren niet bij machte
+is om wonden te heelen, aan den nationalen
+trots geslagen. Zij heeft bewezen, dat het
+vergeven en vergeten gemakkelijker gezegd
+dan gedaan is, dat onder de asch nog steeds
+de vuurgloed schuilt en dat elk onvoorzichtig
+oprakelen de vlam kan doen uitslaan. Zij
+is een droevig echec geworden voor eene
+welmeenende verzoeningspolitiek en eene
+pijnlijke waarschuwing voor den jongen en
+energieken monarch, die zijn invloed ten
+goede grootelijks heeft overschat en zijne
+voorkomendheid met ijzige koelheid beant
+
+woord ziet.
+Het is jammer. Want men scheen in
+
+derdaad op den goeden weg te zijn. De har
+
+telijke ontvangst, die te beurt was gevallen
+aan de Fransche gedelegeerden op de inter
+
+nationale conferentie betreffende de ar
+
+beidersbescherming te Berlijn, de
+eerbewijzingen waarmede de Duitsche
+hoogleeraar Helmholtz te Montpellier was over
+
+laden, de wisseling van hoffelijkheden
+tusschen Koch eu Pasteur, de brief
+van rouwbeklag, door den keizer na
+den dood van Meissonier geschreven, dat
+alles wettigde de onderstelling, dat met de
+aftreding van Bismarck en van (Jrispi een
+tijdperk van wederzijdsche beschuldigingen
+en liatelijkheden, van onnoodig wantrouwen
+en overgroote prikkelbaarheid was afgesloten,
+en dat op het gebied van kunst en weten
+
+schappen eene verzoening zou kunnen wor
+
+den voorbereid en eene toenadering zou kun
+
+nen plaats hebben. Do Fransche bladen
+zelven erkenden het: il y a ilcicntn, de span
+
+ning is verminderd. En de Russische vrien
+
+den verklaarden hetzelfde ; toen de organen
+van den heer Von Bismarck trachtten aan
+te toonen, dat Bismarck's politiek voor de
+internationale verhoudingen gunstiger was
+geweest dan die van den jongen keizer en
+van den heer Caprivi, antwoordde de
+Novoja Vremija, die men niet van bijzondere
+eersten avond den «koning Lear" spelen".
+»Onze Ludwig zal overmorgen hier aanko
+
+men". »Onze Ludwig is sedert gisteren
+binnen onze muren".
+Geheel Triefelwitz is in n opgewonden
+stemming, op alle hoeken prijken reusachtige
+aanplakbiljetten, men loopt storm om
+toegangskaarten, de directeur wrijft zich verge
+
+noegd de handen en slechts een kleine ver
+
+drietige schare neemt geen deel aan de
+algemeenc vreugde, maar ziet'den »gast" komen
+met morrend, onvriendelijk gelaat, met wien
+ze helaas! gedurende de eerstvolgende
+dagen in zeer nauwe aanraking zal komen,
+'t is de kleine schare der acteurs.
+Hun ontbreekt oogenschijnlijk het orgaan
+om de grootte van Ludwigs's talent op te
+merken. Ze kennen hem maar al te goed,
+den rusteloozen reiziger, den »Ahasverus van
+het tooneel," die op den langen duur geen
+vast engagement kan volhouden, omdat hij
+geen andere goden naast zich kan (lulden.
+Hém de toejuichingen, hém de lauweren,
+hém de beste rollen, de slotscènes van elk
+bedrijf, de glanspunten hij zou liefst de
+klassieke drama's als «alleenspraken" om
+
+werken.
+Als een reus wil hij boven zijn col
+
+lega's uitsteken, in eenzame grootheid.
+»Nacht moet het zijn, waar Liuhvig's
+sterren schitteren," heeft eenmaal spottend
+een tooneelspeler gezegd, met het oog op de
+drie sterretjes (***) achter den jnct vette
+letters gedrukten naam van den gast
+virtuoos. Sedert jaren kennen de dames en
+hoeren van het tooneel al de kleine pikante
+anecdotes en vertellingen, die ieder maal
+het gastspel van Ludwig vooruitfladderen,
+ze kennen den kostbaren pels, &gt;het geschenk
+van den Czaar" en willen uit goede bron
+weten, dit deze te Berlijn iii clc
+Potsdammerstraat gekocht :ze weten precies, hoc
+de zilveren krans er uitziet, dien Ludwig
+zich na i &gt;. afc&amp;heidsvoorstelling uit het
+orkest op het tooneel laat reiken en maken
+de handbeweging, met welke de diep ge
+
+roerde gast het publiek pleegt te bedanken
+eerst naar het hart en vervolgens naar de
+vochtig stralende oogen op bedriegelijke
+wijze na. Die goede menschen hebben overi
+
+gens gelijk dat ze verdrietig zijn ; een zond
+
+vloed van repetities staat hen te wachten,
+de aanschaffing van een groote hoeveelheid
+rollenmaterieel wordt van hen geeischt,
+sympathie voor Duitschland kan verdenken,
+dat juist het tegendeel waar was en dat niet
+viel te twijfelen aan de vredelievende be
+
+doelingen van keizer Wilhelm, al berustte
+die lofwaardige gezindheid misschien voor
+het grootste deel op overwegingen, aan de
+binnenlandsche politiek ontleend.
+Van Duitsche zijde was het terrein be
+
+hoorlijk voorbereid. Keizer Wilhelm had,
+na zijn brief over Meissonier, aan generaal
+Boisdeffre, den onderbevelhebber van den
+Franschen generalen staf, een door hem zelf
+geschreven opstel gestuurd over de Puni
+
+sche oorlogen en den veldtocht van
+Hannibal. Het schrijven was een vervolg op een
+gesprek, vroeger tusschen den keizer en den
+generaal gevoerd, en tevens moest het te
+kennen geven, dat zelfs over militaire on
+
+derwerpen eene kalme, wetenschappelijke eu
+vriendschappelijke discussie zeer wel mogelijk
+was tusschen deu erfgenaam van den over
+
+winnaar van 1S7Üen een hooggeplaatst
+Fransch opper-officier. Bijna gelijktijdig wer
+
+den maatregelen genomen, om den pasdwang
+in Elzas-Lotharirigen zooal niet geheel af te
+schaffen, dan toch zér te verzachten.
+Onder die omstandigheden ging de keizerin
+
+weduwe Friedrich, vergezeld door hare jongste
+dochter, prinses Margaretha, op reis naarde
+Fransche hoofdstad. Zij zou daar slechts
+een paar dagen blijven, natuurlijk incognito,
+en onder anderen eenigc schilders-ateliers be
+
+zoeken. Het was geen geheim, dat zij de
+Fransche kunstenaars wenschte over te ha
+
+len om hunne werken op de in het voor
+
+jaar te Berlijn te houden tentoonstelling in
+te zenden. Waarom ook niet te Berlijn?
+Sedert jaren waren de Fransche artisten
+lin.bitui'x op de tentoonstellingen te München
+en de Beiersche lïfiiijiriiJ/rliiie waren inder
+
+tijd toch even gehaat geweest als de Pruisische
+I'ic/.clliaiihoi.
+Aanvankelijk ging alles naar wensch. Te
+zeer naar wensch zelfs, want de
+keizerin
+
+iederen avond wordt een nieuw stuk voor
+'t voetlicht gebracht, daarbij moeten ze zich
+slaafsch onderwerpen en durven het nau
+
+welijks beproeven, ergens hun individualiteit
+eenigermate te laten doorschemeren. Hun
+beste passages worden doorgehaald, ingestu
+
+deerde rollen, die er vast inzitten, moeten
+ze op nieuw bestudeeren, naar de persoon
+
+lijke eu zeer eigenaardige opvatting van
+Ludwig en wee hunner, als ze een gewichtig
+wachtwoord vergeten; het verwijl, ulat ze
+den geheelen avond hebben bedorven" is
+dan het zachtste dat ze te hoorcn krijgen
+van de lippen van den vertoornden
+tooneelgod.
+Slechts een paar naïeve beginners slaat het
+hart luider in vroolijke verwachting, dat ze
+nu eindelijk een rol in een klassiek stuk
+zullen vervullen ; ze hopen de opmerkzaam
+
+heid van den grooten man te trekken, zijn
+bescherming te erlangen eu eindelijk door
+zijne bemiddeling in het bezit te geraken
+van een lang begeerd engagement aan den
+vorstelijken schouwburg.
+
+Het is een ijzige, koude winterdag. De
+straten zijn dik besneeuwd, aan de baarden
+der voorbijgangers hangen ijskegeltjes.
+Triefelwitz maakt een vreeselijk ongczelligen
+indruk en slechts hier en daar glijdt een
+half bevroren burger, wiens neus en ooren
+vuurrood uit den hoog opgetrokken jaskraag
+komen kijken, langs de straat, om de
+allcrnoodigstc zaken at' te doen.
+Dat piepjonge ventje, dat wegens den
+slechten toestand zijner garderobe, in
+zomerjasje eu verlakte molières naar den schouw
+
+burg draaft, zou overal opzien verwekken,
+als alle straten eu steegjes niet zoo verlaten
+van menschen waren. De jongeling steekt
+het voorplein van den schouwburg over,
+klimt de smalle, donkere tooneeltrap op en
+staat verbaasd rond te kijken dat do repe
+
+titie nog niet ia vollen gang is. Hij be
+
+hoefde eerst in het derde bedrijf op te komen
+en was al bang, dat hij te laat kwam. De
+collega's staan opgewonden bij elkander te
+praten. Boven het gegons der stemmen
+klinken eenige korte, krachtig uitgesproken
+volzinnen, bijzonder duidelijk uit, b.v.: »Dat
+is een vreeselijke nalatigheid ; meent de man
+soms dat wij ons voor den gek laten
+houden •'"
+»Ik wacht hoogstens nog vijf minuten,
+weduwe voelde zich zoo zeker van hare zaak,
+dat zij haar verblijf van dag tot dag ver
+
+lengde. In dien tijd werden van beide zijden
+groote fouten gemaakt. Déroulède, de nau
+
+welijks toerekenbare schreeuwer, vond gele
+
+genheid om met zijn weinig talrijk, doch des
+te luidruchtiger troepje volgelingen eenige
+malen schandaal te maken. Een zwerm van
+reporters vergezelde de keizerin op al hare
+uitstapjes en verschafte aan haar doen en
+laten eene on ge wenschte en hoogst onwel
+
+kome publiciteit. En de keizerin bezocht
+Versailles, waar het Duitsche keizerrijk was
+geproclameerd; zij bezocht de puinhoopen van
+het verbrande Saint-Cloud ; zij bezocht ook
+de vroegere machine-galerij, waar de
+behoeftigen werden verpleegd, en gaf er geen
+ccutiiHf. Waarschijnlijk liet zij dit laatste na
+uit vrees, dat men eene gift harerzijds als
+kwetsend zou beschouwen. In elk geval
+was het binnen een paar dagen zoover ge
+
+komen, dat alles haar werd kwalijk genomen.
+Parijs werd zenuwachtig; de minst
+beteckenende, maar daarom niet het minst gelezen
+organen gaven opruiende en beleedigende
+artikelen; de Duitsche bladen, die er op uit
+zijn de tegenwoordige regeering te Berlijn
+tegen te werken, en die daartoe wellicht eene
+buitenlandsche verwikkeling niet ongeschikt
+achtten, antwoordden op ruwen en
+uitdagendcu toon ; de Fransche schilders namen
+hunne toezeggingen terug; de
+achtenswaardige Fransche bladen durfden niet langer
+het zwijgen bewaren, maar verklaarden, zij
+het dan ook in zeer gematigde termen, dat
+er voor een werkelijke toenadering onover
+
+komelijke hinderpalen bestonden en dat, het
+bezoek, waardoor de Fransche hoffelijkheid
+op zoo zware proef was gesteld, nu lang
+genoeg geduurd had. Tenslotte begonnen
+ook de Duitsche bladen, die iu deu reo-el
+allesbehalve chauvinistisch zijn, met groote
+woorden om zich heen te werpen eu te ver
+
+klaren, dat de Duitschers, de overwinnaars
+dan ga ik heen. Waar is de tooneelknecht?
+Ik zend den directeur mijn rol terug.'
+De ingénue begint te kuchen, de
+hekl&amp;nvader loopt met reuzenschredcn het tooneel
+op en neer als een getergde leeuw, do
+komische-oudc beklaagt zich met de bitterste
+woorden, dat de kachel in de
+conversatiekamer niet eens brandt eu de pruttelende
+karakterspcler, wien Ludwig de beste rollen
+voor den neus wegkaapt ; lacht spotten^ :
+Tk heb het immers altijd gezegd, wat doen
+we met gasten 't Dat gaat onder ons veel
+prettiger, terwijl we nu urenlang op de koude
+planken kunnen staan wachten."
+»En wat is de oorzaak van dit hevig mis
+
+noegen ?"
+Ludwig heeft verzocht de repetitie om !)
+uur in plaats van om 10 uur te laten be
+
+ginnen ; nu is het l l uur en nog is hij
+er niet. Zelfs de phlegmatische
+tooneelknechten beginr.cn onrustig te worden, en slaan
+de armen tegen hun schouders om wat war
+
+mer te worden. De souffleur in zijn hok,
+die door de nauwe afmetingen van zijn
+residentie in deze heilzame beweging wordt
+verhinderd, klappertandt van koude.
+Daar houdt een rijtuig stil. de tooneeldeur
+knarst op haar hengsels, een langzame stap
+wordt op de trap vernomen en met een &gt;;(
+ioedeu morgen dames en heeren !'' op vermoei
+
+den toon uitgesproken, betreedt de geweldige
+het tooneel. Hij is diep weggedoken in het
+-geschenk van den Czaar", een onberispelijk
+opgestreken cylinder bedekt zijn altijd nog
+zwarte lokken en met de rechterhand
+houdt hij ecu fijne batisten zakdoek voor
+den mond.
+Hij ziet op zijn horloge. »O, - u hebt op
+me moeten wachten ? Ik vraag duizendmaal
+om vcrschooning, dat ik ecu enkele maal
+ontrouw ben geworden aan mijn spreekwoor
+
+delijke stiptheid ; een gesprek met den in
+
+tendant van bet X.sche hoflheater, die hier
+op 't oogonblik is, heeft me zoo lang opge
+
+houden. Ik heb zijn Excellentie
+uitgenoodigd de voorstelling van morgen bij ie wo
+
+nen." Ludwig weet, dat deze mededceling
+verzoenend werkt; voor de oogen van alle
+leden van het gezelschap zweeft nu verlok
+
+kend het levenshuig engagement aan deu
+hofschouwburg met booger salaris ; de stem
+
+ming wordt oogeublikkelijk beter.
+Eerst heeft de gast een lange conferentie
+met deu regisseur; het vergezicht moet
+
+</text>
+<image timestamp="2002:08:18:21:22:07.00" size="359736">000002TW.TIF</image>
+</page>
+</document>

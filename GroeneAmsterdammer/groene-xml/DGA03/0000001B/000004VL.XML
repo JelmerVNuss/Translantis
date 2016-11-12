@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110507</Datum>
+<Pagina>14a</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l
+Ijskoud deugdvertoon.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 7 Mei 1911.
+De Koning van Engeland heeft zoo juist, en vlak vóór de kroningsdagen,
+doen weten, dat hij geen gescheiden vrouwen meer aan zijn hof ontvangen zou.
+Schilderij: Jezus en de overspelige vrouw.
+Amst. Boek- en Steendrukkerij, v/h. Ellermau, Harms &amp; Co.
+George V: De Koning van het Hemelrijk, die zulk een vrouw toespreekt	dat is toch
+werkelijk onaannemelijk! Denk maar eens, Mylords: ik, een sterfelijk Koning
+weiger zelfs gescheiden vrouwen te zien.
+
+</text>
+<image timestamp="2002:08:25:02:15:54.00" size="365523">000004VL.TIF</image>
+</page>
+</document>

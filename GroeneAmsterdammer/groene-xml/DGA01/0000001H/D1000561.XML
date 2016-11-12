@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19390520</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Honderd jaar ster-afstanden
+Dr. A. f. M. Wandets
+HET is toch eigenlijk wel merkwaardig, te moeten
+bedenken, dat er 100 jaar geleden nog slechts
+van drie sterren de afstand was gemeten. En 101 jaar
+geleden was dit aantal zelfs nog nul. Van geen enkele
+ster was vóór 1838 berekend kunnen worden, hoe
+ver deze weg stond. Men had weliswaar eenige ver
+
+moedens daaromtrent, doch met zekerheid vaststaan
+deed er niets.
+Schattingen van sterafstanden waren er indertijd
+reeds door den Engelschman Newton en door onzen
+Huygens verricht. Op grond van den navolgenden
+even vernuftigen als eenvoudigen gedachtegang.
+De ster Sirius en de planeet Jupiter lijken ons
+aan den hemel gezien even helder. Maar terwijl
+Jupiter een donkere bol is, die door de zon verlicht
+wordt, is Sirius zelf zoo'n zon. Uit het feit nu, dat
+Jupiter slechts het 100 millioenste gedeelte van het
+licht van de zon ontvangt, leidt men gemakkelijk af,
+dat Sirius ongeveer 10 duizend keeren verder dan
+Jupiter van ons verwijderd moet zijn, of wel op
+ruim 50 duizend zonafstanden moet staan. Dit is
+circa i lichtjaar, en inderdaad is dit de goede orde
+van grootte", zooals de wiskundigen het uitdrukken.
+Sirius staat niet op n, doch op acht lichtjaren van
+ons vandaan, maar dat kon natuurlijk eerst blijken,
+nadat zijn afstand werkeh'jk gemeten was.
+De meest rechtstreeksche en voor de hand
+liggende methode van afstandsbepaling is de z.g.
+trigonometrische of driehoeks-meting.
+Men maakt hier gebruik van het aan ieder be
+
+kende richtingsverschil dat optreedt wanneer men
+een bepaald voorwerp van twee verschillende stand
+
+plaatsen uit waarneemt. Neem aan, er vliegt op een
+gegeven moment een vliegmachine precies boven
+uw hoofd. Iemand die op eenigen afstand van u staat,
+neemt het toestel echter niet loodrecht boven zijn
+hoofd waar, maar hij ontwaart het in een ietwat
+andere richting.
+Uit dit richtingsverschil, waarmee twee personen
+eenzelfde verwijderd object waarnemen, laat zich
+nu, in verband met de onderlinge distantie van
+beide lieden, onmiddellijk becijferen op welken
+afstand het zich bevindt. En niets zou simpelei en
+plezieriger zijn dan dit soort berekeningen ook op
+de hemellichamen toe te passen, ware het niet dat
+deze laatsten zoo verbijsterend ver weg staan. Want
+u begrijpt dat wanneer de betreffende afstand heel
+groot wordt in verhouding tot de onderlinge afstand
+van de twee waarnemers, er van een merkbaar
+richtingsverschil niet veel meer terecht komt.
+Willen onze afstandsmetingen tot de sterren
+reiken, dan blijkt de grootste aardsche maat die ter
+beschikking staat, zelfs nog veel te klein. En de
+eenige buitenaardsche afmeting die door menschen
+bereikt kan worden, is de middellijn van de aardbaan.
+Van deze wordt dan ook inderdaad een dankbaar
+gebruik gemaakt: d.w.z. men fotografeert een be
+
+paalde ster tegen den hemelachtergrond (gevormd
+door de veel verder weg gelegen hemellichtjes) van
+
+uit twee diametraal gelegen punten van de aardbaan
+om de zon (dus bijvoorbeeld op i Jan. en i Juli) en
+onderzoekt nu hoever het bewuste sterrenpuntje
+zich ten opzichte van de rest verplaatst heeft.
+Welnu, zelfs waargenomen van twee plaatsen uit
+die aldus de dubbele afstand Aarde-Zon, of wel
+300.000.000 km. uit elkander liggen, blijkt het
+richtingsverschil bij de dichtstbijzijnde ster niet
+mér te bedragen dan de dikte van een haar, gezien
+op een afstand van 10 meter !
+Het licht van die naburige ster heeft 4V2 jaar
+noodig om ons te bereiken; men noemt z'n afstand
+daarom 41/* lichtjaar.
+
+EEN verplaatsing van een haardikte op tien
+meter afstand, voor de dichtstbijzijnde ster ....
+Niettemin zien de sterrekundigen tegenwoordig nog
+kans om tien tot honderd maal geringer verplaat
+
+singen aan te toonen, m.a.w. afstanden te meten
+van sterren, die een paar honderd lichtjaar bedragen.
+Maar dat is dan ook de alleruiterste grens, en aan
+
+gezien er slechts betrekkelijk weinig sterren zoo
+dicht bij staan, is het aantal der aldus bepaalde
+sterafstanden niet groot. We kennen er op het
+oogenblik een kleine duizend. Die duizend sterren,
+dicht in onze buurt, zijn van groot belang geweest
+om ons in te lichten over allerlei belangrijke zaken:
+zooals de mate waarin bepaalde sterrensoorten het
+wereldruim bevolken; we hebben er uiterst merk
+
+waardige exemplaren onder ontdekt, die onze op
+
+vattingen over het wezen van een ster belangrijk
+hebben helpen uitbreiden, maar naar de grenzen van
+het heelal, naar daar waar we met de grootste
+De astronoom Bessel, die de eerste ster-afstanden mat
+telescopen in nevelachtige verten gansche sterren
+
+stelsels zien opdoemen, hebben ze ons vanzelf
+
+sprekend niet kunnen voeren.
+De sterrenkunde heeft echter niet stilgezeten.
+Voortbouwend op het onwrikbaar fundament der
+duizend trigonometrisch bepaalde sterafstanden
+heeft het vindingrijk vernuft der moderne astro
+
+nomen kans gezien het peillood steeds dieper het
+hemelruim in te slingeren, tot aan de 500 millioen
+lichtjaar tot waar, naar we thans weten, de blik van
+'s werelds grootste spiegeltelescoop reikt.
+Er is haast geen onderdeel te bedenken van de
+zoo veelvormig geworden astronomische weten
+
+schap, of men wist er de ontdekte wetmatigheden
+dienstbaar te maken tot het steeds weer ontraadselen
+van nieuwe distanties in het wereldruim. Wanneer
+men u een globaal overzicht zou willen geven van
+de verschillende wegen waarlangs tegenwoordig
+sterafstanden worden bepaald, zou daarbij zoo
+ongeveer de heele hedendaagsche sterrenkunde in
+vogelvlucht aan u voorbijtrekken een interessante
+onderneming, maar een ietsje te omvattend voor
+een artikeltje als dit. Toch wil ik trachten u althans
+duidelijk te maken op welke wijze men daarbij wel te
+werk pleegt te gaan. Noemt u maar een onderwerp
+op, het eerste dat u invalt	Dubbelsterren... goed.
+DE vlijtige studie dan dezer merkwaardige
+hemelobjecten, sterrenparen, waarvan de part
+
+ners (de componenten) onder den invloed der
+wederkeerige aantrekkingskracht elliptische loopbanen
+rondom elkander beschrijven, leverde aldra een
+interessante wetmatigheid op met betrekking tot het
+gewicht van de sterren in het algemeen. Wanneer
+men den afstand kent, waarop zoo'n dubbelster van
+ons verwijderd is, is het mogelijk om uit den waar
+
+genomen omloopstijd, in verband met den
+onderlingen afstand der beide sterren hun gewichten te
+berekenen. Dit is voor honderden sterren gebeurd,
+en steeds werd daarbij het merkwaardige resultaat
+bevestigd gevonden: de gewichten der verschillende
+sterren ontloopen elkaar niet veel: alle sterren zijn
+vrijwel even zwaar als de zon.
+Welnu, deze natuurwet (die nieuwere
+astrophysische onderzoekingen hebben kunnen verklaren
+ook) past men nu toe op iedere dubbelster waarvan
+wél de omloopstijd, maar nog niet de afstand tot
+ons en dus evenmin de onderlinge afstand der com
+
+ponenten bekend is. Evenals nu daarstraks uit
+omloopstijd en onderlingen afstand het sterren
+
+gewicht volgde, becijfert men omgekeerd uit sterren
+
+gewicht en omloopstijd den onderlingen afstand in
+kilometersmaat. En deze laatste leert ons dan weer
+in verband met de onderlinge distantie waarop we
+de twee sterren aan den hemel zien staan, hun waren
+afstand tot ons.
+
+OF een ander voorbeeld.
+Men kent sterren van roode, gele, witte en
+blauwachtige tint. Uitgebreide onderzoekingen over
+de kaarssterkten (dus de ware lichtsterkte) der
+sterren brachten aan het licht dat de sterren van
+alle kleuren naar hun kaarssterkte te verdeelen zijn
+in krachtige en zwakke stralers. Terwijl de zwakke
+stralers (de dwergsterren) nu geleidelijk in licht
+kracht afnemen, wanneer hun tint van wit over
+geel tot rood daalt, is het merkwaardige dat de
+krachtige stralers (de reuzensterren) daarentegen
+allemaal precies dezelfde kaarssterkte bezitten,
+welke hun kleur ook moge wezen. Een kaarssterkte
+van 100 zonnen.
+Nu ontdekte men in het spectrum der ster een
+hulpmiddel om te onderscheiden of men te doen
+heeft met een reus dan wel een dwerg. Met het
+gevolg dat van iedere reuzenster tegenwoordig de
+afstand berekend kan worddn. Men kent immers
+zijn kaarssterkte, d.w.z. men weet nu hoe helder de
+ster zou wezen, als ze in het hemelruim eens vlak
+naast de zon geplaatst werd, en een eenvoudig
+becijferingetje is dan in staat om uit te vinden op
+welke afstand die ster dus blijkbaar van ons ver
+
+wijderd is, om haar de schijnbare helderheid te doen
+aannemen die ze ons in feite aan den avondhemel
+vertoont.
+Dit zijn, zooals gezegd, maar enkele eenvoudige
+gevallen; maar ze mogen u een indruk geven van
+het rijke materiaal aan sterafstanden dat den
+huidigen onderzoeker ten dienste staat, honderd
+jaar nadat dat pionierstrio: Bessel, Henderson en
+Struwe de eerste schreden waagde op het pad der
+trigonometrische afstandsbepalingen in het
+wereldtiiiiiiiiiiiiiiiiiilllllfiiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiiiitiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiNlliiiiiiiiiiiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiillliltliiiiiHiiliiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit
+Merkwaardige berichten
+,,Hoewel hij geen kind is van zijn
+vader, heeft deze hem als zijn zoon
+erkend." (T.)
+Des avonds zal de koningin een
+gala-voorstelling bijwonen in den
+Muntschouwburg, waar een speciale
+coupe zal worden gegeven."
+(Gron. Dbl.)
+
+Paindeluxe-brood
+,,De Prins Hendrikkade wordt ver
+
+breed. De werkzaamheden schieten
+al aardig op. Als dit werd gereed is,
+zal de Prins Hendrikkade breder
+geworden zijn." (Volk)
+Polen verlangt garanties voor het
+geval het zich zou aansluiten bij het
+defensieve verdedigingsblok." (R.)
+CHARIVARIA
+en krijgt men bij navraag ook wel
+te hooren."
+(Wbl. v. Gymn. en M. O.)
+De nominatief-datief
+
+constructie
+Hij was een smokkelaar \vien het
+verblijf in het eerste bewakingsgebied
+was ontzegd en zich niet binnen vijf
+
+honderd meter strook mocht op
+
+houden." (T.)
+De imperatief-indicatief
+
+constructie
+\Vij zouden dien speler willen
+herinneren aan Tollens' wijze spreuk:
+En rekent d'uitslag niet, maar telt
+het doel alleen." (H. P.)
+Het erkentelijke vaderland heeft
+Tollens' wijze spreuk ter harte
+genomen:
+,,'t Erkentlijk vaderland, door
+liefde en vreugd gedreven,
+Neemt weer zijn kinderen op, die
+uit den dood herleven;
+Vergeldt hen, juicht hen toe, strooit
+bloemen voor hen heen
+Kn rekent d'uitslag niet, maar
+telt liet doel alleen."
+(Tallen*, \m'a Zcmbla)
+tinteling van een esprit, rhytme en
+melancholieke charme, van een inwo
+
+nende klankzinnelijkheid zooals men
+zich die bij deze kunst van
+fijn-vibreerende sensiviteit op zijn best droomt."
+(V ad.)
+Het cadeaustelsel
+Op een gegeven moment was het
+toestel loodrecht in de lucht."
+(Alg. Ind. Dbl.)
+Op een gegeven oogenblik beval
+YVillebrord een tent te spannen en
+daarbinnen een kuil te graven." (R.)
+(De naam van deze rubriek is
+bedacht door een geestigen inzender.
+Men zende Charivarius cadeaux.)
+De nominatief-accusatief
+
+constructie
+De reden hiervan is licht te raden
+In de hooge regionen der
+kunstkritiek
+De speelsche figuren, waarmede
+in deze sonate de diepere gevoelens
+worden omrand, werden uitstekend
+naar voren gebracht." (1-^d. C.)
+Hier waren opvatting, aard en
+Volgens de N.R.C, zeide de
+voorzitster van het
+jongeren-werkcomitéder Nederlandsche
+vereeniging van vrouwenbelangen en gelijk
+staatsburgerschap: Het loont de
+moeite de draagwijdte van deze
+factoren te peilen." De
+gedachtenassociatie is duidelijk: draagwijdte
+
+brug, brug-pijler,
+pijler-pijl-peilpeilen.
+PAG. 15 DE GROENE No. 3233
+
+</text>
+<image timestamp="2002:09:13:07:57:44.00" size="263645">D1000561.TIF</image>
+</page>
+</document>

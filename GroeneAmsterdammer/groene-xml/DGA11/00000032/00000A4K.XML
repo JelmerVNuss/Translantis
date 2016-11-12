@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320402</Datum>
+<Pagina>18</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+18
+De Groene Amsterdammer van 2 April 1932
+No. 2861
+LEVENSVERZEKERING
+Mij. ARNHEM"
+de basis voor een zorgenvrij bestaan.
+Gemeente Apeldoorn.
+UITGIFTE van
+ƒ 2.300.000.- 5'/2 pCt. vijf-jarige OBLIGATE,
+in stukken van ƒ 1000.—, aan toonder.
+Ondergeteekenden berichten, dat krachtens overeenkomst
+met het Gemeentebestuur de inschrijving op bovenvermelde
+obligatiën tot den koers van 100 pCt. zal zijn
+opengesteld op
+
+DINSDAG, 5 APRIL 1932,
+van des voormiddags 9 uur tot des namiddags 4 uur,
+bij hunne kantoren te AMSTERDAM, ROTTERDAM, 'S-GRAVEN
+
+HAGE en te APELDOORN bij den Gemeente-Ontvanger, op
+de voorwaarden van het prospectus d.d. 30 Maart 1932,
+waarvan exemplaren, benevens inschrijvingsformulieren, bij
+bovengenoemde kantoren verkrijgbaar zijn.
+
+INCASSO-BANK N.V.
+NEDERLANDSCH INDISCHE HANDELSBANK, N.V.
+AMSTERDAM, 30 Maart 1932.
+N.V. UTRECHTSCHE HYPOTHEEKBANK
+UTRECHT
+Pandbrieven f 61.000.0GO. Reserves f 1.526.672.66
+DE BANK stelt beschikbaar:
+5 pCt. pandbrieven a 98-pCt.
+in stukken van f 1OOO.—, f 50O.—, en f 10O.
+met verplichte uitloting van */a per jaar.
+De Directie:
+Mr. A. J. S. VAN LIER. Mr. P. R HOORWEG
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+NV.ZUIDER
+HYPOTHEEKBANK
+5 pCt
+Pandbrieven
+tegen beurskoers
+Directie:
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOI'
+N.V, Maatschappij voor Hypothecair Wiet in Nederland
+gevestigd te 's-Gravenhage, Nassaulaan No. 21
+waarin opgenomen de Maastrichtsche Hypotheekbank voor
+&gt; Nederland te Maastricht, St. Servaasklooster 8 &lt;^o^o
+Bijkantoren: Amsterdam, Westermarkt No. 2
+Utrecht, Boothstraat No. 15
+Groningen, Turfsingel No. 9
+De Directie
+De Holl. Voorschotbank
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag.
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+N.V. VERZEKERING-MAATSCHAPPIJ
+..MERCURIUS"
+OPGERICHT A°1894
+AMSTERDAM, C. - KEIZERSGRACHT 570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+N.V. STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+N.V. Bataafsche
+Hypotheekbank
+AMSTERDAM
+Anno 1889
+Geeft uit tegen beurskoers;
+5 % PANDBRIEVEN
+in stukken van
+fl000,-,f500,- en f100,-.
+Coupons Januari en Juli
+
+</text>
+<image timestamp="2002:09:26:20:04:37.00" size="117829">00000A4K.TIF</image>
+</page>
+</document>

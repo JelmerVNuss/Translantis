@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261120</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2581
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+NI E U W E UITGAVEN
+EDUARD VETERMAN
+
+AAKTE MASKERS
+TOONEELROMAN
+Ingenaaid f 3.90; gebonden f 4.75
+ANTOON THIRY
+Mijnheer Pasteur en zijn Vogelenparochie
+Ingenaaid f 2.25; gebonden f 2.90
+URBAIN v. d. VOORDE
+
+HET MEISJE LEA
+Ingenaaid f 2.25; gebonden f 2.90
+Em, Querido's Uitgevers Mij,, Amsterdam
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.O. Hvoftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+|lll!llllllllllllllll!millllllllllllllllllllll!lllllll!l!ll!lll!llllll!ll!l!lll!im
+
+
+ADRIAAN SCHAKEL l
+
+HEILIGE WEG 15-17 f
+
+AMSTERDAM |
+=
+
+Overhemden naar maat i
+Vervaardigd op eigen Ateliers |
+Bij ons verkrijgbaar
+
+N. R. V. MONTA SCHOENEN
+ibinniinnninniiiniiiiiiiimiiiiiimiimiiiiiiiiiiiiiiiiiimiiiiiiiiniiiiiiiiiiiinm
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+
+N.V. .,DE HOUTTUINEN". AMSTERDAM
+Altijd welkom
+DROSTE'5
+VERPLEEGSTER-CACAO
+J\fimmer&gt; afkijkend in
+Complete Badkamer
+
+van af f 285	.
+
+Prima drukautomaat. Bad, Kranen, Bidet,
+Waschtafel met marmer en spiegel.
+
+
+G, J. DE KONING 6 ZOON
+
+Keizersgracht 447, A'dam
+EEN UITNEMEND BOEK
+
+
+
+Het oude huis
+
+door CECILE TORMAY
+
+Prijs gebonden f 1.50
+
+Geïll.omsl. van B. VAN VLIJMEN
+
+Dit geheel fijne en zoo zeer in
+reine sfeer gehouden boek is een
+aanwinst voor de litteratuur.
+Holl. Revue.
+
+Uitgave van Van Holkema &amp;
+Warendorf's Uitgevers-Maatsch.
+Amsterdam.
+ZILVEREN
+
+
+THEELEPELS
+
+in 80 verschillende modellen
+doch uitsluitend het betere
+genre vanaf 13.50 tot 3S.—in etui
+
+. v. WILLIGEN 6 ZONEN
+Hoek Piet Hein - Zouttnanstraat
+DEN HAAG
+Occasion •• Briljanten -Tafelzilver
+
+</text>
+<image timestamp="2002:09:26:09:58:56.00" size="147315">D100084Y.TIF</image>
+</page>
+</document>

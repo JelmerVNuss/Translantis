@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18960802</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 997
+JUGEND.
+Duitsch Weekblad,
+Uitgegeven door
+GEORG HIRTH.
+O! dieae Jugend! Met dezen kreet van wan
+
+hoop en bezwaar grijnst de oude heer met
+zijnen kalen schedel ons aan. Waar moet
+dat alles toch heen? Dat deels vluchtige,
+symbolieke, fantastische, met vermijding van
+het sentimenteele, weeke! Kinderen, waar
+moet dat heen ?
+En wij ?... Wij moeten mede. Het is
+onze plicht, het goede, dat de nieuwe tijd
+geeft, te leeren waardeeren, al wijken de
+vormen, waarin de gedachten gekleed zijn,
+ook af van die van voorheen. Elke generatie
+heeft eene gewijzigde levensopvatting moeten
+accepteeren, want ongeveer met elke
+vijfen-twintig jaren verandert de geest des
+tijds. Om hiervan overtuigd te zijn, is het
+onnoodig de geschiedenis te doorvorschen.
+Wij behoeven slechts de uitingen der bouw
+
+kunst na te gaan, die ongeveer vier keer in
+eene eeuw zich wijzigt.
+Geen der beschaafde landen van Europa
+heeft in den laatsten tijd eene zoo groote
+omwenteling ondergaan als Duitschland. Sinds
+Bismarck met ijzeren arm de Duitschers te
+zamen smeedde, is hier een geheel nieuw
+leven ontstaan. Het zelfbewuste wezen van
+den grooten staatsman heeft meer of min velen
+geëlektriseerd, en zoo heeft het karakter en het
+gevoel van eigenwaarde zich krachtiger
+ont' plooid. Ongetwijfeld moest de invloed van
+deze gunstigere Duitsche toestanden zich in
+de kunst doen gevoelen, en het is daarom
+geen toeval, dat sinds ongeveer 1890 een
+nieuw kunsttijdperk is aangebroken.
+Om zich een juist beeld van de Duitsche
+kunstontwikkeling te geven, verplaatse men
+zich in gedachten ongeveer een dertigtal j aren
+bij ons terug, in den tijd toen, in 1862,1863,
+de Marissen opdoken, Mesdag voor het eerst
+in 1869 te Parijs exposeerde, en deze schil
+
+ders met Jozef Israëls en Willem Roelofs
+de steunpilaren der hollandsche schilderschool
+werden, die in dit oogenblik de eerste der
+•wereld mag genoemd worden. De hollandsche
+bouwkunst won aan pittigheid destijds in de
+gemoederen van enkele bevoorrechte artiesten,
+om langzamerhand door meerderen met succes
+beoefend te worden.
+Welnu, dat tijdperk der Hollandsche kunst,
+is hier in Duitschland in aantocht.
+Dearchitektuur, waarin, van Iö70 1890, slechts enkele
+kunstenaars uitmuntten, neemt meer of min in
+de laatste zes j aren over het geheele rijke in
+intimiteit toe een nieuwe tijd is aan
+het kiemen.
+Ook de schilder- en de teekenkunst geven
+hiervan blijken, en een ieder die de Tentoon
+
+stellingen der laatste jaren te München
+bezocht, zal moeten toestemmen, dat de
+Duitschers zich zeer hebben aangepakt. Zij heb
+
+ben met vlijt en volharding de goede tech
+
+niek der Fransche schilders en de gezonde en
+ware opvatting der natuur, den Hollandschen
+artiesten eigen, bekeken. Wel openbaart zich
+voorloopig door het bestudeeren der
+buitenlandsche kunst een ietwat uitheemsch element,
+maar wij vermoeden, dat dit zal wijken en de
+duitsche schilderschool weldra haar eigen
+koloriet zal bezitten.
+Zal dit eens werkelijkheid worden? Want
+een internationale kunst bestaat niet. Dat
+is een onding, zoo zegt met recht de oude
+heer, die uit vrees, dat de uitheemsche faktor
+uit de duitsche kunst niet wijken zal, met
+zijne gevouwen handen dermate zijn kin te
+zamenperst, dat zijn neus er niet sierlijker
+op geworden is. Hij transpireert van angst,
+daar hij er van doordrongen is, dat karak
+
+ter en geïnspireerde liefde voor het Vader
+
+land tot de eerste en grootste deugden ten
+allen tijde te rekenen zijn.
+En toch deden de Duitschers goed, eens
+flink over de grenzen te kijken. Zij gevoelden,
+dat hun land, hoe schoon en romantisch ook,
+niet dat biedt, wat Holland door zijne groote
+tintenpracht en innigheid van het landschap
+den artiest geeft. Het is daarom in de
+laatste jaren mode, gewoonte en verlangen
+geworden, om het hier weinig ontwikkelde
+kleurengevoel aan de stille oevers van de
+Vecht of aan de duinstreken van Zandvoort
+te louteren. Deze keus der Duitschers,
+juist dit hoogere in Nederland te zoeken,
+pleit voor hun juist inzicht. Immers, geheel
+Holland staat als het ware in den dienst der
+kunst. Maat houden is echter op elk gebied
+moeilijk, en zoo zijn de Duitschers met hunne
+bewondering voor het nederlandsche landschap
+te ver gegaan. Vele schilders namelijk,
+trachten Hollandsche motieven te creëeren, en
+zijn van meening, dat zij op hunne doeken
+ook het koloriet van daar weergeven. Dat
+LIEBE l N WÖRIS^OFEN
+(Jugend.)
+Als de Duitsche Koloniale Armee in Afrika komt: Een nette boel! {Jugend,No.7.pag. 105.)
+
+</text>
+<image timestamp="2002:09:04:19:37:08.00" size="491868">D10004N8.TIF</image>
+</page>
+</document>

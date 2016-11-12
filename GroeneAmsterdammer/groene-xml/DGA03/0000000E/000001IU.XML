@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19080823</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Venezolaansche kwestie.
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland van 23 Augustus 1908.
+Arost. Boek- en Steendrukkerij, v'h. Ellerman, Harms &amp; Co.
+(Amerika tot Nederland.) Vriendlief, zeg eens, alles lukt je,
+Doe nu eens een meesterstukje,
+Haal me, 't komt me net te pas,
+Die kastanjes eens uit d'asch.
+(Fabelen van Lafontaine. De aap en de kat).
+
+</text>
+<image timestamp="2002:08:14:19:59:55.00" size="398097">000001IU.TIF</image>
+</page>
+</document>

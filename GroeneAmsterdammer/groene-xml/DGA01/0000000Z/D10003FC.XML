@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19201030</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE HOOFDELIJKE OMSLAG VOOR DEN VOLKENBOND.
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland van 3&lt;) Octobcr 1920
+VOLKENBON
+Amst. Boe*- en Steendruklcerij, v'h. Ellerman, Harms &amp; Co.
+Suppoost (tot de Nederlandsche Maagd): Hier is uw plaats, Mevrouw, op den derden rang. Het
+jaarabonnement kost u maar 324000 gulden."
+
+</text>
+<image timestamp="2002:08:25:05:14:47.00" size="246483">D10003FC.TIF</image>
+</page>
+</document>

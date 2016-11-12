@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19120728</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Schiedamsche Verordening.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 28 Juli 1912.
+Verordening te Schiedam:
+Het is verboden in gezelschap met iemand van andere kunne, te zitten of
+te liggen op openbare wegen of dijken of hun bermen, glooiingen of onderkant.
+Deze bepaling is niet van toepassing, indien de bedoelde personen met
+elkander gehuwd zijn of elkander in den eersten of tweeden graad van btoed- of
+aanverwantschap bestaan"'.
+«.&amp;?**S ^-; &gt;-&gt;*%.
+1 ii ' :-v;
+, (^(
+:'^&lt; ^;r,-y
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+De Agent: Alzoo tweederlei geloof, geen femilie, gebruikende het land voor zekere doeleinden.
+De Coalitie: Maar man, we zijn de Coalitie!
+De Agent: Kan d'r niets an doen. 't Is onzedelijk. En nou vort! opgehoepeld marsen!
+
+</text>
+<image timestamp="2002:08:17:17:59:06.00" size="343620">D40000B1.TIF</image>
+</page>
+</document>

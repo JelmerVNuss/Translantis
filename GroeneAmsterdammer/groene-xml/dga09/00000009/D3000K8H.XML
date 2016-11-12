@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19361121</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+, l
+i t
+v^ • ,
+stellings-Dieseltrein onderhoudt n.l. een geregelde
+verbinding tusschen dit station en het C. S. Van het
+Amstelstation vaart men dan direct naar de
+aanlegplaats in den Amstel, waar men door een tweeden
+toegang het tentoonstellingsterrein kan betreden.
+De tocht gaat door de feestelijk verlichte grachten
+van de oude binnenstad, waar gekleurde fonteinen
+de romantiek der boogbruggen verhoogen en ver
+
+lichte torens en geïllumineerde gebouwen de stad
+een tintelende feestelijkheid doen uitstralen. Door
+licht- en waterlijnen verbonden vormen Amsterdam.
+en zijn tentoonstelling n groot geheel.
+
+Tentoonstelling en Amusement
+EEN globale indeeling van het tentoonstellings
+
+terrein is op de situatieteekening weergegeven.
+Een groote bloemenailee, versierd met vlaggen,
+lichten en fonteinen, loopt over de lenterichting
+van het terrein en wordt op monumentale wijze
+afgesloten door het groote hoofdgebouw met de
+daarbij gelegen segmentvormige congres-hal. Uit
+het hoofdgebouw stijgt op vaste tijden de kabel
+
+ballon omhoog, tot 500 (of' is het 5.000?) meter,
+vanwaar men een machtig overzicht heeft over het
+tentoonstellingsterrein, de stad en haar omgeving.
+Aan d in rechterkant van den hoofdweg, dus
+aan de Westzijde van het terrein, liggen de voor
+
+naamste paviljoens. Deze paviljoens met de daarbij
+aansluitende dichte beplai.ti.ig vangen zooveel
+mogelijk de in dit land' heerschende Noorden- en
+Zuidwestenwinden weg.
+De bpomgroepen van het oude Amstelrust
+vormen een rustige omgeving voor de kleinere
+landenpaviljoens. Hier is ook, geheel omringd
+door het opgaande hout, het Balineesche theater
+gelegen, dat het middelpunt vormt van de
+Nederlandsche koloniale inzending.
+Op de situatieteekening zijn slechts de plaatsen
+der allervoornaamste gebouwen aangeduid; het
+spreekt vanzelf dat het terrein nog tal van kleinere
+gebouwen en bouwsels bevat. Hiervan noemen we
+Overzicht van een gedeelte der tentoonstelling. Op
+den voorgrond ziet men het meertje met het daaraan
+gelegen hosfd-ca/é-restaurant, waarachter het rosarium.
+Op den achtergrond de groote hal met opengeklapt
+dak, waaruit zoojuist de kabelballon is opgestegen
+Onder: Hoofdingang der tentoonstelling met verkeersplei .
+De trams stoppen op het middenplein. Bruggen leid -i
+over de autoverkeersbaan naar de hooger gelegen toegangt i.
+EVV
+PAG. 6 DE GROENE Ne. 3103
+
+«iiiBjp.iSMH» psr;.t^üslapte;*-/**
+;uiatfaflMn&gt;
+•-vj
+2 ^lv Sfei&gt;
+• '. ' . '.:'
+..-•.;;.;, (,-:;;&gt;,,;.\:.%c,";
+i
+
+</text>
+<image timestamp="2002:10:30:15:38:49.00" size="1122889">D3000K8H.TIF</image>
+</page>
+</document>

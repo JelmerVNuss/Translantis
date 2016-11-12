@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301227</Datum>
+<Pagina>1A2</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Koning Foead biedt in het Egypt. gezantschap te
+BIJVOEGSEL van De Groene Amsterdammer", Weekblad voor Nederland van 9 juli 1927
+een
+aam
+Nadruk verboden
+•\rist. Kook- on Stcenclr. v,h. Elierm3n. Harms 6 Co
+j O H N
+IN B l! L L. ..DANK )E, - DIE GERECHTEN ZIJN MIJ TE EGYPTISCH!"
+
+</text>
+<image timestamp="2002:09:26:12:46:36.00" size="207854">000009V9.TIF</image>
+</page>
+</document>

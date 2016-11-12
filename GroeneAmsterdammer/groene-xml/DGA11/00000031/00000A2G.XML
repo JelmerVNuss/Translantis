@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320312</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 12 Maart 1932
+No. 2858
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+N.V. Amsterdamsche Hypotheekbank
+HEERENGRACHT 581, AMSTERDAM (C.)
+OPGERICHT 1882
+Geeft uit: 5 pCts. PANDBRIEVEN
+
+in stukken van
+
+f1000.-, f500.-, en f
+100.en sluit Leeningen onder 1e Hypothecair verbandop
+zeer bi II ij ke conditiën. DE DIRECTIE.
+door de nauwkeurige con
+
+structie en zorgvuldige
+afwerking van den motor;
+
+door de steeds in ingrijping
+zijnde schroeftandwielen van
+derde en vierde versnelling;
+
+door de conische schroeftand
+
+wielen van de achterbrug;
+
+door een, tot in de
+kleinste bijzonderheden
+verzorgd, piepvrij koetswerk.
+
+
+Geruischloos" - ook deze factor legt
+veel gewicht in de schaal bij aanschaf
+
+fing van een nieuwen wagen.
+
+
+Laat Uw nieuwe wagen
+
+een FIAT zijn!
+3eEN
+4e VERSNELLING
+IMPORTEUR:
+J. LEONARD LANG
+STADHOUDERSKADE 114 - TEL 27100 - AMSTERDAM
+
+
+AGENTEN IN ALLE BELANGRIJKE PLAATSEN IN NEDERLAND
+Hl Insulaire Hypotheekbank
+te ZIERIKZEE.
+
+
+Uitgifte van
+5% Pandbrieven a 98%
+N.V. Bataafsche
+
+Hypotheekbank
+AMSTERDAM
+Anno 1889
+Geeft tiit tegen beurskoers;
+5 % PANDBRIEVEN
+in stukken van
+f100O,-,f500,-en flOO.-.
+Coupons Januari en Juli
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van,
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5% schuldbrieven
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H, H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5 % Pandbr. tegen beurskoers uit.
+De Groene
+
+Amsterdammer
+
+Weekblad voor Nederland
+
+kost slechts f2.70 per
+kwartaal (f0.20 voor in
+
+cassokosten) of f 10,- per
+jaar bij vooruitbetaling.
+
+</text>
+<image timestamp="2002:09:26:18:35:07.00" size="107807">00000A2G.TIF</image>
+</page>
+</document>

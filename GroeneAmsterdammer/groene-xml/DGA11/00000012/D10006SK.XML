@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270827</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 2?' AUGUSTUS 1927
+No. 2621
+J. -D. STRUIJS &amp; Zn*
+Prinsengracht 837 Telefoon 37906
+Begrafenissen ~ Crematie - Transporten
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+ONZE BEKENDE
+
+OPRUIMING
+Corsets, Heupgordels,
+= Bustehouders=
+Loont een bezoek.
+n TD c r* u T ( Oudeqracht 141
+U l K C U n l ( Amsterdamschestraatweg 16
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+miiiiffliHiimiiniuniminraiiumminmmMiiwmnm^
+
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 |
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers |
+BU ons verkrijgbaar
+N. R, V. MONTA SCHOENEN I
+
+liinmninininiiniiiinmniiniimiiiiiiiimiminnimrimmiiiiiinniiimiiiiiiiiiNiiiiiiiiMiiMiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiH
+
+
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. DE HOUTTUINEN", AMSTERDAM
+NOL IN 'T BOSCH
+HOTEL-RESTAURANT bij WAGENINGEN
+Met dependance Huize,, Harten" Te midden van uitgestrekte bosschen met
+schitterende wandelingen. Modern ingericht.
+Tennisbaan. Garage. Teleph. 314. A. BEIJER.
+DEN HAAG FERD.vVL.IET ARNHEM
+EIGEN
+STEENSTRAAT 11
+TERUG
+VAN DE
+
+VACANTIE
+
+Laat Uw goederen, tijdens Uwe vacantie
+gebruikt, bij ons Stoomen of Verven,
+U hebt ze dan weer als nieuw,
+
+P ALTHE - ALMELO
+AMANDELTJES
+M£T GRATIS GRfffADIJVESAUS
+Firma KRÖNER
+Nieuwcndijk 167, Amsterdam
+TEL. 43186.
+Speciale aanbieding.
+Graslinnen lakens
+zeer solide kwaliteit
+150 c.M. breed Gewone Zoom .. i 2.95
+Gefestonneerd.. 3.35
+II. a jonr .., 3.35
+Gewone Zoom.. 3.70
+II. a jour 4.20
+Staal franco op aanvrage.
+
+</text>
+<image timestamp="2002:09:21:17:40:07.00" size="145317">D10006SK.TIF</image>
+</page>
+</document>

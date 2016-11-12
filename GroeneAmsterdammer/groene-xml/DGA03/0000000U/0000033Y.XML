@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18911129</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 29 Noveinlier 1891.
+Een koel minnaar.
+I)r. HKKR V DN CiiERs: Adifu. f/iere amir! Het doel. mij genoegen u zoo wel
+te hebhen gevonden. Houd u goed en kalm.
+l )i: KRA\SI H K. KK.i'i'UUhK i nu't i^nvijteiidcn blik): ()! die dagen \an Kronstadt!...
+Zeg, hebt ge uw hart aan de schoone Itaüa verloren? Of laat ge u door
+de trotsche C.ermania inpakken:1
+I)K HKER V'o\ GIF.RS: Ik reis voor /aken. lieve vriendin.
+Am?',, l'.iu-k cu Su'endrukkcru, v h. l''Ucrman, Ilanus ^ Cu
+
+</text>
+<image timestamp="2002:08:20:00:07:59.00" size="311628">0000033Y.TIF</image>
+</page>
+</document>

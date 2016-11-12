@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150516</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+16 Mei t'15. Nö. 1977
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+.De vier groote banken Van ons land (de
+Amsterdamsche, Twentsche, Rolterdamsche
+en Incasso-Bank) hebben thans hare jaar
+
+verslagen gepubliceerd en is het, aan de
+hand dier verslagen, mogelijk een overzicht
+te verkrijgen van den invloed, dien de. bui
+
+tengewone tijdsomstandigheden op de resul
+
+taten van het groot-bank bedrijf ten onzent
+gehad hebben.
+In onderstaande tabel heb ik de hoofd
+
+posten der winst- en verliesrekeningen der
+vier instellingen over 1914 en 1913 bijeen
+
+gevoegd, zoodat men daaruit kan nagaan,
+hoe de verschillende onderdeelen van het
+bedrijf in de beide jaren gewerkt hebben.
+Daarbij dient echter opgemerkt te worden,
+dat eene volmaakte vergelijking; van de
+uitkomsten dier onderdeelen bij de verschil
+
+lende instellingen uit de verslagen niet op
+te maken is, daar de indeeling van de hoofden
+van rekening en de toelichting daarvan in
+de verslagen der diverse instellingen niet
+uniform is. Bij de bespreking van de cijfers
+van het tabellarisch overzicht zal ik, zooveel
+doenlijk, met deze verschillende wijze van
+boeking rekening houden.
+WINST- EN VERLIESREKENINGEN OVER 1914 EN 1913 (in duizendtallen)
+Amst. Bank Twentsche Bank Rott. Bank Incasso-Bank
+1914. 1913.
+1914. 1913.
+Credit
+Saldo Ao Po .... 118 110
+Interest rek	2113 1487
+Provisie	710 672
+Wissels	504 240
+Effecten en Consort. . 43 162
+'Diversen
+3488 2671
+
+Debet
+Algemeene onk. . . . 695 565
+Pensioenfondsen ... 40 36
+Effecten ...... 206
+Reserve dub. debiteuren 50 40
+Afschr. onr. goederen . 28 55
+Bizondere reserve. . . 500
+Saldo-winst	1969 1975
+1914. 1913.
+1914. 1913.
+146
+2043
+848
+365
+105
+1691
+809
+359
+418
+3629
+800
+107
+2394
+750
+250 279
+18
+875
+241
+220
+83
+13
+849
+265
+115
+103
+85 116
+
+3487 3080
+966 880
+51 47
+
+172
+
+300
+1998 2153
+5097 3530
+1089 765
+100 50
+99
+1200*
+2609* 2715
+1437 1345
+561 546
+17
+15 25
+300* 48
+561* 709
+3488 2671
+3487 3080
+5097 3530
+1437 1345
+* In de winst- en verliesrekeningen der Amsterdamsche en Twentsche zijn eerst de
+bizondere reserven afgetrokken, alvorens het winst-saldo vast te stellen, terwijl bij de
+Rotterdamsche en Incasso eerst het winst-saldo vastgesteld is en daarvan de bizondere
+reserven afgetrokken zijn. Ten einde het overzicht duidelijker te doen zijn, heb ik voor
+allen het stelsel van de beide eerstgenoemde instellingen gevolgd, hetgeen natuurlijk van
+geen invloed is op de eindcijfers.
+Bijeengenomen is dus het voor verdeeling
+beschikbare winstsaldo bij de vier instel
+
+lingen in 1914 f 7.137.000 geweest, tegen
+f7.552.000 in 1913, hetgeen, de omstandig
+
+heden in aanmerking genomen, een zeer
+bevredigend resultaat zoude zijn voor een
+zoo rampzalig jaar. Er zijn echter verschil
+
+lende factoren, waarmede rekening moet
+gehouden worden om de juiste beteekenis
+dezer cijfers te beoordeelen.
+In de eerste plaats dient opgemerkt te
+worden, dat de Amsterdamsche Bank einde
+1913 haar kapitaal met f2H en de Rotter
+
+damsche Bank met f 10 millioen en uit het
+agio, op de plaatsing der nieuwe aandeelen
+verkregen, hare reserven met ruim f4 mil
+
+lioen verhoogd hebben. Dientengevolge
+werkten de vier banken in 1914 met een
+gezamentlijk kapitaal en reserve van ruim
+f97 millioen, tegen f80 millioen in 1913.
+Onder normale omstandigheden zoude dit
+grootere kapitaal ook meerdere winst heb
+
+ben moeten produceeren en in dit opzicht
+is tiet dus minder bevredigend, dat met het
+ruim 20 pCt. verhoogde kapitaal nog f 415.000
+of ca. 5 H pCt. minder netto verdiend is
+dan in 1913.
+Daartegenover staat echter het feit, dat
+zoowel in den vorm van bizondere reser
+
+ven, als in dien van afschrijvingen op ver
+
+schillende hoofden van rekening zeer be
+
+langrijke bedragen uit de winst van 1914
+zijn afgezonderd, zoodat de feitelijk behaalde
+winsten veel gunstiger zijn geweest dan,
+enkel afgaande op de cijfers van de winst
+
+saldo's, het geval schijnt te zijn.
+Ook in dit opzicht hebben de verschil
+
+lende banken geen uniform stelsel van
+boeking der reserven en afschrijvingen
+gevolgd, zoodat het eenigszins moeielijk
+valt eene nauwkeurige vergelijking te geven.
+Toch is het uit de in de verslagen ver
+
+strekte gegevens mogelijk, zulks ten
+•naastenbij nategaan en kom ik tot de vol
+
+gende cijfers.
+Aan afschrijvingen en reserven werden in
+1914 en 1913 afgeboekt:
+1914. 1913.
+Amsterdamsche Bank f 1.076.600 f 95.400
+Twentsche Bank 642.800 74.600
+Rotterdamsche Bank 1.398.600 50.000
+Incasso-Bank , 315.000 . 90.000
+f 3.433.000 f 310.000
+
+Hierbij dient opgemerkt te worden, dat
+bij de Amsterdamsche Bank de feitelijke
+afschrijving in 1914 vermoedelijk nog ruim
+f 100.000 hooger is geweest dan boven aan
+
+gegeven. Immers kan men in het verslag
+lezen, dat het nadeelig saldo der fondsen
+rekening f205,992 bedraagt en dat dit na
+
+deelig saldo verkregen is, doordat de directie
+de effecten-portefeuille getaxeerd heeft naar
+de koersen, die de fondsen, volgens hare
+meening, op 31 December 1914 hadden,
+hetgeen belangrijk lager dan de
+onderpandkoersen is. Waar in normale jaren op fond
+
+senrekening een winst van ongeveer f 150.000
+behaald wordt, mag men dus aannemen, dat
+ook de normale op dit hoofd verkregen
+winst tot afschrijving gebezigd is.
+Dit is echter van ondergeschikt belang;
+hoofdzaak is, dat uit bovenstaande optel
+
+ling blijkt, dat de gezamentlijke winsten
+ca. f3.125.000 hooger zouden geweest zijn,
+zoo de besturen het niet noodig geacht
+hadden, zeer ruime bedragen voor afschrij
+
+ving en extra-reserven aftezonderen. Het
+zal wel geen betoog behoeven, dat deze
+politiek onder de bestaande omstandigheden
+niet anders dan toegejuicht kan worden en
+het vertrouwen in die instellingen zal be
+
+vestigen en zoo mogelijk nog verhoogen.
+Of deze afschrijvingen en reserven te
+ruim of nog niet ruim genoeg genomen
+zijn, valt voor den buitenstaander niet te
+beoordeelen. Wel wil het mij voorkomen,
+dat de belangrijke depreciatie van verschil
+
+lende buitenlandsche valuta nog zorg kan
+baren. Zelfs aannemende, dat alle buiten
+
+landsche debiteuren volkomen solvabel zijn,
+dan nog kan de verrekening der saldi in
+het buitenland in aanmerking nemende
+het groote bedrag daarvan tot ernstige
+verliezen aanleiding geven, zoolang de
+depreciatie dier valuta blijft aanhouden en
+ook na den oorlog niet voor een belangrijk
+herstel plaats maakt.
+Veel minder vrees schijnt er te bestaan
+omtrent de effecten-portefeuille. Bij het
+belangrijk herstel der fondsenmarkt in de
+laatste maanden is het niet waarschijnlijk,
+dat op dat hoofd nog verdere belangrijke
+afschrijvingen zullen noodig zijn, veeleer is
+het aan te nemen, dat daarin op de
+balansprijzen reeds eene beduidende slapende
+reserve zit. In dit opzicht schijnt het wel
+eenigszins zonderling, dat de Rotterdamsche
+Bank hare extra-afschrijving van ƒ1.000000
+stempelt als eene afschrijving op effecten
+
+bezit." In de toelichting wordt trouwens'
+gezeg'd, dat deze buitengewone reserve
+gecreëerd is ook met het oog op den
+ongunstigen stand der wisselkoersen op ver
+
+schillende oorlogvoerende staten, waar wij
+groote saldi onderhielden."
+In het algemeen genomen, maken
+intusschen de verslagen den indruk, dat zooals
+de Amsternamsche Bank in haar verslag, ten
+aanzien der bizondere reserve van/500.000
+opmerkt zij meer door voorzichtigheid
+dan door noodzakelijkheid geboden werden.
+Gaat men verder de onderdeelen vati de
+winst- en verliesrekeningen na, dan blijkt
+uit bovenstaand tabellarisch overzicht, dat
+het leeuwendeel van de meerdere bruto
+
+winst te danken is aan de hoogere baten
+van de interest-rekening. Tot eene totale ver
+
+meerdering der bruto-winsten met f2.883.000
+werd alleen door de interest-rekening met
+eene vermeerdering van f 2.239.000 bij gedra
+
+gen. Ook hierbij dient echter in aanmerking
+genomen te worden, dat meer bepaaldelijk
+wat de Rotterdamsche Bank aangaat een
+groot deel dier verbetering van de interest
+
+rekening toe te schrijven is aan het ver
+
+hoogd aandeelen-kapitaal, waarmede deze
+instelling in 1914 werkte. Bij deze Bank is
+overigens onder interest-rekening ook de
+winst op wissels opgenomen.
+Van de overige rekeningen wijzen de
+tItllllllllMIIIUIIIIIIIIIIllllllllllllllUIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMIIIItllllllllllMllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllMIIIIIIIIIIIIIIIIIIIIIIIIIIIIlMIIIIIIIIIIIIIIIIIIIIIII
+De Twentsche Bankyereeniging
+
+
+B. W. BlijdeiisteiniCo.
+
+KAPITAAL: f 15.370.942.50 RESERVEN: f6.913.286,86
+HOOFDKANTOOR;
+
+AMSTERDAM, Spuistraat 138/144.
+B1JKAMTORBM;
+(voor wier verbintenissen De Twentsche Bankvereeniging
+B. W. Blftdenstein &amp; Go., ten volle aansprakelijk is)
+AMSTERDAM, Prins Hendrikkade 139;
+LONDEN. B. W. Blgdenstein &amp; Co.. 65-56 Threadneedlestr.;
+ENSCHEDE. B. W. Blpenstein Junior;
+ALMELO, Ledeboer &amp; Go.
+RENTE VOOR DEPOSITO'S:
+Direct «pvtrderbair. ................. 2 pCt.
+TlM dagen opzegging ......	2K
+Een Maand vast Gemiddelde prolongatie-koers met een maximum van 3
+Van den dag der opzegging
+af wordt Vi pCt. minder
+Drie Maanden epzegglng .... 3 pCt.
+Zes Maanden . . . . 3H ,
+Een Jaar
+rente vergoed.
+SAFE DEPOSIT
+
+Heerengracht 531—537,
+Weetperplein 2,
+Overtoom h/Ie Const. Huygentttr.,
+Willemsparkweg 80,
+
+verhuurt aan bij haar geïntroduceerde personen SAFE
+
+LOKETTEN in hare Brand- en Inbraakvrije Kelders.
+
+Reglementen zijn aan bovenstaande kantoren verkrijgbaar.
+i Gebouw der Bank.
+aflosbaar a pari bij jaarlijksche
+uitloting in 25 jaar, in stukken
+van ƒ 100.-, ƒ500.- en ƒ1000.—,
+worden tegen den koers van
+100 pCt. uitgegeven door de
+
+Utrechtsche
+
+Hypotheekbank,
+
+UTRECHT Tel. 241. Drift 17.
+iimiiiiiMMiiiMiiiMiimiiiiMmiiiMiimiiniMiiiMiiiiimiiiiiiiMniiiiliiiHiiiiiMiiimiii'imiiiiimiiMimiM	iiiiiiiiiiiiiiiiiiiiiiiiiiiiiMiiiiiiiiiiliiiiiiiiiiiitiiiiiiiiiiiiiiiiiiMtiiMiHiiiiii
+Wijziging der Depositorente.
+Met ingang van heden wordt de
+rente-vergoeding vastgesteld als volgt:
+Met n dag opzegging ... 1% pCt
+(Bedragen tot ƒ20.000 zijn terstond
+betaalbaar)
+Met 10 dagen opzegging . . 2 pCt
+Voor andere termijnen op nader
+overeen te komen voorwaarden.
+Open en gesloten bewaargeving vol
+
+gens reglement.
+SAFE DEPOSIT-INRICHTING,
+geopend:
+op werkdagen van 8% tot 5 uur.
+beursvacantiedagen .8% .4 ,
+Loketten van ƒ2.50 per maand (ƒ10.
+per jaar) en hooger te huur voor bij
+de Directie bekende of geïntroduceerde
+personen.
+Amsterdam, 17 April 1915.
+Slinduril Hipothiikbink, ti RoHirdini n"
+
+
+r
+Directie: Mr. H. H. O. 0»stendfl* enJhr. ||
+H. F. Behnnrbeqne Boeye.
+De Bank verstrekt gelden onder
+eerste hypothecair verband en
+geeft 5 *&gt; PANDBRIEVEN
+uit onder controle van het
+Algemeen Administratie
+nTrust_ kantoor te Rotterdam.
+De Hollandsche Voorschotbank
+HAARLEM, JANSWEO 42.
+Bijkantoren: Amsterdam, Damrak 99.
+Rotterdam, Wijnhaven 129a.
+'s-Gravenhage,Ged.Burgw.38
+Maastricht, Breedestraat 24.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van ƒ 5OO
+en verkoopt 4% pCt. schuldbrieven in
+stukken van ƒ1000, ƒ500, ƒ 100 en ƒ 50.
+Rott. Hypotheekbank T. Nederl.
+Volteekend Maatsch. Kapitaal ƒ 5.000.000
+Reserve ƒ645.279.84
+Geeft geld op eerste hypotheek zon
+
+der vooruitbetaling van rente. Inlich
+
+tingen te bekomen ten kantore der
+Bank, Gedempte Bierhaven 25, of bij
+hare Agenten.
+De Directie: Mr. W. v. ROSSEM,
+Mr. TH. REEPMAKER, Mr. N. P. C.V.WIJK
+UI De Haarleisclie
+, Stand l Jan 1915:
+KAPITAAL:
+ƒ3.000.000.
+RESERVES:
+/
+250.000.HYPOTHEKEN:
+/17.123.103.26
+PANDBRIEVEN
+ƒ
+16.954.100.5 O/ UITLOOTBARE
+/ PANDBRIEVEN
+l ~ in stukken van
+/w f5000.—, f 1000.
+en f500.—(halfjaarcoupon
+Januari—Juli) en f 100
+(jaarcoupon Januari). Ver
+
+krijgbaar ten kantore der
+Bank (Ged. Oude Gracht 65)
+en door alle Commissionnairs
+in Effecten.
+gevestigd te Utrecht,
+verstrekt credieten op billijke voor
+
+waarden. Geeft Schuldbrieven uit ren
+
+tende 41/3 pCt. in stukken van ƒ1000,
+ƒ500 en ƒ100. Koers van uitgifte
+98 pCt. De Directie
+CORNS. LOEFF.
+VORMEN
+Een Handboek voor Dames.
+BEWERKT DOOR
+JOHANNA. VAN WOUDE.
+
+Het nieuwste en volledigste handboek der Etiquette.
+In prachtband ƒ 2.5O. In satijn ƒ 2.9O.
+
+uitgave van VAM H O L KEMA &amp; WARENDORF, Amsterdam.
+
++++*+++*f 4-4-04-04+ ••••••4-4-f •••••+
+Maatschappelijk Kapitaal f 50,000,000. - Reservefonds 18.813.613.
+
+Hoofdkantoor AMSTERDAM.
+
+Agentschappen te 's-GRAVENHAGE en ROTTERDAM.
+
+Vestigingen te het Oosten i Batavta, Soerabala, Samarang, Bandoeng,
+Weltevreden, Cherlbon, Ttgal, Pekalongan, DJember, Solo, Djokjakarta,
+Tjilatjap, Padang, Medan,, Teblng-TInggl (Dell), Tandjpag Belel,
+KotaRadja, Palembang, Telok-Betong, Pontlanak. Bandjeraasfn, Makaasar,
+Singapore, Penug, Rangoon, Hongkong en Shanghal.
+In- en Verkoop van Wissels en Telegrafische Trans
+
+ferten. Incasseeringen en Financieringen.
+Schriftelijke of Telegrafische Credieten.
+BeiscredietbrieTen. Deposito's.
+BekeningenConrant. Administratie van Effecten en alle
+andere Bankzaken.
+C IIEI&gt;IET\ KUIEI^ÏOOfC*
+OPGERICHT IN 1853 AMSTERDAM OPGERICHT IN 1853
+Hoofdkantoor: Keizersgracht 877, Bijkantoor: Stadhouderskade 118
+Maatschappelijk Kapitaal f 5.000.000, waarvan uitgegeven f4.000.000
+Reservefonds f 803.000 Extra-Reserve f 130.008
+Agentschappen te Alkmaar, Arnhem, Deventer, Dordrecht,
+'s-Gravenhage, Groningen, Leeuwarden, Maastricht, Middelburg, Rotterdam,
+Tilburg, Utrecht en Zwolle.
+( met l dag opzegging 4 pCL
+UenpOSitO S, rente thans: { voor l maand vast 4V».
+( voor 3 maanden vast 4 ,
+Cheques van deposanten kunnen kosteloos worden betaalbaar gesteld
+bij alle bovengenoemde Kantoren, alwaar uitvoerig Prospectus ver
+
+krijgbaar is.
+te Arnhem.
+5 pCt. PANDBRIEVEN. HYP. LEENINGEN.
+De Directie:
+Mr. A. J. Baron VAN NAGELL VAN AMPSEN, Mr. J. F. VERSTEEVEN.
+n/ 's-Gravenhage.
+
+L Pandbrieven
+' Na 10 jaar opeischbaar a pari.
+Verkrggbaar a lOO3/„/0.
+HYPOTHEEKBANK HOLLAND-AMERIKA. Utrecht.
+O l* A\ fft HUIK VKN in stukken van f 1OO.—, f 25O.-, f 5OO.—en f 1OOO.—tegen den koers vrtn 1OI pCt.
+4* A LEVENSVERZEKERING • BANK
+
+^„AMSTERDAM"
+Direcreureiv M" N.C.M.SMITS «n OUEfl. - JLJBONNmE.. Adj Dir DA.AE.IJELTS.
+5 %Verzekerde pandbrieven
+der M.V. DE CREDIET-HYPOTHEEKBANK .te 's-Gravenhage,
+Noordeinde 43, waarbij elk bedrijfsrisico der Bank voor.de houders is gedekt,
+zijn verkrijgbaar a 99 pCt. in stukken van
+/"1OOO.—, /SOO.—en ƒ100.—.
+De Directie:
+G. J. VAN INOEN. Mr. H. VAILLANT.
+EEN AMUSANT JBOEK
+BARBAROSSERIE,
+Een bundel met de beste tooneelkritieken van dezen humorist-satiricus.
+Ingenaaid ƒ0.90 Gebonden ƒ 1.25
+Omslag en band van LOUIS RAEMAEKERS. - Oitgave van VAN HOLXEMA &amp; WARENDORF, A'dam.
+
+</text>
+<image timestamp="2002:08:21:12:47:46.00" size="401719">D40001RI.TIF</image>
+</page>
+</document>

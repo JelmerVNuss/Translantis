@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940304</Datum>
+<Pagina>4</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 871
+roemden landschapschilder Fontanesi te Turijn,
+en kunstcriticus van de Gazetta Piemontese; en
+in z\jn nieuwe carrière bleef hij aan zijn kunst
+getrouw. Voor een reuzenwerk als dit, de recon
+
+structie van Leonardi's manuscripten, was
+Piumati misschien de meest geschikte persoon; hij
+bezit toch, by volharding en moed, zoowel den
+aesthetischen aanleg als de kennis van het oude
+Italiaansch en van de technische bijzonderheden.
+die voor de taak noodig is. Sabachnikoff heeft
+hem met onvermoeide offervaardigheid geholpen,
+hem het werk gemakkelijk gemaakt en de
+noodige stappen gedaan, zoodat beiden vol geest
+
+drift met het eervolle werk voortgaan.
+Piumati is ook door de Italiaansche regeering
+in plaats van den overleden Govi voorgedragen
+voor de Academia dei Lincei en belast met de
+door dezen aangevangen uitgave van den Codex
+Atlanticus uit de Ambrosiaansche bibliotheek.
+
+De opleiding der académiciens.
+Naar aanleiding van den twist tusschen den
+heer Brunetière en de journalisten, van wie hij
+allerlei leelyks gezegd heeft en die het hem met
+woeker teruggeven, heeft Figaro eens willen
+weten, waar het meerendeel der académiciens hun
+opleiding genoten had. De Ecole normale telt
+er acht leerlingen: Duruy, Jules Simon, Boissier,
+Mézières, Hervé, Lavisse, Challemel-Lacour en
+mgr. Perraud; de section des sciences der Nor
+
+male n: Pasteur; de tócole Polytechnique twee:
+Bertrand en de Freycinet; de Ecole na vale n:
+Pierre Loti; de rechtsgeleerde faculteit negen:
+Emile Olivier, Léon Say, hertog de Broglie, graaf
+d'Haussonville, Rousse, Thureau-Dangin, Henri de
+Bornier, Camille Doucet en Ludovic Halévy;
+samen een-en-twintig.
+Wat de overigen betreft, Alexandre Dumas
+heeft alleen op kostschool gegaan en is zelfs geen
+bachelier; Coppée evenmin, hij is vroeg van school
+gegaan en op kantoor gekomen; Sardou is als
+apothekersleerling begonnen; Henry Mrilhac was
+tweemaal gedropen voor de polytechnique en is
+toen in een boekwinkel gekomen; Pailleron en
+Sully Prudhomme zijn notarisklerken geweest.
+Leconte de Lisle heeft nooit school gegaan; de
+Vogüen Pailleron hebben alleen eene bijzon
+
+dere school bezocht.
+Uit de scholen in de provincie zijn afkomstig
+Pasteur, Jules Simon, Loti en de Freycinet; uit
+het buitenland Cherbuliez, die te Bonn en te
+Berlijn gestudeerd heeft. AI de anderen hebben
+te Parijs hun studiën gemaakt of voltooid, vijf
+aan het »Lycée Condorcet;" zesaanhetLycée «Saint
+Louis"; zes zijn leerlingen van »Sainte Barbe"
+en zes van »Henri IV", enz. Heel arm zijn ge
+
+weest Jules Simon, Sardou, Pasteur en Emile
+Ollivier.
+
+De Revue de Paris.
+Ferdinand Brunetière, de académicien en gees
+
+tige bestrijder van het naturalisme, heeft veel
+vijanden, vooreerst uit jaloezie op zijn redacteur
+
+schap van de Revue des deux mondt f, voorts door
+den tegenstand dien zijne benoeming bij een deel
+der aandeelhouders zelf, waaronder Pailleron, ge
+
+vonden heeft, en eindelijk door de oneenigheid
+die hij nu juist weer met de journalisten gehad heeft.
+Men wil van dit oogenblik gebruik maken om eene
+concurreerende revue op te richten en heefthaar den
+naam van de Revue de Paris gegeven, die een
+dertig jaar geleden bloeide en sedert onderging.
+Het eerste nummer (bij Calmann Lévy) is schit
+
+terend; het bevat o. a. de volgende bijdragen:
+Balzac (nagelaten) Lettres a »l'Etrangère" (pre
+
+mière partie). Loti, Au Couvent de Loyola.
+Renan, (nagelaten) Philon d'Alexandrie. Gyp, Le
+Mariage de Chiffon (première partie). Magnard^
+La Eésurrection d'un légende. d'Annunzio.
+Episcopo et Cie (première partie). Faguet, Ferdinand
+Brunetière. Jusserand, Le Roman d'un roi d'Ecosse.
+Séailles, La Peinture de portrait. Voor de vol
+
+gende afleveringen zijn bijdragen beloofd van
+Bourget, Claretie, Daudet, Dumas tils, Krance,
+Gyp, Halévy, Meilhac, Rabusson, Sarcey, Sardou,
+Tinseau en anderen.
+
+José-Maria de Heredia.
+Het nieuwe lid der Académie is een Cubaan
+van geboorte en eerst sedert een paar jaren in
+Frankrijk genaturaliseerd. Hij is alleen bekend
+als dichter van Les Trophéef, een bundel schit
+
+terende en onberispelijke sonnetten, die allen reeds
+lang vóór de verschijning in manuscript circu
+
+leerden, bewonderd en van buiten geleerd werden.
+De Académie heeft met Boileau gevonden, dat
+»un sonnet bien tournévaut seul un long poème";
+zij heeft met 19 stemmen de Heredia gekozen.
+Er moesten twee fauteuils gevuld worden, die
+van Taine en de Mazade. Zola heeft het ditmaal
+tot 11 stemmen gebracht. Een volgende maal
+denkt men dat Paul Bourget zich tegenover hem
+stellen zal; in dat geval zou Zola's kans allicht
+niet beter worden, maar er komt dan weer een
+andere zetel te vervullen, die van Maxime du
+Camp.
+José-Maria de Ileredia is 52 jaar oud; hij
+heeft twee talentvolle dochters.
+
+Het geslacht Occo.
+Bij de firma C. J. van Langenhuyzen te Am
+
+sterdam verschijnt: »IIot geslacht Occo en Het
+gebouw van Barmhartighf id te Amsterdam/' door
+Bern. J. M. de Bont ("Met een portret, wapen
+en facsimile). In dit gebouw, de weldadige stich
+
+ting van Vrouwe Maria Gilles, geb. Occo, worden
+de portretten van eenige leden uit dit in onze
+stad eertijds zoo beroemde geslaeht bewaard, die
+den schrijver aanleiding hebben gegeven om hun
+geschiedenis op te sporen. Als verwante familiën
+worden genoemd Alkemade (Roest van),
+Alkesteyn (van), Berghen (van den), Buyck, Brunt,
+Bam, Barbou, Boelens, Banning, Bouckart,
+ISenninck, Cirksena, de Coninx, Dommer,
+(linderdeuren (van), Gilles de Pélichy, Groenewegen
+(van), Horst (van der), lleermale, Hooch (van
+der), Hollesloot, Jonghe (de), Marcus, Opmeer,
+Ruysch, Schaep, Sillingh, Susteren (van), ensini,
+"VVuytiers (Barchman), Wal e (do), Xuylen (van)
+enz. enz. Voor al deze familiën is dus »llet
+Geslacht Occo" van belang.
+
+Bibliographie.
+Van het tijdschrift Taal- en Letteren (uitgave
+van W. E. F. Tjeenk Willink te Zwolle) bevat
+aflev. I 1894 onder anderen: J. H. van den Bosch,
+Paraphrase (naar Staring) Hulpwerkwoorden en
+Een dichterziel (da Costa); Dr. R. A. Kollewijn,
+oer humor; Dr. F. A. Stoelt, Hielbeslag en Van
+den os op den ezel, enz.
+
+Dr. C. H. A. Westhoff, oogarts te Amsterdam,
+heeft van eene Duitsche brochure van Dr. O.
+Eversbusch te Erlangen, De verzorging van het
+oog in huis en huisgezin, bij de firma Scheltema
+en Holkema een vertaling doen verschijnen.
+iinniHiiiintuuiinimiMiMiiMtiuiiiii
+ETLNSCHAP
+Een Handboek
+voor het
+Socialisme.
+Handbuch des Socialisii'us, von Dr. JÜR.
+CAKL SÏBGMAKN und Dr. PUIL. C. HUGO.
+Zürich 1S'J4. Verlags-Magazin J.
+Schabelitz. 1) (Erscheint in 7—8
+Lieferungen).
+Wie tijdgenoot wil blijven, moet zoowel de
+Geschiedenis van het Socialisme, als de verschil
+
+lende stelsels waarin 't zich geopenbaard heeft
+en nog openbaart, bestudeeren, Maar dat is niet
+gemakkelijk: want de uiteenloopende socialistische
+beschouwingen zijn in ontelbare boeken, brochures,
+tijdschriften en bladen verspreid. Eene
+alphabetische rangschikking van al die socialistische
+literatuur te geven is het doel van het bovenge
+
+noemde boek. Daarmede is de bedoelde onge
+
+makkelijkheid weggenomen.
+De bewerkers hebben het woord socialisme in
+de uitgebreidste beteekenis opgevat en daaron
+
+der verstaan alle stelsels, welke eene op collec
+
+tief eigendom berustende maatschappij bedoelen.
+Zoowel het communisme van Weitling, als het
+atheïstische anarchisme van Bakounine, zoowel
+het christelijke socialisme van Ketteler als de
+droombeelden van Fourier en de Utopia vau
+Morus behooren daartoe.
+Veel heel veel behandelt dit boek: de
+Fransche socialisten Meslier, Morelly, Nably,
+Boissel, Gracchus Baboeuf, St. Simon, Charles
+Fourier, Louis Blanc, Cabet; de Engelsche
+socialisteu John Bellers, Robert Wallace, Thomas
+Spence, William Godwin, UobertOwen; de Duit
+
+sche socialisten Ford. Lassalle en Karl Marx;
+do anarchisten Max Stirner, Proudhon,
+Krapotkine, Louise Michel; de christen-socialisten
+van Frankrijk, Engeland en Duitschland: Le Play,
+Lamennais, Kingsley, Maurice, Ketteler, Huber,
+Stöcker; de communistische ideeën van Plato,
+de »Utopia-' van Thomas Morus; de »civitas
+solis" van Campanella en de nieuwe denkbeelden
+van Hertzka en Bellamy.
+Van critiek op de aangehaalde socialistische
+stelsels hebben de schrijvers gemeend zich te
+moeten onthouden. Terecht! Een handboek
+critiseert niet; het is juist een leiddraad voor
+critici; het moet de taak van dezen vergemakke
+
+lijken.
+Wat is Socialisme? Hoe was zijn ontwikkeling?
+daarop antwoorden de schrijvers van dit handboek.
+En ieder belangstellende in den proletari
+rsstrijd mag niet verzuimen er kennis mede te maken!
+GEUAI;I&gt; (i. LiiXRKi.jxii.
+Amsterdam, 22 Februari 1894.
+1) Onder den titel ,,Handboek van het Socia
+
+lisme" in 't Nederl. bewerkt door Socius en
+uitgegeven bij J. F. Sikken te Amsterdam.
+tfiiiiMiMiiiiiiiiiiiMitiimiiiMiiiiiiiiiiiMiiinuitiuiitiimiiuiiiiHnniiuiiiiiiiii
+Indische
+warongpraatjes.
+{Particuliere &lt;orreyotn/eti/ii'.)
+II.
+Voor iemand, die niet zoodanig door zaken"
+in beslag wordt genome)), dal er in zijn brein
+plaats overblijft voor natuurindrukken,isde Indische
+morgen eeue bron vau nimmer eindigende genieting.
+Het, vormt zulk een grooteu factor iu de levens
+
+beschouwing of men zijn pad door eeu lusthof ziet,
+voeren, dan wel of men zich de grootste helft, van
+zijn dagen moet opsluiten iu eeu duf vertrek l
+Wat, mij betreft, ware de Oost, ook iu andere
+opzichten niet reeds de sleutel geweest van ecu
+moeielijk oplosbaar maatschappelijk vraagstuk,
+hadden de palmen mij met huuue kruinen uiet
+reeds daarom vriendelijk toegewuifd, ik zou inde
+bewondering der goddelijke natuur eene reden
+gevouden hebben om liet mij i iet te beklagen mijne
+huisgoden over de oceaan te hebbeu weggevoerd
+u;t het geboorteland.
+
+Door mijn //zaken" voorloopig in ecu van Java's
+allerschoonste streken vertoevend, is het, mij eeu
+genot te dwalen door de woeste landschappen, om
+
+geven door heesters eu groen, steile hellingen 1e
+beklimmen om daarna weer af te, dalen in diepe
+ravijnen, hier 111 ecu bosch de zoi.nosiraleu viiedend,
+ginds weer op eene helling totveud, om de
+bergstroorn uit eeu afgrond te zien te voor-chijn treden,
+met, weeldeng afhangend groen lau^'.s de booiaien,
+ruisehend eu kabbelend tusselien de groote s1eei.cu...
+De natuur op Java is zuiver /,&lt;&lt;//?/••/•, vandaar
+dat vergezichten er emtoiiig zijn. (leen kerkto
+
+ren, ka'-tcel of ruiue geeft een rustpunt aan het
+oog, de witte bergtc-ppeu van X.witserland zijn aan
+ludiëvreemd, de blauwe meren zeld/.aam. 't Is
+alles groer, wel is waar afwisselend vau het ern
+
+stig donkergroen der bosschen tot de liefelijke tint
+vau het lentegroen', wel is waar op grooteien af
+
+stand zich badend in dat bhaiwac! ticc v.aas. dat,
+aan de gausche tropische nu'uur iets drootueriis
+geefti maar 't, is er mee als nu-t de zee.
+Hoe afwisselend de tinten on schakeeringen ook
+mogcu zijn, het oog s!aart verlangend naar deu
+horizon of er ook een scheepje verschijnt, waarop
+het kau rusten, zoo niet dan blijft de zee een on
+
+bevredigde wensch, eeuo onvoltooide idvlle.
+Wat echter ruim-.choots opweegt tegen deze
+eentonigheid van het geheel, is de eindelooze af
+
+wisseling der détails. Behalve dat ieder punt, waar
+men toeft, nieuwe gezichten op heerlijke land
+
+schappen biedt, met telkens nieuwe kleuren en
+schikeeringen, is de plantengroei op zichzelf zoo
+vol verscheidenheid.
+Reeds aangenaam gestemd door de frischheid die
+van het gebladerte uitstraalt, staart de wandelaar
+in verrukking naar de ongedwongen sierlijkheid,
+naar de groote keuze iu vorm, die de natuur aan
+den dag legde bij den bouw van iedereu boom,
+iedereu heester op zichzelf. Slechts eenige voor
+
+beelden :
+Is de bamboestruik niet gelijk aan eene coquette
+jonkvrouw, met hare trillende blaadjes en elegante
+stammen? Spreekt uit hare houding geen behaag
+
+zucht als zij, juist waar het pad langs een riviertje
+voert, in bevallige ronding eenige stammen doet
+overhellen, om aan den anderen oever iu het groen
+te verdwijnen ?
+Doet de jonge klapper niet deuken aan eene
+trotsclie schoone, wanneer de waaiervormige
+takkeu zich naar alle zijden ombuigen in het bewust
+
+zijn van hunne onweerstaanbaarheid ?
+Eu staat de logge dj-ttieboorn daartusscheu niet als
+een goedige reus die zijne kinderen wil beschermen?
+oo toovert iedere boom, iedere heester, iedere
+plant, weer andere beelden en indrukken, van af
+de bescheiden varen tot den nooit volprezen
+warinjin, den heiligen boom met zijn luchtwortels;
+alles is afwisseling, alles poëzie!
+Den wijsgeer geeft die natuur stof tot nadenken
+en studie. Wijst het geheel uiet op eene leidende
+gedachte, die aan al dat oubewerktuigde teu grond
+
+slag ligt, ?
+Zouden de haren van den kokospalm slechts
+toevallig zoo veelsoortig zijn, zou de bamboe, dat
+bouwmateriaal bij uitnemendheid voor den
+natuurmensch, uiet door eene denkende macht daar zijn
+geplaatst ?
+Is het, aan de andere zijde, slechts eene speling
+van het lot, dat de gevaarlijke mangga, evenals de
+pruim iu Europa, door de bevolkiug wordt ver
+
+slonden, juist in den tijd dat de cholera door de
+langdurige droogte tot ontwikkeling kan komen ?
+Z,iet, dat zijn zaken, waarin men verband kan
+zoekeu. verschijnselen die het zware gordijn doen
+trillen, dat ons scheidt van de beantwoording der
+universeele vraag, die reeds zoo d.kwijls vergeefs
+werd gesteld : wat is ons doel, wat is het doel
+der schepping ?
+Zooveel is zeker, dat de inboorling n geheel
+vormt met de natuur, dat hij zich uiet, zooals de
+beschaafde somtijds wil, beschouwt als meester.
+Hij blijft zijn rol vervullen als een rad in het
+uurwerk, zonder zich op te heffen uit het geheel,
+hij is de eerste dienaar der natuur eu verbeeldt
+zich niet dat de natuur er is voor zijn bestaan
+alleen.
+Indien hij zich tenminste iets verbeeldt. Ik be
+
+doel dan ook meer dat hij er hi t toonbeeld van
+is, dat de menseh zich niet te veel moet aanma
+
+tigen.
+Zooa's we daar de vrouwen om deu warong
+zien staan, wijzen zij er uiet bepaald op dat hnnue
+bestemming, als individu, voor het, hoogere is. De
+platte gezichten herinneren aau zt kere diersoort,
+en .... ik geloof uu niet dat ze, zoo oneindig ver
+boven den aap verheven zijn, daar het toch schijnt
+bewezen te zijn dat er aapsoorteu zijn met eeue
+taal van 200 woorden.. . .
+Er zijn jonge vrouwen bij de praatsters en oude.
+Ilare kleedij is slordig. Ecu versleten saroug met
+een dikwijls scscheurd blauw baadje, vormen in
+den regel haar eenigen tooi.
+De huidkleur der oudere is gerimpeld en leelijk,
+die der jonge vrouwen is, wanneer ze niet teveel
+in de zon hebben geloopen, van een zachtbroiis,
+dat bij een onpartijdig beoordeelaar wellicht, de
+concurrentie met het ewig wcibliche" van ons
+westelijk licht rose zou kunnen doorstaan. Dikwijls
+echter hebben zij, tengevolge van zwaren arbeid
+iu de zon, vlekken op aauiezicht, schouders eu
+armen, die haar alle bekoorlijkheid ontnemen.
+Ivomt de lichaamsbouw ter sprake, dan durf ik
+mij, uit beleefdheid tegeuover onze maatschappij,
+niet te prononceeren over eeue vergelijkende
+beoordceling.
+intellectueel is de iulandsche vrouw er treurig
+aan toe, van onderwijs is bij haar geen sprake, van
+conversatie met de sterkere sexe weinig. Beschei
+
+den leeft zij in liare onderworp; jilieid voort, ge
+
+wend dat iu alle opzichten over haar wordt be
+
+schikt. Hut //zwijgend zich ten oll'er wijden''wordt
+haar door den adat, voorgeschreven.
+Hare positie teekent het volkskarakter, we ko
+
+men hierop later terug.
+FABIAX.
+
+B»miiiiiimiiimiiüiinniimni.mnimm(iiMmnii?ti!ni»rMiii&gt;iinuimiiMitt
+-.-^'&lt;527~^^^J=ï=;'"'i""~:y
+^gWr^nS^H^
+_ _
+VOd
+A M E S .
+Dan/ets-studcHtcti. Lm ndc ornamenten.
+Mode. Th-:ctMi.tten.
+
+De vorige weck vermeldden wij oen artikel
+van ('arl Vogt. over do ijtiacntie der stndontinnen
+in Zwitserland: het berustte voor oen doel op
+oen artikel van prof. Laskow.-ki in do AVn&lt;c
+«^c.'t'/if.'/"/'"1! waarin vermeld werd, dat van do
+17"&gt; dames-studenten in do ni"diciji on. die iu do
+laatsfo 17 jaar te Gonèvo waren ingeschreven,
+slechts l l gepromoveerd waren. Van do/.e l l
+hadden tweo do medicijnen -verlaten en waren
+getrouwd , vier konden slechts met moeite in
+hun levensonderhoud voorzien", drie hadden oen
+redelijke praktijk, van. 161 -heeft men niet Kun
+
+nen vernomen waar zo gebleven zijn, maar men
+kan vermoeden in welke afgronden zo hebbon
+schipbreuk geledon.
+Kon gewezen collega van prot. Laskowski komt
+hier tenen op. II; t is prof. Dr. ^\'ilh. L
+wentlml te l.ansamie; hij schrijft:
+Wiir.noer dozo opgaven ook al volkomen juist
+mochten zijn. ze hebben toch niet de geringste
+waarde om er de iniaestio vau bet studooren dor
+vrouwen naar te booordeelen. Zij be\\ ijzen alleen
+opnieuw met welk een lichtvaardigheid statistische
+gegevens behandeld worden, zoo, dat de daaruit
+getrokken conclusies voor den oppervlakkigen
+lezer als »nagecijferd" schijnen en hem
+imponeeren moeten; terwijl zij in werkelijkheid niets
+anders zijn dan losse vermoedens. Eenige op
+
+merkingen zullen dit duidelijk maken.
+Wat de twee getrouwde en de vier die met
+moeite hun levensonderhoud verdienen betreft,
+dit is van geen beteekenis. Want ook doctoressen
+zijn, voor zoover ik weet, niet tot den ongehuwden
+staat verplicht, en dat de praktijk niet terstond
+gouden bergen brengt, dat moet ook bij manne
+
+lijke dokters wel eens voorkomen. De voornaamste
+kracht van het argument zal wel zitten in de 1(51,
+die, naar men beweert, haar studiën niet vol
+
+bracht hebben, dat wil zeggen van wier verder
+lot men niets weet, en waarvan men dus maar
+meent te mogen veronderstellen, dat zij in »men
+kan zich voorstellen welke afgronden hebben
+schipbreuk geleden." Hier komt weer de erger
+
+lijke lichtvaardigheid aan den dag. Want fei
+
+telijk leveren de gegevens dit op, dat van
+de 175 studentinnen, 14 hare studiën te
+Genève hebben voltooid, en Kil vóór het voltooien
+van haar studiën de universiteit van Genëve ver
+
+laten hebben, meer niets. Wat geeft nu recht
+tot de conclusie dat deze 1G1 schipbreuk gele
+
+den hebben ? Hoevelen van deze 161 kunnen en
+zullen hare studiën ergens anders, in Zwitserland,
+te Parijs, in Rusland, in Engeland voltooid heb
+
+ben ? Toevallig ken ik persoonlijk verscheidene
+studentinnen uit Genève, die later te Parijs heb
+
+ben gestudeerd, en ik heb van eene geheele reeks
+Russische meisjes gehoord, die zeven of acht jaar
+geleden Genève hebben moeten verlaten en naar
+de Russische universiteiten moeten terugkeeren,
+omdat de Russische regeering het verder vertoe
+
+ven van Russische studeerenden in Zwitserland
+en met name te Genève met alle middelen
+bemoeilijkte (waarschijnlijk wegens het groote
+aantal nihilisten die zich toen juist te Genève op
+
+hielden). Xu warenjuist(zooalsookLaskowskizpgt)
+verreweg de meeste studentinnen te Genève
+Russinnen. Eindelijk moet men bedenken, dat
+sedert eenige jaren Parijs een groote aantrek
+
+kingskracht op de studentinnen, die Fransch
+spreken (dus ook op de Geneefsche) uitoefent,
+vooral daardoor dat het internaat in de hospitalen,
+vroeger voor haar niet toegankelijk, nu voor baar
+geopend is. Uit dit alles mag men dus veelmeer
+opmaken dat het meerendeel der 161 dames van Ge
+
+nève hare studiën eenvoudig ergens anders hebben
+voortgezet, dan maar aan te nemen dat ze «schip
+
+breuk hebben geleden''. Maar zelfs als de
+statisticus zijn onderzot kingen zoover had uitgestrekt
+en bewezen, dat de 161 niet hare studiën hadden
+voltooid, dan moest men nog vooral nagaan wat
+voor volkje dan wel die 161 geweest waren. Men
+zou dan vinden, dat in het jaar 1877, waarmee de
+statistiek begint, de medische faculteit te Genève,
+pas opgericht, met uitstekende leerkrachten en
+alle hulpmiddelen voorzien, ook bare poorten
+op du liberaalste wijze voor de geheele wereld
+opende. Zoo bedroeg bijv. het inschrijvings
+
+geld maar n franc; de toevloed was daardoor
+in de eerste jaren heel sterk en vooral van
+den kant der dames een weinig gemengd. Hoe
+
+vele van die 161 Russische meisjes slecht voor
+
+bereid waren, hoevelen zich maar lieten in
+
+schrijven als gezellinnen van de talrijke in Gonève
+verblijvende voortvluchtige Kussen, is niet ge
+
+bleken. Zeer vele van deze meisjes heeft het zeker
+aan geld, aan lust, en zelfs aan eenige bedoeling
+om hare studiën voort te zetten, ontbroken. In
+
+dien men dus niet weet, wat er van die 161
+geworden is, kan dit volstrekt niet dienen om
+over de waarde van de studie voor do vrouw,
+voor bot goed voorbereide, met ernstige bedoe
+
+lingen studeerende meisje, een afkeurend oordeel
+te vellen."
+* *
+De Braziliaanscbe kevers, die in bet begin van
+den winter te Parijs als porte-lotJieur gedragen
+werden, waren althans dood; in Amerika draagt
+men tegenwoordig levende dieren als versiersel.
+Het zijn een klein soort hagedissen, die evenals
+het kameleon en do diamant, van kleur verwis
+
+selen. Men doet bun een klein gouden of zilveren
+ringetje om het middel, bevestigt dit aan een
+kettinkje en draagt ze zoo, als broche of dnsspeld
+gemonteerd, zooveel dagen als ze lint uithouden.
+Voor de winkclramcn ziet men ze in doosjes
+liggen, op watten spartelend, geprijsd als ringen
+of potlooden. De onwetende, die op don schouder
+van zijn danseuse een klein gediorte, rose en
+groen genuanceerd, ziet dartelen, wil hot weg
+
+knippen, maar bemerkt spoedig, dat het kapsel of
+de armband van do dame van dergelijke gedierten
+wemelt, ziet zijn dwaling in en maakt zijn excuus.
+In n der winkels van Broadway hooft men
+voor de dieren oen groote glazen kooi gemaakt,
+waar een schoteltje suikerwater voor hun i.
+derhoud dient. Men kan zo daar zien hoen en weer
+schieten. In do bcginns; w;is de prijs oen dollar,
+maar er werdou er spoedig zooveel aangevoerd
+dat zo tot oen kwartdoliar daalden; tegenwoordig
+wordt de koers dagelijks door vraag en aanbod
+geregeld. Zo komen uit Klorida: do kooplieden
+beweren, dat de hagcdisjes aan de vochtigheid
+dor lucht en do microcopische diertjes die daarin
+zweven, genoeg' Lobben om van te leven Zeker
+is het, dat zij. ganselie balnachten aan deu hals
+eener schoont! slingerend, nadat zij toch ree,Is de
+reis gemaakt hebben, on oen lijd in den winkel
+hebben doorgebracht, nog verscheidene dagen in
+loven kunnen blijven on hun glans behouden.
+* *
+liet eigenaardige van do tive o'clock tea's. on
+misschien een dor redenen waarom zo zoo in
+gunst blijven, is do gelegenheid die ze bieden
+om in iodor toilet te komen. De gastvrouw
+draagt een ontvang-toilet, zoo prachtig &lt;&gt;;' een
+
+voudig als zo zelf wil, maar !:o;'.-,t niet al te
+schitterend; ook kan zij oen Kngelsehe toa-gowil
+nomen, of oen moor huiselijk uitziende; robe
+princesse, van iluwocl mot bont. van zijde met
+liralenborduursel. zelfs van laken of ebeviot.
+Haar dochters, nichten of vriendinnetjes, die aan
+Int tlieeschenkt u helpen, dragen lichte japon
+
+netjes ot blouses mot lichten of tluwoelen rok;
+ook zijn hierbij elegante scliorijcs,
+souhreitoboezolaartjes van kast on lint, niet uitgesloten.
+Maar de gasten, liet aangewezene is
+visite
+</text>
+<image timestamp="2002:09:03:01:30:21.00" size="428738">D100041Y.TIF</image>
+</page>
+</document>

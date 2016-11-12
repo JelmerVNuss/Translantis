@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280602</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i6
+DE GROENE AMSTERDAMMER VAN 2 JUNI 1928
+No. 2661
+*—'*—'t
+Kelvinator
+Etectr. Am. Koelkasten zon dei waterkoellng,
+zonder bediening, geheel automatisch.
+VERKOOP ORGANISATIE PALTHE
+6 Korte Vijverberg, Den Haag l Voor Amsterdam 64 Vijzelstraat
+VERWEEGEN &amp; KOK
+AMSTERDAM DEN HAAG
+KASTKOFFERS
+IN 40 MODELLEN
+PRIJZEN VAN
+f 65*~ af
+NEDERLANDSCHE NIJVERHEIDS
+TENTOONSTELLING '28
+INTERNATIONAAL
+Onder hooge bescherming van H.M. de Koningin- Moeder en Z.K.H, de Prins der Nederlanden, Hertog van Mecklenburg
+
+ROTTERDAM, STATIONSSINGEL.
+DAGELIJKSCH BESTUUR DER TENTOONSTELLING.
+B. C. D. HANEGRAAFF, Algemeen Voorzitter.
+F. F. H. van GHEEL QILDEMEESTER, Gedelegeerd Lid van den Raad van Beheer,
+J. CH. STERK, Algemeen Penningmeester.
+J. SCHOON, Afd. Expositie.
+J. C. WILBRENNINCK, Secretariaat.
+P. N. GAANDERSE, Pers en Propaganda.
+
+'
+J.
+Afdeeling Vervoer'
+Wat wil de Nenyto '28 ?
+Een zoo retrospectief mogelijk beeld
+geven van den stand der Nijverheid ten
+tijde der IXe Olympiade
+Waar kan de Nederlandsche Nijverheid met haar groote en grootsche
+praestaties beter voor den dag komen dan juist in Rotterdam?
+Mr. Dr. J. WYTEMA,
+Burgemeester van Rotterdam.
+
+Ik hoop, dat de onderneming in ieder opzicht een groot succes moge
+zijn en de moeite moge loonen van hen, die er hun arbeid aan geven.
+Dr. A. R. ZIMMERMAN,
+oud-Burgemeester van Rotterdam.
+
+Ik geloof, dat inderdaad alle factoren aanwezig zijn om de Nenyto
+'28", te doen slagen en vertrouw, dat Rotterdam niets onbeproefd
+zal laten om deze sympathieke uiting van economische activiteit
+tot iets grootsch te doen worden.
+D. G. VAN BEUN1NGEN,
+Directeur der Steenkolen-Handelsvereeniging.
+Het valt te verwachten, dat de Nenyto'28" een gedenkwaardige
+gebeurtenis zal zijn in de geschiedenis van de ontwikkeling der
+Nederlandsche Nijverheid. J. C. VEDER
+Voorzitter van de Kamer van Koophandel
+en Fabrieken te Rotterdam
+
+. . .zelden zal een zoo goede gelegenheid bestaan voor het bewerken
+van buitenlandsche markten, als door deze tentoonstelling op eigen
+bodem wordt geboden. JAN SCHILTHUIS,
+Voorzitter van het Dep. Rotterdam van de
+Nederl. Mij. voor Nijverheid en Handel.
+
+Ongetwijfeld zal een groot aantal industrieelen niet alleen uit eigen
+
+en landsbelang, maar ook uit het oogpunt van nationalen trots deze
+breed opgezette Tentoonstelling steunen en doen slagen.
+Ir. J. VAN DUSSELDORP,
+Voorzitter der Vereeniging ,,Nederlandsch Fabrikaat".
+DE GULDENSLOTER1
+der Nederlandsche Nijverheidstentoonstelling 1928" (Internationaal)
+met waarborgen als nimmer geboden!
+LAATSTELIJK GOEDGEKEURD BIJ KONINKLIJK BESLUIT VAN 27 DECEMBER 1927
+Prijzen tot een totaal van Honderd Duizend Gulden
+
+</text>
+<image timestamp="2002:09:04:17:20:57.00" size="107505">000006MF.TIF</image>
+</page>
+</document>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270903</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+KEIZERSGRACHT 333
+AMSTERDAI^- CENTRUM
+CSAURHzn.
+HOFLEVERANCIER
+ROION 134 over de Ned. Buk
+Tekfoon 40240, 49971
+Ifwerken
+Vischrestaurant
+en Vischhandel
+Vlug, net, billijk.
+Speciale inrichting l
+
+CAPI
+vooir
+TELEFOON 37&gt;6&lt;
+F. Z U R C H E R
+rQNNAGEPABRIEKenDRUKKERIJ
+SGRACHT64-66~68~70-72,AMSTERDAM
+115
+KALVEB8TRAAT
+115
+&amp;RMRAMPEN 1925-27
+Verzeker Uwe eigendommen:
+Fabrieken, Woon- en Winkelhuizen,
+Inboedels en Goederen»
+Vraagt onze concurreerende tarieven*
+r &lt;kr. 29| millioen Golden.
+Gen. Ag. afd. Storm"
+
+A.D.BEERENDS6VEEREN
+AMSTERDAM
+LEEÜWABDEN.
+DE BESTE VARINAS
+in
+extra tichte kwa//te/t.
+Meubelmagazijn Eden"
+MOLSTEEG - AMjSTERDAM
+
+-OEKENKASTEN
+CASPERS 6 Co.
+ij Ameublementen Stoffeerderij
+oderne Landhuisstoffen en
+Oud-Hollandsche Meubelen ^
+•GRACHT 13, Telefoon 37354
+KROONPUPEN
+
+WCISWTERDOOZEN
+VANÓSTIKS
+N.V.U./V.KL005TECHIJI5
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+|TIMTUR|
+MARRIS - Utrecht
+Een
+
+Prismakijker
+verhoogt Uw genot op
+Uitstapjes en Vacantiereis
+
+De AIGLON"
+is een prima kijker;
+prijs slechts f 45.
+Levering uit voorraad.
+A* van Kempen
+WIJNHANDEL
+
+Amsterdam
+Gevestigd sedert 1810
+
+Prinsengracht 975
+TELEFOON 37706
+
+Vraagt Prijscourant
+Meubelen naar eigen ontwerpen of naar oude stalen
+
+ARNOLD HOUTSCHILT
+Singel 283
+Amsterdam
+NAAML, VENN,
+EUROPEESCH
+
+Goederen' en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLUF in
+GEHEEL EUROPA, direct aan de
+stationseer NEDERLANDSCHB
+
+SPOORWEGEN, alsmede bij IN
+
+
+FORMATIE-en REISBUREAUX
+
+verkrijgbaar.
+•*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, "Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg,
+Madrid, München, Oslo, Parijs, Praag, Rome, Stockholm,
+Warschau en Weenen.
+
+</text>
+<image timestamp="2002:09:21:17:59:16.00" size="238732">D10006SX.TIF</image>
+</page>
+</document>

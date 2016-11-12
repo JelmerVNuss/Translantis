@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261030</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSTERDAM
+
+TEGENOVER DE BEURSPASSAGE
+HOORN, LEEUWARDEN, ',-GRAVENHAGE, GRONINGEN, HILVERSUM
+
+ONZE COLLECTIE
+
+ENGELSCHE EN SCHOTSCHE STOFFEN
+
+VOOR KLEEDING NAAR MAAT
+
+MUNT UIT DOOR ZIJN GROOTE VERSCHEIDENHEID
+
+UITTREKSEL PRIJSCOURANT
+HerfstCostume...
+Demi-Regenjas..
+Winter UU
+ter....
+SmokingCostume
+Pantalon.
+70
+70
+80
+20
+78
+75
+85
+22
+50
+85
+70
+80
+25
+75
+87
+'50
+98
+27
+50
+100
+80
+95
+105
+Stalen. Modelboeken en Prijscourant op aanvrage franco
+SfETER DAWSON'S
+WHISKY
+BEST OF ALL
+\nan Straalen .M.onsieur &amp; Errkelens
+WIJNHANDELAREN
+D«a Haag - ROTTERDAM - Helder
+Leuvehaven 34
+DE NIEUWSTE MODELLEN
+VOOR
+II HERFST EN WINTER
+II VAN DE BEKENDE
+
+Ik
+KNIPPATRONEN
+HU AMSTERDAH
+EN DEN HAAQ
+UITSLUITEND
+BU ONS VERKRIJGBAAR
+PRIJZEN
+15 40 60
+HET MODEBLAD LA MODE DE PARIS"
+IS BIJ ONS VERKRIJGBAAR . . f 1.00
+^BIJENKORF
+J. P. K ARTH AUS
+Gr. Markt - Haarlem
+TELEFOON 10652
+Abonneert U op
+De Groene Amster
+
+dammer, Weekblad
+voor Nederland
+Marius Utrecht
+Hoofdvertegenwoordigster
+van de firma
+CARL. ZEISS JENA
+afdeeling Mikro
+
+
+ZEISSmicroscopen
+Alle courante
+modellen voorhanden
+J SCHIEDAM *
+J Plaatijzeren Reservoirs» Blusleidingen, J
+0 Scheeps-Tanks ^
+AUTOGENE LASSCHING
+J, W, de Jong, Muiderstr* 10, Amsterdam
+Gevestigd sedert 1851 - Telegram-Adres: UNIFORM
+Bekroond met (Amsterdam 1905)
+8 Gouden, l Zilveren en l Bronzen Medaille
+Leverancier van alle
+Burger» en Militaire Kleeding en Uitrustingen
+Handelsdrukwerk- Periodieken "Catalogi
+
+
+JUrukkenj A lantijn
+
+Amsterdam
+
+Reclamedrukwerk ~ Creldswaardig x apier
+Heden verscheen de
+
+Nieuwe en geheel bijgewerkte
+catalogus van onze uitgaven.
+Op aanvrage wordt dezen gratis toegezonden.
+
+VAN HOLKEMA &amp; WARENDORF's Uitg.-Mij., Amsterdam.
+&lt;
+4
+Gelijk de Landman
+de vaste lijnen in zijn akker ploegt,
+zoo ploegt de meesterhand van
+onze coupeurs de schoone lijnen in
+Kreymborg's Kleeding.
+
+\Vant allen, die aan Kreymborg's
+Kleeding werken, coupeurs en kleer
+
+makers, hebben een meesterhand en
+dat is het eenvoudige geheim van
+den juisten, schoonen pasvorm van
+Kreymborg's Kleeding.
+
+</text>
+<image timestamp="2002:09:26:07:48:44.00" size="150534">D100082F.TIF</image>
+</page>
+</document>

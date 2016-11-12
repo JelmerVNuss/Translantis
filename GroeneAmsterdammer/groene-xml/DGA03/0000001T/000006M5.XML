@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280526</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 26 MEI 1928
+No. 2660
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M - AMSTERDAM - Tel. 42662
+M ARMER W ERKEN
+W. H. POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+PROF.
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOH.H.v.D.MEIDBN -Amersfoort
+Ook voor de.
+HEERENWASCH
+k/nt U tegenwoordig vee/
+befer en gemakkelijker
+een
+vertrouwde wasscherij
+kiezen
+KON STOOMWASSCHERLI
+EN BLEEKERIJ
+DAALMANS
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 2.75 per kwartaal of f
+10.per jaar bij vooruitbetaling
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+mifliffliigainnmmiiin^
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ on verkrtygbur
+.N, R. V, MONTA SCHOENEN
+igmmmiiiiiiimmminniiiiiüimiiiiinniiniiiiiiinniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiiiiiiinnTiiiïiiB
+en slaa
+r
+GOUDA TEL 95
+AMSTERDAM TEL3334O
+DEN HAAG TEL7233O
+kon men drie eeuwen geleden
+bij de Inca's koopen voor hon
+
+derd cacaoboonen.
+
+Hoewel een cacaoboon in die
+tijden dus groote waarde had,
+was het cacaoproduct dat er
+van verkregen werd niet te ver
+
+gelijken met het tegenwoor
+
+dige product van de cacaoboon,
+dat de modelfabrieken van
+DROSTE verlaat.
+i,
+Kent gij DROSTE'S artikelen
+nog niet? Koopt dan eens een
+doos DROSTE'S bonbons of
+pastilles voor uw huisgenooten
+Het zal een bijzondere verras
+
+sing zijn.
+Droste Mftydweffiom
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+ƒ* A
+fe. A.
+, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO
+
+</text>
+<image timestamp="2002:09:04:17:03:44.00" size="131204">000006M5.TIF</image>
+</page>
+</document>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251128</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE^GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND i
+No. 2529
+FiRMAW. KUIJK
+CHOCOLADEMAGAZIJN
+GALERIJ 32-33 TELEFOON 36993
+
+AMSTERDAM
+Grootste sorteering
+van Binnen- en
+Buitenlandsche
+merken.
+Verzendingen
+naar alle landen.
+STOEL/S WONINGBUREAU
+BLOEMENDAALSCHEWEG N°, 161
+^BLOEMENDAAL =
+door TOP NAEFF
+
+Ingenaaid f 2.50 Geb. f 3.25
+
+De Bredasche Courant schrijft:
+Het lezen van dit boek heeft ons
+niet alleen ontspanning maar ook
+een groote literaire vreugde ver
+
+schaft.
+Fijn als de geachte schrijf ster zelf,
+is ook in haar aangrijpend verhaal
+de geschiedenis van dien
+emerituspredikant dominee Walland en
+zijn omgeving. Hoe innig mooi is in
+dit boek geteekend de te vroeg
+overleden predikantsvrouw, waar
+
+aan dominee Walland de liefste en
+aangenaamste herinneringen in zijn
+hart blijft bewaren. Eiken avond
+gleed zijn blik langs het levensgroot
+portret zijner vrouw, dat daar
+boven hing", doch meer nog hield
+dominee van 't kleine portret, dat
+zijn vrouw voorstelde in de
+sterfkamer. En dan die herinneringen
+aan die sterfkamer. Zoo fijn kan
+alleen Top Naeff eene vrouw
+teekenen.
+Maar ook de andere figuren in
+dit mooie boek, de zoon Joost,
+Nelly de schoondochter e.m.a. zijn
+scherp geteekend en spreken door
+de pen van Top Naeff tot den lezer
+in de heerlijkste taal.
+Dit alles en nog veel meer maakt
+'t lezen van Voorbijgangers" tot
+een waar genot. Den triestigen
+Zondagmiddag van gister, toen wij
+dit boek lazen, heeft Top Naeff
+voor ons tot een zonnigen dag
+gemaakt.
+
+Bij eiken Boekhandelaar leikrijgbaar.
+Uitgave van VAN HOLKEMA 4 WAREIDORF, A'dam.
+
+Cem—Ba^rtefjorisstr.
+Wegens uittreding van een der firmanten
+
+GROOTE UITVERKOOP
+met 20% KORTING 4 CONTANT
+Uitsteken:! geschikt voor St. Mm- en Kerst-Cadeaux
+IRENEE
+U. DE
+S Zn. • Keizersgracht 447
+(voorheen LEIDSCHESTRAAT 69T
+SEHKIHB GASFORMUIZEH
+Koldewey&amp; Corbière
+Leidschestraat 30, Amsterdam
+SpoolalltoH lui
+WIT LACQUE MEUBELEN voor
+Slaap-, Logeer- en Kinderkamer
+T BINNENHUIS
+OPGERICHT 1900
+V. D. BOSCH' MEUBELS TAPIJTEN
+POTTERY GLAS KUSSENS
+BOVEN BEGEER - A'DAM
+INGANG: PRINSENGRACHT 707A
+Buiten Winter, linnen Zomer
+(Door de boeken van Herniann Löns)
+
+Ik wist niet, dat het zóó mooi zou zijn!"
+(Uit een recensie)
+
+Tot dusverre verschenen da volgende doelen:
+
+MUMMELMAN (Tijdelijk uitverkocht)
+OP DE BERGWEI
+DE KRAAIENHUT
+HEIDEVOLK
+DE WULPEN ROEPEN
+DE EENZAME VEN
+
+Elk deel is overvloedig geïllustreerd sa
+kost in omslag f 1.90; gebonden f2.90.
+EEN PAAR PERSSTEMMEN :
+
+Even spannend als de spannendste
+detectievenroman." De Maasbode".
+Hoe borrelt hier het rijke leven in al zijn schitte
+
+rende heerlijkheden omhoog!" Natuurleven."
+Elk verhaal is een brok romantische werkelijk
+
+heid. Het geheel: een kostbaar bezit."
+Jan Fabricius in Het Vaderland".
+Dit is het leven uit het leven zelf ontsproten!"
+De Levende Natuur."
+Ik zou elk, die hem niet kent willen toeschreeuwen:
+Mensch, ga dit stuk schoonheid toch niet onopmerk
+
+zaam voorbij." Herinnering bindt samen."
+Zuiver van atmosfeer als een klare, zonnige
+lentemorgen." Geill. Volksblad voor Nederland."
+Elk hoofdstuk is een juwe*61 van dichterlijke be
+
+schrijvingskunst." N. Soerabaya Crt."
+Gretig gaat onze geest met hem mee."
+N. Rott. Crt."
+De boeken van Löns verzoenen ons met het
+leven!" De Avondpost."
+
+</text>
+<image timestamp="2002:09:03:23:20:44.00" size="161980">0000063M.TIF</image>
+</page>
+</document>

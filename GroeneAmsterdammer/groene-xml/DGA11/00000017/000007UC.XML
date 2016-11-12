@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300125</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+roene
+cekblcid voor Nederland
+'KEIZERSGRACHT
+AMSTERDAM C.
+TEL. 37964
+ADVERTEERT IN DE GROENE"
+Dat is een zin dien ge dikwijls leest
+Waarom juist in DE GROENE AMSTERDAMMER	?
+Omdat DE GROENE in het geheele land gelezen wordt door het beste
+publiek door het publiek, dat iets te besteden heeft. De adverteerder
+behoeft niet te betalen
+voor een versprei
+
+ding, waarmee hij
+honderdduizenden
+bereikt, die juist niet
+tot het koopkrachtige
+publiek behooren,
+maar het betaalt
+hem om in dit blad
+te adverteeren, dat
+hem direct in contact
+brengt met het publiek
+dat hij zoekt. Hoe juist
+dit is, blijkt uit berich
+
+ten onzer adverteer
+
+ders, waarvan wij er
+hier een afdrukken.
+FOTO - SCHAAP &amp; CO - SPUI - 8 - AMSTERDAM
+- W. H. BRANDSMA
+Aan e Directie van de Grcene Air.sterdacmer
+Keizersgracht 333
+ALHIEK
+
+Mijne Hoeren,
+iij danken U hierdoor vriendelijk voor Uw bereid
+
+willigheid en hulp inza,ke het uitzenden van reclame aan
+onze cliënten.
+Tevens Eaken wij van deze gelegenheid gebruik 'J onze
+uitstekende bevinding inede te deelen over- het resultaat
+onzer verkoop ten gevolge van de gererelde annonces, die
+van onze firma in U v/ blad voprkonen.
+De prijs van het artikel, waarvoor «ij speciaal re
+
+clame naken in aanmerking genocer., durven nij te zeggen,
+dat Uw blad absoluut onder de weinige bladen van standing
+gerekend nan worden.
+U rcoogt van dit schrijven eventueel naar believen
+gebruik maken,
+
+</text>
+<image timestamp="2002:09:20:22:31:57.00" size="68694">000007UC.TIF</image>
+</page>
+</document>

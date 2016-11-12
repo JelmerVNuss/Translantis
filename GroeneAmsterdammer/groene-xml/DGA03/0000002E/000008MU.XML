@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301101</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V.v/h.GEBRS. MERENS
+HAARLEM
+Filialen
+AMSTERDAM
+Kromme Waal 22'
+GRONINGEN
+Lutkenieuwstraat 29
+Echte Rubbervloer en Trapbedekking
+- DEMPT GELUID
+II	U.
+Onze •
+DEKKLEEDEN
+zijn inderdaad
+WATERDICHT
+Te huur en te koop.
+
+ZEI LI MCA
+AMSTERDAM
+Pr. Hendrikkade I2O. Tel. 41709-40717
+Wed.H,RAHDER6Zn,
+WIJNHANDELAREN
+Amsterdam, Arnhem,
+**~ 's-Gravenhage &lt;***
+Hoofdkantoor: Binnenkant 25» Amsterdam
+INTERC TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Handelsdrukwerk.- Periodieken -Catalogi
+
+
+JDrukkeni JPlantiin
+* J J
+
+Amsterdam
+
+Reclamedrukwerk - Creldswaardig Papier
+'s-HERTOGENBOSCH
+ORANJE HOTEL
+Familie-Huis
+Telefoon 755
+HOTEL CENTRAL
+Café-Restaurant
+Telefoon 200
+GBBR. RADEMAKER
+Hotel - Pension -Café-Restaurant
+'T JACHTHUIS" *A».
+W AR NS VEL D (Telefoon 226 ZUTPHEN)
+IB onmiddellijke nabijheid der bouehen, uitgebreid en naar alle elscheo oei
+UJds Ingericht. Groot* serre, waranda's en tuin met pracht uitzicht Tennis
+
+baan Garage. Aanbevelend, W. T. GROENHOF.
+N.V. D, HogenbirköZoon's
+IJZER- en STAALINDUSTRIE
+HAARLEM
+Fabriek: Spaamdanunerweg (SCHOTEN). TeL 1442
+Constmctiewerkplaatsen, Machinefabriek, Ijzeren
+Gebouwen, Overkappingen, Bruggen,
+Kolommen, Reservoirs, enz.
+Htkwcrka tm Dn
+
+UULJLJkJLJI2 POTJES POND s
+meer hebt U
+niet noodig
+voor een jeugdige teint
+j Een droge crème overdag. Pond's
+&lt;Vanishing Cream geeft U een
+t prachtig-mat teint en vormt de
+mooi' ste basis voor poeder. Pond's
+* V a n i s h i n g beschermt Uw huid
+, tegen de invloeden van weer en wind.
+Een vette crème 's avonds. Pond's
+Cold Cream voedt de huid,
+houdt haar zacht en gezond en
+zuivert de poriën beter dan water
+en zeep. Wanneer U dan nog deze
+( crème afveegt met Po'nd's
+Clean/ sing Tissue, die vet en vuil
+ab/ sorbeert, dan hebt U alles gedaan,
+wat noodzakelijk is ter bescherming
+van het teint en ter verkrijging van een
+mooie, gezonde huid zonder rimpels.
+
+VERZORGT UW TEINT
+POND'S
+VANISHING EN
+COLD CREAM
+TER KENNISMAKING
+ontvangt U 2 tubetjes Pond's
+j Cold en Vanishing Cream na
+• inzending van 10 cent porti.
+j POND'S EXTKACT Co., A'DAM
+MOBACO
+Bouw SpecidoooM
+Zeer leerrijk en onderhoudend
+
+•"•Kaar" N.V. BOSCH, HONIG 8 Co,
+DOMSTRAAT 6 - UTRECHT
+In IMDlE wrkrtjgb**! MJ:
+Toko Ouderling Belang, Soerab»r«.
+Te BREDA verkrijgbaar bij:
+A. Roeien, Ginnekenweg 60.
+EEI
+GOED
+ZAKENMAN
+behartigt zijn
+belangen het
+best door in een
+goed blad te
+adverteeren!
+iiiimiiüiüii
+Vraagt ons
+advertentie
+
+tarief.
+Plaatst eens
+een
+proefannonce.
+Abonneer
+
+U
+op:
+
+De Groene"
+Uitknippen en versturen In briefomslag als drukwerk met IV, cent.
+Aan de Administratie vaa De Groene Amsterdammer"
+
+Keizersgracht 355 Amsterdam C.
+
+Ondergefeekende wenschf zich fe abonneerea
+op den foopenden jaargang De Groene
+Amsterdammer" tegen den Abonnementsprijs
+van f 1.50.
+
+Naam:
+
+Adrex,
+l Door het gehalte |
+I en het peil zijner |
+| lezerskring staat |
+
+( De Groene |
+
+| Amsterdammer i
+l op het eerste plan. |
+
+</text>
+<image timestamp="2002:09:22:07:24:15.00" size="145595">000008MU.TIF</image>
+</page>
+</document>

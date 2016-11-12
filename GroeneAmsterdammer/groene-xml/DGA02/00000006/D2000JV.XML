@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000715</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Eindexamen Gymnasium.
+Gedelegeerden: »U werkt met het ei, juffrouw ?''
+Ju ffroute: «Zeker heeren, willen de heeren riet bovenkomen?"
+Gedelegeerden: »Dank u, juffrouw, maar... (jlnis'erend) zijn er ook jongeheeren va i 't Gymnis.'un bij u geveest?''
+Oom Krüger's afscheid. (Lu»tige Bla'ter).
+»Auf Euren Kopf die Bitternisse, Die lar von Haus und Hot vertrieben.
+Auf Euer Herz die Tranengüase, Fluch her Euch !" So zog er fort,
+Die heissen Thianen meiner Lioben, So klang sein letztes Abschiedswort.
+Aus Kein Hiisung" ion F, itz Reuter.
+
+Europa's advies. (Mootishine).
+/:'%i'iii$/V'r$
+
+.-'-i-il^f 'fsL •
+i2': A^iS*««S!fcv ;'if « ..™, . .-_--,7/.&gt;.,-s, -:-,.
+s ^",' '- ' ;(;v *$W'/
+•'*•&gt;&amp;•
+X&gt;A?'8" -^, t- •.-^•^-•TVIB^'I- yoa*"- -x"-!-,*'-^ '^ Y -" /•
+^iii^mM
+w^.. _^t	y-j^i '•'*&amp;&lt;%,;
+FUROPA (tot de Mogendheden): »Nu kindertjes, bedaard aan; er
+moet nog heel wat gebeuren eer ik je allen helpen kan. Zep,
+. *' jongeheer Rusland, denk je soms dat het grootste brok voor jou is?"
+
+Die is raak! (Punch).
+JAPAN' (tot de Mogendheden): «Een grople eer, met u mee te mogen doen,
+heeren! Maar permitteer me de opmerkirjr, dat WB niet in deze
+moeielijkheden gekomen zouden zijn, als enkelen van u niet een spaak in 't wiel
+hadden gestoken, toen ik Item onder de inie had !"
+Ruïne in de Chineesche porseleinkast.
+
+(tun).
+De weelderige natuur der tropen. (Teekening van W. O. J.
+Li HCNG CHANG (tot de Keizerin): »Moet ik dst alles weer
+heel maken ? Daar zie ik geen kars op. 't Is een leelijk
+verlies voor u, of voor anderen."
+
+Hoe een lEdischman zyn huis terugvond, dat hij veertien dagen onbeheerd had gelaten.
+
+</text>
+<image timestamp="2002:08:14:19:08:33.00" size="514451">D2000JV.TIF</image>
+</page>
+</document>

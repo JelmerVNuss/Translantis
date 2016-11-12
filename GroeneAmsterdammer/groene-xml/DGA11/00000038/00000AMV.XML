@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321008</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+30 GENT per
+1/2 PONDS
+
+PAKJE
+75*% Blue Band uit de allerbeste grond
+
+stoffen - met
+25 % allerfijnste Roomboter onder Rijks
+
+controle -^ bereid volgens een karnproces,
+waarvan de Blue Band fabrieken het
+geheim bezitten.
+Gebruik-daarom uitsluitend Holland's beste
+standaardmerk:
+
+BLUE BAND
+verseh gefcarnrf mei 25% allerfijnste Roomboter» onder Rijkscontrole
+b B.7O-020"
+Zoo juist
+verschenen:
+FUNCTIONEELE
+
+DECENTRALISATIE
+De grondgedachte van den corpo
+
+ratieven staat binnen het kader
+der parlementaire democratie
+REDE
+uitgesproken bij de aanvaarding
+van het ambt van Buitengewoon
+Hoogleeraar in het Staatsrecht enz.
+aan de Technische Hoogeschool te
+Delft op Woensdag 5 October 1932
+door
+Mr. A. C. JOSEPHUS JITTA
+Prjjs .... f 0.75
+
+Verkrijgbaar bij den Boek
+
+handel en bij den Uitgever
+J.B.WOLTERS-GRONINGEN,
+DEN HAAG, BATAVIA
+HUIB SLAGER
+Tolhuislaan 71a
+ROTTERDAM
+
+bindt Uw boeken
+en jaargangen keu
+
+rig en zeer billijk in
+
+van f 0.75 af
+per boek
+KUNSTHANDEL AALDERINK
+SINGEL, 348 AMSTERDAM (CENTRUM)
+- TELEFOON 35533 ==
+
+Kunst &amp; Kunstnijverheid
+uit alle oorden en tijden
+
+Specialiteit op
+ethnografisch
+gebied van
+Oost-lndi
+Waar Moeder toch blijft voor m'n kop Droste!
+Nu zit ik hier al een kwartier lang met de
+bus te wachten. Het is nu toch mér dan tijd.
+Ha	heerlijk zoo'n kop warme Droste's
+Cacao! Daar knap je heelemaal van op.
+Moeder weet wel, wat goed voor me is!
+Daar zou ik nu wel drie koppen achter el
+
+kaar van willen hebben. Wat is die Ver
+
+pleegster Cacao van Droste toch heerlijk!
+Spaart plaatjes voor hel
+nieuwe album Balt.
+In bussen van:
+l kilo Fl. 2.25
+V» kilo Fl. 1.25
+'/4kilo Fl. 0.65
+Droste's Verpleegsier-Cacao is nu ook
+verkrijgbaar m zakken van l kilo met
+origmeele fabriekssluiting a Fl. 2.
+DROSTE
+VERPLEEGSTER CACAO
+ALTIJD WELKOM!
+
+</text>
+<image timestamp="2002:09:27:10:09:21.00" size="291310">00000AMV.TIF</image>
+</page>
+</document>

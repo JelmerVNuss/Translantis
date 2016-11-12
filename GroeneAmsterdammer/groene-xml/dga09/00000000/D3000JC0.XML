@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19341229</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+i
+\
+W at Zegt DE GROENE? Deze vraag is weer belangrijker geworden door de
+markante weekoverzichten van Den Wijzen Olifant, ledere week een beschouwingen een oordeel over
+de binnen- en buitenlandsche politiek, in den geest van DE GROENE, kort, zakelijk en interessant.
+
+In denzelfden geest gaat DE GROENE voort mat artikelen over alles wat]van belang is op cultureel
+gebied: over film en tooneel, over boeken en schrijvers, over schilderkunst en muziek,over financiën
+en architectuur, over sociale vraagstukken, mode, sport en spel.
+ledere week een keur van actueele foto's en teekeningen, een feuilleton van F. de Sinclair en voor
+4$ puzzelaars een letterraadsel en een fotoprobleem. Voor iederen modern georiënteerden geest w,ordt
+,t *
+dévraag steeds belangrijker: wat zegt \
+\4^-y\
+hieiïangs afkptppen en verzenden in open enveloppe gsh-aik.e'ard maM Va
+aan de GROENE
+AMSTERDAMMER"
+keizersgracht 355 amsterdam c.
+post giro 72880
+gem.giroG 1000
+telefoon 37964
+ondergeteekende wenscht zich voor het jair 1935 teabonneeren
+op DE GROENE AMSTERDAMMER" ad f 10.-- per jaarden
+het reeds verschenert Kerstnummer gratis te ontvangen
+naam:
+
+adres: .
+PAG. 28 DE GROENE No. 300
+1
+\
+&gt;
+
+</text>
+<image timestamp="2002:10:24:23:06:44.00" size="132137">D3000JC0.TIF</image>
+</page>
+</document>

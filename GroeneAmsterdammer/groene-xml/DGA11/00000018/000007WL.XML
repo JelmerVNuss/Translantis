@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300215</Datum>
+<Pagina>21</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+«•%£*% - *•» -t- Vk -~ v, ii .. -
+*•^'ö-Vw *i • '&lt;£&amp;«** * , i *•»,-&lt; •-, , ,
+'|^r*4 i iv/&lt; -;-?w* 4» fttr' &lt;-v -. • ._ ' "
+~"M-f*jföir""j"
+edtb
+^&gt;a 1'^ ,, * , '
+.Art-jJ&amp;i f C r *. ***
+
+Kra*1-^j. aa,;: .^-;;:
+fef&gt;Wv"f' «/
+«feïiL&gt;*f:%: ..'&lt;,;*
+»?/*.,, ,-&amp;•"-•&gt;
+^lw.--;fr
+*f*&lt;?l&gt;;M v
+
+$$*?-*:y'-%r'""'"
+«." *l "i -f Ci
+vvt&gt;~'': ' "
+*'"', * *» VA* .
+l
+J- II % '
+v &gt;•
+^ •- «f -
+f f * -?4
+/ &lt;t t f" c
+,^, '
+.
+&amp;r u &gt;
+ie Amsterdammer
+[ad voor Nedèrtand
+AMSTERDAM C.
+TEL. 37M4
+,.' --V. 'V ,•
+ADVERTEERT IN DE GROENE"
+een .zin dien ge dikwijls leest
+1856
+26-28
+IO6O4.
+BANKIERS
+HAARLEMSCHE BANKVEREENIGINO
+HAARLEM
+Postrekeninfl No. 7734»v
+r -,V ^ /
+^ -,',-, '
+h '
+«r ,
+t'
+Waarom guist in DE GROENE AMSTERDAMMER .....?
+Omdat DE GROENE in het geheele land gelezen wordt door het beste
+publiek -*- door liet publiek dat iets te besteden heeft, De adverteerder
+behoeft niet te betalen
+-voor een "Versprei
+
+ding, waarmee hij
+honderdduizenden
+bereikt, die juist niet
+tot het koopkrachtige
+publiek behooren,
+maar het betaalt
+hem om in dit blad
+te adverteeren, dat
+hem direct in contact
+brengt methet publiek
+dat hij zoekt. Hoe juist
+ditis, blijkt uit berich
+
+ten onzer adverteer
+
+ders, waarvan wij er m . M1Jne Heereni,
+hier een afdrukken. H
+In het nummer van 9 November j.l» plaatsten wij, op de
+voorpagina, een advertentie. U zult er zeker belang
+in stellen, dat wij naar aanleiding dier annonce reeds
+terstond uit Rotterdam een aanvrage kregen en een kost
+
+baren -bontmantel leverden.
+Wilt U voor ons a.v.p. in het nummer van 18 Jan',30 deze
+advertentie nog eens plaatsen. •
+Hoogachtend
+Aan de. Directie van de N.V. "De Groene Amsterdammer
+V/eekblad voor Nederland"
+
+</text>
+<image timestamp="2002:09:21:01:44:11.00" size="287020">000007WL.TIF</image>
+</page>
+</document>

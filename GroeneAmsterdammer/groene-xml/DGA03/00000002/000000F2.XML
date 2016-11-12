@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060715</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+N o. K&gt;16
+IK JL IR 2^ E IET s z.
+Leiden 1ÖOÖ6ÖAmsterdam.
+Voor Rembrandt's Standbeeld. *&gt;
+DOOR
+JAC. VAN LOOY.
+In huldigende stoete
+Wij komen aangetreden
+Door uwe oude stede,
+Rembrandt, tot uw voeten.
+
+Stil, uit tijd en duister
+Ziet uw gelaat ons aan,
+Ziet onze ziel u staan
+In wondervolle luister.
+
+O geest, hoog opgericht,
+Die 's menschen pracht en strijden,
+Die 's menschen last en lijden
+Voor eeuwig hief in 't licht.
+
+Wij, kunstnaars al te gader
+In huldigende stoete
+Wij buigen voor uw voeten,
+Rembrandt, ons aller vader.
+*) Dit lied zal gezongen worden door
+het koor van den door de Maatschappij
+Arti et Amicitiae samen te stellen optocht,
+wetke in deq avond van Zondag 15 Juli,
+eer aan Rembrandt zal bewijzen bij zijn
+beeld op het Rembrandtplein.
+Circa 1629. Tentoonstelling Frederik Muller.
+1629—1630. Mauritshuis.
+Kembrandt trekt uit Leiden naar Amsterdam 1631.
+Paulus in de gevangenis. 1627. Stuttgart. Chrittus en de
+Emautgangers. 1629. Coll. raad. Ed. André. Parijs. Simeon in den Tempel.
+1631. Mauritshuis. Anatomische leg. Dr. Tulp. 1632. Mauritahuis.
+Etsen: Rembrandt's moeder 1628.
+1633. Louvre.
+Rembrandt verloofd met Saskia 1638; trouwt 1634.
+Satkia en Rembrandt. 1634—35. Dresden. Ontvoering Oanymedes.
+1635. Dresden. Gevangenneming Simson. 1636. Pret k van Johannes
+den Dooper. 1635—36. Berlijn. Filosoof in een ruim vertrek. 1633. Louvre.
+Etsen: Kruisafneming. 1633. Opwekking van Lazarus (groote).
+1633. Janus Silvyus. 1634. Verkondiging aan de herders. 1634.
+Sam. Manasse Ben Israël. 1636. Terugkomst van den verloren
+zoon. 1636.
+1638. Ets.
+Relatie's met Huygens. Opdracht van Fr. Hendrik, voor het
+schilderen van N. Testamentische voorstellingen 1639.
+Susanna in het bad. 1637. Mauritshuis. Dana'é. 1636. Peters
+
+burg. Barmh'irtige Samaritaan 1618. Krakau. Landschap. 1638.
+Rijksmuseum. Graflegging, 1639, Munchen.
+Etsen: TJytenbogaert (de goudweger). 1639. Jozef zijn droomen
+uitleggende. 1638. Sterfbed van Maria. 1639.
+1640, National Gallery, Londen.
+Titus geboren 1641.
+Bezoek van Maria aan Elisabeth. 1640. Hert. v. Westminster.
+Londen. Anna Wijmer, vrouw van Jan Six. 1041. Coll. Six.
+Predikant Anslo en de Weduwe. 1641. Berlijn. Dame met waaier.
+1041. Buckingham Palace, Londen.
+Etsen: Man met lang haar en halsketting aan schrijftafel. 1641.
+Kaartspeler. Ui-U. Windmolen. 1041. Kleine opwekking
+Lazarus. 1042.
+
+1643. Grootvorst van Saksen.
+Saskia sterft 1642.
+Nachtwacht. 1642. R. Museum. Weduwe EKs«beth Sas. circa
+1(142. R. Museum. Bathseba. 1643. Coll. Steengracht.—Valkenjager.
+1043. Hert. v. Westminster, Londen.
+Etsen: De drie Boomen. 1643. Bruggetje van Six. 1645.
+1646. Buckingham Palace.
+Susanna. 1647. Berlijn. Susanna. 1647. Louvre. Landschappen
+omstreeks 1647. Heilige Familie; Ifuiselijk tafereel, met voorhang.
+1646. Cassel.
+Etsen: Six aan het venster lezende. 1647.
+1648. Ets, eerste staat.
+Hendrickje Stoffels in Hembraudt's huis. Gerechtelijke
+moeielijkheden met Geertje Dirx, minnemoer van Titus. 1649.
+Emausgangers. 1048. Louvre. Barmhartige Samaritaan. 1048. Louvre.
+Etsen: Honderdguldensprent. 1649.
+
+
+</text>
+<image timestamp="2002:08:10:22:23:20.00" size="262162">000000F2.TIF</image>
+</page>
+</document>

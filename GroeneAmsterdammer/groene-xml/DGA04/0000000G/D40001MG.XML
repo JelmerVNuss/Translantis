@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19150214</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE UITWERKING VAN DUITSCHLANDS BEDREIGING MET ZEEGEWELD OP DE NEUTRALEN
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 14 Februari 1915
+De Koeien voegen zich te zamen, als de Wolf komt"
+(Een wijze Zinneprent van Vader Cats)
+
+Het onheil dat hen dreigt, dat doet de gramschap stijgen;
+Dat doet hen stouter zijn, en vaster zinnen krijgen;
+Hierom komt al het rund, en maakt een ronden hoop,
+Dies tijgt de moede wolf ten lesten op den loop.
+Gedenkt dit alle tijd. gij vrije Nederlanden:
+Want ziet, in Eenig zijn, daar zijn uw vaste banden.
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+
+</text>
+<image timestamp="2002:08:21:07:59:11.00" size="174319">D40001MG.TIF</image>
+</page>
+</document>

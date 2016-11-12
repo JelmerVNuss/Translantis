@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18850111</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+p*
+lDE AMSTERDAMMER. WEEKBLAD VOOR NEDERLAND,
+No. 394
+Singel.
+.38. Ken gero. voorkamer -e et. f 13 p. m. l Febraari.
+164. Twee groote net gest. kam. a auito lo etage, f 60 p. m.
+161. Bon gest voorkamortje Se etage, f 10 p. m. daii.
+te aanvaarden.
+303. Gem. slaapkamers, f 10 p. m. terstond'
+Stadhouderskade.
+97. Vrij bovcoh., nabij de BijitB-ncadenüe, hnnrpr. f900.
+Spuistraat*
+24. Oem. kamera f 2o p. m.
+162. Geat. Bit- en slapkamers, geschikt voor l of 2 fat
+
+soenlijke dames ol hcaren huurprijs te bespreken.
+862. Twee geat. tages en suite geschikt voor l of 2
+lieercn huurprijs te bcsprekêa aldaar.
+162 Gelegenheid voor 6 &amp; 10 heeran tot dineeren a 80
+et. per couvert. in een net toohuis.
+251. Een gest. voork. Ie etage 20 p. m., met een klein
+kamertje f 25 p. m. terat. te aanv.
+Spiegelgracht.
+SO. Eene nette bovenwoning voor een stil gezin,
+St, lAuci'énsteeg.
+11. Gemeubileerde kamers f 10 en f 10 p. m.
+Tfiofüeckeplein.
+28. Een net gem. voorkamer.
+VtrecMschestraa t.
+134. Twee gem. kamers en suite Ie et. f 40 p. m. torst.
+134. Twee sem. kamers en suite 2e et. t' 80 p. n», terst.
+Vtreclitschedwarsstruat.
+62. Ben gest. «laapkamertjo. .
+80. Een buis f 300 geheel vrij te bevr. N. Keizersgr. 18.
+Wan Oldenbariteveldsstraat.
+57. Een 2de bsvenhuia f 20 p. m. te aanv. November.
+Van Woustraat..
+86. Een net gom. zijkamer en ruime alkoof, voor een
+of twee heeren, l' 25 p. m. Voor twee heeren, f 35
+p. m. deaverkiezende met kost.
+Van de*' Btelstmut.
+66. Een gem. kamer mot slaapkamer Ie et. terstond.
+Verlengde van der Heistraat.
+66. Gest. kamer met slaay.kam. Ie etage, terstond.
+te bevragen Nassaukade 347.
+Ver tv er straat
+6. 4 dubbele zolders boven elkander, afzonderlijk of
+te zaraeu terstond te aanvaarden.
+VossiUf straat.
+8, 7 on 10. Hnïzen met en zonder tuin, tevst. Te bevra
+
+gen Kokin 122 en bij W. J. Slingerlandt Nes 40.
+Dagelijks te bezichtigen.
+10. Een geheel huis, tegen l Mei a. a.
+Vondelkade.
+31. Een huis en tniu met 5 kamers, 2 meidenkamers,
+keuken, zolder enz. f 1300 to aanv. l Mei a. s.
+Vondelstraat.
+98. Hnis en tuin met suite, tuinkamer, 3 kleinere kam.
+en kenien, t' 800 p j. te aanv. l Mei 1S85. r
+Vijzelstraat. "*"
+3. Een gem. kamer Ie etage f 4.0 p. m. terstond.
+18. Gemeub. kamers terstond.
+90. Gem. kamers te aanv. l Maart.
+113. Een gemeubileerde kamer en slaapkamer, Ie etage
+terstond aanvaarden.
+Vygendam.
+6. Gemeub. kamera, terstond.
+7. Twee gest. Voorkamers en slaapkamers Ie etage
+f 40, 2e etage f 35.
+16. Gestoff. kamer terstond.
+Wagena arst raat.
+47. Een gest. kamer met of zonder alkoof voor een of
+twee heertn, 2e etage.
+WanuoesgracM.
+10. Een groote voorkamer net gest. 2o et»go f 25 p, m,
+met gazgebruik.
+fVarmoesstraat.
+Bi. Tweede bovenhuis, 3 kam., keuk., enz. fSSOp. j.teret.
+49. Elegant geheel nieuw gom. veerkam, met alkoof,
+Ie etage, f 25, direct.
+173. Een gest. voorkamer met alkoof f22 p. m. tcrst.
+105. 2 Gem. kamers 2e etage f25 p. w.
+109. Gest. kamer f 20 met peneion f 45^p. m.
+Westeinde.
+21 Een bovenhuis, 9 groote en kleinere kamers, keuken
+en zolder met meidenkamer, f 1000 p. j.
+Weteringschans.
+100. Een Huis met tuin, kamera, zolder, keuken en
+kelder f 7CO.
+Ie Wetering dwarsstraat.
+41. Een buis met tuin f 300 p. i.
+Se Weterfngdwarsstraat.
+6. Een net gest. voorkamer met apart slaapvertrek,
+kost en bediening, f 40 p. m. terstond.
+Wilteitkade.
+$1. 23. 25. Drie benedonhuizcn, bestaande uit voor- en
+achterkamer, dubbelde alcoof, keuken, tuin en
+eousterrein, f 6.50 p. w. dadelijk te aanvaarden.
+Wolvenstraal.
+82. Een gem. zit- en slaapkamer met koat en bediening
+f 46 p. m. terstond te aanvaarden.
+Xaitddtivarjrsta'aat.
+1. Een kamer, huurprijs i 2.25 per week.
+Ztoammerelaut straat.
+11. Een huis met tuin f 600.
+Een Ie en 2e bovonhuis f 400 en 350.
+Verlengde Vondaistraat.
+Huizen on bovenhuizen te huur.
+3. Een Modern Boerenhuis, met prachtig uitzicht
+f 1300 l Mei
+26. Een bouonhuis, 6 kamers, dienstbodenkamer keuken,
+polder, kelder, duinwater- en gneaanleg f SCO.
+34. Een bovenhuis, 6 kamers, dienstbodenkamer keuken,
+zolder, kolder, dninwator- en gasaanleg i' 800.
+106. Een vrij bovenhuis, Ie en 2e etage, prachtig nitzigt,
+zes kamers, dienatbodenkamerljo, zolder, f 1000,
+aanv. l Mei.
+Weespersijdc.
+1. Een geheel vrij huis 9 kamera, f 1500 l Mei a, s.
+'
+Huizen met tuinen i' 500 p. j.
+Vrije bovenhuizen f 500 p. j.I a
+anv. Mei 18S5.
+.
+Vriie huizen met tuin, jras- en waterleiding, f 250 p. j.
+Te bevr. bij G. A. v. d. Wilde, aldaar.
+Een huis en tniii, hoek kerkbrink 'sCravenUndsche
+weg. Te bevragen bij den Notaris Lasonder.
+ADVERTENTIE».
+Koninklijke Veroeniging: Het Xedei-laiiclsch Toonvel."
+Afdeeling: AMSTERDAM.
+Zaterdag 10 en Zondag 11 Janurri 1885,
+Laatste voorstellingen van:
+CilJSBIKECIIT VAN AEHISTEL,
+d'Ondergacgh van syn Stadt en syn Ballingschap.
+treurspel door JOOST VAN DEN VONDEL.
+Daarna:
+De BraüoJt van liloris en Roosje,
+Kluchtepel met Zang en Dans i:i n bedrijf,
+waarin Mevr. CHR. STOETZ als Pieteriiel en de
+Heer SPOOR als Thomnsvucr
+Niemvjaarwcnscli zullen uitspreken.
+Aanvang ton 71/j, Zondag ten 8 ure.
+lève van CAKIj IIIïLÏj te Scliwcrin,
+en van Blad. 1SOCHKOI/TZ-FAI.CONI
+en JÏH.ES GEFOKT te PSrijs, geeft
+IteuiiÊs van zijne vestiging te Amster
+
+dam als
+
+CONCERTZANGER
+en tot bet geven van SSANGQNDE
+BICIIT.
+Voorlnoplg adres de Heeren J. H. en
+O. VAN HETEREN, Hartènstiaat 21.
+
+
+EEST DA9IE,
+40 jaar oud, gewoon met oon gedistingeerd publiek om
+te gaan, zag zich gaarne geplaatst aan liet hoofd van of
+als deelgeuoote in een Zaak liofat MODEZAA.K .
+Brieven franco, onder No. 1885, Bureau van dit blad.
+
+
+HVUBWrËTlLOOP:
+Een geheel v r ij
+
+
+RENHUIS,
+gelegen aan do We e s p er z ij d e N o. l bij het
+Amatel-Hotol, groot 9 Kamers, Sonstorrein,
+Dienstbodenkamers, Zolder en Open Plaats, mot voor en achter
+prachtig uitzicht en van alle gemakken voorzien.
+Huurprijs ƒ 1500.
+Franco te bevragen bij de Makelaar J. VAN OLST
+Mauritselraat, hoek Weeeporzijde No. 2. '
+Twee Bovenkizen.
+Dadelij!; te aanvaarden, NIEUWEE-AMSTEL. Verlengde
+Vondclstraat, aan den ingang van het Vondelpark.
+KAS-VEREENI6IN6,
+voor golden H deposito.
+Mot n dag vooraf opvragen» . . . l'/s pOt
+tien dagen . ..... 3
+voor langere termijnen op nader overeen ta komao
+voorwaarden.
+
+BEWARING VAN WAAROEN
+volgens Heglement aan het Kantoor verkrijgbiar.
+Amsterdam, 15 Januari 1Ö;5.
+CE DiaEOTIB.
+
+
+CBEDIETVERBE1IIGI1VG.
+(Opgericht 20 Jlaiirt 1853j
+VAN AP 16 MEI WORDT DE EENXB VOOS
+
+DEPOSITO GELDEN
+verlangd met i/3 pCt. en alzoo gebracht :
+Met cón dag opvragens op ...... 21,'a pCt.
+eeno maand ....... 2s/i
+en het Disconto verlaagd met 1/2 pCt. en alzoo gebracht
+op 41/3 pCt.
+Amsterdam, 15 Mei 1881.
+De Directie,
+BUCHI^ICEt.
+I.
+GREDIËTVEREENI6INB
+TE A.1JSTKBDA«,
+opgericht 26 Maart 1853.
+MAANDELIJKSCHE STAAT OP 30 NOVEMBER 18Si.
+Deelneming	ƒ14,182,900.
+Stortingen der Leden ..,.•- 1,844,080.
+Keservofonds . . . . . ( t . • 11-9,418.02
+Deposito's	8,151,761.43
+Creditsaldo's van Rekening Courant - 856,224.0;}
+Loopende Credieten	- 7,633,328.38 Vj
+In herdisconto gegeven .... - 1,007,280.
+
+De Voorzitter vo.n Commissarissc»,
+JOH. C. ZIIHIERMAN.
+De Directie.
+BÜCHLER.
+I. J. BAHUSEN.
+TENCKINCK.
+(Doelenstraat 22.)
+Dcitositc-rente op heden
+met n dag opvragens .... ll/2 pCt.
+tien dagen . , . . 3
+newnring van Waarden tegen '/j per Mille peï6
+maanden,
+Reglementen gratis verkrijgbaar,
+De Castle Mail Packets Company."
+Van Nederland naar Kaap de Goede
+Hoop, NataJ, de Kust van Alozambiqae
+en Mauritius.
+Voor Tassage en Vrachten, geven alle inlichtingen ds
+Agenten
+BR179NIER &amp; Co.
+AMSTERDAM.
+BJCen. lette op de
+
+
+Voordeelige Voorwaarden
+
+VAN DIENSTNEMING
+voor het Leger in Nederlandsch-lndië,
+omschreven in gedrukte mededeelingen die gratis
+verkrijgbaar zijn bij het Departement van Koloniën
+te 's-Gravenkage en voorts bij alle Burgemeesters.
+Algemeene iaatschappsj van Levensverzekering en Lijfrente.
+Bevestigd te
+Ooedgrekeurd »&gt;üKoninkiyk Besluit van l November 1SSO, Nö, «S,
+: AMSTERDAM:, Heerongracht &amp;?&amp;&gt;
+BIJKANXOREN: SOEKAESAIA, BRUSSEL, HAMBURG, LUXEMBURG en
+
+XMTSCHATPELIJK KAPITAAL: EEN MILLIOEN GULDEN. DE VERZEKERDEN KÜNXEN DEELEN IN DE WIESTEN.
+
+Commissarissen, de Heeren: MB, W. VAN DER VLIET, F. J. W. H. SCJJMITZ, M». G. VAN TIESHOVEN, allen te Amsterdam-,
+K». \V. M. BEEPMAKBE, te Rotterdam; M«. J. P. E. TAK VAN POORTVLIET, te 's Graveuhagej Prof. P. VAN GEER, te Leiden; W. A. BAROH
+TAK DER FEtTZ, te Assen; Jhr. Jfe. L. F. II. MICHIELS VAN KESSESICH, to Kocrmond; Jhr. 31*. J. H. F. K. VAK SWINDEREN,'te Rjjs;
+(Friesland); Jhr. M«. J. B. A. J. M. VERHEIJEN, te 's Hertogenboseh; JI«. F. II. J. BARO» DE BIEBEKSIEIN EOÖALLA ZAWADZKY. te Maastright^'
+M». J. J. C. EMSCHEDÉ, J. DIKQER en G. C. E. VAN DA ALEN, allen te Soerabaia. .------ *
+
+Directeuren: D®. S. E. J. VAN SCHEVIOHAVBN, E. W. SCOTT en J. F. L. BLANKÊNBEEG.
+
+De Maatschappij gaat contracten aan voor alle soorten verzekeringen op het meuschelijk leven, ook voor Oost- eu
+West-Indië. Hare.tarieven zijn volgens de nieuwste statistieke gegevens berekend.
+erij
+H^fJjS 4
+
+</text>
+<image timestamp="2002:08:17:01:10:24.00" size="251333">D10000W7.TIF</image>
+</page>
+</document>

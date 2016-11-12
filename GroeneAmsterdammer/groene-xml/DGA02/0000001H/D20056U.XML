@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320806</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2879 van 6 Augustus 1932
+prijs 20 cent
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+Keizersgracht 355, Amsterdam G. - telefoon 37964 - postgiro 72880 - gent. giro G. 1000
+Laidsohastraat 106—108 Amsterdam
+
+POLISSEN
+aan STATIONS en ItBISBUREAUX direct verkrijgbaar.
+* , *
+In geval van schade kan men zich wenden tol d»
+EUROPEESCHE"
+te Amsterdam, Athene, Bareelona, Belgrado. Berlijn, Bern, Boedapest, Boekarest, Brussel,
+CoBstantlnopel, Helslngfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg, Madrid.
+Hünaben, Oslo, Parijs, Praag, Riga, Rome, Stockholm, Warschau en Weenen.
+NV. v/n
+H.A.KLOOSTERHUIS
+KALVERSTR. 176
+AMSTERDAM
+
+
+NIEUWE MODELLEN
+NIEUWE LAGE PRIJZEN
+OUD ZILVER
+DIAMETER KAP 7O fm
+PJXJ5
+LEVENSVERZEKERING
+VAN EIGEN HULP .'
+VAN 1079
+
+
+DÈIS HAA© =
+KORTENAERKADE ==
+BATAVIA
+VOORRIJ ZUID
+DE TIJD VLIEDT !
+IAAT U DAT NIET
+VG&gt;R U EN DE UWEN
+SOLIDE
+VOORDEELIG
+COULANT
+HANDELSMERK WETTIG GEDEPONEERD.
+PRIMA
+
+Moezel- en
+
+Rijnwijnen
+•
+Gewas 1929
+•
+koopt U uiterst
+billijk bij;
+Van Straalen Monsieur &amp; Erkelens
+Wijnhandelaren
+FILIAAL
+Den Haag
+Anna Puulownastrait 38
+lal. 332532.
+HOOFDKANTOOR
+Rotterdam
+Leuvahavan 34
+tal. 524B6.
+FILIAAL
+Den Helder
+Hoofdgraoht 61
+lal. 83.
+EXPORT NAAR DE KOLONIËN.
+VRAAO PRIJSCOURANT VOOR PARTICULIEREN.
+
+</text>
+<image timestamp="2002:09:21:12:58:39.00" size="115460">D20056U.TIF</image>
+</page>
+</document>

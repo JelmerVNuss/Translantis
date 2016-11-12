@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l
+heid hebben, om, terwijl hij in 't gelukkig bezit is van nc vrouw,
+er nog eene bij ^| nemen.
+Heere% gezworenen, wie zijn er onder u, die het geluk, pardon
+ƒ mevrouw,- ik bedoel het. ongeluk hebben gehad, hun wettige vrouw
+T •-."'• te verliezen, en die hertrouwd lijn. Gij antwoordt niet?
+Welnu mijne heeren. Mijn cliënt had een vrouw en 't was in haar
+jjoort een beste; en toch heeft hij de dwaasheid begaan er nog een
+•, -t bij te nemen.
+. 't Is duf duidelijk dat we hier met een waanzinnige te doen hebben,
+•« * en ik acht daarom mijn zaak als vanzelf gewonnen.
+En wat zegt u'hiervan, mevrouw? (Staat op),
+* BERTA (loopt hem minachtend voorbij).
+Dat u nogal op e/en vreemde wijze van 't huwelijk sprefkt.
+* D'ALBINOS.
+' Een advokaat spreekt niet altijd zooals hij denkt.
+Dat Wacht in dit geval mijn ambt mede. Maar juist door anderen
+van elkander te scheiden, heb ik meer dan ooit het geluk van het
+huwelijk leeren beseffen; trouwens u weet het, al meer dan drie maan
+
+den smacht ik naar u, ik heb u lief; zoo innig lief; ik bemin u, in
+een woord, zooals men dat alleen kan in Carpentras.
+* , BERTA. (lachend).
+i O neen maar, U is al te grappig, ik moet zeggen dat U daarin die
+streek een eenigszins openhartige manier hebt van U uit te drukken.
+U laat er geen gras over groeien.
+' * . . D'ALBINOS.
+In Carpentras komt'men rond voor zijn meening uit; men gaat
+recht op zijn doel af. Bc bijvoorbeeld zou door 't vuur vliegen, ik
+zou de hel trotseeren, en desnoods de Niagara overzwemmen, om de
+' vrouw te bereiken die ik lief hek.
+BERTA.
+"~" O zeker, zeker; ik houd mij overtuigd, dat U uwe vrouw even
+» hartstochtelijk zoudt verdedigen, als U die vaneen ander aanvalt; maar
+* toch, wat mij betreft, mijn besluit staaft onwrikbaar vast: ik hertrouw
+niet l * .
+D'ALBINOS.
+Nooit?
+BERTA.
+1 Nooit I
+K* l
+
+</text>
+<image timestamp="2002:10:03:23:13:02.00" size="62312">00000BML.TIF</image>
+</page>
+</document>

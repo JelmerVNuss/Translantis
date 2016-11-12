@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110312</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het debietrecht op tabak.
+BIJ. JEGSEL, van L)e Amsterdamuier. Weekhlarl voor Nederland, van 12 Maart 1911.
+Amst. Boek- CL steendrukkerij, v/h. Ellermai:, Uarrcs i: Co,
+De Minister van Financiën Kolkman: Voortaan moet ik iedere tienden trek hebben! Er staat
+geschreven. Ook alle tienden des lands, van het zaad des lands, van de vrucht van het geboomte, zijn des
+Heeren, zij zijn den Heere heilig".
+
+</text>
+<image timestamp="2002:08:24:19:31:03.00" size="179061">000004SN.TIF</image>
+</page>
+</document>

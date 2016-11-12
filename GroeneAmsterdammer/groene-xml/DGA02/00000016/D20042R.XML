@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19241115</Datum>
+<Pagina>24</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2474
+UIT HETtKLADSCHRIFT VAN JANTJE
+RUIZE-RIJMEN
+SINTERKLAAS KOM TERUG! ALLES IS VERGETEN
+
+...... een dag, die wat hij breng' of baar'
+Toch altijd is en blijft de zoetste van het jaar."
+De Genestet
+Feu vriendelijke dag, een trouwe kindervriend,
+Een dag, dien elk van ons heeft liefgehad ais kind,
+En die nog pas uw beurs, uw kroost, uw maag, uw woning,
+Bepaald in opstand bracht; een bisschop en een koning,
+Vol zoetheid voor den mond, vol zielezaligheid,
+Wiens naam gij langer niet kunt zwijgen, lieve meid,
+Wie hij, jaar in jaar uit, een stroom brengt van cadeautjes,
+Altijd incognito, van twintig beaux en beautjes !
+
+Sint Nicolaas, nietwaar? O, wel hem, die dit feest
+Nog altijd meeviert met een kinderlijken geest !"
+Zoo zong de Genestet, de goede vaderlander,
+Zijn loflied op dit feest, echt-HoIlandsch als geen ander.
+Hier wijlen wij op oer-aud Vaderlandsch gebied:
+Op 't gansene wereldrond bestaat zijn weerga niet.
+Wien Neerlandsch bloed door d'aad'rcn vloeit, door hart en nieren,
+Die weet wat vreugd het is, Sint Nicolaas te vieren.
+
+Te midden van het feestgedruisch. . . . daar klinkt de bel.... !
+Dat doet de meid o ja, dat weten we nu wel,
+Maar toch, wat blijden schok krijgt ieder op het hooren !
+De deur gaat open.... wér een pak.... de stemmen smoren....
+Wat zal het zijn? Voor wie(n)? Van wie(n)?.... Gauw, lees 't adres!
+Dat heeft een anoniem poëet of dichteres
+Geschreven met verdraaide hand, o zoet geheimpje !
+En meestal met een vriendlijk-plagend kreupelrijmpje.
+
+Ik spaar u verdre proef van dichterlijk talent
+Om dit festijn te teekenen gebruik bekend !
+Heeft ons modern geslacht dit feest niet meer van noode?
+Het schijnt zoo. In zijn plaats komt Kerstmis iu de mode,
+Uit Duitschland, Engeland, of beide, geïmporteerd.
+Natuurlijk. Hier in Holland wordt alleen geëerd
+Wat van den vreemde komt. Oud-Holland's geest mag slapen.
+Het is nu eenmaal chic den vreemdliug na te apen.
+
+,,Xmas" of Weinachten". Ja ja, dat klinkt heel mooi,
+Maar ik vind het een feest van vrij verdacht allooi.
+En gij, geloovigen? Dit is de dag der dagen,
+Gewijd aan Hem hoe kan Herodes 't licht verdragen?"
+Die ter verlossing kwam van 't zondige geslacht.
+Hoe wordt die heilige gebeurtenis herdacht?
+Wordt daar in diepen ootmoed zond' en schuld beleden,
+En God geprezen in de stilte der gebeden?
+
+Welneen. Het is een dagje van genoeglijkheid,
+Van dansen en ctaers, van kussen en jolijt.
+Dan wordt er in de lampen mistletoe" gestoken.
+(Dat hier steeds zoek 't maar op! -—verkeerd wordt uitgesproken.)
+We komen bij mekaar, om ons te goed te doen :
+Plumpudding, Weinachtsstollen, krentebrood, kalkoen;
+Een feest van fijnen wijn, van duur en lekker eten,
+Het davert van de pret en Jezus wordt vergeten.
+
+Moet jij nu daarvoor weg, mijn vadcrlandsche vriend?
+Waarachtig, oude Sint. dat heb je niet verdiend.
+Jij meesmuilt en terecht om Xmas-kaarten-rage,
+Geschenken bij den boom: een winkel-etalage!
+Kom binnen, Sinterklaas -- de concurrent er uit !
+Ik heb een voorstel. Nemen wij het kloek besluit
+Die Kerstfeestvierderij aan onze brave buren,
+Den Duitscher en den Brit, in dank terug te sturen.
+C n A K i v A R i u s
+INHOUD: 1. Dienstweigering en nationale ontwapening, door prof. dr.
+G. W. Kern kam p 2. Tijdgenooten. door dr. W. G. C. Bijvanck.
+3. De Forensenbelasting, door D. Blok Het program van de communis
+
+tische partij, teekening door Joh. Braakensiek 4. Amsterdamsche bij
+
+zonderheden, door prof. dr. H. Brugmans -- 5. De strijd tegen de page
+
+kopjes, teekening door Jordaan Terug tot den gouden standaard, door
+Mr. P. Catz—G. Spreekzaal Polkahaar, teekening door George van
+Raemdonck 7. Uit de Natuur, door dr. Jac. P. Thijsse - 8. Bijkomstigheid, door
+Top Naeff - 0. Nieuwe Duitsche boeken, door Chr. de Graaft 11. Voor
+Vrouwen, redactrice Elis. M. Rogge 12. Dichtwerk in steen, door dr.
+G. C. van 't Hoog 13. Schilderkunstkroniek, door A. Plasschaert 15.
+Minlek in de hoofdstad, door C. van Wessum met teekening door B. van
+Vlijmen 17. Schilderkunstkronick, door mr. M. F. Hennus Tentoonstelling
+Het Meubel, door Otto van Tussenbroek -- Wetenschap en journalistiek,
+door dr. E. van Raalte - 19. Financiën, door Paul Sabel Dierstudie,
+teekening door H. Verstijnen 20. Pedante Pietje's pacdagogische peinzin
+
+gen 21. Gemeenteraad, door Barbarossa, met teekeningen door B. van Vlijmen
+22. Feuilleton door E. Tièrie-Hogerzeil -- 23. Dagboek van een Amster
+
+dammer, door Barbarossa. Charivaria, door Charivarius 24. Uit het
+Kladschrift van Jantje Ruize-Rijm, door Charivarius.
+Bijvoegsel: Van Embden's propaganda voor nationale ontwapening, teeke
+
+ning door Joh. Braakensiek.
+TABA SIGAREN
+ZIJN TOCH DE BESTE
+PARK-HOTEL
+B O T T K R I&gt; A M
+GRANDS VI NS DE CHAMPAGNE
+POL ROGER &amp; Cie.
+Agent General: JAQER BERLINBS, Haarlem
+Typ. Amst. Boek- en Steendrukkerij, voorheen Ellerman, llarms (X Co.
+
+</text>
+<image timestamp="2002:09:03:22:02:43.00" size="187936">D20042R.TIF</image>
+</page>
+</document>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18851011</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+So. 433
+DE AU STERDAMMER, WEEKBLAD VOOR NEDERLAND.
+van de papieren, den achteruitgang van den handel, al dat geld van daan
+komt, om al die mises-en-scène der vrouwelijke ijdelheid mede te betalen?
+Bier kan men moeielijk antwoorden: God weet het. Maar moet men veel
+
+eer zeggen: de duivel weet het! A. B.
+
+•LETTERKUNDE.
+
+PAUL MARGUERITTE.
+Een proeve van naturalistische kritiek.
+I.
+De hedendaagsche, hollandsche kritiek is verouderd, en behoort wel
+
+dra tot de herinneringen uit de geschiedenis onzer letterkunde gerekend
+te worden. Neem tegenwoordig een of ander vaderlandsch tijdschrift ter
+band; lees en herlees met .aandacht de daarin voorkomende letterkundige
+en kunst-beoördeelingen; en geef u dan rekenschap van hetgeen gij ge
+
+hoord en opgemerkt hebt. De eenige herinnering, die na eene dergelijke
+lezing in uw geest zal achterblijven, is het vage bewustzijn stapels chao
+
+tisch lyrisme te hebben doorworsteld. Onder uit de hoopen kritieken
+kuut gy geen enkelen beoordeelaar te voorschijn trekken, welke ontdaan
+van zijn retoriesch vertoon, zich overeind kan houden door eenig stelsel,
+hetwelk beantwoordt aan de eischen der logika en der objektiviteit. De
+heerschende kritiek heeft tot kenmerk tegelijk alle mogelijke en geen
+enkel stelsel te bevatten. ledere beoordeelaar wandelt tegenwoordig op
+de beenen zijner lyriek, vervolgt zijn weg naar de grillen sijner fantasie,
+zoekt lievelings-paadjes op en zet u neer op het bankje van zijn per
+
+soonlijken smaak. Elk belezen mensch kan vooruit berekenen naar welke
+plaats de kritikus u heen zal voeren, want hij heeft met hem reeds hon
+
+derden malen hetzelfde weggetje bekuierd. Het leger onzer beoordeelaars
+bestaat uit eene ordelooze horde van "ongelijksoortige individuen, sommi
+
+gen met een sprekend, anderen met een onbeduidend temperament, alla
+komende aanvliegen met hun persoonlijke kunstleer of kunstlcertje, zich
+baan makend door retorische kracht, ieder een kleine lichting van aan
+
+hangers geworven hebbende. Allen staan op dezelfde plaats te trappelen
+en zien geen kans om vooruit te komen, als een paard voor een te zware
+vracht gespannen.
+"Wat geschiedt or als een boek beoordeeld moet worden? Eerst wordt
+hot min of meer aandachtig gelezen, dan eene kleine vergelijking gemaakt
+met andere gelijksoortige werken, welke in een vergeten hoekje eener herin
+
+nering zijn bljjven hangen, en de beoordeclaar is gereed om te gaan schrij
+
+ven, want sjjn taak is gemakkelijk. Er bestaat een receptenboek der kri
+
+tiek, waarin ieder soort von werk zijn eigen toebcreidiugswijze vindt.
+Ziehier de meest algemeene voor den hedcndaagschen roman. Er wordt
+begonnen met de namen van het werk en den schrijver te noemen, be
+
+nevens dien van den uitgever en het jaartal der verschijning; dan wijdt
+meu eenige bladzijden aan de vermelding van den inhoud; daarop wordt
+het boek vergeleken met de vorige romans van denzelfden schrijver en
+beroemde werken van binnen- of buitenlandsche meesters; en vervolgens
+wordt het eone plaats tusschon al de aangehaalde voorbeelden
+aangeweien. Maar nu breekt de moeilijkste taak voor onzon kritikus eerst
+aan, want nu moet hij een oogenblik om stilte verzoeken, opdat de ge
+
+achte lezors en lezeressen in staat zullen zijn te vernemen wat Meneer
+de 'Beoordeelaar nog in het bijzonder te zeggen heeft. Het tijdstip is daar,
+om zijne persoonlijke opmerkingen in het midden te brengen. En nu gaat
+het zijn gewonen gang. Aan dezen persoon ontbreekt dit en aan een
+anderen dat; hier had de schrijver een weinig moeten bekorten en
+daar wat meer uitweiden; waarom heeft de schrijver niet liever dit ge
+
+daan in plaats van dat? Dan volgen eenige opmerkingen over den stijl
+en'wordt e* soms op eenige taalfouten gewezen; en ten slotte wordt
+den schrijver vertrouwelijk op den rug geklopt, bemoedigend toegeknikt
+en aangedaan de hand gedrukt of worden bedenkelijk de wenkbrauwen
+Refronsd, vertwijfelend het hoofd geschud, in vrome overpeinzing de han
+
+den in elkaêr ge'lagen. En hét mag niet onvermeld gelaten worden, dat
+de uitgever het werk in een aangenaam en net kleed hoeft gehuld."
+En vraagt men: wat is de reden, dat de kritikus deze of gene bemer
+
+kingen maakt, en dat hij goed of afkeurt? dan kan het eenige antwoord
+luiden: omdat dit de persoonlijke smaak van dien persoon was. Voeg
+hierbij, dat de beoordeelaar zijne orakelspreuken met veel retoriesch ver
+
+toon omkleedt, zich aan lyrische ontboezemingen overgeeft en een groot
+gedeelte van het publiek menigmaal het boek niet eens kent, en gij kunt
+u een voorstelling maken van' dit lyrische chacs, van deze huisbakken
+kunstleer, dit stelselloos kritiekgebonw.
+Te vergeefs zoek ik ouder onae hedendaagsche letterkundigen naar een
+man, die voor eenmaal zoo naïf is geweest déze lyrische
+termometerkritiek ter zijde te laten, zich los te maken van alle lyrisme en zijn per
+
+soonlijken smaak bij de beoordeeling van het werk buiten rekening te
+stellen. Wat heeft het publiek er aan of meneer A. liever gezien zon
+hebben, dat eenig romanpersoon anders geteekend ware geworden, nu
+het werk gedrukt is en er niets meer aan te veranderen valt? -Wie be
+
+kommert er zich over of Meneer B. op een ander punt bezwaren oppert,
+terwijl het boek in den handel is gebracht, 'en met zijne deugden en ge
+
+breken een toekomst te gemoet gaat en juist door zijne eigenschappen
+moet staan of vallen? Waartoe al dat nutteloos geschrijf en geredekavel?
+Waarom niet liever een anderen weg ingeslagen? Zie, hier hebt ge eenige
+werken van een schrijver, beschouw die als lichamen, waarop gij een
+vivïsektie gaat uitoefenen, stroop uwe mouwen op en zet het ontleedmes
+er in. Analyseer de werken, laat u zelve buiten sprake, blijf achter de
+koelissen, neem ze met hunne deugden en gebreken, keur de eersten niet
+goed en de laatsten niet af, maar gebruik ze onverschillig als gegevens,
+welke u iets leeren kunnen omtrent den schrijver en zijn talent. Plaats
+u óp het standpunt van den geleerde en handel als hij. Maak van uw kritiek
+een werk van analyse en logica, en zie dan, waartoe gij komt! Achter de
+werken zult gij een schrijver vinden met een bepaald temperament ? Bouw
+het op of leid het af uit de gegevens, welke gij uit zijne werken geput hebt
+of' die de kennis van zijn leven u verschaft heeft. Ga dan na hoe da
+schrijver, met dat bepaalde temperament, de stof behandelde, welke hjj
+zich tot onderwerp van zijn roman koos en zoek vervolgens het verbandl
+tusschen het temperament en de wijze waarop de stof is uitgewerkt. Pan.
+bezit gij een gegeven van waarde. Op dezelfde wijze moet gij vervolgens,.
+te werk gaan met andere, romans en andere kunstenaarstemperamenten
+en vermeerder zoodoende bet aantal uwer gegevens. Wat bezit, men dan?
+In de eerste plaats de kennis van een zekere hoeveelheid
+artistentemperamenten; in de tweede plaats de kennis hoe door die temperamenten
+bepaalde onderwerpen zijn opgevat en behandeld; en in de derde plaats
+bet verband tusschen die temperamenten en zekere werken. En nu zijt
+gij in staat wat nit uwe kritieken te trekken, want gij kunt beproeven uit
+uwe gegevens zekere regels en wetten te krystalliseeren, welke eenige
+helderheid brengen in den chaos van personen en werken. De veronder
+
+stelling is niet gewaagd, dat men, door deze bewijzen te volgep, langza
+
+merhand geraken zal tot de kennis der werking van het talent, op het
+oogenblik nog een der duisterste vraagstukken der menschelijfce psycho
+
+logie. De naturalistische kritiek moet alzoo een samenstel van analyse,
+logica en reductie wezen.
+De kritikus is genoodzaakt van het bekende uit te gaan, da. is: van
+de kennis zijner gegevens, om tot het onbekende door te dringen, dat
+is: tot de werking van het temperament van een zeker kunstenaar. Wan
+
+neer wij van de proefondervindelijke methode gebruik maken, ons niet
+door den ijdelen praal van eenig Jyriesch vertoon van den rechten weg
+laten afleiden, en vast besloten zijn tot het determinisme van het talent
+te geraken, kunnen wögerust de lyrische termometer-kritiek zich van
+zelfvoldaanheid laten opblazen, want in deze wetenschappelijke eeuw moet
+de overwinning aan ons zijn. De nu nog heerschende leer der persoon
+
+lijke meeningeu en van den persoonlijken smaak moge nog een kortston
+
+dig leven hebbon omdat het publiek er aan gewend is geworden, men
+kan verzekerd wezen, dat in de toekomst de wetenschappelijke methode
+van het naturalisme hare plaats in onze kritiek wezen zal, want zy is een
+kind onzer tijden, het noodwendige voortbrengsel van het einde der XlXe
+eeuw! 1) :
+De naturalist zal dus voor zijne beoordeelingcn zijne gegevens verza
+
+melen, er zijne gevolgen uit trekken, het temperament van den schrijver
+in verband met zijne werken beschouwen en zijne kritiek trachten op te
+bouwen door analyze en logika. Frans Netscher.
+
+1) Over eenigen tijd bon ik voornemens in oen uitgebreider opstel onze
+hedendangscho kritiek breedvoeriger te behandelen en de kritieeehe weiten van Busken
+Haet, Alberdiogk Tbijtu, Vosmaer, ten Brink e. a. ieder afzonderlijk nauwkeurig
+te ontleden.
+GODSDIENST BUITEN HET ONDERWIJS.
+II.
+Na het voorgaande bohocf ik niet uitdrukkelijk te verzekeren, dat
+volgens mijn raeeuing de godsdienst voor de vrouw geen noodzakelijke
+waarborg is om haar beter of gelukkiger te maken.
+Met of zouder godsdienst kan zij goed en gelukkig zijn, maar het
+gevaarlijke van den invloed van den godsdienst in 't bijzonder op het
+ontvankeliike vrouwenkarakter in aanmerking genomen, acht ik het hoogst ge
+
+waagd den godsdienst in de opvoeding der meisjes een plaats in te ruimen.
+Voed haar boofd en haar hart met de werkelijkheid, welke zij in het leven
+noodig heeft te kennen; leer haar het goede en kwade onderscheiden,
+maar laat het bovenzinnelijke stilletjes buiten spel, ook zonder dit element
+kan men edele brave vrouwen kweeken.
+Evenmin ben ik van oordeel, dat de godsdienst alle maatschappelijke
+plichten bevestigt, vrede, trouw en naastenliefde aanbeveelt. Wij spreken
+hier immers niet uitsluitend van een godsdienst in den edelsten zin van
+het woord, maar van godsdienst in de algemeene, onbestemde beteekenis,
+welke mej. Thijm in het begin harer brochure daaraan gaf. Tot welke
+afdwalingen de godsdienst de menschen dikwijls brengt, stipten wij ter
+loops reeds aan.
+Wanneer de vrouw ziek, verlaten of arm is, vindt zij steun noch hulp,
+of wordt zy gezonder door haar godsdienstigheid. Het is haar eerste
+plicht in deze omstandigheden de gevaren en ellenden van het leven flink
+onder de oogen te zien. Het gevoelige hart der vrouw zal evenmin
+door godsdienst als door wijsbegeerte bevredigd worden, het menschelijk
+hart zal nergens op aarde bevrediging vinden en het allerminst in het
+geloof aan iets onwezenlijks, aan een hersenschim. Bevrediging is ons
+levensdoel niet.
+De hongerlijdende moeder, die niet godsdienstig is, behoeft daarom nog
+niet wijsgeerig de ellende harer kinderen aan te zien. In ietwat
+christelijken hoogmoed meent de schrijfster, dat de niet-geloovige in zulke
+omstandigheden verbitterd wordt of het leven vervloekt. Verkeerd inzicht.
+Wanneer zulk een ongelukkige vrouw haar verstand gebruikt, zal zij
+haar handen uit de mouwen steken en den armen bloeden brood verschaffen.
+Dat zal haar en haar kleinen beter helpen dan het hopen op het hier
+namaals. Het bekrompen begrip: alles komt van boven, kan slechts een
+verlammenden invloed op de werkkracht der vrouw uitoefenen.
+Zonder meisjes in gevangenissen, toevluchtsoorden of kasteelen opge
+
+voed te hebben, meen ik toch met mej. Thijm bevoegd te zgn over op
+
+voeding te oordeelen; wij hebben toch beiden hoofdzakelijk onze onbe
+
+dorven Hollandsche meisjes uit de gegoede klasse op het oog.
+De' vraag dan van mej. Thijm: welke der beide stemmingen zedehjker
+is: die der vrouw welke in het ongeluk vloekt of die van haar, die
+hoopt op iets beters in het hiernamaals laat ik aan anderen over te be
+
+antwoorden. Volgens mijn innige overtuiging staat evenwel de vrouw,
+die de ellende haver kinderen, in Let bewustzijn van haar plicht te doen,
+; lenigt zonder vloeken of verbittering, zedelijk veel hooger dan de arme
+* zwakke, die lijdelijk de smart der haren aanziet in de gemakkelijke mee
+
+ning: dat het hun hiernamaals wel beter zal gaan. Ongetwijfeld zal
+de eerste zich bovendien gelukkiger gevoelen da het zwakke wezen,
+dat door het geloot aan den vergeldenden God zich staande houdt, intus-,
+
+</text>
+<image timestamp="2002:08:18:18:08:19.00" size="278094">D10001DO.TIF</image>
+</page>
+</document>

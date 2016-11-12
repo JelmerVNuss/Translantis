@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>18990430</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amerika en de Philippijnen.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 30 April 1899.
+Amst. Hoek- en Steomlrukkerï, v/h. Kllermari. Haring A: C o
+BELANGSTELLEND?: MOGENDHEDEN: Zou hij zijn hand er uit kunnen krijgen, zonder dit brokje
+los te laten r"
+
+</text>
+<image timestamp="2002:08:13:04:49:50.00" size="600248">D20001V.TIF</image>
+</page>
+</document>

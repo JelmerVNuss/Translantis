@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18771202</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+A
+
+t
+IK!!?
+ilijff
+ft • « «w S
+-' |~
+20
+2
+CO
+CD
+CD
+Gx
+
+g
+richt!
+HWIEP
+Hebben de eer to berichten, dat met l «H December een
+COKKS-KSjOPPClt met zcefd in werking wordt gebracht en yan uf dien datum voor
+het kloploon slechts ^Jf Ccilts peB' 39 Hilog zal berekend worden.
+i-s
+GASCOKfiS gezeefd .... per 33 Kilcs ƒ O.5O
+99 » en geklopt 0. 55
+f e haten MO Cenis minder.
+K4KTOOR, Itokio bij de Olieslagerasteeg, D 153.
+MAGAZIJN de Stoomboot", Prinseneiland bij de Galgenstraat, YV 153.
+JPÉi'OT, St. Jorissteeg bij liet Itokin, D 3. . (588)
+CG
+.10
+CD
+*»
+|r
+o&gt;
+i?bo
+
+</text>
+<image timestamp="2002:10:24:04:56:32.00" size="275131">D1000JP4.TIF</image>
+</page>
+</document>

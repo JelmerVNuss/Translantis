@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250314</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2492
+J. ». STRIJIJS &lt;&amp; Zn.
+Prinsengracht 837 P. G.Hooftstraat 140
+TEL. 37906 TEL, 29950
+Begrafenissen - Crematie - Transporten
+BUSSINt
+
+1HONKJKDEI
+*
+wordt door haar
+kwaliteit in alle goede
+zaken verkocht.
+Vraagt ze steeds.
+4
+- - A •—_
+» VT. l :y r
+
+MACDONALD&amp;MUIR'S
+and
+
+
+WHITE&amp;QOLD
+SCOTCH WH1SKIES
+
+45 f	45°!
+Jole n&lt;j»nf
+VAN BEUNINGENSTRAAT 5O
+OEN HAAG TEL. 52681 l
+M	L	l
+een zegen voor de huisvrouw!
+0. OBERINK &amp; Co.,
+Prinsenor 450 b d. Leidschestr,
+Tol. 37452.
+Aanleg van licht- en krachtinstallatiön.
+WIJNHANDEL
+
+M BOFFMili
+
+Amstelvetnsclieweg 218-220
+TEL. 21367
+
+Speciale aanbieding
+Org. Chateau Wijnen
+Ch&gt;u Palmer. . .
+Ch»u Margeaux. .
+Ch™ Léovllle . .
+Oh™ Vedrines 1918
+Chiu Armand Jouan'18
+Chiu Montrose. . _
+
+Bourgogne Wijnen
+Macon M&amp;B . f 1 50 p fl.
+Beaujolais . 1.65
+Per 12 fl. 5% korting.
+ALS U
+vóór Uw eten
+een glas Ouds zit
+te genieten zou U
+bijna vergeten dat
+het zoo goed voor
+U is.
+Toch is het zoo.
+Het wekt Uw eet
+
+lust op.
+
+
+F' OUD,
+Het tttquft met
+den Volendammer
+DROS
+VERPLEEGSTER
+Ucnetr
+Voor alle doeleinden
+NV
+Oiem.Kunstinrichting
+DirkSchnabel
+Amsterdam.
+CACAO
+Men koope in cacao
+kwaliteit
+Stoomwasscherij Het Zuiden
+PIETEB AERTSZSTRAAT 68-74
+TELEFOON 22365
+Is Uw ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerende prijzen en spoedige
+aflevering.—Vraagt prijsopgave.
+Aanbev. MEIDIG &amp; VAN ELVEN.
+BEGRAFENISVEREENIGINGl
+N. SAX Jr.
+l P.C Hoottstrtat 38 AMSTERDAM Telef.: 20341, 24250 l
+IREGELING VAN BEGRAFENISSEN EN
+j CREMATIES VAN UIT ALLE PLAATSEN l
+EIGEN LIJKKOETSAUTOMOBIELENl
+ADR1AAM SCRAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden naar Maat
+Vervaardigd op eigen atelier
+Bij ons verkrijgbaar
+N. R. V. nONTA SCHOENEN
+Lievegoed's Mayonnaisesaus
+
+smaakt verrukkelijk bij salade, visch, vleesch enz. Bovendien
+is op elke flacon een bon geplakt, zooals op alle artikelen van
+de Lievegoed's Fabrieken. 15 bons is o.a. l fl. Piccalilli,
+25 bons l fl. Kerry enz.
+
+N.V. DE HOUTTUINEN - AMSTERDAM
+Kleedermakerij naar Maat
+voor Dimti
+en Hiirtn
+II. K E M N K R
+voorheen Coupeur dor Firma P, M. BROEKMANS, Koningsplein, Amsterdam.
+
+B1LDERD1JKPARK 9 b/d. de Clercqstr. Telefoon No. 29891
+Colbert Costuums van al .... f 65.—Modama COUD8.
+Demi Saison van at	5O.—D,im,
+«l^orfci»Manteicostuums van ai	«s.—rrima atwerking.
+Stalen op aanvraag.
+EETKAMER-AMEUBLEMENT
+EIKENHOUT
+ONS EIGEN
+FABRIKAAT
+
+HET BUFFET,
+DE TAFEL,
+4 STOELEN,
+2
+ARMSTOELEN MET PR.
+HANDDRUK
+VELOURS
+
+
+FJ. 375
+J.J.Z1JFERS&amp;CO
+P. C. HOOFTSTRAAT 47
+KEIZERSGRACHT 523
+B. J. MULDERS
+TUINARCH1TECT
+Badhuisweg 201 Den Haag—Scheveningen
+Telefoon SO81O
+
+</text>
+<image timestamp="2002:09:03:05:02:24.00" size="140150">000005F6.TIF</image>
+</page>
+</document>

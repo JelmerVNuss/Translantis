@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030830</Datum>
+<Pagina>13A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Engeland's aanbod aan de Joden van een territoir in Zuid-Oost-Afrika,
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 30 Augustus 1903.
+Amst. Boek- eu Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+JOHN BULL : Een vrij land, een onafhankelijke, een zelfstandige Staat, maar onder mijn Suzereiniteit.. . .
+DE ZIONIST : Maar als wij dan eens diamanten vinden ?
+JOHN BULL: Dan kom ik zelf.
+
+</text>
+<image timestamp="2002:08:20:03:18:30.00" size="461655">D200201.TIF</image>
+</page>
+</document>

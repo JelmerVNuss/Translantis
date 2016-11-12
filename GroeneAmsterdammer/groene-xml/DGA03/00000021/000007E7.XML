@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400316</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+UIT DE KEUKEN DER BEELDENDE KUNST
+Foto Eva Besny
+WANNEER je de drie trappen van de deftige flats ergens in Amsterdam
+Zuid opgeklommen bent, wanneer je aan de deur van het atelier
+geklopt hebt, een stem een beetje ongeduldig ja" geroepen heeft,
+wanneer je door een laantje van tegen elkaar aangestapelde doeken binnen
+bent getreden en je midden in dat groote atelier den schilder Jan Sluijters ziet
+staan, voel je het woord Meester" bij je opkomen. Ondanks de koele, witte
+gepleisterde wanden van de verbouwde zolders van het keurige flatgebouw,
+ondanks de 2O-ste eeuwsche entourage van ramen en centrale verwarmings
+
+radiatoren, doet de schilder in zijn atelier terugdenken aan de meesters van
+de gouden eeuw. Dat zelfde breede gebaar, geenszins grof maar verfijnd en
+zelfs vaak precieus. Kracht en teederheid, mannelijke breedheid van scheppen
+en haast vrouwelijk aanvoelen. En daarbij een joviaal mensch, joviaal met een
+volstrekt begrip van zijn waardigheid en zeer zeker niet toegevend tegenover
+zijn medemenschen, zooals hij dat ook niet ten opzichte van zichzelf
+schijnt.
+Hij begon, als zoon van zijn vader, die houtgraveur was, met op zesjarigen
+leeftijd een catalogus van prentjes te voorzien, teekende, toen hij twaalf jaar
+was, de illustraties voor een Fransch leerboekje. Dat is niet belangrijk maar
+het toont de volstrekte natuurlijkheid van zijn talent en zijn opvatting van
+kunst ook als werk; het woord meester" stamt niet voor niets uit den gilden
+
+tijd. Illustreeren heeft Jan Sluijters lang volgehouden; hij verdiende daarmede
+'s avonds zijn geld, zoodat hij overdag kon schilderen en daarmede niets ver
+
+dienen l Want ook deze meester begon als gezel wiens doeken geweigerd
+werden.
+De techniek" heeft Sluijters, behalve op een avondteekenschool, nooit
+apart geleerd. Schilderen is toch niet moeilijk", zegt hij, je kunt het als je
+artiest bent. Als je weet wat je schilderen wilt, kun je het ook. Je kunt niet eerst
+de techniek gaan leeren en zeggen: en nou ga ik schilderen. Natuurlijk moet
+je je hand kunnen richten zooals je het wilt, maar dat kun je niet klassikaal
+leeren. Die techniek leer je in veertien dagen, maar goed te leeren schilderen
+leer je je leven niet!" En Sluijters vertelt mij: Voor ieder ding, dat ik makent
+moet, ben ik doodsbenauwd. Ik weet er van te voren niets van af. Je moet
+maar afwachten tot je het voelt, en dat gevoel zoo veel mogelijk versterken.
+Het gaat om de intensiteit, waarmee je de dingen aanvoelt. " En dan volg
+een definitie: Een schilder-artiest is iemand die in verhouding van kleur en
+lijn abstracte dingen gewaar wordt". En een wijsgeerige conclusie, die, met
+opzet, mij niets verder helpt en toch het alpha en omega is: Je bent artiest
+of je bent het niet".
+Overal staan op het atelier de Sluijters tegen de wand, ze hangen rondom; de
+kleuren gloeien, of zijn stil en boeiend. Het is er stil, geen rumoer van buiten,
+geen rumoer van beneden. De ezel staat op z'n vaste plaats, vlak voor een der
+wanden, bij de canapéwaarover drie, vier lappen met warmlevende kleuren
+hangen. lederen morgen om 9 uur komt de schilder op zijn atelier. En daar
+kijkt hij wat, bekijkt het werk waarmee hij bezig is maar hij doet niets voor hij
+,,er in" is, en het is meestal half elf voor hij iets doet. Het is, zegt hij, niet de
+kunst de spanning te krijgen, maar het is de kunst de spanning bij het schil
+
+deren te houden. Waarom hij werkt ? Een vraag, die niet te beantwoorden is,
+en die hij beantwoordt met: uit behoefte om te schilderen". Hij kan het zich
+niet anders denken. Daarom gaat hij ook zoo min mogelijk op reis. Na drie
+of vier dagen wordt hij ongeduldig en wil hij werken. Want er is een natuur
+
+lijke kracht die hem er steeds weer naar toe brengt.
+Bij het beeld van die gespannen energie hooren ook de sigaartjes die hij
+onder het werk rookt en hoort ook, dat hij in zijn groote atelier ruimte heeft
+om een paar stappen te gaan, zóó maar, of om zijn werk, waarmee hij bezig
+is, van uit de verte te bekijken, ook in spiegelbeeld, in een oud toiletspie
+
+geltje, dat hij aan een haak tegenover zijn ezel hangt.
+Later gaat hij mij voor naar beneden, waar hij een verrukkelijke collectie
+oude stoelen heeft. Oude weefsels en oude Chineesche beeldjes en andere cera
+
+miek. Hieruit put hij veel vreugde en zijn schilderijen aan den wand schijnen
+met deze oude meubelen en dingen zeer direct te harmoniëeren.
+En als ik het dan gezien heb en hij mij vriendelijk uitleg heeft gegeven en
+op enkele bijzonderheden gewezen, zegt hij op eens, zonder verder eenige be
+
+langstelling: En nu moet ik aan mijn werk gaari". H. B. F.
+PAG. II DF GROENE NU 3276
+
+</text>
+<image timestamp="2002:09:13:02:17:43.00" size="431077">000007E7.TIF</image>
+</page>
+</document>

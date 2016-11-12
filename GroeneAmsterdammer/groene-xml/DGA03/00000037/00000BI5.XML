@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18890922</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bij het Vijftig-jarig bestaan van den Hollandschen Ijzeren Spoorweg.
+
+
+BIJVOEGSEL van de Arasterdammer, Weekblad voor Nederland van 22 September 1889.
+lülli
+Toegang'totde Staüan^te^jnsld^ |||
+flj II [i ffel £lcaion&gt;
+f Jferöercrov&amp;ri*•
+StationV	^ cte~Omrii2)u*r :
+
+en
+tea/O S2 Z «nsden- 5$ '
+, //, jrnöb •/. en/ 4% uw,
+Reproductie van een prent, kort na de Opening van den Spoorweg van Amsterdam naar Haarlem uitgegev
+Sloomdrukkerij EUertnan. Hartns &gt;\" (.
+ven.
+
+</text>
+<image timestamp="2002:10:03:13:44:14.00" size="512249">00000BI5.TIF</image>
+</page>
+</document>

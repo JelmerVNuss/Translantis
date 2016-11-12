@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19081213</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De gladde Heemskerk.
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 13 December
+\
+/
+--' V
+
+&lt;V
+| i i ^
+f *&gt;
+: --v\
+;
+
+
+sè$
+^
+/.v-r' i:'
+&gt;&lt;"
+"T—77"
+: /^&gt;X
+/Vf
+&gt;
+/
+r" r
+7 r'' /-y
+
+/•^X^-T^'AX-'^.^ \.--v
+V^/V'-óW .;-:\V-. -Vv^A-'
+d/^fe^^^ly://),1.' /''"/
+t/^f~-/\ / '
+/ ,'
+A '\
+\
+/
+\ ..r.-**" F &lt; - ,-•'
+-r?r&gt;C&gt;! */•
+; *.||| .- , .^.HLT
+• -;? ?L- ^^ .L^JST,
+Am?!. Hoek- en SteendrukKs-nj,
+DE MANNEN VAN DE LINKERZIJDE: Daar is nou heelcniaa! ^een lu.uvasi aan! \Vat is-ic t{libbcri« !
+
+</text>
+<image timestamp="2002:08:15:10:00:38.00" size="326949">000001OQ.TIF</image>
+</page>
+</document>

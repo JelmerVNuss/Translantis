@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301220</Datum>
+<Pagina>54</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstnummer
+Booien en Meisjes voor de Huishouding
+door MELIS STOKE
+Niets kan den wreeden tand des tijds ontkomen,
+er is geen mensch, geen instituut, geen zaak,
+waaraan niet langzaam küster wordt ontnomen,
+of zich niet wijzigt tot een nieuwe taak
+in de ontwikkeling van alle dingen. ...
+'t Is dwaas, om blind voor die noodzakelijkheid
+den lof van het veranderde te zingen,
+en de verdiensten van den ouden tijd. ...
+En toch, de dingen die van onze jeugd zijn,
+en in wier sfeer ge vroeger hebt gespeeld,
+verschijnen ons of zij van hooger deugd zijn,
+en, 't moge zijn dat men het zich verbeeldt,
+maar 't is alsof, alleen omdat ze oud zijn
+en onherroepelijk, voorgoed, vergaan
+alsof ze ons zoo lief en zoo vertrouwd zijn
+als niets in 't tegenwoordige bestaan....
+Zoo ook, wanneer ik u verzoek te denken
+aan zulk een goede, ouderwetsche meid,
+die naar de sage wil u op uw wenken
+bedient, en het symbool der dienstbaarheid,
+de neepjesmuts, op 't knoetje heeft gestoken,
+en om geen extra-uitgaansavond vraagt,
+en niet van dansen houdt, laat staan van ronken,
+en rokken tot op hare enkels draagt,
+. . . ./of/n oude en gedienstige vertrouwde,
+die lederen avond in de keuken breit,
+en die, bij nader inzicht, maar niet trouwde,
+nadat zij ongelukkig had gevrijd,
+die dol op trappen loopen was en schrobben,
+en 't grofste werk met opgewektheid deed.
+en die mevrouw nooit reden gaf tot tobben,
+omdat ze zich in leidzaamheid versleet....
+dan schudt ge 't hoofd, en denkt aan arbeidswetten,
+aan meerder vreugde, ook in dienstbaarheid. . . .
+. . maar toch verlangt g'een beetje naar zoo'n nette,
+zoo'n onderworpen, anspruchslose meid. . . .
+Ook hier is het verteedering om 't oude,
+dat niet meer in 't moderne leven past,
+waarin we, om een goede meid te houden,
+met haar aanvaarden al dier wetten last....
+'Ie
+5-,
+O. . . .zeker. ... 't waren goede oude tijden,
+waarin we allemaal zijn klein geweest,
+maar ongetwijfeld minder voor de meiden
+en zonder twijfel voor mevrouw het meest.
+Maar dat gesloot is nu ook niet meer noodig,
+ze liggen niet meer boenend op den grond. .
+Door de techniek ten deele overbodig,
+begaf zich 't restje in een vakverbond.
+
+</text>
+<image timestamp="2002:09:22:12:20:38.00" size="68024">000008SW.TIF</image>
+</page>
+</document>

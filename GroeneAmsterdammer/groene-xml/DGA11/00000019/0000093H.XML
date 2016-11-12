@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300405</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 5 APRIL 1930
+No, 2557
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+BEGRAFENISSEN (m VERKiEZIKG met RIJTUIGEN c! AUTO'S]
+CREMATIE. - TRANSPORTEN.
+BJ1IIIII
+(ClichécS
+Voor alle doeleinden
+i NV
+P Cnem.Kunstinrichting
+IDirkSchnobei
+Amsterdam. *
+G. J,DE KONINGS ZOON
+Keizersgracht 447,
+Opgericht Ao. 17M
+
+Warmwatervoorziening.
+PAASCH
+
+EITJES
+van Droste zijn iets
+bijzonders. In diverse
+exquise smaken, o. a.:
+CRÈME DE
+CARAQUEeitjes met vloeibare
+roomchocolade, een
+bekende Droste-vulling
+Ziet toe, dat ge
+Droste's krijgt.
+//ALTIJD WELKOM"
+ABONNEMENTSPRIJS
+
+van ,,De Groene Amsterdammer'
+per jaar, bij vooruitbetaling
+franco per post :
+
+Voor Nederland ... f
+10.^,, Ned -Indiëp/mail .
+.. ,, ,, p/zeepost
+,, ab. binnen Europa
+uitgezonderd :
+,, Engeland-Italië- )
+Zwitserland . . ƒ
+Amerika	, 13.50
+Zuid-Afrika	11.50
+
+Postgiro No. 72880
+Gemeentegiro ,, G. 1000
+13.50
+10.
+11.50
+
+
+13.50
+ADRESSEER ALLEEN:
+»&gt;
+IN DEN SILVEREN
+MOLENBEECKER"
+KALVERSTRAAT
+A MIS T E R D A M
+HOOGSTRAAT 49 «
+DEN HAAG O l
+KAASSCHAAF
+met zilver handvat. Verkrijgbaar in
+6 verschillende uitvoeringen,
+QLAp,FIL
+,PARELRAND,PUNTFILÉ, PUNT-GROEF (1028) EN
+PISTOOLHEFT
+Prijs f 6.50
+Met IMIT. ANTIEK Handvat
+Prijs f 7.50
+Toezending door Nederland met
+30 cent verhooging.
+MET RECHT VAN TERUGGAVE
+ALS DEZE NIET AAN DE
+EISCHEN VOLDOET.
+Onmisbaar in het Huishouden.
+Firma KRÖNER
+Nieuwcndijk 167, Amsterdam.
+Tricot Dames- en
+Kinder-pyama's,
+Dames Gr. 42 44 46
+
+f 7.15 7.65 8.25
+Kinder
+Gr. 30 32 34 36 38 40
+
+f3.60 3.854.104.354.604.85
+BEGRAFENISVEREENIGING
+
+N. SAX J r.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+AUG, KAUPMANN
+P. C. Hooftstraat 113, Amsterdam Z., Telefoon 23308
+
+Speciale aanbieding Bed-, Tafel- en Huïshondlinnen.
+Zuiver Ijinnen Handdoeken	,65 et.
+Zuiver linnen Bordendoeken	60 et.
+Partij H. linnen Sloopen	f 1.65
+Partij H. linnen Bedlakeiis 16OX250 cM. f 5.75
+BESTANTEN
+FKANCO.
+Veilinggebouw De Zon"
+L. GIJSELMAN &amp; ZOON OPGERICHT 1823
+Singel 118—120 en Blauwburgwal 15, Amsterdam (C.)
+HEDEN, ZONDAG &lt; » MAANDAG van 10—3 uur
+KIJKDAGEN VAN INBOEDELS, enz.
+waarbij M.-, groot en klein Zilverwerk, SCHILDERIJEN
+(Apul, VcïKc-iniiii' .-.,",)• Antieke en Moderne Meubelen,
+Boekenkasten, Oud Porselein, H'-aiulk«si«-n (Ups c.a,.).
+BOEKEN, wa.a,i-bi.j BELANGRIJKE MEDISCHE Stan
+
+daardwerken.
+VEILING: DINSDAG 8 APRIL •' N &lt;•],• -'lu-n,!, ,hi,-n, (&lt;,(
+28 \p:ii. Catalogus a 25 Cent verkrijgbaar.
+LIASP1BOMMEL'
+BOEKBINDER
+KERKSTRA AT 50
+AMSTB3DAM
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+C. G. A. COKVEY, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO
+
+</text>
+<image timestamp="2002:09:25:08:58:49.00" size="160453">0000093H.TIF</image>
+</page>
+</document>

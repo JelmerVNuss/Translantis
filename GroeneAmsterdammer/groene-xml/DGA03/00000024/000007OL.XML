@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400831</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De levende prent der historie
+REEDS als men in oude foto-albums portretten
+beschouwt van lang geleden gestorven ver
+
+wanten, valt het moeilijk zich de personen
+op de beeltenissen levend, bewegend, sprekend
+voor te stellen. Er is iets in hun ouderwetsche kleedij,
+de mannen met hun gekleede jassen, stropdassen en
+vadermoorders, de vrouwen met haar queues of
+crinolines, wat het ons onmogelijk maakt hen
+onmiddellijk te vereenzelvigen met menschen zoo
+
+als wij zelf zijn en zooals er om ons heen loopen en
+bewegen. Wij weten, dat de woorden tof" en
+knallend" niet in den mond gepast zouden hebben
+van deze juffrouw met kornet en keelbanden en
+dat overgrootvader met die streng gesloten lippen
+nimmer op de autoped zou zijn gestapt van een
+nazaat om met lichte trippelpassen (in zijn laarzen
+met elastiek en stroppen) bij wijze van dolheid een
+tuintje rond te zwieren. Maar hoe zij zich dan wel
+in hun statie bewogen zullen hebben, dat kan onze
+verbeelding ons eigenlijk nauwelijks helder genoeg
+voortooveren.
+Natuurlijk houden de bewegingen van de mensch
+ten nauwste verband met zijn kleeding, zijn omge
+
+ving, zijn tijd. Over dikke tapijten beweegt men
+zich anders dan over onze parketvloeren De
+dichtgestopte huizen van het voorgeslacht met vele
+zware meubelen en behangselen, maken de mensch
+tot een ander wezen dan de ideaal woningen van
+staal en glas, die hem niet krampachtig binnen
+maar zooveel mogelijk buiten zetten, niet in het
+verschraalde, door gordijnen getemperde
+binnenlicht, maar in het natuurlijke licht van den waaien
+
+den bewegenden dag. Wat nu voor het uiterlijk
+geldt, geldt evenzeer voor het innerlijke. Ook de
+innerlijke beweging is anders, de reacties van de
+geest, van het gemoed vertoonen andere nuancen. In
+wezen verandert de mensch met zijn natuurlijke
+behoeften en dienovereenkomstige natuurlijke
+bestrevingen slechts weinig, maar toch maken de
+uiterlijke omstandigheden, waaronder hij leeft, zijn
+omgeving, de stand van wetenschap, godsdienst,
+cultuur, hygiëne, waarmee hij vertrouwd is en
+waartoe zijn gezichtsveld beperkt blijft, verschillen
+uit, die hem doen afwijken van wie onder gewijzigde
+constellaties leven.
+Door geschiedschrijvers is op zeer verschillende
+wijze het hoofd geboden aan de moeilijkheden,
+welke met deze nuance-wisselingen verbonden zijn.
+Het zou een uitgebreide studie vorderen, indien wij,
+de eeuwen door, wilden nagaan hoe dit procédébij
+de honderden geschiedschrijvers varieert. Wel
+zouden wij in het algemeen kunnen zeggen, dat
+de geschiedschrijving aanvankelijk onscheidbaar
+gelieerd was aan de letterkundige kunst. Het
+schrijven van historie was, na de poëzie, waar
+
+schijnlijk de eerste vorm van beoefening der fraaie
+letteren, de bakermat als het ware van het proza.
+Bij de oude Chineezen was reeds vroeg de historie
+
+schrijver een aanzienlijk keizerlijk functionaris en
+men is in China, de eeuwen door, voortgegaan
+de geschiedschrijving onder de fraaie letteren te
+rangschikken. Van de klassieke schrijvers der
+Grieken en Romeinen zijn de proza-auteurs voor
+het meerendeel geschiedschrijvers. De oudste, de
+vader der geschiedkunde, Herodotus, gaat er prat
+op zooveel mogelijk historische plekken zelf bezocht
+en veel van ooggetuigen en uit overlevering bij
+monde vernomen te hebben. Dit bezoeken der
+historische plekken, deze overdaad aan typeerende
+anecdoten, die zijn werk tot een verhalencyclus
+maakt, bewijzen reeds de neiging althans zooveel
+mogelijk het oude, in den vorm waarin het levend
+was, levend voor oogen te stellen.
+In onze nieuwere tijden is de geschiedkunde het
+terrein geworden van vorschers, die wel veel wisten
+en wetenswaardigs er bij vonden, maar die vaak zoo
+nauwgezet wetenschappelijk van opleiding, aanleg
+en opvatting waren, dat ze het element der ver
+
+beelding, die alleen in staat is de doode stof leven
+in te blazen, als onverantwoord buiten werking
+lieten, voorzoover ze althans over verbeeldings
+
+kracht beschikten. Aanvankelijk waren de groote
+historici, ook der nieuwere tijden, naast deugdelijke
+geleerden ook schrijvers van stijl, maar de overtui
+
+ging, dat de studie, de kennis, de wetenschappelijke
+nauwgezetheid hoofdzaak en de vorm, de schriftuur
+van bijkomstige beteekenis waren, leidde op den
+duur tot veel kurkdroge geschriften, die alleen tot
+bron van studie, maar allerminst tot verheldering
+van de voorstelling konden dienen.
+Onder den invloed van een tijd, die door velen
+als weinig goeds belovend, door sommigen als af
+
+schrikwekkend werd gezien, kwam in onze dagen
+de mode zich in het verleden te willen verdiepen
+met kracht op. Dit heeft een schaduwzijde, wellicht.
+Maar ook de lichtzijde, dat nu ook de met verbeel
+
+ding begaafden zich, ongeroepen en soms
+ongewaardeerd door de officieelen", met de historie gingen
+bezig houden. Van de aan historie gewijde boeken,
+die in alle landen met groote ijver en in overstel
+
+pende mate werden geproduceerd, is waarschijnlijk
+het overgroote deel op zich zelf van weinig of geen
+belang. Maar dat met zulk een vuur als nooit te
+voren in de geschiedenis werd gegrasduind, is toch
+uiteindelijk n voor onze vertrouwdheid met de
+historie n voor de geschiedschrijving als onver
+
+brekelijk deel der fraaie letteren van onschatbare
+beteekenis geworden. Al waren al die boeken, stuk
+voor stuk, lang geen meesterwerken, er is toch lang
+
+zamerhand iets gebeurd wat broodnoodig was: de
+dreun van onze oude leerboekjes is op de vlucht ge
+
+dreven door deze nieuwe Geschiedenissen, deze
+monographieën in populairen" trant, deze vies
+romancées", deze historische romans, die ook den deftigen
+toonaard van Van Lennep hadden afgelegd. Psycho
+
+logen, die zich hadden bezig gehouden met lief en
+leed van Jan, Piet en Klaas, die zich geoefend hadden
+in het doordringen van de ware drijfveren van den
+mensch, die zich hadden leeren verplaatsen in
+anderen, in andere omstandigheden ook dan de
+hunne, konden gemakkelijker dan de getabberde
+professoren zich verplaatsen in omstandigheden,
+welke niet meer bestaan, in nuancen, die zijn ge
+
+wijzigd en in de drijfveren van vorsten, die zij uit
+de versteende historiebladen hunner leermeesters
+niet als mensch, niet als wezen van vleesch en bloed,
+maar als naam, als symbool, als boekenheld" had
+
+den leeren kennen.
+Er is in het geschrijf van veel romanschrijvers,
+die historische onderwerpen behandelen, natuurlijk
+veel onwetenschappelijks en weinig-verantwoords.
+Men kan nu eenmaal niet alles tegelijk zijn: een
+goed kunstenaar is maar zelden een groot geleerde
+en weinig groote geleerden zijn goede kunstenaars
+geweest. Maar in elk geval is de mummie der
+historie weer tot het leven ontwaakt en bloedrijk
+geworden. Voor vele pas-begrepen nuancen is de
+aandacht gevraagd en wij weten nu, en reeds dit
+weten is kostbaar, dat wij de historie niet kunnen
+leeren uit haar versteende en verstarde histo
+
+rische momenten" alleen en niet uit haar opge
+
+zette, gemummificeerde figuren, maar uit levende
+stroomingen, uit een opeenvolging van daden, die
+nog de warmte in zich hebben van de menschelijke
+hand, die ze verrichtte en uit een massa
+personnages, die ons sterker verwant zijn dan wij ons,
+al leerend en studeerend, bewust werden.
+
+OOK in Nederland is op groote schaal toenade
+
+ring tot stand gekomen tusschen de kunste
+
+naars en de geleerden, zonder dat deze
+bijnategenstelling vaak tot een eenheid werd. De roman
+
+schrijvers grijpen naar allerhande onderwerpen,
+soms ook naar zulke, die al genoegzaam schenen
+uitgeput. Zoo kwam kort geleden een boek van
+de pers, getiteld: ,, Jacht op Bonaparte", een
+Talleyrand-roman, door Constant van Wessem
+(A. W. Brnna, Utrecht). Een boek over Napoleon
+I, waarin deze zooveel beschreven figuur niet de
+hoofdpersoon is; dit is op zich zelf reeds merk
+
+waardig. Van Wessem is een van de schrijvers, die
+inderdaad diep beseffen hoezeer wij onze verbeelding
+moeten spannen om de befaamde foto uit het
+portretalbum levend, bewegend en sprekend voor
+te stellen. Hij maakt zich los van alles wat hij van
+Bonaparte weet, hij sluit die kennis weg, omdat ze
+hem zou hinderen bij het onttoomen der verbeel
+
+ding. De kennis der feiten blijft de handeling in zijn
+roman bewaken, hij gaat nergens buiten die feiten
+om, maar hij lascht ze ook nergens illusie ver
+
+storend in. Hij gaat van de veronderstelling uit, dat
+wij een zelfde kennis deelachtig zijn en acht het
+derhalve onnoodig ons in te lichten of historisch
+te verklaren. Hij schetst slechts in eene levendig,
+wel aangekleede handeling, de jacht, die een door
+
+trapt, gewetenloos menschenkenner, Talleyrand,
+bijna onbaatzuchtig en grootendeels tot eigen ver
+
+maak, organiseert op een tegenstander, die eerst
+vrijwel zijn mindere (generaal Bonaparte), later
+zijn meester is (keizer Napoleon I). Hij schetst die
+jacht van een logisch, een psycho-logisch, gezichts
+
+punt uit. Bijna onbaatzuchtig, niet geheel, want
+Talleyrand, de man van het ancien régime, haat de
+keizerskroon, die het voortbestaan der i8e eeuw
+voor goed onmogelijk dreigt te maken. Hij is
+bovendien de man, die van een lichaamsgebrek,
+een kreupele voet, de energie der wanhopigen heeft
+mee gekregen, die van de nood een deugd maken
+moet. Ook van zijn onbetrouwbaarheid maakt hij
+zijn deugd, zijn ondoorzichtigheid boezemt den
+genialen droomer der onbeperkte droomen, die
+doorzichtige menschen allicht te begrensd zal
+hebben geacht, telkens opnieuw vertrouwen in,
+waardoor hem de gelegenheid, telkens opnieuw,
+geboden wordt zijn meester op zijn gemak te ver
+
+raden en te verkoopen. Het is geen wonder, dat
+men een demon gaat zien in dezen Talleyrand;
+op het oogenblik, dat Napoleon de dubbelzinnigheid
+van het spel zijns ministers zonneklaar voor zich
+ziet, zal hij hem beleedigen, striemen, hoonen;
+afdoende straffen en zich voorgoed van hem ont
+
+doen kan hij zelfs dan niet. Tot zulk een hoogte is
+het demonische in zijn tegenstander gestegen, dat
+het onvernietigbaar is.
+Door dezen Talleyrand tot hoofdpersoon van zijn
+roman te maken en ons Napoleon te laten zien,
+hoofdzakelijk door het oog van den i8e eeuwer,
+den demon en diplomaat, geeft de schrijver ons een
+in vele opzichten nieuwe kijk op de historie. Ik
+kan en wil niet beoordeelen of die visie juist is,
+in elk geval wijkt zij af van de gebruikelijke en is
+in dien zin leerzaam. Er zijn bronnen genoeg voor
+wie er belang in stelt, om na te gaan in hoeverre
+men er correcties in zou willen aanbrengen.
+Een groote verdienste van het boek, dat ook als
+roman boeiend is om de geweldige gebeurtenissen,
+die er, men zou geneigd zijn te zeggen met het
+gemak van een accrobaat, door heen zijn ge
+
+vlochten, is deze, dat het vederlicht geschreven is.
+De verklarende leerboekjeszinnetjes" ontbreken,
+de allerbekendste feiten zijn er kort maar duidelijk
+in geschetst, de voornaamste figuren Talleyrand,
+Bonaparte en Josephine spelen er hun spel als een
+actie van groote poppen in een reeks enkelvoudige
+scènes tegen een zeer bewogen achtergrond. Maar
+het geheel behoudt het speelsche der dichterlijke
+fantasie, waardoor wij ons, beter dan uit vele
+wetenschappelijke geschriften, het menschelijke in
+drijven en doen, ook van historische personen,
+kunnen verbeelden. Het daalt niet af in details en
+laat ons, evocatief, vele details duidelijker zien,
+juist door ze niet te noemen.
+Het procédévan den romanschrijver Van Wessem
+is natuurlijk een gansch ander dan dat gevolgd door
+Jan. Walch in zijn Karel de Stoute" (een deel uit
+de serie Historie en Memoiren, bij J. M. Meulenhoff,
+Amsterdam). Prof. Jan Walch stelde zijn boek
+samen uit een reeks voordrachten, die hij hield in
+de Sorbonne. Men heeft hier dus met een meer
+wetenschappelijk werk te doen. Doch ook Jan
+Walch toont in dit boek, overvol details, dat hij
+belletrist is in de eerste plaats. Hij legt het eigen
+
+aardig accent van zijn geamuseerde persoonlijkheid
+in de historie van dezen Bourgondischen Hertog,
+die in het derde kwart van de XVe eeuw onze
+landsheer was. Hier niet de soberheid, die elders
+de romanschrijver betracht, hier in kort bestek
+integendeel zooveel mogelijk details
+samengedrongen, hier zooveel mogelijk knooppunten en
+aanknoopingen met de omringende tijden, de om
+
+ringende volkeren en hun lotgevallen. Hoe wil men
+trouwens iets wezenlijks over zulk een figuur als
+Karel de Stoute, over een tijdvak als het bonte
+Bourgondische, over een tijd op de drempel tusschen
+Middeleeuwen en Renaissance anders dan met
+tallooze miniaturen uitbeelden, zoo men een denkbeeld
+geven wil van wat er allemaal leefde, groeide en
+geboren werd.
+Walch deelt zijn werk in drie boeken. In het eerste
+, ,de Erf prins" toont hij den kindertijd van dezen vorst,
+zijn conflicten met Filips (de Goede), zijn vader, zijn
+omgang met den dauphin, den lateren koning
+Lodewijk XI, naderhand zijn leenheer, zijn suzerein,
+maar tevens de man, die zijn ondergang bewerk
+
+stelligen zal. In het tweede ,,Karels staten en hun
+toestand", geeft de schrijver een vlot maar zeer
+summier overzicht van de cultuur van het Bour
+
+gondische tijdvak: rechtspraak, krijgskunde, kunst
+en letteren, om tenslotte het derde boek Karel als
+Hertog", hoofdzakelijk te vullen met het relaas
+van zijn vele politieke en militaire daden, welke
+uiteindelijk tot zijn nederlaag hebben geleid, op het
+oogenblik, dat hem de hoogste bekroning van zijn
+streven als toomelooze eer- en heerschzuchtige voor
+de oogen begon te schitteren: de keizerskroon.
+Wanneer een causeur u over zulk een druk, bont
+leven uren lang praat, zonder u een oogenblik te
+vervelen, zonder u te vermoeien ondanks de duizend
+uitweidingen naar links en rechts, u bovendien
+tallooze dingen meedeelt of in het geheugen terug
+
+roept, aangaande sommige verschijnselen het licht
+werpt van een onbekend inzicht, nieuwe verge
+
+zichten opent en verbanden aannemelijk maakt
+waar ge ze niet had gezocht, dit alles bovendien
+overstraald door de aangename humor van een
+prettig, beschaafd prater, die terdege zijn weetje
+weet, dan zijt ge allicht erkentelijk gestemd. En zoo
+eindig ik ook de lectuur van dit beknopte, maar zoo
+veel en zooveel verscheidens omvattende boek met
+een gevoel van erkentelijkheid en voldoening.
+C. J. KELK
+PAG. 8 DE GROENE No. 3297
+
+</text>
+<image timestamp="2002:09:13:08:52:38.00" size="261862">000007OL.TIF</image>
+</page>
+</document>

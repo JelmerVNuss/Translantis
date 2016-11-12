@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19251121</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DÉGROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2528
+STOOMEM - VERVEM
+Aflevering Stoomgoederen ca. 7 dagen
+
+., Verfgoederen ca, 10
+PALTHE-ALMELO
+EUASPIBOMMB:
+KERKSTRAAT 55
+AMSTB^DAM
+Heden verscheen een nieuw
+Meisjesboek van de bekende schrijfster
+J. P. ZOOMERS-VERMEER
+
+
+OP R02EHOFJE
+Geïllustreerd door NELLY HEILIGERS
+Prijs f 1.10, keurig gebonden f 1.75
+In eiken Boekhandel verkrijgbaar.
+Uitgave van v. HOLKEMA &amp; WARENDORF
+AMSTERDAM.
+Amsterdam
+Den Haag
+Lederen Auto
+
+overschoenen
+EN
+Voetenzakken
+HN ALLE PEUJZEN
+Levering door hei geheele
+land franco
+Ons 3 jarig huursvste
+uns o jarig nuursvsteem
+\/erqemakkeluKt de
+aanschaffing
+
+Catalogus qaarne
+ter beschikking
+UITGAVEN VAN J. B. WOLTERS,
+GRONINGEN, DEN HAAG.
+
+LETTERKUNDE
+J. B. Besanfon en W. Struik, Précis historique et anthologie
+de la littérature franchise, avec de nombreuses illustrations.
+Twee deelen, ing. f 8,50, geb. f 9,50. Elk deel afzonderlijk
+ing. f 4,25, geb.	2e druk f 4,90
+B. E. Bouwman en Th. A. Verdenius, Deutsche
+Literaturgeschichte, mit Abbildungen und Portrats. Twee deelen,
+ing. a f 2,75, geb	Ie druk a f 3,50
+Gebonden in n band f 6,25, in twee banden f 6,75
+Prof. R. Casimir, Ds. G. Horreus de Haas en Mr. Hein Willemse,
+De Gouden Poort. Bloemlezing. Gedachten van mede
+
+standers in grootscher streven, geb	f 2,90
+Dr. G. Kalft, Geschiedenis der Nederlandsche Letterkunde.
+Zeven deelen, geb	af 7,90
+Dr. G. Kalff, Westeuropeesche Letterkunde der 15de en 16de
+eeuw. Eerste deel, geb	f 8,90
+Tweede deel: Hervorming en Renaissance, geb	f 8,25
+K. ter Laan, Nieuw Groninger Woordenboek, met kaarten en
+platen van Johan Dijkstra e. a. Compleet in pi.m. 15 af
+
+leveringen van 3 a 4 vel.
+Prijs per aflevering	f 0,60
+Voor leden van de Ver. ,,De Grönneger Spraok", mits door
+de afdeelingsbesturen opgegeven, prijs p.afl., incl.band f 0,50
+M. A. P. C. Poelhekke, Lyriek, geb	:	f 5,90
+M. A. P. C. Poelhekke en Dr. C. G. N. de Vooys, Platenatlas
+bij de Nederlandsche Literatuurgeschiedenis, gecart.
+f 4,50, geb	3e druk f 4,90
+Dr. J. Prinsen J.Lzn., De Roman in de achttiende eeuw in
+West-Europa, geb	f 15,00
+Dr. C. G. N. de Vooys, Verzamelde taalkundige opstellen.
+Twee bundels, geb	af 5,90
+Dra.W. C. Wittop Koning—Rengers Hora Siccama en Herman
+Poort, De Bloeiende Bongerd, Bloemlezing. Een inleiding
+tot de literaire kunst, ten dienste van Gymnasia, Hoogere
+Burgerscholen, middelbare Meisjesscholen, Kweek- en
+Normaalscholen.
+Eerste deel, met 8 portretten, ing. f 3,25, geb. 4e dr. f 3,75
+Tweede deel, met 12 portretten, ing. f 3,25, geb. 3e dr. f 3,75
+
+
+OPVOEDKUNDE
+J. H. F. Kohlbrugge, Practische Sociologie.
+Deel I: Sociale opvoeding (De mensch in dienst der maat
+
+schappij), geb f 3,90
+Deel II: De zorg voor het normale kind, geb. ... f3,90
+I. Kooistra, Zedelijke opvoeding, ing. f 2,90, geb., 10e dr. f 3,90
+I. Kooistra, Menschen in wording, ing. f 2,90, geb. f 3,75
+I. Kooistra, Van Ziel tot Ziel. Paedagogische voordrachten en
+schetsen, ing. f 2,90, geb	2e druk f 3,50
+I. Kooistra, Onze groote kinderen. Over opvoeding in de
+puberteitsjaren.
+I. Hun wezen en ons doel, ing. f 3,50, geb. 2e dr. f 4,50
+II. Streven naar ons doel, ing. f4,50, geb., 2e dr. f 5,50
+Jan Ligthart, Verspreide opstellen (Volksuitgave). Twee
+bundels, met portret van'den schrijver, geb.;3e druk a f 1,50
+Jan Ligthart, in Zweden (Volksuitgave), met portret van den
+schrijver, geb	3e druk f 1,50
+Jan Ligthart, Over opvoeding (Volksuitgave). Twee bundels,
+met portret van den schrijver, geb	6e druk a f 1,50
+Jan Ligthart, Jeugdherinneringen (Volksuitgave), met portret
+van den schrijver, geb	8e druk f 1,50
+Dr, J. L. Prak, De Psychotechniek der Beroepskeuze, met
+16 figuren, geb	f4,50
+UITGAVEN VAN J. B. WOLTERS
+BREESTRAAT 109
+LEIDEN
+GRONINGEN
+DEN HAAG. "
+
+</text>
+<image timestamp="2002:09:03:22:47:03.00" size="155633">0000062T.TIF</image>
+</page>
+</document>

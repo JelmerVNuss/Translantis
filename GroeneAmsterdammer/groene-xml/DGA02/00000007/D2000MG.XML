@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000916</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1212
+D;E AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+'Willem de Zwijger en Wiliem de Spreker.
+Een leelijk vrachtje. (Silhowtte).
+WILLEJI DE SPREKER : «Dwaas toch, dat iemand door te ziuijjen ook een groot man kan worden."
+
+Meer geld noodig! (Picture politie').
+Een ongelijk span, (Jti'ly).
+CIVILISATIE (sotto voce): »Ik ben benieuwd hoe lang ze samen
+in n span blijven loopen !"
+Twee Gracieus Queens''. (SUhouette).
+JOHN BCLL : »Nu kan ik nog gemakkelijk leenen ... maar
+later... later,... dan moet ik betalen!"
+(De Kanselier van de schatkist stMe op 30 Juli LI. voor
+om nog dtrtien millioen te leenen).
+
+De Chineesche taart, (Der Floh).
+EITKOPA : «Kinderen, als jelui ieder een siuk hebben wil, moet ik de
+taart stuk anoden. Weet je wat, lik er n voor n even aan, dan
+mooi neel •'"
+f-~ JOHX BCLL: »De cbolera, de pest, de gele koorts, die zal ik nog impor
+
+teeren om mij te helpen by mrn kleine guitenstreken."
+
+Hoogst noodzakelijk. (Moonshine).
+FfNCTioxARis : »Zeg eens, John wat doe je daar?"
+JOHN BCLL: »Ik maak hier alles eens goed schoon, dat is het
+eenige middel als we een leger willen hebben."
+
+Verkiezingen! (Morning Leader).
+BONNI'. CIIA.MUEBI.AJN: »Kom dan toch jongenf, 't water wordt hoe langer
+boe kouder."
+
+In China. (Caran d'Ache in den Flgc.ro).
+Wie weet hoe goed wij mekaar hadden kunnen verstaan !
+»(ltnerital ron Waldersce roert een opmincbaar
+lutis ntcde, dat alle mogelijke comfort aanbiedt;
+ih Maars-chalk zal er zich geheel tehuis vinden te
+midden van hem bekende en geliefde zaleen."
+OPPASSER : »Waar wil u Moltke hebben, generaal ?"
+
+</text>
+<image timestamp="2002:08:15:01:48:43.00" size="477735">D2000MG.TIF</image>
+</page>
+</document>

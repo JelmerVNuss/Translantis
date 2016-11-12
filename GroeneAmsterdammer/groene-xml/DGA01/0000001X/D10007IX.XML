@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260424</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VRAAGT
+; *
+
+VAN BIJSTERVELD'S
+
+
+ADVOCAAT
+Een BETROUWBAAR merk
+'n 31-jarige gunstige
+reputatie.
+
+Overal verkrijgbaar in de bekende
+doozen en tuben.
+F. Z U RCHER
+CARTONNAGEFABRIEKenDRUKKERIJ
+
+LOOIERSGRACHTó4-66-68-70-72,AMSTERDAM
+ARNHEM (Groote Markt)
+
+HOTEL DES PAYS-BAS
+BRAND-, INBRAAK-,
+
+NERING
+
+
+EN ANDERE
+
+VERZEKERINGEN
+
+Vraagt offerte!
+
+
+A. D. BEERENDS 6 VEEREN
+
+AMSTERDAM - LEEUWARDEN
+N.V. Meulelmagazijn EDEN"
+i MOLSTEEG-AMSTERDAM
+
+.BOEKENKASTEN
+ELASIE, CASPERS &amp; GO.
+llehangerij - Ameublementen - Stoffeerderij
+i Moderne LandhuisstofiFen en
+i . Oud-Hollandsche Meubelen
+jWfZELSTRAAT 110 en 126 TELEFOON «739 « 37354
+de heerlijke Cacaodrank
+wordt gedro0kennlmet Melk of Spuitwater
+
+Benige Fabrikanten F. KORFF 3 Co., Amsterdam
+J
+PROJECTIE-LANTAARNS
+
+EN BIOSCOPEN
+
+
+CAPI
+
+AMSTERDAM DEN HAAG
+115 KAUVERSTB- 124 NOORDEINDE
+
+NIJMEGEN GRONINGEN
+3 KL
+PELSTERSTB13 MAAREEN
+
+KARELI
+SENKING
+
+gascomforen en
+
+fornuizen
+
+brengen GELUK in
+
+uwe huizen
+
+
+OVERAL VERKRIJGBAAR
+
+
+Adres voor den handel
+JOH. H. VAN DER MEIDEN
+AMERSFOORT
+N.VVH.
+
+HA-KLOOSTERHUIS
+
+AMSTERDAM
+SNELBLUSSCHER
+
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+CDA M TA A DF\ £, C~ FABRIEK ESPANA
+oFANJAAKU o Lo, UTRECHT
+Meubelen naar eigen onttverpen of naar oude stijlen
+
+
+ARNOLD HOUTSCÜILT
+
+Singel 283
+Amsterdam
+WERF
+
+MCQIAAS WITS'EN'
+
+STOEL-ALKMAAR
+VOORAFLEVERIHC
+GEREED: '
+DIRECTIE MOTORBOOTEN
+|TIMTUR|
+DE [GROENE AMSTERDAMMER
+
+
+Weekblad voor Nederland
+
+
+kost slechts f 3.- per kwartaal of f
+10.
+
+per jaar bij vooruitbetaling
+Fijne likeuren
+Dit weekblad wordt gedrukt op papier van de Trapeha, papiergroothandel - Amsterdam
+
+</text>
+<image timestamp="2002:09:25:11:03:23.00" size="146098">D10007IX.TIF</image>
+</page>
+</document>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000805</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 12ÖG
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De Chineesche Blauwbaard.
+A/V
+vyv
+* A/
+Li-HcNG-Cii\sü(lot den nie'iw bsnoeaifleii Did'schin (/ei't-tt, Vch. AI u MM vos SUIUVAKT/ÏS'STEIN) : »U\ve Excellentie mag alle sleutels
+gebruiken, alleen dit kleintje niet."
+Het dankbare China en de Europeesche instructeur.
+(Hik).
+St. George in China.
+(Der Ftoh).
+Sluiting? (Pa^nino).
+Sr. (ii'.oiir.i.: «DorrfirwPltPr'. maakt p'asts PU overlegt niet zoo 1; nj
+als ge niet wilt dat de draak ons allen verslindt.''
+Oproer. (Lustige Sluiter).
+De Boeren en de Engel^chen Kt^ün verl)fia«&lt;1, dat het
+publiek zich zoo weinig meer orn hen bekommerd zonden
+ze dus niet goed doen het oorlogstoor.ee! maar te sluiten V
+
+In het Chineesche Restaurant. (I.nkilje TA"* t ter).
+
+dtn Biicreiihooii g?ptutcrd, dat wij dit n b.Li-ien troap i-.tn'. den hals krijgen."
+
+
+Bij Nïtraisnek. (l'tk).
+\
+De jagers en de Beer (gemoderniseerde fabel).
+(Fischietlo).
+vv ,
+M«.^^** ' * &lt;$. i
+
+,'\ , , f *«^v/
+,: • • ;. a
+Dood aan den beer . . . maar wee hem, die de huid aanraakt.
+De oorlogskerrnis. (Sketch).
+-&gt;Kom jmrry. latrn we die oudh.'ikkpn K: ^ertent maar voorbijgaan,
+ze beginnen daarnaast een nieuwe voorstelling.''
+
+
+Een onbetrouwbare telefoon. (Der Zloh).
+(\;'\.\: »t Wordt lij'i om oriie te nmk&gt;-)i in Ciiina ;—ver: taat u me V'
+
+.lu'/ix: &lt;T);tn zal ik maar v:v-t met "_'&lt;lo&lt;jO man hirinenrvkken."
+I!i -i..\Ni'.: &gt;\Vat zegt u? ik versta u niet. Laten we later maar
+ser.s sprH;er.':
+
+
+Een gewaagd spel, (dran d'At-he in den Figaro).
+
+£--, -•""'"?-. O ~^ ^--:&gt; "::^
+^&gt;/ l
+'^r, r^
+RUSLAND (tot zijn Fransche Itoniljt) : -&gt;Köm Ami, als ik genoeg gogeten.
+3»eb, valt er voor jou ook een worstje af i"
+Was Sie denken
+is nich.
+/&gt;e Spelers: .Iaat uw inzet ook eens kijken, Li-IIung-Char.g !''
+
+</text>
+<image timestamp="2002:08:14:21:06:30.00" size="420124">D2000KO.TIF</image>
+</page>
+</document>

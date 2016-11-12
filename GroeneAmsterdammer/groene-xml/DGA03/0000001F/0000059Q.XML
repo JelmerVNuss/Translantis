@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250117</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AM51 URUMMMEH,
+HUi
+••
+VEILINGGEBOUW ||
+
+Nieuw-leerenlogement
+Keizersgracht 129-131 Amsterdam
+TELEFOON 45180
+Dir. JAC. LEEFSON Jzn
+
+Veiling 20 Jan. as.
+Zaterdag 17 Jan.
+Zondag 18 Jan.
+Maandag 19 Jan.
+De Kind- en Kunst-Serie
+DOOR
+Mevrouw VAN OSSELEN—VAN DELDEN
+en MARIE HILDEBRANDT
+Met talrijke illustraties van BENJAMIN RABIER
+In deze serie zijn verschenen:
+Deel I. BOBO, de Geschiedenis vaneen Aap.
+Deel II. PIET WIPNEUS.
+Deel III. EPPIEN TOEF.
+Deel IV. DE KLEINE KROOT.
+Prijs per deel, fraai gebonden, f2.50
+EENIGE PERSOORDEELEN:
+Platen en teksten zijn zeer vermakelijk en de groate,
+royaal uitgevoerde boeken met tal van geestige teekeningen
+in kleuren en zwart, vormen prachtige feestgeschenken.
+De Avondpost.
+
+Om deze grappen zullen de kinderen lachen, eveneens
+om de plaatjes, die verbazend demonstratief zijn.
+Htt Vaderland.
+Uitgave van VAN HOLKEMA &amp; WARENDORF A'dam.
+» V~TI i n r
+MACDONALD &amp;. MUIR'S ""
+ff maim mm9 m^ ftm
+and
+
+WHrre&amp;GoiD
+SCOTCH WHISKIES
+45 .'	45°!
+SoU dytnt
+VAN BEUNINCENSTRAAT 5O
+OEN HAAG TEL. 52681 i
+G. i. DE KONING J Zn. - Keizersgracht 447
+(voorheen LEI DSC H EST RAAT 69)
+- MARMEREN WASCHTAFELS
+Firma J. G. MEIJER ^
+2 MARKTEN
+GRONINGEN
+0*l£
+Specialiteit;
+&amp;
+.WVe
+&amp;
+o*v
+at
+&amp;
+^o
+,eV
+ran ft—, T 1.50,
+f2.00, f2.50, f3.—eiz.
+Franco per post 50 Cents verhoogiag.
+Halter Sigareo
+zijn het meest gewild, om l
+prijs en kwaliteit ,
+LIPS &amp; PETERS
+Vraagt Catalogus
+met
+prijzen.
+l
+LAAT/TE NOUVEAUTB/
+VAN DE EENVOUDIG/TE
+TOTDEMEE/T
+ELEGANTE GENRE/
+ZELDZAAM LAGE PRIJZEN
+
+DE BIJENKORF
+OPGERICHT
+
+19JO
+
+INNENHUISKUNST
+uit 't
+
+INNENHUIS
+BOVEN
+
+EGEER
+AMSTERDAM
+HOEK
+
+L EI DSC H E STRAAT
+l INGANG
+
+PRINSENGRACHT ^o^^
+
+• BOVEN
+
+MEUBELS TAPIJTEN
+POTTERY"
+l GLASWERK
+l
+r AMSTERDAM i
+BATIKS _
+KUSSENS _
+TEACOSY'S
+Oe Drie Zwarte Penny's
+door
+JOSEPH HERGESHEIMER
+Uit het Amerikaansch vertaald
+door CL. BIENFAIT
+Oelll. omslag van IS. VAN MENS
+De H en W-Serie Deel VII
+(ngenaaid /290 Gebonden /3.75
+Uitgave van
+VAN HOLKEMA &amp; WARENDORP
+Amsterdam
+Onze Groote Jaarlijksche Opruiming
+BEGINT MAANDAG 19 JANUARI a. s.
+R. L. ELZINGA's Tapf/*- on Meubelhandel
+UTRECHTSCHESTRAAT 62/64 - COMMELINSTRAAT 62/64 - HALMAHEIRASTRAAT 24 (hoek Insulindeweg).
+Illustratiedruk-papier van de Firma C. G. A. CORVEY, Keizersgracht f 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:00:24:41.00" size="107456">0000059Q.TIF</image>
+</page>
+</document>

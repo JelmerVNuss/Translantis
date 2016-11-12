@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19060311</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER WEEKBLAD VOOR NEDER LAN D.
+No. 1498
+J. H. Weissenbruch. De groote Molen.
+Ed. Karsen. Enkhuizen.
+Tentoonstelling in Arti door de
+firma Frans Buffa en Zonen.
+De firma Buffa heeft met deze ten
+
+toonstelling de bloemetjes uit haar kunst
+
+voorraad eens buiten gezet.
+'t Is ongemeen en kostelijk wat ons
+daardoor te zien wordt gegeven over
+het geheel genomen dan want enkele
+stukken schijnen in deze voorname omge
+
+ving per ongeluk verdwaald te zijn. De
+tentoonstelling is te uitgebreid, te veelzij
+
+dig vooral, om er onmiddellijk een zake
+
+lijke en doorwrochte beschouwing over op
+te stellen. Wat er is P Schilderijen
+en teekeningen van Hollandsche en
+van buitenlandsche schilders, deze 't
+meest Fransche. Een deel van de
+laatste koop uit de bekende collectie
+Staats Forbes is daaronder aanwezig,
+een deel nog maar, want enkele buiten
+
+gewone exemplaren daaruit miste ik hier
+ongaarne. Er is zeer veel en van allerlei.
+En dan bij het opdisschen van deze
+onderscheidene smakelijke gerechten
+wordt nog als een aparte schotel opge
+
+diend een tentoonstelling van werken
+van Isaiic Israëls en Voerman. O ver deze
+twee over de vruchtdragende werk
+
+zaamheid in Parijs van Isaiic Israëls,
+over deii tegenwoordigen stand in zijn
+ontwikkeling, over zijn kunst in 't alge
+
+meen, die wisselend doet neigen tot vol
+
+komen overgave aan het oordeel van de
+bewondering en het uiteenzetten van
+critische bedenkingen, en, van Voerman's
+nieuwe werk, dat verdere stappen aan
+
+duidt in zijn beraden streven, zou men
+al de handen vol hebben voor een wel
+
+overwogen en nauwgezette beschrijving.
+Maar onder hetgeen in de andere zalen
+uitgestald werd, is te veel schat's voor
+de belangstelling om de aandacht op een
+afzonderlijke wijze bezig te doen zijn.
+Er is haast het bezwaar tegen deze ten
+
+toonstelling te maken, dat haar inhoud
+van een te rijke of veeltallige
+onderscheidenheid is.
+Ik hoop daarom dat ze een tijdje duren
+zal. 't Komt ons ten goede, want zoo'n
+ijlings overzicht van wat er roemrijk
+werd geheeten in de moderne kunst
+
+verschijning geeft een oinschommeling
+in onze tegenwoordige soms naar het
+gemelijke overhellende kunstideeën en
+bespiegelingen van het schoone. Met
+zooveel levende getuigenissen voor oogen,
+vindt theorie dan weer een verkwik
+
+kende afvoering naar het daadzakelijke.
+Hoe o,jk de meeningen zich zullen
+wijzigen, de kunst heeft in de laatste
+tijdperken ons ruimschoots voedsel ge
+
+schonken tot zuiver levensgenot. Die haar
+voortbrachten mogen er onbewust van
+zijn, zij de heilaanbrengers die soms zelf
+zijn gaan neerzitten bij de pakken, met
+treuzelende gebaren gingen heerwijzen
+naar liet rijk van hot schoone als hadden
+zij er een platte grond van gevonden.
+Ik zeg niet, dat dit nu een toonbeeld van
+een tentoonstelling is, dat, wat wij hebben
+leeren bewonderen, liefhebben en neven
+elkaar onderkennen in het weelderig
+gewas der moderne kunst, op uitgelezene
+en nog minder op volledige wijze aan
+
+wezig is. liet handelsbelang, dat hier
+achter zit, geeft daar verklaring op. Maar
+er is veel, dat maar bij zeldzame ge
+
+legenheden onder het oog komt, en
+bovendien door de groote
+onderscheidenheid vindt de kunstgenieting hier een
+weldadige prikkeling. Wat bij ons goden
+zijn als Maria, Israëls, Weissenbruch cu
+Mauve, we zien ze slechts zelden in de
+nabijheid van de vreemde grootheden als
+Daubigny, Millet, Corot. 't Is zeer dien
+
+stig voor het verruimen van ons inzicht
+en daardoor tot vei'hoo&lt;,ring van het genot
+in schilderijen zien.
+'t Is zeer aanlokkelijk vergelijkingen
+te gaan maken, niet tot onderlinge af
+
+brokkeling der waarden, maar juist tot
+het verkrijgen van gunstige tegenstel
+
+ling der hoedanigheden, /oo kan uit
+
+drukkelijker Maris zich handhaven tegen
+
+over Daubigny, Mauve tegenover Corot.
+De deugden der hollanders gezien naast
+de kwaliteiten der fransehen, ze laten
+zich treffend kenmerken bij vele werken
+op deze tentoonstelling. Er is te veel
+om een opsomming te gaan maken van
+de belangrijke dingen die geëxposeerd
+zijn, doch ik hoop, in vergelijkenden zin
+juist, nog gelegenheid te vinden tot
+nadere beschouwingen.
+
+W. STKKMIOFF.
+Bosboom Consistoriekamer.
+I. Maris. Spelende kinderen.
+Israëls. •—Kop.
+A. Mauve. Aardappelrooien.
+J. II. Weissenbruch. Millet's woning te Barbison.
+
+</text>
+<image timestamp="2002:08:10:07:29:16.00" size="696700">0000008G.TIF</image>
+</page>
+</document>

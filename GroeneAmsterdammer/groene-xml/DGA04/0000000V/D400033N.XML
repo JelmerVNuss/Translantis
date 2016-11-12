@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190830</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE VOORGESTELDE BELASTING OP DE V E R M OG E N S A A N W A S
+
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 30 Augustus 1919
+Nadruk verboden'
+
+l o " T«" a K «•**«« 1^
+Amst. tioek- en Steendrukkerij, v h. Ellerman. Harms &amp; Co
+De Ne d. Maagd tot voerman De Vries: Koetsier! Zou je er niet de Doode Hand" en nog eenige
+andere paarden voorspannen?"
+
+</text>
+<image timestamp="2002:08:23:19:17:02.00" size="502858">D400033N.TIF</image>
+</page>
+</document>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19190816</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f
+v.
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+16 Aug. '19. No. 2199
+GEOPE
+Showroom der
+Eerste Nederlandsche
+Schrijfmachine Reparatie Inrichting
+
+FRANS L E M
+HOTEL
+Juin en Daal1'
+BLOEMENDAAL
+Italiaansch Terras
+Weelderigste Bloementuin
+van Hotels in Nederland
+Minimum
+storting
+par maand
+Een gulden
+Vraag
+gratis
+prospectus
+1. KAlVO»TR*AtnO • fiOTreRDM*. «OOWJS
+MMnMK«
+DAMES MOLIÈRES
+Voordaeligste Spaarmathoda.
+Bi] overlijden uitkeering f 125
+
+Singel 273 - Amsterdam
+Tel. Interc. Centrym 2778
+In «II»plaatten AGENTEN(ESSEN) gevraagd
+Hooge provisie
+in ZWART
+BRUIN
+LAK
+en WIT LINNEN
+Telefoon
+
+4-4Centrum
+PALEISSTRAA T 39
+Kantoormeubelen
+Schrijfmachines
+MAXWELL-AUTO'S
+NIEUWE ZENDINGEN
+staan wederom ter verscheping van Amerika gereed. Orders worden nu reeds gaarne
+ingewacht, teneinde spoedige levering te kunnen garandeeren
+MAXWELL" maakt de volgende types:
+2-perSOOnS Coupé(conduite intérieure)
+1-1 1 2 tons Vrachtauto's
+Chassis VOOr bestelauto'S ^XoTo!
+5-persoons open torpedo
+
+25- ,, Sedan (conduite intérieure)
+Prijzen en Catalogus op aanvrage hij de
+Automohiel-Exploitatie-M1'.
+OVERTOOM 399
+onder Directie van de Amst, RIJtuig-Mi/.
+AMSTERDAM
+L J. KRUGER
+'s-GRAVENHAGE
+42B Noordeinde 42B
+Moderne Schilderijen en Aquarellen
+m
+
+m
+m
+ÏBK
+Zoo Juist uit Amerika ontvangen i
+REX VISIBLE SCHRIJFMACHINE
+Boalist EERSTE KLASSE machine
+TWEE JAAR Schriftelijke garantie
+f 29O.-.
+N.VCh.LBOUCHER'sHandelsVereeniging
+AMSTERDAM
+Kalvorstraat 33
+Telefoon O 2135
+DEM HAAG
+Kneuterdijk S/7
+Tol. H 924, H B2S, H 16OO
+CRONIHGEH
+Spilsluizen 13
+Telefoon 2372
+IHQTELDEL'EUROPE-AMSTERDAM
+^ Hotel van den eersten rang met modern comfort
+Lift Centrale verwarming
++ Restaurant tegen vasten prijs en volgens de kaart
++ Hall Zalen voor partijen
+t Afternoon tea van 3 30-5.30
+W. HERMSEN, Directeur
+aotel Trier, Soestdijk,
+Het geheele jaar geopend..
+A-ang-enaam, ir vis tig- vertolijf.
+NIEUWE EXPLOITATIE - PROSPECTUS OP AANVRAAG
+.,
+inOUiTDIEtLE OnDCRMErtlNGCIf
+UZERCOMbTRUOlE
+MEUDELEM
+ROTTERDAM
+VOORHAVCfl IOI
+HPAIIXA7 Ir SPAARNWOUDESTRAAT 13
+. I «UVV UI. : HAARLEM
+ATELIERS VOOR MODERNE GLASBEWERKING
+GLAZEN-NAAMPLATEN
+GIDDINQêZONEN
+
+DECORATIE WERK
+^3 G LA,/ IN LOOD d
+ROTTERDAM
+AERTv.NE/yTR.ISOi
+VOOR T W
+iKUN/TNIJVERMElD/ ^
+DE CASSERES
+Ameublementen
+AMSTERDAM
+FREDERIKSPLEIN 10
+LUCHTKETELS voor hooge druk
+STALEN PIJPEN en Hulpstukken
+TANKS v. ol!e,benz!ne, water, etc.
+leveren prompt
+NI Mij. tot Staal- en llzerbewerking
+
+,,hM J-KORPERSHOEK
+Brielschelaan 85 - Telefoon 6225
+ROTTERDAM
+Zijden Lampekappen
+Speciaal adres, alles eigen fabri
+
+kaat, ook alle artikelen om zelf te
+maken, op aanvr. prjscour. No. 10.
+«V Voor den handel speciale prijzen
+m M, laliHsfraat 157, AmitirdaB
+TELEFOON 5900 -
+HOOGT E M ET E R
+''•''''•/'"m'/^^^'^///''~''''''-'-'''''
+VANSCHAIK
+""".t'™^"//a""""""/m
+AANGEWEZEN INSTRUMENTJE
+voor het meten van de hoogte van
+TORENS BOOMEN ENZ.
+en dus onmisbaar VOOP
+BOSCHEIQENAREN
+HOUTVESTERS
+RENTMEESTERS.TAXATEURS
+HOUTHANDELAARS
+MILITAIREN,PADVINDEPS CA
+TElC. NS I5A&amp; 3096
+
+</text>
+<image timestamp="2002:08:23:18:41:38.00" size="240535">D4000335.TIF</image>
+</page>
+</document>

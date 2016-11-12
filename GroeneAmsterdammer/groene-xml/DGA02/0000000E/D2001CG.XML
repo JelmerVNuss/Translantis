@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19020504</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Na 1297
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Salaris-verhooging voor Onderwijzers.
+WETHOUDEB VOOB OsnEhwus: »Mannetjp, het gemiddelde van je cyfers is een vyf... dat ia een twyfalaar!... Maar je bant nogal zoat gawaest... jou za' ik hè; dus toch maar gevan."
+
+
+_ . , , . XTT„V De voeding van het monster. (M-&gt;nnshine).
+Russisch Sprookje. (Ulk).
+i J / r / l l ' f *
+r/J/m
+CHAMBEBLAIN : »Wat scheelt er aan, SirJohi, ? Geen eetlust meer?''
+JOHN BULL : »Ja wel maar wat me deze maaltijd ko«t, eet ik er
+niet van af." (
+JOHN BULL : «Ik geloof dat h\j nog meer voedsel moet hebben,
+Michael; tra^r ik hoop dat hij in 't volgende jaar niet weer
+zoo'n geweldige eetlust heeft."
+Er was eens een domme beer, die het morgenrool met de knoat dood
+wilde slaan ...
+Verschillende uitwerking der muziek gehoord in verschillende plaatsen.
+(F.-'-liftto)
+iiïi iüjt er meer af dan hij kiuwen kan. (Life).
+
+De logica van Barbaboff ia M^ndsrlioerije. (J&gt;W
+IN FEANKRIJK. JN RUSLAND
+01 dieMaree aiseklu.kt melodieus, Bah! wat 'a lied weg naar Siberië,
+aantrekkelijk, subliem. Speel voort Marianne, naar Siberië.
+ge verrukt m(j...
+A!s ik niet ga, oa ik u verdriet. .. Als ik wel ga, doe ik mez«it .rr.;riet. .. E--go blijf ik, on. Jjhn Buil pleizier te doan.
+
+</text>
+<image timestamp="2002:08:17:17:36:27.00" size="346376">D2001CG.TIF</image>
+</page>
+</document>

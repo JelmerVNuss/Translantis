@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19120407</Datum>
+<Pagina>12B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nederland, groot in de dingen waarin een klein land niet groot kan wezen.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland, van 7 April 1912.
+Allegorie op de Nederlandsche pantserschepen-propaganda.
+Amst. Boek- en Steendrukkerij, v/h. Ellermau, Harms &amp; Co.
+Onze Lieve Heer had aan alle groote dieren hun eigen verdedigings-middelen gegeven: aan den een groote
+slagtanden, aan den ander een machtigen snavel, aan weer een ander scherpe klauwen, en aan de
+kleine fox-terriër zijn snelheid en taaiheid. Maar de fox-terriër was niet tevreden en ging zich wapenen
+als de groote dieren en dacht toen werkelijk weerbaar te zijn.
+
+</text>
+<image timestamp="2002:08:17:07:50:00.00" size="464595">D400004T.TIF</image>
+</page>
+</document>

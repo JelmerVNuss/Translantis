@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321224</Datum>
+<Pagina>38</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kerstmis 1932
+38
+Jeugdnummer
+i
+Wat leest de jeugd?
+(Slot van pag.
+Het is niet eenvoudig om aan dezen eisch
+te voldoen en het ware te wenschen, dat
+pasbeginnende'of middelmatige auteurs, die
+zich nog niet wagen aan een boek voor
+groote menschen", zich tienmaal bedachten
+voor ze zich neerzetten om het te wagen"
+een boek voor de jeugd te schrijven. Het
+is bijna-misdadig om de jeugd bloot te stellen
+aan dergelijke experimenten.
+Dit geldt voor meisjesboeken natuurlijk
+even goed als voor jongenslectuur.
+* *
+*
+In de boeken, die het moderne jonge meisje
+bij voorkeur leest is ook wel een hemels
+
+breed onderscheid tusschen nu en vroeger.
+Het jonge meisje van nu, zelfs al zit ze
+misschien nog op de schoolbanken, is geen
+schoolkind meer. Zij staat mee in het leven
+en heeft er deel aan. Haar school en haar
+schoolplicht beschouwt zij met een helderen
+blik, niet als een vrij onaangename en min of
+meer nuttelooze manier om den tijd dood te
+slaan tot het oogenblik, waarop zij thuis"
+zal komen en in de wereld gepresenteerd
+worden," maar als een noodzakelijke voor
+
+bereiding tot haar taak in de maatschappij.
+Zij beseft, dat het leven haar binnen korten
+tijd zal opeischen op welke wijze dan ook
+en ze ziet mér uitkomsten als levensdoel
+dan alleen het huwelijk. Zij is bang voor
+alle sentimentaliteit, die ze wel eens ver
+
+wart met sentiment en daardoor doet ze
+vaak ruw en schijnt ze hard en cynisch,
+waarmee ze welmeenenden familieleden, die
+nog vast zitten in den beruchten goeden
+ouden tijd", de stuipen op het lijf jaagt.
+Daarbij wordt ze niet meer als de ingénue
+van vroeger, gefolterd door een kwellende
+nieuwsgierigheid naar allerlei geheime
+
+nissen van het leven. Met open oogen staat
+ze op den drempel der maatschappij, waar
+zij ook haar plaats en haar toekomst zal
+veroveren.
+Van dit alles wil ze een weerspiegeling
+en een weerklank in haar lectuur, waarvan
+zij dezelfde eerlijkheid vraagt als zij in
+zichzelf heeft. Zij wil boeken, waarin sterke,
+gezonde jonge menschen de hoofdpersonen
+zijn, geen engelen van goedheid, niet eens
+toonbeelden van onschuld, maar warm en
+levend en echt, geen zaagselpoppen, geen
+mannequins, ook niet al zijn die nog zoo
+mooi uitgedost met alle denkbare en on
+
+denkbare deugden. Zij wil hen volgen in
+hun belevingen, die de hare zouden kunnen
+zijn en het happy end is voor haar geen
+noodzakelijke eisch meer, al is het natuur
+
+lijk wel heel prettig en bevredigend, als het
+zoo geschikt kan worden, zonder dat de
+waarheid al te veel in het gedrang komt.
+Techniek en wereldgebeuren laten haar
+tamelijk koud, zoo lang zij er zelf geen rol
+in speelt. Het meisje van nu is, even goed
+als de bakvisch van vroeger, tamelijk ego
+
+centrisch.
+G
+root en klein kan uit de rijke sorteering der Maggi's
+Soepen naar persoonlijken smaak een keuze doen.
+In het oordeel over Maggi's Soepen zijn oud en jong hel
+dan ook eens. elk drukt zich op zijn manier uil: door een
+tevreden lachje, schitterende oogen of door waardeerende
+woorden, maar altijd beteekenl hel: Hel smaakt me uitstekend'
+-- 3!
+vormen de basis onzer beroemde schoonheidsmethode
+Zij zijn: de Cleaming Cream en de
+Orange Floii'er Skin Tonic, die zeep en water ver
+
+vangen. Cleansing Cream dringt diep in de poriën
+en reinigt grondig, terwijl Orange Flower Skin
+Tonic de poriën weder sluit en de huid verfrischt;
+de Special Mixture: een nacht cream, die de huid
+oliet en verzacht.
+Voor ,,home-treatment" zijn deze drie producten
+onontbeerlijk! Ook in onzen Salon te Amsterdam
+(Hirsch &amp; Cie) en te 's-Gravenhage (M. G. van
+Ankorven, Plaats 10 A), worden zij, als onderdeel der
+volledige schoonheidsbehandeling steeds toegepast.
+
+</text>
+<image timestamp="2002:09:27:16:50:31.00" size="319928">00000AUS.TIF</image>
+</page>
+</document>

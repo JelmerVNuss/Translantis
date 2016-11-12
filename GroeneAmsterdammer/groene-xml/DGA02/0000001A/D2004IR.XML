@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391216</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+"W
+1 ., i, n l
+fliv»
+VOOB I«EÖE«LA]VI&gt; •
+•44
+W
+AIS
+uM'
+Rflj
+M «7.1,8 ,
+•j ;-.«*• v*- •:*
+*'
+• v ".l'v^ «J
+fc*J*t3* »'V , f
+«F 4fV * . &lt;•
+
+t'ïfe-ï"*1
+•'! J;*v*v,(
+
+:Vi
+WS.r;
+," r i";.,.!,"- * p"fl
+•rtwgfc* t??
+ièPJ
+ne
+;/i*'"
+
+(tü!'.«-&gt; L
+•&gt;«•
+•-? i
+i
+FRAM^^jR
+rï^u.
+S,»" P »
+h 5^ ^f"^
+
+&amp;
+,t*Tt. " */&gt;
+^.J^^J..
+;/^t ^rr i
+•»3^"3rT''1» .j
+••*.
+*aif
+ss.1
+f,ii%' '
+t-1* a*-
+fr -- •
+$
+•i*^
+
+
+
+B
+ITAU-E
+'SCHLANDl
+/,
+
+</text>
+<image timestamp="2002:09:13:09:03:20.00" size="558666">D2004IR.TIF</image>
+</page>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19040807</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Rusland na den moord op Minister Plehwe.
+BIJVOEGSEL van de Amsterdammer. Weekblad voor Nederland van 7 Augustus 1904.
+Amsl. |-!(K-k- i-n Steennrukkerij. v, h . I'lllerrnan. liarms i.V ('o
+PETER l)K GKOOTE (tot Czar Nicolaas II): ,,!,uer door cii;"cn oo^'cn zien; sluit u\v oor voor niemand; onderzoek
+zelf, en gij zult ons Rusland voor veel ellende en gruwelen behoeden !"
+
+</text>
+<image timestamp="2002:08:15:17:15:51.00" size="333874">D10000H4.TIF</image>
+</page>
+</document>

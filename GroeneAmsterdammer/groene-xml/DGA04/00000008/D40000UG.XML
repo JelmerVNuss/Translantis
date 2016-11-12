@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19130727</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+MISLUKTE BALKAN-OPERATIE
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 27 Juli 1913
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+Aarde: Alles weer op de oude plaats ? Wat heb ik nu voor al mijn bloedverlies ?
+Dood: 'n Klein Tekeningetje, mevrouw. Vier milliard: twee voor het opensnijden, twee voor het gelijk
+naaien.
+
+</text>
+<image timestamp="2002:08:20:03:18:57.00" size="469921">D40000UG.TIF</image>
+</page>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050205</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Officieren-tucht.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 5 Februari 1905.
+i':««%(*
+01pi&gt;Kt
+Amst. Boek- eii Steendrukkerij, v/h.Ellerman, Harras £ Co.
+MINISTER BERGANSIUS (tot Ellis): Je zult zien, dat ik onder mijn ondergeschikten nog beter de orde zal weten te handhaven, dan
+jij op je vloot. . . Of houd je er ook al zoo'n gruwelkamer op na?
+PILLIS: Jawel, en veel grooter voor mijn minderen, maar een beetje op een andre manier . . .
+
+</text>
+<image timestamp="2002:08:21:02:56:50.00" size="385561">D20027T.TIF</image>
+</page>
+</document>

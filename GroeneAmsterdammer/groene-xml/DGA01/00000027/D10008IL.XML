@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330429</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 29 April 1933
+No. 2917
+fit
+l*'
+F
+J. D. STRUIJS &amp; Zn.
+Tel. 37906-Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+l
+4?
+N.V. Meubelmagazijn Eden
+Molsteeg *-* Amsterdam
+B U R E A U X
+Zes
+nieuwe,
+
+Drostebonbons/
+Tegen zeer aantrekkelijker!
+prijs: 35 en 40 ets. per ons,
+kunt U nu onderstaande
+nieuwe Droste Bonbons
+verkrijgen:
+PIKANTA'S - PALETS D'OR
+MAROCANA'S - DROSTE'S
+TRUFFELS • PiTE FOURRÉE
+CARANGETTES
+DROSTE
+ALTIJD WELKOM!
+Let er echter op, dat U voor den door U betaalden
+Droste-prijs, ook DROSTE-KWAL1TE1T ont
+
+vangt. De naam Droste staat op elke bonbon.
+BEGRAFENISVEREENIGINQ
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+T«l. 2O341 2425O
+BU8SUM (Bijkantoor v/h dool)
+Brinklaan 138
+Telefoon 2278
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+
+-W. H. POLMAN TUIN-j
+OVERTOOM S26 - Telefoon 826601
+Begrafenissen - Transporten - Crematies l
+Overal, waar onze schoonheids-methode
+werd ingevoerd, bleek spoedig dat de
+Dorothy Gray-wijze van huidverzorging!
+door talrijke dames nadrukkelijk wordt
+verkozen. Ten eerste, omdat zij zich
+aan de bizondere eischen van elke huidsooi t
+aanpast, en tevens om de absolute betrouw
+
+baarheid onzer producten. - Ook hier te
+lande doen wij dagelijks dezelfde ervaring
+op. Het oordeel der Nederlandsche dames
+wordt opgesomd in deze zes woorden: De
+Dorothy Gray methode is onovertrefbaar l
+Alle Dorothy Gray producten zijn o.a. ver
+
+krijgbaar bij:
+Hirsch £&gt; Cie., Maison Faas, Maison Meuwesse, B. Hille,
+Amsterdam. M. G. van Ankorven, Den Haag W. Mossel,
+N.V. H. Bats, Rotterdam. P. van Niel, Haarlem. Maison
+Louis, Parfumerie Royale, Utrecht. De City, 's-Bosch.
+Firma K. Simon, (J. Schardt), Enschedé. }ac. Derpen,
+Eindhoven. Maison Au Printemps, Nijmegen. Gebr.
+Hansen, Heerlen. Rut Hofman, Groningen.
+Voor en gros: Hirsch 6 Cie,
+Leidscheplein, Amsterdam.
+Koop voor Uw jongens en meisjes in de boekenweek:
+DE MAROKKAANSCHE REIS
+door C. F. VAN DAM, met teekeningen door IS. VAN MENS
+. Een nieuw, vroolijk, spannend reisverhaal van Fred. Donders, voor jongens en meisjes vdn 10-16 jaar. Dit
+keer gaat de reis via Parijs, Marseille en Cdsablanca naar de oase van Marrakech, het hart van Marokko
+Prijs geb. fl.75; ingen. f 1.10. In eiken goeden boekhandel verkrijgbaar
+
+</text>
+<image timestamp="2002:09:26:22:33:19.00" size="211030">D10008IL.TIF</image>
+</page>
+</document>

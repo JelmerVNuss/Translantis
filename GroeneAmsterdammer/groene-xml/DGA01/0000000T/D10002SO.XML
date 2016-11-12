@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19180413</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+SCHADUW V REE S
+BIJVOEGSEL van De Amsterdammer", Weekblad voor Nederland, van 13 April 1918
+Nadruk verboden
+Anist. Bock- en Steendrukkerij, v h. luierman, Harms &amp; Co
+DeNederlandsche Maagd tegen Minister Cort van der Linden: Kom, Excellentie, wij hebben honger.
+Steek over en haal ons het graan!"
+
+</text>
+<image timestamp="2002:08:23:02:38:06.00" size="504208">D10002SO.TIF</image>
+</page>
+</document>

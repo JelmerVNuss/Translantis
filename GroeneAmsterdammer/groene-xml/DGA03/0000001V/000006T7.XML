@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280804</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 4 AUGUSTUS 1928
+No. 2670
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+8JDKHMMCHM
+loowel eenvoudige als betere uitvoering.
+G, J, DE KONINGS ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1730
+- Lijmt ALLES
+Pendules, Horloges,
+Stijlklokkefc, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gebr. B RE E N
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit int
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+BJASP1BOMMB*
+BOB^BMDER
+KERKSTRAAT 53
+AM5TBRDAM
+D. OBERINK 6 Co.,
+~*~^^~~^. INGENIEURS -~
+-~Amsterdam, Prinsengracht 456. Tel. 37452
+BLIKSEMAFLEIDERS
+AANLEG INSPECTIE ONDERHOUD.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+miiiuuiiiüiiiiiiminiiinanmiiimiiiniiiiiiuiMiiiiiiNiiraiiiiiiiiiiiiniiiHHiiiiiiiut
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+BQ ooi verkrijgbaar
+N. R. V. MONTA SCHOENEN
+
+iiininnBinniniiiminmiiiiiiiiiiiiiiiiiiiiiNiiiiiiiiiiiiiiiimiiiiiiiiimiminiiiiiiiniinimmii
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 14 AMSTERDAM TeL 42662
+MARMERWERKEN
+W. H* POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+VOOR
+
+TAFELZILVER
+(HANDWERK)
+EN
+
+IMITATIE ANTIEK
+ZILVERWERK
+
+IN DEN SILVEREN
+MOLENBEECKER"
+AMSTERDAM DEN HAAG
+Kalverstraat 32 Hoogstraat 31
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+
+kost slechts f275 per kwartaal o f 10.
+per jaar bij vooruitbetaling
+JAEGER
+Ondergoederen
+In div, kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+W. l VOGEL Jr.
+2e Jan van der Heijdenstr. 3
+b. h. Sarphatipark
+Telefoon 24747
+BEGRAFENISS EN
+CREMATIE
+TRANSPORTEN
+Het papier ten beboeve van dit blad f* f* A f*f\t*\tC\f A miOTTc-üf&gt; Jk AM
+wordt gelever.d door de firma O. fe. A. OOK V t T, AMSTERDAM
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO
+
+</text>
+<image timestamp="2002:09:05:01:08:35.00" size="163097">000006T7.TIF</image>
+</page>
+</document>

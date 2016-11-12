@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260619</Datum>
+<Pagina>1A1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+idams Brothers
+J34 Utrechtschestraat
+\ b/h Paleis v. Volksvlijt
+
+{troohoeden* Regenjassen
+
+Nieuwe dessins
+Overhemden en Dassen
+
+Sdtóesser's Netgoederen
+TIMTUR|
+KINDER'
+SCHOENEN!
+* en enkele proeven over
+de entstof van
+CALMETTE en GUÉRIN
+ter. voorbehoedende
+omvatbaarmaking tegen de
+tuberculose
+DOOR
+Dr. W. Schuurmans Stekhoven
+Arts.
+Met een voorwoord van
+(rol. Dr. H. ALDERSHOFF
+Directeur Rljksserologitch Instituut
+te Utrecht.
+Geïllustreerd
+PrQs, gebonden . . f 2.90
+Uitgave van J. B. WOLTERS
+Groningen- •'*—E)cn Haag
+&amp;OOIAIOT0REH
+?. WILLINK.
+A. M STERDAM &amp;^
+'S
+AS)r\
+niet te vet-juist goed.
+
+cftocdaod als Rléinc Vcrstiapcring: y delfts, op
+NIEUWE UITGAVEN
+MARGOT VOS
+
+Vlammende Verten
+. EEN BUNDEL VERZEN.
+Pry's ingenaaid f 1.25, gebonden f 1.90
+P. H. R I TT E R Jr.
+De Lusten en Lasten der Redeneerkunst
+Pry's ingenaaid f 3.25, gebonden f 3.90
+URBAIN v. d. VOORDE
+
+Guido Gezelle
+Prijs ing. f 1.20, linnen f 1.75, leer f 3.25,
+suéde f 3.90
+Em. Querido's Uitgevers-Maatschappij, Amsterdam
+
+N. v. D, Hogenbirk SZoon's
+IJZER- en STAALINDUSTRIE *
+HAARLEM %
+Fabriek: Spaarndammerweg (SCHOTEN), Tel. H42 *
+Constructiewerkplaatsen, Machinefabriek, Ijzeren %
+Gebouwen, Overkappingen, Bruggen, *
+Kolommen, Reservoirs, enz. 4&gt;
+SptcUIc mUttUmg Hekwerken en Draad.ficheldinaen, Divcne Vlechtwerken J
+Engelsch Plated (verzilverd)
+
+Groenteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Soeplepels Tafellepels en Vorken enz.
+Prijzen op aanvrage
+
+Arnhem . ZIJLSTRA &amp; RUPP
+N.V. Civiele en Militaire Kleermakerij
+. DEKKER 6 DIJKSTRA VOORHEEN
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+WAAROM X
+eeft Van Rijn's Mosterd weer zoo'n overweldigend &gt;
+SUCCES?
+OMDAT voor ieder gastronoom QUALITBIT den doorslag geeft
+timrnnnmnnmmBmiiiiiiimiiimiMiiiimiiiiiMHiiiiniHiiMmminmiiinmiuiniMiniiiiiiiiiiiiiiiiiiiiMii
+CENTRALE VERWARMING
+volgens elk systeem
+W ARM WATER VOORZIENING
+door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+in alle afmetingen en uitvoeringen
+
+HUNCK 6 ZOON
+ONZE NIEUWE
+PRIJZEN ZIJN:
+
+IS Cent
+4O Cent /
+6O Cent
+
+</text>
+<image timestamp="2002:09:25:19:03:54.00" size="138691">D10007OO.TIF</image>
+</page>
+</document>

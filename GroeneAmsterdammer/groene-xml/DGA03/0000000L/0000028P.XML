@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840302</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^^..
+FAILLISSEMENTEN.
+Door; de Air. Rechtbank alhier -werden failliet verklaard: H. J.
+Drukker, winkelier in schoenen en laarzen, a./d. Koningstraat no. 40,
+met benoeming van mr. J. A. de Bas, lid dier Eechtbank tot Recht.
+Comm. en mr. E. F. Clausing, Adv. en Proc. tot Curator. W. H. Broere,
+koopman in bouwmaterialen a/d Overtoom, gem. N. Amstel.
+RechtComm. mr. A. M. Pareau, Cur. mr. W. F. van Leeuwen. B. letswaart,
+timmerman en metselaar a/d .Westerstraat 191. Rocht.-Comm. mr. C. A.
+Chais van Buren, Cur. -mr. C. E. Harbord. H. W. Rentrop, timmerman,
+Groote Kat-tenburgerstraat 66, Rechter-commissaris mr. J. van Eik Jz.,
+Curator mr. H. Verkoutereh; J. Wernke, timmerman, Marnixstraat 57,
+Recht.-comm. idem, Cun idom.
+Arr. Alkmaar. H. H. W. Meijer, koopman in manufacturen te Oudesluis
+{rem. ZtJpe. Rechter-commissaris mr. F. A. van Leeuwen, Curator J. van
+der Maaten, deurwaarder te Schagen.
+Arr. Arnhem. C. M. Hason, dameskleerenmaakster, echtgenoote van
+O. Lohse. R.-0. mr. J. H. Andréde la Porte. Cur. mr. J. W. A. van
+Embden.
+Arr. 's-G-ravenhage. J. van der Enden, scheepstimmerman en
+schuitenverhuurder te Wateringen, R.-C. mr. C. Asser, Cur. mr. P. A. Post
+Uiter•weer te Delft; Is. Maartense, timmerman, metselaar en koopman. R.-C.
+mr. Ph. W. van Heusde, Cur. mr. G. A. P.Bax; W. A.Nooten,koopman,
+en zyne, echtgenoote C. M. A. Chastel, modomaakster en winkeliorster.
+R.-C. mr. W. C. D. Oüvier, Cur. jhr. mr. J. C. Reynst.
+Arr. Leeuwarden. J. Slager, sociëteithouder te Sneek. R.-C. jhr. mr. G.
+van Su'chtelen van de Haere, Cur. J. W. Dryfhout, deurwaarder te Snoek;
+A. R. Ages, koffiehuishouder en -winkelier te Sneek. R.-C. mr. A. Hooth,
+Cur. J. W. Drijfhout, deurw. te Sneek.
+Arr. Rotterdam. F. J. Broekhals, wjlnhandelaar, firma Broskhals &amp; Co.
+te Schiedam. R.-C. jhr. mr. J. B. J. N. Ridder de van der Schuoren,
+Cur. mr. J. Mascheck te Schiedam; J. B. Kreuzmann, koopm. en winke
+
+lier. R.-C. mr. A. H. v. Tienhoven, Cur. in. J. H. Uiterwijk; J. Renken,
+koopman in granen. R.-C. mr. E. Feith, Cur. mr. A. J. Bik; L. C. Pijnappels,
+openbare koopvrouw, gehuwd met F. A. Hooykaas. R.-C. mr. Ph. A. J.
+Bouvin, Cur. mr. H. Trostorff.
+Arr. Zutfen. G. G. Huyskes, bierbrouwer en koopman te Groenloo.
+R.-C. mr. Baron Van Sytzama, Cur. mr. T. E. von Weiier tot Poolw\jk.
+Arrondissement Amsterdam. P. A. R. de Lavalette, tapper &amp; slijter
+a/d. Saxenburgerstraat no. 18, te N.-Amstel. Recht.-Comm. mr. J. van
+Eik JZD., Car. mr. J. Schouten, ady. &amp; proc.
+
+P V ERZICHT YAN D ~~ËTFÊ~CT E JX M~AR~KT
+.. _ van 22 tot 29 Februari 1884.
+Op enkele uitzonderingen na, bleef de handel ook de afgeloopen week
+uiterst beperkt. Voor Europeesche waarden maakte de vaste stemming,
+die eenigen tijd heerschte, weder voor een kleinen teruggang plaats.
+pok gingen Amerikaansche waarden voor enkele soorten weder
+aanzienl$jk terug. Die hernieuwde daling kwam voor menigeen tamelijk onver
+
+wacht; eer deed de houding der markt vermoeden, dat spoedig een gun
+
+stiger tijdperk zoude aanbreken.
+Het is, alsof de geheele wereld, door zoo herhaaldelijk ondervonden
+teleurstellingen, van de te groote animo van voor eenige jaren tot een
+volslagen pessimisme is overgeslagen. Een sterk bewijs daarvoor leverde
+de dezer dagen gehouden .Effectenveiling. Aandeelen van verschillende,
+nog niet in exploitatie zijnde ondernemingen, werden aanzienlijk benoden
+de pari-waarde geveild. Zoo brachten Aandeelen Koninkl. West-Indiselie
+maildienst (welke Maatschappij nog geen boot in de vaart heeft, en waar
+
+van' men dus vooreerst de financiëele resultaten niet kan beoordcelon)
+slechts 50 % op. Andere waarden als Baarnsche Boi-nv-Maatschappij,
+Aandeelen Chinine-fabriek en vele anderen konden slechts tot zeer lagon
+prijs koopers vinden. Hoe gretig werden soortgelijke waarden voor eon
+paar jaren van de markt genomen. Wel moet men toegeven, dat do ver
+
+wachting, die men destijds van de resultaten van verschillende
+iudustrieele oudernemingen koesterde te hoog was gespannen, doch wat wotligt
+eene reactie als die, welke wij in doze dagen beleven ?
+Naar het ons voorkomt, behoeft men de toekomst niet zoo donker in
+te zien, zeker zal er voor alle takken van nijverheid weder een bloeiendor
+tijdperk aanbreken.
+Onze nationale fondsen werden met geringen omzet tot ongeveer on
+
+veranderde koersen verhandeld.
+5% Obligatien Hongarije 1867 profiteerden % %; Italianen, die meer
+en meer de aandacht van solide geldbeleggers trekken, monteerden K % ;
+Oostenr^ksche fondsen varieerden weinig; de omzet blijft zeer gering.
+Portugeezen blijven, hoewel in geringe mate, weder iets benedon den
+vorigen koers. Meer en meer wint de overtuiging veld, dat dat fonds
+niet tot solide belegging geschikt is. Wij vreezon dat Portugal, wanneer
+het leeningen sluiten niet meer wil vlotten, niet meer bij machte zal
+zijn den vollen interest op de Staatsschuld te voldoen.
+In Russische fondsen was de stemming verdeeld; eenige soorten blij
+
+ven iets boven, andere iets beneden hun vorigen koers, De groote koop
+
+orders, die daarin dezer dagen voor Berlijnsche rekening werden uitgevoerd,
+schijnen gestaakt te zijn. .
+Spanjaarden sluiten een fractie lager; ongetwijfeld zoude dat fonds bij
+•williger stemming der Parijsche beurs aanzienlijk hebben geprofiteerd,
+daar de opinie omtrent Spanje over het algemeen veel ten gunste van
+dat rijk is veranderd.
+Van Turken steeg de algemeeno schuld Y»%t terwijl de 1869srs diezelfde
+fractie verloren.
+Egyptenaren sluiten K % lager; die teruggang wordt voldoende gewet
+
+tigd door de onzekerheid, waarin men verkeert of de tegenwoordige be
+
+narde omstandigheden tot eene gewenschte oplossing znlllon geraken.
+Mexicanen, zonder veel affaire, tamelijk onveranderd. Met eenige vraasr
+voor Londensche rekening, konden Brazilianen zich eenigszinsvanhuni 9
+jongste daling herstellen, de 1865ers sluiten 1%%, de 1875ers IV»%, de
+1883ers % % hooger; alleen toonen 1879ers by de laatste noteering eene
+teruggang van V&amp; % aan.
+Columbianen zonder affaire onveranderd. Peruanen ondervonden eene
+kleine reactie, de 6 % bleven % %, de 5 % 1A % lager.
+Van stedelöke leeningen valt alleen te vermelden eene daling van % %
+in Z% % Obligatien Amsterdam.
+Industrieele waarden waren over het algemeen flauw. De grootste
+daling ondervonden de Aandeelen der verschillende
+Stoomvaart-Maatschappijen. Aandeelen Stoomvaart-MaatschappüNederland daalden 3%,
+Java 1% %, Insulinde B %. Naar wij vernemen zou de Maatschappij
+Nederland over het afgeloopen jaar of in het geheel geen, of een zér
+klein dividend uitkeeren. De reden daarvan moet gezocht worden in de
+scherpe concurrentie tusschen de verschillende Maatschappijen. Ook ver
+
+nemen we dat de vrachtprijzen sedert de aanvang van het loopende dienst
+
+jaar nog gedrukter zijn dan ooit te voren. Jammer is het dat de Maat
+
+schappijen zich niet onderling kunnen verbinden de tarieven zoo hoog to
+houden, dat zij zich ten minste eene voldoende winst kunnen verzekeren.
+Aandeelen Nieuw* Afrikaansche Handels-Vennootschap daalden l %,
+Intern, Crediet en Handels Vereeniging H %, Preferente Aandeelen
+Zeeland 2 %, eenige andere gingen iets vooruit, de rüzing was echter
+niet aanzienlij)*
+Certificaten Colorado daalden VA %, Maxwells sluiten K a K % hooger.
+Maandag deed het publiceeren van de noodkreet van een der directeuren,
+die echter de datum van 2 Januari droeg, het fonds aanvankelijk sterk
+dalen, laatbeurs echter herstelden boide soorten zich aanzienlijk, op het
+oekend worden van het feit, dat het der Maatschappij gelukt was f 600,000 f
+op te nemen.
+Hollandsche Spcorwegwaarden ondergingen geene groote verandering.
+Alleen stegen Indische sporen VA %, terwijl Rh\jnshares weder K %
+moesten missen. Naar Italiaansche Sporen was levendige vraag. Zuid
+Italiaansche avancoerden l1/» % ?
+Russische Spoorweg waarden vastgestemd. De meeste soorten sluiten
+boven hun vorigen koers.
+Aandoelen Amsterdanische Omnibus-Maatschappij stegen 5 %, vermoe
+
+delijk zal de Maatschappij over 1883 een aanzienlijk dividend uitkoeren.
+Aandeelen G-ooische stoomtram daalden IX %.Rottordamschetram Ya %.
+Vele soorten Amerikaansche Spoorwegwaarden sluiten aanzienlijk be
+
+den don koers dor vorigo week. De volgende teruggangen zijn te
+vermolden. Centralshares 25-*%, Canada Southern 1%%, Canadian Pacific
+V4%, Rioshares %%, geconsol. Obiigatiën VA %, Floridashares 2 %,
+5 % Obligatien IX %,Cairobondsl%,NashvilleshareslH %, Missourishares
+% %, Eriesharos IX %, Ontariosharos X %,CommonOregonsharesl)^ %,
+Preforrod 3%, Manitobashares 4%, Unionsharos 3X %, Wabash VA %,
+Gunstig staken daarbij af de Incomebonds, Missouri, Kansas, Texas
+Spoorweg-Maatsch. on de 5 % algumeene Hypotheek Obligatie die circa
+2 % opkwamen. Er schijnt thans veel fonds ter conversie te worden aan
+
+geboden.
+Vreemd is het met het oog op de rangorde en verplichtingen der
+hypotheken, dat eenigen nog aarzelen zulke conversie voorstellen te
+acceptoeren. De Maatschappij is verplicht op de 5% Obligatien da rente te
+voldoen, terwijl op de Incomobonds rente wordt betaald, wanneer het
+aan de Maatschappij schikt.
+Beter vijf percent in de hand dan zes in de lucht."
+Aandeelen Chicago Rock Island en Pacific Spw. gingen 4X % vooruit.
+Blijkens annonce van het Ontario Comité, worden de houders van
+Ontarioshares opgeroepen tot toetreding tegen betaling van % % ge
+
+lijkstaande aan do 6 peuce per stand, die liet Londensch comitéheft;
+over het nominale bedrag huv.ner aandeelen.
+Wüachten het van groot gewicht voor het welslagen der bemoeiingen
+van het comité, dat iedereen, aan dip oproeping gehoor geve, en zouden
+het betreuren, wanneer het comiténiet door verreweg het grootste
+gedeelte der Hollandsche Aandeelhouders werd gesteund. Wij twijfelen
+niet of do op naam van het comitéovergeschrovene aandeelen zullen ook
+hier officieel worden genoteerd.
+De geldmarkt blijft onveranderd ruim; prolongatie, 3X % genoteerd,
+blijft tot dio koers goed voorhanden, privaat disconto 354 %.
+Do laatstelijk gepubliceerde weokstaat van de Noderlandsche Bank
+wijst eene aanzienlijke vermindering van de verbindtenissen van de bank
+aan. De disconto-rekening nam ƒ 3,000.000 af; de bankbiljetten in circulatie
+met ' 2,400.000, de overige veranderingen waren van weinig belang.
+BÜde onlangs plaats gehad hebbende inschrijving van
+Sehatkistpromessen, werd door een ingeschreven a ƒ 991,17 86100 per ƒ 1000,hetgeeu
+op een disconto van circa 3X % uitkomt. S.
+AMERIKAAXSCHE SPOORWEGEN.
+
+VIII.
+
+Zoo men de berichten in Amorikaanselie blajen vertrouwen mag scTicnken, is de
+geschiedenis van do New-York, West-Shore &amp; Buffalo, die zoo nauw samenhangt met
+
+de New-York Ontario &amp; Western eon nieuwe phase ingetreden en staat eene veran»
+dering in liet bestuur eerdaags te wachten.
+
+"Welke veranderingen in het bestuur zullen plaats grijpen 13 nog niet bekend, maat
+
+algemeen ia men van meening, dat Yamlevbilt er in vertegenwoordigd zal worden.
+Van niet minder belang, ook voor do Ontaiio iühet, dat hoogstwaarschijnlijk de
+West-Shore een vorm heeft gevonden om in dea dringenden geldnood te voorzien, haar
+rollend materieel uit te breiden en zich de gelegeugeid to verschaffen hare krachten
+to ontwikkolen. De rente op do bestaando Obligatien zou gedurende 3 jaren gekapita
+
+liseerd worden en een tweedo hypotheek van Ds. 30,000,000 worden gecreerd, ver«
+dceld in twee series A &amp; B ieder van Ds. 15,000,000.
+
+Het plan, dat mij in hoofdzaak zeer aanneembaar voorkomt, zullen w}j hier niet
+in bizonderheden ontleden.
+
+Alleen willen wij even stilstaan bij dat gedeelte er yan, hetwelk de telangen dor
+New-York, Ontario &amp; Western raakt.
+
+Zooala bekend is behooren de terreinen aan de Hudson Rivier gelegen, met da
+•werven, dokken, enz. enz. aan de West-Shore &amp; Ontario Terminal Co., in welke Mij
+de West Bhore en de Ontario ieder de helft der aandeelen bezitten. Op de eigen
+
+dommen dezer Mij is eene hypotheek van Ds. 12.000.000 ingeschreven, waarvan
+Ds. 10.000.000 is uitgegeven. De West Shore ea de Ontario hebben te Kamen de rent»
+en de aflossing der hypetheek-obligatien gegarandeerd.
+
+Een der bepalingen van het voorstel tot regeling der financiën der West Shore ia,
+dat de Obligatien van de Terminal Co. vorniet gd zullen worden en vervangen door
+
+een gelijk bedrag nieuwe Obligatien gewaarborgd door oen eersto hypotheek op ds
+Terminal Property en een tweede hypotheek op de New-York West Shore &amp; Buffalo.
+
+De vraag rijst nu: zal door deze regeling de garantie van de New-York, Ontario
+&amp; Western voor rente en aflossing der Terminal Bonds vervallen ?
+
+Zoo ja, en dit ia waarschijnlijk, dan wordt de N. Y. Ontario &amp; W. zonder opoffe
+
+ring harerzijds ontheven van eene verplichting, die haar zeer onbillijk was opgelegd
+
+en mag in dit gedeelte der regeling reeds erkenning gezien worden van hare zoo
+veronachtzaamde rechten.
+
+En nog op andere wijze zal de New-York Ontario &amp; Western, naar 't schijnt,
+onthevenworden van verplichtingen, die de Directie zoo onrechtmatig op hare schouders
+had gelegd.
+
+Een deel van het plan is namelijk ook, zooala vrij boven zeiden, om gedurende dria
+jaar de rente op de Obligatien Weat Store te kapitaliseeren.
+
+De N.-Y. Ontario &amp; W. nu, heeft het medegebruik van een deel van de West
+Shore gehuurd, tegen garantie van een minimum pacht van Ds. 500.000 'e jaars,
+ten behoeve van de rentebetaling van Ds. 10.000.000 obligaü'n New-York, West
+Shore en Buffalo. Maar indien de interest gedurende 3 jaar gekapitaliseerd wordt,
+zal dan gedurende dien tijd toch do pacht van Ds. 500.000 'a jaars gevorderd worden?
+
+Ia het niet waarschijnlijk en billijk dat van de N.-Y. Ontario &amp; Western tot aan
+1887 niet meer voor pacht gevorderd zal worden, dan zij werkelijk ontvangt?
+Alle deskundigen zijn het er ovec eens, dat die pacht weldra gemakkelijk zal worden
+verdiend en een tijdelijke onthoifing van de verplichting is dua het voornaamste wat
+de N. Y. Ontatio en Western te dezen opzichte kan wenschen.
+
+Ontheven van de drukkende last van de halve rentegarantie op Da. 12.000.000
+Terminal Comp. Obligatien; tijdelijk vrijgesteld om Ds. 500.000 'sjaara aan pacht te
+betalen zou de New-York Ontario en Western geen andere engagementen hebben, dan
+die welke moeten voortvloeien uit consolidatie der vlottende schulden.
+
+Wel is waar zal ook dan de Ontario niet in zoo gunstigen toestand zijn als VOOt
+hare samenkoppeling met de West Sliore, maar toch. behoudt zij de goeden kanaen
+om aich geleidelijk te
+
+</text>
+<image timestamp="2002:08:17:07:39:14.00" size="319267">0000028P.TIF</image>
+</page>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070203</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Op Keizer Wilhelm's verjaardag.
+JIJYOEGSE!, van De Amsterdammer. Weekblad voor Nederland van J Fehruari 1907.
+Amst. Bock- en Steendrukkerij, v/h.
+ii, Marms &amp; Co.
+WILIIKI.M (tot Jllichel}: Kom, dat is goed, dat je me komt feliciteeren.... maar nu niet meer rood" hè?
+MlOiEL: Neen Majesteit, ziet U, het roodc biesje heb ik er nu al afgedaan.
+KEIZER WILHELM : Best hoor, maai dat maak je nu ook niet zwart".... «rocn is de kleur.
+BÜLOXY (tot lift Hereroütjc): Jonden, nu is er nog wel wat meer van hem te halen.... jij krijgt je spoortje, hoor.
+
+</text>
+<image timestamp="2002:08:11:23:27:39.00" size="330096">000000PG.TIF</image>
+</page>
+</document>

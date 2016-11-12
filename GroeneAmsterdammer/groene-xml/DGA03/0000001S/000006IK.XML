@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19280428</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+jrW&amp;A f -v 4. '.?-. ifr. «v11
+v ' '• '..«*&amp;
+e_ _
+"eekblad voor- Nederland
+per i~r flO.~
+AdTCrtentitm ƒ0.73 per regel
+KEIZERSGRACHT 333
+AMSTERDAil - CENTRUM
+TELEFOON 37*64
+AMSTERDAM
+ROKIN 13
+LEEUWARDEN
+STATIONSWEG 28
+EENHEIDSPOLIS
+Inboedels . . 21/z /oo p. jr
+Woonhuizen . . \1U /0o ». v
+i KI P
+MEER DAN OOIT TE VOREN HEEFT
+
+CADILLAC
+DE LEIDENDE POSITIE, DANK ZIJ:
+EERSTE KLAS WERK,
+EERSTE KLAS SERVICE,
+ALGEMEENE TEVREDENHEID.
+K. LANDEWEER
+IMPORTEUR VOOR NEDERLAND DER
+CADILLAC EN LA SALLE AUTOMOBIELEN
+UTRECHT
+BILTSTRAAT 74
+AMSTERDAM
+SINGEL 430/32
+'AGENTE VOOR ZUID-HOLLAND:
+HAAGSCHE AUTOMOBIEL MIJ.
+HA-KLOOSTERHUIS
+AMSTERDAM
+TABAK
+GROEN 20 Cr
+ROOD I3cr
+GEEL IQCr
+IS IWALITEIT!
+
+</text>
+<image timestamp="2002:09:04:13:21:19.00" size="115844">000006IK.TIF</image>
+</page>
+</document>

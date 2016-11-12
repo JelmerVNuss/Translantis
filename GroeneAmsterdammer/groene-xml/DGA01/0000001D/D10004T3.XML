@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18961220</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 20 December 1896.
+
+
+
+GENERAAL WEYLER.
+Na Maceo's dood.
+KONING v. SPANJE. KONINGIN-REGENTES. CANOVAS DEL CASTILLO.
+.. .
+m f t H•'*- - •
+i! l VrS. ''l	J:
+Amst. Boek- en Steendrukkcrii, v/h. Ellerman, Harms tS: Co.
+KONINGIN-REGENTES: -,Schrik niet, mijn jongen! CANOVAS zegt, dat dit het begin van het einde is."
+
+</text>
+<image timestamp="2002:09:05:07:18:39.00" size="331095">D10004T3.TIF</image>
+</page>
+</document>

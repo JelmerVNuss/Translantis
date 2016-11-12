@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260717</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+RA A G T
+BIJSTERVELD'S
+Teraorct ITwe t»nd« «*«e*i met
+P0t01&gt;» 'ATOI, tana»Mta In de
+w«lb«kead* ««««en e» tuben, DE
+tutfpaata, die, »1 cednrende 31
+Jaren e«BjB*edèreputatie geniet,
+R ZU RCH ER
+tNHEM (Groote Markt)
+
+rï||DisPAYS-BAS
+föT WARM EH KOUD STROOMEND WATER
+INBRAAK-,
+NE
+RINGEN ANDERE
+VERZEKERINGEN
+Vraagt offerte!
+
+A, D. BEERENDS 6 VEEREN
+,MSXERDAM LEE.UWARDEN
+f. v. ,JMeuDëlmagazijn
+MOLSTEEG-AMSTERDAM
+EKENKASTEN
+SASIE, CASPERS &amp; Co.
+* Ameublementen - Stoffeerderij
+Moderne Landhoisstoffen en
+Oud-Hollandsche Meubelen
+LSTRAAT 1 10 en 126 TELEFOON 43739 ea 37354
+AFWERKEN
+Amateur-Foto's
+VLUG, NET, BILLIJK
+Speciale inrichting I
+
+C AP I
+115 KALVERSTRAAT
+KAKEL I
+BIJD UW TIJD
+Daar uw aar
+Stook Uw vaar
+op gascomforen
+en gasfornaizen
+van
+SENKING
+Zonder Bedenking
+Gasfornuizen
+vanaff68
+OVERAL VERKRIJGBAAR
+
+de heerlijke Cacaodrank
+wordt gedronken'^net Melk of Spttitwater
+Benige Fabrikanten F. KORFF 6 Co., Amsterdam M
+N.YV/H.
+H-AKLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 285 Amsterdam
+^y+ NAAML, VENN. XK-%
+VV '(?
+EUROPEESCHE
+
+Goederen' en Reisbagage Verzekering Mij.
+AMSTERDAM - KEIZERSGRACHT 525
+
+POLISSEN d'ekkende zoowel
+ingeschreven- als handbagage, geldig
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+stations der NEDERLANDSCHE
+SPOORWEGEN verkrijgbaar
+i*" Schade kan ook worden geregeld bij de
+Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+Boedapest, Boekarest, Brussel, Constantinopel,
+Helsingfors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg.
+Madrid, München, Oslo, Parijs, Praag,; Rome, Stockholm,
+Warschau en Weenen.
+
+</text>
+<image timestamp="2002:09:25:21:54:06.00" size="297267">D10007RJ.TIF</image>
+</page>
+</document>

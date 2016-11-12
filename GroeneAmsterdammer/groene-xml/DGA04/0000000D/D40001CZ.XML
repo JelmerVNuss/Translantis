@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140719</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Zondag 19 Juli
+A*. 1914
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+ONDER REDACTIE VAN Mr. H. P. L. WIESSING
+Abonnement per 3 maanden	ƒ 1.65
+Voor het Buitenl. en de Koloniën p. j., bij vooruitbetaling ir. p. mail 10.
+Afzonderlijke Nummers aan de Kiosken en Stations verkrijgbaar 0.12r'
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+KEIZERSGRACHT 333, AMSTERDAM
+Advertentiën van l—5 regels ƒ1.25, elke regel meer . .
+Advertentiën op de finantieele- en kunstpagina, per regel
+Reclames, per regel
+ƒ0.25
+0.30
+0.40
+INHOUD
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiniiii
+
+Blz. 1: De Tramstaking in Den Haag.
+Kroniek c De Examenwoede. L. Simons:
+Vacantieregeling Amsterd. Gem. Werk
+
+lieden. Matthijs Vermeulen :
+Muziekpolitiek. 2: Feuilleton door W.
+Korolenko.—Edmond Visser over
+Regie-kunst4: S. H. de Roos: Nog eens de Zilver
+
+distel. Fort-Puzzle. 5: Hessel
+Migsma over Helen Keiler. Allegra.
+. Heimans: DeSpringprocessie te
+Echternach. Afb. van de naar Indië ver
+
+trekkende Roode-Kruis-zusters. 6 : J.
+H. Rössing: Amager en Kopenhagen.
+7: Mr. J. A. Levy over wijlen jhr. Joan
+Roëll. W. Steenhoff: Brieven van
+Vincent van Gogh aan zijn broeder.
+P. van Olst, Per Vliegmachine over den
+Oceaan. Portret wijlen jhr. C. H. A.
+van der Wijck. 8: Chapelle ardente
+voor wijlen overste Thomson. Emmy
+van Lokhorst, Een Snap-shot uit
+ZuidIerland. 9 : V. d. M., Fin. Kroniek.
+11: Schaakspel door R. J. Loman.
+Damspel dqor J. de Haas. Joh.
+Braakensiek over Frankrijks legertoestanden.
+Bijvoegsel: Joh. Braakensiek over den
+Imperator van den Middenstandsbond.
+HiiiiiiiHimmii
+De Haagsche Tramstaking
+CONCESSIONARISSCHAP OF GEMEENTE
+
+BEDRIJF
+,De Haagsche Tramstaking heeft aan
+de Directie van de Haagsche, of liever:
+Haagsch-Belgische Mij. een openlijke
+verklaring ontlokt. En de Redactie van
+de Nieuwe Courant heeft die verklaring
+nog eens gesouligneerd met een betoog,
+waarvan de strekking is af te leiden uit
+deze eerste zinsneden:
+Met cijfers, welker juistheid te
+constateeren is, wordt daarin aangetoond,
+dat het zuivere winstsaldo, hetwelk de
+Maatschappij in staat gesteld heeft over
+haar aandeelenkapitaal een aantal jaren
+achtereen een hoog dividend uit te keeren,
+niet van dien aard is, dat daaruit zonder
+schade aan een goede exploitatie, de
+loonsverhoogingen en andere verbeterin
+
+gen zouden kunnen worden bekostigd,
+door de organisaties namens het stakende
+personeel geëischt.
+Even juist komt ons het verweer van
+den heer Van Houten voor, dat een
+vervoermaatschappij, om den dienst blij
+
+vend op een hoog peil te houden, in
+bloeienden financieelen toestand
+verkeeren moet, als zijn opmerking dat met
+den krachtens concessie verplichten aan
+
+leg van verlies-opleverende lijnen reke
+
+ning moet worden gehouden bij de
+overweging of de exploitatie-kosten der
+maatschappij met jaarlijks terugkeerende
+lasten, zooals een algemeene
+loonsverhooging, kunnen worden verzwaard ...,
+waarop dan niettemin de erkenning volgt,
+dat de directie toch wel eenige conces
+
+sies doen kan, en dit ook bewezen heeft
+door het loon der conducteurs op het
+.laatste oogenblik met ƒ l te verhoogen
+en dit te brengen op ƒ 13, een loon dat
+door'de fooien van het publiek moet
+worden opgevoerd, of beter gezegd aan
+
+gezuiverd tot een, waarvan de menschen
+leven kunnen.
+Tevoren is door hetzelfde blad den
+Hagenaars voorgehouden, dat zij den
+voortreffelijksten tramdienst van ons land
+hebben, en dit wel mogen waardeeren.
+* *
+Of die waardeering van het Haagsche
+publiek het gemakkelijk zou uithouden
+bij een vergelijking met de tram-toestan
+
+den in Amsterdam valt, dunkt ons, nog
+te betwijfelen.
+Laten wij die vergelijking eens op
+
+stellen. Wij hebben de moeite gedaan
+van ons op dit punt te documenteeren:
+DIENSTREGELING: Amsterdam heeft
+een vroegdienst met werkmanstrams
+Den Haag niet.
+Amsterdam heeft op bijna alle
+lijnen een 4-minutendienst. Den Haag
+heeft diensten van 5, 6 en 10 minuten,
+en vór half negen, zelfs op de lijnen
+die naar 't spoor moeten brengen, van
+7Vz minuut.
+TARIEVEN : Amsterdam heeft een
+goedkoop werkmanstarief: een algemeen
+tarief van 5 cent; voor enkele lijnen
+zelfs van 2Vs cent. Het heeft, behalve
+scholiers-abonnementen, nog lijn- en
+maand-abonnementen voor volwassenen.
+Den Haag heeft nog het minimum
+
+tarief van 7Vüet. voor enkele ritten";
+10 cent voor dubbele ritten. Buiten de
+Haagsche zone, voor Scheveningen, een
+van 12Vu cent enkel en van 20 cent
+retour; terwijl Scheveningen en den
+Haag als n stad worden beschouwd
+tezamen heel wat kleiner gemeenebest
+dan Amsterdam.
+Het 5- en 2'/2 cents-tarief in Amster
+
+dam heeft bovendien de f ooien, gelukkig,
+vrijwel doen verdwijnen. In den Haag
+bloeit het edele stelsel nog welig en zou,
+als er geen of weinig fooien werden ge
+
+geven, de Mij, haar personeel onmogelijk
+kunnen vasthouden. Dit beteekent ech
+
+ter voor de Haagsche tarieven een zgn.
+vrijwillige' toeslag van 33 tot 25 pCt.
+(7H et. wordt 10; 10 et. wordt 12Vs et.)
+In het algemeen moet dus, rekenend
+ook met verloren o verstapjes, het Haagsche
+publiek in doorsnee van 25 tot 50 pCt.
+meer betalen dan het Amsterdamsche.
+ARBEIDSVOORWAARDEN: Deze zijn in
+Amsterdam, onder het eigen gemeentelijk
+beheer, ondanks de lagere prijzen aan
+het publiek berekend, stellig 25 pCt. beter
+dan die der Belgische Mij.
+AANLEG NIEUWE LIJNEN : Men kent de
+moeilijkheden waarmee het Gemeente
+
+bestuur kampt dat, in Den Haag of
+in Rotterdam, met de concessio
+
+narissen" over nieuwe lijnen" te onder
+
+handelen" heeft. Zoo'n Gemeentebestuur
+doet dat steeds ongaarne en noodge
+
+dwongen. Het Amsterdamsche Gemeente
+
+bestuur echter en de vertegenwoordi
+
+gers der burgerij alhier, de Raadsleden,
+hebben de handen vrij om in dit opzicht
+het belang van het openbaar verkeer te
+dienen.
+* *
+*
+Bij een vergelijking van het Gemeente
+
+lijk Beheer te Amsterdam met dat der
+Haagsche concessionarissen is het, dunkt
+ons, wel zoo goed maar niet te hard
+overHaagsche voortreffelijkheid te roepen.
+Doch laten we nog eens even luisteren
+naar hetgeen de President-Commissaris,
+mr. D. van Houten, heeft mede te deelen:
+Hoe staat hiertegenover de aandeel
+
+houder ?
+De aandeelen der H. T. M. zijn voor
+99/100 geplaatst in België en hebben
+daar den ongekend hoogen koers gehad
+van 700 pCt., vanwaar zij reeds zijn
+teruggevallen tot thans ongeveer 300 pCt.
+Ieder aandeelhouder heeft dus reeds nu
+op een stuk van ƒ 100, hetwelk hij kocht
+voor ƒ 700, een verlies te boeken van
+ƒ400. Van de waarde ad ƒ 300 welke
+zijn aandeel thans voor hem vertegen
+
+woordigt, trekt hij 16 pCt. of ongeveer
+5'/s pCt.
+Ik wil vragen of dit teveel is voor
+een Industrieele zaak op het oogenblik
+van hoogsten bloei ?
+Hoeveel jaren zijn er niet geweest
+zonder dividend ?
+Dat het dividend thans schijnbaar zoo
+hoog is, is uitsluitend een gevolg van
+de eigenaardige wijze waarop de H. T.
+M. gefinancierd is geworden.
+De bouwrekening bedraagt circa
+ƒ5,000,000, de obligatieschuld circa
+ƒ3,000,000, en het aandeelenkapitaal is
+slechts /l.300,000, tezamen ongeveer
+ƒ 9,300,000.
+Indien men de winst en de rente over
+deze kapitalen bij elkaar neemt, wordt
+over het geheele kapitaal van deze zoo
+
+genaamd rijke maatschappij nog geen 6
+pCt. netto verdiend!
+Worden de eisenen van dat personeel
+ingewilligd, dan zal dit winstcijfer van
+6 pCt. tot 2 pCt. dalen.
+Het eerste gevolg daarvan zal zijn
+ontevredenheid der aandeelhouders, die
+alles zullen doen om nieuwe bestuurders
+benoemd te krijgen om weder tot be
+
+hoorlijke dividenden te geraken. Allerlei
+niet gewenschte bezuinigingen zullen
+dan onvermijdelijk worden en daarvan
+zal alleen het publiek het nadeel onder
+
+vinden.
+Het hooge dividend trekt alleen daarom
+de aandacht van het publiek, omdat het
+slechts dat dividend in het cijfer van
+16 pCt. uitgedrukt ziet, doch hetzelfde
+publiek niet op de hoogte is van de
+wijze, waarop de zaak financieel in
+elkaar gezet is.
+
+Wat wil deze verdediging zeggen?
+De oorspronkelijke aandeelhouders, die
+indertijd 100 gulden betaalden voor een
+aandeel, hebben die 100 gulden op zeker
+moment aan op winst belusten voor
+het zevenvoudige kunnen
+verkoopen, thans nog voor het 3^-voudige.
+Aannemend, dat zij 15 jaren hebben ge
+
+kend zonder dividend, zijn zij voor dit
+verlies dus ruimschoots schadeloos ge
+
+steld, temeer daar zij thans nog 16 pCt.
+trekken.
+Dat begeerigen naar hooge dividenden
+in deze aandeelen gespeculeerd hebben
+en zelfs het zevenvoudige van hun oor
+
+spronkelijke waarde ervoor hebben uit
+
+betaald, is een van de dingen des spe
+
+culatieven noodlots, dat winstkansen kent
+maar k verlieskansen! De heer van
+Houten en de Nieuwe Courant schijnen te
+meenen, dat de speculant uit recht van
+eigen deugd alleen mag winnen. In het
+huis van een gehangene spreekt men niet
+over den strop" en wie een concessionaris
+tegenover gemeentelijk beheer te verdedi
+
+gen heeft, doet toch wijs geen medelijden
+te vragen met die ongelukkige koopers, die
+van 700 tot 300 hun aandeelen zagen
+dalen en nu maar 5^ pCt. trekken. Laten
+zij bij de eerste houders een request in
+
+dienen om hen schadeloos te stellen uit
+hun winsten. Waarom moet het Haagsche
+trampersoneel dit doen?
+Kijken we nog eens verder:
+De Haagsche Tram-Mij, heeft een
+kapitaalrekening van ƒ9.300.000, waar
+
+over winsten rente bijeen nog geen 6 pCt.
+bedragen. Dus totaal ƒ540.000 per jaar.
+Een eerste, nuchtere opmerking: Indien
+de gemeente Den Haag eenzelfde bedrag
+in haar trambedrijf had moeten steken,
+zou zij het geld hebben kunnen opnemen
+tegen gemiddeld 4 pCt. en dus ƒ 180.000
+per jaar verdiend hebben. Meer dan ruim
+voldoende om aanvankelijke verliezen op
+nieuwe lijnen eraan te wagen en aan het
+personeel de gewenschte arbeidsvoor
+
+waarden te gunnen.
+Te meer is dit juist, omdat de Mij.
+haar net in 1926 moet overdragen aan
+de gemeente met een verlies van 60 pCt.
+S/ij nemen alweer de gegevens van Mr.
+. van Houten) en dus zeer ruime af
+
+schrijvingen moet toepassen, veel ruimer
+dan de gemeente zou behoeven, welke
+haar exploitatie-overschot dus ook langs
+dien weg zien zijn toenemen.
+Als den Haag niet indertijd als Ezau
+haar recht verkocht had, behoefden de
+de Hagenaars nu niet te klagen over
+zone-tarief, slechte aansluiting met de
+stations, te langzame dienstregeling, te
+hooge tarieven, noodzakelijkheid van
+fooienstelsel, onvoldoende arbeidsvoor
+
+waarden met tot gevolg een ruineuze
+staking.
+De Haagsch-Belgische Mij. is een
+winstonderneming. Het zou zeker wijzer
+geweest zijn indien haar directie vroeger
+bedacht had, dat de arbeidsvoorwaarden
+van het personeel behooren te worden
+vastgesteld in onderling overleg
+(niet krachtens vraag en aanbod" want
+dat is immers geen overleg") tusschen
+Directie en Vakvereeniging, doch... haar
+potentatige houding is volkomen in
+overeenstemming met de wetten van
+haar wezen. De werkelijke schuld ligt
+bij den vroegeren Haagschen Raad, die
+haar in aanzijn riep, en bij de tegen
+
+standers van het Gemeentelijk bedrijf.
+Zij zijn het, die de wezenlijke verant
+
+woordelijkheid er voor dragen, dat thans
+de Rijkspolitie en de Haagsche Gemeente
+
+politie, ten behoeve van Belgische
+aandeelhouders Duitsche onder
+
+kruipers moeten beschermen: een on
+
+stichtelijke bezigheid, waarvoor deze
+Nederlanders toch wel niet bestemd
+waren. t
+KRONIEK
+
+TWIJFELACHTIGE BESCHAVING
+Het is nu volop examen-zomer en een
+deskundig man zeide onlangs, dat het hél
+moeilijk is een goed examinator te zijn. Dit
+aannemende en daarnaast bedenkende, hoe
+vaak, naar het zeggen van Busken Huet, de
+eene helft van Nederland deandere examineert,
+wordt het klaar dat wij een voortreffelijke
+natie uitmaken, waarin men zooveel lieden
+aantreft geschikt om de meest uiteenloopende
+kundigheden bij de meest verschillende men
+
+schen te beoordeelen. Zulks stemt bemoedi
+
+gend en hartverheffend. Men kan thans eiken
+morgen opstaan en bedenken hoe weer
+tallooze waardige menschen zich ernstig (en
+gelukkig zonder een zweem van humor) gaan
+bezighouden met andere, jongere, en over't
+geheel nog on-waardige, menschen, om te
+onderzoeken of dezen in onderdeelen of
+en détail waardig geacht mogen worden.
+Waardig, als in het bezit van nuttige, of
+principieel onnutte, kundigheden, in elk
+geval echter van kundigheden en nimmer
+naar de mate van energie of karakter
+of smaak. Het is verbijsterend te, bedenken
+! zoo vele, en waarlijk in eiken zin nuttelooze,
+j kennis er in deze droevige dagen wordt ten
+toon gespreid door menschen, die dit veel
+liever niet zouden doen, voor menschen, die
+het gedeeltelijk veel te graag hooren en
+i anderdeels er absoluut niet om geven. En
+het is wel duidelijk, dat, waar zooveel ken
+
+nis moet worden opgeborgen, geen plaats
+overblijft voor andere geestes- of ziels
+
+eigenschappen en elke staatsburger, die blijk
+geeft bovendien nog levenslust, moed en
+karakter te bezitten, als weinig minder dan
+een wonder wordt aangestaard.
+Bij de vele geleerde manifestaties en
+occupaties onzes volks ontbreekt nog een
+Prijsvraag, hoe het gods-ter-wereld mogelijk
+is geworden dat een natie van Doeners en
+Durvers, als onze zeventien'eeuwsche vade
+
+ren waren, dat gebrilde en bleeke nakroost
+voortbracht, waarvan De Génestet... nog
+steeds zou kunnen gewagen. Wanneer en
+waar en hoe is die fragmentarische wijsheid
+begonnen en wie heeft het eerst gezegd,
+dat dit meer waard was voor het leven dan
+energie, gezond oordeel, zelfbeheersching
+en zelfvertrouwen?
+Of was het zoo, dat heimelijk dit volk van
+krachtvolle parvenu's eigenlijk altijd
+Bildung" eerde boven een levensreêheid, die
+hun van zelf afging? En toen na zekeren
+tijd hun leven het snel en doelmatig ingrij
+
+pen niet meer noodig had, zijn zij zich met
+de borst gaan toeleggen op een
+beschaving",waarvan wij de naargeestige pedanterie
+nog lang niet te boven zijn. De gemiddelde
+Hollander weet veel meer dan de gemiddelde
+Engelschman of Fransoos, maar wil en kan
+en durft een boel minder. Zijn verstand en
+geheugen zijn pierig uit hun kracht gegroeid,
+zijn wil, verbeelding en gevoel liggen vrijwel
+braak en verwaarloosd, en zoo moet hij dan
+het leven door, eigenwijs, onpractisch en
+hoogst onzeker.
+Maar intusschen werkt jaar op jaar, met
+den grootsten ernst, deze examenmachinerie,
+integendeel redeloos zeker van zichzelve, als
+elke machinerie.
+Terwijl ieder van dit volk van examina
+
+toren alleen kijkt naar, en waarde hecht aan
+bijzonderheden en niemand zich bekommert
+om het geheel.
+I* • W«
+* * *
+
+De Amsterdamsche vacantieregeling
+voor gemeentewerklieden
+Het is een curieus gescharrel geweest,
+dat mij terug deed denken aan vroegere
+jaren van wederzijdsch optreden tusschen
+beide Raadsfracties: die der S. D. A. P. en
+die der Vrijz.-Democraten, om elkander de
+loef af te steken in Arbeiterfreundlichkeit",
+waarbij dan de partij winst, die te boeken
+zou kunnen vallen, de geesten wat al te
+danig bevangen hield, om wederzijdsche
+waardeering en samenwerking ter bereiking
+van het principieel-wenschelijke doel, moge
+
+lijk te maken. En zooals altijd trilde ook nu
+weer in den Raad na de oude tegenstelling
+tusschen de V r ij e n en de S. D. A. P.- e r s.
+Want die V r ij e n, die, om vrij" te kun
+
+nen blijven heeten, niet zelf hun vertegen
+
+woordigers in een Regeeringslichaam mogen
+doen plaatsen, zochten en vonden, als van
+ouds ook nu weer hun tolken onder de
+Vrijzinnig-Democraten, wier geestesrichting
+(van het toch nog niet te verwezenlijken
+Socialistisch einddoel" afgezien) meer de
+hunne nadert dan die der S. D. A. P.;
+Afstammelingen als beide, Vrijen en V. D'ers,
+immers zijn van het oude Individualisme.
+* *
+*
+Wat het jongste debat nu echter dubbel
+pikant maakte, was natuurlijk het feit, dat
+de Marxistische Wethouder thans van de
+tafel van B. en W. een regeling had te
+verdedigen, die het momenteel-bereikbare"
+moest stellen tegenover de verder gaande
+wenschen der Gemeente-arbeiders, welke
+wenschen nu in den Raad, namens hen,
+vooral door de V. D'ers werden verdedigd.
+Ik geloof niet, dat dezen dat deden om
+de Marxisten er eens tusschen te krijgen.
+Zooals ik al zei: toen er van een Marxistisch
+Wethouder nog geen sprake was, traden zij
+steeds in gelijken geest op. Maar dat zij
+hunne Freude d ran" hadden, op hun beurt
+de S. D. A. P'ers eens vroegere verwijten
+van slapheid betaald te zetten, wie zou,
+gezien den aard van den Partijmensch",
+daaraan willen twijfelen?
+* . *
+Al wat in het jongste debat den ernstigen
+maatschappelijken hervormer moest tegen
+staan, kwam inderdaad voort uit de
+opeenhoopingen op de partijmestvaalten, gedurende
+jaren, van concurrentie om kiezersgunsten.
+Zoo af en toe lukte het wel, in den Raad
+die wederzijdsche wangunst tot zwijgen te
+brengen. Maar zoodra er weer in de ver
+
+kiezingsgrachten gewerkt moest worden,
+kwam het oude vuil naar boven, en hield
+men, als partijlooze, liefst zijn neus dicht.
+Voor onze Gemeentewerklieden zelf wordt
+het hoog tijd, dat zij hun veeten begraven,
+en hun belangen leeren behartigen in e«n
+onderlinge verstandhouding, die alle over
+
+tuigingen omtrent den toekomstvorm onzer
+maatschappelijke ontwikkeling vrij laat. En
+de vrijen zoowel als de S. D. A. P.-ers
+mogen uit het debat leeren, dat de inenting
+van onze arbeidersklasse met de bacil van
+het wantrouwen, dat aanstonds verraad"
+leert ruiken, in beide kampen slecht kan
+werken. Dat de heer Wibaut onze gemeente
+
+arbeiders zou verraden", is een dwaasheid,
+welke alleen kan opkomen in verhitte partij
+
+breinen. Dat ook hij echter alleen het
+voorloopig-bereikbare voor hen verzekeren kan,
+wist iedereen, die de verantwoordelijkheid
+van den stadsbestuurder nooit wegcijferde.
+De ideeën marcheeren nu eenmaal langzaam,
+en de maatregelen, waar vele belangen te
+behartigen zijn, doen het nog iets meer. In
+de vacantie-wenschen met toeslag van ƒ15,
+gelijk de V. D. die in den Raad verdedigden,
+ligt op zich zelf niets buitensporigs. Het was
+goed dat zij werden uitgesproken, zooals het
+ook redelijk was, ze niet ineens in te willi
+
+gen. Wat thans werd aangeboden, is een
+mooi begin, en het is te hopen dat, als
+de bezinning terug komt, al onze Gemeen
+
+tewerklieden er zich over verheugen en
+er een nuttig gebruik van zullen leeren maken.
+Het bedankje, dat de heer Pothuis voor zijn
+groep opeischte, mogen zij dan evenzeer
+laten liggen als de beschuldiging van ver
+
+raad", door de vrijen tegen die groep geuit.
+Voor deze zelf moge de les in parlementaire
+mede-verantwoordelijkheid het nopdige lee
+
+ren. En de gemeente Amsterdam blijve, in het
+belang onzer volkskracht, haararbeiders zoo'n
+menschwaardig bestaan mogelijk verzekeren;
+de georganiseerde gemeente-arbeiders mogen
+zich ervan bewust zijn, waar, onder invloed
+van hun eisenen" de corruptie zou kunnen
+treden in ons gemeente-beheer. Alle oprechte
+voorstanders van dit beheer zullen 's heeren
+Wibauts rustig staan onder de pogingen tot
+intimidatie met vreugde te boek stellen, al
+hadden zij ook van hem niet anders verwacht.
+
+L. S.
+IIIIIIIIIIIMIMIMIIIIimilllHlllltlllllllll	l
+Muziekpolitiek!
+
+Nationaal-Nederlandsche Muziek politiek,
+door dr. H. F. WIRTH. Amsterdam,
+Van Holkema en Warendorf.
+De heer Felix Wirth, te oordeelen naar
+dit werk, is de compilatie van een onge
+
+hoord aantal tegendeelen. Zijn wezen bestaat
+uit verschillende, onontkomelijke
+bewustheden, waarvan te noemen zijn: verlan
+
+gen naar opheffing der Hollandsche muziek,
+ontevredenheid tegen Calvinisme, libera
+
+lisme, clericalisme, socialisme, haat tegen
+moderne kunst, bevordering der muzikale
+huisindustrie, pieteit voor Duitschland. Ik
+wil het wezen van den heer Wirth, onder
+den alluvialen schmink van allerlei
+ouderwetsche affectaties desnoods gelukkig noe
+
+men, doch de compilatie, waaruit hij zich
+opbouwde, deugt niet. Hij stelt het eigen
+
+aardige geval voor, hoe een karaktervol
+mensch zeer karakterloos kan zijn, wijl hij
+zijn (fanatiek) wezen noch instinctief noch
+wetenschappelijk kon uitbreiden of mode
+
+leeren, wijl hij zich vergist in de contacten
+welke hij dienstbaar moest maken. Aange
+
+nomen dat Nederland een man als Felix
+Wirth noodig heeft zijne zaak is reeds
+verloren.
+De quaestie werd niet behandeld op souden
+basis. Men valle Holland nooit aan, omdat het
+parasietisch leeft op de cultuur van andere
+staten ! Onze natie lijdt nu reeds drie en een
+halve eeuw onder het noodlottige totemisme
+harer intellectueele autonomie. Italië en Frank
+
+rijk der renaissance (al hunne componisten
+waren Nederlanders!) zijn te luisterrijke voor
+
+beelden van geënte cultuur. Dat totemisme
+voegt ook niet als inleiding tot het betoog
+van den schrijver, die hier cantoren-scholen
+wil stichten, omdat de Duitsche cantoren,
+die de heer Wirth zoo hoog acht, (onver
+
+mogende) epigonen waren van Fransche en
+Italiaansche stijlen, omdat de vorsten, die
+deze cantoren begunstigden en eten gaven,
+allen onder invloed stonden van de Fransche
+beschaving, Frederik de Groote aan 't hoofd.
+En waartoe muzikale partij-twisten? Hoe
+
+veel vergissingen moet de heer Wirth be
+
+gaan ter wille van zijn Brahms, dialectische
+vergissingen, historische en theoretische ver
+
+gissingen, die blad na blad vullen en zijn
+patriottisch boekje voor onze goedgeloovige
+musici zeer gevaarlijk maken. De adellijke
+families der 18e eeuw, konden hun orchest
+uit hun dienstpersoneel recruteeren, wat aan
+
+hield tot de gouden tijd" van Liszt en
+Wagner begon, de ontaarding der Duitsche
+muziek-cultuur." Ja, ja! De vraag is of er
+gecomponeerd moet worden in verband met
+de practijk, maar met welke practijk? Als
+de practijk van het achttiende-eeuwsch dienst
+
+personeel de maatstaf is, dan past reeds
+Beethoven niet meer in hun kader; Brahms,
+dien Wirth waardeert als eenen held, nog
+minder, en de regel gaat zelfs niet op voor
+de onaantastbaren Bach en Handel, wier
+vocale en instrumentale partijen slechts
+uitvoerbsar zijn door virtuozen.
+Tot welke verwarringen laat de heer Wirth
+zich leiden door zijn idee fixe
+Berlioz-LisztWagner (Strauss, Manier, Debussy, Sch
+nberg...) kanker der beschaving! Deze
+nieuwe weelde-kunst was noch wat haar
+inhoud en aard, noch wat haar vorm en
+techniek betrtft, in staat gemeenschapskunst
+
+</text>
+<image timestamp="2002:08:20:22:51:35.00" size="467944">D40001CZ.TIF</image>
+</page>
+</document>

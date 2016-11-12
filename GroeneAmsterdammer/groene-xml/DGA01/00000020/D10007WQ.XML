@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260904</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2570
+Er;
+SI
+J. D* STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+FIAT AUTOMOBIELEN
+Agent voor het geheele Gooi: Auto Garage Kroijmans
+Soestdijkerstraatweg 66 HILVERSUM Tel. 306
+Bezoekt s.v.p. onze SHOWROOM en vraagt demonstratie
+PRIJZEN VANAF F 2500.—.
+c'
+t
+M"i:
+LA DELICIOSA PENAALWERK 10, 12 en 15 CENTS.
+E. A. MULLER &amp; Co. DEVENTER.
+Il'
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+TEL. 43186.
+Dames tagös in Z ij tl e,
+Wol lallwol en Katoen
+Dames- en Kinder Directoirs
+1-1
+
+v
+i
+iZUIVER WOLLEN -.
+: HALF WOLLEN-:
+KATOENEN-TRICOT-:
+RAMEH-EN NET-!
+'ONQERGGEDEREN'
+k FabnKa&amp;r W Jansen,
+Bij Verwonding
+uil dadel ij k «
+PUROL
+DEN HAAG
+PlANOs.ORGELS
+BoekhorsLMr 149. Telef: 13051.
+BEGRAFENISVEREENIGING
+N. SAX Ir.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+OGEN LIJKKOETSAUTOMOBIELEN
+^iiiiiiiiuiiiiiimiiiiiiiiiiiiiiiiiiiiimiiiiiiiiNiiiiiiiiiiiiiii^
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 j
+AMSTERDAM |
+Overhemden naar maat l
+« Vervaardigd op eigen Ateliers I
+'r*
+Bij ons verkrijgbaar I
+N. R. V. MONTA SCHOENEN I
+= =
+iiiiimiimwimmnmmmiiiiiHtiiiiiiiiiiimiiiiiim
+
+Wed JOHISTCAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK I
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V...DE HOUTTUINEN". AMSTERDAM
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D, WEEGEWIJS
+Rapenburg M - AMSTERDAM
+Tel. 42662
+MARMERWERKEN
+TERUG
+VAN DE
+VACANTIE
+
+Laat Uw goederen, tijdens Uwe Vacantie
+gebruikt, bij ons Stoomen of Verven»
+Ze worden weer als nieuw*
+
+PALTHE-ALMELO
+Monsterboekjes met de nieuwste modekleuren voor het
+a.s. Herfst- en Winterseizoen in onze depots aanwezig.
+Op aanvraag gratis en franco verkrijgbaar, ook aan de
+fabriek te Almelo.
+
+</text>
+<image timestamp="2002:09:26:02:42:47.00" size="143612">D10007WQ.TIF</image>
+</page>
+</document>

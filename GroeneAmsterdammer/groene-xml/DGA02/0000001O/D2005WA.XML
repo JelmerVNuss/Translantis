@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270409</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+9 April 195
+roene
+sekbl
+• •
+,
+voor Nederland
+(Mr./ W.—. Ptr namer 23
+A&lt;t*«rt«atli* ( Mi p • r r « g « l
+KEIZERSGRACHT 333
+
+AMSTERDAM
+TELEFOON :
+V RAAGT
+
+VAN
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+EXPORT
+Indien gij er prijs op stelt, een mooi
+en gaaf gebit te behouden, verzorgt
+dan steeds Uw tanden met het be
+
+trouwbare Nedtrlandsche Fabrikaat
+
+POOL'S ATOL
+Frissche pepermuntsmaak
+Goed en toch zér goedkoop.
+A F. ZURCHER
+CARTONNAGBFABRIEKenDRUKKERIJ
+UDÖIBRSGRACHT64-66-68-70-72AMSTERDAM
+STORM
+STORM
+WEEST OP UW HOEDE!
+
+VERZEKER U EER HET
+TE LAAT IS!
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN.
+JH. V. ^JMeuDelmagazijn
+MOLSTEEG-AMSTERDAA
+
+BOEKENKASTEN
+CLASIE, CASPERS 6 Co.
+Behanger^ - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+Oud-Hollandsche Meubelen
+VÏJZELGRACHT 13, Telefoon 37354
+Tijdelijke aanbieding Afghanistan karpetten
+f|. 34,—per M2, en Perzische kleeden
+± 1.0O x 2.0O M. a ffl. 48,—per stuk.
+
+GEBR. FORMA, trechtschestr. 85&gt; Tei.42940&gt;
+OSCO
+PROJECTIE LANTAARNS
+EN BIOSCOPEN
+
+
+CAPI
+
+AMSTERDAM DEN 1JAAG
+115 KALVER5TR- 124 NOOROE1NDE
+NIJMEGEN GRONINGEN
+!3-t9UBERCHCNSr» 3 KL.PE15TER5TR'
+"^*—^'^^ •
+IS MAAR EEN
+
+KARELI
+Aug
+* Uilkema
+
+ANKER HORLOGES.
+
+Zilver fl.10,15,20,25
+
+? rj Goud 28,35,50,75
+ikUair
+Reguliersbreestraat 39
+/OD BRANDEN
+** HILLEN'S
+GEUR, EN 5HMK
+ZUN MlERnEOE
+EVENREDIG!?
+N.V.
+H.A.KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMI B.
+
+SPANJAARD 6 Co.
+FABRIEK E SP AM A
+UTRECHT
+Meubelea a*«r «gen *ntwerpen ff «aar o«t&lt;U
+
+ARNOLÏD HOUTSCHILT
+
+Singel 283
+Amsterdam
+1781
+
+Hendrik Kruimel
+Wij'ntandelaar Amsterdam
+Kenig opvolger T»n
+Schimmelpenninck ó- Kruimel
+Kantoor: Keizersgracht 325
+
+Telefoon 40647
+INlEPHiTIONiLWiKHt
+SCHAFFHAUSEN
+Tl MTU R
+
+</text>
+<image timestamp="2002:09:25:04:09:19.00" size="171929">D2005WA.TIF</image>
+</page>
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19120929</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het voormalig Raadhuis op den Dam.
+BIJVOEGSEL, van De Amsterdammer, Weekblad voor Nederland van 29 September 1912.
+Architectura" berichtte: de consoles vallen uit de kroonlijsten, de armen
+der beeldengroepen storten op de straat neer, het lekt in de Burgerzaal.
+Arnst. Boek- en Steendrukkerij, v. h. Ellerman, Harms &amp; Co
+Zeg, jonge, wat dunkt je: de radicale oplossing van het Paleis-Raadhuisvraagstuk!
+
+</text>
+<image timestamp="2002:08:17:22:59:37.00" size="250165">D40000EC.TIF</image>
+</page>
+</document>

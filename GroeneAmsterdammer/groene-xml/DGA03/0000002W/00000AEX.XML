@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320716</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Goede Hotels in Nederland
+Tel. 88
+FAMIME-PENSION ..
+Tel. 88 BERQEN-f 1»"*ÊN
+vr«n«n^i« i&gt;oir«i&gt;&lt;i Vnmf il «mg»—&lt;***!•»'Bittnstig Belegen bJJ bosch
+7^^h«nri^h« aitaSn^"IfeStfmend water op alle kimer».
+«» 8c^S2S?^toJ^Sft» :-! Prospectus op aanvrage
+r. HENNEMAN, eigenaar
+Doorn TKLEFOON 138 Hotel Cecil"
+PENSION-CAFÉ-RESTAURANT
+Logies Ontbijt f 3.—Pension vanaf f 6.
+«room*.* koud «n warm water, met CENTRALE VERWARMING
+op au* kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+natuurachoon met ruime friscche kamer*, r i atntnan vom Tnnrankorn
+Garage 2 minuten van tram. U '•«"""eW VHH TOOrenblirg.
+Hotel Pension FLIP HULL"
+Bondshotel der A. N. W. B. 't Oeheele jaar
+geopend. Kamers met stroomend, koud en
+Teleph. 88 warm water. Elec. licht. Centrale verwarming.
+Dag- m nschtvsrbHidlng. Auto-garage. H. G. HABMSEN.
+HOTEL DE ONDERNEMING"
+HEILOO TE LEF. 1059
+TE LEF. 1059
+•• PENSION ••
+F 3—PER DAG
+VREELAND. Het van ouds bekende
+Hotel De Nederlanden" Café-Restaurant
+Heerlijk Keiegen a/d Vecht, onm. bij de Plassen.
+AlJIiJBi kamers STKOOMEIV» water. Prima keuken.Garage.
+wnerry's, Eigen jaanlegwal._Benzli^e pomp.
+d. en n.
+E. K. J. SCHEtTEMA, Eig.
+NOL IN 'T BOSCH"
+HOTEL-RESTAURANTbijWagening
+'en
+Bosch en Helde Modern Ingericht
+Gunstig: gelegen voor ruitersport
+Bondspaardenstal Tennisbanen Garage
+Benzine Teleph. interc. 314.
+Hotel Het Wapen van Zeist"
+STATIONSPLEIN Tel e*. 792
+Alle kamers stroomend water. Centrale verwarming.
+Prima keuken. Gezellige Serre en terras. P. BRAND, Eig.
+BEGRAFENIS ONDERNEMING
+^%T E.KÜMI MG, JRT^r
+NIEUWE 5PIEEÜL5TRAAT G1
+BLCirUFEni55tf1 MAARALLLPLAAT5EM
+LKELMATIE.
+Sea^Horse
+de allerbeste
+Mouiwyn Jenever
+M.P. POLLEN t ZOON ROTTERDAM
+N.V. CIVIELE EN MILITAIRE KLEERMAKERIJ
+
+DEKKER &amp; DIJKSTRA
+voorheen de erven H. van Dijk
+[Tëverancier» van Indische Uitrustingen [
+
+UTRECHT, Nieuwe Gracht 6 TELEFOON
+DOOR HET GEHEELE LAND TE ONTBIEDEN 13416
+Cigarros Cadena
+IN DE) VOORNAAMSTE
+SIGARENWINKELS
+VAN RIJN S
+"MOSTERD
+GEBRUIKT
+
+COELINGH'S
+
+DEVENTER- en
+ONTBIJTKOEK.
+Met de plaatjes voer
+het PRACHTALBUM3
+
+SPOORWEGWONDER EN
+DER WERELD"
+TAYLORIX
+BOEKHOUDSYSTEMEN
+Doeltreffend
+Eenvoudig
+Billijk
+VRAAGT BROCHURE AAN
+BUREAU WITTEVEEN
+Paramariboplein 58
+A ' D AM Tel. 84751
+Verrukkelijke Vacantielectuur:
+MOECHLIS; De Duizend-en-én-Dag,
+Perzische Volksverhalen, 4 deelen, 1044 blz. met illustraties
+naar Perzische miniaturen, inleiding en register
+in LINNEN BANDEN.
+
+
+VAN f 15.90 VOOR f 9.50
+Verkrijgbaar bij den erkenden boekhandel en bij
+UITGEVERIJ C. A. MEES SANTPOORT.
+RUIM 48.000
+NEDERLANDSCHE, FRANSCHE, DUITSCHE,
+ENGELSCHE, SPAANSCHE EN ITALIAANSCHE
+
+BOEKEN
+PER KWARTAAL:
+1 boek per week .
+
+2 boeken per week.
+
+3 boeken per week.
+
+4 boeken per week.
+
+5 boeken per week.
+
+6 boeken per week.
+.1.10
+
+. 1.75
+
+. 2.50
+
+. 3.00
+
+. 3.50
+
+. 4.00
+Bonboekjes, 12 bons . . 1.25
+1 JULI BEGON HET
+
+NIEUWE KWARTAAL
+Abonné's in het bezit van den laatsten catalogus
+ontvangen de supplementen gratis
+JONGENS- EN MEISJESBOEKEN
+VO,OR ELKEN LEEFTIJD
+MBYEHKODF
+
+</text>
+<image timestamp="2002:09:27:04:00:02.00" size="123944">00000AEX.TIF</image>
+</page>
+</document>

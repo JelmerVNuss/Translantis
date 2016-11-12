@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300920</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'V
+f*.
+DÉGROENE AMSTERDAMMER VAN 20 SEPTEMBER 1930
+No. 2781
+J, D. STRUIJS 6 Zn*
+Prinsengracht 837 Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZING net RIJTUIGEN ol AUTO'S]
+CREMATIE. - TRANSPORTEN.
+N.V. Meubelmagazijn Eden"
+MOLSTEEG ~ AMSTERDAM
+
+BOEKENKASTEN
+Or
+lyioorij
+Voor Let Dessert.
+
+Gember uit China in
+amandelchocolade.
+Ziltoe,
+datgeTtrosks
+•••••••••••••••••••••••••••••••••••••••••••*••••••••••••••••
+
+FIRMA KRÖNER
+NIEUWENDIJK 167, AMSTERDAM
+
+JAEGER O N D E R G O E D E R E N IN
+
+WOL - HALFWOL - GEMENGDE WOL
+
+VERLAAGDE PRIJZEN
+W»»»»»»»»»»**»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»*»»»»»»»»»»»»
+Voor alle doeleinden
+
+Oiem.Kunstinrichting
+DirkSchndbel
+", Amsterdam. *
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllillllllllllllllllllllllllllllllllllllllll
+
+G. J. DE KONING fi ZOON
+
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+
+ffarnmiatenfoorzienina.
+iiiiiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiii
+Een abonnement op
+
+De Groene Amster
+
+
+dammer, kost van
+
+l Oct* tot 31 Dec.
+
+f3
+ADRESSEER ALLEEN:
+»»
+IN DEN SILVEREN
+
+MOLENBEECKER"
+KALVERSTRAAT
+A M STERDAM
+HOOG S T RAAT
+DEN HAAG
+31
+KAASSCHAAF
+met zilver handvat. Verkrijgbaar in
+6 verschillende uitvoeringen,
+GLAD,FIL
+,PARELRAND,PUNTFILE, PUNT-GROEF (1028) EN
+PISTOOLHEFT
+Prijs f 6.50
+Met IMIT. ANTIEK Handvat
+Prijs f 7.50
+Toezending door Nederland met
+30 cent verhooging.
+MET RECHT VAN TERUGGAVE
+ALS DEZE NIET AAN DE
+EISCHEN VOLDOET.
+Onmisbaar in het Huishouden.
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 34250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ZWEMT
+BIJ DE
+LEID5CHE
+
+lNQANü;VONDtL5IRAATÖ.
+
+WINTER
+ABONNEMENTEN
+
+1 OCTOBER t/m. 31 MAART
+
+GEVEN TERSTOND
+TOEGANG.
+Voortdurende chemische en
+bacteriologische controle van
+Dr. JAN SMIT.
+Rijwielstalling en Haardrogen:
+Kosteloos.
+
+VRAAGT PROSPECTUS.
+Abonneert U op: - - - - •
+De Groene Amsterdammer
+BJASPSBOMMEL'
+BOEKBINDER
+KERKSTRAAT 58
+AMSTB^AM
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtinn
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:03:44:26.00" size="175669">000008IV.TIF</image>
+</page>
+</document>

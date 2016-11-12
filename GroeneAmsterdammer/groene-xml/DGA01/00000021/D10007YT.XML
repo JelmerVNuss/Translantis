@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260925</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2573
+J. D. STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+Begrafenissen - Crematie - Transporten
+NTOL
+LA DELICIOSA PENAALWERK 10, 12 en 15 CENTS.
+E. A. MULLER &amp; Co. DEVENTER.
+EUASPIBOWB:
+KERKSTRAAT 55
+AM3TEÏ3DAM
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+pimmiiimiiiiimiiiiimiiiiiiiiiiiiiiniiiniiiiiiiiiinmiiiiiiiiiiiiiiiMiiiiii^
+ADRIAAN SCHAKEL I
+HEILIGEWEG 15-17 |
+AMSTERDAM I
+=
+Overhemden naar maat l
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar i
+N. R. V. MONTA SCHOENEN |
+
+LIEVEGOED'S KERSEN LIMONADE
+= VERFRISSCHEND EN GEZOND sa
+LIEVEGOED'S FABRIEKEN A'DAM.
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+Abonneert U op De Vrouw
+en haar Huis"
+Prijs per jaar f 10 Franco p.p.
+f 10.75 Proefnr. op aanvraag
+Uitgave Van Holkema &amp;
+Warendorf's Uitg. Mij. A'dam
+VERVEN
+Wij maken U opmerkzaam op
+onze juist uitgekomen Monsterboekjes
+met de nieuwste Najaarskleurent welke
+gratis aan de fabriek of bij onze agenten
+verkrijgbaar zijn*
+
+PALTHE - ALMELO
+Complete Badkamer
+van af f 285.—.
+Prima drukautomaat, Bad, Kranen, Bidet,
+Waschtafel met marmer en spiegel.
+G. J, DE KONING &amp; ZOON
+Keizersgracht 447, A'dam
+Agentessen»
+Groote Linnenfabriek stelt
+Dames uit den beteren stand
+aan tot agentessen. Prachtige
+collectie.Gunst.conditiën. Br.A429
+Alg. Adv. tur. ROUMA &lt;5Co., A'dam.
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+TEL. 43186.
+in Zij il e,
+l Haliwol en Katoen
+
+</text>
+<image timestamp="2002:09:26:04:37:41.00" size="147192">D10007YT.TIF</image>
+</page>
+</document>

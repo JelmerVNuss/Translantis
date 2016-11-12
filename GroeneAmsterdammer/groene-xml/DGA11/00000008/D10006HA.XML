@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270521</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 21 MEI 1927
+No.2607
+Houdt in het oog . .
+
+dat slechts een kleine toevoeging van Maggi's
+Aroma noodig is, om flauwe soepen of jus.een
+krachtigen, aangenamen smaak te geven, zoodat
+dus Maggi's Aroma in het gebruik buitengewoon
+bittijk komt.
+MAGGI- l AROMA
+Koldewey 6 Corbière
+Leidschcstraat 30 « Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+ASPERGES
+Fijnste, dik, blank, frisch franco
+huis, postw. kistje stevig verpakt,
+4 pd. ƒ 3.—, 6 pd. / 4.—, 8 pd. ƒ 5.—,
+Slierasperges 25 pCt. meer, lengte
+sterilis. 75 pCt. juiste glasmaat.
+FIRMA ISIDORUS
+Bergen op Zoom. Telef. 119.
+8ADKAMEIWCHÏIHGEN
+zoowel eenvoudige als betere uitvoering.
+
+G. J. DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+Stoomboot-Maatsch, De Volharding*
+Naar 't KALFJE en OUDERKERK
+Afvaart Amstel b/d Achtergracht. Tel. 40187
+Naar Vliegveld Schiphol en Aalsmeer
+Afvaart Schinkelkade.
+LEIDEN AMSTERDAM v.v.
+via KAGERMEER—AALSMEER en SCHIPHOL
+Van en naar Den Haag in aansluiting met de Haagsche
+Tramweg-Maatschappij.
+
+Zie uitgebreide dienstregeling.
+Firma RRONER
+Nieuwendijk 167, Amsterdam
+TEL. 43186.
+Speciale aanbieding.
+Graslinnen lakens
+zeer solide kwaliteit
+180 cl
+. . i 2.95
+.. 3.35
+II. a jour ... 3.35
+., 4.20
+a jour ... 4.
+Staal franco op aanvrage.
+AAN DE INZENDERS
+
+
+Alle TOOT net redactioneele gedeelte
+bestemde inzendingen moeten
+worden geadresseerd
+
+AAN HET SECRETARIAAT DER
+
+REDACTIE VAN
+
+DE GROENE AMSTERDAMMER"
+
+KEIZERSGRACHT 333
+
+AMSTERDAM,
+
+•onder Termeldïng van persoonsnamen.
+De geschiktste omvang van artikelen
+bedraagt ten hoogste 1800 woorden.
+Indien de bijdrage voor illustreering
+met foto's in aanmerking komt, gelieve
+de inzender, zoo' mogelijk, de foto's
+die niet reeds in andere Treek- of dag
+
+bladen mogen zijn gereproduceerd
+tegelijk met het artikel in te zenden.
+ij vele menschën
+
+is een goede
+
+eigenschap aanwezig, namelijk de
+drang om datgene wat men doet,
+beter te doen dan een ander.
+
+Vooreen groot deel ligt aan dezen
+prikkel wel eigenbelang ten
+grondslag, maar het resultaat is tenslotte
+toch, dat de omgeving van dat
+betere werk profiteert.
+
+Het prikkelt den onderwijzer tot
+het halen van de hoofdakte, den
+boekhouder tot de
+accountantsstudie, den winkelier tot 't leveren
+van betere waar dan een ander.
+En al is het nu bij den winkelier
+de bedoeling meer klanten te
+trekken, het neemt toch niet weg, dat
+het publiek daardoor juist de bon
+
+bons of chocolade krijgt, die ge
+
+maakt zijn door Droste.
+
+</text>
+<image timestamp="2002:09:21:07:13:32.00" size="118121">D10006HA.TIF</image>
+</page>
+</document>

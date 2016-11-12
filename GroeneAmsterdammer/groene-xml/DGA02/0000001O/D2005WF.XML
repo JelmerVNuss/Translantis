@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270409</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Kantoor:
+Binnenkant 38
+Magazijn:
+Pr. Hendrikkade 120
+Tel. 41709—40717 AMSTERDAM.
+JACHTZEILEN
+CANO'S - KAMPEERTENTEN
+Strandtenten
+Kampeer-uitrustingen.
+Op aanvraag franco toezending prijscourant.
+CENTRALE VERWARMING
+volgens elk systeem
+W ARMWATER VOORZIENING
+door middel van ketel» fornuis of gaaapparut
+FORNUIZEN
+ia alle afmetingen en uitvoeringen
+
+HUNCK 6' ZOON-3S&amp;SS
+cKtaa WlEElom W
+SCOTS WH1SKV
+VERTEGENWOORDIGERS i
+
+N.V.H006[WERFF,CIIIIBOT&amp; VISSEKi
+WIJIMHANDEL
+
+DEN HAAG - ROTTERDAM - ARNHEM
+f -UI**A
+f\Oj W*^ INDIEN (
+UMr MET ot\
+^~ frFnpDn;
+ALLEEN ECHT,
+GESTEMPELD
+ONS WETTIG
+GEDEPONEERD MERK.
+UITGEZOCHT
+BOXCALF - QOOD YEAR
+WELTED OAK
+TANNED SOLES
+
+ELKE SCHOEN IS
+IN IEDERE HALVE
+EN HEELE MAAT
+VOORRADIG IN
+4 PASVORMEN
+
+
+
+17.50
+GEIUIAJS1 B. CATALOGUS
+
+OP AANVRAAG	i
+WW
+NK01AAS WITSEft'
+
+SÏOEL-ALKMAAR
+
+VOOflAFlEVERJMG
+CCREED:
+WPEaiE MOTORBOOTEN
+Van onzen invloed als het bekendste Handelsinformatie-Bureau wordt door
+den Handel en de Banken steeds meer gebruik gemaakt voor het
+INCASSEEREN en regelen van ACHTERSTALLIGE EN BETWISTE VORDERINGEN.
+
+Ons ONKOSTEN-VERZEKERINGSTARIEF
+houdt U vrij van kosten. Vraagt onze conditiën.
+
+
+VAN DER GRAAF &amp; Co.
+AMSTERDAM
+ROTTERDAM
+BRUSSEL
+Het Goedkoopste en meest Veelzijdige
+
+Internationale Boekennieuws is:
+
+
+
+Boek en Kunst
+4e jaargang.
+
+Prijs per jaargang f. p. p. voor 10 nummers fl. 1.50
+
+Maandblad voor Litteratuur, Beeldende
+Kunst en Theater.
+Geeft Moderne Nederlandsche, Fransche, Engelsche
+en Duitsche Litteratuur, Internationale Bibliografie,
+Verhandelingen over Oude Boeken en Zeldzame
+Drukken, Boekbesprekingen etc.
+Abonneert U voor slechts fI. l.50 bij den
+Uitgever S. L. VAN LOOY, Binnenkant 30, A'dam.
+ddards
+PïatePowder
+VcHuygfcurtyde
+nut drogtan te Gtliatoit hu
+GcnenJ Vcncgomooriigin:
+J. RJanenttCo.
+.2L6^ AOCXCKBUH
+OUD-CRIEKSCH
+
+OORLOGSRECHT
+OPENBARE LES
+gegeven bij de aanvaarding
+van het ambt van Privaat
+
+docent in de Oude Geschiedenis
+aan de Rijks-Universiteit te
+Leiden, op 2 Februari 1927
+door
+Dr. J. H. THIEL
+
+Prijs . .... f 0,75
+Uitgave van J. B. WOLTERS
+Groningen Den Haag
+VA
+ELLE'S KOFFIE
+DAMES!
+
+
+ZIET HIER
+
+UW GENOT
+
+VAN ELKEN DAG
+
+VAN NELLE'S KOFFIE
+
+DAAR GAAT NIETS B o" V E N
+
+KOOPT PRIJS PEH HALFPONDS PAKJE
+ROODMERK	7O CENT
+PAARSMERK	65
+ZWARTMERK	6O
+GROENMERK.	5O
+BLAUWMERK	45
+GRIJSMERK	. 4-O
+
+</text>
+<image timestamp="2002:09:25:04:18:40.00" size="150749">D2005WF.TIF</image>
+</page>
+</document>

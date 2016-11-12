@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250207</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2487
+LEVENDE COPIEËN NAAR
+
+OUDE MEESTERS
+(„Palace of Beauty")
+
+Titiaan, Van Dyck, Boucher, Gainsborough, Goya en
+
+IN ONZE
+
+OOSTERSCHE KUNSTZAAL
+
+OPENING Zaterdag l Februari, 3 uur
+VERDER DAGELIJKS VAN 2'/z—5'/2 UUR
+ENTREE f 0.75, sted. belasting inbegrepen
+
+
+DE BIJENKORF
+AMSTERDAM
+$ Zn. - Keizersgracht 447
+(voorheen L E l DSCH ESTRAAT 69)
+~ MARMEREN WASCHTAFELS
+zijn het meest gewild, om
+prijs en kwaliteit
+DJWES!
+Laat uw wasch behandelen
+door de wasscherlj
+
+forti", TiMi»iitr.a-24. Til. HJ25
+zoowel droog toegeslagen als
+opgemaakt.
+Vraagt prijsopgave.
+Aanbevelend B. NEID IQ dl Co.
+.A. via. KI j wielen
+r&gt;E BESTK
+
+J. DE JONG &amp; ZONEN - A'OAM
+IET LEVEN BEGINT...
+
+DOOR
+
+GUIDO DA VERONA
+
+Uit het Italiaansch vertaald door
+CHR. MORESCO-BRANTS
+
+Geïllustreerd omslag van
+Is. VAN MENS
+
+De H en W-Serie Deel VI.
+
+Derde druk
+
+Ingen. f2.90 Geb. f3.75
+
+Uitgave van
+
+VAN HOLKEMA fr WARENDORF
+
+Amsterdam
+KV. KFOIM'
+Dir. E. Boerma
+EXOXINGEN AMSTERDAM
+Heeresir. S lakin 70
+Dames- en
+HeerenKleedermakerij.
+,Coupeun door het gehtels
+lind ti ontbitdin".
+REKLAME VERKOOP
+IIIIIIIIIIIIIIIIMIIIIIIllllllllllllllllllllllllllllll
+WOLLENVESTEN
+
+RECHT- EN VESTMODEL
+
+MET OF ZONDER MOUWEN,
+IN DIVERSE UNIE-KLEUREN,
+FANT. STREPEN EN RUITEN
+10.50 9.50
+8.50 7.50
+6.50 4.50
+GERZON
+HERENMODEMAGAZIJN
+KALVERSTRAAT 80—82
+DE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 3.—per kwsrtaal
+
+of f 10.—p. jaar bij vooruitbetaling
+Firma
+J. G. MEIJER
+2 MARKTEN
+GRONINGEN
+Specialiteit
+Franco per post
+verhooging.
+QERARD B. RIJKE Jr.
+Binnen Architectuur
+AM9TEL 122 - Telef. 4-6813
+Complet» Moubilooring
+Vraagt onze prijzen van
+luxe
+vracht- en aanhangwagens.
+
+
+OFFICIAL DEALER:
+
+
+JAN LIMBACH &amp; Co., HAARLEM
+ie OROOTE OPRUIMING
+Restanten Lingerie,
+Restanten Lakens en Sloopen.
+W Restanten Tafellakens en Servetten,
+Restanten Huishouddoeken.
+TEGEN EXTRA LAGE PRIJZEN
+
+AUG. KAUPMANN - AMSTERDAM
+P.C. HOOFTSTRAAT 113 Telefoon 23308
+i Speciale aanbieding zuiver linnen handdoek 85 cent
+
+BJASPIBOMMO:
+BOEKBINDER
+AMSTgRDAM
+Illuttratiedruk-papier van de Firma C G. A. CORVEY, Keizersgracht 289, Amsterdam, Tel. 37500
+
+</text>
+<image timestamp="2002:09:03:02:13:04.00" size="137105">000005BT.TIF</image>
+</page>
+</document>

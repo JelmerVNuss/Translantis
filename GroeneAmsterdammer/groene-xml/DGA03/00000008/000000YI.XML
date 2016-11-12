@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19070728</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer. Weekblad voor .Vederland van 28 Juli 1907.
+Een Ministerie, dat eindelijk op dreef komt.
+Vmst. Bock- eu Steeadrukkerij. vih. Ellcrman. Harms tV Co
+NED. MAAGD (tot Minisier de Meester c.s.}: Tot dusver heeft niemand uwer zich bij mij
+aangemeld, dan Cohennetje. Waar blijft gij ? De Staten- en Gemeenteraadsverkiezingen hebben
+bewezen, dat er ganschelijk geen constitutioneele grondslag meer voor u is - doet uw plicht. . . .
+gaat heen.
+DE MEESTER: Mevrouw, we zijn tier genoeg om deze drie heroën te dienen. Is het niet de
+plicht der verslagenen den overwinnaars de voetzolen te kussen? En dan zulke edelmoedige
+triomphators ! Zij zijn nog niet gereed om ons uittedrijven. ... en schonken voor de nog komende
+maanden mij dit rieten staafje tot veldheersstaf.
+LOHMAN (tot Kolkman en 7 alma): Voortreffelijke Excellenties; hoe neigen zij reeds tot het
+Christendom ! l Heel anders dan dat heidensch vrouwmensch. . . .
+NED. MAAGD (tot De Meester c.s.) : Ongelukkigen, zonder wil en geestkracht, zonder karakter
+en eergevoel !
+
+</text>
+<image timestamp="2002:08:12:22:04:05.00" size="211593">000000YI.TIF</image>
+</page>
+</document>

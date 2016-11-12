@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19391209</Datum>
+<Pagina>23</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Met dat hondenweer valt het
+niet mee, den heelen dag te
+raixen. Goed dat ik m'n ..."
+Wat een pech, nu heb ik ze
+natuurlijk niet bij me ..."
+Hebt Uietavergeten.meneerf"
+Ja, wtyw Wybertjes, die ver
+
+geet ik anders nooit."
+Een oogenblik meneer, ik laat
+se even voor 17 halen."
+Wybert-tabletten, de reisver
+
+zekering tegen hoest en
+heeschheid.
+De Groene het ideale Kerstgeschenk
+
+
+De Groene als geschenk
+beteekent niet n geschenk maar twee en vijftig' geschenken:
+elke week n!
+
+De Groene als geschenk
+beteekent een nuttig geschenk: De Groene is een onmisbare
+politieke wegwijzer in de wereld van thans.
+
+
+De Groene als geschenk
+beteekent een aangenaam geschenk: De Groene schenkt elke week
+ontspanning en vermaak.
+
+De Groene als geschenk
+kost slechts ƒ 6.—. Wanneer Gij zelf abonnézijt of wordt voor
+het jaar 1940 voor het gewone bedrag van ƒ 10.—kunt Gij hun,
+dien Gij dit prachtige geschenk wilt geven, voor ƒ 6.—een jaar
+lang De Groene doen toekomen. Wanneer Gij ons van Uw voor
+
+nemen kennis geeft door opgave door middel van onderstaanden
+bon (No. /ƒ, rechts) zorgen wij er voor, dat de begiftigde op
+den avond vóór Kerstmis door een toepasselijken brief van het ge
+
+schenk kennis krijgt, waarbij hij tevens het eerste nummer van
+ons blad ontvangt.
+
+De Groene als geschenk
+voor U zelf! Wij kunnen ons voorstellen, dat gij U zelf een jaar
+lang d}t fraaie geschenk wilt doen toekomen. Goed begrepen
+liefdadigheid begint bij zich zelf! Vult dan den bon No. I links
+in, dan ontvangt gij van heden af tot i Januari De Groene gratis
+
+De Groene als geschenk
+voor anderen en.. .. voor U zelf! Het mooiste geschenk!"
+
+
+DE GROENE voor ZES GULDEN!
+J.
+BON I. Voor hen die ZICHZELF willen abonneeren.
+BON
+•ndergeteekende :
+bats:
+bonneert zich voor het jaar 1940 op De Groene.
+
+. . . ... op postgirorekening 72880 ...
+fij zendt daartoe f 10. -- - - 2 - . , - aan de administratie
+. . per postwissel
+in De Groene Amsterdammer, Keizersgracht 355, Amsterdam C.
+
+
+e tot i Januari verschijnende nummers ontvangt hij gratis.
+BON II. Voor hen die ANDEREN een geschenkabonnement willen geven.
+BON
+
+Ondergeteekende:
+
+Adres: Plaats:.
+zelf reeds abonnéop De Groene voor het jaar 1940 a £ 10.—verzoekt U een geschenkabonner
+te willen noteeren voor:
+Naam (van degeen die het abonnement krijgt):
+
+Adres:
+op postgirorekening 72880
+. Plaats:
+
+aan de administratie van De Groene Am;
+iiiiiiiiiiinlitiiiiiiir:
+Hij zendt daartoe f6.
+per postwissel
+dammer. Keizersgracht 35.5, Amsterdam-C.
+
+Hij verzoekt U van de schenking per brief aan den begiftigde mededeeling te doen op
+avond vóór Kerstmis mét vermelding van den naam van den schenker/zonder vermelc
+van den naam van den schenker (een van beiden doorhalen s.v.p.).
+
+</text>
+<image timestamp="2002:09:13:08:49:52.00" size="117168">D2004II.TIF</image>
+</page>
+</document>

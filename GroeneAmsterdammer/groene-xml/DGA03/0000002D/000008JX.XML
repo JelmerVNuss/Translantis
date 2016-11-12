@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301004</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BU1TENLANTAARNS
+KttnntrMht MC AnwtorfMi
+POtlSSEN
+In geval van *chade kan men zich wenden tot de
+* BUROPEESCHE"
+HAKlooserhuis
+«MM, BMMION, Bvlcrrto. B*rli]n, B»m, BootapMt BotkansV BrasicL
+• Kraira. K»frahac«n. Uurton. Londïn, Lai»mbur?. »
+Prwg, Mi», Rooi*, Stockholm, WamhM *n W««n«n.
+KALVERSTRAAT 178
+- HOTLKVKRANCIERS VAN Z. K. B. PRINS HENDRIK DER NEDERLANDEN.'. •
+
+VANSTRAALEN
+
+MONSIEUR
+
+6ËRKELENS
+WIJNHANDELAREN.
+.Hoofdkantoor Rotterdam
+" Leuvehaven 34
+lal 62466
+
+
+Filialen, Den Haag
+Anna Paulownastraat 36
+M. 62632
+
+
+Den Helder
+Hooidgraoht 37
+tol. 81.
+VRAAGT PRUSCOURANT 1830.
+VOOR DE TOEKOMST
+VAN U,
+VAM UW KINDEREN,
+VAM UW NABESTAANDEN .
+
+HOOPOKAMTOOR KORTBNAERKADE S
+DEN HAAG,
+BIJKANTOOR VOOR IN DIB
+VOORRIJ ZU|D, BATAVIA.
+
+</text>
+<image timestamp="2002:09:22:04:42:43.00" size="288415">000008JX.TIF</image>
+</page>
+</document>

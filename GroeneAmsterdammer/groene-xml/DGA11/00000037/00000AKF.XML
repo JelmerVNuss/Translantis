@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320910</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 10 September 1932
+No. 2884
+B? r
+»
+
+L*
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+N»V* Meubelmagazijn Eden"
+MOLSTEEG AMSTERDAM
+
+BOEKENKASTEN
+BEGRAFENISVEREEIMIGING
+
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+T«l. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+" D. WEEGEWIJS'
+STEEN HOU WER IJjEN FABRIEK VAN M A R M E R W E R K E N
+
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+
+MARMEREN W ASCHT A FELS R EP AR AT l ES
+
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+RUST IN UW SLAAPKAMER
+
+De geruischlooze wekker
+Donkerrood emaillelak F. 6, radium F. 7.
+Direct uit voorraad leverbaar,
+Verzending door hetgeheele land.
+Zendt nog heden uw bestelling.
+Absoluut geluldlooze gangconstructie.
+
+N.V. v/h. Gebr. Breen
+Nieuwend ij k 172
+
+'Haarlemmerstraat 64
+
+Rozengracht 53
+
+AM STERDAM
+VAN AF HEDEN
+GEDURENDE KORTEN TIJD
+
+
+20% KORTING
+
+OP DE REEDS VERLAAGDE PRIJZEN VAN
+CHEMISCH REINIGEN EN VERVEN
+
+
+PALTHE.
+
+TOEPASSING DER MODERNSTE METHODES
+Boeken voor de Jeugd
+
+De Geschiedenis van
+
+Reinaert de Vos
+NAVERTELD DOOK RO KOPUIT
+Mot omslagteekening in kleuren en teekeningen
+in den tekst van de schrijfster
+
+GEBONDEN f 1.5O
+Jeugdboek
+
+Verzen, verhaaltjes en teekeningen
+door RO KOPUIT
+GEBONDEN f 1.5O
+IN ELKEN GOEDEN BOEKHANDEL VERKRIJGBAAR
+g-W. H. POLMAN TUIN
+l OVERTOOM 526 - Telefoon 82660
+| Begrafenissen * Transporten - Crematies
+BEZOEKT DE JAARBEURS
+
+TE UTRECHT 6T/M15 SEPTEMBER
+
+DE HANDEL STAAT NOOIT STIL; DAAROM
+HEEFT IN DE BENARDSTE TIJDEN DE
+JAARBEURS STEEDS EEN BIJZONDERE
+EN BELANGRIJKE TAAK TE VERVULLEN
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:08:10:48.00" size="138711">00000AKF.TIF</image>
+</page>
+</document>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321015</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+de uitki
+F
+l
+L
+M Dagelijks2.30,7.30,9.30
+T FILM EN MODERNE
+H
+E
+A
+T
+E
+R
+MUZIEK'
+prinsengracht bij
+de leidschestraat
+telefoon 37460
+k
+Leest De Groene
+N.V. GOEDEWAAGEN's Kon. Fabrieken - Gouda
+Wed.H.Rahder&amp;Zn
+WIJNHANDELAREN
+Amsterdam Arnhem
+mm 's-Gravenhage mm
+Hofleverancier*
+Hoofdkantoor: Binnenkant 25, Amsterdam
+INTERCOMMUNALE TELEFOON 40389
+Prijscouranten worden op aanvrage gaarne toegezonden
+VOOR EXPORT SPECIALE CONDITIËN
+Indisch Restaurant en Lunchroom
+J. VAN GEEMERT
+Laan van Meedervoort 12 - DEN HAAG - Tel. 12869
+LITTHAUER
+MACENBITTER
+OJRNtEïs'IJWGD
+AGENTEN: TissoTdco ROTTER D AI
+Boeken voor kleine kinderen.
+
+De looze streken van
+
+REINAERT DEN VOS,
+naverteld en geïllustreerd door
+
+RO KOPU IT
+Ro Kopuit heeft een snoepgoedje
+samengebracht, met suiker en
+honing, met koek en melk. Het
+wordt een feestgebakje voor de
+kleinen,heerlijk geurend en lekker
+smakend. Niet een zal den neus
+van over de bladen willen doen
+als hij niet alles weet wat er op
+verteld staat, van naaldeken tot
+draadje.
+Dagblad Vooruit, Gent
+De teekeningen zijn kwieke soms
+geestige zwartjes. De
+bandteekening is fleurig en boeiend. Zeker
+zullen de kinderen van het geheel
+genieten.
+Nieuwe Rotterd. Courant
+Prijs gebonden F. 1.50
+
+In eiken boekhandel verkrijgbaar
+Juist verschenen:
+
+Gita-Gowinda, pastorale van Djajadêwa, uit het
+Sanskrit in Nederlandsche verzen overgebracht door
+Prof. Dr. B. Faddegon.
+
+Formaat Oosterse Bibliotheek, 192 blz. voorzien van
+Inleiding (37 blz.), commentaar en afbeeldingen naar
+Hindoeminiaturen en- tekeningen.
+Het Gita-Gowinda-Kawya, Het Lied dat den herder bezingt", het
+Indiese Hooglied, is een der grootste lyries-dramatiese kunstwerken der
+wereldlitteratuur.
+In de Inleiding behandelt de vertaler: De rolverdceling; de mytho
+
+logie ; de erotische symboliek ; de interpretatie als allegorie door Sir. W.
+Jones en Christian Lassen; Dramatiek en Lyriek; Legen&lt;de en historie
+rondom de figuur van Djajadêwa.
+Ing. f 2.90 geb. f 3,90
+
+
+Bij den Boekhandel en
+
+bij Uitgeverij C, A* MEES, Santpoort
+VANRIJN'S
+KMOSTÉRD
+DING
+KINDEREN
+is niet voltooid, wanneer U
+hen niet in de gelegenheid
+hebt gesteld zélf te leeren
+musiceeren. Wanneer Uw
+kind reeds jong Piano leert
+spelen; zal het zijn gelieele
+verdere leven daarvan de
+vruchten plukken. Natuurlijk
+moet U in Uw keuze van een
+piano uiterst voorzichtig zijn,
+want de aanschaffing is een
+zaak van vertrouwen.
+Onze bijna 40 jarige repu
+
+tatie is voor U garantie.
+Vraagt daarom onzen cata
+
+logus No. 57 eens aan die U
+zal vertellen, hoe U, op de
+voor U meest aantrekkelijke
+wijze eigenaar van een werke
+
+lijk goede piano kunt worden.
+Til
+JU
+ZOO JUIST VERSCHENEN:
+I.VAN GELDEREN en
+J. H. VAN BECKUM
+DUITSCH WOORDENBOEK
+TWEEDE DEEL
+NEDERLANDSCH-DU1TSCH
+ZEVENDE, VEEL VERBETERDE EN VERMEERDERDE DRUK
+PRIJS, GEBONDEN.	f 3,75
+BIJ DEN BOEKHANDEL IN VOORRAAD
+UITGAVE VAN
+J. B. WOLTERS GRONINGEN,
+DEN HA AG, BATAVI A
+
+</text>
+<image timestamp="2002:09:21:18:50:30.00" size="167255">D2005DN.TIF</image>
+</page>
+</document>

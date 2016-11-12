@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261127</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+lE:AtórERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2582
+J. D. STRUIJS 6 Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in:
+
+WIT LACQUE MEUBELEN
+VOOR SLAAP-, LOGEER- EN KINDERKAMER
+VERWEEEEN «, KHK
+eis
+, «MSTEROftM
+. K8LVERSTR. 86/90
+N. TEL.37283
+BJASPlBONWa:
+BOB^BBSDER
+KBRKSTRAAT55
+AMSTB^AM
+BEGRAFENISVEREENIGING
+
+N. SAX }r.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+
+EIGEN LIJKKOETSAUTOMOBIELEN
+ADRIAAN SCHAKEL l
+HEILIGEWEG 15-17 |
+AMSTERDAM |
+
+Overhemden naar maat I
+Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar 1:
+
+N. R. V. MONTA SCHOENEN f
+
+ttaimrnmmummiimiiiiiiiiiiiiiiiiiiiiiimiiiiiimiiiiiiiiiiimiiiiiiiiniiiiiinim
+
+
+Wed JOHN GAY'S PICCALILLI
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+W. HL POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg W - AMSTERDAM - Tel. «662
+MARMERWERKEN
+-S c
+(A Q&gt;
+n -a
+
+h
+o ~
+o "3
+&gt;
+H
+li
+v bA
+&gt; ~z
+ONS ALLERNIEUWSTE FABRIKAAT
+. &lt;
+ers 2
+5
+B*t 2.
+l"
+i»
+
+.MULLER &amp; C2 DEVENTER
+Hoogfijne Havana-Sigaren in luxe
+kistjes van 20 stuks a 10,12,15 en 20 cent
+S" g
+n, 3
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+FIRMA J. G. MEIJER
+
+2 Marktcn ' GRONINGEN - Opgericht 1706
+
+SPECIALITEIT IN
+ECHTE GRONINGER KOEK
+
+van f l»—» f 1.50, f2.—f2.50» f3.—enz.
+Franco per post 50 Cents verhooging
+
+</text>
+<image timestamp="2002:09:26:10:02:48.00" size="169111">D1000851.TIF</image>
+</page>
+</document>

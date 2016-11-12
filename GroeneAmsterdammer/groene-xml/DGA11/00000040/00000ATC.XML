@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321217</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 17 December 1932
+No. 2898
+n
+Een polls der
+LEVENSVERZEKERING
+Mg. ARNHEM"
+Is een waarborg voor het welzijn van Uw gezin.
+N.V. Residentie Hypotheekbank
+'s-GRAVENHAGE Anna Paulownastraat 97
+TRUSTEE'S EN ACCOUNTANTSCONTROLE.
+
+Hypotheekbtieven in circulatie ƒ 16.970.000.—.
+
+5 pCt. Hypotheekbrieven tegen 100'h pCt.
+Directie: K. E. ABBING. D. VAN OORDT.
+Zie den bon op pagina 4
+van het omslag
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China, Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+Hl DE HUILEMSCHE
+HYPOTHEEKBANK
+Leden der directie: ^ü^i^ Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. THIERRY DE BYE DOLLEMAN
+Pandbrieven f 40.583.700.
+Reserves . . f 979.170.
+Hypotheken f 41.152.862.
+Hoe was de stemming tóén ook weer?
+geanimeerd
+n tf-^™ n
+• weife lend •
+vast
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie •
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+lusteloos •
+U wilt het weten of wellicht Uw cliënt?
+Stel U dan in het bezit van de
+Tabei der Laagste en Hoogste
+
+Koersen 1932
+die, zooa!s steeds, prompt op
+Oudejaarsdag verschijnt en wordt uitgegeven door het|
+
+AMSTERDAMSCH EFFECTENBLAD
+Het boekje bevat de laagste en hoogste koersen
+over de laatste 11 kalenderjaren, waarvan 1932 ooki
+met maandetijksche opgaven, de uitgekeerde divi
+
+denden over de afgeloopen 10 jaren, de verval
+
+dagen der coupons en de grootte der stukken.
+
+DE PRIJS? f 1.60 per exemplaar franco per post. Bij minstens
+i 10 exemplaren belangrijke reductie.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 5°/0 schuldbrieven»
+in stukken van f 1000.—, f 500.
+en f 100.—tegen Beurskoers.
+Insulaire Hypotheekbank
+te ZIERIKZEE.
+Uitgifte van
+Pandbrieven a 100%
+Zend mij:
+
+
+
+Naam :
+
+Adres :
+Aan de Administratie van het
+AMSTERDAMSCH EFFECTENBLAD
+Postbus 238 - Amsterdam
+
+31 December a.s. _	ex. Tabel 1932
+direct prijsopgaaf voor 10 of meerdere ex. Tabel 1932
+Doorhalen wat niet verlangd wordt.
+AAN
+
+INZENDERS
+
+VAN MANUSCRIPTEN
+
+wordt verzocht bij hun
+bijdragen een gefran
+
+keerd briefomslag met
+adres van den afzender
+in te sluiten.
+
+</text>
+<image timestamp="2002:09:27:15:57:18.00" size="115693">00000ATC.TIF</image>
+</page>
+</document>

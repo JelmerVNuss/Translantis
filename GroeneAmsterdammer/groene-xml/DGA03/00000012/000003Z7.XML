@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18971031</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een deputatie van Mevrouw v. Kol c. s. naar Atjeh.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 31 October 1897.
+
+Amst. Boek- en Steendrukkerij, v/h. Ellertnan, Harm? &amp; Co.
+DE DAMES : &gt;-Och, lieve soldaatjes, laat die arme Toekoe Oemar nu maar met rust,
+er is bloed genoeg vergoten l"
+
+</text>
+<image timestamp="2002:08:22:04:05:35.00" size="259067">000003Z7.TIF</image>
+</page>
+</document>

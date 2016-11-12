@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920110</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Amsterdam en de Buitengemeenten.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 10 Januari 1802
+
+
+k«r&lt;¥^ f, V
+j-*» *M'*^f^
+Amst. Boek- en Steentlrulckerij. v/h. Ellerman, Harms &amp; Co.
+De Amsterdamsche Stedemaagd: Meer betalen, lieve vriendinnen, anders laat ik uw
+kinderen niet binnen."
+
+</text>
+<image timestamp="2002:10:03:13:34:43.00" size="548772">D2007J4.TIF</image>
+</page>
+</document>

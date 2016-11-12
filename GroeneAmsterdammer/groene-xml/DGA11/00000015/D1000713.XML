@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271126</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+AMSl^RÏSAMMER VW 26 NOVEMBER 1927
+No. 2634
+^r
+J. D. STRUIJS &amp; Ziu
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+VOOR EEN MAAND VOOR EEN WEEK-END
+
+VERWEEGEN &amp;. KOK
+AMSTERDAM DEN HAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Booftstraat 38 AMSTERDAM Tetof.: 30941, 34350
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LJJKKOETSAUTOMOBIELEN
+;yjllllllllllllllllllllll!lllllimiinil!lll!llllllllll!ll!lllllll!lllllllllllllllll!lllllll!lim
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers i
+
+B(] ons verkrygbaat =
+N, R. V. MONTA SCHOENEN |
+
+ifiiiimimiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiimiiiiiiiNiiiiiiiiiiiiiiiiiiiiiiiiN
+Wed JOHN GAY'S PICCALILLl
+BLIJFT HET MOSTERDZUUR MET DE FIJNE PIKANTE SMAAK l
+ENGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.v. DE HOUTTUINEN". AMSTERDA|VJ
+HflG BEKOMT K .5 AVONDS UAAT |
+BERNARD HOUTHAKKER
+98 ROKIN - AMSTERDAM
+
+Permanente Tentoonstelling
+
+van Oude Schilderijen
+
+Gravures Etsen Teekeningen
+Koldewey 6 Corbière
+Leidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+man de electrische tram
+Buiten het door Haarlem geannexeerde gebied. Lage belasting.
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Blnnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen te Bloemendaal, lepcnlaan 2 (Telefoon 22504).
+W. R POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M - AMSTERDAM - Tel. «662
+MARMERWERKEN
+Gepatenteerde
+Pakpapier
+rollen Stander R.U.F.
+
+Geheel uit Metaal
+
+Roteereiid grondvlak met kogellager
+Centre-kern met dubbelkogellager
+Beveiligd roteerend mes
+Meetinrichting
+
+NIEUW - STERK - PRACTISCH - ZUINIG
+
+BOLLENHOOGTE 1.—, 1.25 en 1.50 Meter
+Leverbaar uit voorraad
+
+Vraag prijs met prospectus of demonstratie
+bij den Importeur:
+
+Technisch Bur, B. J. COUVÉEJr.
+HUGO DE VRIES PLEIN 2, HEEMSTEDE
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:22:03:37:39.00" size="209551">D1000713.TIF</image>
+</page>
+</document>

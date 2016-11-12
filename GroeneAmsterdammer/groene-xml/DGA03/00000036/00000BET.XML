@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18890616</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een millioen te veel.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 16 Juni 1889.
+v. f'. Ik heb het voor U klaar gespeeld. Eén millioentje en tolvrij is Uw haven.
+AMST. ST. Mijn burgemeester ook een koopman! Geen ridder die mijn recht verdedigt.
+v. T. Pardon Mevrouw, ik was in des -ministers binnenkamer . . . Uw advocaat.
+AMST. ST. Mijn advocaat? Spreek dan in 't openbaar, zoodat het volk U hoore. Ga
+heen, toon U een held, een leeuw als 't moet, mijn burgemeester l
+Vï\$}&lt;*tïkèhsitK
+
+
+_J
+Stoomdrukkerij Ellerman, Harms &amp; Co.
+v. T. Toe, .... teeken. Geen fierheid, die is uit den tijd. Zie, als een veeren pen
+zoo buigzaam en gewillig moet tegenwoordig iemand zijn, die zaken hoopi
+te doen. . . .
+
+AMST. ST. Ah! Ik ben niet als uw ganzenveder, ik voel mijzelve, ofschoon
+verongelijkt.de eerste nog in Nederland, en vraag van't volk mijn recht.
+
+</text>
+<image timestamp="2002:10:03:07:09:20.00" size="442055">00000BET.TIF</image>
+</page>
+</document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340210</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+VOOR ALLEN
+^&gt;.
+BEZOEK 7 OP DE R. A. /.
+DE BEIDE FORD STANDS
+VOOR TOERISME
+
+VOOR ZAKEN
+
+VOOR SPORT
+
+
+FORD won de Coupe de Monte Carlo, de
+toets der rij-kwaliteiten.
+FORD bezette daarbij de Ie, 2e, 3e en 4e
+plaats (de 4e ex aequo).
+FORD behaalde in de Monte Carlo Rallye
+het schitterende resultaat, dat van de
+25 gestarte Fords er 23 geklasseerd
+werden, waarvan 18 zonder strafpunten.
+FORD is de sterkste, betrouwbaarste,
+voordeeligste, fraaiste, meest comfortabele auto.
+Neemt dus voor alle doeleinden de Ford, voor
+toerisme, voor zaken en voor wedstrijden een Ford
+luxe wagen en voor uw bedrijf een Fordson truck.
+N.V. NEDERLANDSCHE FORD AUTOMOBIEL FABRIEK - AMSTERDAM
+
+</text>
+<image timestamp="2002:10:28:06:08:53.00" size="256465">D200AOH.TIF</image>
+</page>
+</document>

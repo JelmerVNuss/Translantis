@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18940812</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSKI, van de Arasterdammer, Weekblad voor Nederland, van 12 Augustus 1894.
+Dichter tegen wil en dank.
+Amsl. Hoek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co.
+Monseigneur HOTTKMANNE (tot J)r. Schacpinan}: »Mijn /.oon, laat die Handelingen rusten en bedenk, dat ge dichter zijt!
+
+</text>
+<image timestamp="2002:09:03:14:07:59.00" size="283982">D1000482.TIF</image>
+</page>
+</document>

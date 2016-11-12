@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910426</Datum>
+<Pagina>8B</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Bijvoegsel van het Weekblad DE AMSTERDAMMER," van Zondsg 26 April 1891.
+Photo-Lithografie HOLBEBT &amp; Co., Amsterdam.
+HET BESTELHUI8 VAN DEN NEDERLANDSOHEN BOEKHANDEL,
+Gevel aan den ontworpen Raadhuisstraat
+
+</text>
+<image timestamp="2002:08:19:03:41:56.00" size="323029">000002W5.TIF</image>
+</page>
+</document>

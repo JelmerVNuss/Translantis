@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010127</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1231
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+BODE (tot Kniger): »U kunt nog onmogelyk
+
+binnengelaten worden. Eerst moet die dame
+
+worden geholpen, zjj wacht al zoo lang..."
+
+(Xaar een ingezonden teekenmg ran
+den Heer Sretichneider).
+Naief en zoet. (Punch).
+Het tweehonderdjarig bestaan van Pruissen.
+
+(Caran d'Ache in den Viqaro).
+fl
+KKIXKI; WII.IIKI.M : &gt;Zie daar dan de gro.uHeggers van onze
+grootheidonze vooronder? !"
+Nog een grap van de Wet. (Le Jïire).
+CHINEESCH AMBTBNAAR : »De kt-iz.-n. irf op 't oogenblik pan huis, maar
+uw rekeningen zullen worden o|^H/.i"'&lt;lDn mijneheeren, en zonder twyfel
+zal H. K. Majesteit die zoo hum ; spoedig mogelyk betalen."
+Lord Kitcheiier, de moderr.e Atlas. (8crap$),
+TN: »Wat een uitmui UM e
+meststott'an voor myn plantages." (Novoje Vremija).
+
+Jobstijdingen, (Jugcnfl).
+\ i i ij n "u1 f-pmlv k \vatn een a rul er en Z"i: 11'1) \ iini'
+en ik n l leen ben outk
+John Buil r T///,-)
+vor dpm Kriele ranh ij
+Das viple Lauten ist ihm nicht bekom 'ii
+Uit China. (Le Cri de Paris).
+\
+Een man viel in banden van ru VB..", dia hem zijn goed ahiamen,
+mishandelden en verwonden en h-tli'unod iieten liggen.
+(Evangelie van Lukas). (Life).
+TOJIJIY: «Uitgang hier! maar dat's de zee..."
+Ouwe jongen, ik geloof at die Engelschen in Transvaal ulscbuwelyke
+dingen doen.
+
+</text>
+<image timestamp="2002:08:15:13:43:06.00" size="383825">D2000S8.TIF</image>
+</page>
+</document>

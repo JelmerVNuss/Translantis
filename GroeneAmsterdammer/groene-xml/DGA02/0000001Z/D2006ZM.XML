@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331125</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+l' i
+i* t
+
+''De Groene Amsterdammer van 26 November 1933
+N o. 2947
+J. D. STRUIJS &amp; Zn.
+Tel. 37906 -Amsterdam - Prinsengr. 837
+Begrafenissen
+(naar verkiezing met auto's en rijtuigen)
+Crematie en Transporten
+van uit alle plaatsen
+N.V. Meubelmagazijn Eden1
+Molsteeg ~~ Amsterdam
+BOEKENKASTEN
+HEERENKLEEDING VOOR
+VADER EN ZOON
+TOT REDELIJKE PRUZEN
+ADRIAAN SCHAKEL
+HEILIGEWEG - TELEFOON 37273
+ADRIAAN SCHAKEL's" Heerenkleeding
+HEILI8EWE8 IN AMSTERDAM
+Is de zaak, waar Zoon en Vader
+Steeds nog komt, en altijd kwam.
+'n Interview met:
+Eén belangrijke factor is voor mij de
+degelijke constructie. En als ik dan
+die bekende Wahl-Oxford vulpen en
+vulpotlood eens op mijn gemak heb
+bekeken, dan is mijn conclusie:
+Een keurig stel, dat er werkelijk veel
+duurder uitziet dan het kost. Werkelijk
+verbluffend hoe voor weinig geld een
+technisch zoo volmaakt product kan
+worden verkocht."
+Deze echte Eversharps kosten slechts:
+r 5.—de vulpen met gouden pen
+t 3.25 het vulpotlood.
+Uw leverancier heeft ze!
+EVERSHARP
+VULPENNEN POTLOODEN
+WAHL-OXFORD SERIE
+tmp. Blikman «r Sarrorius -Amsterdam
+DE KRING"
+Kleine Gartmannplantsoen 7-9, A'dam
+TENTOONSTELLING
+van aquarellen, teekeningen
+en grafische producten
+Dagelijks geopend van l—5 en 7—10 uur.
+Toegang vrij.
+BEGRAFENISVEREENIGING
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+P. C. Hooftstraat 38
+Tel. 2O341 2425O
+BUSSUM (Bijkantoor v/h Gooi)
+Brinklaan 138
+Telefoon 2275
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+
+
+g-W. H. POLMAN TUIN-i
+l OVERTOOM 526 - Telefoon 82660 l
+l Begrafenissen - Transporten - Crematies g
+
+e RECHTSTREEKS VAN PARIJS
+DE LAATSTE NIEUWTJES VAN PARIJS
+ZEER INTERESSANTE BOEKEN "
+ARTISTIEKE ALBUMS
+Catalogus wordt op aanvrage gratis toegezonden
+EDITIONS MARCO, 15bis Av. d'Orleans B.P. 25 PARIS 14e.
+Daar komen ze weer,
+die heerlijke chocolade-letters van Droste. De
+chocolade-letters, die altijd het eerst in den
+winkel uitverkocht" zijn. Weest er tijdig bij
+dit jaat!
+ALTIJD WELKOM!
+Spaart plaatjes ooor het album ,,BaÜ".
+
+</text>
+<image timestamp="2002:09:27:03:28:55.00" size="221179">D2006ZM.TIF</image>
+</page>
+</document>

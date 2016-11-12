@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950526</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+No. 935
+Fabriek aan den Haarlemmerweg. 3B .
+ZUIVERINGSIIU1S.
+HYDRAULISCH!-: .AAD.MAl lILN'i:
+HYDRAULISCHE TKEKMACUINE.
+een gezamenlijk productie-vermogen van tenminste 35 millioen kub. meter
+gas. Aan die verplichting werd volkomen voldaan. De eerste fabriek verrees
+aan den Haarlemmerweg tusschen de trekvaart en de baan van de
+Hollandsche Ijzeren Spoorweg, en beslaat een oppervlakte van 14Vg Hectare. De
+tweede ligt aan de ringvaart der Watergraafsmeer en de Linnaeusstraat en
+beslaat een oppervlakte van 8Vs Hectare. Beide terreinen zijn gemakkelijk
+te water en per spoor te bereiken.
+In hoofdzaak zullen we ons bepalen bij de beschrijving van de fabriek
+aan den Haarlemmerweg.
+Het was den Ssten Augustus 1883 dat de eerste paal voor de fabriek aan
+den Haarlemmerweg in den grond werd geslagen.
+Dit feit is wel in een paar regels neergeschreven, maar men moet in het
+oog houden dat de bouwheer, de heer J. Gosschalk, die voor het archi
+
+tectonische gedeelte de plannen had ontworpen en volgens deskundigen een
+der beste en fraaiste gasfabrieken van Europa heeft gebouwd, met zeer groote
+moeilijkheden te kampen had. Eerst moest het uitgestrekte terrein, dat 1,3
+onder A.P. lag, gebracht worden op l meter boven A.P. en de paal welke
+wij zooeven noemden was de eerste van 29,529 palen van tien tot dertien
+meters, die met elkander 40,200 kub. meters metselwerk en vier millioen vijf
+honderd duizend kilogrammen ijzer moesten dragen en dat met een ondergrond,
+die aan bouwkundigen reeds vaak leelijke parten had geleverd. Toch was de
+bouw in zeventien maanden gereed en beantwoordde deze volkomen aan het doel.
+Zooals wij boven opmerkten is de steenkool de moeder van het gas. Deze
+wordt per spoor aangevoerd en daartoe heeft de fabriek een aansluiting aan
+de baan van de H. IJ. S. M. Een ijzeren viaduct brengt de kolenwagens op de
+eerste verdieping der retortenhuizen en langs een zijtak naar loodsen, waarin de
+reserve-voorraad wordt opgeslagen, daar art. 13 der concessie voorschrijft, dat ten
+allen tijde een voorraad grondstoffen voor de gasbereiding aanwezig moet zijn,
+voldoende voor het verbruik gedurende ten minste de volgende dertig dagen.
+In de retortenhuizen loopt de weg voor den kolenaanvoer over den vloer der
+verdieping, langs welker eenen wand de ovens zijn gemetseld. De kolen worden
+gelost aan de tegenovergestelde zijde en liggen dan onder het bereik der stokers.
+In die stokerijen zijn geheele batterijen van retorten opgesteld.
+Aanvankelijk bediende men zich bij het vervaardigen van gas van recht
+
+standige ijzeren cylinders, die van alle kanten door vuren omgeven waren
+Later werd er verbetering aangebracht. De retorten werden horizontaal ge
+
+plaatst, eerst alleen aan de benedenzijde verwarmd, maar later toen de gene
+
+rator-oven werd uitgevonden, welke o.a. in de fabriek aan de Linnaeusstraat
+in gebruik is, geschiedde de verwarming op een wijze, die n uit een oogpunt
+van oeconomie n het verkrijgen van de grootste hoeveelheid gas, de beste
+resultaten opleverde.
+In de fabriek aan den Haarlemmerweg worden de retorten nog ontladen
+en geladen uit de hand, maar in de fabriek aan de Linnaeusstraat zijn de
+trek- en laadmachine van Foulis in gebruik. Die trekmachine bestaat in
+hoofdzaak uit een raamwerk, waaraan twee hydraulische cylinders zijn ver
+
+bonden, die een slede voor- en achterwaarts doen werken. Aan deze slede
+zit vast een stang met trekjjzer. Daar de retorten boven elkander liggen,
+kan het raam dalen en rijzen, hetgeen evenzeer door een hydraulischen
+cylinder geschiedt. De werking geschiedt zeer regelmatig. Het verbruikte
+drukwater vloeit ter afkoeling op het trekijzer en dient ook gedeeltelijk
+tot blussching der cokes. De machine kan door n man worden bediend. Zij
+loopt over rails en wordt evenzeer door een hydraulischen motor voortbewogen.
+De laadmachine bevat een vergaarbak voor de kolen aan het einde, waar
+
+van de inhoud door een opening valt op een kort gebogen stuk plaatijzer,
+geplaatst tusschen den stopper, het duwijzer, en het retortmondstuk. De
+stopper schuift de lading in gedeelten langs den bodem der retort op haar
+plaats en de hoeveelheid kolen, die de stopper voortstuwt, wordt geregeld
+door een trommel, welke door radiale bladen in zooveel afdeelingen verdeeld
+is, als de vooraf bepaalde hoeveelheden vereischen. De trommel draait met
+eiken slag, dien de machine maakt. De overbrenging der beweging geschiedt
+door staalkoord, dat orn een blokschijf aan horizontale hydraulische pistons
+langs de geleiders loopt. De retort wordt geladen in 6 of 8 slagen der
+machine. Een grootere verticale hydraulische cijlinder met piston beweegt
+het geheele laadraam op en neer, naar gelang van de hoogte der ligging
+van de retorten. Een hydraulische hijschkraan transporteert de kolen van
+de langs de ovens liggende hoopen kolen, in de met die grondstof gevulde
+bak, welke zich weder in de vergaarbakken ontlast. Zulk een machine wordt
+door drie werklieden bediend. Zoodra nu de trekmachine haar werking gedaan
+en de gloeiende cokes uit de retorten heeft gehaald, volgt de laadmachine die
+langs dezelfde rails alsmede door een hydraulischen motor wordt voortbewogen.
+Deze machines zijn kinderen van de laatste jaren, maar in de fabriek
+aan den Haarlemmerweg gebruikt men nog voor de ontlading den trekstang,
+terwijl de vulling der retorten geschiedt door zoogenaamde laden, lange smalle
+ijzeren bakken, waardoor de vulling op eenmaal geschieden kan, zoodat men
+het deksel van de retort met het minst mogelijke tijdverlies weer kan sluiten.
+Het is een ontzagwekkend gezicht zulk een stokerij, wanneer de lading
+geschiedt. Uit de retorten springen, wanneer de deksels geopend worden,
+knallende vlammen. Twee mannen dragen op een stang de lade die van
+achter met een zich daaraan bevindenden stang met handvat gestuurd wordt
+door een derden man. Snel wordt de lade, die ongeveer even lang is als de
+retort, in de vlammen spuwende opening geschoven, door een derden man
+met n slag omgekeerd en teruggetrokken, waarna dadelijk het deksel wordt
+gesloten. De groote snelheid en zekerheid waarmee deze mannen hun zwaren
+arbeid verrichten is bewonderingswaard.
+De stokerijen in de fabriek aan den Haarlemmerweg zijn twee in getal
+No. l is lang 90.45 en breed 34 30 meter. No. 2 is lang 88.83 meter en
+even breed. Zij hadden ieder een ruimte tot het plaatsen van 40 ovens, elk
+met zeven steenen retorten; later zijn er generatorovens met negen retorten
+bijgekomen. Deze zijn van den vorm, eigenaardig aan de Imperia!, namelijk,
+vierkant met afgeronden hoeken. De mondstukken zijn voorzien van
+zelfafsluitende deksels. In de fabriek aan de Linnaeusstraat heeft men generator
+
+ovens met negen retorten en ook gewone roosterovens met zeven retorten.
+Beide stokerijen hebben stookvloeren, waarbij de uit de retorten getrokken
+gloeiende cokes, door voor deze zich bevindende openingen, die, wanneer er
+niet getrokken wordt, met deksels zijn afgedekt, in de blusscherij vallen,
+welke zich gelijkvloers bevindt. Na daar gebluscht te zijn, worden de cokes door
+een tramspoor, die over het geheele terrein loopt, naar de cokes-oplagen
+vervoerd, of naar het water, om in schuiten geladen te worden.
+Het ruwe gas, dat zich in elke retort ontwikkelt, stijgt nu door een stand
+
+pijp omhoog naar een horizontaal liggende ijzeren cylinder die boven langs
+de ovens loopt. De standpijpen, die hierin uitmonden, hebben aan het boven
+
+einde zwanenhalzen, daar hun uitmondingen gelegen zijn onder de oppervlakte
+van het water, waarmede die ijzeren cylinder gedeeltelijk gevuld is. De
+afkoeling, die nu het gas ondergaat, doet het distillatie-product, de teer, zich
+
+</text>
+<image timestamp="2002:08:20:15:26:04.00" size="330050">000003CG.TIF</image>
+</page>
+</document>

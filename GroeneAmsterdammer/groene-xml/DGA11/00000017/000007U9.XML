@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300125</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2747
+DE GROENE AMSTERDAMMER VAN 25 JANUARI 1930
+Wetenschappelijke Varia
+
+Van Angström-eenheid
+tot kilo-parsec
+door Dr. P. van Olst
+MEN geeft geen menschenleeftijd op in
+seconden, geen fietstocht in centimeters, geen
+staatsschuldenlast in centen, geen olifantsgewicht
+in grammen. Als men meten of wegen moet (en ons
+leven bestaat hoofdzakelijk uit deze bezigheden)
+dan kiest men als eenheid een maat, die van dezelfde
+grootte-orde" is als het te meten of te wegen
+voorwerp, wat tot resultaat heeft dat men getallen
+krijgt die voorstelbaar zijn of die men tenminste zich
+verbeeldt zich te kunnen voorstellen. Want onder
+ons gezegd en gezwegen: wat een milliard of zelfs
+een millioen precies voorstelt, daarvan geven de
+meeste menschen zich geen rekenschap. Aan den
+eenen kant is dit gelukkig, want als de ministers
+en wethouders van finantiën een juiste voorstelling
+hadden van hetgeen een millioen eigenlijk is,
+traden zij uit schrik allen onmiddellijk af. En dan
+zaten wij zelf met de moeilijkheden. Maar om niet te
+ver af te dwalen: een menschenleeftijd in jaren
+gemeten geeft een voorstelbaar getal, en eveneens
+de fietstocht in kilometers, de staatsschuld in
+millioenen of milliarden, de olifant in kilogrammen
+of in tonnen.
+Geen onderwerp geeft dan ook zoo'n goeden kijk
+op de enorme uitgebreidheid der onderwerpen,
+waarmee de natuurwetenschappen zich bezig
+houden, dan de maat-eenheden, die bij het onder
+
+zoek gebruikt woiden. Het is reeds voldoende als
+men alleen de aandacht vestigt op de
+lengte-eenheden. De uitersten hiervan speciaal zal ik even
+behandelen.
+De lengte-énheid par excellence is de meter,
+de officieele standaardmaat. De millimeter is een
+eenheid die in het dagelijksch leven ruimschoots
+voldoet aan de eisen van een practische kleine
+maat. In de wetenschappelijke wereld echter
+vond men de millimeter reeds spoedig te groot
+en werkte dikwijls met zoo kleine voorwerpen dat
+het gewenscht werd de mikron als eenheid te ge
+
+bruiken (een duizendste van een mm). Ook deze
+maat was nog te groot in veel gevallen, zoodat men
+een mikromlkron gebruikt als eenheid, dus een
+millioenste millimeter. En eindelijk deed men nog
+een stap verder en gebruikte een tien maal kleiner
+eenheid en noemde deze naar den Zweedschen
+physicus en astronoom Angström-eenheid. Deze
+is dus een tien-millioenste millimeter. Dat deze
+eenheid niets te klein is blijkt wel als men hoort
+dat de lengte der aethergolfjes, die voor onze zin
+
+tuigen lichteffect veroorzaken, varieert van onge
+
+veer 8000 Angström-eenheden tot 4000 dezer een
+
+heden, dus bedragen die reeds aardig de grenzen
+van ons voorstellingsvermogen naderen en mis
+
+schien eerder een kleinere dan een grootere eenheid
+zouden vereischen. De allerkleinste aethergolfjes,
+die men kent, nml. de zeer doordringende
+gammastralen van radium hebben een lengte, die kleiner
+is dan een twintigste Angström-eenheid. Behoefte
+aan nog kleiner eenheden heeft men dus weliswaar
+voorloopig niet, maar ondenkbaar is het niet dat
+men spoedig toekomt aan de wenschelijkheid om
+milli-Angström-eenheden te gebruiken als
+lengtenheid.
+Nu naar het andere uiterste !
+Voor aardsche afstanden wordt de meter spoedig
+een te kleine eenheid, zoodat men met kilo
+
+meters, geografische mijlen, breedtegraden, enz.
+gaat werken. Maar buiten de aarde voelt men
+de behoefte [aan grootere eenheden spoedig
+sterker; het zegt ons weinig meea dat de
+maan 384.000 kilonieter van ons af staat.
+Beter kan men zich hiervan een voorstelling
+maken als men zegt: de maan staat zestig
+aardstralen van ons af, waarbij dus de
+halve-aardmiddellijn als eenheid gebruikt wordt. Maar
+een bedrag van 23000 aardstralen (de afstand
+van aarde tot zon) dreigt reeds weer een onvoor
+
+stelbaar getal te worden. Voor grootere afstanden
+gebruikt men dan ook deze afstand aarde tot
+zon" als lengte-énheid. Zoodra men echter het
+planetenstelsel verlaat en de wereldruimte in reist,
+heeft men met zulke enorme afstanden te maken
+dat deze eenheid afstand aarde tot zon" ook weer
+even ontoepasselijk wordt als de centeneenheid
+DE POKON-COMBODJA
+Teekening door J. G. Sinia
+De pokon-Co»ibodja de Combodjaboom steel;!, in zijn bizarre naaktheid,
+i/riUif/ af ir.yeii de dichte en met een u-ccldc ritu yroctt prijkende boomen en
+heesters der tropen. De Inhinder plant dezen boo.ui bij voorkeur op de plaatx.
+ie aar hij zijne dooden te ruste U&lt;jt.
+bij de staatsschuldenlast of de centimeter bij tle
+fietstocht. Men weet wel (lat in de sterrenwereld
+gegrepen is naar een bijzonde.ro lange maatstok,
+en dat men de hier veel gebruikte eenheid een
+lichtjaar" noemt, wat dus niet een tijdseenheid is,
+zooals de naam zou doen vermoeden, maar een
+Zpjii/fe-eenheid. liet is. zooals men weet. de afstand
+die het licht in n jaar doorloopt, iedere seconde
+een weg van 300.000 kilometer afleggend. Dit
+aantal kilometers kan rueii zich niet voorstel
+
+len; een lichtjaar eigenlijk ook niet. maar hot is
+tenminste een maat. waarmee men voorstelbare
+getallen krijgt. Dat de zon .slechts acht en een denli;
+,,lichtminnut" van ons at' staat en de naasthij/jjneic.
+ster (v. Centaur!) ruim vier lichtjaren, geeft ons
+tenminste u-enige, indruk der verhoudingen.
+liet lichtjaar beviel niet alle astronomen als
+voldoend groote eenheid eu men werkt reeds
+geruimen tijd met /j«/-.srt.--, weer een grootere
+lengteeenheid. Doordat wij in een jaar een reusachtige
+kring om de zon beschrijven, zien wij de sterren tel
+
+kens uit een ander punt in de wereldruimte. Het
+resultaat is dat een ster ieder jaar een klein krin
+
+getje aan den hemel schijnt te beschrijven, dat
+kleiner of grooter is naar gelang de ster verder
+weg ot' relatief dichter bij staat. De middellij u van
+dit kringetje heet de i&gt;umü&lt;ixe van de ster. Door
+deze parallaxe te meten kan men den afstand van
+de ster schatten en iu enkele getallen is dit gelukt.
+Wanneer nu een sier zoover weg staat, dat /.ij
+een parallaxe heeft \ au een boog'secoiide, dan
+staat zij op een afstand van n parsec (liet woord
+is gevormd uit ywrrallaxe-wtconde, zooals rnen ziet).
+Een parsec, ook wel een ..sterreaf stand'1 genoemd
+komt overeen met drie en een kwart lichtjaar.
+Hoe klein • •• n boogje van een seconde aan den
+hemel i&gt;, kan men zich eeiiigermate voor
+
+stellen als men weet dat een cirkel IJOUjgraden,
+iedere; graad 00 minuten, iedere minuut 00 sec.
+heeft, zoodat op een wijzerplaat van een torenklok
+mei, 4 m. rniddellijn een boogsecoride slechts een
+honderdste m.m. zou zijn, en op ons aardoppervlak
+i-en boog'secoiido van de reusachtige aardorntrek
+toch nog maar ol m. is. Als de verkeersagent bij
+hel- Loidschi-plein een speld omhoog houdt, ziet U
+uit «ie l.eidscliestraat bij de II eerengracht dczo
+speld ongeveer een boogsecotide van den hemel
+bedekken ! (als l' de speld nog ziet. !)
+l )&lt;!/.&lt;; parsec, dit; dus een enorme afstand
+ver1 egeüwoomigt is reeds onttroond als grootste
+leiigtü-oeiuicid door een nog grootere, want de
+latere onderzoekingen hebben iti do sterrenwereld
+zulke ontzettende afstanden doen kennen, dat de
+parsec een te belachelijk kleine maateenheid is
+geworden. .Men heeft dus reeds gegrepen naar de
+/,'ilo/idrxi •• •. oen duizend maal grootere eenheid.
+Voorloopig is liet daarmee uit. Onze aandacht
+houdt zich bezig met alles wat tusseheii Angstr
+meenheden en kiloparsecs in ligt.
+SCHAKEL
+HBLIGEAVEG 11-17" A^MSTEQDAM
+Kleermaker^
+Bij ons verkrijgbaar N. R. V. MONTA SCHOENEN
+
+</text>
+<image timestamp="2002:09:20:22:25:49.00" size="304701">000007U9.TIF</image>
+</page>
+</document>

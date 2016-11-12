@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270115</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+;
+:
+ie
+iroene i^sfcerdo^^
+feekbladvoor Nederland
+Min«»« m*mtwftH* per jwur f 10.—, Ptr «uuur 24 eeat
+A4v«&gt;t«ati Ia ƒ0.73 p«r regel
+KEIZERSGRACHT 333
+AM STERDAM
+TFLEFOON •
+1EL*,1«UOIN .
+Adralni.trlltle ...... 3790
+VRAAGT
+VAN
+
+eUSTEIIElI'S
+
+ADVOCAAT
+A.VAN BIJSTERVELD
+AMSTERDAM
+EX P O R T
+Het meest betrouwbare merk voor
+de verzorging, bescherming en 't be
+
+houd der tanden (tandglazuur) is
+Deze wordt dan ook reeds gedurende
+32 jaar gevraagd en met groot
+succes door het publiek gebruikt.
+Frbsche pepeitmmtemaak.
+A. •&amp;-.. ZU.RCHER
+CAKföNNAGEFAB^IBKenDRUKKERIJ
+Meabelea
+eigen ontwerpen of MAT &lt;KK!«
+
+•ARNO.LD HOUT5CÏIILT
+Singel 285 Amsterdaa
+STORM
+STORM
+WEEST OP UW HOEDE!
+VERZEKER U EER HET
+^^^S TE LAAT IS!
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM ~ LEEUWARDEN.
+. V.
+MOLSTEEG-AMSTERDAM
+BOEKENKASTEN
+CLASIE; CASPERS 6 Co.
+Behanger^J - Ameublementen - Stoffeerder^
+Moderne Landhuisstoffen en
+Oud-Hollandschc Meubelen
+VIJZELGRACHT 13, Telefoon 37354
+T»T
+PROJECTIE LANTAARNS
+EIM BIOSCOPEN
+
+CAPI
+
+4MSTER04N DEN HAAG
+115 KALVERSTR- 124 NOORDE1NDE
+NIJMEGEN GRONINGEN
+l3-»«BERCM£Kïm. 3 KL PELSTCR
+TBKARELI
+N.V.
+H.A.KLOOSTERHUI5
+AMSTERDAM
+SNELBLUSSCHEF
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM
+VOLDOET AAN DE EISGHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMI]
+SPANJAARD 6 Co,
+FABRIEK ESPAN.
+UTRECHT
+|TIMTUR|
+KINDER
+iCHOENENI
+pfoeJe
+neem f eens
+onderstaande
+I
+CACAO
+ERDAM-HOLl*1
+ndien ge Uw'kinderen een thermosflesch
+met Bensdorp's. chocolade mede naar
+school geeft, zult ge tot de volgende er
+
+varing komen.
+Zij blijven door en door verwarmd, steeds
+opgewekt. De werklust wordt intensiever.
+het gestel krachtiger. Neemt deze proef j- -3
+met Bensdorp's Cacao Goud'merk" en v *
+controleert 4 weken. U zult versteld staan &gt;'
+ovfr de resultaten van slechts n maand
+en dus voortgaan.
+
+</text>
+<image timestamp="2002:09:20:21:10:01.00" size="175386">D100064M.TIF</image>
+</page>
+</document>

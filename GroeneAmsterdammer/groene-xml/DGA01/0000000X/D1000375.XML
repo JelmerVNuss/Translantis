@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200529</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+29 Mei '20. No. 2240
+ZOMER IN ZWITSERLAND
+Inlichtingen omtrent de Spoorwegverbindingen, Reizen in ZWITSERLAND,
+Uitstapjes, Spoorbiljetten, Kuurplaatsen, Hotels en Pensions, Sport,
+Inrichtingen voor Opvoeding en Onderwijs, Bezienswaardigheden, enz.
+_—verstrekt:
+
+de SCHWEIZERISCHE VERKEHRSZENTRALE", ZUERICH, Löwenstrasse
+en haar BIJKANTOOR in LAUSANNE, Place St Francois 6
+
+^—evenals hare vertegenwoordigers in HOLLAND ^
+
+het Internationaal Verkeersbureau - Amsterdam - Raadhuisstraat 2
+55
+en Lindemann's Reisbureau - Den Haag - Plaats 10.
+Directe Vertegenwoordiging voor Noord-Holland
+
+U. Uemsche WO-Centrale
+Stationsplein - Haarlem
+2e Hands Piano s
+Ruime keuze. Billijke prijzen.
+Uitsluitend contant,
+W. SLIKKER, Pianohandel
+Amsterdam - Overtoom 279
+PERMANENTE TENTOONSTELLING
+
+SCHILDERIJEN
+
+Kunstzaal A. J. J. DE WINTER
+Wittevrouwensingel 27, UTRECHT
+Geopend van 10-12 en 2-5 uur -—Ooit Zon- in Feestdagen
+m
+m
+m
+J. F. PETERS WEIJTENS
+LANGE POTEN 35
+'s-GRAVENH AGE
+ONTVANGEN DE NIEUWSTE MODELLEN
+RUIME KEUZE SALONSCHOENTJES
+THEESERVIEZEN
+PRESENTEERBLADEN
+HOLLAHDSGH FABRIKAAT
+Kunsthandel L. van Zanten
+Zeevischmarkt 8 Rotterdam
+Moderne Schilderijen
+der
+HAAGSCHE SCHOOL
+Dagelijks (behalve Zondags) geopend van 10
+MINERVA - AUSTRO-DAIMLER -MAXWELL
+Chassis Automobielen en
+
+0. M. C." en MAXWELL1' Vrachtauto's
+
+CAILLE" Buitenboord-Motoren
+BLÉRIOT- MOTOR-RIJWIELEN, met en zonder Zijspanwagen
+
+Prospect! on Inlichtingen op aanvrage,
+AUTOMOBIEL EXPLOITATIE MAATSCHAPPIJ
+onder Directie der
+AHSTERDAHSCHE RIJTUIG J1AATSCHAPP1J
+OVERTOOM 399 • AMSTERDAM - TELEFOON 1901 N.
+BEOEFENT U DE MUZIEK?
+Dan kent U ook zeker de
+
+Firma J. A. H. WAGENAAR
+_ MUZIEK- EN PIANOHANDEL
+OUDEGRACHT 107-109 UTRECHT
+Ier Drrlra BODEGA-RICHE Orchestre - Attractions
+UI UI C BAR-AMÉRICA N OrchesirR-Trijxanfi
+BAR-AMERICA N Orchestre-Tzigane
+GISPEN
+,
+ROTTERDAM
+VDOBHAVCN IO!
+liemsclioenen
+voorradig In
+Zwart Glac
+Zwart Lak
+Zwart Satin
+Zwart en Grijs
+Suéde
+N, V. TECHNISCH BUREAU
+voorhcL-ii
+
+
+SCHADD &amp; C°.
+
+Azn sterdam Utrecht
+KEIZERSGRACHT 322 NIEUWE GRACHT 4
+Tel. Noord 8197 en 4532 Tel. No. 3335
+Vertegenwoordigers voor Nederland en Koloniën der l
+C. LOKENZ A.O. BEBL1N-TEMPELHOP
+Fabriek van toestellen voor Telefonie, Telegrafie, Spoorweg-j
+t signalen, Seininrichtingcn, Pneumatische post,
+Telefoonboei- en Lichtseininstallaties.
+Elektriska Aktiebolaget CHHISTIAN BEBG1L&amp; Co-|
+Malmö, Zweden.
+| Fabr. v. Transfurmatoren, Electrische Machines en Apparaten-1
+(voor hoog- e 11 laagspanning, Schakelkasten, Installatiemateriaal.
+j S ven &amp; Hugo Malmströms Jletallfauii'abriks Eftr.|
+Malmö, Zweden.
+Fabr. v. Electrische Verlichtingsornamenten en Massa-artikelen, l
+Korte levertijden UillijUe P» ijzen [
+JOSEF VEDRAL
+Gedipl. Bohsemsch Vioolmaker.
+Groote collectie zeer
+mooie oude meester
+
+instrumenten voorhanden.
+
+Agentschap der firma
+Hill and Sons Londen.
+Eenigste, oudste adres voor de
+echte Italiaansche Viool- en
+Cello snaren.
+Franco verzending door geheel
+Nederland en Indic.
+Stoomwasscdeni Het/uiden"
+PIETER AERTSZSTRAAT 68-74
+TELEFOON 2365 ZUID
+is UW ADRES voor het behan
+
+delen uwer wasch, zoowel droog
+toegeslagen als opgemaakt.
+Concurreerenda prijzen en spoedige
+aflevering. Vraagt prijsopgave.
+Aanbevelend NEIDI8 &amp; VAN ELVEN
+DE AMSTERDAMMER
+
+Weekblad voor Nederland
+
+kost slechts f 6.25 per half jaar
+OOSTERBEEK
+MEUBILEERINGEN
+MODEL1U\MER5 VOOR BELANG
+STELLENDEN TER BEZICHTIGING
+V
+WINKEL=
+MICROSCOPEN
+
+</text>
+<image timestamp="2002:08:24:12:06:37.00" size="254325">D1000375.TIF</image>
+</page>
+</document>

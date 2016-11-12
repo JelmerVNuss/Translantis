@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320528</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 28 Mei 1932
+N o. 2869
+y n
+*&amp;
+f v.t
+m:
+Ni Maatschappij voor Hypothecair Wiet in Nederland
+gevestigd te 's-Gravenhage, Nassaulaan No. 23
+waarin opgenomen de Maastrichtsche Hypotheekbank voor
+Nederland te Maastricht, St. Servaasklooster 8
+Bijkantoren: Amsterdam, Westermarkt No. 2
+Utrecht, Boothstraat No. 15
+Groningen, Turfsingel No. 9
+De D i reet ie
+Nederlandsche
+
+Handel-Maatschappij, N.V.
+AMSTERDAM.
+AGENTSCHAPPEN te ROTTERDAM en 's-GRAVENHAGE
+Vestigingen in Nederlandsch-lndië, Straits-Settlements,
+Britsch-lndië, China Japan en Arabi
+ALLE BANKZAKEN
+SAFE DEPOSIT. - KOFFERKLUIS.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden, tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 6% schuldbrieven
+in stukken van f 1000.—,f600.
+en f 100.—tegen Beurskoers.
+N.V. STANDAARD
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+, Mr. H. H. C. CASTEND1JK m
+I. MOSSELMAN
+Dt Bonk geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+5% Pandbr. tegen beurskoers uit.
+ADVERTEERT
+
+IN DE GROENE
+
+Dat is een zin dien ge dikwijls leest.
+WAAROM?
+
+Omdat DE GROENE m het
+geheele land gelezen -wordt
+door liet beste publiek - door
+het publiek dat iets te besteden
+heeft. De adverteerder behoeft
+niet te betalen voor een ver
+
+spreiding, waarmee hij honderd
+
+duizenden bereikt, die juist niet
+tot het koopkrachtige publiek
+behooren, maar het betaalt
+hem om in dit blad te ad ver
+
+teeren, dat hem direct in
+contact brengt met het publiek
+dat hij zoekt.
+N.V. VERZEKERING-MAATSCHAPPIJ
+
+MERCURIUS"
+OPGERICHT Au 1894 Illlilllllllll
+AMSTERDAM, C. - KEIZERSGRACHT[570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+U hebt een tandarts noodig
+om U te genezen
+van pijnlijk of ontstoken tandvleesch,
+van aandoeningen aan tanden of kie
+
+zen. Vertrouw voor dergelijke gevallen
+nooit op de zoogenaamde heelende
+kracht van welke tandpasta dan ook!
+Want tandpasta is geen geneesmiddel!
+Tandpasta kan nooit mér voor U doen
+dan alleen Uw gebit absoluut rein hou
+
+den, zoodat de mogelijkheid op
+tandbederf wordt teruggebracht tot het
+allergeringste.
+In dit opzicht is Colgate's Tandpasta
+nimmer overtroffen. Haar diep door
+
+dringend schuim houdt Uw gebit
+grondig rein; het verwijdert zelfs de
+kleinste voedselresten, die een haard
+kunnen zijn voor langdurige pijnlijke
+tandziekten.
+Verwacht van Colgate's nooit mér dan
+wij U toezeggen, en bedenkt, dat wat
+men ook moge beweren, geen enkele
+tandpasta mér voor U kan doen dan
+Colgate!
+COt-OATE'S
+TANDPASTA
+Groote tube 70 cent
+ICCEPED
+AMERICAN
+\ENTAL /
+SSOC1A&gt;
+lint.
+m
+H-32-60AB
+
+</text>
+<image timestamp="2002:09:27:00:16:37.00" size="169779">00000AA0.TIF</image>
+</page>
+</document>

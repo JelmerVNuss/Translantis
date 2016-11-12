@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270611</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+voor Nederland
+KEIZERSGRACHT 333
+
+AMSTERDAM
+TELEFOON:
+-1
+**•
+COELINGHS
+fimlsItRilirliit
+•r ~
+kUltftmmjitt
+C E UT.
+' '
+CSAURHzn.
+HOFLEVERANCIER
+RO10N 134 over d«Ned. Buk
+Telefoon 40240, 4997}
+Vischrestaurant
+CüER
+I
+A. D. BËERENDS 6? VEEREN
+BRAND-, DIEFSTAL-, STORM-,
+WATERLEIDINGSCHADE ENZ.
+IDEALE
+
+INBOEDEL
+
+OPSTALPOLIS
+
+Jaarpr. Inboedels . . .. 2.50Ojoo
+
+Opstallen (woonh.) . . 1.25 O/oo
+AMSTERDAM LEEUWARDEN
+M CENT PER HALF ONS
+N.V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+
+BOEKENKASTEN
+WAAGEN'S
+
+HROQNPUPEN
+«•••
+IN CESLOTEN DOOZEN
+VAN 6 STUKS
+MOOI-NEDERLAND"
+o SIGAREN o
+In kwaliteit het beste!
+8 en 10 Cent
+Fabrikant: Justus van Maurik, Zaandam
+ir.
+*T^
+
+Nieuwigheden
+op fotogr. gebied staan
+afgebeeld en beschreven in
+Yrati «w eren, eralis, aan!
+ItSKalversrtr. - A'dam.
+t/o LIBERTY
+Tl MTU R
+KINDER
+ISCHOENEMI
+PROF.
+
+JUNKERS
+BADKACHELS
+Overal verkrijgbaar
+Adres voor den handel
+JOH. H. v. d. MEIDEN - Amersfoort
+Abonneert U op
+
+De Groene Amster
+
+
+dammer, Weekblad
+
+voor Nederland
+NV
+
+MA.KLOOSTERHU15
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA" ~
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DE PREMIE.
+
+SPANJAARD &amp; Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude stijlen
+
+ARNOLD HOUTSCHILT
+Singel 283 Amsterdam
+^
+NAAML, VENN,
+EUROPEESCHE
+
+Goederen- en Reisbagage Verzekering Mij.
+AMSTERDAM KEIZERSGRACHT 525
+
+
+POLISSEN d'ekkende zoowel
+
+ingeschreven- als handbagage, geldig
+
+tijdens REIS- en VERBLIJF in
+GEHEEL EUROPA, direct aan de
+
+stationseer NEDERLANDSCHE
+
+||f SPOORWEGEN, alsmede bij IM
+
+i| FORMATIE- en REISBUREAUX
+
+*j verkrijgbaar.
+*»!;| ar Schade kan ook worden geregeld bij de
+sSI Europeesche" te Barcelona, Belgrado, Berlijn, Bern,
+JÜfl Boedapest, Boekarest, Brussel, Constantinopel,
+Helsing;JÜ| fors, Keulen, Kopenhagen, Lissabon, Londen, Luxemburg,
+syx Madrid, München, Oslo, Parijs, Praag, Rome, Stockholm,
+j(s| Warschau en Weenen.
+
+iüiiü^ü^üiiii^iiiiii^^ifiiüi
+i
+A
+m
+m
+m
+m
+
+</text>
+<image timestamp="2002:09:25:10:39:55.00" size="227543">D20063K.TIF</image>
+</page>
+</document>

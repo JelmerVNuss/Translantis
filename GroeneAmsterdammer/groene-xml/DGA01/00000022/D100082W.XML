@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261106</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+VIERDE ZANG
+t
+•t.
+F'.
+•
+Om kwart voor acht precies verrijs ik uit de veeren,
+Dan kan ik mijn toilet als gentleman soigneeren.
+Niet, dat ik ijdel ben, of graag conquêtes maak
+Als ik me netjes kleed, dan doe 'k dat voor de zaak.
+
+8,30
+
+'t Ontbijt is punctueel om klokke half negen.
+Mijn jongste praat te veel. Daar kan 'k zoo vroeg niet tegen,
+En 'k stop zijn mond met: Ssst!" en: Stilte aan 't ontbijt!
+De stilte en 't gebed !" Heeft Beets dat niet gezeid?
+
+10,00
+
+Om tien uur ben 'k aan 't werk. Mijn personeel komt eerder;
+Zij zijn de minderen, en ik ben de beheerder.
+Zoo geef 'k hun eiken dag met fijnen takt de les:
+Wie zijn positie kent, mag hopen op succes.
+
+11,00
+\
+Om elf uur brengt men mij mijn koffie met een koekje,
+Dat savoureer ik kalm genoeglijk in een hoekje,
+Als de bewaarster 't vocht te heet brengt, of te lauw,
+Dan krijgt ze 't is toch plichtsverzuim van haar ? een snauw.
+
+12,30
+
+Om half een is het lunch. Dat uur past voor de kleinen,
+Voor school. Schoon 't vroege uur plebeïsch moge schijnen,
+Het toont, dat 'k in voornaam doen geen behagen schep,
+En ook, dat 'k op dat uur gewoonlijk honger heb.
+
+1,30
+
+Om half twee ben 'k present. Dan ga ik controleeren,
+Of al die zoogenaamde dames en meneeren
+Hun werk doen. En ik laak, zoo noodig, zonder schroom.
+Ik zelf rust uit. Ik voel me na de lunch wat loom.
+
+3,00
+
+Om drie uur komt de post. Die ga 'k direkt behandlen;
+Wie daar niet vlot voor zorgt, kan net zoo goed gaan wandlen.
+AI wat bestelling is, beantwoord ik op slag,
+Maar als 't reclames zijn, dan kijk ik op geen dag.
+E UREN VAN DEN DAG
+5,30
+
+Om half zes ga ik op de club wat zitten praten;
+Al ben k' geen goed causeur, dat kun je moeilijk laten.
+Ik drink geen borrels, op verlangen van mijn vrouw.
+Het treft toevallig, dat ik niet van bitter hou.
+
+6,30
+
+'k Dineer om half zeven geen seconde later.
+'t Menu is hoogst frugaal. De drank is zuiver water.
+We eten, voor de goede stemming in 't gezin,
+'t Gerecht, dat weet mijn vrouw, dat ik het lekkerst vin.
+
+7,15
+
+Een slaapje, licht en kalm, pleegt mij na 't maal te sterken;
+Dat komt mij toe, na uren onbaatzuchtig werken.
+Dan eisch ik, dat geen mensch in huis de stilte stoort;
+Wie t toch doet, gisp ik met een kort maar krachtig woord.
+
+8,00
+
+Om acht uur ga 'k met vrouwlief meestal naar 't theater.
+Actrices boeien mij; ik ben geen vrouwenhater.
+Mijn vrouw verkiest muziek; daar geef ik niet aan toe,
+Ik leid haar smaak. Ik meen, dat ik daar wel aan doe.
+
+9,30
+
+'t Is pauze. Ik sta op. 'k Ga naar de koffiekamer;
+Dat wachten in zoo'n zaal! 't Is hier veel aangenamer.
+Mijn vrouw blijft op haar plaats. Ze kijkt eens naar 't publiek,
+En krijgt nog bovendien haar zin: er is muziek.
+
+11,00
+
+Na afloop, zóó naar honk. Ik ben geen kroegelooper.
+Ik drink mijn whisky thuis. Daar 's 't beter en goedkooper.
+Mijn vrouwtje praat van 't stuk, met oordeel en verstand;
+Dat doet ze graag. En ik lees onderwijl de krant.
+
+11,30
+
+Om half twaalf op stok; als goe-genooten, samen.
+Ik kan niet tegen tocht, zij houdt van open ramen,
+Dus gaan de ramen dicht. Dat doe ik voor mijn vrouw.
+Want wie zijn vrouw bemint, behoede haar voor kou.
+NASCHR IFT
+
+Ziehier mijn levensbeeld. Moet ik mij verontschuldigen?
+Neen-ik. Ik schafte stof voor wie mij willen huldigen.
+Een korte spanne tijds, dan ben ik vijftig jaar,
+Dat wordt een schitt'rend feest. Maak nu ie speech maar klaar.
+
+CHARIVARIUS
+C O M O E D I
+DOOR HENRIK SCHOLTE
+Vereenigd Tooneel; Makropoulos [Een
+Levensformule]', door Carl Capek.
+
+DIT stuk bestaat uit n enkele vondst. Een vrouw
+heeft meer dan driehonderd jaar geleden voor
+Rudolf van Habsburg de proef met een Kretisch
+levens-elixir genomen een heerlijke dwaasheid
+intusschen, omdat Keizer Rudolf de gevolgen nooit
+heeft kunnen constateeren. Deze vrouw, een leven beu
+dat zij echter uit angst voor den eindelijken dood
+steeds continueert, leeft nog, onophoudelijk begeerd,
+onophoudelijk verwoestend.
+Dit is zoo'n kleine, felle vondst, die misschien aan
+een cafétafel of uit den overmoed van een toevallig
+gesprek ontstaat, maar die juist daarom de fantaisie
+van een auteur tot de prachtigste consequenties
+inspireeren kan. Men voelt de twee wegen, die voor
+het stuk zijn weggelegd: of de gruwelijke tragiek van
+het schuldeloos Ewig-Weibliche", een soort
+Ahasverische pest. Of, tenslotte niet minder diep-grijpend,
+de groteske van het onheilstichtend Ahnfrau-Spuk".
+Capek heeft geen dezer wegen aangedurfd. Hij
+heeft niets aangedurfd dan een tamme detective
+
+oplossing: een erfenis-kwestie met de mysterieuze
+vrouw als inzet, en als clou het mislukte experiment
+van den advocaat om door een soort satansmis een
+volgens hem hysterische vrouw tot de bekentenis
+harer oplichterijen te brengen.
+Capek heeft twee bedrijven voor de expositie van
+deze affaire noodig gehad. Hij heeft die zoo slecht
+gebouwd, dat de enkele, maar met nadruk gebruikte
+indices ons reeds de ware toedracht van de zaak ver
+
+raden: de geheimzinnige vrouw heeft moeite met het
+gebruik van moderne woorden; zij kent den inhoud
+van een sinds honderd jaar verzegelde enveloppe;
+zij spreekt over Marat en Danton als den man met de
+klamme handen en met het pokdalige gezicht. Dan
+nog de reeds in den aanvang naar voren gebrachte
+verwarring der vrouwennamen, allen met de initialen
+E.M., de verraderlijke titel, en met hetzelfde
+schokje van G.G.'s achterhoofd vermoeden wij de
+oplossing, die dan ook verder geen verrassingen
+meer brengt.
+Dit stuk, zwak-novellistisch uitgewerkt, telt maar
+n oogenblik van dramatische spanning: wanneer
+de vrouw den giftdrank drinkt en niet bekent. Welk
+een wilde angst had de waarachtigheid van dit
+300jarig leven dan dramatisch te weeg kunnen brengen,
+wanneer de voorafgaande bedrijven kundiger gesteld
+waren. En had Capek deze vrouw op dat oogenblik
+nog maar werkelijk laten sterven ! Dat hij haar thans
+een langdurigen tijd gunt om zich in de aangrenzende
+kamer te herstellen, is menschelijk. Wat hij ons in
+dien tusschentijd aan gesprekken voorzet, grenst
+echter aan het onmenschelijke: als in een slecht
+sprookje uiten banale menschen banale
+onsterfelijkheids-verlangens. Maar iedere toeschouwer weet
+immers al vooruit, dat niemand bij de terugkeer van de
+mysterieuze vrouw de levensformule, die zij de rij
+af aanbiedt, zal durven accepteeren. En het
+goocheltafeltje staat al klaar, waarop het reepje perkament
+den vuurdood zal ondergaan. Dit laatste bedrijf
+veroordeelt het stuk volledig.
+Ook over de opvoering kan men niet juist in ver
+
+rukking geraken. De fout school hier met name in de
+regie, die vooral de quasi-groote scène der beraad
+
+slagingen zoo zwaarwichtig opvatte alsof het de
+Grand CaféRestaurant,, DE HEEMRAAD'
+N. BINNENWEG 276 ROTTERDAM
+8 B i Har ds Orchestre SPRATO
+Asser Synode gold. Bovendien is men geneigd om,.
+nu het stuk in de society-sfeer gespeeld werd (met
+een merkwaardige voorkeur voor overjassen), zich
+af te vragen of zelfs in deze uitwerking een irreële,
+grilliger-geëmotioneerde satyre-toon toch niet een
+beteren sleutel gegeven zou hebben.
+Individueel viel er echter veel schoon spel te loven.
+In de eerste plaats Else Mauhs, die al de gaven van
+haar smartelijke noblesse in dienst stelde om deze
+vrouwenfiguur den achtergrond van een misdadig
+wonder te verleenen; en die dan ook zekere de zui
+
+verste Elena Makropoulos geweest zou zijn, indien
+Capek het gegeven beter had aangekund. Daarnaast
+moet vooral Verkade genoemd worden als de sata
+
+nische, maar volkomen reëele tegenspeler.Cees Laseur
+speelde zorgvuldig-komisch den decrépiden bonviveur.
+De jongste garde had succes door de gevoelige
+ingénu-rol van Polly Obdam en het raak-getroffen
+kamermeisje van Dora Wallant. Het stuk had
+mooigecomponeerde decors, met name in de schouwburg
+
+scène.
+H. RAHR
+MUZIEKHANDEL
+Violen © Snaren
+Achter St. Pieter 4
+Utrecht © Tel. 443
+PIANO'S
+
+</text>
+<image timestamp="2002:09:26:08:12:47.00" size="189588">D100082W.TIF</image>
+</page>
+</document>

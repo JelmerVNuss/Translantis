@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320312</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+IN ONZE MODESALONS
+EN AFDEELINGEN EN IN
+ONZE ETALAGES
+EXPOSEEREN WIJ THANS
+DE NIEUWSTE MODEL
+
+LEN DAMES-EN KINDER
+CONFECTIE, HOEDEN
+EN SCHOENEN, VOOR
+VOORJAAR EN ZOMER»
+AMSTERDAM - DEN HAAG - ROTTERDAM
+HUIB SLAGER
+Tolhuislaan 71a
+ROTTERDAM
+
+bindt U w boeken en jaargangen
+keurig en billijk in
+van f 1.25 af per boek
+C K. ELOUT, Indisch Dagboek, ing. f 6.—, geb.
+f 7.50, formaat 23x25 c.M., 240 blz., 150 repro
+
+ducties, een boek, dat alom met groote waardeering
+ontvangen is. Uit de vele besprekingen halen wij
+het volgende aan:
+
+Mede door de fraaie uitvoering van dit overvloe
+
+dige illustratiemateriaal, den duidelijker! druk, alsook
+door den solieden band is het boek van Elout o.i.
+een der meest begeerlijke uitgaven van den laatsten
+tijd over Indië". Koloniaal Weekblad".
+
+Want wie dit kloeke, buitengewoon fraai uitge
+
+geven boek doorbladert en men wenscht het ook
+in Indiëvan harte in veler hand die zal daarin
+veel, zeer veel van waarde vinden".
+De Locomotief".
+
+Groot is de verleiding uit dit werk te gaan
+citeeren: doch de ruimte voor deze korte beschouwing
+beschikbaar, laat dit niet toe. Men leze zelf dit fraaie
+werk en herleze het".
+De Groene Amsterdammer".
+Verkrijgbaar bij den Boekhandel.
+En UITGEVERIJ C A. MEES.
+= SANTPOORT. =
+PENSION 1er RANG
+
+POUR JEUNES FILLES
+
+DE BONNE FAMILLE
+
+EXCELLENTE NOURRITURE
+BELLE SITUATION - CHAMBRES CONFORTABLES
+
+MADEMOISELLE DE BROT
+
+VILLA GRAMMONT 14 AVE DES ALPES
+
+L A U S A N N E
+Facultéde recevoir Y enseignement du francais et de I'anglais
+
+a la maison, ou de suivre les cours de l'Untversitéet des
+
+coles de musique. "
+
+Renseignements ;
+
+Mademoisellc N. M. Middelbeek
+
+Flatgeb. Zorgvliet LA HAVE
+Aan de Administratie van De Groene Amsterdammer" Keizersgracht 355 Amsterdam C. Giro 72880. Gemeenfe Amsterdam
+G. 1000. Telefoon 37964.
+Ondergeteekende wenscht zich van l April af op De Groene Amsterdammer" te abonneeren tegen den prijs van
+Zeven gulden 50 cents voor 1932 en de nog in Maart verschijnende nummers gratis te ontvangen.
+Abonnementsprijs tien gulden per jaar.
+Naam:
+Woonplaats:
+
+</text>
+<image timestamp="2002:09:26:18:47:08.00" size="96273">00000A2R.TIF</image>
+</page>
+</document>

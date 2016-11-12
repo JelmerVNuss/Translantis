@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301004</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+f
+'$ïih
+SÉKSSKp
+^«W
+I-ar
+HV
+/tfeez
+^DEWAAOEN -GOUDA
+Wordt godronken met melk off spuitwater.
+MOBACO
+Bouw Spt*ldoM«t
+ill
+fffiBIÜBH
+faffNÜE
+', BOSCH, HONIG
+DOMSTRAAT 6 - UTRECHT
+LtRAFEMIS D M EP. M EM i f1 Q
+•i^uni.Karnri£.jRT^r
+cm
+L'RLMATIE.
+'4Abonneert op: ~ •• M r r
+DéGroene Amsterdammer
+AUG.-UILKEMA
+GROOTSTE HORLOGE MAG,
+Zilver ff. 8 tot 40
+Goud , 16 250
+Brillant 60 585
+Stopwatch 12 60
+Sport Horl. 25 28
+Reguliersbreestraat 39
+1930
+1781
+
+Hendrik jKruimel
+W^nbaodelitar |J&gt;—Aauierdam
+enig opsmeer
+TAILSchimmeiéennintk ff Kruimct
+Kantoor: Keizersgracht 325
+Telefoon 40647 '
+'
+VAN PIJ M'S
+::;±MOSTERDI
+Houbaerülos 2 _
+Sigaren . . 5 d
+Met bons voor fraai*
+geschenken
+HOUBAER * C»
+WIA DE ROOK
+gedlpl. leerares Piano
+David Blesstraat 9"
+AMSTERDAM (Z).
+* * k.
+^ V\ *
+LM
+Waterdichte dékkleèden
+te huur en te koop.
+Soepel - Barsten niet.
+O l i e g o e d
+uit voorraad.
+
+ZEI U MCA
+AMSTERDAM
+Pr. Hendrikkade 12O. Tel. 417O9-4O717
+-V.: J. S.
+AMSTERDAM
+EUWSEN'S HOEDENHANDEL
+= DEN HAAG ROTTERDAM
+
+</text>
+<image timestamp="2002:09:26:04:58:08.00" size="395741">000009LV.TIF</image>
+</page>
+</document>

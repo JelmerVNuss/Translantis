@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910719</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een kabinet in de maak.
+BIJVOEGSEL van de Amsterdam m T, Weekblad vooïNederUmd, VMI 19 Juli
+1891-\
+S i ?*G *
+\ f^' ^^
+&gt; V .*#m
+Amst. Uoek- eri Stecndrukkerii, v/h. Elletman, Harms &amp; Co.
+Mr. J. Heemskerk Azn.: Uwe Majesteit heeft keus en keur. Maar U weet, ik houd van
+stille dessins, desnoods niet een rood-wit-blauw randje.
+
+</text>
+<image timestamp="2002:08:19:12:38:57.00" size="365220">000002Z5.TIF</image>
+</page>
+</document>

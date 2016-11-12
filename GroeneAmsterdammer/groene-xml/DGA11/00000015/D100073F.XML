@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271204</Datum>
+<Pagina>36</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+36
+Kerstnummer
+t
+
+t'
+'C
+.
+J. D* STRUIJS 6 Zn,
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie * Transporten
+KERKSTRAAT 55
+AMSTERDAM
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. HooftBtnwt M AM8TBRDAM Telef.: 30341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN UJKKOETSAUTOMOBIELEN
+Wed JOHN GAY'S PICCALILL1
+BLIJFT HET MOSTEROZUUR MET DE FIJNE PIKANTE SMAAK l
+EKGROS BIJ DE LIEVEGOED'S FABRIEKEN
+N.V. ..DE HOUTTUINEN". AMSTERDAM
+W. R POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg H - AMSTERDAM - Tel. 42662
+MARMERWERKEN
+HOTEL-RESTAURANT NAEFF"
+HET HEERENLOGEMENT
+VELP b ij Arnhem
+Centraal verwarmd. Stroomend warm en koud water. Priv
+badkamers. Autogarage met aparte Boxen, ook centraal
+verwarmd en electrisch verlicht .Teleph .Arnhem 98 en Velp 722.
+B. BEIJER.
+KON. NED. MANDEN FABRIEK
+DEN HAAG FERD.VVLIET ARNHEM
+MANDEN RDTTINGENHOUTEN TU1NENSERRE MEUBELEN
+•«583» STEENSTRAAT 11
+MET OPSTAANDEN BUITEN KANO
+
+HERSTELT DE/PLATVOET N
+.A.MASSING. ^v
+O.Z.VOQRBURSWAL 33*.
+HMETBIHNEN6A6TMUIS)
+TOKO BOGOR
+Steeds het beste voor de Rijsttafel
+DEN HAMO -M,-"
+ADE 122a
+n 33472
+BOUWT IN HET KINHEIMPARK
+te Bloentendaal en in het Oranjepark te Overveen, gelegen in de onmiddellijke
+nabijheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort &lt;n
+man de electrische tram
+Buiten het door Haarlem geannexeerde gebied. Lage belasting.
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandsche Exploitatie Maatschappij van Onroerende
+Goederen 'te Bloemendaal, Icpenlaan 2 (Telefoon 22504).
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+t
+te WASSENAAR,
+
+geeft inlichtingen voor aankoop V IL L A' s en
+VILLATERREINEN in de parken te Wassenaar,
+- Inlichtingen J. TH. WOUTERS,
+Telef. Kievit 956 Wittenburgerweg 180.
+PEEK &amp; GLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+Het papier ten behoeve van dit blad
+wordt geleverd door de firma
+f* A
+. . A.
+A AJBCTETDn A MM
+j AIÏI9TERDAIVI
+ROTTERDAM—GRONINGEN
+UTRECHT ALMELO'
+
+</text>
+<image timestamp="2002:09:22:06:11:33.00" size="133453">D100073F.TIF</image>
+</page>
+</document>

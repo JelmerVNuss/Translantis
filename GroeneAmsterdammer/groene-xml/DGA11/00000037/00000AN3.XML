@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19321008</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 8 October 1932
+N o. 2888
+J. D. STRUUS &amp; Zn.
+Tel. 37906 - AMSTERDAM - Prinsengr. 837
+BEGRAFENISSEN CREMATIE TRANSPORTEN
+S D. WEEGEWIJS'
+STEENHOUWERIJ EN FABRIEK VAN MARMERWERKEN
+GRAFMONUMENTEN SCHOORSTEENMANTELS
+MARMEREN WASCHTAFELS REPARATIES
+RAPENBURG 44 AMSTERDAM TELEF. 42662
+
+
+g—IV. H. POLMAN TUIN
+l OVERTOOM 526 - Telefoon 82660
+| Begrafenissen - Transporten - Crematies
+N.V. Meubelmagazijn Eden
+Molsteeg ~~ Amsterdam
+B U R E A U X
+•f ',
+fr» *
+Opruiming Tijdschriften 1931
+'*?
+Complete, in goeden staat zijnde jaargangen, worden
+tegen onderstaande zeer lage prijzen, uitverkocht.
+
+Elsevier	ƒ 5.50
+Gids	4.50
+Groot Nederland	,4.50
+Haagsch Maandblad .. 4.
+Hollandsche Eevue .. 5.
+Kroniek ,3.
+Leven en Werken.	,, 2.59
+Nederland	,, 5.
+Nieuwe Gids.	4.50
+Onze Aarde	,, 4.
+Op de Hoogte	,, 3.
+Stem	4,
+Tooneel	2.50
+Vrouw en haar Huis.. 3.
+Buiten	4.
+Eigen Haard	, 3.
+GroeneAmsterdammer 2.50
+Haagsche Post ,	, 2.
+Jong Nederland	, 4.
+Leven	, 1.75
+Noteukraker	1.50
+Panorama	2.50
+Prins	2.
+fport in Beeld	1.50
+Sportkroniek 95 Xos.,, 1.25
+Stad Amsterdam .. .. 1.50
+Wereldkroniek	2.75
+Femina	., 3.50
+Je sais tout	,, 3.
+Lectures pour tous . . /
+Mercure de France . . ,,
+Revue d. d. Mondes..
+Revue de Paris	,,
+lllustration	,,
+Petite Illustration .. .
+Monde Illustré42 NOS.
+Rire
+Die Dame
+Deutsche Kundschau. ,,
+Die Kunst
+Velhagen&amp;Rl.Monatsh,,
+Berl. Illustr. Zeitung
+Daheim
+Fliegeride Blatter....
+lllustrirte Blatt
+Illustrirte Zeitung ...
+Lustige Blatter
+Simplicissimus
+Woche
+Fortnightly Review. .
+Windsor
+Graphic
+John Buil
+Life 47 NOS
+London News
+Punch
+Sketch
+Spere
+4.
+3.50
+5.
+3.50
+2.
+1.75
+2.50
+4.50
+2.50
+5.
+4.50
+1.50
+3.
+3.
+1.50
+4.50
+2.50
+3.50
+3.
+3.
+3.
+5.
+2.
+3.
+5.50
+3.50
+5.
+5.50
+Zendingen ongefrankeerd onder rembours.
+Brieven onder No. 12000 Groene A'dammer Amsterdam
+BEGRAFENISVEREEIMIGING
+
+N. SAX Jr.
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v h Gooi)
+P. C. Hooftstraat 38 Brinklaan 138
+Tel. 2O341 242ffO •••••i Telefoon 2270
+BEGRAFENISSEN - CREMATIE • TRANSPORTEN
+IRONWEFT" PATENT
+OVERHEMDEN
+met twee paar afneembare manchetten
+en semi soft" boord. Vernuftige
+sluiting bij de manchetten, die m een
+seconde verwisseld kunnen worden.
+Uitstekende pasvorm - keurig afge
+
+werkt - vervaardigd van waschechte
+doorgeweven poplins in beschaafde
+dessins.
+Speciale prijs
+
+4.90
+Elk hemd draagt hetgepatenteerde merk
+Oroiwcl
+NIEUW
+ENGELAND
+KONINGSPLEIN
+AMSTERDAM
+PEEK £ CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:27:10:19:24.00" size="157269">00000AN3.TIF</image>
+</page>
+</document>

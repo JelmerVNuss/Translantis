@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19080607</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De vijanden van Zola tot aan de treden van het Pantheon.
+BIJVOEGSEL van De Amsterdammer. Weekblad voor Nederland van 7 Juni 1908.
+Amst. Boek- en Sltendrukkerij, v'h. Ellerman, Harms &amp; Co,
+DE GEKST VAN EKN NATIONALF.N HELD (tot zijn nuinifestcerende nationalistische" nakomelingen}: Kalmte, kinderen! Deze Zola
+en ik, wij hebben, ieder op zijn wijze, Frankrijk groot gemaakt.
+
+</text>
+<image timestamp="2002:08:14:11:52:35.00" size="568074">000001EV.TIF</image>
+</page>
+</document>

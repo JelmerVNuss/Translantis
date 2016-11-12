@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280901</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN i SEPTEMBER 1928
+No. 26741
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+JAEGER
+Ondergoederen
+In div&lt; kwaliteiten
+Zuiver Wol
+Half
+Gemengde
+Firma KRONER
+Nienwendijk 167, Amsterdam
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/L Gebr. BREEN
+NIEUWEND IJ K 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+BUDKAfMCHTM
+toowel eenvoudige als betere uitvoering
+G. J, DE KONING 6 ZOON
+Keizersgracht 447, A'dam
+Tel. 43688. Opgericht Ao. 1739.
+voos
+
+TAFELZILVER
+(HANDWERK)
+EN
+
+IMITATIE ANTIEK
+ZILVERWERK
+
+IN DEN SILVEREN
+MOLENBEECKER"
+AMSTERDAM DEN HAAG
+Kalverstraat 32 Hoogstraat 31
+Illlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+AUG. KAUPMANN
+P. C. Hooftstraat 113, Amsterdam ~~ Telefoon 23308
+
+RESTANTEN
+TAFELGOEDEREN
+THEEKLEEDEN
+LINGERIE
+ZICHTZENDING FRANCO
+Koldewey 6 Corbière
+Leidschestraat 30 * Amsterdam
+SPECIALITEIT IN:
+Kinderbadkuipen Badtafels Baby bascules
+.—.—Linnenmanden
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+uiiwaniiiiiiiiiiiiinirraiiimmBmwiiniiimMiiinnniiiiiimmniiniiiimimmmiiiHii^
+
+ADRIAAN SCHAKEL
+HEILIGE.WEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+Vervaardigd op eigen Ateliers
+Bij MM verkrUgbaar
+N. R, V. MONTA SCHOENEN
+
+iDmramiiiiiiiiiiiiiiiimiiiiiiiiiiimiiiiiiimniimimnni!
+W. H. POLMAN TUIN
+OVERTOOM 526 * Telefoon 29850
+Begrafenissen - Transporten - Crematies
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg M - AMSTERDAM Tel. 42662
+MARMERWERKEN
+BJASPlBOMMBf
+BOEKBINDER
+KERKSTRAAT 55
+AMSTH^flDAM
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:05:05:13:35.00" size="163076">000006VZ.TIF</image>
+</page>
+</document>

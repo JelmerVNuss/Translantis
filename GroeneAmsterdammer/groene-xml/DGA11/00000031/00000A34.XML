@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320319</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+t
+i
+*
+I
+'"\T7AT was dat ?" Een Buick
+V V natuurlijk! De Buick is pijl
+
+snel als een speciaal gebouwde
+sportwagen. En wat den kenner
+meer zegt, betrouwbaar en robuust
+van voorbumper tot achterlamp.
+Zoekt U comfort, een vlotte
+lijn, gemakkelijke bediening ? U
+vindt dit alles in de Buick.
+Veiligheid, snel optrekken, prima
+materiaal : nog andere factoren,
+die bepalen, waarom drie van
+iedere vier koopers van een
+8-cylinder uit de Buick-prijsklasse hun
+keus op Buick vestigen.
+Hebt U de sensatie van dit
+jaar beproefd de Buick met de
+"Wizard Control" ? De "Wizard
+Control" met: 1. Servo-koppeling,
+2. Buick-freewheeling, 3.
+SyncroMesh-transmissie met
+geruischlooze tweede.
+Reeds kennis gemaakt met dat
+meerdere rij comfort door de onder
+het rijden gemakkelijk te regelen
+schokbrekers ?
+Bel nog heden Uw Buick-dealer
+op voor een overtuigenden proefrit.
+General Motors Continental S. A.
+
+</text>
+<image timestamp="2002:09:26:19:00:26.00" size="124189">00000A34.TIF</image>
+</page>
+</document>

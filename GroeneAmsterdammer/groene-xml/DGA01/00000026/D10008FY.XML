@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19330325</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 2012
+De Groene Amsterdammer van 25 Maart 1933
+Wetenschappelijke Varia
+p'
+K
+r
+;
+Techniek der geluidsfilm
+Dr. P. van Olst
+Ben belangrijk kenmerk van den
+beschaafden mensch (waarmee ik
+niet iemand bedoel die geen ruw
+Amsterdamsen spreekt, geen on
+
+hebbelijke manieren heeft, geen
+uitsluitende belangstelling toont
+voor voetbal, geen opvallende afkeer
+heeft van hygiëne, enz., maar uit
+
+sluitend de mensch, die niet in wilden
+staat leeft), ik herzeg: eenbelangrijk
+kenmerk van dezen mensch is de
+volkomen onwetendheid over het
+
+geen anderen voor hem hebben
+moeten denken en werken. Wij
+eten ons brood, drinken angstloos
+onze melk, steken ons licht aan,
+rijden in trams, telefoneeren, mis
+
+bruiken even ons radiotoestel, laten
+een grammophoonplaat draaien,
+maar denken niet aan alles wat
+hieraan vastzit en vastzat voordat
+het door ons zoo gedachteloos te
+gebruiken is. Met de geluidsfilm is
+het precies net zoo gesteld. We
+verstaan maar half, we lezen tegelijk
+den hollandschen tekst en ontcijferen
+onderdehand de aangedikte ex
+
+pressies van de conventioneelste
+gemoedsuitdrukkingen, die nog
+binnen het ontcijfer-vermogen van
+een groot publiek vallen, en
+hebben daarbij natuurlijk geen tijd meer om te
+overwegen wat er noodig is geweest om de onaan
+
+gename Amerikaansche neusklanken zoo natuur
+
+getrouw Weerzinwekkend weer te geven of Tauber
+zoo echt-ondragelijk te laten jammeren. Er is een
+gezonde zelfverdediging in deze houding van den
+mensch. Als we alles moeten doorgronden en uit
+
+pluizen wat we doen in het dagelijksch leven,
+kwamen we alleen reeds met het begrijpen van het
+ontbijt niet klaar voor we weer naar bed gingen !
+Het is maar beter alles automatisch te doen even
+
+goed als we automatisch weten wat 7x9 is,
+automatisch fietsen, automatisch de gangbare
+taal- en stijlfouten maken, enz.
+Toch is een oogenblik van bezinning wel eens
+aardig, mits niet te vaak. Vandaar dat een
+weekblad er een goede plaats voor is.
+Zoo'n herinneringsmoment had ik onlangs toen
+ik bemerkte dat in Duitschland een samenvattend
+boekwerk verschenen is over de geluidsfilm en
+dat een der physisch-chemische vakbladen er een
+referaat over gaf. Buiten de
+verschrikkelijktechnische vakbladen is er weinig gepubliceerd
+over de geluids-filmtechniek en het is aardig om
+eens alles bij elkaar te zien wat er noodig is om een
+goede geluid-opname en geluid-reproductie te
+garandeeren en hoeveel moeilijkheden er op ver
+
+nuftige wijze ontzeild zijn, zoo talrijk dat het niet
+meer mogelijk was voor n mensch of zelfs voor
+een paar samenwerkende menschen om het heele
+gebied te beheerschen. Twee werelddeelen met hun
+wetenschappelijken staven zijn er bij te pas
+gekomen.
+Hoewel het begrip geluidsfilm" voor het pu
+
+bliek pas een viertal jaren bekend is, dateeren de
+onderzoekingen en proeven natuurlijk van heel
+veel jaren eerder. Edison heeft ook op dit gebied
+reeds gewerkt op het eind der negentiende eeuw,
+maar het gelukte hem niet de film en de grammo
+
+phoonplaat gelijktijdig te laten afloopen, zoodat
+het synchroniseeren van beeld en geluid niet lukte.
+Pas de Duitschers Vogt, Engl en Matolle, die
+onder den naam Triergon samenwerkten, hebben
+als resultaat van hun onderzoekingen opmerkelijk
+technisca-goede geluidfilms gemaakt en in het
+publiek vertoond in 1922. Het vraagstuk geheel
+op te lossen kon echter niet aan drie menschen
+lukken. Hiervoor was een. geweldige wetenschap
+
+pelijke staf noodig, die het eerst in Amerika ter
+beschikking stond voor dit doel. Duitschland had
+Fig. 1. Film met
+geluidstrook volgens Tiet
+streepsysteem.
+ook wel zoo'n staf, maar de groote
+Duitsche
+electriciteits-maatschappijen interesseerden zich niet er
+voor de zaak.
+Daarna pas begon Duitschland
+weer, De Triergon-patenten kwamen
+in handen van het
+Tonbildsyndikat A. G.", ons beter bekend als
+Tóbis. Deze is gecombineerd met
+de Klangfilm G. m. b. H.", opge
+
+richt door Siemens en de A. E. G.,
+tot het systeem Klangjilm-Tobis,
+dat in Duitschland het monopolie
+heeft.
+Men weet zeker wel dat de moderne
+geluidfilms alle het systeem van
+Edison (met film en grammophoon
+
+plaat) hebben laten varen en het
+geluid zoo opnemen dat het in den
+vorm van donkere strepen op de film
+wordt neergelegd. Bij de
+TobisKlang-film (het systeem voor ge
+
+luid opname heet zoo in tegen
+
+stelling met Klangfilm-Tobis waar
+
+mee het systeem voor geluid -weergave
+is bedoeld) bestaat de opname op
+de film uit een serie strepen,
+dichter opeen bij hooger geluiden,
+verder uiteen voor lagere toonen,
+terwijl de geluidsferfcte afhangt van
+het meer of minder donker zijn der
+strepen. In fig. l is een stukje geluidfilm afgebeeld
+dat volgens dit systeem is ingericht. Links en
+rechte ziet men de gatenrij, waarin de tanden
+grijpen die de film voortbewegen. Tusschen de
+linksche gatenrij en de. filmbeelden-serie ziet
+men een smalle strook, die de horizontale
+geluidstrepen bevat. Deze strook is 2.5mm breed;
+daar de filmbreedte internationaal vast staat heeft
+dus het formaat van het filmbeeld zelf een kleine
+verandering ondergaan; bij gelijke hoogte is het
+iets smaller geworden.
+Er is echter nog een tweede vorm van
+geluid,,afbeelding" behalve door dit strepenstelsel. Dit
+andere stelsel is in fig. 2 weergegeven, waar alleen
+de linkerkant van de fi'm is geteekend. De
+geluidstrook bestaat bij stilte uit een donkere en een
+heldere helft. De scheidingslijn hier tusschen
+maakt golvingen, die in de figuur geteekend zijn,
+zoodra geluid wordt opgeteekend. De hoogte
+dezer golven, dus de mate der afwijking naar
+rechts of links, hangt af van de geluid -sterkte, het
+aantal golfjes op een
+even groot stuk be
+
+paalt de toonhoogte.
+In het kort is het
+geheele verloop van
+opname en weergave
+aldus: het geluid
+wordt opgevangen in
+niicrofoons,waardoor
+Slectrische stroomen
+ontstaan (of een bij
+
+staande stroom
+gewijzi gd wordt) in een
+tempo overeenko
+
+mend met de toon
+
+hoogte, en in een
+mate, overeenko
+
+mend met de
+geluidsterkte. Deze stroo
+
+men die te zwak
+zijn, worden eerst
+versterkt en beïn
+
+vloeden dan een
+lichtbron, die daar
+
+door in zelfde tempo
+en mate in licht
+
+sterkte wisselt, wat
+op de filmstrook
+wordt gefotografeerd
+"UU/
+O
+Fig. 2. Geluidstrook mei
+het (jolf-systeem, (alleen
+de linksche kant van de
+geheele jilm is (jeteekend)
+Witte Curacao Sec
+Cherry Brandy M ent hèGlaciale
+Curafao Brandy
+• Koopt Nederlandsch fabrikaat! •
+in het beschreven strepen- of golfjes-stelsel. Het
+is nog niet mogelijk om de afbeeldingsfilm en de
+geluidstrook tegelijk op dezelfde film op te nemen.
+Men maakt dus voorloopig een aparte geluids
+
+filmstrook die later (met behulp van merkteekens
+op de afbeeldingsfilm *en de geluidfilm) tot n
+film wordt vereenigd als beide gekeurd en goed
+
+gevonden zijn.
+Bij het afdraaien moeten de d ichtheidsver
+
+schillen en de aantallen strepen of golvingen in de
+geluidstrook weer in geluid met allerlei sterkte en
+hoogte worden veranderd. Dit gaat doordat de
+geluidstrook voorbij een lichtbron van standvastige
+sterkte passeert en hiervan naar gelang der dicht
+
+heid der strepen meer of minder licht doorlaat.
+Dit doorgelaten, wisselend sterke licht, valt dan
+op een apparaat dat lichtwisselingen veranderen
+kan in electrische-stroom-versterkingen of ver
+
+zwakkingen (de photo-cel) en deze wisselende
+stroomsterkte worden eindelijk in den luidspreker
+in geluid veranderd.
+Als men nagaat hoeveel veranderingen het oor
+
+spronkelijke geluid doormaakt, weerstandswisse
+
+lingen in de microfoon, stroomsterktewisselingen,
+hieruit volgende lichtsterktewisselingen, schei
+
+kundige veranderingen in het latente beeld op de
+geluidfilm, ontwikkeling van dit beeld tot zichtbare
+strepen, weer verandering in lichtsterkte, weer
+verandering in stroomsterkte, omzetting in het
+gereproduceerde geluid, dan verbaast men zich
+dat er nog iets van een gelijkend geluid voor den
+dag komt, want iedere verandeiing in de volgende
+overgangstoestand geeft immers nieuwe mogelijk
+
+heden van gtiluidvervorminy.
+Bij gelegenheid zal ik enkele dezer onderdeelen
+eruit nemen en in een nieuw artikel ter sprake
+brengen. Het is nu eenmaal omnogel:jk om in dit
+kort bestek alles tegelijk te behandelen. De wonder
+
+lijke moeilijkheden in dit geheele proces en de
+vernuftige inrichtingen om hen te ontloopen,
+komen dan vanzelf ter sprake.
+VITRAGE
+MADRAS GORDIJNEN
+
+1.30 X 3 MTR. PER PAAR
+395
+90 cM. BR.
+PER MTR,
+NDANTHREN
+6 ZONEK
+
+</text>
+<image timestamp="2002:09:26:20:04:13.00" size="217275">D10008FY.TIF</image>
+</page>
+</document>

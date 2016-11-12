@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300329</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 29 MAART 1930
+No. 2756
+J. D* STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+BEGRAFENISSEN (naar VERKIEZING met RIJTUIGEN of AUTO'S]
+CREMATIE. - TRANSPORTEN.
+Gelegenheidsaanbieding
+
+AUTO'S
+AUSTIN FI.2900
+6 cyl. 7 pers. Sedan Sép. type 1929
+OPEL Fl. 2000
+6 cyl. 7 pers. Sedan Sép. type 1929
+OPEL Fl. 1900
+4 cyl, 7 pers. Sedan Sép. type 1929
+HUDSON Fl. 2250
+Sport 5 pers. Sedan 1928
+ESSEX FI.1650
+5 pers. Sedan laatst 1928
+STUDEBAKER Fl. 2100
+5 pers. Sedan type 1928
+BUICK FI.1900
+5 pers. Coach type 1927
+WHIPPET FI.15OO
+5pers. Sedan"l929
+FALCON KNIGHT,, 1750
+8 cyl. 5 pers. Sedan 1928
+NASH FI.1550
+6 eyl. 5 pers. Sedan 1928
+BERLIET Fl. 110O
+4 cyl. 4 pers. conduite int. 1927
+FORD SPORT Fl. 1500
+Coupémet Dicky Seat 1930
+FORD Fl. 400
+2 pers. Coupéprima staat 1926
+PAIGE Fl. 1800
+2 pers. Cabriolet met Dicky Seat 1928
+AMILCAR Fl. 750
+2 pers. Cabriolet Seat 1927
+FIAT Fl. 700
+2 pers. Spider Seat 1927
+OACKLAND Fl. 900
+5 pers. Coach prima staat 1926
+OACKLAND Fl. 500
+5 pers. touring 1926
+CHEVROLET FI.1200
+5 pers. Coach als nieuw 1928
+ESSEX FI.1500
+Coach 5 pers. als nieuw 1928
+HUDSON Fl. 500
+Super Six Chassis 1925
+SPYKER Fl. 600
+6 pers. Landaulette prima staat
+TALBOT Fl. 450
+5 pers. Sedan 4 wielremmen
+CADILLAC Fl. 500
+7 pers. touring type 57.
+
+
+tUTOHUIS M E.HOEFF
+
+BOEZEMSINGEL 228-230 n.b. Goudschesingel.
+ROTTERDAM, Tel. 55468
+leb nieuws:
+Droste'5
+Chocolade
+Toffees
+BEGRAFENISVEREENIGING
+
+N. SAX ]r.
+P.C. Hooftstraat 38 AMSTERDAM—Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+STEENHOUWERIJ D. WEEGEWIJS
+Rapenburg 44 ~ AMSTERDAM - Tel. 42662
+MARMERWERKEN
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+N.V. v/h. Gcbr. BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+Ateliers voor reparatlën aan
+Uurwerken, Goud en Zilver
+VERWEEGEN &amp; KOK
+AMSTERDAM
+Kalverstr. 86—90
+DEN HAAG
+Noordeinde 64c
+
+KASTKOFFERS
+
+PLAiDS
+
+VOEÏENZAKKEN
+
+AUTO-OVERSCHOENEN
+
+ENZ.
+W. R POLMAN TUIN
+OVERTOOM 526 -:- Telefoon 82660
+Begrafenissen - Transporten - Crematies
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 ~ Telef. 30559
+Complete Meubileering
+ONZE VERTEGENWOORDIGER
+IS MET COMPLETE COLLECTIE
+ZONDER EENIGE VERPLICH
+
+TING DOOR 'T GEHEELE LAND
+TE ONTBIEDEN.
+Onze geïllustreerde
+prijscourant wordt
+gaarne op aanvraag
+kosteloos
+toegezonden.
+ALLE IND. COSTUUMS
+WORDEN VOLGENS
+HET JUISTE MODEL
+DOOR BEKWAME
+COUPEURS VERVAARDIGD
+WItt« Oostum** • «475
+vanaf	l l
+Wollen Palmbcach MQ75
+Coatumcs ranaf..
+AM/TEROM1 - OtN H/\A6
+PEEK &amp; CLOPPENBURG
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:25:07:52:16.00" size="149310">0000092S.TIF</image>
+</page>
+</document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261106</Datum>
+<Pagina>3A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJ HET JUBILEUM VAN HET NOORDZEEKANAAL
+BIJVOEGSEL van .De Groene Amsterdammer", Weekblad voor Nederland van 6 November 1926
+Nadruk verboden
+SLUIS rr VflEESWUK
+Amst. Boek- en Steendr. v "h. BUerman Harnu 6 Co
+MERCURIUS: JA, MEVROUW, EEN PRACHTIG WERK - MAAR KIJKT U OOK EENS NAAR DEN ANDEREN KANT!'
+
+</text>
+<image timestamp="2002:09:26:08:31:51.00" size="135687">D1000837.TIF</image>
+</page>
+</document>

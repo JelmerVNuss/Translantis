@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18900105</Datum>
+<Pagina>B7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•^i
+B'ALBINOS,
+D*t b'nogal op den man af. Dan blijft me niets anders over dan
+tsW
+«,
+St vV
+'&amp;'»
+h ff
+A 'C*
+KI* *•
+BERTA.
+; Weineen, volstrekt niet, mijnheer, zult toch zoo beleefd zijn mij
+'"ëfffst de ernstige mededeeliqjin te doen waarvoor gij eigenlijk ge
+
+komen zijC 1
+£_ . , , - D'ALBINOS.
+Mevrouw neem mij niet kwalijk, maar na uwe onaangename
+woorj van zooeven, geloof ik dat geen minnelijke schikking meer
+moge.is. Trouwens mijn ernstige mededeeling bestond juist in hetgeen
+"ik U gezegd heb. Ik geloof dus dat het 't beste is om maar af te
+trekken op' démanier waarop ik gekomen ben. (Hijgaat naar 't venster).
+. x "* BERTA. (verschikt).
+,", O- God mijnheer, bjjjf even. Hoort U daar niet iets aan de deur
+krabbelen?
+• \ D'ALBINOS.
+Uk' U 't zegt, ja, nu hoor ik 't ook. Hoogstwaarschijnlijk de «mid.
+. Dr moet U ook eerlijk bekennen, dat ik liever door de deur dan door
+het raam vertrek
+t BERTA. ^"
+Neen, dat is de smid niet ....
+(Ta&gt; tyJe.l 't Is dat ellendige dier.
+.."''•' &gt;• **" D'ALBINOS (naar de deur gaande}.
+Ik z*l me in jleder geval overtuigen.
+•v BERTA (hem voorkomende). *
+Doe gén 4Ptóte, mijnheer: doe alsjeblieft geen moeite. (Zij schelt).
+(TVf syde.) Ik moet hem in ieder geval bij mij zien te houden om
+mij 290 noodig te beschermen.
+(Luid.) Maar gaat U toch zitten.
+D'Aï-BïNOS (ter ai/de').
+Wat mankeert ze toch.
+(Z«££) U schijnt eenigszins nerveus.
+BERTA.
+Ik ? volstrekt niet.
+D'ALBINOS.
+Een onverwachte omstandigheid zeker .... 't Is geloof ik beter
+dat &amp; U verder niet met mijn gezelschap lastig val.
+
+</text>
+<image timestamp="2002:10:03:23:14:11.00" size="85147">00000BMM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300719</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+E SC
+VAN DEN
+
+•&gt;:«.i*'«'i
+Koetswerk van der Plas
+ESTELD: men heeft nog nimmer een auto
+gezien en krijgt potseling en onverwachts hot
+Welhaast volmaakt voortbrengsel van een der
+allermodernste fabrieken onder oogen, dan valt
+het zeker te betwijfelen of men het voertuig wel
+mooi zoude vinden !. . . .
+Stellig zoude men waardeering kunnen hebben
+voor de uiterst zorgvuldige afwerking; voor het
+ten top gevoerde werkmanschap alsmede voor het
+technische wonde;' da: verwezenlijkt werd; ook
+zoude hot glimmende nikkel, het glanzende
+lakwerk der verschillende onderdeelen evenzeer als
+de forschhsid van het geheel, gepaard aan het
+opmerkelijk gemak dat gediend wordt in het
+koetswerk, bewondering kunnen wekken, doch
+oog" hebben voor do vloeiende stroomlijnen
+waarbij de aero-dynamische wetten de;1
+windweêrstauds-breking en overwinning der
+zuigingskracht, welke zich bij het opvoeren dei' snelheid
+doen kennen, glansrijk overmeesterd zijn, is heel
+wat anders en daarenboven speelt de y,.g.
+..gewo:&gt;nte-aesthet iek" bij dit alles een niet weg te
+cijferen rol, daargelaten dan nog of men in persoon
+
+lijken aanleg tot de gewone genieters dan wel
+tot de, ..fijri-proevers" behoort!....
+Die nieuwe vormen nu, zijn niet zoozeer
+uilfjedf/rht als wol langzamerhand f/e//roeid tot het ideale
+type; het leven en de practijk. de practische bruik
+
+baarheid, do eischen van nut, snelheid en gemak
+hebben als het ware den auto-bouwers en ont
+
+werpers zekere vormen en verhoudingen gedicteerd.
+De heerschappij over het berekenbare naast eene
+volkomen zuivere intuïtie voor wat niet in getal l en
+en maten te berekenen is, doch veeleer dient te
+t"'
+Wonderen van Te
+DOOR OTTO VAN
+worden aangevoeld en geraden, schonk aan inge
+
+nieurs het kunstenaarschap. Werd dan al bij de
+verdere afwerking en verfijning van onderdeelen
+de medewerking van begaafde kunst n ij veren in
+
+geroepen dan hebben deze meermalen het helder
+inzicht getoond zich allereerst in te stellen op het
+practisch nut. Kunst en Techniek reikten elkander
+aldus de hand en eeno Nieuwe Schoonheid werd op
+de oude aarde geboren.
+Dat mislukkingen niet uit konden blijven ligt
+Ontwerp Gastor.
+Beschildering Atelier^P. A. P.
+voor de hand. Ki1 zullen altijd misgrepen gedaan j
+worden bij het zo,'ken iiivir oplossingen ht(li"n lu-t
+in hi't leven meegekregen talent niet evenredig is &lt;
+aan de belangrijkheid der opgedragen taak. Men &lt;
+zie er af b. 5 maar eens op aan. de schepping van l
+een man die zijn fantasie den vrijen teugel liet. '
+Deze Pierre JJrlcourt teckende een ding dat het j
+midden houdt tusschen een tank en de kajuit c
+van een luchtschip of een duikboot welke op i
+wielen is gezet. I Eet is inderdaad zonde s
+van het Oitroën-ch'issis en het geheel doet even g
+denken aan de akelige; veranderingen dooi' middel s
+van allerlei aanplaksels welke auto's wel eens
+sondei'gaan als zij tot reclamewagens worden gede- t
+gradeei'd. Men voelt overigens in dit ..ontwerp" c
+in alles de teekenhand welke op papier de i
+lijnen trok zonder voldoende inzicht in de werk e- l
+lijkheid. Want dit laatste is absoluut onmisbaar
+wil men waarlijk tot verfijning komen, men kan l
+het nooit zoeken in opzettelijke en geforceerde a
+uitdenksels, vreemde en opvallende verzinsels in s
+een zucht naar oorspronkelijkheid. e
+
+</text>
+<image timestamp="2002:09:25:21:37:13.00" size="698514">000009DT.TIF</image>
+</page>
+</document>

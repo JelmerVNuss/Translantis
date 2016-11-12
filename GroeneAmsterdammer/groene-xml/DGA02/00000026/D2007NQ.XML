@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920515</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOKGSËI. van ile Amsterdammer, Weekblad voor Nederland, van 15 Mei 1892.
+Het jachtrecht in Nederland.
+,H«t oerste regt van de natuur is dat vau /olt'verdedigiug, het tweede dat van eigendom.
+Tegen liet eerste druischt do leer aan dat het den eigenaar wel zoude vrijstaan om de vruchten zijner
+nijverheid en landbouw tegen rnenschen, maar niet tegen dieren te verdedigen.''
+[.fniiAN MEUUHOK KEMPJJK, aangehaald door Mr. J. A. LEVV in de Kamerzitting van 6 Mei.]
+Amst. Boek- en Steendrukkerij, v/1). Ellerman, Harms &amp; Co.
+
+</text>
+<image timestamp="2002:10:03:23:17:55.00" size="514077">D2007NQ.TIF</image>
+</page>
+</document>

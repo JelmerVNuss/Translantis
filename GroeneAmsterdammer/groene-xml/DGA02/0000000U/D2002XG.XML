@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19170609</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+9 Juni '17. No. 2085
+AMSTERDAM
+hAIAEKSTRUT 88/9»,
+hoek Borgerweeshuis.
+DEN HAAG
+HOOGSTRUT 23.
+REISWIJZER
+VOOR HOTELS, PENSIONS EN RESTAURANTS
+STENFERT, KROESE &amp; v. d. ZANDE
+H of boekhandelaren, Contractanten van dezen Reiswijzer - ARNHEM
+AGENTEN: N. R. Ct., Handelsblad, Nieuws van den Dag, en De Amsterdammer
+Weekblad voor Nederland. PLAATSEN ANNONCES IN ALLE BLADEN
+AMSTERDAM
+KALYERSTRAAT 88/90,
+hoek Burgerweeshuis.
+DEN HAAG
+HOOGSTRAAT^.
+AMSTERDAM
+Hotel OLDEWELT
+Nleweitdijk 100. Tel. 2012 N.
+Rustig gerenomeerd Middenstandshotel
+Aanbevelend, L. B. SMITS
+C.
+Bokln 134. Tel. «4O
+Nieuw ingericht Vischrestaurant
+OESTERS, KREEFTEN, CAVIAR
+HOTEL FLE1SS1G
+FRAKS FLEISSIG, Ei*.
+Warmoesgtr. 127-129. Tel. Int. 5972 en 5977
+TeL-Adres: Fleissig-Amsterdam
+84 kamen, electriseh verlicht en modern
+ingericht. Diners en Dejeuners
+ASSEN
+Int Tel. No. 18 - Autogarage
+ALMELO
+HOTEL
+Met prachtige Tuin en Serres. Ruime
+frigsche logeerkamer. Eleetrisch verlicht.
+TeL 133. Schuin over 't Station.
+Aanbevelend, J. H. DOLFIN, Eig.
+
+ARNHEM ~
+
+BRISTOL HOTEL
+Stationsplein rechts
+Modern Ie rang Familie Hotel
+B. Dommering &amp; Zonen
+- Telefoon 123
+
+Café-Restaurant-Uitspannlng
+WESTERBOUWING"
+Aanlegpl&amp;ats der Stoomboot-Onderneming
+C O N C O R D l A"
+J. J. S. KöLNNER
+Hotel
+
+Oranje-Nassau
+tegenover het Station (links)
+Modern inger. - Matige prijzen
+Rest.-Directeur F. SIMON
+BEJIXEKOM
+Hotel Neder Veluwe
+Tel. 127 Ie Rang
+DEVENTER
+Hotel DE KEIZER"
+met Dependance
+Keizerstot l si 18 Telefoon 396
+DIEREN (Geld.)
+Hotel DE KROON"
+Telefoon No. 61. Garage en Stalling
+Pens, vanaf ƒ 6.—p.d. H. H.TlMMER
+DORDRECHT
+Hotel-Restaurant
+P O N S E N"
+TELEPHOON 279
+ENSCHEDE
+Hotel-Restaurant MENDELAAR"
+HAVERSTRAAT 35 Els Q. ZWDNENBERQ
+In het centr. der stad. - Plat du jiur 12-3
+Holi.. en Duitsch Bier. 5
+Wilhelminabiliards. Telef. Interc. 221
+GINNEKEN
+HOTEL MASTBOSCH
+Gunstig gel. a/d. ing. der bosschen.
+Tel. 365 - Autogarage - Electr. licht
+L. DAS, Eigenaar
+«ROK IA GEN
+Hotel-Restaurant ELZENQA"
+Bonds-Hotel A, N. W. B.
+Logies en ontbijt f 1.75. Diner f 1.50.
+Electr. licht.- Tel. 860.-Centr. v er w.
+Hotel-Restaurant
+
+WILLEMS
+Centrale verwarming.
+Electriseh licht.
+Telefoon 41 en 2100
+EINDHOVEN
+Hotel Hof van Holland"
+Ie rang Hotel. El. Hcht. Centr. verw.
+Tel. 60. Prop.JOS.v.WAEGENiNGH
+Hotel Café-Restaurant
+DU COMMERCE"
+STATIONSPLEIN
+Voorheen Restaurateur van het Station
+J. H. NIJPELS, Eigenaar.
+ELLECOÜI
+Hotel-Pens. Brinkhorst"
+Telef. Dieren No. 12. Direct gelegen
+b/dbosschen.Aanbev.J.H.WENTiNK
+GINNEKEN
+Hotel DUIVELSBRUG"
+Zomer en Winterv., i. d. onmid. nab. d.
+raastbosscb.-Tel. Breda No.36.Mooiste pl.v.Nederl.
+50Kamers,Autogarage,Motorv.*)ren,Elec,verl.
+Kigenaar JOH. J. MOONEN, Culsmier
+Hotel FRIQQE
+Telefoon 157
+Electriseh licht.
+Centrale verwarming.
+Telefoon in elke kamer.
+Garage K. N. A. C.
+Prosp. B. DOMMERING &amp; ZONEN
+en Internationaal Verkeersbureau
+Amsterdam.
+'s GRAVENHAGE
+Restaurant KNAPPSTEIN,
+Vlamingstraat 15-17
+Restaur. Ie etage, Ing. No. 17, Tel. Int. 2479
+Part,: Lunchr.,ing. No.15. Koude en w. spijzen
+Hotel DES PAYS-BAS
+(voorheen genaamd ST.JORIS)
+Wagenstraat 100-102 Tel. 4410
+Centrum der Stad
+J. M. VAN DER SANDE
+'s GRAVENHAGE
+Hotel Americain
+Wagenstraat 49 Telef. 1975
+logies met ontbijt vanaf f 1.
+A. LETSCH, Directeur
+Hotel Terminus
+Télèphones 1106 en 7125
+G. VAN STIOT &amp; PILS
+HEERENVEEM
+VERIXIMMHS1N
+Telefoon Intercommunaal 20
+Logies met ontbijt vanaf f 1.75
+Restauratie den s?eheelen dag
+M. A. VERNfMMEN
+HEELSUM
+Hotel Calé-Besfanrant SCHOONOORD"
+PoDsionprijzen billijk Tel. Renkum 338
+Dicht bij buss. Halte tr. Driebergen-Utrecht
+J. TREUREN
+HOOGEVEKN (Dr.)
+Hotel Café-Restaurant
+FLOTHUIS.
+Pension Bonds-Hotel, Boschr.omg. Tel.lot.5.
+L.KKUWARUEN
+Hotel AMICITIA"
+Modern Ingericht op de meest gunstige plaats
+Telephoon Intercommunaal 91
+CEBR. VELDHAUS
+HOTEL PHOENIX
+St.JACOBSTRAAT 9en ll.Tel. int.73
+Centrum der stad. Centrale verwarming.
+Uitpakk. Badk. Oarage. Plat du jour a 12-2
+heures.Table d'hote k 5-8 heures.J.JONKER
+MAASTRICHT
+GRAND HOTEL
+Du Lévrier et de l'Aigle Noir"
+Centrum der Stad
+Hotel 1ste Rang Telet. Intercomm. 14.
+
+Hotel CONTINENTAL
+naast de GRAND BAZA.R
+Bekende Hollamlsclie Keuken
+Telefoon 229 - 0. B. DEMMERS
+MIDOELBUJU.J
+Hotel Nieuwe Doelen"
+La meilleure situatlon de la ville.
+Cuisine soignée
+J. M. HOOGESTEGER, Eig.
+MOOK (lüj Xijmegen)
+HOTEL DE PLASMOLEN"
+Bekend door zijn schoone ligging in
+boschrijke en heuvelachtige streek als een der
+mooiste plekjes van ons land. Prospectus
+op aanvrage. A. v.d. GRINTEN.
+NIJMEGEN
+Hotel-Pension DE ZONNEBLOEM"
+Pr. gel. bij bosch en heide. Mooie wandel.
+Dir. lig. bij Elec. tr. 23000 M', tuin. Tennisb.
+Garage Tel. 1346 Prosp. op aanvr.
+Aanbevelend, P. J. A. BUSCHENHENKE.
+Oosterbeek-Wolf hezen
+Hotel De Tafelberg"
+Telephoon 342.
+
+Hotel Wolfhezen"
+Telephoon 3.
+
+Hotel Dreijeroord"
+Telephoon 1948.
+Directie Hotel-Mij. De Tafelberg"
+OOSTERmOEKJhoos)
+
+Pension ibhorst
+Tel. Inferc. 2009. Prosp. op aanvr.
+HOTEL SCHOONOORD
+Gelegen O. Stoomtram, eindpunt
+Electr. tram
+
+Hotel BELLEVUE Arnhem
+propr. CONSTANT MEYER
+Ciiisenier de la Cour
+ROOSENDAAL
+Hotel Kuypers
+Telefoon Interc. No. 5.
+Eigenaar Aug. C. C. Buysen
+KHKNEN
+Hotel DE GREBBE"
+Beide Hotels Zomer en Winter geopend
+Bekend Restaurant. Groote Garage
+Tel. Wageningen No. 60 en Rhenen No. 7
+A. VAN ESTRIK.
+TILBURtt
+geheel modern ingericht
+pronr. &amp;ÜS SCHIEFELBÜSCH
+UTRECHT
+Hotel CaféRestaurant fte la Station
+stalioasifleia 3 tretM Tel. Iiteic. I».l2
+Plats dnjoar, Plats du Midi, Diners, Prixfixe
+et a Ia Carte. Modern inger. Tea Room annex
+Serren.Div.zalen v. vergadering, lezingen enz.
+Hotel 't Kasteel v. Antwerpen
+Met mooie turn en terras. Electriseh licht.
+Centrale verwarming, Auto remise. Logies
+met degelijk ontbijt f2.50 en hooger.
+Aanbevelend,J. G.JANSEN
+Hotel WILLEMS
+VREEBURG P en 10 INTERC. TEL. 725
+Logies met ontbrjt f 1.50,
+Diners a f 1.25
+VAN RIJN'S
+BESTE
+GRAND
+HOTEL
+VEL,P-ABJ«HEM
+Hotel OVERBEEK
+Familie Hotel Ie rang, In de nabijheid der
+bosschen. Groofe lommerijke overtiiin.
+Telef. 446 Aanbevelend J. KOOU
+Hotel MODERNE
+Tel. 170 Pension vanaf f 3.50
+ZANDVOOUT (Holland)
+Hotel
+l Mei--l October
+ZWOLLE
+Hotel HEERENLOGEMENT
+ZWOLLE, Groote Markt
+Centr. Verwarming. Geheel Eiectr. ver!,
+Tel. Interc. 15. J. G. JANSEN
+ZUTPHKN
+ORAND-HOTEL DU SOLEIL
+Restaurant Ie UI. Plats du jour en Lunch
+12—3 u. Diners van 51/,—7 u. Logies met
+ontbijt f2.50. Autosarage. Interc. tel. 70
+D. J. A.'BINNENDIJK, Directeur
+Drukkerij KOTTING
+AHSTERDAM
+VLOEISERVÊTTEN
+voor Hotels, Pensions en Restaurants
+Vraagt Uwen boekbandelaar bij Uw
+bezoek aan Gelderland
+Wandelkaart voor Arnhem e. o.
+(DIEREN-W AGEN1NGF.N)
+Prijs &lt;K&gt; cent
+Uitg. Stsnfett Krwe l Van dtr linde, Arnhem
+WINDSHEIMER MINERAAL WATER
+Prima Tafelwater met erkende geneeskrachtige eigenschappen tegen
+JICHT-RHEIJMATIEK SLECHTE
+PIJSVBBTOERING SUIKERZIEKTE NIERLIJDEN
+Alg.aanbev. door H.H. Doktoren. Verkrljgb.bg eiken l e kl. Detaillist.
+Hoofddepót voor Nederland: A. L E BELLE,
+Vroolikstraat 138, A'dam. Tel. Zuid 4365.
+«X2B1IAMIA
+Iievemsverzekerlng-llaatschappy te Stettin.
+Onder Staatstoezicht. Sedert 1869 in Nederland gevestigd,
+Directie voor Nederland: 8. VAN" LIER Ez.
+Amsterdam, Yggendam 8.
+Verzekerd Kapitaal... f 546.694.909
+Waarborgfondsen .... f «««.156.86»
+Hiervan was slechts 17,9 miUioen in effecten belegd, waarvan 10,2
+mllUoen gulden in oorlogsleeningen, dus nog geen 4 pCt. van het
+Waarborgfonds. De .Germania" heeft uiterst vrijgevige polisvoor
+
+waarden. Polissen, die 3 jaar bestaan hebben, kunnen, bij niet betaling
+der premie, niet geroyeerd worden, zoolang nog premiereserve voor
+die verzekering aanwezig is.
+mium
+treehtsehestr. 62-64
+Interc. Telefoon N. 6021
+Commelinstpaat 62-64
+Interc. Telefoon Z. 4102
+-: AUSTEKUASl
+:Complete Woninginrichtingen
+
+ad f525.-, f920.., f 1345.-, f 1825.-en hooger
+Vraagt f'ranoo geïllustreer cle catalogus
+HOTEL GROOT-BADHUIS
+ZANDVOORT
+Opening begin Mei
+LITTERATUUR EN HISTORIE
+Belanghebbenden in oude
+boekwerken Trage
+prijscatalogi aan te Amsterdam.
+löBO's BOEÏBnïHSTAHIIdöAlllliJlI
+90 UTRECHTSCHE8TBAAT.
+
+Levensverzekeringff m * L «.^
+ii III IJ B UI
+Maatschappelijk Kapitaal m MILLIOEN GULDEN
+Sltüt I.KVESH\EBZEKEBIKOEN en
+LIJFBKHTEH op by«onder gnnitige
+Ter»«kerlug»T*«rtrMurden tegen Beer BEE,I&lt;I JBUB FBGHÏH
+C." L.P VAN DER DONK
+DEN HAAG-AlleenWAGENSTRAAT41-43
+xxxxxxxxxxxxxxxxxxxxxxxxx
+
+THE RED STAR SODA WATER C'
+HIGH-CLASS MANUFACTURERS OF l n^nflM
+AERATED AND MINERAL WATERS tURUUW.
+Eenig Importeur: P. \. VER AAR Amsterdam
+AUTO'S
+voor toeren en in maandhuur
+LEVETtT NOG^ STEEDS
+de AUTOMOBIEL-EXPLOITATIE-MAATSCHAPPIJ
+GABR. METSÖSTRAAT 26 - AMSTERDAM - TEL. Z. 1197
+VRAAGT TARIEF!
+1
+Onderlinge Levensverzekering
+VAN
+HULP. =
+'s-Graienhage, Kortenaerkade 3. Tel, Haag 2297,
+Op l*October 1916 zijn belangrgk verlaagde tarieven
+ingevoerd, waarbij de volle winst aan de verzekerden
+blijft komen. Vraagt deze tarieven en gij zult Uwe
+Levensverzekering sluiten bij de O. L. v. E. H. - - •
+Cts SIGAAR
+MET
+ZANDBLAD
+SECRETARIS
+MET PRECIEUS
+VOR5TEN1ANDEN DEK
+
+</text>
+<image timestamp="2002:08:23:16:39:20.00" size="414461">D2002XG.TIF</image>
+</page>
+</document>

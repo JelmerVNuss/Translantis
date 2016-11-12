@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19140419</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+19 April '14. No. 1921
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+11
+De Fransche kroonpretendenten (Simplicissimus)
+Zedelijkheidsmanie in Duitschland (Lustige Blaffer)
+De Brltsche leeuw (Simplicissimus)
+De verzoeking van den Heiligen Zedelijkheidsrechter
+Beleefde Chineezen (Le Rire)
+Wat stinkt het weer uit Frankrijk. Ze schijnen onze
+akker goed gemest te hebben!
+
+
+De smart der herinnering (Simplicissimus)
+Als ik 's middags koffie drink, moet ik altijd aan mijn man
+zaliger denken.
+Hoezoo ?
+Nou, die dronk ook wel 's middags koffie.
+IIMIIIIMIIIIIIIIHIIIIIIlnlIllllnlIllllllllllllllllllllllnlIIIIIIIIIIMIMIIIIIIIIIIIMIIIIHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIltlllllllllllllllMIlll
+Of de beheerscher van de wereld thuis
+Het belangrijkste (Simplicissimus)
+DE TOLK : Hij wenscht u als begroeting toe, dat
+u tienduizend jaar moogt leven en dat uw vrouw u
+tienduizend maal tienduizend kinderen moge schenken.
+Zeg, weten ze nu eindelijk wat mevrouw Caillaux
+aanhad bij den aanslag?
+Schaakspel
+24e Jaargang 19 April 1914
+Redacteur: RUD. J. LOMAN
+36 Heathstreet, Hampstead, London N. W.
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+DE MATCH HOLLAND-ENGELAND
+Gespeeld in Pulchri-Studio te 's-Hage, U en
+13 April j.l.
+De Britten zijn hun woord gestand ge
+
+bleven en hebben hun nederlaag in 1912
+bloedig gewroken! Toen wij Donderdag
+
+avond 9 April 't Engelsche team te
+Londen uitgeleide deden, hadden wij reeds
+een voorgevoel dat de onzen 't ditmaal
+hard te verantwoorden zouden hebben. Alles
+wat den Engelschen de overwinning kon be
+
+zorgen was aanwezig: vastberadenheid en
+zelfvertrouwen en deze beide gewichtige
+factoren als uitvloeisel, niet van overmoed,
+maar van harde en aanhoudende training.
+Wij hebben niet alleen een heilzaam lesje
+in 't schaken gehad, maar deze match heeft
+tevens aan het licht gebracht dat onze
+overzeesche buren ook in andere opzichten onze
+meerderen zijn.
+'t Is velen, die deze match van nabij
+hebben gadegeslagen, opgevallen welk een
+zeldzaam contrast de beide teams te zien
+gaven. Terwijl de Hollanders zenuwachtig
+zaten te rooken en onophoudelijk hun borden
+verlieten om met de toeschouwers of met
+hun medestrijders de posities en kansen
+hunner partijen te bespreken of nerveus in
+'t lokaal heen en weer stapten, bleven de
+Engelschen, onbewegelijk als standbeelden,
+aanhoudend in hun spel verdiept. Zelfs in
+de meest kritieke posities liet hun
+zelfbeheersching hen geen oogenblik in den steek;
+of de tijd al spande, dat de toeschouwers
+de angst om 't hart sloeg, de stukken wer
+
+den met een kalmte verzet en 't kloklatje
+verschoven alsof men volop den tijd had.
+De stemming als men bij deze
+menschen nog van stemming kan spreken!
+bleef onder voor- en tegenspoed steeds de
+zelfde; noch van uitbundige vroolijkheid
+of overmoed na een meevaller, noch van
+misnoegdheid na tegenspoed was ooit iets te
+bespeuren, zij bleven tot vervelens toe steeds
+zich zelf gelijk. Een der omstanders merkte
+zeer terecht op dat de Hollanders hun ge
+
+voelens en hun zenuwen te weinig in bedwang
+hebben, de Engelschen daarentegen wel wat
+te veel!
+'t Valt echter niet te ontkennen dat een
+temperament als dat der Engelschen, hoe
+weinig amusant ook in den meer intiemen
+omgang, voor 't schaakspel en voor de sport
+in 't algemeen groote voordeelen met zich
+brengt.
+Een karakteriseerend verschijnsel is dat
+nagenoeg alle Engelsche voorvechters
+nietrookers en geheel-onthouders zijn; alleen de
+meer levendigen en spraakzamen van 't ge
+
+zelschap maken hierop een uitzondering.
+En nu over 't spel zelf: in dezelfde mate
+als wij in 1912 door de fortuin begunstigd
+werden, was zij thans tegen ons gekeerd.
+Yates en Thomas stonden in de eerste ronde
+beide op verlies en dankten hun winstpunten
+uitsluitend aan 't slechte en nonchalante spel
+hunner tegenstanders. Over 't algemeen ver
+
+ried 't spel der onzen een betreurenswaardig
+§ebrek aan routine en de afwezigheid van
+peijer, te Kolstéen Baudet maakte de deba
+
+cle onafwendbaar. Een nederlaag als deze
+heeft echter ook haar goede zijde; doordien
+zij ons de opgen opent voor velerlei tekort
+
+komingen, die voor verbetering vatbaar zijn.
+'t Treurige resultaat van 4 tegen 12 geeft
+geenszins de ware krachtsverhouding der
+beide teams weer. Wij zijn overtuigd dat
+de uitslag voor ons belangrijk gunstiger zou
+zijn geweest als onze matadors dezelfde
+gelegenheid tot onderlinge oefening hadden
+gehad als 't meerendeel der Engelschen. Om
+hierin verandering te brengen zal 't noodig
+zijn, dat vooral aan de veelbelovende jongere
+spelers want op hen is voornamelijk onze
+hoop gevestigd gelegenheid wordt ge
+
+schonken zich met de ouderen en meer
+geroutineerden te oefenen en hun krachten te
+stalen. Wedstrijden zooals indertijd de wel
+
+geslaagde vierkamp te Utrecht moeten
+en dan op meer uitgebreide schaal een
+vaste instelling worden. De bond en onze
+eerste spelers zullen goed doen met vereende
+krachten aan 't werk te gaan teneinde 't
+volgend jaar te Londen deze nederlaag te
+wreken.
+Hier-volgt de uitslag van den strijd:
+o~ o-sj
+. . OJ • •
+
+CU • E ' '
+o w b • J3
+c « ?= o
+W UQfc'&lt;:_
+t H d ^cé&gt; ai.
+l l l l l l l !
+OOOOOO—O-5JO
+
+
+
+
+
+•o
+B
+«
+• • s •
+• • s :
+•aöo :
+c «b .
+ca « .
+"• m B
+5-2g
+
+
+
+
+
+
+CO
+Cl
+O)
+o
+u.
+
+
+&gt;
+a
+&lt;! «j rt w
+.JOO
+E
+'3
+'S
+o
+u.
+, o
+o
+A
+CMco^m&lt;o
+rWij laten hier de partij volgen die door
+velen als de mooiste van deze match wordt
+beschouwd:
+d4 OPENING
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Wit
+L. Gans
+d4 Pf6
+c4 c5
+d5 g6
+Pc3 Rg7
+e4 d6
+Rd3 0-0
+Rd2 Pe8
+h4 h5
+Pge2 Pd7
+Pg3 Pe5
+Zwart
+J. H. Blackburne
+11. Re2 Pf6
+12. Dc2 Rd7
+13. 0—0-0 Tb8
+14. Tdfl a6
+15. f4 Peg4
+16. e5 de5:
+17. f5 b5
+18. b3 bc4:
+19. Rc4: Rb5
+20. fg6: Rc4:
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+gf7:f Tf7: 43. Tc3 Ta4
+bc4: e4 44. Ke5 Ta6
+Pge4 Pe4: 45. h5 Th6
+De4: Pf2 46. Th3 Kg7
+De2 Db6 47. Ta3: Th5:f
+Tf2: Db2f 48. Ke6 Th4
+Kdl Tf2: 49. Tc3 Kf8
+Df2: Rc3: 50. Kd7 Te4
+Dg3f Rg7 51. a4 Tel
+Ke2 Tb6 52. Ta3 e5
+Tfl Dd4 't Komt zeker niet
+Tf4 De5f vaak voor dat deze
+De3 De3:f zetzoolaatgeschiedt!
+Re3: Tb2f 53. de6:e.p.Tdlf
+Kf3 Rd4 54. Kc6 Ke7
+Te4 Re3: 55. a5 Td6f
+Te3: Kf7 56. Kc5: Ta6
+Te2 Tb4 57. Kb5 Ta8
+Tc2 a5 58. Kb6 Tc8
+g4 hg4:f 59. a6 Kd6
+Kg4: a4 60. c5f
+Kf5 a3 Zw. geeft op.
+Damspel
+MIUMIIININIIIIHIUIIIUIIIII
+lle Jaargang 19 April 1914
+Redacteur: J. DE HAAS
+Graaf Florisstraat 152, Amsterdam
+Verzoeke alle mededeelingen, deze rubriek
+betreffende, aan bovenstaand adres te richten.
+
+
+ONZE CURSUS
+De H e k s t a n d"
+Een typeslag van merkwaardige constructie
+en niet gemakkelijk voor het voorstellings
+
+vermogen. Het merkwaardigst is wel de
+stand, die o.i. geen zuivere hekstand" is.
+Bij den spelgang hierover nader.
+Wit
+Zwart
+1. 31-26 20-25
+2. 36-31 15-20
+3. 41-36 18-23
+Vroeger werd meermalen op deze wijze
+geopend, maar dan speelde men voor wit
+41-36 en zwart 10-15.
+4. 31-27 12-18
+5. 37-31 7-12
+Op zwart 20-24 volgt
+
+Wit 34-30 40:20 33-29 39:30 27-21 32^14
+Zwart 25:34 14:25 23:34 25:34 16:27
+
+6. 33-29 19-24
+Sterker is 1-7, om op 39-33 van wit met
+19-24 te antwoorden.
+7. 39-33
+De voorkeur verdient 46-31, 39:19 en
+42-37. Volgens Leclercq hebben wij hier een
+hekstand. O.i. is dit niet het geval. Het
+sluiten met 39-33 maakt den hekstand
+eenigszins onzuiver.
+7. 10-15
+Op 13-19 volgt
+Wit 35-30 27-21 31:15
+Zwart 24:35 16:27
+13-19
+8. 44-39
+9. 50-44
+Wit dreigt 35-30, 27-21, 31:24.
+9. 8-13?
+Fout! 9-13 was hier aangewezen.
+(Stand na den 9den zet van zwart)
+ZWART
+i
+
+C
+11
+
+Ib
+21
+
+2C
+
+31
+
+36
+
+41
+
+46
+
+f J
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+WIT
+10. 32-28 23:21
+11. 29-23 18:29
+12. 34:23 19:28
+13. 33:22 17:28
+14. 26:30 25:34
+15. 40:29
+Een fraaie verwikkeling, die wit een schijf
+winst brengt en een kansje op een tweede.
+De vooruitgeschoven voorpost op 28 dreigt
+gevaar veroverd te zullen worden.
+EEN VRAAGSTUKJE AAN DE PARTIJ
+ONTLEEND
+ZWART
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+31
+
+36
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+WIT
+Zwart 11 schijven op 6, 8, 9, 11, 13, 14,
+16, 19, 20, 21, 33.
+Wit 11 schijven op 22, 25, 28, 30, 32, 34,
+36/38, 43, 45.
+Bovenstaande stand is uit een partij, ge
+
+speeld tusschen de heeren E. Leclercq met
+wit en Jobert met zwart.
+Wit is aan den zet en wint.
+Een hoogst eenvoudige stand, zooals ze
+vaak in de partij voorkomen. Hoogstwaar
+
+schijnlijk is zwart's laatsten zet 15-20 geweest.
+Hoe wint wit nu?
+OPLOSSING VAN HET VRAAGSTUKJE
+
+Zwart 10 schijven op 6, 11, 13/16, 18, 20,
+23 29.
+Wit'10 schijven op 22, 26, 27, 31, 35, 36,
+39, 40, 43, 45.
+
+Wit Zwart
+1. 22-17 11:22
+2. 39-33 29:49
+3. 40-34 49:21
+4. 26:8
+imiimmillllMMIIimMlIIMIHIIIIIMIHIIIHMIIM
+
+Goede oplossingen ingezonden door O.
+Bos te Arnhem; Jb. v. d. Berg te
+OudBeierland: J. Oskam te Utrecht; H. R. O.
+Schlüter te Den Haag; G. de Weert te
+Valthermond.
+Onze trouwe oplosser D. v. N. te R. geeft
+het volgende spel aan, dat wel mogelijk,
+doch niet noodzakelijk is.
+j—J8-2 35-30? 2:20
+20-25 6-11 16-21 15:35
+D. N. zegt dan terecht, dat het spel remise
+is. Qoch 35-30 is in dit geval een zwakke
+zet, doch uit een en ander blijkt dat D. N.
+onderzocht of het eindspel gewonnen is.
+J. O. te U. Ik wist wel, dat u het zoudt
+vinden. Nogmaals 3-9 Is gespeeld. Het staat
+vlak boven het bewuste gedeelte. Speel het
+nog eens na en let maar goed op. Verder
+een prettige vacantie
+
+
+UIT DE PARTIJ
+ZWART
+l
+
+6
+
+11
+
+16
+
+21
+
+26
+
+31
+
+36
+
+41
+
+46
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+WIT
+Zwart 11 schijven op 2, 3, 6, 8, 14, 16/19,
+23 29
+Wit' 11 schijven op 27, 32, 34/40, 41, 43.
+Bovenstaande stand is uit een partij, ge
+
+speeld door den heer F. Carlebur uit Utrecht
+met zwart. Een bijzonder leerzaam stukje,
+want de stand is zeer actueel. Het is tegen
+
+woordig aan de orde, voor zwart een schijf
+te plaatsen op 29.
+Dergelijke standen zijn gevaarlijk voor
+beide spelers, met betrekking tot de
+vooruitgedrongen schijf. Zwart zou deze kunnen
+verliezen; geschiedt dit niet en blijft deze
+integendeel op 29 gehandhaafd, dan wordt
+zij een gevaar voor wit, daar zwart dan in
+het eindspel beter staat.
+In den diagramstand is wit aan den zet.
+Deze heeft geen anderen zet dan 35-30. Dat
+wit 39-33 of 34-30 niet spelen kon, zag deze
+wel. Ook dat op 37-31, zwart door 18-22,
+23:12, wit 34:23, zwart 19:46 winst behaalt.
+Wit meende, dat het volgende wel ging
+en speelde:
+1. 36-31
+Gij zult zien, dat ook deze zet niet opging.
+1. 18-22
+2. 27:18 23:12
+3. 34:23 19:28
+4. 32:23 12-18
+5. 23:21 16:47
+De heer Carlebur toonde ons den stand
+en slag. Wij staan er echter niet voor in,
+dat de stand geheel juist is. Wel de slag
+
+wending en daar komt het op aan.
+
+
+* * * .
+
+</text>
+<image timestamp="2002:08:20:17:15:49.00" size="593374">D4000185.TIF</image>
+</page>
+</document>

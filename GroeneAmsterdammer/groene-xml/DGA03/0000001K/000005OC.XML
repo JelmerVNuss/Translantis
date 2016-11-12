@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19250530</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+8
+DE GROENE AMSTERDAMMER, WEEKBLAD VOORJNEDERLAND
+No. 2503
+J. ». STRUTJTS «&amp; Zn.
+
+Prinsengracht 837 P. C. Hooftstraat 140
+TEL. 37906 TEL. 29950
+
+Begrafenissen - Crematie - Transporten
+ft
+BUSSINICs
+
+1HONKKOEK1
+» •*• j f
+munt in alle opzichten II
+uit. •
+Vraagt ze Uw winkelier IJ
+en let op den naam.
+9 A _ '_
+niimiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiii
+
+Zwitserland
+li MiUi
+
+IIMIIIIIUIIIIIIIIMinillllllllllll
+Moderne Kuurplaats in het Berner-Oberland
+
+
+GRAND HOTEL ALPINA
+
+1ste Rangs Fam. Hotel, het mooist in deze streek gelegen. Schitterend
+uitzicht op het Oletschergebied van Wildhorn, Oldenhorn, Diablerets.
+Centrum voor excursies. Tuin, Bosschen, Tennis. Pension vanaf ir. 12.—.
+
+Prosp. door den Eigenaar en Leider E.'BURRI—JAGGI.
+•y UW
+
+Zenuwen
+.komen
+tol_ rush en
+rworden gesterkt1!
+
+Mijnhardh
+' "enuw-teble^
+Glazen buisje
+cKpP
+Jcffi- ^
+AUén ecfil" met1 den haam
+Mijnhardt op de Verpakking
+Halter Sigaren
+iljn het meest gewild, om
+prijs en kwaliteit
+.A.via. Rijwielen
+I&gt;E BKSTK:
+J. DE JON9 &amp; ZONEN - A'DAM
+HiJEFOlM"
+Dir. E. Boerma
+HOIIIGEI AMSTERDAM
+Hairntr. 8 lokiiTO
+Dames- en
+MeerenK'.eedermakerij.
+.Ciupeun door hoi gohoili
+lind to ootbiodu".
+*«'
+
+*.**•
+^'
+1
+DROS
+BONBONS
+PASTILLES
+ClÜijcL welkom
+BEGRAFENISYEREENIGING
+
+N. SAX Jr.
+| P.C. Hooftslraat 38 AMSTERDAM Telef.: 20341, 24250 l
+IREGELING VAN BEGRAFENISSEN EN
+j CREMATIES VAN UIT ALLE PLAATSEN
+'EIGEN LIJKKOETSAUTOMOBIELENi
+ADR1AAM SCRAKEL
+HEILIGEWEG 11-17 - AMSTERDAM
+Overhemden, naar Maat
+Vervaardigd op eigen atelier
+BQ ons verkrijgbaar •—^—^
+N. R. V. n ONT A SCHOENEN
+MIET ALLEEN onze Mayonnaise-Bickles brengen de fijnproevers ir»
+verrukking; nog een ander nieuw artikel maakt thans grooten opgang,
+
+nl. onze Kerse -Limonadesiroop. LIEVEGOED's KERSEN
+
+
+LIMONADE wordt DE HEERLIJKE, VERFRISSCHENDE,
+
+NIEUWE ZOMERDRANK VAN 1925.
+BESTELT TIJDIG BIJ UW LEVERANCIER.
+
+N.V. DE HOUTTUINEN" AMSTERDAM
+STEENHOUWERIJ D. WEEGEWIJS
+RAPENBURG 14, AMSTERDAM - TEL. 42663
+
+MARMERWERKEN
+Koldewey &amp; Corbière
+Leidschestraat 3Q, Amsterdam
+MpmolmIHult in e
+Kinderbadkuipen, Badtafels, Baby Biscuits, linnwimanden.
+PDLLEM's Dode Genever
+Fijne Likeuren en Punch
+M. P, POLLEN A ZOOH - Rotterdam
+W, H. POLMAN TUIN
+Overtoom 526. Telefoon 29850.
+Begrafenissen Transporten. Crematies.
+B. 9. MULDERS
+TUINABCHITECT
+Badhuisweg 201 Den Haag Scheveningen
+Telefoon BO81O
+
+</text>
+<image timestamp="2002:09:03:12:24:18.00" size="143611">000005OC.TIF</image>
+</page>
+</document>

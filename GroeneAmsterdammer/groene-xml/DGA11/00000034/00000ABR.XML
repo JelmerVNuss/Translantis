@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320611</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 11 Juni 1932
+N o. 12871
+
+e.
+~
+
+
+il/"«
+
+K?,'
+fc
+
+BUENKORF
+AUTO-TRIPS
+
+NAAR HET
+HOORDERBAD
+
+ZANDVOORT
+Om U .in de gelegenheid ie stellen op weinig
+kostbare en uiterst geriefelijke manier te
+proftteeren van 't badleven in Zandvoort, organiseeren
+wij gedurende het bad-seizoen 3 X daags, ook
+'* Zondags. Auto-trip* per
+UNDBERGH TOURING-CAR
+naar het Noorderbad, met zijn vele attracties als:
+zonne- en zeebad, kinderspeelplaats, dancing, enz.
+
+
+DAG-ÏRlP'
+Xu
+1. P»r Lindbergh Touring-Car naar het Noor
+
+derbad Zandvoort en terug.
+
+2. Een zee- of zonnebad.
+3. Een ruststoel den geheelen dag.
+4. Gebruik van de kinderspeelplaats met vele
+
+attracties.
+5. Gelegenheid tot dansen.
+
+Kinderen onder 10 jaar, (zonder 4
+
+zeebad en stoel) .... l .
+Vertrek
+10 uur en
+13.30
+AVOND-TRIP
+1. Per Lindbergh Touring-Car van de BijenkoH
+naar het Noorderbad Zandvoort en terug.
+
+2. Een zeebad.
+3. Gelegenheid tot dansen.
+Vertrek Bijenkorf: 19 uur.
+Terug Bijenkorf: ca. 24 uur.
+
+
+
+KAARTVERKOOP:
+
+lederen werkdag tot 6 uur,
+
+'s Zaterdags tot 10 uur,
+
+In de bad-afd. van de Bijenkorf
+AMSTERDAM
+BEGRAFENISVEREENIGING
+
+
+N. SAX Jr.
+
+AMSTERDAM Z (Hoofdkantoor) BUSSUM (Bijkantoor v/h Gooi)
+P. C. Hooftstraat 38 Brinklaan 138
+Tal. 2O341 242CO ^•MM Telefoon 2275
+
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+N* V. Meubelmagasijn Eden"
+MOLSTEEG AMSTERDAM
+
+BOEKENKASTEN
+VERSCHENEN:
+GABBIËL SMIT WEERKLANK
+
+prijs cjecart. f 2.50
+TEUN DE VRIES VERZEN
+
+prijs gecart. f 2.50
+
+
+
+Verkrijgbaar bij icdercn goeden Boekhandel en bij
+
+de Uitgevers N.V. LEITER IVYPELS, Maastricht*
+
+JOBDEHU3
+GOEDKOOPE RETOURBILJETTEN flAAR
+
+
+LONDEN
+En DE VOORMAAM5TE L' M• E-R-5TAT1OM5 in
+ENGELAND £ SCHOTLAND
+VIA VLI55INGEM-HARWICH
+INLICHTINGEN EN GEUL. PROSP. BIJ DE REISB. EN ST. MIJ. ZEELAND, VUSSINGEN
+Zie den bon op pagina 3
+
+van het omslag
+
+</text>
+<image timestamp="2002:09:27:01:34:07.00" size="187170">00000ABR.TIF</image>
+</page>
+</document>

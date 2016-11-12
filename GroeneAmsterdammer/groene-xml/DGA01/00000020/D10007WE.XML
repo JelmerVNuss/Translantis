@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260904</Datum>
+<Pagina>1A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+CSAURHzn.
+HOFLEVERANCIER
+ROKIN 134 over de Ned. Bank
+Telefoon 40240, 49971
+Vischrestaurant
+en Vischhandel
+F. ZURCHER
+WTOHNAGEFABRIEKenDRUKKERIJ
+ARNHEM (Groote Markt)
+
+HOTEL DES PA YS-BAS
+KAMERS MET WARM EN KOUD STROOMEND WATER
+fcUNION"
+London, Ao 1714. Verzekering tegen
+
+INBRAAK-,
+WATERLEIDING- EN
+STORMSCHADE
+
+A. D. BEERENDS 6 VEEREN
+AMSTERDAM - LEEUWARDEN
+30 CENT PER HALF ONS
+Jaarbeurs Utrecht.
+Foto-, Projectie- en
+
+Kino-apparaten.
+Kamers 1011,1013 en 1015
+Ie tage (naast de inzending
+Ned. Koloniën).
+HET NEDERL. FOTO- EN
+KINO-TECHN. BUREAU"
+
+
+C A P l
+AMSTERDAM
+115 Kal ver straat.
+t/o LIBERTY
+N.V. Meutelmagazijn EDEN"
+MOLSTEEG-AMSTERDAM
+
+BOEKENKASTEN
+fiOEDEWAAGEN 'S
+KROONPIJPEN
+M GES1OTEN DOMEN
+VAN 6 STUKS
+ITIMTURJ
+1781 ^&lt;*~ 1926
+
+Hendrik Kruimel
+WijnKandelaar ,—• Amsterdam
+Kenïg opvolger van
+Schimmelpenninck óf Kruimel
+Kantoor: Keizersgracht 325
+
+Telefoon 40647
+Hllllllllllllllllllllll
+,
+Amsterdam:
+""Restaurant HOEK
+,, r .
+Oesters - Kreeft - Caviar
+M-KLOOSTERHUIS
+AMSTERDAM
+SNELBLUSSCHER
+
+- HOLLANDIA"
+ONS TOESTEL No. 10, GEPERST OP 25 ATM.,
+VOLDOET AAN DE EISCHEN DOOR
+H.H. ASSURADEUREN GESTELD, TER
+VERKRIJGING VAN KORTING OP DÉPREMIE.
+SPANJAARD 6 Co.
+FABRIEK ESPANA
+UTRECHT
+Meubelen naar eigen ontwerpen of naar oude sti)lea
+
+ARNOLD HOUTSCHILT
+
+Singel 285 Amsterdam
+w
+i5
+hall - marked
+superb
+SUPERB CIGAKETTES,
+SMOKING MDCTURE.DRBftflCCyPIPES.
+TD..
+LONDÖN,W.l.
+Qenève. HOTEL
+CHaTEAU. Gr. Tuin, Radio,
+Dancing. Pensionsprijs van af
+f 3.50. SPALEK, prop.
+M ONTREU X,
+het mooiste punt aan het Meer
+van Genève. GRAND HOTEL
+CLARENS. 100 bedden.
+Pensionspr. v. af f 4.-. Vr. prospectus.
+
+</text>
+<image timestamp="2002:09:26:02:26:04.00" size="167197">D10007WE.TIF</image>
+</page>
+</document>

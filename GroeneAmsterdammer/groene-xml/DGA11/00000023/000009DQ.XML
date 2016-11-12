@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300712</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+E GROEN E AMSTERDAMMER VAN 12 JULI 1930
+No. 2771
+J, D* STRUIJS &amp; Zn.
+Prinsengracht 837 ~ Telefoon 37906
+IEGWEIISSE» (naar VERKIEZING net RIITIIIGEN ol AUTO'S)
+CREMATIE. - TRANSPORTEN.
+N.V, Meubelmagazijn Eden0
+MOLSTEEG ~ AMSTERDAM
+BOEKENKASTEN
+BEGRAFENISVEREENIGING
+
+N. SAX ]r.
+P.G. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REG E LIN G VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN UJKKOETSAUTOMOBIELEN
+ADÈESSEEB ALLEEN:
+
+IN DEN S1LYEREM
+MOLENBEECKER"
+KALVERSTRAAT Atf*
+AMSTERDAM OU
+HOOGSTRAAT Af
+DEN HAAG Ol
+KAASSCHAAF
+met zilver handvat. Verkrijgbaar in
+6 verschillende uitvoeringen,
+'OLAD,FIL
+,PARELRAND,PUNTFILÉ, PUNT-GROEF (1028) EN
+PISTOOLHEFT
+Prijs f 6.50
+, Met IMIT. ANTIEK Handvat
+Prijs f 7.50
+Toezending door Nederland met
+30 cent verhooging.
+MET RECHT VAN TERUGGAVE
+ALS DEZE NIET AAN DE
+EISCHEN VOLDOET.
+Onmisbaar !n het Huishouden.
+G, J. DE KONINGSZOON
+Keizersgracht 447,
+Opgericht Ao. 1739
+
+WASCHTAFELS.
+onbons
+BITTER-ZOET
+Klein,maar
+even fyn.
+
+DE GROENE AMSTERDAMMER
+Weekblad voor Nederland
+kost slechts f 2.70 per kwartaal (fojo
+voor incassokosten) of ƒ 10.—per
+jaar bij vooruitbetaling
+flllllllllllllllllllllllllllllllllllffllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+NV
+Cnem.Kunstinrichting
+DirkSchndbei
+~ AmMerdam. *
+•lllllllllllllllllllUllllllllllllllllllllllllllillllllillilllllllllillllllllllllllilllllllllllllllllllillllill
+N.V. INSTRUMENTHANDEL SCHMEINK
+256 Spuistraat AMSTERDAM Telef. 4O200
+WANDELWAGENS
+ZELFBEWEGERS
+en
+ROLSTOELEN voor Invaliden
+VERPLEGINGSARTIKELEN.
+Koldewey &amp; Corbière
+Lcidschestraat 30 - Amsterdam
+Specialiteit in: Wiegen en Kinderledikanten
+ASPIBOMMEL:
+BOB^BINDER
+KERKSTRAAT 58
+AMSTB^AM
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:25:21:31:53.00" size="209857">000009DQ.TIF</image>
+</page>
+</document>

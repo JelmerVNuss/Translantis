@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19270528</Datum>
+<Pagina>17</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE GROENE AMSTERDAMMER VAN 28 MEI 1927
+17
+Radio Rubriek
+Aviatiek en Radio
+Meteorologie en RicHting^oeker
+door A. DUBOIS
+Directeur v. d. Ned. Sein(oesfellenfabriek
+De Grondstations.
+(Slot)
+De functie, die een grondstation
+heeft te vervullen is drievoudig.
+Allereerst moet het de schakel vormen
+tusschen de zich en route bevindende
+luchtvloot en de vliegvelden en,
+desgewenscht van daar via de plaatselijke
+telefoonlijnen naar elke gewenschte
+afdeeling van het aerodroom.
+In de tweede plaats moet het de
+verbinding onderhouden met andere
+langs de luchtlijn gelegen
+vliegterreinen, teneinde vertrek en aankomst
+der vliegtuigen, meteorologische be
+
+richten, enz. te kunnen doorgeven.
+En ten slotte moet het uitgerust zijn
+met een radio-peilstation om ten allen
+tyde en zoo noodig in samenwerking
+met andere grondstations, de positie
+te kunnen bepalen van elk vliegtuig,
+waarmede het in draadlooze communi
+
+catie is, hetzij radio-telegrafisch of
+-telefonisch.
+Teneinde de nadeelige en dikwijls
+zeer hinderlijke invloeden van mecha
+
+nische • of electrische geluiden van
+buitenaf te vermijden, dient zulk een
+radio-peilstation in een geheel vrij
+
+staand gebouw te worden onderge
+
+bracht. Want elk tijdverlies kan onder
+bepaalde omstandigheden tot nood
+
+lottige gevolgen leiden en daarom
+moet een zoo vlotte en rustig mogelijke
+afwikkeling van het radio-peil-verkeer
+met alle middelen te dienen be
+
+vorderd.
+De snelheid, waarmede berichten
+over en weer radio-telefonisch ge
+
+wisseld kunnen worden en de nood
+
+zakelijkheid van geoefend, betrouw
+
+baar radio-telegrafisch personeel, kun
+
+nen bij een behoorlijk geoutilleerde
+luchtvaart maatschappij niet worden
+gemist.
+
+Het Radio-vliegtuigstation
+
+Er zijn ettelijke types van
+radiovliegtuigstations, doch van alle wordt
+tenslotte hetzelfde gevergd, ergo
+vertoonen ze sterke principiëele onder
+
+linge gelijkenis,
+In het navolgende zal vrijwel uit
+
+sluitend sprake zijn van burger-vlieg
+
+tuigen, dus dat zijn die welke gebruikt
+worden voor het vervoer van passa
+
+giers, mail en goederen.
+Alle radio-vliegtuig-installaties wor
+
+den ontworpen met als grondprincipe:
+een zoo eenvoudig mogelijke bediening
+Voor de bediening dezer installaties,
+die door middel van een z.g.n. af
+
+standsbediening geschiedt, zijn noodig:
+uitschakelen van twee of drie
+omschakelaars b.v. om van ontvangen
+op zenden over te gaan, de afstemming
+AAN DE INZENDERS
+
+Alle Toor bet redactioneele gedeelte
+bestemde inzendingen moeten
+worden geadresseerd
+AAN HET SECRETARIAAT DER
+REDACTIE VAN
+
+DE GROENE AMSTERDAMMER"
+
+KEIZERSGRACHT 333
+AMSTERDAM,
+
+zonder vermelding ran persoonsnamen.
+bij te regelen van het ontvangtoestel
+en c.q. tot het aflezen van eenige
+stroom- en spanningmeters.
+In een vliegtuig van normale af
+
+metingen, waar de ruimte, den piloot
+toebedeeld, uit den aard der zaak niet
+anders dan zeer beperkt kan zijn,
+heeft dit samenstel het groote voordeel,
+dat de meerderheid der toestellen in
+elk mogelijk hoekje van het vliegtuig
+kan worden weggewerkt" en slechts
+meegevoerd, dan maakt de reeds
+genoemde controle-énheid het den
+piloot mogelijk, zelf de installatie te
+bedienen en te controleeren.
+Een standaard-radio-vliegtuig-in
+
+stallatie bestaat in hoofdzaak uit:
+1. Samengebouwde zender—ont
+
+vanger,
+2. Bowden controle,
+3. Microfoon,
+4. Hoofdtelefoon,
+5. Badio-telegraaf installatie, o.a.
+bevattend: seinsleutel, zoemer en
+geef-ontvang omschakelaar, (K.L.M.
+vliegtuigen hebben alleen
+radio-telefonie installaties; onze militaire vlieg
+
+tuigen hebben beiden).
+G. Generator met schroef,
+7. Accumulatoren batterij,
+8. Winch met luchtdraad en an
+
+tenne-kogel,
+9. Antenne-uitvoerbuis,
+10. Luchtdraad-amperemeter,
+MIJN FILM
+IN VERBINDING MET DE AARDE
+een zeer kleine z.g.n. Bowden con
+
+trole" dient in de onmiddellijke nabij
+
+heid van den piloot opgesteld te
+worden.
+Een standaard-type radio vliegtuig
+
+station is er speciaal op ingericht, voor
+militaire, zoowel als voor
+commercieele doeleinden te worden gebruikt.
+Zulk een installatie, zooals b.v. het
+type A.D. 6 van de Engelsche Marconi
+Mij. er een is, heeft een uitgebreid
+golfbereik, kan zoowel radio-tele
+
+grafisch als radio-telefonisch werken
+en met de grondstations een goede
+communicatie onderhouden over af
+
+standen van 180 a 360 K.M.
+Waar personeel en beschikbare
+ruimte zulks toelaten, kan de geheele.
+radio-vliegtuig installatie zoodanig
+worden gemonteerd, dat do telegrafist
+of waarnemer-telegrafist aUe uit te
+voeren manipulaties van zijn plaats af
+kan bewerkstelligen.
+Is de ruimte a] te zeer beperkt en
+wordt geen telegrafist of waarnemer
+11. Kabels, verbindingsstukken,
+elastische suspensie om de zend
+
+ontvang-kast veerend aan op te
+hangen.
+Het totaal gewicht van een com
+
+plete radio-vliegtuig-installatie is on
+
+geveer 70 K.G.
+De radio installaties op de K.L.M.
+vliegtuigen zijn eveneens geleverd door
+de Nederlandsche Seintoestellen Fa
+
+briek te Hilversum en geven alleszins
+bevredigende resultaten.
+Een gedetailleerde beschrijving van
+elk der onderdeden te geven, ligt niet
+in de lijn van dit opstel, dat slechts
+beoogt, even de aandacht te vragen
+voor een belangrijk en interessant
+onderdeel van een vliegdienst. Waar
+de radio in haar verschillende toe
+
+passingen zich in een zoo algemeene en
+warme belangstelling mag verheugen,
+hopen wij, dat aan een enkel woord
+over de radio ten dienste van de
+aviatiek een deel van die belang
+
+stelling te beurt mag vallen.
+\\T AT de wereld af en toe noodig:
+heeftt is een held niet een held
+van vijf en zestig, die acht kindereik
+heeft groot gebracht en trouw zijn
+belasting heeft betaald, of een onder
+
+zoeker, die zich uit curiositeit met het
+een of andere serum inspuit, omdat hij
+de werking niet op een ander levend
+wezen wil beproeven, en niet de win
+
+kelbediende, die na vier en zestig
+verschillende paren vleeschkleurige
+kousen ontvouwd te hebben, zonder
+een woord van verzet op zoek gaat
+naar nog een nuance'tje lichter, maar
+
+een zichtbare held, die in de
+stralendebundels der zoeklichten uit de onein
+
+digheid komt aanzweven, na honderd
+twintig duizend seconden te hebben
+vertoefd op die grens tusschen be
+
+staan en vernietiging, waar elke dier
+seconden hetzelfde noodlot van
+Nungesser en zijn voorgangers over hem.
+kon brengen. Een held met blonde
+haren en een kinderlijk gezicht, die
+een wereld in verrukking en de licht
+ontvlambare Pranschen tot waanzin
+brengt, zoodat zij hem van vereering
+bijna dooddrukten een lot dat de
+meeste helden eerst vél later over
+
+komt. En al mocht nu een sceptische
+Sjah van Perziëeenmaal zeggen: Ik
+weet wel dat het eene paard harder
+loopt dan andere," de wereld wil dat
+paard zien en den man die er boven op
+gezeten heeft. Het is het zielige ver
+
+langen uit den onromantischen staat
+waarin wij geboren, leven en gevild
+worden, iemand zich te zien ver
+
+heffen die vleugels heeft, en zijn levea
+op elegante wijze op de bascule zet
+niet zoo onschoon en alledaagsch, zoo
+
+als wij dat plegen te doen, met
+vervalschte levensmiddelen, Fordjes, fiet
+
+sen en onbewaakte overwegen. En al
+moge dan het beroep gevaarlijk zijru
+van held er zijn een aantal on
+
+schatbare voordeelen aan verbonden.
+Eenmaal held, blijft held zelfs
+een held der zee, al bevat het lot van
+onze helden der zee een waarschuwing,
+niet met redden op te houden, zoo lang
+er nog wat te redden valt. Voor den
+grootsten held heeft het iets merk
+
+waardigs, wanneer er onder zijn oogen
+en in het schijnsel zijner vele schitte
+
+rende eereteekenen, voor hem geloot
+en gecollecteerd wordt. Dat heeft
+Lindbergh begrepen en daarom vliegt
+hij straks naar de Philippijnen en
+Australië. Hoewel er een eind komt
+aan alles. Hij kan voor de
+veranderingnmaal terugvliegen, maar ten slotte
+is New-York New-York, om den
+aardbol heen, de limiet en dan wacht
+hem het gepensionneerd heidendom.
+Tenzij hem, zooals aan den as des as,
+RénéFonck, een plaats in de volks
+
+vertegenwoordiging wordt aangebo
+
+den. Maar een nori-stop-vlieger, i»
+nog geen non-stop-prater en het is du*.
+de vraag of men hem een dergelijk
+uiteinde als held wel mag
+toeweuschen.
+
+IOHAN L.
+
+</text>
+<image timestamp="2002:09:21:08:02:11.00" size="247019">D10006IA.TIF</image>
+</page>
+</document>

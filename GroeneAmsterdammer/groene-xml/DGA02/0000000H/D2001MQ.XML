@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19021207</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1328
+DE AMSTERDAMMER WEEKBLAD VOOR
+11
+!
+De Minister van Oorlog als Minister van Marine ad interim.
+
+Oud-Minister ELAND; »Ea nn hebben we immers de rempla^wten in het leger afgeschaft."
+Vervlogen zomers. (Life).
+Voorteekenen van verovering. (Il IkcMetto).
+
+dan zon het ernstig
+
+Een fries in de kamer van een ouden keer.
+Volmaakte overeenstemming. (Ld SUhouette).
+Pierpont Morgan, de nationale geldschieter.
+
+
+(Life).
+Voor jon en voor mij de koloaiöo, zeggen oom Edw*rd «n
+neef .Wilhelm tot elkaar, terwyl Carloa van PuHngal naar de brandkast
+«ut te staren.
+Marokko en de mogendheden. (Il FistMetto).
+Msroceo zal een tnoeie)j|k oogenblik doorbreng n, «mar in 't
+vuur der discussie kunnen de klappen wel eens rntn iet '
+«dres terechtkomen.
+
+</text>
+<image timestamp="2002:08:18:20:43:28.00" size="410916">D2001MQ.TIF</image>
+</page>
+</document>

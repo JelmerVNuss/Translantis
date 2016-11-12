@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>10</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Il ,1,
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2576
+SE.
+i
+
+N. F. VAN GELDER &amp; Co., AMSTERDAM.
+
+Hoofdmagazijnen: OUDSTE IMPORTHUIS Filiaal:
+PRINS HENDRIKKADE 25-27 VAN BAERLESTRAAT 40
+Telefoon 42997 en 34062. Telefoon 20668.
+WEDGWOOD SERVIES met Italiaaosche landschappen
+in ZWART, BLAUW of PURPER gedrukt:
+
+lalelservies	o5-oeelig J Io57,—•
+
+OntLijtservies	19 40,
+
+J. neeservies	lo 2o,50
+
+HET AANGEWEZEN ADRES VOOR A A N V U L L IN G S STU K K E N, óók al zijn de serviezen NIET
+door onze bemiddeling geleverd.
+VM •
+EÏJ*
+ii'
+
+të'
+BRAAKENSIEK EN ZIJN
+TYPEN
+DOOR H. J. M. WALENKAMP Cz.
+\\7 AT lk m Braaken9lek&gt;* werk het meest waardeer,
+vv is hst ongezochte, het natuurlijke, het doel
+
+treffende ervan,
+Hat beste bewijs voor de"*groote waarde dezer
+eigenschappen-is hierin gelegen, dat zijn werk, ondanks
+Storm en drang en de gestadige wisseling der mode,
+ook op illustratief gebied, het uithield en wat
+meer zegt het steeds blijft uithouden.
+Bovenal bewonder ik naast zijn politieke prenten
+Uijn talent, zijn vermogen tot het raak weer
+
+geven van de zoo onderscheiden typen uit het hél
+Kunstzaal VAN LIER
+naart bet Postkantoor te Lfcren (Jf.-H.)
+ANTIQUITEITEN OOSTERSCHE KUNST
+SCHILDERIJEN NEGERPLASTIEK
+gewone daaglijksch leven, en dat der Amsterdammers
+vooral. Onvergeeflijk, ondanks hun doodgewoonheid,
+zijn typen als: de aanspreker (kraai), de agent
+(smeris), de Piet de Kruier." Verder trekken in
+bonten stoet gedienstigen van allerlei slag en stand,
+(oude en jonge) dienstmeisjes, werksters,
+marktventers, schoenpoetsers, sleepies", orgeldraaiers, har
+
+monicaspelers, baliekluivers, kringetjesspuwers en
+allerlej straattypen in mijn herinnering voorbij.
+AI déze typen zijn onyergeetlijk, omdat ze zoo een
+
+voudig, zoo simpel, nuchter bijna, doch tevens ook
+zoo juist, geteekend zijn. Dit laatste prentte ze voor
+
+goed in mijn geheugen.
+Nooit ordinair, nooit grievend, nooit tot in hét
+belachelijke of onmenschelijke gechargeerd, zijn deze
+vele teekeningen eri schetsen neergeschreven; nim
+
+mer bitter, nimmer sarcastisch of kleineerend;
+steeds zonder innerlijk leedvermaak; altijd vol
+meeleven en vriendelijken humor; immer goedmoedig.
+cht menschelijk, zooals zij in 't daaglijksch leven
+werklijk zijn: levend hun leven van alle dag in lief
+en leed, in storm en zonneschijn.
+En wat de schepper ervan betreft: nog vele jaren
+van even sympathieken arbeid als tot heden worden
+hem van harte toegewenscht.
+NIEUWE DRUKKEN
+Moderne Aphorismen uit de interne kliniek, door
+A. F. SOER, arts te Rotterdam. Geschreven voor den
+practiseerenden geneesheer; met een voorwoord
+van prof. Dr. P. K. Pel. Eerste bundel. De dagelijks
+voorkomende belangrijke ziekten. Tweede, vermeer
+
+derde druk.
+L Rotterdam, W. L. en J. Brusse's Uitgevers Mij.
+
+Beginselen der handelskennis (organisatie en tech
+
+niek) ten dienste van den handel en inrichtingen voor
+handelsonderwijs, doof G. P. J. HOGEWEG, lid der
+firma Frese en Hogeweg, accountants te Amster
+
+dam. Vierde herziene druk.
+Wassenaar, N.V. Uitgevers Mij. v./h. G. Delwel.
+Vraagt steeds
+PATRIA BISCUITS
+VAN OUDS HET BESTE MERK
+Oranjeboom-Bieren
+STAAN BOVENAAN
+
+</text>
+<image timestamp="2002:09:26:06:00:01.00" size="185951">D100080A.TIF</image>
+</page>
+</document>

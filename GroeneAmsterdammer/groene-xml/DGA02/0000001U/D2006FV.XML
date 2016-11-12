@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271008</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+ket ideale kunstlicht
+moet ee^ sfeer scheppen:
+gezellig, intiem, en tegelijk
+toch ook zóó heldei zijn, dat
+U er zonder inspanning bij
+kunt lezen of schrijven.
+
+Philips Argenta
+
+met haar zacht, goed verspreid
+licht, beantwoordt hieraan
+volkomen.
+ARGENTA
+«BBiilufliuiiiHiiiiiiBiiiiMiiiiHiininiiiiiiiiiiiiiiiiiniiniiiiiiHiiiiiiniiiiiiHiniiiHiiniiiiniiiiiiiiininiiiniiiiiiiiniiiiiMii
+CENTRALE VERWARMING
+volgens elk systeem
+W ARMWATER VOORZIENING
+door middel van ketel, fornuis of gasapparaat
+FORNUIZEN
+ia alle afmetingen en uitvoeringen
+
+.HUNCK &amp; ZOON
+
+PA R A FEU
+VUUR^STAARDEWEWC
+HV.DEtPHIHX MAASTRICHT
+VERKOOP vw» HAARLEM EN OMSTREKER.
+toeaa.
+Hing William w
+SCOTS WHISKY
+VERTEGENWOORDIGD DOOR:
+N.V. HOOGEWERFF, CHABOT &amp; VISSER'S WIJNHANDEL
+DEN HAAG. ROTTERDAM. ARNHEM.
+Tel 42940 GRRR. FORMA Utrechtschestn 85
+
+WONINGINRICHTING
+Bijzondere aanbieding pluchette zware qualiteit
+voor overgordijnen in goud- en toopkleur,
+127 c.M. breed a f 2.85 per M., franco huis.
+Engelsch Plated (verzilverd)
+
+Groenteschalen
+Saucekommen
+Groentelepels
+Saucelepels
+Tafellepels en Vorken enz.
+Prijzen op aanvrage
+
+Arnhem - ZIJLSTRA &amp; RUPP
+Soeplepels
+Geen enkele TRIO sigaar
+verlaat onze fabrieken
+zonder driedubbele con
+
+trole op qualiteit, afwer
+
+king en verpakking.
+
+TRIO koopers mogen niet
+teleurgesteld worden.
+ui. m mmmi
+TRIO CULEMBORG.
+VOLMAAKT PRODUCT.
+der
+[Zwitsersche techniek
+
+ten tofd Aorfoge 60 den
+Jf IpilHI i«rfefteni»&lt;M»ril)*ers xljn te
+Acrftcnnen &lt;MH den rooden rfrjcltoelk
+Aug, Uilkema
+Grootste Hokken Mag.
+Modern . .
+Carillon. .
+Hall . . . .
+Zon . . . .
+lm. Antiek
+QueenAnne
+Marmer. .
+Bronzé. .
+Keuken . .
+Wekker . .
+Schaak . .
+f 1
+30 tot 60
+40 ,85
+,250
+,125
+,875
+, 150
+,350
+, 85
+, 16
+, 18
+, 10
+69
+15
+90
+75
+30
+16
+3
+2
+8
+Reguliersbreestraat 39
+AMSTERDAM
+Kraamverpleging
+
+door
+
+Prof. Dr. B. J. KOUWEF
+te Utrecht
+VIJFDE HERZIENE DRUK
+
+Met 12 gekleurde en
+195 zwarte figuren
+
+Prijs, gebonden . . f 6,9(
+Uitgave van ]. B. WOLTER!
+GRONINGEN DEN HAAC
+
+</text>
+<image timestamp="2002:09:25:23:16:16.00" size="183687">D2006FV.TIF</image>
+</page>
+</document>

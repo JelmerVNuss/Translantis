@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19301129</Datum>
+<Pagina>29</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N.V. v/h. GEBRS. MERENS
+H A A R L E M
+Filialen
+AMSTERDAM GRONINGEN
+Kromme Waal 22 Lutkenleuwstraat 29
+
+Echte Rubbervloer en Trapbedekking
+NTERSLIJTBUR -- DEMPT GELUID
+DE NIEUWE GEKLEURDE
+LUXE VULPENHOUDER
+m. l jaar schriftelijke garantie T^ï/
+
+The Queen Fountain Pen ons
+bekende merk, met l iaar
+schriftelijke garantie
+
+The Queen Dames Vulpen»
+h/mder in diverse kleuren
+
+ulpenhoudertjes
+in diverse kleuren ....
+
+Etui met vulpenhouder
+en potlood
+Alle bekende merken
+VULPENHOUDERS
+PARKER, WAHL, WATERMAN
+S WA N, MONT BLANC
+l VERKOOP IN DE L1CHTHAL
+
+EN 2e ETAGE
+Waterdichte dekkleeden
+te huur en te koop.
+Soepel - Barsten niet.
+O l i e g o e d
+uit voorraad.
+
+
+ZEI LI MCA
+AMSTERDAM
+Pr. Hendrikkade 120. Tel. 41709-4O717
+GEEFT HET
+ALLERBESTE
+Philips 2601, de
+combinatie van
+den beroemden
+Philips
+electrodynamischen
+luidspreker en
+toestel 2511, den
+overwjnnaarvan
+Londen, Praag,
+Sevilla, Wilna
+Philips 2811, de
+zeldzaam-geslaagde combi
+
+natie van radio,
+gramofoon en luidspreker in
+n luxueus stijlmeubel.
+Philips 2511, de Philips
+Triumphator, het toestel waaraan
+vorsten en andere
+vooraanstaande persoonlijkheden de
+voorkeur hebben gegeven.
+Wilt U Uw
+verwantt ten of vrienden wer
+
+kelijk iets bijzonders
+geven met St. N i co
+
+laas?
+Geeft dan een Philips
+2811, 2601 of 2511 en
+eiken dag opnieuw,
+jaren lang, zullen
+Uw keuze en Uw
+smaak gewaardeerd
+m DONDERS
+
+onder de ARABIEREN
+door C. F. VAN DAM
+met teeken, door IS.
+VAN MENS en ELCO
+TEN HARMSEN VAN
+BEEK
+
+f 2-, gebonden f 2.90
+Een kostelijk jongensboek ligt
+voor ons, dat wij met eanige
+aignaleeren omdat het afwijkt van
+het gewone genre, zeer vlot ge
+
+schreven is itjet veel fantasie en
+omdat het zich votkomen bij onzen
+tijd aanpast. Wij kunnen zonder
+aarzelen dit boek van Fred. Don
+
+ders aanbevelen. Hel draagt een
+cachet, dat vele jongensboeken
+missen (ffaagsche Crl.)
+In lederen goeden boekhandel verkrijgbaar.
+AMERSFOORT.
+MOBACO
+Zeer leerrijk ea oaderkovdead SpeeifM
+N.V. BOSCH, HONIG &amp;
+DOMSTRAAT 6 - UTRECHT
+Te DELFT verkrijgbaar bij: Wed. F.
+Helbers, Oude Kerkstraat 4, N. C. de
+Brieder, Voldersgracht.Kouwenhoven,
+Choorstr.36-38,J.N.Niesten,J.Gerritstr.
+In INDlE nrkriJrbMr M]:
+Toko Onderling Belang, Soerabaj».
+
+</text>
+<image timestamp="2002:09:22:10:07:51.00" size="265423">000008PU.TIF</image>
+</page>
+</document>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19271029</Datum>
+<Pagina>2A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+fit J
+
+UMVRAGEl
+CWES50
+pBET.r"
+BREED
+JME
+DNLE6V
+y\
+_&gt;HMMUARV6i'
+-'li
+^^^^2&amp;
+M.V.DC»MflHX MAASTRICI
+;« ••••-«•«••fc*'» «•• w«-i^ • »%•»&gt;%•» r»
+JJIIURIHAUS,
+Utrechtsche Assurantie-Mij.
+UTRECHT x Westerstraat 5
+Ziekte- en
+OngevallenVer z ekering en
+Sigaren?
+Natuurlijk
+
+•ïHid
+Beter dan alle andere.
+BELRAFEMI5 OnDERNEMING
+"SVT 6.KQMI M G. JrVftSS"1
+BELRAFtn'Mtf1N»MlAU.tFI.*ATSEN
+LRLMATIC
+Abonneert U op
+
+De Groene Amsterdammer
+55# scfatwn
+gén pijn meer en gén
+stukgaan of naschrijnen
+der huid. indien men vóór
+het inzeepen de
+baardoppervlakte inwrijft met
+een weinig
+PUROL
+'tvofdoet
+Doos 30 en 60, Tube 8 O et
+Bij Apoth.en Drogisten.
+^W
+//itttvi uitiuïtin
+AMSTERDAM
+DEN HAAG
+INDISCHE CATALOGUS
+FRANCO OP MNVRAGE
+
+N. V. Civiele en Militaire Kleermakerij
+DEKKER 6 DIJKSTRA VOORHEEN
+
+DE ERVEN H. VAN DIJK
+Leveranciers van Indische Uitrustingen
+UTRECHT, NIEUWE GRACHT 6.
+TELEFOON 3416.
+Door het geheele LAND te ontbieden
+Wl
+BAU'S OLIJF-OLIE
+Onontbeerlijk bij de bereiding van slaatjes,
+mayonaises, enz. in blikken van l en 15 kilo,
+Prijs voor particulieren f 2 en f 27.50
+Voor H JH. Winkeliers ruime verdiensten,
+IMPORTEURS:
+N.v. Hoogewerff, Chabot &amp; Vlsser's
+Wijnhandel
+DEN HAAG ROTTERDAM ARNHEM
+Van Straalcn Monsieur &amp; Erkelens
+
+WIJNHANDELAREN
+
+Rotterdam^ Leuvehaven 34
+
+Filialen DEN HAAG l Prima Kwaliteiten
+
+HELDER l Billijke Prijzen
+Nederl. octrooi 14473
+Engelsch octrooi 257514
+Oud beproefd
+Nederlandsch Fabrikaat
+vanaf f
+110.
+
+BECHT i
+
+DYSERINCK
+STADHOUDER SKADE
+80-81-82
+AMSTERDAM
+Abonneert U op: *» * »• M •«
+
+De Groene Amsterdammer
+
+</text>
+<image timestamp="2002:09:22:00:09:54.00" size="223213">D10006YM.TIF</image>
+</page>
+</document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19151010</Datum>
+<Pagina>14A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE MILITAIRE OPERATIES IN HET OOSTEN
+Nadruk verboden
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 10 October 1915
+- -i'
+* *f rrft * r *f.i f e^JÏVvTpv '•»,
+^;^^3j$fe\ i
+4"' v"' r-'
+-.. .'•""'^"'^fe^
+&lt; . • ; u %^ -o -t^t' s*
+.?' ..-.«s^ -&amp;*^i,,3
+FVsV.:*^';^. -f .
+2^.; '^n^ A^
+Amst. Boek- en Steendrukkerij, v/h. Ellerman, Harms &amp; Co
+Wedloop-met-hindernissen naar Konstantinopel
+
+</text>
+<image timestamp="2002:08:21:20:57:13.00" size="857243">D40001Z4.TIF</image>
+</page>
+</document>

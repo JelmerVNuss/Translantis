@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18950804</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Een lastig oogenblik voor koning Leopold.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 4 Augustus 1895.
+Amst. Boek- en S teendrukkerij, v/h. Ellerman, Harms &amp; Co.
+JEFKE: »Sire, wat een storm! Gooi dat schoolwetpak weg; dan wil ik met het andere wel wat
+helpen dragen, en dan kunt u oppassen, dat die kroon niet afwaait l"
+
+</text>
+<image timestamp="2002:08:20:20:52:30.00" size="543794">000003FB.TIF</image>
+</page>
+</document>

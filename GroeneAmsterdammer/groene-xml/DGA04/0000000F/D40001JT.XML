@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19141227</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van De Amsterdammer, Weekblad voor Nederland, van 27 December 1914.
+Nadruk verboden.
+KERSTLIED
+Woorden van Mr. H. W. VAN DER MEY
+Muziek van HENDRIK C. VAN OORT
+Fijn en innig te zingen
+
+
+. b
+^^LJT3~u r- r l 'i n
+
+
+/
+~o
+^M ^/
+/ •/?.//./
+
+l
+
+
+=2P
+f
+U'
+No. 6 van een cyclus van acht kerstliederen Christuskind", op woorden van H. W. VAN DER MEY, voor n-,
+
+twee- en drie vrouwen- of kinderstemmen, op muziek gezet door HENDRIK C. VAN OORT (op. 13 manuscript)
+
+</text>
+<image timestamp="2002:08:21:05:37:54.00" size="87036">D40001JT.TIF</image>
+</page>
+</document>

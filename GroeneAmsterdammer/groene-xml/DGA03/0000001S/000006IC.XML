@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19280428</Datum>
+<Pagina>12</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+12
+DE GROENE AMSTERDAMMER VAN 28'APRIL 1928
+No. 2656
+Zoo juist
+
+verschenen:
+CONCESSIES EN
+
+ERFPACHTEN
+TEN BEHOEVE VAN
+LANDBOUWONOERNEMINQFN IK
+DE BUITENGEWESTEN VAN
+NEDERLANDSCH INDI
+door
+Dr. J. G. W. LEKKERKERKER
+
+Prijs, gebonden . . . f 5,91
+Uitgave van J. B. WO L TE R S
+
+GRONINGEN DEN HAAG
+JAEGER
+Ondergoederen
+In div* kwaliteiten
+Zuiver Wol
+
+Half
+
+Gemengde
+Firma KRONER
+Nieowendijk 167, Amsterdam
+Pendules, Horloges,
+Stijlklokken, Wekkers,
+
+Barometers, Gouden en
+Zilveren Werken
+Grootste Sorteering
+Goedkoopste Prijzen
+
+RV. v/L Gebr, BREEN
+
+NIEUWENDIJK 172
+HAARLEMMERSTRAAT 64
+ROZENGRACHT 53
+
+Ateliers voor reparatiën aan
+Uurwerken, Goud en Zilver
+Bij EEN FILM
+Wanneer de lampen langhaam uit
+
+gegaan zijn en in het donker plot
+
+seling het witte doek helder wordt
+verlicht, wanneer gij U. er toe zet het
+wonderlijk boeiende leven mee te
+maken, dat zich daar zwijgend af'
+speelt onder de begeleiding van een
+vleiend zachte muziek, dan kunt gij
+voor de genoegclijkheid van Uw
+stemming geen betere versnapering
+bedenken dan de heerlijke Pinguïn
+Bonbons van Van Houten.
+Van Houten's Pinguin Bonbons geven
+iets bijzonder fijnsin een aardig doosje.
+
+
+VAN
+
+HOUTEN'S
+
+PINGUÏN
+
+(•Bonbons
+
+In drie verschillende assortimenten:
+Catalogi» Prijscouranten» Waardepapieren»
+
+Emissie circulaires en alle voorkomende
+
+Handelsdrukwerken worden spoedig
+
+en aceuraat uitgevoerd door
+
+Amst. Boek- en Steendr. v/h ELLERMAN, HARMS &amp; Co.,
+Warmoesstraat 147/151, Amsterdam. Telefoon 40396—41701.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+
+Specialiteit in: Wiegen en Kinderledikanten
+Voornaamste Kleedinqinrichtin
+op elk gebied
+
+</text>
+<image timestamp="2002:09:04:13:01:30.00" size="92033">000006IC.TIF</image>
+</page>
+</document>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331104</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+14
+De Groene Amsterdammer van 4 November 1933
+N o. 2944
+
+
+©»
+Oepl. Maatseh. Kap.
+waarop gestort
+BBSEBVES pl.m
+Directie: Mr. L. J.
+'AL'GEMEENE HYPOTHEEKBANK.
+Heerengracht 416 (C.)
+f 3'2n«'?S2-~" Pandbrieven en Hypotheken:
+.II iföt&amp;I PL m. ƒ
+29,500,000.van Toulon van der Koog Mr. K. S. van Kappen
+
+
+D.Oberink&amp;Co.
+«	INGENIEURS
+Amsterdam Prinsengracht 456 Telefoon 37452
+BLIKSEMAFLEIDERS
+AANLEG
+INSPECTIE ONDERHOUD
+LEVENSVERZEKERING
+Mij. ARNHEM"
+waarborgt U en Uw gezin een onbezorgde tpefc
+Hl BE HUILEMSCHE
+HYPOTHEEKBANK
+Leden dei directie: ^QM^ Mr. A. S. MIEDEMA,
+
+P. H. CRAANDIJK en A. E. TH1ËRRY DE BYE DOLLEMAN
+Pandbrieven f 40.313.850.
+Hypotheken f 40.333.266.
+Reserves . . f
+1.097.685.Breek den
+langen
+winter
+in twee ..!
+Tot Uw volgende zomervacantie is het een lange, lange tijd . . .
+
+Bijna een heel jaar van hard werken - van druk, druk bezig zijn
+
+totdat het eindelijk wér zomer wordt. Breek den langen winter toch
+
+in twee..! Maak een winter-vacantietocht met de K.N.S.M. Een
+heerlijk
+gezonde zeereis naar den zomer van zonnige, zuidelijke landen naar
+
+West-Indiëen Spaansch Amerika naar geluk en naar gezondheid!
+
+De passage-prijzen zijn buitengewoon aantrekkelijk gesteld.
+
+Voor inlichtingen tuende men zich tot de Koninklijke
+Nederlandsche Stoomboot Maatschappij N. V., Amster
+
+dam, hare agenten of de Passage- en Reisbureau*.
+K.N.S.M.
+N.V. Verzekering-Maatschappij
+
+
+MERCURIUS"
+•= OPGERICHT ANNO 1894 =
+
+AMSTERDAM, C. - KEIZERSGRACHT 570
+INBRAAK-, BRAND-, ONGEVALLEN-, EN WATERLEIDINGSCHADEVERZEKERING
+NVZUIDER
+HYPOTHEEKBANK
+4 i pCt
+Pandbrieven
+tegen 99V2 pCt.
+Directie:
+Mr. AUG. HEIJBROEK
+Mr. K. A. NEDERLOF
+N.Ï. Insulaire Hypotheekbank
+te ZIERIKZEE.
+Uitgifte van
+Pandbrieven a 99 %
+N.V. STANDAARD
+
+HYPOTHEEKBANK
+te ROTTERDAM
+Directie:
+Mr. H. H. C. CASTENDIJK en
+I. MOSSELMAN
+
+De Bank geeft onder controle van het
+Algem. Administratie- en Trustkantoor
+4V&gt;Vo Pandbr. tegen beurskoers uit.
+De Holl. Voorschotbank
+
+HAARLEM, KRUISWEG 70.
+De Bank verstrekt gelden tot elk
+bedrag met een minimum van
+f 1000.—op zakelijk onderpand
+en onder borgtocht, met in
+pandgeving eener polis van levens
+
+verzekering van gelijk bedrag,
+en verkoopt 6% schuldbrieven
+In stukken van f 1000—, f 500.
+en f 100.—tegen Beurskoers.
+
+</text>
+<image timestamp="2002:09:27:00:24:56.00" size="185934">D2006XH.TIF</image>
+</page>
+</document>

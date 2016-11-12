@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19110827</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+K*H 4
+'f.
+U E AMSTERDAMMER WEEKBLAD VOOR N P: D K R L A N D.
+No. 1783
+Een der mechanische wagens door AAbrecht Dürer ontworpen voor den
+Trlomphing d«s Kaisers Maximilian."
+Van Trapwagen tot Fiets.
+
+Ons kostelijk rijwiel heeft met de niet
+minder gezegende boekdrukkunst deze
+overeenkomst, dat drie natiën elkander de
+glorie der uitvinding betwisten. Enge
+
+land, Frankrijk en Duitschland hebben
+reeds beurteling belangrijke bewijsstuk
+
+ken aangebracht, om zich de eer der
+prioriteit te verzekeren, en nóg is het
+pleit niet beslecht, hoewel de onbevoor
+
+oordeelde kamprechter zal moeten ver
+
+klaren, dat Germanje in dezen
+prioriteitskamp sterk staat, want het kan o. a. een
+eren belangrijk als prachtig document
+overleggen in de reeks gravures uit
+het begin der 15e eeuw, die bekend zijn
+all Triumphzug des Kaisers Maximi
+
+lian" en die geruimen tjjd golden voor
+een werk van den schilder-graveur Hans
+Barckmair. Latere onderzoekingen echter
+hebben aan het licht gebracht, dat nie
+
+mand minder dan Albreoht Dürer bij
+het vervaardigen van deze platen
+Burkmairs ijverige medewerker is geweest.
+Van hem schijnen ook de
+vernuftigbedachte mechanische wagens
+herkomstig, die eenige bladen van het werk in
+beslag nemen, en die vier en een halve
+eeuw, voordat de fiets haar voorspoedige
+reis door de wereld begon, reeds aller
+verdienstelijkst op deze onschatbare uit
+
+vinding preludieerden. Dürer hield zich,
+gelijk men weet, gaarne bezig met mecha
+
+nische knutselarijen, en was een uit
+
+muntend wiskundige: men kan er zich
+dus geenszins over verbazen, dat hu zijn
+papieren uitvindingen het bewonderens
+
+waardige kunstwerk van den
+Triumpjizug" binnen smokkelde. Niet onmogelijk
+is het, dat zijn projecten velen aan het
+denken en berekenen hebben gebracht,
+en dat de lange keten van onvruchtbare
+uitvindingen, die aan den definitieven
+bouw van het rijwiel vooraf gingen, aan
+hem het initiatief danken.
+Tot deze uitvindingen zijn o. a. te
+rekenen het bekende lammenwagentje
+van Stephan Farler (1633), dat in de
+Straatsburger bibliotheek bewaard wordt;
+een wagen, die in 1504 in Pirna bij
+Dresden zou rijden, maar ia den modder
+steken bleef; de trapwagen van Ozanam,
+een fransche uitvinding, die op 't laatst
+der 17e eeuw te Parijs opzien baarde,
+en meer anderen, waarover nu en dan
+in tijdsehriften en dagbladen berichtjes
+voorkwamen. Zoo wordt ons o.m. in
+De Natuur" van 1888 verteld, dat de
+bekende luchtreiziger Blanehard in 1780
+proeven nam met een soort rijwiel, maar
+met gering gevolg.
+Ook ons eigen goede Holland contri
+
+bueerde san deze mechanische preeven.
+In den Vrede-Courier" van 1732 wordt
+het volgende spottende berichtje aange
+
+troffen, dat bezwaarlijk op iets anders
+betrekking kan hebben dan op een
+soort fiets:
+Den lezer moet weten, dat er een
+machien-wagentje te Leiden te koop is,
+daar men een paar hardloopers bij kan
+uitwinnen, alzo het rijtuig vanzelf,door
+middel van zeker rad, een ordinairen draf
+gtat... De actie's der paardenkoopers
+staan daardoor niet weinig te dalen.
+Als men nu aan onze trekschuiten ook
+zoodanig een machien kan verzinnen,
+weg dan met de knollen!"
+En uit De Stichtsche Courant" van
+25 Sept. 1795 d nikt een niet minder
+verrassende mededeeling op:
+Gédunrende de kermis zal op de
+boter mark t te Amsterdam in een tent
+te zien zijn een mechanicq rijtuig, waar
+
+van de weerga nooit is te zien geweest;
+het zelve wordt gereden zonder paarden,
+hard en langzaam na verkiezing van den
+rijder; ook zal men aldaar vertooneneen
+armstoel, zeer kunstig gemaakt voor
+lieden, die niet gaan kunnen, welke met
+dezelve zonder adsistentie van de eene
+kamer in de andere kunnen rijden.
+De prijs is voor ieder persoon zes
+stuyvers."
+Dit alles is echter slechts aangenaam
+en geestig preludiëeren (ik zeide het
+reeds) op de toekomstige groote gebeurte
+
+nissen. Men meende dat deze gekomen
+waren omstreeks 1816, want het eerste
+bedenksel van dien aard, of juister gezegd
+van dezelfde strekking de aard toch was
+een geheel andere dat eenschitterend,
+ofschoon kort, succes had, was de zooge
+
+naamde Draisine", ook wel Dandy
+Horse" genoemd, het schop-
+en-traprijtaigje, dat uitgevonden werd door den
+Mannheimer Forstmeister Carl Friedrich
+Christian Ludwig Freiherr Drais von
+Sauerbronn. Het moet nog deze
+tweewieler geweest ZÜB, waarvan De School
+
+meester" zong:
+
+Ik meen een velocipede op twee wielen,
+Je etuurt met je handschoenen en je duwt
+met je hielen
+En je zweet ala een koetspaard. want't gaat
+ongemakkelijk gauw
+
+en 't prentje, dat Anthon de Vries boven
+dit vers toekende, een gewone tweewielige
+fiets, is uit een .historisch oogpunt beden
+
+kelijk. De schrijver Gerrit ran der Linde
+JZD. stierf namelijk in 1858, en de wereld
+had toen nog araper andere
+rijwielen aanschouwd dan de
+Draismes". Eerst in 1867
+werden de eerste rijwielen
+met pedalen op de Parijsche
+Expositie tentoongesteld.
+Von Drais zou deze mis
+
+kenning van zijn uitvinders
+
+waarde gevoeld hebben, want
+hij was een zeer ijdel man, en
+van al zijn droevige lotge
+
+vallen heeft hem vermoedelijk
+wel geen zoo zwaar getroffen,
+dan dat hij lang genoeg leefde
+om den roem van zijn uit
+
+vinding, die hevig maar kort
+was, te zien tanen. Von Drais
+werd den 29sten April 1785
+te Karlsruhe geboren. Zijn
+vader voerde den titel van
+Hof- und Regierungsrath, en
+ook hijzelf kwam jong al in
+vorstelijken dienst, werd
+Jagdjunker (1804), Hofjunker
+(1806), Kammerjunker (1808),
+legde in 1807 het examen
+voor boschbouw af, werd einde
+1808 Forstinspektor in Gengenbach,
+ver' volgens in Schüttern, en in 1810 Forst
+
+meister in Mannheim.
+Deze snelle carrière was gewisselijk
+niet alleen te danken aan zijn hooge
+geboorte, want de nakomelingschap mag
+hem den lof
+niet onthou
+
+den, dat hu
+een zeer ver
+
+nuftig man
+was. Hij
+schijnt zijn
+ambtsplicht
+wel min of
+meer ver
+
+waarloosd te
+hebben om
+zijn mecha
+
+nische
+liefEen wielerwedstrijd in Dni'schland in bet begin van de 19e eeuw.
+hebberijen. Hij ving zijn uitvindingen
+aan met het construeeren van een
+vierwieligen meohanischen wagen, waarop
+hij geen patent kon krijgen, omdat het
+een navolging was van vele andere uit
+
+vindingen zonder praktisch nut in dit
+genre. Toen kwam hij 3l/2 jaar later met
+zijn schop- en trapmachine, waarvan nog
+twee exemplaren, deor hem zelf ver
+
+vaardigd, worden aangetroffen in de
+musea te Mannheim en te Nürnberg. De
+geleerde wereld nam het bedenken van
+deze zeer simpele uitvinding, dit ei
+van Columbus", zeer hoog op. Verschil
+
+lende geleerde gezelschappen boden Von
+Drais het eerelidmaatschap aan, en de
+Groothertog van Baden benoemde hem tot
+Kamerheer. Deze laatste onderscheiding
+vooral greep hem diep in 't gemoed/en
+hij werd zelden anders gezien in later
+jaren, toen men hem reeds begon te ver
+
+geten, dan in den gegalonneerden rok,
+die het teeken zijner waardigheid was.
+Hij had intusschen in 1818 ontslag ge
+
+nomen uit zij n betrekking, maakte groote
+reizen, verkwistte veel geld, en wijdde
+zich vervolgens met koort si gen ijver aan
+allerlei uitvindingen zonder slot of zin.
+Zeer interessant is het intusschen, dat
+hij ook een schrijfmachine uitvond. Ik
+heb van dien voorlooper onzer type writers
+S een beschrijving ge ronden,en weet allén
+et opmerkenswaardige feit. Droevig was
+Von Drais'einde Daa270ctober 1835 werd
+hij te Mannheim in een twist gewikkeld
+met een kunstrijder, het hof te Karlsruhe
+vernam dat hij zich bij dit dronkemans
+
+relletje in zijn uniform van Kamerheer
+.Dandy Horse", een uit staal gebouwde Engelsche navolging
+van de loop wagen van Von Drais.
+vertoond had, en ontnam hem bij besluit
+van 5 Nov. 1835 dezen dierbaren titel. Hij
+trok zich dit voorval geducht aan, verloor
+steeds meer zijn geestelijk evenwicht,
+werd een straatfiguur, die door de kinderen
+werd nagej ouwd, en stierf eenzaam, ver
+
+geten en verlaten den l Oen December 1851
+te Karlsruhe, op den leeftijd dus van 66
+jaren. De Radfahrerbnnd" wijdde hen
+.den 24en September 1893 een monument.
+Meer nog dan in Duitschland maakte
+de Draisine opgang in Frankrijk en in
+Engeland. Reeds tijdens bet eerste Keizer
+
+rijk hadden er in Parijs wedstrijden plaats
+op D&lt;indy Horses1', en zelfs dames be
+
+wogen zich op Draia' loopwagen. In
+Engeland verbeterde men het wagentje
+belangrijk door ia plaats van zware
+houten machines, rijtuigjes van lichter
+en dunner staal te maken. Nïet zoo lang
+
+zaam als men zou meenen waren de
+loopmachines: volgens de Navorscher"
+van 1886 vindt men in de Amusements
+de la Campagne van Pauline D
+aormeaux de mededeeling, dat op de Draisine
+acht mijlen in drie uur" werden afge
+
+legd, en in de Affiches de Dyon" heeft
+dezelfde snuffelaar opgedoken, dat den
+25sn Augustus 1818 door een zekeren
+mecanicien Lagragoe op zijn Draisienne"
+van Beaume naar Dyon werd gereden:
+een afstand van 7 mijlen in 21/:&gt; uur.
+De beweging moet nochtans zeer ver
+
+moeiend zijn geweest, en dit is vermoe
+
+delijk ook de reden, dat het vuurwerk
+van het succes zoo spoedig bluechte.
+Nederland deed ook, hoewel met minder
+geestdrift, aan de beweging mede. De
+bekende C. Kramm, de biograaf onzer
+schilders, vertelt in de Navorscher" van
+1869: Zoowat 45 jaar geleden, kwam er
+geregeld tweemalen per week een lid van
+het Broederhuis" te Zeist, Linkwitz
+genaamd, een kunstdraaier aldaar, naar
+Utrecht; het is algemeen be
+
+kend, dat hij den tocht met
+een velocipede aflegde, en dat
+er toen verschillende jonge
+lieden zich ia dien
+tussohentijd in de Maliebaan op dat
+rijtuig afmatten. Nochtans
+zou Von Drais en «ij n uit
+
+vinding door de nakomeling
+
+schap geheel vergeten zijn,
+indien niet een verblijdend
+toeval zijn gebrekkig werk
+
+tuig tot iets anders en iets
+beters had gemaakt. En aan
+de uitvinding, welke het rij
+
+wiel op het pad der volmaking
+voerde, hechtte men in 't be
+
+gin nog zoo weinig waarde,
+dat jaren verliepen eer men
+den naam des uitvinders kende.
+De romantiek had zich al
+dadelijk van het terrein mees
+
+ter gemaakt en de gebeurtenis
+met legenden omsponnen. In
+vele dag- en weekbladen heeft
+men omtrent 1869 de diep
+
+tragische historie kunnen lezen
+van een zekeren Achilles Vivos uit
+Picardie, die geruimen tijd werkman was op
+een fabriek van elastieke kousen te
+Parijs. Hij sufte en peinsde op zijn
+uitvinding met zulk een ambitie, dat hij
+het werk bij zijn patroon veronachtzaamde,
+en zijn ont
+
+slag kreeg.
+HU leefdetoen
+geruimen tijd
+van slechts
+twee stuivers
+brood per dag,
+piekerde in
+
+tusschen maar
+steeds op zijn
+geniaal be
+
+denksel, dat
+hij geheel met
+
+eenoudbroodEen driedelige damesfiets met tree-planken
+nit 1819.
+mes vervaardigde. Hij kon zijn mees
+
+terstuk nochtans niet voltooien... het
+ontbrak hem aan de somma van 5
+francs om hoepels voor da wielen te
+koopen, en die waren nog altijd niet bij
+elkander, toen hij in 1866 in een zieken
+
+huis te Parijs werd opgenomen, waar hij
+van uitputting en ellende stierf. Dit ver
+
+haal was vermoedelijk slechts een fraai
+verzonnen sprookje: groote inventies
+hullen zich steeds in den sluier der
+legende. Ongeveer 10 jaar n.l. voordat
+deze hyperromantische Vivos aan de
+t e vol gen van zijn uitvinding overleed, had
+e Parijsche wagenmaker Michaux de
+velocipede reeds van een krukas en
+trappers voorzien. Een Draisine, welke
+hem ter reparatie gegeven werd, bracht
+hem op den goeden inval om op het
+voorwiel hefbpomen aan te brengen; ge
+
+lijk hij ze bij de stoommachines had
+opgemerkt. Bijna gelijktijdig kwam een
+ander knutselaar Lallemand op dezelfde
+gedachte.Naderhand vereenigdenzich deze
+beiden tot een koopmanschap, en werden
+de eerte fietsenfabrikanten. Michaux
+kreeg evenals Drais een standbeeld. En
+nochtans rijst de vraag of de fiets wel
+ooit in den werkelijken zin uitgevonden
+en niet veeleer, langza»m-aan, uit allerlei
+kleine uitvindingen gegroeid is. Zeer talrij k
+z^jn in 't begin der 19e eeuw de proeven,
+die genomen werden. Reeds in 1810
+had men driewielers met zoogenaamde
+tree-planken, en ook hier in Nederland
+werd reeds in 1840 een voorlooper van
+het rijwiel aangetroffen. In De
+Navorscher" van 1870 lees ik: Dat de zooge
+
+naamde houten paarden" de voorloopers
+zijn geweest der velocipedes is buiten
+twijfel. In 1840 of vroeger zag men
+op de tentoonstelling van nijverheid te
+Zwolle een houten paard op wieltjes
+vóór en achter, dat met de voeten moest
+bewogen worden, waarmede een jongeling
+uit Hengelo (Twente) naar Zwolle ge
+
+reden was. Een dergelijk paard zag ik
+ook meermalen op den hoogen
+Bemmelschen dijk heen en weer rijden, totdat
+het door den burgemeester strengelijk
+verboden werd, d* ar de levende paarden
+er bang voor waren."
+De uitvinding van het rijwiel zat in
+die dagen in de lucht, en dat ze er in
+Frankrijk het eerst uitkwam, was een toe
+
+val. Ten slotte kreeg ze toch ook pas groote
+praktische beteekenis met de vervaardi
+
+ging der veiligheidswielers, een Engelsche
+inventie. De drie groote rijken kunnen
+dus de eer der schepping van het rijwiel
+deelen: Duitschland met Dürer en Von
+Drais had de prioriteit, Frankrijk met
+Michaux-Lallemand bracht het groote
+bewegings-principe, Engeland gaf de vol
+
+making van 't schoone begin met Starley
+and Suttons Rover": een fraaie trits, die
+de dankbare wielrijderswereld in eere
+mag houden.
+J. D. C. VAN D«KKUM.
+De toekomst der Draisine" volgens een caricatuur van den Engelschen humorist CruickshaEk.
+Een tandem voor onze overgrootouders.
+Caricatuur uit het begin der 19a eeuw.
+
+</text>
+<image timestamp="2002:08:25:17:35:41.00" size="523767">0000051S.TIF</image>
+</page>
+</document>

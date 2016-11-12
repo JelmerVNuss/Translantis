@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19220916</Datum>
+<Pagina>6</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+16 Sept. '22. No. 2360
+DOCTOR HONORIS CAUSA
+JAC. P. THIJSSE
+'t Is weldra vijf-en-twintig jaar geleden, dat
+ik kennis maakte met den man, wien straks
+honoris causa de doctorsbul gereikt zal wor
+
+den; die oude relatie en de groote sympathie,
+ik mag wel zeggen, vereering, -- die ik
+voor het streven en werken van Thijsse gevoel,
+geven me den moed aan het vriendelijk verzoek
+der redactie te voldoen, een enkel woord te
+voegen bij zijn conterfeitsel.
+Toen, voor enkele maanden, het besluit be
+
+kend werd, dat de Amsterdamsche Universiteit
+hem het eeredoctoraat in September zou
+verleenen, is door velen op zijn groote verdiensten
+ten opzichte der Natuurlijke Historie gewezen.
+Mij moge het vergund zijn hier te vertellen,
+wat hij voor ons, ouderen, geweest is, toen hij
+met Heimans en Jaspers de Levende Natuur
+oprichtte en met eerstgenoemde de serie boek
+
+jes Van Vlinders, Bloemen en Vogels" het
+licht deed zien, om daaraan enkele herinnerin
+
+gen en indrukken vast te knoopen over zijn
+werk en leven, die een beeld mogen vormen
+van wat hij zijn mcdeinensclien wilde geven.
+Wanneer je in het begin der negentiger
+jaren in een sjofel pakje met een plantenbus
+op je rug en een tooneelkijker aan een touwtje
+om je hals, vol van al het heerlijke, dat je
+genoten had in bosch en heide, in plas en moe
+
+ras, weer in de bewoonde wereld terugkeerde,
+keek de eene helft der inciischheid je meewarig
+aan en de andere deed dat niet eens, maar
+beschouwde je als een goedaardigen dwaas.
+Je schaamde je dan wel een beetje n twijfelde
+wel eens, of hetgeen je zoo'n echt en groot
+genot verschafte, inderdaad de moeite waard
+was, er zooveel werk en tijd aan te besteden.
+Want zoo gemakkelijk als tegenwoordig was
+toen de Natuurstudie niet; geïllustreerde
+flora's en goede vogelboeken waren voor een
+gewoon mensch onbereikbaar en, wat er van
+dergelijke boeken betaalbaar was, veel geleer
+
+der en ingewikkelder dan thans.
+Als een revelatie kwamen toen de eerste
+afleveringen der Levende Natuur. Daar waren
+de bloemen en vogels, de vlinders en bijen, de
+kikkers en salamanders, en wat daar verder
+kruipt en loopt, vliegt en zwemt, geteekend en
+beschreven naar het leven. Als vroeger werden
+anatomische en inorphologische kenmerken
+nauwkeurig nagegaan, maar niet als op zich
+
+zelf staande verschijnselen beschouwd; altijd
+weer werd gewezen op het verband met de
+levensuitingen van het behandelde individu.
+Niet meer een droge opsomming van feiten
+was 't, maar een levendig, soms geestig ver
+
+haal van plant of dier: cte biologie werd ons
+in .den onderhoudendsten vorm geschonken.
+Vraagstukken werden zóbehandeld, dat het
+prikkelde tot onderzoek en nagaan van het
+geschrevene. Daarenboven was het alles zoo
+gezellig en huiselijk, dat ook jonge en onerva
+
+ren natuuronderzoekers met hun vragen en
+vondsten durfden komen, waardoor menige
+anders nooit gepubliceerde merkwaardigheid
+of noviteit op natuurhistorisch gebied bekend
+werd.
+fc.En dat alles gebeurde met een enthousiasme
+voor al het mooie er in, een liefde voor al wat
+leeft, een diep gevoel voor de natuur in al haar
+openbaringen, dat je er warm van werd om ie
+hart !
+De eerste ontmoeting met Heimans en
+Thijsse was dan ook een gebeurtenis, een feest
+en, wat hun geschriften beloofden, werd nog
+overtroffen bij nadere kennismaking. Wat een
+geestdrift, wat een plannen en wat een heerlijk
+optimisme !
+Na een wandeling met die beiden was er
+van schaamte over plantenbus en gevoelens
+geen sprake meer. Integendeel: je liep",
+zooals Thijsse eens schreef, in je verschoten
+kleeren zoo rustig over de wereld heen met
+groote, blinkende oogen en een hoogmoedig
+gezicht, net of je Engelsen kende en bij Emer
+
+son gelezen had: ,, Oive me health and a
+day and l will make the pomp of emperors
+ridiculous" ". Blijdschap vervulde je hart,
+dat wat zooveel vreugde en genot je schonk,
+weerklank vond bij zulke frissche, vroolijke en
+verstandige menschen. Zoo knap als
+lateiwaren zij nog niet; Heimans was er juist achter
+hoe een roodborstje zong, en een hoomklever
+was een onbekende grootheid voor hem;
+een bosch met aronskelken, sleutelbloemen,
+gulden boterbloemen en bosch weden k, een
+beek jemetgoud veil en springbalsa inlenen waren
+voor beiden ongekende heerlijkheden. In hoeveel
+strophen ontleedden we het lied van den
+winterkoning en welke hypothesen werden er
+vastgeknoopt aan 'net al of niet gevlekt zijn
+van het Aronskelkschutblad !
+• Voor ons, die al aan natuurstudie deden,
+was hun optredeneen vervulling. Voor hoevelen
+is het toen en later een opwekking geworden,
+die zoo krachtig doorwerkte, dat na luttele jaren
+een menigce van biologische studenten naar
+onze universiteiten stroomde. Leek de drang
+zelfs niet zógroot te worden, dat Prof. Hugo
+de Vries meende een waarschuwend woord te
+moeten doen hooren in de Levende Natuur?
+If- Voor hen moet dat echter een groote voldoe
+
+ning geweest zijn, zóhun belangeloozen arbeid
+succes te zien hebben. Onverdroten bleven zij
+doorgaan ent usschen al het werk i n de Levende
+Natuur kwam de serie boekjes Van Vlinders,
+Bloemen en Vogels" uit, waarin zoo knap van
+liet eenvoudige opgeklommen werd naar he.t
+meer gecompliceerde, terwijl bovendien de
+geïllustreerde flora met haar duizenden
+tekstfiguurtjes en nieuwe methode van
+determineeren tot stand kwam. Dit alles moest gebeuren
+in den vrijen tijd, dien de school hun liet en
+zag in vijf jaren tijds het licht. Intusschen
+hadden beiden zich meer gespecialiseerd en
+het is te begrijpen, dat Hei mans met zijn ster
+
+ke verbeeldingskracht zich aangetrokken ge
+
+voelde tot de geologie met haar geweldige om
+
+wentelingen en perioden en Thijsse's levendige
+geest e-n vlugge opmerkingsgave geboeid wer
+
+den door de vogels, /elf een en al activiteit
+en brio.
+Van deze studie was Het vogeljaar" de
+eerste vrucht en voor wie /onder geweer !
+onze gewone Nederlandsche vogels willen
+leeren kennen, bestaat geen beter boek. hnkele
+jaren later volgde Het intieme Leven der
+Vogels". Wat in zijn artikelen over vogels in
+de Levende Natuur en in het Vogeljaar reeds
+zoo bekoorde, de frissche, liefdevolle,dikwijls
+humoristische wijze van beschrijven, kwam in
+deze uitgebreidere schetsen nog beter tot uiting.
+Lees nog eens die teere, innigdoorvoelde be
+
+schrijving van het fitislied in het ontluikende
+berkenbosch of die fijnspottende vergelijking
+bij het behandelen van nut en schade van den
+merel en gij zult erkennen dat weinigen i n bin
+
+nen- of buitenland hem daar evenaren.
+Voor mij is dit het boek, waarin men het
+diepst beseft, hoeveel hij w n de vogels in hun
+vroolijk en onbezorgd bestaan houdt ; hier
+spreekt het duidelijkst zijn sentiment, zonder
+dat er ooit van sentimentaliteit sprake is. De
+echte vogel beschermer is hieraan 't woord, die
+niet alleen de lieve, aardige en mooi zingende
+Teekening voor ,,dc Amsterdammer" van Bernard van Vlijmen
+Doclor honoris causa JAC. P. THIJSSE
+
+vogels liefheeft, maar rek den spei wer/ijn buil waartoe wij maar al ie va;.k geneigd zijn.
+gunt en den slimmen Vlaamschcn gaai zijn l laddtn de vogels meiischelijke neigingen en
+eilje hij 't ontbijt. Steeds tracht hij daarbij de verstand, dan zongen zij hem zeker, als
+moei'ijke klip te vermijden, om het vogeile- dank voor alles, wat hij voor hen deed, op
+ven uit mcnschclijk oogpunt te bekijken, den dag zijner promotie de morgcnliym'nen
+• toe waarover hij zoo dikwijls en zoo enthou
+
+siast schreef!
+In 1914 trof hem een groote en smartelijke
+slag, toen zijn vriend Heimans zoo plotseling
+heenging. Maar Thijsse zou Thijsse niet ge
+
+weest zijn, wanneer dit hem geheel terneer
+geslagen had. Zijn onverwoestbare levenslust
+en geeslkracht deden hem verder gaan opzijn
+weg en uitgebreider werd steeds zijn werkkring.
+In 1905 opgericht, eischte de Vereeniging tot
+Behoud van Natuurmonumenten in Neder
+
+land" voor eengroot deel zijn werk! voort
+
+durend meer van zijn tijd en arbeidskracht.
+Hier konden zijn illusies verwerkelijkt worden,
+hier al zijn eigenschappen tot haar recht ko
+
+men.
+Want bij al zijn werken en schrijven op na
+
+tuur-historisch gebied is dit wel de
+innerlijkste drijfveer geweest: zijn medemenschen iets
+te geven vanoe innige liefde voor de schepping,
+die hem bezielde; hen te laten beseffen,welk
+een onuitputtelijke bron van genot, welk een
+verhooging van levenslust en levensvreugde
+het meeleven met en doordringen in de natuur
+geeft. Wat moest dat heerlijk voor hem zijn,
+voor zoovelen de gelegenheid te scheppen lot
+genieten en wandelen in de merkwaardigste en
+mooiste terreinen van ons land ! En wien
+zou dat beter toevertrouwd zijn dan den
+man, die in zijn jonge dagen half Neder'and
+in zijn vacanties doorwandelde en met z'n
+vlugge opmerkingsgave tweemaal zooveel
+zag en hoorde als een gewone wandelaar?
+Hoeveel geduld, hoeveel volharding, hoeveel
+optimisme was en is daarvoor echter noodig,
+vooral optimisme en een nooit versagend ge
+
+loof in het goede der menschen! Velen zijn, als
+Thijsse, in hun jeugd vervuld geweest van ide
+
+alen, maar hoe weinigen hebben als hij, bij het
+klimmen der jaren, na de vele en onvermijde
+
+lijke tegenslagen, die ook hem niet gespaard
+zijn gebleven, die idealen ongerept bewaard en
+staan, als hij, met eenzelfde feu sacrébezield,
+steeds op de bres wanneer zij bedreigd worden.
+Hoe kan hij dan op de hem eigene wijze, een
+mengeling van jovialiteit,ernst en geest, een
+heele vergadering, uit heterogene elementen
+saamgesteld, tot zijn inzichten overtuigen,
+hoe weet hij dan jonge enthousiasten en oude
+
+ren en voorzichtigeren,aan den eenen kant te
+temperen, anderzijds op te wekken ! Is het
+wonder, dat hij zitting heeft in bijna
+allebesturen van lichamen, die zich op natuurhis
+
+torisch gebied bewegen? De meeste daarvan
+richtte hij trouwens mede op; om enkele der
+belangrijkste te noemen: de Nederlandsche
+Natuurhistorische Vereeniging, de
+Ornithologische Vereeniging, de Vereeniging tot
+Behoud van Natuurmonumenten, die alle
+veel aan hem te danken hebben.
+Niettegenstaande al dit werk, en ik somde
+nog lang niet alles op, (alleen, wat hij in dit
+weekblad schreef, vult een boekdeel !) blijft
+Thijsse jong en frisch. Wie, die hem de laat
+
+ste jaren zag of hoorde, gelooft, dat die kwieke
+figuur de vijftig reeds enkele jaren achter den
+rug heeft en al een paar maal grootvader is?
+Neen, hij mag ouder in jaren worden en ik
+hoop, dat er hem nog vele gegeven mogen zijn
+een ouwe heer" wordt hij nooit ! Daarvoor
+is zijn altijd bezige geest te levendig, zijn hoofd
+te vol toekomstplannen, zijn levenslust te
+exuberant. I i n wanneer straks de plechtige
+promotie heeft plaats gehad en hij het deftige
+doctor" vór zijn Jae. F. mag schrijven, dan
+zal hij blij veil, wat de vogeltjes "zijn op z'n
+briefvignet: onbekommerd" en de eenvoudige,
+hartelijke mensch en vriend, die hij steeds was.
+Hardinxveld.
+P. v. i). B r R o
+DE BRIEF UIT RUSLAIsD
+Teekening voor de
+Amsterdammer" van Gcorge van Rafmdunck
+YaV / \
+fr^SI J^-4. " i-'O ' ,
+l$l ^-" _ n ~^=r'~
+^-De afzender
+11. De post
+11
+Miiladelphia
+CitiirantenbericM : Een dame te Philadelphia ontving een brief uit Rusland, gefrankeerd met 1025 postzegels Ze waren geplakt
+op beide zijden van een afzonderlijk stuk papier, Ui'voet lang en 7 inches breed, dat aan den brief was bevestigd. Al de 1025
+postzegels wart n zorgvuldig afgestempeld. --- ,,Manchester Gr.ardian".
+TOONEEL
+N.V. COMOEDIA'S JOYELSE ENTREE
+IN HET CENTRAAL THEATER
+' Max van thlder is met klaroengeschal uit
+het Centraal-theater getogen, Comoedia"
+is er met bekkenslag ingetrokken. Het was
+wederom feest in het theater in de
+Amstelstraat en wederom zaten in de fauteuils,
+in de stalles en op de overige rangen keurig
+uitgedoste dames en heeren om het feest mee
+te vieren. Elk gezelschap heeft zoo zijn aan
+
+hang en zijn speciaal publiek en dus zagen
+wij de gezichten, die wij bij Comoedia"
+steeds plegen te zien. En het is nu nr'.ar
+zaak voor deze spelers, en voor andere ook, te
+zorgen dat zij hunne oude vrienden behouden
+en dat zij er nieuwe bij krijgen bovendien.
+Comoedia" bestaat uit een sympathiek
+groepje menschen, sympathiek, omdat zij
+beschaafd zijn en omdat er eene onderlinge
+collegialiteit bestaat, die men elders mis
+
+schien niet zoozeer vindt, en omdat er hard
+wordt gewerkt en, niet het minst, omdat deze
+luidjes jonge idealen hebben.
+De collegialiteit onder de sociétaires: het
+echtpaar v. Kerckhoven-Kling, het echtpaar
+Lobo, Dirk Verbeek en Bets
+Ranucci-Beckman, vindt uiting in het rose blaadje dat
+Comoedia" uitgeeft, in deze woorden: Na
+
+tuurlijk hebben wij niet allemaal denzelfden,
+smaak.
+Steeds meer willen wij er naar streven
+onafhankelijk van elkaar te werken, ons beur
+
+telings aan eikaars zienswijze te onderwerpen.
+Wij verwachten dat de veelhoofdigheid
+van ons bestuur ons .voor eenzijdigheid zal
+bewaren.
+Een vaste band bindt ons: de liefde voor
+ons werk en de overtuiging dat wij de kunst
+niet dienstbaar mogen maken aan onze be
+
+langen, maar dat wij er zijn om de kunst
+te dienen".
+En van hun idealisme geven zij blijk reeds
+door het repertoire voor het komende seizoen,
+waarin o.a. stukken van Dunsany, Wecekind,
+Schuit zier, Lenormand en ook van een
+Nederlandse!) schrijver: dr. laan van (ielder,
+staan.
+De sociétaires zullen wat met de handen in
+het haar hebben gezeten met de keu/e van
+het stuk of van de stukjes, waarmee zij dit
+jaar openen moesten. In het vorige seizoen
+hadden zij een gelukkigen greep gedaan: eerst
+met de Herbergierster" en daarna met
+Vlam", maar nu kwamen ze in eens in zoo'n
+geheel ander theater, waar steeds de kleinkunst
+en het cabaret hoogtij hadden gevierd en zij
+besloten blijk te willen geven van een ernstig
+willen door eenige fijne, geestige eenacters
+op te voeren, waarin toch een tikje van het
+navrante schuilt en door een stukje van
+philosophische waarde te geven, zooals ik zelden op
+het tooneel heb gezien. Maar tevens wilden
+zij de brug slaan tusschen het vroegere
+Centraal-theater-genre en dat van nu, door ook
+iets te geven van wat des cabarets is. Wij
+zullen, wat dit laatste betreft, goedmoedig
+wezen en maar eens glimlachen over de entree,
+de parade door het geheele gezelschap vór
+een kleurig doek, dat dal van een kermisten!
+verbeelden moest en waarvór Dirk Verbeek
+de clowns en overige sujetten met heuschen
+bekkenslag hij het verbaasde publiek introdu
+
+ceerde. En wij zullen niet te veel kwaads
+zeggen van een flauwiteit je van den schrijver
+Jacob Veimaas, dat volgde en dat een soort
+Barbarosserittjc" was, maar veel minder
+geestig. En och, Als de menschen slapen"
+een poëtischer cabaret-niimmertje, waarbij
+Greetje Lobo en Mienlje van
+KerckhovenKling als Pierrot en Pierrette over de leuning
+van een bank hingen, waaruit allerlei vrouwen
+
+gestalten opdoemden, die verrukt waren of
+jaloersch om de liefde daar boven, de liefde,
+die zich uitte in een liedje was ten slotte
+wel een aardig gedoente.
+En evenmin willen wij kwaad spreken van
+de eiansnummers uitgevoerd door de kunst
+
+danseres Greta Wallmann. Wij hebhen er
+betere gezien, maar slechtere ook.
+Maar blij zijn wij zonder voorbehoud dat wij
+gul het spel kunnen prijzen in n de keuze
+van de drie ecnactert jes. Twee
+Coutverts" van Sacha (hiitry behandelt het geval
+• van eenal bejaarden vader, die zich n t
+nantieel en in zijn liefdelcven opoffert voor zijn
+zoon. Hij is weduwnaar, had twee maal kun
+
+nen trouwen en heeft het twee maal gelaten:
+den eersten keer, omdat /.ijn jongen te jong
+was, den tweeden keer, omdat hij te groot was.
+Nu verwacht de vader zijn zoon met
+twee fijn gedekte couverts, omdat hij eind
+
+examen gymnasium gedaan heeft. Eerst ver
+
+schijnt de minnares van vader Pelletier, die
+hij afpoeiert, want de/e dag is voor zijn zoon
+en voor hem alleen en die liefde is geheel afge
+
+scheiden van die geheel andere. De knaap ver
+
+schijnt, is gezakt en hoogst onverschillig. Hij
+wii \":n &lt;chuo: ,:f. de ;cerar:n zijn stomme
+'ingen, de genles zakken. Aan vadenijkr ver
+
+maningen heeft hij maling, voor goed gemeen
+
+den raad haalt hij de schouders op. En eten
+zal hij wat kunnen hem de twee eouverts
+schelen bij een vriend. De vader gaat
+eenzaam de kamer binnen. Een eenvoudig
+gevalletje van allen dag, maar Sacha (iuitry
+heeft het niet alledaags uitgewerkt en Lobo
+speelde den vader zoo uiterst fijn met dien
+ondergrond van weemoed, die er in het ge
+
+val" ligt, zoo echt als pere noble", zooals hij
+hij de parade" was ingeluid.
+Ook Rosaiind" van J. M. Barrie, door
+Lobo uitstekend uit het Engelsch vertaald,
+is in den grond wat weemoedig, ofschoon
+(i reet je Lobo er toch al haar kost e l ij ken humor,
+dien zij in zulke rijke mate bezit,in leggen kon.
+Het is moeilijk voor eene vrouw haar leeftijd
+te dragen, voor een actrice bovenal. En dat
+is zóbegrijpelijk, want het publiek zou wel
+eens de illusie kunnen verliezen als het precies
+Nederl. Munt
+Holland»boste t O cent sigaar
+wist hoe oud de jeune amoureuse" is en
+hoe veel kinderen zij heeft. En als zoo'n actrice
+ongetrouwd is, dan speelt zij allicht ook in het
+gewone leven de jeune amoureuse of
+nietamoureuse. .Althans de 40-jarige actrice in
+dit stukje ik bedoel niet cl e actrice, die de
+actrice speelt, want Grcetjcs leeftijd doet er
+niet toe: zij is waarlijk eeuwig jong doet
+in het gewone leven alsof zij den leeftijd heeft
+van Rosaiind, de rol uit Shakespeare's As
+you like it," die zij met zooveel voorliefde
+speelt. Vandaar dat het geen wonder is dat
+Charles verliefd op haar is en haar portret in
+eene portefeuille op zijn hart draagt.
+Maarmejuffrouw Page, die Rosaiind speelt, gaat
+en retraite" bij eene niet jonge hospita en
+nu wil zij de weelde van haar 40 jaar plus de
+Meimaandjes" eens genieten. Zij kamt heur
+haar sluik naar achter, schurkt zich in haar
+stoel als een bejaarde poes, vertelt dat zij
+de moeder is van de beroemde
+Rosalind"speelster, wier portret op tafel staat. Heel
+toevallig verschijnt Charles, verregend, in het
+vertrek, ziet het portret van zijne geliefde,
+spreek! met de moeder", totdat deze hem ten
+slotte het mysterie openbaart. En dan is ook
+bij hem de illusie verstoord, maar. wijl hij
+gentleman" is, zal hij haar tot het volgende
+station geleiden. Mejuffrouw Page verkleedt
+zich en zósterk is 'hare transformatie-kunst
+en die van (ireta Lobo is er recht evenredig
+aan dat zij als de jeugdige rol verschijnt,
+als de jeugdige rol, die zij in het wonderlijke
+leven te spelen heeft. (Treetje Lobo's spel was
+schattig en meer, en Johan Kaart Jr„die eene
+mooie stem heeft en goede soepele houdingen
+en juiste gebaren, gaf eveneens uitnemend :le
+te spelen figuur weer.
+In De coulissen der ziel", een monoclrama
+van N. Evreinot'f was Kaart in eten proloog een
+droge professor -mooi karakterspe! - die vór
+een zwart bord het publiek college geeft in
+moderne psychologie (de namen van Freud,
+Wundt en anderen werden genoemd): Het
+Ik (met een hoofdletter) onderscheidt zich
+in drie kleinere ikjes het publiek lachte
+natuurlijk, zonder reden - in die van het
+verstand, het gevoel en het latent onderbe
+
+wuste. In harmonisch verband vormen die
+een harmonisch geheel, maar als n van die
+factoren te zeer overheerscht, dan is de vrede
+in het individu verstoord. Loopt het gevoel
+zonder den leiband van liet verstand, zooals
+in dit monodramatje geschiedt, dan vervalt
+de mensch in waanzin. De plaats der hande
+
+ling van het stukje is.... de mensch: Men
+ziet hart, longen, wervelkolom, waaraan
+draadjes met een telephoontoestel (de zenu
+
+wen, die de gevoelsindrukken naar de hersens
+teleplioneeren"). Gevoel, verstand en onder
+
+bewustzijn zijn hier gescheiden door drie
+acteurs, successievelijk Constant v. Kerck
+
+hoven Jr„Eolkert Kramer en Jack Hamel,
+die ligt te slapen (het latent onderbewustzijn).
+Het gevoel wil ongebreideld liefhebben, onge
+
+controleerd, migereglementeerd. Het verstand
+waarschuwt. Het gevoel (in dit stukje) be
+
+mint eene vurige danseres. Het verstane! waar
+
+schuwt tweeledig: het is de schoone schijn,
+die bedriegt, zie hoe zij in werkelijkheid is,
+zonder schmink, zonder andere
+schoonheidsattributen, zie hoe leeg is haar mond, hoe vaal
+haar gelaatskleur. En: denk aan je vrouw en
+je kind. Als phantasmagorie verschijnt de
+danseres in schoonen schijn, de danseres
+zonder en de moeder met het kind. Ook ver
+
+schijnt nog de waarlijk minnende vrouw in
+anderen vorm: in dien vaneene vrouw van het
+volk. Want het gevoel is niet het gevoel van
+een bepaalden mensch, maar van den mensch
+in het algemeen, gelijk Elckerlyc de geheele
+menscliheid symboliseert. In het stukje
+overweegt het gevoel: de danseres bokst de
+moedervrouw neer, het gevoe' worgt het
+verstand. En de mensch van louter gevoel,
+de psychose menscli, schiet zich voor den
+kop, Het latente onderbewustzijn zal zich
+latent in een ander mensch manifesteeren:
+De treinconducteur" heeft het gewaarschuwd
+dat het overstappen moet. v. Kerckhoven
+speelde het gevoel" goed, iets te veel uit,
+mevrouw v. Kerckhoven-Kling was de zoete
+moedervrouw, die voor haar klein kindje een
+slaapliedje zingt, Eolkert Kramer, koel en
+nuchter gelijk het moest - het verstand.
+Dit stukje was de daad" van dezen avond.
+IllUllllllllllulllllllllltll
+
+HETBOEK
+VAN DE WEEK
+OLGA WELGEMOED
+DOOR
+FELIX SALTEN
+Vertaling van ALICE VAN NAHUYS
+Prijs gebonden met geïllustreerd
+omslag van IS. VAN MENS
+f 1.50
+Het Haarlemsch Dagblad schrijft:
+I-eli.\Salten heeft deze kleine, maar
+zeer tragische en aandoenlijke ge
+
+schiedenis beschreven in een fijnen
+toon, gevoelig, en waar het noodig
+was, levendig en vol gloed en kleur.
+
+Uitgave van VAN HOLKEMA i WAflENDORF, A'dam
+
+</text>
+<image timestamp="2002:08:25:20:49:54.00" size="470857">D400046U.TIF</image>
+</page>
+</document>

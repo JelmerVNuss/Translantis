@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340512</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Groene Amsterdammer van 12 Mei 1934
+N o. 2971
+BEGRAFENISVEREENIGING
+
+SAX Jr.
+AMSTERDAM Z (Hoofdkantoor)
+l*. C. Hooftrtraat 38
+T«l. 2O341 2425O
+BU8SUM (Bijkantoor v/h Qool)
+Brinklaan 138
+Telefoon 2276
+BEGRAFENISSEN - CREMATIE - TRANSPORTEN
+Gasfornuizen - Gaskachels • Gashaarden
+G. J. DE KONING &amp; Zn.
+Opgericht 1739
+Amsterdam C. Tel. 32457 Keizersgracht 447
+RIJCOSTÜMES
+
+ONZE REPUTATIE OP DIT GEBIED
+WAARBORGT U EEN KLEEDINGSTUK
+DAT IN IEDER OPZICHT VOORTREF
+
+FELIJK IS.
+WIJ KUNNEN U EEN UITGEBREIDE
+COLLECTIESTOF.FEN EN MODELLEN,
+VAN EIGEN ATELIER, VOORLEGGEN.
+GARBICORDS, WHIPCORDS,
+BEO FORD CO R DS.
+DS. RIJCOSTÜMES naar maat . . 75.
+H. RIJCOSTÜMES naar maat . . 85.
+HOOGSTRAAT 6
+DEN HAAG
+IK KAN MAAR NIET
+SLAPEN	!
+Kent U ook die rustelooze nach
+
+ten? Luister dan eens naar dezen
+goeden 'raad: Neemt voor het
+naar bed gaan een stevigen kop
+Ovomaltine. Zoodra ge dan Uw
+hoofd neerlegt, komt "een behagelijke rust over UI
+Ovomaltine is geen slaapmiddel". Het is een
+zuiver natuurproduct, dat Uw organisme alles geeft,
+waarin het dagelijksch voedsel te kort schiet
+
+
+OVOM/ILTl
+IN BUSSEN
+VANAT 00 CENT
+VERSTERKT OOK U
+W. H. POLMAN TUIN-s
+OVERTOOM 526 - Telefoon 82660 l
+Begrafenissen - Transporten - Crematies |
+N.V. Meubelmagazijn Eden*9
+Molsteeg ^- Amsterdam
+BOEKENKASTEN
+Eén appel
+
+
+per dag...
+
+laat een zwaren aanslag
+
+op Uw tanden achter !
+
+En niet alleen die appel! Alles wat
+U eet en drinkt laat in het geheel
+7 soorten aanslag op Uw tanden na.
+En deze aanslag verdwijnt niet door
+de enkelvoudige werking van vele
+tandpasta's. Hiervoor is de dubbele
+werking van Colgate noodig; de op
+
+lossende invloed van haar aromatisch
+schuim, dat den aanslag reeds grooten
+
+deels, wegspoelt, en de polijstende,
+waarvoor zelfs de hardnekkigste aan
+
+slag-restjes op de vlucht slaan.
+Eet dus fruit naar hartelust - maar gebruik
+Colgate's minstens tweemaal daags!
+De 7 oorzaken van
+tandaanslag
+(brood, enz.)
+«rwijdert allen aanlag
+COLGATE'S
+TANDPASTA
+In tubes van 90, 50 en 30 et.
+
+</text>
+<image timestamp="2002:10:28:13:04:20.00" size="256276">D200AWA.TIF</image>
+</page>
+</document>

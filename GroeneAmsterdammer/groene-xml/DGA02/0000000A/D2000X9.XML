@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19010526</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.No. 12J-8
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+Een vergissing.
+De tijden zijn hard. (Herman Paul ia Figaro).
+AI.EXAKDEB en DEAHA : «Ooievaar! ooievaar! Waar h ons pakje V"
+KR: »Dat ben ik onderweg kwytg&lt;r*akt i"
+Kitehener heeft 't land.
+\Yalderste ook 't wcrdt moeilijk om een held te zijn.
+Atlas en de mug. (Momwg
+Een moderne Ali baba. (Lustige Bliitter).
+Ben Duïtseïie voorstelling van de
+JlussoJapansche positie.
+Kirc!i(;.\i:(t: «Gocin hpm«l ! ik beh het tooverwoorii
+vergeten, nu kan ik er niet uit met mijn goud !"
+De overwinningen van John Buil. (Hertnann Paul in Figaro).
+
+&amp;*&amp;£•«.
+Kitcher.fr heeft twee kanonnen genomen.
+Ja ! nsaar de koienkoopman neemt twee sbiliirgs meer.
+
+Onder een glaasje Ciiquot te Peking. (FMiU-tto).
+Een nieiwe u t;.c'ie rclelaar. (Li/f).
+'/.•«. -- y. ipathieko VIV..L ' k Doop d.-t WP alüi! -ircooid zullen gaan !
+H':U iirikt u van uc ;. •!ii'.;v«r^',c:h;ig, d;-/, w:; v-, rdeiw, ?
+IVT. iv.ci-i f-ijfer !
+AKJf:!)!ie!'t ! er- zul )&gt;• '\. wiHifr l&gt;i't,'-r. ?
+Xcker, a!öj-:i»i mo hc! rco;i's:" sji-id er vo3r if^nt?
+
+De Kunaal-duiker. (H-V" .V w/).
+Miqusl, de ijzeren Vsce-kanselier,
+
+(Der Welt Spiegel).
+- Denk er om! Veikeerde spoed, gaat nimmer
+•^aakmJK^t^
+Dcor waterb;i(!;j:Tii (vwam Uy teihö. p. *-. r boveu.
+
+</text>
+<image timestamp="2002:08:16:02:28:21.00" size="329077">D2000X9.TIF</image>
+</page>
+</document>

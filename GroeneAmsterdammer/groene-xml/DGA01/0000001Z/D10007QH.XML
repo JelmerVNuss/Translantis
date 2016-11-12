@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19260703</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+'K
+fit
+'4
+
+lr
+DE GrtOENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+No. 2561
+J, D. STRUIJS &amp; Zn.
+Prinsengracht 837 Telefoon 37906
+Begrafenissen - Crematie - Transporten
+FIRMA J. G. M E IJ E R
+2 Markten - GRONINGEN - Opgericht 1706
+SPECIALITEIT IN
+ECHTE GRONINGER KOEK
+
+van f L—, f 1.50t f2»—f 2.50, f3.—enz. 0^0
+Franco per post 50 Cents verhooging &lt;&gt;&lt;&gt;&lt;&gt;
+Buitengewone
+
+Opruiming
+Speciale aanbiedingen:
+
+Tafelgoederen
+Thee- en
+Glaz-endoeken
+Handdoeken
+Badhanddoeken
+
+Firma KRÖNER
+Nieuwendijk 167, Amsterdam
+
+iZUIVERWOLLEN: HALF WOLLEN-!'
+KATOENEN-TRICOT-:
+RAMEH-EN NET-i
+'ONDERGGEDEREN'
+BOUWT IN HET KINHEIMPARK
+te Bloemendaal en in het Oranjepark te Overveen, gelegen In de onmiddellijke
+nabtyheid van Haarlem. Nieuwe Zeeweg door de duinen naar Zandvoort en
+MW d« electrische tram
+Buiten voorgesteld annexatiegebied Lage belasting
+Kaarten en inlichtingen op aanvrage kosteloos verkrijgbaar
+Binnenlandoche Exploitatie Maat«chapp$ van Onroerende
+Goederen te Bloemendaal, lepenlaan 2 (Telefoon 22504).
+Verweegen 6 Kok
+AMSTERDAM - DEN HAAG
+BEGRAFENISVEREENIGING
+
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+aiiiniiiiiiiiiiininiiiiiiiiiiiiiiiiiiiniiiNiiiiiiNiiiiiiiiiiiiiiiiiiiiiiniiiniiiiiiNiiiim
+ADRIAAN SCHAKEL
+HEILIGEWEG 15-17
+AMSTERDAM
+
+Overhemden naar maat
+? Vervaardigd op eigen Ateliers
+Bij ons verkrijgbaar |
+N. R. V. MONTA SCHOENEN J
+
+Hifi?
+LJEVEGOED'S KERSEN LIMONADE
+= VERFRISSCHEND EN GEZOND =
+LIEVEGOED'S FABRIEKEN - A'DAM.
+GEORGE H. LAGAS
+AMSTERDAM - Telefoon 24611 - Andreas Bonnstraat 40
+ELECTRISCHE LUXE BROODBAKKERIJ
+Specialiteit in alle Broodsoorten
+GERARD B. RIJKE Jr.
+BINNEN ARCHITECTUUR
+KEIZERSGRACHT 559 - Telef. 30559
+Complete Meubileering
+Volgens nevenstaande foto leveren wij prima Ledikanten met
+Spiraalmatras en verstelbaar peluw, zwart gelakt f 11.50, wit
+gelakt f 13.50, goed verpakt onder rembours door geheel Nederland
+
+N.V. Beeldenfabriek DE ZWAAN
+Goudscheweg 140—142 ROTTERDAM
+Telefoon 10345 Giro 13286
+Vraagt prijs bij grootere afname voor Hotels en Pensions
+W. 1_ E T Z E R
+
+LAREN (GOOI)
+Hoekhuis Brink naast Hotel Hamdorff, Telefoon 325
+Mevrouw.
+Wij kunnen U meer dan 3 O VERSCHILLENDE soorten
+VLEESCHWAREN leveren.
+KOUDE en WARME SCHOTELS.
+Hors d'oeuvre variés. Croquettes. Sandwiches.
+Wild en Gevogelte.
+Koldewey &amp; Corbière
+Leidschestraat 30 - Amsterdam
+SPECIALITEIT IN:
+Slaapkamermeubelen Matrassen Dekens
+
+</text>
+<image timestamp="2002:09:25:20:49:14.00" size="172209">D10007QH.TIF</image>
+</page>
+</document>

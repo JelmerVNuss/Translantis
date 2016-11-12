@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18910823</Datum>
+<Pagina>8A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Eene nieuwe Gysbrecht-illustratie.
+BIJVOEGSEL van de Anwterdammsr, Weekblad voor Nederland, van 23 Augustus 1891.
+God geef dat u en mij dit opzet wil
+gelukk'
+Het hemelsche gerecht heeft zich ten
+lange leste ontferremd over mij
+Sta op en heel mij niets van alles w;,;
+;j wee:.
+schaal mij evenwel al d' overige
+ellende.
+'k Ontvang u in mijn dienst en zal u
+wel betalen
+Hier holp geen tusschenkomst van
+koningen en heeren
+Gij hebt de stad en mij geen kleinen dienst gedaan.
+Een deugd die nimmer zal uit mijn gedachten gaan
+Geduld Mevrouw! - Geduld! God
+proeft zijn uitverkoren
+Amst. Boek- en Steendrukkerij, v/h. llerman, Harms &amp; Co.
+Verdelgde stad wij gaan en komen nimmer weer.
+Vaarwel mijn Aemsterland, verwacht een ander heer l
+
+</text>
+<image timestamp="2002:08:19:14:55:57.00" size="348740">0000030E.TIF</image>
+</page>
+</document>

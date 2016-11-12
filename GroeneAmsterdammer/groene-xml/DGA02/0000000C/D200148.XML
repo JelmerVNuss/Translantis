@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011103</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No.1271
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+De •öK
+in ,het Vondelpark.
+C
+Ik gelotf dat ik beet heb ...
+
+Wederkef rig belang. (Pumh).
+Waarachtig, dair heb ik hem l
+
+Wat moeten zij wel van ons denken? (
+Wat is dat ? .. . Zao'n vervloekte politiehond !
+Uit de Ware Jacob" Rotterdam.
+De fioog* Raad in Raadkamer.
+,. vsg HET VA.STELAKBKOOR : ^0, die tin ve Enj;e,lscheri ! Zij wasschc-n hun vuile goeüin
+SÈ^e- "peobaar. Hael giappig voor ons om t.' zien!''
+JOHN BULL (tot d^n nieuwen Emir) : »U\v vader en ik waren dikke
+•vriender, mijn jonger, en als je goeden raad coodig hebt, «-eet je by
+•wien je terecht kunt ! '
+De groot adelaar.
+Corlogskosten. (Daily
+Terwijl de Czrir zelf bezig is o si Finland tot eiken prijs Russisch
+te makon, kan hij hezwasriijk in naam :lcr lutmanitut vragen om Transvaal
+niet Engelsch te maker, ! (Fischütto).
+
+'/.jjf.^jx c.s.*(tol John Buil): »Je geld of'je Jevec !"
+Het Christendom in Chira. (Ulk).
+Arme onnoozelen ! Zy hcpen z\j vreezen !
+»Dfl ;• i-istt-n pooeden crituk op bua deel in den ooilog te
+door dvn -.'s-heelen last op K'tchtners rug te iaden."
+SAI.ISJSLHÏ' en BALFOUK : »'t Is waarlyk een opluchting dat we zoo'n
+sterken man hebben, om dit voor ons te dragen." (Daily pav&amp;r).
+Du MJ^HÜI.NAÜIS : KÜderen, wat stai.t tr in de ILir.deürgen eer
+Apostelen XX : 35 'l"
+DE GEIIEELE CUJSEEEUIE KLASSE : «Geven is zaliger dan nemen !"
+
+</text>
+<image timestamp="2002:08:16:19:54:06.00" size="481219">D200148.TIF</image>
+</page>
+</document>

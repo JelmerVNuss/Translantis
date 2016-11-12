@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19030104</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+No. 1532
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+11
+Het scheidsgerecht in de Venezolaansche zaak.
+UKCLE SAM (tot Ryoseoelt): »LiDp er niet ia... stuar ze naar 't Haagje."
+
+Le sttccès du talent". (Sedert de arrestatie van de Humberts). (Fischietto').
+Uit het Dierenleven.
+Sïpnstil... Ze zijn toch géjiaal... De maatschappij heeft ze tiet kunnen
+begr(jpen...
+
+
+Alks draait om de New Yorksche schoone (Dsr Iloh).
+^- trutfd'cr ?ïi:d'Cl, n u n iwi't 'ii er O .
+10 n oiin'ii Weüiiud'ttU'vaten!
+:h'afi{) if( rr iiiUi:^i' iKfü:i;m;M' iii'il)
+«iim.iüt 3u= 111^ aiiJfa-n -JiuUfü.
+fin 'Jiiifiiiui fu'ii'ii Mr Sa.lH' f.iial
+Uut n i l'h' nic'jr ju rvlicffyii;
+i'if .\\eilu' iviifiini iiiU' nian fianiii',
+2ï;l\r'ïl! t f l' -l%i!l'i' fit'll'ffi'll.
+ann a l* cv tiUiiii ivav V'H' Sii'U', . . ,,
+2iU(!ü' t'i&gt; 110.1) liiiuu' nirtu yili'f'i'i'/
+"shiii tH'V lic Ciircit ^i ^u'im ta.- (scll
+Uut il; 11 ir.it .Uuni't iii fpirfi'i!.
+ocl1-, óicft ("i1; JiUif. niri n'.ili!'. ift •Jiü'jl
+3"or 'Oaf' iriit dii'".v.'H\uu'ii
+Sr u n u'iiin'di' i di 3" i r iv-citer u i d't-J
+3i l« ei n c ii a»t e n iOi a a f n'
+De ooievaar is een Pruis. Dit bewezen: zyn groote snavel, de
+zwartwitte kleur, en ten derde, a!a hy in 't Koorden niets te vreten heeft, trekt
+hij naar het '/.aiden.
+JOHN BULL (tot Michtl): «Brcêrlje, tracht jij EU de schoone te winnen; met dat
+kereltje aal tfc 't wel klaar spelen."
+De Spaansche politie gefft Marianne een waarlijk céaig en prachtig
+Nieuwjuarsgeachenk of de Fjansche Maagd er we' zdó blij mee is a!s de politin, blijft een
+vraag. (Fiechietto).
+xs Fjiii'iH. Ai': YUN SACII-I.:N,
+geb. -'5 Mei 18G5.
+IvllOOXl'ElNSÊS FitlKJ'H AUO VON S-i-CJISEN,
+geb. a Sept. 1870,
+
+</text>
+<image timestamp="2002:08:19:00:27:08.00" size="318902">D2001O6.TIF</image>
+</page>
+</document>

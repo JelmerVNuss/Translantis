@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19320409</Datum>
+<Pagina>16</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+v
+*
+nver&lt;fi
+aar
+o,
+nverwoestbaar ? a\s een dier
+oude patriciërshuizen, die sinds
+eeuwen den tand des tij ds
+trotseeren. Het spreekt van zelf,
+dat de Buick oersolide is. Buick
+dankt haar stijgend succes ge
+
+durende 28 jaren aan de nauwlet
+
+tende zorgen, door de construc
+
+teurs aan conceptie en uitvoe
+
+ring van ieder onderdeel besteed.
+Comfort... eenvoudige bedie
+
+ning... een vlotte lijn... Kent U
+veel wagens, die dit alles in
+gelijke mate bezitten ? Snelheid...
+veiligheid... snel optrekken : nog
+andere redenen waarom drie van
+iedere vier koopers van een
+8cylinder uit de Buick-prijsklasse
+hun keus op Buick vestigen.
+Hebt U de nieuwe Buick met de
+"Wizard Control" reeds beproefd?
+De "Wizard Control" met : 1.
+Servo-koppeling. 2. Buick free
+
+wheeling. 3.
+Syncro-Mesh-gangwissel met geruischlooze tweede.
+Bel nog heden Uw
+Buickdealer op voor een
+overtuigenden proefrit.
+
+General Motors Continental S.A.
+
+</text>
+<image timestamp="2002:09:26:20:46:07.00" size="121276">00000A5E.TIF</image>
+</page>
+</document>

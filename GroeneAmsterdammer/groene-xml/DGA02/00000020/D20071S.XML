@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19331216</Datum>
+<Pagina>39</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+dienende machine
+Teekening G. Lopthorn
+F
+'rt'
+i.
+Tooneel en machine
+Henrik Scholte
+r || ''OEN Erwin Piscator in 1927 Toller's Hoppla wir leben"
+JL ensceneerde, repeteerden 16 changeerders 3 weken lang eiken
+dag 3 uur om het mechanische decor van den voorgrond naar den
+achtergrond van het tooneel te brengen. Dat decor bestond volgens
+Piscator's eigen beschrijving uit een ijzeren steiger van drieduims
+dikke gasbuizen, u meter breed, 8 meter hoog, 3 meter diep, gewicht
+ca. 4000 kilogram." Korten tijd later, voor de première van
+Rasputin", had de tooneelconstructie den vorm van een enormen bol, een
+ijzeren staketsel waaromheen dure ballonstof, de zoogenaamde
+Segment-Globus Bühne" en voorstellende den aardkloot. Het
+topsegment kon, theoretisch althans, geluidloos in de soffieten verdwijnen,
+doch toen bij de generale repetitie de electrische windas aangezet
+werd, dreunde en donderde dit hijschen" van een mechanisch decor
+
+stuk precies zeven minuten en het moest bij open doek geschieden.
+Toen stond Piscator op en sprak de gevleugelde woorden: Ja, dann
+können wir eben kein Theater machen".
+Dat inderdaad kon Piscator niet en hij ging over tot de film. Nie
+
+mand kon het trouwens langs dezen weg der mechanische verheerlijking.
+Het? mechanisch-constructieve tooneel, een utopie van Rusland en
+Duitschland, behoort thans weer tot het verleden. Het ontstond"uTt
+het expressionisme, en de mechaniek a outrance leidde maar naar
+twee richtingen: of tot de film, of tot het politieke manifest. Het
+tooneel, in den zin van het gesproken woord, voorgedragen door het
+gebaar van den tooneelspeler, verloor dit spel en de geboorte der
+tragedie uit den geest der machine is een fase geweest in de jongste
+lijdensgeschiedenis van het tooneel, waarvan landen met een
+epigonistisch aangelegd en ietwat achteraan hinkend tooneel thans nog
+maar al te vaak de bittere vruchten plukken.
+De tooneelmechaniek is op zichzelf zoo oud als het tooneel zelve
+en voor de verschijningen van den onvermijdelijken deus ex machina"
+knutselden zoowel de Grieken als de architecten der Italiaansche en
+Fransche hofvoorstellingen de wonderlijkste stellages. Maar nimmer
+had het const- en vliegwerck", dat bij ons de brave Jan Vos zoo vurig
+zou verdedigen, een ander doel dan de illusie van het voorgetooverde
+zoo echt mogelijk te doen zijn en de naakte stellage te maskeeren.
+Eerst met Reinhardt's draaitooneel, dat oorspronkelijk een oude
+Japansche vinding was, en met het daarop volgend, daarop voort
+
+bouwend tooneelexpressionisme, dat de bedrijven in vele losse scènes
+verknipte en een scenologie" in het leven riep naast de regie en de
+dramaturgie, keerde men de rollen om: wat vroeger niet gezien
+mocht worden, moest met den dood van de Illusionsbühne" juist
+naar voren gebracht. Toon uw steigers, practicabelen, uw achter
+
+wanden van decors, uw canvas en uw stramien. De god, die ijzer deed
+groeien, schiep voor de Schreidramen" der Duitsche expressionisten
+'
+
+</text>
+<image timestamp="2002:09:27:06:14:22.00" size="213356">D20071S.TIF</image>
+</page>
+</document>

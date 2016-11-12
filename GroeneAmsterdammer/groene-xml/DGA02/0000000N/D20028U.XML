@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19050226</Datum>
+<Pagina>12A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het rouwbeklag bij den dood van den gehaten Grootvorst Sergius.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 26 Februari 1905.
+Amst. Boek- en S teendrukker ij, v/h.Ellerman, Harras &amp; Co.
+MARIANNE (tot den Czar}: De Republiek wenscht de eerste te zijn onder degenen die U hun droefheid betuigen bij het
+verlies van dien grooten vaderlander ....
+LEOPOLD (tot Carlos]: Wat bedoelt gij met die twee kaartjes ?
+CARLOS : Voor het geval.... Men kan niet weten ....
+
+</text>
+<image timestamp="2002:08:21:06:17:58.00" size="359788">D20028U.TIF</image>
+</page>
+</document>

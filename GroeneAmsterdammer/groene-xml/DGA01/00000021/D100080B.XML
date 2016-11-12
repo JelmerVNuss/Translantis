@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19261016</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+NÓ.2576
+DE GROENE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND
+TWEE ZICH VERSPREKENDE MINISTERS EN TWEE AMSTERDAMSCHE
+F«br. 1904 BURGEMEESTERS IN DE EERSTE KAMER
+16 Augustus 1891
+EERSTE OEFENING IN DE POLITIEKE QUADRILLE
+Dr. van Leeuwen {by Lof f, tot Vening Meinesz); Een acuut geval van lapsus linguae, waarvoor ik hem
+een pilletje heb gegeven. . . ,
+Dr. Vening Meinesz (bij Kul/per, tot van Leeuwen): Ja, collega, misschien is die te genezen maar bij
+dezen werd de kwaal chronisch, en hij heeft er nog loslippigheid bij. . . .
+De dansmeester tot Mr. N. G. Pierson: Aans.
+zwai, drai. an de Bank voorbij.
+Op de plaats, zwai ! drai! Aans, zwai, drai!
+PROF. ASSER'S CANDIDATUUR VOOR DE TWEEDE
+6 Sept. 1891 KAMER
+,,Tóbl or not tobi that is the question"
+
+DÉBRIEFWISSELING TUSSCHEN IHR. WITTEWAAL VAN
+21 Mei 1899 STOETWËGBN EN DR, KUYPER
+DE WEKELIJKSCHE
+PLAAT VAN DE
+GROEN E"
+DOOR WALRAVE BOISSEVAIN
+Lid van den Gemeenteraad van Amsterdam
+Dr, Kuyper: Hoe kan toch een beertje, dat. dagelijks aan u een
+voorbeeld mag nemen, zóó oogelikt zijn?"
+De Beer: Nu, hij ia in goede handen."
+\T AN mijn prilste jeugd herinner ik mij die plaat als
+* een iederen Zaterdag terugkeerend pretje en nu ik
+mij tot schrijven over het werk van Johan Braakensiek
+zet, merk ik, dat zeer oude teekeningen van hem het
+levendigst in mijn herinnering zijn gebleven, toen de
+tijdgenooten van mijn ouders telkenmalen door de
+raak typeerende teekenstift van Braakensiek ten
+tooneele werden gevoerd. Amsterdammers tegen wie
+wij hoog opzagen, omdat zij belangrijke functies
+bekleedden in staats- of stadsbestuur, maar waarvan
+velen tot den intiemeren vriendenkring mijner ouders
+behoorden. Het was dan telkens een vreugde hun
+karakteristieken kop in de plaat van d\ Groene"
+vereeuwigd te zien. Ik denk hier aan de plaat:
+Ein, zwei, drei, an die Bank vorbei," toen Mr. N. G.
+Pierson een zoo prachtige positie als president van
+de Nederlandsche Bank prijsgaf om minister van
+Financiën te worden. Ik denk ook aan den bijzonderen
+kop van Mr. G. van Tienhoven, toen burgemeester
+van Amsterdam, aan het fijn besneden gezicht van
+Mr. H. P. G. Quack, met het lange in den nek hangende
+grijze krulhaar, aan de krachtfiguur van Dr. Abraham
+Kuyper, toen in zoo feilen strijd gewikkeld met
+Charles Boissevain; later ook de regentenkop, met
+de grijze bakkebaarden, van Mr. Vening Meinesz, den
+stroeven Fries.
+Bewonderenswaardig was het, hoe Braakensiek
+telkens weer deze vooraanstaande mannen wist te
+typeeren, maar het was dan ook dankbaar materiaal.
+Van al dezen is alleen Charles Boissevain, de
+86jarige overgebleven, de anderen hebben dit aardsche
+tranendal verlaten en zetten den strijd in de elysische
+jachtvelcen voort.
+Een nieuw geslacht regeerders is opgestaan, maar
+ook thans heeft Braakensiek daaraan dankbaar
+materiaal.
+In de oude raadzaal hingen eenige schuttersstukken
+en als ik Burgemeester de Vlugt eens goed aankeek,
+dan was het alsof een van die
+17e-eeuwsche-Amsterdamsche schutters uit het kader van het groote
+schilderij was gestapt cm daar op den
+Burgemetstersstoel plaats te nemen. Naast hem, ter rechter zijde,
+de zich verfijnende grijze kop van Wibaut met de
+wilde lange grijze haren en de onmodische
+breedgestrikte das, overblijfselen van zijn revolutionairen tijd,
+toen hij met de zijnen den stormloop op de kapitalis
+
+tische bourgeoisie begon en er nog niet van droomde,
+dat hij zelf eens voor de moeilijkheid zou staan om
+het budget van Amsterdam, uitgedijd tot meer dan
+100 millioen 's jaars, sluitend te maken !
+Ja, deze bestuurders van Amsterdam hebben
+alevel wat bijzonders, plus c,a change, plus ca reste
+la même chose", want of men revolutionaire sociaal
+
+democraten of anti-revolutionairen heeft, het bestuur
+van een groote stad eischt regenten-kwaliteiten.
+Moge het Amsterdam aan dezulken nimmer ont
+
+breken en moge het Braakensiek nog lang gegeven
+zijn om zulke figuren in,,de Groene Amsterdammer"
+tot vreugde van de lezers ten tooneele te voeren.
+DE GANG NAAR CANOSSA VAN HET AMSTERDAMSCHE
+GEMEENTEBESTUUR
+18 December 1899
+De heer Bergsma tot den heer Vening Meinesz : Drie ton boete en
+vermindering van retributie van ónze gaslevering !"
+Mr. van Tienhoven : Dat koopje heb ik voor mijn opvolger over
+
+gelaten." .
+25 Sept. 1892.
+INDIENING DER KIESWET
+Minister van Tienhóven: Ga nu je gang maar, Tak; ze hebben nu
+lang genoeg gezeurd."
+
+</text>
+<image timestamp="2002:09:26:06:01:27.00" size="452129">D100080B.TIF</image>
+</page>
+</document>

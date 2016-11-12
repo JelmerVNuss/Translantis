@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18970530</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Het bondgenootschap der Katholieken en Calvinisten en de Landsverdediging.
+
+
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 30 Mei 1897.
+i-ju u1 iiriui'^^Miia»w*»tii.W""-^*w»*'J"*"^*'M^'M''r%1y''tl'M'**'l&gt;''i'&gt;" mwm y'"Jt"'*'r''^9^9flMt88J3yiffiËfiB!^l8yag!|!
+w-WBi^4!#&lt;5«aitt!i^^^ «*r*^o*w*w«*&gt;. $.
+Atnst. Boek- en Steciulrukkerii, v/h. Ellerman, Harms &amp; Co,
+NED. MAAGD: »Hoe kondt gij beiden het behoud der plaatsvervanging tot verkiezingsleus verheffen ?"
+
+SCHAEPMAN: «Mevrouw, eerst de Kerk en dan liet Vaderland!"
+
+KUYPER: ». . . . eerst het Geloof en dan de Gerechtigheid!"
+
+</text>
+<image timestamp="2002:08:21:18:54:41.00" size="486528">000003SH.TIF</image>
+</page>
+</document>

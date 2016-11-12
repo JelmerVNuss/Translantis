@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19011117</Datum>
+<Pagina>10A</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+De Franco-Turksche kwestie en 't Hof van Arbitrage.
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 17 November 1901.
+Amst. Boek- en Stecndrukkerij, v/h.EHerman, Harras &amp; Co.
+KOOPMAN IN ARBITRAGE-ARTIKELEN (tot Marianne en den Sultan}: Ik had zoo op u gerekend voor handgift.
+SULTAN: Niet noodig. . . . we zijn alweer dikke vrienden. Ga maar heen met je prullen.
+
+</text>
+<image timestamp="2002:08:16:20:55:54.00" size="382394">D20014M.TIF</image>
+</page>
+</document>

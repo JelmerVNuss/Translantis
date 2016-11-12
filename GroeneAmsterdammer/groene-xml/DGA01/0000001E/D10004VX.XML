@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron></Bron>
+<Datum>19390114</Datum>
+<Pagina>14</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Wetenschap
+Het electronen-microscoop
+Van welke wondren hangt de werelt aan
+[malkander!
+Sprak LEEUWENHOEK, daer hij door
+['t heldre kykglas zagh,
+En met een Linceus' oog ontdekte, klaer
+[en schrander
+Wat in de duisternis tot noch begraven
+[lagh.
+Voort most de pen te werk: 't geen hy
+[heeft uitgevonden
+Beveelt hy d'eeuwigheit, ten trots van
+[zwaert en vier
+Zoekt Alexander nu noch andre
+werelt[ronden',
+Hier schuilt 'er zeker een in 't allerkleinste
+[dier!
+
+ALDUS klinken de woorden, waarin de
+dichter Poot Antoni van
+Leeuwenhoek bezingt.
+Men heeft ook nu, ruim twee eeuwen later,
+nog dezelfde groote bewondering voor den
+eenvoudigen Delftenaar, die met evenveel
+ijver en vasthoudendheid het sout in de
+holligheyd van de Tand van een Paart aan
+een onderzoek onderwierp, als de
+Vleesfibertjes van den Walvis, de schobben van
+eenen Karper, het kuytgreijntje van eenen
+Kabbeljauw, die evenzeer getroffen werd
+door de Circulatie van het Bloet in de Kik
+
+vorsworm, seer klaer en naakt voor de oogen
+gestelt als door het feit, datter meer dan
+tienmaal soo veel levende Dieren uit een
+Horn van een Kabbeljauw voortkomen als
+er Menschen op de Aarde leven.
+Zijn Sendbrieven, aan de Hoog Edele
+Heeren van de Koninklijke Sociëteit te Lon
+
+den beschrijven een aaneenschakeling van
+observaties, die hij in zijn vrijen tijd ver
+
+richtte. Een weetgierigheid, die met de
+jaren eer toe- dan afnam, dreef hem er toe,
+telkens andere objecten te zoeken, telkens
+andere voortbrengselen der natuur onder het mi
+
+croscoop te bestudeeren en de voor het ongewapen
+
+de oog onzichtbare structuren na te gaan. Na
+eindeloos probeeren waarbij de onvermijdelijke
+mislukkingen ieder ander dan Leeuwenhoek afge
+
+schrikt zouden hebben was hij erin geslaagd de
+lensjes te slijpen, die hij voor zijn, geheel
+zelfgeconstrueerde microscopen noodig had. Men moet
+niet te gering denken over dit werk: verstoken van
+goede slijp- en polijstwerktuigen,
+constructieteekeningen, wiskundige berekeningen, bracht hij
+het niettemin tot stand, de instrumenten te ver
+
+vaardigen, die in scherpte van beeld weinig onder
+
+doen voor het moderne fabrieksmicroscoop !
+Het is merkwaardig, dat Carl Zeiss, de stichter
+van de eerste microscopenfabriek ter wereld, bij
+zijn eerste duizendtal vervaardigde microscopen
+evenzoo te werk is gegaan: ook hij beschikte toen
+nog niet over formules en exacte gegevens. De
+kentering komt pas in het jaar 1866, als Ernst Abbe,
+een natuurkundige, zijn intrede doet in het be
+
+scheiden laboratorium te Jena, en de werking van
+het microscoop aan een uitgebreid onderzoek onder
+
+werpt: hij heeft in jarenlange studie de bestaande
+problemen opgelost, het slijpen der lenzen, het
+construeeren der verdere onderdeelen een streng
+wetenschappelijke basis gegeven kortom, Abbe
+heeft de theorie van het microscoop opgebouwd.
+Het pleit slechts voor de gaven van mannen als
+Leeuwenhoek, dat zij, alleen op hun ervaring
+steunend, even bruikbare instrumenten vervaardigd
+hebben !
+
+DE vooruitgang der wetenschap is voor een
+groot deel afhankelijk van nieuwe methodes,
+nieuwe hulpwerktuigen.
+Zoo heeft ook het microscoop, dat ons in staat
+stelt, de voorwerpen honderden keeren te
+vergrooten, geheel nieuwe gebieden geopend: ontleed
+
+kunde, bacteriologie, plantkunde om slechts
+enkelen te noemen hadden nimmer zulk een
+vlucht kunnen nemen, indien de wereld van het
+kleine niet in het onderzoek betrokken had kunnen
+worden.
+Maar zooals elke techniek oude grenzen ver
+
+breekt, schept zij op haar beurt weer nieuwe: Abbe
+heeft overtuigend bewezen, dat ook de meest
+kruq brut
+Afbeelding /on het eerste electronen-microscoop
+ingenieuze lichtmicroscoop een voorwerp eigenlijk
+niet meer dan achthonderd maal kan vergrooten;
+vergrootingen daarboven tot twee duizendmaal
+toe zijn technisch wel mogelijk, maar geven
+beelden, die steeds lichtzwakker worden, zoodat
+de winst aan den eenen kant tot verlies aan den
+anderen aanleiding geeft. De oorzaak hiervoor
+ligt zonder dat wij dit op deze plaats nader
+uiteen kunnen zetten in het feit, dat de golf
+
+lengte van het zichtbare licht vier-tienduizendste
+tot acht-tienduizendste millimeter bedraagt. Met
+stralen van kleiner golflengte is het, theoretisch
+gezien, mogelijk, de objecten wel sterker te ver
+
+grooten het heeft dan ook niet aan pogingen
+ontbroken, om b.v. met ultraviolette stralen betere
+resultaten te verkrijgen, maar tot nu toe is het
+effect vrijwel nihil geweest.
+Mistroostig moest men erkennen, dat de fijnere
+structuur der cellen, het microscopisch beeld van
+eiwitten, een geheim zou blijven tenzij van
+onverwachte zijde een koene stap werd onder
+
+nomen.
+Deze stap is ondernomen: het electronen
+
+microscoop is geconstrueerd !
+
+HET is nog geen halve eeuw geleden, dat de
+electronen hun intrede in de wetenschap
+hebben gedaan.
+Ze zijn ontdekt, doordat men met de nieuws
+
+gierigheid, om te zien, wat er gebeurde een
+spanningsverschil aanbracht tusschen twee
+electrische polen, die zich in een vrijwel luchtledige
+ruimte bevonden. Het gevolg was, dat van de
+negatieve pool, de kathode, stralen uitgingen, die
+die zich met een duizelingwekkende vaart van tien
+
+duizenden kilometers per seconde voortspoedden.
+De Amerikaansche natuurkundige Millikan stelde
+na een geniaal onderzoek vast, dat deze stralen uit
+deeltjes bestonden, electronen, die bijna
+tweeduizend-maal kleiner waren, dan de kleinste
+toendertijd bekende eenheid: het waterstofatoom.
+Indien men dezen electronenbundel aan haar lot
+overlaat, plant zij zich in het luchtledig rechtlijnig
+voort: een voorwerp, op zijn weg geplaatst, werpt
+een scherpe schaduw op een lichtend scherm, waar
+men de stralen op laat vallen.
+Het voor de constructie van onze nieuwste
+microscopen belangrijkste feit is echter, dat de
+baan der electronen door een magneet afgebogen
+kan worden: wanneer men nu een electrische
+magneet heeft, die uit twee tegenover elkaar ge
+
+plaatste, doorboorde platen bestaat, en men zendt
+door deze openingen een bundel kathodestralen,
+dan zullen deze stralen evenzeer afgebogen,
+evenzeer gebroken" worden, als met licht
+
+stralen het geval is, wanneer zij door een
+lens vallen. Het geheele complex kan nu
+zoodanig geconstrueerd worden, dat een
+voorwerp, hetwelk tusschen de kathode en
+de magneet wordt geplaatst, duizendvoudig
+vergroot op een lichtend scherm of een
+photographische plaat wordt afgebeeld. Aan
+
+gezien de kathodestralen een golflengte
+kunnen bezitten, welke twintigduizend maal
+kleiner is dan die van het zichtbare licht,
+is het theoretisch althans mogelijk, een
+object meer dan een millioen maal te ver
+
+grooten. Practisch stuit het bereiken van
+zulk een inderdaad fantastisch uitziend
+doel nog op zooveel moeilijkheden, dat het
+nog wel even zal duren, alvorens wij van
+een rood bloedlichaampje waarvan er in n
+kubieke millimeter bloed vijf millioen voor
+
+komen, een beeld kunnen vervaardigen
+met een middellijn van zeven meter !
+De apparaten, die momenteel in
+construcctie zijn het is nog niet zoo ver, dat
+men ze even gemakkelijk als een gewone
+microscoop kan aanschaffen vergrooten
+slechts" dertigduizend maal. Vergeleken
+met de mogelijkheden, die in het principe
+schuilen, is dit een klein getal, maar de
+winst blijkt duidelijker, indien wij ons herin
+
+neren, dat het gewone microscoop hoogstens
+tweeduizend maal vergroot.
+De afbeeldingen, die men met behulp van
+de nieuwe instrumenten heeft kunnen ver
+
+vaardigen, laten nu reeds ongekende moge
+
+lijkheden vermoeden.
+D'
+E eerste gramofoon, de eerste schrijf
+
+machine, waren onhandelbare appa
+
+raten.
+Wanneer men den condensator van een
+radiotoestel anno 1938 vergelijkt met de
+kolossale platen, die de eerste onderzoekers slechts
+aan zware kettingen op en neer konden bewegen,
+is er alle reden om aan te nemen, dat het
+electronenmicroscoop, zooals dit momenteel in het labo
+
+ratorium van Siemens en Halske vervaardigd wordt,
+langzamerhand zoodanig gewijzigd zal worden,
+dat vorm en prijs beter aangepast raken aan de
+bescheiden accomodatie en financieele draag
+
+kracht ! van de meeste laboratoria.
+Er zijn bovendien enkele andere moeilijkheden,
+die een uitgebreide toepassing nog in den weg staan.
+Allereerst is er het feit, dat het voorwerp, waar wij
+het sterk vergroote beeld van willen verkrijgen, in
+een luchtledige ruimte gebracht moet worden: de
+kathodestralen vormen n.l. alleen onder die omstan
+
+digheden een fraaien bundel; in de lucht worden
+zij her- en derwaarts verstrooid. Tevens vindt bij
+de bestaande apparaten zulk een
+warmte-ontwikkeling plaats, dat levende structuren ongetwijfeld
+beschadigd, zelfs vernietigd zouden worden, terwijl,
+tenslotte, alleen de allerdunste praeparaten, tusschen
+twee ragfijne collodiumblaadjes, zonder al te groot
+verlies door de electronen gepasseerd kunnen
+worden.
+Men ziet, dat er nog het een-en-ander moet ge
+
+beuren, alvorens de bioloog •—even mechanisch
+als hij dit nu met zijn lichtmicroscoop doet dag
+in, dag uit, zijn electronenmicroscoop zal hanteeren.
+Laten wij echter bij alle onvolkomenheden
+bedenken, dat de kennis en kunde van hen, die het
+principe van het electronenmicroscoop hebben ge
+
+vonden, en het, nu bewonderenswaardige, later
+wellicht onbruikbaar beschouwde, apparaat hebben
+geconstrueerd ook voor de bestaande technische
+problemen een oplossing zullen vinden.
+Wij twijfelen er niet aan, dat dan het electronen
+
+microscoop in de naaste toekomst een machtig
+hulpmiddel zal worden in den strijd van den mensch
+tegen de raadselen der natuur.
+Ir. B. M. VAN DER STEKKEN
+Was DE GROENE juist
+uitverkocht toen
+u er naar
+EEN GOEDE RAAD
+NEEM EEN ABONNEMENT!
+PAG. 14 DE GROENE No. 3215
+
+</text>
+<image timestamp="2002:09:12:22:47:57.00" size="307213">D10004VX.TIF</image>
+</page>
+</document>

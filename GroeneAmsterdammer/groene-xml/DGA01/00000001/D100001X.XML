@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18980807</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+.No. 1102
+DE AMSTERDAMMER WEEKBLAD VOOR NEDERLAND.
+UIT ONS BISMAJRCK-AJLBUM.
+Het visioen van den Bijkskanselier (1SS8).
+Een nieuwe Gessier (1889).
+Onze Reiziger (1889).
+JBISMARCIUZOON
+IN VREDES--ARTIKELEN
+Doch stil! O ziet, ziet, ginds, daar komt het weder!
+'t Zal wijken voor mijn woord, al zengt het mij I
+
+'t Ware onrecht, tegen zooveel majesteit
+Ben schjjn van ruw geweld slechts te gebruiken.
+'t Is onverwondbaar als de y'le lucht,
+En onze slagen zyn slechts schimp en spot . . .
+(Shakespeare, Hamlet.)
+
+
+Een moderne Franklin (1890).
+(De arbeidersbeu'eging als bliksemafleider.)
+Voor dezen mijnen hoed eisch ik uw hulde,
+Als voor den keizer zelv' of vreest zyn toorn l
+(Schiller, Wilhelm Teil.)
+BISMAECK Senior: Nu, jongen houd vooral te Constantinopel een oog in 't zeil, en denk aan de botten
+van den Pommerschen grenadier."
+BISMAKCK Junior: Ik zal er voor zorgen, vader, en bedenkt U vast. waarheen de volgende reis zijn zal.
+Wij zijn haast rond geweest."
+
+De strijd der beide autocraten (1890).
+Het ontslag van Bismarck (1890).
+BISMAECK : De vlieger gaat wel aardig op, maar pas
+op, Majesteit, dat het niet inslaat."
+Torst Bismarck en de reptielen (1890).
+Das Ange mit freude hinuntersah,
+Wie 's von Salamandern und Molenen und Drachen
+Sich regt' in der Drnckerschwarze Lachen.
+(Vrij naar Schiller.)
+Er zahlt die Haupter seiner Lieben
+Und sieh', ihm bleibt cin theures Haupt.
+(Vrij naar Sd/illn:)
+Hoe vorst Bismarck (als hij mocht) de hydra
+van het socialisme zou bestrijden (1893).
+Geen man aan het roer.
+Bismarck in de oppositie (1891).
+B. Gij kweekt de sociaaJ-democratie aan !
+W. Uw stelsel is verouderd en veroordeeld !
+B. Pas op, of ...
+W. Wie mij tegenstaat, dien verbrijzel ik!
+Bismarck's oppositie tegen Caprivi's legerwet.
+(1892).
+Ilijkskanselier Vox CAPEIVI : ,,/oolnng het hij onhebbe
+
+lijkheden blijft, kan Uwc Majesteit hem gornst zijn gang
+laten gaan; maar als hij uit school begint te klappen.
+/.uilen we hem herinneren, wat er met lïarry von Arnim
+is gebeurd."
+De Duits.'hèMICHKL: Ach, Durchlaucht. ik had altijd
+wel gedacht dat je een engel.s/oudt worden."
+Een welkome verstoring van het Europeesch Concert (1890).
+Vorst BIS^IAECK : ..lïichter wil ze doodpraten, Wilhelm w
+hervormen. Alles apekool. Jtijn advies ia doodschieten ',"
+zo
+dood,
+"- "
+
+</text>
+<image timestamp="2002:08:13:21:23:33.00" size="581191">D100001X.TIF</image>
+</page>
+</document>

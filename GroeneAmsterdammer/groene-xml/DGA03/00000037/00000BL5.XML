@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18891208</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland van 8 December 1889.
+r
+Er mee verlegen en er om verlegen.
+Dr. B ... s. Yrk-nd, u\v branrlkast is /oo vol.
+En &lt;!c mijne is lec:i; on liol;
+IK-bt j^e nicl een tun df u\oo:
+i)r. l!	w. \Vel, collega, deel maar incol
+Neem ;erusl zooveel je kunt;
+'i Is je alles best gegund.
+!&gt;e gaslliuisbouwer, in zijn schik,
+Vult nu /uu zakken rond en dik,
+Kn dankte voor liet gul onthaal
+liet Wilte Kruis wel duizendmaal.
+Sloomdrukkerij Ellennan, Hurms &amp; Co.
+(\ rij naar J. J. A. GOUVERNEUR.)
+
+</text>
+<image timestamp="2002:10:03:20:16:46.00" size="300446">00000BL5.TIF</image>
+</page>
+</document>

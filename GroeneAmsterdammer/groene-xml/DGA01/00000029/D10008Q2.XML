@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18920821</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+BIJVOEGSEL van de Amsterdammer, Weekblad voor Nederland, van 21 Augustus 1892.
+De soepketelzakjesorder.
+ajoor (leest voor uit: liet orderboek): Hij de manoeuvres, welke dit jaar buiten de verschillende
+garnizoenen gehouden /.uilen worden, zal een proef op groote schaal worden genomen met zwarte soepketelzakjes,
+die door den Min. v. Oorlog zijn ingevoerd en dienen moeten om het in de zon glinsteren van de eetketels der
+mareheerende troepen te voorkomen."
+Kapitein compagnies-commandant: ,.Mannen! heeft de vorige minister van oorlog getoond hoe het lot van
+den soldaat hem ter harte ging, door te bepalen, dat de sokken met zwarte in plaats van met roode wol /ouden
+Amst. Boek- en Steendrukkcrij, v/h. Ellerman, Harnas &amp; Co.
+
+worden gemerkt, niet minder ingrijpende maatregelen worden door Z.Exc. opvolger genomen. Hij heeft de
+witte voering uwer kleedingstukken door grijze vervangen; hij voerde de facultatieve horlogezakjes in; thans redt
+hij uw leven, door uw soepketels aan het oog des vijands te onttrekken. Waarlijk, onze minister is groot in
+het kleine en ... hm..."
+Luitenant (zijn chef te hulp komend): Ingerukt, marsch!"
+
+</text>
+<image timestamp="2002:10:01:21:25:43.00" size="269916">D10008Q2.TIF</image>
+</page>
+</document>

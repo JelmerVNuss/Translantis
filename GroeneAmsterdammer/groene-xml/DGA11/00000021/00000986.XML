@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300517</Datum>
+<Pagina>8</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+^
+Prinsengracht 837
+BEGRAFENISSEN (naar
+CREMATIE.
+&amp; Zn.
+Telefoon 37906
+met RIJTUIGEN o! AUTO'S]
+TRANSPORTEN.
+N.V. Meubelmagazijn Eden"
+MOLSTEEG - AMSTERDAM
+BOEKENKASTEN
+BEGRAFENISVEREENIGING
+N. SAX Jr.
+P.C. Hooftstraat 38 AMSTERDAM Telef.: 20341, 24250
+REGELING VAN BEGRAFENISSEN EN
+CREMATIES VAN UIT ALLE PLAATSEN
+EIGEN LIJKKOETSAUTOMOBIELEN
+
+
+Eigenlijk 'n overbodige vraag,
+wanneer ge een attentie wilt bewijzen.
+Onmiddellijk denkt men dan aan
+Droste. Waarom? Omdat iedereen,
+oud of jong, weet: Droste's Bonbons
+en Pastilles nimmer afwijkend in
+kwaliteit zijn Altijd Welkom"
+»ssE^^
+Belangrijke wenken voor de voeding
+i
+van V W KIND
+
+GEEF Uw kind de juiste voeding in
+de jaren van zijn sterksten groei.
+Quaker zal U den weg wijzen. In
+het rijk geillustreerde, 32 bladzijden
+^. groote handboekje dat gratis ver
+
+strekt wordt vindt U aanwijzingen
+voor een gezond dieet, door doktoren
+aanbevolen, en 35 smakelijke recep
+
+ten voor de toebereiding van
+Vlugkokend Quaker. Zend de Coupon.
+Alleen echt met dit merk,
+dat de hoogste waarde voor
+Uw geld garandeert
+COUPON
+THE QUAKER OATS COMPANY
+Postbus No. 905, Rotterdam C'2 Aj
+Wees zoo goed mij gratis Uw nieuwe Quaker Kookboek toe te zenden
+NAAM
+ADRES
+Dit aanbod is na 30 September 1930 niet meer geldig
+Vluykokend
+is hel beste Havermout
+
+</text>
+<image timestamp="2002:09:25:16:31:20.00" size="268732">00000986.TIF</image>
+</page>
+</document>

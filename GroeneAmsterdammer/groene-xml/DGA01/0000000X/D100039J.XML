@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19200717</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+N°. 8847
+Zaterdag 17 Juli
+A°. 1920
+DE AMSTERDAMMER
+WEEKBLAD VOOR NEDERLAND
+Onder Hoofdredactie van Prof. Dr. G. W. KERN KAMP
+Redacteuren: Prof. Dr. H. BRUGMANS, Mr. E. S. OROBIO DE GASTRO J r., Dr. FREDERIK VAN EEDEN, Mr. J. A. VAN HAMEL en H. SALOMONSON
+UITGEVERS: VAN HOLKEMA &amp; WARENDORF
+l Prijs per No. f 0.25. Per half jaar f 6.25. Abonn. loopen per jaar
+Redactie en Administratie: Keizersgracht 333, Amsterdam
+Adverfentiën f075 per regel plus 10 cent dispositiekosten
+
+INHOUD : Bladz. 1. Nieuwe Partijvorming,
+door prof. dr. O. W. Kernkamp ; De sociali
+
+satie van den Landbouw, door P. H. Burgers ;
+Tijdgenooten, door dr. W. G. C. Byvanck.
+2. De Vrede en de Conferentie, teekening van
+Jordaan; Krekelzang, door J. H. Speenhoff ;
+Buitenlandsch Overzicht, door prof. mr.
+J. C. van Oven. 3. Het Roode Lampje, door
+dr. Frederik van Eeden. 5. Voor de Vrouwen
+(onder redactie van mej. Elis. M. Rogge) ;
+De Nederlandsche Vrouw in de tweede helft
+der 18e eeuw, door mevr. A. H. Loeff—Bokma;
+Vrouwenbelangen, door mej. C. S. Groot;
+Tentoonstelling van in de Kamer gekweekte
+Planten; Uit de Natuur: De Winplaats
+Wandelplaats, door,Jac. P. Thijsse. 7.
+Scholeneenheid, door H. W. J. A. Schoof ;
+Boekbespreking, door ds. K- Vos; O.L.T.A.,
+door Edmond Visser; Prometheus II, door
+Joh. Huyts. 8. Muziek in de Hoofdstad,
+door H. J. den Hertog; Hofstad en
+Hofstedelingen, door Nuchterling ; Een en ander
+over den Heraldischen Adelaar, door C. H. W.
+Verster ; Spreekzaal. 9. Leekenspiegel, enz.;
+10. Charavaria ; Uit het Kladschrift van
+Jantje; Het Rijksmuseum (Na de drinkpartij),
+door H.V. ; Het Schietgat, door Melis Stoke.
+11. De rede van mr. Treub in den Econ. Bond,
+teekening van Joh. Braakensiek; Damspel
+door K- C. de Jonge ; Feuilleton : Actueel,
+door H. Visser.
+Bijvoegsel t Het bedreigde Polen, teekening
+van Joh. Braakensiek.
+NIEUWE PARTIJ VORMING
+
+i
+De heer Treub heeft verleden Zater
+
+dag aan den Economischer! Bond als
+politieke partij het doodvonnis
+beteekend. Zelfs al mochten de leden van
+dien Bond zich tegen het vonnis ver
+
+zetten, de uitvoering ervan zal alleen
+worden opgeschort; zonder Treub als
+leider kan de Bond zijn leven wel
+rekken, maar de fut is eruit.
+Daarmede is tevens de kwaal aan
+
+geduid, waaraan deze partij sinds hare
+geboorte leed. Zij dankte het betrek
+
+kelijk groot aantal stemmen, dat zij
+bij de verkiezingen van 1918 behaalde,
+niet in de eerste plaats aan de beginse
+
+len, die in haar programma werden
+verkondigd, maar aan de eminente
+persoonlijkheid van haar leider. Alleen
+om Treub weder in de Kamer te brengen,
+hebben velen hetzij hunne medewerking
+verleend tot de oprichting van den
+Economischen Bond, hetzij alleen hunne
+stem uitgebracht op zijne
+candidatenlijst. Het was te voorzien, dat zij
+het daarbij zouden laten en zich, zoo
+
+lang er geen nieuwe verkiezing in
+aantocht was, niet weer druk zouden
+maken voor den Economischen Bond.
+Maar de nieuwe partij heeft het ook
+hierom nooit tot een krachtig leven
+gebracht, omdat het falikant uitkwam
+met twee van de voornaamste ken
+
+merken, die haar van andere partijen
+moesten onderscheiden.
+Zij had gehoopt ook toeloop te zullen
+krijgen uit de gelederen van hen, die
+tot nog toe met de kerkelijke partijen
+waren medegegaan. Enkelen van dezen
+zijn tot haar overgekomen, maar zeer
+weinigen ; de overgroote meerderheid
+bleef gevangen in het web der antithese.
+Ook na het sluiten van den schoolvrede
+bleek de onmogelijkheid om in Neder
+
+land een politieke partijvorming tot
+stand te brengen, los van godsdienstige
+overtuiging of kerkelijke belijdenis;
+men mag nu wel aannemen, dat zulk
+een partijvorming nog geruimen tijd
+tot de vrome wenschen zal blijven
+behooren.
+De Economische Bond had verder
+zijne reden van bestaan willen zoeken
+in het op den voorgrond stellen van
+de behartiging der economische be
+
+langen. Toen Mr. Treub in de
+constitueerende vergadering van den Bond
+het verwijt onder de oogen zag, dat
+het programma van de nieuwe partij
+slechts oud nieuws bevatte, zeide hij :
+Dit is voor een groot deel waar; maar
+in het feit alleen, dat het waar is, ligt
+n van de meest afdoende bewijzen
+voor de noodzakelijkheid van de op
+
+richting van een bond als de onze.
+Bijna al die economische eischen en
+wenschen, die op ons program voor
+
+komen, inderdaad, men kan ze terug
+
+vinden in de programma's van andere
+partijen. Maar het is door een van de
+Kamerleden zelf ^00 juist gezegd :
+wat is het verschil? Die eischen staan
+daar op een zijspoor te verroesten, en
+wij willen ze op het hoofdspoor zetten
+en ze aan het rijden brengen."
+Dit was waar op het oogenblik, toen
+het gezegd werd, in December 1917.
+Maar de gebeurtenissen van de laatste
+jaren hebben voor alle politieke par
+
+tijen de economische nooden in het
+brandpunt der belangstelling geplaatst.
+Het is er nog verre van af, dat zij hare
+gedragslijn hebben afgestippeld ten
+opzichte van de nieuwe vraagstukken,
+die de veranderde economische struc
+
+tuur der wereld aan de orde heeft ge
+
+steld ; maar men kan haar niet langer
+verwijten, dat zij zich alleen of hoofd
+
+zakelijk met politieke quaesties bezig
+
+houden. De tijdsomstandigheden be
+
+vestigden de meening van de stichters
+van den Economischen Bond, -dat aan
+de behartiging der economische be
+
+langen de voorrang toekomt; maar zij
+bekeerden ook de andere partijen tot
+dit inzicht ; daarmede werd de Econo
+
+mische Bond als politieke partij over
+
+bodig tenzij hij een eigen standpunt
+zal weten te kiezen ten opzichte van
+de maatschappelijke vraagstukken van
+onzen tijd.
+Blijkens hetgeen Mr. Treub den
+vorigen Zaterdag heeft gezegd, gelooft
+hij niet aan de noodzakelijkheid om
+uit deze laatste overweging den Econo
+
+mischen Bond in stand te houden.
+Hij heeft in zijne rede den nadruk
+gelegd op de schade, die aan de
+vrijrfHF
+MANG1N EN GOURAUD
+
+n
+
+Maar laten in allen geval mijn poitus
+er ook hun part in hebben, zeide generaal
+Mangin, toen hem het plan werd gemeld om
+zijn leven te beschrijven. Hij wist al te goed
+wat hij had te danken aan zijn soldaten. Zij
+ook wisten wat zij aan hem hadden gehad.
+Tusschen de mannen en hun chef was er
+bij alle eerbied en bewondering een intieme
+verhouding met die vroolijkheid gepaard die
+bij den Franschen geest hoort.
+De generaal had er niet toe kunnen beslui
+
+ten zijn uniform met het strenge costuum te
+verwisselen, hij had zijn rooclcn pantalon
+behouden. Waarom draagt hij dat roode
+ding? vroeg de eene soldaat aan den ander.
+Wel, natuurlijk om zijn rooden d....
+broek aan den vijand te kunnen toonen, was
+het antwoord.
+
+Het leven van den soldaat in den krijg,
+maar ik bedoel van den soldaat die zich bewust
+werd van zijn lot, sloot zijn drama in zich,
+even als het geval was met het leven van den
+generaal.
+En welk verschil was er niet tusschen
+beider gevoel van het krijgsleven !
+Voor den een is het een inspanning, passie
+meestal, en een opoffering, waarin zich dik
+
+wijls bitterheid mengt, met die eene groote
+oplossing van den dood op het slagveld als
+het eind, voor den ander is het een strijd en
+een spanning van wil en geest met het uit
+
+zicht op triomf of nederlaag.
+Men moet ze daar zien, de poilus,
+marcheerend in den nevel achter elkander aan,
+met een smalle lijn, uitgeput van vermoeid
+
+heid, zich nauwelijks op de been houdend,
+maar in 't gelid blijvend, met liet oog op den
+voorman, zich sleepend door het diepe slijk
+over de versperringen heen tegen den heuvel
+of het fort in 's vijands handen, bijna niet
+meer bij machte het doel te bereiken en door
+een granaat getroffen wegzinkend in de
+bloedige modder, maar de lijn sluit zich
+weder aan, de voorman wordt gevolgd en men
+komt tot het doel.
+I! faut y aller a fond, jusqu' au dcrnier
+homme. jusqur au dernier soufflé, a la
+baïonnette et a la granade," zoo luidt de
+marschorder.
+
+Generaal Mangin, sinds 1010 commandant
+van een legercorps, man van actie, is overal
+waar slagen vallen en worden uitgedeeld.
+In den tijd dat Nivelle in Verdun het bevel
+voerde, heeft hij zich laten kennen door de
+inneming van het fort Douaumont. 3500
+gevangenen werden daarbij gemaakt, waar
+
+onder meer clan honderd officieren ; dezen
+beklaagden zich over hun slecht logies.
+Bied hun wel mijn excuses aan," liet Mangin
+den ofiidercn antwoorden, ,,wij wachtten
+hen niet in zoo groot aantal !"
+Tot den winter toe heeft de generaal bij Ver
+
+dun gevochten om de streek van vijanden
+schoon te vegen. Toen kwam tegen Kersttijd
+het vredesaanbod van den Keizer.
+Maar, stelde een manifest van Mangin
+aan zijn groep divisies vast, wij hebben
+nu de zekerheid van den eindelijken zege
+
+praal.
+
+Na den slag van 15'December op een ter
+
+rein dat bijzonder gunstig was voor den ver
+
+dediger, en in een seizoen dat voor ons groote
+bezwaren opleverde," ging de generaal voort,
+,,is het voor niemand meer de vraag of het ons
+mogelijk zal wezen een talrijker vijand met
+een geweldige artillerie te overwinnen. Wan
+
+neer wij onze bewegingen juist maken, onze
+artillerie en vliegtuigen goed weten te gebrui
+
+ken en onze infanterie, wel onderlegd, zich
+flink en wakker gedraagt, dan kunnen wij
+onder het opperbevel van een chef als Nivelle
+zinnige idee wordt toegebracht door
+de bestendiging van de innerlijke ver
+
+deeldheid der linkerzijde.
+Hij heeft als zijne meening te kennen
+gegeven, dat hetgeen de staatkundige
+partijen ter linkerzijde scheidt, door de
+omstandigheden naar achteren wordt
+geschoven, dat hetgeen ze samenbindt,
+thans zoozeer naar voren komt, dat
+de tijd is aangebroken om met ernst
+te overwegen, of men niet hetzij tot
+een fusie, hetzij althans tot een zeer
+nauwe samenwerking kan geraken."
+Voordat wij aan dit signaal tot ver
+
+zamelen gehoor geven, zouden wij de
+sterkte willen onderzoeken van de
+kracht, die de partijen ter linkerzijde
+samenbindt.
+Wat noemt de heer Treub als het
+cement der vrijzinnigen?
+Het volgende :
+De verschillende vrijzinnige par
+
+tijen en de niet op eenigen dogmatischer!
+grondslag georganiseerde belangen
+
+groepen en vrouwenorganisaties mogen
+op bepaalde punten afwijkende nuan
+
+ceeringen vertoonen, alle zijn zij een
+
+stemmig over de noodzakelijkheid om
+het economisch fundament van het
+Nederlandsch volksleven thans zoo
+
+veel mogelijk te versterken ;
+alle zijn zij het met elkander eens,
+dat die versterking niet gezocht moet
+worden in het aan-banden-leggen of
+wat nog erger is : op zijde schuiven
+van den particulieren ondernemings
+
+geest en dat, hoewel het op het oogen
+
+blik nog zeker niet aanstonds zal
+kunnen geschieden, de staat en zijne
+organen hunne bemoeiingen met handel
+en verkeer zoo snel en zoo veel mogelijk
+zullen moeten beperken ;
+alle willen zij ook de algemeene volks
+
+ontwikkeling, welke betere materieele
+levensvoorwaarden als fundament niet
+missen kan, bevorderen en verhoogen
+langs wettigen weg ;
+alle staan zij vijandig zoowel tegen
+
+over het consequent r'.:volutionaiie
+drijven der communisten als tegenover
+het revolutionaire opportunisme der
+sociaal-democraten ;
+alle voorts zijn zij eenstemmig in
+hun liefde voor de vrijheid van den
+geest en staan zij pa! tegen elke
+overheids-inmenging in die vrijheid, tegen
+elke poging om haar aan banden te
+leggen."
+Wij hebben dit lange citaat uit de
+rede van Mr. Treub overgenomen,
+omdat het naar onze meening erop
+aankomt of men de staatkundige ge
+
+dachten, die daarin worden geschetst,
+voor een stevige basis houdt, waarop
+het gebouw van een vereenigde vrij
+
+zinnige partij kan worden opgetrokken.
+In een hoofdartikel van de Nieuwe
+Rott. Courant werd betoogd, dat men
+de door Mr. Treub gegeven schets van
+de gedachten, die alle vrijzinnigen
+gemeen hebben, kan aanvaarden en
+niettemin erkennen, dat er binnen die
+grenslijnen ruimte is en moet zijn voor
+verschil in temperament en humeur."
+De schrijver van dit artikel voelt
+weinig voor een fusie van alle vrij
+
+zinnige partijen; hij zou het beter
+achten, wanneer de Liberale Unie
+zich oploste en hare leden een keus
+deden tusschen de partij der vrije
+liberalen en die der vrijzinnig-demo
+
+craten ; de leden van den Economischen
+Bond en' van de kleine belangen
+
+partijen zouden dan vermoedelijk dit
+voorbeeld moeten volgen.
+Binnen de grenslijnen, die de heer
+Treub trok, is er inderdaad ruimte voor
+verschil in temperament en humeur"
+maar laten zij ook niet ruimte voor
+verschillende opvattingen omtrent de
+taak van den staat op economisch
+gebied, voor opvattingen, zóó ver
+uiteenloopend, dat wie ze huldigen niet
+meer tot dezelfde staatkundige partij
+kunnen behooren?
+Van den stichter van den Econo
+
+mischen Bond mag men veronder
+
+stellen, dat hij de vereenigde vrijzinnige
+partij voornamelijk op economisch
+terrein hare werkzaamheid zal willen
+doen uitstrekken.
+Wat is nu volgens hem de gelijkheid
+van denkbeelden op economisch gebied,
+die de samenstelling van alle vrijzinni
+
+gen tot ne partij zou rechtvaardigen?
+Dat zij eenstemmig denken over de
+noodzakelijkheid om het fundament
+van ons volksleven te versterken
+is dit meer dan een phrase ?
+Dat zij den particulieren onder
+
+nemingsgeest niet willen aan banden
+leggen of op zijde schuiven en zoo
+spoedig mogelijk de bemoeiingen van
+den staat met handel en verkeer willen
+beperken maar dit is alleen iets
+negatiefs ; hier ontbreekt elke positieve
+uitspraak omtrent de taak van den
+staat.
+Men kan den particulieren onder
+
+nemingsgeest voor een onmisbaren
+factor in het maatschappelijk leven
+houden en toch voor sommige bedrijven
+de noodzakelijkheid van staatsinmen
+
+ging erkennen.
+Men kan de bemoeiing van den
+staat met handel en verkeer" wordt
+hier opzettelijk gezwegen over de
+nijverheid" of het bedrijfsleven"?
+voor zooverre die uit de oorlogsomstan
+
+digheden voortvloeide, geleidelijk willen
+opheffen en toch van meening zijn, dat
+de staat zich voortaan met de voort
+
+brenging zal hebben te bemoeien.
+Met andere woorden : men kan de
+schets, die Mr. Treub gaf van wat de
+vrijzinnige partijen samenbindt, onder
+
+schrijven en toch met andere vrijzinni
+
+gen aanmerkelijk verschillen, niet
+slechts in temperament en humeur,"
+maar in de opvatting van de taak van
+den staat ten opzichte van de maat
+
+schappelijke voortbrenging en ver
+
+deeling.
+Zoodat wij zouden willen betwijfelen,
+de gelederen van den vijand doorbreken.
+Wij hebben de methode en wij hebben
+den leider. Dat geeft ons de zekerheid van te
+slagen."
+,,Wij wisten", zoo legde naderhand op het
+terrein zelf maarschalk Pétain den slag van
+15 December 1!UG uit aan Konine Alfonsus
+van Spanje, dat de mannen als zij geen
+bovenmenscheliiken moet! bezaten, niet legen
+die hel van het geschut konden ingaan. Zij
+zijn er toch tegen ongetrokken. En zij zijn er
+doorheen gegaan."
+
+De beslissende aanval, het offensief in
+grooten stijl, zou dan door samenwerking
+met het Engelsche leger geschieden in het
+voorjaar van 1(J17. Nivelle, de groote, voort
+
+varende chef, men was er van overtuigd, zou
+liet plan, nog door Joft're opgemaakt, met
+ijver volvoeren.
+Aan Mangin, als commandant der zesde
+armee, was een voorname rol toevertrouwd.
+Hij geloofde met hart en zie! aan het succes.
+Reeds zag hij de Duitschers over de Fransche
+grens heengejaagd, uit Belgiëverdwijnen.
+bc marschen immers waren, bepaald, de pun
+
+ten waar men den vijand de nederlaag zou
+toebrengen, stonden vast, de tijd was secuur
+uitgemeten.
+n verklaarde Nivelle zich niet tevreden en
+gerust !
+Waarom moest er tegenwerking uit het
+eigen kamp voortkomen? Het ministerie,
+waarin Painlevéhet departement van Oorlog
+had genomen, onlangs eerst opgetreden,
+toonde zich onzeker en aarzelend, enkele ge
+
+neraals kritiseerden het krijgsplan, sommige
+Kamerleden wantrouwden het beleid van Ni
+
+velle, ja, van den beginne af, toen het een
+
+maal tot actie zou komen, lag er over den slag
+van April l!)17, die voor een definitieve over
+
+winning bestemd was, een nevel van twijfel,
+terwijl toch zoowel officieren als soldaten een
+vaste hoop bleven koesteren. Het i f. rooi' de
+laatste maal, t/iuiit.—Dat was het woord, dat
+in de rijen rondging.
+
+Mangin's troepen waren gelukkig bij den
+aanval op 16 April, ofschoon zij verkregen
+verre van geheel wat de voorgeschreven taak
+was geweest ; de twee volgende dagen gingen
+zij luisterrijk voort met het offensief, duizen
+
+den en duizenden gevangenen werden gemaakt
+maar toen kwam op eenmaal het bevel den
+opmarsen te staken. Nivelle had de belofte
+gegeven, wanneer het bedoelde resultaat niet
+zou worden bereikt, de actie geheel on te geven,
+hij ordonneerde thans den stilstand. En het
+heette dat de slag niet anders dan een
+menschenmiiord op groote schaal was geweest.
+Tegen Mangin, als was het een afspraak,
+keerde zich nu de meening der menschen. F.r
+werden overdreven getallen genoemd over de
+verliezen; welke zijn armee had geleden. Men
+ging zelfs over tot vervalsching der tabellen,
+en telde de doode Senegalcezen tweemaal,
+eenmaal ais soldaten en een tweede maal als
+zwarten. Men verlangde onstuimig dat de
+generaal van zijn post werd ontheven. Toch,
+in werkelijkheid had zijn armee minder gele
+
+den dan cie andere groepen van divisies.
+Nivelle wilde hem eerst niet loslaten. Dan
+gaf hij t«e, en hij zelf werd cenige dagen
+later vervangen.
+Generaal Pétain kreeg het opperbevel.
+Het eerste wat hij had te doen, wa? het moreel
+van het leger te herstellen. Het had door den
+tegenslag en de propaganda van onzuivere
+elementen sterk geleden. Het herstel had door
+fusillades plaats.
+
+Onder de toejuiching der socialisten in het
+Parlement sprak Painlevévan de generaals
+die de rol van Napoleon wilden spelen en die
+onder den grootschen sch'jn van htm manoeu
+
+vres de leegte en het gemis aan voorbereiding
+van hun maatregelen trachten weg te bergen.
+Ziin redevoering kon gelden voor Nivelle,
+maar zij ging direct tegen Mangin. Hij was
+de kwade man.
+De commissie v?n onderzoek. Foch en
+Goiiraud hadden daarin zitting, waarvoor
+de generaal moest verschijnen, sprak hem
+echter vrij van alle schuld. Hij blijft die hij
+geweest is," was het eindoordeel, de prach
+
+tige aanvoerder bij Verdun, wiens geweldige
+of er reeds ernstig sprake kon zijn
+van een nieuwe partijvorming der
+vrijzinnigen, zoolang deze hunne mee
+
+ning ten opzichte van de nieuwe econo
+
+mische vraagstukken niet scherper
+hebben geformuleerd. &gt;.. $
+Maar de verdere uiteenzetting van
+deze meening moeten wij voor een
+volgend artikel bewaren.
+KERNRAMP
+Illlllllll	IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII1IIIIIMIIIIIIIIIIIIII1
+
+SOCIALISATIE IN DEN
+LANDBOUW
+
+Van de politieke, socialistische voorstellen
+inzake een maatschappelijke reorganisatie zijn
+die van het Duitsche Spartakus en de
+Hollandsche S. D. A. P. wel het meest uiteen
+
+loopend. Voorzooverre die voorstellen betrek
+
+king hebben op het grondgebruik (landbouw
+enz.) wijken ze al zeer sterk van elkaar af
+en het is duidelijk, dat in de oorspronkelijk
+Marxistischebewegingideeën tot uiting komen,
+die met elkaar in flagranten strijd zijn. Het
+was vóór den oorlog reeds duidelijk dat het
+vraagstuk van de socialiseering van den land
+
+bouw wel het lastigste was op te lossen in
+de theorieën der geleerde leiders. Eduard
+David had reeds een knap werk over deze
+zaak geschreven, dat op landhuishoudkundig
+gebied werkelijk zeer heldere denkbeelden
+weergaf, maar dat in gebreke bleef een op
+
+lossing te geven in socialistischen zin. De
+revolutionnaire ontwikkeling der laatste jaren
+heeft nu tal van leiders de pen doen grijpen
+om hun socialisme te toetsen aan het land
+
+bouwvraagstuk en een theoretische oplossing
+te geven van de geweldige moeilijkheden die
+hier hun maatschappelijk systeem in den weg
+staan.
+Kautsky was, een der eersten, klaar met
+een programma, dat voorstelde de socialistische
+ontwikkeling te doen plaats hebben onder
+leiding van gemeentelijke besturen, die de
+boeren bij elkaar zou voegen door een soort
+van een coöperatief systeem bij de
+grondbewerking, den aan- en verkoop, enz. enz.
+Zuiver Duitsch voelend verliest de betcoger
+al te veel de klein- en middelbedrijven uit
+het oog en is zijn schema te los van
+practische mogelijkheden van toepassing. De
+geweldige ruilverkaveling die noodig zou zijn
+voor zijn systeem is practisch onuitvoerbaar.
+Trouwens de brochure van Kautsky bevat
+talrijke plannen die, zoo men ze tot uitvoe
+
+ring wilde brengen, schipbreuk zouden lijden
+op de bestaande, zeer ingewikkelde toestanden.
+Meer rekening *net den bestaanden toe
+
+stand houden Spartakus en de Nederiandsche
+S. D. A. P. Zij geven overigens een totaal
+verschillende oplossing. In hoofdzaak komen
+hun voorstellen op het volgende neer.
+Spartakus wil de groeibedrijven direct ont
+
+eigenen voor de gemeenschap. Als
+grootbedrijven rekent het al degene waar naast de
+boerenfamilie en de inwonende knechts, nog
+arbeiders voor het werk noodig zijn. Deze
+scheiding tusschen groot- en kleinbedrijf is
+beter dan die naar de oppervlakte van het
+gebruikte land, maar is niettemin in de
+practijk lastig door te voeren. Deze onteigende
+bedrijven komen onder het bestuur van een
+zelf gekozen Gutsrat", welke raad beslist
+over het aannemen en ontslaan van arbeids
+
+krachten, vaststelling der loonen en van den
+arbeidsduur, samenstelling van het bedrijfs
+
+plan, de aflevering van den niet voor eigen
+behoeften noodigen oogst, de vaststelling der
+benoodigde grondstoffen en hulpmiddelen als
+zaaizaad, fokvee, mest, voederstoffen enz.enz.,
+vaststelling der benoodigde levensmiddelen,
+kleeren en huishoudelijke artikelen voor de
+verschillende gezinnen, en de vaststelling van
+het benoodigde bedrijfskapitaal.
+Centrale banken zullen deze bedrijven
+gang eerder wat ingetoomd moet worden dan
+dat hij een prikkel behoeft." Het was verre
+van een blaam.
+Heeft Mangin toch gedacht zijn ontslag te
+nemen? hij heeft het idee opgegeven, toen
+Clemenceau het bestuur der zaken in handen
+kreeg. Clemenceau heeft hem een commando
+teruggegeven. In den grooten slag van Frank
+
+rijk van het jaar 1918 is Mangin de aanvoer
+
+der der 10de armee.
+
+Generaal Gouraud is de bevelhebber ge
+
+weest die in Juli van dat jaar de kans der
+Duitschers tegenover het Fransche leger heeft
+doen keeren. Aan het hoofd der 4de armee
+heeft hij in de Champagne weerstand geboden
+aan den Duitschen schok. Von Einein, de
+Duitsche aanvoerder, was. zeker van de vic
+
+torie ; hij stuitte tegen een, onverzettelijk
+leger. Het waren de soldaten door Gouraud,
+den vriend van generaal Pétain, afgericht en
+geleid. Met hen heeft hij den vijand voor zich
+uitgedreven.
+Tegelijkertijd was de geweldige gang"
+van Mangin aan het werk. Men heeft hem
+willen matigen ; Pétain heeft gewaarschuwd
+en Fayolle heeft vermaand ; maar Mangin
+had thans Foch op zijn hand, en hij drong
+ongehinderd naar de victorie. Men heeft hem
+ons geschilderd, hoc hij zijn voorbereiding
+tref t'met het oog op den aanstaanden veld
+
+slag. Met liet oo», zoo is de ware uitdrukking ;
+want in dat gretig, pittige, vurig schitterende
+oog van den generaal glanst vooruit de heftige
+begeerte naar de overwinning. Vooruit! is
+zijn devies.
+"Wat is hij blij geweest, toen hij de frissche
+onstuimigheid der Amerikaansche troepen
+zag. . Gij zij t er op los gegaan alsof het een
+feest was". Vons y avcz couru comme d unc
+iele," heeft hij hen toegesproken, en het feest
+der bevrijding van het vaderlandsche grond
+
+gebied heeft generaal Mangin gevierd.
+
+
+W. G. C. B Y v A N c K
+
+</text>
+<image timestamp="2002:08:24:16:32:32.00" size="471938">D100039J.TIF</image>
+</page>
+</document>

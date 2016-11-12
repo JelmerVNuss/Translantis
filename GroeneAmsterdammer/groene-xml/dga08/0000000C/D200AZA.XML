@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19340623</Datum>
+<Pagina>15</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+•. T - .-.?-J';--'i»-;&gt;'V--V'': •. •
+Wie is het, die zoo hoog in 't blindend licht gezeten,
+Van Pallas' gloed omglanst, eer god dan mensch mag heeten?
+Dat is de Prof. Aan hem zij deze zang gewijd;
+Gij spreekt van hooggeleerd? Ik prevel: Majesteit.
+Hij is een super-mensch, met statige gebaren,
+Een vollen breeden baard, en veel te lange haren,
+Die maken, dat de kraag van zijn gekleede jas,
+Om 't smalle staande boordje bollend, glimt als glas.
+Zijn bril hangt laag, te laag: hij kan er niet door kijken,
+Daarboven komt dan ook een groote knijpbril prijken,
+Zoodra hij iets wil zien. Maar dftt gebeurt alleen
+Als hij studeert, met stapels boeken om zich heen.
+De stof zijns pantalons is niet te onderscheiden;
+Men zoekt naar tint en snit, maar vindt ze geen van beiden.
+Zijn elastieken schoen gelijkt een modderschuit,
+Het lusje, dat de broekspijp steunt, steekt achteruit.
+Hij loopt met krommen rug. Het muffe kamerleven
+Heeft hem de vale kleur van kleffe klei gegeven,
+En, schoon het, zoo gezegd, niet bar eerbiedig klinkt,
+Zijn nagels zijn hm, hm, zijn vingers zijn beïnkt.
+Hij drinkt geen alcohol, verfoeit cafés en kneipen,
+Maar rookt onmatig sterk, uitsluitend Goudsche pijpen.
+Hij eet onsmakelijk. Hoe dat precies geschiedt
+Verzwijg ik liever. Maar geruischloos gaat het niet.
+Hij spreekt adagio. In magistrale zinnen,
+Die steeds met een citaat uit Cicero beginnen.
+Wordt ieder onderwerp, hoe simpel ook van aard,
+Verheven tot probleem, kat' exochèn verklaard.
+'t Is hem onmogelijk een vlot gesprek te voeren,
+Als gij het waagt terloops iets luchtigs aan te roeren,
+Maakt hij er tot uw schrik een zwaar examen van;
+Gij zakt, en gaat naar huis als een gebroken man.
+Hij weet ontzettend veel. Men kan van hem verklaren:
+Al wat in boeken staat, is in zijn hoofd gevaren,
+In studieboeken dan, want andre leest hij nooit;
+Dit maakt hem razend knap, onpraktisch en verstrooid.
+Hij trapt in elke plas en dergelijke zaken,
+Vergeet zijn boordje dicht, zijn stropje vast te maken,
+Gaat uit met vrouwliefs hoed, neemt den verkeerden trein,
+Loopt met zijn paraplu in feilen zonneschijn,
+Hij brandt zich aan zijn pijp, of wacht eens, ik vergis me,
+Es ist nicht wahr. 'k Beging een grof anachronisme.
+Zoo is hij niet, helaas, ik zeg het met een zucht;
+Dit is het type-prof van d'ouderwetsche klucht.
+En aangezien ik toch naar waarheid wil typeeren,
+Ben ik het nummer nog eens goed gaan observeeren.
+Ik nam een half dozijn. De gulden middelmaat.
+God zegene de greep. Ziehier het resultaat.
+Hij is gewoon gekleed. Hij pronkt niet met zijn kennis.
+Hij praat als iedereen, fietst, speelt biljart en tennis.
+In smetloos wit flanel flaneert hij langs het strand,
+Stoeit met een nimf j' in zee, of zonnebaadt in 't zand.
+Hij laat zich in een bobslee langs de duinen glijden,
+Chauffeert, en wordt bekeurd voor veel te hard te rijden.
+Leest detectief-romans, kijkt mooie meisjes na,
+Rookt sigaretten, en bezoekt de cinema.
+Hij drinkt een slok op tijd, natuurlijk steeds verstandig,
+Maar 't smaakt hem opperbest. Hij 's praktisch, kwiek en handig.
+Hij is een vlot causeur op elk mondain diner,
+En wordt erbij gedanst, dan draait hij lustig mee.
+Heeft hij van Cicero als knaap soms iets geweten,
+Dan is hij 't nu al lang van woord tot woord vergeten.
+Hij houdt de bellettrie van deze dagen bij,
+Om kort te gaan, hij lijkt precies op u en mij.
+Ik moet dus tot mijn spijt mijn vulpen nederleggen,
+Er valt van den professor niemendal te zeggen,
+En 't best is nog misschien, dat ik hem zoo typeer:
+^Extinctum genus est. Hij is geen type meer.
+CHARIVARIUS
+
+
+</text>
+<image timestamp="2002:10:28:15:42:00.00" size="254202">D200AZA.TIF</image>
+</page>
+</document>

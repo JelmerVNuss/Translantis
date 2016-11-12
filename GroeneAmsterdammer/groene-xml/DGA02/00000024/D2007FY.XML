@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18901109</Datum>
+<Pagina>7</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE AMSTERDAMMER, WEEKBLAD VOOR NEDERLAND.
+Eene. kunst die weer in grooter eer komt dan
+*y langen tjjd genoot, is die van den parfumeur.
+"Onlangs beweerde een philosoof in Figaro, dat de
+vrouwen voor odeurs onverschillig -waren, maar
+toch met verwonderlijken tact wisten, welke odeur
+•bjj hare persoonlijkheid paste, om deze tegenover
+den man te completeeren. Hoe het zij, men
+eischt tegenwoordig in het toilet harmonie met
+tien parfum; het werd onlangs door kenners" in
+•eene elegante en uiterst moderne jonge vrouw
+afgekeurd, dat zij zich bij een toilet fin-de-siccle
+met de odeur maréehale, die tot het tijdvak
+Louis XIV behoort, har! geparfumeerd.
+Dit is wat overdreven, maar mon parfumeert
+zich weer eterk, en niet zooals in het buitenland
+den zakdoek, maar vooral den hals. Ook giet men
+flacons leeg om den onderrand van het kleed,
+zoodat do dame onder het gaan in den salon den
+indruk maakt van over een perk wolriekende
+bloemen te wandelen.
+* *
+Het dames-comitévoor Kindervoeding" heeft
+•eene circulaire verzonden, waarin onder anderen
+gezegd wordt:
+"VVij wagen het voor kindervoeding thans direct
+bij u aan te kloppen. Dank zij de introductie on
+
+zer vriendelijke zusteren, hebt gij ons hot vorig
+.Jaar zóó ruim bedacht, dat gij zelven ons hebt
+aangemoedigd, de poging te herhalen. Sedertdien
+is er yeel gesproken, om te beoordeelen, wie
+eigenlijk de kindervoeding moet betalen, parti
+
+culieren of gemeente, of beiden te zamen. Men
+maakt zich van. beide zijden warm en het ge
+
+vaar bestaat, dat in den drang der geleerde
+edtmeeringen de kinderen het zullen moeten
+misgelden. Oij weet, wat eenmaal met Saguntum
+.gebeurde.
+En toch, gelooft het ons, het doet den kinderen
+«r waarlijk weinig toe, wie geelt, mits zij slechts
+ontvangen wat zij hoog noodig hebben, het ver
+
+kwikkend, lavend, lichaam en geest versterkend
+voedsel, dat wij hun zoo gaarne, zoo blijmoedig
+uitreiken, als men er ons toe in staat stelt.
+"Wij vrouwen, zouden u wel deze oplossing
+'van het theoretisch vraagstuk willen voorstellen :
+Geeft allen, goeft zooveel u mogelijk is, zon
+
+der u af te vragen wat uw buurman doet.
+"Geeft, opdat het geloof aan het goede in de
+jeugdige, voor indrukken zoo vatbare gemoedoren
+•over de toekomstige levensopvatting beslisse,
+opdat de ouders in den duisteren strijd voor het
+bestaan een lichtpunt vinden in uw goedheid.
+opdat, te midden van wat de geesten verdeelt, de
+weldadigheid verzoenend en troostend optrede, om
+-allen te vcreenigen tot de eenheid der
+menschenliefde. Dat is de taak der vrouw in de samenleving.
+Helpt ons die volvoeren!"
+De circulaire is ondertcekend door: mevr. E.
+S. Kerdijk—Matthes, Den Haag; mej J van
+Heukelom, Ueercügr. 412; mevr. . Gompertz-Jitta,
+Presidente, Keizersgr. 704; mej J. Bundten,
+Secretaresfe, Keizersgr. 77; mej. E. S. Bienfait,
+Sarphatistraat 45; mej. H. M. Boissevain, Keizersgr.
+717; dames M. en P, C. Brandt, Heerengr. 514a;
+Wej. J. Brusse, P. C. Hooftatr. 1"&gt;; mej. M
+Cliemet, Leidschegr. 04; mej. E. P. II. Fuchs, Singel
+13; mej. E. Güdemeestor, Keizersgr. (MG ; mej.JT.
+Guépin, Heerengracht 324 ; mej. G. Heemskerk, C.
+Ilnygensstraat 13 ; mevr. Hudig-Löhr.is,
+Snrphatistraat 41; mevr. N. Hyde-Meijer, Binnenkant 26;
+taej. W. Insinger, Westeinde 18 ; mevr. A.
+Janssen-Rehbock, Plant. Middenlaan 22; mej. S. Levert,
+Achtergracht 29; mej. J. Everwijn Lange,
+Ileerengracht 491; mej. A. ter Meulen, Ilc-erengraoht
+252; mej. J. W. Kienhuys, Tesselschadeslraat 21;
+mej. G. Piek, Heerengracht 2.58; dames J. E.
+•en E. J. G. Reijuvaan, Verl. Yossiusstraat 52;
+mej. M. Robinson, Binnenkant 24; mej. A.
+Schöffer, Keizersgracht 319; mevr. K.
+SalmonsonStokvis, Stadhouderskade 151; mevr. II
+SinionsGodefroi, Plant. Middenlaan 20bis; mevr. M.
+Tetterode-Blankenberg, Park\vegG8; mevr. N.
+iei'emhalCantor, Westeinde 11; mej. N. Tutein Xolthenius,
+Heerengr. 132 ; maj. Cateau J. Tilanus, Heerengr.
+406; mevr. M. v. d. Velde-WesseKng, Binnenkant
+19 ; mevr. A. Veltman-IIeyse, Plant. Krausche laan
+14; mej. A. Veltman, Heerengracht 94; mevr. A.
+Werthetm-Bicker, Leidschekado (m; mej. F.
+Wertheim, Ainsteldijk 1; mevr. M
+WeslermanSmaal, P. C. Hooftstraat 14; mej. S. Wilkens.
+Keizersgracht 333 en dames Ada en M. K.
+Wolterbeek, Ruysdaelkade 23,
+* *
+Zaterdagavond l November word een
+Guldensen Twee-Guldens-bazar van luiermandsgocdercn,
+kinderjurkjes, manteltjes enz. gcopand. Verbreede
+Hoogstraat no. 11 hoek O. Z. Achterburgwal.
+Maisou Bébéis de eerste ba/ar voor dergelijke
+artikelen. Als reden voor den inderdaad niet
+hoogen prijs, in vergelijking van de qualiteit der
+artikelen en vooral van de hooge sommen die
+anders voor luierir.andsgoed gevraagd worden,
+geeft men op: overproductie, ontstaan door de
+philanthropie der buitenlandsche fabrikanten, dio
+hunne arbeidsters, ook buiten bet seizoen, aan
+het werk wilden houden.
+E—e.
+
+
+Allerlei
+Bij de Fransche Kamer is een vrij curieus voor
+
+stel ingekomen, van den hoor Einile Moreau,
+omtrent het gebruik der adellijke titels.
+De afgevaardigde van Ie Xord brengt, in zijn
+memorie van toelichting, in herinnering, dat een
+der eerste daden van de Fransche revolutie is
+geweest, het afschaffen van de adellijke rechten
+•op den grond. De nacht van 4 Augustus 1789
+heeft zijn beroemdheid te danken aan diu belang.
+rijke daad.
+De Constituante deed nog meer; zij schafte den
+erfelijken adel at, zijne titels en al de vrijstellin
+
+gen en voorrechten die er nog aan verbonden
+waren.
+Sedert hebben de monarchale regeeringen be
+
+proefd, de schim van den ouden adel wscr in het
+leven te roepen, en thans nog hechten eenige
+lieden waarde aan het bezit van ouderwelsche en
+belachelijke titels.
+En toch, zegt de heer Morean, moest het axioma
+van het leenstelsel geen heer zonder land, geen
+land zonder heer," dien adel doen begrepen, dat
+het bezit vau een nutteloozen titel, zonder rech
+
+ten of verplichtingen eraan verbonden, niet alleen
+eene aanmatiging van rechten is, maardaaren bo
+
+ven een ongerijmdheid uit historisch oogpunt.
+Men heeft, wel is waar, dan de voldoening der
+ijdelheid, een snorkenden titel, een naam die in
+den mond der knechten klinkt, en aangenaam
+eenige ooren streelt, waarin nog een overblijfsel
+van den voorvaderlijken hoogmoed trilt; af
+
+stammelingen van edelen of van rijkgoworden
+knechten tooien zich er met vreugde mede en
+houden zich voor des te voornamer. Zij hebben
+nooit Luimen voelen met hoeveel minachting wer
+
+kelijk verheven personen deze titels laten glippen
+die niets tot hunne waarde zouden toedoen. Lazare,
+graaf Carnot, Yictor. graaf Hugo, zouden ons
+innig belachelijk schijnen, zij zouden in ons oog
+n den grooten vaderlander n den grooten dich
+
+ter verkleinen.
+Eene belasting, die den menschelijko ijdelheid
+trof, en niet trots betaald zou worden, bijna
+met vreugde zou eene model- belasting zijn.
+Waarom dan niet zulk een nutteloos ding als een
+adellijken titel treffen ?
+De heer Moroau stelt daarom voor, door de
+dragers van adellijke titels de volgende
+jaarlijksche rechten te doen betalen :
+voor het eenvoudig de'' . . . 500 francs
+voor ditzelfde tweemaal.... 1,000 a
+voor den titel van ridder . . . 1.000
+baron . . . 5,000
+'„vicomte. . . 10,000
+graaf. . . . 20,000
+- ,. markies. . . 30.000
+hertog . . . 50JOOO
+prins. . . . 100,000
+graaf of hertog met den titel van
+Hoogheid	200,000
+prins met denzelfden titel . . . 250,000
+De prijzen van dit tarief zou met 50 percent
+verhoogd worden als de drager van den titel er
+zijn vrouw in wil doen doelen.
+ledere gemeente waarvan men den naam aan
+
+neemt, om er een adellijken naam van te maken,
+zal recht hebben op een schadevergoeding, lede
+
+re gemeente zal het gebruik van haar naam of
+dien van eene hoeve, een kasteel, enz., mogen
+afstaan; zelf» zal dit bij opbod en afslag kunnen
+gaan. ledere gemeente zal, wanneer zij er in be
+
+hoorlijken vorm toe gerechtigd is, mogen beschik
+
+ken over een adellijken titel. De titels prins en
+hertog intusschcn zullen bijzonderlijk mogen wor
+
+den verleend door do hoofdplaatsen van depar
+
+tementen ; die van markies en graaf door de
+hoofdplaatsen der arrondissementen; die van
+vicomte en baron door de hoofdplaatsen van
+cantons ; die van ridder door dorpen.
+liet voorstel van den heer Moreau houdt ook
+nog in, dat het gebruiken van een adellijken titel
+door een ambtenaar, onmiddelijk en van rechts
+
+wege diens afzetting zou meebrengen.
+
+Er is te Parijs druk gesproken over de slang,
+waardoor Sarah Bcrnardt zich in de rol van Ci
+opatre den doodelijken boet laat toebrengen, en
+zelfs een parfumerieën-fabrikant raaskt met het
+beest reclame in hot volgoi.de versje :
+L'aspic qui baise Cléopatre
+Et que chaquo soir, au théa'ro,
+On voit mordre son sein d'alba-tre,
+K'est si gourmaml de ces appas,
+Que par..'o que madame Sarah
+Du subtil Congo les frotta!
+
+! De Mugddnirgcr Kaiutig deelt mede dat do
+! koetsier van generaal von Moltke's vader, een
+der beste vrienden uit (ie jeugd van don veld
+
+maarschalk, nog op bet landgoe;! Kockeholm leeft,
+waar bij zich van zijn bespaarde penningen een
+huisje gekocht beett. Herman Jenckel. '/.on heet
+de koetsier, is nu 96 jaar oud, naar lichaam en
+geest bijzonder flink en krachtig; minder is dit
+met zijne 90 jarige vrouw het geval, hetgeen dan
+! ook Jenckel, overigens een goedgehumeurd en
+, vroolijk grijsaard, veel zorg geef'r.
+i Op den Moltkedag was de oude man zeer
+l opgewonden en haalde allerlei herrinücringcn uit
+j de jeugd van den go.-ieraal-veldmairschalk, r n
+zelfs van diens vader op. I&gt;o Deensrhc ger.eraal
+verteerde destijds zijn pensioen te Kiel, en onder
+zijne weinige liefhebberijen behoorde daze, ieder
+voorjaar met zijn eigen ruisvragen met twee paar
+
+den een reis door Duitsc'iland te ondernemen, en
+eerst tegen den herfst terug te keeren. Eens, in
+den tijd toen de zoon in 'i'rrksehen dienst was,
+zeide de ger.eraal in liet voorjaar tor Jenckel:
+Hermann, inspannen; het weer wordt goed, en
+wij hebben ditmaal een vciro reis." Waarheen
+dan, generaal'/'' We gaan Heümiitli ep-ooken."
+De koetsier vast '.vel, dat er vau tegenspreken
+niet inkwam; hij waagde alleen
+hfioi'd.-clinddend optemerker.: Turkije is ver, zeggen 20."
+Dit hielp echter niet, alles wr-rd voor de
+reis in gereedheid gebracht : den volgenden
+morgen reeds zat hij mot zijn heer op Let rijtnig,
+dat plaats had voor twee personen, en zij reden
+do wijde wereld in. De tocht ging niet vlug, en
+toen men do Boedapest gekomen was, begreep do
+generaal dat, in den Balkan het boozo weer hem
+zou overvallen, en keerde terug. Toch w.-&gt;s de iris
+i uit Hongarije naar Kiel terug nog een heele
+oni derneming en Jenckel vertelt er gaarne de avon
+
+turen van; bij doet dit met do grootste helderheid,
+en de lieden van IJockeliolm luisteren gaarne
+naar hem.
+
+1 Bij den antiquaar Mai te Berlijn ligt in de
+winkeletalage eene geklennie bontgraiiire vau
+j Gubitz, die- graviu Vosz'1 voorstelt, cie
+opperhol! meesteres van koningin Louise \an IViiiseii, eene
+opperboimeesteres vau den ouden stempel, en!;cl
+vormen en etiquette. Ite opperkanierhoer vorst
+von WittgCMstein, een geestig man, bield er van
+de oude dame op .allerlei wij/en te plagen. Voor
+haar 8 Ion verjaardag, op 11 Maart 181.'.!, liet hij
+door Gubitz baar portret naar bet pastei van
+G rail' iu hout snijil'.'ü. liet werd haar aangeboden
+met een gedicht, ia hare appartementen iu de
+benedenverdieping van bet koninklijk paleis. Het
+gedicht was getiteld : ,,M: l'V-Kim/i:, bet belang
+
+rijkste uit bet, levun dur excellente Mevrouw de
+gravin von V'osz. Epos in dr;e zangen.' liet ge
+
+heel was volkomen onzin, maar de oude dame,
+nog geheel Fransch opgevoed, verstond zoo wei
+
+nig Duitsch, dat zij alles voor goede munt opnam.
+Aufl Stutzet, ihr Völker, ich will es jetzt
+wagen,
+Sie, eh in den Weltstrom Ihr Dasein verrinnt,
+Mit Buchdrnckerschwarz in das Ew'ge zu tragen,
+Dasz heil sich Ihr Ruhm ins Unendliche spinnt."
+Zoo begon hot, ondeugend epos. Vorst
+Wittgenstein was zoo voorzichtig geweest, het eerst den
+koning te laten lezen, en deze bad eenige van de
+scherpste passages verzacht. Op den verjaardag las
+een heer von Bülow bet epos voor, en terwijl het
+hof bijna stikte van het lachen, maakte de ge
+
+vierde" van tijd tot tijd een sierlijke buiging, in
+de meening dat de dichter iets vleionds gezegd
+had.
+Dit is de geschiedenis dezer houtgravure, welke
+overigens uitmuntend is uitgevoerd.
+Reclames
+40 cents per regel.
+Speciale inrichting voor Schoenen naar
+maat, in gips afdruksel voor gevoelige,
+pijniyke, gebrekkige voeten, knobbels,
+etc. etc. A N T O N H U F J r.,
+Kahvrniraat 200.
+HOOFT} IJK l'OT van
+l)r. JAEGEK's Ori^. Norm. Wolartikelen,
+K. F. D£U§CHL£:-ïJBJat.B,
+Kah'ersirnat 157, Amsterdam.
+Eenige specialiteit in deze artikelen in Nederland
+Van l tot 7 Nov. '90.
+In den aanvang der thans afgeloopen
+botirsweek hcerscbte er op de fondsenmarkt eeno
+strooming, welke in zeer gunstigen zin afstak, bij die
+waarop wij reeds t enige weken haddei: moeten.
+wijzen. Ka den betrekkelijk goeden afloop der
+Londensch* liquidatie, was thans Parijs aan de
+beurt, doch ondanks de zeer verhoogde belangen,
+leverde de verrekening aida,ar niet de minste zwa
+
+righeid op. Daarmede scheen dan ook bet lang
+verkropte optimisme te herleven en wisten de
+Fransche faisetirs eene dusdanige goede beweging
+op to wekken, dat zij \oor allo overige markten
+de aanleiding tot eeu meer actief oprrcden word
+Hot minst T\as de invloed nog to Berlijn op te
+merken, hoofdzakelijk omdat zij aldaar door lokale
+toestanden werd tegengewerkt on voorts omdat
+die markt eenigszins werdgetroifen door aanzien
+
+lijke verkoopcn, welke voor rekening van een
+Woener speculant, vooral van spoorweg-actiën wer
+
+den uitgevoerd. Te Londen evenwel vond zij moer
+ingang, tiet schoen dat de geforceerde
+verkoopen, welke direct na de liquidatie nog hadden
+plaats gevonden, inderdaad bet saldo der zwakke
+positiën hadden bf-froffon en thans eindelijk de
+toestand zoodanig was verbeterd, dat met recht
+eene geleidelijke verbetering was to verwachten.
+i Da eerstvolgende dagen bevestigden die opvatting
+dan ook alleszins, want zoowol Zuid-Amerikaanschc
+Staatsfondscn als Amerikaanseho
+Spuorwegwaar; ilen konden zich reeds aanmerkelijk verbeteren.
+! Voor eerstgenoemde waren do onderhandelingen
+van Dr, l'lazza over de conversie dor Argentljnscho
+| ccdiüas, gepaard aan die tot sluiting eener nieuwe
+gnudleening met do eerste financiers de naaste
+; aanleiding dor verheffing, terwijl voorts zoowol
+] dekking van contraniino als do berichten over hut
+verloop der verkiezingen in do Unie, waarbij de
+republikeinen, d. i. voorstanders der
+uitsiuitingswet dreigdon te zullen worden overwonnen, de
+spoor zegwaarden do opgaande richting hielpen
+inslaan.
+j Inmiddels blijft niets zoo onbestendig als bot
+beursverluop en do overige da-ren dezer week
+beb: beu weer buwczcii. boe weinig r.icn in tijden ais
+d o «i, blaat kan maken op eene schijnbaar
+ingo| slagen richting. Wij schreven reeds vuor eonigen
+1 tïj-1, toen zich ook leekenen van redres voorde
+
+den, dat do partij die bij daling belang had, zich
+riet zoo spoedig /oude gewonnen geven en
+raadi den reeds toen tot groete voorzichtigheid. De
+ge• benrtenisson der laatste dagen hebben zulks
+voiI ko'aiep. bewezen, want oven onverwacht als krach
+
+tig zijn de anierikaanscbo bears. het scheen wel
+en b loc-, opgetreden, ten einde het verloren ter
+
+rein weer in to nemen, Eon b/ik op slotkoersen
+is voldoende om te constateeren. met welk een
+succes dit is bekroond, want ir.derdaad do prijs
+
+verlaging die, /.i; hebben weten voort to brengen,
+is zeer belangrijk.
+Voor zoover men beeft kunnen vernemen, blijft
+i alles bet werk der speculatie; wellicht dat het
+getal dor bcais oenigzins is aangevuld uit bot
+1 kamp der repnbükeinen, die wegens de nederlaag
+hunner caudidaten aldus hunne; ontevredenheid
+willen uiten, terwijl ook do mogelijkheid eener
+nieuwe combinatie der Vanderbil -lijnen, van
+concnr! roeiende zijde wellicht eeno attaque heeft uitgelokt,
+l doch overigens Moven volgens geruchten, do aan
+
+vallen steeds van do vroegere baissiors komen. Zij
+weten dat do innerlijke positie der beurs, vooral
+! te Londen, Inewol onJcrhanos gesteund, nog
+i niet tic «roolvj draagkracht vau vuorhec.u heeft,
+alsmede dat de geldmarkt aldaar steeds tot be
+
+zorgdheid aa:iloi:li']g blijft geven en Weven dus
+t-teei's \verken, om de meer en loeer verzwak
+
+kende houders alsnog f "t afdoening te dwingen
+ton einde alsdan wellicht hunne enorme blanco
+j vcrkoopen te dekken, 1)0 tijd zal moeten loeren,
+wie in deze de winnende partij zal zijn.
+: Voor Kuropcosclie tuiuUen valt niet, veel bijzon
+
+ders to vermelden: zij werden door do l'arijscho
+! stemming doorgaans gunstig gcïritluenoeerd, vooral
+| 'Turken, Portugal on Spanje. De dag van heden
+tooiu'e ecu minder aangenaam voorkomen, evenwel
+j uitsluitend ten güvolgo van do Engelsclie ontstem
+
+ming en nog bevorderd door de onverwachte
+ver| liooging van hot baiikdisconto to Londen tot Ij pCt.
+V,'ij noteeren :
+Ooatenrijk M/N 771A 11%
+J/J 11% 11%
+Kalverstraat Ho. l b/d Dam.
+Steeds voorradig de laatste Noureuute's in
+Juweelen, Gouden, Zilveren Werken
+en Horloges.
+Cfroote sorteering. Jïilli/jlce prijzen.
+
+Beursoverzicht.
+Goud Hongaren
+Pap,
+Russen 1880
+1889
+2e Oriënt
+Portugal
+Spanje
+Ecypte
+Douane Turken •
+Turken 1888
+1890
+Gec. Turken
+Itali
+Hoewel onze Staatsfondsen zich andermaal rurm
+Yi. pCt. kouden verheffen, bleef de handel daariix
+zeer beperkt. Ook de binnenl. beleggingswaarden
+verliepen algemeen kalm maar vast.
+Voor Rhijn Shares blijft steeds goede vraag en
+af ges t. aandoelen werden grif gekocht van /"8J&lt;
+[ tot ƒ8% ; aand. IIoll. Spoor, Deli Spoor,
+Staatsi Spoor steeds gezocht en ten deele hooger in pr\js.
+Gest. Boxtelg daalden eerst vrij gevoelig, doch
+sluiten weer beter op gunstige ontvangsten in
+Octobcr.
+De Ncd.-Zuid Afrik. Spoor biedt eene nieuwe
+serie geguar. 4 pCt. Obligatiën ter inschrijving
+aan, ten bedrage van zesjnilHeen gulden tot den
+koers van 92% pCt. By vorige emissies hebben
+wij reeds onze opinie als zeer gunstig weerge
+
+geven en kunnen dus thans daaraan refereeren.
+Do tijdsomstandigheden hebben medegewerkt out
+de koers van uitgifte betrekkelijk zeer laag te
+stellen, waarmede onze kapitalisten thans hun
+voordeel kunnen doen.
+Van Stoomvaart aandeelen bleven die der M^j
+Nederland alleen gewild; de overigen waren ver
+
+laten of eerder aangeboden.
+Op de Indische afdoeling trokken aand. Handel
+Mij weer de meeste aandacht, hoofdzakelijk door
+de allengs naderende rescontre; door eonige
+blancodekkingen werd de koers ca l pCt opgezet.
+Voor Tabaks-waarden was veel vraag, waardoor
+de meeste soorten aanzienlijk konden opkomen; zoo/
+noteeren: Deli Mij 700 na 685, Senembah3G7M na
+."61, Deli Assahan 150 na 180, etc.
+In Maxwells kon men gewoonlijk de goed ge
+
+nformeerde koopcrs opmerken; aanvankelijk deed
+zulks do koersen vrij sterk opgaan, doch dit bleek
+niet met bet doel der afnemers overeen te komen
+en stelde men daarom gelimiteerde koop koersen.
+De plaatselijke speculanten welke eerst waren
+medcgegaan, werden dus teleurgesteld en brach
+
+ten bet gekochte daarop weer ter markt.
+Zwcedsche Sporen gewoonlijk zwak. werden he
+
+den in ruime mate van de markt genomen.
+Op de Russische spoorwegmarkt was het door
+
+gaans zeer kalm. In navolging van Berlijn toon
+
+den do koersen eerst weinig verandering, om
+daarop algemeen eenigszins te verbeteren. Zij ont
+
+vingen evenwel ook beden den terugslag en slui
+
+ten iets oniler do prijzen van Vrijdag 11.; alleen
+\V. Weenen maakten ook thans eerie uitzonde
+
+ring zoowel wat omzet als koersloop betreft; voor
+buit. rekening word daarin weer veel gekocht en
+op den prijs valt een avans van l % pCt (132/4
+na lölK) aan te wijzen.
+De houding der Znid-Amerik. Staatsfondsen was
+doorgaans zeer bevredigend, in verband met do
+berichten over de Argentijnscbe waarden.
+Intusschen bleef de handel bier zeer beperkt en kwam
+o. a. slechts nc noteering voor van Argentijnen.
+,188:i/'Ö7 nl. Vi-lV-, tegen een vorige koers van 7934.
+Mexicaanscho Suhs. lids stegen van 6314 tot 04 W.
+Ken eigenaardig verloop hadden Obl. 6 pCt
+Uruguay. Xa de reactie der vorige week 1aan
+geforceen'.e vcrkoopen toegeschreven) kon de pr^js
+zich geleidelijk van "cïYi tot 75 verheffen. Sedert
+gisteren laatbeurs seinde Londen evenwel gevoe
+
+lig lagere koersen op berichten dat de onderhan
+
+delingen tot bet sluiten eener nieuwe leening met
+de bankiers warou afgesprongen. Ondanks een
+dementi van den financicelen agent te Londen,
+kon do koers zich heden niet herstellen en sluit
+circa 70 pCt.
+Bij de hoeren Westendorp &amp; Co, verscheen het
+prospectus eener (j pCr, leening groot : PS f&gt;75,000
+der Doniinicaansche Republiek, grootendeels
+bestoind voor den aanleg van Staatbspoorwegen De
+emissie geschiedt behalve hier, nog in België,
+Hamburg en Zwitserland tot don koers van 77
+pCt. In aanmerking nemende de ongunstige tijds
+
+omstandigheden, kan o. i. het uitbrengen der lee
+
+ning als een bewijs dienen voor bet vertrouwen
+dat de emittenten .stellen in do iinanciëele positie
+der Republiek. En werkelijk do gegevens in het
+prospectus vermeld, tooi,en aan dat de bronnen
+van inkomsten, speciaal ten dienste der
+buitenlandscbe leeningen verbonden, ruim driemaal het
+bcnoodigde bedrag opleveren. Zij worden beheerd
+en geïnd door de daartoe speciaal opgerichte ad
+
+ministratie der Douanen, welke slechts bet saldo,
+dut niet voor den dienst der leerlingen noodig is,
+aan het gouvernement uitkeert.
+Wij hebben reeds vermeld dat de eerste dagen
+dezer benrsweek voor de AiTierikaar.sehe
+i-poorwegwaarden een gunstig verloop meuebrai hten.
+De verbetering was toen wel is waar niet buiten
+
+gewoon, doch zij was niettemin algemeen en
+duidde op een geleidelijkon vooruitgang. Speciaal
+gef'avoriseerd waren C.tnadian l'aciiic en llenver
+Rio-waardeu beide op hoogstbevredigonde
+ontvangstopgaven. Sedert gisteren is do stemming
+evenwel zeer ernstig gewijzigd en kwamen tege
+
+lijk met aanzienlijk lagere JS'. Y. noteeringen, te
+
+vens grootc verkooporders, vooral voor do
+Van('orbüt eu Gw.iger soorten. Te Londen werkte
+dit direct zeer ontmoedigend en sloten zich aldaar
+direct eenige vurkoopen aan, waardoor de reactie
+even gevoelig als algemeen, was. lieden scheen
+eerst een weinig herstel te zullen intreden, doch
+de onverwachte verhooging van het bankdisconto,
+bracht nieuwe wanorde mede on deed andermaal
+eene sterke daling intreden.
+Bij do Kngclscho Bank wijzigde zich de ver
+
+houding der activa tot de passiva van .V&gt;;'a tot
+,'i!7s; eenige gondnitvoeren, meest naar Brazilië,
+deo.l de voorraad ruim ',•',-, millioen P.S. afnemen.
+Do weekstaat der Ned. Bank toont bijna uit
+
+sluitend vermindering aan, als: /'!% milüooii mj
+de disconto, /' % bij de bclooning, ruim ƒ % mil
+
+lioen in don goud- en ƒ' 5 millioen in den zil
+
+vervoorraad; do rekening-courant-saldos namen
+ƒ',)% millioen af. Alleen de billeUen circulatie
+vermeerderde f-i% millioen.
+
+</text>
+<image timestamp="2002:10:03:04:53:23.00" size="456709">D2007FY.TIF</image>
+</page>
+</document>

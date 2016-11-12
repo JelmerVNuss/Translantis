@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19300524</Datum>
+<Pagina>22</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+EERSTE RANGS HOTELS
+(in Alphabetlsche Volgorde),
+KAMEPS ,
+VOORZIEN VAN «0965
+TELEFOON EN WA DM 5 KOUD WATER
+LANDGOED BIRKHOVEN
+BIJ AMKB8FOOKT
+
+HOTEL PENSION-RESTAURANT
+100 H.A. BOSCH.
+HOTEL-RESTAURAMT NAÉFF'
+HET HEERENLOGEMENT
+VELP bij ARNHEM
+Van »f ZATERDAG 24 MEI dagelijks Middag
+
+en Avondconcert door het Orchestre Daved Carels
+DANCING.
+Teleph. 32152 en 32153.
+~~"~ B. BEIJER.
+'
+Doom TELEFOON m Hotel CeCÏI"
+PENS 10N-CAFÉ-RESTAURANT
+Logies Ontbijt f 3.—Pensjon vanaf f 5.
+Stroomend koud en warm water, met CENTRALE VERWARMING
+op alle kamers. Prachtig en rustig gelegen midden in het Bosch, schitterend
+natuurschoon met ruime Irissche kamers.
+Garage 2 minuten van tram.	C. Lammers van Toorenturg.
+Indisch Restaurant en Lunchroom I
+J. VAN GEEMERT »
+Laan van Meerdervoort 12 -DEN HAAG - Tel 12869 |
+OOSTERBEEK: PENSION EIKENHORST"
+Tel. 52502. stroomend water. Garage.
+WEEK-END fl. 10.—.
+RUURLO: Hotel 't WAPEN VAN RUURLO met dependances
+Centr. verw. Koud en warm str. water, telef. 3, (dag- en nacht
+
+dienst). Tennisb. Garage. JOH. F. AVENARIUS.
+e_{A_. PARK HOTEL, het meest moderne Hotel
+OpIC^u • in spiez. Pension van af frs. 12—, Privébad
+(Zwitserland), frs. 4.—.
+KASTEEL DE CAMBURGH
+VAASSEN (Velüwe)
+Tel. N r. 20
+Oudheidkundig natuurmonument, gelegen in heerlijke omgeving te
+midden van uitgebreide bosschen en vijvers.
+(Niet te verwarren met het Dorpshotel).
+Pensionprijs F 4.-- tot F 6.—j Kamers per nacht van F 2.50 af.
+Ledenvan de Ver. tot Behoud van Natuurmonumenten e.d. 5% reductie.
+Uitstekende autobus- en treinverbinding met Apeldoorn.
+Brieven te richten aan: Directie Kasteel de Cannenburgh' '(niet Hotel).
+HOTEL RESTAURANT DE
+WAGENmGSCHEBERG"tel33.
+Stroomend koud en warm water. Rijn-terras.
+
+NAAR DUITSCHLAND
+Inl. en Prosp. van onderstaande plaatsen en hotels gratis: N.V. INTERN.VERKEERS-BUREAU, Hoofdkant. A'dam, Damrak 46 en alle andere Reisbur.
+RAflFN RAFIFM HOTEL ATLANTIC a. d. Lichfentaler Allee t/o
+DftllLI1~DrtUE.il Kurhaus en Schouwb. Alle kam. m. str. wat. en
+•	' balc. Vele baden. Voll. pens. 12—16 Mk. m. bad Mk. 3.—meer. Vr. prosp.
+
+PETER'S BAD HOTEL M KIRSCH".
+120 kam. m. str. w. en telef. 20 kam. m.
+ineenloopend privéThermalbad. De beste
+Kuur-Thermaat-badinrichting. Lift. Volledig
+pens. Mk. 12—16, met privébad Mk. 16—20.
+UDEN-B1DEI
+(SCHWARZWALD)
+BADtN-BADEN
+17000 M\ eigen park
+HOTEL 2SHR1NGER HOF, 100 k. m.str. w.priv
+badk. m. Theimalleid. Eig. badh. v. Kuurgebruik,
+Therm. baden enz. Pens. Mark 11—17.
+BÜHLERHÖHE
+800 M. b. d. Z.
+30 min. v. BADEN-BADEN.
+KURHAUS 90, SANATORIUM 60 bedden,
+diëtetische kuurmiddelen. Tennis-Réunions.
+Phys.
+HOTEL ZUM L W E N
+a. d. Kurtuin naast de Staatskuurgebouwen. Voll. pens.
+m. uitst. verzorging. Mk. 8 11.
+(Rijnland)
+FELOBERG
+(SCHWARZWALD)
+1500 M. b. d. Z.
+te bereiken via
+i. Br.
+Ideaal Hoogelucht-kuuroord, a. d. rand van het bosch
+gelegen, prachtig uitzicht op 't gebergte
+HOTEL FELDBERGERHOF 1279 M. b. d. Z.
+Fam. Hotel Feldbergturm 1500 M. b. d. Z.
+Fam. hotels onder uitstekende leiding, 250 bedden,
+Matige prijzen. . Eig. MAYER &amp; SCHLADERER.
+rfrrgen)
+HOTEL HERZOG ERNST
+Kam m. str. w. en prjvébad. 100 bedden.
+Kam, m. pens. Mk. 9—12.
+CFDfll STtlftl route Keulen—Trier. HOTEL HECK, pracht, bergrijke
+III.llVl.9l tlH omgeving, 28 bedd. pensionpr. Mk. 6.—. Uitstek.
+(Eifel)
+logies, prima refer.
+BAD HARZBURG
+HOTEL RHEINISCHER HOF
+Ie Rng. Fam. Hotel b. h. bosch en b. h. Kurh.
+Mod. kam, m. str. w. Mk. 3.50—5.—. Pens. 8—10 Mk.
+
+
+BAD GISSINGEN (Beiereo)
+Rakoczy-Drinkkuur. Koolzure zoutwater-modderbaden, voor maag, darm,
+hart, jicht, vetzucht. Golf, Tennis, Paardrijden.
+Prospectussen worden toegezonden door Kurverein en Reisbureaux.
+Konigswinter
+Kurhotel Petersberg
+op den Petersberg (335 M.)
+Het toonaangevende Hotel aan de Rijn.
+Prachtig uitzicht, Kamers vanaf Mk. 7.—,
+met pension vanaf Mk. 15.'—.
+BAD NEUENAHR
+PALAST HOTEL" Poststr. 15, Ie klasse.
+Hot. v. kuurgasten en toeristen. Pension v. a.
+Mk. 9.—. Dieet voorschr. worden streng opgevolgd.
+BAD NEUENAHR
+WESTEND HOTEL. Het toonaan
+
+gevende Hotel. 100 kamers m. str. water.
+Telef. Med. Baden. Pensionprijs 10—14 Mark.
+OBERHOF
+i. Thür.
+PARKHOTEL SANSSOUC1 met de meeste
+geleid Hotel, Pension 9—13 Mk. Autoboxen.
+Benzinepomp. Vraagt prospectus.
+z«rg
+BERSTDORF
+HOTEL W1TTELSBACHER HOF, Het Hotel waar
+. H. M de Koningin en Prinses Juliana verblijf hielden.
+(Beieren) Vlakbij het nieuwe zwembad. Eig.en leider W. ORTLIEB.Vr. prosp.
+BAD REICHENHALL
+(Bayr. Hochalpen)
+KURHOTEL LUISENBAD, het deftigste
+Hotel, meest modern comfort. Autoverb.
+m. Oberammergau. Vr. prosp.
+REMAGEN
+R H E I N H O T E L, Ie kl. direct a. d. Rijn. Alle
+kamers stroomend water vanaf Mk. 3.—. Pension van
+8—12 Mk.
+
+TADAD7 KURHOTEL SCH1ESSHAUS, m. dependances. Zonnige,
+stofI MDMIlfci vrije, rustige ligg. a. h. bosch, alle comf. gr. concerttuin,
+(Thüringen) 100 kam. en salons. Vr. prospectus ,,A".
+
+TilAl F HOTEL ZUM WALDKATER, direct i. h. Bodetal gelegen.
+l lïHLt Eerste rangs Hotel. Str. wat. 15 Autoboxen. Alle comfort.
+(Harz) Pens. v. a. Mk. 8.-—. Te!. 208. Eig. G. LöLSACK.
+
+Middelpunt v. d. Badensche Zwarte-Woud-spoorweg.
+Hoogeluchtbadplaats. Station voor alle sneltreinen.
+700—1000 M. b. d. Z. Uitst. hotels en pL&gt;nsions. • Vr. prospectus.
+TRIBERG
+VILLINGEN
+Hoen Schwarzwald
+
+WIESBADEN
+KURHAUS WALDHOTEL.
+Familie-hotel van den l sten rang. Pension vanaf Mk. 9.50.
+Prosp. verstr. de directie.
+
+HOTEL NIZZA 60 kamers. Str. w.
+Tlu-rmalbaden. Garage, Tuin. Kamers vanaf Mk. 5.—.
+Pension vanaf Mk. 10.—. Eigenaar E. UPLEGüER.
+
+
+BAD WILDUNQEN
+voor NIER- en BLAASZIEKTEN
+HOTEL~|Ft!ERSTENHOF : 106 kamers, Pension vanaf Alk.
+14.FüRSTL. BADEHOTKL : 15u ,, ,, , \.',.•--.
+FA ROPalSCHKR HOF : 45 , ., 11, .
+
+
+</text>
+<image timestamp="2002:09:25:16:56:35.00" size="189260">0000098N.TIF</image>
+</page>
+</document>

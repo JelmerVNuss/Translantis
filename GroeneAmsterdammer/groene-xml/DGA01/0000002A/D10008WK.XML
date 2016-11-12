@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19380730</Datum>
+<Pagina>1</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+355, AMSTERDAM C., TELEFOON 37964 • 30 JULI 1938
+20
+JCENT
+AMSTERDAMMER
+• ONAFHANKELIJK WEEKBLAD VOOR NEDERLAND • OPGERICHT IN 1877
+jneeuwwtfje en de zeven dwergen
+
+De Oslo-Staten verlaten
+V B.'J
+
+</text>
+<image timestamp="2002:10:02:13:53:44.00" size="208248">D10008WK.TIF</image>
+</page>
+</document>

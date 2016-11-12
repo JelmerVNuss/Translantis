@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19000729</Datum>
+<Pagina>9</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+,1305
+DE .A M S T E R D.A M ME R 'W E E:K B LA D V O O/R N E B E R L A N D.
+VicLor de Stuers op zijn .feestdag.
+De Vrede-Czar. (Madrido-Comico)
+l. . IV.
+Toen de Czar te 's Gravenhage kwam, heeft Benige osheeeekenende incidenten op de
+bij zeker een nuttig werk gedaan en de geheele Philippijnen.
+wereld is in vrede.
+II.
+Sedert is echter een kleine beweging ge
+
+weest in Transvaal.
+
+III.
+Iets dat naar oproer lijkt in China.
+
+
+VI.
+Een klein oprcenje in Indië.
+Bn op dit oogenblik trekt de Czar zelf
+ten oorlog !
+Uit de Commercial Intelligence" Londen.
+VICTOB DE STUERS ; »Zie ik er zoo niet bescheiien, onschuldig en gfr'u'dig als een engel uit 1"
+Concurrentie der Mogendheden in China.
+
+(L'txliye BI-tl&lt;r).
+Goede tjjling,1
+
+(Cuan d'Ache 'n den Fijaro).
+,
+entloscd withn +ht 'umits
+
+CHINESE. EMPIRE.
+Men vprr.pernt uit poedpn bron, dat onze vriend Li-IIung- Chang
+zich met allen spoed raar l'tking begeeft.
+Een nieuwe Athleet.
+
+(SecoJo).
+"Wer kommt nicht in die Höh', Das ist der lederne Hirr Jihn Bul),
+Wer kornrnt nicht in die Höh'? Der hit die Taschtn gar zu i'ull!
+China en c"e Mogendheden.
+(Fixïtiitto).
+Frankrijk en Engeland.
+
+(Fixchietto).
+Aan het oppervlak is de harmorae uitstekend.
+Langzaam aan, heeren !
+»I)ttil.*.cI&gt;lan&lt;l is onm^l/naT voor de wereld" heeft keizer Wilhdcn
+gezegd, die, na allerlei beroepen te hebben uitgeoefend, thans als
+Athleet wil optreden.
+Maar zie eens wat er onder water gebeurt.
+
+</text>
+<image timestamp="2002:08:14:20:21:19.00" size="340135">D2000KH.TIF</image>
+</page>
+</document>

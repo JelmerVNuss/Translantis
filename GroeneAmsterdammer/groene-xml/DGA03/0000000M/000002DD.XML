@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>18840518</Datum>
+<Pagina>13</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+Nö.310
+DE AMS'T'E'RDAMM'ER, WEEKBLAD V^0R NEDERLAND.
+9296 S298 8356 8371 3878 8896 8397 3429 3481 3161 3503 3509 8593 3526 3536 3538
+8593 3608 3617 3686 3698 3713 3716 3721 3730 S736 3794 3811 8837 3840 3853 8879
+8897 8924 8996 4019 4030 4062 4076 4112 4113 4121 4212 4244 4323 4350 4357 4377
+4381 4886 4895 4440 4448 4473 4484 4500 4549 4559 4571 4577 4586 4590 4598 4599
+4601 4636 4638 4640 4701 4702 4721 4726 4730 4774 4784 4794 4847 4849 4856 4874
+4882 4892 4900 4916 4951 5012 6047 5054 5061 6090 5097 5102 5112 5168"5203 5207
+6283 6253 6276 5298 6307 6316 6327 6854 6359 6897 6399 6438 5444 5447 5151 5158
+6502 6616 6669 6690 6658 5681 6716 6753 5765 5885 5852 585C 5890 5896 6903 5922
+6923 6930 5940 5954 6962 5964 (006 6065 6081 6139 6140 6190 6220 6221 6247 6251
+052 6281 6283 6297 6300 6306 6314 6330 6349 6357 6389 6397 6405 6458 646C 0-409
+'471 0474 «626 6561 6666 G580 6593 6608 6623 6626 6674 6716 6717 6727 6729 6741
+6804 6833 6846 6851 6858 6877 6884 6905 7055 7066 7106 7113 7208 7271 7273 7284
+7303 7331 7328 7341 7394 7403 7412 7442 7458 7459 7814 7622 7524 7551 7580
+721 289845 776 230220 304 617 51 231023 135 319 613 233383514 651 234352 753
+99 333 235681 236233 497 597 614 826 237 632 886 238216 487 678 85 777 239128
+89 630 651 52 846 240260 458 521 696 816 241011 287 531 661 97 776 242458 G7
+741 807 904 213369 463 244582 245192 246080 605 SOI £22 217185 569 911 90 25S091
+206 380 866 905 67 349035 253860 353606 837 254165 799 255217 75 25G328 876
+258015 394 411 659 260062 261053 642 262169 70 403 723 263091 2G4569 662 967 75
+265012 684 669 266144 416 92 791 916 357220 42 91 820 268003 365 518 269511
+743 270578 271091 272617 701 87 273011 591 637 52 274093 275188 211 468 596
+276060 659 278157 92 575 82 816 279726 839 28024 2360 402 797 965 281142 83 590
+914 288367 284426 769 863 28565 86327 925 287098 834 288113 18 289597 290192
+690 291304 6010 798 883 293071 840 406 591 291575 829 295158 519 296091 212
+997201 709 398218 394 863 299736 87 984
+308401 49 788 886 302170 226 786 934 303470 304235 606 973 305345 403 617 Cl
+?19 877 306142 603 721 307218 521 39 842 47 308019 165 210 612 309098 155 377 80
+469 810025 S93 811025 884 931 76 812225 303 590 811 93 314495 315141 316590 995
+817090 313 878 318055 294 383 637 319009 49 242 767 320432 544 712 859 321118
+206 665 714 69 97 832331 323015 401 612 324106 803 523 890 948 325569 76 82C113
+843 327527 328067 926 329882 330056 107 50 837' 331G30 871 333081 808 915 331101
+411 637 835608 93?. 36 337526 338134 277 449 797 839027 840157 451 68 775 924 83
+841565 342552 618 74 343086 344877 936 845038 166 462 817 346299' 118 997 317539
+68 C50 849087 705 380184 490 954 851221 852808 853380G 913 354220 132 551 .638
+886812 866391 628 357879 497 794 973 358024 674 859202 576 642 752 84G 3G0122 61
+491 788 932 861378 715 881 362112 624 970 863370 177 640 888 361286 841 965
+865072 193 309 417 635 837 868819 917 368259 308 478 369029 242 78 370089 163
+218 371164 495 527 624 872797 373113 287 582 893 371040 375484 938 376335 65!)
+GS9 878087 748 378545 880453 678 881608 882945 383545 615 750 72 384180 81 413
+88 596 804 913 66 385090 3G3 487 386239 44 448 825 387324 G81 744 388052 462
+389221 481 396763 391023 827 447 392044' 61 449 47 410 20 391882 926 S95207 65
+804 396039 444 3*7053 118 201 348 898201 313 85 957 399139 262 450 552 GOC.
+408858 401894 571 890 402146 403205 126 401004 718 405672 908 27 403167 78G
+817 407801 188 384 487 408226 867 428 722 469631 325'515 410093 387 411336 587
+637.-718 4HS72 656 80 749 849 413204 324 531 735 414847' 4156G6 416122 265 439
+798.417648 418159 309 799 419048 420126 367 697 421088 266 518 422008 509 423575
+424015 808 971 425141 440 673 877 426030 107 261 427361 428077 181 928 429602
+764 430286 917 948 481000 110 31 341 417 638 89 702 15 432056 433 651 915
+433003' 717 936 434492 517 610 435939 436108 305 875 437166 319 138217 302 548
+884 439227 710 440010 184 261 65 DOG 411218 319 947 442823 93 97 443083 139
+444363 764 445904 446193 243 447826 448009 168 242 502 718 56 880 449120 259
+466974 451057 183 450 691 855 452141 967 453005 282 945 454300 60 772 896155395'
+853 457161 80 239 740 838 458042 752 809 452132 751 833 4G0211 4614S5 604 4G2782
+463971 4654G4 91 548 466845 84 693 467200 318 500 C86 879 982 95 468358 469191
+331 486 476*92 152 201 377 533 647 757 471159 703 942 49 472738 90C 473072 25!)
+424 721 474359 573 824 475904 476338 419 912 477028 1GO 230 399 995 478233
+479010 122 83 662 480139 363 716 421125 264 3G2 482282 455 745 810 493155 73 272
+762 897 913 485285 3161655 486260 408 726 61 845 487093 995 488450 503 619 930
+189322 75 736 829 490647 191110 56 517 1920GG 940 91 193110 757 494136 260 400
+65 496064 817 52 496682 497034 760 498276 575 700 499531' 741 963.
+500921 24 63 501004 259 554 709 821 67 502103 81 858 700 10 5033&amp;7 501708
+605063 145 608068 682 799 507445 623 977 508215 429 754 55 838 952 96 509151
+510190 288 511585 616 856 83 512182 856 954 513661 618 514028 83 714 515906
+518307 517683 839 519357 520116 641 521147 742 886 967 522346 89 540 739 55
+623021 156 273 632 54 524754 847 62 525078 217 436 52G04C 194 349 186 527155
+586 766 72 628930 629435 580138 220 32 662 631099 105 569 900 532395 573 828
+531502 909 536918 637485 538138 829 611 69 613 870 539028 51 93 432 6GG 23 29
+32 510013 68 104 355 638 541228 867 76 542075 261 93 733 929 543403 926 644032
+288 817 925 545181 879 939 546351 802 21 547099 8g9 518201 29 457 554 662 619800
+78 550118 34 874 651156 2G1 449 850 552435 553175 241 54 574 623 98 705 981
+554606 656581 558101 57 669 666 557034 558991 659096 223 468 590 854 962 560050
+56 661397 665 897 562660 775 563058 78 233 55 436 744 48 802 564199 436 625 943
+66M38 795 889 5G6378 760 848 567083 CGSOOO 21 389 5C9037 544 570118 391 714
+671179 391 464 572379 576 573317 451 581 606 7GO 675018 230 363 691 934 576074
+490 643 969 577698 843 903 16 578992 579651 906 58023G 87 370 616 92 814 937
+681079 805 497 725 592120 5833G9 413 502 77 691 775 905 581062 395 622 585465
+822 54 586009 S85 451 569 701 957 587048 777 588073 239 779 6891G5 939 590429
+691398' 529 687 592088 99 301 481 693504 594300 18 532 595693 596041 279 113 CG
+SOS' 31 697603 744 698029 819 58 599030 80 109 521.
+600005 157 75 313 80 935 601086 602362 603020 64 512 93 P'C 601114 354 GOG
+605228 446 844 606557 8G5 943 61 607158 70 441 567 95 763 608154 239 609175 295
+436; 915 65 G10564 611035 570 851 6121GO 316 682 855 613551 932 G9 95 850 614248
+24 340 425 615Ï87 616206 617115 710 618584 619035 232 313 712 823 626224 623140
+467 872 624065 685365 86 502 62G768 931 627342 892 628001 312 G20203 18 321 445
+841 636389 631686 632049 315 468 542 602 762 63301C 569 C34281 362 410 80 559
+705 635239 442 636081 637435 BGO 68 827 638570 82 639770 862 640331 82 641138
+561 671 78 914 648018 111 34 397 618 721 G130C2 189 G44211 434 C05 993 G4G232
+623 647160 225 708 648651 64 977 649738 650085 90 708 884 651498 512 839 652175
+637 663306 702 82 654060' 899 655288 371.
+OVERZICHT VAN BE EFFECTENMARKT
+Van 10 tot 16 Mei
+
+Een veel bewogen week ligt achter ons. Weinigen hebben kunnen denken,
+dat de daling in Amerikaansche waarden nog zulke kolossale vorderingen
+zoude gemaakt hebben en de koersen tot zulk een laag standpunt zouden
+•worden teruggedreven. Ofschoon, vooral in het begin der week, de
+noteeringen hier die van New-York volgden, bleef onze Beurs van een
+paniek als die te New-York heerschte, en ons zelfs aan den beruchter»
+Black Friday herinnerde, verschoond.
+Vele huizen te New-York zagen zich genoodzaakt hunne betalingen
+te staken, o.a. de bekende firma Fisk &amp; Hatch, financieele agenten van
+kttt gouvernement der Yereenigde Staten «n van verschillende grootere
+en kleinere spoorweg-maatschappijen. Laatstgenoemde firma werd, naar
+men ons mededeelt, tot staking van betaling genoodzaakt, door de maat
+
+regelen te Washington genomen om de geldmarkt te hulp te komen. Op
+eene plotselinge betaling van f 10.000,000, gouvernementsbonds scheen
+de firma niet voorbereid. Zij zag zich genoodzaakt kort voor het sluiten
+der Beurs hare betalingen op te schorten. Men hoopt echter op goeda
+gronden, dat dit huis spoedig weder zijne betalingen zal kunnen her
+
+vatten.
+Hier werd bijna zonder uitzondering in Amerikaansche fondsen handel
+gedreven tot prijzen ver boven die, ons door Kouter uit New- York geseind.
+Het fonds, ten gevolge van het faillissement der firma D. Tobias &amp; Zoon
+alhier, voor opruiming van prolongatie-onderpanden ter markt gebracht,
+vond dan ook, wat de courante soorten betrof, gereedelijk koopers. Voegt
+men daarbij, dat de arbitrage, uitgelokt door het groote koersverschil,
+aanleiding vond hier fonds voor New-Yorksche reSening ter markt te
+brengen, dan komt men tot de conclusie, dat zich hier op de plaats vele
+kapitalisten door de lage prijzen zagen aangetrokken, en het voor spot
+
+prijzen weggeworpene gaarne opnamen.
+Ondanks zooveel beproevingen bleef de Amsterdamsche Beurs krach
+
+tig. Wanneer de courant ons des morgens de New-Yorksche noteerin
+
+gen van den vorigen dag bracht, en men telkens eene aanzienlijke koers
+
+verlaging bespeurde, vreesde men dat niet iedereen tegen zulk een
+kolossalen teruggang zoude blijken bestand te zijn. Gelukkig bleek die
+vrees ijdel te zijn, en werd onze Beurs, uitgezonderd het bovengenoemde
+faillissement, voor verdere rampen gespaard.
+Ten gevolge van de grooto geldruimte ontstond veel vraag voor solide
+waarden. In de meeste soorten Hollandsche Staatsfondsen valt dan ook
+eene koers-aanwinst te constateeren, die echter slechts }•« % %
+bedraagt.
+Hongaarsche fondsen iets vaster. Italianen, die aanvankelijk iets stegen,
+toonen een kleinen teruggang aan. Het verlies bedraagt ten slotte echter
+slechts 1A %
+Oostenrijksche fondsen flauwer. Mei-rente verloor K %, Juli-rente % %.
+Portugeezen werden voor binnenlandsche rekening gevraagd. De koers
+liep M % op.
+Russische fondsen waren op enkele uitzondering 'na lager. Voor de
+meeste soorten bedraagt het verlies ongeveer V* %. Ook de laatste uit
+
+gifte verloor een fractie, niettegenstaande de geringe repartie bij de in
+
+schrijving. Spanjaarden schenen door ons publiek uit het oog verloren.
+De affaires in dit fonds waren b^zonder luttel. De koers, die men dik
+
+werf nominaal zoude kunnen noemen, wijst een teruggang van J4 % aan.
+De schuldbrieven van de Verhevene Porte zagen hun prijs weder verlaagd,
+Het verlies bedraagt voor alle sooiten ongeveer % %.
+In navolging van Londen daalden Egyptenaren ruim 1%.
+Mexicanen verloren ruim %% voor de beide soorten. In Brazilianen
+was weinig handel. De koersen wijzen weinig verandering aan.
+Columbianen 1% lager. In stedelijke leeningon hadden eenige geringe omzettingen
+plaats. Do prijzen bleven echter nagenoeg onveranderd.
+Tengevolge van geforceerde verkoopen vonden in industrieele waarden
+eenige transactiën plaats, tot aanzienlijk lagere prijzen. Zoo daalden
+Aandeelen Nieuwe Afrikaansche Handelsvennootschap tot 150 % om
+weder a 165 % of 5 % boven hun vorigen koers te sluiten. Stoomvaart
+Maatschappij Insulinde" werden zelfs a, 35 pCt. afgegeven, en blijven
+ten slotte op 45 % genoteerd, of 19 % onder den vorigen koers. Aan
+
+deelen Commanditaire Vennootschap Lens &amp; Bergsma" werden ex-di
+
+vidend l % hooger verhandeld. De Nederlandsche Bank stelde het
+dividend over 1833 met ƒ 188 of ƒ 68 minder dan over het vorige jaar
+betaalbaar. Geringere omzettingen moeten als hoofdoorzaak van de min
+
+dere resultaten worden aangemerkt. De koers der Aandeelen liep
+exdividend 2 % op.
+Naar men verneemt zal de Nedorlandsche Handel -Maatschappij 7 %
+over 1883 uitkoeren, of liever dat bedrag in da vergadering van Com
+
+missarissen worden voorgesteld. De Maatschappij moet in staat zijn zelfs
+na aanzienlijke afschrijvingen, te kunnen uitkeeren.
+Het mag zeker in het algemeen belang worden geacht, dat de Directie
+der Maatschappij nu reeds op ofticieuse wijze het bedrag van het uit te
+keeren dividend mededeelt, in plaats van, zooals vroeger, tot den dag dor
+annonce met de openbaarmaking te wachten. De sluier, die het dividend
+vroeger omhulde, bleek toca zoo vaak voor eenige scherpziende lieden
+toch doorzichtig. Handels- Vereeniging Amsterdamstegen 3% %, Kas-
+Vereeniging 2%, Handel-Maatschappüop de Rescontre K %, Aand. Nederl.
+Indische Handelsbank 1%, Park-Schouwburg 1%, Twentsche Bank- Ver
+
+eeniging 21A %, daarentegen daalden Aandeelen Koloniale Bank 1%,
+Foijenoord 2%, Panoptieum, 11%, Stoomvaart Nederland 7%, preferente
+Aandeelen Zeeland 1%.
+Maxwells flauwer. Aandeelen l ?-ó, Inoomebonds
+lager.
+Nederlandscho spoorwegwaarden verkeerden in eone vaste stemming.
+Aandeelen Hollandsche spoorweg sluiten ex-dividend 2'4 % hooger,
+gestempelde obligatien Centraal-spoorweg verbeterden \*&amp; %, bewijzen
+van uitgestelde schuld IX %, Rhijnshares l?i %, Indische
+spoorwegaandeelen 4 H %, obligntiën 2M % lager.
+Zooals wij vermoedden, is pp de leening van den G-eldersch-Overijselschen.
+Locaal-spoorweg een aanzienlijk bedrag ingeschreven. Den inschrijvers
+zal slechts ongeveer '/' hunner inschrijvingen kunnen worden toegewezen.
+Zuid-Italiaansche Spoorweg-obligatiën, ex loting, 'ti % lager. War
+
+schau- Weenen % % hooger.
+Russische Spoorwegfondsen toonden bij de vorige week een gering.
+nadeelig verschil aan. Voor geldbelegging werden eenige soorten
+gevraagdVan Tram-wogniaatschappijen stegen aandaelen AmsterdamscLie Omni
+
+busmaatschappij l %', Noord- en Zuid-Hollandsche tram 1% %, Rotter
+damsche tramweg, na, ook al door een gedwongen verkoop, tot 110 %
+te uijn teruggeloopen, weder tot 115 %, of zelfs nog V* % boven den
+vorigen koers.
+Aandeelen Nederl. Indische tramweg blijven ten slotte 2 % onder dea
+koers van 9 Mei.
+Na zeer aanzienlijke fluctuatiën blijft de Amerikaan sche markt vast,
+alhoewel voor vele soorten een zeer aanzienlijke teruggang valt te con
+
+stateeren.
+Central Pacifi cshares, waarin ons publiek met kracht als kooper optrad,
+blijven ten slotte circa 6 % onder den vorigen koers. Do feiten, die bekend
+zijn, moeten aan die Aandeelen hoogere waarde doen hechten. De uit
+
+komsten over 1883, hoewel niet zoo schitterend als vroegere jaren, zijn
+toch zeer bevredigend. De Maatschappij had over dit jaar circa l mülioen
+dollars minder bruto-ontvangsten, waartegen eene vermindering van ruim
+$ 400,000 exploitatie-kosten staat, zoodat per saldo ruim J4 millioen dol
+
+lars minder werd ontvangen. Dat verlies maakt, dat de Maatschappij voor
+eene dividend-uitkeering van 6 % $ 430,000 te kort komt.
+Tot uitkeering van dividend over f 59 millioen uitgegeven kapitaal heeft
+de Maatschappij ruim $ 3 millioen beschikbaar, of ruim 5 %. Trekt men
+daaraf het op lo Februari uitgekeerde dividend a 3 %, dan zoude de
+Maatschappij de coupon per l Augustus met 2 % kunnen annonceeren.
+Het kan echter mogelijk zijn, dat de Central-maatschappij bij de te
+NewYork heerschende paniek verhezen ifldt, waardoor de dividend-uitkee»
+ring onmogelijk zende kunnen worden.
+Naar men bericht is het pachtcontract met den Southern Pacific Spoor
+
+weg TOOI dea tyd vaa.10 jaren verlengd, ingaande l Januari 188&amp;,
+
+</text>
+<image timestamp="2002:08:17:15:12:33.00" size="329672">000002DD.TIF</image>
+</page>
+</document>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<!DOCTYPE document [
+  <!ELEMENT document   (languageid,fields,page*)>
+  <!ELEMENT languageid (#PCDATA)>
+  <!ELEMENT fields     (Bron,Datum,Pagina)>
+  <!ELEMENT Bron (#PCDATA)>
+  <!ELEMENT Datum (#PCDATA)>
+  <!ELEMENT Pagina (#PCDATA)>
+  <!ELEMENT page       (pagenumber,text?,image?)>
+  <!ELEMENT pagenumber (#PCDATA)>
+  <!ELEMENT text       (#PCDATA)>
+  <!ELEMENT image      (#PCDATA)>
+  <!ATTLIST image      timestamp CDATA #REQUIRED
+                       size      CDATA #REQUIRED>
+]>
+<document>
+<languageid>21</languageid>
+<fields>
+<Bron>De Groene Amsterdammer</Bron>
+<Datum>19400727</Datum>
+<Pagina>11</Pagina>
+</fields>
+<page>
+<pagenumber>1</pagenumber>
+<text>
+DE 'WONDERBAARLIJKE WERKING
+DER HORMONEN
+ER bestaan termen en begrippen, als daar zijn:
+hormonen, vitaminen, minderwaardigheidscom
+
+plex, en andere, die zóó zeer gemeengoed van
+de massa geworden zijn, dat een exact of naar
+exactheid strevend mensch, ze bijna niet meer in
+den mond durft te nemen.
+Waagt men het evenwel eens, naar Socratischen
+trant de menschen de beteekenis van n dezer ter
+
+men te vragen, dan blijken dikwijls de voorstel
+
+lingen zóó verward, of zóó vaag, dat het de moeite
+waard schijnt er een enkel kolommetje aan te
+wijden.
+Hormonen zijn producten van klieren met in
+
+terne secretie; wij kennen n.l. in het menschelijk
+lichaam tweeërlei klieren, zulke, die hun afschei
+
+dingsproducten naar buiten brengen, zooals de
+zweetklieren, de melkklieren en dergelijke (dat zijn
+de klieren met uitwendige secretie) en zulke, die
+hun producten direct in de bloedbaan brengen, zooals
+de schildklier, de bijnier e.a. Deze laatste noemt
+men klieren met interne secretie, ook wel endocrine
+klieren, en hun producten heeten, gelijk gezegd,
+hormonen. Een aantal klieren heeft zoowel een
+uitwendige- als een inwendige secretie, b.v. de
+alvleeschklier, waar een stoornis in de functie der
+intern secreneerende deelen, de suikerziekte doet
+ontstaan, welke deelen van de klier dus kennelijk
+een rol spelen in de suikerstofwisseling, doch waarbij
+het uitwendig sscreneerende deel zijn producten
+aan den darm afgeeft en voor de spijsvertering dient.
+De wetenschap, die zich bezighoudt met dei studie
+der hormonen, noemt men endocrinologie. '
+Terwijl een tak van wetenschap als b.v. de bac
+
+teriologie practisch gesproken aan het brein van
+n geniaal mensch, Louis Pasteur, ontsproten is,
+heeft de endocrinologie zich slechts langzaam ont
+
+wikkeld door den arbeid van zeer verschillende
+vorschers, die tot ver uiténloopende takken van we
+
+tenschap behoorden.
+Het eerst is de hormonenquaestie aan de orde
+gesteld in 1851 en wel door Claude Bernard, toen
+hij het vermogen tot glycogeenvorming van de
+lever ontdekte en voor het eerst het wezen der in
+
+terne secretie" omschreef. Korten tijd later werd
+de interne secretie van verschillende klieren door
+onderzoekers als Basedow, Addison, Brown-Séquard
+ontdekt. De sensationeele mededeelingen van den
+72-jarigen Brown-Séquard, die in de manlijke
+geslachtsklier een verjongingsmiddel meende gevon
+
+den te hebben, vormden (behalve de basis voor een
+eindelooze reeks mopjes over apenkliertjes" in alle
+humoristische bladen van Ie Rire" tot de Lustige
+Blatter") den grondslag voor de moderne endocri
+
+nologie.
+Een tweede keerpunt vormde de ontdekking in
+1901 van het adrenaline, het product van de bijnier
+
+schors.
+Het woord hormoon" is afgeleid van het
+Grieksche woord hormaoo" (ik breng in beweging) en
+men kan het begrip hormonen" aldus definiëeren,
+dat zij chemische stoffen zijn, die elk hun oorsprong
+vinden op een bepaalde plaats, die altijd dezelfde
+is, in het bloed overgaan en elk op n of meerdere
+bepaalde organen invloed uitoefenen. Zij prikkelen
+deze organen tot bepaalde werkingen, brengen ze
+dus in beweging, vandaar de naam.
+DE hormonen nu blijken betrekkelijk eenvou
+
+dige chemische stoffen te zijn, vele hunner
+zijn dan ook reeds synthetisch in het laboratorium
+bereid, dus met uitsluiting van menschelijke of
+dierlijke cellen of organen.
+De chemie der cellen staat nog in haar kinder
+
+schoenen en wij weten heden ten dage nog zeer
+weinig omtrent de wijze, waarop de hormonen
+inwerken op de organen, die door hen geprikkeld
+worden.
+Over de wonderbaarlijke werkingen der hor
+
+monen zou niet een boekdeel, doch eenblibliotheek
+te vullen zijn. De eerste vrucht, die de endocrino
+
+logie afwierp, was een therapeutische; extracten
+van schildklier, eierstokken, manlijke
+geslachtsklieren, bijnieren enz. enz. bleken een geneesmiddel
+Restaurant DORRIUS
+N.Z. Voorburgwal b.h. Spui, Amsterdam
+PLATS DU JOUR EN A LA CARTE
+voor tal van ziekten, waarvan vele tot de ontdek
+
+king der hormonen ongeneeslijk waren, en enkelen
+tot dan toe doodelijk verliepen.
+Aan hoevelen de ontdekking van Banting: dat
+het intern secretische product uit de alvleeschklier,
+hetwelk later den naam insuline" kreeg, in staat
+was bij lijders aan suikerziekte, het bloedsuiker
+
+gehalte te doen dalen, het leven gered heeft, is niet
+te schatten. Het is hier niet de plaats, de enorme
+beteekenis van de endocrinologie voor de genees
+
+kunde, in het volle licht te laten rukken; hare con
+
+sequenties zijn nog niet bij benadering te overzien !
+Beter geschikt voor leekenoogen is de toepassing,
+welke de hormonen hebben gevonden op een grens
+
+gebied der medische wetenschap: de kosmetiek.
+Of de hormonen ook een rol in de kosmetiek
+zouden spelen, en zoo ja welke, stond tot voor
+korten tijd nog te bezien.
+Zoo goed als elke koekebakker,, vitaminenrijk"
+op de waren schreef, wier verkoop hij zeer begeerde
+of ze nu vitaminen bevatten of niet, zoo goed ver
+
+sierde een etiket hormonencrême", hormonen
+
+masker" enz. verschillende kosmetische producten
+in een tijd, waarin de werkelijke waarde van een
+uitwendige toepassing van hormonen op zijn zachtst
+uitgedrukt nog problematisch was.
+De wetenschap staat echter niet stil en zoo lang
+
+zamerhand begint men een vermoeden te krijgen
+van de belangrijkheid der hormonen ook voor de
+kosmetiek.
+Tot de klieren, die zoowel een uitwendige- als
+een interne secretie bezitten, behooren ook de
+geslachtsklieren, manlijke, zoowel als vrouwelijke.
+Het inwendig gebruik van bepaalde hormonen uit
+de vrouwelijke geslachtsklieren, was reeds lang be
+
+kend bij de behandeling van plaatselijke
+overbeharing (vrouwenbaard), van hardnekkige puistjes in
+het gelaat bij jonge meisjes en bij tallooze andere
+huidafwijkingen.
+BETREKKELIJK nieuw is echter de plaatselijke
+uitwendige toepassing van hormonen. Dat ook
+deze toepassing nut kan hebben, is in sommige
+gevallen reeds onomstootelijk vast gesteld; in
+andere gevallen waarschijnlijk.
+Zeker is b.v. het nut van plaatselijke hormonen
+
+aanwending voor de ontwikkeling van de
+vrouwenborst. Het is mogelijk gebleken een duidelijke ver
+
+grooting van de borsten te bereiken, door een hor
+
+moon uit de vrouwelijke geslachtsklieren
+oesdrogeen" geheeten, in zalf vorm op de borsten aan te
+brengen. Wanneer wij weten, dat de huid in staat
+is, verschillende stoffen op te nemen, kan het ons
+niet verwonderen, dat een hormoon langs dezen
+weg werkzaam kan zijn. Van oestrogeen is boven
+
+dien bekend, dat het bijzonder goed geabsorbeerd
+wordt, door de huid zoowel als door de slijmvliezen.
+Voor de ontwikkeling van de vrouwenborst zijn
+zalven noodzakelijk, waarin een zeer hoog aantal
+eenheden van dit hormoon verwerkt is.
+Dergelijke zalven worden op medisch voorschrift
+in fabrieken voor pharmaceutische producten ver
+
+vaardigd. Een komische noot in deze geschiedenis
+is, dat de mannen, die met de vervaardiging van
+deze stoffen belast waren, na eenigen tijd naar een
+andere afdeeling moesten worden overgeplaatst.
+omdat het hormoon ook bij mannen werkzaam
+bleek, zoodat ook bij hen een even prompte als
+onmiskenbare zwelling van de borsten optrad !
+De zwelling verdween zoodra zij op een andere
+afdeeling kwamen te werken.
+En hier hebben wij tevens de vinger gelegd op
+de wonde plek in deze behandeling: de resultaten
+zijn passagere; wanneer met de behandeling ge
+
+staakt wordt, verdwijnen zij.
+En zelfs dat zou zoo erg nog niet zijn, indien aan
+het continu gebruik van dergelijke zalven geen
+ander bezwaar ware verbonden dan de hooge kosten,
+men kent in de geneeskunde voorbeelden te over
+van dergelijke blijvende behandelingen, z.g.
+substitutie-therapieeën", waarbij een stof, die aan het
+lichaam ontbreekt," blijvend moet worden
+toegedient, insuline bij suikerziekte, lever bij bepaalde
+bloedziekten, ja, een bril bij brekingsafwijkingen
+van de lens, zij alle zijn voorbeelden van een sub
+
+stitutie therapie.
+Het is echter nog niet zeker, dat een voortdurende
+toepassing van oestrogeen op de huid zonder schade
+kan plaats vinden, proeven bij dieren althans wijzen
+in deze richting.
+Van Fransche zijde is in den laatsten tijd de uit
+
+wendige behandeling met hormoonpraeparaten ook
+beproefd bij overbeharing van het gelaat, wat in
+60 "0 der gevallen met succes werd beloond (de
+inwendige behandeling was al lang bekend). Op
+tallooze, minder bekende terreinen der kosmetiek,
+beloven de hormonen diensten te zullen bewijzen.
+Het meest interessant is echter het feit, dat de
+laatsten tijd een brug wordt geslagen tusschen het
+rijk der hormonen en dat der vitaminen.
+Manlijk en vrouwelijk geslachtshormoon blijken
+n.l. chemisch af te leiden van cholesterol, een stof,
+die uit dierenhersenen bereid kan worden. Van
+cholesterol komt men tot ergosterol, en dit
+ergosterol, bloot gesteld aan ultraviolet licht wordt ge
+
+deeltelijk veranderd in vitamine D. Dit feit opent
+een wijd gebied van, het zij gezegd, louter specu
+
+latieve overwegingen.
+Bij muizen kan men n.l. kanker verwekken door
+middel van bepaalde, aan teer ontleende, koolwater
+stoffen. Deze kankerverwekkende koolwaterstoffen
+nu hebben een chemische factor gemeen met:
+niets anders dan: cholesterol, galzuren, en bepaalde
+vrouwelijke geslachtshormonen.
+Hier werpt de endocrinologie een aantal nieuwe
+vragen op voor de leer der kwaadaardige gezwellen:
+indien een galzuur, een hormoon in de reageerbuis
+kan worden omgezet in een kankerverwekkende
+stof, waarom dan niet in het menschelijk lichaam
+onder den invloed van n of andere
+stofwisselingsstoornis?
+Via het cholesterol nadert de studie der hormonen
+die der vitaminen.
+Injecties van het hormoon thyroxine (uit de schild
+
+klier) doen ratten in gewicht afnemen, dit kan
+gecompenseerd worden door injecties van het
+vitamine carotine (uit groenten).
+Ten overvloede zijn er ook reeds plantaardige
+hormonen ontdekt !
+Bij planten is er natuurlijk geen sprake van een
+circulatiesysteem, dat vergeleken kan worden met
+den bloedstroom bij dieren, nochtans verloopt het
+hormonen mechanisme hier analoog.
+Het plantaardige groeihormoon" wordt in een
+zeker gedeelte van het organisme gevormd, dan
+naar een ander gedeelte getransporteerd, en oefent
+daar invloed uit op een specifiek physiologisch
+proces, als het groeiproces. Na de isolatie uit
+menschelijke urine van een groeibevorderend hor
+
+moon auxine werd een soortgelijke substantie, be
+
+kend als auxine b geïsoleerd uit maisolie.
+Wanneer auxine b bij jonge loten wordt gebracht,
+is het resultaat een zwelling van het weefsel, die
+zeer veel gelijkt op gezwellen veroorzaakt door
+pathogene micro-organismen.
+Russische onderzoekers beschouwen het
+bloeihormoon of florigeen als het sexueele hormoon
+van de plant en met behulp van dit hormoon is het
+mogelijk den bloei van planten te versnellen en
+planten, die in den regel niet bloeien, tot bloei te
+brengen.
+De studie der hormonen heeft in elk geval den
+medischen en physiologischen horizon voldoende
+verwijd om het woord te logenstraffen, dat haar
+grondlegger Claude Bernard uitsprak bij het aan
+
+vaarden van zijn ambt:
+La médecine scientifique, que j'aurai la mission
+de vous enseigner, n'existe pas."
+Was DE GROENE juist
+
+uitverkocht toen
+
+u er naar vroeg ?
+EEN GOEDE RAAD
+
+NEEM EEN ABONNEMENT!
+PAG. II DE GROENE No. 3292
+
+</text>
+<image timestamp="2002:09:13:07:24:28.00" size="218021">000007LX.TIF</image>
+</page>
+</document>
