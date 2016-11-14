@@ -13,7 +13,10 @@ def decryptFile(path):
     """Decrypt a single PDF with the password.
     """
     pdfFile = open(path, 'rb')
-    pdfReader = PdfFileReader(pdfFile)
+    try:
+        pdfReader = PdfFileReader(pdfFile)
+    except:
+        return
     if pdfReader.isEncrypted:
         pdfReader.decrypt(PASSWORD)
         pdfWriter = PdfFileWriter()
