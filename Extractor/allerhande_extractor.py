@@ -1,3 +1,5 @@
+#from XmlExtractor import extractFolder
+
 import os
 import re
 import codecs
@@ -6,7 +8,7 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
 
-def extractFolder(path):
+def extractFolder(dataset_name, path):
     """Find all files and folders in this directory.
     Extract all the files, and recursively go through the subfolders.
     """
@@ -15,40 +17,39 @@ def extractFolder(path):
 
     for file in files:
         if file[-4:].lower() == ".xml":
-            extractFile(os.path.join(path, file))
+            extractFile(dataset_name, os.path.join(path, file))
 
     # Recursively combine the subfolders.
     for directory in directories:
-        extractFolder(os.path.join(path, directory))
+        extractFolder(dataset_name, os.path.join(path, directory))
 
-def extractFile(path):
+def extractFile(dataset_name, path):
     """Read the XML file and extract the <text> element.
     The result will be stored in a newly created folder structure in text files
-    containing only the text of the file in the folder YY under MMDD-i.txt
+    containing only the text of the file in the folder YY under MM-i.txt
     where i is the index of the article of that day (in case of multiple articles).
     """
     tree = ET.parse(path)
     root = tree.getroot()
 
-    # Try to find a year and date for this file, otherwise skip it.
-    year = ""
-    date = ""
-    try:
-        for datum in root.iter('Datum'):
-            year = datum.text[:4]
-            date = datum.text[4:]
-    except:
-        return
+    filePath, extension = os.path.splitext(path)
+    date = os.path.split(filePath)[-1].split('-')
+    year = date[0]
+    month = date[-1]
 
     if not year or not date:
         return
 
     content = ""
-    for text in root.iter('text'):
-        content = text.text.strip()
+    for block in root[0]:
+        for text in [x for x in block if x.tag.split('}')[-1] == 'text']:
+            for par in text:
+                for line in [x for x in par if x.text]:
+                    content += '\n' + line.text.strip()
+    content = content.strip()
 
-    directory = os.path.join('groene-xml_processed', year)
-    filename = date
+    directory = os.path.join('{}_processed'.format(dataset_name), year)
+    filename = month
 
     # Create the new directories for the processed data.
     if not os.path.exists(directory):
@@ -66,9 +67,12 @@ def extractFile(path):
 
 
 def main():
+    dataset_name = "allerhande"
     # Scrape all the XML files in the following folder and its subfolders.
-    path = "./groene-xml"
-    extractFolder(path)
+    path = "./allerhande_xml"
+    filepath = "./1954-12.xml"
+    extractFile(dataset_name, filepath)
+    #extractFolder(dataset_name, path)
     print("All XML files in {0} extracted to {0}_processed".format(path))
 
 if __name__ == "__main__":
