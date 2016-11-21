@@ -14,6 +14,7 @@ A valid example is:
 import sys
 import os
 import getopt
+import codecs
 
 
 def merge(root, extension="txt"):
@@ -28,12 +29,15 @@ def merge(root, extension="txt"):
                 if not name[-len(extension):] == extension:
                     continue
                 filepath = os.path.join(path, name)
-                with open(filepath, 'r') as f:
+                with codecs.open(filepath, 'r', encoding="utf-8") as f:
                     document.append(f.read())
 
-            directory = path.split(os.path.sep)[-1]
-            filename = '{}/{}.{}'.format(root + '_merged', str(directory), str(extension))
-            with open(filename, 'w+') as f:
+            directory = os.path.join(*[folder for folder in path.split(os.path.sep) if folder not in root.split(os.path.sep)])
+            filename = '{}\\{}.{}'.format(root + '_merged', str(directory), str(extension))
+            if not os.path.exists(os.path.join(root + '_merged', directory)):
+                os.makedirs(os.path.join(root + '_merged', directory))
+            with codecs.open(filename, 'w+', encoding="utf-8") as f:
+                print(filename)
                 f.write(''.join(document))
 
 

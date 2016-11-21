@@ -23,6 +23,7 @@ Or by year (only two values are allowed: the start and end year):
 import sys
 import os
 import getopt
+import codecs
 
 OPTIONS = ["TOPIC", "YEAR"]
 
@@ -46,7 +47,7 @@ def merge(root, option, values, extension="txt"):
         document = mergeSimilarDocuments(root, searchTerm, extension)
 
         filename = '{}/{}.{}'.format(root + '_merged', str(searchTerm), str(extension))
-        with open(filename, 'w+') as f:
+        with codecs.open(filename, 'w+', encoding="utf-8") as f:
             f.write(document)
 
 def mergeSimilarDocuments(root, searchTerm, extension="txt"):
@@ -64,7 +65,7 @@ def mergeSimilarDocuments(root, searchTerm, extension="txt"):
                 continue
             filepath = os.path.join(root, name)
             if searchTerm in filepath.lower():
-                with open(filepath, 'r') as f:
+                with codecs.open(filepath, 'r', encoding="utf-8") as f:
                     document.append(f.read())
 
     return ''.join(document)
