@@ -8,6 +8,8 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 PASSWORD = ""
 EXTENSION = ".pdf"
 
+START_YEAR = 1895
+
 
 def decryptFile(path):
     """Decrypt a single PDF with the password.
@@ -24,9 +26,9 @@ def decryptFile(path):
         for pageNum in range(pdfReader.numPages):
             pdfWriter.addPage(pdfReader.getPage(pageNum))
 
-        pdfFile.close()
         resultPdf = open(path, 'wb')
         pdfWriter.write(resultPdf)
+        pdfFile.close()
         resultPdf.close()
     else:
         pdfFile.close()
@@ -38,7 +40,7 @@ def decryptFolder(root):
     for path, directories, files in os.walk(root):
         for name in files:
             # Skip non-extension matching files.
-            if not name.lower().endswith(EXTENSION):
+            if not name.lower().endswith(EXTENSION) or int(os.path.split(path)[-1]) < START_YEAR:
                 continue
             filepath = os.path.join(path, name)
             decryptFile(filepath)

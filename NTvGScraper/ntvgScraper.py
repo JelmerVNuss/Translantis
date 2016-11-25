@@ -44,7 +44,7 @@ BEGIN_PAGE = 0
 # This is the first page with a downloadable PDF. This will change as articles
 # are being added.
 BEGIN_PAGE = 593
-BEGIN_PAGE = 31040
+BEGIN_PAGE = 830
 # Update the end page to the current end page.
 END_PAGE = 31049
 ARTICLES_PER_PAGE = 10
