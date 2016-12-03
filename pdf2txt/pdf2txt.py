@@ -66,14 +66,12 @@ def ocrFolder(root, language):
     for path, directories, files in os.walk(root):
         for name in files:
             filepath = os.path.join(path, name)
-            ocrFile(filepath, language)
+            ocrFile(root, filepath, language)
 
-def ocrFile(filepath, language):
+def ocrFile(root, filepath, language):
     text = getTextFromFile(filepath, language)
 
-    filepathList = filepath.split(os.sep)
-    filepathList = [filepathList[0] + "_txt"] + [folder for folder in filepathList[1:]]
-    filepath = os.path.join(*filepathList)
+    filepath = filepath.replace(root, root + "_txt")
 
     if not os.path.exists(os.path.dirname(filepath)):
         os.makedirs(os.path.dirname(filepath))
