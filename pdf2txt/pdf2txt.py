@@ -14,6 +14,7 @@ where <root> is the specified path to the starting folder, either
              better OCR methods.
 
 A valid example is:
+    pdf2txt.py --root "./test"
     pdf2txt.py --root "./test" --language "nld"
 """
 
@@ -70,7 +71,6 @@ def ocrFolder(root, language):
 
 def ocrFile(root, filepath, language):
     text = getTextFromFile(filepath, language)
-
     filepath = filepath.replace(root, root + "_txt")
 
     if not os.path.exists(os.path.dirname(filepath)):
