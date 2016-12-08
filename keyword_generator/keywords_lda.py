@@ -173,6 +173,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
     """
     if mallet_path:
         print("Generating model with Mallet LDA ...")
+        corpus.doclist = [document.content for document in corpus.doclist]
         lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
         topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
         while any(i in topics for i in excludedTopics):
