@@ -166,14 +166,13 @@ def findDocumentName(corpus, documentID):
     """
     return corpus.doclist[documentID].filename
 
-def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, excludedTopics=[]):
+def findTopics(mallet_path, originalCorpus, corpus, dictionary, num_topics, num_words, excludedTopics=[]):
     """Return the topics found in the non-excluded documents.
     Default to using the Gensim LDA, unless a Mallet LDA application is installed
     and the execution path is given.
     """
     if mallet_path:
         print("Generating model with Mallet LDA ...")
-        corpus.doclist = [document.content for document in corpus.doclist]
         lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
         topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
         while any(i in topics for i in excludedTopics):
@@ -182,7 +181,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
             topics = [Topic(id=topics.index(topic), content=[(word, percentage) for word, percentage in topic]) for topic in topics]
             topics = [x for x in topics if x.words not in excludedTopics]
         distributions = [dist for dist in lda.load_document_topics()]
-        distributions = [Distribution(findDocumentName(c, i), distributions[i][1]) for i in range(len(distributions))]
+        distributions = [Distribution(findDocumentName(originalCorpus, i), distributions[i][1]) for i in range(len(distributions))]
     else:
         print("Generating model with Gensim LDA ...")
         lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
@@ -202,7 +201,7 @@ def findTopics(mallet_path, c, corpus, dictionary, num_topics, num_words, exclud
         newDistributions = []
         for distribution in distributions:
             content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
-            newDistribution = Distribution(filename=findDocumentName(c, distributions.index(distribution)), content=content)
+            newDistribution = Distribution(filename=findDocumentName(originalCorpus, distributions.index(distribution)), content=content)
             newDistributions.append(newDistribution)
         distributions = newDistributions
 
@@ -291,7 +290,7 @@ def main():
     else:
         no_above = float(no_above)
 
-    global c
+    global originalCorpus
     global corpus, dictionary
 
     topics = []
@@ -305,13 +304,13 @@ def main():
     isFinishedInput = None
     while not isFinishedInput in AFFIRMATION:
         exceptFiles = createExceptionFilesList(distributions, excludedTopics, removeDocumentsPercentage)
-        c = cp.Corpus(DOC_FOLDER, STOP_FOLDER, doc_length,
-                      removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
-                      exceptFiles=exceptFiles,
-                      no_below=no_below, no_above=no_above)
-        corpus, dictionary = c.load()
+        originalCorpus = cp.Corpus(DOC_FOLDER, STOP_FOLDER, doc_length,
+                                   removeNonAlphabetic=removeNonAlphabetic, removeUnique=removeUnique,
+                                   exceptFiles=exceptFiles,
+                                   no_below=no_below, no_above=no_above)
+        corpus, dictionary = originalCorpus.load()
 
-        topics, distributions, excludedTopics = findTopics(mallet_path, c, corpus, dictionary,
+        topics, distributions, excludedTopics = findTopics(mallet_path, originalCorpus, corpus, dictionary,
                                                            num_topics, num_words,
                                                            excludedTopics=[])
 
