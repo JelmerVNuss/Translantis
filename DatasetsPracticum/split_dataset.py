@@ -39,14 +39,29 @@ for document in documents:
         writeFile.write(document)
 
 
+MONTHS_DUTCH = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
+MONTHS_ENGLISH = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+MONTHS_DUTCH_CAPITAL = [month.capitalize() for month in MONTHS_DUTCH]
+MONTHS_ENGLISH_CAPITAL = [month.capitalize() for month in MONTHS_ENGLISH]
 
 
-MONTHS = "(januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december)"
-MONTHS_ENGLISH = "(january|february|march|april|may|june|july|august|september|october|november|december)"
-dateExpression = r"\d\d* \d\d \d\d\d\d"
-dateExpression = r"\d\d* {} \d\d\d\d".format(MONTHS)
+MONTHS = list(set(MONTHS_DUTCH + MONTHS_DUTCH_CAPITAL + MONTHS_ENGLISH + MONTHS_ENGLISH_CAPITAL))
+
+reMonth = []
+for month in MONTHS:
+    reMonth.append(r"\d\d* {} \d\d\d\d".format(month))
+dateExpression = "(" + '|'.join(reMonth) + ")"
 
 print(dateExpression)
 
+distributionDates = []
 for document in documents:
-    print(re.findall(dateExpression, document))
+    allDates = re.findall(dateExpression, document)
+    # Select the first date in the article and assume it is the distribution date.
+    try:
+        distributionDate = allDates[0]
+    except IndexError:
+        distributionDate = "Missing date"
+    distributionDates.append(distributionDate)
+
+print(distributionDates)
