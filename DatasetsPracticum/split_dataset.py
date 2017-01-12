@@ -39,6 +39,15 @@ for document in documents:
         writeFile.write(document)
 
 
+documentSplit = documents[0].split('\n')
+documentSplit = list(filter(None, documentSplit))
+
+lengthItem = next((s for s in documentSplit if 'LENGTH:' in s), None)
+lengthIndex = documentSplit.index(lengthItem)
+# The text is stored in the strings one after the one that says LENGTH: xxx woorden
+text = ' '.join(documentSplit[lengthIndex+1:]))
+
+
 MONTHS_DUTCH = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 MONTHS_ENGLISH = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 MONTHS_DUTCH_CAPITAL = [month.capitalize() for month in MONTHS_DUTCH]
@@ -52,7 +61,7 @@ for month in MONTHS:
     reMonth.append(r"\d\d* {} \d\d\d\d".format(month))
 dateExpression = "(" + '|'.join(reMonth) + ")"
 
-print(dateExpression)
+#print(dateExpression)
 
 distributionDates = []
 for document in documents:
@@ -64,4 +73,4 @@ for document in documents:
         distributionDate = "Missing date"
     distributionDates.append(distributionDate)
 
-print(distributionDates)
+#print(distributionDates)
