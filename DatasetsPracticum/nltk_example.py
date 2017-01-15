@@ -16,3 +16,7 @@ fdist = nltk.FreqDist(words)
 
 for word, frequency in fdist.most_common(50):
     print(u'{}\t{}'.format(word, frequency))
+
+
+# From http://www.nltk.org/book/ch05.html
+print(nltk.pos_tag(words))
