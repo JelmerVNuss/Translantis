@@ -6,6 +6,30 @@ import re
 DOCUMENTS_FOLDER = "./documents"
 
 
+class Date:
+    def __init__(self, day, month, year):
+        self.day = day
+        self.month = month
+        self.year = year
+
+    def __repr__(self):
+        return "{} {} {}".format(self.day, self.month, self.year)
+
+    def isValid(self):
+        return self.day != -1 and self.month != -1 and self.year != -1
+
+class Document:
+    def __init__(self, title, date, body):
+        self.title = title
+        self.date = date
+        self.body = body
+
+    def __repr__(self):
+        MAX_LENGTH = 100
+        body = self.body if len(self.body) < MAX_LENGTH else self.body[:MAX_LENGTH]
+        return "{}, {}: {}".format(self.title, self.date, body)
+
+
 lines = []
 with open('dataset.txt', 'r') as f:
     lines = f.read()
@@ -45,7 +69,7 @@ documentSplit = list(filter(None, documentSplit))
 lengthItem = next((s for s in documentSplit if 'LENGTH:' in s), None)
 lengthIndex = documentSplit.index(lengthItem)
 # The text is stored in the strings one after the one that says LENGTH: xxx woorden
-text = ' '.join(documentSplit[lengthIndex+1:]))
+text = ' '.join(documentSplit[lengthIndex+1:])
 
 
 MONTHS_DUTCH = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
@@ -70,7 +94,33 @@ for document in documents:
     try:
         distributionDate = allDates[0]
     except IndexError:
-        distributionDate = "Missing date"
+        distributionDate = ""
     distributionDates.append(distributionDate)
 
 #print(distributionDates)
+
+
+def createDate(dateString):
+    """A dateString is of the following format:
+        dd month yyyy
+    Return a Date that has a selectable day, month and year.
+    """
+    try:
+        dateStringSplit = dateString.split(" ")
+        return Date(dateStringSplit[0], dateStringSplit[1], dateStringSplit[2])
+    except IndexError:
+        return Date(-1, -1, -1)
+
+#TODO insert title
+documents = [Document("", createDate(distributionDates[documents.index(document)]), document) for document in documents]
+documents = [document for document in documents if document.date.isValid()]
+
+
+perYearRoot = 'per_year'
+if not os.path.exists(perYearRoot):
+    os.makedirs(perYearRoot)
+
+for document in documents:
+    with open("{}/{}.txt".format(perYearRoot, document.date.year), "a+") as outputFile:
+        outputFile.write(document.title + "\n\n")
+        outputFile.write(document.body + "\n\n\n")
