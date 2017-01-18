@@ -19,4 +19,31 @@ for word, frequency in fdist.most_common(50):
 
 
 # From http://www.nltk.org/book/ch05.html
-print(nltk.pos_tag(words))
+taggedWords = nltk.pos_tag(words)
+print(taggedWords)
+
+
+import nltk.collocations
+import collections
+
+bgm = nltk.collocations.BigramAssocMeasures()
+finder = nltk.collocations.BigramCollocationFinder.from_words(taggedWords)
+scored = finder.score_ngrams(bgm.likelihood_ratio)
+
+# Filter to contain only NN
+scored = [x for x in scored if x[0][0][1] == 'NN']
+print(scored)
+
+# Group bigrams by first word in bigram.
+prefix_keys = collections.defaultdict(list)
+for key, scores in scored:
+    prefix_keys[key[0]].append((key[1], scores))
+
+# Sort keyed bigrams by strongest association.
+for key in prefix_keys:
+    prefix_keys[key].sort(key = lambda x: -x[1])
+
+print(scored)
+
+print('zaterdag', prefix_keys[('zaterdag', 'NN')][:5])
+print('president', prefix_keys[('president', 'NN')][:5])
