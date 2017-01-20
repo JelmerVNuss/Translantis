@@ -65,6 +65,10 @@ import collections
 
 bgm = nltk.collocations.BigramAssocMeasures()
 finder = nltk.collocations.BigramCollocationFinder.from_words(taggedWords)
+# Scored is a list of bigram tuples and their likelihood ratio:
+#   [((('word1', 'tag1'), ('word2', 'tag2')), likelihood ratio), ...]
+# For example:
+#   [((('de', 'IN'), ('president', 'NN'), 0.019015), ...]
 scored = finder.score_ngrams(bgm.likelihood_ratio)
 
 # Filter to contain only NN.

@@ -2,9 +2,7 @@ import os
 import sys
 import re
 
-
 DOCUMENTS_FOLDER = "./documents"
-
 
 class Date:
     def __init__(self, day, month, year):
@@ -30,12 +28,15 @@ class Document:
         return "{}, {}: {}".format(self.title, self.date, body)
 
 
+# ---------- Interesting code starts here --------------------------------------
+# Read the downloaded dataset file and store in variable 'lines'.
 lines = []
 with open('dataset.txt', 'r') as f:
     lines = f.read()
 
 # newDocumentExpression matches text of the form: "123 of 200 DOCUMENTS".
 # \d matches digits [0-9].
+# For more regular expressions, see re_example.py
 newDocumentExpression = r"\b\d+\b of \d\d\d DOCUMENTS"
 
 # Split the document in several documents based on the newDocumentExpression.
@@ -54,9 +55,11 @@ print("The amount of documents found is: {}".format(len(documents)))
 documents = [document.strip() for document in documents]
 
 
+# Create the folder where individual documents are stored.
 if not os.path.exists(DOCUMENTS_FOLDER):
     os.makedirs(DOCUMENTS_FOLDER)
 
+# Write the documents to individual files as '[number].txt'
 for document in documents:
     index = documents.index(document) + 1
     with open('{}/{}.txt'.format(DOCUMENTS_FOLDER, index), 'w+') as writeFile:
@@ -72,14 +75,15 @@ lengthIndex = documentSplit.index(lengthItem)
 text = ' '.join(documentSplit[lengthIndex+1:])
 
 
+# Create lists of all possible months to check for.
 MONTHS_DUTCH = ["januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 MONTHS_ENGLISH = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 MONTHS_DUTCH_CAPITAL = [month.capitalize() for month in MONTHS_DUTCH]
 MONTHS_ENGLISH_CAPITAL = [month.capitalize() for month in MONTHS_ENGLISH]
 
-
 MONTHS = list(set(MONTHS_DUTCH + MONTHS_DUTCH_CAPITAL + MONTHS_ENGLISH + MONTHS_ENGLISH_CAPITAL))
 
+# Add a regular subexpression for each month to the general regular expression.
 reMonth = []
 for month in MONTHS:
     reMonth.append(r"\d\d* {} \d\d\d\d".format(month))
@@ -113,6 +117,7 @@ def createDate(dateString):
 
 #TODO insert title
 documents = [Document("", createDate(distributionDates[documents.index(document)]), document) for document in documents]
+# Remove documents with an invalid date, these cannot be labelled properly.
 documents = [document for document in documents if document.date.isValid()]
 
 
@@ -120,6 +125,8 @@ perYearRoot = 'per_year'
 if not os.path.exists(perYearRoot):
     os.makedirs(perYearRoot)
 
+# Use the documents' date to create yearly documents containing the title and
+# body of each article.
 for document in documents:
     with open("{}/{}.txt".format(perYearRoot, document.date.year), "a+") as outputFile:
         outputFile.write(document.title + "\n\n")
