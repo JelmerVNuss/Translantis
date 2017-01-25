@@ -37,7 +37,7 @@ with open('dataset.txt', 'r') as f:
 # newDocumentExpression matches text of the form: "123 of 200 DOCUMENTS".
 # \d matches digits [0-9].
 # For more regular expressions, see re_example.py
-newDocumentExpression = r"\b\d+\b of \d\d\d DOCUMENTS"
+newDocumentExpression = r"\b\d+\b of \b\d+\b DOCUMENTS"
 
 # Split the document in several documents based on the newDocumentExpression.
 # Skip the first element (index 0) as it contains all text BEFORE the first document.
