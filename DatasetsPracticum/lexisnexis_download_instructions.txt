@@ -1,0 +1,35 @@
+Go to LexisNexis via the UU proxy (use student ID + password to login):
+http://bibe.library.uu.nl/zoek/biblio/index.php?recid=685&lang=nl
+
+Click on 'Power Search' on the left menu bar.
+
+Enter all the search information you want (at least 'search terms').
+
+Now some results are shown.
+There is a maximum of 1000 results.
+
+To download the results, click on the Download button just above the list of results.
+
+A download helper opens.
+Under Download Options:
+- Use 'Selected Items' and enter 1-200.
+- Make sure 'Document view' is set to 'Full Text'.
+Under Page Options:
+- Untick 'Cover Page'.
+- Tick 'Each Document on a New Page'.
+Under Format Options:
+- Set Document format to 'Text'.
+- Untick 'Search Terms in Bold Type'.
+Now click the Download button.
+
+Repeat this process but replace 'Selected Items' with:
+201-400
+401-600
+601-800
+801-1000
+You should have now 5 files collectively containing all 1000 results.
+
+Manually copy-paste the contents (CTRL+A to select all) of each file (in order!) to a new file called
+dataset.txt
+
+This file is now ready to be processed using split_dataset.py
