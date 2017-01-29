@@ -66,13 +66,28 @@ for document in documents:
         writeFile.write(document)
 
 
-documentSplit = documents[0].split('\n')
-documentSplit = list(filter(None, documentSplit))
+titles = []
+for document in documents:
+    documentSplit = document.split('\n')
+    documentSplit = list(filter(None, documentSplit))
 
-lengthItem = next((s for s in documentSplit if 'LENGTH:' in s), None)
-lengthIndex = documentSplit.index(lengthItem)
-# The text is stored in the strings one after the one that says LENGTH: xxx woorden
-text = ' '.join(documentSplit[lengthIndex+1:])
+    lengthItem = next((s for s in documentSplit if 'LENGTH:' in s), None)
+    lengthIndex = documentSplit.index(lengthItem)
+    # The text is stored in the string one before the one that says LENGTH: xxx woorden
+    title = documentSplit[lengthIndex-1]
+    titles.append(title)
+
+
+bodies = []
+for document in documents:
+    documentSplit = document.split('\n')
+    documentSplit = list(filter(None, documentSplit))
+
+    lengthItem = next((s for s in documentSplit if 'LENGTH:' in s), None)
+    lengthIndex = documentSplit.index(lengthItem)
+    # The text is stored in the strings one after the one that says LENGTH: xxx woorden
+    text = ' '.join(documentSplit[lengthIndex+1:])
+    bodies.append(text)
 
 
 # Create lists of all possible months to check for.
@@ -115,8 +130,8 @@ def createDate(dateString):
     except IndexError:
         return Date(-1, -1, -1)
 
-#TODO insert title
-documents = [Document("", createDate(distributionDates[documents.index(document)]), document) for document in documents]
+
+documents = [Document(titles[documents.index(document)], createDate(distributionDates[documents.index(document)]), bodies[documents.index(document)]) for document in documents]
 # Remove documents with an invalid date, these cannot be labelled properly.
 documents = [document for document in documents if document.date.isValid()]
 
