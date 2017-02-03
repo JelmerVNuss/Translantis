@@ -1,7 +1,7 @@
 # Information on how to use regular expressions with Python:
 #   https://www.debuggex.com/cheatsheet/regex/python
 
-# Visual aids provided here:
+# Visual aids (which strings match an expression?) provided here:
 #   http://regexr.com/
 
 
@@ -23,7 +23,7 @@ newDocumentExpression = r"\d\d of \d\d\d DOCUMENTS"
 # Where number and maximum_number are both sequences of at least 1 digit.
 newDocumentExpression = r"\d+ of \d+ DOCUMENTS"
 
-# Step 3:
+# Step 4:
 # Remove any remaining faults:
 # The above expression will match:
 #   54 of 200 DOCUMENTS
