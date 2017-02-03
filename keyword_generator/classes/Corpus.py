@@ -57,7 +57,7 @@ def get_documents(path, doc_length, removeNonAlphabetic=False, removeUnique=Fals
 # Split large documents into smaller parts
 def splitter(n, s):
     pieces = s.split()
-    return (" ".join(pieces[i:i+n]) for i in xrange(0, len(pieces), n))
+    return (" ".join(pieces[i:i+n]) for i in range(0, len(pieces), n))
 
 def removeNonAlphabeticWords(text):
     """

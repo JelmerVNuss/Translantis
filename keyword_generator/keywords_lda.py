@@ -59,8 +59,7 @@ def excludeTopics(topics):
     if response == "":
         return topics
     excl_topics = response.split(",")
-    for i in range(len(excl_topics)):
-        excl_topics[i] = int(excl_topics[i])
+    excl_topics = [int(i) for i in excl_topics]
     excl_topics.sort(reverse=True)
     for i in excl_topics:
         try:
@@ -175,13 +174,13 @@ def findTopics(mallet_path, originalCorpus, corpus, dictionary, num_topics, num_
         print("Generating model with Mallet LDA ...")
         lda = gensim.models.wrappers.LdaMallet(mallet_path, corpus=corpus, id2word=dictionary, num_topics=num_topics)
         topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
+        topics = [Topic(id=topics.index(topic), content=[(word, percentage) for percentage, word in topic]) for topic in topics]
         while any(i in topics for i in excludedTopics):
             num_topics += 1
             topics = lda.show_topics(num_topics=num_topics, num_words=num_words, formatted=False)
-            topics = [Topic(id=topics.index(topic), content=[(word, percentage) for word, percentage in topic]) for topic in topics]
+            topics = [Topic(id=topics.index(topic), content=[(word, percentage) for percentage, word in topic]) for topic in topics]
             topics = [x for x in topics if x.words not in excludedTopics]
         distributions = [dist for dist in lda.load_document_topics()]
-        distributions = [Distribution(findDocumentName(originalCorpus, i), distributions[i][1]) for i in range(len(distributions))]
     else:
         print("Generating model with Gensim LDA ...")
         lda = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=num_topics, alpha='auto', chunksize=1, eval_every=1)
@@ -198,12 +197,13 @@ def findTopics(mallet_path, originalCorpus, corpus, dictionary, num_topics, num_
         for i in range(matrix.get_shape()[1]):
             bow = gensim.matutils.scipy2sparse(matrix.getcol(i).transpose())
             distributions.append(lda.get_document_topics(bow, 0))
-        newDistributions = []
-        for distribution in distributions:
-            content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
-            newDistribution = Distribution(filename=findDocumentName(originalCorpus, distributions.index(distribution)), content=content)
-            newDistributions.append(newDistribution)
-        distributions = newDistributions
+
+    newDistributions = []
+    for distribution in distributions:
+        content = [([topic for topic in topics if topic.id == topicID][0], percentage) for topicID, percentage in distribution]
+        newDistribution = Distribution(filename=findDocumentName(originalCorpus, distributions.index(distribution)), content=content)
+        newDistributions.append(newDistribution)
+    distributions = newDistributions
 
     allTopics = list(topics)
     topics = excludeTopics(topics)
