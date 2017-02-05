@@ -101,7 +101,10 @@ MONTHS = list(set(MONTHS_DUTCH + MONTHS_DUTCH_CAPITAL + MONTHS_ENGLISH + MONTHS_
 # Add a regular subexpression for each month to the general regular expression.
 reMonth = []
 for month in MONTHS:
+    # Expression for dd-mm-yyyy
     reMonth.append(r"\d\d* {} \d\d\d\d".format(month))
+    # Expression for mm-dd-yyyy
+    reMonth.append(r"{} \d\d* \d\d\d\d".format(month))
 dateExpression = "(" + '|'.join(reMonth) + ")"
 
 #print(dateExpression)
