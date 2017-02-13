@@ -2,7 +2,9 @@ import os
 import sys
 import re
 
+# Set the folder in which individual files will be stored.
 DOCUMENTS_FOLDER = "./documents"
+
 
 class Date:
     def __init__(self, day, month, year):
@@ -51,8 +53,24 @@ documents = re.split(newDocumentExpression, lines)[1:]
 # The length (amount) of list of documents should equal the amount of documents.
 print("The amount of documents found is: {}".format(len(documents)))
 
-
+# Remove the leading/trailing whitespace from the documents.
 documents = [document.strip() for document in documents]
+
+# Remove all hyperlink-like text from the documents.
+# Removes hyperlinks of the form:
+#    http://www.standaard.be/cnt/dmf20161129_02597674
+# but also:
+#    https://www.rijksoverheid.nl/actueel/nieuws/2016/11/03/minister-president
+#                      -rutte-verzorgt-de-preek-van-de-leek
+# but only the first line of:
+#    http://www.hln.be/hln/nl/4125/Internet/article/detail/2972254/2016/11/10/
+#                                   President
+# -Trump-mag-twittervolgers-van-POTUS-houden.dhtml?utm_medium=rss&utm_content=ihln
+#                 ophlnbehetallerlaatstenieuwsoverinternetgames
+# If you can do any better, let me know :)
+hyperlinkExpression = r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b(([-a-zA-Z0-9@:%_\+.~#?&//=]|\s*-)*)"
+for document in documents:
+    document = re.sub(hyperlinkExpression, '', document)
 
 
 # Create the folder where individual documents are stored.
@@ -134,16 +152,18 @@ def createDate(dateString):
         return Date(-1, -1, -1)
 
 
+# Create document objects for each document (for easier access to title, body and date).
 documents = [Document(titles[documents.index(document)], createDate(distributionDates[documents.index(document)]), bodies[documents.index(document)]) for document in documents]
 # Remove documents with an invalid date, these cannot be labelled properly.
 documents = [document for document in documents if document.date.isValid()]
 
 
+# Create a new folder for the per_year data.
 perYearRoot = 'per_year'
 if not os.path.exists(perYearRoot):
     os.makedirs(perYearRoot)
 
-# Use the documents' date to create yearly documents containing the title and
+# Use the documents' dates to create yearly documents containing the title and
 # body of each article.
 for document in documents:
     with open("{}/{}.txt".format(perYearRoot, document.date.year), "a+") as outputFile:

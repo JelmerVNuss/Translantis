@@ -21,6 +21,7 @@ import nltk
 # From http://www.nltk.org/book/ch02.html 1.9 Loading your own Corpus
 
 from nltk.corpus import PlaintextCorpusReader
+# Use the following root folder that contains the documents of interest.
 corpusRoot = './per_year'
 # Put all files in the root folder in a corpus.
 wordlists = PlaintextCorpusReader(corpusRoot, '.*')
@@ -71,7 +72,7 @@ finder = nltk.collocations.BigramCollocationFinder.from_words(taggedWords)
 #   [((('de', 'IN'), ('president', 'NN'), 0.019015), ...]
 scored = finder.score_ngrams(bgm.likelihood_ratio)
 
-# Filter to contain only NN.
+# Filter to contain only words tagged as NN.
 scored = [x for x in scored if x[0][0][1] == 'NN']
 # Show the first 5 bigrams.
 print("\nThe first bigrams found:")
@@ -83,6 +84,7 @@ for key, scores in scored:
     prefixKeys[key[0]].append((key[1], scores))
 
 # Sort keyed bigrams by strongest association.
+# Highly associated bigrams are placed first.
 for key in prefixKeys:
     prefixKeys[key].sort(key = lambda x: -x[1])
 
@@ -90,6 +92,6 @@ print("\nThe best bigrams ordered by score:")
 print(scored[:5])
 
 # Search the collocations for these words where they appear as NN.
-print("\nThe collocations found:")
+print("\nThe top 5 collocations found:")
 print('zaterdag', prefixKeys[('zaterdag', 'NN')][:5])
 print('president', prefixKeys[('president', 'NN')][:5])
