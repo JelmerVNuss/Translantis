@@ -1,0 +1,7 @@
+[
+ {"datatype": "searchstring", "field": "searchstring", "unique": true, "type": "text"},
+ {"datatype": "categorical", "field": "type", "unique": false, "type": "text"},
+ {"datatype": "categorical", "field": "author", "unique": false, "type": "text"},
+ {"datatype": "categorical", "field": "genre", "unique": false, "type": "text"},
+ {"datatype": "time", "field": "date_month", "unique": true, "type": "integer"}
+]
