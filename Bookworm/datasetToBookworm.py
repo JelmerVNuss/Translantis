@@ -3,10 +3,12 @@ import shutil
 
 
 ROOT = "Elseviers_Magazine_txt"
+SEARCHSTRING_LENGTH = 50
 
 
 # Extract the metadata.
 dates = {}
+searchstrings = {}
 folders = [ROOT] + ["{}/{}".format(ROOT, year) for year in range(2007, 2011+1)]
 for folder in folders:
     for filename in os.listdir(folder):
@@ -14,6 +16,14 @@ for folder in folders:
         if extension == ".txt":
             year, month, day = filename[-8:-4], filename[-4:-2], filename[-2:]
             dates[filename] = "-".join([year, month, day])
+
+            with open("{}/{}{}".format(folder, filename, extension), "r", encoding="utf-8") as f:
+                try:
+                    searchstring = f.readline()[:SEARCHSTRING_LENGTH]
+                except KeyError:
+                    searchsting = f.readline()
+                searchstrings[filename] = searchstring
+
 
 if not os.path.exists('elsevier/metadata'):
     os.makedirs('elsevier/metadata')
@@ -38,9 +48,9 @@ for filename in os.listdir(ROOT):
         with open('elsevier/metadata/jsoncatalog.txt', 'a+') as jsonFile:
             filenameMeta = '"filename": "{}"'.format(filename)
             dateMeta = '"date": "{}"'.format(dates[filename])
-            metadata = [filenameMeta, dateMeta]
+            searchstringMeta = '"searchstring": "{}"'.format(searchstrings[filename])
+            metadata = [filenameMeta, dateMeta, searchstringMeta]
             jsonEntry = "{{{}}}\n".format(", ".join(metadata))
-            #(jsonEntry)
             jsonFile.write(jsonEntry)
         originalPath = '{}/{}{}'.format(ROOT, filename, extension)
         destinationPath = 'elsevier/texts/raw/{}'.format(filename + '.txt')
