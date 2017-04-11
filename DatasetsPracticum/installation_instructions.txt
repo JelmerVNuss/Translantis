@@ -1,0 +1,44 @@
+Follow the instructions here to install Jupyter Notebook
+https://jupyter.readthedocs.io/en/latest/install.html
+The documentation is also helpful if you want more information.
+
+Jupyter Notebook is installed via Anaconda, a platform that automatically
+installs Python and the Natural Language ToolKit (NLTK) as well.
+https://www.continuum.io/downloads
+The installation might take a while (15+ minutes), so prepare this in advance.
+It installs tons of other useful libraries and dependencies that serve NLTK,
+but that are also useful for your other, future projects with Python.
+
+Make sure to use the Python 3.6 version of Anaconda, for the correct bit-version
+of your computer.
+If you're not sure what your bit-version is, try http://whatsmyos.com/
+Otherwise Google 'what bit version is my computer'.
+
+Run the setup file of Anaconda.
+Leave everything at default, and make sure that
+- Add Anaconda to my PATH environment variable
+- Register Anaconda as my default Python 3.6
+are checked (this is by default).
+This removes one potential source of errors.
+
+After installation, open a terminal (Google 'open terminal [operating system]')
+and try:
+jupyter notebook
+
+This should launch the application, now the installation is successful.
+
+Download the Notebook files and launch Jupyter.
+Navigate to a file and open it.
+Or ask for cool terminal tricks to avoid the manual navigation.
+
+Note that from now on everything you do and changes you make is local.
+This means that your files will be different from others' and the original files,
+so results and errors might vary.
+In case of a total disaster, you can redownload the original files and start over.
+
+Advanced note: we use Jupyter Notebook as it allows for tutorial-style coding
+and splits up the code into separately runnable parts more easily.
+If you prefer using Python in its original form (using some editor and running
+scripts from the command line), this is also possible through Anaconda.
+It will be clunky to work with, as all code is ran at once, but it might be more
+flexible for your own projects.
