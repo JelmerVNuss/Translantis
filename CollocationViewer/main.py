@@ -41,26 +41,57 @@ def getFilepaths(rootFolder):
     return filepaths
 
 
-def getCollocationRelations():
+def getCollocationRelations(collocationEntries):
     collocationRelations = {}
     for word in words:
         collocationScores = {}
         for neighbour in listWithoutItem(words, word):
-            collocationScore = getCollocationScore()
+            collocationScore = getCollocationScore(collocationEntries, word, neighbour)
             collocationScores[neighbour] = collocationScore
         collocationRelations[word] = collocationScores
     return collocationRelations
 
 
-def getCollocationScore():
-    collocationScore = 0.0
+def getCollocationScore(collocationEntries, word, neighbour):
+    try:
+        neighbour = [collocationEntry for collocationEntry in collocationEntries[word] if neighbour in collocationEntry][0]
+        # The collocation score is the second to last parameter
+        collocationScore = neighbour[-2]
+    except:
+        collocationScore = 0.0
     return collocationScore
+
+
+def readCollocationEntries(filepaths, words, word, year):
+    filepath = [filepath for filepath in filepaths[word] if year in os.path.basename(filepath)][0]
+    lines = []
+    with open(filepath, 'r') as f:
+        lines = f.read()
+    # Create a list for each datum entry
+    lines = lines.split('\n')
+    # Each item in the entry is tab-separated
+    lines = [line.split('\t') for line in lines]
+    # Remove the top two indicator lines (number of collocate types and number of collocate tokens)
+    lines = lines[2:]
+    collocationEntries = matchCollocationWords(lines, words)
+    return collocationEntries
+
+
+def matchCollocationWords(collocationEntries, words):
+    collocationEntries = [collocationEntry for collocationEntry in collocationEntries if collocationEntry[-1] in words]
+    return collocationEntries
 
 
 words = extractWordsOfInterest(ROOT_FOLDER)
 filepaths = getFilepaths(ROOT_FOLDER)
+year = '1960'
 print(words)
 print(filepaths)
-collocationRelations = getCollocationRelations()
-print(collocationRelations)
 
+collocationEntries = {}
+for word in words:
+    collocationEntries[word] = readCollocationEntries(filepaths, words, word, year)
+print(collocationEntries)
+
+collocationRelations = getCollocationRelations(collocationEntries)
+print(collocationRelations)
