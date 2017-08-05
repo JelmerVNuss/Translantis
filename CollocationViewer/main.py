@@ -1,6 +1,8 @@
 import os
 from util import listWithoutItem
 
+from drawCollocations import drawCollocations
+
 ROOT_FOLDER = "AntConc analyse ESB"
 
 
@@ -56,14 +58,14 @@ def getCollocationScore(collocationEntries, word, neighbour):
     try:
         neighbour = [collocationEntry for collocationEntry in collocationEntries[word] if neighbour in collocationEntry][0]
         # The collocation score is the second to last parameter
-        collocationScore = neighbour[-2]
+        collocationScore = float(neighbour[-2])
     except:
         collocationScore = 0.0
     return collocationScore
 
 
 def readCollocationEntries(filepaths, words, word, year):
-    filepath = [filepath for filepath in filepaths[word] if year in os.path.basename(filepath)][0]
+    filepath = [filepath for filepath in filepaths[word] if str(year) in os.path.basename(filepath)][0]
     lines = []
     with open(filepath, 'r') as f:
         lines = f.read()
@@ -84,14 +86,33 @@ def matchCollocationWords(collocationEntries, words):
 
 words = extractWordsOfInterest(ROOT_FOLDER)
 filepaths = getFilepaths(ROOT_FOLDER)
-year = '1960'
+
 print(words)
 print(filepaths)
 
-collocationEntries = {}
-for word in words:
-    collocationEntries[word] = readCollocationEntries(filepaths, words, word, year)
-print(collocationEntries)
+yearRange = range(1945, 1980)
 
-collocationRelations = getCollocationRelations(collocationEntries)
-print(collocationRelations)
+collocationRelationsPerYear = {}
+for year in yearRange:
+    collocationEntries = {}
+    for word in words:
+        collocationEntries[word] = readCollocationEntries(filepaths, words, word, year)
+    #print(collocationEntries)
+
+    collocationRelations = getCollocationRelations(collocationEntries)
+    #print(collocationRelations)
+
+    collocationRelationsPerYear[year] = collocationRelations
+
+
+wordCountsPerYear = {}
+for year in yearRange:
+    wordCounts = {}
+    for word in words:
+        #TODO implement counting words from the words files
+        #wordCounts[word] = countWords(filepaths, words, word, year)
+        pass
+    wordCountsPerYear[year] = wordCounts
+
+
+drawCollocations(collocationRelationsPerYear[1968])
