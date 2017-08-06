@@ -105,14 +105,30 @@ for year in yearRange:
     collocationRelationsPerYear[year] = collocationRelations
 
 
+def countWord(filepath, word):
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+        # Remove header lines
+        lines = lines[3:]
+        # Split on tabs and remove new line at the end
+        lines = [line.split('\t')[:-1] for line in lines]
+        wordMatches = [line for line in lines if line[2] == word]
+        count = 0
+        for wordMatch in wordMatches:
+            count += int(wordMatch[1])
+        return count
+
+
 wordCountsPerYear = {}
 for year in yearRange:
     wordCounts = {}
     for word in words:
+        filename = "{}_words.txt".format(year)
+        filepath = os.path.join(ROOT_FOLDER, filename)
         #TODO implement counting words from the words files
-        #wordCounts[word] = countWords(filepaths, words, word, year)
-        pass
+        wordCounts[word] = countWord(filepath, word)
     wordCountsPerYear[year] = wordCounts
 
 
-drawCollocations(collocationRelationsPerYear[1968])
+year = 1964
+drawCollocations(collocationRelationsPerYear[year], wordCountsPerYear[year])
