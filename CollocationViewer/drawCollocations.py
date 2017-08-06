@@ -13,5 +13,13 @@ def drawCollocations(collocationRelations, wordCounts):
 
     #positions = nx.circular_layout(graph)
     positions = nx.spring_layout(graph)
-    nx.draw(graph, positions, with_labels=True)
+
+    edgeLabels = nx.get_edge_attributes(graph, 'weight')
+
+    nx.draw_networkx_nodes(graph, positions, nodelist=graph.nodes())
+    nx.draw_networkx_edges(graph, positions, edgelist=graph.edges())
+    nx.draw_networkx_labels(graph, positions)
+    nx.draw_networkx_edge_labels(graph, positions, edge_labels=edgeLabels)
+
+    plt.axis('off')
     plt.show()
