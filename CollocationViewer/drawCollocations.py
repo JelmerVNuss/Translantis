@@ -1,4 +1,5 @@
 import networkx as nx
+from scipy.interpolate import interp1d
 import matplotlib.pyplot as plt
 
 
@@ -15,8 +16,13 @@ def drawCollocations(collocationRelations, wordCounts):
     positions = nx.spring_layout(graph)
 
     edgeLabels = nx.get_edge_attributes(graph, 'weight')
+    nodeSizes = list(wordCounts.values())
+    # Scale up the node size
+    scale = interp1d([min(nodeSizes), max(nodeSizes)], [100, 1000])
+    nodeSizes = [scale(nodeSize) for nodeSize in nodeSizes]
+    print(nodeSizes)
 
-    nx.draw_networkx_nodes(graph, positions, nodelist=graph.nodes())
+    nx.draw_networkx_nodes(graph, positions, nodelist=graph.nodes(), node_size=nodeSizes)
     nx.draw_networkx_edges(graph, positions, edgelist=graph.edges())
     nx.draw_networkx_labels(graph, positions)
     nx.draw_networkx_edge_labels(graph, positions, edge_labels=edgeLabels)
