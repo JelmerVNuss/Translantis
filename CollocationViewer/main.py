@@ -2,6 +2,7 @@ import os
 from util import listWithoutItem
 
 from drawCollocations import drawCollocations
+from CollocationViewerGUI import CollocationViewerGUI
 
 ROOT_FOLDER = "AntConc analyse ESB"
 
@@ -131,4 +132,13 @@ for year in yearRange:
 
 
 year = 1964
-drawCollocations(collocationRelationsPerYear[year], wordCountsPerYear[year])
+#drawCollocations(collocationRelationsPerYear[year], wordCountsPerYear[year])
+
+
+def Main():
+    app = CollocationViewerGUI()
+    app.geometry("800x600")
+    app.mainloop()
+
+if __name__ == "__main__":
+    Main()
