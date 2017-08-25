@@ -136,7 +136,7 @@ year = 1964
 
 
 def Main():
-    app = CollocationViewerGUI()
+    app = CollocationViewerGUI(collocationRelationsPerYear, wordCountsPerYear)
     app.geometry("800x600")
     app.mainloop()
 
