@@ -4,7 +4,7 @@ from util import listWithoutItem
 from drawCollocations import drawCollocations
 from CollocationViewerGUI import CollocationViewerGUI
 
-ROOT_FOLDER = "AntConc analyse ESB"
+ROOT_FOLDER = "data"
 
 
 def extractWordsOfInterest(rootFolder):
@@ -24,7 +24,7 @@ def extractDirectoryWord(directory):
     directory = os.path.basename(directory)
     try:
         directoryWord = directory.split(" ")[2].lower()
-    except KeyError:
+    except IndexError:
         directoryWord = ""
     return directoryWord
 
@@ -88,8 +88,8 @@ def matchCollocationWords(collocationEntries, words):
 words = extractWordsOfInterest(ROOT_FOLDER)
 filepaths = getFilepaths(ROOT_FOLDER)
 
-print(words)
-print(filepaths)
+#print(words)
+#print(filepaths)
 
 yearRange = range(1945, 1980)
 
@@ -126,18 +126,17 @@ for year in yearRange:
     for word in words:
         filename = "{}_words.txt".format(year)
         filepath = os.path.join(ROOT_FOLDER, filename)
-        #TODO implement counting words from the words files
         wordCounts[word] = countWord(filepath, word)
     wordCountsPerYear[year] = wordCounts
 
 
-year = 1964
+#year = 1964
 #drawCollocations(collocationRelationsPerYear[year], wordCountsPerYear[year])
 
 
 def Main():
     app = CollocationViewerGUI(collocationRelationsPerYear, wordCountsPerYear)
-    app.geometry("800x600")
+    app.geometry("300x200")
     app.mainloop()
 
 if __name__ == "__main__":

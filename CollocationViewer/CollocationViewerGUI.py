@@ -42,22 +42,6 @@ class CollocationViewerGUI(tk.Tk):
         container.grid_rowconfigure(0, weight=1)
         container.grid_columnconfigure(0, weight=1)
 
-        menubar = tk. Menu(container)
-        fileMenu = tk.Menu(menubar, tearoff=0)
-        fileMenu.add_command(label="Save", command=lambda: save(self), accelerator="Ctrl+S")
-        fileMenu.add_command(label="Save as...", command=lambda: save_as(self), accelerator="Ctrl+Shift+S")
-        # fileMenu.add_command(label="Export animation as Bvh", command=lambda: showPopupMessage("Not supported yet", accelerator="Ctrl+E"))
-        fileMenu.add_separator()
-        fileMenu.add_command(label="Exit", command=quit, accelerator="Ctrl+Q")
-        menubar.add_cascade(label="File", menu=fileMenu)
-
-        helpMenu = tk.Menu(menubar, tearoff=0)
-        helpMenu.add_command(label="Help", command=lambda: showPopupMessage(
-            "Use the Generators menu to select a predefined motion generator.\nThe Generate Animation button creates and shows an animation. Use File > Save to store the results as a motion capture file."))
-        menubar.add_cascade(label="Help", menu=helpMenu)
-
-        tk.Tk.config(self, menu=menubar)
-
         self.frames = {}
 
         for frameType in (StartPage, PlotPage):
@@ -65,7 +49,7 @@ class CollocationViewerGUI(tk.Tk):
             self.frames[frameType] = frame
             frame.grid(row=0, column=0, sticky="nsew")
 
-        self.show_frame(StartPage)
+        self.show_frame(PlotPage)
 
     def show_frame(self, cont):
         frame = self.frames[cont]
@@ -87,13 +71,16 @@ class PlotPage(tk.Frame):
         global collocationRelationsPerYear, wordCountsPerYear, currentYear
 
         tk.Frame.__init__(self, parent)
-        label = ttk.Label(self, text="Plot Page", font=LARGE_FONT)
-        label.pack(pady=10, padx=10)
 
         instructions = ttk.Label(self, text="Select the year", font=SMALL_FONT)
         instructions.pack()
         entry = ttk.Entry(self)
         entry.pack()
+
+        yearMin = min(wordCountsPerYear.keys())
+        yearMax = max(wordCountsPerYear.keys())
+        yearRange = ttk.Label(self, text="Year ranges from {} to {}".format(yearMin, yearMax), font=SMALL_FONT)
+        yearRange.pack()
 
         button1 = ttk.Button(self, text="Draw Collocations", command=lambda: drawCollocations(collocationRelationsPerYear[int(entry.get())], wordCountsPerYear[int(entry.get())]))
         button1.pack()

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 def drawCollocations(collocationRelations, wordCounts):
-    # TODO use wordCounts to set size of nodes
+    plt.clf()
     graph = nx.DiGraph()
     for word1 in collocationRelations.keys():
         for word2 in collocationRelations[word1].keys():
@@ -20,7 +20,6 @@ def drawCollocations(collocationRelations, wordCounts):
     # Scale up the node size
     scale = interp1d([min(nodeSizes), max(nodeSizes)], [100, 1000])
     nodeSizes = [scale(nodeSize) for nodeSize in nodeSizes]
-    print(nodeSizes)
 
     # Source: https://stackoverflow.com/questions/11946005/label-nodes-outside-with-minimum-overlap-with-other-nodes-edges-in-networkx
     # Please note, the code below uses the original idea of re-calculating a dictionary of adjusted label positions per node.
@@ -48,4 +47,10 @@ def drawCollocations(collocationRelations, wordCounts):
     nx.draw_networkx_edge_labels(graph, positions, edge_labels=edgeLabels)
 
     plt.axis('off')
+    plot_margin = 0.10
+    x0, x1, y0, y1 = plt.axis()
+    plt.axis((x0 - (x1 * plot_margin),
+              x1 + (x1 * plot_margin),
+              y0 - (y1 * plot_margin),
+              y1 + (y1 * plot_margin)))
     plt.show()
